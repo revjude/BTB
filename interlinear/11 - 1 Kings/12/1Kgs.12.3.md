@@ -1,4 +1,4 @@
-**1 Kings 12:3** 
+**1 Kings 12:3**<big><big>[[1Kgs.12.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they sent and called him. And Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they sent for Jeroboam, and he and the whole assembly of Israel came to Rehob
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.2|<< 1 Kings 12:2]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.4|1 Kings 12:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people sent  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7971G\|יִּשְׁלְחוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.le.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקְרְאוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.re.'u-<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Esther 1:11** 
+**Esther 1:11**<big><big>[[Esth.1.9 Queen Vashti’s Refusal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To bring Vashti the queen before the king with the crown royal, to shew the people and the princes her beauty: for she [was] fair to look on.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to bring Queen Vashti before him, wearing her royal crown, to display her beauty
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.10|<< Esther 1:10]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.12|Esther 1:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to bring  |**<big>&#8207;[[H9005\|לְ֠]]&#8207;&#8207;[[H0935P\|הָבִיא]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> ha.vi'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

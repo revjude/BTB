@@ -1,4 +1,4 @@
-**2 Samuel 19:34** (19:35)
+**2 Samuel 19:34**<big><big>[[2Sam.19.31 David’s Kindness to Barzillai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Barzillai said unto the king, How long have I to live, that I should go up with the king unto Jerusalem?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Barzillai replied, “How many years of my life remain, that I should go up 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.33|<< 2 Samuel 19:33]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.35|2 Samuel 19:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Barzillai  |**<big>&#8207;[[H1271G\|בַּרְזִלַּ֖י]]&#8207; </big>**| bar.zi.Lai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

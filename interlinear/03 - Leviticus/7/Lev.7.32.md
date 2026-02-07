@@ -1,4 +1,4 @@
-**Leviticus 7:32** 
+**Leviticus 7:32**<big><big>[[Lev.7.28 The Priests’ Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the right shoulder shall ye give unto the priest [for] an heave offering of the sacrifices of your peace offerings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you are to give the right thigh to the priest as a contribution from your pe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.31|<< Leviticus 7:31]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.33|Leviticus 7:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵת֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] thigh of  |**<big>&#8207;[[H7785\|שׁ֣וֹק]]&#8207; </big>**| Shok<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

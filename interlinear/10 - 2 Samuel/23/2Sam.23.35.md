@@ -1,4 +1,4 @@
-**2 Samuel 23:35** 
+**2 Samuel 23:35**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hezrai the Carmelite, Paarai the Arbite,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hezro the Carmelite, Paarai the Arbite,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.34|<< 2 Samuel 23:34]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.36|2 Samuel 23:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Hezrai  [^1]|**<big>&#8207;[[H2695\|חֶצְרַי֙]]&#8207; </big>**[^2] | chetz.ro<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | the Carmelite  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H3761\|כַּרְמְלִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> kar.me.Li<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Esther 8:15** 
+**Esther 8:15**<big><big>[[Esth.8.7 The Decree of Xerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mordecai went out from the presence of the king in royal apparel of blue and white, and with a great crown of gold, and with a garment of fine linen and purple: and the city of Shushan rejoiced and was glad.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Mordecai went out from the presence of the king in royal garments of blue and wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.14|<< Esther 8:14]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.16|Esther 8:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Mordecai  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4782H\|מָרְדֳּכַ֞י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.re.do.Khai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went out  |**<big>&#8207;[[H3318G\|יָצָ֣א]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ya.Tza'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

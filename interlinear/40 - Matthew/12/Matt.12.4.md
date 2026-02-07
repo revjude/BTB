@@ -1,12 +1,12 @@
-**Matthew 12:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:4**<big><big>[[Matt.12.1 The Lord of the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?
 <small><sub>**BSB:**</sub></small>
 He entered the house of God, and he and his companions ate the consecrated bread, which was not lawful for them to eat, but only for the priests.
 <small><sub>**Literal:**</sub></small>
 how he entered into the house <the> of God and the loaves of the presentation they ate, that which not lawful it was for him to eat nor for those with him only except for the priests alone?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.3|<< Matthew 12:3]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.5|Matthew 12:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how |**<big>[[G4459\|πῶς]]</big>**  |pōs <small><sup>[[PRT-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he entered |**<big>[[G1525\|εἰσῆλθεν]]</big>**  |eisēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

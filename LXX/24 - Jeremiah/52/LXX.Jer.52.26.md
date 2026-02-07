@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:26** 
 <small><sub>**LXX:**</sub></small>
 And Nabuzar-ardan the chief guard took them, and he led them to \[the\] king of Babylon in Riblah. 
-<small><sub>**KJV:**</sub></small>
-So Nebuzaradan the captain of the guard took them, and brought them to the king of Babylon to Riblah.
-<small><sub>**BSB:**</sub></small>
-Nebuzaradan captain of the guard took them and brought them to the king of Babylon at Riblah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.25|<< Jeremiah 52:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.27|Jeremiah 52:27 >>]]</td></tr></table>
 
 | Translation | Greek |

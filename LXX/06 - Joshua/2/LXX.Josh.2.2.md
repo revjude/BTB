@@ -1,10 +1,7 @@
 **LXX Joshua 2:2** 
 <small><sub>**LXX:**</sub></small>
 And it was reported to the king of Jericho, saying, Men have entered here of the sons of Israel to spy out the land. 
-<small><sub>**KJV:**</sub></small>
-And it was told the king of Jericho, saying, Behold, there came men in hither to night of the children of Israel to search out the country.
-<small><sub>**BSB:**</sub></small>
-And it was reported to the king of Jericho: “Behold, some men of Israel have come here tonight to spy out the land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.1|<< Joshua 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.3|Joshua 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

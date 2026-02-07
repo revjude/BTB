@@ -1,5 +1,5 @@
-**Romans 11:1
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:1**<big><big>[[Rom.11.1 A Remnant Chosen by Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, [of] the tribe of Benjamin.
 <small><sub>**BSB:**</sub></small>
 I ask then, did God reject His people? Certainly not! I am an Israelite myself, a descendant of Abraham, from the tribe of Benjamin.
@@ -10,7 +10,7 @@ I ask then; not did reject <the> God the people of Him? Never would it be! Also 
 > $\quad$ referencing: [[LXX.Ps.94.14|Ps 94:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I ask |**<big>[[G3004G\|Λέγω]]</big>**  |Legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then; |**<big>[[G3767\|οὖν·]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

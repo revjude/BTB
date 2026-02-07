@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:9** 
 <small><sub>**LXX:**</sub></small>
 Except you shall not build to me a house, for  your son who comes forth from out of  your loin, he shall build the house \[to\] my name. 
-<small><sub>**KJV:**</sub></small>
-Notwithstanding thou shalt not build the house; but thy son which shall come forth out of thy loins, he shall build the house for my name.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, you are not the one to build it; but your son, your own offspring, will build the house for My Name.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.8|<< 2 Chronicles 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.10|2 Chronicles 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

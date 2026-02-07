@@ -1,12 +1,12 @@
-**1 Thessalonians 3:9
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 3:9**<big><big>[[1Thess.3.6 Timothy’s Encouraging Report|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;
 <small><sub>**BSB:**</sub></small>
 How can we adequately thank God for you in return for our great joy over you in His presence?
 <small><sub>**Literal:**</sub></small>
 What for thanksgiving are we able <the> to God to give concerning you in return for all the joy that we rejoice because of you before the God of us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.8|<< 1 Thessalonians 3:8]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.10|1 Thessalonians 3:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|τίνα]]</big>**  |tina <small><sup>[[I-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

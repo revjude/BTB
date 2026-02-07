@@ -1,4 +1,4 @@
-**Job 6:18** 
+**Job 6:18**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The paths of their way are turned aside; they go to nothing, and perish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Caravans turn aside from their routes; they go into the wasteland and perish.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.17|<< Job 6:17]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.19|Job 6:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they twist  |**<big>&#8207;[[H3943\|יִ֭לָּ֣פְתוּ]]&#8207; </big>**| yi.La.fe.tu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] paths of  |**<big>&#8207;[[H0734\|אָרְח֣וֹת]]&#8207; </big>**| 'a.re.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

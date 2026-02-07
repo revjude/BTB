@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:21** 
 <small><sub>**LXX:**</sub></small>
 that you should multiply  your days, and the days  of your sons, upon the land which \[the\] <span class="smallcaps">lord</span> swore by an oath \[to\] your fathers to give to them, as the days  of heaven upon the earth. 
-<small><sub>**KJV:**</sub></small>
-That your days may be multiplied, and the days of your children, in the land which the LORD sware unto your fathers to give them, as the days of heaven upon the earth.
-<small><sub>**BSB:**</sub></small>
-so that as long as the heavens are above the earth, your days and those of your children may be multiplied in the land that the LORD swore to give your fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.20|<< Deuteronomy 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.22|Deuteronomy 11:22 >>]]</td></tr></table>
 
 | Translation | Greek |

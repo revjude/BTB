@@ -1,10 +1,7 @@
 **LXX Genesis 48:11** 
 <small><sub>**LXX:**</sub></small>
 And Israel said to Joseph, Behold,  I was not deprived of your face; and behold, God showed to me   your seed. 
-<small><sub>**KJV:**</sub></small>
-And Israel said unto Joseph, I had not thought to see thy face: and, lo, God hath shewed me also thy seed.
-<small><sub>**BSB:**</sub></small>
-“I never expected to see your face again,” Israel said to Joseph, “but now God has let me see your children as well.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.48.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.10|<< Genesis 48:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.12|Genesis 48:12 >>]]</td></tr></table>
 
 | Translation | Greek |

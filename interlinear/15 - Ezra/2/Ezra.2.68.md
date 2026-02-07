@@ -1,4 +1,4 @@
-**Ezra 2:68** 
+**Ezra 2:68**<big><big>[[Ezra.2.68 Offerings by the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [some] of the chief of the fathers, when they came to the house of the LORD which [is] at Jerusalem, offered freely for the house of God to set it up in his place:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they arrived at the house of the LORD in Jerusalem, some of the heads of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.68|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.67|<< Ezra 2:67]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.69|Ezra 2:69 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and some of [the] heads of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7218H\|רָאשֵׁי֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the fathers  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0001G\|אָב֔וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

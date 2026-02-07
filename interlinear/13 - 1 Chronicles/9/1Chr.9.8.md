@@ -1,4 +1,4 @@
-**1 Chronicles 9:8** 
+**1 Chronicles 9:8**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephathiah, the son of Reuel, the son of Ibnijah;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ibneiah son of Jeroham; Elah son of Uzzi, the son of Michri; Meshullam son of Sh
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.7|<< 1 Chronicles 9:7]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.9|1 Chronicles 9:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Ibneiah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2997\|יִבְנְיָה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yiv.ne.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

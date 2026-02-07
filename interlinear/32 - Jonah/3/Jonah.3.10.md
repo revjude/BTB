@@ -1,4 +1,4 @@
-**Jonah 3:10** 
+**Jonah 3:10**<big><big>[[Jonah.3.1 The Ninevites Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did [it] not.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When God saw their actions—that they had turned from their evil ways—He rele
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֤רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> God  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0430G\|אֱלֹהִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

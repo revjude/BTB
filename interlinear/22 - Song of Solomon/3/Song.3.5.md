@@ -1,4 +1,4 @@
-**Song of Solomon 3:5** 
+**Song of Solomon 3:5**<big><big>[[Song.3.1 The Bride’s Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake [my] love, till he please.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O daughters of Jerusalem, I adjure you by the gazelles and does of the field: Do
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.4|<< Song of Solomon 3:4]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.6|Song of Solomon 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I adjure  |**<big>&#8207;[[H7650\|הִשְׁבַּ֨עְתִּי]]&#8207; </big>**| hish.Ba'.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶ֜ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 3:12** 
+**Jeremiah 3:12**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go and proclaim these words toward the north, and say, Return, thou backsliding Israel, saith the LORD; [and] I will not cause mine anger to fall upon you: for I [am] merciful, saith the LORD, [and] I will not keep [anger] for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go, proclaim this message toward the north: ‘Return, O faithless Israel,’ de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.11|<< Jeremiah 3:11]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.13|Jeremiah 3:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H1980G\|הָלֹ֡ךְ]]&#8207; </big>**| ha.Lokh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will proclaim  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7121I\|קָֽרָאתָ֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ka.ra.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

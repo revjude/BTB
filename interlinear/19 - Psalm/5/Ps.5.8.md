@@ -1,4 +1,4 @@
-**Psalms 5:8** (5:9)
+**Psalms 5:8**<big><big>[[Ps.5.1 Give Ear to My Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lead me, O LORD, in thy righteousness because of mine enemies; make thy way straight before my face.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Lead me, O LORD, in Your righteousness because of my enemies; make straight Your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.7|<< Psalms 5:7]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.9|Psalms 5:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lead me  |**<big>&#8207;[[H5148\|נְחֵ֬]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ne.Che.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

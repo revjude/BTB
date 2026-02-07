@@ -1,12 +1,12 @@
-**Mark 14:29
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:29**<big><big>[[Mark.14.27 Jesus Predicts Peter’s Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Peter said unto him, Although all shall be offended, yet [will] not I.
 <small><sub>**BSB:**</sub></small>
 Peter declared, “Even if all fall away, I never will.”
 <small><sub>**Literal:**</sub></small>
 <the> And Peter was saying to Him; If even all will fall away yet not I myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.28|<< Mark 14:28]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.30|Mark 14:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

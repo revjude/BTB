@@ -1,12 +1,12 @@
-**Matthew 25:9
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:9**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the wise answered, saying, [Not so]; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.
 <small><sub>**BSB:**</sub></small>
 ‘No,’ said the wise ones, ‘or there may not be enough for both us and you. Instead, go to those who sell oil and buy some for yourselves.’
 <small><sub>**Literal:**</sub></small>
 Answered then the wise saying; otherwise certainly not even it may suffice for us and you. do go now rather to those selling and do buy for yourselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.8|<< Matthew 25:8]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.10|Matthew 25:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθησαν]]</big>**  |apekrithēsan <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

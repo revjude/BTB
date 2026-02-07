@@ -1,4 +1,4 @@
-**Ecclesiastes 8:11** 
+**Ecclesiastes 8:11**<big><big>[[Eccl.8.10 Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the sentence for a crime is not speedily executed, the hearts of men become
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.10|<< Ecclesiastes 8:10]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.12|Ecclesiastes 8:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁר֙]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H0369\|אֵין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

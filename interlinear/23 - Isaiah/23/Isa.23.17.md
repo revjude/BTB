@@ -1,4 +1,4 @@
-**Isaiah 23:17** 
+**Isaiah 23:17**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass after the end of seventy years, that the LORD will visit Tyre, and she shall turn to her hire, and shall commit fornication with all the kingdoms of the world upon the face of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And at the end of seventy years, the LORD will restore Tyre. Then she will retur
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.16|<< Isaiah 23:16]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.18|Isaiah 23:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֞ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] end of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7093\|קֵּ֣ץ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ketz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

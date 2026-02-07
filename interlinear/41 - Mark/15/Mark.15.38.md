@@ -1,12 +1,12 @@
-**Mark 15:38
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:38**<big><big>[[Mark.15.33 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the veil of the temple was rent in twain from the top to the bottom.
 <small><sub>**BSB:**</sub></small>
 And the veil of the temple was torn in two from top to bottom.
 <small><sub>**Literal:**</sub></small>
 And the veil of the temple was torn into two from top until bottom.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.37|<< Mark 15:37]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.39|Mark 15:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

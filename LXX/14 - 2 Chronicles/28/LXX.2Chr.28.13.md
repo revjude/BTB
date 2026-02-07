@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 28:13** 
 <small><sub>**LXX:**</sub></small>
 And they said to them, In no way should you bring the captivity here to us, for in  trespassing you speak against the <span class="smallcaps">lord</span> upon us to add upon  our sins, and upon  our ignorance, for our sin \[is\] great, and \[the\] anger of \[the\] rage of \[the\] <span class="smallcaps">lord</span> \[is\] upon  Israel. 
-<small><sub>**KJV:**</sub></small>
-And said unto them, Ye shall not bring in the captives hither: for whereas we have offended against the LORD [already], ye intend to add [more] to our sins and to our trespass: for our trespass is great, and [there is] fierce wrath against Israel.
-<small><sub>**BSB:**</sub></small>
-“You must not bring the captives here,” they said, “for you are proposing to bring guilt upon us from the LORD and to add to our sins and our guilt. For our guilt is great, and fierce anger is upon Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.12|<< 2 Chronicles 28:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.28.14|2 Chronicles 28:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 25:6** 
+**Psalms 25:6**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember, O LORD, thy tender mercies and thy lovingkindnesses; for they [have been] ever of old.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember, O LORD, Your compassion and loving devotion, for they are from age to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.5|<< Psalms 25:5]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.7|Psalms 25:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember  |**<big>&#8207;[[H2142\|זְכֹר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ze.khor-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | compassion\<s> your  |**<big>&#8207;[[H7356B\|רַחֲמֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ra.cha.Mei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

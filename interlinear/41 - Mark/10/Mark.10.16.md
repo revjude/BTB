@@ -1,12 +1,12 @@
-**Mark 10:16
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:16**<big><big>[[Mark.10.13 Jesus Blesses the Children|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he took them up in his arms, put [his] hands upon them, and blessed them.
 <small><sub>**BSB:**</sub></small>
 And He took the children in His arms, placed His hands on them, and blessed them.
 <small><sub>**Literal:**</sub></small>
 And having embraced them he was greatly blessing having laid the hands on them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.15|<< Mark 10:15]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.17|Mark 10:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having embraced |**<big>[[G1723\|ἐναγκαλισάμενος]]</big>**  |enagkalisamenos <small><sup>[[V-ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

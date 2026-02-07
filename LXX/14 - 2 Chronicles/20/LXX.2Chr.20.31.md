@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:31** 
 <small><sub>**LXX:**</sub></small>
 And Jehoshaphat reigned over  Judah, being thirty-five years \[old\] in  his taking reign, and twenty and five years he reigned in Jerusalem. And \[the\] name  of his mother \[was\] Azubah daughter of Shilhi. 
-<small><sub>**KJV:**</sub></small>
-And Jehoshaphat reigned over Judah: [he was] thirty and five years old when he began to reign, and he reigned twenty and five years in Jerusalem. And his mother’s name [was] Azubah the daughter of Shilhi.
-<small><sub>**BSB:**</sub></small>
-So Jehoshaphat reigned over Judah. He was thirty-five years old when he became king, and he reigned in Jerusalem twenty-five years. His mother’s name was Azubah daughter of Shilhi.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.30|<< 2 Chronicles 20:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.32|2 Chronicles 20:32 >>]]</td></tr></table>
 
 | Translation | Greek |

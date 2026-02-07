@@ -1,12 +1,12 @@
-**2 Corinthians 8:16
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:16**<big><big>[[2Cor.8.16 Titus Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But thanks [be] to God, which put the same earnest care into the heart of Titus for you.
 <small><sub>**BSB:**</sub></small>
 But thanks be to God, who put into the heart of Titus the same devotion I have for you.
 <small><sub>**Literal:**</sub></small>
 Thanks however <the> to God the [One] gave the same earnestness for you into the heart of Titus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.15|<< 2 Corinthians 8:15]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.17|2 Corinthians 8:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thanks |**<big>[[G5485\|Χάρις]]</big>**  |Charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Genesis 36:35** 
+**Genesis 36:35**<big><big>[[Gen.36.31 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Husham died, and Hadad the son of Bedad, who smote Midian in the field of Moab, reigned in his stead: and the name of his city [was] Avith.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Husham died, Hadad son of Bedad, who defeated Midian in the country of Moab
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.34|<< Genesis 36:34]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.36|Genesis 36:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֖מָת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Husham  |**<big>&#8207;[[H2367\|חֻשָׁ֑ם]]&#8207; </big>**| chu.Sham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 10:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:17**<big><big>[[Luke.10.17 The Joyful Return|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name.
 <small><sub>**BSB:**</sub></small>
 The seventy-two returned with joy and said, “Lord, even the demons submit to us in Your name.”
 <small><sub>**Literal:**</sub></small>
 Returned then the seventy two with joy saying; Lord, even the demons are subject to us through the name of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.16|<< Luke 10:16]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.18|Luke 10:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Returned |**<big>[[G5290\|Ὑπέστρεψαν]]</big>**  |Hupestrepsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

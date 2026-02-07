@@ -1,4 +1,4 @@
-**Ezekiel 7:13** 
+**Ezekiel 7:13**<big><big>[[Ezek.7.1 The Hour of Doom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the seller shall not return to that which is sold, although they were yet alive: for the vision [is] touching the whole multitude thereof, [which] shall not return; neither shall any strengthen himself in the iniquity of his life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The seller will surely not recover what he sold while both remain alive. For the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.12|<< Ezekiel 7:12]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.14|Ezekiel 7:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the seller  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4376\|מּוֹכֵ֗ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mo.Kher<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

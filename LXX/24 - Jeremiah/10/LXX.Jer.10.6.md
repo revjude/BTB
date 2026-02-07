@@ -1,10 +1,7 @@
 **LXX Jeremiah 10:6** 
 <small><sub>**LXX:**</sub></small>
 There is not one likened to you, O <span class="smallcaps">lord</span>. Great are you, and great  \[is\] your name in  strength. 
-<small><sub>**KJV:**</sub></small>
-Forasmuch as [there is] none like unto thee, O LORD; thou [art] great, and thy name [is] great in might.
-<small><sub>**BSB:**</sub></small>
-There is none like You, O LORD. You are great, and Your name is mighty in power.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.5|<< Jeremiah 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.7|Jeremiah 10:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 10:6** is...

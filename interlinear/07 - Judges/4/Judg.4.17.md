@@ -1,4 +1,4 @@
-**Judges 4:17** 
+**Judges 4:17**<big><big>[[Judg.4.17 Jael Kills Sisera|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite: for [there was] peace between Jabin the king of Hazor and the house of Heber the Kenite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Meanwhile, Sisera had fled on foot to the tent of Jael, the wife of Heber the Ke
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.16|<< Judges 4:16]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.18|Judges 4:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Sisera  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5516G\|סִֽיסְרָא֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> si.se.Ra'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fled  |**<big>&#8207;[[H5127\|נָ֣ס]]&#8207; </big>**| nas<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

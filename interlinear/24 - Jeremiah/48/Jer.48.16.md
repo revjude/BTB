@@ -1,4 +1,4 @@
-**Jeremiah 48:16** 
+**Jeremiah 48:16**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The calamity of Moab [is] near to come, and his affliction hasteth fast.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moab’s calamity is at hand, and his affliction is rushing swiftly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.15|<< Jeremiah 48:15]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.17|Jeremiah 48:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] near  |**<big>&#8207;[[H7138\|קָר֥וֹב]]&#8207; </big>**| ka.Rov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] disaster of  |**<big>&#8207;[[H0343\|אֵיד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'eid-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

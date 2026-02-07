@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:3** 
 <small><sub>**LXX:**</sub></small>
 and going forth should serve other gods, and should do obeisance to them -- to the sun, or the moon, or to any of the ones of the cosmos of the heaven, which I assigned not; 
-<small><sub>**KJV:**</sub></small>
-And hath gone and served other gods, and worshipped them, either the sun, or moon, or any of the host of heaven, which I have not commanded;
-<small><sub>**BSB:**</sub></small>
-and going to worship other gods, bowing down to them or to the sun or moon or any of the host of heaven—which I have forbidden—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.2|<< Deuteronomy 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.4|Deuteronomy 17:4 >>]]</td></tr></table>
 
 | Translation | Greek |

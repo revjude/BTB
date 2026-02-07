@@ -1,4 +1,4 @@
-**Judges 8:12** 
+**Judges 8:12**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Zebah and Zalmunna fled, he pursued after them, and took the two kings of Midian, Zebah and Zalmunna, and discomfited all the host.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Zebah and Zalmunna fled, Gideon pursued and captured these two kings of Mid
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.11|<< Judges 8:11]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.13|Judges 8:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they fled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5127\|יָּנ֗וּסוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Nu.su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zebah  |**<big>&#8207;[[H2078\|זֶ֚בַח]]&#8207; </big>**| Ze.vach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

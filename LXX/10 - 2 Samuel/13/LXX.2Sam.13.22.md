@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:22** 
 <small><sub>**LXX:**</sub></small>
 And Absalom did not speak with Amnon of bad or good, for Absalom detested  Amnon for which he abased Tamar  his sister. 
-<small><sub>**KJV:**</sub></small>
-And Absalom spake unto his brother Amnon neither good nor bad: for Absalom hated Amnon, because he had forced his sister Tamar.
-<small><sub>**BSB:**</sub></small>
-And Absalom never said a word to Amnon, either good or bad, because he hated Amnon for violating his sister Tamar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.21|<< 2 Samuel 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.23|2 Samuel 13:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 22:30** 
+**Job 22:30**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall deliver the island of the innocent: and it is delivered by the pureness of thine hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will deliver even one who is not innocent, rescuing him through the cleanness
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.29|<< Job 22:29]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.1|Job 23:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will deliver  |**<big>&#8207;[[H4422\|יְֽמַלֵּ֥ט]]&#8207; </big>**| ye.ma.Let<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H0336\|אִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'i-<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

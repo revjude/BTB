@@ -1,10 +1,7 @@
 **LXX Job 9:34** 
 <small><sub>**LXX:**</sub></small>
 let him dismiss the rod from me, and let not the fear of him whirl about, 
-<small><sub>**KJV:**</sub></small>
-Let him take his rod away from me, and let not his fear terrify me:
-<small><sub>**BSB:**</sub></small>
-Let Him remove His rod from me, so that His terror will no longer frighten me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.33|<< Job 9:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.35|Job 9:35 >>]]</td></tr></table>
 
 | Translation | Greek |

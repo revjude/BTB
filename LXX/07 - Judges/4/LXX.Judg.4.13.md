@@ -1,10 +1,7 @@
 **LXX Judges 4:13** 
 <small><sub>**LXX:**</sub></small>
 And Sisera called all  his chariots -- nine hundred chariots of iron, and all the people  with him, from Harosheth of the nations unto the rushing stream Kishon. 
-<small><sub>**KJV:**</sub></small>
-And Sisera gathered together all his chariots, [even] nine hundred chariots of iron, and all the people that [were] with him, from Harosheth of the Gentiles unto the river of Kishon.
-<small><sub>**BSB:**</sub></small>
-he summoned all nine hundred of his iron chariots and all the men with him, from Harosheth-hagoyim to the River Kishon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.12|<< Judges 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.14|Judges 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

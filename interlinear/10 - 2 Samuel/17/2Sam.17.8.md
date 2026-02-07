@@ -1,4 +1,4 @@
-**2 Samuel 17:8** 
+**2 Samuel 17:8**<big><big>[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, said Hushai, thou knowest thy father and his men, that they [be] mighty men, and they [be] chafed in their minds, as a bear robbed of her whelps in the field: and thy father [is] a man of war, and will not lodge with the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He continued, “You know your father and his men. They are mighty men, and as f
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.7|<< 2 Samuel 17:7]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.9|2 Samuel 17:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hushai  |**<big>&#8207;[[H2365\|חוּשַׁ֗י]]&#8207; </big>**| chu.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

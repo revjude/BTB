@@ -1,4 +1,4 @@
-**Ecclesiastes 2:22** 
+**Ecclesiastes 2:22**<big><big>[[Eccl.2.18 The Futility of Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For what hath man of all his labour, and of the vexation of his heart, wherein he hath laboured under the sun?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For what does a man get for all the toil and striving with which he labors under
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.21|<< Ecclesiastes 2:21]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.23|Ecclesiastes 2:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֠י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | what?  |**<big>&#8207;[[H4100\|מֶֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| meh-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

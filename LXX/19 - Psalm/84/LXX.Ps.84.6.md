@@ -1,10 +1,7 @@
 **LXX Psalm 84:6** 
 <small><sub>**LXX:**</sub></small>
 into the valley of the place of weeping; into the place which he put himself. For even the one establishing law will give a blessing. 
-<small><sub>**KJV:**</sub></small>
-[Who] passing through the valley of Baca make it a well; the rain also filleth the pools.
-<small><sub>**BSB:**</sub></small>
-As they pass through the Valley of Baca, they make it a place of springs; even the autumn rain covers it with pools.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.84.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.5|<< Psalm 84:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.7|Psalm 84:7 >>]]</td></tr></table>
 
 | Translation | Greek |

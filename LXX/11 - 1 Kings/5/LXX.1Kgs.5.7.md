@@ -1,10 +1,7 @@
 **LXX 1 Kings 5:7** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Hiram heard the words of Solomon, he rejoiced exceedingly. And he said, Blessed be \[the\] <span class="smallcaps">lord</span> today who gives  to David an intelligent son over  this populous people. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed [be] the LORD this day, which hath given unto David a wise son over this great people.
-<small><sub>**BSB:**</sub></small>
-When Hiram received Solomon’s message, he rejoiced greatly and said, “Blessed be the LORD this day! He has given David a wise son over this great people!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.6|<< 1 Kings 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.8|1 Kings 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 82:8** 
+**Psalms 82:8**<big><big>[[Ps.82.1 God Presides in the Divine Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, O God, judge the earth: for thou shalt inherit all nations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Arise, O God, judge the earth, for all the nations are Your inheritance.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.82.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.82.7|<< Psalms 82:7]]</td><td align="center" style="border:none;">[[Ps.82|Psalms 82]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.0|Psalms 83:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise !  |**<big>&#8207;[[H6965B\|קוּמָ֣]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ku.Ma<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

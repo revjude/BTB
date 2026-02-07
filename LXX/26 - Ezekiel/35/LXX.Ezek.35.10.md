@@ -1,10 +1,7 @@
 **LXX Ezekiel 35:10** 
 <small><sub>**LXX:**</sub></small>
 On account of  your saying, The two nations, and the two places will be mine, and I shall inherit them, and \[the\] <span class="smallcaps">lord</span> is there. 
-<small><sub>**KJV:**</sub></small>
-Because thou hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the LORD was there:
-<small><sub>**BSB:**</sub></small>
-Because you have said, ‘These two nations and countries will be ours, and we will possess them,’ even though the LORD was there,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.35.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.9|<< Ezekiel 35:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.11|Ezekiel 35:11 >>]]</td></tr></table>
 
 | Translation | Greek |

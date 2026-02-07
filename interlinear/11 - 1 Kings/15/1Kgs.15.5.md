@@ -1,4 +1,4 @@
-**1 Kings 15:5** 
+**1 Kings 15:5**<big><big>[[1Kgs.15.1 Abijam Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because David did [that which was] right in the eyes of the LORD, and turned not aside from any [thing] that he commanded him all the days of his life, save only in the matter of Uriah the Hittite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For David had done what was right in the eyes of the LORD and had not turned asi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.4|<< 1 Kings 15:4]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.6|1 Kings 15:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had done  |**<big>&#8207;[[H6213A\|עָשָׂ֥ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

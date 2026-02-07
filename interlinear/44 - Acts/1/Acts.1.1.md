@@ -1,12 +1,12 @@
-**Acts 1:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:1**<big><big>[[Acts.1.1 Prologue|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,
 <small><sub>**BSB:**</sub></small>
 In my first book, O Theophilus, I wrote about all that Jesus began to do and to teach,
 <small><sub>**Literal:**</sub></small>
 The indeed first account I composed concerning all the things, O Theophilus, of which began <the> Jesus to do both and to teach<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.25|<< John 21:25]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.2|Acts 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Τὸν]]</big>**  |Ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

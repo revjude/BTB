@@ -1,5 +1,5 @@
-**Luke 3:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 3:4**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.
 <small><sub>**BSB:**</sub></small>
 as it is written in the book of the words of Isaiah the prophet: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight paths for Him.
@@ -10,7 +10,7 @@ as it has been written in [the] book of [the] words of Isaiah the prophet saying
 > $\quad$ referencing: [[LXX.Isa.40.3|Isa 40:3-5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it has been written |**<big>[[G1125\|γέγραπται]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

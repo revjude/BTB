@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jacob departed from Beth-el, \[and\] he pitched  his tent beyond the tower of Gader. And it came to pass when he approached Chabratha,  to come into  Ephrath, Rachel bore. And in the giving birth she suffered birth pangs. 
-<small><sub>**KJV:**</sub></small>
-And they journeyed from Bethel; and there was but a little way to come to Ephrath: and Rachel travailed, and she had hard labour.
-<small><sub>**BSB:**</sub></small>
-Later, they set out from Bethel, and while they were still some distance from Ephrath, Rachel began to give birth, and her labor was difficult.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.35.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.15|<< Genesis 35:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.17|Genesis 35:17 >>]]</td></tr></table>
 
 | Translation | Greek |

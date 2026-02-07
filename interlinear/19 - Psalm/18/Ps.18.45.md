@@ -1,4 +1,4 @@
-**Psalms 18:45** (18:46)
+**Psalms 18:45**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The strangers shall fade away, and be afraid out of their close places.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Foreigners lose heart and come trembling from their strongholds.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.44|<< Psalms 18:44]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.46|Psalms 18:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sons of  |**<big>&#8207;[[H1121I\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | foreignness  |**<big>&#8207;[[H5236\|נֵכָ֥ר]]&#8207; </big>**| ne.Khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

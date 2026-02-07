@@ -1,4 +1,4 @@
-**Genesis 25:7** 
+**Genesis 25:7**<big><big>[[Gen.25.7 The Death of Abraham|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the days of the years of Abraham’s life which he lived, an hundred threescore and fifteen years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Abraham lived a total of 175 years.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.6|<< Genesis 25:6]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.8|Genesis 25:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֗לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] days of  |**<big>&#8207;[[H3117G\|יְמֵ֛י]]&#8207; </big>**| ye.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

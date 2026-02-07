@@ -1,10 +1,7 @@
 **LXX Proverbs 10:4** 
 <small><sub>**LXX:**</sub></small>
 Poverty humbles a man; but \[the\] hands of \[the\] vigorous enrich. A son being corrected will be wise; but the foolish he will treat for a servant. 
-<small><sub>**KJV:**</sub></small>
-He becometh poor that dealeth [with] a slack hand: but the hand of the diligent maketh rich.
-<small><sub>**BSB:**</sub></small>
-Idle hands make one poor, but diligent hands bring wealth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.3|<< Proverbs 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.5|Proverbs 10:5 >>]]</td></tr></table>
 
 | Translation | Greek |

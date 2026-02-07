@@ -1,10 +1,7 @@
 **LXX Genesis 42:33** 
 <small><sub>**LXX:**</sub></small>
 And the man the master of the land said to us, By this I will know that you are peaceable, you leave one of your brothers here with me! and the purchase of the provision  for your house having taken, you go forth! 
-<small><sub>**KJV:**</sub></small>
-And the man, the lord of the country, said unto us, Hereby shall I know that ye [are] true [men]; leave one of your brethren [here] with me, and take [food for] the famine of your households, and be gone:
-<small><sub>**BSB:**</sub></small>
-Then the man who is lord of the land said to us, ‘This is how I will know whether you are honest: Leave one brother with me, take food to relieve the hunger of your households, and go.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.32|<< Genesis 42:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.34|Genesis 42:34 >>]]</td></tr></table>
 
 | Translation | Greek |

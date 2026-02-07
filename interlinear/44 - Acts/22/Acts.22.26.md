@@ -1,12 +1,12 @@
-**Acts 22:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:26**<big><big>[[Acts.22.22 Paul the Roman Citizen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When the centurion heard [that], he went and told the chief captain, saying, Take heed what thou doest: for this man is a Roman.
 <small><sub>**BSB:**</sub></small>
 On hearing this, the centurion went and reported it to the commander. “What are you going to do?” he said. “This man is a Roman citizen.”
 <small><sub>**Literal:**</sub></small>
 Having heard then the centurion having gone to the commander he reported [it] saying; do you see what are you going to do? <the> for man this a Roman is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.25|<< Acts 22:25]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.27|Acts 22:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|ἀκούσας]]</big>**  |akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

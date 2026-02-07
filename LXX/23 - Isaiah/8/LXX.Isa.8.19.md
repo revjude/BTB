@@ -1,10 +1,7 @@
 **LXX Isaiah 8:19** 
 <small><sub>**LXX:**</sub></small>
 And if they should say to you, Seek the ones who deliver oracles, and the ones from the earth speaking out loud, and the empty words which they speak out loud from the belly; \[shall\] not a nation inquire to its God? Why do they inquire concerning the living of the ones dead? 
-<small><sub>**KJV:**</sub></small>
-And when they shall say unto you, Seek unto them that have familiar spirits, and unto wizards that peep, and that mutter: should not a people seek unto their God? for the living to the dead?
-<small><sub>**BSB:**</sub></small>
-When men tell you to consult mediums and spiritists who whisper and mutter, shouldn’t a people consult their God instead? Why consult the dead on behalf of the living?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.18|<< Isaiah 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.20|Isaiah 8:20 >>]]</td></tr></table>
 
 | Translation | Greek |

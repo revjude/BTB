@@ -1,10 +1,7 @@
 **LXX Isaiah 4:3** 
 <small><sub>**LXX:**</sub></small>
 And it shall be the one left behind in Zion, and the one left behind in Jerusalem shall be called holy; all the ones being written for life in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, [that he that is] left in Zion, and [he that] remaineth in Jerusalem, shall be called holy, [even] every one that is written among the living in Jerusalem:
-<small><sub>**BSB:**</sub></small>
-Whoever remains in Zion and whoever is left in Jerusalem will be called holy—all in Jerusalem who are recorded among the living—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.4.2|<< Isaiah 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.4.4|Isaiah 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

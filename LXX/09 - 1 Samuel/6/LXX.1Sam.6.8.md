@@ -1,10 +1,7 @@
 **LXX 1 Samuel 6:8** 
 <small><sub>**LXX:**</sub></small>
 And you shall take the ark of \[the\] <span class="smallcaps">lord</span>, and you shall put it upon the wagon; and the items  of gold, deliver it for the torment! And you shall put in place a chest on part of it, and you shall send it, and it shall go forth. 
-<small><sub>**KJV:**</sub></small>
-And take the ark of the LORD, and lay it upon the cart; and put the jewels of gold, which ye return him [for] a trespass offering, in a coffer by the side thereof; and send it away, that it may go.
-<small><sub>**BSB:**</sub></small>
-Take the ark of the LORD, set it on the cart, and in a chest beside it put the gold objects you are sending back to Him as a guilt offering. Then send the ark on its way,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.7|<< 1 Samuel 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.9|1 Samuel 6:9 >>]]</td></tr></table>
 
 | Translation | Greek |

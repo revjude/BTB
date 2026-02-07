@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:18** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  the seventh day, and the boy died. And the servants of David feared to announce to him that, The boy has died. For they said, Behold, while the  boy \[was\] still living, we spoke to him, and he did not listen to  our voice. And how should we say to him that, The boy has died. For he shall do bad \[things\]. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass on the seventh day, that the child died. And the servants of David feared to tell him that the child was dead: for they said, Behold, while the child was yet alive, we spake unto him, and he would not hearken unto our voice: how will he then vex himself, if we tell him that the child is dead?
-<small><sub>**BSB:**</sub></small>
-On the seventh day the child died. But David’s servants were afraid to tell him that the child was dead, for they said, “Look, while the child was alive, we spoke to him, and he would not listen to us. So how can we tell him the child is dead? He may even harm himself.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.17|<< 2 Samuel 12:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.19|2 Samuel 12:19 >>]]</td></tr></table>
 
 | Translation | Greek |

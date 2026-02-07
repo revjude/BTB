@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Quickly it comes, and shall not pass time, and their days in no way shall drag. And \[the\] <span class="smallcaps">lord</span> shall show mercy on  Jacob, and will choose yet  Israel, and they shall rest upon  their land; and the foreigner shall be added to them, and they shall be added to the house of Jacob. 
-<small><sub>**KJV:**</sub></small>
-For the LORD will have mercy on Jacob, and will yet choose Israel, and set them in their own land: and the strangers shall be joined with them, and they shall cleave to the house of Jacob.
-<small><sub>**BSB:**</sub></small>
-For the LORD will have compassion on Jacob; once again He will choose Israel and settle them in their own land. The foreigner will join them and unite with the house of Jacob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.22|<< Isaiah 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.2|Isaiah 14:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 25:10** 
 <small><sub>**LXX:**</sub></small>
 lest indeed the friend should berate you;  and your fight and  hatred do not go away, but will be to you equal of death! Favor and friendship frees, which you give heed to yourself! that be not reviled. But keep  your ways conciliatory! 
-<small><sub>**KJV:**</sub></small>
-Lest he that heareth [it] put thee to shame, and thine infamy turn not away.
-<small><sub>**BSB:**</sub></small>
-lest he who hears you bring shame upon you, and your infamy never go away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.25.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.9|<< Proverbs 25:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.11|Proverbs 25:11 >>]]</td></tr></table>
 
 | Translation | Greek |

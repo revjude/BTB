@@ -1,4 +1,4 @@
-**Psalms 114:8** 
+**Psalms 114:8**<big><big>[[Ps.114.1 A Psalm of Exodus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which turned the rock [into] a standing water, the flint into a fountain of waters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who turned the rock into a pool, the flint into a fountain of water!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.114.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.114.7|<< Psalms 114:7]]</td><td align="center" style="border:none;">[[Ps.114|Psalms 114]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.1|Psalms 115:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who turned  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2015\|הֹפְכִ֣י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ho.fe.Khi<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the rock  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6697H\|צּ֣וּר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Tzur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

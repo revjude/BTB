@@ -1,12 +1,12 @@
-**1 Corinthians 11:24
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:24**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had given thanks, he brake [it], and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me.
 <small><sub>**BSB:**</sub></small>
 and when He had given thanks, He broke it and said, “This is My body, which is for you; do this in remembrance of Me.”
 <small><sub>**Literal:**</sub></small>
 and having given thanks He broke [it] and said do take do eat: This of Me is the body which [is] for you being broken; this do perform in <the> of Me remembrance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.23|<< 1 Corinthians 11:23]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.25|1 Corinthians 11:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having given thanks |**<big>[[G2168\|εὐχαριστήσας]]</big>**  |eucharistēsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

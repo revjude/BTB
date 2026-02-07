@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Rehoboam came unto Shechem, for unto Shechem came all Israel to give reign to him. 
-<small><sub>**KJV:**</sub></small>
-And Rehoboam went to Shechem: for to Shechem were all Israel come to make him king.
-<small><sub>**BSB:**</sub></small>
-Then Rehoboam went to Shechem, for all Israel had gone there to make him king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.31|<< 2 Chronicles 9:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.2|2 Chronicles 10:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 5:7** 
+**Proverbs 5:7**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear me now therefore, O ye children, and depart not from the words of my mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now, my sons, listen to me, and do not turn aside from the words of my mouth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.6|<< Proverbs 5:6]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.8|Proverbs 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O children  |**<big>&#8207;[[H1121G\|בָ֭נִים]]&#8207; </big>**| Va.nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

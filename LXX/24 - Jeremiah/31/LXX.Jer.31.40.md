@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:40** 
 <small><sub>**LXX:**</sub></small>
 and all \[the\] valley Phagarim and ashes, and all Asaremoth unto \[the\] rushing stream Kidron, unto \[the\] corner gate of \[the\] horses eastward, \[shall be\] a sanctuary to the <span class="smallcaps">lord</span>; and no longer shall it be plucked up, and in no way shall it be demolished unto the eon. 
-<small><sub>**KJV:**</sub></small>
-And the whole valley of the dead bodies, and of the ashes, and all the fields unto the brook of Kidron, unto the corner of the horse gate toward the east, [shall be] holy unto the LORD; it shall not be plucked up, nor thrown down any more for ever.
-<small><sub>**BSB:**</sub></small>
-The whole valley of the dead bodies and ashes, and all the fields as far as the Kidron Valley, to the corner of the Horse Gate to the east, will be holy to the LORD. It will never again be uprooted or demolished.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.39|<< Jeremiah 31:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.1|Jeremiah 32:1 >>]]</td></tr></table>
 
 | Translation | Greek |

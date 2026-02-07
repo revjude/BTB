@@ -1,10 +1,7 @@
 **LXX Leviticus 25:29** 
 <small><sub>**LXX:**</sub></small>
 But if any should sell a house inhabited in a city being walled, then there shall be the ransoming of it, until \[the time\] should be fulfilled, a year of days will be the \[time\] of ransoming of it. 
-<small><sub>**KJV:**</sub></small>
-And if a man sell a dwelling house in a walled city, then he may redeem it within a whole year after it is sold; [within] a full year may he redeem it.
-<small><sub>**BSB:**</sub></small>
-If a man sells a house in a walled city, he retains his right of redemption until a full year after its sale; during that year it may be redeemed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.28|<< Leviticus 25:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.30|Leviticus 25:30 >>]]</td></tr></table>
 
 | Translation | Greek |

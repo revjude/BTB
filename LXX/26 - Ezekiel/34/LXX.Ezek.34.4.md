@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:4** 
 <small><sub>**LXX:**</sub></small>
 The ones being weak you strengthen not, and the ill having \[a sickness\] you rejuvenated not, and the broken you did not bind up, and the one wandering you did not turn back, and the lost you did not seek after, and the strong you worked in trouble. 
-<small><sub>**KJV:**</sub></small>
-The diseased have ye not strengthened, neither have ye healed that which was sick, neither have ye bound up [that which was] broken, neither have ye brought again that which was driven away, neither have ye sought that which was lost; but with force and with cruelty have ye ruled them.
-<small><sub>**BSB:**</sub></small>
-You have not strengthened the weak, healed the sick, bound up the injured, brought back the strays, or searched for the lost. Instead, you have ruled them with violence and cruelty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.3|<< Ezekiel 34:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.5|Ezekiel 34:5 >>]]</td></tr></table>
 
 | Translation | Greek |

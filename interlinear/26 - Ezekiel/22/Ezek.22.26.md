@@ -1,4 +1,4 @@
-**Ezekiel 22:26** 
+**Ezekiel 22:26**<big><big>[[Ezek.22.23 Israel’s Wicked Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed [difference] between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Her priests do violence to My law and profane My holy things. They make no disti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.25|<< Ezekiel 22:25]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.27|Ezekiel 22:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | priests its  |**<big>&#8207;[[H3548\|כֹּהֲנֶ֜י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| ko.ha.Nei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have done violence to  |**<big>&#8207;[[H2554\|חָמְס֣וּ]]&#8207; </big>**| cha.me.Su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

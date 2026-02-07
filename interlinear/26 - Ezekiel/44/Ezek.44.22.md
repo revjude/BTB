@@ -1,4 +1,4 @@
-**Ezekiel 44:22** 
+**Ezekiel 44:22**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall they take for their wives a widow, nor her that is put away: but they shall take maidens of the seed of the house of Israel, or a widow that had a priest before.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they shall not marry a widow or a divorced woman, but must marry a virgin of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.21|<< Ezekiel 44:21]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.23|Ezekiel 44:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a widow  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0490\|אַלְמָנָה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al.ma.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and a divorced [woman]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1644H\|גְרוּשָׁ֔ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ge.ru.Shah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

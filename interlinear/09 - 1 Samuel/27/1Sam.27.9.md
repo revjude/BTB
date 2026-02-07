@@ -1,4 +1,4 @@
-**1 Samuel 27:9** 
+**1 Samuel 27:9**<big><big>[[1Sam.27.1 David and the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David smote the land, and left neither man nor woman alive, and took away the sheep, and the oxen, and the asses, and the camels, and the apparel, and returned, and came to Achish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whenever David attacked a territory, he did not leave a man or woman alive, but 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.27.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.8|<< 1 Samuel 27:8]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.10|1 Samuel 27:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he struck  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5221\|הִכָּ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Kah<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָוִד֙]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

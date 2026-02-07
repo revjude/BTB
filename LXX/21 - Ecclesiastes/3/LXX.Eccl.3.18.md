@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 3:18** 
 <small><sub>**LXX:**</sub></small>
 I said in my heart, concerning \[the\] speech of the sons  of man, that God will examine them, and to show that they are beasts. 
-<small><sub>**KJV:**</sub></small>
-I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.
-<small><sub>**BSB:**</sub></small>
-I said to myself, “As for the sons of men, God tests them so that they may see for themselves that they are but beasts.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.17|<< Ecclesiastes 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.19|Ecclesiastes 3:19 >>]]</td></tr></table>
 
 | Translation | Greek |

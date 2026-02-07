@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Solomon son of David grew in strength over  his kingdom, and \[the\] <span class="smallcaps">lord</span>  his God \[was\] with him, and magnified him in stature. 
-<small><sub>**KJV:**</sub></small>
-And Solomon the son of David was strengthened in his kingdom, and the LORD his God [was] with him, and magnified him exceedingly.
-<small><sub>**BSB:**</sub></small>
-Now Solomon son of David established himself securely over his kingdom, and the LORD his God was with him and highly exalted him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.30|<< 1 Chronicles 29:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.2|2 Chronicles 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

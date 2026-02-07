@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The word  having come from \[the\] <span class="smallcaps">lord</span> to Jeremiah in the tenth year of Zedekiah king of Judah -- this \[is\] \[the\] eighteenth year of Nebuchadnezzar king of Babylon. 
-<small><sub>**KJV:**</sub></small>
-The word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which [was] the eighteenth year of Nebuchadrezzar.
-<small><sub>**BSB:**</sub></small>
-This is the word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.40|<< Jeremiah 31:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.2|Jeremiah 32:2 >>]]</td></tr></table>
 
 | Translation | Greek |

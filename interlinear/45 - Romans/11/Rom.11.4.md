@@ -1,5 +1,5 @@
-**Romans 11:4
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:4**<big><big>[[Rom.11.1 A Remnant Chosen by Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to [the image of] Baal.
 <small><sub>**BSB:**</sub></small>
 And what was the divine reply to him? “I have reserved for Myself seven thousand men who have not bowed the knee to Baal.”
@@ -10,7 +10,7 @@ But what [was] spoken to him the divine answer? I have left to Myself seven thou
 > $\quad$ referencing: [[LXX.1Kgs.19.18|1Kgs 19:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | what [was] |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Amos 9:8** 
 <small><sub>**LXX:**</sub></small>
 Behold the eyes of \[the\] <span class="smallcaps">lord</span>  God \[are\] upon the kingdom of the sinners, and I will lift it from \[the\] face of the earth; only that not unto completion will I remove the house of Jacob, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Behold, the eyes of the Lord GOD [are] upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Surely the eyes of the Lord GOD are on the sinful kingdom, and I will destroy it from the face of the earth. Yet I will not utterly destroy the house of Jacob,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.7|<< Amos 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.9|Amos 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 25:46** 
 <small><sub>**LXX:**</sub></small>
 And you shall divide them \[to\] your children after you. And they shall be to you possessions unto the eon.  But of your brethren of the sons of Israel, each \[concerning\] his brother shall not violently strain him in \[his\] troubles. 
-<small><sub>**KJV:**</sub></small>
-And ye shall take them as an inheritance for your children after you, to inherit [them for] a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour.
-<small><sub>**BSB:**</sub></small>
-You may leave them to your sons after you to inherit as property; you can make them slaves for life. But as for your brothers, the Israelites, no man may rule harshly over his brother.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.45|<< Leviticus 25:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.47|Leviticus 25:47 >>]]</td></tr></table>
 
 | Translation | Greek |

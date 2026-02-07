@@ -1,4 +1,4 @@
-**Daniel 7:8** 
+**Daniel 7:8**<big><big>[[Dan.7.1 Daniel’s Vision of the Four Beasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I considered the horns, and, behold, there came up among them another little horn, before whom there were three of the first horns plucked up by the roots: and, behold, in this horn [were] eyes like the eyes of man, and a mouth speaking great things.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ While I was contemplating the horns, suddenly another horn, a little one, came u
 > $\quad$ referenced by: [[Rev.13.5|Rev 13:5-6]] ☩ [[Rev.17.3|Rev 17:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | considering  |**<big>&#8207;[[H7920\|מִשְׂתַּכַּ֨ל]]&#8207; </big>**| mis.ta.Kal<small><sup>[[AVMrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I was  |**<big>&#8207;[[H1934\|הֲוֵ֜ית]]&#8207; </big>**| ha.Veit<small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

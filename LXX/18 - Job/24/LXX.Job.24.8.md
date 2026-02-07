@@ -1,10 +1,7 @@
 **LXX Job 24:8** 
 <small><sub>**LXX:**</sub></small>
 From \[the\] mists of \[the\] mountains they are wetted; from  protection not holding to them they covered themselves \[with\] rock. 
-<small><sub>**KJV:**</sub></small>
-They are wet with the showers of the mountains, and embrace the rock for want of a shelter.
-<small><sub>**BSB:**</sub></small>
-Drenched by mountain rains, they huddle against the rocks for want of shelter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.7|<< Job 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.9|Job 24:9 >>]]</td></tr></table>
 
 | Translation | Greek |

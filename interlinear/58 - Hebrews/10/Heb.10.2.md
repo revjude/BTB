@@ -1,12 +1,12 @@
-**Hebrews 10:2
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:2**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.
 <small><sub>**BSB:**</sub></small>
 If it could, would not the offerings have ceased? For the worshipers would have been cleansed once for all, and would no longer have felt the guilt of their sins.
 <small><sub>**Literal:**</sub></small>
 Otherwise not would they have ceased being offered because of <the> none having any longer conscience of sins those serving once cleansed!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.1|<< Hebrews 10:1]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.3|Hebrews 10:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Otherwise |**<big>[[G1893\|ἐπεὶ]]</big>**  |epei <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

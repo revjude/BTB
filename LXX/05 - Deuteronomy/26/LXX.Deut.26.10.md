@@ -1,10 +1,7 @@
 **LXX Deuteronomy 26:10** 
 <small><sub>**LXX:**</sub></small>
 And now, behold, I have brought the first-fruit of the produce of the land which you gave to me, O <span class="smallcaps">lord</span>. And you shall leave it before \[the\] <span class="smallcaps">lord</span>  your God, and you shall do obeisance before \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-And now, behold, I have brought the firstfruits of the land, which thou, O LORD, hast given me. And thou shalt set it before the LORD thy God, and worship before the LORD thy God:
-<small><sub>**BSB:**</sub></small>
-And now, behold, I have brought the firstfruits of the land that You, O LORD, have given me.” Then you are to place the basket before the LORD your God and bow down before Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.9|<< Deuteronomy 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.11|Deuteronomy 26:11 >>]]</td></tr></table>
 
 | Translation | Greek |

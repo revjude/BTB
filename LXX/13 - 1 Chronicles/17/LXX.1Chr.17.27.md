@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:27** 
 <small><sub>**LXX:**</sub></small>
 And now you began  to bless the house  of your servant,  \[for it\] to be in the eon before you. For you, O <span class="smallcaps">lord</span>, blessed; and it is blessed into the eon. 
-<small><sub>**KJV:**</sub></small>
-Now therefore let it please thee to bless the house of thy servant, that it may be before thee for ever: for thou blessest, O LORD, and [it shall be] blessed for ever.
-<small><sub>**BSB:**</sub></small>
-So now You have been pleased to bless the house of Your servant, that it may continue forever before You. For You, O LORD, have blessed it, and it will be blessed forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.26|<< 1 Chronicles 17:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.1|1 Chronicles 18:1 >>]]</td></tr></table>
 
 | Translation | Greek |

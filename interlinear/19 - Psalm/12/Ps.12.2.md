@@ -1,4 +1,4 @@
-**Psalms 12:2** (12:3)
+**Psalms 12:2**<big><big>[[Ps.12.1 The Godly Are No More|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They speak vanity every one with his neighbour: [with] flattering lips [and] with a double heart do they speak.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They lie to one another; they speak with flattering lips and a double heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.12.1|<< Psalms 12:1]]</td><td align="center" style="border:none;">[[Ps.12|Psalms 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.12.3|Psalms 12:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | falsehood  |**<big>&#8207;[[H7723G\|שָׁ֤וְא]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| shav'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they speak  |**<big>&#8207;[[H1696G\|יְֽדַבְּרוּ֮]]&#8207; </big>**| ye.da.be.Ru<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

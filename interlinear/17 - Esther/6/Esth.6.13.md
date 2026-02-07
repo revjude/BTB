@@ -1,4 +1,4 @@
-**Esther 6:13** 
+**Esther 6:13**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Haman told Zeresh his wife and all his friends every [thing] that had befallen him. Then said his wise men and Zeresh his wife unto him, If Mordecai [be] of the seed of the Jews, before whom thou hast begun to fall, thou shalt not prevail against him, but shalt surely fall before him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Haman told his wife Zeresh and all his friends everything that had happened. His
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.12|<< Esther 6:12]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.14|Esther 6:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he recounted  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5608A\|יְסַפֵּ֨ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sa.Per<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Haman  |**<big>&#8207;[[H2001\|הָמָ֜ן]]&#8207; </big>**| ha.Man<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

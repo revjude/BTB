@@ -1,10 +1,7 @@
 **LXX Daniel 4:33** 
 <small><sub>**LXX:**</sub></small>
 In this  hour the word was completed upon Nebuchadnezzar, and he was banished from men, and he ate grass as an ox, and from the dew of the heaven  his body was dipped, until  his hairs were enlarged as lions' \[hairs\], and  his fingernails as birds' \[claws\]. 
-<small><sub>**KJV:**</sub></small>
-The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hairs were grown like eagles’ [feathers], and his nails like birds’ [claws].
-<small><sub>**BSB:**</sub></small>
-At that moment the sentence against Nebuchadnezzar was fulfilled. He was driven away from mankind. He ate grass like an ox, and his body was drenched with the dew of heaven, until his hair grew like the feathers of an eagle and his nails like the claws of a bird.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.32|<< Daniel 4:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.34|Daniel 4:34 >>]]</td></tr></table>
 
 | Translation | Greek |

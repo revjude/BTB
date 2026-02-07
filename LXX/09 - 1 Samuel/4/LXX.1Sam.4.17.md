@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:17** 
 <small><sub>**LXX:**</sub></small>
 And the servant-lad answered, and said, \[Every\] man of Israel fled from \[the\] face of \[the\] Philistines, and a great calamity has happened among the people, and both  of your sons have died, and the ark  of God was taken. 
-<small><sub>**KJV:**</sub></small>
-And the messenger answered and said, Israel is fled before the Philistines, and there hath been also a great slaughter among the people, and thy two sons also, Hophni and Phinehas, are dead, and the ark of God is taken.
-<small><sub>**BSB:**</sub></small>
-The messenger answered, “Israel has fled before the Philistines, and there has been a great slaughter among the people. Your two sons, Hophni and Phinehas, are both dead, and the ark of God has been captured.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.16|<< 1 Samuel 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.18|1 Samuel 4:18 >>]]</td></tr></table>
 
 | Translation | Greek |

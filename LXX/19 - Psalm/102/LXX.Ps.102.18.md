@@ -1,10 +1,7 @@
 **LXX Psalm 102:18** 
 <small><sub>**LXX:**</sub></small>
 Let this be written for another generation! and \[the\] people  being created shall praise the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-This shall be written for the generation to come: and the people which shall be created shall praise the LORD.
-<small><sub>**BSB:**</sub></small>
-Let this be written for the generation to come, so that a people not yet created may praise the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.17|<< Psalm 102:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.19|Psalm 102:19 >>]]</td></tr></table>
 
 | Translation | Greek |

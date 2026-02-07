@@ -1,10 +1,7 @@
 **LXX Genesis 11:21** 
 <small><sub>**LXX:**</sub></small>
 And Reu lived after  his procreating  Serug two hundred seven years, and he procreated sons and daughters, and he died. 
-<small><sub>**KJV:**</sub></small>
-And Reu lived after he begat Serug two hundred and seven years, and begat sons and daughters.
-<small><sub>**BSB:**</sub></small>
-And after he had become the father of Serug, Reu lived 207 years and had other sons and daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.20|<< Genesis 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.22|Genesis 11:22 >>]]</td></tr></table>
 
 | Translation | Greek |

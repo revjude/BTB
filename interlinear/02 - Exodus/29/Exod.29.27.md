@@ -1,4 +1,4 @@
-**Exodus 29:27** 
+**Exodus 29:27**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt sanctify the breast of the wave offering, and the shoulder of the heave offering, which is waved, and which is heaved up, of the ram of the consecration, [even] of [that] which [is] for Aaron, and of [that] which is for his sons:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Consecrate for Aaron and his sons the breast of the wave offering that is waved 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.26|<< Exodus 29:26]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.28|Exodus 29:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will consecrate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6942G\|קִדַּשְׁתָּ֞]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ki.dash.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֣ת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

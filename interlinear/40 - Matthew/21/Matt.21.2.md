@@ -1,12 +1,12 @@
-**Matthew 21:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:2**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying unto them, Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose [them], and bring [them] unto me.
 <small><sub>**BSB:**</sub></small>
 saying to them, “Go into the village ahead of you, and at once you will find a donkey tied there, with her colt beside her. Untie them and bring them to Me.
 <small><sub>**Literal:**</sub></small>
 saying to them; do go into the village which [is] in front of you. and immediately you will find a donkey tied and a colt with her; having untied [them] do bring [them] to Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.1|<< Matthew 21:1]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.3|Matthew 21:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying |**<big>[[G3004G\|λέγων]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to them; |**<big>[[G0846\|αὐτοῖς·]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

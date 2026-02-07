@@ -1,12 +1,12 @@
-**Acts 17:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:5**<big><big>[[Acts.17.1 The Uproar in Thessalonica|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the Jews which believed not, moved with envy, took unto them certain lewd fellows of the baser sort, and gathered a company, and set all the city on an uproar, and assaulted the house of Jason, and sought to bring them out to the people.
 <small><sub>**BSB:**</sub></small>
 The Jews, however, became jealous. So they brought in some troublemakers from the marketplace, formed a mob, and sent the city into an uproar. They raided Jason’s house in search of Paul and Silas, hoping to bring them out to the people.
 <small><sub>**Literal:**</sub></small>
 Having become jealous now the [being] disobedient <the> Jews and having taken to [them] of the market-loungers men certain wicked and having collected a crowd they were setting in uproar the city, and having assailed the house of Jason they were seeking them to bring out to the people;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.4|<< Acts 17:4]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.6|Acts 17:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having become jealous |**<big>[[G2206\|Ζηλώσαντες]]</big>**  |Zēlōsantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

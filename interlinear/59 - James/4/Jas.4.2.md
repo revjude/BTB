@@ -1,12 +1,12 @@
-**James 4:2
-**<small><sub>**KJV:**</sub></small>
+**James 4:2**<big><big>[[Jas.4.1 A Warning against Pride|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye lust, and have not: ye kill, and desire to have, and cannot obtain: ye fight and war, yet ye have not, because ye ask not.
 <small><sub>**BSB:**</sub></small>
 You crave what you do not have; you kill and covet, but are unable to obtain it. You quarrel and fight. You do not have, because you do not ask.
 <small><sub>**Literal:**</sub></small>
 You desire and not have; you kill and covet and not are able to obtain; You quarrel and wrangle; Not you have now because <the> not to ask you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.1|<< James 4:1]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.3|James 4:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You desire |**<big>[[G1937\|ἐπιθυμεῖτε]]</big>**  |epithumeite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

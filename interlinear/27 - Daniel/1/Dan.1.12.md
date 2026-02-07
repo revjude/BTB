@@ -1,4 +1,4 @@
-**Daniel 1:12** 
+**Daniel 1:12**<big><big>[[Dan.1.8 Daniel’s Faithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat, and water to drink.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.11|<< Daniel 1:11]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.13|Daniel 1:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | put to [the] test  |**<big>&#8207;[[H5254G\|נַס]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| nas-<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֥א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

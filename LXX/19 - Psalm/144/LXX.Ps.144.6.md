@@ -1,10 +1,7 @@
 **LXX Psalm 144:6** 
 <small><sub>**LXX:**</sub></small>
 Flash lightning! and you shall disperse them. Send out  your arrows! and you shall disturb them. 
-<small><sub>**KJV:**</sub></small>
-Cast forth lightning, and scatter them: shoot out thine arrows, and destroy them.
-<small><sub>**BSB:**</sub></small>
-Flash forth Your lightning and scatter them; shoot Your arrows and rout them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.144.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.5|<< Psalm 144:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.7|Psalm 144:7 >>]]</td></tr></table>
 
 | Translation | Greek |

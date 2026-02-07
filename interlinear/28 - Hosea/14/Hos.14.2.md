@@ -1,4 +1,4 @@
-**Hosea 14:2** (14:3)
+**Hosea 14:2**<big><big>[[Hos.14.1 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive [us] graciously: so will we render the calves of our lips.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Bring your confessions and return to the LORD. Say to Him: “Take away all our 
 > $\quad$ referenced by: [[Heb.11.14|Heb 11:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take  |**<big>&#8207;[[H3947G\|קְח֤וּ]]&#8207; </big>**| ke.Chu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with you  |**<big>&#8207;[[H5973A\|עִמָּ]]&#8207;&#8207;[[H9036\|כֶם֙]]&#8207; </big>**| 'i.ma.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

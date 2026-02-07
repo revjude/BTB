@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:7** 
 <small><sub>**LXX:**</sub></small>
 And she came and reported to the man  of God. And he said to her, Go, and render the olive oil \[for sale\], and pay  your interest! and you and  your sons shall live by the rest. 
-<small><sub>**KJV:**</sub></small>
-Then she came and told the man of God. And he said, Go, sell the oil, and pay thy debt, and live thou and thy children of the rest.
-<small><sub>**BSB:**</sub></small>
-She went and told the man of God, and he said, “Go, sell the oil, and pay your debt. Then you and your sons can live on the remainder.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.6|<< 2 Kings 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.8|2 Kings 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

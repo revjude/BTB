@@ -1,4 +1,4 @@
-**Jeremiah 37:11** 
+**Jeremiah 37:11**<big><big>[[Jer.37.11 Jeremiah Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that when the army of the Chaldeans was broken up from Jerusalem for fear of Pharaoh’s army,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the Chaldean army withdrew from Jerusalem for fear of Pharaoh’s army,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.10|<< Jeremiah 37:10]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.12|Jeremiah 37:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when had taken itself up  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5927G\|הֵֽעָלוֹת֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> he.'a.lOt<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 As a rush of water, so \[is the\] heart of a king in \[the\] hand of God; where ever wishing he should nod, there he leans it. 
-<small><sub>**KJV:**</sub></small>
-The king’s heart [is] in the hand of the LORD, [as] the rivers of water: he turneth it whithersoever he will.
-<small><sub>**BSB:**</sub></small>
-The king’s heart is a waterway in the hand of the LORD; He directs it where He pleases.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.30|<< Proverbs 20:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.2|Proverbs 21:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 24:21** 
 <small><sub>**LXX:**</sub></small>
 And the man studied her, and remained silent  to know if \[the\] <span class="smallcaps">lord</span> prospered  his way or not. 
-<small><sub>**KJV:**</sub></small>
-And the man wondering at her held his peace, to wit whether the LORD had made his journey prosperous or not.
-<small><sub>**BSB:**</sub></small>
-Meanwhile, the man watched her silently to see whether or not the LORD had made his journey a success.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.20|<< Genesis 24:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.22|Genesis 24:22 >>]]</td></tr></table>
 
 | Translation | Greek |

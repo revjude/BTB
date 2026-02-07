@@ -1,12 +1,12 @@
-**John 10:40
-**<small><sub>**KJV:**</sub></small>
+**John 10:40**<big><big>[[John.10.40 John’s Testimony Confirmed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And went away again beyond Jordan into the place where John at first baptized; and there he abode.
 <small><sub>**BSB:**</sub></small>
 Then Jesus went back across the Jordan to the place where John had first been baptizing, and He stayed there.
 <small><sub>**Literal:**</sub></small>
 And He departed again beyond the Jordan to the place where was John <the> at first baptizing, And He stayed there.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.39|<< John 10:39]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.41|John 10:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He departed |**<big>[[G0565\|ἀπῆλθεν]]</big>**  |apēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

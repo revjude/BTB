@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:14** 
 <small><sub>**LXX:**</sub></small>
 And I will destroy \[the\] land of Pathros, and I will put fire upon Tanis, and I will execute punishment in Diospolis. 
-<small><sub>**KJV:**</sub></small>
-And I will make Pathros desolate, and will set fire in Zoan, and will execute judgments in No.
-<small><sub>**BSB:**</sub></small>
-I will lay waste Pathros, set fire to Zoan, and execute judgment on Thebes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.13|<< Ezekiel 30:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.15|Ezekiel 30:15 >>]]</td></tr></table>
 
 | Translation | Greek |

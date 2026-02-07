@@ -1,4 +1,4 @@
-**Psalms 105:24** 
+**Psalms 105:24**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he increased his people greatly; and made them stronger than their enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD made His people very fruitful, more numerous than their foes,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.23|<< Psalms 105:23]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.25|Psalms 105:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made fruitful  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6509\|יֶּ֣פֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.fer<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

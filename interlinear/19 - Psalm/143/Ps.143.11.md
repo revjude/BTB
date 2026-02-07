@@ -1,4 +1,4 @@
-**Psalms 143:11** 
+**Psalms 143:11**<big><big>[[Ps.143.1 I Stretch Out My Hands to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Quicken me, O LORD, for thy name’s sake: for thy righteousness’ sake bring my soul out of trouble.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the sake of Your name, O LORD, revive me. In Your righteousness, bring my so
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.143.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.143.10|<< Psalms 143:10]]</td><td align="center" style="border:none;">[[Ps.143|Psalms 143]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.12|Psalms 143:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for [the] sake of  |**<big>&#8207;[[H4616\|לְמַֽעַן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.ma.'an-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | name your  |**<big>&#8207;[[H8034\|שִׁמְ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| shim.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

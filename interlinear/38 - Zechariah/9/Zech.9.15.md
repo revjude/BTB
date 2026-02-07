@@ -1,4 +1,4 @@
-**Zechariah 9:15** 
+**Zechariah 9:15**<big><big>[[Zech.9.14 The LORD Will Save His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD of hosts shall defend them; and they shall devour, and subdue with sling stones; and they shall drink, [and] make a noise as through wine; and they shall be filled like bowls, [and] as the corners of the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD of Hosts will shield them. They will destroy and conquer with slingston
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.14|<< Zechariah 9:14]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.16|Zechariah 9:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of hosts  |**<big>&#8207;[[H6635B\|צְבָאוֹת֮]]&#8207; </big>**| tze.va.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

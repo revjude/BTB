@@ -1,10 +1,7 @@
 **LXX Psalm 18:19** 
 <small><sub>**LXX:**</sub></small>
 And he brought me into an enlargement. He shall rescue me, for he wanted me. 
-<small><sub>**KJV:**</sub></small>
-He brought me forth also into a large place; he delivered me, because he delighted in me.
-<small><sub>**BSB:**</sub></small>
-He brought me out into the open; He rescued me because He delighted in me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.18|<< Psalm 18:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.20|Psalm 18:20 >>]]</td></tr></table>
 
 | Translation | Greek |

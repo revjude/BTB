@@ -6,10 +6,7 @@ To the director; for the wine vats; a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>,  our Lord, how wonderful  \[is\] your name in all the earth. For your majesty was lifted up above the heavens. 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician upon Gittith, A Psalm of David. O LORD our Lord, how excellent [is] thy name in all the earth! who hast set thy glory above the heavens.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. According to Gittith. A Psalm of David. O LORD, our Lord, how majestic is Your name in all the earth! You have set Your glory above the heavens.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.17|<< Psalm 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.8.2|Psalm 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

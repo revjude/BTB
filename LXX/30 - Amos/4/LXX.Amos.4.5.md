@@ -1,10 +1,7 @@
 **LXX Amos 4:5** 
 <small><sub>**LXX:**</sub></small>
 And they read outside \[the\] law, and called for an acknowledgment \[offering\]. Announce! that the sons of Israel loved these \[things\], says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And offer a sacrifice of thanksgiving with leaven, and proclaim [and] publish the free offerings: for this liketh you, O ye children of Israel, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-Offer leavened bread as a thank offering, and loudly proclaim your freewill offerings. For that is what you children of Israel love to do,” declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.4|<< Amos 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.4.6|Amos 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

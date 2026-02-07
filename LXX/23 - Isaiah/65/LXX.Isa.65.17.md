@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 For there will be the new heaven, and the new earth. And in no way shall they remember the former \[things\], nor in any way shall it come upon  their heart. 
-<small><sub>**KJV:**</sub></small>
-For, behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind.
-<small><sub>**BSB:**</sub></small>
-For behold, I will create new heavens and a new earth. The former things will not be remembered, nor will they come to mind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.16|<< Isaiah 65:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.18|Isaiah 65:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 65:17** is...

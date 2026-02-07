@@ -1,10 +1,7 @@
 **LXX Psalm 147:8** 
 <small><sub>**LXX:**</sub></small>
 to the one covering the heaven with clouds; to the one preparing rain for the earth; to the grass to rise up on mountains, and tender shoots for the service  of men; 
-<small><sub>**KJV:**</sub></small>
-Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.
-<small><sub>**BSB:**</sub></small>
-who covers the sky with clouds, who prepares rain for the earth, who makes grass to grow on the hills.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.147.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.7|<< Psalm 147:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.9|Psalm 147:9 >>]]</td></tr></table>
 
 | Translation | Greek |

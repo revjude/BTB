@@ -1,10 +1,7 @@
 **LXX Isaiah 27:8** 
 <small><sub>**LXX:**</sub></small>
 He shall send them out doing combat and berating. Were you not the one meditating with  a harsh spirit, to do away with them in a spirit of rage? 
-<small><sub>**KJV:**</sub></small>
-In measure, when it shooteth forth, thou wilt debate with it: he stayeth his rough wind in the day of the east wind.
-<small><sub>**BSB:**</sub></small>
-By warfare and exile You contended with her and removed her with a fierce wind, as on the day the east wind blows.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.7|<< Isaiah 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.9|Isaiah 27:9 >>]]</td></tr></table>
 
 | Translation | Greek |

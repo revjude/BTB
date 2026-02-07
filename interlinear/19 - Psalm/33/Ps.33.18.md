@@ -1,4 +1,4 @@
-**Psalms 33:18** 
+**Psalms 33:18**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the eye of the LORD [is] upon them that fear him, upon them that hope in his mercy;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely the eyes of the LORD are on those who fear Him, on those whose hope is in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.17|<< Psalms 33:17]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.19|Psalms 33:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] eye of  |**<big>&#8207;[[H5869A\|עֵ֣ין]]&#8207; </big>**| 'ein<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

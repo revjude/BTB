@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 An older man, and a young man, and a virgin, and infants, and women -- kill unto wiping out! But upon all upon whom there is the sign, you should not approach. And begin from my holy places! And they began with the men of the elders who were inside in the house. 
-<small><sub>**KJV:**</sub></small>
-Slay utterly old [and] young, both maids, and little children, and women: but come not near any man upon whom [is] the mark; and begin at my sanctuary. Then they began at the ancient men which [were] before the house.
-<small><sub>**BSB:**</sub></small>
-Slaughter the old men, the young men and maidens, the women and children; but do not go near anyone who has the mark. Now begin at My sanctuary.” So they began with the elders who were before the temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.5|<< Ezekiel 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.7|Ezekiel 9:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 9:6** is...

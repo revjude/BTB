@@ -1,12 +1,12 @@
-**2 Peter 2:21
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 2:21**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For it had been better for them not to have known the way of righteousness, than, after they have known [it], to turn from the holy commandment delivered unto them.
 <small><sub>**BSB:**</sub></small>
 It would have been better for them not to have known the way of righteousness than to have known it and then to turn away from the holy commandment passed on to them.
 <small><sub>**Literal:**</sub></small>
 Better for it was being for them not to have known the way <the> of righteousness than having known [it] to have turned from the having been delivered to them holy commandment.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.20|<< 2 Peter 2:20]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.22|2 Peter 2:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Better |**<big>[[G2908\|κρεῖττον]]</big>**  |kreitton <small><sup>[[A-NSN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

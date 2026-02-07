@@ -1,10 +1,7 @@
 **LXX Genesis 23:15** 
 <small><sub>**LXX:**</sub></small>
 Not so O lord, for I heard four hundred double-drachmas of silver; but what ever may this be between me and you? But you  entomb your dead! 
-<small><sub>**KJV:**</sub></small>
-My lord, hearken unto me: the land [is worth] four hundred shekels of silver; what [is] that betwixt me and thee? bury therefore thy dead.
-<small><sub>**BSB:**</sub></small>
-“Listen to me, my lord. The land is worth four hundred shekels of silver, but what is that between you and me? Bury your dead.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.23.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.14|<< Genesis 23:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.16|Genesis 23:16 >>]]</td></tr></table>
 
 | Translation | Greek |

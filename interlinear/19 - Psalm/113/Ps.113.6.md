@@ -1,4 +1,4 @@
-**Psalms 113:6** 
+**Psalms 113:6**<big><big>[[Ps.113.1 The LORD Exalts the Humble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who humbleth [himself] to behold [the things that are] in heaven, and in the earth!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He humbles Himself to behold the heavens and the earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.113.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.113.5|<< Psalms 113:5]]</td><td align="center" style="border:none;">[[Ps.113|Psalms 113]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.113.7|Psalms 113:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who is making low  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H8213\|מַּשְׁפִּילִ֥י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mash.pi.Li<small><sup>[[HVhrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to look  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7200G\|רְא֑וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> r.'ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 21:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:12**<big><big>[[Luke.21.10 Witnessing to All Nations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But before all these, they shall lay their hands on you, and persecute [you], delivering [you] up to the synagogues, and into prisons, being brought before kings and rulers for my name’s sake.
 <small><sub>**BSB:**</sub></small>
 But before all this, they will seize you and persecute you. On account of My name they will deliver you to the synagogues and prisons, and they will bring you before kings and governors.
 <small><sub>**Literal:**</sub></small>
 Before however these things all they will lay upon you the hands of them and will persecute [you] delivering [you] to the synagogues and prisons, leading [you] before kings and governors on account of the name of Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.11|<< Luke 21:11]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.13|Luke 21:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Before |**<big>[[G4253\|Πρὸ]]</big>**  |Pro <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

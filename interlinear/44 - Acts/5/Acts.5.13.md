@@ -1,12 +1,12 @@
-**Acts 5:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:13**<big><big>[[Acts.5.12 The Apostles Heal Many|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And of the rest durst no man join himself to them: but the people magnified them.
 <small><sub>**BSB:**</sub></small>
 Although the people regarded them highly, no one else dared to join them.
 <small><sub>**Literal:**</sub></small>
 of the now rest no [one] was daring to join with them, but were magnifying them the people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.12|<< Acts 5:12]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.14|Acts 5:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of the |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

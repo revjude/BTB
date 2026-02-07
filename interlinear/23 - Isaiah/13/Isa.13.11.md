@@ -1,4 +1,4 @@
-**Isaiah 13:11** 
+**Isaiah 13:11**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will punish the world for [their] evil, and the wicked for their iniquity; and I will cause the arrogancy of the proud to cease, and will lay low the haughtiness of the terrible.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will punish the world for its evil and the wicked for their iniquity. I will e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.10|<< Isaiah 13:10]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.12|Isaiah 13:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will visit  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6485H\|פָקַדְתִּ֤י]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fa.kad.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

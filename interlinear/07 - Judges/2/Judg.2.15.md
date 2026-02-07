@@ -1,4 +1,4 @@
-**Judges 2:15** 
+**Judges 2:15**<big><big>[[Judg.2.10 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whithersoever they went out, the hand of the LORD was against them for evil, as the LORD had said, and as the LORD had sworn unto them: and they were greatly distressed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wherever Israel marched out, the hand of the LORD was against them to bring cala
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.14|<< Judges 2:14]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.16|Judges 2:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in every  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כֹ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | where  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

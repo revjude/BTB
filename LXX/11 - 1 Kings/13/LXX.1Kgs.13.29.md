@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:29** 
 <small><sub>**LXX:**</sub></small>
 And the prophet lifted the body of the man  of God, and he placed it upon the donkey, and he returned it to the city of the old prophet,  to lament and to entomb him. 
-<small><sub>**KJV:**</sub></small>
-And the prophet took up the carcase of the man of God, and laid it upon the ass, and brought it back: and the old prophet came to the city, to mourn and to bury him.
-<small><sub>**BSB:**</sub></small>
-So the old prophet lifted up the body of the man of God, laid it on the donkey, and brought it back to his own city to mourn for him and bury him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.28|<< 1 Kings 13:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.30|1 Kings 13:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 15:3** 
+**Proverbs 15:3**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The eyes of the LORD [are] in every place, beholding the evil and the good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The eyes of the LORD are in every place, observing the evil and the good.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.2|<< Proverbs 15:2]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.4|Proverbs 15:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] in every  |**<big>&#8207;[[H9003\|בְּֽ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | place  |**<big>&#8207;[[H4725\|מָ֭קוֹם]]&#8207; </big>**| Ma.kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

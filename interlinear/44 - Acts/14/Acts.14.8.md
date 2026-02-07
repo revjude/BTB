@@ -1,12 +1,12 @@
-**Acts 14:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:8**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there sat a certain man at Lystra, impotent in his feet, being a cripple from his mother’s womb, who never had walked:
 <small><sub>**BSB:**</sub></small>
 In Lystra there sat a man crippled in his feet, who was lame from birth and had never walked.
 <small><sub>**Literal:**</sub></small>
 And a certain man crippled in Lystra in the feet was sitting, lame from [the] womb of [the] mother of him being who never walked.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.7|<< Acts 14:7]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.9|Acts 14:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καί]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a certain |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

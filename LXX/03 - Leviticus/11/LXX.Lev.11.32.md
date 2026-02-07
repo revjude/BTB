@@ -1,10 +1,7 @@
 **LXX Leviticus 11:32** 
 <small><sub>**LXX:**</sub></small>
 And all upon what ever should fall upon it, upon their ones having died, shall be unclean from every wooden item, or garment, or skin, or a sackcloth. Every item in which ever work should be done by it shall be dipped into water, and it shall be unclean until evening -- and \[then\] it will be clean. 
-<small><sub>**KJV:**</sub></small>
-And upon whatsoever [any] of them, when they are dead, doth fall, it shall be unclean; whether [it be] any vessel of wood, or raiment, or skin, or sack, whatsoever vessel [it be], wherein [any] work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed.
-<small><sub>**BSB:**</sub></small>
-When one of them dies and falls on something, that article becomes unclean; any article of wood, clothing, leather, sackcloth, or any implement used for work must be rinsed with water and will remain unclean until evening; then it will be clean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.31|<< Leviticus 11:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.33|Leviticus 11:33 >>]]</td></tr></table>
 
 | Translation | Greek |

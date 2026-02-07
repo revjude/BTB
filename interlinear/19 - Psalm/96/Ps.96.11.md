@@ -1,4 +1,4 @@
-**Psalms 96:11** 
+**Psalms 96:11**<big><big>[[Ps.96.1 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the heavens be glad and the earth rejoice; let the sea resound, and all that
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.96.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.96.10|<< Psalms 96:10]]</td><td align="center" style="border:none;">[[Ps.96|Psalms 96]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.96.12|Psalms 96:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them rejoice  |**<big>&#8207;[[H8055\|יִשְׂמְח֣וּ]]&#8207; </big>**| yis.me.Chu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the heavens  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H8064\|שָּׁמַיִם]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> sha.ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

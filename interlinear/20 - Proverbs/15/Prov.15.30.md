@@ -1,4 +1,4 @@
-**Proverbs 15:30** 
+**Proverbs 15:30**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The light of the eyes rejoiceth the heart: [and] a good report maketh the bones fat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The light of the eyes cheers the heart, and good news nourishes the bones.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.29|<< Proverbs 15:29]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.31|Proverbs 15:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | light of  |**<big>&#8207;[[H3974\|מְֽאוֹר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| me.'or-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes  |**<big>&#8207;[[H5869A\|עֵ֭ינַיִם]]&#8207; </big>**| 'Ei.na.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

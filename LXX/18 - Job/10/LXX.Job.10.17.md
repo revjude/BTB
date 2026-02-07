@@ -1,10 +1,7 @@
 **LXX Job 10:17** 
 <small><sub>**LXX:**</sub></small>
 renewing upon me  my chastisement; and you dealt with me in great anger, and you brought trials against me. 
-<small><sub>**KJV:**</sub></small>
-Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war [are] against me.
-<small><sub>**BSB:**</sub></small>
-You produce new witnesses against me and multiply Your anger toward me. Hardships assault me in wave after wave.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.16|<< Job 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.18|Job 10:18 >>]]</td></tr></table>
 
 | Translation | Greek |

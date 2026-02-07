@@ -1,4 +1,4 @@
-**Genesis 29:32** 
+**Genesis 29:32**<big><big>[[Gen.29.31 Reuben, Simeon, Levi, and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Leah conceived, and bare a son, and she called his name Reuben: for she said, Surely the LORD hath looked upon my affliction; now therefore my husband will love me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Leah conceived and gave birth to a son, and she named him Reuben, for she sa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.31|<< Genesis 29:31]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.33|Genesis 29:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she conceived  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2029\|תַּ֤הַר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.har<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Leah  |**<big>&#8207;[[H3812\|לֵאָה֙]]&#8207; </big>**| le.'Ah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 2:19** 
+**1 Kings 2:19**<big><big>[[1Kgs.2.13 The Execution of Adonijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bathsheba therefore went unto king Solomon, to speak unto him for Adonijah. And the king rose up to meet her, and bowed himself unto her, and sat down on his throne, and caused a seat to be set for the king’s mother; and she sat on his right hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Bathsheba went to King Solomon to speak to him for Adonijah. The king stood u
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.18|<< 1 Kings 2:18]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.20|1 Kings 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|תָּבֹ֤א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Bath-  |**<big>&#8207;[[H1339\|בַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| vat-<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

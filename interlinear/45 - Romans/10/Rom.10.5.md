@@ -1,5 +1,5 @@
-**Romans 10:5
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:5**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them.
 <small><sub>**BSB:**</sub></small>
 For concerning the righteousness that is by the law, Moses writes: “The man who does these things will live by them.”
@@ -10,7 +10,7 @@ Moses for writes [of] the righteousness that [is] of the law that The having don
 > $\quad$ referencing: [[LXX.Lev.18.5|Lev 18:5]] ☩ [[LXX.Ezek.20.11|Ezek 20:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Moses |**<big>[[G3475\|Μωϋσῆς]]</big>**  [^1] |Mōusēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

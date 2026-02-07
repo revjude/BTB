@@ -1,10 +1,7 @@
 **LXX Jeremiah 37:4** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah came and went through the middle of the city, and they did not put him into prison. 
-<small><sub>**KJV:**</sub></small>
-Now Jeremiah came in and went out among the people: for they had not put him into prison.
-<small><sub>**BSB:**</sub></small>
-Now Jeremiah was free to come and go among the people, for they had not yet put him in prison.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.37.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.3|<< Jeremiah 37:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.5|Jeremiah 37:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Absalom gave charge \[to\] his servants, saying, Behold, when ever the heart of Amnon \[feels\] good with the wine, and I should say to you, Strike  Amnon and put him to death! you should not fear. For is it not I  giving charge to you? Be manly and become as sons of power! 
-<small><sub>**KJV:**</sub></small>
-Now Absalom had commanded his servants, saying, Mark ye now when Amnon’s heart is merry with wine, and when I say unto you, Smite Amnon; then kill him, fear not: have not I commanded you? be courageous, and be valiant.
-<small><sub>**BSB:**</sub></small>
-Now Absalom had ordered his young men, “Watch Amnon until his heart is merry with wine, and when I order you to strike Amnon down, you are to kill him. Do not be afraid. Have I not commanded you? Be courageous and valiant!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.27|<< 2 Samuel 13:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.29|2 Samuel 13:29 >>]]</td></tr></table>
 
 | Translation | Greek |

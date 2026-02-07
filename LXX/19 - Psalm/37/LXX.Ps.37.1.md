@@ -6,10 +6,7 @@ A psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 Be not provoked to jealousy with ones acting wickedly, nor be jealous of the ones doing  lawlessness! 
-<small><sub>**KJV:**</sub></small>
-[A Psalm] of David. Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.
-<small><sub>**BSB:**</sub></small>
-Of David. Do not fret over those who do evil; do not envy those who do wrong.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.37.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.36.12|<< Psalm 36:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.2|Psalm 37:2 >>]]</td></tr></table>
 
 | Translation | Greek |

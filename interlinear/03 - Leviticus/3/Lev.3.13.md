@@ -1,4 +1,4 @@
-**Leviticus 3:13** 
+**Leviticus 3:13**<big><big>[[Lev.3.1 Laws for Peace Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall lay his hand upon the head of it, and kill it before the tabernacle of the congregation: and the sons of Aaron shall sprinkle the blood thereof upon the altar round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He must lay his hand on its head and slaughter it in front of the Tent of Meetin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.3.12|<< Leviticus 3:12]]</td><td align="center" style="border:none;">[[Lev.3|Leviticus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.3.14|Leviticus 3:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will lean  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5564\|סָמַ֤ךְ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.Makh<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

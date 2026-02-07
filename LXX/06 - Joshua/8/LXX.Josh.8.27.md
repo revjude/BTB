@@ -1,10 +1,7 @@
 **LXX Joshua 8:27** 
 <small><sub>**LXX:**</sub></small>
 Except the cattle and the spoils  in  that city the sons of Israel despoiled for themselves according to \[the\] order of \[the\] <span class="smallcaps">lord</span>, in which manner \[the\] <span class="smallcaps">lord</span> gave orders  to Joshua. 
-<small><sub>**KJV:**</sub></small>
-Only the cattle and the spoil of that city Israel took for a prey unto themselves, according unto the word of the LORD which he commanded Joshua.
-<small><sub>**BSB:**</sub></small>
-Israel took for themselves only the cattle and plunder of that city, as the LORD had commanded Joshua.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.26|<< Joshua 8:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.28|Joshua 8:28 >>]]</td></tr></table>
 
 | Translation | Greek |

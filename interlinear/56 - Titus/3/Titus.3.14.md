@@ -1,12 +1,12 @@
-**Titus 3:14
-**<small><sub>**KJV:**</sub></small>
+**Titus 3:14**<big><big>[[Titus.3.12 Final Remarks and Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And let ours also learn to maintain good works for necessary uses, that they be not unfruitful.
 <small><sub>**BSB:**</sub></small>
 And our people must also learn to devote themselves to good works in order to meet the pressing needs of others, so that they will not be unfruitful.
 <small><sub>**Literal:**</sub></small>
 should learn now also <the> our own [people] to good works to devote themselves for <the> necessary needs, so that not they may be unfruitful.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.13|<< Titus 3:13]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.15|Titus 3:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | should learn |**<big>[[G3129\|μανθανέτωσαν]]</big>**  |manthanetōsan <small><sup>[[V-PAM-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

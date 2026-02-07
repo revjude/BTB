@@ -1,4 +1,4 @@
-**Amos 1:14** 
+**Amos 1:14**<big><big>[[Amos.1.1 Judgment on Israel’s Neighbors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will kindle a fire in the wall of Rabbah, and it shall devour the palaces thereof, with shouting in the day of battle, with a tempest in the day of the whirlwind:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I will kindle a fire in the walls of Rabbah to consume its citadels amid war 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.1.13|<< Amos 1:13]]</td><td align="center" style="border:none;">[[Amos.1|Amos 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.15|Amos 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will kindle  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3341\|הִצַּ֤תִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hitz.Tza.ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a fire  |**<big>&#8207;[[H0784\|אֵשׁ֙]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

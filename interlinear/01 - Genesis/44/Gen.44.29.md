@@ -1,4 +1,4 @@
-**Genesis 44:29** 
+**Genesis 44:29**<big><big>[[Gen.44.18 Judah Pleads for Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye take this also from me, and mischief befall him, ye shall bring down my gray hairs with sorrow to the grave.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now if you also take this one from me and harm comes to him, you will bring my g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.28|<< Genesis 44:28]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.30|Genesis 44:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will take  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H3947G\|לְקַחְתֶּ֧ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> le.kach.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

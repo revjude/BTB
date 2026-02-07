@@ -1,4 +1,4 @@
-**2 Samuel 6:15** 
+**2 Samuel 6:15**<big><big>[[2Sam.6.12 The Ark Brought to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David and all the house of Israel brought up the ark of the LORD with shouting, and with the sound of the trumpet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ while he and all the house of Israel brought up the ark of the LORD with shoutin
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.14|<< 2 Samuel 6:14]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.16|2 Samuel 6:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and David  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1732\|דָוִד֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

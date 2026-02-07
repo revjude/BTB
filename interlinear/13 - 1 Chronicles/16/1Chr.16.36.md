@@ -1,4 +1,4 @@
-**1 Chronicles 16:36** 
+**1 Chronicles 16:36**<big><big>[[1Chr.16.23 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [be] the LORD God of Israel for ever and ever. And all the people said, Amen, and praised the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed be the LORD, the God of Israel, from everlasting to everlasting.” Then
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.35|<< 1 Chronicles 16:35]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.37|1 Chronicles 16:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [be] blessed  |**<big>&#8207;[[H1288\|בָּר֤וּךְ]]&#8207; </big>**| ba.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

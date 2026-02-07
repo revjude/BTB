@@ -1,10 +1,7 @@
 **LXX Genesis 17:14** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] uncircumcised male who shall not be circumcised in the flesh  of his foreskin in the eighth day, that soul shall be utterly destroyed from  \[its\] race, for  my covenant he effaced. 
-<small><sub>**KJV:**</sub></small>
-And the uncircumcised man child whose flesh of his foreskin is not circumcised, that soul shall be cut off from his people; he hath broken my covenant.
-<small><sub>**BSB:**</sub></small>
-But if any male is not circumcised, he will be cut off from his people; he has broken My covenant.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.13|<< Genesis 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.15|Genesis 17:15 >>]]</td></tr></table>
 
 | Translation | Greek |

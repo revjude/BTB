@@ -1,4 +1,4 @@
-**Joshua 16:3** 
+**Joshua 16:3**<big><big>[[Josh.16.1 Ephraim’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And goeth down westward to the coast of Japhleti, unto the coast of Bethhoron the nether, and to Gezer: and the goings out thereof are at the sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then it descended westward to the border of the Japhletites as far as the border
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.16.2|<< Joshua 16:2]]</td><td align="center" style="border:none;">[[Josh.16|Joshua 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.16.4|Joshua 16:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it goes down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3381\|יָֽרַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.rad-<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | west -ward  |**<big>&#8207;[[H3220H\|יָ֜מָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Ya.ma<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

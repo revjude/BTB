@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:43** 
 <small><sub>**LXX:**</sub></small>
 Be glad, O heavens, together with him! and do obeisance to him, all angels of God! Be glad, O nations, with  his people! And grow in strength in him all, O sons of God! For the blood  of his sons he shall avenge, and he shall avenge and recompense punishment to the enemies. And to the ones detesting him he will recompense, and \[the\] <span class="smallcaps">lord</span> shall clear out the land  for his people. 
-<small><sub>**KJV:**</sub></small>
-Rejoice, O ye nations, [with] his people: for he will avenge the blood of his servants, and will render vengeance to his adversaries, and will be merciful unto his land, [and] to his people.
-<small><sub>**BSB:**</sub></small>
-Rejoice, O heavens, with Him, and let all God’s angels worship Him. Rejoice, O nations, with His people; for He will avenge the blood of His children. He will take vengeance on His adversaries and repay those who hate Him; He will cleanse His land and His people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.42|<< Deuteronomy 32:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.44|Deuteronomy 32:44 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 32:43** is...

@@ -1,4 +1,4 @@
-**Psalms 33:8** 
+**Psalms 33:8**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let all the earth fear the LORD: let all the inhabitants of the world stand in awe of him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let all the earth fear the LORD; let all the people of the world revere Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.7|<< Psalms 33:7]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.9|Psalms 33:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them fear  |**<big>&#8207;[[H3372H\|יִֽירְא֣וּ]]&#8207; </big>**| yi.re.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Yahweh  |**<big>&#8207;[[H9006\|מֵ֭]]&#8207;&#8207;[[H3068G\|יְהוָה]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

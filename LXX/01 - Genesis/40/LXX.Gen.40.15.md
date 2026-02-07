@@ -1,10 +1,7 @@
 **LXX Genesis 40:15** 
 <small><sub>**LXX:**</sub></small>
 For by stealth I was stolen from \[the\] land of \[the\] Hebrews, and here I did not do anything, but they put me into  this pit. 
-<small><sub>**KJV:**</sub></small>
-For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon.
-<small><sub>**BSB:**</sub></small>
-For I was kidnapped from the land of the Hebrews, and even here I have done nothing for which they should have put me in this dungeon.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.14|<< Genesis 40:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.16|Genesis 40:16 >>]]</td></tr></table>
 
 | Translation | Greek |

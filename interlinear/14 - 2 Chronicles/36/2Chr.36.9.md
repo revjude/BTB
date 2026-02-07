@@ -1,4 +1,4 @@
-**2 Chronicles 36:9** 
+**2 Chronicles 36:9**<big><big>[[2Chr.36.9 Jehoiachin Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Jehoiachin [was] eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did [that which was] evil in the sight of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jehoiachin was eighteen years old when he became king, and he reigned in Jerusal
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.8|<< 2 Chronicles 36:8]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.10|2 Chronicles 36:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] a son of  |**<big>&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eight  |**<big>&#8207;[[H8083\|שְׁמוֹנֶ֤ה]]&#8207; </big>**| she.mo.Neh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

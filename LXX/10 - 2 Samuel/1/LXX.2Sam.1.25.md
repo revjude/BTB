@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:25** 
 <small><sub>**LXX:**</sub></small>
 How \[the\] mighty ones fell in \[the\] midst of battle, O Jonathan, upon  your heights you were slain. 
-<small><sub>**KJV:**</sub></small>
-How are the mighty fallen in the midst of the battle! O Jonathan, [thou wast] slain in thine high places.
-<small><sub>**BSB:**</sub></small>
-How the mighty have fallen in the thick of battle! Jonathan lies slain on your heights.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.24|<< 2 Samuel 1:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.26|2 Samuel 1:26 >>]]</td></tr></table>
 
 | Translation | Greek |

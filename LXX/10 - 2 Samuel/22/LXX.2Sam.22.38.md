@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:38** 
 <small><sub>**LXX:**</sub></small>
 I will pursue  my enemies, and I will remove them. And I shall not return until of which \[time\] I shall finish them off. 
-<small><sub>**KJV:**</sub></small>
-I have pursued mine enemies, and destroyed them; and turned not again until I had consumed them.
-<small><sub>**BSB:**</sub></small>
-I pursued my enemies and destroyed them; I did not turn back until they were consumed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.37|<< 2 Samuel 22:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.39|2 Samuel 22:39 >>]]</td></tr></table>
 
 | Translation | Greek |

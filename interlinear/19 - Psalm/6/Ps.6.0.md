@@ -1,12 +1,10 @@
-**Psalms 6:0** (6:1)
+**Psalms 6:0**<big><big>[[Ps.6.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician on Neginoth upon Sheminith, A Psalm of David. O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. With stringed instruments, according to Sheminith. A Psalm of David. O LORD, do not rebuke me in Your anger or discipline me in Your wrath.
+To the chief Musician on Neginoth upon Sheminith, A Psalm of David.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.12|<< Psalms 5:12]]</td><td align="center" style="border:none;">[[Ps.6|Psalms 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.6.1|Psalms 6:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the choirmaster  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5329\|מְנַצֵּ֣חַ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> m.na.Tze.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with stringed instruments  |**<big>&#8207;[[H9003\|בִּ֭]]&#8207;&#8207;[[H5058\|נְגִינוֹת]]&#8207; </big>**| Bi<small><sup>[[HR]]</sup></small> n.gi.not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

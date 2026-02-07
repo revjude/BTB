@@ -1,4 +1,4 @@
-**Numbers 16:3** 
+**Numbers 16:3**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gathered themselves together against Moses and against Aaron, and said unto them, [Ye take] too much upon you, seeing all the congregation [are] holy, every one of them, and the LORD [is] among them: wherefore then lift ye up yourselves above the congregation of the LORD?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They came together against Moses and Aaron and told them, “You have taken too 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.2|<< Numbers 16:2]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.4|Numbers 16:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they assembled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6950\|יִּֽקָּהֲל֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.ha.Lu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

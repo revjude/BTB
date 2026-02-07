@@ -1,10 +1,7 @@
 **LXX Genesis 12:4** 
 <small><sub>**LXX:**</sub></small>
 And Abram went just as \[the\] <span class="smallcaps">lord</span> spoke to him. And Lot set out with him. And Abram was seventy-five years \[old\] when he came forth from out of Haran. 
-<small><sub>**KJV:**</sub></small>
-So Abram departed, as the LORD had spoken unto him; and Lot went with him: and Abram [was] seventy and five years old when he departed out of Haran.
-<small><sub>**BSB:**</sub></small>
-So Abram departed, as the LORD had directed him, and Lot went with him. Abram was seventy-five years old when he left Haran.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.3|<< Genesis 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.5|Genesis 12:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 12:4** is...

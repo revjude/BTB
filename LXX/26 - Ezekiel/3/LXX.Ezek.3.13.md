@@ -1,10 +1,7 @@
 **LXX Ezekiel 3:13** 
 <small><sub>**LXX:**</sub></small>
 And I heard a sound of the wings of the living creatures flapping \[one\] to the other; and \[the\] sound of the wheels next to them, and \[the\] sound of the great quake. 
-<small><sub>**KJV:**</sub></small>
-[I heard] also the noise of the wings of the living creatures that touched one another, and the noise of the wheels over against them, and a noise of a great rushing.
-<small><sub>**BSB:**</sub></small>
-It was the sound of the wings of the living creatures brushing against one another and the sound of the wheels beside them, a great rumbling sound.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.12|<< Ezekiel 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.14|Ezekiel 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

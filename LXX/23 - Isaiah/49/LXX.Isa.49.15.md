@@ -1,10 +1,7 @@
 **LXX Isaiah 49:15** 
 <small><sub>**LXX:**</sub></small>
 Shall a woman forget  her child, or to not show mercy on on the progeny  of her belly? But even if a woman might forget these \[things\],  I will not forget you, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.
-<small><sub>**BSB:**</sub></small>
-“Can a woman forget her nursing child, or lack compassion for the son of her womb? Even if she could forget, I will not forget you!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.14|<< Isaiah 49:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.16|Isaiah 49:16 >>]]</td></tr></table>
 
 | Translation | Greek |

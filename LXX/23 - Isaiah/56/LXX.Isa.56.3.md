@@ -1,10 +1,7 @@
 **LXX Isaiah 56:3** 
 <small><sub>**LXX:**</sub></small>
 say not the foreigner! the one joining to \[the\] <span class="smallcaps">lord</span>, saying, By separation \[The\] <span class="smallcaps">lord</span> surely will separate me from  his people. And say not the eunuch that, I am a dry tree! 
-<small><sub>**KJV:**</sub></small>
-Neither let the son of the stranger, that hath joined himself to the LORD, speak, saying, The LORD hath utterly separated me from his people: neither let the eunuch say, Behold, I [am] a dry tree.
-<small><sub>**BSB:**</sub></small>
-Let no foreigner who has joined himself to the LORD say, “The LORD will utterly exclude me from His people.” And let the eunuch not say, “I am but a dry tree.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.56.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.2|<< Isaiah 56:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.4|Isaiah 56:4 >>]]</td></tr></table>
 
 | Translation | Greek |

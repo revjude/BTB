@@ -1,10 +1,7 @@
 **LXX Genesis 19:17** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when they led them outside, and said, By escaping escape \[with\] your own life! You should not look round about to the rear, nor stand in any  round about \[place\]. Escape into the mountain! lest at any time you may be taken along with \[them\]. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when they had brought them forth abroad, that he said, Escape for thy life; look not behind thee, neither stay thou in all the plain; escape to the mountain, lest thou be consumed.
-<small><sub>**BSB:**</sub></small>
-As soon as the men had brought them out, one of them said, “Run for your lives! Do not look back, and do not stop anywhere on the plain! Flee to the mountains, or you will be swept away!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.16|<< Genesis 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.18|Genesis 19:18 >>]]</td></tr></table>
 
 | Translation | Greek |

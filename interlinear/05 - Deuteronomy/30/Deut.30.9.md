@@ -1,4 +1,4 @@
-**Deuteronomy 30:9** 
+**Deuteronomy 30:9**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD thy God will make thee plenteous in every work of thine hand, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy land, for good: for the LORD will again rejoice over thee for good, as he rejoiced over thy fathers:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the LORD your God will make you abound in all the work of your hands and in t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.8|<< Deuteronomy 30:8]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.10|Deuteronomy 30:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make abound you  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3498\|הוֹתִֽירְ]]&#8207;&#8207;[[H9031\|ךָ֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.ti.re.<small><sup>[[HVhq3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Psalms 102:1** (102:2)
+**Psalms 102:1**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before the LORD. Hear my prayer, O LORD, and let my cry come unto thee.
+Hear my prayer, O LORD, and let my cry come unto thee.
 <small><sub>**BSB:**</sub></small>
 A prayer of one who is afflicted, when he grows faint and pours out his lament before the LORD. Hear my prayer, O LORD; let my cry for help come before You.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.0|<< Psalms 102:0]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.2|Psalms 102:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hear !  |**<big>&#8207;[[H8085G\|שִׁמְעָ֣]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| shim.'A<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 1:10** 
+**1 Chronicles 1:10**<big><big>[[1Chr.1.1 From Adam to Abraham|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Cush begat Nimrod: he began to be mighty upon the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cush was the father of Nimrod, who began to be a mighty one on the earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.9|<< 1 Chronicles 1:9]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.11|1 Chronicles 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Cush  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3568G\|כ֖וּשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khush<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fathered  |**<big>&#8207;[[H3205\|יָלַ֣ד]]&#8207; </big>**| ya.Lad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 14:22** 
+**Exodus 14:22**<big><big>[[Exod.14.15 Parting the Red Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel went into the midst of the sea upon the dry [ground]: and the waters [were] a wall unto them on their right hand, and on their left.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ and the Israelites went through the sea on dry ground, with walls of water on th
 > $\quad$ referenced by: [[1Cor.10.1|1Cor 10:1]] ☩ [[Heb.11.29|Heb 11:29]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֧אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

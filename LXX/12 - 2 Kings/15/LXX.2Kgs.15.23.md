@@ -1,10 +1,7 @@
 **LXX 2 Kings 15:23** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] fiftieth year  of Azariah king of Judah, Pekahiah son of Menahem reigned over Israel in Samaria two years. 
-<small><sub>**KJV:**</sub></small>
-In the fiftieth year of Azariah king of Judah Pekahiah the son of Menahem began to reign over Israel in Samaria, [and reigned] two years.
-<small><sub>**BSB:**</sub></small>
-In the fiftieth year of Azariah’s reign over Judah, Pekahiah son of Menahem became king of Israel and reigned in Samaria two years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.22|<< 2 Kings 15:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.24|2 Kings 15:24 >>]]</td></tr></table>
 
 | Translation | Greek |

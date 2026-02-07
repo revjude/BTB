@@ -1,4 +1,4 @@
-**Judges 21:21** 
+**Judges 21:21**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And see, and, behold, if the daughters of Shiloh come out to dance in dances, then come ye out of the vineyards, and catch you every man his wife of the daughters of Shiloh, and go to the land of Benjamin.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and watch. When you see the daughters of Shiloh come out to perform their dances
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.20|<< Judges 21:20]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.22|Judges 21:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will see  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H7200G\|רְאִיתֶ֗ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> re.'i.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and there!  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H2009\|הִנֵּה]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> hi.neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

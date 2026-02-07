@@ -1,10 +1,7 @@
 **LXX Nahum 3:11** 
 <small><sub>**LXX:**</sub></small>
 And you shall be intoxicated. And you shall be for overlooking, and you shall seek for yourself a position from enemies. 
-<small><sub>**KJV:**</sub></small>
-Thou also shalt be drunken: thou shalt be hid, thou also shalt seek strength because of the enemy.
-<small><sub>**BSB:**</sub></small>
-You too will become drunk; you will go into hiding and seek refuge from the enemy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.10|<< Nahum 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.12|Nahum 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

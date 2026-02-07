@@ -1,4 +1,4 @@
-**2 Chronicles 11:11** 
+**2 Chronicles 11:11**<big><big>[[2Chr.11.5 Rehoboam Fortifies Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he fortified the strong holds, and put captains in them, and store of victual, and of oil and wine.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He strengthened their fortifications and put officers in them, with supplies of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.10|<< 2 Chronicles 11:10]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.12|2 Chronicles 11:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he strengthened  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388G\|יְחַזֵּ֖ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.cha.Zek<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

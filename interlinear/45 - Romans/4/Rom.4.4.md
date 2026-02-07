@@ -1,12 +1,12 @@
-**Romans 4:4
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:4**<big><big>[[Rom.4.1 Abraham Justified by Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now to him that worketh is the reward not reckoned of grace, but of debt.
 <small><sub>**BSB:**</sub></small>
 Now the wages of the worker are not credited as a gift, but as an obligation.
 <small><sub>**Literal:**</sub></small>
 To the [one] now working the reward not is reckoned according to grace but according to <the> debt;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.3|<< Romans 4:3]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.5|Romans 4:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To the [one] |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

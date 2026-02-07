@@ -1,10 +1,7 @@
 **LXX Psalm 40:5** 
 <small><sub>**LXX:**</sub></small>
 Many \[things\] you did yourself, O <span class="smallcaps">lord</span>  my God, \[concerning\] your wonders; and \[concerning\] your devices there is not any \[that\] shall be likened to you. I reported and spoke -- they were multiplied above number. 
-<small><sub>**KJV:**</sub></small>
-Many, O LORD my God, [are] thy wonderful works [which] thou hast done, and thy thoughts [which are] to us-ward: they cannot be reckoned up in order unto thee: [if] I would declare and speak [of them], they are more than can be numbered.
-<small><sub>**BSB:**</sub></small>
-Many, O LORD my God, are the wonders You have done, and the plans You have for us—none can compare to You—if I proclaim and declare them, they are more than I can count.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.40.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.4|<< Psalm 40:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.6|Psalm 40:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 40:5** is...

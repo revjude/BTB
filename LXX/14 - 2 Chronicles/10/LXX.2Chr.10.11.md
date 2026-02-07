@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 10:11** 
 <small><sub>**LXX:**</sub></small>
 And now  my father inserted to you a heavy yoke, but I will add upon  your yoke.  My father corrected you with whips, but I will correct you with scorpions. 
-<small><sub>**KJV:**</sub></small>
-For whereas my father put a heavy yoke upon you, I will put more to your yoke: my father chastised you with whips, but I [will chastise you] with scorpions.
-<small><sub>**BSB:**</sub></small>
-Whereas my father burdened you with a heavy yoke, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.10|<< 2 Chronicles 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.12|2 Chronicles 10:12 >>]]</td></tr></table>
 
 | Translation | Greek |

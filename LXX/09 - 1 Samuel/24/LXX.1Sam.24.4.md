@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the men of David said to him, Behold, this is the day which \[the\] <span class="smallcaps">lord</span> spoke to you, Behold, I give  your enemy into  your hands; and you shall do to him as \[is\] good in  your eyes. And David rose up and removed the border of the doubled garment  of Saul clandestinely. 
-<small><sub>**KJV:**</sub></small>
-And the men of David said unto him, Behold the day of which the LORD said unto thee, Behold, I will deliver thine enemy into thine hand, that thou mayest do to him as it shall seem good unto thee. Then David arose, and cut off the skirt of Saul’s robe privily.
-<small><sub>**BSB:**</sub></small>
-So David’s men said to him, “This is the day about which the LORD said to you, ‘Behold, I will deliver your enemy into your hand, that you may do with him as you wish.’” Then David crept up and stealthily cut off a corner of Saul’s robe.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.3|<< 1 Samuel 24:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.5|1 Samuel 24:5 >>]]</td></tr></table>
 
 | Translation | Greek |

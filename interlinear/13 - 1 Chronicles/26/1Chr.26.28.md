@@ -1,4 +1,4 @@
-**1 Chronicles 26:28** 
+**1 Chronicles 26:28**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all that Samuel the seer, and Saul the son of Kish, and Abner the son of Ner, and Joab the son of Zeruiah, had dedicated; [and] whosoever had dedicated [any thing, it was] under the hand of Shelomith, and of his brethren.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Everything that had been dedicated by Samuel the seer, Saul son of Kish, Abner s
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.27|<< 1 Chronicles 26:27]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.29|1 Chronicles 26:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כֹ֨ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that he had consecrated  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H6942H\|הִקְדִּ֜ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> hik.Dish<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

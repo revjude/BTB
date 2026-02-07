@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[The\] word of \[the\] <span class="smallcaps">lord</span> which came to Hosea, the \[son\] of Beeri, in \[the\] days of Uzziah, and Jotham, and Ahaz, and Hezekiah kings of Judah, and in \[the\] days of Jeroboam son of Joash king  of Israel. 
-<small><sub>**KJV:**</sub></small>
-The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, [and] Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
-<small><sub>**BSB:**</sub></small>
-This is the word of the LORD that came to Hosea son of Beeri in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and of Jeroboam son of Jehoash, king of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.12.13|<< Daniel 12:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.1.2|Hosea 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

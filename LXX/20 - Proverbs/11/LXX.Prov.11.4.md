@@ -1,10 +1,7 @@
 **LXX Proverbs 11:4** 
 <small><sub>**LXX:**</sub></small>
 \[The\] soundness of \[the\] upright will guide them; and a fall will plunder \[the\] ones disregarding them. Possessions will not benefit in \[the\] day of rage; and righteousness shall rescue from death. 
-<small><sub>**KJV:**</sub></small>
-Riches profit not in the day of wrath: but righteousness delivereth from death.
-<small><sub>**BSB:**</sub></small>
-Riches are worthless in the day of wrath, but righteousness brings deliverance from death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.3|<< Proverbs 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.5|Proverbs 11:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezra 8:19** 
+**Ezra 8:19**<big><big>[[Ezra.8.15 Ezra Sends for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hashabiah, and with him Jeshaiah of the sons of Merari, his brethren and their sons, twenty;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ also Hashabiah, together with Jeshaiah, from the descendants of Merari, and his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.18|<< Ezra 8:18]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.20|Ezra 8:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hashabiah  |**<big>&#8207;[[H2811M\|חֲשַׁבְיָ֔ה]]&#8207; </big>**| cha.shav.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

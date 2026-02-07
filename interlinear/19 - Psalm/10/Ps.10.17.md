@@ -1,4 +1,4 @@
-**Psalms 10:17** 
+**Psalms 10:17**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, thou hast heard the desire of the humble: thou wilt prepare their heart, thou wilt cause thine ear to hear:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have heard, O LORD, the desire of the humble; You will strengthen their hear
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.16|<< Psalms 10:16]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.18|Psalms 10:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] desire of  |**<big>&#8207;[[H8378\|תַּאֲוַ֬ת]]&#8207; </big>**| ta.'a.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humble [people]  |**<big>&#8207;[[H6035\|עֲנָוִ֣ים]]&#8207; </big>**| 'a.na.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

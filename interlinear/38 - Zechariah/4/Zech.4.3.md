@@ -1,4 +1,4 @@
-**Zechariah 4:3** 
+**Zechariah 4:3**<big><big>[[Zech.4.1 The Vision of the Lampstand and Olive Trees|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And two olive trees by it, one upon the right [side] of the bowl, and the other upon the left [side] thereof.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ There are also two olive trees beside it, one on the right side of the bowl and 
 > $\quad$ referenced by: [[Rev.11.4|Rev 11:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and two  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8147\|שְׁנַ֥יִם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Na.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | olive trees  |**<big>&#8207;[[H2132H\|זֵיתִ֖ים]]&#8207; </big>**| zei.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

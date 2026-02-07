@@ -1,4 +1,4 @@
-**2 Kings 9:15** 
+**2 Kings 9:15**<big><big>[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But king Joram was returned to be healed in Jezreel of the wounds which the Syrians had given him, when he fought with Hazael king of Syria.) And Jehu said, If it be your minds, [then] let none go forth [nor] escape out of the city to go to tell [it] in Jezreel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but King Joram had returned to Jezreel to recover from the wounds he had suffere
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.14|<< 2 Kings 9:14]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.16|2 Kings 9:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he had returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּשָׁב֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Shav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoram  |**<big>&#8207;[[H3088I\|יְהוֹרָ֨ם]]&#8207; </big>**| ye.ho.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

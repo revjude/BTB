@@ -1,5 +1,5 @@
-**Hebrews 11:22
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:22**<big><big>[[Heb.11.20 The Faith of Isaac, Jacob, and Joseph|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By faith Joseph, when he died, made mention of the departing of the children of Israel; and gave commandment concerning his bones.
 <small><sub>**BSB:**</sub></small>
 By faith Joseph, when his end was near, spoke about the exodus of the Israelites and gave instructions about his bones.
@@ -10,7 +10,7 @@ By faith Joseph dying concerning the exodus of the sons of Israel made mention a
 > $\quad$ alluding to: [[LXX.Gen.50.24|Gen 50:24]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Joseph |**<big>[[G2501N\|Ἰωσὴφ]]</big>**  |Iōsēph <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 79:9** 
+**Psalms 79:9**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name’s sake.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Help us, O God of our salvation, for the glory of Your name; deliver us and aton
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.8|<< Psalms 79:8]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.10|Psalms 79:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | help us  |**<big>&#8207;[[H5826\|עָזְרֵ֤]]&#8207;&#8207;[[H9035\|נוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.ze.Re.<small><sup>[[HVqv2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God of  |**<big>&#8207;[[H0430G\|אֱלֹ֘הֵ֤י]]&#8207; </big>**| 'e.Lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

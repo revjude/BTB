@@ -1,10 +1,7 @@
 **LXX Ezra 3:9** 
 <small><sub>**LXX:**</sub></small>
 And Jeshua stood and  his sons, and  his brethren, Kadmiel and  his sons, \[the\] sons of Judah over the ones doing the works in \[the\] house  of God; \[the\] sons of Henadad, their sons and  their brethren the Levites. 
-<small><sub>**KJV:**</sub></small>
-Then stood Jeshua [with] his sons and his brethren, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, [with] their sons and their brethren the Levites.
-<small><sub>**BSB:**</sub></small>
-So Jeshua and his sons and brothers, Kadmiel and his sons (descendants of Yehudah), and the sons of Henadad and their sons and brothers—all Levites—joined together to supervise those working on the house of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.8|<< Ezra 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.10|Ezra 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

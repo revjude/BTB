@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:27** 
 <small><sub>**LXX:**</sub></small>
 And the king said  to Zadok the priest, Behold, you return to the city in peace, and Ahimaaz  your son, and Jonathan the son of Abiathar, the two sons of yours with you! 
-<small><sub>**KJV:**</sub></small>
-The king said also unto Zadok the priest, [Art not] thou a seer? return into the city in peace, and your two sons with you, Ahimaaz thy son, and Jonathan the son of Abiathar.
-<small><sub>**BSB:**</sub></small>
-The king also said to Zadok the priest, “Are you not a seer? Return to the city in peace—you with your son Ahimaaz, and Abiathar with his son Jonathan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.26|<< 2 Samuel 15:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.28|2 Samuel 15:28 >>]]</td></tr></table>
 
 | Translation | Greek |

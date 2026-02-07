@@ -1,4 +1,4 @@
-**Jeremiah 6:8** 
+**Jeremiah 6:8**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be thou instructed, O Jerusalem, lest my soul depart from thee; lest I make thee desolate, a land not inhabited.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be forewarned, O Jerusalem, or I will turn away from you; I will make you a deso
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.7|<< Jeremiah 6:7]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.9|Jeremiah 6:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let yourself be instructed  |**<big>&#8207;[[H3256\|הִוָּסְרִי֙]]&#8207; </big>**| hi.va.se.Ri<small><sup>[[HVNv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Jerusalem  |**<big>&#8207;[[H3389\|יְר֣וּשָׁלִַ֔ם]]&#8207; </big>**| ye.Ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

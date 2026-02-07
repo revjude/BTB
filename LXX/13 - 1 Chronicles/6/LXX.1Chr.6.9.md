@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:9** 
 <small><sub>**LXX:**</sub></small>
 and Ahimaaz engendered  Azariah, and Azariah engendered  Johanan. 
-<small><sub>**KJV:**</sub></small>
-And Ahimaaz begat Azariah, and Azariah begat Johanan,
-<small><sub>**BSB:**</sub></small>
-Ahimaaz was the father of Azariah, Azariah was the father of Johanan,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.8|<< 1 Chronicles 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.10|1 Chronicles 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

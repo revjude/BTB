@@ -1,4 +1,4 @@
-**Isaiah 33:13** 
+**Isaiah 33:13**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear, ye [that are] far off, what I have done; and, ye [that are] near, acknowledge my might.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You who are far off, hear what I have done; you who are near, acknowledge My mig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.12|<< Isaiah 33:12]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.14|Isaiah 33:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear  |**<big>&#8207;[[H8085G\|שִׁמְע֥וּ]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O distant [ones]  |**<big>&#8207;[[H7350\|רְחוֹקִ֖ים]]&#8207; </big>**| re.cho.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

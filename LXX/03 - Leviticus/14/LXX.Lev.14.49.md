@@ -1,10 +1,7 @@
 **LXX Leviticus 14:49** 
 <small><sub>**LXX:**</sub></small>
 And he shall take to purify the house, two living birds, and wood of cedar, and twined scarlet, and hyssop. 
-<small><sub>**KJV:**</sub></small>
-And he shall take to cleanse the house two birds, and cedar wood, and scarlet, and hyssop:
-<small><sub>**BSB:**</sub></small>
-He is to take two birds, cedar wood, scarlet yarn, and hyssop to purify the house;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.48|<< Leviticus 14:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.50|Leviticus 14:50 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,10 @@
-**Proverbs 16:8** 
+**Proverbs 16:8**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Better [is] a little with righteousness than great revenues without right.
 <small><sub>**BSB:**</sub></small>
 Better a little with righteousness than great gain with injustice.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.7|<< Proverbs 16:7]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.9|Proverbs 16:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|טוֹב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tov-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a little  |**<big>&#8207;[[H4592\|מְ֭עַט]]&#8207; </big>**| Me.'at<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

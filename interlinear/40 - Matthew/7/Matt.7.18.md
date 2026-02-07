@@ -1,12 +1,12 @@
-**Matthew 7:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:18**<big><big>[[Matt.7.15 A Tree and Its Fruit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 A good tree cannot bring forth evil fruit, neither [can] a corrupt tree bring forth good fruit.
 <small><sub>**BSB:**</sub></small>
 A good tree cannot bear bad fruit, and a bad tree cannot bear good fruit.
 <small><sub>**Literal:**</sub></small>
 Not is able a tree good fruits bad to produce nor [is able] a tree bad fruits good to produce.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.17|<< Matthew 7:17]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.19|Matthew 7:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is able |**<big>[[G1410\|δύναται]]</big>**  |dunatai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

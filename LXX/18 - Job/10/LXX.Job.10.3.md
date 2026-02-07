@@ -1,10 +1,7 @@
 **LXX Job 10:3** 
 <small><sub>**LXX:**</sub></small>
 Or \[is it\] good to you that I should transgress? that I should forbid \[the\] works of your hands? and did you heed \[the\] counsel of \[the\] impious? 
-<small><sub>**KJV:**</sub></small>
-[Is it] good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?
-<small><sub>**BSB:**</sub></small>
-Does it please You to oppress me, to reject the work of Your hands and favor the schemes of the wicked?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.2|<< Job 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.4|Job 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

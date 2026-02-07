@@ -1,10 +1,7 @@
 **LXX Leviticus 4:26** 
 <small><sub>**LXX:**</sub></small>
 And he shall offer all of its fat upon the altar, as the fat sacrifice of deliverance. And the priest shall atone for him of  his sin, and it shall be forgiven him. 
-<small><sub>**KJV:**</sub></small>
-And he shall burn all his fat upon the altar, as the fat of the sacrifice of peace offerings: and the priest shall make an atonement for him as concerning his sin, and it shall be forgiven him.
-<small><sub>**BSB:**</sub></small>
-He must burn all its fat on the altar, like the fat of the peace offerings; thus the priest will make atonement for that man’s sin, and he will be forgiven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.25|<< Leviticus 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.27|Leviticus 4:27 >>]]</td></tr></table>
 
 | Translation | Greek |

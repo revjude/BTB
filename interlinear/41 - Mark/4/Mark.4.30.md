@@ -1,12 +1,12 @@
-**Mark 4:30
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:30**<big><big>[[Mark.4.30 The Parable of the Mustard Seed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?
 <small><sub>**BSB:**</sub></small>
 Then He asked, “To what can we compare the kingdom of God? With what parable shall we present it?
 <small><sub>**Literal:**</sub></small>
 And He was saying; how shall we liken the kingdom <the> of God Or in which it parable let us present<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.29|<< Mark 4:29]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.31|Mark 4:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was saying; |**<big>[[G3004G\|ἔλεγεν·]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

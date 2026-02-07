@@ -1,4 +1,4 @@
-**Psalms 69:30** (69:31)
+**Psalms 69:30**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will praise the name of God with a song, and will magnify him with thanksgiving.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will praise God’s name in song and exalt Him with thanksgiving.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.29|<< Psalms 69:29]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.31|Psalms 69:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will praise  |**<big>&#8207;[[H1984B\|אֲהַֽלְלָ֣ה]]&#8207; </big>**| 'a.ha.Lah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] name of  |**<big>&#8207;[[H8034\|שֵׁם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shem-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

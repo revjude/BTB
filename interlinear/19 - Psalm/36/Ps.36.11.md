@@ -1,4 +1,4 @@
-**Psalms 36:11** (36:12)
+**Psalms 36:11**<big><big>[[Ps.36.1 The Transgression of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let not the foot of pride come against me, and let not the hand of the wicked remove me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let not the foot of the proud come against me, nor the hand of the wicked drive 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.36.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.10|<< Psalms 36:10]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.36.12|Psalms 36:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it come to me  |**<big>&#8207;[[H0935G\|תְּ֭בוֹאֵ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Te.vo.'e.<small><sup>[[HVqj3fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 26:18** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the peoples \[of the\] sons of Gad by their numbering -- forty thousand and five hundred. 
-<small><sub>**KJV:**</sub></small>
-These [are] the families of the children of Gad according to those that were numbered of them, forty thousand and five hundred.
-<small><sub>**BSB:**</sub></small>
-These were the clans of Gad, and their registration numbered 40,500.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.17|<< Numbers 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.19|Numbers 26:19 >>]]</td></tr></table>
 
 | Translation | Greek |

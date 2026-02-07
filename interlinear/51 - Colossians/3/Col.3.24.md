@@ -1,12 +1,12 @@
-**Colossians 3:24
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:24**<big><big>[[Col.3.22 Serving with Honor|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ.
 <small><sub>**BSB:**</sub></small>
 because you know that you will receive an inheritance from the Lord as your reward. It is the Lord Christ you are serving.
 <small><sub>**Literal:**</sub></small>
 knowing that from [the] Lord you will receive the reward of the inheritance; The for Lord Christ you serve.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.23|<< Colossians 3:23]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.25|Colossians 3:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | knowing |**<big>[[G6063\|εἰδότες]]</big>**  |eidotes <small><sup>[[V-RAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

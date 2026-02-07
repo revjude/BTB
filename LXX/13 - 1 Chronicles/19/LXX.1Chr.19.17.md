@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 19:17** 
 <small><sub>**LXX:**</sub></small>
 And it was reported  to David. And he gathered together  all Israel, and passed over the Jordan, and came unto them, and deployed against them. And Syria deployed right opposite David for war, and they waged war with him. 
-<small><sub>**KJV:**</sub></small>
-And it was told David; and he gathered all Israel, and passed over Jordan, and came upon them, and set [the battle] in array against them. So when David had put the battle in array against the Syrians, they fought with him.
-<small><sub>**BSB:**</sub></small>
-When this was reported to David, he gathered all Israel, crossed the Jordan, advanced toward the Arameans, and arrayed for battle against them. When David lined up to engage them in battle, they fought against him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.16|<< 1 Chronicles 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.18|1 Chronicles 19:18 >>]]</td></tr></table>
 
 | Translation | Greek |

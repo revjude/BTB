@@ -1,10 +1,7 @@
 **LXX Genesis 7:8** 
 <small><sub>**LXX:**</sub></small>
 And from the winged creatures of the clean, and from the winged creatures of the ones not clean, and from the cattle of the ones clean, and from the cattle of the ones not clean, and from the wild beasts, and from all of the ones crawling upon the earth, 
-<small><sub>**KJV:**</sub></small>
-Of clean beasts, and of beasts that [are] not clean, and of fowls, and of every thing that creepeth upon the earth,
-<small><sub>**BSB:**</sub></small>
-The clean and unclean animals, the birds, and everything that crawls along the ground<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.7|<< Genesis 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.9|Genesis 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

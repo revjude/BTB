@@ -1,10 +1,7 @@
 **LXX Leviticus 6:26** 
 <small><sub>**LXX:**</sub></small>
 The priest  offering it, he shall eat it in a holy place; he shall eat \[it\] in \[the\] courtyard of the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-The priest that offereth it for sin shall eat it: in the holy place shall it be eaten, in the court of the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-The priest who offers it shall eat it; it must be eaten in a holy place, in the courtyard of the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.25|<< Leviticus 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.27|Leviticus 6:27 >>]]</td></tr></table>
 
 | Translation | Greek |

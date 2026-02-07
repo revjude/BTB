@@ -1,4 +1,4 @@
-**Numbers 8:3** 
+**Numbers 8:3**<big><big>[[Num.8.1 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron did so; he lighted the lamps thereof over against the candlestick, as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Aaron did so; he set up the lamps facing toward the front of the lampstand, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.2|<< Numbers 8:2]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.4|Numbers 8:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֤עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so  |**<big>&#8207;[[H3651C\|כֵּן֙]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

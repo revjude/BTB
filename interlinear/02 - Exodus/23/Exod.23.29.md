@@ -1,4 +1,4 @@
-**Exodus 23:29** 
+**Exodus 23:29**<big><big>[[Exod.23.20 God’s Angel to Lead|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will not drive them out from before thee in one year; lest the land become desolate, and the beast of the field multiply against thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will not drive them out before you in a single year; otherwise the land would 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.28|<< Exodus 23:28]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.30|Exodus 23:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֧א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will drive out it  |**<big>&#8207;[[H1644G\|אֲגָרְשֶׁ֛]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| 'a.ga.re.She.<small><sup>[[HVpi1cs]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 35:9** 
 <small><sub>**LXX:**</sub></small>
 for  to not build houses  to dwell in there, and a vineyard and a field, and seed -- it happened not to us. 
-<small><sub>**KJV:**</sub></small>
-Nor to build houses for us to dwell in: neither have we vineyard, nor field, nor seed:
-<small><sub>**BSB:**</sub></small>
-Nor have we built houses in which to live, and we have not owned any vineyards or fields or crops.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.8|<< Jeremiah 35:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.10|Jeremiah 35:10 >>]]</td></tr></table>
 
 | Translation | Greek |

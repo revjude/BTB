@@ -1,4 +1,4 @@
-**Esther 8:3** 
+**Esther 8:3**<big><big>[[Esth.8.1 Esther Appeals for the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Esther spake yet again before the king, and fell down at his feet, and besought him with tears to put away the mischief of Haman the Agagite, and his device that he had devised against the Jews.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And once again, Esther addressed the king. She fell at his feet weeping and begg
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.2|<< Esther 8:2]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.4|Esther 8:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she repeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3254G\|תּ֣וֹסֶף]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.sef<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Esther  |**<big>&#8207;[[H0635\|אֶסְתֵּ֗ר]]&#8207; </big>**| 'es.Ter<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Corinthians 2:15
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 2:15**<big><big>[[1Cor.2.6 Spiritual Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that is spiritual judgeth all things, yet he himself is judged of no man.
 <small><sub>**BSB:**</sub></small>
 The spiritual man judges all things, but he himself is not subject to anyone’s judgment.
 <small><sub>**Literal:**</sub></small>
 He who [is] however spiritual judges <the> all things he himself however by no [one] is judged.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.14|<< 1 Corinthians 2:14]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.16|1 Corinthians 2:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He who [is] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

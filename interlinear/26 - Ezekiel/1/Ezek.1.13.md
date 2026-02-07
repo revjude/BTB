@@ -1,4 +1,4 @@
-**Ezekiel 1:13** 
+**Ezekiel 1:13**<big><big>[[Ezek.1.4 The Four Living Creatures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for the likeness of the living creatures, their appearance [was] like burning coals of fire, [and] like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the midst of the living creatures was the appearance of glowing coals of fire
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.12|<< Ezekiel 1:12]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.14|Ezekiel 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] likeness of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1823\|דְמ֨וּת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.Mut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the living creatures  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2416C\|חַיּ֜וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chai.Yot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

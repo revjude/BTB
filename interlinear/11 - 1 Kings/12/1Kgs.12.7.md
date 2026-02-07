@@ -1,4 +1,4 @@
-**1 Kings 12:7** 
+**1 Kings 12:7**<big><big>[[1Kgs.12.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they spake unto him, saying, If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They replied, “If you will be a servant to these people and serve them this da
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.6|<< 1 Kings 12:6]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.8|1 Kings 12:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they spoke  [^2]|**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבְּר֨וּ]]&#8207; </big>**[^3] | va<small><sup>[[Hc]]</sup></small> y.da.ber<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָ֜י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

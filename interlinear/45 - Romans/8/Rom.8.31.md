@@ -1,12 +1,12 @@
-**Romans 8:31
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:31**<big><big>[[Rom.8.28 God Works in All Things|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What shall we then say to these things? If God [be] for us, who [can be] against us?
 <small><sub>**BSB:**</sub></small>
 What then shall we say in response to these things? If God is for us, who can be against us?
 <small><sub>**Literal:**</sub></small>
 What then will we say to these things? If <the> God [is] for us, who [can be] against us?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.30|<< Romans 8:30]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.32|Romans 8:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|Τί]]</big>**  |Ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

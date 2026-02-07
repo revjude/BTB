@@ -1,5 +1,5 @@
-**Mark 3:32
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:32**<big><big>[[Mark.3.31 Jesus’ Mother and Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the multitude sat about him, and they said unto him, Behold, thy mother and thy brethren without seek for thee.
 <small><sub>**BSB:**</sub></small>
 and a crowd was sitting around Him. “Look,” He was told, “Your mother and brothers are outside, asking for You.”
@@ -10,7 +10,7 @@ And was sitting around Him a crowd And they speak now to Him; Behold the mother 
 > $\quad$ alluding to: [[LXX.Ezek.33.30|Ezek 33:30-33]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was sitting |**<big>[[G2521\|ἐκάθητο]]</big>**  |ekathēto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

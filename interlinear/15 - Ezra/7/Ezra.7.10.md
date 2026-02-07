@@ -1,4 +1,4 @@
-**Ezra 7:10** 
+**Ezra 7:10**<big><big>[[Ezra.7.1 Ezra Arrives in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Ezra had prepared his heart to seek the law of the LORD, and to do [it], and to teach in Israel statutes and judgments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For Ezra had set his heart to study the Law of the LORD, to practice it, and to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.9|<< Ezra 7:9]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.11|Ezra 7:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ezra  |**<big>&#8207;[[H5830G\|עֶזְרָא֙]]&#8207; </big>**| 'ez.Ra'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

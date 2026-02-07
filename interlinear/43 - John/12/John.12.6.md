@@ -1,12 +1,12 @@
-**John 12:6
-**<small><sub>**KJV:**</sub></small>
+**John 12:6**<big><big>[[John.12.1 Mary Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This he said, not that he cared for the poor; but because he was a thief, and had the bag, and bare what was put therein.
 <small><sub>**BSB:**</sub></small>
 Judas did not say this because he cared about the poor, but because he was a thief. As keeper of the money bag, he used to take from what was put into it.
 <small><sub>**Literal:**</sub></small>
 He said however this not because for the poor he was caring to him, but because a thief he was and the money bag having and that being put into [it] he was pilfering.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.5|<< John 12:5]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.7|John 12:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

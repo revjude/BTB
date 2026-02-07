@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:44** 
 <small><sub>**LXX:**</sub></small>
 And the king said to Shimei, You know all  your evil which your heart knows, which you did to David  my father, and \[the\] <span class="smallcaps">lord</span> recompensed  your evil on your head. 
-<small><sub>**KJV:**</sub></small>
-The king said moreover to Shimei, Thou knowest all the wickedness which thine heart is privy to, that thou didst to David my father: therefore the LORD shall return thy wickedness upon thine own head;
-<small><sub>**BSB:**</sub></small>
-The king also said, “You know in your heart all the evil that you did to my father David. Therefore the LORD will bring your evil back upon your head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.43|<< 1 Kings 2:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.45|1 Kings 2:45 >>]]</td></tr></table>
 
 | Translation | Greek |

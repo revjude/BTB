@@ -1,4 +1,4 @@
-**Genesis 31:7** 
+**Genesis 31:7**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And your father hath deceived me, and changed my wages ten times; but God suffered him not to hurt me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And although he has cheated me and changed my wages ten times, God has not allow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.6|<< Genesis 31:6]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.8|Genesis 31:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and father your  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0001G\|אֲבִי]]&#8207;&#8207;[[H9027\|כֶן֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vi.<small><sup>[[HNcmsc]]</sup></small> Khen<small><sup>[[HSp2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has deceived  |**<big>&#8207;[[H2048B\|הֵ֣תֶל]]&#8207; </big>**| He.tel<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 48:4** 
+**Jeremiah 48:4**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moab is destroyed; her little ones have caused a cry to be heard.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moab will be shattered; her little ones will cry out.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.3|<< Jeremiah 48:3]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.5|Jeremiah 48:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will be broken  |**<big>&#8207;[[H7665\|נִשְׁבְּרָ֖ה]]&#8207; </big>**| nish.be.Rah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moab  |**<big>&#8207;[[H4124G\|מוֹאָ֑ב]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

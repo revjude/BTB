@@ -1,12 +1,12 @@
-**Galatians 3:21
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:21**<big><big>[[Gal.3.15 The Purpose of the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Is] the law then against the promises of God? God forbid: for if there had been a law given which could have given life, verily righteousness should have been by the law.
 <small><sub>**BSB:**</sub></small>
 Is the law, then, opposed to the promises of God? Certainly not! For if a law had been given that could impart life, then righteousness would certainly have come from the law.
 <small><sub>**Literal:**</sub></small>
 The therefore Law [is] contrary to the promises <the> of God? Never would it be! If for was given a law which is being able to impart life, indeed from [the] law then would was emerging <the> righteousness;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.20|<< Galatians 3:20]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.22|Galatians 3:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

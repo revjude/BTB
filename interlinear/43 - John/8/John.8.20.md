@@ -1,12 +1,12 @@
-**John 8:20
-**<small><sub>**KJV:**</sub></small>
+**John 8:20**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come.
 <small><sub>**BSB:**</sub></small>
 He spoke these words while teaching in the temple courts, near the treasury. Yet no one seized Him, because His hour had not yet come.
 <small><sub>**Literal:**</sub></small>
 These <the> declarations He spoke <the> Jesus in the treasury teaching in the temple, and no [one] seized Him, for not yet had come the hour of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.19|<< John 8:19]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.21|John 8:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Job 35:5** 
+**Job 35:5**<big><big>[[Job.35.1 Elihu Recalls God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Look unto the heavens, and see; and behold the clouds [which] are higher than thou.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Look to the heavens and see; gaze at the clouds high above you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.35.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.35.4|<< Job 35:4]]</td><td align="center" style="border:none;">[[Job.35|Job 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.6|Job 35:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | look at  |**<big>&#8207;[[H5027\|הַבֵּ֣ט]]&#8207; </big>**| ha.Bet<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heavens  |**<big>&#8207;[[H8064\|שָׁמַ֣יִם]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

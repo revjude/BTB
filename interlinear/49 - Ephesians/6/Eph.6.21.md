@@ -1,12 +1,12 @@
-**Ephesians 6:21
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:21**<big><big>[[Eph.6.21 Final Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But that ye also may know my affairs, [and] how I do, Tychicus, a beloved brother and faithful minister in the Lord, shall make known to you all things:
 <small><sub>**BSB:**</sub></small>
 Tychicus, the beloved brother and faithful servant in the Lord, will tell you everything, so that you also may know about me and what I am doing.
 <small><sub>**Literal:**</sub></small>
 That now may know also you yourselves the [things] concerning me myself, what I am doing, all things will make known to you Tychicus the beloved brother and faithful servant in [the] Lord,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.20|<< Ephesians 6:20]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.22|Ephesians 6:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | That |**<big>[[G2443\|Ἵνα]]</big>**  |Hina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

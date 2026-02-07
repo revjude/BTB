@@ -1,10 +1,7 @@
 **LXX Numbers 22:29** 
 <small><sub>**LXX:**</sub></small>
 And Balaam said to the donkey that, You have mocked me, and if I had a sword in  my hand, already I would have stabbed you. 
-<small><sub>**KJV:**</sub></small>
-And Balaam said unto the ass, Because thou hast mocked me: I would there were a sword in mine hand, for now would I kill thee.
-<small><sub>**BSB:**</sub></small>
-Balaam answered the donkey, “You have made a fool of me! If I had a sword in my hand, I would kill you right now!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.28|<< Numbers 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.30|Numbers 22:30 >>]]</td></tr></table>
 
 | Translation | Greek |

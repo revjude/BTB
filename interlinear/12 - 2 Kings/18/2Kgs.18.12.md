@@ -1,4 +1,4 @@
-**2 Kings 18:12** 
+**2 Kings 18:12**<big><big>[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because they obeyed not the voice of the LORD their God, but transgressed his covenant, [and] all that Moses the servant of the LORD commanded, and would not hear [them], nor do [them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This happened because they did not listen to the voice of the LORD their God, bu
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.11|<< 2 Kings 18:11]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.13|2 Kings 18:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

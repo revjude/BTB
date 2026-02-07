@@ -1,10 +1,7 @@
 **LXX Job 20:26** 
 <small><sub>**LXX:**</sub></small>
 And wait all darkness for him; inextinguishable fire shall devour him; and inflict evil on a stranger his  house. 
-<small><sub>**KJV:**</sub></small>
-All darkness [shall be] hid in his secret places: a fire not blown shall consume him; it shall go ill with him that is left in his tabernacle.
-<small><sub>**BSB:**</sub></small>
-Total darkness is reserved for his treasures. A fire unfanned will consume him and devour what is left in his tent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.20.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.25|<< Job 20:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.27|Job 20:27 >>]]</td></tr></table>
 
 | Translation | Greek |

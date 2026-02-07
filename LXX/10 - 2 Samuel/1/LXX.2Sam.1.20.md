@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:20** 
 <small><sub>**LXX:**</sub></small>
 Announce it not in Gath, and announce it not as good news in the streets of Ashkelon! lest at any time \[the\] daughters of \[the\] Philistines should be glad, lest at any time \[the\] daughters of the uncircumcised should exult. 
-<small><sub>**KJV:**</sub></small>
-Tell [it] not in Gath, publish [it] not in the streets of Askelon; lest the daughters of the Philistines rejoice, lest the daughters of the uncircumcised triumph.
-<small><sub>**BSB:**</sub></small>
-Tell it not in Gath; proclaim it not in the streets of Ashkelon, lest the daughters of the Philistines rejoice, and the daughters of the uncircumcised exult.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.19|<< 2 Samuel 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.21|2 Samuel 1:21 >>]]</td></tr></table>
 
 | Translation | Greek |

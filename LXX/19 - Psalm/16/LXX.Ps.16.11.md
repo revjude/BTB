@@ -1,10 +1,7 @@
 **LXX Psalm 16:11** 
 <small><sub>**LXX:**</sub></small>
 You made known to me \[the\] ways of life. You shall fill me of gladness with  your face. Delightfulness \[is\] at  your right unto \[the\] end. 
-<small><sub>**KJV:**</sub></small>
-Thou wilt shew me the path of life: in thy presence [is] fulness of joy; at thy right hand [there are] pleasures for evermore.
-<small><sub>**BSB:**</sub></small>
-You have made known to me the path of life; You will fill me with joy in Your presence, with eternal pleasures at Your right hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.10|<< Psalm 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.1|Psalm 17:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 16:11** is...

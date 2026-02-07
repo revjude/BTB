@@ -1,10 +1,7 @@
 **LXX Nehemiah 12:42** 
 <small><sub>**LXX:**</sub></small>
 and Maaseiah, and Shemaiah, Eleazar, Uzzi, Jehohanan, Melchijah, and Elam, and Ezer. And the singers were heard, and Jezrahiah \[the\] overseer. 
-<small><sub>**KJV:**</sub></small>
-And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah [their] overseer.
-<small><sub>**BSB:**</sub></small>
-and also Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malchijah, Elam, and Ezer. Then the choirs sang out under the direction of Jezrahiah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.41|<< Nehemiah 12:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.43|Nehemiah 12:43 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And all the people of Judah took  Azariah, and he \[was\] a son sixteen years \[old\], and they \[gave\] him reign instead of  his father Amaziah. 
-<small><sub>**KJV:**</sub></small>
-And all the people of Judah took Azariah, which [was] sixteen years old, and made him king instead of his father Amaziah.
-<small><sub>**BSB:**</sub></small>
-Then all the people of Judah took Azariah, who was sixteen years old, and made him king in place of his father Amaziah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.20|<< 2 Kings 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.22|2 Kings 14:22 >>]]</td></tr></table>
 
 | Translation | Greek |

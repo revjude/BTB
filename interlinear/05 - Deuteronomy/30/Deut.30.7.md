@@ -1,4 +1,4 @@
-**Deuteronomy 30:7** 
+**Deuteronomy 30:7**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD thy God will put all these curses upon thine enemies, and on them that hate thee, which persecuted thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the LORD your God will put all these curses upon your enemies who hate you 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.6|<< Deuteronomy 30:6]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.8|Deuteronomy 30:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414H\|נָתַן֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Tan<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

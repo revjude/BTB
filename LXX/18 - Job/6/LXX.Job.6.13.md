@@ -1,10 +1,7 @@
 **LXX Job 6:13** 
 <small><sub>**LXX:**</sub></small>
 Or not upon him to yield? but help was departed from me; 
-<small><sub>**KJV:**</sub></small>
-[Is] not my help in me? and is wisdom driven quite from me?
-<small><sub>**BSB:**</sub></small>
-Is there any help within me now that success is driven from me?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.12|<< Job 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.14|Job 6:14 >>]]</td></tr></table>
 
 | Translation | Greek |

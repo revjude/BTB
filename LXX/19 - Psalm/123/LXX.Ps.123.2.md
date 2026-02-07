@@ -1,10 +1,7 @@
 **LXX Psalm 123:2** 
 <small><sub>**LXX:**</sub></small>
 Behold, as eyes of servants \[are\] to \[the\] hands  of their masters; as \[the\] eyes of \[the\] maidservant to \[the\] hands  of her lady; so  our eyes \[are\] to \[the\] <span class="smallcaps">lord</span>  our God, until of which \[time\] he should pity us. 
-<small><sub>**KJV:**</sub></small>
-Behold, as the eyes of servants [look] unto the hand of their masters, [and] as the eyes of a maiden unto the hand of her mistress; so our eyes [wait] upon the LORD our God, until that he have mercy upon us.
-<small><sub>**BSB:**</sub></small>
-As the eyes of servants look to the hand of their master, as the eyes of a maidservant look to the hand of her mistress, so our eyes are on the LORD our God until He shows us mercy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.123.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.123.1|<< Psalm 123:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.123.3|Psalm 123:3 >>]]</td></tr></table>
 
 | Translation | Greek |

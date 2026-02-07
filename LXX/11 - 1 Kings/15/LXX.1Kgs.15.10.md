@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:10** 
 <small><sub>**LXX:**</sub></small>
 And forty and one year he reigned in Jerusalem. And \[the\] name  of his mother \[was\] Maachah daughter of Abishalom. 
-<small><sub>**KJV:**</sub></small>
-And forty and one years reigned he in Jerusalem. And his mother’s name [was] Maachah, the daughter of Abishalom.
-<small><sub>**BSB:**</sub></small>
-and he reigned in Jerusalem forty-one years. His grandmother’s name was Maacah daughter of Abishalom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.9|<< 1 Kings 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.11|1 Kings 15:11 >>]]</td></tr></table>
 
 | Translation | Greek |

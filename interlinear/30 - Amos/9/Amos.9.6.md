@@ -1,4 +1,4 @@
-**Amos 9:6** 
+**Amos 9:6**<big><big>[[Amos.9.1 The Destruction of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] he that buildeth his stories in the heaven, and hath founded his troop in the earth; he that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD [is] his name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He builds His upper rooms in the heavens and founds His vault upon the earth. He
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.5|<< Amos 9:5]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.7|Amos 9:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who builds  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1129\|בּוֹנֶ֤ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> bo.Neh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the heavens  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֙יִם֙]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

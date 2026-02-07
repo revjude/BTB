@@ -1,10 +1,7 @@
 **LXX Judges 15:6** 
 <small><sub>**LXX:**</sub></small>
 And the Philistines said, Who did these \[things\]? And they said, Samson, the son-in-law of the Timnite, because he took  his wife, and he gave her to his male companion. And the Philistines ascended up and burnt her and the house  of her father by fire. 
-<small><sub>**KJV:**</sub></small>
-Then the Philistines said, Who hath done this? And they answered, Samson, the son in law of the Timnite, because he had taken his wife, and given her to his companion. And the Philistines came up, and burnt her and her father with fire.
-<small><sub>**BSB:**</sub></small>
-“Who did this?” the Philistines demanded. “It was Samson, the son-in-law of the Timnite,” they were told. “For his wife was given to his companion.” So the Philistines went up and burned her and her father to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.5|<< Judges 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.7|Judges 15:7 >>]]</td></tr></table>
 
 | Translation | Greek |

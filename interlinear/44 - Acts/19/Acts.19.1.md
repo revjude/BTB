@@ -1,12 +1,12 @@
-**Acts 19:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:1**<big><big>[[Acts.19.1 The Holy Spirit Received at Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples,
 <small><sub>**BSB:**</sub></small>
 While Apollos was at Corinth, Paul passed through the interior and came to Ephesus. There he found some disciples
 <small><sub>**Literal:**</sub></small>
 It came to pass now while <the> <the> Apollos being in Corinth, Paul having passed through the upper parts to come down to Ephesus and finding certain disciples<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.28|<< Acts 18:28]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.2|Acts 19:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It came to pass |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

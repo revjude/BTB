@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:36** 
 <small><sub>**LXX:**</sub></small>
 In which manner I litigated for  your fathers in the wilderness of \[the\] land of Egypt, so will I judge you, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Like as I pleaded with your fathers in the wilderness of the land of Egypt, so will I plead with you, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-Just as I entered into judgment with your fathers in the wilderness of the land of Egypt, so I will enter into judgment with you, declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.35|<< Ezekiel 20:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.37|Ezekiel 20:37 >>]]</td></tr></table>
 
 | Translation | Greek |

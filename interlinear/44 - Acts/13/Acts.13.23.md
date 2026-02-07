@@ -1,12 +1,12 @@
-**Acts 13:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:23**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of this man’s seed hath God according to [his] promise raised unto Israel a Saviour, Jesus:
 <small><sub>**BSB:**</sub></small>
 From the descendants of this man, God has brought to Israel the Savior Jesus, as He promised.
 <small><sub>**Literal:**</sub></small>
 Of this [man] the God of the seed according to promise has brought <the> to Israel [the] Savior Jesus —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.22|<< Acts 13:22]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.24|Acts 13:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of this [man] |**<big>[[G3778\|τούτου]]</big>**  |toutou <small><sup>[[D-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

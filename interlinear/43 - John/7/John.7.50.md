@@ -1,12 +1,12 @@
-**John 7:50
-**<small><sub>**KJV:**</sub></small>
+**John 7:50**<big><big>[[John.7.45 The Unbelief of the Jewish Leaders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)
 <small><sub>**BSB:**</sub></small>
 Nicodemus, who had gone to Jesus earlier and who himself was one of them, asked,
 <small><sub>**Literal:**</sub></small>
 Says Nicodemus to them, the [one] having come at night to Him the former one being of them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.49|<< John 7:49]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.51|John 7:51 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Nicodemus |**<big>[[G3530\|Νικόδημος]]</big>**  |Nikodēmos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

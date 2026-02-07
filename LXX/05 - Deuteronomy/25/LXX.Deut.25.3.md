@@ -1,10 +1,7 @@
 **LXX Deuteronomy 25:3** 
 <small><sub>**LXX:**</sub></small>
 They shall whip him forty \[stripes\] in number, they shall not add more; but if he should add to whip him above these, by the strokes \[being\] more you shall be disgraced  of your brother before you. 
-<small><sub>**KJV:**</sub></small>
-Forty stripes he may give him, [and] not exceed: lest, [if] he should exceed, and beat him above these with many stripes, then thy brother should seem vile unto thee.
-<small><sub>**BSB:**</sub></small>
-He may receive no more than forty lashes, lest your brother be beaten any more than that and be degraded in your sight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.25.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.2|<< Deuteronomy 25:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.4|Deuteronomy 25:4 >>]]</td></tr></table>
 
 | Translation | Greek |

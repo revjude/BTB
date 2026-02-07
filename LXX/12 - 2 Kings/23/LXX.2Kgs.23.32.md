@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:32** 
 <small><sub>**LXX:**</sub></small>
 And he did the wicked \[thing\] in \[the\] eyes of \[the\] <span class="smallcaps">lord</span> according to all as much as his fathers did. 
-<small><sub>**KJV:**</sub></small>
-And he did [that which was] evil in the sight of the LORD, according to all that his fathers had done.
-<small><sub>**BSB:**</sub></small>
-And he did evil in the sight of the LORD, just as his fathers had done.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.31|<< 2 Kings 23:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.33|2 Kings 23:33 >>]]</td></tr></table>
 
 | Translation | Greek |

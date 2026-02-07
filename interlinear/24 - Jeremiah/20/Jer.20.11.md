@@ -1,4 +1,4 @@
-**Jeremiah 20:11** 
+**Jeremiah 20:11**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD [is] with me as a mighty terrible one: therefore my persecutors shall stumble, and they shall not prevail: they shall be greatly ashamed; for they shall not prosper: [their] everlasting confusion shall never be forgotten.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the LORD is with me like a fearsome warrior. Therefore, my persecutors will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.10|<< Jeremiah 20:10]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.12|Jeremiah 20:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֤ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] with me  |**<big>&#8207;[[H0854\|אוֹתִ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| 'o.T<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

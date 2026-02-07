@@ -1,10 +1,7 @@
 **LXX Daniel 4:15** 
 <small><sub>**LXX:**</sub></small>
 Only the development  of his roots in the earth allow! even with a bond of iron and brass, and in the tender shoots \[of grass\] in the outside; and in the dew of the heaven he shall lay down, and his portion with the wild beasts \[will be\] in the grass of the ground. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless leave the stump of his roots in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven, and [let] his portion [be] with the beasts in the grass of the earth:
-<small><sub>**BSB:**</sub></small>
-But leave the stump with its roots in the ground, with a band of iron and bronze around it, in the tender grass of the field. Let him be drenched with the dew of heaven and graze with the beasts on the grass of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.14|<< Daniel 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.16|Daniel 4:16 >>]]</td></tr></table>
 
 | Translation | Greek |

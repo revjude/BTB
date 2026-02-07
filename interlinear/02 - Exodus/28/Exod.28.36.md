@@ -1,4 +1,4 @@
-**Exodus 28:36** 
+**Exodus 28:36**<big><big>[[Exod.28.31 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make a plate [of] pure gold, and grave upon it, [like] the engravings of a signet, HOLINESS TO THE LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to make a plate of pure gold and engrave on it as on a seal: HOLY TO THE
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.35|<< Exodus 28:35]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.37|Exodus 28:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213H\|עָשִׂ֥יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a plate of  |**<big>&#8207;[[H6731A\|צִּ֖יץ]]&#8207; </big>**| tzitz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

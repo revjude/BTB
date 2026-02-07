@@ -1,10 +1,7 @@
 **LXX Isaiah 57:9** 
 <small><sub>**LXX:**</sub></small>
 and you multiplied  your harlotry with them, and you made many of them far from you. And you sent ambassadors over  your borders, and you were abased unto Hades. 
-<small><sub>**KJV:**</sub></small>
-And thou wentest to the king with ointment, and didst increase thy perfumes, and didst send thy messengers far off, and didst debase [thyself even] unto hell.
-<small><sub>**BSB:**</sub></small>
-You went to Molech with oil and multiplied your perfumes. You have sent your envoys a great distance; you have descended even to Sheol itself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.57.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.8|<< Isaiah 57:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.10|Isaiah 57:10 >>]]</td></tr></table>
 
 | Translation | Greek |

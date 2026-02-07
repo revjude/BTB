@@ -1,12 +1,12 @@
-**Matthew 28:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:8**<big><big>[[Matt.28.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word.
 <small><sub>**BSB:**</sub></small>
 So they hurried away from the tomb in fear and great joy, and ran to tell His disciples.
 <small><sub>**Literal:**</sub></small>
 And having gone out quickly from the tomb with fear and joy great they ran to tell the disciples of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.7|<< Matthew 28:7]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.9|Matthew 28:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone out [^1] |**<big>[[G0565\|ἀπελθοῦσαι]]</big>**  |apelthousai <small><sup>[[V-2AAP-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

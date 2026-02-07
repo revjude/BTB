@@ -1,4 +1,4 @@
-**Micah 2:1** 
+**Micah 2:1**<big><big>[[Mic.2.1 Woe to Oppressors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to those who devise iniquity and plot evil on their beds! At morning’s lig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.16|<< Micah 1:16]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.2|Micah 2:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֧וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] plan  |**<big>&#8207;[[H2803I\|חֹֽשְׁבֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cho.she.vei-<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

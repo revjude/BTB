@@ -1,5 +1,5 @@
-**Luke 6:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:3**<big><big>[[Luke.6.1 The Lord of the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answering them said, Have ye not read so much as this, what David did, when himself was an hungred, and they which were with him;
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Have you not read what David did when he and his companions were hungry?
@@ -10,7 +10,7 @@ And answering to them said <the> Jesus; Surely this have you read what did David
 > $\quad$ alluding to: [[LXX.1Sam.21.6|1Sam 21:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

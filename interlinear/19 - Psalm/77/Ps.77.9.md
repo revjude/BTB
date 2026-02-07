@@ -1,4 +1,4 @@
-**Psalms 77:9** (77:10)
+**Psalms 77:9**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hath God forgotten to be gracious? hath he in anger shut up his tender mercies? Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Has God forgotten to be gracious? Has His anger shut off His compassion?” Sela
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.8|<< Psalms 77:8]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.10|Psalms 77:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ has he forgotten  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H7911\|שָׁכַ֣ח]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> sha.Khach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to have compassion  |**<big>&#8207;[[H2603A\|חַנּ֣וֹת]]&#8207; </big>**| cha.Not<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

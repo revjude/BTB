@@ -1,4 +1,4 @@
-**Ezekiel 41:10** 
+**Ezekiel 41:10**<big><big>[[Ezek.41.5 Outside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And between the chambers [was] the wideness of twenty cubits round about the house on every side.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the outer chambers was twenty cubits wide all around the temple.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.9|<< Ezekiel 41:9]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.11|Ezekiel 41:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and between  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0996G\|בֵ֨ין]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the rooms  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3957\|לְּשָׁכ֜וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> le.sha.Khot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 5:24** 
 <small><sub>**LXX:**</sub></small>
 that you said, Behold, \[the\] <span class="smallcaps">lord</span> our God showed to us  his glory, and  his voice we hear from \[the\] midst of the fire. In  this day we beheld that God shall speak to man, and he shall live. 
-<small><sub>**KJV:**</sub></small>
-And ye said, Behold, the LORD our God hath shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth talk with man, and he liveth.
-<small><sub>**BSB:**</sub></small>
-and you said, “Behold, the LORD our God has shown us His glory and greatness, and we have heard His voice out of the fire. Today we have seen that a man can live even if God speaks with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.5.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.23|<< Deuteronomy 5:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.25|Deuteronomy 5:25 >>]]</td></tr></table>
 
 | Translation | Greek |

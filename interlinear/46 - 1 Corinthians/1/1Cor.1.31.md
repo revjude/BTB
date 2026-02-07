@@ -1,5 +1,5 @@
-**1 Corinthians 1:31
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:31**<big><big>[[1Cor.1.26 Wisdom from God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That, according as it is written, He that glorieth, let him glory in the Lord.
 <small><sub>**BSB:**</sub></small>
 Therefore, as it is written: “Let him who boasts boast in the Lord.”
@@ -10,7 +10,7 @@ in order that even as it has been written: The [one] boasting in [the] Lord he s
 > $\quad$ referencing: [[LXX.Jer.9.23|Jer 9:23-24]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in order that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

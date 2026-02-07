@@ -1,4 +1,4 @@
-**Zephaniah 2:6** 
+**Zephaniah 2:6**<big><big>[[Zeph.2.4 Judgment on the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sea coast shall be dwellings [and] cottages for shepherds, and folds for flocks.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the seacoast will become a land of pastures, with wells for shepherds and fol
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.5|<< Zephaniah 2:5]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.7|Zephaniah 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H1961\|הָיְתָ֞ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] region of  |**<big>&#8207;[[H2256M\|חֶ֣בֶל]]&#8207; </big>**| Che.vel<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 5:15** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] rulers \[were\] in Issachar with Deborah and Issachar; so Barak in the valley sent out his footmen in \[the\] divisions of Reuben -- in great restrictions of heart. 
-<small><sub>**KJV:**</sub></small>
-And the princes of Issachar [were] with Deborah; even Issachar, and also Barak: he was sent on foot into the valley. For the divisions of Reuben [there were] great thoughts of heart.
-<small><sub>**BSB:**</sub></small>
-The princes of Issachar were with Deborah, and Issachar was with Barak, rushing into the valley at his heels. In the clans of Reuben there was great indecision.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.14|<< Judges 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.16|Judges 5:16 >>]]</td></tr></table>
 
 | Translation | Greek |

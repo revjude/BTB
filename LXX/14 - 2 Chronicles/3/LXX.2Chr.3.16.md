@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 3:16** 
 <small><sub>**LXX:**</sub></small>
 And he made chain-work in the dabir, and he put them upon the tops of the columns. And he made a hundred figures of pomegranates, and put \[them\] upon the chainwork. 
-<small><sub>**KJV:**</sub></small>
-And he made chains, [as] in the oracle, and put [them] on the heads of the pillars; and made an hundred pomegranates, and put [them] on the chains.
-<small><sub>**BSB:**</sub></small>
-He made interwoven chains and put them on top of the pillars. He made a hundred pomegranates and fastened them into the chainwork.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.3.15|<< 2 Chronicles 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.3.17|2 Chronicles 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

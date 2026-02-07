@@ -1,4 +1,4 @@
-**Judges 9:54** 
+**Judges 9:54**<big><big>[[Judg.9.50 Abimelech’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he called hastily unto the young man his armourbearer, and said unto him, Draw thy sword, and slay me, that men say not of me, A woman slew him. And his young man thrust him through, and he died.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He quickly called his armor-bearer, saying, “Draw your sword and kill me, lest
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.53|<< Judges 9:53]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.55|Judges 9:55 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקְרָ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | quickly  |**<big>&#8207;[[H4120\|מְהֵרָ֜ה]]&#8207; </big>**| me.he.Rah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Sing to the <span class="smallcaps">lord</span> a new hymn! Glorify  his name from \[the\] uttermost part of the earth! O ones going down into the sea, and sailing it; the islands, and the ones dwelling in them. 
-<small><sub>**KJV:**</sub></small>
-Sing unto the LORD a new song, [and] his praise from the end of the earth, ye that go down to the sea, and all that is therein; the isles, and the inhabitants thereof.
-<small><sub>**BSB:**</sub></small>
-Sing to the LORD a new song—His praise from the ends of the earth—you who go down to the sea, and all that is in it, you islands, and all who dwell in them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.9|<< Isaiah 42:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.11|Isaiah 42:11 >>]]</td></tr></table>
 
 | Translation | Greek |

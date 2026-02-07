@@ -1,4 +1,4 @@
-**Exodus 28:41** 
+**Exodus 28:41**<big><big>[[Exod.28.31 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put them upon Aaron thy brother, and his sons with him; and shalt anoint them, and consecrate them, and sanctify them, that they may minister unto me in the priest’s office.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After you put these garments on your brother Aaron and his sons, anoint them, or
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.40|<< Exodus 28:40]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.42|Exodus 28:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will clothe  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3847\|הִלְבַּשְׁתָּ֤]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hil.bash.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

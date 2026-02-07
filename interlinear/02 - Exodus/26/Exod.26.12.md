@@ -1,4 +1,4 @@
-**Exodus 26:12** 
+**Exodus 26:12**<big><big>[[Exod.26.7 The Eleven Curtains of Goat Hair|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the remnant that remaineth of the curtains of the tent, the half curtain that remaineth, shall hang over the backside of the tabernacle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the overlap that remains of the tent curtains, the half curtain that is l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.11|<< Exodus 26:11]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.13|Exodus 26:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] overhanging of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5629\|סֶ֙רַח֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Se.rach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the surplus  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5736\|עֹדֵ֔ף]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Def<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

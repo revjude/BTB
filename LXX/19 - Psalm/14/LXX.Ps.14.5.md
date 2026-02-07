@@ -1,10 +1,7 @@
 **LXX Psalm 14:5** 
 <small><sub>**LXX:**</sub></small>
 There they were timid with fear, of which there was no fear; for  God \[is\] with \[the\] generation of \[the\] just. 
-<small><sub>**KJV:**</sub></small>
-There were they in great fear: for God [is] in the generation of the righteous.
-<small><sub>**BSB:**</sub></small>
-There they are, overwhelmed with dread, for God is in the company of the righteous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.14.4|<< Psalm 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.14.6|Psalm 14:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 46:2** 
 <small><sub>**LXX:**</sub></small>
 On account of this we shall not fear when the earth is disturbed, and mountains \[are\] transposed in \[the\] hearts of seas. 
-<small><sub>**KJV:**</sub></small>
-Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;
-<small><sub>**BSB:**</sub></small>
-Therefore we will not fear, though the earth is transformed and the mountains are toppled into the depths of the seas,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.46.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.46.1|<< Psalm 46:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.46.3|Psalm 46:3 >>]]</td></tr></table>
 
 | Translation | Greek |

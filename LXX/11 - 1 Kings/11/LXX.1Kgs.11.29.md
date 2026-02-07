@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  that time that Jeroboam came forth out of Jerusalem, and Ahijah the Shilonite the prophet found him in the way; and \[Ahijah\] separated him from the way. And Ahijah was wearing a new cloak, and both \[were\] alone in the plain. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at that time when Jeroboam went out of Jerusalem, that the prophet Ahijah the Shilonite found him in the way; and he had clad himself with a new garment; and they two [were] alone in the field:
-<small><sub>**BSB:**</sub></small>
-During that time, the prophet Ahijah the Shilonite met Jeroboam on the road as he was going out of Jerusalem. Now Ahijah had wrapped himself in a new cloak, and the two of them were alone in the open field.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.28|<< 1 Kings 11:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.30|1 Kings 11:30 >>]]</td></tr></table>
 
 | Translation | Greek |

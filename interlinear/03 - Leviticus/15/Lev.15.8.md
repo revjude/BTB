@@ -1,4 +1,4 @@
-**Leviticus 15:8** 
+**Leviticus 15:8**<big><big>[[Lev.15.1 The Uncleanness of Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he that hath the issue spit upon him that is clean; then he shall wash his clothes, and bathe [himself] in water, and be unclean until the even.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If the man with the discharge spits on one who is clean, that person must wash h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.7|<< Leviticus 15:7]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.9|Leviticus 15:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will spit  |**<big>&#8207;[[H7556\|יָרֹ֛ק]]&#8207; </big>**| ya.Rok<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

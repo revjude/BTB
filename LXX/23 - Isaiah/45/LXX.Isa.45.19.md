@@ -1,10 +1,7 @@
 **LXX Isaiah 45:19** 
 <small><sub>**LXX:**</sub></small>
 spoken not in secret, nor in a place of \[the\] earth \[that is\] dark. I did not tell to the seed of Jacob, Seek a vain \[thing\]! I am \[the\] <span class="smallcaps">lord</span>, the one speaking righteousness, and announcing truth. 
-<small><sub>**KJV:**</sub></small>
-I have not spoken in secret, in a dark place of the earth: I said not unto the seed of Jacob, Seek ye me in vain: I the LORD speak righteousness, I declare things that are right.
-<small><sub>**BSB:**</sub></small>
-I have not spoken in secret, from a place in a land of darkness. I did not say to the descendants of Jacob, ‘Seek Me in a wasteland.’ I, the LORD, speak the truth; I say what is right.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.45.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.18|<< Isaiah 45:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.20|Isaiah 45:20 >>]]</td></tr></table>
 
 | Translation | Greek |

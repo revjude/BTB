@@ -1,12 +1,12 @@
 (KJV) **Deuteronomy 24**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23|<< Deuteronomy 23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25|Deuteronomy 25 >>]]</td></tr></table>
 
-***Marriage and Divorce Laws***&emsp;<small><sup>\[ [[Matt.5|Matthew 5:31–32]] <big>†</big> [[Luke.16|Luke 16:18]] ]</sup></small> ^bsb522
+<big><big>[[Deut.24.1 Marriage and Divorce Laws|⥃]]</big></big>***Marriage and Divorce Laws***&emsp;<small><sup>\[ [[Matt.5|Matthew 5:31–32]] <big>†</big> [[Luke.16|Luke 16:18]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Deut.24.1|1]]**<span class="endversemarker">]</span> When a man hath taken<small><small>[^2]</small></small> a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness<small><small>[^3]</small></small> in her: then let him<small><small>[^4]</small></small> write her a bill of divorcement<small><small>[^5]</small></small>, and give \[it\] in her hand, and send her<small><small>[^6]</small></small> out of his house. <span class="startversemarker">[</span>**[[Deut.24.2|2]]**<span class="endversemarker">]</span> And when she is departed out of his house, she may go<small><small>[^7]</small></small> and be another man’s \[wife\]. <span class="startversemarker">[</span>**[[Deut.24.3|3]]**<span class="endversemarker">]</span> And \[if\] the latter husband hate her, and write her a bill of divorcement, and giveth \[it\] in her hand, and sendeth her out of his house; or if the latter husband die, which took her \[to be\] his wife; <span class="startversemarker">[</span>**[[Deut.24.4|4]]**<span class="endversemarker">]</span> Her former<small><small>[^8]</small></small> husband, which sent her away, may not take her again to be his wife, after that she is defiled; for that \[is\] abomination before the <span class="smallcaps">Lord</span>: and thou shalt<small><small>[^9]</small></small> not cause the land to sin, which the <span class="smallcaps">Lord</span> thy God giveth thee \[for\] an inheritance. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Deut.24.5|5]]**<span class="endversemarker">]</span> When a man<small><small>[^10]</small></small> hath taken a new wife, he shall not go out to war, neither<small><small>[^11]</small></small> shall he be charged with any business: \[but\] he shall be free at home one year, and shall cheer up<small><small>[^12]</small></small> his wife which he hath taken.
 
-***Additional Laws*** ^bsb523
+<big><big>[[Deut.24.6 Additional Laws|⥃]]</big></big>***Additional Laws***
 
  
 

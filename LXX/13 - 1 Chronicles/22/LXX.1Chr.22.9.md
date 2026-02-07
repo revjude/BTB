@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 22:9** 
 <small><sub>**LXX:**</sub></small>
 Behold, a son is born to you, this one will be a man of rest; and I will rest him from all  his enemies round about. For Solomon \[is\] his name, and peace and rest I shall appoint over Israel in  his days. 
-<small><sub>**KJV:**</sub></small>
-Behold, a son shall be born to thee, who shall be a man of rest; and I will give him rest from all his enemies round about: for his name shall be Solomon, and I will give peace and quietness unto Israel in his days.
-<small><sub>**BSB:**</sub></small>
-But a son will be born to you who will be a man of rest. I will give him rest from all his enemies on every side; for his name will be Solomon, and I will grant to Israel peace and quiet during his reign.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.8|<< 1 Chronicles 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.10|1 Chronicles 22:10 >>]]</td></tr></table>
 
 | Translation | Greek |

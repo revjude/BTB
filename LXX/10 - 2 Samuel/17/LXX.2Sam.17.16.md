@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And now send quickly and report  to David! saying, You should not lodge the night according to \[the\] descent of the wilderness, but by passing over, pass over! so that the king should not be swallowed down, and all the people, the one with him. 
-<small><sub>**KJV:**</sub></small>
-Now therefore send quickly, and tell David, saying, Lodge not this night in the plains of the wilderness, but speedily pass over; lest the king be swallowed up, and all the people that [are] with him.
-<small><sub>**BSB:**</sub></small>
-Now send quickly and tell David, ‘Do not spend the night at the fords of the wilderness, but be sure to cross over. Otherwise the king and all the people with him will be swallowed up.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.15|<< 2 Samuel 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.17|2 Samuel 17:17 >>]]</td></tr></table>
 
 | Translation | Greek |

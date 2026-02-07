@@ -1,4 +1,4 @@
-**1 Kings 21:1** 
+**1 Kings 21:1**<big><big>[[1Kgs.21.1 Naboth’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after these things, [that] Naboth the Jezreelite had a vineyard, which [was] in Jezreel, hard by the palace of Ahab king of Samaria.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Some time after these events, Naboth the Jezreelite owned a vineyard in Jezreel 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.43|<< 1 Kings 20:43]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.2|1 Kings 21:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after  |**<big>&#8207;[[H0310A\|אַחַר֙]]&#8207; </big>**| 'a.Char<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

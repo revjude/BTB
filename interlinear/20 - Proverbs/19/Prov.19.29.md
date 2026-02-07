@@ -1,4 +1,4 @@
-**Proverbs 19:29** 
+**Proverbs 19:29**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judgments are prepared for scorners, and stripes for the back of fools.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Judgments are prepared for mockers, and beatings for the backs of fools.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.28|<< Proverbs 19:28]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.1|Proverbs 20:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they are prepared  |**<big>&#8207;[[H3559A\|נָכ֣וֹנוּ]]&#8207; </big>**| na.Kho.nu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> mockers  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3887\|לֵּצִ֣ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> le.Tzim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

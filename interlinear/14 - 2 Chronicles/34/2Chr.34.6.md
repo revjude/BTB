@@ -1,4 +1,4 @@
-**2 Chronicles 34:6** 
+**2 Chronicles 34:6**<big><big>[[2Chr.34.3 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [so did he] in the cities of Manasseh, and Ephraim, and Simeon, even unto Naphtali, with their mattocks round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Josiah did the same in the cities of Manasseh, Ephraim, and Simeon, as far as Na
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.5|<< 2 Chronicles 34:5]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.7|2 Chronicles 34:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in [the] cities of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5892B\|עָרֵ֨י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Manasseh  |**<big>&#8207;[[H4519G\|מְנַשֶּׁ֧ה]]&#8207; </big>**| me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

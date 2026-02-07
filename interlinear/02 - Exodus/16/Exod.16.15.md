@@ -1,4 +1,4 @@
-**Exodus 16:15** 
+**Exodus 16:15**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the children of Israel saw [it], they said one to another, It [is] manna: for they wist not what it [was]. And Moses said unto them, This [is] the bread which the LORD hath given you to eat.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When the Israelites saw it, they asked one another, “What is it?” For they d
 > $\quad$ referenced by: [[John.6.31|John 6:31]] ☩ [[John.6.49|John 6:49]] ☩ [[1Cor.10.3|1Cor 10:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יִּרְא֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

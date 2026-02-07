@@ -1,4 +1,4 @@
-**Haggai 2:15** 
+**Haggai 2:15**<big><big>[[Hag.2.10 Blessings for a Defiled People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, I pray you, consider from this day and upward, from before a stone was laid upon a stone in the temple of the LORD:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now consider carefully from this day forward: Before one stone was placed on ano
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.14|<< Haggai 2:14]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.16|Haggai 2:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | set  |**<big>&#8207;[[H7760K\|שִֽׂימוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| si.mu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

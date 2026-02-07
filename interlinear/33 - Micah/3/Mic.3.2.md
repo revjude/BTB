@@ -1,4 +1,4 @@
-**Micah 3:2** 
+**Micah 3:2**<big><big>[[Mic.3.1 Rulers and Prophets Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hate the good, and love the evil; who pluck off their skin from off them, and their flesh from off their bones;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You hate good and love evil. You tear the skin from my people and strip the fles
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.3.1|<< Micah 3:1]]</td><td align="center" style="border:none;">[[Mic.3|Micah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3.3|Micah 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | haters of  |**<big>&#8207;[[H8130\|שֹׂ֥נְאֵי]]&#8207; </big>**| So.ne.'ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | good  |**<big>&#8207;[[H2896B\|ט֖וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

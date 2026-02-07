@@ -1,4 +1,4 @@
-**1 Samuel 18:14** 
+**1 Samuel 18:14**<big><big>[[1Sam.18.5 Saul Envies David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David behaved himself wisely in all his ways; and the LORD [was] with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he continued to prosper in all his ways, because the LORD was with him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.13|<< 1 Samuel 18:13]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.15|1 Samuel 18:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֥י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָוִ֛ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
@@ -17,7 +17,7 @@ and he continued to prosper in all his ways, because the LORD was with him.
 | [was] with him  |**<big>&#8207;[[H5973A\|עִמּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.13|<< 1 Samuel 18:13]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.15|1 Samuel 18:15 >>]]</td></tr></table>
 
-[^1]: ==K==: way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַּרְכּ]]</big> ** | da.re.Kha<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
-[^2]: ==K==: way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַּרְכּ]]</big> ** | da.re.Kha<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[Sp3bs]]</sup></small> 
+[^1]: ==K==: way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַּרְכּ]]</big> ** | da.re.Kha<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> 
+[^2]: ==K==: way his  | **<big>[[H9023|וֹ]]</big><big>[[H1870G|דַּרְכּ]]</big> ** | da.re.Kha<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> 
 [^3]: ==L== spelled: **<span class="ashebrew"><big>דְּרָכָ֖ו</big></span>**
 

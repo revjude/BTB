@@ -1,4 +1,4 @@
-**Joshua 7:18** 
+**Joshua 7:18**<big><big>[[Josh.7.16 The Sin of Achan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought his household man by man; and Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was taken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he had the family of Zabdi come forward man by man, and Achan son of Carmi, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.17|<< Joshua 7:17]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.19|Joshua 7:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7126H\|יַּקְרֵ֥ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yak.Rev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 22:25** 
+**Jeremiah 22:25**<big><big>[[Jer.22.24 A Warning to Coniah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will give thee into the hand of them that seek thy life, and into the hand [of them] whose face thou fearest, even into the hand of Nebuchadrezzar king of Babylon, and into the hand of the Chaldeans.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In fact, I will hand you over to those you dread, who want to take your life—t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.24|<< Jeremiah 22:24]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.26|Jeremiah 22:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will give you  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5414G\|נְתַתִּ֗י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.ta.Ti.<small><sup>[[HVqq1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027H\|יַד֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 1:14** 
 <small><sub>**LXX:**</sub></small>
 And they grievously afflicted them \[by\] the life in the hard works in the mortar, and in the making of bricks, and in all the works  in the plains, according to all the works which they were reducing them to slavery with force. 
-<small><sub>**KJV:**</sub></small>
-And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, [was] with rigour.
-<small><sub>**BSB:**</sub></small>
-and made their lives bitter with hard labor in brick and mortar, and with all kinds of work in the fields. Every service they imposed was harsh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.13|<< Exodus 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.15|Exodus 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 23:14** 
+**1 Chronicles 23:14**<big><big>[[1Chr.23.12 The Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now [concerning] Moses the man of God, his sons were named of the tribe of Levi.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for Moses the man of God, his sons were named among the tribe of Levi.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.13|<< 1 Chronicles 23:13]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.15|1 Chronicles 23:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Moses  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4872\|מֹשֶׁ֖ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] man of  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

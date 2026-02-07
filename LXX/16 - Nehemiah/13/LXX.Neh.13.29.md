@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:29** 
 <small><sub>**LXX:**</sub></small>
 Remember them, O my God, \[for they were\] against \[the\] right of inheritance of the priesthood, and the covenant of the priesthood, and of the Levites! 
-<small><sub>**KJV:**</sub></small>
-Remember them, O my God, because they have defiled the priesthood, and the covenant of the priesthood, and of the Levites.
-<small><sub>**BSB:**</sub></small>
-Remember them, O my God, because they have defiled the priesthood and the covenant of the priesthood and of the Levites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.28|<< Nehemiah 13:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.30|Nehemiah 13:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Acts 13:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:18**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And about the time of forty years suffered he their manners in the wilderness.
 <small><sub>**BSB:**</sub></small>
 He endured their conduct for about forty years in the wilderness.
@@ -10,7 +10,7 @@ and of about forty years for a period He endured the ways of them in the wildern
 > $\quad$ alluding to: [[LXX.Deut.1.31|Deut 1:31]] ☩ [[LXX.Num.14.33|Num 14:33]] ☩ [[LXX.Ps.95.10|Ps 95:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of about |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

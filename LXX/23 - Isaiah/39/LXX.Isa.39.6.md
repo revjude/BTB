@@ -1,10 +1,7 @@
 **LXX Isaiah 39:6** 
 <small><sub>**LXX:**</sub></small>
 Behold, days come, and they shall take all \[the\] things in  your house; even as much as your fathers brought together until  this day -- it shall come unto Babylon, and not one \[thing\] in any way shall be left behind. and God said, 
-<small><sub>**KJV:**</sub></small>
-Behold, the days come, that all that [is] in thine house, and [that] which thy fathers have laid up in store until this day, shall be carried to Babylon: nothing shall be left, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-The time will surely come when everything in your palace and all that your fathers have stored up until this day will be carried off to Babylon. Nothing will be left, says the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.39.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.39.5|<< Isaiah 39:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.39.7|Isaiah 39:7 >>]]</td></tr></table>
 
 | Translation | Greek |

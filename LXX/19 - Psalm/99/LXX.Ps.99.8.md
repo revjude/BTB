@@ -1,10 +1,7 @@
 **LXX Psalm 99:8** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>  our God, you heeded them. O God, you became propitious to them, yet punishing over all  their practices. 
-<small><sub>**KJV:**</sub></small>
-Thou answeredst them, O LORD our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.
-<small><sub>**BSB:**</sub></small>
-O LORD our God, You answered them. You were a forgiving God to them, yet an avenger of their misdeeds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.99.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.99.7|<< Psalm 99:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.99.9|Psalm 99:9 >>]]</td></tr></table>
 
 | Translation | Greek |

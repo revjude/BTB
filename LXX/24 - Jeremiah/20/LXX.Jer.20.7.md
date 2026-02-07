@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 You deceived me, O <span class="smallcaps">lord</span>, and I was deceived. You held and prevailed. I became for laughter. Every day I continue being sneered at. 
-<small><sub>**KJV:**</sub></small>
-O LORD, thou hast deceived me, and I was deceived: thou art stronger than I, and hast prevailed: I am in derision daily, every one mocketh me.
-<small><sub>**BSB:**</sub></small>
-You have deceived me, O LORD, and I was deceived. You have overcome me and prevailed. I am a laughingstock all day long; everyone mocks me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.20.6|<< Jeremiah 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.20.8|Jeremiah 20:8 >>]]</td></tr></table>
 
 | Translation | Greek |

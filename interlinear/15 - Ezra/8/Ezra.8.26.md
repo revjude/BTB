@@ -1,4 +1,4 @@
-**Ezra 8:26** 
+**Ezra 8:26**<big><big>[[Ezra.8.24 Priests to Guard the Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I even weighed unto their hand six hundred and fifty talents of silver, and silver vessels an hundred talents, [and] of gold an hundred talents;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I weighed out into their hands 650 talents of silver, articles of silver weighin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.25|<< Ezra 8:25]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.27|Ezra 8:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I weighed out !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H8254\|אֶשְׁקֲלָ֨]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'esh.ka.La<small><sup>[[HVqw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

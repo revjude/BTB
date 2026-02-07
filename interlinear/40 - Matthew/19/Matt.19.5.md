@@ -1,5 +1,5 @@
-**Matthew 19:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:5**<big><big>[[Matt.19.1 Teachings about Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh?
 <small><sub>**BSB:**</sub></small>
 and said, ‘For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh’?
@@ -10,7 +10,7 @@ and said; On account of this will leave a man the father and the mother and will
 > $\quad$ referencing: [[LXX.Gen.2.24|Gen 2:24]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said; |**<big>[[G2036\|εἶπεν·]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

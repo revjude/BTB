@@ -1,10 +1,7 @@
 **LXX Esther 8:14** 
 <small><sub>**LXX:**</sub></small>
 Then the horsemen went forth hastening to complete the \[things\] being spoken by the king. And the order was displayed also in Shushan. 
-<small><sub>**KJV:**</sub></small>
-[So] the posts that rode upon mules [and] camels went out, being hastened and pressed on by the king’s commandment. And the decree was given at Shushan the palace.
-<small><sub>**BSB:**</sub></small>
-The couriers rode out in haste on their royal horses, pressed on by the command of the king. And the edict was also issued in the citadel of Susa.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.13|<< Esther 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.15|Esther 8:15 >>]]</td></tr></table>
 
 | Translation | Greek |

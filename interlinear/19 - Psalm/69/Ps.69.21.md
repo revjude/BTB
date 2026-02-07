@@ -1,4 +1,4 @@
-**Psalms 69:21** (69:22)
+**Psalms 69:21**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They gave me also gall for my meat; and in my thirst they gave me vinegar to drink.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They poisoned my food with gall and gave me vinegar to quench my thirst.
 > $\quad$ referenced by: [[Matt.27.48|Matt 27:48]] ☩ [[Mark.15.36|Mark 15:36]] ☩ [[John.19.28|John 19:28-29]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they put  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414G\|יִּתְּנ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in food my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1267\|בָרוּתִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> va.ru.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

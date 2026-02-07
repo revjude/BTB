@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:21** 
 <small><sub>**LXX:**</sub></small>
 And Ittai answered the king, and said, As \[the\] <span class="smallcaps">lord</span> lives, and my master the king lives, that unto the place where ever my master the king might be, and if unto death, or if unto life, that there your servant will be. 
-<small><sub>**KJV:**</sub></small>
-And Ittai answered the king, and said, [As] the LORD liveth, and [as] my lord the king liveth, surely in what place my lord the king shall be, whether in death or life, even there also will thy servant be.
-<small><sub>**BSB:**</sub></small>
-But Ittai answered the king, “As surely as the LORD lives, and as my lord the king lives, wherever my lord the king may be, whether it means life or death, there will your servant be!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.20|<< 2 Samuel 15:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.22|2 Samuel 15:22 >>]]</td></tr></table>
 
 | Translation | Greek |

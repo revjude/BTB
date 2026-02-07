@@ -1,4 +1,4 @@
-**Ezekiel 11:9** 
+**Ezekiel 11:9**<big><big>[[Ezek.11.1 Evil in High Places|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring you out of the midst thereof, and deliver you into the hands of strangers, and will execute judgments among you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will bring you out of the city and deliver you into the hands of foreigners, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.8|<< Ezekiel 11:8]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.10|Ezekiel 11:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will bring out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318H\|הוֹצֵאתִ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.tze.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶם֙]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

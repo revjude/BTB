@@ -1,10 +1,7 @@
 **LXX Exodus 8:19** 
 <small><sub>**LXX:**</sub></small>
 \[And\] the enchanters said then  to Pharaoh, This is \[the\] finger of God. And the heart of Pharaoh was hardened, and he did not listen to them, just as \[the\] <span class="smallcaps">lord</span> said. 
-<small><sub>**KJV:**</sub></small>
-Then the magicians said unto Pharaoh, This [is] the finger of God: and Pharaoh’s heart was hardened, and he hearkened not unto them; as the LORD had said.
-<small><sub>**BSB:**</sub></small>
-“This is the finger of God,” the magicians said to Pharaoh. But Pharaoh’s heart was hardened, and he would not listen to them, just as the LORD had said.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.18|<< Exodus 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.20|Exodus 8:20 >>]]</td></tr></table>
 
 | Translation | Greek |

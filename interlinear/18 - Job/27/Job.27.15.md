@@ -1,4 +1,4 @@
-**Job 27:15** 
+**Job 27:15**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Those that remain of him shall be buried in death: and his widows shall not weep.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His survivors will be buried by the plague, and their widows will not weep for t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.14|<< Job 27:14]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.16|Job 27:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | survivors his  [^2]|**<big>&#8207;[[H8300\|שְׂ֭רִידָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**[^3] | se.ri.do<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | by \<the> death  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4194\|מָּ֣וֶת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

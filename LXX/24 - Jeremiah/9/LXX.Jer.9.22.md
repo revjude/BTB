@@ -1,10 +1,7 @@
 **LXX Jeremiah 9:22** 
 <small><sub>**LXX:**</sub></small>
 And the dead of men will be for an example upon \[the\] face of the plain  of your land; and as grass after being mowed, and there will not be  one gathering. 
-<small><sub>**KJV:**</sub></small>
-Speak, Thus saith the LORD, Even the carcases of men shall fall as dung upon the open field, and as the handful after the harvestman, and none shall gather [them].
-<small><sub>**BSB:**</sub></small>
-Declare that this is what the LORD says: “The corpses of men will fall like dung upon the open field, like newly cut grain behind the reaper, with no one to gather it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.21|<< Jeremiah 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.23|Jeremiah 9:23 >>]]</td></tr></table>
 
 | Translation | Greek |

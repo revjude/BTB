@@ -1,10 +1,7 @@
 **LXX Psalm 121:2** 
 <small><sub>**LXX:**</sub></small>
  My help \[is\] from \[the\] <span class="smallcaps">lord</span>; of the one making the heaven and the earth. 
-<small><sub>**KJV:**</sub></small>
-My help [cometh] from the LORD, which made heaven and earth.
-<small><sub>**BSB:**</sub></small>
-My help comes from the LORD, the Maker of heaven and earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.121.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.121.1|<< Psalm 121:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.121.3|Psalm 121:3 >>]]</td></tr></table>
 
 | Translation | Greek |

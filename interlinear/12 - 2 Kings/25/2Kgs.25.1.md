@@ -1,4 +1,4 @@
-**2 Kings 25:1** 
+**2 Kings 25:1**<big><big>[[2Kgs.25.1 Nebuchadnezzar Besieges Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the ninth year of his reign, in the tenth month, in the tenth [day] of the month, [that] Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So in the ninth year of Zedekiah’s reign, on the tenth day of the tenth month,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.20|<< 2 Kings 24:20]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.2|2 Kings 25:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] year  |**<big>&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H8141\|שְׁנַ֨ת]]&#8207; </big>**| vi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

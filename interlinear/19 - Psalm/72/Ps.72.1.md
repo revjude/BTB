@@ -1,12 +1,12 @@
-**Psalms 72:1** 
+**Psalms 72:1**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-[A Psalm] for Solomon. Give the king thy judgments, O God, and thy righteousness unto the king’s son.
+Give the king thy judgments, O God, and thy righteousness unto the king’s son.
 <small><sub>**BSB:**</sub></small>
 Of Solomon. Endow the king with Your justice, O God, and the son of the king with Your righteousness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.0|<< Psalms 72:0]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.2|Psalms 72:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God  |**<big>&#8207;[[H0430G\|אֱֽלֹהִ֗ים]]&#8207; </big>**| 'elo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | judgments your  |**<big>&#8207;[[H4941H\|מִ֭שְׁפָּטֶי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Mish.pa.tei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

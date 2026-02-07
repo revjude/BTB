@@ -1,12 +1,12 @@
-**John 5:42
-**<small><sub>**KJV:**</sub></small>
+**John 5:42**<big><big>[[John.5.39 The Witness of Scripture|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I know you, that ye have not the love of God in you.
 <small><sub>**BSB:**</sub></small>
 but I know you, that you do not have the love of God within you.
 <small><sub>**Literal:**</sub></small>
 but I have known you that the love <the> of God not you have in yourselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.41|<< John 5:41]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.43|John 5:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have known |**<big>[[G1097\|ἔγνωκα]]</big>**  |egnōka <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

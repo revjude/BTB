@@ -1,4 +1,4 @@
-**Daniel 5:23** 
+**Daniel 5:23**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath [is], and whose [are] all thy ways, hast thou not glorified:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Instead, you have exalted yourself against the Lord of heaven. The vessels from 
 > $\quad$ referenced by: [[Rev.9.20|Rev 9:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and against  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5922\|עַ֣ל]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> 'Al<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] lord of  |**<big>&#8207;[[H4756\|מָרֵֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ma.re'-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Joshua 20:4** 
+**Joshua 20:4**<big><big>[[Josh.20.1 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he that doth flee unto one of those cities shall stand at the entering of the gate of the city, and shall declare his cause in the ears of the elders of that city, they shall take him into the city unto them, and give him a place, that he may dwell among them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When someone flees to one of these cities, stands at the entrance of the city ga
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.20.3|<< Joshua 20:3]]</td><td align="center" style="border:none;">[[Josh.20|Joshua 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.20.5|Joshua 20:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will flee  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5127\|נָ֞ס]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Nas<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

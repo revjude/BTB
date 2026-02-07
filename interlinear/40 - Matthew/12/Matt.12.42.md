@@ -1,5 +1,5 @@
-**Matthew 12:42
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:42**<big><big>[[Matt.12.38 The Sign of Jonah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The queen of the south shall rise up in the judgment with this generation, and shall condemn it: for she came from the uttermost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon [is] here.
 <small><sub>**BSB:**</sub></small>
 The Queen of the South will rise at the judgment with this generation and condemn it; for she came from the ends of the earth to hear the wisdom of Solomon, and now One greater than Solomon is here.
@@ -10,7 +10,7 @@ The Queen of the South will rise at the judgment with this generation and condem
 > $\quad$ alluding to: [[LXX.1Kgs.10.1|1Kgs 10:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] queen |**<big>[[G0938H\|Βασίλισσα]]</big>**  |Basilissa <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of [the] south |**<big>[[G3558H\|νότου]]</big>**  |notou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

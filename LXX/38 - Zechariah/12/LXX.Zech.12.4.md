@@ -1,10 +1,7 @@
 **LXX Zechariah 12:4** 
 <small><sub>**LXX:**</sub></small>
 In  that day, says \[the\] <span class="smallcaps">lord</span> almighty, I will strike every horse with astonishment, and  its rider in ranting. But over the house of Judah I will open  my eyes, and all the horses of the peoples I will strike with blindness. 
-<small><sub>**KJV:**</sub></small>
-In that day, saith the LORD, I will smite every horse with astonishment, and his rider with madness: and I will open mine eyes upon the house of Judah, and will smite every horse of the people with blindness.
-<small><sub>**BSB:**</sub></small>
-On that day, declares the LORD, I will strike every horse with panic, and every rider with madness. I will keep a watchful eye on the house of Judah, but I will strike with blindness all the horses of the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.12.3|<< Zechariah 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.12.5|Zechariah 12:5 >>]]</td></tr></table>
 
 | Translation | Greek |

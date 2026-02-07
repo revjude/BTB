@@ -1,4 +1,4 @@
-**Judges 8:31** 
+**Judges 8:31**<big><big>[[Judg.8.28 Forty Years of Peace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his concubine that [was] in Shechem, she also bare him a son, whose name he called Abimelech.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His concubine, who dwelt in Shechem, also bore him a son, and he named him Abime
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.30|<< Judges 8:30]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.32|Judges 8:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and concubine his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6370\|פִֽילַגְשׁ]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fi.lag.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

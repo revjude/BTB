@@ -1,4 +1,4 @@
-**Psalms 69:20** (69:21)
+**Psalms 69:20**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Reproach hath broken my heart; and I am full of heaviness: and I looked [for some] to take pity, but [there was] none; and for comforters, but I found none.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Insults have broken my heart, and I am in despair. I looked for sympathy, but th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.19|<< Psalms 69:19]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.21|Psalms 69:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | reproach  |**<big>&#8207;[[H2781\|חֶרְפָּ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| cher.Pah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has broken  |**<big>&#8207;[[H7665\|שָֽׁבְרָ֥ה]]&#8207; </big>**| sha.ve.Rah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

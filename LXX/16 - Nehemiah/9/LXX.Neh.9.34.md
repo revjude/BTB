@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:34** 
 <small><sub>**LXX:**</sub></small>
 And  our kings, and  our rulers, and  our priests, and  our fathers observed not  your law, and heeded not  your commandments, and  your testimonies which you testified to them. 
-<small><sub>**KJV:**</sub></small>
-Neither have our kings, our princes, our priests, nor our fathers, kept thy law, nor hearkened unto thy commandments and thy testimonies, wherewith thou didst testify against them.
-<small><sub>**BSB:**</sub></small>
-Our kings and leaders and priests and fathers did not obey Your law or listen to Your commandments and warnings that You gave them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.33|<< Nehemiah 9:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.35|Nehemiah 9:35 >>]]</td></tr></table>
 
 | Translation | Greek |

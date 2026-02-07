@@ -1,10 +1,7 @@
 **LXX Ezekiel 45:19** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall take of the blood, and he shall put it upon the doorposts of the house, and upon the four corners of the temple, and upon the altar, and upon the doorposts of the gate of the inner courtyard. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall take of the blood of the sin offering, and put [it] upon the posts of the house, and upon the four corners of the settle of the altar, and upon the posts of the gate of the inner court.
-<small><sub>**BSB:**</sub></small>
-And the priest is to take some of the blood from the sin offering and put it on the doorposts of the temple, on the four corners of the ledge of the altar, and on the gateposts of the inner court.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.45.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.18|<< Ezekiel 45:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.20|Ezekiel 45:20 >>]]</td></tr></table>
 
 | Translation | Greek |

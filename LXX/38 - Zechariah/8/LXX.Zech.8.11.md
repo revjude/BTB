@@ -1,10 +1,7 @@
 **LXX Zechariah 8:11** 
 <small><sub>**LXX:**</sub></small>
 And now, not according to the days  prior will I do to the remnant  of this people, says \[the\] <span class="smallcaps">lord</span> almighty, 
-<small><sub>**KJV:**</sub></small>
-But now I [will] not [be] unto the residue of this people as in the former days, saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-But now I will not treat the remnant of this people as I did in the past,” declares the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.10|<< Zechariah 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.12|Zechariah 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

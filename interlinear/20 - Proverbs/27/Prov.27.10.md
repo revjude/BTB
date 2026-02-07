@@ -1,4 +1,4 @@
-**Proverbs 27:10** 
+**Proverbs 27:10**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine own friend, and thy father’s friend, forsake not; neither go into thy brother’s house in the day of thy calamity: [for] better [is] a neighbour [that is] near than a brother far off.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not forsake your friend or your father’s friend, and do not go to your brot
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.9|<< Proverbs 27:9]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.11|Proverbs 27:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | friend your  |**<big>&#8207;[[H7453\|רֵֽעֲ]]&#8207;&#8207;[[H9021\|ךָ֨]]&#8207; </big>**| re.'a.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] neighbor of  [^2]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7453\|רֵ֪עַ]]&#8207; </big>**[^3] | ve.<small><sup>[[HC]]</sup></small> re.'eh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

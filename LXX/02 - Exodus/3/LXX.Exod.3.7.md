@@ -1,10 +1,7 @@
 **LXX Exodus 3:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, In seeing, I saw the ill-treatment  of my people  in Egypt, and  their cry I have heard because of the foremen. For I have seen  their grief. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said, I have surely seen the affliction of my people which [are] in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows;
-<small><sub>**BSB:**</sub></small>
-The LORD said, “I have indeed seen the affliction of My people in Egypt. I have heard them crying out because of their oppressors, and I am aware of their sufferings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.6|<< Exodus 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.8|Exodus 3:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 3:7** is...

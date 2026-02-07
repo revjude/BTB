@@ -1,5 +1,5 @@
-**Acts 13:36
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:36**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For David, after he had served his own generation by the will of God, fell on sleep, and was laid unto his fathers, and saw corruption:
 <small><sub>**BSB:**</sub></small>
 For when David had served God’s purpose in his own generation, he fell asleep. His body was buried with his fathers and saw decay.
@@ -10,7 +10,7 @@ David indeed for in his own generation having served the <the> of God purpose he
 > $\quad$ referencing: [[LXX.1Kgs.2.10|1Kgs 2:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | David |**<big>[[G1138\|Δαυὶδ]]</big>**  [^1] [^2] |Dauid <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

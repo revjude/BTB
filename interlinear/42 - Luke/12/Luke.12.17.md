@@ -1,12 +1,12 @@
-**Luke 12:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:17**<big><big>[[Luke.12.13 The Parable of the Rich Fool|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he thought within himself, saying, What shall I do, because I have no room where to bestow my fruits?
 <small><sub>**BSB:**</sub></small>
 So he thought to himself, ‘What shall I do, since I have nowhere to store my crops?’
 <small><sub>**Literal:**</sub></small>
 And he was reasoning within himself saying; What shall I do for not I have where I will store up the fruits of mine?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.16|<< Luke 12:16]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.18|Luke 12:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he was reasoning |**<big>[[G1260\|διελογίζετο]]</big>**  |dielogizeto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

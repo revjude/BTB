@@ -1,4 +1,4 @@
-**Nehemiah 9:3** 
+**Nehemiah 9:3**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they stood up in their place, and read in the book of the law of the LORD their God [one] fourth part of the day; and [another] fourth part they confessed, and worshipped the LORD their God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While they stood in their places, they read from the Book of the Law of the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.2|<< Nehemiah 9:2]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.4|Nehemiah 9:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they stood  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965I\|יָּק֙וּמוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ku.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

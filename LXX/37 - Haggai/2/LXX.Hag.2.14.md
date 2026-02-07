@@ -1,10 +1,7 @@
 **LXX Haggai 2:14** 
 <small><sub>**LXX:**</sub></small>
 And Haggai answered and said, So  this people, and so  this nation \[is\] before me, says \[the\] <span class="smallcaps">lord</span>; and so all the works  of their hands; and whoever should approach \[unto\] there shall be defiled; because of  their concerns of the early morning \[burdens\]; they shall grieve from in front of their wickednesses; and you detested the ones reproving at \[the\] doors. 
-<small><sub>**KJV:**</sub></small>
-Then answered Haggai, and said, So [is] this people, and so [is] this nation before me, saith the LORD; and so [is] every work of their hands; and that which they offer there [is] unclean.
-<small><sub>**BSB:**</sub></small>
-Then Haggai replied, “So it is with this people and this nation before Me, declares the LORD, and so it is with every work of their hands; whatever they offer there is defiled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.13|<< Haggai 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.15|Haggai 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 45:15** 
 <small><sub>**LXX:**</sub></small>
 They shall be carried in gladness and exultation; they shall be led into \[the\] temple of \[the\] king. 
-<small><sub>**KJV:**</sub></small>
-With gladness and rejoicing shall they be brought: they shall enter into the king’s palace.
-<small><sub>**BSB:**</sub></small>
-They are led in with joy and gladness; they enter the palace of the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.45.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.14|<< Psalm 45:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.16|Psalm 45:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 35:20** 
 <small><sub>**LXX:**</sub></small>
 For to me then they spoke peaceable, but in anger they devised treachery. 
-<small><sub>**KJV:**</sub></small>
-For they speak not peace: but they devise deceitful matters against [them that are] quiet in the land.
-<small><sub>**BSB:**</sub></small>
-For they do not speak peace, but they devise deceitful schemes against those who live quietly in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.35.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.19|<< Psalm 35:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.21|Psalm 35:21 >>]]</td></tr></table>
 
 | Translation | Greek |

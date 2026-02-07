@@ -1,10 +1,7 @@
 **LXX Job 14:16** 
 <small><sub>**LXX:**</sub></small>
 But you counted my  practices, and in no way shall there go by you even one  of my sins. 
-<small><sub>**KJV:**</sub></small>
-For now thou numberest my steps: dost thou not watch over my sin?
-<small><sub>**BSB:**</sub></small>
-For then You would count my steps, but would not keep track of my sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.15|<< Job 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.17|Job 14:17 >>]]</td></tr></table>
 
 | Translation | Greek |

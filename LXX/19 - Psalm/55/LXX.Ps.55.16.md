@@ -1,10 +1,7 @@
 **LXX Psalm 55:16** 
 <small><sub>**LXX:**</sub></small>
 I cried out to God, and the <span class="smallcaps">lord</span> listened to me. 
-<small><sub>**KJV:**</sub></small>
-As for me, I will call upon God; and the LORD shall save me.
-<small><sub>**BSB:**</sub></small>
-But I call to God, and the LORD saves me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.55.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.15|<< Psalm 55:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.17|Psalm 55:17 >>]]</td></tr></table>
 
 | Translation | Greek |

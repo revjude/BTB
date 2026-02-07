@@ -1,10 +1,7 @@
 **LXX Job 7:15** 
 <small><sub>**LXX:**</sub></small>
 You will dismiss my soul from my spirit, and my bones from death. 
-<small><sub>**KJV:**</sub></small>
-So that my soul chooseth strangling, [and] death rather than my life.
-<small><sub>**BSB:**</sub></small>
-so that I would prefer strangling and death over my life in this body.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.14|<< Job 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.16|Job 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

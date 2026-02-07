@@ -1,12 +1,12 @@
-**Acts 8:36
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:36**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as they went on [their] way, they came unto a certain water: and the eunuch said, See, [here is] water; what doth hinder me to be baptized?
 <small><sub>**BSB:**</sub></small>
 As they traveled along the road and came to some water, the eunuch said, “Look, here is water! What is there to prevent me from being baptized?”
 <small><sub>**Literal:**</sub></small>
 As then they were going along the road, they came upon some water and says the eunuch; Behold water; what prevents me to be baptized?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.35|<< Acts 8:35]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.37|Acts 8:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As |**<big>[[G5613\|Ὡς]]</big>**  |Hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

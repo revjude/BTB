@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:45** 
 <small><sub>**LXX:**</sub></small>
 Jediael son of Shimri, and Joha  his brother, the Tizite, 
-<small><sub>**KJV:**</sub></small>
-Jediael the son of Shimri, and Joha his brother, the Tizite,
-<small><sub>**BSB:**</sub></small>
-Jediael son of Shimri and his brother Joha the Tizite,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.44|<< 1 Chronicles 11:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.46|1 Chronicles 11:46 >>]]</td></tr></table>
 
 | Translation | Greek |

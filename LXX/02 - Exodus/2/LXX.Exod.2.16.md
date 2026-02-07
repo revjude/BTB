@@ -1,10 +1,7 @@
 **LXX Exodus 2:16** 
 <small><sub>**LXX:**</sub></small>
 And to the priest of Midian there were seven daughters tending the sheep  of their father Jethro. And they came to draw \[water\] until they filled the troughs to water the sheep  of their father Jethro. 
-<small><sub>**KJV:**</sub></small>
-Now the priest of Midian had seven daughters: and they came and drew [water], and filled the troughs to water their father’s flock.
-<small><sub>**BSB:**</sub></small>
-Now the priest of Midian had seven daughters, and they came to draw water and fill the troughs to water their father’s flock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.15|<< Exodus 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.17|Exodus 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

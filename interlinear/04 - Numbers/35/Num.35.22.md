@@ -1,4 +1,4 @@
-**Numbers 35:22** 
+**Numbers 35:22**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if he thrust him suddenly without enmity, or have cast upon him any thing without laying of wait,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if anyone pushes a person suddenly, without hostility, or throws an object a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.21|<< Numbers 35:21]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.23|Numbers 35:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in an instant  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6621\|פֶ֥תַע]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Fe.ta'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

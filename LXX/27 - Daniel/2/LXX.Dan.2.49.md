@@ -1,10 +1,7 @@
 **LXX Daniel 2:49** 
 <small><sub>**LXX:**</sub></small>
 And Daniel asked of the king, and he placed over the works of the region of Babylon,  Shadrach, Meshach and Abed-nego. And Daniel was in the courtyard of the king. 
-<small><sub>**KJV:**</sub></small>
-Then Daniel requested of the king, and he set Shadrach, Meshach, and Abednego, over the affairs of the province of Babylon: but Daniel [sat] in the gate of the king.
-<small><sub>**BSB:**</sub></small>
-And at Daniel’s request, the king appointed Shadrach, Meshach, and Abednego to manage the province of Babylon, while Daniel remained in the king’s court.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.48|<< Daniel 2:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.1|Daniel 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

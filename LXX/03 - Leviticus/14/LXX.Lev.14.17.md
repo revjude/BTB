@@ -1,10 +1,7 @@
 **LXX Leviticus 14:17** 
 <small><sub>**LXX:**</sub></small>
 And the left behind olive oil  being in  his hand, the priest shall place upon the lobe of the right ear of the one being cleansed, and upon the thumb  of his hand -- the right, and upon the big toe  of his foot -- the right, upon the place of the blood of the  trespass \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And of the rest of the oil that [is] in his hand shall the priest put upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the blood of the trespass offering:
-<small><sub>**BSB:**</sub></small>
-And the priest is to put some of the oil remaining in his palm on the right earlobe of the one to be cleansed, on the thumb of his right hand, and on the big toe of his right foot, on top of the blood of the guilt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.16|<< Leviticus 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.18|Leviticus 14:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Revelation 4:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 4:4**<big><big>[[Rev.4.1 The Throne in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And round about the throne [were] four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.
 <small><sub>**BSB:**</sub></small>
 Surrounding the throne were twenty-four other thrones, and on these thrones sat twenty-four elders dressed in white, with golden crowns on their heads.
 <small><sub>**Literal:**</sub></small>
 And around the throne thrones [were] twenty and four, and on the thrones I saw <the> twenty and four elders sitting, having clothed themselves in garments white, and had on the heads of them crowns golden.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.3|<< Revelation 4:3]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.5|Revelation 4:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | around |**<big>[[G2943\|κυκλόθεν]]</big>**  |kuklothen <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**Hebrews 10:17
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:17**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And their sins and iniquities will I remember no more.
 <small><sub>**BSB:**</sub></small>
 Then He adds: “Their sins and lawless acts I will remember no more.”
@@ -10,7 +10,7 @@ and The sins of them and the lawless acts of them certainly not will I remember 
 > $\quad$ referencing: [[LXX.Jer.31.33|Jer 31:33-34]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | The |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

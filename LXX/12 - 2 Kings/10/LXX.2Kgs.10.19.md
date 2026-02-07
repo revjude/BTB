@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:19** 
 <small><sub>**LXX:**</sub></small>
 And now call to me all the prophets  of Baal, and  his priests, and all  his servants! Let not a man be overlooked! for I make a great sacrifice \[to\] Baal. All who ever overlooked shall not live. And Jehu did it by trickery, that he might destroy the servants  of Baal. 
-<small><sub>**KJV:**</sub></small>
-Now therefore call unto me all the prophets of Baal, all his servants, and all his priests; let none be wanting: for I have a great sacrifice [to do] to Baal; whosoever shall be wanting, he shall not live. But Jehu did [it] in subtilty, to the intent that he might destroy the worshippers of Baal.
-<small><sub>**BSB:**</sub></small>
-Now, therefore, summon to me all the prophets of Baal, all his servants, and all his priests. See that no one is missing, for I have a great sacrifice for Baal. Whoever is missing will not live.” But Jehu was acting deceptively in order to destroy the servants of Baal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.18|<< 2 Kings 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.20|2 Kings 10:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Nehemiah 2:9** 
+**Nehemiah 2:9**<big><big>[[Neh.2.1 Nehemiah Sent to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I came to the governors beyond the river, and gave them the king’s letters. Now the king had sent captains of the army and horsemen with me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I went to the governors west of the Euphrates and gave them the king’s le
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.8|<< Nehemiah 2:8]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.10|Nehemiah 2:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I went  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H0935G\|אָב֗וֹא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Vo'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

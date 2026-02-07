@@ -1,4 +1,4 @@
-**Ezekiel 5:17** 
+**Ezekiel 5:17**<big><big>[[Ezek.5.11 Famine, Sword, and Dispersion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So will I send upon you famine and evil beasts, and they shall bereave thee; and pestilence and blood shall pass through thee; and I will bring the sword upon thee. I the LORD have spoken [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will send famine and wild beasts against you, and they will leave you childles
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.16|<< Ezekiel 5:16]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.1|Ezekiel 6:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will send  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7971G\|שִׁלַּחְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.lach.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עֲ֠לֵי]]&#8207;&#8207;[[H9036\|כֶם]]&#8207; </big>**| 'A.lei.<small><sup>[[HR]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

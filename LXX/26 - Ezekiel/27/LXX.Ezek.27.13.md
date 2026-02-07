@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:13** 
 <small><sub>**LXX:**</sub></small>
 The Greek and the whole \[world\], and the \[places\] extending; these traded with you in lives of men; and items of brass they gave  for your trade. 
-<small><sub>**KJV:**</sub></small>
-Javan, Tubal, and Meshech, they [were] thy merchants: they traded the persons of men and vessels of brass in thy market.
-<small><sub>**BSB:**</sub></small>
-Javan, Tubal, and Meshech were your merchants. They exchanged slaves and bronze utensils for your merchandise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.12|<< Ezekiel 27:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.14|Ezekiel 27:14 >>]]</td></tr></table>
 
 | Translation | Greek |

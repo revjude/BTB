@@ -1,4 +1,4 @@
-**Judges 6:10** 
+**Judges 6:10**<big><big>[[Judg.6.1 Midian Oppresses Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said unto you, I [am] the LORD your God; fear not the gods of the Amorites, in whose land ye dwell: but ye have not obeyed my voice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I said to you: ‘I am the LORD your God. You must not fear the gods of the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.9|<< Judges 6:9]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.11|Judges 6:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמְרָ֣]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.me.Ra<small><sup>[[HVqw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֗ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

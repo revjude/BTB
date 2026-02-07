@@ -1,4 +1,4 @@
-**Song of Solomon 6:9** 
+**Song of Solomon 6:9**<big><big>[[Song.6.4 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My dove, my undefiled is [but] one; she [is] the [only] one of her mother, she [is] the choice [one] of her that bare her. The daughters saw her, and blessed her; [yea], the queens and the concubines, and they praised her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but my dove, my perfect one, is unique, the favorite of the mother who bore her.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.8|<< Song of Solomon 6:8]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.10|Song of Solomon 6:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] one  |**<big>&#8207;[[H0259\|אַחַ֥ת]]&#8207; </big>**| 'a.Chat<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she  |**<big>&#8207;[[H1931\|הִיא֙]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

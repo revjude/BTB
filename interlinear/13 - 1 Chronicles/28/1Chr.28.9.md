@@ -1,4 +1,4 @@
-**1 Chronicles 28:9** 
+**1 Chronicles 28:9**<big><big>[[1Chr.28.1 David Commissions Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for you, Solomon my son, know the God of your father and serve Him wholeheart
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.8|<< 1 Chronicles 28:8]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.10|1 Chronicles 28:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.lo.moh-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 27:9** 
 <small><sub>**LXX:**</sub></small>
 And going unto the sheep, you take for me from there two kids, tender and good! And I will make them \[for\] food  for your father as he is fond of. 
-<small><sub>**KJV:**</sub></small>
-Go now to the flock, and fetch me from thence two good kids of the goats; and I will make them savoury meat for thy father, such as he loveth:
-<small><sub>**BSB:**</sub></small>
-Go out to the flock and bring me two choice young goats, so that I can make them into a tasty dish for your father—the kind he loves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.8|<< Genesis 27:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.10|Genesis 27:10 >>]]</td></tr></table>
 
 | Translation | Greek |

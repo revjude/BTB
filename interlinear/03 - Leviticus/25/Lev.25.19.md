@@ -1,4 +1,4 @@
-**Leviticus 25:19** 
+**Leviticus 25:19**<big><big>[[Lev.25.18 The Blessing of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the land shall yield her fruit, and ye shall eat your fill, and dwell therein in safety.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the land will yield its fruit, so that you can eat your fill and dwell in s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.18|<< Leviticus 25:18]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.20|Leviticus 25:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will give  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתְנָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nat.Nah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֙רֶץ֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

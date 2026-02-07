@@ -1,4 +1,4 @@
-**Joshua 11:1** 
+**Joshua 11:1**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Jabin king of Hazor had heard [those things], that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now when Jabin king of Hazor heard about these things, he sent word to Jobab kin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.43|<< Joshua 10:43]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.2|Joshua 11:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֕י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when heard  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H8085G\|שְׁמֹ֖עַ]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> sh.Mo.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

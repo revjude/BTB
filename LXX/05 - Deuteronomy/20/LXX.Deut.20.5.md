@@ -1,10 +1,7 @@
 **LXX Deuteronomy 20:5** 
 <small><sub>**LXX:**</sub></small>
 And the scribes shall speak to the people, saying, Who \[is\] the man  building a new house, and did not dedicate it? Let him go and return to  his house! lest he die in the war, and another man shall dedicate it. 
-<small><sub>**KJV:**</sub></small>
-And the officers shall speak unto the people, saying, What man [is there] that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it.
-<small><sub>**BSB:**</sub></small>
-Furthermore, the officers are to address the army, saying, “Has any man built a new house and not dedicated it? Let him return home, or he may die in battle and another man dedicate it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.4|<< Deuteronomy 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.6|Deuteronomy 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

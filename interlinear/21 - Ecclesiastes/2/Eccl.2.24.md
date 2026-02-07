@@ -1,4 +1,4 @@
-**Ecclesiastes 2:24** 
+**Ecclesiastes 2:24**<big><big>[[Eccl.2.18 The Futility of Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] nothing better for a man, [than] that he should eat and drink, and [that] he should make his soul enjoy good in his labour. This also I saw, that it [was] from the hand of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nothing is better for a man than to eat and drink and enjoy his work. I have als
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.23|<< Ecclesiastes 2:23]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.25|Ecclesiastes 2:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵֽין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֤וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

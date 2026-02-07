@@ -1,4 +1,4 @@
-**Deuteronomy 26:11** 
+**Deuteronomy 26:11**<big><big>[[Deut.26.1 Offering Firstfruits and Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt rejoice in every good [thing] which the LORD thy God hath given unto thee, and unto thine house, thou, and the Levite, and the stranger that [is] among you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So you shall rejoice—you, the Levite, and the foreigner dwelling among you—i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.10|<< Deuteronomy 26:10]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.12|Deuteronomy 26:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will rejoice  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8055\|שָׂמַחְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.mach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in all  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

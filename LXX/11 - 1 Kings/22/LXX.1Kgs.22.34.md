@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And one merely stretched tight the bow, and it struck the king of Israel between the lungs and between the chest \[plate\]. And he said \[to\] his charioteer, Turn  your hand and lead me out of the battle! for I have been wounded. 
-<small><sub>**KJV:**</sub></small>
-And a [certain] man drew a bow at a venture, and smote the king of Israel between the joints of the harness: wherefore he said unto the driver of his chariot, Turn thine hand, and carry me out of the host; for I am wounded.
-<small><sub>**BSB:**</sub></small>
-However, a certain man drew his bow without taking special aim, and he struck the king of Israel between the joints of his armor. So the king said to his charioteer, “Turn around and take me out of the battle, for I am badly wounded!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.33|<< 1 Kings 22:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.35|1 Kings 22:35 >>]]</td></tr></table>
 
 | Translation | Greek |

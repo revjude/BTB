@@ -1,12 +1,12 @@
-**Luke 20:32
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:32**<big><big>[[Luke.20.27 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Last of all the woman died also.
 <small><sub>**BSB:**</sub></small>
 And last of all, the woman died.
 <small><sub>**Literal:**</sub></small>
 Finally now of all also the woman died.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.31|<< Luke 20:31]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.33|Luke 20:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Finally |**<big>[[G5306\|ὕστερον]]</big>**  |husteron <small><sup>[[A-ASN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

@@ -1,4 +1,4 @@
-**Deuteronomy 5:21** 
+**Deuteronomy 5:21**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shalt thou desire thy neighbour’s wife, neither shalt thou covet thy neighbour’s house, his field, or his manservant, or his maidservant, his ox, or his ass, or any [thing] that [is] thy neighbour’s.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You shall not covet your neighbor’s wife. You shall not covet your neighbor’
 > $\quad$ referenced by: [[Rom.7.7|Rom 7:7]] ☩ [[Rom.13.9|Rom 13:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must covet  |**<big>&#8207;[[H2530A\|תַחְמֹ֖ד]]&#8207; </big>**| tach.Mod<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

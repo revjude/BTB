@@ -1,4 +1,4 @@
-**Psalms 44:16** (44:17)
+**Psalms 44:16**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ at the voice of the scorner and reviler, because of the enemy, bent on revenge.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.15|<< Psalms 44:15]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.17|Psalms 44:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] sound of  |**<big>&#8207;[[H9006\|מִ֭]]&#8207;&#8207;[[H6963H\|קּוֹל]]&#8207; </big>**| Mi.<small><sup>[[HR]]</sup></small> kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] taunts  |**<big>&#8207;[[H2778A\|מְחָרֵ֣ף]]&#8207; </big>**| me.cha.Ref<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

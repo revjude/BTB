@@ -1,4 +1,4 @@
-**Job 39:18** 
+**Job 39:18**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What time she lifteth up herself on high, she scorneth the horse and his rider.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet when she proudly spreads her wings, she laughs at the horse and its rider.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.17|<< Job 39:17]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.19|Job 39:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | about the time  |**<big>&#8207;[[H9004\|כָּ֭]]&#8207;&#8207;[[H6256\|עֵת]]&#8207; </big>**| Ka.<small><sup>[[HRd]]</sup></small> 'et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the height  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4791\|מָּר֣וֹם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ma.Rom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

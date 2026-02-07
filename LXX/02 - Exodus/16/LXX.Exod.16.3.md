@@ -1,10 +1,7 @@
 **LXX Exodus 16:3** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel said to them, Ought we died being struck by \[the\] <span class="smallcaps">lord</span> in \[the\] land of Egypt, whenever we sat at the kettles of the meats, and ate bread loaves in fullness. For you led us into  this wilderness to kill all  this congregation by hunger. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, [and] when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger.
-<small><sub>**BSB:**</sub></small>
-“If only we had died by the LORD’s hand in the land of Egypt!” they said. “There we sat by pots of meat and ate our fill of bread, but you have brought us into this desert to starve this whole assembly to death!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.2|<< Exodus 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.4|Exodus 16:4 >>]]</td></tr></table>
 
 | Translation | Greek |

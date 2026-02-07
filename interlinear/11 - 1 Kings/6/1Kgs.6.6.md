@@ -1,4 +1,4 @@
-**1 Kings 6:6** 
+**1 Kings 6:6**<big><big>[[1Kgs.6.5 The Chambers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The nethermost chamber [was] five cubits broad, and the middle [was] six cubits broad, and the third [was] seven cubits broad: for without [in the wall] of the house he made narrowed rests round about, that [the beams] should not be fastened in the walls of the house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The bottom floor was five cubits wide, the middle floor six cubits, and the thir
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.5|<< 1 Kings 6:5]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.7|1 Kings 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the extension  [^2]|**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3326B\|יָּצִ֨יעַ]]&#8207; </big>**[^3] | hai.<small><sup>[[HTd]]</sup></small> ya.tzo.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | \<the> lower  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8481H\|תַּחְתֹּנָ֜ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tach.to.Nah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

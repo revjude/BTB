@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In the first year of Darius the son of Ahasuerus, of the seed of the Medes, who reigned over the kingdom of Chaldeans, 
-<small><sub>**KJV:**</sub></small>
-In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;
-<small><sub>**BSB:**</sub></small>
-In the first year of Darius son of Xerxes, a Mede by descent, who was made ruler over the kingdom of the Chaldeans—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.27|<< Daniel 8:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.2|Daniel 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

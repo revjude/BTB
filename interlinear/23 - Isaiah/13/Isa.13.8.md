@@ -1,4 +1,4 @@
-**Isaiah 13:8** 
+**Isaiah 13:8**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall be afraid: pangs and sorrows shall take hold of them; they shall be in pain as a woman that travaileth: they shall be amazed one at another; their faces [shall be as] flames.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Terror, pain, and anguish will seize them; they will writhe like a woman in labo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.7|<< Isaiah 13:7]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.9|Isaiah 13:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be terrified  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H0926\|נִבְהָ֓לוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> niv.Ha.lu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | pangs  |**<big>&#8207;[[H6735C\|צִירִ֤ים]]&#8207; </big>**| tzi.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

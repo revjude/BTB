@@ -1,10 +1,7 @@
 **LXX Isaiah 42:25** 
 <small><sub>**LXX:**</sub></small>
 And he brought upon them \[the\] anger of his rage; and \[the\] war strengthened \[against\] them and the ones burning them round about; and each of them did not know, nor put \[it\] unto \[their\] soul. 
-<small><sub>**KJV:**</sub></small>
-Therefore he hath poured upon him the fury of his anger, and the strength of battle: and it hath set him on fire round about, yet he knew not; and it burned him, yet he laid [it] not to heart.
-<small><sub>**BSB:**</sub></small>
-So He poured out on them His furious anger and the fierceness of battle. It enveloped them in flames, but they did not understand; it consumed them, but they did not take it to heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.24|<< Isaiah 42:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.1|Isaiah 43:1 >>]]</td></tr></table>
 
 | Translation | Greek |

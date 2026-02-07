@@ -1,4 +1,4 @@
-**Exodus 34:22** 
+**Exodus 34:22**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year’s end.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you are to celebrate the Feast of Weeks with the firstfruits of the wheat ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.21|<< Exodus 34:21]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.23|Exodus 34:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] festival of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2282\|חַ֤ג]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Chag<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | weeks  |**<big>&#8207;[[H7620G\|שָׁבֻעֹת֙]]&#8207; </big>**| sha.vu.'Ot<small><sup>[[HNtfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

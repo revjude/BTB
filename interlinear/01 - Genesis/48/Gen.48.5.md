@@ -1,4 +1,4 @@
-**Genesis 48:5** 
+**Genesis 48:5**<big><big>[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, [are] mine; as Reuben and Simeon, they shall be mine.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And now your two sons born to you in Egypt before I came to you here shall be re
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.48.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.4|<< Genesis 48:4]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.6|Genesis 48:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֡ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] two  |**<big>&#8207;[[H8147\|שְׁנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.nei-<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 7:72** 
 <small><sub>**LXX:**</sub></small>
 The eleventh day \[the\] ruler of the sons of Asher, Pagiel son of Ocran 
-<small><sub>**KJV:**</sub></small>
-On the eleventh day Pagiel the son of Ocran, prince of the children of Asher, [offered]:
-<small><sub>**BSB:**</sub></small>
-On the eleventh day Pagiel son of Ocran, the leader of the Asherites, drew near.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.72|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.71|<< Numbers 7:71]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.73|Numbers 7:73 >>]]</td></tr></table>
 
 | Translation | Greek |

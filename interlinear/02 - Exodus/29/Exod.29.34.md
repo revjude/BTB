@@ -1,4 +1,4 @@
-**Exodus 29:34** 
+**Exodus 29:34**<big><big>[[Exod.29.31 Food for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ought of the flesh of the consecrations, or of the bread, remain unto the morning, then thou shalt burn the remainder with fire: it shall not be eaten, because it [is] holy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And if any of the meat of ordination or any bread is left until the morning, you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.33|<< Exodus 29:33]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.35|Exodus 29:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be left over  |**<big>&#8207;[[H3498\|יִוָּתֵ֞ר]]&#8207; </big>**| yi.va.Ter<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Malachi 1:4** 
 <small><sub>**LXX:**</sub></small>
 Because Edom will say,, He was eradicated, and we should return and should rebuild places having been made desolate. Thus says \[the\] <span class="smallcaps">lord</span> almighty, They shall build, and I shall eradicate; and it shall be called by them, Borders of lawlessness, and, a people against whom \[the\] <span class="smallcaps">lord</span> deployed unto \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the LORD of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the LORD hath indignation for ever.
-<small><sub>**BSB:**</sub></small>
-Though Edom may say, “We have been devastated, but we will rebuild the ruins,” this is what the LORD of Hosts says: “They may build, but I will demolish. They will be called the Land of Wickedness, and a people with whom the LORD is indignant forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.3|<< Malachi 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.5|Malachi 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

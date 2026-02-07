@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:11** 
 <small><sub>**LXX:**</sub></small>
 then \[it is\] by no means to me from \[the\] <span class="smallcaps">lord</span> to bear my hand against \[the\] anointed one of \[the\] <span class="smallcaps">lord</span>. And now, take indeed the spear from before his head, and the flask of the water, and we shall go forth. 
-<small><sub>**KJV:**</sub></small>
-The LORD forbid that I should stretch forth mine hand against the LORD’S anointed: but, I pray thee, take thou now the spear that [is] at his bolster, and the cruse of water, and let us go.
-<small><sub>**BSB:**</sub></small>
-But the LORD forbid that I should extend my hand against the LORD’s anointed. Instead, take the spear and water jug by his head, and let us go.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.10|<< 1 Samuel 26:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.12|1 Samuel 26:12 >>]]</td></tr></table>
 
 | Translation | Greek |

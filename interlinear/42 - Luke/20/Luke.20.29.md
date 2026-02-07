@@ -1,12 +1,12 @@
-**Luke 20:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:29**<big><big>[[Luke.20.27 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There were therefore seven brethren: and the first took a wife, and died without children.
 <small><sub>**BSB:**</sub></small>
 Now there were seven brothers. The first one married a wife but died childless.
 <small><sub>**Literal:**</sub></small>
 Seven therefore brothers there were; and the first having taken a wife died childless,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.28|<< Luke 20:28]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.30|Luke 20:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Seven |**<big>[[G2033\|ἑπτὰ]]</big>**  |hepta <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

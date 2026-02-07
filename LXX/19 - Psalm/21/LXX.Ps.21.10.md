@@ -1,10 +1,7 @@
 **LXX Psalm 21:10** 
 <small><sub>**LXX:**</sub></small>
  You shall destroy their fruit from \[the\] earth; and  their seed from \[the\] sons of men. 
-<small><sub>**KJV:**</sub></small>
-Their fruit shalt thou destroy from the earth, and their seed from among the children of men.
-<small><sub>**BSB:**</sub></small>
-You will wipe their descendants from the earth, and their offspring from the sons of men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.21.9|<< Psalm 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.21.11|Psalm 21:11 >>]]</td></tr></table>
 
 | Translation | Greek |

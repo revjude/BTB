@@ -1,4 +1,4 @@
-**Exodus 26:3** 
+**Exodus 26:3**<big><big>[[Exod.26.1 The Ten Curtains for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The five curtains shall be coupled together one to another; and [other] five curtains [shall be] coupled one to another.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Five of the curtains are to be joined together, and the other five joined as wel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.2|<< Exodus 26:2]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.4|Exodus 26:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | five of  |**<big>&#8207;[[H2568\|חֲמֵ֣שׁ]]&#8207; </big>**| cha.Mesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the curtains  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3407\|יְרִיעֹ֗ת]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> y.ri.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

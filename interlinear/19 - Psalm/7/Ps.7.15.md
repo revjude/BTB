@@ -1,4 +1,4 @@
-**Psalms 7:15** (7:16)
+**Psalms 7:15**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He made a pit, and digged it, and is fallen into the ditch [which] he made.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has dug a hole and hollowed it out; he has fallen into a pit of his own makin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.14|<< Psalms 7:14]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.16|Psalms 7:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a pit  |**<big>&#8207;[[H0953A\|בּ֣וֹר]]&#8207; </big>**| Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he digs  |**<big>&#8207;[[H3738B\|כָּ֭רָֽה]]&#8207; </big>**| Ka.rah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

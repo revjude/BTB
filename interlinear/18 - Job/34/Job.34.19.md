@@ -1,4 +1,4 @@
-**Job 34:19** 
+**Job 34:19**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [How much less to him] that accepteth not the persons of princes, nor regardeth the rich more than the poor? for they all [are] the work of his hands.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ who is not partial to princes and does not favor rich over poor? For they are al
 > $\quad$ referenced by: [[Acts.10.34|Acts 10:34]] ☩ [[Rom.2.11|Rom 2:11]] ☩ [[Eph.6.9|Eph 6:9]] ☩ [[Col.3.25|Col 3:25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

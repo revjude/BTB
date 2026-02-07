@@ -1,12 +1,12 @@
-**Revelation 2:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:3**<big><big>[[Rev.2.1 To the Church in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And hast borne, and hast patience, and for my name’s sake hast laboured, and hast not fainted.
 <small><sub>**BSB:**</sub></small>
 Without growing weary, you have persevered and endured many things for the sake of My name.
 <small><sub>**Literal:**</sub></small>
 and perseverance you have and endured and for the sake of the name of Me have laboured and not have grown weary.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.2|<< Revelation 2:2]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.4|Revelation 2:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | perseverance |**<big>[[G5281\|ὑπομονὴν]]</big>**  |hupomonēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

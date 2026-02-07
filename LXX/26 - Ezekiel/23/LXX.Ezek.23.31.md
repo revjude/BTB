@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:31** 
 <small><sub>**LXX:**</sub></small>
 You went in the way of your sister; and I will put  her cup into  your hands. 
-<small><sub>**KJV:**</sub></small>
-Thou hast walked in the way of thy sister; therefore will I give her cup into thine hand.
-<small><sub>**BSB:**</sub></small>
-Because you have followed the path of your sister, I will put her cup into your hand.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.30|<< Ezekiel 23:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.32|Ezekiel 23:32 >>]]</td></tr></table>
 
 | Translation | Greek |

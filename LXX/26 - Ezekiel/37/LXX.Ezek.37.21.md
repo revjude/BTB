@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:21** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them, Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; Behold, I take all \[the\] house of Israel from out of \[the\] midst of the nations which they entered there; and I will gather them from all of the ones surrounding them; and I will bring them into the land  of Israel. 
-<small><sub>**KJV:**</sub></small>
-And say unto them, Thus saith the Lord GOD; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:
-<small><sub>**BSB:**</sub></small>
-you are to tell them that this is what the Lord GOD says: ‘I will take the Israelites out of the nations to which they have gone, and I will gather them from all around and bring them into their own land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.20|<< Ezekiel 37:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.22|Ezekiel 37:22 >>]]</td></tr></table>
 
 | Translation | Greek |

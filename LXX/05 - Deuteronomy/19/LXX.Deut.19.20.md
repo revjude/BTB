@@ -1,10 +1,7 @@
 **LXX Deuteronomy 19:20** 
 <small><sub>**LXX:**</sub></small>
 And the rest hearing shall fear, and they shall not add again to do according to  this wicked thing among you. 
-<small><sub>**KJV:**</sub></small>
-And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you.
-<small><sub>**BSB:**</sub></small>
-Then the rest of the people will hear and be afraid, and they will never again do anything so evil among you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.19|<< Deuteronomy 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.21|Deuteronomy 19:21 >>]]</td></tr></table>
 
 | Translation | Greek |

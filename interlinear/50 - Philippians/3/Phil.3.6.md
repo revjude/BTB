@@ -1,12 +1,12 @@
-**Philippians 3:6
-**<small><sub>**KJV:**</sub></small>
+**Philippians 3:6**<big><big>[[Phil.3.1 Righteousness through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless.
 <small><sub>**BSB:**</sub></small>
 as to zeal, persecuting the church; as to righteousness in the law, faultless.
 <small><sub>**Literal:**</sub></small>
 according to zeal persecuting the church, according to righteousness which [is] in [the] Law having become faultless.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.5|<< Philippians 3:5]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.7|Philippians 3:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | according to |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | zeal [^1] |**<big>[[G2205\|ζῆλος]]</big>**  |zēlos <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

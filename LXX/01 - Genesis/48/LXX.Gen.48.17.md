@@ -1,10 +1,7 @@
 **LXX Genesis 48:17** 
 <small><sub>**LXX:**</sub></small>
 And Joseph seeing that his father put  his right hand upon the head of Ephraim, it appeared wrong to him. And Joseph took hold of the hand  of his father to remove it from the head of Ephraim, to the head of Manasseh. 
-<small><sub>**KJV:**</sub></small>
-And when Joseph saw that his father laid his right hand upon the head of Ephraim, it displeased him: and he held up his father’s hand, to remove it from Ephraim’s head unto Manasseh’s head.
-<small><sub>**BSB:**</sub></small>
-When Joseph saw that his father had placed his right hand on Ephraim’s head, he was displeased and took his father’s hand to move it from Ephraim’s head to Manasseh’s.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.48.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.16|<< Genesis 48:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.18|Genesis 48:18 >>]]</td></tr></table>
 
 | Translation | Greek |

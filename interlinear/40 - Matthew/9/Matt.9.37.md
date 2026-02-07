@@ -1,12 +1,12 @@
-**Matthew 9:37
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:37**<big><big>[[Matt.9.35 The Lord of the Harvest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then saith he unto his disciples, The harvest truly [is] plenteous, but the labourers [are] few;
 <small><sub>**BSB:**</sub></small>
 Then He said to His disciples, “The harvest is plentiful, but the workers are few.
 <small><sub>**Literal:**</sub></small>
 Then He says to the disciples of Him; The indeed harvest [is] plentiful, the however workmen [are] few;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.36|<< Matthew 9:36]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.38|Matthew 9:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

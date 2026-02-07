@@ -1,4 +1,4 @@
-**1 Chronicles 4:3** 
+**1 Chronicles 4:3**<big><big>[[1Chr.4.1 The Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [were of] the father of Etam; Jezreel, and Ishma, and Idbash: and the name of their sister [was] Hazelelponi:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the sons of Etam: Jezreel, Ishma, and Idbash. And their sister was na
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.2|<< 1 Chronicles 4:2]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.4|1 Chronicles 4:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֙לֶּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] father of  |**<big>&#8207;[[H0001G\|אֲבִ֣י]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

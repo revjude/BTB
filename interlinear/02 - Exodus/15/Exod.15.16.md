@@ -1,4 +1,4 @@
-**Exodus 15:16** 
+**Exodus 15:16**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear and dread shall fall upon them; by the greatness of thine arm they shall be [as] still as a stone; till thy people pass over, O LORD, till the people pass over, [which] thou hast purchased.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and terror and dread will fall on them. By the power of Your arm they will be as
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.15|<< Exodus 15:15]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.17|Exodus 15:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has fallen  |**<big>&#8207;[[H5307G\|תִּפֹּ֨ל]]&#8207; </big>**| ti.Pol<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֤ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

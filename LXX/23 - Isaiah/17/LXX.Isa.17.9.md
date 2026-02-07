@@ -1,10 +1,7 @@
 **LXX Isaiah 17:9** 
 <small><sub>**LXX:**</sub></small>
  In that day your cities shall be abandoned, in which manner the Amorites and the Hivites left before \[the\] face of the sons of Israel; and they shall be desolate \[places\]. 
-<small><sub>**KJV:**</sub></small>
-In that day shall his strong cities be as a forsaken bough, and an uppermost branch, which they left because of the children of Israel: and there shall be desolation.
-<small><sub>**BSB:**</sub></small>
-In that day their strong cities will be like forsaken thickets and summits, abandoned to the Israelites and to utter desolation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.8|<< Isaiah 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.10|Isaiah 17:10 >>]]</td></tr></table>
 
 | Translation | Greek |

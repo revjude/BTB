@@ -1,10 +1,7 @@
 **LXX Ezekiel 6:10** 
 <small><sub>**LXX:**</sub></small>
 And they shall realize that I \[the\] <span class="smallcaps">lord</span> spoken not to do all these evils against them for nothing. 
-<small><sub>**KJV:**</sub></small>
-And they shall know that I [am] the LORD, [and that] I have not said in vain that I would do this evil unto them.
-<small><sub>**BSB:**</sub></small>
-And they will know that I am the LORD; I did not declare in vain that I would bring this calamity upon them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.6.9|<< Ezekiel 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.6.11|Ezekiel 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

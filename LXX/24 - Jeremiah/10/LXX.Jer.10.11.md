@@ -1,10 +1,7 @@
 **LXX Jeremiah 10:11** 
 <small><sub>**LXX:**</sub></small>
 Thus you shall say to them, \[The\] gods who did not make the heaven and the earth let them be destroyed from the earth, and from beneath  this heaven! 
-<small><sub>**KJV:**</sub></small>
-Thus shall ye say unto them, The gods that have not made the heavens and the earth, [even] they shall perish from the earth, and from under these heavens.
-<small><sub>**BSB:**</sub></small>
-Thus you are to tell them: “These gods, who have made neither the heavens nor the earth, will perish from this earth and from under these heavens.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.9|<< Jeremiah 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.12|Jeremiah 10:12 >>]]</td></tr></table>
 
 | Translation | Greek |

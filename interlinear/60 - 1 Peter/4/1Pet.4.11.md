@@ -1,12 +1,12 @@
-**1 Peter 4:11
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 4:11**<big><big>[[1Pet.4.1 Living for God’s Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If any man speak, [let him speak] as the oracles of God; if any man minister, [let him do it] as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.
 <small><sub>**BSB:**</sub></small>
 If anyone speaks, he should speak as one conveying the words of God. If anyone serves, he should serve with the strength God provides, so that in all things God may be glorified through Jesus Christ, to whom be the glory and the power forever and ever. Amen.
 <small><sub>**Literal:**</sub></small>
 if anyone speaks as oracles of God; if anyone serves as of strength which supplies <the> God; so that in all things may be glorified <the> God through Jesus Christ, to whom be the glory and the power to the ages of the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.10|<< 1 Peter 4:10]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.12|1 Peter 4:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

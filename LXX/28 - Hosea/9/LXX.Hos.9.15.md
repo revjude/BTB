@@ -1,10 +1,7 @@
 **LXX Hosea 9:15** 
 <small><sub>**LXX:**</sub></small>
 All  their evils \[are\] in Gilgal, for there I detested them. Because of the evils  of their practices I will cast them out of my house. No way shall I proceed  to love them. All  their rulers resist persuasion. 
-<small><sub>**KJV:**</sub></small>
-All their wickedness [is] in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes [are] revolters.
-<small><sub>**BSB:**</sub></small>
-All their evil appears at Gilgal, for there I hated them. I will drive them from My house for the wickedness of their deeds. I will no longer love them; all their leaders are rebellious.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.14|<< Hosea 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.16|Hosea 9:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 26:6** 
 <small><sub>**LXX:**</sub></small>
 And  to Shemaiah his son were born sons, ones being ordained in the house  of their father, for they were mighty in strength. 
-<small><sub>**KJV:**</sub></small>
-Also unto Shemaiah his son were sons born, that ruled throughout the house of their father: for they [were] mighty men of valour.
-<small><sub>**BSB:**</sub></small>
-Also to his son Shemaiah were born sons who ruled over their families because they were strong, capable men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.26.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.5|<< 1 Chronicles 26:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.7|1 Chronicles 26:7 >>]]</td></tr></table>
 
 | Translation | Greek |

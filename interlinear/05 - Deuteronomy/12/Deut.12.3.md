@@ -1,4 +1,4 @@
-**Deuteronomy 12:3** 
+**Deuteronomy 12:3**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall overthrow their altars, and break their pillars, and burn their groves with fire; and ye shall hew down the graven images of their gods, and destroy the names of them out of that place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Tear down their altars, smash their sacred pillars, burn up their Asherah poles,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.2|<< Deuteronomy 12:2]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.4|Deuteronomy 12:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will break down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5422\|נִתַּצְתֶּ֣ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ni.tatz.Tem<small><sup>[[HVpq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

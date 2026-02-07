@@ -1,10 +1,7 @@
 **LXX Genesis 21:12** 
 <small><sub>**LXX:**</sub></small>
 And God said  to Abraham, be not hard before you on account of the child, and on account of the maidservant! All as much as Sarah should have said to you, you hearken to  her voice! for by Isaac a seed shall be called to you. 
-<small><sub>**KJV:**</sub></small>
-And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called.
-<small><sub>**BSB:**</sub></small>
-But God said to Abraham, “Do not be distressed about the boy and your maidservant. Listen to everything that Sarah tells you, for through Isaac your offspring will be reckoned.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.11|<< Genesis 21:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.13|Genesis 21:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 21:12** is...

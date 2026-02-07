@@ -1,12 +1,12 @@
-**John 1:4
-**<small><sub>**KJV:**</sub></small>
+**John 1:4**<big><big>[[John.1.1 The Beginning|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In him was life; and the life was the light of men.
 <small><sub>**BSB:**</sub></small>
 In Him was life, and that life was the light of men.
 <small><sub>**Literal:**</sub></small>
 In Him life was, and the life was the light <the> of men,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.3|<< John 1:3]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.5|John 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

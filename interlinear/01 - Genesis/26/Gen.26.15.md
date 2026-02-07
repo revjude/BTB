@@ -1,4 +1,4 @@
-**Genesis 26:15** 
+**Genesis 26:15**<big><big>[[Gen.26.12 Isaac’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For all the wells which his father’s servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the Philistines took dirt and stopped up all the wells that his father’s se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.14|<< Genesis 26:14]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.16|Genesis 26:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the wells  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0875\|בְּאֵרֹ֗ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.'e.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 5:12** 
 <small><sub>**LXX:**</sub></small>
 And he dispersed the people in \[the\] entire land of Egypt to gather together stubble for straw. 
-<small><sub>**KJV:**</sub></small>
-So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw.
-<small><sub>**BSB:**</sub></small>
-So the people scattered all over the land of Egypt to gather stubble for straw.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.11|<< Exodus 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.13|Exodus 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

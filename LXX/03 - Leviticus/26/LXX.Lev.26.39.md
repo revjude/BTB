@@ -1,10 +1,7 @@
 **LXX Leviticus 26:39** 
 <small><sub>**LXX:**</sub></small>
 And the ones being left behind from you shall be corrupted on account of  their sins, and on account of the sins  of their fathers. In the land  of their enemies they shall be melted away. 
-<small><sub>**KJV:**</sub></small>
-And they that are left of you shall pine away in their iniquity in your enemies’ lands; and also in the iniquities of their fathers shall they pine away with them.
-<small><sub>**BSB:**</sub></small>
-Those of you who survive in the lands of your enemies will waste away in their iniquity and will decay in the sins of their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.38|<< Leviticus 26:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.40|Leviticus 26:40 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 12:3** 
 <small><sub>**LXX:**</sub></small>
 in a day in which ever \[the\] keepers of the house should be shaken, and men of power should be turned aside, and the grinding \[women\] \[are\] idle because they are made few, and the \[women\] looking out of the openings shall darken; 
-<small><sub>**KJV:**</sub></small>
-In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,
-<small><sub>**BSB:**</sub></small>
-on the day the keepers of the house tremble and the strong men stoop, when those grinding cease because they are few and those watching through windows see dimly,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.2|<< Ecclesiastes 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.4|Ecclesiastes 12:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 7:1
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:1**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then came together unto him the Pharisees, and certain of the scribes, which came from Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Then the Pharisees and some of the scribes who had come from Jerusalem gathered around Jesus,
 <small><sub>**Literal:**</sub></small>
 And are gathered together to Him the Pharisees and some of the scribes having come from Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.56|<< Mark 6:56]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.2|Mark 7:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are gathered together |**<big>[[G4863\|συνάγονται]]</big>**  |sunagontai <small><sup>[[V-PPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Deuteronomy 14:6** 
+**Deuteronomy 14:6**<big><big>[[Deut.14.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every beast that parteth the hoof, and cleaveth the cleft into two claws, [and] cheweth the cud among the beasts, that ye shall eat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You may eat any animal that has a split hoof divided in two and that chews the c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.5|<< Deuteronomy 14:5]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.7|Deuteronomy 14:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | animal  |**<big>&#8207;[[H0929\|בְּהֵמָ֞ה]]&#8207; </big>**| be.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

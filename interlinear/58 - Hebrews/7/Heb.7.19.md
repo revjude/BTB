@@ -1,12 +1,12 @@
-**Hebrews 7:19
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:19**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the law made nothing perfect, but the bringing in of a better hope [did]; by the which we draw nigh unto God.
 <small><sub>**BSB:**</sub></small>
 (for the law made nothing perfect), and a better hope is introduced, by which we draw near to God.
 <small><sub>**Literal:**</sub></small>
 no [thing] for perfected the law — [the] introduction then of a better hope through which we draw near <the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.18|<< Hebrews 7:18]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.20|Hebrews 7:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | no [thing] |**<big>[[G3762\|οὐδὲν]]</big>**  |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

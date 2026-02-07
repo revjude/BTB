@@ -1,10 +1,7 @@
 **LXX Psalm 18:45** 
 <small><sub>**LXX:**</sub></small>
 Alien sons grew old and became lame from  their paths. 
-<small><sub>**KJV:**</sub></small>
-The strangers shall fade away, and be afraid out of their close places.
-<small><sub>**BSB:**</sub></small>
-Foreigners lose heart and come trembling from their strongholds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.44|<< Psalm 18:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.46|Psalm 18:46 >>]]</td></tr></table>
 
 | Translation | Greek |

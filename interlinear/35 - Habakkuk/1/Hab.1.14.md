@@ -1,4 +1,4 @@
-**Habakkuk 1:14** 
+**Habakkuk 1:14**<big><big>[[Hab.1.12 Habakkuk’s Second Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And makest men as the fishes of the sea, as the creeping things, [that have] no ruler over them?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have made men like the fish of the sea, like creeping things that have no ru
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.13|<< Habakkuk 1:13]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.15|Habakkuk 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you have made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|תַּעֲשֶׂ֥ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.'a.Seh<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humankind  |**<big>&#8207;[[H0120G\|אָדָ֖ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

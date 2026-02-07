@@ -1,10 +1,7 @@
 **LXX Psalm 55:2** 
 <small><sub>**LXX:**</sub></small>
 Take heed to me, and listen to me! I was fretted in  my meditation and was disturbed, 
-<small><sub>**KJV:**</sub></small>
-Attend unto me, and hear me: I mourn in my complaint, and make a noise;
-<small><sub>**BSB:**</sub></small>
-Attend to me and answer me. I am restless in my complaint, and distraught<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.55.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.1|<< Psalm 55:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.3|Psalm 55:3 >>]]</td></tr></table>
 
 | Translation | Greek |

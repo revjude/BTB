@@ -1,12 +1,12 @@
-**Galatians 5:16
-**<small><sub>**KJV:**</sub></small>
+**Galatians 5:16**<big><big>[[Gal.5.16 Walking by the Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [This] I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.
 <small><sub>**BSB:**</sub></small>
 So I say, walk by the Spirit, and you will not gratify the desires of the flesh.
 <small><sub>**Literal:**</sub></small>
 I say now, by [the] Spirit do walk and [the] desire [of the] flesh certainly not you may gratify.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.15|<< Galatians 5:15]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.17|Galatians 5:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|Λέγω]]</big>**  |Legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now, |**<big>[[G1161\|δέ,]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

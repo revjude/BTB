@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:20** 
 <small><sub>**LXX:**</sub></small>
 And he sacrificed all the priests of the high \[places\]  being there upon the altars. And he incinerated the bones of the men upon them. And returned to Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And he slew all the priests of the high places that [were] there upon the altars, and burned men’s bones upon them, and returned to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-On the altars he slaughtered all the priests of the high places, and he burned human bones on them. Then he returned to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.19|<< 2 Kings 23:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.21|2 Kings 23:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 1:20** 
 <small><sub>**LXX:**</sub></small>
 And God did good to the midwives. And he multiplied the people, and it became strong exceedingly. 
-<small><sub>**KJV:**</sub></small>
-Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty.
-<small><sub>**BSB:**</sub></small>
-So God was good to the midwives, and the people multiplied and became even more numerous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.19|<< Exodus 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.21|Exodus 1:21 >>]]</td></tr></table>
 
 | Translation | Greek |

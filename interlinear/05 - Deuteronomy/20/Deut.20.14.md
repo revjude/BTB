@@ -1,4 +1,4 @@
-**Deuteronomy 20:14** 
+**Deuteronomy 20:14**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the women, and the little ones, and the cattle, and all that is in the city, [even] all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies, which the LORD thy God hath given thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the women, children, livestock, and whatever else is in the city—all its s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.13|<< Deuteronomy 20:13]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.15|Deuteronomy 20:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַ֣ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the women  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H0802G\|נָּשִׁים]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> na.shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

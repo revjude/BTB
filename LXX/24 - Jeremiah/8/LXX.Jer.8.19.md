@@ -1,10 +1,7 @@
 **LXX Jeremiah 8:19** 
 <small><sub>**LXX:**</sub></small>
 Behold, \[the\] sound of \[the\] cry of \[the\] daughter of my people from a land far off.  Is \[the\] <span class="smallcaps">lord</span> not in Zion? or is no king there? For they provoked me to anger by  their \[idolatrous\] carvings, and by strange vanities. 
-<small><sub>**KJV:**</sub></small>
-Behold the voice of the cry of the daughter of my people because of them that dwell in a far country: [Is] not the LORD in Zion? [is] not her king in her? Why have they provoked me to anger with their graven images, [and] with strange vanities?
-<small><sub>**BSB:**</sub></small>
-Listen to the cry of the daughter of my people from a land far away: “Is the LORD no longer in Zion? Is her King no longer there?” “Why have they provoked Me to anger with their carved images, with their worthless foreign idols?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.18|<< Jeremiah 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.20|Jeremiah 8:20 >>]]</td></tr></table>
 
 | Translation | Greek |

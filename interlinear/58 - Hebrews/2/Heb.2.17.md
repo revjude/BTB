@@ -1,12 +1,12 @@
-**Hebrews 2:17
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 2:17**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore in all things it behoved him to be made like unto [his] brethren, that he might be a merciful and faithful high priest in things [pertaining] to God, to make reconciliation for the sins of the people.
 <small><sub>**BSB:**</sub></small>
 For this reason He had to be made like His brothers in every way, so that He might become a merciful and faithful high priest in service to God, in order to make atonement for the sins of the people.
 <small><sub>**Literal:**</sub></small>
 Therefore it was necessary in all things <the> [His] brothers to be made like, so that a merciful He may become and faithful high priest [in] <the> [things] relating to <the> God in order <the> to make propitiation for the sins of the people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.16|<< Hebrews 2:16]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.18|Hebrews 2:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G3606\|ὅθεν]]</big>**  |hothen <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it was necessary |**<big>[[G3784\|ὤφειλεν]]</big>**  |ōpheilen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

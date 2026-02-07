@@ -1,10 +1,7 @@
 **LXX Jonah 4:9** 
 <small><sub>**LXX:**</sub></small>
 And God said to Jonah, Are you exceedingly grieved over the gourd? And he said, I \[am\] exceedingly grieved unto death. 
-<small><sub>**KJV:**</sub></small>
-And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, [even] unto death.
-<small><sub>**BSB:**</sub></small>
-Then God asked Jonah, “Have you any right to be angry about the plant?” “I do,” he replied. “I am angry enough to die!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.8|<< Jonah 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.4.10|Jonah 4:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 4:9** is...

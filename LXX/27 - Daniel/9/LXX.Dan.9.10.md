@@ -1,10 +1,7 @@
 **LXX Daniel 9:10** 
 <small><sub>**LXX:**</sub></small>
 And we hearkened not to the voice of \[the\] <span class="smallcaps">lord</span>  our God, to go by  his laws, \[the\] ones which he executed before our face by \[the\] hands  of his servants the prophets. 
-<small><sub>**KJV:**</sub></small>
-Neither have we obeyed the voice of the LORD our God, to walk in his laws, which he set before us by his servants the prophets.
-<small><sub>**BSB:**</sub></small>
-and have not obeyed the voice of the LORD our God to walk in His laws, which He set before us through His servants the prophets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.9|<< Daniel 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.11|Daniel 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

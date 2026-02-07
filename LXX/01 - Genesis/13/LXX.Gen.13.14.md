@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
  And God said  to Abram, after  Lot parted from him, Look up \[with\] your eyes, and behold from the place which you are now, to \[the\] north and south, and east, and west! 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:
-<small><sub>**BSB:**</sub></small>
-After Lot had departed, the LORD said to Abram, “Now lift up your eyes from the place where you are, and look to the north and south and east and west,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.13|<< Genesis 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.15|Genesis 13:15 >>]]</td></tr></table>
 
 | Translation | Greek |

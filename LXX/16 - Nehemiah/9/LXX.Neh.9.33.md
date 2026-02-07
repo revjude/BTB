@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:33** 
 <small><sub>**LXX:**</sub></small>
 For you are just concerning all the \[things\] coming upon us, for truth you acted, but we were led into sin. 
-<small><sub>**KJV:**</sub></small>
-Howbeit thou [art] just in all that is brought upon us; for thou hast done right, but we have done wickedly:
-<small><sub>**BSB:**</sub></small>
-You are just in all that has befallen us, because You have acted faithfully, while we have acted wickedly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.32|<< Nehemiah 9:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.34|Nehemiah 9:34 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 9:42** 
+**1 Chronicles 9:42**<big><big>[[1Chr.9.35 The Descendants of Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahaz begat Jarah; and Jarah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ahaz was the father of Jarah; Jarah was the father of Alemeth, Azmaveth, and Zim
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.41|<< 1 Chronicles 9:41]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.43|1 Chronicles 9:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Ahaz  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0271H\|אָחָז֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Chaz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֣יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

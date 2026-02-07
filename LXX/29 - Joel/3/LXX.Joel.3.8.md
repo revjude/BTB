@@ -1,10 +1,7 @@
 **LXX Joel 3:8** 
 <small><sub>**LXX:**</sub></small>
 And I will render  your sons and  your daughters into \[the\] hands of sons of Judah; and they shall render them into captivity, into a nation far at a distance, for the <span class="smallcaps">lord</span> spoke. 
-<small><sub>**KJV:**</sub></small>
-And I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off: for the LORD hath spoken [it].
-<small><sub>**BSB:**</sub></small>
-I will sell your sons and daughters into the hands of the people of Judah, and they will sell them to the Sabeans—to a distant nation.” Indeed, the LORD has spoken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.7|<< Joel 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.9|Joel 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

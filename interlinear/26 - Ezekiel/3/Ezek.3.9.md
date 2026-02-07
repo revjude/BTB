@@ -1,4 +1,4 @@
-**Ezekiel 3:9** 
+**Ezekiel 3:9**<big><big>[[Ezek.3.1 Ezekiel Eats the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As an adamant harder than flint have I made thy forehead: fear them not, neither be dismayed at their looks, though they [be] a rebellious house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make your forehead like a diamond, harder than flint. Do not be afraid of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.8|<< Ezekiel 3:8]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.10|Ezekiel 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like diamond  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8068\|שָׁמִ֛יר]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> sha.Mir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hard  |**<big>&#8207;[[H2389\|חָזָ֥ק]]&#8207; </big>**| cha.Zak<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

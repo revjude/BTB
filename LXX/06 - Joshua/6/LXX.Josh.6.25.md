@@ -1,10 +1,7 @@
 **LXX Joshua 6:25** 
 <small><sub>**LXX:**</sub></small>
 And Rahab the harlot, and all the house  of her father, and all the things of hers, Joshua took alive. And she dwelt in  Israel until the day today, because she hid the ones spying which Joshua sent to spy out  Jericho. 
-<small><sub>**KJV:**</sub></small>
-And Joshua saved Rahab the harlot alive, and her father’s household, and all that she had; and she dwelleth in Israel [even] unto this day; because she hid the messengers, which Joshua sent to spy out Jericho.
-<small><sub>**BSB:**</sub></small>
-And Joshua spared Rahab the prostitute, with her father’s household and all who belonged to her, because she hid the men Joshua had sent to spy out Jericho. So she has lived among the Israelites to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.24|<< Joshua 6:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.26|Joshua 6:26 >>]]</td></tr></table>
 
 | Translation | Greek |

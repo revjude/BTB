@@ -1,4 +1,4 @@
-**1 Samuel 1:17** 
+**1 Samuel 1:17**<big><big>[[1Sam.1.9 Hannah Prays for a Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Eli answered and said, Go in peace: and the God of Israel grant [thee] thy petition that thou hast asked of him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Eli answered and said, Go in peace: and the God of Israel grant [thee] thy 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.16|<< 1 Samuel 1:16]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.18|1 Samuel 1:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֧עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eli  |**<big>&#8207;[[H5941\|עֵלִ֛י]]&#8207; </big>**| 'e.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

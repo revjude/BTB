@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:17** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan and Ahimaaz stopped at the spring of Rogel. And came forth the maidservant, and she reported to them. And they went and reported  to king David, for they were not able to appear  to enter into the city. 
-<small><sub>**KJV:**</sub></small>
-Now Jonathan and Ahimaaz stayed by Enrogel; for they might not be seen to come into the city: and a wench went and told them; and they went and told king David.
-<small><sub>**BSB:**</sub></small>
-Now Jonathan and Ahimaaz were staying at En-rogel, where a servant girl would come and pass along information to them. They in turn would go and inform King David, for they dared not be seen entering the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.16|<< 2 Samuel 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.18|2 Samuel 17:18 >>]]</td></tr></table>
 
 | Translation | Greek |

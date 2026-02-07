@@ -1,4 +1,4 @@
-**Exodus 29:6** 
+**Exodus 29:6**<big><big>[[Exod.29.1 Consecration of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put the mitre upon his head, and put the holy crown upon the mitre.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Put the turban on his head and attach the holy diadem to the turban.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.5|<< Exodus 29:5]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.7|Exodus 29:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760A\|שַׂמְתָּ֥]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the turban  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4701\|מִּצְנֶ֖פֶת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mitz.Ne.fet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

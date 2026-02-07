@@ -1,12 +1,12 @@
-**Acts 10:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:1**<big><big>[[Acts.10.1 Cornelius Sends for Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian [band],
 <small><sub>**BSB:**</sub></small>
 At Caesarea there was a man named Cornelius, a centurion in what was called the Italian Regiment.
 <small><sub>**Literal:**</sub></small>
 A man now certain was in Caesarea named Cornelius, [was] a centurion of [the] Cohort which is called Italian,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.43|<< Acts 9:43]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.2|Acts 10:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A man |**<big>[[G0435G\|Ἀνὴρ]]</big>**  |Anēr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

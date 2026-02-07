@@ -1,12 +1,12 @@
-**Mark 7:30
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:30**<big><big>[[Mark.7.24 The Faith of the Gentile Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when she was come to her house, she found the devil gone out, and her daughter laid upon the bed.
 <small><sub>**BSB:**</sub></small>
 And she went home and found her child lying on the bed, and the demon was gone.
 <small><sub>**Literal:**</sub></small>
 And having gone away to the home of her she found the child laid on the bed and the demon having left.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.29|<< Mark 7:29]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.31|Mark 7:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone away |**<big>[[G0565\|ἀπελθοῦσα]]</big>**  |apelthousa <small><sup>[[V-2AAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

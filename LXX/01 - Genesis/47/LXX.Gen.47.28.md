@@ -1,10 +1,7 @@
 **LXX Genesis 47:28** 
 <small><sub>**LXX:**</sub></small>
 And Jacob outlived in \[the\] land of Egypt for seventeen years. And the days of Jacob's years of his life were a hundred forty-seven years. 
-<small><sub>**KJV:**</sub></small>
-And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years.
-<small><sub>**BSB:**</sub></small>
-And Jacob lived in the land of Egypt seventeen years, and the length of his life was 147 years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.27|<< Genesis 47:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.29|Genesis 47:29 >>]]</td></tr></table>
 
 | Translation | Greek |

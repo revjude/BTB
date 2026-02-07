@@ -1,10 +1,7 @@
 **LXX Ezekiel 15:4** 
 <small><sub>**LXX:**</sub></small>
 Behold, fire is given for consumption  yearly; in \[the\] cleansing of it the fire consumes, and \[the wood\] vanishes in \[the\] end. Shall it be profitable for work? 
-<small><sub>**KJV:**</sub></small>
-Behold, it is cast into the fire for fuel; the fire devoureth both the ends of it, and the midst of it is burned. Is it meet for [any] work?
-<small><sub>**BSB:**</sub></small>
-No, it is cast into the fire for fuel. The fire devours both ends, and the middle is charred. Can it be useful for anything?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.15.3|<< Ezekiel 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.15.5|Ezekiel 15:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 3:26** 
 <small><sub>**LXX:**</sub></small>
 And the cases of your ornamentation shall mourn; and you shall be left behind alone; and into the earth you shall be dashed. 
-<small><sub>**KJV:**</sub></small>
-And her gates shall lament and mourn; and she [being] desolate shall sit upon the ground.
-<small><sub>**BSB:**</sub></small>
-And the gates of Zion will lament and mourn; destitute, she will sit on the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.25|<< Isaiah 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.4.1|Isaiah 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

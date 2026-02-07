@@ -1,5 +1,5 @@
-**1 Peter 3:20
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:20**<big><big>[[1Pet.3.14 Suffering for Righteousness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.
 <small><sub>**BSB:**</sub></small>
 who disobeyed long ago when God waited patiently in the days of Noah while the ark was being built. In the ark a few people, only eight souls, were saved through water.
@@ -10,7 +10,7 @@ having disobeyed at one time, when he was expecting the <the> of God longsufferi
 > $\quad$ alluding to: [[LXX.Gen.6.3|Gen 6:3]] ☩ [[LXX.Gen.6.12|Gen 6:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having disobeyed |**<big>[[G0544\|ἀπειθήσασίν]]</big>**  |apeithēsasin <small><sup>[[V-AAP-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | at one time, |**<big>[[G4218\|ποτε,]]</big>**  |pote <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

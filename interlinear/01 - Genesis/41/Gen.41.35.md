@@ -1,4 +1,4 @@
-**Genesis 41:35** 
+**Genesis 41:35**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let them gather all the food of those good years that come, and lay up corn under the hand of Pharaoh, and let them keep food in the cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Under the authority of Pharaoh, let them collect all the excess food from these 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.34|<< Genesis 41:34]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.36|Genesis 41:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and let them gather  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6908\|יִקְבְּצ֗וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yik.be.Tzu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

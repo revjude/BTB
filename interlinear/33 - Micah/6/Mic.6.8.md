@@ -1,4 +1,4 @@
-**Micah 6:8** 
+**Micah 6:8**<big><big>[[Mic.6.1 The Case against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath shewed thee, O man, what [is] good; and what doth the LORD require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has shown you, O man, what is good. And what does the LORD require of you but
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.7|<< Micah 6:7]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.9|Micah 6:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has told  |**<big>&#8207;[[H5046\|הִגִּ֥יד]]&#8207; </big>**| hi.Gid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֛]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

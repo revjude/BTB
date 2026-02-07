@@ -1,10 +1,7 @@
 **LXX Isaiah 36:9** 
 <small><sub>**LXX:**</sub></small>
 And how are you all able to turn to \[the\] face of the toparchs? The ones \[our\] servants relying upon \[the\] Egyptians for a horse and rider are. 
-<small><sub>**KJV:**</sub></small>
-How then wilt thou turn away the face of one captain of the least of my master’s servants, and put thy trust on Egypt for chariots and for horsemen?
-<small><sub>**BSB:**</sub></small>
-For how can you repel a single officer among the least of my master’s servants when you depend on Egypt for chariots and horsemen?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.36.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.8|<< Isaiah 36:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.10|Isaiah 36:10 >>]]</td></tr></table>
 
 | Translation | Greek |

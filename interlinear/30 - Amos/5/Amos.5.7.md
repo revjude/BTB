@@ -1,4 +1,4 @@
-**Amos 5:7** 
+**Amos 5:7**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye who turn judgment to wormwood, and leave off righteousness in the earth,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There are those who turn justice into wormwood and cast righteousness to the gro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.6|<< Amos 5:6]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.8|Amos 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O those [who] turn  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2015\|הֹפְכִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ho.fe.Khim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into wormwood  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3939\|לַעֲנָ֖ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> la.'a.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

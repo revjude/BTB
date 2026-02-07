@@ -1,4 +1,4 @@
-**Ezekiel 14:20** 
+**Ezekiel 14:20**<big><big>[[Ezek.14.12 Four Dire Judgments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though Noah, Daniel, and Job, [were] in it, [as] I live, saith the Lord GOD, they shall deliver neither son nor daughter; they shall [but] deliver their own souls by their righteousness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then as surely as I live, declares the Lord GOD, even if Noah, Daniel, and Job w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.19|<< Ezekiel 14:19]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.21|Ezekiel 14:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Noah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5146\|נֹ֨חַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> No.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Daniel  [^1]|**<big>&#8207;[[H1841H\|דָּנִיֵּ֣אל]]&#8207; </big>**[^2] | da.ni.'el<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

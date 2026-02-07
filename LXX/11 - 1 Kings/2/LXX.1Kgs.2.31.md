@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:31** 
 <small><sub>**LXX:**</sub></small>
 And the king said to him, Go, and do to him as he has said, and do away with him! And you shall bury him, and lift away today the blood which Joab poured out freely from me, and from the house  of my father. 
-<small><sub>**KJV:**</sub></small>
-And the king said unto him, Do as he hath said, and fall upon him, and bury him; that thou mayest take away the innocent blood, which Joab shed, from me, and from the house of my father.
-<small><sub>**BSB:**</sub></small>
-And the king replied, “Do just as he says. Strike him down and bury him, and so remove from me and from the house of my father the innocent blood that Joab shed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.30|<< 1 Kings 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.32|1 Kings 2:32 >>]]</td></tr></table>
 
 | Translation | Greek |

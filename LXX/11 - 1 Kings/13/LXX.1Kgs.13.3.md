@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:3** 
 <small><sub>**LXX:**</sub></small>
 And he executed in  that day a miracle, saying, This \[is\] the saying which \[the\] <span class="smallcaps">lord</span> spoke, saying, Behold, the altar is torn, and the fatness being upon it shall be poured out. 
-<small><sub>**KJV:**</sub></small>
-And he gave a sign the same day, saying, This [is] the sign which the LORD hath spoken; Behold, the altar shall be rent, and the ashes that [are] upon it shall be poured out.
-<small><sub>**BSB:**</sub></small>
-That day the man of God gave a sign, saying, “The LORD has spoken this sign: ‘Surely the altar will be split apart, and the ashes upon it will be poured out.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.2|<< 1 Kings 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.4|1 Kings 13:4 >>]]</td></tr></table>
 
 | Translation | Greek |

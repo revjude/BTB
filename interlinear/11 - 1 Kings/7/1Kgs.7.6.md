@@ -1,4 +1,4 @@
-**1 Kings 7:6** 
+**1 Kings 7:6**<big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made a porch of pillars; the length thereof [was] fifty cubits, and the breadth thereof thirty cubits: and the porch [was] before them: and the [other] pillars and the thick beam [were] before them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Solomon made his colonnade fifty cubits long and thirty cubits wide, with a port
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.5|<< 1 Kings 7:5]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.7|1 Kings 7:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֨ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] porch of  |**<big>&#8207;[[H0197G\|אוּלָ֤ם]]&#8207; </big>**| 'u.Lam<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

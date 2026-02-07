@@ -1,12 +1,12 @@
-**Luke 18:25
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:25**<big><big>[[Luke.18.18 The Rich Young Ruler|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For it is easier for a camel to go through a needle’s eye, than for a rich man to enter into the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 Indeed, it is easier for a camel to pass through the eye of a needle than for a rich man to enter the kingdom of God.”
 <small><sub>**Literal:**</sub></small>
 Easier for it is a camel through an eye of a needle to go than a rich man into the kingdom <the> of God to enter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.24|<< Luke 18:24]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.26|Luke 18:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Easier |**<big>[[G2123\|εὐκοπώτερον]]</big>**  |eukopōteron <small><sup>[[A-NSN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

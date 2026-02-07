@@ -1,12 +1,12 @@
-**1 Corinthians 6:14
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 6:14**<big><big>[[1Cor.6.9 Members of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And God hath both raised up the Lord, and will also raise up us by his own power.
 <small><sub>**BSB:**</sub></small>
 By His power God raised the Lord from the dead, and He will raise us also.
 <small><sub>**Literal:**</sub></small>
 <the> And God both the Lord has raised up and us He will raise out through the power of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.13|<< 1 Corinthians 6:13]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.15|1 Corinthians 6:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

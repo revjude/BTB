@@ -1,4 +1,4 @@
-**2 Samuel 7:8** 
+**2 Samuel 7:8**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore so shalt thou say unto my servant David, Thus saith the LORD of hosts, I took thee from the sheepcote, from following the sheep, to be ruler over my people, over Israel:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Now then, you are to tell My servant David that this is what the LORD of Hosts s
 > $\quad$ referenced by: [[2Cor.6.18|2Cor 6:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H6258\|עַתָּה]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'a.tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

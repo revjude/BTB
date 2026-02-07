@@ -1,10 +1,7 @@
 **LXX Leviticus 25:17** 
 <small><sub>**LXX:**</sub></small>
 Let not a man afflict  his neighbor! And you shall fear \[the\] <span class="smallcaps">lord</span>  your God. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Ye shall not therefore oppress one another; but thou shalt fear thy God: for I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-Do not take advantage of each other, but fear your God; for I am the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.16|<< Leviticus 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.18|Leviticus 25:18 >>]]</td></tr></table>
 
 | Translation | Greek |

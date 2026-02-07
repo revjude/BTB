@@ -1,10 +1,7 @@
 **LXX Isaiah 10:33** 
 <small><sub>**LXX:**</sub></small>
 Behold, the master, \[the\] <span class="smallcaps">lord</span> of Hosts puts in disorder the honorable ones with strength. And the haughty ones with insolence shall be broken, and the haughty ones shall be humbled. 
-<small><sub>**KJV:**</sub></small>
-Behold, the Lord, the LORD of hosts, shall lop the bough with terror: and the high ones of stature [shall be] hewn down, and the haughty shall be humbled.
-<small><sub>**BSB:**</sub></small>
-Behold, the Lord GOD of Hosts will lop off the branches with terrifying power. The tall trees will be cut down, the lofty ones will be felled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.32|<< Isaiah 10:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.34|Isaiah 10:34 >>]]</td></tr></table>
 
 | Translation | Greek |

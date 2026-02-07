@@ -1,4 +1,4 @@
-**Job 36:11** 
+**Job 36:11**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If they obey and serve [him], they shall spend their days in prosperity, and their years in pleasures.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If they obey and serve Him, then they end their days in prosperity and their yea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.10|<< Job 36:10]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.12|Job 36:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will hear  |**<big>&#8207;[[H8085G\|יִשְׁמְע֗וּ]]&#8207; </big>**| yish.me.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

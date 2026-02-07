@@ -1,4 +1,4 @@
-**2 Chronicles 7:12** 
+**2 Chronicles 7:12**<big><big>[[2Chr.7.11 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD appeared to Solomon by night, and said unto him, I have heard thy prayer, and have chosen this place to myself for an house of sacrifice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the LORD appeared to him at night and said to him: “I have heard your prayer a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.11|<< 2 Chronicles 7:11]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.13|2 Chronicles 7:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appeared  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יֵּרָ֧א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Ra'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

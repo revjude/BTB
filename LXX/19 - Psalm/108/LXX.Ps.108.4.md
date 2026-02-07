@@ -1,10 +1,7 @@
 **LXX Psalm 108:4** 
 <small><sub>**LXX:**</sub></small>
 For great above the heavens \[is\] your mercy; and unto the clouds \[is\] your truth. 
-<small><sub>**KJV:**</sub></small>
-For thy mercy [is] great above the heavens: and thy truth [reacheth] unto the clouds.
-<small><sub>**BSB:**</sub></small>
-For Your loving devotion extends beyond the heavens, and Your faithfulness reaches to the clouds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.108.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.108.3|<< Psalm 108:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.108.5|Psalm 108:5 >>]]</td></tr></table>
 
 | Translation | Greek |

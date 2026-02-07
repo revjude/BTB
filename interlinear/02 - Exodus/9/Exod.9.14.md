@@ -1,4 +1,4 @@
-**Exodus 9:14** 
+**Exodus 9:14**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that [there is] none like me in all the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Otherwise, I will send all My plagues against you and your officials and your pe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.13|<< Exodus 9:13]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.15|Exodus 9:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at the time  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6471\|פַּ֣עַם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Pa.'am<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

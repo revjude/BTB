@@ -1,10 +1,7 @@
 **LXX Genesis 12:17** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> chastised  Pharaoh \[with\] great and severe chastisements, and  his house, on account of Sarai the wife of Abram. 
-<small><sub>**KJV:**</sub></small>
-And the LORD plagued Pharaoh and his house with great plagues because of Sarai Abram’s wife.
-<small><sub>**BSB:**</sub></small>
-The LORD, however, afflicted Pharaoh and his household with severe plagues because of Abram’s wife Sarai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.12.16|<< Genesis 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.12.18|Genesis 12:18 >>]]</td></tr></table>
 
 | Translation | Greek |

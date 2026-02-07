@@ -1,10 +1,7 @@
 **LXX Genesis 31:51** 
 <small><sub>**LXX:**</sub></small>
 And Laban said  to Jacob, Behold,  this hill, and the monument which I stood between me and you; 
-<small><sub>**KJV:**</sub></small>
-And Laban said to Jacob, Behold this heap, and behold [this] pillar, which I have cast betwixt me and thee;
-<small><sub>**BSB:**</sub></small>
-Laban also said to Jacob, “Here is the mound, and here is the pillar I have set up between you and me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.50|<< Genesis 31:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.52|Genesis 31:52 >>]]</td></tr></table>
 
 | Translation | Greek |

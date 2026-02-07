@@ -1,12 +1,12 @@
-**Matthew 21:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:18**<big><big>[[Matt.21.18 The Barren Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now in the morning as he returned into the city, he hungered.
 <small><sub>**BSB:**</sub></small>
 In the morning, as Jesus was returning to the city, He was hungry.
 <small><sub>**Literal:**</sub></small>
 Early then he is coming back into the city He became hungry,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.17|<< Matthew 21:17]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.19|Matthew 21:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Early [^1] |**<big>[[G4404\|πρωῒ]]</big>**  |prōi <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

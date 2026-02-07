@@ -1,10 +1,10 @@
 (KJV) **Exodus 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6|<< Exodus 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8|Exodus 8 >>]]</td></tr></table>
 
-***God Commands Moses and Aaron*** ^bsb165
+<big><big>[[Exod.7.1 God Commands Moses and Aaron|⥃]]</big></big>***God Commands Moses and Aaron***
 
  $\quad$ <span class="startversemarker">[</span>**[[Exod.7.1|1]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto Moses, See<small><small>[^2]</small></small>, I have made thee a god<small><small>[^3]</small></small> to Pharaoh: and Aaron thy brother shall be thy prophet. <span class="startversemarker">[</span>**[[Exod.7.2|2]]**<span class="endversemarker">]</span> Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[Exod.7.3|3]]**<span class="endversemarker">]</span> And I<small><small>[^5]</small></small> will harden Pharaoh’s heart, and multiply<small><small>[^6]</small></small> my signs and my wonders in the land of Egypt. <span class="startversemarker">[</span>**[[Exod.7.4|4]]**<span class="endversemarker">]</span> But Pharaoh shall not hearken unto you, that I<small><small>[^7]</small></small> may lay my hand upon Egypt, and bring forth mine armies<small><small>[^8]</small></small>, \[and\] my people the children of Israel, out of the land of Egypt by great<small><small>[^9]</small></small> judgments. <span class="startversemarker">[</span>**[[Exod.7.5|5]]**<span class="endversemarker">]</span> And the Egyptians<small><small>[^10]</small></small> shall know that I \[am\] the <span class="smallcaps">Lord</span>, when I stretch<small><small>[^11]</small></small> forth mine hand upon Egypt, and bring out the children of Israel from among them. <span class="startversemarker">[</span>**[[Exod.7.6|6]]**<span class="endversemarker">]</span> And Moses and Aaron did as the <span class="smallcaps">Lord</span> commanded them, so did they.<small><small>[^12]</small></small> <span class="startversemarker">[</span>**[[Exod.7.7|7]]**<span class="endversemarker">]</span> And Moses \[was\] fourscore years old, and Aaron fourscore and three years old, when they spake unto Pharaoh.<small><small>[^13]</small></small>
 
-***Aaron’s Staff*** ^bsb166
+<big><big>[[Exod.7.8 Aaron’s Staff|⥃]]</big></big>***Aaron’s Staff***
 
  
 
@@ -12,7 +12,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.7.8|8]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[Exod.7.10|10]]**<span class="endversemarker">]</span> [¶]And Moses and Aaron went in unto Pharaoh, and they did so as the <span class="smallcaps">Lord<small><small>[^17]</small></small></span> had commanded: and Aaron cast down his rod before Pharaoh, and before his servants, and it became<small><small>[^18]</small></small> a serpent. <span class="startversemarker">[</span>**[[Exod.7.11|11]]**<span class="endversemarker">]</span> Then Pharaoh also called the wise men<small><small>[^19]</small></small> and the sorcerers<small><small>[^20]</small></small>: now the magicians of Egypt, they also<small><small>[^21]</small></small> did in like manner with their enchantments<small><small>[^22]</small></small>. <span class="startversemarker">[</span>**[[Exod.7.12|12]]**<span class="endversemarker">]</span> For they cast down every man his rod, and they became serpents: but Aaron’s<small><small>[^23]</small></small> rod swallowed up their rods. <span class="startversemarker">[</span>**[[Exod.7.13|13]]**<span class="endversemarker">]</span> And he hardened Pharaoh’s heart, that he hearkened not unto them; as the <span class="smallcaps">Lord</span> had said.<small><small>[^24]</small></small>
 
-***The First Plague: Blood*** ^bsb167
+<big><big>[[Exod.7.14 The First Plague：Blood|⥃]]</big></big>***The First Plague: Blood***
 
  
 

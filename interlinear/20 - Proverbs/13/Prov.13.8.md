@@ -1,4 +1,4 @@
-**Proverbs 13:8** 
+**Proverbs 13:8**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ransom of a man’s life [are] his riches: but the poor heareth not rebuke.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Riches may ransom a man’s life, but a poor man hears no threat.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.7|<< Proverbs 13:7]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.9|Proverbs 13:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] ransom of  |**<big>&#8207;[[H3724A\|כֹּ֣פֶר]]&#8207; </big>**| Ko.fer<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] life of  |**<big>&#8207;[[H5315H\|נֶֽפֶשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.fesh-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

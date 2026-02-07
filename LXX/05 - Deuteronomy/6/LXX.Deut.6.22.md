@@ -1,10 +1,7 @@
 **LXX Deuteronomy 6:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> executed signs and great and severe miracles in Egypt to Pharaoh, and to  his house in our presence. 
-<small><sub>**KJV:**</sub></small>
-And the LORD shewed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes:
-<small><sub>**BSB:**</sub></small>
-Before our eyes the LORD inflicted great and devastating signs and wonders on Egypt, on Pharaoh, and on all his household.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.21|<< Deuteronomy 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.23|Deuteronomy 6:23 >>]]</td></tr></table>
 
 | Translation | Greek |

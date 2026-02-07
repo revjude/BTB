@@ -1,12 +1,12 @@
-**John 19:14
-**<small><sub>**KJV:**</sub></small>
+**John 19:14**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it was the preparation of the passover, and about the sixth hour: and he saith unto the Jews, Behold your King!
 <small><sub>**BSB:**</sub></small>
 It was the day of Preparation for the Passover, about the sixth hour. And Pilate said to the Jews, “Here is your King!”
 <small><sub>**Literal:**</sub></small>
 It was now [the] Day of Preparation of the Passover, [the] hour was about [the] sixth. And he says to the Jews; Behold the king of you!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.13|<< John 19:13]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.15|John 19:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

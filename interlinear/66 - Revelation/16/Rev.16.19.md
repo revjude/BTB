@@ -1,12 +1,12 @@
-**Revelation 16:19
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:19**<big><big>[[Rev.16.17 The Seventh Bowl of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the great city was divided into three parts, and the cities of the nations fell: and great Babylon came in remembrance before God, to give unto her the cup of the wine of the fierceness of his wrath.
 <small><sub>**BSB:**</sub></small>
 The great city was split into three parts, and the cities of the nations collapsed. And God remembered Babylon the great and gave her the cup of the wine of the fury of His wrath.
 <small><sub>**Literal:**</sub></small>
 And was [split] the city <the> great into three parts, and the cities of the nations fell. and Babylon the great was remembered before <the> God to give to her the cup of the wine of the fury the wrath of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.18|<< Revelation 16:18]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.20|Revelation 16:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was [split] |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Job 5:25** 
 <small><sub>**LXX:**</sub></small>
 And you shall know that your seed \[shall be\] many, and your progeny will be as the abundant herbage of the field. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt know also that thy seed [shall be] great, and thine offspring as the grass of the earth.
-<small><sub>**BSB:**</sub></small>
-You will know that your offspring will be many, your descendants like the grass of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.5.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.24|<< Job 5:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.26|Job 5:26 >>]]</td></tr></table>
 
 | Translation | Greek |

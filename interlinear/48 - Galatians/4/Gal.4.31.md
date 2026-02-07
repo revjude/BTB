@@ -1,12 +1,12 @@
-**Galatians 4:31
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:31**<big><big>[[Gal.4.21 Hagar and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So then, brethren, we are not children of the bondwoman, but of the free.
 <small><sub>**BSB:**</sub></small>
 Therefore, brothers, we are not children of the slave woman, but of the free woman.
 <small><sub>**Literal:**</sub></small>
 So then, brothers, not we are of [the] slave woman children but of the free;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.30|<< Galatians 4:30]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.1|Galatians 5:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So then, [^1] |**<big>[[G1352\|διό,]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | brothers, |**<big>[[G0080\|ἀδελφοί,]]</big>**  |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

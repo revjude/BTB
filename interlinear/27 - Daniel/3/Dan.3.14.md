@@ -1,4 +1,4 @@
-**Daniel 3:14** 
+**Daniel 3:14**<big><big>[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nebuchadnezzar spake and said unto them, [Is it] true, O Shadrach, Meshach, and Abednego, do not ye serve my gods, nor worship the golden image which I have set up?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and Nebuchadnezzar said to them, “Shadrach, Meshach, and Abednego, is it true 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.13|<< Daniel 3:13]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.15|Daniel 3:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] replying  |**<big>&#8207;[[H6032\|עָנֵ֤ה]]&#8207; </big>**| 'a.Neh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Nebuchadnezzar  |**<big>&#8207;[[H5020\|נְבֻֽכַדְנֶצַּר֙]]&#8207; </big>**| ne.vu.khad.ne.Tzar<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

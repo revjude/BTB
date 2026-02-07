@@ -1,4 +1,4 @@
-**1 Kings 14:17** 
+**1 Kings 14:17**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jeroboam’s wife arose, and departed, and came to Tirzah: [and] when she came to the threshold of the door, the child died;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jeroboam’s wife got up and departed for Tirzah, and as soon as she steppe
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.16|<< 1 Kings 14:16]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.18|1 Kings 14:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|תָּ֙קָם֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.kom<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wife of  |**<big>&#8207;[[H0802H\|אֵ֣שֶׁת]]&#8207; </big>**| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

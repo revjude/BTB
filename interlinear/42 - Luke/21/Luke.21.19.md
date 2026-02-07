@@ -1,12 +1,12 @@
-**Luke 21:19
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:19**<big><big>[[Luke.21.10 Witnessing to All Nations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In your patience possess ye your souls.
 <small><sub>**BSB:**</sub></small>
 By your patient endurance you will gain your souls.
 <small><sub>**Literal:**</sub></small>
 By the patient endurance of you [all] do you gain yourselves the souls of you [all].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.18|<< Luke 21:18]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.20|Luke 21:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

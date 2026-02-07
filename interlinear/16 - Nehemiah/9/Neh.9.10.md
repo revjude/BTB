@@ -1,4 +1,4 @@
-**Nehemiah 9:10** 
+**Nehemiah 9:10**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for thou knewest that they dealt proudly against them. So didst thou get thee a name, as [it is] this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You performed signs and wonders against Pharaoh, all his officials, and all the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.9|<< Nehemiah 9:9]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.11|Nehemiah 9:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you gave  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H5414I\|תִּתֵּן]]&#8207; </big>**| Va.<small><sup>[[Hc]]</sup></small> ti.ten<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | signs  |**<big>&#8207;[[H0226G\|אֹתֹ֨ת]]&#8207; </big>**| 'o.Tot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

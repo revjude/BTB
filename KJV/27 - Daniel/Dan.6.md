@@ -1,12 +1,12 @@
 (KJV) **Daniel 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5|<< Daniel 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7|Daniel 7 >>]]</td></tr></table>
 
-***The Plot against Daniel*** ^bsb1956
+<big><big>[[Dan.6.1 The Plot against Daniel|⥃]]</big></big>***The Plot against Daniel***
 
  $\quad$ <span class="startversemarker">[</span>**[[Dan.6.1|1]]**<span class="endversemarker">]</span> It pleased Darius<small><small>[^2]</small></small> to set over the kingdom an<small><small>[^3]</small></small> hundred and twenty princes, which should be over the whole kingdom; <span class="startversemarker">[</span>**[[Dan.6.2|2]]**<span class="endversemarker">]</span> And over these three presidents; of<small><small>[^4]</small></small> whom Daniel \[was\] first: that<small><small>[^5]</small></small> the princes might give accounts unto them, and the<small><small>[^6]</small></small> king should have no damage. <span class="startversemarker">[</span>**[[Dan.6.3|3]]**<span class="endversemarker">]</span> Then this Daniel was preferred<small><small>[^7]</small></small> above the presidents an<small><small>[^8]</small></small>d princes, because an excellent spirit \[was\] in him; and the king thought<small><small>[^9]</small></small> to set him over the whole realm. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Dan.6.4|4]]**<span class="endversemarker">]</span> [¶]Then the presidents and princes sought<small><small>[^10]</small></small> to find occasion against Daniel concerning the kingdom; but<small><small>[^11]</small></small> they could find none occasion nor fault; forasmuch as he \[was\] faithful, neither was there any error or fault found in him.<small><small>[^12]</small></small> <span class="startversemarker">[</span>**[[Dan.6.5|5]]**<span class="endversemarker">]</span> Then said these men, We shall not find any occasion against this Daniel, except we find \[it\] against him concerning the law of his God.<small><small>[^13]</small></small> <span class="startversemarker">[</span>**[[Dan.6.6|6]]**<span class="endversemarker">]</span> Then these presidents and princes assembled together<small><small>[^14]</small></small> to the king<small><small>[^15]</small></small>, and said thus unto him, King Darius, live for ever. <span class="startversemarker">[</span>**[[Dan.6.7|7]]**<span class="endversemarker">]</span> All<small><small>[^16]</small></small> the presidents of the kingdom, the governors, and the princes, the counsellors, and the captains, have consulted<small><small>[^17]</small></small> together to establish a royal statute, and to make a firm decree<small><small>[^18]</small></small>, that whosoever shall ask a petition of any God or man for thirty days, save of thee, O king, he shall<small><small>[^19]</small></small> be cast into the den of lions. <span class="startversemarker">[</span>**[[Dan.6.8|8]]**<span class="endversemarker">]</span> Now, O king, establish<small><small>[^20]</small></small> the decree, and sign the writing, that it be not changed, according<small><small>[^21]</small></small> to the law of the Medes and Persians, which altereth not<small><small>[^22]</small></small>. <span class="startversemarker">[</span>**[[Dan.6.9|9]]**<span class="endversemarker">]</span> Wherefore king Darius signed<small><small>[^23]</small></small> the writing and the decree.
 
-***Daniel in the Lions’ Den*** ^bsb1957
+<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥃]]</big></big>***Daniel in the Lions’ Den***
 
  
 
@@ -16,7 +16,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Dan.6.18|18]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[Dan.6.24|24]]**<span class="endversemarker">]</span> [¶]And the king commanded, and they brought<small><small>[^57]</small></small> those men which had accused Daniel, and they cast \[them<small><small>[^58]</small></small>\] into the den of lions, them, their children<small><small>[^59]</small></small>, and their wives; and the lions<small><small>[^60]</small></small> had the mastery of them, and brake all their bones in pieces or ever they came at the bottom of the den.
 
-***Darius Honors God*** ^bsb1958
+<big><big>[[Dan.6.25 Darius Honors God|⥃]]</big></big>***Darius Honors God***
 
  
 

@@ -1,10 +1,7 @@
 **LXX Genesis 21:32** 
 <small><sub>**LXX:**</sub></small>
 And they ordained a covenant at the Well of the Oath. And Abimelech rose up, and Ahuzzath  his groomsman, and Phichol the commander-in-chief  of his force, and they returned to the land of the Philistines. 
-<small><sub>**KJV:**</sub></small>
-Thus they made a covenant at Beersheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines.
-<small><sub>**BSB:**</sub></small>
-After they had made the covenant at Beersheba, Abimelech and Phicol the commander of his army got up and returned to the land of the Philistines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.31|<< Genesis 21:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.33|Genesis 21:33 >>]]</td></tr></table>
 
 | Translation | Greek |

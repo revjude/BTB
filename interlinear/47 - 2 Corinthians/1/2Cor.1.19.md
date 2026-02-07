@@ -1,12 +1,12 @@
-**2 Corinthians 1:19
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:19**<big><big>[[2Cor.1.12 Paul’s Change of Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the Son of God, Jesus Christ, who was preached among you by us, [even] by me and Silvanus and Timotheus, was not yea and nay, but in him was yea.
 <small><sub>**BSB:**</sub></small>
 For the Son of God, Jesus Christ, who was proclaimed among you by me and Silvanus and Timothy, was not “Yes” and “No,” but in Him it has always been “Yes.”
 <small><sub>**Literal:**</sub></small>
 The <the> of God for Son Jesus Christ the [One] among you through us having been proclaimed through me and Silvanus and Timothy, not was Yes and No, but Yes in Him it has always been;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.18|<< 2 Corinthians 1:18]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.20|2 Corinthians 1:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

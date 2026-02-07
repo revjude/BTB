@@ -1,4 +1,4 @@
-**2 Chronicles 32:16** 
+**2 Chronicles 32:16**<big><big>[[2Chr.32.9 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his servants spake yet [more] against the LORD God, and against his servant Hezekiah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the servants of Sennacherib spoke further against the LORD God and against H
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.15|<< 2 Chronicles 32:15]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.17|2 Chronicles 32:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and again  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5750\|עוֹד֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they spoke  |**<big>&#8207;[[H1696G\|דִּבְּר֣וּ]]&#8207; </big>**| di.be.Ru<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

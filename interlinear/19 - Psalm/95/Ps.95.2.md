@@ -1,4 +1,4 @@
-**Psalms 95:2** 
+**Psalms 95:2**<big><big>[[Ps.95.1 Do Not Harden Your Hearts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let us enter His presence with thanksgiving; let us make a joyful noise to Him i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.95.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.95.1|<< Psalms 95:1]]</td><td align="center" style="border:none;">[[Ps.95|Psalms 95]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.95.3|Psalms 95:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let us approach  |**<big>&#8207;[[H6923\|נְקַדְּמָ֣ה]]&#8207; </big>**| ne.ka.de.Mah<small><sup>[[HVpc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | presence his  |**<big>&#8207;[[H6440G\|פָנָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

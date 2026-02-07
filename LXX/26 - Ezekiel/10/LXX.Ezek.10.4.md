@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the glory \[of the\] <span class="smallcaps">lord</span> departed from the cherubim into the open air of the house. And the house was filled \[with\] the cloud, and the courtyard was filled of the brightness of the glory of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Then the glory of the LORD went up from the cherub, [and stood] over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of the LORD’S glory.
-<small><sub>**BSB:**</sub></small>
-Then the glory of the LORD rose from above the cherubim and stood over the threshold of the temple. The temple was filled with the cloud, and the court was filled with the brightness of the glory of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.3|<< Ezekiel 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.5|Ezekiel 10:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 10:4** is...

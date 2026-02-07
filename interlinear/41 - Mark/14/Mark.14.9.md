@@ -1,12 +1,12 @@
-**Mark 14:9
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:9**<big><big>[[Mark.14.3 Jesus Anointed at Bethany|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily I say unto you, Wheresoever this gospel shall be preached throughout the whole world, [this] also that she hath done shall be spoken of for a memorial of her.
 <small><sub>**BSB:**</sub></small>
 And truly I tell you, wherever the gospel is preached in all the world, what she has done will also be told in memory of her.”
 <small><sub>**Literal:**</sub></small>
 Amen now I say to you; wherever maybe shall be proclaimed <the> gospel this in whole the world, also what has done this [woman] will be spoken of for a memorial of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.8|<< Mark 14:8]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.10|Mark 14:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

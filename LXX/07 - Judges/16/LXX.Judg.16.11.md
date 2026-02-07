@@ -1,10 +1,7 @@
 **LXX Judges 16:11** 
 <small><sub>**LXX:**</sub></small>
 And he said to her, If by binding, they should tie me by new ropes which were not \[used\] in  work, then I shall be weak, and I will be as one of the men. 
-<small><sub>**KJV:**</sub></small>
-And he said unto her, If they bind me fast with new ropes that never were occupied, then shall I be weak, and be as another man.
-<small><sub>**BSB:**</sub></small>
-He replied, “If they tie me up with new ropes that have never been used, I will become as weak as any other man.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.10|<< Judges 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.12|Judges 16:12 >>]]</td></tr></table>
 
 | Translation | Greek |

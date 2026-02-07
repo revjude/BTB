@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And  to Ahab \[were\] seventy sons in Samaria. And Jehu wrote a scroll, and sent \[it\] unto Samaria, to the rulers of Samaria, and to the elders, and to the wet-nurses of the sons of Ahab, saying, 
-<small><sub>**KJV:**</sub></small>
-And Ahab had seventy sons in Samaria. And Jehu wrote letters, and sent to Samaria, unto the rulers of Jezreel, to the elders, and to them that brought up Ahab’s [children], saying,
-<small><sub>**BSB:**</sub></small>
-Now Ahab had seventy sons in Samaria. So Jehu wrote letters and sent them to Samaria to the officials of Jezreel, to the elders, and to the guardians of the sons of Ahab, saying:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.37|<< 2 Kings 9:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.2|2 Kings 10:2 >>]]</td></tr></table>
 
 | Translation | Greek |

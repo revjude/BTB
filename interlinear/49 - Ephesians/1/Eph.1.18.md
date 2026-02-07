@@ -1,12 +1,12 @@
-**Ephesians 1:18
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 1:18**<big><big>[[Eph.1.15 Spiritual Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The eyes of your understanding being enlightened; that ye may know what is the hope of his calling, and what the riches of the glory of his inheritance in the saints,
 <small><sub>**BSB:**</sub></small>
 I ask that the eyes of your heart may be enlightened, so that you may know the hope of His calling, the riches of His glorious inheritance in the saints,
 <small><sub>**Literal:**</sub></small>
 enlightened [are] the eyes of the heart of you in order for <the> to know you what is the hope of the calling of Him, and what [are] the riches of the glory of the inheritance of Him in the saints,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.17|<< Ephesians 1:17]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.19|Ephesians 1:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | enlightened [are] |**<big>[[G5461\|πεφωτισμένους]]</big>**  |pephōtismenous <small><sup>[[V-RPP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

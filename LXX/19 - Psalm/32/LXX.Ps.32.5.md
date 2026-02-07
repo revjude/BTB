@@ -1,10 +1,7 @@
 **LXX Psalm 32:5** 
 <small><sub>**LXX:**</sub></small>
  My lawlessness I made known, and  my sin I did not cover. I said, I will declare openly against myself  my lawlessness to the <span class="smallcaps">lord</span>. And you forgave the impiety  of my heart. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-I acknowledged my sin unto thee, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and thou forgavest the iniquity of my sin. Selah.
-<small><sub>**BSB:**</sub></small>
-Then I acknowledged my sin to You and did not hide my iniquity. I said, “I will confess my transgressions to the LORD,” and You forgave the guilt of my sin. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.32.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.32.4|<< Psalm 32:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.32.6|Psalm 32:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Esther 10:3** 
+**Esther 10:3**<big><big>[[Esth.10.1 Tribute to Xerxes and Mordecai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Mordecai the Jew [was] next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For Mordecai the Jew was second only to King Xerxes, preeminent among the Jews a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.10.2|<< Esther 10:2]]</td><td align="center" style="border:none;">[[Esth.10|Esther 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.1|Job 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Mordecai  |**<big>&#8207;[[H4782H\|מָרְדֳּכַ֣י]]&#8207; </big>**| ma.re.do.Khai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

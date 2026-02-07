@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:22** 
 <small><sub>**LXX:**</sub></small>
 In  your cities you shall eat it. The unclean in you and the clean likewise shall eat as \[the\] doe or stag. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt eat it within thy gates: the unclean and the clean [person shall eat it] alike, as the roebuck, and as the hart.
-<small><sub>**BSB:**</sub></small>
-Eat it within your gates; both the ceremonially unclean and clean may eat it as they would a gazelle or a deer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.21|<< Deuteronomy 15:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.23|Deuteronomy 15:23 >>]]</td></tr></table>
 
 | Translation | Greek |

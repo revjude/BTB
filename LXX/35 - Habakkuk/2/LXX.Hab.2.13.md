@@ -1,10 +1,7 @@
 **LXX Habakkuk 2:13** 
 <small><sub>**LXX:**</sub></small>
 Are these not from \[the\] <span class="smallcaps">lord</span> almighty that fit peoples failed by fire, and many nations, and they became faint-hearted? 
-<small><sub>**KJV:**</sub></small>
-Behold, [is it] not of the LORD of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?
-<small><sub>**BSB:**</sub></small>
-Is it not indeed from the LORD of Hosts that the labor of the people only feeds the fire, and the nations weary themselves in vain?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.12|<< Habakkuk 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.14|Habakkuk 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

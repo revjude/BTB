@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:35** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>, the one appointing the sun for light of the day, moon and stars for light of the night, and \[the\] roar in \[the\] sea, and its waves resonated; \[the\] <span class="smallcaps">lord</span> almighty \[is\] his name. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, which giveth the sun for a light by day, [and] the ordinances of the moon and of the stars for a light by night, which divideth the sea when the waves thereof roar; The LORD of hosts [is] his name:
-<small><sub>**BSB:**</sub></small>
-Thus says the LORD, who gives the sun for light by day, who sets in order the moon and stars for light by night, who stirs up the sea so that its waves roar—the LORD of Hosts is His name:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.34|<< Jeremiah 31:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.36|Jeremiah 31:36 >>]]</td></tr></table>
 
 | Translation | Greek |

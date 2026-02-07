@@ -1,12 +1,12 @@
-**Matthew 26:42
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:42**<big><big>[[Matt.26.36 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done.
 <small><sub>**BSB:**</sub></small>
 A second time He went away and prayed, “My Father, if this cup cannot pass unless I drink it, may Your will be done.”
 <small><sub>**Literal:**</sub></small>
 Again for a second time having gone away He prayed saying; Father of Mine, if not is possible this <the> cup to pass from Me only unless it I shall drink, [then] should be [done] the will of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.41|<< Matthew 26:41]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.43|Matthew 26:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Again |**<big>[[G3825\|Πάλιν]]</big>**  |Palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

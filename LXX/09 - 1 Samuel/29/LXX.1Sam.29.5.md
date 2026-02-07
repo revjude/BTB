@@ -1,10 +1,7 @@
 **LXX 1 Samuel 29:5** 
 <small><sub>**LXX:**</sub></small>
 \[Is\] this not David, which they led in dances, saying, Saul struck  his thousands, and David  his ten thousands? 
-<small><sub>**KJV:**</sub></small>
-[Is] not this David, of whom they sang one to another in dances, saying, Saul slew his thousands, and David his ten thousands?
-<small><sub>**BSB:**</sub></small>
-Is this not the David about whom they sing in their dances: ‘Saul has slain his thousands, and David his tens of thousands’?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.29.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.4|<< 1 Samuel 29:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.6|1 Samuel 29:6 >>]]</td></tr></table>
 
 | Translation | Greek |

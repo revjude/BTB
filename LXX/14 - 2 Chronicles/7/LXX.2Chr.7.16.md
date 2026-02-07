@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 7:16** 
 <small><sub>**LXX:**</sub></small>
 And now, I chose and I have sanctified  this house,  for my name to be there unto \[the\] eon. And my eyes and my heart will be there all the days. 
-<small><sub>**KJV:**</sub></small>
-For now have I chosen and sanctified this house, that my name may be there for ever: and mine eyes and mine heart shall be there perpetually.
-<small><sub>**BSB:**</sub></small>
-For I have now chosen and consecrated this temple so that My Name may be there forever. My eyes and My heart will be there for all time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.15|<< 2 Chronicles 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.17|2 Chronicles 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

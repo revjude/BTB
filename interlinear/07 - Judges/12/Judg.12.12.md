@@ -1,4 +1,4 @@
-**Judges 12:12** 
+**Judges 12:12**<big><big>[[Judg.12.8 Ibzan, Elon, and Abdon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elon the Zebulonite died, and was buried in Aijalon in the country of Zebulun.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Elon the Zebulunite died, and he was buried in Aijalon in the land of Zebul
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.11|<< Judges 12:11]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.13|Judges 12:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֖מָת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elon  |**<big>&#8207;[[H0356J\|אֵל֣וֹן]]&#8207; </big>**| 'e.Lon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

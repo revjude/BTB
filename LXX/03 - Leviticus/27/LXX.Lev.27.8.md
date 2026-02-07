@@ -1,10 +1,7 @@
 **LXX Leviticus 27:8** 
 <small><sub>**LXX:**</sub></small>
 And if he might be of low \[estate\] for a value, he shall be stood before the priest, and the priest shall value him, just as the hand of the one making a vow is able \[to afford\] -- thus the priest shall value him. 
-<small><sub>**KJV:**</sub></small>
-But if he be poorer than thy estimation, then he shall present himself before the priest, and the priest shall value him; according to his ability that vowed shall the priest value him.
-<small><sub>**BSB:**</sub></small>
-But if the one making the vow is too poor to pay the valuation, he is to present the person before the priest, who shall set the value according to what the one making the vow can afford.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.7|<< Leviticus 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.9|Leviticus 27:9 >>]]</td></tr></table>
 
 | Translation | Greek |

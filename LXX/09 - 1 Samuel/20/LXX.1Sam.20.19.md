@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:19** 
 <small><sub>**LXX:**</sub></small>
 And you shall do it three times, and you shall watch, and you shall come into the place where you may hide there in the day of the deed, and you shall sit down by  that stone. 
-<small><sub>**KJV:**</sub></small>
-And [when] thou hast stayed three days, [then] thou shalt go down quickly, and come to the place where thou didst hide thyself when the business was [in hand], and shalt remain by the stone Ezel.
-<small><sub>**BSB:**</sub></small>
-When you have stayed three days, hurry down to the place you hid on the day this trouble began, and remain beside the stone Ezel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.18|<< 1 Samuel 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.20|1 Samuel 20:20 >>]]</td></tr></table>
 
 | Translation | Greek |

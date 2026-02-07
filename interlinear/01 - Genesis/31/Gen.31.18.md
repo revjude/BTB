@@ -1,4 +1,4 @@
-**Genesis 31:18** 
+**Genesis 31:18**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he carried away all his cattle, and all his goods which he had gotten, the cattle of his getting, which he had gotten in Padanaram, for to go to Isaac his father in the land of Canaan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he drove all his livestock before him, along with all the possessions he had
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.17|<< Genesis 31:17]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.19|Genesis 31:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he drove  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5090A\|יִּנְהַ֣ג]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yin.Hag<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

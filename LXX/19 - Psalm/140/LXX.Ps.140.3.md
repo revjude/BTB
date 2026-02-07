@@ -1,10 +1,7 @@
 **LXX Psalm 140:3** 
 <small><sub>**LXX:**</sub></small>
 They sharpened their tongue as a serpent; \[the\] poison of asps \[is\] under  their lips. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-They have sharpened their tongues like a serpent; adders’ poison [is] under their lips. Selah.
-<small><sub>**BSB:**</sub></small>
-They sharpen their tongues like snakes; the venom of vipers is on their lips. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.140.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.2|<< Psalm 140:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.4|Psalm 140:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 140:3** is...

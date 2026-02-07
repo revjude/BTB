@@ -1,4 +1,4 @@
-**Jeremiah 30:13** 
+**Jeremiah 30:13**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] none to plead thy cause, that thou mayest be bound up: thou hast no healing medicines.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is no one to plead your cause, no remedy for your sores, no recovery for y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.12|<< Jeremiah 30:12]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.14|Jeremiah 30:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵֽין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is one who] pleads  |**<big>&#8207;[[H1777\|דָּ֥ן]]&#8207; </big>**| dan<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 22:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:13**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Came unto me, and stood, and said unto me, Brother Saul, receive thy sight. And the same hour I looked up upon him.
 <small><sub>**BSB:**</sub></small>
 came and stood beside me. ‘Brother Saul,’ he said, ‘receive your sight.’ And at that moment I could see him.
 <small><sub>**Literal:**</sub></small>
 having come to me and having stood by [me] he said to me; Saul brother, do receive sight. And I myself on the same <the> hour looked up at him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.12|<< Acts 22:12]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.14|Acts 22:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having come |**<big>[[G2064\|ἐλθὼν]]</big>**  |elthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to |**<big>[[G4314\|πρός]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

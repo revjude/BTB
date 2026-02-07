@@ -1,4 +1,4 @@
-**Jeremiah 26:10** 
+**Jeremiah 26:10**<big><big>[[Jer.26.7 Jeremiah Threatened with Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the princes of Judah heard these things, then they came up from the king’s house unto the house of the LORD, and sat down in the entry of the new gate of the LORD’S [house].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the officials of Judah heard these things, they went up from the king’s p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.9|<< Jeremiah 26:9]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.11|Jeremiah 26:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they heard  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H8085G\|יִּשְׁמְע֣וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.me.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] officials of  |**<big>&#8207;[[H8269\|שָׂרֵ֣י]]&#8207; </big>**| sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

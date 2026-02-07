@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:33** 
 <small><sub>**LXX:**</sub></small>
 and to all the ones fornicating with her wages in addition. And you have given wages to all  your lovers; and you loaded them  to come to you round about in  your harlotry. 
-<small><sub>**KJV:**</sub></small>
-They give gifts to all whores: but thou givest thy gifts to all thy lovers, and hirest them, that they may come unto thee on every side for thy whoredom.
-<small><sub>**BSB:**</sub></small>
-Men give gifts to all their prostitutes, but you gave gifts to all your lovers. You bribed them to come to you from everywhere for your illicit favors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.32|<< Ezekiel 16:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.34|Ezekiel 16:34 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Amos 5:19** 
 <small><sub>**LXX:**</sub></small>
 \[It will be\] in which manner if a man should flee from \[the\] face of a lion, and a bear should fall to him. And he should rush into  his house, and should fasten  his hands upon the wall, and a serpent should bite it. 
-<small><sub>**KJV:**</sub></small>
-As if a man did flee from a lion, and a bear met him; or went into the house, and leaned his hand on the wall, and a serpent bit him.
-<small><sub>**BSB:**</sub></small>
-It will be like a man who flees from a lion, only to encounter a bear, or who enters his house and rests his hand against the wall, only to be bitten by a snake.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.18|<< Amos 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.20|Amos 5:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 25:21** 
+**2 Chronicles 25:21**<big><big>[[2Chr.25.17 Jehoash Defeats Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joash the king of Israel went up; and they saw one another in the face, [both] he and Amaziah king of Judah, at Bethshemesh, which [belongeth] to Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jehoash king of Israel advanced, and he and Amaziah king of Judah faced each 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.20|<< 2 Chronicles 25:20]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.22|2 Chronicles 25:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֨עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joash  |**<big>&#8207;[[H3101J\|יוֹאָ֤שׁ]]&#8207; </big>**| yo.'Ash<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

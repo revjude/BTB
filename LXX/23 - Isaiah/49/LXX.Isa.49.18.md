@@ -1,10 +1,7 @@
 **LXX Isaiah 49:18** 
 <small><sub>**LXX:**</sub></small>
 Lift up round about  your eyes, and perceive all! Behold, they were brought together, and they come to you. As I live, says \[the\] <span class="smallcaps">lord</span>, that, You shall clothe yourself with them all as an ornament, and you shall put them on as an ornament of a bride. 
-<small><sub>**KJV:**</sub></small>
-Lift up thine eyes round about, and behold: all these gather themselves together, [and] come to thee. [As] I live, saith the LORD, thou shalt surely clothe thee with them all, as with an ornament, and bind them [on thee], as a bride [doeth].
-<small><sub>**BSB:**</sub></small>
-Lift up your eyes and look around. They all gather together; they come to you. As surely as I live,” declares the LORD, “you will wear them all as jewelry and put them on like a bride.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.17|<< Isaiah 49:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.19|Isaiah 49:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 49:18** is...

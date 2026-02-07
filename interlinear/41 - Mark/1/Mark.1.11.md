@@ -1,5 +1,5 @@
-**Mark 1:11
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:11**<big><big>[[Mark.1.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there came a voice from heaven, [saying], Thou art my beloved Son, in whom I am well pleased.
 <small><sub>**BSB:**</sub></small>
 And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”
@@ -10,7 +10,7 @@ And a voice came out of the heavens: You yourself are the Son of Mine the belove
 > $\quad$ alluding to: [[LXX.Gen.22.2|Gen 22:2]] ☩ [[LXX.Ps.2.7|Ps 2:7]] ☩ [[LXX.Isa.42.1|Isa 42:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a voice |**<big>[[G5456G\|φωνὴ]]</big>**  |phōnē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

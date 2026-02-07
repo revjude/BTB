@@ -1,10 +1,7 @@
 **LXX Isaiah 36:6** 
 <small><sub>**LXX:**</sub></small>
 Behold, you are relying upon  this fractured rod of reed -- upon Egypt; which if a man should stay \[his weight\] upon it, it shall enter into  his hand, and shall puncture it. Thus is Pharaoh king of Egypt, and all the ones relying upon him. 
-<small><sub>**KJV:**</sub></small>
-Lo, thou trustest in the staff of this broken reed, on Egypt; whereon if a man lean, it will go into his hand, and pierce it: so [is] Pharaoh king of Egypt to all that trust in him.
-<small><sub>**BSB:**</sub></small>
-Look now, you are trusting in Egypt, that splintered reed of a staff that will pierce the hand of anyone who leans on it. Such is Pharaoh king of Egypt to all who trust in him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.36.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.5|<< Isaiah 36:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.7|Isaiah 36:7 >>]]</td></tr></table>
 
 | Translation | Greek |

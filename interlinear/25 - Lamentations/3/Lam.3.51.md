@@ -1,4 +1,4 @@
-**Lamentations 3:51** 
+**Lamentations 3:51**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine eye affecteth mine heart because of all the daughters of my city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My eyes bring grief to my soul because of all the daughters of my city.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.50|<< Lamentations 3:50]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.52|Lamentations 3:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | eye my  |**<big>&#8207;[[H5869A\|עֵינִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| 'ei.N<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has dealt severely  |**<big>&#8207;[[H5953A\|עֽוֹלְלָ֣ה]]&#8207; </big>**| 'o.Lah<small><sup>[[HVpp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

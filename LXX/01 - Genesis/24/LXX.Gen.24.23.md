@@ -1,10 +1,7 @@
 **LXX Genesis 24:23** 
 <small><sub>**LXX:**</sub></small>
 And he asked her, and said, Whose daughter are you? Announce to me if there is by  your father a place for us  to rest up! 
-<small><sub>**KJV:**</sub></small>
-And said, Whose daughter [art] thou? tell me, I pray thee: is there room [in] thy father’s house for us to lodge in?
-<small><sub>**BSB:**</sub></small>
-“Whose daughter are you?” he asked. “Please tell me, is there room in your father’s house for us to spend the night?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.22|<< Genesis 24:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.24|Genesis 24:24 >>]]</td></tr></table>
 
 | Translation | Greek |

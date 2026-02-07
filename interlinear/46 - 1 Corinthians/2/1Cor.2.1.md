@@ -1,12 +1,12 @@
-**1 Corinthians 2:1
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 2:1**<big><big>[[1Cor.2.1 Paul’s Message by the Spirit’s Power|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God.
 <small><sub>**BSB:**</sub></small>
 When I came to you, brothers, I did not come with eloquence or wisdom as I proclaimed to you the testimony about God.
 <small><sub>**Literal:**</sub></small>
 And I myself having come to you, brothers, came not according to excellency of speech or wisdom proclaiming to you the mystery <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.31|<< 1 Corinthians 1:31]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.2|1 Corinthians 2:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And I myself |**<big>[[G1473\|Κἀγὼ]]</big>**  |Kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G2064\|ἐλθὼν]]</big>**  |elthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

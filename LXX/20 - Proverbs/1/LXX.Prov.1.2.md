@@ -1,10 +1,7 @@
 **LXX Proverbs 1:2** 
 <small><sub>**LXX:**</sub></small>
 to know wisdom and instruction; to comprehend also words of intelligence; 
-<small><sub>**KJV:**</sub></small>
-To know wisdom and instruction; to perceive the words of understanding;
-<small><sub>**BSB:**</sub></small>
-for gaining wisdom and discipline, for comprehending words of insight,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.1|<< Proverbs 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.3|Proverbs 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

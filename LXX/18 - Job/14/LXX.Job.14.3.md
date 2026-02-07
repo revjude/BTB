@@ -1,10 +1,7 @@
 **LXX Job 14:3** 
 <small><sub>**LXX:**</sub></small>
 Have you not also made an account of this one, and made this one to enter before you in judgment? 
-<small><sub>**KJV:**</sub></small>
-And dost thou open thine eyes upon such an one, and bringest me into judgment with thee?
-<small><sub>**BSB:**</sub></small>
-Do You open Your eyes to one like this? Will You bring him into judgment before You?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.2|<< Job 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.4|Job 14:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 21:21** 
 <small><sub>**LXX:**</sub></small>
 And he went in every way in which his father went, and he slaved to the idols whom his father slaved \[to\], and did obeisance to them. 
-<small><sub>**KJV:**</sub></small>
-And he walked in all the way that his father walked in, and served the idols that his father served, and worshipped them:
-<small><sub>**BSB:**</sub></small>
-He walked in all the ways of his father, and he served and worshiped the idols his father had served.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.20|<< 2 Kings 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.22|2 Kings 21:22 >>]]</td></tr></table>
 
 | Translation | Greek |

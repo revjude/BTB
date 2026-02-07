@@ -1,12 +1,12 @@
-**2 Peter 3:2
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:2**<big><big>[[2Pet.3.1 The Coming Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:
 <small><sub>**BSB:**</sub></small>
 by recalling what was foretold by the holy prophets and commanded by our Lord and Savior through your apostles.
 <small><sub>**Literal:**</sub></small>
 remembering the spoken beforehand declarations — by the holy prophets and of the <the> apostles of you  commandment of the Lord and Savior;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.1|<< 2 Peter 3:1]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.3|2 Peter 3:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remembering |**<big>[[G3403\|μνησθῆναι]]</big>**  |mnēsthēnai <small><sup>[[V-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

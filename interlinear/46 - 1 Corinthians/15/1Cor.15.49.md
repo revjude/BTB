@@ -1,5 +1,5 @@
-**1 Corinthians 15:49
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:49**<big><big>[[1Cor.15.35 The Resurrection Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as we have borne the image of the earthy, we shall also bear the image of the heavenly.
 <small><sub>**BSB:**</sub></small>
 And just as we have borne the likeness of the earthly man, so also shall we bear the likeness of the heavenly man.
@@ -10,7 +10,7 @@ And even as we have born the image of the earthly, we will bear also the image o
 > $\quad$ referencing: [[LXX.Gen.1.26|Gen 1:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

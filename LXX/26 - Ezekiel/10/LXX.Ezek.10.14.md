@@ -1,10 +1,7 @@
 **LXX Ezekiel 10:14** 
 <small><sub>**LXX:**</sub></small>
 And \[there were\] four faces to the one; the face of the one \[was the\] face of the cherub. And the the second face \[was\] a face of a man; and the third face a lion; and the fourth face an eagle. 
-<small><sub>**KJV:**</sub></small>
-And every one had four faces: the first face [was] the face of a cherub, and the second face [was] the face of a man, and the third the face of a lion, and the fourth the face of an eagle.
-<small><sub>**BSB:**</sub></small>
-Each of the cherubim had four faces: the first face was that of a cherub, the second that of a man, the third that of a lion, and the fourth that of an eagle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.13|<< Ezekiel 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.15|Ezekiel 10:15 >>]]</td></tr></table>
 
 | Translation | Greek |

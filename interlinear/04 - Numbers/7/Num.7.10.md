@@ -1,4 +1,4 @@
-**Numbers 7:10** 
+**Numbers 7:10**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the princes offered for dedicating of the altar in the day that it was anointed, even the princes offered their offering before the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the altar was anointed, the leaders approached with their offerings for its
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.9|<< Numbers 7:9]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.11|Numbers 7:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they brought near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7126H\|יַּקְרִ֣יבוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yak.Ri.vu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the leaders  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5387A\|נְּשִׂאִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.si.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

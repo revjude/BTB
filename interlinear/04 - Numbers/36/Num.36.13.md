@@ -1,4 +1,4 @@
-**Numbers 36:13** 
+**Numbers 36:13**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan [near] Jericho.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the commandments and ordinances that the LORD gave the Israelites thro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.12|<< Numbers 36:12]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.1|Deuteronomy 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] the commandments  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4687\|מִּצְוֹ֞ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mitz.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

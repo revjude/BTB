@@ -1,4 +1,4 @@
-**Ezekiel 43:2** 
+**Ezekiel 43:2**<big><big>[[Ezek.43.1 The Glory of the LORD Returns to the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, the glory of the God of Israel came from the way of the east: and his voice [was] like a noise of many waters: and the earth shined with his glory.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ and I saw the glory of the God of Israel coming from the east. His voice was lik
 > $\quad$ referenced by: [[Rev.1.14|Rev 1:14-15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] glory of  |**<big>&#8207;[[H3519\|כְּבוֹד֙]]&#8207; </big>**| ke.Vod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

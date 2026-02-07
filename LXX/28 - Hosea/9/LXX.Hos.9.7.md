@@ -1,10 +1,7 @@
 **LXX Hosea 9:7** 
 <small><sub>**LXX:**</sub></small>
 The days of vengeance have come; the days of your recompense have come; and Israel shall be afflicted as if the prophet, the one moved out of place, as a man  carried by the wind. Because of the multitude  of your iniquities your frenzy was multiplied. 
-<small><sub>**KJV:**</sub></small>
-The days of visitation are come, the days of recompence are come; Israel shall know [it]: the prophet [is] a fool, the spiritual man [is] mad, for the multitude of thine iniquity, and the great hatred.
-<small><sub>**BSB:**</sub></small>
-The days of punishment have come; the days of retribution have arrived—let Israel know it. The prophet is called a fool, and the inspired man insane, because of the greatness of your iniquity and hostility.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.6|<< Hosea 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.8|Hosea 9:8 >>]]</td></tr></table>
 
 | Translation | Greek |

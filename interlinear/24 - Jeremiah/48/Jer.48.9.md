@@ -1,4 +1,4 @@
-**Jeremiah 48:9** 
+**Jeremiah 48:9**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give wings unto Moab, that it may flee and get away: for the cities thereof shall be desolate, without any to dwell therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Put salt on Moab, for she will be laid waste; her cities will become desolate, w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.8|<< Jeremiah 48:8]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.10|Jeremiah 48:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give  |**<big>&#8207;[[H5414G\|תְּנוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.nu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | salt  |**<big>&#8207;[[H6731B\|צִ֣יץ]]&#8207; </big>**| tzitz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

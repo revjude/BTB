@@ -1,4 +1,4 @@
-**Zechariah 2:10** (2:14)
+**Zechariah 2:10**<big><big>[[Zech.2.6 The Redemption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the midst of thee, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sing and rejoice, O daughter of Zion: for, lo, I come, and I will dwell in the m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.9|<< Zechariah 2:9]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.11|Zechariah 2:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | shout for joy  |**<big>&#8207;[[H7442B\|רָנִּ֥י]]&#8207; </big>**| ra.Ni<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and rejoice  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8055\|שִׂמְחִ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sim.Chi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Amos 6:6** 
+**Amos 6:6**<big><big>[[Amos.6.1 Woe to Those at Ease in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That drink wine in bowls, and anoint themselves with the chief ointments: but they are not grieved for the affliction of Joseph.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You drink wine by the bowlful and anoint yourselves with the finest oils, but yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.5|<< Amos 6:5]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.7|Amos 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | those [who] drink  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8354\|שֹּׁתִ֤ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sho.Tim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in bowls of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4219\|מִזְרְקֵי֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> miz.re.Kei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

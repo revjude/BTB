@@ -1,10 +1,7 @@
 **LXX Isaiah 48:5** 
 <small><sub>**LXX:**</sub></small>
 And I announced to you earlier what \[would happen\] before it came upon you. Audibly to you I did \[it\], lest at some time or other you should say that,  My idols did. And you should say that, The carvings and the molten \[images\] gave charge to me! 
-<small><sub>**KJV:**</sub></small>
-I have even from the beginning declared [it] to thee; before it came to pass I shewed [it] thee: lest thou shouldest say, Mine idol hath done them, and my graven image, and my molten image, hath commanded them.
-<small><sub>**BSB:**</sub></small>
-Therefore I declared it to you long ago; I announced it before it came to pass, so that you could not claim, ‘My idol has done this; my carved image and molten god has ordained it.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.4|<< Isaiah 48:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.6|Isaiah 48:6 >>]]</td></tr></table>
 
 | Translation | Greek |

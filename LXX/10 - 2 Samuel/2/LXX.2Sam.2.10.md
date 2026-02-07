@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Ishbosheth son of Saul was forty years \[old\] when he reigned over Israel; and he reigned two years; except for the house of Judah, the ones which were \[following\] after David. 
-<small><sub>**KJV:**</sub></small>
-Ishbosheth Saul’s son [was] forty years old when he began to reign over Israel, and reigned two years. But the house of Judah followed David.
-<small><sub>**BSB:**</sub></small>
-Saul’s son Ish-bosheth was forty years old when he began to reign over Israel, and he reigned for two years. The house of Judah, however, followed David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.9|<< 2 Samuel 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.11|2 Samuel 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

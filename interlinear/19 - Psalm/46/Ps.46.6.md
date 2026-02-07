@@ -1,4 +1,4 @@
-**Psalms 46:6** (46:7)
+**Psalms 46:6**<big><big>[[Ps.46.1 God Is Our Refuge and Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Nations rage, kingdoms crumble; the earth melts when He lifts His voice.
 > $\quad$ referenced by: [[Rev.11.18|Rev 11:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they were in a tumult  |**<big>&#8207;[[H1993\|הָמ֣וּ]]&#8207; </big>**| ha.Mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nations  |**<big>&#8207;[[H1471A\|ג֭וֹיִם]]&#8207; </big>**| Go.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Kings 10:15** 
+**2 Kings 10:15**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he was departed thence, he lighted on Jehonadab the son of Rechab [coming] to meet him: and he saluted him, and said to him, Is thine heart right, as my heart [is] with thy heart? And Jehonadab answered, It is. If it be, give [me] thine hand. And he gave [him] his hand; and he took him up to him into the chariot.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When he left there, he found Jehonadab son of Rechab, who was coming to meet him
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.14|<< 2 Kings 10:14]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.16|2 Kings 10:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֣לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁ֡ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 9:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:16**<big><big>[[Matt.9.16 The Patches and the Wineskins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 No man putteth a piece of new cloth unto an old garment, for that which is put in to fill it up taketh from the garment, and the rent is made worse.
 <small><sub>**BSB:**</sub></small>
 No one sews a patch of unshrunk cloth on an old garment. For the patch will pull away from the garment, and a worse tear will result.
 <small><sub>**Literal:**</sub></small>
 No [one] however puts a patch of cloth unshrunk on clothing old; tears away for the patch of it from the garment, and a worse tear emerges.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.15|<< Matthew 9:15]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.17|Matthew 9:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No [one] |**<big>[[G3762\|οὐδεὶς]]</big>**  |oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

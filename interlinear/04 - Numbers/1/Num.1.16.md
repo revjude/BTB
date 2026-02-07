@@ -1,4 +1,4 @@
-**Numbers 1:16** 
+**Numbers 1:16**<big><big>[[Num.1.5 The Leaders of the Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [were] the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These men were appointed from the congregation; they were the leaders of the tri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.15|<< Numbers 1:15]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.17|Numbers 1:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֚לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were those] called  [^1]|**<big>&#8207;[[H7121G\|קְרוּאֵ֣י]]&#8207; </big>**[^2] | ke.ri.'ei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:15** 
 <small><sub>**LXX:**</sub></small>
 And came to pass a change of state in the camp, and in \[the\] field. And all the people, the one in the support \[camp\], and the ones being utterly destroyed, even they were startled. And the land was distraught, and there took place a change of state because of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And there was trembling in the host, in the field, and among all the people: the garrison, and the spoilers, they also trembled, and the earth quaked: so it was a very great trembling.
-<small><sub>**BSB:**</sub></small>
-Then panic struck the Philistines in the camp, in the field, and among all the people. Even those in the outposts and raiding parties trembled. Indeed, the earth quaked, and panic spread from God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.14|<< 1 Samuel 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.16|1 Samuel 14:16 >>]]</td></tr></table>
 
 | Translation | Greek |

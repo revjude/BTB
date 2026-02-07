@@ -1,12 +1,12 @@
-**Matthew 7:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:10**<big><big>[[Matt.7.7 Ask, Seek, Knock|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Or if he ask a fish, will he give him a serpent?
 <small><sub>**BSB:**</sub></small>
 Or if he asks for a fish, will give him a snake?
 <small><sub>**Literal:**</sub></small>
 Or also if a fish he will ask for, surely not a serpent will he give to him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.9|<< Matthew 7:9]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.11|Matthew 7:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+KJV">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

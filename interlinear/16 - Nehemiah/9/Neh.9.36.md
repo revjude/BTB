@@ -1,4 +1,4 @@
-**Nehemiah 9:36** 
+**Nehemiah 9:36**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, we [are] servants this day, and [for] the land that thou gavest unto our fathers to eat the fruit thereof and the good thereof, behold, we [are] servants in it:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So here we are today as slaves in the land You gave our fathers to enjoy its fru
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.35|<< Nehemiah 9:35]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.37|Nehemiah 9:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֛ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we  |**<big>&#8207;[[H0587\|אֲנַ֥חְנוּ]]&#8207; </big>**| 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

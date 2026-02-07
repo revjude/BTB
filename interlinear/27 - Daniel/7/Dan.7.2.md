@@ -1,4 +1,4 @@
-**Daniel 7:2** 
+**Daniel 7:2**<big><big>[[Dan.7.1 Daniel’s Vision of the Four Beasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Daniel spake and said, I saw in my vision by night, and, behold, the four winds of the heaven strove upon the great sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Daniel declared: “In my vision in the night I looked, and suddenly the four wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.1|<< Daniel 7:1]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.3|Daniel 7:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] replying  |**<big>&#8207;[[H6032\|עָנֵ֤ה]]&#8207; </big>**| 'a.Neh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Daniel  |**<big>&#8207;[[H1841H\|דָנִיֵּאל֙]]&#8207; </big>**| da.ni.yeL<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

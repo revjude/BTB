@@ -1,10 +1,7 @@
 **LXX Exodus 23:16** 
 <small><sub>**LXX:**</sub></small>
 And a holiday of the harvest of the first produce you shall observe  of your works, what ever you sow in  your field; and a holiday of completion at \[the\] conclusion of the year in the gathering  of your works, of the ones from out of  your field. 
-<small><sub>**KJV:**</sub></small>
-And the feast of harvest, the firstfruits of thy labours, which thou hast sown in the field: and the feast of ingathering, [which is] in the end of the year, when thou hast gathered in thy labours out of the field.
-<small><sub>**BSB:**</sub></small>
-You are also to keep the Feast of Harvest with the firstfruits of the produce from what you sow in the field. And keep the Feast of Ingathering at the end of the year, when you gather your produce from the field.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.15|<< Exodus 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.17|Exodus 23:17 >>]]</td></tr></table>
 
 | Translation | Greek |

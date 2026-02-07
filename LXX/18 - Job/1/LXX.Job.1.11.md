@@ -1,10 +1,7 @@
 **LXX Job 1:11** 
 <small><sub>**LXX:**</sub></small>
 But send  your hand, and touch all which he has, \[and\] assuredly he will rave in your face against you. 
-<small><sub>**KJV:**</sub></small>
-But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.
-<small><sub>**BSB:**</sub></small>
-But stretch out Your hand and strike all that he has, and he will surely curse You to Your face.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.10|<< Job 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.12|Job 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

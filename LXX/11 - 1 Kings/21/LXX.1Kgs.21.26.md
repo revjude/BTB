@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:26** 
 <small><sub>**LXX:**</sub></small>
 And exceedingly abhorrent  to go after the abominations, according to all as many things which the Amorite made, whom \[the\] <span class="smallcaps">lord</span> utterly destroyed from \[the\] face of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And he did very abominably in following idols, according to all [things] as did the Amorites, whom the LORD cast out before the children of Israel.
-<small><sub>**BSB:**</sub></small>
-He committed the most detestable acts by going after idols, just like the Amorites whom the LORD had driven out before the Israelites.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.25|<< 1 Kings 21:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.27|1 Kings 21:27 >>]]</td></tr></table>
 
 | Translation | Greek |

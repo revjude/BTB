@@ -1,12 +1,12 @@
-**Matthew 13:28
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:28**<big><big>[[Matt.13.24 The Parable of the Weeds|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He said unto them, An enemy hath done this. The servants said unto him, Wilt thou then that we go and gather them up?
 <small><sub>**BSB:**</sub></small>
 ‘An enemy did this,’ he replied. So the servants asked him, ‘Do you want us to go and pull them up?’
 <small><sub>**Literal:**</sub></small>
 He then was saying to them; An enemy a man this did. <the> And the servants they say to him: Do you desire then [that] having gone forth we shall gather them?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.27|<< Matthew 13:27]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.29|Matthew 13:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

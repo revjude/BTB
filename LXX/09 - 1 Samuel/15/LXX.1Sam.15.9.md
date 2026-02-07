@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:9** 
 <small><sub>**LXX:**</sub></small>
 And Saul and the people preserved  Agag, and the good ones of the flocks, and of the herds, and of the foods, and of the vineyards, and all the good \[things\]; and they did not want to utterly destroy them. And every work being a disgrace, and being treated with contempt they utterly destroyed. 
-<small><sub>**KJV:**</sub></small>
-But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings, and the lambs, and all [that was] good, and would not utterly destroy them: but every thing [that was] vile and refuse, that they destroyed utterly.
-<small><sub>**BSB:**</sub></small>
-Saul and his troops spared Agag, along with the best of the sheep and cattle, the fat calves and lambs, and the best of everything else. They were unwilling to devote them to destruction, but they devoted to destruction all that was despised and worthless.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.8|<< 1 Samuel 15:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.10|1 Samuel 15:10 >>]]</td></tr></table>
 
 | Translation | Greek |

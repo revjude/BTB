@@ -1,12 +1,12 @@
-**Psalms 140:1** (140:2)
+**Psalms 140:1**<big><big>[[Ps.140.1 Rescue Me from Evil Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm of David. Deliver me, O LORD, from the evil man: preserve me from the violent man;
+Deliver me, O LORD, from the evil man: preserve me from the violent man;
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David. Rescue me, O LORD, from evil men. Protect me from men of violence,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.0|<< Psalms 140:0]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.2|Psalms 140:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | rescue me  |**<big>&#8207;[[H2502A\|חַלְּצֵ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| cha.le.Tze.<small><sup>[[HVpv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

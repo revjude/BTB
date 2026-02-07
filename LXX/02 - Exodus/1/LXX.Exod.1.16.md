@@ -1,10 +1,7 @@
 **LXX Exodus 1:16** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, Whenever you act as midwife to the Hebrews, and they should be about  to bear, if then it should be a male, you kill it! But if a female, preserve it! 
-<small><sub>**KJV:**</sub></small>
-And he said, When ye do the office of a midwife to the Hebrew women, and see [them] upon the stools; if it [be] a son, then ye shall kill him: but if it [be] a daughter, then she shall live.
-<small><sub>**BSB:**</sub></small>
-“When you help the Hebrew women give birth, observe them on the birthstools. If the child is a son, kill him; but if it is a daughter, let her live.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.15|<< Exodus 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.17|Exodus 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

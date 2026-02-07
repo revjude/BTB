@@ -1,4 +1,4 @@
-**Jeremiah 8:14** 
+**Jeremiah 8:14**<big><big>[[Jer.8.14 The People Respond|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why do we sit still? assemble yourselves, and let us enter into the defenced cities, and let us be silent there: for the LORD our God hath put us to silence, and given us water of gall to drink, because we have sinned against the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why are we just sitting here? Gather together, let us flee to the fortified citi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.13|<< Jeremiah 8:13]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.15|Jeremiah 8:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | concerning  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | what?  |**<big>&#8207;[[H4100\|מָה֙]]&#8207; </big>**| mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

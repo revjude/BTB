@@ -1,10 +1,7 @@
 **LXX Isaiah 65:21** 
 <small><sub>**LXX:**</sub></small>
 And they shall build residences, and they shall dwell in \[them\]. And they shall plant vineyards, and they shall eat  their produce, and shall drink the wine. 
-<small><sub>**KJV:**</sub></small>
-And they shall build houses, and inhabit [them]; and they shall plant vineyards, and eat the fruit of them.
-<small><sub>**BSB:**</sub></small>
-They will build houses and dwell in them; they will plant vineyards and eat their fruit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.20|<< Isaiah 65:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.22|Isaiah 65:22 >>]]</td></tr></table>
 
 | Translation | Greek |

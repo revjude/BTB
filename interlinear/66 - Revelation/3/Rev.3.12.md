@@ -1,12 +1,12 @@
-**Revelation 3:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:12**<big><big>[[Rev.3.7 To the Church in Philadelphia|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out: and I will write upon him the name of my God, and the name of the city of my God, [which is] new Jerusalem, which cometh down out of heaven from my God: and [I will write upon him] my new name.
 <small><sub>**BSB:**</sub></small>
 The one who overcomes I will make a pillar in the temple of My God, and he will never again leave it. Upon him I will write the name of My God, and the name of the city of My God (the new Jerusalem that comes down out of heaven from My God), and My new name.
 <small><sub>**Literal:**</sub></small>
 The [one] overcoming, I will make him a pillar in the temple of the God of Mine, and out certainly not shall he go anymore, And I will write upon him the name of the God of Mine and the name of the city of the God of Mine, the new Jerusalem, which is descending out of <the> heaven from the God of Mine, and the name of Me <the> new.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.11|<< Revelation 3:11]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.13|Revelation 3:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | overcoming, |**<big>[[G3528\|νικῶν,]]</big>**  |nikōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

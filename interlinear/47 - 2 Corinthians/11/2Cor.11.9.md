@@ -1,12 +1,12 @@
-**2 Corinthians 11:9
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:9**<big><big>[[2Cor.11.1 Paul and the False Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when I was present with you, and wanted, I was chargeable to no man: for that which was lacking to me the brethren which came from Macedonia supplied: and in all [things] I have kept myself from being burdensome unto you, and [so] will I keep [myself].
 <small><sub>**BSB:**</sub></small>
 And when I was with you and in need, I was not a burden to anyone; for the brothers who came from Macedonia supplied my needs. I have refrained from being a burden to you in any way, and I will continue to do so.
 <small><sub>**Literal:**</sub></small>
 And being present with you and having been in need not I did burden no [one]; <the> for the need of mine completely filled up the brothers having come from Macedonia, and in everything unburdensome myself to you I kept and will keep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.8|<< 2 Corinthians 11:8]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.10|2 Corinthians 11:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | being present |**<big>[[G3918\|παρὼν]]</big>**  |parōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:16** 
 <small><sub>**LXX:**</sub></small>
 Remind nations! Behold, announce in Jerusalem! Confederacies are come from out of a land far off, and they uttered their voices against the cities of Judah. 
-<small><sub>**KJV:**</sub></small>
-Make ye mention to the nations; behold, publish against Jerusalem, [that] watchers come from a far country, and give out their voice against the cities of Judah.
-<small><sub>**BSB:**</sub></small>
-Warn the nations now! Proclaim to Jerusalem: “A besieging army comes from a distant land; they raise their voices against the cities of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.15|<< Jeremiah 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.17|Jeremiah 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

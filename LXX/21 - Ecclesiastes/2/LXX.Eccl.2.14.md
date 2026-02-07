@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:14** 
 <small><sub>**LXX:**</sub></small>
 The wise man --  his eyes \[are\] in his head; but the fool goes in darkness. And I knew, even indeed I, that one event shall meet with  all them. 
-<small><sub>**KJV:**</sub></small>
-The wise man’s eyes [are] in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all.
-<small><sub>**BSB:**</sub></small>
-The wise man has eyes in his head, but the fool walks in darkness. Yet I also came to realize that one fate overcomes them both.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.13|<< Ecclesiastes 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.15|Ecclesiastes 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

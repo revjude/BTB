@@ -1,10 +1,7 @@
 **LXX Judges 20:5** 
 <small><sub>**LXX:**</sub></small>
 And the men rose up against me, the ones  of Gibeah, and they encircled upon me, upon the house at night; and they wanted to kill me, and  they humbled my concubine, and sported with her, and she died. 
-<small><sub>**KJV:**</sub></small>
-And the men of Gibeah rose against me, and beset the house round about upon me by night, [and] thought to have slain me: and my concubine have they forced, that she is dead.
-<small><sub>**BSB:**</sub></small>
-And during the night, the men of Gibeah rose up against me and surrounded the house. They intended to kill me, but they abused my concubine, and she died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.4|<< Judges 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.6|Judges 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

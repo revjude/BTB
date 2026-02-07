@@ -1,4 +1,4 @@
-**Leviticus 16:32** 
+**Leviticus 16:32**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest, whom he shall anoint, and whom he shall consecrate to minister in the priest’s office in his father’s stead, shall make the atonement, and shall put on the linen clothes, [even] the holy garments:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priest who is anointed and ordained to succeed his father as high priest sha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.31|<< Leviticus 16:31]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.33|Leviticus 16:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make atonement  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3722A\|כִפֶּ֨ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khi.Per<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֜ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

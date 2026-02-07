@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:6** 
 <small><sub>**LXX:**</sub></small>
 On account of this a lion smote them from out of the forest; and \[the\] wolf annihilated them unto \[their\] houses; and a leopard acted vigilant over  their cities. All the ones going forth from them shall be hunted; for they multiplied their impiety, they strengthened in  their rejection. 
-<small><sub>**KJV:**</sub></small>
-Wherefore a lion out of the forest shall slay them, [and] a wolf of the evenings shall spoil them, a leopard shall watch over their cities: every one that goeth out thence shall be torn in pieces: because their transgressions are many, [and] their backslidings are increased.
-<small><sub>**BSB:**</sub></small>
-Therefore a lion from the forest will strike them down, a wolf from the desert will ravage them. A leopard will lie in wait near their cities, and everyone who ventures out will be torn to pieces. For their rebellious acts are many, and their unfaithful deeds are numerous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.5|<< Jeremiah 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.7|Jeremiah 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

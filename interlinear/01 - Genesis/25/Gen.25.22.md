@@ -1,4 +1,4 @@
-**Genesis 25:22** 
+**Genesis 25:22**<big><big>[[Gen.25.19 Jacob and Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children struggled together within her; and she said, If [it be] so, why [am] I thus? And she went to inquire of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the children inside her struggled with each other, and she said, “Why is t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.21|<< Genesis 25:21]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.23|Genesis 25:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they struggled together  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7533\|יִּתְרֹֽצֲצ֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.ro.tza.Tzu<small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the children  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1121A\|בָּנִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

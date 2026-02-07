@@ -1,10 +1,7 @@
 **LXX Isaiah 14:29** 
 <small><sub>**LXX:**</sub></small>
 Be not glad  all Philistines, for he broke the yoke of the one hitting you. For from out of \[the\] seed of \[the\] serpent shall come forth a progeny of asps, and  their progeny shall come forth as flying serpents. 
-<small><sub>**KJV:**</sub></small>
-Rejoice not thou, whole Palestina, because the rod of him that smote thee is broken: for out of the serpent’s root shall come forth a cockatrice, and his fruit [shall be] a fiery flying serpent.
-<small><sub>**BSB:**</sub></small>
-Do not rejoice, all you Philistines, that the rod that struck you is broken. For a viper will spring from the root of the snake, and a flying serpent from its egg.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.14.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.28|<< Isaiah 14:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.30|Isaiah 14:30 >>]]</td></tr></table>
 
 | Translation | Greek |

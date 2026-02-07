@@ -1,4 +1,4 @@
-**Genesis 46:15** 
+**Genesis 46:15**<big><big>[[Gen.46.8 The Children of Leah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [be] the sons of Leah, which she bare unto Jacob in Padanaram, with his daughter Dinah: all the souls of his sons and his daughters [were] thirty and three.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the sons of Leah born to Jacob in Paddan-aram, in addition to his daug
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.14|<< Genesis 46:14]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.16|Genesis 46:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

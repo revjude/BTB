@@ -1,4 +1,4 @@
-**Jeremiah 49:17** 
+**Jeremiah 49:17**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also Edom shall be a desolation: every one that goeth by it shall be astonished, and shall hiss at all the plagues thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Also Edom shall be a desolation: every one that goeth by it shall be astonished,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.16|<< Jeremiah 49:16]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.18|Jeremiah 49:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיְתָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Edom  |**<big>&#8207;[[H0123G\|אֱד֖וֹם]]&#8207; </big>**| 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 17:30
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:30**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the times of this ignorance God winked at; but now commandeth all men every where to repent:
 <small><sub>**BSB:**</sub></small>
 Although God overlooked the ignorance of earlier times, He now commands all people everywhere to repent.
 <small><sub>**Literal:**</sub></small>
 The indeed therefore times <the> of ignorance having overlooked <the> God <the> now He commands <the> to men all everywhere to repent;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.29|<< Acts 17:29]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.31|Acts 17:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

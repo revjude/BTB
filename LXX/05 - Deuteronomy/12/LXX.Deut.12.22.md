@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:22** 
 <small><sub>**LXX:**</sub></small>
 As the doe and the stag are eaten, so shall you eat it; the unclean among you, and the clean shall eat it likewise. 
-<small><sub>**KJV:**</sub></small>
-Even as the roebuck and the hart is eaten, so thou shalt eat them: the unclean and the clean shall eat [of] them alike.
-<small><sub>**BSB:**</sub></small>
-Indeed, you may eat it as you would eat a gazelle or deer; both the ceremonially unclean and the clean may eat it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.21|<< Deuteronomy 12:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.23|Deuteronomy 12:23 >>]]</td></tr></table>
 
 | Translation | Greek |

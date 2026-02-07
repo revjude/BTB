@@ -1,4 +1,4 @@
-**Ezekiel 7:8** 
+**Ezekiel 7:8**<big><big>[[Ezek.7.1 The Hour of Doom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now will I shortly pour out my fury upon thee, and accomplish mine anger upon thee: and I will judge thee according to thy ways, and will recompense thee for all thine abominations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Very soon I will pour out My wrath upon you and vent My anger against you; I wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.7|<< Ezekiel 7:7]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.9|Ezekiel 7:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H6258\|עַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from near [future]  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7138\|קָּר֗וֹב]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ka.Rov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

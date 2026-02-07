@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:32** 
 <small><sub>**LXX:**</sub></small>
 And their camels will be for plunder, and \[the\] multitude of their cattle \[will be\] for destruction. And I shall winnow them with every wind, being shaven in front of them; from every side of them I will bring  their enemy routing them, said \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And their camels shall be a booty, and the multitude of their cattle a spoil: and I will scatter into all winds them [that are] in the utmost corners; and I will bring their calamity from all sides thereof, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Their camels will become plunder, and their large herds will be spoil. I will scatter to the wind in every direction those who shave their temples; I will bring calamity on them from all sides,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.31|<< Jeremiah 49:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.33|Jeremiah 49:33 >>]]</td></tr></table>
 
 | Translation | Greek |

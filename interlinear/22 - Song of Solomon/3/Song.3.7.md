@@ -1,4 +1,4 @@
-**Song of Solomon 3:7** 
+**Song of Solomon 3:7**<big><big>[[Song.3.6 Solomon Arrives on His Wedding Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold his bed, which [is] Solomon’s; threescore valiant men [are] about it, of the valiant of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, it is Solomon’s carriage, escorted by sixty of the mightiest men of Is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.6|<< Song of Solomon 3:6]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.8|Song of Solomon 3:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֗ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bed his  |**<big>&#8207;[[H4296\|מִטָּת]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| mi.ta.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

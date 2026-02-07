@@ -1,4 +1,4 @@
-**Psalms 146:9** 
+**Psalms 146:9**<big><big>[[Ps.146.1 Praise the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD protects foreigners; He sustains the fatherless and the widow, but the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.146.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.146.8|<< Psalms 146:8]]</td><td align="center" style="border:none;">[[Ps.146|Psalms 146]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.146.10|Psalms 146:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] watching over  |**<big>&#8207;[[H8104H\|שֹׁ֘מֵ֤ר]]&#8207; </big>**| sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

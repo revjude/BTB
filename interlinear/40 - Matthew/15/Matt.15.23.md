@@ -1,12 +1,12 @@
-**Matthew 15:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:23**<big><big>[[Matt.15.21 The Faith of the Canaanite Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.
 <small><sub>**BSB:**</sub></small>
 But Jesus did not answer a word. So His disciples came and urged Him, “Send her away, for she keeps crying out after us.”
 <small><sub>**Literal:**</sub></small>
 <the> And not He answered to her a word. And having come to [him] the disciples of Him were imploring Him saying; do dismiss her, for she cries out after us!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.22|<< Matthew 15:22]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.24|Matthew 15:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

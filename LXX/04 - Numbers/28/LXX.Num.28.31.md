@@ -1,10 +1,7 @@
 **LXX Numbers 28:31** 
 <small><sub>**LXX:**</sub></small>
 besides the continual whole burnt-offering. And  their sacrifice \[offering\] you shall offer to me; they shall be unblemished to you, and  their libations. 
-<small><sub>**KJV:**</sub></small>
-Ye shall offer [them] beside the continual burnt offering, and his meat offering, (they shall be unto you without blemish) and their drink offerings.
-<small><sub>**BSB:**</sub></small>
-Offer them with their drink offerings in addition to the regular burnt offering and its grain offering. The animals must be unblemished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.30|<< Numbers 28:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.1|Numbers 29:1 >>]]</td></tr></table>
 
 | Translation | Greek |

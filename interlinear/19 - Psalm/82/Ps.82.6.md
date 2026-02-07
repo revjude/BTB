@@ -1,4 +1,4 @@
-**Psalms 82:6** 
+**Psalms 82:6**<big><big>[[Ps.82.1 God Presides in the Divine Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have said, Ye [are] gods; and all of you [are] children of the most High.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I have said, ‘You are gods; you are all sons of the Most High.’
 > $\quad$ referenced by: [[John.9.31|John 9:31]] ☩ [[John.10.34|John 10:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲֽנִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ani-<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I said  |**<big>&#8207;[[H0559\|אָ֭מַרְתִּי]]&#8207; </big>**| 'A.mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

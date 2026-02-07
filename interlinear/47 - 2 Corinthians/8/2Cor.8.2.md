@@ -1,12 +1,12 @@
-**2 Corinthians 8:2
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:2**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 How that in a great trial of affliction the abundance of their joy and their deep poverty abounded unto the riches of their liberality.
 <small><sub>**BSB:**</sub></small>
 In the terrible ordeal they suffered, their abundant joy and deep poverty overflowed into rich generosity.
 <small><sub>**Literal:**</sub></small>
 that in much proof of tribulation the excess of the joy of them and <the> of deep poverty of them abounded into the riches of the generosity of them,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.1|<< 2 Corinthians 8:1]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.3|2 Corinthians 8:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

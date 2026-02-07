@@ -1,12 +1,12 @@
-**Colossians 4:16
-**<small><sub>**KJV:**</sub></small>
+**Colossians 4:16**<big><big>[[Col.4.15 Signature and Final Instructions|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that ye likewise read the [epistle] from Laodicea.
 <small><sub>**BSB:**</sub></small>
 After this letter has been read among you, make sure that it is also read in the church of the Laodiceans, and that you in turn read the letter from Laodicea.
 <small><sub>**Literal:**</sub></small>
 And when may be read among you the letter, do cause that also in the of [the] Laodiceans church it may be read, and the [one] from Laodicea that also you yourselves may read.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.15|<< Colossians 4:15]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.17|Colossians 4:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

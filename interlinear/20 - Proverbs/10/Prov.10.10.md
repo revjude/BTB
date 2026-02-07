@@ -1,4 +1,4 @@
-**Proverbs 10:10** 
+**Proverbs 10:10**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that winketh with the eye causeth sorrow: but a prating fool shall fall.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who winks the eye causes grief, and foolish lips will come to ruin.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.9|<< Proverbs 10:9]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.11|Proverbs 10:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] winks  |**<big>&#8207;[[H7169\|קֹ֣רֵֽץ]]&#8207; </big>**| Ko.retz<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an eye  |**<big>&#8207;[[H5869A\|עַ֭יִן]]&#8207; </big>**| 'A.yin<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 50:12** 
+**Genesis 50:12**<big><big>[[Gen.50.1 Mourning and Burial for Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his sons did unto him according as he commanded them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jacob’s sons did as he had charged them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.11|<< Genesis 50:11]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.13|Genesis 50:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּעֲשׂ֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sons his  |**<big>&#8207;[[H1121A\|בָנָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| va.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

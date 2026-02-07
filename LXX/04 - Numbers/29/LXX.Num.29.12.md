@@ -1,10 +1,7 @@
 **LXX Numbers 29:12** 
 <small><sub>**LXX:**</sub></small>
 And the fifteenth day  of this seventh month will be a holy summoning to you; all servile work you shall not do; and you shall solemnize it as a holiday \[to the\] <span class="smallcaps">lord</span> for seven days. 
-<small><sub>**KJV:**</sub></small>
-And on the fifteenth day of the seventh month ye shall have an holy convocation; ye shall do no servile work, and ye shall keep a feast unto the LORD seven days:
-<small><sub>**BSB:**</sub></small>
-On the fifteenth day of the seventh month, you are to hold a sacred assembly; you must not do any regular work, and you shall observe a feast to the LORD for seven days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.11|<< Numbers 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.13|Numbers 29:13 >>]]</td></tr></table>
 
 | Translation | Greek |

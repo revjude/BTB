@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 28:16** 
 <small><sub>**LXX:**</sub></small>
 In like manner \[he gave\] the weight for the tables of the place setting, each \[one\] a table of gold; and likewise the \[tables\] made of silver, 
-<small><sub>**KJV:**</sub></small>
-And by weight [he gave] gold for the tables of shewbread, for every table; and [likewise] silver for the tables of silver:
-<small><sub>**BSB:**</sub></small>
-the weight of gold for each table of showbread, and of silver for the silver tables;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.15|<< 1 Chronicles 28:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.17|1 Chronicles 28:17 >>]]</td></tr></table>
 
 | Translation | Greek |

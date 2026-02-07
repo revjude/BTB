@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:28** 
 <small><sub>**LXX:**</sub></small>
 And Israel shall encamp alone complying; fountain of Jacob, with grain and wine; and the heaven covered with clouds in dew on him. 
-<small><sub>**KJV:**</sub></small>
-Israel then shall dwell in safety alone: the fountain of Jacob [shall be] upon a land of corn and wine; also his heavens shall drop down dew.
-<small><sub>**BSB:**</sub></small>
-So Israel dwells securely; the fountain of Jacob lives untroubled in a land of grain and new wine, where even the heavens drip with dew.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.27|<< Deuteronomy 33:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.29|Deuteronomy 33:29 >>]]</td></tr></table>
 
 | Translation | Greek |

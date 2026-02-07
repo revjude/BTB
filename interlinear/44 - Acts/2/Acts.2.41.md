@@ -1,12 +1,12 @@
-**Acts 2:41
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:41**<big><big>[[Acts.2.37 Three Thousand Believe|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then they that gladly received his word were baptized: and the same day there were added [unto them] about three thousand souls.
 <small><sub>**BSB:**</sub></small>
 Those who embraced his message were baptized, and about three thousand were added to the believers that day.
 <small><sub>**Literal:**</sub></small>
 Those indeed therefore gladly having received the word of him were baptized and were added on the day that souls about three thousand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.40|<< Acts 2:40]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.42|Acts 2:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

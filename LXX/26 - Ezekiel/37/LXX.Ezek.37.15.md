@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] word \[of the\] <span class="smallcaps">lord</span> came to me, saying, 
-<small><sub>**KJV:**</sub></small>
-The word of the LORD came again unto me, saying,
-<small><sub>**BSB:**</sub></small>
-Again the word of the LORD came to me, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.14|<< Ezekiel 37:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.16|Ezekiel 37:16 >>]]</td></tr></table>
 
 | Translation | Greek |

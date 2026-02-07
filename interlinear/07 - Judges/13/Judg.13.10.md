@@ -1,4 +1,4 @@
-**Judges 13:10** 
+**Judges 13:10**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the woman made haste, and ran, and shewed her husband, and said unto him, Behold, the man hath appeared unto me, that came unto me the [other] day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The woman ran quickly to tell her husband, “Behold, the man who came to me the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.9|<< Judges 13:9]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.11|Judges 13:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she made haste  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4116A\|תְּמַהֵר֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.ma.Her<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the woman  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0802G\|אִשָּׁ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

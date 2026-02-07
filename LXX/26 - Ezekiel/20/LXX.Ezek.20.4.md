@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:4** 
 <small><sub>**LXX:**</sub></small>
 Shall I punish them with punishment, O son of man? Testify to them of the lawless deeds of their fathers! 
-<small><sub>**KJV:**</sub></small>
-Wilt thou judge them, son of man, wilt thou judge [them]? cause them to know the abominations of their fathers:
-<small><sub>**BSB:**</sub></small>
-Will you judge them, will you judge them, son of man? Confront them with the abominations of their fathers<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.3|<< Ezekiel 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.5|Ezekiel 20:5 >>]]</td></tr></table>
 
 | Translation | Greek |

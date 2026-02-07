@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 1:8** 
 <small><sub>**LXX:**</sub></small>
 And Solomon said to  God, You performed with David  my father a great act of kindness, and gave me reign instead of him. 
-<small><sub>**KJV:**</sub></small>
-And Solomon said unto God, Thou hast shewed great mercy unto David my father, and hast made me to reign in his stead.
-<small><sub>**BSB:**</sub></small>
-Solomon replied to God: “You have shown much loving devotion to my father David, and You have made me king in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.7|<< 2 Chronicles 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.9|2 Chronicles 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Corinthians 9:15
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:15**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I have used none of these things: neither have I written these things, that it should be so done unto me: for [it were] better for me to die, than that any man should make my glorying void.
 <small><sub>**BSB:**</sub></small>
 But I have not used any of these rights. And I am not writing this to suggest that something be done for me. Indeed, I would rather die than let anyone nullify my boast.
 <small><sub>**Literal:**</sub></small>
 I myself however not have used not any of these; Neither have I written now these things that thus it may become with me myself; good for me rather to die than the boasting of mine so that no [one] will make void.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.14|<< 1 Corinthians 9:14]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.16|1 Corinthians 9:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

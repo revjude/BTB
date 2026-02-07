@@ -1,10 +1,7 @@
 **LXX Daniel 12:8** 
 <small><sub>**LXX:**</sub></small>
 And I heard, and I perceived not. And I said, O lord, what  of these last \[things\]? 
-<small><sub>**KJV:**</sub></small>
-And I heard, but I understood not: then said I, O my Lord, what [shall be] the end of these [things]?
-<small><sub>**BSB:**</sub></small>
-I heard, but I did not understand. So I asked, “My lord, what will be the outcome of these things?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.12.7|<< Daniel 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.9|Daniel 12:9 >>]]</td></tr></table>
 
 | Translation | Greek |

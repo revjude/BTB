@@ -1,10 +1,7 @@
 **LXX Exodus 34:30** 
 <small><sub>**LXX:**</sub></small>
 And Aaron and all the sons of Israel saw  Moses; and he was being glorified in the appearance of the complexion  of his face. And they feared to approach him. 
-<small><sub>**KJV:**</sub></small>
-And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him.
-<small><sub>**BSB:**</sub></small>
-Aaron and all the Israelites looked at Moses, and behold, his face was radiant. And they were afraid to approach him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.29|<< Exodus 34:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.31|Exodus 34:31 >>]]</td></tr></table>
 
 | Translation | Greek |

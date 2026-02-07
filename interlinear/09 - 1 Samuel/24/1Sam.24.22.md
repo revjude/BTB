@@ -1,4 +1,4 @@
-**1 Samuel 24:22** (24:23)
+**1 Samuel 24:22**<big><big>[[1Sam.24.16 David’s Oath to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David sware unto Saul. And Saul went home; but David and his men gat them up unto the hold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So David gave his oath to Saul. Then Saul returned home, but David and his men w
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.21|<< 1 Samuel 24:21]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.1|1 Samuel 25:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he swore an oath  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7650\|יִּשָּׁבַ֥ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.sha.Va'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֖ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

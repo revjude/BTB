@@ -1,10 +1,7 @@
 **LXX Numbers 35:20** 
 <small><sub>**LXX:**</sub></small>
 And if through hatred he should thrust him through or should cast upon him any item by ambush, and he should die, 
-<small><sub>**KJV:**</sub></small>
-But if he thrust him of hatred, or hurl at him by laying of wait, that he die;
-<small><sub>**BSB:**</sub></small>
-Likewise, if anyone maliciously pushes another or intentionally throws an object at him and kills him,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.19|<< Numbers 35:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.21|Numbers 35:21 >>]]</td></tr></table>
 
 | Translation | Greek |

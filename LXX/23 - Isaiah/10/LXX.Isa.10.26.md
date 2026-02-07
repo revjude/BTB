@@ -1,10 +1,7 @@
 **LXX Isaiah 10:26** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> God of the forces shall arise against them according to the calamity of Midian in Place of Affliction. And  his rage \[is\] the way  by \[the\] sea into the way  according to Egypt. 
-<small><sub>**KJV:**</sub></small>
-And the LORD of hosts shall stir up a scourge for him according to the slaughter of Midian at the rock of Oreb: and [as] his rod [was] upon the sea, so shall he lift it up after the manner of Egypt.
-<small><sub>**BSB:**</sub></small>
-And the LORD of Hosts will brandish a whip against them, as when He struck Midian at the rock of Oreb. He will raise His staff over the sea, as He did in Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.25|<< Isaiah 10:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.27|Isaiah 10:27 >>]]</td></tr></table>
 
 | Translation | Greek |

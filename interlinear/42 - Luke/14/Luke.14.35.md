@@ -1,12 +1,12 @@
-**Luke 14:35
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:35**<big><big>[[Luke.14.34 Good Salt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It is neither fit for the land, nor yet for the dunghill; [but] men cast it out. He that hath ears to hear, let him hear.
 <small><sub>**BSB:**</sub></small>
 It is fit neither for the soil nor for the manure pile, and it is thrown out. He who has ears to hear, let him hear.”
 <small><sub>**Literal:**</sub></small>
 Neither [is it] for soil nor for manure fit is it; out they cast it. The [one] having ears to hear he should hear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.34|<< Luke 14:34]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.1|Luke 15:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Neither [is it] |**<big>[[G3777\|οὔτε]]</big>**  |oute <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

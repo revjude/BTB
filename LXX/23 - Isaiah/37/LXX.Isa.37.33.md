@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Therefore thus says \[the\] <span class="smallcaps">lord</span> concerning \[the\] king of \[the\] Assyrians, In no way shall he enter into  this city, nor throw an arrow against it, nor shall he put a shield against it, nor shall he encircle a siege mound against it. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shields, nor cast a bank against it.
-<small><sub>**BSB:**</sub></small>
-So this is what the LORD says about the king of Assyria: ‘He will not enter this city or shoot an arrow into it. He will not come before it with a shield or build up a siege ramp against it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.32|<< Isaiah 37:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.34|Isaiah 37:34 >>]]</td></tr></table>
 
 | Translation | Greek |

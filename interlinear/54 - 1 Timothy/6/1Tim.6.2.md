@@ -1,12 +1,12 @@
-**1 Timothy 6:2
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:2**<big><big>[[1Tim.6.1 Serving with Honor|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they that have believing masters, let them not despise [them], because they are brethren; but rather do [them] service, because they are faithful and beloved, partakers of the benefit. These things teach and exhort.
 <small><sub>**BSB:**</sub></small>
 Those who have believing masters should not show disrespect because they are brothers, but should serve them all the more, since those receiving their good service are beloved believers. Teach and encourage these principles.
 <small><sub>**Literal:**</sub></small>
 Those now believing having masters not they should despise [them] because brothers they are; but rather they should serve [them], because believing [ones] they are and beloved <the> by the good service being helped. These things do teach and do exhort.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.1|<< 1 Timothy 6:1]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.3|1 Timothy 6:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

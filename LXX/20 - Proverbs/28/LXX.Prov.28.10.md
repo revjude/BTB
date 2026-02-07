@@ -1,10 +1,7 @@
 **LXX Proverbs 28:10** 
 <small><sub>**LXX:**</sub></small>
 The one who wanders upright men in an evil way, fall himself into corruption; and the lawless ones shall go through good \[things\], and they shall not enter to them. 
-<small><sub>**KJV:**</sub></small>
-Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good [things] in possession.
-<small><sub>**BSB:**</sub></small>
-He who leads the upright along the path of evil will fall into his own pit, but the blameless will inherit what is good.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.28.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.9|<< Proverbs 28:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.11|Proverbs 28:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 22:2** 
 <small><sub>**LXX:**</sub></small>
 And if the thief should be found in the ditch, and being struck should die, it is not murder to him \[striking\]. 
-<small><sub>**KJV:**</sub></small>
-If a thief be found breaking up, and be smitten that he die, [there shall] no blood [be shed] for him.
-<small><sub>**BSB:**</sub></small>
-If a thief is caught breaking in and is beaten to death, no one shall be guilty of bloodshed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.1|<< Exodus 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.3|Exodus 22:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 22:2** is...

@@ -1,12 +1,12 @@
-**Matthew 24:36
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:36**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But of that day and hour knoweth no [man], no, not the angels of heaven, but my Father only.
 <small><sub>**BSB:**</sub></small>
 No one knows about that day or hour, not even the angels in heaven, nor the Son, but only the Father.
 <small><sub>**Literal:**</sub></small>
 Concerning however <the> day that [very] and <the> hour no [one] knows not even the angels of the heavens nor the Son, only except the Father of mine alone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.35|<< Matthew 24:35]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.37|Matthew 24:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Concerning |**<big>[[G4012\|Περὶ]]</big>**  |Peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

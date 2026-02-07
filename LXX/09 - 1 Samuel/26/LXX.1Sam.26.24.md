@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:24** 
 <small><sub>**LXX:**</sub></small>
 And behold, as your life was magnified today in this, in my eyes, so my life be magnified before \[the\] <span class="smallcaps">lord</span>, and may he shelter me, and may he rescue me from out of all affliction. 
-<small><sub>**KJV:**</sub></small>
-And, behold, as thy life was much set by this day in mine eyes, so let my life be much set by in the eyes of the LORD, and let him deliver me out of all tribulation.
-<small><sub>**BSB:**</sub></small>
-As surely as I valued your life today, so may the LORD value my life and rescue me from all trouble.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.23|<< 1 Samuel 26:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.25|1 Samuel 26:25 >>]]</td></tr></table>
 
 | Translation | Greek |

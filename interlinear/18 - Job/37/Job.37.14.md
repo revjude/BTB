@@ -1,4 +1,4 @@
-**Job 37:14** 
+**Job 37:14**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hearken unto this, O Job: stand still, and consider the wondrous works of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen to this, O Job; stand still and consider the wonders of God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.13|<< Job 37:13]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.15|Job 37:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give ear to !  |**<big>&#8207;[[H0238\|הַאֲזִ֣ינָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ha.'a.Zi.na<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹּ֣את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

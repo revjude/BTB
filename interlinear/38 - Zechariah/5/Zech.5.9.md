@@ -1,4 +1,4 @@
-**Zechariah 5:9** 
+**Zechariah 5:9**<big><big>[[Zech.5.5 The Vision of the Woman in a Basket|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then lifted I up mine eyes, and looked, and, behold, there came out two women, and the wind [was] in their wings; for they had wings like the wings of a stork: and they lifted up the ephah between the earth and the heaven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I lifted up my eyes and saw two women approaching, with the wind in their w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.5.8|<< Zechariah 5:8]]</td><td align="center" style="border:none;">[[Zech.5|Zechariah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.5.10|Zechariah 5:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I lifted up  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5375M\|אֶשָּׂ֨א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Sa'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes my  |**<big>&#8207;[[H5869A\|עֵינַ֜]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

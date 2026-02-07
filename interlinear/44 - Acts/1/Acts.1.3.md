@@ -1,12 +1,12 @@
-**Acts 1:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:3**<big><big>[[Acts.1.1 Prologue|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
 <small><sub>**BSB:**</sub></small>
 After His suffering, He presented Himself to them with many convincing proofs that He was alive. He appeared to them over a span of forty days and spoke about the kingdom of God.
 <small><sub>**Literal:**</sub></small>
 to those also He presented Himself alive after the suffering of Him with many proofs, during days forty appearing to them and speaking the [things] concerning the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.2|<< Acts 1:2]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.4|Acts 1:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to those |**<big>[[G3739\|οἷς]]</big>**  |hois <small><sup>[[R-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

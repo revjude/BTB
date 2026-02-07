@@ -1,10 +1,7 @@
 **LXX Judges 2:22** 
 <small><sub>**LXX:**</sub></small>
 And he allowed  to test Israel by him, if they guard the way of \[the\] <span class="smallcaps">lord</span>, to go by it in which manner their fathers guarded, or not. 
-<small><sub>**KJV:**</sub></small>
-That through them I may prove Israel, whether they will keep the way of the LORD to walk therein, as their fathers did keep [it], or not.
-<small><sub>**BSB:**</sub></small>
-In this way I will test whether Israel will keep the way of the LORD by walking in it as their fathers did.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.21|<< Judges 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.23|Judges 2:23 >>]]</td></tr></table>
 
 | Translation | Greek |

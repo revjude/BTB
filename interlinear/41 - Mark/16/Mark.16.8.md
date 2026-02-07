@@ -1,12 +1,12 @@
-**Mark 16:8
-**<small><sub>**KJV:**</sub></small>
+**Mark 16:8**<big><big>[[Mark.16.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they went out quickly, and fled from the sepulchre; for they trembled and were amazed: neither said they any thing to any [man]; for they were afraid.
 <small><sub>**BSB:**</sub></small>
 So the women left the tomb and ran away, trembling and bewildered. And in their fear they did not say a word to anyone.
 <small><sub>**Literal:**</sub></small>
 And having gone out quickly they fled from the tomb; had for them trembling and amazement. and to no [one] no [thing] they spoke; they were afraid for. (8b) all now the [things] instructed to [those] around <the> Peter promptly they reported. After now these [things] also Himself <the> Jesus from [the] east and to [the] west sent out through them the sacred and imperishable preaching <the> of eternal salvation. Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.7|<< Mark 16:7]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.9|Mark 16:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone out |**<big>[[G1831\|ἐξελθοῦσαι]]</big>**  |exelthousai <small><sup>[[V-2AAP-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

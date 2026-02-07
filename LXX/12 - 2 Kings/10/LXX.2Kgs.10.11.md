@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:11** 
 <small><sub>**LXX:**</sub></small>
 And Jehu struck all the ones being left among the house of Ahab in Jezreel, and all  his stout \[men\], and  his \[well\] known \[men\], and  his priests, unto  his not leaving behind a vestige. 
-<small><sub>**KJV:**</sub></small>
-So Jehu slew all that remained of the house of Ahab in Jezreel, and all his great men, and his kinsfolks, and his priests, until he left him none remaining.
-<small><sub>**BSB:**</sub></small>
-So Jehu killed everyone in Jezreel who remained of the house of Ahab, as well as all his great men and close friends and priests, leaving him without a single survivor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.10|<< 2 Kings 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.12|2 Kings 10:12 >>]]</td></tr></table>
 
 | Translation | Greek |

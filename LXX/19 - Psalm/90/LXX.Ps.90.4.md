@@ -1,10 +1,7 @@
 **LXX Psalm 90:4** 
 <small><sub>**LXX:**</sub></small>
 For a thousand years in your eyes, O <span class="smallcaps">lord</span>, \[are\] as day --  yesterday which went, and \[is as\] a watch in \[the\] night. 
-<small><sub>**KJV:**</sub></small>
-For a thousand years in thy sight [are but] as yesterday when it is past, and [as] a watch in the night.
-<small><sub>**BSB:**</sub></small>
-For in Your sight a thousand years are but a day that passes, or a watch of the night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.90.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.3|<< Psalm 90:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.5|Psalm 90:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 90:4** is...

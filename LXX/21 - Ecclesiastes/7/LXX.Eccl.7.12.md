@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 7:12** 
 <small><sub>**LXX:**</sub></small>
 For wisdom in its shadow \[is\] as \[the\] shadow of silver; and \[the\] advantage of \[the\] knowledge  of wisdom will restore to life the one having it. 
-<small><sub>**KJV:**</sub></small>
-For wisdom [is] a defence, [and] money [is] a defence: but the excellency of knowledge [is, that] wisdom giveth life to them that have it.
-<small><sub>**BSB:**</sub></small>
-For wisdom, like money, is a shelter, and the advantage of knowledge is that wisdom preserves the life of its owner.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.11|<< Ecclesiastes 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.13|Ecclesiastes 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

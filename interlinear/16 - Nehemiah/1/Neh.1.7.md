@@ -1,4 +1,4 @@
-**Nehemiah 1:7** 
+**Nehemiah 1:7**<big><big>[[Neh.1.1 Nehemiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We have behaved corruptly against You and have not kept the commandments, statut
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.6|<< Nehemiah 1:6]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.8|Nehemiah 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | surely \<to act corruptly>  |**<big>&#8207;[[H2254B\|חֲבֹ֖ל]]&#8207; </big>**| cha.Vol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we have acted corruptly  |**<big>&#8207;[[H2254B\|חָבַ֣לְנוּ]]&#8207; </big>**| cha.Val.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

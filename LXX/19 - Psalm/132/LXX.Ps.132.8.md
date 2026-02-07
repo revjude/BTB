@@ -1,10 +1,7 @@
 **LXX Psalm 132:8** 
 <small><sub>**LXX:**</sub></small>
 Rise up, O <span class="smallcaps">lord</span>, unto  your rest, you and the ark  of your sanctuary! 
-<small><sub>**KJV:**</sub></small>
-Arise, O LORD, into thy rest; thou, and the ark of thy strength.
-<small><sub>**BSB:**</sub></small>
-Arise, O LORD, to Your resting place, You and the ark of Your strength.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.132.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.7|<< Psalm 132:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.132.9|Psalm 132:9 >>]]</td></tr></table>
 
 | Translation | Greek |

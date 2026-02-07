@@ -1,10 +1,7 @@
 **LXX Isaiah 7:2** 
 <small><sub>**LXX:**</sub></small>
 And it was announced in the house of David, saying, Aram joined in harmony to  Ephraim. And it startled  his soul, and the soul  of his people, in which manner a tree in a grove is shaken by a wind. 
-<small><sub>**KJV:**</sub></small>
-And it was told the house of David, saying, Syria is confederate with Ephraim. And his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind.
-<small><sub>**BSB:**</sub></small>
-When it was reported to the house of David that Aram was in league with Ephraim, the hearts of Ahaz and his people trembled like trees in the forest shaken by the wind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.1|<< Isaiah 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.3|Isaiah 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 John 4:18
-**<small><sub>**KJV:**</sub></small>
+**1 John 4:18**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.
 <small><sub>**BSB:**</sub></small>
 There is no fear in love, but perfect love drives out fear, because fear involves punishment. The one who fears has not been perfected in love.
 <small><sub>**Literal:**</sub></small>
 Fear no there is in <the> love, but <the> perfect love out casts <the> fear, because the fear punishment has; the [one] now fearing not has been perfected in <the> love.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.17|<< 1 John 4:17]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.19|1 John 4:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Fear |**<big>[[G5401\|φόβος]]</big>**  |phobos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | no |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

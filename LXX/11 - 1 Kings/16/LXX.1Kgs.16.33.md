@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:33** 
 <small><sub>**LXX:**</sub></small>
 And Ahab prepared the sacred grove. And Ahab proceeded  to make provocations  the <span class="smallcaps">lord</span> God of Israel to anger above all the kings of Israel  being prior of him. 
-<small><sub>**KJV:**</sub></small>
-And Ahab made a grove; and Ahab did more to provoke the LORD God of Israel to anger than all the kings of Israel that were before him.
-<small><sub>**BSB:**</sub></small>
-Then he set up an Asherah pole. Thus Ahab did more to provoke the LORD, the God of Israel, to anger than all the kings of Israel before him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.32|<< 1 Kings 16:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.34|1 Kings 16:34 >>]]</td></tr></table>
 
 | Translation | Greek |

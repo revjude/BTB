@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Elisha said, \[the\] <span class="smallcaps">lord</span> of the forces lives, in whom I stand before him, that if it were not \[the\] face  of Jehoshaphat king of Judah \[which\] I receive, shall I \[have\] looked upon you or beheld you, \[no\]. 
-<small><sub>**KJV:**</sub></small>
-And Elisha said, [As] the LORD of hosts liveth, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward thee, nor see thee.
-<small><sub>**BSB:**</sub></small>
-Then Elisha said, “As surely as the LORD of Hosts lives, before whom I stand, were it not for my regard for the presence of Jehoshaphat king of Judah, I would not look at you or acknowledge you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.13|<< 2 Kings 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.15|2 Kings 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

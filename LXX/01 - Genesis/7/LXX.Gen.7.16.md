@@ -1,10 +1,7 @@
 **LXX Genesis 7:16** 
 <small><sub>**LXX:**</sub></small>
 And the \[ones\] entering, male and female, from all flesh, entered as God gave charge \[to\] Noah. And \[the\] <span class="smallcaps">lord</span> God locked the ark from outside of it. 
-<small><sub>**KJV:**</sub></small>
-And they that went in, went in male and female of all flesh, as God had commanded him: and the LORD shut him in.
-<small><sub>**BSB:**</sub></small>
-And they entered, the male and female of every living thing, as God had commanded Noah. Then the LORD shut him in.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.15|<< Genesis 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.17|Genesis 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

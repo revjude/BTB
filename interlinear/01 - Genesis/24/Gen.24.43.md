@@ -1,4 +1,4 @@
-**Genesis 24:43** 
+**Genesis 24:43**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I stand by the well of water; and it shall come to pass, that when the virgin cometh forth to draw [water], and I say to her, Give me, I pray thee, a little water of thy pitcher to drink;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Here I am, standing beside this spring. Now if a maiden comes out to draw water 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.42|<< Genesis 24:42]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.44|Genesis 24:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֛ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֥י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 14:13** 
 <small><sub>**LXX:**</sub></small>
 And Asa pursued them and  his people unto Gerar. And the Ethiopians fell so as to not be in procurement of \[safety\] for themselves; for they were defeated before \[the\] <span class="smallcaps">lord</span>, and before  his force. And they despoiled many spoils. 
-<small><sub>**KJV:**</sub></small>
-And Asa and the people that [were] with him pursued them unto Gerar: and the Ethiopians were overthrown, that they could not recover themselves; for they were destroyed before the LORD, and before his host; and they carried away very much spoil.
-<small><sub>**BSB:**</sub></small>
-Then Asa and his army pursued them as far as Gerar. The Cushites fell and could not recover, for they were crushed before the LORD and His army. So the people of Judah carried off a great amount of plunder<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.14.12|<< 2 Chronicles 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.14.14|2 Chronicles 14:14 >>]]</td></tr></table>
 
 | Translation | Greek |

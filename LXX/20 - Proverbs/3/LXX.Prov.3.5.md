@@ -1,10 +1,7 @@
 **LXX Proverbs 3:5** 
 <small><sub>**LXX:**</sub></small>
 Be yielding with \[your\] whole heart upon God, and upon your own wisdom be not encouraged! 
-<small><sub>**KJV:**</sub></small>
-Trust in the LORD with all thine heart; and lean not unto thine own understanding.
-<small><sub>**BSB:**</sub></small>
-Trust in the LORD with all your heart, and lean not on your own understanding;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.4|<< Proverbs 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.6|Proverbs 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

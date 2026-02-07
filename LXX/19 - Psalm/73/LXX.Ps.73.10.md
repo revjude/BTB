@@ -1,10 +1,7 @@
 **LXX Psalm 73:10** 
 <small><sub>**LXX:**</sub></small>
 On account of this my people shall return here; and full days shall be found with them. 
-<small><sub>**KJV:**</sub></small>
-Therefore his people return hither: and waters of a full [cup] are wrung out to them.
-<small><sub>**BSB:**</sub></small>
-So their people return to this place and drink up waters in abundance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.73.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.9|<< Psalm 73:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.11|Psalm 73:11 >>]]</td></tr></table>
 
 | Translation | Greek |

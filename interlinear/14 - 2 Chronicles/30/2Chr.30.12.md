@@ -1,4 +1,4 @@
-**2 Chronicles 30:12** 
+**2 Chronicles 30:12**<big><big>[[2Chr.30.1 Hezekiah Proclaims a Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also in Judah the hand of God was to give them one heart to do the commandment of the king and of the princes, by the word of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, the power of God was on the people in Judah to give them one heart to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.11|<< 2 Chronicles 30:11]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.13|2 Chronicles 30:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֣ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on Judah  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3063G\|יהוּדָ֗ה]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Romans 2:18
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:18**<big><big>[[Rom.2.17 The Jews and the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And knowest [his] will, and approvest the things that are more excellent, being instructed out of the law;
 <small><sub>**BSB:**</sub></small>
 if you know His will and approve of what is superior because you are instructed by the law;
 <small><sub>**Literal:**</sub></small>
 and know the will and approve the [things] being superior being instructed out of the law;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.17|<< Romans 2:17]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.19|Romans 2:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | know |**<big>[[G1097\|γινώσκεις]]</big>**  |ginōskeis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

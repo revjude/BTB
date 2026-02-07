@@ -1,5 +1,5 @@
-**Mark 2:26
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:26**<big><big>[[Mark.2.23 The Lord of the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 How he went into the house of God in the days of Abiathar the high priest, and did eat the shewbread, which is not lawful to eat but for the priests, and gave also to them which were with him?
 <small><sub>**BSB:**</sub></small>
 During the high priesthood of Abiathar, he entered the house of God and ate the consecrated bread, which was lawful only for the priests. And he gave some to his companions as well.”
@@ -10,7 +10,7 @@ How he entered into the house <the> of God in [the days of] Abiathar the high pr
 > $\quad$ alluding to: [[LXX.1Sam.21.6|1Sam 21:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | How |**<big>[[G4459\|πῶς]]</big>**  |pōs <small><sup>[[PRT-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he entered |**<big>[[G1525\|εἰσῆλθεν]]</big>**  |eisēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Job 37:1** 
+**Job 37:1**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At this also my heart trembleth, and is moved out of his place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At this also my heart trembleth, and is moved out of his place.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.33|<< Job 36:33]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.2|Job 37:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H0637\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to this  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H2063\|זֹאת]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

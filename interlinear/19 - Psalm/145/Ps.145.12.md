@@ -1,4 +1,4 @@
-**Psalms 145:12** 
+**Psalms 145:12**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to make known to men Your mighty acts and the glorious splendor of Your kingdom.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.11|<< Psalms 145:11]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.13|Psalms 145:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to make known  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3045\|הוֹדִ֤יעַ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ho.Di.a'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] children of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121A\|בְנֵ֣י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

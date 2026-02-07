@@ -1,4 +1,4 @@
-**Judges 10:8** 
+**Judges 10:8**<big><big>[[Judg.10.6 Oppression by the Philistines and Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that year they vexed and oppressed the children of Israel: eighteen years, all the children of Israel that [were] on the other side Jordan in the land of the Amorites, which [is] in Gilead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who that very year harassed and oppressed the Israelites, and they did so for ei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.7|<< Judges 10:7]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.9|Judges 10:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they shattered  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7492\|יִּרְעֲצ֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.'a.Tzu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they crushed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7533\|יְרֹֽצְצוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ro.tze.Tzu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

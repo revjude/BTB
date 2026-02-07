@@ -1,4 +1,4 @@
-**2 Chronicles 21:2** 
+**2 Chronicles 21:2**<big><big>[[2Chr.21.1 Jehoram Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he had brethren the sons of Jehoshaphat, Azariah, and Jehiel, and Zechariah, and Azariah, and Michael, and Shephatiah: all these [were] the sons of Jehoshaphat king of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jehoram’s brothers, the sons of Jehoshaphat, were Azariah, Jehiel, Zechariah, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.1|<< 2 Chronicles 21:1]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.3|2 Chronicles 21:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [belonged] to him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo<small><sup>[[HR]]</sup></small> v-<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | brothers  |**<big>&#8207;[[H0251G\|אַחִ֞ים]]&#8207; </big>**| 'a.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

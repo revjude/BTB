@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:31** 
 <small><sub>**LXX:**</sub></small>
 Then this abomination and obstacle shall not be against your heart, \[to\] my master, to pour out innocent blood without charge, and to deliver \[the\] hand of my master for himself. And \[the\] <span class="smallcaps">lord</span> shall do good \[to\] my master. And you shall remember  your maidservant,  to do well to her. 
-<small><sub>**KJV:**</sub></small>
-That this shall be no grief unto thee, nor offence of heart unto my lord, either that thou hast shed blood causeless, or that my lord hath avenged himself: but when the LORD shall have dealt well with my lord, then remember thine handmaid.
-<small><sub>**BSB:**</sub></small>
-then my lord will have no remorse or guilt of conscience over needless bloodshed and revenge. And when the LORD has dealt well with my lord, may you remember your servant.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.30|<< 1 Samuel 25:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.32|1 Samuel 25:32 >>]]</td></tr></table>
 
 | Translation | Greek |

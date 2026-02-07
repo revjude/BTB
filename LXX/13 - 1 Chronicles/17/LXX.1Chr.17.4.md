@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:4** 
 <small><sub>**LXX:**</sub></small>
 You go, and say to David  my servant! Thus said \[the\] <span class="smallcaps">lord</span>, You shall not build for me a house  for me to dwell in it. 
-<small><sub>**KJV:**</sub></small>
-Go and tell David my servant, Thus saith the LORD, Thou shalt not build me an house to dwell in:
-<small><sub>**BSB:**</sub></small>
-“Go and tell My servant David that this is what the LORD says: You are not the one to build Me a house in which to dwell.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.3|<< 1 Chronicles 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.5|1 Chronicles 17:5 >>]]</td></tr></table>
 
 | Translation | Greek |

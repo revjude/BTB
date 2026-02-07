@@ -1,12 +1,12 @@
-**Matthew 12:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:25**<big><big>[[Matt.12.22 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus knew their thoughts, and said unto them, Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand:
 <small><sub>**BSB:**</sub></small>
 Knowing their thoughts, Jesus said to them, “Every kingdom divided against itself will be laid waste, and every city or household divided against itself will not stand.
 <small><sub>**Literal:**</sub></small>
 knowing now <the> Jesus the thoughts of them He said to them; Every kingdom having been divided against itself is brought to desolation, and every city or house having been divided against itself not will stand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.24|<< Matthew 12:24]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.26|Matthew 12:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | knowing |**<big>[[G6063\|Εἰδὼς]]</big>**  |Eidōs <small><sup>[[V-RAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

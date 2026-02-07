@@ -1,12 +1,12 @@
-**Romans 4:1
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:1**<big><big>[[Rom.4.1 Abraham Justified by Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What shall we say then that Abraham our father, as pertaining to the flesh, hath found?
 <small><sub>**BSB:**</sub></small>
 What then shall we say that Abraham, our forefather according to the flesh, has discovered?
 <small><sub>**Literal:**</sub></small>
 What then will we say to have discovered Abraham the ancestor of us according to [the] flesh?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.31|<< Romans 3:31]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.2|Romans 4:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|Τί]]</big>**  |Ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

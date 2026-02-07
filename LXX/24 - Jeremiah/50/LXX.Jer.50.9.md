@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:9** 
 <small><sub>**LXX:**</sub></small>
 For behold, I raise up against Babylon gatherings of great nations from out of \[the\] land of \[the\] north, and they shall deploy against her. From there she shall be captured as \[the\] arrow of an expert warrior shall not return empty. 
-<small><sub>**KJV:**</sub></small>
-For, lo, I will raise and cause to come up against Babylon an assembly of great nations from the north country: and they shall set themselves in array against her; from thence she shall be taken: their arrows [shall be] as of a mighty expert man; none shall return in vain.
-<small><sub>**BSB:**</sub></small>
-For behold, I stir up and bring against Babylon an assembly of great nations from the land of the north. They will line up against her; from the north she will be captured. Their arrows will be like skilled warriors who do not return empty-handed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.8|<< Jeremiah 50:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.10|Jeremiah 50:10 >>]]</td></tr></table>
 
 | Translation | Greek |

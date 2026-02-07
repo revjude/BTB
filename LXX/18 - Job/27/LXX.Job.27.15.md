@@ -1,10 +1,7 @@
 **LXX Job 27:15** 
 <small><sub>**LXX:**</sub></small>
 And the ones remaining of his shall come to an end in plague; and no one shall show mercy on their widows. 
-<small><sub>**KJV:**</sub></small>
-Those that remain of him shall be buried in death: and his widows shall not weep.
-<small><sub>**BSB:**</sub></small>
-His survivors will be buried by the plague, and their widows will not weep for them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.27.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.14|<< Job 27:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.16|Job 27:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 16:29** 
 <small><sub>**LXX:**</sub></small>
 If by \[the common\] death of all men these shall die; \[or\] if according to \[the\] review of all men \[the\] visit \[of death\] shall be theirs -- \[then the\] <span class="smallcaps">lord</span> \[has\] not sent me. 
-<small><sub>**KJV:**</sub></small>
-If these men die the common death of all men, or if they be visited after the visitation of all men; [then] the LORD hath not sent me.
-<small><sub>**BSB:**</sub></small>
-If these men die a natural death, or if they suffer the fate of all men, then the LORD has not sent me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.28|<< Numbers 16:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.30|Numbers 16:30 >>]]</td></tr></table>
 
 | Translation | Greek |

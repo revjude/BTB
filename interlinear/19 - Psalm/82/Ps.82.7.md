@@ -1,4 +1,4 @@
-**Psalms 82:7** 
+**Psalms 82:7**<big><big>[[Ps.82.1 God Presides in the Divine Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye shall die like men, and fall like one of the princes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But like mortals you will die, and like rulers you will fall.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.82.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.82.6|<< Psalms 82:6]]</td><td align="center" style="border:none;">[[Ps.82|Psalms 82]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.82.8|Psalms 82:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0403\|אָ֭כֵן]]&#8207; </big>**| 'A.khen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like humankind  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0120G\|אָדָ֣ם]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

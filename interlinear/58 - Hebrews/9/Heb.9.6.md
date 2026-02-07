@@ -1,12 +1,12 @@
-**Hebrews 9:6
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:6**<big><big>[[Heb.9.1 The Earthly Tabernacle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service [of God].
 <small><sub>**BSB:**</sub></small>
 When everything had been prepared in this way, the priests entered regularly into the first room to perform their sacred duties.
 <small><sub>**Literal:**</sub></small>
 These things now thus prepared into indeed the first tabernacle at  all [times] enter the priests the sacred services accomplishing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.5|<< Hebrews 9:5]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.7|Hebrews 9:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|τούτων]]</big>**  |toutōn <small><sup>[[D-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

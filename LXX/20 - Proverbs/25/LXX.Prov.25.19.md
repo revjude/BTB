@@ -1,10 +1,7 @@
 **LXX Proverbs 25:19** 
 <small><sub>**LXX:**</sub></small>
 An evil way and \[the\] foot of a lawbreaker shall be destroyed in an evil day. 
-<small><sub>**KJV:**</sub></small>
-Confidence in an unfaithful man in time of trouble [is like] a broken tooth, and a foot out of joint.
-<small><sub>**BSB:**</sub></small>
-Like a broken tooth or a foot out of joint is confidence in a faithless man in time of trouble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.25.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.18|<< Proverbs 25:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.20|Proverbs 25:20 >>]]</td></tr></table>
 
 | Translation | Greek |

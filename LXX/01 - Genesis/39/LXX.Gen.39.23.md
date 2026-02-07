@@ -1,10 +1,7 @@
 **LXX Genesis 39:23** 
 <small><sub>**LXX:**</sub></small>
 For not was the chief jailer of the jail knowing \[anything\] concerning him -- not one \[thing\]. For all was through \[the\] hand of Joseph, because of the \[reason\] the <span class="smallcaps">lord</span> being with him. And as much as he did, \[the\] <span class="smallcaps">lord</span> prospered the way in  his hands. 
-<small><sub>**KJV:**</sub></small>
-The keeper of the prison looked not to any thing [that was] under his hand; because the LORD was with him, and [that] which he did, the LORD made [it] to prosper.
-<small><sub>**BSB:**</sub></small>
-The warden did not concern himself with anything under Joseph’s care, because the LORD was with Joseph and gave him success in whatever he did.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.22|<< Genesis 39:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.1|Genesis 40:1 >>]]</td></tr></table>
 
 | Translation | Greek |

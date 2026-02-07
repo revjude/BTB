@@ -1,10 +1,7 @@
 **LXX Numbers 18:32** 
 <small><sub>**LXX:**</sub></small>
 And you shall not take sin because of it, in that you should remove the first-fruit from it. And the holy \[things\] of the sons of Israel you shall not profane, that you should not die. 
-<small><sub>**KJV:**</sub></small>
-And ye shall bear no sin by reason of it, when ye have heaved from it the best of it: neither shall ye pollute the holy things of the children of Israel, lest ye die.
-<small><sub>**BSB:**</sub></small>
-Once you have presented the best part of it, you will not incur guilt because of it. But you must not defile the sacred offerings of the Israelites, or else you will die.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.31|<< Numbers 18:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.1|Numbers 19:1 >>]]</td></tr></table>
 
 | Translation | Greek |

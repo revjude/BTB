@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:28** 
 <small><sub>**LXX:**</sub></small>
 And over the olive groves and over the sycamine trees in the plain \[was\] Baal-hanan the Gederite. And over the storehouses of the olive oil \[was\] Joash. 
-<small><sub>**KJV:**</sub></small>
-And over the olive trees and the sycomore trees that [were] in the low plains [was] Baalhanan the Gederite: and over the cellars of oil [was] Joash:
-<small><sub>**BSB:**</sub></small>
-Baal-hanan the Gederite was in charge of the olive and sycamore trees in the foothills. Joash was in charge of the stores of olive oil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.27|<< 1 Chronicles 27:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.29|1 Chronicles 27:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jonah 1:4** 
+**Jonah 1:4**<big><big>[[Jonah.1.4 The Great Storm|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD sent out a great wind into the sea, and there was a mighty tempest in the sea, so that the ship was like to be broken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the LORD hurled a great wind upon the sea, and such a violent storm arose t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.1.3|<< Jonah 1:3]]</td><td align="center" style="border:none;">[[Jonah.1|Jonah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.5|Jonah 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֗ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he threw  |**<big>&#8207;[[H2904\|הֵטִ֤יל]]&#8207; </big>**| he.Til<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 14:22
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:22**<big><big>[[Mark.14.17 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as they did eat, Jesus took bread, and blessed, and brake [it], and gave to them, and said, Take, eat: this is my body.
 <small><sub>**BSB:**</sub></small>
 While they were eating, Jesus took bread, spoke a blessing and broke it, and gave it to the disciples, saying, “Take it; this is My body.”
 <small><sub>**Literal:**</sub></small>
 And when are eating they, having taken <the> Jesus bread, having spoken a blessing He broke and He gave [it] to them and said; do take do eat this is the body of Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.21|<< Mark 14:21]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.23|Mark 14:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when are eating |**<big>[[G2068\|ἐσθιόντων]]</big>**  |esthiontōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

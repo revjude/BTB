@@ -1,10 +1,7 @@
 **LXX Joshua 10:19** 
 <small><sub>**LXX:**</sub></small>
 But you do not stand firmly! be pursuing after  your enemies, and overtake  their rear guard, and do not let them enter into  their cities! for \[the\] <span class="smallcaps">lord</span> our God delivered them into  our hands. 
-<small><sub>**KJV:**</sub></small>
-And stay ye not, [but] pursue after your enemies, and smite the hindmost of them; suffer them not to enter into their cities: for the LORD your God hath delivered them into your hand.
-<small><sub>**BSB:**</sub></small>
-But you, do not stop there. Pursue your enemies and attack them from behind. Do not let them reach their cities, for the LORD your God has delivered them into your hand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.18|<< Joshua 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.20|Joshua 10:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 7:24** 
+**Isaiah 7:24**<big><big>[[Isa.7.17 Judgment to Come|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With arrows and with bows shall [men] come thither; because all the land shall become briers and thorns.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Men will go there with bow and arrow, for the land will be covered with briers a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.23|<< Isaiah 7:23]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.25|Isaiah 7:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with \<the> arrows  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2671\|חִצִּ֥ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> chi.Tzim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and with \<the> bow  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H7198\|קֶּ֖שֶׁת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> Ke.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

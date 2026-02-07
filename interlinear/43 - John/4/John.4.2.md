@@ -1,12 +1,12 @@
-**John 4:2
-**<small><sub>**KJV:**</sub></small>
+**John 4:2**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (Though Jesus himself baptized not, but his disciples,)
 <small><sub>**BSB:**</sub></small>
 (although it was not Jesus who baptized, but His disciples),
 <small><sub>**Literal:**</sub></small>
 and certainly indeed Jesus Himself not was baptizing but the disciples of Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.1|<< John 4:1]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.3|John 4:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and certainly indeed |**<big>[[G2532\|καίτοιγε]]</big>**  |kaitoige <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Jesus |**<big>[[G2424G\|Ἰησοῦς]]</big>**  |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

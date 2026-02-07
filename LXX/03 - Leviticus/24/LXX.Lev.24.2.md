@@ -1,10 +1,7 @@
 **LXX Leviticus 24:2** 
 <small><sub>**LXX:**</sub></small>
 Give charge to the sons of Israel! And let them take to you olive oil, pure, being beaten for light! to burn in a lamp continually, 
-<small><sub>**KJV:**</sub></small>
-Command the children of Israel, that they bring unto thee pure oil olive beaten for the light, to cause the lamps to burn continually.
-<small><sub>**BSB:**</sub></small>
-“Command the Israelites to bring you pure oil of pressed olives for the light, to keep the lamps burning continually.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.1|<< Leviticus 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.3|Leviticus 24:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 26:18** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> took you today for you to be to him a prized people, just as he spoke to you -- \[for you\] to guard all  his commandments; 
-<small><sub>**KJV:**</sub></small>
-And the LORD hath avouched thee this day to be his peculiar people, as he hath promised thee, and that [thou] shouldest keep all his commandments;
-<small><sub>**BSB:**</sub></small>
-And today the LORD has proclaimed that you are His people and treasured possession as He promised, that you are to keep all His commandments,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.17|<< Deuteronomy 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.19|Deuteronomy 26:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Lamentations 4:18** 
+**Lamentations 4:18**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They stalked our every step, so that we could not walk in our streets. Our end d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.17|<< Lamentations 4:17]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.19|Lamentations 4:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they hunted  |**<big>&#8207;[[H6679A\|צָד֣וּ]]&#8207; </big>**| tza.Du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | steps our  |**<big>&#8207;[[H6806\|צְעָדֵ֔י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| tze.'a.Dei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

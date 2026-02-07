@@ -1,10 +1,7 @@
 **LXX 1 Samuel 7:17** 
 <small><sub>**LXX:**</sub></small>
  And his returning was unto Ramah; for his house was there; and he adjudicated for Israel there, and he built there an altar to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And his return [was] to Ramah; for there [was] his house; and there he judged Israel; and there he built an altar unto the LORD.
-<small><sub>**BSB:**</sub></small>
-Then he would return to Ramah because his home was there, and there he judged Israel and built an altar to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.16|<< 1 Samuel 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.8.1|1 Samuel 8:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 7:17** is...

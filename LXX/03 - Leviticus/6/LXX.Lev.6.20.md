@@ -1,10 +1,7 @@
 **LXX Leviticus 6:20** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the gift \[offering\] of Aaron and  his sons which they shall bring \[to the\] <span class="smallcaps">lord</span> in the day which ever you shall anoint him -- the tenth of the ephah of fine flour for a sacrifice \[offering\] always,  half of it in the morning, and  half of it  at dusk. 
-<small><sub>**KJV:**</sub></small>
-This [is] the offering of Aaron and of his sons, which they shall offer unto the LORD in the day when he is anointed; the tenth part of an ephah of fine flour for a meat offering perpetual, half of it in the morning, and half thereof at night.
-<small><sub>**BSB:**</sub></small>
-“This is the offering that Aaron and his sons must present to the LORD on the day he is anointed: a tenth of an ephah of fine flour as a regular grain offering, half of it in the morning and half in the evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.19|<< Leviticus 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.21|Leviticus 6:21 >>]]</td></tr></table>
 
 | Translation | Greek |

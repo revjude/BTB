@@ -1,4 +1,4 @@
-**Psalms 68:17** (68:18)
+**Psalms 68:17**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The chariots of God [are] twenty thousand, [even] thousands of angels: the Lord [is] among them, [as in] Sinai, in the holy [place].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The chariots of God are tens of thousands—thousands of thousands are they; the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.16|<< Psalms 68:16]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.18|Psalms 68:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] chariotry of  |**<big>&#8207;[[H7393G\|רֶ֤כֶב]]&#8207; </big>**| Re.khev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֗ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

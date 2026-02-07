@@ -1,10 +1,7 @@
 **LXX Psalm 109:22** 
 <small><sub>**LXX:**</sub></small>
 Rescue me, for I am poor and needy! and  my heart is disturbed within me. 
-<small><sub>**KJV:**</sub></small>
-For I [am] poor and needy, and my heart is wounded within me.
-<small><sub>**BSB:**</sub></small>
-For I am poor and needy; my heart is wounded within me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.21|<< Psalm 109:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.23|Psalm 109:23 >>]]</td></tr></table>
 
 | Translation | Greek |

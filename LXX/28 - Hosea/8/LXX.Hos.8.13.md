@@ -1,10 +1,7 @@
 **LXX Hosea 8:13** 
 <small><sub>**LXX:**</sub></small>
 For if they should sacrifice a sacrifice, and should eat meats, \[the\] <span class="smallcaps">lord</span> shall not favorably receive them. Now he will remember their iniquities, and he shall avenge  their sins. They returned unto Egypt. 
-<small><sub>**KJV:**</sub></small>
-They sacrifice flesh [for] the sacrifices of mine offerings, and eat [it; but] the LORD accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt.
-<small><sub>**BSB:**</sub></small>
-Though they offer sacrifices as gifts to Me, and though they eat the meat, the LORD does not accept them. Now He will remember their iniquity and punish their sins: They will return to Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.8.12|<< Hosea 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.14|Hosea 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

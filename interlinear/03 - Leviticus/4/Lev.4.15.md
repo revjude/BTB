@@ -1,4 +1,4 @@
-**Leviticus 4:15** 
+**Leviticus 4:15**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the elders of the congregation shall lay their hands upon the head of the bullock before the LORD: and the bullock shall be killed before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The elders of the congregation are to lay their hands on the bull’s head befor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.14|<< Leviticus 4:14]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.16|Leviticus 4:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will lean  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H5564\|סָמְכוּ]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> sa.me.khu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] elders of  |**<big>&#8207;[[H2205G\|זִקְנֵ֨י]]&#8207; </big>**| zik.Nei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

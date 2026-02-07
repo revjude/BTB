@@ -1,4 +1,4 @@
-**1 Samuel 16:7** 
+**1 Samuel 16:7**<big><big>[[1Sam.16.1 Samuel Anoints David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for [the LORD seeth] not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the LORD said to Samuel, “Do not consider his appearance or height, for I 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.6|<< 1 Samuel 16:6]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.8|1 Samuel 16:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

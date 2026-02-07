@@ -1,10 +1,7 @@
 **LXX Job 39:26** 
 <small><sub>**LXX:**</sub></small>
 And from  your higher knowledge \[does the\] hawk set having the look of effrontery with wings fixed looking down  towards \[the\] south? 
-<small><sub>**KJV:**</sub></small>
-Doth the hawk fly by thy wisdom, [and] stretch her wings toward the south?
-<small><sub>**BSB:**</sub></small>
-Does the hawk take flight by your understanding and spread his wings toward the south?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.39.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.25|<< Job 39:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.27|Job 39:27 >>]]</td></tr></table>
 
 | Translation | Greek |

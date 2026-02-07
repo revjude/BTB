@@ -1,4 +1,4 @@
-**Joshua 7:26** 
+**Joshua 7:26**<big><big>[[Josh.7.16 The Sin of Achan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they raised over him a great heap of stones unto this day. So the LORD turned from the fierceness of his anger. Wherefore the name of that place was called, The valley of Achor, unto this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they heaped over Achan a large pile of rocks that remains to this day. So th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.25|<< Joshua 7:25]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.1|Joshua 8:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they set up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965H\|יָּקִ֨ימוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ki.mu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over him  |**<big>&#8207;[[H5921A\|עָלָ֜י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 21:5** 
 <small><sub>**LXX:**</sub></small>
 Prepare the table! Eat! Drink! Rising up are the rulers. Pull up shields! 
-<small><sub>**KJV:**</sub></small>
-Prepare the table, watch in the watchtower, eat, drink: arise, ye princes, [and] anoint the shield.
-<small><sub>**BSB:**</sub></small>
-They prepare a table, they lay out a carpet, they eat, they drink! Rise up, O princes, oil the shields!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.4|<< Isaiah 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.6|Isaiah 21:6 >>]]</td></tr></table>
 
 | Translation | Greek |

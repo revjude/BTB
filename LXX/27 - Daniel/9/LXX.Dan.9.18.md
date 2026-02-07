@@ -1,10 +1,7 @@
 **LXX Daniel 9:18** 
 <small><sub>**LXX:**</sub></small>
 Lean, O my God,  your ear, and hearken! Open  your eyes, and behold  our extinction! and  of your city upon which your name is called upon it. For not upon  our righteousness we toss  our compassion before you, but upon  your great compassions, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-O my God, incline thine ear, and hear; open thine eyes, and behold our desolations, and the city which is called by thy name: for we do not present our supplications before thee for our righteousnesses, but for thy great mercies.
-<small><sub>**BSB:**</sub></small>
-Incline Your ear, O my God, and hear; open Your eyes and see the desolation of the city that bears Your name. For we are not presenting our petitions before You because of our righteous acts, but because of Your great compassion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.17|<< Daniel 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.19|Daniel 9:19 >>]]</td></tr></table>
 
 | Translation | Greek |

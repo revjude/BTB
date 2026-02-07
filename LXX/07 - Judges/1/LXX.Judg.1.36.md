@@ -1,10 +1,7 @@
 **LXX Judges 1:36** 
 <small><sub>**LXX:**</sub></small>
 And the border of the Amorite \[was\] from the ascending of Akrabbim, from the rock, and above. 
-<small><sub>**KJV:**</sub></small>
-And the coast of the Amorites [was] from the going up to Akrabbim, from the rock, and upward.
-<small><sub>**BSB:**</sub></small>
-And the border of the Amorites extended from the Ascent of Akrabbim to Sela and beyond.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.35|<< Judges 1:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.1|Judges 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

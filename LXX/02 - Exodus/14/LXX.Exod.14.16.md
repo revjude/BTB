@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you, lift up  your rod, and stretch out  your hand upon the sea, and tear it! And the sons of Israel enter in \[the\] midst of the sea on  dry \[land\]! 
-<small><sub>**KJV:**</sub></small>
-But lift thou up thy rod, and stretch out thine hand over the sea, and divide it: and the children of Israel shall go on dry [ground] through the midst of the sea.
-<small><sub>**BSB:**</sub></small>
-And as for you, lift up your staff and stretch out your hand over the sea and divide it, so that the Israelites can go through the sea on dry ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.15|<< Exodus 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.17|Exodus 14:17 >>]]</td></tr></table>
 
 | Translation | Greek |

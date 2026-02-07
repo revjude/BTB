@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:19** 
 <small><sub>**LXX:**</sub></small>
 And the king said, \[Is\] not the hand of Joab in all this with you? And the woman answered and said to the king, your soul lives, O my master, O king, since there is \[no turning\] to the right or to the left of all which my master the king spoke, for  your servant Joab himself gave charge to me, and he put all these words in the mouth of your maidservant. 
-<small><sub>**KJV:**</sub></small>
-And the king said, [Is not] the hand of Joab with thee in all this? And the woman answered and said, [As] thy soul liveth, my lord the king, none can turn to the right hand or to the left from ought that my lord the king hath spoken: for thy servant Joab, he bade me, and he put all these words in the mouth of thine handmaid:
-<small><sub>**BSB:**</sub></small>
-So the king asked, “Is the hand of Joab behind all this?” The woman answered, “As surely as you live, my lord the king, no one can turn to the right or to the left from anything that my lord the king says. Yes, your servant Joab is the one who gave me orders; he told your maidservant exactly what to say.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.18|<< 2 Samuel 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.20|2 Samuel 14:20 >>]]</td></tr></table>
 
 | Translation | Greek |

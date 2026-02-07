@@ -1,12 +1,12 @@
-**Luke 5:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:10**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And so [was] also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men.
 <small><sub>**BSB:**</sub></small>
 and so were his partners James and John, the sons of Zebedee. “Do not be afraid,” Jesus said to Simon. “From now on you will catch men.”
 <small><sub>**Literal:**</sub></small>
 likewise now also James and John [the] sons of Zebedee, who were partners <the> with Simon. And said to <the> Simon <the> Jesus; Not do fear; from <the> now on men you will be catching.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.9|<< Luke 5:9]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.11|Luke 5:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | likewise |**<big>[[G3668\|ὁμοίως]]</big>**  |homoiōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

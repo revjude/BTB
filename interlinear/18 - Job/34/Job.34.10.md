@@ -1,4 +1,4 @@
-**Job 34:10** 
+**Job 34:10**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore hearken unto me, ye men of understanding: far be it from God, [that he should do] wickedness; and [from] the Almighty, [that he should commit] iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore listen to me, O men of understanding. Far be it from God to do wrong, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.9|<< Job 34:9]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.11|Job 34:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֤ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O people of  |**<big>&#8207;[[H0582\|אַ֥נֲשֵׁ֥י]]&#8207; </big>**| 'a.na.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

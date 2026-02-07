@@ -1,12 +1,12 @@
-**Mark 14:51
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:51**<big><big>[[Mark.14.43 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there followed him a certain young man, having a linen cloth cast about [his] naked [body]; and the young men laid hold on him:
 <small><sub>**BSB:**</sub></small>
 One young man who had been following Jesus was wearing a linen cloth around his body. They caught hold of him,
 <small><sub>**Literal:**</sub></small>
 And one young man certain was accompanying Him having himself cast a linen cloth about [his] naked [body], and they seize him <the> young men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.50|<< Mark 14:50]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.52|Mark 14:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | one |**<big>[[G1520\|εἷς]]</big>**  |heis <small><sup>[[A-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

@@ -1,16 +1,16 @@
 (KJV) **Judges 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9|<< Judges 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11|Judges 11 >>]]</td></tr></table>
 
-***Tola*** ^bsb627
+<big><big>[[Judg.10.1 Tola|⥃]]</big></big>***Tola***
 
  $\quad$ <span class="startversemarker">[</span>**[[Judg.10.1|1]]**<span class="endversemarker">]</span> And after Abimelech there arose<small><small>[^2]</small></small> to defend<small><small>[^3]</small></small> Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir<small><small>[^4]</small></small> in mount Ephraim.<small><small>[^5]</small></small> <span class="startversemarker">[</span>**[[Judg.10.2|2]]**<span class="endversemarker">]</span> And he judged Israel twenty and three years, and died, and was buried in Shamir.
 
-***Jair*** ^bsb628
+<big><big>[[Judg.10.3 Jair|⥃]]</big></big>***Jair***
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Judg.10.3|3]]**<span class="endversemarker">]</span> [¶]And after him arose Jair, a Gileadite<small><small>[^6]</small></small>, and judged Israel twenty and two years.<small><small>[^7]</small></small> <span class="startversemarker">[</span>**[[Judg.10.4|4]]**<span class="endversemarker">]</span> And he had thirty sons that rode<small><small>[^8]</small></small> on thirty ass colts, and they had thirty cities, which are called<small><small>[^9]</small></small> Havoth–jair<small><small>[^10]</small></small> unto this day, which \[are\] in the land of Gilead. <span class="startversemarker">[</span>**[[Judg.10.5|5]]**<span class="endversemarker">]</span> And Jair died, and was buried in Camon.
 
-***Oppression by the Philistines and Ammonites*** ^bsb629
+<big><big>[[Judg.10.6 Oppression by the Philistines and Ammonites|⥃]]</big></big>***Oppression by the Philistines and Ammonites***
 
  
 

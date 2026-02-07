@@ -1,4 +1,4 @@
-**Isaiah 45:13** 
+**Isaiah 45:13**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have raised him up in righteousness, and I will direct all his ways: he shall build my city, and he shall let go my captives, not for price nor reward, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will raise up Cyrus in righteousness, and I will make all his ways straight. H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.12|<< Isaiah 45:12]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.14|Isaiah 45:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִי֙]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have stirred up him  |**<big>&#8207;[[H5782\|הַעִירֹתִ֣]]&#8207;&#8207;[[H9033\|הֽוּ]]&#8207; </big>**| ha.'i.ro.Ti.<small><sup>[[HVhp1cs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

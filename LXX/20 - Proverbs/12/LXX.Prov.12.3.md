@@ -1,10 +1,7 @@
 **LXX Proverbs 12:3** 
 <small><sub>**LXX:**</sub></small>
 A man will not keep straight by a lawless deed; but the roots of the just shall not be lifted away. 
-<small><sub>**KJV:**</sub></small>
-A man shall not be established by wickedness: but the root of the righteous shall not be moved.
-<small><sub>**BSB:**</sub></small>
-A man cannot be established through wickedness, but the righteous cannot be uprooted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.2|<< Proverbs 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.4|Proverbs 12:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 2:23** 
+**Exodus 2:23**<big><big>[[Exod.2.23 God Hears the Cry of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in process of time, that the king of Egypt died: and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After a long time, the king of Egypt died. The Israelites groaned and cried out 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.22|<< Exodus 2:22]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.24|Exodus 2:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the days  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יָּמִ֨ים]]&#8207; </big>**| va<small><sup>[[HRd]]</sup></small> i.ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Daniel 6:24** 
 <small><sub>**LXX:**</sub></small>
 And the king spoke, and they led the men, the ones accusing  Daniel, and they put them into the pit of the lions, and  their sons, and  their wives. And they did not come unto the floor of the pit before  the lions dominated them, and made fine all of their bones. 
-<small><sub>**KJV:**</sub></small>
-And the king commanded, and they brought those men which had accused Daniel, and they cast [them] into the den of lions, them, their children, and their wives; and the lions had the mastery of them, and brake all their bones in pieces or ever they came at the bottom of the den.
-<small><sub>**BSB:**</sub></small>
-At the command of the king, the men who had falsely accused Daniel were brought and thrown into the den of lions—they and their children and wives. And before they had reached the bottom of the den, the lions overpowered them and crushed all their bones.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.23|<< Daniel 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.25|Daniel 6:25 >>]]</td></tr></table>
 
 | Translation | Greek |

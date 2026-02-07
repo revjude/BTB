@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Speak \[to\] your brethren, My People, and \[to\] your sister, Being Shown Mercy! 
-<small><sub>**KJV:**</sub></small>
-Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.
-<small><sub>**BSB:**</sub></small>
-“Say of your brothers, ‘My people,’ and of your sisters, ‘My loved one.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.1.11|<< Hosea 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.2|Hosea 2:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hosea 2:1** is...

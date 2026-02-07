@@ -1,10 +1,7 @@
 **LXX Judges 20:36** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Benjamin beheld that they were put to flight. And \[the\] man of Israel gave  place to Benjamin, for they hoped upon the ambush which they arranged near  Gibeah. 
-<small><sub>**KJV:**</sub></small>
-So the children of Benjamin saw that they were smitten: for the men of Israel gave place to the Benjamites, because they trusted unto the liers in wait which they had set beside Gibeah.
-<small><sub>**BSB:**</sub></small>
-Then the Benjamites realized they had been defeated. Now the men of Israel had retreated before Benjamin because they were relying on the ambush they had set against Gibeah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.35|<< Judges 20:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.37|Judges 20:37 >>]]</td></tr></table>
 
 | Translation | Greek |

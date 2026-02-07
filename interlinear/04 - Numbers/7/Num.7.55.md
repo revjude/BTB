@@ -1,4 +1,4 @@
-**Numbers 7:55** 
+**Numbers 7:55**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His offering [was] one silver charger of the weight of an hundred and thirty [shekels], one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His offering was one silver platter weighing a hundred and thirty shekels, and o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.54|<< Numbers 7:54]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.56|Numbers 7:56 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | offering his  |**<big>&#8207;[[H7133A\|קָרְבָּנ֞]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ka.re.ba.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] a dish of  |**<big>&#8207;[[H7086\|קַֽעֲרַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ka.'a.rat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

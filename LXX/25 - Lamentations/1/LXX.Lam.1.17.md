@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΦΗ</p>
 
 Zion opened and spread out her hands; there is no one  comforting her. \[The\] <span class="smallcaps">lord</span> gave charge to Jacob; round about him \[are\] the ones afflicting him. Jerusalem was as a woman sitting apart \[unclean\] in the midst of them. 
-<small><sub>**KJV:**</sub></small>
-Zion spreadeth forth her hands, [and there is] none to comfort her: the LORD hath commanded concerning Jacob, [that] his adversaries [should be] round about him: Jerusalem is as a menstruous woman among them.
-<small><sub>**BSB:**</sub></small>
-Zion stretches out her hands, but there is no one to comfort her. The LORD has decreed against Jacob that his neighbors become his foes. Jerusalem has become an unclean thing among them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.16|<< Lamentations 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.18|Lamentations 1:18 >>]]</td></tr></table>
 
 | Translation | Greek |

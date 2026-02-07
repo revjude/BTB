@@ -1,4 +1,4 @@
-**Psalms 102:4** (102:5)
+**Psalms 102:4**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My heart is smitten, and withered like grass; so that I forget to eat my bread.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My heart is afflicted, and withered like grass; I even forget to eat my bread.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.3|<< Psalms 102:3]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.5|Psalms 102:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has been struck  |**<big>&#8207;[[H5221\|הוּכָּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hu.kah-<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> vegetation  |**<big>&#8207;[[H9004\|כָ֭]]&#8207;&#8207;[[H6212\|עֵשֶׂב]]&#8207; </big>**| Kha.<small><sup>[[HRd]]</sup></small> 'e.sev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

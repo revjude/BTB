@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:20** 
 <small><sub>**LXX:**</sub></small>
 And now fall my blood not upon the ground right opposite \[the\] face of \[the\] <span class="smallcaps">lord</span>, that the king of Israel has come forth to seek one flea, as the long-eared owl pursues \[prey\] in the mountains. 
-<small><sub>**KJV:**</sub></small>
-Now therefore, let not my blood fall to the earth before the face of the LORD: for the king of Israel is come out to seek a flea, as when one doth hunt a partridge in the mountains.
-<small><sub>**BSB:**</sub></small>
-So do not let my blood fall to the ground far from the presence of the LORD. For the king of Israel has come out to look for a flea, like one who hunts a partridge in the mountains.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.19|<< 1 Samuel 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.21|1 Samuel 26:21 >>]]</td></tr></table>
 
 | Translation | Greek |

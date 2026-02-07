@@ -1,4 +1,4 @@
-**1 Chronicles 26:26** 
+**1 Chronicles 26:26**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which Shelomith and his brethren [were] over all the treasures of the dedicated things, which David the king, and the chief fathers, the captains over thousands and hundreds, and the captains of the host, had dedicated.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This Shelomith and his brothers were in charge of all the treasuries for the thi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.25|<< 1 Chronicles 26:25]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.27|1 Chronicles 26:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H1931\|ה֧וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shelomoth  |**<big>&#8207;[[H8013H\|שְׁלֹמ֣וֹת]]&#8207; </big>**| she.lo.Mot<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

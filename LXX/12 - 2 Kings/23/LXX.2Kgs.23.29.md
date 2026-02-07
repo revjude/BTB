@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In  his days ascended Pharaoh Necho king of Egypt against \[the\] king of the Assyrians at the river Euphrates. And Josiah the king went for a meeting against him. And Necho killed him in Megiddo, in  his seeing him. 
-<small><sub>**KJV:**</sub></small>
-In his days Pharaohnechoh king of Egypt went up against the king of Assyria to the river Euphrates: and king Josiah went against him; and he slew him at Megiddo, when he had seen him.
-<small><sub>**BSB:**</sub></small>
-During Josiah’s reign, Pharaoh Neco king of Egypt marched up to help the king of Assyria at the Euphrates River. King Josiah went out to confront him, but Neco faced him and killed him at Megiddo.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.28|<< 2 Kings 23:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.30|2 Kings 23:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 36:23** 
+**Ezekiel 36:23**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will sanctify my great name, which was profaned among the heathen, which ye have profaned in the midst of them; and the heathen shall know that I [am] the LORD, saith the Lord GOD, when I shall be sanctified in you before their eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will show the holiness of My great name, which has been profaned among the nat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.22|<< Ezekiel 36:22]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.24|Ezekiel 36:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will show holy  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6942K\|קִדַּשְׁתִּ֞י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ki.dash.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

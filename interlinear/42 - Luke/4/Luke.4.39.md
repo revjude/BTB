@@ -1,12 +1,12 @@
-**Luke 4:39
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:39**<big><big>[[Luke.4.38 Jesus Heals at Peter’s House|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he stood over her, and rebuked the fever; and it left her: and immediately she arose and ministered unto them.
 <small><sub>**BSB:**</sub></small>
 and He stood over her and rebuked the fever, and it left her. And she got up at once and began to serve them.
 <small><sub>**Literal:**</sub></small>
 And having stood over her He rebuked the fever, and it left her; immediately then having arisen she was serving them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.38|<< Luke 4:38]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.40|Luke 4:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having stood |**<big>[[G2186\|ἐπιστὰς]]</big>**  |epistas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

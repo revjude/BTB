@@ -1,4 +1,4 @@
-**Jeremiah 50:2** 
+**Jeremiah 50:2**<big><big>[[Jer.50.1 A Prophecy against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Declare ye among the nations, and publish, and set up a standard; publish, [and] conceal not: say, Babylon is taken, Bel is confounded, Merodach is broken in pieces; her idols are confounded, her images are broken in pieces.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Declare ye among the nations, and publish, and set up a standard; publish, [and]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.1|<< Jeremiah 50:1]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.3|Jeremiah 50:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | declare  |**<big>&#8207;[[H5046\|הַגִּ֨ידוּ]]&#8207; </big>**| ha.Gi.du<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among the nations  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1471A\|גּוֹיִ֤ם]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 35:28** 
+**Exodus 35:28**<big><big>[[Exod.35.20 The People Offer Gifts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And spice, and oil for the light, and for the anointing oil, and for the sweet incense.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ as well as spices and olive oil for the light, for the anointing oil, and for th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.27|<< Exodus 35:27]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.29|Exodus 35:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the spice  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1314\|בֹּ֖שֶׂם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Bo.sem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

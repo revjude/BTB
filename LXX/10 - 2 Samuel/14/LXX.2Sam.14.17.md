@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:17** 
 <small><sub>**LXX:**</sub></small>
 And said  your maidservant, Let indeed the word  of my master the king be as an \[accepted\] sacrifice. For as a messenger of God, thus \[is\]  my master the king,  to hear the good and the bad; and \[the\] <span class="smallcaps">lord</span>  your God will be with you. 
-<small><sub>**KJV:**</sub></small>
-Then thine handmaid said, The word of my lord the king shall now be comfortable: for as an angel of God, so [is] my lord the king to discern good and bad: therefore the LORD thy God will be with thee.
-<small><sub>**BSB:**</sub></small>
-And now your servant says, ‘May the word of my lord the king bring me rest, for my lord the king is able to discern good and evil, just like the angel of God. May the LORD your God be with you.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.16|<< 2 Samuel 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.18|2 Samuel 14:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 8:7** 
+**Job 8:7**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though thy beginning was small, yet thy latter end should greatly increase.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though your beginnings were modest, your latter days will flourish.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.6|<< Job 8:6]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.8|Job 8:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | beginning your  |**<big>&#8207;[[H7225G\|רֵאשִׁיתְ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| re.shi.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

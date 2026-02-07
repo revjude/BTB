@@ -1,4 +1,4 @@
-**Jeremiah 31:5** 
+**Jeremiah 31:5**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt yet plant vines upon the mountains of Samaria: the planters shall plant, and shall eat [them] as common things.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Again you will plant vineyards on the hills of Samaria; the farmers will plant a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.4|<< Jeremiah 31:4]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.6|Jeremiah 31:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | again  |**<big>&#8207;[[H5750\|ע֚וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will plant  |**<big>&#8207;[[H5193\|תִּטְּעִ֣י]]&#8207; </big>**| ti.te.'I<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

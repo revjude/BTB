@@ -1,10 +1,7 @@
 **LXX Psalm 38:21** 
 <small><sub>**LXX:**</sub></small>
 You should not abandon me, O <span class="smallcaps">lord</span>  my God; you should not separate from me. 
-<small><sub>**KJV:**</sub></small>
-Forsake me not, O LORD: O my God, be not far from me.
-<small><sub>**BSB:**</sub></small>
-Do not forsake me, O LORD; be not far from me, O my God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.38.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.38.20|<< Psalm 38:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.38.22|Psalm 38:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:27** 
 <small><sub>**LXX:**</sub></small>
 And from the borders of the ones of Zebulun, from the \[borders\] towards \[the\] east, unto the \[borders\] towards \[the\] west -- Gad, one \[portion\]. 
-<small><sub>**KJV:**</sub></small>
-And by the border of Zebulun, from the east side unto the west side, Gad a [portion].
-<small><sub>**BSB:**</sub></small>
-And Gad will have one portion bordering the territory of Zebulun from east to west.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.26|<< Ezekiel 48:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.28|Ezekiel 48:28 >>]]</td></tr></table>
 
 | Translation | Greek |

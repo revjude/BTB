@@ -1,12 +1,12 @@
-**Matthew 27:49
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:49**<big><big>[[Matt.27.45 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The rest said, Let be, let us see whether Elias will come to save him.
 <small><sub>**BSB:**</sub></small>
 But the others said, “Leave Him alone. Let us see if Elijah comes to save Him.”
 <small><sub>**Literal:**</sub></small>
 <the> And the rest were saying; Wait! let us see whether comes Elijah to then save Him. another now having taken a spear pierced of him <the> side and went out water and blood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.48|<< Matthew 27:48]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.50|Matthew 27:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

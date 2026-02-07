@@ -1,10 +1,7 @@
 **LXX Genesis 40:20** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the third day, \[that\] it was \[the\] birth day of Pharaoh, and he made a banquet for all  his servants, and he remembered \[concerning\] the chief wine taster, and the office of the chief baker in \[the\] midst  of his servants. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass the third day, [which was] Pharaoh’s birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants.
-<small><sub>**BSB:**</sub></small>
-On the third day, which was Pharaoh’s birthday, he held a feast for all his officials, and in their presence he lifted up the heads of the chief cupbearer and the chief baker.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.19|<< Genesis 40:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.21|Genesis 40:21 >>]]</td></tr></table>
 
 | Translation | Greek |

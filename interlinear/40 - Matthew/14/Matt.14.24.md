@@ -1,12 +1,12 @@
-**Matthew 14:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:24**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the ship was now in the midst of the sea, tossed with waves: for the wind was contrary.
 <small><sub>**BSB:**</sub></small>
 but the boat was already far from land, buffeted by the waves because the wind was against it.
 <small><sub>**Literal:**</sub></small>
 <the> And the boat now stadia many from of the land was fully being tossed by the waves; was for contrary [was] the wind.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.23|<< Matthew 14:23]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.25|Matthew 14:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

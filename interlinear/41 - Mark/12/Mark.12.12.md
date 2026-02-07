@@ -1,12 +1,12 @@
-**Mark 12:12
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:12**<big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they sought to lay hold on him, but feared the people: for they knew that he had spoken the parable against them: and they left him, and went their way.
 <small><sub>**BSB:**</sub></small>
 At this, the leaders sought to arrest Jesus, for they knew that He had spoken this parable against them. But fearing the crowd, they left Him and went away.
 <small><sub>**Literal:**</sub></small>
 And they were seeking Him to lay hold of and they feared the crowd; they knew for that against them the parable He had spoken. And having left Him they went away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.11|<< Mark 12:11]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.13|Mark 12:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were seeking |**<big>[[G2212\|ἐζήτουν]]</big>**  |ezētoun <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:31** 
 <small><sub>**LXX:**</sub></small>
 And he said, Thus God do to me, and thus add more, if the head of Elisha son of Shaphat shall stand upon him today. 
-<small><sub>**KJV:**</sub></small>
-Then he said, God do so and more also to me, if the head of Elisha the son of Shaphat shall stand on him this day.
-<small><sub>**BSB:**</sub></small>
-He announced, “May God punish me, and ever so severely, if the head of Elisha son of Shaphat remains on his shoulders through this day!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.30|<< 2 Kings 6:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.32|2 Kings 6:32 >>]]</td></tr></table>
 
 | Translation | Greek |

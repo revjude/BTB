@@ -1,12 +1,12 @@
-**John 1:28
-**<small><sub>**KJV:**</sub></small>
+**John 1:28**<big><big>[[John.1.19 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These things were done in Bethabara beyond Jordan, where John was baptizing.
 <small><sub>**BSB:**</sub></small>
 All this happened at Bethany beyond the Jordan, where John was baptizing.
 <small><sub>**Literal:**</sub></small>
 These things in Bethany took place across the Jordan where was <the> John baptizing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.27|<< John 1:27]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.29|John 1:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

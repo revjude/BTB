@@ -1,4 +1,4 @@
-**Joshua 24:8** 
+**Joshua 24:8**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I brought you into the land of the Amorites, which dwelt on the other side Jordan; and they fought with you: and I gave them into your hand, that ye might possess their land; and I destroyed them from before you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Later, I brought you to the land of the Amorites who lived beyond the Jordan. Th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.7|<< Joshua 24:7]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.9|Joshua 24:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I brought  [^2]|**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0935P\|אָבִ֣יא]]&#8207; </big>**[^3] | va.<small><sup>[[Hc]]</sup></small> 'a.vi.'a'<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶ֗ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

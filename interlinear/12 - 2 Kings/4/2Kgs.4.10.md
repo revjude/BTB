@@ -1,4 +1,4 @@
-**2 Kings 4:10** 
+**2 Kings 4:10**<big><big>[[2Kgs.4.8 The Shunammite Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let us make a little chamber, I pray thee, on the wall; and let us set for him there a bed, and a table, and a stool, and a candlestick: and it shall be, when he cometh to us, that he shall turn in thither.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Please let us make a small room upstairs and put in it a bed, a table, a chair, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.9|<< 2 Kings 4:9]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.11|2 Kings 4:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let us make  |**<big>&#8207;[[H6213H\|נַֽעֲשֶׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| na.'a.seh-<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָּ֤א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

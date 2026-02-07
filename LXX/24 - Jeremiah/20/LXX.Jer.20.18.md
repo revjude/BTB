@@ -1,10 +1,7 @@
 **LXX Jeremiah 20:18** 
 <small><sub>**LXX:**</sub></small>
 Why \[is\] this that I came forth from out of \[the\] womb  to see toils and miseries; and my days continue in shame? 
-<small><sub>**KJV:**</sub></small>
-Wherefore came I forth out of the womb to see labour and sorrow, that my days should be consumed with shame?
-<small><sub>**BSB:**</sub></small>
-Why did I come out of the womb to see only trouble and sorrow, and to end my days in shame?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.20.17|<< Jeremiah 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.21.1|Jeremiah 21:1 >>]]</td></tr></table>
 
 | Translation | Greek |

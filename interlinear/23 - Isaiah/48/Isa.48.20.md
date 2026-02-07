@@ -1,4 +1,4 @@
-**Isaiah 48:20** 
+**Isaiah 48:20**<big><big>[[Isa.48.12 Deliverance Promised to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it [even] to the end of the earth; say ye, The LORD hath redeemed his servant Jacob.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Leave Babylon! Flee from the Chaldeans! Declare it with a shout of joy, proclaim
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.19|<< Isaiah 48:19]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.21|Isaiah 48:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go out  |**<big>&#8207;[[H3318G\|צְא֣וּ]]&#8207; </big>**| tze.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Babylon  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0894\|בָּבֶל֮]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

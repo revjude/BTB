@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Solomon completed constructing the house of \[the\] <span class="smallcaps">lord</span>, and the house of the king, and all the matters of Solomon, as many \[things\] as he wanted to do, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Solomon had finished the building of the house of the LORD, and the king’s house, and all Solomon’s desire which he was pleased to do,
-<small><sub>**BSB:**</sub></small>
-Now when Solomon had finished building the house of the LORD and the royal palace, and had achieved all that he had desired to do,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.66|<< 1 Kings 8:66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.2|1 Kings 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 1:34
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:34**<big><big>[[Mark.1.29 Jesus Heals at Peter’s House|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him.
 <small><sub>**BSB:**</sub></small>
 And He healed many who were ill with various diseases and drove out many demons. But He would not allow the demons to speak, because they knew who He was.
 <small><sub>**Literal:**</sub></small>
 And He healed many sick being of various diseases and demons many He cast out And not He was allowing to speak the demons because they knew Him Christ to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.33|<< Mark 1:33]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.35|Mark 1:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He healed |**<big>[[G2323\|ἐθεράπευσεν]]</big>**  |etherapeusen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Ezekiel 31:16** 
+**Ezekiel 31:16**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I made the nations to shake at the sound of his fall, when I cast him down to hell with them that descend into the pit: and all the trees of Eden, the choice and best of Lebanon, all that drink water, shall be comforted in the nether parts of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I made the nations quake at the sound of its downfall, when I cast it down to Sh
 > $\quad$ related to: [[Isa.14.8|Isa 14:8-9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] sound of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6963H\|קּ֤וֹל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | downfall its  |**<big>&#8207;[[H4658\|מַפַּלְתּ]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| ma.pal.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

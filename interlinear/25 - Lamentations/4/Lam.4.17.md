@@ -1,4 +1,4 @@
-**Lamentations 4:17** 
+**Lamentations 4:17**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation [that] could not save [us].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the while our eyes were failing as we looked in vain for help. We watched fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.16|<< Lamentations 4:16]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.18|Lamentations 4:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | yet we  [^2]|**<big>&#8207;[[H5750\|עוֹדֵ֙י]]&#8207;&#8207;[[H9045\|נוּ֙]]&#8207; </big>**[^3] | o.dei.<small><sup>[[HAcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | they failed  |**<big>&#8207;[[H3615J\|תִּכְלֶ֣ינָה]]&#8207; </big>**| tikh.Lei.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

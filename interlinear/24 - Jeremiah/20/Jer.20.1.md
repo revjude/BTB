@@ -1,4 +1,4 @@
-**Jeremiah 20:1** 
+**Jeremiah 20:1**<big><big>[[Jer.20.1 Pashhur Persecutes Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Pashur the son of Immer the priest, who [was] also chief governor in the house of the LORD, heard that Jeremiah prophesied these things.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Pashhur the priest, the son of Immer and the chief official in the house of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.15|<< Jeremiah 19:15]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.2|Jeremiah 20:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַ֤ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pashhur  |**<big>&#8207;[[H6583I\|פַּשְׁחוּר֙]]&#8207; </big>**| pash.Chur<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:9** 
 <small><sub>**LXX:**</sub></small>
 Mount upon the horses and prepare the chariots! Let come forth the warriors of Ethiopia, and Libyans armed with shields! And ascend, O Lydians, stretch tight \[the\] bow! 
-<small><sub>**KJV:**</sub></small>
-Come up, ye horses; and rage, ye chariots; and let the mighty men come forth; the Ethiopians and the Libyans, that handle the shield; and the Lydians, that handle [and] bend the bow.
-<small><sub>**BSB:**</sub></small>
-Advance, O horses! Race furiously, O chariots! Let the warriors come forth—Cush and Put carrying their shields, men of Lydia drawing the bow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.8|<< Jeremiah 46:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.10|Jeremiah 46:10 >>]]</td></tr></table>
 
 | Translation | Greek |

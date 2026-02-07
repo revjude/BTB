@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:31** 
 <small><sub>**LXX:**</sub></small>
 And they shall shave because of you unto baldness; and they shall gird on sackcloth, and shall weep over you in bitterness of life, even lamenting bitterly. 
-<small><sub>**KJV:**</sub></small>
-And they shall make themselves utterly bald for thee, and gird them with sackcloth, and they shall weep for thee with bitterness of heart [and] bitter wailing.
-<small><sub>**BSB:**</sub></small>
-They will shave their heads for you and wrap themselves in sackcloth. They will weep over you with anguish of soul and bitter mourning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.30|<< Ezekiel 27:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.32|Ezekiel 27:32 >>]]</td></tr></table>
 
 | Translation | Greek |

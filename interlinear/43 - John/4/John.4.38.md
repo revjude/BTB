@@ -1,12 +1,12 @@
-**John 4:38
-**<small><sub>**KJV:**</sub></small>
+**John 4:38**<big><big>[[John.4.27 The Disciples Return and Marvel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I sent you to reap that whereon ye bestowed no labour: other men laboured, and ye are entered into their labours.
 <small><sub>**BSB:**</sub></small>
 I sent you to reap what you have not worked for; others have done the hard work, and now you have taken up their labor.”
 <small><sub>**Literal:**</sub></small>
 I myself sent you to reap what not you yourselves have toiled for; others have toiled, and you yourselves into the labor of them have entered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.37|<< John 4:37]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.39|John 4:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | sent |**<big>[[G0649\|ἀπέστειλα]]</big>**  |apesteila <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

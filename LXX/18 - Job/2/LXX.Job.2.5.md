@@ -1,10 +1,7 @@
 **LXX Job 2:5** 
 <small><sub>**LXX:**</sub></small>
  But in fact, but you send  your hand to touch  his bones and  his flesh, assuredly he will rave in your face. 
-<small><sub>**KJV:**</sub></small>
-But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face.
-<small><sub>**BSB:**</sub></small>
-But stretch out Your hand and strike his flesh and bones, and he will surely curse You to Your face.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.4|<< Job 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.6|Job 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

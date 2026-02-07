@@ -1,4 +1,4 @@
-**2 Chronicles 32:28** 
+**2 Chronicles 32:28**<big><big>[[2Chr.32.24 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Storehouses also for the increase of corn, and wine, and oil; and stalls for all manner of beasts, and cotes for flocks.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also made storehouses for the harvest of grain and new wine and oil, stalls f
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.27|<< 2 Chronicles 32:27]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.29|2 Chronicles 32:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and storehouses  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4543\|מִ֨סְכְּנ֔וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mis.ke.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for [the] yield of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8393\|תְבוּאַ֥ת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> t.vu.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

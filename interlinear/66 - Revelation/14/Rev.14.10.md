@@ -1,5 +1,5 @@
-**Revelation 14:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:10**<big><big>[[Rev.14.6 The Three Angels and Babylon’s Fall|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The same shall drink of the wine of the wrath of God, which is poured out without mixture into the cup of his indignation; and he shall be tormented with fire and brimstone in the presence of the holy angels, and in the presence of the Lamb:
 <small><sub>**BSB:**</sub></small>
 he too will drink the wine of God’s anger, poured undiluted into the cup of His wrath. And he will be tormented in fire and sulfur in the presence of the holy angels and of the Lamb.
@@ -11,7 +11,7 @@ also he himself will drink of the wine of the anger <the> of God which mixed und
 > $\quad$ alluding to: [[LXX.Isa.51.22|Isa 51:22]] ☩ [[LXX.Jer.25.15|Jer 25:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:12** 
 <small><sub>**LXX:**</sub></small>
 And he removed the mystic rites from the land, and sent out all the practices which his fathers did. 
-<small><sub>**KJV:**</sub></small>
-And he took away the sodomites out of the land, and removed all the idols that his fathers had made.
-<small><sub>**BSB:**</sub></small>
-He banished the male shrine prostitutes from the land and removed all the idols that his fathers had made.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.11|<< 1 Kings 15:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.13|1 Kings 15:13 >>]]</td></tr></table>
 
 | Translation | Greek |

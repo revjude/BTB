@@ -1,4 +1,4 @@
-**Deuteronomy 8:12** 
+**Deuteronomy 8:12**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest [when] thou hast eaten and art full, and hast built goodly houses, and dwelt [therein];
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Otherwise, when you eat and are satisfied, when you build fine houses in which t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.11|<< Deuteronomy 8:11]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.13|Deuteronomy 8:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lest  |**<big>&#8207;[[H6435\|פֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you should eat  |**<big>&#8207;[[H0398\|תֹּאכַ֖ל]]&#8207; </big>**| to.Khal<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

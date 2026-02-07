@@ -1,4 +1,4 @@
-**Psalms 77:7** (77:8)
+**Psalms 77:7**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will the Lord cast off for ever? and will he be favourable no more?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will the Lord cast off for ever? and will he be favourable no more?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.6|<< Psalms 77:6]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.8|Psalms 77:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ to forever  |**<big>&#8207;[[H9008\|הַֽ֭]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָמִים]]&#8207; </big>**| Ha<small><sup>[[HTi]]</sup></small> l.<small><sup>[[HR]]</sup></small> 'o.la.mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he reject  |**<big>&#8207;[[H2186A\|יִזְנַ֥ח]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yiz.Nach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

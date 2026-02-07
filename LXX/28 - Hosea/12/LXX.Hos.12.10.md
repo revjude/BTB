@@ -1,10 +1,7 @@
 **LXX Hosea 12:10** 
 <small><sub>**LXX:**</sub></small>
 And I will speak by prophets, and I multiplied visions, and by \[the\] hands of prophets I was likened. 
-<small><sub>**KJV:**</sub></small>
-I have also spoken by the prophets, and I have multiplied visions, and used similitudes, by the ministry of the prophets.
-<small><sub>**BSB:**</sub></small>
-I spoke through the prophets and multiplied their visions; I gave parables through the prophets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.9|<< Hosea 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.11|Hosea 12:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 18:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:4**<big><big>[[Acts.18.1 Paul Ministers in Corinth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
 <small><sub>**BSB:**</sub></small>
 Every Sabbath he reasoned in the synagogue, trying to persuade Jews and Greeks alike.
 <small><sub>**Literal:**</sub></small>
 he was reasoning now in the synagogue on every Sabbath, was persuading both Jews and Greeks.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.3|<< Acts 18:3]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.5|Acts 18:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he was reasoning |**<big>[[G1256\|διελέγετο]]</big>**  |dielegeto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 3:32
-**<small><sub>**KJV:**</sub></small>
+**Luke 3:32**<big><big>[[Luke.3.23 The Genealogy of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which was [the son] of Jesse, which was [the son] of Obed, which was [the son] of Booz, which was [the son] of Salmon, which was [the son] of Naasson,
 <small><sub>**BSB:**</sub></small>
 the son of Jesse, the son of Obed, the son of Boaz, the son of Sala, the son of Nahshon,
 <small><sub>**Literal:**</sub></small>
 <the> of Jesse <the> of Obed <the> of Boaz <the> of Sala <the> of Nahshon<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.31|<< Luke 3:31]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.33|Luke 3:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of Jesse |**<big>[[G2421\|Ἰεσσαὶ]]</big>**  |Iessai <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

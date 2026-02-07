@@ -1,10 +1,7 @@
 **LXX Job 7:10** 
 <small><sub>**LXX:**</sub></small>
 \[and\] neither in any way shall he return unto  \[his\] own house, nor recognize his place in any way him any more. 
-<small><sub>**KJV:**</sub></small>
-He shall return no more to his house, neither shall his place know him any more.
-<small><sub>**BSB:**</sub></small>
-He never returns to his house; his place remembers him no more.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.9|<< Job 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.11|Job 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

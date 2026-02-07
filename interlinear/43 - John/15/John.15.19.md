@@ -1,12 +1,12 @@
-**John 15:19
-**<small><sub>**KJV:**</sub></small>
+**John 15:19**<big><big>[[John.15.18 The Hatred of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you.
 <small><sub>**BSB:**</sub></small>
 If you were of the world, it would love you as its own. Instead, the world hates you, because you are not of the world, but I have chosen you out of the world.
 <small><sub>**Literal:**</sub></small>
 If of the world you were, the world then would <the> [as its] own was loving [you]; because however of the world not you are, but I myself chose you out of the world, on account of this hates you the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.18|<< John 15:18]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.20|John 15:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

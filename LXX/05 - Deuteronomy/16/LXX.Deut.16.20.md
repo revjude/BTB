@@ -1,10 +1,7 @@
 **LXX Deuteronomy 16:20** 
 <small><sub>**LXX:**</sub></small>
 Justly  you shall pursue justice, that you should live, and entering you should inherit the land which \[the\] <span class="smallcaps">lord</span>  your God gives to you. 
-<small><sub>**KJV:**</sub></small>
-That which is altogether just shalt thou follow, that thou mayest live, and inherit the land which the LORD thy God giveth thee.
-<small><sub>**BSB:**</sub></small>
-Pursue justice, and justice alone, so that you may live, and you may possess the land that the LORD your God is giving you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.19|<< Deuteronomy 16:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.21|Deuteronomy 16:21 >>]]</td></tr></table>
 
 | Translation | Greek |

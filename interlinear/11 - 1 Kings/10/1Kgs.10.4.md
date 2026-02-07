@@ -1,4 +1,4 @@
-**1 Kings 10:4** 
+**1 Kings 10:4**<big><big>[[1Kgs.10.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the queen of Sheba had seen all Solomon’s wisdom, and the house that he had built,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the queen of Sheba saw all the wisdom of Solomon, the palace he had built,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.3|<< 1 Kings 10:3]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.5|1 Kings 10:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|תֵּ֙רֶא֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.re'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] queen of  |**<big>&#8207;[[H4436G\|מַֽלְכַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mal.kat-<small><sup>[[HNtfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

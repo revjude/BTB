@@ -1,4 +1,4 @@
-**2 Chronicles 20:29** 
+**2 Chronicles 20:29**<big><big>[[2Chr.20.26 The Joyful Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the fear of God was on all the kingdoms of [those] countries, when they had heard that the LORD fought against the enemies of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the fear of God came upon all the kingdoms of the lands when they heard that
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.28|<< 2 Chronicles 20:28]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.30|2 Chronicles 20:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] dread of  |**<big>&#8207;[[H6343\|פַּ֣חַד]]&#8207; </big>**| Pa.chad<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

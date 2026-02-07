@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:2** 
 <small><sub>**LXX:**</sub></small>
 O son of man, Describe a tale, and speak a parable to the house  of Israel! 
-<small><sub>**KJV:**</sub></small>
-Son of man, put forth a riddle, and speak a parable unto the house of Israel;
-<small><sub>**BSB:**</sub></small>
-“Son of man, pose a riddle; speak a parable to the house of Israel<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.1|<< Ezekiel 17:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.3|Ezekiel 17:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 22:7** 
+**2 Chronicles 22:7**<big><big>[[2Chr.22.1 Ahaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the destruction of Ahaziah was of God by coming to Joram: for when he was come, he went out with Jehoram against Jehu the son of Nimshi, whom the LORD had anointed to cut off the house of Ahab.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ahaziah’s downfall came from God when he went to visit Joram. When Ahaziah arr
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.22.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.22.6|<< 2 Chronicles 22:6]]</td><td align="center" style="border:none;">[[2Chr.22|2 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22.8|2 Chronicles 22:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from God  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H0430G\|אֱלֹהִ֗ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was  |**<big>&#8207;[[H1961\|הָיְתָה֙]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

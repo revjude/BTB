@@ -1,10 +1,7 @@
 **LXX Daniel 2:10** 
 <small><sub>**LXX:**</sub></small>
 Answered again the Chaldeans before the king, and they say, There is not a man upon the dry land who is able to make known the discourse of the king, in so far as every great king and ruler \[according to\] such matter asked not an enchanter, magus \[or\] Chaldean. 
-<small><sub>**KJV:**</sub></small>
-The Chaldeans answered before the king, and said, There is not a man upon the earth that can shew the king’s matter: therefore [there is] no king, lord, nor ruler, [that] asked such things at any magician, or astrologer, or Chaldean.
-<small><sub>**BSB:**</sub></small>
-The astrologers answered the king, “No one on earth can do what the king requests! No king, however great and powerful, has ever asked anything like this of any magician, enchanter, or astrologer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.9|<< Daniel 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.11|Daniel 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

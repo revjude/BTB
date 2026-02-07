@@ -1,4 +1,4 @@
-**Zephaniah 3:14** 
+**Zephaniah 3:14**<big><big>[[Zeph.3.14 Israel’s Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sing for joy, O Daughter of Zion; shout aloud, O Israel! Be glad and rejoice wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.13|<< Zephaniah 3:13]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.15|Zephaniah 3:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | shout for joy  |**<big>&#8207;[[H7442B\|רָנִּי֙]]&#8207; </big>**| ra.Ni<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

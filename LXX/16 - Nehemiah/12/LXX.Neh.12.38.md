@@ -1,10 +1,7 @@
 **LXX Nehemiah 12:38** 
 <small><sub>**LXX:**</sub></small>
 And for praise, the second \[group\] went forth to meet them, and I was behind them. And  half of the people \[were\] above the wall, up above the tower of the furnaces, and unto the broad wall, 
-<small><sub>**KJV:**</sub></small>
-And the other [company of them that gave] thanks went over against [them], and I after them, and the half of the people upon the wall, from beyond the tower of the furnaces even unto the broad wall;
-<small><sub>**BSB:**</sub></small>
-The second thanksgiving choir proceeded to the left, and I followed it with half the people along the top of the wall, past the Tower of the Ovens to the Broad Wall,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.37|<< Nehemiah 12:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.39|Nehemiah 12:39 >>]]</td></tr></table>
 
 | Translation | Greek |

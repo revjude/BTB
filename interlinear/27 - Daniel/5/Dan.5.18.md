@@ -1,4 +1,4 @@
-**Daniel 5:18** 
+**Daniel 5:18**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O thou king, the most high God gave Nebuchadnezzar thy father a kingdom, and majesty, and glory, and honour:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for you, O king, the Most High God gave your father Nebuchadnezzar sovereignt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.17|<< Daniel 5:17]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.19|Daniel 5:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0607\|אַ֖נְתְּ]]&#8207; </big>**[^1] [^2] | 'an.tah<small><sup>[[APp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | king O  |**<big>&#8207;[[H4430\|מַלְכָּ֑]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

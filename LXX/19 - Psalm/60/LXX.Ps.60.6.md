@@ -1,10 +1,7 @@
 **LXX Psalm 60:6** 
 <small><sub>**LXX:**</sub></small>
  God spoke in  his holy \[place\]; I will exult, and I will divide Shechem, and the valley of the tents I will measure out. 
-<small><sub>**KJV:**</sub></small>
-God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.
-<small><sub>**BSB:**</sub></small>
-God has spoken from His sanctuary: “I will triumph! I will parcel out Shechem and apportion the Valley of Succoth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.60.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.60.5|<< Psalm 60:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.60.7|Psalm 60:7 >>]]</td></tr></table>
 
 | Translation | Greek |

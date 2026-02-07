@@ -1,10 +1,7 @@
 **LXX Genesis 37:25** 
 <small><sub>**LXX:**</sub></small>
 And they sat to eat bread. And looking up with the eyes they saw. And behold, journeying Ishmaelites having come from Gilead, and  their camels full of incenses, and balm, and balsam. And they were going leading down into Egypt. 
-<small><sub>**KJV:**</sub></small>
-And they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a company of Ishmeelites came from Gilead with their camels bearing spicery and balm and myrrh, going to carry [it] down to Egypt.
-<small><sub>**BSB:**</sub></small>
-And as they sat down to eat a meal, they looked up and saw a caravan of Ishmaelites coming from Gilead. Their camels were carrying spices, balm, and myrrh on their way down to Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.24|<< Genesis 37:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.26|Genesis 37:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 44:17** 
+**Isaiah 44:17**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the residue thereof he maketh a god, [even] his graven image: he falleth down unto it, and worshippeth [it], and prayeth unto it, and saith, Deliver me; for thou [art] my god.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the rest he makes a god, his graven image. He bows down to it and worships;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.16|<< Isaiah 44:16]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.18|Isaiah 44:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] remainder of it  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7611\|שְׁאֵ֣רִית֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.'E.ri.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<into> a god  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0410K\|אֵ֥ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

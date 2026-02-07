@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:27** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> almighty,  God over  Israel. You uncovered the ear  of your servant, saying, I shall build for you a house. On account of this your servant found  his own heart  to pray to you  this prayer. 
-<small><sub>**KJV:**</sub></small>
-For thou, O LORD of hosts, God of Israel, hast revealed to thy servant, saying, I will build thee an house: therefore hath thy servant found in his heart to pray this prayer unto thee.
-<small><sub>**BSB:**</sub></small>
-For You, O LORD of Hosts, the God of Israel, have revealed this to Your servant when You said, ‘I will build a house for you.’ Therefore Your servant has found the courage to offer this prayer to You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.26|<< 2 Samuel 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.28|2 Samuel 7:28 >>]]</td></tr></table>
 
 | Translation | Greek |

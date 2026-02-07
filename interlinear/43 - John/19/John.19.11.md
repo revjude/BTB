@@ -1,12 +1,12 @@
-**John 19:11
-**<small><sub>**KJV:**</sub></small>
+**John 19:11**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered, Thou couldest have no power [at all] against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “You would have no authority over Me if it were not given to you from above. Therefore the one who handed Me over to you is guilty of greater sin.”
 <small><sub>**Literal:**</sub></small>
 Answered to him Jesus; Not you were having authority against Me none, only unless it were given to you from above; Because of this the [one] having betrayed Me to you greater sin has.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.10|<< John 19:10]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.12|John 19:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him [^1] [^2] |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:41** 
 <small><sub>**LXX:**</sub></small>
 And behold, every man of Israel came to the king. And they said to the king, Why \[is it\] that our brethren the men of Judah stole you, and the king and his household to pass over the Jordan, and all the men of David with him? 
-<small><sub>**KJV:**</sub></small>
-And, behold, all the men of Israel came to the king, and said unto the king, Why have our brethren the men of Judah stolen thee away, and have brought the king, and his household, and all David’s men with him, over Jordan?
-<small><sub>**BSB:**</sub></small>
-Soon all the men of Israel came to the king and asked, “Why did our brothers, the men of Judah, take you away secretly and bring the king and his household across the Jordan, together with all of David’s men?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.40|<< 2 Samuel 19:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.42|2 Samuel 19:42 >>]]</td></tr></table>
 
 | Translation | Greek |

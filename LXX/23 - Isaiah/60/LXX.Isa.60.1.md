@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Be enlightened! Be enlightened, O Jerusalem! for your light is come, and the glory of \[the\] <span class="smallcaps">lord</span> has risen upon you. 
-<small><sub>**KJV:**</sub></small>
-Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee.
-<small><sub>**BSB:**</sub></small>
-Arise, shine, for your light has come, and the glory of the LORD rises upon you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.60.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.21|<< Isaiah 59:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.2|Isaiah 60:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall count to yourselves from the next day of the Sabbaths, from the day which ever you should bring the sheaf of the increase \[offering\], seven entire periods of seven; 
-<small><sub>**KJV:**</sub></small>
-And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete:
-<small><sub>**BSB:**</sub></small>
-From the day after the Sabbath, the day you brought the sheaf of the wave offering, you are to count off seven full weeks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.14|<< Leviticus 23:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.16|Leviticus 23:16 >>]]</td></tr></table>
 
 | Translation | Greek |

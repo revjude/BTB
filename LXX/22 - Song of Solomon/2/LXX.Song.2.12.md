@@ -1,10 +1,7 @@
 **LXX Song of Solomon 2:12** 
 <small><sub>**LXX:**</sub></small>
 The flowers appeared in the land; \[the\] time  of pruning arrived; \[the\] voice of the turtle-dove was heard in  our land; 
-<small><sub>**KJV:**</sub></small>
-The flowers appear on the earth; the time of the singing [of birds] is come, and the voice of the turtle is heard in our land;
-<small><sub>**BSB:**</sub></small>
-The flowers have appeared in the countryside; the season of singing has come, and the cooing of turtledoves is heard in our land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.11|<< Song of Solomon 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.13|Song of Solomon 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

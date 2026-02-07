@@ -1,4 +1,4 @@
-**Judges 7:11** 
+**Judges 7:11**<big><big>[[Judg.7.9 The Sword of Gideon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt hear what they say; and afterward shall thine hands be strengthened to go down unto the host. Then went he down with Phurah his servant unto the outside of the armed men that [were] in the host.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and listen to what they are saying. Then your hands will be strengthened to atta
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.10|<< Judges 7:10]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.12|Judges 7:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will hear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8085G\|שָֽׁמַעְתָּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.ma'.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

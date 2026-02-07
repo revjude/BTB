@@ -1,10 +1,7 @@
 **LXX Genesis 14:2** 
 <small><sub>**LXX:**</sub></small>
 they made war with Bera king of Sodom, and with Birsha king of Gomorrah, and with Shinab king of Admah, and Shemeber king of Zeboiim, and king Bela -- this is Zoar. 
-<small><sub>**KJV:**</sub></small>
-[That these] made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar.
-<small><sub>**BSB:**</sub></small>
-went to war against Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboiim, and the king of Bela (that is, Zoar).<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.1|<< Genesis 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.3|Genesis 14:3 >>]]</td></tr></table>
 
 | Translation | Greek |

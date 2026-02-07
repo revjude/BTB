@@ -1,12 +1,12 @@
-**1 Corinthians 12:3
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:3**<big><big>[[1Cor.12.1 Spiritual Gifts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and [that] no man can say that Jesus is the Lord, but by the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 Therefore I inform you that no one who is speaking by the Spirit of God says, “Jesus be cursed,” and no one can say, “Jesus is Lord,” except by the Holy Spirit.
 <small><sub>**Literal:**</sub></small>
 Therefore I make known to you that no [one] in [the] Spirit of God speaking says: Accursed [is] Jesus, and no [one] is able to say: Lord Jesus [is], only except in [the] Spirit Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.2|<< 1 Corinthians 12:2]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.4|1 Corinthians 12:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I make known |**<big>[[G1107\|γνωρίζω]]</big>**  |gnōrizō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Nehemiah 9:18** 
+**Nehemiah 9:18**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, when they had made them a molten calf, and said, This [is] thy God that brought thee up out of Egypt, and had wrought great provocations;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even when they cast for themselves an image of a calf and said, ‘This is your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.17|<< Nehemiah 9:17]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.19|Nehemiah 9:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | even  |**<big>&#8207;[[H0637\|אַ֗ף]]&#8207; </big>**| 'Af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

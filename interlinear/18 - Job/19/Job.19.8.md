@@ -1,4 +1,4 @@
-**Job 19:8** 
+**Job 19:8**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath fenced up my way that I cannot pass, and he hath set darkness in my paths.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has blocked my way so I cannot pass; He has veiled my paths with darkness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.7|<< Job 19:7]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.9|Job 19:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | way my  |**<big>&#8207;[[H0734\|אָרְחִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.re.Ch<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has walled up  |**<big>&#8207;[[H1443\|גָ֭דַר]]&#8207; </big>**| Ga.dar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

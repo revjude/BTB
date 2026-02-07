@@ -1,10 +1,7 @@
 **LXX Joshua 23:13** 
 <small><sub>**LXX:**</sub></small>
 \[With\] knowledge know that in no way \[the\] <span class="smallcaps">lord</span> your God proceed  to utterly destroy  these nations from your face. And they will be to you for snares, and for obstacles, and for nails in  your heels, and for arrows in  your eyes, until whenever you should destroy \[them\] from  this good land which \[the\] <span class="smallcaps">lord</span> your God gave to you. 
-<small><sub>**KJV:**</sub></small>
-Know for a certainty that the LORD your God will no more drive out [any of] these nations from before you; but they shall be snares and traps unto you, and scourges in your sides, and thorns in your eyes, until ye perish from off this good land which the LORD your God hath given you.
-<small><sub>**BSB:**</sub></small>
-know for sure that the LORD your God will no longer drive out these nations before you. Instead, they will become for you a snare and a trap, a scourge in your sides and thorns in your eyes, until you perish from this good land that the LORD your God has given you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.12|<< Joshua 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.14|Joshua 23:14 >>]]</td></tr></table>
 
 | Translation | Greek |

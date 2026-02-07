@@ -1,10 +1,7 @@
 **LXX Psalm 14:2** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> from out of  heaven looked upon the sons  of men,  to see if there is one perceiving or inquiring of  God. 
-<small><sub>**KJV:**</sub></small>
-The LORD looked down from heaven upon the children of men, to see if there were any that did understand, [and] seek God.
-<small><sub>**BSB:**</sub></small>
-The LORD looks down from heaven upon the sons of men to see if any understand, if any seek God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.14.1|<< Psalm 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.14.3|Psalm 14:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 14:2** is...

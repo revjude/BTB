@@ -1,10 +1,7 @@
 **LXX Ruth 4:15** 
 <small><sub>**LXX:**</sub></small>
 And he will be to you for restoring life, and  to nourish  your gray hair; for  your daughter-in-law, the one loving you, bore him, which is good to you above seven sons. 
-<small><sub>**KJV:**</sub></small>
-And he shall be unto thee a restorer of [thy] life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him.
-<small><sub>**BSB:**</sub></small>
-He will renew your life and sustain you in your old age. For your daughter-in-law, who loves you and is better to you than seven sons, has given him birth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.14|<< Ruth 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.16|Ruth 4:16 >>]]</td></tr></table>
 
 | Translation | Greek |

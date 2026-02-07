@@ -1,4 +1,4 @@
-**Isaiah 11:16** 
+**Isaiah 11:16**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall be an highway for the remnant of his people, which shall be left, from Assyria; like as it was to Israel in the day that he came up out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ There will be a highway for the remnant of His people who remain from Assyria, a
 > $\quad$ referenced by: [[Rev.16.12|Rev 16:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will belong  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיְתָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a highway  |**<big>&#8207;[[H4546\|מְסִלָּ֔ה]]&#8207; </big>**| me.si.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

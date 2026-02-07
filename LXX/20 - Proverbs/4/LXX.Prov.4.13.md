@@ -1,10 +1,7 @@
 **LXX Proverbs 4:13** 
 <small><sub>**LXX:**</sub></small>
 Take hold of my instruction! you should not let go; but keep it to yourself, for your life! 
-<small><sub>**KJV:**</sub></small>
-Take fast hold of instruction; let [her] not go: keep her; for she [is] thy life.
-<small><sub>**BSB:**</sub></small>
-Hold on to instruction; do not let go. Guard it, for it is your life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.12|<< Proverbs 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.14|Proverbs 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

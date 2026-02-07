@@ -1,4 +1,4 @@
-**Genesis 24:62** 
+**Genesis 24:62**<big><big>[[Gen.24.62 Isaac Marries Rebekah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaac came from the way of the well Lahairoi; for he dwelt in the south country.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Isaac had just returned from Beer-lahai-roi, for he was living in the Negev.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.62|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.61|<< Genesis 24:61]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.63|Genesis 24:63 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Isaac  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3327\|יִצְחָק֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he came  |**<big>&#8207;[[H0935G\|בָּ֣א]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

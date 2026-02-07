@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:29** 
 <small><sub>**LXX:**</sub></small>
 And I said to them, What is Abama, that you enter there? And they called upon  its name, Abama, until  today's day. 
-<small><sub>**KJV:**</sub></small>
-Then I said unto them, What [is] the high place whereunto ye go? And the name thereof is called Bamah unto this day.
-<small><sub>**BSB:**</sub></small>
-So I asked them: ‘What is this high place to which you go?’ (And to this day it is called Bamah.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.28|<< Ezekiel 20:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.30|Ezekiel 20:30 >>]]</td></tr></table>
 
 | Translation | Greek |

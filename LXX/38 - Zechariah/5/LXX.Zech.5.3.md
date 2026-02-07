@@ -1,10 +1,7 @@
 **LXX Zechariah 5:3** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, This \[is\] the curse, the one going forth upon \[the\] face of all the earth; for every  thief of this \[one side\] shall be punished unto death, and every  perjurer of this \[other side\] shall be punished unto death. 
-<small><sub>**KJV:**</sub></small>
-Then said he unto me, This [is] the curse that goeth forth over the face of the whole earth: for every one that stealeth shall be cut off [as] on this side according to it; and every one that sweareth shall be cut off [as] on that side according to it.
-<small><sub>**BSB:**</sub></small>
-Then he told me, “This is the curse that is going out over the face of all the land, for according to one side of the scroll, every thief will be removed; and according to the other side, every perjurer will be removed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.5.2|<< Zechariah 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.5.4|Zechariah 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

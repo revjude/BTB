@@ -1,10 +1,7 @@
 **LXX Zechariah 10:2** 
 <small><sub>**LXX:**</sub></small>
 For the ones declaring \[maxims\] speak troubles, and the clairvoyants false visions; and they speak false dreams. In vain they comfort. On account of this they dry up as sheep, and they were afflicted that there was no healing. 
-<small><sub>**KJV:**</sub></small>
-For the idols have spoken vanity, and the diviners have seen a lie, and have told false dreams; they comfort in vain: therefore they went their way as a flock, they were troubled, because [there was] no shepherd.
-<small><sub>**BSB:**</sub></small>
-For idols speak deceit and diviners see illusions; they tell false dreams and offer empty comfort. Therefore the people wander like sheep, oppressed for lack of a shepherd.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.10.1|<< Zechariah 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.3|Zechariah 10:3 >>]]</td></tr></table>
 
 | Translation | Greek |

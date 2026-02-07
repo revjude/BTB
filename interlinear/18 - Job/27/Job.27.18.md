@@ -1,4 +1,4 @@
-**Job 27:18** 
+**Job 27:18**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He buildeth his house as a moth, and as a booth [that] the keeper maketh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The house he built is like a moth’s cocoon, like a hut set up by a watchman.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.17|<< Job 27:17]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.19|Job 27:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has built  |**<big>&#8207;[[H1129\|בָּנָ֣ה]]&#8207; </big>**| ba.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> moth  |**<big>&#8207;[[H9004\|כָ]]&#8207;&#8207;[[H6211A\|עָ֣שׁ]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> 'Ash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

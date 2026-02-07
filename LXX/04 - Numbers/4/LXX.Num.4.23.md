@@ -1,10 +1,7 @@
 **LXX Numbers 4:23** 
 <small><sub>**LXX:**</sub></small>
 from five and twenty years and up unto fifty years -- you number them! every  one entering to officiate, and to do  his work in the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-From thirty years old and upward until fifty years old shalt thou number them; all that enter in to perform the service, to do the work in the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-from thirty to fifty years old, counting everyone who comes to serve in the work at the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.22|<< Numbers 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.24|Numbers 4:24 >>]]</td></tr></table>
 
 | Translation | Greek |

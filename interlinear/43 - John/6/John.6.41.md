@@ -1,12 +1,12 @@
-**John 6:41
-**<small><sub>**KJV:**</sub></small>
+**John 6:41**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Jews then murmured at him, because he said, I am the bread which came down from heaven.
 <small><sub>**BSB:**</sub></small>
 At this, the Jews began to grumble about Jesus because He had said, “I am the bread that came down from heaven.”
 <small><sub>**Literal:**</sub></small>
 Were grumbling therefore the Jews about Him because He said; I myself am the bread <the> having come down from <the> heaven;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.40|<< John 6:40]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.42|John 6:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were grumbling |**<big>[[G1111\|Ἐγόγγυζον]]</big>**  |Egonguzon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

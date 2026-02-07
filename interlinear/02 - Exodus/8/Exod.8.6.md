@@ -1,4 +1,4 @@
-**Exodus 8:6** (8:2)
+**Exodus 8:6**<big><big>[[Exod.8.1 The Second Plague：Frogs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron stretched out his hand over the waters of Egypt; and the frogs came up, and covered the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Aaron stretched out his hand over the waters of Egypt, and the frogs came up 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.5|<< Exodus 8:5]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.7|Exodus 8:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stretched out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5186\|יֵּ֤ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yet<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aaron  |**<big>&#8207;[[H0175\|אַהֲרֹן֙]]&#8207; </big>**| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

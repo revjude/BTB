@@ -1,4 +1,4 @@
-**1 Samuel 20:37** 
+**1 Samuel 20:37**<big><big>[[1Sam.20.30 Saul Seeks to Kill Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the lad was come to the place of the arrow which Jonathan had shot, Jonathan cried after the lad, and said, [Is] not the arrow beyond thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the boy reached the place where Jonathan’s arrow had fallen, Jonathan cal
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.36|<< 1 Samuel 20:36]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.38|1 Samuel 20:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lad  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5288\|נַּ֙עַר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

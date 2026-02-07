@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:10** 
 <small><sub>**LXX:**</sub></small>
 And he defiled Topheth, the one in \[the\] ravine of \[the\] son of Hinnom,  \[for\] a man to not lead  his son and  his daughter in fire  to Molech. 
-<small><sub>**KJV:**</sub></small>
-And he defiled Topheth, which [is] in the valley of the children of Hinnom, that no man might make his son or his daughter to pass through the fire to Molech.
-<small><sub>**BSB:**</sub></small>
-He also desecrated Topheth in the Valley of Ben-hinnom so that no one could sacrifice his son or daughter in the fire to Molech.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.9|<< 2 Kings 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.11|2 Kings 23:11 >>]]</td></tr></table>
 
 | Translation | Greek |

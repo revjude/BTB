@@ -1,12 +1,12 @@
-**Acts 21:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:18**<big><big>[[Acts.21.17 Paul’s Arrival at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the [day] following Paul went in with us unto James; and all the elders were present.
 <small><sub>**BSB:**</sub></small>
 The next day Paul went in with us to see James, and all the elders were present.
 <small><sub>**Literal:**</sub></small>
 On the now following [day] was going in <the> Paul with us unto James, all and arrived the elders.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.17|<< Acts 21:17]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.19|Acts 21:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

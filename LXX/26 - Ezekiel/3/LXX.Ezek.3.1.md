@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he said to me, O son of man, eat what ever you should find! Eat  this roll, and go and speak to the sons of Israel! 
-<small><sub>**KJV:**</sub></small>
-Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel.
-<small><sub>**BSB:**</sub></small>
-“Son of man,” He said to me, “eat what you find here. Eat this scroll, then go and speak to the house of Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.2.10|<< Ezekiel 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.2|Ezekiel 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

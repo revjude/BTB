@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:28** 
 <small><sub>**LXX:**</sub></small>
 And should you look also upon  my prayer, upon  my supplication, O <span class="smallcaps">lord</span>  God of Israel, to hear the supplication and the prayer which  your servant prays before you, to you today. 
-<small><sub>**KJV:**</sub></small>
-Yet have thou respect unto the prayer of thy servant, and to his supplication, O LORD my God, to hearken unto the cry and to the prayer, which thy servant prayeth before thee to day:
-<small><sub>**BSB:**</sub></small>
-Yet regard the prayer and plea of Your servant, O LORD my God, so that You may hear the cry and the prayer that Your servant is praying before You today.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.27|<< 1 Kings 8:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.29|1 Kings 8:29 >>]]</td></tr></table>
 
 | Translation | Greek |

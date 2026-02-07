@@ -1,10 +1,7 @@
 **LXX Daniel 5:22** 
 <small><sub>**LXX:**</sub></small>
 And you,  his son, O Belshazzar, humbled not  your heart in front  of God, of which all these \[things\] you knew. 
-<small><sub>**KJV:**</sub></small>
-And thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest all this;
-<small><sub>**BSB:**</sub></small>
-But you his son, O Belshazzar, have not humbled your heart, even though you knew all this.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.21|<< Daniel 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.23|Daniel 5:23 >>]]</td></tr></table>
 
 | Translation | Greek |

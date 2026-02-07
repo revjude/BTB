@@ -1,12 +1,12 @@
-**Acts 16:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:9**<big><big>[[Acts.16.6 Paul’s Vision of the Macedonian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And a vision appeared to Paul in the night; There stood a man of Macedonia, and prayed him, saying, Come over into Macedonia, and help us.
 <small><sub>**BSB:**</sub></small>
 During the night, Paul had a vision of a man of Macedonia standing and pleading with him, “Come over to Macedonia and help us.”
 <small><sub>**Literal:**</sub></small>
 And a vision during the night <the> to Paul appeared: A man of Macedonia certain was already standing and beseeching him and saying; Having passed over into Macedonia do help us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.8|<< Acts 16:8]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.10|Acts 16:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a vision |**<big>[[G3705\|ὅραμα]]</big>**  |horama <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

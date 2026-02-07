@@ -1,12 +1,12 @@
-**2 Corinthians 3:11
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:11**<big><big>[[2Cor.3.7 The Glory of the New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if that which is done away [was] glorious, much more that which remaineth [is] glorious.
 <small><sub>**BSB:**</sub></small>
 For if what was fading away came with glory, how much greater is the glory of that which endures!
 <small><sub>**Literal:**</sub></small>
 If for that which is fading away [was] through glory, much more [is] that remaining in glory!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.10|<< 2 Corinthians 3:10]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.12|2 Corinthians 3:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Mark 10:13
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:13**<big><big>[[Mark.10.13 Jesus Blesses the Children|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they brought young children to him, that he should touch them: and [his] disciples rebuked those that brought [them].
 <small><sub>**BSB:**</sub></small>
 Now people were bringing the little children to Jesus for Him to place His hands on them, and the disciples rebuked those who brought them.
 <small><sub>**Literal:**</sub></small>
 And they were bringing to Him little children that them He may touch; <the> But the disciples rebuked those bringing [them].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.12|<< Mark 10:12]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.14|Mark 10:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were bringing |**<big>[[G4374\|προσέφερον]]</big>**  |prosepheron <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

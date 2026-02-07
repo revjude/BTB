@@ -1,10 +1,7 @@
 **LXX Exodus 9:17** 
 <small><sub>**LXX:**</sub></small>
 Still then you cause  my people  for them to not be sent out. 
-<small><sub>**KJV:**</sub></small>
-As yet exaltest thou thyself against my people, that thou wilt not let them go?
-<small><sub>**BSB:**</sub></small>
-Still, you lord it over My people and do not allow them to go.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.16|<< Exodus 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.18|Exodus 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

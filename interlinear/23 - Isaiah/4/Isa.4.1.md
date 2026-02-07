@@ -1,4 +1,4 @@
-**Isaiah 4:1** 
+**Isaiah 4:1**<big><big>[[Isa.4.1 A Remnant in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In that day seven women will take hold of one man and say, “We will eat our ow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.26|<< Isaiah 3:26]]</td><td align="center" style="border:none;">[[Isa.4|Isaiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.4.2|Isaiah 4:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will take hold  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2388H\|הֶחֱזִיקוּ֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.che.zi.Ku<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seven  |**<big>&#8207;[[H7651\|שֶׁ֨בַע]]&#8207; </big>**| She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

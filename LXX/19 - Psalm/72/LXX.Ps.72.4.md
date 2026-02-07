@@ -1,10 +1,7 @@
 **LXX Psalm 72:4** 
 <small><sub>**LXX:**</sub></small>
 He shall judge the poor of the people, and shall deliver the sons of the needy, and shall humble \[the\] extortioner. 
-<small><sub>**KJV:**</sub></small>
-He shall judge the poor of the people, he shall save the children of the needy, and shall break in pieces the oppressor.
-<small><sub>**BSB:**</sub></small>
-May he vindicate the afflicted among the people; may he save the children of the needy and crush the oppressor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.72.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.3|<< Psalm 72:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.5|Psalm 72:5 >>]]</td></tr></table>
 
 | Translation | Greek |

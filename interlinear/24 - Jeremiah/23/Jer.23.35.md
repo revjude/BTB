@@ -1,4 +1,4 @@
-**Jeremiah 23:35** 
+**Jeremiah 23:35**<big><big>[[Jer.23.33 False Prophecies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shall ye say every one to his neighbour, and every one to his brother, What hath the LORD answered? and, What hath the LORD spoken?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is what each man is to say to his friend and to his brother: ‘What has th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.34|<< Jeremiah 23:34]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.36|Jeremiah 23:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֥ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will say  |**<big>&#8207;[[H0559\|תֹאמְר֛וּ]]&#8207; </big>**| to.me.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

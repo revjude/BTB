@@ -1,10 +1,7 @@
 **LXX Genesis 37:2** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the generations of Jacob. And Joseph was ten and seven years \[old\] tending the sheep  of his father with  his brothers, being young among the sons of Bilhah, and with the sons of Zilpah, the wives  of his father. And they brought against Joseph a bad fault to Israel  their father. 
-<small><sub>**KJV:**</sub></small>
-These [are] the generations of Jacob. Joseph, [being] seventeen years old, was feeding the flock with his brethren; and the lad [was] with the sons of Bilhah, and with the sons of Zilpah, his father’s wives: and Joseph brought unto his father their evil report.
-<small><sub>**BSB:**</sub></small>
-This is the account of Jacob. When Joseph was seventeen years old, he was tending the flock with his brothers, the sons of his father’s wives Bilhah and Zilpah, and he brought their father a bad report about them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.1|<< Genesis 37:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.3|Genesis 37:3 >>]]</td></tr></table>
 
 | Translation | Greek |

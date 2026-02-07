@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:14** 
 <small><sub>**LXX:**</sub></small>
 Is Israel a servant or is he native-born? Why did he become for plunder? 
-<small><sub>**KJV:**</sub></small>
-[Is] Israel a servant? [is] he a homeborn [slave]? why is he spoiled?
-<small><sub>**BSB:**</sub></small>
-Is Israel a slave? Was he born into slavery? Why then has he become prey?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.13|<< Jeremiah 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.15|Jeremiah 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

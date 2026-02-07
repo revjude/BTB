@@ -1,4 +1,4 @@
-**Leviticus 26:33** 
+**Leviticus 26:33**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will scatter you among the heathen, and will draw out a sword after you: and your land shall be desolate, and your cities waste.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I will scatter you among the nations and will draw out a sword after you as 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.32|<< Leviticus 26:32]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.34|Leviticus 26:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.> you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will scatter  |**<big>&#8207;[[H2219\|אֱזָרֶ֣ה]]&#8207; </big>**| 'e.za.Reh<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

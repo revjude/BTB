@@ -1,4 +1,4 @@
-**Deuteronomy 6:23** 
+**Deuteronomy 6:23**<big><big>[[Deut.6.20 Teach Your Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought us out from thence, that he might bring us in, to give us the land which he sware unto our fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But He brought us out from there to lead us in and give us the land that He had 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.22|<< Deuteronomy 6:22]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.24|Deuteronomy 6:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.> us  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אוֹתָ֖]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.Ta.<small><sup>[[HTo]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he brought out  |**<big>&#8207;[[H3318H\|הוֹצִ֣יא]]&#8207; </big>**| ho.Tzi'<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Esther 8:2** 
+**Esther 8:2**<big><big>[[Esth.8.1 Esther Appeals for the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king took off his ring, which he had taken from Haman, and gave it unto Mordecai. And Esther set Mordecai over the house of Haman.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king removed the signet ring he had recovered from Haman and presented it to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.1|<< Esther 8:1]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.3|Esther 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he removed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5493G\|יָּ֨סַר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.sar<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֜לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

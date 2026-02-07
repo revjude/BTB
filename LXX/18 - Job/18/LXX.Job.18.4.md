@@ -1,10 +1,7 @@
 **LXX Job 18:4** 
 <small><sub>**LXX:**</sub></small>
 Anger has dealt with you. For what if you should die, \[will it be\] uninhabited  under heaven? or mountains be eradicated from \[their\] foundations? 
-<small><sub>**KJV:**</sub></small>
-He teareth himself in his anger: shall the earth be forsaken for thee? and shall the rock be removed out of his place?
-<small><sub>**BSB:**</sub></small>
-You who tear yourself in anger—should the earth be forsaken on your account, or the rocks be moved from their place?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.3|<< Job 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.5|Job 18:5 >>]]</td></tr></table>
 
 | Translation | Greek |

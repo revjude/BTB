@@ -1,10 +1,7 @@
 **LXX Isaiah 41:12** 
 <small><sub>**LXX:**</sub></small>
 You shall seek them, and in no way shall you find the men who shall insult while drunk with wine against you; for they shall be as ones not being; and the ones waging war against you shall not be. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt seek them, and shalt not find them, [even] them that contended with thee: they that war against thee shall be as nothing, and as a thing of nought.
-<small><sub>**BSB:**</sub></small>
-You will seek them but will not find them. Those who wage war against you will come to nothing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.11|<< Isaiah 41:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.13|Isaiah 41:13 >>]]</td></tr></table>
 
 | Translation | Greek |

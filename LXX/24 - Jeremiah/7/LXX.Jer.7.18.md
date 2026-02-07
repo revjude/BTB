@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:18** 
 <small><sub>**LXX:**</sub></small>
  Their sons collect together wood, and  their fathers kindle a fire, and  their women knead dough  to make cakes to the military of the heaven; and they offered libations to strange gods, that they should provoke me to anger. 
-<small><sub>**KJV:**</sub></small>
-The children gather wood, and the fathers kindle the fire, and the women knead [their] dough, to make cakes to the queen of heaven, and to pour out drink offerings unto other gods, that they may provoke me to anger.
-<small><sub>**BSB:**</sub></small>
-The sons gather wood, the fathers light the fire, and the women knead the dough to make cakes for the Queen of Heaven; they pour out drink offerings to other gods to provoke Me to anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.17|<< Jeremiah 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.19|Jeremiah 7:19 >>]]</td></tr></table>
 
 | Translation | Greek |

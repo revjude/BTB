@@ -1,4 +1,4 @@
-**Isaiah 48:12** 
+**Isaiah 48:12**<big><big>[[Isa.48.12 Deliverance Promised to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hearken unto me, O Jacob and Israel, my called; I [am] he; I [am] the first, I also [am] the last.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen to Me, O Jacob, and Israel, whom I have called: I am He; I am the first, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.11|<< Isaiah 48:11]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.13|Isaiah 48:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | listen  |**<big>&#8207;[[H8085G\|שְׁמַ֤ע]]&#8207; </big>**| she.Ma'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 33:6** 
+**Genesis 33:6**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the handmaidens came near, they and their children, and they bowed themselves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the maidservants and their children approached and bowed down.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.5|<< Genesis 33:5]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.7|Genesis 33:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they approached  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5066G\|תִּגַּ֧שְׁןָ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Gash.na<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the maidservants  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8198\|שְּׁפָח֛וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.fa.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

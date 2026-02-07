@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:25** 
 <small><sub>**LXX:**</sub></small>
 And you exchange according to the force  falling from you -- even horse for  horse, and chariots for  chariots. And we will wage war against them in the straight \[plains\], and we will power over them. And he hearkened to  their voice, and did thus. 
-<small><sub>**KJV:**</sub></small>
-And number thee an army, like the army that thou hast lost, horse for horse, and chariot for chariot: and we will fight against them in the plain, [and] surely we shall be stronger than they. And he hearkened unto their voice, and did so.
-<small><sub>**BSB:**</sub></small>
-And you must raise an army like the one you have lost—horse for horse and chariot for chariot—so we can fight the Israelites on the plain, where we will surely prevail.” And the king approved their plan and acted accordingly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.24|<< 1 Kings 20:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.26|1 Kings 20:26 >>]]</td></tr></table>
 
 | Translation | Greek |

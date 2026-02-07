@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh Necho moved him to Riblah in \[the\] land of Hamath, \[so as to\] not reign in Jerusalem. And he put a penalty against the land -- a hundred talents of silver, and ten talents of gold. 
-<small><sub>**KJV:**</sub></small>
-And Pharaohnechoh put him in bands at Riblah in the land of Hamath, that he might not reign in Jerusalem; and put the land to a tribute of an hundred talents of silver, and a talent of gold.
-<small><sub>**BSB:**</sub></small>
-And Pharaoh Neco imprisoned Jehoahaz at Riblah in the land of Hamath so that he could not reign in Jerusalem, and he imposed on Judah a levy of a hundred talents of silver and a talent of gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.32|<< 2 Kings 23:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.34|2 Kings 23:34 >>]]</td></tr></table>
 
 | Translation | Greek |

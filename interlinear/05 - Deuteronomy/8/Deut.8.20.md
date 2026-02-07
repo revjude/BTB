@@ -1,4 +1,4 @@
-**Deuteronomy 8:20** 
+**Deuteronomy 8:20**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the nations which the LORD destroyeth before your face, so shall ye perish; because ye would not be obedient unto the voice of the LORD your God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like the nations that the LORD has destroyed before you, so you will perish if y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.19|<< Deuteronomy 8:19]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.1|Deuteronomy 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like the nations  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H1471A\|גּוֹיִ֗ם]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

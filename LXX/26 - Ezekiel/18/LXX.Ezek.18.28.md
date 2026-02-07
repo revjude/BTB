@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:28** 
 <small><sub>**LXX:**</sub></small>
 For he saw and turned from all  his impiety which he did; to life he shall live, in no way shall he die. 
-<small><sub>**KJV:**</sub></small>
-Because he considereth, and turneth away from all his transgressions that he hath committed, he shall surely live, he shall not die.
-<small><sub>**BSB:**</sub></small>
-Because he considered and turned from all the transgressions he had committed, he will surely live; he will not die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.27|<< Ezekiel 18:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.29|Ezekiel 18:29 >>]]</td></tr></table>
 
 | Translation | Greek |

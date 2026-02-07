@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 You shall see a king with glory, and  your eyes shall see a land at a distance. 
-<small><sub>**KJV:**</sub></small>
-Thine eyes shall see the king in his beauty: they shall behold the land that is very far off.
-<small><sub>**BSB:**</sub></small>
-Your eyes will see the King in His beauty and behold a land that stretches afar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.33.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.16|<< Isaiah 33:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.18|Isaiah 33:18 >>]]</td></tr></table>
 
 | Translation | Greek |

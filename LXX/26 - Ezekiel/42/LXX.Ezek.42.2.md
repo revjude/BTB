@@ -1,10 +1,7 @@
 **LXX Ezekiel 42:2** 
 <small><sub>**LXX:**</sub></small>
 a hundred cubits \[in\] length towards \[the\] north, and the breadth fifty cubits, 
-<small><sub>**KJV:**</sub></small>
-Before the length of an hundred cubits [was] the north door, and the breadth [was] fifty cubits.
-<small><sub>**BSB:**</sub></small>
-The building with the door facing north was a hundred cubits long and fifty cubits wide.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.1|<< Ezekiel 42:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.3|Ezekiel 42:3 >>]]</td></tr></table>
 
 | Translation | Greek |

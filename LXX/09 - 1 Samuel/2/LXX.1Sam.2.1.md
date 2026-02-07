@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Hannah prayed and said, My heart is solidified in \[the\] <span class="smallcaps">lord</span>; my horn was raised high by my God; my mouth was widened over my enemies; for I was glad in your deliverance. 
-<small><sub>**KJV:**</sub></small>
-And Hannah prayed, and said, My heart rejoiceth in the LORD, mine horn is exalted in the LORD: my mouth is enlarged over mine enemies; because I rejoice in thy salvation.
-<small><sub>**BSB:**</sub></small>
-At that time Hannah prayed: “My heart rejoices in the LORD; my horn is exalted in the LORD. My mouth speaks boldly against my enemies, for I rejoice in Your salvation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.28|<< 1 Samuel 1:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.2|1 Samuel 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:15** 
 <small><sub>**LXX:**</sub></small>
 Should you reign, because you are provoked with Ahaz  your father? Shall they not eat and shall they not drink? \[It is\] best for you to execute equity and fair righteousness. 
-<small><sub>**KJV:**</sub></small>
-Shalt thou reign, because thou closest [thyself] in cedar? did not thy father eat and drink, and do judgment and justice, [and] then [it was] well with him?
-<small><sub>**BSB:**</sub></small>
-Does it make you a king to excel in cedar? Did not your father have food and drink? He administered justice and righteousness, and so it went well with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.14|<< Jeremiah 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.16|Jeremiah 22:16 >>]]</td></tr></table>
 
 | Translation | Greek |

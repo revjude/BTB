@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 A good name \[is\] more preferred than many riches; and good favor over silver and gold. 
-<small><sub>**KJV:**</sub></small>
-A [good] name [is] rather to be chosen than great riches, [and] loving favour rather than silver and gold.
-<small><sub>**BSB:**</sub></small>
-A good name is more desirable than great riches; favor is better than silver and gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.31|<< Proverbs 21:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.2|Proverbs 22:2 >>]]</td></tr></table>
 
 | Translation | Greek |

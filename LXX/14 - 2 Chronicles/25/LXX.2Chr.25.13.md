@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:13** 
 <small><sub>**LXX:**</sub></small>
 And the sons of the force, whom Amaziah returned \[so as\] to not go with him to war, assailed against the cities of Judah from Samaria and unto Beth-horon. And they struck among them three thousand, and despoiled many spoils. 
-<small><sub>**KJV:**</sub></small>
-But the soldiers of the army which Amaziah sent back, that they should not go with him to battle, fell upon the cities of Judah, from Samaria even unto Bethhoron, and smote three thousand of them, and took much spoil.
-<small><sub>**BSB:**</sub></small>
-Meanwhile the troops that Amaziah had dismissed from battle raided the cities of Judah, from Samaria to Beth-horon. They struck down 3,000 people and carried off a great deal of plunder.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.12|<< 2 Chronicles 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.14|2 Chronicles 25:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 84:11** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> loves mercy and truth.  God shall give favor and glory. \[The\] <span class="smallcaps">lord</span> will not deprive  good \[things\] to the ones going in innocence. 
-<small><sub>**KJV:**</sub></small>
-For the LORD God [is] a sun and shield: the LORD will give grace and glory: no good [thing] will he withhold from them that walk uprightly.
-<small><sub>**BSB:**</sub></small>
-For the LORD God is a sun and a shield; the LORD gives grace and glory; He withholds no good thing from those who walk with integrity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.84.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.10|<< Psalm 84:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.12|Psalm 84:12 >>]]</td></tr></table>
 
 | Translation | Greek |

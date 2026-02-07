@@ -1,10 +1,7 @@
 **LXX Malachi 2:17** 
 <small><sub>**LXX:**</sub></small>
 O ones provoking  \[the\] <span class="smallcaps">lord</span> with  your words. And you said, We provoked him in what? In  your saying, Every one doing wicked \[is\] good before \[the\] <span class="smallcaps">lord</span>, and in them he thinks well of; and, Where is the God  of righteousness? 
-<small><sub>**KJV:**</sub></small>
-Ye have wearied the LORD with your words. Yet ye say, Wherein have we wearied [him]? When ye say, Every one that doeth evil [is] good in the sight of the LORD, and he delighteth in them; or, Where [is] the God of judgment?
-<small><sub>**BSB:**</sub></small>
-You have wearied the LORD with your words; yet you ask, “How have we wearied Him?” By saying, “All who do evil are good in the sight of the LORD, and in them He delights,” or, “Where is the God of justice?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.16|<< Malachi 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.1|Malachi 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

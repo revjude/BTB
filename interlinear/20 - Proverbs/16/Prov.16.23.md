@@ -1,4 +1,4 @@
-**Proverbs 16:23** 
+**Proverbs 16:23**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heart of the wise teacheth his mouth, and addeth learning to his lips.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The heart of the wise man instructs his mouth and adds persuasiveness to his lip
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.22|<< Proverbs 16:22]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.24|Proverbs 16:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] heart of  |**<big>&#8207;[[H3820A\|לֵ֣ב]]&#8207; </big>**| lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a wise [person]  |**<big>&#8207;[[H2450\|חָ֭כָם]]&#8207; </big>**| Cha.khom<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

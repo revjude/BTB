@@ -1,12 +1,10 @@
-**Psalms 22:0** (22:1)
+**Psalms 22:0**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician upon Aijeleth Shahar, A Psalm of David. My God, my God, why hast thou forsaken me? [why art thou so] far from helping me, [and from] the words of my roaring?
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. To the tune of “The Doe of the Dawn.” A Psalm of David. My God, my God, why have You forsaken me? Why are You so far from saving me, so far from my words of groaning?
+To the chief Musician upon Aijeleth Shahar, A Psalm of David.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.13|<< Psalms 21:13]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.1|Psalms 22:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the choirmaster  |**<big>&#8207;[[H9005\|לַ֭]]&#8207;&#8207;[[H5329\|מְנַצֵּחַ]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> m.na.tze.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

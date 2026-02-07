@@ -1,4 +1,4 @@
-**Ezra 5:11** 
+**Ezra 5:11**<big><big>[[Ezra.5.6 Tattenai’s Letter to Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thus they returned us answer, saying, We are the servants of the God of heaven and earth, and build the house that was builded these many years ago, which a great king of Israel builded and set up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And this is the answer they returned: “We are servants of the God of heaven an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.10|<< Ezra 5:10]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.12|Ezra 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and as follows  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3660\|כְנֵ֥מָא]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> khe.Ne.ma'<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | word the  |**<big>&#8207;[[H6600\|פִתְגָמָ֖]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| fit.ga.Ma<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

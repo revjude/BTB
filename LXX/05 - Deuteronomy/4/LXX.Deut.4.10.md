@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:10** 
 <small><sub>**LXX:**</sub></small>
 \[Specially the\] day which you stood in the presence of \[the\] <span class="smallcaps">lord</span>  your God in Horeb, in the day of the assembly; for \[the\] <span class="smallcaps">lord</span> said to me, Hold an assembly to me, and let the people hear  my words! so that they should learn to fear me all the days which they live upon the earth, and \[that\]  they should have taught their sons. 
-<small><sub>**KJV:**</sub></small>
-[Specially] the day that thou stoodest before the LORD thy God in Horeb, when the LORD said unto me, Gather me the people together, and I will make them hear my words, that they may learn to fear me all the days that they shall live upon the earth, and [that] they may teach their children.
-<small><sub>**BSB:**</sub></small>
-The day you stood before the LORD your God at Horeb, the LORD said to me, “Gather the people before Me to hear My words, so that they may learn to fear Me all the days they live on the earth, and that they may teach them to their children.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.9|<< Deuteronomy 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.11|Deuteronomy 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

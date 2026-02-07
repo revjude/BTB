@@ -1,4 +1,4 @@
-**Exodus 38:18** 
+**Exodus 38:18**<big><big>[[Exod.38.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the hanging for the gate of the court [was] needlework, [of] blue, and purple, and scarlet, and fine twined linen: and twenty cubits [was] the length, and the height in the breadth [was] five cubits, answerable to the hangings of the court.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The curtain for the entrance to the courtyard was embroidered with blue, purple,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.17|<< Exodus 38:17]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.19|Exodus 38:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] screen of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4539\|מָסַ֞ךְ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.Sakh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] gate of  |**<big>&#8207;[[H8179G\|שַׁ֤עַר]]&#8207; </big>**| Sha.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

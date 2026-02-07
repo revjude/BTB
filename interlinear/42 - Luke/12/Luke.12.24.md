@@ -1,12 +1,12 @@
-**Luke 12:24
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:24**<big><big>[[Luke.12.22 Do Not Worry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Consider the ravens: for they neither sow nor reap; which neither have storehouse nor barn; and God feedeth them: how much more are ye better than the fowls?
 <small><sub>**BSB:**</sub></small>
 Consider the ravens: They do not sow or reap, they have no storehouse or barn; yet God feeds them. How much more valuable you are than the birds!
 <small><sub>**Literal:**</sub></small>
 do consider the ravens that not they sow nor they reap to them not there is a storehouse nor [is] barn — and <the> God feeds them; How much more you yourselves are valuable than the birds?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.23|<< Luke 12:23]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.25|Luke 12:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do consider |**<big>[[G2657\|κατανοήσατε]]</big>**  |katanoēsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 18:3** 
 <small><sub>**LXX:**</sub></small>
 And this \[is\] the distinguishing thing of the priests -- the \[things\] from the people, from the ones sacrificing the sacrifices, if both a calf, or if also a sheep -- that you shall give the shoulder to the priest, and the jawbones, and the large intestine, 
-<small><sub>**KJV:**</sub></small>
-And this shall be the priest’s due from the people, from them that offer a sacrifice, whether [it be] ox or sheep; and they shall give unto the priest the shoulder, and the two cheeks, and the maw.
-<small><sub>**BSB:**</sub></small>
-This shall be the priests’ share from the people who offer a sacrifice, whether a bull or a sheep: the priests are to be given the shoulder, the jowls, and the stomach.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.18.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.2|<< Deuteronomy 18:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.4|Deuteronomy 18:4 >>]]</td></tr></table>
 
 | Translation | Greek |

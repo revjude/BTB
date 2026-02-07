@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Saul knew not \[through\] great ignorance in  that day, and he curses the people, saying, Accursed \[is\] the man who shall eat bread until evening -- so I will punish for  my enemy. And not any of the people tasted bread, and all the land went unto Grove. 
-<small><sub>**KJV:**</sub></small>
-And the men of Israel were distressed that day: for Saul had adjured the people, saying, Cursed [be] the man that eateth [any] food until evening, that I may be avenged on mine enemies. So none of the people tasted [any] food.
-<small><sub>**BSB:**</sub></small>
-Now the men of Israel were in distress that day, for Saul had placed the troops under an oath, saying, “Cursed is the man who eats any food before evening, before I have taken vengeance on my enemies.” So none of the troops tasted any food.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.23|<< 1 Samuel 14:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.25|1 Samuel 14:25 >>]]</td></tr></table>
 
 | Translation | Greek |

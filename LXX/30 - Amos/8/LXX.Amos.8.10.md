@@ -1,10 +1,7 @@
 **LXX Amos 8:10** 
 <small><sub>**LXX:**</sub></small>
 and I will convert  your holiday \[feasts\] into mourning, and all your songs into wailing. And I will bring upon every loin, sackcloth; and upon every head, baldness. And I will appoint him as one mourning a beloved one; and the ones with him as a day of grief. 
-<small><sub>**KJV:**</sub></small>
-And I will turn your feasts into mourning, and all your songs into lamentation; and I will bring up sackcloth upon all loins, and baldness upon every head; and I will make it as the mourning of an only [son], and the end thereof as a bitter day.
-<small><sub>**BSB:**</sub></small>
-I will turn your feasts into mourning and all your songs into lamentation. I will cause everyone to wear sackcloth and every head to be shaved. I will make it like a time of mourning for an only son, and its outcome like a bitter day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.9|<< Amos 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.8.11|Amos 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

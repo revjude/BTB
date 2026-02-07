@@ -1,4 +1,4 @@
-**Leviticus 6:10** (6:3)
+**Leviticus 6:10**<big><big>[[Lev.6.8 The Burnt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall put on his linen garment, and his linen breeches shall he put upon his flesh, and take up the ashes which the fire hath consumed with the burnt offering on the altar, and he shall put them beside the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the priest shall put on his linen robe and linen undergarments, and he shall
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.9|<< Leviticus 6:9]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.11|Leviticus 6:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will put on  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3847\|לָבַ֨שׁ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.Vash<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֜ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:29** 
 <small><sub>**LXX:**</sub></small>
 And the tent of \[the\] <span class="smallcaps">lord</span> which Moses made in the wilderness, and the altar of the whole burnt-offerings, in  that time \[were\] in Bama in Gibeon. 
-<small><sub>**KJV:**</sub></small>
-For the tabernacle of the LORD, which Moses made in the wilderness, and the altar of the burnt offering, [were] at that season in the high place at Gibeon.
-<small><sub>**BSB:**</sub></small>
-For the tabernacle of the LORD that Moses had made in the wilderness and the altar of burnt offering were presently at the high place in Gibeon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.28|<< 1 Chronicles 21:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.30|1 Chronicles 21:30 >>]]</td></tr></table>
 
 | Translation | Greek |

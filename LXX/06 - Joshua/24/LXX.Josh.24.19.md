@@ -1,10 +1,7 @@
 **LXX Joshua 24:19** 
 <small><sub>**LXX:**</sub></small>
 And Joshua said to all the people, In no way shall you be able to serve to the <span class="smallcaps">lord</span> (for he is holy, and God is jealous, this one shall not spare  your violations of the law, and  your sins) 
-<small><sub>**KJV:**</sub></small>
-And Joshua said unto the people, Ye cannot serve the LORD: for he [is] an holy God; he [is] a jealous God; he will not forgive your transgressions nor your sins.
-<small><sub>**BSB:**</sub></small>
-But Joshua said to the people, “You are not able to serve the LORD, for He is a holy God; He is a jealous God; He will not forgive your rebellion or your sins.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.18|<< Joshua 24:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.20|Joshua 24:20 >>]]</td></tr></table>
 
 | Translation | Greek |

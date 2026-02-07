@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> showed to me two reed baskets of figs, being situated in front of \[the\] temple of \[the\] <span class="smallcaps">lord</span>, after  Nebuchadnezzar king of Babylon resettled  Jeconiah \[the\] son of Jehoiakim, king of Judah, and the rulers, and the craftsmen, and the bondmen, from out of Jerusalem, and led them into Babylon. 
-<small><sub>**KJV:**</sub></small>
-The LORD shewed me, and, behold, two baskets of figs [were] set before the temple of the LORD, after that Nebuchadrezzar king of Babylon had carried away captive Jeconiah the son of Jehoiakim king of Judah, and the princes of Judah, with the carpenters and smiths, from Jerusalem, and had brought them to Babylon.
-<small><sub>**BSB:**</sub></small>
-After Nebuchadnezzar king of Babylon had carried away Jeconiah son of Jehoiakim king of Judah, as well as the officials of Judah and the craftsmen and metalsmiths from Jerusalem, and had brought them to Babylon, the LORD showed me two baskets of figs placed in front of the temple of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.40|<< Jeremiah 23:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.2|Jeremiah 24:2 >>]]</td></tr></table>
 
 | Translation | Greek |

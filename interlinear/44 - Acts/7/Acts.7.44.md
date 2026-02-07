@@ -1,5 +1,5 @@
-**Acts 7:44
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:44**<big><big>[[Acts.7.44 The Tabernacle of the Testimony|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Our fathers had the tabernacle of witness in the wilderness, as he had appointed, speaking unto Moses, that he should make it according to the fashion that he had seen.
 <small><sub>**BSB:**</sub></small>
 Our fathers had the tabernacle of the Testimony with them in the wilderness. It was constructed exactly as God had directed Moses, according to the pattern he had seen.
@@ -10,7 +10,7 @@ The tabernacle of the testimony was among the fathers of us in the wilderness, e
 > $\quad$ alluding to: [[LXX.Exod.25.40|Exod 25:40]] ☩ [[LXX.Exod.26.30|Exod 26:30]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | tabernacle |**<big>[[G4633\|σκηνὴ]]</big>**  |skēnē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

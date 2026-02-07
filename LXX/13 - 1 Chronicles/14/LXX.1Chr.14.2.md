@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 14:2** 
 <small><sub>**LXX:**</sub></small>
 And David knew that \[the\] <span class="smallcaps">lord</span> prepared him for king over Israel, for his kingdom grew in stature because of  his people  Israel. 
-<small><sub>**KJV:**</sub></small>
-And David perceived that the LORD had confirmed him king over Israel, for his kingdom was lifted up on high, because of his people Israel.
-<small><sub>**BSB:**</sub></small>
-And David realized that the LORD had established him as king over Israel and had highly exalted his kingdom for the sake of His people Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.14.1|<< 1 Chronicles 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.14.3|1 Chronicles 14:3 >>]]</td></tr></table>
 
 | Translation | Greek |

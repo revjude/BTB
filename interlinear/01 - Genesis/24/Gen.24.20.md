@@ -1,4 +1,4 @@
-**Genesis 24:20** 
+**Genesis 24:20**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she hasted, and emptied her pitcher into the trough, and ran again unto the well to draw [water], and drew for all his camels.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And she quickly emptied her jar into the trough and ran back to the well to draw
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.19|<< Genesis 24:19]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.21|Genesis 24:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she hurried  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4116A\|תְּמַהֵ֗ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.ma.Her<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and she emptied  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6168\|תְּעַ֤ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.'Ar<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

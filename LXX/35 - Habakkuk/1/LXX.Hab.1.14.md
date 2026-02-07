@@ -1,10 +1,7 @@
 **LXX Habakkuk 1:14** 
 <small><sub>**LXX:**</sub></small>
 And will you make the men as the fishes of the sea, and as the reptiles not having one taking the lead? 
-<small><sub>**KJV:**</sub></small>
-And makest men as the fishes of the sea, as the creeping things, [that have] no ruler over them?
-<small><sub>**BSB:**</sub></small>
-You have made men like the fish of the sea, like creeping things that have no ruler.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.13|<< Habakkuk 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.15|Habakkuk 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

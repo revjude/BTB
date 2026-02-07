@@ -1,4 +1,4 @@
-**Psalms 37:29** 
+**Psalms 37:29**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The righteous shall inherit the land, and dwell therein for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The righteous will inherit the land and dwell in it forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.28|<< Psalms 37:28]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.30|Psalms 37:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | righteous [people]  |**<big>&#8207;[[H6662\|צַדִּיקִ֥ים]]&#8207; </big>**| tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will possess  |**<big>&#8207;[[H3423G\|יִֽירְשׁוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yi.re.shu-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

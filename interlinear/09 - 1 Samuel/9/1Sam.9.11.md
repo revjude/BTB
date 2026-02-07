@@ -1,4 +1,4 @@
-**1 Samuel 9:11** 
+**1 Samuel 9:11**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] as they went up the hill to the city, they found young maidens going out to draw water, and said unto them, Is the seer here?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And as they were climbing the hill to the city, they met some young women coming
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.10|<< 1 Samuel 9:10]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.12|1 Samuel 9:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵ֗מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] going up  |**<big>&#8207;[[H5927G\|עֹלִים֙]]&#8207; </big>**| 'o.Lim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

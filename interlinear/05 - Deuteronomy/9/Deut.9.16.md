@@ -1,4 +1,4 @@
-**Deuteronomy 9:16** 
+**Deuteronomy 9:16**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I looked, and, behold, ye had sinned against the LORD your God, [and] had made you a molten calf: ye had turned aside quickly out of the way which the LORD had commanded you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I saw how you had sinned against the LORD your God; you had made for yoursel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.15|<< Deuteronomy 9:15]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.17|Deuteronomy 9:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7200G\|אֵ֗רֶא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'E.re'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

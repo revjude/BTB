@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:27** 
 <small><sub>**LXX:**</sub></small>
 On account of this, speak to the house  of Israel, O son of man! And you shall say to them, Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Until this \[time\] your fathers provoked me to anger in  their transgressions, in which they fell against me. 
-<small><sub>**KJV:**</sub></small>
-Therefore, son of man, speak unto the house of Israel, and say unto them, Thus saith the Lord GOD; Yet in this your fathers have blasphemed me, in that they have committed a trespass against me.
-<small><sub>**BSB:**</sub></small>
-Therefore, son of man, speak to the house of Israel, and tell them that this is what the Lord GOD says: In this way also your fathers blasphemed Me by their unfaithfulness against Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.26|<< Ezekiel 20:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.28|Ezekiel 20:28 >>]]</td></tr></table>
 
 | Translation | Greek |

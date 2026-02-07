@@ -1,12 +1,12 @@
-**Acts 24:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:10**<big><big>[[Acts.24.10 Paul’s Defense to Felix|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Paul, after that the governor had beckoned unto him to speak, answered, Forasmuch as I know that thou hast been of many years a judge unto this nation, I do the more cheerfully answer for myself:
 <small><sub>**BSB:**</sub></small>
 When the governor motioned for Paul to speak, he began his response: “Knowing that you have been a judge over this nation for many years, I gladly make my defense.
 <small><sub>**Literal:**</sub></small>
 Answered then <the> Paul, when was signalling to him the governor to speak: For many years as being you judge <the> to nation this knowing [these] encouraging things, concerning myself I present a defense;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.9|<< Acts 24:9]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.11|Acts 24:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|Ἀπεκρίθη]]</big>**  |Apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [^1] |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

@@ -1,4 +1,4 @@
-**2 Samuel 2:15** 
+**2 Samuel 2:15**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then there arose and went over by number twelve of Benjamin, which [pertained] to Ishbosheth the son of Saul, and twelve of the servants of David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they got up and were counted off—twelve for Benjamin and Ish-bosheth son of
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.14|<< 2 Samuel 2:14]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.16|2 Samuel 2:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּקֻ֖מוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ku.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they passed by  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|יַּעַבְר֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'av.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Luke 4:19
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:19**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To preach the acceptable year of the Lord.
 <small><sub>**BSB:**</sub></small>
 to proclaim the year of the Lord’s favor.”
@@ -10,7 +10,7 @@ to proclaim [the] year of [the] Lord’s favor.<br><table width="100%" border="0
 > $\quad$ referencing: [[LXX.Isa.61.1|Isa 61:1-2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to proclaim |**<big>[[G2784\|κηρύξαι]]</big>**  |kēruxai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] year |**<big>[[G1763\|ἐνιαυτὸν]]</big>**  |eniauton <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

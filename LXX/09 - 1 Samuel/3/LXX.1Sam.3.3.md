@@ -1,10 +1,7 @@
 **LXX 1 Samuel 3:3** 
 <small><sub>**LXX:**</sub></small>
 And the lamp  of God \[was\] before its being extinguished, and Samuel slept in the temple of \[the\] <span class="smallcaps">lord</span> where the ark  of God \[was\]. 
-<small><sub>**KJV:**</sub></small>
-And ere the lamp of God went out in the temple of the LORD, where the ark of God [was], and Samuel was laid down [to sleep];
-<small><sub>**BSB:**</sub></small>
-Before the lamp of God had gone out, Samuel was lying down in the temple of the LORD, where the ark of God was located.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.2|<< 1 Samuel 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.4|1 Samuel 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

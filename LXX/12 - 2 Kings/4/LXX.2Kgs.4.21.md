@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:21** 
 <small><sub>**LXX:**</sub></small>
 And she bore him, and rested him upon the bed of the man  of God, and locked after him, and went forth. 
-<small><sub>**KJV:**</sub></small>
-And she went up, and laid him on the bed of the man of God, and shut [the door] upon him, and went out.
-<small><sub>**BSB:**</sub></small>
-And she went up and laid him on the bed of the man of God. Then she shut the door and went out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.20|<< 2 Kings 4:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.22|2 Kings 4:22 >>]]</td></tr></table>
 
 | Translation | Greek |

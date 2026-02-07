@@ -1,4 +1,4 @@
-**Numbers 34:6** 
+**Numbers 34:6**<big><big>[[Num.34.1 The Boundaries of Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [as for] the western border, ye shall even have the great sea for a border: this shall be your west border.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your western border will be the coastline of the Great Sea; this will be your bo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.5|<< Numbers 34:5]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.7|Numbers 34:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] border of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1366G\|גְב֣וּל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ge.Vul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] west  |**<big>&#8207;[[H3220H\|יָ֔ם]]&#8207; </big>**| Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

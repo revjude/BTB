@@ -1,10 +1,7 @@
 **LXX Judges 14:17** 
 <small><sub>**LXX:**</sub></small>
 And she wept upon him for the seven days in which the banquet was to them. And it came to pass on the seventh day he explained to her, for she troubled him. And she reported to the sons  of her people. 
-<small><sub>**KJV:**</sub></small>
-And she wept before him the seven days, while their feast lasted: and it came to pass on the seventh day, that he told her, because she lay sore upon him: and she told the riddle to the children of her people.
-<small><sub>**BSB:**</sub></small>
-She wept the whole seven days of the feast, and finally on the seventh day, because she had pressed him so much, he told her the answer. And in turn she explained the riddle to her people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.16|<< Judges 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.18|Judges 14:18 >>]]</td></tr></table>
 
 | Translation | Greek |

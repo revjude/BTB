@@ -1,4 +1,4 @@
-**Deuteronomy 29:8** (29:7)
+**Deuteronomy 29:8**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we took their land, and gave it for an inheritance unto the Reubenites, and to the Gadites, and to the half tribe of Manasseh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We took their land and gave it as an inheritance to the Reubenites, the Gadites,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.7|<< Deuteronomy 29:7]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.9|Deuteronomy 29:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|נִּקַּח֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ni.Kach<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

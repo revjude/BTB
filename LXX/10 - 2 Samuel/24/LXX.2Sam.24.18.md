@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:18** 
 <small><sub>**LXX:**</sub></small>
 And Gad came to David in  that day, and said to him, Ascend, and set up  an altar to the <span class="smallcaps">lord</span> in the threshing-floor of Araunah the Jebusite! 
-<small><sub>**KJV:**</sub></small>
-And Gad came that day to David, and said unto him, Go up, rear an altar unto the LORD in the threshingfloor of Araunah the Jebusite.
-<small><sub>**BSB:**</sub></small>
-And that day Gad came to David and said to him, “Go up and build an altar to the LORD on the threshing floor of Araunah the Jebusite.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.17|<< 2 Samuel 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.19|2 Samuel 24:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:24** 
 <small><sub>**LXX:**</sub></small>
 and all the kings  of Arabia, and all the consolidations of the ones resting up in the wilderness, 
-<small><sub>**KJV:**</sub></small>
-And all the kings of Arabia, and all the kings of the mingled people that dwell in the desert,
-<small><sub>**BSB:**</sub></small>
-all the kings of Arabia, and all the kings of the mixed tribes who dwell in the desert;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.23|<< Jeremiah 25:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.25|Jeremiah 25:25 >>]]</td></tr></table>
 
 | Translation | Greek |

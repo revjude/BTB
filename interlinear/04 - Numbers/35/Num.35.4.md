@@ -1,4 +1,4 @@
-**Numbers 35:4** 
+**Numbers 35:4**<big><big>[[Num.35.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the suburbs of the cities, which ye shall give unto the Levites, [shall reach] from the wall of the city and outward a thousand cubits round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The pasturelands around the cities you are to give the Levites will extend a tho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.3|<< Numbers 35:3]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.5|Numbers 35:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] pasture lands of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4054\|מִגְרְשֵׁי֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mig.re.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cities  |**<big>&#8207;[[H9009\|הֶֽ]]&#8207;&#8207;[[H5892B\|עָרִ֔ים]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

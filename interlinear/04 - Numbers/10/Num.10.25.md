@@ -1,4 +1,4 @@
-**Numbers 10:25** 
+**Numbers 10:25**<big><big>[[Num.10.11 From Sinai to Paran|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the standard of the camp of the children of Dan set forward, [which was] the rereward of all the camps throughout their hosts: and over his host [was] Ahiezer the son of Ammishaddai.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Finally, the divisions of the camp of Dan set out under their standard, serving 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.24|<< Numbers 10:24]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.26|Numbers 10:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it set out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5265\|נָסַ֗ע]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Sa'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] standard of  |**<big>&#8207;[[H1714\|דֶּ֚גֶל]]&#8207; </big>**| De.gel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

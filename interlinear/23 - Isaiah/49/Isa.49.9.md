@@ -1,4 +1,4 @@
-**Isaiah 49:9** 
+**Isaiah 49:9**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thou mayest say to the prisoners, Go forth; to them that [are] in darkness, Shew yourselves. They shall feed in the ways, and their pastures [shall be] in all high places.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to say to the prisoners, ‘Come out,’ and to those in darkness, ‘Show yours
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.8|<< Isaiah 49:8]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.10|Isaiah 49:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to say  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0559\|אמֹ֤ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] prisoners  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H0631\|אֲסוּרִים֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.su.Rim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 21:28
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:28**<big><big>[[Luke.21.25 The Return of the Son of Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh.
 <small><sub>**BSB:**</sub></small>
 When these things begin to happen, stand up and lift up your heads, because your redemption is drawing near.”
 <small><sub>**Literal:**</sub></small>
 Beginning then of these things to come to pass do look up and do lift up the heads of you because draws near the redemption of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.27|<< Luke 21:27]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.29|Luke 21:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Beginning |**<big>[[G0757\|Ἀρχομένων]]</big>**  |Archomenōn <small><sup>[[V-PMP-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

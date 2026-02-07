@@ -1,4 +1,4 @@
-**Job 40:19** 
+**Job 40:19**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He [is] the chief of the ways of God: he that made him can make his sword to approach [unto him].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is the foremost of God’s works; only his Maker can draw the sword against h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.18|<< Job 40:18]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.20|Job 40:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it  |**<big>&#8207;[[H1931\|ה֭וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] first of  |**<big>&#8207;[[H7225G\|רֵאשִׁ֣ית]]&#8207; </big>**| re.Shit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

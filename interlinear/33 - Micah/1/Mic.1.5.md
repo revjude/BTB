@@ -1,4 +1,4 @@
-**Micah 1:5** 
+**Micah 1:5**<big><big>[[Mic.1.1 Judgment to Come|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the transgression of Jacob [is] all this, and for the sins of the house of Israel. What [is] the transgression of Jacob? [is it] not Samaria? and what [are] the high places of Judah? [are they] not Jerusalem?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All this is for the transgression of Jacob and the sins of the house of Israel. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.4|<< Micah 1:4]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.6|Micah 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] for [the] transgression of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6588\|פֶ֤שַׁע]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Fe.sha'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַֽעֲקֹב֙]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

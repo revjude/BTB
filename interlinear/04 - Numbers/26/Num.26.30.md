@@ -1,4 +1,4 @@
-**Numbers 26:30** 
+**Numbers 26:30**<big><big>[[Num.26.28 The Tribe of Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the sons of Gilead: [of] Jeezer, the family of the Jeezerites: of Helek, the family of the Helekites:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the descendants of Gilead: the Iezerite clan from Iezer, the Helekite
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.29|<< Numbers 26:29]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.31|Numbers 26:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֚לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

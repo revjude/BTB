@@ -1,12 +1,12 @@
-**Acts 7:59
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:59**<big><big>[[Acts.7.54 The Stoning of Stephen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they stoned Stephen, calling upon [God], and saying, Lord Jesus, receive my spirit.
 <small><sub>**BSB:**</sub></small>
 While they were stoning him, Stephen appealed, “Lord Jesus, receive my spirit.”
 <small><sub>**Literal:**</sub></small>
 And [as] they were stoning <the> Stephen he was calling out and saying; Lord Jesus, do receive the spirit of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.58|<< Acts 7:58]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.60|Acts 7:60 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And [as] |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were stoning |**<big>[[G3036\|ἐλιθοβόλουν]]</big>**  |elithoboloun <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

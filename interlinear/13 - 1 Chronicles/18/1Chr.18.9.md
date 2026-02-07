@@ -1,4 +1,4 @@
-**1 Chronicles 18:9** 
+**1 Chronicles 18:9**<big><big>[[1Chr.18.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when Tou king of Hamath heard how David had smitten all the host of Hadarezer king of Zobah;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When King Tou of Hamath heard that David had defeated the entire army of Hadadez
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.8|<< 1 Chronicles 18:8]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.10|1 Chronicles 18:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַ֕ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Tou  |**<big>&#8207;[[H8583\|תֹּ֖עוּ]]&#8207; </big>**| To.'u<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 38:14** 
+**Genesis 38:14**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she put her widow’s garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which [is] by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ she removed her widow’s garments, covered her face with a veil to disguise her
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.13|<< Genesis 38:13]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.15|Genesis 38:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she removed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5493G\|תָּסַר֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Sar<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] clothes of  |**<big>&#8207;[[H0899B\|בִּגְדֵ֨י]]&#8207; </big>**| big.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

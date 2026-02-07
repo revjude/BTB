@@ -1,10 +1,7 @@
 **LXX Isaiah 59:13** 
 <small><sub>**LXX:**</sub></small>
 We were impious, and lied, and departed from  our God. We spoke unjustly, and we resisted persuasion. We sired, and meditated unjust words from our heart. 
-<small><sub>**KJV:**</sub></small>
-In transgressing and lying against the LORD, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
-<small><sub>**BSB:**</sub></small>
-rebelling and denying the LORD, turning away from our God, speaking oppression and revolt, conceiving and uttering lies from the heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.59.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.12|<< Isaiah 59:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.14|Isaiah 59:14 >>]]</td></tr></table>
 
 | Translation | Greek |

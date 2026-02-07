@@ -1,12 +1,12 @@
-**Acts 13:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:26**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Men [and] brethren, children of the stock of Abraham, and whosoever among you feareth God, to you is the word of this salvation sent.
 <small><sub>**BSB:**</sub></small>
 Brothers, children of Abraham, and you Gentiles who fear God, it is to us that this message of salvation has been sent.
 <small><sub>**Literal:**</sub></small>
 Men brothers, sons of [the] family of Abraham and you who [are] among you fearing <the> God, to us the message of the salvation this was sent out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.25|<< Acts 13:25]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.27|Acts 13:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Men |**<big>[[G0435G\|Ἄνδρες]]</big>**  |Andres <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | brothers, |**<big>[[G0080\|ἀδελφοί,]]</big>**  |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

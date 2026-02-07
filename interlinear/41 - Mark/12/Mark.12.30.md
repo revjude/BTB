@@ -1,5 +1,5 @@
-**Mark 12:30
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:30**<big><big>[[Mark.12.28 The Greatest Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this [is] the first commandment.
 <small><sub>**BSB:**</sub></small>
 Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’
@@ -10,7 +10,7 @@ and you will love [the] Lord the God of you with all the heart of you and with a
 > $\quad$ referencing: [[LXX.Deut.6.4|Deut 6:4-5]] ☩ [[LXX.Josh.22.5|Josh 22:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you will love |**<big>[[G0025\|ἀγαπήσεις]]</big>**  |agapēseis <small><sup>[[V-FAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

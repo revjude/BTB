@@ -1,4 +1,4 @@
-**Habakkuk 3:2** 
+**Habakkuk 3:2**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, I have heard thy speech, [and] was afraid: O LORD, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O LORD, I have heard the report of You; I stand in awe, O LORD, of Your deeds. R
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.1|<< Habakkuk 3:1]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.3|Habakkuk 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have heard  |**<big>&#8207;[[H8085G\|שָׁמַ֣עְתִּי]]&#8207; </big>**| sha.Ma'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

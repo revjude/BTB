@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you, take up a lamentation against the ruler  of Israel! 
-<small><sub>**KJV:**</sub></small>
-Moreover take thou up a lamentation for the princes of Israel,
-<small><sub>**BSB:**</sub></small>
-“As for you, take up a lament for the princes of Israel<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.32|<< Ezekiel 18:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.2|Ezekiel 19:2 >>]]</td></tr></table>
 
 | Translation | Greek |

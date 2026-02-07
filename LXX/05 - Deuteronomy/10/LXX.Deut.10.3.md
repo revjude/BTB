@@ -1,10 +1,7 @@
 **LXX Deuteronomy 10:3** 
 <small><sub>**LXX:**</sub></small>
 And I made \[the\] ark from out of incorruptible wood. And I dressed the two stone tablets as the first. And I ascended into the mountain, and the two tablets \[were\] upon  my two hands. 
-<small><sub>**KJV:**</sub></small>
-And I made an ark [of] shittim wood, and hewed two tables of stone like unto the first, and went up into the mount, having the two tables in mine hand.
-<small><sub>**BSB:**</sub></small>
-So I made an ark of acacia wood, chiseled out two stone tablets like the originals, and went up the mountain with the two tablets in my hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.2|<< Deuteronomy 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.4|Deuteronomy 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

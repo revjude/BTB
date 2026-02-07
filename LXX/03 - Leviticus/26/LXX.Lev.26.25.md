@@ -1,10 +1,7 @@
 **LXX Leviticus 26:25** 
 <small><sub>**LXX:**</sub></small>
 And I will bring upon you a sword, avenging punishment of covenant. And you shall take refuge in  your cities, and I will send out plague upon you; and you shall be delivered up into \[the\] hands of the enemies. 
-<small><sub>**KJV:**</sub></small>
-And I will bring a sword upon you, that shall avenge the quarrel of [my] covenant: and when ye are gathered together within your cities, I will send the pestilence among you; and ye shall be delivered into the hand of the enemy.
-<small><sub>**BSB:**</sub></small>
-And I will bring a sword against you to execute the vengeance of the covenant. Though you withdraw into your cities, I will send a plague among you, and you will be delivered into the hand of the enemy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.24|<< Leviticus 26:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.26|Leviticus 26:26 >>]]</td></tr></table>
 
 | Translation | Greek |

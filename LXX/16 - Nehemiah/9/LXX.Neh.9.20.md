@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:20** 
 <small><sub>**LXX:**</sub></small>
 And  your good spirit gave a bringing of understanding to them, and  your manna you did not withhold from their mouth, and you gave water to them in  their thirst. 
-<small><sub>**KJV:**</sub></small>
-Thou gavest also thy good spirit to instruct them, and withheldest not thy manna from their mouth, and gavest them water for their thirst.
-<small><sub>**BSB:**</sub></small>
-You gave Your good Spirit to instruct them. You did not withhold Your manna from their mouths, and You gave them water for their thirst.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.19|<< Nehemiah 9:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.21|Nehemiah 9:21 >>]]</td></tr></table>
 
 | Translation | Greek |

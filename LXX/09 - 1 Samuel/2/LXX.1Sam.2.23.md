@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:23** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, Why do you do according to  these things, which I hear being spoken ill of you from \[the\] mouth of all the people of \[the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, Why do ye such things? for I hear of your evil dealings by all this people.
-<small><sub>**BSB:**</sub></small>
-“Why are you doing these things?” Eli said to his sons. “I hear about your wicked deeds from all these people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.22|<< 1 Samuel 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.24|1 Samuel 2:24 >>]]</td></tr></table>
 
 | Translation | Greek |

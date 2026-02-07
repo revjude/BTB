@@ -1,4 +1,4 @@
-**Hosea 8:4** 
+**Hosea 8:4**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have set up kings, but not by me: they have made princes, and I knew [it] not: of their silver and their gold have they made them idols, that they may be cut off.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They set up kings, but not by Me. They make princes, but without My approval. Wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.3|<< Hosea 8:3]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.5|Hosea 8:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵ֤ם]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have made kings  |**<big>&#8207;[[H4427A\|הִמְלִיכוּ֙]]&#8207; </big>**| him.li.Khu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

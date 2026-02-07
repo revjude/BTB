@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 22:5** 
 <small><sub>**LXX:**</sub></small>
 And David said, Solomon  my son \[is\] a tender boy, and the house  to be built to the <span class="smallcaps">lord</span>  \[must be\] to magnify upward, for a name and for glory in all the earth. I shall prepare for it. And David prepared \[for it\] in multitude before  his decease. 
-<small><sub>**KJV:**</sub></small>
-And David said, Solomon my son [is] young and tender, and the house [that is] to be builded for the LORD [must be] exceeding magnifical, of fame and of glory throughout all countries: I will [therefore] now make preparation for it. So David prepared abundantly before his death.
-<small><sub>**BSB:**</sub></small>
-And David said, “My son Solomon is young and inexperienced, and the house to be built for the LORD must be exceedingly magnificent—famous and glorious throughout all lands. Therefore I must make preparations for it.” So David made lavish preparations before his death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.22.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.4|<< 1 Chronicles 22:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.6|1 Chronicles 22:6 >>]]</td></tr></table>
 
 | Translation | Greek |

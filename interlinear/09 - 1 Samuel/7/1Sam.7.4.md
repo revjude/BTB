@@ -1,4 +1,4 @@
-**1 Samuel 7:4** 
+**1 Samuel 7:4**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the children of Israel did put away Baalim and Ashtaroth, and served the LORD only.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So the Israelites put away the Baals and Ashtoreths and served only the LORD.
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they removed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5493G\|יָּסִ֙ירוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Si.ru<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

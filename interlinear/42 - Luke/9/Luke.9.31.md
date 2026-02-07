@@ -1,12 +1,12 @@
-**Luke 9:31
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:31**<big><big>[[Luke.9.28 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who appeared in glory, and spake of his decease which he should accomplish at Jerusalem.
 <small><sub>**BSB:**</sub></small>
 They appeared in glory and spoke about His departure, which He was about to accomplish at Jerusalem.
 <small><sub>**Literal:**</sub></small>
 Those having appeared in glory were speaking of the going out of Him which He was soon to accomplish in Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.30|<< Luke 9:30]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.32|Luke 9:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3739\|οἳ]]</big>**  |hoi <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having appeared |**<big>[[G3700H\|ὀφθέντες]]</big>**  |ophthentes <small><sup>[[V-APP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

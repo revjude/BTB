@@ -1,12 +1,12 @@
-**Luke 9:57
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:57**<big><big>[[Luke.9.57 The Cost of Discipleship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, that, as they went in the way, a certain [man] said unto him, Lord, I will follow thee whithersoever thou goest.
 <small><sub>**BSB:**</sub></small>
 As they were walking along the road, someone said to Jesus, “I will follow You wherever You go.”
 <small><sub>**Literal:**</sub></small>
 And it came to pass now when are going they along the road said someone to Him; I will follow You wherever maybe You shall go Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.56|<< Luke 9:56]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.58|Luke 9:58 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | it came to pass [^1] |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="TR+Byz">KO</abbr> | |

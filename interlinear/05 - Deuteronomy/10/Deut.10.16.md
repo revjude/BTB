@@ -1,4 +1,4 @@
-**Deuteronomy 10:16** 
+**Deuteronomy 10:16**<big><big>[[Deut.10.12 A Call to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Circumcise therefore the foreskin of your heart, and be no more stiffnecked.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Circumcise your hearts, therefore, and stiffen your necks no more.
 > $\quad$ referenced by: [[Col.2.11|Col 2:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will circumcise  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4135A\|מַלְתֶּ֕ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> mal.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:8** 
 <small><sub>**LXX:**</sub></small>
 And if you should build a new house, then you shall make a rim  for your roof, and you will not cause carnage in  your house if should fall  one falling from it. 
-<small><sub>**KJV:**</sub></small>
-When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from thence.
-<small><sub>**BSB:**</sub></small>
-If you build a new house, you are to construct a railing around your roof, so that you do not bring bloodguilt on your house if someone falls from it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.7|<< Deuteronomy 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.9|Deuteronomy 22:9 >>]]</td></tr></table>
 
 | Translation | Greek |

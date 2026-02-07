@@ -1,4 +1,4 @@
-**Leviticus 5:1** 
+**Leviticus 5:1**<big><big>[[Lev.5.1 Sins Requiring a Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a soul sin, and hear the voice of swearing, and [is] a witness, whether he hath seen or known [of it]; if he do not utter [it], then he shall bear his iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And if a soul sin, and hear the voice of swearing, and [is] a witness, whether h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.35|<< Leviticus 4:35]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.2|Leviticus 5:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and anyone  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5315J\|נֶ֣פֶשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

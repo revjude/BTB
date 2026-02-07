@@ -1,10 +1,7 @@
 **LXX Psalm 115:6** 
 <small><sub>**LXX:**</sub></small>
 they have ears, but they shall not hear; they have noses, but they shall not smell; 
-<small><sub>**KJV:**</sub></small>
-They have ears, but they hear not: noses have they, but they smell not:
-<small><sub>**BSB:**</sub></small>
-they have ears, but cannot hear; they have noses, but cannot smell;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.115.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.5|<< Psalm 115:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.7|Psalm 115:7 >>]]</td></tr></table>
 
 | Translation | Greek |

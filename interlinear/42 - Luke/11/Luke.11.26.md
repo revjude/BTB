@@ -1,12 +1,12 @@
-**Luke 11:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:26**<big><big>[[Luke.11.24 An Unclean Spirit Returns|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then goeth he, and taketh [to him] seven other spirits more wicked than himself; and they enter in, and dwell there: and the last [state] of that man is worse than the first.
 <small><sub>**BSB:**</sub></small>
 Then it goes and brings seven other spirits more wicked than itself, and they go in and dwell there. And the final plight of that man is worse than the first.”
 <small><sub>**Literal:**</sub></small>
 Then it goes and it takes other spirits more evil than itself seven, and having entered they dwell there; and becomes the last of the man that [one] worse than the first.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.25|<< Luke 11:25]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.27|Luke 11:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it goes |**<big>[[G4198\|πορεύεται]]</big>**  |poreuetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

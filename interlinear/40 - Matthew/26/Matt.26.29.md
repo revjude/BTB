@@ -1,12 +1,12 @@
-**Matthew 26:29
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:29**<big><big>[[Matt.26.20 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I say unto you, I will not drink henceforth of this fruit of the vine, until that day when I drink it new with you in my Father’s kingdom.
 <small><sub>**BSB:**</sub></small>
 I tell you, I will not drink of this fruit of the vine from now on until that day when I drink it anew with you in My Father’s kingdom.”
 <small><sub>**Literal:**</sub></small>
 I say now to you that: certainly not shall I drink from now of this the fruit of the vine until the day that when it I may drink with you anew in the kingdom of the Father of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.28|<< Matthew 26:28]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.30|Matthew 26:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

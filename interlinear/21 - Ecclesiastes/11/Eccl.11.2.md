@@ -1,4 +1,4 @@
-**Ecclesiastes 11:2** 
+**Ecclesiastes 11:2**<big><big>[[Eccl.11.1 Cast Your Bread upon the Waters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Divide your portion among seven, or even eight, for you do not know what disaste
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11.1|<< Ecclesiastes 11:1]]</td><td align="center" style="border:none;">[[Eccl.11|Ecclesiastes 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.3|Ecclesiastes 11:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give  |**<big>&#8207;[[H5414G\|תֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ten-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a portion  |**<big>&#8207;[[H2506A\|חֵ֥לֶק]]&#8207; </big>**| Che.lek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

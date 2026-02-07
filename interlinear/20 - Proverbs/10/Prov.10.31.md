@@ -1,4 +1,4 @@
-**Proverbs 10:31** 
+**Proverbs 10:31**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The mouth of the righteous brings forth wisdom, but a perverse tongue will be cu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.30|<< Proverbs 10:30]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.32|Proverbs 10:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] mouth of  |**<big>&#8207;[[H6310G\|פִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a righteous [person]  |**<big>&#8207;[[H6662\|צַ֭דִּיק]]&#8207; </big>**| Tza.dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

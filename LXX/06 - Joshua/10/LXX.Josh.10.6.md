@@ -1,10 +1,7 @@
 **LXX Joshua 10:6** 
 <small><sub>**LXX:**</sub></small>
 And the ones dwelling in Gibeon sent to Joshua into the camp of Israel in Gilgal, saying, Do not loosen  your hands from  your servants! Ascend to us  quickly and rescue us, and help us! for all the kings of the Amorites are gathering against us, the ones dwelling in the mountainous area. 
-<small><sub>**KJV:**</sub></small>
-And the men of Gibeon sent unto Joshua to the camp to Gilgal, saying, Slack not thy hand from thy servants; come up to us quickly, and save us, and help us: for all the kings of the Amorites that dwell in the mountains are gathered together against us.
-<small><sub>**BSB:**</sub></small>
-Then the men of Gibeon sent word to Joshua in the camp at Gilgal: “Do not abandon your servants. Come quickly and save us! Help us, because all the kings of the Amorites from the hill country have joined forces against us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.5|<< Joshua 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.7|Joshua 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

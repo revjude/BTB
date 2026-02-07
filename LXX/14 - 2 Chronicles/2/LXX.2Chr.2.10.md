@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 2:10** 
 <small><sub>**LXX:**</sub></small>
 And behold, to the ones working in the felling timbers, I have given grain for foods as gifts \[to\] your servants of cors of wheat -- twenty thousand, and barley cors -- twenty thousand, and wine measures -- twenty thousand, and olive oil measures -- twenty thousand. 
-<small><sub>**KJV:**</sub></small>
-And, behold, I will give to thy servants, the hewers that cut timber, twenty thousand measures of beaten wheat, and twenty thousand measures of barley, and twenty thousand baths of wine, and twenty thousand baths of oil.
-<small><sub>**BSB:**</sub></small>
-I will pay your servants, the woodcutters, 20,000 cors of ground wheat, 20,000 cors of barley, 20,000 baths of wine, and 20,000 baths of olive oil.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.9|<< 2 Chronicles 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.11|2 Chronicles 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

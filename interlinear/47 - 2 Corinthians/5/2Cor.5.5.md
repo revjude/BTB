@@ -1,12 +1,12 @@
-**2 Corinthians 5:5
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 5:5**<big><big>[[2Cor.5.1 Our Eternal Dwelling|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now he that hath wrought us for the selfsame thing [is] God, who also hath given unto us the earnest of the Spirit.
 <small><sub>**BSB:**</sub></small>
 And it is God who has prepared us for this very purpose and has given us the Spirit as a pledge of what is to come.
 <small><sub>**Literal:**</sub></small>
 The [One] now having prepared us for very this [is] God, <the> and having given to us the pledge of the Spirit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.4|<< 2 Corinthians 5:4]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.6|2 Corinthians 5:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [One] |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

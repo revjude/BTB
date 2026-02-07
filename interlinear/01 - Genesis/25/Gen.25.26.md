@@ -1,4 +1,4 @@
-**Genesis 25:26** 
+**Genesis 25:26**<big><big>[[Gen.25.19 Jacob and Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after that came his brother out, and his hand took hold on Esau’s heel; and his name was called Jacob: and Isaac [was] threescore years old when she bare them.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ After this, his brother came out grasping Esau’s heel; so he was named Jacob. 
 > $\quad$ referenced by: [[Acts.7.8|Acts 7:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַֽחֲרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.cha.rei-<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3651C\|כֵ֞ן]]&#8207; </big>**| khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**1 Thessalonians 5:8
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 5:8**<big><big>[[1Thess.5.1 The Day of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation.
 <small><sub>**BSB:**</sub></small>
 But since we belong to the day, let us be sober, putting on the breastplate of faith and love, and the helmet of our hope of salvation.
@@ -10,7 +10,7 @@ We ourselves however of [the] day being may be sober having put on [the] breastp
 > $\quad$ alluding to: [[LXX.Isa.59.17|Isa 59:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

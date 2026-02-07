@@ -1,12 +1,12 @@
-**James 1:26
-**<small><sub>**KJV:**</sub></small>
+**James 1:26**<big><big>[[Jas.1.19 Hearing and Doing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion [is] vain.
 <small><sub>**BSB:**</sub></small>
 If anyone considers himself religious and yet does not bridle his tongue, he deceives his heart and his religion is worthless.
 <small><sub>**Literal:**</sub></small>
 If anyone seems religious to be among you not bridling [the] tongue of him but deceiving [the] heart of him, of this one worthless [is] the religion.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.25|<< James 1:25]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.27|James 1:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|Εἴ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

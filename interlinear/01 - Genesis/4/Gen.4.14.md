@@ -1,4 +1,4 @@
-**Genesis 4:14** 
+**Genesis 4:14**<big><big>[[Gen.4.1 Cain and Abel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, [that] every one that findeth me shall slay me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, this day You have driven me from the face of the earth, and from Your fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.13|<< Genesis 4:13]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.15|Genesis 4:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2005\|הֵן֩]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have driven away  |**<big>&#8207;[[H1644G\|גֵּרַ֨שְׁתָּ]]&#8207; </big>**| ge.Rash.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

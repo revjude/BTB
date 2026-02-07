@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:5** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after the dying of Ahab, Moab annulled \[allegiance\] with \[the\] king of Israel. 
-<small><sub>**KJV:**</sub></small>
-But it came to pass, when Ahab was dead, that the king of Moab rebelled against the king of Israel.
-<small><sub>**BSB:**</sub></small>
-But after the death of Ahab, the king of Moab rebelled against the king of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.4|<< 2 Kings 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.6|2 Kings 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

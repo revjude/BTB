@@ -1,4 +1,4 @@
-**Ezekiel 19:9** 
+**Ezekiel 19:9**<big><big>[[Ezek.19.1 A Lament for the Princes of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they put him in ward in chains, and brought him to the king of Babylon: they brought him into holds, that his voice should no more be heard upon the mountains of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With hooks they caged him and brought him to the king of Babylon. They brought h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.19.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.8|<< Ezekiel 19:8]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.10|Ezekiel 19:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they put it  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5414H\|יִּתְּנֻ֤]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Nu.<small><sup>[[HVqw3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> cage  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H5474\|סּוּגַר֙]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> su.Gar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

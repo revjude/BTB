@@ -1,10 +1,7 @@
 **LXX Judges 20:13** 
 <small><sub>**LXX:**</sub></small>
 And now, give \[over\] the impious men  in Gibeah, the sons of Belial, and we shall kill them and lift away evil from Israel. But the sons of Benjamin did not want to hear the voice  of their brethren \[of the\] sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-Now therefore deliver [us] the men, the children of Belial, which [are] in Gibeah, that we may put them to death, and put away evil from Israel. But the children of Benjamin would not hearken to the voice of their brethren the children of Israel:
-<small><sub>**BSB:**</sub></small>
-Hand over the wicked men of Gibeah so we can put them to death and purge Israel of this evil.” But the Benjamites refused to heed the voice of their fellow Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.12|<< Judges 20:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.14|Judges 20:14 >>]]</td></tr></table>
 
 | Translation | Greek |

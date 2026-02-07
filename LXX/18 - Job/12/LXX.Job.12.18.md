@@ -1,10 +1,7 @@
 **LXX Job 12:18** 
 <small><sub>**LXX:**</sub></small>
 sitting kings upon thrones, and ties a belt on their loins; 
-<small><sub>**KJV:**</sub></small>
-He looseth the bond of kings, and girdeth their loins with a girdle.
-<small><sub>**BSB:**</sub></small>
-He loosens the bonds placed by kings and fastens a belt around their waists.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.12.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.17|<< Job 12:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.19|Job 12:19 >>]]</td></tr></table>
 
 | Translation | Greek |

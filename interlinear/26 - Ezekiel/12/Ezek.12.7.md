@@ -1,4 +1,4 @@
-**Ezekiel 12:7** 
+**Ezekiel 12:7**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I did so as I was commanded: I brought forth my stuff by day, as stuff for captivity, and in the even I digged through the wall with mine hand; I brought [it] forth in the twilight, [and] I bare [it] upon [my] shoulder in their sight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I did as I was commanded. I brought out my bags for exile by day, and in the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.6|<< Ezekiel 12:6]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.8|Ezekiel 12:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I did  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6213A\|אַ֣עַשׂ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'A.'as<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so  |**<big>&#8207;[[H3651C\|כֵּן֮]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

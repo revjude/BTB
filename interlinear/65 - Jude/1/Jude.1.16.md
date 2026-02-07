@@ -1,12 +1,12 @@
-**Jude 1:16
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:16**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These are murmurers, complainers, walking after their own lusts; and their mouth speaketh great swelling [words], having men’s persons in admiration because of advantage.
 <small><sub>**BSB:**</sub></small>
 These men are discontented grumblers, following after their own lusts; their mouths spew arrogance; they flatter others for their own advantage.
 <small><sub>**Literal:**</sub></small>
 These are grumblers discontented, after the lusts of themselves following, and the mouth of them speaks great swelling [words], flattering faces of profit because.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.15|<< Jude 1:15]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.17|Jude 1:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These |**<big>[[G3778\|οὗτοί]]</big>**  |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are |**<big>[[G1510\|εἰσιν]]</big>**  |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 8:17** 
 <small><sub>**LXX:**</sub></small>
 And I beheld all the actions  of God, that man shall not be able  to find \[out\] the action  being done under the sun. As long as man should make an effort  to seek, even he shall not find \[it\]. And indeed, as long as \[the\] wise should speak  to know \[it\], he shall not be able  to find \[it\]. For all this I gave to my heart, and my heart beheld all this. 
-<small><sub>**KJV:**</sub></small>
-Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek [it] out, yet he shall not find [it]; yea further; though a wise [man] think to know [it], yet shall he not be able to find [it].
-<small><sub>**BSB:**</sub></small>
-I saw every work of God, and that a man is unable to comprehend the work that is done under the sun. Despite his efforts to search it out, he cannot find its meaning; even if the wise man claims to know, he is unable to comprehend.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.16|<< Ecclesiastes 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.1|Ecclesiastes 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

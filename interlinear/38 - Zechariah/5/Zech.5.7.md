@@ -1,4 +1,4 @@
-**Zechariah 5:7** 
+**Zechariah 5:7**<big><big>[[Zech.5.5 The Vision of the Woman in a Basket|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, there was lifted up a talent of lead: and this [is] a woman that sitteth in the midst of the ephah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And behold, the cover of lead was raised, and there was a woman sitting inside t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.5.6|<< Zechariah 5:6]]</td><td align="center" style="border:none;">[[Zech.5|Zechariah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.5.8|Zechariah 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֛ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a round cover of  |**<big>&#8207;[[H3603H\|כִּכַּ֥ר]]&#8207; </big>**| ki.Kar<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

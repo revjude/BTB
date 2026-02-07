@@ -1,10 +1,7 @@
 **LXX Genesis 5:11** 
 <small><sub>**LXX:**</sub></small>
 And came to pass all the days of Enos, five years and nine hundred, and he died. 
-<small><sub>**KJV:**</sub></small>
-And all the days of Enos were nine hundred and five years: and he died.
-<small><sub>**BSB:**</sub></small>
-So Enosh lived a total of 905 years, and then he died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.10|<< Genesis 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.12|Genesis 5:12 >>]]</td></tr></table>
 
 | Translation | Greek |

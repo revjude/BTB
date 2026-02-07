@@ -1,10 +1,7 @@
 **LXX Amos 9:7** 
 <small><sub>**LXX:**</sub></small>
 Are you not as sons of Ethiopians to me, O sons of Israel, says \[the\] <span class="smallcaps">lord</span>? Did I not  lead Israel from out of \[the\] land of Egypt, and the Philistines from out of Cappadocia, and the Syrians from out of \[the\] pit? 
-<small><sub>**KJV:**</sub></small>
-[Are] ye not as children of the Ethiopians unto me, O children of Israel? saith the LORD. Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?
-<small><sub>**BSB:**</sub></small>
-“Are you not like the Cushites to Me, O children of Israel?” declares the LORD. “Did I not bring Israel up from the land of Egypt, the Philistines from Caphtor, and the Arameans from Kir?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.6|<< Amos 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.8|Amos 9:8 >>]]</td></tr></table>
 
 | Translation | Greek |

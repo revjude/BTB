@@ -1,12 +1,12 @@
-**Galatians 5:19
-**<small><sub>**KJV:**</sub></small>
+**Galatians 5:19**<big><big>[[Gal.5.16 Walking by the Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now the works of the flesh are manifest, which are [these]; Adultery, fornication, uncleanness, lasciviousness,
 <small><sub>**BSB:**</sub></small>
 The acts of the flesh are obvious: sexual immorality, impurity, and debauchery;
 <small><sub>**Literal:**</sub></small>
 Evident now are the works of the flesh which are adultery sexual immorality, impurity, sensuality,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.18|<< Galatians 5:18]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.20|Galatians 5:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Evident |**<big>[[G5318\|φανερὰ]]</big>**  |phanera <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

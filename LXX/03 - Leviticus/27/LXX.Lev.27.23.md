@@ -1,10 +1,7 @@
 **LXX Leviticus 27:23** 
 <small><sub>**LXX:**</sub></small>
 the priest shall impute to him the full  value from the year of the release, and he shall render the value in  that day as holy to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Then the priest shall reckon unto him the worth of thy estimation, [even] unto the year of the jubile: and he shall give thine estimation in that day, [as] a holy thing unto the LORD.
-<small><sub>**BSB:**</sub></small>
-then the priest shall calculate for him the value up to the Year of Jubilee, and the man shall pay the assessed value on that day as a sacred offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.22|<< Leviticus 27:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.24|Leviticus 27:24 >>]]</td></tr></table>
 
 | Translation | Greek |

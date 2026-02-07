@@ -1,4 +1,4 @@
-**Psalms 50:12** 
+**Psalms 50:12**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I were hungry, I would not tell thee: for the world [is] mine, and the fulness thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If I were hungry, I would not tell you, for the world is Mine, and the fullness 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.11|<< Psalms 50:11]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.13|Psalms 50:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will be hungry  |**<big>&#8207;[[H7456\|אֶ֭רְעַב]]&#8207; </big>**| 'Er.'av<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

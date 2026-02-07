@@ -1,4 +1,4 @@
-**Psalms 19:9** (19:10)
+**Psalms 19:9**<big><big>[[Ps.19.1 The Heavens Declare the Glory of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fear of the LORD [is] clean, enduring for ever: the judgments of the LORD [are] true [and] righteous altogether.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fear of the LORD is pure, enduring forever; the judgments of the LORD are tr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.19.8|<< Psalms 19:8]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.10|Psalms 19:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] fear of  |**<big>&#8207;[[H3374\|יִרְאַ֤ת]]&#8207; </big>**| yir.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

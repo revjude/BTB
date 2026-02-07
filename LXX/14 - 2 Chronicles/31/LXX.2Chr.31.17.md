@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 31:17** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the distribution of the priests according to \[the\] houses of \[their\] families; and the Levites in  their daily rotations from twenty years and up, in arrangement, 
-<small><sub>**KJV:**</sub></small>
-Both to the genealogy of the priests by the house of their fathers, and the Levites from twenty years old and upward, in their charges by their courses;
-<small><sub>**BSB:**</sub></small>
-and to the priests enrolled according to their families in the genealogy, as well as to the Levites twenty years of age or older, according to their responsibilities and divisions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.31.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.16|<< 2 Chronicles 31:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.18|2 Chronicles 31:18 >>]]</td></tr></table>
 
 | Translation | Greek |

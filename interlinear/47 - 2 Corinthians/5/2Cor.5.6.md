@@ -1,12 +1,12 @@
-**2 Corinthians 5:6
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 5:6**<big><big>[[2Cor.5.1 Our Eternal Dwelling|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore [we are] always confident, knowing that, whilst we are at home in the body, we are absent from the Lord:
 <small><sub>**BSB:**</sub></small>
 Therefore we are always confident, although we know that while we are at home in the body, we are away from the Lord.
 <small><sub>**Literal:**</sub></small>
 being confident therefore always and knowing that being at home in the body, we are absent from the Lord;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.5|<< 2 Corinthians 5:5]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.7|2 Corinthians 5:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | being confident |**<big>[[G2292\|Θαρροῦντες]]</big>**  |Tharrountes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

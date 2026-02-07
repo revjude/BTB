@@ -1,12 +1,12 @@
-**Acts 7:52
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:52**<big><big>[[Acts.7.44 The Tabernacle of the Testimony|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:
 <small><sub>**BSB:**</sub></small>
 Which of the prophets did your fathers fail to persecute? They even killed those who foretold the coming of the Righteous One. And now you are His betrayers and murderers—
 <small><sub>**Literal:**</sub></small>
 Which of the prophets not did persecute the fathers of you? And they killed those having foretold about the coming of the Righteous One, of whom now you yourselves betrayers and murderers have become;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.51|<< Acts 7:51]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.53|Acts 7:53 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Which |**<big>[[G5101\|τίνα]]</big>**  |tina <small><sup>[[I-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of the |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

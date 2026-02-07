@@ -1,10 +1,7 @@
 **LXX Proverbs 10:30** 
 <small><sub>**LXX:**</sub></small>
 \[The\] just shall not give way into the eon; but \[the\] impious shall not live on \[the\] earth. 
-<small><sub>**KJV:**</sub></small>
-The righteous shall never be removed: but the wicked shall not inhabit the earth.
-<small><sub>**BSB:**</sub></small>
-The righteous will never be shaken, but the wicked will not inhabit the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.10.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.29|<< Proverbs 10:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.31|Proverbs 10:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 2:5** 
 <small><sub>**LXX:**</sub></small>
 And the sons of the prophets in Jericho approached to Elisha, and they said to him, Do you know that today \[the\] <span class="smallcaps">lord</span> takes  your master from above  your head? And he said, I knew, keep silent! 
-<small><sub>**KJV:**</sub></small>
-And the sons of the prophets that [were] at Jericho came to Elisha, and said unto him, Knowest thou that the LORD will take away thy master from thy head to day? And he answered, Yea, I know [it]; hold ye your peace.
-<small><sub>**BSB:**</sub></small>
-Then the sons of the prophets at Jericho came up to Elisha and said, “Do you know that the LORD will take your master away from you today?” “Yes, I know,” he replied. “Do not speak of it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.4|<< 2 Kings 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.6|2 Kings 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

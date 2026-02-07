@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:15** 
 <small><sub>**LXX:**</sub></small>
 And I lifted  my hand against them in the wilderness, the thorough one,  to not bring them into the land which I gave to them, a land flowing milk and honey; (\[the\] honeycomb is beyond all the land). 
-<small><sub>**KJV:**</sub></small>
-Yet also I lifted up my hand unto them in the wilderness, that I would not bring them into the land which I had given [them], flowing with milk and honey, which [is] the glory of all lands;
-<small><sub>**BSB:**</sub></small>
-Moreover, with an uplifted hand I swore to them in the wilderness that I would not bring them into the land that I had given them—a land flowing with milk and honey, the glory of all lands—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.14|<< Ezekiel 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.16|Ezekiel 20:16 >>]]</td></tr></table>
 
 | Translation | Greek |

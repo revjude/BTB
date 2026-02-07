@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And as he ceased speaking all  these words, the earth \[was\] torn underneath them. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as he had made an end of speaking all these words, that the ground clave asunder that [was] under them:
-<small><sub>**BSB:**</sub></small>
-As soon as Moses had finished saying all this, the ground beneath them split open,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.30|<< Numbers 16:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.32|Numbers 16:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 16:31** is...

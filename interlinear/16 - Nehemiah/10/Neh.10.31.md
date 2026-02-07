@@ -1,4 +1,4 @@
-**Nehemiah 10:31** (10:32)
+**Nehemiah 10:31**<big><big>[[Neh.10.28 The Vows of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [if] the people of the land bring ware or any victuals on the sabbath day to sell, [that] we would not buy it of them on the sabbath, or on the holy day: and [that] we would leave the seventh year, and the exaction of every debt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the people of the land bring merchandise or any kind of grain to sell on th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.30|<< Nehemiah 10:30]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.32|Nehemiah 10:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] peoples of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5971A\|עַמֵּ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֡רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

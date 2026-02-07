@@ -1,4 +1,4 @@
-**1 Kings 2:5** 
+**1 Kings 2:5**<big><big>[[1Kgs.2.1 David Instructs Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover thou knowest also what Joab the son of Zeruiah did to me, [and] what he did to the two captains of the hosts of Israel, unto Abner the son of Ner, and unto Amasa the son of Jether, whom he slew, and shed the blood of war in peace, and put the blood of war upon his girdle that [was] about his loins, and in his shoes that [were] on his feet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, you know what Joab son of Zeruiah did to me—what he did to Abner son
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.4|<< 1 Kings 2:4]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.6|1 Kings 2:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

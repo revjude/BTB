@@ -1,12 +1,12 @@
-**Matthew 15:11
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:11**<big><big>[[Matt.15.10 What Defiles a Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man.
 <small><sub>**BSB:**</sub></small>
 A man is not defiled by what enters his mouth, but by what comes out of it.”
 <small><sub>**Literal:**</sub></small>
 Not what is entering into the mouth defiles the man, but that going forth out of the mouth, this defiles the man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.10|<< Matthew 15:10]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.12|Matthew 15:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | what |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

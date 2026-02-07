@@ -1,5 +1,5 @@
-**Hebrews 3:18
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:18**<big><big>[[Heb.3.12 The Peril of Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to whom sware he that they should not enter into his rest, but to them that believed not?
 <small><sub>**BSB:**</sub></small>
 And to whom did He swear that they would never enter His rest? Was it not to those who disobeyed?
@@ -10,7 +10,7 @@ To whom then did He swear that not to enter into the rest of Him only except to 
 > $\quad$ alluding to: [[LXX.Ps.95.11|Ps 95:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To whom |**<big>[[G5101\|τίσιν]]</big>**  |tisin <small><sup>[[I-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

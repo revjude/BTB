@@ -1,12 +1,12 @@
-**Luke 4:37
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:37**<big><big>[[Luke.4.31 Jesus Expels an Unclean Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the fame of him went out into every place of the country round about.
 <small><sub>**BSB:**</sub></small>
 And the news about Jesus spread throughout the surrounding region.
 <small><sub>**Literal:**</sub></small>
 And was spreading [the] report concerning Him into every place of the surrounding region.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.36|<< Luke 4:36]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.38|Luke 4:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was spreading |**<big>[[G1607\|ἐξεπορεύετο]]</big>**  |exeporeueto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 35:14** 
 <small><sub>**LXX:**</sub></small>
 And Jacob set up a monument in the place in which God spoke with him -- a stone monument. And he offered upon it a libation, and he poured upon it olive oil. 
-<small><sub>**KJV:**</sub></small>
-And Jacob set up a pillar in the place where he talked with him, [even] a pillar of stone: and he poured a drink offering thereon, and he poured oil thereon.
-<small><sub>**BSB:**</sub></small>
-So Jacob set up a pillar in the place where God had spoken with him—a stone marker—and he poured out a drink offering on it and anointed it with oil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.35.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.13|<< Genesis 35:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.15|Genesis 35:15 >>]]</td></tr></table>
 
 | Translation | Greek |

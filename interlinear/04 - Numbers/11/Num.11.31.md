@@ -1,4 +1,4 @@
-**Numbers 11:31** 
+**Numbers 11:31**<big><big>[[Num.11.31 The Quail and the Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there went forth a wind from the LORD, and brought quails from the sea, and let [them] fall by the camp, as it were a day’s journey on this side, and as it were a day’s journey on the other side, round about the camp, and as it were two cubits [high] upon the face of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now a wind sent by the LORD came up, drove in quail from the sea, and brought th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.30|<< Numbers 11:30]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.32|Numbers 11:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a wind  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7307H\|ר֜וּחַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it set out  |**<big>&#8207;[[H5265\|נָסַ֣ע]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| na.Sa'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

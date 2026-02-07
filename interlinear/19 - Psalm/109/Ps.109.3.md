@@ -1,4 +1,4 @@
-**Psalms 109:3** 
+**Psalms 109:3**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They compassed me about also with words of hatred; and fought against me without a cause.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They surround me with hateful words and attack me without cause.
 > $\quad$ referenced by: [[John.15.25|John 15:25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and words of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1697G\|דִבְרֵ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hatred  |**<big>&#8207;[[H8135\|שִׂנְאָ֣ה]]&#8207; </big>**| sin.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

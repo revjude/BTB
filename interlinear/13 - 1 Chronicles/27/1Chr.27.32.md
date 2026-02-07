@@ -1,4 +1,4 @@
-**1 Chronicles 27:32** 
+**1 Chronicles 27:32**<big><big>[[1Chr.27.32 The Counselors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also Jonathan David’s uncle was a counseller, a wise man, and a scribe: and Jehiel the son of Hachmoni [was] with the king’s sons:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ David’s uncle Jonathan was a counselor; he was a man of insight and a scribe. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.31|<< 1 Chronicles 27:31]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.33|1 Chronicles 27:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jonathan  |**<big>&#8207;[[H9002\|וִֽ]]&#8207;&#8207;[[H3083O\|יהוֹנָתָ֤ן]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> ho.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] uncle of  |**<big>&#8207;[[H1730I\|דּוֹד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| dod-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

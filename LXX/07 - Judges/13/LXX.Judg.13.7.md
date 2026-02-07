@@ -1,10 +1,7 @@
 **LXX Judges 13:7** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, Behold, you have \[one\] in \[the\] womb, and you shall give birth to a son. And now do not drink wine and strong drink, and do not eat any uncleanness! for the boy will be a Nazarite of God from the womb until \[the\] day of his death. 
-<small><sub>**KJV:**</sub></small>
-But he said unto me, Behold, thou shalt conceive, and bear a son; and now drink no wine nor strong drink, neither eat any unclean [thing]: for the child shall be a Nazarite to God from the womb to the day of his death.
-<small><sub>**BSB:**</sub></small>
-But he said to me, ‘Behold, you will conceive and give birth to a son. Now, therefore, do not drink wine or strong drink, and do not eat anything unclean, because the boy will be a Nazirite to God from the womb until the day of his death.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.6|<< Judges 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.8|Judges 13:8 >>]]</td></tr></table>
 
 | Translation | Greek |

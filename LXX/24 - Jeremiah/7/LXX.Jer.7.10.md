@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:10** 
 <small><sub>**LXX:**</sub></small>
 \[it is\] to be wickedness to you. And you came and stood before me in the house which my name is called upon in it. And you said, We have kept a distance  to do all  these abominations. 
-<small><sub>**KJV:**</sub></small>
-And come and stand before me in this house, which is called by my name, and say, We are delivered to do all these abominations?
-<small><sub>**BSB:**</sub></small>
-and then come and stand before Me in this house, which bears My Name, and say, ‘We are delivered, so we can continue with all these abominations’?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.9|<< Jeremiah 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.11|Jeremiah 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 13:11** 
 <small><sub>**LXX:**</sub></small>
 And Samuel said, What have you done? And Saul said, Because I saw that the people scattered from me, and you did not come in the testimony of the days as you set in order, and the Philistines were gathered together in Michmash, 
-<small><sub>**KJV:**</sub></small>
-And Samuel said, What hast thou done? And Saul said, Because I saw that the people were scattered from me, and [that] thou camest not within the days appointed, and [that] the Philistines gathered themselves together at Michmash;
-<small><sub>**BSB:**</sub></small>
-“What have you done?” Samuel asked. And Saul replied, “When I saw that the troops were deserting me, and that you did not come at the appointed time and the Philistines were gathering at Michmash,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.10|<< 1 Samuel 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.12|1 Samuel 13:12 >>]]</td></tr></table>
 
 | Translation | Greek |

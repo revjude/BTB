@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 4:2** 
 <small><sub>**LXX:**</sub></small>
 And I praised all of the ones having died of the ones already dying more than the living, as many as live until the present. 
-<small><sub>**KJV:**</sub></small>
-Wherefore I praised the dead which are already dead more than the living which are yet alive.
-<small><sub>**BSB:**</sub></small>
-So I admired the dead, who had already died, above the living, who are still alive.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.1|<< Ecclesiastes 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.3|Ecclesiastes 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

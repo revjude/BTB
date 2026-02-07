@@ -1,10 +1,7 @@
 **LXX Genesis 41:44** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh said  to Joseph, I \[am\] Pharaoh, without you not anyone shall lift  his hand over all \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh said unto Joseph, I [am] Pharaoh, and without thee shall no man lift up his hand or foot in all the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-And Pharaoh declared to Joseph, “I am Pharaoh, but without your permission, no one in all the land of Egypt shall lift his hand or foot.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.43|<< Genesis 41:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.45|Genesis 41:45 >>]]</td></tr></table>
 
 | Translation | Greek |

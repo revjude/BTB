@@ -1,4 +1,4 @@
-**Amos 5:25** 
+**Amos 5:25**<big><big>[[Amos.5.16 Woe to Rebellious Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Did you bring Me sacrifices and offerings forty years in the wilderness, O house
 > $\quad$ referenced by: [[Acts.7.42|Acts 7:42-43]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ sacrifices  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H2077\|זְּבָחִ֨ים]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ze.va.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and grain offering[s]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4503G\|מִנְחָ֜ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

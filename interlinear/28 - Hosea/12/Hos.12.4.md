@@ -1,4 +1,4 @@
-**Hosea 12:4** (12:5)
+**Hosea 12:4**<big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him [in] Bethel, and there he spake with us;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yes, he struggled with the angel and prevailed; he wept and sought His favor; he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.3|<< Hosea 12:3]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.5|Hosea 12:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he struggled  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7786\|יָּ֤שַׂר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.sar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | against  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

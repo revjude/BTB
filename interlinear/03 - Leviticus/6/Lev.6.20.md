@@ -1,4 +1,4 @@
-**Leviticus 6:20** (6:13)
+**Leviticus 6:20**<big><big>[[Lev.6.14 The Grain Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the offering of Aaron and of his sons, which they shall offer unto the LORD in the day when he is anointed; the tenth part of an ephah of fine flour for a meat offering perpetual, half of it in the morning, and half thereof at night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This [is] the offering of Aaron and of his sons, which they shall offer unto the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.19|<< Leviticus 6:19]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.21|Leviticus 6:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2088\|זֶ֡ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] present of  |**<big>&#8207;[[H7133A\|קָרְבַּן֩]]&#8207; </big>**| ka.re.Ban<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

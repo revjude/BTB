@@ -1,10 +1,7 @@
 **LXX Leviticus 20:22** 
 <small><sub>**LXX:**</sub></small>
 And you shall keep all  my orders, and all  my judgments; and you shall do them, then no way the land loathe you, into which I bring you there to dwell upon it. 
-<small><sub>**KJV:**</sub></small>
-Ye shall therefore keep all my statutes, and all my judgments, and do them: that the land, whither I bring you to dwell therein, spue you not out.
-<small><sub>**BSB:**</sub></small>
-You are therefore to keep all My statutes and ordinances, so that the land where I am bringing you to live will not vomit you out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.21|<< Leviticus 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.23|Leviticus 20:23 >>]]</td></tr></table>
 
 | Translation | Greek |

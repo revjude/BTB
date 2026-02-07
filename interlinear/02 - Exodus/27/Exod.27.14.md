@@ -1,4 +1,4 @@
-**Exodus 27:14** 
+**Exodus 27:14**<big><big>[[Exod.27.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The hangings of one side [of the gate shall be] fifteen cubits: their pillars three, and their sockets three.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Make the curtains on one side fifteen cubits long, with three posts and three ba
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.13|<< Exodus 27:13]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.15|Exodus 27:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [will be] fif-  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמֵ֨שׁ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.Mesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | teen  |**<big>&#8207;[[H6240\|עֶשְׂרֵ֥ה]]&#8207; </big>**| 'es.Reh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

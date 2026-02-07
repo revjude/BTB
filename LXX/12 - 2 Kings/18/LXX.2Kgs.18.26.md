@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:26** 
 <small><sub>**LXX:**</sub></small>
 And Eliakim son of Hilkiah and Shebna and Joah said to Rabshakeh, Speak indeed to  your servants in Syrian! for we hear. And do not speak with us in Jewish to the ears of the people  upon the wall! 
-<small><sub>**KJV:**</sub></small>
-Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rabshakeh, Speak, I pray thee, to thy servants in the Syrian language; for we understand [it]: and talk not with us in the Jews’ language in the ears of the people that [are] on the wall.
-<small><sub>**BSB:**</sub></small>
-Then Eliakim son of Hilkiah, along with Shebnah and Joah, said to the Rabshakeh, “Please speak to your servants in Aramaic, since we understand it. Do not speak with us in Hebrew in the hearing of the people on the wall.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.25|<< 2 Kings 18:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.27|2 Kings 18:27 >>]]</td></tr></table>
 
 | Translation | Greek |

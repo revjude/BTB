@@ -1,12 +1,12 @@
-**1 Corinthians 8:8
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 8:8**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But meat commendeth us not to God: for neither, if we eat, are we the better; neither, if we eat not, are we the worse.
 <small><sub>**BSB:**</sub></small>
 But food does not bring us closer to God: We are no worse if we do not eat, and no better if we do.
 <small><sub>**Literal:**</sub></small>
 Food however us not will commend <the> to God; neither for if not we shall eat [still] do we come short [then] nor if we shall eat have we an advantage.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.7|<< 1 Corinthians 8:7]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.9|1 Corinthians 8:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Food |**<big>[[G1033\|βρῶμα]]</big>**  |brōma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

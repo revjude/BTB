@@ -1,12 +1,12 @@
-**2 Timothy 2:21
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:21**<big><big>[[2Tim.2.14 The Lord’s Approved Workman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master’s use, [and] prepared unto every good work.
 <small><sub>**BSB:**</sub></small>
 So if anyone cleanses himself of what is unfit, he will be a vessel for honor: sanctified, useful to the Master, and prepared for every good work.
 <small><sub>**Literal:**</sub></small>
 If therefore anyone shall cleanse himself from these, he will be a vessel for honor sanctified and useful to the Master, for every work good prepared.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.20|<< 2 Timothy 2:20]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.22|2 Timothy 2:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

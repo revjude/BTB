@@ -1,4 +1,4 @@
-**Psalms 132:18** 
+**Psalms 132:18**<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His enemies will I clothe with shame: but upon himself shall his crown flourish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will clothe his enemies with shame, but the crown upon him will gleam.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.17|<< Psalms 132:17]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.133.0|Psalms 133:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | enemies his  |**<big>&#8207;[[H0341\|א֭וֹיְבָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'oy.va<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will clothe  |**<big>&#8207;[[H3847\|אַלְבִּ֣ישׁ]]&#8207; </big>**| 'al.Bish<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 11:16** 
 <small><sub>**LXX:**</sub></small>
 And he cast them out from \[the\] tribes of Israel, \[the ones\] who gave their heart  to seek \[the\] <span class="smallcaps">lord</span>  God of Israel. And they came into Jerusalem to sacrifice \[to the\] <span class="smallcaps">lord</span>, to the God  of their fathers. 
-<small><sub>**KJV:**</sub></small>
-And after them out of all the tribes of Israel such as set their hearts to seek the LORD God of Israel came to Jerusalem, to sacrifice unto the LORD God of their fathers.
-<small><sub>**BSB:**</sub></small>
-Those from every tribe of Israel who had set their hearts to seek the LORD their God followed the Levites to Jerusalem to sacrifice to the LORD, the God of their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.15|<< 2 Chronicles 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.17|2 Chronicles 11:17 >>]]</td></tr></table>
 
 | Translation | Greek |

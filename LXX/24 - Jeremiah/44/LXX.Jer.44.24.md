@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:24** 
 <small><sub>**LXX:**</sub></small>
 And Jeremiah said to the people, and to the women, Hear the \[the\] word of \[the\] <span class="smallcaps">lord</span> all Judah, the ones in \[the\] land of Egypt! 
-<small><sub>**KJV:**</sub></small>
-Moreover Jeremiah said unto all the people, and to all the women, Hear the word of the LORD, all Judah that [are] in the land of Egypt:
-<small><sub>**BSB:**</sub></small>
-Then Jeremiah said to all the people, including all the women, “Hear the word of the LORD, all those of Judah who are in the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.23|<< Jeremiah 44:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.25|Jeremiah 44:25 >>]]</td></tr></table>
 
 | Translation | Greek |

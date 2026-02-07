@@ -1,4 +1,4 @@
-**Joshua 2:6** 
+**Joshua 2:6**<big><big>[[Josh.2.1 Rahab Welcomes the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But she had brought them up to the roof of the house, and hid them with the stal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.5|<< Joshua 2:5]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.7|Joshua 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|הִ֖יא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she had taken up them  |**<big>&#8207;[[H5927H\|הֶעֱלָ֣תַ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| he.'e.La.ta<small><sup>[[HVhp3fs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

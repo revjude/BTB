@@ -1,10 +1,7 @@
 **LXX Judges 14:4** 
 <small><sub>**LXX:**</sub></small>
 And  his father and  his mother did not know that it is from \[the\] <span class="smallcaps">lord</span>, that he required recompense of the Philistines. And in  that time the Philistines dominated the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-But his father and his mother knew not that it [was] of the LORD, that he sought an occasion against the Philistines: for at that time the Philistines had dominion over Israel.
-<small><sub>**BSB:**</sub></small>
-(Now his father and mother did not know this was from the LORD, who was seeking an occasion to move against the Philistines; for at that time the Philistines were ruling over Israel.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.3|<< Judges 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.5|Judges 14:5 >>]]</td></tr></table>
 
 | Translation | Greek |

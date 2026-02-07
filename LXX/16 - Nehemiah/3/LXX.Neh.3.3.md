@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Hassenaah constructed the fish gate; they roofed it, and they set its doors, and its bolts, and its bars. 
-<small><sub>**KJV:**</sub></small>
-But the fish gate did the sons of Hassenaah build, who [also] laid the beams thereof, and set up the doors thereof, the locks thereof, and the bars thereof.
-<small><sub>**BSB:**</sub></small>
-The Fish Gate was rebuilt by the sons of Hassenaah. They laid its beams and installed its doors, bolts, and bars.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.2|<< Nehemiah 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.4|Nehemiah 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

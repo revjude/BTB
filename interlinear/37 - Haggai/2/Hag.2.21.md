@@ -1,4 +1,4 @@
-**Haggai 2:21** 
+**Haggai 2:21**<big><big>[[Hag.2.20 Zerubbabel the LORD’s Signet Ring|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the earth;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Speak to Zerubbabel, governor of Judah, saying, I will shake the heavens and the
 > $\quad$ referenced by: [[Heb.12.26|Heb 12:26]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | say  |**<big>&#8207;[[H0559\|אֱמֹ֕ר]]&#8207; </big>**| 'e.Mor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

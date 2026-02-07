@@ -1,12 +1,12 @@
-**Acts 13:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:4**<big><big>[[Acts.13.4 On Cyprus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus.
 <small><sub>**BSB:**</sub></small>
 So Barnabas and Saul, sent forth by the Holy Spirit, went down to Seleucia and sailed from there to Cyprus.
 <small><sub>**Literal:**</sub></small>
 They themselves indeed therefore having been sent forth by of the Holy the Spirit went down to <the> Seleucia, From there then they sailed to <the> Cyprus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.3|<< Acts 13:3]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.5|Acts 13:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They themselves [^1] |**<big>[[G0846\|Αὐτοὶ]]</big>**  |Autoi <small><sup>[[P-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

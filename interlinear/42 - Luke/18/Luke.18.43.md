@@ -1,12 +1,12 @@
-**Luke 18:43
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:43**<big><big>[[Luke.18.35 Jesus Heals a Blind Beggar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw [it], gave praise unto God.
 <small><sub>**BSB:**</sub></small>
 Immediately he received his sight and followed Jesus, glorifying God. And all the people, when they saw it, gave praise to God.
 <small><sub>**Literal:**</sub></small>
 And immediately he received sight and was following Him glorifying <the> God. And all the people having seen [it] gave praise <the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.42|<< Luke 18:42]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.1|Luke 19:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G3916\|παραχρῆμα]]</big>**  |parachrēma <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 8:12** 
 <small><sub>**LXX:**</sub></small>
 They have been shamed, for they did an abomination. And with shame they were not ashamed, and to be ashamed they did not know. On account of this they shall fall in the midst of ones falling. In \[the\] time of his visit they shall fall, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Were they ashamed when they had committed abomination? nay, they were not at all ashamed, neither could they blush: therefore shall they fall among them that fall: in the time of their visitation they shall be cast down, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Are they ashamed of the abomination they have committed? No, they have no shame at all; they do not even know how to blush. So they will fall among the fallen; when I punish them, they will collapse, says the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.11|<< Jeremiah 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.13|Jeremiah 8:13 >>]]</td></tr></table>
 
 | Translation | Greek |

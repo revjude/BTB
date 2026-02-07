@@ -1,12 +1,12 @@
-**Ephesians 5:12
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:12**<big><big>[[Eph.5.8 Children of Light|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For it is a shame even to speak of those things which are done of them in secret.
 <small><sub>**BSB:**</sub></small>
 For it is shameful even to mention what the disobedient do in secret.
 <small><sub>**Literal:**</sub></small>
 the [things] for in secret being done by them shameful it is even to mention.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.11|<< Ephesians 5:11]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.13|Ephesians 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [things] |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

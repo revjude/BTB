@@ -1,4 +1,4 @@
-**Exodus 30:14** 
+**Exodus 30:14**<big><big>[[Exod.30.11 The Census Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every one that passeth among them that are numbered, from twenty years old and above, shall give an offering unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Everyone twenty years of age or older who crosses over must give this offering t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.13|<< Exodus 30:13]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.15|Exodus 30:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כֹּ֗ל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> [one who] passes over  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5674A\|עֹבֵר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Ver<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Ephesians 4:18
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:18**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:
 <small><sub>**BSB:**</sub></small>
 They are darkened in their understanding and alienated from the life of God because of the ignorance that is in them due to the hardness of their hearts.
 <small><sub>**Literal:**</sub></small>
 darkened in the understanding being alienated from the life <the> of God because of the ignorance which is being in them, on account of the hardness of the heart of them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.17|<< Ephesians 4:17]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.19|Ephesians 4:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | darkened [^1] |**<big>[[G4656\|ἐσκοτωμένοι]]</big>**  |eskotōmenoi <small><sup>[[V-RPP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | in the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

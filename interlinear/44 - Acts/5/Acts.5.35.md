@@ -1,12 +1,12 @@
-**Acts 5:35
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:35**<big><big>[[Acts.5.33 Gamaliel’s Advice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said unto them, Ye men of Israel, take heed to yourselves what ye intend to do as touching these men.
 <small><sub>**BSB:**</sub></small>
 “Men of Israel,” he said, “consider carefully what you are about to do to these men.
 <small><sub>**Literal:**</sub></small>
 He said then to them; Men Israelites, do take heed to yourselves with <the> men these what you are about to do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.34|<< Acts 5:34]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.36|Acts 5:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|εἶπέν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

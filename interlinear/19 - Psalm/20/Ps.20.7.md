@@ -1,4 +1,4 @@
-**Psalms 20:7** (20:8)
+**Psalms 20:7**<big><big>[[Ps.20.1 The Day of Trouble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Some [trust] in chariots, and some in horses: but we will remember the name of the LORD our God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Some trust in chariots and others in horses, but we trust in the name of the LOR
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.20.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.20.6|<< Psalms 20:6]]</td><td align="center" style="border:none;">[[Ps.20|Psalms 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.20.8|Psalms 20:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> \<the> chariotry  |**<big>&#8207;[[H9003\|בָ֭]]&#8207;&#8207;[[H7393G\|רֶכֶב]]&#8207; </big>**| Va.<small><sup>[[HRd]]</sup></small> re.khev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

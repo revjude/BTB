@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:11** 
 <small><sub>**LXX:**</sub></small>
 And Jehu came forth to the servants  of his master, and they said to him, Peace? What \[is it\] that this \[one\] overcome by convulsions entered to you? And he said to them, You know the man, and  his meditation. 
-<small><sub>**KJV:**</sub></small>
-Then Jehu came forth to the servants of his lord: and [one] said unto him, [Is] all well? wherefore came this mad [fellow] to thee? And he said unto them, Ye know the man, and his communication.
-<small><sub>**BSB:**</sub></small>
-When Jehu went out to the servants of his master, they asked, “Is everything all right? Why did this madman come to you?” “You know his kind and their babble,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.10|<< 2 Kings 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.12|2 Kings 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

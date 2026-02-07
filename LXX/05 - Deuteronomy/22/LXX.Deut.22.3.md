@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:3** 
 <small><sub>**LXX:**</sub></small>
 So shall you do  for his donkey, and so you shall do  for his garment, and so you shall do according to all loss  of your brother; as much as should perish of his, and you should find them, you shall not be able to overlook. 
-<small><sub>**KJV:**</sub></small>
-In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost thing of thy brother’s, which he hath lost, and thou hast found, shalt thou do likewise: thou mayest not hide thyself.
-<small><sub>**BSB:**</sub></small>
-And you shall do the same for his donkey, his cloak, or anything your brother has lost and you have found. You must not ignore it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.2|<< Deuteronomy 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.4|Deuteronomy 22:4 >>]]</td></tr></table>
 
 | Translation | Greek |

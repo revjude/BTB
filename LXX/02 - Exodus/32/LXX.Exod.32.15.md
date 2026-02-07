@@ -1,10 +1,7 @@
 **LXX Exodus 32:15** 
 <small><sub>**LXX:**</sub></small>
 And Moses returning, went down from the mountain along \[with\] the two tablets of the testimony in  his hands -- tablets of stone, having been written on both  their parts; on this side and that side they were written. 
-<small><sub>**KJV:**</sub></small>
-And Moses turned, and went down from the mount, and the two tables of the testimony [were] in his hand: the tables [were] written on both their sides; on the one side and on the other [were] they written.
-<small><sub>**BSB:**</sub></small>
-Then Moses turned and went down the mountain with the two tablets of the Testimony in his hands. They were inscribed on both sides, front and back.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.14|<< Exodus 32:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.16|Exodus 32:16 >>]]</td></tr></table>
 
 | Translation | Greek |

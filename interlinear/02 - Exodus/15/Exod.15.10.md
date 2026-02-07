@@ -1,4 +1,4 @@
-**Exodus 15:10** 
+**Exodus 15:10**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou didst blow with thy wind, the sea covered them: they sank as lead in the mighty waters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But You blew with Your breath, and the sea covered them. They sank like lead in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.9|<< Exodus 15:9]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.11|Exodus 15:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you blew  |**<big>&#8207;[[H5398\|נָשַׁ֥פְתָּ]]&#8207; </big>**| na.Shaf.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with breath your  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7307H\|רוּחֲ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> ru.cha.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**2 Peter 3:9
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:9**<big><big>[[2Pet.3.8 The Day of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.
 <small><sub>**BSB:**</sub></small>
 The Lord is not slow in keeping His promise as some understand slowness, but is patient with you, not wanting anyone to perish but everyone to come to repentance.
 <small><sub>**Literal:**</sub></small>
 Not does delay the Lord the promise, as some slowness esteem; but is patient toward you not willing [for] any to perish but all to repentance to come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.8|<< 2 Peter 3:8]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.10|2 Peter 3:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | does delay |**<big>[[G1019\|βραδύνει]]</big>**  |bradunei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

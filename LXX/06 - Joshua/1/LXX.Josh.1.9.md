@@ -1,10 +1,7 @@
 **LXX Joshua 1:9** 
 <small><sub>**LXX:**</sub></small>
 Behold, I give charge to you; be strong and be manly! You should not be timid, nor should you be terrified, for \[the\] <span class="smallcaps">lord</span> your God \[is\] with you in every place where ever you should go. 
-<small><sub>**KJV:**</sub></small>
-Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God [is] with thee whithersoever thou goest.
-<small><sub>**BSB:**</sub></small>
-Have I not commanded you to be strong and courageous? Do not be afraid; do not be discouraged, for the LORD your God is with you wherever you go.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.8|<< Joshua 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.10|Joshua 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

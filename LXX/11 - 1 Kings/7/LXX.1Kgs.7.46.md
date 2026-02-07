@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:46** 
 <small><sub>**LXX:**</sub></small>
 In the adjacent \[area\] of the Jordan the king cast them in the thick  earth between Succoth and between Zarthan. 
-<small><sub>**KJV:**</sub></small>
-In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zarthan.
-<small><sub>**BSB:**</sub></small>
-The king had them cast in clay molds in the plain of the Jordan between Succoth and Zarethan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.45|<< 1 Kings 7:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.47|1 Kings 7:47 >>]]</td></tr></table>
 
 | Translation | Greek |

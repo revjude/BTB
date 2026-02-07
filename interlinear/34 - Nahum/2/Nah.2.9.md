@@ -1,4 +1,4 @@
-**Nahum 2:9** (2:10)
+**Nahum 2:9**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take ye the spoil of silver, take the spoil of gold: for [there is] none end of the store [and] glory out of all the pleasant furniture.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take ye the spoil of silver, take the spoil of gold: for [there is] none end of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.8|<< Nahum 2:8]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.10|Nahum 2:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | plunder  |**<big>&#8207;[[H0962\|בֹּ֥זּוּ]]&#8207; </big>**| Bo.zu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | silver  |**<big>&#8207;[[H3701G\|כֶ֖סֶף]]&#8207; </big>**| Khe.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

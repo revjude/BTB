@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And now, give praise \[to the\] <span class="smallcaps">lord</span>  God  of our fathers, and do the pleasing \[thing\] before him, and draw apart from \[the\] peoples of the land, and from the alien wives! 
-<small><sub>**KJV:**</sub></small>
-Now therefore make confession unto the LORD God of your fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives.
-<small><sub>**BSB:**</sub></small>
-Now, therefore, make a confession to the LORD, the God of your fathers, and do His will. Separate yourselves from the people of the land and from your foreign wives.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.10|<< Ezra 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.12|Ezra 10:12 >>]]</td></tr></table>
 
 | Translation | Greek |

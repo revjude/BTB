@@ -1,4 +1,4 @@
-**Numbers 16:29** 
+**Numbers 16:29**<big><big>[[Num.16.28 The Earth Swallows Korah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If these men die the common death of all men, or if they be visited after the visitation of all men; [then] the LORD hath not sent me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If these men die a natural death, or if they suffer the fate of all men, then th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.28|<< Numbers 16:28]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.30|Numbers 16:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like [the] death of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4194\|מ֤וֹת]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Mot<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

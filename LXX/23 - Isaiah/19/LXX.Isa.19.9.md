@@ -1,10 +1,7 @@
 **LXX Isaiah 19:9** 
 <small><sub>**LXX:**</sub></small>
 And shame shall take the ones working the shredded flax, and the ones working the linen. 
-<small><sub>**KJV:**</sub></small>
-Moreover they that work in fine flax, and they that weave networks, shall be confounded.
-<small><sub>**BSB:**</sub></small>
-The workers in flax will be dismayed, and the weavers of fine linen will turn pale.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.8|<< Isaiah 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.10|Isaiah 19:10 >>]]</td></tr></table>
 
 | Translation | Greek |

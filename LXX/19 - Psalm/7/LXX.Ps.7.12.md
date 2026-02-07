@@ -1,10 +1,7 @@
 **LXX Psalm 7:12** 
 <small><sub>**LXX:**</sub></small>
 If you should not turn,  he will brighten his broadsword.  His bow he stretched tight, and he prepared it; 
-<small><sub>**KJV:**</sub></small>
-If he turn not, he will whet his sword; he hath bent his bow, and made it ready.
-<small><sub>**BSB:**</sub></small>
-If one does not repent, God will sharpen His sword; He has bent and strung His bow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.11|<< Psalm 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.13|Psalm 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

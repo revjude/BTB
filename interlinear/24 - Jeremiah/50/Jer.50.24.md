@@ -1,4 +1,4 @@
-**Jeremiah 50:24** 
+**Jeremiah 50:24**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have laid a snare for thee, and thou art also taken, O Babylon, and thou wast not aware: thou art found, and also caught, because thou hast striven against the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I laid a snare for you, O Babylon, and you were caught before you knew it. You w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.23|<< Jeremiah 50:23]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.25|Jeremiah 50:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I set a trap  |**<big>&#8207;[[H3369\|יָקֹ֨שְׁתִּי]]&#8207; </big>**| ya.Ko.she.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> you  |**<big>&#8207;[[H9005\|לָ֤]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

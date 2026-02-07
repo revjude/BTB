@@ -1,12 +1,12 @@
-**Matthew 4:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 4:8**<big><big>[[Matt.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;
 <small><sub>**BSB:**</sub></small>
 Again, the devil took Him to a very high mountain and showed Him all the kingdoms of the world and their glory.
 <small><sub>**Literal:**</sub></small>
 Again takes Him the devil to a mountain high exceedingly and shows to Him all the kingdoms of the world and the glory of them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.7|<< Matthew 4:7]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.9|Matthew 4:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Again |**<big>[[G3825\|Πάλιν]]</big>**  |Palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | takes |**<big>[[G3880\|παραλαμβάνει]]</big>**  |paralambanei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezra 10:30** 
 <small><sub>**LXX:**</sub></small>
 And of the sons Pahath-moab -- Adna, and Chelal, and Benaiah, and Maaseiah, and Matthaniah, and Bezaleel, and Binnui, and Manasseh. 
-<small><sub>**KJV:**</sub></small>
-And of the sons of Pahathmoab; Adna, and Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, and Binnui, and Manasseh.
-<small><sub>**BSB:**</sub></small>
-From the descendants of Pahath-moab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.29|<< Ezra 10:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.31|Ezra 10:31 >>]]</td></tr></table>
 
 | Translation | Greek |

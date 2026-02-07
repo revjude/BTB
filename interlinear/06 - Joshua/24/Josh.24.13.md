@@ -1,4 +1,4 @@
-**Joshua 24:13** 
+**Joshua 24:13**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have given you a land for which ye did not labour, and cities which ye built not, and ye dwell in them; of the vineyards and oliveyards which ye planted not do ye eat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I gave you a land on which you did not toil and cities that you did not build
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.12|<< Joshua 24:12]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.14|Joshua 24:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I gave  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5414G\|אֶתֵּ֨ן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Ten<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֜ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

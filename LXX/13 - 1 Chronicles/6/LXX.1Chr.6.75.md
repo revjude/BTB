@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:75** 
 <small><sub>**LXX:**</sub></small>
 and  Hukok and  her outskirts, and  Rehob and  her outskirts. 
-<small><sub>**KJV:**</sub></small>
-And Hukok with her suburbs, and Rehob with her suburbs:
-<small><sub>**BSB:**</sub></small>
-Hukok, and Rehob, together with their pasturelands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.75|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.74|<< 1 Chronicles 6:74]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.76|1 Chronicles 6:76 >>]]</td></tr></table>
 
 | Translation | Greek |

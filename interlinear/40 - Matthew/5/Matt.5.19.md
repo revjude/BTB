@@ -1,12 +1,12 @@
-**Matthew 5:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:19**<big><big>[[Matt.5.17 The Fulfillment of the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whosoever therefore shall break one of these least commandments, and shall teach men so, he shall be called the least in the kingdom of heaven: but whosoever shall do and teach [them], the same shall be called great in the kingdom of heaven.
 <small><sub>**BSB:**</sub></small>
 So then, whoever breaks one of the least of these commandments and teaches others to do likewise will be called least in the kingdom of heaven; but whoever practices and teaches them will be called great in the kingdom of heaven.
 <small><sub>**Literal:**</sub></small>
 Who[ever] if then shall break one of the commandments of these the least and shall teach so the others, least he will be called in the kingdom of the heavens. who[ever] now maybe may keep and may teach [them], this [one] great will be called in the kingdom of the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.18|<< Matthew 5:18]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.20|Matthew 5:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who[ever] |**<big>[[G3739\|Ὃς]]</big>**  |Hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

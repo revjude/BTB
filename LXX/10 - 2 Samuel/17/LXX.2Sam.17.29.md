@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:29** 
 <small><sub>**LXX:**</sub></small>
 and honey, and butter, and sheep, and cheese from oxen. And they brought near  to David, and to the people  with him to eat; for they said, The people are hungering, and fainting, and thirsting, in the wilderness. 
-<small><sub>**KJV:**</sub></small>
-And honey, and butter, and sheep, and cheese of kine, for David, and for the people that [were] with him, to eat: for they said, The people [is] hungry, and weary, and thirsty, in the wilderness.
-<small><sub>**BSB:**</sub></small>
-honey, curds, sheep, and cheese from the herd for David and his people to eat. For they said, “The people have become hungry, exhausted, and thirsty in the wilderness.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.28|<< 2 Samuel 17:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.1|2 Samuel 18:1 >>]]</td></tr></table>
 
 | Translation | Greek |

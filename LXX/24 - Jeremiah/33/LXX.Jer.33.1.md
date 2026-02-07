@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> to Jeremiah a second \[time\], (and he was still bound in the courtyard of the guard,) saying, 
-<small><sub>**KJV:**</sub></small>
-Moreover the word of the LORD came unto Jeremiah the second time, while he was yet shut up in the court of the prison, saying,
-<small><sub>**BSB:**</sub></small>
-While Jeremiah was still confined in the courtyard of the guard, the word of the LORD came to him a second time:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.44|<< Jeremiah 32:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.2|Jeremiah 33:2 >>]]</td></tr></table>
 
 | Translation | Greek |

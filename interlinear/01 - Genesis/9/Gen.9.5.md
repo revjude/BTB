@@ -1,4 +1,4 @@
-**Genesis 9:5** 
+**Genesis 9:5**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man’s brother will I require the life of man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And surely I will require the life of any man or beast by whose hand your lifebl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.4|<< Genesis 9:4]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.6|Genesis 9:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and nevertheless  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0389\|אַ֨ךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

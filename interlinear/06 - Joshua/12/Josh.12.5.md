@@ -1,4 +1,4 @@
-**Joshua 12:5** 
+**Joshua 12:5**<big><big>[[Josh.12.1 The Kings Defeated East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He ruled over Mount Hermon, Salecah, all of Bashan up to the border of the Geshu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.4|<< Joshua 12:4]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.6|Joshua 12:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [who] ruled  |**<big>&#8207;[[H9002\|וּ֠]]&#8207;&#8207;[[H4910\|מֹשֵׁל]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> mo.shel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over [the] mountain of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2022G\|הַ֨ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 14:22** 
 <small><sub>**LXX:**</sub></small>
 For all the men  seeing  my glory, and the signs which I did in Egypt, and in  this wilderness, and test me this tenth \[time\], and are not listening to  my voice, 
-<small><sub>**KJV:**</sub></small>
-Because all those men which have seen my glory, and my miracles, which I did in Egypt and in the wilderness, and have tempted me now these ten times, and have not hearkened to my voice;
-<small><sub>**BSB:**</sub></small>
-not one of the men who have seen My glory and the signs I performed in Egypt and in the wilderness—yet have tested Me and disobeyed Me these ten times—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.21|<< Numbers 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.23|Numbers 14:23 >>]]</td></tr></table>
 
 | Translation | Greek |

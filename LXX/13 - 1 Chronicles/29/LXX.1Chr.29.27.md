@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:27** 
 <small><sub>**LXX:**</sub></small>
 And the days which he reigned over Israel -- forty years. In Hebron he reigned seven years, and in Jerusalem thirty-three years. 
-<small><sub>**KJV:**</sub></small>
-And the time that he reigned over Israel [was] forty years; seven years reigned he in Hebron, and thirty and three [years] reigned he in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-The length of David’s reign over Israel was forty years—seven years in Hebron and thirty-three years in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.26|<< 1 Chronicles 29:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.28|1 Chronicles 29:28 >>]]</td></tr></table>
 
 | Translation | Greek |

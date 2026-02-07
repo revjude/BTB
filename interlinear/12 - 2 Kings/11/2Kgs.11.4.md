@@ -1,4 +1,4 @@
-**2 Kings 11:4** 
+**2 Kings 11:4**<big><big>[[2Kgs.11.4 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the seventh year Jehoiada sent and fetched the rulers over hundreds, with the captains and the guard, and brought them to him into the house of the LORD, and made a covenant with them, and took an oath of them in the house of the LORD, and shewed them the king’s son.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then in the seventh year, Jehoiada sent for the commanders of hundreds, the Cari
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.3|<< 2 Kings 11:3]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.5|2 Kings 11:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in the year  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H8141\|שָּׁנָ֣ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> seventh  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H7637\|שְּׁבִיעִית]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> she.vi.'it<small><sup>[[HAofsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

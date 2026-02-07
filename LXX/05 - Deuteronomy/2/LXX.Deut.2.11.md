@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:11** 
 <small><sub>**LXX:**</sub></small>
 And these shall be considered of the Raphaim as also the Anakim; and the Moabites named them Emim. 
-<small><sub>**KJV:**</sub></small>
-Which also were accounted giants, as the Anakims; but the Moabites call them Emims.
-<small><sub>**BSB:**</sub></small>
-Like the Anakites, they were also regarded as Rephaim, though the Moabites called them Emites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.10|<< Deuteronomy 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.12|Deuteronomy 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

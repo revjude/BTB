@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΣΙΝ</p>
 
 Rejoice and be glad O daughter of Edom! the one dwelling upon the land of Uz! And indeed unto you shall go through the cup of \[the\] <span class="smallcaps">lord</span>. You shall be intoxicated and shall pour forth. 
-<small><sub>**KJV:**</sub></small>
-Rejoice and be glad, O daughter of Edom, that dwellest in the land of Uz; the cup also shall pass through unto thee: thou shalt be drunken, and shalt make thyself naked.
-<small><sub>**BSB:**</sub></small>
-So rejoice and be glad, O Daughter of Edom, you who dwell in the land of Uz. Yet the cup will pass to you as well; you will get drunk and expose yourself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.20|<< Lamentations 4:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.22|Lamentations 4:22 >>]]</td></tr></table>
 
 | Translation | Greek |

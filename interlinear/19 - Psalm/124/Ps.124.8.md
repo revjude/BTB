@@ -1,4 +1,4 @@
-**Psalms 124:8** 
+**Psalms 124:8**<big><big>[[Ps.124.1 Our Help Is in the Name of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our help [is] in the name of the LORD, who made heaven and earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Our help is in the name of the LORD, the Maker of heaven and earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.124.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.124.7|<< Psalms 124:7]]</td><td align="center" style="border:none;">[[Ps.124|Psalms 124]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.125.0|Psalms 125:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | help our  |**<big>&#8207;[[H5828\|עֶ֭זְרֵ]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'Ez.re.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] in [the] name of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8034\|שֵׁ֣ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

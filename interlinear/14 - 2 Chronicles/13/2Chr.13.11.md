@@ -1,4 +1,4 @@
-**2 Chronicles 13:11** 
+**2 Chronicles 13:11**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they burn unto the LORD every morning and every evening burnt sacrifices and sweet incense: the shewbread also [set they in order] upon the pure table; and the candlestick of gold with the lamps thereof, to burn every evening: for we keep the charge of the LORD our God; but ye have forsaken him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Every morning and every evening they present burnt offerings and fragrant incens
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.10|<< 2 Chronicles 13:10]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.12|2 Chronicles 13:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [are] making smoke  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6999H\|מַקְטִרִ֣ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mak.ti.Rim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֡ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

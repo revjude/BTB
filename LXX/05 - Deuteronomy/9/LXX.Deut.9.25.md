@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:25** 
 <small><sub>**LXX:**</sub></small>
 And I beseeched before \[the\] <span class="smallcaps">lord</span> forty days and forty nights. Many \[things\] I beseeched; for \[the\] <span class="smallcaps">lord</span> said he would utterly destroy you. 
-<small><sub>**KJV:**</sub></small>
-Thus I fell down before the LORD forty days and forty nights, as I fell down [at the first]; because the LORD had said he would destroy you.
-<small><sub>**BSB:**</sub></small>
-So I fell down before the LORD for forty days and forty nights, because the LORD had said He would destroy you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.24|<< Deuteronomy 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.26|Deuteronomy 9:26 >>]]</td></tr></table>
 
 | Translation | Greek |

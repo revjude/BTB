@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:21** 
 <small><sub>**LXX:**</sub></small>
 And \[to\] Joshua I gave charge at  that time, saying,  Your eyes have seen all as much as \[the\] <span class="smallcaps">lord</span> our God did  to these two kings; so \[the\] <span class="smallcaps">lord</span> shall do to all the kingdoms unto which you passed over there. 
-<small><sub>**KJV:**</sub></small>
-And I commanded Joshua at that time, saying, Thine eyes have seen all that the LORD your God hath done unto these two kings: so shall the LORD do unto all the kingdoms whither thou passest.
-<small><sub>**BSB:**</sub></small>
-And at that time I commanded Joshua: “Your own eyes have seen all that the LORD your God has done to these two kings. The LORD will do the same to all the kingdoms you are about to enter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.20|<< Deuteronomy 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.22|Deuteronomy 3:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 28:68** 
+**Deuteronomy 28:68**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy [you].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will return you to Egypt in ships by a route that I said you should nev
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.68|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.67|<< Deuteronomy 28:67]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.1|Deuteronomy 29:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make return you  |**<big>&#8207;[[H9001\|וֶֽ]]&#8207;&#8207;[[H7725G\|הֱשִֽׁיבְ]]&#8207;&#8207;[[H9031\|ךָ֨]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.shi.ve.<small><sup>[[HVhq3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

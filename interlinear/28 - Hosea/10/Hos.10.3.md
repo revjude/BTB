@@ -1,4 +1,4 @@
-**Hosea 10:3** 
+**Hosea 10:3**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For now they shall say, We have no king, because we feared not the LORD; what then should a king do to us?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely now they will say, “We have no king, for we do not revere the LORD. Wha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.2|<< Hosea 10:2]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.4|Hosea 10:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | now  |**<big>&#8207;[[H6258\|עַתָּה֙]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

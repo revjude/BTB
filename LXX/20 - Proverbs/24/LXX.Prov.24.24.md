@@ -1,10 +1,7 @@
 **LXX Proverbs 24:24** 
 <small><sub>**LXX:**</sub></small>
 The one having said, The impious is just, will be accursed among \[the\] peoples, and detested among \[the\] nations. 
-<small><sub>**KJV:**</sub></small>
-He that saith unto the wicked, Thou [art] righteous; him shall the people curse, nations shall abhor him:
-<small><sub>**BSB:**</sub></small>
-Whoever tells the guilty, “You are innocent”—peoples will curse him, and nations will denounce him;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.24.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.23|<< Proverbs 24:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.25|Proverbs 24:25 >>]]</td></tr></table>
 
 | Translation | Greek |

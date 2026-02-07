@@ -1,4 +1,4 @@
-**Leviticus 4:10** 
+**Leviticus 4:10**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As it was taken off from the bullock of the sacrifice of peace offerings: and the priest shall burn them upon the altar of the burnt offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ just as the fat is removed from the ox of the peace offering. Then the priest sh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.9|<< Leviticus 4:9]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.11|Leviticus 4:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֣ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is lifted up  |**<big>&#8207;[[H7311A\|יוּרַ֔ם]]&#8207; </big>**| yu.Ram<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

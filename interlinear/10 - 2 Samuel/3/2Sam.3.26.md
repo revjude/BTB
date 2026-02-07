@@ -1,4 +1,4 @@
-**2 Samuel 3:26** 
+**2 Samuel 3:26**<big><big>[[2Sam.3.22 Joab Murders Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Joab was come out from David, he sent messengers after Abner, which brought him again from the well of Sirah: but David knew [it] not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As soon as Joab had left David, he sent messengers after Abner, who brought him 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.25|<< 2 Samuel 3:25]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.27|2 Samuel 3:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joab  |**<big>&#8207;[[H3097G\|יוֹאָב֙]]&#8207; </big>**| yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 65:14** 
 <small><sub>**LXX:**</sub></small>
 Behold, the ones serving me shall exult in gladness, but you shall cry out because of the misery  of your heart; and from \[the\] destruction of your spirit you shall shriek. 
-<small><sub>**KJV:**</sub></small>
-Behold, my servants shall sing for joy of heart, but ye shall cry for sorrow of heart, and shall howl for vexation of spirit.
-<small><sub>**BSB:**</sub></small>
-My servants will shout for joy with a glad heart, but you will cry out with a heavy heart and wail with a broken spirit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.13|<< Isaiah 65:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.15|Isaiah 65:15 >>]]</td></tr></table>
 
 | Translation | Greek |

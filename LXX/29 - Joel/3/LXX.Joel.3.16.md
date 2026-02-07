@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 But the <span class="smallcaps">lord</span> shall shout aloud from Zion, and shall utter his voice from out of Jerusalem. And the heaven and the earth shall be shaken, but the <span class="smallcaps">lord</span> shall spare  his people, and shall strengthen the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-The LORD also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the LORD [will be] the hope of his people, and the strength of the children of Israel.
-<small><sub>**BSB:**</sub></small>
-The LORD will roar from Zion and raise His voice from Jerusalem; heaven and earth will tremble. But the LORD will be a refuge for His people, a stronghold for the people of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.15|<< Joel 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.17|Joel 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

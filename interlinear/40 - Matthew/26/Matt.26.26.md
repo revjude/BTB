@@ -1,12 +1,12 @@
-**Matthew 26:26
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:26**<big><big>[[Matt.26.20 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as they were eating, Jesus took bread, and blessed [it], and brake [it], and gave [it] to the disciples, and said, Take, eat; this is my body.
 <small><sub>**BSB:**</sub></small>
 While they were eating, Jesus took bread, spoke a blessing and broke it, and gave it to the disciples, saying, “Take and eat; this is My body.”
 <small><sub>**Literal:**</sub></small>
 When were eating now they having taken <the> Jesus <the> bread and having blessed broke [it], and giving to the disciples and He said; do take do eat; this is the body of Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.25|<< Matthew 26:25]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.27|Matthew 26:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When were eating |**<big>[[G2068\|Ἐσθιόντων]]</big>**  |Esthiontōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

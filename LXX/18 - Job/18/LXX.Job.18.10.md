@@ -1,10 +1,7 @@
 **LXX Job 18:10** 
 <small><sub>**LXX:**</sub></small>
 His line \[is\] hidden in the earth, and the \[thing\] seizing him \[is\] upon \[the\] roads. 
-<small><sub>**KJV:**</sub></small>
-The snare [is] laid for him in the ground, and a trap for him in the way.
-<small><sub>**BSB:**</sub></small>
-A noose is hidden in the ground, and a trap lies in his path.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.9|<< Job 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.11|Job 18:11 >>]]</td></tr></table>
 
 | Translation | Greek |

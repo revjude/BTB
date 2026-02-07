@@ -1,12 +1,12 @@
-**Matthew 18:1
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:1**<big><big>[[Matt.18.1 The Greatest in the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?
 <small><sub>**BSB:**</sub></small>
 At that time the disciples came to Jesus and asked, “Who then is the greatest in the kingdom of heaven?”
 <small><sub>**Literal:**</sub></small>
 In that [very] <the> hour came the disciples <the> to Jesus saying; Who then [the] greatest is in the kingdom of the heavens?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.27|<< Matthew 17:27]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.2|Matthew 18:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that [very] |**<big>[[G1565\|ἐκείνῃ]]</big>**  |ekeinē <small><sup>[[D-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

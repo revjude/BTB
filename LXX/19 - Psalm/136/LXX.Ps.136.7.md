@@ -1,10 +1,7 @@
 **LXX Psalm 136:7** 
 <small><sub>**LXX:**</sub></small>
 To the one making \[the\] great lights alone, for into the eon  \[is\] his mercy. 
-<small><sub>**KJV:**</sub></small>
-To him that made great lights: for his mercy [endureth] for ever:
-<small><sub>**BSB:**</sub></small>
-He made the great lights—His loving devotion endures forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.136.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.136.6|<< Psalm 136:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.136.8|Psalm 136:8 >>]]</td></tr></table>
 
 | Translation | Greek |

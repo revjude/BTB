@@ -1,12 +1,12 @@
-**Luke 8:37
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:37**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again.
 <small><sub>**BSB:**</sub></small>
 Then all the people of the region of the Gerasenes asked Jesus to depart from them, because great fear had taken hold of them. So He got into the boat and started back.
 <small><sub>**Literal:**</sub></small>
 And asked Him all the multitude of the surrounding region of the Gerasenes to depart from them, because with fear great they were seized. He himself now having climbed into the boat turned back.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.36|<< Luke 8:36]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.38|Luke 8:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | asked [^1] |**<big>[[G2065\|ἠρώτησεν]]</big>**  |ērōtēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

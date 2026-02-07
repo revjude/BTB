@@ -1,5 +1,5 @@
-**Hebrews 11:14
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:14**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For they that say such things declare plainly that they seek a country.
 <small><sub>**BSB:**</sub></small>
 Now those who say such things show that they are seeking a country of their own.
@@ -10,7 +10,7 @@ Those for such things saying make manifest that their country they are seeking.<
 > $\quad$ possibly alluding to: [[LXX.Hos.14.2|Hos 14:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

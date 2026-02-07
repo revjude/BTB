@@ -1,12 +1,12 @@
-**Ephesians 1:8
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 1:8**<big><big>[[Eph.1.3 Spiritual Blessings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherein he hath abounded toward us in all wisdom and prudence;
 <small><sub>**BSB:**</sub></small>
 that He lavished on us with all wisdom and understanding.
 <small><sub>**Literal:**</sub></small>
 which He lavished upon us in all wisdom and in understanding<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.7|<< Ephesians 1:7]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.9|Ephesians 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which |**<big>[[G3739\|ἧς]]</big>**  |hēs <small><sup>[[R-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He lavished |**<big>[[G4052\|ἐπερίσσευσεν]]</big>**  |eperisseusen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

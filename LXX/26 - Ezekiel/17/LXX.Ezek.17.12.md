@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:12** 
 <small><sub>**LXX:**</sub></small>
 Say indeed to the rebelling house, Do you not know what these are? You speak to them! Behold, \[the\] king of Babylon comes unto Jerusalem, and he shall take  her king, and  her rulers. And he shall lead them to himself unto Babylon. 
-<small><sub>**KJV:**</sub></small>
-Say now to the rebellious house, Know ye not what these [things mean]? tell [them], Behold, the king of Babylon is come to Jerusalem, and hath taken the king thereof, and the princes thereof, and led them with him to Babylon;
-<small><sub>**BSB:**</sub></small>
-“Now say to this rebellious house: ‘Do you not know what these things mean?’ Tell them, ‘Behold, the king of Babylon came to Jerusalem, carried off its king and officials, and brought them back with him to Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.11|<< Ezekiel 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.13|Ezekiel 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

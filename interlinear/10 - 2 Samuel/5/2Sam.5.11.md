@@ -1,4 +1,4 @@
-**2 Samuel 5:11** 
+**2 Samuel 5:11**<big><big>[[2Sam.5.6 David Conquers Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hiram king of Tyre sent messengers to David, and cedar trees, and carpenters, and masons: and they built David an house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Hiram king of Tyre sent envoys to David, along with cedar logs, carpenters, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.10|<< 2 Samuel 5:10]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.12|2 Samuel 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H7971G\|יִּשְׁלַח]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yish.lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hiram  |**<big>&#8207;[[H2438G\|חִירָ֨ם]]&#8207; </big>**| chi.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

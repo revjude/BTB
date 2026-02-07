@@ -1,12 +1,12 @@
-**Acts 2:43
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:43**<big><big>[[Acts.2.42 The Fellowship of Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And fear came upon every soul: and many wonders and signs were done by the apostles.
 <small><sub>**BSB:**</sub></small>
 A sense of awe came over everyone, and the apostles performed many wonders and signs.
 <small><sub>**Literal:**</sub></small>
 There was becoming then upon every soul awe, many and both wonders and signs through the apostles were taking place.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.42|<< Acts 2:42]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.44|Acts 2:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There was becoming [^1] |**<big>[[G1096\|ἐγίνετο]]</big>**  |egineto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

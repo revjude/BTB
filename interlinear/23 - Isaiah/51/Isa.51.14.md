@@ -1,4 +1,4 @@
-**Isaiah 51:14** 
+**Isaiah 51:14**<big><big>[[Isa.51.1 Salvation for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The captive exile hasteneth that he may be loosed, and that he should not die in the pit, nor that his bread should fail.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The captive will soon be freed; he will not die in the dungeon, and his bread wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.13|<< Isaiah 51:13]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.15|Isaiah 51:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will hasten  |**<big>&#8207;[[H4116A\|מִהַ֥ר]]&#8207; </big>**| mi.Har<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] stoops  |**<big>&#8207;[[H6808\|צֹעֶ֖ה]]&#8207; </big>**| tzo.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

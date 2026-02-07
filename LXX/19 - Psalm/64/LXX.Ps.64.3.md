@@ -1,10 +1,7 @@
 **LXX Psalm 64:3** 
 <small><sub>**LXX:**</sub></small>
 The ones who sharpened their tongues as a broadsword; they stretched tight their bow \[for\] a bitter thing; 
-<small><sub>**KJV:**</sub></small>
-Who whet their tongue like a sword, [and] bend [their bows to shoot] their arrows, [even] bitter words:
-<small><sub>**BSB:**</sub></small>
-who sharpen their tongues like swords and aim their bitter words like arrows,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.64.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.64.2|<< Psalm 64:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.4|Psalm 64:4 >>]]</td></tr></table>
 
 | Translation | Greek |

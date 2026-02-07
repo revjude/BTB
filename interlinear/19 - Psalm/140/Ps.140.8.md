@@ -1,4 +1,4 @@
-**Psalms 140:8** (140:9)
+**Psalms 140:8**<big><big>[[Ps.140.1 Rescue Me from Evil Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Grant not, O LORD, the desires of the wicked: further not his wicked device; [lest] they exalt themselves. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Grant not, O LORD, the desires of the wicked; do not promote their evil plans, l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.7|<< Psalms 140:7]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.9|Psalms 140:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you grant  |**<big>&#8207;[[H5414G\|תִּתֵּ֣ן]]&#8207; </big>**| ti.Ten<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

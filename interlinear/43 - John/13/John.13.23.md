@@ -1,12 +1,12 @@
-**John 13:23
-**<small><sub>**KJV:**</sub></small>
+**John 13:23**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now there was leaning on Jesus’ bosom one of his disciples, whom Jesus loved.
 <small><sub>**BSB:**</sub></small>
 One of His disciples, the one whom Jesus loved, was reclining at His side.
 <small><sub>**Literal:**</sub></small>
 There was now reclining one of the disciples of Him in the bosom <the> of Jesus whom was loving <the> Jesus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.22|<< John 13:22]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.24|John 13:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There was |**<big>[[G1510\|Ἦν]]</big>**  |Ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

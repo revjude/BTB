@@ -1,4 +1,4 @@
-**Esther 8:14** 
+**Esther 8:14**<big><big>[[Esth.8.7 The Decree of Xerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [So] the posts that rode upon mules [and] camels went out, being hastened and pressed on by the king’s commandment. And the decree was given at Shushan the palace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The couriers rode out in haste on their royal horses, pressed on by the command 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.13|<< Esther 8:13]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.15|Esther 8:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the couriers  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7323G\|רָצִ֞ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.Tzim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] riders of  |**<big>&#8207;[[H7392\|רֹכְבֵ֤י]]&#8207; </big>**| ro.khe.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 22:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:17**<big><big>[[Matt.22.15 Paying Taxes to Caesar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not?
 <small><sub>**BSB:**</sub></small>
 So tell us what You think: Is it lawful to pay taxes to Caesar or not?”
 <small><sub>**Literal:**</sub></small>
 do tell therefore us what You think? Is it lawful to give tribute to Caesar or not?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.16|<< Matthew 22:16]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.18|Matthew 22:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do tell |**<big>[[G2036\|εἰπὲ]]</big>**  [^1] |eipe <small><sup>[[V-2AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

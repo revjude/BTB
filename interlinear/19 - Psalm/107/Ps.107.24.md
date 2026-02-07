@@ -1,4 +1,4 @@
-**Psalms 107:24** 
+**Psalms 107:24**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These see the works of the LORD, and his wonders in the deep.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They saw the works of the LORD, and His wonders in the deep.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.23|<< Psalms 107:23]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.25|Psalms 107:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵ֣מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they saw  |**<big>&#8207;[[H7200G\|רָ֭אוּ]]&#8207; </big>**| Ra.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

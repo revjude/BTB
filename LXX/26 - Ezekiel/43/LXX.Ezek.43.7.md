@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:7** 
 <small><sub>**LXX:**</sub></small>
 and he said to me, You see, O son of man, the place  of my throne, and the place of the track  of my feet, in which my name shall encamp in \[the\] midst of the house of Israel into the eon. And \[the\] house of Israel shall not profane my holy name any longer, they and the ones leading them in  their harlotry, and by the murders of the ones leading them in \[the\] midst of them; 
-<small><sub>**KJV:**</sub></small>
-And he said unto me, Son of man, the place of my throne, and the place of the soles of my feet, where I will dwell in the midst of the children of Israel for ever, and my holy name, shall the house of Israel no more defile, [neither] they, nor their kings, by their whoredom, nor by the carcases of their kings in their high places.
-<small><sub>**BSB:**</sub></small>
-and He said to me, “Son of man, this is the place of My throne and the place for the soles of My feet, where I will dwell among the Israelites forever. The house of Israel will never again defile My holy name—neither they nor their kings—by their prostitution and by the funeral offerings for their kings at their deaths.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.6|<< Ezekiel 43:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.8|Ezekiel 43:8 >>]]</td></tr></table>
 
 | Translation | Greek |

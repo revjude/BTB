@@ -1,10 +1,7 @@
 **LXX Jeremiah 19:15** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel, Behold, I bring upon  this city, and upon all  her cities, and upon  her towns, all the evils which I spoke against her, for they hardened  their neck  to not listen to  my commandments. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts, the God of Israel; Behold, I will bring upon this city and upon all her towns all the evil that I have pronounced against it, because they have hardened their necks, that they might not hear my words.
-<small><sub>**BSB:**</sub></small>
-“This is what the LORD of Hosts, the God of Israel, says: ‘Behold, I am about to bring on this city and on all the villages around it every disaster I have pronounced against them, because they have stiffened their necks so as not to heed My words.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.14|<< Jeremiah 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.20.1|Jeremiah 20:1 >>]]</td></tr></table>
 
 | Translation | Greek |

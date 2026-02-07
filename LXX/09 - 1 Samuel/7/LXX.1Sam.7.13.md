@@ -1,10 +1,7 @@
 **LXX 1 Samuel 7:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> humbled the Philistines, and they did not proceed any longer  to come unto \[the\] border of Israel. And \[the\] hand \[of the\] <span class="smallcaps">lord</span> was against the Philistines all the days  of Samuel. 
-<small><sub>**KJV:**</sub></small>
-So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the LORD was against the Philistines all the days of Samuel.
-<small><sub>**BSB:**</sub></small>
-So the Philistines were subdued, and they stopped invading the territory of Israel. And the hand of the LORD was against the Philistines all the days of Samuel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.12|<< 1 Samuel 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.14|1 Samuel 7:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 7:13** is...

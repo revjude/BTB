@@ -1,4 +1,4 @@
-**Proverbs 4:12** 
+**Proverbs 4:12**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you walk, your steps will not be impeded; when you run, you will not stumbl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.11|<< Proverbs 4:11]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.13|Proverbs 4:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when walking you  |**<big>&#8207;[[H9003\|בְּֽ֭]]&#8207;&#8207;[[H1980I\|לֶכְתְּ]]&#8207;&#8207;[[H9041\|ךָ]]&#8207; </big>**| Be.<small><sup>[[HR]]</sup></small> lekh.te.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

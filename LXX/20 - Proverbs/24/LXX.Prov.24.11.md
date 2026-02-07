@@ -1,10 +1,7 @@
 **LXX Proverbs 24:11** 
 <small><sub>**LXX:**</sub></small>
 Rescue \[the\] ones being led unto death, and buy off \[the\] ones for slaying! You should not spare. 
-<small><sub>**KJV:**</sub></small>
-If thou forbear to deliver [them that are] drawn unto death, and [those that are] ready to be slain;
-<small><sub>**BSB:**</sub></small>
-Rescue those being led away to death, and restrain those stumbling toward the slaughter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.10|<< Proverbs 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.12|Proverbs 24:12 >>]]</td></tr></table>
 
 | Translation | Greek |

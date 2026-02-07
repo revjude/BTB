@@ -1,10 +1,7 @@
 **LXX Psalm 88:2** 
 <small><sub>**LXX:**</sub></small>
 my prayer enter before you! Lean  your ear to  my supplication! 
-<small><sub>**KJV:**</sub></small>
-Let my prayer come before thee: incline thine ear unto my cry;
-<small><sub>**BSB:**</sub></small>
-May my prayer come before You; incline Your ear to my cry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.88.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.1|<< Psalm 88:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.3|Psalm 88:3 >>]]</td></tr></table>
 
 | Translation | Greek |

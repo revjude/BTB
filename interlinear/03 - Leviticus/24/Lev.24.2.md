@@ -1,4 +1,4 @@
-**Leviticus 24:2** 
+**Leviticus 24:2**<big><big>[[Lev.24.1 The Oil for the Lamps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Command the children of Israel, that they bring unto thee pure oil olive beaten for the light, to cause the lamps to burn continually.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Command the children of Israel, that they bring unto thee pure oil olive beaten 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.1|<< Leviticus 24:1]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.3|Leviticus 24:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | command  |**<big>&#8207;[[H6680\|צַ֞ו]]&#8207; </big>**| tzav<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

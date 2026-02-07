@@ -1,10 +1,7 @@
 **LXX Genesis 39:3** 
 <small><sub>**LXX:**</sub></small>
 And his master saw that the <span class="smallcaps">lord</span> was with him, and whatever as much as he should do, \[the\] <span class="smallcaps">lord</span> prospered the way by  his hands. 
-<small><sub>**KJV:**</sub></small>
-And his master saw that the LORD [was] with him, and that the LORD made all that he did to prosper in his hand.
-<small><sub>**BSB:**</sub></small>
-When his master saw that the LORD was with him and made him prosper in all he did,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.2|<< Genesis 39:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.4|Genesis 39:4 >>]]</td></tr></table>
 
 | Translation | Greek |

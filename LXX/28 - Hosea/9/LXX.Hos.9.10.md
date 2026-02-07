@@ -1,10 +1,7 @@
 **LXX Hosea 9:10** 
 <small><sub>**LXX:**</sub></small>
 As a grape in \[the\] wilderness I found  Israel; as a fig in \[the\] early fig-tree I beheld their fathers. They entered to  Baal Peor, and they were separated for shame, and the \[things\] being abhorred became as the \[things\] being loved. 
-<small><sub>**KJV:**</sub></small>
-I found Israel like grapes in the wilderness; I saw your fathers as the firstripe in the fig tree at her first time: [but] they went to Baalpeor, and separated themselves unto [that] shame; and [their] abominations were according as they loved.
-<small><sub>**BSB:**</sub></small>
-I found Israel like grapes in the wilderness. I saw your fathers as the firstfruits of the fig tree in its first season. But they went to Baal-peor, and consecrated themselves to Shame; so they became as detestable as the thing they loved.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.9|<< Hosea 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.11|Hosea 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

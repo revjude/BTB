@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:21** 
 <small><sub>**LXX:**</sub></small>
 And Abishai son of Zeruiah answered and said, For this Shimei be put to death, for he cursed the anointed one of \[the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-But Abishai the son of Zeruiah answered and said, Shall not Shimei be put to death for this, because he cursed the LORD’S anointed?
-<small><sub>**BSB:**</sub></small>
-But Abishai son of Zeruiah said, “Shouldn’t Shimei be put to death for this, because he cursed the LORD’s anointed?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.20|<< 2 Samuel 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.22|2 Samuel 19:22 >>]]</td></tr></table>
 
 | Translation | Greek |

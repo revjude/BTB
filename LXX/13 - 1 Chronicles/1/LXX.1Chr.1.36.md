@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 1:36** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons of Eliphaz -- Teman, and Omar, Zephi, and Gatam, Kenaz; and \[by\] Timna, and Amalek. 
-<small><sub>**KJV:**</sub></small>
-The sons of Eliphaz; Teman, and Omar, Zephi, and Gatam, Kenaz, and Timna, and Amalek.
-<small><sub>**BSB:**</sub></small>
-The sons of Eliphaz: Teman, Omar, Zepho, Gatam, and Kenaz; and by Timna, Amalek.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.1.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.35|<< 1 Chronicles 1:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.37|1 Chronicles 1:37 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezra 7:11** 
 <small><sub>**LXX:**</sub></small>
 And this \[is\] the copy of the edict which Artaxerxes the king gave to Ezra the priest, to the scribe of \[the\] scroll of \[the\] words of \[the\] commandments of \[the\] <span class="smallcaps">lord</span>, and his orders unto  Israel. 
-<small><sub>**KJV:**</sub></small>
-Now this [is] the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, [even] a scribe of the words of the commandments of the LORD, and of his statutes to Israel.
-<small><sub>**BSB:**</sub></small>
-This is the text of the letter King Artaxerxes had given to Ezra the priest and scribe, an expert in the commandments and statutes of the LORD to Israel:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.10|<< Ezra 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.12|Ezra 7:12 >>]]</td></tr></table>
 
 | Translation | Greek |

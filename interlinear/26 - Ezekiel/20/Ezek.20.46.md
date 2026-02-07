@@ -1,4 +1,4 @@
-**Ezekiel 20:46** (21:2)
+**Ezekiel 20:46**<big><big>[[Ezek.20.45 A Prophecy against the South|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, set thy face toward the south, and drop [thy word] toward the south, and prophesy against the forest of the south field;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Son of man, set thy face toward the south, and drop [thy word] toward the south,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.45|<< Ezekiel 20:45]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.47|Ezekiel 20:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humankind  |**<big>&#8207;[[H0120G\|אָדָ֗ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

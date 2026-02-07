@@ -1,4 +1,4 @@
-**Ezekiel 13:7** 
+**Ezekiel 13:7**<big><big>[[Ezek.13.1 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have ye not seen a vain vision, and have ye not spoken a lying divination, whereas ye say, The LORD saith [it]; albeit I have not spoken?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Haven’t you seen a false vision and spoken a lying divination when you proclai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.6|<< Ezekiel 13:6]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.8|Ezekiel 13:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֤וֹא]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a vision of  |**<big>&#8207;[[H4236\|מַֽחֲזֵה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ma.cha.zeh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

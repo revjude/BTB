@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:26** 
 <small><sub>**LXX:**</sub></small>
 And Joab waged war with Rabbah of \[the\] sons of Ammon, and he overtook the city of the kingdom. 
-<small><sub>**KJV:**</sub></small>
-And Joab fought against Rabbah of the children of Ammon, and took the royal city.
-<small><sub>**BSB:**</sub></small>
-Meanwhile, Joab fought against Rabbah of the Ammonites and captured the royal fortress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.25|<< 2 Samuel 12:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.27|2 Samuel 12:27 >>]]</td></tr></table>
 
 | Translation | Greek |

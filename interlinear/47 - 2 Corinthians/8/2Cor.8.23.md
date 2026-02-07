@@ -1,12 +1,12 @@
-**2 Corinthians 8:23
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:23**<big><big>[[2Cor.8.16 Titus Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whether [any do inquire] of Titus, [he is] my partner and fellowhelper concerning you: or our brethren [be inquired of, they are] the messengers of the churches, [and] the glory of Christ.
 <small><sub>**BSB:**</sub></small>
 As for Titus, he is my partner and fellow worker among you. As for our brothers, they are messengers of the churches, the glory of Christ.
 <small><sub>**Literal:**</sub></small>
 Whether as regards Titus, [he is] partner of mine and for you a fellow worker; or brothers our, [they are] apostles of [the] churches, [the] glory of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.22|<< 2 Corinthians 8:22]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.24|2 Corinthians 8:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Whether |**<big>[[G1535\|εἴτε]]</big>**  |eite <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as regards |**<big>[[G5228\|ὑπὲρ]]</big>**  |huper <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Revelation 17:18
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:18**<big><big>[[Rev.17.14 The Victory of the Lamb|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the woman which thou sawest is that great city, which reigneth over the kings of the earth.
 <small><sub>**BSB:**</sub></small>
 And the woman you saw is the great city that rules over the kings of the earth.”
 <small><sub>**Literal:**</sub></small>
 And the woman whom you saw is the city <the> great which is having kingship over the kings of the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.17|<< Revelation 17:17]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.1|Revelation 18:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

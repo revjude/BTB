@@ -1,10 +1,7 @@
 **LXX Isaiah 29:6** 
 <small><sub>**LXX:**</sub></small>
 by \[the\] <span class="smallcaps">lord</span> of Hosts; for there will be a visitation with thunder, and earthquake, and a great sound, a blast being borne about, and a flame of fire devouring. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.
-<small><sub>**BSB:**</sub></small>
-you will be visited by the LORD of Hosts with thunder and earthquake and loud noise, with windstorm and tempest and consuming flame of fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.5|<< Isaiah 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.7|Isaiah 29:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 42:11** 
+**Genesis 42:11**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We [are] all one man’s sons; we [are] true [men], thy servants are no spies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We are all sons of one man. Your servants are honest men, not spies.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.10|<< Genesis 42:10]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.12|Genesis 42:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all of us  |**<big>&#8207;[[H3605\|כֻּלָּ֕]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| ku.La.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

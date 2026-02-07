@@ -1,4 +1,4 @@
-**Judges 9:33** 
+**Judges 9:33**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, [that] in the morning, as soon as the sun is up, thou shalt rise early, and set upon the city: and, behold, [when] he and the people that [is] with him come out against thee, then mayest thou do to them as thou shalt find occasion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And in the morning at sunrise, get up and advance against the city. When Gaal an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.32|<< Judges 9:32]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.34|Judges 9:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the morning  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1242\|בֹּ֙קֶר֙]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

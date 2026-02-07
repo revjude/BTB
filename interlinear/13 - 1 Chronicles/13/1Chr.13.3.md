@@ -1,4 +1,4 @@
-**1 Chronicles 13:3** 
+**1 Chronicles 13:3**<big><big>[[1Chr.13.1 David Fetches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let us bring again the ark of our God to us: for we inquired not at it in the days of Saul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then let us bring back the ark of our God, for we did not inquire of Him in the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.2|<< 1 Chronicles 13:2]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.13.4|1 Chronicles 13:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and let us bring round  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5437I\|נָסֵ֛בָּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.Se.bah<small><sup>[[HVhc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

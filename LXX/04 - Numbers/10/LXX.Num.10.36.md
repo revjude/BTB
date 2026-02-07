@@ -1,10 +1,7 @@
 **LXX Numbers 10:36** 
 <small><sub>**LXX:**</sub></small>
 And in the resting, he said, Turn! O <span class="smallcaps">lord</span>, thousands of myriads in  Israel. 
-<small><sub>**KJV:**</sub></small>
-And when it rested, he said, Return, O LORD, unto the many thousands of Israel.
-<small><sub>**BSB:**</sub></small>
-And when it came to rest, he would say: “Return, O LORD, to the countless thousands of Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.35|<< Numbers 10:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.1|Numbers 11:1 >>]]</td></tr></table>
 
 | Translation | Greek |

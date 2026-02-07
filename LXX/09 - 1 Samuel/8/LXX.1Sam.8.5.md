@@ -1,10 +1,7 @@
 **LXX 1 Samuel 8:5** 
 <small><sub>**LXX:**</sub></small>
 And they said to him, Behold, you grow old, and  your sons do not go in  your way. And now place over us a king to adjudicate for us as all the nations! 
-<small><sub>**KJV:**</sub></small>
-And said unto him, Behold, thou art old, and thy sons walk not in thy ways: now make us a king to judge us like all the nations.
-<small><sub>**BSB:**</sub></small>
-“Look,” they said, “you are old, and your sons do not walk in your ways. Now appoint a king to judge us like all the other nations.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.4|<< 1 Samuel 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.8.6|1 Samuel 8:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 8:5** is...

@@ -1,10 +1,7 @@
 **LXX Leviticus 16:11** 
 <small><sub>**LXX:**</sub></small>
 And Aaron shall bring the calf, the one for the sin \[offering\], the one for himself; and he shall atone for himself, and  his house. And he shall slay the calf, the one for the sin \[offering\], the one for himself. 
-<small><sub>**KJV:**</sub></small>
-And Aaron shall bring the bullock of the sin offering, which [is] for himself, and shall make an atonement for himself, and for his house, and shall kill the bullock of the sin offering which [is] for himself:
-<small><sub>**BSB:**</sub></small>
-When Aaron presents the bull for his sin offering and makes atonement for himself and his household, he is to slaughter the bull for his own sin offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.10|<< Leviticus 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.12|Leviticus 16:12 >>]]</td></tr></table>
 
 | Translation | Greek |

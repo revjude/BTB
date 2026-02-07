@@ -1,10 +1,7 @@
 **LXX Daniel 3:15** 
 <small><sub>**LXX:**</sub></small>
 Now then if it suffices readily that as whenever you should hear the sound of the trumpet, also flute and harp, also sambuke and psaltery, and harmony of sound, and every kind of music, falling you should do obeisance to the image which I made -- \[good\]. And if you should not do obeisance this  hour, you shall be put into the burning furnace of fire; and who is God who shall rescue you from out of  my hands? 
-<small><sub>**KJV:**</sub></small>
-Now if ye be ready that at what time ye hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, ye fall down and worship the image which I have made; [well]: but if ye worship not, ye shall be cast the same hour into the midst of a burning fiery furnace; and who [is] that God that shall deliver you out of my hands?
-<small><sub>**BSB:**</sub></small>
-Now when you hear the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music, if you are ready to fall down and worship the statue I have made, very good. But if you refuse to worship, you will be thrown at once into the blazing fiery furnace. Then what god will be able to deliver you from my hands?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.14|<< Daniel 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.16|Daniel 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

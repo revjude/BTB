@@ -1,5 +1,5 @@
-**Romans 9:25
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:25**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.
 <small><sub>**BSB:**</sub></small>
 As He says in Hosea: “I will call them ‘My People’ who are not My people, and I will call her ‘My Beloved’ who is not My beloved,”
@@ -10,7 +10,7 @@ As also in <the> Hosea He says: I will call that which [is] not people of Mine p
 > $\quad$ referencing: [[LXX.Hos.2.23|Hos 2:23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

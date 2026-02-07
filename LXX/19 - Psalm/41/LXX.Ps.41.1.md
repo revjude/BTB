@@ -6,10 +6,7 @@ To the director; a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 Blessed \[is\] the one taking notice upon \[the\] poor and needy; the <span class="smallcaps">lord</span> shall rescue him in \[the\] evil day. 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm of David. Blessed [is] he that considereth the poor: the LORD will deliver him in time of trouble.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. A Psalm of David. Blessed is the one who cares for the poor; the LORD will deliver him in the day of trouble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.41.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.17|<< Psalm 40:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.2|Psalm 41:2 >>]]</td></tr></table>
 
 | Translation | Greek |

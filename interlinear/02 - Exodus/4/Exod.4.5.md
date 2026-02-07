@@ -1,4 +1,4 @@
-**Exodus 4:5** 
+**Exodus 4:5**<big><big>[[Exod.4.1 Moses’ Staff|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may believe that the LORD God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ That they may believe that the LORD God of their fathers, the God of Abraham, th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.4|<< Exodus 4:4]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.6|Exodus 4:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֣עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they may believe  |**<big>&#8207;[[H0539\|יַאֲמִ֔ינוּ]]&#8207; </big>**| ya.'a.Mi.nu<small><sup>[[HVhj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

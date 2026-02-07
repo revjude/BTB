@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:8** 
 <small><sub>**LXX:**</sub></small>
 And the force of the Chaldeans pursued after the king, and overtook him on the other side of Jericho. And all  his servants were dispersed away from him. 
-<small><sub>**KJV:**</sub></small>
-But the army of the Chaldeans pursued after the king, and overtook Zedekiah in the plains of Jericho; and all his army was scattered from him.
-<small><sub>**BSB:**</sub></small>
-but the army of the Chaldeans pursued the king and overtook Zedekiah in the plains of Jericho, and his whole army deserted him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.7|<< Jeremiah 52:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.9|Jeremiah 52:9 >>]]</td></tr></table>
 
 | Translation | Greek |

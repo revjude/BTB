@@ -1,4 +1,4 @@
-**Ezekiel 27:6** 
+**Ezekiel 27:6**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Of] the oaks of Bashan have they made thine oars; the company of the Ashurites have made thy benches [of] ivory, [brought] out of the isles of Chittim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Of oaks from Bashan they made your oars; of wood from the coasts of Cyprus they 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.5|<< Ezekiel 27:5]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.7|Ezekiel 27:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | oaks  |**<big>&#8207;[[H0437\|אַלּוֹנִים֙]]&#8207; </big>**| 'a.lo.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Bashan  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1316\|בָּ֔שָׁן]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ba.shon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

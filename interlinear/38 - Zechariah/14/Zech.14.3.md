@@ -1,4 +1,4 @@
-**Zechariah 14:3** 
+**Zechariah 14:3**<big><big>[[Zech.14.1 The Destroyers of Jerusalem Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the LORD go forth, and fight against those nations, as when he fought in the day of battle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the LORD will go out to fight against those nations, as He fights in the da
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.2|<< Zechariah 14:2]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.4|Zechariah 14:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will go forth  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318G\|יָצָ֣א]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Tza'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

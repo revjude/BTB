@@ -1,4 +1,4 @@
-**Psalms 44:12** (44:13)
+**Psalms 44:12**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou sellest thy people for nought, and dost not increase [thy wealth] by their price.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You sell Your people for nothing; no profit do You gain from their sale.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.11|<< Psalms 44:11]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.13|Psalms 44:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have sold  |**<big>&#8207;[[H4376\|תִּמְכֹּֽר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tim.kor-<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people your  |**<big>&#8207;[[H5971A\|עַמְּ]]&#8207;&#8207;[[H9021\|ךָ֥]]&#8207; </big>**| 'a.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

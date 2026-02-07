@@ -1,12 +1,12 @@
-**Acts 10:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:4**<big><big>[[Acts.10.1 Cornelius Sends for Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he looked on him, he was afraid, and said, What is it, Lord? And he said unto him, Thy prayers and thine alms are come up for a memorial before God.
 <small><sub>**BSB:**</sub></small>
 Cornelius stared at him in fear and asked, “What is it, Lord?” The angel answered, “Your prayers and gifts to the poor have ascended as a memorial offering before God.
 <small><sub>**Literal:**</sub></small>
 <the> And having looked intently on him and afraid having become he said; What is it, Lord? He said then to him; The prayers of You and the alms of you have ascended as a memorial before <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.3|<< Acts 10:3]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.5|Acts 10:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

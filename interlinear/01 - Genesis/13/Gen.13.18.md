@@ -1,4 +1,4 @@
-**Genesis 13:18** 
+**Genesis 13:18**<big><big>[[Gen.13.14 God Renews the Promise to Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Abram removed [his] tent, and came and dwelt in the plain of Mamre, which [is] in Hebron, and built there an altar unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Abram moved his tent and went to live near the Oaks of Mamre at Hebron, where
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.17|<< Genesis 13:17]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.1|Genesis 14:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he moved tent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0167\|יֶּאֱהַ֣ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.'e.Hal<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abram  |**<big>&#8207;[[H0087\|אַבְרָ֗ם]]&#8207; </big>**| 'av.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

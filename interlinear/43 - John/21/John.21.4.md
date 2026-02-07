@@ -1,12 +1,12 @@
-**John 21:4
-**<small><sub>**KJV:**</sub></small>
+**John 21:4**<big><big>[[John.21.1 Jesus Appears by the Sea of Tiberias|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus.
 <small><sub>**BSB:**</sub></small>
 Early in the morning, Jesus stood on the shore, but the disciples did not recognize that it was Jesus.
 <small><sub>**Literal:**</sub></small>
 When morning now already having become stood <the> Jesus on the shore; not however knew the disciples that Jesus it is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.3|<< John 21:3]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.5|John 21:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When morning |**<big>[[G4405\|πρωΐας]]</big>**  |prōias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

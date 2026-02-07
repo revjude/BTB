@@ -1,4 +1,4 @@
-**2 Samuel 24:8** 
+**2 Samuel 24:8**<big><big>[[2Sam.24.1 David’s Military Census|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So when they had gone through all the land, they came to Jerusalem at the end of nine months and twenty days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the end of nine months and twenty days, having gone through the whole land, t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.7|<< 2 Samuel 24:7]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.9|2 Samuel 24:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went about  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7751A\|יָּשֻׁ֖טוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Shu.tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in all  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:21** 
 <small><sub>**LXX:**</sub></small>
 And I will blow upon you in \[the\] fire of my anger, and you shall be cast in a furnace in \[the\] midst of it. 
-<small><sub>**KJV:**</sub></small>
-Yea, I will gather you, and blow upon you in the fire of my wrath, and ye shall be melted in the midst thereof.
-<small><sub>**BSB:**</sub></small>
-Yes, I will gather you together and blow on you with the fire of My wrath, and you will be melted within the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.20|<< Ezekiel 22:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.22|Ezekiel 22:22 >>]]</td></tr></table>
 
 | Translation | Greek |

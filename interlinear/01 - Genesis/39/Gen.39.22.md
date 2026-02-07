@@ -1,4 +1,4 @@
-**Genesis 39:22** 
+**Genesis 39:22**<big><big>[[Gen.39.13 Joseph Falsely Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the keeper of the prison committed to Joseph’s hand all the prisoners that [were] in the prison; and whatsoever they did there, he was the doer [of it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the warden put all the prisoners under Joseph’s care, so that he was respo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.21|<< Genesis 39:21]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.23|Genesis 39:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he gave  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5414H\|יִּתֵּ֞ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ten<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] commander of  |**<big>&#8207;[[H8269\|שַׂ֤ר]]&#8207; </big>**| sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

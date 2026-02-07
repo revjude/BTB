@@ -1,4 +1,4 @@
-**Jeremiah 48:28** 
+**Jeremiah 48:28**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O ye that dwell in Moab, leave the cities, and dwell in the rock, and be like the dove [that] maketh her nest in the sides of the hole’s mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Abandon the towns and settle among the rocks, O dwellers of Moab! Be like a dove
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.27|<< Jeremiah 48:27]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.29|Jeremiah 48:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | abandon  |**<big>&#8207;[[H5800A\|עִזְב֤וּ]]&#8207; </big>**| 'iz.Vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cities  |**<big>&#8207;[[H5892B\|עָרִים֙]]&#8207; </big>**| 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 75:10** (75:11)
+**Psalms 75:10**<big><big>[[Ps.75.1 God’s Righteous Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the horns of the wicked also will I cut off; [but] the horns of the righteous shall be exalted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the horns of the wicked also will I cut off; [but] the horns of the righteou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.75.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.75.9|<< Psalms 75:9]]</td><td align="center" style="border:none;">[[Ps.75|Psalms 75]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.0|Psalms 76:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] horns of  |**<big>&#8207;[[H7161A\|קַרְנֵ֣י]]&#8207; </big>**| kar.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

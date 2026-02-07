@@ -1,12 +1,12 @@
-**Acts 16:29
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:29**<big><big>[[Acts.16.25 The Conversion of the Jailer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then he called for a light, and sprang in, and came trembling, and fell down before Paul and Silas,
 <small><sub>**BSB:**</sub></small>
 Calling for lights, the jailer rushed in and fell trembling before Paul and Silas.
 <small><sub>**Literal:**</sub></small>
 Having called for now lights he rushed in and terrified having become he fell down before <the> Paul and <the> Silas,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.28|<< Acts 16:28]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.30|Acts 16:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having called for |**<big>[[G0154\|αἰτήσας]]</big>**  |aitēsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

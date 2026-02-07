@@ -1,4 +1,4 @@
-**2 Chronicles 31:2** 
+**2 Chronicles 31:2**<big><big>[[2Chr.31.1 The Destruction of Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah appointed the courses of the priests and the Levites after their courses, every man according to his service, the priests and Levites for burnt offerings and for peace offerings, to minister, and to give thanks, and to praise in the gates of the tents of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hezekiah reestablished the divisions of the priests and Levites—each of them a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.1|<< 2 Chronicles 31:1]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.3|2 Chronicles 31:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appointed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975H\|יַּעֲמֵ֣ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Med<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hezekiah  |**<big>&#8207;[[H2396G\|יְחִזְקִיָּ֡הוּ]]&#8207; </big>**| ye.chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

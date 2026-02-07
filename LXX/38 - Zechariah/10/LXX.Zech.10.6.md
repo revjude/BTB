@@ -1,10 +1,7 @@
 **LXX Zechariah 10:6** 
 <small><sub>**LXX:**</sub></small>
 And I will strengthen the house of Judah. And the house of Joseph I will deliver. And I will settle them; for I loved them. And they will be in which manner when I disowned them not. Because I \[am\] \[the\] <span class="smallcaps">lord</span>  their God, and I shall take heed of them. 
-<small><sub>**KJV:**</sub></small>
-And I will strengthen the house of Judah, and I will save the house of Joseph, and I will bring them again to place them; for I have mercy upon them: and they shall be as though I had not cast them off: for I [am] the LORD their God, and will hear them.
-<small><sub>**BSB:**</sub></small>
-I will strengthen the house of Judah and save the house of Joseph. I will restore them because I have compassion on them, and they will be as though I had not rejected them. For I am the LORD their God, and I will answer them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.10.5|<< Zechariah 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.7|Zechariah 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

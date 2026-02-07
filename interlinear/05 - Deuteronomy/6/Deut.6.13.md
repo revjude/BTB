@@ -1,4 +1,4 @@
-**Deuteronomy 6:13** 
+**Deuteronomy 6:13**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt fear the LORD thy God, and serve him, and shalt swear by his name.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Fear the LORD your God, serve Him only, and take your oaths in His name.
 > $\quad$ referenced by: [[Matt.4.10|Matt 4:10]] ☩ [[Luke.4.8|Luke 4:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֧ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

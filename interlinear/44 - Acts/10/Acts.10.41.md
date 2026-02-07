@@ -1,12 +1,12 @@
-**Acts 10:41
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:41**<big><big>[[Acts.10.34 Good News for the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Not to all the people, but unto witnesses chosen before of God, [even] to us, who did eat and drink with him after he rose from the dead.
 <small><sub>**BSB:**</sub></small>
 not by all the people, but by the witnesses God had chosen beforehand, by us who ate and drank with Him after He rose from the dead.
 <small><sub>**Literal:**</sub></small>
 not [revealed] to all the people, but to [the] witnesses who chosen beforehand by <the> God to us who we ate with and we drank with Him after <the> rising of Him out from [the] dead;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.40|<< Acts 10:40]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.42|Acts 10:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not [revealed] |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to all |**<big>[[G3956\|παντὶ]]</big>**  |panti <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

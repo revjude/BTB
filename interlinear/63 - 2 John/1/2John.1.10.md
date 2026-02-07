@@ -1,12 +1,12 @@
-**2 John 1:10
-**<small><sub>**KJV:**</sub></small>
+**2 John 1:10**<big><big>[[2John.1.7 Beware of Deceivers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If there come any unto you, and bring not this doctrine, receive him not into [your] house, neither bid him God speed:
 <small><sub>**BSB:**</sub></small>
 If anyone comes to you but does not bring this teaching, do not receive him into your home or even greet him.
 <small><sub>**Literal:**</sub></small>
 If anyone comes to you and this <the> teaching not does bring, not do receive him into [the] house, and to greet him not do tell;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.9|<< 2 John 1:9]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.11|2 John 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

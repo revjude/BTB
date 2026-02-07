@@ -1,12 +1,12 @@
-**Acts 19:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:31**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And certain of the chief of Asia, which were his friends, sent unto him, desiring [him] that he would not adventure himself into the theatre.
 <small><sub>**BSB:**</sub></small>
 Even some of Paul’s friends who were officials of the province of Asia sent word to him, begging him not to venture into the theatre.
 <small><sub>**Literal:**</sub></small>
 Some then also of the Asiarchs being to him friends, having sent to him they were urging [him] not to venture himself into the theatre.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.30|<< Acts 19:30]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.32|Acts 19:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Some |**<big>[[G5100\|τινὲς]]</big>**  |tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

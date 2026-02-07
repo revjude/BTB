@@ -1,10 +1,7 @@
 **LXX Esther 4:10** 
 <small><sub>**LXX:**</sub></small>
 And Esther said to Hatach, You go to Mordecai, and say! 
-<small><sub>**KJV:**</sub></small>
-Again Esther spake unto Hatach, and gave him commandment unto Mordecai;
-<small><sub>**BSB:**</sub></small>
-Then Esther spoke to Hathach and instructed him to tell Mordecai,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.4.9|<< Esther 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.11|Esther 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

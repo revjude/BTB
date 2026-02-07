@@ -1,4 +1,4 @@
-**Isaiah 7:11** 
+**Isaiah 7:11**<big><big>[[Isa.7.10 The Sign of Immanuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ask thee a sign of the LORD thy God; ask it either in the depth, or in the height above.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ask thee a sign of the LORD thy God; ask it either in the depth, or in the heigh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.10|<< Isaiah 7:10]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.12|Isaiah 7:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ask  |**<big>&#8207;[[H7592\|שְׁאַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.'al-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for yourself  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

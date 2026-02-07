@@ -1,12 +1,12 @@
-**Psalms 19:1** (19:2)
+**Psalms 19:1**<big><big>[[Ps.19.1 The Heavens Declare the Glory of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm of David. The heavens declare the glory of God; and the firmament sheweth his handywork.
+The heavens declare the glory of God; and the firmament sheweth his handywork.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David. The heavens declare the glory of God; the skies proclaim the work of His hands.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.19.0|<< Psalms 19:0]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.2|Psalms 19:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֗יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] recounting  |**<big>&#8207;[[H5608A\|מְֽסַפְּרִ֥ים]]&#8207; </big>**| me.sa.pe.Rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

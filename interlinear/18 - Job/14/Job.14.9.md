@@ -1,4 +1,4 @@
-**Job 14:9** 
+**Job 14:9**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Yet] through the scent of water it will bud, and bring forth boughs like a plant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ at the scent of water it will bud and put forth twigs like a sapling.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.8|<< Job 14:8]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.10|Job 14:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] scent of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7381\|רֵ֣יחַ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Rei.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | water  |**<big>&#8207;[[H4325G\|מַ֣יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

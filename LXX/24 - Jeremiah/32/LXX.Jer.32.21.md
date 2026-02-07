@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:21** 
 <small><sub>**LXX:**</sub></small>
 And you led  your people Israel out of \[the\] land of Egypt with signs, and with miracles, by a fortified hand, and by a high arm, and by great visions. 
-<small><sub>**KJV:**</sub></small>
-And hast brought forth thy people Israel out of the land of Egypt with signs, and with wonders, and with a strong hand, and with a stretched out arm, and with great terror;
-<small><sub>**BSB:**</sub></small>
-You brought Your people Israel out of the land of Egypt with signs and wonders, with a strong hand and an outstretched arm, and with great terror.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.20|<< Jeremiah 32:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.22|Jeremiah 32:22 >>]]</td></tr></table>
 
 | Translation | Greek |

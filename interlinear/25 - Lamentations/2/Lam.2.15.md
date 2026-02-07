@@ -1,4 +1,4 @@
-**Lamentations 2:15** 
+**Lamentations 2:15**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All that pass by clap [their] hands at thee; they hiss and wag their head at the daughter of Jerusalem, [saying, Is] this the city that [men] call The perfection of beauty, The joy of the whole earth?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All who pass by clap their hands at you in scorn. They hiss and shake their head
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.14|<< Lamentations 2:14]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.16|Lamentations 2:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have clapped  |**<big>&#8207;[[H5606A\|סָֽפְק֨וּ]]&#8207; </big>**| sa.fe.Ku<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עָלַ֤יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

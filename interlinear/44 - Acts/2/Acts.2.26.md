@@ -1,5 +1,5 @@
-**Acts 2:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:26**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore did my heart rejoice, and my tongue was glad; moreover also my flesh shall rest in hope:
 <small><sub>**BSB:**</sub></small>
 Therefore my heart is glad and my tongue rejoices; my body also will dwell in hope,
@@ -10,7 +10,7 @@ Because of this was glad the heart of mine and rejoiced the tongue of mine, and 
 > $\quad$ referencing: [[LXX.Ps.16.8|Ps 16:8-11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

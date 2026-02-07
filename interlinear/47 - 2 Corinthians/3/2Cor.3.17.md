@@ -1,12 +1,12 @@
-**2 Corinthians 3:17
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:17**<big><big>[[2Cor.3.7 The Glory of the New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now the Lord is that Spirit: and where the Spirit of the Lord [is], there [is] liberty.
 <small><sub>**BSB:**</sub></small>
 Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.
 <small><sub>**Literal:**</sub></small>
 The now Lord the Spirit is; where now the Spirit of [the] Lord [is] there [is] freedom.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.16|<< 2 Corinthians 3:16]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.18|2 Corinthians 3:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

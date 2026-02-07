@@ -1,4 +1,4 @@
-**Numbers 28:6** 
+**Numbers 28:6**<big><big>[[Num.28.1 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] a continual burnt offering, which was ordained in mount Sinai for a sweet savour, a sacrifice made by fire unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is a regular burnt offering established at Mount Sinai as a pleasing aroma,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.5|<< Numbers 28:5]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.7|Numbers 28:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a burnt offering of  |**<big>&#8207;[[H5930A\|עֹלַ֖ת]]&#8207; </big>**| 'o.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | continuity  |**<big>&#8207;[[H8548\|תָּמִ֑יד]]&#8207; </big>**| ta.Mid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

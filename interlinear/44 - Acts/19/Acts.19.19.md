@@ -1,12 +1,12 @@
-**Acts 19:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:19**<big><big>[[Acts.19.13 Seven Sons of Sceva|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Many of them also which used curious arts brought their books together, and burned them before all [men]: and they counted the price of them, and found [it] fifty thousand [pieces] of silver.
 <small><sub>**BSB:**</sub></small>
 And a number of those who had practiced magic arts brought their books and burned them in front of everyone. When the value of the books was calculated, the total came to fifty thousand drachmas.
 <small><sub>**Literal:**</sub></small>
 Many now of those the magic arts having practiced having brought together the books were burning [them] before all; And they counted up the prices of them and found [it] of silverlings myriads five.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.18|<< Acts 19:18]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.20|Acts 19:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Many |**<big>[[G2425\|ἱκανοὶ]]</big>**  |hikanoi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

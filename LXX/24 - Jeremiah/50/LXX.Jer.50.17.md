@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:17** 
 <small><sub>**LXX:**</sub></small>
 Israel is a wandering sheep; lions pushed him out. The king of Assyria first devoured him, and this one afterwards  \[devoured\] his bones -- \[the\] king of Babylon. 
-<small><sub>**KJV:**</sub></small>
-Israel [is] a scattered sheep; the lions have driven [him] away: first the king of Assyria hath devoured him; and last this Nebuchadrezzar king of Babylon hath broken his bones.
-<small><sub>**BSB:**</sub></small>
-Israel is a scattered flock, chased away by lions. The first to devour him was the king of Assyria; the last to crush his bones was Nebuchadnezzar king of Babylon.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.16|<< Jeremiah 50:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.18|Jeremiah 50:18 >>]]</td></tr></table>
 
 | Translation | Greek |

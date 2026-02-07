@@ -1,10 +1,7 @@
 **LXX Leviticus 14:50** 
 <small><sub>**LXX:**</sub></small>
 And he shall slay the one small bird into an earthenware utensil over living water. 
-<small><sub>**KJV:**</sub></small>
-And he shall kill the one of the birds in an earthen vessel over running water:
-<small><sub>**BSB:**</sub></small>
-and he shall slaughter one of the birds over fresh water in a clay pot.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.49|<< Leviticus 14:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.51|Leviticus 14:51 >>]]</td></tr></table>
 
 | Translation | Greek |

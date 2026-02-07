@@ -1,10 +1,7 @@
 **LXX Proverbs 29:10** 
 <small><sub>**LXX:**</sub></small>
 Men \[being\] partners in blood shall detest \[the\] sacred; but the upright will seek after his soul. 
-<small><sub>**KJV:**</sub></small>
-The bloodthirsty hate the upright: but the just seek his soul.
-<small><sub>**BSB:**</sub></small>
-Men of bloodshed hate a blameless man, but the upright care for his life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.29.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.9|<< Proverbs 29:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.11|Proverbs 29:11 >>]]</td></tr></table>
 
 | Translation | Greek |

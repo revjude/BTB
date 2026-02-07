@@ -1,10 +1,7 @@
 **LXX Zechariah 14:17** 
 <small><sub>**LXX:**</sub></small>
 And it will be as many as should not ascend from out of all the tribes of the earth unto Jerusalem  to do obeisance to the king, \[to the\] <span class="smallcaps">lord</span> almighty, and these \[things\] shall be added to those -- there shall not be rain upon them. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, [that] whoso will not come up of [all] the families of the earth unto Jerusalem to worship the King, the LORD of hosts, even upon them shall be no rain.
-<small><sub>**BSB:**</sub></small>
-And should any of the families of the earth not go up to Jerusalem to worship the King, the LORD of Hosts, then the rain will not fall on them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.16|<< Zechariah 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.18|Zechariah 14:18 >>]]</td></tr></table>
 
 | Translation | Greek |

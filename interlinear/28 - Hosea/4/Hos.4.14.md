@@ -1,4 +1,4 @@
-**Hosea 4:14** 
+**Hosea 4:14**<big><big>[[Hos.4.1 God’s Case against His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people [that] doth not understand shall fall.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will not punish your daughters when they prostitute themselves, nor your daugh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.13|<< Hosea 4:13]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.15|Hosea 4:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will visit [judgment]  |**<big>&#8207;[[H6485H\|אֶפְק֨וֹד]]&#8207; </big>**| 'ef.Kod<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

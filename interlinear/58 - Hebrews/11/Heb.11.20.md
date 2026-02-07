@@ -1,5 +1,5 @@
-**Hebrews 11:20
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:20**<big><big>[[Heb.11.20 The Faith of Isaac, Jacob, and Joseph|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By faith Isaac blessed Jacob and Esau concerning things to come.
 <small><sub>**BSB:**</sub></small>
 By faith Isaac blessed Jacob and Esau concerning the future.
@@ -10,7 +10,7 @@ By faith also concerning [the things] coming blessed Isaac <the> Jacob and <the>
 > $\quad$ alluding to: [[LXX.Gen.27.28|Gen 27:28]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

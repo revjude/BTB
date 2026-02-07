@@ -1,12 +1,12 @@
-**Luke 2:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:7**<big><big>[[Luke.2.1 The Birth of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn.
 <small><sub>**BSB:**</sub></small>
 And she gave birth to her firstborn, a Son. She wrapped Him in swaddling cloths and laid Him in a manger, because there was no room for them in the inn.
 <small><sub>**Literal:**</sub></small>
 And she brought forth the son of her the firstborn and wrapped in swaddling cloths him and she laid Him in <the> a manger, because not there was for them a place in the inn.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.6|<< Luke 2:6]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.8|Luke 2:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | she brought forth |**<big>[[G5088\|ἔτεκεν]]</big>**  |eteken <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

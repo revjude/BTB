@@ -1,4 +1,4 @@
-**Jeremiah 32:12** 
+**Jeremiah 32:12**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I gave the evidence of the purchase unto Baruch the son of Neriah, the son of Maaseiah, in the sight of Hanameel mine uncle’s [son], and in the presence of the witnesses that subscribed the book of the purchase, before all the Jews that sat in the court of the prison.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and I gave this deed to Baruch son of Neriah, the son of Mahseiah, in the sight 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.11|<< Jeremiah 32:11]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.13|Jeremiah 32:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I gave  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5414G\|אֶתֵּ֞ן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Ten<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

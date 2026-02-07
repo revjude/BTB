@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 If in hearing you should hear the voice of \[the\] <span class="smallcaps">lord</span>  your God to guard and to observe all  his commandments which I give charge to you today, then \[the\] <span class="smallcaps">lord</span> your God shall appoint you above all the nations of the earth, 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe [and] to do all his commandments which I command thee this day, that the LORD thy God will set thee on high above all nations of the earth:
-<small><sub>**BSB:**</sub></small>
-“Now if you faithfully obey the voice of the LORD your God and are careful to follow all His commandments I am giving you today, the LORD your God will set you high above all the nations of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.27.26|<< Deuteronomy 27:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.2|Deuteronomy 28:2 >>]]</td></tr></table>
 
 | Translation | Greek |

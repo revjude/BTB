@@ -1,10 +1,7 @@
 **LXX Numbers 5:22** 
 <small><sub>**LXX:**</sub></small>
 and this accursing water shall enter into  your belly to bloat pregnant and to miscarry by your thigh. And the woman shall say, May it be. May it be. 
-<small><sub>**KJV:**</sub></small>
-And this water that causeth the curse shall go into thy bowels, to make [thy] belly to swell, and [thy] thigh to rot: And the woman shall say, Amen, amen.
-<small><sub>**BSB:**</sub></small>
-May this water that brings a curse enter your stomach and cause your belly to swell and your thigh to shrivel.’ Then the woman is to say, ‘Amen, Amen.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.21|<< Numbers 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.23|Numbers 5:23 >>]]</td></tr></table>
 
 | Translation | Greek |

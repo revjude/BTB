@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:31** 
 <small><sub>**LXX:**</sub></small>
 And in the first-fruits  of your gifts, and in  your offerings, in the passing through  your children in fire, you defiled \[yourselves\] in all  your thoughts until  today's day. And shall I answer you, O house  of Israel, \[no\]. \[As\] I live, says Adonai \[the\] <span class="smallcaps">lord</span>, Shall I answer you, and shall this \[thing\] ascend upon your spirit, no. 
-<small><sub>**KJV:**</sub></small>
-For when ye offer your gifts, when ye make your sons to pass through the fire, ye pollute yourselves with all your idols, even unto this day: and shall I be inquired of by you, O house of Israel? [As] I live, saith the Lord GOD, I will not be inquired of by you.
-<small><sub>**BSB:**</sub></small>
-When you offer your gifts, sacrificing your sons in the fire, you continue to defile yourselves with all your idols to this day. So should I be consulted by you, O house of Israel? As surely as I live, declares the Lord GOD, I will not be consulted by you!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.30|<< Ezekiel 20:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.32|Ezekiel 20:32 >>]]</td></tr></table>
 
 | Translation | Greek |

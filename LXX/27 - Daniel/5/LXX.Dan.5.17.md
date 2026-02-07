@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Then answered Daniel, and he said before the king,  be your gifts yours, and the present  of your house give to another! But I shall read the writing to the king, and the interpretation of it I shall make known to you. 
-<small><sub>**KJV:**</sub></small>
-Then Daniel answered and said before the king, Let thy gifts be to thyself, and give thy rewards to another; yet I will read the writing unto the king, and make known to him the interpretation.
-<small><sub>**BSB:**</sub></small>
-In response, Daniel said to the king, “You may keep your gifts for yourself and give your rewards to someone else. Nevertheless, I will read the inscription for the king and interpret it for him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.16|<< Daniel 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.18|Daniel 5:18 >>]]</td></tr></table>
 
 | Translation | Greek |

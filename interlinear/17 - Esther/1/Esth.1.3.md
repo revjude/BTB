@@ -1,4 +1,4 @@
-**Esther 1:3** 
+**Esther 1:3**<big><big>[[Esth.1.1 Xerxes’ Royal Feast|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the third year of his reign, he made a feast unto all his princes and his servants; the power of Persia and Media, the nobles and princes of the provinces, [being] before him:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the third year of his reign, Xerxes held a feast for all his officials and se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.2|<< Esther 1:2]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.4|Esther 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8141\|שְׁנַ֤ת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three  |**<big>&#8207;[[H7969\|שָׁלוֹשׁ֙]]&#8207; </big>**| sha.lo.Vosh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

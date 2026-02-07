@@ -1,4 +1,4 @@
-**Psalms 107:35** 
+**Psalms 107:35**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He turneth the wilderness into a standing water, and dry ground into watersprings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He turns a desert into pools of water and a dry land into flowing springs.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.34|<< Psalms 107:34]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.36|Psalms 107:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he made  |**<big>&#8207;[[H7760H\|יָשֵׂ֣ם]]&#8207; </big>**| ya.Sem<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a wilderness  |**<big>&#8207;[[H4057B\|מִ֭דְבָּר]]&#8207; </big>**| Mid.bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

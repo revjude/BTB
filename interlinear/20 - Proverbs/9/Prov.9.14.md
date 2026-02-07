@@ -1,4 +1,4 @@
-**Proverbs 9:14** 
+**Proverbs 9:14**<big><big>[[Prov.9.13 The Way of Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For she sitteth at the door of her house, on a seat in the high places of the city,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She sits at the door of her house, on a seat in the heights of the city,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.13|<< Proverbs 9:13]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.15|Proverbs 9:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she sits  |**<big>&#8207;[[H9001\|וְֽ֭]]&#8207;&#8207;[[H3427\|יָשְׁבָה]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ya.she.vah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] doorway of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6607\|פֶ֣תַח]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Fe.tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

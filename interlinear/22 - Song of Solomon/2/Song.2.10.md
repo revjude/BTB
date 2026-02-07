@@ -1,4 +1,4 @@
-**Song of Solomon 2:10** 
+**Song of Solomon 2:10**<big><big>[[Song.2.3 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My beloved spake, and said unto me, Rise up, my love, my fair one, and come away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My beloved calls to me, “Arise, my darling. Come away with me, my beautiful on
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.9|<< Song of Solomon 2:9]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.11|Song of Solomon 2:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he answered  |**<big>&#8207;[[H6030B\|עָנָ֥ה]]&#8207; </big>**| 'a.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lover my  |**<big>&#8207;[[H1730G\|דוֹדִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| do.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

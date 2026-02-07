@@ -1,12 +1,12 @@
-**Mark 3:31
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:31**<big><big>[[Mark.3.31 Jesus’ Mother and Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There came then his brethren and his mother, and, standing without, sent unto him, calling him.
 <small><sub>**BSB:**</sub></small>
 Then Jesus’ mother and brothers came and stood outside. They sent someone in to summon Him,
 <small><sub>**Literal:**</sub></small>
 And he comes the mother of Him and the brothers of Him. and outside standing sent to Him calling Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.30|<< Mark 3:30]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.32|Mark 3:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And [^1] [^2] |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | he comes [^3] [^4] |**<big>[[G2064\|ἔρχεται]]</big>**  |erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn">N(K)O</abbr> | |

@@ -1,4 +1,4 @@
-**Judges 3:26** 
+**Judges 3:26**<big><big>[[Judg.3.12 Ehud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ehud escaped while they tarried, and passed beyond the quarries, and escaped unto Seirath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ehud, however, had escaped while the servants waited. He passed by the idols and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.25|<< Judges 3:25]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.27|Judges 3:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Ehud  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0164G\|אֵה֥וּד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Hud<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he escaped  |**<big>&#8207;[[H4422\|נִמְלַ֖ט]]&#8207; </big>**| nim.Lat<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

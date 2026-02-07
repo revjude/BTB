@@ -1,10 +1,7 @@
 **LXX Isaiah 9:5** 
 <small><sub>**LXX:**</sub></small>
 For every apparel and garment assembled by treachery, they shall pay with reparation; and they shall want to \[even\] if it became scorched. 
-<small><sub>**KJV:**</sub></small>
-For every battle of the warrior [is] with confused noise, and garments rolled in blood; but [this] shall be with burning [and] fuel of fire.
-<small><sub>**BSB:**</sub></small>
-For every trampling boot of battle and every garment rolled in blood will be burned as fuel for the fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.4|<< Isaiah 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.6|Isaiah 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

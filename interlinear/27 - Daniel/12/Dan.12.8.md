@@ -1,4 +1,4 @@
-**Daniel 12:8** 
+**Daniel 12:8**<big><big>[[Dan.12.1 The End Times|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I heard, but I understood not: then said I, O my Lord, what [shall be] the end of these [things]?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I heard, but I did not understand. So I asked, “My lord, what will be the outc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12.7|<< Daniel 12:7]]</td><td align="center" style="border:none;">[[Dan.12|Daniel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12.9|Daniel 12:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I heard  |**<big>&#8207;[[H8085G\|שָׁמַ֖עְתִּי]]&#8207; </big>**| sha.Ma'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

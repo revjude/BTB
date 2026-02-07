@@ -1,4 +1,4 @@
-**1 Samuel 4:18** 
+**1 Samuel 4:18**<big><big>[[1Sam.4.12 The Death of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he made mention of the ark of God, that he fell from off the seat backward by the side of the gate, and his neck brake, and he died: for he was an old man, and heavy. And he had judged Israel forty years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As soon as the ark of God was mentioned, Eli fell backward from his chair by the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.17|<< 1 Samuel 4:17]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.19|1 Samuel 4:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֞י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when brought to remembrance he  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H2142\|הַזְכִּיר֣]]&#8207;&#8207;[[H9043\|וֹ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> haz.ki.R<small><sup>[[HVhcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

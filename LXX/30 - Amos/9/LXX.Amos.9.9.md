@@ -1,10 +1,7 @@
 **LXX Amos 9:9** 
 <small><sub>**LXX:**</sub></small>
 For behold, I give charge, and I shall winnow among all the nations the house of Israel, in which manner \[grain\] is winnowed by the winnowing shovel; and in no way shall there fall a broken \[piece\] upon the earth. 
-<small><sub>**KJV:**</sub></small>
-For, lo, I will command, and I will sift the house of Israel among all nations, like as [corn] is sifted in a sieve, yet shall not the least grain fall upon the earth.
-<small><sub>**BSB:**</sub></small>
-“For surely I will give the command, and I will shake the house of Israel among all the nations as grain is sifted in a sieve; but not a pebble will reach the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.8|<< Amos 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.10|Amos 9:10 >>]]</td></tr></table>
 
 | Translation | Greek |

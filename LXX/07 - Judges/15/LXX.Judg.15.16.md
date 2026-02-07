@@ -1,10 +1,7 @@
 **LXX Judges 15:16** 
 <small><sub>**LXX:**</sub></small>
 And Samson said, By \[the\] jaw \[bone\] of a donkey, in wiping away, I wiped them away, for by the jaw \[bone\] of the donkey I struck a thousand men. 
-<small><sub>**KJV:**</sub></small>
-And Samson said, With the jawbone of an ass, heaps upon heaps, with the jaw of an ass have I slain a thousand men.
-<small><sub>**BSB:**</sub></small>
-Then Samson said: “With the jawbone of a donkey I have piled them into heaps. With the jawbone of a donkey I have slain a thousand men.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.15|<< Judges 15:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.17|Judges 15:17 >>]]</td></tr></table>
 
 | Translation | Greek |

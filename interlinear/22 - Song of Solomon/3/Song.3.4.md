@@ -1,4 +1,4 @@
-**Song of Solomon 3:4** 
+**Song of Solomon 3:4**<big><big>[[Song.3.1 The Bride’s Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It was] but a little that I passed from them, but I found him whom my soul loveth: I held him, and would not let him go, until I had brought him into my mother’s house, and into the chamber of her that conceived me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I had just passed them when I found the one I love. I held him and would not let
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.3|<< Song of Solomon 3:3]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.5|Song of Solomon 3:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like a little  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H4592\|מְעַט֙]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> m.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that I had passed away  |**<big>&#8207;[[H9007\|שֶׁ]]&#8207;&#8207;[[H5674A\|עָבַ֣רְתִּי]]&#8207; </big>**| she.<small><sup>[[HTr]]</sup></small> 'a.Var.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

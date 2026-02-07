@@ -1,4 +1,4 @@
-**2 Samuel 2:28** 
+**2 Samuel 2:28**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joab blew a trumpet, and all the people stood still, and pursued after Israel no more, neither fought they any more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Joab blew the ram’s horn, and all the troops stopped; they no longer pursue
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.27|<< 2 Samuel 2:27]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.29|2 Samuel 2:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he gave a blast  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8628\|יִּתְקַ֤ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.Ka'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joab  |**<big>&#8207;[[H3097G\|יוֹאָב֙]]&#8207; </big>**| yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

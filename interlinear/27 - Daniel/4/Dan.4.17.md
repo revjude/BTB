@@ -1,4 +1,4 @@
-**Daniel 4:17** (4:14)
+**Daniel 4:17**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This matter [is] by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will, and setteth up over it the basest of men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This decision is the decree of the watchers, the verdict declared by the holy on
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.16|<< Daniel 4:16]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.18|Daniel 4:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] by [the] decree of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1510\|גְזֵרַ֤ת]]&#8207; </big>**| bi<small><sup>[[AR]]</sup></small> g.ze.Rat<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | watchers  |**<big>&#8207;[[H5894\|עִירִין֙]]&#8207; </big>**| 'i.Rin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

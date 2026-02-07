@@ -1,4 +1,4 @@
-**Job 31:33** 
+**Job 31:33**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ if I have covered my transgressions like Adam by hiding my guilt in my heart,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.32|<< Job 31:32]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.34|Job 31:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have concealed  |**<big>&#8207;[[H3680\|כִּסִּ֣יתִי]]&#8207; </big>**| ki.Si.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

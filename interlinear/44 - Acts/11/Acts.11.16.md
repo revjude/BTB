@@ -1,12 +1,12 @@
-**Acts 11:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:16**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 Then I remembered the word of the Lord, how He said, ‘John baptized with water, but you will be baptized with the Holy Spirit.’
 <small><sub>**Literal:**</sub></small>
 I remembered then the declaration of the Lord, how He was saying: John indeed baptized with water, you yourselves however will be baptized with [the] Spirit Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.15|<< Acts 11:15]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.17|Acts 11:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I remembered |**<big>[[G3403\|ἐμνήσθην]]</big>**  |emnēsthēn <small><sup>[[V-API-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

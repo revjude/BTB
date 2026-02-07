@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:7** 
 <small><sub>**LXX:**</sub></small>
 And Jezebel his wife said to him, Do you now so act \[as\] king over Israel? Rise up, and eat bread, and be yourself! and I will give to you the vineyard of Naboth the Jezreelite. 
-<small><sub>**KJV:**</sub></small>
-And Jezebel his wife said unto him, Dost thou now govern the kingdom of Israel? arise, [and] eat bread, and let thine heart be merry: I will give thee the vineyard of Naboth the Jezreelite.
-<small><sub>**BSB:**</sub></small>
-But his wife Jezebel said to him, “Do you not reign over Israel? Get up, eat some food, and be cheerful, for I will get you the vineyard of Naboth the Jezreelite.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.6|<< 1 Kings 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.8|1 Kings 21:8 >>]]</td></tr></table>
 
 | Translation | Greek |

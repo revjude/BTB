@@ -1,12 +1,12 @@
-**John 19:6
-**<small><sub>**KJV:**</sub></small>
+**John 19:6**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When the chief priests therefore and officers saw him, they cried out, saying, Crucify [him], crucify [him]. Pilate saith unto them, Take ye him, and crucify [him]: for I find no fault in him.
 <small><sub>**BSB:**</sub></small>
 As soon as the chief priests and officers saw Him, they shouted, “Crucify Him! Crucify Him!” “You take Him and crucify Him,” Pilate replied, “for I find no basis for a charge against Him.”
 <small><sub>**Literal:**</sub></small>
 When therefore saw Him the chief priests and the officers, they cried out saying; do crucify do crucify him. Says to them <the> Pilate; do take Him yourselves and do crucify [him]; I myself for no find in Him guilt.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.5|<< John 19:5]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.7|John 19:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

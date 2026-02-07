@@ -1,4 +1,4 @@
-**1 Kings 12:17** 
+**1 Kings 12:17**<big><big>[[1Kgs.12.16 The Kingdom Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [as for] the children of Israel which dwelt in the cities of Judah, Rehoboam reigned over them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but Rehoboam still reigned over the Israelites living in the cities of Judah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.16|<< 1 Kings 12:16]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.18|1 Kings 12:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] people of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121G\|בְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

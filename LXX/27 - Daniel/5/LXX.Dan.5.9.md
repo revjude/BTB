@@ -1,10 +1,7 @@
 **LXX Daniel 5:9** 
 <small><sub>**LXX:**</sub></small>
 And  king Belshazzar was disturbed, and  his appearance changed in him, and  his great men were disturbed. 
-<small><sub>**KJV:**</sub></small>
-Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were astonied.
-<small><sub>**BSB:**</sub></small>
-Then King Belshazzar became even more terrified, his face grew even more pale, and his nobles were bewildered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.8|<< Daniel 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.10|Daniel 5:10 >>]]</td></tr></table>
 
 | Translation | Greek |

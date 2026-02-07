@@ -1,4 +1,4 @@
-**Psalms 1:2** 
+**Psalms 1:2**<big><big>[[Ps.1.1 The Two Paths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But his delight [is] in the law of the LORD; and in his law doth he meditate day and night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But his delight is in the Law of the LORD, and on His law he meditates day and n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.1.1|<< Psalms 1:1]]</td><td align="center" style="border:none;">[[Ps.1|Psalms 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.1.3|Psalms 1:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588B\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | except  |**<big>&#8207;[[H0518B\|אִ֥ם]]&#8207; </big>**| 'im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

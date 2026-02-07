@@ -1,4 +1,4 @@
-**Exodus 36:3** 
+**Exodus 36:3**<big><big>[[Exod.36.1 The People Bring More than Enough|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they received of Moses all the offering, which the children of Israel had brought for the work of the service of the sanctuary, to make it [withal]. And they brought yet unto him free offerings every morning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They received from Moses all the contributions that the Israelites had brought t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.2|<< Exodus 36:2]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.4|Exodus 36:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they received  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947H\|יִּקְח֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from to before  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9005\|לִּ]]&#8207;&#8207;[[H6440L\|פְנֵ֣י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

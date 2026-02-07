@@ -1,12 +1,12 @@
-**John 14:17
-**<small><sub>**KJV:**</sub></small>
+**John 14:17**<big><big>[[John.14.15 Jesus Promises the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Even] the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
 <small><sub>**BSB:**</sub></small>
 the Spirit of truth. The world cannot receive Him, because it neither sees Him nor knows Him. But you do know Him, for He abides with you and will be in you.
 <small><sub>**Literal:**</sub></small>
 the Spirit <the> of truth, whom the world not is able to receive, because not it does see Him nor know him; But you yourselves now know Him, for with you He abides and in you He will be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.16|<< John 14:16]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.18|John 14:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Spirit |**<big>[[G4151G\|πνεῦμα]]</big>**  |pneuma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

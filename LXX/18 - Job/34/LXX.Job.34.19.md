@@ -1,10 +1,7 @@
 **LXX Job 34:19** 
 <small><sub>**LXX:**</sub></small>
 who was not feeling of respect for \[the\] person of honor, nor knows to appoint honor to \[the\] stout men, to admire their persons. 
-<small><sub>**KJV:**</sub></small>
-[How much less to him] that accepteth not the persons of princes, nor regardeth the rich more than the poor? for they all [are] the work of his hands.
-<small><sub>**BSB:**</sub></small>
-who is not partial to princes and does not favor rich over poor? For they are all the work of His hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.18|<< Job 34:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.20|Job 34:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Job 34:19** is...

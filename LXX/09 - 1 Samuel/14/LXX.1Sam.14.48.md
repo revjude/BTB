@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:48** 
 <small><sub>**LXX:**</sub></small>
 And he acted powerfully, and he struck  Amalek, and he delivered  Israel from out of \[the\] hand of the ones trampling him. 
-<small><sub>**KJV:**</sub></small>
-And he gathered an host, and smote the Amalekites, and delivered Israel out of the hands of them that spoiled them.
-<small><sub>**BSB:**</sub></small>
-He fought valiantly and defeated the Amalekites, delivering Israel from the hands of its plunderers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.47|<< 1 Samuel 14:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.49|1 Samuel 14:49 >>]]</td></tr></table>
 
 | Translation | Greek |

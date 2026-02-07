@@ -1,4 +1,4 @@
-**Habakkuk 1:10** 
+**Habakkuk 1:10**<big><big>[[Hab.1.5 The LORD’s Answer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They scoff at kings and make rulers an object of scorn. They laugh at every fort
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.9|<< Habakkuk 1:9]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.11|Habakkuk 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|הוּא֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> \<the> kings  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4428G\|מְּלָכִ֣ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Leviticus 23:8** 
 <small><sub>**LXX:**</sub></small>
 And you shall bring a whole burnt-offering to the <span class="smallcaps">lord</span> seven days. And the seventh day will be a holy convocation to you. You shall not do any servile work. 
-<small><sub>**KJV:**</sub></small>
-But ye shall offer an offering made by fire unto the LORD seven days: in the seventh day [is] an holy convocation: ye shall do no servile work [therein].
-<small><sub>**BSB:**</sub></small>
-For seven days you are to present a food offering to the LORD. On the seventh day there shall be a sacred assembly; you must not do any regular work.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.7|<< Leviticus 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.9|Leviticus 23:9 >>]]</td></tr></table>
 
 | Translation | Greek |

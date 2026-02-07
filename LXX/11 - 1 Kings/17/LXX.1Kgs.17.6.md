@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:6** 
 <small><sub>**LXX:**</sub></small>
 And the crows brought to him bread \[loaves\] and meat in the morning, and bread \[loaves\] and meat in the afternoon. And from out of the rushing stream he drank water. 
-<small><sub>**KJV:**</sub></small>
-And the ravens brought him bread and flesh in the morning, and bread and flesh in the evening; and he drank of the brook.
-<small><sub>**BSB:**</sub></small>
-The ravens would bring him bread and meat in the morning and evening, and he would drink from the brook.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.5|<< 1 Kings 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.7|1 Kings 17:7 >>]]</td></tr></table>
 
 | Translation | Greek |

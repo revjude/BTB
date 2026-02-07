@@ -1,4 +1,4 @@
-**Proverbs 8:14** 
+**Proverbs 8:14**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Counsel [is] mine, and sound wisdom: I [am] understanding; I have strength.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Counsel and sound judgment are mine; I have insight and strength.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.13|<< Proverbs 8:13]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.15|Proverbs 8:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [belong] to me  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> -<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | counsel  |**<big>&#8207;[[H6098\|עֵ֭צָה]]&#8207; </big>**| 'E.tzah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

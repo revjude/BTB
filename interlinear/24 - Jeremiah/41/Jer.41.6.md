@@ -1,4 +1,4 @@
-**Jeremiah 41:6** 
+**Jeremiah 41:6**<big><big>[[Jer.41.1 The Murder of Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ishmael the son of Nethaniah went forth from Mizpah to meet them, weeping all along as he went: and it came to pass, as he met them, he said unto them, Come to Gedaliah the son of Ahikam.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Ishmael son of Nethaniah went out from Mizpah to meet them, weeping as he we
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.5|<< Jeremiah 41:5]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.7|Jeremiah 41:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H3318G\|יֵּצֵא]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ye.tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ishmael  |**<big>&#8207;[[H3458H\|יִשְׁמָעֵ֨אל]]&#8207; </big>**| yish.ma.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 7:83** 
+**Numbers 7:83**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this [was] the offering of Ahira the son of Enan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and a peace offering of two oxen, five rams, five male goats, and five male lamb
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.83|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.82|<< Numbers 7:82]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.84|Numbers 7:84 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to [the] sacrifice of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2077\|זֶ֣בַח]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> Ze.vach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the peace offerings  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8002\|שְּׁלָמִים֮]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.la.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

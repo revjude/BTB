@@ -1,4 +1,4 @@
-**Song of Solomon 5:6** 
+**Song of Solomon 5:6**<big><big>[[Song.5.2 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I opened to my beloved; but my beloved had withdrawn himself, [and] was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I opened for my beloved, but he had turned and gone. My heart sank at his depart
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.5|<< Song of Solomon 5:5]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.7|Song of Solomon 5:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I opened  |**<big>&#8207;[[H6605A\|פָּתַ֤חְתִּֽי]]&#8207; </big>**| pa.Tach.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִי֙]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 20:21** 
+**Numbers 20:21**<big><big>[[Num.20.14 Edom Refuses Passage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus Edom refused to give Israel passage through his border: wherefore Israel turned away from him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Edom refused to allow Israel to pass through their territory, and Israel turn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.20|<< Numbers 20:20]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.22|Numbers 20:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it refused  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3985\|יְמָאֵ֣ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ma.'En<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Edom  |**<big>&#8207;[[H0123G\|אֱד֗וֹם]]&#8207; </big>**| 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

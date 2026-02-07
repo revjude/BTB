@@ -1,4 +1,4 @@
-**Psalms 69:25** (69:26)
+**Psalms 69:25**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let their habitation be desolate; [and] let none dwell in their tents.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ May their place be deserted; let there be no one to dwell in their tents.
 > $\quad$ referenced by: [[Matt.23.38|Matt 23:38]] ☩ [[Acts.1.20|Acts 1:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it be  |**<big>&#8207;[[H1961\|תְּהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.hi-<small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | encampment their  |**<big>&#8207;[[H2918\|טִֽירָתָ֥]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ti.ra.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

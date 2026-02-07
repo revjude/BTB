@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:2** 
 <small><sub>**LXX:**</sub></small>
 And Ahab spoke to Naboth, saying, Give to me  your vineyard! and it will be to me for a garden of vegetables, for this is near  my house! And I will give to you in place of it another good vineyard for it, but if \[not\] pleasing before you, I will give to you money in barter for  this your vineyard. 
-<small><sub>**KJV:**</sub></small>
-And Ahab spake unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it [is] near unto my house: and I will give thee for it a better vineyard than it; [or], if it seem good to thee, I will give thee the worth of it in money.
-<small><sub>**BSB:**</sub></small>
-So Ahab said to Naboth, “Give me your vineyard to use as a vegetable garden, since it is next to my palace. I will give you a better vineyard in its place—or if you prefer, I will give you its value in silver.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.1|<< 1 Kings 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.3|1 Kings 21:3 >>]]</td></tr></table>
 
 | Translation | Greek |

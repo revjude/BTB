@@ -1,10 +1,7 @@
 **LXX Leviticus 13:43** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall look at him. And behold, \[if\] the appearance of the infection \[be\] white or reddish in the his baldness, or in  his being forehead bald as \[the\] form of leprosy in the skin  of his flesh, 
-<small><sub>**KJV:**</sub></small>
-Then the priest shall look upon it: and, behold, [if] the rising of the sore [be] white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;
-<small><sub>**BSB:**</sub></small>
-The priest is to examine him, and if the swelling of the infection on his bald head or forehead is reddish-white like a skin disease,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.42|<< Leviticus 13:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.44|Leviticus 13:44 >>]]</td></tr></table>
 
 | Translation | Greek |

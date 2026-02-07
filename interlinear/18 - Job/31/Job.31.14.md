@@ -1,4 +1,4 @@
-**Job 31:14** 
+**Job 31:14**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What then shall I do when God riseth up? and when he visiteth, what shall I answer him?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ what will I do when God rises to judge? How will I answer when called to account
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.13|<< Job 31:13]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.15|Job 31:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and what?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4100\|מָ֣ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will I do  |**<big>&#8207;[[H6213A\|אֶֽ֭עֱשֶׂה]]&#8207; </big>**| 'E.'e.seh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

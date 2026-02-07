@@ -1,4 +1,4 @@
-**Esther 3:1** 
+**Esther 3:1**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that [were] with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After these events, King Xerxes honored Haman son of Hammedatha, the Agagite, el
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.23|<< Esther 2:23]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.2|Esther 3:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after  |**<big>&#8207;[[H0310A\|אַחַ֣ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Char<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the things  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697I\|דְּבָרִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

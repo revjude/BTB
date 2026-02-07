@@ -1,10 +1,7 @@
 **LXX Jeremiah 43:4** 
 <small><sub>**LXX:**</sub></small>
 And Johanan son of Kareah, and all \[the\] leaders of the force, and all the people hearkened not to the voice of \[the\] <span class="smallcaps">lord</span> to dwell in \[the\] land of Judah. 
-<small><sub>**KJV:**</sub></small>
-So Johanan the son of Kareah, and all the captains of the forces, and all the people, obeyed not the voice of the LORD, to dwell in the land of Judah.
-<small><sub>**BSB:**</sub></small>
-So Johanan son of Kareah and all the commanders of the forces disobeyed the command of the LORD to stay in the land of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.43.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.43.3|<< Jeremiah 43:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.43.5|Jeremiah 43:5 >>]]</td></tr></table>
 
 | Translation | Greek |

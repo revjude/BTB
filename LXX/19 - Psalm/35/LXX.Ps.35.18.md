@@ -1,10 +1,7 @@
 **LXX Psalm 35:18** 
 <small><sub>**LXX:**</sub></small>
 I shall make acknowledgment to you in \[the\] vast assembly; with grievous people I shall praise you. 
-<small><sub>**KJV:**</sub></small>
-I will give thee thanks in the great congregation: I will praise thee among much people.
-<small><sub>**BSB:**</sub></small>
-Then I will give You thanks in the great assembly; I will praise You among many people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.35.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.17|<< Psalm 35:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.19|Psalm 35:19 >>]]</td></tr></table>
 
 | Translation | Greek |

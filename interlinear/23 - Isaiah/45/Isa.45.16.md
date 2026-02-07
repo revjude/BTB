@@ -1,4 +1,4 @@
-**Isaiah 45:16** 
+**Isaiah 45:16**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall be ashamed, and also confounded, all of them: they shall go to confusion together [that are] makers of idols.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will all be put to shame and humiliated; the makers of idols will depart to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.15|<< Isaiah 45:15]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.17|Isaiah 45:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will be ashamed  |**<big>&#8207;[[H0954\|בּ֥וֹשׁוּ]]&#8207; </big>**| Bo.o.shu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

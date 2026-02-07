@@ -1,10 +1,7 @@
 **LXX 2 Samuel 5:6** 
 <small><sub>**LXX:**</sub></small>
 And the king went forth, and all  his men unto Jerusalem, to the Jebusite  dwelling in the land. And it was said  to David, You shall not enter here. For the blind and the lame opposed, saying, David shall not enter here. 
-<small><sub>**KJV:**</sub></small>
-And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither.
-<small><sub>**BSB:**</sub></small>
-Now the king and his men marched to Jerusalem against the Jebusites who inhabited the land. The Jebusites said to David: “You will never get in here. Even the blind and lame can repel you.” For they thought, “David cannot get in here.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.5|<< 2 Samuel 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.7|2 Samuel 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

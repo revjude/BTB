@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he shouted aloud into  my ears with a great voice, saying, The punishment of the city has approached. And each had the items for the devastation in  his hand. 
-<small><sub>**KJV:**</sub></small>
-He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man [with] his destroying weapon in his hand.
-<small><sub>**BSB:**</sub></small>
-Then I heard Him call out in a loud voice, saying, “Draw near, O executioners of the city, each with a weapon of destruction in hand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.18|<< Ezekiel 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.2|Ezekiel 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

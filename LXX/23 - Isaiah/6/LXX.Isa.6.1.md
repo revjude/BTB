@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass the year of which king Uzziah died, I beheld the <span class="smallcaps">lord</span> sitting upon a high throne, and being lifted up; and the house \[was\] full  of his glory. 
-<small><sub>**KJV:**</sub></small>
-In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.
-<small><sub>**BSB:**</sub></small>
-In the year that King Uzziah died, I saw the Lord seated on a throne, high and exalted; and the train of His robe filled the temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.30|<< Isaiah 5:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.2|Isaiah 6:2 >>]]</td></tr></table>
 
 | Translation | Greek |

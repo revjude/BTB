@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:34** 
 <small><sub>**LXX:**</sub></small>
 And David said to Saul, Your servant was tending for his father among the flock. And whenever the lion came and the bear, and it took a sheep from out of the herd, 
-<small><sub>**KJV:**</sub></small>
-And David said unto Saul, Thy servant kept his father’s sheep, and there came a lion, and a bear, and took a lamb out of the flock:
-<small><sub>**BSB:**</sub></small>
-David replied, “Your servant has been tending his father’s sheep, and whenever a lion or a bear came and carried off a lamb from the flock,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.33|<< 1 Samuel 17:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.35|1 Samuel 17:35 >>]]</td></tr></table>
 
 | Translation | Greek |

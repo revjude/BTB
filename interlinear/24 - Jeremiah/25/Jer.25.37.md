@@ -1,4 +1,4 @@
-**Jeremiah 25:37** 
+**Jeremiah 25:37**<big><big>[[Jer.25.34 The Cry of the Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the peaceable habitations are cut down because of the fierce anger of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The peaceful meadows have been silenced because of the LORD’s burning anger.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.36|<< Jeremiah 25:36]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.38|Jeremiah 25:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be devastated  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1826I\|נָדַ֖מּוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Da.mu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] pastures of  |**<big>&#8207;[[H4999\|נְא֣וֹת]]&#8207; </big>**| ne.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

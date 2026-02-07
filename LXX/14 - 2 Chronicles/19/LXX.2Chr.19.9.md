@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 19:9** 
 <small><sub>**LXX:**</sub></small>
 And he gave charge to them, saying, Thus you shall do in \[the\] fear of \[the\] <span class="smallcaps">lord</span>, in truth, and with a full heart. 
-<small><sub>**KJV:**</sub></small>
-And he charged them, saying, Thus shall ye do in the fear of the LORD, faithfully, and with a perfect heart.
-<small><sub>**BSB:**</sub></small>
-He commanded them, saying, “You must serve faithfully and wholeheartedly in the fear of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.8|<< 2 Chronicles 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.10|2 Chronicles 19:10 >>]]</td></tr></table>
 
 | Translation | Greek |

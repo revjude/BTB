@@ -1,10 +1,7 @@
 **LXX Exodus 20:18** 
 <small><sub>**LXX:**</sub></small>
 All the people perceived the voice, and the lamps, and the sound of the trumpet, and the mountain smoking. And fearing, all the people stood afar off. 
-<small><sub>**KJV:**</sub></small>
-And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw [it], they removed, and stood afar off.
-<small><sub>**BSB:**</sub></small>
-When all the people witnessed the thunder and lightning, the sounding of the ram’s horn, and the mountain enveloped in smoke, they trembled and stood at a distance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.17|<< Exodus 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.19|Exodus 20:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:16** 
 <small><sub>**LXX:**</sub></small>
 Lest you should act lawlessly, and make \[to\] yourselves a carving representation, any image, a representation of a male or female; 
-<small><sub>**KJV:**</sub></small>
-Lest ye corrupt [yourselves], and make you a graven image, the similitude of any figure, the likeness of male or female,
-<small><sub>**BSB:**</sub></small>
-that you do not act corruptly and make an idol for yourselves of any form or shape, whether in the likeness of a male or female,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.15|<< Deuteronomy 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.17|Deuteronomy 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

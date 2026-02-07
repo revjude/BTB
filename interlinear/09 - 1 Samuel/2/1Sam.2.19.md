@@ -1,4 +1,4 @@
-**1 Samuel 2:19** 
+**1 Samuel 2:19**<big><big>[[1Sam.2.12 Eli’s Wicked Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover his mother made him a little coat, and brought [it] to him from year to year, when she came up with her husband to offer the yearly sacrifice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each year his mother would make him a little robe and bring it to him when she w
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.18|<< 1 Samuel 2:18]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.20|1 Samuel 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a robe  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4598\|מְעִ֤יל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.'Il<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | small  |**<big>&#8207;[[H6996B\|קָטֹן֙]]&#8207; </big>**| ka.Ton<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

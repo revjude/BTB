@@ -1,4 +1,4 @@
-**Genesis 36:15** 
+**Genesis 36:15**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [were] dukes of the sons of Esau: the sons of Eliphaz the firstborn [son] of Esau; duke Teman, duke Omar, duke Zepho, duke Kenaz,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the chiefs among the sons of Esau. The sons of Eliphaz the firstborn o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.14|<< Genesis 36:14]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.16|Genesis 36:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] chiefs of  |**<big>&#8207;[[H0441B\|אַלּוּפֵ֣י]]&#8207; </big>**| 'a.lu.Fei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

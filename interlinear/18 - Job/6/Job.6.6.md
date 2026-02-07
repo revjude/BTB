@@ -1,4 +1,4 @@
-**Job 6:6** 
+**Job 6:6**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can that which is unsavoury be eaten without salt? or is there [any] taste in the white of an egg?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is tasteless food eaten without salt, or is there flavor in the white of an egg?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.5|<< Job 6:5]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.7|Job 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ is it eaten  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H0398\|יֵאָכֵ֣ל]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ye.'a.Khel<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | tasteless [food]  |**<big>&#8207;[[H8602A\|תָּ֭פֵל]]&#8207; </big>**| Ta.fel<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

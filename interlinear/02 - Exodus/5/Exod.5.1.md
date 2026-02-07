@@ -1,4 +1,4 @@
-**Exodus 5:1** 
+**Exodus 5:1**<big><big>[[Exod.5.1 Pharaoh’s First Refusal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After that, Moses and Aaron went to Pharaoh and said, “This is what the LORD, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.31|<< Exodus 4:31]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.2|Exodus 5:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחַ֗ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they went  |**<big>&#8207;[[H0935G\|בָּ֚אוּ]]&#8207; </big>**| Ba.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

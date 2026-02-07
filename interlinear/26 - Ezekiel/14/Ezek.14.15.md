@@ -1,4 +1,4 @@
-**Ezekiel 14:15** 
+**Ezekiel 14:15**<big><big>[[Ezek.14.12 Four Dire Judgments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I cause noisome beasts to pass through the land, and they spoil it, so that it be desolate, that no man may pass through because of the beasts:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Or if I send wild beasts through the land to leave it childless and desolate, wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.14|<< Ezekiel 14:14]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.16|Ezekiel 14:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3863\|לֽוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lu-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | animal[s]  |**<big>&#8207;[[H2416C\|חַיָּ֥ה]]&#8207; </big>**| chai.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

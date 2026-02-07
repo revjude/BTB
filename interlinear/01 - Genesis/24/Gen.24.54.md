@@ -1,4 +1,4 @@
-**Genesis 24:54** 
+**Genesis 24:54**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they did eat and drink, he and the men that [were] with him, and tarried all night; and they rose up in the morning, and he said, Send me away unto my master.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he and the men with him ate and drank and spent the night there. When they 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.53|<< Genesis 24:53]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.55|Genesis 24:55 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they ate  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0398\|יֹּאכְל֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.khe.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they drank  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8354\|יִּשְׁתּ֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 3:34** 
+**Numbers 3:34**<big><big>[[Num.3.33 The Merarites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And those that were numbered of them, according to the number of all the males, from a month old and upward, [were] six thousand and two hundred.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The number of all the males a month old or more was 6,200.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.33|<< Numbers 3:33]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.35|Numbers 3:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and enrolled [men] their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6485A\|פְקֻדֵי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.ku.dei.<small><sup>[[HVqsmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by [the] number of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4557\|מִסְפַּ֣ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mis.Par<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

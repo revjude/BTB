@@ -1,10 +1,7 @@
 **LXX 1 Samuel 13:12** 
 <small><sub>**LXX:**</sub></small>
 and I said, Now the Philistines shall come down to me in Gilgal, and the face of the <span class="smallcaps">lord</span> I beseeched not; and I took control myself and offered the whole burnt-offering. 
-<small><sub>**KJV:**</sub></small>
-Therefore said I, The Philistines will come down now upon me to Gilgal, and I have not made supplication unto the LORD: I forced myself therefore, and offered a burnt offering.
-<small><sub>**BSB:**</sub></small>
-I thought, ‘Now the Philistines will descend upon me at Gilgal, and I have not sought the favor of the LORD.’ So I felt compelled to offer the burnt offering.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.11|<< 1 Samuel 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.13|1 Samuel 13:13 >>]]</td></tr></table>
 
 | Translation | Greek |

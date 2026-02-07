@@ -1,12 +1,12 @@
-**John 19:18
-**<small><sub>**KJV:**</sub></small>
+**John 19:18**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Where they crucified him, and two other with him, on either side one, and Jesus in the midst.
 <small><sub>**BSB:**</sub></small>
 There they crucified Him, and with Him two others, one on each side, with Jesus in the middle.
 <small><sub>**Literal:**</sub></small>
 where Him they crucified and with Him others two on this side and on that side, in between now <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.17|<< John 19:17]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.19|John 19:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where |**<big>[[G3699\|ὅπου]]</big>**  |hopou <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Him |**<big>[[G0846\|αὐτὸν]]</big>**  |auton <small><sup>[[P-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 39:29** 
+**Exodus 39:29**<big><big>[[Exod.39.22 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a girdle [of] fine twined linen, and blue, and purple, and scarlet, [of] needlework; as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the sash of finely spun linen, embroidered with blue, purple, and scarlet ya
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.28|<< Exodus 39:28]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.30|Exodus 39:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the sash  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0073\|אַבְנֵ֞ט]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'av.Net<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 50:8** 
 <small><sub>**LXX:**</sub></small>
 and all the whole family of Joseph, and  his brothers, and all the house \[hold\]  of his father, and the kin.  And the sheep and the oxen were left behind in \[the\] land of Goshen. 
-<small><sub>**KJV:**</sub></small>
-And all the house of Joseph, and his brethren, and his father’s house: only their little ones, and their flocks, and their herds, they left in the land of Goshen.
-<small><sub>**BSB:**</sub></small>
-along with all of Joseph’s household, and his brothers, and his father’s household. Only their children and flocks and herds were left in Goshen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.50.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.7|<< Genesis 50:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.9|Genesis 50:9 >>]]</td></tr></table>
 
 | Translation | Greek |

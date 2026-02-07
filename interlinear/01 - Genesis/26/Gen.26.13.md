@@ -1,4 +1,4 @@
-**Genesis 26:13** 
+**Genesis 26:13**<big><big>[[Gen.26.12 Isaac’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man waxed great, and went forward, and grew until he became very great:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he became richer and richer, until he was exceedingly wealthy.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.12|<< Genesis 26:12]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.14|Genesis 26:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he became great  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1431\|יִּגְדַּ֖ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yig.Dal<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the man  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִ֑ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

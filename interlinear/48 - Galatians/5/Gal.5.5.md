@@ -1,12 +1,12 @@
-**Galatians 5:5
-**<small><sub>**KJV:**</sub></small>
+**Galatians 5:5**<big><big>[[Gal.5.1 Freedom in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we through the Spirit wait for the hope of righteousness by faith.
 <small><sub>**BSB:**</sub></small>
 But by faith we eagerly await through the Spirit the hope of righteousness.
 <small><sub>**Literal:**</sub></small>
 We ourselves for through [the] Spirit by faith [the] hope of righteousness eagerly await.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.4|<< Galatians 5:4]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.6|Galatians 5:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

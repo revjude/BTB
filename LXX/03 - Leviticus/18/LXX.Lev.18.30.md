@@ -1,10 +1,7 @@
 **LXX Leviticus 18:30** 
 <small><sub>**LXX:**</sub></small>
 And you shall keep  my orders, so that you should not do of any of the laws of the ones being abhorred, which happened before  you. And you shall not be defiled among them, for I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Therefore shall ye keep mine ordinance, that [ye] commit not [any one] of these abominable customs, which were committed before you, and that ye defile not yourselves therein: I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-You must keep My charge not to practice any of the abominable customs that were practiced before you, so that you do not defile yourselves by them. I am the LORD your God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.18.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.29|<< Leviticus 18:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.1|Leviticus 19:1 >>]]</td></tr></table>
 
 | Translation | Greek |

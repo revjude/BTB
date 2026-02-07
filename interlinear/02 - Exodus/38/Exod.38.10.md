@@ -1,4 +1,4 @@
-**Exodus 38:10** 
+**Exodus 38:10**<big><big>[[Exod.38.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their pillars [were] twenty, and their brasen sockets twenty; the hooks of the pillars and their fillets [were of] silver.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ with twenty posts and twenty bronze bases, and with silver hooks and bands on th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.9|<< Exodus 38:9]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.11|Exodus 38:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pillars their  |**<big>&#8207;[[H5982G\|עַמּוּדֵי]]&#8207;&#8207;[[H9028\|הֶ֣ם]]&#8207; </big>**| 'a.mu.dei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֔ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

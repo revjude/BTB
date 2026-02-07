@@ -1,12 +1,12 @@
-**Matthew 25:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:14**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For [the kingdom of heaven is] as a man travelling into a far country, [who] called his own servants, and delivered unto them his goods.
 <small><sub>**BSB:**</sub></small>
 For it is just like a man going on a journey, who called his servants and entrusted them with his possessions.
 <small><sub>**Literal:**</sub></small>
 [It is] like for a man going on a journey [who] called <the> [his] own servants and delivered to them the possessions of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.13|<< Matthew 25:13]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.15|Matthew 25:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [It is] like |**<big>[[G5618\|Ὥσπερ]]</big>**  |Hōsper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

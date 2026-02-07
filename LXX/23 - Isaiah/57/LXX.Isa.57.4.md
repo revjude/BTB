@@ -1,10 +1,7 @@
 **LXX Isaiah 57:4** 
 <small><sub>**LXX:**</sub></small>
 In what have you reveled in? And against whom have you opened  your mouth? And against whom have you slackened  your tongue? Are you not children of destruction? a seed without honor? 
-<small><sub>**KJV:**</sub></small>
-Against whom do ye sport yourselves? against whom make ye a wide mouth, [and] draw out the tongue? [are] ye not children of transgression, a seed of falsehood,
-<small><sub>**BSB:**</sub></small>
-Whom are you mocking? At whom do you sneer and stick out your tongue? Are you not children of transgression, offspring of deceit,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.57.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.3|<< Isaiah 57:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.5|Isaiah 57:5 >>]]</td></tr></table>
 
 | Translation | Greek |

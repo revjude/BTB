@@ -1,4 +1,4 @@
-**Deuteronomy 27:10** 
+**Deuteronomy 27:10**<big><big>[[Deut.27.1 The Altar on Mount Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt therefore obey the voice of the LORD thy God, and do his commandments and his statutes, which I command thee this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall therefore obey the voice of the LORD your God and follow His commandme
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.9|<< Deuteronomy 27:9]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.11|Deuteronomy 27:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will listen  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8085H\|שָׁ֣מַעְתָּ֔]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Sha.ma'.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] voice of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6963A\|ק֖וֹל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

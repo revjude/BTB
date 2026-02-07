@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:17** 
 <small><sub>**LXX:**</sub></small>
 And Saul said  to Michal, Why thus did you mislead me, and send out  my enemy, and he came through safe? And Michal said  to Saul, He said to me, Send me! for if not I shall put you to death. 
-<small><sub>**KJV:**</sub></small>
-And Saul said unto Michal, Why hast thou deceived me so, and sent away mine enemy, that he is escaped? And Michal answered Saul, He said unto me, Let me go; why should I kill thee?
-<small><sub>**BSB:**</sub></small>
-And Saul said to Michal, “Why did you deceive me like this? You sent my enemy away, and he has escaped!” Michal replied, “He said to me, ‘Help me get away, or I will kill you!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.16|<< 1 Samuel 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.18|1 Samuel 19:18 >>]]</td></tr></table>
 
 | Translation | Greek |

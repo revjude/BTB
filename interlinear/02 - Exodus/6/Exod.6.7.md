@@ -1,4 +1,4 @@
-**Exodus 6:7** 
+**Exodus 6:7**<big><big>[[Exod.6.1 God Promises Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will take you to me for a people, and I will be to you a God: and ye shall know that I [am] the LORD your God, which bringeth you out from under the burdens of the Egyptians.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will take you as My own people, and I will be your God. Then you will know tha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.6|<< Exodus 6:6]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.8|Exodus 6:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַחְתִּ֨י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.kach.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶ֥ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

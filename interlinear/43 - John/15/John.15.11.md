@@ -1,12 +1,12 @@
-**John 15:11
-**<small><sub>**KJV:**</sub></small>
+**John 15:11**<big><big>[[John.15.9 No Greater Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These things have I spoken unto you, that my joy might remain in you, and [that] your joy might be full.
 <small><sub>**BSB:**</sub></small>
 I have told you these things so that My joy may be in you and your joy may be complete.
 <small><sub>**Literal:**</sub></small>
 These things I have spoken to you that <the> joy <the> of Mine in you may be and the joy of you may be full.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.10|<< John 15:10]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.12|John 15:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|Ταῦτα]]</big>**  |Tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have spoken |**<big>[[G2980\|λελάληκα]]</big>**  |lelalēka <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

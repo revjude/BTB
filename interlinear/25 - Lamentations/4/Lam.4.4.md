@@ -1,4 +1,4 @@
-**Lamentations 4:4** 
+**Lamentations 4:4**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The tongue of the sucking child cleaveth to the roof of his mouth for thirst: the young children ask bread, [and] no man breaketh [it] unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The nursing infant’s tongue clings in thirst to the roof of his mouth. Little 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.3|<< Lamentations 4:3]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.5|Lamentations 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has cleaved  |**<big>&#8207;[[H1692\|דָּבַ֨ק]]&#8207; </big>**| da.Vak<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tongue of  |**<big>&#8207;[[H3956G\|לְשׁ֥וֹן]]&#8207; </big>**| le.Shon<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

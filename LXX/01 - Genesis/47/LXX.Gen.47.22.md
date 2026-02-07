@@ -1,10 +1,7 @@
 **LXX Genesis 47:22** 
 <small><sub>**LXX:**</sub></small>
 except the land of the priests only Joseph did not acquire this, for Pharaoh gave a portion \[as a\] gift to the priests. And they ate the portion which Pharaoh gave to them. On account of this they did not give up  their land. 
-<small><sub>**KJV:**</sub></small>
-Only the land of the priests bought he not; for the priests had a portion [assigned them] of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands.
-<small><sub>**BSB:**</sub></small>
-However, he did not acquire the priests’ portion of the land, for it had been given to them by Pharaoh. They ate the rations that Pharaoh supplied; so they did not sell their land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.21|<< Genesis 47:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.23|Genesis 47:23 >>]]</td></tr></table>
 
 | Translation | Greek |

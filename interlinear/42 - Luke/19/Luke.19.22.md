@@ -1,12 +1,12 @@
-**Luke 19:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:22**<big><big>[[Luke.19.11 The Parable of the Ten Minas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he saith unto him, Out of thine own mouth will I judge thee, [thou] wicked servant. Thou knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
 <small><sub>**BSB:**</sub></small>
 His master replied, ‘You wicked servant, I will judge you by your own words. So you knew that I am a harsh man, withdrawing what I did not deposit and reaping what I did not sow?
 <small><sub>**Literal:**</sub></small>
 He says now to him; Out of the mouth of you I will judge you, evil servant. You knew that I myself a man harsh am taking up what not I did lay down and reaping what not I did sow;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.21|<< Luke 19:21]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.23|Luke 19:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He says |**<big>[[G3004G\|Λέγει]]</big>**  |Legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Proverbs 14:2** 
 <small><sub>**LXX:**</sub></small>
 The one going rightly fears the <span class="smallcaps">lord</span>; but the crooked one shall be dishonored in his ways. 
-<small><sub>**KJV:**</sub></small>
-He that walketh in his uprightness feareth the LORD: but [he that is] perverse in his ways despiseth him.
-<small><sub>**BSB:**</sub></small>
-He who walks in uprightness fears the LORD, but the one who is devious in his ways despises Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.1|<< Proverbs 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.3|Proverbs 14:3 >>]]</td></tr></table>
 
 | Translation | Greek |

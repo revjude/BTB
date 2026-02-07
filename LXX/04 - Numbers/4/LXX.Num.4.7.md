@@ -1,10 +1,7 @@
 **LXX Numbers 4:7** 
 <small><sub>**LXX:**</sub></small>
 And upon the table, the one being situated \[for the loaves\], they shall put upon it a garment entirely of purple, and the saucers, and the incense pans, and the cups, and the libation bowls in which you offer a libation; and the continual bread loaves shall be upon it. 
-<small><sub>**KJV:**</sub></small>
-And upon the table of shewbread they shall spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls, and covers to cover withal: and the continual bread shall be thereon:
-<small><sub>**BSB:**</sub></small>
-Over the table of the Presence they are to spread a blue cloth and place the plates and cups on it, along with the bowls and pitchers for the drink offering. The regular bread offering is to remain on it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.6|<< Numbers 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.8|Numbers 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

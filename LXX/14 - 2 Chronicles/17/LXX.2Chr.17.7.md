@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in the third year  of his kingship, he sent  his leaders, and the sons of the mighty \[ones\] --  Obadiah, and  Zechariah, and  Nethaneel, and  Michaiah  to teach in \[the\] cities of Judah. 
-<small><sub>**KJV:**</sub></small>
-Also in the third year of his reign he sent to his princes, [even] to Benhail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah.
-<small><sub>**BSB:**</sub></small>
-In the third year of his reign, Jehoshaphat sent his officials Ben-hail, Obadiah, Zechariah, Nethanel, and Micaiah to teach in the cities of Judah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.6|<< 2 Chronicles 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.8|2 Chronicles 17:8 >>]]</td></tr></table>
 
 | Translation | Greek |

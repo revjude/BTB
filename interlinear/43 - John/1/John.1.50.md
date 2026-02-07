@@ -1,12 +1,12 @@
-**John 1:50
-**<small><sub>**KJV:**</sub></small>
+**John 1:50**<big><big>[[John.1.43 Jesus Calls Philip and Nathanael|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.
 <small><sub>**BSB:**</sub></small>
 Jesus said to him, “Do you believe just because I told you I saw you under the fig tree? You will see greater things than these.”
 <small><sub>**Literal:**</sub></small>
 Answered Jesus and said to him; Because I said to you that I saw you under the fig tree, believe you? Greater things than these You will see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.49|<< John 1:49]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.51|John 1:51 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|Ἀπεκρίθη]]</big>**  |Apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Jesus |**<big>[[G2424G\|Ἰησοῦς]]</big>**  |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

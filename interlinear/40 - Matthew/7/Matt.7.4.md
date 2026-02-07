@@ -1,12 +1,12 @@
-**Matthew 7:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:4**<big><big>[[Matt.7.1 Judging Others|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam [is] in thine own eye?
 <small><sub>**BSB:**</sub></small>
 How can you say to your brother, ‘Let me take the speck out of your eye,’ while there is still a beam in your own eye?
 <small><sub>**Literal:**</sub></small>
 Or how will you say to the brother of you; do permit that I may cast out the splinter from the eye of you; and behold the beam [is] in the eye of you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.3|<< Matthew 7:3]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.5|Matthew 7:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | how |**<big>[[G4459\|πῶς]]</big>**  |pōs <small><sup>[[PRT-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

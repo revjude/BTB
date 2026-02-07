@@ -1,4 +1,4 @@
-**Job 15:13** 
+**Job 15:13**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thou turnest thy spirit against God, and lettest [such] words go out of thy mouth?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that you turn your spirit against God and pour such words from your mouth?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.12|<< Job 15:12]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.14|Job 15:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will turn  |**<big>&#8207;[[H7725I\|תָשִׁ֣יב]]&#8207; </big>**| ta.Shiv<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

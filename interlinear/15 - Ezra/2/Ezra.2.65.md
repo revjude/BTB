@@ -1,4 +1,4 @@
-**Ezra 2:65** 
+**Ezra 2:65**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beside their servants and their maids, of whom [there were] seven thousand three hundred thirty and seven: and [there were] among them two hundred singing men and singing women.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ in addition to their 7,337 menservants and maidservants, as well as their 200 ma
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.65|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.64|<< Ezra 2:64]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.66|Ezra 2:66 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<from> \<to> besides  |**<big>&#8207;[[H9006\|מִ֠]]&#8207;&#8207;[[H9005\|לְּ]]&#8207;&#8207;[[H0905J\|בַד]]&#8207; </big>**| Mi.<small><sup>[[HR]]</sup></small> le.<small><sup>[[HR]]</sup></small> vad<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [male] servants their  |**<big>&#8207;[[H5650\|עַבְדֵי]]&#8207;&#8207;[[H9028\|הֶ֤ם]]&#8207; </big>**| 'av.dei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

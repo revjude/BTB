@@ -1,4 +1,4 @@
-**Psalms 14:2** 
+**Psalms 14:2**<big><big>[[Ps.14.1 The Fool Says There Is No God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD looked down from heaven upon the children of men, to see if there were any that did understand, [and] seek God.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD looks down from heaven upon the sons of men to see if any understand, i
 > $\quad$ referenced by: [[Rom.3.10|Rom 3:10-12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְֽהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from heaven  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8064\|שָּׁמַיִם֮]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sha.ma.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 14:25
-**<small><sub>**KJV:**</sub></small>
+**John 14:25**<big><big>[[John.14.15 Jesus Promises the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These things have I spoken unto you, being [yet] present with you.
 <small><sub>**BSB:**</sub></small>
 All this I have spoken to you while I am still with you.
 <small><sub>**Literal:**</sub></small>
 These things I have said to you with you abiding;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.24|<< John 14:24]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.26|John 14:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|Ταῦτα]]</big>**  |Tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have said |**<big>[[G2980\|λελάληκα]]</big>**  |lelalēka <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 19:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:26**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Moreover ye see and hear, that not alone at Ephesus, but almost throughout all Asia, this Paul hath persuaded and turned away much people, saying that they be no gods, which are made with hands:
 <small><sub>**BSB:**</sub></small>
 And you can see and hear that not only in Ephesus, but in nearly the whole province of Asia, this Paul has persuaded a great number of people to turn away. He says that man-made gods are no gods at all.
 <small><sub>**Literal:**</sub></small>
 And you see and hear that not only in Ephesus but almost in all <the> of Asia <the> Paul this having persuaded [them] he has turned away a great many people saying that not they are gods <the> through hands being made.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.25|<< Acts 19:25]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.27|Acts 19:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you see |**<big>[[G2334\|θεωρεῖτε]]</big>**  |theōreite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

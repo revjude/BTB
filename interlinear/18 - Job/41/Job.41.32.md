@@ -1,4 +1,4 @@
-**Job 41:32** (41:24)
+**Job 41:32**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He maketh a path to shine after him; [one] would think the deep [to be] hoary.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He leaves a glistening wake behind him; one would think the deep had white hair!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.31|<< Job 41:31]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.33|Job 41:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | behind it  |**<big>&#8207;[[H0310A\|אַ֭חֲרָי]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'A.cha.ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it makes shine  |**<big>&#8207;[[H0215\|יָאִ֣יר]]&#8207; </big>**| ya.'Ir<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

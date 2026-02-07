@@ -1,12 +1,12 @@
-**Mark 16:17
-**<small><sub>**KJV:**</sub></small>
+**Mark 16:17**<big><big>[[Mark.16.14 The Great Commission|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;
 <small><sub>**BSB:**</sub></small>
 And these signs will accompany those who believe: In My name they will drive out demons; they will speak in new tongues;
 <small><sub>**Literal:**</sub></small>
 Signs now with those having believed these will accompany: In the name of Me demons they will cast out, with tongues they will speak new,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.16|<< Mark 16:16]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.18|Mark 16:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Signs |**<big>[[G4592\|Σημεῖα]]</big>**  |Sēmeia <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |

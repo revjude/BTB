@@ -1,12 +1,12 @@
-**Hebrews 10:39
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:39**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But we are not of them who draw back unto perdition; but of them that believe to the saving of the soul.
 <small><sub>**BSB:**</sub></small>
 But we are not of those who shrink back and are destroyed, but of those who have faith and preserve their souls.
 <small><sub>**Literal:**</sub></small>
 We ourselves however not are of [those] drawing back to destruction but of faith to [the] preserving [of the] soul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.38|<< Hebrews 10:38]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.1|Hebrews 11:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**Mark 3:35
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:35**<big><big>[[Mark.3.31 Jesus’ Mother and Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For whosoever shall do the will of God, the same is my brother, and my sister, and mother.
 <small><sub>**BSB:**</sub></small>
 For whoever does the will of God is My brother and sister and mother.”
@@ -10,7 +10,7 @@ Who[ever] for maybe may do the will <the> of God, he brother of Mine and sister 
 > $\quad$ alluding to: [[LXX.Ezek.33.30|Ezek 33:30-33]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |

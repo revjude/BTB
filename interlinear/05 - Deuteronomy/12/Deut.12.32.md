@@ -1,4 +1,4 @@
-**Deuteronomy 12:32** (13:1)
+**Deuteronomy 12:32**<big><big>[[Deut.12.29 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What thing soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ See that you do everything I command you; do not add to it or subtract from it.
 > $\quad$ referenced by: [[Rev.22.18|Rev 22:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֣ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

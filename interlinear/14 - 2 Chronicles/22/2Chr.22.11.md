@@ -1,4 +1,4 @@
-**2 Chronicles 22:11** 
+**2 Chronicles 22:11**<big><big>[[2Chr.22.10 Athaliah and Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah, and stole him from among the king’s sons that were slain, and put him and his nurse in a bedchamber. So Jehoshabeath, the daughter of king Jehoram, the wife of Jehoiada the priest, (for she was the sister of Ahaziah,) hid him from Athaliah, so that she slew him not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Jehoshabeath daughter of King Jehoram took Joash son of Ahaziah and stole hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.22.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.22.10|<< 2 Chronicles 22:10]]</td><td align="center" style="border:none;">[[2Chr.22|2 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22.12|2 Chronicles 22:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|תִּקַּח֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Kach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoshabeath  |**<big>&#8207;[[H3090\|יְהוֹשַׁבְעַ֨ת]]&#8207; </big>**| ye.ho.shav.'At<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

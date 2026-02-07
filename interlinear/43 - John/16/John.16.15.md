@@ -1,12 +1,12 @@
-**John 16:15
-**<small><sub>**KJV:**</sub></small>
+**John 16:15**<big><big>[[John.16.5 The Promise of the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 All things that the Father hath are mine: therefore said I, that he shall take of mine, and shall shew [it] unto you.
 <small><sub>**BSB:**</sub></small>
 Everything that belongs to the Father is Mine. That is why I said that the Spirit will take from what is Mine and disclose it to you.
 <small><sub>**Literal:**</sub></small>
 All things as much as has the Father Mine are; because of this I said that from that which [is] Mine He receives and will disclose to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.14|<< John 16:14]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.16|John 16:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All things |**<big>[[G3956\|Πάντα]]</big>**  |Panta <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as much as |**<big>[[G3745\|ὅσα]]</big>**  |hosa <small><sup>[[K-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

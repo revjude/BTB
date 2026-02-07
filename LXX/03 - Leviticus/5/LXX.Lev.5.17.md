@@ -1,10 +1,7 @@
 **LXX Leviticus 5:17** 
 <small><sub>**LXX:**</sub></small>
 And the soul who ever should sin, and should commit one \[trespass\] from all of the commandments of \[the\] <span class="smallcaps">lord</span>, which he must not do, and \[does\] not know, and should trespass, and should take \[the guilt for\]  his sin; 
-<small><sub>**KJV:**</sub></small>
-And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the LORD; though he wist [it] not, yet is he guilty, and shall bear his iniquity.
-<small><sub>**BSB:**</sub></small>
-If someone sins and violates any of the LORD’s commandments even though he was unaware, he is guilty and shall bear his punishment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.5.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.16|<< Leviticus 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.18|Leviticus 5:18 >>]]</td></tr></table>
 
 | Translation | Greek |

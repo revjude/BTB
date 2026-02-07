@@ -1,10 +1,7 @@
 **LXX Joshua 2:17** 
 <small><sub>**LXX:**</sub></small>
 And the men said to her, We are innocent  in this your oath. 
-<small><sub>**KJV:**</sub></small>
-And the men said unto her, We [will be] blameless of this thine oath which thou hast made us swear.
-<small><sub>**BSB:**</sub></small>
-The men said to her, “We will not be bound by this oath you made us swear<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.16|<< Joshua 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.18|Joshua 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

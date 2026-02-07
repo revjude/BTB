@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:5** 
 <small><sub>**LXX:**</sub></small>
  to do combat against the Chaldeans, and to fill it of \[the\] dead, of the men whom I struck in my anger, and in my rage, and turned  my face from  this city on account of all  their wickednesses. 
-<small><sub>**KJV:**</sub></small>
-They come to fight with the Chaldeans, but [it is] to fill them with the dead bodies of men, whom I have slain in mine anger and in my fury, and for all whose wickedness I have hid my face from this city.
-<small><sub>**BSB:**</sub></small>
-The Chaldeans are coming to fight and to fill those places with the corpses of the men I will strike down in My anger and in My wrath. I have hidden My face from this city because of all its wickedness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.4|<< Jeremiah 33:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.6|Jeremiah 33:6 >>]]</td></tr></table>
 
 | Translation | Greek |

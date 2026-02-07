@@ -1,12 +1,12 @@
-**2 Thessalonians 3:3
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 3:3**<big><big>[[2Thess.3.1 Request for Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the Lord is faithful, who shall stablish you, and keep [you] from evil.
 <small><sub>**BSB:**</sub></small>
 But the Lord is faithful, and He will strengthen you and guard you from the evil one.
 <small><sub>**Literal:**</sub></small>
 faithful however is the Lord, who will strengthen you and He will keep [you] from <the> evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.2|<< 2 Thessalonians 3:2]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.4|2 Thessalonians 3:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | faithful |**<big>[[G4103\|πιστὸς]]</big>**  |pistos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

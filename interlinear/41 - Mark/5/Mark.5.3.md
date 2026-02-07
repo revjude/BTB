@@ -1,12 +1,12 @@
-**Mark 5:3
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:3**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who had [his] dwelling among the tombs; and no man could bind him, no, not with chains:
 <small><sub>**BSB:**</sub></small>
 This man had been living in the tombs and could no longer be restrained, even with chains.
 <small><sub>**Literal:**</sub></small>
 who the dwelling had in the tombs. And not even with a chain no longer no [one] was able him to bind<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.2|<< Mark 5:2]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.4|Mark 5:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

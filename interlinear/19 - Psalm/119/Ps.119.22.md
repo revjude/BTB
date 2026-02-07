@@ -1,4 +1,4 @@
-**Psalms 119:22** 
+**Psalms 119:22**<big><big>[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remove from me reproach and contempt; for I have kept thy testimonies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remove my scorn and contempt, for I have kept Your testimonies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.21|<< Psalms 119:21]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.23|Psalms 119:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | roll away  |**<big>&#8207;[[H1556\|גַּ֣ל]]&#8207; </big>**| gal<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from on \<the> me  |**<big>&#8207;[[H9006\|מֵֽ֭]]&#8207;&#8207;[[H5921A\|עָלַ]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| Me.<small><sup>[[HR]]</sup></small> 'a.la<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

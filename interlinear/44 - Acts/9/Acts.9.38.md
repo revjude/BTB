@@ -1,12 +1,12 @@
-**Acts 9:38
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:38**<big><big>[[Acts.9.36 The Raising of Tabitha|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring [him] that he would not delay to come to them.
 <small><sub>**BSB:**</sub></small>
 Since Lydda was near Joppa, the disciples, hearing that Peter was there, sent two men to urge him, “Come to us without delay.”
 <small><sub>**Literal:**</sub></small>
 Near now being Lydda <the> to Joppa the disciples having heard that Peter is in it, sent two men to him imploring ; Not you may delay coming to us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.37|<< Acts 9:37]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.39|Acts 9:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Near |**<big>[[G1451\|ἐγγὺς]]</big>**  |engus <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

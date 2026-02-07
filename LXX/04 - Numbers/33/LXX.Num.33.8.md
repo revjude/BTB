@@ -1,10 +1,7 @@
 **LXX Numbers 33:8** 
 <small><sub>**LXX:**</sub></small>
 And departing before Hiroth, and they passed over between the sea into the wilderness. And they went a journey three days through the wilderness themselves, and they camped in Bitterness. 
-<small><sub>**KJV:**</sub></small>
-And they departed from before Pihahiroth, and passed through the midst of the sea into the wilderness, and went three days’ journey in the wilderness of Etham, and pitched in Marah.
-<small><sub>**BSB:**</sub></small>
-They set out from Pi-hahiroth and crossed through the sea, into the wilderness, and they journeyed three days into the Wilderness of Etham and camped at Marah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.7|<< Numbers 33:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.9|Numbers 33:9 >>]]</td></tr></table>
 
 | Translation | Greek |

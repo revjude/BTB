@@ -1,4 +1,4 @@
-**Leviticus 22:33** 
+**Leviticus 22:33**<big><big>[[Lev.22.17 Worthy Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That brought you out of the land of Egypt, to be your God: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who brought you out of the land of Egypt to be your God. I am the LORD.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.32|<< Leviticus 22:32]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.1|Leviticus 23:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who brought out  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3318H\|מּוֹצִ֤יא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mo.Tzi'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶם֙]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 2:19** 
+**Deuteronomy 2:19**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [when] thou comest nigh over against the children of Ammon, distress them not, nor meddle with them: for I will not give thee of the land of the children of Ammon [any] possession; because I have given it unto the children of Lot [for] a possession.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when you get close to the Ammonites, do not harass them or provoke them, for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.18|<< Deuteronomy 2:18]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.20|Deuteronomy 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will draw near  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7126G\|קָרַבְתָּ֗]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ka.rav.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in front of  |**<big>&#8207;[[H4136\|מ֚וּל]]&#8207; </big>**| mul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

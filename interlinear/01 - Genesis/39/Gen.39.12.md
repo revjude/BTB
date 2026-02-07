@@ -1,4 +1,4 @@
-**Genesis 39:12** 
+**Genesis 39:12**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She grabbed Joseph by his cloak and said, “Sleep with me!” But leaving his c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.11|<< Genesis 39:11]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.13|Genesis 39:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she seized him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8610\|תִּתְפְּשֵׂ֧]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tit.pe.Se.<small><sup>[[HVqw3fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by clothing his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0899B\|בִגְד֛]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> vig.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

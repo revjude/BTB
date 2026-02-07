@@ -1,4 +1,4 @@
-**Ecclesiastes 12:1** 
+**Ecclesiastes 12:1**<big><big>[[Eccl.12.1 Remember Your Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember your Creator in the days of your youth, before the days of adversity co
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11.10|<< Ecclesiastes 11:10]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.2|Ecclesiastes 12:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and remember  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H2142\|זְכֹר֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ze.Khor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

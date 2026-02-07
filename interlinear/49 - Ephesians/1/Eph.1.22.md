@@ -1,5 +1,5 @@
-**Ephesians 1:22
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 1:22**<big><big>[[Eph.1.15 Spiritual Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And hath put all [things] under his feet, and gave him [to be] the head over all [things] to the church,
 <small><sub>**BSB:**</sub></small>
 And God put everything under His feet and made Him head over everything for the church,
@@ -10,7 +10,7 @@ And all things He put under the feet of Him and Him gave [to be] head over all t
 > $\quad$ referencing: [[LXX.Ps.8.6|Ps 8:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all things |**<big>[[G3956\|πάντα]]</big>**  |panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

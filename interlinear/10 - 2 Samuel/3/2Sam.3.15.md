@@ -1,4 +1,4 @@
-**2 Samuel 3:15** 
+**2 Samuel 3:15**<big><big>[[2Sam.3.6 Abner Joins David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ishbosheth sent, and took her from [her] husband, [even] from Phaltiel the son of Laish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Ish-bosheth sent and took Michal from her husband Paltiel son of Laish.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.14|<< 2 Samuel 3:14]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.16|2 Samuel 3:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַח֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ish-  |**<big>&#8207;[[H0378\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

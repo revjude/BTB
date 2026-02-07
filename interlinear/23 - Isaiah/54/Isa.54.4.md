@@ -1,4 +1,4 @@
-**Isaiah 54:4** 
+**Isaiah 54:4**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth, and shalt not remember the reproach of thy widowhood any more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not be afraid, for you will not be put to shame; do not be intimidated, for y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.3|<< Isaiah 54:3]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.5|Isaiah 54:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you be afraid  |**<big>&#8207;[[H3372G\|תִּֽירְאִי֙]]&#8207; </big>**| ti.re.'I<small><sup>[[HVqj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

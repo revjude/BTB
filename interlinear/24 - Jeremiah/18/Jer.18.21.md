@@ -1,4 +1,4 @@
-**Jeremiah 18:21** 
+**Jeremiah 18:21**<big><big>[[Jer.18.18 Another Plot against Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore deliver up their children to the famine, and pour out their [blood] by the force of the sword; and let their wives be bereaved of their children, and [be] widows; and let their men be put to death; [let] their young men [be] slain by the sword in battle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore, hand their children over to famine; pour out the power of the sword u
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.20|<< Jeremiah 18:20]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.22|Jeremiah 18:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵן֩]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | give  |**<big>&#8207;[[H5414G\|תֵּ֨ן]]&#8207; </big>**| ten<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

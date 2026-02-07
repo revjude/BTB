@@ -1,10 +1,7 @@
 **LXX Psalm 109:7** 
 <small><sub>**LXX:**</sub></small>
 In  his being judged, may he go forth having been condemned; and  let his prayer become as sin! 
-<small><sub>**KJV:**</sub></small>
-When he shall be judged, let him be condemned: and let his prayer become sin.
-<small><sub>**BSB:**</sub></small>
-When he is tried, let him be found guilty, and may his prayer be regarded as sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.6|<< Psalm 109:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.8|Psalm 109:8 >>]]</td></tr></table>
 
 | Translation | Greek |

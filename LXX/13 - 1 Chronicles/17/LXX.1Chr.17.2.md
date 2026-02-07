@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:2** 
 <small><sub>**LXX:**</sub></small>
 And Nathan said to David, All  in  your soul do! for  God \[is\] with you. 
-<small><sub>**KJV:**</sub></small>
-Then Nathan said unto David, Do all that [is] in thine heart; for God [is] with thee.
-<small><sub>**BSB:**</sub></small>
-And Nathan replied to David, “Do all that is in your heart, for God is with you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.1|<< 1 Chronicles 17:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.3|1 Chronicles 17:3 >>]]</td></tr></table>
 
 | Translation | Greek |

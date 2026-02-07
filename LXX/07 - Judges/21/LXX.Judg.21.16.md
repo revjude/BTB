@@ -1,10 +1,7 @@
 **LXX Judges 21:16** 
 <small><sub>**LXX:**</sub></small>
 And the elders of the congregation said, What shall we do to the remaining for  wives, \[now\] that \[the\] woman was removed from Benjamin? 
-<small><sub>**KJV:**</sub></small>
-Then the elders of the congregation said, How shall we do for wives for them that remain, seeing the women are destroyed out of Benjamin?
-<small><sub>**BSB:**</sub></small>
-Then the elders of the congregation said, “What should we do about wives for those who remain, since the women of Benjamin have been destroyed?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.15|<< Judges 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.17|Judges 21:17 >>]]</td></tr></table>
 
 | Translation | Greek |

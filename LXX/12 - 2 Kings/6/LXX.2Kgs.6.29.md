@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:29** 
 <small><sub>**LXX:**</sub></small>
 And we boiled  my son, and we ate him. And I said to her the other day, Give  your son! for we should eat him. And she hid  her son. 
-<small><sub>**KJV:**</sub></small>
-So we boiled my son, and did eat him: and I said unto her on the next day, Give thy son, that we may eat him: and she hath hid her son.
-<small><sub>**BSB:**</sub></small>
-So we boiled my son and ate him, and the next day I said to her, ‘Give up your son, that we may eat him.’ But she had hidden her son.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.28|<< 2 Kings 6:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.30|2 Kings 6:30 >>]]</td></tr></table>
 
 | Translation | Greek |

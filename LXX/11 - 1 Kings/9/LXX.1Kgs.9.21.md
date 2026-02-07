@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:21** 
 <small><sub>**LXX:**</sub></small>
  their children  being left with them in the land, which the sons of Israel were not able to utterly destroy them, that Solomon led them into tribute until  this day. 
-<small><sub>**KJV:**</sub></small>
-Their children that were left after them in the land, whom the children of Israel also were not able utterly to destroy, upon those did Solomon levy a tribute of bondservice unto this day.
-<small><sub>**BSB:**</sub></small>
-their descendants who remained in the land, those whom the Israelites were unable to devote to destruction—Solomon conscripted these people to be forced laborers, as they are to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.20|<< 1 Kings 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.22|1 Kings 9:22 >>]]</td></tr></table>
 
 | Translation | Greek |

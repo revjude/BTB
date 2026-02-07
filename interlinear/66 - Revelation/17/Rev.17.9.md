@@ -1,12 +1,12 @@
-**Revelation 17:9
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:9**<big><big>[[Rev.17.6 The Mystery Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And here [is] the mind which hath wisdom. The seven heads are seven mountains, on which the woman sitteth.
 <small><sub>**BSB:**</sub></small>
 This calls for a mind with wisdom. The seven heads are seven mountains on which the woman sits.
 <small><sub>**Literal:**</sub></small>
 Here [is] the mind which is having wisdom. The seven heads seven mountains are where the woman sits on them. [10] And kings seven there are:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.8|<< Revelation 17:8]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.10|Revelation 17:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Here [is] |**<big>[[G5602\|ὧδε]]</big>**  |hōde <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

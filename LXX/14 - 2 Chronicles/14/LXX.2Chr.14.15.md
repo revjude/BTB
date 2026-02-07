@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 14:15** 
 <small><sub>**LXX:**</sub></small>
 And indeed \[the\] tents of \[the\] cattle they cut down, and they took many sheep and camels, and returned to Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-They smote also the tents of cattle, and carried away sheep and camels in abundance, and returned to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-They also attacked the tents of the herdsmen and carried off many sheep and camels. Then they returned to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.14.14|<< 2 Chronicles 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.1|2 Chronicles 15:1 >>]]</td></tr></table>
 
 | Translation | Greek |

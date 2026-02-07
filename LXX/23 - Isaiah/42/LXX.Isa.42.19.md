@@ -1,10 +1,7 @@
 **LXX Isaiah 42:19** 
 <small><sub>**LXX:**</sub></small>
 And who \[is\] blind, but  my servants? And \[who are\] deaf-mutes, but the ones dominating them? Who \[is\] blind as the one receiving? even the servants of God were blinded. 
-<small><sub>**KJV:**</sub></small>
-Who [is] blind, but my servant? or deaf, as my messenger [that] I sent? who [is] blind as [he that is] perfect, and blind as the LORD’S servant?
-<small><sub>**BSB:**</sub></small>
-Who is blind but My servant, or deaf like the messenger I am sending? Who is blind like My covenant partner, or blind like the servant of the LORD?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.18|<< Isaiah 42:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.20|Isaiah 42:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 18:16** 
 <small><sub>**LXX:**</sub></small>
 And the six hundred men being girded with weapons for their warfare, being set up by the door of the gatehouse, \[were\] the ones from the sons of Dan. 
-<small><sub>**KJV:**</sub></small>
-And the six hundred men appointed with their weapons of war, which [were] of the children of Dan, stood by the entering of the gate.
-<small><sub>**BSB:**</sub></small>
-The six hundred Danites stood at the entrance of the gate, armed with their weapons of war.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.15|<< Judges 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.17|Judges 18:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Philippians 2:13
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:13**<big><big>[[Phil.2.12 Lights in the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For it is God which worketh in you both to will and to do of [his] good pleasure.
 <small><sub>**BSB:**</sub></small>
 For it is God who works in you to will and to act on behalf of His good purpose.
 <small><sub>**Literal:**</sub></small>
 <the> God for is the [One] working in you both <the> to will and <the> to work according to <the> [His] good pleasure.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.12|<< Philippians 2:12]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.14|Philippians 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | God |**<big>[[G2316\|θεὸς]]</big>**  |theos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

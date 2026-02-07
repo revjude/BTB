@@ -1,10 +1,7 @@
 **LXX Song of Solomon 8:8** 
 <small><sub>**LXX:**</sub></small>
 Our sister \[is\] small and has no breasts; what shall we do  for our sister in \[the\] day in which ever she should be spoken for in it? 
-<small><sub>**KJV:**</sub></small>
-We have a little sister, and she hath no breasts: what shall we do for our sister in the day when she shall be spoken for?
-<small><sub>**BSB:**</sub></small>
-We have a little sister, and her breasts are not yet grown. What shall we do for our sister on the day she is spoken for?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.7|<< Song of Solomon 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.9|Song of Solomon 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

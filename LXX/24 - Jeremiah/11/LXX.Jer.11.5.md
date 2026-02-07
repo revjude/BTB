@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:5** 
 <small><sub>**LXX:**</sub></small>
 So that I should establish  my oath which I swore by an oath \[to\] your fathers,  to give to them a land flowing milk and honey, as  this day. And I answered and said, May it be, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-That I may perform the oath which I have sworn unto your fathers, to give them a land flowing with milk and honey, as [it is] this day. Then answered I, and said, So be it, O LORD.
-<small><sub>**BSB:**</sub></small>
-This was in order to establish the oath I swore to your forefathers, to give them a land flowing with milk and honey, as it is to this day.” “Amen, LORD,” I answered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.4|<< Jeremiah 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.6|Jeremiah 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

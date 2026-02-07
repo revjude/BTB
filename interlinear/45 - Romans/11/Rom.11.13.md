@@ -1,12 +1,12 @@
-**Romans 11:13
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:13**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles, I magnify mine office:
 <small><sub>**BSB:**</sub></small>
 I am speaking to you Gentiles. Inasmuch as I am the apostle to the Gentiles, I magnify my ministry
 <small><sub>**Literal:**</sub></small>
 To you now I am speaking <the> Gentiles; Upon as much as indeed therefore am I myself of [the] Gentiles apostle, the ministry of mine I magnify,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.12|<< Romans 11:12]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.14|Romans 11:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To you |**<big>[[G4771\|Ὑμῖν]]</big>**  |Humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

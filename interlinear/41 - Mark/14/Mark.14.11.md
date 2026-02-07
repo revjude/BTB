@@ -1,12 +1,12 @@
-**Mark 14:11
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:11**<big><big>[[Mark.14.10 Judas Agrees to Betray Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they heard [it], they were glad, and promised to give him money. And he sought how he might conveniently betray him.
 <small><sub>**BSB:**</sub></small>
 They were delighted to hear this, and they promised to give him money. So Judas began to look for an opportunity to betray Jesus.
 <small><sub>**Literal:**</sub></small>
 <the> And having heard they rejoiced and they promised to him money to give; And he was seeking how Him conveniently he may deliver up.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.10|<< Mark 14:10]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.12|Mark 14:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,6 +1,6 @@
 (KJV) **Amos 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.1|<< Amos 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.3|Amos 3 >>]]</td></tr></table>
 
-***Judgment on Moab, Judah, and Israel*** ^bsb2000
+<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥃]]</big></big>***Judgment on Moab, Judah, and Israel***
 
  $\quad$ <span class="startversemarker">[</span>**[[Amos.2.1|1]]**<span class="endversemarker">]</span> Thus saith the <span class="smallcaps">Lord</span>; For three<small><small>[^2]</small></small> transgressions of Moab<small><small>[^3]</small></small>, and for four, I will not turn away \[the punishment\] thereof; because<small><small>[^4]</small></small> he burned the bones of the king of Edom into lime: <span class="startversemarker">[</span>**[[Amos.2.2|2]]**<span class="endversemarker">]</span> But I will send a fire upon Moab, and it shall devour the palaces of Kerioth<small><small>[^5]</small></small>: and Moab shall die with tumult<small><small>[^6]</small></small>, with shouting, \[and\] with the sound of the trumpet: <span class="startversemarker">[</span>**[[Amos.2.3|3]]**<span class="endversemarker">]</span> And I will cut off the judge from the midst thereof, and will slay all the princes thereof with him, saith the <span class="smallcaps">Lord</span>.<small><small>[^7]</small></small> 
 

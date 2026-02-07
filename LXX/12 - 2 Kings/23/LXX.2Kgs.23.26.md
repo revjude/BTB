@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:26** 
 <small><sub>**LXX:**</sub></small>
 Only \[the\] <span class="smallcaps">lord</span> did not turn from the great rage of his anger of which his anger was enraged against  Judah, against all the provocations to anger which Manasseh provoked him to anger. 
-<small><sub>**KJV:**</sub></small>
-Notwithstanding the LORD turned not from the fierceness of his great wrath, wherewith his anger was kindled against Judah, because of all the provocations that Manasseh had provoked him withal.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, the LORD did not turn away from the fury of His burning anger, which was kindled against Judah because of all that Manasseh had done to provoke Him to anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.25|<< 2 Kings 23:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.27|2 Kings 23:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 5:11
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:11**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now there was there nigh unto the mountains a great herd of swine feeding.
 <small><sub>**BSB:**</sub></small>
 There on the nearby hillside a large herd of pigs was feeding.
 <small><sub>**Literal:**</sub></small>
 There was now there near the hill a herd of pigs great feeding;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.10|<< Mark 5:10]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.12|Mark 5:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

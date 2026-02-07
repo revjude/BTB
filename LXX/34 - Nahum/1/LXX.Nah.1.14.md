@@ -1,10 +1,7 @@
 **LXX Nahum 1:14** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> shall give charge concerning you, \[There shall\] not be sown \[the report\] of  your name any longer from out of \[the\] house of your god; I will utterly destroy the carved \[images\], and \[the\] molten \[images\]; I will establish your burial, \[and\] that quickly. 
-<small><sub>**KJV:**</sub></small>
-And the LORD hath given a commandment concerning thee, [that] no more of thy name be sown: out of the house of thy gods will I cut off the graven image and the molten image: I will make thy grave; for thou art vile.
-<small><sub>**BSB:**</sub></small>
-The LORD has issued a command concerning you, O Nineveh: “There will be no descendants to carry on your name. I will cut off the carved image and cast idol from the house of your gods; I will prepare your grave, for you are contemptible.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.13|<< Nahum 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.15|Nahum 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

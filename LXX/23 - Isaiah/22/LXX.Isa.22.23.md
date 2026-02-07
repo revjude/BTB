@@ -1,10 +1,7 @@
 **LXX Isaiah 22:23** 
 <small><sub>**LXX:**</sub></small>
 And I will establish him as ruler in a trustworthy place, and he will be for a throne of glory  for his father's house. 
-<small><sub>**KJV:**</sub></small>
-And I will fasten him [as] a nail in a sure place; and he shall be for a glorious throne to his father’s house.
-<small><sub>**BSB:**</sub></small>
-I will drive him like a peg into a firm place, and he will be a throne of glory for the house of his father.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.22|<< Isaiah 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.24|Isaiah 22:24 >>]]</td></tr></table>
 
 | Translation | Greek |

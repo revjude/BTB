@@ -1,10 +1,7 @@
 **LXX Isaiah 65:18** 
 <small><sub>**LXX:**</sub></small>
 But they shall find in her gladness and a leap for joy. For behold, I make Jerusalem a leap for joy, and over  my people \[for\] gladness. 
-<small><sub>**KJV:**</sub></small>
-But be ye glad and rejoice for ever [in that] which I create: for, behold, I create Jerusalem a rejoicing, and her people a joy.
-<small><sub>**BSB:**</sub></small>
-But be glad and rejoice forever in what I create; for I will create Jerusalem to be a joy and its people to be a delight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.17|<< Isaiah 65:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.19|Isaiah 65:19 >>]]</td></tr></table>
 
 | Translation | Greek |

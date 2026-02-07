@@ -1,4 +1,4 @@
-**2 Samuel 17:4** 
+**2 Samuel 17:4**<big><big>[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the saying pleased Absalom well, and all the elders of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This proposal seemed good to Absalom and all the elders of Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.3|<< 2 Samuel 17:3]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.5|2 Samuel 17:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was pleasing  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3474\|יִּישַׁ֥ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Shar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the word  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697G\|דָּבָ֖ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

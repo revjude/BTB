@@ -1,12 +1,12 @@
-**John 19:41
-**<small><sub>**KJV:**</sub></small>
+**John 19:41**<big><big>[[John.19.38 The Burial of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now in the place where he was crucified there was a garden; and in the garden a new sepulchre, wherein was never man yet laid.
 <small><sub>**BSB:**</sub></small>
 Now there was a garden in the place where Jesus was crucified, and in the garden a new tomb in which no one had yet been laid.
 <small><sub>**Literal:**</sub></small>
 There was now in the place where He was crucified a garden and in the garden a tomb new in which not yet no [one] was [already] laid.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.40|<< John 19:40]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.42|John 19:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There was |**<big>[[G1510\|Ἦν]]</big>**  |Ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 37:1** 
+**Exodus 37:1**<big><big>[[Exod.37.1 Constructing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Bezaleel made the ark [of] shittim wood: two cubits and a half [was] the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bezalel went on to construct the ark of acacia wood, two and a half cubits long,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.38|<< Exodus 36:38]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.2|Exodus 37:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֧עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Bezalel  |**<big>&#8207;[[H1212G\|בְּצַלְאֵ֛ל]]&#8207; </big>**| be.tzal.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

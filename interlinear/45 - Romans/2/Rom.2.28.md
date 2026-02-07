@@ -1,12 +1,12 @@
-**Romans 2:28
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:28**<big><big>[[Rom.2.17 The Jews and the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he is not a Jew, which is one outwardly; neither [is that] circumcision, which is outward in the flesh:
 <small><sub>**BSB:**</sub></small>
 A man is not a Jew because he is one outwardly, nor is circumcision only outward and physical.
 <small><sub>**Literal:**</sub></small>
 Not for the [one] on the outward a Jew is, neither the [one] outwardly the outward in flesh [is] circumcision,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.27|<< Romans 2:27]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.29|Romans 2:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

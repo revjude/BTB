@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:16** 
 <small><sub>**LXX:**</sub></small>
 And all the rulers of the sea shall go down from their thrones, and they shall remove  their mitres, and  they shall take off their colored clothes. They shall be startled by a change of state upon \[the\] earth. They shall be seated and shall fear  their destruction, and they shall moan over you. 
-<small><sub>**KJV:**</sub></small>
-Then all the princes of the sea shall come down from their thrones, and lay away their robes, and put off their broidered garments: they shall clothe themselves with trembling; they shall sit upon the ground, and shall tremble at [every] moment, and be astonished at thee.
-<small><sub>**BSB:**</sub></small>
-All the princes of the sea will descend from their thrones, remove their robes, and strip off their embroidered garments. Clothed with terror, they will sit on the ground, trembling every moment, appalled over you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.15|<< Ezekiel 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.17|Ezekiel 26:17 >>]]</td></tr></table>
 
 | Translation | Greek |

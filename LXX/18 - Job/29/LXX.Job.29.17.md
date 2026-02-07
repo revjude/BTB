@@ -1,10 +1,7 @@
 **LXX Job 29:17** 
 <small><sub>**LXX:**</sub></small>
 And I broke \[the\] molars of unjust ones; and from out of \[the\] midst  of their teeth I pulled out \[the\] prey. 
-<small><sub>**KJV:**</sub></small>
-And I brake the jaws of the wicked, and plucked the spoil out of his teeth.
-<small><sub>**BSB:**</sub></small>
-I shattered the fangs of the unjust and snatched the prey from his teeth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.29.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.16|<< Job 29:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.18|Job 29:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Zechariah 5:4** 
 <small><sub>**LXX:**</sub></small>
 And I will bring it forth, says \[the\] <span class="smallcaps">lord</span> almighty, and it shall enter into the house of the thief, and into the house of the one swearing an oath  by my name for a lie; and it shall rest in \[the\] midst  of his house, and it shall finish it off entirely, even  its wood and  its stones. 
-<small><sub>**KJV:**</sub></small>
-I will bring it forth, saith the LORD of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: and it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof.
-<small><sub>**BSB:**</sub></small>
-I will send it out, declares the LORD of Hosts, and it will enter the house of the thief and the house of him who swears falsely by My name. It will remain inside his house and destroy it, down to its timbers and stones.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.5.3|<< Zechariah 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.5.5|Zechariah 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 18:4** 
+**Isaiah 18:4**<big><big>[[Isa.18.1 A Message to Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For so the LORD said unto me, I will take my rest, and I will consider in my dwelling place like a clear heat upon herbs, [and] like a cloud of dew in the heat of harvest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For this is what the LORD has told me: “I will quietly look on from My dwellin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.18.3|<< Isaiah 18:3]]</td><td align="center" style="border:none;">[[Isa.18|Isaiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18.5|Isaiah 18:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹ֨ה]]&#8207; </big>**| khoh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

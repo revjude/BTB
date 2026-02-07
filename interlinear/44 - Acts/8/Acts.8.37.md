@@ -1,12 +1,12 @@
-**Acts 8:37
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:37**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God.
 <small><sub>**BSB:**</sub></small>
 
 <small><sub>**Literal:**</sub></small>
 said now <the> Philip: if believe you from all the heart it is lawful. answering now said: I believe the son <the> of God to be <the> Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.36|<< Acts 8:36]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.38|Acts 8:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | said |**<big>[[G2036\|εἶπε]]</big>**  |eipe <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="TR">K</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">K</abbr> | |

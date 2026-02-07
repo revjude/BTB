@@ -1,12 +1,12 @@
-**Philippians 4:10
-**<small><sub>**KJV:**</sub></small>
+**Philippians 4:10**<big><big>[[Phil.4.10 The Generosity of the Philippians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity.
 <small><sub>**BSB:**</sub></small>
 Now I rejoice greatly in the Lord that at last you have revived your concern for me. You were indeed concerned, but you had no opportunity to show it.
 <small><sub>**Literal:**</sub></small>
 I rejoiced however in [the] Lord greatly that now at last you revived the for me caring; wherein which also you were concerned, you were lacking opportunity however.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.9|<< Philippians 4:9]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.11|Philippians 4:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I rejoiced |**<big>[[G5463\|Ἐχάρην]]</big>**  |Echarēn <small><sup>[[V-2AOI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

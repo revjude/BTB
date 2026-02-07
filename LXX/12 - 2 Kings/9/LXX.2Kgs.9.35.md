@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:35** 
 <small><sub>**LXX:**</sub></small>
 And they went to bury her, and they did not find of her but only the skull, and the feet, and the palms \[of her\] hands. 
-<small><sub>**KJV:**</sub></small>
-And they went to bury her: but they found no more of her than the skull, and the feet, and the palms of [her] hands.
-<small><sub>**BSB:**</sub></small>
-But when they went out to bury her, they found nothing but her skull, her feet, and the palms of her hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.34|<< 2 Kings 9:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.36|2 Kings 9:36 >>]]</td></tr></table>
 
 | Translation | Greek |

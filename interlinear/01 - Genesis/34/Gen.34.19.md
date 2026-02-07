@@ -1,4 +1,4 @@
-**Genesis 34:19** 
+**Genesis 34:19**<big><big>[[Gen.34.13 The Revenge of Dinah’s Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the young man deferred not to do the thing, because he had delight in Jacob’s daughter: and he [was] more honourable than all the house of his father.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The young man, who was the most respected of all his father’s household, did n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.18|<< Genesis 34:18]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.20|Genesis 34:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he delayed  |**<big>&#8207;[[H0309\|אֵחַ֤ר]]&#8207; </big>**| 'e.Char<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

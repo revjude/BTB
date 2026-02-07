@@ -1,10 +1,7 @@
 **LXX Psalm 1:5** 
 <small><sub>**LXX:**</sub></small>
 On account of this the impious shall not rise up in judgment, nor \[the\] sinners in \[the\] counsel of \[the\] just. 
-<small><sub>**KJV:**</sub></small>
-Therefore the ungodly shall not stand in the judgment, nor sinners in the congregation of the righteous.
-<small><sub>**BSB:**</sub></small>
-Therefore the wicked will not stand in the judgment, nor sinners in the assembly of the righteous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.1.4|<< Psalm 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.1.6|Psalm 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Romans 1:20
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:20**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, [even] his eternal power and Godhead; so that they are without excuse:
 <small><sub>**BSB:**</sub></small>
 For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse.
 <small><sub>**Literal:**</sub></small>
 The for invisible qualities of Him from [the] creation of [the] world by the things made being understood are clearly seen, the both eternal of Him power and divinity, for <the> to be them without excuse.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.19|<< Romans 1:19]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.21|Romans 1:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

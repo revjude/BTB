@@ -1,10 +1,7 @@
 **LXX Genesis 1:31** 
 <small><sub>**LXX:**</sub></small>
 And God beheld  all as much as he made. And behold, \[it was\] exceedingly good. And there was evening and there was morning, \[the\] sixth day. 
-<small><sub>**KJV:**</sub></small>
-And God saw every thing that he had made, and, behold, [it was] very good. And the evening and the morning were the sixth day.
-<small><sub>**BSB:**</sub></small>
-And God looked upon all that He had made, and indeed, it was very good. And there was evening, and there was morning—the sixth day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.30|<< Genesis 1:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.1|Genesis 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

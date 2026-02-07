@@ -1,10 +1,7 @@
 **LXX Psalm 19:10** 
 <small><sub>**LXX:**</sub></small>
 desirable above gold, and much precious stone, and sweeter above honey and \[the\] honeycomb. 
-<small><sub>**KJV:**</sub></small>
-More to be desired [are they] than gold, yea, than much fine gold: sweeter also than honey and the honeycomb.
-<small><sub>**BSB:**</sub></small>
-They are more precious than gold, than much pure gold; they are sweeter than honey, than honey from the comb.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.9|<< Psalm 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.11|Psalm 19:11 >>]]</td></tr></table>
 
 | Translation | Greek |

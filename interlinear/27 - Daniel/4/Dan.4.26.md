@@ -1,4 +1,4 @@
-**Daniel 4:26** (4:23)
+**Daniel 4:26**<big><big>[[Dan.4.19 Daniel Interprets the Second Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whereas they commanded to leave the stump of the tree roots; thy kingdom shall be sure unto thee, after that thou shalt have known that the heavens do rule.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As for the command to leave the stump of the tree with its roots, your kingdom w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.25|<< Daniel 4:25]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.27|Daniel 4:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and that  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1768\|דִ֣י]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> Di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they said  |**<big>&#8207;[[H0560\|אֲמַ֗רוּ]]&#8207; </big>**| 'a.Ma.ru<small><sup>[[AVqp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

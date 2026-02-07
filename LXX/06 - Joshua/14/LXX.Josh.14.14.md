@@ -1,10 +1,7 @@
 **LXX Joshua 14:14** 
 <small><sub>**LXX:**</sub></small>
 On account of this Hebron came  to Caleb, to the \[son of\] Jephunneh the Kenezite by lot until  today's day, because  he followed after the order of \[the\] <span class="smallcaps">lord</span>  God of Israel. 
-<small><sub>**KJV:**</sub></small>
-Hebron therefore became the inheritance of Caleb the son of Jephunneh the Kenezite unto this day, because that he wholly followed the LORD God of Israel.
-<small><sub>**BSB:**</sub></small>
-Therefore Hebron belongs to Caleb son of Jephunneh the Kenizzite as an inheritance to this day, because he wholly followed the LORD, the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.13|<< Joshua 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.15|Joshua 14:15 >>]]</td></tr></table>
 
 | Translation | Greek |

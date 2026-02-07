@@ -1,4 +1,4 @@
-**Jeremiah 11:20** 
+**Jeremiah 11:20**<big><big>[[Jer.11.18 A Plot against Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But, O LORD of hosts, that judgest righteously, that triest the reins and the heart, let me see thy vengeance on them: for unto thee have I revealed my cause.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O LORD of Hosts, who judges righteously, who examines the heart and mind, let me
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.19|<< Jeremiah 11:19]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.21|Jeremiah 11:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and O Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֤ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of hosts  |**<big>&#8207;[[H6635B\|צְבָאוֹת֙]]&#8207; </big>**| tze.va.'Ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

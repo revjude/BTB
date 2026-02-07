@@ -1,10 +1,7 @@
 **LXX Proverbs 27:2** 
 <small><sub>**LXX:**</sub></small>
 the one near laud you! and not  your mouth; a stranger, and not  your lips. 
-<small><sub>**KJV:**</sub></small>
-Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips.
-<small><sub>**BSB:**</sub></small>
-Let another praise you, and not your own mouth—a stranger, and not your own lips.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.27.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.1|<< Proverbs 27:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.3|Proverbs 27:3 >>]]</td></tr></table>
 
 | Translation | Greek |

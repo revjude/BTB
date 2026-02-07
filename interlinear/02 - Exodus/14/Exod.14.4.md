@@ -1,4 +1,4 @@
-**Exodus 14:4** 
+**Exodus 14:4**<big><big>[[Exod.14.1 Pharaoh Pursues the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will harden Pharaoh’s heart, that he shall follow after them; and I will be honoured upon Pharaoh, and upon all his host; that the Egyptians may know that I [am] the LORD. And they did so.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will harden Pharaoh’s heart so that he will pursue them. But I will gain
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.3|<< Exodus 14:3]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.5|Exodus 14:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make strong  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2388G\|חִזַּקְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> chi.zak.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

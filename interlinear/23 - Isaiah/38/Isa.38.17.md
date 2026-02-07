@@ -1,4 +1,4 @@
-**Isaiah 38:17** 
+**Isaiah 38:17**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, for peace I had great bitterness: but thou hast in love to my soul [delivered it] from the pit of corruption: for thou hast cast all my sins behind thy back.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely for my own welfare I had such great anguish; but Your love has delivered 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.16|<< Isaiah 38:16]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.18|Isaiah 38:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֥ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for welfare  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7965I\|שָׁל֖וֹם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

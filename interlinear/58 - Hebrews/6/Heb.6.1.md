@@ -1,12 +1,12 @@
-**Hebrews 6:1
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 6:1**<big><big>[[Heb.6.1 A Call to Maturity|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,
 <small><sub>**BSB:**</sub></small>
 Therefore let us leave the elementary teachings about Christ and go on to maturity, not laying again the foundation of repentance from dead works, and of faith in God,
 <small><sub>**Literal:**</sub></small>
 Therefore having left <the> the beginning <the> of Christ [of the] teaching to <the> maturity we may go on not again a foundation laying of repentance from dead works and faith in God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.14|<< Hebrews 5:14]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.2|Hebrews 6:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|Διὸ]]</big>**  |Dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having left |**<big>[[G0863G\|ἀφέντες]]</big>**  |aphentes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

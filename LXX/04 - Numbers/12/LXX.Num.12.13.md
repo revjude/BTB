@@ -1,10 +1,7 @@
 **LXX Numbers 12:13** 
 <small><sub>**LXX:**</sub></small>
 And Moses yelled out to \[the\] <span class="smallcaps">lord</span>, saying, O God, I beseech you to heal her. 
-<small><sub>**KJV:**</sub></small>
-And Moses cried unto the LORD, saying, Heal her now, O God, I beseech thee.
-<small><sub>**BSB:**</sub></small>
-So Moses cried out to the LORD, “O God, please heal her!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.12.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.12.12|<< Numbers 12:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.14|Numbers 12:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 17:4** 
+**Jeremiah 17:4**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, [which] shall burn for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you yourself will relinquish the inheritance that I gave you. I will enslave
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.3|<< Jeremiah 17:3]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.5|Jeremiah 17:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will let fall  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8058\|שָׁמַטְתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.ma.Tah<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and in \<the> you  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

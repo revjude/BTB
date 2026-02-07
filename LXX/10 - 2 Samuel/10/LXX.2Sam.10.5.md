@@ -1,10 +1,7 @@
 **LXX 2 Samuel 10:5** 
 <small><sub>**LXX:**</sub></small>
 And it was reported  to David concerning the men. And he sent to meet them, for the men were dishonored exceedingly. And the king said, Stay in Jericho until  your beards rise, and you shall return. 
-<small><sub>**KJV:**</sub></small>
-When they told [it] unto David, he sent to meet them, because the men were greatly ashamed: and the king said, Tarry at Jericho until your beards be grown, and [then] return.
-<small><sub>**BSB:**</sub></small>
-When this was reported to David, he sent messengers to meet the men, since they had been thoroughly humiliated. The king told them, “Stay in Jericho until your beards have grown back, and then return.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.4|<< 2 Samuel 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.6|2 Samuel 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

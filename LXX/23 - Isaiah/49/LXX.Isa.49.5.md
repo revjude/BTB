@@ -1,10 +1,7 @@
 **LXX Isaiah 49:5** 
 <small><sub>**LXX:**</sub></small>
 And now, thus says \[the\] <span class="smallcaps">lord</span>, the one shaping me from out of \[the\] belly, \[to be\] his own servant,  to gather  Jacob to him, And Israel I shall have gathered, and I shall be glorified before \[the\] <span class="smallcaps">lord</span>, and  my God will be my strength. 
-<small><sub>**KJV:**</sub></small>
-And now, saith the LORD that formed me from the womb [to be] his servant, to bring Jacob again to him, Though Israel be not gathered, yet shall I be glorious in the eyes of the LORD, and my God shall be my strength.
-<small><sub>**BSB:**</sub></small>
-And now says the LORD, who formed Me from the womb to be His Servant, to bring Jacob back to Him, that Israel might be gathered to Him—for I am honored in the sight of the LORD, and My God is My strength—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.4|<< Isaiah 49:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.6|Isaiah 49:6 >>]]</td></tr></table>
 
 | Translation | Greek |

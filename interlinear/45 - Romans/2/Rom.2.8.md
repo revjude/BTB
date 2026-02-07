@@ -1,12 +1,12 @@
-**Romans 2:8
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:8**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But unto them that are contentious, and do not obey the truth, but obey unrighteousness, indignation and wrath,
 <small><sub>**BSB:**</sub></small>
 But for those who are self-seeking and who reject the truth and follow wickedness, there will be wrath and anger.
 <small><sub>**Literal:**</sub></small>
 to those however of self-interest and disobeying indeed the truth, being persuaded about however <the> unrighteousness, wrath and anger<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.7|<< Romans 2:7]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.9|Romans 2:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to those |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

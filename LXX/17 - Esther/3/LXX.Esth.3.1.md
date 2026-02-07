@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 After these \[things\] king Artaxerxes extolled Haman the \[son of\] Hammedatha \[the\] Agagite, and exalted him, and seated him first \[above\] all  his friends. 
-<small><sub>**KJV:**</sub></small>
-After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that [were] with him.
-<small><sub>**BSB:**</sub></small>
-After these events, King Xerxes honored Haman son of Hammedatha, the Agagite, elevating him to a position above all the princes who were with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.23|<< Esther 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.2|Esther 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 15:32** 
 <small><sub>**LXX:**</sub></small>
 The one who thrusts away instruction detests himself; but the one giving heed to reproofs loves his life. 
-<small><sub>**KJV:**</sub></small>
-He that refuseth instruction despiseth his own soul: but he that heareth reproof getteth understanding.
-<small><sub>**BSB:**</sub></small>
-He who ignores discipline despises himself, but whoever heeds correction gains understanding.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.31|<< Proverbs 15:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.33|Proverbs 15:33 >>]]</td></tr></table>
 
 | Translation | Greek |

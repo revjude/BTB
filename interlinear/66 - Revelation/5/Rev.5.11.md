@@ -1,5 +1,5 @@
-**Revelation 5:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 5:11**<big><big>[[Rev.5.11 The Lamb Exalted|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;
 <small><sub>**BSB:**</sub></small>
 Then I looked, and I heard the voices of many angels encircling the throne, and the living creatures and the elders. And their number was myriads of myriads and thousands of thousands.
@@ -10,7 +10,7 @@ And I looked and I heard like [the] voice of angels many surrounding the throne 
 > $\quad$ possibly alluding to: [[LXX.Dan.7.10|Dan 7:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I looked |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 33:8** 
+**Jeremiah 33:8**<big><big>[[Jer.33.1 The Excellence of the Restored Nation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will cleanse them from all their iniquity, whereby they have sinned against me; and I will pardon all their iniquities, whereby they have sinned, and whereby they have transgressed against me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will cleanse them from all the iniquity they have committed against Me, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.7|<< Jeremiah 33:7]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.9|Jeremiah 33:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will cleanse them  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2891\|טִ֣הַרְתִּ֔י]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ti.har.Ti<small><sup>[[HVpq1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from all  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

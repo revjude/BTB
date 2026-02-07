@@ -1,4 +1,4 @@
-**Jeremiah 41:17** 
+**Jeremiah 41:17**<big><big>[[Jer.41.11 Johanan Rescues the Captives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they departed, and dwelt in the habitation of Chimham, which is by Bethlehem, to go to enter into Egypt,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they went and stayed in Geruth Chimham, near Bethlehem, in order to proceed 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.16|<< Jeremiah 41:16]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.18|Jeremiah 41:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּלְכ֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.le.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they remained  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|יֵּֽשְׁבוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.she.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

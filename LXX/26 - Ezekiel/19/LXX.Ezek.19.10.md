@@ -1,10 +1,7 @@
 **LXX Ezekiel 19:10** 
 <small><sub>**LXX:**</sub></small>
  Your mother \[was\] as a vine, as a flower of a pomegranate being planted by water;  her fruit and  her bud took place because of much water. 
-<small><sub>**KJV:**</sub></small>
-Thy mother [is] like a vine in thy blood, planted by the waters: she was fruitful and full of branches by reason of many waters.
-<small><sub>**BSB:**</sub></small>
-Your mother was like a vine in your vineyard, planted by the water; it was fruitful and full of branches because of the abundant waters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.9|<< Ezekiel 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.11|Ezekiel 19:11 >>]]</td></tr></table>
 
 | Translation | Greek |

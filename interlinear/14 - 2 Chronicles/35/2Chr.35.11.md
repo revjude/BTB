@@ -1,4 +1,4 @@
-**2 Chronicles 35:11** 
+**2 Chronicles 35:11**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they killed the passover, and the priests sprinkled [the blood] from their hands, and the Levites flayed [them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they slaughtered the Passover lambs, while the priests splattered the blood 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.10|<< 2 Chronicles 35:10]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.12|2 Chronicles 35:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they slaughtered  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7819A\|יִּשְׁחֲט֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.cha.Tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the passover  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6453\|פָּ֑סַח]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Pa.sach<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

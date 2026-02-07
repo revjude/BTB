@@ -1,5 +1,5 @@
-**Mark 13:12
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:12**<big><big>[[Mark.13.9 Witnessing to All Nations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now the brother shall betray the brother to death, and the father the son; and children shall rise up against [their] parents, and shall cause them to be put to death.
 <small><sub>**BSB:**</sub></small>
 Brother will betray brother to death, and a father his child. Children will rise against their parents and have them put to death.
@@ -10,7 +10,7 @@ And will deliver up now brother brother to death and father child, and will rise
 > $\quad$ alluding to: [[LXX.Mic.7.6|Mic 7:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | will deliver up |**<big>[[G3860\|παραδώσει]]</big>**  |paradōsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

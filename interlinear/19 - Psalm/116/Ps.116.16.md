@@ -1,4 +1,4 @@
-**Psalms 116:16** 
+**Psalms 116:16**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, truly I [am] thy servant; I [am] thy servant, [and] the son of thine handmaid: thou hast loosed my bonds.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Truly, O LORD, I am Your servant; I am Your servant, the son of Your maidservant
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.15|<< Psalms 116:15]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.17|Psalms 116:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I beg you  |**<big>&#8207;[[H0577\|אָֽנָּ֣ה]]&#8207; </big>**| 'a.Nah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

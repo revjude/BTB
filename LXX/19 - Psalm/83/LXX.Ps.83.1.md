@@ -6,10 +6,7 @@ An ode of a psalm \[to\] Asaph.
 
 <small><sub>**LXX:**</sub></small>
 O God, who is likened to you? You should not keep quiet, nor soothe, O God. 
-<small><sub>**KJV:**</sub></small>
-A Song [or] Psalm of Asaph. Keep not thou silence, O God: hold not thy peace, and be not still, O God.
-<small><sub>**BSB:**</sub></small>
-A song. A Psalm of Asaph. O God, be not silent; be not speechless; be not still, O God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.83.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.82.8|<< Psalm 82:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.2|Psalm 83:2 >>]]</td></tr></table>
 
 | Translation | Greek |

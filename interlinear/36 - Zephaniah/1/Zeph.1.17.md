@@ -1,4 +1,4 @@
-**Zephaniah 1:17** 
+**Zephaniah 1:17**<big><big>[[Zeph.1.7 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring distress upon men, that they shall walk like blind men, because they have sinned against the LORD: and their blood shall be poured out as dust, and their flesh as the dung.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will bring such distress on mankind that they will walk like the blind, becaus
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.16|<< Zephaniah 1:16]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.18|Zephaniah 1:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will cause distress  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6887B\|הֲצֵרֹ֣תִי]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.tze.Ro.ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> humankind  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0120G\|אָדָ֗ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 14:12** 
+**Isaiah 14:12**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How art thou fallen from heaven, O Lucifer, son of the morning! [how] art thou cut down to the ground, which didst weaken the nations!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How you have fallen from heaven, O day star, son of the dawn! You have been cut 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.11|<< Isaiah 14:11]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.13|Isaiah 14:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H0349A\|אֵ֛יךְ]]&#8207; </big>**| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have fallen  |**<big>&#8207;[[H5307G\|נָפַ֥לְתָּ]]&#8207; </big>**| na.Fal.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

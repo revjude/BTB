@@ -1,10 +1,7 @@
 **LXX Numbers 16:17** 
 <small><sub>**LXX:**</sub></small>
 And each take  his censer! and you shall put incense upon them, and each shall bring before \[the\] <span class="smallcaps">lord</span>  his censer, fifty and two hundred censers; and you and Aaron each  \[shall bring\] his censer. 
-<small><sub>**KJV:**</sub></small>
-And take every man his censer, and put incense in them, and bring ye before the LORD every man his censer, two hundred and fifty censers; thou also, and Aaron, each [of you] his censer.
-<small><sub>**BSB:**</sub></small>
-Each man is to take his censer, place incense in it, and present it before the LORD—250 censers. You and Aaron are to present your censers as well.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.16|<< Numbers 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.18|Numbers 16:18 >>]]</td></tr></table>
 
 | Translation | Greek |

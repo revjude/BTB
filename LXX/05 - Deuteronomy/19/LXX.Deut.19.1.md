@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 But whenever \[the\] <span class="smallcaps">lord</span> your God should remove from view the nations which  your God gives to you  of their land, and you should inherit them, and should dwell in  their cities, and in  their houses; 
-<small><sub>**KJV:**</sub></small>
-When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;
-<small><sub>**BSB:**</sub></small>
-When the LORD your God has cut off the nations whose land He is giving you, and when you have driven them out and settled in their cities and houses,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.22|<< Deuteronomy 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.2|Deuteronomy 19:2 >>]]</td></tr></table>
 
 | Translation | Greek |

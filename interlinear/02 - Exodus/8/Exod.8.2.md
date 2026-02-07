@@ -1,4 +1,4 @@
-**Exodus 8:2** (7:27)
+**Exodus 8:2**<big><big>[[Exod.8.1 The Second Plague：Frogs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thou refuse to let [them] go, behold, I will smite all thy borders with frogs:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if you refuse to let them go, I will plague your whole country with frogs.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.1|<< Exodus 8:1]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.3|Exodus 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] refusing  |**<big>&#8207;[[H3986\|מָאֵ֥ן]]&#8207; </big>**| ma.'En<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

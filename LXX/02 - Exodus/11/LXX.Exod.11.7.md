@@ -1,10 +1,7 @@
 **LXX Exodus 11:7** 
 <small><sub>**LXX:**</sub></small>
 But among all the sons of Israel there shall not growl \[even a\] dog \[with\] \[its\] tongue, from man unto beast; so that you may see as much as \[the\] <span class="smallcaps">lord</span> does an incredible thing between the Egyptians and  Israel. 
-<small><sub>**KJV:**</sub></small>
-But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the LORD doth put a difference between the Egyptians and Israel.
-<small><sub>**BSB:**</sub></small>
-But among all the Israelites, not even a dog will snarl at man or beast.’ Then you will know that the LORD makes a distinction between Egypt and Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.11.6|<< Exodus 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.11.8|Exodus 11:8 >>]]</td></tr></table>
 
 | Translation | Greek |

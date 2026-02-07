@@ -1,10 +1,7 @@
 **LXX Proverbs 23:19** 
 <small><sub>**LXX:**</sub></small>
 Hear, O son, and be wise, and straighten out the reflections of your heart! 
-<small><sub>**KJV:**</sub></small>
-Hear thou, my son, and be wise, and guide thine heart in the way.
-<small><sub>**BSB:**</sub></small>
-Listen, my son, and be wise, and guide your heart on the right course.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.18|<< Proverbs 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.20|Proverbs 23:20 >>]]</td></tr></table>
 
 | Translation | Greek |

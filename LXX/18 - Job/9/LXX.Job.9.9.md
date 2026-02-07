@@ -1,10 +1,7 @@
 **LXX Job 9:9** 
 <small><sub>**LXX:**</sub></small>
 The one making Pleiades and Hesperus and Arcturus, and \[the\] chambers of \[the\] south. 
-<small><sub>**KJV:**</sub></small>
-Which maketh Arcturus, Orion, and Pleiades, and the chambers of the south.
-<small><sub>**BSB:**</sub></small>
-He is the Maker of the Bear and Orion, of the Pleiades and the constellations of the south.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.8|<< Job 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.10|Job 9:10 >>]]</td></tr></table>
 
 | Translation | Greek |

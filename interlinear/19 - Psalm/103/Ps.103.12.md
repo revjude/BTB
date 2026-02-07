@@ -1,4 +1,4 @@
-**Psalms 103:12** 
+**Psalms 103:12**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As far as the east is from the west, [so] far hath he removed our transgressions from us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As far as the east is from the west, so far has He removed our transgressions fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.11|<< Psalms 103:11]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.13|Psalms 103:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as is far away  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H7368\|רְחֹ֣ק]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> r.Chok<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | east  |**<big>&#8207;[[H4217H\|מִ֭זְרָח]]&#8207; </big>**| Miz.roch<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

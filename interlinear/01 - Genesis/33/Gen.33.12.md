@@ -1,4 +1,4 @@
-**Genesis 33:12** 
+**Genesis 33:12**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Let us take our journey, and let us go, and I will go before thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Esau said, “Let us be on our way, and I will go ahead of you.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.11|<< Genesis 33:11]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.13|Genesis 33:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֖אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let us set out  |**<big>&#8207;[[H5265\|נִסְעָ֣ה]]&#8207; </big>**| nis.'Ah<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

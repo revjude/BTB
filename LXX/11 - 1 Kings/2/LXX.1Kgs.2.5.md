@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:5** 
 <small><sub>**LXX:**</sub></small>
 And now you know what Joab son of Zeruiah did to me, and what he did to the two rulers of the forces of Israel --  Abner son of Ner, and  Amasa son of Jether; and he killed them, and ordered up the blood of war for peace, and put innocent blood on  his belt, the one on  his loin, and on  his sandal, the one on  his foot. 
-<small><sub>**KJV:**</sub></small>
-Moreover thou knowest also what Joab the son of Zeruiah did to me, [and] what he did to the two captains of the hosts of Israel, unto Abner the son of Ner, and unto Amasa the son of Jether, whom he slew, and shed the blood of war in peace, and put the blood of war upon his girdle that [was] about his loins, and in his shoes that [were] on his feet.
-<small><sub>**BSB:**</sub></small>
-Moreover, you know what Joab son of Zeruiah did to me—what he did to Abner son of Ner and Amasa son of Jether, the two commanders of the armies of Israel. He killed them in peacetime to avenge the blood of war. He stained with the blood of war the belt around his waist and the sandals on his feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.4|<< 1 Kings 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.6|1 Kings 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

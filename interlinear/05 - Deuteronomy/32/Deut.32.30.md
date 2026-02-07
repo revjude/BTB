@@ -1,4 +1,4 @@
-**Deuteronomy 32:30** 
+**Deuteronomy 32:30**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How should one chase a thousand, and two put ten thousand to flight, except their Rock had sold them, and the LORD had shut them up?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How could one man pursue a thousand, or two put ten thousand to flight, unless t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.29|<< Deuteronomy 32:29]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.31|Deuteronomy 32:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how?  |**<big>&#8207;[[H0349B\|אֵיכָ֞ה]]&#8207; </big>**| 'ei.Khah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he pursue  |**<big>&#8207;[[H7291\|יִרְדֹּ֤ף]]&#8207; </big>**| yir.Dof<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

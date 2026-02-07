@@ -1,12 +1,10 @@
-**Psalms 75:0** (75:1)
+**Psalms 75:0**<big><big>[[Ps.75.1 God’s Righteous Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, Altaschith, A Psalm [or] Song of Asaph. Unto thee, O God, do we give thanks, [unto thee] do we give thanks: for [that] thy name is near thy wondrous works declare.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster: To the tune of “Do Not Destroy.” A Psalm of Asaph. A song. We give thanks to You, O God; we give thanks, for Your Name is near. The people declare Your wondrous works.
+To the chief Musician, Altaschith, A Psalm [or] Song of Asaph.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.75.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.23|<< Psalms 74:23]]</td><td align="center" style="border:none;">[[Ps.75|Psalms 75]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.75.1|Psalms 75:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the choirmaster  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5329\|מְנַצֵּ֥חַ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> m.na.Tze.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | al-  |**<big>&#8207;[[H0516\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

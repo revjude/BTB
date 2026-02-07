@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:8** 
 <small><sub>**LXX:**</sub></small>
 But as \[the\] <span class="smallcaps">lord</span> lives, who led up and gathered all together the seed of Israel from \[the\] land of \[the\] north, and from all the places of which they were pushed there; and he restored them unto  their land. 
-<small><sub>**KJV:**</sub></small>
-But, The LORD liveth, which brought up and which led the seed of the house of Israel out of the north country, and from all countries whither I had driven them; and they shall dwell in their own land.
-<small><sub>**BSB:**</sub></small>
-Instead they will say, ‘As surely as the LORD lives, who brought and led the descendants of the house of Israel up out of the land of the north and all the other lands to which He had banished them.’ Then they will dwell once more in their own land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.7|<< Jeremiah 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.9|Jeremiah 23:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 31:2** (31:3)
+**Psalms 31:2**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Incline Your ear to me; come quickly to my rescue. Be my rock of refuge, the str
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.1|<< Psalms 31:1]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.3|Psalms 31:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | incline  |**<big>&#8207;[[H5186\|הַטֵּ֤ה]]&#8207; </big>**| ha.Teh<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֨]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

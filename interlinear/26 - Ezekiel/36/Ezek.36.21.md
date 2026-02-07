@@ -1,4 +1,4 @@
-**Ezekiel 36:21** 
+**Ezekiel 36:21**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I had pity for mine holy name, which the house of Israel had profaned among the heathen, whither they went.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But I had concern for My holy name, which the house of Israel had profaned among
 > $\quad$ referenced by: [[Rom.2.24|Rom 2:24]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I showed pity  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H2550\|אֶחְמֹ֖ל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'ech.Mol<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

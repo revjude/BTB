@@ -1,4 +1,4 @@
-**Micah 7:20** 
+**Micah 7:20**<big><big>[[Mic.7.14 God’s Compassion on Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou wilt perform the truth to Jacob, [and] the mercy to Abraham, which thou hast sworn unto our fathers from the days of old.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will show faithfulness to Jacob and loving devotion to Abraham, as You swore
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.19|<< Micah 7:19]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.1|Nahum 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you will give  |**<big>&#8207;[[H5414P\|תִּתֵּ֤ן]]&#8207; </big>**| ti.Ten<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | faithfulness  |**<big>&#8207;[[H0571G\|אֱמֶת֙]]&#8207; </big>**| 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

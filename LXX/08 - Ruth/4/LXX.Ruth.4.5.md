@@ -1,10 +1,7 @@
 **LXX Ruth 4:5** 
 <small><sub>**LXX:**</sub></small>
 And Boaz said, In \[the\] day  you acquire the field from \[the\] hand of Naomi, also of Ruth the Moabitess, wife of the one having died, even she you must acquire, so as to raise up the name of the one having died, for  his inheritance. 
-<small><sub>**KJV:**</sub></small>
-Then said Boaz, What day thou buyest the field of the hand of Naomi, thou must buy [it] also of Ruth the Moabitess, the wife of the dead, to raise up the name of the dead upon his inheritance.
-<small><sub>**BSB:**</sub></small>
-Then Boaz said, “On the day you buy the land from Naomi and also from Ruth the Moabitess, you must also acquire the widow of the deceased in order to raise up the name of the deceased on his inheritance.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.4|<< Ruth 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.6|Ruth 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

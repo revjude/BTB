@@ -1,4 +1,4 @@
-**Deuteronomy 11:15** 
+**Deuteronomy 11:15**<big><big>[[Deut.11.8 God’s Great Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will send grass in thy fields for thy cattle, that thou mayest eat and be full.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will provide grass in the fields for your livestock, and you will eat and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.14|<< Deuteronomy 11:14]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.16|Deuteronomy 11:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will give  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתַתִּ֛י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | grass  |**<big>&#8207;[[H6212\|עֵ֥שֶׂב]]&#8207; </big>**| 'E.sev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

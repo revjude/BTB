@@ -1,4 +1,4 @@
-**Judges 5:11** 
+**Judges 5:11**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [They that are delivered] from the noise of archers in the places of drawing water, there shall they rehearse the righteous acts of the LORD, [even] the righteous acts [toward the inhabitants] of his villages in Israel: then shall the people of the LORD go down to the gates.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the voices of the singers at the watering places. There they shall recount the r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.10|<< Judges 5:10]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.12|Judges 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] sound of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6963H\|קּ֣וֹל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | archers  |**<big>&#8207;[[H2686B\|מְחַֽצְצִ֗ים]]&#8207; </big>**| me.cha.Tzim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

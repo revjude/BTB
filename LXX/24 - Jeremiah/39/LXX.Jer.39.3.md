@@ -1,10 +1,7 @@
 **LXX Jeremiah 39:3** 
 <small><sub>**LXX:**</sub></small>
 And all the governors of \[the\] king of Babylon entered and sat at \[the\] gate, the \[one\] in the middle, Nergal-sharezer, Samgar, and Nebo-sarsechim, and Nebu-sarkes and Nergal, Sharezer, Rab-mag, and the rest of \[the\] governors of \[the\] king of Babylon. 
-<small><sub>**KJV:**</sub></small>
-And all the princes of the king of Babylon came in, and sat in the middle gate, [even] Nergalsharezer, Samgarnebo, Sarsechim, Rabsaris, Nergalsharezer, Rabmag, with all the residue of the princes of the king of Babylon.
-<small><sub>**BSB:**</sub></small>
-Then all the officials of the king of Babylon entered and sat in the Middle Gate: Nergal-sharezer of Samgar, Nebo-sarsekim the Rabsaris, Nergal-sharezer the Rabmag, and all the rest of the officials of the king of Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.39.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.2|<< Jeremiah 39:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.4|Jeremiah 39:4 >>]]</td></tr></table>
 
 | Translation | Greek |

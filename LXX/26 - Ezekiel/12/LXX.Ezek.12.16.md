@@ -1,10 +1,7 @@
 **LXX Ezekiel 12:16** 
 <small><sub>**LXX:**</sub></small>
 And I will leave of them a \[few\] men in number from \[the\] broadsword, and from famine, and from plague; so even they may tell in detail all  their lawless deeds among the nations of which they entered there; and they shall know that I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But I will leave a few men of them from the sword, from the famine, and from the pestilence; that they may declare all their abominations among the heathen whither they come; and they shall know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-But I will spare a few of them from sword and famine and plague, so that in the nations to which they go, they can recount all their abominations. Then they will know that I am the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.15|<< Ezekiel 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.17|Ezekiel 12:17 >>]]</td></tr></table>
 
 | Translation | Greek |

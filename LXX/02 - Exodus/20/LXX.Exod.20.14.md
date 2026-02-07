@@ -1,10 +1,7 @@
 **LXX Exodus 20:14** 
 <small><sub>**LXX:**</sub></small>
 You shall not commit adultery. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not commit adultery.
-<small><sub>**BSB:**</sub></small>
-You shall not commit adultery.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.13|<< Exodus 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.15|Exodus 20:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 20:14** is...

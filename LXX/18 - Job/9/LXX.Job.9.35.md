@@ -1,10 +1,7 @@
 **LXX Job 9:35** 
 <small><sub>**LXX:**</sub></small>
 and in no way shall I fear, but I will speak, for I am not thus conscious \[of guilt\]. 
-<small><sub>**KJV:**</sub></small>
-[Then] would I speak, and not fear him; but [it is] not so with me.
-<small><sub>**BSB:**</sub></small>
-Then I would speak without fear of Him. But as it is, I am on my own.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.34|<< Job 9:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.1|Job 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

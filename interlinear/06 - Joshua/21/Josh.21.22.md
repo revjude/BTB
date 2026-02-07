@@ -1,4 +1,4 @@
-**Joshua 21:22** 
+**Joshua 21:22**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Kibzaim with her suburbs, and Bethhoron with her suburbs; four cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Kibzaim, and Beth-horon—four cities, together with their pasturelands.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.21|<< Joshua 21:21]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.23|Joshua 21:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Kibzaim  |**<big>&#8207;[[H6911\|קִבְצַ֙יִם֙]]&#8207; </big>**| kiv.Tza.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

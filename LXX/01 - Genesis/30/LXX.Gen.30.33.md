@@ -1,10 +1,7 @@
 **LXX Genesis 30:33** 
 <small><sub>**LXX:**</sub></small>
 And my righteousness will take heed to me in the next day; for my wage is before you -- all which might not be speckled and white-mixed among the goats, and gray among the rams, will be \[as\] stolen by me. 
-<small><sub>**KJV:**</sub></small>
-So shall my righteousness answer for me in time to come, when it shall come for my hire before thy face: every one that [is] not speckled and spotted among the goats, and brown among the sheep, that shall be counted stolen with me.
-<small><sub>**BSB:**</sub></small>
-So my honesty will testify for me when you come to check on my wages in the future. If I have any goats that are not speckled or spotted, or any lambs that are not dark-colored, they will be considered stolen.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.32|<< Genesis 30:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.34|Genesis 30:34 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Esther 9:10** 
 <small><sub>**LXX:**</sub></small>
 even the ten sons of Haman, \[son of\] Hammedatha \[the\] Bougean, the enemy of the Jews; but they plundered not in \[that\]  day. 
-<small><sub>**KJV:**</sub></small>
-The ten sons of Haman the son of Hammedatha, the enemy of the Jews, slew they; but on the spoil laid they not their hand.
-<small><sub>**BSB:**</sub></small>
-They killed these ten sons of Haman son of Hammedatha, the enemy of the Jews, but they did not lay a hand on the plunder.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.9|<< Esther 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.11|Esther 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

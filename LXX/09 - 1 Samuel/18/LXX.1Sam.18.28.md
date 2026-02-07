@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:28** 
 <small><sub>**LXX:**</sub></small>
 And Saul beheld and knew that \[the\] <span class="smallcaps">lord</span> \[was\] with David. And Michal  his daughter and all Israel loved him. 
-<small><sub>**KJV:**</sub></small>
-And Saul saw and knew that the LORD [was] with David, and [that] Michal Saul’s daughter loved him.
-<small><sub>**BSB:**</sub></small>
-When Saul realized that the LORD was with David and that his daughter Michal loved David,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.27|<< 1 Samuel 18:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.29|1 Samuel 18:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 5:7** 
 <small><sub>**LXX:**</sub></small>
 But a man is born to toil, and \[the\] young eagles to fly the high \[places\]; 
-<small><sub>**KJV:**</sub></small>
-Yet man is born unto trouble, as the sparks fly upward.
-<small><sub>**BSB:**</sub></small>
-Yet man is born to trouble as surely as sparks fly upward.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.6|<< Job 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.8|Job 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

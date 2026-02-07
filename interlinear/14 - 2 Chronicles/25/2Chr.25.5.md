@@ -1,4 +1,4 @@
-**2 Chronicles 25:5** 
+**2 Chronicles 25:5**<big><big>[[2Chr.25.5 Amaziah’s Victories|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover Amaziah gathered Judah together, and made them captains over thousands, and captains over hundreds, according to the houses of [their] fathers, throughout all Judah and Benjamin: and he numbered them from twenty years old and above, and found them three hundred thousand choice [men, able] to go forth to war, that could handle spear and shield.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Amaziah gathered the people of Judah and assigned them according to their f
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.4|<< 2 Chronicles 25:4]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.6|2 Chronicles 25:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he assembled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6908\|יִּקְבֹּ֤ץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Botz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Amaziah  |**<big>&#8207;[[H0558G\|אֲמַצְיָ֙הוּ֙]]&#8207; </big>**| 'a.matz.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:16** 
 <small><sub>**LXX:**</sub></small>
 And Maachah the wife of Machir bore a son, and she called  his name Peresh; and \[the\] name \[given to\] his brother \[was\] Sheresh; and his sons -- Ulam and Rakem. 
-<small><sub>**KJV:**</sub></small>
-And Maachah the wife of Machir bare a son, and she called his name Peresh; and the name of his brother [was] Sheresh; and his sons [were] Ulam and Rakem.
-<small><sub>**BSB:**</sub></small>
-Machir’s wife Maacah gave birth to a son, and she named him Peresh. His brother was named Sheresh, and his sons were Ulam and Rekem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.15|<< 1 Chronicles 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.17|1 Chronicles 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

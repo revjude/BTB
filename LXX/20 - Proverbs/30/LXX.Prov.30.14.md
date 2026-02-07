@@ -1,10 +1,7 @@
 **LXX Proverbs 30:14** 
 <small><sub>**LXX:**</sub></small>
 A bad progeny has swords for teeth, and the molars \[as\] pruning knives, so as to consume the weak from the earth, and the needy of them from \[among\] men. 
-<small><sub>**KJV:**</sub></small>
-[There is] a generation, whose teeth [are as] swords, and their jaw teeth [as] knives, to devour the poor from off the earth, and the needy from [among] men.
-<small><sub>**BSB:**</sub></small>
-there is a generation whose teeth are swords and whose jaws are knives, devouring the oppressed from the earth and the needy from among men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.30.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.13|<< Proverbs 30:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.15|Proverbs 30:15 >>]]</td></tr></table>
 
 | Translation | Greek |

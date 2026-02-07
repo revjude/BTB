@@ -1,4 +1,4 @@
-**Numbers 13:22** 
+**Numbers 13:22**<big><big>[[Num.13.1 The Spies Explore Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, [were]. (Now Hebron was built seven years before Zoan in Egypt.)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They went up through the Negev and came to Hebron, where Ahiman, Sheshai, and Ta
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.21|<< Numbers 13:21]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.23|Numbers 13:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּעֲל֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the Negev  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H5045G\|נֶּגֶב֮]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> ne.Gev<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Hosea 14:1** (14:2)
+**Hosea 14:1**<big><big>[[Hos.14.1 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Israel, return unto the LORD thy God; for thou hast fallen by thine iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Return, O Israel, to the LORD your God, for you have stumbled by your iniquity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.16|<< Hosea 13:16]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.2|Hosea 14:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | return !  |**<big>&#8207;[[H7725G\|שׁ֚וּבָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| Shu.va<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 8:8** 
 <small><sub>**LXX:**</sub></small>
 And he sent the dove after it to see if the water abated from the earth. 
-<small><sub>**KJV:**</sub></small>
-Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;
-<small><sub>**BSB:**</sub></small>
-Then Noah sent out a dove to see if the waters had receded from the surface of the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.7|<< Genesis 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.9|Genesis 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

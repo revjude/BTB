@@ -1,12 +1,12 @@
-**Matthew 24:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:7**<big><big>[[Matt.24.1 Temple Destruction and Other Signs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For nation shall rise against nation, and kingdom against kingdom: and there shall be famines, and pestilences, and earthquakes, in divers places.
 <small><sub>**BSB:**</sub></small>
 Nation will rise against nation, and kingdom against kingdom. There will be famines and earthquakes in various places.
 <small><sub>**Literal:**</sub></small>
 Will rise up for nation against nation and kingdom against kingdom, and there will be famines and pestilences and earthquakes in [various] places.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.6|<< Matthew 24:6]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.8|Matthew 24:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Will rise up |**<big>[[G1453\|Ἐγερθήσεται]]</big>**  |Egerthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

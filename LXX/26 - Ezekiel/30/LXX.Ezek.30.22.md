@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:22** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says Adonai \[the\] <span class="smallcaps">lord</span>; Behold, I \[am\] against Pharaoh king of Egypt, and I will break  his arms, the strong, and the ones being broken; and I will throw down  his sword from out of  his hand. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; Behold, I [am] against Pharaoh king of Egypt, and will break his arms, the strong, and that which was broken; and I will cause the sword to fall out of his hand.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: Behold, I am against Pharaoh king of Egypt. I will break his arms, both the strong one and the one already broken, and will make the sword fall from his hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.21|<< Ezekiel 30:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.23|Ezekiel 30:23 >>]]</td></tr></table>
 
 | Translation | Greek |

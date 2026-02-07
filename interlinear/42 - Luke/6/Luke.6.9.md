@@ -1,12 +1,12 @@
-**Luke 6:9
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:9**<big><big>[[Luke.6.6 Jesus Heals on the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Jesus unto them, I will ask you one thing; Is it lawful on the sabbath days to do good, or to do evil? to save life, or to destroy [it]?
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to them, “I ask you, which is lawful on the Sabbath: to do good or to do evil, to save life or to destroy it?”
 <small><sub>**Literal:**</sub></small>
 Said then <the> Jesus to them; I ask you if it is lawful on the Sabbath to do good or to do evil? Life to save or to destroy?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.8|<< Luke 6:8]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.10|Luke 6:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

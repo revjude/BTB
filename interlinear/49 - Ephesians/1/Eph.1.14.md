@@ -1,12 +1,12 @@
-**Ephesians 1:14
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 1:14**<big><big>[[Eph.1.3 Spiritual Blessings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.
 <small><sub>**BSB:**</sub></small>
 who is the pledge of our inheritance until the redemption of those who are God’s possession, to the praise of His glory.
 <small><sub>**Literal:**</sub></small>
 who is [the] guarantee of the inheritance of us to [the] redemption of the acquired [possession] to [the] praise of the glory of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.13|<< Ephesians 1:13]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.15|Ephesians 1:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who [^1] |**<big>[[G3739\|ὅ]]</big>**  |ho <small><sup>[[R-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
 | is |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

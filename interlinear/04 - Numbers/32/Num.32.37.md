@@ -1,4 +1,4 @@
-**Numbers 32:37** 
+**Numbers 32:37**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Reubenites built up Heshbon, Elealeh, Kiriathaim,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.36|<< Numbers 32:36]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.38|Numbers 32:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] descendants of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121G\|בְנֵ֤י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Reuben  |**<big>&#8207;[[H7205\|רְאוּבֵן֙]]&#8207; </big>**| re.'u.Ven<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 6:32
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:32**<big><big>[[Matt.6.25 Do Not Worry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things.
 <small><sub>**BSB:**</sub></small>
 For the Gentiles strive after all these things, and your heavenly Father knows that you need them.
 <small><sub>**Literal:**</sub></small>
 All for these things the Gentiles seek after; knows for the Father of you <the> Heavenly that you need of them all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.31|<< Matthew 6:31]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.33|Matthew 6:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All |**<big>[[G3956\|πάντα]]</big>**  |panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

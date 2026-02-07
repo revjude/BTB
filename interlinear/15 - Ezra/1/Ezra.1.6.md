@@ -1,4 +1,4 @@
-**Ezra 1:6** 
+**Ezra 1:6**<big><big>[[Ezra.1.1 The Proclamation of Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all they that [were] about them strengthened their hands with vessels of silver, with gold, with goods, and with beasts, and with precious things, beside all [that] was willingly offered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And all their neighbors supported them with articles of silver and gold, with go
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.1.5|<< Ezra 1:5]]</td><td align="center" style="border:none;">[[Ezra.1|Ezra 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.1.7|Ezra 1:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | around them  |**<big>&#8207;[[H5439G\|סְבִיבֹֽתֵי]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| se.vi.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

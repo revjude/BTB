@@ -1,12 +1,12 @@
-**Acts 12:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:5**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him.
 <small><sub>**BSB:**</sub></small>
 So Peter was kept in prison, but the church was fervently praying to God for him.
 <small><sub>**Literal:**</sub></small>
 <the> Indeed therefore Peter was kept in the prison; prayer however was fervently being made by the church to <the> God concerning him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.4|<< Acts 12:4]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.6|Acts 12:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

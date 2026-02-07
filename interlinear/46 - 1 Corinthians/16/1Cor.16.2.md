@@ -1,12 +1,12 @@
-**1 Corinthians 16:2
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:2**<big><big>[[1Cor.16.1 The Collection for the Saints|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Upon the first [day] of the week let every one of you lay by him in store, as [God] hath prospered him, that there be no gatherings when I come.
 <small><sub>**BSB:**</sub></small>
 On the first day of every week, each of you should set aside a portion of his income, saving it up, so that when I come no collections will be needed.
 <small><sub>**Literal:**</sub></small>
 Every first Sabbath each of you aside of his own  should put treasuring up which one maybe he shall be successful, so that not when I may come then collections there may be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.1|<< 1 Corinthians 16:1]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.3|1 Corinthians 16:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Every |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | first |**<big>[[G1520\|μίαν]]</big>**  |mian <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

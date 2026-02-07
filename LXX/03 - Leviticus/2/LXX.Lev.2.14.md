@@ -1,10 +1,7 @@
 **LXX Leviticus 2:14** 
 <small><sub>**LXX:**</sub></small>
 And if you should bring a sacrifice of first produce to the <span class="smallcaps">lord</span>, \[it shall be\] new parched ground green wheat to the <span class="smallcaps">lord</span>. And \[thus\] shall you bring the sacrifice of the first produce. 
-<small><sub>**KJV:**</sub></small>
-And if thou offer a meat offering of thy firstfruits unto the LORD, thou shalt offer for the meat offering of thy firstfruits green ears of corn dried by the fire, [even] corn beaten out of full ears.
-<small><sub>**BSB:**</sub></small>
-If you bring a grain offering of firstfruits to the LORD, you shall offer crushed heads of new grain roasted on the fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.13|<< Leviticus 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.15|Leviticus 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 35:14** 
 <small><sub>**LXX:**</sub></small>
  Three cities you shall appoint on the other side of the Jordan, and  three cities you shall appoint in \[the\] land of Canaan. 
-<small><sub>**KJV:**</sub></small>
-Ye shall give three cities on this side Jordan, and three cities shall ye give in the land of Canaan, [which] shall be cities of refuge.
-<small><sub>**BSB:**</sub></small>
-Select three cities across the Jordan and three in the land of Canaan as cities of refuge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.13|<< Numbers 35:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.15|Numbers 35:15 >>]]</td></tr></table>
 
 | Translation | Greek |

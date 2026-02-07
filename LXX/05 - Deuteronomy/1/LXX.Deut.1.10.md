@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:10** 
 <small><sub>**LXX:**</sub></small>
 \[the\] <span class="smallcaps">lord</span>  your God multiplied you. And behold, you are today as the stars of the heaven \[in\] multitude. 
-<small><sub>**KJV:**</sub></small>
-The LORD your God hath multiplied you, and, behold, ye [are] this day as the stars of heaven for multitude.
-<small><sub>**BSB:**</sub></small>
-The LORD your God has multiplied you, so that today you are as numerous as the stars in the sky.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.9|<< Deuteronomy 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.11|Deuteronomy 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

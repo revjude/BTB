@@ -1,10 +1,7 @@
 **LXX Psalm 141:6** 
 <small><sub>**LXX:**</sub></small>
 Their judges were swallowed down next to \[the\] rock. They shall hear  my sayings, for they are a delight. 
-<small><sub>**KJV:**</sub></small>
-When their judges are overthrown in stony places, they shall hear my words; for they are sweet.
-<small><sub>**BSB:**</sub></small>
-When their rulers are thrown down from the cliffs, the people will listen to my words, for they are pleasant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.141.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.141.5|<< Psalm 141:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.141.7|Psalm 141:7 >>]]</td></tr></table>
 
 | Translation | Greek |

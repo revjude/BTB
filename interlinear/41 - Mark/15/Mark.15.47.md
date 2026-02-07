@@ -1,12 +1,12 @@
-**Mark 15:47
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:47**<big><big>[[Mark.15.42 The Burial of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Mary Magdalene and Mary [the mother] of Joses beheld where he was laid.
 <small><sub>**BSB:**</sub></small>
 Mary Magdalene and Mary the mother of Joseph saw where His body was placed.
 <small><sub>**Literal:**</sub></small>
 <the> And Mary <the> Magdalene and Mary the [mother] of Joses were watching where He has been laid.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.46|<< Mark 15:46]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.1|Mark 16:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

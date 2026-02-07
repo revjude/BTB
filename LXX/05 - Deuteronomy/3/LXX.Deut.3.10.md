@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:10** 
 <small><sub>**LXX:**</sub></small>
 All \[the\] cities of Misor, and all Gilead, and all Bashan unto Salchah and Edrei -- cities of \[the\] kingdom  of Og in  Bashan. 
-<small><sub>**KJV:**</sub></small>
-All the cities of the plain, and all Gilead, and all Bashan, unto Salchah and Edrei, cities of the kingdom of Og in Bashan.
-<small><sub>**BSB:**</sub></small>
-all the cities of the plateau, all of Gilead, and all of Bashan as far as the cities of Salecah and Edrei in the kingdom of Og.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.9|<< Deuteronomy 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.11|Deuteronomy 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

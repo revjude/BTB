@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:4** 
 <small><sub>**LXX:**</sub></small>
 And Judah gathered to seek after the <span class="smallcaps">lord</span>; and they came from all the cities of Judah to seek the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Judah gathered themselves together, to ask [help] of the LORD: even out of all the cities of Judah they came to seek the LORD.
-<small><sub>**BSB:**</sub></small>
-So the people of Judah gathered to seek the LORD, and indeed, they came from all the cities of Judah to seek Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.3|<< 2 Chronicles 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.5|2 Chronicles 20:5 >>]]</td></tr></table>
 
 | Translation | Greek |

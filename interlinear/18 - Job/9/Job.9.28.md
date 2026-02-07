@@ -1,4 +1,4 @@
-**Job 9:28** 
+**Job 9:28**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am afraid of all my sorrows, I know that thou wilt not hold me innocent.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I would still dread all my sufferings; I know that You will not acquit me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.27|<< Job 9:27]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.29|Job 9:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I dread  |**<big>&#8207;[[H3025\|יָגֹ֥רְתִּי]]&#8207; </big>**| ya.Go.re.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

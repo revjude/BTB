@@ -1,4 +1,4 @@
-**Psalms 44:20** (44:21)
+**Psalms 44:20**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If we have forgotten the name of our God, or stretched out our hands to a strange god;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If we had forgotten the name of our God or spread out our hands to a foreign god
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.19|<< Psalms 44:19]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.21|Psalms 44:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'i.mo.Sha-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we had forgotten  |**<big>&#8207;[[H7911\|שָׁ֭כַחְנוּ]]&#8207; </big>**| Sha.khach.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

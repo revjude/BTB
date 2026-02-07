@@ -1,10 +1,7 @@
 **LXX Job 34:13** 
 <small><sub>**LXX:**</sub></small>
 And who is the one acting  under heaven, and all the \[things\] being \[in it\]? 
-<small><sub>**KJV:**</sub></small>
-Who hath given him a charge over the earth? or who hath disposed the whole world?
-<small><sub>**BSB:**</sub></small>
-Who gave Him charge over the earth? Who appointed Him over the whole world?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.12|<< Job 34:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.14|Job 34:14 >>]]</td></tr></table>
 
 | Translation | Greek |

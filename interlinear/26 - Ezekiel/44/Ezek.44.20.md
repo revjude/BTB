@@ -1,4 +1,4 @@
-**Ezekiel 44:20** 
+**Ezekiel 44:20**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall they shave their heads, nor suffer their locks to grow long; they shall only poll their heads.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They must not shave their heads or let their hair grow long, but must carefully 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.19|<< Ezekiel 44:19]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.21|Ezekiel 44:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and head their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7218A\|רֹאשָׁ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ro.Sha<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

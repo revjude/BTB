@@ -1,4 +1,4 @@
-**1 Samuel 3:16** 
+**1 Samuel 3:16**<big><big>[[1Sam.3.15 Samuel Shares the Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Eli called Samuel, and said, Samuel, my son. And he answered, Here [am] I.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but Eli called to him and said, “Samuel, my son.” “Here I am,” answered 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.15|<< 1 Samuel 3:15]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.17|1 Samuel 3:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקְרָ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eli  |**<big>&#8207;[[H5941\|עֵלִי֙]]&#8207; </big>**| 'e.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

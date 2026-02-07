@@ -1,12 +1,12 @@
-**Luke 17:24
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:24**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as the lightning, that lighteneth out of the one [part] under heaven, shineth unto the other [part] under heaven; so shall also the Son of man be in his day.
 <small><sub>**BSB:**</sub></small>
 For just as the lightning flashes and lights up the sky from one end to the other, so will be the Son of Man in His day.
 <small><sub>**Literal:**</sub></small>
 As for the lightning which is flashing from the [one end] under the sky to the [other end] under [the] sky shines, thus will be also the Son <the> of Man in the day of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.23|<< Luke 17:23]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.25|Luke 17:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As |**<big>[[G5618\|ὥσπερ]]</big>**  |hōsper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

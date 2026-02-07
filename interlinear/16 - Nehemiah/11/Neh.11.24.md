@@ -1,4 +1,4 @@
-**Nehemiah 11:24** 
+**Nehemiah 11:24**<big><big>[[Neh.11.20 Residents Outside Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pethahiah the son of Meshezabeel, of the children of Zerah the son of Judah, [was] at the king’s hand in all matters concerning the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pethahiah son of Meshezabel, a descendant of Zerah son of Judah, was the king’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.23|<< Nehemiah 11:23]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.25|Nehemiah 11:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Pethahiah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6611J\|פְתַֽחְיָ֨ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.tach.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

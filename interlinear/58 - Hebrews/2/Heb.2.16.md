@@ -1,5 +1,5 @@
-**Hebrews 2:16
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 2:16**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For verily he took not on [him the nature of] angels; but he took on [him] the seed of Abraham.
 <small><sub>**BSB:**</sub></small>
 For surely it is not the angels He helps, but the descendants of Abraham.
@@ -10,7 +10,7 @@ Not for surely somewhere [the] angels He helps, but [the] seed of Abraham He hel
 > $\quad$ alluding to: [[LXX.Isa.41.8|Isa 41:8-9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**1 Chronicles 1:17** 
+**1 Chronicles 1:17**<big><big>[[1Chr.1.1 From Adam to Abraham|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Shem: Elam, Asshur, Arphaxad, Lud, and Aram. The sons of Aram: Uz, H
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.16|<< 1 Chronicles 1:16]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.18|1 Chronicles 1:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shem  |**<big>&#8207;[[H8035\|שֵׁ֔ם]]&#8207; </big>**| Shem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

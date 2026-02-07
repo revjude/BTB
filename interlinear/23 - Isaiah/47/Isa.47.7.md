@@ -1,4 +1,4 @@
-**Isaiah 47:7** 
+**Isaiah 47:7**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou saidst, I shall be a lady for ever: [so] that thou didst not lay these [things] to thy heart, neither didst remember the latter end of it.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You said, ‘I will be queen forever.’ You did not take these things to heart 
 > $\quad$ referenced by: [[Rev.18.7|Rev 18:7-8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֣אמְרִ֔י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Tom.Ri<small><sup>[[HVqw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָ֖ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

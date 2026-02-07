@@ -1,4 +1,4 @@
-**Jeremiah 48:5** 
+**Jeremiah 48:5**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For in the going up of Luhith continual weeping shall go up; for in the going down of Horonaim the enemies have heard a cry of destruction.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For on the ascent to Luhith they weep bitterly as they go, and on the descent to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.4|<< Jeremiah 48:4]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.6|Jeremiah 48:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] ascent of  |**<big>&#8207;[[H4608\|מַעֲלֵ֣ה]]&#8207; </big>**| ma.'a.Leh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

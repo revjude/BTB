@@ -1,4 +1,4 @@
-**Ezekiel 30:25** 
+**Ezekiel 30:25**<big><big>[[Ezek.30.20 Pharaoh’s Power Broken|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will strengthen the arms of the king of Babylon, and the arms of Pharaoh shall fall down; and they shall know that I [am] the LORD, when I shall put my sword into the hand of the king of Babylon, and he shall stretch it out upon the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will strengthen the arms of Babylon’s king, but Pharaoh’s arms will fall l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.24|<< Ezekiel 30:24]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.26|Ezekiel 30:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will strengthen  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2388G\|הַחֲזַקְתִּ֗י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.cha.zak.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

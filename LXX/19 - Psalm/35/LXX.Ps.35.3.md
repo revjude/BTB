@@ -1,10 +1,7 @@
 **LXX Psalm 35:3** 
 <small><sub>**LXX:**</sub></small>
 Discharge \[the\] broadsword, and close up right opposite the ones pursuing me! Say \[to\] my soul, I am your deliverance! 
-<small><sub>**KJV:**</sub></small>
-Draw out also the spear, and stop [the way] against them that persecute me: say unto my soul, I [am] thy salvation.
-<small><sub>**BSB:**</sub></small>
-Draw the spear and javelin against my pursuers; say to my soul: “I am your salvation.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.35.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.2|<< Psalm 35:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.4|Psalm 35:4 >>]]</td></tr></table>
 
 | Translation | Greek |

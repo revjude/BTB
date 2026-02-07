@@ -1,4 +1,4 @@
-**Zechariah 6:11** 
+**Zechariah 6:11**<big><big>[[Zech.6.9 The Crown and the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then take silver and gold, and make crowns, and set [them] upon the head of Joshua the son of Josedech, the high priest;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take silver and gold, make an ornate crown, and set it on the head of the high p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.10|<< Zechariah 6:10]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.12|Zechariah 6:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַחְתָּ֥]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.kach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | silver  |**<big>&#8207;[[H3701G\|כֶֽסֶף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khe.sef-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

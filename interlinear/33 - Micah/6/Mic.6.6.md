@@ -1,4 +1,4 @@
-**Micah 6:6** 
+**Micah 6:6**<big><big>[[Mic.6.1 The Case against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherewith shall I come before the LORD, [and] bow myself before the high God? shall I come before him with burnt offerings, with calves of a year old?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With what shall I come before the LORD when I bow before the God on high? Should
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.5|<< Micah 6:5]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.7|Micah 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with what?  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4100\|מָּה֙]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will I come to meet  |**<big>&#8207;[[H6923\|אֲקַדֵּ֣ם]]&#8207; </big>**| 'a.ka.Dem<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

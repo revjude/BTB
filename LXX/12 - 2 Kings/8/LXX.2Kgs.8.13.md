@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:13** 
 <small><sub>**LXX:**</sub></small>
 And Hazael said, What is  your servant, the dog  having died, that he will do  this great thing? And Elisha said, \[The\] <span class="smallcaps">lord</span> showed to me you reigning over Syria. 
-<small><sub>**KJV:**</sub></small>
-And Hazael said, But what, [is] thy servant a dog, that he should do this great thing? And Elisha answered, The LORD hath shewed me that thou [shalt be] king over Syria.
-<small><sub>**BSB:**</sub></small>
-“But how could your servant, a mere dog, do such a monstrous thing?” said Hazael. And Elisha answered, “The LORD has shown me that you will be king over Aram.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.12|<< 2 Kings 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.14|2 Kings 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

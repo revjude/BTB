@@ -1,4 +1,4 @@
-**Job 10:11** 
+**Job 10:11**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You clothed me with skin and flesh, and knit me together with bones and sinews.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.10|<< Job 10:10]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.12|Job 10:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | skin  |**<big>&#8207;[[H5785\|ע֣וֹר]]&#8207; </big>**| or<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and flesh  |**<big>&#8207;[[H9002\|וּ֭]]&#8207;&#8207;[[H1320\|בָשָׂר]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> va.sor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

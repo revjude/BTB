@@ -1,10 +1,7 @@
 **LXX Joshua 14:9** 
 <small><sub>**LXX:**</sub></small>
 And Moses swore by an oath in  that day, saying that, The land upon which you mounted in it will be yours by lot, and \[to\] your children into the eon, for you proceeded to follow after \[the\] <span class="smallcaps">lord</span>  my God. 
-<small><sub>**KJV:**</sub></small>
-And Moses sware on that day, saying, Surely the land whereon thy feet have trodden shall be thine inheritance, and thy children’s for ever, because thou hast wholly followed the LORD my God.
-<small><sub>**BSB:**</sub></small>
-On that day Moses swore to me, saying, ‘Surely the land on which you have set foot will be an inheritance to you and your children forever, because you have wholly followed the LORD my God.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.8|<< Joshua 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.10|Joshua 14:10 >>]]</td></tr></table>
 
 | Translation | Greek |

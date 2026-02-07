@@ -1,10 +1,7 @@
 **LXX Psalm 59:8** 
 <small><sub>**LXX:**</sub></small>
 And you, O <span class="smallcaps">lord</span>, shall laugh out loud at them; you shall treat with contempt all the nations. 
-<small><sub>**KJV:**</sub></small>
-But thou, O LORD, shalt laugh at them; thou shalt have all the heathen in derision.
-<small><sub>**BSB:**</sub></small>
-But You, O LORD, laugh at them; You scoff at all the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.59.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.7|<< Psalm 59:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.9|Psalm 59:9 >>]]</td></tr></table>
 
 | Translation | Greek |

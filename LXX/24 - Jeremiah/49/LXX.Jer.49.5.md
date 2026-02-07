@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:5** 
 <small><sub>**LXX:**</sub></small>
 Behold, I will bring upon you fear, said \[the\] <span class="smallcaps">lord</span> of the forces, from all  of your adjacent \[places\]. And you shall be scattered each unto his front, and there shall not be  one gathering the runaways. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will bring a fear upon thee, saith the Lord GOD of hosts, from all those that be about thee; and ye shall be driven out every man right forth; and none shall gather up him that wandereth.
-<small><sub>**BSB:**</sub></small>
-Behold, I am about to bring terror upon you, declares the Lord GOD of Hosts, from all those around you. You will each be driven headlong, with no one to regather the fugitives.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.4|<< Jeremiah 49:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.6|Jeremiah 49:6 >>]]</td></tr></table>
 
 | Translation | Greek |

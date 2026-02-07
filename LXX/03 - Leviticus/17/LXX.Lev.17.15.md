@@ -1,10 +1,7 @@
 **LXX Leviticus 17:15** 
 <small><sub>**LXX:**</sub></small>
 And every soul who should eat decaying flesh, or \[flesh\] taken by wild beasts, among the native born, or by the foreigners, shall wash  his garments, and shall bathe in water, and will be unclean until evening; then he will be clean. 
-<small><sub>**KJV:**</sub></small>
-And every soul that eateth that which died [of itself], or that which was torn [with beasts, whether it be] one of your own country, or a stranger, he shall both wash his clothes, and bathe [himself] in water, and be unclean until the even: then shall he be clean.
-<small><sub>**BSB:**</sub></small>
-And any person, whether native or foreigner, who eats anything found dead or mauled by wild beasts must wash his clothes and bathe with water, and he will be unclean until evening; then he will be clean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.17.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.14|<< Leviticus 17:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.16|Leviticus 17:16 >>]]</td></tr></table>
 
 | Translation | Greek |

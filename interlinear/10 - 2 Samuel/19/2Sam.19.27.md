@@ -1,4 +1,4 @@
-**2 Samuel 19:27** (19:28)
+**2 Samuel 19:27**<big><big>[[2Sam.19.24 Mephibosheth Excused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he hath slandered thy servant unto my lord the king; but my lord the king [is] as an angel of God: do therefore [what is] good in thine eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he has slandered your servant to my lord the king. Yet my lord the king is l
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.26|<< 2 Samuel 19:26]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.28|2 Samuel 19:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has slandered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7270\|יְרַגֵּ֣ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ra.Gel<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> servant your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5650\|עַבְדְּ]]&#8207;&#8207;[[H9021\|ךָ֔]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'av.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

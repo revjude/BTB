@@ -1,10 +1,7 @@
 **LXX Psalm 89:22** 
 <small><sub>**LXX:**</sub></small>
 \[The\] enemy shall not derive benefit by him; and \[the\] son of lawlessness shall not proceed  to inflict evil on him. 
-<small><sub>**KJV:**</sub></small>
-The enemy shall not exact upon him; nor the son of wickedness afflict him.
-<small><sub>**BSB:**</sub></small>
-No enemy will exact tribute; no wicked man will oppress him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.21|<< Psalm 89:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.23|Psalm 89:23 >>]]</td></tr></table>
 
 | Translation | Greek |

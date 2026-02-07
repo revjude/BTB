@@ -1,4 +1,4 @@
-**1 Kings 7:10** 
+**1 Kings 7:10**<big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the foundation [was of] costly stones, even great stones, stones of ten cubits, and stones of eight cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The foundations were laid with large, costly stones, some ten cubits long and so
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.9|<< 1 Kings 7:9]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.11|1 Kings 7:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [it was] founded  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3245\|מְיֻסָּ֕ד]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.yu.Sad<small><sup>[[HVPsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | stones  |**<big>&#8207;[[H0068G\|אֲבָנִ֥ים]]&#8207; </big>**| 'a.va.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

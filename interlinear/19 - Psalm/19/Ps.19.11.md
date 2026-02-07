@@ -1,4 +1,4 @@
-**Psalms 19:11** (19:12)
+**Psalms 19:11**<big><big>[[Ps.19.1 The Heavens Declare the Glory of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover by them is thy servant warned: [and] in keeping of them [there is] great reward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By them indeed Your servant is warned; in keeping them is great reward.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.19.10|<< Psalms 19:10]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.12|Psalms 19:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | servant your  |**<big>&#8207;[[H5650\|עַ֭בְדְּ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'Av.de.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

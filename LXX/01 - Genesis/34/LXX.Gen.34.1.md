@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And went forth Dinah, the daughter whom Leah bore  to Jacob, to study the daughters of the native inhabitants. 
-<small><sub>**KJV:**</sub></small>
-And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.
-<small><sub>**BSB:**</sub></small>
-Now Dinah, the daughter Leah had borne to Jacob, went out to visit the daughters of the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.33.20|<< Genesis 33:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.2|Genesis 34:2 >>]]</td></tr></table>
 
 | Translation | Greek |

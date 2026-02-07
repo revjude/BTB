@@ -1,10 +1,7 @@
 **LXX Joshua 24:4** 
 <small><sub>**LXX:**</sub></small>
 And I gave to him  Isaac; and I gave \[to\] Isaac  Jacob and  Esau; and I gave \[to\] Esau  mount  Seir, for an inheritance to him; and Jacob and  his sons went down into Egypt. 
-<small><sub>**KJV:**</sub></small>
-And I gave unto Isaac Jacob and Esau: and I gave unto Esau mount Seir, to possess it; but Jacob and his children went down into Egypt.
-<small><sub>**BSB:**</sub></small>
-and to Isaac I gave Jacob and Esau. I gave Esau Mount Seir to possess, but Jacob and his sons went down to Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.3|<< Joshua 24:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.5|Joshua 24:5 >>]]</td></tr></table>
 
 | Translation | Greek |

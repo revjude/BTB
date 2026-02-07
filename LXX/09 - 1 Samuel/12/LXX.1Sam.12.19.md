@@ -1,10 +1,7 @@
 **LXX 1 Samuel 12:19** 
 <small><sub>**LXX:**</sub></small>
 And all the people said to Samuel, Pray for  your servants to \[the\] <span class="smallcaps">lord</span>  your God! and in no way we should die, for we added unto all  our sins \[this\] evil asking for ourselves a king. 
-<small><sub>**KJV:**</sub></small>
-And all the people said unto Samuel, Pray for thy servants unto the LORD thy God, that we die not: for we have added unto all our sins [this] evil, to ask us a king.
-<small><sub>**BSB:**</sub></small>
-They pleaded with Samuel, “Pray to the LORD your God for your servants so that we will not die! For we have added to all our sins the evil of asking for a king.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.18|<< 1 Samuel 12:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.20|1 Samuel 12:20 >>]]</td></tr></table>
 
 | Translation | Greek |

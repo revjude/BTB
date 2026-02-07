@@ -1,12 +1,12 @@
-**1 Thessalonians 2:17
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 2:17**<big><big>[[1Thess.2.17 Paul’s Longing to Visit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But we, brethren, being taken from you for a short time in presence, not in heart, endeavoured the more abundantly to see your face with great desire.
 <small><sub>**BSB:**</sub></small>
 Brothers, although we were torn away from you for a short time (in person, not in heart), our desire to see you face to face was even more intense.
 <small><sub>**Literal:**</sub></small>
 We ourselves however, brothers, having been bereaved of you for [the] time of an hour in face not in heart, more abundantly were eager the face of you to see with great desire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.16|<< 1 Thessalonians 2:16]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.18|1 Thessalonians 2:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|Ἡμεῖς]]</big>**  |Hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however, |**<big>[[G1161\|δέ,]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

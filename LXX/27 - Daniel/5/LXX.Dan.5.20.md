@@ -1,10 +1,7 @@
 **LXX Daniel 5:20** 
 <small><sub>**LXX:**</sub></small>
 And when his heart was raised up high, and  his spirit was fortified  to be prideful, he was brought down from the throne of the kingdom, and the honor was removed from him. 
-<small><sub>**KJV:**</sub></small>
-But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:
-<small><sub>**BSB:**</sub></small>
-But when his heart became arrogant and his spirit was hardened with pride, he was deposed from his royal throne, and his glory was taken from him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.19|<< Daniel 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.21|Daniel 5:21 >>]]</td></tr></table>
 
 | Translation | Greek |

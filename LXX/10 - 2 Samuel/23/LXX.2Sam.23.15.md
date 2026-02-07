@@ -1,10 +1,7 @@
 **LXX 2 Samuel 23:15** 
 <small><sub>**LXX:**</sub></small>
 And David desired, and said, Who me water to drink from the well, the one in Beth-lehem, of the one at the gate? 
-<small><sub>**KJV:**</sub></small>
-And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, which [is] by the gate!
-<small><sub>**BSB:**</sub></small>
-David longed for water and said, “Oh, that someone would get me a drink of water from the well near the gate of Bethlehem!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.14|<< 2 Samuel 23:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.16|2 Samuel 23:16 >>]]</td></tr></table>
 
 | Translation | Greek |

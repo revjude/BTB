@@ -1,4 +1,4 @@
-**Proverbs 13:19** 
+**Proverbs 13:19**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The desire accomplished is sweet to the soul: but [it is] abomination to fools to depart from evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Desire fulfilled is sweet to the soul, but turning from evil is detestable to fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.18|<< Proverbs 13:18]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.20|Proverbs 13:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a desire  |**<big>&#8207;[[H8378\|תַּאֲוָ֣ה]]&#8207; </big>**| ta.'a.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | done  |**<big>&#8207;[[H1961\|נִ֭הְיָה]]&#8207; </big>**| Nih.yah<small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

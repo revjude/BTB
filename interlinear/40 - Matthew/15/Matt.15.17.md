@@ -1,12 +1,12 @@
-**Matthew 15:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:17**<big><big>[[Matt.15.10 What Defiles a Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught?
 <small><sub>**BSB:**</sub></small>
 “Do you not yet realize that whatever enters the mouth goes into the stomach and then is eliminated?
 <small><sub>**Literal:**</sub></small>
 Surely understand you that everything which entering into the mouth into the stomach goes and into [the] sewer is cast out?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.16|<< Matthew 15:16]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.18|Matthew 15:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely [^1] [^2] |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | understand you |**<big>[[G3539\|νοεῖτε]]</big>**  |noeite <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

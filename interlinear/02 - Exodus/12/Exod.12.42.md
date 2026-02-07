@@ -1,4 +1,4 @@
-**Exodus 12:42** 
+**Exodus 12:42**<big><big>[[Exod.12.31 The Exodus Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It [is] a night to be much observed unto the LORD for bringing them out from the land of Egypt: this [is] that night of the LORD to be observed of all the children of Israel in their generations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because the LORD kept a vigil that night to bring them out of the land of Egypt,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.41|<< Exodus 12:41]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.43|Exodus 12:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] a night of  |**<big>&#8207;[[H3915\|לֵ֣יל]]&#8207; </big>**| leil<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | vigil\<s>  |**<big>&#8207;[[H8107\|שִׁמֻּרִ֥ים]]&#8207; </big>**| shi.mu.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

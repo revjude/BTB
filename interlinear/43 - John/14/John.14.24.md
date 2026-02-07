@@ -1,12 +1,12 @@
-**John 14:24
-**<small><sub>**KJV:**</sub></small>
+**John 14:24**<big><big>[[John.14.15 Jesus Promises the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that loveth me not keepeth not my sayings: and the word which ye hear is not mine, but the Father’s which sent me.
 <small><sub>**BSB:**</sub></small>
 Whoever does not love Me does not keep My words. The word that you hear is not My own, but it is from the Father who sent Me.
 <small><sub>**Literal:**</sub></small>
 The [one] not loving Me the words of Mine not does keep; and the word that you hear not it is Mine but of the [One who] having sent Me [the] Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.23|<< John 14:23]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.25|John 14:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

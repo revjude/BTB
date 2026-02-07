@@ -1,10 +1,7 @@
 **LXX Numbers 18:24** 
 <small><sub>**LXX:**</sub></small>
 for the tenth parts of the sons of Israel, as many \[things\] as they should separate to the <span class="smallcaps">lord</span>, a cut-away portion I give to the Levites by lot. On account of this I have said to them, Among \[the\] midst of \[the\] sons of Israel they shall not be an heir of a lot. 
-<small><sub>**KJV:**</sub></small>
-But the tithes of the children of Israel, which they offer [as] an heave offering unto the LORD, I have given to the Levites to inherit: therefore I have said unto them, Among the children of Israel they shall have no inheritance.
-<small><sub>**BSB:**</sub></small>
-For I have given to the Levites as their inheritance the tithe that the Israelites present to the LORD as a contribution. That is why I told them that they would not receive an inheritance among the Israelites.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.23|<< Numbers 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.25|Numbers 18:25 >>]]</td></tr></table>
 
 | Translation | Greek |

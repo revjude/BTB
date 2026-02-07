@@ -1,12 +1,12 @@
-**2 Corinthians 11:25
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:25**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thrice was I beaten with rods, once was I stoned, thrice I suffered shipwreck, a night and a day I have been in the deep;
 <small><sub>**BSB:**</sub></small>
 Three times I was beaten with rods, once I was stoned, three times I was shipwrecked. I spent a night and a day in the open sea.
 <small><sub>**Literal:**</sub></small>
 Three times I was beaten with rods, once I was stoned, three times I was shipwrecked, a night and a day in the deep [sea] I have passed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.24|<< 2 Corinthians 11:24]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.26|2 Corinthians 11:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Three times |**<big>[[G5151\|τρὶς]]</big>**  |tris <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I was beaten with rods, |**<big>[[G4463\|ἐρραβδίσθην,]]</big>**  [^1] |errabdisthēn <small><sup>[[V-API-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

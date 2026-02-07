@@ -1,10 +1,7 @@
 **LXX Joshua 20:4** 
 <small><sub>**LXX:**</sub></small>
 And he shall flee to one  of these cities, and shall stay at the door of the gate  of his city, and shall speak in the ears of the elders  of that city \[concerning\] his words. And the congregation shall return him to them, and they shall appoint to him a place, and he shall dwell with them. 
-<small><sub>**KJV:**</sub></small>
-And when he that doth flee unto one of those cities shall stand at the entering of the gate of the city, and shall declare his cause in the ears of the elders of that city, they shall take him into the city unto them, and give him a place, that he may dwell among them.
-<small><sub>**BSB:**</sub></small>
-When someone flees to one of these cities, stands at the entrance of the city gate, and states his case before its elders, they are to bring him into the city and give him a place to live among them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.20.3|<< Joshua 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.20.5|Joshua 20:5 >>]]</td></tr></table>
 
 | Translation | Greek |

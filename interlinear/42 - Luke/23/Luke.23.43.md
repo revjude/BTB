@@ -1,12 +1,12 @@
-**Luke 23:43
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:43**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said unto him, Verily I say unto thee, To day shalt thou be with me in paradise.
 <small><sub>**BSB:**</sub></small>
 And Jesus said to him, “Truly I tell you, today you will be with Me in Paradise.”
 <small><sub>**Literal:**</sub></small>
 And He said to him <the> Jesus: Amen to you I say: today with Me you will be in <the> Paradise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.42|<< Luke 23:42]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.44|Luke 23:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

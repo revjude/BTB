@@ -1,10 +1,7 @@
 **LXX Ezekiel 8:11** 
 <small><sub>**LXX:**</sub></small>
 And seventy men of the elders of \[the\] house of Israel, and Jaazaniah the \[son of\] Shaphan standing before their face; and each  had his incense pan in the hand; and the vapor of the incense ascended. 
-<small><sub>**KJV:**</sub></small>
-And there stood before them seventy men of the ancients of the house of Israel, and in the midst of them stood Jaazaniah the son of Shaphan, with every man his censer in his hand; and a thick cloud of incense went up.
-<small><sub>**BSB:**</sub></small>
-Before them stood seventy elders of the house of Israel, with Jaazaniah son of Shaphan standing among them. Each had a censer in his hand, and a fragrant cloud of incense was rising.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.10|<< Ezekiel 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.12|Ezekiel 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

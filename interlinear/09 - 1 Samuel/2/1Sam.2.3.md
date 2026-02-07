@@ -1,4 +1,4 @@
-**1 Samuel 2:3** 
+**1 Samuel 2:3**<big><big>[[1Sam.2.1 Hannah’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Talk no more so exceeding proudly; let [not] arrogancy come out of your mouth: for the LORD [is] a God of knowledge, and by him actions are weighed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not boast so proudly, or let arrogance come from your mouth, for the LORD is 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.2|<< 1 Samuel 2:2]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.4|1 Samuel 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you multiply  |**<big>&#8207;[[H7235A\|תַּרְבּ֤וּ]]&#8207; </big>**| tar.Bu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 4:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:13**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when they saw the boldness of Peter and John, and perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus.
 <small><sub>**BSB:**</sub></small>
 When they saw the boldness of Peter and John and realized that they were unschooled, ordinary men, they marveled and took note that these men had been with Jesus.
 <small><sub>**Literal:**</sub></small>
 Seeing now the <the> of Peter boldness and of John and having grasped that men unschooled they are and ordinary, they were astonished, They were recognizing then them that with <the> Jesus they were being,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.12|<< Acts 4:12]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.14|Acts 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Seeing |**<big>[[G2334\|Θεωροῦντες]]</big>**  |Theōrountes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 60:22** 
+**Isaiah 60:22**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A little one shall become a thousand, and a small one a strong nation: I the LORD will hasten it in his time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The least of you will become a thousand, and the smallest a mighty nation. I am 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.21|<< Isaiah 60:21]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.1|Isaiah 61:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the small  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6996B\|קָּטֹן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ka.Ton<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will become  |**<big>&#8207;[[H1961\|יִֽהְיֶ֣ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

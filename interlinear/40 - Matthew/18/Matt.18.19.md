@@ -1,12 +1,12 @@
-**Matthew 18:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:19**<big><big>[[Matt.18.19 Ask in My Name|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.
 <small><sub>**BSB:**</sub></small>
 Again, I tell you truly that if two of you on the earth agree about anything you ask for, it will be done for you by My Father in heaven.
 <small><sub>**Literal:**</sub></small>
 Again Amen I say to you that if two shall agree of you on the earth concerning any matter that if they shall ask, it will be done for them by the Father of Mine who [is] in [the] heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.18|<< Matthew 18:18]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.20|Matthew 18:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Again |**<big>[[G3825\|Πάλιν]]</big>**  |Palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Amen [^1] |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |

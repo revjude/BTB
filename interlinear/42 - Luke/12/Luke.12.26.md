@@ -1,12 +1,12 @@
-**Luke 12:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:26**<big><big>[[Luke.12.22 Do Not Worry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If ye then be not able to do that thing which is least, why take ye thought for the rest?
 <small><sub>**BSB:**</sub></small>
 So if you cannot do such a small thing, why do you worry about the rest?
 <small><sub>**Literal:**</sub></small>
 If then not even [the] least you are able [to do], why about the rest are you anxious?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.25|<< Luke 12:25]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.27|Luke 12:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

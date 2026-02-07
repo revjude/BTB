@@ -1,4 +1,4 @@
-**Genesis 38:24** 
+**Genesis 38:24**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass about three months after, that it was told Judah, saying, Tamar thy daughter in law hath played the harlot; and also, behold, she [is] with child by whoredom. And Judah said, Bring her forth, and let her be burnt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ About three months later, Judah was told, “Your daughter-in-law Tamar has pros
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.23|<< Genesis 38:23]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.25|Genesis 38:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when from three  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7969\|שְׁלֹ֣שׁ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> mi<small><sup>[[HR]]</sup></small> sh.Losh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 37:6** 
+**Isaiah 37:6**<big><big>[[Isa.37.1 Isaiah’s Message of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaiah said unto them, Thus shall ye say unto your master, Thus saith the LORD, Be not afraid of the words that thou hast heard, wherewith the servants of the king of Assyria have blasphemed me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who replied, “Tell your master that this is what the LORD says: ‘Do not be a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.5|<< Isaiah 37:5]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.7|Isaiah 37:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

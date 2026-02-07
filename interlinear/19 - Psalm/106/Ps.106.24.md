@@ -1,4 +1,4 @@
-**Psalms 106:24** 
+**Psalms 106:24**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, they despised the pleasant land, they believed not his word:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They despised the pleasant land; they did not believe His promise.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.23|<< Psalms 106:23]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.25|Psalms 106:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they rejected  |**<big>&#8207;[[H9001\|וַֽ֭]]&#8207;&#8207;[[H3988A\|יִּמְאֲסוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yim.'a.su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> [the] land of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

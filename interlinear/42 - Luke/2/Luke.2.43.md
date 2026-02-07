@@ -1,12 +1,12 @@
-**Luke 2:43
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:43**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not [of it].
 <small><sub>**BSB:**</sub></small>
 When those days were over and they were returning home, the boy Jesus remained behind in Jerusalem, but His parents were unaware He had stayed.
 <small><sub>**Literal:**</sub></small>
 and when having completed the days in the returning of them remained behind Jesus the boy in Jerusalem, But not knew the parents Joseph and the mother of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.42|<< Luke 2:42]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.44|Luke 2:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when having completed |**<big>[[G5048\|τελειωσάντων]]</big>**  |teleiōsantōn <small><sup>[[V-AAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

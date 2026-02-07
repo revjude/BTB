@@ -1,10 +1,7 @@
 **LXX Numbers 25:13** 
 <small><sub>**LXX:**</sub></small>
 and it will be to him and \[to\] his seed after him a covenant of an eternal priesthood, because he was jealous  for his God, and he atoned for the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And he shall have it, and his seed after him, [even] the covenant of an everlasting priesthood; because he was zealous for his God, and made an atonement for the children of Israel.
-<small><sub>**BSB:**</sub></small>
-It will be a covenant of permanent priesthood for him and his descendants, because he was zealous for his God and made atonement for the Israelites.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.25.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.12|<< Numbers 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.14|Numbers 25:14 >>]]</td></tr></table>
 
 | Translation | Greek |

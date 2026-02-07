@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:11** 
 <small><sub>**LXX:**</sub></small>
 For just as the loincloth cleaves around the loin  of a man, so I cleaved to myself the house  of Israel, and all the house of Judah, says \[the\] <span class="smallcaps">lord</span>;  to be to me for a famous people, and for a boasting. And for glory; and they did not hearken to me. 
-<small><sub>**KJV:**</sub></small>
-For as the girdle cleaveth to the loins of a man, so have I caused to cleave unto me the whole house of Israel and the whole house of Judah, saith the LORD; that they might be unto me for a people, and for a name, and for a praise, and for a glory: but they would not hear.
-<small><sub>**BSB:**</sub></small>
-For just as a loincloth clings to a man’s waist, so I have made the whole house of Israel and the whole house of Judah cling to Me, declares the LORD, so that they might be My people for My renown and praise and glory. But they did not listen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.10|<< Jeremiah 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.12|Jeremiah 13:12 >>]]</td></tr></table>
 
 | Translation | Greek |

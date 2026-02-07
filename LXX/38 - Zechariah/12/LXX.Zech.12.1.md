@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[The\] concern of \[the\] word of \[the\] <span class="smallcaps">lord</span> over  Israel, says \[the\] <span class="smallcaps">lord</span>, the one stretching out the heaven, and laying the foundation for \[the\] earth, and shaping \[the\] spirit of man in him. 
-<small><sub>**KJV:**</sub></small>
-The burden of the word of the LORD for Israel, saith the LORD, which stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him.
-<small><sub>**BSB:**</sub></small>
-This is the burden of the word of the LORD concerning Israel. Thus declares the LORD, who stretches out the heavens and lays the foundation of the earth, who forms the spirit of man within him:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.17|<< Zechariah 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.12.2|Zechariah 12:2 >>]]</td></tr></table>
 
 | Translation | Greek |

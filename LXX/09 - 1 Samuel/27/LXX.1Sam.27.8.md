@@ -1,10 +1,7 @@
 **LXX 1 Samuel 27:8** 
 <small><sub>**LXX:**</sub></small>
 And David ascended and  his men, and they made an attack upon the Geshurites, and the Gezrites, and against the Amalekites. For the land was inhabited by the one from Shur and unto \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And David and his men went up, and invaded the Geshurites, and the Gezrites, and the Amalekites: for those [nations were] of old the inhabitants of the land, as thou goest to Shur, even unto the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-Now David and his men went up and raided the Geshurites, the Girzites, and the Amalekites. (From ancient times these people had inhabited the land extending to Shur and Egypt.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.7|<< 1 Samuel 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.9|1 Samuel 27:9 >>]]</td></tr></table>
 
 | Translation | Greek |

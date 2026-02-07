@@ -1,10 +1,7 @@
 **LXX Joshua 13:17** 
 <small><sub>**LXX:**</sub></small>
 and all  their cities  being in  Misor, and Dibon, and Bamoth-baal, and \[the\] house of Baal-meon, 
-<small><sub>**KJV:**</sub></small>
-Heshbon, and all her cities that [are] in the plain; Dibon, and Bamothbaal, and Bethbaalmeon,
-<small><sub>**BSB:**</sub></small>
-to Heshbon and all its cities on the plateau, including Dibon, Bamoth-baal, Beth-baal-meon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.16|<< Joshua 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.18|Joshua 13:18 >>]]</td></tr></table>
 
 | Translation | Greek |

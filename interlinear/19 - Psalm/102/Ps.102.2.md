@@ -1,4 +1,4 @@
-**Psalms 102:2** (102:3)
+**Psalms 102:2**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hide not thy face from me in the day [when] I am in trouble; incline thine ear unto me: in the day [when] I call answer me speedily.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not hide Your face from me in my day of distress. Incline Your ear to me; ans
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.1|<< Psalms 102:1]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.3|Psalms 102:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you hide  |**<big>&#8207;[[H5641\|תַּסְתֵּ֬ר]]&#8207; </big>**| tas.Ter<small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

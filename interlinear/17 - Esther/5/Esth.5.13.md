@@ -1,4 +1,4 @@
-**Esther 5:13** 
+**Esther 5:13**<big><big>[[Esth.5.9 Haman’s Plot against Mordecai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet all this availeth me nothing, so long as I see Mordecai the Jew sitting at the king’s gate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet none of this satisfies me as long as I see Mordecai the Jew sitting at the k
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.5.12|<< Esther 5:12]]</td><td align="center" style="border:none;">[[Esth.5|Esther 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5.14|Esther 5:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2088\|זֶ֕ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

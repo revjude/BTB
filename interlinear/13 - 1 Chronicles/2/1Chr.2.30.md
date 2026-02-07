@@ -1,4 +1,4 @@
-**1 Chronicles 2:30** 
+**1 Chronicles 2:30**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Nadab; Seled, and Appaim: but Seled died without children.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Nadab: Seled and Appaim. Seled died without children.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.29|<< 1 Chronicles 2:29]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.31|1 Chronicles 2:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Nadab  |**<big>&#8207;[[H5070I\|נָדָ֖ב]]&#8207; </big>**| na.Dav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

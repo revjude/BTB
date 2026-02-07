@@ -1,4 +1,4 @@
-**Psalms 15:4** 
+**Psalms 15:4**<big><big>[[Ps.15.1 Who May Dwell on Your Holy Mountain？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. [He that] sweareth to [his own] hurt, and changeth not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who despises the vile but honors those who fear the LORD, who does not revise a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.15.3|<< Psalms 15:3]]</td><td align="center" style="border:none;">[[Ps.15|Psalms 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.15.5|Psalms 15:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] despised  |**<big>&#8207;[[H0959\|נִבְזֶ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| niv.Zeh<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in view his  |**<big>&#8207;[[H9003\|בְּֽ]]&#8207;&#8207;[[H5869A\|עֵ֘ינָ֤י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

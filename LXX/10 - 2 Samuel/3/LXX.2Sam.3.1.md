@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And there was war for a long \[time\] between the house of Saul, and between the house of David. And the house of David went and strengthened. And the house of Saul went and weakened. 
-<small><sub>**KJV:**</sub></small>
-Now there was long war between the house of Saul and the house of David: but David waxed stronger and stronger, and the house of Saul waxed weaker and weaker.
-<small><sub>**BSB:**</sub></small>
-Now the war between the house of Saul and the house of David was protracted. And David grew stronger and stronger, while the house of Saul grew weaker and weaker.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.32|<< 2 Samuel 2:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.2|2 Samuel 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

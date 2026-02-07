@@ -1,4 +1,4 @@
-**Hosea 9:17** 
+**Hosea 9:17**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My God will reject them because they have not obeyed Him; and they shall be wand
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.16|<< Hosea 9:16]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.1|Hosea 10:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will reject them  |**<big>&#8207;[[H3988A\|יִמְאָסֵ֣]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| yim.'a.Se<small><sup>[[HVqi3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God my  |**<big>&#8207;[[H0430G\|אֱלֹהַ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

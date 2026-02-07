@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:28** 
 <small><sub>**LXX:**</sub></small>
 And Micaiah said, If in returning, you should return in peace, \[the\] <span class="smallcaps">lord</span> did not speak by me. And he said, all the people hearken! 
-<small><sub>**KJV:**</sub></small>
-And Micaiah said, If thou return at all in peace, the LORD hath not spoken by me. And he said, Hearken, O people, every one of you.
-<small><sub>**BSB:**</sub></small>
-But Micaiah replied, “If you ever return safely, the LORD has not spoken through me.” Then he added, “Take heed, all you people!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.27|<< 1 Kings 22:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.29|1 Kings 22:29 >>]]</td></tr></table>
 
 | Translation | Greek |

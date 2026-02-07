@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:21** 
 <small><sub>**LXX:**</sub></small>
 For ships \[belonging to\] \[the\] king went to Tarshish with the servants of Hiram. Once in three years boats came from Tarshish to the king being full of gold, and silver, and tusks of ivory, and apes. 
-<small><sub>**KJV:**</sub></small>
-For the king’s ships went to Tarshish with the servants of Huram: every three years once came the ships of Tarshish bringing gold, and silver, ivory, and apes, and peacocks.
-<small><sub>**BSB:**</sub></small>
-For the king had the ships of Tarshish that went with Hiram’s servants, and once every three years the ships of Tarshish would arrive bearing gold, silver, ivory, apes, and peacocks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.20|<< 2 Chronicles 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.22|2 Chronicles 9:22 >>]]</td></tr></table>
 
 | Translation | Greek |

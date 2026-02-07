@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:7** 
 <small><sub>**LXX:**</sub></small>
 And he looked behind him, and he beheld me, and he called me. And I said, Behold, \[it is\] I. 
-<small><sub>**KJV:**</sub></small>
-And when he looked behind him, he saw me, and called unto me. And I answered, Here [am] I.
-<small><sub>**BSB:**</sub></small>
-When he turned around and saw me, he called out to me, and I answered, ‘Here I am!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.6|<< 2 Samuel 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.8|2 Samuel 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

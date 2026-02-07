@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:32** 
 <small><sub>**LXX:**</sub></small>
 Not for your \[sakes\] do I do \[this\], says \[the\] Lord \[the\] <span class="smallcaps">lord</span>, it is made known to you. Be ashamed and feel remorse for  your ways, O house of Israel! 
-<small><sub>**KJV:**</sub></small>
-Not for your sakes do I [this], saith the Lord GOD, be it known unto you: be ashamed and confounded for your own ways, O house of Israel.
-<small><sub>**BSB:**</sub></small>
-It is not for your sake that I will act, declares the Lord GOD—let it be known to you. Be ashamed and disgraced for your ways, O house of Israel!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.31|<< Ezekiel 36:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.33|Ezekiel 36:33 >>]]</td></tr></table>
 
 | Translation | Greek |

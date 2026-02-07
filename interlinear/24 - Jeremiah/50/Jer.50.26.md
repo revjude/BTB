@@ -1,4 +1,4 @@
-**Jeremiah 50:26** 
+**Jeremiah 50:26**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come against her from the utmost border, open her storehouses: cast her up as heaps, and destroy her utterly: let nothing of her be left.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come against her from the farthest border. Break open her granaries; pile her up
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.25|<< Jeremiah 50:25]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.27|Jeremiah 50:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come  |**<big>&#8207;[[H0935G\|בֹּֽאוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bo.'u-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> it  |**<big>&#8207;[[H9005\|לָ֤]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 12:32
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:32**<big><big>[[Matt.12.31 The Unpardonable Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the [world] to come.
 <small><sub>**BSB:**</sub></small>
 Whoever speaks a word against the Son of Man will be forgiven, but whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the one to come.
 <small><sub>**Literal:**</sub></small>
 And who[ever] if shall speak a word against the Son <the> of Man, it will be forgiven to him; who[ever] now maybe shall speak against <the> Spirit the Holy, not it will be forgiven to him neither in this <the> present age nor in the [one] coming.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.31|<< Matthew 12:31]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.33|Matthew 12:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**1 Chronicles 29:30** 
+**1 Chronicles 29:30**<big><big>[[1Chr.29.26 David’s Reign and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With all his reign and his might, and the times that went over him, and over Israel, and over all the kingdoms of the countries.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ together with all the details of his reign, his might, and the circumstances tha
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.29|<< 1 Chronicles 29:29]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.1|2 Chronicles 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with  |**<big>&#8207;[[H5973A\|עִ֥ם]]&#8207; </big>**| 'im<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

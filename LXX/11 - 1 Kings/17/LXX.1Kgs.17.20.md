@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:20** 
 <small><sub>**LXX:**</sub></small>
 And Elijah yelled out to \[the\] <span class="smallcaps">lord</span>, and he said, O <span class="smallcaps">lord</span>  my God, also indeed the widow with whom I dwell with her, have you inflicted evil  to kill  her son? 
-<small><sub>**KJV:**</sub></small>
-And he cried unto the LORD, and said, O LORD my God, hast thou also brought evil upon the widow with whom I sojourn, by slaying her son?
-<small><sub>**BSB:**</sub></small>
-Then he cried out to the LORD, “O LORD my God, have You also brought tragedy on this widow who has opened her home to me, by causing her son to die?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.19|<< 1 Kings 17:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.21|1 Kings 17:21 >>]]</td></tr></table>
 
 | Translation | Greek |

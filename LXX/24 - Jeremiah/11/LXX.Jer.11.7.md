@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:7** 
 <small><sub>**LXX:**</sub></small>
 For bearing witness together I bore witness \[to\] your fathers in \[the\] day in which I led them out of \[the\] land of Egypt until  this day. Rising early I bore witness saying, Hear  my voice! And they did not hear, and they inclined not  their ear; but they went each in \[the\] deformity  of his evil heart. And all the words of this covenant entered unto them of which I commanded  to be done. 
-<small><sub>**KJV:**</sub></small>
-For I earnestly protested unto your fathers in the day [that] I brought them up out of the land of Egypt, [even] unto this day, rising early and protesting, saying, Obey my voice.
-<small><sub>**BSB:**</sub></small>
-For from the time I brought your fathers out of the land of Egypt until today, I strongly warned them again and again, saying, ‘Obey My voice.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.6|<< Jeremiah 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.8|Jeremiah 11:8 >>]]</td></tr></table>
 
 | Translation | Greek |

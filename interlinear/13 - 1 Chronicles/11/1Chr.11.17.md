@@ -1,4 +1,4 @@
-**1 Chronicles 11:17** 
+**1 Chronicles 11:17**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, that [is] at the gate!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ David longed for water and said, “Oh, that someone would get me a drink of wat
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.16|<< 1 Chronicles 11:16]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.18|1 Chronicles 11:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he craved  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0183\|יִּתְאָ֥יו]]&#8207; </big>**[^1] [^2] | va<small><sup>[[Hc]]</sup></small> i.yit.'av<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֖יד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

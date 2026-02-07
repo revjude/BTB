@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:28** 
 <small><sub>**LXX:**</sub></small>
 And Joab trumped the trumpet, and all the people left, and did not pursue any longer after  Israel, and they did not proceed any longer  to wage war. 
-<small><sub>**KJV:**</sub></small>
-So Joab blew a trumpet, and all the people stood still, and pursued after Israel no more, neither fought they any more.
-<small><sub>**BSB:**</sub></small>
-So Joab blew the ram’s horn, and all the troops stopped; they no longer pursued Israel or continued to fight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.27|<< 2 Samuel 2:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.29|2 Samuel 2:29 >>]]</td></tr></table>
 
 | Translation | Greek |

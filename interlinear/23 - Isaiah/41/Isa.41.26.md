@@ -1,4 +1,4 @@
-**Isaiah 41:26** 
+**Isaiah 41:26**<big><big>[[Isa.41.21 Meaningless Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath declared from the beginning, that we may know? and beforetime, that we may say, [He is] righteous? yea, [there is] none that sheweth, yea, [there is] none that declareth, yea, [there is] none that heareth your words.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who has declared this from the beginning, so that we may know, and from times pa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.25|<< Isaiah 41:25]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.27|Isaiah 41:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | did he tell [it]  |**<big>&#8207;[[H5046\|הִגִּ֤יד]]&#8207; </big>**| hi.Gid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

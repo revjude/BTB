@@ -1,5 +1,5 @@
-**Acts 7:37
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:37**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This is that Moses, which said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear.
 <small><sub>**BSB:**</sub></small>
 This is the same Moses who told the Israelites, ‘God will raise up for you a prophet like me from among your brothers.’
@@ -10,7 +10,7 @@ This is the Moses <the> having said to the sons of Israel; A prophet for you wil
 > $\quad$ referencing: [[LXX.Deut.18.15|Deut 18:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|οὗτός]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

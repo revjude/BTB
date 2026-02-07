@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 9:6** 
 <small><sub>**LXX:**</sub></small>
 And indeed their love, and indeed their hatred, and indeed their zeal already perished; and there is no portion to them any longer into the eon, in all \[things\]  being done under the sun. 
-<small><sub>**KJV:**</sub></small>
-Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any [thing] that is done under the sun.
-<small><sub>**BSB:**</sub></small>
-Their love, their hate, and their envy have already vanished, and they will never again have a share in all that is done under the sun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.5|<< Ecclesiastes 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.7|Ecclesiastes 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

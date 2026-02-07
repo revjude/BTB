@@ -1,5 +1,5 @@
-**Mark 10:7
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:7**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this cause shall a man leave his father and mother, and cleave to his wife;
 <small><sub>**BSB:**</sub></small>
 ‘For this reason a man will leave his father and mother and be united to his wife,
@@ -10,7 +10,7 @@ On account of this will leave a man the father of him and <the> mother and will 
 > $\quad$ referencing: [[LXX.Gen.2.24|Gen 2:24]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On account of |**<big>[[G1752\|ἕνεκεν]]</big>**  |heneken <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τούτου]]</big>**  |toutou <small><sup>[[D-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

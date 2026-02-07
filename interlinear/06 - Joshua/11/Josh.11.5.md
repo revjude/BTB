@@ -1,4 +1,4 @@
-**Joshua 11:5** 
+**Joshua 11:5**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when all these kings were met together, they came and pitched together at the waters of Merom, to fight against Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All these kings joined forces and encamped at the waters of Merom to fight again
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.4|<< Joshua 11:4]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.6|Joshua 11:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3259\|יִּוָּ֣עֲד֔וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Va.'a.Du<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כֹּ֖ל]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

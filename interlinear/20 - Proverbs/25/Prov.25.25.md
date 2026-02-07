@@ -1,4 +1,4 @@
-**Proverbs 25:25** 
+**Proverbs 25:25**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] cold waters to a thirsty soul, so [is] good news from a far country.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like cold water to a weary soul is good news from a distant land.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.24|<< Proverbs 25:24]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.26|Proverbs 25:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | water  |**<big>&#8207;[[H4325G\|מַ֣יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cool  |**<big>&#8207;[[H7119\|קָ֭רִים]]&#8207; </big>**| Ka.rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 66:12** 
 <small><sub>**LXX:**</sub></small>
 You set men over  our heads; we went through fire and water; but you led us unto respite. 
-<small><sub>**KJV:**</sub></small>
-Thou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy [place].
-<small><sub>**BSB:**</sub></small>
-You let men ride over our heads; we went through fire and water, but You brought us into abundance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.66.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.66.11|<< Psalm 66:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.13|Psalm 66:13 >>]]</td></tr></table>
 
 | Translation | Greek |

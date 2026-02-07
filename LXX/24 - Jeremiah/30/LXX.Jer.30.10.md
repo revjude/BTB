@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:10** 
 <small><sub>**LXX:**</sub></small>
 But you, do not fear! O my servant Jacob, says \[the\] <span class="smallcaps">lord</span>. And in no way should you be terrified, O Israel. For behold, I shall deliver you from a land far off, and  your seed from a land  of their captivity. And Jacob shall be returned, and he shall rest, and he shall abound in all the good things, and there shall not be  one fearing. 
-<small><sub>**KJV:**</sub></small>
-Therefore fear thou not, O my servant Jacob, saith the LORD; neither be dismayed, O Israel: for, lo, I will save thee from afar, and thy seed from the land of their captivity; and Jacob shall return, and shall be in rest, and be quiet, and none shall make [him] afraid.
-<small><sub>**BSB:**</sub></small>
-As for you, O Jacob My servant, do not be afraid, declares the LORD, and do not be dismayed, O Israel. For I will surely save you out of a distant place, your descendants from the land of their captivity! Jacob will return to quiet and ease, with no one to make him afraid.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.9|<< Jeremiah 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.11|Jeremiah 30:11 >>]]</td></tr></table>
 
 | Translation | Greek |

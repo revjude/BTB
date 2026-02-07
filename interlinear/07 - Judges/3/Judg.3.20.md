@@ -1,4 +1,4 @@
-**Judges 3:20** 
+**Judges 3:20**<big><big>[[Judg.3.12 Ehud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ehud came unto him; and he was sitting in a summer parlour, which he had for himself alone. And Ehud said, I have a message from God unto thee. And he arose out of [his] seat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Ehud approached him while he was sitting alone in the coolness of his upper
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.19|<< Judges 3:19]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.21|Judges 3:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Ehud  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0164G\|אֵה֣וּד]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Hud<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he came  |**<big>&#8207;[[H0935G\|בָּ֣א]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

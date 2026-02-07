@@ -1,4 +1,4 @@
-**2 Samuel 3:6** 
+**2 Samuel 3:6**<big><big>[[2Sam.3.6 Abner Joins David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, while there was war between the house of Saul and the house of David, that Abner made himself strong for the house of Saul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ During the war between the house of Saul and the house of David, Abner had conti
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.5|<< 2 Samuel 3:5]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.7|2 Samuel 3:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when was  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H1961\|הְיוֹת֙]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> h.yOt<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

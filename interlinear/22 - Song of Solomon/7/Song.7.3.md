@@ -1,4 +1,4 @@
-**Song of Solomon 7:3** (7:4)
+**Song of Solomon 7:3**<big><big>[[Song.7.1 Admiration by the Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy two breasts [are] like two young roes [that are] twins.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your breasts are like two fawns, twins of a gazelle.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.2|<< Song of Solomon 7:2]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.4|Song of Solomon 7:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] two  |**<big>&#8207;[[H8147\|שְׁנֵ֥י]]&#8207; </big>**| she.Nei<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | breasts your  |**<big>&#8207;[[H7699A\|שָׁדַ֛יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| sha.Da.yi<small><sup>[[HNcmdc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

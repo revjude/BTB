@@ -1,12 +1,12 @@
-**Mark 8:36
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:36**<big><big>[[Mark.8.34 Take Up Your Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For what shall it profit a man, if he shall gain the whole world, and lose his own soul?
 <small><sub>**BSB:**</sub></small>
 What does it profit a man to gain the whole world, yet forfeit his soul?
 <small><sub>**Literal:**</sub></small>
 What for profits <the> a man if to gain the world whole and to lose the soul of him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.35|<< Mark 8:35]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.37|Mark 8:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

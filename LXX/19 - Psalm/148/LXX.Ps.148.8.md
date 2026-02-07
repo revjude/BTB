@@ -1,10 +1,7 @@
 **LXX Psalm 148:8** 
 <small><sub>**LXX:**</sub></small>
 fire, hail, snow, ice, wind, blast -- the \[things\] executing  his word; 
-<small><sub>**KJV:**</sub></small>
-Fire, and hail; snow, and vapour; stormy wind fulfilling his word:
-<small><sub>**BSB:**</sub></small>
-lightning and hail, snow and clouds, powerful wind fulfilling His word,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.148.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.148.7|<< Psalm 148:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.148.9|Psalm 148:9 >>]]</td></tr></table>
 
 | Translation | Greek |

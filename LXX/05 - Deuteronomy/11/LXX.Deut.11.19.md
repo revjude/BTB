@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:19** 
 <small><sub>**LXX:**</sub></small>
 And you shall teach your children them, to speak them sitting down in \[the\] house, and going in \[the\] way, and laying in bed, and arising. 
-<small><sub>**KJV:**</sub></small>
-And ye shall teach them your children, speaking of them when thou sittest in thine house, and when thou walkest by the way, when thou liest down, and when thou risest up.
-<small><sub>**BSB:**</sub></small>
-Teach them to your children, speaking about them when you sit at home and when you walk along the road, when you lie down and when you get up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.18|<< Deuteronomy 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.20|Deuteronomy 11:20 >>]]</td></tr></table>
 
 | Translation | Greek |

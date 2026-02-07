@@ -1,4 +1,4 @@
-**2 Chronicles 35:25** 
+**2 Chronicles 35:25**<big><big>[[2Chr.35.25 Laments over Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jeremiah lamented for Josiah: and all the singing men and the singing women spake of Josiah in their lamentations to this day, and made them an ordinance in Israel: and, behold, they [are] written in the lamentations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jeremiah lamented over Josiah, and to this day all the male and female sing
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.24|<< 2 Chronicles 35:24]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.26|2 Chronicles 35:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made a lament  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6969\|יְקוֹנֵ֣ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ko.Nen<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jeremiah  |**<big>&#8207;[[H3414L\|יִרְמְיָהוּ֮]]&#8207; </big>**| yir.me.ya.Hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

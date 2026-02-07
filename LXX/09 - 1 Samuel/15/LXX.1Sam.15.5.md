@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:5** 
 <small><sub>**LXX:**</sub></small>
 And Saul came unto the city of Amalek, and laid in wait by the rushing stream. 
-<small><sub>**KJV:**</sub></small>
-And Saul came to a city of Amalek, and laid wait in the valley.
-<small><sub>**BSB:**</sub></small>
-Saul came to the city of Amalek and lay in wait in the valley.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.4|<< 1 Samuel 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.6|1 Samuel 15:6 >>]]</td></tr></table>
 
 | Translation | Greek |

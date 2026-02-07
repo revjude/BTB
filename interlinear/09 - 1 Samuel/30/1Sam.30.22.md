@@ -1,4 +1,4 @@
-**1 Samuel 30:22** 
+**1 Samuel 30:22**<big><big>[[1Sam.30.21 The Spoils Are Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered all the wicked men and [men] of Belial, of those that went with David, and said, Because they went not with us, we will not give them [ought] of the spoil that we have recovered, save to every man his wife and his children, that they may lead [them] away, and depart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but all the wicked and worthless men among those who had gone with David said, �
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.21|<< 1 Samuel 30:21]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.23|1 Samuel 30:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֜עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

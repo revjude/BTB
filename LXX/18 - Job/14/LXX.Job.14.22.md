@@ -1,10 +1,7 @@
 **LXX Job 14:22** 
 <small><sub>**LXX:**</sub></small>
 But  his flesh aches,  and his soul mourns. 
-<small><sub>**KJV:**</sub></small>
-But his flesh upon him shall have pain, and his soul within him shall mourn.
-<small><sub>**BSB:**</sub></small>
-He feels only the pain of his own body and mourns only for himself.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.21|<< Job 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.1|Job 15:1 >>]]</td></tr></table>
 
 | Translation | Greek |

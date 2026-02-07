@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:16** 
 <small><sub>**LXX:**</sub></small>
 \[As\] I live, says Adonai \[the\] <span class="smallcaps">lord</span>, Surely in the place of the king, of the one giving him reign, who disgraced  my oath, and violated  my covenant, he shall come to an end with him in \[the\] midst of Babylon. 
-<small><sub>**KJV:**</sub></small>
-[As] I live, saith the Lord GOD, surely in the place [where] the king [dwelleth] that made him king, whose oath he despised, and whose covenant he brake, [even] with him in the midst of Babylon he shall die.
-<small><sub>**BSB:**</sub></small>
-‘As surely as I live,’ declares the Lord GOD, ‘he will die in Babylon, in the land of the king who enthroned him, whose oath he despised and whose covenant he broke.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.15|<< Ezekiel 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.17|Ezekiel 17:17 >>]]</td></tr></table>
 
 | Translation | Greek |

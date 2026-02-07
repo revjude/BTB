@@ -1,12 +1,12 @@
-**Luke 12:37
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:37**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Blessed [are] those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.
 <small><sub>**BSB:**</sub></small>
 Blessed are those servants whom the master finds on watch when he returns. Truly I tell you, he will dress himself to serve and will have them recline at the table, and he himself will come and wait on them.
 <small><sub>**Literal:**</sub></small>
 Blessed [are] the servants those whom having come the master will find watching; Amen I say to you that he will gird himself and he will make recline them, and having come up he will serve them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.36|<< Luke 12:36]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.38|Luke 12:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Blessed [are] |**<big>[[G3107\|μακάριοι]]</big>**  |makarioi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

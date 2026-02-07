@@ -1,4 +1,4 @@
-**Ecclesiastes 9:17** 
+**Ecclesiastes 9:17**<big><big>[[Eccl.9.13 Wisdom Is Better than Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of wise [men are] heard in quiet more than the cry of him that ruleth among fools.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The calm words of the wise are heeded over the shouts of a ruler among fools.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.16|<< Ecclesiastes 9:16]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.18|Ecclesiastes 9:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵ֣י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wise [people]  |**<big>&#8207;[[H2450\|חֲכָמִ֔ים]]&#8207; </big>**| cha.kha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

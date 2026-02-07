@@ -1,10 +1,7 @@
 **LXX Genesis 31:55** 
 <small><sub>**LXX:**</sub></small>
 And Laban rising up in the morning, kissed the sons and  daughters of his, and he blessed them. And Laban turned \[and\] went forth to  his place. 
-<small><sub>**KJV:**</sub></small>
-And early in the morning Laban rose up, and kissed his sons and his daughters, and blessed them: and Laban departed, and returned unto his place.
-<small><sub>**BSB:**</sub></small>
-Early the next morning, Laban got up and kissed his grandchildren and daughters and blessed them. Then he left to return home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.54|<< Genesis 31:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.1|Genesis 32:1 >>]]</td></tr></table>
 
 | Translation | Greek |

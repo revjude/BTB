@@ -1,10 +1,7 @@
 **LXX Zechariah 5:7** 
 <small><sub>**LXX:**</sub></small>
 And behold, a talent of lead \[was\] being lifted away; and behold, one woman sat down in \[the\] midst of the measure \[basket\]. 
-<small><sub>**KJV:**</sub></small>
-And, behold, there was lifted up a talent of lead: and this [is] a woman that sitteth in the midst of the ephah.
-<small><sub>**BSB:**</sub></small>
-And behold, the cover of lead was raised, and there was a woman sitting inside the basket.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.5.6|<< Zechariah 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.5.8|Zechariah 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

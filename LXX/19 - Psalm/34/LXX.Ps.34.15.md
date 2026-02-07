@@ -1,10 +1,7 @@
 **LXX Psalm 34:15** 
 <small><sub>**LXX:**</sub></small>
 The eyes of \[the\] <span class="smallcaps">lord</span> \[are\] upon \[the\] just, and his ears \[are\] unto their supplication. 
-<small><sub>**KJV:**</sub></small>
-The eyes of the LORD [are] upon the righteous, and his ears [are open] unto their cry.
-<small><sub>**BSB:**</sub></small>
-The eyes of the LORD are on the righteous, and His ears are inclined to their cry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.34.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.34.14|<< Psalm 34:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.34.16|Psalm 34:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 34:15** is...

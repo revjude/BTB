@@ -1,4 +1,4 @@
-**Psalms 45:13** (45:14)
+**Psalms 45:13**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king’s daughter [is] all glorious within: her clothing [is] of wrought gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All glorious is the princess in her chamber; her gown is embroidered with gold.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.12|<< Psalms 45:12]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.14|Psalms 45:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | glorious  |**<big>&#8207;[[H3520A\|כְּבוּדָּ֣ה]]&#8207; </big>**| ke.vu.Dah<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

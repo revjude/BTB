@@ -1,10 +1,7 @@
 **LXX Isaiah 41:26** 
 <small><sub>**LXX:**</sub></small>
 For who shall announce the \[things\] from \[the\] beginning, that we should know also the \[things\] \[happening\] before, and we shall say that they are true? There is not the one speaking beforehand, nor one hearing your  words. 
-<small><sub>**KJV:**</sub></small>
-Who hath declared from the beginning, that we may know? and beforetime, that we may say, [He is] righteous? yea, [there is] none that sheweth, yea, [there is] none that declareth, yea, [there is] none that heareth your words.
-<small><sub>**BSB:**</sub></small>
-Who has declared this from the beginning, so that we may know, and from times past, so that we may say: ‘He was right’? No one announced it, no one foretold it, no one heard your words.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.25|<< Isaiah 41:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.27|Isaiah 41:27 >>]]</td></tr></table>
 
 | Translation | Greek |

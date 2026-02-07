@@ -1,10 +1,7 @@
 **LXX Job 2:4** 
 <small><sub>**LXX:**</sub></small>
 But the devil undertaking, said to the <span class="smallcaps">lord</span>, Skin for skin, and all as much as exists to a man he will give for his life. 
-<small><sub>**KJV:**</sub></small>
-And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life.
-<small><sub>**BSB:**</sub></small>
-“Skin for skin!” Satan replied. “A man will give up all he owns in exchange for his life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.3|<< Job 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.5|Job 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 25:29
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:29**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.
 <small><sub>**BSB:**</sub></small>
 For everyone who has will be given more, and he will have an abundance. But the one who does not have, even what he has will be taken away from him.
 <small><sub>**Literal:**</sub></small>
 <the> For having to everyone will be given and he will have in abundance; from the [one] however not having, even that which he has will be taken away from him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.28|<< Matthew 25:28]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.30|Matthew 25:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

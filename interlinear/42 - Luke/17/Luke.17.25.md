@@ -1,12 +1,12 @@
-**Luke 17:25
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:25**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But first must he suffer many things, and be rejected of this generation.
 <small><sub>**BSB:**</sub></small>
 But first He must suffer many things and be rejected by this generation.
 <small><sub>**Literal:**</sub></small>
 First however it behooves Him many things to suffer and to be rejected by <the> generation this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.24|<< Luke 17:24]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.26|Luke 17:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | First |**<big>[[G4413G\|Πρῶτον]]</big>**  |Prōton <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

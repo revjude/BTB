@@ -1,4 +1,4 @@
-**Genesis 13:1** 
+**Genesis 13:1**<big><big>[[Gen.13.1 Abram and Lot Part Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Abram went up out of Egypt into the Negev—he and his wife and all his posse
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.20|<< Genesis 12:20]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.2|Genesis 13:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּעַל֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'Al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abram  |**<big>&#8207;[[H0087\|אַבְרָ֨ם]]&#8207; </big>**| 'av.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

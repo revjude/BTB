@@ -1,10 +1,7 @@
 **LXX Esther 9:29** 
 <small><sub>**LXX:**</sub></small>
 And Esther the queen daughter of Abihail wrote, and Mordecai the Jew, as much as they did, and \[the\] confirmation of the letter of the purim. 
-<small><sub>**KJV:**</sub></small>
-Then Esther the queen, the daughter of Abihail, and Mordecai the Jew, wrote with all authority, to confirm this second letter of Purim.
-<small><sub>**BSB:**</sub></small>
-So Queen Esther daughter of Abihail, along with Mordecai the Jew, wrote with full authority to confirm this second letter concerning Purim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.28|<< Esther 9:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.31|Esther 9:31 >>]]</td></tr></table>
 
 | Translation | Greek |

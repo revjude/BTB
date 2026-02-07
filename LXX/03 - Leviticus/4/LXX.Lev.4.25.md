@@ -1,10 +1,7 @@
 **LXX Leviticus 4:25** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall place some of the blood of the one of the sin \[offering\], with the finger, upon the horns of the altar of the whole burnt-offerings. And  he shall pour out all of its blood by the base of the altar of the whole burnt-offerings. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall take of the blood of the sin offering with his finger, and put [it] upon the horns of the altar of burnt offering, and shall pour out his blood at the bottom of the altar of burnt offering.
-<small><sub>**BSB:**</sub></small>
-Then the priest is to take some of the blood of the sin offering with his finger, put it on the horns of the altar of burnt offering, and pour out the rest of the blood at the base of the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.24|<< Leviticus 4:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.26|Leviticus 4:26 >>]]</td></tr></table>
 
 | Translation | Greek |

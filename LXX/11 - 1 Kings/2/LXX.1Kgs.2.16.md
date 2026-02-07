@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:16** 
 <small><sub>**LXX:**</sub></small>
 And now I ask one request from you, you should not turn \[away\]  your face. And Bath-sheba said to him, Speak! 
-<small><sub>**KJV:**</sub></small>
-And now I ask one petition of thee, deny me not. And she said unto him, Say on.
-<small><sub>**BSB:**</sub></small>
-So now I have just one request of you; do not deny me.” “State your request,” she told him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.15|<< 1 Kings 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.17|1 Kings 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

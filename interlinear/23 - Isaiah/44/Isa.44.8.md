@@ -1,4 +1,4 @@
-**Isaiah 44:8** 
+**Isaiah 44:8**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear ye not, neither be afraid: have not I told thee from that time, and have declared [it]? ye [are] even my witnesses. Is there a God beside me? yea, [there is] no God; I know not [any].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not tremble or fear. Have I not told you and declared it long ago? You are My
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.7|<< Isaiah 44:7]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.9|Isaiah 44:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you be in dread  |**<big>&#8207;[[H6342\|תִּפְחֲדוּ֙]]&#8207; </big>**| tif.cha.Du<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

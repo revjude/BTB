@@ -1,12 +1,12 @@
-**Matthew 10:40
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:40**<big><big>[[Matt.10.40 The Reward of Service|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me.
 <small><sub>**BSB:**</sub></small>
 He who receives you receives Me, and he who receives Me receives the One who sent Me.
 <small><sub>**Literal:**</sub></small>
 The [One] receiving you Me myself receives, and the [one] Me myself receiving he receives the [One] having sent Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.39|<< Matthew 10:39]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.41|Matthew 10:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [One] |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | receiving |**<big>[[G1209\|δεχόμενος]]</big>**  |dechomenos <small><sup>[[V-PNP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

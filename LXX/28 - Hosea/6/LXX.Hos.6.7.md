@@ -1,10 +1,7 @@
 **LXX Hosea 6:7** 
 <small><sub>**LXX:**</sub></small>
 But they are as a man violating covenant. There they showed disdain of me. 
-<small><sub>**KJV:**</sub></small>
-But they like men have transgressed the covenant: there have they dealt treacherously against me.
-<small><sub>**BSB:**</sub></small>
-But they, like Adam, have transgressed the covenant; there they were unfaithful to Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.6.6|<< Hosea 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.6.8|Hosea 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

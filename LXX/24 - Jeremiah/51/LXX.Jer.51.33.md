@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:33** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel; \[The\] houses of \[the\] king of Babylon shall be threshed as a threshing-floor in season; still a little and her harvest shall come. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD of hosts, the God of Israel; The daughter of Babylon [is] like a threshingfloor, [it is] time to thresh her: yet a little while, and the time of her harvest shall come.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD of Hosts, the God of Israel, says: “The Daughter of Babylon is like a threshing floor at the time it is trampled. In just a little while her harvest time will come.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.32|<< Jeremiah 51:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.34|Jeremiah 51:34 >>]]</td></tr></table>
 
 | Translation | Greek |

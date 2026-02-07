@@ -1,4 +1,4 @@
-**Psalms 71:13** 
+**Psalms 71:13**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be confounded [and] consumed that are adversaries to my soul; let them be covered [with] reproach and dishonour that seek my hurt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the accusers of my soul be ashamed and consumed; may those who seek my harm 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.12|<< Psalms 71:12]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.14|Psalms 71:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they be ashamed  |**<big>&#8207;[[H0954\|יֵבֹ֣שׁוּ]]&#8207; </big>**| ye.Vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may they come to an end  |**<big>&#8207;[[H3615H\|יִכְלוּ֮]]&#8207; </big>**| yikh.Lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

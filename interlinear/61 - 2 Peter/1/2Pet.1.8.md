@@ -1,12 +1,12 @@
-**2 Peter 1:8
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 1:8**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if these things be in you, and abound, they make [you that ye shall] neither [be] barren nor unfruitful in the knowledge of our Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 For if you possess these qualities and continue to grow in them, they will keep you from being ineffective and unproductive in your knowledge of our Lord Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 These things for in you being and abounding neither idle nor unfruitful make [you] as to the of the Lord of us Jesus Christ knowledge.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.7|<< 2 Peter 1:7]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.9|2 Peter 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

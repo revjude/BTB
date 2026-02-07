@@ -1,12 +1,12 @@
-**Ephesians 5:27
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:27**<big><big>[[Eph.5.21 Wives and Husbands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That he might present it to himself a glorious church, not having spot, or wrinkle, or any such thing; but that it should be holy and without blemish.
 <small><sub>**BSB:**</sub></small>
 and to present her to Himself as a glorious church, without stain or wrinkle or any such blemish, but holy and blameless.
 <small><sub>**Literal:**</sub></small>
 so that may present He himself to Himself in glory the church not having spot or wrinkle or any of the such things, but that it may be holy and blameless.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.26|<< Ephesians 5:26]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.28|Ephesians 5:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | may present |**<big>[[G3936\|παραστήσῃ]]</big>**  |parastēsē <small><sup>[[V-AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

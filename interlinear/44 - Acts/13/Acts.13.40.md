@@ -1,12 +1,12 @@
-**Acts 13:40
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:40**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Beware therefore, lest that come upon you, which is spoken of in the prophets;
 <small><sub>**BSB:**</sub></small>
 Watch out, then, that what was spoken by the prophets does not happen to you:
 <small><sub>**Literal:**</sub></small>
 do take heed therefore lest may come about upon you that said in the prophets:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.39|<< Acts 13:39]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.41|Acts 13:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do take heed |**<big>[[G0991\|βλέπετε]]</big>**  |blepete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

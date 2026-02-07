@@ -1,4 +1,4 @@
-**Genesis 6:14** 
+**Genesis 6:14**<big><big>[[Gen.6.13 Preparing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Make for yourself an ark of gopher wood; make rooms in the ark and coat it with 
 > $\quad$ referenced by: [[Heb.11.7|Heb 11:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | make  |**<big>&#8207;[[H6213H\|עֲשֵׂ֤ה]]&#8207; </big>**| 'a.Seh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> yourself  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

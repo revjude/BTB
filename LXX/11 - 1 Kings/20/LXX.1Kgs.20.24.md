@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:24** 
 <small><sub>**LXX:**</sub></small>
 And  this thing you do! the kings each depart to  his place, and establish satraps in place of them! 
-<small><sub>**KJV:**</sub></small>
-And do this thing, Take the kings away, every man out of his place, and put captains in their rooms:
-<small><sub>**BSB:**</sub></small>
-So do this: Dismiss all the kings from their positions and replace them with other officers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.23|<< 1 Kings 20:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.25|1 Kings 20:25 >>]]</td></tr></table>
 
 | Translation | Greek |

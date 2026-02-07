@@ -1,4 +1,4 @@
-**Job 29:25** 
+**Job 29:25**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I chose out their way, and sat chief, and dwelt as a king in the army, as one [that] comforteth the mourners.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I chose their course and presided as chief. So I dwelt as a king among his troop
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.24|<< Job 29:24]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.1|Job 30:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I chose  |**<big>&#8207;[[H0977\|אֶֽבֲחַ֣ר]]&#8207; </big>**| 'e.va.Char<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | way their  |**<big>&#8207;[[H1870G\|דַּרְכָּ]]&#8207;&#8207;[[H9028\|ם֮]]&#8207; </big>**| dar.Ka<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

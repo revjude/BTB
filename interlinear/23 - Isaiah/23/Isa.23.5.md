@@ -1,4 +1,4 @@
-**Isaiah 23:5** 
+**Isaiah 23:5**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As at the report concerning Egypt, [so] shall they be sorely pained at the report of Tyre.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the report reaches Egypt, they will writhe in agony over the news of Tyre.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.4|<< Isaiah 23:4]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.6|Isaiah 23:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<just> when  |**<big>&#8207;[[H9004\|כַּֽ]]&#8207;&#8207;[[H0834D\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a report  |**<big>&#8207;[[H8088B\|שֵׁ֖מַע]]&#8207; </big>**| She.ma'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

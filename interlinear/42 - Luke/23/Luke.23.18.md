@@ -1,12 +1,12 @@
-**Luke 23:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:18**<big><big>[[Luke.23.13 The Crowd Chooses Barabbas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they cried out all at once, saying, Away with this [man], and release unto us Barabbas:
 <small><sub>**BSB:**</sub></small>
 But they all cried out in unison: “Away with this man! Release Barabbas to us!”
 <small><sub>**Literal:**</sub></small>
 They cried out however all together saying; do remove this [man], do release now to us <the> Barabbas;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.17|<< Luke 23:17]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.19|Luke 23:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They cried out [^1] |**<big>[[G0349\|ἀνέκραγον]]</big>**  |anekragon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

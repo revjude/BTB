@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:8** 
 <small><sub>**LXX:**</sub></small>
 And the king said to Hazael, Take in  your hand a gift, and go for a meeting with the man  of God, and seek anxiously  \[of the\] <span class="smallcaps">lord</span> through him, saying, Shall I live from out of  this my illness? 
-<small><sub>**KJV:**</sub></small>
-And the king said unto Hazael, Take a present in thine hand, and go, meet the man of God, and inquire of the LORD by him, saying, Shall I recover of this disease?
-<small><sub>**BSB:**</sub></small>
-So the king said to Hazael, “Take a gift in your hand, go to meet the man of God, and inquire of the LORD through him, ‘Will I recover from this illness?’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.7|<< 2 Kings 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.9|2 Kings 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

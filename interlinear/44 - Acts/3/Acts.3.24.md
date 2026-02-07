@@ -1,12 +1,12 @@
-**Acts 3:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 3:24**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yea, and all the prophets from Samuel and those that follow after, as many as have spoken, have likewise foretold of these days.
 <small><sub>**BSB:**</sub></small>
 Indeed, all the prophets from Samuel on, as many as have spoken, have proclaimed these days.
 <small><sub>**Literal:**</sub></small>
 And all now the prophets from Samuel and those subsequently as many as spoke also told of <the> days these,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.23|<< Acts 3:23]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.25|Acts 3:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

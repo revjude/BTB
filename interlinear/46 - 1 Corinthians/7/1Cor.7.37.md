@@ -1,12 +1,12 @@
-**1 Corinthians 7:37
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:37**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nevertheless he that standeth stedfast in his heart, having no necessity, but hath power over his own will, and hath so decreed in his heart that he will keep his virgin, doeth well.
 <small><sub>**BSB:**</sub></small>
 But the man who is firmly established in his heart and under no constraint, with control over his will and resolve in his heart not to marry the virgin, he will do well.
 <small><sub>**Literal:**</sub></small>
 He who however has stood in the heart of him firm not having necessity, authority however having over the own will, and this has judged in the own heart <the> to keep <the> his own virgin, well he will do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.36|<< 1 Corinthians 7:36]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.38|1 Corinthians 7:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:12** 
 <small><sub>**LXX:**</sub></small>
 And a certain one of them answered, and said, And who \[is\] his father? On account of this it became for a parable, Might also Saul \[be\] among \[the\] prophets? 
-<small><sub>**KJV:**</sub></small>
-And one of the same place answered and said, But who [is] their father? Therefore it became a proverb, [Is] Saul also among the prophets?
-<small><sub>**BSB:**</sub></small>
-Then a man who lived there replied, “And who is their father?” So the saying became a proverb: “Is Saul also among the prophets?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.11|<< 1 Samuel 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.13|1 Samuel 10:13 >>]]</td></tr></table>
 
 | Translation | Greek |

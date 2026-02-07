@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 7:10** 
 <small><sub>**LXX:**</sub></small>
 You should not say, What happened that the former days were good over these? for you asked not in wisdom concerning this. 
-<small><sub>**KJV:**</sub></small>
-Say not thou, What is [the cause] that the former days were better than these? for thou dost not inquire wisely concerning this.
-<small><sub>**BSB:**</sub></small>
-Do not say, “Why were the old days better than these?” For it is unwise of you to ask about this.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.9|<< Ecclesiastes 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.11|Ecclesiastes 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

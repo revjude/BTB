@@ -1,4 +1,4 @@
-**Psalms 79:4** 
+**Psalms 79:4**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We are become a reproach to our neighbours, a scorn and derision to them that are round about us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We have become a reproach to our neighbors, a scorn and derision to those around
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.3|<< Psalms 79:3]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.5|Psalms 79:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we have become  |**<big>&#8207;[[H1961\|הָיִ֣ינוּ]]&#8207; </big>**| ha.Yi.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a reproach  |**<big>&#8207;[[H2781\|חֶ֭רְפָּה]]&#8207; </big>**| Cher.pah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

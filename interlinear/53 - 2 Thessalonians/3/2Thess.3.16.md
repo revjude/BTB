@@ -1,12 +1,12 @@
-**2 Thessalonians 3:16
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 3:16**<big><big>[[2Thess.3.16 Signature and Final Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now the Lord of peace himself give you peace always by all means. The Lord [be] with you all.
 <small><sub>**BSB:**</sub></small>
 Now may the Lord of peace Himself give you peace at all times and in every way. The Lord be with all of you.
 <small><sub>**Literal:**</sub></small>
 Himself now the Lord <the> of peace would give you <the> peace through all [times] in every way. The Lord [be] with all of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.15|<< 2 Thessalonians 3:15]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.17|2 Thessalonians 3:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Himself |**<big>[[G0846\|Αὐτὸς]]</big>**  |Autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 10:25** 
 <small><sub>**LXX:**</sub></small>
 Pour out  your rage upon \[the\] nations! the ones not knowing you; and upon kingdoms which  called not upon your name. For they devoured  Jacob, and completely consumed  Israel, and  made desolate his pasture. 
-<small><sub>**KJV:**</sub></small>
-Pour out thy fury upon the heathen that know thee not, and upon the families that call not on thy name: for they have eaten up Jacob, and devoured him, and consumed him, and have made his habitation desolate.
-<small><sub>**BSB:**</sub></small>
-Pour out Your wrath on the nations that do not acknowledge You, and on the families that do not call on Your name. For they have devoured Jacob; they have consumed him and finished him off; they have devastated his homeland.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.24|<< Jeremiah 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.1|Jeremiah 11:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 10:25** is...

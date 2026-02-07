@@ -1,10 +1,7 @@
 **LXX Job 32:15** 
 <small><sub>**LXX:**</sub></small>
 \[And\] they were terrified. They answered not any longer; words were old \[coming\] from them. 
-<small><sub>**KJV:**</sub></small>
-They were amazed, they answered no more: they left off speaking.
-<small><sub>**BSB:**</sub></small>
-Job’s friends are dismayed, with no more to say; words have escaped them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.32.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.32.14|<< Job 32:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.32.16|Job 32:16 >>]]</td></tr></table>
 
 | Translation | Greek |

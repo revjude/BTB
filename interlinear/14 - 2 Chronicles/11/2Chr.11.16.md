@@ -1,4 +1,4 @@
-**2 Chronicles 11:16** 
+**2 Chronicles 11:16**<big><big>[[2Chr.11.13 Jeroboam Forsakes the Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after them out of all the tribes of Israel such as set their hearts to seek the LORD God of Israel came to Jerusalem, to sacrifice unto the LORD God of their fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those from every tribe of Israel who had set their hearts to seek the LORD their
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.15|<< 2 Chronicles 11:15]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.17|2 Chronicles 11:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after them  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחֲרֵי]]&#8207;&#8207;[[H9038\|הֶ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.cha.rei.<small><sup>[[HAcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from all  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כֹּל֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

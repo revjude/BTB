@@ -1,12 +1,12 @@
-**Matthew 16:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:5**<big><big>[[Matt.16.5 The Leaven of the Pharisees and Sadducees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when his disciples were come to the other side, they had forgotten to take bread.
 <small><sub>**BSB:**</sub></small>
 When they crossed to the other side, the disciples forgot to take bread.
 <small><sub>**Literal:**</sub></small>
 And having come the disciples of him to the other side they forgot bread to take.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.4|<< Matthew 16:4]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.6|Matthew 16:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G2064\|ἐλθόντες]]</big>**  |elthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

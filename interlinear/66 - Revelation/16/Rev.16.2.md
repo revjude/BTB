@@ -1,5 +1,5 @@
-**Revelation 16:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:2**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the first went, and poured out his vial upon the earth; and there fell a noisome and grievous sore upon the men which had the mark of the beast, and [upon] them which worshipped his image.
 <small><sub>**BSB:**</sub></small>
 So the first angel went and poured out his bowl on the earth, and loathsome, malignant sores broke out on those who had the mark of the beast and worshiped its image.
@@ -10,7 +10,7 @@ And departed the first and poured out the bowl of him into the earth, and came a
 > $\quad$ possibly alluding to: [[LXX.Exod.9.10|Exod 9:10]] ☩ [[LXX.Ezek.10.2|Ezek 10:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | departed |**<big>[[G0565\|ἀπῆλθεν]]</big>**  |apēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

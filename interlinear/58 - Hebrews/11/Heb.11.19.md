@@ -1,12 +1,12 @@
-**Hebrews 11:19
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:19**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Accounting that God [was] able to raise [him] up, even from the dead; from whence also he received him in a figure.
 <small><sub>**BSB:**</sub></small>
 Abraham reasoned that God could raise the dead, and in a sense, he did receive Isaac back from death.
 <small><sub>**Literal:**</sub></small>
 having reasoned that even out from [the] dead to raise  able [was] <the> God, from where him also in a simile he received.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.18|<< Hebrews 11:18]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.20|Hebrews 11:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having reasoned |**<big>[[G3049\|λογισάμενος]]</big>**  |logisamenos <small><sup>[[V-ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

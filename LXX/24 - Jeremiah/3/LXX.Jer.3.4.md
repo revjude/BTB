@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:4** 
 <small><sub>**LXX:**</sub></small>
 Was it not until now you called me even, Father? and, Head  of your virginity? 
-<small><sub>**KJV:**</sub></small>
-Wilt thou not from this time cry unto me, My father, thou [art] the guide of my youth?
-<small><sub>**BSB:**</sub></small>
-Have you not just called to Me, ‘My Father, You are my friend from youth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.3|<< Jeremiah 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.5|Jeremiah 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

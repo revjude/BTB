@@ -1,5 +1,5 @@
-**Hebrews 6:19
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 6:19**<big><big>[[Heb.6.13 God’s Unchangeable Promise|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which [hope] we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;
 <small><sub>**BSB:**</sub></small>
 We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain,
@@ -10,7 +10,7 @@ which as an anchor we have of the soul sure both and unshakable and entering int
 > $\quad$ alluding to: [[LXX.Lev.16.12|Lev 16:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which |**<big>[[G3739\|ἣν]]</big>**  |hēn <small><sup>[[R-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

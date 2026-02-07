@@ -1,12 +1,12 @@
-**Acts 8:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:10**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To whom they all gave heed, from the least to the greatest, saying, This man is the great power of God.
 <small><sub>**BSB:**</sub></small>
 and all the people, from the least to the greatest, heeded his words and said, “This man is the divine power called the Great Power.”
 <small><sub>**Literal:**</sub></small>
 to whom were giving heed all from small until great saying; This [one] is the power <the> of God which is called Great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.9|<< Acts 8:9]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.11|Acts 8:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to whom |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were giving heed |**<big>[[G4337\|προσεῖχον]]</big>**  |proseichon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

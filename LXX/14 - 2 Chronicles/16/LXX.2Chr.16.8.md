@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 16:8** 
 <small><sub>**LXX:**</sub></small>
 Were not the Ethiopians and Lubim a vast force, and of courage for chariots and horsemen in multitude, exceedingly? And in  your relying upon \[the\] <span class="smallcaps">lord</span>, he delivered them into  your hands. 
-<small><sub>**KJV:**</sub></small>
-Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because thou didst rely on the LORD, he delivered them into thine hand.
-<small><sub>**BSB:**</sub></small>
-Were not the Cushites and Libyans a vast army with many chariots and horsemen? Yet because you relied on the LORD, He delivered them into your hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.16.7|<< 2 Chronicles 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.16.9|2 Chronicles 16:9 >>]]</td></tr></table>
 
 | Translation | Greek |

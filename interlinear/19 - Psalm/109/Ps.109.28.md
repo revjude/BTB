@@ -1,4 +1,4 @@
-**Psalms 109:28** 
+**Psalms 109:28**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them curse, but bless thou: when they arise, let them be ashamed; but let thy servant rejoice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though they curse, You will bless. When they rise up, they will be put to shame,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.27|<< Psalms 109:27]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.29|Psalms 109:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will curse  |**<big>&#8207;[[H7043\|יְקַֽלְלוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.ka.lu-<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H1992\|הֵמָּה֮]]&#8207; </big>**| he.Mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

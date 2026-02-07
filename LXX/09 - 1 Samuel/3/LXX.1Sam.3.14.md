@@ -1,10 +1,7 @@
 **LXX 1 Samuel 3:14** 
 <small><sub>**LXX:**</sub></small>
 And have I not thus sworn by an oath to the house of Eli, Shall the iniquity of \[the\] house of Eli be atoned by incense or by sacrifices into \[the\] eon, \[no\]. 
-<small><sub>**KJV:**</sub></small>
-And therefore I have sworn unto the house of Eli, that the iniquity of Eli’s house shall not be purged with sacrifice nor offering for ever.
-<small><sub>**BSB:**</sub></small>
-Therefore I have sworn to the house of Eli, ‘The iniquity of Eli’s house shall never be atoned for by sacrifice or offering.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.13|<< 1 Samuel 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.15|1 Samuel 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

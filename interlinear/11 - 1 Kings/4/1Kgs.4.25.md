@@ -1,4 +1,4 @@
-**1 Kings 4:25** (5:5)
+**1 Kings 4:25**<big><big>[[1Kgs.4.20 Solomon’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beersheba, all the days of Solomon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Throughout the days of Solomon, Judah and Israel dwelt securely from Dan to Beer
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.24|<< 1 Kings 4:24]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.26|1 Kings 4:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it dwelt  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|יֵּשֶׁב֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Shev<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֨ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

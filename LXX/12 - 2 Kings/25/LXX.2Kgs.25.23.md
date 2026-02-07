@@ -1,10 +1,7 @@
 **LXX 2 Kings 25:23** 
 <small><sub>**LXX:**</sub></small>
 And all the rulers of the force heard, they and  their men, that \[the\] king of Babylon placed  Gedaliah \[in charge\]. And they came to Gedaliah in Mizpah -- even Ishmael son of Nethaniah, and Johanan son of Careah, and Seraiah son of Tanhumeth the Netophathite, and Jaazaniah son of the Maachathite, they and  their men. 
-<small><sub>**KJV:**</sub></small>
-And when all the captains of the armies, they and their men, heard that the king of Babylon had made Gedaliah governor, there came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Careah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of a Maachathite, they and their men.
-<small><sub>**BSB:**</sub></small>
-When all the commanders of the armies and their men heard that the king of Babylon had appointed Gedaliah as governor, they came to Gedaliah at Mizpah—Ishmael son of Nethaniah, Johanan son of Kareah, Seraiah son of Tanhumeth the Netophathite, and Jaazaniah son of the Maacathite, as well as their men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.22|<< 2 Kings 25:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.24|2 Kings 25:24 >>]]</td></tr></table>
 
 | Translation | Greek |

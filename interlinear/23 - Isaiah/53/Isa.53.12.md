@@ -1,4 +1,4 @@
-**Isaiah 53:12** 
+**Isaiah 53:12**<big><big>[[Isa.53.9 A Grave Assigned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will I divide him [a portion] with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death: and he was numbered with the transgressors; and he bare the sin of many, and made intercession for the transgressors.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Therefore I will allot Him a portion with the great, and He will divide the spoi
 > $\quad$ referenced by: [[Mark.15.28|Mark 15:28]] ☩ [[Luke.22.37|Luke 22:37]] ☩ [[Heb.9.28|Heb 9:28]] ☩ [[1Pet.2.24|1Pet 2:24]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֞ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will allot a portion  |**<big>&#8207;[[H2505A\|אֲחַלֶּק]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.cha.lek-<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

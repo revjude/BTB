@@ -1,12 +1,12 @@
-**Mark 6:13
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:13**<big><big>[[Mark.6.7 The Ministry of the Twelve|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they cast out many devils, and anointed with oil many that were sick, and healed [them].
 <small><sub>**BSB:**</sub></small>
 They also drove out many demons and healed many of the sick, anointing them with oil.
 <small><sub>**Literal:**</sub></small>
 And demons many they were casting out and were anointing with oil many sick and were healing [them].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.12|<< Mark 6:12]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.14|Mark 6:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | demons |**<big>[[G1140\|δαιμόνια]]</big>**  |daimonia <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

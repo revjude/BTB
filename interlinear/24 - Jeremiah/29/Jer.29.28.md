@@ -1,4 +1,4 @@
-**Jeremiah 29:28** 
+**Jeremiah 29:28**<big><big>[[Jer.29.24 The Message to Shemaiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For therefore he sent unto us [in] Babylon, saying, This [captivity is] long: build ye houses, and dwell [in them]; and plant gardens, and eat the fruit of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For he has sent to us in Babylon, claiming: Since the exile will be lengthy, bui
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.27|<< Jeremiah 29:27]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.29|Jeremiah 29:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588C\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | since  |**<big>&#8207;[[H5921B\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

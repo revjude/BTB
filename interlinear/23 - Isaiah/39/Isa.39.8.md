@@ -1,4 +1,4 @@
-**Isaiah 39:8** 
+**Isaiah 39:8**<big><big>[[Isa.39.1 Hezekiah Shows His Treasures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Hezekiah to Isaiah, Good [is] the word of the LORD which thou hast spoken. He said moreover, For there shall be peace and truth in my days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Hezekiah said to Isaiah, “The word of the LORD that you have spoken is goo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.39.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.39.7|<< Isaiah 39:7]]</td><td align="center" style="border:none;">[[Isa.39|Isaiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.1|Isaiah 40:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hezekiah  |**<big>&#8207;[[H2396G\|חִזְקִיָּ֙הוּ֙]]&#8207; </big>**| chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

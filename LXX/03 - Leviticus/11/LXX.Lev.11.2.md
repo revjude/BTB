@@ -1,10 +1,7 @@
 **LXX Leviticus 11:2** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! saying, These \[are\] the animals which you shall eat from out of all of the animals of the \[ones\] upon the earth. 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, saying, These [are] the beasts which ye shall eat among all the beasts that [are] on the earth.
-<small><sub>**BSB:**</sub></small>
-“Say to the Israelites, ‘Of all the beasts of the earth, these ones you may eat:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.1|<< Leviticus 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.3|Leviticus 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

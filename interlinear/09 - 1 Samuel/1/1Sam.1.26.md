@@ -1,4 +1,4 @@
-**1 Samuel 1:26** 
+**1 Samuel 1:26**<big><big>[[1Sam.1.19 The Birth of Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said, Oh my lord, [as] thy soul liveth, my lord, I [am] the woman that stood by thee here, praying unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And she said, Oh my lord, [as] thy soul liveth, my lord, I [am] the woman that s
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.25|<< 1 Samuel 1:25]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.27|1 Samuel 1:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֙אמֶר֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | pardon me  |**<big>&#8207;[[H0994\|בִּ֣י]]&#8207; </big>**| bi<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

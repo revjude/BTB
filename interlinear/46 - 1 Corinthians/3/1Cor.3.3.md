@@ -1,12 +1,12 @@
-**1 Corinthians 3:3
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:3**<big><big>[[1Cor.3.1 God’s Fellow Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For ye are yet carnal: for whereas [there is] among you envying, and strife, and divisions, are ye not carnal, and walk as men?
 <small><sub>**BSB:**</sub></small>
 for you are still worldly. For since there is jealousy and dissension among you, are you not worldly? Are you not walking in the way of man?
 <small><sub>**Literal:**</sub></small>
 still for fleshly you are. Where for [are] among you jealousy and strife and dissensions surely fleshly are you and according to man are walking?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.2|<< 1 Corinthians 3:2]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.4|1 Corinthians 3:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | still |**<big>[[G2089\|ἔτι]]</big>**  |eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

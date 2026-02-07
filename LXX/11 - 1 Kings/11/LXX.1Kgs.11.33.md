@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:33** 
 <small><sub>**LXX:**</sub></small>
 because he abandoned me, and offered \[unto\] Ashtoreth \[the\] abomination of \[the\] Sidonians, and  to Chemosh \[the\] idol of Moab, and \[to\] Milcom \[the\] loathsome thing of \[the\] sons of Ammon. And he did not go in  my ways  to do the upright \[thing\] before me, and  my orders, and  my ordinances, as David his father did. 
-<small><sub>**KJV:**</sub></small>
-Because that they have forsaken me, and have worshipped Ashtoreth the goddess of the Zidonians, Chemosh the god of the Moabites, and Milcom the god of the children of Ammon, and have not walked in my ways, to do [that which is] right in mine eyes, and [to keep] my statutes and my judgments, as [did] David his father.
-<small><sub>**BSB:**</sub></small>
-For they have forsaken Me to worship Ashtoreth the goddess of the Sidonians, Chemosh the god of the Moabites, and Milcom the god of the Ammonites. They have not walked in My ways, nor done what is right in My eyes, nor kept My statutes and judgments, as Solomon’s father David did.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.32|<< 1 Kings 11:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.34|1 Kings 11:34 >>]]</td></tr></table>
 
 | Translation | Greek |

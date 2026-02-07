@@ -1,4 +1,4 @@
-**Genesis 41:57** 
+**Genesis 41:57**<big><big>[[Gen.41.53 The Famine Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all countries came into Egypt to Joseph for to buy [corn]; because that the famine was [so] sore in all lands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And every nation came to Joseph in Egypt to buy grain, because the famine was se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.56|<< Genesis 41:56]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.1|Genesis 42:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֙רֶץ֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

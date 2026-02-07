@@ -1,4 +1,4 @@
-**Job 5:17** 
+**Job 5:17**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, happy [is] the man whom God correcteth: therefore despise not thou the chastening of the Almighty:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed indeed is the man whom God corrects; so do not despise the discipline of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.16|<< Job 5:16]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.18|Job 5:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | how blessed!  |**<big>&#8207;[[H0835\|אַשְׁרֵ֣י]]&#8207; </big>**| 'ash.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

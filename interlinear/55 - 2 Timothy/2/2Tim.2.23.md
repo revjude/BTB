@@ -1,12 +1,12 @@
-**2 Timothy 2:23
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:23**<big><big>[[2Tim.2.14 The Lord’s Approved Workman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But foolish and unlearned questions avoid, knowing that they do gender strifes.
 <small><sub>**BSB:**</sub></small>
 But reject foolish and ignorant speculation, for you know that it breeds quarreling.
 <small><sub>**Literal:**</sub></small>
 <the> And foolish and ignorant speculations do refuse knowing that they breed quarrels;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.22|<< 2 Timothy 2:22]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.24|2 Timothy 2:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὰς]]</big>**  |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

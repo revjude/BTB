@@ -1,4 +1,4 @@
-**Deuteronomy 21:9** 
+**Deuteronomy 21:9**<big><big>[[Deut.21.1 Atonement for an Unsolved Murder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shalt thou put away the [guilt of] innocent blood from among you, when thou shalt do [that which is] right in the sight of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So you shall purge from among you the guilt of shedding innocent blood, since yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.8|<< Deuteronomy 21:8]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.10|Deuteronomy 21:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will remove  |**<big>&#8207;[[H1197I\|תְּבַעֵ֛ר]]&#8207; </big>**| te.va.'Er<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

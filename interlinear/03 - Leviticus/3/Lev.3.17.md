@@ -1,4 +1,4 @@
-**Leviticus 3:17** 
+**Leviticus 3:17**<big><big>[[Lev.3.1 Laws for Peace Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It shall be] a perpetual statute for your generations throughout all your dwellings, that ye eat neither fat nor blood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is a permanent statute for the generations to come, wherever you live: You 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.3.16|<< Leviticus 3:16]]</td><td align="center" style="border:none;">[[Lev.3|Leviticus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.1|Leviticus 4:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a statute of  |**<big>&#8207;[[H2708\|חֻקַּ֤ת]]&#8207; </big>**| chu.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָם֙]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

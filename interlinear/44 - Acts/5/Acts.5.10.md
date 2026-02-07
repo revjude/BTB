@@ -1,12 +1,12 @@
-**Acts 5:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:10**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying [her] forth, buried [her] by her husband.
 <small><sub>**BSB:**</sub></small>
 At that instant she fell down at his feet and died. Then the young men came in and, finding her dead, carried her out and buried her beside her husband.
 <small><sub>**Literal:**</sub></small>
 She fell down then immediately at the feet of him and breathed her last; Having come in then the young [men] found her dead, and having carried out they buried [her] by the husband of her;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.9|<< Acts 5:9]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.11|Acts 5:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | She fell down |**<big>[[G4098\|ἔπεσεν]]</big>**  |epesen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

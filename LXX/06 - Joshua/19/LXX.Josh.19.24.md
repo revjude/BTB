@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And came forth the fifth lot to the tribe of \[the\] sons of Asher according to their peoples. 
-<small><sub>**KJV:**</sub></small>
-And the fifth lot came out for the tribe of the children of Asher according to their families.
-<small><sub>**BSB:**</sub></small>
-The fifth lot came out for the clans of the tribe of Asher:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.23|<< Joshua 19:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.25|Joshua 19:25 >>]]</td></tr></table>
 
 | Translation | Greek |

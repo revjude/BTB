@@ -1,10 +1,7 @@
 **LXX Haggai 2:9** 
 <small><sub>**LXX:**</sub></small>
 For great will be the glory  of this house, the last one above the first, says \[the\] <span class="smallcaps">lord</span> almighty. And in  this place I will establish peace, says \[the\] <span class="smallcaps">lord</span> almighty; even peace of soul for \[the\] procurement to every one  creating  to raise up  this temple. 
-<small><sub>**KJV:**</sub></small>
-The glory of this latter house shall be greater than of the former, saith the LORD of hosts: and in this place will I give peace, saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-The latter glory of this house will be greater than the former, says the LORD of Hosts. And in this place I will provide peace, declares the LORD of Hosts.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.8|<< Haggai 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.10|Haggai 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

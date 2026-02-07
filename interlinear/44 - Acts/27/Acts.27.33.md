@@ -1,12 +1,12 @@
-**Acts 27:33
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:33**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And while the day was coming on, Paul besought [them] all to take meat, saying, This day is the fourteenth day that ye have tarried and continued fasting, having taken nothing.
 <small><sub>**BSB:**</sub></small>
 Right up to daybreak, Paul kept urging them all to eat: “Today is your fourteenth day in constant suspense, without taking any food.
 <small><sub>**Literal:**</sub></small>
 Until then that day was about to come, was urging <the> Paul all to partake of food saying; [the] fourteenth today [is] day watching without eating you continue nothing having taken.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.32|<< Acts 27:32]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.34|Acts 27:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Until |**<big>[[G0891\|Ἄχρι]]</big>**  |Achri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

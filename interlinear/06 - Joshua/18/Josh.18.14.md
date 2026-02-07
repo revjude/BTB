@@ -1,4 +1,4 @@
-**Joshua 18:14** 
+**Joshua 18:14**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border was drawn [thence], and compassed the corner of the sea southward, from the hill that [lieth] before Bethhoron southward; and the goings out thereof were at Kirjathbaal, which [is] Kirjathjearim, a city of the children of Judah: this [was] the west quarter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the west side the border curved southward from the hill facing Beth-horon on 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.13|<< Joshua 18:13]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.15|Joshua 18:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it turns  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8388A\|תָאַ֣ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ta.'Ar<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the border  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1366G\|גְּבוּל֩]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

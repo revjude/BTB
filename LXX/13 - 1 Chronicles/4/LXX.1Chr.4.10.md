@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:10** 
 <small><sub>**LXX:**</sub></small>
 And Jabez called on the God of Israel, saying, If \[by\] blessing you should bless me, and multiply  my borders, and your hand might be  with me, and you would execute knowledge  to not abase me. And God brought all as much as he asked for. 
-<small><sub>**KJV:**</sub></small>
-And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep [me] from evil, that it may not grieve me! And God granted him that which he requested.
-<small><sub>**BSB:**</sub></small>
-And Jabez called out to the God of Israel, “If only You would bless me and enlarge my territory! May Your hand be with me and keep me from harm, so that I will be free from pain.” And God granted the request of Jabez.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.9|<< 1 Chronicles 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.11|1 Chronicles 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

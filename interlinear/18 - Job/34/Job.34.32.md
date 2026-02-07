@@ -1,4 +1,4 @@
-**Job 34:32** 
+**Job 34:32**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That which] I see not teach thou me: if I have done iniquity, I will do no more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Teach me what I cannot see; if I have done wrong, I will not do it again.’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.31|<< Job 34:31]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.33|Job 34:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | apart from  |**<big>&#8207;[[H1107\|בִּלְעֲדֵ֣י]]&#8207; </big>**| bil.'a.Dei<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [that which] I see  |**<big>&#8207;[[H2372\|אֶ֭חֱזֶה]]&#8207; </big>**| 'E.che.zeh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

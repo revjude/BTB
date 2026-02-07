@@ -1,10 +1,7 @@
 **LXX Genesis 27:28** 
 <small><sub>**LXX:**</sub></small>
 and God give to you from the dew of the heaven, and from the fatness of the earth, and a multitude of grain and wine. 
-<small><sub>**KJV:**</sub></small>
-Therefore God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine:
-<small><sub>**BSB:**</sub></small>
-May God give to you the dew of heaven and the richness of the earth—an abundance of grain and new wine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.27|<< Genesis 27:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.29|Genesis 27:29 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 27:28** is...

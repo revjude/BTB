@@ -1,4 +1,4 @@
-**2 Samuel 13:8** 
+**2 Samuel 13:8**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Tamar went to her brother Amnon’s house; and he was laid down. And she took flour, and kneaded [it], and made cakes in his sight, and did bake the cakes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Tamar went to the house of her brother Amnon, who was lying down. She took so
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.7|<< 2 Samuel 13:7]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.9|2 Samuel 13:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|תֵּ֣לֶךְ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.lekh<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Tamar  |**<big>&#8207;[[H8559H\|תָּמָ֗ר]]&#8207; </big>**| ta.Mar<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

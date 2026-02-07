@@ -1,12 +1,12 @@
-**Luke 10:16
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:16**<big><big>[[Luke.10.13 Woe to the Unrepentant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me.
 <small><sub>**BSB:**</sub></small>
 Whoever listens to you listens to Me; whoever rejects you rejects Me; and whoever rejects Me rejects the One who sent Me.”
 <small><sub>**Literal:**</sub></small>
 The [one] hearing you Me hears, and the [one] rejecting you Me myself rejects; the [one] now Me myself rejecting he rejects the [One] having sent Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.15|<< Luke 10:15]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.17|Luke 10:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | hearing |**<big>[[G0191\|ἀκούων]]</big>**  |akouōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

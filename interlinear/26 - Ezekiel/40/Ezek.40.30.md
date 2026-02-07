@@ -1,4 +1,4 @@
-**Ezekiel 40:30** 
+**Ezekiel 40:30**<big><big>[[Ezek.40.28 The Gates of the Inner Court|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the arches round about [were] five and twenty cubits long, and five cubits broad.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the arches round about [were] five and twenty cubits long, and five cubits b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.29|<< Ezekiel 40:29]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.31|Ezekiel 40:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and porches  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0361\|אֵֽלַמּ֖וֹת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.la.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] all around  |**<big>&#8207;[[H5439G\|סָבִ֣יב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

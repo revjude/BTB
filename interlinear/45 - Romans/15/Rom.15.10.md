@@ -1,5 +1,5 @@
-**Romans 15:10
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:10**<big><big>[[Rom.15.7 Christ the Servant of Jews and Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And again he saith, Rejoice, ye Gentiles, with his people.
 <small><sub>**BSB:**</sub></small>
 Again, it says: “Rejoice, O Gentiles, with His people.”
@@ -10,7 +10,7 @@ And again it says: do rejoice you Gentiles with the people of Him.<br><table wid
 > $\quad$ referencing: [[LXX.Deut.32.43|Deut 32:43]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | again |**<big>[[G3825\|πάλιν]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

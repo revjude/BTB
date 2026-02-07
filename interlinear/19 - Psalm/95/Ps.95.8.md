@@ -1,4 +1,4 @@
-**Psalms 95:8** 
+**Psalms 95:8**<big><big>[[Ps.95.1 Do Not Harden Your Hearts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Harden not your heart, as in the provocation, [and] as [in] the day of temptation in the wilderness:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ do not harden your hearts as you did at Meribah, in the day at Massah in the wil
 > $\quad$ referenced by: [[Heb.3.7|Heb 3:7-11]] ☩ [[Heb.3.15|Heb 3:15]] ☩ [[Heb.4.7|Heb 4:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you harden  |**<big>&#8207;[[H7185\|תַּקְשׁ֣וּ]]&#8207; </big>**| tak.Shu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

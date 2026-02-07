@@ -1,12 +1,12 @@
-**Titus 3:5
-**<small><sub>**KJV:**</sub></small>
+**Titus 3:5**<big><big>[[Titus.3.1 Heirs of Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;
 <small><sub>**BSB:**</sub></small>
 He saved us, not by the righteous deeds we had done, but according to His mercy, through the washing of new birth and renewal by the Holy Spirit.
 <small><sub>**Literal:**</sub></small>
 not by works <the> in righteousness that did we ourselves, but according to <the> His mercy He saved us through [the] washing of regeneration and renewing of [the] Spirit Holy<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.4|<< Titus 3:4]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.6|Titus 3:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | by |**<big>[[G1537\|ἐξ]]</big>**  |ex <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

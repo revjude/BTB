@@ -1,12 +1,12 @@
-**Revelation 9:21
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:21**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts.
 <small><sub>**BSB:**</sub></small>
 Furthermore, they did not repent of their murder, sorcery, sexual immorality, and theft.
 <small><sub>**Literal:**</sub></small>
 And not they repented of the murders of them nor of the sorceries of them nor of the sexual immorality of them nor of the thefts of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.20|<< Revelation 9:20]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.1|Revelation 10:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

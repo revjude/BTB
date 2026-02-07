@@ -1,4 +1,4 @@
-**Micah 4:3** 
+**Micah 4:3**<big><big>[[Mic.4.1 The Mountain of the House of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then He will judge between many peoples and arbitrate for strong nations far and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.4.2|<< Micah 4:2]]</td><td align="center" style="border:none;">[[Mic.4|Micah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.4.4|Micah 4:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will judge  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8199\|שָׁפַ֗ט]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Fat<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | between  |**<big>&#8207;[[H0996G\|בֵּ֚ין]]&#8207; </big>**| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

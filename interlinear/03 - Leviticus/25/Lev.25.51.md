@@ -1,4 +1,4 @@
-**Leviticus 25:51** 
+**Leviticus 25:51**<big><big>[[Lev.25.47 Redemption of Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If [there be] yet many years [behind], according unto them he shall give again the price of his redemption out of the money that he was bought for.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If many years remain, he must pay for his redemption in proportion to his purcha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.50|<< Leviticus 25:50]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.52|Leviticus 25:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | still  |**<big>&#8207;[[H5750\|ע֥וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

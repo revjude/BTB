@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And came forth the angel, the one speaking to me, and he said to me, Look up  with your eyes, and behold what  this going forth \[is\]! 
-<small><sub>**KJV:**</sub></small>
-Then the angel that talked with me went forth, and said unto me, Lift up now thine eyes, and see what [is] this that goeth forth.
-<small><sub>**BSB:**</sub></small>
-Then the angel who was speaking with me came forward and told me, “Now lift up your eyes and see what is approaching.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.5.4|<< Zechariah 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.5.6|Zechariah 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 1:34
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:34**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Mary unto the angel, How shall this be, seeing I know not a man?
 <small><sub>**BSB:**</sub></small>
 “How can this be,” Mary asked the angel, “since I am a virgin?”
 <small><sub>**Literal:**</sub></small>
 Said then Mary to the angel; How will be this since a man not I know?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.33|<< Luke 1:33]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.35|Luke 1:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

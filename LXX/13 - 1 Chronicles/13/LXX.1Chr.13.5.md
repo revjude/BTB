@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 13:5** 
 <small><sub>**LXX:**</sub></small>
 And David assembled  all Israel, from \[the\] borders of Egypt and unto \[the\] entrance of Hamath,  to carry in the ark  of God from \[the\] city of Jearim. 
-<small><sub>**KJV:**</sub></small>
-So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hemath, to bring the ark of God from Kirjathjearim.
-<small><sub>**BSB:**</sub></small>
-So David assembled all Israel, from the River Shihor in Egypt to Lebo-hamath, to bring the ark of God from Kiriath-jearim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.13.4|<< 1 Chronicles 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.13.6|1 Chronicles 13:6 >>]]</td></tr></table>
 
 | Translation | Greek |

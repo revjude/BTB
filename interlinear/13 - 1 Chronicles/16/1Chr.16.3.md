@@ -1,4 +1,4 @@
-**1 Chronicles 16:3** 
+**1 Chronicles 16:3**<big><big>[[1Chr.16.1 A Tent for the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he dealt to every one of Israel, both man and woman, to every one a loaf of bread, and a good piece of flesh, and a flagon [of wine].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he distributed to every man and woman of Israel a loaf of bread, a date cak
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.2|<< 1 Chronicles 16:2]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.4|1 Chronicles 16:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he distributed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2505A\|יְחַלֵּק֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.cha.Lek<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to every  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

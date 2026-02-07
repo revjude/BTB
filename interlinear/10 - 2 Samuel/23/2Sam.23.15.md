@@ -1,4 +1,4 @@
-**2 Samuel 23:15** 
+**2 Samuel 23:15**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, which [is] by the gate!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ David longed for water and said, “Oh, that someone would get me a drink of wat
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.14|<< 2 Samuel 23:14]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.16|2 Samuel 23:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he desired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0183\|יִּתְאַוֶּ֥ה]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.'a.Veh<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָוִ֖ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

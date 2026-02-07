@@ -1,10 +1,7 @@
 **LXX Leviticus 1:14** 
 <small><sub>**LXX:**</sub></small>
 But if from the birds he should bring his gift yield \[offering\] to the <span class="smallcaps">lord</span>, then he shall bring his gift from the turtle-doves or from the pigeons, 
-<small><sub>**KJV:**</sub></small>
-And if the burnt sacrifice for his offering to the LORD [be] of fowls, then he shall bring his offering of turtledoves, or of young pigeons.
-<small><sub>**BSB:**</sub></small>
-If, instead, one’s offering to the LORD is a burnt offering of birds, he is to present a turtledove or a young pigeon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.1.13|<< Leviticus 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.1.15|Leviticus 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

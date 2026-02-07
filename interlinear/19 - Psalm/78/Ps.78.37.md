@@ -1,4 +1,4 @@
-**Psalms 78:37** 
+**Psalms 78:37**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For their heart was not right with him, neither were they stedfast in his covenant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their hearts were disloyal to Him, and they were unfaithful to His covenant.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.36|<< Psalms 78:36]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.38|Psalms 78:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and heart their  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H3820A\|לִבָּ]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> li.bo<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

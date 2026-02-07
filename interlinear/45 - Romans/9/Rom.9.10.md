@@ -1,12 +1,12 @@
-**Romans 9:10
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:10**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And not only [this]; but when Rebecca also had conceived by one, [even] by our father Isaac;
 <small><sub>**BSB:**</sub></small>
 Not only that, but Rebecca’s children were conceived by one man, our father Isaac.
 <small><sub>**Literal:**</sub></small>
 Not only then, but also Rebecca by one conception having Isaac the father of us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.9|<< Romans 9:9]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.11|Romans 9:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|Οὐ]]</big>**  |Ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | only |**<big>[[G3441\|μόνον]]</big>**  |monon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

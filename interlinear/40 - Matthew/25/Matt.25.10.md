@@ -1,12 +1,12 @@
-**Matthew 25:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:10**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.
 <small><sub>**BSB:**</sub></small>
 But while they were on their way to buy it, the bridegroom arrived. Those who were ready went in with him to the wedding banquet, and the door was shut.
 <small><sub>**Literal:**</sub></small>
 [While] are going away then they to buy came the bridegroom, and those ready went in with him to the wedding feast, and was shut the door.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.9|<< Matthew 25:9]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.11|Matthew 25:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [While] are going away |**<big>[[G0565\|ἀπερχομένων]]</big>**  |aperchomenōn <small><sup>[[V-PNP-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

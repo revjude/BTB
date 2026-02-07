@@ -1,4 +1,4 @@
-**Exodus 29:42** 
+**Exodus 29:42**<big><big>[[Exod.29.38 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [This shall be] a continual burnt offering throughout your generations [at] the door of the tabernacle of the congregation before the LORD: where I will meet you, to speak there unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the generations to come, this burnt offering shall be made regularly at the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.41|<< Exodus 29:41]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.43|Exodus 29:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a burnt offering of  |**<big>&#8207;[[H5930A\|עֹלַ֤ת]]&#8207; </big>**| 'o.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | continuity  |**<big>&#8207;[[H8548\|תָּמִיד֙]]&#8207; </big>**| ta.Mid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

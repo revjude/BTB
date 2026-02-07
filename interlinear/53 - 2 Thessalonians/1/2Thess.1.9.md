@@ -1,5 +1,5 @@
-**2 Thessalonians 1:9
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 1:9**<big><big>[[2Thess.1.5 Christ’s Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;
 <small><sub>**BSB:**</sub></small>
 They will suffer the penalty of eternal destruction, separated from the presence of the Lord and the glory of His might,
@@ -10,7 +10,7 @@ who [the] penalty will suffer of destruction eternal away from [the] presence of
 > $\quad$ alluding to: [[LXX.Isa.2.19|Isa 2:19]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3748\|οἵτινες]]</big>**  |oitines <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] penalty |**<big>[[G1349\|δίκην]]</big>**  |dikēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

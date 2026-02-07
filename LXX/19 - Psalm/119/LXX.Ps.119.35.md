@@ -1,10 +1,7 @@
 **LXX Psalm 119:35** 
 <small><sub>**LXX:**</sub></small>
 Guide me in the road  of your commandments! for I wanted it. 
-<small><sub>**KJV:**</sub></small>
-Make me to go in the path of thy commandments; for therein do I delight.
-<small><sub>**BSB:**</sub></small>
-Direct me in the path of Your commandments, for there I find delight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.34|<< Psalm 119:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.36|Psalm 119:36 >>]]</td></tr></table>
 
 | Translation | Greek |

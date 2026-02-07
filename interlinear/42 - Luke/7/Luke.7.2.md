@@ -1,12 +1,12 @@
-**Luke 7:2
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:2**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And a certain centurion’s servant, who was dear unto him, was sick, and ready to die.
 <small><sub>**BSB:**</sub></small>
 There a highly valued servant of a centurion was sick and about to die.
 <small><sub>**Literal:**</sub></small>
 Of a centurion then a certain servant sick being was about to die who was to him valued highly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.1|<< Luke 7:1]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.3|Luke 7:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of a centurion |**<big>[[G1543\|ἑκατοντάρχου]]</big>**  |hekatontarchou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

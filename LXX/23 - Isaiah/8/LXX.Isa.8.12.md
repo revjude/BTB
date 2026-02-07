@@ -1,10 +1,7 @@
 **LXX Isaiah 8:12** 
 <small><sub>**LXX:**</sub></small>
 Lest at any time you should say, \[It is\] hard. For all what ever this people should say is hard. But the fear of him in no way should you be fearful, nor should you be disturbed. 
-<small><sub>**KJV:**</sub></small>
-Say ye not, A confederacy, to all [them to] whom this people shall say, A confederacy; neither fear ye their fear, nor be afraid.
-<small><sub>**BSB:**</sub></small>
-“Do not call conspiracy everything these people regard as conspiracy. Do not fear what they fear; do not live in dread.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.11|<< Isaiah 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.13|Isaiah 8:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 8:12** is...

@@ -1,4 +1,4 @@
-**1 Samuel 15:9** 
+**1 Samuel 15:9**<big><big>[[1Sam.15.1 Saul’s Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings, and the lambs, and all [that was] good, and would not utterly destroy them: but every thing [that was] vile and refuse, that they destroyed utterly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Saul and his troops spared Agag, along with the best of the sheep and cattle, th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.8|<< 1 Samuel 15:8]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.10|1 Samuel 15:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he had compassion  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2550\|יַּחְמֹל֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yach.Mol<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Saul  |**<big>&#8207;[[H7586G\|שָׁא֨וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 3:14
-**<small><sub>**KJV:**</sub></small>
+**Luke 3:14**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse [any] falsely; and be content with your wages.
 <small><sub>**BSB:**</sub></small>
 Then some soldiers asked him, “And what should we do?” “Do not take money by force or false accusation,” he said. “Be content with your wages.”
 <small><sub>**Literal:**</sub></small>
 Were asking then him also those being soldiers saying; What may do also we ourselves And he said to to them; No one may extort nor may accuse falsely and do be content with the wages of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.13|<< Luke 3:13]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.15|Luke 3:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were asking |**<big>[[G1905\|ἐπηρώτων]]</big>**  |epērōtōn <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

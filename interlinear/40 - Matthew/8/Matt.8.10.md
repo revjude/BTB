@@ -1,12 +1,12 @@
-**Matthew 8:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:10**<big><big>[[Matt.8.5 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus heard [it], he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel.
 <small><sub>**BSB:**</sub></small>
 When Jesus heard this, He marveled and said to those following Him, “Truly I tell you, I have not found anyone in Israel with such great faith.
 <small><sub>**Literal:**</sub></small>
 Having heard now <the> Jesus marveled and He said to those following; Amen I say to you; such no [one] so great faith in <the> Israel have I found.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.9|<< Matthew 8:9]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.11|Matthew 8:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|Ἀκούσας]]</big>**  |Akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

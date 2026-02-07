@@ -1,10 +1,7 @@
 **LXX Joshua 6:10** 
 <small><sub>**LXX:**</sub></small>
 And to the people Joshua gave charge, saying, Do not yell nor any one hear  your voice! There shall not go through from your mouth a word until whenever he himself declares \[the\] day to yell out, and you shall yell out then. 
-<small><sub>**KJV:**</sub></small>
-And Joshua had commanded the people, saying, Ye shall not shout, nor make any noise with your voice, neither shall [any] word proceed out of your mouth, until the day I bid you shout; then shall ye shout.
-<small><sub>**BSB:**</sub></small>
-But Joshua had commanded the people: “Do not give a battle cry or let your voice be heard; do not let one word come out of your mouth until the day I tell you to shout. Then you are to shout!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.9|<< Joshua 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.11|Joshua 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

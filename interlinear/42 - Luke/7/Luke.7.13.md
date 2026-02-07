@@ -1,12 +1,12 @@
-**Luke 7:13
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:13**<big><big>[[Luke.7.11 Jesus Raises a Widow’s Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the Lord saw her, he had compassion on her, and said unto her, Weep not.
 <small><sub>**BSB:**</sub></small>
 When the Lord saw her, He had compassion on her and said, “Do not weep.”
 <small><sub>**Literal:**</sub></small>
 And having seen her the Lord was moved with compassion on her and He said to her; Not do weep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.12|<< Luke 7:12]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.14|Luke 7:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having seen |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 149:6** 
+**Psalms 149:6**<big><big>[[Ps.149.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Let] the high [praises] of God [be] in their mouth, and a twoedged sword in their hand;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the high praises of God be in their mouths, and a double-edged sword in thei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.149.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.149.5|<< Psalms 149:5]]</td><td align="center" style="border:none;">[[Ps.149|Psalms 149]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.149.7|Psalms 149:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] praises of  |**<big>&#8207;[[H7318\|רוֹמְמ֣וֹת]]&#8207; </big>**| ro.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0410G\|אֵ֭ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

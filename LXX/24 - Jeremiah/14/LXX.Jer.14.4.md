@@ -1,10 +1,7 @@
 **LXX Jeremiah 14:4** 
 <small><sub>**LXX:**</sub></small>
 And the works of the land failed, for there was no rain. The farmers were ashamed, they covered  their head. 
-<small><sub>**KJV:**</sub></small>
-Because the ground is chapt, for there was no rain in the earth, the plowmen were ashamed, they covered their heads.
-<small><sub>**BSB:**</sub></small>
-The ground is cracked because no rain has fallen on the land. The farmers are ashamed; they cover their heads.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.3|<< Jeremiah 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.5|Jeremiah 14:5 >>]]</td></tr></table>
 
 | Translation | Greek |

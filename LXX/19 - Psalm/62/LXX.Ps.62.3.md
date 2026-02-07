@@ -1,10 +1,7 @@
 **LXX Psalm 62:3** 
 <small><sub>**LXX:**</sub></small>
 For how long do you put upon a man? You all slaughter as a wall leaning and a fence thrusting through. 
-<small><sub>**KJV:**</sub></small>
-How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall [shall ye be, and as] a tottering fence.
-<small><sub>**BSB:**</sub></small>
-How long will you threaten a man? Will all of you throw him down like a leaning wall or a tottering fence?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.62.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.2|<< Psalm 62:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.62.4|Psalm 62:4 >>]]</td></tr></table>
 
 | Translation | Greek |

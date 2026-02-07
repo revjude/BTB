@@ -1,12 +1,12 @@
-**1 Timothy 6:14
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:14**<big><big>[[1Tim.6.11 Fight the Good Fight|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That thou keep [this] commandment without spot, unrebukeable, until the appearing of our Lord Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 Keep this commandment without stain or reproach until the appearance of our Lord Jesus Christ,
 <small><sub>**Literal:**</sub></small>
 to keep you the commandment without stain, above reproach until the appearing of the Lord of us Jesus Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.13|<< 1 Timothy 6:13]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.15|1 Timothy 6:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to keep |**<big>[[G5083G\|τηρῆσαί]]</big>**  |tērēsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|σε]]</big>**  |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

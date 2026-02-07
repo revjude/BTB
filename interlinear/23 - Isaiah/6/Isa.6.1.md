@@ -1,4 +1,4 @@
-**Isaiah 6:1** 
+**Isaiah 6:1**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the year that king Uzziah died I saw also the Lord sitting upon a throne, high and lifted up, and his train filled the temple.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the year that King Uzziah died, I saw the Lord seated on a throne, high and e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.30|<< Isaiah 5:30]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.2|Isaiah 6:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] year of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8141\|שְׁנַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.nat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] death of  |**<big>&#8207;[[H4194\|מוֹת֙]]&#8207; </big>**| mOt<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Revelation 11:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:14**<big><big>[[Rev.11.7 The Witnesses Killed and Raised|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The second woe is past; [and], behold, the third woe cometh quickly.
 <small><sub>**BSB:**</sub></small>
 The second woe has passed. Behold, the third woe is coming shortly.
 <small><sub>**Literal:**</sub></small>
 The woe <the> second has passed; Behold the woe <the> third is coming quickly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.13|<< Revelation 11:13]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.15|Revelation 11:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | woe |**<big>[[G3759\|οὐαὶ]]</big>**  |ouai <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

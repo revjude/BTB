@@ -1,12 +1,12 @@
-**Philippians 2:9
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:9**<big><big>[[Phil.2.5 The Mind of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore God also hath highly exalted him, and given him a name which is above every name:
 <small><sub>**BSB:**</sub></small>
 Therefore God exalted Him to the highest place and gave Him the name above all names,
 <small><sub>**Literal:**</sub></small>
 Therefore also <the> God Him highly exalted and granted to Him the name <the> above every name,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.8|<< Philippians 2:8]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.10|Philippians 2:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

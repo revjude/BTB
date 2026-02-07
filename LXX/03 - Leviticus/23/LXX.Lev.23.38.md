@@ -1,10 +1,7 @@
 **LXX Leviticus 23:38** 
 <small><sub>**LXX:**</sub></small>
 besides the Sabbaths of \[the\] <span class="smallcaps">lord</span>, and besides  your gifts, and besides all  your vows, and besides all  your voluntary \[offerings\], which ever you shall give to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Beside the sabbaths of the LORD, and beside your gifts, and beside all your vows, and beside all your freewill offerings, which ye give unto the LORD.
-<small><sub>**BSB:**</sub></small>
-These offerings are in addition to the offerings for the LORD’s Sabbaths, and in addition to your gifts, to all your vow offerings, and to all the freewill offerings you give to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.37|<< Leviticus 23:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.39|Leviticus 23:39 >>]]</td></tr></table>
 
 | Translation | Greek |

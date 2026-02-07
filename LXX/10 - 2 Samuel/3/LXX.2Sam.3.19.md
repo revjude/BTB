@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:19** 
 <small><sub>**LXX:**</sub></small>
 And Abner spoke in the ears of Benjamin. And Abner went  to speak into the ears of David in Hebron, all as much as it pleased in \[the\] eyes of Israel, and in \[the\] eyes of all \[the\] house of Benjamin. 
-<small><sub>**KJV:**</sub></small>
-And Abner also spake in the ears of Benjamin: and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel, and that seemed good to the whole house of Benjamin.
-<small><sub>**BSB:**</sub></small>
-Abner also spoke to the Benjamites. Then he went to Hebron to tell David all that seemed good to Israel and to the whole house of Benjamin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.18|<< 2 Samuel 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.20|2 Samuel 3:20 >>]]</td></tr></table>
 
 | Translation | Greek |

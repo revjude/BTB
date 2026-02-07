@@ -1,10 +1,7 @@
 **LXX Genesis 34:5** 
 <small><sub>**LXX:**</sub></small>
 And Jacob heard that the son of Hamor defiled Dinah  his daughter.  But his sons were with  his cattle in the plain. And Jacob remained silent until  they came. 
-<small><sub>**KJV:**</sub></small>
-And Jacob heard that he had defiled Dinah his daughter: now his sons were with his cattle in the field: and Jacob held his peace until they were come.
-<small><sub>**BSB:**</sub></small>
-Jacob heard that Shechem had defiled his daughter Dinah, but since his sons were with his livestock in the field, he remained silent about it until they returned.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.4|<< Genesis 34:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.6|Genesis 34:6 >>]]</td></tr></table>
 
 | Translation | Greek |

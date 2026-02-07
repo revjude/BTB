@@ -1,4 +1,4 @@
-**Judges 15:19** 
+**Judges 15:19**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But God clave an hollow place that [was] in the jaw, and there came water thereout; and when he had drunk, his spirit came again, and he revived: wherefore he called the name thereof Enhakkore, which [is] in Lehi unto this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So God opened up the hollow place in Lehi, and water came out of it. When Samson
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.18|<< Judges 15:18]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.20|Judges 15:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he split open  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1234\|יִּבְקַ֨ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiv.Ka'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֜ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

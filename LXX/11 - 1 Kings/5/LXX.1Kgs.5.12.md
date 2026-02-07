@@ -1,10 +1,7 @@
 **LXX 1 Kings 5:12** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> gave  to Solomon wisdom as he said to him. And there was peace between Hiram and between Solomon. And they ordained a covenant between them. 
-<small><sub>**KJV:**</sub></small>
-And the LORD gave Solomon wisdom, as he promised him: and there was peace between Hiram and Solomon; and they two made a league together.
-<small><sub>**BSB:**</sub></small>
-And the LORD gave Solomon wisdom, as He had promised him. There was peace between Hiram and Solomon, and the two of them made a treaty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.11|<< 1 Kings 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.13|1 Kings 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 24:15** 
 <small><sub>**LXX:**</sub></small>
 Daily you shall give \[him\]  his wage, the sun shall not set upon him, for he is needy, and in it he has  hope; and he shall not yell out against you to \[the\] <span class="smallcaps">lord</span>, and \[thus\] it will be to you a sin. 
-<small><sub>**KJV:**</sub></small>
-At his day thou shalt give [him] his hire, neither shall the sun go down upon it; for he [is] poor, and setteth his heart upon it: lest he cry against thee unto the LORD, and it be sin unto thee.
-<small><sub>**BSB:**</sub></small>
-You are to pay his wages each day before sunset, because he is poor and depends on them. Otherwise he may cry out to the LORD against you, and you will be guilty of sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.14|<< Deuteronomy 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.16|Deuteronomy 24:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 24:15** is...

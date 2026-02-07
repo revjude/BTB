@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:2** 
 <small><sub>**LXX:**</sub></small>
 Go, and yell into the ears of Jerusalem! saying, Thus says \[the\] <span class="smallcaps">lord</span>, I remembered \[the\] mercy of your youth, and \[the\] love of your consecration,  for you to follow after the holy one of Israel, says \[the\] <span class="smallcaps">lord</span>; 
-<small><sub>**KJV:**</sub></small>
-Go and cry in the ears of Jerusalem, saying, Thus saith the LORD; I remember thee, the kindness of thy youth, the love of thine espousals, when thou wentest after me in the wilderness, in a land [that was] not sown.
-<small><sub>**BSB:**</sub></small>
-“Go and proclaim in the hearing of Jerusalem that this is what the LORD says: ‘I remember the devotion of your youth, your love as a bride, how you followed Me in the wilderness, in a land not sown.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.1|<< Jeremiah 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.3|Jeremiah 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

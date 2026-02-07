@@ -1,4 +1,4 @@
-**Psalms 50:9** 
+**Psalms 50:9**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will take no bullock out of thy house, [nor] he goats out of thy folds.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have no need for a bull from your stall or goats from your pens,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.8|<< Psalms 50:8]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.10|Psalms 50:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will accept  |**<big>&#8207;[[H3947H\|אֶקַּ֣ח]]&#8207; </big>**| 'e.Kach<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

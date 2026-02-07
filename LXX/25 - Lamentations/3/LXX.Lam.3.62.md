@@ -1,10 +1,7 @@
 **LXX Lamentations 3:62** 
 <small><sub>**LXX:**</sub></small>
 \[the\] lips of ones rising up against me, and their meditations against me \[the\] entire  day; 
-<small><sub>**KJV:**</sub></small>
-The lips of those that rose up against me, and their device against me all the day.
-<small><sub>**BSB:**</sub></small>
-the slander and murmuring of my assailants against me all day long.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.62|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.61|<< Lamentations 3:61]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.63|Lamentations 3:63 >>]]</td></tr></table>
 
 | Translation | Greek |

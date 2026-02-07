@@ -1,4 +1,4 @@
-**1 Kings 12:25** 
+**1 Kings 12:25**<big><big>[[1Kgs.12.25 Jeroboam’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from thence, and built Penuel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jeroboam built Shechem in the hill country of Ephraim and lived there. And 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.24|<< 1 Kings 12:24]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.26|1 Kings 12:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he built  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|יִּ֨בֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.ven<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jeroboam  |**<big>&#8207;[[H3379G\|יָרָבְעָ֧ם]]&#8207; </big>**| ya.ra.ve.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

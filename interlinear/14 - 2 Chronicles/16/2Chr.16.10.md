@@ -1,4 +1,4 @@
-**2 Chronicles 16:10** 
+**2 Chronicles 16:10**<big><big>[[2Chr.16.7 Hanani’s Message to Asa|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Asa was wroth with the seer, and put him in a prison house; for [he was] in a rage with him because of this [thing]. And Asa oppressed [some] of the people the same time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Asa was angry with the seer and became so enraged over this matter that he put t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.9|<< 2 Chronicles 16:9]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.11|2 Chronicles 16:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was angry  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3707\|יִּכְעַ֨ס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.'As<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Asa  |**<big>&#8207;[[H0609G\|אָסָ֜א]]&#8207; </big>**| 'a.Sa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

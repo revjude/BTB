@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:2** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>, Stand in \[the\] courtyard of \[the\] house of \[the\] <span class="smallcaps">lord</span>! and you shall execute \[an order\] to all Judah, to the ones coming to do obeisance in \[the\] house of \[the\] <span class="smallcaps">lord</span>, all the words which I ordered to you to execute to them; you should not remove a thing. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; Stand in the court of the LORD’S house, and speak unto all the cities of Judah, which come to worship in the LORD’S house, all the words that I command thee to speak unto them; diminish not a word:
-<small><sub>**BSB:**</sub></small>
-“This is what the LORD says: Stand in the courtyard of the house of the LORD and speak all the words I have commanded you to speak to all the cities of Judah who come to worship there. Do not omit a word.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.1|<< Jeremiah 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.3|Jeremiah 26:3 >>]]</td></tr></table>
 
 | Translation | Greek |

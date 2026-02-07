@@ -1,12 +1,12 @@
-**Matthew 24:39
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:39**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And knew not until the flood came, and took them all away; so shall also the coming of the Son of man be.
 <small><sub>**BSB:**</sub></small>
 And they were oblivious until the flood came and swept them all away. So will it be at the coming of the Son of Man.
 <small><sub>**Literal:**</sub></small>
 And not they knew until came the flood and took away all, thus will be also the coming of the Son <the> of Man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.38|<< Matthew 24:38]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.40|Matthew 24:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

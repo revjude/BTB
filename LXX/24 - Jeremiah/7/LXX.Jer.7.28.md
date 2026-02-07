@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:28** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them, This \[is\] the nation which hearkened not to the voice of \[the\] <span class="smallcaps">lord</span>  their God, nor received instruction. Trust failed from their mouth. 
-<small><sub>**KJV:**</sub></small>
-But thou shalt say unto them, This [is] a nation that obeyeth not the voice of the LORD their God, nor receiveth correction: truth is perished, and is cut off from their mouth.
-<small><sub>**BSB:**</sub></small>
-Therefore you must say to them, ‘This is the nation that would not listen to the voice of the LORD their God and would not receive correction. Truth has perished; it has disappeared from their lips.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.27|<< Jeremiah 7:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.29|Jeremiah 7:29 >>]]</td></tr></table>
 
 | Translation | Greek |

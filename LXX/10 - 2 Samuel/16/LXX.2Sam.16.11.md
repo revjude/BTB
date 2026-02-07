@@ -1,10 +1,7 @@
 **LXX 2 Samuel 16:11** 
 <small><sub>**LXX:**</sub></small>
 And David said to Abishai, and to all  his servants, Behold,  my son, the one coming forth from out of  my belly, seeks  my life. And moreover, now the son of the Benjamite. Leave him to curse! for \[the\] <span class="smallcaps">lord</span> told him. 
-<small><sub>**KJV:**</sub></small>
-And David said to Abishai, and to all his servants, Behold, my son, which came forth of my bowels, seeketh my life: how much more now [may this] Benjamite [do it]? let him alone, and let him curse; for the LORD hath bidden him.
-<small><sub>**BSB:**</sub></small>
-Then David said to Abishai and to all his servants, “Behold, my own son, my own flesh and blood, seeks my life. How much more, then, this Benjamite! Leave him alone and let him curse me, for the LORD has told him so.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.10|<< 2 Samuel 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.12|2 Samuel 16:12 >>]]</td></tr></table>
 
 | Translation | Greek |

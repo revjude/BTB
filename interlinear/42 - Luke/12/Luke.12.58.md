@@ -1,12 +1,12 @@
-**Luke 12:58
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:58**<big><big>[[Luke.12.57 Reconciling with an Adversary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When thou goest with thine adversary to the magistrate, [as thou art] in the way, give diligence that thou mayest be delivered from him; lest he hale thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison.
 <small><sub>**BSB:**</sub></small>
 Make every effort to reconcile with your adversary while you are on your way to the magistrate. Otherwise, he may drag you off to the judge, and the judge may hand you over to the officer, and the officer may throw you into prison.
 <small><sub>**Literal:**</sub></small>
 As for you are going with the adversary of you before a magistrate, in the way do give earnestness to have been set free from him otherwise he may drag away you to the judge, and the judge you will deliver to the officer, and the officer you will cast into prison.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.57|<< Luke 12:57]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.59|Luke 12:59 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

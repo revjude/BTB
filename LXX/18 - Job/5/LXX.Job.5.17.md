@@ -1,10 +1,7 @@
 **LXX Job 5:17** 
 <small><sub>**LXX:**</sub></small>
 And blessed \[is the\] man whom the <span class="smallcaps">lord</span> reproved, and does not refuse \[the\] admonition of \[the\] almighty. 
-<small><sub>**KJV:**</sub></small>
-Behold, happy [is] the man whom God correcteth: therefore despise not thou the chastening of the Almighty:
-<small><sub>**BSB:**</sub></small>
-Blessed indeed is the man whom God corrects; so do not despise the discipline of the Almighty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.5.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.16|<< Job 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.18|Job 5:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 19:12** 
 <small><sub>**LXX:**</sub></small>
 And you shall not swear by an oath  upon my name unjustly. And you shall not profane the holy name  of your God. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-You must not swear falsely by My name and so profane the name of your God. I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.11|<< Leviticus 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.13|Leviticus 19:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Leviticus 19:12** is...

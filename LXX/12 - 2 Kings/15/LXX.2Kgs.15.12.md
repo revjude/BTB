@@ -1,10 +1,7 @@
 **LXX 2 Kings 15:12** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the word of \[the\] <span class="smallcaps">lord</span> which he spoke to Jehu, saying, Your sons shall sit \[unto the\] fourth \[generation\] upon \[the\] throne of Israel. And it became so. 
-<small><sub>**KJV:**</sub></small>
-This [was] the word of the LORD which he spake unto Jehu, saying, Thy sons shall sit on the throne of Israel unto the fourth [generation]. And so it came to pass.
-<small><sub>**BSB:**</sub></small>
-So the word of the LORD spoken to Jehu was fulfilled: “Four generations of your sons will sit on the throne of Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.11|<< 2 Kings 15:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.13|2 Kings 15:13 >>]]</td></tr></table>
 
 | Translation | Greek |

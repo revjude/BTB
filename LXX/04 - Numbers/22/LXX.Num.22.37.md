@@ -1,10 +1,7 @@
 **LXX Numbers 22:37** 
 <small><sub>**LXX:**</sub></small>
 And Balak said to Balaam, Did I not send to you to call you? Why have you not come to me? Really, shall I not be able to esteem you? 
-<small><sub>**KJV:**</sub></small>
-And Balak said unto Balaam, Did I not earnestly send unto thee to call thee? wherefore camest thou not unto me? am I not able indeed to promote thee to honour?
-<small><sub>**BSB:**</sub></small>
-And he said to Balaam, “Did I not send you an urgent summons? Why did you not come to me? Am I really not able to reward you richly?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.36|<< Numbers 22:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.38|Numbers 22:38 >>]]</td></tr></table>
 
 | Translation | Greek |

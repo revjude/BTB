@@ -1,10 +1,7 @@
 **LXX Daniel 4:11** 
 <small><sub>**LXX:**</sub></small>
 The tree was magnified, and became strong, and  its height came unto the heaven, and the extent of it into the ends of all the earth. 
-<small><sub>**KJV:**</sub></small>
-The tree grew, and was strong, and the height thereof reached unto heaven, and the sight thereof to the end of all the earth:
-<small><sub>**BSB:**</sub></small>
-The tree grew large and strong; its top reached the sky, and it was visible to the ends of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.10|<< Daniel 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.12|Daniel 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

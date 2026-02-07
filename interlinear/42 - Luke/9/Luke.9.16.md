@@ -1,12 +1,12 @@
-**Luke 9:16
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:16**<big><big>[[Luke.9.10 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude.
 <small><sub>**BSB:**</sub></small>
 Taking the five loaves and the two fish and looking up to heaven, Jesus spoke a blessing and broke them. Then He gave them to the disciples to set before the people.
 <small><sub>**Literal:**</sub></small>
 Having taken then the five loaves and the two fish, having looked up to the heaven He blessed them and broke [them] and He was giving [them] to the disciples to set before the crowd.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.15|<< Luke 9:15]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.17|Luke 9:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having taken |**<big>[[G2983\|λαβὼν]]</big>**  |labōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

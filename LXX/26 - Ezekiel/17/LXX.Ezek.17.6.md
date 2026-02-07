@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:6** 
 <small><sub>**LXX:**</sub></small>
 And it arose and became a vine being weakened and small  in greatness  for its vine branches upon it to be apparent; and  its roots were underneath it. And it became a vine, and produced layers of vines, and stretched out  its tendrils. 
-<small><sub>**KJV:**</sub></small>
-And it grew, and became a spreading vine of low stature, whose branches turned toward him, and the roots thereof were under him: so it became a vine, and brought forth branches, and shot forth sprigs.
-<small><sub>**BSB:**</sub></small>
-It sprouted and became a spreading vine, low in height, with branches turned toward him; yet its roots remained where it stood. So it became a vine and yielded branches and sent out shoots.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.5|<< Ezekiel 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.7|Ezekiel 17:7 >>]]</td></tr></table>
 
 | Translation | Greek |

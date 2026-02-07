@@ -1,4 +1,4 @@
-**2 Samuel 20:6** 
+**2 Samuel 20:6**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said to Abishai, Now shall Sheba the son of Bichri do us more harm than [did] Absalom: take thou thy lord’s servants, and pursue after him, lest he get him fenced cities, and escape us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And David said to Abishai, “Now Sheba the son of Bichri will do us more harm t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.5|<< 2 Samuel 20:5]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.7|2 Samuel 20:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִד֙]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

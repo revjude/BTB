@@ -1,4 +1,4 @@
-**Psalms 119:156** 
+**Psalms 119:156**<big><big>[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Great [are] thy tender mercies, O LORD: quicken me according to thy judgments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Great are Your mercies, O LORD; revive me according to Your ordinances.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.156|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.155|<< Psalms 119:155]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.157|Psalms 119:157 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | compassion\<s> your  |**<big>&#8207;[[H7356B\|רַחֲמֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ra.cha.Mei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] great  |**<big>&#8207;[[H7227A\|רַבִּ֥ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

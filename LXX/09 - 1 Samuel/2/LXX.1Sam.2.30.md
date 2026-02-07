@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:30** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>, the God of Israel, I said,  Your house, and the house  of your father shall go through before me unto \[the\] eon. And now, says \[the\] <span class="smallcaps">lord</span>, not even one will be to me, for the ones glorifying me I will glorify, and the ones treating me with contempt shall be disgraced. 
-<small><sub>**KJV:**</sub></small>
-Wherefore the LORD God of Israel saith, I said indeed [that] thy house, and the house of thy father, should walk before me for ever: but now the LORD saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.
-<small><sub>**BSB:**</sub></small>
-Therefore, the LORD, the God of Israel, declares: ‘I did indeed say that your house and the house of your father would walk before Me forever. But now the LORD declares: Far be it from Me! For I will honor those who honor Me, but those who despise Me will be disdained.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.29|<< 1 Samuel 2:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.31|1 Samuel 2:31 >>]]</td></tr></table>
 
 | Translation | Greek |

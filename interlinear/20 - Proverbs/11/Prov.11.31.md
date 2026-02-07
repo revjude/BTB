@@ -1,4 +1,4 @@
-**Proverbs 11:31** 
+**Proverbs 11:31**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the righteous shall be recompensed in the earth: much more the wicked and the sinner.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ If the righteous receive their due on earth, how much more the ungodly and the s
 > $\quad$ referenced by: [[1Pet.4.18|1Pet 4:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵ֣ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a righteous [person]  |**<big>&#8207;[[H6662\|צַ֭דִּיק]]&#8207; </big>**| Tza.dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

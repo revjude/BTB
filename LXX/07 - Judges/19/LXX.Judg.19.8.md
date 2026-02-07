@@ -1,10 +1,7 @@
 **LXX Judges 19:8** 
 <small><sub>**LXX:**</sub></small>
 And he rose early in the morning on the fifth day  to depart. And the father of the young woman said, Support indeed  your heart with bread, and soldier until the day should decline! And both ate and drank. 
-<small><sub>**KJV:**</sub></small>
-And he arose early in the morning on the fifth day to depart: and the damsel’s father said, Comfort thine heart, I pray thee. And they tarried until afternoon, and they did eat both of them.
-<small><sub>**BSB:**</sub></small>
-On the fifth day, he got up early in the morning to depart, but the girl’s father said, “Please refresh your heart.” So they waited until late afternoon and the two of them ate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.7|<< Judges 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.9|Judges 19:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Colossians 2:19
-**<small><sub>**KJV:**</sub></small>
+**Colossians 2:19**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God.
 <small><sub>**BSB:**</sub></small>
 He has lost connection to the head, from whom the whole body, supported and knit together by its joints and ligaments, grows as God causes it to grow.
 <small><sub>**Literal:**</sub></small>
 and not holding fast to the head from whom all the body through the joints and ligaments being supplied and being knit together it increases with the increase <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.18|<< Colossians 2:18]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.20|Colossians 2:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,6 +1,6 @@
 (KJV) **Deuteronomy 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18|<< Deuteronomy 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20|Deuteronomy 20 >>]]</td></tr></table>
 
-***Cities of Refuge***&emsp;<small><sup>\[ [[Num.35|Numbers 35:9–34]] <big>†</big> [[Deut.4|Deuteronomy 4:41–43]] <big>†</big> [[Josh.20|Joshua 20:1–9]] ]</sup></small> ^bsb509
+<big><big>[[Deut.19.1 Cities of Refuge|⥃]]</big></big>***Cities of Refuge***&emsp;<small><sup>\[ [[Num.35|Numbers 35:9–34]] <big>†</big> [[Deut.4|Deuteronomy 4:41–43]] <big>†</big> [[Josh.20|Joshua 20:1–9]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Deut.19.1|1]]**<span class="endversemarker">]</span> When the <span class="smallcaps">Lord</span> thy God hath cut<small><small>[^2]</small></small> off the nations, whose land the <span class="smallcaps">Lord</span> thy God giveth thee, and thou succeedest<small><small>[^3]</small></small> them, and dwellest in their cities, and in their houses; <span class="startversemarker">[</span>**[[Deut.19.2|2]]**<span class="endversemarker">]</span> Thou shalt separate three cities<small><small>[^4]</small></small> for thee in the midst of thy land, which the <span class="smallcaps">Lord</span> thy God giveth thee to possess it. <span class="startversemarker">[</span>**[[Deut.19.3|3]]**<span class="endversemarker">]</span> Thou shalt prepare thee a way, and divide the coasts of thy land, which the <span class="smallcaps">Lord</span> thy God giveth thee to inherit, into three parts, that every slayer may flee thither.<small><small>[^5]</small></small> 
 
@@ -10,7 +10,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Deut.19.11|11]]**<span class=
 
 $\quad$ <span class="startversemarker">[</span>**[[Deut.19.14|14]]**<span class="endversemarker">]</span> Thou shalt not remove<small><small>[^25]</small></small> thy neighbour’s landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the <span class="smallcaps">Lord</span> thy God giveth thee to possess it.
 
-***The Testimony of Two or Three Witnesses***&emsp;<small><sup>\[ [[Matt.18|Matthew 18:15–20]] ]</sup></small> ^bsb510
+<big><big>[[Deut.19.15 The Testimony of Two or Three Witnesses|⥃]]</big></big>***The Testimony of Two or Three Witnesses***&emsp;<small><sup>\[ [[Matt.18|Matthew 18:15–20]] ]</sup></small>
 
  
 

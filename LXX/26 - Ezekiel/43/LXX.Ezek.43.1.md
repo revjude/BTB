@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he led me unto the gate  towards \[the\] east, and he led me out. 
-<small><sub>**KJV:**</sub></small>
-Afterward he brought me to the gate, [even] the gate that looketh toward the east:
-<small><sub>**BSB:**</sub></small>
-Then the man brought me back to the gate that faces east,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.20|<< Ezekiel 42:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.2|Ezekiel 43:2 >>]]</td></tr></table>
 
 | Translation | Greek |

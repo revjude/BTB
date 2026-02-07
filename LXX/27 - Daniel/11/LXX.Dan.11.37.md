@@ -1,10 +1,7 @@
 **LXX Daniel 11:37** 
 <small><sub>**LXX:**</sub></small>
 And unto all gods  of his fathers he will not take notice, nor \[the\] desire of women; and concerning every god he will not take notice; for above all he will be magnified. 
-<small><sub>**KJV:**</sub></small>
-Neither shall he regard the God of his fathers, nor the desire of women, nor regard any god: for he shall magnify himself above all.
-<small><sub>**BSB:**</sub></small>
-He will show no regard for the gods of his fathers, nor for the one desired by women, nor for any other god, because he will magnify himself above them all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.36|<< Daniel 11:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.38|Daniel 11:38 >>]]</td></tr></table>
 
 | Translation | Greek |

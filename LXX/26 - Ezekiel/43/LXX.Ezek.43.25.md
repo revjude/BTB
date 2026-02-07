@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:25** 
 <small><sub>**LXX:**</sub></small>
 Seven days you shall offer a kid for a sin \[offering\] each day, and a calf from out of \[the\] oxen, and a ram from out of \[the\] sheep; they shall offer \[them\] unblemished. 
-<small><sub>**KJV:**</sub></small>
-Seven days shalt thou prepare every day a goat [for] a sin offering: they shall also prepare a young bullock, and a ram out of the flock, without blemish.
-<small><sub>**BSB:**</sub></small>
-For seven days you are to provide a male goat daily for a sin offering; you are also to provide a young bull and a ram from the flock, both unblemished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.24|<< Ezekiel 43:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.26|Ezekiel 43:26 >>]]</td></tr></table>
 
 | Translation | Greek |

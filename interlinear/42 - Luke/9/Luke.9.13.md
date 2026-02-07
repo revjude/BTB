@@ -1,12 +1,12 @@
-**Luke 9:13
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:13**<big><big>[[Luke.9.10 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he said unto them, Give ye them to eat. And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people.
 <small><sub>**BSB:**</sub></small>
 But Jesus told them, “You give them something to eat.” “We have only five loaves of bread and two fish,” they answered, “unless we go and buy food for all these people.”
 <small><sub>**Literal:**</sub></small>
 He said now to them; do give to them you yourselves to eat. <the> But they said; Not there are to us more than loaves five and fish two, except surely even having gone we ourselves shall buy for all <the> people this food.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.12|<< Luke 9:12]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.14|Luke 9:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

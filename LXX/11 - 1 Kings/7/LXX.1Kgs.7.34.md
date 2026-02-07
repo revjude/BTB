@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:34** 
 <small><sub>**LXX:**</sub></small>
 And four protrusion \[supports\] \[were\] upon the four corners of the one base. From out of the base  \[were\] its shoulders. 
-<small><sub>**KJV:**</sub></small>
-And [there were] four undersetters to the four corners of one base: [and] the undersetters [were] of the very base itself.
-<small><sub>**BSB:**</sub></small>
-Each stand had four handles, one for each corner, projecting from the stand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.33|<< 1 Kings 7:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.35|1 Kings 7:35 >>]]</td></tr></table>
 
 | Translation | Greek |

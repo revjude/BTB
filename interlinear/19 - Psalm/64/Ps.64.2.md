@@ -1,4 +1,4 @@
-**Psalms 64:2** (64:3)
+**Psalms 64:2**<big><big>[[Ps.64.1 The Hurtful Tongue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hide me from the scheming of the wicked, from the mob of workers of iniquity,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.64.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.64.1|<< Psalms 64:1]]</td><td align="center" style="border:none;">[[Ps.64|Psalms 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.64.3|Psalms 64:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you will hide me  |**<big>&#8207;[[H5641\|תַּ֭סְתִּירֵ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Tas.ti.re.<small><sup>[[HVhi2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] secret counsel of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5475\|סּ֣וֹד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

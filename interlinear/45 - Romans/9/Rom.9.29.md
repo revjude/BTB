@@ -1,5 +1,5 @@
-**Romans 9:29
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:29**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as Esaias said before, Except the Lord of Sabaoth had left us a seed, we had been as Sodoma, and been made like unto Gomorrha.
 <small><sub>**BSB:**</sub></small>
 It is just as Isaiah foretold: “Unless the Lord of Hosts had left us descendants, we would have become like Sodom, we would have resembled Gomorrah.”
@@ -10,7 +10,7 @@ And even as has foretold Isaiah: only unless [the] Lord of Hosts had left us des
 > $\quad$ referencing: [[LXX.Isa.1.9|Isa 1:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

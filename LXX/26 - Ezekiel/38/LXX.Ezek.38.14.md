@@ -1,10 +1,7 @@
 **LXX Ezekiel 38:14** 
 <small><sub>**LXX:**</sub></small>
 On account of this, prophesy O son of man, and say  to Gog! Thus says \[the\] <span class="smallcaps">lord</span>; \[Will you\] not in  that day, in the settling  of my people Israel in peace, arise? 
-<small><sub>**KJV:**</sub></small>
-Therefore, son of man, prophesy and say unto Gog, Thus saith the Lord GOD; In that day when my people of Israel dwelleth safely, shalt thou not know [it]?
-<small><sub>**BSB:**</sub></small>
-Therefore prophesy, son of man, and tell Gog that this is what the Lord GOD says: On that day when My people Israel are dwelling securely, will you not take notice of this?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.13|<< Ezekiel 38:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.15|Ezekiel 38:15 >>]]</td></tr></table>
 
 | Translation | Greek |

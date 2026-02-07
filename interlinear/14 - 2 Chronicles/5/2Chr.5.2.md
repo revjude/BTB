@@ -1,4 +1,4 @@
-**2 Chronicles 5:2** 
+**2 Chronicles 5:2**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto Jerusalem, to bring up the ark of the covenant of the LORD out of the city of David, which [is] Zion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time Solomon assembled in Jerusalem the elders of Israel—all the triba
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.1|<< 2 Chronicles 5:1]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.3|2 Chronicles 5:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָז֩]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he called together  |**<big>&#8207;[[H6950\|יַקְהֵ֨יל]]&#8207; </big>**| yak.Heil<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

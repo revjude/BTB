@@ -1,4 +1,4 @@
-**Joshua 2:20** 
+**Joshua 2:20**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thou utter this our business, then we will be quit of thine oath which thou hast made us to swear.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And if you report our mission, we will be released from the oath you made us swe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.19|<< Joshua 2:19]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.21|Joshua 2:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will tell  |**<big>&#8207;[[H5046\|תַּגִּ֖ידִי]]&#8207; </big>**| ta.Gi.di<small><sup>[[HVhi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

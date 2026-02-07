@@ -1,4 +1,4 @@
-**1 Samuel 3:3** 
+**1 Samuel 3:3**<big><big>[[1Sam.3.1 The LORD Calls Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ere the lamp of God went out in the temple of the LORD, where the ark of God [was], and Samuel was laid down [to sleep];
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Before the lamp of God had gone out, Samuel was lying down in the temple of the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.3.2|<< 1 Samuel 3:2]]</td><td align="center" style="border:none;">[[1Sam.3|1 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.3.4|1 Samuel 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] lamp of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5216A\|נֵ֤ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ner<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִים֙]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

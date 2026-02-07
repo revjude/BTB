@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:22** 
 <small><sub>**LXX:**</sub></small>
 And the prophet came forward to \[the\] king of Israel, and he said, Strengthen yourself, and know, and see what you shall do! for returning \[during\] the year, \[the\] son of Hadad king of Syria will ascend against you. 
-<small><sub>**KJV:**</sub></small>
-And the prophet came to the king of Israel, and said unto him, Go, strengthen thyself, and mark, and see what thou doest: for at the return of the year the king of Syria will come up against thee.
-<small><sub>**BSB:**</sub></small>
-Afterward, the prophet approached the king of Israel and said, “Go and strengthen your position, and take note what you must do, for in the spring the king of Aram will come up against you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.21|<< 1 Kings 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.23|1 Kings 20:23 >>]]</td></tr></table>
 
 | Translation | Greek |

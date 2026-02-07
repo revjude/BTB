@@ -1,4 +1,4 @@
-**2 Kings 21:8** 
+**2 Kings 21:8**<big><big>[[2Kgs.21.1 Manasseh Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither will I make the feet of Israel move any more out of the land which I gave their fathers; only if they will observe to do according to all that I have commanded them, and according to all the law that my servant Moses commanded them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will never again cause the feet of the Israelites to wander from the land that
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.7|<< 2 Kings 21:7]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.9|2 Kings 21:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will repeat  |**<big>&#8207;[[H3254G\|אֹסִ֗יף]]&#8207; </big>**| 'o.Sif<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

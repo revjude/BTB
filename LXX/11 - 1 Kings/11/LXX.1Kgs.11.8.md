@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:8** 
 <small><sub>**LXX:**</sub></small>
 And thus he did for all  his alien wives, ones burning incense and sacrificing \[to\] their idols. 
-<small><sub>**KJV:**</sub></small>
-And likewise did he for all his strange wives, which burnt incense and sacrificed unto their gods.
-<small><sub>**BSB:**</sub></small>
-He did the same for all his foreign wives, who burned incense and sacrificed to their gods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.7|<< 1 Kings 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.9|1 Kings 11:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 29:24** 
 <small><sub>**LXX:**</sub></small>
 And you shall place the whole amount upon the hands of Aaron, and upon the hands  of his sons. And you shall separate them \[as a\] separation \[offering\] before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt put all in the hands of Aaron, and in the hands of his sons; and shalt wave them [for] a wave offering before the LORD.
-<small><sub>**BSB:**</sub></small>
-Put all these in the hands of Aaron and his sons and wave them before the LORD as a wave offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.23|<< Exodus 29:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.25|Exodus 29:25 >>]]</td></tr></table>
 
 | Translation | Greek |

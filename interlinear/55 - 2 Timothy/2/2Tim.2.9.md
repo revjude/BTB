@@ -1,12 +1,12 @@
-**2 Timothy 2:9
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:9**<big><big>[[2Tim.2.1 Grace and Perseverance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherein I suffer trouble, as an evil doer, [even] unto bonds; but the word of God is not bound.
 <small><sub>**BSB:**</sub></small>
 for which I suffer to the extent of being chained like a criminal. But the word of God cannot be chained!
 <small><sub>**Literal:**</sub></small>
 in which I suffer hardship even to chains as an evildoer, But the word <the> of God not has been bound!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.8|<< 2 Timothy 2:8]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.10|2 Timothy 2:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | which |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

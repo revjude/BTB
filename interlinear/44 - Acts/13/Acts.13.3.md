@@ -1,12 +1,12 @@
-**Acts 13:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:3**<big><big>[[Acts.13.1 Paul’s First Missionary Journey Begins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had fasted and prayed, and laid [their] hands on them, they sent [them] away.
 <small><sub>**BSB:**</sub></small>
 And after they had fasted and prayed, they laid their hands on them and sent them off.
 <small><sub>**Literal:**</sub></small>
 Then having fasted and having prayed and having laid the hands on them they sent [them] off.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.2|<< Acts 13:2]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.4|Acts 13:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having fasted |**<big>[[G3522\|νηστεύσαντες]]</big>**  |nēsteusantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

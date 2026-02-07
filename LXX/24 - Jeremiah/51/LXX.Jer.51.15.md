@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:15** 
 <small><sub>**LXX:**</sub></small>
 the one making \[the\] earth with  his strength, preparing \[the\] world in  his wisdom; with  his understanding he stretched out the heaven. 
-<small><sub>**KJV:**</sub></small>
-He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heaven by his understanding.
-<small><sub>**BSB:**</sub></small>
-The LORD made the earth by His power; He established the world by His wisdom and stretched out the heavens by His understanding.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.14|<< Jeremiah 51:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.16|Jeremiah 51:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:22** 
 <small><sub>**LXX:**</sub></small>
 so as  to magnify you, O my Lord, O <span class="smallcaps">lord</span>. For there is none as you, and there is no God besides you among all in whom we heard with  our ears. 
-<small><sub>**KJV:**</sub></small>
-Wherefore thou art great, O LORD God: for [there is] none like thee, neither [is there any] God beside thee, according to all that we have heard with our ears.
-<small><sub>**BSB:**</sub></small>
-How great You are, O Lord GOD! For there is none like You, and there is no God but You, according to everything we have heard with our own ears.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.21|<< 2 Samuel 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.23|2 Samuel 7:23 >>]]</td></tr></table>
 
 | Translation | Greek |

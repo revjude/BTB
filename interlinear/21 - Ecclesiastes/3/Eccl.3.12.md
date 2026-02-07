@@ -1,4 +1,4 @@
-**Ecclesiastes 3:12** 
+**Ecclesiastes 3:12**<big><big>[[Eccl.3.9 God’s Works Remain Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I know that [there is] no good in them, but for [a man] to rejoice, and to do good in his life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I know that there is nothing better for them than to rejoice and do good while t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.11|<< Ecclesiastes 3:11]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.13|Ecclesiastes 3:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know  |**<big>&#8207;[[H3045\|יָדַ֕עְתִּי]]&#8207; </big>**| ya.Da'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:25** 
 <small><sub>**LXX:**</sub></small>
 And David gave \[to\] Ornan for  his place six hundred shekels of gold in scale-weight. 
-<small><sub>**KJV:**</sub></small>
-So David gave to Ornan for the place six hundred shekels of gold by weight.
-<small><sub>**BSB:**</sub></small>
-So David paid Ornan six hundred shekels of gold for the site.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.24|<< 1 Chronicles 21:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.26|1 Chronicles 21:26 >>]]</td></tr></table>
 
 | Translation | Greek |

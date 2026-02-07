@@ -1,10 +1,7 @@
 **LXX Esther 7:4** 
 <small><sub>**LXX:**</sub></small>
 For both I and my people were sold into destruction, and ravaging, and slavery; we, and both  our children for manservants and maidservants, and I neglected \[to speak\]; for the slanderer \[is\] not worthy of the courtyard of the king. 
-<small><sub>**KJV:**</sub></small>
-For we are sold, I and my people, to be destroyed, to be slain, and to perish. But if we had been sold for bondmen and bondwomen, I had held my tongue, although the enemy could not countervail the king’s damage.
-<small><sub>**BSB:**</sub></small>
-For my people and I have been sold out to destruction, death, and annihilation. If we had merely been sold as menservants and maidservants, I would have remained silent, because no such distress would justify burdening the king.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.3|<< Esther 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.5|Esther 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

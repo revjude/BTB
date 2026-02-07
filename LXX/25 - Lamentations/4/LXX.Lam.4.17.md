@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΦΗ</p>
 
 Yet \[in\] our being, our eyes failed. Our watching for our help \[was\] in vain. We watched unto a nation not delivering. 
-<small><sub>**KJV:**</sub></small>
-As for us, our eyes as yet failed for our vain help: in our watching we have watched for a nation [that] could not save [us].
-<small><sub>**BSB:**</sub></small>
-All the while our eyes were failing as we looked in vain for help. We watched from our towers for a nation that could not save us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.16|<< Lamentations 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.18|Lamentations 4:18 >>]]</td></tr></table>
 
 | Translation | Greek |

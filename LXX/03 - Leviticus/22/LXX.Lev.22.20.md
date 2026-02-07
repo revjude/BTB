@@ -1,10 +1,7 @@
 **LXX Leviticus 22:20** 
 <small><sub>**LXX:**</sub></small>
 Of all as many as you have \[with a\] blemish among them you shall not bring \[to the\] <span class="smallcaps">lord</span>, for be not accepted for you. 
-<small><sub>**KJV:**</sub></small>
-[But] whatsoever hath a blemish, [that] shall ye not offer: for it shall not be acceptable for you.
-<small><sub>**BSB:**</sub></small>
-You must not present anything with a defect, because it will not be accepted on your behalf.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.19|<< Leviticus 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.21|Leviticus 22:21 >>]]</td></tr></table>
 
 | Translation | Greek |

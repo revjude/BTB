@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 9:10** 
 <small><sub>**LXX:**</sub></small>
 All as much as your hand should find  to do, you do as is in your power; for there is no action, nor device, nor knowledge, nor wisdom in Hades, of where you should go there. 
-<small><sub>**KJV:**</sub></small>
-Whatsoever thy hand findeth to do, do [it] with thy might; for [there is] no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.
-<small><sub>**BSB:**</sub></small>
-Whatever you find to do with your hands, do it with all your might, for in Sheol, where you are going, there is no work or planning or knowledge or wisdom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.9|<< Ecclesiastes 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.11|Ecclesiastes 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

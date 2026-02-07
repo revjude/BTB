@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:10** 
 <small><sub>**LXX:**</sub></small>
 And David said, O <span class="smallcaps">lord</span>, the God of Israel, in hearing hearken to  your servant! for Saul seeks to come against Keilah, to utterly destroy the city on account of me. 
-<small><sub>**KJV:**</sub></small>
-Then said David, O LORD God of Israel, thy servant hath certainly heard that Saul seeketh to come to Keilah, to destroy the city for my sake.
-<small><sub>**BSB:**</sub></small>
-And David said, “O LORD, God of Israel, Your servant has heard that Saul intends to come to Keilah and destroy the city on my account.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.9|<< 1 Samuel 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.11|1 Samuel 23:11 >>]]</td></tr></table>
 
 | Translation | Greek |

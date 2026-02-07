@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:45** 
 <small><sub>**LXX:**</sub></small>
 And the people said to Saul, Shall today the one executing this great deliverance in Israel die to death? Kindness, as lives \[the\] <span class="smallcaps">lord</span>, there shall not fall of the hair  of his head upon the ground, for \[the\] mercy of God was performed in  this day. And the people prayed for Jonathan in  that day, and he did not die. 
-<small><sub>**KJV:**</sub></small>
-And the people said unto Saul, Shall Jonathan die, who hath wrought this great salvation in Israel? God forbid: [as] the LORD liveth, there shall not one hair of his head fall to the ground; for he hath wrought with God this day. So the people rescued Jonathan, that he died not.
-<small><sub>**BSB:**</sub></small>
-But the people said to Saul, “Must Jonathan die—he who accomplished such a great deliverance for Israel? Never! As surely as the LORD lives, not a hair of his head will fall to the ground, for with God’s help he has accomplished this today.” So the people rescued Jonathan, and he did not die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.44|<< 1 Samuel 14:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.46|1 Samuel 14:46 >>]]</td></tr></table>
 
 | Translation | Greek |

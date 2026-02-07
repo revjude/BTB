@@ -1,4 +1,4 @@
-**Numbers 26:43** 
+**Numbers 26:43**<big><big>[[Num.26.42 The Tribe of Dan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the families of the Shuhamites, according to those that were numbered of them, [were] threescore and four thousand and four hundred.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All of them were Shuhamite clans, and their registration numbered 64,400.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.42|<< Numbers 26:42]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.44|Numbers 26:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] clans of  |**<big>&#8207;[[H4940\|מִשְׁפְּחֹ֥ת]]&#8207; </big>**| mish.pe.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

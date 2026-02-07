@@ -1,4 +1,4 @@
-**Proverbs 16:30** 
+**Proverbs 16:30**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shutteth his eyes to devise froward things: moving his lips he bringeth evil to pass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who winks his eye devises perversity; he who purses his lips is bent on evil.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.29|<< Proverbs 16:29]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.31|Proverbs 16:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] shuts  |**<big>&#8207;[[H6095\|עֹצֶ֣ה]]&#8207; </big>**| 'o.Tzeh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes his  |**<big>&#8207;[[H5869A\|עֵ֭ינָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'Ei.na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

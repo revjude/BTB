@@ -1,4 +1,4 @@
-**Ezra 4:11** 
+**Ezra 4:11**<big><big>[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the copy of the letter that they sent unto him, [even] unto Artaxerxes the king; Thy servants the men on this side the river, and at such a time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This [is] the copy of the letter that they sent unto him, [even] unto Artaxerxes
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.10|<< Ezra 4:10]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.12|Ezra 4:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H1836\|דְּנָה֙]]&#8207; </big>**| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] copy of  |**<big>&#8207;[[H6573\|פַּרְשֶׁ֣גֶן]]&#8207; </big>**| par.She.gen<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

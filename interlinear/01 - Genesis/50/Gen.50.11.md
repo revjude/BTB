@@ -1,4 +1,4 @@
-**Genesis 50:11** 
+**Genesis 50:11**<big><big>[[Gen.50.1 Mourning and Burial for Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said, This [is] a grievous mourning to the Egyptians: wherefore the name of it was called Abelmizraim, which [is] beyond Jordan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the Canaanites of the land saw the mourning at the threshing floor of Atad,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.10|<< Genesis 50:10]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.12|Genesis 50:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֡רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] inhabitant[s] of  |**<big>&#8207;[[H3427\|יוֹשֵׁב֩]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 7:15** 
 <small><sub>**LXX:**</sub></small>
 they entered with Noah, into the ark, two by two, male and female, from all flesh in which there is a breath of life. 
-<small><sub>**KJV:**</sub></small>
-And they went in unto Noah into the ark, two and two of all flesh, wherein [is] the breath of life.
-<small><sub>**BSB:**</sub></small>
-They came to Noah to enter the ark, two by two of every creature with the breath of life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.14|<< Genesis 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.16|Genesis 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

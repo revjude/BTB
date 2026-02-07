@@ -1,10 +1,7 @@
 **LXX Isaiah 33:22** 
 <small><sub>**LXX:**</sub></small>
  For my God is great; \[the\] <span class="smallcaps">lord</span> shall not pass me by; \[the\] <span class="smallcaps">lord</span> our judge; \[the\] <span class="smallcaps">lord</span> our ruler; \[the\] <span class="smallcaps">lord</span> our king; \[the\] <span class="smallcaps">lord</span> himself shall deliver us. 
-<small><sub>**KJV:**</sub></small>
-For the LORD [is] our judge, the LORD [is] our lawgiver, the LORD [is] our king; he will save us.
-<small><sub>**BSB:**</sub></small>
-For the LORD is our Judge, the LORD is our lawgiver, the LORD is our King. It is He who will save us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.33.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.21|<< Isaiah 33:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.23|Isaiah 33:23 >>]]</td></tr></table>
 
 | Translation | Greek |

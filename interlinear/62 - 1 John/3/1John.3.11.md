@@ -1,12 +1,12 @@
-**1 John 3:11
-**<small><sub>**KJV:**</sub></small>
+**1 John 3:11**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this is the message that ye heard from the beginning, that we should love one another.
 <small><sub>**BSB:**</sub></small>
 This is the message you have heard from the beginning: We should love one another.
 <small><sub>**Literal:**</sub></small>
 For this is the message that you have heard from [the] beginning that we may love one another;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.10|<< 1 John 3:10]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.12|1 John 3:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|αὕτη]]</big>**  |hautē <small><sup>[[D-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

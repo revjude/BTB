@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:25** 
 <small><sub>**LXX:**</sub></small>
 You shall not eat it, that good should happen to you, and \[to\] your sons after you, if you should do the good and the pleasing \[thing\] before \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not eat it; that it may go well with thee, and with thy children after thee, when thou shalt do [that which is] right in the sight of the LORD.
-<small><sub>**BSB:**</sub></small>
-Do not eat it, so that it may go well with you and your children after you, because you will be doing what is right in the eyes of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.24|<< Deuteronomy 12:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.26|Deuteronomy 12:26 >>]]</td></tr></table>
 
 | Translation | Greek |

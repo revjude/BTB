@@ -1,4 +1,4 @@
-**1 Chronicles 6:49** (6:34)
+**1 Chronicles 6:49**<big><big>[[1Chr.6.48 The Descendants of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, [and were appointed] for all the work of the [place] most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Aaron and his sons did all the work of the Most Holy Place. They presented t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.48|<< 1 Chronicles 6:48]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.50|1 Chronicles 6:50 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Aaron  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0175\|אַהֲרֹ֨ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and descendants his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בָנָ֜י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

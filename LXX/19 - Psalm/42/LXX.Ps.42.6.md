@@ -1,10 +1,7 @@
 **LXX Psalm 42:6** 
 <small><sub>**LXX:**</sub></small>
 O my God, to myself  my soul was disturbed; on account of this I will remember you from \[the\] land of Jordan, and Hermons, from \[the\] small mountain. 
-<small><sub>**KJV:**</sub></small>
-O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar.
-<small><sub>**BSB:**</sub></small>
-O my God, my soul despairs within me. Therefore I remember You from the land of Jordan and the peaks of Hermon—even from Mount Mizar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.42.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.42.5|<< Psalm 42:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.42.7|Psalm 42:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 2:16** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall offer the memorial \[portion\] of it from the green wheat with the olive oil, and all  its frankincense -- it is a yield \[offering\] \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall burn the memorial of it, [part] of the beaten corn thereof, and [part] of the oil thereof, with all the frankincense thereof: [it is] an offering made by fire unto the LORD.
-<small><sub>**BSB:**</sub></small>
-The priest shall then burn the memorial portion of the crushed grain and the oil, together with all its frankincense, as a food offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.15|<< Leviticus 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.3.1|Leviticus 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Leviticus 25:34** 
+**Leviticus 25:34**<big><big>[[Lev.25.23 The Law of Redemption|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the field of the suburbs of their cities may not be sold; for it [is] their perpetual possession.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the open pastureland around their cities may not be sold, for this is their 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.33|<< Leviticus 25:33]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.35|Leviticus 25:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] field of  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H7704G\|שְׂדֵ֛ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> se.Deh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] pasture land of  |**<big>&#8207;[[H4054\|מִגְרַ֥שׁ]]&#8207; </big>**| mig.Rash<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

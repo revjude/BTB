@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:22** 
 <small><sub>**LXX:**</sub></small>
 Turn! O turning sons, and I shall heal  your brokenness. Behold, thus we shall be to you, for you are \[the\] <span class="smallcaps">lord</span> our God. 
-<small><sub>**KJV:**</sub></small>
-Return, ye backsliding children, [and] I will heal your backslidings. Behold, we come unto thee; for thou [art] the LORD our God.
-<small><sub>**BSB:**</sub></small>
-“Return, O faithless children, and I will heal your faithlessness.” “Here we are. We come to You, for You are the LORD our God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.21|<< Jeremiah 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.23|Jeremiah 3:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 1:11** 
+**Proverbs 1:11**<big><big>[[Prov.1.8 The Enticement of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If they say, “Come along, let us lie in wait for blood, let us ambush the inno
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.10|<< Proverbs 1:10]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.12|Proverbs 1:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will say  |**<big>&#8207;[[H0559\|יֹאמְרוּ֮]]&#8207; </big>**| yo.me.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

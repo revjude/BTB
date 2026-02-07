@@ -1,10 +1,7 @@
 **LXX 2 Kings 25:19** 
 <small><sub>**LXX:**</sub></small>
 and from out of the city he took one eunuch who was supervisor of the men  warriors, and five men of the ones appearing  in front of the king, of the ones being found in the city, and the scribe of the ruler of the force, the one arraying the people of the land, and sixty men of the people of the land  being found in the city. 
-<small><sub>**KJV:**</sub></small>
-And out of the city he took an officer that was set over the men of war, and five men of them that were in the king’s presence, which were found in the city, and the principal scribe of the host, which mustered the people of the land, and threescore men of the people of the land [that were] found in the city:
-<small><sub>**BSB:**</sub></small>
-Of those still in the city, he took a court official who had been appointed over the men of war, as well as five royal advisors. He also took the scribe of the captain of the army, who had enlisted the people of the land, and sixty men who were found in the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.18|<< 2 Kings 25:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.20|2 Kings 25:20 >>]]</td></tr></table>
 
 | Translation | Greek |

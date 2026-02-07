@@ -1,10 +1,7 @@
 **LXX Genesis 19:8** 
 <small><sub>**LXX:**</sub></small>
 But there are to me two daughters who knew not a man. I will lead them to you, and you treat them as  pleases you! Only to  these men you should not do unjust, because they entered under the protection  of my beams. 
-<small><sub>**KJV:**</sub></small>
-Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as [is] good in your eyes: only unto these men do nothing; for therefore came they under the shadow of my roof.
-<small><sub>**BSB:**</sub></small>
-Look, I have two daughters who have never slept with a man. Let me bring them to you, and you can do to them as you please. But do not do anything to these men, for they have come under the protection of my roof.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.7|<< Genesis 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.9|Genesis 19:9 >>]]</td></tr></table>
 
 | Translation | Greek |

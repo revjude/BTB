@@ -1,12 +1,12 @@
-**2 Corinthians 6:7
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 6:7**<big><big>[[2Cor.6.1 Paul’s Hardships and God’s Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By the word of truth, by the power of God, by the armour of righteousness on the right hand and on the left,
 <small><sub>**BSB:**</sub></small>
 in truthful speech and in the power of God; with the weapons of righteousness in the right hand and in the left;
 <small><sub>**Literal:**</sub></small>
 in [the] word of truth, in [the] power of God, with the weapons <the> of righteousness for the right hand and for [the] left,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.6|<< 2 Corinthians 6:6]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.8|2 Corinthians 6:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | word |**<big>[[G3056\|λόγῳ]]</big>**  |logō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

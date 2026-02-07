@@ -1,10 +1,7 @@
 **LXX Exodus 13:6** 
 <small><sub>**LXX:**</sub></small>
 Six days you shall eat unleavened \[breads\], but the seventh day \[is a\] holiday of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Seven days thou shalt eat unleavened bread, and in the seventh day [shall be] a feast to the LORD.
-<small><sub>**BSB:**</sub></small>
-For seven days you are to eat unleavened bread, and on the seventh day there shall be a feast to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.5|<< Exodus 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.7|Exodus 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

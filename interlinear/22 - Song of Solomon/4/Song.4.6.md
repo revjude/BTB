@@ -1,4 +1,4 @@
-**Song of Solomon 4:6** 
+**Song of Solomon 4:6**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Until the day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Before the day breaks and the shadows flee, I will make my way to the mountain o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.5|<< Song of Solomon 4:5]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.7|Song of Solomon 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5704\|עַ֤ד]]&#8207; </big>**| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that \<it> will breathe  |**<big>&#8207;[[H9007\|שֶׁ]]&#8207;&#8207;[[H6315\|יָּפ֙וּחַ֙]]&#8207; </big>**| shei.<small><sup>[[HTr]]</sup></small> ya.Fu.ach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

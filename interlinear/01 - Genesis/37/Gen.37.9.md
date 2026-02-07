@@ -1,4 +1,4 @@
-**Genesis 37:9** 
+**Genesis 37:9**<big><big>[[Gen.37.1 Joseph’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Joseph had another dream and told it to his brothers. “Look,” he said, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.8|<< Genesis 37:8]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.10|Genesis 37:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he dreamed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2492B\|יַּחֲלֹ֥ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Lom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|עוֹד֙]]&#8207; </big>**| 'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

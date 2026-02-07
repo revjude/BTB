@@ -1,4 +1,4 @@
-**Joshua 21:16** 
+**Joshua 21:16**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ain with her suburbs, and Juttah with her suburbs, [and] Bethshemesh with her suburbs; nine cities out of those two tribes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ain, Juttah, and Beth-shemesh—nine cities from these two tribes, together with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.15|<< Joshua 21:15]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.17|Joshua 21:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ain  |**<big>&#8207;[[H5871H\|עַ֣יִן]]&#8207; </big>**| 'A.yin<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 55:3** 
+**Isaiah 55:3**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Incline your ear, and come unto me: hear, and your soul shall live; and I will make an everlasting covenant with you, [even] the sure mercies of David.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Incline your ear and come to Me; listen, so that your soul may live. I will make
 > $\quad$ referenced by: [[Acts.13.34|Acts 13:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | incline  |**<big>&#8207;[[H5186\|הַטּ֤וּ]]&#8207; </big>**| ha.Tu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ear your  |**<big>&#8207;[[H0241G\|אָזְנְ]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| 'a.ze.ne.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

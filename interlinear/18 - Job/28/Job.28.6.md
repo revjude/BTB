@@ -1,4 +1,4 @@
-**Job 28:6** 
+**Job 28:6**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The stones of it [are] the place of sapphires: and it hath dust of gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Its rocks are the source of sapphires, containing flecks of gold.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.5|<< Job 28:5]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.7|Job 28:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] a place of  |**<big>&#8207;[[H4725\|מְקוֹם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| me.kom-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sapphire  |**<big>&#8207;[[H5601\|סַפִּ֥יר]]&#8207; </big>**| sa.Pir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

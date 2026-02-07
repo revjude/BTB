@@ -1,12 +1,12 @@
-**1 Corinthians 12:11
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:11**<big><big>[[1Cor.12.1 Spiritual Gifts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will.
 <small><sub>**BSB:**</sub></small>
 All these are the work of one and the same Spirit, who apportions them to each one as He determines.
 <small><sub>**Literal:**</sub></small>
 All now these things works the one and the same Spirit apportioning individually to each even as He wills.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.10|<< 1 Corinthians 12:10]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.12|1 Corinthians 12:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All |**<big>[[G3956\|πάντα]]</big>**  |panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

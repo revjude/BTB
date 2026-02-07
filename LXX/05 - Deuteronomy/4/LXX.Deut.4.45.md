@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:45** 
 <small><sub>**LXX:**</sub></small>
 These are the testimonies, and the ordinances, and the judgments, as many as Moses spoke to the sons of Israel in the wilderness, in their coming forth from \[the\] land of Egypt, 
-<small><sub>**KJV:**</sub></small>
-These [are] the testimonies, and the statutes, and the judgments, which Moses spake unto the children of Israel, after they came forth out of Egypt,
-<small><sub>**BSB:**</sub></small>
-These are the testimonies, statutes, and ordinances that Moses proclaimed to them after they had come out of Egypt,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.44|<< Deuteronomy 4:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.46|Deuteronomy 4:46 >>]]</td></tr></table>
 
 | Translation | Greek |

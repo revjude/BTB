@@ -1,4 +1,4 @@
-**Genesis 16:1** 
+**Genesis 16:1**<big><big>[[Gen.16.1 Hagar and Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Sarai Abram’s wife bare him no children: and she had an handmaid, an Egyptian, whose name [was] Hagar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Abram’s wife Sarai had borne him no children, but she had an Egyptian maid
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.21|<< Genesis 15:21]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.2|Genesis 16:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Sarai  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8297\|שָׂרַי֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.Rai<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wife of  |**<big>&#8207;[[H0802H\|אֵ֣שֶׁת]]&#8207; </big>**| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

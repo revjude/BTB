@@ -1,10 +1,7 @@
 **LXX Exodus 15:21** 
 <small><sub>**LXX:**</sub></small>
 And Miriam led them, saying, We should sing to the <span class="smallcaps">lord</span>, for gloriously he glorified himself -- horse and rider he tossed into \[the\] sea. 
-<small><sub>**KJV:**</sub></small>
-And Miriam answered them, Sing ye to the LORD, for he hath triumphed gloriously; the horse and his rider hath he thrown into the sea.
-<small><sub>**BSB:**</sub></small>
-And Miriam sang back to them: “Sing to the LORD, for He is highly exalted; the horse and rider He has thrown into the sea.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.20|<< Exodus 15:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.22|Exodus 15:22 >>]]</td></tr></table>
 
 | Translation | Greek |

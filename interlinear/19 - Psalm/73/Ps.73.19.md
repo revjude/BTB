@@ -1,4 +1,4 @@
-**Psalms 73:19** 
+**Psalms 73:19**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How are they [brought] into desolation, as in a moment! they are utterly consumed with terrors.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How suddenly they are laid waste, completely swept away by terrors!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.18|<< Psalms 73:18]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.20|Psalms 73:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H0349A\|אֵ֤יךְ]]&#8207; </big>**| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have become  |**<big>&#8207;[[H1961\|הָי֣וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

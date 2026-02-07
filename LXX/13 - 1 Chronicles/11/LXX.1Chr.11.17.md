@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:17** 
 <small><sub>**LXX:**</sub></small>
 And David desired, and he said, Who will give me a drink of water from the well at Beth-lehem, the one at the gate? 
-<small><sub>**KJV:**</sub></small>
-And David longed, and said, Oh that one would give me drink of the water of the well of Bethlehem, that [is] at the gate!
-<small><sub>**BSB:**</sub></small>
-David longed for water and said, “Oh, that someone would get me a drink of water from the well near the gate of Bethlehem!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.16|<< 1 Chronicles 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.18|1 Chronicles 11:18 >>]]</td></tr></table>
 
 | Translation | Greek |

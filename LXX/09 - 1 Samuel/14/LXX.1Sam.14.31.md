@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:31** 
 <small><sub>**LXX:**</sub></small>
 And he struck in  that day of the Philistines many in Michmash, and the people tired exceedingly. 
-<small><sub>**KJV:**</sub></small>
-And they smote the Philistines that day from Michmash to Aijalon: and the people were very faint.
-<small><sub>**BSB:**</sub></small>
-That day, after the Israelites had struck down the Philistines from Michmash to Aijalon, the people were very faint.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.30|<< 1 Samuel 14:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.32|1 Samuel 14:32 >>]]</td></tr></table>
 
 | Translation | Greek |

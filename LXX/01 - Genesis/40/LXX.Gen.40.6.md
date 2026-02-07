@@ -1,10 +1,7 @@
 **LXX Genesis 40:6** 
 <small><sub>**LXX:**</sub></small>
 And Joseph entered to them in the morning, and he saw them, and they were disturbed. 
-<small><sub>**KJV:**</sub></small>
-And Joseph came in unto them in the morning, and looked upon them, and, behold, they [were] sad.
-<small><sub>**BSB:**</sub></small>
-When Joseph came to them in the morning, he saw that they were distraught.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.5|<< Genesis 40:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.7|Genesis 40:7 >>]]</td></tr></table>
 
 | Translation | Greek |

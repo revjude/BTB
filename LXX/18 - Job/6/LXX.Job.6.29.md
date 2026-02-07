@@ -1,10 +1,7 @@
 **LXX Job 6:29** 
 <small><sub>**LXX:**</sub></small>
 Sit indeed, and may there not be \[anything\] unjust, and again come together with the just! 
-<small><sub>**KJV:**</sub></small>
-Return, I pray you, let it not be iniquity; yea, return again, my righteousness [is] in it.
-<small><sub>**BSB:**</sub></small>
-Reconsider; do not be unjust. Reconsider, for my righteousness is at stake.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.6.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.28|<< Job 6:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.30|Job 6:30 >>]]</td></tr></table>
 
 | Translation | Greek |

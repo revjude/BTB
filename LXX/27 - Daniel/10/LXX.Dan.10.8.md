@@ -1,10 +1,7 @@
 **LXX Daniel 10:8** 
 <small><sub>**LXX:**</sub></small>
 And I was left behind alone. And I beheld  this great apparition, and there was not left in me strength, and  my glory converted into corruption, and I held no strength. 
-<small><sub>**KJV:**</sub></small>
-Therefore I was left alone, and saw this great vision, and there remained no strength in me: for my comeliness was turned in me into corruption, and I retained no strength.
-<small><sub>**BSB:**</sub></small>
-So I was left alone, gazing at this great vision. No strength remained in me; my face grew deathly pale, and I was powerless.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.7|<< Daniel 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.9|Daniel 10:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 10:8** is...

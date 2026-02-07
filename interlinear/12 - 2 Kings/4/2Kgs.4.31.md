@@ -1,4 +1,4 @@
-**2 Kings 4:31** 
+**2 Kings 4:31**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gehazi passed on before them, and laid the staff upon the face of the child; but [there was] neither voice, nor hearing. Wherefore he went again to meet him, and told him, saying, The child is not awaked.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Gehazi went on ahead of them and laid the staff on the boy’s face, but there w
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.30|<< 2 Kings 4:30]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.32|2 Kings 4:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Gehazi  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1522\|גֵחֲזִ֞י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ge.cha.Zi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he passed on  |**<big>&#8207;[[H5674A\|עָבַ֣ר]]&#8207; </big>**| 'a.Var<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

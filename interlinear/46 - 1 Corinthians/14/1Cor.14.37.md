@@ -1,12 +1,12 @@
-**1 Corinthians 14:37
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:37**<big><big>[[1Cor.14.26 Orderly Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord.
 <small><sub>**BSB:**</sub></small>
 If anyone considers himself a prophet or spiritual person, let him acknowledge that what I am writing you is the Lord’s command.
 <small><sub>**Literal:**</sub></small>
 If anyone considers a prophet himself to be or spiritual, he should recognize [the] things I write to you that of the Lord is [the] command;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.36|<< 1 Corinthians 14:36]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.38|1 Corinthians 14:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|Εἴ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

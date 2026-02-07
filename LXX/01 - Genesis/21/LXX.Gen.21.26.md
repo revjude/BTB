@@ -1,10 +1,7 @@
 **LXX Genesis 21:26** 
 <small><sub>**LXX:**</sub></small>
 And Abimelech said to him, I do not know who did  this matter, nor you reported \[it\] to me, nor I heard -- but only today. 
-<small><sub>**KJV:**</sub></small>
-And Abimelech said, I wot not who hath done this thing: neither didst thou tell me, neither yet heard I [of it], but to day.
-<small><sub>**BSB:**</sub></small>
-Abimelech replied, “I do not know who has done this. You did not tell me, so I have not heard about it until today.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.25|<< Genesis 21:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.27|Genesis 21:27 >>]]</td></tr></table>
 
 | Translation | Greek |

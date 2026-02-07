@@ -1,4 +1,4 @@
-**Proverbs 5:11** 
+**Proverbs 5:11**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou mourn at the last, when thy flesh and thy body are consumed,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the end of your life you will groan when your flesh and your body are spent,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.10|<< Proverbs 5:10]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.12|Proverbs 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will groan  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5098\|נָהַמְתָּ֥]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ham.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at end your  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0319\|אַחֲרִיתֶ֑]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'a.cha.ri.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

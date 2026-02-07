@@ -1,10 +1,7 @@
 **LXX Nahum 1:5** 
 <small><sub>**LXX:**</sub></small>
 The mountains shake from him, and the hills are shaken, and the earth rises upwards at his presence; the whole, and all the ones dwelling in it. 
-<small><sub>**KJV:**</sub></small>
-The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein.
-<small><sub>**BSB:**</sub></small>
-The mountains quake before Him, and the hills melt away; the earth trembles at His presence—the world and all its dwellers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.4|<< Nahum 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.6|Nahum 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

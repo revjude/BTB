@@ -1,10 +1,7 @@
 **LXX Jeremiah 28:7** 
 <small><sub>**LXX:**</sub></small>
 Only hear  this word which I say into  your ears, and into the ears of all the people. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless hear thou now this word that I speak in thine ears, and in the ears of all the people;
-<small><sub>**BSB:**</sub></small>
-Nevertheless, listen now to this message I am speaking in your hearing and in the hearing of all the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.28.6|<< Jeremiah 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.8|Jeremiah 28:8 >>]]</td></tr></table>
 
 | Translation | Greek |

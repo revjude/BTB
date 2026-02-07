@@ -1,12 +1,12 @@
-**Hebrews 13:4
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:4**<big><big>[[Heb.13.1 Brotherly Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Marriage [is] honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.
 <small><sub>**BSB:**</sub></small>
 Marriage should be honored by all and the marriage bed kept undefiled, for God will judge the sexually immoral and adulterers.
 <small><sub>**Literal:**</sub></small>
 Honorable [let] <the> marriage [be] in all and the marriage bed undefiled; [the] sexually immoral for and adulterers will judge <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.3|<< Hebrews 13:3]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.5|Hebrews 13:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Honorable [let] |**<big>[[G5093\|Τίμιος]]</big>**  |Timios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

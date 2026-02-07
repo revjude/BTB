@@ -1,10 +1,7 @@
 **LXX Numbers 20:19** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel say to him, We shall go by the mountain. And if  we drink of your water, both I and  my cattle, I will give \[the\] value \[of it\] to you. But the thing is nothing, we shall go by the mountain. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel said unto him, We will go by the high way: and if I and my cattle drink of thy water, then I will pay for it: I will only, without [doing] any thing [else], go through on my feet.
-<small><sub>**BSB:**</sub></small>
-“We will stay on the main road,” the Israelites replied, “and if we or our herds drink your water, we will pay for it. There will be no problem; only let us pass through on foot.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.18|<< Numbers 20:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.20|Numbers 20:20 >>]]</td></tr></table>
 
 | Translation | Greek |

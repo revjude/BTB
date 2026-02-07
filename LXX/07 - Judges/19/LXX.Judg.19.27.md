@@ -1,10 +1,7 @@
 **LXX Judges 19:27** 
 <small><sub>**LXX:**</sub></small>
 And her master rose up in the morning, and he opened the doors of the house, and he came forth  to depart into  his way. And behold, the woman,  his concubine, \[was\] fallen by the door of the house, and  her hands \[were\] upon the threshold. 
-<small><sub>**KJV:**</sub></small>
-And her lord rose up in the morning, and opened the doors of the house, and went out to go his way: and, behold, the woman his concubine was fallen down [at] the door of the house, and her hands [were] upon the threshold.
-<small><sub>**BSB:**</sub></small>
-In the morning, when her master got up and opened the doors of the house to go out on his journey, there was his concubine, collapsed in the doorway of the house, with her hands on the threshold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.26|<< Judges 19:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.28|Judges 19:28 >>]]</td></tr></table>
 
 | Translation | Greek |

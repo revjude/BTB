@@ -1,4 +1,4 @@
-**Genesis 6:4** 
+**Genesis 6:4**<big><big>[[Gen.6.1 Corruption on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare [children] to them, the same [became] mighty men which [were] of old, men of renown.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Nephilim were on the earth in those days—and afterward as well—when the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.3|<< Genesis 6:3]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.5|Genesis 6:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the Nephilim  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5303\|נְּפִלִ֞ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.fi.Lim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were  |**<big>&#8207;[[H1961\|הָי֣וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

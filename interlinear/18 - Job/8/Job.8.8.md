@@ -1,4 +1,4 @@
-**Job 8:8** 
+**Job 8:8**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For inquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Please inquire of past generations and consider the discoveries of their fathers
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.7|<< Job 8:7]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.9|Job 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ask  |**<big>&#8207;[[H7592\|שְׁאַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.'al-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

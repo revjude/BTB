@@ -1,10 +1,7 @@
 **LXX Job 39:16** 
 <small><sub>**LXX:**</sub></small>
 She hardened against  her offspring, so as to not \[bereave\] herself; in vain she tired without fear. 
-<small><sub>**KJV:**</sub></small>
-She is hardened against her young ones, as though [they were] not hers: her labour is in vain without fear;
-<small><sub>**BSB:**</sub></small>
-She treats her young harshly, as if not her own, with no concern that her labor was in vain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.39.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.15|<< Job 39:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.17|Job 39:17 >>]]</td></tr></table>
 
 | Translation | Greek |

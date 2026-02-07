@@ -1,12 +1,12 @@
-**Acts 24:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:1**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after five days Ananias the high priest descended with the elders, and [with] a certain orator [named] Tertullus, who informed the governor against Paul.
 <small><sub>**BSB:**</sub></small>
 Five days later the high priest Ananias came down with some elders and a lawyer named Tertullus, who presented to the governor their case against Paul.
 <small><sub>**Literal:**</sub></small>
 After then five days came down the high priest Ananias with of the elders some and an orator Tertullus certain, who made a representation to the governor against <the> Paul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.35|<< Acts 23:35]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.2|Acts 24:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

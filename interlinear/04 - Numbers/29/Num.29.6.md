@@ -1,4 +1,4 @@
-**Numbers 29:6** 
+**Numbers 29:6**<big><big>[[Num.29.1 The Feast of Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beside the burnt offering of the month, and his meat offering, and the daily burnt offering, and his meat offering, and their drink offerings, according unto their manner, for a sweet savour, a sacrifice made by fire unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are in addition to the monthly and daily burnt offerings with their prescr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.5|<< Numbers 29:5]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.7|Numbers 29:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<from> \<to> besides  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9005\|לְּ]]&#8207;&#8207;[[H0905J\|בַד֩]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> le.<small><sup>[[HR]]</sup></small> Vad<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] burnt offering of  |**<big>&#8207;[[H5930A\|עֹלַ֨ת]]&#8207; </big>**| 'o.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

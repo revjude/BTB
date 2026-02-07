@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΖΑΙΝ</p>
 
 Her Nazarites were clean; they radiated more than snow; they were purified more than milk. Their broken \[pieces\] \[were\] above stone of sapphire, 
-<small><sub>**KJV:**</sub></small>
-Her Nazarites were purer than snow, they were whiter than milk, they were more ruddy in body than rubies, their polishing [was] of sapphire:
-<small><sub>**BSB:**</sub></small>
-Her dignitaries were brighter than snow, whiter than milk; their bodies were more ruddy than rubies, their appearance like sapphires.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.6|<< Lamentations 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.8|Lamentations 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

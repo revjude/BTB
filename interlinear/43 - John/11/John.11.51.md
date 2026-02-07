@@ -1,12 +1,12 @@
-**John 11:51
-**<small><sub>**KJV:**</sub></small>
+**John 11:51**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
 <small><sub>**BSB:**</sub></small>
 Caiaphas did not say this on his own. Instead, as high priest that year, he was prophesying that Jesus would die for the nation,
 <small><sub>**Literal:**</sub></small>
 This now from himself not he said, but high priest being on the year that he prophesied that was about <the> Jesus to die for the nation,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.50|<< John 11:50]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.52|John 11:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 16:3** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span>, Concerning the sons and the daughters of the ones being engendered in  this place, and concerning  their mothers  giving them birth, and concerning  their fathers  engendering them in  this land; 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD concerning the sons and concerning the daughters that are born in this place, and concerning their mothers that bare them, and concerning their fathers that begat them in this land;
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD says concerning the sons and daughters born in this place, and the mothers who bore them, and the fathers who fathered them in this land:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.2|<< Jeremiah 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.4|Jeremiah 16:4 >>]]</td></tr></table>
 
 | Translation | Greek |

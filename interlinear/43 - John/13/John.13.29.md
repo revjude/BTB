@@ -1,12 +1,12 @@
-**John 13:29
-**<small><sub>**KJV:**</sub></small>
+**John 13:29**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For some [of them] thought, because Judas had the bag, that Jesus had said unto him, Buy [those things] that we have need of against the feast; or, that he should give something to the poor.
 <small><sub>**BSB:**</sub></small>
 Since Judas kept the money bag, some thought that Jesus was telling him to buy what was needed for the feast, or to give something to the poor.
 <small><sub>**Literal:**</sub></small>
 Some for were thinking, since the money bag had <the> Judas, for is saying to him <the> Jesus; do buy what things need [of] we have for the feast, or to the poor that something he may give.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.28|<< John 13:28]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.30|John 13:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Some |**<big>[[G5100\|τινὲς]]</big>**  |tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

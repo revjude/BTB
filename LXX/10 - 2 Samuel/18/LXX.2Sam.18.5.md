@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:5** 
 <small><sub>**LXX:**</sub></small>
 And the king gave charge \[to\] Joab and \[to\] Abishai and \[to\] Ittai, saying, Spare for me the young man  Absalom! And all the people heard the king giving charge to all the rulers concerning Absalom. 
-<small><sub>**KJV:**</sub></small>
-And the king commanded Joab and Abishai and Ittai, saying, [Deal] gently for my sake with the young man, [even] with Absalom. And all the people heard when the king gave all the captains charge concerning Absalom.
-<small><sub>**BSB:**</sub></small>
-Now the king had commanded Joab, Abishai, and Ittai, “Treat the young man Absalom gently for my sake.” And all the people heard the king’s orders to each of the commanders regarding Absalom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.4|<< 2 Samuel 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.6|2 Samuel 18:6 >>]]</td></tr></table>
 
 | Translation | Greek |

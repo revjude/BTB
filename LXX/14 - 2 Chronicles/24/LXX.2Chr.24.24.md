@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:24** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] force of Syria came with a few men, but  God delivered up into  their hands an exceedingly vast force, for they abandoned \[the\] <span class="smallcaps">lord</span> the God  of their fathers. And with Joash they executed judgments. 
-<small><sub>**KJV:**</sub></small>
-For the army of the Syrians came with a small company of men, and the LORD delivered a very great host into their hand, because they had forsaken the LORD God of their fathers. So they executed judgment against Joash.
-<small><sub>**BSB:**</sub></small>
-Although the Aramean army had come with only a few men, the LORD delivered into their hand a very great army. Because Judah had forsaken the LORD, the God of their fathers, judgment was executed on Joash.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.23|<< 2 Chronicles 24:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.25|2 Chronicles 24:25 >>]]</td></tr></table>
 
 | Translation | Greek |

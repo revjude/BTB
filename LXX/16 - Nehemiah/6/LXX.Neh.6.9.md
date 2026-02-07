@@ -1,10 +1,7 @@
 **LXX Nehemiah 6:9** 
 <small><sub>**LXX:**</sub></small>
 For all were throwing us into fear, saying, Their hands shall be made faint from  this work, and it shall not be done. And now I strengthened  my hands. 
-<small><sub>**KJV:**</sub></small>
-For they all made us afraid, saying, Their hands shall be weakened from the work, that it be not done. Now therefore, [O God], strengthen my hands.
-<small><sub>**BSB:**</sub></small>
-For they were all trying to frighten us, saying, “Their hands will be weakened in the work, and it will never be finished.” But now, my God, strengthen my hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.8|<< Nehemiah 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.10|Nehemiah 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 39:9** 
+**Exodus 39:9**<big><big>[[Exod.39.8 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It was foursquare; they made the breastplate double: a span [was] the length thereof, and a span the breadth thereof, [being] doubled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It was square when folded over double, a span long and a span wide.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.8|<< Exodus 39:8]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.10|Exodus 39:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | square  |**<big>&#8207;[[H7251\|רָב֧וּעַ]]&#8207; </big>**| ra.Vu.a'<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was  |**<big>&#8207;[[H1961\|הָיָ֛ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 12:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:14**<big><big>[[Matt.12.9 Jesus Heals on the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the Pharisees went out, and held a council against him, how they might destroy him.
 <small><sub>**BSB:**</sub></small>
 But the Pharisees went out and plotted how they might kill Jesus.
 <small><sub>**Literal:**</sub></small>
 Having gone out now the Pharisees a counsel held against Him how Him they may destroy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.13|<< Matthew 12:13]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.15|Matthew 12:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having gone out |**<big>[[G1831\|Ἐξελθόντες]]</big>**  |Exelthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28»7+NA27+Tyn»7+SBL+WH»7+Treg+TR»7+Byz»7">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |

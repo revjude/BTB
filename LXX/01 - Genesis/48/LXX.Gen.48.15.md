@@ -1,10 +1,7 @@
 **LXX Genesis 48:15** 
 <small><sub>**LXX:**</sub></small>
 And he blessed them, and he said, The God in whom my fathers were well-pleasing in his presence -- Abraham and Isaac; the God  maintaining me from my youth until  this day; 
-<small><sub>**KJV:**</sub></small>
-And he blessed Joseph, and said, God, before whom my fathers Abraham and Isaac did walk, the God which fed me all my life long unto this day,
-<small><sub>**BSB:**</sub></small>
-Then he blessed Joseph and said: “May the God before whom my fathers Abraham and Isaac walked, the God who has been my shepherd all my life to this day,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.48.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.14|<< Genesis 48:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.16|Genesis 48:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 48:15** is...

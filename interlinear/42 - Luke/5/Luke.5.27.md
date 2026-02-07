@@ -1,12 +1,12 @@
-**Luke 5:27
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:27**<big><big>[[Luke.5.27 Jesus Calls Levi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me.
 <small><sub>**BSB:**</sub></small>
 After this, Jesus went out and saw a tax collector named Levi sitting at the tax booth. “Follow Me,” He told him,
 <small><sub>**Literal:**</sub></small>
 And after these things He went forth and He saw a tax collector named Levi sitting at the tax booth and He said to him; do follow Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.26|<< Luke 5:26]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.28|Luke 5:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | after |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

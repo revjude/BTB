@@ -1,4 +1,4 @@
-**Job 14:21** 
+**Job 14:21**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His sons come to honour, and he knoweth [it] not; and they are brought low, but he perceiveth [it] not of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If his sons receive honor, he does not know it; if they are brought low, he is u
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.20|<< Job 14:20]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.22|Job 14:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they are honored  |**<big>&#8207;[[H3513G\|יִכְבְּד֣וּ]]&#8207; </big>**| yikh.be.Du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sons his  |**<big>&#8207;[[H1121A\|בָ֭נָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| Va.na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

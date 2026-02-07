@@ -1,12 +1,12 @@
-**1 Timothy 6:18
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:18**<big><big>[[1Tim.6.17 A Charge to the Rich|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That they do good, that they be rich in good works, ready to distribute, willing to communicate;
 <small><sub>**BSB:**</sub></small>
 Instruct them to do good, to be rich in good works, and to be generous and ready to share,
 <small><sub>**Literal:**</sub></small>
 to do good, to be rich in works good, generous in distributing to be, ready to share,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.17|<< 1 Timothy 6:17]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.19|1 Timothy 6:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to do good, |**<big>[[G0014\|ἀγαθοεργεῖν,]]</big>**  |agathoergein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to be rich |**<big>[[G4147\|πλουτεῖν]]</big>**  |ploutein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

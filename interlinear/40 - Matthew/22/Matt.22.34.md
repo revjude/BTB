@@ -1,12 +1,12 @@
-**Matthew 22:34
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:34**<big><big>[[Matt.22.34 The Greatest Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when the Pharisees had heard that he had put the Sadducees to silence, they were gathered together.
 <small><sub>**BSB:**</sub></small>
 And when the Pharisees heard that Jesus had silenced the Sadducees, they themselves gathered together.
 <small><sub>**Literal:**</sub></small>
 <the> And the Pharisees having heard that He had silenced the Sadducees were gathered together the same.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.33|<< Matthew 22:33]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.35|Matthew 22:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

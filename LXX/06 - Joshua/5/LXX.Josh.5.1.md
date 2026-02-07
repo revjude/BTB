@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as all the kings heard (\[the kings\] of the Amorites  \[who\] were on the other side of the Jordan by the sea, and all the kings  of Phoenicia  by the sea) that \[the\] <span class="smallcaps">lord</span> God to dry up the Jordan river from  before the sons of Israel in  their passing over, that their thoughts melted away, and they were struck with terror, and there was not among them any one with intellect because of \[the\] presence of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when all the kings of the Amorites, which [were] on the side of Jordan westward, and all the kings of the Canaanites, which [were] by the sea, heard that the LORD had dried up the waters of Jordan from before the children of Israel, until we were passed over, that their heart melted, neither was there spirit in them any more, because of the children of Israel.
-<small><sub>**BSB:**</sub></small>
-Now when all the Amorite kings west of the Jordan and all the Canaanite kings along the coast heard how the LORD had dried up the waters of the Jordan before the Israelites until they had crossed over, their hearts melted and their spirits failed for fear of the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.24|<< Joshua 4:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.2|Joshua 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

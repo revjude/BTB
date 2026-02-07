@@ -1,12 +1,12 @@
-**2 Corinthians 5:1
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 5:1**<big><big>[[2Cor.5.1 Our Eternal Dwelling|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we know that if our earthly house of [this] tabernacle were dissolved, we have a building of God, an house not made with hands, eternal in the heavens.
 <small><sub>**BSB:**</sub></small>
 For we know that if the earthly tent we live in is dismantled, we have a building from God, an eternal house in heaven, not built by human hands.
 <small><sub>**Literal:**</sub></small>
 We know for that if the earthly of us house the tent shall be destroyed, a building from God we have, a house not made with hands eternal in the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.18|<< 2 Corinthians 4:18]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.2|2 Corinthians 5:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We know |**<big>[[G6063\|Οἴδαμεν]]</big>**  |Oidamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

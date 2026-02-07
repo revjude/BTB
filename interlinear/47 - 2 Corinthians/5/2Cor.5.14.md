@@ -1,12 +1,12 @@
-**2 Corinthians 5:14
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 5:14**<big><big>[[2Cor.5.11 Ambassadors for Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:
 <small><sub>**BSB:**</sub></small>
 For Christ’s love compels us, because we are convinced that One died for all, therefore all died.
 <small><sub>**Literal:**</sub></small>
 The for love <the> of Christ compels us having concluded this, that if One for all has died; therefore <the> all have died.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.13|<< 2 Corinthians 5:13]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.15|2 Corinthians 5:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

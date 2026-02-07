@@ -1,12 +1,12 @@
-**Matthew 22:40
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:40**<big><big>[[Matt.22.34 The Greatest Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 On these two commandments hang all the law and the prophets.
 <small><sub>**BSB:**</sub></small>
 All the Law and the Prophets hang on these two commandments.”
 <small><sub>**Literal:**</sub></small>
 On these <the> two commandments all the law hangs and the Prophets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.39|<< Matthew 22:39]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.41|Matthew 22:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these |**<big>[[G3778\|ταύταις]]</big>**  |tautais <small><sup>[[D-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

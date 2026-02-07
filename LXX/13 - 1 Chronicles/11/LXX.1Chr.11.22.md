@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:22** 
 <small><sub>**LXX:**</sub></small>
 And Benaiah, son of Jehoiada son of a mighty man (many \[were\] his works) from Kabzeel; he struck the two lion-like ones of Moab; also this one went down and struck the lion in the pit in \[the\] day of snow. 
-<small><sub>**KJV:**</sub></small>
-Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day.
-<small><sub>**BSB:**</sub></small>
-And Benaiah son of Jehoiada was a man of valor from Kabzeel, a man of many exploits. He struck down two champions of Moab, and on a snowy day he went down into a pit and killed a lion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.21|<< 1 Chronicles 11:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.23|1 Chronicles 11:23 >>]]</td></tr></table>
 
 | Translation | Greek |

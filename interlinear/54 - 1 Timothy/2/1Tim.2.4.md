@@ -1,12 +1,12 @@
-**1 Timothy 2:4
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 2:4**<big><big>[[1Tim.2.1 A Call to Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who will have all men to be saved, and to come unto the knowledge of the truth.
 <small><sub>**BSB:**</sub></small>
 who wants everyone to be saved and to come to the knowledge of the truth.
 <small><sub>**Literal:**</sub></small>
 who all men desires to be saved and to [the] knowledge of [the] truth to come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.3|<< 1 Timothy 2:3]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.5|1 Timothy 2:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πάντας]]</big>**  |pantas <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

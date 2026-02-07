@@ -1,10 +1,7 @@
 **LXX Exodus 35:3** 
 <small><sub>**LXX:**</sub></small>
 You shall not burn a fire in any \[place\]  of your house on the day of the Sabbaths -- I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Ye shall kindle no fire throughout your habitations upon the sabbath day.
-<small><sub>**BSB:**</sub></small>
-Do not light a fire in any of your dwellings on the Sabbath day.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.2|<< Exodus 35:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.4|Exodus 35:4 >>]]</td></tr></table>
 
 | Translation | Greek |

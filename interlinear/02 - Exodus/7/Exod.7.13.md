@@ -1,4 +1,4 @@
-**Exodus 7:13** 
+**Exodus 7:13**<big><big>[[Exod.7.8 Aaron’s Staff|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he hardened Pharaoh’s heart, that he hearkened not unto them; as the LORD had said.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Still, Pharaoh’s heart was hardened, and he would not listen to them, just as 
 > $\quad$ referenced by: [[2Tim.3.8|2Tim 3:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was strong  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388G\|יֶּחֱזַק֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.che.Zak<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heart of  |**<big>&#8207;[[H3820A\|לֵ֣ב]]&#8207; </big>**| lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

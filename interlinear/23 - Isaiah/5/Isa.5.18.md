@@ -1,4 +1,4 @@
-**Isaiah 5:18** 
+**Isaiah 5:18**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto them that draw iniquity with cords of vanity, and sin as it were with a cart rope:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to those who draw iniquity with cords of deceit and pull sin along with cart
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.17|<< Isaiah 5:17]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.19|Isaiah 5:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֛וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] draw along  |**<big>&#8207;[[H4900\|מֹשְׁכֵ֥י]]&#8207; </big>**| mo.she.Khei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

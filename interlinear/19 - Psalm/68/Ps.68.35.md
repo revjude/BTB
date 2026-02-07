@@ -1,4 +1,4 @@
-**Psalms 68:35** (68:36)
+**Psalms 68:35**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O God, [thou art] terrible out of thy holy places: the God of Israel [is] he that giveth strength and power unto [his] people. Blessed [be] God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O God, You are awesome in Your sanctuary; the God of Israel Himself gives streng
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.34|<< Psalms 68:34]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.0|Psalms 69:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] to be feared  |**<big>&#8207;[[H3372H\|נ֤וֹרָ֥א]]&#8207; </big>**| no.Ra'<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֗ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

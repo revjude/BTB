@@ -1,10 +1,7 @@
 **LXX Numbers 28:15** 
 <small><sub>**LXX:**</sub></small>
 And a young he-goat from \[the\] goats -- one for a sin \[offering\] \[to the\] <span class="smallcaps">lord</span>, beside the continual whole burnt-offering; you shall offer it and  its libation. 
-<small><sub>**KJV:**</sub></small>
-And one kid of the goats for a sin offering unto the LORD shall be offered, beside the continual burnt offering, and his drink offering.
-<small><sub>**BSB:**</sub></small>
-In addition to the regular burnt offering with its drink offering, one male goat is to be presented to the LORD as a sin offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.14|<< Numbers 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.16|Numbers 28:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:26** 
 <small><sub>**LXX:**</sub></small>
 And I will give them into \[the\] hand of the ones seeking  their life, and into \[the\] hand of Nebuchadnezzar king of Babylon, and into \[the\] hand  of his servants. And after these \[things\] it shall be as in the old days, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will deliver them into the hand of those that seek their lives, and into the hand of Nebuchadrezzar king of Babylon, and into the hand of his servants: and afterward it shall be inhabited, as in the days of old, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-I will deliver them into the hands of those who seek their lives—of Nebuchadnezzar king of Babylon and his officers. But after this, Egypt will be inhabited as in days of old, declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.25|<< Jeremiah 46:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.27|Jeremiah 46:27 >>]]</td></tr></table>
 
 | Translation | Greek |

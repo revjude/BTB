@@ -1,4 +1,4 @@
-**1 Kings 5:1** (5:15)
+**1 Kings 5:1**<big><big>[[1Kgs.5.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now when Hiram king of Tyre heard that Solomon had been anointed king in his fat
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.34|<< 1 Kings 4:34]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.2|1 Kings 5:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H7971G\|יִּשְׁלַח]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yish.lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hiram  |**<big>&#8207;[[H2438G\|חִירָ֨ם]]&#8207; </big>**| chi.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

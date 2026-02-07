@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:19** 
 <small><sub>**LXX:**</sub></small>
 And you shall say, Why \[is it\] that the son does not take the iniquity  of his father? Because the son has done equity and righteousness and mercy. All  my laws he preserved, and he did them; to life he shall live. 
-<small><sub>**KJV:**</sub></small>
-Yet say ye, Why? doth not the son bear the iniquity of the father? When the son hath done that which is lawful and right, [and] hath kept all my statutes, and hath done them, he shall surely live.
-<small><sub>**BSB:**</sub></small>
-Yet you may ask, ‘Why shouldn’t the son bear the iniquity of his father?’ Since the son has done what is just and right, carefully observing all My statutes, he will surely live.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.18|<< Ezekiel 18:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.20|Ezekiel 18:20 >>]]</td></tr></table>
 
 | Translation | Greek |

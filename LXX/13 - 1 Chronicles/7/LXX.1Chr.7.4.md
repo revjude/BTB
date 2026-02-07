@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:4** 
 <small><sub>**LXX:**</sub></small>
 And with them according to their generations, according to \[the\] house of their families, strong armed \[bands\] to deploy for war -- thirty and six thousand; for they multiplied wives and sons. 
-<small><sub>**KJV:**</sub></small>
-And with them, by their generations, after the house of their fathers, [were] bands of soldiers for war, six and thirty thousand [men]: for they had many wives and sons.
-<small><sub>**BSB:**</sub></small>
-In addition to them, according to their genealogy, they had 36,000 troops for battle, for they had many wives and children.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.3|<< 1 Chronicles 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.5|1 Chronicles 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

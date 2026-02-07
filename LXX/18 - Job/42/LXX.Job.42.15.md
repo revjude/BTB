@@ -1,10 +1,7 @@
 **LXX Job 42:15** 
 <small><sub>**LXX:**</sub></small>
 And there were not found according to the daughters of Job better than they among \[the places\]  under heaven. And \[their\] father gave to them an inheritance among the brethren. 
-<small><sub>**KJV:**</sub></small>
-And in all the land were no women found [so] fair as the daughters of Job: and their father gave them inheritance among their brethren.
-<small><sub>**BSB:**</sub></small>
-No women as beautiful as Job’s daughters could be found in all the land, and their father granted them an inheritance among their brothers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.42.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.14|<< Job 42:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.16|Job 42:16 >>]]</td></tr></table>
 
 | Translation | Greek |

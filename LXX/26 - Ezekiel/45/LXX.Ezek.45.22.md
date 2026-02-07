@@ -1,10 +1,7 @@
 **LXX Ezekiel 45:22** 
 <small><sub>**LXX:**</sub></small>
 And the one guiding shall offer in that  day for himself, and for all the people of the land, a calf for a sin \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And upon that day shall the prince prepare for himself and for all the people of the land a bullock [for] a sin offering.
-<small><sub>**BSB:**</sub></small>
-On that day the prince shall provide a bull as a sin offering for himself and for all the people of the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.45.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.21|<< Ezekiel 45:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.23|Ezekiel 45:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 7:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:20**<big><big>[[Luke.7.18 John’s Inquiry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?
 <small><sub>**BSB:**</sub></small>
 When the men came to Jesus, they said, “John the Baptist sent us to ask, ‘Are You the One who was to come, or should we look for someone else?’”
 <small><sub>**Literal:**</sub></small>
 Having come then to Him the men said; John the Baptist has sent us to you saying; You yourself are the coming [One], or another are we to look for?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.19|<< Luke 7:19]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.21|Luke 7:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having come |**<big>[[G3854\|Παραγενόμενοι]]</big>**  |Paragenomenoi <small><sup>[[V-2ADP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

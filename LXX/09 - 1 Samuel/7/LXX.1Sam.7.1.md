@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the men of Kirjath-jearim came, and they led up the ark \[of\] the covenant of \[the\] <span class="smallcaps">lord</span>. And they brought it into \[the\] house of Abinadab  on the hill. And  they sanctified Eleazar his son to guard the ark of \[the\] covenant of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the men of Kirjathjearim came, and fetched up the ark of the LORD, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the LORD.
-<small><sub>**BSB:**</sub></small>
-Then the men of Kiriath-jearim came for the ark of the LORD and took it into Abinadab’s house on the hill. And they consecrated his son Eleazar to guard the ark of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.21|<< 1 Samuel 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.2|1 Samuel 7:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 7:1** is...

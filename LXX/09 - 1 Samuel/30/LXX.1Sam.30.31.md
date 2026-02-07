@@ -1,10 +1,7 @@
 **LXX 1 Samuel 30:31** 
 <small><sub>**LXX:**</sub></small>
 and to the ones in Hebron, and into all the places which David went there, he and  his men. 
-<small><sub>**KJV:**</sub></small>
-And to [them] which [were] in Hebron, and to all the places where David himself and his men were wont to haunt.
-<small><sub>**BSB:**</sub></small>
-and to those in Hebron and in all the places where David and his men had roamed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.30.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.30|<< 1 Samuel 30:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.31.1|1 Samuel 31:1 >>]]</td></tr></table>
 
 | Translation | Greek |

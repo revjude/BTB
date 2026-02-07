@@ -1,4 +1,4 @@
-**Jeremiah 51:44** 
+**Jeremiah 51:44**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will punish Bel in Babylon, and I will bring forth out of his mouth that which he hath swallowed up: and the nations shall not flow together any more unto him: yea, the wall of Babylon shall fall.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will punish Bel in Babylon. I will make him spew out what he swallowed. The na
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.43|<< Jeremiah 51:43]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.45|Jeremiah 51:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will visit [judgment]  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6485H\|פָקַדְתִּ֨י]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fa.kad.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

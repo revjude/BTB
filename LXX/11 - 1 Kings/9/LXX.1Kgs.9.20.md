@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:20** 
 <small><sub>**LXX:**</sub></small>
 All the remaining people from the Hittite, and the Amorite, and the Perizzite, and the Canaanite, and the Hivite, and the Jebusite, and the Gergesite of the ones not being of the sons of Israel, 
-<small><sub>**KJV:**</sub></small>
-[And] all the people [that were] left of the Amorites, Hittites, Perizzites, Hivites, and Jebusites, which [were] not of the children of Israel,
-<small><sub>**BSB:**</sub></small>
-As for all the people who remained of the Amorites, Hittites, Perizzites, Hivites, and Jebusites (the people who were not Israelites)—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.19|<< 1 Kings 9:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.21|1 Kings 9:21 >>]]</td></tr></table>
 
 | Translation | Greek |

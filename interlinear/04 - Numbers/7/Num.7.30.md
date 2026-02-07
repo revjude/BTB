@@ -1,4 +1,4 @@
-**Numbers 7:30** 
+**Numbers 7:30**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the fourth day Elizur the son of Shedeur, prince of the children of Reuben, [did offer]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the fourth day Elizur son of Shedeur, the leader of the Reubenites, drew near
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.29|<< Numbers 7:29]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.31|Numbers 7:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּוֹם֙]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> fourth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7243\|רְבִיעִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> re.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

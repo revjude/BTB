@@ -1,4 +1,4 @@
-**Ezekiel 27:8** 
+**Ezekiel 27:8**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The inhabitants of Zidon and Arvad were thy mariners: thy wise [men], O Tyrus, [that] were in thee, were thy pilots.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The men of Sidon and Arvad were your oarsmen. Your men of skill, O Tyre, were th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.7|<< Ezekiel 27:7]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.9|Ezekiel 27:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] inhabitants of  |**<big>&#8207;[[H3427\|יֹשְׁבֵ֤י]]&#8207; </big>**| yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sidon  |**<big>&#8207;[[H6721H\|צִידוֹן֙]]&#8207; </big>**| tzi.dOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

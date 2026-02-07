@@ -1,10 +1,7 @@
 **LXX Isaiah 63:19** 
 <small><sub>**LXX:**</sub></small>
 We became as  from \[the\] beginning when you did not rule us, nor your name called upon us. 
-<small><sub>**KJV:**</sub></small>
-We are [thine]: thou never barest rule over them; they were not called by thy name.
-<small><sub>**BSB:**</sub></small>
-We have become like those You never ruled, like those not called by Your name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.63.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.63.18|<< Isaiah 63:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.1|Isaiah 64:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Luke 11:49
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:49**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore also said the wisdom of God, I will send them prophets and apostles, and [some] of them they shall slay and persecute:
 <small><sub>**BSB:**</sub></small>
 Because of this, the wisdom of God said, ‘I will send them prophets and apostles; some of them they will kill and others they will persecute.’
@@ -11,7 +11,7 @@ Because of this also the Wisdom <the> of God said; I will send to them prophets 
 > $\quad$ alluding to: [[LXX.Ezek.34.8|Ezek 34:8-10]] ☩ [[LXX.Zech.11.7|Zech 11:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

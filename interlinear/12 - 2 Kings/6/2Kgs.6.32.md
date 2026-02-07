@@ -1,4 +1,4 @@
-**2 Kings 6:32** 
+**2 Kings 6:32**<big><big>[[2Kgs.6.24 The Siege and Famine of Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Elisha sat in his house, and the elders sat with him; and [the king] sent a man from before him: but ere the messenger came to him, he said to the elders, See ye how this son of a murderer hath sent to take away mine head? look, when the messenger cometh, shut the door, and hold him fast at the door: [is] not the sound of his master’s feet behind him?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Elisha was sitting in his house, and the elders were sitting with him. The k
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.31|<< 2 Kings 6:31]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.33|2 Kings 6:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Elisha  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H0477\|אֱלִישָׁע֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.li.Sha'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] sitting  |**<big>&#8207;[[H3427\|יֹשֵׁ֣ב]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

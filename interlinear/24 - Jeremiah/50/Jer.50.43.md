@@ -1,4 +1,4 @@
-**Jeremiah 50:43** 
+**Jeremiah 50:43**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king of Babylon hath heard the report of them, and his hands waxed feeble: anguish took hold of him, [and] pangs as of a woman in travail.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king of Babylon has heard the report, and his hands hang limp. Anguish has g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.42|<< Jeremiah 50:42]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.44|Jeremiah 50:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he heard  |**<big>&#8207;[[H8085G\|שָׁמַ֧ע]]&#8207; </big>**| sha.Ma'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

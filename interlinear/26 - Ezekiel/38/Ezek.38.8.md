@@ -1,4 +1,4 @@
-**Ezekiel 38:8** 
+**Ezekiel 38:8**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After many days thou shalt be visited: in the latter years thou shalt come into the land [that is] brought back from the sword, [and is] gathered out of many people, against the mountains of Israel, which have been always waste: but it is brought forth out of the nations, and they shall dwell safely all of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After a long time you will be summoned. In the latter years you will enter a lan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.7|<< Ezekiel 38:7]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.9|Ezekiel 38:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from days  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3117G\|יָּמִ֣ים]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | many  |**<big>&#8207;[[H7227A\|רַבִּים֮]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

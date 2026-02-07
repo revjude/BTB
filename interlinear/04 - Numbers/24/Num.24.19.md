@@ -1,4 +1,4 @@
-**Numbers 24:19** 
+**Numbers 24:19**<big><big>[[Num.24.15 Balaam’s Fourth Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of Jacob shall come he that shall have dominion, and shall destroy him that remaineth of the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A ruler will come from Jacob and destroy the survivors of the city.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.18|<< Numbers 24:18]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.20|Numbers 24:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will rule  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7287A\|יֵ֖רְדְּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ye.red<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Jacob  |**<big>&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H3290\|יַּעֲקֹ֑ב]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

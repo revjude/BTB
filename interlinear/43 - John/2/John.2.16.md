@@ -1,12 +1,12 @@
-**John 2:16
-**<small><sub>**KJV:**</sub></small>
+**John 2:16**<big><big>[[John.2.12 Jesus Cleanses the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said unto them that sold doves, Take these things hence; make not my Father’s house an house of merchandise.
 <small><sub>**BSB:**</sub></small>
 To those selling doves He said, “Get these out of here! How dare you turn My Father’s house into a marketplace!”
 <small><sub>**Literal:**</sub></small>
 And to those <the> doves selling He said; do take these things from here, not do make the house of the Father of Mine a house of trade.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.15|<< John 2:15]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.17|John 2:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to those |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Ishbosheth son of Saul heard that Abner has died in Hebron, and his hands were faint, and all the men of Israel were disturbed. 
-<small><sub>**KJV:**</sub></small>
-And when Saul’s son heard that Abner was dead in Hebron, his hands were feeble, and all the Israelites were troubled.
-<small><sub>**BSB:**</sub></small>
-Now when Ish-bosheth son of Saul heard that Abner had died in Hebron, he lost courage, and all Israel was dismayed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.39|<< 2 Samuel 3:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.4.2|2 Samuel 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

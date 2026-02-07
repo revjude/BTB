@@ -1,10 +1,7 @@
 **LXX Leviticus 2:11** 
 <small><sub>**LXX:**</sub></small>
 Every sacrifice which ever you should bring to the <span class="smallcaps">lord</span>, you shall not make leavened; for all yeast, and all honey you shall not offer of it, to yield to the <span class="smallcaps">lord</span> a gift \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-No meat offering, which ye shall bring unto the LORD, shall be made with leaven: for ye shall burn no leaven, nor any honey, in any offering of the LORD made by fire.
-<small><sub>**BSB:**</sub></small>
-No grain offering that you present to the LORD may be made with leaven, for you are not to burn any leaven or honey as a food offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.10|<< Leviticus 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.12|Leviticus 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

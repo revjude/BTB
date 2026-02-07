@@ -1,10 +1,7 @@
 **LXX Micah 5:2** 
 <small><sub>**LXX:**</sub></small>
 And you, Beth-lehem, of the house of Ephratah, are very few  being among thousands of Judah; from out of you to me shall come forth the one being for ruler  of Israel; and  his goings forth \[were\] from \[the\] beginning, from eon of days. 
-<small><sub>**KJV:**</sub></small>
-But thou, Bethlehem Ephratah, [though] thou be little among the thousands of Judah, [yet] out of thee shall he come forth unto me [that is] to be ruler in Israel; whose goings forth [have been] from of old, from everlasting.
-<small><sub>**BSB:**</sub></small>
-But you, Bethlehem Ephrathah, who are small among the clans of Judah, out of you will come forth for Me One to be ruler over Israel—One whose origins are of old, from the days of eternity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.5.1|<< Micah 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.3|Micah 5:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Micah 5:2** is...

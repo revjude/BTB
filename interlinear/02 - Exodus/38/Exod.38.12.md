@@ -1,4 +1,4 @@
-**Exodus 38:12** 
+**Exodus 38:12**<big><big>[[Exod.38.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the west side [were] hangings of fifty cubits, their pillars ten, and their sockets ten; the hooks of the pillars and their fillets [of] silver.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The west side was fifty cubits long and had curtains, with ten posts and ten bas
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.11|<< Exodus 38:11]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.13|Exodus 38:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and for [the] side of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6285\|פְאַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> f.'at-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] west  |**<big>&#8207;[[H3220H\|יָ֗ם]]&#8207; </big>**| Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

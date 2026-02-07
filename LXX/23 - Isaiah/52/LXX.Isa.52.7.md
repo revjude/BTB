@@ -1,10 +1,7 @@
 **LXX Isaiah 52:7** 
 <small><sub>**LXX:**</sub></small>
 As an hour upon the mountains, as feet announcing good news, \[the\] hearing of peace, as of announcing good news -- good \[things\]; for audibly I will produce  your deliverance, saying, Zion, Your God shall reign. 
-<small><sub>**KJV:**</sub></small>
-How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
-<small><sub>**BSB:**</sub></small>
-How beautiful on the mountains are the feet of those who bring good news, who proclaim peace, who bring good tidings, who proclaim salvation, who say to Zion, “Your God reigns!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.52.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.6|<< Isaiah 52:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.8|Isaiah 52:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 52:7** is...

@@ -1,10 +1,7 @@
 **LXX Exodus 14:20** 
 <small><sub>**LXX:**</sub></small>
 And it entered between the camp of the Egyptians and between the camp of Israel, and it stood. And there was darkness and dimness. And the night went by. And they did not mix together one to another the entire night. 
-<small><sub>**KJV:**</sub></small>
-And it came between the camp of the Egyptians and the camp of Israel; and it was a cloud and darkness [to them], but it gave light by night [to these]: so that the one came not near the other all the night.
-<small><sub>**BSB:**</sub></small>
-so that it came between the camps of Egypt and Israel. The cloud was there in the darkness, but it lit up the night. So all night long neither camp went near the other.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.19|<< Exodus 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.21|Exodus 14:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 4:14** 
 <small><sub>**LXX:**</sub></small>
 If you cast me today from \[the\] face of the earth, and from  your face, I will hide, and I will be moaning and trembling upon the earth; and it will be all the \[ones\] finding me will kill me. 
-<small><sub>**KJV:**</sub></small>
-Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, [that] every one that findeth me shall slay me.
-<small><sub>**BSB:**</sub></small>
-Behold, this day You have driven me from the face of the earth, and from Your face I will be hidden; I will be a fugitive and a wanderer on the earth, and whoever finds me will kill me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.13|<< Genesis 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.15|Genesis 4:15 >>]]</td></tr></table>
 
 | Translation | Greek |

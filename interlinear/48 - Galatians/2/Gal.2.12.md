@@ -1,12 +1,12 @@
-**Galatians 2:12
-**<small><sub>**KJV:**</sub></small>
+**Galatians 2:12**<big><big>[[Gal.2.11 Paul Confronts Cephas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.
 <small><sub>**BSB:**</sub></small>
 For before certain men came from James, he used to eat with the Gentiles. But when they arrived, he began to draw back and separate himself, for fear of those in the circumcision group.
 <small><sub>**Literal:**</sub></small>
 Before <the> for to come certain ones from James with the Gentiles he was eating; when however they came, he was drawing back and he was separating himself being afraid of those of [the] circumcision;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.11|<< Galatians 2:11]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.13|Galatians 2:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Before |**<big>[[G4253\|πρὸ]]</big>**  |pro <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 119:167** 
+**Psalms 119:167**<big><big>[[Ps.119.161 Your Word Is a Lamp to My Feet - SCHIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul hath kept thy testimonies; and I love them exceedingly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I obey Your testimonies and love them greatly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.167|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.166|<< Psalms 119:166]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.168|Psalms 119:168 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it keeps  |**<big>&#8207;[[H8104G\|שָֽׁמְרָ֣ה]]&#8207; </big>**| sha.me.Rah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | self my  |**<big>&#8207;[[H5315G\|נַ֭פְשִׁ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Naf.sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

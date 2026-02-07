@@ -1,12 +1,12 @@
-**Hebrews 2:4
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 2:4**<big><big>[[Heb.2.1 Salvation Confirmed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 God also bearing [them] witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to his own will?
 <small><sub>**BSB:**</sub></small>
 and was affirmed by God through signs, wonders, various miracles, and gifts of the Holy Spirit distributed according to His will.
 <small><sub>**Literal:**</sub></small>
 bearing witness <the> God by signs together with [them] and by wonders and by various miracles and of [the] Spirit Holy by distributions according to the of Him will.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.3|<< Hebrews 2:3]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.5|Hebrews 2:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bearing witness |**<big>[[G4901\|συνεπιμαρτυροῦντος]]</big>**  |sunepimarturountos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

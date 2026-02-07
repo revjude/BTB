@@ -1,10 +1,7 @@
 **LXX Exodus 6:17** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the sons of Gershon -- Libni and Shimei; \[the\] houses of their family. 
-<small><sub>**KJV:**</sub></small>
-The sons of Gershon; Libni, and Shimi, according to their families.
-<small><sub>**BSB:**</sub></small>
-The sons of Gershon were Libni and Shimei, by their clans.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.16|<< Exodus 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.18|Exodus 6:18 >>]]</td></tr></table>
 
 | Translation | Greek |

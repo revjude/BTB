@@ -6,10 +6,7 @@ To the director; for the changings; to the sons of Korah; for contemplation; an 
 
 <small><sub>**LXX:**</sub></small>
 My heart discharged forth a good word. I speak  of my works to the king.  My tongue is a reed \[pen\] of a scribe writing fast. 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician upon Shoshannim, for the sons of Korah, Maschil, A Song of loves. My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue [is] the pen of a ready writer.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. To the tune of “The Lilies.” A Maskil of the sons of Korah. A love song. My heart is stirred by a noble theme as I recite my verses to the king; my tongue is the pen of a skillful writer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.45.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.26|<< Psalm 44:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.2|Psalm 45:2 >>]]</td></tr></table>
 
 | Translation | Greek |

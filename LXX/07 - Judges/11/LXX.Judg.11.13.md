@@ -1,10 +1,7 @@
 **LXX Judges 11:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] king of \[the\] sons of Ammon said to the messengers of Jephthah, Because Israel took  my land in  their ascending from out of Egypt, from Arnon unto Jabok, and unto the Jordan. And now return them with peace! 
-<small><sub>**KJV:**</sub></small>
-And the king of the children of Ammon answered unto the messengers of Jephthah, Because Israel took away my land, when they came up out of Egypt, from Arnon even unto Jabbok, and unto Jordan: now therefore restore those [lands] again peaceably.
-<small><sub>**BSB:**</sub></small>
-The king of the Ammonites answered Jephthah’s messengers, “When Israel came up out of Egypt, they seized my land, from the Arnon to the Jabbok and all the way to the Jordan. Now, therefore, restore it peaceably.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.12|<< Judges 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.14|Judges 11:14 >>]]</td></tr></table>
 
 | Translation | Greek |

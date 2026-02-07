@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΣΑΜΕΧ</p>
 
 All \[the\] ones passing in \[the\] way clap hands over you; they whistle and shake  their head over the daughter of Jerusalem, Is she the city, they shall say, \[the\] crown of glory of gladness of all the earth? 
-<small><sub>**KJV:**</sub></small>
-All that pass by clap [their] hands at thee; they hiss and wag their head at the daughter of Jerusalem, [saying, Is] this the city that [men] call The perfection of beauty, The joy of the whole earth?
-<small><sub>**BSB:**</sub></small>
-All who pass by clap their hands at you in scorn. They hiss and shake their heads at the Daughter of Jerusalem: “Is this the city that was called the perfection of beauty, the joy of all the earth?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.14|<< Lamentations 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.16|Lamentations 2:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Daniel 5:8** 
 <small><sub>**LXX:**</sub></small>
 And entering \[were\] all the wise \[men\] of the king, and they were not able to read the writing, nor to make known the interpretation to the king. 
-<small><sub>**KJV:**</sub></small>
-Then came in all the king’s wise [men]: but they could not read the writing, nor make known to the king the interpretation thereof.
-<small><sub>**BSB:**</sub></small>
-So all the king’s wise men came in, but they could not read the inscription or interpret it for him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.7|<< Daniel 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.9|Daniel 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 3:25** 
+**Deuteronomy 3:25**<big><big>[[Deut.3.23 Moses Forbidden to Cross the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I pray thee, let me go over, and see the good land that [is] beyond Jordan, that goodly mountain, and Lebanon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Please let me cross over and see the good land beyond the Jordan—that pleasant
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.24|<< Deuteronomy 3:24]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.26|Deuteronomy 3:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let me pass over  |**<big>&#8207;[[H5674A\|אֶעְבְּרָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e'.be.rah-<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָּ֗א]]&#8207; </big>**| Na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

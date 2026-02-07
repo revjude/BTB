@@ -1,4 +1,4 @@
-**Deuteronomy 2:3** 
+**Deuteronomy 2:3**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye have compassed this mountain long enough: turn you northward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ye have compassed this mountain long enough: turn you northward.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.2|<< Deuteronomy 2:2]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.4|Deuteronomy 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] enough  |**<big>&#8207;[[H7227A\|רַב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| rav-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֕ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

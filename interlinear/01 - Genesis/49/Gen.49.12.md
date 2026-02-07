@@ -1,4 +1,4 @@
-**Genesis 49:12** 
+**Genesis 49:12**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His eyes [shall be] red with wine, and his teeth white with milk.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His eyes are darker than wine, and his teeth are whiter than milk.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.11|<< Genesis 49:11]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.13|Genesis 49:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | dark of  |**<big>&#8207;[[H2447\|חַכְלִילִ֥י]]&#8207; </big>**| chakh.li.Li<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes  |**<big>&#8207;[[H5869A\|עֵינַ֖יִם]]&#8207; </big>**| 'ei.Na.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

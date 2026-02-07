@@ -1,4 +1,4 @@
-**Proverbs 21:29** 
+**Proverbs 21:29**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wicked man hardeneth his face: but [as for] the upright, he directeth his way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A wicked man hardens his face, but the upright man makes his way sure.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.28|<< Proverbs 21:28]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.30|Proverbs 21:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he makes strong  |**<big>&#8207;[[H5810\|הֵעֵ֬ז]]&#8207; </big>**| he.'Ez<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

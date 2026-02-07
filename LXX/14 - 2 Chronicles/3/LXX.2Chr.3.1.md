@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Solomon began  to build the house of \[the\] <span class="smallcaps">lord</span> in Jerusalem on mount  Moriah, of which \[the\] <span class="smallcaps">lord</span> appeared  to David  his father, in the place which David prepared on the threshing-floor of Ornan the Jebusite. 
-<small><sub>**KJV:**</sub></small>
-Then Solomon began to build the house of the LORD at Jerusalem in mount Moriah, where [the LORD] appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan the Jebusite.
-<small><sub>**BSB:**</sub></small>
-Then Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to his father David. This was the place that David had prepared on the threshing floor of Ornan the Jebusite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.18|<< 2 Chronicles 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.3.2|2 Chronicles 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

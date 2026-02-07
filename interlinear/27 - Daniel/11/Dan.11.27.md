@@ -1,4 +1,4 @@
-**Daniel 11:27** 
+**Daniel 11:27**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And both these kings’ hearts [shall be] to do mischief, and they shall speak lies at one table; but it shall not prosper: for yet the end [shall be] at the time appointed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the two kings, with their hearts bent on evil, will speak lies at the same t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.26|<< Daniel 11:26]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.28|Daniel 11:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] two of them  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8147\|שְׁנֵי]]&#8207;&#8207;[[H9028\|הֶ֤ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.nei.<small><sup>[[HAcbdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the kings  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מְּלָכִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

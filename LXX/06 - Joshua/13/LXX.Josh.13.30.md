@@ -1,10 +1,7 @@
 **LXX Joshua 13:30** 
 <small><sub>**LXX:**</sub></small>
 And their borders were from Mahanaim, and all \[the\] kingdom of Bashan, and all \[the\] kingdom of Og king of Bashan, and all the towns of Jair, which are in \[the\] land of Bashan, sixty cities; 
-<small><sub>**KJV:**</sub></small>
-And their coast was from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the towns of Jair, which [are] in Bashan, threescore cities:
-<small><sub>**BSB:**</sub></small>
-The territory from Mahanaim through all Bashan—all the kingdom of Og king of Bashan, including all the towns of Jair that are in Bashan, sixty cities;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.29|<< Joshua 13:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.31|Joshua 13:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 25:6** 
 <small><sub>**LXX:**</sub></small>
 And behold, a man of the sons of Israel coming, led forward  his brother to the Midianitish \[woman\] before Moses, and before all \[the\] congregation of \[the\] sons of Israel. And they were weeping by the door of the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And, behold, one of the children of Israel came and brought unto his brethren a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who [were] weeping [before] the door of the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-Just then an Israelite man brought to his family a Midianite woman in the sight of Moses and the whole congregation of Israel while they were weeping at the entrance to the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.5|<< Numbers 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.7|Numbers 25:7 >>]]</td></tr></table>
 
 | Translation | Greek |

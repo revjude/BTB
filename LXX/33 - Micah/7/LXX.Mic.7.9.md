@@ -1,10 +1,7 @@
 **LXX Micah 7:9** 
 <small><sub>**LXX:**</sub></small>
 \[The\] anger of \[the\] <span class="smallcaps">lord</span> I shall endure, for I sinned against him, until  he does justice  to my cause, and shall execute  my judgment. He shall lead me into the light; I shall see  his righteousness. 
-<small><sub>**KJV:**</sub></small>
-I will bear the indignation of the LORD, because I have sinned against him, until he plead my cause, and execute judgment for me: he will bring me forth to the light, [and] I shall behold his righteousness.
-<small><sub>**BSB:**</sub></small>
-Because I have sinned against Him, I must endure the rage of the LORD, until He argues my case and executes justice for me. He will bring me into the light; I will see His righteousness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.8|<< Micah 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.10|Micah 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

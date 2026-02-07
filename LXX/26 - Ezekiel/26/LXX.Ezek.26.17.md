@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:17** 
 <small><sub>**LXX:**</sub></small>
 And they shall take a lamentation over you, and shall say to you, O how you were destroyed and deposed from \[the\] sea, O praiseworthy city, who was strong in  her sea, and the ones inhabiting her, the one putting  her fear in all  her inhabitants. 
-<small><sub>**KJV:**</sub></small>
-And they shall take up a lamentation for thee, and say to thee, How art thou destroyed, [that wast] inhabited of seafaring men, the renowned city, which wast strong in the sea, she and her inhabitants, which cause their terror [to be] on all that haunt it!
-<small><sub>**BSB:**</sub></small>
-Then they will lament for you, saying, “How you have perished, O city of renown inhabited by seafaring men—she who was powerful on the sea, along with her people, who imposed terror on all peoples!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.16|<< Ezekiel 26:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.18|Ezekiel 26:18 >>]]</td></tr></table>
 
 | Translation | Greek |

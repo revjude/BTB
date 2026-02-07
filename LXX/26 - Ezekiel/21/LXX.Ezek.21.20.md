@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:20** 
 <small><sub>**LXX:**</sub></small>
 for the broadsword to enter upon Rabbath of \[the\] sons of Ammon, and upon  Judah, and upon Jerusalem in an assault. 
-<small><sub>**KJV:**</sub></small>
-Appoint a way, that the sword may come to Rabbath of the Ammonites, and to Judah in Jerusalem the defenced.
-<small><sub>**BSB:**</sub></small>
-Mark out one road for the sword to come against Rabbah of the Ammonites, and another against Judah into fortified Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.19|<< Ezekiel 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.21|Ezekiel 21:21 >>]]</td></tr></table>
 
 | Translation | Greek |

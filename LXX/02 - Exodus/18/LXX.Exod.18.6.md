@@ -1,10 +1,7 @@
 **LXX Exodus 18:6** 
 <small><sub>**LXX:**</sub></small>
 And it was announced to Moses, saying, Behold,  your father-in-law Jethro comes to you, and  your wife, and  your two sons with him. 
-<small><sub>**KJV:**</sub></small>
-And he said unto Moses, I thy father in law Jethro am come unto thee, and thy wife, and her two sons with her.
-<small><sub>**BSB:**</sub></small>
-He sent word to Moses, “I, your father-in-law Jethro, am coming to you with your wife and her two sons.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.5|<< Exodus 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.7|Exodus 18:7 >>]]</td></tr></table>
 
 | Translation | Greek |

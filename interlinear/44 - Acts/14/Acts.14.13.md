@@ -1,12 +1,12 @@
-**Acts 14:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:13**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the priest of Jupiter, which was before their city, brought oxen and garlands unto the gates, and would have done sacrifice with the people.
 <small><sub>**BSB:**</sub></small>
 The priest of Zeus, whose temple was just outside the city, brought bulls and wreaths to the city gates, hoping to offer a sacrifice along with the crowds.
 <small><sub>**Literal:**</sub></small>
 <the> And the priest <the> of Zeus who is being just outside the city of them oxen and wreaths to the gates having brought with the crowds was desiring to sacrifice.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.12|<< Acts 14:12]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.14|Acts 14:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὅ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And [^1] |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

@@ -1,12 +1,12 @@
-**Mark 14:33
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:33**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he taketh with him Peter and James and John, and began to be sore amazed, and to be very heavy;
 <small><sub>**BSB:**</sub></small>
 He took with Him Peter, James, and John, and began to be deeply troubled and distressed.
 <small><sub>**Literal:**</sub></small>
 And He takes <the> Peter and <the> James and <the> John with Him and He began to be greatly awe-struck and to be deeply distressed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.32|<< Mark 14:32]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.34|Mark 14:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He takes |**<big>[[G3880\|παραλαμβάνει]]</big>**  |paralambanei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

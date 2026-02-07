@@ -1,4 +1,4 @@
-**Isaiah 44:19** 
+**Isaiah 44:19**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And none considereth in his heart, neither [is there] knowledge nor understanding to say, I have burned part of it in the fire; yea, also I have baked bread upon the coals thereof; I have roasted flesh, and eaten [it]: and shall I make the residue thereof an abomination? shall I fall down to the stock of a tree?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And no one considers in his heart, no one has the knowledge or insight to say, �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.18|<< Isaiah 44:18]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.20|Isaiah 44:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he brings  |**<big>&#8207;[[H7725N\|יָשִׁ֣יב]]&#8207; </big>**| ya.Shiv<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

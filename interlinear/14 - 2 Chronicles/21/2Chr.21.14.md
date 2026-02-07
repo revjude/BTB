@@ -1,4 +1,4 @@
-**2 Chronicles 21:14** 
+**2 Chronicles 21:14**<big><big>[[2Chr.21.12 Elijah’s Letter to Jehoram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, with a great plague will the LORD smite thy people, and thy children, and thy wives, and all thy goods:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So behold, the LORD is about to strike your people, your sons, your wives, and a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.13|<< 2 Chronicles 21:13]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.15|2 Chronicles 21:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

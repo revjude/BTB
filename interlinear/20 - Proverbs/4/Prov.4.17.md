@@ -1,4 +1,4 @@
-**Proverbs 4:17** 
+**Proverbs 4:17**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they eat the bread of wickedness, and drink the wine of violence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For they eat the bread of wickedness and drink the wine of violence.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.16|<< Proverbs 4:16]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.18|Proverbs 4:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they eat  |**<big>&#8207;[[H3898B\|לָ֭חֲמוּ]]&#8207; </big>**| La.cha.mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

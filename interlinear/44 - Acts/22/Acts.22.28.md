@@ -1,12 +1,12 @@
-**Acts 22:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:28**<big><big>[[Acts.22.22 Paul the Roman Citizen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the chief captain answered, With a great sum obtained I this freedom. And Paul said, But I was [free] born.
 <small><sub>**BSB:**</sub></small>
 “I paid a high price for my citizenship,” said the commander. “But I was born a citizen,” Paul replied.
 <small><sub>**Literal:**</sub></small>
 Answered then the commander; I myself with a great sum <the> citizenship this bought. <the> But Paul was saying; I myself however even has been born [so].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.27|<< Acts 22:27]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.29|Acts 22:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

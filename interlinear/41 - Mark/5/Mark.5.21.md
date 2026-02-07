@@ -1,12 +1,12 @@
-**Mark 5:21
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:21**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Jesus was passed over again by ship unto the other side, much people gathered unto him: and he was nigh unto the sea.
 <small><sub>**BSB:**</sub></small>
 When Jesus had again crossed by boat to the other side, a large crowd gathered around Him beside the sea.
 <small><sub>**Literal:**</sub></small>
 And when was crossing <the> Jesus in the boat again to the other side was gathered a crowd great to Him, and He was beside the sea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.20|<< Mark 5:20]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.22|Mark 5:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when was crossing |**<big>[[G1276\|διαπεράσαντος]]</big>**  |diaperasantos <small><sup>[[V-AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

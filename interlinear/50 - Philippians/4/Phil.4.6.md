@@ -1,12 +1,12 @@
-**Philippians 4:6
-**<small><sub>**KJV:**</sub></small>
+**Philippians 4:6**<big><big>[[Phil.4.1 Rejoice in the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.
 <small><sub>**BSB:**</sub></small>
 Be anxious for nothing, but in everything, by prayer and petition, with thanksgiving, present your requests to God.
 <small><sub>**Literal:**</sub></small>
 Nothing do worry about, but in everything <the> by prayer and <the> by supplication with thanksgiving the requests of you should be made known to <the> God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.5|<< Philippians 4:5]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.7|Philippians 4:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Nothing |**<big>[[G3367\|μηδὲν]]</big>**  |mēden <small><sup>[[A-ASN-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do worry about, |**<big>[[G3309\|μεριμνᾶτε,]]</big>**  |merimnate <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

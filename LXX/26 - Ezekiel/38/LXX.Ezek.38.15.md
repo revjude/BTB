@@ -1,10 +1,7 @@
 **LXX Ezekiel 38:15** 
 <small><sub>**LXX:**</sub></small>
 And you shall come from out of  your place, from \[the\] extreme of the north, and many nations with you, all riders \[having\] horses, a great gathering, and a great force. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt come from thy place out of the north parts, thou, and many people with thee, all of them riding upon horses, a great company, and a mighty army:
-<small><sub>**BSB:**</sub></small>
-And you will come from your place out of the far north—you and many peoples with you, all riding horses—a mighty horde, a huge army.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.14|<< Ezekiel 38:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.16|Ezekiel 38:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Hebrews 2:12
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 2:12**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, I will declare thy name unto my brethren, in the midst of the church will I sing praise unto thee.
 <small><sub>**BSB:**</sub></small>
 He says: “I will proclaim Your name to My brothers; I will sing Your praises in the assembly.”
@@ -10,7 +10,7 @@ saying: I will declare the name of You to the brothers of Mine, in [the] midst o
 > $\quad$ referencing: [[LXX.Ps.22.22|Ps 22:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying: |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I will declare |**<big>[[G0518\|ἀπαγγελῶ]]</big>**  |apangelō <small><sup>[[V-FAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

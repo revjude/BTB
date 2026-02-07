@@ -1,12 +1,12 @@
-**2 Timothy 1:1
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 1:1**<big><big>[[2Tim.1.1 Paul’s Greeting to Timothy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,
 <small><sub>**BSB:**</sub></small>
 Paul, an apostle of Christ Jesus by the will of God, according to the promise of life in Christ Jesus,
 <small><sub>**Literal:**</sub></small>
 Paul an apostle of Christ Jesus through [the] will of God according to [the] promise of life <the> in Christ Jesus<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.21|<< 1 Timothy 6:21]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.2|2 Timothy 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | an apostle |**<big>[[G0652\|ἀπόστολος]]</big>**  |apostolos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>. \[The\] sin of Judah is being written with an iron stylus with clawed adamantine being carved upon \[the\] tablet  of their heart, and upon the horns  of their shrines. 
-<small><sub>**KJV:**</sub></small>
-The sin of Judah [is] written with a pen of iron, [and] with the point of a diamond: [it is] graven upon the table of their heart, and upon the horns of your altars;
-<small><sub>**BSB:**</sub></small>
-“The sin of Judah is written with an iron stylus, engraved with a diamond point on the tablets of their hearts and on the horns of their altars.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.21|<< Jeremiah 16:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.2|Jeremiah 17:2 >>]]</td></tr></table>
 
 | Translation | Greek |

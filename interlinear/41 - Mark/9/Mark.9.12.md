@@ -1,12 +1,12 @@
-**Mark 9:12
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:12**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he answered and told them, Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought.
 <small><sub>**BSB:**</sub></small>
 He replied, “Elijah does indeed come first, and he restores all things. Why then is it written that the Son of Man must suffer many things and be rejected?
 <small><sub>**Literal:**</sub></small>
 <the> And answering He was saying to them; Elijah indeed having come first restores all things; and how has it been written of the Son <the> of Man that many things He may suffer and may be set at naught.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.11|<< Mark 9:11]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.13|Mark 9:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

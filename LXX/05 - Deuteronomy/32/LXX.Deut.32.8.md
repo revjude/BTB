@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:8** 
 <small><sub>**LXX:**</sub></small>
 When the highest into parts nations, as he disseminated \[the\] sons of Adam, he set \[the\] borders of nations according to \[the\] number of \[the\] angels of God; 
-<small><sub>**KJV:**</sub></small>
-When the most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel.
-<small><sub>**BSB:**</sub></small>
-When the Most High gave the nations their inheritance, when He divided the sons of man, He set the boundaries of the peoples according to the number of the sons of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.7|<< Deuteronomy 32:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.9|Deuteronomy 32:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:22** 
 <small><sub>**LXX:**</sub></small>
 Behold, as an eagle he shall ascend, and shall see, and shall stretch out the wings against her fortresses. And the heart of the strong ones of Edom will be in  that day as \[the\] heart of a woman travailing. 
-<small><sub>**KJV:**</sub></small>
-Behold, he shall come up and fly as the eagle, and spread his wings over Bozrah: and at that day shall the heart of the mighty men of Edom be as the heart of a woman in her pangs.
-<small><sub>**BSB:**</sub></small>
-Look! An eagle will soar and swoop down, spreading its wings over Bozrah. In that day the hearts of Edom’s mighty men will be like the heart of a woman in labor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.21|<< Jeremiah 49:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.23|Jeremiah 49:23 >>]]</td></tr></table>
 
 | Translation | Greek |

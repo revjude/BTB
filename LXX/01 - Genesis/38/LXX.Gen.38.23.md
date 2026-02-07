@@ -1,10 +1,7 @@
 **LXX Genesis 38:23** 
 <small><sub>**LXX:**</sub></small>
 And Judah said, Let her have them, but lest at any time we should be ridiculed, I indeed sent  this kid, but you have not found her. 
-<small><sub>**KJV:**</sub></small>
-And Judah said, Let her take [it] to her, lest we be shamed: behold, I sent this kid, and thou hast not found her.
-<small><sub>**BSB:**</sub></small>
-“Let her keep the items,” Judah replied. “Otherwise we will become a laughingstock. After all, I did send her this young goat, but you could not find her.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.22|<< Genesis 38:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.24|Genesis 38:24 >>]]</td></tr></table>
 
 | Translation | Greek |

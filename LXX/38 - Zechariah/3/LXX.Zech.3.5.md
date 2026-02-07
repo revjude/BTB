@@ -1,10 +1,7 @@
 **LXX Zechariah 3:5** 
 <small><sub>**LXX:**</sub></small>
 And he said, Place also a mitre and a clean turban upon  his head! And they placed a mitre and a clean turban upon  his head. And garments around him. And the angel of \[the\] <span class="smallcaps">lord</span> stood. 
-<small><sub>**KJV:**</sub></small>
-And I said, Let them set a fair mitre upon his head. So they set a fair mitre upon his head, and clothed him with garments. And the angel of the LORD stood by.
-<small><sub>**BSB:**</sub></small>
-Then I said, “Let them put a clean turban on his head.” So a clean turban was placed on his head, and they clothed him, as the angel of the LORD stood by.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.3.4|<< Zechariah 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.3.6|Zechariah 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

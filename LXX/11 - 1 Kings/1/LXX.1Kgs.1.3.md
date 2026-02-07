@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:3** 
 <small><sub>**LXX:**</sub></small>
 And they sought a goodly young woman from every border of Israel. And they found  Abishag the Shunammite, and they brought her to the king. 
-<small><sub>**KJV:**</sub></small>
-So they sought for a fair damsel throughout all the coasts of Israel, and found Abishag a Shunammite, and brought her to the king.
-<small><sub>**BSB:**</sub></small>
-Then they searched throughout Israel for a beautiful girl, and they found Abishag the Shunammite and brought her to the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.2|<< 1 Kings 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.4|1 Kings 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

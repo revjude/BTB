@@ -1,4 +1,4 @@
-**Isaiah 19:2** 
+**Isaiah 19:2**<big><big>[[Isa.19.1 The Burden against Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will set the Egyptians against the Egyptians: and they shall fight every one against his brother, and every one against his neighbour; city against city, [and] kingdom against kingdom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will set the Egyptians against the Egyptians: and they shall fight every o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.1|<< Isaiah 19:1]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.3|Isaiah 19:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will provoke  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5526B\|סִכְסַכְתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sikh.sakh.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Egypt  |**<big>&#8207;[[H4714G\|מִצְרַ֙יִם֙]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

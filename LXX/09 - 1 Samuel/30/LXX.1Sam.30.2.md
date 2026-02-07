@@ -1,10 +1,7 @@
 **LXX 1 Samuel 30:2** 
 <small><sub>**LXX:**</sub></small>
 And the women, and all the ones in it, from small unto great they did not put to death, man nor woman, but they took them captive, and went forth in  their way. 
-<small><sub>**KJV:**</sub></small>
-And had taken the women captives, that [were] therein: they slew not any, either great or small, but carried [them] away, and went on their way.
-<small><sub>**BSB:**</sub></small>
-They had taken captive the women and all who were there, both young and old. They had not killed anyone, but had carried them off as they went on their way.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.30.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.1|<< 1 Samuel 30:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.3|1 Samuel 30:3 >>]]</td></tr></table>
 
 | Translation | Greek |

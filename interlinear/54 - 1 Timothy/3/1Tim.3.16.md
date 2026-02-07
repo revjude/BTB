@@ -1,12 +1,12 @@
-**1 Timothy 3:16
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 3:16**<big><big>[[1Tim.3.14 The Mystery of Godliness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.
 <small><sub>**BSB:**</sub></small>
 By common confession, the mystery of godliness is great: He appeared in the flesh, was vindicated by the Spirit, was seen by angels, was proclaimed among the nations, was believed in throughout the world, was taken up in glory.
 <small><sub>**Literal:**</sub></small>
 And confessedly great is the <the> of godliness mystery: Who was revealed in [the] flesh, was justified in [the] Spirit, beheld by angels, was proclaimed among [the] nations, was believed on in [the] world, was taken up in glory.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.15|<< 1 Timothy 3:15]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.4.1|1 Timothy 4:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | confessedly |**<big>[[G3672\|ὁμολογουμένως]]</big>**  |homologoumenōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 25:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:24**<big><big>[[Acts.25.23 Paul before Agrippa and Bernice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Festus said, King Agrippa, and all men which are here present with us, ye see this man, about whom all the multitude of the Jews have dealt with me, both at Jerusalem, and [also] here, crying that he ought not to live any longer.
 <small><sub>**BSB:**</sub></small>
 Then Festus said, “King Agrippa and all who are present with us, you see this man. The whole Jewish community has petitioned me about him, both here and in Jerusalem, crying out that he ought not to live any longer.
 <small><sub>**Literal:**</sub></small>
 And says <the> Festus; Agrippa King and all you who [are] being present with us men, you see this one concerning whom all the multitude of the Jews they pleaded with me in both Jerusalem and here crying [that] not needing of him to live no longer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.23|<< Acts 25:23]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.25|Acts 25:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καί]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | says |**<big>[[G5346\|φησιν]]</big>**  |phēsin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

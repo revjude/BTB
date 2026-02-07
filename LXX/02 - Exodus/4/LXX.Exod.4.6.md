@@ -1,10 +1,7 @@
 **LXX Exodus 4:6** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to him again, Insert  your hand into  your bosom! And he inserted  his hand into  his bosom. And he brought it from out of  his bosom, and his hand was leprous as snow. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand [was] leprous as snow.
-<small><sub>**BSB:**</sub></small>
-Furthermore, the LORD said to Moses, “Put your hand inside your cloak.” So he put his hand inside his cloak, and when he took it out, his hand was leprous, white as snow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.5|<< Exodus 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.7|Exodus 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

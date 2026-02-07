@@ -1,4 +1,4 @@
-**Isaiah 25:7** 
+**Isaiah 25:7**<big><big>[[Isa.25.1 Praise to the Victorious God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he will destroy in this mountain the face of the covering cast over all people, and the vail that is spread over all nations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On this mountain He will swallow up the shroud that enfolds all peoples, the she
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.25.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.25.6|<< Isaiah 25:6]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.8|Isaiah 25:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will swallow up  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1104\|בִלַּע֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> vi.La'<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the mountain  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H2022G\|הָ֣ר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

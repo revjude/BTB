@@ -1,4 +1,4 @@
-**Isaiah 59:8** 
+**Isaiah 59:8**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The way of peace they know not; and [there is] no judgment in their goings: they have made them crooked paths: whosoever goeth therein shall not know peace.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The way of peace they have not known, and there is no justice in their tracks. T
 > $\quad$ referenced by: [[Rom.3.15|Rom 3:15-17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a way of  |**<big>&#8207;[[H1870G\|דֶּ֤רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | peace  |**<big>&#8207;[[H7965G\|שָׁלוֹם֙]]&#8207; </big>**| sha.lOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Amos 7:10** 
 <small><sub>**LXX:**</sub></small>
 And Amaziah the priest sent out of Beth-el to Jeroboam king of Israel, saying, Amos makes a confederacy against you in \[the\] midst of the house of Israel. In no way the land be able to endure all  his words. 
-<small><sub>**KJV:**</sub></small>
-Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, Amos hath conspired against thee in the midst of the house of Israel: the land is not able to bear all his words.
-<small><sub>**BSB:**</sub></small>
-Then Amaziah the priest of Bethel sent word to Jeroboam king of Israel, saying, “Amos has conspired against you in the midst of the house of Israel. The land cannot bear all his words,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.7.9|<< Amos 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.11|Amos 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

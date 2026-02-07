@@ -1,12 +1,12 @@
-**Hebrews 5:1
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 5:1**<big><big>[[Heb.5.1 The Perfect High Priest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For every high priest taken from among men is ordained for men in things [pertaining] to God, that he may offer both gifts and sacrifices for sins:
 <small><sub>**BSB:**</sub></small>
 Every high priest is appointed from among men to represent them in matters relating to God, to offer gifts and sacrifices for sins.
 <small><sub>**Literal:**</sub></small>
 Every for high priest from among men being taken on behalf of men is appointed [in] the [things] relating to <the> God that he may offer gifts both and sacrifices for sins,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.16|<< Hebrews 4:16]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.2|Hebrews 5:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Every |**<big>[[G3956\|Πᾶς]]</big>**  |Pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The word  coming to Jeremiah from \[the\] <span class="smallcaps">lord</span> afterwards with  his being sent by Nabuzar-adan the chief guard from out of Ramah in the taking him in manacles in \[the\] midst of \[the\] resettlement of Judah, of the ones being led into Babylon. 
-<small><sub>**KJV:**</sub></small>
-The word that came to Jeremiah from the LORD, after that Nebuzaradan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all that were carried away captive of Jerusalem and Judah, which were carried away captive unto Babylon.
-<small><sub>**BSB:**</sub></small>
-This is the word that came to Jeremiah from the LORD after Nebuzaradan captain of the guard had released him at Ramah, having found him bound in chains among all the captives of Jerusalem and Judah who were being exiled to Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.40.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.18|<< Jeremiah 39:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.2|Jeremiah 40:2 >>]]</td></tr></table>
 
 | Translation | Greek |

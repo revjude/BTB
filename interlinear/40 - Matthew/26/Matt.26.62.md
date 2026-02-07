@@ -1,12 +1,12 @@
-**Matthew 26:62
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:62**<big><big>[[Matt.26.57 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the high priest arose, and said unto him, Answerest thou nothing? what [is it which] these witness against thee?
 <small><sub>**BSB:**</sub></small>
 So the high priest stood up and asked Him, “Have You no answer? What are these men testifying against You?”
 <small><sub>**Literal:**</sub></small>
 And having stood up the high priest said to Him; No [thing] answer you? What these you do witness against?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.61|<< Matthew 26:61]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.63|Matthew 26:63 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having stood up |**<big>[[G0450\|ἀναστὰς]]</big>**  |anastas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 53:6** (53:7)
+**Psalms 53:6**<big><big>[[Ps.53.1 The Fool Says There Is No God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Oh that the salvation of Israel [were come] out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, [and] Israel shall be glad.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Oh, that the salvation of Israel would come from Zion! When God restores His cap
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.53.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.53.5|<< Psalms 53:5]]</td><td align="center" style="border:none;">[[Ps.53|Psalms 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.54.0|Psalms 54:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֥י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he give  |**<big>&#8207;[[H5414Q\|יִתֵּ֣ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

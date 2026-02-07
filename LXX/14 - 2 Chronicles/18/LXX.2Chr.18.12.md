@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:12** 
 <small><sub>**LXX:**</sub></small>
 And the messenger, the one going  to call  Michaiah, spoke to him, saying, Behold, the prophets spoke good \[things\] with one mouth concerning the king. And your words indeed be as one of them! and you shall speak good \[things\]. 
-<small><sub>**KJV:**</sub></small>
-And the messenger that went to call Micaiah spake to him, saying, Behold, the words of the prophets [declare] good to the king with one assent; let thy word therefore, I pray thee, be like one of theirs, and speak thou good.
-<small><sub>**BSB:**</sub></small>
-Then the messenger who had gone to call Micaiah instructed him, “Behold, with one accord the words of the prophets are favorable to the king. So please let your words be like theirs, and speak favorably.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.11|<< 2 Chronicles 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.13|2 Chronicles 18:13 >>]]</td></tr></table>
 
 | Translation | Greek |

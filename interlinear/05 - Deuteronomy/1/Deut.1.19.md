@@ -1,4 +1,4 @@
-**Deuteronomy 1:19** 
+**Deuteronomy 1:19**<big><big>[[Deut.1.19 Twelve Spies Sent Out|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when we departed from Horeb, we went through all that great and terrible wilderness, which ye saw by the way of the mountain of the Amorites, as the LORD our God commanded us; and we came to Kadeshbarnea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And just as the LORD our God had commanded us, we set out from Horeb and went to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.18|<< Deuteronomy 1:18]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.20|Deuteronomy 1:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we set out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|נִּסַּ֣ע]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ni.Sa'<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Horeb  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2722\|חֹרֵ֗ב]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> cho.Rev<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

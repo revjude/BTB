@@ -1,4 +1,4 @@
-**1 Samuel 24:3** (24:4)
+**1 Samuel 24:3**<big><big>[[1Sam.24.1 David Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he came to the sheepcotes by the way, where [was] a cave; and Saul went in to cover his feet: and David and his men remained in the sides of the cave.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Soon Saul came to the sheepfolds along the road, where there was a cave, and he 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.2|<< 1 Samuel 24:2]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.4|1 Samuel 24:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H0935G\|יָּבֹא]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

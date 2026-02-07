@@ -1,4 +1,4 @@
-**Isaiah 64:1** (63:19)
+**Isaiah 64:1**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Oh that thou wouldest rend the heavens, that thou wouldest come down, that the mountains might flow down at thy presence,
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ If only You would rend the heavens and come down, so that mountains would quake 
 > $\quad$ referenced by: [[Heb.10.27|Heb 10:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3863\|לוּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lu'-<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you tore  |**<big>&#8207;[[H7167\|קָרַ֤עְתָּ]]&#8207; </big>**| ka.Ra'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:14** 
 <small><sub>**LXX:**</sub></small>
 And Samuel said, And what \[is\] the sound  of this flock in  my ears, and \[the\] sound of the oxen of which I hear? 
-<small><sub>**KJV:**</sub></small>
-And Samuel said, What [meaneth] then this bleating of the sheep in mine ears, and the lowing of the oxen which I hear?
-<small><sub>**BSB:**</sub></small>
-But Samuel replied, “Then what is this bleating of sheep and lowing of cattle that I hear?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.13|<< 1 Samuel 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.15|1 Samuel 15:15 >>]]</td></tr></table>
 
 | Translation | Greek |

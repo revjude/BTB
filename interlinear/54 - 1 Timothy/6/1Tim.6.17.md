@@ -1,12 +1,12 @@
-**1 Timothy 6:17
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:17**<big><big>[[1Tim.6.17 A Charge to the Rich|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Charge them that are rich in this world, that they be not highminded, nor trust in uncertain riches, but in the living God, who giveth us richly all things to enjoy;
 <small><sub>**BSB:**</sub></small>
 Instruct those who are rich in the present age not to be conceited and not to put their hope in the uncertainty of wealth, but in God, who richly provides all things for us to enjoy.
 <small><sub>**Literal:**</sub></small>
 To the rich in the present age do instruct [them] not to be high-minded nor to have hope in of riches [the] uncertainty but on <the> God who is living who is providing us all things richly for enjoyment,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.16|<< 1 Timothy 6:16]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.18|1 Timothy 6:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To the |**<big>[[G3588\|Τοῖς]]</big>**  |Tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | rich |**<big>[[G4145\|πλουσίοις]]</big>**  |plousiois <small><sup>[[A-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

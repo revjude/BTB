@@ -1,10 +1,7 @@
 **LXX Proverbs 27:3** 
 <small><sub>**LXX:**</sub></small>
 A stone \[is\] heavy, and sand hard to bear; but \[the\] anger of a fool \[is\] heavier than both. 
-<small><sub>**KJV:**</sub></small>
-A stone [is] heavy, and the sand weighty; but a fool’s wrath [is] heavier than them both.
-<small><sub>**BSB:**</sub></small>
-A stone is heavy and sand is a burden, but aggravation from a fool outweighs them both.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.2|<< Proverbs 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.4|Proverbs 27:4 >>]]</td></tr></table>
 
 | Translation | Greek |

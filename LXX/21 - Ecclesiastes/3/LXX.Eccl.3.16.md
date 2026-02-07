@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 3:16** 
 <small><sub>**LXX:**</sub></small>
 And still I beheld under the sun \[the\] place of the of judgment -- there the impious \[one\]; and a place of the just -- there \[was\] the pious \[one\]. 
-<small><sub>**KJV:**</sub></small>
-And moreover I saw under the sun the place of judgment, [that] wickedness [was] there; and the place of righteousness, [that] iniquity [was] there.
-<small><sub>**BSB:**</sub></small>
-Furthermore, I saw under the sun that in the place of judgment there is wickedness, and in the place of righteousness there is wickedness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.15|<< Ecclesiastes 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.17|Ecclesiastes 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

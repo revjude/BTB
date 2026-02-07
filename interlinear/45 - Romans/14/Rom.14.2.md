@@ -1,12 +1,12 @@
-**Romans 14:2
-**<small><sub>**KJV:**</sub></small>
+**Romans 14:2**<big><big>[[Rom.14.1 The Law of Liberty|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For one believeth that he may eat all things: another, who is weak, eateth herbs.
 <small><sub>**BSB:**</sub></small>
 For one person has faith to eat all things, while another, who is weak, eats only vegetables.
 <small><sub>**Literal:**</sub></small>
 One indeed believes to eat all things, the [one] however being weak vegetables eats.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.1|<< Romans 14:1]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.3|Romans 14:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | One |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

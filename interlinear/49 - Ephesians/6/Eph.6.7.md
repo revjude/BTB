@@ -1,12 +1,12 @@
-**Ephesians 6:7
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:7**<big><big>[[Eph.6.5 Serving with Honor|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 With good will doing service, as to the Lord, and not to men:
 <small><sub>**BSB:**</sub></small>
 Serve with good will, as to the Lord and not to men,
 <small><sub>**Literal:**</sub></small>
 with good will rendering service as to the Lord and not to men,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.6|<< Ephesians 6:6]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.8|Ephesians 6:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with |**<big>[[G3326\|μετ᾽]]</big>**  |met᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | good will |**<big>[[G2133\|εὐνοίας]]</big>**  |eunoias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

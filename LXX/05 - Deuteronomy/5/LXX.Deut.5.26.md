@@ -1,10 +1,7 @@
 **LXX Deuteronomy 5:26** 
 <small><sub>**LXX:**</sub></small>
 For what flesh who heard \[the\] voice of \[the\] living God speaking from \[the\] midst of the fire shall live even as we? 
-<small><sub>**KJV:**</sub></small>
-For who [is there of] all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we [have], and lived?
-<small><sub>**BSB:**</sub></small>
-For who of all flesh has heard the voice of the living God speaking out of the fire, as we have, and survived?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.5.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.25|<< Deuteronomy 5:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.27|Deuteronomy 5:27 >>]]</td></tr></table>
 
 | Translation | Greek |

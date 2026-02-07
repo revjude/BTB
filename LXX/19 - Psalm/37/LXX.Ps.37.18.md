@@ -1,10 +1,7 @@
 **LXX Psalm 37:18** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> knows the ways of the unblemished; and  their inheritance shall be into the eon. 
-<small><sub>**KJV:**</sub></small>
-The LORD knoweth the days of the upright: and their inheritance shall be for ever.
-<small><sub>**BSB:**</sub></small>
-The LORD knows the days of the blameless, and their inheritance will last forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.37.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.17|<< Psalm 37:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.19|Psalm 37:19 >>]]</td></tr></table>
 
 | Translation | Greek |

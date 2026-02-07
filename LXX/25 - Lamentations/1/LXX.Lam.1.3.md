@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΓΙΜΑΛ</p>
 
 Judea was displaced because of her humiliation, and because of \[the\] multitude of her servitude. She stays among \[the\] nations, she did not find rest. All the ones pursuing her overtook her in the midst of the ones afflicting. 
-<small><sub>**KJV:**</sub></small>
-Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits.
-<small><sub>**BSB:**</sub></small>
-Judah has gone into exile under affliction and harsh slavery; she dwells among the nations but finds no place to rest. All her pursuers have overtaken her in the midst of her distress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.2|<< Lamentations 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.4|Lamentations 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

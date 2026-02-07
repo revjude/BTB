@@ -1,4 +1,4 @@
-**Psalms 135:17** 
+**Psalms 135:17**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have ears, but they hear not; neither is there [any] breath in their mouths.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ they have ears, but cannot hear; nor is there breath in their mouths.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.16|<< Psalms 135:16]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.18|Psalms 135:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ears  |**<big>&#8207;[[H0241G\|אָזְנַ֣יִם]]&#8207; </big>**| 'a.ze.Na.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belong] to them  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H9038\|הֶם]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

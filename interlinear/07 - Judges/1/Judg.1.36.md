@@ -1,4 +1,4 @@
-**Judges 1:36** 
+**Judges 1:36**<big><big>[[Judg.1.27 The Failure to Complete the Conquest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the coast of the Amorites [was] from the going up to Akrabbim, from the rock, and upward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the border of the Amorites extended from the Ascent of Akrabbim to Sela and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.35|<< Judges 1:35]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.1|Judges 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] border of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1366G\|גְבוּל֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ge.Vul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Amorite[s]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0567\|אֱמֹרִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.mo.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 There will not be to the priests, to the Levites, \[the\] entire tribe of Levi, a portion nor a lot with Israel. \[The\] yield \[offerings\] of \[the\] <span class="smallcaps">lord</span>  \[are\] their lot -- they shall eat them. 
-<small><sub>**KJV:**</sub></small>
-The priests the Levites, [and] all the tribe of Levi, shall have no part nor inheritance with Israel: they shall eat the offerings of the LORD made by fire, and his inheritance.
-<small><sub>**BSB:**</sub></small>
-The Levitical priests—indeed the whole tribe of Levi—shall have no portion or inheritance with Israel. They are to eat the food offerings to the LORD; that is their inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.20|<< Deuteronomy 17:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.2|Deuteronomy 18:2 >>]]</td></tr></table>
 
 | Translation | Greek |

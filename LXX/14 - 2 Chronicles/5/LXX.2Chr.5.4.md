@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 5:4** 
 <small><sub>**LXX:**</sub></small>
 And all the elders of Israel came, and all the Levites took the ark. 
-<small><sub>**KJV:**</sub></small>
-And all the elders of Israel came; and the Levites took up the ark.
-<small><sub>**BSB:**</sub></small>
-When all the elders of Israel had arrived, the Levites took up the ark,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.5.3|<< 2 Chronicles 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.5.5|2 Chronicles 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

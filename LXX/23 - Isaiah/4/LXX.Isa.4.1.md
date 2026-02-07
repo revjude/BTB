@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And seven women shall take hold of one man in that  day, saying,  We will eat our own bread and  wear our own garments, only  let your name be called upon us; remove  our scorn! 
-<small><sub>**KJV:**</sub></small>
-And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.
-<small><sub>**BSB:**</sub></small>
-In that day seven women will take hold of one man and say, “We will eat our own bread and provide our own clothes. Just let us be called by your name. Take away our disgrace!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.26|<< Isaiah 3:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.4.2|Isaiah 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 25:15** 
+**Deuteronomy 25:15**<big><big>[[Deut.25.13 Standard Weights and Measures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] thou shalt have a perfect and just weight, a perfect and just measure shalt thou have: that thy days may be lengthened in the land which the LORD thy God giveth thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must maintain accurate and honest weights and measures, so that you may live
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.14|<< Deuteronomy 25:14]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.16|Deuteronomy 25:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a weight  |**<big>&#8207;[[H0068H\|אֶ֣בֶן]]&#8207; </big>**| 'E.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | full  |**<big>&#8207;[[H8003\|שְׁלֵמָ֤ה]]&#8207; </big>**| she.le.Mah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

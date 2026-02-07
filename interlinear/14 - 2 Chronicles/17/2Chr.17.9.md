@@ -1,4 +1,4 @@
-**2 Chronicles 17:9** 
+**2 Chronicles 17:9**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they taught in Judah, and [had] the book of the law of the LORD with them, and went about throughout all the cities of Judah, and taught the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They taught throughout Judah, taking with them the Book of the Law of the LORD. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.8|<< 2 Chronicles 17:8]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.10|2 Chronicles 17:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they taught  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H3925G\|יְלַמְּדוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.la.me.Du<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Judah  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H3063G\|יהוּדָ֔ה]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

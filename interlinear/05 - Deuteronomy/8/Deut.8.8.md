@@ -1,4 +1,4 @@
-**Deuteronomy 8:8** 
+**Deuteronomy 8:8**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A land of wheat, and barley, and vines, and fig trees, and pomegranates; a land of oil olive, and honey;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ a land of wheat, barley, vines, fig trees, and pomegranates; a land of olive oil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.7|<< Deuteronomy 8:7]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.9|Deuteronomy 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a land of  |**<big>&#8207;[[H0776G\|אֶ֤רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wheat  |**<big>&#8207;[[H2406\|חִטָּה֙]]&#8207; </big>**| chi.Tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

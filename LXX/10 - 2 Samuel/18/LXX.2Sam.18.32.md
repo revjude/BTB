@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:32** 
 <small><sub>**LXX:**</sub></small>
 And the king said to  Cushi, \[How\] is \[the\] peace to the young man  Absalom? And Cushi said, Let be as that young man, the enemies  of my master the king! and all as many as rise up against you for evils. 
-<small><sub>**KJV:**</sub></small>
-And the king said unto Cushi, [Is] the young man Absalom safe? And Cushi answered, The enemies of my lord the king, and all that rise against thee to do [thee] hurt, be as [that] young man [is].
-<small><sub>**BSB:**</sub></small>
-The king asked the Cushite, “Is the young man Absalom all right?” And the Cushite replied, “May the enemies of my lord the king and all who rise up against you to harm you be like that young man.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.31|<< 2 Samuel 18:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.33|2 Samuel 18:33 >>]]</td></tr></table>
 
 | Translation | Greek |

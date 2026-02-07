@@ -1,4 +1,4 @@
-**Numbers 26:10** 
+**Numbers 26:10**<big><big>[[Num.26.5 The Tribe of Reuben|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the earth opened her mouth, and swallowed them up together with Korah, when that company died, what time the fire devoured two hundred and fifty men: and they became a sign.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the earth opened its mouth and swallowed them along with Korah, whose follow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.9|<< Numbers 26:9]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.11|Numbers 26:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it opened  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6605A\|תִּפְתַּ֨ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tif.Tach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776H\|אָ֜רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

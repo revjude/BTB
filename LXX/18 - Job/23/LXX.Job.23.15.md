@@ -1,10 +1,7 @@
 **LXX Job 23:15** 
 <small><sub>**LXX:**</sub></small>
 Over this  I should take his face seriously; I shall contemplate and shall be terrified of him. 
-<small><sub>**KJV:**</sub></small>
-Therefore am I troubled at his presence: when I consider, I am afraid of him.
-<small><sub>**BSB:**</sub></small>
-Therefore I am terrified in His presence; when I consider this, I fear Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.23.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.14|<< Job 23:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.16|Job 23:16 >>]]</td></tr></table>
 
 | Translation | Greek |

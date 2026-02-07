@@ -1,4 +1,4 @@
-**Ezra 3:1** 
+**Ezra 3:1**<big><big>[[Ezra.3.1 Sacrifices Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the seventh month was come, and the children of Israel [were] in the cities, the people gathered themselves together as one man to Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By the seventh month, the Israelites had settled in their towns, and the people 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.70|<< Ezra 2:70]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.2|Ezra 3:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it arrived  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5060\|יִּגַּע֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ga'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the month  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2320G\|חֹ֣דֶשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

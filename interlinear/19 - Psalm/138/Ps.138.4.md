@@ -1,4 +1,4 @@
-**Psalms 138:4** 
+**Psalms 138:4**<big><big>[[Ps.138.1 A Thankful Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the kings of the earth shall praise thee, O LORD, when they hear the words of thy mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the kings of the earth will give You thanks, O LORD, when they hear the word
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.138.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.138.3|<< Psalms 138:3]]</td><td align="center" style="border:none;">[[Ps.138|Psalms 138]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.138.5|Psalms 138:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will give thanks to you  |**<big>&#8207;[[H3034\|יוֹד֣וּ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| yo.Du.<small><sup>[[HVhi3mp]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

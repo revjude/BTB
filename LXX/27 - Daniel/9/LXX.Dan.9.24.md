@@ -1,10 +1,7 @@
 **LXX Daniel 9:24** 
 <small><sub>**LXX:**</sub></small>
 Seventy periods of seven were rendered concise upon  your people, and upon the holy city,  to finish off sin, and  to set a seal upon sins, and to wipe out the lawless deeds, and  to atone for iniquities, and  to bring eternal righteousness, and  to set a seal upon vision and prophecy, and  to anoint \[the\] holy of holies. 
-<small><sub>**KJV:**</sub></small>
-Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy.
-<small><sub>**BSB:**</sub></small>
-Seventy weeks are decreed for your people and your holy city to stop their transgression, to put an end to sin, to make atonement for iniquity, to bring in everlasting righteousness, to seal up vision and prophecy, and to anoint the Most Holy Place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.23|<< Daniel 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.25|Daniel 9:25 >>]]</td></tr></table>
 
 | Translation | Greek |

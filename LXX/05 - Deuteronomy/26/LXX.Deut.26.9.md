@@ -1,10 +1,7 @@
 **LXX Deuteronomy 26:9** 
 <small><sub>**LXX:**</sub></small>
 And he brought us into  this place, and he gave to us  this land, a land flowing milk and honey. 
-<small><sub>**KJV:**</sub></small>
-And he hath brought us into this place, and hath given us this land, [even] a land that floweth with milk and honey.
-<small><sub>**BSB:**</sub></small>
-And He brought us to this place and gave us this land, a land flowing with milk and honey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.26.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.8|<< Deuteronomy 26:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.10|Deuteronomy 26:10 >>]]</td></tr></table>
 
 | Translation | Greek |

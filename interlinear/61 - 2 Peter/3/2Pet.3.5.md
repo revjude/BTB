@@ -1,5 +1,5 @@
-**2 Peter 3:5
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:5**<big><big>[[2Pet.3.1 The Coming Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:
 <small><sub>**BSB:**</sub></small>
 But they deliberately overlook the fact that long ago by God’s word the heavens existed and the earth was formed out of water and by water,
@@ -10,7 +10,7 @@ It is concealed from indeed them this willingly that heavens were existing long 
 > $\quad$ alluding to: [[LXX.Gen.1.1|Gen 1:1-2]] ☩ [[LXX.Gen.1.6|Gen 1:6]] ☩ [[LXX.Gen.7.21|Gen 7:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It is concealed from |**<big>[[G2990\|λανθάνει]]</big>**  |lanthanei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

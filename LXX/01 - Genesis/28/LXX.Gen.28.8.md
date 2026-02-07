@@ -1,10 +1,7 @@
 **LXX Genesis 28:8** 
 <small><sub>**LXX:**</sub></small>
 and seeing, even Esau, that the daughters of Canaan are wicked before Isaac  his father, 
-<small><sub>**KJV:**</sub></small>
-And Esau seeing that the daughters of Canaan pleased not Isaac his father;
-<small><sub>**BSB:**</sub></small>
-And seeing that his father Isaac disapproved of the Canaanite women,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.28.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.7|<< Genesis 28:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.9|Genesis 28:9 >>]]</td></tr></table>
 
 | Translation | Greek |

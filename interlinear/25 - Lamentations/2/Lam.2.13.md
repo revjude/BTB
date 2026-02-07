@@ -1,4 +1,4 @@
-**Lamentations 2:13** 
+**Lamentations 2:13**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What thing shall I take to witness for thee? what thing shall I liken to thee, O daughter of Jerusalem? what shall I equal to thee, that I may comfort thee, O virgin daughter of Zion? for thy breach [is] great like the sea: who can heal thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What can I say for you? To what can I compare you, O Daughter of Jerusalem? To w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.12|<< Lamentations 2:12]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.14|Lamentations 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מָֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will I testify for you  |**<big>&#8207;[[H5749B\|אֲעִידֵ֞]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'a.'i.De<small><sup>[[HVhi1cs]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

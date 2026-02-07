@@ -1,12 +1,12 @@
-**Luke 21:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:22**<big><big>[[Luke.21.20 The Destruction of Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For these be the days of vengeance, that all things which are written may be fulfilled.
 <small><sub>**BSB:**</sub></small>
 For these are the days of vengeance, to fulfill all that is written.
 <small><sub>**Literal:**</sub></small>
 for [the] days of avenging these are <the> to fill all things which written.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.21|<< Luke 21:21]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.23|Luke 21:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] days |**<big>[[G2250\|ἡμέραι]]</big>**  |hēmerai <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

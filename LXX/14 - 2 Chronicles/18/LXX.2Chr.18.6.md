@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:6** 
 <small><sub>**LXX:**</sub></small>
 And Jehoshaphat said, Is there not here a prophet of the <span class="smallcaps">lord</span> yet, that we shall seek anxiously by him? 
-<small><sub>**KJV:**</sub></small>
-But Jehoshaphat said, [Is there] not here a prophet of the LORD besides, that we might inquire of him?
-<small><sub>**BSB:**</sub></small>
-But Jehoshaphat asked, “Is there not still a prophet of the LORD here of whom we can inquire?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.5|<< 2 Chronicles 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.7|2 Chronicles 18:7 >>]]</td></tr></table>
 
 | Translation | Greek |

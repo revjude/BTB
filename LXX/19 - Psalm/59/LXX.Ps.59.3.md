@@ -1,10 +1,7 @@
 **LXX Psalm 59:3** 
 <small><sub>**LXX:**</sub></small>
 For behold, they hunted  my life; strong ones put upon me; nor \[is it because of\]  my lawlessness nor  my sin, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-For, lo, they lie in wait for my soul: the mighty are gathered against me; not [for] my transgression, nor [for] my sin, O LORD.
-<small><sub>**BSB:**</sub></small>
-See how they lie in wait for me. Fierce men conspire against me for no transgression or sin of my own, O LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.59.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.2|<< Psalm 59:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.4|Psalm 59:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Nehemiah 7:71** (7:70)
+**Nehemiah 7:71**<big><big>[[Neh.7.70 Offerings by the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [some] of the chief of the fathers gave to the treasure of the work twenty thousand drams of gold, and two thousand and two hundred pound of silver.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And some of the heads of the families gave to the treasury for the project 20,00
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.71|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.70|<< Nehemiah 7:70]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.72|Nehemiah 7:72 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and some of [the] leaders of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H7218H\|רָאשֵׁ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.<small><sup>[[HR]]</sup></small> ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the fathers  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0001G\|אָב֗וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 1:12** 
+**Exodus 1:12**<big><big>[[Exod.1.8 Oppression by a New King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the more they were oppressed, the more they multiplied and flourished; so th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.11|<< Exodus 1:11]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.13|Exodus 1:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and just as  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H0834D\|אֲשֶׁר֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people afflicted  |**<big>&#8207;[[H6031B\|יְעַנּ֣וּ]]&#8207; </big>**| ye.'a.Nu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

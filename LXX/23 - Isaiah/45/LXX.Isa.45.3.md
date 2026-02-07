@@ -1,10 +1,7 @@
 **LXX Isaiah 45:3** 
 <small><sub>**LXX:**</sub></small>
 And I shall give to you treasures -- obscure, concealed, unseen. I will open to you that you should know that I \[am\] \[the\] <span class="smallcaps">lord</span>  your God, the one calling  your name, the God of Israel. 
-<small><sub>**KJV:**</sub></small>
-And I will give thee the treasures of darkness, and hidden riches of secret places, that thou mayest know that I, the LORD, which call [thee] by thy name, [am] the God of Israel.
-<small><sub>**BSB:**</sub></small>
-I will give you the treasures of darkness and the riches hidden in secret places, so that you may know that I am the LORD, the God of Israel, who calls you by name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.45.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.2|<< Isaiah 45:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.4|Isaiah 45:4 >>]]</td></tr></table>
 
 | Translation | Greek |

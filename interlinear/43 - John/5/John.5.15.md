@@ -1,12 +1,12 @@
-**John 5:15
-**<small><sub>**KJV:**</sub></small>
+**John 5:15**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The man departed, and told the Jews that it was Jesus, which had made him whole.
 <small><sub>**BSB:**</sub></small>
 And the man went away and told the Jews that it was Jesus who had made him well.
 <small><sub>**Literal:**</sub></small>
 Went away the man and told to the Jews that Jesus it is the [One] having made him well.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.14|<< John 5:14]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.16|John 5:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Went away |**<big>[[G0565\|ἀπῆλθεν]]</big>**  |apēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:23** 
 <small><sub>**LXX:**</sub></small>
 O one dwelling in  Lebanon, nesting among the cedars, you shall groan in the griefs coming to you, pangs as one giving birth. 
-<small><sub>**KJV:**</sub></small>
-O inhabitant of Lebanon, that makest thy nest in the cedars, how gracious shalt thou be when pangs come upon thee, the pain as of a woman in travail!
-<small><sub>**BSB:**</sub></small>
-O inhabitant of Lebanon, nestled in the cedars, how you will groan when pangs of anguish come upon you, agony like a woman in labor.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.22|<< Jeremiah 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.24|Jeremiah 22:24 >>]]</td></tr></table>
 
 | Translation | Greek |

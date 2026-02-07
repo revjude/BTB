@@ -1,10 +1,7 @@
 **LXX Numbers 1:44** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the numbering which Moses numbered, and Aaron, and the rulers of Israel -- twelve men, one man according to tribe; there \[was\] one according to tribe of \[the\] houses of their patrimony. 
-<small><sub>**KJV:**</sub></small>
-These [are] those that were numbered, which Moses and Aaron numbered, and the princes of Israel, [being] twelve men: each one was for the house of his fathers.
-<small><sub>**BSB:**</sub></small>
-These were the men numbered by Moses and Aaron, with the assistance of the twelve leaders of Israel, each one representing his family.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.1.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.43|<< Numbers 1:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.45|Numbers 1:45 >>]]</td></tr></table>
 
 | Translation | Greek |

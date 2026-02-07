@@ -1,4 +1,4 @@
-**1 Kings 20:40** 
+**1 Kings 20:40**<big><big>[[1Kgs.20.35 A Prophet Reproves Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as thy servant was busy here and there, he was gone. And the king of Israel said unto him, So [shall] thy judgment [be]; thyself hast decided [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But while your servant was busy here and there, the man disappeared.” And the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.39|<< 1 Kings 20:39]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.41|1 Kings 20:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | servant your  |**<big>&#8207;[[H5650\|עַבְדְּ]]&#8207;&#8207;[[H9021\|ךָ֗]]&#8207; </big>**| 'av.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

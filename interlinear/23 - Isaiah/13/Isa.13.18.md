@@ -1,4 +1,4 @@
-**Isaiah 13:18** 
+**Isaiah 13:18**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Their] bows also shall dash the young men to pieces; and they shall have no pity on the fruit of the womb; their eye shall not spare children.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their bows will dash young men to pieces; they will have no mercy on the fruit o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.17|<< Isaiah 13:17]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.19|Isaiah 13:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and bows  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7198\|קְשָׁת֖וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ke.sha.Tot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | youths  |**<big>&#8207;[[H5288\|נְעָרִ֣ים]]&#8207; </big>**| ne.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

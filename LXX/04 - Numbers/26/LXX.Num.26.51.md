@@ -1,10 +1,7 @@
 **LXX Numbers 26:51** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the numbering of \[the\] sons of Israel -- six hundred thousand and a thousand and seven hundred and thirty. 
-<small><sub>**KJV:**</sub></small>
-These [were] the numbered of the children of Israel, six hundred thousand and a thousand seven hundred and thirty.
-<small><sub>**BSB:**</sub></small>
-These men of Israel numbered 601,730 in all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.50|<< Numbers 26:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.52|Numbers 26:52 >>]]</td></tr></table>
 
 | Translation | Greek |

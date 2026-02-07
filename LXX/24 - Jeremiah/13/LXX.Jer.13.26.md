@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:26** 
 <small><sub>**LXX:**</sub></small>
 And I will uncover  your rear unto  your face, and your dishonor shall be seen. 
-<small><sub>**KJV:**</sub></small>
-Therefore will I discover thy skirts upon thy face, that thy shame may appear.
-<small><sub>**BSB:**</sub></small>
-So I will pull your skirts up over your face, that your shame may be seen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.25|<< Jeremiah 13:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.27|Jeremiah 13:27 >>]]</td></tr></table>
 
 | Translation | Greek |

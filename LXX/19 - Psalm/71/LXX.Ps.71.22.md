@@ -1,10 +1,7 @@
 **LXX Psalm 71:22** 
 <small><sub>**LXX:**</sub></small>
 For also I will make acknowledgment to you among peoples, O <span class="smallcaps">lord</span>; with an instrument for a psalm  of your truth, O God. I shall strum to you with \[the\] harp, O holy one  of Israel. 
-<small><sub>**KJV:**</sub></small>
-I will also praise thee with the psaltery, [even] thy truth, O my God: unto thee will I sing with the harp, O thou Holy One of Israel.
-<small><sub>**BSB:**</sub></small>
-So I will praise You with the harp for Your faithfulness, O my God; I will sing praise to You with the lyre, O Holy One of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.71.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.21|<< Psalm 71:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.23|Psalm 71:23 >>]]</td></tr></table>
 
 | Translation | Greek |

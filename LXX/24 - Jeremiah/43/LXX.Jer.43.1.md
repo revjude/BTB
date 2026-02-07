@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Jeremiah ceased speaking to the people all the words of \[the\] <span class="smallcaps">lord</span>  their God, which \[the\] <span class="smallcaps">lord</span> their God sent to them, \[even\] all  these words. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, [that] when Jeremiah had made an end of speaking unto all the people all the words of the LORD their God, for which the LORD their God had sent him to them, [even] all these words,
-<small><sub>**BSB:**</sub></small>
-When Jeremiah had finished telling all the people all the words of the LORD their God—everything that the LORD had sent him to say—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.43.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.22|<< Jeremiah 42:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.43.2|Jeremiah 43:2 >>]]</td></tr></table>
 
 | Translation | Greek |

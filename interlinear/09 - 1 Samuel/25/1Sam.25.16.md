@@ -1,4 +1,4 @@
-**1 Samuel 25:16** 
+**1 Samuel 25:16**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They were a wall unto us both by night and day, all the while we were with them keeping the sheep.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They were a wall around us, both day and night, the whole time we were herding o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.15|<< 1 Samuel 25:15]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.17|1 Samuel 25:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a wall  |**<big>&#8207;[[H2346G\|חוֹמָה֙]]&#8207; </big>**| cho.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were  |**<big>&#8207;[[H1961\|הָי֣וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

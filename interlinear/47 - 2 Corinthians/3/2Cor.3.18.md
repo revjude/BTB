@@ -1,5 +1,5 @@
-**2 Corinthians 3:18
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:18**<big><big>[[2Cor.3.7 The Glory of the New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, [even] as by the Spirit of the Lord.
 <small><sub>**BSB:**</sub></small>
 And we, who with unveiled faces all reflect the glory of the Lord, are being transformed into His image with intensifying glory, which comes from the Lord, who is the Spirit.
@@ -10,7 +10,7 @@ We ourselves now all unveiled in face the glory of [the] Lord beholding as in a 
 > $\quad$ referencing: [[LXX.Gen.1.26|Gen 1:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -6,10 +6,7 @@ A psalm \[to\] David of the one of the Sabbaths.
 
 <small><sub>**LXX:**</sub></small>
 The earth \[is\] of the <span class="smallcaps">lord</span>, and the fullness of it; the inhabitable world, and all the ones dwelling in it. 
-<small><sub>**KJV:**</sub></small>
-A Psalm of David. The earth [is] the LORD’S, and the fulness thereof; the world, and they that dwell therein.
-<small><sub>**BSB:**</sub></small>
-A Psalm of David. The earth is the LORD’s, and the fullness thereof, the world and all who dwell therein.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.23.6|<< Psalm 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.24.2|Psalm 24:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 24:1** is...

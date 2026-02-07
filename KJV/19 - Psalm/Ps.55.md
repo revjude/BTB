@@ -1,6 +1,6 @@
 (KJV) **Psalm 55**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.54|<< Psalm 54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56|Psalm 56 >>]]</td></tr></table>
 
-***Cast Your Burden upon the LORD***&emsp;<small><sup>\[ [[2Sam.17|2 Samuel 17:15–29]] ]</sup></small> ^bsb1348
+<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥃]]</big></big>***Cast Your Burden upon the LORD***&emsp;<small><sup>\[ [[2Sam.17|2 Samuel 17:15–29]] ]</sup></small>
 
 
 

@@ -1,10 +1,7 @@
 **LXX Numbers 11:28** 
 <small><sub>**LXX:**</sub></small>
 And answering Joshua the \[son of\] Nun, the one standing beside Moses,  his chosen one, said, O my master Moses, restrain them! 
-<small><sub>**KJV:**</sub></small>
-And Joshua the son of Nun, the servant of Moses, [one] of his young men, answered and said, My lord Moses, forbid them.
-<small><sub>**BSB:**</sub></small>
-Joshua son of Nun, the attendant to Moses since youth, spoke up and said, “Moses, my lord, stop them!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.27|<< Numbers 11:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.29|Numbers 11:29 >>]]</td></tr></table>
 
 | Translation | Greek |

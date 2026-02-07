@@ -1,10 +1,7 @@
 **LXX Joshua 14:10** 
 <small><sub>**LXX:**</sub></small>
 And now, \[the\] <span class="smallcaps">lord</span> maintained me in which manner he said this fortieth and fifth year, from which \[the\] <span class="smallcaps">lord</span> spoke  this word to Moses; and Israel went in the wilderness. And now behold, I am today a son eighty and five years \[old\]. 
-<small><sub>**KJV:**</sub></small>
-And now, behold, the LORD hath kept me alive, as he said, these forty and five years, even since the LORD spake this word unto Moses, while [the children of] Israel wandered in the wilderness: and now, lo, I [am] this day fourscore and five years old.
-<small><sub>**BSB:**</sub></small>
-Now behold, as the LORD promised, He has kept me alive these forty-five years since He spoke this word to Moses, while Israel wandered in the wilderness. So here I am today, eighty-five years old,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.9|<< Joshua 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.11|Joshua 14:11 >>]]</td></tr></table>
 
 | Translation | Greek |

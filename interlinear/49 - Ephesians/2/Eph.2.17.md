@@ -1,5 +1,5 @@
-**Ephesians 2:17
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 2:17**<big><big>[[Eph.2.11 One in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And came and preached peace to you which were afar off, and to them that were nigh.
 <small><sub>**BSB:**</sub></small>
 He came and preached peace to you who were far away and peace to those who were near.
@@ -10,7 +10,7 @@ And having come He evangelised peace to you the [ones] far off and peace to thos
 > $\quad$ alluding to: [[LXX.Isa.57.19|Isa 57:19]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G2064\|ἐλθὼν]]</big>**  |elthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

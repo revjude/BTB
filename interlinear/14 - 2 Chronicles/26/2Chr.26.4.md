@@ -1,4 +1,4 @@
-**2 Chronicles 26:4** 
+**2 Chronicles 26:4**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did [that which was] right in the sight of the LORD, according to all that his father Amaziah did.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he did what was right in the eyes of the LORD, just as his father Amaziah ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.3|<< 2 Chronicles 26:3]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.5|2 Chronicles 26:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֥עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the right  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3477G\|יָּשָׁ֖ר]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Shar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

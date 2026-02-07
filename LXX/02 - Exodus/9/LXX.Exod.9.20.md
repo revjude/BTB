@@ -1,10 +1,7 @@
 **LXX Exodus 9:20** 
 <small><sub>**LXX:**</sub></small>
 The ones fearing the word of \[the\] <span class="smallcaps">lord</span> of the attendants of Pharaoh brought together  their cattle into the houses. 
-<small><sub>**KJV:**</sub></small>
-He that feared the word of the LORD among the servants of Pharaoh made his servants and his cattle flee into the houses:
-<small><sub>**BSB:**</sub></small>
-Those among Pharaoh’s officials who feared the word of the LORD hurried to bring their servants and livestock to shelter,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.19|<< Exodus 9:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.21|Exodus 9:21 >>]]</td></tr></table>
 
 | Translation | Greek |

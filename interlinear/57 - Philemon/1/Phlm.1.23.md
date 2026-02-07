@@ -1,12 +1,12 @@
-**Philemon 1:23
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:23**<big><big>[[Phlm.1.23 Additional Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There salute thee Epaphras, my fellowprisoner in Christ Jesus;
 <small><sub>**BSB:**</sub></small>
 Epaphras, my fellow prisoner in Christ Jesus, sends you greetings,
 <small><sub>**Literal:**</sub></small>
 He greets you Epaphras <the> fellow prisoner of mine in Christ Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.22|<< Philemon 1:22]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.24|Philemon 1:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He greets [^1] [^2] |**<big>[[G0782\|Ἀσπάζεταί]]</big>**  |Aspazetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | you |**<big>[[G4771\|σε]]</big>**  |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

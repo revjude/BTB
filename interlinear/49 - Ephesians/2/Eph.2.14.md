@@ -1,12 +1,12 @@
-**Ephesians 2:14
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 2:14**<big><big>[[Eph.2.11 One in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he is our peace, who hath made both one, and hath broken down the middle wall of partition [between us];
 <small><sub>**BSB:**</sub></small>
 For He Himself is our peace, who has made the two one and has torn down the dividing wall of hostility
 <small><sub>**Literal:**</sub></small>
 he himself for is the peace of us, which having made <the> both one and the barrier of the fence having broken down, [15] the hostility in the flesh of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.13|<< Ephesians 2:13]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.15|Ephesians 2:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

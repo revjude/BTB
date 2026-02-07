@@ -1,4 +1,4 @@
-**Nehemiah 11:23** 
+**Nehemiah 11:23**<big><big>[[Neh.11.20 Residents Outside Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [it was] the king’s commandment concerning them, that a certain portion should be for the singers, due for every day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For there was a command from the king concerning the singers, an ordinance regul
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.22|<< Nehemiah 11:22]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.24|Nehemiah 11:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] commandment of  |**<big>&#8207;[[H4687\|מִצְוַ֥ת]]&#8207; </big>**| mitz.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 25:3** 
+**Deuteronomy 25:3**<big><big>[[Deut.25.1 Fairness and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Forty stripes he may give him, [and] not exceed: lest, [if] he should exceed, and beat him above these with many stripes, then thy brother should seem vile unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He may receive no more than forty lashes, lest your brother be beaten any more t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.2|<< Deuteronomy 25:2]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.4|Deuteronomy 25:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | forty [times]  |**<big>&#8207;[[H0705\|אַרְבָּעִ֥ים]]&#8207; </big>**| 'ar.ba.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will strike him  |**<big>&#8207;[[H5221\|יַכֶּ֖]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| ya.Ke.<small><sup>[[HVhi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:4** 
 <small><sub>**LXX:**</sub></small>
 Being blessed \[are\] the progeny  of your belly, and the produce  of your land, and the herds  of your oxen, and the flocks  of your sheep. 
-<small><sub>**KJV:**</sub></small>
-Blessed [shall be] the fruit of thy body, and the fruit of thy ground, and the fruit of thy cattle, the increase of thy kine, and the flocks of thy sheep.
-<small><sub>**BSB:**</sub></small>
-The fruit of your womb will be blessed, as well as the produce of your land and the offspring of your livestock—the calves of your herds and the lambs of your flocks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.3|<< Deuteronomy 28:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.5|Deuteronomy 28:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:24** 
 <small><sub>**LXX:**</sub></small>
 \[The\] gatekeepers were \[stationed\] according to the four winds -- according to \[the\] east, and according to \[the\] west, and north, and south. 
-<small><sub>**KJV:**</sub></small>
-In four quarters were the porters, toward the east, west, north, and south.
-<small><sub>**BSB:**</sub></small>
-The gatekeepers were stationed on the four sides: east, west, north, and south.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.23|<< 1 Chronicles 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.25|1 Chronicles 9:25 >>]]</td></tr></table>
 
 | Translation | Greek |

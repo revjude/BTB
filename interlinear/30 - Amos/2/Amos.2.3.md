@@ -1,4 +1,4 @@
-**Amos 2:3** 
+**Amos 2:3**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will cut off the judge from the midst thereof, and will slay all the princes thereof with him, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will cut off the ruler of Moab and kill all the officials with him,” says th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.2|<< Amos 2:2]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.4|Amos 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will cut off  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3772I\|הִכְרַתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hikh.ra.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a judge  |**<big>&#8207;[[H8199\|שׁוֹפֵ֖ט]]&#8207; </big>**| sho.Fet<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

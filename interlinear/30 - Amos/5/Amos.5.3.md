@@ -1,4 +1,4 @@
-**Amos 5:3** 
+**Amos 5:3**<big><big>[[Amos.5.1 A Lamentation against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the Lord GOD; The city that went out [by] a thousand shall leave an hundred, and that which went forth [by] an hundred shall leave ten, to the house of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is what the Lord GOD says: “The city that marches out a thousand strong w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.2|<< Amos 5:2]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.4|Amos 5:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹ֤ה]]&#8207; </big>**| khoh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

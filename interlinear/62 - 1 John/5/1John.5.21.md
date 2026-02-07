@@ -1,12 +1,12 @@
-**1 John 5:21
-**<small><sub>**KJV:**</sub></small>
+**1 John 5:21**<big><big>[[1John.5.18 The True God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Little children, keep yourselves from idols. Amen.
 <small><sub>**BSB:**</sub></small>
 Little children, keep yourselves from idols.
 <small><sub>**Literal:**</sub></small>
 Little children, do keep yourselves from <the> idols Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.20|<< 1 John 5:20]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.1|2 John 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Little children, |**<big>[[G5040\|τεκνία,]]</big>**  |teknia <small><sup>[[N-VPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do keep |**<big>[[G5442I\|φυλάξατε]]</big>**  |phulaxate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Numbers 1:53** 
+**Numbers 1:53**<big><big>[[Num.1.47 The Exemption of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the Levites are to camp around the tabernacle of the Testimony and watch ove
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.52|<< Numbers 1:52]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.54|Numbers 1:54 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the Levites  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֞ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will encamp  |**<big>&#8207;[[H2583\|יַחֲנ֤וּ]]&#8207; </big>**| ya.cha.Nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

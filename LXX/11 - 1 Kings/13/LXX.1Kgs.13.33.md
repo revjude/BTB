@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:33** 
 <small><sub>**LXX:**</sub></small>
 And after  this saying Jeroboam did not turn from  his evil, but he returned and appointed from part of the people priests of the high \[places\]. The one wanting \[to be a priest\] he filled \[the post\]  by his hand, and he became priest of the high \[places\]. 
-<small><sub>**KJV:**</sub></small>
-After this thing Jeroboam returned not from his evil way, but made again of the lowest of the people priests of the high places: whosoever would, he consecrated him, and he became [one] of the priests of the high places.
-<small><sub>**BSB:**</sub></small>
-Even after these events, Jeroboam did not repent of his evil ways, but again he appointed priests for the high places from every class of people. He ordained anyone who desired to be a priest of the high places.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.32|<< 1 Kings 13:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.34|1 Kings 13:34 >>]]</td></tr></table>
 
 | Translation | Greek |

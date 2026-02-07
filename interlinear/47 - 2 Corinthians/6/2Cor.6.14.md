@@ -1,12 +1,12 @@
-**2 Corinthians 6:14
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 6:14**<big><big>[[2Cor.6.14 Do Not Be Unequally Yoked|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?
 <small><sub>**BSB:**</sub></small>
 Do not be unequally yoked with unbelievers. For what partnership can righteousness have with wickedness? Or what fellowship does light have with darkness?
 <small><sub>**Literal:**</sub></small>
 Not do become unequally yoked together with unbelievers; what for partnership [have] righteousness and lawlessness? Or what fellowship light with darkness?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.13|<< 2 Corinthians 6:13]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.15|2 Corinthians 6:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|Μὴ]]</big>**  |Mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do become |**<big>[[G1096\|γίνεσθε]]</big>**  [^1] |ginesthe <small><sup>[[V-PNM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 my beloved \[man\] go down into his garden, and let him eat \[the\] fruit of his fruit trees! I entered into my garden, my sister, O bride. I gathered the vintage of my myrrh with my aromatics; I ate my bread with my honey; I drank wine with my milk. Eat, O dear men, and drink! and be intoxicated beloved men! 
-<small><sub>**KJV:**</sub></small>
-I am come into my garden, my sister, [my] spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.
-<small><sub>**BSB:**</sub></small>
-I have come to my garden, my sister, my bride; I have gathered my myrrh with my spice. I have eaten my honeycomb with my honey; I have drunk my wine with my milk. Eat, O friends, and drink; drink freely, O beloved.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.16|<< Song of Solomon 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.2|Song of Solomon 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

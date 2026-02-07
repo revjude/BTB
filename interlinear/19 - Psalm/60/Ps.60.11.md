@@ -1,4 +1,4 @@
-**Psalms 60:11** (60:13)
+**Psalms 60:11**<big><big>[[Ps.60.1 Victory with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give us help from trouble: for vain [is] the help of man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Give us aid against the enemy, for the help of man is worthless.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.60.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.10|<< Psalms 60:10]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.12|Psalms 60:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give !  |**<big>&#8207;[[H3051\|הָֽבָ]]&#8207;&#8207;[[H9012\|ה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.va<small><sup>[[HVqv2ms]]</sup></small> h-<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to us  |**<big>&#8207;[[H9005\|לָּ֣]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

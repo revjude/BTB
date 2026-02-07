@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Samson said to him, I am innocent this once concerning \[the\] Philistines, that I myself should do evils with you. 
-<small><sub>**KJV:**</sub></small>
-And Samson said concerning them, Now shall I be more blameless than the Philistines, though I do them a displeasure.
-<small><sub>**BSB:**</sub></small>
-Samson said to them, “This time I will be blameless in doing harm to the Philistines.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.2|<< Judges 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.4|Judges 15:4 >>]]</td></tr></table>
 
 | Translation | Greek |

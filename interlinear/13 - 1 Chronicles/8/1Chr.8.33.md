@@ -1,4 +1,4 @@
-**1 Chronicles 8:33** 
+**1 Chronicles 8:33**<big><big>[[1Chr.8.33 The Family of Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ner begat Kish, and Kish begat Saul, and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ner was the father of Kish, Kish was the father of Saul, and Saul was the father
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.32|<< 1 Chronicles 8:32]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.34|1 Chronicles 8:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Ner  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5369H\|נֵר֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֣יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

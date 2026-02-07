@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:39** 
 <small><sub>**LXX:**</sub></small>
 And all the people passed over the Jordan, and the king was established, and the king kissed  Barzillai, and blessed him; and he returned to  his people. 
-<small><sub>**KJV:**</sub></small>
-And all the people went over Jordan. And when the king was come over, the king kissed Barzillai, and blessed him; and he returned unto his own place.
-<small><sub>**BSB:**</sub></small>
-So all the people crossed the Jordan, and then the king crossed over. The king kissed Barzillai and blessed him, and Barzillai returned home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.38|<< 2 Samuel 19:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.40|2 Samuel 19:40 >>]]</td></tr></table>
 
 | Translation | Greek |

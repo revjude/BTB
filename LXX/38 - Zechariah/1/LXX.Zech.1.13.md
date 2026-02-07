@@ -1,10 +1,7 @@
 **LXX Zechariah 1:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> responded to the angel, the one speaking with me \[with\] good sayings, \[and\] comforting words. 
-<small><sub>**KJV:**</sub></small>
-And the LORD answered the angel that talked with me [with] good words [and] comfortable words.
-<small><sub>**BSB:**</sub></small>
-So the LORD spoke kind and comforting words to the angel who was speaking with me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.12|<< Zechariah 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.14|Zechariah 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

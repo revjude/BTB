@@ -1,10 +1,7 @@
 **LXX Exodus 10:8** 
 <small><sub>**LXX:**</sub></small>
 And both Moses and Aaron returned to Pharaoh. And he said to them, Go, and serve \[to the\] <span class="smallcaps">lord</span>  your God! But which and who are the \[ones\] going? 
-<small><sub>**KJV:**</sub></small>
-And Moses and Aaron were brought again unto Pharaoh: and he said unto them, Go, serve the LORD your God: [but] who [are] they that shall go?
-<small><sub>**BSB:**</sub></small>
-So Moses and Aaron were brought back to Pharaoh. “Go, worship the LORD your God,” he said. “But who exactly will be going?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.7|<< Exodus 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.9|Exodus 10:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jonah 2:6** 
 <small><sub>**LXX:**</sub></small>
 Into \[the\] fissures of mountains I went down; into \[the\] earth of which  its bars \[are the\] eternal holds. Yet my life ascend from corruption, O <span class="smallcaps">lord</span>  my God! 
-<small><sub>**KJV:**</sub></small>
-I went down to the bottoms of the mountains; the earth with her bars [was] about me for ever: yet hast thou brought up my life from corruption, O LORD my God.
-<small><sub>**BSB:**</sub></small>
-To the roots of the mountains I descended; the earth beneath me barred me in forever! But You raised my life from the pit, O LORD my God!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.2.5|<< Jonah 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.7|Jonah 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

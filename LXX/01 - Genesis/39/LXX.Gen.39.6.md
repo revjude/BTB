@@ -1,10 +1,7 @@
 **LXX Genesis 39:6** 
 <small><sub>**LXX:**</sub></small>
 And he committed to care all as much as was his into \[the\] hand of Joseph. And he did not know the \[things\] about his own -- not one \[thing\], except the bread which he ate. And Joseph was good to the sight, and handsome  in appearance -- exceedingly. 
-<small><sub>**KJV:**</sub></small>
-And he left all that he had in Joseph’s hand; and he knew not ought he had, save the bread which he did eat. And Joseph was [a] goodly [person], and well favoured.
-<small><sub>**BSB:**</sub></small>
-So Potiphar left all that he owned in Joseph’s care; he did not concern himself with anything except the food he ate. Now Joseph was well-built and handsome,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.5|<< Genesis 39:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.7|Genesis 39:7 >>]]</td></tr></table>
 
 | Translation | Greek |

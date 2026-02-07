@@ -1,12 +1,12 @@
-**1 Timothy 3:11
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 3:11**<big><big>[[1Tim.3.8 Qualifications for Deacons|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even so [must their] wives [be] grave, not slanderers, sober, faithful in all things.
 <small><sub>**BSB:**</sub></small>
 In the same way, the women must be dignified, not slanderers, but temperate and faithful in all things.
 <small><sub>**Literal:**</sub></small>
 Women likewise [must be] dignified, not slanderers, clear-minded, faithful in all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.10|<< 1 Timothy 3:10]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.12|1 Timothy 3:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Women |**<big>[[G1135H\|Γυναῖκας]]</big>**  |Gunaikas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | likewise |**<big>[[G5615\|ὡσαύτως]]</big>**  |hōsautōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

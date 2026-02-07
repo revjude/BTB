@@ -1,5 +1,5 @@
-**Acts 8:33
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:33**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth.
 <small><sub>**BSB:**</sub></small>
 In His humiliation He was deprived of justice. Who can recount His descendants? For His life was removed from the earth.”
@@ -10,7 +10,7 @@ In the humiliation of Him <the> justice from Him was taken away, The now generat
 > $\quad$ referencing: [[LXX.Isa.53.7|Isa 53:7-8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

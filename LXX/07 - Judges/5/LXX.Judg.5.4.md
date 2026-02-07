@@ -1,10 +1,7 @@
 **LXX Judges 5:4** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, in  your exodus from Seir, in  your departing from out of \[the\] field of Edom, \[the\] earth was shaken, and indeed the heaven was disturbed, and the clouds dripped water. 
-<small><sub>**KJV:**</sub></small>
-LORD, when thou wentest out of Seir, when thou marchedst out of the field of Edom, the earth trembled, and the heavens dropped, the clouds also dropped water.
-<small><sub>**BSB:**</sub></small>
-O LORD, when You went out from Seir, when You marched from the land of Edom, the earth trembled, the heavens poured out rain, and the clouds poured down water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.3|<< Judges 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.5|Judges 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

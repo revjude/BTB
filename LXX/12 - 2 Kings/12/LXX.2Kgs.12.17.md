@@ -1,10 +1,7 @@
 **LXX 2 Kings 12:17** 
 <small><sub>**LXX:**</sub></small>
 Then Hazael king of Syria ascended up, and waged war against Gath, and was first to take it. And Hazael arranged  his face to ascend against Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Then Hazael king of Syria went up, and fought against Gath, and took it: and Hazael set his face to go up to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-At that time Hazael king of Aram marched up and fought against Gath and captured it. Then he decided to attack Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.16|<< 2 Kings 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.18|2 Kings 12:18 >>]]</td></tr></table>
 
 | Translation | Greek |

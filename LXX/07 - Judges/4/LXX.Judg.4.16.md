@@ -1,10 +1,7 @@
 **LXX Judges 4:16** 
 <small><sub>**LXX:**</sub></small>
 And Barak pursued after the chariots, and after the camp unto Oak of the Nations. And all \[the\] camp of Sisera fell by \[the\] mouth of \[the\] broadsword; \[there was\] not left behind even one. 
-<small><sub>**KJV:**</sub></small>
-But Barak pursued after the chariots, and after the host, unto Harosheth of the Gentiles: and all the host of Sisera fell upon the edge of the sword; [and] there was not a man left.
-<small><sub>**BSB:**</sub></small>
-Then Barak pursued the chariots and army as far as Harosheth-hagoyim, and the whole army of Sisera fell by the sword; not a single man was left.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.15|<< Judges 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.17|Judges 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 25:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:5**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 While the bridegroom tarried, they all slumbered and slept.
 <small><sub>**BSB:**</sub></small>
 When the bridegroom was delayed, they all became drowsy and fell asleep.
 <small><sub>**Literal:**</sub></small>
 As was tarrying then the bridegroom they became drowsy all and were sleeping.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.4|<< Matthew 25:4]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.6|Matthew 25:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As was tarrying |**<big>[[G5549\|χρονίζοντος]]</big>**  |chronizontos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

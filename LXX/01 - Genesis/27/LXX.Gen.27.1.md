@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after the growing old  of Isaac, that his eyes were blunted  to see. And he called Esau  his older son, and said to him, O my son. And he said, Behold, \[it is\] I. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, [here am] I.
-<small><sub>**BSB:**</sub></small>
-When Isaac was old and his eyes were so weak that he could no longer see, he called his older son Esau and said to him, “My son.” “Here I am,” Esau replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.35|<< Genesis 26:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.2|Genesis 27:2 >>]]</td></tr></table>
 
 | Translation | Greek |

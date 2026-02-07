@@ -1,4 +1,4 @@
-**1 Samuel 23:1** 
+**1 Samuel 23:1**<big><big>[[1Sam.23.1 David Delivers Keilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they told David, saying, Behold, the Philistines fight against Keilah, and they rob the threshingfloors.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now it was reported to David, “Look, the Philistines are fighting against Keil
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.23|<< 1 Samuel 22:23]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.2|1 Samuel 23:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יַּגִּ֥דוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Gi.du<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to David  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1732\|דָוִ֖ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 2:7** 
 <small><sub>**LXX:**</sub></small>
 And I said to the king, If \[it be\] upon the king \[for\] good, let him give to me letters to the chief rulers on the other side of the river! so as to allow me to pass until I come unto Judah; 
-<small><sub>**KJV:**</sub></small>
-Moreover I said unto the king, If it please the king, let letters be given me to the governors beyond the river, that they may convey me over till I come into Judah;
-<small><sub>**BSB:**</sub></small>
-I also said to him, “If it pleases the king, may letters be given to me for the governors west of the Euphrates, so that they will grant me safe passage until I reach Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.6|<< Nehemiah 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.8|Nehemiah 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

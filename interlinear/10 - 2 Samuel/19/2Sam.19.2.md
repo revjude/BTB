@@ -1,4 +1,4 @@
-**2 Samuel 19:2** (19:3)
+**2 Samuel 19:2**<big><big>[[2Sam.19.1 Joab Reproves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the victory that day was [turned] into mourning unto all the people: for the people heard say that day how the king was grieved for his son.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And that day’s victory was turned into mourning for all the people, because on
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.1|<< 2 Samuel 19:1]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.3|2 Samuel 19:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it became  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|תְּהִ֨י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Hi<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the deliverance  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8668H\|תְּשֻׁעָ֜ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.shu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

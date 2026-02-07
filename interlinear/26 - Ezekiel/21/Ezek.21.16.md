@@ -1,4 +1,4 @@
-**Ezekiel 21:16** (21:21)
+**Ezekiel 21:16**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go thee one way or other, [either] on the right hand, [or] on the left, whithersoever thy face [is] set.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Slash to the right; set your blade to the left—wherever your blade is directed
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.15|<< Ezekiel 21:15]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.17|Ezekiel 21:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be sharp  |**<big>&#8207;[[H0258\|הִתְאַחֲדִ֥י]]&#8207; </big>**| hit.'a.cha.Di<small><sup>[[HVtv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | go to [the] right  |**<big>&#8207;[[H3231\|הֵימִ֖נִי]]&#8207; </big>**| hei.Mi.ni<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

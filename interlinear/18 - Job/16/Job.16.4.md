@@ -1,4 +1,4 @@
-**Job 16:4** 
+**Job 16:4**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I also could speak as ye [do]: if your soul were in my soul’s stead, I could heap up words against you, and shake mine head at you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I could also speak like you if you were in my place; I could heap up words again
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.3|<< Job 16:3]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.5|Job 16:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֤ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִי֮]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

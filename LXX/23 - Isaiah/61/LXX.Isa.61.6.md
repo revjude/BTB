@@ -1,10 +1,7 @@
 **LXX Isaiah 61:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall be called priests \[of the\] <span class="smallcaps">lord</span>. Ministers of our God -- it shall be said to you. You shall devour strength of nations, and in  their riches you shall be admired. 
-<small><sub>**KJV:**</sub></small>
-But ye shall be named the Priests of the LORD: [men] shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.
-<small><sub>**BSB:**</sub></small>
-But you will be called the priests of the LORD; they will speak of you as ministers of our God; you will feed on the wealth of nations, and you will boast in their riches.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.61.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.61.5|<< Isaiah 61:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.61.7|Isaiah 61:7 >>]]</td></tr></table>
 
 | Translation | Greek |

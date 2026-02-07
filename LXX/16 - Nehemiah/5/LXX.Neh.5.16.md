@@ -1,10 +1,7 @@
 **LXX Nehemiah 5:16** 
 <small><sub>**LXX:**</sub></small>
 And in \[the\] work of the wall I repaired these \[things\]. I did not acquire fields \[of land\], and  my servants and all the ones gathering \[were\] there for  work. 
-<small><sub>**KJV:**</sub></small>
-Yea, also I continued in the work of this wall, neither bought we any land: and all my servants [were] gathered thither unto the work.
-<small><sub>**BSB:**</sub></small>
-Instead, I devoted myself to the construction of the wall, and all my servants were gathered there for the work; we did not acquire any land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.15|<< Nehemiah 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.17|Nehemiah 5:17 >>]]</td></tr></table>
 
 | Translation | Greek |

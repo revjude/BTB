@@ -1,10 +1,7 @@
 **LXX Jeremiah 37:15** 
 <small><sub>**LXX:**</sub></small>
 And the rulers were embittered over Jeremiah, and they struck him, and they sent him into the house of \[the\] prison of Jonathan the scribe. For this they made into a house of a prison. 
-<small><sub>**KJV:**</sub></small>
-Wherefore the princes were wroth with Jeremiah, and smote him, and put him in prison in the house of Jonathan the scribe: for they had made that the prison.
-<small><sub>**BSB:**</sub></small>
-The officials were angry with Jeremiah, and they beat him and placed him in jail in the house of Jonathan the scribe, for it had been made into a prison.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.37.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.14|<< Jeremiah 37:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.16|Jeremiah 37:16 >>]]</td></tr></table>
 
 | Translation | Greek |

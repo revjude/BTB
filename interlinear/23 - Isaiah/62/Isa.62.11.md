@@ -1,4 +1,4 @@
-**Isaiah 62:11** 
+**Isaiah 62:11**<big><big>[[Isa.62.1 Zion’s Salvation and New Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the LORD hath proclaimed unto the end of the world, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward [is] with him, and his work before him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Behold, the LORD has proclaimed to the ends of the earth, “Say to Daughter Zio
 > $\quad$ referenced by: [[Matt.21.5|Matt 21:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

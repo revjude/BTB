@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:9** 
 <small><sub>**LXX:**</sub></small>
 And you shall give \[to\] your servant a heart  to hear and to litigate  your people in righteousness,  to perceive between good and bad. For who shall be able to judge  this weighty \[thing\] for your people? 
-<small><sub>**KJV:**</sub></small>
-Give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad: for who is able to judge this thy so great a people?
-<small><sub>**BSB:**</sub></small>
-Therefore give Your servant an understanding heart to judge Your people and to discern between good and evil. For who is able to govern this great people of Yours?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.8|<< 1 Kings 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.10|1 Kings 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

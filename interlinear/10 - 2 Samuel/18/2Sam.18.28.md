@@ -1,4 +1,4 @@
-**2 Samuel 18:28** 
+**2 Samuel 18:28**<big><big>[[2Sam.18.19 David Mourns for Absalom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahimaaz called, and said unto the king, All is well. And he fell down to the earth upon his face before the king, and said, Blessed [be] the LORD thy God, which hath delivered up the men that lifted up their hand against my lord the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Ahimaaz called out to the king, “All is well!” And he bowed facedown be
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.27|<< 2 Samuel 18:27]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.29|2 Samuel 18:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121I\|יִּקְרָ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ahimaaz  |**<big>&#8207;[[H0290H\|אֲחִימַ֗עַץ]]&#8207; </big>**| 'a.chi.Ma.'atz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

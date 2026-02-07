@@ -1,4 +1,4 @@
-**Hosea 6:7** 
+**Hosea 6:7**<big><big>[[Hos.6.1 The Unrepentance of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they like men have transgressed the covenant: there have they dealt treacherously against me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But they, like Adam, have transgressed the covenant; there they were unfaithful 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.6.6|<< Hosea 6:6]]</td><td align="center" style="border:none;">[[Hos.6|Hosea 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.6.8|Hosea 6:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1992\|הֵ֕מָּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like Adam  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0121G\|אָדָ֖ם]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'a.Dam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 66:15** 
+**Psalms 66:15**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will offer unto thee burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will offer You fatlings as burnt offerings, with the fragrant smoke of rams; I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.14|<< Psalms 66:14]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.16|Psalms 66:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | burnt offerings of  |**<big>&#8207;[[H5930A\|עֹ֘ל֤וֹת]]&#8207; </big>**| o.Lot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fatlings  |**<big>&#8207;[[H4220\|מֵחִ֣ים]]&#8207; </big>**| me.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

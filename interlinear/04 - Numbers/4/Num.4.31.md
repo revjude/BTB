@@ -1,4 +1,4 @@
-**Numbers 4:31** 
+**Numbers 4:31**<big><big>[[Num.4.29 The Duties of the Merarites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the charge of their burden, according to all their service in the tabernacle of the congregation; the boards of the tabernacle, and the bars thereof, and the pillars thereof, and sockets thereof,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the duty for all their service at the Tent of Meeting: to carry the fram
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.30|<< Numbers 4:30]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.32|Numbers 4:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2063\|זֹאת֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> zoT<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] duty of  |**<big>&#8207;[[H4931\|מִשְׁמֶ֣רֶת]]&#8207; </big>**| mish.Me.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 27:10** 
+**Isaiah 27:10**<big><big>[[Isa.27.1 The LORD’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet the defenced city [shall be] desolate, [and] the habitation forsaken, and left like a wilderness: there shall the calf feed, and there shall he lie down, and consume the branches thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the fortified city lies deserted—a homestead abandoned, a wilderness forsa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.27.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27.9|<< Isaiah 27:9]]</td><td align="center" style="border:none;">[[Isa.27|Isaiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.11|Isaiah 27:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a city  |**<big>&#8207;[[H5892B\|עִ֤יר]]&#8207; </big>**| 'ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

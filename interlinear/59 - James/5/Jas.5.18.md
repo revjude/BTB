@@ -1,5 +1,5 @@
-**James 5:18
-**<small><sub>**KJV:**</sub></small>
+**James 5:18**<big><big>[[Jas.5.13 The Prayer of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he prayed again, and the heaven gave rain, and the earth brought forth her fruit.
 <small><sub>**BSB:**</sub></small>
 Again he prayed, and the heavens gave rain, and the earth yielded its crops.
@@ -10,7 +10,7 @@ And again he prayed and the heaven rain gave and the earth produced the fruit of
 > $\quad$ alluding to: [[LXX.1Kgs.17.1|1Kgs 17:1]] ☩ [[LXX.1Kgs.18.41|1Kgs 18:41]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | again |**<big>[[G3825\|πάλιν]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

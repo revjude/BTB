@@ -1,4 +1,4 @@
-**Nehemiah 5:9** 
+**Nehemiah 5:9**<big><big>[[Neh.5.1 Nehemiah Defends the Oppressed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also I said, It [is] not good that ye do: ought ye not to walk in the fear of our God because of the reproach of the heathen our enemies?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I continued, “What you are doing is not right. Shouldn’t you walk in the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.8|<< Nehemiah 5:8]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.10|Nehemiah 5:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said  [^2]|**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אוֹמַ֕ר]]&#8207; </big>**[^3] | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

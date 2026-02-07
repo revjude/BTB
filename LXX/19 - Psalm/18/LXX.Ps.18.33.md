@@ -1,10 +1,7 @@
 **LXX Psalm 18:33** 
 <small><sub>**LXX:**</sub></small>
 the one readying  my feet as a stag, and setting me upon the high \[places\]; 
-<small><sub>**KJV:**</sub></small>
-He maketh my feet like hinds’ [feet], and setteth me upon my high places.
-<small><sub>**BSB:**</sub></small>
-He makes my feet like those of a deer and stations me upon the heights.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.32|<< Psalm 18:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.34|Psalm 18:34 >>]]</td></tr></table>
 
 | Translation | Greek |

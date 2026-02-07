@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 8:2** 
 <small><sub>**LXX:**</sub></small>
 and the cities which Hiram gave  to Solomon, Solomon built them \[up\], and settled there the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-That the cities which Huram had restored to Solomon, Solomon built them, and caused the children of Israel to dwell there.
-<small><sub>**BSB:**</sub></small>
-Solomon rebuilt the cities Hiram had given him and settled Israelites there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.1|<< 2 Chronicles 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.3|2 Chronicles 8:3 >>]]</td></tr></table>
 
 | Translation | Greek |

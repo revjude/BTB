@@ -1,12 +1,12 @@
-**Luke 13:25
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:25**<big><big>[[Luke.13.22 The Narrow Door|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are:
 <small><sub>**BSB:**</sub></small>
 After the master of the house gets up and shuts the door, you will stand outside knocking and saying, ‘Lord, open the door for us.’ But he will reply, ‘I do not know where you are from.’
 <small><sub>**Literal:**</sub></small>
 From what maybe may have risen up the master of the house and may have shut the door then you may begin outside to have stood and to knock at the door saying; lord lord, do open to us; And he answering will say to you; Not I do know you from where are;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.24|<< Luke 13:24]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.26|Luke 13:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From |**<big>[[G0575\|ἀφ᾽]]</big>**  |aph᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | what |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

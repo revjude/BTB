@@ -1,4 +1,4 @@
-**Nehemiah 6:13** 
+**Nehemiah 6:13**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore [was] he hired, that I should be afraid, and do so, and sin, and [that] they might have [matter] for an evil report, that they might reproach me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He had been hired to intimidate me so that I would sin by doing as he suggested,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.12|<< Nehemiah 6:12]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.14|Nehemiah 6:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֤עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] hired  |**<big>&#8207;[[H7936B\|שָׂכוּר֙]]&#8207; </big>**| sa.Khur<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

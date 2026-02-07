@@ -1,10 +1,7 @@
 **LXX Esther 1:5** 
 <small><sub>**LXX:**</sub></small>
 and when the days were fulfilled of the wedding, the king made a banquet for the nations, to the ones found in the city, for six days, in \[the\] courtyard of the house of the king, 
-<small><sub>**KJV:**</sub></small>
-And when these days were expired, the king made a feast unto all the people that were present in Shushan the palace, both unto great and small, seven days, in the court of the garden of the king’s palace;
-<small><sub>**BSB:**</sub></small>
-At the end of this time, in the garden court of the royal palace, the king held a seven-day feast for all the people in the citadel of Susa, from the least to the greatest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.4|<< Esther 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.6|Esther 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

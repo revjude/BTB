@@ -1,12 +1,12 @@
-**Titus 2:10
-**<small><sub>**KJV:**</sub></small>
+**Titus 2:10**<big><big>[[Titus.2.1 Teaching Sound Doctrine|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
 <small><sub>**BSB:**</sub></small>
 not stealing from them, but showing all good faith, so that in every respect they will adorn the teaching about God our Savior.
 <small><sub>**Literal:**</sub></small>
 not pilfering but all fidelity showing good, so that the doctrine which [is] of the Savior of us God they may adorn in all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.9|<< Titus 2:9]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.11|Titus 2:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | pilfering |**<big>[[G3557\|νοσφιζομένους]]</big>**  |nosphizomenous <small><sup>[[V-PMP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Romans 15:7
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:7**<big><big>[[Rom.15.7 Christ the Servant of Jews and Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore receive ye one another, as Christ also received us to the glory of God.
 <small><sub>**BSB:**</sub></small>
 Accept one another, then, just as Christ accepted you, in order to bring glory to God.
 <small><sub>**Literal:**</sub></small>
 Therefore do receive one another even as also <the> Christ received you to [the] glory <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.6|<< Romans 15:6]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.8|Romans 15:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do receive |**<big>[[G4355\|προσλαμβάνεσθε]]</big>**  |proslambanesthe <small><sup>[[V-PMM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

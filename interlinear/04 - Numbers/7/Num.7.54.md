@@ -1,4 +1,4 @@
-**Numbers 7:54** 
+**Numbers 7:54**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the eighth day [offered] Gamaliel the son of Pedahzur, prince of the children of Manasseh:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the eighth day Gamaliel son of Pedahzur, the leader of the Manassites, drew n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.53|<< Numbers 7:53]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.55|Numbers 7:55 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּוֹם֙]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> eighth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8066\|שְּׁמִינִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.mi.Ni<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

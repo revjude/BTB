@@ -1,4 +1,4 @@
-**1 Chronicles 26:21** 
+**1 Chronicles 26:21**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As concerning] the sons of Laadan; the sons of the Gershonite Laadan, chief fathers, [even] of Laadan the Gershonite, [were] Jehieli.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the descendants of Ladan, who were Gershonites through Ladan and heads of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.20|<< 1 Chronicles 26:20]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.22|1 Chronicles 26:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ladan  |**<big>&#8207;[[H3936H\|לַ֠עְדָּן]]&#8207; </big>**| La'.don<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

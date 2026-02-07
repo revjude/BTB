@@ -1,10 +1,7 @@
 **LXX Exodus 4:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to him, What is this the \[thing\] in your hand?  And he said, A rod. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto him, What [is] that in thine hand? And he said, A rod.
-<small><sub>**BSB:**</sub></small>
-And the LORD asked him, “What is that in your hand?” “A staff,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.1|<< Exodus 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.3|Exodus 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

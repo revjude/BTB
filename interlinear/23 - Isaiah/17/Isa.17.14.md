@@ -1,4 +1,4 @@
-**Isaiah 17:14** 
+**Isaiah 17:14**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And behold at eveningtide trouble; [and] before the morning he [is] not. This [is] the portion of them that spoil us, and the lot of them that rob us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the evening, there is sudden terror! Before morning, they are no more! This i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.13|<< Isaiah 17:13]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18.1|Isaiah 18:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to a time of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6256\|עֵ֥ת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | evening  |**<big>&#8207;[[H6153\|עֶ֙רֶב֙]]&#8207; </big>**| 'e.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

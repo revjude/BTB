@@ -1,10 +1,7 @@
 **LXX Isaiah 45:13** 
 <small><sub>**LXX:**</sub></small>
 I raised him with righteousness \[as\] king, and all  his ways \[are\] straight. He shall build  my city, and the captivity  of my people he shall return. Not by ransoms, nor by gifts, said \[the\] <span class="smallcaps">lord</span> of Hosts. 
-<small><sub>**KJV:**</sub></small>
-I have raised him up in righteousness, and I will direct all his ways: he shall build my city, and he shall let go my captives, not for price nor reward, saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-I will raise up Cyrus in righteousness, and I will make all his ways straight. He will rebuild My city and set My exiles free, but not for payment or reward, says the LORD of Hosts.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.45.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.12|<< Isaiah 45:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.14|Isaiah 45:14 >>]]</td></tr></table>
 
 | Translation | Greek |

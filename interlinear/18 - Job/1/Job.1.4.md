@@ -1,4 +1,4 @@
-**Job 1:4** 
+**Job 1:4**<big><big>[[Job.1.1 Job’s Character and Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his sons went and feasted [in their] houses, every one his day; and sent and called for their three sisters to eat and to drink with them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Job’s sons would take turns holding feasts in their homes, and they would invi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.3|<< Job 1:3]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.5|Job 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1980G\|הָלְכ֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.le.Khu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sons his  |**<big>&#8207;[[H1121A\|בָנָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| va.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

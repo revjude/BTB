@@ -1,4 +1,4 @@
-**Ezekiel 32:26** 
+**Ezekiel 32:26**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There [is] Meshech, Tubal, and all her multitude: her graves [are] round about him: all of them uncircumcised, slain by the sword, though they caused their terror in the land of the living.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Meshech and Tubal are there with all their multitudes, with their graves all aro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.25|<< Ezekiel 32:25]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.27|Ezekiel 32:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] there  |**<big>&#8207;[[H8033G\|שָׁ֣ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Meshech  |**<big>&#8207;[[H4902I\|מֶ֤שֶׁךְ]]&#8207; </big>**| Me.shekh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

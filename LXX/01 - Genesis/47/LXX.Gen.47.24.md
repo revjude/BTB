@@ -1,10 +1,7 @@
 **LXX Genesis 47:24** 
 <small><sub>**LXX:**</sub></small>
 And there will be  produce of it, and you will give the fifth part  to Pharaoh, and the four parts will be for you yourselves, for seed in the earth, and for food to you, and to all the \[ones\] in  your houses. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass in the increase, that ye shall give the fifth [part] unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones.
-<small><sub>**BSB:**</sub></small>
-At harvest time, you are to give a fifth of it to Pharaoh, and four-fifths will be yours as seed for the field and food for yourselves and your households and children.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.23|<< Genesis 47:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.25|Genesis 47:25 >>]]</td></tr></table>
 
 | Translation | Greek |

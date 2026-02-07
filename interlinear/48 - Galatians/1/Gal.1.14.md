@@ -1,12 +1,12 @@
-**Galatians 1:14
-**<small><sub>**KJV:**</sub></small>
+**Galatians 1:14**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.
 <small><sub>**BSB:**</sub></small>
 I was advancing in Judaism beyond many of my contemporaries and was extremely zealous for the traditions of my fathers.
 <small><sub>**Literal:**</sub></small>
 And I was advancing in <the> Judaism beyond many contemporaries in the countrymen of mine more abundantly zealous being of the fathers of mine traditions.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.13|<< Galatians 1:13]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.15|Galatians 1:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I was advancing |**<big>[[G4298\|προέκοπτον]]</big>**  |proekopton <small><sup>[[V-IAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jehoshaphat slept with  his fathers, and he was entombed with  his fathers in \[the\] city of David. And Jehoram his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-Now Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David. And Jehoram his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And Jehoshaphat rested with his fathers and was buried with them in the City of David. And his son Jehoram reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.37|<< 2 Chronicles 20:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.2|2 Chronicles 21:2 >>]]</td></tr></table>
 
 | Translation | Greek |

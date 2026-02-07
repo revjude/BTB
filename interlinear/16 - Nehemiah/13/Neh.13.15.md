@@ -1,4 +1,4 @@
-**Nehemiah 13:15** 
+**Nehemiah 13:15**<big><big>[[Neh.13.15 The Sabbath Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days saw I in Judah [some] treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all [manner of] burdens, which they brought into Jerusalem on the sabbath day: and I testified [against them] in the day wherein they sold victuals.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In those days I saw people in Judah treading winepresses on the Sabbath and brin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.14|<< Nehemiah 13:14]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.16|Nehemiah 13:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the days  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יָּמִ֣ים]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> those  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H1992\|הֵ֡מָּה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

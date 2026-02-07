@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> proceeded in anger to burn in Israel. And he stirred up  David against them, saying, Go count  Israel and  Judah! 
-<small><sub>**KJV:**</sub></small>
-And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah.
-<small><sub>**BSB:**</sub></small>
-Again the anger of the LORD burned against Israel, and He stirred up David against them, saying, “Go and take a census of Israel and Judah.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.39|<< 2 Samuel 23:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.2|2 Samuel 24:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 7:14** 
+**Daniel 7:14**<big><big>[[Dan.7.13 Daniel’s Vision of the Son of Man|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion [is] an everlasting dominion, which shall not pass away, and his kingdom [that] which shall not be destroyed.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And He was given dominion, glory, and kingship, that the people of every nation 
 > $\quad$ referenced by: [[Matt.28.18|Matt 28:18]] ☩ [[Rev.11.15|Rev 11:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לֵ֨]]&#8207;&#8207;[[H9033\|הּ]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> Le<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was given  |**<big>&#8207;[[H3052\|יְהִ֤יב]]&#8207; </big>**| ye.Hiv<small><sup>[[AVQp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

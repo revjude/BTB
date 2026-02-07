@@ -1,12 +1,12 @@
-**Acts 10:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:31**<big><big>[[Acts.10.24 Peter Visits Cornelius|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said, Cornelius, thy prayer is heard, and thine alms are had in remembrance in the sight of God.
 <small><sub>**BSB:**</sub></small>
 and said, ‘Cornelius, your prayer has been heard, and your gifts to the poor have been remembered before God.
 <small><sub>**Literal:**</sub></small>
 and said; Cornelius, has been heard your <the> prayer and the alms of you was remembered before <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.30|<< Acts 10:30]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.32|Acts 10:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said; |**<big>[[G5346\|φησίν·]]</big>**  |phēsin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

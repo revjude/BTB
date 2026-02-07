@@ -1,5 +1,5 @@
-**Acts 2:35
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:35**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Until I make thy foes thy footstool.
 <small><sub>**BSB:**</sub></small>
 until I make Your enemies a footstool for Your feet.”’
@@ -10,7 +10,7 @@ until when I may place the enemies of You a footstool of the feet of You.’<br>
 > $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until |**<big>[[G2193\|ἕως]]</big>**  |he'ōs <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G0302\|ἂν]]</big>**  |an <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

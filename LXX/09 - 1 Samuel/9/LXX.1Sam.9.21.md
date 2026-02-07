@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:21** 
 <small><sub>**LXX:**</sub></small>
 And Saul answered and said, Am I not a man a son of a Benjamite, of the lesser chiefdom of the tribes of Israel? And  my family least of all the families  of Benjamin? And why have you spoken to me concerning  this thing? 
-<small><sub>**KJV:**</sub></small>
-And Saul answered and said, [Am] not I a Benjamite, of the smallest of the tribes of Israel? and my family the least of all the families of the tribe of Benjamin? wherefore then speakest thou so to me?
-<small><sub>**BSB:**</sub></small>
-Saul replied, “Am I not a Benjamite from the smallest tribe of Israel, and is not my clan the least of all the clans of Benjamin? So why would you say such a thing to me?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.20|<< 1 Samuel 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.22|1 Samuel 9:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:17** 
 <small><sub>**LXX:**</sub></small>
 And Eli answered and said to her, Go in peace! The God of Israel will give to you all your request which you asked of him. 
-<small><sub>**KJV:**</sub></small>
-Then Eli answered and said, Go in peace: and the God of Israel grant [thee] thy petition that thou hast asked of him.
-<small><sub>**BSB:**</sub></small>
-“Go in peace,” Eli replied, “and may the God of Israel grant the petition you have asked of Him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.16|<< 1 Samuel 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.18|1 Samuel 1:18 >>]]</td></tr></table>
 
 | Translation | Greek |

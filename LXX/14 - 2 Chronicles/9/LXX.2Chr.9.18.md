@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:18** 
 <small><sub>**LXX:**</sub></small>
 And \[there were\] six stairs to the throne being bonded with gold, and under a footstool in gold the throne, and \[armrest\] angles on this side and on that side upon the chair of the throne, and two lions standing by the \[armrest\] angles. 
-<small><sub>**KJV:**</sub></small>
-And [there were] six steps to the throne, with a footstool of gold, [which were] fastened to the throne, and stays on each side of the sitting place, and two lions standing by the stays:
-<small><sub>**BSB:**</sub></small>
-The throne had six steps, and a footstool of gold was attached to it. There were armrests on both sides of the seat, with a lion standing beside each armrest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.17|<< 2 Chronicles 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.19|2 Chronicles 9:19 >>]]</td></tr></table>
 
 | Translation | Greek |

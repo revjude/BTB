@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Haggai the prophet prophesied, and Zechariah the \[son of\] Iddo, a prophecy over the Jews, of the ones in Judah and in Jerusalem in \[the\] name of \[the\] God of Israel, over them. 
-<small><sub>**KJV:**</sub></small>
-Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that [were] in Judah and Jerusalem in the name of the God of Israel, [even] unto them.
-<small><sub>**BSB:**</sub></small>
-Later, the prophets Haggai and Zechariah son of Iddo prophesied to the Jews in Judah and Jerusalem in the name of the God of Israel, who was over them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.24|<< Ezra 4:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.2|Ezra 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

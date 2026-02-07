@@ -1,10 +1,7 @@
 **LXX 1 Samuel 21:9** 
 <small><sub>**LXX:**</sub></small>
 And the priest said, Behold, the broadsword of Goliath the Philistine whom you struck in the valley of Ela. And it is wrapped in a cloak behind the shoulder-piece. If this you take for yourself, take! for there is none other besides it here. And David said, There is none as it, give it to me! 
-<small><sub>**KJV:**</sub></small>
-And the priest said, The sword of Goliath the Philistine, whom thou slewest in the valley of Elah, behold, it [is here] wrapped in a cloth behind the ephod: if thou wilt take that, take [it]: for [there is] no other save that here. And David said, [There is] none like that; give it me.
-<small><sub>**BSB:**</sub></small>
-The priest replied, “The sword of Goliath the Philistine, whom you killed in the Valley of Elah, is here; it is wrapped in a cloth behind the ephod. If you want, you may take it. For there is no other but this one here.” And David said, “There is none like it; give it to me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.8|<< 1 Samuel 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.10|1 Samuel 21:10 >>]]</td></tr></table>
 
 | Translation | Greek |

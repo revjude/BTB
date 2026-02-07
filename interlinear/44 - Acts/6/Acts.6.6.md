@@ -1,12 +1,12 @@
-**Acts 6:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 6:6**<big><big>[[Acts.6.1 The Choosing of the Seven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whom they set before the apostles: and when they had prayed, they laid [their] hands on them.
 <small><sub>**BSB:**</sub></small>
 They presented these seven to the apostles, who prayed and laid their hands on them.
 <small><sub>**Literal:**</sub></small>
 whom they set before the apostles, and having prayed they laid on them the hands.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.5|<< Acts 6:5]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.7|Acts 6:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom |**<big>[[G3739\|οὓς]]</big>**  |hous <small><sup>[[R-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they set |**<big>[[G2476\|ἔστησαν]]</big>**  |estēsan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

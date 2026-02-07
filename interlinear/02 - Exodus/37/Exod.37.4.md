@@ -1,4 +1,4 @@
-**Exodus 37:4** 
+**Exodus 37:4**<big><big>[[Exod.37.1 Constructing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made staves [of] shittim wood, and overlaid them with gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he made poles of acacia wood and overlaid them with gold.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.3|<< Exodus 37:3]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.5|Exodus 37:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֥עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | poles of  |**<big>&#8207;[[H0905G\|בַּדֵּ֖י]]&#8207; </big>**| ba.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

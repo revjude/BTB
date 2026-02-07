@@ -1,10 +1,7 @@
 **LXX Psalm 119:12** 
 <small><sub>**LXX:**</sub></small>
 Blessed are you, O <span class="smallcaps">lord</span>. Teach me  your ordinances! 
-<small><sub>**KJV:**</sub></small>
-Blessed [art] thou, O LORD: teach me thy statutes.
-<small><sub>**BSB:**</sub></small>
-Blessed are You, O LORD; teach me Your statutes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.11|<< Psalm 119:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.13|Psalm 119:13 >>]]</td></tr></table>
 
 | Translation | Greek |

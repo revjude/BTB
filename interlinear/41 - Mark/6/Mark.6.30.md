@@ -1,12 +1,12 @@
-**Mark 6:30
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:30**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the apostles gathered themselves together unto Jesus, and told him all things, both what they had done, and what they had taught.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, the apostles gathered around Jesus and brought Him news of all they had done and taught.
 <small><sub>**Literal:**</sub></small>
 And are gathered together the apostles to <the> Jesus and they related to him all things and how much they had done and how much they had taught.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.29|<< Mark 6:29]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.31|Mark 6:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are gathered together |**<big>[[G4863\|συνάγονται]]</big>**  |sunagontai <small><sup>[[V-PPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

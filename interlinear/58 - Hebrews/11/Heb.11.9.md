@@ -1,5 +1,5 @@
-**Hebrews 11:9
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:9**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By faith he sojourned in the land of promise, as [in] a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:
 <small><sub>**BSB:**</sub></small>
 By faith he dwelt in the promised land as a stranger in a foreign country. He lived in tents, as did Isaac and Jacob, who were heirs with him of the same promise.
@@ -10,7 +10,7 @@ By faith he sojourned in the land of the promise as [in] a foreign [country] in 
 > $\quad$ alluding to: [[LXX.Gen.12.5|Gen 12:5]] ☩ [[LXX.Gen.27.11|Gen 27:11-12]] ☩ [[LXX.Gen.27.14|Gen 27:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he sojourned |**<big>[[G3939\|παρῴκησεν]]</big>**  |parōkēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Deuteronomy 22:24** 
+**Deuteronomy 22:24**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, [being] in the city; and the man, because he hath humbled his neighbour’s wife: so thou shalt put away evil from among you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ you must take both of them out to the gate of that city and stone them to death�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.23|<< Deuteronomy 22:23]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.25|Deuteronomy 22:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will bring out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318H\|הוֹצֵאתֶ֨ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.tze.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 13:24** 
 <small><sub>**LXX:**</sub></small>
 And  that place they named Ravine of \[the\] Cluster, on account of the cluster of grapes which the sons of Israel beat from there. 
-<small><sub>**KJV:**</sub></small>
-The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence.
-<small><sub>**BSB:**</sub></small>
-Because of the cluster of grapes the Israelites cut there, that place was called the Valley of Eshcol.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.23|<< Numbers 13:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.25|Numbers 13:25 >>]]</td></tr></table>
 
 | Translation | Greek |

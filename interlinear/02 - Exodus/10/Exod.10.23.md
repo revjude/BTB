@@ -1,4 +1,4 @@
-**Exodus 10:23** 
+**Exodus 10:23**<big><big>[[Exod.10.21 The Ninth Plague：Darkness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They saw not one another, neither rose any from his place for three days: but all the children of Israel had light in their dwellings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No one could see anyone else, and for three days no one left his place. Yet all 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.22|<< Exodus 10:22]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.24|Exodus 10:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they saw  |**<big>&#8207;[[H7200G\|רָא֞וּ]]&#8207; </big>**| ra.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

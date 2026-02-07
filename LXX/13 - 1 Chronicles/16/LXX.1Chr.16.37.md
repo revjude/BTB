@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:37** 
 <small><sub>**LXX:**</sub></small>
 And \[was\] left behind there before the ark of \[the\] covenant of \[the\] <span class="smallcaps">lord</span>  Asaph and  his brethren,  to officiate before the ark continually to \[the\] matter, that of the day to its day. 
-<small><sub>**KJV:**</sub></small>
-So he left there before the ark of the covenant of the LORD Asaph and his brethren, to minister before the ark continually, as every day’s work required:
-<small><sub>**BSB:**</sub></small>
-So David left Asaph and his associates there before the ark of the covenant of the LORD, to minister there regularly according to the daily requirements,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.36|<< 1 Chronicles 16:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.38|1 Chronicles 16:38 >>]]</td></tr></table>
 
 | Translation | Greek |

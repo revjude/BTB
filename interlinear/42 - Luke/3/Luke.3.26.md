@@ -1,12 +1,12 @@
-**Luke 3:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 3:26**<big><big>[[Luke.3.23 The Genealogy of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which was [the son] of Maath, which was [the son] of Mattathias, which was [the son] of Semei, which was [the son] of Joseph, which was [the son] of Juda,
 <small><sub>**BSB:**</sub></small>
 the son of Maath, the son of Mattathias, the son of Semein, the son of Josech, the son of Joda,
 <small><sub>**Literal:**</sub></small>
 <the> of Maath <the> of Mattathias <the> of Semein <the> of Josech <the> of Joda<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.25|<< Luke 3:25]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.27|Luke 3:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of Maath |**<big>[[G3092\|Μάαθ]]</big>**  |Maath <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

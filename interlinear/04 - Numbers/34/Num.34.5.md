@@ -1,4 +1,4 @@
-**Numbers 34:5** 
+**Numbers 34:5**<big><big>[[Num.34.1 The Boundaries of Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ where it will turn from Azmon, join the Brook of Egypt, and end at the Sea.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.4|<< Numbers 34:4]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.6|Numbers 34:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will turn  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5437G\|נָסַ֧ב]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Sav<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the border  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1366G\|גְּב֛וּל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

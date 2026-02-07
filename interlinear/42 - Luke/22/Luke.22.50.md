@@ -1,12 +1,12 @@
-**Luke 22:50
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:50**<big><big>[[Luke.22.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And one of them smote the servant of the high priest, and cut off his right ear.
 <small><sub>**BSB:**</sub></small>
 And one of them struck the servant of the high priest, cutting off his right ear.
 <small><sub>**Literal:**</sub></small>
 And struck one a certain of them of the high priest the servant and cut off the ear of him <the> right.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.49|<< Luke 22:49]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.51|Luke 22:51 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | struck |**<big>[[G3960\|ἐπάταξεν]]</big>**  |epataxen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**2 Chronicles 34:10** 
+**2 Chronicles 34:10**<big><big>[[2Chr.34.8 Josiah Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they put [it] in the hand of the workmen that had the oversight of the house of the LORD, and they gave it to the workmen that wrought in the house of the LORD, to repair and amend the house:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They put it into the hands of those supervising the work in the house of the LOR
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.9|<< 2 Chronicles 34:9]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.11|2 Chronicles 34:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gave [it]  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5414G\|יִּתְּנ֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

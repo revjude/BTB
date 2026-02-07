@@ -1,10 +1,7 @@
 **LXX Genesis 49:6** 
 <small><sub>**LXX:**</sub></small>
 not my soul come into their counsel, and not my \[insides\] be established with their joint-conspiracy. For in  their rage they killed men, and in  their passion they hamstrung a bull. 
-<small><sub>**KJV:**</sub></small>
-O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall.
-<small><sub>**BSB:**</sub></small>
-May I never enter their council; may I never join their assembly. For they kill men in their anger, and hamstring oxen on a whim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.5|<< Genesis 49:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.7|Genesis 49:7 >>]]</td></tr></table>
 
 | Translation | Greek |

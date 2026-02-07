@@ -1,12 +1,12 @@
-**John 2:12
-**<small><sub>**KJV:**</sub></small>
+**John 2:12**<big><big>[[John.2.12 Jesus Cleanses the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days.
 <small><sub>**BSB:**</sub></small>
 After this, He went down to Capernaum with His mother and brothers and His disciples, and they stayed there a few days.
 <small><sub>**Literal:**</sub></small>
 After this He went down to Capernaum He himself and the mother of Him and the brothers of Him and the disciples of Him, and there they stayed not many days.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.11|<< John 2:11]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.13|John 2:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

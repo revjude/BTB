@@ -1,10 +1,7 @@
 **LXX Psalm 95:2** 
 <small><sub>**LXX:**</sub></small>
 We should go before  his presence with acknowledgment; and by psalms we should sound aloud to him. 
-<small><sub>**KJV:**</sub></small>
-Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.
-<small><sub>**BSB:**</sub></small>
-Let us enter His presence with thanksgiving; let us make a joyful noise to Him in song.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.95.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.1|<< Psalm 95:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.3|Psalm 95:3 >>]]</td></tr></table>
 
 | Translation | Greek |

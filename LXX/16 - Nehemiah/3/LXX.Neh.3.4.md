@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:4** 
 <small><sub>**LXX:**</sub></small>
 And near their hands Maremoth took control, \[the\] son of Urijah, son of Kos; and near their hand Meshullam took control, son of Barechiah, son of Meshezabeel; and near their hand Zadok took control, son of Baana. 
-<small><sub>**KJV:**</sub></small>
-And next unto them repaired Meremoth the son of Urijah, the son of Koz. And next unto them repaired Meshullam the son of Berechiah, the son of Meshezabeel. And next unto them repaired Zadok the son of Baana.
-<small><sub>**BSB:**</sub></small>
-Next to them, Meremoth son of Uriah, the son of Hakkoz, made repairs. Next to him, Meshullam son of Berechiah, the son of Meshezabel, made repairs; and next to him, Zadok son of Baana made repairs as well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.3|<< Nehemiah 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.5|Nehemiah 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

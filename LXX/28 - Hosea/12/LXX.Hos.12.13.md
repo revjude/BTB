@@ -1,10 +1,7 @@
 **LXX Hosea 12:13** 
 <small><sub>**LXX:**</sub></small>
 And by a prophet \[the\] <span class="smallcaps">lord</span> led  Israel from out of \[the\] land of Egypt, and by a prophet he was guarded. 
-<small><sub>**KJV:**</sub></small>
-And by a prophet the LORD brought Israel out of Egypt, and by a prophet was he preserved.
-<small><sub>**BSB:**</sub></small>
-But by a prophet the LORD brought Israel out of Egypt, and by a prophet he was preserved.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.12.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.12|<< Hosea 12:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.14|Hosea 12:14 >>]]</td></tr></table>
 
 | Translation | Greek |

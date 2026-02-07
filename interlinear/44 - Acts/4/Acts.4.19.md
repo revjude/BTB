@@ -1,12 +1,12 @@
-**Acts 4:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:19**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Peter and John answered and said unto them, Whether it be right in the sight of God to hearken unto you more than unto God, judge ye.
 <small><sub>**BSB:**</sub></small>
 But Peter and John replied, “Judge for yourselves whether it is right in God’s sight to listen to you rather than God.
 <small><sub>**Literal:**</sub></small>
 <the> But Peter and John answering said to them; Whether right it is before <the> God to you to listen rather than <the> God, you should judge.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.18|<< Acts 4:18]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.20|Acts 4:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

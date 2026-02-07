@@ -1,10 +1,7 @@
 **LXX Genesis 43:20** 
 <small><sub>**LXX:**</sub></small>
 saying, We beseech you, O master, we went down in the beginning to buy foods, 
-<small><sub>**KJV:**</sub></small>
-And said, O sir, we came indeed down at the first time to buy food:
-<small><sub>**BSB:**</sub></small>
-“Please, sir,” they said, “we really did come down here the first time to buy food.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.19|<< Genesis 43:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.21|Genesis 43:21 >>]]</td></tr></table>
 
 | Translation | Greek |

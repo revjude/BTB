@@ -1,4 +1,4 @@
-**1 Kings 22:46** (22:47)
+**1 Kings 22:46**<big><big>[[1Kgs.22.41 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the remnant of the sodomites, which remained in the days of his father Asa, he took out of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He banished from the land the male shrine prostitutes who remained from the days
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.45|<< 1 Kings 22:45]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.47|1 Kings 22:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] rest of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3499A\|יֶ֙תֶר֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ye.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cult prostitute[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6945\|קָּדֵ֔שׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ka.Desh<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

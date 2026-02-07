@@ -1,12 +1,12 @@
-**1 Corinthians 9:11
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:11**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If we have sown unto you spiritual things, [is it] a great thing if we shall reap your carnal things?
 <small><sub>**BSB:**</sub></small>
 If we have sown spiritual seed among you, is it too much for us to reap a material harvest from you?
 <small><sub>**Literal:**</sub></small>
 If we ourselves among you <the> spiritual things sowed, [is it] a great thing if we ourselves from you <the> material things will reap?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.10|<< 1 Corinthians 9:10]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.12|1 Corinthians 9:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

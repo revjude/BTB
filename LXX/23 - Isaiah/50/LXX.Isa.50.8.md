@@ -1,10 +1,7 @@
 **LXX Isaiah 50:8** 
 <small><sub>**LXX:**</sub></small>
 For the one justifying me approaches. Who \[is\] the one judging me? Let him oppose me at the same time! Yes, who \[is\] the one judging me? Let him approach to me! 
-<small><sub>**KJV:**</sub></small>
-[He is] near that justifieth me; who will contend with me? let us stand together: who [is] mine adversary? let him come near to me.
-<small><sub>**BSB:**</sub></small>
-The One who vindicates Me is near. Who will dare to contend with Me? Let us confront each other! Who has a case against Me? Let him approach Me!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.50.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.7|<< Isaiah 50:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.50.9|Isaiah 50:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 26:20** 
 <small><sub>**LXX:**</sub></small>
 And Azariah the foremost priest turned unto him, and the priests, and behold, he \[was\] leprous in the forehead. And they hastened him from there, for even he himself hastened to come forth, for the <span class="smallcaps">lord</span> reproved him. 
-<small><sub>**KJV:**</sub></small>
-And Azariah the chief priest, and all the priests, looked upon him, and, behold, he [was] leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the LORD had smitten him.
-<small><sub>**BSB:**</sub></small>
-When Azariah the chief priest and all the priests turned to him and saw his leprous forehead, they rushed him out. Indeed, he himself hurried to get out, because the LORD had afflicted him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.26.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.19|<< 2 Chronicles 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.21|2 Chronicles 26:21 >>]]</td></tr></table>
 
 | Translation | Greek |

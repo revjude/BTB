@@ -1,10 +1,7 @@
 **LXX Genesis 31:23** 
 <small><sub>**LXX:**</sub></small>
 And taking all the ones of his brethren with himself, he pursued after him seven days journey. And he overtook him in the mountain of Gilead. 
-<small><sub>**KJV:**</sub></small>
-And he took his brethren with him, and pursued after him seven days’ journey; and they overtook him in the mount Gilead.
-<small><sub>**BSB:**</sub></small>
-So he took his relatives with him, pursued Jacob for seven days, and overtook him in the hill country of Gilead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.22|<< Genesis 31:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.24|Genesis 31:24 >>]]</td></tr></table>
 
 | Translation | Greek |

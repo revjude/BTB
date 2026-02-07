@@ -1,12 +1,12 @@
-**Matthew 10:30
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:30**<big><big>[[Matt.10.26 Fear God Alone|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the very hairs of your head are all numbered.
 <small><sub>**BSB:**</sub></small>
 And even the very hairs of your head are all numbered.
 <small><sub>**Literal:**</sub></small>
 Of you now even the hairs of the head all numbered are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.29|<< Matthew 10:29]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.31|Matthew 10:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of you |**<big>[[G4771\|ὑμῶν]]</big>**  |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

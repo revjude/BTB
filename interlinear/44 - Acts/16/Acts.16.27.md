@@ -1,12 +1,12 @@
-**Acts 16:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:27**<big><big>[[Acts.16.25 The Conversion of the Jailer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled.
 <small><sub>**BSB:**</sub></small>
 When the jailer woke up and saw the prison doors open, he drew his sword and was about to kill himself, presuming that the prisoners had escaped.
 <small><sub>**Literal:**</sub></small>
 Awoken then having been the jailer and was seeing having opened the doors of the prison, having drawn <the> [his] sword he was about himself to execute supposing to have escaped the prisoners.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.26|<< Acts 16:26]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.28|Acts 16:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Awoken |**<big>[[G1853\|ἔξυπνος]]</big>**  |exupnos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

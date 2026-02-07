@@ -1,4 +1,4 @@
-**Esther 1:8** 
+**Esther 1:8**<big><big>[[Esth.1.1 Xerxes’ Royal Feast|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the drinking [was] according to the law; none did compel: for so the king had appointed to all the officers of his house, that they should do according to every man’s pleasure.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By order of the king, no limit was placed on the drinking, and every official of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.7|<< Esther 1:7]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.9|Esther 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the drinking  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8360\|שְּׁתִיָּ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> she.ti.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] according to the law  |**<big>&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H1881\|דָּ֖ת]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> Dat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

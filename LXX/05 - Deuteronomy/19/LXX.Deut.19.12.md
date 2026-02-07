@@ -1,10 +1,7 @@
 **LXX Deuteronomy 19:12** 
 <small><sub>**LXX:**</sub></small>
 then they shall send the council of elders  of his city, and they shall take him from there, and shall deliver him into \[the\] hands to the one acting as next of kin  for blood, and he shall die. 
-<small><sub>**KJV:**</sub></small>
-Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.
-<small><sub>**BSB:**</sub></small>
-the elders of his city must send for him, bring him back, and hand him over to the avenger of blood to die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.11|<< Deuteronomy 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.13|Deuteronomy 19:13 >>]]</td></tr></table>
 
 | Translation | Greek |

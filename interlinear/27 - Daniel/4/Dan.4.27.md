@@ -1,4 +1,4 @@
-**Daniel 4:27** (4:24)
+**Daniel 4:27**<big><big>[[Dan.4.19 Daniel Interprets the Second Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore, O king, let my counsel be acceptable unto thee, and break off thy sins by righteousness, and thine iniquities by shewing mercy to the poor; if it may be a lengthening of thy tranquillity.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Therefore, may my advice be pleasing to you, O king. Break away from your sins b
 > $\quad$ referenced by: [[Rev.14.8|Rev 14:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | therefore  |**<big>&#8207;[[H2006B\|לָהֵ֣ן]]&#8207; </big>**| la.Hen<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | king O  |**<big>&#8207;[[H4430\|מַלְכָּ֗]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

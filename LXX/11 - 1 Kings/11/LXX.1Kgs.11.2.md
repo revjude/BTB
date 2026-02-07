@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:2** 
 <small><sub>**LXX:**</sub></small>
 of the nations which \[the\] <span class="smallcaps">lord</span> forbade to the sons of Israel, saying, You shall not enter to them, and they shall not enter to you; that they should not turn aside  your hearts after  their idols -- for of them Solomon cleaved  to love. 
-<small><sub>**KJV:**</sub></small>
-Of the nations [concerning] which the LORD said unto the children of Israel, Ye shall not go in to them, neither shall they come in unto you: [for] surely they will turn away your heart after their gods: Solomon clave unto these in love.
-<small><sub>**BSB:**</sub></small>
-These women were from the nations about which the LORD had told the Israelites, “You must not intermarry with them, for surely they will turn your hearts after their gods.” Yet Solomon clung to these women in love.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.1|<< 1 Kings 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.3|1 Kings 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

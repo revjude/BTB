@@ -1,4 +1,4 @@
-**2 Chronicles 18:4** 
+**2 Chronicles 18:4**<big><big>[[2Chr.18.1 Jehoshaphat Allies with Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoshaphat said unto the king of Israel, Inquire, I pray thee, at the word of the LORD to day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Jehoshaphat also said to the king of Israel, “Please inquire first for the
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.3|<< 2 Chronicles 18:3]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.5|2 Chronicles 18:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoshaphat  |**<big>&#8207;[[H3092I\|יְהוֹשָׁפָ֖ט]]&#8207; </big>**| ye.ho.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

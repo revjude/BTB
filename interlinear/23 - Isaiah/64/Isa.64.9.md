@@ -1,4 +1,4 @@
-**Isaiah 64:9** (64:8)
+**Isaiah 64:9**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not wroth very sore, O LORD, neither remember iniquity for ever: behold, see, we beseech thee, we [are] all thy people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not be angry, O LORD, beyond measure; do not remember our iniquity forever. O
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.8|<< Isaiah 64:8]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.10|Isaiah 64:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you be angry  |**<big>&#8207;[[H7107\|תִּקְצֹ֤ף]]&#8207; </big>**| tik.Tzof<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

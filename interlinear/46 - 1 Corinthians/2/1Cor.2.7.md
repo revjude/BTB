@@ -1,12 +1,12 @@
-**1 Corinthians 2:7
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 2:7**<big><big>[[1Cor.2.6 Spiritual Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But we speak the wisdom of God in a mystery, [even] the hidden [wisdom], which God ordained before the world unto our glory:
 <small><sub>**BSB:**</sub></small>
 No, we speak of the mysterious and hidden wisdom of God, which He destined for our glory before time began.
 <small><sub>**Literal:**</sub></small>
 But we speak of God wisdom in a mystery which hidden, which foreordained <the> God before the ages for glory of us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.6|<< 1 Corinthians 2:6]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.8|1 Corinthians 2:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we speak |**<big>[[G2980\|λαλοῦμεν]]</big>**  |laloumen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

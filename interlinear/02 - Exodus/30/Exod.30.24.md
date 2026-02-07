@@ -1,4 +1,4 @@
-**Exodus 30:24** 
+**Exodus 30:24**<big><big>[[Exod.30.22 The Anointing Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of cassia five hundred [shekels], after the shekel of the sanctuary, and of oil olive an hin:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And of cassia five hundred [shekels], after the shekel of the sanctuary, and of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.23|<< Exodus 30:23]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.25|Exodus 30:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and cassia  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6916\|קִדָּ֕ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ki.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | five  |**<big>&#8207;[[H2568\|חֲמֵ֥שׁ]]&#8207; </big>**| cha.Mesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

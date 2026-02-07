@@ -1,12 +1,12 @@
-**Acts 28:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:25**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spake the Holy Ghost by Esaias the prophet unto our fathers,
 <small><sub>**BSB:**</sub></small>
 They disagreed among themselves and began to leave after Paul had made this final statement: “The Holy Spirit was right when He spoke to your fathers through Isaiah the prophet:
 <small><sub>**Literal:**</sub></small>
 Discordant then being with one another they were leaving when was speaking <the> Paul declaration one that Rightly the Spirit <the> Holy spoke through Isaiah the prophet to the fathers of you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.24|<< Acts 28:24]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.26|Acts 28:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Discordant |**<big>[[G0800\|ἀσύμφωνοι]]</big>**  |asumphōnoi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

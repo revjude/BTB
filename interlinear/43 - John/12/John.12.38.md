@@ -1,5 +1,5 @@
-**John 12:38
-**<small><sub>**KJV:**</sub></small>
+**John 12:38**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That the saying of Esaias the prophet might be fulfilled, which he spake, Lord, who hath believed our report? and to whom hath the arm of the Lord been revealed?
 <small><sub>**BSB:**</sub></small>
 This was to fulfill the word of Isaiah the prophet: “Lord, who has believed our message? And to whom has the arm of the Lord been revealed?”
@@ -10,7 +10,7 @@ so that the word of Isaiah the prophet may be fulfilled that said: Lord, who has
 > $\quad$ referencing: [[LXX.Isa.53.1|Isa 53:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

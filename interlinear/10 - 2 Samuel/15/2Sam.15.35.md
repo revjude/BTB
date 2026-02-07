@@ -1,4 +1,4 @@
-**2 Samuel 15:35** 
+**2 Samuel 15:35**<big><big>[[2Sam.15.30 David Weeps at the Mount of Olives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [hast thou] not there with thee Zadok and Abiathar the priests? therefore it shall be, [that] what thing soever thou shalt hear out of the king’s house, thou shalt tell [it] to Zadok and Abiathar the priests.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will not Zadok and Abiathar the priests be there with you? Report to them everyt
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.34|<< 2 Samuel 15:34]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.36|2 Samuel 15:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and ¿ not  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֤וֹא]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with you  |**<big>&#8207;[[H5973A\|עִמְּ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| 'i.me.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

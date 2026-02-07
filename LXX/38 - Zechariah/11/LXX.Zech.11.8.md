@@ -1,10 +1,7 @@
 **LXX Zechariah 11:8** 
 <small><sub>**LXX:**</sub></small>
 And I will lift away the three shepherds in one month; and my soul shall be weighed down over them, for  their souls roared against me. 
-<small><sub>**KJV:**</sub></small>
-Three shepherds also I cut off in one month; and my soul lothed them, and their soul also abhorred me.
-<small><sub>**BSB:**</sub></small>
-And in one month I dismissed three shepherds. My soul grew impatient with the flock, and their souls also detested me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.7|<< Zechariah 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.9|Zechariah 11:9 >>]]</td></tr></table>
 
 | Translation | Greek |

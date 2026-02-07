@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:13** 
 <small><sub>**LXX:**</sub></small>
 And the woman said, Why have you imputed thus upon \[the\] people of God? Yes, by  the king speaking  this word \[it is\] as a trespass,  for the king to not return the one being thrust away by him. 
-<small><sub>**KJV:**</sub></small>
-And the woman said, Wherefore then hast thou thought such a thing against the people of God? for the king doth speak this thing as one which is faulty, in that the king doth not fetch home again his banished.
-<small><sub>**BSB:**</sub></small>
-The woman asked, “Why have you devised a thing like this against the people of God? When the king says this, does he not convict himself, since he has not brought back his own banished son?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.12|<< 2 Samuel 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.14|2 Samuel 14:14 >>]]</td></tr></table>
 
 | Translation | Greek |

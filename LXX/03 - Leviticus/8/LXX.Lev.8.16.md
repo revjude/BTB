@@ -1,10 +1,7 @@
 **LXX Leviticus 8:16** 
 <small><sub>**LXX:**</sub></small>
 And Moses took all the fat  upon the entrails, and the lobe  upon the liver, and both of the kidneys, and the fat  upon them; and Moses offered them upon the altar. 
-<small><sub>**KJV:**</sub></small>
-And he took all the fat that [was] upon the inwards, and the caul [above] the liver, and the two kidneys, and their fat, and Moses burned [it] upon the altar.
-<small><sub>**BSB:**</sub></small>
-Moses also took all the fat that was on the entrails, the lobe of the liver, and both kidneys and their fat, and burned it all on the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.15|<< Leviticus 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.17|Leviticus 8:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 150:3** 
 <small><sub>**LXX:**</sub></small>
 Praise him with a sound of a trumpet! Praise him with a psaltery and harp! 
-<small><sub>**KJV:**</sub></small>
-Praise him with the sound of the trumpet: praise him with the psaltery and harp.
-<small><sub>**BSB:**</sub></small>
-Praise Him with the sound of the horn; praise Him with the harp and lyre.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.150.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.150.2|<< Psalm 150:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.150.4|Psalm 150:4 >>]]</td></tr></table>
 
 | Translation | Greek |

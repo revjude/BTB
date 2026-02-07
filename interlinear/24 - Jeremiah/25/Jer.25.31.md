@@ -1,4 +1,4 @@
-**Jeremiah 25:31** 
+**Jeremiah 25:31**<big><big>[[Jer.25.15 The Cup of God’s Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A noise shall come [even] to the ends of the earth; for the LORD hath a controversy with the nations, he will plead with all flesh; he will give them [that are] wicked to the sword, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The tumult will resound to the ends of the earth because the LORD brings a charg
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.30|<< Jeremiah 25:30]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.32|Jeremiah 25:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has come  |**<big>&#8207;[[H0935G\|בָּ֤א]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an uproar  |**<big>&#8207;[[H7588\|שָׁאוֹן֙]]&#8207; </big>**| sha.'On<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

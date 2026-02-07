@@ -1,10 +1,7 @@
 **LXX Proverbs 13:12** 
 <small><sub>**LXX:**</sub></small>
 Better \[is the\] one commencing help in heart, \[than\] the one promising, and leads \[another\] to hope; for a good desire \[is\] a tree of life. 
-<small><sub>**KJV:**</sub></small>
-Hope deferred maketh the heart sick: but [when] the desire cometh, [it is] a tree of life.
-<small><sub>**BSB:**</sub></small>
-Hope deferred makes the heart sick, but desire fulfilled is a tree of life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.11|<< Proverbs 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.13|Proverbs 13:13 >>]]</td></tr></table>
 
 | Translation | Greek |

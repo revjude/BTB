@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:29** 
 <small><sub>**LXX:**</sub></small>
 And the king said to him, Why do you still speak  your words? I said, You and Ziba divide the field! 
-<small><sub>**KJV:**</sub></small>
-And the king said unto him, Why speakest thou any more of thy matters? I have said, Thou and Ziba divide the land.
-<small><sub>**BSB:**</sub></small>
-The king replied, “Why say any more? I hereby declare that you and Ziba are to divide the land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.28|<< 2 Samuel 19:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.30|2 Samuel 19:30 >>]]</td></tr></table>
 
 | Translation | Greek |

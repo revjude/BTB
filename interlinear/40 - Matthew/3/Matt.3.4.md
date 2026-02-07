@@ -1,12 +1,12 @@
-**Matthew 3:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 3:4**<big><big>[[Matt.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the same John had his raiment of camel’s hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.
 <small><sub>**BSB:**</sub></small>
 John wore a garment of camel’s hair, with a leather belt around his waist. His food was locusts and wild honey.
 <small><sub>**Literal:**</sub></small>
 Himself now <the> John was having the garment of him of hair of a camel and a belt of leather around the waist of him; <the> and [the] food was of him locusts and honey wild.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.3|<< Matthew 3:3]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.5|Matthew 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Himself |**<big>[[G0846\|Αὐτὸς]]</big>**  |Autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

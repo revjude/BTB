@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:7** 
 <small><sub>**LXX:**</sub></small>
 And I went unto the Euphrates, and I dug, and I took the loincloth from out of the place where I hid it there. And behold, it was ruined, which in no way should it be used for anything. 
-<small><sub>**KJV:**</sub></small>
-Then I went to Euphrates, and digged, and took the girdle from the place where I had hid it: and, behold, the girdle was marred, it was profitable for nothing.
-<small><sub>**BSB:**</sub></small>
-So I went to Perath and dug up the loincloth, and I took it from the place where I had hidden it. But now it was ruined—of no use at all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.6|<< Jeremiah 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.8|Jeremiah 13:8 >>]]</td></tr></table>
 
 | Translation | Greek |

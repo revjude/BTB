@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 10:10** 
 <small><sub>**LXX:**</sub></small>
 If an iron implement should fall off, and he is disturbed in countenance, then he shall strengthen \[his\] power, and abundance \[is\] to the man of which \[is\] wisdom. 
-<small><sub>**KJV:**</sub></small>
-If the iron be blunt, and he do not whet the edge, then must he put to more strength: but wisdom [is] profitable to direct.
-<small><sub>**BSB:**</sub></small>
-If the axe is dull and the blade unsharpened, more strength must be exerted, but skill produces success.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.9|<< Ecclesiastes 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.11|Ecclesiastes 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

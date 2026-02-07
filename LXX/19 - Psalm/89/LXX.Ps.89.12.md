@@ -1,10 +1,7 @@
 **LXX Psalm 89:12** 
 <small><sub>**LXX:**</sub></small>
 The north and \[the\] west you created. Tabor and Hermon shall exult in your name. 
-<small><sub>**KJV:**</sub></small>
-The north and the south thou hast created them: Tabor and Hermon shall rejoice in thy name.
-<small><sub>**BSB:**</sub></small>
-North and south You created; Tabor and Hermon shout for joy at Your name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.11|<< Psalm 89:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.13|Psalm 89:13 >>]]</td></tr></table>
 
 | Translation | Greek |

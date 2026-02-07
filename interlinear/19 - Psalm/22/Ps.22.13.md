@@ -1,4 +1,4 @@
-**Psalms 22:13** (22:14)
+**Psalms 22:13**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They gaped upon me [with] their mouths, [as] a ravening and a roaring lion.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They open their jaws against me like lions that roar and maul.
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]] ☩ [[1Pet.5.8|1Pet 5:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have opened  |**<big>&#8207;[[H6475\|פָּצ֣וּ]]&#8207; </big>**| pa.Tzu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on me  |**<big>&#8207;[[H5921A\|עָלַ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

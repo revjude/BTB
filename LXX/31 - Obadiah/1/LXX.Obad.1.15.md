@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 For the day \[of the\] <span class="smallcaps">lord</span> \[is\] near upon all the nations. In which manner you did, so it will be to you.  Your recompense shall be recompensed unto your head. 
-<small><sub>**KJV:**</sub></small>
-For the day of the LORD [is] near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.
-<small><sub>**BSB:**</sub></small>
-For the Day of the LORD is near for all the nations. As you have done, it will be done to you; your recompense will return upon your own head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Obad.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.14|<< Obadiah 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.16|Obadiah 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

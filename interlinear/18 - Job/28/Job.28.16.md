@@ -1,4 +1,4 @@
-**Job 28:16** 
+**Job 28:16**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It cannot be valued in the gold of Ophir, in precious onyx or sapphire.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.15|<< Job 28:15]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.17|Job 28:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be paid  |**<big>&#8207;[[H5541B\|תְ֭סֻלֶּה]]&#8207; </big>**| Te.su.leh<small><sup>[[HVPi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

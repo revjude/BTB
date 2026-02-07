@@ -1,10 +1,7 @@
 **LXX Judges 6:19** 
 <small><sub>**LXX:**</sub></small>
 And Gideon entered and prepared a kid of \[the\] goats, and an ephah of unleavened flour, and he put the meats upon the bin, and the broth he poured into an earthen pot, and he brought \[it\] to him under the oak, and did obeisance. 
-<small><sub>**KJV:**</sub></small>
-And Gideon went in, and made ready a kid, and unleavened cakes of an ephah of flour: the flesh he put in a basket, and he put the broth in a pot, and brought [it] out unto him under the oak, and presented [it].
-<small><sub>**BSB:**</sub></small>
-So Gideon went in and prepared a young goat and unleavened bread and an ephah of flour. He placed the meat in a basket and the broth in a pot and brought them out to present to Him under the oak.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.18|<< Judges 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.20|Judges 6:20 >>]]</td></tr></table>
 
 | Translation | Greek |

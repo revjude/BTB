@@ -1,4 +1,4 @@
-**Leviticus 6:5** (5:24)
+**Leviticus 6:5**<big><big>[[Lev.6.1 Sins Requiring a Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or all that about which he hath sworn falsely; he shall even restore it in the principal, and shall add the fifth part more thereto, [and] give it unto him to whom it appertaineth, in the day of his trespass offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ or anything else about which he has sworn falsely. He must make restitution in f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.4|<< Leviticus 6:4]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.6|Leviticus 6:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or  |**<big>&#8207;[[H0176A\|א֠וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | any of all  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כֹּ֞ל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

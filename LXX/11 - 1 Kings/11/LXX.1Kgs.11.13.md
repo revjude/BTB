@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:13** 
 <small><sub>**LXX:**</sub></small>
 Except \[the\] entire  kingdom in no way shall I take. One chiefdom I will give \[to\] your son because of David  my servant, and because of Jerusalem the city which I chose. 
-<small><sub>**KJV:**</sub></small>
-Howbeit I will not rend away all the kingdom; [but] will give one tribe to thy son for David my servant’s sake, and for Jerusalem’s sake which I have chosen.
-<small><sub>**BSB:**</sub></small>
-Yet I will not tear the whole kingdom away from him. I will give one tribe to your son for the sake of My servant David and for the sake of Jerusalem, which I have chosen.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.12|<< 1 Kings 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.14|1 Kings 11:14 >>]]</td></tr></table>
 
 | Translation | Greek |

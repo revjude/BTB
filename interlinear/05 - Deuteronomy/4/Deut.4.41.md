@@ -1,4 +1,4 @@
-**Deuteronomy 4:41** 
+**Deuteronomy 4:41**<big><big>[[Deut.4.41 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Moses severed three cities on this side Jordan toward the sunrising;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Moses set aside three cities across the Jordan to the east
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.40|<< Deuteronomy 4:40]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.42|Deuteronomy 4:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he set apart  |**<big>&#8207;[[H0914\|יַבְדִּ֤יל]]&#8207; </big>**| yav.Dil<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel grumbled the next day against Moses and Aaron, saying, You have killed the people of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But on the morrow all the congregation of the children of Israel murmured against Moses and against Aaron, saying, Ye have killed the people of the LORD.
-<small><sub>**BSB:**</sub></small>
-The next day the whole congregation of Israel grumbled against Moses and Aaron, saying, “You have killed the LORD’s people!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.40|<< Numbers 16:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.42|Numbers 16:42 >>]]</td></tr></table>
 
 | Translation | Greek |

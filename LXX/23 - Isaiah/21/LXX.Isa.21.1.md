@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The vision of the wilderness. As a blast might go through a wilderness, from out of \[the\] wilderness coming from land; 
-<small><sub>**KJV:**</sub></small>
-The burden of the desert of the sea. As whirlwinds in the south pass through; [so] it cometh from the desert, from a terrible land.
-<small><sub>**BSB:**</sub></small>
-This is the burden against the Desert by the Sea: Like whirlwinds sweeping through the Negev, an invader comes from the desert, from a land of terror.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.20.6|<< Isaiah 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.2|Isaiah 21:2 >>]]</td></tr></table>
 
 | Translation | Greek |

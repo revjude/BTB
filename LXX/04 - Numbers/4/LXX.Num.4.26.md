@@ -1,10 +1,7 @@
 **LXX Numbers 4:26** 
 <small><sub>**LXX:**</sub></small>
 And the shrouds of the courtyard, and the overcovering of the door of the courtyard, as many as are upon the tent, and upon the altar, and  their extras, and all the items  of their ministries. And as many as they officiate with them they shall prepare. 
-<small><sub>**KJV:**</sub></small>
-And the hangings of the court, and the hanging for the door of the gate of the court, which [is] by the tabernacle and by the altar round about, and their cords, and all the instruments of their service, and all that is made for them: so shall they serve.
-<small><sub>**BSB:**</sub></small>
-the curtains of the courtyard, and the curtains for the entrance at the gate of the courtyard that surrounds the tabernacle and altar, along with their ropes and all the equipment for their service. The Gershonites will do all that needs to be done with these items.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.25|<< Numbers 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.27|Numbers 4:27 >>]]</td></tr></table>
 
 | Translation | Greek |

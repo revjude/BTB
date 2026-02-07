@@ -1,10 +1,7 @@
 **LXX Esther 3:8** 
 <small><sub>**LXX:**</sub></small>
 And he spoke to  king Artaxerxes, saying, \[There\] exists a nation having been disseminated among the nations in all  your kingdom,  but their laws are special from all the nations; and of the laws of the king they disregard, and it is not advantageous to the king to allow them. 
-<small><sub>**KJV:**</sub></small>
-And Haman said unto king Ahasuerus, There is a certain people scattered abroad and dispersed among the people in all the provinces of thy kingdom; and their laws [are] diverse from all people; neither keep they the king’s laws: therefore it [is] not for the king’s profit to suffer them.
-<small><sub>**BSB:**</sub></small>
-Then Haman informed King Xerxes, “There is a certain people scattered and dispersed among the peoples of every province of your kingdom. Their laws are different from everyone else’s, and they do not obey the king’s laws. So it is not in the king’s best interest to tolerate them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.7|<< Esther 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.9|Esther 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

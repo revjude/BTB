@@ -1,12 +1,12 @@
-**2 Corinthians 10:6
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 10:6**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And having in a readiness to revenge all disobedience, when your obedience is fulfilled.
 <small><sub>**BSB:**</sub></small>
 And we will be ready to punish every act of disobedience, as soon as your obedience is complete.
 <small><sub>**Literal:**</sub></small>
 and in readiness having to avenge all disobedience, when may have been fulfilled your <the> obedience.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.5|<< 2 Corinthians 10:5]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.7|2 Corinthians 10:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

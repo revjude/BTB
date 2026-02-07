@@ -1,10 +1,7 @@
 **LXX Jeremiah 10:22** 
 <small><sub>**LXX:**</sub></small>
 Behold there comes a sound of a report, and a great quake from out of \[the\] land of \[the\] north,  to order the cities of Judah for extinction, and a bed for ostriches. 
-<small><sub>**KJV:**</sub></small>
-Behold, the noise of the bruit is come, and a great commotion out of the north country, to make the cities of Judah desolate, [and] a den of dragons.
-<small><sub>**BSB:**</sub></small>
-Listen! The sound of a report is coming—a great commotion from the land to the north. It will make the cities of Judah a desolation, a haunt for jackals.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.10.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.21|<< Jeremiah 10:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.23|Jeremiah 10:23 >>]]</td></tr></table>
 
 | Translation | Greek |

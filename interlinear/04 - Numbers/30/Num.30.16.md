@@ -1,4 +1,4 @@
-**Numbers 30:16** (30:17)
+**Numbers 30:16**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the statutes, which the LORD commanded Moses, between a man and his wife, between the father and his daughter, [being yet] in her youth in her father’s house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the statutes that the LORD commanded Moses concerning the relationship
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.15|<< Numbers 30:15]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.1|Numbers 31:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] the statutes  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2706G\|חֻקִּ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chu.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

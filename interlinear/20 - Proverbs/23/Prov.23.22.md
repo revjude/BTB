@@ -1,4 +1,4 @@
-**Proverbs 23:22** 
+**Proverbs 23:22**<big><big>[[Prov.23.22 Saying 17|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hearken unto thy father that begat thee, and despise not thy mother when she is old.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen to your father who gave you life, and do not despise your mother when she
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.21|<< Proverbs 23:21]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.23|Proverbs 23:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | listen  |**<big>&#8207;[[H8085G\|שְׁמַ֣ע]]&#8207; </big>**| she.Ma'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to father your  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H0001G\|אָבִי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> 'a.vi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

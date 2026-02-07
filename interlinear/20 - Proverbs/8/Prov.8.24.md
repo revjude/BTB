@@ -1,4 +1,4 @@
-**Proverbs 8:24** 
+**Proverbs 8:24**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When [there were] no depths, I was brought forth; when [there were] no fountains abounding with water.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When there were no watery depths, I was brought forth, when no springs were over
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.23|<< Proverbs 8:23]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.25|Proverbs 8:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when there not  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0369\|אֵין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] deeps  |**<big>&#8207;[[H8415\|תְּהֹמ֥וֹת]]&#8207; </big>**| te.ho.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 34:1** 
+**Isaiah 34:1**<big><big>[[Isa.34.1 Judgment on the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come near, ye nations, to hear; and hearken, ye people: let the earth hear, and all that is therein; the world, and all things that come forth of it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come near, O nations, to listen; pay attention, O peoples. Let the earth hear, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.24|<< Isaiah 33:24]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.2|Isaiah 34:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | draw near  |**<big>&#8207;[[H7126G\|קִרְב֤וּ]]&#8207; </big>**| kir.Vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O nations  |**<big>&#8207;[[H1471A\|גוֹיִם֙]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

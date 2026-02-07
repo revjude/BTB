@@ -1,4 +1,4 @@
-**1 Kings 8:63** 
+**1 Kings 8:63**<big><big>[[1Kgs.8.62 Sacrifices of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon offered a sacrifice of peace offerings, which he offered unto the LORD, two and twenty thousand oxen, and an hundred and twenty thousand sheep. So the king and all the children of Israel dedicated the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Solomon offered as peace offerings to the LORD 22,000 oxen and 120,000 sheep
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.63|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.62|<< 1 Kings 8:62]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.64|1 Kings 8:64 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sacrificed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2076\|יִּזְבַּ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.Bach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֗ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

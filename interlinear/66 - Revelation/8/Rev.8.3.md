@@ -1,5 +1,5 @@
-**Revelation 8:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 8:3**<big><big>[[Rev.8.1 The Seventh Seal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And another angel came and stood at the altar, having a golden censer; and there was given unto him much incense, that he should offer [it] with the prayers of all saints upon the golden altar which was before the throne.
 <small><sub>**BSB:**</sub></small>
 Then another angel, who had a golden censer, came and stood at the altar. He was given much incense to offer, along with the prayers of all the saints, on the golden altar before the throne.
@@ -11,7 +11,7 @@ And another angel came and he stood at the altar having a censer golden. and was
 > $\quad$ alluding to: [[LXX.Lev.16.12|Lev 16:12]] ☩ [[LXX.Ps.141.2|Ps 141:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | another |**<big>[[G0243\|ἄλλος]]</big>**  |allos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

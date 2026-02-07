@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:37** 
 <small><sub>**LXX:**</sub></small>
 And he finds another man, and he said, Strike indeed me! And the man struck him, and striking he broke \[him\]. 
-<small><sub>**KJV:**</sub></small>
-Then he found another man, and said, Smite me, I pray thee. And the man smote him, so that in smiting he wounded [him].
-<small><sub>**BSB:**</sub></small>
-Then the prophet found another man and said, “Strike me, please!” So the man struck him and wounded him,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.36|<< 1 Kings 20:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.38|1 Kings 20:38 >>]]</td></tr></table>
 
 | Translation | Greek |

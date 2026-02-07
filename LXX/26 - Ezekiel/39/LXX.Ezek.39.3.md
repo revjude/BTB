@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:3** 
 <small><sub>**LXX:**</sub></small>
 And I will destroy  your bow from  your left hand, and  your arrows from  your right hand. 
-<small><sub>**KJV:**</sub></small>
-And I will smite thy bow out of thy left hand, and will cause thine arrows to fall out of thy right hand.
-<small><sub>**BSB:**</sub></small>
-Then I will strike the bow from your left hand and dash down the arrows from your right hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.2|<< Ezekiel 39:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.4|Ezekiel 39:4 >>]]</td></tr></table>
 
 | Translation | Greek |

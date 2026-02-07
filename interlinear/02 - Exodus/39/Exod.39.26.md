@@ -1,4 +1,4 @@
-**Exodus 39:26** 
+**Exodus 39:26**<big><big>[[Exod.39.22 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A bell and a pomegranate, a bell and a pomegranate, round about the hem of the robe to minister [in]; as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ alternating the bells and pomegranates around the lower hem of the robe to be wo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.25|<< Exodus 39:25]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.27|Exodus 39:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a bell  |**<big>&#8207;[[H6472\|פַּעֲמֹ֤ן]]&#8207; </big>**| pa.'a.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and a pomegranate  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7416\|רִמֹּן֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ri.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

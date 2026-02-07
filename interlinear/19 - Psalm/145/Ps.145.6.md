@@ -1,4 +1,4 @@
-**Psalms 145:6** 
+**Psalms 145:6**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [men] shall speak of the might of thy terrible acts: and I will declare thy greatness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will proclaim the power of Your awesome deeds, and I will declare Your grea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.5|<< Psalms 145:5]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.7|Psalms 145:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] might of  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H5807\|עֱז֣וּז]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Zuz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | awesome [deeds] your  |**<big>&#8207;[[H3372H\|נוֹרְאֹתֶ֣י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| nor.'o.Tei.<small><sup>[[HVNrfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 44:25** 
+**Isaiah 44:25**<big><big>[[Isa.44.21 Jerusalem to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That frustrateth the tokens of the liars, and maketh diviners mad; that turneth wise [men] backward, and maketh their knowledge foolish;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ who foils the signs of false prophets and makes fools of diviners, who confounds
 > $\quad$ referenced by: [[1Cor.1.20|1Cor 1:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [who] frustrates  |**<big>&#8207;[[H6565A\|מֵפֵר֙]]&#8207; </big>**| me.Fer<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] signs of  |**<big>&#8207;[[H0226H\|אֹת֣וֹת]]&#8207; </big>**| 'o.Tot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 43:3** 
+**Psalms 43:3**<big><big>[[Ps.43.1 Send Out Your Light|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Send out Your light and Your truth; let them lead me. Let them bring me to Your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.43.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.43.2|<< Psalms 43:2]]</td><td align="center" style="border:none;">[[Ps.43|Psalms 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.43.4|Psalms 43:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | send  |**<big>&#8207;[[H7971G\|שְׁלַח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.lach-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | light your  |**<big>&#8207;[[H0216\|אוֹרְ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| 'or.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

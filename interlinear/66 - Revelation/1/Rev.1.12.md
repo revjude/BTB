@@ -1,5 +1,5 @@
-**Revelation 1:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:12**<big><big>[[Rev.1.9 John’s Vision on Patmos|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I turned to see the voice that spake with me. And being turned, I saw seven golden candlesticks;
 <small><sub>**BSB:**</sub></small>
 Then I turned to see the voice that was speaking with me. And having turned, I saw seven golden lampstands,
@@ -10,7 +10,7 @@ And there I turned to see the voice that was speaking with me. And having turned
 > $\quad$ possibly alluding to: [[LXX.Zech.4.2|Zech 4:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | there [^1] |**<big>[[G1563\|ἐκεῖ]]</big>**  |ekei <small><sup>[[ADV]]</sup></small> | <abbr title="Byz">O</abbr> | |

@@ -1,4 +1,4 @@
-**2 Chronicles 34:33** 
+**2 Chronicles 34:33**<big><big>[[2Chr.34.29 Josiah Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Josiah took away all the abominations out of all the countries that [pertained] to the children of Israel, and made all that were present in Israel to serve, [even] to serve the LORD their God. [And] all his days they departed not from following the LORD, the God of their fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Josiah removed all the abominations from all the lands belonging to the Isra
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.32|<< 2 Chronicles 34:32]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.1|2 Chronicles 35:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he removed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5493G\|יָּ֨סַר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.sar<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Josiah  |**<big>&#8207;[[H2977G\|יֹֽאשִׁיָּ֜הוּ]]&#8207; </big>**| yo.shi.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

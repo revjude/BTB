@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:42** 
 <small><sub>**LXX:**</sub></small>
 For thus said \[the\] <span class="smallcaps">lord</span>, As I brought upon  this people all  these great bad \[things\], so I will bring upon them all the good \[things\] which I spoke unto them. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD; Like as I have brought all this great evil upon this people, so will I bring upon them all the good that I have promised them.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD says: Just as I have brought all this great disaster on this people, so I will bring on them all the good I have promised them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.41|<< Jeremiah 32:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.43|Jeremiah 32:43 >>]]</td></tr></table>
 
 | Translation | Greek |

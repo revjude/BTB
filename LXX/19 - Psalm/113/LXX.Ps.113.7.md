@@ -1,10 +1,7 @@
 **LXX Psalm 113:7** 
 <small><sub>**LXX:**</sub></small>
 The one raising \[the\] poor from \[the\] earth, and elevating \[the\] needy from \[the\] dung; 
-<small><sub>**KJV:**</sub></small>
-He raiseth up the poor out of the dust, [and] lifteth the needy out of the dunghill;
-<small><sub>**BSB:**</sub></small>
-He raises the poor from the dust and lifts the needy from the dump<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.113.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.113.6|<< Psalm 113:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.113.8|Psalm 113:8 >>]]</td></tr></table>
 
 | Translation | Greek |

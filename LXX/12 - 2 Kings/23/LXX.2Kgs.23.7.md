@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:7** 
 <small><sub>**LXX:**</sub></small>
 And he demolished the house of the male prostitutes of the \[ones\] in the house of \[the\] <span class="smallcaps">lord</span> in which the women wove apparel there for the sacred grove. 
-<small><sub>**KJV:**</sub></small>
-And he brake down the houses of the sodomites, that [were] by the house of the LORD, where the women wove hangings for the grove.
-<small><sub>**BSB:**</sub></small>
-He also tore down the quarters of the male shrine prostitutes that were in the house of the LORD, where the women had woven tapestries for Asherah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.6|<< 2 Kings 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.8|2 Kings 23:8 >>]]</td></tr></table>
 
 | Translation | Greek |

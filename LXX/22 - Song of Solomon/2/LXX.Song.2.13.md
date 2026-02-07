@@ -1,10 +1,7 @@
 **LXX Song of Solomon 2:13** 
 <small><sub>**LXX:**</sub></small>
 the fig-tree brought forth its immature figs; the grapevines blossom, they gave a scent. Rise up, come  my dear one, my fair one, my dove, yes come! 
-<small><sub>**KJV:**</sub></small>
-The fig tree putteth forth her green figs, and the vines [with] the tender grape give a [good] smell. Arise, my love, my fair one, and come away.
-<small><sub>**BSB:**</sub></small>
-The fig tree ripens its figs; the blossoming vines spread their fragrance. Arise, come away, my darling; come away with me, my beautiful one.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.12|<< Song of Solomon 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.14|Song of Solomon 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

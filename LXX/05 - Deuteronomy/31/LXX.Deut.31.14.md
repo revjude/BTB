@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:14** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Behold, the days of your death are approaching; call Joshua, and stand by the door of the tent of the testimony! and I will give charge to him. And Moses and Joshua went into the tent of the testimony, and they stood by the door of the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Behold, thy days approach that thou must die: call Joshua, and present yourselves in the tabernacle of the congregation, that I may give him a charge. And Moses and Joshua went, and presented themselves in the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Behold, the time of your death is near. Call Joshua and present yourselves at the Tent of Meeting, so that I may commission him.” So Moses and Joshua went and presented themselves at the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.13|<< Deuteronomy 31:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.15|Deuteronomy 31:15 >>]]</td></tr></table>
 
 | Translation | Greek |

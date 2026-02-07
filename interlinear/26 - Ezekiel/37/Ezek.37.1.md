@@ -1,4 +1,4 @@
-**Ezekiel 37:1** 
+**Ezekiel 37:1**<big><big>[[Ezek.37.1 The Valley of Dry Bones|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which [was] full of bones,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The hand of the LORD was upon me, and He brought me out by His Spirit and set me
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.38|<< Ezekiel 36:38]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.2|Ezekiel 37:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it was  |**<big>&#8207;[[H1961\|הָיְתָ֣ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on me  |**<big>&#8207;[[H5921A\|עָלַ]]&#8207;&#8207;[[H9030\|י֮]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

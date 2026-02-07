@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And a rod shall come forth from out of the root of Jesse; and a flower from out of  his root shall ascend. 
-<small><sub>**KJV:**</sub></small>
-And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots:
-<small><sub>**BSB:**</sub></small>
-Then a shoot will spring up from the stump of Jesse, and a Branch from his roots will bear fruit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.34|<< Isaiah 10:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.2|Isaiah 11:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 11:1** is...

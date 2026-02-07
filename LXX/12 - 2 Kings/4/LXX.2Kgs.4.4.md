@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:4** 
 <small><sub>**LXX:**</sub></small>
 And you shall enter and lock the door after you and after  your sons. And you shall pour out into  these vessels, and the one being filled you shall take away. 
-<small><sub>**KJV:**</sub></small>
-And when thou art come in, thou shalt shut the door upon thee and upon thy sons, and shalt pour out into all those vessels, and thou shalt set aside that which is full.
-<small><sub>**BSB:**</sub></small>
-Then go inside, shut the door behind you and your sons, and pour oil into all these jars, setting the full ones aside.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.3|<< 2 Kings 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.5|2 Kings 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

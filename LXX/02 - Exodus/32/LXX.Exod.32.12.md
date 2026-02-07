@@ -1,10 +1,7 @@
 **LXX Exodus 32:12** 
 <small><sub>**LXX:**</sub></small>
 lest at any time the Egyptians should say, in saying, With wickedness he led them to kill \[them\] in the mountains, and to completely consume them from the earth. Cease in the anger  of your rage, and be propitious to the evil  of your people! 
-<small><sub>**KJV:**</sub></small>
-Wherefore should the Egyptians speak, and say, For mischief did he bring them out, to slay them in the mountains, and to consume them from the face of the earth? Turn from thy fierce wrath, and repent of this evil against thy people.
-<small><sub>**BSB:**</sub></small>
-Why should the Egyptians declare, ‘He brought them out with evil intent, to kill them in the mountains and wipe them from the face of the earth’? Turn from Your fierce anger and relent from doing harm to Your people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.11|<< Exodus 32:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.13|Exodus 32:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 30:12** (30:13)
+**Psalms 30:12**<big><big>[[Ps.30.1 You Turned My Mourning into Dancing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the end that [my] glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ that my heart may sing Your praises and not be silent. O LORD my God, I will giv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.30.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.11|<< Psalms 30:11]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.0|Psalms 31:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֤עַן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it may sing praises to you  |**<big>&#8207;[[H2167\|יְזַמֶּרְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| ye.za.mer.<small><sup>[[HVpj3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

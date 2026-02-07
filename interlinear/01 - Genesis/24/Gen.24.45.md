@@ -1,4 +1,4 @@
-**Genesis 24:45** 
+**Genesis 24:45**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And before I had done speaking in mine heart, behold, Rebekah came forth with her pitcher on her shoulder; and she went down unto the well, and drew [water]: and I said unto her, Let me drink, I pray thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And before I had finished praying in my heart, there was Rebekah coming out with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.44|<< Genesis 24:44]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.46|Genesis 24:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִי֩]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not yet  |**<big>&#8207;[[H2962\|טֶ֨רֶם]]&#8207; </big>**| Te.rem<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

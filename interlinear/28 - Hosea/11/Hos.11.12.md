@@ -1,4 +1,4 @@
-**Hosea 11:12** (12:1)
+**Hosea 11:12**<big><big>[[Hos.11.8 God’s Love for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ephraim surrounds Me with lies, the house of Israel with deceit; but Judah still
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.11|<< Hosea 11:11]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.1|Hosea 12:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have surrounded me  |**<big>&#8207;[[H5437H\|סְבָבֻ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| se.va.Vu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with lying  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3585\|כַ֙חַשׁ֙]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> Kha.chash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

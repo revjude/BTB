@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:16** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Ahab heard that Naboth has died, Ahab rose and went down into the vineyard of Naboth the Jezreelite  to inherit it. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Ahab heard that Naboth was dead, that Ahab rose up to go down to the vineyard of Naboth the Jezreelite, to take possession of it.
-<small><sub>**BSB:**</sub></small>
-And when Ahab heard that Naboth was dead, he got up and went down to take possession of the vineyard of Naboth the Jezreelite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.15|<< 1 Kings 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.17|1 Kings 21:17 >>]]</td></tr></table>
 
 | Translation | Greek |

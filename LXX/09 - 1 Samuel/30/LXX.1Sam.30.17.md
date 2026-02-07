@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David came upon them, and he struck them from \[the\] morning star and until evening even of the next day. And a man of them was not preserved, but only four hundred boys who mounted upon camels and fled. 
-<small><sub>**KJV:**</sub></small>
-And David smote them from the twilight even unto the evening of the next day: and there escaped not a man of them, save four hundred young men, which rode upon camels, and fled.
-<small><sub>**BSB:**</sub></small>
-And David struck them down from twilight until the evening of the next day. Not a man escaped, except four hundred young men who fled, riding off on camels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.30.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.16|<< 1 Samuel 30:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.18|1 Samuel 30:18 >>]]</td></tr></table>
 
 | Translation | Greek |

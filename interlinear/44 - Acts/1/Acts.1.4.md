@@ -1,12 +1,12 @@
-**Acts 1:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:4**<big><big>[[Acts.1.1 Prologue|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, being assembled together with [them], commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, [saith he], ye have heard of me.
 <small><sub>**BSB:**</sub></small>
 And while they were gathered together, He commanded them: “Do not leave Jerusalem, but wait for the gift the Father promised, which you have heard Me discuss.
 <small><sub>**Literal:**</sub></small>
 And being assembled together He instructed to them from Jerusalem not to depart, but to await the promise of the Father That which you heard of Me;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.3|<< Acts 1:3]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.5|Acts 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | being assembled together |**<big>[[G4871\|συναλιζόμενος]]</big>**  |sunalizomenos <small><sup>[[V-PNP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Ezekiel 12:13** 
+**Ezekiel 12:13**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My net also will I spread upon him, and he shall be taken in my snare: and I will bring him to Babylon [to] the land of the Chaldeans; yet shall he not see it, though he shall die there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I will spread My net over him, and he will be caught in My snare. I will bri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.12|<< Ezekiel 12:12]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.14|Ezekiel 12:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will spread  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6566\|פָרַשְׂתִּ֤י]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fa.ras.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

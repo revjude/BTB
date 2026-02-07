@@ -1,4 +1,4 @@
-**Psalms 9:6** (9:7)
+**Psalms 9:6**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The enemy has come to eternal ruin, and You have uprooted their cities; the very
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.5|<< Psalms 9:5]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.7|Psalms 9:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the enemy  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0341\|אוֹיֵ֨ב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have come to an end  |**<big>&#8207;[[H8552\|תַּ֥מּוּ]]&#8207; </big>**| Ta.mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

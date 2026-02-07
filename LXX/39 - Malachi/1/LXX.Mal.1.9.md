@@ -1,10 +1,7 @@
 **LXX Malachi 1:9** 
 <small><sub>**LXX:**</sub></small>
 And now, atone the face  of your God, and beseech him! By your hands these have taken place. Shall I receive from your person your \[things\], says \[the\] <span class="smallcaps">lord</span> almighty, \[no\]. 
-<small><sub>**KJV:**</sub></small>
-And now, I pray you, beseech God that he will be gracious unto us: this hath been by your means: will he regard your persons? saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-“But ask now for God’s favor. Will He be gracious? Since this has come from your hands, will He show you favor?” asks the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.8|<< Malachi 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.10|Malachi 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

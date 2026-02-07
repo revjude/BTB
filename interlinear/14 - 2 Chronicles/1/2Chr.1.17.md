@@ -1,4 +1,4 @@
-**2 Chronicles 1:17** 
+**2 Chronicles 1:17**<big><big>[[2Chr.1.14 Solomon’s Riches|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they fetched up, and brought forth out of Egypt a chariot for six hundred [shekels] of silver, and an horse for an hundred and fifty: and so brought they out [horses] for all the kings of the Hittites, and for the kings of Syria, by their means.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A chariot could be imported from Egypt for six hundred shekels of silver, and a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.16|<< 2 Chronicles 1:16]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.1|2 Chronicles 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they brought up  |**<big>&#8207;[[H9001\|וַֽ֠]]&#8207;&#8207;[[H5927H\|יַּעֲלוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.'a.lu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they brought out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318H\|יּוֹצִ֨יאוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Tzi.'u<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

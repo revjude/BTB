@@ -1,4 +1,4 @@
-**Song of Solomon 2:8** 
+**Song of Solomon 2:8**<big><big>[[Song.2.3 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The voice of my beloved! behold, he cometh leaping upon the mountains, skipping upon the hills.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen! My beloved approaches. Look! Here he comes, leaping across the mountains
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.7|<< Song of Solomon 2:7]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.9|Song of Solomon 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sound of  |**<big>&#8207;[[H6963A\|ק֣וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lover my  |**<big>&#8207;[[H1730G\|דּוֹדִ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| do.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

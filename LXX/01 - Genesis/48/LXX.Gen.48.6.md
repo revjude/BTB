@@ -1,10 +1,7 @@
 **LXX Genesis 48:6** 
 <small><sub>**LXX:**</sub></small>
 And the progeny, who ever should be procreated after these will be yours. By the name  of their brothers they shall be called in  those lots. 
-<small><sub>**KJV:**</sub></small>
-And thy issue, which thou begettest after them, shall be thine, [and] shall be called after the name of their brethren in their inheritance.
-<small><sub>**BSB:**</sub></small>
-Any children born to you after them shall be yours, and they shall be called by the names of their brothers in the territory they inherit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.48.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.5|<< Genesis 48:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.7|Genesis 48:7 >>]]</td></tr></table>
 
 | Translation | Greek |

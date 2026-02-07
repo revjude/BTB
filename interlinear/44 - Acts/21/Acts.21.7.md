@@ -1,12 +1,12 @@
-**Acts 21:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:7**<big><big>[[Acts.21.1 Paul’s Journey to Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when we had finished [our] course from Tyre, we came to Ptolemais, and saluted the brethren, and abode with them one day.
 <small><sub>**BSB:**</sub></small>
 When we had finished our voyage from Tyre, we landed at Ptolemais, where we greeted the brothers and stayed with them for a day.
 <small><sub>**Literal:**</sub></small>
 We ourselves then the voyage having completed from Tyre came down to Ptolemais, and having greeted the brothers we stayed day one with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.6|<< Acts 21:6]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.8|Acts 21:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

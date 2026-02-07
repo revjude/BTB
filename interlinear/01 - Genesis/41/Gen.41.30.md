@@ -1,4 +1,4 @@
-**Genesis 41:30** 
+**Genesis 41:30**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall arise after them seven years of famine; and all the plenty shall be forgotten in the land of Egypt; and the famine shall consume the land;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but seven years of famine will follow them. Then all the abundance in the land o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.29|<< Genesis 41:29]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.31|Genesis 41:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will arise  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H6965B\|קָמוּ]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ka.mu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seven  |**<big>&#8207;[[H7651\|שֶׁ֜בַע]]&#8207; </big>**| She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

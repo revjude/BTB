@@ -1,4 +1,4 @@
-**Joshua 5:4** 
+**Joshua 5:4**<big><big>[[Josh.5.1 The Circumcision and Passover at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the cause why Joshua did circumcise: All the people that came out of Egypt, [that were] males, [even] all the men of war, died in the wilderness by the way, after they came out of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now this is why Joshua circumcised them: All those who came out of Egypt—all t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.3|<< Joshua 5:3]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.5|Joshua 5:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2088\|זֶ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the reason  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697M\|דָּבָ֖ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

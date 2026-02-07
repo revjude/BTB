@@ -1,4 +1,4 @@
-**2 Chronicles 35:23** 
+**2 Chronicles 35:23**<big><big>[[2Chr.35.20 The Death of Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the archers shot at king Josiah; and the king said to his servants, Have me away; for I am sore wounded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There the archers shot King Josiah, who said to his servants, “Take me away, f
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.22|<< 2 Chronicles 35:22]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.24|2 Chronicles 35:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they shot arrows  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3384A\|יֹּרוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Ru<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the archers  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3384A\|יֹּרִ֔ים]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yo.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

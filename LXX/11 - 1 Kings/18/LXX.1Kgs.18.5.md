@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:5** 
 <small><sub>**LXX:**</sub></small>
 And Ahab said to Obadiah, Come, and we should go through in the land unto the springs of the waters, and unto all the rushing streams, if perchance we should find pasturage, and we should preserve \[the\] horses and mules, and cattle shall not be destroyed from us. 
-<small><sub>**KJV:**</sub></small>
-And Ahab said unto Obadiah, Go into the land, unto all fountains of water, and unto all brooks: peradventure we may find grass to save the horses and mules alive, that we lose not all the beasts.
-<small><sub>**BSB:**</sub></small>
-Then Ahab said to Obadiah, “Go throughout the land to every spring and every valley. Perhaps we will find grass to keep the horses and mules alive so that we will not have to destroy any livestock.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.4|<< 1 Kings 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.6|1 Kings 18:6 >>]]</td></tr></table>
 
 | Translation | Greek |

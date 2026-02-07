@@ -1,4 +1,4 @@
-**Psalms 72:10** 
+**Psalms 72:10**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The kings of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the kings of Tarshish and distant shores bring tribute; may the kings of She
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.9|<< Psalms 72:9]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.11|Psalms 72:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] kings of  |**<big>&#8207;[[H4428G\|מַלְכֵ֬י]]&#8207; </big>**| mal.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Tarshish  |**<big>&#8207;[[H8659H\|תַרְשִׁ֣ישׁ]]&#8207; </big>**| tar.Shish<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

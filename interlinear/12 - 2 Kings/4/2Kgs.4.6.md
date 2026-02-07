@@ -1,4 +1,4 @@
-**2 Kings 4:6** 
+**2 Kings 4:6**<big><big>[[2Kgs.4.1 The Widow’s Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the vessels were full, that she said unto her son, Bring me yet a vessel. And he said unto her, [There is] not a vessel more. And the oil stayed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When all the jars were full, she said to her son, “Bring me another.” But he
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.5|<< 2 Kings 4:5]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.7|2 Kings 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when were full  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H4390\|מְלֹ֣את]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> m.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Proverbs 25:26** 
 <small><sub>**LXX:**</sub></small>
 As if any one may shut up a spring, and lay waste an exiting of water; so \[it is\] unbecoming \[for\] a just man to fall before \[the\] impious. 
-<small><sub>**KJV:**</sub></small>
-A righteous man falling down before the wicked [is as] a troubled fountain, and a corrupt spring.
-<small><sub>**BSB:**</sub></small>
-Like a muddied spring or a polluted well is a righteous man who gives way to the wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.25.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.25|<< Proverbs 25:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.27|Proverbs 25:27 >>]]</td></tr></table>
 
 | Translation | Greek |

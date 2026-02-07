@@ -1,12 +1,12 @@
-**1 Peter 4:19
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 4:19**<big><big>[[1Pet.4.12 Suffering as Christians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore let them that suffer according to the will of God commit the keeping of their souls [to him] in well doing, as unto a faithful Creator.
 <small><sub>**BSB:**</sub></small>
 So then, those who suffer according to God’s will should entrust their souls to their faithful Creator and continue to do good.
 <small><sub>**Literal:**</sub></small>
 Therefore also those suffering according to the will <the> of God as to [the] faithful Creator they should commit the souls of them in well doing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.18|<< 1 Peter 4:18]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.1|1 Peter 5:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

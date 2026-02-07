@@ -1,10 +1,7 @@
 **LXX Nehemiah 6:16** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when all our enemies heard, that all the nations round about us feared, and an exceedingly great fear fell upon  their eyes. And they knew that by  God this work of ours was perfected. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, that when all our enemies heard [thereof], and all the heathen that [were] about us saw [these things], they were much cast down in their own eyes: for they perceived that this work was wrought of our God.
-<small><sub>**BSB:**</sub></small>
-When all our enemies heard about this, all the surrounding nations were afraid and disheartened, for they realized that this task had been accomplished by our God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.15|<< Nehemiah 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.17|Nehemiah 6:17 >>]]</td></tr></table>
 
 | Translation | Greek |

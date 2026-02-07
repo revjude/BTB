@@ -1,10 +1,7 @@
 **LXX Exodus 5:14** 
 <small><sub>**LXX:**</sub></small>
 And they were whipped -- the scribes of the race of the sons of Israel, the \[ones\] being placed over them by the supervisors  of Pharaoh, \[and\] saying, Why did you not complete  your rate of the making of bricks as also yesterday and \[the\] third day \[before\] and   today? 
-<small><sub>**KJV:**</sub></small>
-And the officers of the children of Israel, which Pharaoh’s taskmasters had set over them, were beaten, [and] demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore?
-<small><sub>**BSB:**</sub></small>
-Then the Israelite foremen, whom Pharaoh’s taskmasters had set over the people, were beaten and asked, “Why have you not fulfilled your quota of bricks yesterday or today, as you did before?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.13|<< Exodus 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.15|Exodus 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

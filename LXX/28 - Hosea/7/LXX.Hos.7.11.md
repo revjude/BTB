@@ -1,10 +1,7 @@
 **LXX Hosea 7:11** 
 <small><sub>**LXX:**</sub></small>
 And Ephraim was as a mindless dove, not having a heart; Egypt he called upon, and unto Assyria they went. 
-<small><sub>**KJV:**</sub></small>
-Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria.
-<small><sub>**BSB:**</sub></small>
-So Ephraim has become like a silly, senseless dove—calling out to Egypt, then turning to Assyria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.10|<< Hosea 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.12|Hosea 7:12 >>]]</td></tr></table>
 
 | Translation | Greek |

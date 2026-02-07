@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after  these things, the chief wine taster of the king of Egypt sinned, and the chief baker \[against\] their master \[the\] king of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after these things, [that] the butler of the king of Egypt and [his] baker had offended their lord the king of Egypt.
-<small><sub>**BSB:**</sub></small>
-Some time later, the king’s cupbearer and baker offended their master, the king of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.23|<< Genesis 39:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.2|Genesis 40:2 >>]]</td></tr></table>
 
 | Translation | Greek |

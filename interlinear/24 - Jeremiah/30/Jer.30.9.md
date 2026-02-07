@@ -1,4 +1,4 @@
-**Jeremiah 30:9** 
+**Jeremiah 30:9**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they shall serve the LORD their God, and David their king, whom I will raise up unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instead, they will serve the LORD their God and David their king, whom I will ra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.8|<< Jeremiah 30:8]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.10|Jeremiah 30:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will serve  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5647H\|עָ֣בְד֔וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'A.ve.Du<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

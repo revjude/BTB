@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:18** 
 <small><sub>**LXX:**</sub></small>
 In  those days the house of Judah shall come together with the house  of Israel. And they shall come together from \[the\] land of \[the\] north, and from all the places upon the earth which their fathers to inherit. 
-<small><sub>**KJV:**</sub></small>
-In those days the house of Judah shall walk with the house of Israel, and they shall come together out of the land of the north to the land that I have given for an inheritance unto your fathers.
-<small><sub>**BSB:**</sub></small>
-In those days the house of Judah will walk with the house of Israel, and they will come together from the land of the north to the land that I gave to your fathers as an inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.17|<< Jeremiah 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.19|Jeremiah 3:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 38:12** 
 <small><sub>**LXX:**</sub></small>
 to plunder plunder, and to despoil spoils,  to turn my hand against the \[place\] having been made desolate which was settled, and against a nation being gathered from many nations, having produced possessions, dwelling upon the navel of the earth. 
-<small><sub>**KJV:**</sub></small>
-To take a spoil, and to take a prey; to turn thine hand upon the desolate places [that are now] inhabited, and upon the people [that are] gathered out of the nations, which have gotten cattle and goods, that dwell in the midst of the land.
-<small><sub>**BSB:**</sub></small>
-in order to seize the spoil and carry off the plunder, to turn a hand against the desolate places now inhabited and against a people gathered from the nations, who have acquired livestock and possessions and who live at the center of the land.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.11|<< Ezekiel 38:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.13|Ezekiel 38:13 >>]]</td></tr></table>
 
 | Translation | Greek |

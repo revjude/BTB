@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:8** 
 <small><sub>**LXX:**</sub></small>
 And  your rulers, the ones dwelling in Sidon, and Arvad became your oarsmen.  Your wise men, O Sor, the ones who were among you, these were your navigators. 
-<small><sub>**KJV:**</sub></small>
-The inhabitants of Zidon and Arvad were thy mariners: thy wise [men], O Tyrus, [that] were in thee, were thy pilots.
-<small><sub>**BSB:**</sub></small>
-The men of Sidon and Arvad were your oarsmen. Your men of skill, O Tyre, were there as your captains.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.7|<< Ezekiel 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.9|Ezekiel 27:9 >>]]</td></tr></table>
 
 | Translation | Greek |

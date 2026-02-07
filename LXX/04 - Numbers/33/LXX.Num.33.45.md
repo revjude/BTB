@@ -1,10 +1,7 @@
 **LXX Numbers 33:45** 
 <small><sub>**LXX:**</sub></small>
 And departing from Gai, and they camped in Dibon Gad. 
-<small><sub>**KJV:**</sub></small>
-And they departed from Iim, and pitched in Dibongad.
-<small><sub>**BSB:**</sub></small>
-They set out from Iyim and camped at Dibon-gad.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.44|<< Numbers 33:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.46|Numbers 33:46 >>]]</td></tr></table>
 
 | Translation | Greek |

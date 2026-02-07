@@ -1,10 +1,7 @@
 **LXX Nehemiah 2:8** 
 <small><sub>**LXX:**</sub></small>
 and a letter to Asaph \[the\] keeper of the garden, which is to the king, so as to give to me wood to roof the gates of the palace of the house, and for the wall of the city, and for \[the\] house, for which I shall enter unto it. And the king gave to me by the good hand of God upon me. 
-<small><sub>**KJV:**</sub></small>
-And a letter unto Asaph the keeper of the king’s forest, that he may give me timber to make beams for the gates of the palace which [appertained] to the house, and for the wall of the city, and for the house that I shall enter into. And the king granted me, according to the good hand of my God upon me.
-<small><sub>**BSB:**</sub></small>
-And may I have a letter to Asaph, keeper of the king’s forest, so that he will give me timber to make beams for the gates of the citadel to the temple, for the city wall, and for the house I will occupy.” And because the gracious hand of my God was upon me, the king granted my requests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.7|<< Nehemiah 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.9|Nehemiah 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

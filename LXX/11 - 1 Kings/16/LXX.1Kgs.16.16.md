@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:16** 
 <small><sub>**LXX:**</sub></small>
 And the people heard in the camp, saying, Zimri conspired and smote the king. And they gave reign in Israel  to Omri, the \[one\] leading the military over Israel in  that day, in the camp. 
-<small><sub>**KJV:**</sub></small>
-And the people [that were] encamped heard say, Zimri hath conspired, and hath also slain the king: wherefore all Israel made Omri, the captain of the host, king over Israel that day in the camp.
-<small><sub>**BSB:**</sub></small>
-and the people in the camp heard that Zimri had conspired against the king and struck him down. So there in the camp that very day, all Israel proclaimed Omri, the commander of the army, king over Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.15|<< 1 Kings 16:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.17|1 Kings 16:17 >>]]</td></tr></table>
 
 | Translation | Greek |

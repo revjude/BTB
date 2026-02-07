@@ -1,4 +1,4 @@
-**Joshua 15:13** 
+**Joshua 15:13**<big><big>[[Josh.15.13 Caleb’s Portion and Conquest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto Caleb the son of Jephunneh he gave a part among the children of Judah, according to the commandment of the LORD to Joshua, [even] the city of Arba the father of Anak, which [city is] Hebron.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ According to the LORD’s command to him, Joshua gave Caleb son of Jephunneh a p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.12|<< Joshua 15:12]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.14|Joshua 15:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to Caleb  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3612G\|כָלֵ֣ב]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> kha.Lev<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

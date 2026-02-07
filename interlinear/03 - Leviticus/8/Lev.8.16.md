@@ -1,4 +1,4 @@
-**Leviticus 8:16** 
+**Leviticus 8:16**<big><big>[[Lev.8.14 The Priests’ Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took all the fat that [was] upon the inwards, and the caul [above] the liver, and the two kidneys, and their fat, and Moses burned [it] upon the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses also took all the fat that was on the entrails, the lobe of the liver, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.15|<< Leviticus 8:15]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.17|Leviticus 8:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֗ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

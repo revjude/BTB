@@ -1,4 +1,4 @@
-**Isaiah 49:20** 
+**Isaiah 49:20**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place [is] too strait for me: give place to me that I may dwell.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet the children of your bereavement will say in your hearing, ‘This place is 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.19|<< Isaiah 49:19]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.21|Isaiah 49:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | yet  |**<big>&#8207;[[H5750\|ע֚וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will say  |**<big>&#8207;[[H0559\|יֹאמְר֣וּ]]&#8207; </big>**| yo.me.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

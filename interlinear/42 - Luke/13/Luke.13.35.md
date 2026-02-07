@@ -1,5 +1,5 @@
-**Luke 13:35
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:35**<big><big>[[Luke.13.31 Lament over Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, your house is left unto you desolate: and verily I say unto you, Ye shall not see me, until [the time] come when ye shall say, Blessed [is] he that cometh in the name of the Lord.
 <small><sub>**BSB:**</sub></small>
 Look, your house is left to you desolate. And I tell you that you will not see Me again until you say, ‘Blessed is He who comes in the name of the Lord.’”
@@ -11,7 +11,7 @@ Behold is left to you the house of you desolate. Amen I say now to you that: cer
 > $\quad$ alluding to: [[LXX.Jer.12.7|Jer 12:7]] ☩ [[LXX.Jer.22.5|Jer 22:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is left |**<big>[[G0863G\|ἀφίεται]]</big>**  |aphietai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

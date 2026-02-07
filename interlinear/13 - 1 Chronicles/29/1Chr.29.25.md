@@ -1,4 +1,4 @@
-**1 Chronicles 29:25** 
+**1 Chronicles 29:25**<big><big>[[1Chr.29.21 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD magnified Solomon exceedingly in the sight of all Israel, and bestowed upon him [such] royal majesty as had not been on any king before him in Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD highly exalted Solomon in the sight of all Israel and bestowed on him r
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.24|<< 1 Chronicles 29:24]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.26|1 Chronicles 29:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made great  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1431\|יְגַדֵּ֨ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ga.Del<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 41:9** 
+**Isaiah 41:9**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Thou] whom I have taken from the ends of the earth, and called thee from the chief men thereof, and said unto thee, Thou [art] my servant; I have chosen thee, and not cast thee away.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I brought you from the ends of the earth and called you from its farthest corner
 > $\quad$ referenced by: [[Heb.2.16|Heb 2:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I took hold of you  |**<big>&#8207;[[H2388J\|הֶחֱזַקְתִּ֙י]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| he.che.zak.Ti.<small><sup>[[HVhp1cs]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

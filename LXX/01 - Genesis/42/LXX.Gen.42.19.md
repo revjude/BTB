@@ -1,10 +1,7 @@
 **LXX Genesis 42:19** 
 <small><sub>**LXX:**</sub></small>
 If you are peaceable, be held one of your brothers in the prison! but you yourselves proceed, and take back the purchase  of your provision! 
-<small><sub>**KJV:**</sub></small>
-If ye [be] true [men], let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses:
-<small><sub>**BSB:**</sub></small>
-If you are honest, leave one of your brothers in custody while the rest of you go and take back grain to relieve the hunger of your households.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.18|<< Genesis 42:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.20|Genesis 42:20 >>]]</td></tr></table>
 
 | Translation | Greek |

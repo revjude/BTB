@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And she stayed with  her mother-in-law. And Naomi her mother-in-law said to her, O daughter, In no way shall I seek rest for you, that a good \[thing\] should happen to you. 
-<small><sub>**KJV:**</sub></small>
-Then Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee?
-<small><sub>**BSB:**</sub></small>
-One day Ruth’s mother-in-law Naomi said to her, “My daughter, should I not seek a resting place for you, that it may be well with you?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.23|<< Ruth 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.2|Ruth 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

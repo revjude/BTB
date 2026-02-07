@@ -1,12 +1,12 @@
-**Acts 24:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:15**<big><big>[[Acts.24.10 Paul’s Defense to Felix|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And have hope toward God, which they themselves also allow, that there shall be a resurrection of the dead, both of the just and unjust.
 <small><sub>**BSB:**</sub></small>
 and I have the same hope in God that they themselves cherish, that there will be a resurrection of both the righteous and the wicked.
 <small><sub>**Literal:**</sub></small>
 a hope having in <the> God which also they <themselves> themselves await, [that] a resurrection to ensue to then be  of [the] dead -  of [the] just both and of [the] unjust;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.14|<< Acts 24:14]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.16|Acts 24:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a hope |**<big>[[G1680\|ἐλπίδα]]</big>**  |elpida <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having |**<big>[[G2192\|ἔχων]]</big>**  |echōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**2 Timothy 2:11
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:11**<big><big>[[2Tim.2.1 Grace and Perseverance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [It is] a faithful saying: For if we be dead with [him], we shall also live with [him]:
 <small><sub>**BSB:**</sub></small>
 This is a trustworthy saying: If we died with Him, we will also live with Him;
 <small><sub>**Literal:**</sub></small>
 Trustworthy [is] the saying: If for we have died with [Him], also we will live with [Him];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.10|<< 2 Timothy 2:10]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.12|2 Timothy 2:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Trustworthy [is] |**<big>[[G4103\|Πιστὸς]]</big>**  |Pistos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

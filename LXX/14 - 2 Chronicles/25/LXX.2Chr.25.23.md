@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And  Amaziah king of Judah was overtaken by Joash king of Israel in Beth-shemesh, and he brought him to Jerusalem, and he tore down from of the wall of Jerusalem, from \[the\] gate of Ephraim unto \[the\] gate of \[the\] corner -- four hundred cubits. 
-<small><sub>**KJV:**</sub></small>
-And Joash the king of Israel took Amaziah king of Judah, the son of Joash, the son of Jehoahaz, at Bethshemesh, and brought him to Jerusalem, and brake down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.
-<small><sub>**BSB:**</sub></small>
-There at Beth-shemesh, Jehoash king of Israel captured Amaziah king of Judah, the son of Joash, the son of Jehoahaz. Then Jehoash brought him to Jerusalem and broke down the wall of Jerusalem from the Ephraim Gate to the Corner Gate—a section of four hundred cubits.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.22|<< 2 Chronicles 25:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.24|2 Chronicles 25:24 >>]]</td></tr></table>
 
 | Translation | Greek |

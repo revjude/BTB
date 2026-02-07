@@ -1,10 +1,7 @@
 **LXX Psalm 11:6** 
 <small><sub>**LXX:**</sub></small>
 He shall rain snares upon sinners; fire and sulphur and a gale wind \[shall be\] the portion  of their cup. 
-<small><sub>**KJV:**</sub></small>
-Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: [this shall be] the portion of their cup.
-<small><sub>**BSB:**</sub></small>
-On the wicked He will rain down fiery coals and sulfur; a scorching wind will be their portion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.11.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.11.5|<< Psalm 11:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.11.7|Psalm 11:7 >>]]</td></tr></table>
 
 | Translation | Greek |

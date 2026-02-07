@@ -1,4 +1,4 @@
-**Deuteronomy 13:7** (13:8)
+**Deuteronomy 13:7**<big><big>[[Deut.13.1 Idolaters to Be Put to Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Namely], of the gods of the people which [are] round about you, nigh unto thee, or far off from thee, from the [one] end of the earth even unto the [other] end of the earth;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the gods of the peoples around you, whether near or far, whether from one end of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.6|<< Deuteronomy 13:6]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.8|Deuteronomy 13:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | any of [the] gods of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0430J\|אֱלֹהֵ֣י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the peoples  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H5971A\|עַמִּ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

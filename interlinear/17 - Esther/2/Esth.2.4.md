@@ -1,4 +1,4 @@
-**Esther 2:4** 
+**Esther 2:4**<big><big>[[Esth.2.1 Seeking Vashti’s Successor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let the maiden which pleaseth the king be queen instead of Vashti. And the thing pleased the king; and he did so.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then let the young woman who pleases the king become queen in place of Vashti.�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.3|<< Esther 2:3]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.5|Esther 2:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the young woman  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H5291\|נַּעֲרָ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> na.'a.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

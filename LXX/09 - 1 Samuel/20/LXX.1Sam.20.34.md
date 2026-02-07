@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:34** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan jumped up from the table in anger of rage. And he did not eat bread on the second day of the month, for he was devastated for  David, for his father planned to finish him off. 
-<small><sub>**KJV:**</sub></small>
-So Jonathan arose from the table in fierce anger, and did eat no meat the second day of the month: for he was grieved for David, because his father had done him shame.
-<small><sub>**BSB:**</sub></small>
-Jonathan got up from the table in fierce anger and did not eat any food that second day of the month, for he was grieved by his father’s shameful treatment of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.33|<< 1 Samuel 20:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.35|1 Samuel 20:35 >>]]</td></tr></table>
 
 | Translation | Greek |

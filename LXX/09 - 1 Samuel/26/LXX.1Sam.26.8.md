@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:8** 
 <small><sub>**LXX:**</sub></small>
 And Abishai said to David, \[the\] <span class="smallcaps">lord</span> locked up today  your enemy into your hands. And now I shall indeed strike him with the spear into the earth once, and I should not repeat it a second time against him. 
-<small><sub>**KJV:**</sub></small>
-Then said Abishai to David, God hath delivered thine enemy into thine hand this day: now therefore let me smite him, I pray thee, with the spear even to the earth at once, and I will not [smite] him the second time.
-<small><sub>**BSB:**</sub></small>
-Abishai said to David, “Today God has delivered your enemy into your hand. Now, therefore, please let me thrust the spear through him into the ground with one stroke. I will not need to strike him twice!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.7|<< 1 Samuel 26:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.9|1 Samuel 26:9 >>]]</td></tr></table>
 
 | Translation | Greek |

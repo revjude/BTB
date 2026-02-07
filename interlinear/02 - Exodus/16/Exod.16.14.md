@@ -1,4 +1,4 @@
-**Exodus 16:14** 
+**Exodus 16:14**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the dew that lay was gone up, behold, upon the face of the wilderness [there lay] a small round thing, [as] small as the hoar frost on the ground.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the layer of dew had evaporated, there were thin flakes on the desert floor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.13|<< Exodus 16:13]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.15|Exodus 16:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|תַּ֖עַל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.'al<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] layer of  |**<big>&#8207;[[H7902\|שִׁכְבַ֣ת]]&#8207; </big>**| shikh.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

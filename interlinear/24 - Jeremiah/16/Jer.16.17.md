@@ -1,4 +1,4 @@
-**Jeremiah 16:17** 
+**Jeremiah 16:17**<big><big>[[Jer.16.14 God Will Restore Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For mine eyes [are] upon all their ways: they are not hid from my face, neither is their iniquity hid from mine eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For My eyes are on all their ways. They are not hidden from My face, and their g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.16|<< Jeremiah 16:16]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.18|Jeremiah 16:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes my  |**<big>&#8207;[[H5869A\|עֵינַ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

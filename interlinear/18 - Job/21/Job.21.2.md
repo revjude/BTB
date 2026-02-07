@@ -1,4 +1,4 @@
-**Job 21:2** 
+**Job 21:2**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear diligently my speech, and let this be your consolations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hear diligently my speech, and let this be your consolations.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.1|<< Job 21:1]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.3|Job 21:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | listen  |**<big>&#8207;[[H8085G\|שִׁמְע֣וּ]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | completely [to] \<to listen>  |**<big>&#8207;[[H8085G\|שָׁ֭מוֹעַ]]&#8207; </big>**| Sha.mo.a'<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

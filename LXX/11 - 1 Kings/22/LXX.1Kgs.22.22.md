@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to him, In what \[way\]? And he said, I shall go forth, and I shall be a lying spirit in \[the\] mouth of all  his prophets. And he said, You shall deceive, and indeed you will be able. Go forth, and do so! 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade [him], and prevail also: go forth, and do so.
-<small><sub>**BSB:**</sub></small>
-And he replied, ‘I will go out and be a lying spirit in the mouths of all his prophets.’ ‘You will surely entice him and prevail,’ said the LORD. ‘Go and do it.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.21|<< 1 Kings 22:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.23|1 Kings 22:23 >>]]</td></tr></table>
 
 | Translation | Greek |

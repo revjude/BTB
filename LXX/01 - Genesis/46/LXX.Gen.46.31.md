@@ -1,10 +1,7 @@
 **LXX Genesis 46:31** 
 <small><sub>**LXX:**</sub></small>
 And Joseph said to  his brothers, In ascending, I will report  to Pharaoh. And I will say to him,  My brothers, and the house  of my father, who were in \[the\] land of Canaan, have come to me. 
-<small><sub>**KJV:**</sub></small>
-And Joseph said unto his brethren, and unto his father’s house, I will go up, and shew Pharaoh, and say unto him, My brethren, and my father’s house, which [were] in the land of Canaan, are come unto me;
-<small><sub>**BSB:**</sub></small>
-Joseph said to his brothers and to his father’s household, “I will go up and inform Pharaoh: ‘My brothers and my father’s household from the land of Canaan have come to me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.30|<< Genesis 46:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.32|Genesis 46:32 >>]]</td></tr></table>
 
 | Translation | Greek |

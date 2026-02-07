@@ -1,10 +1,7 @@
 **LXX Deuteronomy 26:2** 
 <small><sub>**LXX:**</sub></small>
 that you shall take from the first-fruit of the fruits  of your land, which \[the\] <span class="smallcaps">lord</span>  your God gives by lot, and you shall put \[them\] into a basket, and you shall go into the place which ever \[the\] <span class="smallcaps">lord</span> your God should choose to call upon  his name there. 
-<small><sub>**KJV:**</sub></small>
-That thou shalt take of the first of all the fruit of the earth, which thou shalt bring of thy land that the LORD thy God giveth thee, and shalt put [it] in a basket, and shalt go unto the place which the LORD thy God shall choose to place his name there.
-<small><sub>**BSB:**</sub></small>
-you are to take some of the firstfruits of all your produce from the soil of the land that the LORD your God is giving you and put them in a basket. Then go to the place the LORD your God will choose as a dwelling for His Name,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.1|<< Deuteronomy 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.3|Deuteronomy 26:3 >>]]</td></tr></table>
 
 | Translation | Greek |

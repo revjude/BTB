@@ -1,12 +1,12 @@
-**Revelation 8:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 8:6**<big><big>[[Rev.8.6 The First Four Trumpets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the seven angels which had the seven trumpets prepared themselves to sound.
 <small><sub>**BSB:**</sub></small>
 And the seven angels with the seven trumpets prepared to sound them.
 <small><sub>**Literal:**</sub></small>
 And the seven angels who are having the seven trumpets prepared themselves that they may sound the trumpets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.5|<< Revelation 8:5]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.7|Revelation 8:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

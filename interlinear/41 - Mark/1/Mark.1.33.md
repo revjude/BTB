@@ -1,12 +1,12 @@
-**Mark 1:33
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:33**<big><big>[[Mark.1.29 Jesus Heals at Peter’s House|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all the city was gathered together at the door.
 <small><sub>**BSB:**</sub></small>
 and the whole town gathered at the door.
 <small><sub>**Literal:**</sub></small>
 And was all the city gathered at the door.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.32|<< Mark 1:32]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.34|Mark 1:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»4+Byz»4">NKO</abbr> | |

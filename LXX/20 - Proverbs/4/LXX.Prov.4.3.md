@@ -1,10 +1,7 @@
 **LXX Proverbs 4:3** 
 <small><sub>**LXX:**</sub></small>
 For I was also a son subject to a father, and being loved in \[the\] presence of a mother; 
-<small><sub>**KJV:**</sub></small>
-For I was my father’s son, tender and only [beloved] in the sight of my mother.
-<small><sub>**BSB:**</sub></small>
-When I was a son to my father, tender and the only child of my mother,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.2|<< Proverbs 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.4|Proverbs 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

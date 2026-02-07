@@ -1,12 +1,12 @@
-**Revelation 7:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 7:6**<big><big>[[Rev.7.1 144,000 Sealed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of the tribe of Aser [were] sealed twelve thousand. Of the tribe of Nepthalim [were] sealed twelve thousand. Of the tribe of Manasses [were] sealed twelve thousand.
 <small><sub>**BSB:**</sub></small>
 from the tribe of Asher 12,000, from the tribe of Naphtali 12,000, from the tribe of Manasseh 12,000,
 <small><sub>**Literal:**</sub></small>
 out of [the] tribe of Asher twelve thousand sealed; out of [the] tribe of Naphtali twelve thousand sealed; out of [the] tribe of Manasseh twelve thousand sealed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.5|<< Revelation 7:5]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.7|Revelation 7:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] tribe |**<big>[[G5443\|φυλῆς]]</big>**  |phulēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

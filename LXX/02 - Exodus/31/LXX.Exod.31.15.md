@@ -1,10 +1,7 @@
 **LXX Exodus 31:15** 
 <small><sub>**LXX:**</sub></small>
 Six days you shall do works, but the seventh day \[is a\] holy Sabbath rest to the <span class="smallcaps">lord</span>. All who shall do work on the day of the Sabbaths shall be put to death. 
-<small><sub>**KJV:**</sub></small>
-Six days may work be done; but in the seventh [is] the sabbath of rest, holy to the LORD: whosoever doeth [any] work in the sabbath day, he shall surely be put to death.
-<small><sub>**BSB:**</sub></small>
-For six days work may be done, but the seventh day is a Sabbath of complete rest, holy to the LORD. Whoever does any work on the Sabbath day must surely be put to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.31.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.14|<< Exodus 31:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.31.16|Exodus 31:16 >>]]</td></tr></table>
 
 | Translation | Greek |

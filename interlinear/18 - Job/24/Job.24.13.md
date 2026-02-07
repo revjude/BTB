@@ -1,4 +1,4 @@
-**Job 24:13** 
+**Job 24:13**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then there are those who rebel against the light, not knowing its ways or stayin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.12|<< Job 24:12]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.14|Job 24:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵ֤מָּה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are  |**<big>&#8207;[[H1961\|הָיוּ֮]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

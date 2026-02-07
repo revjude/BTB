@@ -1,10 +1,7 @@
 **LXX Leviticus 18:18** 
 <small><sub>**LXX:**</sub></small>
 You shall not take a wife in addition to her sister as a rival, to uncover  her indecency instead of her, while she \[is\] yet living. 
-<small><sub>**KJV:**</sub></small>
-Neither shalt thou take a wife to her sister, to vex [her], to uncover her nakedness, beside the other in her life [time].
-<small><sub>**BSB:**</sub></small>
-You must not take your wife’s sister as a rival wife and have sexual relations with her while your wife is still alive.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.17|<< Leviticus 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.19|Leviticus 18:19 >>]]</td></tr></table>
 
 | Translation | Greek |

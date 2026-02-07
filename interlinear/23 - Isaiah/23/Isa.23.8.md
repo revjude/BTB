@@ -1,4 +1,4 @@
-**Isaiah 23:8** 
+**Isaiah 23:8**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath taken this counsel against Tyre, the crowning [city], whose merchants [are] princes, whose traffickers [are] the honourable of the earth?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Who planned this against Tyre, the bestower of crowns, whose traders are princes
 > $\quad$ referenced by: [[Rev.18.11|Rev 18:11]] ☩ [[Rev.18.23|Rev 18:23]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֚י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | did he plan  |**<big>&#8207;[[H3289\|יָעַ֣ץ]]&#8207; </big>**| ya.'Atz<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

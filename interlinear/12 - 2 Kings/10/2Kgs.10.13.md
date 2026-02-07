@@ -1,4 +1,4 @@
-**2 Kings 10:13** 
+**2 Kings 10:13**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Jehu met with the brethren of Ahaziah king of Judah, and said, Who [are] ye? And they answered, We [are] the brethren of Ahaziah; and we go down to salute the children of the king and the children of the queen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jehu met some relatives of Ahaziah king of Judah and asked, “Who are you?” �
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.12|<< 2 Kings 10:12]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.14|2 Kings 10:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jehu  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3058H\|יֵה֗וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he found  |**<big>&#8207;[[H4672\|מָצָא֙]]&#8207; </big>**| ma.Tza'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

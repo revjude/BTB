@@ -1,10 +1,7 @@
 **LXX Job 18:19** 
 <small><sub>**LXX:**</sub></small>
 He will not be well known among his people, nor \[will\] his house be preserved in the \[place\] under heaven. 
-<small><sub>**KJV:**</sub></small>
-He shall neither have son nor nephew among his people, nor any remaining in his dwellings.
-<small><sub>**BSB:**</sub></small>
-He has no offspring or posterity among his people, no survivor where he once lived.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.18.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.18|<< Job 18:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.20|Job 18:20 >>]]</td></tr></table>
 
 | Translation | Greek |

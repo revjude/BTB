@@ -1,4 +1,4 @@
-**Exodus 31:17** 
+**Exodus 31:17**<big><big>[[Exod.31.12 The Sign of the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It [is] a sign between me and the children of Israel for ever: for [in] six days the LORD made heaven and earth, and on the seventh day he rested, and was refreshed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is a sign between Me and the Israelites forever; for in six days the LORD mad
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.31.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.16|<< Exodus 31:16]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.18|Exodus 31:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | between me  |**<big>&#8207;[[H0996G\|בֵּינִ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| bei.<small><sup>[[HAcmsc]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and between  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0996G\|בֵין֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

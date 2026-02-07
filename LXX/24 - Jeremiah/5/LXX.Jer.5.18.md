@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:18** 
 <small><sub>**LXX:**</sub></small>
 And it will be in  those days, says \[the\] <span class="smallcaps">lord</span>  your God, in no way will I appoint you unto completion. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless in those days, saith the LORD, I will not make a full end with you.
-<small><sub>**BSB:**</sub></small>
-“Yet even in those days,” declares the LORD, “I will not make a full end of you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.17|<< Jeremiah 5:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.19|Jeremiah 5:19 >>]]</td></tr></table>
 
 | Translation | Greek |

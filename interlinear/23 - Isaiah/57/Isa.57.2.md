@@ -1,4 +1,4 @@
-**Isaiah 57:2** 
+**Isaiah 57:2**<big><big>[[Isa.57.1 The Blessed Death of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall enter into peace: they shall rest in their beds, [each one] walking [in] his uprightness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those who walk uprightly enter into peace; they find rest, lying down in death.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.1|<< Isaiah 57:1]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.3|Isaiah 57:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will go  |**<big>&#8207;[[H0935G\|יָב֣וֹא]]&#8207; </big>**| ya.Vo'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | peace  |**<big>&#8207;[[H7965G\|שָׁל֔וֹם]]&#8207; </big>**| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

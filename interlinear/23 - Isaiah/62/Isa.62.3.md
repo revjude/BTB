@@ -1,4 +1,4 @@
-**Isaiah 62:3** 
+**Isaiah 62:3**<big><big>[[Isa.62.1 Zion’s Salvation and New Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt also be a crown of glory in the hand of the LORD, and a royal diadem in the hand of thy God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will be a crown of glory in the hand of the LORD, a royal diadem in the palm
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.62.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.2|<< Isaiah 62:2]]</td><td align="center" style="border:none;">[[Isa.62|Isaiah 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.4|Isaiah 62:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיִ֛יתְ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yit<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a crown of  |**<big>&#8207;[[H5850\|עֲטֶ֥רֶת]]&#8207; </big>**| 'a.Te.ret<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Kings 9:37** 
+**2 Kings 9:37**<big><big>[[2Kgs.9.30 Jezebel’s Violent Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the carcase of Jezebel shall be as dung upon the face of the field in the portion of Jezreel; [so] that they shall not say, This [is] Jezebel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Jezebel’s body will lie like dung in the field on the plot of ground at Je
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.36|<< 2 Kings 9:36]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.1|2 Kings 10:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H1961\|הָיְתָ֞ה]]&#8207; </big>**[^1] [^2] | ve.<small><sup>[[Hc]]</sup></small> ha.yat<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | [the] corpse of  |**<big>&#8207;[[H5038\|נִבְלַ֣ת]]&#8207; </big>**| niv.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

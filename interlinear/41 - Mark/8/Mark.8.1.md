@@ -1,12 +1,12 @@
-**Mark 8:1
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:1**<big><big>[[Mark.8.1 The Feeding of the Four Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In those days the multitude being very great, and having nothing to eat, Jesus called his disciples [unto him], and saith unto them,
 <small><sub>**BSB:**</sub></small>
 In those days the crowd once again became very large, and they had nothing to eat. Jesus called the disciples to Him and said,
 <small><sub>**Literal:**</sub></small>
 In those <the> days again much [the] crowd being and not having what they may eat, having called to [Him] <the> Jesus the disciples of him He says to them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.37|<< Mark 7:37]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.2|Mark 8:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|Ἐν]]</big>**  |En <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those |**<big>[[G1565\|ἐκείναις]]</big>**  |ekeinais <small><sup>[[D-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

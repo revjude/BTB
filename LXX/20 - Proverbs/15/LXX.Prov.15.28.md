@@ -1,10 +1,7 @@
 **LXX Proverbs 15:28** 
 <small><sub>**LXX:**</sub></small>
 \[The\] hearts of \[the\] just meditate trust; but \[the\] mouth of \[the\] impious answers evil \[things\]. \[The\] ways of just men \[are\] acceptable with \[the\] <span class="smallcaps">lord</span>; and through them even  enemies become friends. 
-<small><sub>**KJV:**</sub></small>
-The heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things.
-<small><sub>**BSB:**</sub></small>
-The heart of the righteous ponders how to answer, but the mouth of the wicked blurts out evil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.27|<< Proverbs 15:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.29|Proverbs 15:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 138:2** 
+**Psalms 138:2**<big><big>[[Ps.138.1 A Thankful Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will worship toward thy holy temple, and praise thy name for thy lovingkindness and for thy truth: for thou hast magnified thy word above all thy name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I bow down toward Your holy temple and give thanks to Your name for Your loving 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.138.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.138.1|<< Psalms 138:1]]</td><td align="center" style="border:none;">[[Ps.138|Psalms 138]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.138.3|Psalms 138:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will bow down  |**<big>&#8207;[[H7812\|אֶשְׁתַּחֲוֶ֨ה]]&#8207; </big>**| 'esh.ta.cha.Veh<small><sup>[[HVti1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

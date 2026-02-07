@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:8** 
 <small><sub>**LXX:**</sub></small>
 And Abner son of Ner, commander-in-chief  of Saul, took  Ishbosheth son  of Saul, and brought him from out of the camp into Mahanaim, 
-<small><sub>**KJV:**</sub></small>
-But Abner the son of Ner, captain of Saul’s host, took Ishbosheth the son of Saul, and brought him over to Mahanaim;
-<small><sub>**BSB:**</sub></small>
-Meanwhile, Abner son of Ner, the commander of Saul’s army, took Saul’s son Ish-bosheth, moved him to Mahanaim,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.7|<< 2 Samuel 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.9|2 Samuel 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

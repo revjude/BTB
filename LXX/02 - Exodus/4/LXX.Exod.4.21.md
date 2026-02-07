@@ -1,10 +1,7 @@
 **LXX Exodus 4:21** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, In your going and returning unto Egypt, discover all the miracles which I have put in  your hand, to do them before Pharaoh. But I will harden his  heart, and no way shall he send out the people. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go.
-<small><sub>**BSB:**</sub></small>
-The LORD instructed Moses, “When you go back to Egypt, see that you perform before Pharaoh all the wonders that I have put within your power. But I will harden his heart so that he will not let the people go.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.20|<< Exodus 4:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.22|Exodus 4:22 >>]]</td></tr></table>
 
 | Translation | Greek |

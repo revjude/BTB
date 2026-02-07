@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in  your measuring the land for inheritance, you shall separate \[the\] first-fruit to the <span class="smallcaps">lord</span>, a holy \[space\] of the land -- five and twenty thousand in length, and the breadth ten thousand; it will be holy in all  its limits round about. 
-<small><sub>**KJV:**</sub></small>
-Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the LORD, an holy portion of the land: the length [shall be] the length of five and twenty thousand [reeds], and the breadth [shall be] ten thousand. This [shall be] holy in all the borders thereof round about.
-<small><sub>**BSB:**</sub></small>
-“When you divide the land by lot as an inheritance, you are to set aside a portion for the LORD, a holy portion of the land 25,000 cubits long and 20,000 cubits wide. This entire tract of land will be holy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.45.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.31|<< Ezekiel 44:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.2|Ezekiel 45:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the measures of the altar by cubit of the cubit and a palm; the recess depth a cubit, and a cubit the breadth, and \[the\] molding upon the lip round about a span; and this \[is\] the height of the altar. 
-<small><sub>**KJV:**</sub></small>
-And these [are] the measures of the altar after the cubits: The cubit [is] a cubit and an hand breadth; even the bottom [shall be] a cubit, and the breadth a cubit, and the border thereof by the edge thereof round about [shall be] a span: and this [shall be] the higher place of the altar.
-<small><sub>**BSB:**</sub></small>
-These are the measurements of the altar in long cubits (a cubit and a handbreadth): Its gutter shall be a cubit deep and a cubit wide, with a rim of one span around its edge. And this is the height of the altar:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.12|<< Ezekiel 43:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.14|Ezekiel 43:14 >>]]</td></tr></table>
 
 | Translation | Greek |

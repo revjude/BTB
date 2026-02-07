@@ -1,4 +1,4 @@
-**2 Chronicles 31:6** 
+**2 Chronicles 31:6**<big><big>[[2Chr.31.3 Contributions for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [concerning] the children of Israel and Judah, that dwelt in the cities of Judah, they also brought in the tithe of oxen and sheep, and the tithe of holy things which were consecrated unto the LORD their God, and laid [them] by heaps.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the Israelites and Judahites who lived in the cities of Judah also brought a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.5|<< 2 Chronicles 31:5]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.7|2 Chronicles 31:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] people of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121G\|בְנֵ֧י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֣ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

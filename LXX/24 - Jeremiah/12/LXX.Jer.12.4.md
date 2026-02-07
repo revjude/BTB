@@ -1,10 +1,7 @@
 **LXX Jeremiah 12:4** 
 <small><sub>**LXX:**</sub></small>
 For how long the land mourn, and all the grass of the field be dried, because of \[the\] evils of the ones dwelling in it? \[The\] cattle and \[the\] winged creatures were removed from view; for they said, God shall not see our ways. 
-<small><sub>**KJV:**</sub></small>
-How long shall the land mourn, and the herbs of every field wither, for the wickedness of them that dwell therein? the beasts are consumed, and the birds; because they said, He shall not see our last end.
-<small><sub>**BSB:**</sub></small>
-How long will the land mourn and the grass of every field be withered? Because of the evil of its residents, the animals and birds have been swept away, for the people have said, “He cannot see what our end will be.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.3|<< Jeremiah 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.5|Jeremiah 12:5 >>]]</td></tr></table>
 
 | Translation | Greek |

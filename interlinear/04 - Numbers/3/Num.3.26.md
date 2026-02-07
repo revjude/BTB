@@ -1,4 +1,4 @@
-**Numbers 3:26** 
+**Numbers 3:26**<big><big>[[Num.3.21 The Gershonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the hangings of the court, and the curtain for the door of the court, which [is] by the tabernacle, and by the altar round about, and the cords of it for all the service thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the curtains of the courtyard, the curtain for the entrance to the courtyard tha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.25|<< Numbers 3:25]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.27|Numbers 3:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] curtains of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7050B\|קַלְעֵ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kal.'Ei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the courtyard  |**<big>&#8207;[[H9009\|הֶֽ]]&#8207;&#8207;[[H2691A\|חָצֵ֗ר]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> cha.Tzer<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

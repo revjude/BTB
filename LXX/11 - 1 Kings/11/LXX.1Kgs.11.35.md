@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:35** 
 <small><sub>**LXX:**</sub></small>
 And I shall take the kingdom from out of \[the\] hand  of his son, and I will give to you the ten chiefdoms. 
-<small><sub>**KJV:**</sub></small>
-But I will take the kingdom out of his son’s hand, and will give it unto thee, [even] ten tribes.
-<small><sub>**BSB:**</sub></small>
-But I will take ten tribes of the kingdom from the hand of his son and give them to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.34|<< 1 Kings 11:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.36|1 Kings 11:36 >>]]</td></tr></table>
 
 | Translation | Greek |

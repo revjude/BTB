@@ -1,10 +1,7 @@
 **LXX Genesis 19:23** 
 <small><sub>**LXX:**</sub></small>
 The sun came \[up\] upon the earth, and Lot entered into Zoar. 
-<small><sub>**KJV:**</sub></small>
-The sun was risen upon the earth when Lot entered into Zoar.
-<small><sub>**BSB:**</sub></small>
-And by the time the sun had risen over the land, Lot had reached Zoar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.22|<< Genesis 19:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.24|Genesis 19:24 >>]]</td></tr></table>
 
 | Translation | Greek |

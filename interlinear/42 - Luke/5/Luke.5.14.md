@@ -1,5 +1,5 @@
-**Luke 5:14
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:14**<big><big>[[Luke.5.12 The Leper’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them.
 <small><sub>**BSB:**</sub></small>
 “Do not tell anyone,” Jesus instructed him. “But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.”
@@ -10,7 +10,7 @@ And He himself ordered him no one to tell But having gone do show yourself to th
 > $\quad$ alluding to: [[LXX.Lev.14.2|Lev 14:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

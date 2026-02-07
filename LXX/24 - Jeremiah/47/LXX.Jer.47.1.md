@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] word of \[the\] <span class="smallcaps">lord</span> came to Jeremiah the prophet against the Philistines, before the striking of Pharaoh  of Gaza. 
-<small><sub>**KJV:**</sub></small>
-The word of the LORD that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza.
-<small><sub>**BSB:**</sub></small>
-This is the word of the LORD that came to Jeremiah the prophet about the Philistines before Pharaoh struck down Gaza.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.47.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.28|<< Jeremiah 46:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.2|Jeremiah 47:2 >>]]</td></tr></table>
 
 | Translation | Greek |

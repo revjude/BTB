@@ -1,12 +1,12 @@
-**John 3:34
-**<small><sub>**KJV:**</sub></small>
+**John 3:34**<big><big>[[John.3.22 John’s Testimony about Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure [unto him].
 <small><sub>**BSB:**</sub></small>
 For the One whom God has sent speaks the words of God, for God gives the Spirit without limit.
 <small><sub>**Literal:**</sub></small>
 He whom for sent <the> God, the declarations <the> of God speaks; not for by measure He gives <the> God the Spirit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.33|<< John 3:33]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.35|John 3:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He whom |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 46:7** 
+**Isaiah 46:7**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They bear him upon the shoulder, they carry him, and set him in his place, and he standeth; from his place shall he not remove: yea, [one] shall cry unto him, yet can he not answer, nor save him out of his trouble.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They lift it to their shoulder and carry it along; they set it in its place, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.6|<< Isaiah 46:6]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.8|Isaiah 46:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they lift up it  |**<big>&#8207;[[H5375G\|יִ֠שָּׂאֻ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| Yi.sa.'u.<small><sup>[[HVqi3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 34:20** 
 <small><sub>**LXX:**</sub></small>
 And a first-born beast of burden you shall ransom \[with a\] sheep. But if you will not ransom it, you shall give value for it. Every first-born  of your sons you shall ransom. You shall not appear before me empty. 
-<small><sub>**KJV:**</sub></small>
-But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem [him] not, then shalt thou break his neck. All the firstborn of thy sons thou shalt redeem. And none shall appear before me empty.
-<small><sub>**BSB:**</sub></small>
-You must redeem the firstborn of a donkey with a lamb; but if you do not redeem it, you are to break its neck. You must redeem all the firstborn of your sons. No one shall appear before Me empty-handed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.19|<< Exodus 34:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.21|Exodus 34:21 >>]]</td></tr></table>
 
 | Translation | Greek |

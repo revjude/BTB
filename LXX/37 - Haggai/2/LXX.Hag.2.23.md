@@ -1,10 +1,7 @@
 **LXX Haggai 2:23** 
 <small><sub>**LXX:**</sub></small>
 In  that day, says \[the\] <span class="smallcaps">lord</span> almighty, I will take you Zerubbabel the \[son of\] Shealtiel  my servant, says \[the\] <span class="smallcaps">lord</span>, and I will set you as a seal. For I have selected you, says \[the\] <span class="smallcaps">lord</span> almighty. 
-<small><sub>**KJV:**</sub></small>
-In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-On that day, declares the LORD of Hosts, I will take you, My servant, Zerubbabel son of Shealtiel, declares the LORD, and I will make you like My signet ring, for I have chosen you, declares the LORD of Hosts.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.22|<< Haggai 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.1|Zechariah 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

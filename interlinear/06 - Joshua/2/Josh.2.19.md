@@ -1,4 +1,4 @@
-**Joshua 2:19** 
+**Joshua 2:19**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, [that] whosoever shall go out of the doors of thy house into the street, his blood [shall be] upon his head, and we [will be] guiltless: and whosoever shall be with thee in the house, his blood [shall be] on our head, if [any] hand be upon him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If anyone goes out the door of your house into the street, his blood will be on 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.18|<< Joshua 2:18]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.20|Joshua 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֡ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כֹּ֣ל]]&#8207; </big>**| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

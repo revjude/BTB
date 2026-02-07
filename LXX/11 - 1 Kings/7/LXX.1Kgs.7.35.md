@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:35** 
 <small><sub>**LXX:**</sub></small>
 And upon the head of the base a half  a cubit was its globular size round about upon the head of the base. And the hands of it and  its joineries were of it; and it opened upon the beginnings  of its hands. 
-<small><sub>**KJV:**</sub></small>
-And in the top of the base [was there] a round compass of half a cubit high: and on the top of the base the ledges thereof and the borders thereof [were] of the same.
-<small><sub>**BSB:**</sub></small>
-At the top of each stand was a circular band half a cubit high. The supports and panels were cast as a unit with the top of the stand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.34|<< 1 Kings 7:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.36|1 Kings 7:36 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 10:6** 
 <small><sub>**LXX:**</sub></small>
 The fool was put in great heights, and \[the\] rich shall settle in low. 
-<small><sub>**KJV:**</sub></small>
-Folly is set in great dignity, and the rich sit in low place.
-<small><sub>**BSB:**</sub></small>
-Folly is appointed to great heights, but the rich sit in lowly positions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.5|<< Ecclesiastes 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.7|Ecclesiastes 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

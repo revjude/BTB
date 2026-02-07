@@ -1,4 +1,4 @@
-**Psalms 34:16** (34:17)
+**Psalms 34:16**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The face of the LORD [is] against them that do evil, to cut off the remembrance of them from the earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But the face of the LORD is against those who do evil, to wipe out all memory of
 > $\quad$ referenced by: [[1Pet.3.10|1Pet 3:10-12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] face of  |**<big>&#8207;[[H6440H\|פְּנֵ֣י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And taking up, all the congregation gave a sound, and the people wept that entire night. 
-<small><sub>**KJV:**</sub></small>
-And all the congregation lifted up their voice, and cried; and the people wept that night.
-<small><sub>**BSB:**</sub></small>
-Then the whole congregation lifted up their voices and cried out, and that night the people wept.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.33|<< Numbers 13:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.2|Numbers 14:2 >>]]</td></tr></table>
 
 | Translation | Greek |

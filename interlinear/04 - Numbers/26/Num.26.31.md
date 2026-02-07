@@ -1,4 +1,4 @@
-**Numbers 26:31** 
+**Numbers 26:31**<big><big>[[Num.26.28 The Tribe of Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [of] Asriel, the family of the Asrielites: and [of] Shechem, the family of the Shechemites:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the Asrielite clan from Asriel, the Shechemite clan from Shechem,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.30|<< Numbers 26:30]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.32|Numbers 26:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Asriel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0844G\|אַ֨שְׂרִיאֵ֔ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'As.ri.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] clan of  |**<big>&#8207;[[H4940\|מִשְׁפַּ֖חַת]]&#8207; </big>**| mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Esther 2:6** 
 <small><sub>**LXX:**</sub></small>
 who was a captive from Jerusalem, which Nebuchadnezzar the king of Babylon captured. 
-<small><sub>**KJV:**</sub></small>
-Who had been carried away from Jerusalem with the captivity which had been carried away with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away.
-<small><sub>**BSB:**</sub></small>
-He had been carried into exile from Jerusalem by Nebuchadnezzar king of Babylon among those taken captive with Jeconiah king of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.5|<< Esther 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.7|Esther 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

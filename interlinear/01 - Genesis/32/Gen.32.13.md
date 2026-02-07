@@ -1,4 +1,4 @@
-**Genesis 32:13** (32:14)
+**Genesis 32:13**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jacob spent the night there, and from what he had brought with him, he selected 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.12|<< Genesis 32:12]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.14|Genesis 32:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stayed [the] night  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3885A\|יָּ֥לֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.len<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֖ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

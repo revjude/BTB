@@ -1,5 +1,5 @@
-**Acts 7:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:11**<big><big>[[Acts.7.9 Joseph Sold into Egypt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now there came a dearth over all the land of Egypt and Chanaan, and great affliction: and our fathers found no sustenance.
 <small><sub>**BSB:**</sub></small>
 Then famine and great suffering swept across Egypt and Canaan, and our fathers could not find food.
@@ -10,7 +10,7 @@ Came then a famine upon all the land of Egypt and Canaan and affliction great an
 > $\quad$ alluding to: [[LXX.Gen.41.54|Gen 41:54]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Came |**<big>[[G2064\|ἦλθεν]]</big>**  |ēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

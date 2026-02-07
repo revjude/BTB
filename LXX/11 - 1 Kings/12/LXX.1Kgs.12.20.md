@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as all Israel heard that Jeroboam returned from out of Egypt, that they sent and called him to the congregation. And they gave him reign over Israel. And there was none \[following\] after \[the\] house of David except \[the\] chiefdom of Judah and Benjamin only. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when all Israel heard that Jeroboam was come again, that they sent and called him unto the congregation, and made him king over all Israel: there was none that followed the house of David, but the tribe of Judah only.
-<small><sub>**BSB:**</sub></small>
-When all Israel heard that Jeroboam had returned, they summoned him to the assembly and made him king over all Israel. Only the tribe of Judah followed the house of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.19|<< 1 Kings 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.21|1 Kings 12:21 >>]]</td></tr></table>
 
 | Translation | Greek |

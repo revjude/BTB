@@ -1,4 +1,4 @@
-**Proverbs 30:9** 
+**Proverbs 30:9**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest I be full, and deny [thee], and say, Who [is] the LORD? or lest I be poor, and steal, and take the name of my God [in vain].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Otherwise, I may have too much and deny You, saying, ‘Who is the LORD?’ Or I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.8|<< Proverbs 30:8]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.10|Proverbs 30:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lest  |**<big>&#8207;[[H6435\|פֶּ֥ן]]&#8207; </big>**| pen<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I should be satisfied  |**<big>&#8207;[[H7646\|אֶשְׂבַּ֨ע]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'es.Ba'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

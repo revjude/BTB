@@ -1,4 +1,4 @@
-**Genesis 35:26** 
+**Genesis 35:26**<big><big>[[Gen.35.21 The Sons of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Zilpah, Leah’s handmaid; Gad, and Asher: these [are] the sons of Jacob, which were born to him in Padanaram.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the sons of Leah’s maidservant Zilpah were Gad and Asher. These are the so
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.25|<< Genesis 35:25]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.27|Genesis 35:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֥י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zilpah  |**<big>&#8207;[[H2153\|זִלְפָּ֛ה]]&#8207; </big>**| zil.Pah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

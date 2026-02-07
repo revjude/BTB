@@ -1,10 +1,7 @@
 **LXX Joel 1:20** 
 <small><sub>**LXX:**</sub></small>
 And the cattle of the plain look up to you, for \[the\] releases of waters were dried up, and fire devoured the beautiful \[things\] of the wilderness. 
-<small><sub>**KJV:**</sub></small>
-The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness.
-<small><sub>**BSB:**</sub></small>
-Even the beasts of the field pant for You, for the streams of water have dried up, and fire has consumed the open pastures.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.19|<< Joel 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.1|Joel 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

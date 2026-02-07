@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:2** 
 <small><sub>**LXX:**</sub></small>
 And he did the upright \[thing\] before \[the\] <span class="smallcaps">lord</span>, and he went in \[the\] ways of David  his father, and he did not turn aside right \[nor\] left. 
-<small><sub>**KJV:**</sub></small>
-And he did [that which was] right in the sight of the LORD, and walked in the ways of David his father, and declined [neither] to the right hand, nor to the left.
-<small><sub>**BSB:**</sub></small>
-And he did what was right in the eyes of the LORD and walked in the ways of his father David; he did not turn aside to the right or to the left.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.1|<< 2 Chronicles 34:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.3|2 Chronicles 34:3 >>]]</td></tr></table>
 
 | Translation | Greek |

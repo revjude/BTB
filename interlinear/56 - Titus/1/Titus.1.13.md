@@ -1,12 +1,12 @@
-**Titus 1:13
-**<small><sub>**KJV:**</sub></small>
+**Titus 1:13**<big><big>[[Titus.1.10 Correcting False Teachers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;
 <small><sub>**BSB:**</sub></small>
 This testimony is true. Therefore rebuke them sternly, so that they will be sound in the faith
 <small><sub>**Literal:**</sub></small>
 <the> testimony this is true; for which cause do rebuke them severely, so that they may be sound in the faith,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.12|<< Titus 1:12]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.14|Titus 1:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | testimony |**<big>[[G3141\|μαρτυρία]]</big>**  |marturia <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

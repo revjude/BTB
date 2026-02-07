@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the interpretation of it, O king, and it is an interpretation of \[the\] highest which came upon  my lord the king. 
-<small><sub>**KJV:**</sub></small>
-This [is] the interpretation, O king, and this [is] the decree of the most High, which is come upon my lord the king:
-<small><sub>**BSB:**</sub></small>
-This is the interpretation, O king, and this is the decree that the Most High has issued against my lord the king:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.23|<< Daniel 4:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.25|Daniel 4:25 >>]]</td></tr></table>
 
 | Translation | Greek |

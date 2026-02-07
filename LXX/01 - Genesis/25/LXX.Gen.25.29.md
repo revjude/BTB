@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jacob boiled stew; and Esau came from out of the plains -- failing. 
-<small><sub>**KJV:**</sub></small>
-And Jacob sod pottage: and Esau came from the field, and he [was] faint:
-<small><sub>**BSB:**</sub></small>
-One day, while Jacob was cooking some stew, Esau came in from the field and was famished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.28|<< Genesis 25:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.30|Genesis 25:30 >>]]</td></tr></table>
 
 | Translation | Greek |

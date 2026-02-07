@@ -1,4 +1,4 @@
-**Ezekiel 34:3** 
+**Ezekiel 34:3**<big><big>[[Ezek.34.1 A Prophecy against Israel’s Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: [but] ye feed not the flock.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You eat the fat, wear the wool, and butcher the fattened sheep, but you do not f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.2|<< Ezekiel 34:2]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.4|Ezekiel 34:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the fat  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2459\|חֵ֤לֶב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Che.lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 20:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:7**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They say unto him, Because no man hath hired us. He saith unto them, Go ye also into the vineyard; and whatsoever is right, [that] shall ye receive.
 <small><sub>**BSB:**</sub></small>
 ‘Because no one has hired us,’ they answered. So he told them, ‘You also go into my vineyard.’
 <small><sub>**Literal:**</sub></small>
 They say to him Because no [one] us has hired. He says to them; do go also You yourselves into the vineyard’ and what if shall be right you will receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.6|<< Matthew 20:6]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.8|Matthew 20:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They say |**<big>[[G3004G\|λέγουσιν]]</big>**  |legousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

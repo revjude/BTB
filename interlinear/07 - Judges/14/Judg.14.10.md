@@ -1,4 +1,4 @@
-**Judges 14:10** 
+**Judges 14:10**<big><big>[[Judg.14.8 Samson’s Riddle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So his father went down unto the woman: and Samson made there a feast; for so used the young men to do.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then his father went to visit the woman, and Samson prepared a feast there, as w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.9|<< Judges 14:9]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.11|Judges 14:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3381\|יֵּ֥רֶד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.red<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | father his  |**<big>&#8207;[[H0001G\|אָבִ֖י]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

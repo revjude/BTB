@@ -1,4 +1,4 @@
-**2 Kings 2:8** 
+**2 Kings 2:8**<big><big>[[2Kgs.2.1 Elijah Taken Up to Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elijah took his mantle, and wrapped [it] together, and smote the waters, and they were divided hither and thither, so that they two went over on dry ground.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Elijah took his cloak, rolled it up, and struck the waters, which parted to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.7|<< 2 Kings 2:7]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.9|2 Kings 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּח֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elijah  |**<big>&#8207;[[H0452G\|אֵלִיָּ֨הוּ]]&#8207; </big>**| 'e.li.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

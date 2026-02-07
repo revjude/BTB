@@ -1,12 +1,12 @@
-**Colossians 3:22
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:22**<big><big>[[Col.3.22 Serving with Honor|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Servants, obey in all things [your] masters according to the flesh; not with eyeservice, as menpleasers; but in singleness of heart, fearing God:
 <small><sub>**BSB:**</sub></small>
 Slaves, obey your earthly masters in everything, not only to please them while they are watching, but with sincerity of heart and fear of the Lord.
 <small><sub>**Literal:**</sub></small>
 you who [are] Slaves, do obey in all things the according to flesh masters, not with eye-service as men-pleasers but in sincerity of heart fearing the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.21|<< Colossians 3:21]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.23|Colossians 3:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you who [are] |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Slaves, |**<big>[[G1401\|δοῦλοι,]]</big>**  |douloi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

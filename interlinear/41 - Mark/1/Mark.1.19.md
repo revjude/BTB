@@ -1,12 +1,12 @@
-**Mark 1:19
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:19**<big><big>[[Mark.1.16 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had gone a little further thence, he saw James the [son] of Zebedee, and John his brother, who also were in the ship mending their nets.
 <small><sub>**BSB:**</sub></small>
 Going on a little farther, He saw James son of Zebedee and his brother John. They were in a boat, mending their nets.
 <small><sub>**Literal:**</sub></small>
 And having gone on from there a little He saw James the [son] <the> of Zebedee and John the brother of him, and they [were] in the boat adjusting the nets,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.18|<< Mark 1:18]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.20|Mark 1:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone on |**<big>[[G4260\|προβὰς]]</big>**  |probas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |

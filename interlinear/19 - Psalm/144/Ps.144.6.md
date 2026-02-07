@@ -1,4 +1,4 @@
-**Psalms 144:6** 
+**Psalms 144:6**<big><big>[[Ps.144.1 Blessed Be the LORD, My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cast forth lightning, and scatter them: shoot out thine arrows, and destroy them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Flash forth Your lightning and scatter them; shoot Your arrows and rout them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.144.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.5|<< Psalms 144:5]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.7|Psalms 144:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | flash  |**<big>&#8207;[[H1299\|בְּר֣וֹק]]&#8207; </big>**| be.Rok<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lightning  |**<big>&#8207;[[H1300B\|בָּ֭רָק]]&#8207; </big>**| Ba.rok<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

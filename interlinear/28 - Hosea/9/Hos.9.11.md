@@ -1,4 +1,4 @@
-**Hosea 9:11** 
+**Hosea 9:11**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] Ephraim, their glory shall fly away like a bird, from the birth, and from the womb, and from the conception.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ephraim’s glory will fly away like a bird, with no birth, no pregnancy, and no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.10|<< Hosea 9:10]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.12|Hosea 9:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֕יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> bird  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H5775\|ע֖וֹף]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'of<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

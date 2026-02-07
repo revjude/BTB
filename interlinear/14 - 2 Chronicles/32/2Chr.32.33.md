@@ -1,4 +1,4 @@
-**2 Chronicles 32:33** 
+**2 Chronicles 32:33**<big><big>[[2Chr.32.32 Hezekiah’s Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah slept with his fathers, and they buried him in the chiefest of the sepulchres of the sons of David: and all Judah and the inhabitants of Jerusalem did him honour at his death. And Manasseh his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Hezekiah rested with his fathers and was buried in the upper tombs of David�
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.32|<< 2 Chronicles 32:32]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.1|2 Chronicles 33:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lay down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901J\|יִּשְׁכַּ֨ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hezekiah  |**<big>&#8207;[[H2396G\|יְחִזְקִיָּ֜הוּ]]&#8207; </big>**| ye.chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

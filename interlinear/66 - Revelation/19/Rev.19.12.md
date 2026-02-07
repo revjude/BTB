@@ -1,5 +1,5 @@
-**Revelation 19:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:12**<big><big>[[Rev.19.11 The Rider on the White Horse|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 His eyes [were] as a flame of fire, and on his head [were] many crowns; and he had a name written, that no man knew, but he himself.
 <small><sub>**BSB:**</sub></small>
 He has eyes like blazing fire, and many royal crowns on His head. He has a name written on Him that only He Himself knows.
@@ -10,7 +10,7 @@ He has eyes like blazing fire, and many royal crowns on His head. He has a name 
 > $\quad$ alluding to: [[LXX.Dan.10.6|Dan 10:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

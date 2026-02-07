@@ -1,12 +1,12 @@
-**Luke 21:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:20**<big><big>[[Luke.21.20 The Destruction of Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.
 <small><sub>**BSB:**</sub></small>
 But when you see Jerusalem surrounded by armies, you will know that her desolation is near.
 <small><sub>**Literal:**</sub></small>
 When then you may see being encircled by encampments <the> Jerusalem, then do know that has drawn near the desolation of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.19|<< Luke 21:19]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.21|Luke 21:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|Ὅταν]]</big>**  |Hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

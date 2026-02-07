@@ -1,4 +1,4 @@
-**Psalms 45:6** (45:7)
+**Psalms 45:6**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy throne, O God, [is] for ever and ever: the sceptre of thy kingdom [is] a right sceptre.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Your throne, O God, endures forever and ever, and justice is the scepter of Your
 > $\quad$ referenced by: [[Heb.1.8|Heb 1:8-9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | throne your  |**<big>&#8207;[[H3678G\|כִּסְאֲ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| kis.'a.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

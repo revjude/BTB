@@ -1,10 +1,7 @@
 **LXX Psalm 51:5** 
 <small><sub>**LXX:**</sub></small>
 For behold in lawless deeds I was conceived, and in sins my mother craved strange food for me. 
-<small><sub>**KJV:**</sub></small>
-Behold, I was shapen in iniquity; and in sin did my mother conceive me.
-<small><sub>**BSB:**</sub></small>
-Surely I was brought forth in iniquity; I was sinful when my mother conceived me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.51.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.51.4|<< Psalm 51:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.6|Psalm 51:6 >>]]</td></tr></table>
 
 | Translation | Greek |

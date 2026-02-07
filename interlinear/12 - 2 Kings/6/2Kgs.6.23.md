@@ -1,4 +1,4 @@
-**2 Kings 6:23** 
+**2 Kings 6:23**<big><big>[[2Kgs.6.8 Elisha Captures the Blinded Arameans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he prepared great provision for them: and when they had eaten and drunk, he sent them away, and they went to their master. So the bands of Syria came no more into the land of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the king prepared a great feast for them, and after they had finished eating 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.22|<< 2 Kings 6:22]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.24|2 Kings 6:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he gave a feast  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3739B\|יִּכְרֶ֨ה]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.Reh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֜ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 7:27
-**<small><sub>**KJV:**</sub></small>
+**John 7:27**<big><big>[[John.7.25 Is Jesus the Christ？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Howbeit we know this man whence he is: but when Christ cometh, no man knoweth whence he is.
 <small><sub>**BSB:**</sub></small>
 But we know where this man is from. When the Christ comes, no one will know where He is from.”
 <small><sub>**Literal:**</sub></small>
 But this [man] we know from where He is; The however Christ whenever He may come, no [one] knows from where He is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.26|<< John 7:26]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.28|John 7:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this [man] |**<big>[[G3778\|τοῦτον]]</big>**  |touton <small><sup>[[D-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

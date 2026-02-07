@@ -1,12 +1,12 @@
-**Acts 22:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:27**<big><big>[[Acts.22.22 Paul the Roman Citizen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the chief captain came, and said unto him, Tell me, art thou a Roman? He said, Yea.
 <small><sub>**BSB:**</sub></small>
 The commander went to Paul and asked, “Tell me, are you a Roman citizen?” “Yes,” he answered.
 <small><sub>**Literal:**</sub></small>
 Having come near then the commander said to him; do tell me, if you yourself a Roman are? <the> And he was saying; Yes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.26|<< Acts 22:26]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.28|Acts 22:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having come near |**<big>[[G4334\|προσελθὼν]]</big>**  |proselthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

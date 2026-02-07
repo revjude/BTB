@@ -1,10 +1,7 @@
 **LXX 2 Kings 1:16** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, Thus says \[the\] <span class="smallcaps">lord</span>, Because you sent messengers to ask to  Baal \[the\] fly god of Ekron, as if there was not a God in Israel  to ask the word of him, on account of this the bed upon which you ascended upon it, you shall not go down from it, for in death you shall die. 
-<small><sub>**KJV:**</sub></small>
-And he said unto him, Thus saith the LORD, Forasmuch as thou hast sent messengers to inquire of Baalzebub the god of Ekron, [is it] not because [there is] no God in Israel to inquire of his word? therefore thou shalt not come down off that bed on which thou art gone up, but shalt surely die.
-<small><sub>**BSB:**</sub></small>
-And Elijah said to King Ahaziah, “This is what the LORD says: Is there really no God in Israel for you to inquire of His word? Is that why you have sent messengers to inquire of Baal-zebub, the god of Ekron? Therefore you will not get up from the bed on which you are lying. You will surely die.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.15|<< 2 Kings 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.17|2 Kings 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

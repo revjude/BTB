@@ -1,10 +1,7 @@
 **LXX Genesis 18:32** 
 <small><sub>**LXX:**</sub></small>
 And he said, Much less, O Lord, if I may speak still once \[more\], but if \[there\] may be found there ten? And he said, No way will I destroy because of the ten. 
-<small><sub>**KJV:**</sub></small>
-And he said, Oh let not the Lord be angry, and I will speak yet but this once: Peradventure ten shall be found there. And he said, I will not destroy [it] for ten’s sake.
-<small><sub>**BSB:**</sub></small>
-Finally, Abraham said, “May the Lord not be angry, but let me speak once more. Suppose ten are found there?” And He answered, “On account of the ten, I will not destroy it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.31|<< Genesis 18:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.33|Genesis 18:33 >>]]</td></tr></table>
 
 | Translation | Greek |

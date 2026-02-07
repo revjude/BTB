@@ -1,4 +1,4 @@
-**Leviticus 6:26** (6:19)
+**Leviticus 6:26**<big><big>[[Lev.6.24 The Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The priest that offereth it for sin shall eat it: in the holy place shall it be eaten, in the court of the tabernacle of the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priest who offers it shall eat it; it must be eaten in a holy place, in the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.25|<< Leviticus 6:25]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.27|Leviticus 6:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֛ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who makes a sin offering  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2398\|מְחַטֵּ֥א]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.cha.Te'<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 3:25** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] fear which I thought about, came to me; and which I had in awe, met with me. 
-<small><sub>**KJV:**</sub></small>
-For the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me.
-<small><sub>**BSB:**</sub></small>
-For the thing I feared has overtaken me, and what I dreaded has befallen me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.3.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.24|<< Job 3:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.26|Job 3:26 >>]]</td></tr></table>
 
 | Translation | Greek |

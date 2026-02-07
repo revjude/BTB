@@ -1,12 +1,12 @@
-**Mark 3:17
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:17**<big><big>[[Mark.3.13 The Twelve Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And James the [son] of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:
 <small><sub>**BSB:**</sub></small>
 James son of Zebedee and his brother John (whom He named Boanerges, meaning “Sons of Thunder”),
 <small><sub>**Literal:**</sub></small>
 and James the [son] <the> of Zebedee and John the brother <the> of James, and He added to them [the] names Boanerges, which is Sons of thunder;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.16|<< Mark 3:16]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.18|Mark 3:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | James |**<big>[[G2385G\|Ἰάκωβον]]</big>**  |Iakōbon <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 4:30
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:30**<big><big>[[Acts.4.23 The Believers’ Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By stretching forth thine hand to heal; and that signs and wonders may be done by the name of thy holy child Jesus.
 <small><sub>**BSB:**</sub></small>
 as You stretch out Your hand to heal and perform signs and wonders through the name of Your holy servant Jesus.”
 <small><sub>**Literal:**</sub></small>
 in that the hand of You stretching out You for healing and signs and wonders to take place through the name of the holy servant of You Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.29|<< Acts 4:29]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.31|Acts 4:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**John 11:39
-**<small><sub>**KJV:**</sub></small>
+**John 11:39**<big><big>[[John.11.38 Jesus Raises Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus said, Take ye away the stone. Martha, the sister of him that was dead, saith unto him, Lord, by this time he stinketh: for he hath been [dead] four days.
 <small><sub>**BSB:**</sub></small>
 “Take away the stone,” Jesus said. “Lord, by now he stinks,” said Martha, the sister of the dead man. “It has already been four days.”
 <small><sub>**Literal:**</sub></small>
 Says <the> Jesus; do take away the stone. Says to Him the sister of the [one] having deceased Martha; Lord, already he stinks; four days for it is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.38|<< John 11:38]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.40|John 11:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

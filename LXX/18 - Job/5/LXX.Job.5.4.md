@@ -1,10 +1,7 @@
 **LXX Job 5:4** 
 <small><sub>**LXX:**</sub></small>
 be their sons at a distance from safety, and they shall be crushed at \[the\] doors of lesser \[men\], and there shall not be  one rescuing. 
-<small><sub>**KJV:**</sub></small>
-His children are far from safety, and they are crushed in the gate, neither [is there] any to deliver [them].
-<small><sub>**BSB:**</sub></small>
-His sons are far from safety, crushed in court without a defender.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.3|<< Job 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.5|Job 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

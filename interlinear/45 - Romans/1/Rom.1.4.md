@@ -1,12 +1,12 @@
-**Romans 1:4
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:4**<big><big>[[Rom.1.1 Paul Greets the Saints in Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And declared [to be] the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:
 <small><sub>**BSB:**</sub></small>
 and who through the Spirit of holiness was declared with power to be the Son of God by His resurrection from the dead: Jesus Christ our Lord.
 <small><sub>**Literal:**</sub></small>
 who having been declared Son of God in power according to [the] Spirit of holiness by resurrection [from the] dead, Jesus Christ the Lord of us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.3|<< Romans 1:3]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.5|Romans 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having been declared |**<big>[[G3724\|ὁρισθέντος]]</big>**  |horisthentos <small><sup>[[V-APP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

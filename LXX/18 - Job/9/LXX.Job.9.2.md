@@ -1,10 +1,7 @@
 **LXX Job 9:2** 
 <small><sub>**LXX:**</sub></small>
 In truth I know that it is so; for how shall there be a just mortal before \[the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-I know [it is] so of a truth: but how should man be just with God?
-<small><sub>**BSB:**</sub></small>
-“Yes, I know that it is so, but how can a mortal be righteous before God?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.1|<< Job 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.3|Job 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

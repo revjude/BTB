@@ -1,10 +1,7 @@
 **LXX Proverbs 3:11** 
 <small><sub>**LXX:**</sub></small>
 O son, do not have little regard for \[the\] instruction of \[the\] <span class="smallcaps">lord</span>, nor loosen up under his reproving! 
-<small><sub>**KJV:**</sub></small>
-My son, despise not the chastening of the LORD; neither be weary of his correction:
-<small><sub>**BSB:**</sub></small>
-My son, do not reject the discipline of the LORD, and do not loathe His rebuke;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.10|<< Proverbs 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.12|Proverbs 3:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Proverbs 3:11** is...

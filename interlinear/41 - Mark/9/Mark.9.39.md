@@ -1,12 +1,12 @@
-**Mark 9:39
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:39**<big><big>[[Mark.9.33 The Greatest in the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Jesus said, Forbid him not: for there is no man which shall do a miracle in my name, that can lightly speak evil of me.
 <small><sub>**BSB:**</sub></small>
 “Do not stop him,” Jesus replied. “For no one who performs a miracle in My name can turn around and speak evil of Me.
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus said; Not do forbid him; No [one] for there is who will do a work of power in the name of Mine and will be able readily to speak evil of Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.38|<< Mark 9:38]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.40|Mark 9:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

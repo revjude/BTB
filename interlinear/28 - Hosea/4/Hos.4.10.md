@@ -1,4 +1,4 @@
-**Hosea 4:10** 
+**Hosea 4:10**<big><big>[[Hos.4.1 God’s Case against His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will eat but not be satisfied; they will be promiscuous but not multiply. F
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.9|<< Hosea 4:9]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.11|Hosea 4:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will eat  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0398\|אָֽכְלוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.khe.Lu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

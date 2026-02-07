@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:17** 
 <small><sub>**LXX:**</sub></small>
 And he said to David, You \[are\] righteous over me, for you recompensed to me good \[things\], but I recompensed to you evils. 
-<small><sub>**KJV:**</sub></small>
-And he said to David, Thou [art] more righteous than I: for thou hast rewarded me good, whereas I have rewarded thee evil.
-<small><sub>**BSB:**</sub></small>
-and said to David, “You are more righteous than I, for you have rewarded me with good, though I have rewarded you with evil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.16|<< 1 Samuel 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.18|1 Samuel 24:18 >>]]</td></tr></table>
 
 | Translation | Greek |

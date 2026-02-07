@@ -1,10 +1,7 @@
 **LXX Numbers 35:15** 
 <small><sub>**LXX:**</sub></small>
 A place of refuge they will be to the sons of Israel. And to the foreigner and to the sojourner  among you these cities will be for a place of refuge to flee there to all striking a soul unintentionally. 
-<small><sub>**KJV:**</sub></small>
-These six cities shall be a refuge, [both] for the children of Israel, and for the stranger, and for the sojourner among them: that every one that killeth any person unawares may flee thither.
-<small><sub>**BSB:**</sub></small>
-These six cities will serve as a refuge for the Israelites and for the foreigner or stranger among them, so that anyone who kills a person unintentionally may flee there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.14|<< Numbers 35:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.16|Numbers 35:16 >>]]</td></tr></table>
 
 | Translation | Greek |

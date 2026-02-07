@@ -1,12 +1,12 @@
-**1 John 2:8
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:8**<big><big>[[1John.2.7 A New Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth.
 <small><sub>**BSB:**</sub></small>
 Then again, I am also writing to you a new commandment, which is true in Him and also in you. For the darkness is fading and the true light is already shining.
 <small><sub>**Literal:**</sub></small>
 Again a commandment new I am writing to you which is true in Him and in you, because the darkness is passing away and the light <the> true already shines.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.7|<< 1 John 2:7]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.9|1 John 2:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Again |**<big>[[G3825\|πάλιν]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a commandment |**<big>[[G1785\|ἐντολὴν]]</big>**  |entolēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

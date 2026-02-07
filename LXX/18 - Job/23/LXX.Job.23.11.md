@@ -1,10 +1,7 @@
 **LXX Job 23:11** 
 <small><sub>**LXX:**</sub></small>
 And I shall go forth in his precepts, for his ways I kept; and in no way shall I turn aside from his precepts; 
-<small><sub>**KJV:**</sub></small>
-My foot hath held his steps, his way have I kept, and not declined.
-<small><sub>**BSB:**</sub></small>
-My feet have followed in His tracks; I have kept His way without turning aside.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.10|<< Job 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.23.12|Job 23:12 >>]]</td></tr></table>
 
 | Translation | Greek |

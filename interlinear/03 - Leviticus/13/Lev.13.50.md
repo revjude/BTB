@@ -1,4 +1,4 @@
-**Leviticus 13:50** 
+**Leviticus 13:50**<big><big>[[Lev.13.47 Laws about Mildew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall look upon the plague, and shut up [it that hath] the plague seven days:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the priest is to examine the mildew and isolate the contaminated fabric for 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.49|<< Leviticus 13:49]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.51|Leviticus 13:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will see  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|רָאָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'Ah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֖ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

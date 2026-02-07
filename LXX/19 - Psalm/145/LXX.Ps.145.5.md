@@ -1,10 +1,7 @@
 **LXX Psalm 145:5** 
 <small><sub>**LXX:**</sub></small>
 The majesty of the glory  of your holiness they shall speak, and  your wonders they will describe. 
-<small><sub>**KJV:**</sub></small>
-I will speak of the glorious honour of thy majesty, and of thy wondrous works.
-<small><sub>**BSB:**</sub></small>
-the glorious splendor of Your majesty. And I will meditate on Your wondrous works.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.145.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.145.4|<< Psalm 145:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.145.6|Psalm 145:6 >>]]</td></tr></table>
 
 | Translation | Greek |

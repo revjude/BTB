@@ -1,10 +1,7 @@
 **LXX Exodus 36:5** 
 <small><sub>**LXX:**</sub></small>
 And they said to Moses, that, The people bring a multitude for the works, as much as \[the\] <span class="smallcaps">lord</span> ordered to do. 
-<small><sub>**KJV:**</sub></small>
-And they spake unto Moses, saying, The people bring much more than enough for the service of the work, which the LORD commanded to make.
-<small><sub>**BSB:**</sub></small>
-and said to Moses, “The people are bringing more than enough for doing the work the LORD has commanded us to do.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.4|<< Exodus 36:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.6|Exodus 36:6 >>]]</td></tr></table>
 
 | Translation | Greek |

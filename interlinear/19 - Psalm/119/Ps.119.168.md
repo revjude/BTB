@@ -1,4 +1,4 @@
-**Psalms 119:168** 
+**Psalms 119:168**<big><big>[[Ps.119.161 Your Word Is a Lamp to My Feet - SCHIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have kept thy precepts and thy testimonies: for all my ways [are] before thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I obey Your precepts and Your testimonies, for all my ways are before You.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.168|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.167|<< Psalms 119:167]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.169|Psalms 119:169 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I keep  |**<big>&#8207;[[H8104G\|שָׁמַ֣רְתִּי]]&#8207; </big>**| sha.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | precepts your  |**<big>&#8207;[[H6490\|פִ֭קּוּדֶי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Fi.ku.dei.<small><sup>[[HNcmpc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

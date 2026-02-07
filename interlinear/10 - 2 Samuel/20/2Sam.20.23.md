@@ -1,4 +1,4 @@
-**2 Samuel 20:23** 
+**2 Samuel 20:23**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Joab [was] over all the host of Israel: and Benaiah the son of Jehoiada [was] over the Cherethites and over the Pelethites:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Joab was over the whole army of Israel; Benaiah son of Jehoiada was over the
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.22|<< 2 Samuel 20:22]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.24|2 Samuel 20:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Joab  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3097G\|יוֹאָ֕ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] to  |**<big>&#8207;[[H0413\|אֶ֥ל]]&#8207; </big>**| 'el<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 96:10** 
 <small><sub>**LXX:**</sub></small>
 Say among the nations that, \[The\] <span class="smallcaps">lord</span> reigns! For even he set up the inhabitable world which will not be shaken. He shall judge peoples in straightness. 
-<small><sub>**KJV:**</sub></small>
-Say among the heathen [that] the LORD reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously.
-<small><sub>**BSB:**</sub></small>
-Declare among the nations: “The LORD reigns!” The world is firmly established; it cannot be moved; He will judge the peoples with equity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.96.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.96.9|<< Psalm 96:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.96.11|Psalm 96:11 >>]]</td></tr></table>
 
 | Translation | Greek |

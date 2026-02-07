@@ -1,10 +1,7 @@
 **LXX Ezekiel 25:11** 
 <small><sub>**LXX:**</sub></small>
 And in Moab I will execute vengeance, and they shall realize that I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will execute judgments upon Moab; and they shall know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-So I will execute judgments on Moab, and they will know that I am the LORD.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.25.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.10|<< Ezekiel 25:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.12|Ezekiel 25:12 >>]]</td></tr></table>
 
 | Translation | Greek |

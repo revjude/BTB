@@ -1,10 +1,7 @@
 **LXX Psalm 135:2** 
 <small><sub>**LXX:**</sub></small>
 O ones standing in \[the\] house of \[the\] <span class="smallcaps">lord</span>, in \[the\] courtyards of \[the\] house of our God! 
-<small><sub>**KJV:**</sub></small>
-Ye that stand in the house of the LORD, in the courts of the house of our God,
-<small><sub>**BSB:**</sub></small>
-who stand in the house of the LORD, in the courts of the house of our God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.135.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.1|<< Psalm 135:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.3|Psalm 135:3 >>]]</td></tr></table>
 
 | Translation | Greek |

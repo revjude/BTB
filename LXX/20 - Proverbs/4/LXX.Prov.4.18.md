@@ -1,10 +1,7 @@
 **LXX Proverbs 4:18** 
 <small><sub>**LXX:**</sub></small>
 But the ways of the just are likened to light -- they radiate. They go before and give light until whenever the day should set up. 
-<small><sub>**KJV:**</sub></small>
-But the path of the just [is] as the shining light, that shineth more and more unto the perfect day.
-<small><sub>**BSB:**</sub></small>
-The path of the righteous is like the first gleam of dawn, shining brighter and brighter until midday.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.17|<< Proverbs 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.19|Proverbs 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

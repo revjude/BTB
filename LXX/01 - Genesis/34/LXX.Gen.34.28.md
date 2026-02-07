@@ -1,10 +1,7 @@
 **LXX Genesis 34:28** 
 <small><sub>**LXX:**</sub></small>
 And  their sheep, and  their oxen, and  their donkeys, as much as was in the city, and as much as was in the plain, they took. 
-<small><sub>**KJV:**</sub></small>
-They took their sheep, and their oxen, and their asses, and that which [was] in the city, and that which [was] in the field,
-<small><sub>**BSB:**</sub></small>
-They took their flocks and herds and donkeys, and everything else in the city or in the field.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.27|<< Genesis 34:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.29|Genesis 34:29 >>]]</td></tr></table>
 
 | Translation | Greek |

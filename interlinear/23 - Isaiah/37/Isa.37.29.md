@@ -1,4 +1,4 @@
-**Isaiah 37:29** 
+**Isaiah 37:29**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because thy rage against me, and thy tumult, is come up into mine ears, therefore will I put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because your rage and arrogance against Me have reached My ears, I will put My h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.28|<< Isaiah 37:28]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.30|Isaiah 37:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because  |**<big>&#8207;[[H3282\|יַ֚עַן]]&#8207; </big>**| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | raging you  |**<big>&#8207;[[H7264\|הִתְרַגֶּזְ]]&#8207;&#8207;[[H9041\|ךָ֣]]&#8207; </big>**| hit.ra.gez.<small><sup>[[HVtcc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

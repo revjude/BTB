@@ -1,4 +1,4 @@
-**1 Samuel 25:12** 
+**1 Samuel 25:12**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David’s young men turned their way, and went again, and came and told him all those sayings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So David’s men turned around and went back, and they relayed to him all these 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.11|<< 1 Samuel 25:11]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.13|1 Samuel 25:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they turned round  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2015\|יַּהַפְכ֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.haf.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] young men of  |**<big>&#8207;[[H5288\|נַעֲרֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| na.'a.rei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

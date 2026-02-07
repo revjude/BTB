@@ -1,4 +1,4 @@
-**Genesis 31:37** 
+**Genesis 31:37**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whereas thou hast searched all my stuff, what hast thou found of all thy household stuff? set [it] here before my brethren and thy brethren, that they may judge betwixt us both.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have searched all my goods! Have you found anything that belongs to you? Put
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.36|<< Genesis 31:36]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.38|Genesis 31:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have searched  |**<big>&#8207;[[H4959\|מִשַּׁ֣שְׁתָּ]]&#8207; </big>**| mi.Shash.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

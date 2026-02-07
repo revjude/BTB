@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:22** 
 <small><sub>**LXX:**</sub></small>
 And when  they began the praise and the acknowledgment, \[the\] <span class="smallcaps">lord</span> appointed an ambush  for the sons of Ammon to wage war against Moab and mount Seir of the ones coming forth against Judah; and they put \[them\] to flight. 
-<small><sub>**KJV:**</sub></small>
-And when they began to sing and to praise, the LORD set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten.
-<small><sub>**BSB:**</sub></small>
-The moment they began their shouts and praises, the LORD set ambushes against the men of Ammon, Moab, and Mount Seir who had come against Judah, and they were defeated.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.21|<< 2 Chronicles 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.23|2 Chronicles 20:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 14:1** 
+**1 Chronicles 14:1**<big><big>[[1Chr.14.1 David’s Family Grows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Hiram king of Tyre sent envoys to David, along with cedar logs, stonemasons,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.14|<< 1 Chronicles 13:14]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.2|1 Chronicles 14:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H7971G\|יִּשְׁלַח]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yish.lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Huram  [^1]|**<big>&#8207;[[H2361G\|חוּרָ֨ם]]&#8207; </big>**[^2] | chi.ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

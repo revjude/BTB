@@ -1,4 +1,4 @@
-**Ezekiel 28:5** 
+**Ezekiel 28:5**<big><big>[[Ezek.28.1 A Prophecy against the Ruler of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By thy great wisdom [and] by thy traffick hast thou increased thy riches, and thine heart is lifted up because of thy riches:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By your great skill in trading you have increased your wealth, but your heart ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.4|<< Ezekiel 28:4]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.6|Ezekiel 28:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by [the] greatness of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7230\|רֹ֧ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | skill your  |**<big>&#8207;[[H2451\|חָכְמָתְ]]&#8207;&#8207;[[H9021\|ךָ֛]]&#8207; </big>**| cha.khe.ma.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

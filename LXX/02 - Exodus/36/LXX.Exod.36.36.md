@@ -1,10 +1,7 @@
 **LXX Exodus 36:36** 
 <small><sub>**LXX:**</sub></small>
 And he placed it upon four posts of incorruptible \[wood\] being gilded in gold. And the tips of them of gold, and  their four bases \[were\] made of silver. 
-<small><sub>**KJV:**</sub></small>
-And he made thereunto four pillars [of] shittim [wood], and overlaid them with gold: their hooks [were of] gold; and he cast for them four sockets of silver.
-<small><sub>**BSB:**</sub></small>
-He also made four posts of acacia wood for it and overlaid them with gold, along with gold hooks; and he cast four silver bases for the posts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.35|<< Exodus 36:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.37|Exodus 36:37 >>]]</td></tr></table>
 
 | Translation | Greek |

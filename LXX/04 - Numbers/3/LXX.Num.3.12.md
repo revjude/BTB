@@ -1,10 +1,7 @@
 **LXX Numbers 3:12** 
 <small><sub>**LXX:**</sub></small>
 And behold, I have taken the Levites from \[the\] midst of the sons of Israel, in place of every first-born male opening wide \[the\] womb of the sons of Israel; they shall be their ransoms, and the Levites will be mine. 
-<small><sub>**KJV:**</sub></small>
-And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine;
-<small><sub>**BSB:**</sub></small>
-“Behold, I have taken the Levites from among the children of Israel in place of every firstborn Israelite from the womb. The Levites belong to Me,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.11|<< Numbers 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.13|Numbers 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

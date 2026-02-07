@@ -1,4 +1,4 @@
-**Joshua 10:35** 
+**Joshua 10:35**<big><big>[[Josh.10.29 Conquest of the Southern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took it on that day, and smote it with the edge of the sword, and all the souls that [were] therein he utterly destroyed that day, according to all that he had done to Lachish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ That day they captured Eglon and put it to the sword, and Joshua devoted to dest
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.34|<< Joshua 10:34]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.36|Joshua 10:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they captured it  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H3920\|יִּלְכְּד֜וּ]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yil.ke.Du.<small><sup>[[HVqw3mp]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּ֤וֹם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

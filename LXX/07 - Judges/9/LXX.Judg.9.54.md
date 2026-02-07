@@ -1,10 +1,7 @@
 **LXX Judges 9:54** 
 <small><sub>**LXX:**</sub></small>
 And he yelled out  quickly to the servant  lifting  his weapons. And he said to him, Unsheathe  my broadsword and kill me! lest at any time they should say that, A woman killed him. And his servant stabbed him, and he died. 
-<small><sub>**KJV:**</sub></small>
-Then he called hastily unto the young man his armourbearer, and said unto him, Draw thy sword, and slay me, that men say not of me, A woman slew him. And his young man thrust him through, and he died.
-<small><sub>**BSB:**</sub></small>
-He quickly called his armor-bearer, saying, “Draw your sword and kill me, lest they say of me, ‘A woman killed him.’” So Abimelech’s armor-bearer ran his sword through him, and he died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.53|<< Judges 9:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.55|Judges 9:55 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 34:29** 
+**Numbers 34:29**<big><big>[[Num.34.16 Leaders to Divide the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are they] whom the LORD commanded to divide the inheritance unto the children of Israel in the land of Canaan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the ones whom the LORD commanded to apportion the inheritance to the I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.28|<< Numbers 34:28]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.1|Numbers 35:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֕לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are those] whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

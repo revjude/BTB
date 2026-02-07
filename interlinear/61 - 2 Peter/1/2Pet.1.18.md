@@ -1,12 +1,12 @@
-**2 Peter 1:18
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 1:18**<big><big>[[2Pet.1.16 Eyewitnesses of His Majesty|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this voice which came from heaven we heard, when we were with him in the holy mount.
 <small><sub>**BSB:**</sub></small>
 And we ourselves heard this voice from heaven when we were with Him on the holy mountain.
 <small><sub>**Literal:**</sub></small>
 And this <the> voice we ourselves heard from heaven having been brought with Him being in the holy <the> mountain.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.17|<< 2 Peter 1:17]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.19|2 Peter 1:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|ταύτην]]</big>**  |tautēn <small><sup>[[D-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

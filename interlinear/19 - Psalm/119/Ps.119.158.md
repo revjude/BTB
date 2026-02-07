@@ -1,4 +1,4 @@
-**Psalms 119:158** 
+**Psalms 119:158**<big><big>[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I beheld the transgressors, and was grieved; because they kept not thy word.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I look on the faithless with loathing because they do not keep Your word.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.158|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.157|<< Psalms 119:157]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.159|Psalms 119:159 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I see  |**<big>&#8207;[[H7200G\|רָאִ֣יתִי]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] act treacherously  |**<big>&#8207;[[H0898\|בֹ֭גְדִים]]&#8207; </big>**| Vo.ge.dim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

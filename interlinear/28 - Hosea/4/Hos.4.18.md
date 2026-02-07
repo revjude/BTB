@@ -1,4 +1,4 @@
-**Hosea 4:18** 
+**Hosea 4:18**<big><big>[[Hos.4.1 God’s Case against His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their drink is sour: they have committed whoredom continually: her rulers [with] shame do love, Give ye.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When their liquor is gone, they turn to prostitution; their rulers dearly love d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.17|<< Hosea 4:17]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.19|Hosea 4:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has come to an end  |**<big>&#8207;[[H5493H\|סָ֖ר]]&#8207; </big>**| sar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | drink their  |**<big>&#8207;[[H5435\|סָבְאָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| sa.ve.'A<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

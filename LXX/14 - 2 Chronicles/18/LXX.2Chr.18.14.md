@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:14** 
 <small><sub>**LXX:**</sub></small>
 And he came to the king. And the king said to him, Michaiah, Shall I go to Ramoth Gilead for war, or should I wait? And he said, Ascend! and your way shall prosper, and they shall be given into your hands. 
-<small><sub>**KJV:**</sub></small>
-And when he was come to the king, the king said unto him, Micaiah, shall we go to Ramothgilead to battle, or shall I forbear? And he said, Go ye up, and prosper, and they shall be delivered into your hand.
-<small><sub>**BSB:**</sub></small>
-When Micaiah arrived, the king asked him, “Micaiah, should we go to war against Ramoth-gilead, or should we refrain?” “Go up and triumph,” Micaiah replied, “for they will be delivered into your hand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.13|<< 2 Chronicles 18:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.15|2 Chronicles 18:15 >>]]</td></tr></table>
 
 | Translation | Greek |

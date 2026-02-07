@@ -1,10 +1,7 @@
 **LXX Genesis 48:9** 
 <small><sub>**LXX:**</sub></small>
 And Joseph said to his father, They are my sons whom God gave to me here. And Jacob said, them forward to me that I may bless them. 
-<small><sub>**KJV:**</sub></small>
-And Joseph said unto his father, They [are] my sons, whom God hath given me in this [place]. And he said, Bring them, I pray thee, unto me, and I will bless them.
-<small><sub>**BSB:**</sub></small>
-Joseph said to his father, “They are the sons God has given me in this place.” So Jacob said, “Please bring them to me, that I may bless them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.48.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.8|<< Genesis 48:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.10|Genesis 48:10 >>]]</td></tr></table>
 
 | Translation | Greek |

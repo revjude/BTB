@@ -1,4 +1,4 @@
-**Jeremiah 25:12** 
+**Jeremiah 25:12**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, when seventy years are accomplished, [that] I will punish the king of Babylon, and that nation, saith the LORD, for their iniquity, and the land of the Chaldeans, and will make it perpetual desolations.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But when seventy years are complete, I will punish the king of Babylon and that 
 > $\quad$ referenced by: [[Dan.9.2|Dan 9:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when are completed  |**<big>&#8207;[[H9004\|כִ]]&#8207;&#8207;[[H4390\|מְלֹ֣אות]]&#8207; </big>**| khi<small><sup>[[HR]]</sup></small> m.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

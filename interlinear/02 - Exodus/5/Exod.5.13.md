@@ -1,4 +1,4 @@
-**Exodus 5:13** 
+**Exodus 5:13**<big><big>[[Exod.5.6 Bricks and Straw|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the taskmasters hasted [them], saying, Fulfil your works, [your] daily tasks, as when there was straw.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The taskmasters kept pressing them, saying, “Fulfill your quota each day, just
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.12|<< Exodus 5:12]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.14|Exodus 5:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the taskmasters  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5065\|נֹּגְשִׂ֖ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> no.ge.Sim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] pressing [them]  |**<big>&#8207;[[H0213\|אָצִ֣ים]]&#8207; </big>**| 'a.Tzim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

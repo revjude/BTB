@@ -1,10 +1,7 @@
 **LXX Psalm 59:11** 
 <small><sub>**LXX:**</sub></small>
 You should not kill them, lest at any time they should forget  your law. Disperse them by  your power, and lead them down,  O <span class="smallcaps">lord</span> my defender! 
-<small><sub>**KJV:**</sub></small>
-Slay them not, lest my people forget: scatter them by thy power; and bring them down, O Lord our shield.
-<small><sub>**BSB:**</sub></small>
-Do not kill them, or my people will forget. Scatter them by Your power, and bring them down, O Lord, our shield.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.59.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.10|<< Psalm 59:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.12|Psalm 59:12 >>]]</td></tr></table>
 
 | Translation | Greek |

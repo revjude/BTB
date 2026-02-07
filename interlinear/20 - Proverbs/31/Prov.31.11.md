@@ -1,4 +1,4 @@
-**Proverbs 31:11** 
+**Proverbs 31:11**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heart of her husband doth safely trust in her, so that he shall have no need of spoil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The heart of her husband trusts in her, and he lacks nothing of value.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.10|<< Proverbs 31:10]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.12|Proverbs 31:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it trusts  |**<big>&#8207;[[H0982\|בָּ֣טַח]]&#8207; </big>**| Ba.tach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in her  |**<big>&#8207;[[H9003\|בָּ֭]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| ba<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

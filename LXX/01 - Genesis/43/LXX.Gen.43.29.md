@@ -1,10 +1,7 @@
 **LXX Genesis 43:29** 
 <small><sub>**LXX:**</sub></small>
 And looking up with  his eyes, he saw Benjamin  his brother, the one born of the same mother. And he said, This \[is\]  your brother the younger whom you spoke to me of bringing? And he said,  God show mercy to you child. 
-<small><sub>**KJV:**</sub></small>
-And he lifted up his eyes, and saw his brother Benjamin, his mother’s son, and said, [Is] this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son.
-<small><sub>**BSB:**</sub></small>
-When Joseph looked up and saw his brother Benjamin, his own mother’s son, he asked, “Is this your youngest brother, the one you told me about?” Then he declared, “May God be gracious to you, my son.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.28|<< Genesis 43:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.30|Genesis 43:30 >>]]</td></tr></table>
 
 | Translation | Greek |

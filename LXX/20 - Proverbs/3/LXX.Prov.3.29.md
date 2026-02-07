@@ -1,10 +1,7 @@
 **LXX Proverbs 3:29** 
 <small><sub>**LXX:**</sub></small>
 You should not contrive bad \[things\] against your friend, \[the\] one sojourning and relying upon you. 
-<small><sub>**KJV:**</sub></small>
-Devise not evil against thy neighbour, seeing he dwelleth securely by thee.
-<small><sub>**BSB:**</sub></small>
-Do not devise evil against your neighbor, for he trustfully dwells beside you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.3.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.28|<< Proverbs 3:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.30|Proverbs 3:30 >>]]</td></tr></table>
 
 | Translation | Greek |

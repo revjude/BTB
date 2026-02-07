@@ -1,10 +1,7 @@
 **LXX Amos 5:8** 
 <small><sub>**LXX:**</sub></small>
 The one making all \[things\], and fashioning them differently, and turning \[the\] shadow into the morning, and darkening day into night; the one calling on the water of the sea, and pouring it upon \[the\] face of the earth -- \[the\] <span class="smallcaps">lord</span>  God almighty \[is\] his name. 
-<small><sub>**KJV:**</sub></small>
-[Seek him] that maketh the seven stars and Orion, and turneth the shadow of death into the morning, and maketh the day dark with night: that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD [is] his name:
-<small><sub>**BSB:**</sub></small>
-He who made the Pleiades and Orion, who turns darkness into dawn and darkens day into night, who summons the waters of the sea and pours them over the face of the earth—the LORD is His name—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.7|<< Amos 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.9|Amos 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

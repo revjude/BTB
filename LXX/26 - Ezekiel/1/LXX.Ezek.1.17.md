@@ -1,10 +1,7 @@
 **LXX Ezekiel 1:17** 
 <small><sub>**LXX:**</sub></small>
 Upon  their four parts they went; they did not turn in  their going, 
-<small><sub>**KJV:**</sub></small>
-When they went, they went upon their four sides: [and] they turned not when they went.
-<small><sub>**BSB:**</sub></small>
-As they moved, they went in any of the four directions, without pivoting as they moved.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.16|<< Ezekiel 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.18|Ezekiel 1:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 8:27** 
+**1 Kings 8:27**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But will God indeed dwell on the earth? behold, the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But will God indeed dwell upon the earth? The heavens, even the highest heavens,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.26|<< 1 Kings 8:26]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.28|1 Kings 8:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ really  |**<big>&#8207;[[H9008\|הַֽ]]&#8207;&#8207;[[H0552\|אֻמְנָ֔ם]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'um.Nam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

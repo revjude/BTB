@@ -1,4 +1,4 @@
-**Judges 13:2** 
+**Judges 13:2**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was a certain man of Zorah, of the family of the Danites, whose name [was] Manoah; and his wife [was] barren, and bare not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now there was a man from Zorah named Manoah, from the clan of the Danites, whose
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.1|<< Judges 13:1]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.3|Judges 13:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a man  |**<big>&#8207;[[H0376G\|אִ֨ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

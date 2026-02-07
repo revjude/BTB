@@ -1,10 +1,7 @@
 **LXX Isaiah 38:14** 
 <small><sub>**LXX:**</sub></small>
 As a swallow, so shall I call out, and as a dove, so shall I meditate. For my eyes failed  to see into the height of the heaven, to the <span class="smallcaps">lord</span> who rescued me. 
-<small><sub>**KJV:**</sub></small>
-Like a crane [or] a swallow, so did I chatter: I did mourn as a dove: mine eyes fail [with looking] upward: O LORD, I am oppressed; undertake for me.
-<small><sub>**BSB:**</sub></small>
-I chirp like a swallow or crane; I moan like a dove. My eyes grow weak as I look upward. O Lord, I am oppressed; be my security.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.38.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.13|<< Isaiah 38:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.15|Isaiah 38:15 >>]]</td></tr></table>
 
 | Translation | Greek |

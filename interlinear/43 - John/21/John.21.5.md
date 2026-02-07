@@ -1,12 +1,12 @@
-**John 21:5
-**<small><sub>**KJV:**</sub></small>
+**John 21:5**<big><big>[[John.21.1 Jesus Appears by the Sea of Tiberias|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Jesus saith unto them, Children, have ye any meat? They answered him, No.
 <small><sub>**BSB:**</sub></small>
 So He called out to them, “Children, do you have any fish?” “No,” they answered.
 <small><sub>**Literal:**</sub></small>
 Says therefore to them <the> Jesus; Children, Surely not any fish have you? They answered to Him; No.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.4|<< John 21:4]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.6|John 21:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|Λέγει]]</big>**  |Legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

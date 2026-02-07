@@ -1,10 +1,7 @@
 **LXX Ruth 2:4** 
 <small><sub>**LXX:**</sub></small>
 And behold, Boaz came from Beth-lehem, and he said to the ones harvesting, \[The\] <span class="smallcaps">lord</span> \[be\] with you. And they said to him, \[the\] <span class="smallcaps">lord</span> bless you. 
-<small><sub>**KJV:**</sub></small>
-And, behold, Boaz came from Bethlehem, and said unto the reapers, The LORD [be] with you. And they answered him, The LORD bless thee.
-<small><sub>**BSB:**</sub></small>
-Just then Boaz arrived from Bethlehem and said to the harvesters, “The LORD be with you.” “The LORD bless you,” they replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.3|<< Ruth 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.5|Ruth 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

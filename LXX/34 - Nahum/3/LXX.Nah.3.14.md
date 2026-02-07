@@ -1,10 +1,7 @@
 **LXX Nahum 3:14** 
 <small><sub>**LXX:**</sub></small>
 Draw water to yourself for being encompassed about! Secure  your fortresses! Step into \[the\] mortar, and trample it together with straw! Secure it more than \[with\] a brick! 
-<small><sub>**KJV:**</sub></small>
-Draw thee waters for the siege, fortify thy strong holds: go into clay, and tread the morter, make strong the brickkiln.
-<small><sub>**BSB:**</sub></small>
-Draw your water for the siege; strengthen your fortresses. Work the clay and tread the mortar; repair the brick kiln!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.13|<< Nahum 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.15|Nahum 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

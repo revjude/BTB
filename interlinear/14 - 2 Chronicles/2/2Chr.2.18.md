@@ -1,4 +1,4 @@
-**2 Chronicles 2:18** (2:17)
+**2 Chronicles 2:18**<big><big>[[2Chr.2.11 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set threescore and ten thousand of them [to be] bearers of burdens, and fourscore thousand [to be] hewers in the mountain, and three thousand and six hundred overseers to set the people a work.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Solomon made 70,000 of them porters, 80,000 stonecutters in the mountains, and 3
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.17|<< 2 Chronicles 2:17]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.1|2 Chronicles 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appointed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֨עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of them  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9038\|הֶ֜ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

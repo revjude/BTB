@@ -1,10 +1,7 @@
 **LXX Judges 3:23** 
 <small><sub>**LXX:**</sub></small>
 And Ehud went forth into the antechamber; and he went forth \[by\] the \[things\] set in order, and locked the doors of the upper room by him, and wedged \[them\]. 
-<small><sub>**KJV:**</sub></small>
-Then Ehud went forth through the porch, and shut the doors of the parlour upon him, and locked them.
-<small><sub>**BSB:**</sub></small>
-Then Ehud went out through the porch, closing and locking the doors of the upper room behind him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.22|<< Judges 3:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.24|Judges 3:24 >>]]</td></tr></table>
 
 | Translation | Greek |

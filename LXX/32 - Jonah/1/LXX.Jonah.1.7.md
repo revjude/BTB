@@ -1,10 +1,7 @@
 **LXX Jonah 1:7** 
 <small><sub>**LXX:**</sub></small>
 And each said to  his neighbor, Come we should cast lots, and we shall know for what \[reason\]  this evil is to us. And they cast lots, and the lot fell upon Jonah. 
-<small><sub>**KJV:**</sub></small>
-And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil [is] upon us. So they cast lots, and the lot fell upon Jonah.
-<small><sub>**BSB:**</sub></small>
-“Come!” said the sailors to one another. “Let us cast lots to find out who is responsible for this calamity that is upon us.” So they cast lots, and the lot fell on Jonah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.6|<< Jonah 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.8|Jonah 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

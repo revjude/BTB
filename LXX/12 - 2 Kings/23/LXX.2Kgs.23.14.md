@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:14** 
 <small><sub>**LXX:**</sub></small>
 And he broke the monuments, and cut down the sacred groves, and filled  their places of bones of men. 
-<small><sub>**KJV:**</sub></small>
-And he brake in pieces the images, and cut down the groves, and filled their places with the bones of men.
-<small><sub>**BSB:**</sub></small>
-He smashed the sacred pillars to pieces, cut down the Asherah poles, and covered the sites with human bones.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.13|<< 2 Kings 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.15|2 Kings 23:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Kings 23:29** 
+**2 Kings 23:29**<big><big>[[2Kgs.23.28 The Death of Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In his days Pharaohnechoh king of Egypt went up against the king of Assyria to the river Euphrates: and king Josiah went against him; and he slew him at Megiddo, when he had seen him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ During Josiah’s reign, Pharaoh Neco king of Egypt marched up to help the king 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.28|<< 2 Kings 23:28]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.30|2 Kings 23:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in days his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|יָמָ֡י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went up  |**<big>&#8207;[[H5927G\|עָלָה֩]]&#8207; </big>**| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Kings 18:34** 
+**2 Kings 18:34**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where [are] the gods of Hamath, and of Arpad? where [are] the gods of Sepharvaim, Hena, and Ivah? have they delivered Samaria out of mine hand?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim, Hena, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.33|<< 2 Kings 18:33]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.35|2 Kings 18:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where?  |**<big>&#8207;[[H0346\|אַיֵּה֩]]&#8207; </big>**| 'ai.Yeh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] gods of  |**<big>&#8207;[[H0430J\|אֱלֹהֵ֨י]]&#8207; </big>**| 'e.lo.Hei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

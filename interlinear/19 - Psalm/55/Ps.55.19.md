@@ -1,4 +1,4 @@
-**Psalms 55:19** (55:20)
+**Psalms 55:19**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God shall hear, and afflict them, even he that abideth of old. Selah. Because they have no changes, therefore they fear not God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God will hear and humiliate them—the One enthroned for the ages—Selah becaus
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.18|<< Psalms 55:18]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.20|Psalms 55:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will hear  |**<big>&#8207;[[H8085G\|יִשְׁמַ֤ע]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yish.Ma'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0410G\|אֵ֨ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

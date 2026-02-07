@@ -1,4 +1,4 @@
-**Ezra 6:12** 
+**Ezra 6:12**<big><big>[[Ezra.6.1 The Decree of Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the God that hath caused his name to dwell there destroy all kings and people, that shall put to their hand to alter [and] to destroy this house of God which [is] at Jerusalem. I Darius have made a decree; let it be done with speed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May God, who has caused His Name to dwell there, overthrow any king or people wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.11|<< Ezra 6:11]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.13|Ezra 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<the> God  |**<big>&#8207;[[H9002\|וֵֽ]]&#8207;&#8207;[[H0426\|אלָהָ֞]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> la.Ha<small><sup>[[HNcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H1768\|דִּ֣י]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

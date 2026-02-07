@@ -1,4 +1,4 @@
-**Numbers 15:22** 
+**Numbers 15:22**<big><big>[[Num.15.22 Offerings for Unintentional Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye have erred, and not observed all these commandments, which the LORD hath spoken unto Moses,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now if you stray unintentionally and do not obey all these commandments that the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.21|<< Numbers 15:21]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.23|Numbers 15:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khi<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will err  |**<big>&#8207;[[H7686\|תִשְׁגּ֔וּ]]&#8207; </big>**| tish.Gu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

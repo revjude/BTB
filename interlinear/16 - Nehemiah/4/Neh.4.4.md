@@ -1,4 +1,4 @@
-**Nehemiah 4:4** (3:36)
+**Nehemiah 4:4**<big><big>[[Neh.4.1 The Work Ridiculed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear, O our God; for we are despised: and turn their reproach upon their own head, and give them for a prey in the land of captivity:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hear us, O God, for we are despised. Turn their scorn back upon their own heads,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.3|<< Nehemiah 4:3]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.5|Nehemiah 4:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear  |**<big>&#8207;[[H8085G\|שְׁמַ֤ע]]&#8207; </big>**| she.Ma'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֙י]]&#8207;&#8207;[[H9025\|נוּ֙]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

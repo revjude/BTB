@@ -1,10 +1,7 @@
 **LXX Esther 3:2** 
 <small><sub>**LXX:**</sub></small>
 And all the ones in the courtyard did obeisance to him, for so the king assigned \[it\] to do.  But Mordecai did not do obeisance to him. 
-<small><sub>**KJV:**</sub></small>
-And all the king’s servants, that [were] in the king’s gate, bowed, and reverenced Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did [him] reverence.
-<small><sub>**BSB:**</sub></small>
-All the royal servants at the king’s gate bowed down and paid homage to Haman, because the king had commanded that this be done for him. But Mordecai would not bow down or pay homage.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.1|<< Esther 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.3|Esther 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

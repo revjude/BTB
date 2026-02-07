@@ -1,10 +1,7 @@
 **LXX Judges 15:17** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when he finished speaking, that he tossed the jaw \[bone\] from  his hand, and he called  that place, Removal of \[the\] Jaw. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when he had made an end of speaking, that he cast away the jawbone out of his hand, and called that place Ramathlehi.
-<small><sub>**BSB:**</sub></small>
-And when Samson had finished speaking, he cast the jawbone from his hand; and he named that place Ramath-lehi.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.16|<< Judges 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.18|Judges 15:18 >>]]</td></tr></table>
 
 | Translation | Greek |

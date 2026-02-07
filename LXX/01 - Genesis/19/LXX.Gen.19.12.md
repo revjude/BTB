@@ -1,10 +1,7 @@
 **LXX Genesis 19:12** 
 <small><sub>**LXX:**</sub></small>
 And the men said to Lot, Are there in-laws to you here, or sons or daughters? Or there is any other to you in the city you lead \[them\] out of  this place! 
-<small><sub>**KJV:**</sub></small>
-And the men said unto Lot, Hast thou here any besides? son in law, and thy sons, and thy daughters, and whatsoever thou hast in the city, bring [them] out of this place:
-<small><sub>**BSB:**</sub></small>
-Then the two men said to Lot, “Do you have anyone else here—a son-in-law, your sons or daughters, or anyone else in the city who belongs to you? Get them out of here,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.11|<< Genesis 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.13|Genesis 19:13 >>]]</td></tr></table>
 
 | Translation | Greek |

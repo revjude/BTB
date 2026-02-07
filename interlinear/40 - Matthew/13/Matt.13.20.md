@@ -1,12 +1,12 @@
-**Matthew 13:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:20**<big><big>[[Matt.13.18 The Parable of the Sower Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that received the seed into stony places, the same is he that heareth the word, and anon with joy receiveth it;
 <small><sub>**BSB:**</sub></small>
 The seed sown on rocky ground is the one who hears the word and at once receives it with joy.
 <small><sub>**Literal:**</sub></small>
 That which now upon the rocky places having been sown, this is the [one] the word hearing and immediately with joy receiving it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.19|<< Matthew 13:19]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.21|Matthew 13:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | That which |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

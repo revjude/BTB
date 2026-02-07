@@ -1,4 +1,4 @@
-**Ezekiel 3:20** 
+**Ezekiel 3:20**<big><big>[[Ezek.3.16 A Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again, When a righteous [man] doth turn from his righteousness, and commit iniquity, and I lay a stumblingblock before him, he shall die: because thou hast not given him warning, he shall die in his sin, and his righteousness which he hath done shall not be remembered; but his blood will I require at thine hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now if a righteous man turns from his righteousness and commits iniquity, and I 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.19|<< Ezekiel 3:19]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.21|Ezekiel 3:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when turns away  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7725O\|שׁ֨וּב]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Shuv<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a righteous [person]  |**<big>&#8207;[[H6662\|צַדִּ֤יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

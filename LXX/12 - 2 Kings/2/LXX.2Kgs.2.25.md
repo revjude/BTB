@@ -1,10 +1,7 @@
 **LXX 2 Kings 2:25** 
 <small><sub>**LXX:**</sub></small>
 And he went from there to  mount  Carmel, and from there he turned unto Samaria. 
-<small><sub>**KJV:**</sub></small>
-And he went from thence to mount Carmel, and from thence he returned to Samaria.
-<small><sub>**BSB:**</sub></small>
-And Elisha went on to Mount Carmel, and from there he returned to Samaria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.2.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.24|<< 2 Kings 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.1|2 Kings 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

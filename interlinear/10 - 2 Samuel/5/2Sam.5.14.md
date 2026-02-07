@@ -1,4 +1,4 @@
-**2 Samuel 5:14** 
+**2 Samuel 5:14**<big><big>[[2Sam.5.12 David’s Family Grows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [be] the names of those that were born unto him in Jerusalem; Shammua, and Shobab, and Nathan, and Solomon,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the names of the children born to him in Jerusalem: Shammua, Shobab, N
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.13|<< 2 Samuel 5:13]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.15|2 Samuel 5:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֗לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] names of  |**<big>&#8207;[[H8034\|שְׁמ֛וֹת]]&#8207; </big>**| she.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

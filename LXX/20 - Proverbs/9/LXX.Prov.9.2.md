@@ -1,10 +1,7 @@
 **LXX Proverbs 9:2** 
 <small><sub>**LXX:**</sub></small>
 She slew the \[things\] for herself which are offered in sacrifices; she mixed into a basin  wine for herself, and she prepared  a table for herself. 
-<small><sub>**KJV:**</sub></small>
-She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.
-<small><sub>**BSB:**</sub></small>
-She has prepared her meat and mixed her wine; she has also set her table.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.1|<< Proverbs 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.3|Proverbs 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

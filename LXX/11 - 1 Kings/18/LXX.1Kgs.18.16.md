@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:16** 
 <small><sub>**LXX:**</sub></small>
 And Obadiah went to meet with  Ahab, and he reported to him. And Ahab ran forth and went to meet with Elijah. 
-<small><sub>**KJV:**</sub></small>
-So Obadiah went to meet Ahab, and told him: and Ahab went to meet Elijah.
-<small><sub>**BSB:**</sub></small>
-So Obadiah went to inform Ahab, who went to meet Elijah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.15|<< 1 Kings 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.17|1 Kings 18:17 >>]]</td></tr></table>
 
 | Translation | Greek |

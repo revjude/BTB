@@ -1,10 +1,7 @@
 **LXX Micah 2:2** 
 <small><sub>**LXX:**</sub></small>
 And they desired fields, and they plundered orphans, and tyrannized households, and plundered a man and  his house, a man and  his inheritance. 
-<small><sub>**KJV:**</sub></small>
-And they covet fields, and take [them] by violence; and houses, and take [them] away: so they oppress a man and his house, even a man and his heritage.
-<small><sub>**BSB:**</sub></small>
-They covet fields and seize them; they take away houses. They deprive a man of his home, a fellow man of his inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.1|<< Micah 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.3|Micah 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 46:5** 
 <small><sub>**LXX:**</sub></small>
 and a gift cake \[offering\] for the ram, and for the lambs a sacrifice gift \[offering\] of his hand, and a hin of olive oil for the cake \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And the meat offering [shall be] an ephah for a ram, and the meat offering for the lambs as he shall be able to give, and an hin of oil to an ephah.
-<small><sub>**BSB:**</sub></small>
-The grain offering with the ram shall be one ephah, and the grain offering with the lambs shall be as much as he is able, along with a hin of oil per ephah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.4|<< Ezekiel 46:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.6|Ezekiel 46:6 >>]]</td></tr></table>
 
 | Translation | Greek |

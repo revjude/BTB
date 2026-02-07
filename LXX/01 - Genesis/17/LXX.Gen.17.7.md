@@ -1,10 +1,7 @@
 **LXX Genesis 17:7** 
 <small><sub>**LXX:**</sub></small>
 And I will establish  my covenant between me and between you, and between  your seed after you, unto  their generations, for an eternal covenant, to be your God, and  \[with\] your seed after you. 
-<small><sub>**KJV:**</sub></small>
-And I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee.
-<small><sub>**BSB:**</sub></small>
-I will establish My covenant as an everlasting covenant between Me and you and your descendants after you, to be your God and the God of your descendants after you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.6|<< Genesis 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.8|Genesis 17:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 17:7** is...

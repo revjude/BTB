@@ -1,10 +1,7 @@
 **LXX Genesis 41:54** 
 <small><sub>**LXX:**</sub></small>
 And the seven years of famine began to come as Joseph said. And there became famine in all the earth; but in all the land of Egypt there were bread loaves. 
-<small><sub>**KJV:**</sub></small>
-And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread.
-<small><sub>**BSB:**</sub></small>
-the seven years of famine began, just as Joseph had said. And although there was famine in every country, there was food throughout the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.53|<< Genesis 41:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.55|Genesis 41:55 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 41:54** is...

@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:3** 
 <small><sub>**LXX:**</sub></small>
 And he brought me there, and behold, a man. And  his appearance was as \[the\] appearance of shining brass, and in  his hand was a string \[measure\] of builders, and a reed measure. And he set them at the gate. 
-<small><sub>**KJV:**</sub></small>
-And he brought me thither, and, behold, [there was] a man, whose appearance [was] like the appearance of brass, with a line of flax in his hand, and a measuring reed; and he stood in the gate.
-<small><sub>**BSB:**</sub></small>
-So He took me there, and I saw a man whose appearance was like bronze. He was standing in the gateway with a linen cord and a measuring rod in his hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.2|<< Ezekiel 40:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.4|Ezekiel 40:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 40:3** is...

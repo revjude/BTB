@@ -1,10 +1,7 @@
 **LXX Malachi 2:10** 
 <small><sub>**LXX:**</sub></small>
 Is there not one father of all of you? Did not one God create you? For what reason did you abandoned each  his brother,  to profane the covenant  of your fathers? 
-<small><sub>**KJV:**</sub></small>
-Have we not all one father? hath not one God created us? why do we deal treacherously every man against his brother, by profaning the covenant of our fathers?
-<small><sub>**BSB:**</sub></small>
-Do we not all have one Father? Did not one God create us? Why then do we break faith with one another so as to profane the covenant of our fathers?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.9|<< Malachi 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.11|Malachi 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

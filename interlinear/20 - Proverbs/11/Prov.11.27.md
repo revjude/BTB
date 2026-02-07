@@ -1,4 +1,4 @@
-**Proverbs 11:27** 
+**Proverbs 11:27**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that diligently seeketh good procureth favour: but he that seeketh mischief, it shall come unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who searches out good finds favor, but evil will come to him who seeks it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.26|<< Proverbs 11:26]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.28|Proverbs 11:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] seeks diligently  |**<big>&#8207;[[H7836\|שֹׁ֣חֵֽר]]&#8207; </big>**| Sho.cher<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | good  |**<big>&#8207;[[H2896B\|ט֭וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

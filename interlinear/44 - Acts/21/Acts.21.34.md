@@ -1,12 +1,12 @@
-**Acts 21:34
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:34**<big><big>[[Acts.21.27 Paul Seized at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And some cried one thing, some another, among the multitude: and when he could not know the certainty for the tumult, he commanded him to be carried into the castle.
 <small><sub>**BSB:**</sub></small>
 Some in the crowd were shouting one thing, and some another. And since the commander could not get at the truth because of the uproar, he ordered that Paul be brought into the barracks.
 <small><sub>**Literal:**</sub></small>
 Others however another [or] one thing were crying out in the crowd. Not is being able now he to know the facts on account of the uproar he ordered to be brought him into the barracks.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.33|<< Acts 21:33]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.35|Acts 21:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Others |**<big>[[G0243\|ἄλλοι]]</big>**  |alloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

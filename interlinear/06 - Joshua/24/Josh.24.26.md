@@ -1,4 +1,4 @@
-**Joshua 24:26** 
+**Joshua 24:26**<big><big>[[Josh.24.14 Choose Whom You Will Serve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua wrote these words in the book of the law of God, and took a great stone, and set it up there under an oak, that [was] by the sanctuary of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joshua recorded these things in the Book of the Law of God. Then he took a large
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.25|<< Joshua 24:25]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.27|Joshua 24:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he wrote  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3789\|יִּכְתֹּ֤ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.To<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻׁ֙עַ֙]]&#8207; </big>**| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

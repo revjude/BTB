@@ -1,10 +1,7 @@
 **LXX Isaiah 17:7** 
 <small><sub>**LXX:**</sub></small>
  In that day man will be relying upon the one who made him,  and his eyes shall look to the holy one of Israel. 
-<small><sub>**KJV:**</sub></small>
-At that day shall a man look to his Maker, and his eyes shall have respect to the Holy One of Israel.
-<small><sub>**BSB:**</sub></small>
-In that day men will look to their Maker and turn their eyes to the Holy One of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.6|<< Isaiah 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.8|Isaiah 17:8 >>]]</td></tr></table>
 
 | Translation | Greek |

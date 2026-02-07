@@ -1,12 +1,12 @@
-**James 4:7
-**<small><sub>**KJV:**</sub></small>
+**James 4:7**<big><big>[[Jas.4.7 Drawing Near to God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Submit yourselves therefore to God. Resist the devil, and he will flee from you.
 <small><sub>**BSB:**</sub></small>
 Submit yourselves, then, to God. Resist the devil, and he will flee from you.
 <small><sub>**Literal:**</sub></small>
 do be subjected therefore <the> to God. do resist however the devil and he will flee from you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.6|<< James 4:6]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.8|James 4:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be subjected |**<big>[[G5293\|ὑποτάγητε]]</big>**  |hupotagēte <small><sup>[[V-2APM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

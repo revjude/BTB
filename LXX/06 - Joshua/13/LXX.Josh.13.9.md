@@ -1,10 +1,7 @@
 **LXX Joshua 13:9** 
 <small><sub>**LXX:**</sub></small>
 from Aroer, which is upon the edge of \[the\] stream Arnon, and the city  in \[the\] midst of the ravine, and all  Misor from Medeba unto Dibon; 
-<small><sub>**KJV:**</sub></small>
-From Aroer, that [is] upon the bank of the river Arnon, and the city that [is] in the midst of the river, and all the plain of Medeba unto Dibon;
-<small><sub>**BSB:**</sub></small>
-The area from Aroer on the rim of the Arnon Valley, along with the city in the middle of the valley, the whole plateau of Medeba as far as Dibon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.8|<< Joshua 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.10|Joshua 13:10 >>]]</td></tr></table>
 
 | Translation | Greek |

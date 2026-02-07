@@ -1,10 +1,7 @@
 **LXX Judges 17:3** 
 <small><sub>**LXX:**</sub></small>
 And he gave back the thousand and hundred  \[pieces\] of silver \[to\] his mother. And his mother said, By sanctification, I sanctified the silver to the <span class="smallcaps">lord</span> out of  my hand alone,  to make a carving and molten \[image\], and now I will give it back to you. 
-<small><sub>**KJV:**</sub></small>
-And when he had restored the eleven hundred [shekels] of silver to his mother, his mother said, I had wholly dedicated the silver unto the LORD from my hand for my son, to make a graven image and a molten image: now therefore I will restore it unto thee.
-<small><sub>**BSB:**</sub></small>
-And when he had returned the eleven hundred shekels of silver to his mother, she said, “I wholly dedicate the silver to the LORD for my son’s benefit, to make a graven image and a molten idol. Therefore I will now return it to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.17.2|<< Judges 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.17.4|Judges 17:4 >>]]</td></tr></table>
 
 | Translation | Greek |

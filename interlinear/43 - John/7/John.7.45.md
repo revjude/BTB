@@ -1,12 +1,12 @@
-**John 7:45
-**<small><sub>**KJV:**</sub></small>
+**John 7:45**<big><big>[[John.7.45 The Unbelief of the Jewish Leaders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?
 <small><sub>**BSB:**</sub></small>
 Then the officers returned to the chief priests and Pharisees, who asked them, “Why didn’t you bring Him in?”
 <small><sub>**Literal:**</sub></small>
 Came therefore the officers to the chief priests and Pharisees, and said to them that; Because of why not did you bring Him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.44|<< John 7:44]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.46|John 7:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Came |**<big>[[G2064\|Ἦλθον]]</big>**  |Ēlthon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

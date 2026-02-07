@@ -1,4 +1,4 @@
-**Genesis 35:14** 
+**Genesis 35:14**<big><big>[[Gen.35.1 Jacob Returns to Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob set up a pillar in the place where he talked with him, [even] a pillar of stone: and he poured a drink offering thereon, and he poured oil thereon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jacob set up a pillar in the place where God had spoken with him—a stone ma
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.13|<< Genesis 35:13]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.15|Genesis 35:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he set up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5324\|יַּצֵּ֨ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Tzev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֜ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

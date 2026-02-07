@@ -1,12 +1,12 @@
-**Matthew 10:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:2**<big><big>[[Matt.10.1 The Twelve Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James [the son] of Zebedee, and John his brother;
 <small><sub>**BSB:**</sub></small>
 These are the names of the twelve apostles: first Simon, called Peter, and his brother Andrew; James son of Zebedee, and his brother John;
 <small><sub>**Literal:**</sub></small>
 <the> And of the twelve apostles the names are these: first Simon who is being named Peter and Andrew the brother of him, and James the [son] <the> of Zebedee and John the brother of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.1|<< Matthew 10:1]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.3|Matthew 10:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τῶν]]</big>**  |Tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

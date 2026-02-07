@@ -1,10 +1,7 @@
 **LXX Job 30:4** 
 <small><sub>**LXX:**</sub></small>
 The ones breaking off \[the\] marine plant upon \[the\] sounding \[shore\], whose marine plants were for their  grain; and \[were\] without honor, and being treated as worthless, lacking of every good \[thing\]; and the roots of trees gnawed because of great hunger. 
-<small><sub>**KJV:**</sub></small>
-Who cut up mallows by the bushes, and juniper roots [for] their meat.
-<small><sub>**BSB:**</sub></small>
-They plucked mallow among the shrubs, and the roots of the broom tree were their food.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.3|<< Job 30:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.5|Job 30:5 >>]]</td></tr></table>
 
 | Translation | Greek |

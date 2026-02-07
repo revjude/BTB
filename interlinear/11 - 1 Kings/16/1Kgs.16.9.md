@@ -1,4 +1,4 @@
-**1 Kings 16:9** 
+**1 Kings 16:9**<big><big>[[1Kgs.16.8 Elah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his servant Zimri, captain of half [his] chariots, conspired against him, as he was in Tirzah, drinking himself drunk in the house of Arza steward of [his] house in Tirzah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ However, while Elah was in Tirzah getting drunk in the house of Arza the steward
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.8|<< 1 Kings 16:8]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.10|1 Kings 16:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he conspired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7194\|יִּקְשֹׁ֤ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Shor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on him  |**<big>&#8207;[[H5921A\|עָלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**John 20:17
-**<small><sub>**KJV:**</sub></small>
+**John 20:17**<big><big>[[John.20.10 Jesus Appears to Mary Magdalene|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and [to] my God, and your God.
 <small><sub>**BSB:**</sub></small>
 “Do not cling to Me,” Jesus said, “for I have not yet ascended to the Father. But go and tell My brothers, ‘I am ascending to My Father and your Father, to My God and your God.’”
@@ -10,7 +10,7 @@ Says to her <the> Jesus: Not Me do yourself touch; not yet for have I ascended t
 > $\quad$ alluding to: [[LXX.Ps.22.22|Ps 22:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to her |**<big>[[G0846\|αὐτῇ]]</big>**  |autēa <small><sup>[[P-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

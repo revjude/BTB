@@ -1,12 +1,12 @@
-**Luke 8:39
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:39**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him.
 <small><sub>**BSB:**</sub></small>
 “Return home and describe how much God has done for you.” So the man went away and proclaimed all over the town how much Jesus had done for him.
 <small><sub>**Literal:**</sub></small>
 do return to the house of you and do relate how much for you has done <the> God. And he departed through all the city proclaiming how much did for him <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.38|<< Luke 8:38]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.40|Luke 8:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do return |**<big>[[G5290\|ὑπόστρεφε]]</big>**  |hupostrephe <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

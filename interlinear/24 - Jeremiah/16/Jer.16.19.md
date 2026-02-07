@@ -1,4 +1,4 @@
-**Jeremiah 16:19** 
+**Jeremiah 16:19**<big><big>[[Jer.16.14 God Will Restore Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, my strength, and my fortress, and my refuge in the day of affliction, the Gentiles shall come unto thee from the ends of the earth, and shall say, Surely our fathers have inherited lies, vanity, and [things] wherein [there is] no profit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O LORD, my strength and my fortress, my refuge in the day of distress, the natio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.18|<< Jeremiah 16:18]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.20|Jeremiah 16:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֞ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | strength my  |**<big>&#8207;[[H5797\|עֻזִּ֧]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'u.Z<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

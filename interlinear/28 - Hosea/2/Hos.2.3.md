@@ -1,4 +1,4 @@
-**Hosea 2:3** (2:5)
+**Hosea 2:3**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Otherwise, I will strip her naked and expose her like the day of her birth. I wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.2|<< Hosea 2:2]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.4|Hosea 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lest  |**<big>&#8207;[[H6435\|פֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pen-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I should strip her  |**<big>&#8207;[[H6584\|אַפְשִׁיטֶ֣]]&#8207;&#8207;[[H9034\|נָּה]]&#8207; </big>**| 'af.shi.Te.<small><sup>[[HVhi1cs]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

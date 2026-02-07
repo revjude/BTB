@@ -1,4 +1,4 @@
-**Genesis 38:26** 
+**Genesis 38:26**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Judah acknowledged [them], and said, She hath been more righteous than I; because that I gave her not to Shelah my son. And he knew her again no more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Judah recognized the items and said, “She is more righteous than I, since I di
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.25|<< Genesis 38:25]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.27|Genesis 38:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he recognized [them]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5234A\|יַּכֵּ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ker<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֗ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

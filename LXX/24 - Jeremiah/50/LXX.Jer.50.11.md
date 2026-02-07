@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:11** 
 <small><sub>**LXX:**</sub></small>
 For you were glad, and gloried over plundering  of my inheritance. For you leaped as young bullocks in a pasture, and gored as bulls. 
-<small><sub>**KJV:**</sub></small>
-Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, because ye are grown fat as the heifer at grass, and bellow as bulls;
-<small><sub>**BSB:**</sub></small>
-“Because you rejoice, because you sing in triumph—you who plunder My inheritance—because you frolic like a heifer treading grain and neigh like stallions,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.10|<< Jeremiah 50:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.12|Jeremiah 50:12 >>]]</td></tr></table>
 
 | Translation | Greek |

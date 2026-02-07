@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:29** 
 <small><sub>**LXX:**</sub></small>
 And you attested to them, to turn them to  your law. But they acted superior, and hearkened not  of your commandments. And in  your judgments they sinned, (which a man doing them shall live by them;) and they gave \[their\] back \[unto\] resisting persuasion, and they hardened their neck, and they did not hearken. 
-<small><sub>**KJV:**</sub></small>
-And testifiedst against them, that thou mightest bring them again unto thy law: yet they dealt proudly, and hearkened not unto thy commandments, but sinned against thy judgments, (which if a man do, he shall live in them;) and withdrew the shoulder, and hardened their neck, and would not hear.
-<small><sub>**BSB:**</sub></small>
-You admonished them to turn back to Your law, but they were arrogant and disobeyed Your commandments. They sinned against Your ordinances, by which a man will live if he practices them. They turned a stubborn shoulder; they stiffened their necks and would not obey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.28|<< Nehemiah 9:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.30|Nehemiah 9:30 >>]]</td></tr></table>
 
 | Translation | Greek |

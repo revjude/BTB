@@ -1,4 +1,4 @@
-**Isaiah 29:21** 
+**Isaiah 29:21**<big><big>[[Isa.29.17 Sanctification for the Godly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That make a man an offender for a word, and lay a snare for him that reproveth in the gate, and turn aside the just for a thing of nought.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ those who indict a man with a word, who ensnare the mediator at the gate, and wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.20|<< Isaiah 29:20]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.22|Isaiah 29:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [those who] cause to sin  |**<big>&#8207;[[H2398\|מַחֲטִיאֵ֤י]]&#8207; </big>**| ma.cha.ti.'Ei<small><sup>[[HVhrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> a person  |**<big>&#8207;[[H0120G\|אָדָם֙]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 8:36
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:36**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They also which saw [it] told them by what means he that was possessed of the devils was healed.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, those who had seen it reported how the demon-possessed man had been healed.
 <small><sub>**Literal:**</sub></small>
 Related then to them and those having seen [it] how was healed the [one] having been demonised.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.35|<< Luke 8:35]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.37|Luke 8:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Related |**<big>[[G0518\|ἀπήγγειλαν]]</big>**  |apēngeilan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

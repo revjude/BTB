@@ -1,10 +1,7 @@
 **LXX Psalm 68:11** 
 <small><sub>**LXX:**</sub></small>
 The <span class="smallcaps">lord</span> God shall give discourse to the ones announcing good news for a great force. 
-<small><sub>**KJV:**</sub></small>
-The Lord gave the word: great [was] the company of those that published [it].
-<small><sub>**BSB:**</sub></small>
-The Lord gives the command; a great company of women proclaim it:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.10|<< Psalm 68:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.12|Psalm 68:12 >>]]</td></tr></table>
 
 | Translation | Greek |

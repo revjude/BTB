@@ -1,4 +1,4 @@
-**Joshua 24:6** 
+**Joshua 24:6**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I brought your fathers out of Egypt: and ye came unto the sea; and the Egyptians pursued after your fathers with chariots and horsemen unto the Red sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I brought your fathers out of Egypt and you reached the Red Sea, the Egypti
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.5|<< Joshua 24:5]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.7|Joshua 24:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I brought out  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H3318H\|אוֹצִ֤יא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Tzi'<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

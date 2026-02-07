@@ -1,5 +1,5 @@
-**Acts 7:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:24**<big><big>[[Acts.7.23 The Rejection and Flight of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And seeing one [of them] suffer wrong, he defended [him], and avenged him that was oppressed, and smote the Egyptian:
 <small><sub>**BSB:**</sub></small>
 And when he saw one of them being mistreated, Moses went to his defense and avenged him by striking down the Egyptian who was oppressing him.
@@ -10,7 +10,7 @@ And having seen a certain one being wronged he defended [him] and he did vengean
 > $\quad$ alluding to: [[LXX.Exod.2.11|Exod 2:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having seen |**<big>[[G1492H\|ἰδών]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

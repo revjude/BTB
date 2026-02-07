@@ -1,12 +1,12 @@
-**1 Corinthians 7:26
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:26**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I suppose therefore that this is good for the present distress, [I say], that [it is] good for a man so to be.
 <small><sub>**BSB:**</sub></small>
 Because of the present crisis, I think it is good for a man to remain as he is.
 <small><sub>**Literal:**</sub></small>
 I think therefore this good being because of the being present necessity, that [it is] good for a man <the> in the same manner to remain.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.25|<< 1 Corinthians 7:25]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.27|1 Corinthians 7:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I think |**<big>[[G3543\|νομίζω]]</big>**  |nomizō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Zechariah 14:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> shall come forth, and he shall deploy against  those nations, as \[the\] day of his battle array in \[the\] day of war. 
-<small><sub>**KJV:**</sub></small>
-Then shall the LORD go forth, and fight against those nations, as when he fought in the day of battle.
-<small><sub>**BSB:**</sub></small>
-Then the LORD will go out to fight against those nations, as He fights in the day of battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.2|<< Zechariah 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.4|Zechariah 14:4 >>]]</td></tr></table>
 
 | Translation | Greek |

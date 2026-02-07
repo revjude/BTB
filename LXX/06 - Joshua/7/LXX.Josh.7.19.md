@@ -1,10 +1,7 @@
 **LXX Joshua 7:19** 
 <small><sub>**LXX:**</sub></small>
 And Joshua said  to Achan, O my son, today give indeed glory to the <span class="smallcaps">lord</span> God of Israel, and make to him the acknowledgment, and announce to me what you did! and you should not hide \[it\] from me. 
-<small><sub>**KJV:**</sub></small>
-And Joshua said unto Achan, My son, give, I pray thee, glory to the LORD God of Israel, and make confession unto him; and tell me now what thou hast done; hide [it] not from me.
-<small><sub>**BSB:**</sub></small>
-So Joshua said to Achan, “My son, give glory to the LORD, the God of Israel, and make a confession to Him. I urge you to tell me what you have done; do not hide it from me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.18|<< Joshua 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.20|Joshua 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

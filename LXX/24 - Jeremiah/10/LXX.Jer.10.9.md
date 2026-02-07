@@ -1,10 +1,7 @@
 **LXX Jeremiah 10:9** 
 <small><sub>**LXX:**</sub></small>
 Amalgamated silver from Tarshish; gold shall come from Uphaz; and \[by the\] hand of goldsmiths \[they\] are all works of craftsmen. They shall put on them blue and purple. 
-<small><sub>**KJV:**</sub></small>
-Silver spread into plates is brought from Tarshish, and gold from Uphaz, the work of the workman, and of the hands of the founder: blue and purple [is] their clothing: they [are] all the work of cunning [men].
-<small><sub>**BSB:**</sub></small>
-Hammered silver is brought from Tarshish, and gold from Uphaz—the work of a craftsman from the hands of a goldsmith. Their clothes are blue and purple, all fashioned by skilled workers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.8|<< Jeremiah 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.11|Jeremiah 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

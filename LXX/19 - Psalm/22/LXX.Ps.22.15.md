@@ -1,10 +1,7 @@
 **LXX Psalm 22:15** 
 <small><sub>**LXX:**</sub></small>
 My strength was dried as a potsherd, and  my tongue cleaves \[to\] my throat. And to \[the\] dust of death you led me. 
-<small><sub>**KJV:**</sub></small>
-My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.
-<small><sub>**BSB:**</sub></small>
-My strength is dried up like a potsherd, and my tongue sticks to the roof of my mouth. You lay me in the dust of death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.14|<< Psalm 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.16|Psalm 22:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:15** is...

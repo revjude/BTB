@@ -1,5 +1,5 @@
-**Hebrews 8:10
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 8:10**<big><big>[[Heb.8.6 The New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this [is] the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:
 <small><sub>**BSB:**</sub></small>
 For this is the covenant I will make with the house of Israel after those days, declares the Lord. I will put My laws in their minds and inscribe them on their hearts. And I will be their God, and they will be My people.
@@ -10,7 +10,7 @@ For this [is] the covenant that I will make with the house of Israel after the d
 > $\quad$ referencing: [[LXX.Jer.31.31|Jer 31:31-34]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this [is] |**<big>[[G3778\|αὕτη]]</big>**  |hautē <small><sup>[[D-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

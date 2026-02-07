@@ -1,4 +1,4 @@
-**Psalms 73:11** 
+**Psalms 73:11**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they say, How doth God know? and is there knowledge in the most High?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wicked say, “How can God know? Does the Most High have knowledge?”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.10|<< Psalms 73:10]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.12|Psalms 73:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they say  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H0559\|אָמְר֗וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.me.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | how?  |**<big>&#8207;[[H0349B\|אֵיכָ֥ה]]&#8207; </big>**| 'ei.Khah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

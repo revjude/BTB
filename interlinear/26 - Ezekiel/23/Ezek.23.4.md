@@ -1,4 +1,4 @@
-**Ezekiel 23:4** 
+**Ezekiel 23:4**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the names of them [were] Aholah the elder, and Aholibah her sister: and they were mine, and they bare sons and daughters. Thus [were] their names; Samaria [is] Aholah, and Jerusalem Aholibah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The older was named Oholah, and her sister was named Oholibah. They became Mine 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.3|<< Ezekiel 23:3]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.5|Ezekiel 23:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and names their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8034\|שְׁמוֹתָ֗]]&#8207;&#8207;[[H9029\|ן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.mo.Ta<small><sup>[[HNcfpc]]</sup></small> n<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] Oholah  |**<big>&#8207;[[H0170\|אָהֳלָ֤ה]]&#8207; </big>**| 'o.ho.Lah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

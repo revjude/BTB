@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:3** 
 <small><sub>**LXX:**</sub></small>
 And Ahab king of Israel said to Jehoshaphat king of Judah, Will you go with me to Ramoth  of Gilead? And he said to him, As you, so also I; and as  your people, also  my people; even with you for war. 
-<small><sub>**KJV:**</sub></small>
-And Ahab king of Israel said unto Jehoshaphat king of Judah, Wilt thou go with me to Ramothgilead? And he answered him, I [am] as thou [art], and my people as thy people; and [we will be] with thee in the war.
-<small><sub>**BSB:**</sub></small>
-Ahab king of Israel asked Jehoshaphat king of Judah, “Will you go with me against Ramoth-gilead?” And Jehoshaphat replied, “I am as you are, and my people are your people; we will join you in the war.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.2|<< 2 Chronicles 18:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.4|2 Chronicles 18:4 >>]]</td></tr></table>
 
 | Translation | Greek |

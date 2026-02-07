@@ -1,10 +1,7 @@
 **LXX Isaiah 18:7** 
 <small><sub>**LXX:**</sub></small>
 In  that time gifts shall be offered \[to the\] <span class="smallcaps">lord</span> of Hosts from a people being afflicted and being plucked, and from a people great from the present and into the eon of time; a nation hoping and being trampled, which is in a part of the river  of his place, to the place where the name of \[the\] <span class="smallcaps">lord</span> of Hosts \[is\] -- in \[the\] holy mountain. 
-<small><sub>**KJV:**</sub></small>
-In that time shall the present be brought unto the LORD of hosts of a people scattered and peeled, and from a people terrible from their beginning hitherto; a nation meted out and trodden under foot, whose land the rivers have spoiled, to the place of the name of the LORD of hosts, the mount Zion.
-<small><sub>**BSB:**</sub></small>
-At that time gifts will be brought to the LORD of Hosts—from a people tall and smooth-skinned, from a people widely feared, from a powerful nation of strange speech, whose land is divided by rivers—to Mount Zion, the place of the Name of the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.18.6|<< Isaiah 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.1|Isaiah 19:1 >>]]</td></tr></table>
 
 | Translation | Greek |

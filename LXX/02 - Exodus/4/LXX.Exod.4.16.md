@@ -1,10 +1,7 @@
 **LXX Exodus 4:16** 
 <small><sub>**LXX:**</sub></small>
 And he shall speak the \[things\] to the people, and he will be your mouth. But you will be to him the \[things\] for  God. 
-<small><sub>**KJV:**</sub></small>
-And he shall be thy spokesman unto the people: and he shall be, [even] he shall be to thee instead of a mouth, and thou shalt be to him instead of God.
-<small><sub>**BSB:**</sub></small>
-He will speak to the people for you. He will be your spokesman, and it will be as if you were God to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.15|<< Exodus 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.17|Exodus 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

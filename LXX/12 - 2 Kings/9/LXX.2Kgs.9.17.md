@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:17** 
 <small><sub>**LXX:**</sub></small>
 And the watchman was standing upon the tower in Jezreel. And he beheld the cloud of dust of the multitude of Jehu in  his coming. And he said, I see a cloud of dust of the multitude. And Jehoram said, Take a rider, and send for meeting them! and let him say, Is it peace? 
-<small><sub>**KJV:**</sub></small>
-And there stood a watchman on the tower in Jezreel, and he spied the company of Jehu as he came, and said, I see a company. And Joram said, Take an horseman, and send to meet them, and let him say, [Is it] peace?
-<small><sub>**BSB:**</sub></small>
-Now the watchman standing on the tower in Jezreel saw Jehu’s troops approaching, and he called out, “I see a company of troops!” “Choose a rider,” Joram commanded. “Send him out to meet them and ask, ‘Have you come in peace?’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.16|<< 2 Kings 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.18|2 Kings 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

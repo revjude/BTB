@@ -1,10 +1,7 @@
 **LXX 2 Samuel 23:5** 
 <small><sub>**LXX:**</sub></small>
 For \[is\] not thus  my house with God? for he established an eternal covenant with me, to deliver me, prepared at all time being guarded. For all my deliverance, and all \[my\] will \[is\] in \[the\] <span class="smallcaps">lord</span>, for in no way the lawbreaker grow; 
-<small><sub>**KJV:**</sub></small>
-Although my house [be] not so with God; yet he hath made with me an everlasting covenant, ordered in all [things], and sure: for [this is] all my salvation, and all [my] desire, although he make [it] not to grow.
-<small><sub>**BSB:**</sub></small>
-Is not my house right with God? For He has established with me an everlasting covenant, ordered and secured in every part. Will He not bring about my full salvation and my every desire?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.4|<< 2 Samuel 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.6|2 Samuel 23:6 >>]]</td></tr></table>
 
 | Translation | Greek |

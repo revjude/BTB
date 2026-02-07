@@ -1,4 +1,4 @@
-**Genesis 7:17** 
+**Genesis 7:17**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the flood was forty days upon the earth; and the waters increased, and bare up the ark, and it was lift up above the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For forty days the flood kept coming on the earth, and the waters rose and lifte
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.16|<< Genesis 7:16]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.18|Genesis 7:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִ֧י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the flood  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3999\|מַּבּ֛וּל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Bul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

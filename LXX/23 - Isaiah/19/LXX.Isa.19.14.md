@@ -1,10 +1,7 @@
 **LXX Isaiah 19:14** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> mixed for them a spirit addicted to a delusion; and they caused Egypt to wander in all  its works, as the one being intoxicated wanders and the one vomitting together. 
-<small><sub>**KJV:**</sub></small>
-The LORD hath mingled a perverse spirit in the midst thereof: and they have caused Egypt to err in every work thereof, as a drunken [man] staggereth in his vomit.
-<small><sub>**BSB:**</sub></small>
-The LORD has poured into her a spirit of confusion. Egypt has been led astray in all she does, as a drunkard staggers through his own vomit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.13|<< Isaiah 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.15|Isaiah 19:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 19:34** 
 <small><sub>**LXX:**</sub></small>
 The among you foreigner approaching to you shall be as the native born. And you shall love him as yourself, for you became foreigners in \[the\] land of Egypt. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-[But] the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-You must treat the foreigner living among you as native-born and love him as yourself, for you were foreigners in the land of Egypt. I am the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.33|<< Leviticus 19:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.35|Leviticus 19:35 >>]]</td></tr></table>
 
 | Translation | Greek |

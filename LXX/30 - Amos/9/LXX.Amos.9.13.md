@@ -1,10 +1,7 @@
 **LXX Amos 9:13** 
 <small><sub>**LXX:**</sub></small>
 Behold, days come, says \[the\] <span class="smallcaps">lord</span>, and the threshing shall overtake the gathering of crops; and the grape shall grow dark in the sowing; and sweetness shall trickle down the mountains, and all the hills shall be planted together. 
-<small><sub>**KJV:**</sub></small>
-Behold, the days come, saith the LORD, that the plowman shall overtake the reaper, and the treader of grapes him that soweth seed; and the mountains shall drop sweet wine, and all the hills shall melt.
-<small><sub>**BSB:**</sub></small>
-“Behold, the days are coming,” declares the LORD, “when the plowman will overtake the reaper and the treader of grapes, the sower of seed. The mountains will drip with sweet wine, with which all the hills will flow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.12|<< Amos 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.14|Amos 9:14 >>]]</td></tr></table>
 
 | Translation | Greek |

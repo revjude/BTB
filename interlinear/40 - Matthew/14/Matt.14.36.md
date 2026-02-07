@@ -1,12 +1,12 @@
-**Matthew 14:36
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:36**<big><big>[[Matt.14.34 Jesus Heals at Gennesaret|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And besought him that they might only touch the hem of his garment: and as many as touched were made perfectly whole.
 <small><sub>**BSB:**</sub></small>
 and begged Him just to let them touch the fringe of His cloak. And all who touched Him were healed.
 <small><sub>**Literal:**</sub></small>
 and they were begging Him that only they may touch the fringe of the garment of Him; and as many as touched were cured.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.35|<< Matthew 14:35]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.1|Matthew 15:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were begging |**<big>[[G3870\|παρεκάλουν]]</big>**  |parekaloun <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

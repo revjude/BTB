@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:27** 
 <small><sub>**LXX:**</sub></small>
 Lift up a sign upon the earth! Trump among \[the\] nations with a trumpet! Sanctify \[the\] nations against her! Exhort kingdoms against her -- Ararat by me, and to the Ashchenazi! Set against her a range of weapons! Haul against her \[the\] horses as a multitude of locusts! 
-<small><sub>**KJV:**</sub></small>
-Set ye up a standard in the land, blow the trumpet among the nations, prepare the nations against her, call together against her the kingdoms of Ararat, Minni, and Ashchenaz; appoint a captain against her; cause the horses to come up as the rough caterpillers.
-<small><sub>**BSB:**</sub></small>
-“Raise a banner in the land! Blow the ram’s horn among the nations! Prepare the nations against her. Summon the kingdoms against her—Ararat, Minni, and Ashkenaz. Appoint a captain against her; bring up horses like swarming locusts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.26|<< Jeremiah 51:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.28|Jeremiah 51:28 >>]]</td></tr></table>
 
 | Translation | Greek |

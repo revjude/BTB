@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:4** 
 <small><sub>**LXX:**</sub></small>
 Why do you exult in Emakeim, O daughter of the audacity, the one relying upon  her treasures; the one saying, Who shall come to me? 
-<small><sub>**KJV:**</sub></small>
-Wherefore gloriest thou in the valleys, thy flowing valley, O backsliding daughter? that trusted in her treasures, [saying], Who shall come unto me?
-<small><sub>**BSB:**</sub></small>
-Why do you boast of your valleys—your valleys so fruitful, O faithless daughter? You trust in your riches and say, ‘Who can come against me?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.3|<< Jeremiah 49:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.5|Jeremiah 49:5 >>]]</td></tr></table>
 
 | Translation | Greek |

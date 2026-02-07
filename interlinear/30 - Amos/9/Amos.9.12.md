@@ -1,4 +1,4 @@
-**Amos 9:12** 
+**Amos 9:12**<big><big>[[Amos.9.11 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may possess the remnant of Edom, and of all the heathen, which are called by my name, saith the LORD that doeth this.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ that they may possess the remnant of Edom and all the nations that bear My name,
 > $\quad$ referenced by: [[Acts.15.16|Acts 15:16-17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֨עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they may dispossess  |**<big>&#8207;[[H3423G\|יִֽירְשׁ֜וּ]]&#8207; </big>**| yi.re.Shu<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

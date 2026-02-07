@@ -1,10 +1,7 @@
 **LXX Judges 7:9** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  that night, that \[the\] <span class="smallcaps">lord</span> said to him, Rise up, go down into the camp! for I delivered it into  your hand. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass the same night, that the LORD said unto him, Arise, get thee down unto the host; for I have delivered it into thine hand.
-<small><sub>**BSB:**</sub></small>
-That night the LORD said to Gideon, “Get up and go down against the camp, for I have delivered it into your hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.8|<< Judges 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.10|Judges 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

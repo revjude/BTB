@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:8** 
 <small><sub>**LXX:**</sub></small>
 For thus said \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel, Let not dissuade you the false prophets  among you! And let not dissuade you  your clairvoyants! And hearken not to  your dreams which you dream! 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD of hosts, the God of Israel; Let not your prophets and your diviners, that [be] in the midst of you, deceive you, neither hearken to your dreams which ye cause to be dreamed.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD of Hosts, the God of Israel, says: “Do not be deceived by the prophets and diviners among you, and do not listen to the dreams you elicit from them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.7|<< Jeremiah 29:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.9|Jeremiah 29:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 29:8** is...

@@ -1,4 +1,4 @@
-**1 Chronicles 22:16** 
+**1 Chronicles 22:16**<big><big>[[1Chr.22.6 Solomon Anointed to Build the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the gold, the silver, and the brass, and the iron, [there is] no number. Arise [therefore], and be doing, and the LORD be with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ in gold and silver, bronze and iron—craftsmen beyond number. Now begin the wor
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.15|<< 1 Chronicles 22:15]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.17|1 Chronicles 22:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of \<the> gold  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2091\|זָּהָ֥ב]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of \<the> silver  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3701G\|כֶּ֛סֶף]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:32** 
 <small><sub>**LXX:**</sub></small>
 Thus says Adonai \[the\] <span class="smallcaps">lord</span>; The cup  of your sister you shall drink --  deep and  spacious; it shall be for laughter and sneering  abounding  to complete intoxication. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; Thou shalt drink of thy sister’s cup deep and large: thou shalt be laughed to scorn and had in derision; it containeth much.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: ‘You will drink your sister’s cup, a cup deep and wide. It will bring scorn and derision, for it holds so much.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.31|<< Ezekiel 23:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.33|Ezekiel 23:33 >>]]</td></tr></table>
 
 | Translation | Greek |

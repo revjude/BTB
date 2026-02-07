@@ -1,4 +1,4 @@
-**Isaiah 10:17** 
+**Isaiah 10:17**<big><big>[[Isa.10.5 Judgment on Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the light of Israel shall be for a fire, and his Holy One for a flame: and it shall burn and devour his thorns and his briers in one day;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the Light of Israel will become a fire, and its Holy One a flame. In a singl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.16|<< Isaiah 10:16]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.18|Isaiah 10:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] light of  |**<big>&#8207;[[H0216\|אֽוֹר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'or-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

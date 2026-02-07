@@ -1,10 +1,7 @@
 **LXX Malachi 2:3** 
 <small><sub>**LXX:**</sub></small>
 Behold, I separate to you the shoulder, and I will disperse \[dung of the\] large intestine upon  your faces, \[dung of the\] large intestine of your holiday \[feasts\]; and I will take you \[away\] at the same \[time\]. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will corrupt your seed, and spread dung upon your faces, [even] the dung of your solemn feasts; and [one] shall take you away with it.
-<small><sub>**BSB:**</sub></small>
-Behold, I will rebuke your descendants, and I will spread dung on your faces, the waste from your feasts, and you will be carried off with it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.2|<< Malachi 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.4|Malachi 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

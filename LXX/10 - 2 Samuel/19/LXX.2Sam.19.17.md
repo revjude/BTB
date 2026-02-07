@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:17** 
 <small><sub>**LXX:**</sub></small>
 And \[there were\] a thousand men with him from  Benjamin, and Ziba the servant of the house of Saul, and his fifteen sons, and his twenty servants with him. And they went straight unto the Jordan before the king. 
-<small><sub>**KJV:**</sub></small>
-And [there were] a thousand men of Benjamin with him, and Ziba the servant of the house of Saul, and his fifteen sons and his twenty servants with him; and they went over Jordan before the king.
-<small><sub>**BSB:**</sub></small>
-along with a thousand men of Benjamin, as well as Ziba the steward of the house of Saul and his fifteen sons and twenty servants. They rushed down to the Jordan before the king<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.16|<< 2 Samuel 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.18|2 Samuel 19:18 >>]]</td></tr></table>
 
 | Translation | Greek |

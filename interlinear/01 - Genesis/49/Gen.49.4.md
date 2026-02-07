@@ -1,4 +1,4 @@
-**Genesis 49:4** 
+**Genesis 49:4**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unstable as water, thou shalt not excel; because thou wentest up to thy father’s bed; then defiledst thou [it]: he went up to my couch.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Uncontrolled as the waters, you will no longer excel, because you went up to you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.3|<< Genesis 49:3]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.5|Genesis 49:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | destructiveness  |**<big>&#8207;[[H6349\|פַּ֤חַז]]&#8207; </big>**| Pa.chaz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> water  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H4325G\|מַּ֙יִם֙]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

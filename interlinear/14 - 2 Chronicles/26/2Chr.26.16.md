@@ -1,4 +1,4 @@
-**2 Chronicles 26:16** 
+**2 Chronicles 26:16**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when he was strong, his heart was lifted up to [his] destruction: for he transgressed against the LORD his God, and went into the temple of the LORD to burn incense upon the altar of incense.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when Uzziah became powerful, his arrogance led to his own destruction. He wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.15|<< 2 Chronicles 26:15]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.17|2 Chronicles 26:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and according to strengthening his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H2393\|חֶזְקָת֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> chez.ka.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was haughty  |**<big>&#8207;[[H1361\|גָּבַ֤הּ]]&#8207; </big>**| ga.Vah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

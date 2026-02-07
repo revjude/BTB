@@ -1,12 +1,12 @@
-**Acts 14:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:1**<big><big>[[Acts.14.1 Paul and Barnabas at Iconium|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed.
 <small><sub>**BSB:**</sub></small>
 At Iconium, Paul and Barnabas went as usual into the Jewish synagogue, where they spoke so well that a great number of Jews and Greeks believed.
 <small><sub>**Literal:**</sub></small>
 It came to pass now in Iconium according to the same entering they into the synagogue of the Jews and speaking so that to believe of Jews both and Greeks a great number.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.52|<< Acts 13:52]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.2|Acts 14:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It came to pass |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

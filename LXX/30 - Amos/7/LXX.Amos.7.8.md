@@ -1,10 +1,7 @@
 **LXX Amos 7:8** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to me, What do you see, Amos? And I said, Adamant. And \[the\] Lord said to me, Behold, I arrange an adamant in \[the\] midst of my people Israel; no longer shall I proceed  to go by it. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto me, Amos, what seest thou? And I said, A plumbline. Then said the Lord, Behold, I will set a plumbline in the midst of my people Israel: I will not again pass by them any more:
-<small><sub>**BSB:**</sub></small>
-“Amos, what do you see?” asked the LORD. “A plumb line,” I replied. “Behold,” said the Lord, “I am setting a plumb line among My people Israel; I will no longer spare them:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.7.7|<< Amos 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.9|Amos 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

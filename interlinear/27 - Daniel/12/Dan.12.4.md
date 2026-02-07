@@ -1,4 +1,4 @@
-**Daniel 12:4** 
+**Daniel 12:4**<big><big>[[Dan.12.1 The End Times|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou, O Daniel, shut up the words, and seal the book, [even] to the time of the end: many shall run to and fro, and knowledge shall be increased.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But you, Daniel, shut up these words and seal the book until the time of the end
 > $\quad$ referenced by: [[Rev.10.5|Rev 10:5]] ☩ [[Rev.22.10|Rev 22:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Daniel  |**<big>&#8207;[[H1840G\|דָֽנִיֵּ֗אל]]&#8207; </big>**| da.ni.Yel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

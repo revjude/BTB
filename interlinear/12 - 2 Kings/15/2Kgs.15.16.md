@@ -1,4 +1,4 @@
-**2 Kings 15:16** 
+**2 Kings 15:16**<big><big>[[2Kgs.15.13 Shallum Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Menahem smote Tiphsah, and all that [were] therein, and the coasts thereof from Tirzah: because they opened not [to him], therefore he smote [it; and] all the women therein that were with child he ripped up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time Menahem, starting from Tirzah, attacked Tiphsah and everyone in its
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.15|<< 2 Kings 15:15]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.17|2 Kings 15:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he struck  |**<big>&#8207;[[H5221\|יַכֶּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.keh-<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

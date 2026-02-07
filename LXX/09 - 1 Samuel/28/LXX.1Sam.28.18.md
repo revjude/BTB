@@ -1,10 +1,7 @@
 **LXX 1 Samuel 28:18** 
 <small><sub>**LXX:**</sub></small>
 Because you hearkened not to the voice of \[the\] <span class="smallcaps">lord</span>, and you did not fill his rage of anger against  Amalek; on account of  this thing \[the\] <span class="smallcaps">lord</span> did to you thus \[in\] this day. 
-<small><sub>**KJV:**</sub></small>
-Because thou obeyedst not the voice of the LORD, nor executedst his fierce wrath upon Amalek, therefore hath the LORD done this thing unto thee this day.
-<small><sub>**BSB:**</sub></small>
-Because you did not obey the LORD or carry out His burning anger against Amalek, the LORD has done this to you today.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.17|<< 1 Samuel 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.19|1 Samuel 28:19 >>]]</td></tr></table>
 
 | Translation | Greek |

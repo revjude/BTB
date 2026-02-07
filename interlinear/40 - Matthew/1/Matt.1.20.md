@@ -1,12 +1,12 @@
-**Matthew 1:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:20**<big><big>[[Matt.1.18 The Birth of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 But after he had pondered these things, an angel of the Lord appeared to him in a dream and said, “Joseph, son of David, do not be afraid to embrace Mary as your wife, for the One conceived in her is from the Holy Spirit.
 <small><sub>**Literal:**</sub></small>
 These things now when he was pondering behold an angel of [the] Lord in a dream appeared to him saying; Joseph son of David, not may you fear to receive Mary [as] the wife of you; that for in her having been conceived from [the] Spirit [which] is Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.19|<< Matthew 1:19]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.21|Matthew 1:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|Ταῦτα]]</big>**  |Tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

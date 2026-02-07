@@ -1,10 +1,7 @@
 **LXX Isaiah 30:24** 
 <small><sub>**LXX:**</sub></small>
  Your bulls and  oxen  working the ground shall eat straw being prepared from barley being winnowed. 
-<small><sub>**KJV:**</sub></small>
-The oxen likewise and the young asses that ear the ground shall eat clean provender, which hath been winnowed with the shovel and with the fan.
-<small><sub>**BSB:**</sub></small>
-The oxen and donkeys that work the ground will eat salted fodder, winnowed with shovel and pitchfork.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.23|<< Isaiah 30:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.25|Isaiah 30:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,6 +1,6 @@
 (KJV) **Psalm 82**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.81|<< Psalm 81]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83|Psalm 83 >>]]</td></tr></table>
 
-***God Presides in the Divine Assembly*** ^bsb1375
+<big><big>[[Ps.82.1 God Presides in the Divine Assembly|⥃]]</big></big>***God Presides in the Divine Assembly***
 
 
 

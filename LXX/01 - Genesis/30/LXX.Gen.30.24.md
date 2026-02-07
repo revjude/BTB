@@ -1,10 +1,7 @@
 **LXX Genesis 30:24** 
 <small><sub>**LXX:**</sub></small>
 And she called  his name Joseph, saying, God added to me another son! 
-<small><sub>**KJV:**</sub></small>
-And she called his name Joseph; and said, The LORD shall add to me another son.
-<small><sub>**BSB:**</sub></small>
-She named him Joseph, and said, “May the LORD add to me another son.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.23|<< Genesis 30:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.25|Genesis 30:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 16:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:18**<big><big>[[Acts.16.16 Paul and Silas Imprisoned|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour.
 <small><sub>**BSB:**</sub></small>
 She continued this for many days. Eventually Paul grew so aggravated that he turned and said to the spirit, “In the name of Jesus Christ I command you to come out of her!” And the spirit left her at that very moment.
 <small><sub>**Literal:**</sub></small>
 This then she was continuing for many days. Having been distressed then <the> Paul and having turned to the spirit he said; I command you in the name of Jesus Christ to come out from her. And it came out on [the] same <the> hour.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.17|<< Acts 16:17]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.19|Acts 16:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

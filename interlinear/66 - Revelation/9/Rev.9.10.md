@@ -1,12 +1,12 @@
-**Revelation 9:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:10**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they had tails like unto scorpions, and there were stings in their tails: and their power [was] to hurt men five months.
 <small><sub>**BSB:**</sub></small>
 They had tails with stingers like scorpions, which had the power to injure people for five months.
 <small><sub>**Literal:**</sub></small>
 And they have tails like as scorpions and stingers it was and in the tails of them and [is] the power they have of them to injure <the> men for months five.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.9|<< Revelation 9:9]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.11|Revelation 9:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they have |**<big>[[G2192\|ἔχουσιν]]</big>**  |echousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

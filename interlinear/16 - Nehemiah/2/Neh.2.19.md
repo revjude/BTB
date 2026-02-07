@@ -1,4 +1,4 @@
-**Nehemiah 2:19** 
+**Nehemiah 2:19**<big><big>[[Neh.2.11 Nehemiah Inspects the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard [it], they laughed us to scorn, and despised us, and said, What [is] this thing that ye do? will ye rebel against the king?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when Sanballat the Horonite, Tobiah the Ammonite official, and Geshem the Ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.18|<< Nehemiah 2:18]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.20|Nehemiah 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַע֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sanballat  |**<big>&#8207;[[H5571\|סַנְבַלַּ֨ט]]&#8207; </big>**| san.va.Lat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

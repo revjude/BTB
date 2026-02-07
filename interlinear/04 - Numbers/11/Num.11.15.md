@@ -1,4 +1,4 @@
-**Numbers 11:15** 
+**Numbers 11:15**<big><big>[[Num.11.10 The Complaint of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thou deal thus with me, kill me, I pray thee, out of hand, if I have found favour in thy sight; and let me not see my wretchedness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If this is how You are going to treat me, please kill me right now—if I have f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.14|<< Numbers 11:14]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.16|Numbers 11:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3602\|כָּ֣כָה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Ka.khah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

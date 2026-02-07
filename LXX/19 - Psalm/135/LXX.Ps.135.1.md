@@ -6,10 +6,7 @@ Alleluiah.
 
 <small><sub>**LXX:**</sub></small>
 Praise the name of \[the\] <span class="smallcaps">lord</span>! Praise, O servants, \[the\] <span class="smallcaps">lord</span>, 
-<small><sub>**KJV:**</sub></small>
-Praise ye the LORD. Praise ye the name of the LORD; praise [him], O ye servants of the LORD.
-<small><sub>**BSB:**</sub></small>
-Hallelujah! Praise the name of the LORD. Give praise, O servants of the LORD,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.135.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.134.3|<< Psalm 134:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.2|Psalm 135:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 135:1** is...

@@ -1,10 +1,7 @@
 **LXX Psalm 44:8** 
 <small><sub>**LXX:**</sub></small>
 In  God we will be praised \[the\] entire  day; and in  your name we will make acknowledgment into the eon. 
-<small><sub>**KJV:**</sub></small>
-In God we boast all the day long, and praise thy name for ever. Selah.
-<small><sub>**BSB:**</sub></small>
-In God we have boasted all day long, and Your name we will praise forever. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.44.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.7|<< Psalm 44:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.9|Psalm 44:9 >>]]</td></tr></table>
 
 | Translation | Greek |

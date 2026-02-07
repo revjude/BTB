@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:8** 
 <small><sub>**LXX:**</sub></small>
 And of the Gadites \[these\] separated to David into the wilderness, mighty strong men for war, deploying shield and spear, and their faces \[were as\] faces of lions, and \[they were\] light as does upon the mountains  \[going\] quickly. 
-<small><sub>**KJV:**</sub></small>
-And of the Gadites there separated themselves unto David into the hold to the wilderness men of might, [and] men of war [fit] for the battle, that could handle shield and buckler, whose faces [were like] the faces of lions, and [were] as swift as the roes upon the mountains;
-<small><sub>**BSB:**</sub></small>
-Some Gadites defected to David at his stronghold in the wilderness. They were mighty men of valor, trained for battle, experts with the shield and spear, whose faces were like the faces of lions and who were as swift as gazelles on the mountains:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.7|<< 1 Chronicles 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.9|1 Chronicles 12:9 >>]]</td></tr></table>
 
 | Translation | Greek |

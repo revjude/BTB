@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke by \[the\] hand of Jehu son of Hanani against Baasha, and against  his house, and upon all the evil which he did before \[the\] <span class="smallcaps">lord</span>,  provoking him to anger by the works  of his hands,  for him to be as the house of Jeroboam, and for  striking him. 
-<small><sub>**KJV:**</sub></small>
-And also by the hand of the prophet Jehu the son of Hanani came the word of the LORD against Baasha, and against his house, even for all the evil that he did in the sight of the LORD, in provoking him to anger with the work of his hands, in being like the house of Jeroboam; and because he killed him.
-<small><sub>**BSB:**</sub></small>
-Moreover, the word of the LORD came through the prophet Jehu son of Hanani against Baasha and his house, because of all the evil he had done in the sight of the LORD, provoking Him to anger with the work of his hands and becoming like the house of Jeroboam, and also because Baasha had struck down the house of Jeroboam.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.6|<< 1 Kings 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.8|1 Kings 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

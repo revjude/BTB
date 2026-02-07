@@ -1,12 +1,12 @@
-**Acts 2:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:22**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye men of Israel, hear these words; Jesus of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him in the midst of you, as ye yourselves also know:
 <small><sub>**BSB:**</sub></small>
 Men of Israel, listen to this message: Jesus of Nazareth was a man certified by God to you by miracles, wonders, and signs, which God did among you through Him, as you yourselves know.
 <small><sub>**Literal:**</sub></small>
 Men Israelites, do hear <the> words these: Jesus <the> of Nazareth, a man set forth by <the> God to you by miracles and by wonders and by signs which did through Him <the> God in [the] midst of you, even as also you yourselves know,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.21|<< Acts 2:21]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.23|Acts 2:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Men |**<big>[[G0435G\|Ἄνδρες]]</big>**  |Andres <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Israelites, |**<big>[[G2475\|Ἰσραηλῖται,]]</big>**  [^1] |Israēlitai <small><sup>[[N-VPM-PG]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

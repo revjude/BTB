@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:29** 
 <small><sub>**LXX:**</sub></small>
 And Elisha said  to Gehazi, Tie up  your loin, and take  my staff in  your hand and go! And if you should find a man \[in the way\], you shall not bless him; and if a man should bless you, you shall not answer him; and you shall place  my staff upon \[the\] face of the boy. 
-<small><sub>**KJV:**</sub></small>
-Then he said to Gehazi, Gird up thy loins, and take my staff in thine hand, and go thy way: if thou meet any man, salute him not; and if any salute thee, answer him not again: and lay my staff upon the face of the child.
-<small><sub>**BSB:**</sub></small>
-So Elisha said to Gehazi, “Tie up your garment, take my staff in your hand, and go! If you meet anyone, do not greet him, and if anyone greets you, do not answer him. Then lay my staff on the boy’s face.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.28|<< 2 Kings 4:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.30|2 Kings 4:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Kings 4:29** is...

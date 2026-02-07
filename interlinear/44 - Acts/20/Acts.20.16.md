@@ -1,12 +1,12 @@
-**Acts 20:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:16**<big><big>[[Acts.20.13 From Troas to Miletus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For Paul had determined to sail by Ephesus, because he would not spend the time in Asia: for he hasted, if it were possible for him, to be at Jerusalem the day of Pentecost.
 <small><sub>**BSB:**</sub></small>
 Paul had decided to sail past Ephesus to avoid spending time in the province of Asia, because he was in a hurry to reach Jerusalem, if possible, by the day of Pentecost.
 <small><sub>**Literal:**</sub></small>
 Had decided for <the> Paul to sail by <the> Ephesus, so that not it may happen to him to spend time in <the> Asia; he was hastened for if possible it would be for him on the day <the> of Pentecost to be in Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.15|<< Acts 20:15]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.17|Acts 20:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Had decided [^1] |**<big>[[G2919\|κεκρίκει]]</big>**  |kekrikei <small><sup>[[V-LAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

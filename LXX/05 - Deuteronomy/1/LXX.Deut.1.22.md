@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:22** 
 <small><sub>**LXX:**</sub></small>
 And you all came forward to me, and said, You should send men in front of us, and let them explore the land for us, and let them announce to us an answer for the way through which we shall ascend by it! and the cities into which we shall enter into them. 
-<small><sub>**KJV:**</sub></small>
-And ye came near unto me every one of you, and said, We will send men before us, and they shall search us out the land, and bring us word again by what way we must go up, and into what cities we shall come.
-<small><sub>**BSB:**</sub></small>
-Then all of you approached me and said, “Let us send men ahead of us to search out the land and bring us word of what route to follow and which cities to enter.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.21|<< Deuteronomy 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.23|Deuteronomy 1:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Amos 5:3** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span>  God, The city from out of which went a thousand, shall be left with a hundred; and from out of which went forth a hundred, shall be left ten to the house of Israel. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the Lord GOD; The city that went out [by] a thousand shall leave an hundred, and that which went forth [by] an hundred shall leave ten, to the house of Israel.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: “The city that marches out a thousand strong will have but a hundred left, and the one that marches out a hundred strong will have but ten left in the house of Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.2|<< Amos 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.4|Amos 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

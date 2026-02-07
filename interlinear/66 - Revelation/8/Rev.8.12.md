@@ -1,5 +1,5 @@
-**Revelation 8:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 8:12**<big><big>[[Rev.8.6 The First Four Trumpets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; so as the third part of them was darkened, and the day shone not for a third part of it, and the night likewise.
 <small><sub>**BSB:**</sub></small>
 Then the fourth angel sounded his trumpet, and a third of the sun and moon and stars were struck. A third of the stars were darkened, a third of the day was without light, and a third of the night as well.
@@ -10,7 +10,7 @@ And the fourth angel sounded [his] trumpet, and was struck <the> a third of the 
 > $\quad$ alluding to: [[LXX.Ezek.32.7|Ezek 32:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

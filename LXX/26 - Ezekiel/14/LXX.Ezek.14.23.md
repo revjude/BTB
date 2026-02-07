@@ -1,10 +1,7 @@
 **LXX Ezekiel 14:23** 
 <small><sub>**LXX:**</sub></small>
 That they shall comfort you, because you shall see  theirs ways and  their thoughts. and you shall realize that done not all in vain as much as I did by it, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And they shall comfort you, when ye see their ways and their doings: and ye shall know that I have not done without cause all that I have done in it, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-They will bring you consolation when you see their conduct and actions, and you will know that it was not without cause that I have done all these things within it,’ declares the Lord GOD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.22|<< Ezekiel 14:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.15.1|Ezekiel 15:1 >>]]</td></tr></table>
 
 | Translation | Greek |

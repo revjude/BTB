@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:17** 
 <small><sub>**LXX:**</sub></small>
 And Baasha king of Israel ascended against Judah, and he built  Ramah, \[so as\] not to be going forth and entering \[to\] Asa king of Judah. 
-<small><sub>**KJV:**</sub></small>
-And Baasha king of Israel went up against Judah, and built Ramah, that he might not suffer any to go out or come in to Asa king of Judah.
-<small><sub>**BSB:**</sub></small>
-Baasha king of Israel went to war against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.16|<< 1 Kings 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.18|1 Kings 15:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 4:23** 
+**1 Chronicles 4:23**<big><big>[[1Chr.4.11 More Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [were] the potters, and those that dwelt among plants and hedges: there they dwelt with the king for his work.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the potters who lived at Netaim and Gederah. They lived there in the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.22|<< 1 Chronicles 4:22]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.24|1 Chronicles 4:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵ֚מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] the potters  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3335H\|יּ֣וֹצְרִ֔ים]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yotz.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Judges 19:13** 
+**Judges 19:13**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto his servant, Come, and let us draw near to one of these places to lodge all night, in Gibeah, or in Ramah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He continued, “Come, let us try to reach one of these towns to spend the night
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.12|<< Judges 19:12]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.14|Judges 19:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to servant his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5288\|נַעֲר֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> na.'a.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

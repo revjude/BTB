@@ -1,10 +1,7 @@
 **LXX Ezra 4:10** 
 <small><sub>**LXX:**</sub></small>
 and the rest of the of \[the\] nations whom the great and the esteemed Asnapper resettled, and settled them in \[the\] cities  of Samaria, and the rest on the other side of the river. 
-<small><sub>**KJV:**</sub></small>
-And the rest of the nations whom the great and noble Asnappar brought over, and set in the cities of Samaria, and the rest [that are] on this side the river, and at such a time.
-<small><sub>**BSB:**</sub></small>
-and the rest of the peoples whom the great and honorable Ashurbanipal deported and settled in the cities of Samaria and elsewhere west of the Euphrates.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.4.9|<< Ezra 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.11|Ezra 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 22:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:18**<big><big>[[Matt.22.15 Paying Taxes to Caesar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Jesus perceived their wickedness, and said, Why tempt ye me, [ye] hypocrites?
 <small><sub>**BSB:**</sub></small>
 But Jesus knew their evil intent and said, “You hypocrites, why are you testing Me?
 <small><sub>**Literal:**</sub></small>
 Having known however <the> Jesus the malice of them He said; Why Me do you test, hypocrites?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.17|<< Matthew 22:17]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.19|Matthew 22:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having known |**<big>[[G1097\|Γνοὺς]]</big>**  |Gnous <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

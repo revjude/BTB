@@ -1,4 +1,4 @@
-**1 Samuel 7:6** 
+**1 Samuel 7:6**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gathered together to Mizpeh, and drew water, and poured [it] out before the LORD, and fasted on that day, and said there, We have sinned against the LORD. And Samuel judged the children of Israel in Mizpeh.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When they had gathered at Mizpah, they drew water and poured it out before the L
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gathered together  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6908\|יִּקָּבְצ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.ve.Tzu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> Mizpah towards  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H4709G\|מִּצְפָּתָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> mitz.pa.ta<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Acts 7:45
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:45**<big><big>[[Acts.7.44 The Tabernacle of the Testimony|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David;
 <small><sub>**BSB:**</sub></small>
 And our fathers who received it brought it in with Joshua when they dispossessed the nations God drove out before them. It remained until the time of David,
@@ -10,7 +10,7 @@ which also brought [it] having received by succession the fathers of us with Jos
 > $\quad$ alluding to: [[LXX.Josh.3.14|Josh 3:14]] ☩ [[LXX.Josh.18.1|Josh 18:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which |**<big>[[G3739\|ἣν]]</big>**  |hēn <small><sup>[[R-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

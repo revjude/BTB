@@ -1,10 +1,7 @@
 **LXX Daniel 9:19** 
 <small><sub>**LXX:**</sub></small>
 Hearken, O <span class="smallcaps">lord</span>! Atone, O <span class="smallcaps">lord</span>! Take heed, O <span class="smallcaps">lord</span>! Act, and do not delay for your \[sake\], O <span class="smallcaps">lord</span>  my God! For  your name is called upon  your city, and upon  your people. 
-<small><sub>**KJV:**</sub></small>
-O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name.
-<small><sub>**BSB:**</sub></small>
-O Lord, listen! O Lord, forgive! O Lord, hear and act! For Your sake, O my God, do not delay, because Your city and Your people bear Your name.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.18|<< Daniel 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.20|Daniel 9:20 >>]]</td></tr></table>
 
 | Translation | Greek |

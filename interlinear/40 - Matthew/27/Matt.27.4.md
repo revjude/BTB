@@ -1,12 +1,12 @@
-**Matthew 27:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:4**<big><big>[[Matt.27.3 Judas Hangs Himself|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, I have sinned in that I have betrayed the innocent blood. And they said, What [is that] to us? see thou [to that].
 <small><sub>**BSB:**</sub></small>
 “I have sinned by betraying innocent blood,” he said. “What is that to us?” they replied. “You bear the responsibility.”
 <small><sub>**Literal:**</sub></small>
 saying; I sinned having betrayed blood innocent. <the> Then they said; What [is that] to us? You yourself will see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.3|<< Matthew 27:3]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.5|Matthew 27:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I sinned |**<big>[[G0264\|ἥμαρτον]]</big>**  |hēmarton <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they came down to him. And Elisha prayed to \[the\] <span class="smallcaps">lord</span>, and said, Strike indeed  this nation with inability to see! And he struck them with inability to see, according to the saying of Elisha. 
-<small><sub>**KJV:**</sub></small>
-And when they came down to him, Elisha prayed unto the LORD, and said, Smite this people, I pray thee, with blindness. And he smote them with blindness according to the word of Elisha.
-<small><sub>**BSB:**</sub></small>
-As the Arameans came down against him, Elisha prayed to the LORD, “Please strike these people with blindness.” So He struck them with blindness, according to the word of Elisha.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.17|<< 2 Kings 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.19|2 Kings 6:19 >>]]</td></tr></table>
 
 | Translation | Greek |

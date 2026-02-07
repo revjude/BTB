@@ -1,5 +1,5 @@
-**Mark 15:36
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:36**<big><big>[[Mark.15.33 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And one ran and filled a spunge full of vinegar, and put [it] on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down.
 <small><sub>**BSB:**</sub></small>
 And someone ran and filled a sponge with sour wine. He put it on a reed and held it up for Jesus to drink, saying, “Leave Him alone. Let us see if Elijah comes to take Him down.”
@@ -10,7 +10,7 @@ Having run then someone and having filled a sponge with vinegar, having put both
 > $\quad$ referencing: [[LXX.Ps.69.21|Ps 69:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having run |**<big>[[G5143\|δραμὼν]]</big>**  |dramōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

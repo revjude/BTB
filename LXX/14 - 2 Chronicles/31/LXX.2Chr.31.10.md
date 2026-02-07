@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 31:10** 
 <small><sub>**LXX:**</sub></small>
 And Azariah to him the priest the ruler of the house of Zadok spoke, and he said, From of which \[time\] the first-fruit began to be brought into the house of \[the\] <span class="smallcaps">lord</span>, we ate and drank, and we left behind unto in abundance. For \[the\] <span class="smallcaps">lord</span> blessed  his people, and we left behind still  this multitude. 
-<small><sub>**KJV:**</sub></small>
-And Azariah the chief priest of the house of Zadok answered him, and said, Since [the people] began to bring the offerings into the house of the LORD, we have had enough to eat, and have left plenty: for the LORD hath blessed his people; and that which is left [is] this great store.
-<small><sub>**BSB:**</sub></small>
-and Azariah, the chief priest of the household of Zadok, answered him, “Since the people began to bring their contributions into the house of the LORD, we have had enough to eat, and there is plenty left over, because the LORD has blessed His people; this great abundance is what is left over.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.31.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.9|<< 2 Chronicles 31:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.11|2 Chronicles 31:11 >>]]</td></tr></table>
 
 | Translation | Greek |

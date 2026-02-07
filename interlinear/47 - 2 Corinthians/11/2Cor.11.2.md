@@ -1,12 +1,12 @@
-**2 Corinthians 11:2
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:2**<big><big>[[2Cor.11.1 Paul and the False Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I am jealous over you with godly jealousy: for I have espoused you to one husband, that I may present [you as] a chaste virgin to Christ.
 <small><sub>**BSB:**</sub></small>
 I am jealous for you with a godly jealousy. For I promised you to one husband, to present you as a pure virgin to Christ.
 <small><sub>**Literal:**</sub></small>
 I am jealous as to for you of God with [the] jealousy; I have betrothed for you to one husband a virgin pure to present <the> to Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.1|<< 2 Corinthians 11:1]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.3|2 Corinthians 11:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I am jealous as to |**<big>[[G2206\|ζηλῶ]]</big>**  |zēlō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

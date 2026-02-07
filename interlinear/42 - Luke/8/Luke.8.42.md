@@ -1,12 +1,12 @@
-**Luke 8:42
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:42**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him.
 <small><sub>**BSB:**</sub></small>
 because his only daughter, who was about twelve, was dying. As Jesus went with him, the crowds pressed around Him,
 <small><sub>**Literal:**</sub></small>
 because daughter an only was to him about years [old] twelve and she was dying. As then <the> [is] to go He the crowds were pressing around Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.41|<< Luke 8:41]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.43|Luke 8:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | daughter |**<big>[[G2364\|θυγάτηρ]]</big>**  |thugatēr <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:16** 
 <small><sub>**LXX:**</sub></small>
 And it will be if you should be multiplied, and should grow upon the land, says \[the\] <span class="smallcaps">lord</span>, in  those days, they shall not say any more, Ark of \[the\] covenant of holy Israel. It shall not ascend upon \[the\] heart, nor be named, nor shall it be examined, and it shall not be done any more. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, when ye be multiplied and increased in the land, in those days, saith the LORD, they shall say no more, The ark of the covenant of the LORD: neither shall it come to mind: neither shall they remember it; neither shall they visit [it]; neither shall [that] be done any more.
-<small><sub>**BSB:**</sub></small>
-“In those days, when you multiply and increase in the land,” declares the LORD, “they will no longer discuss the ark of the covenant of the LORD. It will never come to mind, and no one will remember it or miss it, nor will another one be made.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.15|<< Jeremiah 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.17|Jeremiah 3:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 3:16** is...

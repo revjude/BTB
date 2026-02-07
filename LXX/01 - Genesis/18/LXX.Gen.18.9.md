@@ -1,10 +1,7 @@
 **LXX Genesis 18:9** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, Where \[is\] Sarah  your wife?  And answering he said, Behold, in the tent. 
-<small><sub>**KJV:**</sub></small>
-And they said unto him, Where [is] Sarah thy wife? And he said, Behold, in the tent.
-<small><sub>**BSB:**</sub></small>
-“Where is your wife Sarah?” they asked. “There, in the tent,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.8|<< Genesis 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.10|Genesis 18:10 >>]]</td></tr></table>
 
 | Translation | Greek |

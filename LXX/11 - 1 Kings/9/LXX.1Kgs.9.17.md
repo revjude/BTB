@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:17** 
 <small><sub>**LXX:**</sub></small>
 And Solomon built  Gezer, and  Beth-horon the lower, 
-<small><sub>**KJV:**</sub></small>
-And Solomon built Gezer, and Bethhoron the nether,
-<small><sub>**BSB:**</sub></small>
-So Solomon rebuilt Gezer, Lower Beth-horon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.16|<< 1 Kings 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.18|1 Kings 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 27:18** 
+**Exodus 27:18**<big><big>[[Exod.27.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The length of the court [shall be] an hundred cubits, and the breadth fifty every where, and the height five cubits [of] fine twined linen, and their sockets [of] brass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The entire courtyard shall be a hundred cubits long and fifty cubits wide, with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.17|<< Exodus 27:17]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.19|Exodus 27:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] length of  |**<big>&#8207;[[H0753\|אֹ֣רֶךְ]]&#8207; </big>**| 'O.rekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the courtyard  |**<big>&#8207;[[H9009\|הֶֽ]]&#8207;&#8207;[[H2691A\|חָצֵר֩]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> cha.Tzer<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass, in  their passing over, Elijah said to Elisha, Ask! what I shall do for you before  my being taken up from you. And Elisha said, Let there be indeed a double  of your spirit upon me! 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when they were gone over, that Elijah said unto Elisha, Ask what I shall do for thee, before I be taken away from thee. And Elisha said, I pray thee, let a double portion of thy spirit be upon me.
-<small><sub>**BSB:**</sub></small>
-After they had crossed over, Elijah said to Elisha, “Tell me, what can I do for you before I am taken away from you?” “Please, let me inherit a double portion of your spirit,” Elisha replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.8|<< 2 Kings 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.10|2 Kings 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

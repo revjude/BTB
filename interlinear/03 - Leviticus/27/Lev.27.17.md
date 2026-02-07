@@ -1,4 +1,4 @@
-**Leviticus 27:17** 
+**Leviticus 27:17**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he sanctify his field from the year of jubile, according to thy estimation it shall stand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If he consecrates his field during the Year of Jubilee, the price will stand acc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.16|<< Leviticus 27:16]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.18|Leviticus 27:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] year of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8141\|שְּׁנַ֥ת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> she.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

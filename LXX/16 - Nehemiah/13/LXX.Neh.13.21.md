@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:21** 
 <small><sub>**LXX:**</sub></small>
 And I testified to them, and I said to them, Why do you lodge before the wall? If you repeat it a second time, I will stretch out  my hand against you. From  that time they did not come on \[the\] Sabbath. 
-<small><sub>**KJV:**</sub></small>
-Then I testified against them, and said unto them, Why lodge ye about the wall? if ye do [so] again, I will lay hands on you. From that time forth came they no [more] on the sabbath.
-<small><sub>**BSB:**</sub></small>
-but I warned them, “Why are you camping in front of the wall? If you do it again, I will lay hands on you.” From that time on, they did not return on the Sabbath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.20|<< Nehemiah 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.22|Nehemiah 13:22 >>]]</td></tr></table>
 
 | Translation | Greek |

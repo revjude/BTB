@@ -1,4 +1,4 @@
-**Genesis 31:51** 
+**Genesis 31:51**<big><big>[[Gen.31.43 Jacob’s Covenant with Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Laban said to Jacob, Behold this heap, and behold [this] pillar, which I have cast betwixt me and thee;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Laban also said to Jacob, “Here is the mound, and here is the pillar I have se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.50|<< Genesis 31:50]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.52|Genesis 31:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Laban  |**<big>&#8207;[[H3837A\|לָבָ֖ן]]&#8207; </big>**| la.Van<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Micah 1:3** 
 <small><sub>**LXX:**</sub></small>
 For behold, \[the\] <span class="smallcaps">lord</span> goes forth from out of  his place, and he will go down, and will mount upon the heights of the earth. 
-<small><sub>**KJV:**</sub></small>
-For, behold, the LORD cometh forth out of his place, and will come down, and tread upon the high places of the earth.
-<small><sub>**BSB:**</sub></small>
-For behold, the LORD comes forth from His dwelling place; He will come down and tread on the high places of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.2|<< Micah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.4|Micah 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

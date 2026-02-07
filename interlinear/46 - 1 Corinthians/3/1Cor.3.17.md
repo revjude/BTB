@@ -1,12 +1,12 @@
-**1 Corinthians 3:17
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:17**<big><big>[[1Cor.3.16 God’s Temple and God’s Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which [temple] ye are.
 <small><sub>**BSB:**</sub></small>
 If anyone destroys God’s temple, God will destroy him; for God’s temple is holy, and you are that temple.
 <small><sub>**Literal:**</sub></small>
 If anyone the temple <the> of God destroys, will destroy him <the> God; <the> for the temple <the> of God holy is, which are you yourselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.16|<< 1 Corinthians 3:16]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.18|1 Corinthians 3:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

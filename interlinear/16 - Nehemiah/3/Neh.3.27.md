@@ -1,4 +1,4 @@
-**Nehemiah 3:27** 
+**Nehemiah 3:27**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After them the Tekoites repaired another piece, over against the great tower that lieth out, even unto the wall of Ophel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And next to them, the Tekoites repaired another section, from a point opposite t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.26|<< Nehemiah 3:26]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.28|Nehemiah 3:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after him  |**<big>&#8207;[[H0310A\|אַחֲרָ֛י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they repaired  |**<big>&#8207;[[H2388G\|הֶחֱזִ֥יקוּ]]&#8207; </big>**| he.che.Zi.ku<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

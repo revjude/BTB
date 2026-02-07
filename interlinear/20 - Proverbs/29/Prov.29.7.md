@@ -1,4 +1,4 @@
-**Proverbs 29:7** 
+**Proverbs 29:7**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The righteous considereth the cause of the poor: [but] the wicked regardeth not to know [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The righteous consider the cause of the poor, but the wicked have no regard for 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.6|<< Proverbs 29:6]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.8|Proverbs 29:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] knowing  |**<big>&#8207;[[H3045\|יֹדֵ֣עַ]]&#8207; </big>**| yo.De.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a righteous [person]  |**<big>&#8207;[[H6662\|צַ֭דִּיק]]&#8207; </big>**| Tza.dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

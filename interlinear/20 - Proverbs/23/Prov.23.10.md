@@ -1,4 +1,4 @@
-**Proverbs 23:10** 
+**Proverbs 23:10**<big><big>[[Prov.23.10 Saying 11|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remove not the old landmark; and enter not into the fields of the fatherless:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not move an ancient boundary stone or encroach on the fields of the fatherles
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.9|<< Proverbs 23:9]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.11|Proverbs 23:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you displace  |**<big>&#8207;[[H5253\|תַּ֭סֵּג]]&#8207; </big>**| Ta.seg<small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

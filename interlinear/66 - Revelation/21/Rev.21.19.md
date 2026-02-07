@@ -1,5 +1,5 @@
-**Revelation 21:19
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:19**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the foundations of the wall of the city [were] garnished with all manner of precious stones. The first foundation [was] jasper; the second, sapphire; the third, a chalcedony; the fourth, an emerald;
 <small><sub>**BSB:**</sub></small>
 The foundations of the city walls were adorned with every kind of precious stone: The first foundation was jasper, the second sapphire, the third chalcedony, the fourth emerald,
@@ -10,7 +10,7 @@ and the foundations of the wall of the city with every stone precious adorned. t
 > $\quad$ alluding to: [[LXX.Isa.54.11|Isa 54:11-12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR">ko</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

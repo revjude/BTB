@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:30** 
 <small><sub>**LXX:**</sub></small>
 On account of this thus said \[the\] <span class="smallcaps">lord</span> against Jehoiakim king of Judah, There will not be to him one sitting down upon \[the\] throne of David; and  his decaying flesh will be for tossing in the sweltering heat of the day, and in the icy coldness of the night. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD of Jehoiakim king of Judah; He shall have none to sit upon the throne of David: and his dead body shall be cast out in the day to the heat, and in the night to the frost.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD says about Jehoiakim king of Judah: He will have no one to sit on David’s throne, and his body will be thrown out and exposed to heat by day and frost by night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.29|<< Jeremiah 36:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.31|Jeremiah 36:31 >>]]</td></tr></table>
 
 | Translation | Greek |

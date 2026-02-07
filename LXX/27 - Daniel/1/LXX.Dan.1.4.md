@@ -1,10 +1,7 @@
 **LXX Daniel 1:4** 
 <small><sub>**LXX:**</sub></small>
 young men to whom there is no blemish upon them, and good to the appearance, and perceiving in all wisdom, and knowing knowledge, and considering in intelligence, and ones in whom there is strength in them to stand in the house before the king,  to teach them letters and \[the\] language of the Chaldeans. 
-<small><sub>**KJV:**</sub></small>
-Children in whom [was] no blemish, but well favoured, and skilful in all wisdom, and cunning in knowledge, and understanding science, and such as [had] ability in them to stand in the king’s palace, and whom they might teach the learning and the tongue of the Chaldeans.
-<small><sub>**BSB:**</sub></small>
-young men without blemish, handsome, gifted in all wisdom, knowledgeable, quick to understand, and qualified to serve in the king’s palace—and to teach them the language and literature of the Chaldeans.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.3|<< Daniel 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.5|Daniel 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

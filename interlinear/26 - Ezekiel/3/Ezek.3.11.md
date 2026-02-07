@@ -1,4 +1,4 @@
-**Ezekiel 3:11** 
+**Ezekiel 3:11**<big><big>[[Ezek.3.1 Ezekiel Eats the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And go, get thee to them of the captivity, unto the children of thy people, and speak unto them, and tell them, Thus saith the Lord GOD; whether they will hear, or whether they will forbear.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go to your people, the exiles; speak to them and tell them, ‘This is what the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.10|<< Ezekiel 3:10]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.12|Ezekiel 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and go  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1980G\|לֵ֨ךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | go  |**<big>&#8207;[[H0935G\|בֹּ֤א]]&#8207; </big>**| bo'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

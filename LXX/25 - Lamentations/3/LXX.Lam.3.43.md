@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΣΑΜΕΧ</p>
 
 You enveloped in rage, and banished us. You killed and spared not. 
-<small><sub>**KJV:**</sub></small>
-Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied.
-<small><sub>**BSB:**</sub></small>
-You have covered Yourself in anger and pursued us; You have killed without pity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.42|<< Lamentations 3:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.44|Lamentations 3:44 >>]]</td></tr></table>
 
 | Translation | Greek |

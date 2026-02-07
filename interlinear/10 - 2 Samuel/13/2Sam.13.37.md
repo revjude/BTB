@@ -1,4 +1,4 @@
-**2 Samuel 13:37** 
+**2 Samuel 13:37**<big><big>[[2Sam.13.34 Absalom Flees to Geshur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Absalom fled, and went to Talmai, the son of Ammihud, king of Geshur. And [David] mourned for his son every day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Absalom fled and went to Talmai son of Ammihud, the king of Geshur. But Davi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.36|<< 2 Samuel 13:36]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.38|2 Samuel 13:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Absalom  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0053\|אַבְשָׁל֣וֹם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fled  |**<big>&#8207;[[H1272\|בָּרַ֔ח]]&#8207; </big>**| ba.Rach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

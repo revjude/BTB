@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  that time, that Abimelech spoke, along with Ahuzzath  his groomsman, and Phichol the commander-in-chief  of his force, to Abraham, saying,  God \[is\] with you in all \[things\] what ever you should do. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God [is] with thee in all that thou doest:
-<small><sub>**BSB:**</sub></small>
-At that time Abimelech and Phicol the commander of his army said to Abraham, “God is with you in all that you do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.21|<< Genesis 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.23|Genesis 21:23 >>]]</td></tr></table>
 
 | Translation | Greek |

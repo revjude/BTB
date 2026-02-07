@@ -1,4 +1,4 @@
-**2 Samuel 12:30** 
+**2 Samuel 12:30**<big><big>[[2Sam.12.26 The Capture of Rabbah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took their king’s crown from off his head, the weight whereof [was] a talent of gold with the precious stones: and it was [set] on David’s head. And he brought forth the spoil of the city in great abundance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he took the crown from the head of their king. It weighed a talent of gold 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.29|<< 2 Samuel 12:29]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.31|2 Samuel 12:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

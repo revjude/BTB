@@ -1,12 +1,12 @@
-**Luke 8:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:29**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)
 <small><sub>**BSB:**</sub></small>
 For Jesus had commanded the unclean spirit to come out of the man. Many times it had seized him, and though he was bound with chains and shackles, he had broken the chains and been driven by the demon into solitary places.
 <small><sub>**Literal:**</sub></small>
 He was commanding for to the spirit <the> unclean to come out from the man; Many for times it had seized him, and he was shackled with chains and in fetters being kept, and breaking the chains he was driven by the demon into the deserts.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.28|<< Luke 8:28]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.30|Luke 8:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was commanding |**<big>[[G3853\|παρήγγειλεν]]</big>**  [^1] |parēngeilen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

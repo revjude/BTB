@@ -1,4 +1,4 @@
-**Numbers 35:6** 
+**Numbers 35:6**<big><big>[[Num.35.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And among the cities which ye shall give unto the Levites [there shall be] six cities for refuge, which ye shall appoint for the manslayer, that he may flee thither: and to them ye shall add forty and two cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Six of the cities you give the Levites are to be appointed as cities of refuge, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.5|<< Numbers 35:5]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.7|Numbers 35:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֣ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cities  |**<big>&#8207;[[H9009\|הֶֽ]]&#8207;&#8207;[[H5892B\|עָרִ֗ים]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

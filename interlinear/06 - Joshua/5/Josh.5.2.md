@@ -1,4 +1,4 @@
-**Joshua 5:2** 
+**Joshua 5:2**<big><big>[[Josh.5.1 The Circumcision and Passover at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At that time the LORD said unto Joshua, Make thee sharp knives, and circumcise again the children of Israel the second time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time the LORD said to Joshua, “Make flint knives and circumcise the so
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.1|<< Joshua 5:1]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.3|Joshua 5:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | at the time  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H6256\|עֵ֣ת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|הִ֗יא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

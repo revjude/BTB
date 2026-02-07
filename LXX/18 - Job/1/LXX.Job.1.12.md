@@ -1,10 +1,7 @@
 **LXX Job 1:12** 
 <small><sub>**LXX:**</sub></small>
 Then the <span class="smallcaps">lord</span> said to the devil, Behold, all as much as is his I put into  your hand; but he himself you shall not touch. And the devil went forth from the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Satan, Behold, all that he hath [is] in thy power; only upon himself put not forth thine hand. So Satan went forth from the presence of the LORD.
-<small><sub>**BSB:**</sub></small>
-“Very well,” said the LORD to Satan. “Everything he has is in your hands, but you must not lay a hand on the man himself.” Then Satan went out from the presence of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.11|<< Job 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.13|Job 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

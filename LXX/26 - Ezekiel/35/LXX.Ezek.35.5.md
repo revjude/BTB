@@ -1,10 +1,7 @@
 **LXX Ezekiel 35:5** 
 <small><sub>**LXX:**</sub></small>
 Because  you became an eternal enemy, and sat in place against the house of Israel with treachery, by \[the\] hand of enemies with a sword, in time of iniquity, at \[the\] last. 
-<small><sub>**KJV:**</sub></small>
-Because thou hast had a perpetual hatred, and hast shed [the blood of] the children of Israel by the force of the sword in the time of their calamity, in the time [that their] iniquity [had] an end:
-<small><sub>**BSB:**</sub></small>
-Because you harbored an ancient hatred and delivered the Israelites over to the sword in the time of their disaster at the final stage of their punishment,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.35.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.4|<< Ezekiel 35:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.6|Ezekiel 35:6 >>]]</td></tr></table>
 
 | Translation | Greek |

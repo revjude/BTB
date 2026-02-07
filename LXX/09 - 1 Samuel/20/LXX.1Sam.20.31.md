@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:31** 
 <small><sub>**LXX:**</sub></small>
 For all the days which the son of Jesse lives upon the earth, you shall not be prepared, you nor  your kingdom. Now then, send and take the young man! for he is a son of death. 
-<small><sub>**KJV:**</sub></small>
-For as long as the son of Jesse liveth upon the ground, thou shalt not be established, nor thy kingdom. Wherefore now send and fetch him unto me, for he shall surely die.
-<small><sub>**BSB:**</sub></small>
-For as long as the son of Jesse lives on this earth, neither you nor your kingdom shall be established. Now send for him and bring him to me, for he must surely die!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.30|<< 1 Samuel 20:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.32|1 Samuel 20:32 >>]]</td></tr></table>
 
 | Translation | Greek |

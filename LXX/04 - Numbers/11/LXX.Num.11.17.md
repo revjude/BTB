@@ -1,10 +1,7 @@
 **LXX Numbers 11:17** 
 <small><sub>**LXX:**</sub></small>
 And I shall go down and speak there with you. And I will remove of the spirit  upon you, and I will place \[it\] upon them, and they shall aid with you the thrust of the people, and you shall not bring them alone. 
-<small><sub>**KJV:**</sub></small>
-And I will come down and talk with thee there: and I will take of the spirit which [is] upon thee, and will put [it] upon them; and they shall bear the burden of the people with thee, that thou bear [it] not thyself alone.
-<small><sub>**BSB:**</sub></small>
-And I will come down and speak with you there, and I will take some of the Spirit that is on you and put that Spirit on them. They will help you bear the burden of the people, so that you do not have to bear it by yourself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.16|<< Numbers 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.18|Numbers 11:18 >>]]</td></tr></table>
 
 | Translation | Greek |

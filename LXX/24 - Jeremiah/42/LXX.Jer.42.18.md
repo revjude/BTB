@@ -1,10 +1,7 @@
 **LXX Jeremiah 42:18** 
 <small><sub>**LXX:**</sub></small>
 For thus said \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel, As my rage dripped upon the ones inhabiting Jerusalem, so my rage drip upon you, on your entering into Egypt. And you shall be for an untrodden \[land\], and under one's hands, and for a curse, and for scorning; and in no way shall you behold any longer  this place, 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD of hosts, the God of Israel; As mine anger and my fury hath been poured forth upon the inhabitants of Jerusalem; so shall my fury be poured forth upon you, when ye shall enter into Egypt: and ye shall be an execration, and an astonishment, and a curse, and a reproach; and ye shall see this place no more.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD of Hosts, the God of Israel, says: ‘Just as My anger and wrath were poured out on the residents of Jerusalem, so will My wrath be poured out on you if you go to Egypt. You will become an object of cursing and horror, of vilification and disgrace, and you will never see this place again.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.17|<< Jeremiah 42:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.19|Jeremiah 42:19 >>]]</td></tr></table>
 
 | Translation | Greek |

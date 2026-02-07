@@ -1,10 +1,7 @@
 **LXX Jeremiah 20:9** 
 <small><sub>**LXX:**</sub></small>
 And I said, in no way shall I name the name of \[the\] <span class="smallcaps">lord</span>, and in no way shall I speak yet in  his name. And it became as a burning fire, blazing in  my bones; and I am weakened from all sides, and I am not able to bear \[up\]. 
-<small><sub>**KJV:**</sub></small>
-Then I said, I will not make mention of him, nor speak any more in his name. But [his word] was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not [stay].
-<small><sub>**BSB:**</sub></small>
-If I say, “I will not mention Him or speak any more in His name,” His message becomes a fire burning in my heart, shut up in my bones, and I become weary of holding it in, and I cannot prevail.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.20.8|<< Jeremiah 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.20.10|Jeremiah 20:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 26:47
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:47**<big><big>[[Matt.26.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people.
 <small><sub>**BSB:**</sub></small>
 While Jesus was still speaking, Judas, one of the Twelve, arrived, accompanied by a large crowd armed with swords and clubs, sent from the chief priests and elders of the people.
 <small><sub>**Literal:**</sub></small>
 And yet when he is speaking behold Judas one of the Twelve came, and with him a crowd great with swords and clubs from the chief priests and elders of the people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.46|<< Matthew 26:46]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.48|Matthew 26:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | yet |**<big>[[G2089\|ἔτι]]</big>**  |eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

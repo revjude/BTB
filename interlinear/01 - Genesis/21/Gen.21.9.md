@@ -1,4 +1,4 @@
-**Genesis 21:9** 
+**Genesis 21:9**<big><big>[[Gen.21.9 Sarah Turns against Hagar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was mock
 > $\quad$ referenced by: [[Gal.4.22|Gal 4:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|תֵּ֨רֶא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.re'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sarah  |**<big>&#8207;[[H8283\|שָׂרָ֜ה]]&#8207; </big>**| sa.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 15:2** 
 <small><sub>**LXX:**</sub></small>
 Fret for them! even Dibon shall be destroyed, where  your shrine \[is\]. There you shall ascend to weep. Upon Nebo of the \[land of\] Moab shriek! Upon every head \[is\] baldness, all arms being mutilated. 
-<small><sub>**KJV:**</sub></small>
-He is gone up to Bajith, and to Dibon, the high places, to weep: Moab shall howl over Nebo, and over Medeba: on all their heads [shall be] baldness, [and] every beard cut off.
-<small><sub>**BSB:**</sub></small>
-Dibon goes up to its temple to weep at its high places. Moab wails over Nebo, as well as over Medeba. Every head is shaved, every beard is cut off.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.15.1|<< Isaiah 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.15.3|Isaiah 15:3 >>]]</td></tr></table>
 
 | Translation | Greek |

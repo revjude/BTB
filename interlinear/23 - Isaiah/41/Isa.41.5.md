@@ -1,4 +1,4 @@
-**Isaiah 41:5** 
+**Isaiah 41:5**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The isles saw [it], and feared; the ends of the earth were afraid, drew near, and came.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The islands see and fear; the ends of the earth tremble. They approach and come 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.4|<< Isaiah 41:4]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.6|Isaiah 41:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have seen  |**<big>&#8207;[[H7200G\|רָא֤וּ]]&#8207; </big>**| ra.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | islands  |**<big>&#8207;[[H0339\|אִיִּים֙]]&#8207; </big>**| 'i.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

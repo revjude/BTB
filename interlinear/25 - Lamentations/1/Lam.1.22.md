@@ -1,4 +1,4 @@
-**Lamentations 1:22** 
+**Lamentations 1:22**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let all their wickedness come before thee; and do unto them, as thou hast done unto me for all my transgressions: for my sighs [are] many, and my heart [is] faint.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let all their wickedness come before You, and deal with them as You have dealt w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.21|<< Lamentations 1:21]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.1|Lamentations 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it come  |**<big>&#8207;[[H0935G\|תָּבֹ֨א]]&#8207; </big>**| ta.Vo'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

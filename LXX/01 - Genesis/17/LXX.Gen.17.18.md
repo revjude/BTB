@@ -1,10 +1,7 @@
 **LXX Genesis 17:18** 
 <small><sub>**LXX:**</sub></small>
 And Abraham said to  God, Ishmael, this one, let him live before you! 
-<small><sub>**KJV:**</sub></small>
-And Abraham said unto God, O that Ishmael might live before thee!
-<small><sub>**BSB:**</sub></small>
-And Abraham said to God, “O that Ishmael might live under Your blessing!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.17|<< Genesis 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.19|Genesis 17:19 >>]]</td></tr></table>
 
 | Translation | Greek |

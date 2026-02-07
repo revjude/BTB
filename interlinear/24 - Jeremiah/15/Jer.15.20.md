@@ -1,4 +1,4 @@
-**Jeremiah 15:20** 
+**Jeremiah 15:20**<big><big>[[Jer.15.19 The LORD’s Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make thee unto this people a fenced brasen wall: and they shall fight against thee, but they shall not prevail against thee: for I [am] with thee to save thee and to deliver thee, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I will make you a wall to this people, a fortified wall of bronze; they wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.19|<< Jeremiah 15:19]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.21|Jeremiah 15:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make you  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5414I\|נְתַתִּ֜י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.ta.Ti.<small><sup>[[HVqq1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for the people  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5971A\|עָ֣ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

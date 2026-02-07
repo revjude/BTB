@@ -1,4 +1,4 @@
-**Exodus 39:39** 
+**Exodus 39:39**<big><big>[[Exod.39.32 Moses Approves the Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The brasen altar, and his grate of brass, his staves, and all his vessels, the laver and his foot,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the bronze altar with its bronze grating, its poles, and all its utensils; the b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.38|<< Exodus 39:38]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.40|Exodus 39:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֣ת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] altar of  |**<big>&#8207;[[H4196\|מִזְבַּ֣ח]]&#8207; </big>**| miz.Bach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

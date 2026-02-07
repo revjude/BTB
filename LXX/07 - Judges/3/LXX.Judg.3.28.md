@@ -1,10 +1,7 @@
 **LXX Judges 3:28** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, Come down after me, for \[the\] <span class="smallcaps">lord</span> God delivered up  our enemies  of Moab into our hand. And they went down after him, and first took the ford of the Jordan  of Moab, and they did not allow a man to pass over. 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, Follow after me: for the LORD hath delivered your enemies the Moabites into your hand. And they went down after him, and took the fords of Jordan toward Moab, and suffered not a man to pass over.
-<small><sub>**BSB:**</sub></small>
-“Follow me,” he told them, “for the LORD has delivered your enemies the Moabites into your hand.” So they followed him down and seized the fords of the Jordan leading to Moab, and they did not allow anyone to cross over.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.27|<< Judges 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.29|Judges 3:29 >>]]</td></tr></table>
 
 | Translation | Greek |

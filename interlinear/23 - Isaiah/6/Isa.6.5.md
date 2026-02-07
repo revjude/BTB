@@ -1,4 +1,4 @@
-**Isaiah 6:5** 
+**Isaiah 6:5**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I, Woe [is] me! for I am undone; because I [am] a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I said: “Woe is me, for I am ruined, because I am a man of unclean lips d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.4|<< Isaiah 6:4]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.6|Isaiah 6:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמַ֞ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | woe!  |**<big>&#8207;[[H0188\|אֽוֹי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'o-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Leviticus 27:34** 
+**Leviticus 27:34**<big><big>[[Lev.27.30 Instruction on Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the commandments, which the LORD commanded Moses for the children of Israel in mount Sinai.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the commandments that the LORD gave to Moses for the Israelites on Mou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.33|<< Leviticus 27:33]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.1|Numbers 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] the commandments  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4687\|מִּצְוֹ֗ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mitz.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

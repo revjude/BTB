@@ -1,10 +1,7 @@
 **LXX Nahum 1:15** 
 <small><sub>**LXX:**</sub></small>
 Behold upon the mountains the feet announcing good news, and reporting peace. Solemnize, O Judah,  your holidays! Render  your vows! For in no way should they proceed any longer  to go through you, for they should have grown old. 
-<small><sub>**KJV:**</sub></small>
-Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off.
-<small><sub>**BSB:**</sub></small>
-Look to the mountains—the feet of one who brings good news, who proclaims peace! Celebrate your feasts, O Judah; fulfill your vows. For the wicked will never again march through you; they will be utterly cut off.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.14|<< Nahum 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.1|Nahum 2:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Nahum 1:15** is...

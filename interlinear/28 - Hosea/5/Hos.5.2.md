@@ -1,4 +1,4 @@
-**Hosea 5:2** 
+**Hosea 5:2**<big><big>[[Hos.5.1 Judgment on Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the revolters are profound to make slaughter, though I [have been] a rebuker of them all.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The rebels are deep in slaughter; but I will chastise them all.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.1|<< Hosea 5:1]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.3|Hosea 5:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and slaughtering  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7819B\|שַׁחֲטָ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sha.cha.Tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rebels  |**<big>&#8207;[[H7846\|שֵׂטִ֖ים]]&#8207; </big>**| se.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

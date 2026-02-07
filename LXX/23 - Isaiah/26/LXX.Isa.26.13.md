@@ -1,10 +1,7 @@
 **LXX Isaiah 26:13** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>  our God, acquire us! O <span class="smallcaps">lord</span>, outside of you \[there is\] no other we know.  We named your name. 
-<small><sub>**KJV:**</sub></small>
-O LORD our God, [other] lords beside thee have had dominion over us: [but] by thee only will we make mention of thy name.
-<small><sub>**BSB:**</sub></small>
-O LORD our God, other lords besides You have ruled over us, but Your name alone do we confess.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.26.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.12|<< Isaiah 26:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.14|Isaiah 26:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 26:13** is...

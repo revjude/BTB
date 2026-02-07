@@ -1,10 +1,7 @@
 **LXX Ezra 3:12** 
 <small><sub>**LXX:**</sub></small>
 And many from the priests, and the Levites, and rulers of the families -- the elders, the ones \[who\] beheld the first house on its groundwork, and this  house with their eyes, wept a great sound, and many with a shout with gladness  to raise up high a sound. 
-<small><sub>**KJV:**</sub></small>
-But many of the priests and Levites and chief of the fathers, [who were] ancient men, that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy:
-<small><sub>**BSB:**</sub></small>
-But many of the older priests, Levites, and family heads who had seen the first temple wept loudly when they saw the foundation of this temple. Still, many others shouted joyfully.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.11|<< Ezra 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.13|Ezra 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

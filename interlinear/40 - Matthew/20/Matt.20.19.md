@@ -1,12 +1,12 @@
-**Matthew 20:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:19**<big><big>[[Matt.20.17 The Third Prediction of the Passion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And shall deliver him to the Gentiles to mock, and to scourge, and to crucify [him]: and the third day he shall rise again.
 <small><sub>**BSB:**</sub></small>
 and will deliver Him over to the Gentiles to be mocked and flogged and crucified. And on the third day He will be raised to life.”
 <small><sub>**Literal:**</sub></small>
 and they will betray Him to the Gentiles unto <the> to mock and to flog and to crucify; and on the third day He will rise again.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.18|<< Matthew 20:18]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.20|Matthew 20:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they will betray |**<big>[[G3860\|παραδώσουσιν]]</big>**  |paradōsousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

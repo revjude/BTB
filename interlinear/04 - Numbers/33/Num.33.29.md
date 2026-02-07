@@ -1,4 +1,4 @@
-**Numbers 33:29** 
+**Numbers 33:29**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went from Mithcah, and pitched in Hashmonah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They set out from Mithkah and camped at Hashmonah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.28|<< Numbers 33:28]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.30|Numbers 33:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they set out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|יִּסְע֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Mithcah  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4989\|מִּתְקָ֑ה]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mit.Kah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 40:10** 
+**Job 40:10**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deck thyself now [with] majesty and excellency; and array thyself with glory and beauty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then adorn yourself with majesty and splendor, and clothe yourself with honor an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.9|<< Job 40:9]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.11|Job 40:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | deck yourself  |**<big>&#8207;[[H5710B\|עֲדֵ֥ה]]&#8207; </big>**| 'a.Deh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֣א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 11:12** 
 <small><sub>**LXX:**</sub></small>
 And he brought forth the son of the king, and he put upon him the diadem, and the testimony. And he anointed him, and gave him reign. And they clapped  their hands, and said, the king live! 
-<small><sub>**KJV:**</sub></small>
-And he brought forth the king’s son, and put the crown upon him, and [gave him] the testimony; and they made him king, and anointed him; and they clapped their hands, and said, God save the king.
-<small><sub>**BSB:**</sub></small>
-Then Jehoiada brought out the king’s son, put the crown on him, presented him with the Testimony, and proclaimed him king. They anointed him, and the people clapped their hands and declared, “Long live the king!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.11|<< 2 Kings 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.13|2 Kings 11:13 >>]]</td></tr></table>
 
 | Translation | Greek |

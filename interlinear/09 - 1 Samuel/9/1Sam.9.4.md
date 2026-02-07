@@ -1,4 +1,4 @@
-**1 Samuel 9:4** 
+**1 Samuel 9:4**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he passed through mount Ephraim, and passed through the land of Shalisha, but they found [them] not: then they passed through the land of Shalim, and [there they were] not: and he passed through the land of the Benjamites, but they found [them] not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Saul passed through the hill country of Ephraim and then through the land of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.3|<< 1 Samuel 9:3]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.5|1 Samuel 9:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he passed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|יַּעֲבֹ֧ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] hill country of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2022H\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

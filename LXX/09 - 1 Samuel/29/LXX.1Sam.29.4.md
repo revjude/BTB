@@ -1,10 +1,7 @@
 **LXX 1 Samuel 29:4** 
 <small><sub>**LXX:**</sub></small>
 And the satraps of the Philistines were enraged over him, and they say to him, Return the man! and let him return unto  his people of which you placed him there, and do not let him come with us to the battle, and let him not become a plotter in the camp! And how shall he be reconciled \[to\] his master? Will it not be with the heads  of those men? 
-<small><sub>**KJV:**</sub></small>
-And the princes of the Philistines were wroth with him; and the princes of the Philistines said unto him, Make this fellow return, that he may go again to his place which thou hast appointed him, and let him not go down with us to battle, lest in the battle he be an adversary to us: for wherewith should he reconcile himself unto his master? [should it] not [be] with the heads of these men?
-<small><sub>**BSB:**</sub></small>
-But the commanders of the Philistines were angry with Achish and told him, “Send that man back and let him return to the place you assigned him. He must not go down with us into battle only to become our adversary during the war. What better way for him to regain the favor of his master than with the heads of our men?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.29.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.3|<< 1 Samuel 29:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.5|1 Samuel 29:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**1 Peter 2:3
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:3**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If so be ye have tasted that the Lord [is] gracious.
 <small><sub>**BSB:**</sub></small>
 now that you have tasted that the Lord is good.
@@ -10,7 +10,7 @@ if you have tasted that [is] good the Lord.<br><table width="100%" border="0"><t
 > $\quad$ referencing: [[LXX.Ps.34.8|Ps 34:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if [^1] |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | you have tasted |**<big>[[G1089\|ἐγεύσασθε]]</big>**  |egeusasthe <small><sup>[[V-ADI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

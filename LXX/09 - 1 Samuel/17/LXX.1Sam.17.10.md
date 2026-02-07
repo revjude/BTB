@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:10** 
 <small><sub>**LXX:**</sub></small>
 And the Philistine said, Behold, I berate the battle array of Israel today in  this day. Give to me a man, and both one on one! 
-<small><sub>**KJV:**</sub></small>
-And the Philistine said, I defy the armies of Israel this day; give me a man, that we may fight together.
-<small><sub>**BSB:**</sub></small>
-Then the Philistine said, “I defy the ranks of Israel this day! Give me a man to fight!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.9|<< 1 Samuel 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.11|1 Samuel 17:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:22** 
 <small><sub>**LXX:**</sub></small>
 For did not take place according to  this passover from the days of the judges \[that\] judged  Israel, and in all the days of \[the\] kings of Israel, and of \[the\] kings of Judah, 
-<small><sub>**KJV:**</sub></small>
-Surely there was not holden such a passover from the days of the judges that judged Israel, nor in all the days of the kings of Israel, nor of the kings of Judah;
-<small><sub>**BSB:**</sub></small>
-No such Passover had been observed from the days of the judges who had governed Israel through all the days of the kings of Israel and Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.21|<< 2 Kings 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.23|2 Kings 23:23 >>]]</td></tr></table>
 
 | Translation | Greek |

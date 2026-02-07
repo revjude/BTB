@@ -1,5 +1,5 @@
-**Hebrews 1:9
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 1:9**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thou hast loved righteousness, and hated iniquity; therefore God, [even] thy God, hath anointed thee with the oil of gladness above thy fellows.
 <small><sub>**BSB:**</sub></small>
 You have loved righteousness and hated wickedness; therefore God, Your God, has anointed You above Your companions with the oil of joy.”
@@ -10,7 +10,7 @@ You have loved righteousness and hated wickedness. because of this has anointed 
 > $\quad$ referencing: [[LXX.Ps.45.6|Ps 45:6-7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You have loved |**<big>[[G0025\|ἠγάπησας]]</big>**  |ēgapēsas <small><sup>[[V-AAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | righteousness |**<big>[[G1343\|δικαιοσύνην]]</big>**  |dikaiosunēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

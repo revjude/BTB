@@ -1,10 +1,7 @@
 **LXX Numbers 19:20** 
 <small><sub>**LXX:**</sub></small>
 And a man who ever should be defiled, and shall not be purified, that soul shall be utterly destroyed from \[the\] midst of the congregation, for the holy \[things\] of \[the\] <span class="smallcaps">lord</span> he defiled, for \[the\] water of sprinkling was not sprinkled about upon him; he is unclean. 
-<small><sub>**KJV:**</sub></small>
-But the man that shall be unclean, and shall not purify himself, that soul shall be cut off from among the congregation, because he hath defiled the sanctuary of the LORD: the water of separation hath not been sprinkled upon him; he [is] unclean.
-<small><sub>**BSB:**</sub></small>
-But if a person who is unclean does not purify himself, he will be cut off from the assembly, because he has defiled the sanctuary of the LORD. The water of purification has not been sprinkled on him; he is unclean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.19|<< Numbers 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.21|Numbers 19:21 >>]]</td></tr></table>
 
 | Translation | Greek |

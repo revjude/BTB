@@ -1,12 +1,12 @@
-**Acts 27:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:31**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Paul said to the centurion and to the soldiers, Except these abide in the ship, ye cannot be saved.
 <small><sub>**BSB:**</sub></small>
 But Paul said to the centurion and the soldiers, “Unless these men remain with the ship, you cannot be saved.”
 <small><sub>**Literal:**</sub></small>
 said <the> Paul to the centurion and to the soldiers; Only unless these shall remain in the ship, [then] you yourselves to be saved not you are able.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.30|<< Acts 27:30]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.32|Acts 27:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

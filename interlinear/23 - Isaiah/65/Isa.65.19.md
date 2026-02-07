@@ -1,4 +1,4 @@
-**Isaiah 65:19** 
+**Isaiah 65:19**<big><big>[[Isa.65.17 A New Heaven and a New Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will rejoice in Jerusalem, and joy in my people: and the voice of weeping shall be no more heard in her, nor the voice of crying.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will rejoice in Jerusalem and take delight in My people. The sounds of weeping
 > $\quad$ referenced by: [[Rev.21.4|Rev 21:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will be glad  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1523\|גַלְתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> gal.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in Jerusalem  |**<big>&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִַ֖ם]]&#8207; </big>**| vi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

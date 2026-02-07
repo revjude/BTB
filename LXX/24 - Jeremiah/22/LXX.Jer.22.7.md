@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:7** 
 <small><sub>**LXX:**</sub></small>
 And I will bring upon you an annihilating man, and  his hewing axe. And they shall cut down  your chosen cedars, and shall put \[them\] into the fire. 
-<small><sub>**KJV:**</sub></small>
-And I will prepare destroyers against thee, every one with his weapons: and they shall cut down thy choice cedars, and cast [them] into the fire.
-<small><sub>**BSB:**</sub></small>
-I will appoint destroyers against you, each man with his weapons, and they will cut down the choicest of your cedars and throw them into the fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.6|<< Jeremiah 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.8|Jeremiah 22:8 >>]]</td></tr></table>
 
 | Translation | Greek |

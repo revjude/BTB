@@ -1,46 +1,46 @@
 (KJV) **Song of Solomon 1**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12|<< Ecclesiastes 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2|Song of Solomon 2 >>]]</td></tr></table>
 
-***The Bride Confesses Her Love***&emsp;<small><sup>\[ [[Eph.5|Ephesians 5:22–33]] <big>†</big> [[1Pet.3|1 Peter 3:1–7]] ]</sup></small> ^bsb1536
+<big><big>[[Song.1.1 The Bride Confesses Her Love|⥃]]</big></big>***The Bride Confesses Her Love***&emsp;<small><sup>\[ [[Eph.5|Ephesians 5:22–33]] <big>†</big> [[1Pet.3|1 Peter 3:1–7]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Song.1.1|1]]**<span class="endversemarker">]</span> The song<small><small>[^2]</small></small> of songs, which \[is\] Solomon’s<small><small>[^3]</small></small>.
 
-*The Bride* ^bsb1537
+<big><big>[[Song.1.2 The Bride|⥃]]</big></big>*The Bride*
 
  <span class="startversemarker">[</span>**[[Song.1.2|2]]**<span class="endversemarker">]</span> Let him<small><small>[^4]</small></small> kiss me with the kisses of his mouth: for thy love<small><small>[^5]</small></small> \[is\] better than wine. <span class="startversemarker">[</span>**[[Song.1.3|3]]**<span class="endversemarker">]</span> Because of the savour<small><small>[^6]</small></small> of thy good ointments thy name<small><small>[^7]</small></small> \[is as\] ointment poured forth, therefore do the virgins<small><small>[^8]</small></small> love thee. <span class="startversemarker">[</span>**[[Song.1.4|4]]**<span class="endversemarker">]</span> Draw<small><small>[^9]</small></small> me, we will<small><small>[^10]</small></small> run after thee: the king<small><small>[^11]</small></small> hath brought me into his chambers: we will be<small><small>[^12]</small></small> glad and rejoice in thee, we will remember<small><small>[^13]</small></small> thy love more than wine: the upright love thee<small><small>[^14]</small></small>.
 
-*The Bride* ^bsb1538
+<big><big>[[Song.1.5 The Bride|⥃]]</big></big>*The Bride*
 
  <span class="startversemarker">[</span>**[[Song.1.5|5]]**<span class="endversemarker">]</span> I \[am\] black<small><small>[^15]</small></small>, but comely<small><small>[^16]</small></small>, O ye<small><small>[^17]</small></small> daughters of Jerusalem, as the tents<small><small>[^18]</small></small> of Kedar, as the curtains of Solomon. <span class="startversemarker">[</span>**[[Song.1.6|6]]**<span class="endversemarker">]</span> Look<small><small>[^19]</small></small> not upon me, because<small><small>[^20]</small></small> I \[am\] black, because the sun hath looked upon me: my mother’s<small><small>[^21]</small></small> children were angry with me; they made me the keeper<small><small>[^22]</small></small> of the vineyards; \[but\] mine own vineyard have I not kept. <span class="startversemarker">[</span>**[[Song.1.7|7]]**<span class="endversemarker">]</span> Tell me, O thou<small><small>[^23]</small></small> whom my soul loveth, where thou feedest<small><small>[^24]</small></small>, where thou makest \[thy flock\] to rest at noon: for<small><small>[^25]</small></small> why should I be as one that turneth aside<small><small>[^26]</small></small> by the flocks of thy companions?
 
-*The Friends* ^bsb1539
+<big><big>[[Song.1.8 The Friends|⥃]]</big></big>*The Friends*
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Song.1.8|8]]**<span class="endversemarker">]</span> [¶]If thou know not, O thou<small><small>[^27]</small></small> fairest among women, go<small><small>[^28]</small></small> thy way forth by the footsteps of the flock, and feed<small><small>[^29]</small></small> thy kids beside the shepherds’ tents.
 
-*The Bridegroom* ^bsb1540
+<big><big>[[Song.1.9 The Bridegroom|⥃]]</big></big>*The Bridegroom*
 
  <span class="startversemarker">[</span>**[[Song.1.9|9]]**<span class="endversemarker">]</span> I have compared thee, O my<small><small>[^30]</small></small> love, to a<small><small>[^31]</small></small> company of horses in Pharaoh’s chariots. <span class="startversemarker">[</span>**[[Song.1.10|10]]**<span class="endversemarker">]</span> Thy cheeks<small><small>[^32]</small></small> are comely with rows \[of jewels\], thy neck<small><small>[^33]</small></small> with chains \[of gold\].
 
-*The Friends* ^bsb1541
+<big><big>[[Song.1.11 The Friends|⥃]]</big></big>*The Friends*
 
  <span class="startversemarker">[</span>**[[Song.1.11|11]]**<span class="endversemarker">]</span> We will make thee borders of gold with studs of silver.<small><small>[^34]</small></small>
 
-*The Bride* ^bsb1542
+<big><big>[[Song.1.12 The Bride|⥃]]</big></big>*The Bride*
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Song.1.12|12]]**<span class="endversemarker">]</span> While the king<small><small>[^35]</small></small> \[sitteth<small><small>[^36]</small></small>\] at his table, my<small><small>[^37]</small></small> spikenard sendeth forth the smell thereof. <span class="startversemarker">[</span>**[[Song.1.13|13]]**<span class="endversemarker">]</span> A bundle<small><small>[^38]</small></small> of myrrh \[is\] my wellbeloved unto me; he shall<small><small>[^39]</small></small> lie all night betwixt my breasts. <span class="startversemarker">[</span>**[[Song.1.14|14]]**<span class="endversemarker">]</span> My beloved<small><small>[^40]</small></small> \[is\] unto me \[as\] a cluster of camphire<small><small>[^41]</small></small> in the vineyards of En–gedi<small><small>[^42]</small></small>.
 
-*The Bridegroom* ^bsb1543
+<big><big>[[Song.1.15 The Bridegroom|⥃]]</big></big>*The Bridegroom*
 
  <span class="startversemarker">[</span>**[[Song.1.15|15]]**<span class="endversemarker">]</span> Behold, thou \[art\] fair<small><small>[^43]</small></small>, my love<small><small>[^44]</small></small>; behold, thou \[art\] fair; thou \[hast<small><small>[^45]</small></small>\] doves’ eyes.
 
-*The Bride* ^bsb1544
+<big><big>[[Song.1.16 The Bride|⥃]]</big></big>*The Bride*
 
  <span class="startversemarker">[</span>**[[Song.1.16|16]]**<span class="endversemarker">]</span> Behold, thou \[art<small><small>[^46]</small></small>\] fair, my beloved, yea, pleasant: also<small><small>[^47]</small></small> our bed \[is\] green.
 
-*The Bridegroom* ^bsb1545
+<big><big>[[Song.1.17 The Bridegroom|⥃]]</big></big>*The Bridegroom*
 
  <span class="startversemarker">[</span>**[[Song.1.17|17]]**<span class="endversemarker">]</span> The beams<small><small>[^48]</small></small> of our house \[are\] cedar, \[and\] our rafters<small><small>[^49]</small></small> of fir. <table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12|<< Ecclesiastes 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2|Song of Solomon 2 >>]]</td></tr></table>
 

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 18:4** 
 <small><sub>**LXX:**</sub></small>
 And David first took from him a thousand chariots, and seven thousand horses, and twenty thousand men footmen. And David disabled all the chariots, and left of them a hundred chariots. 
-<small><sub>**KJV:**</sub></small>
-And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen: David also houghed all the chariot [horses], but reserved of them an hundred chariots.
-<small><sub>**BSB:**</sub></small>
-David captured from him a thousand chariots, seven thousand charioteers, and twenty thousand foot soldiers, and he hamstrung all the horses except a hundred he kept for the chariots.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.3|<< 1 Chronicles 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.5|1 Chronicles 18:5 >>]]</td></tr></table>
 
 | Translation | Greek |

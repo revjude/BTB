@@ -1,10 +1,7 @@
 **LXX Genesis 32:13** 
 <small><sub>**LXX:**</sub></small>
 And he went to sleep there  that night. And he took gifts of which he brought, and he sent to Esau  his brother; 
-<small><sub>**KJV:**</sub></small>
-And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;
-<small><sub>**BSB:**</sub></small>
-Jacob spent the night there, and from what he had brought with him, he selected a gift for his brother Esau:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.12|<< Genesis 32:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.14|Genesis 32:14 >>]]</td></tr></table>
 
 | Translation | Greek |

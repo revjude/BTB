@@ -1,4 +1,4 @@
-**1 Samuel 6:19** 
+**1 Samuel 6:19**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he smote the men of Bethshemesh, because they had looked into the ark of the LORD, even he smote of the people fifty thousand and threescore and ten men: and the people lamented, because the LORD had smitten [many] of the people with a great slaughter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But God struck down some of the people of Beth-shemesh because they looked insid
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.18|<< 1 Samuel 6:18]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.20|1 Samuel 6:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he struck down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּ֞ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yakh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among [the] people of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0582\|אַנְשֵׁ֣י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

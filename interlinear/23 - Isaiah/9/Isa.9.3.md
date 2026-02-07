@@ -1,4 +1,4 @@
-**Isaiah 9:3** (9:2)
+**Isaiah 9:3**<big><big>[[Isa.9.1 Unto Us a Child Is Born|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast multiplied the nation, [and] not increased the joy: they joy before thee according to the joy in harvest, [and] as [men] rejoice when they divide the spoil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have enlarged the nation and increased its joy. The people rejoice before Yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.2|<< Isaiah 9:2]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.4|Isaiah 9:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you will multiply  |**<big>&#8207;[[H7235A\|הִרְבִּ֣יתָ]]&#8207; </big>**| hir.Bi.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the nation  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1471A\|גּ֔וֹי]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

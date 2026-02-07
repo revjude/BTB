@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:17** 
 <small><sub>**LXX:**</sub></small>
 And the men of the city came forth, and waged war against Joab. And there fell \[some\] of the people of the servants of David; and even Uriah the Hittite died also. 
-<small><sub>**KJV:**</sub></small>
-And the men of the city went out, and fought with Joab: and there fell [some] of the people of the servants of David; and Uriah the Hittite died also.
-<small><sub>**BSB:**</sub></small>
-And when the men of the city came out and fought against Joab, some of David’s servants fell, and Uriah the Hittite also died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.16|<< 2 Samuel 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.18|2 Samuel 11:18 >>]]</td></tr></table>
 
 | Translation | Greek |

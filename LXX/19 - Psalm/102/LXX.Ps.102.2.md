@@ -1,10 +1,7 @@
 **LXX Psalm 102:2** 
 <small><sub>**LXX:**</sub></small>
 You should not turn  your face from me in which ever day I should be afflicted. Lean to me  your ear! in which ever day I should call upon you. Quickly heed me! 
-<small><sub>**KJV:**</sub></small>
-Hide not thy face from me in the day [when] I am in trouble; incline thine ear unto me: in the day [when] I call answer me speedily.
-<small><sub>**BSB:**</sub></small>
-Do not hide Your face from me in my day of distress. Incline Your ear to me; answer me quickly when I call.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.1|<< Psalm 102:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.3|Psalm 102:3 >>]]</td></tr></table>
 
 | Translation | Greek |

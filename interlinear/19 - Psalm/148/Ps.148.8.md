@@ -1,4 +1,4 @@
-**Psalms 148:8** 
+**Psalms 148:8**<big><big>[[Ps.148.1 Praise the LORD from the Heavens|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fire, and hail; snow, and vapour; stormy wind fulfilling his word:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ lightning and hail, snow and clouds, powerful wind fulfilling His word,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.148.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148.7|<< Psalms 148:7]]</td><td align="center" style="border:none;">[[Ps.148|Psalms 148]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.9|Psalms 148:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O fire  |**<big>&#8207;[[H0784\|אֵ֣שׁ]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and hail  |**<big>&#8207;[[H9002\|וּ֭]]&#8207;&#8207;[[H1259\|בָרָד]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> va.rod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

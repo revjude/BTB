@@ -1,10 +1,7 @@
 **LXX Numbers 18:31** 
 <small><sub>**LXX:**</sub></small>
 And you shall eat it in any place, you and  your households; for this is \[the\] wage to you for  your ministrations of the \[things\] in the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And ye shall eat it in every place, ye and your households: for it [is] your reward for your service in the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-And you and your households may eat the rest of it anywhere; it is the compensation for your work at the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.30|<< Numbers 18:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.32|Numbers 18:32 >>]]</td></tr></table>
 
 | Translation | Greek |

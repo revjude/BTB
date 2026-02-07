@@ -1,10 +1,7 @@
 **LXX Exodus 4:8** 
 <small><sub>**LXX:**</sub></small>
 And if they do not believe you, nor hearken to the voice of the first sign, they will believe you by the voice of the second sign. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign.
-<small><sub>**BSB:**</sub></small>
-And the LORD said, “If they refuse to believe you or heed the witness of the first sign, they may believe that of the second.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.7|<< Exodus 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.9|Exodus 4:9 >>]]</td></tr></table>
 
 | Translation | Greek |

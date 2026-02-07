@@ -1,4 +1,4 @@
-**1 Kings 13:28** 
+**1 Kings 13:28**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went and found his carcase cast in the way, and the ass and the lion standing by the carcase: the lion had not eaten the carcase, nor torn the ass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he went and found the body lying in the road, with the donkey and the lion s
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.27|<< 1 Kings 13:27]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.29|1 Kings 13:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֗לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he found  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4672\|יִּמְצָ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.Tza'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:20** 
 <small><sub>**LXX:**</sub></small>
 that his heart should not be raised up high above  his brethren; that he should not transgress from the commandments, right or left; so that he should be a long time in  his office -- he and  his sons among the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-That his heart be not lifted up above his brethren, and that he turn not aside from the commandment, [to] the right hand, or [to] the left: to the end that he may prolong [his] days in his kingdom, he, and his children, in the midst of Israel.
-<small><sub>**BSB:**</sub></small>
-Then his heart will not be exalted above his countrymen, and he will not turn aside from the commandment, to the right or to the left, in order that he and his sons may reign many years over his kingdom in Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.19|<< Deuteronomy 17:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.1|Deuteronomy 18:1 >>]]</td></tr></table>
 
 | Translation | Greek |

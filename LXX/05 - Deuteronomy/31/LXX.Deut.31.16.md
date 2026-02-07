@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:16** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Behold, you go to sleep with  your fathers. And rising up, this  people shall fornicate after alien gods of the land into which this \[people\] enter there into it. And they shall forsake me, and shall efface  my covenant which I ordained with them. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Behold, thou shalt sleep with thy fathers; and this people will rise up, and go a whoring after the gods of the strangers of the land, whither they go [to be] among them, and will forsake me, and break my covenant which I have made with them.
-<small><sub>**BSB:**</sub></small>
-And the LORD said to Moses, “You will soon rest with your fathers, and these people will rise up and prostitute themselves with the foreign gods of the land they are entering. They will forsake Me and break the covenant I have made with them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.15|<< Deuteronomy 31:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.17|Deuteronomy 31:17 >>]]</td></tr></table>
 
 | Translation | Greek |

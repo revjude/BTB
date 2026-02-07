@@ -1,4 +1,4 @@
-**Daniel 6:10** (6:11)
+**Daniel 6:10**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now when Daniel learned that the document had been signed, he went into his hous
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.9|<< Daniel 6:9]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.11|Daniel 6:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Daniel  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H1841H\|דָנִיֵּאל]]&#8207; </big>**| Ve.<small><sup>[[AC]]</sup></small> da.ni.yel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | as that  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1768\|דִ֨י]]&#8207; </big>**| ke.<small><sup>[[AR]]</sup></small> Di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

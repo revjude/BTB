@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:20** 
 <small><sub>**LXX:**</sub></small>
 until whenever \[the\] <span class="smallcaps">lord</span> your God should rest  your brethren, as also you, and they should have inherited also themselves the land which \[the\] <span class="smallcaps">lord</span>  your God gives to you on the other side of the Jordan; then each shall turn back to  his inheritance, which I have given to you. 
-<small><sub>**KJV:**</sub></small>
-Until the LORD have given rest unto your brethren, as well as unto you, and [until] they also possess the land which the LORD your God hath given them beyond Jordan: and [then] shall ye return every man unto his possession, which I have given you.
-<small><sub>**BSB:**</sub></small>
-until the LORD gives rest to your brothers as He has to you, and they too have taken possession of the land that the LORD your God is giving them across the Jordan. Then each of you may return to the possession I have given you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.19|<< Deuteronomy 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.21|Deuteronomy 3:21 >>]]</td></tr></table>
 
 | Translation | Greek |

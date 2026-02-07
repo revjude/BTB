@@ -1,4 +1,4 @@
-**Psalms 65:3** (65:4)
+**Psalms 65:3**<big><big>[[Ps.65.1 Praise Awaits God in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Iniquities prevail against me: [as for] our transgressions, thou shalt purge them away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When iniquities prevail against me, You atone for our transgressions.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.65.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.2|<< Psalms 65:2]]</td><td align="center" style="border:none;">[[Ps.65|Psalms 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.65.4|Psalms 65:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | things of  |**<big>&#8207;[[H1697M\|דִּבְרֵ֣י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | iniquities  |**<big>&#8207;[[H5771H\|עֲ֭וֹנֹת]]&#8207; </big>**| 'A.vo.not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

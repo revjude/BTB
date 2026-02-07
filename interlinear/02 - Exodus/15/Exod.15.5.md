@@ -1,4 +1,4 @@
-**Exodus 15:5** 
+**Exodus 15:5**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The depths have covered them: they sank into the bottom as a stone.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The depths have covered them; they sank there like a stone.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.4|<< Exodus 15:4]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.6|Exodus 15:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] deeps  |**<big>&#8207;[[H8415\|תְּהֹמֹ֖ת]]&#8207; </big>**| te.ho.Mot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have covered them  |**<big>&#8207;[[H3680\|יְכַסְיֻ֑]]&#8207;&#8207;[[H9038\|מוּ]]&#8207; </big>**| ye.khas.Yu.<small><sup>[[HVpi3mp]]</sup></small> mu<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

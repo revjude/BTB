@@ -1,10 +1,7 @@
 **LXX Psalm 124:4** 
 <small><sub>**LXX:**</sub></small>
 Then would the water have sunk us; our soul going through \[the\] rushing stream. 
-<small><sub>**KJV:**</sub></small>
-Then the waters had overwhelmed us, the stream had gone over our soul:
-<small><sub>**BSB:**</sub></small>
-then the floods would have engulfed us, then the torrent would have overwhelmed us,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.124.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.124.3|<< Psalm 124:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.124.5|Psalm 124:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 9:11** 
 <small><sub>**LXX:**</sub></small>
 And I will establish  my covenant with you, and all flesh will not die any longer from the water of the flood; and there shall not be any longer a flood of water  to lay waste all the earth. 
-<small><sub>**KJV:**</sub></small>
-And I will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.
-<small><sub>**BSB:**</sub></small>
-And I establish My covenant with you: Never again will all life be cut off by the waters of a flood; never again will there be a flood to destroy the earth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.10|<< Genesis 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.9.12|Genesis 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

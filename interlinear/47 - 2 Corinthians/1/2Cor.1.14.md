@@ -1,12 +1,12 @@
-**2 Corinthians 1:14
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:14**<big><big>[[2Cor.1.12 Paul’s Change of Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As also ye have acknowledged us in part, that we are your rejoicing, even as ye also [are] ours in the day of the Lord Jesus.
 <small><sub>**BSB:**</sub></small>
 as you have already understood us in part, that you may boast of us just as we will boast of you in the day of our Lord Jesus.
 <small><sub>**Literal:**</sub></small>
 even as also you have understood us in part that boasting of you we are, even as also you [are] ours in the day of the Lord of us Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.13|<< 2 Corinthians 1:13]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.15|2 Corinthians 1:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

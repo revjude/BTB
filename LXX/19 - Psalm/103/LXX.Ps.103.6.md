@@ -1,10 +1,7 @@
 **LXX Psalm 103:6** 
 <small><sub>**LXX:**</sub></small>
 The one doing charity \[is\] the <span class="smallcaps">lord</span>, and judgment to all the ones having been wronged. 
-<small><sub>**KJV:**</sub></small>
-The LORD executeth righteousness and judgment for all that are oppressed.
-<small><sub>**BSB:**</sub></small>
-The LORD executes righteousness and justice for all the oppressed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.103.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.5|<< Psalm 103:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.103.7|Psalm 103:7 >>]]</td></tr></table>
 
 | Translation | Greek |

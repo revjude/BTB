@@ -1,10 +1,7 @@
 **LXX 2 Samuel 6:8** 
 <small><sub>**LXX:**</sub></small>
 And David was depressed because of which \[the\] <span class="smallcaps">lord</span> cut severance with  Uzzah. And he called  that place, Severance of Uzzah, until  this day. 
-<small><sub>**KJV:**</sub></small>
-And David was displeased, because the LORD had made a breach upon Uzzah: and he called the name of the place Perezuzzah to this day.
-<small><sub>**BSB:**</sub></small>
-Then David became angry because the LORD had burst forth against Uzzah. So he named that place Perez-uzzah, as it is called to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.7|<< 2 Samuel 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.9|2 Samuel 6:9 >>]]</td></tr></table>
 
 | Translation | Greek |

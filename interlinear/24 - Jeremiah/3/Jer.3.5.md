@@ -1,4 +1,4 @@
-**Jeremiah 3:5** 
+**Jeremiah 3:5**<big><big>[[Jer.3.1 The Wages of the Harlot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will he reserve [his anger] for ever? will he keep [it] to the end? Behold, thou hast spoken and done evil things as thou couldest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will He be angry forever? Will He be indignant to the end?’ This you have spok
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.4|<< Jeremiah 3:4]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.6|Jeremiah 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will he maintain  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H5201\|יִנְטֹ֣ר]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> yin.Tor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָ֔ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

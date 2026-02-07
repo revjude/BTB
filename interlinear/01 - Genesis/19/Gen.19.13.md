@@ -1,4 +1,4 @@
-**Genesis 19:13** 
+**Genesis 19:13**<big><big>[[Gen.19.12 Lot Flees to Zoar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For we will destroy this place, because the cry of them is waxen great before the face of the LORD; and the LORD hath sent us to destroy it.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ because we are about to destroy this place. For the outcry to the LORD against i
 > $\quad$ referenced by: [[Jude.1.7|Jude 1:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] about to destroy  |**<big>&#8207;[[H7843\|מַשְׁחִתִ֣ים]]&#8207; </big>**| mash.chi.Tim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

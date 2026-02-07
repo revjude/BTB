@@ -1,10 +1,7 @@
 **LXX Ruth 3:15** 
 <small><sub>**LXX:**</sub></small>
 And he said to her, Bring the apron, the one upon you, and hold it! And she held it, and he measured out six \[measures\] of barley, and placed them unto her. And she entered into the city. 
-<small><sub>**KJV:**</sub></small>
-Also he said, Bring the vail that [thou hast] upon thee, and hold it. And when she held it, he measured six [measures] of barley, and laid [it] on her: and she went into the city.
-<small><sub>**BSB:**</sub></small>
-And he told her, “Bring the shawl you are wearing and hold it out.” When she did so, he poured in six measures of barley and placed it on her. Then he went into the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.14|<< Ruth 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.16|Ruth 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

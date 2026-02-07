@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:21** 
 <small><sub>**LXX:**</sub></small>
 And Jehoram ascended into Zair, and all the chariots  with him. And it happened as he rose up at night, that he struck  Edom circling upon him, and the commanders of the chariots. And the people fled to  its tents. 
-<small><sub>**KJV:**</sub></small>
-So Joram went over to Zair, and all the chariots with him: and he rose by night, and smote the Edomites which compassed him about, and the captains of the chariots: and the people fled into their tents.
-<small><sub>**BSB:**</sub></small>
-So Jehoram crossed over to Zair with all his chariots. When the Edomites surrounded him and his chariot commanders, he rose up and attacked by night. His troops, however, fled to their homes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.20|<< 2 Kings 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.22|2 Kings 8:22 >>]]</td></tr></table>
 
 | Translation | Greek |

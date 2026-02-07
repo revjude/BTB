@@ -1,10 +1,7 @@
 **LXX Joshua 6:9** 
 <small><sub>**LXX:**</sub></small>
 And the ones for combat came near in front. And the priests trumpeting the horns, and the rest of \[the\] multitude all together after the ark of the covenant of \[the\] <span class="smallcaps">lord</span>, were going and trumpeting with the horns. 
-<small><sub>**KJV:**</sub></small>
-And the armed men went before the priests that blew with the trumpets, and the rereward came after the ark, [the priests] going on, and blowing with the trumpets.
-<small><sub>**BSB:**</sub></small>
-While the horns continued to sound, the armed troops marched ahead of the priests who blew the horns, and the rear guard followed the ark.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.8|<< Joshua 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.10|Joshua 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

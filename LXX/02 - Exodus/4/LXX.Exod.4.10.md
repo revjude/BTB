@@ -1,10 +1,7 @@
 **LXX Exodus 4:10** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to \[the\] <span class="smallcaps">lord</span>, I beseech, O <span class="smallcaps">lord</span>, I am not fit before  yesterday nor before the third day, nor from which \[time\] you began to speak  to your attendant, \[for\] I am weak voiced and slow of tongue. 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto the LORD, O my Lord, I [am] not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I [am] slow of speech, and of a slow tongue.
-<small><sub>**BSB:**</sub></small>
-“Please, Lord,” Moses replied, “I have never been eloquent, neither in the past nor since You have spoken to Your servant, for I am slow of speech and tongue.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.9|<< Exodus 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.11|Exodus 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

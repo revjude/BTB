@@ -1,4 +1,4 @@
-**Nehemiah 8:14** 
+**Nehemiah 8:14**<big><big>[[Neh.8.13 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they found written in the law which the LORD had commanded by Moses, that the children of Israel should dwell in booths in the feast of the seventh month:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they found written in the Law, which the LORD had commanded through Moses, t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.13|<< Nehemiah 8:13]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.15|Nehemiah 8:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they found  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H4672\|יִּמְצְא֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.tze.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | written  |**<big>&#8207;[[H3789\|כָּת֣וּב]]&#8207; </big>**| ka.Tuv<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

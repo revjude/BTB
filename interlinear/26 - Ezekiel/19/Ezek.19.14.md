@@ -1,4 +1,4 @@
-**Ezekiel 19:14** 
+**Ezekiel 19:14**<big><big>[[Ezek.19.1 A Lament for the Princes of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And fire is gone out of a rod of her branches, [which] hath devoured her fruit, so that she hath no strong rod [to be] a sceptre to rule. This [is] a lamentation, and shall be for a lamentation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Fire has gone out from its main branch and devoured its fruit; on it no strong b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.19.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.13|<< Ezekiel 19:13]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.1|Ezekiel 20:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318L\|תֵּצֵ֨א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Tze'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fire  |**<big>&#8207;[[H0784\|אֵ֜שׁ]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:20** 
 <small><sub>**LXX:**</sub></small>
 And in the time she was going to die, that the women standing beside her said to her, Do not fear! for you have birthed a son. But she did not answer, and did not comprehend  in her heart. 
-<small><sub>**KJV:**</sub></small>
-And about the time of her death the women that stood by her said unto her, Fear not; for thou hast born a son. But she answered not, neither did she regard [it].
-<small><sub>**BSB:**</sub></small>
-As she was dying, the women attending to her said, “Do not be afraid, for you have given birth to a son!” But she did not respond or pay any heed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.19|<< 1 Samuel 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.21|1 Samuel 4:21 >>]]</td></tr></table>
 
 | Translation | Greek |

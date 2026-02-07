@@ -1,4 +1,4 @@
-**Jeremiah 32:5** 
+**Jeremiah 32:5**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall lead Zedekiah to Babylon, and there shall he be until I visit him, saith the LORD: though ye fight with the Chaldeans, ye shall not prosper?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will take Zedekiah to Babylon, where he will stay until I attend to him, decl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.4|<< Jeremiah 32:4]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.6|Jeremiah 32:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Babylon  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0894\|בָבֶ֞ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will take  |**<big>&#8207;[[H1980J\|יוֹלִ֤ךְ]]&#8207; </big>**| yo.Likh<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

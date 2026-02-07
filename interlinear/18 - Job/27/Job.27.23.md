@@ -1,4 +1,4 @@
-**Job 27:23** 
+**Job 27:23**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Men] shall clap their hands at him, and shall hiss him out of his place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It claps its hands at him and hisses him out of his place.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.22|<< Job 27:22]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.1|Job 28:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | someone will clap  |**<big>&#8207;[[H5606A\|יִשְׂפֹּ֣ק]]&#8207; </big>**| yis.Pok<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on him  |**<big>&#8207;[[H5921A\|עָלֵ֣י]]&#8207;&#8207;[[H9038\|מוֹ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HR]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

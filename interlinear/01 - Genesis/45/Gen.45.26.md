@@ -1,4 +1,4 @@
-**Genesis 45:26** 
+**Genesis 45:26**<big><big>[[Gen.45.25 The Revival of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And told him, saying, Joseph [is] yet alive, and he [is] governor over all the land of Egypt. And Jacob’s heart fainted, for he believed them not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And told him, saying, Joseph [is] yet alive, and he [is] governor over all the l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.25|<< Genesis 45:25]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.27|Genesis 45:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יַּגִּ֨דוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Gi.du<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H9005\|ל֜]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

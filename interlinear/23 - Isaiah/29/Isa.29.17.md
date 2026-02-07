@@ -1,4 +1,4 @@
-**Isaiah 29:17** 
+**Isaiah 29:17**<big><big>[[Isa.29.17 Sanctification for the Godly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In a very short time, will not Lebanon become an orchard, and the orchard seem l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.16|<< Isaiah 29:16]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.18|Isaiah 29:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|לוֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | yet  |**<big>&#8207;[[H5750\|עוֹד֙]]&#8207; </big>**| 'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

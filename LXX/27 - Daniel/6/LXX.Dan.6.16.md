@@ -1,10 +1,7 @@
 **LXX Daniel 6:16** 
 <small><sub>**LXX:**</sub></small>
 Then the king spoke, and they led  Daniel, and they put him into the pit of the lions. But the king said \[to\] Daniel,  Your God in whom you serve continually, he will rescue you. 
-<small><sub>**KJV:**</sub></small>
-Then the king commanded, and they brought Daniel, and cast [him] into the den of lions. [Now] the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.
-<small><sub>**BSB:**</sub></small>
-So the king gave the order, and they brought Daniel and threw him into the den of lions. The king said to Daniel, “May your God, whom you serve continually, deliver you!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.15|<< Daniel 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.17|Daniel 6:17 >>]]</td></tr></table>
 
 | Translation | Greek |

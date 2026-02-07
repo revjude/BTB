@@ -1,10 +1,7 @@
 **LXX Proverbs 6:25** 
 <small><sub>**LXX:**</sub></small>
 O son, let not \[the\] desire of beauty overcome you, nor your eyes be caught nor seized by  her eyelids. 
-<small><sub>**KJV:**</sub></small>
-Lust not after her beauty in thine heart; neither let her take thee with her eyelids.
-<small><sub>**BSB:**</sub></small>
-Do not lust in your heart for her beauty or let her captivate you with her eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.6.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.24|<< Proverbs 6:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.26|Proverbs 6:26 >>]]</td></tr></table>
 
 | Translation | Greek |

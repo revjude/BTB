@@ -1,10 +1,7 @@
 **LXX Numbers 13:28** 
 <small><sub>**LXX:**</sub></small>
 Only that the nation dwelling the land \[is\] bold, and the fortified cities, being walled, are great -- very much so. And the generation of Anak we saw there. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless the people [be] strong that dwell in the land, and the cities [are] walled, [and] very great: and moreover we saw the children of Anak there.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, the people living in the land are strong, and the cities are large and fortified. We even saw the descendants of Anak there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.27|<< Numbers 13:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.29|Numbers 13:29 >>]]</td></tr></table>
 
 | Translation | Greek |

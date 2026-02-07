@@ -1,12 +1,12 @@
-**Acts 9:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:4**<big><big>[[Acts.9.1 The Road to Damascus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me?
 <small><sub>**BSB:**</sub></small>
 He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute Me?”
 <small><sub>**Literal:**</sub></small>
 And having fallen on the ground he heard a voice saying to him; Saul Saul, why Me do you persecute?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.3|<< Acts 9:3]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.5|Acts 9:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having fallen |**<big>[[G4098\|πεσὼν]]</big>**  |pesōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

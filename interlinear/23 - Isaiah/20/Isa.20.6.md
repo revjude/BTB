@@ -1,4 +1,4 @@
-**Isaiah 20:6** 
+**Isaiah 20:6**<big><big>[[Isa.20.1 A Sign against Egypt and Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the inhabitant of this isle shall say in that day, Behold, such [is] our expectation, whither we flee for help to be delivered from the king of Assyria: and how shall we escape?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And on that day the dwellers of this coastland will say, ‘See what has happene
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.20.5|<< Isaiah 20:5]]</td><td align="center" style="border:none;">[[Isa.20|Isaiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.1|Isaiah 21:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will say  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H0559\|אָמַר]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> 'a.mar<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] dwells  |**<big>&#8207;[[H3427\|יֹשֵׁ֨ב]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

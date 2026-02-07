@@ -1,10 +1,7 @@
 **LXX Ezekiel 25:5** 
 <small><sub>**LXX:**</sub></small>
 And I will give the city  of Ammon for pastures of camels, and the sons of Ammon for a pasture of sheep. And you shall realize that I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will make Rabbah a stable for camels, and the Ammonites a couchingplace for flocks: and ye shall know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-I will make Rabbah a pasture for camels, and Ammon a resting place for sheep. Then you will know that I am the LORD.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.4|<< Ezekiel 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.6|Ezekiel 25:6 >>]]</td></tr></table>
 
 | Translation | Greek |

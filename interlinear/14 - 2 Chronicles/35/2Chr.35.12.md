@@ -1,4 +1,4 @@
-**2 Chronicles 35:12** 
+**2 Chronicles 35:12**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they removed the burnt offerings, that they might give according to the divisions of the families of the people, to offer unto the LORD, as [it is] written in the book of Moses. And so [did they] with the oxen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They set aside the burnt offerings to be given to the divisions of the families 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.11|<< 2 Chronicles 35:11]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.13|2 Chronicles 35:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they put aside  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5493I\|יָּסִ֨ירוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Si.ru<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the burnt offering[s]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5930A\|עֹלָ֜ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

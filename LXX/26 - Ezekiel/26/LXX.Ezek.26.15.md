@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:15** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span> \[to\] Sor, \[Shall\] not at \[the\] sound  of your downfall in the moaning of \[the\] wounded in the unsheathing of \[the\] sword in your midst the islands shake? 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD to Tyrus; Shall not the isles shake at the sound of thy fall, when the wounded cry, when the slaughter is made in the midst of thee?
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says to Tyre: ‘Will not the coastlands quake at the sound of your downfall, when the wounded groan at the slaughter in your midst?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.14|<< Ezekiel 26:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.16|Ezekiel 26:16 >>]]</td></tr></table>
 
 | Translation | Greek |

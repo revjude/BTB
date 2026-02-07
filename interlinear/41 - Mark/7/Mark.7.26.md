@@ -1,12 +1,12 @@
-**Mark 7:26
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:26**<big><big>[[Mark.7.24 The Faith of the Gentile Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter.
 <small><sub>**BSB:**</sub></small>
 Now she was a Greek woman of Syrophoenician origin, and she kept asking Jesus to drive the demon out of her daughter.
 <small><sub>**Literal:**</sub></small>
 <the> Now the woman was Gentile Syrophoenician <the> by race, and was asking Him that the demon He may cast forth out of the daughter of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.25|<< Mark 7:25]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.27|Mark 7:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |
 | Now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn»1+SBL+WH+Treg»1+TR+Byz">NKO</abbr> | |

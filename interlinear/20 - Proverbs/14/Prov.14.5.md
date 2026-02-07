@@ -1,4 +1,4 @@
-**Proverbs 14:5** 
+**Proverbs 14:5**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A faithful witness will not lie: but a false witness will utter lies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ An honest witness does not deceive, but a dishonest witness pours forth lies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.4|<< Proverbs 14:4]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.6|Proverbs 14:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a witness of  |**<big>&#8207;[[H5707\|עֵ֣ד]]&#8207; </big>**| 'ed<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | faithfulness\<es>  |**<big>&#8207;[[H0529\|אֱ֭מוּנִים]]&#8207; </big>**| 'E.mu.nim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

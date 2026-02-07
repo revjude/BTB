@@ -1,4 +1,4 @@
-**Numbers 23:8** 
+**Numbers 23:8**<big><big>[[Num.23.1 Balaam’s First Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How shall I curse, whom God hath not cursed? or how shall I defy, [whom] the LORD hath not defied?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How can I curse those whom God has not cursed? How can I denounce those whom the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.7|<< Numbers 23:7]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.9|Numbers 23:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מָ֣ה]]&#8207; </big>**| mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will I curse  |**<big>&#8207;[[H6895\|אֶקֹּ֔ב]]&#8207; </big>**| 'e.Ko<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

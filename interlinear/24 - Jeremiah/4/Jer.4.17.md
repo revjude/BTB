@@ -1,4 +1,4 @@
-**Jeremiah 4:17** 
+**Jeremiah 4:17**<big><big>[[Jer.4.5 Disaster from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As keepers of a field, are they against her round about; because she hath been rebellious against me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They surround her like men guarding a field, because she has rebelled against Me
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.16|<< Jeremiah 4:16]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.18|Jeremiah 4:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like [those who] guard  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8104H\|שֹׁמְרֵ֣י]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> sho.me.Rei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> a field  |**<big>&#8207;[[H7704M\|שָׂדַ֔י]]&#8207; </big>**| sa.Dai<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

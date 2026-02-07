@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 22:6** 
 <small><sub>**LXX:**</sub></small>
 And Jehoram returned  to be treated medically in Jezreel from the wounds which the Syrians struck him in Ramoth, in  his warring against Hazael king of Syria. And Ahaziah son of Jehoram, king of Judah went down to see  Jehoram son of Ahab in Jezreel, for he was infirm. 
-<small><sub>**KJV:**</sub></small>
-And he returned to be healed in Jezreel because of the wounds which were given him at Ramah, when he fought with Hazael king of Syria. And Azariah the son of Jehoram king of Judah went down to see Jehoram the son of Ahab at Jezreel, because he was sick.
-<small><sub>**BSB:**</sub></small>
-So he returned to Jezreel to recover from the wounds they had inflicted on him at Ramah when he fought against Hazael king of Aram. Then Ahaziah son of Jehoram king of Judah went down to Jezreel to visit Joram son of Ahab, because Joram had been wounded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.5|<< 2 Chronicles 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.7|2 Chronicles 22:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Revelation 2:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:7**<big><big>[[Rev.2.1 To the Church in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the tree of life, which is in the midst of the paradise of God.
 <small><sub>**BSB:**</sub></small>
 He who has an ear, let him hear what the Spirit says to the churches. To the one who overcomes, I will grant the right to eat from the tree of life in the Paradise of God.
@@ -10,7 +10,7 @@ The [one] having an ear he should hear what the Spirit says to the churches; To 
 > $\quad$ possibly alluding to: [[LXX.Gen.2.9|Gen 2:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having |**<big>[[G2192\|ἔχων]]</big>**  |echōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

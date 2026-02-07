@@ -1,12 +1,12 @@
-**2 Corinthians 4:3
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 4:3**<big><big>[[2Cor.4.1 The Light of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if our gospel be hid, it is hid to them that are lost:
 <small><sub>**BSB:**</sub></small>
 And even if our gospel is veiled, it is veiled to those who are perishing.
 <small><sub>**Literal:**</sub></small>
 If however even is concealed the gospel of us, to those perishing it is concealed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.2|<< 2 Corinthians 4:2]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.4|2 Corinthians 4:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 13:4** 
 <small><sub>**LXX:**</sub></small>
 unto the place of the altar which he made there at the beginning. And Abram called upon the name of \[the\] <span class="smallcaps">lord</span> there. 
-<small><sub>**KJV:**</sub></small>
-Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD.
-<small><sub>**BSB:**</sub></small>
-to the site where he had built the altar. And there Abram called on the name of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.13.3|<< Genesis 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.13.5|Genesis 13:5 >>]]</td></tr></table>
 
 | Translation | Greek |

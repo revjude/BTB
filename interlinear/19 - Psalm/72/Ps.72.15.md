@@ -1,4 +1,4 @@
-**Psalms 72:15** 
+**Psalms 72:15**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall live, and to him shall be given of the gold of Sheba: prayer also shall be made for him continually; [and] daily shall he be praised.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Long may he live! May gold from Sheba be given him. May people ever pray for him
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.14|<< Psalms 72:14]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.16|Psalms 72:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and may he live  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H2421\|יחִ֗י]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> Chi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he may give  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5414G\|יִתֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.ten-<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

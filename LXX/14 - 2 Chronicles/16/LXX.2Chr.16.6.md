@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 16:6** 
 <small><sub>**LXX:**</sub></small>
 And king Asa took all  Judah; and he lifted away all the stones  of Ramah, and  its timbers which Baasha built with; and he built with them Geba and  Mizpah. 
-<small><sub>**KJV:**</sub></small>
-Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasha was building; and he built therewith Geba and Mizpah.
-<small><sub>**BSB:**</sub></small>
-Then King Asa brought all the men of Judah, and they carried away the stones of Ramah and the timbers Baasha had used for building. And with these materials he built up Geba and Mizpah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.16.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.16.5|<< 2 Chronicles 16:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.16.7|2 Chronicles 16:7 >>]]</td></tr></table>
 
 | Translation | Greek |

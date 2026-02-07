@@ -1,10 +1,7 @@
 **LXX Isaiah 1:3** 
 <small><sub>**LXX:**</sub></small>
 \[The\] ox knows the one acquiring \[it\], and \[the\] donkey \[knows\] the stable  of its master; but Israel does not know me, and  my people perceived not. 
-<small><sub>**KJV:**</sub></small>
-The ox knoweth his owner, and the ass his master’s crib: [but] Israel doth not know, my people doth not consider.
-<small><sub>**BSB:**</sub></small>
-The ox knows its owner, and the donkey its master’s manger, but Israel does not know; My people do not understand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.2|<< Isaiah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.4|Isaiah 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

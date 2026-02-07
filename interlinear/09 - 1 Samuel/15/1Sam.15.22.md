@@ -1,4 +1,4 @@
-**1 Samuel 15:22** 
+**1 Samuel 15:22**<big><big>[[1Sam.15.10 Samuel Denounces Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel said, Hath the LORD [as great] delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey [is] better than sacrifice, [and] to hearken than the fat of rams.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But Samuel declared: “Does the LORD delight in burnt offerings and sacrifices 
 > $\quad$ referenced by: [[Mark.12.33|Mark 12:33]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵ֗ל]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

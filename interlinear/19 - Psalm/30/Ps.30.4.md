@@ -1,4 +1,4 @@
-**Psalms 30:4** (30:5)
+**Psalms 30:4**<big><big>[[Ps.30.1 You Turned My Mourning into Dancing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing unto the LORD, O ye saints of his, and give thanks at the remembrance of his holiness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sing to the LORD, O you His saints, and praise His holy name.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.30.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.3|<< Psalms 30:3]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30.5|Psalms 30:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sing praises  |**<big>&#8207;[[H2167\|זַמְּר֣וּ]]&#8207; </big>**| za.me.Ru<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֣ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:12** 
 <small><sub>**LXX:**</sub></small>
 For go unto  my place! the one in Shiloh, where I encamped  my name before it there prior. And see what I did to it because of \[the\] countenance of evil of my people Israel! 
-<small><sub>**KJV:**</sub></small>
-But go ye now unto my place which [was] in Shiloh, where I set my name at the first, and see what I did to it for the wickedness of my people Israel.
-<small><sub>**BSB:**</sub></small>
-But go now to the place in Shiloh where I first made a dwelling for My Name, and see what I did to it because of the wickedness of My people Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.11|<< Jeremiah 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.13|Jeremiah 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

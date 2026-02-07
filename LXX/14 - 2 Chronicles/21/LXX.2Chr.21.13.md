@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 21:13** 
 <small><sub>**LXX:**</sub></small>
 and went in \[the\] ways of \[the\] king of Israel, and fornicated  Judah, and the ones dwelling in Jerusalem, as \[the\] house of Ahab fornicated, and also  your brothers, sons  of your father, the good ones over you, you killed. 
-<small><sub>**KJV:**</sub></small>
-But hast walked in the way of the kings of Israel, and hast made Judah and the inhabitants of Jerusalem to go a whoring, like to the whoredoms of the house of Ahab, and also hast slain thy brethren of thy father’s house, [which were] better than thyself:
-<small><sub>**BSB:**</sub></small>
-but you have walked in the ways of the kings of Israel and have caused Judah and the people of Jerusalem to prostitute themselves, just as the house of Ahab prostituted itself. You have also killed your brothers, your father’s family, who were better than you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.12|<< 2 Chronicles 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.14|2 Chronicles 21:14 >>]]</td></tr></table>
 
 | Translation | Greek |

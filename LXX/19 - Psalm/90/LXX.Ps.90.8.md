@@ -1,10 +1,7 @@
 **LXX Psalm 90:8** 
 <small><sub>**LXX:**</sub></small>
 You put  our lawlessness before you;  our eon in \[the\] illumination  of your face. 
-<small><sub>**KJV:**</sub></small>
-Thou hast set our iniquities before thee, our secret [sins] in the light of thy countenance.
-<small><sub>**BSB:**</sub></small>
-You have set our iniquities before You, our secret sins in the light of Your presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.90.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.7|<< Psalm 90:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.9|Psalm 90:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Zechariah 11:9** 
 <small><sub>**LXX:**</sub></small>
 And I said, I will not tend you. The dying, let it die! And the failing, let it fail! and the rest, each eat the flesh  of his neighbor! 
-<small><sub>**KJV:**</sub></small>
-Then said I, I will not feed you: that that dieth, let it die; and that that is to be cut off, let it be cut off; and let the rest eat every one the flesh of another.
-<small><sub>**BSB:**</sub></small>
-Then I said, “I will no longer shepherd you. Let the dying die, and the perishing perish; and let those who remain devour one another’s flesh.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.8|<< Zechariah 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.10|Zechariah 11:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 116:7** 
+**Psalms 116:7**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Return unto thy rest, O my soul; for the LORD hath dealt bountifully with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Return to your rest, O my soul, for the LORD has been good to you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.6|<< Psalms 116:6]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.8|Psalms 116:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | return  |**<big>&#8207;[[H7725G\|שׁוּבִ֣י]]&#8207; </big>**| shu.Vi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O self my  |**<big>&#8207;[[H5315G\|נַ֭פְשִׁ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Naf.sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

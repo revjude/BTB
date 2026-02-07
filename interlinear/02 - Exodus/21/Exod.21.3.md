@@ -1,4 +1,4 @@
-**Exodus 21:3** 
+**Exodus 21:3**<big><big>[[Exod.21.1 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he came in by himself, he shall go out by himself: if he were married, then his wife shall go out with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If he arrived alone, he is to leave alone; if he arrived with a wife, she is to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.2|<< Exodus 21:2]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.4|Exodus 21:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with body his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1610\|גַפּ֥]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ga.P<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

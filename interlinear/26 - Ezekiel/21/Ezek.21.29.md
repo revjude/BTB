@@ -1,4 +1,4 @@
-**Ezekiel 21:29** (21:34)
+**Ezekiel 21:29**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whiles they see vanity unto thee, whiles they divine a lie unto thee, to bring thee upon the necks of [them that are] slain, of the wicked, whose day is come, when their iniquity [shall have] an end.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ while they offer false visions for you and lying divinations about you—to be p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.28|<< Ezekiel 21:28]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.30|Ezekiel 21:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when see  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2372\|חֲז֥וֹת]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> cha.Zot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| lo<small><sup>[[HR]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

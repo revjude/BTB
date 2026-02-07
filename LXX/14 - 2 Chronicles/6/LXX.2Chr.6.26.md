@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:26** 
 <small><sub>**LXX:**</sub></small>
 \[And\] in the holding together the heaven, and there is no rain, because they sinned against you, and they pray to  this place, and confess \[to\] your name, and from  their sins they shall turn, because you shall humble them; 
-<small><sub>**KJV:**</sub></small>
-When the heaven is shut up, and there is no rain, because they have sinned against thee; [yet] if they pray toward this place, and confess thy name, and turn from their sin, when thou dost afflict them;
-<small><sub>**BSB:**</sub></small>
-When the skies are shut and there is no rain because Your people have sinned against You, and they pray toward this place and confess Your name, and they turn from their sins because You have afflicted them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.25|<< 2 Chronicles 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.27|2 Chronicles 6:27 >>]]</td></tr></table>
 
 | Translation | Greek |

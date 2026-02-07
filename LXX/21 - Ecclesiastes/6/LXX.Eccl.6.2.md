@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 6:2** 
 <small><sub>**LXX:**</sub></small>
 A man to whom God shall give to him wealth, and possessions, and glory, and there is nothing lacking to his soul from all \[things\] which he shall desire; yet God shall not give authority to him  to eat from it; for a man, a stranger, shall eat it. And this is folly and an evil sickness. 
-<small><sub>**KJV:**</sub></small>
-A man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this [is] vanity, and it [is] an evil disease.
-<small><sub>**BSB:**</sub></small>
-God gives a man riches, wealth, and honor, so that he lacks nothing his heart desires; but God does not allow him to enjoy them. Instead, a stranger will enjoy them. This is futile and a grievous affliction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.1|<< Ecclesiastes 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.3|Ecclesiastes 6:3 >>]]</td></tr></table>
 
 | Translation | Greek |

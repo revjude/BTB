@@ -1,4 +1,4 @@
-**Ezekiel 48:9** 
+**Ezekiel 48:9**<big><big>[[Ezek.48.8 The Portions for the Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The oblation that ye shall offer unto the LORD [shall be] of five and twenty thousand in length, and of ten thousand in breadth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The special portion you set apart to the LORD shall be 25,000 cubits long and 10
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.8|<< Ezekiel 48:8]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.10|Ezekiel 48:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the contribution  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8641\|תְּרוּמָ֕ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.ru.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 5:7** 
 <small><sub>**LXX:**</sub></small>
  Their sons he firmed instead of these, whom Joshua circumcised. For they were uncircumcised on account of  them being born along the way of uncircumcised ones. 
-<small><sub>**KJV:**</sub></small>
-And their children, [whom] he raised up in their stead, them Joshua circumcised: for they were uncircumcised, because they had not circumcised them by the way.
-<small><sub>**BSB:**</sub></small>
-And He raised up their sons in their place, and these were the ones Joshua circumcised. Until this time they were still uncircumcised, since they had not been circumcised along the way.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.6|<< Joshua 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.8|Joshua 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

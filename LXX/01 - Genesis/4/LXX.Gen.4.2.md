@@ -1,10 +1,7 @@
 **LXX Genesis 4:2** 
 <small><sub>**LXX:**</sub></small>
 And she added to bear  his brother,  Abel. And Abel became a shepherd of sheep, but Cain was working the land. 
-<small><sub>**KJV:**</sub></small>
-And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.
-<small><sub>**BSB:**</sub></small>
-Later she gave birth to Cain’s brother Abel. Now Abel was a keeper of sheep, while Cain was a tiller of the soil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.1|<< Genesis 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.3|Genesis 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

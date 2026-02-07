@@ -1,12 +1,12 @@
-**Acts 16:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:14**<big><big>[[Acts.16.11 Lydia’s Conversion in Philippi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard [us]: whose heart the Lord opened, that she attended unto the things which were spoken of Paul.
 <small><sub>**BSB:**</sub></small>
 Among those listening was a woman named Lydia, a dealer in purple cloth from the city of Thyatira, who was a worshiper of God. The Lord opened her heart to respond to Paul’s message.
 <small><sub>**Literal:**</sub></small>
 And a certain woman named Lydia, a seller of purple of [the] city of Thyatira worshiping <the> God, was listening of whom the Lord opened the heart to attend to the [things] being spoken by <the> Paul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.13|<< Acts 16:13]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.15|Acts 16:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καί]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a certain |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

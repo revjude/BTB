@@ -1,4 +1,4 @@
-**Micah 6:7** 
+**Micah 6:7**<big><big>[[Mic.6.1 The Case against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will the LORD be pleased with thousands of rams, [or] with ten thousands of rivers of oil? shall I give my firstborn [for] my transgression, the fruit of my body [for] the sin of my soul?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Would the LORD be pleased with thousands of rams, with ten thousand rivers of oi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.6|<< Micah 6:6]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.8|Micah 6:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will he take pleasure  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H7521\|יִרְצֶ֤ה]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> yir.Tzeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

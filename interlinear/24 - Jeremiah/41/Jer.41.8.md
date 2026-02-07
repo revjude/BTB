@@ -1,4 +1,4 @@
-**Jeremiah 41:8** 
+**Jeremiah 41:8**<big><big>[[Jer.41.1 The Murder of Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ten men were found among them that said unto Ishmael, Slay us not: for we have treasures in the field, of wheat, and of barley, and of oil, and of honey. So he forbare, and slew them not among their brethren.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But ten of the men among them said to Ishmael, “Do not kill us, for we have hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.7|<< Jeremiah 41:7]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.9|Jeremiah 41:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and ten  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6235\|עֲשָׂרָ֨ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.sa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | men  |**<big>&#8207;[[H0582\|אֲנָשִׁ֜ים]]&#8207; </big>**| 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

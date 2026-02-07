@@ -1,12 +1,12 @@
-**1 Corinthians 1:18
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:18**<big><big>[[1Cor.1.18 The Message of the Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.
 <small><sub>**BSB:**</sub></small>
 For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.
 <small><sub>**Literal:**</sub></small>
 The message for <the> of the cross to those indeed perishing foolishness is, to those however being saved to us power of God it is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.17|<< 1 Corinthians 1:17]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.19|1 Corinthians 1:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | message |**<big>[[G3056\|λόγος]]</big>**  |logos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

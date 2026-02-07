@@ -1,12 +1,12 @@
-**Acts 21:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:1**<big><big>[[Acts.21.1 Paul’s Journey to Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, that after we were gotten from them, and had launched, we came with a straight course unto Coos, and the [day] following unto Rhodes, and from thence unto Patara:
 <small><sub>**BSB:**</sub></small>
 After we had torn ourselves away from them, we sailed directly to Cos, and the next day on to Rhodes, and from there to Patara.
 <small><sub>**Literal:**</sub></small>
 After then it happened sailing our having drawn away from them, having run directly we came to <the> Cos, <the> and the next [day] to <the> Rhodes, and from there to Patara.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.38|<< Acts 20:38]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.2|Acts 21:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G5613\|Ὡς]]</big>**  |Hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:20** 
 <small><sub>**LXX:**</sub></small>
 And Isaiah son of Amoz sent to Hezekiah, saying, Thus says \[the\] <span class="smallcaps">lord</span>  God of Israel, I heard what you pray for to me concerning Sennacherib king of \[the\] Assyrians. 
-<small><sub>**KJV:**</sub></small>
-Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the LORD God of Israel, [That] which thou hast prayed to me against Sennacherib king of Assyria I have heard.
-<small><sub>**BSB:**</sub></small>
-Then Isaiah son of Amoz sent a message to Hezekiah: “This is what the LORD, the God of Israel, says: I have heard your prayer concerning Sennacherib king of Assyria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.19|<< 2 Kings 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.21|2 Kings 19:21 >>]]</td></tr></table>
 
 | Translation | Greek |

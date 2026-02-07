@@ -1,4 +1,4 @@
-**Psalms 89:48** (89:49)
+**Psalms 89:48**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What man [is he that] liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What man can live and never see death? Can he deliver his soul from the power of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.47|<< Psalms 89:47]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.49|Psalms 89:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is the] man  |**<big>&#8207;[[H1397\|גֶ֣בֶר]]&#8207; </big>**| Ge.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

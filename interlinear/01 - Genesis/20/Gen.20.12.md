@@ -1,4 +1,4 @@
-**Genesis 20:12** 
+**Genesis 20:12**<big><big>[[Gen.20.1 Abraham, Sarah, and Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And yet indeed [she is] my sister; she [is] the daughter of my father, but not the daughter of my mother; and she became my wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Besides, she really is my sister, the daughter of my father—though not the dau
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.11|<< Genesis 20:11]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.13|Genesis 20:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | truly  |**<big>&#8207;[[H0546\|אָמְנָ֗ה]]&#8207; </big>**| 'a.me.Nah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

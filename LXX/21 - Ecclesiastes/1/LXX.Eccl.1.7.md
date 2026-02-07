@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 1:7** 
 <small><sub>**LXX:**</sub></small>
 All the rushing streams go into the sea, and the sea is not filled up. To the place where the rushing streams went, there they shall return  to go \[again\]. 
-<small><sub>**KJV:**</sub></small>
-All the rivers run into the sea; yet the sea [is] not full; unto the place from whence the rivers come, thither they return again.
-<small><sub>**BSB:**</sub></small>
-All the rivers flow into the sea, yet the sea is never full; to the place from which the streams come, there again they flow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.6|<< Ecclesiastes 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.8|Ecclesiastes 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

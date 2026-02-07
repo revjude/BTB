@@ -1,12 +1,12 @@
-**Luke 14:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:4**<big><big>[[Luke.14.1 Jesus Heals a Man with Dropsy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they held their peace. And he took [him], and healed him, and let him go;
 <small><sub>**BSB:**</sub></small>
 But they remained silent. Then Jesus took hold of the man, healed him, and sent him on his way.
 <small><sub>**Literal:**</sub></small>
 <the> But they were silent. And having taken hold [of him] He healed him and let [him] go.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.3|<< Luke 14:3]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.5|Luke 14:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

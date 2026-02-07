@@ -1,4 +1,4 @@
-**Jeremiah 5:11** 
+**Jeremiah 5:11**<big><big>[[Jer.5.1 No One Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the house of Israel and the house of Judah have dealt very treacherously against me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the house of Israel and the house of Judah have been utterly unfaithful to M
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.10|<< Jeremiah 5:10]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.12|Jeremiah 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to deal treacherously>  |**<big>&#8207;[[H0898\|בָג֨וֹד]]&#8207; </big>**| va.God<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

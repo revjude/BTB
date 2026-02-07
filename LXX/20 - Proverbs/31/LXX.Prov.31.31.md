@@ -1,10 +1,7 @@
 **LXX Proverbs 31:31** 
 <small><sub>**LXX:**</sub></small>
 Give to her from \[the\] fruits of her lips! and her husband be praised at \[the\] gates! 
-<small><sub>**KJV:**</sub></small>
-Give her of the fruit of her hands; and let her own works praise her in the gates.
-<small><sub>**BSB:**</sub></small>
-Give her the fruit of her hands, and let her works praise her at the gates.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.31.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.30|<< Proverbs 31:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.1|Ecclesiastes 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

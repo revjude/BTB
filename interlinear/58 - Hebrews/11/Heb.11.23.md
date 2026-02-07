@@ -1,5 +1,5 @@
-**Hebrews 11:23
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:23**<big><big>[[Heb.11.23 The Faith of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By faith Moses, when he was born, was hid three months of his parents, because they saw [he was] a proper child; and they were not afraid of the king’s commandment.
 <small><sub>**BSB:**</sub></small>
 By faith Moses’ parents hid him for three months after his birth, because they saw that he was a beautiful child, and they were unafraid of the king’s edict.
@@ -10,7 +10,7 @@ By faith Moses having been born he was hidden three months by the parents of him
 > $\quad$ alluding to: [[LXX.Exod.2.2|Exod 2:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Moses |**<big>[[G3475\|Μωϋσῆς]]</big>**  [^1] |Mōusēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

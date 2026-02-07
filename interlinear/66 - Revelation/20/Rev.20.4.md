@@ -1,5 +1,5 @@
-**Revelation 20:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 20:4**<big><big>[[Rev.20.1 Satan Bound|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw thrones, and they sat upon them, and judgment was given unto them: and [I saw] the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received [his] mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.
 <small><sub>**BSB:**</sub></small>
 Then I saw the thrones, and those seated on them had been given authority to judge. And I saw the souls of those who had been beheaded for their testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or hands. And they came to life and reigned with Christ for a thousand years.
@@ -10,7 +10,7 @@ And I saw thrones, and they sat upon them and judgment was given to them, and th
 > $\quad$ possibly alluding to: [[LXX.Dan.9.22|Dan 9:22]] ☩ [[LXX.Dan.9.27|Dan 9:27]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

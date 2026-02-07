@@ -1,4 +1,4 @@
-**1 Chronicles 23:32** 
+**1 Chronicles 23:32**<big><big>[[1Chr.23.24 Levite Duties Revised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy [place], and the charge of the sons of Aaron their brethren, in the service of the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the Levites were to carry out the responsibilities for the Tent of Meeting an
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.31|<< 1 Chronicles 23:31]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.1|1 Chronicles 24:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they kept  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8104G\|שָׁמְר֞וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.me.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

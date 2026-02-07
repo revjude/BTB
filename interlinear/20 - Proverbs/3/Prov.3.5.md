@@ -1,4 +1,4 @@
-**Proverbs 3:5** 
+**Proverbs 3:5**<big><big>[[Prov.3.1 Trust in the LORD with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Trust in the LORD with all thine heart; and lean not unto thine own understanding.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Trust in the LORD with all your heart, and lean not on your own understanding;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.4|<< Proverbs 3:4]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.6|Proverbs 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | trust  |**<big>&#8207;[[H0982\|בְּטַ֣ח]]&#8207; </big>**| be.Tach<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

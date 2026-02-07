@@ -1,4 +1,4 @@
-**Numbers 18:23** 
+**Numbers 18:23**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the Levites shall do the service of the tabernacle of the congregation, and they shall bear their iniquity: [it shall be] a statute for ever throughout your generations, that among the children of Israel they have no inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Levites are to perform the work of the Tent of Meeting, and they must bear t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.22|<< Numbers 18:22]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.24|Numbers 18:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will serve  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5647H\|עָבַ֨ד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Vad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Levite[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לֵּוִ֜י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> le.Vi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

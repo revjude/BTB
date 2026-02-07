@@ -1,12 +1,12 @@
-**Mark 11:26
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:26**<big><big>[[Mark.11.20 The Withered Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if ye do not forgive, neither will your Father which is in heaven forgive your trespasses.
 <small><sub>**BSB:**</sub></small>
 
 <small><sub>**Literal:**</sub></small>
 if now you yourselves not do you allow nor the father of you <the> in to the heavens will forgive the trespasses of you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.25|<< Mark 11:25]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.27|Mark 11:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="TR+Byz">KO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

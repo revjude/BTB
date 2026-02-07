@@ -1,4 +1,4 @@
-**Numbers 7:2** 
+**Numbers 7:2**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the princes of Israel, heads of the house of their fathers, who [were] the princes of the tribes, and were over them that were numbered, offered:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the leaders of Israel, the heads of their families, presented an offering. T
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.1|<< Numbers 7:1]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.3|Numbers 7:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they brought near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7126G\|יַּקְרִ֙יבוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yak.Ri.vu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] leaders of  |**<big>&#8207;[[H5387A\|נְשִׂיאֵ֣י]]&#8207; </big>**| ne.si.'Ei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

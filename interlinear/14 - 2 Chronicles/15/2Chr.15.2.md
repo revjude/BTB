@@ -1,4 +1,4 @@
-**2 Chronicles 15:2** 
+**2 Chronicles 15:2**<big><big>[[2Chr.15.1 The Prophecy of Azariah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went out to meet Asa, and said unto him, Hear ye me, Asa, and all Judah and Benjamin; The LORD [is] with you, while ye be with him; and if ye seek him, he will be found of you; but if ye forsake him, he will forsake you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he went out to meet Asa and said to him, “Listen to me, Asa and all Judah a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.1|<< 2 Chronicles 15:1]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.3|2 Chronicles 15:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵא֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֣י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

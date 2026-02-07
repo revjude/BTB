@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he brought me into the outer courtyard, according to \[the\] east, opposite of the gate of the one towards \[the\] north. And he brought me, and behold, \[there were\] five inner chambers being next to the \[space\] left over, and next to the place separating near \[the\] north, 
-<small><sub>**KJV:**</sub></small>
-Then he brought me forth into the utter court, the way toward the north: and he brought me into the chamber that [was] over against the separate place, and which [was] before the building toward the north.
-<small><sub>**BSB:**</sub></small>
-Then the man led me out northward into the outer court, and he brought me to the group of chambers opposite the temple courtyard and the outer wall on the north side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.26|<< Ezekiel 41:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.2|Ezekiel 42:2 >>]]</td></tr></table>
 
 | Translation | Greek |

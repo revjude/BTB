@@ -1,4 +1,4 @@
-**Judges 8:4** 
+**Judges 8:4**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gideon came to Jordan, [and] passed over, he, and the three hundred men that [were] with him, faint, yet pursuing [them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Gideon and his three hundred men came to the Jordan and crossed it, exhaust
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.3|<< Judges 8:3]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.5|Judges 8:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gideon  |**<big>&#8207;[[H1439\|גִדְע֖וֹן]]&#8207; </big>**| gid.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

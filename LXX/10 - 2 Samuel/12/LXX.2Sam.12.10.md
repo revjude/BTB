@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:10** 
 <small><sub>**LXX:**</sub></small>
 And now, \[the\] broadsword shall not depart from  your house unto the eon. Because of this, for you treated me with contempt, and took the wife  of Uriah the Hittite  to be to you for a wife. 
-<small><sub>**KJV:**</sub></small>
-Now therefore the sword shall never depart from thine house; because thou hast despised me, and hast taken the wife of Uriah the Hittite to be thy wife.
-<small><sub>**BSB:**</sub></small>
-Now, therefore, the sword will never depart from your house, because you have despised Me and have taken the wife of Uriah the Hittite to be your own.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.9|<< 2 Samuel 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.11|2 Samuel 12:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 1:22** 
 <small><sub>**LXX:**</sub></small>
 To the sons of Simeon, according to their kin, according to their peoples, according to \[the\] houses of their patrimony, according to \[the\] number of their names, according to their head \[count\], all males from twenty years and up, every one  going forth in the force, 
-<small><sub>**KJV:**</sub></small>
-Of the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;
-<small><sub>**BSB:**</sub></small>
-From the sons of Simeon, according to the records of their clans and families, counting one by one the names of every male twenty years of age or older who could serve in the army,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.21|<< Numbers 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.23|Numbers 1:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in the fifth month, \[the\] seventh of the month, this \[is\] \[the\] nineteenth year of the reign of Nebuchadnezzar king of Babylon, came Nabuzar-adan, the chief guard, the one standing in the presence of \[the\] king of Babylon, into Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And in the fifth month, on the seventh [day] of the month, which [is] the nineteenth year of king Nebuchadnezzar king of Babylon, came Nebuzaradan, captain of the guard, a servant of the king of Babylon, unto Jerusalem:
-<small><sub>**BSB:**</sub></small>
-On the seventh day of the fifth month, in the nineteenth year of Nebuchadnezzar’s reign over Babylon, Nebuzaradan captain of the guard, a servant of the king of Babylon, entered Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.7|<< 2 Kings 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.9|2 Kings 25:9 >>]]</td></tr></table>
 
 | Translation | Greek |

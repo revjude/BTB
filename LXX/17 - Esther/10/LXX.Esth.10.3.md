@@ -1,10 +1,7 @@
 **LXX Esther 10:3** 
 <small><sub>**LXX:**</sub></small>
 For Mordecai relieved  king Artaxerxes, and was great in the kingdom, and being extolled by the Jews, and being fond to describe the welfare to all  their nation. 
-<small><sub>**KJV:**</sub></small>
-For Mordecai the Jew [was] next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.
-<small><sub>**BSB:**</sub></small>
-For Mordecai the Jew was second only to King Xerxes, preeminent among the Jews and highly favored by his many kinsmen, seeking the good of his people and speaking peace to all his countrymen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.10.2|<< Esther 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.1|Job 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

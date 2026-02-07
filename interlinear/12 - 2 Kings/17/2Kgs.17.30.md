@@ -1,4 +1,4 @@
-**2 Kings 17:30** 
+**2 Kings 17:30**<big><big>[[2Kgs.17.24 Samaria Resettled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Babylon made Succothbenoth, and the men of Cuth made Nergal, and the men of Hamath made Ashima,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The men of Babylon made Succoth-benoth, the men of Cuth made Nergal, the men of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.29|<< 2 Kings 17:29]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.31|2 Kings 17:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] people of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0582\|אַנְשֵׁ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Babylon  |**<big>&#8207;[[H0894\|בָבֶ֗ל]]&#8207; </big>**| va.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Proverbs 25:3** 
 <small><sub>**LXX:**</sub></small>
 Heaven \[is\] high, and \[the\] earth \[is\] deep; but \[the\] heart of a king is unascertained. 
-<small><sub>**KJV:**</sub></small>
-The heaven for height, and the earth for depth, and the heart of kings [is] unsearchable.
-<small><sub>**BSB:**</sub></small>
-As the heavens are high and the earth is deep, so the hearts of kings cannot be searched.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.25.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.25.2|<< Proverbs 25:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.25.4|Proverbs 25:4 >>]]</td></tr></table>
 
 | Translation | Greek |

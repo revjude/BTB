@@ -1,4 +1,4 @@
-**Nehemiah 9:6** 
+**Nehemiah 9:6**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou, [even] thou, [art] LORD alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all [things] that [are] therein, the seas, and all that [is] therein, and thou preservest them all; and the host of heaven worshippeth thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You alone are the LORD. You created the heavens, the highest heavens with all th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.5|<< Nehemiah 9:5]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.7|Nehemiah 9:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.tah-<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

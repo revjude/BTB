@@ -1,10 +1,7 @@
 **LXX Job 21:2** 
 <small><sub>**LXX:**</sub></small>
 Hear, hear my  words! that there should be to me this comfort from you. 
-<small><sub>**KJV:**</sub></small>
-Hear diligently my speech, and let this be your consolations.
-<small><sub>**BSB:**</sub></small>
-“Listen carefully to my words; let this be your consolation to me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.1|<< Job 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.3|Job 21:3 >>]]</td></tr></table>
 
 | Translation | Greek |

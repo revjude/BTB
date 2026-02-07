@@ -1,4 +1,4 @@
-**Psalms 78:45** 
+**Psalms 78:45**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sent divers sorts of flies among them, which devoured them; and frogs, which destroyed them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He sent swarms of flies that devoured them, and frogs that devastated them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.44|<< Psalms 78:44]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.46|Psalms 78:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he sent  |**<big>&#8207;[[H7971G\|יְשַׁלַּ֬ח]]&#8207; </big>**| ye.sha.Lach<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among them  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H9038\|הֶ֣ם]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

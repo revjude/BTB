@@ -1,10 +1,7 @@
 **LXX Joshua 19:29** 
 <small><sub>**LXX:**</sub></small>
 And the borders shall turn to Ramah, and unto \[the\] fortress city of the Tyrians; and the borders shall turn to Hosah; and his outer reaches will be the sea, and it shall be from the measured land of Achzib, 
-<small><sub>**KJV:**</sub></small>
-And [then] the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib:
-<small><sub>**BSB:**</sub></small>
-The border then turned back toward Ramah as far as the fortified city of Tyre, turned toward Hosah, and came out at the Sea in the region of Achzib,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.28|<< Joshua 19:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.30|Joshua 19:30 >>]]</td></tr></table>
 
 | Translation | Greek |

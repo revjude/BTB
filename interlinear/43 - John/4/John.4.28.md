@@ -1,12 +1,12 @@
-**John 4:28
-**<small><sub>**KJV:**</sub></small>
+**John 4:28**<big><big>[[John.4.27 The Disciples Return and Marvel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The woman then left her waterpot, and went her way into the city, and saith to the men,
 <small><sub>**BSB:**</sub></small>
 Then the woman left her water jar, went back into the town, and said to the people,
 <small><sub>**Literal:**</sub></small>
 Left then the water pot of her the woman and went away into the city and says to the men;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.27|<< John 4:27]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.29|John 4:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Left |**<big>[[G0863G\|Ἀφῆκεν]]</big>**  |Aphēken <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

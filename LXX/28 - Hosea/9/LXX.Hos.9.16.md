@@ -1,10 +1,7 @@
 **LXX Hosea 9:16** 
 <small><sub>**LXX:**</sub></small>
 Ephraim toiled,  his roots were dried, in no way should he bear fruit any longer; therefore if they should bear, I shall kill the desires  of their bellies. 
-<small><sub>**KJV:**</sub></small>
-Ephraim is smitten, their root is dried up, they shall bear no fruit: yea, though they bring forth, yet will I slay [even] the beloved [fruit] of their womb.
-<small><sub>**BSB:**</sub></small>
-Ephraim is struck down; their root is withered; they cannot bear fruit. Even if they bear children, I will slay the darlings of their wombs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.15|<< Hosea 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.17|Hosea 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

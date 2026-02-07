@@ -1,12 +1,12 @@
-**Mark 14:66
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:66**<big><big>[[Mark.14.66 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as Peter was beneath in the palace, there cometh one of the maids of the high priest:
 <small><sub>**BSB:**</sub></small>
 While Peter was in the courtyard below, one of the servant girls of the high priest came down
 <small><sub>**Literal:**</sub></small>
 And when is being <the> Peter below in the courtyard comes one of the servant girls of the high priest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.65|<< Mark 14:65]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.67|Mark 14:67 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when is being |**<big>[[G1510\|ὄντος]]</big>**  |ontos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

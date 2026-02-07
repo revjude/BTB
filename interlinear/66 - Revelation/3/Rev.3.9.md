@@ -1,5 +1,5 @@
-**Revelation 3:9
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:9**<big><big>[[Rev.3.7 To the Church in Philadelphia|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.
 <small><sub>**BSB:**</sub></small>
 As for those who belong to the synagogue of Satan, who claim to be Jews but are liars instead, I will make them come and bow down at your feet, and they will know that I love you.
@@ -10,7 +10,7 @@ Behold I may give [those] from the synagogue <the> of Satan — those declaring 
 > $\quad$ possibly alluding to: [[LXX.Isa.60.14|Isa 60:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I may give [^1] |**<big>[[G1325\|διδῶ]]</big>**  |didō <small><sup>[[V-PAS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

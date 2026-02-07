@@ -1,10 +1,7 @@
 **LXX Isaiah 44:6** 
 <small><sub>**LXX:**</sub></small>
 Thus says  God, the king of Israel, and the one rescuing him -- \[the\] God of Hosts. I \[am\] first, and I \[am\] after these \[things\]; besides me there is no God. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD the King of Israel, and his redeemer the LORD of hosts; I [am] the first, and I [am] the last; and beside me [there is] no God.
-<small><sub>**BSB:**</sub></small>
-Thus says the LORD, the King and Redeemer of Israel, the LORD of Hosts: “I am the first and I am the last, and there is no God but Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.5|<< Isaiah 44:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.7|Isaiah 44:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 44:6** is...

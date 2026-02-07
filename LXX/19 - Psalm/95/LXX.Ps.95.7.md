@@ -1,10 +1,7 @@
 **LXX Psalm 95:7** 
 <small><sub>**LXX:**</sub></small>
 For he is  our God, and we \[are\] \[the\] people of his pasture, and \[the\] sheep of his hand. Today, if  you should hear his voice, 
-<small><sub>**KJV:**</sub></small>
-For he [is] our God; and we [are] the people of his pasture, and the sheep of his hand. To day if ye will hear his voice,
-<small><sub>**BSB:**</sub></small>
-For He is our God, and we are the people of His pasture, the sheep under His care. Today, if you hear His voice,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.95.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.6|<< Psalm 95:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.8|Psalm 95:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 95:7** is...

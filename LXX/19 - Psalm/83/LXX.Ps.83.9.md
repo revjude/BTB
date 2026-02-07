@@ -1,10 +1,7 @@
 **LXX Psalm 83:9** 
 <small><sub>**LXX:**</sub></small>
 Do to them as \[to\] Midian, and \[to\] Sisera; as \[to\] Jabin at the rushing stream Kishon! 
-<small><sub>**KJV:**</sub></small>
-Do unto them as [unto] the Midianites; as [to] Sisera, as [to] Jabin, at the brook of Kison:
-<small><sub>**BSB:**</sub></small>
-Do to them as You did to Midian, as to Sisera and Jabin at the River Kishon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.83.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.8|<< Psalm 83:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.10|Psalm 83:10 >>]]</td></tr></table>
 
 | Translation | Greek |

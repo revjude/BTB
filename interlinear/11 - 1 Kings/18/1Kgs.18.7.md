@@ -1,4 +1,4 @@
-**1 Kings 18:7** 
+**1 Kings 18:7**<big><big>[[1Kgs.18.1 Elijah’s Message to Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as Obadiah was in the way, behold, Elijah met him: and he knew him, and fell on his face, and said, [Art] thou that my lord Elijah?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now as Obadiah went on his way, Elijah suddenly met him. When Obadiah recognized
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.6|<< 1 Kings 18:6]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.8|1 Kings 18:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֤י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Obadiah  |**<big>&#8207;[[H5662G\|עֹבַדְיָ֙הוּ֙]]&#8207; </big>**| 'oad.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

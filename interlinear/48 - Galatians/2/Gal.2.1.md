@@ -1,12 +1,12 @@
-**Galatians 2:1
-**<small><sub>**KJV:**</sub></small>
+**Galatians 2:1**<big><big>[[Gal.2.1 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with [me] also.
 <small><sub>**BSB:**</sub></small>
 Fourteen years later I went up again to Jerusalem, accompanied by Barnabas. I took Titus along also.
 <small><sub>**Literal:**</sub></small>
 Then after fourteen years again I went up to Jerusalem with Barnabas having taken with [me] also Titus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.24|<< Galatians 1:24]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.2|Galatians 2:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G1899\|Ἔπειτα]]</big>**  |Epeita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | after |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

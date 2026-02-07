@@ -1,10 +1,7 @@
 **LXX Genesis 21:29** 
 <small><sub>**LXX:**</sub></small>
 And Abimelech said  to Abraham, What are the seven ewe-lambs  of sheep -- these, which you set alone? 
-<small><sub>**KJV:**</sub></small>
-And Abimelech said unto Abraham, What [mean] these seven ewe lambs which thou hast set by themselves?
-<small><sub>**BSB:**</sub></small>
-and Abimelech asked him, “Why have you set apart these seven ewe lambs?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.28|<< Genesis 21:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.30|Genesis 21:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 22:33** 
+**Numbers 22:33**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain thee, and saved her alive.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The donkey saw me and turned away from me these three times. If she had not turn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.32|<< Numbers 22:32]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.34|Numbers 22:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it saw me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|תִּרְאַ֙]]&#8207;&#8207;[[H9030\|נִי֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tir.'A.<small><sup>[[HVqw3fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the donkey  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0860\|אָת֔וֹן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Ton<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

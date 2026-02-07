@@ -1,10 +1,7 @@
 **LXX Job 22:29** 
 <small><sub>**LXX:**</sub></small>
 For one humbled himself; and you shall say, He is prideful, but \[the\] one having downcast  eyes, he shall deliver. 
-<small><sub>**KJV:**</sub></small>
-When [men] are cast down, then thou shalt say, [There is] lifting up; and he shall save the humble person.
-<small><sub>**BSB:**</sub></small>
-When men are brought low and you say, ‘Lift them up!’ then He will save the lowly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.28|<< Job 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.30|Job 22:30 >>]]</td></tr></table>
 
 | Translation | Greek |

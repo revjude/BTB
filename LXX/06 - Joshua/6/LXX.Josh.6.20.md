@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the people shouted, and the priests trumped the trumpets. And as the people heard the sound of the trumpets, all the people shouted a great and strong shout. And the wall fell round about; and the people ascended into the city, each at his opposite, and overtook the city. 
-<small><sub>**KJV:**</sub></small>
-So the people shouted when [the priests] blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.
-<small><sub>**BSB:**</sub></small>
-So when the rams’ horns sounded, the people shouted. When they heard the blast of the horn, the people gave a great shout, and the wall collapsed. Then all the people charged straight into the city and captured it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.19|<< Joshua 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.21|Joshua 6:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joshua 6:20** is...

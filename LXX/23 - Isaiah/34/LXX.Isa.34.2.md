@@ -1,10 +1,7 @@
 **LXX Isaiah 34:2** 
 <small><sub>**LXX:**</sub></small>
 Because the rage of \[the\] <span class="smallcaps">lord</span> \[is\] upon all the nations, and \[his\] anger \[is\] upon  their number,  to destroy them and to deliver them up unto slaughter. 
-<small><sub>**KJV:**</sub></small>
-For the indignation of the LORD [is] upon all nations, and [his] fury upon all their armies: he hath utterly destroyed them, he hath delivered them to the slaughter.
-<small><sub>**BSB:**</sub></small>
-The LORD is angry with all the nations and furious with all their armies. He will devote them to destruction; He will give them over to slaughter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.34.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.34.1|<< Isaiah 34:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.34.3|Isaiah 34:3 >>]]</td></tr></table>
 
 | Translation | Greek |

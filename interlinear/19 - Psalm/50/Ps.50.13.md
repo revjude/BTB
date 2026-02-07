@@ -1,4 +1,4 @@
-**Psalms 50:13** 
+**Psalms 50:13**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will I eat the flesh of bulls, or drink the blood of goats?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do I eat the flesh of bulls, or drink the blood of goats?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.12|<< Psalms 50:12]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.14|Psalms 50:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ do I eat  |**<big>&#8207;[[H9008\|הַֽ֭]]&#8207;&#8207;[[H0398\|אוֹכַל]]&#8207; </big>**| Ha.<small><sup>[[HTi]]</sup></small> 'o.khal<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] flesh of  |**<big>&#8207;[[H1320\|בְּשַׂ֣ר]]&#8207; </big>**| be.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

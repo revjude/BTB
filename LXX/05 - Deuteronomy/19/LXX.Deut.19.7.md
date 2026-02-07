@@ -1,10 +1,7 @@
 **LXX Deuteronomy 19:7** 
 <small><sub>**LXX:**</sub></small>
 Because of this I give charge to you  this thing, saying, Three cities you shall draw apart to yourself. 
-<small><sub>**KJV:**</sub></small>
-Wherefore I command thee, saying, Thou shalt separate three cities for thee.
-<small><sub>**BSB:**</sub></small>
-This is why I am commanding you to set apart for yourselves three cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.6|<< Deuteronomy 19:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.8|Deuteronomy 19:8 >>]]</td></tr></table>
 
 | Translation | Greek |

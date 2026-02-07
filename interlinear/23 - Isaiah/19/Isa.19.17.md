@@ -1,4 +1,4 @@
-**Isaiah 19:17** 
+**Isaiah 19:17**<big><big>[[Isa.19.16 A Blessing upon the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the land of Judah shall be a terror unto Egypt, every one that maketh mention thereof shall be afraid in himself, because of the counsel of the LORD of hosts, which he hath determined against it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The land of Judah will bring terror to Egypt; whenever Judah is mentioned, Egypt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.16|<< Isaiah 19:16]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.18|Isaiah 19:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will become  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H1961\|הָיְתָה]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ha.ye.tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] land of  |**<big>&#8207;[[H0127G\|אַדְמַ֨ת]]&#8207; </big>**| 'ad.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

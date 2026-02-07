@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The word is not so. For a man from mount Ephraim, Sheba son of Bichri \[is\] his name, lifted up  his hand against  king David. Give him to me only, and I shall go forth from the city. And the woman said to Joab, Behold,  I will toss his head to you over the wall. 
-<small><sub>**KJV:**</sub></small>
-The matter [is] not so: but a man of mount Ephraim, Sheba the son of Bichri by name, hath lifted up his hand against the king, [even] against David: deliver him only, and I will depart from the city. And the woman said unto Joab, Behold, his head shall be thrown to thee over the wall.
-<small><sub>**BSB:**</sub></small>
-That is not the case. But a man named Sheba son of Bichri, from the hill country of Ephraim, has lifted up his hand against the king, against David. Deliver him alone, and I will depart from the city.” “Look,” the woman replied, “his head will be thrown to you over the wall.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.20|<< 2 Samuel 20:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.22|2 Samuel 20:22 >>]]</td></tr></table>
 
 | Translation | Greek |

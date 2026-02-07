@@ -1,4 +1,4 @@
-**1 Kings 11:27** 
+**1 Kings 11:27**<big><big>[[1Kgs.11.26 Jeroboam’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [was] the cause that he lifted up [his] hand against the king: Solomon built Millo, [and] repaired the breaches of the city of David his father.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and this is the account of his rebellion against the king. Solomon had built the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.26|<< 1 Kings 11:26]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.28|1 Kings 11:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2088\|זֶ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the reason  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697M\|דָּבָ֔ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

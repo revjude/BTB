@@ -1,10 +1,7 @@
 **LXX Ezra 8:21** 
 <small><sub>**LXX:**</sub></small>
 And I called there a fast at the river Ahava,  to humble \[ourselves\] before  our God, to seek by him a straight way for us, and  for our children, and \[for\] all  our property. 
-<small><sub>**KJV:**</sub></small>
-Then I proclaimed a fast there, at the river of Ahava, that we might afflict ourselves before our God, to seek of him a right way for us, and for our little ones, and for all our substance.
-<small><sub>**BSB:**</sub></small>
-And there by the Ahava Canal I proclaimed a fast, so that we might humble ourselves before our God and ask Him for a safe journey for us and our children, with all our possessions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.20|<< Ezra 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.22|Ezra 8:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Song of Solomon 5:13** 
+**Song of Solomon 5:13**<big><big>[[Song.5.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His cheeks [are] as a bed of spices, [as] sweet flowers: his lips [like] lilies, dropping sweet smelling myrrh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His cheeks are like beds of spice, towers of perfume. His lips are like lilies, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.12|<< Song of Solomon 5:12]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.14|Song of Solomon 5:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | cheeks his  |**<big>&#8207;[[H3895H\|לְחָיָ]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| le.cha.Ya<small><sup>[[HNcmdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] like [the] bed of  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H6170\|עֲרוּגַ֣ת]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.ru.Gat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

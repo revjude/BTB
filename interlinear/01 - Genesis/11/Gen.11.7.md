@@ -1,4 +1,4 @@
-**Genesis 11:7** 
+**Genesis 11:7**<big><big>[[Gen.11.1 The Tower of Babel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go to, let us go down, and there confound their language, that they may not understand one another’s speech.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come, let Us go down and confuse their language, so that they will not understan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.6|<< Genesis 11:6]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.8|Genesis 11:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give !  |**<big>&#8207;[[H3051\|הָ֚בָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| Ha.va<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let us go down  |**<big>&#8207;[[H3381\|נֵֽרְדָ֔ה]]&#8207; </big>**| ne.re.Dah<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

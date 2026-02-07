@@ -1,12 +1,12 @@
-**Acts 13:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:7**<big><big>[[Acts.13.4 On Cyprus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which was with the deputy of the country, Sergius Paulus, a prudent man; who called for Barnabas and Saul, and desired to hear the word of God.
 <small><sub>**BSB:**</sub></small>
 an attendant of the proconsul, Sergius Paulus. The proconsul, a man of intelligence, summoned Barnabas and Saul because he wanted to hear the word of God.
 <small><sub>**Literal:**</sub></small>
 who was with the proconsul Sergius Paulus, man an intelligent. He having called to [him] Barnabas and Saul desired to hear the word <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.6|<< Acts 13:6]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.8|Acts 13:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

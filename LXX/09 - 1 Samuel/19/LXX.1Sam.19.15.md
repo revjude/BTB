@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Saul sent messengers to see  David, saying, Lead him upon the bed to me  to put him to death. 
-<small><sub>**KJV:**</sub></small>
-And Saul sent the messengers [again] to see David, saying, Bring him up to me in the bed, that I may slay him.
-<small><sub>**BSB:**</sub></small>
-But Saul sent the messengers back to see David and told them, “Bring him up to me in his bed so I can kill him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.14|<< 1 Samuel 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.16|1 Samuel 19:16 >>]]</td></tr></table>
 
 | Translation | Greek |

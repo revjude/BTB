@@ -1,10 +1,7 @@
 **LXX Job 12:25** 
 <small><sub>**LXX:**</sub></small>
 May they handle darkness, and not light; may they be wandering as if one being intoxicated. 
-<small><sub>**KJV:**</sub></small>
-They grope in the dark without light, and he maketh them to stagger like [a] drunken [man].
-<small><sub>**BSB:**</sub></small>
-They grope in the darkness without light; He makes them stagger like drunkards.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.12.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.24|<< Job 12:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.1|Job 13:1 >>]]</td></tr></table>
 
 | Translation | Greek |

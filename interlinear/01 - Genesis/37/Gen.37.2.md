@@ -1,4 +1,4 @@
-**Genesis 37:2** 
+**Genesis 37:2**<big><big>[[Gen.37.1 Joseph’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the generations of Jacob. Joseph, [being] seventeen years old, was feeding the flock with his brethren; and the lad [was] with the sons of Bilhah, and with the sons of Zilpah, his father’s wives: and Joseph brought unto his father their evil report.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the account of Jacob. When Joseph was seventeen years old, he was tendin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.1|<< Genesis 37:1]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.3|Genesis 37:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] accounts of  |**<big>&#8207;[[H8435\|תֹּלְד֣וֹת]]&#8207; </big>**| to.le.Dot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

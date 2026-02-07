@@ -1,10 +1,7 @@
 **LXX Isaiah 51:15** 
 <small><sub>**LXX:**</sub></small>
 For I \[am\]  your God, the one disturbing the sea, and resounding  its waves. \[The\] <span class="smallcaps">lord</span> of Hosts \[is\] my name. 
-<small><sub>**KJV:**</sub></small>
-But I [am] the LORD thy God, that divided the sea, whose waves roared: The LORD of hosts [is] his name.
-<small><sub>**BSB:**</sub></small>
-For I am the LORD your God who stirs up the sea so that its waves roar—the LORD of Hosts is His name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.51.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.14|<< Isaiah 51:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.16|Isaiah 51:16 >>]]</td></tr></table>
 
 | Translation | Greek |

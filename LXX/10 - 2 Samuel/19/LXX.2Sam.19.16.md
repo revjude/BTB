@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:16** 
 <small><sub>**LXX:**</sub></small>
 And Shimei son of Gera son of the Benjaminite from Bahurim hastened, and he went down with the men of Judah to meet  king David. 
-<small><sub>**KJV:**</sub></small>
-And Shimei the son of Gera, a Benjamite, which [was] of Bahurim, hasted and came down with the men of Judah to meet king David.
-<small><sub>**BSB:**</sub></small>
-Then Shimei son of Gera, a Benjamite from Bahurim, hurried down with the men of Judah to meet King David,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.15|<< 2 Samuel 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.17|2 Samuel 19:17 >>]]</td></tr></table>
 
 | Translation | Greek |

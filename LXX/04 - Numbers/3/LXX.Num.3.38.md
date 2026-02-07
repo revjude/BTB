@@ -1,10 +1,7 @@
 **LXX Numbers 3:38** 
 <small><sub>**LXX:**</sub></small>
 The ones camping according to \[the\] front of the tent of the testimony, from \[the\] east \[was\] Moses and Aaron and  his sons, guarding the watches of the holy \[place\], for the watches of the sons of Israel; and the foreigner  approaching shall die. 
-<small><sub>**KJV:**</sub></small>
-But those that encamp before the tabernacle toward the east, [even] before the tabernacle of the congregation eastward, [shall be] Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death.
-<small><sub>**BSB:**</sub></small>
-Moses, Aaron, and Aaron’s sons were to camp to the east of the tabernacle, toward the sunrise, before the Tent of Meeting. They were to perform the duties of the sanctuary as a service on behalf of the Israelites; but any outsider who approached the sanctuary was to be put to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.37|<< Numbers 3:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.39|Numbers 3:39 >>]]</td></tr></table>
 
 | Translation | Greek |

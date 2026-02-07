@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:10** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> brought forth  his judgment. Come, for we should announce in Zion the works of \[the\] <span class="smallcaps">lord</span>  our God. 
-<small><sub>**KJV:**</sub></small>
-The LORD hath brought forth our righteousness: come, and let us declare in Zion the work of the LORD our God.
-<small><sub>**BSB:**</sub></small>
-“The LORD has brought forth our vindication; come, let us tell in Zion what the LORD our God has accomplished.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.9|<< Jeremiah 51:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.11|Jeremiah 51:11 >>]]</td></tr></table>
 
 | Translation | Greek |

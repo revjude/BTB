@@ -1,10 +1,7 @@
 **LXX 2 Samuel 16:14** 
 <small><sub>**LXX:**</sub></small>
 And the king went, and all the people with him being faint; and they refreshed there. 
-<small><sub>**KJV:**</sub></small>
-And the king, and all the people that [were] with him, came weary, and refreshed themselves there.
-<small><sub>**BSB:**</sub></small>
-Finally, the king and all the people with him arrived, exhausted. And there he refreshed himself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.16.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.13|<< 2 Samuel 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.15|2 Samuel 16:15 >>]]</td></tr></table>
 
 | Translation | Greek |

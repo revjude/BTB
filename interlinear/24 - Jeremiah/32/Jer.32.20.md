@@ -1,4 +1,4 @@
-**Jeremiah 32:20** 
+**Jeremiah 32:20**<big><big>[[Jer.32.16 Jeremiah Prays for Understanding|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which hast set signs and wonders in the land of Egypt, [even] unto this day, and in Israel, and among [other] men; and hast made thee a name, as at this day;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You performed signs and wonders in the land of Egypt, and You do so to this very
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.19|<< Jeremiah 32:19]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.21|Jeremiah 32:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.she.r.Sa-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you performed  |**<big>&#8207;[[H7760A\|שַׂ֠מְתָּ]]&#8207; </big>**| Sam.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:31** 
 <small><sub>**LXX:**</sub></small>
 And the people, the one in it, he led out and put \[them\] to the saw, and to the threshing-machines  of iron, and adz of iron. And he led them through the brick-kiln. And thus he did to all the cities of \[the\] sons of Ammon. And David returned and all the people to Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And he brought forth the people that [were] therein, and put [them] under saws, and under harrows of iron, and under axes of iron, and made them pass through the brickkiln: and thus did he unto all the cities of the children of Ammon. So David and all the people returned unto Jerusalem.
-<small><sub>**BSB:**</sub></small>
-David brought out the people who were there and put them to work with saws, iron picks, and axes, and he made them work at the brick kilns. He did the same to all the Ammonite cities. Then David and all his troops returned to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.30|<< 2 Samuel 12:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.1|2 Samuel 13:1 >>]]</td></tr></table>
 
 | Translation | Greek |

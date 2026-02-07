@@ -1,10 +1,7 @@
 **LXX Joshua 8:16** 
 <small><sub>**LXX:**</sub></small>
 And \[the people\] fled \[by the\] way of the wilderness, and all the people of Ai grew in strength  to pursue after them of the sons of Israel. And they departed from the city. 
-<small><sub>**KJV:**</sub></small>
-And all the people that [were] in Ai were called together to pursue after them: and they pursued after Joshua, and were drawn away from the city.
-<small><sub>**BSB:**</sub></small>
-Then all the men of Ai were summoned to pursue them, and they followed Joshua and were drawn away from the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.15|<< Joshua 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.17|Joshua 8:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 147:6** 
 <small><sub>**LXX:**</sub></small>
 The one taking up \[the\] gentle ones \[is\] the <span class="smallcaps">lord</span>; but humbling sinners onto the ground. 
-<small><sub>**KJV:**</sub></small>
-The LORD lifteth up the meek: he casteth the wicked down to the ground.
-<small><sub>**BSB:**</sub></small>
-The LORD sustains the humble, but casts the wicked to the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.147.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.5|<< Psalm 147:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.7|Psalm 147:7 >>]]</td></tr></table>
 
 | Translation | Greek |

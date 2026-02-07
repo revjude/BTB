@@ -1,12 +1,12 @@
-**Acts 6:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 6:10**<big><big>[[Acts.6.8 The Arrest of Stephen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they were not able to resist the wisdom and the spirit by which he spake.
 <small><sub>**BSB:**</sub></small>
 but they could not stand up to his wisdom or the Spirit by whom he spoke.
 <small><sub>**Literal:**</sub></small>
 And not they were able to withstand against the wisdom and against the Spirit by whom he was speaking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.9|<< Acts 6:9]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.11|Acts 6:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

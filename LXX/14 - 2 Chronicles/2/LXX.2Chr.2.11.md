@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 2:11** 
 <small><sub>**LXX:**</sub></small>
 And Hiram king of Tyre spoke by writing, and sent to Solomon, \[saying\], In the <span class="smallcaps">lord</span> loving  his people, he put you over them for king. 
-<small><sub>**KJV:**</sub></small>
-Then Huram the king of Tyre answered in writing, which he sent to Solomon, Because the LORD hath loved his people, he hath made thee king over them.
-<small><sub>**BSB:**</sub></small>
-Then Hiram king of Tyre wrote a letter in reply to Solomon: “Because the LORD loves His people, He has set you over them as king.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.10|<< 2 Chronicles 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.12|2 Chronicles 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

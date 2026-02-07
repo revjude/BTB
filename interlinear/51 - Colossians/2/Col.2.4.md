@@ -1,12 +1,12 @@
-**Colossians 2:4
-**<small><sub>**KJV:**</sub></small>
+**Colossians 2:4**<big><big>[[Col.2.1 Absent in Body, Present in Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this I say, lest any man should beguile you with enticing words.
 <small><sub>**BSB:**</sub></small>
 I say this so that no one will deceive you by smooth rhetoric.
 <small><sub>**Literal:**</sub></small>
 This now I say so that no one you may delude by persuasive speech;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.3|<< Colossians 2:3]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.5|Colossians 2:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Exodus 29:41** 
 <small><sub>**LXX:**</sub></small>
 And the lamb -- the second, you shall offer  at dusk, after the manner of the sacrifice -- the early morning, and according to  \[its\] libation you shall do it for a scented pleasant aroma, a yield \[offering\] \[to the\] <span class="smallcaps">lord</span>; 
-<small><sub>**KJV:**</sub></small>
-And the other lamb thou shalt offer at even, and shalt do thereto according to the meat offering of the morning, and according to the drink offering thereof, for a sweet savour, an offering made by fire unto the LORD.
-<small><sub>**BSB:**</sub></small>
-And offer the second lamb at twilight with the same grain offering and drink offering as in the morning, as a pleasing aroma, a food offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.40|<< Exodus 29:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.42|Exodus 29:42 >>]]</td></tr></table>
 
 | Translation | Greek |

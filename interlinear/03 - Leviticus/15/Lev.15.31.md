@@ -1,4 +1,4 @@
-**Leviticus 15:31** 
+**Leviticus 15:31**<big><big>[[Lev.15.28 The Cleansing of Women|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shall ye separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that [is] among them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must keep the children of Israel separate from their uncleanness, so that th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.30|<< Leviticus 15:30]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.32|Leviticus 15:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will keep separate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5144A\|הִזַּרְתֶּ֥ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.zar.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

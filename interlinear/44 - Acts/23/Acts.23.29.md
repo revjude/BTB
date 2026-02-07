@@ -1,12 +1,12 @@
-**Acts 23:29
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:29**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whom I perceived to be accused of questions of their law, but to have nothing laid to his charge worthy of death or of bonds.
 <small><sub>**BSB:**</sub></small>
 I found that the accusation involved questions about their own law, but there was no charge worthy of death or imprisonment.
 <small><sub>**Literal:**</sub></small>
 whom I found being accused concerning questions of the law of them, not however [of anything] worthy of death or of chains having accusation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.28|<< Acts 23:28]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.30|Acts 23:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I found |**<big>[[G2147\|εὗρον]]</big>**  |heuron <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

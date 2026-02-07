@@ -1,4 +1,4 @@
-**Isaiah 28:10** 
+**Isaiah 28:10**<big><big>[[Isa.28.1 The Captivity of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For precept [must be] upon precept, precept upon precept; line upon line, line upon line; here a little, [and] there a little:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For they hear: “Order on order, order on order, line on line, line on line; a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.9|<< Isaiah 28:9]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.11|Isaiah 28:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | command  |**<big>&#8207;[[H6673\|צַ֤ו]]&#8207; </big>**| tzav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

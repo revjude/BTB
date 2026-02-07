@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:23** 
 <small><sub>**LXX:**</sub></small>
 And concerning the word which we have spoken, I and you, behold, \[the\] <span class="smallcaps">lord</span> \[is\] witness between me and you unto \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-And [as touching] the matter which thou and I have spoken of, behold, the LORD [be] between thee and me for ever.
-<small><sub>**BSB:**</sub></small>
-And as for the matter you and I have discussed, the LORD is a witness between you and me forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.22|<< 1 Samuel 20:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.24|1 Samuel 20:24 >>]]</td></tr></table>
 
 | Translation | Greek |

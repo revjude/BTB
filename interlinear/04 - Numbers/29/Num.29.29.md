@@ -1,4 +1,4 @@
-**Numbers 29:29** 
+**Numbers 29:29**<big><big>[[Num.29.12 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the sixth day eight bullocks, two rams, [and] fourteen lambs of the first year without blemish:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the sixth day you are to present eight bulls, two rams, and fourteen male lam
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.28|<< Numbers 29:28]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.30|Numbers 29:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on the day  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּ֧וֹם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vai.<small><sup>[[HRd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> sixth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8345\|שִּׁשִּׁ֛י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> shi.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

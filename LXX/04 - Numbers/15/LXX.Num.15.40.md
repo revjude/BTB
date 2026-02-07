@@ -1,10 +1,7 @@
 **LXX Numbers 15:40** 
 <small><sub>**LXX:**</sub></small>
 so that you should remember and should do all  my commandments. And you shall be holy \[to\] your God. 
-<small><sub>**KJV:**</sub></small>
-That ye may remember, and do all my commandments, and be holy unto your God.
-<small><sub>**BSB:**</sub></small>
-Then you will remember and obey all My commandments, and you will be holy to your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.39|<< Numbers 15:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.41|Numbers 15:41 >>]]</td></tr></table>
 
 | Translation | Greek |

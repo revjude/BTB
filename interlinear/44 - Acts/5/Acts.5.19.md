@@ -1,12 +1,12 @@
-**Acts 5:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:19**<big><big>[[Acts.5.17 The Apostles Arrested and Freed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the angel of the Lord by night opened the prison doors, and brought them forth, and said,
 <small><sub>**BSB:**</sub></small>
 But during the night an angel of the Lord opened the doors of the jail and brought them out, saying,
 <small><sub>**Literal:**</sub></small>
 An angel however of [the] Lord during the night having opened the doors of the prison, having brought out then them said;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.18|<< Acts 5:18]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.20|Acts 5:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | An angel |**<big>[[G0032G\|Ἄγγελος]]</big>**  |Angelos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

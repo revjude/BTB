@@ -1,4 +1,4 @@
-**Job 4:11** 
+**Job 4:11**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The old lion perisheth for lack of prey, and the stout lion’s whelps are scattered abroad.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The old lion perishes for lack of prey, and the cubs of the lioness are scattere
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.10|<< Job 4:10]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.12|Job 4:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a lion  |**<big>&#8207;[[H3918\|לַ֭יִשׁ]]&#8207; </big>**| La.yish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] perishing  |**<big>&#8207;[[H0006\|אֹבֵ֣ד]]&#8207; </big>**| 'o.Ved<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

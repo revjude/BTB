@@ -1,12 +1,12 @@
-**Mark 4:7
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:7**<big><big>[[Mark.4.1 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And some fell among thorns, and the thorns grew up, and choked it, and it yielded no fruit.
 <small><sub>**BSB:**</sub></small>
 Other seed fell among thorns, which grew up and choked the seedlings, and they yielded no crop.
 <small><sub>**Literal:**</sub></small>
 And other fell among the thorns, and grew up the thorns and choked it, and fruit no it yielded.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.6|<< Mark 4:6]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.8|Mark 4:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | other |**<big>[[G0243\|ἄλλο]]</big>**  |allo <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

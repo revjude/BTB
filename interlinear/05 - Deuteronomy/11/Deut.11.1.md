@@ -1,4 +1,4 @@
-**Deuteronomy 11:1** 
+**Deuteronomy 11:1**<big><big>[[Deut.11.1 Obedience and Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thou shalt love the LORD thy God, and keep his charge, and his statutes, and his judgments, and his commandments, alway.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall therefore love the LORD your God and always keep His charge, His statu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.22|<< Deuteronomy 10:22]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.2|Deuteronomy 11:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will love  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0157G\|אָ֣הַבְתָּ֔]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'A.hav.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 11:16** 
 <small><sub>**LXX:**</sub></small>
 And there shall be a corridor to the one being left behind of my people, to the one being left behind from \[the\] Assyrians. And it will be  to Israel as in the day when they came forth from out of \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And there shall be an highway for the remnant of his people, which shall be left, from Assyria; like as it was to Israel in the day that he came up out of the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-There will be a highway for the remnant of His people who remain from Assyria, as there was for Israel when they came up from the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.15|<< Isaiah 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.12.1|Isaiah 12:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 11:16** is...

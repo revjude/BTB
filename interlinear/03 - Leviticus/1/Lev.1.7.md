@@ -1,4 +1,4 @@
-**Leviticus 1:7** 
+**Leviticus 1:7**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Aaron the priest shall put fire upon the altar, and lay the wood in order upon the fire:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Aaron the priest shall put a fire on the altar and arrange wood on t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.6|<< Leviticus 1:6]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.8|Leviticus 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will put  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H5414H\|נָתְנוּ]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> na.te.nu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֨י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

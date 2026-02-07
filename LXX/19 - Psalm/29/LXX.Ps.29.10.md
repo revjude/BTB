@@ -1,10 +1,7 @@
 **LXX Psalm 29:10** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> shall settle the flood; and \[the\] <span class="smallcaps">lord</span> will sit a king into the eon. 
-<small><sub>**KJV:**</sub></small>
-The LORD sitteth upon the flood; yea, the LORD sitteth King for ever.
-<small><sub>**BSB:**</sub></small>
-The LORD sits enthroned over the flood; the LORD is enthroned as King forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.29.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.29.9|<< Psalm 29:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.29.11|Psalm 29:11 >>]]</td></tr></table>
 
 | Translation | Greek |

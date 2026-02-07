@@ -1,12 +1,12 @@
-**Ephesians 4:16
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:16**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love.
 <small><sub>**BSB:**</sub></small>
 From Him the whole body, fitted and held together by every supporting ligament, grows and builds itself up in love through the work of each individual part.
 <small><sub>**Literal:**</sub></small>
 from whom all the body being joined together and being held together through every ligament of [its] supply according to [the] working in [the] measure individual of each part the increase of the body makes for itself to [the] building up of itself in love.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.15|<< Ephesians 4:15]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.17|Ephesians 4:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from |**<big>[[G1537\|ἐξ]]</big>**  |ex <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

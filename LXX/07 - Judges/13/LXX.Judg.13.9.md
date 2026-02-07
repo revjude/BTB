@@ -1,10 +1,7 @@
 **LXX Judges 13:9** 
 <small><sub>**LXX:**</sub></small>
 And God heeded the voice of Manoah; and the angel of God came again to the woman. And she sat in the field, and Manoah  her husband was not with her. 
-<small><sub>**KJV:**</sub></small>
-And God hearkened to the voice of Manoah; and the angel of God came again unto the woman as she sat in the field: but Manoah her husband [was] not with her.
-<small><sub>**BSB:**</sub></small>
-And God listened to the voice of Manoah, and the angel of God returned to the woman as she was sitting in the field; but her husband Manoah was not with her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.8|<< Judges 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.10|Judges 13:10 >>]]</td></tr></table>
 
 | Translation | Greek |

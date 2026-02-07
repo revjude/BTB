@@ -1,10 +1,7 @@
 **LXX Genesis 20:2** 
 <small><sub>**LXX:**</sub></small>
 And Abraham said concerning Sarah  his wife, that, She is my sister. For he feared to say that, She is my wife, lest at any time the men of the city should kill him on account of her. So Abimelech king of Gerar sent, and he took  Sarah. 
-<small><sub>**KJV:**</sub></small>
-And Abraham said of Sarah his wife, She [is] my sister: and Abimelech king of Gerar sent, and took Sarah.
-<small><sub>**BSB:**</sub></small>
-Abraham said of his wife Sarah, “She is my sister.” So Abimelech king of Gerar had Sarah brought to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.20.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.1|<< Genesis 20:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.3|Genesis 20:3 >>]]</td></tr></table>
 
 | Translation | Greek |

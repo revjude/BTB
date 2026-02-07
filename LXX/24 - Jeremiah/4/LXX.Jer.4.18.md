@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:18** 
 <small><sub>**LXX:**</sub></small>
  Your ways and  your practices did these \[things\] to you; this \[is\]  your evil, for \[it is\] bitter, for it touched unto  your heart. 
-<small><sub>**KJV:**</sub></small>
-Thy way and thy doings have procured these [things] unto thee; this [is] thy wickedness, because it is bitter, because it reacheth unto thine heart.
-<small><sub>**BSB:**</sub></small>
-“Your ways and deeds have brought this upon you. This is your punishment; how bitter it is, because it pierces to the heart!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.17|<< Jeremiah 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.19|Jeremiah 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] molding upon them \[was\] of brass, and the length \[was\] five cubits, superior of the molding of the one. And a latticed \[work\] and pomegranates \[were\] upon the molding round about,  all of brass; according to these \[things\] \[was\] the second column and pomegranates. 
-<small><sub>**KJV:**</sub></small>
-And a chapiter of brass [was] upon it; and the height of one chapiter [was] five cubits, with network and pomegranates upon the chapiters round about, all [of] brass. The second pillar also and the pomegranates [were] like unto these.
-<small><sub>**BSB:**</sub></small>
-The bronze capital atop one pillar was five cubits high, with a network of bronze pomegranates all around. The second pillar, with its pomegranates, was similar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.21|<< Jeremiah 52:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.23|Jeremiah 52:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 2:19** 
+**Proverbs 2:19**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 None that go unto her return again, neither take they hold of the paths of life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ None who go to her return or negotiate the paths of life.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.18|<< Proverbs 2:18]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.20|Proverbs 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] go to her  |**<big>&#8207;[[H0935G\|בָּ֭אֶי]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| Ba.'ei.<small><sup>[[HVqrmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:13** 
 <small><sub>**LXX:**</sub></small>
 And David called him. And he ate before him, and drank. And he intoxicated him. And he went forth at evening  to go to bed upon  his bed with the servants  of his master, but he did not go down unto his house. 
-<small><sub>**KJV:**</sub></small>
-And when David had called him, he did eat and drink before him; and he made him drunk: and at even he went out to lie on his bed with the servants of his lord, but went not down to his house.
-<small><sub>**BSB:**</sub></small>
-Then David invited Uriah to eat and drink with him, and he got Uriah drunk. And in the evening Uriah went out to lie down on his cot with his master’s servants, but he did not go home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.12|<< 2 Samuel 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.14|2 Samuel 11:14 >>]]</td></tr></table>
 
 | Translation | Greek |

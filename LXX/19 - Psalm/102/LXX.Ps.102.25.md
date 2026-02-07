@@ -1,10 +1,7 @@
 **LXX Psalm 102:25** 
 <small><sub>**LXX:**</sub></small>
 At \[the\] beginning, you, O <span class="smallcaps">lord</span>, laid a foundation for the earth; and \[the\] works  of your hands are the heavens. 
-<small><sub>**KJV:**</sub></small>
-Of old hast thou laid the foundation of the earth: and the heavens [are] the work of thy hands.
-<small><sub>**BSB:**</sub></small>
-In the beginning You laid the foundations of the earth, and the heavens are the work of Your hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.24|<< Psalm 102:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.26|Psalm 102:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 102:25** is...

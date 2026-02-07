@@ -1,10 +1,7 @@
 **LXX Psalm 27:4** 
 <small><sub>**LXX:**</sub></small>
 One \[thing\] I asked of \[the\] <span class="smallcaps">lord</span>, this I shall seek --  for me to dwell in \[the\] house of \[the\] <span class="smallcaps">lord</span> all the days  of my life;  for me to view the delightfulness of \[the\] <span class="smallcaps">lord</span>, and to visit  his holy temple. 
-<small><sub>**KJV:**</sub></small>
-One [thing] have I desired of the LORD, that will I seek after; that I may dwell in the house of the LORD all the days of my life, to behold the beauty of the LORD, and to inquire in his temple.
-<small><sub>**BSB:**</sub></small>
-One thing I have asked of the LORD; this is what I desire: to dwell in the house of the LORD all the days of my life, to gaze on the beauty of the LORD and seek Him in His temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.27.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.27.3|<< Psalm 27:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.27.5|Psalm 27:5 >>]]</td></tr></table>
 
 | Translation | Greek |

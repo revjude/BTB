@@ -1,4 +1,4 @@
-**Genesis 27:28** 
+**Genesis 27:28**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ May God give to you the dew of heaven and the richness of the earth—an abundan
 > $\quad$ referenced by: [[Heb.11.20|Heb 11:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and may he give  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5414G\|יִֽתֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.ten-<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

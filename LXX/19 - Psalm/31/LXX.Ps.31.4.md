@@ -1,10 +1,7 @@
 **LXX Psalm 31:4** 
 <small><sub>**LXX:**</sub></small>
 You shall lead me out of \[the\] snare which these hid for me; for you are  my defender, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Pull me out of the net that they have laid privily for me: for thou [art] my strength.
-<small><sub>**BSB:**</sub></small>
-You free me from the net laid out for me, for You are my refuge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.3|<< Psalm 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.5|Psalm 31:5 >>]]</td></tr></table>
 
 | Translation | Greek |

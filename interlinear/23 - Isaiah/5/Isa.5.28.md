@@ -1,4 +1,4 @@
-**Isaiah 5:28** 
+**Isaiah 5:28**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whose arrows [are] sharp, and all their bows bent, their horses’ hoofs shall be counted like flint, and their wheels like a whirlwind:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their arrows are sharpened, and all their bows are strung. The hooves of their h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.27|<< Isaiah 5:27]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.29|Isaiah 5:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | arrows its  |**<big>&#8207;[[H2671\|חִצָּי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| chi.Tza<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

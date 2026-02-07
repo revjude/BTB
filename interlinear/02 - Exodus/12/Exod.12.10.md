@@ -1,4 +1,4 @@
-**Exodus 12:10** 
+**Exodus 12:10**<big><big>[[Exod.12.1 The First Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall let nothing of it remain until the morning; and that which remaineth of it until the morning ye shall burn with fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not leave any of it until morning; before the morning you must burn up any pa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.9|<< Exodus 12:9]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.11|Exodus 12:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will leave over  |**<big>&#8207;[[H3498\|תוֹתִ֥ירוּ]]&#8207; </big>**| to.Ti.ru<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

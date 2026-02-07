@@ -1,12 +1,12 @@
-**Mark 3:21
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:21**<big><big>[[Mark.3.20 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when his friends heard [of it], they went out to lay hold on him: for they said, He is beside himself.
 <small><sub>**BSB:**</sub></small>
 When His family heard about this, they went out to take custody of Him, saying, “He is out of His mind.”
 <small><sub>**Literal:**</sub></small>
 And having heard [of it] those belonging to Him went out to seize Him; they were saying for that He is crazy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.20|<< Mark 3:20]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.22|Mark 3:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having heard [of it] |**<big>[[G0191\|ἀκούσαντες]]</big>**  |akousantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

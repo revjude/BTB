@@ -1,10 +1,7 @@
 **LXX Exodus 22:7** 
 <small><sub>**LXX:**</sub></small>
 And if any should give to \[his\] neighbor silver or items to guard, and it should be stolen from out of the house of the man, if the one stealing should be found he shall pay double. 
-<small><sub>**KJV:**</sub></small>
-If a man shall deliver unto his neighbour money or stuff to keep, and it be stolen out of the man’s house; if the thief be found, let him pay double.
-<small><sub>**BSB:**</sub></small>
-If a man gives his neighbor money or goods for safekeeping and they are stolen from the neighbor’s house, the thief, if caught, must pay back double.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.6|<< Exodus 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.8|Exodus 22:8 >>]]</td></tr></table>
 
 | Translation | Greek |

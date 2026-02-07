@@ -1,10 +1,7 @@
 **LXX Judges 1:26** 
 <small><sub>**LXX:**</sub></small>
 And the man went forth into \[the\] land of \[the\] Hittite, and he built there a city, and he called the name of it, Luz; this \[is\] its name until  this day. 
-<small><sub>**KJV:**</sub></small>
-And the man went into the land of the Hittites, and built a city, and called the name thereof Luz: which [is] the name thereof unto this day.
-<small><sub>**BSB:**</sub></small>
-And the man went to the land of the Hittites, built a city, and called it Luz, which is its name to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.25|<< Judges 1:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.27|Judges 1:27 >>]]</td></tr></table>
 
 | Translation | Greek |

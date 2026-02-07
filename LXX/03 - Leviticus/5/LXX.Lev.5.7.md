@@ -1,10 +1,7 @@
 **LXX Leviticus 5:7** 
 <small><sub>**LXX:**</sub></small>
 And if his hand is not strong  to be fit for \[bringing\] the sheep, he shall bring for  his sin \[offering\] of which he sinned, two turtle-doves, or two young pigeons to the <span class="smallcaps">lord</span>; one for a sin \[offering\], and one for a whole burnt-offering. 
-<small><sub>**KJV:**</sub></small>
-And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the LORD; one for a sin offering, and the other for a burnt offering.
-<small><sub>**BSB:**</sub></small>
-If, however, he cannot afford a lamb, he may bring to the LORD as restitution for his sin two turtledoves or two young pigeons—one as a sin offering and the other as a burnt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.6|<< Leviticus 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.8|Leviticus 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

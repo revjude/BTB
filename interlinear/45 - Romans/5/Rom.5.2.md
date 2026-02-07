@@ -1,12 +1,12 @@
-**Romans 5:2
-**<small><sub>**KJV:**</sub></small>
+**Romans 5:2**<big><big>[[Rom.5.1 The Triumph of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God.
 <small><sub>**BSB:**</sub></small>
 through whom we have gained access by faith into this grace in which we stand. And we rejoice in the hope of the glory of God.
 <small><sub>**Literal:**</sub></small>
 through whom also <the> access we have had <the> by faith into <the> grace this in which we have stood, and we boast in hope of the glory <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.1|<< Romans 5:1]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.3|Romans 5:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | through |**<big>[[G1223\|δι᾽]]</big>**  |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

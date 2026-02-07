@@ -1,12 +1,12 @@
-**Matthew 2:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:19**<big><big>[[Matt.2.19 The Return to Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,
 <small><sub>**BSB:**</sub></small>
 After Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt.
 <small><sub>**Literal:**</sub></small>
 When was dying now <the> Herod behold an angel of [the] Lord appears in a dream <the> to Joseph in Egypt<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.18|<< Matthew 2:18]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.20|Matthew 2:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was dying |**<big>[[G5053\|Τελευτήσαντος]]</big>**  |Teleutēsantos <small><sup>[[V-AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

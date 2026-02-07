@@ -1,4 +1,4 @@
-**Judges 7:1** 
+**Judges 7:1**<big><big>[[Judg.7.1 Gideon’s Army of Three Hundred|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jerubbaal, who [is] Gideon, and all the people that [were] with him, rose up early, and pitched beside the well of Harod: so that the host of the Midianites were on the north side of them, by the hill of Moreh, in the valley.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Early in the morning Jerubbaal (that is, Gideon) and all the men with him camped
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.40|<< Judges 6:40]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.2|Judges 7:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rose early  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7925\|יַּשְׁכֵּ֨ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Kem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jerub-Baal  |**<big>&#8207;[[H3378\|יְרֻבַּ֜עַל]]&#8207; </big>**| ye.ru.Ba.'al<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

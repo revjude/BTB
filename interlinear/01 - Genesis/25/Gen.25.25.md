@@ -1,4 +1,4 @@
-**Genesis 25:25** 
+**Genesis 25:25**<big><big>[[Gen.25.19 Jacob and Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the first came out red, all over like an hairy garment; and they called his name Esau.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The first one came out red, covered with hair like a fur coat; so they named him
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.24|<< Genesis 25:24]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.26|Genesis 25:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318M\|יֵּצֵ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the first  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7223G\|רִאשׁוֹן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ri.shOn<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

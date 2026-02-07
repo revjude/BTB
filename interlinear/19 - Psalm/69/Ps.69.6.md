@@ -1,4 +1,4 @@
-**Psalms 69:6** (69:7)
+**Psalms 69:6**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let not them that wait on thee, O Lord GOD of hosts, be ashamed for my sake: let not those that seek thee be confounded for my sake, O God of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May those who hope in You not be ashamed through me, O Lord GOD of Hosts; may th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.5|<< Psalms 69:5]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.7|Psalms 69:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they be ashamed  |**<big>&#8207;[[H0954\|יֵ֘בֹ֤שׁוּ]]&#8207; </big>**| ye.Vo.shu<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

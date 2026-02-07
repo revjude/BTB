@@ -1,10 +1,7 @@
 **LXX Ezekiel 38:11** 
 <small><sub>**LXX:**</sub></small>
 And you shall say, I will ascend upon \[the\] land having been thrown away; I will come upon ones being still at rest, and living in peace, all dwelling in a land in which no wall exists, nor bars, and there are no doors among them; 
-<small><sub>**KJV:**</sub></small>
-And thou shalt say, I will go up to the land of unwalled villages; I will go to them that are at rest, that dwell safely, all of them dwelling without walls, and having neither bars nor gates,
-<small><sub>**BSB:**</sub></small>
-You will say, ‘I will go up against a land of unwalled villages; I will come against a quiet people who dwell securely, all of them living without walls or bars or gates—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.38.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.38.10|<< Ezekiel 38:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.12|Ezekiel 38:12 >>]]</td></tr></table>
 
 | Translation | Greek |

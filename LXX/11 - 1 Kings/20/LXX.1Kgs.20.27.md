@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:27** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel were mustered, and they came to meet them. And Israel camped right opposite them, as two flocks of goats. And Syria filled the land. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel were numbered, and were all present, and went against them: and the children of Israel pitched before them like two little flocks of kids; but the Syrians filled the country.
-<small><sub>**BSB:**</sub></small>
-The Israelites also mobilized, gathered supplies, and marched out to meet them. The Israelites camped before them like two small flocks of goats, while the Arameans covered the countryside.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.26|<< 1 Kings 20:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.28|1 Kings 20:28 >>]]</td></tr></table>
 
 | Translation | Greek |

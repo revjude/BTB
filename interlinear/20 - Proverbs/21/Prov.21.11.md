@@ -1,4 +1,4 @@
-**Proverbs 21:11** 
+**Proverbs 21:11**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When a mocker is punished, the simple gain wisdom; and when a wise man is instru
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.10|<< Proverbs 21:10]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.12|Proverbs 21:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when punish  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6064\|עְנָשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ba<small><sup>[[HR]]</sup></small> '.nosh-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a mocker  |**<big>&#8207;[[H3887\|לֵ֭ץ]]&#8207; </big>**| letz<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 31:7** 
 <small><sub>**LXX:**</sub></small>
  But your father cheated me, and bartered  my wage for the ten lambs. And the God of my father did not give to him \[the power\] to do evil \[against\] me. 
-<small><sub>**KJV:**</sub></small>
-And your father hath deceived me, and changed my wages ten times; but God suffered him not to hurt me.
-<small><sub>**BSB:**</sub></small>
-And although he has cheated me and changed my wages ten times, God has not allowed him to harm me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.6|<< Genesis 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.8|Genesis 31:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 16:34** 
 <small><sub>**LXX:**</sub></small>
 In which manner \[the\] <span class="smallcaps">lord</span> ordered  Moses, even Aaron aside it before the testimony for preservation. 
-<small><sub>**KJV:**</sub></small>
-As the LORD commanded Moses, so Aaron laid it up before the Testimony, to be kept.
-<small><sub>**BSB:**</sub></small>
-And Aaron placed it in front of the Testimony, to be preserved just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.33|<< Exodus 16:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.35|Exodus 16:35 >>]]</td></tr></table>
 
 | Translation | Greek |

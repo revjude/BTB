@@ -1,4 +1,4 @@
-**Psalms 106:9** 
+**Psalms 106:9**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He rebuked the Red Sea, and it dried up; He led them through the depths as throu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.8|<< Psalms 106:8]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.10|Psalms 106:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rebuked  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1605\|יִּגְעַ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yig.'Ar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> [the] sea of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3220G\|יַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yam-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

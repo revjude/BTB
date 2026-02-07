@@ -1,10 +1,7 @@
 **LXX Nehemiah 12:44** 
 <small><sub>**LXX:**</sub></small>
 And they ordained in  that day men over the treasuries, for the treasures, for the first-fruits, and for the tenths,  to gather in to them from the fields of the cities portions to the priests and to the Levites; for there was gladness in Judah, and upon the priests, and the Levites, of the ones standing. 
-<small><sub>**KJV:**</sub></small>
-And at that time were some appointed over the chambers for the treasures, for the offerings, for the firstfruits, and for the tithes, to gather into them out of the fields of the cities the portions of the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited.
-<small><sub>**BSB:**</sub></small>
-And on that same day men were appointed over the rooms that housed the supplies, contributions, firstfruits, and tithes. The portions specified by the Law for the priests and Levites were gathered into these storerooms from the fields of the villages, because Judah rejoiced over the priests and Levites who were serving.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.43|<< Nehemiah 12:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.45|Nehemiah 12:45 >>]]</td></tr></table>
 
 | Translation | Greek |

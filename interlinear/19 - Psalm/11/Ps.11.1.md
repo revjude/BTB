@@ -1,12 +1,12 @@
-**Psalms 11:1** 
+**Psalms 11:1**<big><big>[[Ps.11.1 In the LORD I Take Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, [A Psalm] of David. In the LORD put I my trust: how say ye to my soul, Flee [as] a bird to your mountain?
+In the LORD put I my trust: how say ye to my soul, Flee [as] a bird to your mountain?
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. Of David. In the LORD I take refuge. How then can you say to me: “Flee like a bird to your mountain!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.11.0|<< Psalms 11:0]]</td><td align="center" style="border:none;">[[Ps.11|Psalms 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.11.2|Psalms 11:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in Yahweh  |**<big>&#8207;[[H9003\|בַּֽ]]&#8207;&#8207;[[H3068G\|יהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have taken refuge  |**<big>&#8207;[[H2620\|חָסִ֗יתִי]]&#8207; </big>**| cha.Si.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

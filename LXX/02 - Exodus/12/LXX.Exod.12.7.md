@@ -1,10 +1,7 @@
 **LXX Exodus 12:7** 
 <small><sub>**LXX:**</sub></small>
 And they shall take from the blood, and they shall put \[it\] upon the two doorposts, and upon the lintel on the houses in which they should eat them in them. 
-<small><sub>**KJV:**</sub></small>
-And they shall take of the blood, and strike [it] on the two side posts and on the upper door post of the houses, wherein they shall eat it.
-<small><sub>**BSB:**</sub></small>
-They are to take some of the blood and put it on the sides and tops of the doorframes of the houses where they eat the lambs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.6|<< Exodus 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.8|Exodus 12:8 >>]]</td></tr></table>
 
 | Translation | Greek |

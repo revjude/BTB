@@ -1,10 +1,7 @@
 **LXX Proverbs 17:3** 
 <small><sub>**LXX:**</sub></small>
 As silver and gold tried in a furnace; so choice hearts by \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-The fining pot [is] for silver, and the furnace for gold: but the LORD trieth the hearts.
-<small><sub>**BSB:**</sub></small>
-A crucible for silver and a furnace for gold, but the LORD is the tester of hearts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.2|<< Proverbs 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.4|Proverbs 17:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Hebrews 7:11
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:11**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need [was there] that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?
 <small><sub>**BSB:**</sub></small>
 Now if perfection could have been attained through the Levitical priesthood (for on this basis the people received the law), why was there still need for another priest to appear—one in the order of Melchizedek and not in the order of Aaron?
 <small><sub>**Literal:**</sub></small>
 If indeed then perfection through the Levitical priesthood were — the people for upon it has received [the] Law — what still need [was there] according to the order of Melchizedek [for] another to arise priest and not according to the order of Aaron to be named?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.10|<< Hebrews 7:10]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.12|Hebrews 7:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

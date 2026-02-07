@@ -1,12 +1,12 @@
-**1 Timothy 5:13
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 5:13**<big><big>[[1Tim.5.3 Honoring True Widows|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And withal they learn [to be] idle, wandering about from house to house; and not only idle, but tattlers also and busybodies, speaking things which they ought not.
 <small><sub>**BSB:**</sub></small>
 At the same time they will also learn to be idle, going from house to house and being not only idle, but also gossips and busybodies, discussing things they should not mention.
 <small><sub>**Literal:**</sub></small>
 At the same time then also [to be] idle they learn going about <the> house to house. not only then idle, but also gossips and busybodies, speaking <the> [things] not being proper.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.12|<< 1 Timothy 5:12]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.14|1 Timothy 5:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | At the same time |**<big>[[G0260\|ἅμα]]</big>**  |hama <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

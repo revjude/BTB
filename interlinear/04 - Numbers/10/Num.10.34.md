@@ -1,4 +1,4 @@
-**Numbers 10:34** 
+**Numbers 10:34**<big><big>[[Num.10.11 From Sinai to Paran|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the cloud of the LORD [was] upon them by day, when they went out of the camp.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the cloud of the LORD was over them by day when they set out from the camp.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.33|<< Numbers 10:33]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.35|Numbers 10:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] cloud of  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6051\|עֲנַ֧ן]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Nan<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

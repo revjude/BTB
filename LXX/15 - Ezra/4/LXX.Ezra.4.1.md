@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the ones afflicting Judah and Benjamin heard that the sons of the resettlement were building a house to the <span class="smallcaps">lord</span>  God of Israel. 
-<small><sub>**KJV:**</sub></small>
-Now when the adversaries of Judah and Benjamin heard that the children of the captivity builded the temple unto the LORD God of Israel;
-<small><sub>**BSB:**</sub></small>
-When the enemies of Judah and Benjamin heard that the exiles were building a temple for the LORD, the God of Israel,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.13|<< Ezra 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.2|Ezra 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

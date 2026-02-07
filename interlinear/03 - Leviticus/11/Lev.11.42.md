@@ -1,4 +1,4 @@
-**Leviticus 11:42** 
+**Leviticus 11:42**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whatsoever goeth upon the belly, and whatsoever goeth upon [all] four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they [are] an abomination.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not eat any creature that moves along the ground, whether it crawls on its be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.41|<< Leviticus 11:41]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.43|Leviticus 11:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | any  |**<big>&#8207;[[H3605\|כֹּל֩]]&#8207; </big>**| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one which] walks  |**<big>&#8207;[[H1980I\|הוֹלֵ֨ךְ]]&#8207; </big>**| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

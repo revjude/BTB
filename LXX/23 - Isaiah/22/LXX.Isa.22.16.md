@@ -1,10 +1,7 @@
 **LXX Isaiah 22:16** 
 <small><sub>**LXX:**</sub></small>
 Why are you here? and what is there to you here? that you quarried for yourself here a memorial, and made for yourself in a high \[place\] a memorial, and depicted to yourself a dwelling in \[the\] rock. 
-<small><sub>**KJV:**</sub></small>
-What hast thou here? and whom hast thou here, that thou hast hewed thee out a sepulchre here, [as] he that heweth him out a sepulchre on high, [and] that graveth an habitation for himself in a rock?
-<small><sub>**BSB:**</sub></small>
-What are you doing here, and who authorized you to carve out a tomb for yourself here—to chisel your tomb in the height and cut your resting place in the rock?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.15|<< Isaiah 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.17|Isaiah 22:17 >>]]</td></tr></table>
 
 | Translation | Greek |

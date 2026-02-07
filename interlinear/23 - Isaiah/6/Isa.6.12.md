@@ -1,4 +1,4 @@
-**Isaiah 6:12** 
+**Isaiah 6:12**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD have removed men far away, and [there be] a great forsaking in the midst of the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ until the LORD has driven men far away and the land is utterly forsaken.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.11|<< Isaiah 6:11]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.13|Isaiah 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will send far away  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7368\|רִחַ֥ק]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ri.Chak<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

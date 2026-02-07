@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:27** 
 <small><sub>**LXX:**</sub></small>
 And there was born to  Absalom three sons and one daughter, and her name \[was\] Tamar, she was an exceedingly goodly woman. 
-<small><sub>**KJV:**</sub></small>
-And unto Absalom there were born three sons, and one daughter, whose name [was] Tamar: she was a woman of a fair countenance.
-<small><sub>**BSB:**</sub></small>
-Three sons were born to Absalom, and a daughter named Tamar, who was a beautiful woman.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.26|<< 2 Samuel 14:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.28|2 Samuel 14:28 >>]]</td></tr></table>
 
 | Translation | Greek |

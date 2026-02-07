@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joseph \[was\] not able to withhold of all the \[ones\] standing beside him. But he said, Send all from me! And  no one stood beside  Joseph when he made himself known to his brothers. 
-<small><sub>**KJV:**</sub></small>
-Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren.
-<small><sub>**BSB:**</sub></small>
-Then Joseph could no longer control himself before all his attendants, and he cried out, “Send everyone away from me!” So none of them were with Joseph when he made himself known to his brothers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.34|<< Genesis 44:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.2|Genesis 45:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 45:1** is...

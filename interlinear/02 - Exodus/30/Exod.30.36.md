@@ -1,4 +1,4 @@
-**Exodus 30:36** 
+**Exodus 30:36**<big><big>[[Exod.30.34 The Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt beat [some] of it very small, and put of it before the testimony in the tabernacle of the congregation, where I will meet with thee: it shall be unto you most holy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Grind some of it into fine powder and place it in front of the Testimony in the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.35|<< Exodus 30:35]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.37|Exodus 30:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will beat fine  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7833\|שָֽׁחַקְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.chak.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of it  |**<big>&#8207;[[H4480A\|מִמֶּ]]&#8207;&#8207;[[H9034\|נָּה֮]]&#8207; </big>**| mi.me.<small><sup>[[HRd]]</sup></small> Nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

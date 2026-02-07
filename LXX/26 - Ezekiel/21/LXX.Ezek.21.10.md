@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:10** 
 <small><sub>**LXX:**</sub></small>
 so that you should slay victims for slaughter. Be sharpened! so that you should become  shiny. Prepare for paralysis! Slay! Treat with contempt! Put aside every tree! 
-<small><sub>**KJV:**</sub></small>
-It is sharpened to make a sore slaughter; it is furbished that it may glitter: should we then make mirth? it contemneth the rod of my son, [as] every tree.
-<small><sub>**BSB:**</sub></small>
-it is sharpened for the slaughter, polished to flash like lightning! Should we rejoice in the scepter of My son? The sword despises every such stick.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.9|<< Ezekiel 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.11|Ezekiel 21:11 >>]]</td></tr></table>
 
 | Translation | Greek |

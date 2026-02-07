@@ -1,10 +1,7 @@
 **LXX Esther 7:9** 
 <small><sub>**LXX:**</sub></small>
 And Harbonah one of the eunuchs said to the king, Behold, Haman prepared even a tree \[for\] Mordecai, to the one speaking for the king, and it was set straight up in the \[places\] of Haman -- of fifty cubits. And the king said, Let him be crucified upon it! 
-<small><sub>**KJV:**</sub></small>
-And Harbonah, one of the chamberlains, said before the king, Behold also, the gallows fifty cubits high, which Haman had made for Mordecai, who had spoken good for the king, standeth in the house of Haman. Then the king said, Hang him thereon.
-<small><sub>**BSB:**</sub></small>
-Then Harbonah, one of the eunuchs attending the king, said: “There is a gallows fifty cubits high at Haman’s house. He had it built for Mordecai, who gave the report that saved the king.” “Hang him on it!” declared the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.8|<< Esther 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.10|Esther 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

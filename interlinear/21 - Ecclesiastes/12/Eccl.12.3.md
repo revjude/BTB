@@ -1,4 +1,4 @@
-**Ecclesiastes 12:3** 
+**Ecclesiastes 12:3**<big><big>[[Eccl.12.1 Remember Your Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the day when the keepers of the house shall tremble, and the strong men shall bow themselves, and the grinders cease because they are few, and those that look out of the windows be darkened,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ on the day the keepers of the house tremble and the strong men stoop, when those
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.2|<< Ecclesiastes 12:2]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.4|Ecclesiastes 12:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּ֗וֹם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when they will tremble  |**<big>&#8207;[[H9007\|שֶׁ]]&#8207;&#8207;[[H2111\|יָּזֻ֙עוּ֙]]&#8207; </big>**| shei.<small><sup>[[HTr]]</sup></small> ya.Zu.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:15** 
 <small><sub>**LXX:**</sub></small>
 And now for which I came to speak to my master the king  this word, for the people see me; and your maidservant will say, your maidservant speak indeed to  my master the king, if by any means the king shall do the matter  of his maidservant; 
-<small><sub>**KJV:**</sub></small>
-Now therefore that I am come to speak of this thing unto my lord the king, [it is] because the people have made me afraid: and thy handmaid said, I will now speak unto the king; it may be that the king will perform the request of his handmaid.
-<small><sub>**BSB:**</sub></small>
-Now therefore, I have come to present this matter to my lord the king because the people have made me afraid. Your servant thought, ‘I will speak to the king. Perhaps he will grant the request of his maidservant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.14|<< 2 Samuel 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.16|2 Samuel 14:16 >>]]</td></tr></table>
 
 | Translation | Greek |

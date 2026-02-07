@@ -1,10 +1,7 @@
 **LXX Hosea 11:7** 
 <small><sub>**LXX:**</sub></small>
 And  his people are hanging from the \[thing\] of his house; and  God shall be enraged against his esteemed, and in no way should he exalt him. 
-<small><sub>**KJV:**</sub></small>
-And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt [him].
-<small><sub>**BSB:**</sub></small>
-My people are bent on turning from Me. Though they call to the Most High, He will by no means exalt them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.6|<< Hosea 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.8|Hosea 11:8 >>]]</td></tr></table>
 
 | Translation | Greek |

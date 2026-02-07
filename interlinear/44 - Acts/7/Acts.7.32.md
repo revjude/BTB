@@ -1,5 +1,5 @@
-**Acts 7:32
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:32**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Saying], I [am] the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.
 <small><sub>**BSB:**</sub></small>
 ‘I am the God of your fathers, the God of Abraham, Isaac, and Jacob.’ Moses trembled with fear and did not dare to look.
@@ -11,7 +11,7 @@ I myself [am] the God of the Fathers of you, the God of Abraham and the God of I
 > $\quad$ alluding to: [[LXX.Exod.3.15|Exod 3:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself [am] |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

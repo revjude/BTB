@@ -1,10 +1,7 @@
 **LXX Psalm 22:7** 
 <small><sub>**LXX:**</sub></small>
 All the ones viewing me derided me; they speak with \[their\] lips, they shook \[their\] head, \[saying\], 
-<small><sub>**KJV:**</sub></small>
-All they that see me laugh me to scorn: they shoot out the lip, they shake the head, [saying],
-<small><sub>**BSB:**</sub></small>
-All who see me mock me; they sneer and shake their heads:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.6|<< Psalm 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.8|Psalm 22:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:7** is...

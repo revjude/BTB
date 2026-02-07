@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:37** 
 <small><sub>**LXX:**</sub></small>
 A sword upon  their horses, and upon  their chariots, and upon the consolidation (the one in \[the\] midst of her,) and they will be as women. A sword upon  her treasures, and they shall be plundered. 
-<small><sub>**KJV:**</sub></small>
-A sword [is] upon their horses, and upon their chariots, and upon all the mingled people that [are] in the midst of her; and they shall become as women: a sword [is] upon her treasures; and they shall be robbed.
-<small><sub>**BSB:**</sub></small>
-A sword is against her horses and chariots and against all the foreigners in her midst, and they will become like women. A sword is against her treasuries, and they will be plundered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.36|<< Jeremiah 50:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.38|Jeremiah 50:38 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Habakkuk 3:19** 
+**Habakkuk 3:19**<big><big>[[Hab.3.17 Habakkuk Rejoices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD God [is] my strength, and he will make my feet like hinds’ [feet], and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ GOD the Lord is my strength; He makes my feet like those of a deer; He makes me 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.18|<< Habakkuk 3:18]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.1|Zephaniah 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3069\|יְהוִ֤הּ]]&#8207; </big>**[^1] | Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָי֙]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

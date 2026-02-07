@@ -1,5 +1,5 @@
-**Matthew 10:36
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:36**<big><big>[[Matt.10.34 Not Peace but a Sword|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And a man’s foes [shall be] they of his own household.
 <small><sub>**BSB:**</sub></small>
 A man’s enemies will be the members of his own household.’
@@ -10,7 +10,7 @@ And enemies of the man the household of him.<br><table width="100%" border="0"><
 > $\quad$ referencing: [[LXX.Mic.7.6|Mic 7:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | enemies |**<big>[[G2190\|ἐχθροὶ]]</big>**  |echthroi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 35:15** 
 <small><sub>**LXX:**</sub></small>
 As you were glad in the inheritance of \[the\] house of Israel, that it was obliterated, thus I shall do you. For you will be a wilderness, O mount Seir, and all  Edom shall be completely consumed. And you shall know that I am \[the\] <span class="smallcaps">lord</span>  God. 
-<small><sub>**KJV:**</sub></small>
-As thou didst rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto thee: thou shalt be desolate, O mount Seir, and all Idumea, [even] all of it: and they shall know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-As you rejoiced when the inheritance of the house of Israel became desolate, so will I do to you. You will become a desolation, O Mount Seir, and so will all of Edom. Then they will know that I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.35.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.14|<< Ezekiel 35:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.1|Ezekiel 36:1 >>]]</td></tr></table>
 
 | Translation | Greek |

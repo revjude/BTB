@@ -1,4 +1,4 @@
-**Lamentations 2:3** 
+**Lamentations 2:3**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath cut off in [his] fierce anger all the horn of Israel: he hath drawn back his right hand from before the enemy, and he burned against Jacob like a flaming fire, [which] devoureth round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In fierce anger He has cut off every horn of Israel and withdrawn His right hand
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.2|<< Lamentations 2:2]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.4|Lamentations 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has cut off  |**<big>&#8207;[[H1438\|גָּדַ֣ע]]&#8207; </big>**| ga.Da'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] heat of  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H2750\|חֳרִי]]&#8207; </big>**[^1] | bo.<small><sup>[[HR]]</sup></small> cho.ri-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |

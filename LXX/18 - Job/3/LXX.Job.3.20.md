@@ -1,10 +1,7 @@
 **LXX Job 3:20** 
 <small><sub>**LXX:**</sub></small>
 For why light been given to the ones in bitterness, and life to the souls in griefs? 
-<small><sub>**KJV:**</sub></small>
-Wherefore is light given to him that is in misery, and life unto the bitter [in] soul;
-<small><sub>**BSB:**</sub></small>
-Why is light given to the miserable, and life to the bitter of soul,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.19|<< Job 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.21|Job 3:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:26** 
 <small><sub>**LXX:**</sub></small>
 And  to Abiathar the priest the king said, Run unto Anathoth, to  your field! for your are a man \[marked for\] death, and from  this day you to death, for you lifted the ark of the covenant of \[the\] <span class="smallcaps">lord</span> before David  my father, and because you were mistreated in all \[ways\] which my father was mistreated. 
-<small><sub>**KJV:**</sub></small>
-And unto Abiathar the priest said the king, Get thee to Anathoth, unto thine own fields; for thou [art] worthy of death: but I will not at this time put thee to death, because thou barest the ark of the Lord GOD before David my father, and because thou hast been afflicted in all wherein my father was afflicted.
-<small><sub>**BSB:**</sub></small>
-Then the king said to Abiathar the priest, “Go back to your fields in Anathoth. Even though you deserve to die, I will not put you to death at this time, since you carried the ark of the Lord GOD before my father David, and you suffered through all that my father suffered.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.25|<< 1 Kings 2:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.27|1 Kings 2:27 >>]]</td></tr></table>
 
 | Translation | Greek |

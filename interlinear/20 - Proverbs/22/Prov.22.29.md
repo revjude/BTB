@@ -1,4 +1,4 @@
-**Proverbs 22:29** 
+**Proverbs 22:29**<big><big>[[Prov.22.29 Saying 6|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seest thou a man diligent in his business? he shall stand before kings; he shall not stand before mean [men].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do you see a man skilled in his work? He will be stationed in the presence of ki
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.28|<< Proverbs 22:28]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.1|Proverbs 23:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you see  |**<big>&#8207;[[H2372\|חָזִ֡יתָ]]&#8207; </big>**| cha.Zi.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a person  |**<big>&#8207;[[H0376G\|אִ֤ישׁ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:46** 
 <small><sub>**LXX:**</sub></small>
 \[If it be\] that they shall sin against you, for there is no man who shall not sin, and if you should strike upon them, and should deliver them \[up\] before \[their\] enemies, and the ones taking captive should take them captive into a land far or near; 
-<small><sub>**KJV:**</sub></small>
-If they sin against thee, (for [there is] no man that sinneth not,) and thou be angry with them, and deliver them to the enemy, so that they carry them away captives unto the land of the enemy, far or near;
-<small><sub>**BSB:**</sub></small>
-When they sin against You—for there is no one who does not sin—and You become angry with them and deliver them to an enemy who takes them as captives to his own land, whether far or near,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.45|<< 1 Kings 8:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.47|1 Kings 8:47 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Romans 1:7
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:7**<big><big>[[Rom.1.1 Paul Greets the Saints in Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To all that be in Rome, beloved of God, called [to be] saints: Grace to you and peace from God our Father, and the Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 To all in Rome who are loved by God and called to be saints: Grace and peace to you from God our Father and the Lord Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 To all those being in Rome beloved of God to [those] called saints: Grace to you and peace from God [the] Father of us and [the] Lord Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.6|<< Romans 1:6]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.8|Romans 1:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To all |**<big>[[G3956\|πᾶσιν]]</big>**  |pasin <small><sup>[[A-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

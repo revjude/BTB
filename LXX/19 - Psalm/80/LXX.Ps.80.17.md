@@ -1,10 +1,7 @@
 **LXX Psalm 80:17** 
 <small><sub>**LXX:**</sub></small>
 your hand be upon \[the\] man of your right, even upon \[the\] son of man whom you strengthened to yourself. 
-<small><sub>**KJV:**</sub></small>
-Let thy hand be upon the man of thy right hand, upon the son of man [whom] thou madest strong for thyself.
-<small><sub>**BSB:**</sub></small>
-Let Your hand be upon the man at Your right hand, on the son of man You have raised up for Yourself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.80.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.16|<< Psalm 80:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.18|Psalm 80:18 >>]]</td></tr></table>
 
 | Translation | Greek |

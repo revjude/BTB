@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:5** 
 <small><sub>**LXX:**</sub></small>
 And the woman conceived. And she sent and reported to David, and said, I am one conceiving. 
-<small><sub>**KJV:**</sub></small>
-And the woman conceived, and sent and told David, and said, I [am] with child.
-<small><sub>**BSB:**</sub></small>
-And the woman conceived and sent word to David, saying, “I am pregnant.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.4|<< 2 Samuel 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.6|2 Samuel 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

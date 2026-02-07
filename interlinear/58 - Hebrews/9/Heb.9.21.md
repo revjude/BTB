@@ -1,12 +1,12 @@
-**Hebrews 9:21
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:21**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry.
 <small><sub>**BSB:**</sub></small>
 In the same way, he sprinkled with blood the tabernacle and all the vessels used in worship.
 <small><sub>**Literal:**</sub></small>
 And the tabernacle then and all the vessels of the ministry <the> with blood likewise he sprinkled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.20|<< Hebrews 9:20]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.22|Hebrews 9:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

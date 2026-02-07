@@ -1,4 +1,4 @@
-**Micah 2:2** 
+**Micah 2:2**<big><big>[[Mic.2.1 Woe to Oppressors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they covet fields, and take [them] by violence; and houses, and take [them] away: so they oppress a man and his house, even a man and his heritage.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They covet fields and seize them; they take away houses. They deprive a man of h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.1|<< Micah 2:1]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.3|Micah 2:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they desire  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2530A\|חָמְד֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.me.Du<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fields  |**<big>&#8207;[[H7704G\|שָׂדוֹת֙]]&#8207; </big>**| sa.dOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

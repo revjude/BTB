@@ -1,4 +1,4 @@
-**Nehemiah 8:11** 
+**Nehemiah 8:11**<big><big>[[Neh.8.1 Ezra Reads the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the Levites stilled all the people, saying, Hold your peace, for the day [is] holy; neither be ye grieved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the Levites calmed all the people, saying, “Be still, since today is holy.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.10|<< Nehemiah 8:10]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.12|Nehemiah 8:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the Levites  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֞ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] making quiet  |**<big>&#8207;[[H2814\|מַחְשִׁ֤ים]]&#8207; </big>**| mach.Shim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

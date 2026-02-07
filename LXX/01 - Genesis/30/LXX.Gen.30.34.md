@@ -1,10 +1,7 @@
 **LXX Genesis 30:34** 
 <small><sub>**LXX:**</sub></small>
 And Laban said to him, Let it be according to  your word! 
-<small><sub>**KJV:**</sub></small>
-And Laban said, Behold, I would it might be according to thy word.
-<small><sub>**BSB:**</sub></small>
-“Agreed,” said Laban. “Let it be as you have said.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.33|<< Genesis 30:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.35|Genesis 30:35 >>]]</td></tr></table>
 
 | Translation | Greek |

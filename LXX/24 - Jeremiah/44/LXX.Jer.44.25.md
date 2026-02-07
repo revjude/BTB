@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:25** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>  God of Israel, You and  your women spoke \[with\] your mouth, and  fulfilled by your hands, saying, In offering, we shall offer  our acknowledgment \[offerings\] which we acknowledged, to burn incense to the queen  of heaven, and to offer to her libations. In adhering you adhered to  your acknowledgment \[offerings\], and \[the\] offerings which you offered. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts, the God of Israel, saying; Ye and your wives have both spoken with your mouths, and fulfilled with your hand, saying, We will surely perform our vows that we have vowed, to burn incense to the queen of heaven, and to pour out drink offerings unto her: ye will surely accomplish your vows, and surely perform your vows.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD of Hosts, the God of Israel, says: As for you and your wives, you have spoken with your mouths and fulfilled with your hands your words: ‘We will surely perform our vows that we have made to burn incense to the Queen of Heaven and to pour out drink offerings to her.’ Go ahead, then, do what you have promised! Keep your vows!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.24|<< Jeremiah 44:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.26|Jeremiah 44:26 >>]]</td></tr></table>
 
 | Translation | Greek |

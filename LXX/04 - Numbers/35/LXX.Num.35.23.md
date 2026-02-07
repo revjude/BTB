@@ -1,10 +1,7 @@
 **LXX Numbers 35:23** 
 <small><sub>**LXX:**</sub></small>
 or any stone in which he shall die by it, not knowing, and he should fall upon him, and he should die, but he was not his enemy, nor seeking to do evil against him; 
-<small><sub>**KJV:**</sub></small>
-Or with any stone, wherewith a man may die, seeing [him] not, and cast [it] upon him, that he die, and [was] not his enemy, neither sought his harm:
-<small><sub>**BSB:**</sub></small>
-or without looking drops a heavy stone that kills him, but he was not an enemy and did not intend to harm him,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.22|<< Numbers 35:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.24|Numbers 35:24 >>]]</td></tr></table>
 
 | Translation | Greek |

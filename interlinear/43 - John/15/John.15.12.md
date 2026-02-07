@@ -1,12 +1,12 @@
-**John 15:12
-**<small><sub>**KJV:**</sub></small>
+**John 15:12**<big><big>[[John.15.9 No Greater Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This is my commandment, That ye love one another, as I have loved you.
 <small><sub>**BSB:**</sub></small>
 This is My commandment, that you love one another as I have loved you.
 <small><sub>**Literal:**</sub></small>
 This is <the> commandment <the> of Mine that you may love one another even as I loved you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.11|<< John 15:11]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.13|John 15:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|αὕτη]]</big>**  |hautē <small><sup>[[D-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is |**<big>[[G1510\|ἐστὶν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 93:5** 
 <small><sub>**LXX:**</sub></small>
  Your testimonies are trustworthy -- exceedingly. Sanctification is becoming \[to\] your house, O <span class="smallcaps">lord</span>, for \[the\] duration of days. 
-<small><sub>**KJV:**</sub></small>
-Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever.
-<small><sub>**BSB:**</sub></small>
-Your testimonies are fully confirmed; holiness adorns Your house, O LORD, for all the days to come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.93.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.93.4|<< Psalm 93:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.94.1|Psalm 94:1 >>]]</td></tr></table>
 
 | Translation | Greek |

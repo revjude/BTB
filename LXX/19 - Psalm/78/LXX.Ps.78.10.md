@@ -1,10 +1,7 @@
 **LXX Psalm 78:10** 
 <small><sub>**LXX:**</sub></small>
 They did not guard the covenant  of God, and they did not want to go by his law. 
-<small><sub>**KJV:**</sub></small>
-They kept not the covenant of God, and refused to walk in his law;
-<small><sub>**BSB:**</sub></small>
-They failed to keep God’s covenant and refused to live by His law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.9|<< Psalm 78:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.11|Psalm 78:11 >>]]</td></tr></table>
 
 | Translation | Greek |

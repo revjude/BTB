@@ -1,10 +1,7 @@
 **LXX Leviticus 17:11** 
 <small><sub>**LXX:**</sub></small>
 For the life of all flesh is its blood. And I gave it to you upon the altar to atone for  your souls.  For its blood shall atone for \[the\] soul. 
-<small><sub>**KJV:**</sub></small>
-For the life of the flesh [is] in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it [is] the blood [that] maketh an atonement for the soul.
-<small><sub>**BSB:**</sub></small>
-For the life of the flesh is in the blood, and I have given it to you to make atonement for your souls upon the altar; for it is the blood that makes atonement for the soul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.10|<< Leviticus 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.12|Leviticus 17:12 >>]]</td></tr></table>
 
 | Translation | Greek |

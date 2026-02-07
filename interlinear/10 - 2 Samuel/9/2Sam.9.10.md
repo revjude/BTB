@@ -1,4 +1,4 @@
-**2 Samuel 9:10** 
+**2 Samuel 9:10**<big><big>[[2Sam.9.1 David and Mephibosheth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou therefore, and thy sons, and thy servants, shall till the land for him, and thou shalt bring in [the fruits], that thy master’s son may have food to eat: but Mephibosheth thy master’s son shall eat bread alway at my table. Now Ziba had fifteen sons and twenty servants.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You and your sons and servants are to work the ground for him and bring in the h
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.9.9|<< 2 Samuel 9:9]]</td><td align="center" style="border:none;">[[2Sam.9|2 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.9.11|2 Samuel 9:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will work  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5647I\|עָבַ֣דְתָּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Vad.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> him  |**<big>&#8207;[[H9005\|לּ֣]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

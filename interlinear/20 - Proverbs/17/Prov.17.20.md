@@ -1,4 +1,4 @@
-**Proverbs 17:20** 
+**Proverbs 17:20**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that hath a froward heart findeth no good: and he that hath a perverse tongue falleth into mischief.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The one with a perverse heart finds no good, and he whose tongue is deceitful fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.19|<< Proverbs 17:19]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.21|Proverbs 17:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [a person] twisted of  |**<big>&#8207;[[H6141\|עִקֶּשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'i.kesh-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart  |**<big>&#8207;[[H3820A\|לֵ֭ב]]&#8207; </big>**| lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

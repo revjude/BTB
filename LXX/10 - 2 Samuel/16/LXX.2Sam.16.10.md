@@ -1,10 +1,7 @@
 **LXX 2 Samuel 16:10** 
 <small><sub>**LXX:**</sub></small>
 And the king said to Abishai, What \[is it\] to me and to you, sons of Zeruiah? Even leave him, and thus let him curse! For \[the\] <span class="smallcaps">lord</span> said to him to curse  David. And who shall say to him, Why did you do thus? 
-<small><sub>**KJV:**</sub></small>
-And the king said, What have I to do with you, ye sons of Zeruiah? so let him curse, because the LORD hath said unto him, Curse David. Who shall then say, Wherefore hast thou done so?
-<small><sub>**BSB:**</sub></small>
-But the king replied, “What have I to do with you, O sons of Zeruiah? If he curses me because the LORD told him, ‘Curse David,’ who can ask, ‘Why did you do this?’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.9|<< 2 Samuel 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.11|2 Samuel 16:11 >>]]</td></tr></table>
 
 | Translation | Greek |

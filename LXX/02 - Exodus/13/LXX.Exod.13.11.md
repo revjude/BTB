@@ -1,10 +1,7 @@
 **LXX Exodus 13:11** 
 <small><sub>**LXX:**</sub></small>
 And it shall be whenever \[the\] <span class="smallcaps">lord</span> your God should bring you into the land of the Canaanites, in which manner he swore by an oath to your fathers, and shall give it to you, 
-<small><sub>**KJV:**</sub></small>
-And it shall be when the LORD shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,
-<small><sub>**BSB:**</sub></small>
-And after the LORD brings you into the land of the Canaanites and gives it to you, as He swore to you and your fathers,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.10|<< Exodus 13:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.12|Exodus 13:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 4:26** 
 <small><sub>**LXX:**</sub></small>
 Make straight tracks for your feet, and  straighten out your ways! 
-<small><sub>**KJV:**</sub></small>
-Ponder the path of thy feet, and let all thy ways be established.
-<small><sub>**BSB:**</sub></small>
-Make a level path for your feet, and all your ways will be sure.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.25|<< Proverbs 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.27|Proverbs 4:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Proverbs 4:26** is...

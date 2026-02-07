@@ -1,10 +1,7 @@
 **LXX Daniel 6:12** 
 <small><sub>**LXX:**</sub></small>
 And coming forward, they say to the king, O king, did you not order an enactment so that every man who ever should ask from any God or man a request unto thirty days, except from you, O king, shall be put into the pit  of lions? And the king said, The word \[is\] true, and the decree of \[the\] Medes and Persians shall not pass. 
-<small><sub>**KJV:**</sub></small>
-Then they came near, and spake before the king concerning the king’s decree; Hast thou not signed a decree, that every man that shall ask [a petition] of any God or man within thirty days, save of thee, O king, shall be cast into the den of lions? The king answered and said, The thing [is] true, according to the law of the Medes and Persians, which altereth not.
-<small><sub>**BSB:**</sub></small>
-So they approached the king and asked about his royal decree: “Did you not sign a decree that for thirty days any man who petitions any god or man except you, O king, will be thrown into the den of lions?” The king replied, “According to the law of the Medes and Persians the order stands, and it cannot be repealed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.11|<< Daniel 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.13|Daniel 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

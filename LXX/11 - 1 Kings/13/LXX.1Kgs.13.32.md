@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:32** 
 <small><sub>**LXX:**</sub></small>
 For the saying which he spoke by \[of the\] <span class="smallcaps">lord</span> will be coming to pass against the altar in Beth-el, and against the houses of the high \[places\], of the ones in Samaria. 
-<small><sub>**KJV:**</sub></small>
-For the saying which he cried by the word of the LORD against the altar in Bethel, and against all the houses of the high places which [are] in the cities of Samaria, shall surely come to pass.
-<small><sub>**BSB:**</sub></small>
-for the message that he cried out by the word of the LORD against the altar in Bethel and against all the shrines on the high places in the cities of Samaria will surely come to pass.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.31|<< 1 Kings 13:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.33|1 Kings 13:33 >>]]</td></tr></table>
 
 | Translation | Greek |

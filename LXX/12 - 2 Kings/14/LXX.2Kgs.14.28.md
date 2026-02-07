@@ -1,10 +1,7 @@
 **LXX 2 Kings 14:28** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the words of Jeroboam, and all as much as he did, and  his dominations, as much as he waged war, and as much as he returned  Damascus and  Hamath  to Judah in Israel, behold \[are\] not these written upon \[the\] scroll of \[the\] words of the days of the kings of Israel? 
-<small><sub>**KJV:**</sub></small>
-Now the rest of the acts of Jeroboam, and all that he did, and his might, how he warred, and how he recovered Damascus, and Hamath, [which belonged] to Judah, for Israel, [are] they not written in the book of the chronicles of the kings of Israel?
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Jeroboam, along with all his accomplishments and might, and how he waged war and recovered both Damascus and Hamath for Israel from Judah, are they not written in the Book of the Chronicles of the Kings of Israel?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.27|<< 2 Kings 14:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.29|2 Kings 14:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 52:8** 
 <small><sub>**LXX:**</sub></small>
 \[The\] voice of the ones guarding you is exalted, and \[with\] the voice together they shall be glad. For eyes to eyes shall see when ever \[the\] <span class="smallcaps">lord</span> should show mercy on  Zion. 
-<small><sub>**KJV:**</sub></small>
-Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.
-<small><sub>**BSB:**</sub></small>
-Listen! Your watchmen lift up their voices, together they shout for joy. For every eye will see when the LORD returns to Zion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.52.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.7|<< Isaiah 52:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.9|Isaiah 52:9 >>]]</td></tr></table>
 
 | Translation | Greek |

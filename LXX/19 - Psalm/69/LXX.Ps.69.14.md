@@ -1,10 +1,7 @@
 **LXX Psalm 69:14** 
 <small><sub>**LXX:**</sub></small>
 Deliver me from mud! that I should not be stuck. May I be rescued from the ones detesting me, and from the depths of the waters. 
-<small><sub>**KJV:**</sub></small>
-Deliver me out of the mire, and let me not sink: let me be delivered from them that hate me, and out of the deep waters.
-<small><sub>**BSB:**</sub></small>
-Rescue me from the mire and do not let me sink; deliver me from my foes and out of the deep waters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.13|<< Psalm 69:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.15|Psalm 69:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 26:5** 
 <small><sub>**LXX:**</sub></small>
 And the threshing shall overtake among you the gathering of the crops; and the gathering of the crops shall overtake the sowing; and you shall eat  your bread unto fullness. And you shall dwell with safety upon  your land. 
-<small><sub>**KJV:**</sub></small>
-And your threshing shall reach unto the vintage, and the vintage shall reach unto the sowing time: and ye shall eat your bread to the full, and dwell in your land safely.
-<small><sub>**BSB:**</sub></small>
-Your threshing will continue until the grape harvest, and the grape harvest will continue until sowing time; you will have your fill of food to eat and will dwell securely in your land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.4|<< Leviticus 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.6|Leviticus 26:6 >>]]</td></tr></table>
 
 | Translation | Greek |

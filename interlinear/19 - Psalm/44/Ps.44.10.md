@@ -1,4 +1,4 @@
-**Psalms 44:10** (44:11)
+**Psalms 44:10**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou makest us to turn back from the enemy: and they which hate us spoil for themselves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have made us retreat from the foe, and those who hate us have plundered us.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.9|<< Psalms 44:9]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.11|Psalms 44:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have made turn back us  |**<big>&#8207;[[H7725G\|תְּשִׁיבֵ֣]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| te.shi.Ve.<small><sup>[[HVhi2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | backwards  |**<big>&#8207;[[H0268\|אָ֭חוֹר]]&#8207; </big>**| 'A.chor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

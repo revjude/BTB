@@ -1,12 +1,12 @@
-**2 Thessalonians 2:17
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 2:17**<big><big>[[2Thess.2.13 Stand Firm|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Comfort your hearts, and stablish you in every good word and work.
 <small><sub>**BSB:**</sub></small>
 encourage your hearts and strengthen you in every good word and deed.
 <small><sub>**Literal:**</sub></small>
 would He encourage your <the> hearts and would He strengthen you in every work and word good.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.16|<< 2 Thessalonians 2:16]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.1|2 Thessalonians 3:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | would He encourage |**<big>[[G3870\|παρακαλέσαι]]</big>**  |parakalesai <small><sup>[[V-AAO-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | your |**<big>[[G4771\|ὑμῶν]]</big>**  |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 13:11
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:11**<big><big>[[Luke.13.10 Jesus Heals a Disabled Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, there was a woman which had a spirit of infirmity eighteen years, and was bowed together, and could in no wise lift up [herself].
 <small><sub>**BSB:**</sub></small>
 and a woman there had been disabled by a spirit for eighteen years. She was hunched over and could not stand up straight.
 <small><sub>**Literal:**</sub></small>
 And behold a woman was a spirit having of infirmity years eighteen And she was bent over and not able to lift up herself to the full.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.10|<< Luke 13:10]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.12|Luke 13:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

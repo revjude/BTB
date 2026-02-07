@@ -1,4 +1,4 @@
-**Job 32:5** 
+**Job 32:5**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Elihu saw that [there was] no answer in the mouth of [these] three men, then his wrath was kindled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when he saw that the three men had no further reply, his anger was kindled.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.4|<< Job 32:4]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.6|Job 32:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֤רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elihu  |**<big>&#8207;[[H0453K\|אֱלִיה֗וּא]]&#8207; </big>**| 'e.li.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

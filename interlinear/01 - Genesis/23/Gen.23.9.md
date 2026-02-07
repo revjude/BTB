@@ -1,4 +1,4 @@
-**Genesis 23:9** 
+**Genesis 23:9**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That he may give me the cave of Machpelah, which he hath, which [is] in the end of his field; for as much money as it is worth he shall give it me for a possession of a buryingplace amongst you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to sell me the cave of Machpelah that belongs to him; it is at the end of his fi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.8|<< Genesis 23:8]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.10|Genesis 23:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so may he give  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5414G\|יִתֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.ten-<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> me  |**<big>&#8207;[[H9005\|לִ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

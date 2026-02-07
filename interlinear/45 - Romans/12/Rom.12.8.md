@@ -1,12 +1,12 @@
-**Romans 12:8
-**<small><sub>**KJV:**</sub></small>
+**Romans 12:8**<big><big>[[Rom.12.1 Living Sacrifices|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Or he that exhorteth, on exhortation: he that giveth, [let him do it] with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.
 <small><sub>**BSB:**</sub></small>
 if it is encouraging, let him encourage; if it is giving, let him give generously; if it is leading, let him lead with diligence; if it is showing mercy, let him do it cheerfully.
 <small><sub>**Literal:**</sub></small>
 or the [one] exhorting in the exhortation, the [one] giving in generosity, the [one] leading with diligence, the [one] showing mercy with cheerfulness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.7|<< Romans 12:7]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.9|Romans 12:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or |**<big>[[G1535\|εἴτε]]</big>**  |eite <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And return to  Gedaliah son of Ahikam son of Shaphan! whom \[the\] king of Babylon established in \[the\] land of Judah. And live with him in \[the\] midst of the people! for all the things good in your eyes  to go \[to\] -- \[then\] go! And the chief guard gave to him a feast and gifts, and sent him. 
-<small><sub>**KJV:**</sub></small>
-Now while he was not yet gone back, [he said], Go back also to Gedaliah the son of Ahikam the son of Shaphan, whom the king of Babylon hath made governor over the cities of Judah, and dwell with him among the people: or go wheresoever it seemeth convenient unto thee to go. So the captain of the guard gave him victuals and a reward, and let him go.
-<small><sub>**BSB:**</sub></small>
-But before Jeremiah turned to go, Nebuzaradan added, “Return to Gedaliah son of Ahikam, the son of Shaphan, whom the king of Babylon has appointed over the cities of Judah, and stay with him among the people, or go anywhere else that seems right.” Then the captain of the guard gave him a ration and a gift and released him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.40.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.4|<< Jeremiah 40:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.6|Jeremiah 40:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Judges 3:15** 
+**Judges 3:15**<big><big>[[Judg.3.12 Ehud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when the children of Israel cried unto the LORD, the LORD raised them up a deliverer, Ehud the son of Gera, a Benjamite, a man lefthanded: and by him the children of Israel sent a present unto Eglon the king of Moab.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And again they cried out to the LORD, and He raised up Ehud son of Gera, a left-
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.14|<< Judges 3:14]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.16|Judges 3:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they cried out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2199\|יִּזְעֲק֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.'a.Ku<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

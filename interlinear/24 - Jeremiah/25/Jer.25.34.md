@@ -1,4 +1,4 @@
-**Jeremiah 25:34** 
+**Jeremiah 25:34**<big><big>[[Jer.25.34 The Cry of the Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howl, ye shepherds, and cry; and wallow yourselves [in the ashes], ye principal of the flock: for the days of your slaughter and of your dispersions are accomplished; and ye shall fall like a pleasant vessel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wail, you shepherds, and cry out; roll in the dust, you leaders of the flock. Fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.33|<< Jeremiah 25:33]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.35|Jeremiah 25:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wail  |**<big>&#8207;[[H3213\|הֵילִ֨ילוּ]]&#8207; </big>**| hei.Li.lu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O shepherds  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7462B\|רֹעִ֜ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ro.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

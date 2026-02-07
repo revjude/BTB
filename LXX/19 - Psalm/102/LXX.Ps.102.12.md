@@ -1,10 +1,7 @@
 **LXX Psalm 102:12** 
 <small><sub>**LXX:**</sub></small>
 But you, O <span class="smallcaps">lord</span>, abide into the eon, and  your memorial unto generation and generation. 
-<small><sub>**KJV:**</sub></small>
-But thou, O LORD, shalt endure for ever; and thy remembrance unto all generations.
-<small><sub>**BSB:**</sub></small>
-But You, O LORD, sit enthroned forever; Your renown endures to all generations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.11|<< Psalm 102:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.13|Psalm 102:13 >>]]</td></tr></table>
 
 | Translation | Greek |

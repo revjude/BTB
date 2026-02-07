@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:59** 
 <small><sub>**LXX:**</sub></small>
 And these words be which I have beseeched before \[the\] <span class="smallcaps">lord</span> our God today, approaching to \[the\] <span class="smallcaps">lord</span> our God day and night,  to do the right action  for your servant, and the right action  for your people Israel -- a days matter in  its day! 
-<small><sub>**KJV:**</sub></small>
-And let these my words, wherewith I have made supplication before the LORD, be nigh unto the LORD our God day and night, that he maintain the cause of his servant, and the cause of his people Israel at all times, as the matter shall require:
-<small><sub>**BSB:**</sub></small>
-And may these words with which I have made my petition before the LORD be near to the LORD our God day and night, so that He may uphold the cause of His servant and of His people Israel as each day requires,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.59|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.58|<< 1 Kings 8:58]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.60|1 Kings 8:60 >>]]</td></tr></table>
 
 | Translation | Greek |

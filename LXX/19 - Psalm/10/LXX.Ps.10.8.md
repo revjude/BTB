@@ -1,10 +1,7 @@
 **LXX Psalm 10:8** 
 <small><sub>**LXX:**</sub></small>
 he lies in wait to ambush with \[the\] rich in concealment,  to kill \[the\] innocent;  his eyes look against the needy. 
-<small><sub>**KJV:**</sub></small>
-He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.
-<small><sub>**BSB:**</sub></small>
-He lies in wait near the villages; in ambush he slays the innocent; his eyes watch in stealth for the helpless.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.7|<< Psalm 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.9|Psalm 10:9 >>]]</td></tr></table>
 
 | Translation | Greek |

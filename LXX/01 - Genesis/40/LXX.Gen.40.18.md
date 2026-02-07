@@ -1,10 +1,7 @@
 **LXX Genesis 40:18** 
 <small><sub>**LXX:**</sub></small>
 And answering Joseph said to him, This \[is\] the interpretation of it. The three bins are three days. 
-<small><sub>**KJV:**</sub></small>
-And Joseph answered and said, This [is] the interpretation thereof: The three baskets [are] three days:
-<small><sub>**BSB:**</sub></small>
-Joseph replied, “This is the interpretation: The three baskets are three days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.17|<< Genesis 40:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.19|Genesis 40:19 >>]]</td></tr></table>
 
 | Translation | Greek |

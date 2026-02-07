@@ -1,4 +1,4 @@
-**Numbers 7:78** 
+**Numbers 7:78**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the twelfth day Ahira the son of Enan, prince of the children of Naphtali, [offered]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the twelfth day Ahira son of Enan, the leader of the Naphtalites, drew near.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.78|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.77|<< Numbers 7:77]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.79|Numbers 7:79 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on [the] day  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|יוֹם֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yOm<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] two [plus]  |**<big>&#8207;[[H8147\|שְׁנֵ֣ים]]&#8207; </big>**| she.Neim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

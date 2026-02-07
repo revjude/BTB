@@ -1,4 +1,4 @@
-**Ezekiel 34:18** 
+**Ezekiel 34:18**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Seemeth it] a small thing unto you to have eaten up the good pasture, but ye must tread down with your feet the residue of your pastures? and to have drunk of the deep waters, but ye must foul the residue with your feet?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is it not enough for you to feed on the good pasture? Must you also trample the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.17|<< Ezekiel 34:17]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.19|Ezekiel 34:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ [too] little  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H4592\|מְעַ֣ט]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> m.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for you  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9036\|כֶּ֗ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

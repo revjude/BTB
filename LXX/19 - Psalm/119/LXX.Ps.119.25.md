@@ -1,10 +1,7 @@
 **LXX Psalm 119:25** 
 <small><sub>**LXX:**</sub></small>
 My soul cleaved to the floor; let me live according to  your word! 
-<small><sub>**KJV:**</sub></small>
-DALETH. My soul cleaveth unto the dust: quicken thou me according to thy word.
-<small><sub>**BSB:**</sub></small>
-My soul cleaves to the dust; revive me according to Your word.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.24|<< Psalm 119:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.26|Psalm 119:26 >>]]</td></tr></table>
 
 | Translation | Greek |

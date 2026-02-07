@@ -1,4 +1,4 @@
-**Psalms 33:7** 
+**Psalms 33:7**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He gathereth the waters of the sea together as an heap: he layeth up the depth in storehouses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He piles up the waters of the sea; He puts the depths into storehouses.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.6|<< Psalms 33:6]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.8|Psalms 33:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] gathering  |**<big>&#8207;[[H3664\|כֹּנֵ֣ס]]&#8207; </big>**| ko.Nes<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> heap  |**<big>&#8207;[[H9004\|כַּ֭]]&#8207;&#8207;[[H5067\|נֵּד]]&#8207; </big>**| Ka.<small><sup>[[HRd]]</sup></small> ned<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

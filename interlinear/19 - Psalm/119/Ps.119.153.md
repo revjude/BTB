@@ -1,12 +1,12 @@
-**Psalms 119:153** 
+**Psalms 119:153**<big><big>[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-RESH. Consider mine affliction, and deliver me: for I do not forget thy law.
+Consider mine affliction, and deliver me: for I do not forget thy law.
 <small><sub>**BSB:**</sub></small>
 Look upon my affliction and rescue me, for I have not forgotten Your law.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.153|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.152|<< Psalms 119:152]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.154|Psalms 119:154 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | see  |**<big>&#8207;[[H7200G\|רְאֵֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| re.'eh-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | affliction my  |**<big>&#8207;[[H6040\|עָנְיִ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.ne.Y<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

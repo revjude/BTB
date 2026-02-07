@@ -1,4 +1,4 @@
-**Nehemiah 13:7** 
+**Nehemiah 13:7**<big><big>[[Neh.13.4 The Temple Cleansed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I came to Jerusalem, and understood of the evil that Eliashib did for Tobiah, in preparing him a chamber in the courts of the house of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to return to Jerusalem. Then I discovered the evil that Eliashib had done on beh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.6|<< Nehemiah 13:6]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.8|Nehemiah 13:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I came  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0935G\|אָב֖וֹא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Vo'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Jerusalem  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִָ֑ם]]&#8207; </big>**| li.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

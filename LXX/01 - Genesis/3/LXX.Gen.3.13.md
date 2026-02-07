@@ -1,10 +1,7 @@
 **LXX Genesis 3:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> God said to the woman, What \[is\] this you did? And the woman said, The serpent deceived me, and I ate. 
-<small><sub>**KJV:**</sub></small>
-And the LORD God said unto the woman, What [is] this [that] thou hast done? And the woman said, The serpent beguiled me, and I did eat.
-<small><sub>**BSB:**</sub></small>
-Then the LORD God said to the woman, “What is this you have done?” “The serpent deceived me,” she replied, “and I ate.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.12|<< Genesis 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.14|Genesis 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Peter 1:22
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:22**<big><big>[[1Pet.1.22 The Enduring Word|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, [see that ye] love one another with a pure heart fervently:
 <small><sub>**BSB:**</sub></small>
 Since you have purified your souls by obedience to the truth so that you have a genuine love for your brothers, love one another deeply, from a pure heart.
 <small><sub>**Literal:**</sub></small>
 The souls of you having purified by <the> obedience to the truth through spirit unto brotherly love sincere out of purity of heart one another do love fervently;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.21|<< 1 Peter 1:21]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.23|1 Peter 1:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Τὰς]]</big>**  |Tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | souls |**<big>[[G5590G\|ψυχὰς]]</big>**  |psuchas <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

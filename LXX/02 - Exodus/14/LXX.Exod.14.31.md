@@ -1,10 +1,7 @@
 **LXX Exodus 14:31** 
 <small><sub>**LXX:**</sub></small>
 And Israel saw the great hand by which \[the\] <span class="smallcaps">lord</span> executed against the Egyptians. And the people feared the <span class="smallcaps">lord</span>, and they trusted  in God, and Moses  his attendant. 
-<small><sub>**KJV:**</sub></small>
-And Israel saw that great work which the LORD did upon the Egyptians: and the people feared the LORD, and believed the LORD, and his servant Moses.
-<small><sub>**BSB:**</sub></small>
-When Israel saw the great power that the LORD had exercised over the Egyptians, the people feared the LORD and believed in Him and in His servant Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.30|<< Exodus 14:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.1|Exodus 15:1 >>]]</td></tr></table>
 
 | Translation | Greek |

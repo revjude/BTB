@@ -1,4 +1,4 @@
-**2 Kings 5:12** 
+**2 Kings 5:12**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Are] not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Are not the Abanah and Pharpar, the rivers of Damascus, better than all the wate
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.11|<< 2 Kings 5:11]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.13|2 Kings 5:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|לֹ֡א]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | good  |**<big>&#8207;[[H2896A\|טוֹב֩]]&#8207; </big>**| tOv<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

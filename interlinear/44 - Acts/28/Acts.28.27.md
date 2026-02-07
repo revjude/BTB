@@ -1,5 +1,5 @@
-**Acts 28:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:27**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the heart of this people is waxed gross, and their ears are dull of hearing, and their eyes have they closed; lest they should see with [their] eyes, and hear with [their] ears, and understand with [their] heart, and should be converted, and I should heal them.
 <small><sub>**BSB:**</sub></small>
 For this people’s heart has grown callous; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them.’
@@ -10,7 +10,7 @@ Has grown dull for the heart of the people this, and with the ears barely they h
 > $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9-10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Has grown dull |**<big>[[G3975\|ἐπαχύνθη]]</big>**  |epachunthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

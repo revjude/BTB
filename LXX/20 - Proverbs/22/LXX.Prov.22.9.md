@@ -1,10 +1,7 @@
 **LXX Proverbs 22:9** 
 <small><sub>**LXX:**</sub></small>
 The one showing mercy on \[the\] poor nourishes himself;  for of his own bread loaves he gives to the poor. The one giving gifts procures victory and honor;  however it removes \[the\] life of the ones possessing. 
-<small><sub>**KJV:**</sub></small>
-He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor.
-<small><sub>**BSB:**</sub></small>
-A generous man will be blessed, for he shares his bread with the poor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.8|<< Proverbs 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.10|Proverbs 22:10 >>]]</td></tr></table>
 
 | Translation | Greek |

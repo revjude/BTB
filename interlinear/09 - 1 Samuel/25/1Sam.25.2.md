@@ -1,4 +1,4 @@
-**1 Samuel 25:2** 
+**1 Samuel 25:2**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there was] a man in Maon, whose possessions [were] in Carmel; and the man [was] very great, and he had three thousand sheep, and a thousand goats: and he was shearing his sheep in Carmel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now there was a man in Maon whose business was in Carmel. He was a very wealthy 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.1|<< 1 Samuel 25:1]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.3|1 Samuel 25:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a man  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376G\|אִ֨ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] in Maon  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4584G\|מָע֜וֹן]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ma.'on<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

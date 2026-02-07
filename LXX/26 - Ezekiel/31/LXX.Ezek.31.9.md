@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:9** 
 <small><sub>**LXX:**</sub></small>
 Because of the multitude  of his tender branches I made him good by the multitude  of his tender branches. And the trees of the paradise of the delicacy of God were jealous of him. 
-<small><sub>**KJV:**</sub></small>
-I have made him fair by the multitude of his branches: so that all the trees of Eden, that [were] in the garden of God, envied him.
-<small><sub>**BSB:**</sub></small>
-I made it beautiful with its many branches, the envy of all the trees of Eden, which were in the garden of God.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.8|<< Ezekiel 31:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.10|Ezekiel 31:10 >>]]</td></tr></table>
 
 | Translation | Greek |

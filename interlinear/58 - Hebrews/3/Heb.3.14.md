@@ -1,12 +1,12 @@
-**Hebrews 3:14
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:14**<big><big>[[Heb.3.12 The Peril of Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;
 <small><sub>**BSB:**</sub></small>
 We have come to share in Christ if we hold firmly to the end the assurance we had at first.
 <small><sub>**Literal:**</sub></small>
 Partakers for <the> of Christ we have become if indeed from the beginning of the assurance unto [the] end firm we shall hold;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.13|<< Hebrews 3:13]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.15|Hebrews 3:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Partakers |**<big>[[G3353\|μέτοχοι]]</big>**  |metochoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

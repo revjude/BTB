@@ -1,4 +1,4 @@
-**Isaiah 19:3** 
+**Isaiah 19:3**<big><big>[[Isa.19.1 The Burden against Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the spirit of the Egyptians will be emptied out from among them, and I will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.2|<< Isaiah 19:2]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.4|Isaiah 19:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be disturbed  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1238B\|נָבְקָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ve.Kah<small><sup>[[HVNq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] spirit of  |**<big>&#8207;[[H7307G\|רֽוּחַ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Ru.ach-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

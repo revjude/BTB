@@ -1,4 +1,4 @@
-**Daniel 5:27** 
+**Daniel 5:27**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 TEKEL; Thou art weighed in the balances, and art found wanting.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ TEKEL means that you have been weighed on the scales and found deficient.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.26|<< Daniel 5:26]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.28|Daniel 5:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | teqel  |**<big>&#8207;[[H8625B\|תְּקֵ֑ל]]&#8207; </big>**| te.Kel<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have been weighed  |**<big>&#8207;[[H8625A\|תְּקִ֥ילְתָּה]]&#8207; </big>**| te.Ki.le.tah<small><sup>[[AVQp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 1:6** 
 <small><sub>**LXX:**</sub></small>
 And Solomon offered there upon the altar, the one of brass, the one before \[the\] <span class="smallcaps">lord</span>, the one in the tent of the testimony. And he offered upon it a thousand whole burnt-offerings. 
-<small><sub>**KJV:**</sub></small>
-And Solomon went up thither to the brasen altar before the LORD, which [was] at the tabernacle of the congregation, and offered a thousand burnt offerings upon it.
-<small><sub>**BSB:**</sub></small>
-Solomon offered sacrifices there before the LORD on the bronze altar at the Tent of Meeting, where he offered a thousand burnt offerings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.5|<< 2 Chronicles 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.7|2 Chronicles 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

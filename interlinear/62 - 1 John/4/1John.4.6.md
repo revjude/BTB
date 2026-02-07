@@ -1,12 +1,12 @@
-**1 John 4:6
-**<small><sub>**KJV:**</sub></small>
+**1 John 4:6**<big><big>[[1John.4.1 Testing the Spirits|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error.
 <small><sub>**BSB:**</sub></small>
 We are from God. Whoever knows God listens to us; whoever is not from God does not listen to us. That is how we know the Spirit of truth and the spirit of deception.
 <small><sub>**Literal:**</sub></small>
 We ourselves of <the> God are; The [one] knowing <the> God listens to us; He who not is from <the> God not listens to us. By this we know the Spirit <the> of truth and the spirit <the> of falsehood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.5|<< 1 John 4:5]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.7|1 John 4:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

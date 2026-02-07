@@ -1,5 +1,5 @@
-**John 12:13
-**<small><sub>**KJV:**</sub></small>
+**John 12:13**<big><big>[[John.12.12 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Took branches of palm trees, and went forth to meet him, and cried, Hosanna: Blessed [is] the King of Israel that cometh in the name of the Lord.
 <small><sub>**BSB:**</sub></small>
 They took palm branches and went out to meet Him, shouting: “Hosanna!” “Blessed is He who comes in the name of the Lord!” “Blessed is the King of Israel!”
@@ -10,7 +10,7 @@ took the branches of the palm trees and went out to meet Him and were shouting: 
 > $\quad$ referencing: [[LXX.Ps.118.25|Ps 118:25-26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | took |**<big>[[G2983\|ἔλαβον]]</big>**  |elabon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

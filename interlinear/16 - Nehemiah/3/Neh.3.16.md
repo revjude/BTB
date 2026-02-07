@@ -1,4 +1,4 @@
-**Nehemiah 3:16** 
+**Nehemiah 3:16**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After him repaired Nehemiah the son of Azbuk, the ruler of the half part of Bethzur, unto [the place] over against the sepulchres of David, and to the pool that was made, and unto the house of the mighty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Beyond him, Nehemiah son of Azbuk, ruler of a half-district of Beth-zur, made re
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.15|<< Nehemiah 3:15]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.17|Nehemiah 3:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after him  |**<big>&#8207;[[H0310A\|אַחֲרָ֤י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he repaired  |**<big>&#8207;[[H2388G\|הֶחֱזִיק֙]]&#8207; </big>**| he.che.Zik<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

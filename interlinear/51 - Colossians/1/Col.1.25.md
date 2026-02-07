@@ -1,12 +1,12 @@
-**Colossians 1:25
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:25**<big><big>[[Col.1.24 Paul’s Suffering for the Church|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God;
 <small><sub>**BSB:**</sub></small>
 I became its servant by the commission God gave me to fully proclaim to you the word of God,
 <small><sub>**Literal:**</sub></small>
 of which became I myself a minister according to the administration <the> of God which having been given me toward you to complete the word <the> of God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.24|<< Colossians 1:24]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.26|Colossians 1:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of which |**<big>[[G3739\|ἧς]]</big>**  |hēs <small><sup>[[R-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | became |**<big>[[G1096\|ἐγενόμην]]</big>**  |egenomēn <small><sup>[[V-2ADI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

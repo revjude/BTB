@@ -1,4 +1,4 @@
-**2 Samuel 11:1** 
+**2 Samuel 11:1**<big><big>[[2Sam.11.1 David and Bathsheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, after the year was expired, at the time when kings go forth [to battle], that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried still at Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the spring, at the time when kings march out to war, David sent out Joab and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.19|<< 2 Samuel 10:19]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.2|2 Samuel 11:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] return of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8666\|תְשׁוּבַ֨ת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> t.shu.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

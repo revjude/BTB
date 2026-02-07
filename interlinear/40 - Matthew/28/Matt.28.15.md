@@ -1,12 +1,12 @@
-**Matthew 28:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:15**<big><big>[[Matt.28.11 The Report of the Guards|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So they took the money, and did as they were taught: and this saying is commonly reported among the Jews until this day.
 <small><sub>**BSB:**</sub></small>
 So the guards took the money and did as they were instructed. And this account has been circulated among the Jews to this very day.
 <small><sub>**Literal:**</sub></small>
 <the> And having taken the money they did as they were instructed. And is spread abroad <the> report this among [the] Jews until the present day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.14|<< Matthew 28:14]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.16|Matthew 28:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

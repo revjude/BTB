@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them, Thus says \[the\] <span class="smallcaps">lord</span>  God of Israel, Accursed \[is\] the man who shall not hearken to the words  of this covenant, 
-<small><sub>**KJV:**</sub></small>
-And say thou unto them, Thus saith the LORD God of Israel; Cursed [be] the man that obeyeth not the words of this covenant,
-<small><sub>**BSB:**</sub></small>
-You must tell them that this is what the LORD, the God of Israel, says: Cursed is the man who does not obey the words of this covenant,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.2|<< Jeremiah 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.4|Jeremiah 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

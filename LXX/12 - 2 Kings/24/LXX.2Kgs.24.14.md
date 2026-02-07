@@ -1,10 +1,7 @@
 **LXX 2 Kings 24:14** 
 <small><sub>**LXX:**</sub></small>
 And he resettled  Jerusalem, and all the rulers, and all the mighty ones with strength into captivity -- ten thousand, and every fabricator, and the one so consigned. They did not leave behind except the ones being in need of the people of the land. 
-<small><sub>**KJV:**</sub></small>
-And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, [even] ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.
-<small><sub>**BSB:**</sub></small>
-He carried into exile all Jerusalem—all the commanders and mighty men of valor, all the craftsmen and metalsmiths—ten thousand captives in all. Only the poorest people of the land remained.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.13|<< 2 Kings 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.15|2 Kings 24:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Hebrews 3:5
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:5**<big><big>[[Heb.3.1 Jesus Our Apostle and High Priest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Moses verily [was] faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;
 <small><sub>**BSB:**</sub></small>
 Now Moses was faithful as a servant in all God’s house, testifying to what would be spoken later.
@@ -10,7 +10,7 @@ And Moses indeed [was] faithful in all the house of Him as a servant unto a test
 > $\quad$ referencing: [[LXX.Num.12.7|Num 12:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Moses |**<big>[[G3475\|Μωϋσῆς]]</big>**  [^1] |Mōusēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

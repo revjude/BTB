@@ -1,10 +1,7 @@
 **LXX Jeremiah 12:15** 
 <small><sub>**LXX:**</sub></small>
 And it will be after  my out them, I will return, and I will show mercy on them, and I will settle them each in  his inheritance, and each in  his land. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, after that I have plucked them out I will return, and have compassion on them, and will bring them again, every man to his heritage, and every man to his land.
-<small><sub>**BSB:**</sub></small>
-But after I have uprooted them, I will once again have compassion on them and return each one to his inheritance and to his land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.14|<< Jeremiah 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.16|Jeremiah 12:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 12:15** is...

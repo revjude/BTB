@@ -1,4 +1,4 @@
-**2 Chronicles 25:24** 
+**2 Chronicles 25:24**<big><big>[[2Chr.25.17 Jehoash Defeats Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [he took] all the gold and the silver, and all the vessels that were found in the house of God with Obededom, and the treasures of the king’s house, the hostages also, and returned to Samaria.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He took all the gold and silver and all the articles found in the house of God w
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.23|<< 2 Chronicles 25:23]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.25|2 Chronicles 25:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the gold  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2091\|זָּהָ֣ב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 12:21** 
+**1 Kings 12:21**<big><big>[[1Kgs.12.20 Shemaiah’s Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Rehoboam was come to Jerusalem, he assembled all the house of Judah, with the tribe of Benjamin, an hundred and fourscore thousand chosen men, which were warriors, to fight against the house of Israel, to bring the kingdom again to Rehoboam the son of Solomon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when Rehoboam arrived in Jerusalem, he mobilized the whole house of Judah an
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.20|<< 1 Kings 12:20]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.22|1 Kings 12:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  [^2]|**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֣א]]&#8207; </big>**[^3] | va<small><sup>[[Hc]]</sup></small> i.ya.vo.'u'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | Rehoboam  |**<big>&#8207;[[H7346\|רְחַבְעָם֮]]&#8207; </big>**| re.chav.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Hosea 7:16** 
+**Hosea 7:16**<big><big>[[Hos.7.1 Ephraim’s Iniquity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They return, [but] not to the most High: they are like a deceitful bow: their princes shall fall by the sword for the rage of their tongue: this [shall be] their derision in the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They turn, but not to the Most High; they are like a faulty bow. Their leaders w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.15|<< Hosea 7:15]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.1|Hosea 8:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they turn  |**<big>&#8207;[[H7725G\|יָשׁ֣וּבוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ya.Shu.vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

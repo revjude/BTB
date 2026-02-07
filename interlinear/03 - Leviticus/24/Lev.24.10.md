@@ -1,4 +1,4 @@
-**Leviticus 24:10** 
+**Leviticus 24:10**<big><big>[[Lev.24.10 Punishment for Blasphemy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the son of an Israelitish woman, whose father [was] an Egyptian, went out among the children of Israel: and this son of the Israelitish [woman] and a man of Israel strove together in the camp;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the son of an Israelite mother and an Egyptian father went out among the Isr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.9|<< Leviticus 24:9]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.11|Leviticus 24:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵא֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

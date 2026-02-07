@@ -1,5 +1,5 @@
-**Hebrews 7:17
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:17**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he testifieth, Thou [art] a priest for ever after the order of Melchisedec.
 <small><sub>**BSB:**</sub></small>
 For it is testified: “You are a priest forever in the order of Melchizedek.”
@@ -10,7 +10,7 @@ It is testified for that You [are] a priest to the age according to the order of
 > $\quad$ referencing: [[LXX.Ps.110.4|Ps 110:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It is testified [^1] |**<big>[[G3140\|μαρτυρεῖται]]</big>**  |martureitai <small><sup>[[V-PPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

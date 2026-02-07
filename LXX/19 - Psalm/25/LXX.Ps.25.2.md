@@ -1,10 +1,7 @@
 **LXX Psalm 25:2** 
 <small><sub>**LXX:**</sub></small>
 O my God, upon you I have yielded. May I not be disgraced into the eon; nor my enemies ridicule me! 
-<small><sub>**KJV:**</sub></small>
-O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me.
-<small><sub>**BSB:**</sub></small>
-in You, my God, I trust. Do not let me be put to shame; do not let my enemies exult over me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.1|<< Psalm 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.3|Psalm 25:3 >>]]</td></tr></table>
 
 | Translation | Greek |

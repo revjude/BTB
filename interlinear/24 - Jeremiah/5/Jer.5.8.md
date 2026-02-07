@@ -1,4 +1,4 @@
-**Jeremiah 5:8** 
+**Jeremiah 5:8**<big><big>[[Jer.5.1 No One Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They were [as] fed horses in the morning: every one neighed after his neighbour’s wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are well-fed, lusty stallions, each neighing after his neighbor’s wife.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.7|<< Jeremiah 5:7]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.9|Jeremiah 5:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | horses  |**<big>&#8207;[[H5483M\|סוּסִ֥ים]]&#8207; </big>**| su.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | well fed  |**<big>&#8207;[[H2109A\|מְיֻזָּנִ֖ים]]&#8207; </big>**| me.yu.za.Nim<small><sup>[[HVPsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

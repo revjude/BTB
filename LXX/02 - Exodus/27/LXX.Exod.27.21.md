@@ -1,10 +1,7 @@
 **LXX Exodus 27:21** 
 <small><sub>**LXX:**</sub></small>
 In the tent of the testimony, from outside the veil, the one by the covenant -- Aaron shall burn it and  his sons from evening until morning before \[the\] <span class="smallcaps">lord</span>; \[for an\] eternal law unto  your generations by the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-In the tabernacle of the congregation without the vail, which [is] before the testimony, Aaron and his sons shall order it from evening to morning before the LORD: [it shall be] a statute for ever unto their generations on the behalf of the children of Israel.
-<small><sub>**BSB:**</sub></small>
-In the Tent of Meeting, outside the veil that is in front of the Testimony, Aaron and his sons are to tend the lamps before the LORD from evening until morning. This is to be a permanent statute for the Israelites for the generations to come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.27.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.20|<< Exodus 27:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.1|Exodus 28:1 >>]]</td></tr></table>
 
 | Translation | Greek |

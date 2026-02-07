@@ -1,10 +1,7 @@
 **LXX Ezra 1:11** 
 <small><sub>**LXX:**</sub></small>
 All the items  of gold and  of silver -- five thousand four hundred. The whole \[amount\] Sheshbazzar led up with the resettlement ascending out of Babylon into Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-All the vessels of gold and of silver [were] five thousand and four hundred. All [these] did Sheshbazzar bring up with [them of] the captivity that were brought up from Babylon unto Jerusalem.
-<small><sub>**BSB:**</sub></small>
-In all, there were 5,400 gold and silver articles. Sheshbazzar brought all these along when the exiles went up from Babylon to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.1.10|<< Ezra 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.1|Ezra 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 35:6** 
+**Job 35:6**<big><big>[[Job.35.1 Elihu Recalls God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou sinnest, what doest thou against him? or [if] thy transgressions be multiplied, what doest thou unto him?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you sin, what do you accomplish against Him? If you multiply your transgressi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.35.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.35.5|<< Job 35:5]]</td><td align="center" style="border:none;">[[Job.35|Job 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.7|Job 35:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have sinned  |**<big>&#8207;[[H2398\|חָ֭טָאתָ]]&#8207; </big>**| Cha.ta.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

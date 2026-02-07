@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:26** 
 <small><sub>**LXX:**</sub></small>
 And Mephibosheth said to him, O my master, O king,  my servant misled me, for your servant said to him, Saddle for me the donkey, for I should mount upon it and go with the king, for your servant \[is\] lame. 
-<small><sub>**KJV:**</sub></small>
-And he answered, My lord, O king, my servant deceived me: for thy servant said, I will saddle me an ass, that I may ride thereon, and go to the king; because thy servant [is] lame.
-<small><sub>**BSB:**</sub></small>
-“My lord the king,” he replied, “because I am lame, I said, ‘I will have my donkey saddled so that I may ride on it and go with the king.’ But my servant Ziba deceived me,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.25|<< 2 Samuel 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.27|2 Samuel 19:27 >>]]</td></tr></table>
 
 | Translation | Greek |

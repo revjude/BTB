@@ -1,4 +1,4 @@
-**Zechariah 12:10** 
+**Zechariah 12:10**<big><big>[[Zech.12.10 Mourning the One They Pierced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for [his] only [son], and shall be in bitterness for him, as one that is in bitterness for [his] firstborn.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then I will pour out on the house of David and on the people of Jerusalem a spir
 > $\quad$ referenced by: [[John.19.37|John 19:37]] ☩ [[Rev.1.7|Rev 1:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will pour out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8210G\|שָׁפַכְתִּי֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.fakh.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jehoram son of Ahab reigned in Israel in Samaria in \[the\] eighteenth year of Jehoshaphat king of Judah. And he reigned twelve years. 
-<small><sub>**KJV:**</sub></small>
-Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.
-<small><sub>**BSB:**</sub></small>
-In the eighteenth year of Jehoshaphat’s reign over Judah, Jehoram son of Ahab became king of Israel, and he reigned in Samaria twelve years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.25|<< 2 Kings 2:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.2|2 Kings 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

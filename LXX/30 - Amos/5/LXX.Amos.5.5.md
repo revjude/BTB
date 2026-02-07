@@ -1,10 +1,7 @@
 **LXX Amos 5:5** 
 <small><sub>**LXX:**</sub></small>
 And do not seek after Beth-el, and into Gilgal enter not, and by  Well of the Oath do not pass over! For Gilgal, by capturing shall be captured, and Beth-el will be as not existing. 
-<small><sub>**KJV:**</sub></small>
-But seek not Bethel, nor enter into Gilgal, and pass not to Beersheba: for Gilgal shall surely go into captivity, and Bethel shall come to nought.
-<small><sub>**BSB:**</sub></small>
-Do not seek Bethel or go to Gilgal; do not journey to Beersheba, for Gilgal will surely go into exile, and Bethel will come to nothing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.4|<< Amos 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.6|Amos 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

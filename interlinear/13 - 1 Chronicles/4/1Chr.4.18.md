@@ -1,4 +1,4 @@
-**1 Chronicles 4:18** 
+**1 Chronicles 4:18**<big><big>[[1Chr.4.11 More Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his wife Jehudijah bare Jered the father of Gedor, and Heber the father of Socho, and Jekuthiel the father of Zanoah. And these [are] the sons of Bithiah the daughter of Pharaoh, which Mered took.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the children of Pharaoh’s daughter Bithiah. Mered also took a Judea
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.17|<< 1 Chronicles 4:17]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.19|1 Chronicles 4:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and wife his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0802H\|אִשְׁתּ֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ish.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> Judahitess  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3057\|יְהֻדִיָּ֗ה]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> y.hu.di.Yah<small><sup>[[HNgfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

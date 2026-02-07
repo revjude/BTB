@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:35** 
 <small><sub>**LXX:**</sub></small>
 And I will raise up for myself a trustworthy priest who will do all the \[things\] in my heart and the \[things\] in my soul. And I will build to him a trustworthy house, and he shall go through before my anointed one all the days. 
-<small><sub>**KJV:**</sub></small>
-And I will raise me up a faithful priest, [that] shall do according to [that] which [is] in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever.
-<small><sub>**BSB:**</sub></small>
-Then I will raise up for Myself a faithful priest. He will do whatever is in My heart and mind. And I will build for him an enduring house, and he will walk before My anointed one for all time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.34|<< 1 Samuel 2:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.36|1 Samuel 2:36 >>]]</td></tr></table>
 
 | Translation | Greek |

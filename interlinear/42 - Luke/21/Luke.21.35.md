@@ -1,5 +1,5 @@
-**Luke 21:35
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:35**<big><big>[[Luke.21.34 Be Watchful for the Day|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as a snare shall it come on all them that dwell on the face of the whole earth.
 <small><sub>**BSB:**</sub></small>
 For it will come upon all who dwell on the face of all the earth.
@@ -10,7 +10,7 @@ as a snare; It will enter for upon all those sitting upon [the] face of all the 
 > $\quad$ alluding to: [[LXX.Isa.24.17|Isa 24:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a snare; |**<big>[[G3803\|παγίς·]]</big>**  |pagis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

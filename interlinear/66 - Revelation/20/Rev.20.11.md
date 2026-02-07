@@ -1,12 +1,12 @@
-**Revelation 20:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 20:11**<big><big>[[Rev.20.11 Judgment before the Great White Throne|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.
 <small><sub>**BSB:**</sub></small>
 Then I saw a great white throne and the One seated on it. Earth and heaven fled from His presence, and no place was found for them.
 <small><sub>**Literal:**</sub></small>
 And I saw a throne great white and the [One] sitting on it, whose from <the> face fled the earth and <the> heaven and place not was found for them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.10|<< Revelation 20:10]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.12|Revelation 20:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

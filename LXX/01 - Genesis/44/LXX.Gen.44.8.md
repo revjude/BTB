@@ -1,10 +1,7 @@
 **LXX Genesis 44:8** 
 <small><sub>**LXX:**</sub></small>
 since the  silver which we found in  our bags we returned to you from \[the\] land of Canaan. How then would we steal from out of the house  of your master silver or gold? 
-<small><sub>**KJV:**</sub></small>
-Behold, the money, which we found in our sacks’ mouths, we brought again unto thee out of the land of Canaan: how then should we steal out of thy lord’s house silver or gold?
-<small><sub>**BSB:**</sub></small>
-We even brought back to you from the land of Canaan the silver we found in the mouths of our sacks. Why would we steal silver or gold from your master’s house?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.7|<< Genesis 44:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.9|Genesis 44:9 >>]]</td></tr></table>
 
 | Translation | Greek |

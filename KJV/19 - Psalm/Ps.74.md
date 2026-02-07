@@ -1,6 +1,6 @@
 (KJV) **Psalm 74**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73|<< Psalm 73]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.75|Psalm 75 >>]]</td></tr></table>
 
-***Why Have You Rejected Us Forever?***&emsp;<small><sup>\[ [[Ps.79|Psalms 79:1–13]] <big>†</big> [[Jer.52|Jeremiah 52:1–11]] ]</sup></small> ^bsb1367
+<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥃]]</big></big>***Why Have You Rejected Us Forever?***&emsp;<small><sup>\[ [[Ps.79|Psalms 79:1–13]] <big>†</big> [[Jer.52|Jeremiah 52:1–11]] ]</sup></small>
 
 
 

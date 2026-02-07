@@ -1,4 +1,4 @@
-**Isaiah 26:20** 
+**Isaiah 26:20**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come, my people, enter thou into thy chambers, and shut thy doors about thee: hide thyself as it were for a little moment, until the indignation be overpast.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Go, my people, enter your rooms and shut your doors behind you. Hide yourselves 
 > $\quad$ referenced by: [[Heb.10.37|Heb 10:37]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come  |**<big>&#8207;[[H1980K\|לֵ֤ךְ]]&#8207; </big>**| lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O people my  |**<big>&#8207;[[H5971A\|עַמִּ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

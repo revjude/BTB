@@ -1,4 +1,4 @@
-**Ezekiel 24:13** 
+**Ezekiel 24:13**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In thy filthiness [is] lewdness: because I have purged thee, and thou wast not purged, thou shalt not be purged from thy filthiness any more, till I have caused my fury to rest upon thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because of the indecency of your uncleanness I tried to cleanse you, but you wou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.12|<< Ezekiel 24:12]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.14|Ezekiel 24:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in uncleanness your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2932\|טֻמְאָתֵ֖]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> tum.'a.Te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | licentiousness  |**<big>&#8207;[[H2154\|זִמָּ֑ה]]&#8207; </big>**| zi.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

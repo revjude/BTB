@@ -1,12 +1,12 @@
-**Matthew 10:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:23**<big><big>[[Matt.10.16 Sheep among Wolves|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come.
 <small><sub>**BSB:**</sub></small>
 When they persecute you in one town, flee to the next. Truly I tell you, you will not reach all the towns of Israel before the Son of Man comes.
 <small><sub>**Literal:**</sub></small>
 Whenever then they may persecute you in the city one, do flee to <the> a different; Amen for I say to you; certainly not shall you have completed the cities <the> of Israel until when may come the Son <the> of Man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.22|<< Matthew 10:22]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.24|Matthew 10:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Whenever |**<big>[[G3752\|Ὅταν]]</big>**  |Hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

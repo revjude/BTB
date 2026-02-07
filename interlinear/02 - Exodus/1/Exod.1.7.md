@@ -1,4 +1,4 @@
-**Exodus 1:7** 
+**Exodus 1:7**<big><big>[[Exod.1.1 The Israelites Multiply in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ but the Israelites were fruitful and increased rapidly; they multiplied and beca
 > $\quad$ referenced by: [[Acts.7.17|Acts 7:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] people of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121G\|בְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֗ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

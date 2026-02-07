@@ -1,4 +1,4 @@
-**Genesis 21:2** 
+**Genesis 21:2**<big><big>[[Gen.21.1 The Birth of Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So Sarah conceived and bore a son to Abraham in his old age, at the very time Go
 > $\quad$ referenced by: [[Gal.4.22|Gal 4:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she conceived  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2029\|תַּהַר֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Har<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and she bore  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|תֵּ֨לֶד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.led<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

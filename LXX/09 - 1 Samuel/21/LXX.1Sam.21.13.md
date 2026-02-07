@@ -1,10 +1,7 @@
 **LXX 1 Samuel 21:13** 
 <small><sub>**LXX:**</sub></small>
 And he changed  his countenance before them. And carried about with  his hands, and fell upon the doors of the gateway, and  his saliva flowed down upon  his beard. 
-<small><sub>**KJV:**</sub></small>
-And he changed his behaviour before them, and feigned himself mad in their hands, and scrabbled on the doors of the gate, and let his spittle fall down upon his beard.
-<small><sub>**BSB:**</sub></small>
-So he changed his behavior before them and feigned madness in their hands; he scratched on the doors of the gate and let his saliva run down his beard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.12|<< 1 Samuel 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.14|1 Samuel 21:14 >>]]</td></tr></table>
 
 | Translation | Greek |

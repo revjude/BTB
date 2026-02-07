@@ -1,10 +1,7 @@
 **LXX Psalm 135:4** 
 <small><sub>**LXX:**</sub></small>
 For  the <span class="smallcaps">lord</span> chose Jacob for himself; Israel for a prized possession to himself. 
-<small><sub>**KJV:**</sub></small>
-For the LORD hath chosen Jacob unto himself, [and] Israel for his peculiar treasure.
-<small><sub>**BSB:**</sub></small>
-For the LORD has chosen Jacob as His own, Israel as His treasured possession.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.135.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.3|<< Psalm 135:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.5|Psalm 135:5 >>]]</td></tr></table>
 
 | Translation | Greek |

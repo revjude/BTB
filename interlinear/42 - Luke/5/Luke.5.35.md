@@ -1,12 +1,12 @@
-**Luke 5:35
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:35**<big><big>[[Luke.5.33 Questions about Fasting|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days.
 <small><sub>**BSB:**</sub></small>
 But the time will come when the bridegroom will be taken from them; then they will fast.”
 <small><sub>**Literal:**</sub></small>
 Will come however days also when may be taken away from them the bridegroom, then they will fast in those <the> days.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.34|<< Luke 5:34]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.36|Luke 5:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Will come |**<big>[[G2064\|ἐλεύσονται]]</big>**  |eleusontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

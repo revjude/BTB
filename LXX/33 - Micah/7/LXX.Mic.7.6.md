@@ -1,10 +1,7 @@
 **LXX Micah 7:6** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] son dishonors \[the\] father; \[the\] daughter rises up against  her mother, \[the\] daughter-in-law against  her mother-in-law; enemies \[are\] all the men, the ones in  his own house. 
-<small><sub>**KJV:**</sub></small>
-For the son dishonoureth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man’s enemies [are] the men of his own house.
-<small><sub>**BSB:**</sub></small>
-For a son dishonors his father, a daughter rises against her mother, and a daughter-in-law against her mother-in-law. A man’s enemies are the members of his own household.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.5|<< Micah 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.7|Micah 7:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Micah 7:6** is...

@@ -1,4 +1,4 @@
-**Hosea 2:2** (2:4)
+**Hosea 2:2**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Plead with your mother, plead: for she [is] not my wife, neither [am] I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rebuke your mother, rebuke her, for she is not My wife, and I am not her husband
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.1|<< Hosea 2:1]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.3|Hosea 2:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | conduct a case  |**<big>&#8207;[[H7378\|רִ֤יבוּ]]&#8207; </big>**| Ri.vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with mother your  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0517\|אִמְּ]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'i.me.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

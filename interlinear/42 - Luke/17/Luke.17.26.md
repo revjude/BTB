@@ -1,12 +1,12 @@
-**Luke 17:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:26**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as it was in the days of Noe, so shall it be also in the days of the Son of man.
 <small><sub>**BSB:**</sub></small>
 Just as it was in the days of Noah, so also will it be in the days of the Son of Man:
 <small><sub>**Literal:**</sub></small>
 And even as it came to pass in the days <the> of Noah, thus will it be also in the days of the Son <the> of man:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.25|<< Luke 17:25]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.27|Luke 17:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

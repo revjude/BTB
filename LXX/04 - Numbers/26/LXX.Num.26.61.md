@@ -1,10 +1,7 @@
 **LXX Numbers 26:61** 
 <small><sub>**LXX:**</sub></small>
 And Nadab and Abihu died in  their offering alien fire before \[the\] <span class="smallcaps">lord</span> in the wilderness of Sinai. 
-<small><sub>**KJV:**</sub></small>
-And Nadab and Abihu died, when they offered strange fire before the LORD.
-<small><sub>**BSB:**</sub></small>
-but Nadab and Abihu died when they offered unauthorized fire before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.61|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.60|<< Numbers 26:60]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.62|Numbers 26:62 >>]]</td></tr></table>
 
 | Translation | Greek |

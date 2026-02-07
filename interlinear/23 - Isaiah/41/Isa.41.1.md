@@ -1,4 +1,4 @@
-**Isaiah 41:1** 
+**Isaiah 41:1**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep silence before me, O islands; and let the people renew [their] strength: let them come near; then let them speak: let us come near together to judgment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Keep silence before me, O islands; and let the people renew [their] strength: le
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.31|<< Isaiah 40:31]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.2|Isaiah 41:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be silent  |**<big>&#8207;[[H2790B\|הַחֲרִ֤ישׁוּ]]&#8207; </big>**| ha.cha.Ri.shu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

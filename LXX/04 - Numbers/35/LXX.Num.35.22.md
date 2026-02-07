@@ -1,10 +1,7 @@
 **LXX Numbers 35:22** 
 <small><sub>**LXX:**</sub></small>
 But if suddenly, he should thrust him through not by hatred, or cast upon him any item, not from ambush, 
-<small><sub>**KJV:**</sub></small>
-But if he thrust him suddenly without enmity, or have cast upon him any thing without laying of wait,
-<small><sub>**BSB:**</sub></small>
-But if anyone pushes a person suddenly, without hostility, or throws an object at him unintentionally,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.21|<< Numbers 35:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.23|Numbers 35:23 >>]]</td></tr></table>
 
 | Translation | Greek |

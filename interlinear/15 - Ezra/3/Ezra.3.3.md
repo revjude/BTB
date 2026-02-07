@@ -1,4 +1,4 @@
-**Ezra 3:3** 
+**Ezra 3:3**<big><big>[[Ezra.3.1 Sacrifices Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they set the altar upon his bases; for fear [was] upon them because of the people of those countries: and they offered burnt offerings thereon unto the LORD, [even] burnt offerings morning and evening.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They set up the altar on its foundation and sacrificed burnt offerings on it to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3.2|<< Ezra 3:2]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.4|Ezra 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they established  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3559H\|יָּכִ֤ינוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Khi.nu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the altar  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4196\|מִּזְבֵּ֙חַ֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

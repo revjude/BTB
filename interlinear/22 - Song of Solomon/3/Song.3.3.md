@@ -1,4 +1,4 @@
-**Song of Solomon 3:3** 
+**Song of Solomon 3:3**<big><big>[[Song.3.1 The Bride’s Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The watchmen that go about the city found me: [to whom I said], Saw ye him whom my soul loveth?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I encountered the watchmen on their rounds of the city: “Have you seen the one
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.2|<< Song of Solomon 3:2]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.4|Song of Solomon 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they found me  |**<big>&#8207;[[H4672\|מְצָא֙וּ]]&#8207;&#8207;[[H9030\|נִי֙]]&#8207; </big>**| me.tza.'U.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the watchmen  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8104H\|שֹּׁ֣מְרִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Sho.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

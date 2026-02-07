@@ -1,10 +1,7 @@
 **LXX Job 1:21** 
 <small><sub>**LXX:**</sub></small>
 And said, I myself came forth naked from out of my mother's belly, and naked I shall go forth there. The <span class="smallcaps">lord</span> gave, the <span class="smallcaps">lord</span> removed, as to the <span class="smallcaps">lord</span> it seemed good, so also it came to pass. the name \[of the\] <span class="smallcaps">lord</span> be blessed. 
-<small><sub>**KJV:**</sub></small>
-And said, Naked came I out of my mother’s womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.
-<small><sub>**BSB:**</sub></small>
-saying: “Naked I came from my mother’s womb, and naked I will return. The LORD gave, and the LORD has taken away. Blessed be the name of the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.20|<< Job 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.22|Job 1:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Job 1:21** is...

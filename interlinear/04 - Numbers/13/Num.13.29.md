@@ -1,4 +1,4 @@
-**Numbers 13:29** 
+**Numbers 13:29**<big><big>[[Num.13.25 The Reports of the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Amalekites live in the land of the Negev; the Hittites, Jebusites, and Amori
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.28|<< Numbers 13:28]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.30|Numbers 13:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amalek  |**<big>&#8207;[[H6002G\|עֲמָלֵ֥ק]]&#8207; </big>**| 'a.ma.Lek<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] dwelling  |**<big>&#8207;[[H3427\|יוֹשֵׁ֖ב]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

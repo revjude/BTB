@@ -1,10 +1,7 @@
 **LXX Deuteronomy 24:14** 
 <small><sub>**LXX:**</sub></small>
 You shall not disregard \[the\] wage of \[the\] needy and one lacking from  your brethren, or of the foreigners, of the ones in  your cities. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not oppress an hired servant [that is] poor and needy, [whether he be] of thy brethren, or of thy strangers that [are] in thy land within thy gates:
-<small><sub>**BSB:**</sub></small>
-Do not oppress a hired hand who is poor and needy, whether he is a brother or a foreigner residing in one of your towns.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.13|<< Deuteronomy 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.15|Deuteronomy 24:15 >>]]</td></tr></table>
 
 | Translation | Greek |

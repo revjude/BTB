@@ -1,10 +1,7 @@
 **LXX Numbers 36:11** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass Mahlah, Tizrah, and Hoglah, and Milchah, and Noah, daughters of Zelophehad \[to\] their cousins 
-<small><sub>**KJV:**</sub></small>
-For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father’s brothers’ sons:
-<small><sub>**BSB:**</sub></small>
-Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, were married to cousins on their father’s side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.36.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.10|<< Numbers 36:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.12|Numbers 36:12 >>]]</td></tr></table>
 
 | Translation | Greek |

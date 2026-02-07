@@ -1,10 +1,7 @@
 **LXX Song of Solomon 5:2** 
 <small><sub>**LXX:**</sub></small>
 I sleep, but  my heart is sleepless. \[The\] voice of my beloved \[man\] knocks upon the door, \[saying\], Open to me my sister,  my dear one, my dove, my perfect one! for  my head is filled of dew, and  my curls of \[the\] mist of \[the\] night. 
-<small><sub>**KJV:**</sub></small>
-I sleep, but my heart waketh: [it is] the voice of my beloved that knocketh, [saying], Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, [and] my locks with the drops of the night.
-<small><sub>**BSB:**</sub></small>
-I sleep, but my heart is awake. A sound! My beloved is knocking: “Open to me, my sister, my darling, my dove, my flawless one. My head is drenched with dew, my hair with the dampness of the night.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.1|<< Song of Solomon 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.3|Song of Solomon 5:3 >>]]</td></tr></table>
 
 | Translation | Greek |

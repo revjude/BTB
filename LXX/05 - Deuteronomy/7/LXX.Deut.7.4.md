@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:4** 
 <small><sub>**LXX:**</sub></small>
 For your son will leave from me, and shall serve other gods, and \[the\] <span class="smallcaps">lord</span> shall be provoked to anger in rage against you, and shall utterly destroy you quickly. 
-<small><sub>**KJV:**</sub></small>
-For they will turn away thy son from following me, that they may serve other gods: so will the anger of the LORD be kindled against you, and destroy thee suddenly.
-<small><sub>**BSB:**</sub></small>
-because they will turn your sons away from following Me to serve other gods. Then the anger of the LORD will burn against you, and He will swiftly destroy you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.3|<< Deuteronomy 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.5|Deuteronomy 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

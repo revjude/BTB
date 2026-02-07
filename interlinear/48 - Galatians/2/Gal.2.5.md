@@ -1,12 +1,12 @@
-**Galatians 2:5
-**<small><sub>**KJV:**</sub></small>
+**Galatians 2:5**<big><big>[[Gal.2.1 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.
 <small><sub>**BSB:**</sub></small>
 We did not give in to them for a moment, so that the truth of the gospel would remain with you.
 <small><sub>**Literal:**</sub></small>
 to whom not even for an hour did we yield <the> in subjection, so that the truth of the gospel may continue with you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.4|<< Galatians 2:4]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.6|Galatians 2:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to whom |**<big>[[G3739\|οἷς]]</big>**  |hois <small><sup>[[R-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not even |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

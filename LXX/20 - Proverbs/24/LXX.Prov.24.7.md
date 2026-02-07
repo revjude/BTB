@@ -1,10 +1,7 @@
 **LXX Proverbs 24:7** 
 <small><sub>**LXX:**</sub></small>
 Wisdom and good insight \[are\] in \[the\] gates of \[the\] wise. \[The\] wise do not turn aside from \[the\] law of \[the\] <span class="smallcaps">lord</span>, but consider \[things\] in \[the\] sanhedrins; \[but the\] uninstructed ones meet with death, 
-<small><sub>**KJV:**</sub></small>
-Wisdom [is] too high for a fool: he openeth not his mouth in the gate.
-<small><sub>**BSB:**</sub></small>
-Wisdom is too high for a fool; he does not open his mouth in the meeting place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.6|<< Proverbs 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.9|Proverbs 24:9 >>]]</td></tr></table>
 
 | Translation | Greek |

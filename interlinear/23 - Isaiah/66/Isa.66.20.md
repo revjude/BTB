@@ -1,4 +1,4 @@
-**Isaiah 66:20** 
+**Isaiah 66:20**<big><big>[[Isa.66.15 Final Judgments against the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall bring all your brethren [for] an offering unto the LORD out of all nations upon horses, and in chariots, and in litters, and upon mules, and upon swift beasts, to my holy mountain Jerusalem, saith the LORD, as the children of Israel bring an offering in a clean vessel into the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they will bring all your brothers from all the nations as a gift to the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.19|<< Isaiah 66:19]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.21|Isaiah 66:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will bring back  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0935P\|הֵבִ֣יאוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Vi.'u<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

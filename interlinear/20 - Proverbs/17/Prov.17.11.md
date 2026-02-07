@@ -1,4 +1,4 @@
-**Proverbs 17:11** 
+**Proverbs 17:11**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 An evil [man] seeketh only rebellion: therefore a cruel messenger shall be sent against him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ An evil man seeks only rebellion; a cruel messenger will be sent against him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.10|<< Proverbs 17:10]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.12|Proverbs 17:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H0389\|אַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'akh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rebellion  |**<big>&#8207;[[H4805H\|מְרִ֥י]]&#8207; </big>**| me.Ri<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

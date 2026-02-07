@@ -1,12 +1,12 @@
-**John 4:40
-**<small><sub>**KJV:**</sub></small>
+**John 4:40**<big><big>[[John.4.39 Many Samaritans Believe|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So when the Samaritans were come unto him, they besought him that he would tarry with them: and he abode there two days.
 <small><sub>**BSB:**</sub></small>
 So when the Samaritans came to Him, they asked Him to stay with them, and He stayed two days.
 <small><sub>**Literal:**</sub></small>
 When therefore came to Him the Samaritans, they were asking Him to abide with them. and He stayed there two days.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.39|<< John 4:39]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.41|John 4:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

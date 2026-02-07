@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:13** 
 <small><sub>**LXX:**</sub></small>
 And behold, one prophet came forward  to Ahab king of Israel, and he said, Thus says \[the\] <span class="smallcaps">lord</span>, \[Have\] you seen all  this great multitude? Behold, I give it today into your hands; and you shall know that I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And, behold, there came a prophet unto Ahab king of Israel, saying, Thus saith the LORD, Hast thou seen all this great multitude? behold, I will deliver it into thine hand this day; and thou shalt know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-Meanwhile a prophet approached Ahab king of Israel and declared, “This is what the LORD says: ‘Do you see this entire great army? Behold, I will deliver it into your hand this very day, and you will know that I am the LORD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.12|<< 1 Kings 20:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.14|1 Kings 20:14 >>]]</td></tr></table>
 
 | Translation | Greek |

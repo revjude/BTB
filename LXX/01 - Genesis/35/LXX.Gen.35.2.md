@@ -1,10 +1,7 @@
 **LXX Genesis 35:2** 
 <small><sub>**LXX:**</sub></small>
 And Jacob said  to his house, and to all the \[ones\] with him, Take away  the alien gods from your midst, and cleanse and change  your robes! 
-<small><sub>**KJV:**</sub></small>
-Then Jacob said unto his household, and to all that [were] with him, Put away the strange gods that [are] among you, and be clean, and change your garments:
-<small><sub>**BSB:**</sub></small>
-So Jacob told his household and all who were with him, “Get rid of the foreign gods that are among you. Purify yourselves and change your garments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.35.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.1|<< Genesis 35:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.3|Genesis 35:3 >>]]</td></tr></table>
 
 | Translation | Greek |

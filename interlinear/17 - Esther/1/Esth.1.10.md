@@ -1,4 +1,4 @@
-**Esther 1:10** 
+**Esther 1:10**<big><big>[[Esth.1.9 Queen Vashti’s Refusal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven chamberlains that served in the presence of Ahasuerus the king,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the seventh day, when the king’s heart was merry with wine, he ordered the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.9|<< Esther 1:9]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.11|Esther 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּוֹם֙]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> seventh  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7637\|שְּׁבִיעִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

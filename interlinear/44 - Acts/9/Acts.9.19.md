@@ -1,12 +1,12 @@
-**Acts 9:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:19**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had received meat, he was strengthened. Then was Saul certain days with the disciples which were at Damascus.
 <small><sub>**BSB:**</sub></small>
 and after taking some food, he regained his strength. And he spent several days with the disciples in Damascus.
 <small><sub>**Literal:**</sub></small>
 and having taken food he strengthened. He was now <the> Saul with those in Damascus [the] disciple,s days [for] some;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.18|<< Acts 9:18]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.20|Acts 9:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken |**<big>[[G2983\|λαβὼν]]</big>**  |labōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:6** 
 <small><sub>**LXX:**</sub></small>
 And king Jehoram went forth in  that day from out of Samaria, and he numbered  Israel. 
-<small><sub>**KJV:**</sub></small>
-And king Jehoram went out of Samaria the same time, and numbered all Israel.
-<small><sub>**BSB:**</sub></small>
-So at that time King Jehoram set out from Samaria and mobilized all Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.5|<< 2 Kings 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.7|2 Kings 3:7 >>]]</td></tr></table>
 
 | Translation | Greek |

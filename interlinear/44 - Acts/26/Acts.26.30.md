@@ -1,12 +1,12 @@
-**Acts 26:30
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:30**<big><big>[[Acts.26.24 Festus Interrupts Paul’s Defense|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them:
 <small><sub>**BSB:**</sub></small>
 Then the king and the governor rose, along with Bernice and those seated with them.
 <small><sub>**Literal:**</sub></small>
 and these things when was speaking he rose up then the king and the governor <the> and Bernice and those sitting with them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.29|<< Acts 26:29]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.31|Acts 26:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 | these things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

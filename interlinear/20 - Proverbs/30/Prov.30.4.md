@@ -1,4 +1,4 @@
-**Proverbs 30:4** 
+**Proverbs 30:4**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what [is] his name, and what [is] his son’s name, if thou canst tell?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who has ascended to heaven and come down? Who has gathered the wind in His hands
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.3|<< Proverbs 30:3]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.5|Proverbs 30:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | has he gone up  |**<big>&#8207;[[H5927G\|עָלָֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.lah-<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

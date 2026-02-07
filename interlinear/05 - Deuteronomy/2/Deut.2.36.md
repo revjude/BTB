@@ -1,4 +1,4 @@
-**Deuteronomy 2:36** 
+**Deuteronomy 2:36**<big><big>[[Deut.2.24 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From Aroer, which [is] by the brink of the river of Arnon, and [from] the city that [is] by the river, even unto Gilead, there was not one city too strong for us: the LORD our God delivered all unto us:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From Aroer on the rim of the Arnon Valley, along with the city in the valley, ev
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.35|<< Deuteronomy 2:35]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.37|Deuteronomy 2:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from Aroer  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H6177H\|עֲרֹעֵ֡ר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.ro.'Er<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר֩]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

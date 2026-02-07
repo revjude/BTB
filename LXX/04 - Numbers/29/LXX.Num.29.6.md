@@ -1,10 +1,7 @@
 **LXX Numbers 29:6** 
 <small><sub>**LXX:**</sub></small>
 besides the whole burnt-offerings of the new moon, and  their sacrifice \[offerings\], and  their libations, and the continual whole burnt-offering, and  their sacrifice \[offerings\], and  their libations according to  their interpretation for a scent of pleasant aroma \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Beside the burnt offering of the month, and his meat offering, and the daily burnt offering, and his meat offering, and their drink offerings, according unto their manner, for a sweet savour, a sacrifice made by fire unto the LORD.
-<small><sub>**BSB:**</sub></small>
-These are in addition to the monthly and daily burnt offerings with their prescribed grain offerings and drink offerings. They are a pleasing aroma, a food offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.5|<< Numbers 29:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.7|Numbers 29:7 >>]]</td></tr></table>
 
 | Translation | Greek |

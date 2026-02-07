@@ -1,4 +1,4 @@
-**Psalms 90:4** 
+**Psalms 90:4**<big><big>[[Ps.90.1 From Everlasting to Everlasting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a thousand years in thy sight [are but] as yesterday when it is past, and [as] a watch in the night.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For in Your sight a thousand years are but a day that passes, or a watch of the 
 > $\quad$ referenced by: [[2Pet.3.8|2Pet 3:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a thousand  |**<big>&#8207;[[H0505G\|אֶ֪לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 40:9** 
 <small><sub>**LXX:**</sub></small>
 And you shall take the oil of the scented unguent, and you shall anoint the tent, and all the \[things\] in it. And you shall sanctify it, and all  \[its\] items. And it shall be holy. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt take the anointing oil, and anoint the tabernacle, and all that [is] therein, and shalt hallow it, and all the vessels thereof: and it shall be holy.
-<small><sub>**BSB:**</sub></small>
-Take the anointing oil and anoint the tabernacle and everything in it; consecrate it along with all its furnishings, and it shall be holy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.8|<< Exodus 40:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.10|Exodus 40:10 >>]]</td></tr></table>
 
 | Translation | Greek |

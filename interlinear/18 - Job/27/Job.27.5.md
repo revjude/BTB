@@ -1,4 +1,4 @@
-**Job 27:5** 
+**Job 27:5**<big><big>[[Job.27.1 Job Affirms His Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God forbid that I should justify you: till I die I will not remove mine integrity from me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will never say that you are right; I will maintain my integrity until I die.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.4|<< Job 27:4]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.6|Job 27:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | far be it  |**<big>&#8207;[[H2486\|חָלִ֣ילָה]]&#8207; </big>**| cha.Li.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H9005\|לִּ]]&#8207;&#8207;[[H9030\|י֮]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

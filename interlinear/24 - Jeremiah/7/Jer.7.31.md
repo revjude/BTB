@@ -1,4 +1,4 @@
-**Jeremiah 7:31** 
+**Jeremiah 7:31**<big><big>[[Jer.7.30 The Valley of Slaughter|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they have built the high places of Tophet, which [is] in the valley of the son of Hinnom, to burn their sons and their daughters in the fire; which I commanded [them] not, neither came it into my heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have built the high places of Topheth in the Valley of Ben-hinnom so they c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.30|<< Jeremiah 7:30]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.32|Jeremiah 7:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they have built  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1129\|בָנ֞וּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> va.Nu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] high places of  |**<big>&#8207;[[H1116\|בָּמ֣וֹת]]&#8207; </big>**| ba.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 34:13** 
+**Job 34:13**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath given him a charge over the earth? or who hath disposed the whole world?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who gave Him charge over the earth? Who appointed Him over the whole world?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.12|<< Job 34:12]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.14|Job 34:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | did he assign  |**<big>&#8207;[[H6485J\|פָקַ֣ד]]&#8207; </big>**| fa.Kad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

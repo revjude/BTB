@@ -1,12 +1,12 @@
-**Matthew 24:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:3**<big><big>[[Matt.24.1 Temple Destruction and Other Signs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what [shall be] the sign of thy coming, and of the end of the world?
 <small><sub>**BSB:**</sub></small>
 While Jesus was sitting on the Mount of Olives, the disciples came to Him privately. “Tell us,” they said, “when will these things happen, and what will be the sign of Your coming and of the end of the age?”
 <small><sub>**Literal:**</sub></small>
 When was sitting now He upon the Mount <the> of Olives came to to Him the disciples in private saying; do tell us when these things will be And what [is] the sign <the> of Your coming and of the consummation of the age?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.2|<< Matthew 24:2]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.4|Matthew 24:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was sitting |**<big>[[G2521\|Καθημένου]]</big>**  |Kathēmenou <small><sup>[[V-PNP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

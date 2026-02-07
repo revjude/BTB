@@ -1,4 +1,4 @@
-**Numbers 18:10** 
+**Numbers 18:10**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the most holy [place] shalt thou eat it; every male shall eat it: it shall be holy unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to eat it as a most holy offering, and every male may eat it. You shall 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.9|<< Numbers 18:9]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.11|Numbers 18:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> [the] holy thing of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6944G\|קֹ֥דֶשׁ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ko.desh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the holy things  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6944G\|קֳּדָשִׁ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.da.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

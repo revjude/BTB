@@ -1,12 +1,12 @@
-**1 Peter 2:16
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:16**<big><big>[[1Pet.2.13 Submission to Authorities|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As free, and not using [your] liberty for a cloke of maliciousness, but as the servants of God.
 <small><sub>**BSB:**</sub></small>
 Live in freedom, but do not use your freedom as a cover-up for evil; live as servants of God.
 <small><sub>**Literal:**</sub></small>
 as free and not as a cover-up having <the> for evil the freedom, but as of God servants.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.15|<< 1 Peter 2:15]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.17|1 Peter 2:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | free |**<big>[[G1658\|ἐλεύθεροι]]</big>**  |eleutheroi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

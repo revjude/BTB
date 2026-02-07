@@ -1,4 +1,4 @@
-**Jeremiah 48:15** 
+**Jeremiah 48:15**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moab is spoiled, and gone up [out of] her cities, and his chosen young men are gone down to the slaughter, saith the King, whose name [is] the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moab has been destroyed and its towns have been invaded; the best of its young m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.14|<< Jeremiah 48:14]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.16|Jeremiah 48:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will be devastated  |**<big>&#8207;[[H7703\|שֻׁדַּ֤ד]]&#8207; </big>**| shu.Dad<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moab  |**<big>&#8207;[[H4124G\|מוֹאָב֙]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

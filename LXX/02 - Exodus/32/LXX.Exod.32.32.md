@@ -1,10 +1,7 @@
 **LXX Exodus 32:32** 
 <small><sub>**LXX:**</sub></small>
 And now, if forasmuch as you forgive them  of their sin -- forgive! But if not, wipe me away from out of  your book of which you wrote! 
-<small><sub>**KJV:**</sub></small>
-Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written.
-<small><sub>**BSB:**</sub></small>
-Yet now, if You would only forgive their sin.... But if not, please blot me out of the book that You have written.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.31|<< Exodus 32:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.33|Exodus 32:33 >>]]</td></tr></table>
 
 | Translation | Greek |

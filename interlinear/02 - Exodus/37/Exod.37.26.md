@@ -1,4 +1,4 @@
-**Exodus 37:26** 
+**Exodus 37:26**<big><big>[[Exod.37.25 The Altar of Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he overlaid it with pure gold, [both] the top of it, and the sides thereof round about, and the horns of it: also he made unto it a crown of gold round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he overlaid with pure gold the top and all the sides and horns. Then he made
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.25|<< Exodus 37:25]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.27|Exodus 37:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he overlaid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6823\|יְצַ֨ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Tzaf<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹת֜]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

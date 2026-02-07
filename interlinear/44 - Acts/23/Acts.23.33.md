@@ -1,12 +1,12 @@
-**Acts 23:33
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:33**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who, when they came to Caesarea, and delivered the epistle to the governor, presented Paul also before him.
 <small><sub>**BSB:**</sub></small>
 When the horsemen arrived in Caesarea, they delivered the letter to the governor and presented Paul to him.
 <small><sub>**Literal:**</sub></small>
 who having entered into <the> Caesarea and having delivered the letter to the governor presented also <the> Paul to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.32|<< Acts 23:32]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.34|Acts 23:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3748\|οἵτινες]]</big>**  |oitines <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having entered |**<big>[[G1525\|εἰσελθόντες]]</big>**  |eiselthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

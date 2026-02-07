@@ -1,10 +1,7 @@
 **LXX Psalm 41:13** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[be\] \[the\] <span class="smallcaps">lord</span>  God of Israel, from the eon and into the eon. May it be, May it be. 
-<small><sub>**KJV:**</sub></small>
-Blessed [be] the LORD God of Israel from everlasting, and to everlasting. Amen, and Amen.
-<small><sub>**BSB:**</sub></small>
-Blessed be the LORD, the God of Israel, from everlasting to everlasting. Amen and Amen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.41.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.41.12|<< Psalm 41:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.42.1|Psalm 42:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Colossians 3:20
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:20**<big><big>[[Col.3.18 Christian Households|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Children, obey [your] parents in all things: for this is well pleasing unto the Lord.
 <small><sub>**BSB:**</sub></small>
 Children, obey your parents in everything, for this is pleasing to the Lord.
 <small><sub>**Literal:**</sub></small>
 you who [are] Children, do obey the parents in all things; this for pleasing is in Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.19|<< Colossians 3:19]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.21|Colossians 3:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you who [are] |**<big>[[G3588\|Τὰ]]</big>**  |Ta <small><sup>[[T-VPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Children, |**<big>[[G5043\|τέκνα,]]</big>**  |tekna <small><sup>[[N-VPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

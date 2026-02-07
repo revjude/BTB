@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In the twentieth year  of Jeroboam king  of Israel, Asa reigned over Judah. 
-<small><sub>**KJV:**</sub></small>
-And in the twentieth year of Jeroboam king of Israel reigned Asa over Judah.
-<small><sub>**BSB:**</sub></small>
-In the twentieth year of Jeroboam’s reign over Israel, Asa became king of Judah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.8|<< 1 Kings 15:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.10|1 Kings 15:10 >>]]</td></tr></table>
 
 | Translation | Greek |

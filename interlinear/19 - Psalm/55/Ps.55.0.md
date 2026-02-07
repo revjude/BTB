@@ -1,12 +1,10 @@
-**Psalms 55:0** (55:1)
+**Psalms 55:0**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician on Neginoth, Maschil, [A Psalm] of David. Give ear to my prayer, O God; and hide not thyself from my supplication.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. With stringed instruments. A Maskil of David. Listen to my prayer, O God, and do not ignore my plea.
+To the chief Musician on Neginoth, Maschil, [A Psalm] of David.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.54.7|<< Psalms 54:7]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.1|Psalms 55:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the choirmaster  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5329\|מְנַצֵּ֥חַ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> m.na.Tze.ach<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with stringed instruments  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H5058\|נְגִינֹ֗ת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> n.gi.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

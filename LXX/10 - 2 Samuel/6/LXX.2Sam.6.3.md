@@ -1,10 +1,7 @@
 **LXX 2 Samuel 6:3** 
 <small><sub>**LXX:**</sub></small>
 And they set the ark  of God upon a new wagon, and lifted it from out of \[the\] house of Abinadab, the one on the hill. And Uzzah and  his brethren, \[the\] sons of Abinadab, led the wagon with the ark. 
-<small><sub>**KJV:**</sub></small>
-And they set the ark of God upon a new cart, and brought it out of the house of Abinadab that [was] in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drave the new cart.
-<small><sub>**BSB:**</sub></small>
-They set the ark of God on a new cart and brought it from the house of Abinadab, which was on the hill. Uzzah and Ahio, the sons of Abinadab, were guiding the new cart,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.2|<< 2 Samuel 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.4|2 Samuel 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

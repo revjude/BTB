@@ -1,10 +1,7 @@
 **LXX Joshua 8:6** 
 <small><sub>**LXX:**</sub></small>
 that whenever they should come forth after us, we shall draw them away from the city. And they will say, They flee from our face in which manner before; and we shall flee from them. 
-<small><sub>**KJV:**</sub></small>
-(For they will come out after us) till we have drawn them from the city; for they will say, They flee before us, as at the first: therefore we will flee before them.
-<small><sub>**BSB:**</sub></small>
-They will pursue us until we have drawn them away from the city, for they will say, ‘The Israelites are running away from us as they did before.’ So as we flee from them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.5|<< Joshua 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.7|Joshua 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

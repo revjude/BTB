@@ -1,12 +1,12 @@
-**1 Thessalonians 1:3
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 1:3**<big><big>[[1Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;
 <small><sub>**BSB:**</sub></small>
 and continually recalling before our God and Father your work of faith, your labor of love, and your enduring hope in our Lord Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 remembering your <the> work <the> of faith and <the> labor <the> of love and the endurance of the hope of the Lord of us Jesus Christ before the God and Father of us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.2|<< 1 Thessalonians 1:2]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.4|1 Thessalonians 1:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remembering |**<big>[[G3421\|μνημονεύοντες]]</big>**  |mnēmoneuontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | your |**<big>[[G4771\|ὑμῶν]]</big>**  |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

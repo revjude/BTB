@@ -1,10 +1,7 @@
 **LXX Isaiah 45:6** 
 <small><sub>**LXX:**</sub></small>
 that the ones from \[the\] east sun and the ones from \[the\] west should know that there is not \[one\] besides me. I \[am\] \[the\] <span class="smallcaps">lord</span>  God, and there is not any more. 
-<small><sub>**KJV:**</sub></small>
-That they may know from the rising of the sun, and from the west, that [there is] none beside me. I [am] the LORD, and [there is] none else.
-<small><sub>**BSB:**</sub></small>
-so that all may know, from where the sun rises to where it sets, that there is none but Me; I am the LORD, and there is no other.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.45.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.5|<< Isaiah 45:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.7|Isaiah 45:7 >>]]</td></tr></table>
 
 | Translation | Greek |

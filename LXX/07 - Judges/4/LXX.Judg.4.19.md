@@ -1,10 +1,7 @@
 **LXX Judges 4:19** 
 <small><sub>**LXX:**</sub></small>
 And Sisera said to her, Give a drink please to me, a little water! for I am thirsty. And she opened the leather bag of the milk, and she gave him to drink, and she covered  his person. 
-<small><sub>**KJV:**</sub></small>
-And he said unto her, Give me, I pray thee, a little water to drink; for I am thirsty. And she opened a bottle of milk, and gave him drink, and covered him.
-<small><sub>**BSB:**</sub></small>
-Sisera said to her, “Please give me a little water to drink, for I am thirsty.” So she opened a container of milk, gave him a drink, and covered him again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.18|<< Judges 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.20|Judges 4:20 >>]]</td></tr></table>
 
 | Translation | Greek |

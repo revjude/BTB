@@ -1,10 +1,7 @@
 **LXX Deuteronomy 14:14** 
 <small><sub>**LXX:**</sub></small>
 and every crow and the \[ones\] likened to it, 
-<small><sub>**KJV:**</sub></small>
-And every raven after his kind,
-<small><sub>**BSB:**</sub></small>
-any kind of raven,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.13|<< Deuteronomy 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.15|Deuteronomy 14:15 >>]]</td></tr></table>
 
 | Translation | Greek |

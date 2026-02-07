@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:24** 
 <small><sub>**LXX:**</sub></small>
 And all the trees of the plain shall know that I \[am\] \[the\] <span class="smallcaps">lord</span>, the one humbling \[the\] high tree, and raising up high \[the\] low tree; and drying \[the\] green tree, and again flourishing \[the\] dry tree. I \[the\] <span class="smallcaps">lord</span>, I have spoken and I shall act. 
-<small><sub>**KJV:**</sub></small>
-And all the trees of the field shall know that I the LORD have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree to flourish: I the LORD have spoken and have done [it].
-<small><sub>**BSB:**</sub></small>
-Then all the trees of the field will know that I am the LORD. I bring the tall tree down and make the low tree tall. I dry up the green tree and make the withered tree flourish. I, the LORD, have spoken, and I have done it.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.23|<< Ezekiel 17:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.1|Ezekiel 18:1 >>]]</td></tr></table>
 
 | Translation | Greek |

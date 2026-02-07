@@ -1,10 +1,7 @@
 **LXX Ruth 1:11** 
 <small><sub>**LXX:**</sub></small>
 And Naomi said, Return please, my daughters! Why do you go with me? \[Are there\] still to me sons in  my belly, and will they be to you for husbands? 
-<small><sub>**KJV:**</sub></small>
-And Naomi said, Turn again, my daughters: why will ye go with me? [are] there yet [any more] sons in my womb, that they may be your husbands?
-<small><sub>**BSB:**</sub></small>
-But Naomi replied, “Return home, my daughters. Why would you go with me? Are there still sons in my womb to become your husbands?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.10|<< Ruth 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.12|Ruth 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

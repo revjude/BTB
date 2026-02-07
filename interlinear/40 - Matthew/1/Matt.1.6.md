@@ -1,5 +1,5 @@
-**Matthew 1:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:6**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesse begat David the king; and David the king begat Solomon of her [that had been the wife] of Urias;
 <small><sub>**BSB:**</sub></small>
 and Jesse the father of David the king. Next: David was the father of Solomon by Uriah’s wife,
@@ -10,7 +10,7 @@ Jesse then begat <the> David the king; David then the king begat <the> Solomon o
 > $\quad$ referencing: [[LXX.Ruth.4.18|Ruth 4:18-22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Jesse |**<big>[[G2421\|Ἰεσσαὶ]]</big>**  |Iessai <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

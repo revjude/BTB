@@ -1,12 +1,12 @@
-**Matthew 20:1
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:1**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the kingdom of heaven is like unto a man [that is] an householder, which went out early in the morning to hire labourers into his vineyard.
 <small><sub>**BSB:**</sub></small>
 “For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard.
 <small><sub>**Literal:**</sub></small>
 Like for is the kingdom of the heavens to a man a master of a house who went out in [the] morning to hire workmen for the vineyard of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.30|<< Matthew 19:30]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.2|Matthew 20:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Like |**<big>[[G3664\|Ὁμοία]]</big>**  |Homoia <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

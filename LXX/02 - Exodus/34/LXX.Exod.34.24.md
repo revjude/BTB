@@ -1,10 +1,7 @@
 **LXX Exodus 34:24** 
 <small><sub>**LXX:**</sub></small>
 For whenever I shall cast out the nations from your face, and I widen  your borders,  no one shall desire  your land, when ever you ascend to appear before \[the\] <span class="smallcaps">lord</span>  your God three times  a year. 
-<small><sub>**KJV:**</sub></small>
-For I will cast out the nations before thee, and enlarge thy borders: neither shall any man desire thy land, when thou shalt go up to appear before the LORD thy God thrice in the year.
-<small><sub>**BSB:**</sub></small>
-For I will drive out the nations before you and enlarge your borders, and no one will covet your land when you go up three times a year to appear before the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.23|<< Exodus 34:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.25|Exodus 34:25 >>]]</td></tr></table>
 
 | Translation | Greek |

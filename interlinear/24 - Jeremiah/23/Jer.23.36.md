@@ -1,4 +1,4 @@
-**Jeremiah 23:36** 
+**Jeremiah 23:36**<big><big>[[Jer.23.33 False Prophecies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the burden of the LORD shall ye mention no more: for every man’s word shall be his burden; for ye have perverted the words of the living God, of the LORD of hosts our God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But refer no more to the burden of the LORD, for each man’s word becomes the b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.35|<< Jeremiah 23:35]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.37|Jeremiah 23:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] burden of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4853B\|מַשָּׂ֥א]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.Sa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

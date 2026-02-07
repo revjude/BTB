@@ -1,4 +1,4 @@
-**Isaiah 65:16** 
+**Isaiah 65:16**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That he who blesseth himself in the earth shall bless himself in the God of truth; and he that sweareth in the earth shall swear by the God of truth; because the former troubles are forgotten, and because they are hid from mine eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever invokes a blessing in the land will do so by the God of truth, and whoev
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.15|<< Isaiah 65:15]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.17|Isaiah 65:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [one who] blesses himself  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1288\|מִּתְבָּרֵ֜ךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mit.ba.Rekh<small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

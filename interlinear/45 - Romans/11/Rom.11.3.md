@@ -1,5 +1,5 @@
-**Romans 11:3
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:3**<big><big>[[Rom.11.1 A Remnant Chosen by Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life.
 <small><sub>**BSB:**</sub></small>
 “Lord, they have killed Your prophets and torn down Your altars. I am the only one left, and they are seeking my life as well”?
@@ -10,7 +10,7 @@ Lord, the prophets of You they have killed, and the altars of You they have torn
 > $\quad$ referencing: [[LXX.1Kgs.19.10|1Kgs 19:10]] ☩ [[LXX.1Kgs.19.14|1Kgs 19:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Lord, |**<big>[[G2962G\|κύριε,]]</big>**  |kurie <small><sup>[[N-VSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Lamentations 3:34** 
+**Lamentations 3:34**<big><big>[[Lam.3.19 The Prophet’s Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To crush under his feet all the prisoners of the earth,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To crush underfoot all the prisoners of the land,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.33|<< Lamentations 3:33]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.35|Lamentations 3:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to crush  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1792\|דַכֵּא֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> da.Ke'<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | under  |**<big>&#8207;[[H8478G\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

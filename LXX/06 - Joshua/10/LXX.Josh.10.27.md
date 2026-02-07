@@ -1,10 +1,7 @@
 **LXX Joshua 10:27** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass towards \[the\] descent of \[the\] sun, and Joshua gave charge, and they lowered them from the trees. And they tossed them into the cave into which they took refuge there. And they rolled great stones upon the cave, \[which remains\] until the day today. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at the time of the going down of the sun, [that] Joshua commanded, and they took them down off the trees, and cast them into the cave wherein they had been hid, and laid great stones in the cave’s mouth, [which remain] until this very day.
-<small><sub>**BSB:**</sub></small>
-At sunset Joshua ordered that they be taken down from the trees and thrown into the cave in which they had hidden. Then large stones were placed against the mouth of the cave, and the stones are there to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.26|<< Joshua 10:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.28|Joshua 10:28 >>]]</td></tr></table>
 
 | Translation | Greek |

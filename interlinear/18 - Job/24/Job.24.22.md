@@ -1,4 +1,4 @@
-**Job 24:22** 
+**Job 24:22**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He draweth also the mighty with his power: he riseth up, and no [man] is sure of life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet by His power, God drags away the mighty; though rising up, they have no assu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.21|<< Job 24:21]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.23|Job 24:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he drags off  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4900\|מָשַׁ֣ךְ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ma.Shakh<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mighty [ones]  |**<big>&#8207;[[H0047I\|אַבִּירִ֣ים]]&#8207; </big>**| 'a.bi.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

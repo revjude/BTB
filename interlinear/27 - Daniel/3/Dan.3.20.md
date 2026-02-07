@@ -1,4 +1,4 @@
-**Daniel 3:20** 
+**Daniel 3:20**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he commanded the most mighty men that [were] in his army to bind Shadrach, Meshach, and Abednego, [and] to cast [them] into the burning fiery furnace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he commanded some mighty men of valor in his army to tie up Shadrach, Meshac
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.19|<< Daniel 3:19]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.21|Daniel 3:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to men  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1400\|גֻבְרִ֤ין]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> le.<small><sup>[[AR]]</sup></small> guv.Rin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mighty men of  |**<big>&#8207;[[H1401\|גִּבָּֽרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gi.ba.rei-<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

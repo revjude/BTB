@@ -1,12 +1,12 @@
-**Luke 8:5
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:5**<big><big>[[Luke.8.4 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 A sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it.
 <small><sub>**BSB:**</sub></small>
 “A farmer went out to sow his seed. And as he was sowing, some seed fell along the path, where it was trampled, and the birds of the air devoured it.
 <small><sub>**Literal:**</sub></small>
 Went out the [one] sowing <the> to sow the seed of him; And in the sowing of him some indeed fell along the road and it was trampled upon, and the birds of the air devoured it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.4|<< Luke 8:4]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.6|Luke 8:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Went out |**<big>[[G1831\|ἐξῆλθεν]]</big>**  |exēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

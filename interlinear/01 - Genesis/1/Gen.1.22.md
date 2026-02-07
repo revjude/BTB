@@ -1,4 +1,4 @@
-**Genesis 1:22** 
+**Genesis 1:22**<big><big>[[Gen.1.20 The Fifth Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then God blessed them and said, “Be fruitful and multiply and fill the waters 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.21|<< Genesis 1:21]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.23|Genesis 1:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he blessed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1288\|יְבָ֧רֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Va.rekh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ֛]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

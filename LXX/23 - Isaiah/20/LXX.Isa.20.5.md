@@ -1,10 +1,7 @@
 **LXX Isaiah 20:5** 
 <small><sub>**LXX:**</sub></small>
 And they shall be ashamed being vanquished upon the Ethiopians of whom the Egyptians were relying, for they were their glory. 
-<small><sub>**KJV:**</sub></small>
-And they shall be afraid and ashamed of Ethiopia their expectation, and of Egypt their glory.
-<small><sub>**BSB:**</sub></small>
-Those who made Cush their hope and Egypt their boast will be dismayed and ashamed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.20.4|<< Isaiah 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.20.6|Isaiah 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

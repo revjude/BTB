@@ -1,10 +1,7 @@
 **LXX Joshua 10:25** 
 <small><sub>**LXX:**</sub></small>
 And Joshua said to them, You should not fear them nor be timid; be manly and be strong! for thus \[the\] <span class="smallcaps">lord</span> shall do to all  your enemies whom you make war against them. 
-<small><sub>**KJV:**</sub></small>
-And Joshua said unto them, Fear not, nor be dismayed, be strong and of good courage: for thus shall the LORD do to all your enemies against whom ye fight.
-<small><sub>**BSB:**</sub></small>
-“Do not be afraid or discouraged,” Joshua said. “Be strong and courageous, for the LORD will do this to all the enemies you fight.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.24|<< Joshua 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.26|Joshua 10:26 >>]]</td></tr></table>
 
 | Translation | Greek |

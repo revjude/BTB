@@ -1,10 +1,7 @@
 **LXX 2 Samuel 16:8** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> returned upon you all the blood of the house of Saul, because you reigned instead of him. And \[the\] <span class="smallcaps">lord</span> gave the kingdom into \[the\] hand of Absalom  your son. And behold, you \[are taken\] in  your \[own\] evil, for you \[are\] a man of blood. 
-<small><sub>**KJV:**</sub></small>
-The LORD hath returned upon thee all the blood of the house of Saul, in whose stead thou hast reigned; and the LORD hath delivered the kingdom into the hand of Absalom thy son: and, behold, thou [art taken] in thy mischief, because thou [art] a bloody man.
-<small><sub>**BSB:**</sub></small>
-The LORD has paid you back for all the blood of the house of Saul, in whose place you have reigned, and the LORD has delivered the kingdom into the hand of your son Absalom. See, you have come to ruin because you are a man of bloodshed!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.7|<< 2 Samuel 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.9|2 Samuel 16:9 >>]]</td></tr></table>
 
 | Translation | Greek |

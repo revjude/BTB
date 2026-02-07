@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:24** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] king of \[the\] Assyrians led from out of Babylon the \[one\] from out of Cuthah, and from out of Ava, and from out of Hamath, and Sepharvaim, and settled them in the cities of Samaria instead of the sons of Israel. And they inherited  Samaria, and they settled in  its cities. 
-<small><sub>**KJV:**</sub></small>
-And the king of Assyria brought [men] from Babylon, and from Cuthah, and from Ava, and from Hamath, and from Sepharvaim, and placed [them] in the cities of Samaria instead of the children of Israel: and they possessed Samaria, and dwelt in the cities thereof.
-<small><sub>**BSB:**</sub></small>
-Then the king of Assyria brought people from Babylon, Cuthah, Avva, Hamath, and Sepharvaim and settled them in the towns of Samaria to replace the Israelites. They took possession of Samaria and lived in its towns.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.23|<< 2 Kings 17:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.25|2 Kings 17:25 >>]]</td></tr></table>
 
 | Translation | Greek |

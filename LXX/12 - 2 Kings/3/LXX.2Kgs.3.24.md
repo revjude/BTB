@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:24** 
 <small><sub>**LXX:**</sub></small>
 And they entered into the camp of Israel. And Israel rose up and struck  Moab. And they fled in front of them; and they entered going and beating  Moab. 
-<small><sub>**KJV:**</sub></small>
-And when they came to the camp of Israel, the Israelites rose up and smote the Moabites, so that they fled before them: but they went forward smiting the Moabites, even in [their] country.
-<small><sub>**BSB:**</sub></small>
-But when the Moabites came to the camp of Israel, the Israelites rose up and attacked them, and they fled before them. So the Israelites invaded their land and struck down the Moabites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.23|<< 2 Kings 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.25|2 Kings 3:25 >>]]</td></tr></table>
 
 | Translation | Greek |

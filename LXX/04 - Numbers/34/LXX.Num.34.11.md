@@ -1,10 +1,7 @@
 **LXX Numbers 34:11** 
 <small><sub>**LXX:**</sub></small>
 And the borders shall go down from Shepham to Riblah, from \[the\] east by \[the\] springs. And the borders shall go down \[from\] Beel by \[the\] back \[of the\] sea of Chinnereth by \[the\] east. 
-<small><sub>**KJV:**</sub></small>
-And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:
-<small><sub>**BSB:**</sub></small>
-then go down from Shepham to Riblah on the east side of Ain and continue along the slopes east of the Sea of Chinnereth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.34.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.34.10|<< Numbers 34:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.34.12|Numbers 34:12 >>]]</td></tr></table>
 
 | Translation | Greek |

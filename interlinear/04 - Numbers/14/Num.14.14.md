@@ -1,4 +1,4 @@
-**Numbers 14:14** 
+**Numbers 14:14**<big><big>[[Num.14.13 Moses Intercedes for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they will tell [it] to the inhabitants of this land: [for] they have heard that thou LORD [art] among this people, that thou LORD art seen face to face, and [that] thy cloud standeth over them, and [that] thou goest before them, by day time in a pillar of a cloud, and in a pillar of fire by night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they will tell it to the inhabitants of this land. They have already heard t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.13|<< Numbers 14:13]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.15|Numbers 14:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמְר֗וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.me.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

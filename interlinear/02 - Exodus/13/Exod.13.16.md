@@ -1,4 +1,4 @@
-**Exodus 13:16** 
+**Exodus 13:16**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the LORD brought us forth out of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So it shall serve as a sign on your hand and a symbol on your forehead, for with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.15|<< Exodus 13:15]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.17|Exodus 13:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<into> a sign  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0226H\|אוֹת֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Ot<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

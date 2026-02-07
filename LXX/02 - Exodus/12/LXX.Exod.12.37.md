@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel having departed from out of Rameses into Succoth, to \[the number of\] six hundred thousand footmen, the males, besides the belongings, 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand on foot [that were] men, beside children.
-<small><sub>**BSB:**</sub></small>
-The Israelites journeyed from Rameses to Succoth with about 600,000 men on foot, besides women and children.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.36|<< Exodus 12:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.38|Exodus 12:38 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 12:37** is...

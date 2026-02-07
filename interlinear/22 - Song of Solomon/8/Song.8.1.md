@@ -1,4 +1,4 @@
-**Song of Solomon 8:1** 
+**Song of Solomon 8:1**<big><big>[[Song.8.1 Longing for Her Beloved|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O that thou [wert] as my brother, that sucked the breasts of my mother! [when] I should find thee without, I would kiss thee; yea, I should not be despised.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O that you were to me like a brother who nursed at my mother’s breasts! If I f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.13|<< Song of Solomon 7:13]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.2|Song of Solomon 8:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he give you  |**<big>&#8207;[[H5414H\|יִתֶּנְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| yi.ten.<small><sup>[[HVqi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

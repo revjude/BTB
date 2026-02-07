@@ -1,4 +1,4 @@
-**Isaiah 24:4** 
+**Isaiah 24:4**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth mourneth [and] fadeth away, the world languisheth [and] fadeth away, the haughty people of the earth do languish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The earth mourns and withers; the world languishes and fades; the exalted of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.3|<< Isaiah 24:3]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.5|Isaiah 24:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has dried up  |**<big>&#8207;[[H0056\|אָבְלָ֤ה]]&#8207; </big>**| 'a.ve.Lah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has withered  |**<big>&#8207;[[H5034B\|נָֽבְלָה֙]]&#8207; </big>**| na.ve.Lah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

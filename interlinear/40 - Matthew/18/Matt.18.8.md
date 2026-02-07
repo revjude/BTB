@@ -1,12 +1,12 @@
-**Matthew 18:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:8**<big><big>[[Matt.18.6 Temptations and Trespasses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore if thy hand or thy foot offend thee, cut them off, and cast [them] from thee: it is better for thee to enter into life halt or maimed, rather than having two hands or two feet to be cast into everlasting fire.
 <small><sub>**BSB:**</sub></small>
 If your hand or your foot causes you to sin, cut it off and throw it away. It is better for you to enter life crippled or lame than to have two hands and two feet and be thrown into the eternal fire.
 <small><sub>**Literal:**</sub></small>
 If now the hand of you or the foot of you causes to sin you, do cut off it and do cast [it] from you; better for you it is to enter into <the> life crippled or lame than two hands or two feet having to be cast into the fire <the> eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.7|<< Matthew 18:7]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.9|Matthew 18:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

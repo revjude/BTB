@@ -1,12 +1,12 @@
-**Acts 4:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:18**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they called them, and commanded them not to speak at all nor teach in the name of Jesus.
 <small><sub>**BSB:**</sub></small>
 Then they called them in again and commanded them not to speak or teach at all in the name of Jesus.
 <small><sub>**Literal:**</sub></small>
 And having called them they commanded them <the> at not to speak nor to teach in the name <the> of Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.17|<< Acts 4:17]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.19|Acts 4:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having called |**<big>[[G2564G\|καλέσαντες]]</big>**  |kalesantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

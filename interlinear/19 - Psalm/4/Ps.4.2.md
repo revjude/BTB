@@ -1,4 +1,4 @@
-**Psalms 4:2** (4:3)
+**Psalms 4:2**<big><big>[[Ps.4.1 Answer Me When I Call!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O ye sons of men, how long [will ye turn] my glory into shame? [how long] will ye love vanity, [and] seek after leasing? Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How long, O men, will my honor be maligned? How long will you love vanity and se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.4.1|<< Psalms 4:1]]</td><td align="center" style="border:none;">[[Ps.4|Psalms 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.4.3|Psalms 4:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O sons of  |**<big>&#8207;[[H1121G\|בְּנֵ֥י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | man  |**<big>&#8207;[[H0376G\|אִ֡ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

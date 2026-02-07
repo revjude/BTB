@@ -1,12 +1,12 @@
-**Mark 10:49
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:49**<big><big>[[Mark.10.46 Jesus Heals Bartimaeus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth thee.
 <small><sub>**BSB:**</sub></small>
 Jesus stopped and said, “Call him.” So they called the blind man. “Take courage!” they said. “Get up! He is calling for you.”
 <small><sub>**Literal:**</sub></small>
 And having stopped <the> Jesus commanded: do call him. And they call the blind [man] saying to him; take courage! do rise up He calls you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.48|<< Mark 10:48]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.50|Mark 10:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having stopped |**<big>[[G2476\|στὰς]]</big>**  |stas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

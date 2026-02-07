@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And all the wells which the servants of his father dug the Philistines obstructed them in the time of his father, and filled them \[with\] earth. 
-<small><sub>**KJV:**</sub></small>
-For all the wells which his father’s servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth.
-<small><sub>**BSB:**</sub></small>
-So the Philistines took dirt and stopped up all the wells that his father’s servants had dug in the days of his father Abraham.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.14|<< Genesis 26:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.16|Genesis 26:16 >>]]</td></tr></table>
 
 | Translation | Greek |

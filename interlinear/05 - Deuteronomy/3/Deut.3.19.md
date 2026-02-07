@@ -1,4 +1,4 @@
-**Deuteronomy 3:19** 
+**Deuteronomy 3:19**<big><big>[[Deut.3.12 Land Division East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But your wives, and your little ones, and your cattle, ([for] I know that ye have much cattle,) shall abide in your cities which I have given you;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But your wives, your children, and your livestock—I know that you have much li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.18|<< Deuteronomy 3:18]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.20|Deuteronomy 3:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַ֠ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wives your  |**<big>&#8207;[[H0802H\|נְשֵׁי]]&#8207;&#8207;[[H9026\|כֶ֣ם]]&#8207; </big>**| ne.shei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

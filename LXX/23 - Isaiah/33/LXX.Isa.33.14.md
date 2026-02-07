@@ -1,10 +1,7 @@
 **LXX Isaiah 33:14** 
 <small><sub>**LXX:**</sub></small>
 The lawless ones in Zion departed. Trembling shall take the impious. Who shall announce to you that a fire is being burned? Who shall announce to you the eternal place? 
-<small><sub>**KJV:**</sub></small>
-The sinners in Zion are afraid; fearfulness hath surprised the hypocrites. Who among us shall dwell with the devouring fire? who among us shall dwell with everlasting burnings?
-<small><sub>**BSB:**</sub></small>
-The sinners in Zion are afraid; trembling grips the ungodly: “Who of us can dwell with a consuming fire? Who of us can dwell with everlasting flames?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.33.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.13|<< Isaiah 33:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.15|Isaiah 33:15 >>]]</td></tr></table>
 
 | Translation | Greek |

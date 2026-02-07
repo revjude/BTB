@@ -1,4 +1,4 @@
-**Isaiah 44:14** 
+**Isaiah 44:14**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He heweth him down cedars, and taketh the cypress and the oak, which he strengtheneth for himself among the trees of the forest: he planteth an ash, and the rain doth nourish [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He cuts down cedars or retrieves a cypress or oak. He lets it grow strong among 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.13|<< Isaiah 44:13]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.15|Isaiah 44:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to cut down  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H3772G\|כְרָת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> kh.rot-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> himself  |**<big>&#8207;[[H9005\|ל֣]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Chronicles 6:18** 
+**2 Chronicles 6:18**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But will God in very deed dwell with men on the earth? behold, heaven and the heaven of heavens cannot contain thee; how much less this house which I have built!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But will God indeed dwell with man upon the earth? The heavens, even the highest
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.17|<< 2 Chronicles 6:17]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.19|2 Chronicles 6:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ really  |**<big>&#8207;[[H9008\|הַֽ]]&#8207;&#8207;[[H0552\|אֻמְנָ֔ם]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'um.Nam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

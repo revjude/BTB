@@ -1,12 +1,12 @@
-**Luke 24:34
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:34**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, The Lord is risen indeed, and hath appeared to Simon.
 <small><sub>**BSB:**</sub></small>
 and saying, “The Lord has indeed risen and has appeared to Simon!”
 <small><sub>**Literal:**</sub></small>
 saying that Indeed has risen the Lord and He has appeared to Simon.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.33|<< Luke 24:33]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.35|Luke 24:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying |**<big>[[G3004G\|λέγοντας]]</big>**  |legontas <small><sup>[[V-PAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Genesis 42:34** 
+**Genesis 42:34**<big><big>[[Gen.42.25 Joseph’s Brothers Return to Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And bring your youngest brother unto me: then shall I know that ye [are] no spies, but [that] ye [are] true [men: so] will I deliver you your brother, and ye shall traffick in the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But bring your youngest brother back to me so I will know that you are not spies
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.33|<< Genesis 42:33]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.35|Genesis 42:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and bring  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H0935P\|הָבִיאוּ]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ha.vi.'u<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

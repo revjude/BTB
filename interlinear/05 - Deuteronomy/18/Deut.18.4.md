@@ -1,4 +1,4 @@
-**Deuteronomy 18:4** 
+**Deuteronomy 18:4**<big><big>[[Deut.18.1 Provision for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The firstfruit [also] of thy corn, of thy wine, and of thine oil, and the first of the fleece of thy sheep, shalt thou give him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to give them the firstfruits of your grain, new wine, and oil, and the f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.3|<< Deuteronomy 18:3]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.5|Deuteronomy 18:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] first of  |**<big>&#8207;[[H7225G\|רֵאשִׁ֨ית]]&#8207; </big>**| re.Shit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | grain your  |**<big>&#8207;[[H1715\|דְּגָֽנְ]]&#8207;&#8207;[[H9021\|ךָ֜]]&#8207; </big>**| de.ga.ne.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

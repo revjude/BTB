@@ -1,4 +1,4 @@
-**Isaiah 52:9** 
+**Isaiah 52:9**<big><big>[[Isa.52.1 Deliverance for Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Break forth in joy, sing together, O ruins of Jerusalem, for the LORD has comfor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.8|<< Isaiah 52:8]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.10|Isaiah 52:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | break forth  |**<big>&#8207;[[H6476\|פִּצְח֤וּ]]&#8207; </big>**| pitz.Chu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | shout for joy  |**<big>&#8207;[[H7442B\|רַנְּנוּ֙]]&#8207; </big>**| ra.ne.Nu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 1:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:23**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias.
 <small><sub>**BSB:**</sub></small>
 So they proposed two men: Joseph called Barsabbas (also known as Justus) and Matthias.
 <small><sub>**Literal:**</sub></small>
 And they put forward two, Joseph who is being called Barsabbas who was called Justus and Matthias.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.22|<< Acts 1:22]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.24|Acts 1:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they put forward |**<big>[[G2476\|ἔστησαν]]</big>**  |estēsan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

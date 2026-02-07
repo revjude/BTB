@@ -1,4 +1,4 @@
-**Proverbs 1:13** 
+**Proverbs 1:13**<big><big>[[Prov.1.8 The Enticement of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We shall find all precious substance, we shall fill our houses with spoil:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We will find all manner of precious goods; we will fill our houses with plunder.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.12|<< Proverbs 1:12]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.14|Proverbs 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wealth  |**<big>&#8207;[[H1952\|ה֣וֹן]]&#8207; </big>**| Hon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

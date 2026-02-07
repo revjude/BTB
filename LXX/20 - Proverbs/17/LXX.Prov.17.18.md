@@ -1,10 +1,7 @@
 **LXX Proverbs 17:18** 
 <small><sub>**LXX:**</sub></small>
 A foolish man claps and rejoices over himself, as also the one guaranteeing a loan by surety  for his own friend. 
-<small><sub>**KJV:**</sub></small>
-A man void of understanding striketh hands, [and] becometh surety in the presence of his friend.
-<small><sub>**BSB:**</sub></small>
-A man lacking judgment strikes hands in pledge and puts up security for his neighbor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.17|<< Proverbs 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.19|Proverbs 17:19 >>]]</td></tr></table>
 
 | Translation | Greek |

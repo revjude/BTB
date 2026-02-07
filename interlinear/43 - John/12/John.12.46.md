@@ -1,12 +1,12 @@
-**John 12:46
-**<small><sub>**KJV:**</sub></small>
+**John 12:46**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I am come a light into the world, that whosoever believeth on me should not abide in darkness.
 <small><sub>**BSB:**</sub></small>
 I have come into the world as a light, so that no one who believes in Me should remain in darkness.
 <small><sub>**Literal:**</sub></small>
 I myself a light into the world have come, so that everyone who is believing in Me myself in the darkness not may abide.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.45|<< John 12:45]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.47|John 12:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a light |**<big>[[G5457\|φῶς]]</big>**  |phōs <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

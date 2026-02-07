@@ -1,4 +1,4 @@
-**Psalms 62:5** (62:6)
+**Psalms 62:5**<big><big>[[Ps.62.1 Waiting on God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul, wait thou only upon God; for my expectation [is] from him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rest in God alone, O my soul, for my hope comes from Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.62.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.4|<< Psalms 62:4]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.6|Psalms 62:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H0389\|אַ֣ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to God  |**<big>&#8207;[[H9005\|לֵ֭]]&#8207;&#8207;[[H0430G\|אלֹהִים]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> lo.him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

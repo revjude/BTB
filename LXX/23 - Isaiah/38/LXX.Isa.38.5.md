@@ -1,10 +1,7 @@
 **LXX Isaiah 38:5** 
 <small><sub>**LXX:**</sub></small>
 Go, and say to Hezekiah, Thus says \[the\] <span class="smallcaps">lord</span>, the God of David  your father; I heard  your prayer, and beheld  your tears. Behold, I add to  your time fifteen years. 
-<small><sub>**KJV:**</sub></small>
-Go, and say to Hezekiah, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years.
-<small><sub>**BSB:**</sub></small>
-“Go and tell Hezekiah that this is what the LORD, the God of your father David, says: ‘I have heard your prayer; I have seen your tears. Behold, I will add fifteen years to your life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.38.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.4|<< Isaiah 38:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.6|Isaiah 38:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 14:42** 
 <small><sub>**LXX:**</sub></small>
 Do not ascend, for \[the\] <span class="smallcaps">lord</span> is not with you. And you shall fall before \[the\] face  of your enemies. 
-<small><sub>**KJV:**</sub></small>
-Go not up, for the LORD [is] not among you; that ye be not smitten before your enemies.
-<small><sub>**BSB:**</sub></small>
-Do not go up, lest you be struck down by your enemies, because the LORD is not among you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.41|<< Numbers 14:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.43|Numbers 14:43 >>]]</td></tr></table>
 
 | Translation | Greek |

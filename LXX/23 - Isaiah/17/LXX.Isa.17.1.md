@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The word  against Damascus. Behold, Damascus shall be lifted from cities, and will be for a downfall; 
-<small><sub>**KJV:**</sub></small>
-The burden of Damascus. Behold, Damascus is taken away from [being] a city, and it shall be a ruinous heap.
-<small><sub>**BSB:**</sub></small>
-This is the burden against Damascus: “Behold, Damascus is no longer a city; it has become a heap of ruins.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.14|<< Isaiah 16:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.2|Isaiah 17:2 >>]]</td></tr></table>
 
 | Translation | Greek |

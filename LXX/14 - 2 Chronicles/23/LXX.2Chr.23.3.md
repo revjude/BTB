@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 23:3** 
 <small><sub>**LXX:**</sub></small>
 And all the assembly ordained a covenant in \[the\] house  of God with the king. And he said to them, Behold, the son of the king, let him reign! as \[the\] <span class="smallcaps">lord</span> spoke concerning the house of David. 
-<small><sub>**KJV:**</sub></small>
-And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king’s son shall reign, as the LORD hath said of the sons of David.
-<small><sub>**BSB:**</sub></small>
-the whole assembly made a covenant with the king in the house of God. “Behold, the king’s son!” said Jehoiada. “He must reign, just as the LORD promised concerning the descendants of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.2|<< 2 Chronicles 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.4|2 Chronicles 23:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 6:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] hand of Midian prevailed against Israel. Because of \[the\] presence of Midian the sons of Israel made for themselves  havens in the mountains, and in the caves, and in the fortresses. 
-<small><sub>**KJV:**</sub></small>
-And the hand of Midian prevailed against Israel: [and] because of the Midianites the children of Israel made them the dens which [are] in the mountains, and caves, and strong holds.
-<small><sub>**BSB:**</sub></small>
-and the hand of Midian prevailed against Israel. Because of the Midianites, the Israelites prepared shelters for themselves in the mountains, caves, and strongholds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.1|<< Judges 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.3|Judges 6:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 54:6** 
 <small><sub>**LXX:**</sub></small>
 Not as a forsaken and faint-hearted woman the <span class="smallcaps">lord</span> called you; nor as a woman being detested from youth, said  your God. 
-<small><sub>**KJV:**</sub></small>
-For the LORD hath called thee as a woman forsaken and grieved in spirit, and a wife of youth, when thou wast refused, saith thy God.
-<small><sub>**BSB:**</sub></small>
-For the LORD has called you back, like a wife deserted and wounded in spirit, like the rejected wife of one’s youth,” says your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.54.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.5|<< Isaiah 54:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.7|Isaiah 54:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 23:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:24**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And provide [them] beasts, that they may set Paul on, and bring [him] safe unto Felix the governor.
 <small><sub>**BSB:**</sub></small>
 Provide mounts for Paul to take him safely to Governor Felix.”
 <small><sub>**Literal:**</sub></small>
 Mounts then providing so that having set upon [them] <the> Paul they may bring [him] safely to Felix the governor;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.23|<< Acts 23:23]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.25|Acts 23:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Mounts |**<big>[[G2934\|κτήνη]]</big>**  |ktēnē <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

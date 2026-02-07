@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:28** 
 <small><sub>**LXX:**</sub></small>
 And he went and found  his body having been tossed in the way, and the donkey and the lion were standing by the body, and the lion did not eat the body, and it did not tear apart the donkey. 
-<small><sub>**KJV:**</sub></small>
-And he went and found his carcase cast in the way, and the ass and the lion standing by the carcase: the lion had not eaten the carcase, nor torn the ass.
-<small><sub>**BSB:**</sub></small>
-and he went and found the body lying in the road, with the donkey and the lion standing beside it. The lion had not eaten the body or mauled the donkey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.27|<< 1 Kings 13:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.29|1 Kings 13:29 >>]]</td></tr></table>
 
 | Translation | Greek |

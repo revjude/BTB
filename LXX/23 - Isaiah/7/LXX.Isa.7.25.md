@@ -1,10 +1,7 @@
 **LXX Isaiah 7:25** 
 <small><sub>**LXX:**</sub></small>
 And every mountain being plowed shall be plowed; in no way fear come upon there; for it will be from the uncultivated land and thorn-bush \[a land\] for pastured sheep and \[for\] trampling of \[the\] ox. 
-<small><sub>**KJV:**</sub></small>
-And [on] all hills that shall be digged with the mattock, there shall not come thither the fear of briers and thorns: but it shall be for the sending forth of oxen, and for the treading of lesser cattle.
-<small><sub>**BSB:**</sub></small>
-For fear of the briers and thorns, you will no longer traverse the hills once tilled by the hoe; they will become places for oxen to graze and sheep to trample.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.24|<< Isaiah 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.1|Isaiah 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

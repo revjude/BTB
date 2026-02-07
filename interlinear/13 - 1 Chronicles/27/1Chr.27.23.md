@@ -1,4 +1,4 @@
-**1 Chronicles 27:23** 
+**1 Chronicles 27:23**<big><big>[[1Chr.27.16 The Leaders of the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But David took not the number of them from twenty years old and under: because the LORD had said he would increase Israel like to the stars of the heavens.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ David did not count the men aged twenty or under, because the LORD had said that
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.22|<< 1 Chronicles 27:22]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.24|1 Chronicles 27:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he took  |**<big>&#8207;[[H5375V\|נָשָׂ֤א]]&#8207; </big>**| na.Sa'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

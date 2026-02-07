@@ -1,4 +1,4 @@
-**Exodus 32:35** 
+**Exodus 32:35**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD plagued the people, because they made the calf, which Aaron made.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD sent a plague on the people because of what they had done with the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.34|<< Exodus 32:34]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.1|Exodus 33:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he struck  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5062\|יִּגֹּ֥ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Gof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

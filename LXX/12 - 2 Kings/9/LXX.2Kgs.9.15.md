@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:15** 
 <small><sub>**LXX:**</sub></small>
 And Jehoram the king returned to be treated medically in Jezreel from the wounds which the Syrians hit him in  his waging war against Hazael king of Syria. And Jehu said, If your soul is with me, let there not go forth out of the city any one escaping  to go and report in Jezreel. 
-<small><sub>**KJV:**</sub></small>
-But king Joram was returned to be healed in Jezreel of the wounds which the Syrians had given him, when he fought with Hazael king of Syria.) And Jehu said, If it be your minds, [then] let none go forth [nor] escape out of the city to go to tell [it] in Jezreel.
-<small><sub>**BSB:**</sub></small>
-but King Joram had returned to Jezreel to recover from the wounds he had suffered at the hands of the Arameans in the battle against Hazael their king.) So Jehu said, “If you commanders wish to make me king, then do not let anyone escape from the city to go and tell it in Jezreel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.14|<< 2 Kings 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.16|2 Kings 9:16 >>]]</td></tr></table>
 
 | Translation | Greek |

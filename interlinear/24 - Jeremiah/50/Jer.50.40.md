@@ -1,4 +1,4 @@
-**Jeremiah 50:40** 
+**Jeremiah 50:40**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As God overthrew Sodom and Gomorrah and the neighbour [cities] thereof, saith the LORD; [so] shall no man abide there, neither shall any son of man dwell therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As God overthrew Sodom and Gomorrah along with their neighbors,” declares the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.39|<< Jeremiah 50:39]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.41|Jeremiah 50:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like [the] overthrow of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4114\|מַהְפֵּכַ֨ת]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> mah.pe.Khat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֜ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

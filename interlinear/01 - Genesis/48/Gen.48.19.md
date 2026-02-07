@@ -1,4 +1,4 @@
-**Genesis 48:19** 
+**Genesis 48:19**<big><big>[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his father refused, and said, I know [it], my son, I know [it]: he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But his father refused. “I know, my son, I know!” he said. “He too shall b
 > $\quad$ referenced by: [[Rom.11.25|Rom 11:25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he refused  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3985\|יְמָאֵ֣ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ma.'En<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | father his  |**<big>&#8207;[[H0001G\|אָבִ֗י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

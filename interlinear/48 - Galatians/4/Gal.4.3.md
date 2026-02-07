@@ -1,12 +1,12 @@
-**Galatians 4:3
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:3**<big><big>[[Gal.4.1 Sons and Heirs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even so we, when we were children, were in bondage under the elements of the world:
 <small><sub>**BSB:**</sub></small>
 So also, when we were children, we were enslaved under the basic principles of the world.
 <small><sub>**Literal:**</sub></small>
 So also we ourselves when we were children, under the basic principles of the world we ourselves were held in bondage;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.2|<< Galatians 4:2]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.4|Galatians 4:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

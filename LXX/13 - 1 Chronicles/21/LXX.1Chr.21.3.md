@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:3** 
 <small><sub>**LXX:**</sub></small>
 And Joab said, May \[the\] <span class="smallcaps">lord</span> add unto  his people as they are a hundred foldly, and the eyes  of my master the king seeing \[it\]. Are not, O my master, O king, all for bondservants \[to\] my master? And why \[does\] my master want this? so as to not become for a trespass \[to\] Israel. 
-<small><sub>**KJV:**</sub></small>
-And Joab answered, The LORD make his people an hundred times so many more as they [be]: but, my lord the king, [are] they not all my lord’s servants? why then doth my lord require this thing? why will he be a cause of trespass to Israel?
-<small><sub>**BSB:**</sub></small>
-But Joab replied, “May the LORD multiply His troops a hundred times over. My lord the king, are they not all servants of my lord? Why does my lord want to do this? Why should he bring guilt on Israel?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.2|<< 1 Chronicles 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.4|1 Chronicles 21:4 >>]]</td></tr></table>
 
 | Translation | Greek |

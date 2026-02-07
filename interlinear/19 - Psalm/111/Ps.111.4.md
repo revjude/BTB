@@ -1,4 +1,4 @@
-**Psalms 111:4** 
+**Psalms 111:4**<big><big>[[Ps.111.1 Majestic Is His Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath made his wonderful works to be remembered: the LORD [is] gracious and full of compassion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has caused His wonders to be remembered; the LORD is gracious and compassiona
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.111.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.111.3|<< Psalms 111:3]]</td><td align="center" style="border:none;">[[Ps.111|Psalms 111]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.111.5|Psalms 111:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remembrance  |**<big>&#8207;[[H2143\|זֵ֣כֶר]]&#8207; </big>**| Ze.kher<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has appointed  |**<big>&#8207;[[H6213A\|עָ֭שָׂה]]&#8207; </big>**| 'A.sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,10 @@
-**Proverbs 16:6** 
+**Proverbs 16:6**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By mercy and truth iniquity is purged: and by the fear of the LORD [men] depart from evil.
 <small><sub>**BSB:**</sub></small>
 By loving devotion and faithfulness iniquity is atoned for, and by the fear of the LORD one turns aside from evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.5|<< Proverbs 16:5]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.7|Proverbs 16:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by loyalty  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2617A\|חֶ֣סֶד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Che.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and faithfulness  |**<big>&#8207;[[H9002\|וֶ֭]]&#8207;&#8207;[[H0571G\|אֱמֶת]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'e.met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 23:17** 
 <small><sub>**LXX:**</sub></small>
 And he said, Kindness be to me, O <span class="smallcaps">lord</span>,  to do this. Shall I drink \[the\] blood of the men going with their lives, \[no\]. And he did not want to drink it. These \[things\] the three mighty ones did. 
-<small><sub>**KJV:**</sub></small>
-And he said, Be it far from me, O LORD, that I should do this: [is not this] the blood of the men that went in jeopardy of their lives? therefore he would not drink it. These things did these three mighty men.
-<small><sub>**BSB:**</sub></small>
-saying, “Far be it from me, O LORD, to do this! Is this not the blood of the men who risked their lives?” So he refused to drink it. Such were the exploits of the three mighty men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.16|<< 2 Samuel 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.18|2 Samuel 23:18 >>]]</td></tr></table>
 
 | Translation | Greek |

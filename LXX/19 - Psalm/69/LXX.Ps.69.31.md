@@ -1,10 +1,7 @@
 **LXX Psalm 69:31** 
 <small><sub>**LXX:**</sub></small>
 and it shall please  God above a young calf bringing forth horns and hoofs. 
-<small><sub>**KJV:**</sub></small>
-[This] also shall please the LORD better than an ox [or] bullock that hath horns and hoofs.
-<small><sub>**BSB:**</sub></small>
-And this will please the LORD more than an ox, more than a bull with horns and hooves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.30|<< Psalm 69:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.32|Psalm 69:32 >>]]</td></tr></table>
 
 | Translation | Greek |

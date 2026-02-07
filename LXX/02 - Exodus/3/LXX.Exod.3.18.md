@@ -1,10 +1,7 @@
 **LXX Exodus 3:18** 
 <small><sub>**LXX:**</sub></small>
 And they shall hearken to your  voice. And you shall enter, and the council of elders of Israel, to Pharaoh king of Egypt. And you shall say to him, \[The\] <span class="smallcaps">lord</span>  God of the Hebrews calls us. We shall go then on a three days journey into the wilderness, that we might sacrifice \[to the\] <span class="smallcaps">lord</span>  our God. 
-<small><sub>**KJV:**</sub></small>
-And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The LORD God of the Hebrews hath met with us: and now let us go, we beseech thee, three days’ journey into the wilderness, that we may sacrifice to the LORD our God.
-<small><sub>**BSB:**</sub></small>
-The elders of Israel will listen to what you say, and you must go with them to the king of Egypt and tell him, ‘The LORD, the God of the Hebrews, has met with us. Now please let us take a three-day journey into the wilderness, so that we may sacrifice to the LORD our God.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.17|<< Exodus 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.19|Exodus 3:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 3:18** is...

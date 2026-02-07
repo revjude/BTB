@@ -1,4 +1,4 @@
-**Psalms 144:5** 
+**Psalms 144:5**<big><big>[[Ps.144.1 Blessed Be the LORD, My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bow thy heavens, O LORD, and come down: touch the mountains, and they shall smoke.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Part Your heavens, O LORD, and come down; touch the mountains, that they may smo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.144.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.4|<< Psalms 144:4]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.6|Psalms 144:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bend down  |**<big>&#8207;[[H5186\|הַט]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hat-<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

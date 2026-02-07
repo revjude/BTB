@@ -1,4 +1,4 @@
-**Job 29:1** 
+**Job 29:1**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover Job continued his parable, and said,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Job continued his discourse:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.28|<< Job 28:28]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.2|Job 29:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he repeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3254G\|יֹּ֣סֶף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.sef<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Job  |**<big>&#8207;[[H0347\|אִ֭יּוֹב]]&#8207; </big>**| 'I.yov<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 18:3** 
 <small><sub>**LXX:**</sub></small>
 And Joshua said to the sons of Israel, For how long shall you faint to enter to inherit the land which \[the\] <span class="smallcaps">lord</span> God of our fathers gave to us? 
-<small><sub>**KJV:**</sub></small>
-And Joshua said unto the children of Israel, How long [are] ye slack to go to possess the land, which the LORD God of your fathers hath given you?
-<small><sub>**BSB:**</sub></small>
-So Joshua said to the Israelites, “How long will you put off entering and possessing the land that the LORD, the God of your fathers, has given you?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.18.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.2|<< Joshua 18:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.4|Joshua 18:4 >>]]</td></tr></table>
 
 | Translation | Greek |

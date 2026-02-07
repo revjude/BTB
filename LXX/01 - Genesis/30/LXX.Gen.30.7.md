@@ -1,10 +1,7 @@
 **LXX Genesis 30:7** 
 <small><sub>**LXX:**</sub></small>
 And Bilhah the maidservant of Rachel conceived again. And she bore a second son  to Jacob. 
-<small><sub>**KJV:**</sub></small>
-And Bilhah Rachel’s maid conceived again, and bare Jacob a second son.
-<small><sub>**BSB:**</sub></small>
-And Rachel’s servant Bilhah conceived again and bore Jacob a second son.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.6|<< Genesis 30:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.8|Genesis 30:8 >>]]</td></tr></table>
 
 | Translation | Greek |

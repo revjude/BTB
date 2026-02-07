@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jeroboam said in  his heart, Behold, now the kingdom shall return to \[the\] house of David, 
-<small><sub>**KJV:**</sub></small>
-And Jeroboam said in his heart, Now shall the kingdom return to the house of David:
-<small><sub>**BSB:**</sub></small>
-Jeroboam said in his heart, “Now the kingdom might revert to the house of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.25|<< 1 Kings 12:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.27|1 Kings 12:27 >>]]</td></tr></table>
 
 | Translation | Greek |

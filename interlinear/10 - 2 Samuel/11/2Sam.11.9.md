@@ -1,4 +1,4 @@
-**2 Samuel 11:9** 
+**2 Samuel 11:9**<big><big>[[2Sam.11.1 David and Bathsheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Uriah slept at the door of the king’s house with all the servants of his lord, and went not down to his house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Uriah slept at the door of the palace with all his master’s servants; he d
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.8|<< 2 Samuel 11:8]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.10|2 Samuel 11:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lay down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901H\|יִּשְׁכַּ֣ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Uriah  |**<big>&#8207;[[H0223A\|אוּרִיָּ֗ה]]&#8207; </big>**| 'u.ri.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

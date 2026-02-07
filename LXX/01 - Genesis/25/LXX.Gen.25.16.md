@@ -1,10 +1,7 @@
 **LXX Genesis 25:16** 
 <small><sub>**LXX:**</sub></small>
 These are the sons of Ishmael, and these \[are\] the names of them by  their tents, and by  their properties -- twelve rulers according to their nation. 
-<small><sub>**KJV:**</sub></small>
-These [are] the sons of Ishmael, and these [are] their names, by their towns, and by their castles; twelve princes according to their nations.
-<small><sub>**BSB:**</sub></small>
-These were the sons of Ishmael, and these were their names by their villages and encampments—twelve princes of their tribes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.15|<< Genesis 25:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.17|Genesis 25:17 >>]]</td></tr></table>
 
 | Translation | Greek |

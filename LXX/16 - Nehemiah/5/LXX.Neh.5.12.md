@@ -1,10 +1,7 @@
 **LXX Nehemiah 5:12** 
 <small><sub>**LXX:**</sub></small>
 And they said, We will give it back, and we will not seek from them, we shall do thus as you say. And I called the priests, and bound them by an oath to do as  this saying. 
-<small><sub>**KJV:**</sub></small>
-Then said they, We will restore [them], and will require nothing of them; so will we do as thou sayest. Then I called the priests, and took an oath of them, that they should do according to this promise.
-<small><sub>**BSB:**</sub></small>
-“We will restore it,” they replied, “and will require nothing more from them. We will do as you say.” So I summoned the priests and required of the nobles and officials an oath that they would do what they had promised.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.11|<< Nehemiah 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.13|Nehemiah 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

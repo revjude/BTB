@@ -1,4 +1,4 @@
-**Numbers 22:36** 
+**Numbers 22:36**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Balak heard that Balaam was come, he went out to meet him unto a city of Moab, which [is] in the border of Arnon, which [is] in the utmost coast.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Balak heard that Balaam was coming, he went out to meet him at the Moabite 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.35|<< Numbers 22:35]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.37|Numbers 22:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַ֥ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Balak  |**<big>&#8207;[[H1111\|בָּלָ֖ק]]&#8207; </big>**| ba.Lak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

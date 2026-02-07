@@ -1,4 +1,4 @@
-**Deuteronomy 31:8** 
+**Deuteronomy 31:8**<big><big>[[Deut.31.1 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD, he [it is] that doth go before thee; he will be with thee, he will not fail thee, neither forsake thee: fear not, neither be dismayed.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD Himself goes before you; He will be with you. He will never leave you n
 > $\quad$ referenced by: [[Heb.13.5|Heb 13:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֞ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

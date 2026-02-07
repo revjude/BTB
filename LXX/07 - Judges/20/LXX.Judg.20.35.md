@@ -1,10 +1,7 @@
 **LXX Judges 20:35** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> to flight Benjamin before Israel. And the sons of Israel utterly destroyed among  Benjamin in  that day twenty and five thousand and a hundred men, all these unsheathing \[the\] broadsword. 
-<small><sub>**KJV:**</sub></small>
-And the LORD smote Benjamin before Israel: and the children of Israel destroyed of the Benjamites that day twenty and five thousand and an hundred men: all these drew the sword.
-<small><sub>**BSB:**</sub></small>
-The LORD defeated Benjamin in the presence of Israel, and on that day the Israelites slaughtered 25,100 Benjamites, all armed with swords.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.34|<< Judges 20:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.36|Judges 20:36 >>]]</td></tr></table>
 
 | Translation | Greek |

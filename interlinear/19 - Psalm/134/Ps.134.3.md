@@ -1,4 +1,4 @@
-**Psalms 134:3** 
+**Psalms 134:3**<big><big>[[Ps.134.1 Bless the LORD, All You Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD that made heaven and earth bless thee out of Zion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the LORD, the Maker of heaven and earth, bless you from Zion.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.134.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.134.2|<< Psalms 134:2]]</td><td align="center" style="border:none;">[[Ps.134|Psalms 134]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.1|Psalms 135:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may he bless you  |**<big>&#8207;[[H1288\|יְבָרֶכְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| ye.va.rekh.<small><sup>[[HVpi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

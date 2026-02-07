@@ -1,4 +1,4 @@
-**Job 30:27** 
+**Job 30:27**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My bowels boiled, and rested not: the days of affliction prevented me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am churning within and cannot rest; days of affliction confront me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.26|<< Job 30:26]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.28|Job 30:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | inward parts my  |**<big>&#8207;[[H4578\|מֵעַ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| me.'A<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have been made to boil  |**<big>&#8207;[[H7570\|רֻתְּח֥וּ]]&#8207; </big>**| ru.te.Chu<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

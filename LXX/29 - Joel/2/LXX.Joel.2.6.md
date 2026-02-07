@@ -1,10 +1,7 @@
 **LXX Joel 2:6** 
 <small><sub>**LXX:**</sub></small>
 From in front of him \[the\] people shall be destroyed; every face as a burnt earthen pot. 
-<small><sub>**KJV:**</sub></small>
-Before their face the people shall be much pained: all faces shall gather blackness.
-<small><sub>**BSB:**</sub></small>
-Nations writhe in horror before them; every face turns pale.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.5|<< Joel 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.7|Joel 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

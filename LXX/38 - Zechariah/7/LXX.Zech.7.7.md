@@ -1,10 +1,7 @@
 **LXX Zechariah 7:7** 
 <small><sub>**LXX:**</sub></small>
 Are not these my words, which \[the\] <span class="smallcaps">lord</span> spoke by \[the\] hands of the prophets, of the ones before, when Jerusalem was inhabited, and prospering? and  her cities round about, and the mountainous area, and the plain was inhabited? 
-<small><sub>**KJV:**</sub></small>
-[Should ye] not [hear] the words which the LORD hath cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, when [men] inhabited the south and the plain?
-<small><sub>**BSB:**</sub></small>
-Are these not the words that the LORD proclaimed through the earlier prophets, when Jerusalem and its surrounding towns were populous and prosperous, and the Negev and the foothills were inhabited?’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.7.6|<< Zechariah 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.7.8|Zechariah 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

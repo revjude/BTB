@@ -1,4 +1,4 @@
-**Nahum 3:4** 
+**Nahum 3:4**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ because of the many harlotries of the harlot, the seductive mistress of sorcery,
 > $\quad$ referenced by: [[Rev.18.3|Rev 18:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] abundance of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7230\|רֹב֙]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] prostitution\<s> of  |**<big>&#8207;[[H2183\|זְנוּנֵ֣י]]&#8207; </big>**| ze.nu.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

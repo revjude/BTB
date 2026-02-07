@@ -1,4 +1,4 @@
-**Psalms 81:9** (81:10)
+**Psalms 81:9**<big><big>[[Ps.81.1 Sing for Joy to God Our Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall no strange god be in thee; neither shalt thou worship any strange god.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There must be no strange god among you, nor shall you bow to a foreign god.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.81.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.81.8|<< Psalms 81:8]]</td><td align="center" style="border:none;">[[Ps.81|Psalms 81]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.81.10|Psalms 81:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be  |**<big>&#8207;[[H1961\|יִהְיֶ֣ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

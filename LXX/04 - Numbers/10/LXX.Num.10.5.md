@@ -1,10 +1,7 @@
 **LXX Numbers 10:5** 
 <small><sub>**LXX:**</sub></small>
 And you shall trump a signal, and shall lift away the camps  camping according to \[the\] east. 
-<small><sub>**KJV:**</sub></small>
-When ye blow an alarm, then the camps that lie on the east parts shall go forward.
-<small><sub>**BSB:**</sub></small>
-When you sound short blasts, the camps that lie on the east side are to set out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.4|<< Numbers 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.6|Numbers 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

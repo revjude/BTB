@@ -1,4 +1,4 @@
-**Numbers 14:36** 
+**Numbers 14:36**<big><big>[[Num.14.36 The Plague on the Ten Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men, which Moses sent to search the land, who returned, and made all the congregation to murmur against him, by bringing up a slander upon the land,
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So the men Moses had sent to spy out the land, who had returned and made the who
 > $\quad$ referenced by: [[1Cor.10.10|1Cor 10:10]] ☩ [[Heb.9.14|Heb 9:14]] ☩ [[Heb.3.17|Heb 3:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the men  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ֣]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֔ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whom  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

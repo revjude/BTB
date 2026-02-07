@@ -1,4 +1,4 @@
-**Isaiah 27:8** 
+**Isaiah 27:8**<big><big>[[Isa.27.1 The LORD’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In measure, when it shooteth forth, thou wilt debate with it: he stayeth his rough wind in the day of the east wind.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ By warfare and exile You contended with her and removed her with a fierce wind, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27.7|<< Isaiah 27:7]]</td><td align="center" style="border:none;">[[Isa.27|Isaiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.9|Isaiah 27:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by startling  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5432\|סַּאסְּאָ֖ה]]&#8207; </big>**[^1] | be.<small><sup>[[HR]]</sup></small> sa.se.'Ah<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 | by sending away it  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7971M\|שַׁלְחָ֣]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shal.Cha<small><sup>[[HVpcc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

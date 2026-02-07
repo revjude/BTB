@@ -1,10 +1,7 @@
 **LXX Jeremiah 39:14** 
 <small><sub>**LXX:**</sub></small>
 And they sent and took  Jeremiah from out of \[the\] courtyard of the guard, and they gave him to  Gedaliah son of Ahikam son of Shaphan, and they led him out. And he sat in \[the\] midst of the people. 
-<small><sub>**KJV:**</sub></small>
-Even they sent, and took Jeremiah out of the court of the prison, and committed him unto Gedaliah the son of Ahikam the son of Shaphan, that he should carry him home: so he dwelt among the people.
-<small><sub>**BSB:**</sub></small>
-had Jeremiah brought from the courtyard of the guard, and they turned him over to Gedaliah son of Ahikam, the son of Shaphan, to take him home. So Jeremiah remained among his own people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.39.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.13|<< Jeremiah 39:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.15|Jeremiah 39:15 >>]]</td></tr></table>
 
 | Translation | Greek |

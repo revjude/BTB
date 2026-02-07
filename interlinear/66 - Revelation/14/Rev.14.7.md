@@ -1,5 +1,5 @@
-**Revelation 14:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:7**<big><big>[[Rev.14.6 The Three Angels and Babylon’s Fall|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.
 <small><sub>**BSB:**</sub></small>
 And he said in a loud voice, “Fear God and give Him glory, because the hour of His judgment has come. Worship the One who made the heavens and the earth and the sea and the springs of waters.”
@@ -10,7 +10,7 @@ saying in a voice loud; do fear <the> God and do give to Him glory, because has 
 > $\quad$ alluding to: [[LXX.Exod.20.11|Exod 20:11]] ☩ [[LXX.Ps.146.6|Ps 146:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying [^1] |**<big>[[G3004G\|λέγων]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

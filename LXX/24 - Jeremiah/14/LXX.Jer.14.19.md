@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Did by rejecting you reject  Judah? and \[has\] your soul removed itself from Zion? Why did you smite us, and there is no healing for us? We waited for peace, but there was no good; for a time of healing, but behold, \[only\] disturbance. 
-<small><sub>**KJV:**</sub></small>
-Hast thou utterly rejected Judah? hath thy soul lothed Zion? why hast thou smitten us, and [there is] no healing for us? we looked for peace, and [there is] no good; and for the time of healing, and behold trouble!
-<small><sub>**BSB:**</sub></small>
-Have You rejected Judah completely? Do You despise Zion? Why have You stricken us so that we are beyond healing? We hoped for peace, but no good has come, and for the time of healing, but there was only terror.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.18|<< Jeremiah 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.20|Jeremiah 14:20 >>]]</td></tr></table>
 
 | Translation | Greek |

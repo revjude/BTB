@@ -1,10 +1,7 @@
 **LXX Judges 14:18** 
 <small><sub>**LXX:**</sub></small>
 And the men of the city said to him on the seventh day before the sun going down, What is sweeter than honey, and what \[is\] stronger than a lion? And Samson said to them, Unless you plowed by  my heifer, you would not have found  my riddle. 
-<small><sub>**KJV:**</sub></small>
-And the men of the city said unto him on the seventh day before the sun went down, What [is] sweeter than honey? and what [is] stronger than a lion? And he said unto them, If ye had not plowed with my heifer, ye had not found out my riddle.
-<small><sub>**BSB:**</sub></small>
-Before sunset on the seventh day, the men of the city said to Samson: “What is sweeter than honey? And what is stronger than a lion?” So he said to them: “If you had not plowed with my heifer, you would not have solved my riddle!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.17|<< Judges 14:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.19|Judges 14:19 >>]]</td></tr></table>
 
 | Translation | Greek |

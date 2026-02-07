@@ -1,10 +1,7 @@
 **LXX Isaiah 49:21** 
 <small><sub>**LXX:**</sub></small>
 And you shall say in  your heart, Who engendered to me these? For I \[am\] childless and a widow, a sojourner and excluded. But these, who nourished for me? For I was left alone. But these from where were these to me? 
-<small><sub>**KJV:**</sub></small>
-Then shalt thou say in thine heart, Who hath begotten me these, seeing I have lost my children, and am desolate, a captive, and removing to and fro? and who hath brought up these? Behold, I was left alone; these, where [had] they [been]?
-<small><sub>**BSB:**</sub></small>
-Then you will say in your heart, ‘Who has begotten these for me? I was bereaved and barren; I was exiled and rejected. So who has reared them? Look, I was left all alone, so where did they come from?’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.20|<< Isaiah 49:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.22|Isaiah 49:22 >>]]</td></tr></table>
 
 | Translation | Greek |

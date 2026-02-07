@@ -1,12 +1,12 @@
-**1 Timothy 4:15
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 4:15**<big><big>[[1Tim.4.6 A Good Servant of Jesus Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Meditate upon these things; give thyself wholly to them; that thy profiting may appear to all.
 <small><sub>**BSB:**</sub></small>
 Be diligent in these matters and absorbed in them, so that your progress will be evident to all.
 <small><sub>**Literal:**</sub></small>
 These things do ponder, in them do be absorbed, so that your <the> progress evident may be in all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.4.14|<< 1 Timothy 4:14]]</td><td align="center" style="border:none;">[[1Tim.4|1 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.4.16|1 Timothy 4:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do ponder, |**<big>[[G3191\|μελέτα,]]</big>**  |meleta <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

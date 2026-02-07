@@ -1,10 +1,7 @@
 **LXX Psalm 115:17** 
 <small><sub>**LXX:**</sub></small>
 The dead shall not praise you, O <span class="smallcaps">lord</span>, nor all the ones going down into Hades. 
-<small><sub>**KJV:**</sub></small>
-The dead praise not the LORD, neither any that go down into silence.
-<small><sub>**BSB:**</sub></small>
-It is not the dead who praise the LORD, nor any who descend into silence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.115.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.16|<< Psalm 115:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.18|Psalm 115:18 >>]]</td></tr></table>
 
 | Translation | Greek |

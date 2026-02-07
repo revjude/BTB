@@ -1,4 +1,4 @@
-**Deuteronomy 32:42** 
+**Deuteronomy 32:42**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will make mine arrows drunk with blood, and my sword shall devour flesh; [and that] with the blood of the slain and of the captives, from the beginning of revenges upon the enemy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make My arrows drunk with blood, while My sword devours flesh—the blood
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.41|<< Deuteronomy 32:41]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.43|Deuteronomy 32:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will make drunk  |**<big>&#8207;[[H7937\|אַשְׁכִּ֤יר]]&#8207; </big>**| 'ash.Kir<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | arrows my  |**<big>&#8207;[[H2671\|חִצַּ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| chi.Tza<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

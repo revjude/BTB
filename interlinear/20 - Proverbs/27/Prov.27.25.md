@@ -1,4 +1,4 @@
-**Proverbs 27:25** 
+**Proverbs 27:25**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When hay is removed and new growth appears and the grass from the hills is gathe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.24|<< Proverbs 27:24]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.26|Proverbs 27:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it disappears  |**<big>&#8207;[[H1540K\|גָּלָ֣ה]]&#8207; </big>**| ga.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | grass  |**<big>&#8207;[[H2682A\|חָ֭צִיר]]&#8207; </big>**| Cha.tzir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

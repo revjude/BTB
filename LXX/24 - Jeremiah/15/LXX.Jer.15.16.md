@@ -1,10 +1,7 @@
 **LXX Jeremiah 15:16** 
 <small><sub>**LXX:**</sub></small>
 \[even\] by the ones disregarding  your words. Finish them off entirely! and your word will be to me for gladness and \[the\] joy of my heart. For your name has been called upon me, O <span class="smallcaps">lord</span> almighty. 
-<small><sub>**KJV:**</sub></small>
-Thy words were found, and I did eat them; and thy word was unto me the joy and rejoicing of mine heart: for I am called by thy name, O LORD God of hosts.
-<small><sub>**BSB:**</sub></small>
-Your words were found, and I ate them. Your words became my joy and my heart’s delight. For I bear Your name, O LORD God of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.15.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.15|<< Jeremiah 15:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.17|Jeremiah 15:17 >>]]</td></tr></table>
 
 | Translation | Greek |

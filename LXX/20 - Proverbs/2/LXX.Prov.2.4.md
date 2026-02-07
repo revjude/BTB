@@ -1,10 +1,7 @@
 **LXX Proverbs 2:4** 
 <small><sub>**LXX:**</sub></small>
  and you should seek great perception with \[your\] voice; and if you should seek her as silver, and should search her out as for treasures; 
-<small><sub>**KJV:**</sub></small>
-If thou seekest her as silver, and searchest for her as [for] hid treasures;
-<small><sub>**BSB:**</sub></small>
-if you seek it like silver and search it out like hidden treasure,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.2.3|<< Proverbs 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.2.5|Proverbs 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

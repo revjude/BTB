@@ -1,4 +1,4 @@
-**Numbers 31:48** 
+**Numbers 31:48**<big><big>[[Num.31.48 The Voluntary Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the officers which [were] over thousands of the host, the captains of thousands, and captains of hundreds, came near unto Moses:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the officers who were over the units of the army—the commanders of thousa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.47|<< Numbers 31:47]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.49|Numbers 31:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they drew near  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7126G\|יִּקְרְבוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.re.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

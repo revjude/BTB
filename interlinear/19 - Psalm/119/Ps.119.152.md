@@ -1,4 +1,4 @@
-**Psalms 119:152** 
+**Psalms 119:152**<big><big>[[Ps.119.145 Your Word Is a Lamp to My Feet - KOPH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Concerning thy testimonies, I have known of old that thou hast founded them for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Long ago I learned from Your testimonies that You have established them forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.152|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.151|<< Psalms 119:151]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.153|Psalms 119:153 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | antiquity  |**<big>&#8207;[[H6924H\|קֶ֣דֶם]]&#8207; </big>**| Ke.dem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have known  |**<big>&#8207;[[H3045\|יָ֭דַעְתִּי]]&#8207; </big>**| Ya.da'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

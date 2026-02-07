@@ -1,10 +1,7 @@
 **LXX Genesis 24:66** 
 <small><sub>**LXX:**</sub></small>
 And the servant described  to Isaac all the words which he did. 
-<small><sub>**KJV:**</sub></small>
-And the servant told Isaac all things that he had done.
-<small><sub>**BSB:**</sub></small>
-Then the servant told Isaac all that he had done.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.66|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.65|<< Genesis 24:65]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.67|Genesis 24:67 >>]]</td></tr></table>
 
 | Translation | Greek |

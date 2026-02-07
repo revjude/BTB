@@ -1,4 +1,4 @@
-**Genesis 47:26** 
+**Genesis 47:26**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph made it a law over the land of Egypt unto this day, [that] Pharaoh should have the fifth [part]; except the land of the priests only, [which] became not Pharaoh’s.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Joseph established a law that a fifth of the produce belongs to Pharaoh, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.25|<< Genesis 47:25]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.27|Genesis 47:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he established  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760A\|יָּ֣שֶׂם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.sem<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹתָ֣]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

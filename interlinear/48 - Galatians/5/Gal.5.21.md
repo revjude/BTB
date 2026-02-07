@@ -1,12 +1,12 @@
-**Galatians 5:21
-**<small><sub>**KJV:**</sub></small>
+**Galatians 5:21**<big><big>[[Gal.5.16 Walking by the Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told [you] in time past, that they which do such things shall not inherit the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who practice such things will not inherit the kingdom of God.
 <small><sub>**Literal:**</sub></small>
 envyings, murders drunkennesses, carousing, and <the> [things] like as these; which I forewarn you even as also I warned before that those such things doing kingdom God’s not will inherit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.20|<< Galatians 5:20]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.22|Galatians 5:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | envyings, |**<big>[[G5355\|φθόνοι,]]</big>**  |phthonoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | murders [^1] |**<big>[[G5408\|φόνοι,]]</big>**  |phonoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="Tyn+Treg+TR+Byz">KO</abbr> | |

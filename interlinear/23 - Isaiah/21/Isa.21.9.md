@@ -1,4 +1,4 @@
-**Isaiah 21:9** 
+**Isaiah 21:9**<big><big>[[Isa.21.1 Babylon Is Fallen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, here cometh a chariot of men, [with] a couple of horsemen. And he answered and said, Babylon is fallen, is fallen; and all the graven images of her gods he hath broken unto the ground.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Look, here come the riders, horsemen in pairs.” And one answered, saying: “F
 > $\quad$ referenced by: [[Rev.14.8|Rev 14:8]] ☩ [[Rev.18.2|Rev 18:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2088\|זֶ֥ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

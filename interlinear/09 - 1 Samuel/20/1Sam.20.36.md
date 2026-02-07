@@ -1,4 +1,4 @@
-**1 Samuel 20:36** 
+**1 Samuel 20:36**<big><big>[[1Sam.20.30 Saul Seeks to Kill Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto his lad, Run, find out now the arrows which I shoot. [And] as the lad ran, he shot an arrow beyond him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He said to the boy, “Run and find the arrows I shoot.” And as the boy ran, J
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.35|<< 1 Samuel 20:35]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.37|1 Samuel 20:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to lad his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5288\|נַעֲר֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> na.'a.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Daniel 11:25** 
+**Daniel 11:25**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall stir up his power and his courage against the king of the south with a great army; and the king of the south shall be stirred up to battle with a very great and mighty army; but he shall not stand: for they shall forecast devices against him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And with a large army he will stir up his power and his courage against the king
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.24|<< Daniel 11:24]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.26|Daniel 11:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will stir up  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5782\|יָעֵר֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.'Er<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | strength his  |**<big>&#8207;[[H3581B\|כֹּח֨]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ko.Ch<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

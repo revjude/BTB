@@ -1,10 +1,7 @@
 **LXX Isaiah 1:14** 
 <small><sub>**LXX:**</sub></small>
 \[Your\] fasting, and idleness, and  your new moons, and  your holidays my soul detests. You became to me as a glut; no longer shall I spare  your sins. 
-<small><sub>**KJV:**</sub></small>
-Your new moons and your appointed feasts my soul hateth: they are a trouble unto me; I am weary to bear [them].
-<small><sub>**BSB:**</sub></small>
-I hate your New Moons and your appointed feasts. They have become a burden to Me; I am weary of bearing them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.13|<< Isaiah 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.15|Isaiah 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

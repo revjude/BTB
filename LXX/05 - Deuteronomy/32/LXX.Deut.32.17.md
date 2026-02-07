@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:17** 
 <small><sub>**LXX:**</sub></small>
 They sacrificed to demons, and not to God -- to gods in whom they did not know; new and newly made \[gods\] have come, in whom their fathers knew not. 
-<small><sub>**KJV:**</sub></small>
-They sacrificed unto devils, not to God; to gods whom they knew not, to new [gods that] came newly up, whom your fathers feared not.
-<small><sub>**BSB:**</sub></small>
-They sacrificed to demons, not to God, to gods they had not known, to newly arrived gods, which your fathers did not fear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.16|<< Deuteronomy 32:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.18|Deuteronomy 32:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 32:17** is...

@@ -1,4 +1,4 @@
-**Deuteronomy 3:18** 
+**Deuteronomy 3:18**<big><big>[[Deut.3.12 Land Division East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I commanded you at that time, saying, The LORD your God hath given you this land to possess it: ye shall pass over armed before your brethren the children of Israel, all [that are] meet for the war.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time I commanded you: “The LORD your God has given you this land to po
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.17|<< Deuteronomy 3:17]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.19|Deuteronomy 3:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I commanded  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6680\|אֲצַ֣ו]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Tzav<small><sup>[[HVpw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶ֔ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

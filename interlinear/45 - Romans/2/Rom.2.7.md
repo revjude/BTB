@@ -1,12 +1,12 @@
-**Romans 2:7
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:7**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To them who by patient continuance in well doing seek for glory and honour and immortality, eternal life:
 <small><sub>**BSB:**</sub></small>
 To those who by perseverance in doing good seek glory, honor, and immortality, He will give eternal life.
 <small><sub>**Literal:**</sub></small>
 to those who indeed with endurance in work good glory and honor and immortality are seeking life eternal;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.6|<< Romans 2:6]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.8|Romans 2:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to those who |**<big>[[G3588\|τοῖς]]</big>**  |tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

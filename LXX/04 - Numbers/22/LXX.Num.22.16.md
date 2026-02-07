@@ -1,10 +1,7 @@
 **LXX Numbers 22:16** 
 <small><sub>**LXX:**</sub></small>
 And they came to Balaam, and they say to him, Thus says Balak the \[son\]  of Zippor, I deem you worthy, you should not be reluctant to come to me, 
-<small><sub>**KJV:**</sub></small>
-And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:
-<small><sub>**BSB:**</sub></small>
-They came to Balaam and said, “This is what Balak son of Zippor says: ‘Please let nothing hinder you from coming to me,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.15|<< Numbers 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.17|Numbers 22:17 >>]]</td></tr></table>
 
 | Translation | Greek |

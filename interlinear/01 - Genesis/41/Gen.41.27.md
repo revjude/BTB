@@ -1,4 +1,4 @@
-**Genesis 41:27** 
+**Genesis 41:27**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the seven thin and ill favoured kine that came up after them [are] seven years; and the seven empty ears blasted with the east wind shall be seven years of famine.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, the seven thin, ugly cows that came up after them are seven years, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.26|<< Genesis 41:26]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.28|Genesis 41:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and seven  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7651\|שֶׁ֣בַע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cows  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H6510\|פָּרוֹת]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> pa.rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

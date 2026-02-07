@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:27** 
 <small><sub>**LXX:**</sub></small>
 And a messenger came to Saul saying, Hasten and come here, for \[the\] Philistines made an attack against the land. 
-<small><sub>**KJV:**</sub></small>
-But there came a messenger unto Saul, saying, Haste thee, and come; for the Philistines have invaded the land.
-<small><sub>**BSB:**</sub></small>
-Then a messenger came to Saul, saying, “Come quickly, for the Philistines have raided the land!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.26|<< 1 Samuel 23:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.28|1 Samuel 23:28 >>]]</td></tr></table>
 
 | Translation | Greek |

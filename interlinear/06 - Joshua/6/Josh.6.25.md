@@ -1,4 +1,4 @@
-**Joshua 6:25** 
+**Joshua 6:25**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua saved Rahab the harlot alive, and her father’s household, and all that she had; and she dwelleth in Israel [even] unto this day; because she hid the messengers, which Joshua sent to spy out Jericho.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Joshua spared Rahab the prostitute, with her father’s household and all wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.24|<< Joshua 6:24]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.26|Joshua 6:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rahab  |**<big>&#8207;[[H7343\|רָחָ֣ב]]&#8207; </big>**| ra.Chav<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

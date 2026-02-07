@@ -1,4 +1,4 @@
-**Jeremiah 51:54** 
+**Jeremiah 51:54**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A sound of a cry [cometh] from Babylon, and great destruction from the land of the Chaldeans:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A sound of a cry [cometh] from Babylon, and great destruction from the land of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.53|<< Jeremiah 51:53]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.55|Jeremiah 51:55 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sound of  |**<big>&#8207;[[H6963A\|ק֥וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a cry of distress  |**<big>&#8207;[[H2201\|זְעָקָ֖ה]]&#8207; </big>**| ze.'a.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

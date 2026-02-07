@@ -1,10 +1,7 @@
 **LXX Leviticus 21:24** 
 <small><sub>**LXX:**</sub></small>
 And Moses spoke to Aaron and  his sons, and to all of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And Moses told [it] unto Aaron, and to his sons, and unto all the children of Israel.
-<small><sub>**BSB:**</sub></small>
-Moses told this to Aaron and his sons and to all the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.23|<< Leviticus 21:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.1|Leviticus 22:1 >>]]</td></tr></table>
 
 | Translation | Greek |

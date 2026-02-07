@@ -1,10 +1,7 @@
 **LXX Judges 11:4** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after \[some\] days, that the sons of Ammon waged war against Israel. And it came to pass when the sons of Ammon waged war with Israel, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in process of time, that the children of Ammon made war against Israel.
-<small><sub>**BSB:**</sub></small>
-Some time later, when the Ammonites fought against Israel<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.3|<< Judges 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.5|Judges 11:5 >>]]</td></tr></table>
 
 | Translation | Greek |

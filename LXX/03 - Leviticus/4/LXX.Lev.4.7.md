@@ -1,10 +1,7 @@
 **LXX Leviticus 4:7** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall put of the blood of the calf upon the horns of the altar  of incense of the composition before \[the\] <span class="smallcaps">lord</span>, which is in the tent of the testimony. And he shall pour all the blood of the calf by the base of the altar of the \[yield\] offering, which is by the doors of the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall put [some] of the blood upon the horns of the altar of sweet incense before the LORD, which [is] in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering, which [is at] the door of the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-The priest must then put some of the blood on the horns of the altar of fragrant incense that is before the LORD in the Tent of Meeting. And he is to pour out the rest of the bull’s blood at the base of the altar of burnt offering at the entrance to the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.6|<< Leviticus 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.8|Leviticus 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

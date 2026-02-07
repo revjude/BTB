@@ -1,12 +1,12 @@
-**Revelation 12:9
-**<small><sub>**KJV:**</sub></small>
+**Revelation 12:9**<big><big>[[Rev.12.7 The War in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.
 <small><sub>**BSB:**</sub></small>
 And the great dragon was hurled down—that ancient serpent called the devil and Satan, the deceiver of the whole world. He was hurled to the earth, and his angels with him.
 <small><sub>**Literal:**</sub></small>
 And was thrown [out] the dragon <the> great, the serpent <the> ancient, who is called [the] devil and <the> Satan who is deceiving the inhabited [world] whole, He was thrown down to the earth, and the angels of him with him were thrown down.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.8|<< Revelation 12:8]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.10|Revelation 12:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was thrown [out] |**<big>[[G0906G\|ἐβλήθη]]</big>**  |eblēthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

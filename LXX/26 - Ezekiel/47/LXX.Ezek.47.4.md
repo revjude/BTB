@@ -1,10 +1,7 @@
 **LXX Ezekiel 47:4** 
 <small><sub>**LXX:**</sub></small>
 And he went through in the water, \[the\] water of release, and he measured a thousand, and he went through the water unto the knees. And he measured a thousand, and he went through the water unto \[his\] loin. 
-<small><sub>**KJV:**</sub></small>
-Again he measured a thousand, and brought me through the waters; the waters [were] to the knees. Again he measured a thousand, and brought me through; the waters [were] to the loins.
-<small><sub>**BSB:**</sub></small>
-Then he measured off a thousand cubits and led me through knee-deep water. Again he measured a thousand cubits and led me through waist-deep water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.47.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.3|<< Ezekiel 47:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.47.5|Ezekiel 47:5 >>]]</td></tr></table>
 
 | Translation | Greek |

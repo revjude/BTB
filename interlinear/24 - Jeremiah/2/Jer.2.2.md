@@ -1,4 +1,4 @@
-**Jeremiah 2:2** 
+**Jeremiah 2:2**<big><big>[[Jer.2.1 Israel Has Forsaken God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go and cry in the ears of Jerusalem, saying, Thus saith the LORD; I remember thee, the kindness of thy youth, the love of thine espousals, when thou wentest after me in the wilderness, in a land [that was] not sown.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go and cry in the ears of Jerusalem, saying, Thus saith the LORD; I remember the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.1|<< Jeremiah 2:1]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.3|Jeremiah 2:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H1980G\|הָלֹ֡ךְ]]&#8207; </big>**| ha.Lokh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will proclaim  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7121I\|קָֽרָאתָ֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ka.ra.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

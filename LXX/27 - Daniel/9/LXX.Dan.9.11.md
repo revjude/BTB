@@ -1,10 +1,7 @@
 **LXX Daniel 9:11** 
 <small><sub>**LXX:**</sub></small>
 And all Israel violated  your law, and turned aside  to not hearken to  your voice; and there came upon us the curse, and the oath, the one having been written in \[the\] law of Moses \[the\] servant  of God, for we sinned against him. 
-<small><sub>**KJV:**</sub></small>
-Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that [is] written in the law of Moses the servant of God, because we have sinned against him.
-<small><sub>**BSB:**</sub></small>
-All Israel has transgressed Your law and turned away, refusing to obey Your voice; so the oath and the curse written in the Law of Moses the servant of God has been poured out on us, because we have sinned against You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.10|<< Daniel 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.12|Daniel 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

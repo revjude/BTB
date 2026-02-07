@@ -1,12 +1,12 @@
-**Acts 4:29
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:29**<big><big>[[Acts.4.23 The Believers’ Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word,
 <small><sub>**BSB:**</sub></small>
 And now, Lord, consider their threats, and enable Your servants to speak Your word with complete boldness,
 <small><sub>**Literal:**</sub></small>
 And <the> now, Lord, do look upon the threats of them and do grant to the servants of You with boldness all to speak the word of You<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.28|<< Acts 4:28]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.30|Acts 4:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

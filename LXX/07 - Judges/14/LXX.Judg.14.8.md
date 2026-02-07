@@ -1,10 +1,7 @@
 **LXX Judges 14:8** 
 <small><sub>**LXX:**</sub></small>
 And he returned after \[some\] days to take her, and he turned aside to behold the carcass of the lion. And behold, a swarm as of an apiary \[of bees\] \[was\] in the mouth of the lion, and honey. 
-<small><sub>**KJV:**</sub></small>
-And after a time he returned to take her, and he turned aside to see the carcase of the lion: and, behold, [there was] a swarm of bees and honey in the carcase of the lion.
-<small><sub>**BSB:**</sub></small>
-When Samson returned later to take her, he left the road to see the lion’s carcass, and in it was a swarm of bees, along with their honey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.7|<< Judges 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.9|Judges 14:9 >>]]</td></tr></table>
 
 | Translation | Greek |

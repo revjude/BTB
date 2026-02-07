@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:48** 
 <small><sub>**LXX:**</sub></small>
 And the Philistine rose up, and went and approached to meet with  David. And David hastened, and came forth even himself for the battle array for meeting the Philistine. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the Philistine arose, and came and drew nigh to meet David, that David hasted, and ran toward the army to meet the Philistine.
-<small><sub>**BSB:**</sub></small>
-As the Philistine started forward to attack him, David ran quickly toward the battle line to meet him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.47|<< 1 Samuel 17:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.49|1 Samuel 17:49 >>]]</td></tr></table>
 
 | Translation | Greek |

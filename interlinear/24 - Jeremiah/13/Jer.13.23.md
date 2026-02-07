@@ -1,4 +1,4 @@
-**Jeremiah 13:23** 
+**Jeremiah 13:23**<big><big>[[Jer.13.15 Captivity Threatened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can the Ethiopian change his skin, or the leopard his spots? [then] may ye also do good, that are accustomed to do evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Can the Ethiopian change his skin, or the leopard his spots? Neither are you abl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.22|<< Jeremiah 13:22]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.24|Jeremiah 13:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will he change  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H2015\|יַהֲפֹ֤ךְ]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ya.ha.Fokh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a Cushite  |**<big>&#8207;[[H3569G\|כּוּשִׁי֙]]&#8207; </big>**| ku.Shi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

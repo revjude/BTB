@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:11** 
 <small><sub>**LXX:**</sub></small>
 And they went forth unto Ramah unto  their house. And the boy was officiating to the <span class="smallcaps">lord</span> before the face of Eli the priest. 
-<small><sub>**KJV:**</sub></small>
-And Elkanah went to Ramah to his house. And the child did minister unto the LORD before Eli the priest.
-<small><sub>**BSB:**</sub></small>
-Then Elkanah went home to Ramah, but the boy began ministering to the LORD before Eli the priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.10|<< 1 Samuel 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.12|1 Samuel 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

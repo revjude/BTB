@@ -1,4 +1,4 @@
-**1 Chronicles 16:8** 
+**1 Chronicles 16:8**<big><big>[[1Chr.16.7 David’s Psalms of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give thanks unto the LORD, call upon his name, make known his deeds among the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Give thanks unto the LORD, call upon his name, make known his deeds among the pe
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.7|<< 1 Chronicles 16:7]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.9|1 Chronicles 16:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give thanks  |**<big>&#8207;[[H3034\|הוֹד֤וּ]]&#8207; </big>**| ho.Du<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָה֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

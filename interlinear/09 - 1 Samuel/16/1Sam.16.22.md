@@ -1,4 +1,4 @@
-**1 Samuel 16:22** 
+**1 Samuel 16:22**<big><big>[[1Sam.16.14 David Serves Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul sent to Jesse, saying, Let David, I pray thee, stand before me; for he hath found favour in my sight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Saul sent word to Jesse, saying, “Let David remain in my service, for I a
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.21|<< 1 Samuel 16:21]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.23|1 Samuel 16:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Saul  |**<big>&#8207;[[H7586G\|שָׁא֔וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

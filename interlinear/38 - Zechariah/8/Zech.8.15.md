@@ -1,4 +1,4 @@
-**Zechariah 8:15** 
+**Zechariah 8:15**<big><big>[[Zech.8.1 The Restoration of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So again have I thought in these days to do well unto Jerusalem and to the house of Judah: fear ye not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So again have I thought in these days to do well unto Jerusalem and to the house
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.14|<< Zechariah 8:14]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.16|Zechariah 8:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so  |**<big>&#8207;[[H3651C\|כֵּ֣ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have returned  |**<big>&#8207;[[H7725J\|שַׁ֤בְתִּי]]&#8207; </big>**| Shav.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Titus 3:2
-**<small><sub>**KJV:**</sub></small>
+**Titus 3:2**<big><big>[[Titus.3.1 Heirs of Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To speak evil of no man, to be no brawlers, [but] gentle, shewing all meekness unto all men.
 <small><sub>**BSB:**</sub></small>
 to malign no one, and to be peaceable and gentle, showing full consideration to everyone.
 <small><sub>**Literal:**</sub></small>
 no one to denigrate, peaceable to be, gentle, all showing humility toward all men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.1|<< Titus 3:1]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.3|Titus 3:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | no one |**<big>[[G3367\|μηδένα]]</big>**  |mēdena <small><sup>[[A-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to denigrate, |**<big>[[G0987\|βλασφημεῖν,]]</big>**  |blasphēmein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

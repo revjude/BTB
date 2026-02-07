@@ -1,4 +1,4 @@
-**Exodus 18:10** 
+**Exodus 18:10**<big><big>[[Exod.18.1 The Visit of Jethro|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jethro said, Blessed [be] the LORD, who hath delivered you out of the hand of the Egyptians, and out of the hand of Pharaoh, who hath delivered the people from under the hand of the Egyptians.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jethro declared, “Blessed be the LORD, who has delivered you from the hand of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.9|<< Exodus 18:9]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.11|Exodus 18:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמֶר֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jethro  |**<big>&#8207;[[H3503\|יִתְרוֹ֒]]&#8207; </big>**| yit.Ro<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

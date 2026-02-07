@@ -1,5 +1,5 @@
-**Hebrews 10:5
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:5**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:
 <small><sub>**BSB:**</sub></small>
 Therefore, when Christ came into the world, He said: “Sacrifice and offering You did not desire, but a body You prepared for Me.
@@ -10,7 +10,7 @@ Therefore coming into the world He says: Sacrifice and offering not You have des
 > $\quad$ referencing: [[LXX.Ps.40.6|Ps 40:6-8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|Διὸ]]</big>**  |Dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | coming |**<big>[[G1525\|εἰσερχόμενος]]</big>**  |eiserchomenos <small><sup>[[V-PNP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

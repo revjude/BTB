@@ -1,10 +1,7 @@
 **LXX Jeremiah 41:8** 
 <small><sub>**LXX:**</sub></small>
 And ten men were found there. And they said  to Ishmael, You should not do away with us, for there are with us treasures in \[the\] field, wheat and barley, and honey, and olive oil. And he passed by and did not do away with them in \[the\] midst  of their brethren. 
-<small><sub>**KJV:**</sub></small>
-But ten men were found among them that said unto Ishmael, Slay us not: for we have treasures in the field, of wheat, and of barley, and of oil, and of honey. So he forbare, and slew them not among their brethren.
-<small><sub>**BSB:**</sub></small>
-But ten of the men among them said to Ishmael, “Do not kill us, for we have hidden treasure in the field—wheat, barley, oil, and honey!” So he refrained from killing them with the others.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.41.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.7|<< Jeremiah 41:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.9|Jeremiah 41:9 >>]]</td></tr></table>
 
 | Translation | Greek |

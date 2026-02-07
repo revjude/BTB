@@ -1,4 +1,4 @@
-**Jeremiah 51:63** 
+**Jeremiah 51:63**<big><big>[[Jer.51.59 Jeremiah’s Message to Seraiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, when thou hast made an end of reading this book, [that] thou shalt bind a stone to it, and cast it into the midst of Euphrates:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When you finish reading this scroll, tie a stone to it and cast it into the Euph
 > $\quad$ referenced by: [[Rev.18.21|Rev 18:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when finishing you  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3615G\|כַלֹּ֣תְ]]&#8207;&#8207;[[H9041\|ךָ֔]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> cha.Lo.te.<small><sup>[[HVpcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

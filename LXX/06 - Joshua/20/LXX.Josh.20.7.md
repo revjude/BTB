@@ -1,10 +1,7 @@
 **LXX Joshua 20:7** 
 <small><sub>**LXX:**</sub></small>
 And he separated  Kadesh in  Galilee, in  mount  Naphtali, and Shechem in  mount  Ephraim, and the city Arba (this is Hebron) in the mountain  of Judah. 
-<small><sub>**KJV:**</sub></small>
-And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which [is] Hebron, in the mountain of Judah.
-<small><sub>**BSB:**</sub></small>
-So they set apart Kedesh in Galilee in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath-arba (that is, Hebron) in the hill country of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.20.6|<< Joshua 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.20.8|Joshua 20:8 >>]]</td></tr></table>
 
 | Translation | Greek |

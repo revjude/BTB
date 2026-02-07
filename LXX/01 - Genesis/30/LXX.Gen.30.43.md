@@ -1,10 +1,7 @@
 **LXX Genesis 30:43** 
 <small><sub>**LXX:**</sub></small>
 And the man became rich exceedingly, exceedingly. And there was to him much cattle, and oxen, and manservants, and maidservants, and camels, and donkeys. 
-<small><sub>**KJV:**</sub></small>
-And the man increased exceedingly, and had much cattle, and maidservants, and menservants, and camels, and asses.
-<small><sub>**BSB:**</sub></small>
-Thus Jacob became exceedingly prosperous. He owned large flocks, maidservants and menservants, and camels and donkeys.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.42|<< Genesis 30:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.1|Genesis 31:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Corinthians 2:11
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 2:11**<big><big>[[2Cor.2.1 Reaffirm Your Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Lest Satan should get an advantage of us: for we are not ignorant of his devices.
 <small><sub>**BSB:**</sub></small>
 in order that Satan should not outwit us. For we are not unaware of his schemes.
 <small><sub>**Literal:**</sub></small>
 so that not we may be outwitted by <the> Satan; not for of his <the> schemes we are ignorant.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.10|<< 2 Corinthians 2:10]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.12|2 Corinthians 2:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

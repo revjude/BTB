@@ -1,12 +1,12 @@
-**Matthew 2:7
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:7**<big><big>[[Matt.2.1 The Pilgrimage of the Magi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Herod, when he had privily called the wise men, inquired of them diligently what time the star appeared.
 <small><sub>**BSB:**</sub></small>
 Then Herod called the Magi secretly and learned from them the exact time the star had appeared.
 <small><sub>**Literal:**</sub></small>
 Then Herod secretly having called the Magi inquired exactly of them the time of the appearing star,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.6|<< Matthew 2:6]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.8|Matthew 2:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Herod |**<big>[[G2264G\|Ἡρῴδης]]</big>**  |Hērōdēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

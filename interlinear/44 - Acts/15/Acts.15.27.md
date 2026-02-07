@@ -1,12 +1,12 @@
-**Acts 15:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:27**<big><big>[[Acts.15.22 The Letter to the Gentile Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We have sent therefore Judas and Silas, who shall also tell [you] the same things by mouth.
 <small><sub>**BSB:**</sub></small>
 Therefore we are sending Judas and Silas to tell you in person the same things we are writing.
 <small><sub>**Literal:**</sub></small>
 We have sent therefore Judas and Silas, and they through word [of mouth] are telling [you] the same things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.26|<< Acts 15:26]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.28|Acts 15:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We have sent |**<big>[[G0649\|ἀπεστάλκαμεν]]</big>**  |apestalkamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

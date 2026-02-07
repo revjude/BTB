@@ -1,12 +1,12 @@
-**Hebrews 9:17
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:17**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For a testament [is] of force after men are dead: otherwise it is of no strength at all while the testator liveth.
 <small><sub>**BSB:**</sub></small>
 because a will does not take effect until the one who made it has died; it cannot be executed while he is still alive.
 <small><sub>**Literal:**</sub></small>
 A will for after death [is] affirmed, since otherwise it is in force when is living the [one] having made [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.16|<< Hebrews 9:16]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.18|Hebrews 9:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A will |**<big>[[G1242\|διαθήκη]]</big>**  |diathēkē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 34:20** (34:21)
+**Psalms 34:20**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He keepeth all his bones: not one of them is broken.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He protects all his bones; not one of them will be broken.
 > $\quad$ referenced by: [[John.19.36|John 19:36]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] keeping  |**<big>&#8207;[[H8104H\|שֹׁמֵ֥ר]]&#8207; </big>**| sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

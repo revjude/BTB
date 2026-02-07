@@ -1,12 +1,12 @@
-**Psalms 29:1** 
+**Psalms 29:1**<big><big>[[Ps.29.1 Ascribe Glory to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Psalm of David. Give unto the LORD, O ye mighty, give unto the LORD glory and strength.
+Give unto the LORD, O ye mighty, give unto the LORD glory and strength.
 <small><sub>**BSB:**</sub></small>
 A Psalm of David. Ascribe to the LORD, O heavenly beings, ascribe to the LORD glory and strength.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.29.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.29.0|<< Psalms 29:0]]</td><td align="center" style="border:none;">[[Ps.29|Psalms 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.29.2|Psalms 29:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ascribe  |**<big>&#8207;[[H3051\|הָב֣וּ]]&#8207; </big>**| ha.Vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַֽ֭]]&#8207;&#8207;[[H3068G\|יהוָה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

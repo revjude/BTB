@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:16** 
 <small><sub>**LXX:**</sub></small>
 And all the ministration \[of the\] <span class="smallcaps">lord</span> was set up in  that day,  to observe the passover, and to offer the whole burnt-offerings upon the altar of \[the\] <span class="smallcaps">lord</span>, according to the command  of king Josiah. 
-<small><sub>**KJV:**</sub></small>
-So all the service of the LORD was prepared the same day, to keep the passover, and to offer burnt offerings upon the altar of the LORD, according to the commandment of king Josiah.
-<small><sub>**BSB:**</sub></small>
-So on that day the entire service of the LORD was carried out for celebrating the Passover and offering burnt offerings on the altar of the LORD, according to the command of King Josiah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.15|<< 2 Chronicles 35:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.17|2 Chronicles 35:17 >>]]</td></tr></table>
 
 | Translation | Greek |

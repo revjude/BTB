@@ -1,10 +1,7 @@
 **LXX Leviticus 7:21** 
 <small><sub>**LXX:**</sub></small>
 And the soul which ever should touch any thing unclean, or from an uncleanness of man, or of the four-footed \[creatures\] of the unclean, or any abomination of an unclean \[thing\], and should eat from the meats of the sacrifice of the peace \[offerings\] which is for the <span class="smallcaps">lord</span>, that soul shall be destroyed from  its people. 
-<small><sub>**KJV:**</sub></small>
-Moreover the soul that shall touch any unclean [thing, as] the uncleanness of man, or [any] unclean beast, or any abominable unclean [thing], and eat of the flesh of the sacrifice of peace offerings, which [pertain] unto the LORD, even that soul shall be cut off from his people.
-<small><sub>**BSB:**</sub></small>
-If one touches anything unclean, whether human uncleanness, an unclean animal, or any unclean, detestable thing, and then eats any of the meat of the peace offering that belongs to the LORD, that person must be cut off from his people.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.20|<< Leviticus 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.22|Leviticus 7:22 >>]]</td></tr></table>
 
 | Translation | Greek |

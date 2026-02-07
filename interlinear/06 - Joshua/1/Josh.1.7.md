@@ -1,4 +1,4 @@
-**Joshua 1:7** 
+**Joshua 1:7**<big><big>[[Josh.1.1 God Instructs Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it [to] the right hand or [to] the left, that thou mayest prosper whithersoever thou goest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Above all, be strong and very courageous. Be careful to observe all the law that
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.6|<< Joshua 1:6]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.8|Joshua 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַק֩]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | be strong  |**<big>&#8207;[[H2388G\|חֲזַ֨ק]]&#8207; </big>**| cha.Zak<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Galatians 6:4
-**<small><sub>**KJV:**</sub></small>
+**Galatians 6:4**<big><big>[[Gal.6.1 Carry One Another’s Burdens|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.
 <small><sub>**BSB:**</sub></small>
 Each one should test his own work. Then he will have reason to boast in himself alone, and not in someone else.
 <small><sub>**Literal:**</sub></small>
 <the> But the work his own should test each, and then as to himself alone the ground of boasting he will have and not as to <the> another;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.3|<< Galatians 6:3]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.5|Galatians 6:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

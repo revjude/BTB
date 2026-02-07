@@ -1,12 +1,12 @@
-**Colossians 1:6
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:6**<big><big>[[Col.1.3 Thanksgiving and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which is come unto you, as [it is] in all the world; and bringeth forth fruit, as [it doth] also in you, since the day ye heard [of it], and knew the grace of God in truth:
 <small><sub>**BSB:**</sub></small>
 that has come to you. All over the world this gospel is bearing fruit and growing, just as it has been doing among you since the day you heard it and truly understood the grace of God.
 <small><sub>**Literal:**</sub></small>
 which is being present unto you, even as also in all the world and it is bearing fruit and increasing even as also among you from the day you heard and you knew the grace <the> of God in truth,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.5|<< Colossians 1:5]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.7|Colossians 1:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is being present |**<big>[[G3918\|παρόντος]]</big>**  |parontos <small><sup>[[V-PAP-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

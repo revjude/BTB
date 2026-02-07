@@ -1,4 +1,4 @@
-**Proverbs 12:9** 
+**Proverbs 12:9**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He that is] despised, and hath a servant, [is] better than he that honoureth himself, and lacketh bread.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Better to be lightly esteemed yet have a servant, than to be self-important but 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.8|<< Proverbs 12:8]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.10|Proverbs 12:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֣וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a lightly esteemed [person]  |**<big>&#8207;[[H7034\|נִ֭קְלֶה]]&#8207; </big>**| Nik.leh<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

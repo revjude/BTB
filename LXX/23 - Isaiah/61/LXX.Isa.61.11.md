@@ -1,10 +1,7 @@
 **LXX Isaiah 61:11** 
 <small><sub>**LXX:**</sub></small>
 And as \[the\] earth growing  its flower, and as a garden  sprouts forth its seeds, so \[the\] Lord \[the\] <span class="smallcaps">lord</span> will raise up righteousness and a leap for joy before all the nations. 
-<small><sub>**KJV:**</sub></small>
-For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord GOD will cause righteousness and praise to spring forth before all the nations.
-<small><sub>**BSB:**</sub></small>
-For as the earth brings forth its growth, and as a garden enables seed to spring up, so the Lord GOD will cause righteousness and praise to spring up before all the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.61.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.61.10|<< Isaiah 61:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.1|Isaiah 62:1 >>]]</td></tr></table>
 
 | Translation | Greek |

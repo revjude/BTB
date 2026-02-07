@@ -1,4 +1,4 @@
-**Ezekiel 40:49** 
+**Ezekiel 40:49**<big><big>[[Ezek.40.47 The Inner Court|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The length of the porch [was] twenty cubits, and the breadth eleven cubits; and [he brought me] by the steps whereby they went up to it: and [there were] pillars by the posts, one on this side, and another on that side.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The portico was twenty cubits wide and twelve cubits deep, and ten steps led up 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.48|<< Ezekiel 40:48]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.1|Ezekiel 41:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] length of  |**<big>&#8207;[[H0753\|אֹ֣רֶךְ]]&#8207; </big>**| 'O.rekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the porch  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0197J\|אֻלָ֞ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'u.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

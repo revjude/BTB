@@ -1,10 +1,7 @@
 **LXX Exodus 8:17** 
 <small><sub>**LXX:**</sub></small>
 Then Aaron stretched out the rod \[with\] the hand, and he struck the embankment of the earth, and there were the midges among both  men \[and\] among also the four-footed \[creatures\]. And among all embankments of the land there were the midges in all \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And they did so; for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice in man, and in beast; all the dust of the land became lice throughout all the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-This they did, and when Aaron stretched out his hand with his staff and struck the dust of the earth, gnats came upon man and beast. All the dust of the earth turned into gnats throughout the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.16|<< Exodus 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.18|Exodus 8:18 >>]]</td></tr></table>
 
 | Translation | Greek |

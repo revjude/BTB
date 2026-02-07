@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:11** 
 <small><sub>**LXX:**</sub></small>
 a voice of gladness, and a voice of joyfulness, a voice of a groom, and a voice of a bride, a voice of men saying, Make acknowledgment \[to the\] <span class="smallcaps">lord</span> almighty! for \[the\] <span class="smallcaps">lord</span> \[is\] gracious, for into the eon  is his mercy. And they shall carry in gifts to \[the\] house of \[the\] <span class="smallcaps">lord</span>. For I shall return all the resettlement  of that land as  prior, said \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-The voice of joy, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the voice of them that shall say, Praise the LORD of hosts: for the LORD [is] good; for his mercy [endureth] for ever: [and] of them that shall bring the sacrifice of praise into the house of the LORD. For I will cause to return the captivity of the land, as at the first, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-the sounds of joy and gladness, the voices of the bride and bridegroom, and the voices of those bringing thank offerings into the house of the LORD, saying: ‘Give thanks to the LORD of Hosts, for the LORD is good; His loving devotion endures forever.’ For I will restore the land from captivity as in former times, says the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.10|<< Jeremiah 33:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.12|Jeremiah 33:12 >>]]</td></tr></table>
 
 | Translation | Greek |

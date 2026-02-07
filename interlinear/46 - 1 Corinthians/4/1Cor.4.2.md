@@ -1,12 +1,12 @@
-**1 Corinthians 4:2
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 4:2**<big><big>[[1Cor.4.1 Servants of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Moreover it is required in stewards, that a man be found faithful.
 <small><sub>**BSB:**</sub></small>
 Now it is required of stewards that they be found faithful.
 <small><sub>**Literal:**</sub></small>
 In this case moreover it is required in the stewards that faithful one may be found.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.1|<< 1 Corinthians 4:1]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.3|1 Corinthians 4:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In this case [^1] |**<big>[[G5602\|Ὧδε]]</big>**  |Hōde <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | moreover |**<big>[[G3063\|λοιπὸν]]</big>**  |loipon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

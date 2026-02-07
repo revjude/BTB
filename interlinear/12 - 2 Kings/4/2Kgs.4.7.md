@@ -1,4 +1,4 @@
-**2 Kings 4:7** 
+**2 Kings 4:7**<big><big>[[2Kgs.4.1 The Widow’s Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then she came and told the man of God. And he said, Go, sell the oil, and pay thy debt, and live thou and thy children of the rest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She went and told the man of God, and he said, “Go, sell the oil, and pay your
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.6|<< 2 Kings 4:6]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.8|2 Kings 4:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|תָּבֹ֗א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Vo'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and she told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|תַּגֵּד֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Ged<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

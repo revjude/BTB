@@ -1,10 +1,7 @@
 **LXX Exodus 2:23** 
 <small><sub>**LXX:**</sub></small>
 And after  those many days, the king of Egypt came to an end, and the sons of Israel groaned from the works, and yelled out. And their yell ascended to  God because of the works. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in process of time, that the king of Egypt died: and the children of Israel sighed by reason of the bondage, and they cried, and their cry came up unto God by reason of the bondage.
-<small><sub>**BSB:**</sub></small>
-After a long time, the king of Egypt died. The Israelites groaned and cried out under their burden of slavery, and their cry for deliverance from bondage ascended to God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.22|<< Exodus 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.24|Exodus 2:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 8:3** 
+**Deuteronomy 8:3**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every [word] that proceedeth out of the mouth of the LORD doth man live.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He humbled you, and in your hunger He gave you manna to eat, which neither you n
 > $\quad$ referenced by: [[Matt.4.4|Matt 4:4]] ☩ [[Luke.4.4|Luke 4:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he humbled you  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6031B\|יְעַנְּ]]&#8207;&#8207;[[H9031\|ךָ֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.'a.ne.<small><sup>[[HVpw3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he caused to hunger you  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7456\|יַּרְעִבֶ]]&#8207;&#8207;[[H9031\|ךָ֒]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yar.'i.ve.<small><sup>[[HVhw3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

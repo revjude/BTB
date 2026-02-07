@@ -1,4 +1,4 @@
-**Isaiah 10:4** 
+**Isaiah 10:4**<big><big>[[Isa.10.1 Woe to Tyrants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Without me they shall bow down under the prisoners, and they shall fall under the slain. For all this his anger is not turned away, but his hand [is] stretched out still.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nothing will remain but to crouch among the captives or fall among the slain. De
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.3|<< Isaiah 10:3]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.5|Isaiah 10:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | except  |**<big>&#8207;[[H1115\|בִּלְתִּ֤י]]&#8207; </big>**| bil.Ti<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anyone kneeled down  |**<big>&#8207;[[H3766\|כָרַע֙]]&#8207; </big>**| kha.Ra'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

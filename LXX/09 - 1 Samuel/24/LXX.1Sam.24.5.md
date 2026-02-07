@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:5** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after these \[things\], that David's heart struck him, for he removed the border  of his double garment. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass afterward, that David’s heart smote him, because he had cut off Saul’s skirt.
-<small><sub>**BSB:**</sub></small>
-Afterward, David’s conscience was stricken because he had cut off the corner of Saul’s robe.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.4|<< 1 Samuel 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.6|1 Samuel 24:6 >>]]</td></tr></table>
 
 | Translation | Greek |

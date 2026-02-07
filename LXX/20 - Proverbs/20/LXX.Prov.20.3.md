@@ -1,10 +1,7 @@
 **LXX Proverbs 20:3** 
 <small><sub>**LXX:**</sub></small>
 \[It is\] glory for man to turn from reviling; but every fool is closely joined in such \[matters\]. 
-<small><sub>**KJV:**</sub></small>
-[It is] an honour for a man to cease from strife: but every fool will be meddling.
-<small><sub>**BSB:**</sub></small>
-It is honorable for a man to resolve a dispute, but any fool will quarrel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.2|<< Proverbs 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.4|Proverbs 20:4 >>]]</td></tr></table>
 
 | Translation | Greek |

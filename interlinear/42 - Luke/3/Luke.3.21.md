@@ -1,12 +1,12 @@
-**Luke 3:21
-**<small><sub>**KJV:**</sub></small>
+**Luke 3:21**<big><big>[[Luke.3.21 The Baptism of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened,
 <small><sub>**BSB:**</sub></small>
 When all the people were being baptized, Jesus was baptized too. And as He was praying, heaven was opened,
 <small><sub>**Literal:**</sub></small>
 It came to pass now in <the> baptizing all the people and when Jesus having been baptized and having prayed [was] opening the heaven<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.20|<< Luke 3:20]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.22|Luke 3:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It came to pass |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

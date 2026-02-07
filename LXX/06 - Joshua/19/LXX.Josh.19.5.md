@@ -1,10 +1,7 @@
 **LXX Joshua 19:5** 
 <small><sub>**LXX:**</sub></small>
 and Ziglag, and Beth-marcaboth, and Hazar-susah, 
-<small><sub>**KJV:**</sub></small>
-And Ziklag, and Bethmarcaboth, and Hazarsusah,
-<small><sub>**BSB:**</sub></small>
-Ziklag, Beth-marcaboth, Hazar-susah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.4|<< Joshua 19:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.6|Joshua 19:6 >>]]</td></tr></table>
 
 | Translation | Greek |

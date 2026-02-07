@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And came forth the third lot  to Zebulun according to their peoples; the borders of their inheritance will be unto Sarid. 
-<small><sub>**KJV:**</sub></small>
-And the third lot came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid:
-<small><sub>**BSB:**</sub></small>
-The third lot came up for the clans of the tribe of Zebulun: The border of their inheritance stretched as far as Sarid.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.9|<< Joshua 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.11|Joshua 19:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 13:3** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan struck the Nasib of the Philistines, the one in the hill. And the Philistines heard, and Saul trumped \[the\] trumpet in all the land, saying, The servants disregard \[us\]. 
-<small><sub>**KJV:**</sub></small>
-And Jonathan smote the garrison of the Philistines that [was] in Geba, and the Philistines heard [of it]. And Saul blew the trumpet throughout all the land, saying, Let the Hebrews hear.
-<small><sub>**BSB:**</sub></small>
-Then Jonathan attacked the Philistine outpost at Geba, and the Philistines heard about it. So Saul blew the ram’s horn throughout the land, saying, “Let the Hebrews hear!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.2|<< 1 Samuel 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.4|1 Samuel 13:4 >>]]</td></tr></table>
 
 | Translation | Greek |

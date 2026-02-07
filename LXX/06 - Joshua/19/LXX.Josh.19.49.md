@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they completed  to divide by lot the land unto  their borders. And the sons of Israel gave a lot \[to\] Joshua son of Nun among them, 
-<small><sub>**KJV:**</sub></small>
-When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them:
-<small><sub>**BSB:**</sub></small>
-When they had finished distributing the land into its territories, the Israelites gave Joshua son of Nun an inheritance among them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.48|<< Joshua 19:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.50|Joshua 19:50 >>]]</td></tr></table>
 
 | Translation | Greek |

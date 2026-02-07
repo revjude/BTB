@@ -1,10 +1,7 @@
 **LXX Isaiah 27:10** 
 <small><sub>**LXX:**</sub></small>
 The flock dwelling there will be spared as a flock being left behind; and there will be much time for pasture, and there they shall rest. 
-<small><sub>**KJV:**</sub></small>
-Yet the defenced city [shall be] desolate, [and] the habitation forsaken, and left like a wilderness: there shall the calf feed, and there shall he lie down, and consume the branches thereof.
-<small><sub>**BSB:**</sub></small>
-For the fortified city lies deserted—a homestead abandoned, a wilderness forsaken. There the calves graze, and there they lie down; they strip its branches bare.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.27.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.9|<< Isaiah 27:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.27.11|Isaiah 27:11 >>]]</td></tr></table>
 
 | Translation | Greek |

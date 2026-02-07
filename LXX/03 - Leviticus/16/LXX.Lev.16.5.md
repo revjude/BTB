@@ -1,10 +1,7 @@
 **LXX Leviticus 16:5** 
 <small><sub>**LXX:**</sub></small>
 And from the congregation of the sons of Israel he shall take two young he-goats of \[the\] goats for a sin \[offering\], and one ram for a whole burnt-offering. 
-<small><sub>**KJV:**</sub></small>
-And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one ram for a burnt offering.
-<small><sub>**BSB:**</sub></small>
-And he shall take from the congregation of Israel two male goats for a sin offering and one ram for a burnt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.4|<< Leviticus 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.6|Leviticus 16:6 >>]]</td></tr></table>
 
 | Translation | Greek |

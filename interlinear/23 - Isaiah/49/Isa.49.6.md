@@ -1,4 +1,4 @@
-**Isaiah 49:6** 
+**Isaiah 49:6**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, It is a light thing that thou shouldest be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He says: “It is not enough for You to be My Servant, to raise up the tribes of
 > $\quad$ referenced by: [[Isa.42.6|Isa 42:6]] ☩ [[Acts.13.47|Acts 13:47]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is [too] trifling  |**<big>&#8207;[[H7043\|נָקֵ֨ל]]&#8207; </big>**| na.Kel<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 27:37
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:37**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And set up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS.
 <small><sub>**BSB:**</sub></small>
 Above His head they posted the written charge against Him: THIS IS JESUS, THE KING OF THE JEWS.
 <small><sub>**Literal:**</sub></small>
 And they put up over the head of Him the accusation of Him written: This is Jesus the King of the Jews.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.36|<< Matthew 27:36]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.38|Matthew 27:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they put up |**<big>[[G2007\|ἐπέθηκαν]]</big>**  |epethēkan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

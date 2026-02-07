@@ -1,4 +1,4 @@
-**Leviticus 7:7** 
+**Leviticus 7:7**<big><big>[[Lev.7.1 The Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the sin offering [is], so [is] the trespass offering: [there is] one law for them: the priest that maketh atonement therewith shall have [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The guilt offering is like the sin offering; the same law applies to both. It be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.6|<< Leviticus 7:6]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.8|Leviticus 7:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as the sin offering  |**<big>&#8207;[[H9004\|כַּֽ]]&#8207;&#8207;[[H2403H\|חַטָּאת֙]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> cha.taT<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | as the guilt offering  |**<big>&#8207;[[H9004\|כָּֽ]]&#8207;&#8207;[[H0817\|אָשָׁ֔ם]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'a.Sham<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

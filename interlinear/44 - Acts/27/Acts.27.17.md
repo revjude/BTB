@@ -1,12 +1,12 @@
-**Acts 27:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:17**<big><big>[[Acts.27.13 The Storm at Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which when they had taken up, they used helps, undergirding the ship; and, fearing lest they should fall into the quicksands, strake sail, and so were driven.
 <small><sub>**BSB:**</sub></small>
 After hoisting it up, the crew used ropes to undergird the ship. And fearing that they would run aground on the sandbars of Syrtis, they lowered the sea anchor and were driven along.
 <small><sub>**Literal:**</sub></small>
 which having taken up supports they were using undergirding the ship; Fearing then lest into the sandbars of Syrtis they may fall having lowered the gear, thus they were driven along.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.16|<< Acts 27:16]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.18|Acts 27:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which |**<big>[[G3739\|ἣν]]</big>**  |hēn <small><sup>[[R-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken up |**<big>[[G0142\|ἄραντες]]</big>**  |arantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

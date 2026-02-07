@@ -1,4 +1,4 @@
-**Song of Solomon 2:5** 
+**Song of Solomon 2:5**<big><big>[[Song.2.3 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Stay me with flagons, comfort me with apples: for I [am] sick of love.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sustain me with raisins; refresh me with apples, for I am faint with love.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.4|<< Song of Solomon 2:4]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.6|Song of Solomon 2:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sustain me  |**<big>&#8207;[[H5564\|סַמְּכ֙וּ]]&#8207;&#8207;[[H9030\|נִי֙]]&#8207; </big>**| sa.me.Khu.<small><sup>[[HVpv2mp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with \<the> raisin-cakes  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H0809\|אֲשִׁישׁ֔וֹת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'a.shi.Shot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 104:12** 
+**Psalms 104:12**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By them shall the fowls of the heaven have their habitation, [which] sing among the branches.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The birds of the air nest beside the springs; they sing among the branches.
 > $\quad$ referenced by: [[Matt.13.32|Matt 13:32]] ☩ [[Mark.4.32|Mark 4:32]] ☩ [[Luke.13.19|Luke 13:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | at them  |**<big>&#8207;[[H5921A\|עֲ֭לֵי]]&#8207;&#8207;[[H9038\|הֶם]]&#8207; </big>**| 'A.lei.<small><sup>[[HR]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] bird[s] of  |**<big>&#8207;[[H5775\|עוֹף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'of-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

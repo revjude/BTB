@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In going, say \[to\] Jeroboam, Thus says \[the\] <span class="smallcaps">lord</span>  God of Israel, Because as much as I exalted you from \[the\] midst of the people, and appointed you leading over the people of Israel, 
-<small><sub>**KJV:**</sub></small>
-Go, tell Jeroboam, Thus saith the LORD God of Israel, Forasmuch as I exalted thee from among the people, and made thee prince over my people Israel,
-<small><sub>**BSB:**</sub></small>
-Go, tell Jeroboam that this is what the LORD, the God of Israel, says: ‘I raised you up from among the people and appointed you ruler over My people Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.6|<< 1 Kings 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.8|1 Kings 14:8 >>]]</td></tr></table>
 
 | Translation | Greek |

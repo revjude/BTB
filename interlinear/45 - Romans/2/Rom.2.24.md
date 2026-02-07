@@ -1,5 +1,5 @@
-**Romans 2:24
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:24**<big><big>[[Rom.2.17 The Jews and the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the name of God is blasphemed among the Gentiles through you, as it is written.
 <small><sub>**BSB:**</sub></small>
 As it is written: “God’s name is blasphemed among the Gentiles because of you.”
@@ -10,7 +10,7 @@ As it is written: “God’s name is blasphemed among the Gentiles because of yo
 > $\quad$ referencing: [[LXX.Isa.52.5|Isa 52:5]] ☩ [[LXX.Ezek.36.21|Ezek 36:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

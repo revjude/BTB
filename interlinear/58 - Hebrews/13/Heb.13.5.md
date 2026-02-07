@@ -1,5 +1,5 @@
-**Hebrews 13:5
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 13:5**<big><big>[[Heb.13.5 Christ’s Unchanging Nature|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Let your] conversation [be] without covetousness; [and be] content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.
 <small><sub>**BSB:**</sub></small>
 Keep your lives free from the love of money and be content with what you have, for God has said: “Never will I leave you, never will I forsake you.”
@@ -10,7 +10,7 @@ Keep your lives free from the love of money and be content with what you have, f
 > $\quad$ referencing: [[LXX.Deut.31.6|Deut 31:6]] ☩ [[LXX.Deut.31.8|Deut 31:8]] ☩ [[LXX.Josh.1.5|Josh 1:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [Let be] without covetousness |**<big>[[G0866\|Ἀφιλάργυρος]]</big>**  |Aphilarguros <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

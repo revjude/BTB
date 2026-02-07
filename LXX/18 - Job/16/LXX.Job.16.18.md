@@ -1,10 +1,7 @@
 **LXX Job 16:18** 
 <small><sub>**LXX:**</sub></small>
 O earth, you should not cover over \[the\] blood  of my flesh, nor may there be a place  for my cry. 
-<small><sub>**KJV:**</sub></small>
-O earth, cover not thou my blood, and let my cry have no place.
-<small><sub>**BSB:**</sub></small>
-O earth, do not cover my blood; may my cry for help never be laid to rest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.17|<< Job 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.19|Job 16:19 >>]]</td></tr></table>
 
 | Translation | Greek |

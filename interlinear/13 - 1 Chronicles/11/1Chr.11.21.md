@@ -1,4 +1,4 @@
-**1 Chronicles 11:21** 
+**1 Chronicles 11:21**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the three, he was more honourable than the two; for he was their captain: howbeit he attained not to the [first] three.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He was doubly honored above the Three, and he became their commander, even thoug
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.20|<< 1 Chronicles 11:20]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.22|1 Chronicles 11:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | more than  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the three  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7969\|שְּׁלוֹשָׁ֤ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.lo.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

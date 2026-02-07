@@ -1,10 +1,7 @@
 **LXX Jeremiah 42:17** 
 <small><sub>**LXX:**</sub></small>
 And it will be all the men, the ones putting  their face  to enter into \[the\] land of Egypt to dwell there, they shall fail by the broadsword, and by the famine, and pestilence. And there will not be for them any one delivering from the evils which I bring upon them. 
-<small><sub>**KJV:**</sub></small>
-So shall it be with all the men that set their faces to go into Egypt to sojourn there; they shall die by the sword, by the famine, and by the pestilence: and none of them shall remain or escape from the evil that I will bring upon them.
-<small><sub>**BSB:**</sub></small>
-So all who resolve to go to Egypt to reside there will die by sword and famine and plague. Not one of them will survive or escape the disaster I will bring upon them.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.16|<< Jeremiah 42:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.18|Jeremiah 42:18 >>]]</td></tr></table>
 
 | Translation | Greek |

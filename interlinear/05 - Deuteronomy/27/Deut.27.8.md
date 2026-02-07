@@ -1,4 +1,4 @@
-**Deuteronomy 27:8** 
+**Deuteronomy 27:8**<big><big>[[Deut.27.1 The Altar on Mount Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt write upon the stones all the words of this law very plainly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you shall write distinctly upon these stones all the words of this law.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.7|<< Deuteronomy 27:7]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.9|Deuteronomy 27:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will write  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3789\|כָתַבְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> kha.tav.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

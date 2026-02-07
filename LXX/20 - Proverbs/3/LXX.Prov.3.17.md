@@ -1,10 +1,7 @@
 **LXX Proverbs 3:17** 
 <small><sub>**LXX:**</sub></small>
  Her ways \[are\] good ways, and all  her paths \[are\] in peace. 
-<small><sub>**KJV:**</sub></small>
-Her ways [are] ways of pleasantness, and all her paths [are] peace.
-<small><sub>**BSB:**</sub></small>
-All her ways are pleasant, and all her paths are peaceful.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.16|<< Proverbs 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.18|Proverbs 3:18 >>]]</td></tr></table>
 
 | Translation | Greek |

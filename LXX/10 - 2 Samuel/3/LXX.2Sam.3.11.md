@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:11** 
 <small><sub>**LXX:**</sub></small>
 And Ishbosheth \[was\] not able still to answer  Abner's utterance, because of  fearing him. 
-<small><sub>**KJV:**</sub></small>
-And he could not answer Abner a word again, because he feared him.
-<small><sub>**BSB:**</sub></small>
-And for fear of Abner, Ish-bosheth did not dare to say another word to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.10|<< 2 Samuel 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.12|2 Samuel 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

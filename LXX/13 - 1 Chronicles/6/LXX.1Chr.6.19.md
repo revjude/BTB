@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:19** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Merari -- Mahli, and Mushi. These \[are\] the kin \[of\] Levi according to their families. 
-<small><sub>**KJV:**</sub></small>
-The sons of Merari; Mahli, and Mushi. And these [are] the families of the Levites according to their fathers.
-<small><sub>**BSB:**</sub></small>
-The sons of Merari: Mahli and Mushi. These are the clans of the Levites listed according to their fathers:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.18|<< 1 Chronicles 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.20|1 Chronicles 6:20 >>]]</td></tr></table>
 
 | Translation | Greek |

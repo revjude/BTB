@@ -1,4 +1,4 @@
-**Psalms 89:11** (89:12)
+**Psalms 89:11**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heavens [are] thine, the earth also [is] thine: [as for] the world and the fulness thereof, thou hast founded them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The heavens are Yours, and also the earth. The earth and its fullness You founde
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.10|<< Psalms 89:10]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.12|Psalms 89:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [belongs] to \<the> you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heaven  |**<big>&#8207;[[H8064\|שָׁ֭מַיִם]]&#8207; </big>**| Sha.ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

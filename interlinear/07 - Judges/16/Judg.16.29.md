@@ -1,4 +1,4 @@
-**Judges 16:29** 
+**Judges 16:29**<big><big>[[Judg.16.23 Samson’s Vengeance and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samson took hold of the two middle pillars upon which the house stood, and on which it was borne up, of the one with his right hand, and of the other with his left.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Samson reached out for the two central pillars supporting the temple. Bracin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.28|<< Judges 16:28]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.30|Judges 16:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he grasped  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3943\|יִּלְפֹּ֨ת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yil.Pot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samson  |**<big>&#8207;[[H8123\|שִׁמְשׁ֜וֹן]]&#8207; </big>**| shim.Shon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

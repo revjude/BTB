@@ -1,4 +1,4 @@
-**2 Chronicles 12:5** 
+**2 Chronicles 12:5**<big><big>[[2Chr.12.1 Shishak Raids Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came Shemaiah the prophet to Rehoboam, and [to] the princes of Judah, that were gathered together to Jerusalem because of Shishak, and said unto them, Thus saith the LORD, Ye have forsaken me, and therefore have I also left you in the hand of Shishak.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Shemaiah the prophet came to Rehoboam and the leaders of Judah who had gath
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12.4|<< 2 Chronicles 12:4]]</td><td align="center" style="border:none;">[[2Chr.12|2 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12.6|2 Chronicles 12:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Shemaiah  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H8098A\|שְׁמַֽעְיָ֤ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.ma'.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the prophet  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5030\|נָּבִיא֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

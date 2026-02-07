@@ -1,4 +1,4 @@
-**Jeremiah 51:9** 
+**Jeremiah 51:9**<big><big>[[Jer.51.1 Judgment on Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We would have healed Babylon, but she is not healed: forsake her, and let us go every one into his own country: for her judgment reacheth unto heaven, and is lifted up [even] to the skies.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ We would have healed Babylon, but she is not healed: forsake her, and let us go 
 > $\quad$ referenced by: [[Rev.18.4|Rev 18:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we healed  |**<big>&#8207;[[H7495\|רִפִּ֣ינוּ]]&#8207; </big>**[^1] [^2] | ri.pi.nu<small><sup>[[HVpp1cp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

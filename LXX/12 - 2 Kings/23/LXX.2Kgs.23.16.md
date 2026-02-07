@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Josiah turned and saw the tombs of the ones being there in the mount, and he sent and took the bones from out of the tombs, and he incinerated \[them\] upon the altar, and defiled it, according to the saying of \[the\] <span class="smallcaps">lord</span> which the man of God spoke when  Jeroboam stood near the altar in the holiday. And turning \[Josiah\] lifted  his eyes upon the burying-place of the man  of God, the one speaking  these words; 
-<small><sub>**KJV:**</sub></small>
-And as Josiah turned himself, he spied the sepulchres that [were] there in the mount, and sent, and took the bones out of the sepulchres, and burned [them] upon the altar, and polluted it, according to the word of the LORD which the man of God proclaimed, who proclaimed these words.
-<small><sub>**BSB:**</sub></small>
-And as Josiah turned, he saw the tombs there on the hillside, and he sent someone to take the bones out of the tombs, and he burned them on the altar to defile it, according to the word of the LORD proclaimed by the man of God who had foretold these things.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.15|<< 2 Kings 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.17|2 Kings 23:17 >>]]</td></tr></table>
 
 | Translation | Greek |

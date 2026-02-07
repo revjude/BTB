@@ -1,10 +1,7 @@
 **LXX Jeremiah 14:12** 
 <small><sub>**LXX:**</sub></small>
 For if they should fast, I will not listen to  their supplication. And if they should bring whole burnt-offerings, and sacrifices, I will not think well of them. For by sword and by famine I will finish them off entirely unto death. 
-<small><sub>**KJV:**</sub></small>
-When they fast, I will not hear their cry; and when they offer burnt offering and an oblation, I will not accept them: but I will consume them by the sword, and by the famine, and by the pestilence.
-<small><sub>**BSB:**</sub></small>
-Although they may fast, I will not listen to their cry; although they may offer burnt offerings and grain offerings, I will not accept them. Instead, I will finish them off by sword and famine and plague.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.11|<< Jeremiah 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.13|Jeremiah 14:13 >>]]</td></tr></table>
 
 | Translation | Greek |

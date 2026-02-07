@@ -1,10 +1,7 @@
 **LXX 2 Samuel 23:18** 
 <small><sub>**LXX:**</sub></small>
 And Abishai the brother of Joab, son of Zeruiah, \[was\] foremost of the three. And he awakened  his spear upon three hundred slain, and to him \[was\] a name among the three. 
-<small><sub>**KJV:**</sub></small>
-And Abishai, the brother of Joab, the son of Zeruiah, was chief among three. And he lifted up his spear against three hundred, [and] slew [them], and had the name among three.
-<small><sub>**BSB:**</sub></small>
-Now Abishai, the brother of Joab and son of Zeruiah, was chief of the Three, and he wielded his spear against three hundred men, killed them, and won a name along with the Three.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.17|<< 2 Samuel 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.19|2 Samuel 23:19 >>]]</td></tr></table>
 
 | Translation | Greek |

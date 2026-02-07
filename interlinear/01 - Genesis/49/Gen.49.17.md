@@ -1,4 +1,4 @@
-**Genesis 49:17** 
+**Genesis 49:17**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Dan shall be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will be a snake by the road, a viper in the path that bites the horse’s hee
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.16|<< Genesis 49:16]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.18|Genesis 49:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may he be  |**<big>&#8207;[[H1961\|יְהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.hi-<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Dan  |**<big>&#8207;[[H1835H\|דָן֙]]&#8207; </big>**| dan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

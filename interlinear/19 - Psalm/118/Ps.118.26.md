@@ -1,4 +1,4 @@
-**Psalms 118:26** 
+**Psalms 118:26**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [be] he that cometh in the name of the LORD: we have blessed you out of the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Blessed is he who comes in the name of the LORD. From the house of the LORD we b
 > $\quad$ referenced by: [[Matt.21.9|Matt 21:9]] ☩ [[Matt.23.39|Matt 23:39]] ☩ [[Mark.11.9|Mark 11:9-10]] ☩ [[Luke.13.35|Luke 13:35]] ☩ [[Luke.19.38|Luke 19:38]] ☩ [[John.12.13|John 12:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [be] blessed  |**<big>&#8207;[[H1288\|בָּר֣וּךְ]]&#8207; </big>**| ba.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [one who] comes  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H0935G\|בָּא]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> ba'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

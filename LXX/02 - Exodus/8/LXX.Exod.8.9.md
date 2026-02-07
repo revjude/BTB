@@ -1,10 +1,7 @@
 **LXX Exodus 8:9** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to Pharaoh, Order for me! when should I make a vow for you, and for  your attendants, and  your people, to remove from view the frogs from you, and from  your people, and from  your houses -- except for the \[ones\] in \[the\] river \[which\] shall be left behind? 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto Pharaoh, Glory over me: when shall I intreat for thee, and for thy servants, and for thy people, to destroy the frogs from thee and thy houses, [that] they may remain in the river only?
-<small><sub>**BSB:**</sub></small>
-Moses said to Pharaoh, “You may have the honor over me. When shall I pray for you and your officials and your people that the frogs (except for those in the Nile) may be taken away from you and your houses?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.8|<< Exodus 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.10|Exodus 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

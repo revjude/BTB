@@ -1,4 +1,4 @@
-**Isaiah 22:2** 
+**Isaiah 22:2**<big><big>[[Isa.22.1 The Valley of Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou that art full of stirs, a tumultuous city, a joyous city: thy slain [men are] not slain with the sword, nor dead in battle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O city of commotion, O town of revelry? Your slain did not die by the sword, nor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.1|<< Isaiah 22:1]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.3|Isaiah 22:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | noises  |**<big>&#8207;[[H8663\|תְּשֻׁא֣וֹת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| te.shu.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | full  |**<big>&#8207;[[H4392\|מְלֵאָ֗ה]]&#8207; </big>**| me.le.'Ah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

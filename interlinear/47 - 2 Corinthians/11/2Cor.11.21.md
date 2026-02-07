@@ -1,12 +1,12 @@
-**2 Corinthians 11:21
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:21**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I speak as concerning reproach, as though we had been weak. Howbeit whereinsoever any is bold, (I speak foolishly,) I am bold also.
 <small><sub>**BSB:**</sub></small>
 To my shame I concede that we were too weak for that! Speaking as a fool, however, I can match what anyone else dares to boast about.
 <small><sub>**Literal:**</sub></small>
 As to dishonor I speak, as that we ourselves have been weak! In whatever however maybe anyone may be daring — in foolishness I speak — am daring I myself also.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.20|<< 2 Corinthians 11:20]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.22|2 Corinthians 11:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As to |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | dishonor |**<big>[[G0819\|ἀτιμίαν]]</big>**  |atimian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

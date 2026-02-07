@@ -1,4 +1,4 @@
-**Amos 2:10** 
+**Amos 2:10**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also I brought you up from the land of Egypt, and led you forty years through the wilderness, to possess the land of the Amorite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I brought you up from the land of Egypt and led you forty years in the wilde
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.9|<< Amos 2:9]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.11|Amos 2:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0595\|אָנֹכִ֛י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I brought up  |**<big>&#8207;[[H5927H\|הֶעֱלֵ֥יתִי]]&#8207; </big>**| he.'e.Lei.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

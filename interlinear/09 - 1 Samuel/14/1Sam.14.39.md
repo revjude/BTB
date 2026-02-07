@@ -1,4 +1,4 @@
-**1 Samuel 14:39** 
+**1 Samuel 14:39**<big><big>[[1Sam.14.37 The People Save Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, [as] the LORD liveth, which saveth Israel, though it be in Jonathan my son, he shall surely die. But [there was] not a man among all the people [that] answered him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As surely as the LORD who saves Israel lives, even if it is my son Jonathan, he 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.38|<< 1 Samuel 14:38]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.40|1 Samuel 14:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [by] [the] life  |**<big>&#8207;[[H2416A\|חַי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| chai-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

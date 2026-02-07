@@ -1,10 +1,7 @@
 **LXX Ezra 8:22** 
 <small><sub>**LXX:**</sub></small>
 For I was ashamed to ask from the king for a force and horsemen to deliver us from \[the\] enemy in the way; for we said to the king, saying, \[The\] hand  of our God \[is\] upon all the ones seeking him for good, and his might and his rage \[is\] upon all the ones abandoning him. 
-<small><sub>**KJV:**</sub></small>
-For I was ashamed to require of the king a band of soldiers and horsemen to help us against the enemy in the way: because we had spoken unto the king, saying, The hand of our God [is] upon all them for good that seek him; but his power and his wrath [is] against all them that forsake him.
-<small><sub>**BSB:**</sub></small>
-For I was ashamed to ask the king for an escort of soldiers and horsemen to protect us from our enemies on the road, since we had told him, “The hand of our God is gracious to all who seek Him, but His great anger is against all who forsake Him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.21|<< Ezra 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.23|Ezra 8:23 >>]]</td></tr></table>
 
 | Translation | Greek |

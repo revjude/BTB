@@ -1,10 +1,7 @@
 **LXX Leviticus 17:6** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall pour the blood upon the altar, before \[the\] <span class="smallcaps">lord</span>, by the door of the tent of the testimony. And he shall offer the fat for a scent of pleasant aroma to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall sprinkle the blood upon the altar of the LORD [at] the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the LORD.
-<small><sub>**BSB:**</sub></small>
-The priest will then splatter the blood on the altar of the LORD at the entrance to the Tent of Meeting and burn the fat as a pleasing aroma to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.5|<< Leviticus 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.7|Leviticus 17:7 >>]]</td></tr></table>
 
 | Translation | Greek |

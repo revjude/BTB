@@ -1,10 +1,7 @@
 **LXX Leviticus 10:3** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to Aaron, This is what \[the\] <span class="smallcaps">lord</span> spoke, saying, Among the ones approaching to me I will be sanctified, and in all the congregation I will be glorified. And Aaron was vexed. 
-<small><sub>**KJV:**</sub></small>
-Then Moses said unto Aaron, This [is it] that the LORD spake, saying, I will be sanctified in them that come nigh me, and before all the people I will be glorified. And Aaron held his peace.
-<small><sub>**BSB:**</sub></small>
-Then Moses said to Aaron, “This is what the LORD meant when He said: ‘To those who come near Me I will show My holiness, and in the sight of all the people I will reveal My glory.’” But Aaron remained silent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.10.2|<< Leviticus 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.4|Leviticus 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 106:43** 
+**Psalms 106:43**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many times did he deliver them; but they provoked [him] with their counsel, and were brought low for their iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Many times He rescued them, but they were bent on rebellion and sank down in the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.42|<< Psalms 106:42]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.44|Psalms 106:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | times  |**<big>&#8207;[[H6471\|פְּעָמִ֥ים]]&#8207; </big>**| pe.'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | many  |**<big>&#8207;[[H7227A\|רַבּ֗וֹת]]&#8207; </big>**| ra.Bot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

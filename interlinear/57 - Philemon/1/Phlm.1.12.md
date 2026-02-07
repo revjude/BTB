@@ -1,12 +1,12 @@
-**Philemon 1:12
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:12**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whom I have sent again: thou therefore receive him, that is, mine own bowels:
 <small><sub>**BSB:**</sub></small>
 I am sending back to you him who is my very heart.
 <small><sub>**Literal:**</sub></small>
 whom I have sent back to you now in person — who is <the> my very heart — do yourself receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.11|<< Philemon 1:11]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.13|Philemon 1:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom |**<big>[[G3739\|ὃν]]</big>**  |hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have sent back |**<big>[[G0375\|ἀνέπεμψά]]</big>**  |anepempsa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

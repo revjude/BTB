@@ -1,4 +1,4 @@
-**2 Samuel 3:32** 
+**2 Samuel 3:32**<big><big>[[2Sam.3.31 David Mourns for Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they buried Abner in Hebron: and the king lifted up his voice, and wept at the grave of Abner; and all the people wept.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they buried Abner in Hebron, the king wept aloud at Abner’s tomb, and all
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.31|<< 2 Samuel 3:31]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.33|2 Samuel 3:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they buried  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6912\|יִּקְבְּר֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.be.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

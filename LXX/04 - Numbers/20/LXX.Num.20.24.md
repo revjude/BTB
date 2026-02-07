@@ -1,10 +1,7 @@
 **LXX Numbers 20:24** 
 <small><sub>**LXX:**</sub></small>
 Let Aaron be added to  his people, for in no way should he enter into the land which I have given to the sons of Israel, because you provoked me at the Water  of Dispute. 
-<small><sub>**KJV:**</sub></small>
-Aaron shall be gathered unto his people: for he shall not enter into the land which I have given unto the children of Israel, because ye rebelled against my word at the water of Meribah.
-<small><sub>**BSB:**</sub></small>
-“Aaron will be gathered to his people; he will not enter the land that I have given the Israelites, because both of you rebelled against My command at the waters of Meribah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.23|<< Numbers 20:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.25|Numbers 20:25 >>]]</td></tr></table>
 
 | Translation | Greek |

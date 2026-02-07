@@ -1,10 +1,7 @@
 **LXX Ezekiel 11:22** 
 <small><sub>**LXX:**</sub></small>
 And the cherubim lifted up  their wings, and the wheels were next to them, and the glory of \[the\] God of Israel \[was\] upon them, up above them. 
-<small><sub>**KJV:**</sub></small>
-Then did the cherubims lift up their wings, and the wheels beside them; and the glory of the God of Israel [was] over them above.
-<small><sub>**BSB:**</sub></small>
-Then the cherubim, with the wheels beside them, spread their wings, and the glory of the God of Israel was above them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.21|<< Ezekiel 11:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.23|Ezekiel 11:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 11:22** is...

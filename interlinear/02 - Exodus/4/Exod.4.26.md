@@ -1,4 +1,4 @@
-**Exodus 4:26** 
+**Exodus 4:26**<big><big>[[Exod.4.18 Moses Leaves for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he let him go: then she said, A bloody husband [thou art], because of the circumcision.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the LORD let him alone. (When she said, “bridegroom of blood,” she was re
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.25|<< Exodus 4:25]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.27|Exodus 4:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he withdrew  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7503\|יִּ֖רֶף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.ref<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from him  |**<big>&#8207;[[H4480A\|מִמֶּ֑]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

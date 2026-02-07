@@ -1,10 +1,7 @@
 **LXX Zechariah 9:7** 
 <small><sub>**LXX:**</sub></small>
 And I will lift away  their blood from out of their mouth, and  their abominations from between their teeth. And they shall leave behind also these \[to\] our God; and they will be as \[under\] a commander of a thousand in Judah; and Ekron \[will be\] as the Jebusite. 
-<small><sub>**KJV:**</sub></small>
-And I will take away his blood out of his mouth, and his abominations from between his teeth: but he that remaineth, even he, [shall be] for our God, and he shall be as a governor in Judah, and Ekron as a Jebusite.
-<small><sub>**BSB:**</sub></small>
-I will remove the blood from their mouths and the abominations from between their teeth. Then they too will become a remnant for our God; they will become like a clan in Judah, and Ekron will be like the Jebusites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.6|<< Zechariah 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.8|Zechariah 9:8 >>]]</td></tr></table>
 
 | Translation | Greek |

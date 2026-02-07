@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:38** 
 <small><sub>**LXX:**</sub></small>
 And the king said, pass over Chimham with me, and I will do to him the pleasing \[thing\] before you, and what ever you should give order to me I will do for you. 
-<small><sub>**KJV:**</sub></small>
-And the king answered, Chimham shall go over with me, and I will do to him that which shall seem good unto thee: and whatsoever thou shalt require of me, [that] will I do for thee.
-<small><sub>**BSB:**</sub></small>
-The king replied, “Chimham will cross over with me, and I will do for him what is good in your sight, and I will do for you whatever you desire of me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.37|<< 2 Samuel 19:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.39|2 Samuel 19:39 >>]]</td></tr></table>
 
 | Translation | Greek |

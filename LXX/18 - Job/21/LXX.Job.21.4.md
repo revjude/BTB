@@ -1,10 +1,7 @@
 **LXX Job 21:4** 
 <small><sub>**LXX:**</sub></small>
 For what, is my rebuke from man? or why shall I not be enraged? 
-<small><sub>**KJV:**</sub></small>
-As for me, [is] my complaint to man? and if [it were so], why should not my spirit be troubled?
-<small><sub>**BSB:**</sub></small>
-Is my complaint against a man? Then why should I not be impatient?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.3|<< Job 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.5|Job 21:5 >>]]</td></tr></table>
 
 | Translation | Greek |

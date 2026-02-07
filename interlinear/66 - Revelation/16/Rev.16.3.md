@@ -1,5 +1,5 @@
-**Revelation 16:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:3**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the second angel poured out his vial upon the sea; and it became as the blood of a dead [man]: and every living soul died in the sea.
 <small><sub>**BSB:**</sub></small>
 And the second angel poured out his bowl into the sea, and it turned to blood like that of the dead, and every living thing in the sea died.
@@ -10,7 +10,7 @@ And the second angel poured out the bowl of him into the sea, and it became bloo
 > $\quad$ possibly alluding to: [[LXX.Exod.7.19|Exod 7:19-20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

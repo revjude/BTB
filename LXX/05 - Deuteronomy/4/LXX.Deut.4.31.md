@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:31** 
 <small><sub>**LXX:**</sub></small>
 For God \[the\] <span class="smallcaps">lord</span> your God \[is\] pitying and merciful. He will not abandon you, nor in any way will he obliterate you; he will not forget the covenant  of your fathers, which he swore by an oath to them. 
-<small><sub>**KJV:**</sub></small>
-(For the LORD thy God [is] a merciful God;) he will not forsake thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them.
-<small><sub>**BSB:**</sub></small>
-For the LORD your God is a merciful God; He will not abandon you or destroy you or forget the covenant with your fathers, which He swore to them by oath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.30|<< Deuteronomy 4:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.32|Deuteronomy 4:32 >>]]</td></tr></table>
 
 | Translation | Greek |

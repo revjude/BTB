@@ -1,12 +1,12 @@
-**Matthew 21:31
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:31**<big><big>[[Matt.21.28 The Parable of the Two Sons|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whether of them twain did the will of [his] father? They say unto him, The first. Jesus saith unto them, Verily I say unto you, That the publicans and the harlots go into the kingdom of God before you.
 <small><sub>**BSB:**</sub></small>
 Which of the two did the will of his father?” “The first,” they answered. Jesus said to them, “Truly I tell you, the tax collectors and prostitutes are entering the kingdom of God before you.
 <small><sub>**Literal:**</sub></small>
 Which of the two did the will of the father? They say to him: The first. Says to them <the> Jesus; Amen I say to you that the tax collectors and the prostitutes go before you into the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.30|<< Matthew 21:30]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.32|Matthew 21:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Which |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

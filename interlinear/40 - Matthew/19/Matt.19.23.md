@@ -1,12 +1,12 @@
-**Matthew 19:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:23**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to His disciples, “Truly I tell you, it is hard for a rich man to enter the kingdom of heaven.
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus said to the disciples of Him; Amen I say to you that a rich man with difficulty will enter into the kingdom of the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.22|<< Matthew 19:22]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.24|Matthew 19:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

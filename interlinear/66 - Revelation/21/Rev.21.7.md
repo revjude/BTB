@@ -1,5 +1,5 @@
-**Revelation 21:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:7**<big><big>[[Rev.21.1 A New Heaven and a New Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that overcometh shall inherit all things; and I will be his God, and he shall be my son.
 <small><sub>**BSB:**</sub></small>
 The one who overcomes will inherit all things, and I will be his God, and he will be My son.
@@ -10,7 +10,7 @@ The [one] overcoming he will inherit these [things], and I will be to him God, a
 > $\quad$ referencing: [[LXX.2Sam.7.14|2Sam 7:14]] ☩ [[LXX.1Chr.17.13|1Chr 17:13]] ☩ [[LXX.Ezek.11.20|Ezek 11:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | overcoming |**<big>[[G3528\|νικῶν]]</big>**  |nikōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

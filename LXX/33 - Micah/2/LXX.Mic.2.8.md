@@ -1,10 +1,7 @@
 **LXX Micah 2:8** 
 <small><sub>**LXX:**</sub></small>
 And in former \[times\]  my people opposed for enmity against  his peace;  his skin they flayed  to remove hope of \[the\] conflict of war. 
-<small><sub>**KJV:**</sub></small>
-Even of late my people is risen up as an enemy: ye pull off the robe with the garment from them that pass by securely as men averse from war.
-<small><sub>**BSB:**</sub></small>
-But of late My people have risen up like an enemy: You strip off the splendid robe from unsuspecting passersby like men returning from battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.7|<< Micah 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.9|Micah 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

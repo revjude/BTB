@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:47** 
 <small><sub>**LXX:**</sub></small>
 And also the servants of the king came to bless  our master  king David, saying, God make good the name  of your son Solomon above  your name, and magnify  his throne above  your throne! And the king did obeisance upon  his bed. 
-<small><sub>**KJV:**</sub></small>
-And moreover the king’s servants came to bless our lord king David, saying, God make the name of Solomon better than thy name, and make his throne greater than thy throne. And the king bowed himself upon the bed.
-<small><sub>**BSB:**</sub></small>
-The king’s servants have also gone to congratulate our lord King David, saying, ‘May your God make the name of Solomon more famous than your own name, and may He make his throne greater than your throne.’ And the king has bowed in worship on his bed,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.46|<< 1 Kings 1:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.48|1 Kings 1:48 >>]]</td></tr></table>
 
 | Translation | Greek |

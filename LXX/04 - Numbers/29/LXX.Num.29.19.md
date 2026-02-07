@@ -1,10 +1,7 @@
 **LXX Numbers 29:19** 
 <small><sub>**LXX:**</sub></small>
 and a young he-goat of \[the\] goats -- one for a sin \[offering\]; besides the continual whole burnt-offering,  their sacrifice \[offerings\], and  their libations. 
-<small><sub>**KJV:**</sub></small>
-And one kid of the goats [for] a sin offering; beside the continual burnt offering, and the meat offering thereof, and their drink offerings.
-<small><sub>**BSB:**</sub></small>
-Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.18|<< Numbers 29:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.20|Numbers 29:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 13:16** 
+**Proverbs 13:16**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every prudent [man] dealeth with knowledge: but a fool layeth open [his] folly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Every prudent man acts with knowledge, but a fool displays his folly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.15|<< Proverbs 13:15]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.17|Proverbs 13:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sensible [person]  |**<big>&#8207;[[H6175\|עָ֭רוּם]]&#8207; </big>**| 'A.rum<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

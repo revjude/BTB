@@ -1,10 +1,7 @@
 **LXX Job 8:11** 
 <small><sub>**LXX:**</sub></small>
 Does papyrus flourish without water? or \[the\] flowering rush rise up high without drinking? 
-<small><sub>**KJV:**</sub></small>
-Can the rush grow up without mire? can the flag grow without water?
-<small><sub>**BSB:**</sub></small>
-Does papyrus grow where there is no marsh? Do reeds flourish without water?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.10|<< Job 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.12|Job 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

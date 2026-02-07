@@ -1,12 +1,12 @@
-**John 14:12
-**<small><sub>**KJV:**</sub></small>
+**John 14:12**<big><big>[[John.14.5 The Way, the Truth, and the Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater [works] than these shall he do; because I go unto my Father.
 <small><sub>**BSB:**</sub></small>
 Truly, truly, I tell you, whoever believes in Me will also do the works that I am doing. He will do even greater things than these, because I am going to the Father.
 <small><sub>**Literal:**</sub></small>
 Amen Amen I say to you; the [one] believing in Me myself, the works that I myself do also he will do and greater than these he will do, because I myself to the Father of mine am going.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.11|<< John 14:11]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.13|John 14:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|Ἀμὴν]]</big>**  |Amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

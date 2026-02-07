@@ -1,10 +1,7 @@
 **LXX Genesis 37:23** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when Joseph came to  his brothers, the colored garment off Joseph, the one around him. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Joseph was come unto his brethren, that they stript Joseph out of his coat, [his] coat of [many] colours that [was] on him;
-<small><sub>**BSB:**</sub></small>
-So when Joseph came to his brothers, they stripped him of his robe—the robe of many colors he was wearing—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.22|<< Genesis 37:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.24|Genesis 37:24 >>]]</td></tr></table>
 
 | Translation | Greek |

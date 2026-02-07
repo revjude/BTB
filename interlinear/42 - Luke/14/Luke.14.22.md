@@ -1,12 +1,12 @@
-**Luke 14:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:22**<big><big>[[Luke.14.15 The Parable of the Banquet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the servant said, Lord, it is done as thou hast commanded, and yet there is room.
 <small><sub>**BSB:**</sub></small>
 ‘Sir,’ the servant replied, ‘what you ordered has been done, and there is still room.’
 <small><sub>**Literal:**</sub></small>
 And said the servant; Sir, it has been done as you did command, and still room there is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.21|<< Luke 14:21]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.23|Luke 14:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

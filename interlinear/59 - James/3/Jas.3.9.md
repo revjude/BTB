@@ -1,5 +1,5 @@
-**James 3:9
-**<small><sub>**KJV:**</sub></small>
+**James 3:9**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God.
 <small><sub>**BSB:**</sub></small>
 With the tongue we bless our Lord and Father, and with it we curse men, who have been made in God’s likeness.
@@ -10,7 +10,7 @@ With it we bless the Lord and Father and with it we curse <the> men those accord
 > $\quad$ alluding to: [[LXX.Gen.1.26|Gen 1:26]] ☩ [[LXX.Gen.5.2|Gen 5:2]] ☩ [[LXX.Gen.9.6|Gen 9:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | With |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it |**<big>[[G0846\|αὐτῇ]]</big>**  |autēa <small><sup>[[P-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

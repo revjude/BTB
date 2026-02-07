@@ -1,10 +1,7 @@
 **LXX Job 9:5** 
 <small><sub>**LXX:**</sub></small>
 The mountains of old even do not know the one eradicating them in anger. 
-<small><sub>**KJV:**</sub></small>
-Which removeth the mountains, and they know not: which overturneth them in his anger.
-<small><sub>**BSB:**</sub></small>
-He moves mountains without their knowledge and overturns them in His anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.4|<< Job 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.6|Job 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

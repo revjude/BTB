@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 19:5** 
 <small><sub>**LXX:**</sub></small>
 And \[others\] came, and they reported  to David for the men. And he sent to meet them, for the men were disgraced exceedingly. And the king said, Stay in Jericho until  your beards rise up, and return! 
-<small><sub>**KJV:**</sub></small>
-Then there went [certain], and told David how the men were served. And he sent to meet them: for the men were greatly ashamed. And the king said, Tarry at Jericho until your beards be grown, and [then] return.
-<small><sub>**BSB:**</sub></small>
-When someone came and told David about his men, he sent messengers to meet them, since the men had been thoroughly humiliated. The king told them, “Stay in Jericho until your beards have grown back, and then return.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.19.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.4|<< 1 Chronicles 19:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.6|1 Chronicles 19:6 >>]]</td></tr></table>
 
 | Translation | Greek |

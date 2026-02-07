@@ -1,4 +1,4 @@
-**Exodus 25:20** 
+**Exodus 25:20**<big><big>[[Exod.25.17 The Mercy Seat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the cherubims shall stretch forth [their] wings on high, covering the mercy seat with their wings, and their faces [shall look] one to another; toward the mercy seat shall the faces of the cherubims be.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the cherubim are to have wings that spread upward, overshadowing the mercy s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.19|<< Exodus 25:19]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.21|Exodus 25:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָי֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cherubim  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3742\|כְּרֻבִים֩]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.ru.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

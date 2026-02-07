@@ -1,10 +1,7 @@
 **LXX Psalm 41:3** 
 <small><sub>**LXX:**</sub></small>
 Let \[the\] <span class="smallcaps">lord</span> help him upon \[the\] bed of his grief! You turned all of his bed in  his illness. 
-<small><sub>**KJV:**</sub></small>
-The LORD will strengthen him upon the bed of languishing: thou wilt make all his bed in his sickness.
-<small><sub>**BSB:**</sub></small>
-The LORD will sustain him on his bed of illness and restore him from his bed of sickness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.41.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.41.2|<< Psalm 41:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.4|Psalm 41:4 >>]]</td></tr></table>
 
 | Translation | Greek |

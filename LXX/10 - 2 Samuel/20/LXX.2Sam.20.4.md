@@ -1,10 +1,7 @@
 **LXX 2 Samuel 20:4** 
 <small><sub>**LXX:**</sub></small>
 And the king said to Amasa, Call to me men of Judah in three days, but you stand here! 
-<small><sub>**KJV:**</sub></small>
-Then said the king to Amasa, Assemble me the men of Judah within three days, and be thou here present.
-<small><sub>**BSB:**</sub></small>
-Then the king said to Amasa, “Summon the men of Judah to come to me within three days, and be here yourself.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.3|<< 2 Samuel 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.5|2 Samuel 20:5 >>]]</td></tr></table>
 
 | Translation | Greek |

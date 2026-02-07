@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And each held by \[their\] hand the head  of his neighbor; and  his knife \[was thrust\] into the side  of his neighbor; and they fell down together. And they called  that place, Portion of the Plotters, which is in Gibeon. 
-<small><sub>**KJV:**</sub></small>
-And they caught every one his fellow by the head, and [thrust] his sword in his fellow’s side; so they fell down together: wherefore that place was called Helkathhazzurim, which [is] in Gibeon.
-<small><sub>**BSB:**</sub></small>
-Then each man grabbed his opponent by the head and thrust his sword into his opponent’s side, and they all fell together. So this place, which is in Gibeon, is called Helkath-hazzurim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.15|<< 2 Samuel 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.17|2 Samuel 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

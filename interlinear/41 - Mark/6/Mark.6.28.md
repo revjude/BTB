@@ -1,12 +1,12 @@
-**Mark 6:28
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:28**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And brought his head in a charger, and gave it to the damsel: and the damsel gave it to her mother.
 <small><sub>**BSB:**</sub></small>
 The man brought John’s head on a platter and presented it to the girl, who gave it to her mother.
 <small><sub>**Literal:**</sub></small>
 and brought the head of him on a platter and gave it to the girl, and the girl gave it to the mother of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.27|<< Mark 6:27]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.29|Mark 6:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | brought |**<big>[[G5342\|ἤνεγκεν]]</big>**  |ēnegken <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

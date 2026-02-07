@@ -1,5 +1,5 @@
-**Matthew 5:27
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:27**<big><big>[[Matt.5.27 Adultery|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye have heard that it was said by them of old time, Thou shalt not commit adultery:
 <small><sub>**BSB:**</sub></small>
 You have heard that it was said, ‘Do not commit adultery.’
@@ -10,7 +10,7 @@ You have heard that it was said to the ancients: Not will you commit adultery.�
 > $\quad$ referencing: [[LXX.Exod.20.14|Exod 20:14]] ☩ [[LXX.Deut.5.18|Deut 5:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You have heard |**<big>[[G0191\|Ἠκούσατε]]</big>**  |Ēkousate <small><sup>[[V-AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

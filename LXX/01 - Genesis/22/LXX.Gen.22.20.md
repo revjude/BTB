@@ -1,10 +1,7 @@
 **LXX Genesis 22:20** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after  these words, that it was announced  to Abraham, saying, Behold, even Milcah herself has born sons \[to\] Nahor  your brother. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto thy brother Nahor;
-<small><sub>**BSB:**</sub></small>
-Some time later, Abraham was told, “Milcah has also borne sons to your brother Nahor:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.22.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.19|<< Genesis 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.21|Genesis 22:21 >>]]</td></tr></table>
 
 | Translation | Greek |

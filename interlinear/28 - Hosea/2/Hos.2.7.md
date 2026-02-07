@@ -1,4 +1,4 @@
-**Hosea 2:7** (2:9)
+**Hosea 2:7**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she shall follow after her lovers, but she shall not overtake them; and she shall seek them, but shall not find [them]: then shall she say, I will go and return to my first husband; for then [was it] better with me than now.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She will pursue her lovers but not catch them; she will seek them but not find t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.6|<< Hosea 2:6]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.8|Hosea 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she will pursue  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7291\|רִדְּפָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ri.de.Fah<small><sup>[[HVpq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 20:16** 
+**Genesis 20:16**<big><big>[[Gen.20.1 Abraham, Sarah, and Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto Sarah he said, Behold, I have given thy brother a thousand [pieces] of silver: behold, he [is] to thee a covering of the eyes, unto all that [are] with thee, and with all [other]: thus she was reproved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he said to Sarah, “See, I am giving your brother a thousand pieces of silv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.15|<< Genesis 20:15]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.17|Genesis 20:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to Sarah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8283\|שָׂרָ֣ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> sa.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he said  |**<big>&#8207;[[H0559\|אָמַ֗ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

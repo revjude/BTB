@@ -1,4 +1,4 @@
-**Ezra 10:7** 
+**Ezra 10:7**<big><big>[[Ezra.10.6 The People’s Confession of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And a proclamation was issued throughout Judah and Jerusalem that all the exiles
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.6|<< Ezra 10:6]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.8|Ezra 10:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they caused to pass  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|יַּעֲבִ֨ירוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vi.ru<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a proclamation  |**<big>&#8207;[[H6963J\|ק֜וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

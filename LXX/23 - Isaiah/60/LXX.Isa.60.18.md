@@ -1,10 +1,7 @@
 **LXX Isaiah 60:18** 
 <small><sub>**LXX:**</sub></small>
 And injustice shall not any longer be heard in  your land, nor destruction, nor misery within  your borders. And your walls shall be called Deliverance, and  your gates, Carving. 
-<small><sub>**KJV:**</sub></small>
-Violence shall no more be heard in thy land, wasting nor destruction within thy borders; but thou shalt call thy walls Salvation, and thy gates Praise.
-<small><sub>**BSB:**</sub></small>
-No longer will violence be heard in your land, nor ruin or destruction within your borders. But you will name your walls Salvation and your gates Praise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.60.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.17|<< Isaiah 60:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.19|Isaiah 60:19 >>]]</td></tr></table>
 
 | Translation | Greek |

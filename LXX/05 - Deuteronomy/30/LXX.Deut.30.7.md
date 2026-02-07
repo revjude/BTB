@@ -1,10 +1,7 @@
 **LXX Deuteronomy 30:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> your God shall put  these curses upon  your enemies, and upon the ones detesting you, who pursued you. 
-<small><sub>**KJV:**</sub></small>
-And the LORD thy God will put all these curses upon thine enemies, and on them that hate thee, which persecuted thee.
-<small><sub>**BSB:**</sub></small>
-Then the LORD your God will put all these curses upon your enemies who hate you and persecute you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.30.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.6|<< Deuteronomy 30:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.8|Deuteronomy 30:8 >>]]</td></tr></table>
 
 | Translation | Greek |

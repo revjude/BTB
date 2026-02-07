@@ -1,10 +1,7 @@
 **LXX Jeremiah 9:26** 
 <small><sub>**LXX:**</sub></small>
 upon Egypt, and upon Judah, and upon Edom, and upon \[the\] sons of Ammon, and upon \[the\] sons of Moab, and upon every one shaving round about his face -- of the ones dwelling in the wilderness. For all the nations \[are\] uncircumcised in flesh, and all \[the\] house of Israel uncircumcised of their heart. 
-<small><sub>**KJV:**</sub></small>
-Egypt, and Judah, and Edom, and the children of Ammon, and Moab, and all [that are] in the utmost corners, that dwell in the wilderness: for all [these] nations [are] uncircumcised, and all the house of Israel [are] uncircumcised in the heart.
-<small><sub>**BSB:**</sub></small>
-Egypt, Judah, Edom, Ammon, Moab, and all the inhabitants of the desert who clip the hair of their temples. For all these nations are uncircumcised, and the whole house of Israel is uncircumcised in heart.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.25|<< Jeremiah 9:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.1|Jeremiah 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

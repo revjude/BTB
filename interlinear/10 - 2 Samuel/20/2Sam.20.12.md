@@ -1,4 +1,4 @@
-**2 Samuel 20:12** 
+**2 Samuel 20:12**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Amasa wallowed in blood in the midst of the highway. And when the man saw that all the people stood still, he removed Amasa out of the highway into the field, and cast a cloth upon him, when he saw that every one that came by him stood still.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Amasa wallowed in his blood in the middle of the road, and when the man saw 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.11|<< 2 Samuel 20:11]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.13|2 Samuel 20:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Amasa  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6021G\|עֲמָשָׂ֛א]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.ma.Sa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] wallowing  |**<big>&#8207;[[H1556\|מִתְגֹּלֵ֥ל]]&#8207; </big>**| mit.go.Lel<small><sup>[[HVtrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

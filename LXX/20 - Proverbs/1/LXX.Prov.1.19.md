@@ -1,10 +1,7 @@
 **LXX Proverbs 1:19** 
 <small><sub>**LXX:**</sub></small>
 These are the ways of all the ones completing the lawless \[things\]. For by impiety  they remove their own life. 
-<small><sub>**KJV:**</sub></small>
-So [are] the ways of every one that is greedy of gain; [which] taketh away the life of the owners thereof.
-<small><sub>**BSB:**</sub></small>
-Such is the fate of all who are greedy, whose unjust gain takes the lives of its possessors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.18|<< Proverbs 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.20|Proverbs 1:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ruth 2:15** 
 <small><sub>**LXX:**</sub></small>
 And she rose up  to collect \[grain\], and Boaz gave charge \[to\] his servants, saying,  Indeed, let her collect in the midst of the sheaves, and do not shame her! 
-<small><sub>**KJV:**</sub></small>
-And when she was risen up to glean, Boaz commanded his young men, saying, Let her glean even among the sheaves, and reproach her not:
-<small><sub>**BSB:**</sub></small>
-When Ruth got up to glean, Boaz ordered his young men, “Even if she gathers among the sheaves, do not insult her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.14|<< Ruth 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.16|Ruth 2:16 >>]]</td></tr></table>
 
 | Translation | Greek |

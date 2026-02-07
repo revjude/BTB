@@ -1,10 +1,7 @@
 **LXX 2 Samuel 10:10** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the people he put into the hand of Abishai  his brother. And they deployed right opposite the sons of Ammon. 
-<small><sub>**KJV:**</sub></small>
-And the rest of the people he delivered into the hand of Abishai his brother, that he might put [them] in array against the children of Ammon.
-<small><sub>**BSB:**</sub></small>
-And he placed the rest of the troops under the command of his brother Abishai, who arrayed them against the Ammonites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.9|<< 2 Samuel 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.11|2 Samuel 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

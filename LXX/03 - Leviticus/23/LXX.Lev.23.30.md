@@ -1,10 +1,7 @@
 **LXX Leviticus 23:30** 
 <small><sub>**LXX:**</sub></small>
 And every soul which shall do work in it, \[in\] this day, that soul shall be destroyed from among  its people. 
-<small><sub>**KJV:**</sub></small>
-And whatsoever soul [it be] that doeth any work in that same day, the same soul will I destroy from among his people.
-<small><sub>**BSB:**</sub></small>
-I will destroy from among his people anyone who does any work on this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.29|<< Leviticus 23:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.31|Leviticus 23:31 >>]]</td></tr></table>
 
 | Translation | Greek |

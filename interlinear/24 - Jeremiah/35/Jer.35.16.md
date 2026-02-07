@@ -1,4 +1,4 @@
-**Jeremiah 35:16** 
+**Jeremiah 35:16**<big><big>[[Jer.35.12 Judah Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because the sons of Jonadab the son of Rechab have performed the commandment of their father, which he commanded them; but this people hath not hearkened unto me:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yes, the sons of Jonadab son of Rechab carried out the command their forefather 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.15|<< Jeremiah 35:15]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.17|Jeremiah 35:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have carried out  |**<big>&#8207;[[H6965I\|הֵקִ֗ימוּ]]&#8207; </big>**| he.Ki.mu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

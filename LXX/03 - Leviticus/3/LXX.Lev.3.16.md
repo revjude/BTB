@@ -1,10 +1,7 @@
 **LXX Leviticus 3:16** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall offer \[it\] upon the altar -- a yield \[offering\] scent of pleasant aroma to the <span class="smallcaps">lord</span>. All fat \[belongs\] to the <span class="smallcaps">lord</span>, 
-<small><sub>**KJV:**</sub></small>
-And the priest shall burn them upon the altar: [it is] the food of the offering made by fire for a sweet savour: all the fat [is] the LORD’S.
-<small><sub>**BSB:**</sub></small>
-Then the priest is to burn the food on the altar as a food offering, a pleasing aroma. All the fat is the LORD’s.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.3.15|<< Leviticus 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.3.17|Leviticus 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

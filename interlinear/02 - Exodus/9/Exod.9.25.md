@@ -1,4 +1,4 @@
-**Exodus 9:25** 
+**Exodus 9:25**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the hail smote throughout all the land of Egypt all that [was] in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Throughout the land of Egypt, the hail struck down everything in the field, both
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.24|<< Exodus 9:24]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.26|Exodus 9:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it struck  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּ֨ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yakh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the hail  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1259\|בָּרָ֜ד]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Rad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

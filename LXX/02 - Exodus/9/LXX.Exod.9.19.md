@@ -1,10 +1,7 @@
 **LXX Exodus 9:19** 
 <small><sub>**LXX:**</sub></small>
 Now then hasten to bring together  your cattle, and as much as is to you in the plain! For all the men, and the cattle, as much as might be found in the plains, and what might not enter into a residence, and \[what\] hail should have fallen upon them, it will come to an end. 
-<small><sub>**KJV:**</sub></small>
-Send therefore now, [and] gather thy cattle, and all that thou hast in the field; [for upon] every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die.
-<small><sub>**BSB:**</sub></small>
-So give orders now to shelter your livestock and everything you have in the field. Every man or beast that remains in the field and is not brought inside will die when the hail comes down upon them.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.18|<< Exodus 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.20|Exodus 9:20 >>]]</td></tr></table>
 
 | Translation | Greek |

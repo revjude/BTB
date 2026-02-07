@@ -1,10 +1,7 @@
 **LXX Psalm 68:30** 
 <small><sub>**LXX:**</sub></small>
 Give reproach to the wild beasts of the reed! the gathering of the bulls among the heifers of the peoples;  to lock up the ones being tried \[by\] silver. Disperse \[the\] nations! the ones  wanting wars. 
-<small><sub>**KJV:**</sub></small>
-Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, [till every one] submit himself with pieces of silver: scatter thou the people [that] delight in war.
-<small><sub>**BSB:**</sub></small>
-Rebuke the beast in the reeds, the herd of bulls among the calves of the nations, until it submits, bringing bars of silver. Scatter the nations who delight in war.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.29|<< Psalm 68:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.31|Psalm 68:31 >>]]</td></tr></table>
 
 | Translation | Greek |

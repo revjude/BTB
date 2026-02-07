@@ -1,4 +1,4 @@
-**1 Kings 10:8** 
+**1 Kings 10:8**<big><big>[[1Kgs.10.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Happy [are] thy men, happy [are] these thy servants, which stand continually before thee, [and] that hear thy wisdom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How blessed are your men! How blessed are these servants of yours who stand cont
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.7|<< 1 Kings 10:7]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.9|1 Kings 10:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed!  |**<big>&#8207;[[H0835\|אַשְׁרֵ֣י]]&#8207; </big>**| 'ash.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] people your  |**<big>&#8207;[[H0582\|אֲנָשֶׁ֔י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'a.na.Shei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

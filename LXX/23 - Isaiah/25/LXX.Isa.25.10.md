@@ -1,10 +1,7 @@
 **LXX Isaiah 25:10** 
 <small><sub>**LXX:**</sub></small>
 God will give rest upon  this mountain, and the \[land of\] Moab shall be trampled, in which manner they tread \[the\] threshing-floor with wagons. 
-<small><sub>**KJV:**</sub></small>
-For in this mountain shall the hand of the LORD rest, and Moab shall be trodden down under him, even as straw is trodden down for the dunghill.
-<small><sub>**BSB:**</sub></small>
-For the hand of the LORD will rest on this mountain. But Moab will be trampled in his place as straw is trodden into the dung pile.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.25.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.9|<< Isaiah 25:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.25.11|Isaiah 25:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 9:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:7**<big><big>[[Acts.9.1 The Road to Damascus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the men which journeyed with him stood speechless, hearing a voice, but seeing no man.
 <small><sub>**BSB:**</sub></small>
 The men traveling with Saul stood there speechless. They heard the voice but did not see anyone.
 <small><sub>**Literal:**</sub></small>
 <the> And the men those traveling with him had stood speechless, hearing indeed the voice, no one however seeing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.6|<< Acts 9:6]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.8|Acts 9:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

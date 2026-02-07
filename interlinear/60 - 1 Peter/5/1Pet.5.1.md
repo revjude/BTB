@@ -1,12 +1,12 @@
-**1 Peter 5:1
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 5:1**<big><big>[[1Pet.5.1 Instructions to Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The elders which are among you I exhort, who am also an elder, and a witness of the sufferings of Christ, and also a partaker of the glory that shall be revealed:
 <small><sub>**BSB:**</sub></small>
 As a fellow elder, a witness of Christ’s sufferings, and a partaker of the glory to be revealed, I appeal to the elders among you:
 <small><sub>**Literal:**</sub></small>
 Elders therefore <the> among you I exhort <the> a fellow elder and witness of the <the> of Christ sufferings, who [am] also of the being about to be revealed glory a partaker,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.19|<< 1 Peter 4:19]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.2|1 Peter 5:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Elders |**<big>[[G4245G\|Πρεσβυτέρους]]</big>**  |Presbuterous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA27+Tyn+SBL+WH+Treg">NO</abbr> | |

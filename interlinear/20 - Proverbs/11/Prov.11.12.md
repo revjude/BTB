@@ -1,4 +1,4 @@
-**Proverbs 11:12** 
+**Proverbs 11:12**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever shows contempt for his neighbor lacks judgment, but a man of understandi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.11|<< Proverbs 11:11]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.13|Proverbs 11:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] despises  |**<big>&#8207;[[H0936\|בָּז]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| boz-<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> neighbor his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7453\|רֵעֵ֥]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

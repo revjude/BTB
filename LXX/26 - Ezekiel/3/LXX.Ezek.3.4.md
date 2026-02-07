@@ -1,10 +1,7 @@
 **LXX Ezekiel 3:4** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, O son of man, proceed and enter to the house  of Israel, and speak  my words to them! 
-<small><sub>**KJV:**</sub></small>
-And he said unto me, Son of man, go, get thee unto the house of Israel, and speak with my words unto them.
-<small><sub>**BSB:**</sub></small>
-Then He said to me, “Son of man, go now to the house of Israel and speak My words to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.3|<< Ezekiel 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.5|Ezekiel 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

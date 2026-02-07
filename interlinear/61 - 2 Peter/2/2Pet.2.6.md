@@ -1,5 +1,5 @@
-**2 Peter 2:6
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 2:6**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And turning the cities of Sodom and Gomorrha into ashes condemned [them] with an overthrow, making [them] an ensample unto those that after should live ungodly;
 <small><sub>**BSB:**</sub></small>
 if He condemned the cities of Sodom and Gomorrah to destruction, reducing them to ashes as an example of what is coming on the ungodly;
@@ -10,7 +10,7 @@ and [the] cities of Sodom and Gomorrah having reduced to ashes to destruction He
 > $\quad$ alluding to: [[LXX.Gen.19.29|Gen 19:29]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] cities |**<big>[[G4172\|πόλεις]]</big>**  |poleis <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

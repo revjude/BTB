@@ -1,4 +1,4 @@
-**Daniel 2:12** 
+**Daniel 2:12**<big><big>[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For this cause the king was angry and very furious, and commanded to destroy all the wise [men] of Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This response made the king so angry and furious that he gave orders to destroy 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.11|<< Daniel 2:11]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.13|Daniel 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as to  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H9005\|ל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ko<small><sup>[[AR]]</sup></small> l-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | because  |**<big>&#8207;[[H6903H\|קֳבֵ֣ל]]&#8207; </big>**| ko.Vel<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

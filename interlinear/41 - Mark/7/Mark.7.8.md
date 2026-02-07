@@ -1,12 +1,12 @@
-**Mark 7:8
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:8**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For laying aside the commandment of God, ye hold the tradition of men, [as] the washing of pots and cups: and many other such like things ye do.
 <small><sub>**BSB:**</sub></small>
 You have disregarded the commandment of God to keep the tradition of men.”
 <small><sub>**Literal:**</sub></small>
 Having neglected for the commandment <the> of God you hold to the tradition <the> of men washings of vessels and of cups and more like things many things you do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.7|<< Mark 7:7]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.9|Mark 7:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having neglected |**<big>[[G0863G\|Ἀφέντες]]</big>**  |Aphentes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

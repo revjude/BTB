@@ -1,12 +1,12 @@
-**2 Corinthians 12:13
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 12:13**<big><big>[[2Cor.12.11 Paul’s Concern for the Corinthians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For what is it wherein ye were inferior to other churches, except [it be] that I myself was not burdensome to you? forgive me this wrong.
 <small><sub>**BSB:**</sub></small>
 In what way were you inferior to the other churches, except that I was not a burden to you? Forgive me this wrong!
 <small><sub>**Literal:**</sub></small>
 In what for is it that you were inferior beyond the rest [of the] churches, only except that myself I myself not did burden you? do forgive me <the> wrong this!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.12|<< 2 Corinthians 12:12]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.14|2 Corinthians 12:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In what |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

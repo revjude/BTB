@@ -1,12 +1,12 @@
-**Acts 26:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:4**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews;
 <small><sub>**BSB:**</sub></small>
 Surely all the Jews know how I have lived from my earliest childhood among my own people, and also in Jerusalem.
 <small><sub>**Literal:**</sub></small>
 The indeed then manner of life of mine which [is] from youth <the> from [its] beginning having been among the nation of mine in also Jerusalem know all the Jews<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.3|<< Acts 26:3]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.5|Acts 26:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Τὴν]]</big>**  |Tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

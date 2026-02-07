@@ -1,12 +1,12 @@
-**1 John 3:22
-**<small><sub>**KJV:**</sub></small>
+**1 John 3:22**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whatsoever we ask, we receive of him, because we keep his commandments, and do those things that are pleasing in his sight.
 <small><sub>**BSB:**</sub></small>
 and we will receive from Him whatever we ask, because we keep His commandments and do what is pleasing in His sight.
 <small><sub>**Literal:**</sub></small>
 and whatever maybe we shall ask we receive from Him, because the commandments of Him we keep and the [things] pleasing before Him we do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.21|<< 1 John 3:21]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.23|1 John 3:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whatever |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

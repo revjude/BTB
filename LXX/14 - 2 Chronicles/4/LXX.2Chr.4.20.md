@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 4:20** 
 <small><sub>**LXX:**</sub></small>
 And the lamp-stands, and the lamps for the light according to the distinguishing \[manner\] in front of the dabir, of pure gold. 
-<small><sub>**KJV:**</sub></small>
-Moreover the candlesticks with their lamps, that they should burn after the manner before the oracle, of pure gold;
-<small><sub>**BSB:**</sub></small>
-the lampstands of pure gold and their lamps, to burn in front of the inner sanctuary as prescribed;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.19|<< 2 Chronicles 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.21|2 Chronicles 4:21 >>]]</td></tr></table>
 
 | Translation | Greek |

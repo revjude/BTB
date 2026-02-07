@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span> against Shallum, son of Josiah king  of Judea, who reigned for Josiah  his father, who came forth from out of  this place, He shall not return there again. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD touching Shallum the son of Josiah king of Judah, which reigned instead of Josiah his father, which went forth out of this place; He shall not return thither any more:
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD says concerning Shallum son of Josiah, king of Judah, who succeeded his father Josiah but has gone forth from this place: “He will never return,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.10|<< Jeremiah 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.12|Jeremiah 22:12 >>]]</td></tr></table>
 
 | Translation | Greek |

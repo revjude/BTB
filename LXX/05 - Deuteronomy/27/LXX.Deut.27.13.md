@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these shall stand for the cursing on mount Ebal; Reuben, Gad, and Asher, Zebulun, Dan, and Naphtali. 
-<small><sub>**KJV:**</sub></small>
-And these shall stand upon mount Ebal to curse; Reuben, Gad, and Asher, and Zebulun, Dan, and Naphtali.
-<small><sub>**BSB:**</sub></small>
-And these tribes shall stand on Mount Ebal to deliver the curse: Reuben, Gad, Asher, Zebulun, Dan, and Naphtali.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.27.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.27.12|<< Deuteronomy 27:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.27.14|Deuteronomy 27:14 >>]]</td></tr></table>
 
 | Translation | Greek |

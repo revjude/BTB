@@ -1,4 +1,4 @@
-**Numbers 35:8** 
+**Numbers 35:8**<big><big>[[Num.35.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the cities which ye shall give [shall be] of the possession of the children of Israel: from [them that have] many ye shall give many; but from [them that have] few ye shall give few: every one shall give of his cities unto the Levites according to his inheritance which he inheriteth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The cities that you apportion from the territory of the Israelites should be giv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.7|<< Numbers 35:7]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.9|Numbers 35:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the cities  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הֶֽ]]&#8207;&#8207;[[H5892B\|עָרִ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> he.<small><sup>[[HTd]]</sup></small> 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 21:31** 
 <small><sub>**LXX:**</sub></small>
 and Helkath and the \[parts\] being separated  with it, and  Rehob and the parts being separated  with it -- four cities. 
-<small><sub>**KJV:**</sub></small>
-Helkath with her suburbs, and Rehob with her suburbs; four cities.
-<small><sub>**BSB:**</sub></small>
-Helkath, and Rehob—four cities, together with their pasturelands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.30|<< Joshua 21:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.32|Joshua 21:32 >>]]</td></tr></table>
 
 | Translation | Greek |

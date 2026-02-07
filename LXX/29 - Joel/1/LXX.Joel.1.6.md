@@ -1,10 +1,7 @@
 **LXX Joel 1:6** 
 <small><sub>**LXX:**</sub></small>
 For a nation ascended upon  my land, one strong and innumerable.  His teeth \[are as\] lion's teeth, and  his molars as cubs. 
-<small><sub>**KJV:**</sub></small>
-For a nation is come up upon my land, strong, and without number, whose teeth [are] the teeth of a lion, and he hath the cheek teeth of a great lion.
-<small><sub>**BSB:**</sub></small>
-For a nation has invaded My land, powerful and without number; its teeth are the teeth of a lion, and its fangs are the fangs of a lioness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.5|<< Joel 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.7|Joel 1:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joel 1:6** is...

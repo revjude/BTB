@@ -1,5 +1,5 @@
-**2 Peter 3:8
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:8**<big><big>[[2Pet.3.8 The Day of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But, beloved, be not ignorant of this one thing, that one day [is] with the Lord as a thousand years, and a thousand years as one day.
 <small><sub>**BSB:**</sub></small>
 Beloved, do not let this one thing escape your notice: With the Lord a day is like a thousand years, and a thousand years are like a day.
@@ -10,7 +10,7 @@ Beloved, do not let this one thing escape your notice: With the Lord a day is li
 > $\quad$ alluding to: [[LXX.Ps.90.4|Ps 90:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [This] one |**<big>[[G1520\|Ἓν]]</big>**  |Hen <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

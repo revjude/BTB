@@ -1,4 +1,4 @@
-**Psalms 113:9** 
+**Psalms 113:9**<big><big>[[Ps.113.1 The LORD Exalts the Humble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He maketh the barren woman to keep house, [and to be] a joyful mother of children. Praise ye the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He settles the barren woman in her home as a joyful mother to her children. Hall
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.113.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.113.8|<< Psalms 113:8]]</td><td align="center" style="border:none;">[[Ps.113|Psalms 113]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.114.1|Psalms 114:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] causes to dwell  |**<big>&#8207;[[H3427\|מֽוֹשִׁיבִ֨י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| mo.shi.Vi<small><sup>[[HVhrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] barren [woman] of  |**<big>&#8207;[[H6135\|עֲקֶ֬רֶת]]&#8207; </big>**| 'a.Ke.ret<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

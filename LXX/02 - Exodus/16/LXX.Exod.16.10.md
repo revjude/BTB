@@ -1,10 +1,7 @@
 **LXX Exodus 16:10** 
 <small><sub>**LXX:**</sub></small>
 And when Aaron spoke to all \[the\] congregation of \[the\] sons of Israel, that they turned into the wilderness, and the glory of \[the\] <span class="smallcaps">lord</span> appeared in a cloud. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the LORD appeared in the cloud.
-<small><sub>**BSB:**</sub></small>
-And as Aaron was speaking to the whole congregation of Israel, they looked toward the desert, and there in a cloud the glory of the LORD appeared.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.9|<< Exodus 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.11|Exodus 16:11 >>]]</td></tr></table>
 
 | Translation | Greek |

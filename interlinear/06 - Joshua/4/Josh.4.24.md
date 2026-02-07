@@ -1,4 +1,4 @@
-**Joshua 4:24** 
+**Joshua 4:24**<big><big>[[Josh.4.19 The Camp at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That all the people of the earth might know the hand of the LORD, that it [is] mighty: that ye might fear the LORD your God for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He did this so that all the peoples of the earth may know that the hand of the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.23|<< Joshua 4:23]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.1|Joshua 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so as  |**<big>&#8207;[[H4616\|לְ֠מַעַן]]&#8207; </big>**| Le.ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to know  |**<big>&#8207;[[H3045\|דַּ֜עַת]]&#8207; </big>**| Da.'at<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

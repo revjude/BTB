@@ -1,10 +1,7 @@
 **LXX Genesis 25:22** 
 <small><sub>**LXX:**</sub></small>
 And the male babies leaped in her. And she said, If thus is about to happen to me, why is this to me? And she went to inquire of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the children struggled together within her; and she said, If [it be] so, why [am] I thus? And she went to inquire of the LORD.
-<small><sub>**BSB:**</sub></small>
-But the children inside her struggled with each other, and she said, “Why is this happening to me?” So Rebekah went to inquire of the LORD,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.21|<< Genesis 25:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.23|Genesis 25:23 >>]]</td></tr></table>
 
 | Translation | Greek |

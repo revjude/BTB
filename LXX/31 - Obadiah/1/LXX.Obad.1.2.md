@@ -1,10 +1,7 @@
 **LXX Obadiah 1:2** 
 <small><sub>**LXX:**</sub></small>
 Behold, I have made you very few among the nations, disgracing you exceedingly. 
-<small><sub>**KJV:**</sub></small>
-Behold, I have made thee small among the heathen: thou art greatly despised.
-<small><sub>**BSB:**</sub></small>
-“Behold, I will make you small among the nations; you will be deeply despised.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Obad.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.1|<< Obadiah 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.3|Obadiah 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

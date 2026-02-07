@@ -1,10 +1,7 @@
 **LXX Hosea 14:6** 
 <small><sub>**LXX:**</sub></small>
 His branches shall go \[forth\], and he will be as a fruitful olive, and  his smell as Lebanon. 
-<small><sub>**KJV:**</sub></small>
-His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon.
-<small><sub>**BSB:**</sub></small>
-His shoots will sprout, and his splendor will be like the olive tree, his fragrance like the cedars of Lebanon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.14.5|<< Hosea 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.14.7|Hosea 14:7 >>]]</td></tr></table>
 
 | Translation | Greek |

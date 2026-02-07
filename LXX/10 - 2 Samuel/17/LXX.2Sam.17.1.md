@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Ahithophel said to Absalom, I shall choose indeed for myself twelve thousand men, and I shall rise up and pursue after David  at night. 
-<small><sub>**KJV:**</sub></small>
-Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night:
-<small><sub>**BSB:**</sub></small>
-Furthermore, Ahithophel said to Absalom, “Let me choose twelve thousand men and set out tonight in pursuit of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.23|<< 2 Samuel 16:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.2|2 Samuel 17:2 >>]]</td></tr></table>
 
 | Translation | Greek |

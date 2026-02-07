@@ -1,4 +1,4 @@
-**Psalms 145:13** 
+**Psalms 145:13**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy kingdom [is] an everlasting kingdom, and thy dominion [endureth] throughout all generations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your kingdom is an everlasting kingdom, and Your dominion endures through all ge
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.12|<< Psalms 145:12]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.14|Psalms 145:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | kingdom your  |**<big>&#8207;[[H4438\|מַֽלְכוּתְ]]&#8207;&#8207;[[H9021\|ךָ֗]]&#8207; </big>**| mal.khu.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a kingdom of  |**<big>&#8207;[[H4438\|מַלְכ֥וּת]]&#8207; </big>**| mal.Khut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

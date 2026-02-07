@@ -1,4 +1,4 @@
-**Exodus 27:8** 
+**Exodus 27:8**<big><big>[[Exod.27.1 The Bronze Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hollow with boards shalt thou make it: as it was shewed thee in the mount, so shall they make [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Construct the altar with boards so that it is hollow. It is to be made just as y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.7|<< Exodus 27:7]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.9|Exodus 27:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hollow of  |**<big>&#8207;[[H5014\|נְב֥וּב]]&#8207; </big>**| ne.Vuv<small><sup>[[HVqsmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | boards  |**<big>&#8207;[[H3871\|לֻחֹ֖ת]]&#8207; </big>**| lu.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 29:7** 
+**1 Chronicles 29:7**<big><big>[[1Chr.29.1 Offerings for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And gave for the service of the house of God of gold five thousand talents and ten thousand drams, and of silver ten thousand talents, and of brass eighteen thousand talents, and one hundred thousand talents of iron.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Toward the service of God’s house they gave 5,000 talents and 10,000 darics of
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.6|<< 1 Chronicles 29:6]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.8|1 Chronicles 29:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gave  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5414G\|יִּתְּנ֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for [the] service of  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5656H\|עֲבוֹדַ֣ת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.vo.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 16:31** 
+**1 Chronicles 16:31**<big><big>[[1Chr.16.23 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the heavens be glad, and let the earth rejoice: and let [men] say among the nations, The LORD reigneth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the heavens be glad, and the earth rejoice. Let them say among the nations, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.30|<< 1 Chronicles 16:30]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.32|1 Chronicles 16:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them rejoice  |**<big>&#8207;[[H8055\|יִשְׂמְח֤וּ]]&#8207; </big>**| yis.me.Chu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֙יִם֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

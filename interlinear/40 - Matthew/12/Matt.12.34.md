@@ -1,12 +1,12 @@
-**Matthew 12:34
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:34**<big><big>[[Matt.12.33 Good and Bad Fruit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 O generation of vipers, how can ye, being evil, speak good things? for out of the abundance of the heart the mouth speaketh.
 <small><sub>**BSB:**</sub></small>
 You brood of vipers, how can you who are evil say anything good? For out of the overflow of the heart the mouth speaks.
 <small><sub>**Literal:**</sub></small>
 Offspring of vipers, how are you able good things to speak evil being? Out of for the overflow of the heart the mouth speaks.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.33|<< Matthew 12:33]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.35|Matthew 12:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Offspring |**<big>[[G1081G\|γεννήματα]]</big>**  |gennēmata <small><sup>[[N-VPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of vipers, |**<big>[[G2191\|ἐχιδνῶν,]]</big>**  |echidnōn <small><sup>[[N-GPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

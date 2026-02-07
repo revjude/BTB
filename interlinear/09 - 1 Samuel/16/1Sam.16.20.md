@@ -1,4 +1,4 @@
-**1 Samuel 16:20** 
+**1 Samuel 16:20**<big><big>[[1Sam.16.14 David Serves Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jesse took an ass [laden] with bread, and a bottle of wine, and a kid, and sent [them] by David his son unto Saul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Jesse took a donkey loaded with bread, a skin of wine, and one young goat an
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.19|<< 1 Samuel 16:19]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.21|1 Samuel 16:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jesse  |**<big>&#8207;[[H3448\|יִשַׁ֜י]]&#8207; </big>**| yi.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

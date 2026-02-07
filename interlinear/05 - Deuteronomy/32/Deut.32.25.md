@@ -1,4 +1,4 @@
-**Deuteronomy 32:25** 
+**Deuteronomy 32:25**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sword without, and terror within, shall destroy both the young man and the virgin, the suckling [also] with the man of gray hairs.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Outside, the sword will take their children, and inside, terror will strike the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.24|<< Deuteronomy 32:24]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.26|Deuteronomy 32:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from outside  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2351\|חוּץ֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Chutz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will make childless  |**<big>&#8207;[[H7921A\|תְּשַׁכֶּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.sha.kel-<small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

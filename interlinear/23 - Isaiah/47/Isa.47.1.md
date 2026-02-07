@@ -1,4 +1,4 @@
-**Isaiah 47:1** 
+**Isaiah 47:1**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: [there is] no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.13|<< Isaiah 46:13]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.2|Isaiah 47:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go down  |**<big>&#8207;[[H3381\|רְדִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| re.Di<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and sit  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3427\|שְׁבִ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Vi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

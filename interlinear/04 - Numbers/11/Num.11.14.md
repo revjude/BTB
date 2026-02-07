@@ -1,4 +1,4 @@
-**Numbers 11:14** 
+**Numbers 11:14**<big><big>[[Num.11.10 The Complaint of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am not able to bear all this people alone, because [it is] too heavy for me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I cannot carry all these people by myself; it is too burdensome for me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.13|<< Numbers 11:13]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.15|Numbers 11:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I am able  |**<big>&#8207;[[H3201\|אוּכַ֤ל]]&#8207; </big>**| 'u.Khal<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

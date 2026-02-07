@@ -1,12 +1,12 @@
-**Titus 3:12
-**<small><sub>**KJV:**</sub></small>
+**Titus 3:12**<big><big>[[Titus.3.12 Final Remarks and Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter.
 <small><sub>**BSB:**</sub></small>
 As soon as I send Artemas or Tychicus to you, make every effort to come to me at Nicopolis, because I have decided to winter there.
 <small><sub>**Literal:**</sub></small>
 When I may send Artemas to you or Tychicus, do be diligent to come to me into Nicopolis; there for I have decided to winter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.11|<< Titus 3:11]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.13|Titus 3:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|Ὅταν]]</big>**  |Hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I may send |**<big>[[G3992\|πέμψω]]</big>**  |pempsō <small><sup>[[V-AAS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

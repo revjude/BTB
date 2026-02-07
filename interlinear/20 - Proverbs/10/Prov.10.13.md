@@ -1,4 +1,4 @@
-**Proverbs 10:13** 
+**Proverbs 10:13**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the lips of him that hath understanding wisdom is found: but a rod [is] for the back of him that is void of understanding.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wisdom is found on the lips of the discerning, but a rod is for the back of him 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.12|<< Proverbs 10:12]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.14|Proverbs 10:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on [the] lips of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8193G\|שִׂפְתֵ֣י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sif.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a discerning [person]  |**<big>&#8207;[[H0995\|נָ֭בוֹן]]&#8207; </big>**| Na.Von<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 35:13** 
 <small><sub>**LXX:**</sub></small>
 And you spoke great words against me with your mouth; and you called out loud against me --  your words I heard. 
-<small><sub>**KJV:**</sub></small>
-Thus with your mouth ye have boasted against me, and have multiplied your words against me: I have heard [them].
-<small><sub>**BSB:**</sub></small>
-You boasted against Me with your mouth and multiplied your words against Me. I heard it Myself!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.35.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.35.12|<< Ezekiel 35:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.14|Ezekiel 35:14 >>]]</td></tr></table>
 
 | Translation | Greek |

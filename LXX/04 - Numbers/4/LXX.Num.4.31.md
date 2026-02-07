@@ -1,10 +1,7 @@
 **LXX Numbers 4:31** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the injunctions for the \[things\] lifted by them, according to all  their works in the tent of the testimony -- the tips of the tent, and  its bars, and  its posts, and  its bases, 
-<small><sub>**KJV:**</sub></small>
-And this [is] the charge of their burden, according to all their service in the tabernacle of the congregation; the boards of the tabernacle, and the bars thereof, and the pillars thereof, and sockets thereof,
-<small><sub>**BSB:**</sub></small>
-This is the duty for all their service at the Tent of Meeting: to carry the frames of the tabernacle with its crossbars, posts, and bases,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.30|<< Numbers 4:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.32|Numbers 4:32 >>]]</td></tr></table>
 
 | Translation | Greek |

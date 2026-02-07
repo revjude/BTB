@@ -1,12 +1,12 @@
-**1 Timothy 4:10
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 4:10**<big><big>[[1Tim.4.6 A Good Servant of Jesus Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For therefore we both labour and suffer reproach, because we trust in the living God, who is the Saviour of all men, specially of those that believe.
 <small><sub>**BSB:**</sub></small>
 To this end we labor and strive, because we have set our hope on the living God, who is the Savior of everyone, and especially of those who believe.
 <small><sub>**Literal:**</sub></small>
 Towards this for also we toil and strive, because we have hope on God [the] living, who is [the] Savior of all men especially of believers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.4.9|<< 1 Timothy 4:9]]</td><td align="center" style="border:none;">[[1Tim.4|1 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.4.11|1 Timothy 4:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Towards |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

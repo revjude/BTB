@@ -1,12 +1,12 @@
 (KJV) **Esther 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.7|<< Esther 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9|Esther 9 >>]]</td></tr></table>
 
-***Esther Appeals for the Jews*** ^bsb1238
+<big><big>[[Esth.8.1 Esther Appeals for the Jews|⥃]]</big></big>***Esther Appeals for the Jews***
 
  $\quad$ <span class="startversemarker">[</span>**[[Esth.8.1|1]]**<span class="endversemarker">]</span> On that day did the king Ahasuerus give the house<small><small>[^2]</small></small> of Haman the Jews’ enemy unto Esther the queen. And Mordecai came before<small><small>[^3]</small></small> the king; for Esther had told what he \[was\] unto her. <span class="startversemarker">[</span>**[[Esth.8.2|2]]**<span class="endversemarker">]</span> And the king took off his ring<small><small>[^4]</small></small>, which he had taken from Haman, and gave it unto Mordecai. And Esther set<small><small>[^5]</small></small> Mordecai over the house of Haman. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Esth.8.3|3]]**<span class="endversemarker">]</span> And Esther spake yet again before the king, and fell<small><small>[^6]</small></small> down at his feet, and besought him with tears<small><small>[^7]</small></small> to put away the mischief<small><small>[^8]</small></small> of Haman the Agagite, and his device that he had devised against the Jews. <span class="startversemarker">[</span>**[[Esth.8.4|4]]**<span class="endversemarker">]</span> Then the king held out<small><small>[^9]</small></small> the golden sceptre toward Esther. So Esther arose, and stood before the king, <span class="startversemarker">[</span>**[[Esth.8.5|5]]**<span class="endversemarker">]</span> And said, If i<small><small>[^10]</small></small>t please the king, and if I have found favour in his sight, and the thing \[seem\] right before the king, and I \[be\] pleasing<small><small>[^11]</small></small> in his eyes, let it be written to reverse the letters<small><small>[^12]</small></small> devised by Haman the son of Hammedatha the Agagite, which he wrote<small><small>[^13]</small></small> to destroy the Jews which \[are\] in all the king’s provinces: <span class="startversemarker">[</span>**[[Esth.8.6|6]]**<span class="endversemarker">]</span> For how<small><small>[^14]</small></small> can I endure to see<small><small>[^15]</small></small> the evil<small><small>[^16]</small></small> that shall come unto my people? or how can I endure to see the destruction of my kindred?
 
-***The Decree of Xerxes*** ^bsb1239
+<big><big>[[Esth.8.7 The Decree of Xerxes|⥃]]</big></big>***The Decree of Xerxes***
 
  
 

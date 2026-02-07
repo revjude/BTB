@@ -1,10 +1,7 @@
 **LXX Exodus 18:23** 
 <small><sub>**LXX:**</sub></small>
 If  this thing you do, then God will strengthen you, and you will be able to stand, and all  this people shall come unto  \[their\] own place with peace. 
-<small><sub>**KJV:**</sub></small>
-If thou shalt do this thing, and God command thee [so], then thou shalt be able to endure, and all this people shall also go to their place in peace.
-<small><sub>**BSB:**</sub></small>
-If you follow this advice and God so directs you, then you will be able to endure, and all these people can go home in peace.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.22|<< Exodus 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.24|Exodus 18:24 >>]]</td></tr></table>
 
 | Translation | Greek |

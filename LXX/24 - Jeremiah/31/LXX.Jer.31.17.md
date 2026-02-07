@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:17** 
 <small><sub>**LXX:**</sub></small>
 And there shall be hope to the last of you, says \[the\] <span class="smallcaps">lord</span>. And the sons shall return to  their borders. 
-<small><sub>**KJV:**</sub></small>
-And there is hope in thine end, saith the LORD, that thy children shall come again to their own border.
-<small><sub>**BSB:**</sub></small>
-So there is hope for your future, declares the LORD, and your children will return to their own land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.16|<< Jeremiah 31:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.18|Jeremiah 31:18 >>]]</td></tr></table>
 
 | Translation | Greek |

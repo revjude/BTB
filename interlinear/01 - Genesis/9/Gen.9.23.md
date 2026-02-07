@@ -1,4 +1,4 @@
-**Genesis 9:23** 
+**Genesis 9:23**<big><big>[[Gen.9.18 Noah’s Shame and Canaan’s Curse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shem and Japheth took a garment, and laid [it] upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces [were] backward, and they saw not their father’s nakedness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Shem and Japheth took a garment and placed it across their shoulders, and w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.22|<< Genesis 9:22]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.24|Genesis 9:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּח֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shem  |**<big>&#8207;[[H8035\|שֵׁ֨ם]]&#8207; </big>**| shem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

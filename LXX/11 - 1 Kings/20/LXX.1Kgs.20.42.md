@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:42** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, Thus says \[the\] <span class="smallcaps">lord</span>, Because you sent out a pernicious man \[to escape\] from out of  your hand, even your life will be \[required\] for  his life, and  your people for  his people. 
-<small><sub>**KJV:**</sub></small>
-And he said unto him, Thus saith the LORD, Because thou hast let go out of [thy] hand a man whom I appointed to utter destruction, therefore thy life shall go for his life, and thy people for his people.
-<small><sub>**BSB:**</sub></small>
-And the prophet said to the king, “This is what the LORD says: ‘Because you have let slip from your hand the man I had devoted to destruction, your life will be exchanged for his life, and your people for his people.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.41|<< 1 Kings 20:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.43|1 Kings 20:43 >>]]</td></tr></table>
 
 | Translation | Greek |

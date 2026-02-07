@@ -1,12 +1,12 @@
-**Luke 22:30
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:30**<big><big>[[Luke.22.24 Who Is the Greatest？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel.
 <small><sub>**BSB:**</sub></small>
 so that you may eat and drink at My table in My kingdom and sit on thrones, judging the twelve tribes of Israel.
 <small><sub>**Literal:**</sub></small>
 so that you may eat and may drink at the table of Mine in the kingdom of Mine and will sit on thrones the twelve tribes judging <the> of Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.29|<< Luke 22:29]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.31|Luke 22:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you may eat |**<big>[[G2068\|ἔσθητε]]</big>**  [^1] |esthēte <small><sup>[[V-PAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

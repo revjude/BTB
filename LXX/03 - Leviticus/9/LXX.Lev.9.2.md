@@ -1,10 +1,7 @@
 **LXX Leviticus 9:2** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to Aaron, Take to yourself a young calf from \[the\] oxen for a sin \[offering\], and a ram for a whole burnt-offering, unblemished, and offer them before \[the\] <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-And he said unto Aaron, Take thee a young calf for a sin offering, and a ram for a burnt offering, without blemish, and offer [them] before the LORD.
-<small><sub>**BSB:**</sub></small>
-He said to Aaron, “Take for yourself a young bull for a sin offering and a ram for a burnt offering, both without blemish, and present them before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.1|<< Leviticus 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.3|Leviticus 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

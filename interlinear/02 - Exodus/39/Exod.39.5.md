@@ -1,4 +1,4 @@
-**Exodus 39:5** 
+**Exodus 39:5**<big><big>[[Exod.39.1 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the curious girdle of his ephod, that [was] upon it, [was] of the same, according to the work thereof; [of] gold, blue, and purple, and scarlet, and fine twined linen; as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the skillfully woven waistband of the ephod was of one piece with the ephod,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.4|<< Exodus 39:4]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.6|Exodus 39:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] girdle of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2805\|חֵ֨שֶׁב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Che.shev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ephod its  |**<big>&#8207;[[H0642\|אֲפֻדָּת֜]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'a.fu.da.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

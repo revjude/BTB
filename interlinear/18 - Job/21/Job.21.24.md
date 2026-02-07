@@ -1,4 +1,4 @@
-**Job 21:24** 
+**Job 21:24**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His breasts are full of milk, and his bones are moistened with marrow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His body is well nourished, and his bones are rich with marrow.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.23|<< Job 21:23]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.25|Job 21:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pails his  |**<big>&#8207;[[H5845\|עֲ֭טִינָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'A.ti.na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are full  |**<big>&#8207;[[H4390\|מָלְא֣וּ]]&#8207; </big>**| mal.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

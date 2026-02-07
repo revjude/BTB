@@ -1,4 +1,4 @@
-**Numbers 14:15** 
+**Numbers 14:15**<big><big>[[Num.14.13 Moses Intercedes for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now [if] thou shalt kill [all] this people as one man, then the nations which have heard the fame of thee will speak, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If You kill this people as one man, the nations who have heard of Your fame will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.14|<< Numbers 14:14]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.16|Numbers 14:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will put to death  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H4191\|הֵמַתָּ֛ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.ma.Tah<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

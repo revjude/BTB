@@ -1,10 +1,7 @@
 **LXX Leviticus 22:23** 
 <small><sub>**LXX:**</sub></small>
 And a calf or a sheep with mutilated ears, or tailless, you shall make them for slaughter to yourself, but for your vow it shall not be taken. 
-<small><sub>**KJV:**</sub></small>
-Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that mayest thou offer [for] a freewill offering; but for a vow it shall not be accepted.
-<small><sub>**BSB:**</sub></small>
-You may present as a freewill offering an ox or sheep that has a deformed or stunted limb, but it is not acceptable in fulfillment of a vow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.22|<< Leviticus 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.24|Leviticus 22:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 8:9** 
+**Job 8:9**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (For we [are but of] yesterday, and know nothing, because our days upon earth [are] a shadow:)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For we were born yesterday and know nothing; our days on earth are but a shadow.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.8|<< Job 8:8]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.10|Job 8:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] yesterday  |**<big>&#8207;[[H8543\|תְמ֣וֹל]]&#8207; </big>**| te.Mol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

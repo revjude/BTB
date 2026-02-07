@@ -1,10 +1,7 @@
 **LXX Joshua 21:44** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> rested them round about in so far as he swore by an oath \[to\] their fathers. Not one rose up before them of all  their enemies; \[the\] <span class="smallcaps">lord</span> delivered up all their enemies into  their hands. 
-<small><sub>**KJV:**</sub></small>
-And the LORD gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the LORD delivered all their enemies into their hand.
-<small><sub>**BSB:**</sub></small>
-And the LORD gave them rest on every side, just as He had sworn to their fathers. None of their enemies could stand against them, for the LORD delivered all their enemies into their hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.43|<< Joshua 21:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.45|Joshua 21:45 >>]]</td></tr></table>
 
 | Translation | Greek |

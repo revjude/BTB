@@ -1,4 +1,4 @@
-**Isaiah 14:15** 
+**Isaiah 14:15**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet thou shalt be brought down to hell, to the sides of the pit.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But you will be brought down to Sheol, to the lowest depths of the Pit.
 > $\quad$ referenced by: [[Matt.11.23|Matt 11:23]] ☩ [[Luke.10.15|Luke 10:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0389\|אַ֧ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

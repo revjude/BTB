@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:9** 
 <small><sub>**LXX:**</sub></small>
 And the people were glad over the voluntary offering, for from a full heart they were volunteering to the <span class="smallcaps">lord</span>. And David the king was glad with great gladness. 
-<small><sub>**KJV:**</sub></small>
-Then the people rejoiced, for that they offered willingly, because with perfect heart they offered willingly to the LORD: and David the king also rejoiced with great joy.
-<small><sub>**BSB:**</sub></small>
-And the people rejoiced at the willing response of their leaders, for they had given to the LORD freely and wholeheartedly. And King David also rejoiced greatly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.8|<< 1 Chronicles 29:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.10|1 Chronicles 29:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 42:16** 
 <small><sub>**LXX:**</sub></small>
 And Job lived after the calamity a hundred forty years. And Job saw  his sons, and the sons  of his sons, \[to the\] fourth generation. 
-<small><sub>**KJV:**</sub></small>
-After this lived Job an hundred and forty years, and saw his sons, and his sons’ sons, [even] four generations.
-<small><sub>**BSB:**</sub></small>
-After this, Job lived 140 years and saw his children and their children to the fourth generation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.42.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.15|<< Job 42:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.17|Job 42:17 >>]]</td></tr></table>
 
 | Translation | Greek |

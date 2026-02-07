@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:22** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span> of the forces, Behold, I will make a visit unto them.  Their young men shall die by \[the\] sword; their sons and  their daughters shall come to an end in famine. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD of hosts, Behold, I will punish them: the young men shall die by the sword; their sons and their daughters shall die by famine:
-<small><sub>**BSB:**</sub></small>
-So this is what the LORD of Hosts says: “I will punish them. Their young men will die by the sword, their sons and daughters by famine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.21|<< Jeremiah 11:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.23|Jeremiah 11:23 >>]]</td></tr></table>
 
 | Translation | Greek |

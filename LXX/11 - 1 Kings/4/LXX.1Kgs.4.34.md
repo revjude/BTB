@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:34** 
 <small><sub>**LXX:**</sub></small>
 And all the peoples came to \[him\] to hear the wisdom of Solomon. And he took gifts from all the kings of the earth, as many as heard  his wisdom. 
-<small><sub>**KJV:**</sub></small>
-And there came of all people to hear the wisdom of Solomon, from all kings of the earth, which had heard of his wisdom.
-<small><sub>**BSB:**</sub></small>
-So men of all nations came to listen to Solomon’s wisdom, sent by all the kings of the earth, who had heard of his wisdom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.33|<< 1 Kings 4:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.1|1 Kings 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

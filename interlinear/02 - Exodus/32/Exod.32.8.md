@@ -1,4 +1,4 @@
-**Exodus 32:8** 
+**Exodus 32:8**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have turned aside quickly out of the way which I commanded them: they have made them a molten calf, and have worshipped it, and have sacrificed thereunto, and said, These [be] thy gods, O Israel, which have brought thee up out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How quickly they have turned aside from the way that I commanded them! They have
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.7|<< Exodus 32:7]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.9|Exodus 32:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have turned aside  |**<big>&#8207;[[H5493I\|סָ֣רוּ]]&#8207; </big>**| Sa.ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | quickly  |**<big>&#8207;[[H4118B\|מַהֵ֗ר]]&#8207; </big>**| ma.Her<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

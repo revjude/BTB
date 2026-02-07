@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the woman came in the morning, and fell by the door of the vestibule of the house of the man of whom her master was there, until of which \[time\] light shown through. 
-<small><sub>**KJV:**</sub></small>
-Then came the woman in the dawning of the day, and fell down at the door of the man’s house where her lord [was], till it was light.
-<small><sub>**BSB:**</sub></small>
-Early that morning, the woman went back to the house where her master was staying, collapsed at the doorway, and lay there until it was light.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.25|<< Judges 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.27|Judges 19:27 >>]]</td></tr></table>
 
 | Translation | Greek |

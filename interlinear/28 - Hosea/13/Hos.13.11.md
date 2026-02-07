@@ -1,4 +1,4 @@
-**Hosea 13:11** 
+**Hosea 13:11**<big><big>[[Hos.13.9 Death and Resurrection|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I gave thee a king in mine anger, and took [him] away in my wrath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So in My anger I gave you a king, and in My wrath I took him away.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.10|<< Hosea 13:10]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.12|Hosea 13:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I gave  |**<big>&#8207;[[H5414G\|אֶֽתֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.ten-<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֥]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

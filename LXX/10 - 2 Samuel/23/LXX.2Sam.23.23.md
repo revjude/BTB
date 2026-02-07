@@ -1,10 +1,7 @@
 **LXX 2 Samuel 23:23** 
 <small><sub>**LXX:**</sub></small>
 \[He was\] over the thirty honorable ones, but to the \[first\] three he did not arrive at. And David ordered him for  his reports. And these are the names of the mighty ones of David the king. 
-<small><sub>**KJV:**</sub></small>
-He was more honourable than the thirty, but he attained not to the [first] three. And David set him over his guard.
-<small><sub>**BSB:**</sub></small>
-He was most honored among the Thirty, but he did not become one of the Three. And David appointed him over his guard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.22|<< 2 Samuel 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.24|2 Samuel 23:24 >>]]</td></tr></table>
 
 | Translation | Greek |

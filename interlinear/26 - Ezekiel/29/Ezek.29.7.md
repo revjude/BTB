@@ -1,4 +1,4 @@
-**Ezekiel 29:7** 
+**Ezekiel 29:7**<big><big>[[Ezek.29.1 A Prophecy against Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When they took hold of thee by thy hand, thou didst break, and rend all their shoulder: and when they leaned upon thee, thou brakest, and madest all their loins to be at a stand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Israel took hold of you with their hands, you splintered, tearing all their
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.6|<< Ezekiel 29:6]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.8|Ezekiel 29:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when seized they  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8610\|תָפְשָׂ֨]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ta.fe.Sa<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> you  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H9031\|ךָ֤]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

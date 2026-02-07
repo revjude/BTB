@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:21** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, Behold, I bring upon you evils. And I shall burn away after you, and I shall utterly destroy  of Ahab \[the\] one urinating against \[the\] wall, and \[the\] one being constrained, and \[the\] one being left in Israel. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will bring evil upon thee, and will take away thy posterity, and will cut off from Ahab him that pisseth against the wall, and him that is shut up and left in Israel,
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: ‘I will bring calamity on you and consume your descendants; I will cut off from Ahab every male in Israel, both slave and free.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.20|<< 1 Kings 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.22|1 Kings 21:22 >>]]</td></tr></table>
 
 | Translation | Greek |

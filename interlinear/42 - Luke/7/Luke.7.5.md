@@ -1,12 +1,12 @@
-**Luke 7:5
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:5**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he loveth our nation, and he hath built us a synagogue.
 <small><sub>**BSB:**</sub></small>
 for he loves our nation and has built our synagogue.”
 <small><sub>**Literal:**</sub></small>
 he loves for the nation of us and the synagogue he himself built for us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.4|<< Luke 7:4]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.6|Luke 7:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he loves |**<big>[[G0025\|ἀγαπᾷ]]</big>**  |agapa <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

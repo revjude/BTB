@@ -1,12 +1,12 @@
-**Romans 7:4
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:4**<big><big>[[Rom.7.1 Release from the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, [even] to him who is raised from the dead, that we should bring forth fruit unto God.
 <small><sub>**BSB:**</sub></small>
 Therefore, my brothers, you also died to the law through the body of Christ, that you might belong to another, to Him who was raised from the dead, in order that we might bear fruit to God.
 <small><sub>**Literal:**</sub></small>
 Likewise, brothers of mine, also you yourselves were put to death to the law through the body <the> of Christ for <the> to belong you to another, to the [One] out from [the] dead having been raised, so that we may bear fruit <the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.3|<< Romans 7:3]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.5|Romans 7:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Likewise, |**<big>[[G5620\|Ὥστε,]]</big>**  |Hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | brothers |**<big>[[G0080\|ἀδελφοί]]</big>**  |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

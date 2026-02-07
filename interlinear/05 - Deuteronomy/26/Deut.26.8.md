@@ -1,4 +1,4 @@
-**Deuteronomy 26:8** 
+**Deuteronomy 26:8**<big><big>[[Deut.26.1 Offering Firstfruits and Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD brought us forth out of Egypt with a mighty hand, and with an outstretched arm, and with great terribleness, and with signs, and with wonders:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the LORD brought us out of Egypt with a mighty hand and an outstretched arm
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.7|<< Deuteronomy 26:7]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.9|Deuteronomy 26:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought out us  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318H\|יּוֹצִאֵ֤]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.tzi.'E.<small><sup>[[HVhw3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

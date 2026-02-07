@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 5:2** 
 <small><sub>**LXX:**</sub></small>
 Do not hasten with your mouth, and let not your heart hasten  to bring forth a word before \[the\] presence  of God! For  God \[is\] in the heaven upward, and you \[are\] upon the earth; Upon this your words be few! 
-<small><sub>**KJV:**</sub></small>
-Be not rash with thy mouth, and let not thine heart be hasty to utter [any] thing before God: for God [is] in heaven, and thou upon earth: therefore let thy words be few.
-<small><sub>**BSB:**</sub></small>
-Do not be quick to speak, and do not be hasty in your heart to utter a word before God. For God is in heaven and you are on earth. So let your words be few.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.1|<< Ecclesiastes 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.3|Ecclesiastes 5:3 >>]]</td></tr></table>
 
 | Translation | Greek |

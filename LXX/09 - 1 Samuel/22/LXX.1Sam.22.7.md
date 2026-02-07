@@ -1,10 +1,7 @@
 **LXX 1 Samuel 22:7** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to  his servants, of the ones standing beside him, Hear indeed, O sons of Benjamin! Shall truly the son of Jesse give to you all fields and vineyards? And will he arrange you all \[as\] commanders of hundreds, and commanders of thousands? 
-<small><sub>**KJV:**</sub></small>
-Then Saul said unto his servants that stood about him, Hear now, ye Benjamites; will the son of Jesse give every one of you fields and vineyards, [and] make you all captains of thousands, and captains of hundreds;
-<small><sub>**BSB:**</sub></small>
-Then Saul said to his servants, “Listen, men of Benjamin! Is the son of Jesse giving all of you fields and vineyards and making you commanders of thousands or hundreds?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.6|<< 1 Samuel 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.8|1 Samuel 22:8 >>]]</td></tr></table>
 
 | Translation | Greek |

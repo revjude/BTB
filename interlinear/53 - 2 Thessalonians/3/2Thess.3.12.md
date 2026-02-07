@@ -1,12 +1,12 @@
-**2 Thessalonians 3:12
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 3:12**<big><big>[[2Thess.3.6 A Warning against Idleness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.
 <small><sub>**BSB:**</sub></small>
 We command and urge such people by our Lord Jesus Christ to begin working quietly to earn their own living.
 <small><sub>**Literal:**</sub></small>
 <the> Now to such we warn and we exhort by the Lord of us Jesus Christ so that with quietness working <the> their own bread they may eat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.11|<< 2 Thessalonians 3:11]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.13|2 Thessalonians 3:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τοῖς]]</big>**  |Tois <small><sup>[[T-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

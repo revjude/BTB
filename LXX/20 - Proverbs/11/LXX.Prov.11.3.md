@@ -1,10 +1,7 @@
 **LXX Proverbs 11:3** 
 <small><sub>**LXX:**</sub></small>
 \[The\] just forsakes regret in dying; but beforehand \[the\] destruction \[of the\] impious takes place and incurs ridicule. 
-<small><sub>**KJV:**</sub></small>
-The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.
-<small><sub>**BSB:**</sub></small>
-The integrity of the upright guides them, but the perversity of the faithless destroys them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.2|<< Proverbs 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.4|Proverbs 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Corinthians 5:18
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 5:18**<big><big>[[2Cor.5.11 Ambassadors for Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all things [are] of God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation;
 <small><sub>**BSB:**</sub></small>
 All this is from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation:
 <small><sub>**Literal:**</sub></small>
 <the> And all things [are] of <the> God the [One who] having reconciled us to Himself through Jesus Christ and having given to us the ministry <the> of reconciliation,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.17|<< 2 Corinthians 5:17]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.19|2 Corinthians 5:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

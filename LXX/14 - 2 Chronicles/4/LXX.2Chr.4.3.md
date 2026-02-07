@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 4:3** 
 <small><sub>**LXX:**</sub></small>
 And a representation of calves \[was\] underneath it, round about encircling it; ten in a cubit encircling the sea round about; \[with\] two rows \[of\] cast oxen in  their being cast in a furnace, 
-<small><sub>**KJV:**</sub></small>
-And under it [was] the similitude of oxen, which did compass it round about: ten in a cubit, compassing the sea round about. Two rows of oxen [were] cast, when it was cast.
-<small><sub>**BSB:**</sub></small>
-Below the rim, figures of oxen encircled it, ten per cubit all the way around the Sea, cast in two rows as a part of the Sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.2|<< 2 Chronicles 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.4|2 Chronicles 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:32** 
 <small><sub>**LXX:**</sub></small>
 In  those days \[the\] <span class="smallcaps">lord</span> began to cut down in  Israel. And Hazael struck them in every border of Israel; 
-<small><sub>**KJV:**</sub></small>
-In those days the LORD began to cut Israel short: and Hazael smote them in all the coasts of Israel;
-<small><sub>**BSB:**</sub></small>
-In those days the LORD began to reduce the size of Israel. Hazael defeated the Israelites throughout their territory<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.31|<< 2 Kings 10:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.33|2 Kings 10:33 >>]]</td></tr></table>
 
 | Translation | Greek |

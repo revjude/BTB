@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 8:14** 
 <small><sub>**LXX:**</sub></small>
 There is a folly which is done upon the earth; that there are just ones that attain unto them, as \[the\] action of the impious; and there are impious that attain to them, as \[the\] action of the just. I said that, Indeed also this \[is\] folly. 
-<small><sub>**KJV:**</sub></small>
-There is a vanity which is done upon the earth; that there be just [men], unto whom it happeneth according to the work of the wicked; again, there be wicked [men], to whom it happeneth according to the work of the righteous: I said that this also [is] vanity.
-<small><sub>**BSB:**</sub></small>
-There is a futility that is done on the earth: There are righteous men who get what the actions of the wicked deserve, and there are wicked men who get what the actions of the righteous deserve. I say that this too is futile.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.13|<< Ecclesiastes 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.15|Ecclesiastes 8:15 >>]]</td></tr></table>
 
 | Translation | Greek |

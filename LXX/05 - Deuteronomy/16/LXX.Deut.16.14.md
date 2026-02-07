@@ -1,10 +1,7 @@
 **LXX Deuteronomy 16:14** 
 <small><sub>**LXX:**</sub></small>
 And you shall be glad in  your holiday, you and  your son, and  your daughter,  your manservant, and  your maidservant, and the Levite, and the foreigner, and the orphan, and the widow  being in  your cities. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt rejoice in thy feast, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite, the stranger, and the fatherless, and the widow, that [are] within thy gates.
-<small><sub>**BSB:**</sub></small>
-And you shall rejoice in your feast—you, your sons and daughters, your menservants and maidservants, and the Levite, as well as the foreigner, the fatherless, and the widows among you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.13|<< Deuteronomy 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.15|Deuteronomy 16:15 >>]]</td></tr></table>
 
 | Translation | Greek |

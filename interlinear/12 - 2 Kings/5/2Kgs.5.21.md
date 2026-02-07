@@ -1,4 +1,4 @@
-**2 Kings 5:21** 
+**2 Kings 5:21**<big><big>[[2Kgs.5.15 Gehazi’s Greed and Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Gehazi followed after Naaman. And when Naaman saw [him] running after him, he lighted down from the chariot to meet him, and said, [Is] all well?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Gehazi pursued Naaman. And when Naaman saw him running toward him, he got dow
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.20|<< 2 Kings 5:20]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.22|2 Kings 5:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he pursued  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7291\|יִּרְדֹּ֥ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.Dof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gehazi  |**<big>&#8207;[[H1522\|גֵּיחֲזִ֖י]]&#8207; </big>**| gei.cha.Zi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

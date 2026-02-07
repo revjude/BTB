@@ -1,4 +1,4 @@
-**Psalms 140:13** (140:14)
+**Psalms 140:13**<big><big>[[Ps.140.1 Rescue Me from Evil Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely the righteous will praise Your name; the upright will dwell in Your prese
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.12|<< Psalms 140:12]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.141.0|Psalms 141:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | surely  |**<big>&#8207;[[H0389\|אַ֣ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteous [people]  |**<big>&#8207;[[H6662\|צַ֭דִּיקִים]]&#8207; </big>**| Tza.di.kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

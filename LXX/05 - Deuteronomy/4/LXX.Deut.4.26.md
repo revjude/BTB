@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:26** 
 <small><sub>**LXX:**</sub></small>
 I call to testify against you today  both the heaven and the earth, that by destruction you shall be destroyed from the land in which you pass over the Jordan there to inherit it. You shall not delay long days upon it, but by obliteration you shall be obliterated. 
-<small><sub>**KJV:**</sub></small>
-I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong [your] days upon it, but shall utterly be destroyed.
-<small><sub>**BSB:**</sub></small>
-I call heaven and earth as witnesses against you this day that you will quickly perish from the land that you are crossing the Jordan to possess. You will not live long upon it, but will be utterly destroyed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.25|<< Deuteronomy 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.27|Deuteronomy 4:27 >>]]</td></tr></table>
 
 | Translation | Greek |

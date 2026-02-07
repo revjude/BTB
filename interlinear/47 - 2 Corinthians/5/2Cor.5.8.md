@@ -1,12 +1,12 @@
-**2 Corinthians 5:8
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 5:8**<big><big>[[2Cor.5.1 Our Eternal Dwelling|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We are confident, [I say], and willing rather to be absent from the body, and to be present with the Lord.
 <small><sub>**BSB:**</sub></small>
 We are confident, then, and would prefer to be away from the body and at home with the Lord.
 <small><sub>**Literal:**</sub></small>
 We are confident now and we are pleased rather to be absent out of the body and to be at home with the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.7|<< 2 Corinthians 5:7]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.9|2 Corinthians 5:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We are confident |**<big>[[G2292\|θαρροῦμεν]]</big>**  |tharroumen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

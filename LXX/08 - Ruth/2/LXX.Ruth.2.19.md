@@ -1,10 +1,7 @@
 **LXX Ruth 2:19** 
 <small><sub>**LXX:**</sub></small>
 And her mother-in-law said to her, Where did you collect today? And where did you \[do it\]? May it be the one recognizing you a blessing. And Ruth reported \[to\] her mother-in-law where she did \[it\]. And she said, The name of the man with whom I did \[this\] today \[is\] Boaz. 
-<small><sub>**KJV:**</sub></small>
-And her mother in law said unto her, Where hast thou gleaned to day? and where wroughtest thou? blessed be he that did take knowledge of thee. And she shewed her mother in law with whom she had wrought, and said, The man’s name with whom I wrought to day [is] Boaz.
-<small><sub>**BSB:**</sub></small>
-Then her mother-in-law asked her, “Where did you glean today, and where did you work? Blessed be the man who noticed you.” So she told her mother-in-law where she had worked. “The name of the man I worked with today is Boaz,” she said.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.18|<< Ruth 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.20|Ruth 2:20 >>]]</td></tr></table>
 
 | Translation | Greek |

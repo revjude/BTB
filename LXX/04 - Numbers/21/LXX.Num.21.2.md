@@ -1,10 +1,7 @@
 **LXX Numbers 21:2** 
 <small><sub>**LXX:**</sub></small>
 And Israel vowed a vow \[to the\] <span class="smallcaps">lord</span>, and said, If you should deliver up to me  this people under my hand, I will devote him to consumption and  his cities. 
-<small><sub>**KJV:**</sub></small>
-And Israel vowed a vow unto the LORD, and said, If thou wilt indeed deliver this people into my hand, then I will utterly destroy their cities.
-<small><sub>**BSB:**</sub></small>
-So Israel made a vow to the LORD: “If You will deliver this people into our hands, we will devote their cities to destruction.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.1|<< Numbers 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.3|Numbers 21:3 >>]]</td></tr></table>
 
 | Translation | Greek |

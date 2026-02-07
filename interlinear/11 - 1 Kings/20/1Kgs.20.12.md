@@ -1,4 +1,4 @@
-**1 Kings 20:12** 
+**1 Kings 20:12**<big><big>[[1Kgs.20.1 Ben-hadad Attacks Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when [Benhadad] heard this message, as he [was] drinking, he and the kings in the pavilions, that he said unto his servants, Set [yourselves in array]. And they set [themselves in array] against the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ben-hadad received this message while he and the kings were drinking in their te
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.11|<< 1 Kings 20:11]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.13|1 Kings 20:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when heard  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H8085G\|שְׁמֹ֙עַ֙]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> sh.Mo.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

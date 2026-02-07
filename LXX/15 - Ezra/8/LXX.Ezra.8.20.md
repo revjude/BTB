@@ -1,10 +1,7 @@
 **LXX Ezra 8:20** 
 <small><sub>**LXX:**</sub></small>
 And from the Nethinim, whom David appointed and the rulers for service of the Levites -- two hundred twenty Nethinim; all these were named. 
-<small><sub>**KJV:**</sub></small>
-Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, two hundred and twenty Nethinims: all of them were expressed by name.
-<small><sub>**BSB:**</sub></small>
-They also brought 220 of the temple servants, all designated by name. David and the officials had appointed them to assist the Levites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.19|<< Ezra 8:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.21|Ezra 8:21 >>]]</td></tr></table>
 
 | Translation | Greek |

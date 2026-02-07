@@ -1,4 +1,4 @@
-**Psalms 74:19** 
+**Psalms 74:19**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O deliver not the soul of thy turtledove unto the multitude [of the wicked]: forget not the congregation of thy poor for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not deliver the soul of Your dove to beasts; do not forget the lives of Your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.18|<< Psalms 74:18]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.20|Psalms 74:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you give  |**<big>&#8207;[[H5414G\|תִּתֵּ֣ן]]&#8207; </big>**| ti.Ten<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

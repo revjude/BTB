@@ -1,12 +1,12 @@
-**Mark 8:32
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:32**<big><big>[[Mark.8.31 Christ’s Passion Foretold|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he spake that saying openly. And Peter took him, and began to rebuke him.
 <small><sub>**BSB:**</sub></small>
 He spoke this message quite frankly, and Peter took Him aside and began to rebuke Him.
 <small><sub>**Literal:**</sub></small>
 And openly the word He was speaking. And having taken <the> Peter him began to rebuke Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.31|<< Mark 8:31]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.33|Mark 8:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | openly |**<big>[[G3954\|παρρησίᾳ]]</big>**  |parrēsia <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

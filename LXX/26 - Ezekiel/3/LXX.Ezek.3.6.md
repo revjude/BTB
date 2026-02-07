@@ -1,10 +1,7 @@
 **LXX Ezekiel 3:6** 
 <small><sub>**LXX:**</sub></small>
 nor to many peoples of foreign languages, or foreign tongues, nor being dense in tongue, whose words you hear not. But if to such I sent you, these would have listened to you. 
-<small><sub>**KJV:**</sub></small>
-Not to many people of a strange speech and of an hard language, whose words thou canst not understand. Surely, had I sent thee to them, they would have hearkened unto thee.
-<small><sub>**BSB:**</sub></small>
-not to the many peoples of unfamiliar speech and difficult language whose words you cannot understand. Surely if I had sent you to them, they would have listened to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.5|<< Ezekiel 3:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.7|Ezekiel 3:7 >>]]</td></tr></table>
 
 | Translation | Greek |

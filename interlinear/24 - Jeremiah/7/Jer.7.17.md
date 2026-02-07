@@ -1,4 +1,4 @@
-**Jeremiah 7:17** 
+**Jeremiah 7:17**<big><big>[[Jer.7.16 Judah’s Idolatry Persists|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seest thou not what they do in the cities of Judah and in the streets of Jerusalem?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do you not see what they are doing in the cities of Judah and in the streets of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.16|<< Jeremiah 7:16]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.18|Jeremiah 7:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ [are] not you  |**<big>&#8207;[[H9008\|הַֽ]]&#8207;&#8207;[[H0369\|אֵינְ]]&#8207;&#8207;[[H9041\|ךָ֣]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'ei.ne.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seeing  |**<big>&#8207;[[H7200G\|רֹאֶ֔ה]]&#8207; </big>**| ro.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

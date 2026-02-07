@@ -1,12 +1,12 @@
-**Luke 18:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:17**<big><big>[[Luke.18.15 Jesus Blesses the Children|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child shall in no wise enter therein.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, anyone who does not receive the kingdom of God like a little child will never enter it.”
 <small><sub>**Literal:**</sub></small>
 Amen I say to you; who[ever] maybe not shall receive the kingdom <the> of God as a child, certainly not shall enter into it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.16|<< Luke 18:16]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.18|Luke 18:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

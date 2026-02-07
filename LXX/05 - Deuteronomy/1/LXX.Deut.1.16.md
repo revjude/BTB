@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:16** 
 <small><sub>**LXX:**</sub></small>
 And I gave charge \[to\] your judges in  that time, saying, Hold a hearing between  your brethren, and judge justly between a man and between his brother, and between \[the\] foreigner \[with\] him! 
-<small><sub>**KJV:**</sub></small>
-And I charged your judges at that time, saying, Hear [the causes] between your brethren, and judge righteously between [every] man and his brother, and the stranger [that is] with him.
-<small><sub>**BSB:**</sub></small>
-At that time I charged your judges: “Hear the disputes between your brothers, and judge fairly between a man and his brother or a foreign resident.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.15|<< Deuteronomy 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.17|Deuteronomy 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

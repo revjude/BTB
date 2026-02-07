@@ -1,4 +1,4 @@
-**Isaiah 51:11** 
+**Isaiah 51:11**<big><big>[[Isa.51.1 Salvation for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the redeemed of the LORD shall return, and come with singing unto Zion; and everlasting joy [shall be] upon their head: they shall obtain gladness and joy; [and] sorrow and mourning shall flee away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the redeemed of the LORD will return and enter Zion with singing, crowned wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.10|<< Isaiah 51:10]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.12|Isaiah 51:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] [people] ransomed of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6299\|פְדוּיֵ֨י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.du.Yei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

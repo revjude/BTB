@@ -1,12 +1,12 @@
-**Colossians 1:13
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:13**<big><big>[[Col.1.3 Thanksgiving and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who hath delivered us from the power of darkness, and hath translated [us] into the kingdom of his dear Son:
 <small><sub>**BSB:**</sub></small>
 He has rescued us from the dominion of darkness and brought us into the kingdom of His beloved Son,
 <small><sub>**Literal:**</sub></small>
 who has delivered us from the dominion <the> of darkness and transferred [us] into the kingdom of the Son the beloved of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.12|<< Colossians 1:12]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.14|Colossians 1:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | has delivered |**<big>[[G4506\|ἐρρύσατο]]</big>**  [^1] |errusato <small><sup>[[V-ANI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

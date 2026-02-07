@@ -1,4 +1,4 @@
-**Ezekiel 16:43** 
+**Ezekiel 16:43**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because thou hast not remembered the days of thy youth, but hast fretted me in all these [things]; behold, therefore I also will recompense thy way upon [thine] head, saith the Lord GOD: and thou shalt not commit this lewdness above all thine abominations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because you did not remember the days of your youth, but enraged Me with all the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.42|<< Ezekiel 16:42]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.44|Ezekiel 16:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because  |**<big>&#8207;[[H3282\|יַ֗עַן]]&#8207; </big>**| Ya.'an<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

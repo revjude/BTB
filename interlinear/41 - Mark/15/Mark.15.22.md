@@ -1,12 +1,12 @@
-**Mark 15:22
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:22**<big><big>[[Mark.15.21 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.
 <small><sub>**BSB:**</sub></small>
 They brought Jesus to a place called Golgotha, which means The Place of the Skull.
 <small><sub>**Literal:**</sub></small>
 And they bring Him to <the> Golgotha a place which is being translated, of a Skull Place.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.21|<< Mark 15:21]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.23|Mark 15:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they bring |**<big>[[G5342\|φέρουσιν]]</big>**  |pherousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

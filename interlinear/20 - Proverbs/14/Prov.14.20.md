@@ -1,4 +1,4 @@
-**Proverbs 14:20** 
+**Proverbs 14:20**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The poor is hated even of his own neighbour: but the rich [hath] many friends.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The poor man is hated even by his neighbor, but many are those who love the rich
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.19|<< Proverbs 14:19]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.21|Proverbs 14:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by neighbor his  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H7453\|רֵעֵ]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> re.'e.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

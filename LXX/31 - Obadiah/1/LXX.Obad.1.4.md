@@ -1,10 +1,7 @@
 **LXX Obadiah 1:4** 
 <small><sub>**LXX:**</sub></small>
 If you should rise up on high as an eagle, and if in the midst of the stars you should put your nest, from there I will lead you down, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Though thou exalt [thyself] as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Though you soar like the eagle and make your nest among the stars, even from there I will bring you down,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Obad.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.3|<< Obadiah 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.5|Obadiah 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

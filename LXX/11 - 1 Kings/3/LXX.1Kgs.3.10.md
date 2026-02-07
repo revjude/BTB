@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:10** 
 <small><sub>**LXX:**</sub></small>
 And the word was pleasing before \[the\] <span class="smallcaps">lord</span>, that Solomon asked  this thing. 
-<small><sub>**KJV:**</sub></small>
-And the speech pleased the Lord, that Solomon had asked this thing.
-<small><sub>**BSB:**</sub></small>
-Now it pleased the Lord that Solomon had made this request.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.9|<< 1 Kings 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.11|1 Kings 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

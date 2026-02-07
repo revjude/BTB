@@ -1,10 +1,7 @@
 **LXX Nehemiah 10:37** 
 <small><sub>**LXX:**</sub></small>
 And the first-fruit of our grain, and  our first-fruit \[offerings\], and the fruit of every tree, of wine and olive oil, we shall bring to the priests, into the treasuries of \[the\] house  of our God. And tenths of our land to the Levites. And they themselves, the Levites, \[are\] receiving a tenth in all \[the\] cities of our servitude. 
-<small><sub>**KJV:**</sub></small>
-And [that] we should bring the firstfruits of our dough, and our offerings, and the fruit of all manner of trees, of wine and of oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites, that the same Levites might have the tithes in all the cities of our tillage.
-<small><sub>**BSB:**</sub></small>
-Moreover, we will bring to the priests at the storerooms of the house of our God the firstfruits of our dough, of our grain offerings, of the fruit of all our trees, and of our new wine and oil. A tenth of our produce belongs to the Levites, so that they shall receive tithes in all the towns where we labor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.10.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.36|<< Nehemiah 10:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.38|Nehemiah 10:38 >>]]</td></tr></table>
 
 | Translation | Greek |

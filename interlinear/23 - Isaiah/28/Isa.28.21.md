@@ -1,4 +1,4 @@
-**Isaiah 28:21** 
+**Isaiah 28:21**<big><big>[[Isa.28.14 A Cornerstone in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD shall rise up as [in] mount Perazim, he shall be wroth as [in] the valley of Gibeon, that he may do his work, his strange work; and bring to pass his act, his strange act.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the LORD will rise up as at Mount Perazim. He will rouse Himself as in the V
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.20|<< Isaiah 28:20]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.22|Isaiah 28:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like [the] mountain of  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H2022G\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> har-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

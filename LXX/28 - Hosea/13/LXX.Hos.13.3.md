@@ -1,10 +1,7 @@
 **LXX Hosea 13:3** 
 <small><sub>**LXX:**</sub></small>
 On account of this, they will be as an early morning cloud, and as early morning dew going \[away\], as dust being blown away from \[the\] threshing floor, and as a vapor from tears. 
-<small><sub>**KJV:**</sub></small>
-Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff [that] is driven with the whirlwind out of the floor, and as the smoke out of the chimney.
-<small><sub>**BSB:**</sub></small>
-Therefore they will be like the morning mist, like the early dew that vanishes, like chaff blown from a threshing floor, like smoke through an open window.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.2|<< Hosea 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.4|Hosea 13:4 >>]]</td></tr></table>
 
 | Translation | Greek |

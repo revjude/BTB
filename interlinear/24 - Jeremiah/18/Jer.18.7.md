@@ -1,4 +1,4 @@
-**Jeremiah 18:7** 
+**Jeremiah 18:7**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [At what] instant I shall speak concerning a nation, and concerning a kingdom, to pluck up, and to pull down, and to destroy [it];
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At any time I might announce that a nation or kingdom will be uprooted, torn dow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.6|<< Jeremiah 18:6]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.8|Jeremiah 18:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a moment  |**<big>&#8207;[[H7281\|רֶ֣גַע]]&#8207; </big>**| Re.ga'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will speak  |**<big>&#8207;[[H1696I\|אֲדַבֵּ֔ר]]&#8207; </big>**| 'a.da.Ber<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

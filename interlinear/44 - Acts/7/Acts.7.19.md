@@ -1,5 +1,5 @@
-**Acts 7:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:19**<big><big>[[Acts.7.15 Israel Oppressed in Egypt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The same dealt subtilly with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live.
 <small><sub>**BSB:**</sub></small>
 He exploited our people and oppressed our fathers, forcing them to abandon their infants so they would die.
@@ -10,7 +10,7 @@ He having dealt treacherously with the race of us he mistreated the fathers of u
 > $\quad$ alluding to: [[LXX.Exod.1.10|Exod 1:10]] ☩ [[LXX.Exod.1.22|Exod 1:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having dealt treacherously with |**<big>[[G2686\|κατασοφισάμενος]]</big>**  |katasophisamenos <small><sup>[[V-ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

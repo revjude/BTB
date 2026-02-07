@@ -1,4 +1,4 @@
-**Psalms 34:2** (34:3)
+**Psalms 34:2**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul shall make her boast in the LORD: the humble shall hear [thereof], and be glad.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My soul boasts in the LORD; let the oppressed hear and rejoice.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.1|<< Psalms 34:1]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.3|Psalms 34:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in Yahweh  |**<big>&#8207;[[H9003\|בַּ֭]]&#8207;&#8207;[[H3068G\|יהוָה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will boast  |**<big>&#8207;[[H1984H\|תִּתְהַלֵּ֣ל]]&#8207; </big>**| tit.ha.Lel<small><sup>[[HVti3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

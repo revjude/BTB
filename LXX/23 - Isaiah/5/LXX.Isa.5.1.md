@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 I will sing indeed to the one being loved of me a song  of my beloved concerning his vineyard. A vineyard became to the one being loved on a horn in a plentiful place. 
-<small><sub>**KJV:**</sub></small>
-Now will I sing to my wellbeloved a song of my beloved touching his vineyard. My wellbeloved hath a vineyard in a very fruitful hill:
-<small><sub>**BSB:**</sub></small>
-I will sing for my beloved a song of his vineyard: My beloved had a vineyard on a very fertile hill.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.4.6|<< Isaiah 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.2|Isaiah 5:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 5:1** is...

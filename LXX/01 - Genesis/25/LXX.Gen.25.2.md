@@ -1,10 +1,7 @@
 **LXX Genesis 25:2** 
 <small><sub>**LXX:**</sub></small>
 And she bore to him  Zimran, and  Jokshan, and  Medan, and  Midian, and  Ishbak, and  Shuah. 
-<small><sub>**KJV:**</sub></small>
-And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah.
-<small><sub>**BSB:**</sub></small>
-and she bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.1|<< Genesis 25:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.3|Genesis 25:3 >>]]</td></tr></table>
 
 | Translation | Greek |

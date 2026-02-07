@@ -1,4 +1,4 @@
-**Exodus 9:30** 
+**Exodus 9:30**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But as for thee and thy servants, I know that ye will not yet fear the LORD God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But as for you and your officials, I know that you still do not fear the LORD ou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.29|<< Exodus 9:29]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.31|Exodus 9:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and servants your  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H5650\|עֲבָדֶ֑י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.va.Dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

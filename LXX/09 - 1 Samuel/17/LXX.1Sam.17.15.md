@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:15** 
 <small><sub>**LXX:**</sub></small>
 And David departed and returned from Saul to tend the sheep  of his father in Beth-lehem. 
-<small><sub>**KJV:**</sub></small>
-But David went and returned from Saul to feed his father’s sheep at Bethlehem.
-<small><sub>**BSB:**</sub></small>
-but David went back and forth from Saul to tend his father’s sheep in Bethlehem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.14|<< 1 Samuel 17:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.16|1 Samuel 17:16 >>]]</td></tr></table>
 
 | Translation | Greek |

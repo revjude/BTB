@@ -1,4 +1,4 @@
-**2 Chronicles 11:22** 
+**2 Chronicles 11:22**<big><big>[[2Chr.11.18 Rehoboam’s Family|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rehoboam made Abijah the son of Maachah the chief, [to be] ruler among his brethren: for [he thought] to make him king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rehoboam appointed Abijah son of Maacah as chief prince among his brothers, inte
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.21|<< 2 Chronicles 11:21]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.23|2 Chronicles 11:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appointed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975H\|יַּֽעֲמֵ֨ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Med<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the chief  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H7218H\|רֹ֧אשׁ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Rosh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

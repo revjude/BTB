@@ -1,4 +1,4 @@
-**Psalms 38:5** (38:6)
+**Psalms 38:5**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My wounds stink [and] are corrupt because of my foolishness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My wounds are foul and festering because of my sinful folly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.4|<< Psalms 38:4]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.6|Psalms 38:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they stink  |**<big>&#8207;[[H0887\|הִבְאִ֣ישׁוּ]]&#8207; </big>**| hiv.'I.shu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they fester  |**<big>&#8207;[[H4743\|נָ֭מַקּוּ]]&#8207; </big>**| Na.ma.ku<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

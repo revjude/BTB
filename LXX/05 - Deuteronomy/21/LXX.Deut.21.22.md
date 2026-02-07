@@ -1,10 +1,7 @@
 **LXX Deuteronomy 21:22** 
 <small><sub>**LXX:**</sub></small>
 And if there be sin in any \[with the\] judgment of death \[upon him\], and he should die, and you should hang him upon a tree, 
-<small><sub>**KJV:**</sub></small>
-And if a man have committed a sin worthy of death, and he be to be put to death, and thou hang him on a tree:
-<small><sub>**BSB:**</sub></small>
-If a man has committed a sin worthy of death, and he is executed, and you hang his body on a tree,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.21|<< Deuteronomy 21:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.23|Deuteronomy 21:23 >>]]</td></tr></table>
 
 | Translation | Greek |

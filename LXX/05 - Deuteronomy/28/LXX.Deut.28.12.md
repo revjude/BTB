@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:12** 
 <small><sub>**LXX:**</sub></small>
 \[the\] <span class="smallcaps">lord</span> open to you his good treasury, the heaven, to give the rain \[to\] your land in its season; to bless all the works  of your hands; and you shall lend to many nations, but you shall not borrow; and you shall yourself rule many nations, but they shall not rule you. 
-<small><sub>**KJV:**</sub></small>
-The LORD shall open unto thee his good treasure, the heaven to give the rain unto thy land in his season, and to bless all the work of thine hand: and thou shalt lend unto many nations, and thou shalt not borrow.
-<small><sub>**BSB:**</sub></small>
-The LORD will open the heavens, His abundant storehouse, to send rain on your land in season and to bless all the work of your hands. You will lend to many nations, but borrow from none.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.11|<< Deuteronomy 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.13|Deuteronomy 28:13 >>]]</td></tr></table>
 
 | Translation | Greek |

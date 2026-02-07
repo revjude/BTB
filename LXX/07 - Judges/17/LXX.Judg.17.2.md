@@ -1,10 +1,7 @@
 **LXX Judges 17:2** 
 <small><sub>**LXX:**</sub></small>
 And he said \[to\] his mother, The thousand and hundred \[pieces\] of silver  seized from you, and you adjured and said \[it\] in  my ears -- behold, the silver is with me, I took it. And his mother said, Being blessed \[is\]  my son in the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he said unto his mother, The eleven hundred [shekels] of silver that were taken from thee, about which thou cursedst, and spakest of also in mine ears, behold, the silver [is] with me; I took it. And his mother said, Blessed [be thou] of the LORD, my son.
-<small><sub>**BSB:**</sub></small>
-said to his mother, “The eleven hundred shekels of silver that were taken from you and about which I heard you utter a curse—I have the silver here with me; I took it.” Then his mother said, “Blessed be my son by the LORD!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.17.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.17.1|<< Judges 17:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.17.3|Judges 17:3 >>]]</td></tr></table>
 
 | Translation | Greek |

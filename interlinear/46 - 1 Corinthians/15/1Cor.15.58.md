@@ -1,12 +1,12 @@
-**1 Corinthians 15:58
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:58**<big><big>[[1Cor.15.50 Where, O Death, Is Your Victory？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.
 <small><sub>**BSB:**</sub></small>
 Therefore, my beloved brothers, be steadfast and immovable. Always excel in the work of the Lord, because you know that your labor in the Lord is not in vain.
 <small><sub>**Literal:**</sub></small>
 Therefore, brothers of mine beloved, steadfast do be, immovable, abounding in the work of the Lord always, knowing that the toil of you not is in vain in [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.57|<< 1 Corinthians 15:57]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.1|1 Corinthians 16:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore, |**<big>[[G5620\|ὥστε,]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | brothers |**<big>[[G0080\|ἀδελφοί]]</big>**  |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

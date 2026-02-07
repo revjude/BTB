@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:15** 
 <small><sub>**LXX:**</sub></small>
 And Ahab numbered the servants of the rulers of the regions, and they were two hundred thirty and two. And after these \[things\] he numbered the people, every son of power -- seven thousand. 
-<small><sub>**KJV:**</sub></small>
-Then he numbered the young men of the princes of the provinces, and they were two hundred and thirty two: and after them he numbered all the people, [even] all the children of Israel, [being] seven thousand.
-<small><sub>**BSB:**</sub></small>
-So Ahab assembled the young officers of the district governors, and there were 232 men. And after them, he assembled the rest of the Israelite troops, 7,000 in all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.14|<< 1 Kings 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.16|1 Kings 20:16 >>]]</td></tr></table>
 
 | Translation | Greek |

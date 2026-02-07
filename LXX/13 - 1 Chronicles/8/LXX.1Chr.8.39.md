@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 8:39** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Eshek  his brother -- Ulam his first-born, and Jeush the second, and Eliphelet the third. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Eshek his brother [were], Ulam his firstborn, Jehush the second, and Eliphelet the third.
-<small><sub>**BSB:**</sub></small>
-The sons of his brother Eshek: Ulam was his firstborn, Jeush second, and Eliphelet third.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.8.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.38|<< 1 Chronicles 8:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.40|1 Chronicles 8:40 >>]]</td></tr></table>
 
 | Translation | Greek |

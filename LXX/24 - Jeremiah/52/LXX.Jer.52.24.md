@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the chief guard took  Seraiah the foremost priest, and  Zephaniah the priest  being second, and the three of the ones guarding the way. 
-<small><sub>**KJV:**</sub></small>
-And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the door:
-<small><sub>**BSB:**</sub></small>
-The captain of the guard also took away Seraiah the chief priest, Zephaniah the priest of second rank, and the three doorkeepers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.23|<< Jeremiah 52:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.25|Jeremiah 52:25 >>]]</td></tr></table>
 
 | Translation | Greek |

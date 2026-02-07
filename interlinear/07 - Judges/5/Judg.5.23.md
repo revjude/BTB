@@ -1,4 +1,4 @@
-**Judges 5:23** 
+**Judges 5:23**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Curse ye Meroz, said the angel of the LORD, curse ye bitterly the inhabitants thereof; because they came not to the help of the LORD, to the help of the LORD against the mighty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Curse ye Meroz, said the angel of the LORD, curse ye bitterly the inhabitants th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.22|<< Judges 5:22]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.24|Judges 5:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | curse  |**<big>&#8207;[[H0779\|א֣וֹרוּ]]&#8207; </big>**| 'o.ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Meroz  |**<big>&#8207;[[H4789\|מֵר֗וֹז]]&#8207; </big>**| me.Roz<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

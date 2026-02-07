@@ -1,12 +1,12 @@
-**1 John 5:18
-**<small><sub>**KJV:**</sub></small>
+**1 John 5:18**<big><big>[[1John.5.18 The True God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not.
 <small><sub>**BSB:**</sub></small>
 We know that anyone born of God does not keep on sinning; the One who was born of God protects him, and the evil one cannot touch him.
 <small><sub>**Literal:**</sub></small>
 We know that everyone who born of <the> God not continues to sin; but the [One] having been begotten of <the> God protects himself, and the evil [one] not does touch him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.17|<< 1 John 5:17]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.19|1 John 5:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We know |**<big>[[G6063\|οἴδαμεν]]</big>**  |oidamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

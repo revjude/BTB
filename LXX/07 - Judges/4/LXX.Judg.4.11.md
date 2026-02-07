@@ -1,10 +1,7 @@
 **LXX Judges 4:11** 
 <small><sub>**LXX:**</sub></small>
 And the near ones of the Kenite were separated from Kena, from the sons of Hobab father-in-law of Moses. And he pitched  his tent by Oak of the ones Resting, which is next to Kedesh. 
-<small><sub>**KJV:**</sub></small>
-Now Heber the Kenite, [which was] of the children of Hobab the father in law of Moses, had severed himself from the Kenites, and pitched his tent unto the plain of Zaanaim, which [is] by Kedesh.
-<small><sub>**BSB:**</sub></small>
-Now Heber the Kenite had moved away from the Kenites, the descendants of Hobab the father-in-law of Moses, and had pitched his tent by the great tree of Zaanannim, which was near Kedesh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.10|<< Judges 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.12|Judges 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

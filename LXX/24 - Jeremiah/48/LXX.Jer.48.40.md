@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:40** 
 <small><sub>**LXX:**</sub></small>
 For thus said \[the\] <span class="smallcaps">lord</span>, As an eagle, he shall spread and stetch out  his wings for Moab. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD; Behold, he shall fly as an eagle, and shall spread his wings over Moab.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD says: “Behold, an eagle swoops down and spreads his wings against Moab.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.39|<< Jeremiah 48:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.41|Jeremiah 48:41 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 8:40
-**<small><sub>**KJV:**</sub></small>
+**John 8:40**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But now ye seek to kill me, a man that hath told you the truth, which I have heard of God: this did not Abraham.
 <small><sub>**BSB:**</sub></small>
 But now you are trying to kill Me, a man who has told you the truth that I heard from God. Abraham never did such a thing.
 <small><sub>**Literal:**</sub></small>
 now however you seek Me to kill, a man who the truth to you has spoken that I heard from <the> God; This Abraham not did.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.39|<< John 8:39]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.41|John 8:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

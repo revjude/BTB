@@ -1,12 +1,12 @@
-**Matthew 12:50
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:50**<big><big>[[Matt.12.46 Jesus’ Mother and Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.
 <small><sub>**BSB:**</sub></small>
 For whoever does the will of My Father in heaven is My brother and sister and mother.”
 <small><sub>**Literal:**</sub></small>
 Whoever for maybe may do the will the Father of Mine who [is] in [the] heavens, he himself My brother and sister and mother is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.49|<< Matthew 12:49]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.1|Matthew 13:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Whoever |**<big>[[G3748\|ὅστις]]</big>**  |hostis <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

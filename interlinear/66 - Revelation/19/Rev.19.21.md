@@ -1,12 +1,12 @@
-**Revelation 19:21
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:21**<big><big>[[Rev.19.17 Defeat of the Beast and False Prophet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the remnant were slain with the sword of him that sat upon the horse, which [sword] proceeded out of his mouth: and all the fowls were filled with their flesh.
 <small><sub>**BSB:**</sub></small>
 And the rest were killed with the sword that proceeded from the mouth of the One seated on the horse. And all the birds gorged themselves on their flesh.
 <small><sub>**Literal:**</sub></small>
 And the rest were killed with the sword of the [One] sitting on the horse <the> having gone out out of the mouth of him. And all the birds were filled with the flesh of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.20|<< Revelation 19:20]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.1|Revelation 20:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

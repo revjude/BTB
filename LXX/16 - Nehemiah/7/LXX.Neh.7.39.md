@@ -1,10 +1,7 @@
 **LXX Nehemiah 7:39** 
 <small><sub>**LXX:**</sub></small>
 The priests; \[the\] sons of Jedaiah in \[the\] house of Jeshua, nine hundred seventy-three; 
-<small><sub>**KJV:**</sub></small>
-The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three.
-<small><sub>**BSB:**</sub></small>
-The priests: the descendants of Jedaiah (through the house of Jeshua), 973;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.38|<< Nehemiah 7:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.40|Nehemiah 7:40 >>]]</td></tr></table>
 
 | Translation | Greek |

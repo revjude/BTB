@@ -1,12 +1,12 @@
-**Matthew 19:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:3**<big><big>[[Matt.19.1 Teachings about Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Pharisees also came unto him, tempting him, and saying unto him, Is it lawful for a man to put away his wife for every cause?
 <small><sub>**BSB:**</sub></small>
 Then some Pharisees came and tested Him by asking, “Is it lawful for a man to divorce his wife for any reason?”
 <small><sub>**Literal:**</sub></small>
 And came to Him <the> Pharisees testing Him and saying to him: If is it lawful for a man to divorce the a wife of him for every cause?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.2|<< Matthew 19:2]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.4|Matthew 19:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | came |**<big>[[G4334\|προσῆλθον]]</big>**  [^1] |prosēlthon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

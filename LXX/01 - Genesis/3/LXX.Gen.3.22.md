@@ -1,10 +1,7 @@
 **LXX Genesis 3:22** 
 <small><sub>**LXX:**</sub></small>
 And God said, Behold, Adam has become as one of us,  to know good and evil. And now, lest at any time he might stretch out the hand, and should take from the tree  of life, and should eat, and will live into the eon -- 
-<small><sub>**KJV:**</sub></small>
-And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:
-<small><sub>**BSB:**</sub></small>
-Then the LORD God said, “Behold, the man has become like one of Us, knowing good and evil. And now, lest he reach out his hand and take also from the tree of life, and eat, and live forever...”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.21|<< Genesis 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.23|Genesis 3:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 2:12** 
+**Exodus 2:12**<big><big>[[Exod.2.11 The Rejection and Flight of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he looked this way and that way, and when he saw that [there was] no man, he slew the Egyptian, and hid him in the sand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After looking this way and that and seeing no one, he struck down the Egyptian a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.11|<< Exodus 2:11]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.13|Exodus 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he turned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6437G\|יִּ֤פֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.fen<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹּה֙]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

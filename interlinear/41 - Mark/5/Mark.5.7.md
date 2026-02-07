@@ -1,12 +1,12 @@
-**Mark 5:7
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:7**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And cried with a loud voice, and said, What have I to do with thee, Jesus, [thou] Son of the most high God? I adjure thee by God, that thou torment me not.
 <small><sub>**BSB:**</sub></small>
 And he shouted in a loud voice, “What do You want with me, Jesus, Son of the Most High God? I beg You before God not to torture me!”
 <small><sub>**Literal:**</sub></small>
 And having cried in a voice loud he spoke; What to me myself and to You, Jesus, Son <the> of God the Most High? I adjure You <the> by God, not me may torment.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.6|<< Mark 5:6]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.8|Mark 5:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having cried |**<big>[[G2896\|κράξας]]</big>**  |kraxas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

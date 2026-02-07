@@ -1,4 +1,4 @@
-**Daniel 8:27** 
+**Daniel 8:27**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I Daniel fainted, and was sick [certain] days; afterward I rose up, and did the king’s business; and I was astonished at the vision, but none understood [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I, Daniel, was exhausted and lay ill for days. Then I got up and went about the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.26|<< Daniel 8:26]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.1|Daniel 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֣י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Daniel  |**<big>&#8207;[[H1840G\|דָנִיֵּ֗אל]]&#8207; </big>**| da.ni.Yel<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

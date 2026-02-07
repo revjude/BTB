@@ -1,10 +1,7 @@
 **LXX Psalm 78:49** 
 <small><sub>**LXX:**</sub></small>
 He sent out to them \[the\] anger of his rage; rage and anger and affliction; a commission through wicked angels. 
-<small><sub>**KJV:**</sub></small>
-He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels [among them].
-<small><sub>**BSB:**</sub></small>
-He unleashed His fury against them, wrath, indignation, and calamity—a band of destroying angels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.48|<< Psalm 78:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.50|Psalm 78:50 >>]]</td></tr></table>
 
 | Translation | Greek |

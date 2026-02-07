@@ -1,4 +1,4 @@
-**Jonah 2:2** (2:3)
+**Jonah 2:2**<big><big>[[Jonah.2.1 Jonah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, [and] thou heardest my voice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ saying: “In my distress I called to the LORD, and He answered me. From the bel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.2.1|<< Jonah 2:1]]</td><td align="center" style="border:none;">[[Jonah.2|Jonah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.2.3|Jonah 2:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I called  |**<big>&#8207;[[H7121G\|קָ֠רָאתִי]]&#8207; </big>**| Ka.ra.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

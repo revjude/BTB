@@ -1,12 +1,12 @@
-**2 Corinthians 2:4
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 2:4**<big><big>[[2Cor.2.1 Reaffirm Your Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For out of much affliction and anguish of heart I wrote unto you with many tears; not that ye should be grieved, but that ye might know the love which I have more abundantly unto you.
 <small><sub>**BSB:**</sub></small>
 For through many tears I wrote you out of great distress and anguish of heart, not to grieve you but to let you know how much I love you.
 <small><sub>**Literal:**</sub></small>
 Out of for much affliction and anguish of heart I wrote to you through many tears, not that you may be grieved, but the love that you may know that I have more abundantly toward you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.3|<< 2 Corinthians 2:3]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.5|2 Corinthians 2:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

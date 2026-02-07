@@ -1,4 +1,4 @@
-**Psalms 66:17** 
+**Psalms 66:17**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I cried unto him with my mouth, and he was extolled with my tongue.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I cried out to Him with my mouth and praised Him with my tongue.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.16|<< Psalms 66:16]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.18|Psalms 66:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to him  |**<big>&#8207;[[H0413\|אֵלָ֥י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mouth my  |**<big>&#8207;[[H6310G\|פִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| p<small><sup>[[HNcmsc]]</sup></small> i-<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

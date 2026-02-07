@@ -1,10 +1,7 @@
 **LXX Proverbs 27:18** 
 <small><sub>**LXX:**</sub></small>
 \[The\] one who plants a fig-tree shall eat the fruits of it; and \[the\] one who guards  his own master shall be esteemed. 
-<small><sub>**KJV:**</sub></small>
-Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured.
-<small><sub>**BSB:**</sub></small>
-Whoever tends a fig tree will eat its fruit, and he who looks after his master will be honored.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.27.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.17|<< Proverbs 27:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.19|Proverbs 27:19 >>]]</td></tr></table>
 
 | Translation | Greek |

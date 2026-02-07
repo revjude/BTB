@@ -1,10 +1,7 @@
 **LXX Genesis 41:27** 
 <small><sub>**LXX:**</sub></small>
 And the seven thin oxen, the ones ascending after them, are seven years; and the seven thin and destroyed by the wind ears of corn are seven years -- there will be seven years of famine. 
-<small><sub>**KJV:**</sub></small>
-And the seven thin and ill favoured kine that came up after them [are] seven years; and the seven empty ears blasted with the east wind shall be seven years of famine.
-<small><sub>**BSB:**</sub></small>
-Moreover, the seven thin, ugly cows that came up after them are seven years, and so are the seven worthless heads of grain scorched by the east wind—they are seven years of famine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.26|<< Genesis 41:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.28|Genesis 41:28 >>]]</td></tr></table>
 
 | Translation | Greek |

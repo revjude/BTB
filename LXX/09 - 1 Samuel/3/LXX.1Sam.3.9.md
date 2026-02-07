@@ -1,10 +1,7 @@
 **LXX 1 Samuel 3:9** 
 <small><sub>**LXX:**</sub></small>
 And Eli said \[to\] Samuel, Return and sleep child! And it will be if he should call you, that you shall say, Speak, O <span class="smallcaps">lord</span>, for your servant hears! And Samuel went, and went to bed in  his place. 
-<small><sub>**KJV:**</sub></small>
-Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, that thou shalt say, Speak, LORD; for thy servant heareth. So Samuel went and lay down in his place.
-<small><sub>**BSB:**</sub></small>
-“Go and lie down,” he said to Samuel, “and if He calls you, say, ‘Speak, LORD, for Your servant is listening.’” So Samuel went and lay down in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.8|<< 1 Samuel 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.10|1 Samuel 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

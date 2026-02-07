@@ -1,10 +1,7 @@
 **LXX Job 14:8** 
 <small><sub>**LXX:**</sub></small>
 for if its root should grow old in \[the\] earth, and its trunk should come to an end in \[the\] rock; 
-<small><sub>**KJV:**</sub></small>
-Though the root thereof wax old in the earth, and the stock thereof die in the ground;
-<small><sub>**BSB:**</sub></small>
-If its roots grow old in the ground and its stump dies in the soil,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.7|<< Job 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.9|Job 14:9 >>]]</td></tr></table>
 
 | Translation | Greek |

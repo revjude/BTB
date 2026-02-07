@@ -1,10 +1,7 @@
 **LXX Isaiah 10:19** 
 <small><sub>**LXX:**</sub></small>
 And the ones being left behind of them will be a \[small\] number, and a small child shall \[be able to\] write them. 
-<small><sub>**KJV:**</sub></small>
-And the rest of the trees of his forest shall be few, that a child may write them.
-<small><sub>**BSB:**</sub></small>
-The remaining trees of its forests will be so few that a child could count them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.18|<< Isaiah 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.20|Isaiah 10:20 >>]]</td></tr></table>
 
 | Translation | Greek |

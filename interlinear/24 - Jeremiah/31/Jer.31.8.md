@@ -1,4 +1,4 @@
-**Jeremiah 31:8** 
+**Jeremiah 31:8**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will bring them from the north country, and gather them from the coasts of the earth, [and] with them the blind and the lame, the woman with child and her that travaileth with child together: a great company shall return thither.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, I will bring them from the land of the north and gather them from the fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.7|<< Jeremiah 31:7]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.9|Jeremiah 31:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִי֩]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] about to bring  |**<big>&#8207;[[H0935P\|מֵבִ֨יא]]&#8207; </big>**| me.Vi'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

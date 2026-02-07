@@ -1,4 +1,4 @@
-**Esther 8:9** 
+**Esther 8:9**<big><big>[[Esth.8.7 The Decree of Xerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then were the king’s scribes called at that time in the third month, that [is], the month Sivan, on the three and twentieth [day] thereof; and it was written according to all that Mordecai commanded unto the Jews, and to the lieutenants, and the deputies and rulers of the provinces which [are] from India unto Ethiopia, an hundred twenty and seven provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At once the royal scribes were summoned, and on the twenty-third day of the thir
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.8|<< Esther 8:8]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.10|Esther 8:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקָּרְא֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.re.'U<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] scribes of  |**<big>&#8207;[[H5613\|סֹפְרֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| so.fe.rei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

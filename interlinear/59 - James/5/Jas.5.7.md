@@ -1,12 +1,12 @@
-**James 5:7
-**<small><sub>**KJV:**</sub></small>
+**James 5:7**<big><big>[[Jas.5.7 Patience in Suffering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain.
 <small><sub>**BSB:**</sub></small>
 Be patient, then, brothers, until the Lord’s coming. See how the farmer awaits the precious fruit of the soil—how patient he is for the fall and spring rains.
 <small><sub>**Literal:**</sub></small>
 do be patient therefore, brothers, until the coming of the Lord. Behold the farmer awaits the precious fruit of the earth being patient for it until when it may receive rain [the] early and latter [rains];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.6|<< James 5:6]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.8|James 5:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be patient |**<big>[[G3114\|Μακροθυμήσατε]]</big>**  |Makrothumēsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore, |**<big>[[G3767\|οὖν,]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

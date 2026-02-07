@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jethro the priest of Midian the father-in-law of Moses heard all as much as \[the\] <span class="smallcaps">lord</span> did to Israel, to his own people; for \[the\] <span class="smallcaps">lord</span> led  Israel out of Egypt. 
-<small><sub>**KJV:**</sub></small>
-When Jethro, the priest of Midian, Moses’ father in law, heard of all that God had done for Moses, and for Israel his people, [and] that the LORD had brought Israel out of Egypt;
-<small><sub>**BSB:**</sub></small>
-Now Moses’ father-in-law Jethro, the priest of Midian, heard about all that God had done for Moses and His people Israel, and how the LORD had brought Israel out of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.17.16|<< Exodus 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.2|Exodus 18:2 >>]]</td></tr></table>
 
 | Translation | Greek |

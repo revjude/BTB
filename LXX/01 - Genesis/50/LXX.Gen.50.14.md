@@ -1,10 +1,7 @@
 **LXX Genesis 50:14** 
 <small><sub>**LXX:**</sub></small>
 And Joseph returned to Egypt, himself and  his brothers, and all the \[ones\] going up with \[him\] to entomb  his father. 
-<small><sub>**KJV:**</sub></small>
-And Joseph returned into Egypt, he, and his brethren, and all that went up with him to bury his father, after he had buried his father.
-<small><sub>**BSB:**</sub></small>
-After Joseph had buried his father, he returned to Egypt with his brothers and all who had gone with him to bury his father.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.50.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.13|<< Genesis 50:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.15|Genesis 50:15 >>]]</td></tr></table>
 
 | Translation | Greek |

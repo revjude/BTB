@@ -1,12 +1,12 @@
-**Mark 15:1
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:1**<big><big>[[Mark.15.1 Jesus Delivered to Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried [him] away, and delivered [him] to Pilate.
 <small><sub>**BSB:**</sub></small>
 Early in the morning, the chief priests, elders, scribes, and the whole Sanhedrin devised a plan. They bound Jesus, led Him away, and handed Him over to Pilate.
 <small><sub>**Literal:**</sub></small>
 And early upon <the> in the morning a counsel having formed the chief priests with the elders and scribes and all the Council, having bound <the> Jesus they led [Him] away and delivered [Him] <the> to Pilate.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.72|<< Mark 14:72]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.2|Mark 15:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | early |**<big>[[G2112\|εὐθὺς]]</big>**  [^1] |euthus <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 31:16** 
 <small><sub>**LXX:**</sub></small>
 All the riches and the glory which the God of our father removed will be ours and  our children's. Now then as much as God has said to you, you do! 
-<small><sub>**KJV:**</sub></small>
-For all the riches which God hath taken from our father, that [is] ours, and our children’s: now then, whatsoever God hath said unto thee, do.
-<small><sub>**BSB:**</sub></small>
-Surely all the wealth that God has taken away from our father belongs to us and to our children. So do whatever God has told you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.15|<< Genesis 31:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.17|Genesis 31:17 >>]]</td></tr></table>
 
 | Translation | Greek |

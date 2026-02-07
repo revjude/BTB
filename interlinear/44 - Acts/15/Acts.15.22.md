@@ -1,12 +1,12 @@
-**Acts 15:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:22**<big><big>[[Acts.15.22 The Letter to the Gentile Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; [namely], Judas surnamed Barsabas, and Silas, chief men among the brethren:
 <small><sub>**BSB:**</sub></small>
 Then the apostles and elders, with the whole church, decided to select men from among them to send to Antioch with Paul and Barnabas. They chose Judas called Barsabbas and Silas, two leaders among the brothers,
 <small><sub>**Literal:**</sub></small>
 Then it seemed good to the apostles and to the elders with all the church having chosen men out from them to send to Antioch with <the> Paul and Barnabas, Judas who is being called Barsabbas and Silas, men leading among the brothers,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.21|<< Acts 15:21]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.23|Acts 15:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it seemed good |**<big>[[G1380\|ἔδοξεν]]</big>**  |edoxen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

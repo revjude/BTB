@@ -1,10 +1,7 @@
 **LXX Psalm 65:10** 
 <small><sub>**LXX:**</sub></small>
  Saturate her furrows! Multiply  her produce! By  her drops \[the produce\] shall be glad \[while\] rising. 
-<small><sub>**KJV:**</sub></small>
-Thou waterest the ridges thereof abundantly: thou settlest the furrows thereof: thou makest it soft with showers: thou blessest the springing thereof.
-<small><sub>**BSB:**</sub></small>
-You soak its furrows and level its ridges; You soften it with showers and bless its growth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.65.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.9|<< Psalm 65:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.65.11|Psalm 65:11 >>]]</td></tr></table>
 
 | Translation | Greek |

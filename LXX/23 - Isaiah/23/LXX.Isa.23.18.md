@@ -1,10 +1,7 @@
 **LXX Isaiah 23:18** 
 <small><sub>**LXX:**</sub></small>
 And her trade and wage will be holy  \[to the\] <span class="smallcaps">lord</span>. be brought not to them, but to the ones dwelling before \[the\] <span class="smallcaps">lord</span>, \[even\] all  her trade, to eat and to drink, and be filled, and for a compact memorial before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And her merchandise and her hire shall be holiness to the LORD: it shall not be treasured nor laid up; for her merchandise shall be for them that dwell before the LORD, to eat sufficiently, and for durable clothing.
-<small><sub>**BSB:**</sub></small>
-Yet her profits and wages will be set apart to the LORD; they will not be stored or saved, for her profit will go to those who live before the LORD, for abundant food and fine clothing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.17|<< Isaiah 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.1|Isaiah 24:1 >>]]</td></tr></table>
 
 | Translation | Greek |

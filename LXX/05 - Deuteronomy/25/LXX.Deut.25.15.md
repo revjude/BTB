@@ -1,10 +1,7 @@
 **LXX Deuteronomy 25:15** 
 <small><sub>**LXX:**</sub></small>
 There shall be to you a true and just weight, and there shall be to you a true and just measure, that you should be many days upon the land which \[the\] <span class="smallcaps">lord</span>  your God gives to you by lot. 
-<small><sub>**KJV:**</sub></small>
-[But] thou shalt have a perfect and just weight, a perfect and just measure shalt thou have: that thy days may be lengthened in the land which the LORD thy God giveth thee.
-<small><sub>**BSB:**</sub></small>
-You must maintain accurate and honest weights and measures, so that you may live long in the land that the LORD your God is giving you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.25.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.14|<< Deuteronomy 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.16|Deuteronomy 25:16 >>]]</td></tr></table>
 
 | Translation | Greek |

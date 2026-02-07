@@ -1,10 +1,7 @@
 **LXX Micah 7:7** 
 <small><sub>**LXX:**</sub></small>
 But I will look upon my <span class="smallcaps">lord</span>; I will wait upon the <span class="smallcaps">lord</span>  my deliverer. My God will listen to me. 
-<small><sub>**KJV:**</sub></small>
-Therefore I will look unto the LORD; I will wait for the God of my salvation: my God will hear me.
-<small><sub>**BSB:**</sub></small>
-But as for me, I will look to the LORD; I will wait for the God of my salvation. My God will hear me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.6|<< Micah 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.8|Micah 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

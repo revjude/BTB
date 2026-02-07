@@ -1,4 +1,4 @@
-**Joshua 19:21** 
+**Joshua 19:21**<big><big>[[Josh.19.17 Issachar’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Remeth, and Engannim, and Enhaddah, and Bethpazzez;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remeth, En-gannim, En-haddah, and Beth-pazzez.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.20|<< Joshua 19:20]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.22|Joshua 19:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Remeth  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7432\|רֶ֧מֶת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Re.met<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and En  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5873H\|עֵין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ein-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

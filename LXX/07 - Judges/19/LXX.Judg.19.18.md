@@ -1,10 +1,7 @@
 **LXX Judges 19:18** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, We are passing over from Beth-lehem of Judah unto \[the\] side of mount Ephraim. And I am from there, and I went unto Beth-lehem of Judah, and I run to my house; but there is no man bringing me into  a house. 
-<small><sub>**KJV:**</sub></small>
-And he said unto him, We [are] passing from Bethlehemjudah toward the side of mount Ephraim; from thence [am] I: and I went to Bethlehemjudah, but I [am now] going to the house of the LORD; and there [is] no man that receiveth me to house.
-<small><sub>**BSB:**</sub></small>
-The Levite replied, “We are traveling from Bethlehem in Judah to the remote hill country of Ephraim, where I am from. I went to Bethlehem in Judah, and now I am going to the house of the LORD; but no one has taken me into his home,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.17|<< Judges 19:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.19|Judges 19:19 >>]]</td></tr></table>
 
 | Translation | Greek |

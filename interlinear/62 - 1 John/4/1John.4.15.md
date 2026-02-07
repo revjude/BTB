@@ -1,12 +1,12 @@
-**1 John 4:15
-**<small><sub>**KJV:**</sub></small>
+**1 John 4:15**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God.
 <small><sub>**BSB:**</sub></small>
 If anyone confesses that Jesus is the Son of God, God abides in him, and he in God.
 <small><sub>**Literal:**</sub></small>
 Who[ever] maybe shall confess that Jesus Christ is the Son <the> of God, <the> God in him abides and he in <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.14|<< 1 John 4:14]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.16|1 John 4:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | maybe [^1] |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 19:10** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] blood of \[the\] innocent shall not be poured out in the land which \[the\] <span class="smallcaps">lord</span>  your God gives to you by lot, and there will not be among you blood liability. 
-<small><sub>**KJV:**</sub></small>
-That innocent blood be not shed in thy land, which the LORD thy God giveth thee [for] an inheritance, and [so] blood be upon thee.
-<small><sub>**BSB:**</sub></small>
-Thus innocent blood will not be shed in the land that the LORD your God is giving you as an inheritance, so that you will not be guilty of bloodshed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.9|<< Deuteronomy 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.11|Deuteronomy 19:11 >>]]</td></tr></table>
 
 | Translation | Greek |

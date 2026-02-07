@@ -1,10 +1,7 @@
 **LXX Leviticus 1:16** 
 <small><sub>**LXX:**</sub></small>
 And he shall remove the crop with the feathers, and cast them by the altar according to \[the\] east, into the place of the ashes. 
-<small><sub>**KJV:**</sub></small>
-And he shall pluck away his crop with his feathers, and cast it beside the altar on the east part, by the place of the ashes:
-<small><sub>**BSB:**</sub></small>
-And he is to remove the crop with its contents and throw it to the east side of the altar, in the place for ashes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.1.15|<< Leviticus 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.1.17|Leviticus 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

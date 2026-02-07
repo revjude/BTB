@@ -1,4 +1,4 @@
-**Hosea 9:10** 
+**Hosea 9:10**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I found Israel like grapes in the wilderness; I saw your fathers as the firstripe in the fig tree at her first time: [but] they went to Baalpeor, and separated themselves unto [that] shame; and [their] abominations were according as they loved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I found Israel like grapes in the wilderness. I saw your fathers as the firstfru
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.9|<< Hosea 9:9]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.11|Hosea 9:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like grapes  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H6025\|עֲנָבִ֣ים]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.na.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the wilderness  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4057B\|מִּדְבָּ֗ר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

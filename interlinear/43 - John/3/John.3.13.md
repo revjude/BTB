@@ -1,12 +1,12 @@
-**John 3:13
-**<small><sub>**KJV:**</sub></small>
+**John 3:13**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And no man hath ascended up to heaven, but he that came down from heaven, [even] the Son of man which is in heaven.
 <small><sub>**BSB:**</sub></small>
 No one has ascended into heaven except the One who descended from heaven—the Son of Man.
 <small><sub>**Literal:**</sub></small>
 And no [one] has gone up into <the> heaven only except the [One] out of <the> heaven having come down, the Son <the> of Man who is being in <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.12|<< John 3:12]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.14|John 3:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | no [one] |**<big>[[G3762\|οὐδεὶς]]</big>**  |oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

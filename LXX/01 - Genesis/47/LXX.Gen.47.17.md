@@ -1,10 +1,7 @@
 **LXX Genesis 47:17** 
 <small><sub>**LXX:**</sub></small>
 And they led  their cattle to Joseph. And Joseph gave to them bread loaves in return for the horses, and for the sheep, and for the oxen, and for the donkeys. And he nourished them with bread loaves in exchange for all  of their cattle in  that year. 
-<small><sub>**KJV:**</sub></small>
-And they brought their cattle unto Joseph: and Joseph gave them bread [in exchange] for horses, and for the flocks, and for the cattle of the herds, and for the asses: and he fed them with bread for all their cattle for that year.
-<small><sub>**BSB:**</sub></small>
-So they brought their livestock to Joseph, and he gave them food in exchange for their horses, their flocks and herds, and their donkeys. Throughout that year he provided them with food in exchange for all their livestock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.16|<< Genesis 47:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.18|Genesis 47:18 >>]]</td></tr></table>
 
 | Translation | Greek |

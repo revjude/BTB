@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:18** 
 <small><sub>**LXX:**</sub></small>
 Damascus \[was\] your trade in \[the\] abundance of your works, from an abundance of your power; wine from Helbon, and shining wool from Miletus. 
-<small><sub>**KJV:**</sub></small>
-Damascus [was] thy merchant in the multitude of the wares of thy making, for the multitude of all riches; in the wine of Helbon, and white wool.
-<small><sub>**BSB:**</sub></small>
-Because of your many products and your great wealth of goods, Damascus traded with you wine from Helbon, wool from Zahar,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.17|<< Ezekiel 27:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.19|Ezekiel 27:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 4:16** 
 <small><sub>**LXX:**</sub></small>
 Give charge to the priests  lifting the ark of the covenant of the testimony! to go up out of the Jordan. 
-<small><sub>**KJV:**</sub></small>
-Command the priests that bear the ark of the testimony, that they come up out of Jordan.
-<small><sub>**BSB:**</sub></small>
-“Command the priests who carry the ark of the Testimony to come up from the Jordan.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.15|<< Joshua 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.17|Joshua 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 28:12** 
 <small><sub>**LXX:**</sub></small>
 And you shall put the two stones upon the shoulders of the shoulder-piece. They are stones of memorial to the sons of Israel. And Aaron shall lift up the names of the sons of Israel before \[the\] <span class="smallcaps">lord</span> upon  his two shoulders, \[as a\] memorial for them. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt put the two stones upon the shoulders of the ephod [for] stones of memorial unto the children of Israel: and Aaron shall bear their names before the LORD upon his two shoulders for a memorial.
-<small><sub>**BSB:**</sub></small>
-Fasten both stones on the shoulder pieces of the ephod as memorial stones for the sons of Israel. Aaron is to bear their names on his two shoulders as a memorial before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.11|<< Exodus 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.13|Exodus 28:13 >>]]</td></tr></table>
 
 | Translation | Greek |

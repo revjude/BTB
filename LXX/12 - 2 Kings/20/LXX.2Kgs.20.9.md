@@ -1,10 +1,7 @@
 **LXX 2 Kings 20:9** 
 <small><sub>**LXX:**</sub></small>
 And Isaiah said, This to you \[is\] the sign by \[the\] <span class="smallcaps">lord</span>, that \[the\] <span class="smallcaps">lord</span> shall do the word which he spoke. the shadow go ten stairs or shall it return ten stairs. 
-<small><sub>**KJV:**</sub></small>
-And Isaiah said, This sign shalt thou have of the LORD, that the LORD will do the thing that he hath spoken: shall the shadow go forward ten degrees, or go back ten degrees?
-<small><sub>**BSB:**</sub></small>
-And Isaiah had replied, “This will be a sign to you from the LORD that He will do what He has promised: Would you like the shadow to go forward ten steps, or back ten steps?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.20.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.8|<< 2 Kings 20:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.10|2 Kings 20:10 >>]]</td></tr></table>
 
 | Translation | Greek |

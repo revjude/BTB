@@ -1,10 +1,7 @@
 **LXX Exodus 16:31** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel named it -- the name of it, Manna. And it was as \[the\] seed of coriander -- white. And the taste of it \[was\] as pastry with honey. 
-<small><sub>**KJV:**</sub></small>
-And the house of Israel called the name thereof Manna: and it [was] like coriander seed, white; and the taste of it [was] like wafers [made] with honey.
-<small><sub>**BSB:**</sub></small>
-Now the house of Israel called the bread manna. It was white like coriander seed and tasted like wafers made with honey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.30|<< Exodus 16:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.32|Exodus 16:32 >>]]</td></tr></table>
 
 | Translation | Greek |

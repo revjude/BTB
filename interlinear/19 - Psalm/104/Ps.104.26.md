@@ -1,4 +1,4 @@
-**Psalms 104:26** 
+**Psalms 104:26**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There go the ships: [there is] that leviathan, [whom] thou hast made to play therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There the ships pass, and Leviathan, which You formed to frolic there.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.25|<< Psalms 104:25]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.27|Psalms 104:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֭ם]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ships  |**<big>&#8207;[[H0591\|אֳנִיּ֣וֹת]]&#8207; </big>**| 'o.ni.Yot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

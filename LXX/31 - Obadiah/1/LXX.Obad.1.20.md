@@ -1,10 +1,7 @@
 **LXX Obadiah 1:20** 
 <small><sub>**LXX:**</sub></small>
 And the displacement  of this company to the sons of Israel \[shall inherit\] that of the Canaanites, unto Zarephath; and the displacement of Jerusalem, unto Ephratah, shall inherit the cities of the Negev. 
-<small><sub>**KJV:**</sub></small>
-And the captivity of this host of the children of Israel [shall possess] that of the Canaanites, [even] unto Zarephath; and the captivity of Jerusalem, which [is] in Sepharad, shall possess the cities of the south.
-<small><sub>**BSB:**</sub></small>
-And the exiles of this host of the Israelites will possess the land of the Canaanites as far as Zarephath; and the exiles from Jerusalem who are in Sepharad will possess the cities of the Negev.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Obad.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.19|<< Obadiah 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.21|Obadiah 1:21 >>]]</td></tr></table>
 
 | Translation | Greek |

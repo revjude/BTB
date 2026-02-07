@@ -1,10 +1,7 @@
 **LXX Genesis 27:27** 
 <small><sub>**LXX:**</sub></small>
 And approaching, he kissed him. And he smelled the scent  of his garments, and blessed him, and said, Behold, \[the\] scent  of my son \[is\] as \[the\] scent of a full field which \[the\] <span class="smallcaps">lord</span> blessed; 
-<small><sub>**KJV:**</sub></small>
-And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son [is] as the smell of a field which the LORD hath blessed:
-<small><sub>**BSB:**</sub></small>
-So he came near and kissed him. When Isaac smelled his clothing, he blessed him and said: “Ah, the smell of my son is like the smell of a field that the LORD has blessed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.26|<< Genesis 27:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.28|Genesis 27:28 >>]]</td></tr></table>
 
 | Translation | Greek |

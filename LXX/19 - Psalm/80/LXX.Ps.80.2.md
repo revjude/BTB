@@ -1,10 +1,7 @@
 **LXX Psalm 80:2** 
 <small><sub>**LXX:**</sub></small>
 Before Ephraim, and Benjamin, and Manasseh -- awaken  your might, and come for the delivering us! 
-<small><sub>**KJV:**</sub></small>
-Before Ephraim and Benjamin and Manasseh stir up thy strength, and come [and] save us.
-<small><sub>**BSB:**</sub></small>
-before Ephraim, Benjamin, and Manasseh. Rally Your mighty power and come to save us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.80.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.1|<< Psalm 80:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.3|Psalm 80:3 >>]]</td></tr></table>
 
 | Translation | Greek |

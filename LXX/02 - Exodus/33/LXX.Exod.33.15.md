@@ -1,10 +1,7 @@
 **LXX Exodus 33:15** 
 <small><sub>**LXX:**</sub></small>
 And he says to him, Unless you yourself should go with us, lead not me from here. 
-<small><sub>**KJV:**</sub></small>
-And he said unto him, If thy presence go not [with me], carry us not up hence.
-<small><sub>**BSB:**</sub></small>
-“If Your Presence does not go with us,” Moses replied, “do not lead us up from here.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.14|<< Exodus 33:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.16|Exodus 33:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 32:38** 
+**Numbers 32:38**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Nebo, and Baalmeon, (their names being changed,) and Shibmah: and gave other names unto the cities which they builded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ as well as Nebo and Baal-meon (whose names were changed), and Sibmah. And they r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.37|<< Numbers 32:37]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.39|Numbers 32:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Nebo  |**<big>&#8207;[[H5015A\|נְב֞וֹ]]&#8207; </big>**| ne.Vo<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

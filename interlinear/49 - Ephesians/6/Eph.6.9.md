@@ -1,5 +1,5 @@
-**Ephesians 6:9
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:9**<big><big>[[Eph.6.5 Serving with Honor|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.
 <small><sub>**BSB:**</sub></small>
 And masters, do the same for your slaves. Give up your use of threats, because you know that He who is both their Master and yours is in heaven, and there is no favoritism with Him.
@@ -10,7 +10,7 @@ And you who [are] masters, the [same things] them do perform toward them giving 
 > $\quad$ alluding to: [[LXX.Deut.10.17|Deut 10:17]] ☩ [[LXX.Job.34.19|Job 34:19]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you who [are] |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

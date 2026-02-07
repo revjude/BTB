@@ -1,4 +1,4 @@
-**Ezekiel 40:19** 
+**Ezekiel 40:19**<big><big>[[Ezek.40.17 The Outer Court|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he measured the breadth from the forefront of the lower gate unto the forefront of the inner court without, an hundred cubits eastward and northward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he measured the distance from the front of the lower gateway to the outside
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.18|<< Ezekiel 40:18]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.20|Ezekiel 40:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he measured  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4058\|יָּ֣מָד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] breadth  |**<big>&#8207;[[H7341\|רֹ֡חַב]]&#8207; </big>**| Ro.chav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

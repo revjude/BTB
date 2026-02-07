@@ -1,12 +1,12 @@
-**Mark 10:42
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:42**<big><big>[[Mark.10.35 The Request of James and John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Jesus called them [to him], and saith unto them, Ye know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them.
 <small><sub>**BSB:**</sub></small>
 So Jesus called them together and said, “You know that those regarded as rulers of the Gentiles lord it over them, and their superiors exercise authority over them.
 <small><sub>**Literal:**</sub></small>
 <the> And now having called near them <the> Jesus says to them; You know that those being accounted to rule over the Gentiles exercise lordship over them, and those great ones of them exercise authority over them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.41|<< Mark 10:41]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.43|Mark 10:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

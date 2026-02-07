@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:20** 
 <small><sub>**LXX:**</sub></small>
 And they went from nation to nation, and from kingdom to another people. 
-<small><sub>**KJV:**</sub></small>
-And [when] they went from nation to nation, and from [one] kingdom to another people;
-<small><sub>**BSB:**</sub></small>
-they wandered from nation to nation, from one kingdom to another.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.19|<< 1 Chronicles 16:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.21|1 Chronicles 16:21 >>]]</td></tr></table>
 
 | Translation | Greek |

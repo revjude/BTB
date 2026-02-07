@@ -1,10 +1,7 @@
 **LXX Psalm 19:11** 
 <small><sub>**LXX:**</sub></small>
 For also  your servant guards them; in the guarding of them \[there is\] great reward. 
-<small><sub>**KJV:**</sub></small>
-Moreover by them is thy servant warned: [and] in keeping of them [there is] great reward.
-<small><sub>**BSB:**</sub></small>
-By them indeed Your servant is warned; in keeping them is great reward.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.19.10|<< Psalm 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.12|Psalm 19:12 >>]]</td></tr></table>
 
 | Translation | Greek |

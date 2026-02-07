@@ -1,5 +1,5 @@
-**2 Corinthians 6:18
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 6:18**<big><big>[[2Cor.6.14 Do Not Be Unequally Yoked|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.
 <small><sub>**BSB:**</sub></small>
 And: “I will be a Father to you, and you will be My sons and daughters, says the Lord Almighty.”
@@ -11,7 +11,7 @@ and I will be to you for a father and you yourselves will be to Me for sons and 
 > $\quad$ alluding to: [[LXX.Isa.43.6|Isa 43:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I will be |**<big>[[G1510\|ἔσομαι]]</big>**  |esomai <small><sup>[[V-FDI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

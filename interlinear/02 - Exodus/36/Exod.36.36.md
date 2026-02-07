@@ -1,4 +1,4 @@
-**Exodus 36:36** 
+**Exodus 36:36**<big><big>[[Exod.36.35 The Veil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made thereunto four pillars [of] shittim [wood], and overlaid them with gold: their hooks [were of] gold; and he cast for them four sockets of silver.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also made four posts of acacia wood for it and overlaid them with gold, along
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.35|<< Exodus 36:35]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.37|Exodus 36:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֣עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> it  |**<big>&#8207;[[H9005\|לָ֗]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

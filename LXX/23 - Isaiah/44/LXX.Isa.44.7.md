@@ -1,10 +1,7 @@
 **LXX Isaiah 44:7** 
 <small><sub>**LXX:**</sub></small>
 Who \[is\] as I? Let him stand, and call, and announce, and prepare for me from which \[time\] I made man into the eon! And the \[things\] coming before  \[their\] coming \[to pass\] let them announce to you! 
-<small><sub>**KJV:**</sub></small>
-And who, as I, shall call, and shall declare it, and set it in order for me, since I appointed the ancient people? and the things that are coming, and shall come, let them shew unto them.
-<small><sub>**BSB:**</sub></small>
-Who then is like Me? Let him say so! Let him declare his case before Me, since I established an ancient people. Let him foretell the things to come, and what is to take place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.6|<< Isaiah 44:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.8|Isaiah 44:8 >>]]</td></tr></table>
 
 | Translation | Greek |

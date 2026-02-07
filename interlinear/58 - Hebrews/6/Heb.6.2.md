@@ -1,12 +1,12 @@
-**Hebrews 6:2
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 6:2**<big><big>[[Heb.6.1 A Call to Maturity|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.
 <small><sub>**BSB:**</sub></small>
 instruction about baptisms, the laying on of hands, the resurrection of the dead, and eternal judgment.
 <small><sub>**Literal:**</sub></small>
 about baptisms about teaching, about laying on then of hands, about [the] resurrection both of [the] dead and about judgment eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.1|<< Hebrews 6:1]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.3|Hebrews 6:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | about baptisms |**<big>[[G0909\|βαπτισμῶν]]</big>**  |baptismōn <small><sup>[[N-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | about teaching, [^1] |**<big>[[G1322\|διδαχῆς,]]</big>**  |didachēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+Treg+TR+Byz">NK(o)</abbr> | |

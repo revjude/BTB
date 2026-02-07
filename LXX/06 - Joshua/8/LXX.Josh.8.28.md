@@ -1,10 +1,7 @@
 **LXX Joshua 8:28** 
 <small><sub>**LXX:**</sub></small>
 And Joshua burned the city by fire, and he established it for an embankment into the eon, uninhabited until  this day. 
-<small><sub>**KJV:**</sub></small>
-And Joshua burnt Ai, and made it an heap for ever, [even] a desolation unto this day.
-<small><sub>**BSB:**</sub></small>
-So Joshua burned Ai and made it a permanent heap of ruins, a desolation to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.27|<< Joshua 8:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.29|Joshua 8:29 >>]]</td></tr></table>
 
 | Translation | Greek |

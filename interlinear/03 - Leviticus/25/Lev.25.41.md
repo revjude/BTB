@@ -1,4 +1,4 @@
-**Leviticus 25:41** 
+**Leviticus 25:41**<big><big>[[Lev.25.39 Redemption of Bondmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [then] shall he depart from thee, [both] he and his children with him, and shall return unto his own family, and unto the possession of his fathers shall he return.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he and his children are to be released, and he may return to his clan and t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.40|<< Leviticus 25:40]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.42|Leviticus 25:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will go out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318G\|יָצָא֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Tza'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from with \<the> you  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H5973B\|עִמָּ֔]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'i.Ma<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

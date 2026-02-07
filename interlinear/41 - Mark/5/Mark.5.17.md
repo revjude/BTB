@@ -1,12 +1,12 @@
-**Mark 5:17
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:17**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they began to pray him to depart out of their coasts.
 <small><sub>**BSB:**</sub></small>
 And the people began to beg Jesus to leave their region.
 <small><sub>**Literal:**</sub></small>
 And they began to implore Him to depart from the region of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.16|<< Mark 5:16]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.18|Mark 5:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they began |**<big>[[G0757\|ἤρξαντο]]</big>**  |ērxanto <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

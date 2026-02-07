@@ -1,10 +1,7 @@
 **LXX Psalm 89:28** 
 <small><sub>**LXX:**</sub></small>
 Into the eon I shall guard to him  my mercy; and  my covenant \[is\] trustworthy to him. 
-<small><sub>**KJV:**</sub></small>
-My mercy will I keep for him for evermore, and my covenant shall stand fast with him.
-<small><sub>**BSB:**</sub></small>
-I will forever preserve My loving devotion for him, and My covenant with him will stand fast.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.27|<< Psalm 89:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.29|Psalm 89:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 59:3** 
+**Isaiah 59:3**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For your hands are defiled with blood, and your fingers with iniquity; your lips have spoken lies, your tongue hath muttered perverseness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For your hands are stained with blood, and your fingers with iniquity; your lips
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.2|<< Isaiah 59:2]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.4|Isaiah 59:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands your  |**<big>&#8207;[[H3709G\|כַפֵּי]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| kha.pei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

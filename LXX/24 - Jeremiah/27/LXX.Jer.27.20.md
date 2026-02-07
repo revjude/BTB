@@ -1,10 +1,7 @@
 **LXX Jeremiah 27:20** 
 <small><sub>**LXX:**</sub></small>
 which \[the\] king of Babylon did not take when he resettled  Jeconiah son of Jehoiakim king of Judah from out of Jerusalem to Babylon, and all the rulers of Judah and Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Which Nebuchadnezzar king of Babylon took not, when he carried away captive Jeconiah the son of Jehoiakim king of Judah from Jerusalem to Babylon, and all the nobles of Judah and Jerusalem;
-<small><sub>**BSB:**</sub></small>
-which Nebuchadnezzar king of Babylon did not take when he carried Jeconiah son of Jehoiakim king of Judah into exile from Jerusalem to Babylon, along with all the nobles of Judah and Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.27.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.19|<< Jeremiah 27:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.21|Jeremiah 27:21 >>]]</td></tr></table>
 
 | Translation | Greek |

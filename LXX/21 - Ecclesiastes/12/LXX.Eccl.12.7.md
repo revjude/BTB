@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 12:7** 
 <small><sub>**LXX:**</sub></small>
 then the dust shall return upon the earth as it was; and the spirit should return to the God who gave it. 
-<small><sub>**KJV:**</sub></small>
-Then shall the dust return to the earth as it was: and the spirit shall return unto God who gave it.
-<small><sub>**BSB:**</sub></small>
-before the dust returns to the ground from which it came and the spirit returns to God who gave it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.6|<< Ecclesiastes 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.8|Ecclesiastes 12:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Zechariah 4:5** 
+**Zechariah 4:5**<big><big>[[Zech.4.1 The Vision of the Lampstand and Olive Trees|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the angel that talked with me answered and said unto me, Knowest thou not what these be? And I said, No, my lord.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the angel that talked with me answered and said unto me, Knowest thou not w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4.4|<< Zechariah 4:4]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.6|Zechariah 4:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H6030B\|יַּעַן]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the angel  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4397H\|מַּלְאָ֞ךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mal.'Akh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

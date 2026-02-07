@@ -1,5 +1,5 @@
-**2 Corinthians 4:6
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 4:6**<big><big>[[2Cor.4.1 The Light of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For God, who commanded the light to shine out of darkness, hath shined in our hearts, to [give] the light of the knowledge of the glory of God in the face of Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 For God, who said, “Let light shine out of darkness,” made His light shine in our hearts to give us the light of the knowledge of the glory of God in the face of Jesus Christ.
@@ -10,7 +10,7 @@ For [it is] <the> God <the> having said Out of darkness light will shine, who sh
 > $\quad$ referencing: [[LXX.Gen.1.3|Gen 1:3-4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For [it is] |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 45:27** 
 <small><sub>**LXX:**</sub></small>
 And they spoke to him all the sayings of Joseph, as much as he said to them. And seeing the wagons which Joseph sent, so as to take him, the spirit of Jacob their father rekindled. 
-<small><sub>**KJV:**</sub></small>
-And they told him all the words of Joseph, which he had said unto them: and when he saw the wagons which Joseph had sent to carry him, the spirit of Jacob their father revived:
-<small><sub>**BSB:**</sub></small>
-However, when they relayed all that Joseph had told them, and when he saw the wagons that Joseph had sent to carry him back, the spirit of their father Jacob was revived.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.26|<< Genesis 45:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.28|Genesis 45:28 >>]]</td></tr></table>
 
 | Translation | Greek |

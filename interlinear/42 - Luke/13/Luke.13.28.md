@@ -1,12 +1,12 @@
-**Luke 13:28
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:28**<big><big>[[Luke.13.22 The Narrow Door|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you [yourselves] thrust out.
 <small><sub>**BSB:**</sub></small>
 There will be weeping and gnashing of teeth when you see Abraham, Isaac, Jacob, and all the prophets in the kingdom of God, but you yourselves are thrown out.
 <small><sub>**Literal:**</sub></small>
 There will be the weeping and the gnashing of the teeth when you may behold Abraham and Isaac and Jacob and all the prophets in the kingdom <the> of God, you however are being cast out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.27|<< Luke 13:27]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.29|Luke 13:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There |**<big>[[G1563\|ἐκεῖ]]</big>**  |ekei <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will be |**<big>[[G1510\|ἔσται]]</big>**  |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

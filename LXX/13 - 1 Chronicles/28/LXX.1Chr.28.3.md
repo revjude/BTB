@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 28:3** 
 <small><sub>**LXX:**</sub></small>
 And  God said, You shall not build to me a house  to name  my name upon it, for you are a man of war, and you poured out blood. 
-<small><sub>**KJV:**</sub></small>
-But God said unto me, Thou shalt not build an house for my name, because thou [hast been] a man of war, and hast shed blood.
-<small><sub>**BSB:**</sub></small>
-but God said to me, ‘You are not to build a house for My Name, because you are a man of war who has shed blood.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.2|<< 1 Chronicles 28:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.4|1 Chronicles 28:4 >>]]</td></tr></table>
 
 | Translation | Greek |

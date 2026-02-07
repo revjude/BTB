@@ -1,4 +1,4 @@
-**Isaiah 51:6** 
+**Isaiah 51:6**<big><big>[[Isa.51.1 Salvation for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift up your eyes to the heavens, and look upon the earth beneath: for the heavens shall vanish away like smoke, and the earth shall wax old like a garment, and they that dwell therein shall die in like manner: but my salvation shall be for ever, and my righteousness shall not be abolished.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Lift up your eyes to the heavens, and look at the earth below; for the heavens w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.5|<< Isaiah 51:5]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.7|Isaiah 51:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lift up  |**<big>&#8207;[[H5375M\|שְׂאוּ֩]]&#8207; </big>**| se.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the heavens  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֨יִם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

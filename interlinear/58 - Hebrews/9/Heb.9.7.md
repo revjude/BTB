@@ -1,5 +1,5 @@
-**Hebrews 9:7
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:7**<big><big>[[Heb.9.1 The Earthly Tabernacle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But into the second [went] the high priest alone once every year, not without blood, which he offered for himself, and [for] the errors of the people:
 <small><sub>**BSB:**</sub></small>
 But only the high priest entered the second room, and then only once a year, and never without blood, which he offered for himself and for the sins the people had committed in ignorance.
@@ -10,7 +10,7 @@ But only the high priest entered the second room, and then only once a year, and
 > $\quad$ alluding to: [[LXX.Exod.30.10|Exod 30:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [Enters] into |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

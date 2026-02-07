@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΑΙΝ</p>
 
 All our enemies opened wide their mouth against us. 
-<small><sub>**KJV:**</sub></small>
-All our enemies have opened their mouths against us.
-<small><sub>**BSB:**</sub></small>
-All our enemies open their mouths against us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.45|<< Lamentations 3:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.47|Lamentations 3:47 >>]]</td></tr></table>
 
 | Translation | Greek |

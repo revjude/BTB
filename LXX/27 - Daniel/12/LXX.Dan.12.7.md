@@ -1,10 +1,7 @@
 **LXX Daniel 12:7** 
 <small><sub>**LXX:**</sub></small>
 And I heard the man, of the one being clothed \[with\] the linen clothes, who was upon the water of the river. And he raised up high  his right \[hand\], and  his left unto the heaven. And he swore an oath to the one living into the eon, that for a time and times and half a time, in the completing \[the\] dispersing hand of people having been sanctified, they shall know all these things. 
-<small><sub>**KJV:**</sub></small>
-And I heard the man clothed in linen, which [was] upon the waters of the river, when he held up his right hand and his left hand unto heaven, and sware by him that liveth for ever that [it shall be] for a time, times, and an half; and when he shall have accomplished to scatter the power of the holy people, all these [things] shall be finished.
-<small><sub>**BSB:**</sub></small>
-And the man dressed in linen, who was above the waters of the river, raised his right hand and his left hand toward heaven, and I heard him swear by Him who lives forever, saying, “It will be for a time, and times, and half a time. When the power of the holy people has finally been shattered, all these things will be completed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.12.6|<< Daniel 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.12.8|Daniel 12:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 12:7** is...

@@ -6,10 +6,7 @@ To the director; do not utterly destroy; \[to\] David; for an inscription on a m
 
 <small><sub>**LXX:**</sub></small>
 Will truly thus you speak righteousness \[and\] rightly judge, O sons  of men? 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, Altaschith, Michtam of David. Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. To the tune of “Do Not Destroy.” A Miktam of David. Do you indeed speak justly, O rulers? Do you judge uprightly, O sons of men?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.58.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.57.11|<< Psalm 57:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.58.2|Psalm 58:2 >>]]</td></tr></table>
 
 | Translation | Greek |

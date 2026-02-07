@@ -1,12 +1,12 @@
-**John 4:52
-**<small><sub>**KJV:**</sub></small>
+**John 4:52**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then inquired he of them the hour when he began to amend. And they said unto him, Yesterday at the seventh hour the fever left him.
 <small><sub>**BSB:**</sub></small>
 So he inquired as to the hour when his son had recovered, and they told him, “The fever left him yesterday at the seventh hour.”
 <small><sub>**Literal:**</sub></small>
 He inquired therefore the hour from them in which better he got. and They said therefore to him that Yesterday at hour seventh left him the fever.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.51|<< John 4:51]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.53|John 4:53 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He inquired |**<big>[[G4441\|ἐπύθετο]]</big>**  |eputheto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

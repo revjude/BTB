@@ -1,12 +1,12 @@
-**Colossians 1:3
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:3**<big><big>[[Col.1.3 Thanksgiving and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,
 <small><sub>**BSB:**</sub></small>
 We always thank God, the Father of our Lord Jesus Christ, when we pray for you,
 <small><sub>**Literal:**</sub></small>
 We give thanks to the God and Father of the Lord of us Jesus Christ continually for you praying,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.2|<< Colossians 1:2]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.4|Colossians 1:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We give thanks |**<big>[[G2168\|Εὐχαριστοῦμεν]]</big>**  |Eucharistoumen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

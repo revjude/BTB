@@ -1,10 +1,7 @@
 **LXX 2 Samuel 21:13** 
 <small><sub>**LXX:**</sub></small>
 And he bore from there the bones of Saul, and the bones of Jonathan  his son, and he gathered the bones of the ones hanging in the sun. 
-<small><sub>**KJV:**</sub></small>
-And he brought up from thence the bones of Saul and the bones of Jonathan his son; and they gathered the bones of them that were hanged.
-<small><sub>**BSB:**</sub></small>
-So David had the bones of Saul and his son Jonathan brought from there, and they also gathered the bones of those who had been hanged.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.12|<< 2 Samuel 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.14|2 Samuel 21:14 >>]]</td></tr></table>
 
 | Translation | Greek |

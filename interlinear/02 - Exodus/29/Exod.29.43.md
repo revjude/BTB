@@ -1,4 +1,4 @@
-**Exodus 29:43** 
+**Exodus 29:43**<big><big>[[Exod.29.38 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there I will meet with the children of Israel, and [the tabernacle] shall be sanctified by my glory.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will also meet with the Israelites there, and that place will be consecrated b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.42|<< Exodus 29:42]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.44|Exodus 29:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will meet  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3259\|נֹעַדְתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> no.'ad.Ti<small><sup>[[HVNq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there \<towards>  |**<big>&#8207;[[H8033G\|שָׁ֖מָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

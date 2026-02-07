@@ -1,10 +1,7 @@
 **LXX 2 Samuel 10:6** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Ammon saw that the people of David was disgraced, and the sons of Ammon sent, and they hired the Syrian of Beth-rehob, and the Syrian of Zoba -- twenty thousand footmen, and the king of Maacah -- a thousand men, and the one of Tob -- twelve thousand men. 
-<small><sub>**KJV:**</sub></small>
-And when the children of Ammon saw that they stank before David, the children of Ammon sent and hired the Syrians of Bethrehob, and the Syrians of Zoba, twenty thousand footmen, and of king Maacah a thousand men, and of Ishtob twelve thousand men.
-<small><sub>**BSB:**</sub></small>
-When the Ammonites realized that they had become a stench to David, they hired twenty thousand Aramean foot soldiers from Beth-rehob and Zoba, as well as a thousand men from the king of Maacah and twelve thousand men from Tob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.5|<< 2 Samuel 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.7|2 Samuel 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

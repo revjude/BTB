@@ -1,4 +1,4 @@
-**Joshua 19:6** 
+**Joshua 19:6**<big><big>[[Josh.19.1 Simeon’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Bethlebaoth, and Sharuhen; thirteen cities and their villages:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Beth-lebaoth, and Sharuhen—thirteen cities, along with their villages.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.5|<< Joshua 19:5]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.7|Joshua 19:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Beth  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1034\|בֵ֥ית]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Veit<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Lebaoth  |**<big>&#8207;[[H1034\|לְבָא֖וֹת]]&#8207; </big>**| le.va.'ot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

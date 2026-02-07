@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:6** 
 <small><sub>**LXX:**</sub></small>
 And Amnon went to bed, and became as ill. And the king entered to see him. And Amnon said to the king, indeed Tamar my sister come to me! and let \[her\] bake two biscuits before my eyes! and I will eat from  her hand. 
-<small><sub>**KJV:**</sub></small>
-So Amnon lay down, and made himself sick: and when the king was come to see him, Amnon said unto the king, I pray thee, let Tamar my sister come, and make me a couple of cakes in my sight, that I may eat at her hand.
-<small><sub>**BSB:**</sub></small>
-So Amnon lay down and feigned illness. When the king came to see him, Amnon said, “Please let my sister Tamar come and make a couple of cakes in my sight, so that I may eat from her hand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.5|<< 2 Samuel 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.7|2 Samuel 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

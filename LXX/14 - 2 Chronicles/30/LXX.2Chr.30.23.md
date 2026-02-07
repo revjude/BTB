@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:23** 
 <small><sub>**LXX:**</sub></small>
 And all the assembly counseled to observe another seven days. And they observed another seven days with gladness. 
-<small><sub>**KJV:**</sub></small>
-And the whole assembly took counsel to keep other seven days: and they kept [other] seven days with gladness.
-<small><sub>**BSB:**</sub></small>
-The whole assembly agreed to observe seven more days, so they observed seven days with joy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.22|<< 2 Chronicles 30:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.24|2 Chronicles 30:24 >>]]</td></tr></table>
 
 | Translation | Greek |

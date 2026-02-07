@@ -1,12 +1,12 @@
-**Matthew 11:1
-**<small><sub>**KJV:**</sub></small>
+**Matthew 11:1**<big><big>[[Matt.11.1 John’s Inquiry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities.
 <small><sub>**BSB:**</sub></small>
 After Jesus had finished instructing His twelve disciples, He went on from there to teach and preach in their cities.
 <small><sub>**Literal:**</sub></small>
 And it came to pass when finished <the> Jesus commanding the twelve disciples of Him, He departed from there <the> to teach and to preach in the cities of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.42|<< Matthew 10:42]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.2|Matthew 11:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

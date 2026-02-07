@@ -1,10 +1,7 @@
 **LXX Jeremiah 17:16** 
 <small><sub>**LXX:**</sub></small>
 But I tired not following closely after you; and \[the\] day of man I desired not. You have knowledge of the \[things\] having gone forth through  my lips; it is before your face. 
-<small><sub>**KJV:**</sub></small>
-As for me, I have not hastened from [being] a pastor to follow thee: neither have I desired the woeful day; thou knowest: that which came out of my lips was [right] before thee.
-<small><sub>**BSB:**</sub></small>
-But I have not run away from being Your shepherd; I have not desired the day of despair. You know that the utterance of my lips was spoken in Your presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.15|<< Jeremiah 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.17|Jeremiah 17:17 >>]]</td></tr></table>
 
 | Translation | Greek |

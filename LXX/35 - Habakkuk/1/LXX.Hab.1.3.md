@@ -1,10 +1,7 @@
 **LXX Habakkuk 1:3** 
 <small><sub>**LXX:**</sub></small>
 Why did you show to me toils and troubles, to look upon misery and impiety? Right opposite me takes place judgment, and the judge takes away. 
-<small><sub>**KJV:**</sub></small>
-Why dost thou shew me iniquity, and cause [me] to behold grievance? for spoiling and violence [are] before me: and there are [that] raise up strife and contention.
-<small><sub>**BSB:**</sub></small>
-Why do You make me see iniquity? Why do You tolerate wrongdoing? Destruction and violence are before me. Strife is ongoing, and conflict abounds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.2|<< Habakkuk 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.4|Habakkuk 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

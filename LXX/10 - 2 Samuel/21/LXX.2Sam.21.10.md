@@ -1,10 +1,7 @@
 **LXX 2 Samuel 21:10** 
 <small><sub>**LXX:**</sub></small>
 And Rizpah daughter of Aiah took  sackcloth, and she strew a bed for herself upon the rock from \[the\] beginning of \[the\] barley harvest until of which \[time\] waters dripped upon them from God from  heaven. And she did not allow the birds of the heaven to rest upon them \[by\] day, nor the wild beasts of the field \[by\] night. 
-<small><sub>**KJV:**</sub></small>
-And Rizpah the daughter of Aiah took sackcloth, and spread it for her upon the rock, from the beginning of harvest until water dropped upon them out of heaven, and suffered neither the birds of the air to rest on them by day, nor the beasts of the field by night.
-<small><sub>**BSB:**</sub></small>
-And Rizpah the daughter of Aiah took sackcloth and spread it out for herself on a rock. From the beginning of the harvest until the rain from heaven poured down on the bodies, she did not allow the birds of the air to rest on them by day, nor the beasts of the field by night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.9|<< 2 Samuel 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.11|2 Samuel 21:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:16** 
 <small><sub>**LXX:**</sub></small>
 Give to the <span class="smallcaps">lord</span> your God glory! before the darkening, and before the stumbling  of your feet upon dark mountains. And you shall await for light, and there \[is\] \[the\] shadow of death, and they shall be put into darkness. 
-<small><sub>**KJV:**</sub></small>
-Give glory to the LORD your God, before he cause darkness, and before your feet stumble upon the dark mountains, and, while ye look for light, he turn it into the shadow of death, [and] make [it] gross darkness.
-<small><sub>**BSB:**</sub></small>
-Give glory to the LORD your God before He brings darkness, before your feet stumble on the dusky mountains. You wait for light, but He turns it into deep gloom and thick darkness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.15|<< Jeremiah 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.17|Jeremiah 13:17 >>]]</td></tr></table>
 
 | Translation | Greek |

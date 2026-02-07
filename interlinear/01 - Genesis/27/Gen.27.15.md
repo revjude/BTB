@@ -1,4 +1,4 @@
-**Genesis 27:15** 
+**Genesis 27:15**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rebekah took goodly raiment of her eldest son Esau, which [were] with her in the house, and put them upon Jacob her younger son:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Rebekah took the finest clothes in the house that belonged to her older son 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.14|<< Genesis 27:14]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.16|Genesis 27:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|תִּקַּ֣ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Kach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rebekah  |**<big>&#8207;[[H7259\|רִ֠בְקָה]]&#8207; </big>**| Riv.kah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

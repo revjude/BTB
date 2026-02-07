@@ -1,12 +1,12 @@
-**John 18:29
-**<small><sub>**KJV:**</sub></small>
+**John 18:29**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Pilate then went out unto them, and said, What accusation bring ye against this man?
 <small><sub>**BSB:**</sub></small>
 So Pilate went out to them and asked, “What accusation are you bringing against this man?”
 <small><sub>**Literal:**</sub></small>
 Went therefore <the> Pilate out to them and said; What accusation bring you against <the> man this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.28|<< John 18:28]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.30|John 18:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Went |**<big>[[G1831\|ἐξῆλθεν]]</big>**  |exēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

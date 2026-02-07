@@ -1,4 +1,4 @@
-**Ezekiel 43:15** 
+**Ezekiel 43:15**<big><big>[[Ezek.43.13 The Altar of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the altar [shall be] four cubits; and from the altar and upward [shall be] four horns.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The altar hearth shall be four cubits high, and four horns shall project upward 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.14|<< Ezekiel 43:14]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.16|Ezekiel 43:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the altar hearth  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2025\|הַרְאֵ֖ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> har.'El<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] four  |**<big>&#8207;[[H0702\|אַרְבַּ֣ע]]&#8207; </big>**| 'ar.Ba'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

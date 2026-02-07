@@ -1,10 +1,7 @@
 **LXX Deuteronomy 20:15** 
 <small><sub>**LXX:**</sub></small>
 Thus you shall do for all the cities  being far away from you exceedingly, which are not from the cities  of these nations which \[the\] <span class="smallcaps">lord</span>  your God gives to you to inherit  their land. 
-<small><sub>**KJV:**</sub></small>
-Thus shalt thou do unto all the cities [which are] very far off from thee, which [are] not of the cities of these nations.
-<small><sub>**BSB:**</sub></small>
-This is how you are to treat all the cities that are far away from you and do not belong to the nations nearby.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.14|<< Deuteronomy 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.16|Deuteronomy 20:16 >>]]</td></tr></table>
 
 | Translation | Greek |

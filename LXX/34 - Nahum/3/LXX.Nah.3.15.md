@@ -1,10 +1,7 @@
 **LXX Nahum 3:15** 
 <small><sub>**LXX:**</sub></small>
 There \[the\] fire shall devour you; \[the\] broadsword shall utterly destroy you; it shall devour you as a locust, and you shall be oppressed as a grasshopper. 
-<small><sub>**KJV:**</sub></small>
-There shall the fire devour thee; the sword shall cut thee off, it shall eat thee up like the cankerworm: make thyself many as the cankerworm, make thyself many as the locusts.
-<small><sub>**BSB:**</sub></small>
-There the fire will devour you; the sword will cut you down and consume you like a young locust. Make yourself many like the young locust; make yourself many like the swarming locust!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.14|<< Nahum 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.16|Nahum 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

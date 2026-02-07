@@ -1,10 +1,7 @@
 **LXX Deuteronomy 27:12** 
 <small><sub>**LXX:**</sub></small>
 These shall stand to bless the people in mount Gerizim passing over the Jordan; Simeon, Levi, Judah, Issachar, Joseph, and Benjamin. 
-<small><sub>**KJV:**</sub></small>
-These shall stand upon mount Gerizim to bless the people, when ye are come over Jordan; Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin:
-<small><sub>**BSB:**</sub></small>
-“When you have crossed the Jordan, these tribes shall stand on Mount Gerizim to bless the people: Simeon, Levi, Judah, Issachar, Joseph, and Benjamin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.27.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.27.11|<< Deuteronomy 27:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.27.13|Deuteronomy 27:13 >>]]</td></tr></table>
 
 | Translation | Greek |

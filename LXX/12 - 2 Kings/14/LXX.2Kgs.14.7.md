@@ -1,10 +1,7 @@
 **LXX 2 Kings 14:7** 
 <small><sub>**LXX:**</sub></small>
 He struck  Edom in Gemela -- ten thousand. And he seized  Rock in the war, and he called  its name, Joktheel until  this day. 
-<small><sub>**KJV:**</sub></small>
-He slew of Edom in the valley of salt ten thousand, and took Selah by war, and called the name of it Joktheel unto this day.
-<small><sub>**BSB:**</sub></small>
-Amaziah struck down 10,000 Edomites in the Valley of Salt. He took Sela in battle and called it Joktheel, which is its name to this very day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.6|<< 2 Kings 14:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.8|2 Kings 14:8 >>]]</td></tr></table>
 
 | Translation | Greek |

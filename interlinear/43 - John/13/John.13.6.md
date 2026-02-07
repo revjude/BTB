@@ -1,12 +1,12 @@
-**John 13:6
-**<small><sub>**KJV:**</sub></small>
+**John 13:6**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then cometh he to Simon Peter: and Peter saith unto him, Lord, dost thou wash my feet?
 <small><sub>**BSB:**</sub></small>
 He came to Simon Peter, who asked Him, “Lord, are You going to wash my feet?”
 <small><sub>**Literal:**</sub></small>
 He comes then to Simon Peter; and who says to Him that [question]; Lord, You yourself my do wash <the> feet?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.5|<< John 13:5]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.7|John 13:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He comes |**<big>[[G2064\|Ἔρχεται]]</big>**  |Erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

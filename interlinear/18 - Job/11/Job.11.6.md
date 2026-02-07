@@ -1,4 +1,4 @@
-**Job 11:6** 
+**Job 11:6**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that he would shew thee the secrets of wisdom, that [they are] double to that which is! Know therefore that God exacteth of thee [less] than thine iniquity [deserveth].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and disclose to you the secrets of wisdom, for true wisdom has two sides. Know t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.5|<< Job 11:5]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.7|Job 11:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and may he tell  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5046\|יַגֶּד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.ged-<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֨]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

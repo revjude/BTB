@@ -6,10 +6,7 @@ To the director; a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 Take me, O <span class="smallcaps">lord</span>, from \[the\] wicked man! Rescue me from \[the\] unjust man! 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm of David. Deliver me, O LORD, from the evil man: preserve me from the violent man;
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. A Psalm of David. Rescue me, O LORD, from evil men. Protect me from men of violence,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.140.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.24|<< Psalm 139:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.2|Psalm 140:2 >>]]</td></tr></table>
 
 | Translation | Greek |

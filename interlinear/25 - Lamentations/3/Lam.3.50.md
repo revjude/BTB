@@ -1,4 +1,4 @@
-**Lamentations 3:50** 
+**Lamentations 3:50**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Till the LORD look down, and behold from heaven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ until the LORD looks down from heaven and sees.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.49|<< Lamentations 3:49]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.51|Lamentations 3:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will look down  |**<big>&#8207;[[H8259\|יַשְׁקִ֣יף]]&#8207; </big>**| yash.Kif<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

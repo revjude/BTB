@@ -1,10 +1,7 @@
 **LXX Jeremiah 37:13** 
 <small><sub>**LXX:**</sub></small>
 And he was himself in \[the\] gate of Benjamin. And \[there was\] there a man by whom he rested up, Irijah, son of Shelemiah, son of Hananiah. And he seized  Jeremiah, saying, You \[are\] fleeing to the Chaldeans. 
-<small><sub>**KJV:**</sub></small>
-And when he was in the gate of Benjamin, a captain of the ward [was] there, whose name [was] Irijah, the son of Shelemiah, the son of Hananiah; and he took Jeremiah the prophet, saying, Thou fallest away to the Chaldeans.
-<small><sub>**BSB:**</sub></small>
-But when he reached the Gate of Benjamin, the captain of the guard, whose name was Irijah son of Shelemiah, the son of Hananiah, seized him and said, “You are deserting to the Chaldeans!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.37.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.12|<< Jeremiah 37:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.14|Jeremiah 37:14 >>]]</td></tr></table>
 
 | Translation | Greek |

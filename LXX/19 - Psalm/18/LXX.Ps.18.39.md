@@ -1,10 +1,7 @@
 **LXX Psalm 18:39** 
 <small><sub>**LXX:**</sub></small>
 And you girded me in power for war; you bound hand and foot all the ones rising up against me underneath me. 
-<small><sub>**KJV:**</sub></small>
-For thou hast girded me with strength unto the battle: thou hast subdued under me those that rose up against me.
-<small><sub>**BSB:**</sub></small>
-You have armed me with strength for battle; You have subdued my foes beneath me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.38|<< Psalm 18:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.40|Psalm 18:40 >>]]</td></tr></table>
 
 | Translation | Greek |

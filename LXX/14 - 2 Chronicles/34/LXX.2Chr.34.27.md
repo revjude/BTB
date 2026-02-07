@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:27** 
 <small><sub>**LXX:**</sub></small>
 and \[because\] your heart feels shame, and you humbled \[yourself\] in front of me in  your hearing  my words against  this place, and against the ones dwelling in it; and you were humbled before me, and tore  your garments, and wept before me; even I heard, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Because thine heart was tender, and thou didst humble thyself before God, when thou heardest his words against this place, and against the inhabitants thereof, and humbledst thyself before me, and didst rend thy clothes, and weep before me; I have even heard [thee] also, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-because your heart was tender and you humbled yourself before God when you heard His words against this place and against its people, and because you have humbled yourself before Me and have torn your clothes and wept before Me, I have heard you,’ declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.26|<< 2 Chronicles 34:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.28|2 Chronicles 34:28 >>]]</td></tr></table>
 
 | Translation | Greek |

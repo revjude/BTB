@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:9** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons of Shimei -- Shelomith, and Haziel, and Haran -- three. These \[were\] rulers of the families  of Ladan. 
-<small><sub>**KJV:**</sub></small>
-The sons of Shimei; Shelomith, and Haziel, and Haran, three. These [were] the chief of the fathers of Laadan.
-<small><sub>**BSB:**</sub></small>
-The sons of Shimei: Shelomoth, Haziel, and Haran—three in all. These were the heads of the families of Ladan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.8|<< 1 Chronicles 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.10|1 Chronicles 23:10 >>]]</td></tr></table>
 
 | Translation | Greek |

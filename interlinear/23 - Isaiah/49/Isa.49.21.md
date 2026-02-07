@@ -1,4 +1,4 @@
-**Isaiah 49:21** 
+**Isaiah 49:21**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou say in thine heart, Who hath begotten me these, seeing I have lost my children, and am desolate, a captive, and removing to and fro? and who hath brought up these? Behold, I was left alone; these, where [had] they [been]?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will say in your heart, ‘Who has begotten these for me? I was bereave
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.20|<< Isaiah 49:20]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.22|Isaiah 49:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַ֣רְתְּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Mart<small><sup>[[HVqq2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in heart your  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3824\|לְבָבֵ֗]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> l.va.Ve<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

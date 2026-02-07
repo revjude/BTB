@@ -1,10 +1,7 @@
 **LXX Isaiah 62:8** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> swore by an oath according to  his right \[hand\], and according to the strength  of his arm, I shall not give  your grain, and  your foods \[to\] your enemies; and neither alien sons drink  your wine, for which you troubled \[to make\]. 
-<small><sub>**KJV:**</sub></small>
-The LORD hath sworn by his right hand, and by the arm of his strength, Surely I will no more give thy corn [to be] meat for thine enemies; and the sons of the stranger shall not drink thy wine, for the which thou hast laboured:
-<small><sub>**BSB:**</sub></small>
-The LORD has sworn by His right hand and by His mighty arm: “Never again will I give your grain to your enemies for food, nor will foreigners drink the new wine for which you have toiled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.62.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.62.7|<< Isaiah 62:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.9|Isaiah 62:9 >>]]</td></tr></table>
 
 | Translation | Greek |

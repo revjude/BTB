@@ -1,12 +1,12 @@
-**Mark 7:31
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:31**<big><big>[[Mark.7.31 The Deaf and Mute Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And again, departing from the coasts of Tyre and Sidon, he came unto the sea of Galilee, through the midst of the coasts of Decapolis.
 <small><sub>**BSB:**</sub></small>
 Then Jesus left the region of Tyre and went through Sidon to the Sea of Galilee and into the region of the Decapolis.
 <small><sub>**Literal:**</sub></small>
 And again having departed from the region of Tyre He came through Sidon to the Sea <the> of Galilee through [the] midst of the region of [the] Decapolis.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.30|<< Mark 7:30]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.32|Mark 7:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | again |**<big>[[G3825\|πάλιν]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

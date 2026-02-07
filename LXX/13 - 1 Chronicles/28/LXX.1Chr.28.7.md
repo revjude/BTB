@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 28:7** 
 <small><sub>**LXX:**</sub></small>
 And I will set up  his kingdom unto \[the\] eon, if he should be strong  to do and to guard  my commandments, and  my judgments as \[in\] this day. 
-<small><sub>**KJV:**</sub></small>
-Moreover I will establish his kingdom for ever, if he be constant to do my commandments and my judgments, as at this day.
-<small><sub>**BSB:**</sub></small>
-I will establish his kingdom forever, if he resolutely carries out My commandments and ordinances, as is being done this day.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.6|<< 1 Chronicles 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.8|1 Chronicles 28:8 >>]]</td></tr></table>
 
 | Translation | Greek |

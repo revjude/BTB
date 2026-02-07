@@ -1,10 +1,7 @@
 **LXX Psalm 116:12** 
 <small><sub>**LXX:**</sub></small>
 What shall I recompense to the <span class="smallcaps">lord</span> for all which he recompensed to me? 
-<small><sub>**KJV:**</sub></small>
-What shall I render unto the LORD [for] all his benefits toward me?
-<small><sub>**BSB:**</sub></small>
-How can I repay the LORD for all His goodness to me?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.116.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.116.11|<< Psalm 116:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.116.13|Psalm 116:13 >>]]</td></tr></table>
 
 | Translation | Greek |

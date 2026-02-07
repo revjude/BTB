@@ -1,10 +1,7 @@
 **LXX 1 Samuel 29:8** 
 <small><sub>**LXX:**</sub></small>
 And David said to Achish, What have I done to you? And what did you find in  your servant from which day I was before you, and until this day, that in no way I should come to wage war against the enemies  of my master the king? 
-<small><sub>**KJV:**</sub></small>
-And David said unto Achish, But what have I done? and what hast thou found in thy servant so long as I have been with thee unto this day, that I may not go fight against the enemies of my lord the king?
-<small><sub>**BSB:**</sub></small>
-“But what have I done?” David replied. “What have you found against your servant, from the day I came to you until today, to keep me from going along to fight against the enemies of my lord the king?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.29.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.7|<< 1 Samuel 29:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.9|1 Samuel 29:9 >>]]</td></tr></table>
 
 | Translation | Greek |

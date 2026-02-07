@@ -1,4 +1,4 @@
-**Genesis 2:21** 
+**Genesis 2:21**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So the LORD God caused the man to fall into a deep sleep, and while he slept, He
 > $\quad$ referenced by: [[1Tim.2.13|1Tim 2:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made fall  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5307G\|יַּפֵּל֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Pel<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

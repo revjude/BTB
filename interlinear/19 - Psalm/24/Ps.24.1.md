@@ -1,6 +1,6 @@
-**Psalms 24:1** 
+**Psalms 24:1**<big><big>[[Ps.24.1 The Earth Is the LORD’s|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Psalm of David. The earth [is] the LORD’S, and the fulness thereof; the world, and they that dwell therein.
+The earth [is] the LORD’S, and the fulness thereof; the world, and they that dwell therein.
 <small><sub>**BSB:**</sub></small>
 A Psalm of David. The earth is the LORD’s, and the fullness thereof, the world and all who dwell therein.
 <small><sub>**LXX:**</sub></small>
@@ -10,7 +10,7 @@ A Psalm of David. The earth is the LORD’s, and the fullness thereof, the world
 > $\quad$ referenced by: [[1Cor.10.26|1Cor 10:26]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [belongs] to Yahweh  |**<big>&#8207;[[H9005\|לַֽ֭]]&#8207;&#8207;[[H3068G\|יהוָה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֣רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

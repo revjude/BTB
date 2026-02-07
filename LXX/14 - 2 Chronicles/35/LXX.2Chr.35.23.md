@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the bowmen shot unto king Josiah. And the king said \[to\] his servants, Lead me out! for I am in pain exceedingly. 
-<small><sub>**KJV:**</sub></small>
-And the archers shot at king Josiah; and the king said to his servants, Have me away; for I am sore wounded.
-<small><sub>**BSB:**</sub></small>
-There the archers shot King Josiah, who said to his servants, “Take me away, for I am badly wounded!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.22|<< 2 Chronicles 35:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.24|2 Chronicles 35:24 >>]]</td></tr></table>
 
 | Translation | Greek |

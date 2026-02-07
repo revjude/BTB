@@ -1,10 +1,7 @@
 **LXX Nehemiah 8:15** 
 <small><sub>**LXX:**</sub></small>
 and that they should signify with trumpets in all  their cities, and in Jerusalem. And Ezra said, Go forth unto the mountain, and bring olive leaves, and leaves of cypress trees, and leaves of a myrtle tree, and leaves of palms, and leaves of \[the\] bushy tree! to make tents according to the writing. 
-<small><sub>**KJV:**</sub></small>
-And that they should publish and proclaim in all their cities, and in Jerusalem, saying, Go forth unto the mount, and fetch olive branches, and pine branches, and myrtle branches, and palm branches, and branches of thick trees, to make booths, as [it is] written.
-<small><sub>**BSB:**</sub></small>
-and that they should proclaim this message and spread it throughout their towns and in Jerusalem, saying, “Go out to the hill country and bring back branches of olive, wild olive, myrtle, palm, and other leafy trees, to make booths, as it is written.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.14|<< Nehemiah 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.16|Nehemiah 8:16 >>]]</td></tr></table>
 
 | Translation | Greek |

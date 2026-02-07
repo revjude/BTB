@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:19** 
 <small><sub>**LXX:**</sub></small>
 And capitals upon the heads of the columns, a work of lily for the columned porch -- four cubits; and a ridge upon both of the columns, and on top of the sides of \[the\] capital. 
-<small><sub>**KJV:**</sub></small>
-And the chapiters that [were] upon the top of the pillars [were] of lily work in the porch, four cubits.
-<small><sub>**BSB:**</sub></small>
-And the capitals atop the pillars in the portico were shaped like lilies, four cubits high.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.18|<< 1 Kings 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.20|1 Kings 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

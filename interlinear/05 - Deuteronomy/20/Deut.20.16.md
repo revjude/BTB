@@ -1,4 +1,4 @@
-**Deuteronomy 20:16** 
+**Deuteronomy 20:16**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But of the cities of these people, which the LORD thy God doth give thee [for] an inheritance, thou shalt save alive nothing that breatheth:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ However, in the cities of the nations that the LORD your God is giving you as an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.15|<< Deuteronomy 20:15]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.17|Deuteronomy 20:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַ֗ק]]&#8207; </big>**| Rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] cities of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5892B\|עָרֵ֤י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

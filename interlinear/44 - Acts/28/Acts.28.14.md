@@ -1,12 +1,12 @@
-**Acts 28:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:14**<big><big>[[Acts.28.11 Paul Arrives in Italy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Where we found brethren, and were desired to tarry with them seven days: and so we went toward Rome.
 <small><sub>**BSB:**</sub></small>
 There we found some brothers who invited us to spend the week with them. And so we came to Rome.
 <small><sub>**Literal:**</sub></small>
 where having found [some] brothers we were entreated with them to remain days seven; And so to <the> Rome we came.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.13|<< Acts 28:13]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.15|Acts 28:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where |**<big>[[G3757\|οὗ]]</big>**  |hou <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having found |**<big>[[G2147\|εὑρόντες]]</big>**  |heurontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

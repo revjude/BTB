@@ -1,4 +1,4 @@
-**Nehemiah 11:30** 
+**Nehemiah 11:30**<big><big>[[Neh.11.20 Residents Outside Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Zanoah, Adullam, and [in] their villages, at Lachish, and the fields thereof, at Azekah, and [in] the villages thereof. And they dwelt from Beersheba unto the valley of Hinnom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Zanoah, Adullam, and their villages; in Lachish and its fields; and in Azekah an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.29|<< Nehemiah 11:29]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.31|Nehemiah 11:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Zanoah  |**<big>&#8207;[[H2182G\|זָנֹ֤חַ]]&#8207; </big>**| za.No.ach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Adullam  |**<big>&#8207;[[H5725\|עֲדֻלָּם֙]]&#8207; </big>**| 'a.du.Lam<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 91:5** 
+**Psalms 91:5**<big><big>[[Ps.91.1 You Are My Refuge and My Fortress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not be afraid for the terror by night; [nor] for the arrow [that] flieth by day;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will not fear the terror of the night, nor the arrow that flies by day,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.91.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.91.4|<< Psalms 91:4]]</td><td align="center" style="border:none;">[[Ps.91|Psalms 91]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.91.6|Psalms 91:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will be afraid  |**<big>&#8207;[[H3372G\|תִ֭ירָא]]&#8207; </big>**| Ti.ra'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

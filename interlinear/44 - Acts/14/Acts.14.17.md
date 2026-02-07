@@ -1,12 +1,12 @@
-**Acts 14:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:17**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness.
 <small><sub>**BSB:**</sub></small>
 Yet He has not left Himself without testimony to His goodness: He gives you rain from heaven and fruitful seasons, filling your hearts with food and gladness.”
 <small><sub>**Literal:**</sub></small>
 and yet not without witness Himself He has left doing good, from heaven to you rains giving and seasons fruitful, filling with food and gladness the hearts of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.16|<< Acts 14:16]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.18|Acts 14:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and yet [^1] |**<big>[[G2532\|καίτοι]]</big>**  |kaitoi <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

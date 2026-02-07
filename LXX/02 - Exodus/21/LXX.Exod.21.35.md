@@ -1,10 +1,7 @@
 **LXX Exodus 21:35** 
 <small><sub>**LXX:**</sub></small>
 And if any bull should gore the bull of the neighbor, and it should come to an end, they shall give over  the living bull \[for sale\], and divide the money from it, and the bull  having died they shall divide. 
-<small><sub>**KJV:**</sub></small>
-And if one man’s ox hurt another’s, that he die; then they shall sell the live ox, and divide the money of it; and the dead [ox] also they shall divide.
-<small><sub>**BSB:**</sub></small>
-If a man’s ox injures his neighbor’s ox and it dies, they must sell the live one and divide the proceeds; they also must divide the dead animal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.34|<< Exodus 21:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.36|Exodus 21:36 >>]]</td></tr></table>
 
 | Translation | Greek |

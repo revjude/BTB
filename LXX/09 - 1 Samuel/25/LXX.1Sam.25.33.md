@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:33** 
 <small><sub>**LXX:**</sub></small>
 And blessed \[be\]  your manner, and blessed be you \[to\] detain me today in this, to not come for blood, and to deliver my hand from myself. 
-<small><sub>**KJV:**</sub></small>
-And blessed [be] thy advice, and blessed [be] thou, which hast kept me this day from coming to [shed] blood, and from avenging myself with mine own hand.
-<small><sub>**BSB:**</sub></small>
-Blessed is your discernment, and blessed are you, because today you kept me from bloodshed and from avenging myself by my own hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.32|<< 1 Samuel 25:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.34|1 Samuel 25:34 >>]]</td></tr></table>
 
 | Translation | Greek |

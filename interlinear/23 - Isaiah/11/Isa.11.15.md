@@ -1,4 +1,4 @@
-**Isaiah 11:15** 
+**Isaiah 11:15**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall utterly destroy the tongue of the Egyptian sea; and with his mighty wind shall he shake his hand over the river, and shall smite it in the seven streams, and make [men] go over dryshod.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD will devote to destruction the gulf of the Sea of Egypt; with a scorchi
 > $\quad$ referenced by: [[Rev.16.12|Rev 16:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will divide  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2763A\|הֶחֱרִ֣ים]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.che.Rim<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Song of Solomon 1:5** 
 <small><sub>**LXX:**</sub></small>
 I am black and fair, O daughters of Jerusalem, as \[the\] tents of Kedar, as \[the\] hide coverings of Solomon. 
-<small><sub>**KJV:**</sub></small>
-I [am] black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.
-<small><sub>**BSB:**</sub></small>
-I am dark, yet lovely, O daughters of Jerusalem, like the tents of Kedar, like the curtains of Solomon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.4|<< Song of Solomon 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.6|Song of Solomon 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

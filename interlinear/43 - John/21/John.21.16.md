@@ -1,12 +1,12 @@
-**John 21:16
-**<small><sub>**KJV:**</sub></small>
+**John 21:16**<big><big>[[John.21.15 Jesus and Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He saith to him again the second time, Simon, [son] of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep.
 <small><sub>**BSB:**</sub></small>
 Jesus asked a second time, “Simon son of John, do you love Me?” “Yes, Lord,” he answered, “You know I love You.” Jesus told him, “Shepherd My sheep.”
 <small><sub>**Literal:**</sub></small>
 He says to him again a second time; Simon [son] of John, love you Me? He says to Him; Yes Lord, You yourself know that I dearly love You. He says to him; do shepherd the sheep of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.15|<< John 21:15]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.17|John 21:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

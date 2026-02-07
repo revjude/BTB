@@ -1,10 +1,7 @@
 **LXX Zephaniah 1:7** 
 <small><sub>**LXX:**</sub></small>
 Be cautious before \[the\] presence of \[the\] <span class="smallcaps">lord</span>  God! for the day of the <span class="smallcaps">lord</span> \[is\] near! For \[the\] <span class="smallcaps">lord</span> prepared  his sacrifice, and he has sanctified  his chosen. 
-<small><sub>**KJV:**</sub></small>
-Hold thy peace at the presence of the Lord GOD: for the day of the LORD [is] at hand: for the LORD hath prepared a sacrifice, he hath bid his guests.
-<small><sub>**BSB:**</sub></small>
-Be silent in the presence of the Lord GOD, for the Day of the LORD is near. Indeed, the LORD has prepared a sacrifice; He has consecrated His guests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.6|<< Zephaniah 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.8|Zephaniah 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

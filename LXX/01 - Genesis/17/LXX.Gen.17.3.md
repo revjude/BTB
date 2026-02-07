@@ -1,10 +1,7 @@
 **LXX Genesis 17:3** 
 <small><sub>**LXX:**</sub></small>
 And Abram fell upon his face. And God spoke to him, saying, 
-<small><sub>**KJV:**</sub></small>
-And Abram fell on his face: and God talked with him, saying,
-<small><sub>**BSB:**</sub></small>
-Then Abram fell facedown, and God said to him,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.2|<< Genesis 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.4|Genesis 17:4 >>]]</td></tr></table>
 
 | Translation | Greek |

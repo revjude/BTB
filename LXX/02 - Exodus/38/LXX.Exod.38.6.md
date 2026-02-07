@@ -1,10 +1,7 @@
 **LXX Exodus 38:6** 
 <small><sub>**LXX:**</sub></small>
 And he made the bearing poles for the altar out of incorruptible wood; and he brass plated them in brass. 
-<small><sub>**KJV:**</sub></small>
-And he made the staves [of] shittim wood, and overlaid them with brass.
-<small><sub>**BSB:**</sub></small>
-And he made the poles of acacia wood and overlaid them with bronze.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.5|<< Exodus 38:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.7|Exodus 38:7 >>]]</td></tr></table>
 
 | Translation | Greek |

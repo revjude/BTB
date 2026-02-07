@@ -1,12 +1,12 @@
-**Luke 22:52
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:52**<big><big>[[Luke.22.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Jesus said unto the chief priests, and captains of the temple, and the elders, which were come to him, Be ye come out, as against a thief, with swords and staves?
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to the chief priests, temple officers, and elders who had come for Him, “Have you come out with swords and clubs as you would against an outlaw?
 <small><sub>**Literal:**</sub></small>
 Said then <the> Jesus to those having come out against Him chief priests and captains of the temple and elders; As against a robber have you come out with swords and clubs?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.51|<< Luke 22:51]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.53|Luke 22:53 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

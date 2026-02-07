@@ -1,4 +1,4 @@
-**1 Chronicles 8:30** 
+**1 Chronicles 8:30**<big><big>[[1Chr.8.1 Genealogy from Benjamin to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his firstborn son Abdon, and Zur, and Kish, and Baal, and Nadab,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and Abdon was his firstborn son, then Zur, Kish, Baal, Nadab,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.29|<< 1 Chronicles 8:29]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.31|1 Chronicles 8:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and son his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנ֥]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the firstborn  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1060\|בְּכ֖וֹר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.Khor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

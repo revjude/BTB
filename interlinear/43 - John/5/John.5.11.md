@@ -1,12 +1,12 @@
-**John 5:11
-**<small><sub>**KJV:**</sub></small>
+**John 5:11**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He answered them, He that made me whole, the same said unto me, Take up thy bed, and walk.
 <small><sub>**BSB:**</sub></small>
 But he answered, “The man who made me well told me, ‘Pick up your mat and walk.’”
 <small><sub>**Literal:**</sub></small>
 The [man] however answered them; The [One] having made me well, that One to me said; do take up the mat of you and do walk.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.10|<< John 5:10]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.12|John 5:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [man] [^1] |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn">n(o)</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

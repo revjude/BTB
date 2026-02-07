@@ -1,10 +1,7 @@
 **LXX Exodus 19:24** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to him, Proceed, go down, and \[then\] ascend, you and Aaron with you! But the priests and the people shall not use force to ascend to  God, lest at any time \[the\] <span class="smallcaps">lord</span> should destroy \[some\] of them. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto him, Away, get thee down, and thou shalt come up, thou, and Aaron with thee: but let not the priests and the people break through to come up unto the LORD, lest he break forth upon them.
-<small><sub>**BSB:**</sub></small>
-And the LORD replied, “Go down and bring Aaron with you. But the priests and the people must not break through to come up to the LORD, or He will break out against them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.19.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.23|<< Exodus 19:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.25|Exodus 19:25 >>]]</td></tr></table>
 
 | Translation | Greek |

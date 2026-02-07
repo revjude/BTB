@@ -1,4 +1,4 @@
-**2 Samuel 24:7** 
+**2 Samuel 24:7**<big><big>[[2Sam.24.1 David’s Military Census|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And came to the strong hold of Tyre, and to all the cities of the Hivites, and of the Canaanites: and they went out to the south of Judah, [even] to Beersheba.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They went toward the fortress of Tyre and all the cities of the Hivites and Cana
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.6|<< 2 Samuel 24:6]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.8|2 Samuel 24:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֙אוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] fortress of  |**<big>&#8207;[[H4013\|מִבְצַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| miv.tzar-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

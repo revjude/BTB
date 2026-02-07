@@ -1,4 +1,4 @@
-**Exodus 9:19** 
+**Exodus 9:19**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Send therefore now, [and] gather thy cattle, and all that thou hast in the field; [for upon] every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So give orders now to shelter your livestock and everything you have in the fiel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.18|<< Exodus 9:18]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.20|Exodus 9:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | send  |**<big>&#8207;[[H7971G\|שְׁלַ֤ח]]&#8207; </big>**| she.Lach<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 39:5** 
 <small><sub>**LXX:**</sub></small>
 And the force of the Chaldeans pursued after them. And they seized  Zedekiah on the other side of Jericho, and they led him to Nebuchadnezzar king of Babylon to Riblah the \[city\] in the land of Hamath. And he spoke against him with judgment. 
-<small><sub>**KJV:**</sub></small>
-But the Chaldeans’ army pursued after them, and overtook Zedekiah in the plains of Jericho: and when they had taken him, they brought him up to Nebuchadnezzar king of Babylon to Riblah in the land of Hamath, where he gave judgment upon him.
-<small><sub>**BSB:**</sub></small>
-But the army of the Chaldeans pursued them and overtook Zedekiah in the plains of Jericho. They seized him and brought him up to Nebuchadnezzar king of Babylon at Riblah in the land of Hamath, where he pronounced judgment on him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.39.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.4|<< Jeremiah 39:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.6|Jeremiah 39:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 38:8** 
+**Genesis 38:8**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Judah said unto Onan, Go in unto thy brother’s wife, and marry her, and raise up seed to thy brother.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then Judah said to Onan, “Sleep with your brother’s wife. Perform your duty 
 > $\quad$ referenced by: [[Matt.22.24|Matt 22:24]] ☩ [[Mark.12.19|Mark 12:19]] ☩ [[Luke.20.28|Luke 20:28]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָה֙]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Chronicles 16:5** 
+**2 Chronicles 16:5**<big><big>[[2Chr.16.1 War between Asa and Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Baasha heard [it], that he left off building of Ramah, and let his work cease.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Baasha learned of this, he stopped fortifying Ramah and abandoned his work.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.4|<< 2 Chronicles 16:4]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.6|2 Chronicles 16:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when heard  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H8085G\|שְׁמֹ֣עַ]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> sh.Mo.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

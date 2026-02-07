@@ -1,12 +1,12 @@
-**1 Peter 3:18
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:18**<big><big>[[1Pet.3.14 Suffering for Righteousness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:
 <small><sub>**BSB:**</sub></small>
 For Christ also suffered for sins once for all, the righteous for the unrighteous, to bring you to God. He was put to death in the body but made alive in the Spirit,
 <small><sub>**Literal:**</sub></small>
 because also Christ once for sins suffered, [the] righteous for [the] unrighteous, so that you He may bring <the> to God, having been put to death indeed in [the] flesh, having been made alive however in the spirit,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.17|<< 1 Peter 3:17]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.19|1 Peter 3:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

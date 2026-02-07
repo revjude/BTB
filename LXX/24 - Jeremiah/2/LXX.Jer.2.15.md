@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:15** 
 <small><sub>**LXX:**</sub></small>
 Upon him \[the\] lions roar, and the ones who ordered his land for extinction gave out their voice. And  his cities they razed so as for  no one to dwell. 
-<small><sub>**KJV:**</sub></small>
-The young lions roared upon him, [and] yelled, and they made his land waste: his cities are burned without inhabitant.
-<small><sub>**BSB:**</sub></small>
-The young lions have roared at him; they have sounded their voices. They have laid waste his land; his cities lie in ruins, without inhabitant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.14|<< Jeremiah 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.16|Jeremiah 2:16 >>]]</td></tr></table>
 
 | Translation | Greek |

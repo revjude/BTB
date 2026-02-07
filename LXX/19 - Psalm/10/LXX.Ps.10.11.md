@@ -1,10 +1,7 @@
 **LXX Psalm 10:11** 
 <small><sub>**LXX:**</sub></small>
 For he said in  his heart, God has been forgotten, he turned  his face  to not see into \[the\] end. 
-<small><sub>**KJV:**</sub></small>
-He hath said in his heart, God hath forgotten: he hideth his face; he will never see [it].
-<small><sub>**BSB:**</sub></small>
-He says to himself, “God has forgotten; He hides His face and never sees.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.10|<< Psalm 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.12|Psalm 10:12 >>]]</td></tr></table>
 
 | Translation | Greek |

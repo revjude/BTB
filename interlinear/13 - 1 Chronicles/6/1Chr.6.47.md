@@ -1,4 +1,4 @@
-**1 Chronicles 6:47** (6:32)
+**1 Chronicles 6:47**<big><big>[[1Chr.6.31 The Temple Musicians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The son of Mahli, the son of Mushi, the son of Merari, the son of Levi.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the son of Mahli, the son of Mushi, the son of Merari, the son of Levi.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.46|<< 1 Chronicles 6:46]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.48|1 Chronicles 6:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Mahli  |**<big>&#8207;[[H4249H\|מַחְלִי֙]]&#8207; </big>**| mach.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

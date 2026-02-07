@@ -1,10 +1,7 @@
 **LXX Jonah 3:2** 
 <small><sub>**LXX:**</sub></small>
 Rise up, go unto Nineveh the great city! and proclaim in it! according to the proclamation  which I spoke to you before. 
-<small><sub>**KJV:**</sub></small>
-Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.
-<small><sub>**BSB:**</sub></small>
-“Get up! Go to the great city of Nineveh and proclaim to it the message that I give you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.3.1|<< Jonah 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.3.3|Jonah 3:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 3:2** is...

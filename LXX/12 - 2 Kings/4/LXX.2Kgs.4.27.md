@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:27** 
 <small><sub>**LXX:**</sub></small>
 And she straightened to the man  of God in the mountain, and she seized  his feet. And Gehazi approached to thrust her \[away\], and the man of God said to him, Allow her! for  her soul pains her, and \[the\] <span class="smallcaps">lord</span> concealed it from me, and announced it not to me. 
-<small><sub>**KJV:**</sub></small>
-And when she came to the man of God to the hill, she caught him by the feet: but Gehazi came near to thrust her away. And the man of God said, Let her alone; for her soul [is] vexed within her: and the LORD hath hid [it] from me, and hath not told me.
-<small><sub>**BSB:**</sub></small>
-When she reached the man of God at the mountain, she clung to his feet. Gehazi came over to push her away, but the man of God said, “Leave her alone, for her soul is in deep distress, and the LORD has hidden it from me and has not told me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.26|<< 2 Kings 4:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.28|2 Kings 4:28 >>]]</td></tr></table>
 
 | Translation | Greek |

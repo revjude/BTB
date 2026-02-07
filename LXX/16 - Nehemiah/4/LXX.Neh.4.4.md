@@ -1,10 +1,7 @@
 **LXX Nehemiah 4:4** 
 <small><sub>**LXX:**</sub></small>
 Hear, O our God! for we became for sneering. And return their scorning upon their head, and give them for sneering in a land of captivity! 
-<small><sub>**KJV:**</sub></small>
-Hear, O our God; for we are despised: and turn their reproach upon their own head, and give them for a prey in the land of captivity:
-<small><sub>**BSB:**</sub></small>
-Hear us, O God, for we are despised. Turn their scorn back upon their own heads, and let them be taken as plunder to a land of captivity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.3|<< Nehemiah 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.5|Nehemiah 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

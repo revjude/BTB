@@ -1,10 +1,7 @@
 **LXX Psalm 136:13** 
 <small><sub>**LXX:**</sub></small>
 To the one dividing the red sea into divisions, for into the eon  \[is\] his mercy. 
-<small><sub>**KJV:**</sub></small>
-To him which divided the Red sea into parts: for his mercy [endureth] for ever:
-<small><sub>**BSB:**</sub></small>
-He divided the Red Sea in two His loving devotion endures forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.136.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.136.12|<< Psalm 136:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.136.14|Psalm 136:14 >>]]</td></tr></table>
 
 | Translation | Greek |

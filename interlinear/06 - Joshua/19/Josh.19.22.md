@@ -1,4 +1,4 @@
-**Joshua 19:22** 
+**Joshua 19:22**<big><big>[[Josh.19.17 Issachar’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the coast reacheth to Tabor, and Shahazimah, and Bethshemesh; and the outgoings of their border were at Jordan: sixteen cities with their villages.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The border reached Tabor, Shahazumah, and Beth-shemesh, and ended at the Jordan.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.21|<< Joshua 19:21]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.23|Joshua 19:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it touches  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6293\|פָגַע֩]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fa.Ga'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the border  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1366G\|גְּב֨וּל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

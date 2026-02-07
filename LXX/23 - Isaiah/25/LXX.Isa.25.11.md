@@ -1,10 +1,7 @@
 **LXX Isaiah 25:11** 
 <small><sub>**LXX:**</sub></small>
 And he shall unfasten  his hands, in which manner even as he humbled  to destroy. And he shall humble  his insolence upon which  he put \[his\] hands. 
-<small><sub>**KJV:**</sub></small>
-And he shall spread forth his hands in the midst of them, as he that swimmeth spreadeth forth [his hands] to swim: and he shall bring down their pride together with the spoils of their hands.
-<small><sub>**BSB:**</sub></small>
-He will spread out his hands within it, as a swimmer spreads his arms to swim. His pride will be brought low, despite the skill of his hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.25.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.10|<< Isaiah 25:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.25.12|Isaiah 25:12 >>]]</td></tr></table>
 
 | Translation | Greek |

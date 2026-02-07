@@ -1,4 +1,4 @@
-**Genesis 39:6** 
+**Genesis 39:6**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he left all that he had in Joseph’s hand; and he knew not ought he had, save the bread which he did eat. And Joseph was [a] goodly [person], and well favoured.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Potiphar left all that he owned in Joseph’s care; he did not concern himsel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.5|<< Genesis 39:5]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.7|Genesis 39:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he left  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5800A\|יַּעֲזֹ֣ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Zo<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

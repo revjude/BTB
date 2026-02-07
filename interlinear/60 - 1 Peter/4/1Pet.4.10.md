@@ -1,12 +1,12 @@
-**1 Peter 4:10
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 4:10**<big><big>[[1Pet.4.1 Living for God’s Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As every man hath received the gift, [even so] minister the same one to another, as good stewards of the manifold grace of God.
 <small><sub>**BSB:**</sub></small>
 As good stewards of the manifold grace of God, each of you should use whatever gift he has received to serve one another.
 <small><sub>**Literal:**</sub></small>
 each even as has received a gift to each other them serving as good stewards of [the] manifold grace of God:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.9|<< 1 Peter 4:9]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.11|1 Peter 4:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | each |**<big>[[G1538\|ἕκαστος]]</big>**  |hekastos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

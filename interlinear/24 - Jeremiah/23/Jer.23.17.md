@@ -1,4 +1,4 @@
-**Jeremiah 23:17** 
+**Jeremiah 23:17**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They say still unto them that despise me, The LORD hath said, Ye shall have peace; and they say unto every one that walketh after the imagination of his own heart, No evil shall come upon you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They keep saying to those who despise Me, ‘The LORD says that you will have pe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.16|<< Jeremiah 23:16]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.18|Jeremiah 23:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [they are] saying  |**<big>&#8207;[[H0559\|אֹמְרִ֤ים]]&#8207; </big>**| 'o.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | continually \<to say>  |**<big>&#8207;[[H0559\|אָמוֹר֙]]&#8207; </big>**| 'a.mOr<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

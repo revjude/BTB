@@ -1,4 +1,4 @@
-**Exodus 23:18** 
+**Exodus 23:18**<big><big>[[Exod.23.14 The Three Feasts of Pilgrimage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not offer the blood of my sacrifice with leavened bread; neither shall the fat of my sacrifice remain until the morning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not offer the blood of My sacrifices with anything leavened, nor may th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.17|<< Exodus 23:17]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.19|Exodus 23:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must sacrifice  |**<big>&#8207;[[H2076\|תִזְבַּ֥ח]]&#8207; </big>**| tiz.Bach<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

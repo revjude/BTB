@@ -1,4 +1,4 @@
-**Esther 1:15** 
+**Esther 1:15**<big><big>[[Esth.1.13 Queen Vashti Deposed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What shall we do unto the queen Vashti according to law, because she hath not performed the commandment of the king Ahasuerus by the chamberlains?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What shall we do unto the queen Vashti according to law, because she hath not pe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.14|<< Esther 1:14]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.16|Esther 1:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | according to [the] law  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1881\|דָת֙]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Dat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | what?  |**<big>&#8207;[[H4100\|מַֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

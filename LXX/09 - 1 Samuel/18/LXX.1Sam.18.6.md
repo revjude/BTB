@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:6** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  his entering, when David returned striking the Philistine, that the \[women\] came forth joining in a dance and singing, to meet Saul the king from out of all the cities of Israel, with tambourines, and with joyfulness, and with cymbals. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass as they came, when David was returned from the slaughter of the Philistine, that the women came out of all cities of Israel, singing and dancing, to meet king Saul, with tabrets, with joy, and with instruments of musick.
-<small><sub>**BSB:**</sub></small>
-As the troops were returning home after David had killed the Philistine, the women came out of all the cities of Israel to meet King Saul with singing and dancing, with joyful songs, and with tambourines and other instruments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.5|<< 1 Samuel 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.7|1 Samuel 18:7 >>]]</td></tr></table>
 
 | Translation | Greek |

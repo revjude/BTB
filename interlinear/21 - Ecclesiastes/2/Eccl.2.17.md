@@ -1,4 +1,4 @@
-**Ecclesiastes 2:17** 
+**Ecclesiastes 2:17**<big><big>[[Eccl.2.12 The Wise and the Foolish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I hated life; because the work that is wrought under the sun [is] grievous unto me: for all [is] vanity and vexation of spirit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I hated life, because the work that is done under the sun was grievous to me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.16|<< Ecclesiastes 2:16]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.18|Ecclesiastes 2:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I hated  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8130\|שָׂנֵ֙אתִי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.Ne.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Habakkuk 3:12** 
+**Habakkuk 3:12**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou didst march through the land in indignation, thou didst thresh the heathen in anger.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You marched across the earth with fury; You threshed the nations in wrath.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.11|<< Habakkuk 3:11]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.13|Habakkuk 3:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in indignation  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2195\|זַ֖עַם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Za.'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you march  |**<big>&#8207;[[H6805\|תִּצְעַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| titz.'ad-<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

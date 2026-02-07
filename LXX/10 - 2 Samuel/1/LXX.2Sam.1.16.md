@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:16** 
 <small><sub>**LXX:**</sub></small>
 And David said to him,  Your blood \[be\] upon  your head, for  your mouth answered against you, saying, I put to death the anointed one of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And David said unto him, Thy blood [be] upon thy head; for thy mouth hath testified against thee, saying, I have slain the LORD’S anointed.
-<small><sub>**BSB:**</sub></small>
-For David had said to the Amalekite, “Your blood be on your own head because your own mouth has testified against you, saying, ‘I killed the LORD’s anointed.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.15|<< 2 Samuel 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.17|2 Samuel 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

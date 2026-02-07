@@ -1,10 +1,7 @@
 **LXX Deuteronomy 19:2** 
 <small><sub>**LXX:**</sub></small>
 you shall draw apart to yourself three cities in \[the\] midst  of your land, which \[the\] <span class="smallcaps">lord</span>  your God gives to you. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt separate three cities for thee in the midst of thy land, which the LORD thy God giveth thee to possess it.
-<small><sub>**BSB:**</sub></small>
-then you are to set apart for yourselves three cities within the land that the LORD your God is giving you to possess.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.1|<< Deuteronomy 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.3|Deuteronomy 19:3 >>]]</td></tr></table>
 
 | Translation | Greek |

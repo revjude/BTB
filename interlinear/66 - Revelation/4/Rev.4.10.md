@@ -1,12 +1,12 @@
-**Revelation 4:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 4:10**<big><big>[[Rev.4.5 Worship of the Creator|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,
 <small><sub>**BSB:**</sub></small>
 the twenty-four elders fall down before the One seated on the throne, and they worship Him who lives forever and ever. They cast their crowns before the throne, saying:
 <small><sub>**Literal:**</sub></small>
 will fall the twenty and four elders before the [One] sitting upon the throne and they will worship the [One] living to the ages of the ages and they will cast the crowns of them before the throne saying:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.9|<< Revelation 4:9]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.11|Revelation 4:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | will fall |**<big>[[G4098\|πεσοῦνται]]</big>**  |pesountai <small><sup>[[V-FNI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

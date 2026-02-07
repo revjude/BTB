@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And all the leaders of the force went forward, and Johanan son of Kareah, and Jezaniah son of Hoshaiah, and all the people from small and unto great. 
-<small><sub>**KJV:**</sub></small>
-Then all the captains of the forces, and Johanan the son of Kareah, and Jezaniah the son of Hoshaiah, and all the people from the least even unto the greatest, came near,
-<small><sub>**BSB:**</sub></small>
-Then all the commanders of the forces, along with Johanan son of Kareah, Jezaniah son of Hoshaiah, and all the people from the least to the greatest, approached<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.18|<< Jeremiah 41:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.2|Jeremiah 42:2 >>]]</td></tr></table>
 
 | Translation | Greek |

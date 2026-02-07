@@ -1,4 +1,4 @@
-**Zechariah 14:18** 
+**Zechariah 14:18**<big><big>[[Zech.14.16 All Nations Will Worship the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the family of Egypt go not up, and come not, that [have] no [rain]; there shall be the plague, wherewith the LORD will smite the heathen that come not up to keep the feast of tabernacles.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And if the people of Egypt will not go up and enter in, then the rain will not f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.17|<< Zechariah 14:17]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.19|Zechariah 14:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] clan of  |**<big>&#8207;[[H4940\|מִשְׁפַּ֨חַת]]&#8207; </big>**| mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

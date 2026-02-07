@@ -1,12 +1,12 @@
-**1 John 4:3
-**<small><sub>**KJV:**</sub></small>
+**1 John 4:3**<big><big>[[1John.4.1 Testing the Spirits|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that [spirit] of antichrist, whereof ye have heard that it should come; and even now already is it in the world.
 <small><sub>**BSB:**</sub></small>
 and every spirit that does not confess Jesus is not from God. This is the spirit of the antichrist, which you have heard is coming and which is already in the world at this time.
 <small><sub>**Literal:**</sub></small>
 and any spirit that not confesses <the> Jesus Christ in flesh having come from <the> God not is; And this is that of the antichrist which you have heard that is coming and now in the world is already.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.2|<< 1 John 4:2]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.4|1 John 4:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | any |**<big>[[G3956\|πᾶν]]</big>**  |pan <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

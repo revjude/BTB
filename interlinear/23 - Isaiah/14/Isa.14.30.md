@@ -1,4 +1,4 @@
-**Isaiah 14:30** 
+**Isaiah 14:30**<big><big>[[Isa.14.28 Philistia Will Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the firstborn of the poor shall feed, and the needy shall lie down in safety: and I will kill thy root with famine, and he shall slay thy remnant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the firstborn of the poor will find pasture, and the needy will lie down in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.29|<< Isaiah 14:29]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.31|Isaiah 14:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will graze  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7462B\|רָעוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] firstborn\<s> of  |**<big>&#8207;[[H1060\|בְּכוֹרֵ֣י]]&#8207; </big>**| be.kho.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

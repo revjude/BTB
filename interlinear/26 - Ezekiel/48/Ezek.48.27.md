@@ -1,4 +1,4 @@
-**Ezekiel 48:27** 
+**Ezekiel 48:27**<big><big>[[Ezek.48.23 The Portions for the Remaining Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And by the border of Zebulun, from the east side unto the west side, Gad a [portion].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Gad will have one portion bordering the territory of Zebulun from east to we
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.26|<< Ezekiel 48:26]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.28|Ezekiel 48:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and at  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] border of  |**<big>&#8207;[[H1366H\|גְּב֣וּל]]&#8207; </big>**| ge.Vul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

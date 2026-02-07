@@ -1,10 +1,7 @@
 **LXX Job 30:19** 
 <small><sub>**LXX:**</sub></small>
 And you have esteemed me equal to clay; in earth and ashes \[is\] my  portion. 
-<small><sub>**KJV:**</sub></small>
-He hath cast me into the mire, and I am become like dust and ashes.
-<small><sub>**BSB:**</sub></small>
-He throws me into the mud, and I have become like dust and ashes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.18|<< Job 30:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.20|Job 30:20 >>]]</td></tr></table>
 
 | Translation | Greek |

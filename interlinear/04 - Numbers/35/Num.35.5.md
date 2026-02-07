@@ -1,4 +1,4 @@
-**Numbers 35:5** 
+**Numbers 35:5**<big><big>[[Num.35.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall measure from without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and the city [shall be] in the midst: this shall be to them the suburbs of the cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are also to measure two thousand cubits outside the city on the east, two th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.4|<< Numbers 35:4]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.6|Numbers 35:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will measure  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4058\|מַדֹּתֶ֞ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ma.do.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] outside  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2351\|ח֣וּץ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Chutz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

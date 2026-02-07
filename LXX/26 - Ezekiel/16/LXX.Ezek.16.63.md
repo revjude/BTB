@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:63** 
 <small><sub>**LXX:**</sub></small>
 so that you should remember and should be ashamed, and it might not be for you still to open  your mouth because of \[the\] face  of your dishonor in  my atoning you according to all as much as you did, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-That thou mayest remember, and be confounded, and never open thy mouth any more because of thy shame, when I am pacified toward thee for all that thou hast done, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-so that when I make atonement for all you have done, you will remember and be ashamed and never again open your mouth because of your disgrace, declares the Lord GOD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.63|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.62|<< Ezekiel 16:62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.1|Ezekiel 17:1 >>]]</td></tr></table>
 
 | Translation | Greek |

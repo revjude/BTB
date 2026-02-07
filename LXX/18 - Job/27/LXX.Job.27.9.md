@@ -1,10 +1,7 @@
 **LXX Job 27:9** 
 <small><sub>**LXX:**</sub></small>
 or  listen to God his supplication? or \[when\] necessity comes upon him, 
-<small><sub>**KJV:**</sub></small>
-Will God hear his cry when trouble cometh upon him?
-<small><sub>**BSB:**</sub></small>
-Will God hear his cry when distress comes upon him?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.27.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.27.8|<< Job 27:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.10|Job 27:10 >>]]</td></tr></table>
 
 | Translation | Greek |

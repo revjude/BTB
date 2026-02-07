@@ -1,4 +1,4 @@
-**Exodus 12:20** 
+**Exodus 12:20**<big><big>[[Exod.12.14 The Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall eat nothing leavened; in all your habitations shall ye eat unleavened bread.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are not to eat anything leavened; eat unleavened bread in all your homes.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.19|<< Exodus 12:19]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.21|Exodus 12:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | any  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thing leavened  |**<big>&#8207;[[H2556A\|מַחְמֶ֖צֶת]]&#8207; </big>**| mach.Me.tzet<small><sup>[[HVhrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

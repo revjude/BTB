@@ -1,10 +1,7 @@
 **LXX Leviticus 2:4** 
 <small><sub>**LXX:**</sub></small>
 And if he should bring a gift \[offering\] sacrifice being baked in an oven, \[it shall be\] of fine flour, of unleavened breads being mixed up with olive oil, or unleavened \[breads\] pancakes being smeared all over in olive oil. 
-<small><sub>**KJV:**</sub></small>
-And if thou bring an oblation of a meat offering baken in the oven, [it shall be] unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil.
-<small><sub>**BSB:**</sub></small>
-Now if you bring an offering of grain baked in an oven, it must consist of fine flour, either unleavened cakes mixed with oil or unleavened wafers coated with oil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.2.3|<< Leviticus 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.2.5|Leviticus 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

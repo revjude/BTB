@@ -1,12 +1,12 @@
-**Mark 15:33
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:33**<big><big>[[Mark.15.33 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the sixth hour was come, there was darkness over the whole land until the ninth hour.
 <small><sub>**BSB:**</sub></small>
 From the sixth hour until the ninth hour darkness came over all the land.
 <small><sub>**Literal:**</sub></small>
 And when was arriving now [the] hour sixth darkness came over all the land until [the] hour ninth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.32|<< Mark 15:32]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.34|Mark 15:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | when was arriving |**<big>[[G1096\|γενομένης]]</big>**  |genomenēs <small><sup>[[V-2ADP-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

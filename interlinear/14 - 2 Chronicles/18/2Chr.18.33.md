@@ -1,4 +1,4 @@
-**2 Chronicles 18:33** 
+**2 Chronicles 18:33**<big><big>[[2Chr.18.28 Ahab’s Defeat and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a [certain] man drew a bow at a venture, and smote the king of Israel between the joints of the harness: therefore he said to his chariot man, Turn thine hand, that thou mayest carry me out of the host; for I am wounded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ However, a certain man drew his bow without taking special aim, and he struck th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.32|<< 2 Chronicles 18:32]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.34|2 Chronicles 18:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and someone  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376I\|אִ֗ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he drew  |**<big>&#8207;[[H4900\|מָשַׁ֤ךְ]]&#8207; </big>**| ma.Shakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

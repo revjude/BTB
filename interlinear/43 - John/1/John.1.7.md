@@ -1,12 +1,12 @@
-**John 1:7
-**<small><sub>**KJV:**</sub></small>
+**John 1:7**<big><big>[[John.1.6 The Witness of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The same came for a witness, to bear witness of the Light, that all [men] through him might believe.
 <small><sub>**BSB:**</sub></small>
 He came as a witness to testify about the Light, so that through him everyone might believe.
 <small><sub>**Literal:**</sub></small>
 He came as a witness that he may testify concerning the Light, that all may believe through him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.6|<< John 1:6]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.8|John 1:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | came |**<big>[[G2064\|ἦλθεν]]</big>**  |ēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

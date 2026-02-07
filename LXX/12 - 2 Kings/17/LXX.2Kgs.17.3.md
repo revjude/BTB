@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:3** 
 <small><sub>**LXX:**</sub></small>
 Against him there ascended Shalmaneser king of \[the\] Assyrians; and Hoshea became to him as a servant, and he bore gifts to him. 
-<small><sub>**KJV:**</sub></small>
-Against him came up Shalmaneser king of Assyria; and Hoshea became his servant, and gave him presents.
-<small><sub>**BSB:**</sub></small>
-Shalmaneser king of Assyria attacked him, and Hoshea became his vassal and paid him tribute.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.2|<< 2 Kings 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.4|2 Kings 17:4 >>]]</td></tr></table>
 
 | Translation | Greek |

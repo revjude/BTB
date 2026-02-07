@@ -1,12 +1,12 @@
-**Luke 12:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:22**<big><big>[[Luke.12.22 Do Not Worry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to His disciples, “Therefore I tell you, do not worry about your life, what you will eat, or about your body, what you will wear.
 <small><sub>**Literal:**</sub></small>
 He said then to the disciples of Him; Because of this I say to you: not do be anxious for the life of you what you may eat, nor [be anxious] for the body of you what you may put on.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.21|<< Luke 12:21]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.23|Luke 12:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

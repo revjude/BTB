@@ -1,10 +1,7 @@
 **LXX Genesis 16:3** 
 <small><sub>**LXX:**</sub></small>
 And the wife of Abram having taken Hagar the Egyptian  her maidservant, after ten years  of living with Abram in \[the\] land of Canaan, and she gave her \[to\] Abram her husband to him for wife. 
-<small><sub>**KJV:**</sub></small>
-And Sarai Abram’s wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife.
-<small><sub>**BSB:**</sub></small>
-So after he had lived in Canaan for ten years, his wife Sarai took her Egyptian maidservant Hagar and gave her to Abram to be his wife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.16.2|<< Genesis 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.16.4|Genesis 16:4 >>]]</td></tr></table>
 
 | Translation | Greek |

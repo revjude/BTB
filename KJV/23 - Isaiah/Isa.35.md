@@ -1,6 +1,6 @@
 (KJV) **Isaiah 35**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34|<< Isaiah 34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36|Isaiah 36 >>]]</td></tr></table>
 
-***The Glory of Zion*** ^bsb1636
+<big><big>[[Isa.35.1 The Glory of Zion|⥃]]</big></big>***The Glory of Zion***
 
  $\quad$ <span class="startversemarker">[</span>**[[Isa.35.1|1]]**<span class="endversemarker">]</span> The wilderness<small><small>[^2]</small></small> and the solitary place shall be<small><small>[^3]</small></small> glad for them; and the desert<small><small>[^4]</small></small> shall rejoice, and blossom as the rose. <span class="startversemarker">[</span>**[[Isa.35.2|2]]**<span class="endversemarker">]</span> It shall blossom abundantly, and rejoice<small><small>[^5]</small></small> even with joy and singing: the glory<small><small>[^6]</small></small> of Lebanon shall be given unto it, the excellency<small><small>[^7]</small></small> of Carmel and Sharon, they shall<small><small>[^8]</small></small> see the glory of the <span class="smallcaps">Lord</span>, \[and\] the excellency of our God. 
 

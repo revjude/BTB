@@ -1,5 +1,5 @@
-**Revelation 14:19
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:19**<big><big>[[Rev.14.14 The Harvest of the Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast [it] into the great winepress of the wrath of God.
 <small><sub>**BSB:**</sub></small>
 So the angel swung his sickle over the earth and gathered the grapes of the earth, and he threw them into the great winepress of God’s wrath.
@@ -10,7 +10,7 @@ And put forth the angel the sickle of him to the earth and gathered the vine of 
 > $\quad$ alluding to: [[LXX.Isa.63.3|Isa 63:3]] ☩ [[LXX.Lam.1.15|Lam 1:15]] ☩ [[LXX.Joel.3.13|Joel 3:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | put forth |**<big>[[G0906G\|ἔβαλεν]]</big>**  |ebalen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

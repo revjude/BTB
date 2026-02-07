@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:21** 
 <small><sub>**LXX:**</sub></small>
 A voice from \[the\] lips was heard of weeping and supplication of \[the\] sons of Israel. For they transgressed in  their ways; they forgot God their holy one. 
-<small><sub>**KJV:**</sub></small>
-A voice was heard upon the high places, weeping [and] supplications of the children of Israel: for they have perverted their way, [and] they have forgotten the LORD their God.
-<small><sub>**BSB:**</sub></small>
-A voice is heard on the barren heights, the children of Israel weeping and begging for mercy, because they have perverted their ways and forgotten the LORD their God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.20|<< Jeremiah 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.22|Jeremiah 3:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 38:9** 
 <small><sub>**LXX:**</sub></small>
 And Onan knowing that the seed be not his -- \[that\] it came to pass whenever he entered to  his brother's wife, he discharged upon the ground,  to not give seed to his brother. 
-<small><sub>**KJV:**</sub></small>
-And Onan knew that the seed should not be his; and it came to pass, when he went in unto his brother’s wife, that he spilled [it] on the ground, lest that he should give seed to his brother.
-<small><sub>**BSB:**</sub></small>
-But Onan knew that the offspring would not belong to him; so whenever he would sleep with his brother’s wife, he would spill his seed on the ground so that he would not produce offspring for his brother.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.8|<< Genesis 38:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.10|Genesis 38:10 >>]]</td></tr></table>
 
 | Translation | Greek |

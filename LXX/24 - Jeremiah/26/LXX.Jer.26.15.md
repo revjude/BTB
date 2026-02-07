@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:15** 
 <small><sub>**LXX:**</sub></small>
 But only in knowing know! that if you do away with me, you have imputed innocent blood against you, and against  this city, and against the ones dwelling in it. For in truth \[the\] <span class="smallcaps">lord</span> has sent me to you to speak into  your ears all  these words. 
-<small><sub>**KJV:**</sub></small>
-But know ye for certain, that if ye put me to death, ye shall surely bring innocent blood upon yourselves, and upon this city, and upon the inhabitants thereof: for of a truth the LORD hath sent me unto you to speak all these words in your ears.
-<small><sub>**BSB:**</sub></small>
-But know for certain that if you put me to death, you will bring innocent blood upon yourselves, upon this city, and upon its residents; for truly the LORD has sent me to speak all these words in your hearing.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.14|<< Jeremiah 26:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.16|Jeremiah 26:16 >>]]</td></tr></table>
 
 | Translation | Greek |

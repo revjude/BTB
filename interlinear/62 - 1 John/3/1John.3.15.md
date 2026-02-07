@@ -1,12 +1,12 @@
-**1 John 3:15
-**<small><sub>**KJV:**</sub></small>
+**1 John 3:15**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whosoever hateth his brother is a murderer: and ye know that no murderer hath eternal life abiding in him.
 <small><sub>**BSB:**</sub></small>
 Everyone who hates his brother is a murderer, and you know that eternal life does not reside in a murderer.
 <small><sub>**Literal:**</sub></small>
 Everyone who is hating the brother of him a murderer is; and you know that any murderer not has life eternal in him abiding.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.14|<< 1 John 3:14]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.16|1 John 3:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Everyone |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezra 9:15** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>  God of Israel, you are just, for we were left being preserved as  in this day. Behold, we all \[are\] before you in our trespasses; for there is no standing before you in this. 
-<small><sub>**KJV:**</sub></small>
-O LORD God of Israel, thou [art] righteous: for we remain yet escaped, as [it is] this day: behold, we [are] before thee in our trespasses: for we cannot stand before thee because of this.
-<small><sub>**BSB:**</sub></small>
-O LORD, God of Israel, You are righteous! For we remain this day as a remnant. Here we are before You in our guilt, though because of it no one can stand before You.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.14|<< Ezra 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.1|Ezra 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

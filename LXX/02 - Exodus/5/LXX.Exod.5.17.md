@@ -1,10 +1,7 @@
 **LXX Exodus 5:17** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, You are idle, you are idlers. Because of this you say, We should go, we should sacrifice \[to\] the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But he said, Ye [are] idle, [ye are] idle: therefore ye say, Let us go [and] do sacrifice to the LORD.
-<small><sub>**BSB:**</sub></small>
-“You are slackers!” Pharaoh replied. “Slackers! That is why you keep saying, ‘Let us go and sacrifice to the LORD.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.16|<< Exodus 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.18|Exodus 5:18 >>]]</td></tr></table>
 
 | Translation | Greek |

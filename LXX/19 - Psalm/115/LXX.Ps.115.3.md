@@ -1,10 +1,7 @@
 **LXX Psalm 115:3** 
 <small><sub>**LXX:**</sub></small>
  But our God in the heaven and in the earth does all as much as he wants. 
-<small><sub>**KJV:**</sub></small>
-But our God [is] in the heavens: he hath done whatsoever he hath pleased.
-<small><sub>**BSB:**</sub></small>
-Our God is in heaven; He does as He pleases.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.115.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.2|<< Psalm 115:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.4|Psalm 115:4 >>]]</td></tr></table>
 
 | Translation | Greek |

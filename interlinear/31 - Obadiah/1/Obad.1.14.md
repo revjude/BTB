@@ -1,4 +1,4 @@
-**Obadiah 1:14** 
+**Obadiah 1:14**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shouldest thou have stood in the crossway, to cut off those of his that did escape; neither shouldest thou have delivered up those of his that did remain in the day of distress.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nor should you stand at the crossroads to cut off their fugitives, nor deliver u
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.13|<< Obadiah 1:13]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.15|Obadiah 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and may not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0408\|אַֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you stand  |**<big>&#8207;[[H5975G\|תַּעֲמֹד֙]]&#8207; </big>**| ta.'a.Mod<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

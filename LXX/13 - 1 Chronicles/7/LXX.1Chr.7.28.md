@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:28** 
 <small><sub>**LXX:**</sub></small>
 And their possession and dwelling \[was\] Beth-el and  her towns, and to \[the\] east Naaran, and to \[the\] west Gezer and  her towns, and Shechem and  her towns unto Gaza and  her towns. 
-<small><sub>**KJV:**</sub></small>
-And their possessions and habitations [were], Bethel and the towns thereof, and eastward Naaran, and westward Gezer, with the towns thereof; Shechem also and the towns thereof, unto Gaza and the towns thereof:
-<small><sub>**BSB:**</sub></small>
-Their holdings and settlements included Bethel and its villages, Naaran to the east, Gezer and its villages to the west, and Shechem and its villages as far as Ayyah and its villages.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.27|<< 1 Chronicles 7:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.29|1 Chronicles 7:29 >>]]</td></tr></table>
 
 | Translation | Greek |

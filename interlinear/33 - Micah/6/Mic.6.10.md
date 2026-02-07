@@ -1,4 +1,4 @@
-**Micah 6:10** 
+**Micah 6:10**<big><big>[[Mic.6.9 The Punishment of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Are there yet the treasures of wickedness in the house of the wicked, and the scant measure [that is] abominable?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Can I forget any longer, O house of the wicked, the treasures of wickedness and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.9|<< Micah 6:9]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.11|Micah 6:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | still  |**<big>&#8207;[[H5750\|ע֗וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ [are] there  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H0786\|אִשׁ֙]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'Ish<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

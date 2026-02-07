@@ -1,4 +1,4 @@
-**Jeremiah 50:8** 
+**Jeremiah 50:8**<big><big>[[Jer.50.4 Hope for Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remove out of the midst of Babylon, and go forth out of the land of the Chaldeans, and be as the he goats before the flocks.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Flee from the midst of Babylon; depart from the land of the Chaldeans; be like t
 > $\quad$ referenced by: [[Rev.18.4|Rev 18:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take flight  |**<big>&#8207;[[H5110\|נֻ֚דוּ]]&#8207; </big>**| Nu.du<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] midst of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8432\|תּ֣וֹךְ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

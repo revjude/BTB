@@ -1,10 +1,7 @@
 **LXX Psalm 115:8** 
 <small><sub>**LXX:**</sub></small>
 become the ones making them likened to them! and all the ones yielding upon them. 
-<small><sub>**KJV:**</sub></small>
-They that make them are like unto them; [so is] every one that trusteth in them.
-<small><sub>**BSB:**</sub></small>
-Those who make them become like them, as do all who trust in them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.115.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.7|<< Psalm 115:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.9|Psalm 115:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ruth 3:9** 
 <small><sub>**LXX:**</sub></small>
 And he said, Who are you? And she said, I am Ruth,  your maidservant; and you shall put  your \[garment\] border upon  your maidservant, for you are a relative. 
-<small><sub>**KJV:**</sub></small>
-And he said, Who [art] thou? And she answered, I [am] Ruth thine handmaid: spread therefore thy skirt over thine handmaid; for thou [art] a near kinsman.
-<small><sub>**BSB:**</sub></small>
-“Who are you?” he asked. “I am your servant Ruth,” she replied. “Spread the corner of your garment over me, for you are a kinsman-redeemer.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.8|<< Ruth 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.10|Ruth 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

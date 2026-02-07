@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΔΑΛΕΘ</p>
 
 He stretched tight his bow as an enemy. He stiffened his right hand as an opponent, and he killed all the desirable \[things\]  of my eyes in \[the\] tent of \[the\] daughter of Zion. He poured out his anger as fire. 
-<small><sub>**KJV:**</sub></small>
-He hath bent his bow like an enemy: he stood with his right hand as an adversary, and slew all [that were] pleasant to the eye in the tabernacle of the daughter of Zion: he poured out his fury like fire.
-<small><sub>**BSB:**</sub></small>
-He has bent His bow like an enemy; His right hand is positioned. Like a foe He has killed all who were pleasing to the eye; He has poured out His wrath like fire on the tent of the Daughter of Zion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.3|<< Lamentations 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.5|Lamentations 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 32:19** 
 <small><sub>**LXX:**</sub></small>
 And he gave charge to the first, and to the second, and to the third, and to all the \[ones\] going before behind  these flocks, saying, According to  this saying you speak \[to\] Esau when  you find him! 
-<small><sub>**KJV:**</sub></small>
-And so commanded he the second, and the third, and all that followed the droves, saying, On this manner shall ye speak unto Esau, when ye find him.
-<small><sub>**BSB:**</sub></small>
-He also instructed the second, the third, and all those following behind the herds: “When you meet Esau, you are to say the same thing to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.18|<< Genesis 32:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.20|Genesis 32:20 >>]]</td></tr></table>
 
 | Translation | Greek |

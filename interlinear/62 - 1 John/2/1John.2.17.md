@@ -1,12 +1,12 @@
-**1 John 2:17
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:17**<big><big>[[1John.2.15 Do Not Love the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.
 <small><sub>**BSB:**</sub></small>
 The world is passing away, along with its desires; but whoever does the will of God remains forever.
 <small><sub>**Literal:**</sub></small>
 And the world is passing away and the desire of it; the [one] however doing the will <the> of God abides to the age.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.16|<< 1 John 2:16]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.18|1 John 2:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

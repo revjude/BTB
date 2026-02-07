@@ -1,10 +1,7 @@
 **LXX 2 Kings 20:6** 
 <small><sub>**LXX:**</sub></small>
 And I will add to  your days fifteen years; and from \[the\] hand of \[the\] king of \[the\] Assyrians I will deliver you and  this city. And I shall shield over  this city because of myself, and because of David  my servant. 
-<small><sub>**KJV:**</sub></small>
-And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David’s sake.
-<small><sub>**BSB:**</sub></small>
-I will add fifteen years to your life. And I will deliver you and this city from the hand of the king of Assyria. I will defend this city for My sake and for the sake of My servant David.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.5|<< 2 Kings 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.7|2 Kings 20:7 >>]]</td></tr></table>
 
 | Translation | Greek |

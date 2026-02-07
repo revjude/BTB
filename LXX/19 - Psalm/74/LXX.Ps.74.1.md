@@ -6,10 +6,7 @@
 
 <small><sub>**LXX:**</sub></small>
 O God, why did you thrust us away unto \[the\] end? is your rage provoked to anger against \[the\] sheep of your pasture? 
-<small><sub>**KJV:**</sub></small>
-Maschil of Asaph. O God, why hast thou cast [us] off for ever? [why] doth thine anger smoke against the sheep of thy pasture?
-<small><sub>**BSB:**</sub></small>
-A Maskil of Asaph. Why have You rejected us forever, O God? Why does Your anger smolder against the sheep of Your pasture?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.74.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.28|<< Psalm 73:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.2|Psalm 74:2 >>]]</td></tr></table>
 
 | Translation | Greek |

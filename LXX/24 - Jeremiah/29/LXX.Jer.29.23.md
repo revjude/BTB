@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:23** 
 <small><sub>**LXX:**</sub></small>
 Because of \[the\] lawlessness which they did in Jerusalem, and they committed adultery with the women  of their fellow-countrymen, and they executed a word by  my name which I did not order to them; and I am witness, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Because they have committed villany in Israel, and have committed adultery with their neighbours’ wives, and have spoken lying words in my name, which I have not commanded them; even I know, and [am] a witness, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-For they have committed an outrage in Israel by committing adultery with the wives of their neighbors and speaking lies in My name, which I did not command them to do. I am He who knows, and I am a witness, declares the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.22|<< Jeremiah 29:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.24|Jeremiah 29:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:18** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, If in peace they come forth, seize them alive! And if for war they came forth, seize them alive! 
-<small><sub>**KJV:**</sub></small>
-And he said, Whether they be come out for peace, take them alive; or whether they be come out for war, take them alive.
-<small><sub>**BSB:**</sub></small>
-“If they have marched out in peace,” he said, “take them alive. Even if they have marched out for war, take them alive.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.17|<< 1 Kings 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.19|1 Kings 20:19 >>]]</td></tr></table>
 
 | Translation | Greek |

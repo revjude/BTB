@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:10** 
 <small><sub>**LXX:**</sub></small>
 And I led them from \[the\] land of Egypt, and I led them into the wilderness. 
-<small><sub>**KJV:**</sub></small>
-Wherefore I caused them to go forth out of the land of Egypt, and brought them into the wilderness.
-<small><sub>**BSB:**</sub></small>
-So I brought them out of the land of Egypt and led them into the wilderness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.9|<< Ezekiel 20:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.11|Ezekiel 20:11 >>]]</td></tr></table>
 
 | Translation | Greek |

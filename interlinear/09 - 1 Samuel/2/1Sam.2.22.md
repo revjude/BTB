@@ -1,4 +1,4 @@
-**1 Samuel 2:22** 
+**1 Samuel 2:22**<big><big>[[1Sam.2.12 Eli’s Wicked Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled [at] the door of the tabernacle of the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Eli was very old, and he heard about everything his sons were doing to all I
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.21|<< 1 Samuel 2:21]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.23|1 Samuel 2:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Eli  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5941\|עֵלִ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was old  |**<big>&#8207;[[H2204\|זָקֵ֣ן]]&#8207; </big>**| za.Ken<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

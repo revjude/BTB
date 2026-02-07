@@ -1,4 +1,4 @@
-**Jeremiah 30:23** 
+**Jeremiah 30:23**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the whirlwind of the LORD goeth forth with fury, a continuing whirlwind: it shall fall with pain upon the head of the wicked.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, the storm of the LORD has gone out with fury, a whirlwind swirling down 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.22|<< Jeremiah 30:22]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.24|Jeremiah 30:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] storm of  |**<big>&#8207;[[H5591B\|סַעֲרַ֣ת]]&#8207; </big>**| sa.'a.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

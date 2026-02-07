@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:14** 
 <small><sub>**LXX:**</sub></small>
 You built to yourself a house well-proportioned, \[with\] upper rooms ventilated, separated by windows, and being boarded by cedar, and being coated in vermilion. 
-<small><sub>**KJV:**</sub></small>
-That saith, I will build me a wide house and large chambers, and cutteth him out windows; and [it is] cieled with cedar, and painted with vermilion.
-<small><sub>**BSB:**</sub></small>
-who says, ‘I will build myself a great palace, with spacious upper rooms.’ So he cuts windows in it, panels it with cedar, and paints it with vermilion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.13|<< Jeremiah 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.15|Jeremiah 22:15 >>]]</td></tr></table>
 
 | Translation | Greek |

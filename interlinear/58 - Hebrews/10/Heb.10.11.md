@@ -1,5 +1,5 @@
-**Hebrews 10:11
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:11**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And every priest standeth daily ministering and offering oftentimes the same sacrifices, which can never take away sins:
 <small><sub>**BSB:**</sub></small>
 Day after day every priest stands to minister and to offer again and again the same sacrifices, which can never take away sins.
@@ -10,7 +10,7 @@ And every indeed priest has stood every day ministering and the same repeatedly 
 > $\quad$ alluding to: [[LXX.Exod.29.38|Exod 29:38]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | every |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

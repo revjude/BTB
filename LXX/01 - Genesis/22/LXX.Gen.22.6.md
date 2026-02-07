@@ -1,10 +1,7 @@
 **LXX Genesis 22:6** 
 <small><sub>**LXX:**</sub></small>
 And Abraham took the wood \[for\] the whole offering, and placed it upon Isaac  his son. And he took with \[his\] hands the fire and the knife; and the two went together. 
-<small><sub>**KJV:**</sub></small>
-And Abraham took the wood of the burnt offering, and laid [it] upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together.
-<small><sub>**BSB:**</sub></small>
-Abraham took the wood for the burnt offering and placed it on his son Isaac. He himself carried the fire and the sacrificial knife, and the two of them walked on together.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.5|<< Genesis 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.7|Genesis 22:7 >>]]</td></tr></table>
 
 | Translation | Greek |

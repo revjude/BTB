@@ -1,10 +1,7 @@
 **LXX 2 Samuel 16:6** 
 <small><sub>**LXX:**</sub></small>
 and throwing stones at  David, and at all the servants  of king David. And all the people, and all the mighty ones of \[the\] right and of \[the\] left of the king. 
-<small><sub>**KJV:**</sub></small>
-And he cast stones at David, and at all the servants of king David: and all the people and all the mighty men [were] on his right hand and on his left.
-<small><sub>**BSB:**</sub></small>
-He threw stones at David and at all the servants of the king, though the troops and all the mighty men were on David’s right and left.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.16.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.5|<< 2 Samuel 16:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.7|2 Samuel 16:7 >>]]</td></tr></table>
 
 | Translation | Greek |

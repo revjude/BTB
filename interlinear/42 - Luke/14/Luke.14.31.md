@@ -1,12 +1,12 @@
-**Luke 14:31
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:31**<big><big>[[Luke.14.25 The Cost of Discipleship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Or what king, going to make war against another king, sitteth not down first, and consulteth whether he be able with ten thousand to meet him that cometh against him with twenty thousand?
 <small><sub>**BSB:**</sub></small>
 Or what king on his way to war with another king will not first sit down and consider whether he can engage with ten thousand men the one coming against him with twenty thousand?
 <small><sub>**Literal:**</sub></small>
 Or what king proceeding with another king to engage in war not having sat down first will take counsel whether able he is with ten thousand to meet the [one] with twenty thousand coming against him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.30|<< Luke 14:30]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.32|Luke 14:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | what |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

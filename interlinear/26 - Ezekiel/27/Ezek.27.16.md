@@ -1,4 +1,4 @@
-**Ezekiel 27:16** 
+**Ezekiel 27:16**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Syria [was] thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Aram was your customer because of your many products; they exchanged turquoise, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.15|<< Ezekiel 27:15]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.17|Ezekiel 27:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Aram  |**<big>&#8207;[[H0758I\|אֲרָ֥ם]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] trader your  |**<big>&#8207;[[H5503\|סֹחַרְתֵּ֖]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| so.char.Te<small><sup>[[HVqrfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 35:33** 
 <small><sub>**LXX:**</sub></small>
 and to cut the stone, and to manufacture the wood \[things\], and to produce with every work of wisdom. 
-<small><sub>**KJV:**</sub></small>
-And in the cutting of stones, to set [them], and in carving of wood, to make any manner of cunning work.
-<small><sub>**BSB:**</sub></small>
-to cut gemstones for settings, and to carve wood, so that he may be a master of every artistic craft.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.32|<< Exodus 35:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.34|Exodus 35:34 >>]]</td></tr></table>
 
 | Translation | Greek |

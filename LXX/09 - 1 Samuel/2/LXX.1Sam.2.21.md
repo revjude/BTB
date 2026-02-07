@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:21** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> visited  Hannah, and she conceived again, and she bore yet three sons and two daughters. And the boy Samuel was magnified in the presence of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the LORD visited Hannah, so that she conceived, and bare three sons and two daughters. And the child Samuel grew before the LORD.
-<small><sub>**BSB:**</sub></small>
-So the LORD attended to Hannah, and she conceived and gave birth to three sons and two daughters. Meanwhile, the boy Samuel grew up in the presence of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.20|<< 1 Samuel 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.22|1 Samuel 2:22 >>]]</td></tr></table>
 
 | Translation | Greek |

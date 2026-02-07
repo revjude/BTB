@@ -1,12 +1,12 @@
-**1 John 2:10
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:10**<big><big>[[1John.2.7 A New Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that loveth his brother abideth in the light, and there is none occasion of stumbling in him.
 <small><sub>**BSB:**</sub></small>
 Whoever loves his brother remains in the light, and there is no cause of stumbling in him.
 <small><sub>**Literal:**</sub></small>
 The [one] loving the brother of him in the light abides and cause for stumbling in him not there is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.9|<< 1 John 2:9]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.11|1 John 2:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | loving |**<big>[[G0025\|ἀγαπῶν]]</big>**  |agapōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

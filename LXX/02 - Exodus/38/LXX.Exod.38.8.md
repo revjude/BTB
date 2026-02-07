@@ -1,10 +1,7 @@
 **LXX Exodus 38:8** 
 <small><sub>**LXX:**</sub></small>
 And he made the brass bathing tub, and the brass base of it from out of the mirrors of the women that fasted, who fasted by the doors of the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And he made the laver [of] brass, and the foot of it [of] brass, of the lookingglasses of [the women] assembling, which assembled [at] the door of the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-Next he made the bronze basin and its stand from the mirrors of the women who served at the entrance to the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.7|<< Exodus 38:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.9|Exodus 38:9 >>]]</td></tr></table>
 
 | Translation | Greek |

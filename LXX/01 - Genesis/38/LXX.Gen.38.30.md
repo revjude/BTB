@@ -1,10 +1,7 @@
 **LXX Genesis 38:30** 
 <small><sub>**LXX:**</sub></small>
 And after this came forth  his brother, of which was upon  his hand the scarlet \[thread\]. And she called  his name Zarah. 
-<small><sub>**KJV:**</sub></small>
-And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah.
-<small><sub>**BSB:**</sub></small>
-Then his brother came out with the scarlet thread around his wrist, and he was named Zerah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.29|<< Genesis 38:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.1|Genesis 39:1 >>]]</td></tr></table>
 
 | Translation | Greek |

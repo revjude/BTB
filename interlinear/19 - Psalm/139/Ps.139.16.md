@@ -1,4 +1,4 @@
-**Psalms 139:16** 
+**Psalms 139:16**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine eyes did see my substance, yet being unperfect; and in thy book all [my members] were written, [which] in continuance were fashioned, when [as yet there was] none of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your eyes saw my unformed body; all my days were written in Your book and ordain
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.15|<< Psalms 139:15]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.17|Psalms 139:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | shapeless form my  |**<big>&#8207;[[H1564\|גָּלְמִ֤]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| gal.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they saw  |**<big>&#8207;[[H7200G\|רָ֘א֤וּ]]&#8207; </big>**| ra.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

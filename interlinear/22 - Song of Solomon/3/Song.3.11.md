@@ -1,4 +1,4 @@
-**Song of Solomon 3:11** 
+**Song of Solomon 3:11**<big><big>[[Song.3.6 Solomon Arrives on His Wedding Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go forth, O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come out, O daughters of Zion, and gaze at King Solomon, wearing the crown with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.10|<< Song of Solomon 3:10]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.1|Song of Solomon 4:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come out  |**<big>&#8207;[[H3318G\|צְאֶ֧ינָה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| tze.'Ei.nah<small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and look  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H7200G\|רְאֶ֛ינָה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> re.'Ei.nah<small><sup>[[HVqv2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

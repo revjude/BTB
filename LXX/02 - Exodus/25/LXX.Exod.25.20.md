@@ -1,10 +1,7 @@
 **LXX Exodus 25:20** 
 <small><sub>**LXX:**</sub></small>
 The two cherubim will be stretching out the wings on top, overshadowing \[with\] their wings above the atonement-seat, and  their faces to one another; the faces of the cherubim will be towards the atonement-seat. 
-<small><sub>**KJV:**</sub></small>
-And the cherubims shall stretch forth [their] wings on high, covering the mercy seat with their wings, and their faces [shall look] one to another; toward the mercy seat shall the faces of the cherubims be.
-<small><sub>**BSB:**</sub></small>
-And the cherubim are to have wings that spread upward, overshadowing the mercy seat. The cherubim are to face each other, looking toward the mercy seat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.19|<< Exodus 25:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.21|Exodus 25:21 >>]]</td></tr></table>
 
 | Translation | Greek |

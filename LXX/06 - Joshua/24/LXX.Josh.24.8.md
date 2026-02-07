@@ -1,10 +1,7 @@
 **LXX Joshua 24:8** 
 <small><sub>**LXX:**</sub></small>
 And he led you into \[the\] land of \[the\] Amorites  dwelling on the other side of the Jordan; and they deployed against you. And \[the\] <span class="smallcaps">lord</span> delivered them into  your hands, and you inherited  their land, and you utterly destroyed them from your face. 
-<small><sub>**KJV:**</sub></small>
-And I brought you into the land of the Amorites, which dwelt on the other side Jordan; and they fought with you: and I gave them into your hand, that ye might possess their land; and I destroyed them from before you.
-<small><sub>**BSB:**</sub></small>
-Later, I brought you to the land of the Amorites who lived beyond the Jordan. They fought against you, but I delivered them into your hand, that you should possess their land when I destroyed them before you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.7|<< Joshua 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.9|Joshua 24:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:3** 
 <small><sub>**LXX:**</sub></small>
  My God, my guard, I will be yielded upon him; my defender and horn of my deliverance; my shielder and my refuge; my deliverance from \[the\] unjust; you shall deliver me. 
-<small><sub>**KJV:**</sub></small>
-The God of my rock; in him will I trust: [he is] my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence.
-<small><sub>**BSB:**</sub></small>
-My God is my rock, in whom I take refuge, my shield, and the horn of my salvation. My stronghold, my refuge, and my Savior, You save me from violence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.2|<< 2 Samuel 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.4|2 Samuel 22:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Samuel 22:3** is...

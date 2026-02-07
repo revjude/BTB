@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:14** 
 <small><sub>**LXX:**</sub></small>
 And after this they prepared for themselves, and for the priests (for the priests, \[the\] sons of Aaron, in offering of the whole burnt-offerings and of the fat,) until night. And the Levites prepared for themselves, and \[for\] their brethren \[the\] sons of Aaron. 
-<small><sub>**KJV:**</sub></small>
-And afterward they made ready for themselves, and for the priests: because the priests the sons of Aaron [were busied] in offering of burnt offerings and the fat until night; therefore the Levites prepared for themselves, and for the priests the sons of Aaron.
-<small><sub>**BSB:**</sub></small>
-Afterward, they made preparations for themselves and for the priests, since the priests, the descendants of Aaron, were offering up burnt offerings and fat until nightfall. So the Levites made preparations for themselves and for the priests, the descendants of Aaron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.13|<< 2 Chronicles 35:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.15|2 Chronicles 35:15 >>]]</td></tr></table>
 
 | Translation | Greek |

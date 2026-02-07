@@ -1,4 +1,4 @@
-**Job 17:5** 
+**Job 17:5**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that speaketh flattery to [his] friends, even the eyes of his children shall fail.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a man denounces his friends for a price, the eyes of his children will fail.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.4|<< Job 17:4]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.6|Job 17:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for a share  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H2506A\|חֵלֶק]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> che.lek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he tells  |**<big>&#8207;[[H5046\|יַגִּ֣יד]]&#8207; </big>**| ya.Gid<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 8:24** 
 <small><sub>**LXX:**</sub></small>
 And Gideon said to them, I will ask from you a request, and you give to me -- \[every\] man an ear-ring of his spoils; for ear-rings of gold was to them, because they were Ismaelites. 
-<small><sub>**KJV:**</sub></small>
-And Gideon said unto them, I would desire a request of you, that ye would give me every man the earrings of his prey. (For they had golden earrings, because they [were] Ishmaelites.)
-<small><sub>**BSB:**</sub></small>
-Then he added, “Let me make a request of you, that each of you give me an earring from his plunder.” (For the enemies had gold earrings because they were Ishmaelites.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.23|<< Judges 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.25|Judges 8:25 >>]]</td></tr></table>
 
 | Translation | Greek |

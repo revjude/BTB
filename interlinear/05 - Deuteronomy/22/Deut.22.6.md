@@ -1,4 +1,4 @@
-**Deuteronomy 22:6** 
+**Deuteronomy 22:6**<big><big>[[Deut.22.1 Various Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a bird’s nest chance to be before thee in the way in any tree, or on the ground, [whether they be] young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you come across a bird’s nest with chicks or eggs, either in a tree or on t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.5|<< Deuteronomy 22:5]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.7|Deuteronomy 22:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be met  |**<big>&#8207;[[H7122I\|יִקָּרֵ֣א]]&#8207; </big>**| yi.ka.Re'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

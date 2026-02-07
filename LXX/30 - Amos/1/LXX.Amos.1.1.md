@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[The\] words of Amos, which took place in Kirjath Jearim of Tekoa, which he saw concerning Jerusalem in \[the\] days of Uzziah king of Judah, and in \[the\] days of Jeroboam son Joash king  of Israel, two years before the earthquake. 
-<small><sub>**KJV:**</sub></small>
-The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.
-<small><sub>**BSB:**</sub></small>
-These are the words of Amos, who was among the sheepherders of Tekoa—what he saw concerning Israel two years before the earthquake, in the days when Uzziah was king of Judah and Jeroboam son of Jehoash was king of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.21|<< Joel 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.2|Amos 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 14:9** 
+**Jeremiah 14:9**<big><big>[[Jer.14.1 Drought, Famine, Sword, and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why shouldest thou be as a man astonied, as a mighty man [that] cannot save? yet thou, O LORD, [art] in the midst of us, and we are called by thy name; leave us not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why are You like a man taken by surprise, like a warrior powerless to save? Yet 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.8|<< Jeremiah 14:8]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.10|Jeremiah 14:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֤]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | are you  |**<big>&#8207;[[H1961\|תִֽהְיֶה֙]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

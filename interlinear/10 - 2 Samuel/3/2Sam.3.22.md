@@ -1,4 +1,4 @@
-**2 Samuel 3:22** 
+**2 Samuel 3:22**<big><big>[[2Sam.3.22 Joab Murders Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, the servants of David and Joab came from [pursuing] a troop, and brought in a great spoil with them: but Abner [was] not with David in Hebron; for he had sent him away, and he was gone in peace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Just then David’s soldiers and Joab returned from a raid, bringing with them a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.21|<< 2 Samuel 3:21]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.23|2 Samuel 3:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּה֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] servants of  |**<big>&#8207;[[H5650\|עַבְדֵ֨י]]&#8207; </big>**| 'av.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

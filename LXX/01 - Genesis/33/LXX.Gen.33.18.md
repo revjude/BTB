@@ -1,10 +1,7 @@
 **LXX Genesis 33:18** 
 <small><sub>**LXX:**</sub></small>
 And Jacob came to Shalem, a city of Shechem, which is in \[the\] land of Canaan, when he returned back from  Mesopotamia Syria. And he camped before \[the\] face of the city. 
-<small><sub>**KJV:**</sub></small>
-And Jacob came to Shalem, a city of Shechem, which [is] in the land of Canaan, when he came from Padanaram; and pitched his tent before the city.
-<small><sub>**BSB:**</sub></small>
-After Jacob had come from Paddan-aram, he arrived safely at the city of Shechem in the land of Canaan, and he camped just outside the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.33.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.33.17|<< Genesis 33:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.19|Genesis 33:19 >>]]</td></tr></table>
 
 | Translation | Greek |

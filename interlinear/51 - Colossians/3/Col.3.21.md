@@ -1,12 +1,12 @@
-**Colossians 3:21
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:21**<big><big>[[Col.3.18 Christian Households|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Fathers, provoke not your children [to anger], lest they be discouraged.
 <small><sub>**BSB:**</sub></small>
 Fathers, do not provoke your children, so they will not become discouraged.
 <small><sub>**Literal:**</sub></small>
 you who [are] Fathers, not do provoke the children of you, that not they may become discouraged.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.20|<< Colossians 3:20]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.22|Colossians 3:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you who [are] |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Fathers, |**<big>[[G3962\|πατέρες,]]</big>**  |pateres <small><sup>[[N-VPM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

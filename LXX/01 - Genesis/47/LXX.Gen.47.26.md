@@ -1,10 +1,7 @@
 **LXX Genesis 47:26** 
 <small><sub>**LXX:**</sub></small>
 And Joseph established it to them as an order until  this day for \[the\] land of Egypt,  for Pharaoh to take a fifth, except of the land of the priests only, which was not \[to\] Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-And Joseph made it a law over the land of Egypt unto this day, [that] Pharaoh should have the fifth [part]; except the land of the priests only, [which] became not Pharaoh’s.
-<small><sub>**BSB:**</sub></small>
-So Joseph established a law that a fifth of the produce belongs to Pharaoh, and it is in effect in the land of Egypt to this day. Only the priests’ land does not belong to Pharaoh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.25|<< Genesis 47:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.27|Genesis 47:27 >>]]</td></tr></table>
 
 | Translation | Greek |

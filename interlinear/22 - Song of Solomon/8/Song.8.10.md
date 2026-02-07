@@ -1,4 +1,4 @@
-**Song of Solomon 8:10** 
+**Song of Solomon 8:10**<big><big>[[Song.8.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] a wall, and my breasts like towers: then was I in his eyes as one that found favour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am a wall, and my breasts are like towers. So I have become in his eyes like o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.9|<< Song of Solomon 8:9]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.11|Song of Solomon 8:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֣י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] a wall  |**<big>&#8207;[[H2346G\|חוֹמָ֔ה]]&#8207; </big>**| cho.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

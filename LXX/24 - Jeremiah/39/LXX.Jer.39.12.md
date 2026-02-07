@@ -1,10 +1,7 @@
 **LXX Jeremiah 39:12** 
 <small><sub>**LXX:**</sub></small>
 Take him and put  your eyes upon him! and you should not do to him anything bad; but as it should be said to you, thus you shall do for him! 
-<small><sub>**KJV:**</sub></small>
-Take him, and look well to him, and do him no harm; but do unto him even as he shall say unto thee.
-<small><sub>**BSB:**</sub></small>
-“Take him, look after him, and do not let any harm come to him; do for him whatever he says.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.39.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.11|<< Jeremiah 39:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.13|Jeremiah 39:13 >>]]</td></tr></table>
 
 | Translation | Greek |

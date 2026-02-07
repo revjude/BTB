@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:34** 
 <small><sub>**LXX:**</sub></small>
 In  his days, Hiel the Beth-elite built  Jericho; he laid its foundation with Abiram his first-born, and with  Segub  his younger he set up its doors, according to the saying of \[the\] <span class="smallcaps">lord</span>, which he spoke by \[the\] hand of Joshua son of Nun. 
-<small><sub>**KJV:**</sub></small>
-In his days did Hiel the Bethelite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest [son] Segub, according to the word of the LORD, which he spake by Joshua the son of Nun.
-<small><sub>**BSB:**</sub></small>
-In Ahab’s days, Hiel the Bethelite rebuilt Jericho. At the cost of Abiram his firstborn he laid its foundation, and at the cost of Segub his youngest he set up its gates, according to the word that the LORD had spoken through Joshua son of Nun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.33|<< 1 Kings 16:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.1|1 Kings 17:1 >>]]</td></tr></table>
 
 | Translation | Greek |

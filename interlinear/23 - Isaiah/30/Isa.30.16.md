@@ -1,4 +1,4 @@
-**Isaiah 30:16** 
+**Isaiah 30:16**<big><big>[[Isa.30.1 The Worthless Treaty with Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye said, No; for we will flee upon horses; therefore shall ye flee: and, We will ride upon the swift; therefore shall they that pursue you be swift.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But ye said, No; for we will flee upon horses; therefore shall ye flee: and, We 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.15|<< Isaiah 30:15]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.17|Isaiah 30:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֨אמְר֥וּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.me.Ru<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | In-  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

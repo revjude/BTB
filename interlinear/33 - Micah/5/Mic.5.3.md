@@ -1,4 +1,4 @@
-**Micah 5:3** (5:2)
+**Micah 5:3**<big><big>[[Mic.5.1 A Ruler from Bethlehem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will he give them up, until the time [that] she which travaileth hath brought forth: then the remnant of his brethren shall return unto the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore Israel will be abandoned until she who is in labor has given birth; th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.2|<< Micah 5:2]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.4|Micah 5:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֣ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will deliver up them  |**<big>&#8207;[[H5414G\|יִתְּנֵ֔]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| yi.te.Ne<small><sup>[[HVqi3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

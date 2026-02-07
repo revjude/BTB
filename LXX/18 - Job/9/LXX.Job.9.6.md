@@ -1,10 +1,7 @@
 **LXX Job 9:6** 
 <small><sub>**LXX:**</sub></small>
 The one shaking the \[thing\] under heaven from \[its\] foundations, and the columns of it shake. 
-<small><sub>**KJV:**</sub></small>
-Which shaketh the earth out of her place, and the pillars thereof tremble.
-<small><sub>**BSB:**</sub></small>
-He shakes the earth from its place, so that its foundations tremble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.5|<< Job 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.7|Job 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

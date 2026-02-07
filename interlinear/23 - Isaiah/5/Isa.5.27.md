@@ -1,4 +1,4 @@
-**Isaiah 5:27** 
+**Isaiah 5:27**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 None shall be weary nor stumble among them; none shall slumber nor sleep; neither shall the girdle of their loins be loosed, nor the latchet of their shoes be broken:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ None of them grows weary or stumbles; no one slumbers or sleeps. No belt is loos
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.26|<< Isaiah 5:26]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.28|Isaiah 5:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a weary [one]  |**<big>&#8207;[[H5889\|עָיֵ֤ף]]&#8207; </big>**| 'a.Yef<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

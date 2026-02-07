@@ -1,12 +1,12 @@
-**1 Corinthians 12:9
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:9**<big><big>[[1Cor.12.1 Spiritual Gifts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To another faith by the same Spirit; to another the gifts of healing by the same Spirit;
 <small><sub>**BSB:**</sub></small>
 to another faith by the same Spirit, to another gifts of healing by that one Spirit,
 <small><sub>**Literal:**</sub></small>
 to a different one now faith by the same Spirit, to another now gifts of healing in that one Spirit,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.8|<< 1 Corinthians 12:8]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.10|1 Corinthians 12:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to a different one |**<big>[[G2087\|ἑτέρῳ]]</big>**  |heterō <small><sup>[[A-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

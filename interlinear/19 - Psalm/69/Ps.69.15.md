@@ -1,4 +1,4 @@
-**Psalms 69:15** (69:16)
+**Psalms 69:15**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let not the waterflood overflow me, neither let the deep swallow me up, and let not the pit shut her mouth upon me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not let the floods engulf me or the depths swallow me up; let not the Pit clo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.14|<< Psalms 69:14]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.16|Psalms 69:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it overflow me  |**<big>&#8207;[[H7857\|תִּשְׁטְפֵ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| tish.te.Fe.<small><sup>[[HVqj3fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

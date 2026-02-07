@@ -1,10 +1,7 @@
 **LXX Hosea 12:9** 
 <small><sub>**LXX:**</sub></small>
 But I, \[the\] <span class="smallcaps">lord</span>  your God, led you out of \[the\] land of Egypt; still I will settle you in tents as in \[the\] days of \[the\] holiday \[feast\]. 
-<small><sub>**KJV:**</sub></small>
-And I [that am] the LORD thy God from the land of Egypt will yet make thee to dwell in tabernacles, as in the days of the solemn feast.
-<small><sub>**BSB:**</sub></small>
-But I am the LORD your God ever since the land of Egypt. I will again make you dwell in tents, as in the days of the appointed feast.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.12.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.8|<< Hosea 12:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.10|Hosea 12:10 >>]]</td></tr></table>
 
 | Translation | Greek |

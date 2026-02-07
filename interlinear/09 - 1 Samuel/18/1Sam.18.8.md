@@ -1,4 +1,4 @@
-**1 Samuel 18:8** 
+**1 Samuel 18:8**<big><big>[[1Sam.18.5 Saul Envies David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul was very wroth, and the saying displeased him; and he said, They have ascribed unto David ten thousands, and to me they have ascribed [but] thousands: and [what] can he have more but the kingdom?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Saul was furious and resented this song. “They have ascribed tens of thous
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.7|<< 1 Samuel 18:7]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.9|1 Samuel 18:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it burned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2734\|יִּ֨חַר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.char<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Saul  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7586G\|שָׁא֜וּל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

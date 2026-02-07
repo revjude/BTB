@@ -1,4 +1,4 @@
-**Ezekiel 36:30** 
+**Ezekiel 36:30**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will multiply the fruit of the tree, and the increase of the field, that ye shall receive no more reproach of famine among the heathen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will also make the fruit of the trees and the crops of the field plentiful, so
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.29|<< Ezekiel 36:29]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.31|Ezekiel 36:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will increase  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7235A\|הִרְבֵּיתִי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hir.bei.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

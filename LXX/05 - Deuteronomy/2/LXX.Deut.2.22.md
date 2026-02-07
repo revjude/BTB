@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:22** 
 <small><sub>**LXX:**</sub></small>
 even as they did \[inherit\] the sons of Esau, the ones dwelling in Seir, in which manner he obliterated the Horite from their face; and they inherited them, and they were settled in place of them until  this day. 
-<small><sub>**KJV:**</sub></small>
-As he did to the children of Esau, which dwelt in Seir, when he destroyed the Horims from before them; and they succeeded them, and dwelt in their stead even unto this day:
-<small><sub>**BSB:**</sub></small>
-just as He had done for the descendants of Esau who lived in Seir, when He destroyed the Horites from before them. They drove them out and have lived in their place to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.21|<< Deuteronomy 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.23|Deuteronomy 2:23 >>]]</td></tr></table>
 
 | Translation | Greek |

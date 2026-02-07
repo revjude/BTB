@@ -1,4 +1,4 @@
-**Hosea 6:11** 
+**Hosea 6:11**<big><big>[[Hos.6.1 The Unrepentance of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also, O Judah, he hath set an harvest for thee, when I returned the captivity of my people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Also for you, O Judah, a harvest is appointed, when I restore My people from cap
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.6.10|<< Hosea 6:10]]</td><td align="center" style="border:none;">[[Hos.6|Hosea 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.1|Hosea 7:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֕ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

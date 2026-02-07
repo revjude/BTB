@@ -1,4 +1,4 @@
-**Psalms 53:3** (53:4)
+**Psalms 53:3**<big><big>[[Ps.53.1 The Fool Says There Is No God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every one of them is gone back: they are altogether become filthy; [there is] none that doeth good, no, not one.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ All have turned away, they have together become corrupt; there is no one who doe
 > $\quad$ referenced by: [[Rom.3.10|Rom 3:10-12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all of it  |**<big>&#8207;[[H3605\|כֻּלּ֥]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ku.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he turns back  |**<big>&#8207;[[H5472\|סָג֮]]&#8207; </big>**| sag<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

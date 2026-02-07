@@ -1,12 +1,12 @@
-**Luke 19:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:15**<big><big>[[Luke.19.11 The Parable of the Ten Minas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.
 <small><sub>**BSB:**</sub></small>
 When he returned from procuring his kingship, he summoned the servants to whom he had given the money, to find out what each one had earned.
 <small><sub>**Literal:**</sub></small>
 And it came to pass on the returning of him having received the kingdom that he directed to be called to him <the> servants these to whom he had given the money, in order that he may know who what they had gained by trading.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.14|<< Luke 19:14]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.16|Luke 19:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

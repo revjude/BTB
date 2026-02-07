@@ -1,10 +1,7 @@
 **LXX Joel 1:3** 
 <small><sub>**LXX:**</sub></small>
 Concerning them, describe \[to\] your children, and  your children \[to\] their children, and  their children unto another generation! 
-<small><sub>**KJV:**</sub></small>
-Tell ye your children of it, and [let] your children [tell] their children, and their children another generation.
-<small><sub>**BSB:**</sub></small>
-Tell it to your children; let your children tell it to their children, and their children to the next generation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.2|<< Joel 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.4|Joel 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

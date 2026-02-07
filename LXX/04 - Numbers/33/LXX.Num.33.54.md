@@ -1,10 +1,7 @@
 **LXX Numbers 33:54** 
 <small><sub>**LXX:**</sub></small>
 And you shall inherit the land by lot, according to your tribes. To the many you shall multiply  their possession, and to the lesser you shall \[give\] less  for their possession. To what ever \[part\] his name should come forth \[by lot\], there his \[possession\] will be; according to \[the\] tribes of your patrimony you shall inherit. 
-<small><sub>**KJV:**</sub></small>
-And ye shall divide the land by lot for an inheritance among your families: [and] to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man’s [inheritance] shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit.
-<small><sub>**BSB:**</sub></small>
-And you are to divide the land by lot according to your clans. Give a larger inheritance to a larger clan and a smaller inheritance to a smaller one. Whatever falls to each one by lot will be his. You will receive an inheritance according to the tribes of your fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.53|<< Numbers 33:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.55|Numbers 33:55 >>]]</td></tr></table>
 
 | Translation | Greek |

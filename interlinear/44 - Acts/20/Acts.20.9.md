@@ -1,12 +1,12 @@
-**Acts 20:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:9**<big><big>[[Acts.20.7 Eutychus Revived at Troas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there sat in a window a certain young man named Eutychus, being fallen into a deep sleep: and as Paul was long preaching, he sunk down with sleep, and fell down from the third loft, and was taken up dead.
 <small><sub>**BSB:**</sub></small>
 And a certain young man named Eutychus, seated in the window, was sinking into a deep sleep as Paul talked on and on. When he was sound asleep, he fell from the third story and was picked up dead.
 <small><sub>**Literal:**</sub></small>
 sitting then a certain young man named Eutychus by the window, overpowered by sleep deep as is talking <the> Paul on longer, having been overpowered by the sleep he fell from the third story down and was picked up dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.8|<< Acts 20:8]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.10|Acts 20:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sitting [^1] |**<big>[[G2516\|καθεζόμενος]]</big>**  |kathezomenos <small><sup>[[V-PNP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | then |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

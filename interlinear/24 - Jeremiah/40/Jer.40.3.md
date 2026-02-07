@@ -1,4 +1,4 @@
-**Jeremiah 40:3** 
+**Jeremiah 40:3**<big><big>[[Jer.40.1 Jeremiah Remains in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the LORD hath brought [it], and done according as he hath said: because ye have sinned against the LORD, and have not obeyed his voice, therefore this thing is come upon you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and now the LORD has fulfilled it; He has done just as He said. Because you peop
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.40.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40.2|<< Jeremiah 40:2]]</td><td align="center" style="border:none;">[[Jer.40|Jeremiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.40.4|Jeremiah 40:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has brought [it]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935M\|יָּבֵ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ve'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he has done  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֛עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

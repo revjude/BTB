@@ -1,4 +1,4 @@
-**Esther 6:9** 
+**Esther 6:9**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let this apparel and horse be delivered to the hand of one of the king’s most noble princes, that they may array the man [withal] whom the king delighteth to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus shall it be done to the man whom the king delighteth to honour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the robe and the horse be entrusted to one of the king’s most noble prince
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.8|<< Esther 6:8]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.10|Esther 6:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and let them put  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5414G\|נָת֨וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.Ton<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the clothing  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3830\|לְּב֜וּשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> le.Vush<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

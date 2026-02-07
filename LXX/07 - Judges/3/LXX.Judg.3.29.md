@@ -1,10 +1,7 @@
 **LXX Judges 3:29** 
 <small><sub>**LXX:**</sub></small>
 And they struck  Moab in  that time, about ten thousand men, all the warriors, and every man having power; and not a man came through safe. 
-<small><sub>**KJV:**</sub></small>
-And they slew of Moab at that time about ten thousand men, all lusty, and all men of valour; and there escaped not a man.
-<small><sub>**BSB:**</sub></small>
-At that time they struck down about ten thousand Moabites, all robust and valiant men. Not one of them escaped.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.28|<< Judges 3:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.30|Judges 3:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after  these words, that \[there\] was one vineyard \[to\] Naboth the Jezreelite, by the house of Ahab king of Samaria. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after these things, [that] Naboth the Jezreelite had a vineyard, which [was] in Jezreel, hard by the palace of Ahab king of Samaria.
-<small><sub>**BSB:**</sub></small>
-Some time after these events, Naboth the Jezreelite owned a vineyard in Jezreel next to the palace of Ahab king of Samaria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.43|<< 1 Kings 20:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.2|1 Kings 21:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 11:2** 
+**Deuteronomy 11:2**<big><big>[[Deut.11.1 Obedience and Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And know ye this day: for [I speak] not with your children which have not known, and which have not seen the chastisement of the LORD your God, his greatness, his mighty hand, and his stretched out arm,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Know this day that it is not your children who have known and seen the disciplin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.1|<< Deuteronomy 11:1]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.3|Deuteronomy 11:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will know  |**<big>&#8207;[[H9001\|וִֽ]]&#8207;&#8207;[[H3045\|ידַעְתֶּם֮]]&#8207; </big>**| vi.<small><sup>[[Hc]]</sup></small> da'.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יּוֹם֒]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

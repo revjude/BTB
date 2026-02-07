@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:28** 
 <small><sub>**LXX:**</sub></small>
 The ones rocks dwelling in Moab left the cities and lived in; they became as doves nesting in rocks, at \[the\] mouth of a pit. 
-<small><sub>**KJV:**</sub></small>
-O ye that dwell in Moab, leave the cities, and dwell in the rock, and be like the dove [that] maketh her nest in the sides of the hole’s mouth.
-<small><sub>**BSB:**</sub></small>
-Abandon the towns and settle among the rocks, O dwellers of Moab! Be like a dove that nests at the mouth of a cave.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.27|<< Jeremiah 48:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.29|Jeremiah 48:29 >>]]</td></tr></table>
 
 | Translation | Greek |

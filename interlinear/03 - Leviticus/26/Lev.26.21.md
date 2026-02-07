@@ -1,4 +1,4 @@
-**Leviticus 26:21** 
+**Leviticus 26:21**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye walk contrary unto me, and will not hearken unto me; I will bring seven times more plagues upon you according to your sins.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you walk in hostility toward Me and refuse to obey Me, I will multiply your p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.20|<< Leviticus 26:20]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.22|Leviticus 26:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will walk  |**<big>&#8207;[[H1980I\|תֵּֽלְכ֤וּ]]&#8207; </big>**| te.le.Khu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

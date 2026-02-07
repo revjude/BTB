@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:52** 
 <small><sub>**LXX:**</sub></small>
 And you, carry  your torment! by which you corrupted  your sisters in  your sins which you acted lawlessly above them, and justified them above yourself. And you, be ashamed and take  your dishonor! in that you justified  your sisters. 
-<small><sub>**KJV:**</sub></small>
-Thou also, which hast judged thy sisters, bear thine own shame for thy sins that thou hast committed more abominable than they: they are more righteous than thou: yea, be thou confounded also, and bear thy shame, in that thou hast justified thy sisters.
-<small><sub>**BSB:**</sub></small>
-So now you must bear your disgrace, since you have brought justification for your sisters. For they appear more righteous than you, because your sins were more vile than theirs. So you too must bear your shame and disgrace, since you have made your sisters appear righteous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.51|<< Ezekiel 16:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.53|Ezekiel 16:53 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 35:15** 
 <small><sub>**LXX:**</sub></small>
 and the altar of the incense, and the bearing poles of it, and the oil for the anointing, and incense for the composition, and the draw curtain for the door of the tent, 
-<small><sub>**KJV:**</sub></small>
-And the incense altar, and his staves, and the anointing oil, and the sweet incense, and the hanging for the door at the entering in of the tabernacle,
-<small><sub>**BSB:**</sub></small>
-the altar of incense with its poles; the anointing oil and fragrant incense; the curtain for the doorway at the entrance to the tabernacle;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.14|<< Exodus 35:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.16|Exodus 35:16 >>]]</td></tr></table>
 
 | Translation | Greek |

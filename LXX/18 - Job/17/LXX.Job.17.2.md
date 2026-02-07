@@ -1,10 +1,7 @@
 **LXX Job 17:2** 
 <small><sub>**LXX:**</sub></small>
 In wearying I implore, for what shall I do? and strangers stole my possessions. 
-<small><sub>**KJV:**</sub></small>
-[Are there] not mockers with me? and doth not mine eye continue in their provocation?
-<small><sub>**BSB:**</sub></small>
-Surely mockers surround me, and my eyes must gaze at their rebellion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.17.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.17.1|<< Job 17:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.17.3|Job 17:3 >>]]</td></tr></table>
 
 | Translation | Greek |

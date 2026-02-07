@@ -1,4 +1,4 @@
-**2 Chronicles 20:35** 
+**2 Chronicles 20:35**<big><big>[[2Chr.20.35 Jehoshaphat’s Fleet Is Wrecked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel, who did very wickedly:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Later, Jehoshaphat king of Judah made an alliance with Ahaziah king of Israel, w
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.34|<< 2 Chronicles 20:34]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.36|2 Chronicles 20:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחֲרֵי]]&#8207;&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.cha.rei.<small><sup>[[HAcmpc]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he made an alliance  |**<big>&#8207;[[H2266\|אֶתְחַבַּר֙]]&#8207; </big>**| 'et.cha.Bar<small><sup>[[HVPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

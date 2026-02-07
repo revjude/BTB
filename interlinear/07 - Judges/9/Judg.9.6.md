@@ -1,4 +1,4 @@
-**Judges 9:6** 
+**Judges 9:6**<big><big>[[Judg.9.1 Abimelech’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the men of Shechem gathered together, and all the house of Millo, and went, and made Abimelech king, by the plain of the pillar that [was] in Shechem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then all the leaders of Shechem and Beth-millo gathered beside the oak at the pi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.5|<< Judges 9:5]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.7|Judges 9:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0622\|יֵּאָ֨סְפ֜וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.'A.se.Fu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

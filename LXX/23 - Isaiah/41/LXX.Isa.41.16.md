@@ -1,10 +1,7 @@
 **LXX Isaiah 41:16** 
 <small><sub>**LXX:**</sub></small>
 And you shall winnow \[them\], and a wind shall take them, and \[the\] gale shall scatter them. But you shall be glad among the holy ones of Israel. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt fan them, and the wind shall carry them away, and the whirlwind shall scatter them: and thou shalt rejoice in the LORD, [and] shalt glory in the Holy One of Israel.
-<small><sub>**BSB:**</sub></small>
-You will winnow them, and a wind will carry them away; a gale will scatter them. But you will rejoice in the LORD; you will glory in the Holy One of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.15|<< Isaiah 41:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.17|Isaiah 41:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 12:20** 
 <small><sub>**LXX:**</sub></small>
 Treachery \[is\] in \[the\] heart of \[the\] one contriving evils; but the ones wanting peace shall be glad. 
-<small><sub>**KJV:**</sub></small>
-Deceit [is] in the heart of them that imagine evil: but to the counsellers of peace [is] joy.
-<small><sub>**BSB:**</sub></small>
-Deceit is in the hearts of those who devise evil, but the counselors of peace have joy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.12.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.19|<< Proverbs 12:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.21|Proverbs 12:21 >>]]</td></tr></table>
 
 | Translation | Greek |

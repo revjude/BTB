@@ -1,4 +1,4 @@
-**Jeremiah 26:17** 
+**Jeremiah 26:17**<big><big>[[Jer.26.16 Jeremiah Spared from Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then rose up certain of the elders of the land, and spake to all the assembly of the people, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Some of the elders of the land stood up and said to the whole assembly of the pe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.16|<< Jeremiah 26:16]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.18|Jeremiah 26:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּקֻ֣מוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ku.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | men  |**<big>&#8207;[[H0582\|אֲנָשִׁ֔ים]]&#8207; </big>**| 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

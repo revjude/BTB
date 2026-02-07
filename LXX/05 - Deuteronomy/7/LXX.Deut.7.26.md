@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:26** 
 <small><sub>**LXX:**</sub></small>
 And you shall not carry an abomination into  your house, that it be anathema as this \[thing\]. Loathing you shall loathe, and as an abomination you shall abhor \[it\], for it is anathema. 
-<small><sub>**KJV:**</sub></small>
-Neither shalt thou bring an abomination into thine house, lest thou be a cursed thing like it: [but] thou shalt utterly detest it, and thou shalt utterly abhor it; for it [is] a cursed thing.
-<small><sub>**BSB:**</sub></small>
-And you must not bring any detestable thing into your house, or you, like it, will be set apart for destruction. You are to utterly detest and abhor it, because it is set apart for destruction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.25|<< Deuteronomy 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.1|Deuteronomy 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

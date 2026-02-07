@@ -1,10 +1,7 @@
 **LXX Exodus 6:12** 
 <small><sub>**LXX:**</sub></small>
 And Moses spoke before \[the\] <span class="smallcaps">lord</span>, saying, Behold, the sons of Israel \[do\] not listen to me, and how Pharaoh listen to me, for I am not reckoned? 
-<small><sub>**KJV:**</sub></small>
-And Moses spake before the LORD, saying, Behold, the children of Israel have not hearkened unto me; how then shall Pharaoh hear me, who [am] of uncircumcised lips?
-<small><sub>**BSB:**</sub></small>
-But in the LORD’s presence Moses replied, “If the Israelites will not listen to me, then why would Pharaoh listen to me, since I am unskilled in speech?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.11|<< Exodus 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.13|Exodus 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 8:13
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:13**<big><big>[[Luke.8.4 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They on the rock [are they], which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away.
 <small><sub>**BSB:**</sub></small>
 The seeds on rocky ground are those who hear the word and receive it with joy, but they have no root. They believe for a season, but in the time of testing, they fall away.
 <small><sub>**Literal:**</sub></small>
 Those now upon the rock, those who when they may hear with joy receive the word; and these a root not have, who for a time believe and in time of testing fall away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.12|<< Luke 8:12]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.14|Luke 8:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

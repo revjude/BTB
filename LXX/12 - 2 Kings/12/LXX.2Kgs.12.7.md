@@ -1,10 +1,7 @@
 **LXX 2 Kings 12:7** 
 <small><sub>**LXX:**</sub></small>
 And Joash the king called  Jehoiada the priest, and the priests, and he said to them, Why \[is it\] that the breach of the house was not repaired? And now, do not take the money from  your sales! for unto the breach of the house you shall appoint it. 
-<small><sub>**KJV:**</sub></small>
-Then king Jehoash called for Jehoiada the priest, and the [other] priests, and said unto them, Why repair ye not the breaches of the house? now therefore receive no [more] money of your acquaintance, but deliver it for the breaches of the house.
-<small><sub>**BSB:**</sub></small>
-So King Joash called Jehoiada and the other priests and said, “Why have you not repaired the damage to the temple? Now, therefore, take no more money from your constituency, but hand it over for the repair of the temple.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.6|<< 2 Kings 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.8|2 Kings 12:8 >>]]</td></tr></table>
 
 | Translation | Greek |

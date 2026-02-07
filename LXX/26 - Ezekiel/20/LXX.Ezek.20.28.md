@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:28** 
 <small><sub>**LXX:**</sub></small>
 And I brought them into the land which I lifted up  my hand  to give it to them. And they beheld every high hill, and every shady tree. And they sacrificed there \[to\] their gods. And they arranged there \[the\] wrath of the gift \[offerings\]. And they arranged there a scent of their pleasant aroma \[offering\]. And they offered a libation there of their libation \[offerings\]. 
-<small><sub>**KJV:**</sub></small>
-[For] when I had brought them into the land, [for] the which I lifted up mine hand to give it to them, then they saw every high hill, and all the thick trees, and they offered there their sacrifices, and there they presented the provocation of their offering: there also they made their sweet savour, and poured out there their drink offerings.
-<small><sub>**BSB:**</sub></small>
-When I brought them into the land that I swore to give them and they saw any high hill or leafy tree, there they offered their sacrifices, presented offerings that provoked Me, sent up their fragrant incense, and poured out their drink offerings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.27|<< Ezekiel 20:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.29|Ezekiel 20:29 >>]]</td></tr></table>
 
 | Translation | Greek |

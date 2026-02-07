@@ -1,4 +1,4 @@
-**Genesis 42:31** 
+**Genesis 42:31**<big><big>[[Gen.42.25 Joseph’s Brothers Return to Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we said unto him, We [are] true [men]; we are no spies:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But we told him, ‘We are honest men, not spies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.30|<< Genesis 42:30]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.32|Genesis 42:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|נֹּ֥אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> No.mer<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָ֖י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:19** 
 <small><sub>**LXX:**</sub></small>
  My belly,  my belly aches, and the senses  of my heart. My soul is irresistibly led. My heart is being thrown into a spasm. I shall not keep silent, for my soul heard \[the\] sound of a trumpet, a cry of war, 
-<small><sub>**KJV:**</sub></small>
-My bowels, my bowels! I am pained at my very heart; my heart maketh a noise in me; I cannot hold my peace, because thou hast heard, O my soul, the sound of the trumpet, the alarm of war.
-<small><sub>**BSB:**</sub></small>
-My anguish, my anguish! I writhe in pain! Oh, the pain in my chest! My heart pounds within me; I cannot be silent. For I have heard the sound of the horn, the alarm of battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.18|<< Jeremiah 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.20|Jeremiah 4:20 >>]]</td></tr></table>
 
 | Translation | Greek |

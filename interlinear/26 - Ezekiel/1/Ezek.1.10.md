@@ -1,4 +1,4 @@
-**Ezekiel 1:10** 
+**Ezekiel 1:10**<big><big>[[Ezek.1.4 The Four Living Creatures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for the likeness of their faces, they four had the face of a man, and the face of a lion, on the right side: and they four had the face of an ox on the left side; they four also had the face of an eagle.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The form of their faces was that of a man, and each of the four had the face of 
 > $\quad$ referenced by: [[Rev.4.7|Rev 4:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] likeness of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1823\|דְמ֣וּת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.Mut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | faces their  |**<big>&#8207;[[H6440H\|פְּנֵי]]&#8207;&#8207;[[H9028\|הֶם֮]]&#8207; </big>**| pe.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

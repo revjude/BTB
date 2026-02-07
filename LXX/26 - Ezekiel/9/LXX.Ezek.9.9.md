@@ -1,10 +1,7 @@
 **LXX Ezekiel 9:9** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, \[The\] iniquity of the house of Israel and Judah has been magnified very exceedingly. For the land was filled of many peoples, and the city was filled with iniquity and uncleanness. For they say, \[The\] <span class="smallcaps">lord</span> has abandoned the earth, \[the\] <span class="smallcaps">lord</span> does not inspect it. 
-<small><sub>**KJV:**</sub></small>
-Then said he unto me, The iniquity of the house of Israel and Judah [is] exceeding great, and the land is full of blood, and the city full of perverseness: for they say, The LORD hath forsaken the earth, and the LORD seeth not.
-<small><sub>**BSB:**</sub></small>
-He replied, “The iniquity of the house of Israel and Judah is exceedingly great. The land is full of bloodshed, and the city is full of perversity. For they say, ‘The LORD has forsaken the land; the LORD does not see.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.8|<< Ezekiel 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.10|Ezekiel 9:10 >>]]</td></tr></table>
 
 | Translation | Greek |

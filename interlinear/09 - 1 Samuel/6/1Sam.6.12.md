@@ -1,4 +1,4 @@
-**1 Samuel 6:12** 
+**1 Samuel 6:12**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the kine took the straight way to the way of Bethshemesh, [and] went along the highway, lowing as they went, and turned not aside [to] the right hand or [to] the left; and the lords of the Philistines went after them unto the border of Bethshemesh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the cows headed straight up the road toward Beth-shemesh, staying on that on
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.11|<< 1 Samuel 6:11]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.13|1 Samuel 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were straight  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3474\|יִשַּׁ֨רְנָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> yi.Shar.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cows  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6510\|פָּר֜וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pa.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

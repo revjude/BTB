@@ -1,4 +1,4 @@
-**Leviticus 13:9** 
+**Leviticus 13:9**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the plague of leprosy is in a man, then he shall be brought unto the priest;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When anyone develops a skin disease, he must be brought to the priest.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.8|<< Leviticus 13:8]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.10|Leviticus 13:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a plague of  |**<big>&#8207;[[H5061\|נֶ֣גַע]]&#8207; </big>**| Ne.ga'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a serious skin disease  |**<big>&#8207;[[H6883\|צָרַ֔עַת]]&#8207; </big>**| tza.Ra.'at<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

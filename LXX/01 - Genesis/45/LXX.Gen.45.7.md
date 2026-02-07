@@ -1,10 +1,7 @@
 **LXX Genesis 45:7** 
 <small><sub>**LXX:**</sub></small>
 For God sent me in front of you, \[that there may\] be left to you a vestige upon the earth, and to nourish to you a great remnant. 
-<small><sub>**KJV:**</sub></small>
-And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.
-<small><sub>**BSB:**</sub></small>
-God sent me before you to preserve you as a remnant on the earth and to save your lives by a great deliverance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.6|<< Genesis 45:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.8|Genesis 45:8 >>]]</td></tr></table>
 
 | Translation | Greek |

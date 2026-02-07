@@ -1,4 +1,4 @@
-**Joel 3:21** (4:21)
+**Joel 3:21**<big><big>[[Joel.3.17 Blessings for God’s People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will cleanse their blood [that] I have not cleansed: for the LORD dwelleth in Zion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I will avenge their blood, which I have not yet avenged.” For the LORD dwe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.20|<< Joel 3:20]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.1|Amos 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will leave unpunished  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5352\|נִקֵּ֖יתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ni.Kei.ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | blood their  |**<big>&#8207;[[H1818\|דָּמָ֣]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| da.Ma<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

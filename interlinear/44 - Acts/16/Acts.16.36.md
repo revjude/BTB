@@ -1,12 +1,12 @@
-**Acts 16:36
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:36**<big><big>[[Acts.16.35 An Official Apology|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the keeper of the prison told this saying to Paul, The magistrates have sent to let you go: now therefore depart, and go in peace.
 <small><sub>**BSB:**</sub></small>
 The jailer informed Paul: “The magistrates have sent orders to release you. Now you may go on your way in peace.”
 <small><sub>**Literal:**</sub></small>
 Reported then the jailer <the> words these to <the> Paul that Have sent the captains that you may be let go; Now therefore having gone out do depart in peace.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.35|<< Acts 16:35]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.37|Acts 16:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Reported |**<big>[[G0518\|ἀπήγγειλεν]]</big>**  |apēngeilen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Philippians 4:11
-**<small><sub>**KJV:**</sub></small>
+**Philippians 4:11**<big><big>[[Phil.4.10 The Generosity of the Philippians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Not that I speak in respect of want: for I have learned, in whatsoever state I am, [therewith] to be content.
 <small><sub>**BSB:**</sub></small>
 I am not saying this out of need, for I have learned to be content regardless of my circumstances.
 <small><sub>**Literal:**</sub></small>
 Not for as to destitution I speak; I myself for have learned in that which I am content to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.10|<< Philippians 4:10]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.12|Philippians 4:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐχ]]</big>**  |ouch <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

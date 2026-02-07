@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:12** 
 <small><sub>**LXX:**</sub></small>
 Assemble the people! the men, and the women, and the progeny, and the foreigner, the one in  your cities, that they should hear, and that they should learn to fear \[the\] <span class="smallcaps">lord</span>  your God. And they shall hearken to do all the words  of this law. 
-<small><sub>**KJV:**</sub></small>
-Gather the people together, men, and women, and children, and thy stranger that [is] within thy gates, that they may hear, and that they may learn, and fear the LORD your God, and observe to do all the words of this law:
-<small><sub>**BSB:**</sub></small>
-Assemble the people—men, women, children, and the foreigners within your gates—so that they may listen and learn to fear the LORD your God and to follow carefully all the words of this law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.11|<< Deuteronomy 31:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.13|Deuteronomy 31:13 >>]]</td></tr></table>
 
 | Translation | Greek |

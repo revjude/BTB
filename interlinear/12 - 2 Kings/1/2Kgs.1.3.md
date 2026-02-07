@@ -1,4 +1,4 @@
-**2 Kings 1:3** 
+**2 Kings 1:3**<big><big>[[2Kgs.1.1 Elijah Denounces Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the angel of the LORD said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, [Is it] not because [there is] not a God in Israel, [that] ye go to inquire of Baalzebub the god of Ekron?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the angel of the LORD said to Elijah the Tishbite, “Go up to meet the mess
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.1.2|<< 2 Kings 1:2]]</td><td align="center" style="border:none;">[[2Kgs.1|2 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.1.4|2 Kings 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] angel of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4397H\|מַלְאַ֣ךְ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mal.'Akh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

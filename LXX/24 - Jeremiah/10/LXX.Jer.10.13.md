@@ -1,10 +1,7 @@
 **LXX Jeremiah 10:13** 
 <small><sub>**LXX:**</sub></small>
 and \[the\] multitude of water in \[the\] heaven; and he led clouds from \[the\] end of the earth; he made lightnings for \[the\] rain, and he brought out winds from his treasuries. 
-<small><sub>**KJV:**</sub></small>
-When he uttereth his voice, [there is] a multitude of waters in the heavens, and he causeth the vapours to ascend from the ends of the earth; he maketh lightnings with rain, and bringeth forth the wind out of his treasures.
-<small><sub>**BSB:**</sub></small>
-When He thunders, the waters in the heavens roar; He causes the clouds to rise from the ends of the earth. He generates the lightning with the rain and brings forth the wind from His storehouses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.12|<< Jeremiah 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.14|Jeremiah 10:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 30:7** 
 <small><sub>**LXX:**</sub></small>
 Two \[things\] I ask from you; you should not remove favor from me before  my dying; 
-<small><sub>**KJV:**</sub></small>
-Two [things] have I required of thee; deny me [them] not before I die:
-<small><sub>**BSB:**</sub></small>
-Two things I ask of You—do not refuse me before I die:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.30.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.6|<< Proverbs 30:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.8|Proverbs 30:8 >>]]</td></tr></table>
 
 | Translation | Greek |

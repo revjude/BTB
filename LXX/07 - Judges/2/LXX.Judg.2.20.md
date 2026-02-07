@@ -1,10 +1,7 @@
 **LXX Judges 2:20** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was provoked to anger in rage with  Israel. And he said, Because of as much as this nation abandoned  my covenant which I gave charge \[to\] their fathers, and hearkened not to  my voice, 
-<small><sub>**KJV:**</sub></small>
-And the anger of the LORD was hot against Israel; and he said, Because that this people hath transgressed my covenant which I commanded their fathers, and have not hearkened unto my voice;
-<small><sub>**BSB:**</sub></small>
-So the anger of the LORD burned against Israel, and He said, “Because this nation has transgressed the covenant I laid down for their fathers and has not heeded My voice,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.19|<< Judges 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.21|Judges 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

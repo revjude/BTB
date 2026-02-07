@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:21** 
 <small><sub>**LXX:**</sub></small>
 And his stronger ones will be over them, and  his ruler shall come forth from him. And I will bring them together, and they shall return to me. For who is this who gave  his heart to return to me, says \[the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-And their nobles shall be of themselves, and their governor shall proceed from the midst of them; and I will cause him to draw near, and he shall approach unto me: for who [is] this that engaged his heart to approach unto me? saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Their leader will be one of their own, and their ruler will arise from their midst. And I will bring him near, and he will approach Me, for who would dare on his own to approach Me?” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.20|<< Jeremiah 30:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.22|Jeremiah 30:22 >>]]</td></tr></table>
 
 | Translation | Greek |

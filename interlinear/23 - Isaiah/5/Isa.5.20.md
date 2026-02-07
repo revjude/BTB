@@ -1,4 +1,4 @@
-**Isaiah 5:20** 
+**Isaiah 5:20**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to those who call evil good and good evil, who turn darkness to light and li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.19|<< Isaiah 5:19]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.21|Isaiah 5:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֣וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those [who] say  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0559\|אֹמְרִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

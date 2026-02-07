@@ -1,10 +1,7 @@
 **LXX Job 21:17** 
 <small><sub>**LXX:**</sub></small>
 But in fact, even \[the\] lamp of \[the\] impious shall be extinguished, and there shall come upon them the final event, and pangs from them they shall have from anger. 
-<small><sub>**KJV:**</sub></small>
-How oft is the candle of the wicked put out! and [how oft] cometh their destruction upon them! [God] distributeth sorrows in his anger.
-<small><sub>**BSB:**</sub></small>
-How often is the lamp of the wicked put out? Does disaster come upon them? Does God, in His anger, apportion destruction?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.21.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.16|<< Job 21:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.18|Job 21:18 >>]]</td></tr></table>
 
 | Translation | Greek |

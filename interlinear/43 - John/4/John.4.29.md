@@ -1,12 +1,12 @@
-**John 4:29
-**<small><sub>**KJV:**</sub></small>
+**John 4:29**<big><big>[[John.4.27 The Disciples Return and Marvel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Come, see a man, which told me all things that ever I did: is not this the Christ?
 <small><sub>**BSB:**</sub></small>
 “Come, see a man who told me everything I ever did. Could this be the Christ?”
 <small><sub>**Literal:**</sub></small>
 Come, do see a man who told me all things as much as I did; surely not ever this is the Christ?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.28|<< John 4:28]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.30|John 4:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Come, |**<big>[[G1205\|δεῦτε,]]</big>**  |deute <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do see |**<big>[[G1492H\|ἴδετε]]</big>**  |idete <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,6 +1,6 @@
 (KJV) **Psalm 63**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62|<< Psalm 62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.64|Psalm 64 >>]]</td></tr></table>
 
-***Thirsting for God***&emsp;<small><sup>\[ [[2Sam.15|2 Samuel 15:30–37]] ]</sup></small> ^bsb1356
+<big><big>[[Ps.63.1 Thirsting for God|⥃]]</big></big>***Thirsting for God***&emsp;<small><sup>\[ [[2Sam.15|2 Samuel 15:30–37]] ]</sup></small>
 
 
 

@@ -1,12 +1,12 @@
-**2 Thessalonians 2:9
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 2:9**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Even him], whose coming is after the working of Satan with all power and signs and lying wonders,
 <small><sub>**BSB:**</sub></small>
 The coming of the lawless one will be accompanied by the working of Satan, with every kind of power, sign, and false wonder,
 <small><sub>**Literal:**</sub></small>
 whose is <the> coming according to [the] working <the> of Satan in every power and in signs and in wonders of falsehood<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.8|<< 2 Thessalonians 2:8]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.10|2 Thessalonians 2:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whose |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

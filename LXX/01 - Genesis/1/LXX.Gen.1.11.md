@@ -1,10 +1,7 @@
 **LXX Genesis 1:11** 
 <small><sub>**LXX:**</sub></small>
 And God said, the earth grow pasturage of grass sowing seed according to type, and according to likeness, and \[the\] fruitful tree producing fruit which the seed of it \[is\] in it, according to type upon the earth! And it was so. 
-<small><sub>**KJV:**</sub></small>
-And God said, Let the earth bring forth grass, the herb yielding seed, [and] the fruit tree yielding fruit after his kind, whose seed [is] in itself, upon the earth: and it was so.
-<small><sub>**BSB:**</sub></small>
-Then God said, “Let the earth bring forth vegetation: seed-bearing plants and fruit trees, each bearing fruit with seed according to its kind.” And it was so.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.10|<< Genesis 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.12|Genesis 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

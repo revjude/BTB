@@ -1,4 +1,4 @@
-**1 Samuel 1:20** 
+**1 Samuel 1:20**<big><big>[[1Sam.1.19 The Birth of Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore it came to pass, when the time was come about after Hannah had conceived, that she bare a son, and called his name Samuel, [saying], Because I have asked him of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So in the course of time, Hannah conceived and gave birth to a son. She named hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.19|<< 1 Samuel 1:19]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.21|1 Samuel 1:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] circuit of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8622\|תְקֻפ֣וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> t.ku.Fot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

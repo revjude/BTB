@@ -1,10 +1,7 @@
 **LXX Deuteronomy 21:4** 
 <small><sub>**LXX:**</sub></small>
 and the council of elders of that city shall bring the heifer into a rough ravine which has not been worked, nor sowed; and they shall hamstring the heifer in the ravine, 
-<small><sub>**KJV:**</sub></small>
-And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer’s neck there in the valley:
-<small><sub>**BSB:**</sub></small>
-bring the heifer to a valley with running water that has not been plowed or sown, and break its neck there by the stream.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.3|<< Deuteronomy 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.5|Deuteronomy 21:5 >>]]</td></tr></table>
 
 | Translation | Greek |

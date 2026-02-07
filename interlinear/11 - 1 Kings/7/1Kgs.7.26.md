@@ -1,4 +1,4 @@
-**1 Kings 7:26** 
+**1 Kings 7:26**<big><big>[[1Kgs.7.23 The Molten Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it [was] an hand breadth thick, and the brim thereof was wrought like the brim of a cup, with flowers of lilies: it contained two thousand baths.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It was a handbreadth thick, and its rim was fashioned like the brim of a cup, li
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.25|<< 1 Kings 7:25]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.27|1 Kings 7:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and thickness its  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5672\|עָבְי֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.ve.Y<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] a hand breadth  |**<big>&#8207;[[H2947\|טֶ֔פַח]]&#8207; </big>**| Te.fach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

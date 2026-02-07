@@ -1,10 +1,7 @@
 **LXX Genesis 29:9** 
 <small><sub>**LXX:**</sub></small>
 While he \[was\] speaking to them, and behold, Rachel the daughter of Laban comes with the sheep  of her father. For she grazed the sheep  of her father. 
-<small><sub>**KJV:**</sub></small>
-And while he yet spake with them, Rachel came with her father’s sheep: for she kept them.
-<small><sub>**BSB:**</sub></small>
-While he was still speaking with them, Rachel arrived with her father’s sheep, for she was a shepherdess.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.8|<< Genesis 29:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.10|Genesis 29:10 >>]]</td></tr></table>
 
 | Translation | Greek |

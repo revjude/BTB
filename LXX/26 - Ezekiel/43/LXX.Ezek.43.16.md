@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:16** 
 <small><sub>**LXX:**</sub></small>
 And the altar hearth \[was\] twelve cubits \[in\] length by twelve cubits, four-cornered upon the four parts of it. 
-<small><sub>**KJV:**</sub></small>
-And the altar [shall be] twelve [cubits] long, twelve broad, square in the four squares thereof.
-<small><sub>**BSB:**</sub></small>
-The altar hearth shall be square at its four corners, twelve cubits long and twelve cubits wide.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.15|<< Ezekiel 43:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.17|Ezekiel 43:17 >>]]</td></tr></table>
 
 | Translation | Greek |

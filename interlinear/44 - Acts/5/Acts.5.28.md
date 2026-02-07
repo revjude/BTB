@@ -1,12 +1,12 @@
-**Acts 5:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:28**<big><big>[[Acts.5.24 The Apostles before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, Did not we straitly command you that ye should not teach in this name? and, behold, ye have filled Jerusalem with your doctrine, and intend to bring this man’s blood upon us.
 <small><sub>**BSB:**</sub></small>
 “We gave you strict orders not to teach in this name,” he said. “Yet you have filled Jerusalem with your teaching and are determined to make us responsible for this man’s blood.”
 <small><sub>**Literal:**</sub></small>
 saying; Surely by a charge we commanded you not to teach in <the> name this. And behold you have filled <the> Jerusalem with the teaching of you and you intend to bring upon us the blood of the man this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.27|<< Acts 5:27]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.29|Acts 5:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Surely |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+TR+Byz">NK</abbr> | |

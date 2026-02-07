@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the cherubim departed. This \[is\] the living creature which I saw by the river  Chebar. 
-<small><sub>**KJV:**</sub></small>
-And the cherubims were lifted up. This [is] the living creature that I saw by the river of Chebar.
-<small><sub>**BSB:**</sub></small>
-Then the cherubim rose upward. These were the living creatures I had seen by the River Kebar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.14|<< Ezekiel 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.16|Ezekiel 10:16 >>]]</td></tr></table>
 
 | Translation | Greek |

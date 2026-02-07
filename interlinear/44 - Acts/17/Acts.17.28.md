@@ -1,12 +1,12 @@
-**Acts 17:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:28**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.
 <small><sub>**BSB:**</sub></small>
 ‘For in Him we live and move and have our being.’ As some of your own poets have said, ‘We are His offspring.’
 <small><sub>**Literal:**</sub></small>
 In Him for we live and move and are,’ As also some of the among you poets have said; of [Him] For also offspring we are.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.27|<< Acts 17:27]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.29|Acts 17:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

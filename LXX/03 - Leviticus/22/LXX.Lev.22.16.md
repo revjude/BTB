@@ -1,10 +1,7 @@
 **LXX Leviticus 22:16** 
 <small><sub>**LXX:**</sub></small>
 that they shall bring upon themselves lawlessness of \[the\] trespass in  their eating  their holy \[things\]; for I \[am\] \[the\] <span class="smallcaps">lord</span>, the one sanctifying them. 
-<small><sub>**KJV:**</sub></small>
-Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the LORD do sanctify them.
-<small><sub>**BSB:**</sub></small>
-by allowing the people to eat the sacred offerings and thus to bear the punishment for guilt. For I am the LORD who sanctifies them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.15|<< Leviticus 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.17|Leviticus 22:17 >>]]</td></tr></table>
 
 | Translation | Greek |

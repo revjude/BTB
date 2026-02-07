@@ -1,10 +1,7 @@
 **LXX Proverbs 23:28** 
 <small><sub>**LXX:**</sub></small>
 For this one suddenly shall perish, and every lawbreaker shall be consumed. 
-<small><sub>**KJV:**</sub></small>
-She also lieth in wait as [for] a prey, and increaseth the transgressors among men.
-<small><sub>**BSB:**</sub></small>
-Like a robber she lies in wait and multiplies the faithless among men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.27|<< Proverbs 23:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.29|Proverbs 23:29 >>]]</td></tr></table>
 
 | Translation | Greek |

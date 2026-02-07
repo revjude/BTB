@@ -1,10 +1,7 @@
 **LXX Isaiah 17:5** 
 <small><sub>**LXX:**</sub></small>
 And it shall be in which manner as if someone should gather a standing harvest, and should reap \[the\] grain of corn; and it shall be in which manner if someone should gather corn in a solid \[rock\] ravine; 
-<small><sub>**KJV:**</sub></small>
-And it shall be as when the harvestman gathereth the corn, and reapeth the ears with his arm; and it shall be as he that gathereth ears in the valley of Rephaim.
-<small><sub>**BSB:**</sub></small>
-as the reaper gathers the standing grain and harvests the ears with his arm, as one gleans heads of grain in the Valley of Rephaim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.17.4|<< Isaiah 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.17.6|Isaiah 17:6 >>]]</td></tr></table>
 
 | Translation | Greek |

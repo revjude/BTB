@@ -1,10 +1,7 @@
 **LXX Exodus 26:12** 
 <small><sub>**LXX:**</sub></small>
 And you shall set the extra in the hide coverings of the tent. The half of the hide covering  being left over you shall cover up for the extra of the hide coverings of the tent. You shall cover up behind the tent. 
-<small><sub>**KJV:**</sub></small>
-And the remnant that remaineth of the curtains of the tent, the half curtain that remaineth, shall hang over the backside of the tabernacle.
-<small><sub>**BSB:**</sub></small>
-As for the overlap that remains of the tent curtains, the half curtain that is left over shall hang down over the back of the tabernacle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.11|<< Exodus 26:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.13|Exodus 26:13 >>]]</td></tr></table>
 
 | Translation | Greek |

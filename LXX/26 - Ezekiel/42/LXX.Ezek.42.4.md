@@ -1,10 +1,7 @@
 **LXX Ezekiel 42:4** 
 <small><sub>**LXX:**</sub></small>
 And over against the inner chambers \[was\] a promenade ten cubits  width by a hundred cubits  \[in\] length, for the inner way one cubit; and  their doorways towards \[the\] north. 
-<small><sub>**KJV:**</sub></small>
-And before the chambers [was] a walk of ten cubits breadth inward, a way of one cubit; and their doors toward the north.
-<small><sub>**BSB:**</sub></small>
-In front of the chambers was an inner walkway ten cubits wide and a hundred cubits long. Their doors were on the north.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.3|<< Ezekiel 42:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.5|Ezekiel 42:5 >>]]</td></tr></table>
 
 | Translation | Greek |

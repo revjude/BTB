@@ -1,12 +1,12 @@
-**Romans 5:12
-**<small><sub>**KJV:**</sub></small>
+**Romans 5:12**<big><big>[[Rom.5.12 Death in Adam, Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:
 <small><sub>**BSB:**</sub></small>
 Therefore, just as sin entered the world through one man, and death through sin, so also death was passed on to all men, because all sinned.
 <small><sub>**Literal:**</sub></small>
 Because of this just as through one man <the> sin into the world entered and through <the> sin <the> death, also thus to all men <the> death passed, for that all sinned;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.11|<< Romans 5:11]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.13|Romans 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|Διὰ]]</big>**  |Dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

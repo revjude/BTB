@@ -1,4 +1,4 @@
-**Daniel 5:19** 
+**Daniel 5:19**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he slew; and whom he would he kept alive; and whom he would he set up; and whom he would he put down.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Because of the greatness that He bestowed on him, the people of every nation and
 > $\quad$ referenced by: [[Rev.13.7|Rev 13:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4481\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | greatness the  |**<big>&#8207;[[H7238\|רְבוּתָ]]&#8207;&#8207;[[H9010\|א֙]]&#8207; </big>**| re.vu.Ta<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

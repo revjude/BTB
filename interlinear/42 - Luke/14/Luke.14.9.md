@@ -1,12 +1,12 @@
-**Luke 14:9
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:9**<big><big>[[Luke.14.7 The Parable of the Guests|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he that bade thee and him come and say to thee, Give this man place; and thou begin with shame to take the lowest room.
 <small><sub>**BSB:**</sub></small>
 Then the host who invited both of you will come and tell you, ‘Give this man your seat.’ And in humiliation, you will have to take the last place.
 <small><sub>**Literal:**</sub></small>
 and having come the [one] you and him having invited he will say to you; do give to this one [your] place. and then you will begin with shame the last place to take.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.8|<< Luke 14:8]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.10|Luke 14:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G2064\|ἐλθὼν]]</big>**  |elthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

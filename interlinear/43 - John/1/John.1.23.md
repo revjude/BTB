@@ -1,5 +1,5 @@
-**John 1:23
-**<small><sub>**KJV:**</sub></small>
+**John 1:23**<big><big>[[John.1.19 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He said, I [am] the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.
 <small><sub>**BSB:**</sub></small>
 John replied in the words of Isaiah the prophet: “I am a voice of one calling in the wilderness, ‘Make straight the way for the Lord.’”
@@ -10,7 +10,7 @@ He was saying; I myself [am] a voice crying in the wilderness; do make straight 
 > $\quad$ referencing: [[LXX.Isa.40.3|Isa 40:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was saying; |**<big>[[G5346\|ἔφη·]]</big>**  |ephē <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I myself [am] |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

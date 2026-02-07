@@ -1,10 +1,7 @@
 **LXX Genesis 36:10** 
 <small><sub>**LXX:**</sub></small>
 And these \[were\] the names of the sons of Esau -- Eliphaz son of Adah, wife of Esau, and Reuel, son of Bashemath wife of Esau. 
-<small><sub>**KJV:**</sub></small>
-These [are] the names of Esau’s sons; Eliphaz the son of Adah the wife of Esau, Reuel the son of Bashemath the wife of Esau.
-<small><sub>**BSB:**</sub></small>
-These are the names of Esau’s sons: Eliphaz son of Esau’s wife Adah, and Reuel son of Esau’s wife Basemath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.9|<< Genesis 36:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.11|Genesis 36:11 >>]]</td></tr></table>
 
 | Translation | Greek |

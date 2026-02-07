@@ -1,12 +1,12 @@
-**Jude 1:20
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:20**<big><big>[[Jude.1.17 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,
 <small><sub>**BSB:**</sub></small>
 But you, beloved, by building yourselves up in your most holy faith and praying in the Holy Spirit,
 <small><sub>**Literal:**</sub></small>
 you yourselves however, beloved, building up yourselves in the most holy of you faith in [the] Spirit Holy praying,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.19|<< Jude 1:19]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.21|Jude 1:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however, |**<big>[[G1161\|δέ,]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

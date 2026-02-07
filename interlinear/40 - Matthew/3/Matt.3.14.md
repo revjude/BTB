@@ -1,12 +1,12 @@
-**Matthew 3:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 3:14**<big><big>[[Matt.3.13 The Baptism of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?
 <small><sub>**BSB:**</sub></small>
 But John tried to prevent Him, saying, “I need to be baptized by You, and do You come to me?”
 <small><sub>**Literal:**</sub></small>
 <the> But John was hindering Him saying; I myself need have by You to be baptized, and You yourself come to me?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.13|<< Matthew 3:13]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.15|Matthew 3:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

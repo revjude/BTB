@@ -1,12 +1,12 @@
-**Romans 16:11
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:11**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Salute Herodion my kinsman. Greet them that be of the [household] of Narcissus, which are in the Lord.
 <small><sub>**BSB:**</sub></small>
 Greet Herodion, my fellow countryman. Greet those from the household of Narcissus who are in the Lord.
 <small><sub>**Literal:**</sub></small>
 do greet Herodion the kinsman of mine. do greet those of the [household] of Narcissus who are being in [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.10|<< Romans 16:10]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.12|Romans 16:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do greet |**<big>[[G0782\|ἀσπάσασθε]]</big>**  |aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Herodion |**<big>[[G2267\|Ἡρῳδίωνα]]</big>**  [^1] |Hērōdiōna <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

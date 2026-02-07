@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:19** 
 <small><sub>**LXX:**</sub></small>
 And now, send and gather together to me all Israel at  mount  Carmel, and the prophets  of Baal -- four hundred and fifty, and the prophets of the sacred groves -- four hundred, eating \[at the\] table of Jezebel! 
-<small><sub>**KJV:**</sub></small>
-Now therefore send, [and] gather to me all Israel unto mount Carmel, and the prophets of Baal four hundred and fifty, and the prophets of the groves four hundred, which eat at Jezebel’s table.
-<small><sub>**BSB:**</sub></small>
-Now summon all Israel to meet me on Mount Carmel, along with the four hundred and fifty prophets of Baal and the four hundred prophets of Asherah who eat at Jezebel’s table.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.18|<< 1 Kings 18:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.20|1 Kings 18:20 >>]]</td></tr></table>
 
 | Translation | Greek |

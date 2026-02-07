@@ -1,4 +1,4 @@
-**Jeremiah 43:13** 
+**Jeremiah 43:13**<big><big>[[Jer.43.1 Jeremiah Taken to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall break also the images of Bethshemesh, that [is] in the land of Egypt; and the houses of the gods of the Egyptians shall he burn with fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will demolish the sacred pillars of the temple of the sun in the land of Egyp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.43.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.43.12|<< Jeremiah 43:12]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.1|Jeremiah 44:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will break  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7665\|שִׁבַּ֗ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.Bar<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

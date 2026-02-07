@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:17** 
 <small><sub>**LXX:**</sub></small>
 And Edom will be for an untrodden \[land\]. All the ones coming upon her shall be amazed, and shall whistle over all  her calamities. 
-<small><sub>**KJV:**</sub></small>
-Also Edom shall be a desolation: every one that goeth by it shall be astonished, and shall hiss at all the plagues thereof.
-<small><sub>**BSB:**</sub></small>
-“Edom will become an object of horror. All who pass by will be appalled and will scoff at all her wounds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.16|<< Jeremiah 49:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.18|Jeremiah 49:18 >>]]</td></tr></table>
 
 | Translation | Greek |

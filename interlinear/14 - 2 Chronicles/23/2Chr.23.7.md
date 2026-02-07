@@ -1,4 +1,4 @@
-**2 Chronicles 23:7** 
+**2 Chronicles 23:7**<big><big>[[2Chr.23.1 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever [else] cometh into the house, he shall be put to death: but be ye with the king when he cometh in, and when he goeth out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Levites must surround the king with weapons in hand, and anyone who enters t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.6|<< 2 Chronicles 23:6]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.8|2 Chronicles 23:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will surround  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5362B\|הִקִּיפוּ֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.ki.Fu<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Levites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֨ם]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

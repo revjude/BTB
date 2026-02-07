@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:30** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span>  your God, the one going forth before your face, he will join in making war against them with you, according to all as much as he did for you in \[the\] land of Egypt, 
-<small><sub>**KJV:**</sub></small>
-The LORD your God which goeth before you, he shall fight for you, according to all that he did for you in Egypt before your eyes;
-<small><sub>**BSB:**</sub></small>
-The LORD your God, who goes before you, will fight for you, just as you saw Him do for you in Egypt<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.29|<< Deuteronomy 1:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.31|Deuteronomy 1:31 >>]]</td></tr></table>
 
 | Translation | Greek |

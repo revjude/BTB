@@ -1,10 +1,7 @@
 **LXX Genesis 9:25** 
 <small><sub>**LXX:**</sub></small>
 And he said, Accursed \[be\] Canaan -- a child, he will be a domestic servant \[to\] his brothers. 
-<small><sub>**KJV:**</sub></small>
-And he said, Cursed [be] Canaan; a servant of servants shall he be unto his brethren.
-<small><sub>**BSB:**</sub></small>
-he said, “Cursed be Canaan! A servant of servants shall he be to his brothers.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.24|<< Genesis 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.9.26|Genesis 9:26 >>]]</td></tr></table>
 
 | Translation | Greek |

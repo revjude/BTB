@@ -1,10 +1,7 @@
 **LXX Psalm 119:102** 
 <small><sub>**LXX:**</sub></small>
 From  your judgments I did not turn aside; for you established law for me. 
-<small><sub>**KJV:**</sub></small>
-I have not departed from thy judgments: for thou hast taught me.
-<small><sub>**BSB:**</sub></small>
-I have not departed from Your ordinances, for You Yourself have taught me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.102|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.101|<< Psalm 119:101]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.103|Psalm 119:103 >>]]</td></tr></table>
 
 | Translation | Greek |

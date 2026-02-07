@@ -1,10 +1,7 @@
 **LXX Hosea 12:14** 
 <small><sub>**LXX:**</sub></small>
 Ephraim was enraged and provoked to anger, therefore  his blood shall be poured out upon him, and  \[the\] <span class="smallcaps">lord</span> shall recompense to him his scorning. 
-<small><sub>**KJV:**</sub></small>
-Ephraim provoked [him] to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him.
-<small><sub>**BSB:**</sub></small>
-Ephraim has provoked bitter anger, so his Lord will leave his bloodguilt upon him and repay him for his contempt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.12.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.13|<< Hosea 12:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.1|Hosea 13:1 >>]]</td></tr></table>
 
 | Translation | Greek |

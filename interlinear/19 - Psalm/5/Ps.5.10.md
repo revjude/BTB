@@ -1,4 +1,4 @@
-**Psalms 5:10** (5:11)
+**Psalms 5:10**<big><big>[[Ps.5.1 Give Ear to My Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Declare them guilty, O God; let them fall by their own devices. Drive them out f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.9|<< Psalms 5:9]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.11|Psalms 5:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hold guilty them  |**<big>&#8207;[[H0816\|הַֽאֲשִׁימֵ֨]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.'a.shi.Me<small><sup>[[HVhv2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God  |**<big>&#8207;[[H0430G\|אֱֽלֹהִ֗ים]]&#8207; </big>**| 'elo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

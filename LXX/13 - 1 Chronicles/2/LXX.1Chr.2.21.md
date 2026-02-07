@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:21** 
 <small><sub>**LXX:**</sub></small>
 And after this Hezron entered to the daughter of Machir father of Gilead, and he took her, and he was sixty years \[old\]. And she bore to him  Segub. 
-<small><sub>**KJV:**</sub></small>
-And afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he [was] threescore years old; and she bare him Segub.
-<small><sub>**BSB:**</sub></small>
-Later, Hezron slept with the daughter of Machir the father of Gilead. He had married her when he was sixty years old, and she bore to him Segub.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.20|<< 1 Chronicles 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.22|1 Chronicles 2:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 28:3** 
+**Jeremiah 28:3**<big><big>[[Jer.28.1 Hananiah’s False Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Within two full years will I bring again into this place all the vessels of the LORD’S house, that Nebuchadnezzar king of Babylon took away from this place, and carried them to Babylon:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Within two years I will restore to this place all the articles of the house of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.2|<< Jeremiah 28:2]]</td><td align="center" style="border:none;">[[Jer.28|Jeremiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28.4|Jeremiah 28:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in yet  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5750\|ע֣וֹד]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'od<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two years  |**<big>&#8207;[[H8141\|שְׁנָתַ֣יִם]]&#8207; </big>**| she.na.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

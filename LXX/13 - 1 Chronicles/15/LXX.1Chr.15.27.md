@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:27** 
 <small><sub>**LXX:**</sub></small>
 And David \[was\] being girded in a robe of fine linen, and all the Levites lifting the ark of \[the\] covenant of \[the\] <span class="smallcaps">lord</span>, and the psalm singers, and Chenaniah the ruler of the odes of the ones singing. And upon David \[was\] an ephod of fine linen. 
-<small><sub>**KJV:**</sub></small>
-And David [was] clothed with a robe of fine linen, and all the Levites that bare the ark, and the singers, and Chenaniah the master of the song with the singers: David also [had] upon him an ephod of linen.
-<small><sub>**BSB:**</sub></small>
-Now David was dressed in a robe of fine linen, as were all the Levites who were carrying the ark, as well as the singers and Chenaniah, the director of music for the singers. David also wore a linen ephod.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.26|<< 1 Chronicles 15:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.28|1 Chronicles 15:28 >>]]</td></tr></table>
 
 | Translation | Greek |

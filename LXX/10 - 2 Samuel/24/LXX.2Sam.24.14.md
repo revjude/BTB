@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:14** 
 <small><sub>**LXX:**</sub></small>
 And David said to Gad, It is an exceedingly narrow \[choice\] to me -- the three \[things\]. I shall fall into the hands of the <span class="smallcaps">lord</span>, for his compassions \[are\] exceedingly great, but into the hands of men in no way shall I fall. 
-<small><sub>**KJV:**</sub></small>
-And David said unto Gad, I am in a great strait: let us fall now into the hand of the LORD; for his mercies [are] great: and let me not fall into the hand of man.
-<small><sub>**BSB:**</sub></small>
-David answered Gad, “I am deeply distressed. Please, let us fall into the hand of the LORD, for His mercies are great; but do not let me fall into the hands of men.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.13|<< 2 Samuel 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.15|2 Samuel 24:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Corinthians 16:11
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:11**<big><big>[[1Cor.16.10 Timothy and Apollos|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let no man therefore despise him: but conduct him forth in peace, that he may come unto me: for I look for him with the brethren.
 <small><sub>**BSB:**</sub></small>
 No one, then, should treat him with contempt. Send him on his way in peace so that he can return to me, for I am expecting him along with the brothers.
 <small><sub>**Literal:**</sub></small>
 Not anyone therefore him may despise; do equip however him in peace, so that he may come to me; I am expecting for him with the brothers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.10|<< 1 Corinthians 16:10]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.12|1 Corinthians 16:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|μή]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

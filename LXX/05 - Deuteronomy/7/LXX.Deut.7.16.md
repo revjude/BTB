@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:16** 
 <small><sub>**LXX:**</sub></small>
 And you shall eat all the spoils of the nations which \[the\] <span class="smallcaps">lord</span>  your God gives to you; you shall not spare  your eye over them; and no way should you serve \[to\] their gods; for this shall be an impediment to you. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt consume all the people which the LORD thy God shall deliver thee; thine eye shall have no pity upon them: neither shalt thou serve their gods; for that [will be] a snare unto thee.
-<small><sub>**BSB:**</sub></small>
-You must destroy all the peoples the LORD your God will deliver to you. Do not look on them with pity. Do not worship their gods, for that will be a snare to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.15|<< Deuteronomy 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.17|Deuteronomy 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

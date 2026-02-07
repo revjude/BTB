@@ -1,4 +1,4 @@
-**Deuteronomy 23:25** (23:26)
+**Deuteronomy 23:25**<big><big>[[Deut.23.15 Miscellaneous Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou comest into the standing corn of thy neighbour, then thou mayest pluck the ears with thine hand; but thou shalt not move a sickle unto thy neighbour’s standing corn.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you enter your neighbor’s grainfield, you may pluck the heads of grain wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.24|<< Deuteronomy 23:24]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.1|Deuteronomy 24:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will go  |**<big>&#8207;[[H0935G\|תָבֹא֙]]&#8207; </big>**| ta.Vo'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

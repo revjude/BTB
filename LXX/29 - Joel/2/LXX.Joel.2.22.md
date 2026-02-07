@@ -1,10 +1,7 @@
 **LXX Joel 2:22** 
 <small><sub>**LXX:**</sub></small>
 Be of courage, O cattle of the plain! for the plains of the wilderness have burst forth; for \[the\] tree bore its fruit; fig-tree and grapevine yielded their strength. 
-<small><sub>**KJV:**</sub></small>
-Be not afraid, ye beasts of the field: for the pastures of the wilderness do spring, for the tree beareth her fruit, the fig tree and the vine do yield their strength.
-<small><sub>**BSB:**</sub></small>
-Do not be afraid, O beasts of the field, for the open pastures have turned green, the trees bear their fruit, and the fig tree and vine yield their best.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.21|<< Joel 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.23|Joel 2:23 >>]]</td></tr></table>
 
 | Translation | Greek |

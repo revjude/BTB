@@ -1,10 +1,7 @@
 **LXX Judges 9:42** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the next day, and came forth the people into the plain, and reported  to Abimelech. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass on the morrow, that the people went out into the field; and they told Abimelech.
-<small><sub>**BSB:**</sub></small>
-The next day the people of Shechem went out into the fields, and this was reported to Abimelech.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.41|<< Judges 9:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.43|Judges 9:43 >>]]</td></tr></table>
 
 | Translation | Greek |

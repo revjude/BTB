@@ -1,10 +1,7 @@
 **LXX Psalm 69:19** 
 <small><sub>**LXX:**</sub></small>
 For you know  my scorning, and  my shame, and  my remorse. Before you are all the ones afflicting me. 
-<small><sub>**KJV:**</sub></small>
-Thou hast known my reproach, and my shame, and my dishonour: mine adversaries [are] all before thee.
-<small><sub>**BSB:**</sub></small>
-You know my reproach, my shame and disgrace. All my adversaries are before You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.18|<< Psalm 69:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.20|Psalm 69:20 >>]]</td></tr></table>
 
 | Translation | Greek |

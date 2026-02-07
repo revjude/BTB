@@ -1,4 +1,4 @@
-**Psalms 19:6** (19:7)
+**Psalms 19:6**<big><big>[[Ps.19.1 The Heavens Declare the Glory of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His going forth [is] from the end of the heaven, and his circuit unto the ends of it: and there is nothing hid from the heat thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ it rises at one end of the heavens and runs its circuit to the other; nothing is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.19.5|<< Psalms 19:5]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.7|Psalms 19:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] from [the] end of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7097A\|קְצֵ֤ה]]&#8207; </big>**| mi<small><sup>[[HR]]</sup></small> k.Tzeh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֨יִם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

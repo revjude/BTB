@@ -1,4 +1,4 @@
-**Nehemiah 2:14** 
+**Nehemiah 2:14**<big><big>[[Neh.2.11 Nehemiah Inspects the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I went on to the gate of the fountain, and to the king’s pool: but [there was] no place for the beast [that was] under me to pass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I went on to the Fountain Gate and the King’s Pool, but there was no room
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.13|<< Nehemiah 2:13]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.15|Nehemiah 2:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I passed on  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5674A\|אֶֽעֱבֹר֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.'e.Vor<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 4:17
-**<small><sub>**KJV:**</sub></small>
+**John 4:17**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The woman answered and said, I have no husband. Jesus said unto her, Thou hast well said, I have no husband:
 <small><sub>**BSB:**</sub></small>
 “I have no husband,” the woman replied. Jesus said to her, “You are correct to say that you have no husband.
 <small><sub>**Literal:**</sub></small>
 Answered the woman and said to Him: Not I have a husband. Says to her <the> Jesus; Correctly you have spoken that A husband not I have;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.16|<< John 4:16]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.18|John 4:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

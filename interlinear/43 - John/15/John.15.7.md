@@ -1,12 +1,12 @@
-**John 15:7
-**<small><sub>**KJV:**</sub></small>
+**John 15:7**<big><big>[[John.15.1 Jesus the True Vine|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.
 <small><sub>**BSB:**</sub></small>
 If you remain in Me and My words remain in you, ask whatever you wish, and it will be done for you.
 <small><sub>**Literal:**</sub></small>
 If you shall abide in Me myself and the declarations of Mine in you shall abide, whatever if you shall wish do yourself ask and it will happen to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.6|<< John 15:6]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.8|John 15:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you shall abide |**<big>[[G3306\|μείνητε]]</big>**  |meinēte <small><sup>[[V-AAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

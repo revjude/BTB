@@ -1,4 +1,4 @@
-**Ezekiel 42:3** 
+**Ezekiel 42:3**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Over against the twenty [cubits] which [were] for the inner court, and over against the pavement which [was] for the utter court, [was] gallery against gallery in three [stories].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Gallery faced gallery in three levels opposite the twenty cubits that belonged t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.2|<< Ezekiel 42:2]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.4|Ezekiel 42:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | before  |**<big>&#8207;[[H5048\|נֶ֣גֶד]]&#8207; </big>**| Ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the twenty [cubits]  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H6242\|עֶשְׂרִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

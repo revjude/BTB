@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:3** 
 <small><sub>**LXX:**</sub></small>
 Behold, you devour the milk, and the wool you put around \[yourselves\], and the robust you slay, and  my sheep you do not graze. 
-<small><sub>**KJV:**</sub></small>
-Ye eat the fat, and ye clothe you with the wool, ye kill them that are fed: [but] ye feed not the flock.
-<small><sub>**BSB:**</sub></small>
-You eat the fat, wear the wool, and butcher the fattened sheep, but you do not feed the flock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.2|<< Ezekiel 34:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.4|Ezekiel 34:4 >>]]</td></tr></table>
 
 | Translation | Greek |

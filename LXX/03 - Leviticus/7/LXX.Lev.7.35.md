@@ -1,10 +1,7 @@
 **LXX Leviticus 7:35** 
 <small><sub>**LXX:**</sub></small>
 This is the anointing of Aaron, and the anointing  of his sons, of \[their portion\] of the yield \[offerings\] of \[the\] <span class="smallcaps">lord</span>, in which day he brought them  to officiate as priest \[to the\] <span class="smallcaps">lord</span>; 
-<small><sub>**KJV:**</sub></small>
-This [is the portion] of the anointing of Aaron, and of the anointing of his sons, out of the offerings of the LORD made by fire, in the day [when] he presented them to minister unto the LORD in the priest’s office;
-<small><sub>**BSB:**</sub></small>
-This is the portion of the food offerings to the LORD for Aaron and his sons since the day they were presented to serve the LORD as priests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.34|<< Leviticus 7:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.36|Leviticus 7:36 >>]]</td></tr></table>
 
 | Translation | Greek |

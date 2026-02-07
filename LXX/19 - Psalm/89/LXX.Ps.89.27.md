@@ -1,10 +1,7 @@
 **LXX Psalm 89:27** 
 <small><sub>**LXX:**</sub></small>
 And I will make him first-born, high above the kings of the earth. 
-<small><sub>**KJV:**</sub></small>
-Also I will make him [my] firstborn, higher than the kings of the earth.
-<small><sub>**BSB:**</sub></small>
-I will indeed appoint him as My firstborn, the highest of the kings of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.26|<< Psalm 89:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.28|Psalm 89:28 >>]]</td></tr></table>
 
 | Translation | Greek |

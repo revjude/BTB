@@ -1,4 +1,4 @@
-**1 Kings 4:20** 
+**1 Kings 4:20**<big><big>[[1Kgs.4.20 Solomon’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judah and Israel [were] many, as the sand which [is] by the sea in multitude, eating and drinking, and making merry.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The people of Judah and Israel were as numerous as the sand on the seashore, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.19|<< 1 Kings 4:19]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.21|1 Kings 4:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֤ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Israel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

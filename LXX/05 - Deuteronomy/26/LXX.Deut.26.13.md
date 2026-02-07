@@ -1,10 +1,7 @@
 **LXX Deuteronomy 26:13** 
 <small><sub>**LXX:**</sub></small>
 And you shall say before \[the\] <span class="smallcaps">lord</span>  your God, I cleared the holy \[things\] from out of  my house, and I gave them to the Levite, and to the foreigner, and to the orphan, and to the widow, according to all  your commandments which you gave charge to me; I did not pass by  your commandment, and I did not forget. 
-<small><sub>**KJV:**</sub></small>
-Then thou shalt say before the LORD thy God, I have brought away the hallowed things out of [mine] house, and also have given them unto the Levite, and unto the stranger, to the fatherless, and to the widow, according to all thy commandments which thou hast commanded me: I have not transgressed thy commandments, neither have I forgotten [them]:
-<small><sub>**BSB:**</sub></small>
-Then you shall declare in the presence of the LORD your God, “I have removed from my house the sacred portion and have given it to the Levite, the foreigner, the fatherless, and the widow, according to all the commandments You have given me. I have not transgressed or forgotten Your commandments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.26.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.12|<< Deuteronomy 26:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.14|Deuteronomy 26:14 >>]]</td></tr></table>
 
 | Translation | Greek |

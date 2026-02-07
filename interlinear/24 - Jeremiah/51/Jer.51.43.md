@@ -1,4 +1,4 @@
-**Jeremiah 51:43** 
+**Jeremiah 51:43**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her cities are a desolation, a dry land, and a wilderness, a land wherein no man dwelleth, neither doth [any] son of man pass thereby.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Her cities have become a desolation, a dry and arid land, a land where no one li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.42|<< Jeremiah 51:42]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.44|Jeremiah 51:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will become  |**<big>&#8207;[[H1961\|הָי֤וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cities its  |**<big>&#8207;[[H5892B\|עָרֶ֙י]]&#8207;&#8207;[[H9024\|הָ֙]]&#8207; </big>**| 'a.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

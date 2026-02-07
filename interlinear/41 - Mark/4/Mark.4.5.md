@@ -1,12 +1,12 @@
-**Mark 4:5
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:5**<big><big>[[Mark.4.1 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And some fell on stony ground, where it had not much earth; and immediately it sprang up, because it had no depth of earth:
 <small><sub>**BSB:**</sub></small>
 Some fell on rocky ground, where it did not have much soil. It sprang up quickly because the soil was shallow.
 <small><sub>**Literal:**</sub></small>
 And other however fell upon the rocky place and where not it had soil much, and immediately it sprang up because of the not having depth of soil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.4|<< Mark 4:4]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.6|Mark 4:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | other |**<big>[[G0243\|ἄλλο]]</big>**  |allo <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

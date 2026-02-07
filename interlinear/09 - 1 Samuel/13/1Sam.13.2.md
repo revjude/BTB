@@ -1,4 +1,4 @@
-**1 Samuel 13:2** 
+**1 Samuel 13:2**<big><big>[[1Sam.13.1 War with the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Saul chose him three thousand [men] of Israel; [whereof] two thousand were with Saul in Michmash and in mount Bethel, and a thousand were with Jonathan in Gibeah of Benjamin: and the rest of the people he sent every man to his tent.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He chose for himself three thousand men of Israel: Two thousand were with Saul a
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.1|<< 1 Samuel 13:1]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.3|1 Samuel 13:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he chose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0977\|יִּבְחַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiv.char-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> himself  |**<big>&#8207;[[H9005\|ל֨]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

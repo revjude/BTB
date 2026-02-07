@@ -1,10 +1,7 @@
 **LXX Numbers 7:10** 
 <small><sub>**LXX:**</sub></small>
 And the rulers brought \[gifts\] for the dedication of the altar in the day in which he anointed it, and the rulers brought  their gifts before the altar. 
-<small><sub>**KJV:**</sub></small>
-And the princes offered for dedicating of the altar in the day that it was anointed, even the princes offered their offering before the altar.
-<small><sub>**BSB:**</sub></small>
-When the altar was anointed, the leaders approached with their offerings for its dedication and presented them before the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.9|<< Numbers 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.11|Numbers 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

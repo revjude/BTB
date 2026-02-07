@@ -1,10 +1,7 @@
 **LXX Judges 9:45** 
 <small><sub>**LXX:**</sub></small>
 And Abimelech made war against the city that entire day. And they overtook the city, and the people  in it they killed; and he demolished the city and sowed it with salt. 
-<small><sub>**KJV:**</sub></small>
-And Abimelech fought against the city all that day; and he took the city, and slew the people that [was] therein, and beat down the city, and sowed it with salt.
-<small><sub>**BSB:**</sub></small>
-And all that day Abimelech fought against the city until he had captured it and killed its people. Then he demolished the city and sowed it with salt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.44|<< Judges 9:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.46|Judges 9:46 >>]]</td></tr></table>
 
 | Translation | Greek |

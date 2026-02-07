@@ -1,12 +1,12 @@
-**Matthew 17:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:14**<big><big>[[Matt.17.14 The Boy with a Demon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they were come to the multitude, there came to him a [certain] man, kneeling down to him, and saying,
 <small><sub>**BSB:**</sub></small>
 When they came to the crowd, a man came up to Jesus and knelt before Him.
 <small><sub>**Literal:**</sub></small>
 And when were coming  they to the crowd came to Him a man kneeling down [to] Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.13|<< Matthew 17:13]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.15|Matthew 17:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when were coming  |**<big>[[G2064\|ἐλθόντων]]</big>**  |elthontōn <small><sup>[[V-2AAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

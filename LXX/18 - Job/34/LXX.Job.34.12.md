@@ -1,10 +1,7 @@
 **LXX Job 34:12** 
 <small><sub>**LXX:**</sub></small>
 And do you imagine the <span class="smallcaps">lord</span> doing something out of place, or \[that\] the almighty will disturb a judgment -- the one who made the earth? 
-<small><sub>**KJV:**</sub></small>
-Yea, surely God will not do wickedly, neither will the Almighty pervert judgment.
-<small><sub>**BSB:**</sub></small>
-Indeed, it is true that God does not act wickedly, and the Almighty does not pervert justice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.11|<< Job 34:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.13|Job 34:13 >>]]</td></tr></table>
 
 | Translation | Greek |

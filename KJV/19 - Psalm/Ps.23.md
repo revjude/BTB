@@ -1,6 +1,6 @@
 (KJV) **Psalm 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22|<< Psalm 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.24|Psalm 24 >>]]</td></tr></table>
 
-***The LORD Is My Shepherd***&emsp;<small><sup>\[ [[Ezek.34|Ezekiel 34:11–24]] <big>†</big> [[John.10|John 10:1–21]] ]</sup></small> ^bsb1316
+<big><big>[[Ps.23.1 The LORD Is My Shepherd|⥃]]</big></big>***The LORD Is My Shepherd***&emsp;<small><sup>\[ [[Ezek.34|Ezekiel 34:11–24]] <big>†</big> [[John.10|John 10:1–21]] ]</sup></small>
 
 
 

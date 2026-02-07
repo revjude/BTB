@@ -1,4 +1,4 @@
-**Genesis 19:29** 
+**Genesis 19:29**<big><big>[[Gen.19.24 The Destruction of Sodom and Gomorrah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in the which Lot dwelt.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So when God destroyed the cities of the plain, He remembered Abraham, and He bro
 > $\quad$ referenced by: [[2Pet.2.6|2Pet 2:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when destroyed  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7843\|שַׁחֵ֤ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sha.Chet<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

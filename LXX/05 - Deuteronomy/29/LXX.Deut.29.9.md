@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall guard all the words  of this covenant, to do them, that you should perceive all as much as you do. 
-<small><sub>**KJV:**</sub></small>
-Keep therefore the words of this covenant, and do them, that ye may prosper in all that ye do.
-<small><sub>**BSB:**</sub></small>
-So keep and follow the words of this covenant, that you may prosper in all you do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.8|<< Deuteronomy 29:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.10|Deuteronomy 29:10 >>]]</td></tr></table>
 
 | Translation | Greek |

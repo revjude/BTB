@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:27** 
 <small><sub>**LXX:**</sub></small>
 Dry up all  her fruits, and go down for slaughter! Woe to them, for their day is come, and a time of their punishment. 
-<small><sub>**KJV:**</sub></small>
-Slay all her bullocks; let them go down to the slaughter: woe unto them! for their day is come, the time of their visitation.
-<small><sub>**BSB:**</sub></small>
-Kill all her young bulls; let them go down to the slaughter. Woe to them, for their day has come—the time of their punishment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.26|<< Jeremiah 50:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.28|Jeremiah 50:28 >>]]</td></tr></table>
 
 | Translation | Greek |

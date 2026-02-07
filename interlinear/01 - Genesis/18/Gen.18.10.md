@@ -1,4 +1,4 @@
-**Genesis 18:10** 
+**Genesis 18:10**<big><big>[[Gen.18.9 Sarah Laughs at the Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, I will certainly return unto thee according to the time of life; and, lo, Sarah thy wife shall have a son. And Sarah heard [it] in the tent door, which [was] behind him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the LORD said, “I will surely return to you at this time next year, and y
 > $\quad$ referenced by: [[Rom.9.9|Rom 9:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to return>  |**<big>&#8207;[[H7725G\|שׁ֣וֹב]]&#8207; </big>**| Shov<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

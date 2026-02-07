@@ -1,10 +1,7 @@
 **LXX Proverbs 19:23** 
 <small><sub>**LXX:**</sub></small>
 Fear of \[the\] <span class="smallcaps">lord</span> \[is\] life to a man; but the \[one\] without fear shall lodge in places where knowledge is not overseen. 
-<small><sub>**KJV:**</sub></small>
-The fear of the LORD [tendeth] to life: and [he that hath it] shall abide satisfied; he shall not be visited with evil.
-<small><sub>**BSB:**</sub></small>
-The fear of the LORD leads to life, that one may rest content, without visitation from harm.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.22|<< Proverbs 19:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.24|Proverbs 19:24 >>]]</td></tr></table>
 
 | Translation | Greek |

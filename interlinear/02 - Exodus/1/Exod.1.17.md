@@ -1,4 +1,4 @@
-**Exodus 1:17** 
+**Exodus 1:17**<big><big>[[Exod.1.8 Oppression by a New King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The midwives, however, feared God and did not do as the king of Egypt had instru
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.16|<< Exodus 1:16]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.18|Exodus 1:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they feared  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3372H\|תִּירֶ֤אןָ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Re.na<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the midwives  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H3205\|מְיַלְּדֹת֙]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.ya.le.Dot<small><sup>[[HVprfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

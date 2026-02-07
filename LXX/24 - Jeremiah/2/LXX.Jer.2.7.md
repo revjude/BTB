@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:7** 
 <small><sub>**LXX:**</sub></small>
 And I led you unto  Carmel,  to eat the fruits of it, and the good \[things\] of it. And you entered, and defiled  my land; and  my inheritance you made into an abomination. 
-<small><sub>**KJV:**</sub></small>
-And I brought you into a plentiful country, to eat the fruit thereof and the goodness thereof; but when ye entered, ye defiled my land, and made mine heritage an abomination.
-<small><sub>**BSB:**</sub></small>
-I brought you into a fertile land to eat its fruit and bounty, but you came and defiled My land and made My inheritance detestable.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.6|<< Jeremiah 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.8|Jeremiah 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Samuel 21:1** 
+**2 Samuel 21:1**<big><big>[[2Sam.21.1 David Avenges the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then there was a famine in the days of David three years, year after year; and David inquired of the LORD. And the LORD answered, [It is] for Saul, and for [his] bloody house, because he slew the Gibeonites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ During the reign of David there was a famine for three successive years, and Dav
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.26|<< 2 Samuel 20:26]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.2|2 Samuel 21:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a famine  |**<big>&#8207;[[H7458\|רָעָב֩]]&#8207; </big>**| ra.'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

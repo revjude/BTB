@@ -1,10 +1,7 @@
 **LXX Leviticus 11:21** 
 <small><sub>**LXX:**</sub></small>
 But  these you shall eat from the crawling things of the winged creatures which go upon fours -- \[the ones\] which have legs upward  from their feet to spring up with them upon the earth. 
-<small><sub>**KJV:**</sub></small>
-Yet these may ye eat of every flying creeping thing that goeth upon [all] four, which have legs above their feet, to leap withal upon the earth;
-<small><sub>**BSB:**</sub></small>
-However, you may eat the following kinds of flying insects that walk on all fours: those having jointed legs above their feet for hopping on the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.20|<< Leviticus 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.22|Leviticus 11:22 >>]]</td></tr></table>
 
 | Translation | Greek |

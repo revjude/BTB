@@ -1,10 +1,7 @@
 **LXX Lamentations 3:24** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> \[is\] my portion, said  my soul, on account of this I will wait for him. 
-<small><sub>**KJV:**</sub></small>
-The LORD [is] my portion, saith my soul; therefore will I hope in him.
-<small><sub>**BSB:**</sub></small>
-“The LORD is my portion,” says my soul, “therefore I will hope in Him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.23|<< Lamentations 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.25|Lamentations 3:25 >>]]</td></tr></table>
 
 | Translation | Greek |

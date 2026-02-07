@@ -1,4 +1,4 @@
-**Judges 1:25** 
+**Judges 1:25**<big><big>[[Judg.1.8 The Capture of Jerusalem and Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he shewed them the entrance into the city, they smote the city with the edge of the sword; but they let go the man and all his family.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the man showed them the entrance to the city, and they put the city to the sw
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.24|<< Judges 1:24]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.26|Judges 1:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he showed them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּרְאֵ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yar.'E<small><sup>[[HVhw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

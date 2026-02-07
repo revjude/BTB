@@ -1,4 +1,4 @@
-**Proverbs 8:6** 
+**Proverbs 8:6**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear; for I will speak of excellent things; and the opening of my lips [shall be] right things.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen, for I speak of noble things, and the opening of my lips will reveal righ
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.5|<< Proverbs 8:5]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.7|Proverbs 8:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | listen  |**<big>&#8207;[[H8085G\|שִׁ֭מְעוּ]]&#8207; </big>**| Shim.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

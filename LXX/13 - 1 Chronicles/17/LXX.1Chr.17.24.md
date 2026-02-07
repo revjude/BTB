@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:24** 
 <small><sub>**LXX:**</sub></small>
 And your name be trusted and be magnified unto \[the\] eon! saying, \[The\] <span class="smallcaps">lord</span> almighty, the God of Israel, God \[to\] Israel; and the house of David  your servant being erected before you. 
-<small><sub>**KJV:**</sub></small>
-Let it even be established, that thy name may be magnified for ever, saying, The LORD of hosts [is] the God of Israel, [even] a God to Israel: and [let] the house of David thy servant [be] established before thee.
-<small><sub>**BSB:**</sub></small>
-so that Your name will be established and magnified forever when it is said, ‘The LORD of Hosts, the God of Israel, is God over Israel.’ And may the house of Your servant David be established before You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.23|<< 1 Chronicles 17:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.25|1 Chronicles 17:25 >>]]</td></tr></table>
 
 | Translation | Greek |

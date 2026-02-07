@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:26** 
 <small><sub>**LXX:**</sub></small>
 Daughter of my people, gird on sackcloth! Strew ashes! You shall observe for yourself mourning as of a beloved one by beating the breast pitiably. For suddenly misery shall come upon you. 
-<small><sub>**KJV:**</sub></small>
-O daughter of my people, gird [thee] with sackcloth, and wallow thyself in ashes: make thee mourning, [as for] an only son, most bitter lamentation: for the spoiler shall suddenly come upon us.
-<small><sub>**BSB:**</sub></small>
-O daughter of my people, dress yourselves in sackcloth and roll in ashes. Mourn with bitter wailing, as you would for an only son, for suddenly the destroyer will come upon us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.25|<< Jeremiah 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.27|Jeremiah 6:27 >>]]</td></tr></table>
 
 | Translation | Greek |

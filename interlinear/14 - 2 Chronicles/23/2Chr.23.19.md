@@ -1,4 +1,4 @@
-**2 Chronicles 23:19** 
+**2 Chronicles 23:19**<big><big>[[2Chr.23.16 Jehoiada Restores the Worship of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set the porters at the gates of the house of the LORD, that none [which was] unclean in any thing should enter in.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He stationed gatekeepers at the gates of the house of the LORD, so that no one w
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.18|<< 2 Chronicles 23:18]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.20|2 Chronicles 23:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stationed  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5975G\|יַּעֲמֵד֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Med<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the gatekeepers  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7778\|שּׁ֣וֹעֲרִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Sho.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 24:27** 
 <small><sub>**LXX:**</sub></small>
 Blessed be \[the\] <span class="smallcaps">lord</span>  God  of my master Abraham, who abandoned not  righteousness and  truth from  my master. \[The\] <span class="smallcaps">lord</span> indeed prospered me to \[the\] house of the brother  of my master. 
-<small><sub>**KJV:**</sub></small>
-And he said, Blessed [be] the LORD God of my master Abraham, who hath not left destitute my master of his mercy and his truth: I [being] in the way, the LORD led me to the house of my master’s brethren.
-<small><sub>**BSB:**</sub></small>
-saying, “Blessed be the LORD, the God of my master Abraham, who has not withheld His kindness and faithfulness from my master. As for me, the LORD has led me on the journey to the house of my master’s relatives.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.26|<< Genesis 24:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.28|Genesis 24:28 >>]]</td></tr></table>
 
 | Translation | Greek |

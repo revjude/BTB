@@ -1,4 +1,4 @@
-**Joshua 19:7** 
+**Joshua 19:7**<big><big>[[Josh.19.1 Simeon’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ain, Remmon, and Ether, and Ashan; four cities and their villages:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ain, Rimmon, Ether, and Ashan—four cities, along with their villages,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.6|<< Joshua 19:6]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.8|Joshua 19:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Ain  |**<big>&#8207;[[H5871H\|עַ֥יִן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'A.yin<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rimmon  |**<big>&#8207;[[H7417I\|רִמּ֖וֹן]]&#8207; </big>**| ri.Mon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

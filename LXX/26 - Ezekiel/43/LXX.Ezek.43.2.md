@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:2** 
 <small><sub>**LXX:**</sub></small>
 And behold, glory of \[the\] God of Israel came according to the way  towards \[the\] east. And \[there was\] a voice of the camp as \[the\] repeating voice of many. And the ground shone forth as brightness in the glory round about. 
-<small><sub>**KJV:**</sub></small>
-And, behold, the glory of the God of Israel came from the way of the east: and his voice [was] like a noise of many waters: and the earth shined with his glory.
-<small><sub>**BSB:**</sub></small>
-and I saw the glory of the God of Israel coming from the east. His voice was like the roar of many waters, and the earth shone with His glory.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.1|<< Ezekiel 43:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.3|Ezekiel 43:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 43:2** is...

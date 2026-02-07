@@ -1,10 +1,7 @@
 **LXX Hosea 2:4** 
 <small><sub>**LXX:**</sub></small>
 And  in no way shall I show mercy on her children, for it is children of harlotry. 
-<small><sub>**KJV:**</sub></small>
-And I will not have mercy upon her children; for they [be] the children of whoredoms.
-<small><sub>**BSB:**</sub></small>
-I will have no compassion on her children, because they are the children of adultery.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.3|<< Hosea 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.5|Hosea 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

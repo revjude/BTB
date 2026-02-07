@@ -1,4 +1,4 @@
-**Hosea 9:9** 
+**Hosea 9:9**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have deeply corrupted [themselves], as in the days of Gibeah: [therefore] he will remember their iniquity, he will visit their sins.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have deeply corrupted themselves as in the days of Gibeah; He will remember
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.8|<< Hosea 9:8]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.10|Hosea 9:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have made deep  |**<big>&#8207;[[H6009\|הֶעְמִֽיקוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| he'.mi.ku-<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have dealt corruptly  |**<big>&#8207;[[H7843\|שִׁחֵ֖תוּ]]&#8207; </big>**| shi.Che.tu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

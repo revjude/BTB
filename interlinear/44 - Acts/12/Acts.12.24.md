@@ -1,12 +1,12 @@
-**Acts 12:24
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:24**<big><big>[[Acts.12.20 The Death of Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the word of God grew and multiplied.
 <small><sub>**BSB:**</sub></small>
 But the word of God continued to spread and multiply.
 <small><sub>**Literal:**</sub></small>
 <the> But the word <the> of God was continuing to grow and was being multiplied.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.23|<< Acts 12:23]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.25|Acts 12:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

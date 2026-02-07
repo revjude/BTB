@@ -1,12 +1,12 @@
-**Luke 2:18
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:18**<big><big>[[Luke.2.8 The Shepherds and the Angels|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all they that heard [it] wondered at those things which were told them by the shepherds.
 <small><sub>**BSB:**</sub></small>
 And all who heard it were amazed at what the shepherds said to them.
 <small><sub>**Literal:**</sub></small>
 And all those having heard they marveled concerning the [things] having been spoken by the shepherds to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.17|<< Luke 2:17]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.19|Luke 2:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

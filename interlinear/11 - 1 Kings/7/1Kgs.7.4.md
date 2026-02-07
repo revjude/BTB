@@ -1,4 +1,4 @@
-**1 Kings 7:4** 
+**1 Kings 7:4**<big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there were] windows [in] three rows, and light [was] against light [in] three ranks.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There were three rows of high windows facing one another in three tiers.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.3|<< 1 Kings 7:3]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.5|1 Kings 7:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and window frames  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8261\|שְׁקֻפִ֖ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.ku.Fim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three  |**<big>&#8207;[[H7969\|שְׁלֹשָׁ֣ה]]&#8207; </big>**| she.lo.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

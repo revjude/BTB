@@ -1,4 +1,4 @@
-**2 Samuel 3:7** 
+**2 Samuel 3:7**<big><big>[[2Sam.3.6 Abner Joins David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul had a concubine, whose name [was] Rizpah, the daughter of Aiah: and [Ishbosheth] said to Abner, Wherefore hast thou gone in unto my father’s concubine?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Saul had a concubine named Rizpah, the daughter of Aiah. So Ish-bosheth ques
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.6|<< 2 Samuel 3:6]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.8|2 Samuel 3:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [belonged] to Saul  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7586G\|שָׁא֣וּל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a concubine  |**<big>&#8207;[[H6370\|פִּלֶ֔גֶשׁ]]&#8207; </big>**| pi.Le.gesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:19** 
 <small><sub>**LXX:**</sub></small>
 And  my bread loaves which I gave to you, fine flour and olive oil and honey, \[which\] I fed you -- even you put them before their face for a scent of pleasant aroma. Yes, it became so, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-My meat also which I gave thee, fine flour, and oil, and honey, [wherewith] I fed thee, thou hast even set it before them for a sweet savour: and [thus] it was, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-And you set before them as a pleasing aroma the food I had given you—the fine flour, oil, and honey that I had fed you. That is what happened, declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.18|<< Ezekiel 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.20|Ezekiel 16:20 >>]]</td></tr></table>
 
 | Translation | Greek |

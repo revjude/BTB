@@ -1,4 +1,4 @@
-**Zechariah 14:15** 
+**Zechariah 14:15**<big><big>[[Zech.14.1 The Destroyers of Jerusalem Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And so shall be the plague of the horse, of the mule, of the camel, and of the ass, and of all the beasts that shall be in these tents, as this plague.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And a similar plague will strike the horses and mules, camels and donkeys, and a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.14|<< Zechariah 14:14]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.16|Zechariah 14:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and thus  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3651C\|כֵ֨ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be  |**<big>&#8207;[[H1961\|תִּֽהְיֶ֜ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

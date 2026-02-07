@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the sons of the places, the ones ascending from the captivity of the resettlement of which Nebuchadnezzar the king of Babylon resettled in Babylon, and they returned unto Jerusalem and Judah, every man into  his city. 
-<small><sub>**KJV:**</sub></small>
-Now these [are] the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;
-<small><sub>**BSB:**</sub></small>
-Now these are the people of the province who came up from the captivity of the exiles carried away to Babylon by Nebuchadnezzar its king. They returned to Jerusalem and Judah, each to his own town,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.1.11|<< Ezra 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.2|Ezra 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

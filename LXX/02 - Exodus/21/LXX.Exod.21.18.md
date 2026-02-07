@@ -1,10 +1,7 @@
 **LXX Exodus 21:18** 
 <small><sub>**LXX:**</sub></small>
 And if two men revile \[each other\], and one should strike the neighbor with a stone or fist, and he should not die, but lies down upon the bed; 
-<small><sub>**KJV:**</sub></small>
-And if men strive together, and one smite another with a stone, or with [his] fist, and he die not, but keepeth [his] bed:
-<small><sub>**BSB:**</sub></small>
-If men are quarreling and one strikes the other with a stone or a fist, and he does not die but is confined to bed,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.17|<< Exodus 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.19|Exodus 21:19 >>]]</td></tr></table>
 
 | Translation | Greek |

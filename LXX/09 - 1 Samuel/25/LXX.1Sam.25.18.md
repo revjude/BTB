@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:18** 
 <small><sub>**LXX:**</sub></small>
 And Abigail hastened, and took two hundred bread \[loaves\], and two receptacles of wine, and five sheep prepared, and five ephahs of toasted grains, and one homer of dried grapes, and two hundred dried clusters of figs; and she put \[them\] upon the donkeys. 
-<small><sub>**KJV:**</sub></small>
-Then Abigail made haste, and took two hundred loaves, and two bottles of wine, and five sheep ready dressed, and five measures of parched [corn], and an hundred clusters of raisins, and two hundred cakes of figs, and laid [them] on asses.
-<small><sub>**BSB:**</sub></small>
-Then Abigail hurried and took two hundred loaves of bread, two skins of wine, five butchered sheep, five seahs of roasted grain, a hundred clusters of raisins, and two hundred cakes of figs. She loaded them on donkeys<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.17|<< 1 Samuel 25:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.19|1 Samuel 25:19 >>]]</td></tr></table>
 
 | Translation | Greek |

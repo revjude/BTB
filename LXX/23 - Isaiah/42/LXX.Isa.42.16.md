@@ -1,10 +1,7 @@
 **LXX Isaiah 42:16** 
 <small><sub>**LXX:**</sub></small>
 And I will lead \[the\] blind in \[the\] way which they knew not, and I will cause them to tread roads which they had not seen. I will make for them darkness into light, and crooked into straight. These are the things I will do to them, and I shall not abandon them. 
-<small><sub>**KJV:**</sub></small>
-And I will bring the blind by a way [that] they knew not; I will lead them in paths [that] they have not known: I will make darkness light before them, and crooked things straight. These things will I do unto them, and not forsake them.
-<small><sub>**BSB:**</sub></small>
-I will lead the blind by a way they did not know; I will guide them on unfamiliar paths. I will turn darkness into light before them and rough places into level ground. These things I will do for them, and I will not forsake them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.15|<< Isaiah 42:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.17|Isaiah 42:17 >>]]</td></tr></table>
 
 | Translation | Greek |

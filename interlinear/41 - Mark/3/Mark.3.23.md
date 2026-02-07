@@ -1,12 +1,12 @@
-**Mark 3:23
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:23**<big><big>[[Mark.3.20 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he called them [unto him], and said unto them in parables, How can Satan cast out Satan?
 <small><sub>**BSB:**</sub></small>
 So Jesus called them together and began to speak to them in parables: “How can Satan drive out Satan?
 <small><sub>**Literal:**</sub></small>
 And having called to [Him] them in parables He was speaking to them: How is able Satan Satan to cast out?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.22|<< Mark 3:22]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.24|Mark 3:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having called to [Him] |**<big>[[G4341\|προσκαλεσάμενος]]</big>**  |proskalesamenos <small><sup>[[V-ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

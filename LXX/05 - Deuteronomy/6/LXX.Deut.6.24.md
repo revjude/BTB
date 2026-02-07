@@ -1,10 +1,7 @@
 **LXX Deuteronomy 6:24** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> gave charge to us to do all  these ordinances, to fear \[the\] <span class="smallcaps">lord</span>  our God, that good might be to us all the days, that we should live as even today. 
-<small><sub>**KJV:**</sub></small>
-And the LORD commanded us to do all these statutes, to fear the LORD our God, for our good always, that he might preserve us alive, as [it is] at this day.
-<small><sub>**BSB:**</sub></small>
-And the LORD commanded us to observe all these statutes and to fear the LORD our God, that we may always be prosperous and preserved, as we are to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.23|<< Deuteronomy 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.25|Deuteronomy 6:25 >>]]</td></tr></table>
 
 | Translation | Greek |

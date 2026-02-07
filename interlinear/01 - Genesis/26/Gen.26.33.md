@@ -1,4 +1,4 @@
-**Genesis 26:33** 
+**Genesis 26:33**<big><big>[[Gen.26.26 Isaac’s Covenant with Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he called it Shebah: therefore the name of the city [is] Beersheba unto this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he called it Shibah, and to this day the name of the city is Beersheba.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.32|<< Genesis 26:32]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.34|Genesis 26:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121H\|יִּקְרָ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹתָ֖]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

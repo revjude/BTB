@@ -1,12 +1,12 @@
-**2 Corinthians 5:2
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 5:2**<big><big>[[2Cor.5.1 Our Eternal Dwelling|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For in this we groan, earnestly desiring to be clothed upon with our house which is from heaven:
 <small><sub>**BSB:**</sub></small>
 For in this tent we groan, longing to be clothed with our heavenly dwelling,
 <small><sub>**Literal:**</sub></small>
 And indeed in this we groan, the dwelling of us which [is] from heaven to be clothed with longing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.1|<< 2 Corinthians 5:1]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.3|2 Corinthians 5:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 6:31
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:31**<big><big>[[Luke.6.27 Love Your Enemies|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as ye would that men should do to you, do ye also to them likewise.
 <small><sub>**BSB:**</sub></small>
 Do to others as you would have them do to you.
 <small><sub>**Literal:**</sub></small>
 And even as you desire that they may perform to you <the> men, and you yourselves do perform to them likewise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.30|<< Luke 6:30]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.32|Luke 6:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

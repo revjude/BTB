@@ -1,10 +1,7 @@
 **LXX 1 Samuel 12:22** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> shall not thrust away  his people because of  his great name; for \[the\] <span class="smallcaps">lord</span> took you to make for a people to himself. 
-<small><sub>**KJV:**</sub></small>
-For the LORD will not forsake his people for his great name’s sake: because it hath pleased the LORD to make you his people.
-<small><sub>**BSB:**</sub></small>
-Indeed, for the sake of His great name, the LORD will not abandon His people, because He was pleased to make you His own.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.21|<< 1 Samuel 12:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.23|1 Samuel 12:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 12:22** is...

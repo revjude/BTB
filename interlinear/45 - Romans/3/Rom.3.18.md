@@ -1,5 +1,5 @@
-**Romans 3:18
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:18**<big><big>[[Rom.3.9 There Is No One Righteous|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There is no fear of God before their eyes.
 <small><sub>**BSB:**</sub></small>
 “There is no fear of God before their eyes.”
@@ -10,7 +10,7 @@ Not there is fear of God before the eyes of them.<br><table width="100%" border=
 > $\quad$ referencing: [[LXX.Ps.36.1|Ps 36:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | there is |**<big>[[G1510\|ἔστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

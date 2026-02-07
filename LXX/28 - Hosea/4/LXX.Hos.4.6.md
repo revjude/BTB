@@ -1,10 +1,7 @@
 **LXX Hosea 4:6** 
 <small><sub>**LXX:**</sub></small>
 My people are likened as \[ones\] not having knowledge. For \[since\] you thrusted away full knowledge, even I will thrust you away \[so as\] to not officiate as priest to me. And \[as\] you forgot \[the\] laws of your God, I shall forget your children. 
-<small><sub>**KJV:**</sub></small>
-My people are destroyed for lack of knowledge: because thou hast rejected knowledge, I will also reject thee, that thou shalt be no priest to me: seeing thou hast forgotten the law of thy God, I will also forget thy children.
-<small><sub>**BSB:**</sub></small>
-My people are destroyed for lack of knowledge. Because you have rejected knowledge, I will also reject you as My priests. Since you have forgotten the law of your God, I will also forget your children.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.5|<< Hosea 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.7|Hosea 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

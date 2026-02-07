@@ -1,10 +1,7 @@
 **LXX Job 12:10** 
 <small><sub>**LXX:**</sub></small>
 Except in his hand \[is\] the life of all the living, and \[the\] breath of every man. 
-<small><sub>**KJV:**</sub></small>
-In whose hand [is] the soul of every living thing, and the breath of all mankind.
-<small><sub>**BSB:**</sub></small>
-The life of every living thing is in His hand, as well as the breath of all mankind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.9|<< Job 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.11|Job 12:11 >>]]</td></tr></table>
 
 | Translation | Greek |

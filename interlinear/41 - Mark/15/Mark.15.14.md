@@ -1,12 +1,12 @@
-**Mark 15:14
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:14**<big><big>[[Mark.15.12 Pilate Delivers Up Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Pilate said unto them, Why, what evil hath he done? And they cried out the more exceedingly, Crucify him.
 <small><sub>**BSB:**</sub></small>
 “Why?” asked Pilate. “What evil has He done?” But they shouted all the louder, “Crucify Him!”
 <small><sub>**Literal:**</sub></small>
 <the> And Pilate was saying to them; What indeed did He commit evil <the> But excessively  they shouted; do crucify Him!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.13|<< Mark 15:13]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.15|Mark 15:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

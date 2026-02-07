@@ -1,4 +1,4 @@
-**Song of Solomon 7:8** (7:9)
+**Song of Solomon 7:8**<big><big>[[Song.7.1 Admiration by the Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said, I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I said, “I will climb the palm tree; I will take hold of its fruit.” May you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.7|<< Song of Solomon 7:7]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.9|Song of Solomon 7:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say  |**<big>&#8207;[[H0559\|אָמַ֙רְתִּי֙]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will climb up  |**<big>&#8207;[[H5927G\|אֶעֱלֶ֣ה]]&#8207; </big>**| 'e.'e.Leh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.inFolder("pericope")
+views:
+  - type: table
+    name: Pericope
+    order:
+      - book/chapter
+      - pericope
+      - verse_count
+      - difficulty
+      - needs_review
+      - status
+      - priority
+      - translation_date
+      - verses
+      - genre
+    sort:
+      - property: status
+        direction: ASC
+      - property: file.path
+        direction: ASC
+    columnSize:
+      note.book/chapter: 149
+      note.pericope: 320
+      note.verse_count: 120

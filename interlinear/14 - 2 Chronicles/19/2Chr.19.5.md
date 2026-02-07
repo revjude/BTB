@@ -1,4 +1,4 @@
-**2 Chronicles 19:5** 
+**2 Chronicles 19:5**<big><big>[[2Chr.19.4 Jehoshaphat’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set judges in the land throughout all the fenced cities of Judah, city by city,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He appointed judges in the land, in each of the fortified cities of Judah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.4|<< 2 Chronicles 19:4]]</td><td align="center" style="border:none;">[[2Chr.19|2 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19.6|2 Chronicles 19:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appointed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975H\|יַּעֲמֵ֨ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Med<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | judges  |**<big>&#8207;[[H8199\|שֹֽׁפְטִ֜ים]]&#8207; </big>**| sho.fe.Tim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

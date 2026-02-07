@@ -1,4 +1,4 @@
-**Deuteronomy 24:9** 
+**Deuteronomy 24:9**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember what the LORD thy God did unto Miriam by the way, after that ye were come forth out of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember what the LORD your God did to Miriam on the journey after you came out 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.8|<< Deuteronomy 24:8]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.10|Deuteronomy 24:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember  |**<big>&#8207;[[H2142\|זָכ֕וֹר]]&#8207; </big>**| za.Khor<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֧ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

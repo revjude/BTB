@@ -1,4 +1,4 @@
-**Job 28:21** 
+**Job 28:21**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seeing it is hid from the eyes of all living, and kept close from the fowls of the air.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is hidden from the eyes of every living thing and concealed from the birds of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.20|<< Job 28:20]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.22|Job 28:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it has been concealed  |**<big>&#8207;[[H9001\|וְֽ֭]]&#8207;&#8207;[[H5956\|נֶעֶלְמָה]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ne.'el.mah<small><sup>[[HVNq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] eyes of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5869A\|עֵינֵ֣י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 A man wanting to separate from friends seeks excuses; but at all time he will be reviled. 
-<small><sub>**KJV:**</sub></small>
-Through desire a man, having separated himself, seeketh [and] intermeddleth with all wisdom.
-<small><sub>**BSB:**</sub></small>
-He who isolates himself pursues selfish desires; he rebels against all sound judgment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.17.28|<< Proverbs 17:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.2|Proverbs 18:2 >>]]</td></tr></table>
 
 | Translation | Greek |

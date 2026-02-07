@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:16** 
 <small><sub>**LXX:**</sub></small>
 And it happened as they heard all the words, each gave advice to  his neighbor, and they said to  Baruch, By announcing, we should announce to the king all  these words. 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass, when they had heard all the words, they were afraid both one and other, and said unto Baruch, We will surely tell the king of all these words.
-<small><sub>**BSB:**</sub></small>
-When they had heard all these words, they turned to one another in fear and said to Baruch, “Surely we must report all these words to the king.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.15|<< Jeremiah 36:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.17|Jeremiah 36:17 >>]]</td></tr></table>
 
 | Translation | Greek |

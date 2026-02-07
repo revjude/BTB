@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 But you sons of Jacob are not kept at a distance from the sins  of your fathers; you turned aside from my laws, and guarded not. Return to me! and I shall be turned towards you, says \[the\] <span class="smallcaps">lord</span> almighty. But you said, In what \[way\] should we turn? 
-<small><sub>**KJV:**</sub></small>
-Even from the days of your fathers ye are gone away from mine ordinances, and have not kept [them]. Return unto me, and I will return unto you, saith the LORD of hosts. But ye said, Wherein shall we return?
-<small><sub>**BSB:**</sub></small>
-Yet from the days of your fathers, you have turned away from My statutes and have not kept them. Return to Me, and I will return to you,” says the LORD of Hosts. “But you ask, ‘How can we return?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.6|<< Malachi 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.8|Malachi 3:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Malachi 3:7** is...

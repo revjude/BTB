@@ -1,10 +1,7 @@
 **LXX Genesis 31:33** 
 <small><sub>**LXX:**</sub></small>
 And entering, Laban searched in the house of Leah, and he did not find. And he came forth from out of the house of Leah, and he searched the house of Jacob, and in the house of the two maidservants, and he did not find. And he entered also into the house of Rachel. 
-<small><sub>**KJV:**</sub></small>
-And Laban went into Jacob’s tent, and into Leah’s tent, and into the two maidservants’ tents; but he found [them] not. Then went he out of Leah’s tent, and entered into Rachel’s tent.
-<small><sub>**BSB:**</sub></small>
-So Laban went into Jacob’s tent, then Leah’s tent, and then the tents of the two maidservants, but he found nothing. Then he left Leah’s tent and entered Rachel’s tent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.32|<< Genesis 31:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.34|Genesis 31:34 >>]]</td></tr></table>
 
 | Translation | Greek |

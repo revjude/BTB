@@ -1,12 +1,12 @@
-**Acts 22:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:12**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt [there],
 <small><sub>**BSB:**</sub></small>
 There a man named Ananias, a devout observer of the law who was highly regarded by all the Jews living there,
 <small><sub>**Literal:**</sub></small>
 Ananias then certain, a man devout according to the law, borne witness to by all the dwelling [there] Jews,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.11|<< Acts 22:11]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.13|Acts 22:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Ananias |**<big>[[G0367H\|Ἁνανίας]]</big>**  [^1] |Hananias <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

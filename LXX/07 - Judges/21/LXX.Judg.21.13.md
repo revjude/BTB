@@ -1,10 +1,7 @@
 **LXX Judges 21:13** 
 <small><sub>**LXX:**</sub></small>
 And all the congregation sent and spoke to the sons of Benjamin, of the ones at the rock of Rimmon, and they called them for peace. 
-<small><sub>**KJV:**</sub></small>
-And the whole congregation sent [some] to speak to the children of Benjamin that [were] in the rock Rimmon, and to call peaceably unto them.
-<small><sub>**BSB:**</sub></small>
-Then the whole congregation sent a message of peace to the Benjamites who were at the rock of Rimmon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.12|<< Judges 21:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.14|Judges 21:14 >>]]</td></tr></table>
 
 | Translation | Greek |

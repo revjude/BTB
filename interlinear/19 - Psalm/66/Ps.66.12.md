@@ -1,4 +1,4 @@
-**Psalms 66:12** 
+**Psalms 66:12**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy [place].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You let men ride over our heads; we went through fire and water, but You brought
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.11|<< Psalms 66:11]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.13|Psalms 66:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have made ride  |**<big>&#8207;[[H7392\|הִרְכַּ֥בְתָּ]]&#8207; </big>**| hir.Kav.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a man  |**<big>&#8207;[[H0582\|אֱנ֗וֹשׁ]]&#8207; </big>**| 'e.No.osh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

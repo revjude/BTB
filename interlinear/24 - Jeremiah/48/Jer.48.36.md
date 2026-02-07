@@ -1,4 +1,4 @@
-**Jeremiah 48:36** 
+**Jeremiah 48:36**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore mine heart shall sound for Moab like pipes, and mine heart shall sound like pipes for the men of Kirheres: because the riches [that] he hath gotten are perished.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore My heart laments like a flute for Moab; it laments like a flute for th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.35|<< Jeremiah 48:35]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.37|Jeremiah 48:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | -fore  |**<big>&#8207;[[H3651C\|כֵּ֞ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

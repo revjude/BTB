@@ -1,10 +1,7 @@
 **LXX Isaiah 1:31** 
 <small><sub>**LXX:**</sub></small>
 And their strength will be as \[the\] stubble of hemp; and  their works as sparks, and the lawless ones and the sinners shall be incinerated together, and there will not be one extinguishing. 
-<small><sub>**KJV:**</sub></small>
-And the strong shall be as tow, and the maker of it as a spark, and they shall both burn together, and none shall quench [them].
-<small><sub>**BSB:**</sub></small>
-The strong man will become tinder and his work will be a spark; both will burn together, with no one to quench the flames.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.30|<< Isaiah 1:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.2.1|Isaiah 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

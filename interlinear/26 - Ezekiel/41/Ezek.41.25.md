@@ -1,4 +1,4 @@
-**Ezekiel 41:25** 
+**Ezekiel 41:25**<big><big>[[Ezek.41.15 The Interior Structures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there were] made on them, on the doors of the temple, cherubims and palm trees, like as [were] made upon the walls; and [there were] thick planks upon the face of the porch without.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cherubim and palm trees like those on the walls were carved on the doors of the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.24|<< Ezekiel 41:24]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.26|Ezekiel 41:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [it was] done  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6213H\|עֲשׂוּיָ֨ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.su.Yah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9039\|הֶ֜ן]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, say to the house of Israel! Thus you spoke, saying,  Our delusions and  our lawless deeds are upon us, and in them we melt away, and how \[then\] shall we live? 
-<small><sub>**KJV:**</sub></small>
-Therefore, O thou son of man, speak unto the house of Israel; Thus ye speak, saying, If our transgressions and our sins [be] upon us, and we pine away in them, how should we then live?
-<small><sub>**BSB:**</sub></small>
-Now as for you, son of man, tell the house of Israel that this is what they have said: ‘Our transgressions and our sins are heavy upon us, and we are wasting away because of them! How can we live?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.9|<< Ezekiel 33:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.11|Ezekiel 33:11 >>]]</td></tr></table>
 
 | Translation | Greek |

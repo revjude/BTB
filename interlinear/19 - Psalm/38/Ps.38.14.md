@@ -1,4 +1,4 @@
-**Psalms 38:14** (38:15)
+**Psalms 38:14**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus I was as a man that heareth not, and in whose mouth [are] no reproofs.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am like a man who cannot hear, whose mouth offers no reply.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.13|<< Psalms 38:13]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.15|Psalms 38:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I have become  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H1961\|אֱהִ֗י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Hi<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a man  |**<big>&#8207;[[H9004\|כְּ֭]]&#8207;&#8207;[[H0376G\|אִישׁ]]&#8207; </big>**| Ke.<small><sup>[[HR]]</sup></small> 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

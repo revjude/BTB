@@ -1,10 +1,7 @@
 **LXX Genesis 41:51** 
 <small><sub>**LXX:**</sub></small>
 And Joseph called the name of the first-born, Manasseh, for God made me forget all  my miseries, and all of the \[things\]  of my father. 
-<small><sub>**KJV:**</sub></small>
-And Joseph called the name of the firstborn Manasseh: For God, [said he], hath made me forget all my toil, and all my father’s house.
-<small><sub>**BSB:**</sub></small>
-Joseph named the firstborn Manasseh, saying, “God has made me forget all my hardship and all my father’s household.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.50|<< Genesis 41:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.52|Genesis 41:52 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 46:20** 
+**Genesis 46:20**<big><big>[[Gen.46.19 The Children of Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Potipherah priest of On bare unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Manasseh and Ephraim were born to Joseph in the land of Egypt by Asenath daughte
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.19|<< Genesis 46:19]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.21|Genesis 46:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was born  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3205\|יִּוָּלֵ֣ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.va.Led<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Joseph  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3130G\|יוֹסֵף֮]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 147:17** 
 <small><sub>**LXX:**</sub></small>
 throwing his ice as morsels. Before \[the\] presence of his chilliness who shall stand? 
-<small><sub>**KJV:**</sub></small>
-He casteth forth his ice like morsels: who can stand before his cold?
-<small><sub>**BSB:**</sub></small>
-He casts forth His hail like pebbles. Who can withstand His icy blast?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.147.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.16|<< Psalm 147:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.18|Psalm 147:18 >>]]</td></tr></table>
 
 | Translation | Greek |

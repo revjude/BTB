@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:25** 
 <small><sub>**LXX:**</sub></small>
 then you shall listen from the heaven, and you should be propitious to the sins  of your people Israel, and shall return them into the land which you gave to them and \[to\] their fathers. 
-<small><sub>**KJV:**</sub></small>
-Then hear thou from the heavens, and forgive the sin of thy people Israel, and bring them again unto the land which thou gavest to them and to their fathers.
-<small><sub>**BSB:**</sub></small>
-then may You hear from heaven and forgive the sin of Your people Israel. May You restore them to the land You gave to them and their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.24|<< 2 Chronicles 6:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.26|2 Chronicles 6:26 >>]]</td></tr></table>
 
 | Translation | Greek |

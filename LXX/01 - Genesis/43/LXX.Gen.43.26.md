@@ -1,10 +1,7 @@
 **LXX Genesis 43:26** 
 <small><sub>**LXX:**</sub></small>
 And Joseph entered into the house, and they brought to him the gifts which they had in  their hands, into the house. And they did obeisance to him upon \[their\] face upon the ground. 
-<small><sub>**KJV:**</sub></small>
-And when Joseph came home, they brought him the present which [was] in their hand into the house, and bowed themselves to him to the earth.
-<small><sub>**BSB:**</sub></small>
-When Joseph came home, they presented him with the gifts they had brought, and they bowed to the ground before him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.25|<< Genesis 43:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.27|Genesis 43:27 >>]]</td></tr></table>
 
 | Translation | Greek |

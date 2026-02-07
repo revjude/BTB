@@ -1,10 +1,7 @@
 **LXX Genesis 49:24** 
 <small><sub>**LXX:**</sub></small>
 and their bows were broken with might, and the nerves of their hand's arms were loosened through \[the\] hand of \[the\] mighty one of Jacob; from there the \[one\] strengthening Israel by means of God  of your father. 
-<small><sub>**KJV:**</sub></small>
-But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty [God] of Jacob; (from thence [is] the shepherd, the stone of Israel:)
-<small><sub>**BSB:**</sub></small>
-Yet he steadied his bow, and his strong arms were tempered by the hands of the Mighty One of Jacob, in the name of the Shepherd, the Rock of Israel,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.23|<< Genesis 49:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.25|Genesis 49:25 >>]]</td></tr></table>
 
 | Translation | Greek |

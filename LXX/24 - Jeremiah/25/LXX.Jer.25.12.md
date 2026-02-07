@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:12** 
 <small><sub>**LXX:**</sub></small>
 And in the fulfilling the seventy years, I will take vengeance upon the king of Babylon, and upon  that nation  of their unrighteousness, says the <span class="smallcaps">lord</span>, and upon the land of \[the\] Caldeans. And I will appoint them for everlasting extinction. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, when seventy years are accomplished, [that] I will punish the king of Babylon, and that nation, saith the LORD, for their iniquity, and the land of the Chaldeans, and will make it perpetual desolations.
-<small><sub>**BSB:**</sub></small>
-But when seventy years are complete, I will punish the king of Babylon and that nation, the land of the Chaldeans, for their guilt, declares the LORD, and I will make it an everlasting desolation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.11|<< Jeremiah 25:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.13|Jeremiah 25:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 25:12** is...

@@ -1,4 +1,4 @@
-**Isaiah 13:14** 
+**Isaiah 13:14**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be as the chased roe, and as a sheep that no man taketh up: they shall every man turn to his own people, and flee every one into his own land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like a hunted gazelle, like a sheep without a shepherd, each will return to his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.13|<< Isaiah 13:13]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.15|Isaiah 13:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָה֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a gazelle  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H6643B\|צְבִ֣י]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> tz.Vi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

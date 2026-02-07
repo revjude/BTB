@@ -1,4 +1,4 @@
-**Job 20:18** 
+**Job 20:18**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That which he laboured for shall he restore, and shall not swallow [it] down: according to [his] substance [shall] the restitution [be], and he shall not rejoice [therein].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He must return the fruit of his labor without consuming it; he cannot enjoy the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.17|<< Job 20:17]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.19|Job 20:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] restoring  |**<big>&#8207;[[H7725G\|מֵשִׁ֣יב]]&#8207; </big>**| me.Shiv<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] gain  |**<big>&#8207;[[H3022\|יָ֭גָע]]&#8207; </big>**| Ya.go'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

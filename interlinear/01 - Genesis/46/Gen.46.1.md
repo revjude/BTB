@@ -1,4 +1,4 @@
-**Genesis 46:1** 
+**Genesis 46:1**<big><big>[[Gen.46.1 Jacob’s Journey to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel took his journey with all that he had, and came to Beersheba, and offered sacrifices unto the God of his father Isaac.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Israel set out with all that he had, and when he came to Beersheba, he offere
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.28|<< Genesis 45:28]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.2|Genesis 46:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he set out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|יִּסַּ֤ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Sa'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵל֙]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

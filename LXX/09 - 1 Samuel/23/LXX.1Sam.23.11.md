@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:11** 
 <small><sub>**LXX:**</sub></small>
 Shall it be locked up? And now, shall Saul come down as your servant heard, O <span class="smallcaps">lord</span>, the God of Israel? Report \[to\] your servant! And \[the\] <span class="smallcaps">lord</span> said, It shall be locked up. 
-<small><sub>**KJV:**</sub></small>
-Will the men of Keilah deliver me up into his hand? will Saul come down, as thy servant hath heard? O LORD God of Israel, I beseech thee, tell thy servant. And the LORD said, He will come down.
-<small><sub>**BSB:**</sub></small>
-Will the citizens of Keilah surrender me into his hand? Will Saul come down, as Your servant has heard? O LORD, God of Israel, please tell Your servant.” “He will,” said the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.10|<< 1 Samuel 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.12|1 Samuel 23:12 >>]]</td></tr></table>
 
 | Translation | Greek |

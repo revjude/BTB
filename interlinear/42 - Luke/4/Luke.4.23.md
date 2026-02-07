@@ -1,12 +1,12 @@
-**Luke 4:23
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:23**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Ye will surely say unto me this proverb, Physician, heal thyself: whatsoever we have heard done in Capernaum, do also here in thy country.
 <small><sub>**BSB:**</sub></small>
 Jesus said to them, “Surely you will quote this proverb to Me: ‘Physician, heal yourself! Do here in Your hometown what we have heard that You did in Capernaum.’”
 <small><sub>**Literal:**</sub></small>
 And He said to them; Surely you will say to Me <the> proverb this; Physician do heal yourself! As much as we have heard has been done in <the> Capernaum, do perform also here in the hometown of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.22|<< Luke 4:22]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.24|Luke 4:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Proverbs 4:12** 
 <small><sub>**LXX:**</sub></small>
 For when you should go your footsteps will not be hemmed in; and when you should run, you shall not tire. 
-<small><sub>**KJV:**</sub></small>
-When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.
-<small><sub>**BSB:**</sub></small>
-When you walk, your steps will not be impeded; when you run, you will not stumble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.11|<< Proverbs 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.4.13|Proverbs 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

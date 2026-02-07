@@ -1,10 +1,7 @@
 **LXX Joshua 15:8** 
 <small><sub>**LXX:**</sub></small>
 And the borders ascend unto \[the\] ravine of \[the\] son of Hinnom at \[the\] back  of Jebus from \[the\] south, this is Jerusalem. And the borders pass out unto \[the\] top of \[the\] mountain which is by \[the\] face of \[the\] ravine of Hinnom towards \[the\] west, which is by part of \[the\] land of Rephaim towards \[the\] north. 
-<small><sub>**KJV:**</sub></small>
-And the border went up by the valley of the son of Hinnom unto the south side of the Jebusite; the same [is] Jerusalem: and the border went up to the top of the mountain that [lieth] before the valley of Hinnom westward, which [is] at the end of the valley of the giants northward:
-<small><sub>**BSB:**</sub></small>
-From there the border went up the Valley of Ben-hinnom along the southern slope of the Jebusites (that is, Jerusalem) and ascended to the top of the hill that faces the Valley of Hinnom on the west, at the northern end of the Valley of Rephaim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.7|<< Joshua 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.9|Joshua 15:9 >>]]</td></tr></table>
 
 | Translation | Greek |

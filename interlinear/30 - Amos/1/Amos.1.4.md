@@ -1,4 +1,4 @@
-**Amos 1:4** 
+**Amos 1:4**<big><big>[[Amos.1.1 Judgment on Israel’s Neighbors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will send a fire into the house of Hazael, which shall devour the palaces of Benhadad.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I will send fire upon the house of Hazael to consume the citadels of Ben-hada
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.1.3|<< Amos 1:3]]</td><td align="center" style="border:none;">[[Amos.1|Amos 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.5|Amos 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will send forth  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7971G\|שִׁלַּ֥חְתִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.Lach.ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a fire  |**<big>&#8207;[[H0784\|אֵ֖שׁ]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

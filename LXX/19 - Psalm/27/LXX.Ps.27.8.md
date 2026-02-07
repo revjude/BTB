@@ -1,10 +1,7 @@
 **LXX Psalm 27:8** 
 <small><sub>**LXX:**</sub></small>
 To you my heart said, I seek \[the\] <span class="smallcaps">lord</span>, I sought after you with my face.  Your face, O <span class="smallcaps">lord</span>, I shall seek. 
-<small><sub>**KJV:**</sub></small>
-[When thou saidst], Seek ye my face; my heart said unto thee, Thy face, LORD, will I seek.
-<small><sub>**BSB:**</sub></small>
-My heart said, “Seek His face.” Your face, O LORD, I will seek.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.27.7|<< Psalm 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.27.9|Psalm 27:9 >>]]</td></tr></table>
 
 | Translation | Greek |

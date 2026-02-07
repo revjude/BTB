@@ -1,4 +1,4 @@
-**Jeremiah 32:3** 
+**Jeremiah 32:3**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Zedekiah king of Judah had shut him up, saying, Wherefore dost thou prophesy, and say, Thus saith the LORD, Behold, I will give this city into the hand of the king of Babylon, and he shall take it;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For Zedekiah king of Judah had imprisoned him, saying: “Why are you prophesyin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.2|<< Jeremiah 32:2]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.4|Jeremiah 32:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had shut up him  |**<big>&#8207;[[H3607\|כְּלָא֔]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| ke.la.'<small><sup>[[HVqp3ms]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

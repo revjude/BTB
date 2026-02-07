@@ -1,12 +1,12 @@
-**Luke 9:5
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:5**<big><big>[[Luke.9.1 The Ministry of the Twelve|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them.
 <small><sub>**BSB:**</sub></small>
 If anyone does not welcome you, shake the dust off your feet when you leave that town, as a testimony against them.”
 <small><sub>**Literal:**</sub></small>
 And as many as maybe not shall receive you, going forth from the city that and the dust from the feet of you do shake off as a testimony against them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.4|<< Luke 9:4]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.6|Luke 9:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as many as |**<big>[[G3745\|ὅσοι]]</big>**  |hosoi <small><sup>[[K-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

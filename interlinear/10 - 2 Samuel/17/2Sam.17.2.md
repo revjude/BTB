@@ -1,4 +1,4 @@
-**2 Samuel 17:2** 
+**2 Samuel 17:2**<big><big>[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will come upon him while he [is] weary and weak handed, and will make him afraid: and all the people that [are] with him shall flee; and I will smite the king only:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will attack him while he is weak and weary; I will throw him into a panic, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.1|<< 2 Samuel 17:1]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.3|2 Samuel 17:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so I may come  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0935G\|אָב֣וֹא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Vo'<small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on him  |**<big>&#8207;[[H5921A\|עָלָ֗י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,6 +1,6 @@
 (KJV) **Isaiah 58**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57|<< Isaiah 57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59|Isaiah 59 >>]]</td></tr></table>
 
-***True Fasts and Sabbaths*** ^bsb1680
+<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥃]]</big></big>***True Fasts and Sabbaths***
 
  $\quad$ <span class="startversemarker">[</span>**[[Isa.58.1|1]]**<span class="endversemarker">]</span> Cry aloud<small><small>[^2]</small></small>, spare<small><small>[^3]</small></small> not, lift up<small><small>[^4]</small></small> thy voice like<small><small>[^5]</small></small> a trumpet, and shew my people their transgression, and the house of Jacob their sins. <span class="startversemarker">[</span>**[[Isa.58.2|2]]**<span class="endversemarker">]</span> Yet they seek<small><small>[^6]</small></small> me daily, and delight to know my ways, as a nation that did righteousness, and forsook not the ordinance of their God: they ask<small><small>[^7]</small></small> of me the ordinances of justice; they take delight in approaching to God. 
 

@@ -1,12 +1,12 @@
-**1 Peter 1:5
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:5**<big><big>[[1Pet.1.3 A Living Hope|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who are kept by the power of God through faith unto salvation ready to be revealed in the last time.
 <small><sub>**BSB:**</sub></small>
 who through faith are shielded by God’s power for the salvation that is ready to be revealed in the last time.
 <small><sub>**Literal:**</sub></small>
 who by [the] power of God [are] being guarded through faith for [the] salvation ready to be revealed in [the] time last;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.4|<< 1 Peter 1:4]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.6|1 Peter 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | by |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

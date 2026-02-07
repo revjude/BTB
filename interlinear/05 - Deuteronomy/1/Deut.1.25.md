@@ -1,4 +1,4 @@
-**Deuteronomy 1:25** 
+**Deuteronomy 1:25**<big><big>[[Deut.1.19 Twelve Spies Sent Out|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took of the fruit of the land in their hands, and brought [it] down unto us, and brought us word again, and said, [It is] a good land which the LORD our God doth give us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They took some of the fruit of the land in their hands, carried it down to us, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.24|<< Deuteronomy 1:24]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.26|Deuteronomy 1:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקְח֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in hand their  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3027G\|יָדָ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> ya.Da<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

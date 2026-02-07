@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joshua sent out the people, and the sons of Israel each departed to  his place, and to  his inheritance, to inherit the land. 
-<small><sub>**KJV:**</sub></small>
-And when Joshua had let the people go, the children of Israel went every man unto his inheritance to possess the land.
-<small><sub>**BSB:**</sub></small>
-After Joshua had dismissed the people, the Israelites went out to take possession of the land, each to his own inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.5|<< Judges 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.7|Judges 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

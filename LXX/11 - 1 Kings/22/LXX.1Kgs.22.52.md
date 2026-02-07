@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:52** 
 <small><sub>**LXX:**</sub></small>
 And he acted  wickedly before \[the\] <span class="smallcaps">lord</span>, and went in \[the\] way of Ahab  his father, and in \[the\] way of Jezebel  his mother, and in the sins of \[the\] house of Jeroboam son of Nebat, who led Israel into sin. 
-<small><sub>**KJV:**</sub></small>
-And he did evil in the sight of the LORD, and walked in the way of his father, and in the way of his mother, and in the way of Jeroboam the son of Nebat, who made Israel to sin:
-<small><sub>**BSB:**</sub></small>
-And he did evil in the sight of the LORD and walked in the ways of his father and mother and of Jeroboam son of Nebat, who had caused Israel to sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.51|<< 1 Kings 22:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.53|1 Kings 22:53 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 9:6** 
 <small><sub>**LXX:**</sub></small>
 And men came, the ones who were unclean by reason of \[touching\] a \[dead\] soul of a man, and they were not able to observe the passover in  that day. And they came forward before Moses and Aaron on that  day. 
-<small><sub>**KJV:**</sub></small>
-And there were certain men, who were defiled by the dead body of a man, that they could not keep the passover on that day: and they came before Moses and before Aaron on that day:
-<small><sub>**BSB:**</sub></small>
-But there were some men who were unclean due to a dead body, so they could not observe the Passover on that day. And they came before Moses and Aaron that same day<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.5|<< Numbers 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.7|Numbers 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

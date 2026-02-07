@@ -1,10 +1,7 @@
 **LXX Psalm 69:16** 
 <small><sub>**LXX:**</sub></small>
 Listen to me, O <span class="smallcaps">lord</span>, for your mercy \[is\] gracious! According to the multitude  of your compassions look upon me! 
-<small><sub>**KJV:**</sub></small>
-Hear me, O LORD; for thy lovingkindness [is] good: turn unto me according to the multitude of thy tender mercies.
-<small><sub>**BSB:**</sub></small>
-Answer me, O LORD, for Your loving devotion is good; turn to me in keeping with Your great compassion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.15|<< Psalm 69:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.17|Psalm 69:17 >>]]</td></tr></table>
 
 | Translation | Greek |

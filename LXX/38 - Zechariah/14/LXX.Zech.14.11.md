@@ -1,10 +1,7 @@
 **LXX Zechariah 14:11** 
 <small><sub>**LXX:**</sub></small>
 And they shall dwell in it, and it will not be anathema any longer; and Jerusalem shall dwell securely. 
-<small><sub>**KJV:**</sub></small>
-And [men] shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited.
-<small><sub>**BSB:**</sub></small>
-People will live there, and never again will there be an utter destruction. So Jerusalem will dwell securely.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.10|<< Zechariah 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.12|Zechariah 14:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zechariah 14:11** is...

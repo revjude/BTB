@@ -1,6 +1,6 @@
 (KJV) **1 Chronicles 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16|<< 1 Chronicles 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18|1 Chronicles 18 >>]]</td></tr></table>
 
-***God’s Covenant with David***&emsp;<small><sup>\[ [[2Sam.7|2 Samuel 7:1–17]] ]</sup></small> ^bsb1028
+<big><big>[[1Chr.17.1 God’s Covenant with David|⥃]]</big></big>***God’s Covenant with David***&emsp;<small><sup>\[ [[2Sam.7|2 Samuel 7:1–17]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[1Chr.17.1|1]]**<span class="endversemarker">]</span> Now it came to pass, as David<small><small>[^2]</small></small> sat in his house, that David said to Nathan<small><small>[^3]</small></small> the prophet, Lo, I dwell<small><small>[^4]</small></small> in an house of cedars, but the ark<small><small>[^5]</small></small> of the covenant of the <span class="smallcaps">Lord</span> \[remaineth\] under curtains<small><small>[^6]</small></small>. <span class="startversemarker">[</span>**[[1Chr.17.2|2]]**<span class="endversemarker">]</span> Then Nathan said unto David, Do all<small><small>[^7]</small></small> that \[is\] in thine heart; for God<small><small>[^8]</small></small> \[is\] with thee. 
 
@@ -8,7 +8,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.17.3|3]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[1Chr.17.11|11]]**<span class="endversemarker">]</span> [¶]And it shall come to pass, when thy<small><small>[^33]</small></small> days be expired that thou must go \[to be<small><small>[^34]</small></small>\] with thy fathers, that I will raise<small><small>[^35]</small></small> up thy seed after thee, which shall be of thy sons; and I will establish his kingdom. <span class="startversemarker">[</span>**[[1Chr.17.12|12]]**<span class="endversemarker">]</span> He shall<small><small>[^36]</small></small> build me an house, and I will<small><small>[^37]</small></small> stablish his throne for ever. <span class="startversemarker">[</span>**[[1Chr.17.13|13]]**<span class="endversemarker">]</span> I will be<small><small>[^38]</small></small> his father, and he shall be my son<small><small>[^39]</small></small>: and I will not<small><small>[^40]</small></small> take my mercy away from him, as I took<small><small>[^41]</small></small> \[it\] from \[him\] that was before thee: <span class="startversemarker">[</span>**[[1Chr.17.14|14]]**<span class="endversemarker">]</span> But I will settle him in mine<small><small>[^42]</small></small> house and in my kingdom for ever: and his throne shall be established for evermore. <span class="startversemarker">[</span>**[[1Chr.17.15|15]]**<span class="endversemarker">]</span> According<small><small>[^43]</small></small> to all these words, and according to all this vision, so did Nathan speak unto David.
 
-***David’s Prayer of Thanksgiving***&emsp;<small><sup>\[ [[2Sam.7|2 Samuel 7:18–29]] ]</sup></small> ^bsb1029
+<big><big>[[1Chr.17.16 David’s Prayer of Thanksgiving|⥃]]</big></big>***David’s Prayer of Thanksgiving***&emsp;<small><sup>\[ [[2Sam.7|2 Samuel 7:18–29]] ]</sup></small>
 
  
 

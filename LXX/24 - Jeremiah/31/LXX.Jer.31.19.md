@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:19** 
 <small><sub>**LXX:**</sub></small>
 For after my captivity, I changed my mind; and after  my knowing, I moaned over \[the\] day of shame. And I showed you plainly that I took scorning of my youth. 
-<small><sub>**KJV:**</sub></small>
-Surely after that I was turned, I repented; and after that I was instructed, I smote upon [my] thigh: I was ashamed, yea, even confounded, because I did bear the reproach of my youth.
-<small><sub>**BSB:**</sub></small>
-After I returned, I repented; and after I was instructed, I struck my thigh in grief. I was ashamed and humiliated because I bore the disgrace of my youth.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.18|<< Jeremiah 31:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.20|Jeremiah 31:20 >>]]</td></tr></table>
 
 | Translation | Greek |

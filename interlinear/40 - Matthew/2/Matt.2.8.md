@@ -1,12 +1,12 @@
-**Matthew 2:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:8**<big><big>[[Matt.2.1 The Pilgrimage of the Magi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found [him], bring me word again, that I may come and worship him also.
 <small><sub>**BSB:**</sub></small>
 And sending them to Bethlehem, he said: “Go and search carefully for the Child, and when you find Him, report to me, so that I too may go and worship Him.”
 <small><sub>**Literal:**</sub></small>
 And having sent them to Bethlehem he said; Having gone do search carefully for the Child. when then You may have found [Him], do bring word back to me so that I myself also having come may worship Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.7|<< Matthew 2:7]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.9|Matthew 2:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having sent |**<big>[[G3992\|πέμψας]]</big>**  |pempsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

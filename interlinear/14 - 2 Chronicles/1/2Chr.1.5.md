@@ -1,4 +1,4 @@
-**2 Chronicles 1:5** 
+**2 Chronicles 1:5**<big><big>[[2Chr.1.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the LORD: and Solomon and the congregation sought unto it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the bronze altar made by Bezalel son of Uri, the son of Hur, was in Gibeon b
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.4|<< 2 Chronicles 1:4]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.6|2 Chronicles 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] altar of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4196\|מִזְבַּ֣ח]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> miz.Bach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> bronze  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5178A\|נְּחֹ֗שֶׁת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

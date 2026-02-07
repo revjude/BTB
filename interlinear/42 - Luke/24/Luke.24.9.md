@@ -1,12 +1,12 @@
-**Luke 24:9
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:9**<big><big>[[Luke.24.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And returned from the sepulchre, and told all these things unto the eleven, and to all the rest.
 <small><sub>**BSB:**</sub></small>
 And when they returned from the tomb, they reported all these things to the Eleven and to all the others.
 <small><sub>**Literal:**</sub></small>
 And having returned from the tomb they related these things all to the eleven and to all the rest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.8|<< Luke 24:8]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.10|Luke 24:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having returned |**<big>[[G5290\|ὑποστρέψασαι]]</big>**  |hupostrepsasai <small><sup>[[V-AAP-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

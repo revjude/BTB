@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:14** 
 <small><sub>**LXX:**</sub></small>
 No \[part\] of it shall be sold, nor measured out \[for sale\], nor shall there be removed \[any of\] the first produce of the land, for it is holy to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And they shall not sell of it, neither exchange, nor alienate the firstfruits of the land: for [it is] holy unto the LORD.
-<small><sub>**BSB:**</sub></small>
-They must not sell or exchange any of it, and they must not transfer this best part of the land, for it is holy to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.13|<< Ezekiel 48:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.15|Ezekiel 48:15 >>]]</td></tr></table>
 
 | Translation | Greek |

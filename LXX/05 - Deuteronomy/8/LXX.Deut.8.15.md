@@ -1,10 +1,7 @@
 **LXX Deuteronomy 8:15** 
 <small><sub>**LXX:**</sub></small>
 the one leading you through the great and dreadful wilderness, that one of which \[is\] \[the\] biting serpent, and scorpion, and thirst, of which there was no water; the one leading to you a spring of water from out of chiseled rock; 
-<small><sub>**KJV:**</sub></small>
-Who led thee through that great and terrible wilderness, [wherein were] fiery serpents, and scorpions, and drought, where [there was] no water; who brought thee forth water out of the rock of flint;
-<small><sub>**BSB:**</sub></small>
-He led you through the vast and terrifying wilderness with its venomous snakes and scorpions, a thirsty and waterless land. He brought you water from the rock of flint.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.14|<< Deuteronomy 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.16|Deuteronomy 8:16 >>]]</td></tr></table>
 
 | Translation | Greek |

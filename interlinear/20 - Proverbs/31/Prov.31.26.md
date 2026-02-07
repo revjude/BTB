@@ -1,4 +1,4 @@
-**Proverbs 31:26** 
+**Proverbs 31:26**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She openeth her mouth with wisdom; and in her tongue [is] the law of kindness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She opens her mouth with wisdom, and faithful instruction is on her tongue.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.25|<< Proverbs 31:25]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.27|Proverbs 31:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | mouth her  |**<big>&#8207;[[H6310G\|פִּ֭י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| Pi.<small><sup>[[HNcmsc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she opens  |**<big>&#8207;[[H6605A\|פָּתְחָ֣ה]]&#8207; </big>**| pa.te.Chah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

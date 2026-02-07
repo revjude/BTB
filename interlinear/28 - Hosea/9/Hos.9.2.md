@@ -1,4 +1,4 @@
-**Hosea 9:2** 
+**Hosea 9:2**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The floor and the winepress shall not feed them, and the new wine shall fail in her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The threshing floor and winepress will not feed them, and the new wine will fail
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.1|<< Hosea 9:1]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.3|Hosea 9:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | threshing floor  |**<big>&#8207;[[H1637\|גֹּ֥רֶן]]&#8207; </big>**| Go.ren<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and wine-press  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H3342\|יֶ֖קֶב]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Ye.kev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

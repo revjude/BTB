@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And this will be the downfall in which \[the\] <span class="smallcaps">lord</span> shall smite all the peoples, as many as marched against Jerusalem. Their flesh shall melt away \[while\] standing upon  their feet; and  their eyes shall flow from out of  their openings, and  their tongue shall melt away in  their mouth. 
-<small><sub>**KJV:**</sub></small>
-And this shall be the plague wherewith the LORD will smite all the people that have fought against Jerusalem; Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth.
-<small><sub>**BSB:**</sub></small>
-And this will be the plague with which the LORD strikes all the peoples who have warred against Jerusalem: Their flesh will rot while they stand on their feet, their eyes will rot in their sockets, and their tongues will rot in their mouths.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.11|<< Zechariah 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.13|Zechariah 14:13 >>]]</td></tr></table>
 
 | Translation | Greek |

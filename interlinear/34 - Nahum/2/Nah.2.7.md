@@ -1,4 +1,4 @@
-**Nahum 2:7** (2:8)
+**Nahum 2:7**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Huzzab shall be led away captive, she shall be brought up, and her maids shall lead [her] as with the voice of doves, tabering upon their breasts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is decreed that the city be exiled and carried away; her maidservants moan li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.6|<< Nahum 2:6]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.8|Nahum 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it has been fixed  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5324\|הֻצַּ֖ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hu.Tzav<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was uncovered  |**<big>&#8207;[[H1540I\|גֻּלְּתָ֣ה]]&#8207; </big>**| gu.le.Tah<small><sup>[[HVPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

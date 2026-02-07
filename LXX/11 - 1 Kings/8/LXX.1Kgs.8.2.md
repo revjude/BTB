@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:2** 
 <small><sub>**LXX:**</sub></small>
 in \[the\] month Athanim during its holiday, this is \[the\] seventh month. And all the elders of Israel came. 
-<small><sub>**KJV:**</sub></small>
-And all the men of Israel assembled themselves unto king Solomon at the feast in the month Ethanim, which [is] the seventh month.
-<small><sub>**BSB:**</sub></small>
-And all the men of Israel came together to King Solomon at the feast in the seventh month, the month of Ethanim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.1|<< 1 Kings 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.3|1 Kings 8:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 21:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:23**<big><big>[[Matt.21.23 Jesus’ Authority Challenged|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?
 <small><sub>**BSB:**</sub></small>
 When Jesus returned to the temple courts and began to teach, the chief priests and elders of the people came up to Him. “By what authority are You doing these things?” they asked. “And who gave You this authority?”
 <small><sub>**Literal:**</sub></small>
 And when was coming He into the temple came to Him teaching the chief priests and the elders of the people saying; By what authority these things are You doing And who to You gave <the> authority this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.22|<< Matthew 21:22]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.24|Matthew 21:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when was coming [^1] |**<big>[[G2064\|ἐλθόντος]]</big>**  |elthontos <small><sup>[[V-2AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 19:7** 
 <small><sub>**LXX:**</sub></small>
 And they hired for themselves two and thirty thousand chariots, and the king of Maachah and  his people. And they came and camped before Medeba. And the sons of Ammon gathered together from out of  their cities, and they came to  wage war. 
-<small><sub>**KJV:**</sub></small>
-So they hired thirty and two thousand chariots, and the king of Maachah and his people; who came and pitched before Medeba. And the children of Ammon gathered themselves together from their cities, and came to battle.
-<small><sub>**BSB:**</sub></small>
-So they hired for themselves thirty-two thousand chariots, as well as the king of Maacah with his troops, who came and camped near Medeba while the Ammonites were mustered from their cities and marched out for battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.19.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.6|<< 1 Chronicles 19:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.8|1 Chronicles 19:8 >>]]</td></tr></table>
 
 | Translation | Greek |

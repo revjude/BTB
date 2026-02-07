@@ -1,4 +1,4 @@
-**1 Chronicles 2:55** 
+**1 Chronicles 2:55**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, [and] Suchathites. These [are] the Kenites that came of Hemath, the father of the house of Rechab.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the clans of the scribes who lived at Jabez—the Tirathites, Shimeathites, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.54|<< 1 Chronicles 2:54]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.1|1 Chronicles 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] clans of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4940\|מִשְׁפְּח֤וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.pe.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Sophrites  |**<big>&#8207;[[H5608B\|סֹפְרִים֙]]&#8207; </big>**| so.fe.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

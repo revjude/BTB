@@ -1,4 +1,4 @@
-**Zephaniah 3:18** 
+**Zephaniah 3:18**<big><big>[[Zeph.3.14 Israel’s Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will gather [them that are] sorrowful for the solemn assembly, [who] are of thee, [to whom] the reproach of it [was] a burden.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will gather [them that are] sorrowful for the solemn assembly, [who] are of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.17|<< Zephaniah 3:17]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.19|Zephaniah 3:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [those] grieved  |**<big>&#8207;[[H3013\|נוּגֵ֧י]]&#8207; </big>**| nu.Gei<small><sup>[[HVNrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from an appointed feast  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4150H\|מּוֹעֵ֛ד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

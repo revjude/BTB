@@ -1,12 +1,12 @@
-**1 Corinthians 15:34
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:34**<big><big>[[1Cor.15.20 The Order of Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Awake to righteousness, and sin not; for some have not the knowledge of God: I speak [this] to your shame.
 <small><sub>**BSB:**</sub></small>
 Sober up as you ought, and stop sinning; for some of you are ignorant of God. I say this to your shame.
 <small><sub>**Literal:**</sub></small>
 do sober up righteously and not do sin; ignorance for of God some have; to [the] shame of you I speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.33|<< 1 Corinthians 15:33]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.35|1 Corinthians 15:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do sober up |**<big>[[G1594\|ἐκνήψατε]]</big>**  |eknēpsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | righteously |**<big>[[G1346\|δικαίως]]</big>**  |dikaiōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

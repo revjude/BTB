@@ -1,10 +1,7 @@
 **LXX Isaiah 9:18** 
 <small><sub>**LXX:**</sub></small>
 And lawlessness shall burn as fire. And as dry wild grass it shall be devoured by fire, and shall be burnt in the thickets of the grove, and shall devour together all the \[things\] round about the hills. 
-<small><sub>**KJV:**</sub></small>
-For wickedness burneth as the fire: it shall devour the briers and thorns, and shall kindle in the thickets of the forest, and they shall mount up [like] the lifting up of smoke.
-<small><sub>**BSB:**</sub></small>
-For wickedness burns like a fire that consumes the thorns and briers and kindles the forest thickets, which roll upward in billows of smoke.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.17|<< Isaiah 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.19|Isaiah 9:19 >>]]</td></tr></table>
 
 | Translation | Greek |

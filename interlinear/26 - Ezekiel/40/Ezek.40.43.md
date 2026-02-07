@@ -1,4 +1,4 @@
-**Ezekiel 40:43** 
+**Ezekiel 40:43**<big><big>[[Ezek.40.38 Eight Tables for Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And within [were] hooks, an hand broad, fastened round about: and upon the tables [was] the flesh of the offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The double-pronged hooks, each a handbreadth long, were fastened all around the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.42|<< Ezekiel 40:42]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.44|Ezekiel 40:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the hooks  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H8240B\|שְׁפַתַּ֗יִם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> sh.fa.Ta.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a hand breadth  |**<big>&#8207;[[H2948\|טֹ֧פַח]]&#8207; </big>**| To.fach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

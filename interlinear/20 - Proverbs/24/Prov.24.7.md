@@ -1,4 +1,4 @@
-**Proverbs 24:7** 
+**Proverbs 24:7**<big><big>[[Prov.24.7 Saying 23|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wisdom [is] too high for a fool: he openeth not his mouth in the gate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wisdom is too high for a fool; he does not open his mouth in the meeting place.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.6|<< Proverbs 24:6]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.8|Proverbs 24:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] high  |**<big>&#8207;[[H7311A\|רָאמ֣וֹת]]&#8207; </big>**| ra.Mot<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for a fool  |**<big>&#8207;[[H9005\|לֶֽ]]&#8207;&#8207;[[H0191\|אֱוִ֣יל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'e.Vil<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 20:23** 
 <small><sub>**LXX:**</sub></small>
 And  Joab \[was\] over all the force of Israel. And Benaiah son of Jehoiada \[was\] over the Cherethites and over the Pelethites. 
-<small><sub>**KJV:**</sub></small>
-Now Joab [was] over all the host of Israel: and Benaiah the son of Jehoiada [was] over the Cherethites and over the Pelethites:
-<small><sub>**BSB:**</sub></small>
-Now Joab was over the whole army of Israel; Benaiah son of Jehoiada was over the Cherethites and Pelethites;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.22|<< 2 Samuel 20:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.24|2 Samuel 20:24 >>]]</td></tr></table>
 
 | Translation | Greek |

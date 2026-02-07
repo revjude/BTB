@@ -1,5 +1,5 @@
-**Revelation 2:23
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:23**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I will kill her children with death; and all the churches shall know that I am he which searcheth the reins and hearts: and I will give unto every one of you according to your works.
 <small><sub>**BSB:**</sub></small>
 Then I will strike her children dead, and all the churches will know that I am the One who searches minds and hearts, and I will repay each of you according to your deeds.
@@ -10,7 +10,7 @@ And the children of her I will kill with death, and will know all the churches t
 > $\quad$ possibly alluding to: [[LXX.Jer.17.10|Jer 17:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

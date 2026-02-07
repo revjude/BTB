@@ -1,12 +1,12 @@
-**Romans 6:17
-**<small><sub>**KJV:**</sub></small>
+**Romans 6:17**<big><big>[[Rom.6.15 The Wages of Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you.
 <small><sub>**BSB:**</sub></small>
 But thanks be to God that, though you once were slaves to sin, you wholeheartedly obeyed the form of teaching to which you were committed.
 <small><sub>**Literal:**</sub></small>
 Thanks [be] however <the> to God that you were slaves <the> of sin, you have become obedient now from [the] heart to which you were handed over to the form of teaching.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.16|<< Romans 6:16]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.18|Romans 6:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thanks [be] |**<big>[[G5485\|χάρις]]</big>**  |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

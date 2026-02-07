@@ -1,12 +1,12 @@
-**Mark 16:10
-**<small><sub>**KJV:**</sub></small>
+**Mark 16:10**<big><big>[[Mark.16.9 Jesus Appears to Mary Magdalene|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [And] she went and told them that had been with him, as they mourned and wept.
 <small><sub>**BSB:**</sub></small>
 She went and told those who had been with Him, who were mourning and weeping.
 <small><sub>**Literal:**</sub></small>
 She having gone told [it] to those with Him having been mourning and weeping.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.9|<< Mark 16:9]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.11|Mark 16:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | She |**<big>[[G1565\|ἐκείνη]]</big>**  |ekeinē <small><sup>[[D-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
 | having gone |**<big>[[G4198\|πορευθεῖσα]]</big>**  |poreutheisa <small><sup>[[V-AOP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |

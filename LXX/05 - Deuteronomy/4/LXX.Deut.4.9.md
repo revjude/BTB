@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Take heed to yourself, and guard  your life exceedingly! You should not forget all the words which your eyes have seen, and let them not leave from  your heart all the days  of your life! And instruct  your sons and the sons  of your sons! 
-<small><sub>**KJV:**</sub></small>
-Only take heed to thyself, and keep thy soul diligently, lest thou forget the things which thine eyes have seen, and lest they depart from thy heart all the days of thy life: but teach them thy sons, and thy sons’ sons;
-<small><sub>**BSB:**</sub></small>
-Only be on your guard and diligently watch yourselves, so that you do not forget the things your eyes have seen, and so that they do not slip from your heart as long as you live. Teach them to your children and grandchildren.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.8|<< Deuteronomy 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.10|Deuteronomy 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

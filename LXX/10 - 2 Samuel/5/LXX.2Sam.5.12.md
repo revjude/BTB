@@ -1,10 +1,7 @@
 **LXX 2 Samuel 5:12** 
 <small><sub>**LXX:**</sub></small>
 And David knew that \[the\] <span class="smallcaps">lord</span> prepared him for king over Israel, and that his kingdom was lifted up on account of  his people Israel. 
-<small><sub>**KJV:**</sub></small>
-And David perceived that the LORD had established him king over Israel, and that he had exalted his kingdom for his people Israel’s sake.
-<small><sub>**BSB:**</sub></small>
-And David realized that the LORD had established him as king over Israel and had exalted his kingdom for the sake of His people Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.11|<< 2 Samuel 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.13|2 Samuel 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

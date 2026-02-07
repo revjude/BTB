@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:18** 
 <small><sub>**LXX:**</sub></small>
 And it will be whenever the sons of your people shall speak to you, saying, Will you not report to us what these \[things\] are to you? 
-<small><sub>**KJV:**</sub></small>
-And when the children of thy people shall speak unto thee, saying, Wilt thou not shew us what thou [meanest] by these?
-<small><sub>**BSB:**</sub></small>
-When your people ask you, ‘Won’t you explain to us what you mean by these?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.17|<< Ezekiel 37:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.19|Ezekiel 37:19 >>]]</td></tr></table>
 
 | Translation | Greek |

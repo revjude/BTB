@@ -1,4 +1,4 @@
-**Leviticus 11:5** 
+**Leviticus 11:5**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the coney, because he cheweth the cud, but divideth not the hoof; he [is] unclean unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The rock badger, though it chews the cud, does not have a divided hoof; it is un
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.4|<< Leviticus 11:4]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.6|Leviticus 11:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the rock badger  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8227A\|שָּׁפָ֗ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Fan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

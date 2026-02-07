@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:19** 
 <small><sub>**LXX:**</sub></small>
 And Azubah died, and Caleb took for himself  Ephrath, and she bore to him  Hur. 
-<small><sub>**KJV:**</sub></small>
-And when Azubah was dead, Caleb took unto him Ephrath, which bare him Hur.
-<small><sub>**BSB:**</sub></small>
-When Azubah died, Caleb married Ephrath, who bore to him Hur.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.18|<< 1 Chronicles 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.20|1 Chronicles 2:20 >>]]</td></tr></table>
 
 | Translation | Greek |

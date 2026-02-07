@@ -1,4 +1,4 @@
-**Genesis 14:12** 
+**Genesis 14:12**<big><big>[[Gen.14.10 Abram Rescues Lot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took Lot, Abram’s brother’s son, who dwelt in Sodom, and his goods, and departed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They also carried off Abram’s nephew Lot and his possessions, since Lot was li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.11|<< Genesis 14:11]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.13|Genesis 14:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקְח֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

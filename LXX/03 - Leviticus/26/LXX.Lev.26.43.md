@@ -1,10 +1,7 @@
 **LXX Leviticus 26:43** 
 <small><sub>**LXX:**</sub></small>
 And the land shall be abandoned of them. Then the land shall favorably receive  her Sabbaths, in  her being made desolate because of them. And they shall accept the \[things\] of their own lawlessness, because  they overlooked my judgments, and  they loathed my orders  in their soul. 
-<small><sub>**KJV:**</sub></small>
-The land also shall be left of them, and shall enjoy her sabbaths, while she lieth desolate without them: and they shall accept of the punishment of their iniquity: because, even because they despised my judgments, and because their soul abhorred my statutes.
-<small><sub>**BSB:**</sub></small>
-For the land will be abandoned by them, and it will enjoy its Sabbaths by lying desolate without them. And they will pay the penalty for their iniquity, because they rejected My ordinances and abhorred My statutes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.42|<< Leviticus 26:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.44|Leviticus 26:44 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 2:45
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:45**<big><big>[[Acts.2.42 The Fellowship of Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And sold their possessions and goods, and parted them to all [men], as every man had need.
 <small><sub>**BSB:**</sub></small>
 Selling their possessions and goods, they shared with anyone who was in need.
 <small><sub>**Literal:**</sub></small>
 and the possessions and the goods they were selling and they were dividing them to all as would anyone need had;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.44|<< Acts 2:44]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.46|Acts 2:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

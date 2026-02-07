@@ -1,10 +1,7 @@
 **LXX Psalm 7:4** 
 <small><sub>**LXX:**</sub></small>
 if I recompensed to the ones recompensing to me with bad \[things\], may I fall away thus from  my enemies empty -- 
-<small><sub>**KJV:**</sub></small>
-If I have rewarded evil unto him that was at peace with me; (yea, I have delivered him that without cause is mine enemy:)
-<small><sub>**BSB:**</sub></small>
-if I have rewarded my ally with evil, if I have plundered my foe without cause,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.3|<< Psalm 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.5|Psalm 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

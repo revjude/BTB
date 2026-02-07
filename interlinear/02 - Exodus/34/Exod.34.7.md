@@ -1,4 +1,4 @@
-**Exodus 34:7** 
+**Exodus 34:7**<big><big>[[Exod.34.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear [the guilty]; visiting the iniquity of the fathers upon the children, and upon the children’s children, unto the third and to the fourth [generation].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ maintaining loving devotion to a thousand generations, forgiving iniquity, trans
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.6|<< Exodus 34:6]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.8|Exodus 34:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | maintaining  |**<big>&#8207;[[H5341\|נֹצֵ֥ר]]&#8207; </big>**| no.Tzer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | covenant loyalty  |**<big>&#8207;[[H2617A\|חֶ֙סֶד֙]]&#8207; </big>**| che.sed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

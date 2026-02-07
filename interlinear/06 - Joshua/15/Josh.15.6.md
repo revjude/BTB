@@ -1,4 +1,4 @@
-**Joshua 15:6** 
+**Joshua 15:6**<big><big>[[Josh.15.1 Judah’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border went up to Bethhogla, and passed along by the north of Betharabah; and the border went up to the stone of Bohan the son of Reuben:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ went up to Beth-hoglah, proceeded north of Beth-arabah, and went up to the Stone
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.5|<< Joshua 15:5]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.7|Joshua 15:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it goes up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5927G\|עָלָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Lah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the border  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1366G\|גְּבוּל֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

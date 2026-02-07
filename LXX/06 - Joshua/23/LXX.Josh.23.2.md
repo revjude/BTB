@@ -1,10 +1,7 @@
 **LXX Joshua 23:2** 
 <small><sub>**LXX:**</sub></small>
 that Joshua called together all the sons of Israel, and  their council of elders, and  their rulers, and  their magistrates, and  their scribes, and he said to them, I grow old and advanced  in days. 
-<small><sub>**KJV:**</sub></small>
-And Joshua called for all Israel, [and] for their elders, and for their heads, and for their judges, and for their officers, and said unto them, I am old [and] stricken in age:
-<small><sub>**BSB:**</sub></small>
-he summoned all Israel, including its elders, leaders, judges, and officers. “I am old and well along in years,” he said,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.23.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.1|<< Joshua 23:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.3|Joshua 23:3 >>]]</td></tr></table>
 
 | Translation | Greek |

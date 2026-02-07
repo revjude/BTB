@@ -1,10 +1,7 @@
 **LXX Daniel 7:25** 
 <small><sub>**LXX:**</sub></small>
 and words against the highest he shall speak, and the holy ones of \[the\] highest he shall mislead, and shall be of the opinion  to change times and law. And it shall be granted in his hand until a time and times and half a time. 
-<small><sub>**KJV:**</sub></small>
-And he shall speak [great] words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
-<small><sub>**BSB:**</sub></small>
-He will speak out against the Most High and oppress the saints of the Most High, intending to change the appointed times and laws; and the saints will be given into his hand for a time, and times, and half a time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.24|<< Daniel 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.26|Daniel 7:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 7:25** is...

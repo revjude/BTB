@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:19** 
 <small><sub>**LXX:**</sub></small>
 they not provoke me to anger, says \[the\] <span class="smallcaps">lord</span>? Do they not \[provoke\] themselves that their faces should be disgraced? 
-<small><sub>**KJV:**</sub></small>
-Do they provoke me to anger? saith the LORD: [do they] not [provoke] themselves to the confusion of their own faces?
-<small><sub>**BSB:**</sub></small>
-But am I the One they are provoking? declares the LORD. Is it not themselves they spite, to their own shame?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.18|<< Jeremiah 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.20|Jeremiah 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

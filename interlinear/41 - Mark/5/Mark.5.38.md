@@ -1,12 +1,12 @@
-**Mark 5:38
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:38**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly.
 <small><sub>**BSB:**</sub></small>
 When they arrived at the house of the synagogue leader, Jesus saw the commotion and the people weeping and wailing loudly.
 <small><sub>**Literal:**</sub></small>
 And they come to the house of the ruler of the synagogue. and He beholds a commotion and weeping and wailing much,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.37|<< Mark 5:37]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.39|Mark 5:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they come [^1] [^2] |**<big>[[G2064\|ἔρχονται]]</big>**  |erchontai <small><sup>[[V-PNI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |

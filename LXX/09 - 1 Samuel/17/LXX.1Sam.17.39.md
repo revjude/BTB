@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:39** 
 <small><sub>**LXX:**</sub></small>
 And David tied on  his sword upon himself. And David tired walking in the proceeding with them, for he was inexperienced. And David said to Saul, In no way shall I be able to go in these, for I have not tested them; and they removed them from him. 
-<small><sub>**KJV:**</sub></small>
-And David girded his sword upon his armour, and he assayed to go; for he had not proved [it]. And David said unto Saul, I cannot go with these; for I have not proved [them]. And David put them off him.
-<small><sub>**BSB:**</sub></small>
-David strapped his sword over the tunic and tried to walk, but he was not accustomed to them. “I cannot walk in these,” David said to Saul. “I am not accustomed to them.” So David took them off.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.38|<< 1 Samuel 17:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.40|1 Samuel 17:40 >>]]</td></tr></table>
 
 | Translation | Greek |

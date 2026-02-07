@@ -1,12 +1,12 @@
-**Luke 1:44
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:44**<big><big>[[Luke.1.39 Mary Visits Elizabeth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For, lo, as soon as the voice of thy salutation sounded in mine ears, the babe leaped in my womb for joy.
 <small><sub>**BSB:**</sub></small>
 For as soon as the sound of your greeting reached my ears, the baby in my womb leaped for joy.
 <small><sub>**Literal:**</sub></small>
 Behold for as came the voice of the greeting of you into the ears of mine, leaped in exultation the baby in the womb of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.43|<< Luke 1:43]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.45|Luke 1:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

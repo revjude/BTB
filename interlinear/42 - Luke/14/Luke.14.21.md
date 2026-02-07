@@ -1,12 +1,12 @@
-**Luke 14:21
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:21**<big><big>[[Luke.14.15 The Parable of the Banquet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So that servant came, and shewed his lord these things. Then the master of the house being angry said to his servant, Go out quickly into the streets and lanes of the city, and bring in hither the poor, and the maimed, and the halt, and the blind.
 <small><sub>**BSB:**</sub></small>
 The servant returned and reported all this to his master. Then the owner of the house became angry and said to his servant, ‘Go out quickly into the streets and alleys of the city, and bring in the poor, the crippled, the blind, and the lame.’
 <small><sub>**Literal:**</sub></small>
 And having come the servant that reported to the master of him these things. Then having become angry the master of the house said to the servant of him; do go out soon into the streets and lanes of the city, and the poor and crippled and blind and lame do bring in here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.20|<< Luke 14:20]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.22|Luke 14:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G3854\|παραγενόμενος]]</big>**  |paragenomenos <small><sup>[[V-2ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

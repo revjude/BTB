@@ -1,12 +1,12 @@
-**Luke 19:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:10**<big><big>[[Luke.19.1 Jesus and Zacchaeus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the Son of man is come to seek and to save that which was lost.
 <small><sub>**BSB:**</sub></small>
 For the Son of Man came to seek and to save the lost.”
 <small><sub>**Literal:**</sub></small>
 Came for the Son <the> of Man to seek and to save that having been lost.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.9|<< Luke 19:9]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.11|Luke 19:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Came |**<big>[[G2064\|ἦλθεν]]</big>**  |ēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

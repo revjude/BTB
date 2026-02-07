@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:70** 
 <small><sub>**LXX:**</sub></small>
 And from the half tribe of Manasseh --  Aner and  her outskirts, and  Bileam and  her outskirts, to the kin of the sons of Kohath, to the ones remaining. 
-<small><sub>**KJV:**</sub></small>
-And out of the half tribe of Manasseh; Aner with her suburbs, and Bileam with her suburbs, for the family of the remnant of the sons of Kohath.
-<small><sub>**BSB:**</sub></small>
-And from the half-tribe of Manasseh the rest of the clans of the Kohathites were given Aner and Bileam, together with their pasturelands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.70|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.69|<< 1 Chronicles 6:69]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.71|1 Chronicles 6:71 >>]]</td></tr></table>
 
 | Translation | Greek |

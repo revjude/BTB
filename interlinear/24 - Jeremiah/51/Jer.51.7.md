@@ -1,4 +1,4 @@
-**Jeremiah 51:7** 
+**Jeremiah 51:7**<big><big>[[Jer.51.1 Judgment on Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Babylon [hath been] a golden cup in the LORD’S hand, that made all the earth drunken: the nations have drunken of her wine; therefore the nations are mad.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Babylon was a gold cup in the hand of the LORD, making the whole earth drunk. Th
 > $\quad$ referenced by: [[Rev.17.2|Rev 17:2]] ☩ [[Rev.17.4|Rev 17:4]] ☩ [[Rev.18.3|Rev 18:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] a cup of  |**<big>&#8207;[[H3563A\|כּוֹס]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kos-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gold  |**<big>&#8207;[[H2091\|זָהָ֤ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

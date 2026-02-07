@@ -1,4 +1,4 @@
-**Job 22:18** 
+**Job 22:18**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet he filled their houses with good [things]: but the counsel of the wicked is far from me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But it was He who filled their houses with good things; so I stay far from the c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.17|<< Job 22:17]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.19|Job 22:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|ה֤וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he filled  |**<big>&#8207;[[H4390\|מִלֵּ֣א]]&#8207; </big>**| mi.Le'<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

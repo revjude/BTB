@@ -1,4 +1,4 @@
-**Jeremiah 52:24** 
+**Jeremiah 52:24**<big><big>[[Jer.52.24 Captives Carried to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the door:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The captain of the guard also took away Seraiah the chief priest, Zephaniah the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.23|<< Jeremiah 52:23]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.25|Jeremiah 52:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] chief of  |**<big>&#8207;[[H7227B\|רַב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| rav-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

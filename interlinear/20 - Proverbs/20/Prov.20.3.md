@@ -1,4 +1,4 @@
-**Proverbs 20:3** 
+**Proverbs 20:3**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] an honour for a man to cease from strife: but every fool will be meddling.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is honorable for a man to resolve a dispute, but any fool will quarrel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.2|<< Proverbs 20:2]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.4|Proverbs 20:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] honor  |**<big>&#8207;[[H3519\|כָּב֣וֹד]]&#8207; </big>**| ka.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> person  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H0376G\|אִישׁ]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

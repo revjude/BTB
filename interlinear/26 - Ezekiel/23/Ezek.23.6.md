@@ -1,4 +1,4 @@
-**Ezekiel 23:6** 
+**Ezekiel 23:6**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Which were] clothed with blue, captains and rulers, all of them desirable young men, horsemen riding upon horses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ clothed in blue, governors and commanders, all desirable young men, horsemen mou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.5|<< Ezekiel 23:5]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.7|Ezekiel 23:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | clothed of  |**<big>&#8207;[[H3847\|לְבֻשֵׁ֤י]]&#8207; </big>**| le.vu.Shei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | blue  |**<big>&#8207;[[H8504\|תְכֵ֙לֶת֙]]&#8207; </big>**| te.Khe.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

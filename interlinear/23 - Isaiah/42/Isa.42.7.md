@@ -1,4 +1,4 @@
-**Isaiah 42:7** 
+**Isaiah 42:7**<big><big>[[Isa.42.1 Here Is My Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To open the blind eyes, to bring out the prisoners from the prison, [and] them that sit in darkness out of the prison house.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ to open the eyes of the blind, to bring prisoners out of the dungeon and those s
 > $\quad$ referenced by: [[Matt.4.15|Matt 4:15-16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to open  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6491\|פְקֹ֖חַ]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Ko.ach<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes  |**<big>&#8207;[[H5869A\|עֵינַ֣יִם]]&#8207; </big>**| 'ei.Na.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

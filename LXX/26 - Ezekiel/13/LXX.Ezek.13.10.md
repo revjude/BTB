@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Because they misled  my people, saying, Peace; and there was no peace; and this one builds a wall, and they plaster it -- it shall fall. 
-<small><sub>**KJV:**</sub></small>
-Because, even because they have seduced my people, saying, Peace; and [there was] no peace; and one built up a wall, and, lo, others daubed it with untempered [morter]:
-<small><sub>**BSB:**</sub></small>
-Because they have led My people astray, saying, ‘Peace,’ when there is no peace, and whitewashing any flimsy wall that is built,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.9|<< Ezekiel 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.11|Ezekiel 13:11 >>]]</td></tr></table>
 
 | Translation | Greek |

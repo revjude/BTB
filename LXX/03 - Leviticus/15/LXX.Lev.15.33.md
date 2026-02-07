@@ -1,10 +1,7 @@
 **LXX Leviticus 15:33** 
 <small><sub>**LXX:**</sub></small>
 and the one hemorrhaging in  her menstruation, and the one having a seminal emission in  his flow to the male or the female, and to the husband if he should go to bed with one sitting apart. 
-<small><sub>**KJV:**</sub></small>
-And of her that is sick of her flowers, and of him that hath an issue, of the man, and of the woman, and of him that lieth with her that is unclean.
-<small><sub>**BSB:**</sub></small>
-of a woman in her menstrual period, of any male or female who has a discharge, and of a man who lies with an unclean woman.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.32|<< Leviticus 15:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.1|Leviticus 16:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:16** 
 <small><sub>**LXX:**</sub></small>
 And Elisha said to her, At  this time \[next year\], about  this hour, \[and\] living, you shall be holding a son.  But she said, No, O master, O man  of God, you should not disappoint  your maidservant. 
-<small><sub>**KJV:**</sub></small>
-And he said, About this season, according to the time of life, thou shalt embrace a son. And she said, Nay, my lord, [thou] man of God, do not lie unto thine handmaid.
-<small><sub>**BSB:**</sub></small>
-And Elisha declared, “At this time next year, you will hold a son in your arms.” “No, my lord,” she said. “Do not lie to your maidservant, O man of God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.15|<< 2 Kings 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.17|2 Kings 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

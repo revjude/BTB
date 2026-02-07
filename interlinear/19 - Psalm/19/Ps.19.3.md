@@ -1,4 +1,4 @@
-**Psalms 19:3** (19:4)
+**Psalms 19:3**<big><big>[[Ps.19.1 The Heavens Declare the Glory of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] no speech nor language, [where] their voice is not heard.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Without speech or language, without a sound to be heard,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.19.2|<< Psalms 19:2]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.4|Psalms 19:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵֽין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] speech  |**<big>&#8207;[[H0562\|אֹ֭מֶר]]&#8207; </big>**| 'O.mer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

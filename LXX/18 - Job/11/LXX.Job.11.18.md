@@ -1,10 +1,7 @@
 **LXX Job 11:18** 
 <small><sub>**LXX:**</sub></small>
 And you shall be complying, for it is hope to you; and from anxiety and bewilderment peace shall appear to you. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt be secure, because there is hope; yea, thou shalt dig [about thee, and] thou shalt take thy rest in safety.
-<small><sub>**BSB:**</sub></small>
-You will be secure, because there is hope, and you will look around and lie down in safety.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.17|<< Job 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.19|Job 11:19 >>]]</td></tr></table>
 
 | Translation | Greek |

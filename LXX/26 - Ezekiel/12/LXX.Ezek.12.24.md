@@ -1,10 +1,7 @@
 **LXX Ezekiel 12:24** 
 <small><sub>**LXX:**</sub></small>
 For there will no longer be any false vision, nor one using oracles  for favor in \[the\] midst of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-For there shall be no more any vain vision nor flattering divination within the house of Israel.
-<small><sub>**BSB:**</sub></small>
-For there will be no more false visions or flattering divinations within the house of Israel,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.12.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.23|<< Ezekiel 12:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.25|Ezekiel 12:25 >>]]</td></tr></table>
 
 | Translation | Greek |

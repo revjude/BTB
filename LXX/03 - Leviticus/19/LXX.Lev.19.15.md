@@ -1,10 +1,7 @@
 **LXX Leviticus 19:15** 
 <small><sub>**LXX:**</sub></small>
 You shall not act unjustly in a judgment. You shall not take \[favor\] on \[the\] face of \[the\] poor, nor marvel \[before the\] face of a mighty one. With righteousness you shall judge  your neighbor. 
-<small><sub>**KJV:**</sub></small>
-Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: [but] in righteousness shalt thou judge thy neighbour.
-<small><sub>**BSB:**</sub></small>
-You must not pervert justice; you must not show partiality to the poor or favoritism to the rich; you are to judge your neighbor fairly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.14|<< Leviticus 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.16|Leviticus 19:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Leviticus 19:15** is...

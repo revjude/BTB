@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:5** 
 <small><sub>**LXX:**</sub></small>
 And it happened \[to\] one casting down the beam, that the iron implement fell off of the stick into the water. And he yelled, and said, O master. And it was hidden. 
-<small><sub>**KJV:**</sub></small>
-But as one was felling a beam, the axe head fell into the water: and he cried, and said, Alas, master! for it was borrowed.
-<small><sub>**BSB:**</sub></small>
-As one of them was cutting down a tree, the iron axe head fell into the water. “Oh, my master,” he cried out, “it was borrowed!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.4|<< 2 Kings 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.6|2 Kings 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

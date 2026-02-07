@@ -1,10 +1,7 @@
 **LXX Micah 6:3** 
 <small><sub>**LXX:**</sub></small>
 O my people, what did I to you, or how did I trouble you? Answer me! 
-<small><sub>**KJV:**</sub></small>
-O my people, what have I done unto thee? and wherein have I wearied thee? testify against me.
-<small><sub>**BSB:**</sub></small>
-‘My people, what have I done to you? Testify against Me how I have wearied you!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.2|<< Micah 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.4|Micah 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Leviticus 8:15** 
+**Leviticus 8:15**<big><big>[[Lev.8.14 The Priests’ Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he slew [it]; and Moses took the blood, and put [it] upon the horns of the altar round about with his finger, and purified the altar, and poured the blood at the bottom of the altar, and sanctified it, to make reconciliation upon it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses slaughtered the bull, took some of the blood, and applied it with his fing
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.14|<< Leviticus 8:14]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.16|Leviticus 8:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he cut [the] throat of [it]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7819A\|יִּשְׁחָ֗ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Chat<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

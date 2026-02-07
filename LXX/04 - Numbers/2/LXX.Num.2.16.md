@@ -1,10 +1,7 @@
 **LXX Numbers 2:16** 
 <small><sub>**LXX:**</sub></small>
 All the ones being numbered of the camp of Reuben \[were\] a hundred and fifty and one thousand and four hundred and fifty, with their force. And they shall lift away second. 
-<small><sub>**KJV:**</sub></small>
-All that were numbered in the camp of Reuben [were] an hundred thousand and fifty and one thousand and four hundred and fifty, throughout their armies. And they shall set forth in the second rank.
-<small><sub>**BSB:**</sub></small>
-The total number of men in the divisions of the camp of Reuben is 151,450; they shall set out second.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.15|<< Numbers 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.17|Numbers 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

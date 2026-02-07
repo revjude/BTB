@@ -1,4 +1,4 @@
-**Genesis 41:19** 
+**Genesis 41:19**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, seven other kine came up after them, poor and very ill favoured and leanfleshed, such as I never saw in all the land of Egypt for badness:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After them, seven other cows—sickly, ugly, and thin—came up. I have never se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.18|<< Genesis 41:18]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.20|Genesis 41:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֞ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seven  |**<big>&#8207;[[H7651\|שֶֽׁבַע]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.va'-<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

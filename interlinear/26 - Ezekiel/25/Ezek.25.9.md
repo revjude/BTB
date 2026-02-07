@@ -1,4 +1,4 @@
-**Ezekiel 25:9** 
+**Ezekiel 25:9**<big><big>[[Ezek.25.8 A Prophecy against Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, behold, I will open the side of Moab from the cities, from his cities [which are] on his frontiers, the glory of the country, Bethjeshimoth, Baalmeon, and Kiriathaim,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ therefore I will indeed expose the flank of Moab beginning with its frontier cit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.25.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.25.8|<< Ezekiel 25:8]]</td><td align="center" style="border:none;">[[Ezek.25|Ezekiel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.25.10|Ezekiel 25:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵן֩]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֨י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 54:8** 
+**Isaiah 54:8**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In a little wrath I hid my face from thee for a moment; but with everlasting kindness will I have mercy on thee, saith the LORD thy Redeemer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In a surge of anger I hid My face from you for a moment, but with everlasting ki
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.7|<< Isaiah 54:7]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.9|Isaiah 54:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in a flood of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8241\|שֶׁ֣צֶף]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> She.tzef<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wrath  |**<big>&#8207;[[H7110A\|קֶ֗צֶף]]&#8207; </big>**| Ke.tzef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

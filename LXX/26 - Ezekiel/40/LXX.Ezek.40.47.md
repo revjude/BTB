@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:47** 
 <small><sub>**LXX:**</sub></small>
 And he measured the courtyard length -- a hundred cubits, and \[the\] breadth a hundred cubits upon  its four parts; and the altar before the house. 
-<small><sub>**KJV:**</sub></small>
-So he measured the court, an hundred cubits long, and an hundred cubits broad, foursquare; and the altar [that was] before the house.
-<small><sub>**BSB:**</sub></small>
-Next he measured the court. It was square, a hundred cubits long and a hundred cubits wide. And the altar was in front of the temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.46|<< Ezekiel 40:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.48|Ezekiel 40:48 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 40:47** is...

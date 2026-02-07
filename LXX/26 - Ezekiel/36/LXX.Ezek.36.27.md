@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:27** 
 <small><sub>**LXX:**</sub></small>
 And  I will put my spirit in you, and I shall make it that you shall go by my ordinances, and  you shall keep my judgments, and you shall observe them. 
-<small><sub>**KJV:**</sub></small>
-And I will put my spirit within you, and cause you to walk in my statutes, and ye shall keep my judgments, and do [them].
-<small><sub>**BSB:**</sub></small>
-And I will put My Spirit within you and cause you to walk in My statutes and to carefully observe My ordinances.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.26|<< Ezekiel 36:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.28|Ezekiel 36:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 36:27** is...

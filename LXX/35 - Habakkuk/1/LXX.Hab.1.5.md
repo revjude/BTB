@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Behold, O despisers, and look! and wonder wonders, and vanish! For I work a work in  your days which in no way you shall believe if any should tell \[of it\] in detail. 
-<small><sub>**KJV:**</sub></small>
-Behold ye among the heathen, and regard, and wonder marvellously: for [I] will work a work in your days, [which] ye will not believe, though it be told [you].
-<small><sub>**BSB:**</sub></small>
-“Look at the nations and observe—be utterly astounded! For I am doing a work in your days that you would never believe even if someone told you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.4|<< Habakkuk 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.6|Habakkuk 1:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Habakkuk 1:5** is...

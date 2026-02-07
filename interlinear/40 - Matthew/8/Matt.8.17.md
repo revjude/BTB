@@ -1,5 +1,5 @@
-**Matthew 8:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:17**<big><big>[[Matt.8.14 Jesus Heals at Peter’s House|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare [our] sicknesses.
 <small><sub>**BSB:**</sub></small>
 This was to fulfill what was spoken through the prophet Isaiah: “He took up our infirmities and carried our diseases.”
@@ -10,7 +10,7 @@ so that it may be fulfilled that having been spoken through Isaiah the prophet s
 > $\quad$ referencing: [[LXX.Isa.53.4|Isa 53:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G3704\|ὅπως]]</big>**  |hopōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it may be fulfilled |**<big>[[G4137\|πληρωθῇ]]</big>**  |plērōthēa <small><sup>[[V-APS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

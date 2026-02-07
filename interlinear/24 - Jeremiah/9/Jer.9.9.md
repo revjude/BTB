@@ -1,4 +1,4 @@
-**Jeremiah 9:9** (9:8)
+**Jeremiah 9:9**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall I not visit them for these [things]? saith the LORD: shall not my soul be avenged on such a nation as this?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Should I not punish them for these things? declares the LORD. Should I not aveng
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.8|<< Jeremiah 9:8]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.10|Jeremiah 9:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ on  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these [things]  |**<big>&#8207;[[H0428\|אֵ֥לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

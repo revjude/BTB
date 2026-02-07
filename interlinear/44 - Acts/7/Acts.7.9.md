@@ -1,5 +1,5 @@
-**Acts 7:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:9**<big><big>[[Acts.7.9 Joseph Sold into Egypt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,
 <small><sub>**BSB:**</sub></small>
 Because the patriarchs were jealous of Joseph, they sold him as a slave into Egypt. But God was with him
@@ -10,7 +10,7 @@ And the patriarchs having envied <the> Joseph sold [him] into Egypt; But was <th
 > $\quad$ alluding to: [[LXX.Gen.37.4|Gen 37:4]] ☩ [[LXX.Gen.37.11|Gen 37:11]] ☩ [[LXX.Gen.37.28|Gen 37:28]] ☩ [[LXX.Gen.39.1|Gen 39:1-2]] ☩ [[LXX.Gen.39.21|Gen 39:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And as Moses went down from  mount Sinai, even the two tablets \[were\] upon the hands of Moses. And in his going down from the mountain, even Moses did not know that the appearance of the complexion of his face was glorified in  his speaking to him. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses’ hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him.
-<small><sub>**BSB:**</sub></small>
-And when Moses came down from Mount Sinai with the two tablets of the Testimony in his hands, he was unaware that his face had become radiant from speaking with the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.28|<< Exodus 34:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.30|Exodus 34:30 >>]]</td></tr></table>
 
 | Translation | Greek |

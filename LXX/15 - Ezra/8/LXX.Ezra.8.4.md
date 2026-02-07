@@ -1,10 +1,7 @@
 **LXX Ezra 8:4** 
 <small><sub>**LXX:**</sub></small>
 Of \[the\] sons Pahath-moab -- Elihoenai son of Zerahiah, and with him two hundred  males. 
-<small><sub>**KJV:**</sub></small>
-Of the sons of Pahathmoab; Elihoenai the son of Zerahiah, and with him two hundred males.
-<small><sub>**BSB:**</sub></small>
-from the descendants of Pahath-Moab, Eliehoenai son of Zerahiah, and with him 200 men;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.3|<< Ezra 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.5|Ezra 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

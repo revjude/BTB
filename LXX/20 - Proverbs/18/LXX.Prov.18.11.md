@@ -1,10 +1,7 @@
 **LXX Proverbs 18:11** 
 <small><sub>**LXX:**</sub></small>
 \[The\] substance of a rich man is a fortified city;  and its glory overshadows greatly. 
-<small><sub>**KJV:**</sub></small>
-The rich man’s wealth [is] his strong city, and as an high wall in his own conceit.
-<small><sub>**BSB:**</sub></small>
-A rich man’s wealth is his fortified city; it is like a high wall in his imagination.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.10|<< Proverbs 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.12|Proverbs 18:12 >>]]</td></tr></table>
 
 | Translation | Greek |

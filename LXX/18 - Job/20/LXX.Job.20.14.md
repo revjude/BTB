@@ -1,10 +1,7 @@
 **LXX Job 20:14** 
 <small><sub>**LXX:**</sub></small>
 Yet in no way shall he be able to help himself; \[the\] bile of an asp is in his belly. 
-<small><sub>**KJV:**</sub></small>
-[Yet] his meat in his bowels is turned, [it is] the gall of asps within him.
-<small><sub>**BSB:**</sub></small>
-yet in his stomach his food sours into the venom of cobras within him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.13|<< Job 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.15|Job 20:15 >>]]</td></tr></table>
 
 | Translation | Greek |

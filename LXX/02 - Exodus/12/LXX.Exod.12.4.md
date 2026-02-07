@@ -1,10 +1,7 @@
 **LXX Exodus 12:4** 
 <small><sub>**LXX:**</sub></small>
 But if there should be very few in the house, so as for there not to be enough for \[the\] sheep, he shall include with himself the neighbor,  neighboring him, according to \[the\] number of souls, each  sufficient for him to be counted for \[the\] sheep. 
-<small><sub>**KJV:**</sub></small>
-And if the household be too little for the lamb, let him and his neighbour next unto his house take [it] according to the number of the souls; every man according to his eating shall make your count for the lamb.
-<small><sub>**BSB:**</sub></small>
-If the household is too small for a whole lamb, they are to share with the nearest neighbor based on the number of people, and apportion the lamb accordingly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.3|<< Exodus 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.5|Exodus 12:5 >>]]</td></tr></table>
 
 | Translation | Greek |

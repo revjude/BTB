@@ -1,12 +1,12 @@
-**1 Timothy 6:11
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:11**<big><big>[[1Tim.6.11 Fight the Good Fight|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.
 <small><sub>**BSB:**</sub></small>
 But you, O man of God, flee from these things and pursue righteousness, godliness, faith, love, perseverance, and gentleness.
 <small><sub>**Literal:**</sub></small>
 You yourself however, O man <the> of God, these things do flee, do pursue now righteousness, godliness, faith, love, endurance, [and] gentleness;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.10|<< 1 Timothy 6:10]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.12|1 Timothy 6:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourself |**<big>[[G4771\|Σὺ]]</big>**  |Su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however, |**<big>[[G1161\|δέ,]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

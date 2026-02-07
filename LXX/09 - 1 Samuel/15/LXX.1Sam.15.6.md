@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:6** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to the Kenite, You go forth, and turn away from \[the\] midst  of Amalek! lest I add you with him, for you executed mercy with the sons of Israel in  their ascending from out of Egypt. And the Kenite turned away from \[the\] midst of Amalek. 
-<small><sub>**KJV:**</sub></small>
-And Saul said unto the Kenites, Go, depart, get you down from among the Amalekites, lest I destroy you with them: for ye shewed kindness to all the children of Israel, when they came up out of Egypt. So the Kenites departed from among the Amalekites.
-<small><sub>**BSB:**</sub></small>
-And he warned the Kenites, “Since you showed kindness to all the Israelites when they came up out of Egypt, go on and get away from the Amalekites. Otherwise I will sweep you away with them.” So the Kenites moved away from the Amalekites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.5|<< 1 Samuel 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.7|1 Samuel 15:7 >>]]</td></tr></table>
 
 | Translation | Greek |

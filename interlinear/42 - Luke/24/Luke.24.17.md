@@ -1,12 +1,12 @@
-**Luke 24:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:17**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, What manner of communications [are] these that ye have one to another, as ye walk, and are sad?
 <small><sub>**BSB:**</sub></small>
 He asked them, “What are you discussing so intently as you walk along?” They stood still, with sadness on their faces.
 <small><sub>**Literal:**</sub></small>
 He said then to them; What <the> words [are] these that you exchange with one another walking? And they stood still looking sad.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.16|<< Luke 24:16]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.18|Luke 24:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

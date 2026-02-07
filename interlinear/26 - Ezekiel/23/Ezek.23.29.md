@@ -1,4 +1,4 @@
-**Ezekiel 23:29** 
+**Ezekiel 23:29**<big><big>[[Ezek.23.22 Oholibah to Be Plagued|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall deal with thee hatefully, and shall take away all thy labour, and shall leave thee naked and bare: and the nakedness of thy whoredoms shall be discovered, both thy lewdness and thy whoredoms.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will treat you with hatred, take all for which you have worked, and leave y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.28|<< Ezekiel 23:28]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.30|Ezekiel 23:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will deal with  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשׂ֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Su<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with you  |**<big>&#8207;[[H0854\|אוֹתָ֜]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'o.Ta<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

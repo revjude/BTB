@@ -1,4 +1,4 @@
-**2 Chronicles 35:15** 
+**2 Chronicles 35:15**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the singers the sons of Asaph [were] in their place, according to the commandment of David, and Asaph, and Heman, and Jeduthun the king’s seer; and the porters [waited] at every gate; they might not depart from their service; for their brethren the Levites prepared for them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The singers, the descendants of Asaph, were at their stations according to the c
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.14|<< 2 Chronicles 35:14]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.16|2 Chronicles 35:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the singers  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7891\|מְשֹֽׁרֲרִ֨ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> m.sho.ra.Rim<small><sup>[[HVprmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

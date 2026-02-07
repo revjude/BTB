@@ -1,4 +1,4 @@
-**1 Samuel 1:6** 
+**1 Samuel 1:6**<big><big>[[1Sam.1.1 Elkanah and His Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And her adversary also provoked her sore, for to make her fret, because the LORD had shut up her womb.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because the LORD had closed Hannah’s womb, her rival would provoke her vicious
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.5|<< 1 Samuel 1:5]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.7|1 Samuel 1:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she provoked her  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3707\|כִֽעֲסַ֤תָּ]]&#8207;&#8207;[[H9034\|ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khi.'a.Sa.ta<small><sup>[[HVpq3fs]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rival her  |**<big>&#8207;[[H6869C\|צָֽרָתָ]]&#8207;&#8207;[[H9024\|הּ֙]]&#8207; </big>**| tza.ra.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

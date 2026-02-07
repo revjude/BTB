@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
  But Mordecai realizing the end, tore  his garments, and put on sackcloth, and strewed ashes; and rushing through the square of the city, he yelled with a great voice, A nation having wronged no one \[is going\] to be taken away. 
-<small><sub>**KJV:**</sub></small>
-When Mordecai perceived all that was done, Mordecai rent his clothes, and put on sackcloth with ashes, and went out into the midst of the city, and cried with a loud and a bitter cry;
-<small><sub>**BSB:**</sub></small>
-When Mordecai learned of all that had happened, he tore his clothes, put on sackcloth and ashes, and went out into the middle of the city, wailing loudly and bitterly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.15|<< Esther 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.2|Esther 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

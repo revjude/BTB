@@ -1,12 +1,12 @@
-**Revelation 8:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 8:10**<big><big>[[Rev.8.6 The First Four Trumpets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters;
 <small><sub>**BSB:**</sub></small>
 Then the third angel sounded his trumpet, and a great star burning like a torch fell from heaven and landed on a third of the rivers and on the springs of water.
 <small><sub>**Literal:**</sub></small>
 And the third angel sounded [his] trumpet, and fell out of <the> heaven a star great burning like a torch And it fell upon <the> a third of the rivers and upon the springs <the> of waters.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.9|<< Revelation 8:9]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.11|Revelation 8:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

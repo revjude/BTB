@@ -1,10 +1,7 @@
 **LXX Joshua 24:5** 
 <small><sub>**LXX:**</sub></small>
 And I sent Moses and Aaron, and he struck  Egypt with the things which he did among them. 
-<small><sub>**KJV:**</sub></small>
-I sent Moses also and Aaron, and I plagued Egypt, according to that which I did among them: and afterward I brought you out.
-<small><sub>**BSB:**</sub></small>
-Then I sent Moses and Aaron, and I afflicted the Egyptians by what I did there, and afterward I brought you out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.4|<< Joshua 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.6|Joshua 24:6 >>]]</td></tr></table>
 
 | Translation | Greek |

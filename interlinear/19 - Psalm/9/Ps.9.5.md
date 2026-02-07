@@ -1,4 +1,4 @@
-**Psalms 9:5** (9:6)
+**Psalms 9:5**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have rebuked the nations; You have destroyed the wicked; You have erased the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.4|<< Psalms 9:4]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.6|Psalms 9:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have rebuked  |**<big>&#8207;[[H1605\|גָּעַ֣רְתָּ]]&#8207; </big>**| ga.'Ar.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nations  |**<big>&#8207;[[H1471A\|ג֭וֹיִם]]&#8207; </big>**| Go.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

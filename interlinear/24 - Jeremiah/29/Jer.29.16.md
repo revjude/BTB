@@ -1,4 +1,4 @@
-**Jeremiah 29:16** 
+**Jeremiah 29:16**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Know] that thus saith the LORD of the king that sitteth upon the throne of David, and of all the people that dwelleth in this city, [and] of your brethren that are not gone forth with you into captivity;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ this is what the LORD says about the king who sits on David’s throne and all t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.15|<< Jeremiah 29:15]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.17|Jeremiah 29:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| khoh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

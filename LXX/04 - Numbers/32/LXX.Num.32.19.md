@@ -1,10 +1,7 @@
 **LXX Numbers 32:19** 
 <small><sub>**LXX:**</sub></small>
 And no longer shall we be heir with them from the other side of the Jordan, and beyond; because we receive  our lots on the other side of the Jordan  eastwards. 
-<small><sub>**KJV:**</sub></small>
-For we will not inherit with them on yonder side Jordan, or forward; because our inheritance is fallen to us on this side Jordan eastward.
-<small><sub>**BSB:**</sub></small>
-Yet we will not have an inheritance with them across the Jordan and beyond, because our inheritance has come to us on the east side of the Jordan.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.18|<< Numbers 32:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.20|Numbers 32:20 >>]]</td></tr></table>
 
 | Translation | Greek |

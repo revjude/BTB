@@ -1,10 +1,7 @@
 **LXX Hosea 9:14** 
 <small><sub>**LXX:**</sub></small>
 Give to them, O <span class="smallcaps">lord</span>! What will you give to them? Give to them a womb being childless and dry breasts! 
-<small><sub>**KJV:**</sub></small>
-Give them, O LORD: what wilt thou give? give them a miscarrying womb and dry breasts.
-<small><sub>**BSB:**</sub></small>
-Give them, O LORD—what will You give? Give them wombs that miscarry and breasts that dry up!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.13|<< Hosea 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.15|Hosea 9:15 >>]]</td></tr></table>
 
 | Translation | Greek |

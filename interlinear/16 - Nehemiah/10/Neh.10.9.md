@@ -1,4 +1,4 @@
-**Nehemiah 10:9** (10:10)
+**Nehemiah 10:9**<big><big>[[Neh.10.1 Signers of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Levites: both Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Levites: Jeshua son of Azaniah, Binnui of the sons of Henadad, Kadmiel,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.8|<< Nehemiah 10:8]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.10|Nehemiah 10:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the Levites  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֑ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Jeshua  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3442J\|יֵשׁ֙וּעַ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ye.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

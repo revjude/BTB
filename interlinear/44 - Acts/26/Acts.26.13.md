@@ -1,12 +1,12 @@
-**Acts 26:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:13**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me.
 <small><sub>**BSB:**</sub></small>
 About noon, O king, as I was on the road, I saw a light from heaven, brighter than the sun, shining around me and my companions.
 <small><sub>**Literal:**</sub></small>
 At day mid on the road I saw, O king, from heaven above the brightness of the sun having shone around me a light and those with me myself journeying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.12|<< Acts 26:12]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.14|Acts 26:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | At day |**<big>[[G2250\|ἡμέρας]]</big>**  |hēmeras <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | mid |**<big>[[G3319\|μέσης]]</big>**  |mesēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

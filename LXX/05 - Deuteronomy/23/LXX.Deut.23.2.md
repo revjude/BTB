@@ -1,10 +1,7 @@
 **LXX Deuteronomy 23:2** 
 <small><sub>**LXX:**</sub></small>
 \[One born\] of a harlot shall not enter into \[the\] assembly of \[the\] <span class="smallcaps">lord</span> unto \[the\] tenth generation. 
-<small><sub>**KJV:**</sub></small>
-A bastard shall not enter into the congregation of the LORD; even to his tenth generation shall he not enter into the congregation of the LORD.
-<small><sub>**BSB:**</sub></small>
-No one of illegitimate birth may enter the assembly of the LORD, nor may any of his descendants, even to the tenth generation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.23.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.1|<< Deuteronomy 23:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.3|Deuteronomy 23:3 >>]]</td></tr></table>
 
 | Translation | Greek |

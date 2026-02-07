@@ -1,4 +1,4 @@
-**Daniel 2:43** 
+**Daniel 2:43**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As you saw the iron mixed with clay, so the peoples will mix with one another bu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.42|<< Daniel 2:42]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.44|Daniel 2:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and that  [^2]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1768\|דִ֣י]]&#8207; </big>**[^3] | ve.<small><sup>[[AC]]</sup></small> di<small><sup>[[AC]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | you saw  |**<big>&#8207;[[H2370\|חֲזַ֗יְתָ]]&#8207; </big>**| cha.Zay.ta<small><sup>[[AVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Hosea 2:3** 
 <small><sub>**LXX:**</sub></small>
 so that I shall strip her naked, and restore her as \[the\] day of her birth; and I will set her as desolate, and I will arrange her as a waterless land, and I will kill her by thirst. 
-<small><sub>**KJV:**</sub></small>
-Lest I strip her naked, and set her as in the day that she was born, and make her as a wilderness, and set her like a dry land, and slay her with thirst.
-<small><sub>**BSB:**</sub></small>
-Otherwise, I will strip her naked and expose her like the day of her birth. I will make her like a desert and turn her into a parched land, and I will let her die of thirst.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.2|<< Hosea 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.4|Hosea 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

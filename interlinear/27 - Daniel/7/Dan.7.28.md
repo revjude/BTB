@@ -1,4 +1,4 @@
-**Daniel 7:28** 
+**Daniel 7:28**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hitherto [is] the end of the matter. As for me Daniel, my cogitations much troubled me, and my countenance changed in me: but I kept the matter in my heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus ends the matter. As for me, Daniel, my thoughts troubled me greatly, and my
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.27|<< Daniel 7:27]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.1|Daniel 8:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to  |**<big>&#8207;[[H5705\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here  |**<big>&#8207;[[H3542\|כָּ֖ה]]&#8207; </big>**| kah<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

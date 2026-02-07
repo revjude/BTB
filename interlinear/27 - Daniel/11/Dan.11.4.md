@@ -1,4 +1,4 @@
-**Daniel 11:4** 
+**Daniel 11:4**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven; and not to his posterity, nor according to his dominion which he ruled: for his kingdom shall be plucked up, even for others beside those.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But as soon as he is established, his kingdom will be broken up and parceled out
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.3|<< Daniel 11:3]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.5|Daniel 11:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and just as arises he  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H5975I\|עָמְד]]&#8207;&#8207;[[H9043\|וֹ֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> 'a.me.D<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be broken up  |**<big>&#8207;[[H7665\|תִּשָּׁבֵ֣ר]]&#8207; </big>**| ti.sha.Ver<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

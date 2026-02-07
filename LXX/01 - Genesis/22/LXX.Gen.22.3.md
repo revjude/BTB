@@ -1,10 +1,7 @@
 **LXX Genesis 22:3** 
 <small><sub>**LXX:**</sub></small>
 And Abraham rising up in the morning, saddled  his donkey, and he took with himself two servants, and Isaac  his son. And splitting wood for a whole offering, and rising up to go, they came upon the place which God spoke to him,  on the third day. 
-<small><sub>**KJV:**</sub></small>
-And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him.
-<small><sub>**BSB:**</sub></small>
-So Abraham got up early the next morning, saddled his donkey, and took along two of his servants and his son Isaac. He split the wood for a burnt offering and set out for the place God had designated.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.2|<< Genesis 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.4|Genesis 22:4 >>]]</td></tr></table>
 
 | Translation | Greek |

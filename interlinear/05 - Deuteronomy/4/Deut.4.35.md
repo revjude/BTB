@@ -1,4 +1,4 @@
-**Deuteronomy 4:35** 
+**Deuteronomy 4:35**<big><big>[[Deut.4.32 The LORD Alone Is God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto thee it was shewed, that thou mightest know that the LORD he [is] God; [there is] none else beside him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You were shown these things so that you would know that the LORD is God; there i
 > $\quad$ referenced by: [[Mark.12.32|Mark 12:32]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּה֙]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you were shown  |**<big>&#8207;[[H7200G\|הָרְאֵ֣תָ]]&#8207; </big>**| ha.re.'E.ta<small><sup>[[HVHp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

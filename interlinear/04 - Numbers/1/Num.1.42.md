@@ -1,4 +1,4 @@
-**Numbers 1:42** 
+**Numbers 1:42**<big><big>[[Num.1.17 The Number of Every Tribe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the sons of Naphtali, according to the records of their clans and families,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.41|<< Numbers 1:41]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.43|Numbers 1:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Naphtali  |**<big>&#8207;[[H5321G\|נַפְתָּלִ֔י]]&#8207; </big>**| naf.ta.Li<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

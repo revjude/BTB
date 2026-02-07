@@ -1,4 +1,4 @@
-**Genesis 42:30** 
+**Genesis 42:30**<big><big>[[Gen.42.25 Joseph’s Brothers Return to Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The man, [who is] the lord of the land, spake roughly to us, and took us for spies of the country.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The man, [who is] the lord of the land, spake roughly to us, and took us for spi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.29|<< Genesis 42:29]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.31|Genesis 42:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he spoke  |**<big>&#8207;[[H1696G\|דִּ֠בֶּר]]&#8207; </big>**| Di.ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the man  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִ֨ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

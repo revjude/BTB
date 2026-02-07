@@ -1,4 +1,4 @@
-**Numbers 28:26** 
+**Numbers 28:26**<big><big>[[Num.28.26 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also in the day of the firstfruits, when ye bring a new meat offering unto the LORD, after your weeks [be out], ye shall have an holy convocation; ye shall do no servile work:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the day of firstfruits, when you present an offering of new grain to the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.25|<< Numbers 28:25]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.27|Numbers 28:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on [the] day of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the first-fruits  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1061\|בִּכּוּרִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> bi.ku.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

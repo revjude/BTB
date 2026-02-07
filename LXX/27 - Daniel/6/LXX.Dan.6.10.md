@@ -1,10 +1,7 @@
 **LXX Daniel 6:10** 
 <small><sub>**LXX:**</sub></small>
 And when Daniel knew that the decree was arranged, he went into  his house, and the windows were open to him in  his upper rooms before Jerusalem. And three times of the day he was bending upon  his knees, and praying, and making acknowledgment before  his God, as he was doing before. 
-<small><sub>**KJV:**</sub></small>
-Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.
-<small><sub>**BSB:**</sub></small>
-Now when Daniel learned that the document had been signed, he went into his house, where the windows of his upper room opened toward Jerusalem, and three times a day he got down on his knees, prayed, and gave thanks to his God, just as he had done before.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.9|<< Daniel 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.11|Daniel 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

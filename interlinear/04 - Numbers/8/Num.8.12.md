@@ -1,4 +1,4 @@
-**Numbers 8:12** 
+**Numbers 8:12**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one [for] a sin offering, and the other [for] a burnt offering, unto the LORD, to make an atonement for the Levites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the Levites are to lay their hands on the heads of the bulls, and offer to t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.11|<< Numbers 8:11]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.13|Numbers 8:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the Levites  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will lay  |**<big>&#8207;[[H5564\|יִסְמְכ֣וּ]]&#8207; </big>**| yis.me.Khu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

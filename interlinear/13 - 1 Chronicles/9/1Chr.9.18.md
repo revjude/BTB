@@ -1,4 +1,4 @@
-**1 Chronicles 9:18** 
+**1 Chronicles 9:18**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hitherto [waited] in the king’s gate eastward: they [were] porters in the companies of the children of Levi.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ he was previously stationed at the King’s Gate on the east side. These were th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.17|<< 1 Chronicles 9:17]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.19|1 Chronicles 9:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and until  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | now  |**<big>&#8207;[[H2008\|הֵ֔נָּה]]&#8207; </big>**| He.nah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

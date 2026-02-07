@@ -1,10 +1,7 @@
 **LXX Ezra 10:10** 
 <small><sub>**LXX:**</sub></small>
 And Ezra the priest rose up, and said to them, You have broken the contract, and settled \[with\] alien wives,  to add to \[the\] trespass of Israel. 
-<small><sub>**KJV:**</sub></small>
-And Ezra the priest stood up, and said unto them, Ye have transgressed, and have taken strange wives, to increase the trespass of Israel.
-<small><sub>**BSB:**</sub></small>
-Then Ezra the priest stood up and said to them, “You have been unfaithful by marrying foreign women, adding to the guilt of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.9|<< Ezra 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.11|Ezra 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

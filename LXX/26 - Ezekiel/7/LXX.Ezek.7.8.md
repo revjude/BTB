@@ -1,10 +1,7 @@
 **LXX Ezekiel 7:8** 
 <small><sub>**LXX:**</sub></small>
 Now nearly I will pour out  my anger upon you, and I will complete  my rage against you, and I will judge you in  your ways, and I will impute against you all  your abominations. 
-<small><sub>**KJV:**</sub></small>
-Now will I shortly pour out my fury upon thee, and accomplish mine anger upon thee: and I will judge thee according to thy ways, and will recompense thee for all thine abominations.
-<small><sub>**BSB:**</sub></small>
-Very soon I will pour out My wrath upon you and vent My anger against you; I will judge you according to your ways and repay you for all your abominations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.7|<< Ezekiel 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.9|Ezekiel 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

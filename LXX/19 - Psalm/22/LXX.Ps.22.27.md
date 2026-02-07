@@ -1,10 +1,7 @@
 **LXX Psalm 22:27** 
 <small><sub>**LXX:**</sub></small>
 All \[the\] <span class="smallcaps">lord</span> \[the\] ones at \[the\] ends of the earth shall remember and shall turn to; and all the families of the nations shall do obeisance before him. 
-<small><sub>**KJV:**</sub></small>
-All the ends of the world shall remember and turn unto the LORD: and all the kindreds of the nations shall worship before thee.
-<small><sub>**BSB:**</sub></small>
-All the ends of the earth will remember and turn to the LORD. All the families of the nations will bow down before Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.26|<< Psalm 22:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.28|Psalm 22:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:27** is...

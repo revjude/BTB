@@ -1,4 +1,4 @@
-**1 Samuel 26:16** 
+**1 Samuel 26:16**<big><big>[[1Sam.26.13 David Reproves Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This thing [is] not good that thou hast done. [As] the LORD liveth, ye [are] worthy to die, because ye have not kept your master, the LORD’S anointed. And now see where the king’s spear [is], and the cruse of water that [was] at his bolster.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This thing you have done is not good. As surely as the LORD lives, all of you de
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.15|<< 1 Samuel 26:15]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.17|1 Samuel 26:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֞וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

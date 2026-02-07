@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:8** 
 <small><sub>**LXX:**</sub></small>
 And such cypresses in the paradise  of God, and the pines were not likened \[to\] his shoots; and fir trees were not likened \[to\] his branches; every tree in the paradise  of God was not likened to him in  his beauty. 
-<small><sub>**KJV:**</sub></small>
-The cedars in the garden of God could not hide him: the fir trees were not like his boughs, and the chesnut trees were not like his branches; nor any tree in the garden of God was like unto him in his beauty.
-<small><sub>**BSB:**</sub></small>
-The cedars in the garden of God could not rival it; the cypresses could not compare with its branches, nor the plane trees match its boughs. No tree in the garden of God could compare with its beauty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.7|<< Ezekiel 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.9|Ezekiel 31:9 >>]]</td></tr></table>
 
 | Translation | Greek |

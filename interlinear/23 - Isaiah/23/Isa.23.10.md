@@ -1,4 +1,4 @@
-**Isaiah 23:10** 
+**Isaiah 23:10**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pass through thy land as a river, O daughter of Tarshish: [there is] no more strength.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cultivate your land like the Nile, O Daughter of Tarshish; there is no longer a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.9|<< Isaiah 23:9]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.11|Isaiah 23:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pass over  |**<big>&#8207;[[H5674A\|עִבְרִ֥י]]&#8207; </big>**| 'iv.Ri<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | land your  |**<big>&#8207;[[H0776G\|אַרְצֵ֖]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| 'ar.Tze<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

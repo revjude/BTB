@@ -1,10 +1,7 @@
 **LXX Proverbs 23:12** 
 <small><sub>**LXX:**</sub></small>
 Give your heart for instruction!  and prepare your ears \[for\] words of good sense! 
-<small><sub>**KJV:**</sub></small>
-Apply thine heart unto instruction, and thine ears to the words of knowledge.
-<small><sub>**BSB:**</sub></small>
-Apply your heart to instruction and your ears to words of knowledge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.11|<< Proverbs 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.13|Proverbs 23:13 >>]]</td></tr></table>
 
 | Translation | Greek |

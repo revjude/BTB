@@ -1,5 +1,5 @@
-**Matthew 19:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:19**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Honour thy father and [thy] mother: and, Thou shalt love thy neighbour as thyself.
 <small><sub>**BSB:**</sub></small>
 honor your father and mother, and love your neighbor as yourself.’”
@@ -11,7 +11,7 @@ do honor the father of you and the mother, and you will love the neighbour of yo
 > $\quad$ alluding to: [[LXX.Deut.5.16|Deut 5:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do honor |**<big>[[G5091\|τίμα]]</big>**  |tima <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

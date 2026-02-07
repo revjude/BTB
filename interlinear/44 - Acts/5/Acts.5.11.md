@@ -1,12 +1,12 @@
-**Acts 5:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:11**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And great fear came upon all the church, and upon as many as heard these things.
 <small><sub>**BSB:**</sub></small>
 And great fear came over the whole church and all who heard about these events.
 <small><sub>**Literal:**</sub></small>
 And came fear great upon all the church and upon all those hearing these things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.10|<< Acts 5:10]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.12|Acts 5:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | came |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

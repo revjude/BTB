@@ -1,10 +1,7 @@
 **LXX Isaiah 65:23** 
 <small><sub>**LXX:**</sub></small>
  And my chosen shall not tire in empty \[things\], nor shall they produce children for a curse; for it is a seed being blessed by God, and  their progeny with them. 
-<small><sub>**KJV:**</sub></small>
-They shall not labour in vain, nor bring forth for trouble; for they [are] the seed of the blessed of the LORD, and their offspring with them.
-<small><sub>**BSB:**</sub></small>
-They will not labor in vain or bear children doomed to disaster; for they will be a people blessed by the LORD—they and their descendants with them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.22|<< Isaiah 65:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.24|Isaiah 65:24 >>]]</td></tr></table>
 
 | Translation | Greek |

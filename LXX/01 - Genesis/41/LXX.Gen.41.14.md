@@ -1,10 +1,7 @@
 **LXX Genesis 41:14** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh having sent, called  for Joseph. And they led him from the fortress, and shaved him, and changed  his apparel, and he came to Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon: and he shaved [himself], and changed his raiment, and came in unto Pharaoh.
-<small><sub>**BSB:**</sub></small>
-So Pharaoh sent for Joseph, who was quickly brought out of the dungeon. After he had shaved and changed his clothes, he went in before Pharaoh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.13|<< Genesis 41:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.15|Genesis 41:15 >>]]</td></tr></table>
 
 | Translation | Greek |

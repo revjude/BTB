@@ -1,4 +1,4 @@
-**Psalms 105:20** 
+**Psalms 105:20**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king sent and loosed him; [even] the ruler of the people, and let him go free.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king sent and released him; the ruler of peoples set him free.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.19|<< Psalms 105:19]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.21|Psalms 105:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he sent  |**<big>&#8207;[[H7971G\|שָׁ֣לַח]]&#8207; </big>**| Sha.lach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a king  |**<big>&#8207;[[H4428G\|מֶ֭לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

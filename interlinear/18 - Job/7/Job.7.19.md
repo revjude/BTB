@@ -1,4 +1,4 @@
-**Job 7:19** 
+**Job 7:19**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will You never look away from me, or leave me alone to swallow my spittle?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.18|<< Job 7:18]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.20|Job 7:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how long?  |**<big>&#8207;[[H9004\|כַּ֭]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| Ka.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Revelation 19:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:4**<big><big>[[Rev.19.1 Rejoicing in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the four and twenty elders and the four beasts fell down and worshipped God that sat on the throne, saying, Amen; Alleluia.
 <small><sub>**BSB:**</sub></small>
 And the twenty-four elders and the four living creatures fell down and worshiped God who sits on the throne, saying: “Amen, Hallelujah!”
 <small><sub>**Literal:**</sub></small>
 And fell down the elders <the> twenty and four and the four living creatures, and they worshiped <the> God who is sitting on the throne saying: Amen Hallelujah!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.3|<< Revelation 19:3]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.5|Revelation 19:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | fell down |**<big>[[G4098\|ἔπεσαν]]</big>**  |epesan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

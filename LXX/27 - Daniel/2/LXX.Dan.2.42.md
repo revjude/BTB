@@ -1,10 +1,7 @@
 **LXX Daniel 2:42** 
 <small><sub>**LXX:**</sub></small>
 And the toes of the feet, part somewhat of iron and part somewhat earthenware, part of the kingdom will be somewhat strong, and \[some\] from it will be broken. 
-<small><sub>**KJV:**</sub></small>
-And [as] the toes of the feet [were] part of iron, and part of clay, [so] the kingdom shall be partly strong, and partly broken.
-<small><sub>**BSB:**</sub></small>
-And as the toes of the feet were partly iron and partly clay, so this kingdom will be partly strong and partly brittle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.41|<< Daniel 2:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.43|Daniel 2:43 >>]]</td></tr></table>
 
 | Translation | Greek |

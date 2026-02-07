@@ -1,5 +1,5 @@
-**Mark 12:19
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:19**<big><big>[[Mark.12.18 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Master, Moses wrote unto us, If a man’s brother die, and leave [his] wife [behind him], and leave no children, that his brother should take his wife, and raise up seed unto his brother.
 <small><sub>**BSB:**</sub></small>
 “Teacher, Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man is to marry his brother’s widow and raise up offspring for him.
@@ -11,7 +11,7 @@ Teacher, Moses wrote for us that if of anyone a brother shall die and he may lea
 > $\quad$ alluding to: [[LXX.Deut.25.5|Deut 25:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Teacher, |**<big>[[G1320\|διδάσκαλε,]]</big>**  |didaskale <small><sup>[[N-VSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Moses |**<big>[[G3475\|Μωϋσῆς]]</big>**  [^1] |Mōusēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 13:4** 
 <small><sub>**LXX:**</sub></small>
 A voice of many nations upon the mountains, like many nations; a voice of kings and nations being brought together. \[The\] <span class="smallcaps">lord</span> of Hosts has given charge to a nation of armed warriors. 
-<small><sub>**KJV:**</sub></small>
-The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the LORD of hosts mustereth the host of the battle.
-<small><sub>**BSB:**</sub></small>
-Listen, a tumult on the mountains, like that of a great multitude! Listen, an uproar among the kingdoms, like nations gathered together! The LORD of Hosts is mobilizing an army for war.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.3|<< Isaiah 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.5|Isaiah 13:5 >>]]</td></tr></table>
 
 | Translation | Greek |

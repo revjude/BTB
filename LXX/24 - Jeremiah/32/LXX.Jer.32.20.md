@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:20** 
 <small><sub>**LXX:**</sub></small>
 \[The one\] who did signs and miracles in \[the\] land of Egypt unto  this day, and in Israel, and among the earth-born; and you made for yourself a name, as  this day. 
-<small><sub>**KJV:**</sub></small>
-Which hast set signs and wonders in the land of Egypt, [even] unto this day, and in Israel, and among [other] men; and hast made thee a name, as at this day;
-<small><sub>**BSB:**</sub></small>
-You performed signs and wonders in the land of Egypt, and You do so to this very day, both in Israel and among all mankind. And You have made a name for Yourself, as is the case to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.19|<< Jeremiah 32:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.21|Jeremiah 32:21 >>]]</td></tr></table>
 
 | Translation | Greek |

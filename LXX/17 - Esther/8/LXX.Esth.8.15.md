@@ -1,10 +1,7 @@
 **LXX Esther 8:15** 
 <small><sub>**LXX:**</sub></small>
  And Mordecai went forth robed in the royal apparel, and having a crown of gold, and a diadem of purple fine line. And the \[ones\] in Shushan beholding rejoiced. 
-<small><sub>**KJV:**</sub></small>
-And Mordecai went out from the presence of the king in royal apparel of blue and white, and with a great crown of gold, and with a garment of fine linen and purple: and the city of Shushan rejoiced and was glad.
-<small><sub>**BSB:**</sub></small>
-Mordecai went out from the presence of the king in royal garments of blue and white, with a large gold crown and a purple robe of fine linen. And the city of Susa shouted and rejoiced.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.14|<< Esther 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.16|Esther 8:16 >>]]</td></tr></table>
 
 | Translation | Greek |

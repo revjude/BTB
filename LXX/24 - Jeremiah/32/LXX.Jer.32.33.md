@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:33** 
 <small><sub>**LXX:**</sub></small>
 And they turned \[their\] back to me, and not their face. And I taught them at dawn, and they hearkened not to take instruction. 
-<small><sub>**KJV:**</sub></small>
-And they have turned unto me the back, and not the face: though I taught them, rising up early and teaching [them], yet they have not hearkened to receive instruction.
-<small><sub>**BSB:**</sub></small>
-They have turned their backs to Me and not their faces. Though I taught them again and again, they would not listen or respond to discipline.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.32|<< Jeremiah 32:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.34|Jeremiah 32:34 >>]]</td></tr></table>
 
 | Translation | Greek |

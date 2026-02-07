@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:14** 
 <small><sub>**LXX:**</sub></small>
 shall your heart stand, \[no\]. Shall your hands hold in the days in which I do unto you, \[no\]. I \[the\] <span class="smallcaps">lord</span> have spoken, and I will do \[it\]. 
-<small><sub>**KJV:**</sub></small>
-Can thine heart endure, or can thine hands be strong, in the days that I shall deal with thee? I the LORD have spoken [it], and will do [it].
-<small><sub>**BSB:**</sub></small>
-Will your courage endure or your hands be strong in the day I deal with you? I, the LORD, have spoken, and I will act.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.13|<< Ezekiel 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.15|Ezekiel 22:15 >>]]</td></tr></table>
 
 | Translation | Greek |

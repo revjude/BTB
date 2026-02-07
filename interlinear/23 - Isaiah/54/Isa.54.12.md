@@ -1,4 +1,4 @@
-**Isaiah 54:12** 
+**Isaiah 54:12**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make thy windows of agates, and thy gates of carbuncles, and all thy borders of pleasant stones.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will make your pinnacles of rubies, your gates of sparkling jewels, and all yo
 > $\quad$ referenced by: [[Rev.21.19|Rev 21:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760A\|שַׂמְתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ruby  |**<big>&#8207;[[H3539\|כַּֽדְכֹד֙]]&#8207; </big>**| kad.Khod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

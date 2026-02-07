@@ -1,4 +1,4 @@
-**Hosea 11:4** 
+**Hosea 11:4**<big><big>[[Hos.11.1 Out of Egypt I Called My Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I led them with cords of kindness, with ropes of love; I lifted the yoke from th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.3|<< Hosea 11:3]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.5|Hosea 11:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with cords of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2256M\|חַבְלֵ֨י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> chav.Lei<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humankind  |**<big>&#8207;[[H0120G\|אָדָ֤ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

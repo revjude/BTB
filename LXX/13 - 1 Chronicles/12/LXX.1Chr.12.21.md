@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:21** 
 <small><sub>**LXX:**</sub></small>
 And they fought along with  David against the troop, for they \[were\] all mighty in strength, and they were leaders in the military in the force. 
-<small><sub>**KJV:**</sub></small>
-And they helped David against the band [of the rovers]: for they [were] all mighty men of valour, and were captains in the host.
-<small><sub>**BSB:**</sub></small>
-They helped David against the raiders, for they were all mighty men of valor and commanders in the army.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.20|<< 1 Chronicles 12:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.22|1 Chronicles 12:22 >>]]</td></tr></table>
 
 | Translation | Greek |

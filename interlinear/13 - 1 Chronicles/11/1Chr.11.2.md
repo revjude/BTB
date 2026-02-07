@@ -1,4 +1,4 @@
-**1 Chronicles 11:2** 
+**1 Chronicles 11:2**<big><big>[[1Chr.11.1 David Anointed King of All Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And moreover in time past, even when Saul was king, thou [wast] he that leddest out and broughtest in Israel: and the LORD thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even in times past, while Saul was king, you were the one who led Israel out and
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.1|<< 1 Chronicles 11:1]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.3|1 Chronicles 11:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | both  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | yesterday  |**<big>&#8207;[[H8543\|תְּמ֣וֹל]]&#8207; </big>**| te.Mol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

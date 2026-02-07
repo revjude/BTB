@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:41** 
 <small><sub>**LXX:**</sub></small>
 And Elijah said  to Ahab, Ascend, and eat, and drink! for \[it is the\] sound of the noise of the rain. 
-<small><sub>**KJV:**</sub></small>
-And Elijah said unto Ahab, Get thee up, eat and drink; for [there is] a sound of abundance of rain.
-<small><sub>**BSB:**</sub></small>
-And Elijah said to Ahab, “Go up, eat and drink, for there is the sound of a heavy rain.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.40|<< 1 Kings 18:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.42|1 Kings 18:42 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Kings 18:41** is...

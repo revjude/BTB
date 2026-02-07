@@ -1,4 +1,4 @@
-**Lamentations 3:3** 
+**Lamentations 3:3**<big><big>[[Lam.3.1 The Prophet’s Afflictions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely against me is he turned; he turneth his hand [against me] all the day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Indeed, He keeps turning His hand against me all day long.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.2|<< Lamentations 3:2]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.4|Lamentations 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | surely  |**<big>&#8207;[[H0389\|אַ֣ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on me  |**<big>&#8207;[[H9003\|בִּ֥]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| b<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

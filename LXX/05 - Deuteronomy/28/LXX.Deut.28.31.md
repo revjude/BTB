@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:31** 
 <small><sub>**LXX:**</sub></small>
  Your calf being slain before you, and you will not eat from it.  Your donkey being seized by force from you, and it shall not be given back to you.  Your sheep being given \[to\] your enemies, and there shall not be one helping you. 
-<small><sub>**KJV:**</sub></small>
-Thine ox [shall be] slain before thine eyes, and thou shalt not eat thereof: thine ass [shall be] violently taken away from before thy face, and shall not be restored to thee: thy sheep [shall be] given unto thine enemies, and thou shalt have none to rescue [them].
-<small><sub>**BSB:**</sub></small>
-Your ox will be slaughtered before your eyes, but you will not eat any of it. Your donkey will be taken away and not returned to you. Your flock will be given to your enemies, and no one will save you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.30|<< Deuteronomy 28:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.32|Deuteronomy 28:32 >>]]</td></tr></table>
 
 | Translation | Greek |

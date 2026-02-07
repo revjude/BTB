@@ -1,10 +1,7 @@
 **LXX 1 Samuel 13:20** 
 <small><sub>**LXX:**</sub></small>
 And all Israel went down into \[the\] land of \[the\] Philistines, for each to forge  his own reaping hook, and  his utensil, and each  his axe, and  his sickle. 
-<small><sub>**KJV:**</sub></small>
-But all the Israelites went down to the Philistines, to sharpen every man his share, and his coulter, and his axe, and his mattock.
-<small><sub>**BSB:**</sub></small>
-Instead, all the Israelites would go down to the Philistines to sharpen their plowshares, mattocks, axes, and sickles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.19|<< 1 Samuel 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.21|1 Samuel 13:21 >>]]</td></tr></table>
 
 | Translation | Greek |

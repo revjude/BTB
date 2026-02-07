@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses and Aaron in \[the\] land of Egypt, saying, 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Moses and Aaron in the land of Egypt, saying,
-<small><sub>**BSB:**</sub></small>
-Now the LORD said to Moses and Aaron in the land of Egypt,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.11.10|<< Exodus 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.2|Exodus 12:2 >>]]</td></tr></table>
 
 | Translation | Greek |

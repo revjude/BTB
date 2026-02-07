@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 For in these  days the Jews gained rest from  their enemies. And the month in which \[things\] turned for them, which was Adar, from mourning to joy, and from grief to good days, \[was\] to celebrate entirely for good days of wedding \[feasts\] and gladness, sending \[gift\] portions to their friends and to the poor. 
-<small><sub>**KJV:**</sub></small>
-As the days wherein the Jews rested from their enemies, and the month which was turned unto them from sorrow to joy, and from mourning into a good day: that they should make them days of feasting and joy, and of sending portions one to another, and gifts to the poor.
-<small><sub>**BSB:**</sub></small>
-as the days on which the Jews gained rest from their enemies and the month in which their sorrow turned to joy and their mourning into a holiday. He wrote that these were to be days of feasting and joy, of sending gifts to one another and to the poor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.21|<< Esther 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.23|Esther 9:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Esther 9:22** is...

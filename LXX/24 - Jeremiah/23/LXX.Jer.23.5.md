@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:5** 
 <small><sub>**LXX:**</sub></small>
 Behold, days come, says \[the\] <span class="smallcaps">lord</span>, and I will raise up \[to\] David a just dawn; and a king shall reign, and shall perceive, and shall execute equity and righteousness upon the earth. 
-<small><sub>**KJV:**</sub></small>
-Behold, the days come, saith the LORD, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth.
-<small><sub>**BSB:**</sub></small>
-Behold, the days are coming, declares the LORD, when I will raise up for David a righteous Branch, and He will reign wisely as King and will administer justice and righteousness in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.4|<< Jeremiah 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.6|Jeremiah 23:6 >>]]</td></tr></table>
 
 | Translation | Greek |

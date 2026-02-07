@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:31** 
 <small><sub>**LXX:**</sub></small>
 And all decaying flesh, and that taken by wild beasts from the birds and from the cattle the priests shall not eat. 
-<small><sub>**KJV:**</sub></small>
-The priests shall not eat of any thing that is dead of itself, or torn, whether it be fowl or beast.
-<small><sub>**BSB:**</sub></small>
-The priests may not eat any bird or animal found dead or torn by wild beasts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.30|<< Ezekiel 44:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.1|Ezekiel 45:1 >>]]</td></tr></table>
 
 | Translation | Greek |

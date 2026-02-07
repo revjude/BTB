@@ -1,10 +1,7 @@
 **LXX Judges 8:30** 
 <small><sub>**LXX:**</sub></small>
 And \[to\] Gideon there were seventy sons going forth from out of his thighs, for there were many wives to him. 
-<small><sub>**KJV:**</sub></small>
-And Gideon had threescore and ten sons of his body begotten: for he had many wives.
-<small><sub>**BSB:**</sub></small>
-Gideon had seventy sons of his own, since he had many wives.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.29|<< Judges 8:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.31|Judges 8:31 >>]]</td></tr></table>
 
 | Translation | Greek |

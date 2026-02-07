@@ -1,12 +1,12 @@
-**2 Corinthians 8:11
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:11**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now therefore perform the doing [of it]; that as [there was] a readiness to will, so [there may be] a performance also out of that which ye have.
 <small><sub>**BSB:**</sub></small>
 Now finish the work, so that you may complete it with the same eager desire, according to your means.
 <small><sub>**Literal:**</sub></small>
 Now then also the doing do complete so that just as [there was] the readiness of the to will so also the to complete out of that which [you] having.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.10|<< 2 Corinthians 8:10]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.12|2 Corinthians 8:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3570\|νυνὶ]]</big>**  |nuni <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

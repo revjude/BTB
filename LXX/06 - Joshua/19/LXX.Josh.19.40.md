@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And to the tribe of \[the\] sons of Dan according to their peoples came forth the seventh lot. 
-<small><sub>**KJV:**</sub></small>
-[And] the seventh lot came out for the tribe of the children of Dan according to their families.
-<small><sub>**BSB:**</sub></small>
-The seventh lot came out for the clans of the tribe of Dan:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.39|<< Joshua 19:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.41|Joshua 19:41 >>]]</td></tr></table>
 
 | Translation | Greek |

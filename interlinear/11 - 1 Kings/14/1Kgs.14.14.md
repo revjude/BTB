@@ -1,4 +1,4 @@
-**1 Kings 14:14** 
+**1 Kings 14:14**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the LORD shall raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, the LORD will raise up for Himself a king over Israel who will cut off
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.13|<< 1 Kings 14:13]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.15|1 Kings 14:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will raise up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6965I\|הֵקִים֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Kim<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

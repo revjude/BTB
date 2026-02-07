@@ -1,12 +1,12 @@
-**2 Thessalonians 1:3
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 1:3**<big><big>[[2Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;
 <small><sub>**BSB:**</sub></small>
 We are obligated to thank God for you all the time, brothers, as is fitting, because your faith is growing more and more, and your love for one another is increasing.
 <small><sub>**Literal:**</sub></small>
 To thank we ought <the> God always concerning you, brothers, even as fitting it is, because is increasing exceedingly the faith of you and is abounding the love of one each of all you to one another;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.2|<< 2 Thessalonians 1:2]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.4|2 Thessalonians 1:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To thank |**<big>[[G2168\|Εὐχαριστεῖν]]</big>**  |Eucharistein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we ought |**<big>[[G3784\|ὀφείλομεν]]</big>**  |opheilomen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

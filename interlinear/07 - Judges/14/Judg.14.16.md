@@ -1,4 +1,4 @@
-**Judges 14:16** 
+**Judges 14:16**<big><big>[[Judg.14.8 Samson’s Riddle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samson’s wife wept before him, and said, Thou dost but hate me, and lovest me not: thou hast put forth a riddle unto the children of my people, and hast not told [it] me. And he said unto her, Behold, I have not told [it] my father nor my mother, and shall I tell [it] thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Samson’s wife came to him, weeping, and said, “You hate me! You do not 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.15|<< Judges 14:15]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.17|Judges 14:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she wept  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1058\|תֵּבְךְּ֩]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.veK<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wife of  |**<big>&#8207;[[H0802H\|אֵ֨שֶׁת]]&#8207; </big>**| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

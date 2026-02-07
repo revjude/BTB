@@ -1,10 +1,7 @@
 **LXX Isaiah 55:11** 
 <small><sub>**LXX:**</sub></small>
 so shall it be \[with\] my word, which ever shall come forth from out of  my mouth -- in no way shall it return to me empty until whenever it should finish as much as I wanted; and I will prosper  your ways and  my precepts. 
-<small><sub>**KJV:**</sub></small>
-So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper [in the thing] whereto I sent it.
-<small><sub>**BSB:**</sub></small>
-so My word that proceeds from My mouth will not return to Me empty, but it will accomplish what I please, and it will prosper where I send it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.55.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.55.10|<< Isaiah 55:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.55.12|Isaiah 55:12 >>]]</td></tr></table>
 
 | Translation | Greek |

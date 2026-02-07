@@ -1,10 +1,7 @@
 **LXX Job 3:8** 
 <small><sub>**LXX:**</sub></small>
 But the one cursing that day curse it, the ones being about to awaken  Leviathan. 
-<small><sub>**KJV:**</sub></small>
-Let them curse it that curse the day, who are ready to raise up their mourning.
-<small><sub>**BSB:**</sub></small>
-May it be cursed by those who curse the day—those prepared to rouse Leviathan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.7|<< Job 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.9|Job 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

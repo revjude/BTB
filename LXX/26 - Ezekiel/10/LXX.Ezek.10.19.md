@@ -1,10 +1,7 @@
 **LXX Ezekiel 10:19** 
 <small><sub>**LXX:**</sub></small>
 And the cherubim lifted up  their wings, and rose up on high from the earth before me, in  their going forth, and the wheels \[were\] next to them. And they stood upon the thresholds of the gate of \[the\] house of \[the\] <span class="smallcaps">lord</span>, of the one before. And \[the\] glory of \[the\] God of Israel was upon them up above. 
-<small><sub>**KJV:**</sub></small>
-And the cherubims lifted up their wings, and mounted up from the earth in my sight: when they went out, the wheels also [were] beside them, and [every one] stood at the door of the east gate of the LORD’S house; and the glory of the God of Israel [was] over them above.
-<small><sub>**BSB:**</sub></small>
-As I watched, the cherubim lifted their wings and rose up from the ground, with the wheels beside them as they went. And they stopped at the entrance of the east gate of the house of the LORD, with the glory of the God of Israel above them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.18|<< Ezekiel 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.20|Ezekiel 10:20 >>]]</td></tr></table>
 
 | Translation | Greek |

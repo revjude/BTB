@@ -1,4 +1,4 @@
-**Psalms 68:12** (68:13)
+**Psalms 68:12**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Kings of armies did flee apace: and she that tarried at home divided the spoil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Kings of armies did flee apace: and she that tarried at home divided the spoil.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.11|<< Psalms 68:11]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.13|Psalms 68:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | kings of  |**<big>&#8207;[[H4428G\|מַלְכֵ֣י]]&#8207; </big>**| mal.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | armies  |**<big>&#8207;[[H6635B\|צְ֭בָאוֹת]]&#8207; </big>**| Tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ecclesiastes 6:10** 
+**Ecclesiastes 6:10**<big><big>[[Eccl.6.1 The Futility of Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That which hath been is named already, and it is known that it [is] man: neither may he contend with him that is mightier than he.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whatever exists was named long ago, and it is known what man is; but he cannot c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.9|<< Ecclesiastes 6:9]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.11|Ecclesiastes 6:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whatever  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [that] which \<it> has been  |**<big>&#8207;[[H9007\|שֶּֽׁ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| she.<small><sup>[[HTr]]</sup></small> ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

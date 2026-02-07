@@ -1,10 +1,7 @@
 **LXX Deuteronomy 29:17** 
 <small><sub>**LXX:**</sub></small>
 And you beheld  their abominations, and  their idols -- wood and stone, silver and gold, which is among them. 
-<small><sub>**KJV:**</sub></small>
-And ye have seen their abominations, and their idols, wood and stone, silver and gold, which [were] among them:)
-<small><sub>**BSB:**</sub></small>
-You saw the abominations and idols among them made of wood and stone, of silver and gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.16|<< Deuteronomy 29:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.18|Deuteronomy 29:18 >>]]</td></tr></table>
 
 | Translation | Greek |

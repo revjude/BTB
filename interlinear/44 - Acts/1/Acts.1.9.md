@@ -1,12 +1,12 @@
-**Acts 1:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:9**<big><big>[[Acts.1.6 The Ascension|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.
 <small><sub>**BSB:**</sub></small>
 After He had said this, they watched as He was taken up, and a cloud hid Him from their sight.
 <small><sub>**Literal:**</sub></small>
 And these things having said when are looking they He was taken up and a cloud hid Him from the eyes of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.8|<< Acts 1:8]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.10|Acts 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

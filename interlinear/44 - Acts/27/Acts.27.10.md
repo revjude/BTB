@@ -1,12 +1,12 @@
-**Acts 27:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:10**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said unto them, Sirs, I perceive that this voyage will be with hurt and much damage, not only of the lading and ship, but also of our lives.
 <small><sub>**BSB:**</sub></small>
 “Men, I can see that our voyage will be filled with disaster and great loss, not only to ship and cargo, but to our own lives as well.”
 <small><sub>**Literal:**</sub></small>
 saying to them; Men, I understand that with disaster and much loss not only of the burden and of the ship but also the lives of us ensuing to be the voyage.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.9|<< Acts 27:9]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.11|Acts 27:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying |**<big>[[G3004G\|λέγων]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to them; |**<big>[[G0846\|αὐτοῖς·]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

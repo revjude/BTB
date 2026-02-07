@@ -1,10 +1,7 @@
 **LXX Numbers 24:10** 
 <small><sub>**LXX:**</sub></small>
 And Balak was enraged at Balaam, and he struck together  his hands. And Balak said to Balaam, To imprecate maledictions upon  my enemy I have called you, and behold, blessing you blessed this third \[time\]. 
-<small><sub>**KJV:**</sub></small>
-And Balak’s anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed [them] these three times.
-<small><sub>**BSB:**</sub></small>
-Then Balak’s anger burned against Balaam, and he struck his hands together and said to Balaam, “I summoned you to curse my enemies, but behold, you have persisted in blessing them these three times.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.9|<< Numbers 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.11|Numbers 24:11 >>]]</td></tr></table>
 
 | Translation | Greek |

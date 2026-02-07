@@ -1,10 +1,7 @@
 **LXX Jeremiah 16:19** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span> my strength and my help and my refuge in a day of evils. To you nations shall come from \[the\] ends of the earth. And they shall say, O how false the idols our fathers acquired, and there is no benefit in them. 
-<small><sub>**KJV:**</sub></small>
-O LORD, my strength, and my fortress, and my refuge in the day of affliction, the Gentiles shall come unto thee from the ends of the earth, and shall say, Surely our fathers have inherited lies, vanity, and [things] wherein [there is] no profit.
-<small><sub>**BSB:**</sub></small>
-O LORD, my strength and my fortress, my refuge in the day of distress, the nations will come to You from the ends of the earth, and they will say, “Our fathers inherited nothing but lies, worthless idols of no benefit at all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.18|<< Jeremiah 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.20|Jeremiah 16:20 >>]]</td></tr></table>
 
 | Translation | Greek |

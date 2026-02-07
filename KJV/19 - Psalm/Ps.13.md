@@ -1,6 +1,6 @@
 (KJV) **Psalm 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.12|<< Psalm 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.14|Psalm 14 >>]]</td></tr></table>
 
-***How Long, O LORD?*** ^bsb1306
+<big><big>[[Ps.13.1 How Long, O LORD？|⥃]]</big></big>***How Long, O LORD?***
 
 
 

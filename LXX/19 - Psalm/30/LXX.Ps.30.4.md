@@ -1,10 +1,7 @@
 **LXX Psalm 30:4** 
 <small><sub>**LXX:**</sub></small>
 his sacred ones strum to the <span class="smallcaps">lord</span>, and make acknowledgment to the remembrance  of his holiness! 
-<small><sub>**KJV:**</sub></small>
-Sing unto the LORD, O ye saints of his, and give thanks at the remembrance of his holiness.
-<small><sub>**BSB:**</sub></small>
-Sing to the LORD, O you His saints, and praise His holy name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.30.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.3|<< Psalm 30:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.30.5|Psalm 30:5 >>]]</td></tr></table>
 
 | Translation | Greek |

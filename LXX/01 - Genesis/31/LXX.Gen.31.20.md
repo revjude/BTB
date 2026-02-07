@@ -1,10 +1,7 @@
 **LXX Genesis 31:20** 
 <small><sub>**LXX:**</sub></small>
 And Jacob hid \[the fact from\] Laban the Syrian,  \[so as\] not to announce to him that he \[is\] running away. 
-<small><sub>**KJV:**</sub></small>
-And Jacob stole away unawares to Laban the Syrian, in that he told him not that he fled.
-<small><sub>**BSB:**</sub></small>
-Moreover, Jacob deceived Laban the Aramean by not telling him that he was running away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.19|<< Genesis 31:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.21|Genesis 31:21 >>]]</td></tr></table>
 
 | Translation | Greek |

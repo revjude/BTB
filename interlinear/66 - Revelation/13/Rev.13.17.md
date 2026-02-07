@@ -1,12 +1,12 @@
-**Revelation 13:17
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:17**<big><big>[[Rev.13.16 The Mark of the Beast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.
 <small><sub>**BSB:**</sub></small>
 so that no one could buy or sell unless he had the mark—the name of the beast or the number of its name.
 <small><sub>**Literal:**</sub></small>
 and that no one may be able to buy or to sell only except the [one] having the mark — or the name of the beast or the number of the name of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.16|<< Revelation 13:16]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.18|Revelation 13:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

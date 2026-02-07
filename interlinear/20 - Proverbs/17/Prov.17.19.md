@@ -1,4 +1,4 @@
-**Proverbs 17:19** 
+**Proverbs 17:19**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He loveth transgression that loveth strife: [and] he that exalteth his gate seeketh destruction.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who loves transgression loves strife; he who builds his gate high invites des
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.18|<< Proverbs 17:18]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.20|Proverbs 17:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] loves  |**<big>&#8207;[[H0157G\|אֹ֣הֵֽב]]&#8207; </big>**| 'O.hev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | transgression  |**<big>&#8207;[[H6588\|פֶּ֭שַׁע]]&#8207; </big>**| Pe.sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

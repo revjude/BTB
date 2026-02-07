@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Aholah fornicated from me, and doted upon  her lovers, upon the Assyrians  being next to her; 
-<small><sub>**KJV:**</sub></small>
-And Aholah played the harlot when she was mine; and she doted on her lovers, on the Assyrians [her] neighbours,
-<small><sub>**BSB:**</sub></small>
-Oholah prostituted herself while she was still Mine. She lusted after her lovers, the Assyrians—warriors<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.4|<< Ezekiel 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.6|Ezekiel 23:6 >>]]</td></tr></table>
 
 | Translation | Greek |

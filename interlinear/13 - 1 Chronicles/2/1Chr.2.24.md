@@ -1,4 +1,4 @@
-**1 Chronicles 2:24** 
+**1 Chronicles 2:24**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after that Hezron was dead in Calebephratah, then Abiah Hezron’s wife bare him Ashur the father of Tekoa.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After Hezron died in Caleb-ephrathah, his wife Abijah bore to him Ashhur the fat
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.23|<< 1 Chronicles 2:23]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.25|1 Chronicles 2:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחַ֥ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] death of  |**<big>&#8207;[[H4194\|מוֹת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mot-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

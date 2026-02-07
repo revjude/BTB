@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Better a morsel with satisfaction in peace, than a house full of many good \[things\], and unjust things offered for sacrifices with battles. 
-<small><sub>**KJV:**</sub></small>
-Better [is] a dry morsel, and quietness therewith, than an house full of sacrifices [with] strife.
-<small><sub>**BSB:**</sub></small>
-Better a dry morsel in quietness than a house full of feasting with strife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.16.33|<< Proverbs 16:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.17.2|Proverbs 17:2 >>]]</td></tr></table>
 
 | Translation | Greek |

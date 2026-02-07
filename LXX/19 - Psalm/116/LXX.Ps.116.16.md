@@ -1,10 +1,7 @@
 **LXX Psalm 116:16** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span> I \[am\] your servant; I \[am\] your servant, and a son  of your maidservant. You tore up  my bonds. 
-<small><sub>**KJV:**</sub></small>
-O LORD, truly I [am] thy servant; I [am] thy servant, [and] the son of thine handmaid: thou hast loosed my bonds.
-<small><sub>**BSB:**</sub></small>
-Truly, O LORD, I am Your servant; I am Your servant, the son of Your maidservant; You have broken my bonds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.116.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.116.15|<< Psalm 116:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.116.17|Psalm 116:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 16:10** 
 <small><sub>**LXX:**</sub></small>
 And Delilah said to Samson, Behold, you misled me, and you spoke to me \[by\] lying. Now then report to me!  how you shall be tied. 
-<small><sub>**KJV:**</sub></small>
-And Delilah said unto Samson, Behold, thou hast mocked me, and told me lies: now tell me, I pray thee, wherewith thou mightest be bound.
-<small><sub>**BSB:**</sub></small>
-Then Delilah said to Samson, “You have mocked me and lied to me! Now please tell me how you can be tied up.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.9|<< Judges 16:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.11|Judges 16:11 >>]]</td></tr></table>
 
 | Translation | Greek |

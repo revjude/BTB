@@ -1,4 +1,4 @@
-**Psalms 60:7** (60:9)
+**Psalms 60:7**<big><big>[[Ps.60.1 Victory with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gilead [is] mine, and Manasseh [is] mine; Ephraim also [is] the strength of mine head; Judah [is] my lawgiver;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Gilead is Mine, and Manasseh is Mine; Ephraim is My helmet, Judah is My scepter.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.60.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.6|<< Psalms 60:6]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.8|Psalms 60:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [belongs] to me  |**<big>&#8207;[[H9005\|לִ֤]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gilead  |**<big>&#8207;[[H1568G\|גִלְעָ֨ד]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

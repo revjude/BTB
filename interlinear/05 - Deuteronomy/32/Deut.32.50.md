@@ -1,4 +1,4 @@
-**Deuteronomy 32:50** 
+**Deuteronomy 32:50**<big><big>[[Deut.32.48 Moses’ Death Foretold|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And die in the mount whither thou goest up, and be gathered unto thy people; as Aaron thy brother died in mount Hor, and was gathered unto his people:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there on the mountain that you climb, you will die and be gathered to your p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.49|<< Deuteronomy 32:49]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.51|Deuteronomy 32:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and die  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4191\|מֻ֗ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mut<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the mountain  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H2022G\|הָר֙]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Esther 9:19** 
 <small><sub>**LXX:**</sub></small>
 Because of this then the Jews, the ones being disseminated in every place  outside, celebrate on the fourteenth  of Adar, a good day with gladness, each sending portions \[to his\] neighbor. 
-<small><sub>**KJV:**</sub></small>
-Therefore the Jews of the villages, that dwelt in the unwalled towns, made the fourteenth day of the month Adar [a day of] gladness and feasting, and a good day, and of sending portions one to another.
-<small><sub>**BSB:**</sub></small>
-This is why the rural Jews, who live in the villages, observe the fourteenth day of the month of Adar as a day of joy and feasting. It is a holiday for sending gifts to one another.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.18|<< Esther 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.20|Esther 9:20 >>]]</td></tr></table>
 
 | Translation | Greek |

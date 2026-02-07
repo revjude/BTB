@@ -1,10 +1,7 @@
 **LXX Jeremiah 28:13** 
 <small><sub>**LXX:**</sub></small>
 Proceed and say to Hananiah! saying, Thus said \[the\] <span class="smallcaps">lord</span>, you broke wooden collars, but I will make instead of these collars of iron. 
-<small><sub>**KJV:**</sub></small>
-Go and tell Hananiah, saying, Thus saith the LORD; Thou hast broken the yokes of wood; but thou shalt make for them yokes of iron.
-<small><sub>**BSB:**</sub></small>
-“Go and tell Hananiah that this is what the LORD says: ‘You have broken a yoke of wood, but in its place you have fashioned a yoke of iron.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.28.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.28.12|<< Jeremiah 28:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.14|Jeremiah 28:14 >>]]</td></tr></table>
 
 | Translation | Greek |

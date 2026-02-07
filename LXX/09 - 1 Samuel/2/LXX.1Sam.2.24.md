@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:24** 
 <small><sub>**LXX:**</sub></small>
 No children, no, for \[it is\] not good, the hearing which I hear of the making the people to not serve to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Nay, my sons; for [it is] no good report that I hear: ye make the LORD’S people to transgress.
-<small><sub>**BSB:**</sub></small>
-No, my sons; it is not a good report I hear circulating among the LORD’s people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.23|<< 1 Samuel 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.25|1 Samuel 2:25 >>]]</td></tr></table>
 
 | Translation | Greek |

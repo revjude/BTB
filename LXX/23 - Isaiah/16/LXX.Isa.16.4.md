@@ -1,10 +1,7 @@
 **LXX Isaiah 16:4** 
 <small><sub>**LXX:**</sub></small>
 The exiles of Moab shall sojourn with you; they will be a protection for you from \[the\] face of the one pursuing; for your alliance in war was lifted away, and the trampling ruler perished from the earth. 
-<small><sub>**KJV:**</sub></small>
-Let mine outcasts dwell with thee, Moab; be thou a covert to them from the face of the spoiler: for the extortioner is at an end, the spoiler ceaseth, the oppressors are consumed out of the land.
-<small><sub>**BSB:**</sub></small>
-Let my fugitives stay with you; be a refuge for Moab from the destroyer.” When the oppressor has gone, destruction has ceased, and the oppressors have vanished from the land,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.3|<< Isaiah 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.5|Isaiah 16:5 >>]]</td></tr></table>
 
 | Translation | Greek |

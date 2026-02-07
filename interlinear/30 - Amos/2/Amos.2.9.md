@@ -1,4 +1,4 @@
-**Amos 2:9** 
+**Amos 2:9**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet destroyed I the Amorite before them, whose height [was] like the height of the cedars, and he [was] strong as the oaks; yet I destroyed his fruit from above, and his roots from beneath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet it was I who destroyed the Amorite before them, though his height was like t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.8|<< Amos 2:8]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.10|Amos 2:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0595\|אָ֨נֹכִ֜י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'A.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I destroyed  |**<big>&#8207;[[H8045\|הִשְׁמַ֤דְתִּי]]&#8207; </big>**| hish.Mad.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

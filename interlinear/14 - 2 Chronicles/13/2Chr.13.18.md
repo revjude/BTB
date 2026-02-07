@@ -1,4 +1,4 @@
-**2 Chronicles 13:18** 
+**2 Chronicles 13:18**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the LORD God of their fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus the Israelites were subdued at that time, and the men of Judah prevailed be
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.17|<< 2 Chronicles 13:17]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.19|2 Chronicles 13:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were humbled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3665\|יִּכָּנְע֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.ne.'U<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

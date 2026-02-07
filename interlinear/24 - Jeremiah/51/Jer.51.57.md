@@ -1,4 +1,4 @@
-**Jeremiah 51:57** 
+**Jeremiah 51:57**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make drunk her princes, and her wise [men], her captains, and her rulers, and her mighty men: and they shall sleep a perpetual sleep, and not wake, saith the King, whose name [is] the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make her princes and wise men drunk, along with her governors, officials,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.56|<< Jeremiah 51:56]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.58|Jeremiah 51:58 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make drunk  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H7937\|הִשְׁכַּרְתִּי]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> hish.kar.ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | officials its  |**<big>&#8207;[[H8269\|שָׂרֶ֨י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| sa.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

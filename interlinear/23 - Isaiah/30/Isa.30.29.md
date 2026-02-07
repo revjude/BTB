@@ -1,4 +1,4 @@
-**Isaiah 30:29** 
+**Isaiah 30:29**<big><big>[[Isa.30.18 God Will Be Gracious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall have a song, as in the night [when] a holy solemnity is kept; and gladness of heart, as when one goeth with a pipe to come into the mountain of the LORD, to the mighty One of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will sing as on the night of a holy festival, and your heart will rejoice li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.28|<< Isaiah 30:28]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.30|Isaiah 30:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> song  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7892A\|שִּׁיר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Shir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will belong  |**<big>&#8207;[[H1961\|יִֽהְיֶ֣ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 41:43** 
+**Genesis 41:43**<big><big>[[Gen.41.37 Joseph Given Charge of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made him to ride in the second chariot which he had; and they cried before him, Bow the knee: and he made him [ruler] over all the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He had Joseph ride in his second chariot, with men calling out before him, “Bo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.42|<< Genesis 41:42]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.44|Genesis 41:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made ride  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7392\|יַּרְכֵּ֣ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yar.Kev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֗]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

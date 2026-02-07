@@ -1,4 +1,4 @@
-**Jeremiah 37:10** 
+**Jeremiah 37:10**<big><big>[[Jer.37.1 Jeremiah Warns Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For though ye had smitten the whole army of the Chaldeans that fight against you, and there remained [but] wounded men among them, [yet] should they rise up every man in his tent, and burn this city with fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Indeed, if you were to strike down the entire army of the Chaldeans that is figh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.9|<< Jeremiah 37:9]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.11|Jeremiah 37:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588B\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | except  |**<big>&#8207;[[H0518B\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

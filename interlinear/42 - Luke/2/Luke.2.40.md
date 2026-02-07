@@ -1,12 +1,12 @@
-**Luke 2:40
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:40**<big><big>[[Luke.2.39 The Return to Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him.
 <small><sub>**BSB:**</sub></small>
 And the Child grew and became strong. He was filled with wisdom, and the grace of God was upon Him.
 <small><sub>**Literal:**</sub></small>
 <the> And the Child was continuing to grow and He was being strengthened in spirit being filled with wisdom, and [the] grace of God was upon Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.39|<< Luke 2:39]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.41|Luke 2:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τὸ]]</big>**  |To <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 9:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:3**<big><big>[[Acts.9.1 The Road to Damascus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:
 <small><sub>**BSB:**</sub></small>
 As Saul drew near to Damascus on his journey, suddenly a light from heaven flashed around him.
 <small><sub>**Literal:**</sub></small>
 In now <the> proceeding it came to pass [as] he [is] drawing near <the> to Damascus, suddenly also him flashed around a light from <the> heaven;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.2|<< Acts 9:2]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.4|Acts 9:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

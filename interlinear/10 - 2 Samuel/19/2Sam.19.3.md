@@ -1,4 +1,4 @@
-**2 Samuel 19:3** (19:4)
+**2 Samuel 19:3**<big><big>[[2Sam.19.1 Joab Reproves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people gat them by stealth that day into the city, as people being ashamed steal away when they flee in battle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they returned to the city quietly that day, as people steal away in humiliati
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.2|<< 2 Samuel 19:2]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.4|2 Samuel 19:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it acted stealthily  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1589\|יִּתְגַּנֵּ֥ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.ga.Nev<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֛ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

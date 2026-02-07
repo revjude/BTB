@@ -1,10 +1,7 @@
 **LXX Daniel 3:17** 
 <small><sub>**LXX:**</sub></small>
 For our God in \[the\] heavens in whom we serve is able to rescue us from out of the burning furnace of fire. And from out of  your hands, O king, he shall rescue us. 
-<small><sub>**KJV:**</sub></small>
-If it be [so], our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver [us] out of thine hand, O king.
-<small><sub>**BSB:**</sub></small>
-If the God whom we serve exists, then He is able to deliver us from the blazing fiery furnace and from your hand, O king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.16|<< Daniel 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.18|Daniel 3:18 >>]]</td></tr></table>
 
 | Translation | Greek |

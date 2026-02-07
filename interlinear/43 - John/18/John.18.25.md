@@ -1,12 +1,12 @@
-**John 18:25
-**<small><sub>**KJV:**</sub></small>
+**John 18:25**<big><big>[[John.18.25 Peter’s Second and Third Denials|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Simon Peter stood and warmed himself. They said therefore unto him, Art not thou also [one] of his disciples? He denied [it], and said, I am not.
 <small><sub>**BSB:**</sub></small>
 Simon Peter was still standing and warming himself. So they asked him, “Aren’t you also one of His disciples?” He denied it and said, “I am not.”
 <small><sub>**Literal:**</sub></small>
 Was now Simon Peter already standing and warming himself. They said therefore to him; Surely also you yourself of the disciples of Him are? Denied therefore he and said; Not I am.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.24|<< John 18:24]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.26|John 18:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

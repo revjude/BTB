@@ -1,10 +1,7 @@
 **LXX Jeremiah 37:12** 
 <small><sub>**LXX:**</sub></small>
 Jeremiah came forth from Jerusalem to go into \[the\] land of Benjamin  to buy from there \[land\] in \[the\] midst of the people. 
-<small><sub>**KJV:**</sub></small>
-Then Jeremiah went forth out of Jerusalem to go into the land of Benjamin, to separate himself thence in the midst of the people.
-<small><sub>**BSB:**</sub></small>
-Jeremiah started to leave Jerusalem to go to the land of Benjamin to claim his portion there among the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.37.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.11|<< Jeremiah 37:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.13|Jeremiah 37:13 >>]]</td></tr></table>
 
 | Translation | Greek |

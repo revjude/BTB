@@ -1,5 +1,5 @@
-**Revelation 21:10
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:10**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Jerusalem, descending out of heaven from God,
 <small><sub>**BSB:**</sub></small>
 And he carried me away in the Spirit to a mountain great and high, and showed me the holy city of Jerusalem coming down out of heaven from God,
@@ -10,7 +10,7 @@ And he carried away me in [the] Spirit to a mountain great and high and he showe
 > $\quad$ alluding to: [[LXX.Ezek.40.2|Ezek 40:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he carried away |**<big>[[G0667\|ἀπήνεγκέν]]</big>**  |apēnegken <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

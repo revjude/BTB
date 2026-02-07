@@ -1,10 +1,7 @@
 **LXX Numbers 23:24** 
 <small><sub>**LXX:**</sub></small>
 Behold, \[the\] people as a cub shall raise up, and as a lion it shall prance; It shall not go to sleep until it shall eat game, and \[the\] blood of \[the\] slain it shall drink. 
-<small><sub>**KJV:**</sub></small>
-Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat [of] the prey, and drink the blood of the slain.
-<small><sub>**BSB:**</sub></small>
-Behold, the people rise like a lioness; they rouse themselves like a lion, not resting until they devour their prey and drink the blood of the slain.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.23|<< Numbers 23:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.25|Numbers 23:25 >>]]</td></tr></table>
 
 | Translation | Greek |

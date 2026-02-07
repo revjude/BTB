@@ -1,12 +1,12 @@
-**Matthew 28:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:2**<big><big>[[Matt.28.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, there was a great earthquake: for the angel of the Lord descended from heaven, and came and rolled back the stone from the door, and sat upon it.
 <small><sub>**BSB:**</sub></small>
 Suddenly there was a great earthquake, for an angel of the Lord descended from heaven, rolled away the stone, and sat on it.
 <small><sub>**Literal:**</sub></small>
 And behold an earthquake there was great; an angel for of [the] Lord having descended out of heaven and having come he rolled away the stone from <the> door and he was sitting upon it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.1|<< Matthew 28:1]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.3|Matthew 28:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

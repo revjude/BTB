@@ -1,4 +1,4 @@
-**Job 33:10** 
+**Job 33:10**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he findeth occasions against me, he counteth me for his enemy,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet God finds occasions against me; He counts me as His enemy.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.9|<< Job 33:9]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.11|Job 33:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2005\|הֵ֣ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | occasions  |**<big>&#8207;[[H8569\|תְּ֭נוּאוֹת]]&#8207; </big>**| Te.nu.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

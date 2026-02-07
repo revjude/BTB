@@ -1,12 +1,12 @@
-**2 Timothy 1:10
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 1:10**<big><big>[[2Tim.1.3 Faithfulness under Persecution|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But is now made manifest by the appearing of our Saviour Jesus Christ, who hath abolished death, and hath brought life and immortality to light through the gospel:
 <small><sub>**BSB:**</sub></small>
 And now He has revealed this grace through the appearing of our Savior, Christ Jesus, who has abolished death and illuminated the way to life and immortality through the gospel,
 <small><sub>**Literal:**</sub></small>
 having been made manifest also now through the appearing of the Savior of us Christ Jesus, having abolished indeed <the> death, having brought to light however life and immortality through the gospel,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.9|<< 2 Timothy 1:9]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.11|2 Timothy 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having been made manifest |**<big>[[G5319\|φανερωθεῖσαν]]</big>**  |phanerōtheisan <small><sup>[[V-APP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

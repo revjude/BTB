@@ -1,10 +1,7 @@
 **LXX Isaiah 22:3** 
 <small><sub>**LXX:**</sub></small>
 All  your rulers have fled together from the bow, they are being tied, and the ones being strong among you have fled at a distance. 
-<small><sub>**KJV:**</sub></small>
-All thy rulers are fled together, they are bound by the archers: all that are found in thee are bound together, [which] have fled from far.
-<small><sub>**BSB:**</sub></small>
-All your rulers have fled together, captured without a bow. All your fugitives were captured together, having fled to a distant place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.2|<< Isaiah 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.4|Isaiah 22:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ruth 3:5** 
 <small><sub>**LXX:**</sub></small>
 And Ruth said to her, All as much as you should tell to me I will do. 
-<small><sub>**KJV:**</sub></small>
-And she said unto her, All that thou sayest unto me I will do.
-<small><sub>**BSB:**</sub></small>
-“I will do everything you say,” Ruth answered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.4|<< Ruth 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.6|Ruth 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

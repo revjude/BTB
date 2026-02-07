@@ -1,10 +1,7 @@
 **LXX Hosea 12:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall return to your God; guard mercy and judgment, and approach to  your God always! 
-<small><sub>**KJV:**</sub></small>
-Therefore turn thou to thy God: keep mercy and judgment, and wait on thy God continually.
-<small><sub>**BSB:**</sub></small>
-But you must return to your God; maintain love and justice, and always wait on your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.5|<< Hosea 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.7|Hosea 12:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 10:38** 
 <small><sub>**LXX:**</sub></small>
 And the priest \[the\] son of Aaron will be with the Levites in the tenth of the Levites. And the Levites shall offer the tenth of the tenth for \[the\] house of our God, into a treasury of \[the\] house  of \[the\] treasury. 
-<small><sub>**KJV:**</sub></small>
-And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure house.
-<small><sub>**BSB:**</sub></small>
-A priest of Aaron’s line is to accompany the Levites when they collect the tenth, and the Levites are to bring a tenth of these tithes to the storerooms of the treasury in the house of our God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.10.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.37|<< Nehemiah 10:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.39|Nehemiah 10:39 >>]]</td></tr></table>
 
 | Translation | Greek |

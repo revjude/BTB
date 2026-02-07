@@ -1,4 +1,4 @@
-**1 Samuel 13:7** 
+**1 Samuel 13:7**<big><big>[[1Sam.13.1 War with the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [some of] the Hebrews went over Jordan to the land of Gad and Gilead. As for Saul, he [was] yet in Gilgal, and all the people followed him trembling.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Some Hebrews even crossed the Jordan into the land of Gad and Gilead. Saul, howe
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.6|<< 1 Samuel 13:6]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.8|1 Samuel 13:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Hebrews  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5680\|עִבְרִ֗ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'iv.Rim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they passed over  |**<big>&#8207;[[H5674A\|עָֽבְרוּ֙]]&#8207; </big>**| 'a.ve.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

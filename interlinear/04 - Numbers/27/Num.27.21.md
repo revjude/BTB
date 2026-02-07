@@ -1,4 +1,4 @@
-**Numbers 27:21** 
+**Numbers 27:21**<big><big>[[Num.27.18 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall stand before Eleazar the priest, who shall ask [counsel] for him after the judgment of Urim before the LORD: at his word shall they go out, and at his word they shall come in, [both] he, and all the children of Israel with him, even all the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He shall stand before Eleazar the priest, who will seek counsel for him before t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.20|<< Numbers 27:20]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.22|Numbers 27:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<to> before  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֨י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eleazar  |**<big>&#8207;[[H0499G\|אֶלְעָזָ֤ר]]&#8207; </big>**| 'el.'a.Zar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

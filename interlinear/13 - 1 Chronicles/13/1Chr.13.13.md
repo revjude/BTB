@@ -1,4 +1,4 @@
-**1 Chronicles 13:13** 
+**1 Chronicles 13:13**<big><big>[[1Chr.13.8 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David brought not the ark [home] to himself to the city of David, but carried it aside into the house of Obededom the Gittite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he did not move the ark with him to the City of David; instead, he took it as
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.12|<< 1 Chronicles 13:12]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.13.14|1 Chronicles 13:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he turned aside  |**<big>&#8207;[[H5493G\|הֵסִ֨יר]]&#8207; </big>**| he.Sir<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

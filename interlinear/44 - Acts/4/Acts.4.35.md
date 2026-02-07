@@ -1,12 +1,12 @@
-**Acts 4:35
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:35**<big><big>[[Acts.4.32 Sharing among Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And laid [them] down at the apostles’ feet: and distribution was made unto every man according as he had need.
 <small><sub>**BSB:**</sub></small>
 and lay them at the apostles’ feet for distribution to anyone as he had need.
 <small><sub>**Literal:**</sub></small>
 and were laying [them] at the feet of the apostles, distribution was made then to each just as would anyone need had.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.34|<< Acts 4:34]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.36|Acts 4:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were laying [them] |**<big>[[G5087\|ἐτίθουν]]</big>**  |etithoun <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

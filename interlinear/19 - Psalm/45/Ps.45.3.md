@@ -1,4 +1,4 @@
-**Psalms 45:3** (45:4)
+**Psalms 45:3**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gird thy sword upon [thy] thigh, O [most] mighty, with thy glory and thy majesty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Strap your sword at your side, O mighty warrior; appear in your majesty and sple
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.2|<< Psalms 45:2]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.4|Psalms 45:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | gird  |**<big>&#8207;[[H2296\|חֲגֽוֹר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.goyr-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sword your  |**<big>&#8207;[[H2719\|חַרְבְּ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| char.be.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

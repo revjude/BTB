@@ -1,4 +1,4 @@
-**Zechariah 7:14** 
+**Zechariah 7:14**<big><big>[[Zech.7.1 A Call to Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I scattered them with a whirlwind among all the nations whom they knew not. Thus the land was desolate after them, that no man passed through nor returned: for they laid the pleasant land desolate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I scattered them with a whirlwind among all the nations that they had not kn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.7.13|<< Zechariah 7:13]]</td><td align="center" style="border:none;">[[Zech.7|Zechariah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.1|Zechariah 8:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will storm away them  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5590\|אֵ֣סָעֲרֵ֗]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.sa.'a.Re<small><sup>[[HVpu1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H5921A\|עַ֤ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

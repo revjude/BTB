@@ -1,4 +1,4 @@
-**Nehemiah 1:3** 
+**Nehemiah 1:3**<big><big>[[Neh.1.1 Nehemiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto me, The remnant that are left of the captivity there in the province [are] in great affliction and reproach: the wall of Jerusalem also [is] broken down, and the gates thereof are burned with fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they told me, “The remnant who survived the exile are there in the provinc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.2|<< Nehemiah 1:2]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.4|Nehemiah 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְרוּ֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H9030\|י֒]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

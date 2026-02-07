@@ -1,10 +1,7 @@
 **LXX Genesis 14:16** 
 <small><sub>**LXX:**</sub></small>
 And he returned all the cavalry of Sodom; and he returned Lot the \[son\] of his brother, and all  his possessions, and the women, and the people. 
-<small><sub>**KJV:**</sub></small>
-And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people.
-<small><sub>**BSB:**</sub></small>
-He retrieved all the goods, as well as his relative Lot and his possessions, together with the women and the rest of the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.15|<< Genesis 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.17|Genesis 14:17 >>]]</td></tr></table>
 
 | Translation | Greek |

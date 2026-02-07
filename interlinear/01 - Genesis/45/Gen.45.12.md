@@ -1,4 +1,4 @@
-**Genesis 45:12** 
+**Genesis 45:12**<big><big>[[Gen.45.9 Joseph Sends for His Father|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, your eyes see, and the eyes of my brother Benjamin, that [it is] my mouth that speaketh unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold! You and my brother Benjamin can see that I, Joseph, am the one speaking 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.11|<< Genesis 45:11]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.13|Genesis 45:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֤ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes your  |**<big>&#8207;[[H5869A\|עֵֽינֵי]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

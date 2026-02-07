@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 22:2** 
 <small><sub>**LXX:**</sub></small>
 And David said  to gather together all the foreigners in \[the\] land of Israel. And he placed quarriers to quarry planed stones  to build a house to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And David commanded to gather together the strangers that [were] in the land of Israel; and he set masons to hew wrought stones to build the house of God.
-<small><sub>**BSB:**</sub></small>
-So David gave orders to gather the foreigners in the land of Israel, from whom he appointed stonecutters to prepare finished stones for building the house of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.1|<< 1 Chronicles 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.3|1 Chronicles 22:3 >>]]</td></tr></table>
 
 | Translation | Greek |

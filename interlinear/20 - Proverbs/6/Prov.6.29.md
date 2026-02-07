@@ -1,4 +1,4 @@
-**Proverbs 6:29** 
+**Proverbs 6:29**<big><big>[[Prov.6.20 Warnings against Adultery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he that goeth in to his neighbour’s wife; whosoever toucheth her shall not be innocent.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So is he who sleeps with another man’s wife; no one who touches her will go un
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.28|<< Proverbs 6:28]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.30|Proverbs 6:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] thus  |**<big>&#8207;[[H3651C\|כֵּ֗ן]]&#8207; </big>**| Ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [one who] goes  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H0935G\|בָּא]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> ba'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

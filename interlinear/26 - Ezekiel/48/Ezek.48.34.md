@@ -1,4 +1,4 @@
-**Ezekiel 48:34** 
+**Ezekiel 48:34**<big><big>[[Ezek.48.30 The City Gates and Dimensions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the west side four thousand and five hundred, [with] their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And on the west side, which will be 4,500 cubits long, there will be three gates
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.33|<< Ezekiel 48:33]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.35|Ezekiel 48:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] side of  |**<big>&#8207;[[H6285\|פְּאַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.'at-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | west -ward  |**<big>&#8207;[[H3220H\|יָ֗מָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Ya.ma<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

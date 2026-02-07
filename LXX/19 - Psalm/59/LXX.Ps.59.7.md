@@ -1,10 +1,7 @@
 **LXX Psalm 59:7** 
 <small><sub>**LXX:**</sub></small>
 Behold, they shall declare with  their mouths; and \[the\] broadsword \[is\] in  their lips; for \[they say\], Who hears? 
-<small><sub>**KJV:**</sub></small>
-Behold, they belch out with their mouth: swords [are] in their lips: for who, [say they], doth hear?
-<small><sub>**BSB:**</sub></small>
-See what they spew from their mouths—sharp words from their lips: “For who can hear us?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.59.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.6|<< Psalm 59:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.8|Psalm 59:8 >>]]</td></tr></table>
 
 | Translation | Greek |

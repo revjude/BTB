@@ -1,4 +1,4 @@
-**Psalms 119:130** 
+**Psalms 119:130**<big><big>[[Ps.119.129 Your Word Is a Lamp to My Feet - PE|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The entrance of thy words giveth light; it giveth understanding unto the simple.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The unfolding of Your words gives light; it informs the simple.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.130|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.129|<< Psalms 119:129]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.131|Psalms 119:131 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] opening of  |**<big>&#8207;[[H6608\|פֵּ֖תַח]]&#8207; </big>**| Pe.tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | words your  |**<big>&#8207;[[H1697G\|דְּבָרֶ֥י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| de.va.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

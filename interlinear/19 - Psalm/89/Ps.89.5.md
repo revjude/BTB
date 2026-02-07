@@ -1,4 +1,4 @@
-**Psalms 89:5** (89:6)
+**Psalms 89:5**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the heavens shall praise thy wonders, O LORD: thy faithfulness also in the congregation of the saints.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The heavens praise Your wonders, O LORD—Your faithfulness as well—in the ass
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.4|<< Psalms 89:4]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.6|Psalms 89:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so they may praise  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3034\|י֘וֹד֤וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yo.Du<small><sup>[[HVhu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heavens  |**<big>&#8207;[[H8064\|שָׁמַ֣יִם]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

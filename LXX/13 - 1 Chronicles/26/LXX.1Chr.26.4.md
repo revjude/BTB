@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 26:4** 
 <small><sub>**LXX:**</sub></small>
 And  to Obed Edom sons -- Shemaiah the first-born, Jehozabad the second, Joah the third, Sacar the fourth, Nethaneel the fifth, 
-<small><sub>**KJV:**</sub></small>
-Moreover the sons of Obededom [were], Shemaiah the firstborn, Jehozabad the second, Joah the third, and Sacar the fourth, and Nethaneel the fifth,
-<small><sub>**BSB:**</sub></small>
-And Obed-edom also had sons: Shemaiah the firstborn, Jehozabad the second, Joah the third, Sachar the fourth, Nethanel the fifth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.3|<< 1 Chronicles 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.5|1 Chronicles 26:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 5:31
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:31**<big><big>[[Luke.5.27 Jesus Calls Levi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answering said unto them, They that are whole need not a physician; but they that are sick.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “It is not the healthy who need a doctor, but the sick.
 <small><sub>**Literal:**</sub></small>
 And answering <the> Jesus said to them; No need have those being well of a physician but those sick being.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.30|<< Luke 5:30]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.32|Luke 5:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

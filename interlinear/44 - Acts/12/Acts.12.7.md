@@ -1,12 +1,12 @@
-**Acts 12:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:7**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, the angel of the Lord came upon [him], and a light shined in the prison: and he smote Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from [his] hands.
 <small><sub>**BSB:**</sub></small>
 Suddenly an angel of the Lord appeared and a light shone in the cell. He tapped Peter on the side and woke him up, saying, “Get up quickly.” And the chains fell off his wrists.
 <small><sub>**Literal:**</sub></small>
 And behold an angel of [the] Lord stood by and a light shone in the cell; Having struck then the side <the> of Peter he woke up him saying; do rise up with speed. And fell of him the chains off the hands.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.6|<< Acts 12:6]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.8|Acts 12:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

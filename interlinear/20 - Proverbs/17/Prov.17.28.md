@@ -1,4 +1,4 @@
-**Proverbs 17:28** 
+**Proverbs 17:28**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even a fool, when he holdeth his peace, is counted wise: [and] he that shutteth his lips [is esteemed] a man of understanding.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even a fool is considered wise if he keeps silent, and discerning when he holds 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.27|<< Proverbs 17:27]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.1|Proverbs 18:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֤ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a fool  |**<big>&#8207;[[H0191\|אֱוִ֣יל]]&#8207; </big>**| 'e.Vil<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

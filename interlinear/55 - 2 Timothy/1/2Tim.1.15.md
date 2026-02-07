@@ -1,12 +1,12 @@
-**2 Timothy 1:15
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 1:15**<big><big>[[2Tim.1.13 Holding to Sound Teaching|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This thou knowest, that all they which are in Asia be turned away from me; of whom are Phygellus and Hermogenes.
 <small><sub>**BSB:**</sub></small>
 You know that everyone in the Province of Asia has deserted me, including Phygelus and Hermogenes.
 <small><sub>**Literal:**</sub></small>
 You know this, that turned away from me all those in <the> Asia, among whom are Phygelus and Hermogenes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.14|<< 2 Timothy 1:14]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.16|2 Timothy 1:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You know |**<big>[[G6063\|Οἶδας]]</big>**  |Oidas <small><sup>[[V-RAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this, |**<big>[[G3778\|τοῦτο,]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

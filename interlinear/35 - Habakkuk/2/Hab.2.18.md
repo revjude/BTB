@@ -1,4 +1,4 @@
-**Habakkuk 2:18** 
+**Habakkuk 2:18**<big><big>[[Hab.2.6 Woe to the Chaldeans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What use is an idol, that a craftsman should carve it—or an image, a teacher o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.17|<< Habakkuk 2:17]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.19|Habakkuk 2:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מָֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | does it profit  |**<big>&#8207;[[H3276\|הוֹעִ֣יל]]&#8207; </big>**| ho.'Il<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

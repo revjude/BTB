@@ -1,4 +1,4 @@
-**Judges 1:18** 
+**Judges 1:18**<big><big>[[Judg.1.8 The Capture of Jerusalem and Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also Judah took Gaza with the coast thereof, and Askelon with the coast thereof, and Ekron with the coast thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Judah also captured Gaza, Ashkelon, and Ekron—each with its territory.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.17|<< Judges 1:17]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.19|Judges 1:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he captured  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3920\|יִּלְכֹּ֤ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yil.Kod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָה֙]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

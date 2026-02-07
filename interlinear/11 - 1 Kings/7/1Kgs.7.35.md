@@ -1,4 +1,4 @@
-**1 Kings 7:35** 
+**1 Kings 7:35**<big><big>[[1Kgs.7.27 The Ten Bronze Stands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the top of the base [was there] a round compass of half a cubit high: and on the top of the base the ledges thereof and the borders thereof [were] of the same.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the top of each stand was a circular band half a cubit high. The supports and
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.34|<< 1 Kings 7:34]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.36|1 Kings 7:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and at [the] top of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7218I\|רֹ֣אשׁ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the stand  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4350\|מְּכוֹנָ֗ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.kho.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

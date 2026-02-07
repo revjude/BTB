@@ -1,4 +1,4 @@
-**Psalms 2:7** 
+**Psalms 2:7**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will declare the decree: the LORD hath said unto me, Thou [art] my Son; this day have I begotten thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will proclaim the decree spoken to Me by the LORD: “You are My Son; today I 
 > $\quad$ referenced by: [[Matt.3.17|Matt 3:17]] ☩ [[Matt.17.5|Matt 17:5]] ☩ [[Mark.1.11|Mark 1:11]] ☩ [[Mark.9.7|Mark 9:7]] ☩ [[Luke.3.22|Luke 3:22]] ☩ [[Luke.9.25|Luke 9:25]] ☩ [[Acts.13.33|Acts 13:33]] ☩ [[Heb.1.5|Heb 1:5]] ☩ [[Heb.5.5|Heb 5:5]] ☩ [[2Pet.1.17|2Pet 1:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will recount  |**<big>&#8207;[[H5608A\|אֲסַפְּרָ֗ה]]&#8207; </big>**| 'a.sa.pe.Rah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | concerning  |**<big>&#8207;[[H0413\|אֶֽ֫ל]]&#8207; </big>**| 'el<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 38:21** 
+**Ezekiel 38:21**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will call for a sword against him throughout all my mountains, saith the Lord GOD: every man’s sword shall be against his brother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will summon a sword against Gog on all My mountains, declares the Lord GOD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.20|<< Ezekiel 38:20]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.22|Ezekiel 38:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will summon  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7121G\|קָרָ֨אתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ka.Ra.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on him  |**<big>&#8207;[[H5921A\|עָלָ֤י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

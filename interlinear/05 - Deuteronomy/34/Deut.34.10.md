@@ -1,4 +1,4 @@
-**Deuteronomy 34:10** 
+**Deuteronomy 34:10**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Since that time, no prophet has risen in Israel like Moses, whom the LORD knew f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.9|<< Deuteronomy 34:9]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.11|Deuteronomy 34:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has arisen  |**<big>&#8207;[[H6965B\|קָ֨ם]]&#8207; </big>**| kam<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

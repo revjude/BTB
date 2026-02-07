@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:12** 
 <small><sub>**LXX:**</sub></small>
 And the woman said, your maidservant speak indeed to  my master the king a thing! And he said, Speak! 
-<small><sub>**KJV:**</sub></small>
-Then the woman said, Let thine handmaid, I pray thee, speak [one] word unto my lord the king. And he said, Say on.
-<small><sub>**BSB:**</sub></small>
-Then the woman said, “Please, may your servant speak a word to my lord the king?” “Speak,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.11|<< 2 Samuel 14:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.13|2 Samuel 14:13 >>]]</td></tr></table>
 
 | Translation | Greek |

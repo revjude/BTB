@@ -1,4 +1,4 @@
-**2 Samuel 18:33** (19:1)
+**2 Samuel 18:33**<big><big>[[2Sam.18.19 David Mourns for Absalom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king was much moved, and went up to the chamber over the gate, and wept: and as he went, thus he said, O my son Absalom, my son, my son Absalom! would God I had died for thee, O Absalom, my son, my son!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The king was shaken and went up to the chamber over the gate and wept. And as he
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.32|<< 2 Samuel 18:32]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.1|2 Samuel 19:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was agitated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7264\|יִּרְגַּ֣ז]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.Gaz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֗לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

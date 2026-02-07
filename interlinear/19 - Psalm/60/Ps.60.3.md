@@ -1,4 +1,4 @@
-**Psalms 60:3** (60:5)
+**Psalms 60:3**<big><big>[[Ps.60.1 Victory with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast shewed thy people hard things: thou hast made us to drink the wine of astonishment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have shown Your people hardship; we are staggered from the wine You made us 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.60.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.2|<< Psalms 60:2]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.4|Psalms 60:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have made see  |**<big>&#8207;[[H7200G\|הִרְאִ֣יתָה]]&#8207; </big>**| hir.'I.tah<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people your  |**<big>&#8207;[[H5971A\|עַמְּ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| 'a.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

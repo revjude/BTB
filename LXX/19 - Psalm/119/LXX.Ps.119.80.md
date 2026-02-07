@@ -1,10 +1,7 @@
 **LXX Psalm 119:80** 
 <small><sub>**LXX:**</sub></small>
 my heart become unblemished in  your ordinances! so that I should not be shamed. 
-<small><sub>**KJV:**</sub></small>
-Let my heart be sound in thy statutes; that I be not ashamed.
-<small><sub>**BSB:**</sub></small>
-May my heart be blameless in Your statutes, that I may not be put to shame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.80|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.79|<< Psalm 119:79]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.81|Psalm 119:81 >>]]</td></tr></table>
 
 | Translation | Greek |

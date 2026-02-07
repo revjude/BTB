@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:28** 
 <small><sub>**LXX:**</sub></small>
 And the report came unto Joab son of Zeruiah; for Joab was leaning after Adonijah, but he did not turn aside after Solomon. And Joab fled to the tent of the <span class="smallcaps">lord</span>, and held the horns of the altar. 
-<small><sub>**KJV:**</sub></small>
-Then tidings came to Joab: for Joab had turned after Adonijah, though he turned not after Absalom. And Joab fled unto the tabernacle of the LORD, and caught hold on the horns of the altar.
-<small><sub>**BSB:**</sub></small>
-When the news reached Joab, who had conspired with Adonijah but not with Absalom, he fled to the tent of the LORD and took hold of the horns of the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.27|<< 1 Kings 2:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.29|1 Kings 2:29 >>]]</td></tr></table>
 
 | Translation | Greek |

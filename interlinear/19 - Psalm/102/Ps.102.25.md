@@ -1,4 +1,4 @@
-**Psalms 102:25** (102:26)
+**Psalms 102:25**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of old hast thou laid the foundation of the earth: and the heavens [are] the work of thy hands.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ In the beginning You laid the foundations of the earth, and the heavens are the 
 > $\quad$ referenced by: [[Heb.1.10|Heb 1:10-12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> before  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H6440G\|פָנִים]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> fa.nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֣רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

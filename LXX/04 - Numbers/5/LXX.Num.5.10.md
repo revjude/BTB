@@ -1,10 +1,7 @@
 **LXX Numbers 5:10** 
 <small><sub>**LXX:**</sub></small>
 And the \[things\] of each \[man\] having been sanctified it will be his; and a man, who ever should give \[anything\] to the priest, to him it will be \[his\]. 
-<small><sub>**KJV:**</sub></small>
-And every man’s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his.
-<small><sub>**BSB:**</sub></small>
-Each man’s sacred gifts are his own, but whatever he gives to the priest will belong to the priest.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.9|<< Numbers 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.11|Numbers 5:11 >>]]</td></tr></table>
 
 | Translation | Greek |

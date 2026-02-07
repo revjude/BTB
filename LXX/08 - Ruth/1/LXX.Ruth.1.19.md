@@ -1,10 +1,7 @@
 **LXX Ruth 1:19** 
 <small><sub>**LXX:**</sub></small>
 And both went until  their arriving in Beth-lehem. And it came to pass in  their coming unto Beth-lehem, that all the city resounded concerning them. And they said, Is this Naomi? 
-<small><sub>**KJV:**</sub></small>
-So they two went until they came to Bethlehem. And it came to pass, when they were come to Bethlehem, that all the city was moved about them, and they said, [Is] this Naomi?
-<small><sub>**BSB:**</sub></small>
-So Naomi and Ruth traveled until they came to Bethlehem. When they entered Bethlehem, the whole town was stirred because of them, and the women of the town exclaimed, “Can this be Naomi?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.18|<< Ruth 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.20|Ruth 1:20 >>]]</td></tr></table>
 
 | Translation | Greek |

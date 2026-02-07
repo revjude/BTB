@@ -1,12 +1,12 @@
-**Mark 3:8
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:8**<big><big>[[Mark.3.7 Jesus Heals the Multitudes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And from Jerusalem, and from Idumaea, and [from] beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him.
 <small><sub>**BSB:**</sub></small>
 Jerusalem, Idumea, the region beyond the Jordan, and the vicinity of Tyre and Sidon. The large crowd came to Him when they heard what great things He was doing.
 <small><sub>**Literal:**</sub></small>
 and from Jerusalem and from <the> Idumea and beyond the Jordan and <the> around Tyre and Sidon, A multitude great having heard as much as He was doing came to Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.7|<< Mark 3:7]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.9|Mark 3:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 33:3** 
+**Jeremiah 33:3**<big><big>[[Jer.33.1 The Excellence of the Restored Nation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Call unto me, and I will answer thee, and shew thee great and mighty things, which thou knowest not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Call to Me, and I will answer and show you great and unsearchable things you do 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.2|<< Jeremiah 33:2]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.4|Jeremiah 33:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | call  |**<big>&#8207;[[H7121G\|קְרָ֥א]]&#8207; </big>**| ke.Ra'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

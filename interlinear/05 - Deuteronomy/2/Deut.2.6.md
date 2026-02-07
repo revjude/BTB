@@ -1,4 +1,4 @@
-**Deuteronomy 2:6** 
+**Deuteronomy 2:6**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall buy meat of them for money, that ye may eat; and ye shall also buy water of them for money, that ye may drink.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to pay them in silver for the food you eat and the water you drink.’�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.5|<< Deuteronomy 2:5]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.7|Deuteronomy 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | food  |**<big>&#8207;[[H0400\|אֹ֣כֶל]]&#8207; </big>**| 'O.khel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will buy  |**<big>&#8207;[[H7666\|תִּשְׁבְּר֧וּ]]&#8207; </big>**| tish.be.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

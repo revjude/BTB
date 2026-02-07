@@ -1,4 +1,4 @@
-**2 Samuel 17:12** 
+**2 Samuel 17:12**<big><big>[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall we come upon him in some place where he shall be found, and we will light upon him as the dew falleth on the ground: and of him and of all the men that [are] with him there shall not be left so much as one.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then we will attack David wherever we find him, and we will descend on him like 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.11|<< 2 Samuel 17:11]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.13|2 Samuel 17:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֣אנוּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va.nu<small><sup>[[HVqq1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | against him  |**<big>&#8207;[[H0413\|אֵלָ֗י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

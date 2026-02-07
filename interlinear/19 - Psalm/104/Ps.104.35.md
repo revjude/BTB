@@ -1,4 +1,4 @@
-**Psalms 104:35** 
+**Psalms 104:35**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the LORD, O my soul. Praise ye the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May sinners vanish from the earth and the wicked be no more. Bless the LORD, O m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.34|<< Psalms 104:34]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.1|Psalms 105:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them be destroyed  |**<big>&#8207;[[H8552\|יִתַּ֤מּוּ]]&#8207; </big>**| yi.Ta.mu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sinners  |**<big>&#8207;[[H2400\|חַטָּאִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| cha.ta.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

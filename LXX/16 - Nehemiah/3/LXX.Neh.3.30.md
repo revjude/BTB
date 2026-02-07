@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:30** 
 <small><sub>**LXX:**</sub></small>
 And after him Hananiah repaired, son of Shelemiah, and Hanun son of Zalaph the sixth \[son\], a second measured \[section\]. And after him Meshullam repaired, son of Barechiah right opposite his treasury. 
-<small><sub>**KJV:**</sub></small>
-After him repaired Hananiah the son of Shelemiah, and Hanun the sixth son of Zalaph, another piece. After him repaired Meshullam the son of Berechiah over against his chamber.
-<small><sub>**BSB:**</sub></small>
-Next to him, Hananiah son of Shelemiah, as well as Hanun the sixth son of Zalaph, repaired another section. Next to them, Meshullam son of Berechiah made repairs opposite his own quarters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.29|<< Nehemiah 3:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.31|Nehemiah 3:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,10 @@
 (KJV) **Exodus 27**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26|<< Exodus 26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28|Exodus 28 >>]]</td></tr></table>
 
-***The Bronze Altar***&emsp;<small><sup>\[ [[Exod.38|Exodus 38:1–7]] ]</sup></small> ^bsb220
+<big><big>[[Exod.27.1 The Bronze Altar|⥃]]</big></big>***The Bronze Altar***&emsp;<small><sup>\[ [[Exod.38|Exodus 38:1–7]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Exod.27.1|1]]**<span class="endversemarker">]</span> And thou shalt make an altar \[of\] shittim wood<small><small>[^2]</small></small>, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof \[shall be\] three cubits. <span class="startversemarker">[</span>**[[Exod.27.2|2]]**<span class="endversemarker">]</span> And thou shalt make the horns of it upon the four corners thereof<small><small>[^3]</small></small>: his horns shall be of the same: and thou shalt overlay it with brass<small><small>[^4]</small></small>. <span class="startversemarker">[</span>**[[Exod.27.3|3]]**<span class="endversemarker">]</span> And thou shalt make his pans to receive his ashes, and his shovels<small><small>[^5]</small></small>, and his basons<small><small>[^6]</small></small>, and his fleshhooks<small><small>[^7]</small></small>, and his firepans<small><small>[^8]</small></small>: all the vessels thereof thou shalt make \[of\] brass. <span class="startversemarker">[</span>**[[Exod.27.4|4]]**<span class="endversemarker">]</span> And thou shalt make for it a grate of network<small><small>[^9]</small></small> \[of\] brass; and upon the net shalt thou make four brasen rings in the four corners thereof<small><small>[^10]</small></small>. <span class="startversemarker">[</span>**[[Exod.27.5|5]]**<span class="endversemarker">]</span> And thou shalt put it under the compass of the altar<small><small>[^11]</small></small> beneath, that the net may be even to the midst of the altar. <span class="startversemarker">[</span>**[[Exod.27.6|6]]**<span class="endversemarker">]</span> And thou shalt make staves for the altar<small><small>[^12]</small></small>, staves \[of\] shittim wood, and overlay them with brass. <span class="startversemarker">[</span>**[[Exod.27.7|7]]**<span class="endversemarker">]</span> And the staves shall be put into the rings, and the staves shall be upon the two sides of the altar, to bear it<small><small>[^13]</small></small>. <span class="startversemarker">[</span>**[[Exod.27.8|8]]**<span class="endversemarker">]</span> Hollow with boards shalt thou make it: as it was shewed<small><small>[^14]</small></small> thee in the mount, so shall they make \[it\].
 
-***The Courtyard***&emsp;<small><sup>\[ [[Exod.38|Exodus 38:9–20]] ]</sup></small> ^bsb221
+<big><big>[[Exod.27.9 The Courtyard|⥃]]</big></big>***The Courtyard***&emsp;<small><sup>\[ [[Exod.38|Exodus 38:9–20]] ]</sup></small>
 
  
 
@@ -16,7 +16,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Exod.27.16|16]]**<span class=
 
 $\quad$ <span class="startversemarker">[</span>**[[Exod.27.18|18]]**<span class="endversemarker">]</span> [¶]The length of the court<small><small>[^22]</small></small> \[shall be\] an hundred cubits, and the breadth fifty every where<small><small>[^23]</small></small>, and the height five cubits \[of\] fine twined linen, and their sockets \[of\] brass. <span class="startversemarker">[</span>**[[Exod.27.19|19]]**<span class="endversemarker">]</span> All the vessels of the tabernacle in all the service thereof, and all the pins thereof<small><small>[^24]</small></small>, and all the pins of the court, \[shall be of\] brass.
 
-***The Oil for the Lamps***&emsp;<small><sup>\[ [[Lev.24|Leviticus 24:1–4]] ]</sup></small> ^bsb222
+<big><big>[[Exod.27.20 The Oil for the Lamps|⥃]]</big></big>***The Oil for the Lamps***&emsp;<small><sup>\[ [[Lev.24|Leviticus 24:1–4]] ]</sup></small>
 
  
 

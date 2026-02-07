@@ -1,10 +1,7 @@
 **LXX Exodus 3:3** 
 <small><sub>**LXX:**</sub></small>
 And Moses said, Going by I will see  this great vision. Why \[is it\] that the bush \[is\] not incinerated. 
-<small><sub>**KJV:**</sub></small>
-And Moses said, I will now turn aside, and see this great sight, why the bush is not burnt.
-<small><sub>**BSB:**</sub></small>
-So Moses thought, “I must go over and see this marvelous sight. Why is the bush not burning up?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.2|<< Exodus 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.4|Exodus 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

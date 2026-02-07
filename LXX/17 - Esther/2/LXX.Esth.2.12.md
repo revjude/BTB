@@ -1,10 +1,7 @@
 **LXX Esther 2:12** 
 <small><sub>**LXX:**</sub></small>
 For this was \[the\] time for a young woman to enter to the king, whenever she should have fulfilled twelve months, for thus \[are\] fulfilled the days of the treatment, six months with the aromatics and with the beauty treatments for the women, 
-<small><sub>**KJV:**</sub></small>
-Now when every maid’s turn was come to go in to king Ahasuerus, after that she had been twelve months, according to the manner of the women, (for so were the days of their purifications accomplished, [to wit], six months with oil of myrrh, and six months with sweet odours, and with [other] things for the purifying of the women;)
-<small><sub>**BSB:**</sub></small>
-In the twelve months before her turn to go to King Xerxes, the harem regulation required each young woman to receive beauty treatments with oil of myrrh for six months, and then with perfumes and cosmetics for another six months.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.11|<< Esther 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.13|Esther 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

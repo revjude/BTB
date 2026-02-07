@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:21** 
 <small><sub>**LXX:**</sub></small>
 And Elijah came near to all the people, and he said to them, For how long will you be lame upon both  your hams? If \[the\] <span class="smallcaps">lord</span> is  God, go after him! But if  Baal, go after him! And the people answered not a word. 
-<small><sub>**KJV:**</sub></small>
-And Elijah came unto all the people, and said, How long halt ye between two opinions? if the LORD [be] God, follow him: but if Baal, [then] follow him. And the people answered him not a word.
-<small><sub>**BSB:**</sub></small>
-Then Elijah approached all the people and said, “How long will you waver between two opinions? If the LORD is God, follow Him. But if Baal is God, follow him.” But the people did not answer a word.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.20|<< 1 Kings 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.22|1 Kings 18:22 >>]]</td></tr></table>
 
 | Translation | Greek |

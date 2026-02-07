@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:26** 
 <small><sub>**LXX:**</sub></small>
 And I will put them surrounding  my mountain; and I will give  rain according to its time -- a rain of blessing. 
-<small><sub>**KJV:**</sub></small>
-And I will make them and the places round about my hill a blessing; and I will cause the shower to come down in his season; there shall be showers of blessing.
-<small><sub>**BSB:**</sub></small>
-I will make them and the places around My hill a blessing. I will send down showers in season—showers of blessing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.25|<< Ezekiel 34:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.27|Ezekiel 34:27 >>]]</td></tr></table>
 
 | Translation | Greek |

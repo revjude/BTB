@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:16** 
 <small><sub>**LXX:**</sub></small>
 And Samuel said to Saul, Spare! and I will report to you what \[the\] <span class="smallcaps">lord</span> spoke to me \[in\] the night. And he said to him, Speak! 
-<small><sub>**KJV:**</sub></small>
-Then Samuel said unto Saul, Stay, and I will tell thee what the LORD hath said to me this night. And he said unto him, Say on.
-<small><sub>**BSB:**</sub></small>
-“Stop!” exclaimed Samuel. “Let me tell you what the LORD said to me last night.” “Tell me,” Saul replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.15|<< 1 Samuel 15:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.17|1 Samuel 15:17 >>]]</td></tr></table>
 
 | Translation | Greek |

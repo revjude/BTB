@@ -1,10 +1,7 @@
 **LXX Psalm 43:3** 
 <small><sub>**LXX:**</sub></small>
 Send out  your light, and  your truth! they guided me, and they led me to your holy mountain, and to  your tents. 
-<small><sub>**KJV:**</sub></small>
-O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.
-<small><sub>**BSB:**</sub></small>
-Send out Your light and Your truth; let them lead me. Let them bring me to Your holy mountain and to the place where You dwell.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.43.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.43.2|<< Psalm 43:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.43.4|Psalm 43:4 >>]]</td></tr></table>
 
 | Translation | Greek |

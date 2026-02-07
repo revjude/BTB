@@ -1,10 +1,7 @@
 **LXX Exodus 33:9** 
 <small><sub>**LXX:**</sub></small>
 And as Moses entered into the tent, the column of cloud came down and stood at the door of the tent, and he spoke to Moses. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended, and stood [at] the door of the tabernacle, and [the LORD] talked with Moses.
-<small><sub>**BSB:**</sub></small>
-As Moses entered the tent, the pillar of cloud would come down and remain at the entrance, and the LORD would speak with Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.8|<< Exodus 33:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.10|Exodus 33:10 >>]]</td></tr></table>
 
 | Translation | Greek |

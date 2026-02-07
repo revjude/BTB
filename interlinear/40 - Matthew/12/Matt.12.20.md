@@ -1,5 +1,5 @@
-**Matthew 12:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:20**<big><big>[[Matt.12.15 God’s Chosen Servant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 A bruised reed shall he not break, and smoking flax shall he not quench, till he send forth judgment unto victory.
 <small><sub>**BSB:**</sub></small>
 A bruised reed He will not break, and a smoldering wick He will not extinguish, till He leads justice to victory.
@@ -10,7 +10,7 @@ A reed bruised not He will break and a wick smoldering not He will quench until 
 > $\quad$ referencing: [[LXX.Isa.42.1|Isa 42:1-4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A reed |**<big>[[G2563\|κάλαμον]]</big>**  |kalamon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | bruised |**<big>[[G4937\|συντετριμμένον]]</big>**  |suntetrimmenon <small><sup>[[V-RPP-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

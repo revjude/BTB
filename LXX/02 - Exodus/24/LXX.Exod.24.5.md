@@ -1,10 +1,7 @@
 **LXX Exodus 24:5** 
 <small><sub>**LXX:**</sub></small>
 And he sent out the young men of the sons of Israel, and they offered whole burnt-offerings, and they sacrificed a sacrifice of deliverance  to God -- of young calves. 
-<small><sub>**KJV:**</sub></small>
-And he sent young men of the children of Israel, which offered burnt offerings, and sacrificed peace offerings of oxen unto the LORD.
-<small><sub>**BSB:**</sub></small>
-Then he sent out some young men of Israel, and they offered burnt offerings and sacrificed young bulls as peace offerings to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.4|<< Exodus 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.6|Exodus 24:6 >>]]</td></tr></table>
 
 | Translation | Greek |

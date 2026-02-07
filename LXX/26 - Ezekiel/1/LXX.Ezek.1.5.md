@@ -1,10 +1,7 @@
 **LXX Ezekiel 1:5** 
 <small><sub>**LXX:**</sub></small>
 And in the midst \[was\] as a likeness of four living creatures. And this \[is\] their vision -- a likeness of a man \[was\] unto them. 
-<small><sub>**KJV:**</sub></small>
-Also out of the midst thereof [came] the likeness of four living creatures. And this [was] their appearance; they had the likeness of a man.
-<small><sub>**BSB:**</sub></small>
-and within it was the form of four living creatures. And this was their appearance: They had a human form,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.4|<< Ezekiel 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.6|Ezekiel 1:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 1:5** is...

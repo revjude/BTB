@@ -1,4 +1,4 @@
-**Ecclesiastes 2:21** 
+**Ecclesiastes 2:21**<big><big>[[Eccl.2.18 The Futility of Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For there is a man whose labour [is] in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it [for] his portion. This also [is] vanity and a great evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When there is a man who has labored with wisdom, knowledge, and skill, and he mu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.20|<< Ecclesiastes 2:20]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.22|Ecclesiastes 2:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H3426\|יֵ֣שׁ]]&#8207; </big>**| yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

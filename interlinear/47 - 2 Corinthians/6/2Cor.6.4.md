@@ -1,12 +1,12 @@
-**2 Corinthians 6:4
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 6:4**<big><big>[[2Cor.6.1 Paul’s Hardships and God’s Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But in all [things] approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,
 <small><sub>**BSB:**</sub></small>
 Rather, as servants of God we commend ourselves in every way: in great endurance; in troubles, hardships, and calamities;
 <small><sub>**Literal:**</sub></small>
 rather in everything we are commending ourselves as God’s servants in endurance great, in tribulations, in hardships, in distresses,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.3|<< 2 Corinthians 6:3]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.5|2 Corinthians 6:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | rather |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

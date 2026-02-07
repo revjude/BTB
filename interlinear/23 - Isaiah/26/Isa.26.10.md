@@ -1,4 +1,4 @@
-**Isaiah 26:10** 
+**Isaiah 26:10**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let favour be shewed to the wicked, [yet] will he not learn righteousness: in the land of uprightness will he deal unjustly, and will not behold the majesty of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though grace is shown to the wicked man, he does not learn righteousness. In the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.9|<< Isaiah 26:9]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.11|Isaiah 26:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he is shown favor  |**<big>&#8207;[[H2603A\|יֻחַ֤ן]]&#8207; </big>**| yu.Chan<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wicked  |**<big>&#8207;[[H7563\|רָשָׁע֙]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

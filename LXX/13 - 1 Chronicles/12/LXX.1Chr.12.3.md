@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:3** 
 <small><sub>**LXX:**</sub></small>
 The ruler \[was\] Ahiezer, and Joash, \[the\] sons of Shemaah the Gibeathite, and Jeziel and Pelet sons of Azmaveth, and Berachah, and Jehu the Antothite, 
-<small><sub>**KJV:**</sub></small>
-The chief [was] Ahiezer, then Joash, the sons of Shemaah the Gibeathite; and Jeziel, and Pelet, the sons of Azmaveth; and Berachah, and Jehu the Antothite,
-<small><sub>**BSB:**</sub></small>
-Ahiezer their chief and Joash, who were the sons of Shemaah the Gibeathite; Jeziel and Pelet, the sons of Azmaveth; Beracah; Jehu the Anathothite;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.2|<< 1 Chronicles 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.4|1 Chronicles 12:4 >>]]</td></tr></table>
 
 | Translation | Greek |

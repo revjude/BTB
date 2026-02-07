@@ -1,4 +1,4 @@
-**Daniel 2:22** 
+**Daniel 2:22**<big><big>[[Dan.2.14 The Dream Revealed to Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He revealeth the deep and secret things: he knoweth what [is] in the darkness, and the light dwelleth with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He reveals the deep and hidden things; He knows what lies in darkness, and light
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.21|<< Daniel 2:21]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.23|Daniel 2:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1932\|ה֛וּא]]&#8207; </big>**| hu'<small><sup>[[APp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] revealing  |**<big>&#8207;[[H1541\|גָּלֵ֥א]]&#8207; </big>**| ga.Le'<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

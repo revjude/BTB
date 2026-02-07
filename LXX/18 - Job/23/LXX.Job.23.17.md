@@ -1,10 +1,7 @@
 **LXX Job 23:17** 
 <small><sub>**LXX:**</sub></small>
 For I knew not that darkness shall come upon me; and dimness covered before my face. 
-<small><sub>**KJV:**</sub></small>
-Because I was not cut off before the darkness, [neither] hath he covered the darkness from my face.
-<small><sub>**BSB:**</sub></small>
-Yet I am not silenced by the darkness, by the thick darkness that covers my face.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.23.16|<< Job 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.1|Job 24:1 >>]]</td></tr></table>
 
 | Translation | Greek |

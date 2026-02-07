@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:9** 
 <small><sub>**LXX:**</sub></small>
 For by wrongdoing they prophesy to you in  my name, and I sent them not, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-For they prophesy falsely unto you in my name: I have not sent them, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-For they are falsely prophesying to you in My name; I have not sent them, declares the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.8|<< Jeremiah 29:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.10|Jeremiah 29:10 >>]]</td></tr></table>
 
 | Translation | Greek |

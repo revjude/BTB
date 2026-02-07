@@ -1,10 +1,7 @@
 **LXX Ruth 4:10** 
 <small><sub>**LXX:**</sub></small>
 And indeed, Ruth the Moabitess, the wife of Mahlon I have acquired for myself for wife,  to raise up the name of the one having died, for  his inheritance, and the name of the one having died shall not be utterly destroyed from among  his brethren, and from the gate  of his place -- you \[are\] witnesses today. 
-<small><sub>**KJV:**</sub></small>
-Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye [are] witnesses this day.
-<small><sub>**BSB:**</sub></small>
-Moreover, I have acquired Ruth the Moabitess, Mahlon’s widow, as my wife, to raise up the name of the deceased through his inheritance, so that his name will not disappear from among his brothers or from the gate of his home. You are witnesses today.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.9|<< Ruth 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.11|Ruth 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

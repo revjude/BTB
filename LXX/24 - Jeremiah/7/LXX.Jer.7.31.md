@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:31** 
 <small><sub>**LXX:**</sub></small>
 And they built the shrine  of Tophet, which is in \[the\] ravine of \[the\] son of Hinnom,  to incinerate  their sons and  their daughters by fire; which I did not give charge to them, and did not consider in  my heart. 
-<small><sub>**KJV:**</sub></small>
-And they have built the high places of Tophet, which [is] in the valley of the son of Hinnom, to burn their sons and their daughters in the fire; which I commanded [them] not, neither came it into my heart.
-<small><sub>**BSB:**</sub></small>
-They have built the high places of Topheth in the Valley of Ben-hinnom so they could burn their sons and daughters in the fire—something I never commanded, nor did it even enter My mind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.30|<< Jeremiah 7:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.32|Jeremiah 7:32 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 5:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:17**<big><big>[[Matt.5.17 The Fulfillment of the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
 <small><sub>**BSB:**</sub></small>
 Do not think that I have come to abolish the Law or the Prophets. I have not come to abolish them, but to fulfill them.
 <small><sub>**Literal:**</sub></small>
 Not may think that I have come to abolish the law or the Prophets; not I have come to abolish but to fulfill.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.16|<< Matthew 5:16]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.18|Matthew 5:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|Μὴ]]</big>**  |Mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | may think |**<big>[[G3543\|νομίσητε]]</big>**  |nomisēte <small><sup>[[V-AAS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

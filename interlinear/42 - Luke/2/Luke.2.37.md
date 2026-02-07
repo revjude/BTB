@@ -1,12 +1,12 @@
-**Luke 2:37
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:37**<big><big>[[Luke.2.36 The Prophecy of Anna|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And she [was] a widow of about fourscore and four years, which departed not from the temple, but served [God] with fastings and prayers night and day.
 <small><sub>**BSB:**</sub></small>
 and then was a widow to the age of eighty-four. She never left the temple, but worshiped night and day, fasting and praying.
 <small><sub>**Literal:**</sub></small>
 and she [was] a widow until years eighty [and] four who not was departing from the temple with fastings and prayers serving night and day;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.36|<< Luke 2:36]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.38|Luke 2:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | she |**<big>[[G0846\|αὐτὴ]]</big>**  |autē <small><sup>[[P-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

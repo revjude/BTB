@@ -1,4 +1,4 @@
-**1 Kings 8:30** 
+**1 Kings 8:30**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And hearken thou to the supplication of thy servant, and of thy people Israel, when they shall pray toward this place: and hear thou in heaven thy dwelling place: and when thou hearest, forgive.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hear the plea of Your servant and of Your people Israel when they pray toward th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.29|<< 1 Kings 8:29]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.31|1 Kings 8:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will listen  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8085G\|שָׁ֨מַעְתָּ֜]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Sha.ma'.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

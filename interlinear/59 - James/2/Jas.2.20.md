@@ -1,12 +1,12 @@
-**James 2:20
-**<small><sub>**KJV:**</sub></small>
+**James 2:20**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But wilt thou know, O vain man, that faith without works is dead?
 <small><sub>**BSB:**</sub></small>
 O foolish man, do you want evidence that faith without deeds is worthless?
 <small><sub>**Literal:**</sub></small>
 Do you want however to come to know, O man foolish, that <the> faith apart from <the> works worthless is?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.19|<< James 2:19]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.21|James 2:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Do you want |**<big>[[G2309\|θέλεις]]</big>**  |theleis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

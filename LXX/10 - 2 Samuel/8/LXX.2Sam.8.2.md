@@ -1,10 +1,7 @@
 **LXX 2 Samuel 8:2** 
 <small><sub>**LXX:**</sub></small>
 And David struck  Moab, and he measured them \[out\] in measuring lines, resting them upon the ground; and there were the two measured out lines  to kill, and the fullness of the third measured out line he took alive. And Moab became  to David for servants bearing tribute. 
-<small><sub>**KJV:**</sub></small>
-And he smote Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And [so] the Moabites became David’s servants, [and] brought gifts.
-<small><sub>**BSB:**</sub></small>
-David also defeated the Moabites, made them lie down on the ground, and measured them off with a cord. He measured off with two lengths those to be put to death, and with one length those to be spared. So the Moabites became subject to David and brought him tribute.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.8.1|<< 2 Samuel 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.8.3|2 Samuel 8:3 >>]]</td></tr></table>
 
 | Translation | Greek |

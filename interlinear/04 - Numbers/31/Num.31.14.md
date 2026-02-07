@@ -1,4 +1,4 @@
-**Numbers 31:14** 
+**Numbers 31:14**<big><big>[[Num.31.1 Vengeance on Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses was wroth with the officers of the host, [with] the captains over thousands, and captains over hundreds, which came from the battle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Moses was angry with the officers of the army—the commanders of thousands 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.13|<< Numbers 31:13]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.15|Numbers 31:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was angry  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7107\|יִּקְצֹ֣ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Tzof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֔ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

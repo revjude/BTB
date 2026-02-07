@@ -1,4 +1,4 @@
-**Isaiah 28:16** 
+**Isaiah 28:16**<big><big>[[Isa.28.14 A Cornerstone in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD, Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner [stone], a sure foundation: he that believeth shall not make haste.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So this is what the Lord GOD says: “See, I lay a stone in Zion, a tested stone
 > $\quad$ referenced by: [[Acts.4.11|Acts 4:11]] ☩ [[Rom.10.11|Rom 10:11]] ☩ [[1Pet.2.6|1Pet 2:6]] ☩ [[Rom.9.33|Rom 9:33]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֤ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

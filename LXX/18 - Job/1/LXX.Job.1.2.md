@@ -1,10 +1,7 @@
 **LXX Job 1:2** 
 <small><sub>**LXX:**</sub></small>
 And there were to him seven sons and three daughters. 
-<small><sub>**KJV:**</sub></small>
-And there were born unto him seven sons and three daughters.
-<small><sub>**BSB:**</sub></small>
-He had seven sons and three daughters,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.1|<< Job 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.3|Job 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

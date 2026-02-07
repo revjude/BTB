@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:31** 
 <small><sub>**LXX:**</sub></small>
 And of the half tribe of Manasseh -- eighteen thousand, the ones being named by name  to come  to give reign to  David. 
-<small><sub>**KJV:**</sub></small>
-And of the half tribe of Manasseh eighteen thousand, which were expressed by name, to come and make David king.
-<small><sub>**BSB:**</sub></small>
-From the half-tribe of Manasseh: 18,000 designated by name to come and make David king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.30|<< 1 Chronicles 12:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.32|1 Chronicles 12:32 >>]]</td></tr></table>
 
 | Translation | Greek |

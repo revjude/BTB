@@ -1,4 +1,4 @@
-**Genesis 3:9** 
+**Genesis 3:9**<big><big>[[Gen.3.8 God Arraigns Adam and Eve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD God called unto Adam, and said unto him, Where [art] thou?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the LORD God called out to the man, “Where are you?”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.8|<< Genesis 3:8]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.10|Genesis 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקְרָ֛א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

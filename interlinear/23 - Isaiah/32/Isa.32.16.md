@@ -1,4 +1,4 @@
-**Isaiah 32:16** 
+**Isaiah 32:16**<big><big>[[Isa.32.9 The Women of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then judgment shall dwell in the wilderness, and righteousness remain in the fruitful field.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then justice will inhabit the wilderness, and righteousness will dwell in the fe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.15|<< Isaiah 32:15]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.17|Isaiah 32:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will dwell  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7931\|שָׁכַ֥ן]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Khan<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the wilderness  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4057B\|מִּדְבָּ֖ר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mid.Bar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Nahum 2:3** (2:4)
+**Nahum 2:3**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The shield of his mighty men is made red, the valiant men [are] in scarlet: the chariots [shall be] with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The shields of his mighty men are red; the valiant warriors are dressed in scarl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.2|<< Nahum 2:2]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.4|Nahum 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] shield of  |**<big>&#8207;[[H4043\|מָגֵ֨ן]]&#8207; </big>**| ma.Gen<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | warriors his  |**<big>&#8207;[[H1368\|גִּבֹּרֵ֜י]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| gi.bo.Rei.<small><sup>[[HNcmpc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 25:4** 
 <small><sub>**LXX:**</sub></small>
 For you became a helper to every humble city, and a protection to the ones depressed on account of lack; you shall rescue them from wicked men; a protection to the ones thirsting, and a \[fresh\] wind for men being wronged; 
-<small><sub>**KJV:**</sub></small>
-For thou hast been a strength to the poor, a strength to the needy in his distress, a refuge from the storm, a shadow from the heat, when the blast of the terrible ones [is] as a storm [against] the wall.
-<small><sub>**BSB:**</sub></small>
-For You have been a refuge for the poor, a stronghold for the needy in distress, a refuge from the storm, a shade from the heat. For the breath of the ruthless is like rain against a wall,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.25.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.3|<< Isaiah 25:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.25.5|Isaiah 25:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Romans 12:19
-**<small><sub>**KJV:**</sub></small>
+**Romans 12:19**<big><big>[[Rom.12.14 Forgiveness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Dearly beloved, avenge not yourselves, but [rather] give place unto wrath: for it is written, Vengeance [is] mine; I will repay, saith the Lord.
 <small><sub>**BSB:**</sub></small>
 Do not avenge yourselves, beloved, but leave room for God’s wrath. For it is written: “Vengeance is Mine; I will repay, says the Lord.”
@@ -10,7 +10,7 @@ never yourselves avenging, beloved, instead do give place <the> to wrath; it has
 > $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]] ☩ [[LXX.Deut.32.35|Deut 32:35]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | never |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | yourselves |**<big>[[G1438\|ἑαυτοὺς]]</big>**  |he'autous <small><sup>[[F-2APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

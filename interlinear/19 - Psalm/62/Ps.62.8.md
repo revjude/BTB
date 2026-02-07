@@ -1,4 +1,4 @@
-**Psalms 62:8** (62:9)
+**Psalms 62:8**<big><big>[[Ps.62.1 Waiting on God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Trust in him at all times; ye people, pour out your heart before him: God [is] a refuge for us. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Trust in Him at all times, O people; pour out your hearts before Him. God is our
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.62.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.7|<< Psalms 62:7]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.9|Psalms 62:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | trust  |**<big>&#8207;[[H0982\|בִּטְח֘וּ]]&#8207; </big>**| bit.Chu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> him  |**<big>&#8207;[[H9003\|ב֤]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| v<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

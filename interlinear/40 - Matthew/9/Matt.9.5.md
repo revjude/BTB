@@ -1,12 +1,12 @@
-**Matthew 9:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:5**<big><big>[[Matt.9.1 Jesus Heals a Paralytic|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For whether is easier, to say, [Thy] sins be forgiven thee; or to say, Arise, and walk?
 <small><sub>**BSB:**</sub></small>
 Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’?
 <small><sub>**Literal:**</sub></small>
 Which for is easier; to say; Are forgiven of you the sins, or to say; do arise and do walk?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.4|<< Matthew 9:4]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.6|Matthew 9:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Which |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

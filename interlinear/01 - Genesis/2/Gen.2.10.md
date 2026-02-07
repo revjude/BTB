@@ -1,4 +1,4 @@
-**Genesis 2:10** 
+**Genesis 2:10**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now a river flowed out of Eden to water the garden, and from there it branched i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.9|<< Genesis 2:9]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.11|Genesis 2:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a river  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5104H\|נָהָר֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] going out  |**<big>&#8207;[[H3318L\|יֹצֵ֣א]]&#8207; </big>**| yo.Tze'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Song of Solomon 1:7** 
+**Song of Solomon 1:7**<big><big>[[Song.1.5 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Tell me, O thou whom my soul loveth, where thou feedest, where thou makest [thy flock] to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Tell me, O one I love, where do you pasture your sheep? Where do you rest them a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1.6|<< Song of Solomon 1:6]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.8|Song of Solomon 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | tell !  |**<big>&#8207;[[H5046\|הַגִּ֣ידָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ha.Gi.da<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H9005\|לִּ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

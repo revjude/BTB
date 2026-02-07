@@ -1,10 +1,7 @@
 **LXX Ezekiel 46:8** 
 <small><sub>**LXX:**</sub></small>
 And in the entering, the one guiding shall enter by the way of the columned porch of the gate, and by  its way he shall come forth. 
-<small><sub>**KJV:**</sub></small>
-And when the prince shall enter, he shall go in by the way of the porch of [that] gate, and he shall go forth by the way thereof.
-<small><sub>**BSB:**</sub></small>
-When the prince enters, he shall go in through the portico of the gateway, and he shall go out the same way.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.7|<< Ezekiel 46:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.9|Ezekiel 46:9 >>]]</td></tr></table>
 
 | Translation | Greek |

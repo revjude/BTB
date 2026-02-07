@@ -1,10 +1,7 @@
 **LXX Amos 6:5** 
 <small><sub>**LXX:**</sub></small>
 the ones clapping along with the sound  of instruments; (as being established they considered them, and not as fleeting;) 
-<small><sub>**KJV:**</sub></small>
-That chant to the sound of the viol, [and] invent to themselves instruments of musick, like David;
-<small><sub>**BSB:**</sub></small>
-You improvise songs on the harp like David and invent your own musical instruments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.6.4|<< Amos 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.6.6|Amos 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 5:20** 
+**Exodus 5:20**<big><big>[[Exod.5.15 The Cry of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they met Moses and Aaron, who stood in the way, as they came forth from Pharaoh:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they left Pharaoh, they confronted Moses and Aaron, who stood waiting to me
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.19|<< Exodus 5:19]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.21|Exodus 5:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they met  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6293\|יִּפְגְּעוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.ge.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

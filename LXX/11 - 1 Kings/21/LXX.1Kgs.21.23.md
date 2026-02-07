@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:23** 
 <small><sub>**LXX:**</sub></small>
 And  to Jezebel \[the\] <span class="smallcaps">lord</span> spoke, saying, The dogs shall eat her in the area around the wall  of Jezreel. 
-<small><sub>**KJV:**</sub></small>
-And of Jezebel also spake the LORD, saying, The dogs shall eat Jezebel by the wall of Jezreel.
-<small><sub>**BSB:**</sub></small>
-And the LORD also speaks concerning Jezebel: ‘The dogs will devour Jezebel by the wall of Jezreel.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.22|<< 1 Kings 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.24|1 Kings 21:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Kings 21:23** is...

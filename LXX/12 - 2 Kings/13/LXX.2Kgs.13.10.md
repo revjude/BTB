@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In the thirtieth and seventh year  of Joash king of Judah, Joash son of Jehoahaz reigned over Israel in Samaria sixteen years. 
-<small><sub>**KJV:**</sub></small>
-In the thirty and seventh year of Joash king of Judah began Jehoash the son of Jehoahaz to reign over Israel in Samaria, [and reigned] sixteen years.
-<small><sub>**BSB:**</sub></small>
-In the thirty-seventh year of the reign of Joash over Judah, Jehoash son of Jehoahaz became king of Israel in Samaria, and he reigned sixteen years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.9|<< 2 Kings 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.11|2 Kings 13:11 >>]]</td></tr></table>
 
 | Translation | Greek |

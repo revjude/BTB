@@ -1,10 +1,7 @@
 **LXX Psalm 13:2** 
 <small><sub>**LXX:**</sub></small>
 Until what \[time\] shall I set plans in my soul, \[with\] griefs in my heart day and night? For how long my enemy be exalted over me? 
-<small><sub>**KJV:**</sub></small>
-How long shall I take counsel in my soul, [having] sorrow in my heart daily? how long shall mine enemy be exalted over me?
-<small><sub>**BSB:**</sub></small>
-How long must I wrestle in my soul, with sorrow in my heart each day? How long will my enemy dominate me?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.13.1|<< Psalm 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.13.3|Psalm 13:3 >>]]</td></tr></table>
 
 | Translation | Greek |

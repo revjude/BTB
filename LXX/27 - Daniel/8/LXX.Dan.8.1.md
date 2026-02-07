@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In \[the\] third year of the kingdom of Belshazzar the king, a vision appeared to me, I Daniel, after the appearing to me the beginning. 
-<small><sub>**KJV:**</sub></small>
-In the third year of the reign of king Belshazzar a vision appeared unto me, [even unto] me Daniel, after that which appeared unto me at the first.
-<small><sub>**BSB:**</sub></small>
-In the third year of the reign of King Belshazzar, a vision appeared to me, Daniel, subsequent to the one that had appeared to me earlier.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.28|<< Daniel 7:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.2|Daniel 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

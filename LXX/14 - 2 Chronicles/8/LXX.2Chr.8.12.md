@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 8:12** 
 <small><sub>**LXX:**</sub></small>
 Then Solomon offered whole burnt-offerings to the <span class="smallcaps">lord</span> upon the altar of \[the\] <span class="smallcaps">lord</span>, which he built before the temple, 
-<small><sub>**KJV:**</sub></small>
-Then Solomon offered burnt offerings unto the LORD on the altar of the LORD, which he had built before the porch,
-<small><sub>**BSB:**</sub></small>
-At that time Solomon offered burnt offerings to the LORD on the altar of the LORD he had built in front of the portico.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.11|<< 2 Chronicles 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.13|2 Chronicles 8:13 >>]]</td></tr></table>
 
 | Translation | Greek |

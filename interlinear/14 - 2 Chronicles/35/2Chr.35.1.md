@@ -1,4 +1,4 @@
-**2 Chronicles 35:1** 
+**2 Chronicles 35:1**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover Josiah kept a passover unto the LORD in Jerusalem: and they killed the passover on the fourteenth [day] of the first month.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Josiah kept the Passover to the LORD in Jerusalem, and the Passover lamb wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.33|<< 2 Chronicles 34:33]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.2|2 Chronicles 35:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he observed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֨עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Josiah  |**<big>&#8207;[[H2977G\|יֹאשִׁיָּ֧הוּ]]&#8207; </big>**| yo.shi.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

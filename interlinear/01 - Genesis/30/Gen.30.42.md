@@ -1,4 +1,4 @@
-**Genesis 30:42** 
+**Genesis 30:42**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when the cattle were feeble, he put [them] not in: so the feebler were Laban’s, and the stronger Jacob’s.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if the animals were weak, he did not set out the branches. So the weaker ani
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.41|<< Genesis 30:41]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.43|Genesis 30:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when was feeble  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5848C\|הַעֲטִ֥יף]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> ha.'a.Tif<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the sheep  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6629G\|צֹּ֖אן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Tzon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

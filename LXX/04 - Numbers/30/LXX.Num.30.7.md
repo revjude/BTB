@@ -1,10 +1,7 @@
 **LXX Numbers 30:7** 
 <small><sub>**LXX:**</sub></small>
 and her husband should hear, and should remain silent \[concerning\] her in which ever day he should hear, then thus shall stand all  her vows; and  her sets of limits which she confirmed on  her life shall stand. 
-<small><sub>**KJV:**</sub></small>
-And her husband heard [it,] and held his peace at her in the day that he heard [it]: then her vows shall stand, and her bonds wherewith she bound her soul shall stand.
-<small><sub>**BSB:**</sub></small>
-and her husband hears of it but says nothing to her on that day, then the vows or pledges by which she has bound herself shall stand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.30.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.6|<< Numbers 30:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.8|Numbers 30:8 >>]]</td></tr></table>
 
 | Translation | Greek |

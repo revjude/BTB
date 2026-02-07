@@ -1,10 +1,7 @@
 **LXX Judges 2:2** 
 <small><sub>**LXX:**</sub></small>
 And you shall not ordain a covenant with the ones lying in wait in  this land, nor in any way shall you do obeisance \[to\] their gods; but  their carved \[idols\] break, and  their altars raze! And you hearkened not to  my voice, nor did you do these \[things\]. 
-<small><sub>**KJV:**</sub></small>
-And ye shall make no league with the inhabitants of this land; ye shall throw down their altars: but ye have not obeyed my voice: why have ye done this?
-<small><sub>**BSB:**</sub></small>
-and you are not to make a covenant with the people of this land, but you shall tear down their altars.’ Yet you have not obeyed My voice. What is this you have done?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.1|<< Judges 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.3|Judges 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

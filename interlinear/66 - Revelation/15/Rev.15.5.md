@@ -1,12 +1,12 @@
-**Revelation 15:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 15:5**<big><big>[[Rev.15.5 Preparation for Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened:
 <small><sub>**BSB:**</sub></small>
 After this I looked, and the temple—the tabernacle of the Testimony—was opened in heaven.
 <small><sub>**Literal:**</sub></small>
 And after these things I looked and behold was opened the temple of the tabernacle of the testimony in <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.4|<< Revelation 15:4]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.6|Revelation 15:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | after |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:33** 
 <small><sub>**LXX:**</sub></small>
 And it happened as the rulers of the chariots saw that this is not \[the\] king of Israel, that they turned away from him. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the captains of the chariots perceived that it [was] not the king of Israel, that they turned back from pursuing him.
-<small><sub>**BSB:**</sub></small>
-And when the chariot commanders saw that he was not the king of Israel, they turned back from pursuing him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.32|<< 1 Kings 22:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.34|1 Kings 22:34 >>]]</td></tr></table>
 
 | Translation | Greek |

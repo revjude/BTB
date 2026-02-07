@@ -1,10 +1,7 @@
 **LXX Psalm 118:9** 
 <small><sub>**LXX:**</sub></small>
 \[It is\] good to hope upon \[the\] <span class="smallcaps">lord</span>, than to hope upon rulers. 
-<small><sub>**KJV:**</sub></small>
-[It is] better to trust in the LORD than to put confidence in princes.
-<small><sub>**BSB:**</sub></small>
-It is better to take refuge in the LORD than to trust in princes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.118.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.8|<< Psalm 118:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.10|Psalm 118:10 >>]]</td></tr></table>
 
 | Translation | Greek |

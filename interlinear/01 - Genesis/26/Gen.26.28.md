@@ -1,4 +1,4 @@
-**Genesis 26:28** 
+**Genesis 26:28**<big><big>[[Gen.26.26 Isaac’s Covenant with Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, We saw certainly that the LORD was with thee: and we said, Let there be now an oath betwixt us, [even] betwixt us and thee, and let us make a covenant with thee;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they said, We saw certainly that the LORD was with thee: and we said, Let th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.27|<< Genesis 26:27]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.29|Genesis 26:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to see>  |**<big>&#8207;[[H7200G\|רָא֣וֹ]]&#8207; </big>**| ra.'O<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

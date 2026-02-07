@@ -1,10 +1,7 @@
 **LXX Isaiah 39:3** 
 <small><sub>**LXX:**</sub></small>
 And Isaiah the prophet came to  king Hezekiah, and he said to him, What did these men say? And from what place have they come to you? And Hezekiah said, From a land at a distance -- they have come to me from Babylon. 
-<small><sub>**KJV:**</sub></small>
-Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto thee? And Hezekiah said, They are come from a far country unto me, [even] from Babylon.
-<small><sub>**BSB:**</sub></small>
-Then the prophet Isaiah went to King Hezekiah and asked, “Where did those men come from, and what did they say to you?” “They came to me from a distant land,” Hezekiah replied, “from Babylon.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.39.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.39.2|<< Isaiah 39:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.39.4|Isaiah 39:4 >>]]</td></tr></table>
 
 | Translation | Greek |

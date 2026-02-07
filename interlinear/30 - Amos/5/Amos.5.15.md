@@ -1,4 +1,4 @@
-**Amos 5:15** 
+**Amos 5:15**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hate the evil, and love the good, and establish judgment in the gate: it may be that the LORD God of hosts will be gracious unto the remnant of Joseph.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Hate evil and love good; establish justice in the gate. Perhaps the LORD, the Go
 > $\quad$ referenced by: [[Rom.12.9|Rom 12:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hate  |**<big>&#8207;[[H8130\|שִׂנְאוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| sin.'u-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | evil  |**<big>&#8207;[[H7451B\|רָע֙]]&#8207; </big>**| ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

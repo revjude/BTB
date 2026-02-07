@@ -1,5 +1,5 @@
-**Galatians 2:16
-**<small><sub>**KJV:**</sub></small>
+**Galatians 2:16**<big><big>[[Gal.2.11 Paul Confronts Cephas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.
 <small><sub>**BSB:**</sub></small>
 know that a man is not justified by works of the law, but by faith in Jesus Christ. So we, too, have believed in Christ Jesus, that we may be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.
@@ -10,7 +10,7 @@ knowing then that not is justified a man by works of law only except through fai
 > $\quad$ alluding to: [[LXX.Ps.143.2|Ps 143:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | knowing |**<big>[[G6063\|εἰδότες]]</big>**  |eidotes <small><sup>[[V-RAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

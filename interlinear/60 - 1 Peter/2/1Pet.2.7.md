@@ -1,5 +1,5 @@
-**1 Peter 2:7
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:7**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Unto you therefore which believe [he is] precious: but unto them which be disobedient, the stone which the builders disallowed, the same is made the head of the corner,
 <small><sub>**BSB:**</sub></small>
 To you who believe, then, this stone is precious. But to those who do not believe, “The stone the builders rejected has become the cornerstone,”
@@ -10,7 +10,7 @@ To you therefore [is] the preciousness of those believing; [for those] disbeliev
 > $\quad$ referencing: [[LXX.Ps.118.22|Ps 118:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To you |**<big>[[G4771\|ὑμῖν]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [is] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

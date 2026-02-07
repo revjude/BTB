@@ -1,12 +1,12 @@
-**Luke 10:40
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:40**<big><big>[[Luke.10.38 Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Martha was cumbered about much serving, and came to him, and said, Lord, dost thou not care that my sister hath left me to serve alone? bid her therefore that she help me.
 <small><sub>**BSB:**</sub></small>
 But Martha was distracted by all the preparations to be made. She came to Jesus and said, “Lord, do You not care that my sister has left me to serve alone? Tell her to help me!”
 <small><sub>**Literal:**</sub></small>
 <the> But Martha was distracted about much service. having come up now she said; Lord, not is it concerning to You that the sister of mine alone me has left to serve? do speak therefore to her that me she may help!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.39|<< Luke 10:39]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.41|Luke 10:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

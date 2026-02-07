@@ -1,10 +1,7 @@
 **LXX Exodus 15:25** 
 <small><sub>**LXX:**</sub></small>
 And Moses yelled to \[the\] <span class="smallcaps">lord</span>. And the <span class="smallcaps">lord</span> showed to him a tree. And he put it into the water, and the water was sweetened. There he established with him ordinances and judgments, and there he tested him. 
-<small><sub>**KJV:**</sub></small>
-And he cried unto the LORD; and the LORD shewed him a tree, [which] when he had cast into the waters, the waters were made sweet: there he made for them a statute and an ordinance, and there he proved them,
-<small><sub>**BSB:**</sub></small>
-And Moses cried out to the LORD, and the LORD showed him a log. And when he cast it into the waters, they were sweetened. There the LORD made for them a statute and an ordinance, and there He tested them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.24|<< Exodus 15:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.26|Exodus 15:26 >>]]</td></tr></table>
 
 | Translation | Greek |

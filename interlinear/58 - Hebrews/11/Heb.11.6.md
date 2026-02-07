@@ -1,12 +1,12 @@
-**Hebrews 11:6
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:6**<big><big>[[Heb.11.4 The Faith of Abel, Enoch, Noah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But without faith [it is] impossible to please [him]: for he that cometh to God must believe that he is, and [that] he is a rewarder of them that diligently seek him.
 <small><sub>**BSB:**</sub></small>
 And without faith it is impossible to please God. For anyone who approaches Him must believe that He exists and that He rewards those who earnestly seek Him.
 <small><sub>**Literal:**</sub></small>
 Without now faith [it is] impossible to please [Him]; To believe for it behooves the one drawing near <the> to God that He exists and [that] to those earnestly seeking out Him a rewarder He becomes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.5|<< Hebrews 11:5]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.7|Hebrews 11:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Without |**<big>[[G5565\|χωρὶς]]</big>**  |chōris <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**Mark 12:32
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:32**<big><big>[[Mark.12.28 The Greatest Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the scribe said unto him, Well, Master, thou hast said the truth: for there is one God; and there is none other but he:
 <small><sub>**BSB:**</sub></small>
 “Right, Teacher,” the scribe replied. “You have stated correctly that God is One and there is no other but Him,
@@ -10,7 +10,7 @@ And said to Him the scribe; Right, Teacher, according to truth You have spoken t
 > $\quad$ referencing: [[LXX.Deut.4.35|Deut 4:35]] ☩ [[LXX.Deut.6.4|Deut 6:4]] ☩ [[LXX.Isa.45.21|Isa 45:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

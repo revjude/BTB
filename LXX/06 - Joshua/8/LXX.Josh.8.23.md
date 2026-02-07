@@ -1,10 +1,7 @@
 **LXX Joshua 8:23** 
 <small><sub>**LXX:**</sub></small>
 And the king  of Ai was seized alive, and they led him to Joshua. 
-<small><sub>**KJV:**</sub></small>
-And the king of Ai they took alive, and brought him to Joshua.
-<small><sub>**BSB:**</sub></small>
-But they took the king of Ai alive and brought him to Joshua.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.22|<< Joshua 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.24|Joshua 8:24 >>]]</td></tr></table>
 
 | Translation | Greek |

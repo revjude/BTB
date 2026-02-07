@@ -1,4 +1,4 @@
-**Jeremiah 27:17** 
+**Jeremiah 27:17**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hearken not unto them; serve the king of Babylon, and live: wherefore should this city be laid waste?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not listen to them. Serve the king of Babylon and live! Why should this city 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.16|<< Jeremiah 27:16]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.18|Jeremiah 27:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you listen  |**<big>&#8207;[[H8085G\|תִּשְׁמְע֣וּ]]&#8207; </big>**| tish.me.'U<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

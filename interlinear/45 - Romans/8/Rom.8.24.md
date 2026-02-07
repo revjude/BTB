@@ -1,12 +1,12 @@
-**Romans 8:24
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:24**<big><big>[[Rom.8.18 Future Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?
 <small><sub>**BSB:**</sub></small>
 For in this hope we were saved; but hope that is seen is no hope at all. Who hopes for what he can already see?
 <small><sub>**Literal:**</sub></small>
 In this for hope we were saved; hope however being seen not is hope; what for sees any why also does he hope for [it]?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.23|<< Romans 8:23]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.25|Romans 8:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In this |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

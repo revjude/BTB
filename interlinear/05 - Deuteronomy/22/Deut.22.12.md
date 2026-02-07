@@ -1,4 +1,4 @@
-**Deuteronomy 22:12** 
+**Deuteronomy 22:12**<big><big>[[Deut.22.1 Various Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest [thyself].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to make tassels on the four corners of the cloak you wear.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.11|<< Deuteronomy 22:11]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.13|Deuteronomy 22:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | tassels  |**<big>&#8207;[[H1434\|גְּדִלִ֖ים]]&#8207; </big>**| ge.di.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will make  |**<big>&#8207;[[H6213H\|תַּעֲשֶׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ta.'a.seh-<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**1 Corinthians 15:55
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:55**<big><big>[[1Cor.15.50 Where, O Death, Is Your Victory？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 O death, where [is] thy sting? O grave, where [is] thy victory?
 <small><sub>**BSB:**</sub></small>
 “Where, O Death, is your victory? Where, O Death, is your sting?”
@@ -10,7 +10,7 @@ Where of you, O death, the victory Where of you, O death, the sting<br><table wi
 > $\quad$ referencing: [[LXX.Hos.13.14|Hos 13:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Where |**<big>[[G4226\|ποῦ]]</big>**  |pou <small><sup>[[ADV-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of you, |**<big>[[G4771\|σου,]]</big>**  |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

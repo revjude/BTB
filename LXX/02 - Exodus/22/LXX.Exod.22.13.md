@@ -1,10 +1,7 @@
 **LXX Exodus 22:13** 
 <small><sub>**LXX:**</sub></small>
 And if it should be taken by wild beasts, he shall lead him to the game, and he shall not pay. 
-<small><sub>**KJV:**</sub></small>
-If it be torn in pieces, [then] let him bring it [for] witness, [and] he shall not make good that which was torn.
-<small><sub>**BSB:**</sub></small>
-If the animal was torn to pieces, he shall bring it as evidence; he need not make restitution for the torn carcass.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.12|<< Exodus 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.14|Exodus 22:14 >>]]</td></tr></table>
 
 | Translation | Greek |

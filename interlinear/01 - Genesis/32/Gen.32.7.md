@@ -1,4 +1,4 @@
-**Genesis 32:7** (32:8)
+**Genesis 32:7**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jacob was greatly afraid and distressed: and he divided the people that [was] with him, and the flocks, and herds, and the camels, into two bands;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In great fear and distress, Jacob divided his people into two camps, as well as 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.6|<< Genesis 32:6]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.8|Genesis 32:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was afraid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3372G\|יִּירָ֧א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֛ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

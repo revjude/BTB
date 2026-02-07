@@ -1,12 +1,12 @@
-**Romans 7:25
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:25**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.
 <small><sub>**BSB:**</sub></small>
 Thanks be to God, through Jesus Christ our Lord! So then, with my mind I serve the law of God, but with my flesh I serve the law of sin.
 <small><sub>**Literal:**</sub></small>
 Thanks [be] then <the> to God through Jesus Christ the Lord of us! Then so myself I myself with the indeed mind serve law of God <the> but [with] the flesh [the] law of sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.24|<< Romans 7:24]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.1|Romans 8:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thanks [be] [^1] [^2] |**<big>[[G5485\|χάρις]]</big>**  |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+SBL+WH+Treg">N(K)O</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+WH">no</abbr> | |

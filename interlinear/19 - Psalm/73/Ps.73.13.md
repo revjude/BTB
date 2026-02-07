@@ -1,4 +1,4 @@
-**Psalms 73:13** 
+**Psalms 73:13**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Verily I have cleansed my heart [in] vain, and washed my hands in innocency.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely in vain I have kept my heart pure; in innocence I have washed my hands.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.12|<< Psalms 73:12]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.14|Psalms 73:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | surely  |**<big>&#8207;[[H0389\|אַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'akh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | vanity  |**<big>&#8207;[[H7385\|רִ֭יק]]&#8207; </big>**| rik<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

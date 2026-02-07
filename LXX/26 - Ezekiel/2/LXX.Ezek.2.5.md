@@ -1,10 +1,7 @@
 **LXX Ezekiel 2:5** 
 <small><sub>**LXX:**</sub></small>
 If it is so that they should hearken or be terrified, for it is a rebellious house, yet shall they know that you are a prophet in \[the\] midst of them. 
-<small><sub>**KJV:**</sub></small>
-And they, whether they will hear, or whether they will forbear, (for they [are] a rebellious house,) yet shall know that there hath been a prophet among them.
-<small><sub>**BSB:**</sub></small>
-And whether they listen or refuse to listen—for they are a rebellious house—they will know that a prophet has been among them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.2.4|<< Ezekiel 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.2.6|Ezekiel 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

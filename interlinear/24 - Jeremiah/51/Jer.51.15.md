@@ -1,4 +1,4 @@
-**Jeremiah 51:15** 
+**Jeremiah 51:15**<big><big>[[Jer.51.15 Praise to the God of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath made the earth by his power, he hath established the world by his wisdom, and hath stretched out the heaven by his understanding.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD made the earth by His power; He established the world by His wisdom and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.14|<< Jeremiah 51:14]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.16|Jeremiah 51:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he] made  |**<big>&#8207;[[H6213H\|עֹשֵׂ֥ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] earth  |**<big>&#8207;[[H0776G\|אֶ֙רֶץ֙]]&#8207; </big>**| 'e.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 77:6** (77:7)
+**Psalms 77:6**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At night I remembered my song; in my heart I mused, and my spirit pondered:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.5|<< Psalms 77:5]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.7|Psalms 77:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will remember  |**<big>&#8207;[[H2142\|אֶֽזְכְּרָ֥ה]]&#8207; </big>**| 'ez.ke.Rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | song my  |**<big>&#8207;[[H5058\|נְגִינָתִ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ne.gi.na.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

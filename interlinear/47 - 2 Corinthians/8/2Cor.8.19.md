@@ -1,12 +1,12 @@
-**2 Corinthians 8:19
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:19**<big><big>[[2Cor.8.16 Titus Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And not [that] only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and [declaration of] your ready mind:
 <small><sub>**BSB:**</sub></small>
 More than that, this brother was chosen by the churches to accompany us with the gracious offering we administer to honor the Lord Himself and to show our eagerness to help.
 <small><sub>**Literal:**</sub></small>
 not only now, but also having been chosen by the churches fellow traveler of us with <the> grace this that [is] being administered by us toward the himself of the Lord glory and readiness of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.18|<< 2 Corinthians 8:18]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.20|2 Corinthians 8:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | only |**<big>[[G3441\|μόνον]]</big>**  |monon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

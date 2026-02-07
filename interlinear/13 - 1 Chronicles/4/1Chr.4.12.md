@@ -1,4 +1,4 @@
-**1 Chronicles 4:12** 
+**1 Chronicles 4:12**<big><big>[[1Chr.4.11 More Descendants of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Eshton begat Bethrapha, and Paseah, and Tehinnah the father of Irnahash. These [are] the men of Rechah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Eshton was the father of Beth-rapha, of Paseah, and of Tehinnah the father of Ir
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.11|<< 1 Chronicles 4:11]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.13|1 Chronicles 4:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Eshton  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0850\|אֶשְׁתּ֗וֹן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'esh.Ton<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֞יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

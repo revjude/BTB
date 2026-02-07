@@ -1,4 +1,4 @@
-**Deuteronomy 28:53** 
+**Deuteronomy 28:53**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters, which the LORD thy God hath given thee, in the siege, and in the straitness, wherewith thine enemies shall distress thee:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will eat the fruit of your womb, the flesh of the sons and daughters wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.52|<< Deuteronomy 28:52]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.54|Deuteronomy 28:54 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will eat  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0398\|אָכַלְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.khal.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] fruit of  |**<big>&#8207;[[H6529\|פְרִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| fe.ri-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 29:20** 
+**Isaiah 29:20**<big><big>[[Isa.29.17 Sanctification for the Godly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the terrible one is brought to nought, and the scorner is consumed, and all that watch for iniquity are cut off:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the ruthless will vanish, the mockers will disappear, and all who look for e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.19|<< Isaiah 29:19]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.21|Isaiah 29:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will come to an end  |**<big>&#8207;[[H0656\|אָפֵ֥ס]]&#8207; </big>**| 'a.Fes<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:20** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the morning of \[the\] ascending of the sacrifice, that behold, waters came from out of \[the\] way of Edom, and the earth was filled of the waters. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the morning, when the meat offering was offered, that, behold, there came water by the way of Edom, and the country was filled with water.
-<small><sub>**BSB:**</sub></small>
-The next morning, at the time of the morning sacrifice, water suddenly flowed from the direction of Edom and filled the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.19|<< 2 Kings 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.21|2 Kings 3:21 >>]]</td></tr></table>
 
 | Translation | Greek |

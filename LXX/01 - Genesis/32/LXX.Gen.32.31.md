@@ -1,10 +1,7 @@
 **LXX Genesis 32:31** 
 <small><sub>**LXX:**</sub></small>
 And the sun arose to him when he went by the form  of God, but he was limping in his thigh. 
-<small><sub>**KJV:**</sub></small>
-And as he passed over Penuel the sun rose upon him, and he halted upon his thigh.
-<small><sub>**BSB:**</sub></small>
-The sun rose above him as he passed by Penuel, and he was limping because of his hip.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.30|<< Genesis 32:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.32|Genesis 32:32 >>]]</td></tr></table>
 
 | Translation | Greek |

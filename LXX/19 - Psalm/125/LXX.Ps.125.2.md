@@ -1,10 +1,7 @@
 **LXX Psalm 125:2** 
 <small><sub>**LXX:**</sub></small>
 \[The\] mountains \[are\] round about her, and the <span class="smallcaps">lord</span> \[is\] round about  his people, from the present and unto the eon. 
-<small><sub>**KJV:**</sub></small>
-[As] the mountains [are] round about Jerusalem, so the LORD [is] round about his people from henceforth even for ever.
-<small><sub>**BSB:**</sub></small>
-As the mountains surround Jerusalem, so the LORD surrounds His people, both now and forevermore.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.125.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.125.1|<< Psalm 125:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.125.3|Psalm 125:3 >>]]</td></tr></table>
 
 | Translation | Greek |

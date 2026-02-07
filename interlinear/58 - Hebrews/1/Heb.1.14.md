@@ -1,12 +1,12 @@
-**Hebrews 1:14
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 1:14**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?
 <small><sub>**BSB:**</sub></small>
 Are not the angels ministering spirits sent to serve those who will inherit salvation?
 <small><sub>**Literal:**</sub></small>
 Surely all they are ministering spirits for service being sent forth for the sake of those being about to inherit salvation?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.13|<< Hebrews 1:13]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.1|Hebrews 2:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely |**<big>[[G3780\|οὐχὶ]]</big>**  |ouchi <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Genesis 17:13** 
+**Genesis 17:13**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that is born in thy house, and he that is bought with thy money, must needs be circumcised: and my covenant shall be in your flesh for an everlasting covenant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whether they are born in your household or purchased, they must be circumcised. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.12|<< Genesis 17:12]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.14|Genesis 17:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | definitely \<be circumcised>  |**<big>&#8207;[[H4135A\|הִמּ֧וֹל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hi.Mol<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will be circumcised  |**<big>&#8207;[[H4135A\|יִמּ֛וֹל]]&#8207; </big>**| yi.Mol<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

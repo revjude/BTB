@@ -1,10 +1,7 @@
 **LXX Song of Solomon 4:2** 
 <small><sub>**LXX:**</sub></small>
 Your teeth \[are\] as herds of the ones being sheared, the ones which ascended from the bath,  all bearing twins, and there is not a childless one among them. 
-<small><sub>**KJV:**</sub></small>
-Thy teeth [are] like a flock [of sheep that are even] shorn, which came up from the washing; whereof every one bear twins, and none [is] barren among them.
-<small><sub>**BSB:**</sub></small>
-Your teeth are like a flock of newly shorn sheep coming up from the washing; each has its twin, and not one of them is lost.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.1|<< Song of Solomon 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.3|Song of Solomon 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

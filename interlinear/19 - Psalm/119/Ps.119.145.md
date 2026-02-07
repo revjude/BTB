@@ -1,12 +1,12 @@
-**Psalms 119:145** 
+**Psalms 119:145**<big><big>[[Ps.119.145 Your Word Is a Lamp to My Feet - KOPH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-KOPH. I cried with [my] whole heart; hear me, O LORD: I will keep thy statutes.
+I cried with [my] whole heart; hear me, O LORD: I will keep thy statutes.
 <small><sub>**BSB:**</sub></small>
 I call with all my heart; answer me, O LORD! I will obey Your statutes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.145|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.144|<< Psalms 119:144]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.146|Psalms 119:146 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I call out  |**<big>&#8207;[[H7121G\|קָרָ֣אתִי]]&#8207; </big>**| ka.Ra.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with all  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 6:17** 
 <small><sub>**LXX:**</sub></small>
 And the city will be an offering for consumption, it and all as much as is in it, to the <span class="smallcaps">lord</span> of the forces. Except Rahab the harlot -- protect her, and all as much as is of hers in the house! for she hid the messengers whom we sent. 
-<small><sub>**KJV:**</sub></small>
-And the city shall be accursed, [even] it, and all that [are] therein, to the LORD: only Rahab the harlot shall live, she and all that [are] with her in the house, because she hid the messengers that we sent.
-<small><sub>**BSB:**</sub></small>
-Now the city and everything in it must be devoted to the LORD for destruction. Only Rahab the prostitute and all those with her in her house will live, because she hid the spies we sent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.16|<< Joshua 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.18|Joshua 6:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joshua 6:17** is...

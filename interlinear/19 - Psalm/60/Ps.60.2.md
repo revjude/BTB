@@ -1,4 +1,4 @@
-**Psalms 60:2** (60:4)
+**Psalms 60:2**<big><big>[[Ps.60.1 Victory with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have shaken the land and torn it open. Heal its fractures, for it is quaking
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.60.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.1|<< Psalms 60:1]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.3|Psalms 60:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have made quake  |**<big>&#8207;[[H7493\|הִרְעַ֣שְׁתָּה]]&#8207; </big>**| hir.'Ash.tah<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] earth  |**<big>&#8207;[[H0776G\|אֶ֣רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

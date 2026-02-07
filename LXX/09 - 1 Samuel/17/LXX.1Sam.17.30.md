@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:30** 
 <small><sub>**LXX:**</sub></small>
 And he turned from him unto another rank, and he said thus. And they answered to him according to the word  formerly. 
-<small><sub>**KJV:**</sub></small>
-And he turned from him toward another, and spake after the same manner: and the people answered him again after the former manner.
-<small><sub>**BSB:**</sub></small>
-Then he turned from him toward another and asked about the offer, and those people answered him just as the first ones had answered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.29|<< 1 Samuel 17:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.31|1 Samuel 17:31 >>]]</td></tr></table>
 
 | Translation | Greek |

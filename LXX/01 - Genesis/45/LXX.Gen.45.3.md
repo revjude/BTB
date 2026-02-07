@@ -1,10 +1,7 @@
 **LXX Genesis 45:3** 
 <small><sub>**LXX:**</sub></small>
 And Joseph said to  his brothers, I am Joseph, \[does\] my father still live? And the brothers \[were\] not able to respond to him, for they were disturbed. 
-<small><sub>**KJV:**</sub></small>
-And Joseph said unto his brethren, I [am] Joseph; doth my father yet live? And his brethren could not answer him; for they were troubled at his presence.
-<small><sub>**BSB:**</sub></small>
-Joseph said to his brothers, “I am Joseph! Is my father still alive?” But they were unable to answer him, because they were terrified in his presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.2|<< Genesis 45:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.4|Genesis 45:4 >>]]</td></tr></table>
 
 | Translation | Greek |

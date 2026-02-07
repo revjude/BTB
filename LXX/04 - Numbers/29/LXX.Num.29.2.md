@@ -1,10 +1,7 @@
 **LXX Numbers 29:2** 
 <small><sub>**LXX:**</sub></small>
 And you shall offer whole burnt-offerings for a scent of pleasant aroma \[to the\] <span class="smallcaps">lord</span> -- one calf of \[the\] oxen, one ram, seven unblemished lambs of a year \[old\]. 
-<small><sub>**KJV:**</sub></small>
-And ye shall offer a burnt offering for a sweet savour unto the LORD; one young bullock, one ram, [and] seven lambs of the first year without blemish:
-<small><sub>**BSB:**</sub></small>
-As a pleasing aroma to the LORD, you are to present a burnt offering of one young bull, one ram, and seven male lambs a year old, all unblemished,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.1|<< Numbers 29:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.3|Numbers 29:3 >>]]</td></tr></table>
 
 | Translation | Greek |

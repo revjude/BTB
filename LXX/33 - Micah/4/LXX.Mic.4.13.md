@@ -1,10 +1,7 @@
 **LXX Micah 4:13** 
 <small><sub>**LXX:**</sub></small>
 Rise up and thresh them, O daughter of Zion! For  I will make your horns iron, and  your hoofs I will make brass, and I will dissolve many peoples. And you shall present to the <span class="smallcaps">lord</span>  their abundance, even  their strength to the <span class="smallcaps">lord</span> of all the earth. 
-<small><sub>**KJV:**</sub></small>
-Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth.
-<small><sub>**BSB:**</sub></small>
-Rise and thresh, O Daughter of Zion, for I will give you horns of iron and hooves of bronze to break to pieces many peoples. Then you will devote their gain to the LORD, their wealth to the Lord of all the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.12|<< Micah 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.1|Micah 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

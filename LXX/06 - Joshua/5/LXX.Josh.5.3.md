@@ -1,10 +1,7 @@
 **LXX Joshua 5:3** 
 <small><sub>**LXX:**</sub></small>
 And Joshua made for himself \[flint\] rock knives, and he circumcised the sons of Israel upon the place being called, Hill of Foreskins. 
-<small><sub>**KJV:**</sub></small>
-And Joshua made him sharp knives, and circumcised the children of Israel at the hill of the foreskins.
-<small><sub>**BSB:**</sub></small>
-So Joshua made flint knives and circumcised the sons of Israel at Gibeath-haaraloth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.2|<< Joshua 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.4|Joshua 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

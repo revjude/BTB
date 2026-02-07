@@ -1,10 +1,7 @@
 **LXX Joshua 2:6** 
 <small><sub>**LXX:**</sub></small>
 But she brought them upon the roof, and hid them in the stalk of flax  having been piled by her upon the roof. 
-<small><sub>**KJV:**</sub></small>
-But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof.
-<small><sub>**BSB:**</sub></small>
-(But Rahab had taken them up to the roof and hidden them among the stalks of flax that she had laid out there.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.5|<< Joshua 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.7|Joshua 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

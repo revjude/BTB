@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:26** 
 <small><sub>**LXX:**</sub></small>
 There they put Meshech and Tubal, and all  his strength surrounding  his tomb; all  his slain ones, all \[the\] uncircumcised ones, slain ones by \[the\] sword, the ones putting  their fear upon \[the\] land of life. 
-<small><sub>**KJV:**</sub></small>
-There [is] Meshech, Tubal, and all her multitude: her graves [are] round about him: all of them uncircumcised, slain by the sword, though they caused their terror in the land of the living.
-<small><sub>**BSB:**</sub></small>
-Meshech and Tubal are there with all their multitudes, with their graves all around them. All of them are uncircumcised, slain by the sword, because they spread their terror in the land of the living.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.25|<< Ezekiel 32:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.27|Ezekiel 32:27 >>]]</td></tr></table>
 
 | Translation | Greek |

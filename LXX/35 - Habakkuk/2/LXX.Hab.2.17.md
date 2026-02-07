@@ -1,10 +1,7 @@
 **LXX Habakkuk 2:17** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] impiety  of Lebanon shall cover you, and \[the\] misery from wild beasts shall terrify you, because of \[the\] blood of men, and \[the\] impious deeds of \[the\] land, and of \[the\] city, and of all the ones dwelling it. 
-<small><sub>**KJV:**</sub></small>
-For the violence of Lebanon shall cover thee, and the spoil of beasts, [which] made them afraid, because of men’s blood, and for the violence of the land, of the city, and of all that dwell therein.
-<small><sub>**BSB:**</sub></small>
-For your violence against Lebanon will overwhelm you, and the destruction of animals will terrify you, because of your bloodshed against men and your violence against the land, the city, and all their dwellers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.16|<< Habakkuk 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.18|Habakkuk 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

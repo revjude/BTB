@@ -1,4 +1,4 @@
-**Deuteronomy 33:10** 
+**Deuteronomy 33:10**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall teach Jacob thy judgments, and Israel thy law: they shall put incense before thee, and whole burnt sacrifice upon thine altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will teach Your ordinances to Jacob and Your law to Israel; he will set incen
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.9|<< Deuteronomy 33:9]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.11|Deuteronomy 33:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will teach  |**<big>&#8207;[[H3384B\|יוֹר֤וּ]]&#8207; </big>**| yo.Ru<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | judgments your  |**<big>&#8207;[[H4941G\|מִשְׁפָּטֶ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| mish.pa.Tei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

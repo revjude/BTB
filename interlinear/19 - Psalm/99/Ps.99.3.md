@@ -1,4 +1,4 @@
-**Psalms 99:3** 
+**Psalms 99:3**<big><big>[[Ps.99.1 The LORD Reigns!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them praise thy great and terrible name; [for] it [is] holy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let them praise Your great and awesome name—He is holy!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.99.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.99.2|<< Psalms 99:2]]</td><td align="center" style="border:none;">[[Ps.99|Psalms 99]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.99.4|Psalms 99:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them give thanks to  |**<big>&#8207;[[H3034\|יוֹד֣וּ]]&#8207; </big>**| yo.Du<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | name your  |**<big>&#8207;[[H8034\|שִׁ֭מְ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Shim.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

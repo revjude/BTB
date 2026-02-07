@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:41** 
 <small><sub>**LXX:**</sub></small>
 And with them Heman and Jeduthun, and the rest, the ones being chosen by name  to praise the <span class="smallcaps">lord</span>, for his mercy \[is\] into the eon. 
-<small><sub>**KJV:**</sub></small>
-And with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to the LORD, because his mercy [endureth] for ever;
-<small><sub>**BSB:**</sub></small>
-With them were Heman, Jeduthun, and the rest of those chosen and designated by name to give thanks to the LORD, for “His loving devotion endures forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.40|<< 1 Chronicles 16:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.42|1 Chronicles 16:42 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 2:13
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:13**<big><big>[[Mark.2.13 Jesus Calls Levi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he went forth again by the sea side; and all the multitude resorted unto him, and he taught them.
 <small><sub>**BSB:**</sub></small>
 Once again Jesus went out beside the sea. All the people came to Him, and He taught them there.
 <small><sub>**Literal:**</sub></small>
 And He went forth again beside the sea, and all the crowd was coming to Him, and He was teaching them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.12|<< Mark 2:12]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.14|Mark 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He went forth |**<big>[[G1831\|ἐξῆλθεν]]</big>**  |exēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Zechariah 1:16** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>, I will turn towards Jerusalem for compassion; and  my house shall be rebuilt in it, says \[the\] <span class="smallcaps">lord</span> of the forces, and a measure shall be stretched out upon Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD; I am returned to Jerusalem with mercies: my house shall be built in it, saith the LORD of hosts, and a line shall be stretched forth upon Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD says: ‘I will return to Jerusalem with mercy, and there My house will be rebuilt, declares the LORD of Hosts, and a measuring line will be stretched out over Jerusalem.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.15|<< Zechariah 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.17|Zechariah 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

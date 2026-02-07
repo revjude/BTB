@@ -1,12 +1,12 @@
-**Acts 5:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:27**<big><big>[[Acts.5.24 The Apostles before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had brought them, they set [them] before the council: and the high priest asked them,
 <small><sub>**BSB:**</sub></small>
 They brought them in and made them stand before the Sanhedrin, where the high priest interrogated them.
 <small><sub>**Literal:**</sub></small>
 Having brought then them they set [them] in the Council. And asked them the high priest<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.26|<< Acts 5:26]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.28|Acts 5:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having brought |**<big>[[G0071\|Ἀγαγόντες]]</big>**  |Agagontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

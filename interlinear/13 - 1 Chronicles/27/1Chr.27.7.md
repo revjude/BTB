@@ -1,4 +1,4 @@
-**1 Chronicles 27:7** 
+**1 Chronicles 27:7**<big><big>[[1Chr.27.1 Twelve Captains for Twelve Months|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fourth [captain] for the fourth month [was] Asahel the brother of Joab, and Zebadiah his son after him: and in his course [were] twenty and four thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fourth, for the fourth month, was Joab’s brother Asahel, and his son Zebad
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.6|<< 1 Chronicles 27:6]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.8|1 Chronicles 27:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] the fourth  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H7243\|רְבִיעִ֞י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> re.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for the month  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2320G\|חֹ֣דֶשׁ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

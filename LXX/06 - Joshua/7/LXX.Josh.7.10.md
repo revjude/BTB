@@ -1,10 +1,7 @@
 **LXX Joshua 7:10** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Joshua, Rise up! Why \[do\] you \[do\] this -- fall upon your face? 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Joshua, Get thee up; wherefore liest thou thus upon thy face?
-<small><sub>**BSB:**</sub></small>
-But the LORD said to Joshua, “Stand up! Why have you fallen on your face?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.9|<< Joshua 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.11|Joshua 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

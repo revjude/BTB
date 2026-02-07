@@ -1,4 +1,4 @@
-**Judges 3:11** 
+**Judges 3:11**<big><big>[[Judg.3.7 Othniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the land had rest forty years. And Othniel the son of Kenaz died.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the land had rest for forty years, until Othniel son of Kenaz died.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.10|<< Judges 3:10]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.12|Judges 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was at peace  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8252\|תִּשְׁקֹ֥ט]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tish.Kot<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֖רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

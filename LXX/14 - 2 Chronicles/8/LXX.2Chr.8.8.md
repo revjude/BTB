@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 8:8** 
 <small><sub>**LXX:**</sub></small>
 but were of  their sons  being left behind after them in the land of which the sons of Israel did not utterly destroy, and Solomon led them into tribute until  this day. 
-<small><sub>**KJV:**</sub></small>
-[But] of their children, who were left after them in the land, whom the children of Israel consumed not, them did Solomon make to pay tribute until this day.
-<small><sub>**BSB:**</sub></small>
-their descendants who remained in the land, those whom the Israelites had not destroyed—Solomon conscripted these people to be forced laborers, as they are to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.7|<< 2 Chronicles 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.9|2 Chronicles 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

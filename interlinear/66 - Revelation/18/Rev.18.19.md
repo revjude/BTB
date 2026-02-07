@@ -1,12 +1,12 @@
-**Revelation 18:19
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:19**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they cast dust on their heads, and cried, weeping and wailing, saying, Alas, alas, that great city, wherein were made rich all that had ships in the sea by reason of her costliness! for in one hour is she made desolate.
 <small><sub>**BSB:**</sub></small>
 Then they will throw dust on their heads as they weep and mourn and cry out: “Woe, woe to the great city, where all who had ships on the sea were enriched by her wealth! For in a single hour she has been destroyed.”
 <small><sub>**Literal:**</sub></small>
 And they cast dust upon the heads of them and they were crying out weeping and mourning and saying: Woe woe the city <the> great, in which were enriched all those having <the> ships in the sea through the wealth of her! Since in one hour she has been desolated.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.18|<< Revelation 18:18]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.20|Revelation 18:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they cast |**<big>[[G0906G\|ἔβαλον]]</big>**  |ebalon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

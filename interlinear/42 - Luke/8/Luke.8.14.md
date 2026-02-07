@@ -1,12 +1,12 @@
-**Luke 8:14
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:14**<big><big>[[Luke.8.4 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of [this] life, and bring no fruit to perfection.
 <small><sub>**BSB:**</sub></small>
 The seeds that fell among the thorns are those who hear, but as they go on their way, they are choked by the worries, riches, and pleasures of this life, and their fruit does not mature.
 <small><sub>**Literal:**</sub></small>
 That now into the thorns having fallen, these are those having heard, and under cares and riches and pleasures <the> of life moving along are choked and not do mature.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.13|<< Luke 8:13]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.15|Luke 8:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | That |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

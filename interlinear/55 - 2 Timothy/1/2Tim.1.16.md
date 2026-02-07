@@ -1,12 +1,12 @@
-**2 Timothy 1:16
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 1:16**<big><big>[[2Tim.1.13 Holding to Sound Teaching|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Lord give mercy unto the house of Onesiphorus; for he oft refreshed me, and was not ashamed of my chain:
 <small><sub>**BSB:**</sub></small>
 May the Lord grant mercy to the household of Onesiphorus, because he has often refreshed me and was unashamed of my chains.
 <small><sub>**Literal:**</sub></small>
 would grant mercy the Lord to the of Onesiphorus household; because often me he refreshed and the chain of mine not he was ashamed of,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.15|<< 2 Timothy 1:15]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.17|2 Timothy 1:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | would grant |**<big>[[G1325\|δῴη]]</big>**  |dōē <small><sup>[[V-2AAO-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | mercy |**<big>[[G1656\|ἔλεος]]</big>**  |eleos <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

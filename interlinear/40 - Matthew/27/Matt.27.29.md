@@ -1,12 +1,12 @@
-**Matthew 27:29
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:29**<big><big>[[Matt.27.27 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had platted a crown of thorns, they put [it] upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!
 <small><sub>**BSB:**</sub></small>
 And they twisted together a crown of thorns and set it on His head. They put a staff in His right hand, knelt down before Him, and mocked Him, saying, “Hail, King of the Jews!”
 <small><sub>**Literal:**</sub></small>
 And having twisted together a crown of thorns they put [it] on the head of Him and a reed in the right hand of Him, and having bowed the knees before Him they mocked Him saying; Hail the King of the Jews!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.28|<< Matthew 27:28]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.30|Matthew 27:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having twisted together |**<big>[[G4120\|πλέξαντες]]</big>**  |plexantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

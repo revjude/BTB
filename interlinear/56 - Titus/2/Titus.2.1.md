@@ -1,12 +1,12 @@
-**Titus 2:1
-**<small><sub>**KJV:**</sub></small>
+**Titus 2:1**<big><big>[[Titus.2.1 Teaching Sound Doctrine|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But speak thou the things which become sound doctrine:
 <small><sub>**BSB:**</sub></small>
 But as for you, speak the things that are consistent with sound doctrine.
 <small><sub>**Literal:**</sub></small>
 You yourself however do speak [the things] that are consistent with <the> sound doctrine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.16|<< Titus 1:16]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.2|Titus 2:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourself |**<big>[[G4771\|Σὺ]]</big>**  |Su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

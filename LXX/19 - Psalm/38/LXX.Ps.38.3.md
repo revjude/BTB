@@ -1,10 +1,7 @@
 **LXX Psalm 38:3** 
 <small><sub>**LXX:**</sub></small>
 There is no healing in  my flesh from \[the\] face  of your anger; there is no peace in  my bones from \[the\] face  of my sins. 
-<small><sub>**KJV:**</sub></small>
-[There is] no soundness in my flesh because of thine anger; neither [is there any] rest in my bones because of my sin.
-<small><sub>**BSB:**</sub></small>
-There is no soundness in my body because of Your anger; there is no rest in my bones because of my sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.38.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.38.2|<< Psalm 38:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.38.4|Psalm 38:4 >>]]</td></tr></table>
 
 | Translation | Greek |

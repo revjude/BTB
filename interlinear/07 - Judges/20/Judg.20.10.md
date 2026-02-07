@@ -1,4 +1,4 @@
-**Judges 20:10** 
+**Judges 20:10**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we will take ten men of an hundred throughout all the tribes of Israel, and an hundred of a thousand, and a thousand out of ten thousand, to fetch victual for the people, that they may do, when they come to Gibeah of Benjamin, according to all the folly that they have wrought in Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We will take ten men out of every hundred from all the tribes of Israel, and a h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.9|<< Judges 20:9]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.11|Judges 20:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַ֣חְנוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.Kach.nu<small><sup>[[HVqq1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ten  |**<big>&#8207;[[H6235\|עֲשָׂרָה֩]]&#8207; </big>**| 'a.sa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

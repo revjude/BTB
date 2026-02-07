@@ -1,10 +1,7 @@
 **LXX Proverbs 23:13** 
 <small><sub>**LXX:**</sub></small>
 You should not be at a distance to correct \[the\] simple; for if you strike him \[with\] a rod in no way should he die. 
-<small><sub>**KJV:**</sub></small>
-Withhold not correction from the child: for [if] thou beatest him with the rod, he shall not die.
-<small><sub>**BSB:**</sub></small>
-Do not withhold discipline from a child; although you strike him with a rod, he will not die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.12|<< Proverbs 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.14|Proverbs 23:14 >>]]</td></tr></table>
 
 | Translation | Greek |

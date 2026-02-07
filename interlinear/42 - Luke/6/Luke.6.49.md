@@ -1,12 +1,12 @@
-**Luke 6:49
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:49**<big><big>[[Luke.6.46 The House on the Rock|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that heareth, and doeth not, is like a man that without a foundation built an house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great.
 <small><sub>**BSB:**</sub></small>
 But the one who hears My words and does not act on them is like a man who built his house on ground without a foundation. The torrent crashed against that house, and immediately it fell—and great was its destruction!”
 <small><sub>**Literal:**</sub></small>
 The [one] however having heard and not having done like it is to a man having built a house on the ground without a foundation on which burst the stream, and immediately it fell, and was the ruin of the house that great [one].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.48|<< Luke 6:48]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.1|Luke 7:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

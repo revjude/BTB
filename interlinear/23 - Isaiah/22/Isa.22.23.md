@@ -1,4 +1,4 @@
-**Isaiah 22:23** 
+**Isaiah 22:23**<big><big>[[Isa.22.15 A Message for Shebna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will fasten him [as] a nail in a sure place; and he shall be for a glorious throne to his father’s house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will drive him like a peg into a firm place, and he will be a throne of glory 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.22|<< Isaiah 22:22]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.24|Isaiah 22:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will drive him  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H8628\|תְקַעְתִּ֥י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> te.ka'.Ti<small><sup>[[HVqq1cs]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a tent peg  |**<big>&#8207;[[H3489\|יָתֵ֖ד]]&#8207; </big>**| ya.Ted<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

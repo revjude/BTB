@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:8** 
 <small><sub>**LXX:**</sub></small>
 And you shall guard all  of his commandments, as many as I give charge to you today, that you should live, and should manifoldly multiply, and you should enter, and should inherit the land into which you pass over the Jordan there to inherit it; 
-<small><sub>**KJV:**</sub></small>
-Therefore shall ye keep all the commandments which I command you this day, that ye may be strong, and go in and possess the land, whither ye go to possess it;
-<small><sub>**BSB:**</sub></small>
-You shall therefore keep every commandment I am giving you today, so that you may have the strength to go in and possess the land that you are crossing the Jordan to possess,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.7|<< Deuteronomy 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.9|Deuteronomy 11:9 >>]]</td></tr></table>
 
 | Translation | Greek |

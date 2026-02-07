@@ -1,4 +1,4 @@
-**Joshua 19:38** 
+**Joshua 19:38**<big><big>[[Josh.19.32 Naphtali’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Iron, and Migdalel, Horem, and Bethanath, and Bethshemesh; nineteen cities with their villages.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Iron, Migdal-el, Horem, Beth-anath, and Beth-shemesh. There were nineteen cities
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.37|<< Joshua 19:37]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.39|Joshua 19:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Yiron  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3375\|יִרְאוֹן֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yir.'On<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Migdal  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4027\|מִגְדַּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mig.dal-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

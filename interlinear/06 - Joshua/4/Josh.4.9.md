@@ -1,4 +1,4 @@
-**Joshua 4:9** 
+**Joshua 4:9**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua set up twelve stones in the midst of Jordan, in the place where the feet of the priests which bare the ark of the covenant stood: and they are there unto this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joshua also set up twelve stones in the middle of the Jordan, in the place where
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.8|<< Joshua 4:8]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.10|Joshua 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and two [plus]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8147\|שְׁתֵּ֧ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Teim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ten  |**<big>&#8207;[[H6240\|עֶשְׂרֵ֣ה]]&#8207; </big>**| 'es.Reh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

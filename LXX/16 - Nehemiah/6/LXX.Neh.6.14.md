@@ -1,10 +1,7 @@
 **LXX Nehemiah 6:14** 
 <small><sub>**LXX:**</sub></small>
 Remember, O my God,  Tobiah and  Sanballat! according to  these their actions, and  Noadiah the prophet, and to the rest of the prophets who were throwing me into fear. 
-<small><sub>**KJV:**</sub></small>
-My God, think thou upon Tobiah and Sanballat according to these their works, and on the prophetess Noadiah, and the rest of the prophets, that would have put me in fear.
-<small><sub>**BSB:**</sub></small>
-O my God, remember Tobiah and Sanballat for what they have done, and also Noadiah the prophetess and the other prophets who tried to intimidate me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.13|<< Nehemiah 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.15|Nehemiah 6:15 >>]]</td></tr></table>
 
 | Translation | Greek |

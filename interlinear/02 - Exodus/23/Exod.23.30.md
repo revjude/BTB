@@ -1,4 +1,4 @@
-**Exodus 23:30** 
+**Exodus 23:30**<big><big>[[Exod.23.20 God’s Angel to Lead|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By little and little I will drive them out from before thee, until thou be increased, and inherit the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Little by little I will drive them out ahead of you, until you become fruitful a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.29|<< Exodus 23:29]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.31|Exodus 23:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | little  |**<big>&#8207;[[H4592\|מְעַ֥ט]]&#8207; </big>**| me.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | little  |**<big>&#8207;[[H4592\|מְעַ֛ט]]&#8207; </big>**| me.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

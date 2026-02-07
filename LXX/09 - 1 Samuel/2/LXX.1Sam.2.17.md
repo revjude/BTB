@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:17** 
 <small><sub>**LXX:**</sub></small>
 And the sin of the young men was great before \[the\] <span class="smallcaps">lord</span>, exceedingly, for they annulled the sacrifice of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Wherefore the sin of the young men was very great before the LORD: for men abhorred the offering of the LORD.
-<small><sub>**BSB:**</sub></small>
-Thus the sin of these young men was severe in the sight of the LORD, for they were treating the LORD’s offering with contempt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.16|<< 1 Samuel 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.18|1 Samuel 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

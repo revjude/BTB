@@ -1,4 +1,4 @@
-**Psalms 89:50** (89:51)
+**Psalms 89:50**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember, Lord, the reproach of thy servants; [how] I do bear in my bosom [the reproach of] all the mighty people;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember, O Lord, the reproach of Your servants, which I bear in my heart from s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.49|<< Psalms 89:49]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.51|Psalms 89:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember  |**<big>&#8207;[[H2142\|זְכֹ֣ר]]&#8207; </big>**| ze.Khor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Lord  |**<big>&#8207;[[H0136\|אֲ֭דֹנָי]]&#8207; </big>**| 'A.do.nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

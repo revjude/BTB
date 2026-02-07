@@ -1,12 +1,12 @@
-**Romans 16:8
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:8**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Greet Amplias my beloved in the Lord.
 <small><sub>**BSB:**</sub></small>
 Greet Ampliatus, my beloved in the Lord.
 <small><sub>**Literal:**</sub></small>
 do greet Ampliatus the beloved of mine in [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.7|<< Romans 16:7]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.9|Romans 16:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do greet |**<big>[[G0782\|ἀσπάσασθε]]</big>**  |aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Ampliatus |**<big>[[G0291\|Ἀμπλιᾶτον]]</big>**  [^1] |Ampliaton <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

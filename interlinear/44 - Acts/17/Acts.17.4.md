@@ -1,12 +1,12 @@
-**Acts 17:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:4**<big><big>[[Acts.17.1 The Uproar in Thessalonica|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And some of them believed, and consorted with Paul and Silas; and of the devout Greeks a great multitude, and of the chief women not a few.
 <small><sub>**BSB:**</sub></small>
 Some of the Jews were persuaded and joined Paul and Silas, along with a large number of God-fearing Greeks and quite a few leading women.
 <small><sub>**Literal:**</sub></small>
 And some of them were obedient and they joined themselves <the> to Paul and <the> to Silas, <the> along with worshipping Greeks a multitude great of women then <the> leading not a few.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.3|<< Acts 17:3]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.5|Acts 17:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καί]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | some |**<big>[[G5100\|τινες]]</big>**  |tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

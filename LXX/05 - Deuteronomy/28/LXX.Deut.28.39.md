@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:39** 
 <small><sub>**LXX:**</sub></small>
 A vineyard you shall plant, and you will work it, and wine you shall not drink, nor will you be glad from it, for the worm shall eat \[it\]. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt plant vineyards, and dress [them], but shalt neither drink [of] the wine, nor gather [the grapes]; for the worms shall eat them.
-<small><sub>**BSB:**</sub></small>
-You will plant and cultivate vineyards, but will neither drink the wine nor gather the grapes, because worms will eat them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.38|<< Deuteronomy 28:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.40|Deuteronomy 28:40 >>]]</td></tr></table>
 
 | Translation | Greek |

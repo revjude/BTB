@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:2** 
 <small><sub>**LXX:**</sub></small>
 And David asked of the <span class="smallcaps">lord</span>, saying, Shall I go and strike  these Philistines? And \[the\] <span class="smallcaps">lord</span> said to David, Go! and you shall strike the Philistines, and you shall deliver  Keilah. 
-<small><sub>**KJV:**</sub></small>
-Therefore David inquired of the LORD, saying, Shall I go and smite these Philistines? And the LORD said unto David, Go, and smite the Philistines, and save Keilah.
-<small><sub>**BSB:**</sub></small>
-So David inquired of the LORD, “Should I go and attack these Philistines?” And the LORD said to David, “Go and attack the Philistines and save Keilah.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.1|<< 1 Samuel 23:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.3|1 Samuel 23:3 >>]]</td></tr></table>
 
 | Translation | Greek |

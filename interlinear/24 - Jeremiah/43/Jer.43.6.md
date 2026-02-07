@@ -1,4 +1,4 @@
-**Jeremiah 43:6** 
+**Jeremiah 43:6**<big><big>[[Jer.43.1 Jeremiah Taken to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Even] men, and women, and children, and the king’s daughters, and every person that Nebuzaradan the captain of the guard had left with Gedaliah the son of Ahikam the son of Shaphan, and Jeremiah the prophet, and Baruch the son of Neriah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the men, the women, the children, the king’s daughters, and everyone whom Nebu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.43.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.43.5|<< Jeremiah 43:5]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.7|Jeremiah 43:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶֽת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the men  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H1397\|גְּבָרִים]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> ge.va.rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

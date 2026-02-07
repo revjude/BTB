@@ -1,12 +1,12 @@
-**John 8:10
-**<small><sub>**KJV:**</sub></small>
+**John 8:10**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus had lifted up himself, and saw none but the woman, he said unto her, Woman, where are those thine accusers? hath no man condemned thee?
 <small><sub>**BSB:**</sub></small>
 Then Jesus straightened up and asked her, “Woman, where are your accusers? Has no one condemned you?”
 <small><sub>**Literal:**</sub></small>
 Having lifted up then <the> Jesus and no one having seen only <the> woman said to her, the woman, where are they they the accusers of you No [one] you has condemned?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.9|<< John 8:9]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.11|John 8:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having lifted up |**<big>[[G0352\|ἀνακύψας]]</big>**  |anakupsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |

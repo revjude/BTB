@@ -1,4 +1,4 @@
-**Ezra 8:33** 
+**Ezra 8:33**<big><big>[[Ezra.8.32 Arrival in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now on the fourth day was the silver and the gold and the vessels weighed in the house of our God by the hand of Meremoth the son of Uriah the priest; and with him [was] Eleazar the son of Phinehas; and with them [was] Jozabad the son of Jeshua, and Noadiah the son of Binnui, Levites;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the fourth day, in the house of our God, we weighed out the silver and gold a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.32|<< Ezra 8:32]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.34|Ezra 8:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on the day  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּ֣וֹם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vai.<small><sup>[[HRd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> fourth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7243\|רְבִיעִ֡י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> re.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

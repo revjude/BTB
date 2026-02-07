@@ -1,12 +1,12 @@
-**Luke 10:11
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:11**<big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even the very dust of your city, which cleaveth on us, we do wipe off against you: notwithstanding be ye sure of this, that the kingdom of God is come nigh unto you.
 <small><sub>**BSB:**</sub></small>
 ‘Even the dust of your town that clings to our feet, we wipe off as a testimony against you. Yet be sure of this: The kingdom of God is near.’
 <small><sub>**Literal:**</sub></small>
 Even the dust which having clung to us out of the city of you to the feet we wipe off against you; yet this do know that has drawn near upon you the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.10|<< Luke 10:10]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.12|Luke 10:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

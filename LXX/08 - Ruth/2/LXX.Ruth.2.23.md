@@ -1,10 +1,7 @@
 **LXX Ruth 2:23** 
 <small><sub>**LXX:**</sub></small>
 And Ruth cleaved to the young women  of Boaz  to collect until they completed the harvest of the barley, and the harvest of the wheat. 
-<small><sub>**KJV:**</sub></small>
-So she kept fast by the maidens of Boaz to glean unto the end of barley harvest and of wheat harvest; and dwelt with her mother in law.
-<small><sub>**BSB:**</sub></small>
-So Ruth stayed close to the servant girls of Boaz to glean grain until the barley and wheat harvests were finished. And she lived with her mother-in-law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.22|<< Ruth 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.1|Ruth 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

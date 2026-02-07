@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 2:2** 
 <small><sub>**LXX:**</sub></small>
 And Solomon brought together seventy thousand men load carriers, and eighty thousand men quarrying in the mountain. And the supervisors over them -- three thousand and six hundred. 
-<small><sub>**KJV:**</sub></small>
-And Solomon told out threescore and ten thousand men to bear burdens, and fourscore thousand to hew in the mountain, and three thousand and six hundred to oversee them.
-<small><sub>**BSB:**</sub></small>
-So he conscripted 70,000 porters, 80,000 stonecutters in the mountains, and 3,600 supervisors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.1|<< 2 Chronicles 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.3|2 Chronicles 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

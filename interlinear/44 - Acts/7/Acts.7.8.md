@@ -1,5 +1,5 @@
-**Acts 7:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:8**<big><big>[[Acts.7.1 Stephen’s Address：The Call of Abraham|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he gave him the covenant of circumcision: and so [Abraham] begat Isaac, and circumcised him the eighth day; and Isaac [begat] Jacob; and Jacob [begat] the twelve patriarchs.
 <small><sub>**BSB:**</sub></small>
 Then God gave Abraham the covenant of circumcision, and Abraham became the father of Isaac and circumcised him on the eighth day. And Isaac became the father of Jacob, and Jacob of the twelve patriarchs.
@@ -10,7 +10,7 @@ And He gave to him [the] covenant of circumcision; and thus he begat <the> Isaac
 > $\quad$ alluding to: [[LXX.Gen.17.10|Gen 17:10]] ☩ [[LXX.Gen.21.3|Gen 21:3-4]] ☩ [[LXX.Gen.25.26|Gen 25:26]] ☩ [[LXX.Gen.42.13|Gen 42:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He gave |**<big>[[G1325\|ἔδωκεν]]</big>**  |edōken <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Numbers 22:24** 
+**Numbers 22:24**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the angel of the LORD stood in a path of the vineyards, a wall [being] on this side, and a wall on that side.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the angel of the LORD stood in a narrow passage between two vineyards, with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.23|<< Numbers 22:23]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.25|Numbers 22:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stood  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5975G\|יַּעֲמֹד֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] angel of  |**<big>&#8207;[[H4397H\|מַלְאַ֣ךְ]]&#8207; </big>**| mal.'Akh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

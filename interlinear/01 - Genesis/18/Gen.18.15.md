@@ -1,4 +1,4 @@
-**Genesis 18:15** 
+**Genesis 18:15**<big><big>[[Gen.18.9 Sarah Laughs at the Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Sarah denied, saying, I laughed not; for she was afraid. And he said, Nay; but thou didst laugh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Sarah was afraid, so she denied it and said, “I did not laugh.” “No,�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.14|<< Genesis 18:14]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.16|Genesis 18:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she denied  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3584\|תְּכַחֵ֨שׁ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.kha.Chesh<small><sup>[[HVpw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sarah  |**<big>&#8207;[[H8283\|שָׂרָ֧ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| sa.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

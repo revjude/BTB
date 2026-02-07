@@ -1,5 +1,5 @@
-**Revelation 11:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:4**<big><big>[[Rev.11.1 The Two Witnesses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These are the two olive trees, and the two candlesticks standing before the God of the earth.
 <small><sub>**BSB:**</sub></small>
 These witnesses are the two olive trees and the two lampstands that stand before the Lord of the earth.
@@ -10,7 +10,7 @@ These are the two olive trees and the two lampstands <the> before the Lord of th
 > $\quad$ alluding to: [[LXX.Zech.4.3|Zech 4:3]][[LXX.Zech.4.11|, 11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These |**<big>[[G3778\|οὗτοί]]</big>**  |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are |**<big>[[G1510\|εἰσιν]]</big>**  |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

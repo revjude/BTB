@@ -1,12 +1,12 @@
-**John 8:7
-**<small><sub>**KJV:**</sub></small>
+**John 8:7**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her.
 <small><sub>**BSB:**</sub></small>
 When they continued to question Him, He straightened up and said to them, “Let him who is without sin among you be the first to cast a stone at her.”
 <small><sub>**Literal:**</sub></small>
 As however they were continuing asking Him, having stood up also He said to them The [one] sinless among you, [the] first at her <the> he should cast stone;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.6|<< John 8:6]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.8|John 8:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |

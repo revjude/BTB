@@ -1,4 +1,4 @@
-**Ecclesiastes 2:7** 
+**Ecclesiastes 2:7**<big><big>[[Eccl.2.1 The Futility of Pleasure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I got [me] servants and maidens, and had servants born in my house; also I had great possessions of great and small cattle above all that were in Jerusalem before me:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I acquired menservants and maidservants, and servants were born in my house. I a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.6|<< Ecclesiastes 2:6]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.8|Ecclesiastes 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I acquired  |**<big>&#8207;[[H7069\|קָנִ֙יתִי֙]]&#8207; </big>**| ka.Ni.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [male] slaves  |**<big>&#8207;[[H5650\|עֲבָדִ֣ים]]&#8207; </big>**| 'a.va.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 30:21** 
+**Genesis 30:21**<big><big>[[Gen.30.17 Issachar, Zebulun, and Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And afterwards she bare a daughter, and called her name Dinah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After that, Leah gave birth to a daughter and named her Dinah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.20|<< Genesis 30:20]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.22|Genesis 30:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחַ֖ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she bore  |**<big>&#8207;[[H3205\|יָ֣לְדָה]]&#8207; </big>**| Yal.dah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

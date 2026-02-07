@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 32:13** 
 <small><sub>**LXX:**</sub></small>
 Do you not know what I and my fathers did to all the peoples of the places. In being able, the gods of the nations of all the earth able to deliver  their people from my hand? 
-<small><sub>**KJV:**</sub></small>
-Know ye not what I and my fathers have done unto all the people of [other] lands? were the gods of the nations of those lands any ways able to deliver their lands out of mine hand?
-<small><sub>**BSB:**</sub></small>
-Do you not know what I and my fathers have done to all the peoples of the lands? Have the gods of these nations ever been able to deliver their land from my hand?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.32.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.32.12|<< 2 Chronicles 32:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.32.14|2 Chronicles 32:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 10:22** 
 <small><sub>**LXX:**</sub></small>
 And Joshua said, Open the cave, and lead out to me  these five kings from out of the cave! 
-<small><sub>**KJV:**</sub></small>
-Then said Joshua, Open the mouth of the cave, and bring out those five kings unto me out of the cave.
-<small><sub>**BSB:**</sub></small>
-Then Joshua said, “Open the mouth of the cave and bring those five kings out to me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.21|<< Joshua 10:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.23|Joshua 10:23 >>]]</td></tr></table>
 
 | Translation | Greek |

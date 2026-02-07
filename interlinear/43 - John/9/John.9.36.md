@@ -1,12 +1,12 @@
-**John 9:36
-**<small><sub>**KJV:**</sub></small>
+**John 9:36**<big><big>[[John.9.35 Spiritual Blindness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He answered and said, Who is he, Lord, that I might believe on him?
 <small><sub>**BSB:**</sub></small>
 “Who is He, Sir?” he replied. “Tell me so that I may believe in Him.”
 <small><sub>**Literal:**</sub></small>
 Answered he and said; And who is He, lord, that I may believe in Him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.35|<< John 9:35]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.37|John 9:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he |**<big>[[G1565\|ἐκεῖνος]]</big>**  |ekeinos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

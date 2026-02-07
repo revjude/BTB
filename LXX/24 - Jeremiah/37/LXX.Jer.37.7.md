@@ -1,10 +1,7 @@
 **LXX Jeremiah 37:7** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>, the God of Israel; Thus shall you say to the king of Judah, the one sending to you  to inquire of me; Behold, \[the\] force of Pharaoh  coming forth to you for help, they shall return into \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, the God of Israel; Thus shall ye say to the king of Judah, that sent you unto me to inquire of me; Behold, Pharaoh’s army, which is come forth to help you, shall return to Egypt into their own land.
-<small><sub>**BSB:**</sub></small>
-“This is what the LORD, the God of Israel, says that you are to tell the king of Judah, who sent you to Me: Behold, Pharaoh’s army, which has marched out to help you, will go back to its own land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.37.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.6|<< Jeremiah 37:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.8|Jeremiah 37:8 >>]]</td></tr></table>
 
 | Translation | Greek |

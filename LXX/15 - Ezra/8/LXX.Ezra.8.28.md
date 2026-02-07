@@ -1,10 +1,7 @@
 **LXX Ezra 8:28** 
 <small><sub>**LXX:**</sub></small>
 And I said to them, You \[are\] holy \[to the\] <span class="smallcaps">lord</span>  God, and the holy vessels, and the silver, and the gold \[are\] a voluntary \[offering\] to the <span class="smallcaps">lord</span> God  of our fathers. 
-<small><sub>**KJV:**</sub></small>
-And I said unto them, Ye [are] holy unto the LORD; the vessels [are] holy also; and the silver and the gold [are] a freewill offering unto the LORD God of your fathers.
-<small><sub>**BSB:**</sub></small>
-Then I told them, “You are holy to the LORD, and these articles are holy. The silver and gold are a freewill offering to the LORD, the God of your fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.27|<< Ezra 8:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.29|Ezra 8:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 29:3** 
 <small><sub>**LXX:**</sub></small>
 And I will encircle as David upon you, and I will throw up a siege mound around you, and I will build, and I will set towers around you. 
-<small><sub>**KJV:**</sub></small>
-And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee.
-<small><sub>**BSB:**</sub></small>
-I will camp in a circle around you; I will besiege you with towers and set up siege works against you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.2|<< Isaiah 29:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.4|Isaiah 29:4 >>]]</td></tr></table>
 
 | Translation | Greek |

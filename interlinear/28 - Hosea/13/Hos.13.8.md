@@ -1,4 +1,4 @@
-**Hosea 13:8** 
+**Hosea 13:8**<big><big>[[Hos.13.1 God’s Anger against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will meet them as a bear [that is] bereaved [of her whelps], and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like a bear robbed of her cubs I will attack them, and I will tear open their ch
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.7|<< Hosea 13:7]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.9|Hosea 13:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will meet them  |**<big>&#8207;[[H6298\|אֶפְגְּשֵׁ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| 'ef.ge.She<small><sup>[[HVqi1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a bear  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1677\|דֹ֣ב]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Do<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

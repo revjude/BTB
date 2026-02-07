@@ -1,4 +1,4 @@
-**Psalms 37:2** 
+**Psalms 37:2**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they shall soon be cut down like the grass, and wither as the green herb.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For they wither quickly like grass and wilt like tender plants.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.1|<< Psalms 37:1]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.3|Psalms 37:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> grass  |**<big>&#8207;[[H9004\|כֶ֭]]&#8207;&#8207;[[H2682A\|חָצִיר]]&#8207; </big>**| Khe.<small><sup>[[HRd]]</sup></small> cha.tzir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Galatians 4:5
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:5**<big><big>[[Gal.4.1 Sons and Heirs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To redeem them that were under the law, that we might receive the adoption of sons.
 <small><sub>**BSB:**</sub></small>
 to redeem those under the law, that we might receive our adoption as sons.
 <small><sub>**Literal:**</sub></small>
 that those under [the] Law He may redeem, so that the divine adoption as sons we may receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.4|<< Galatians 4:4]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.6|Galatians 4:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

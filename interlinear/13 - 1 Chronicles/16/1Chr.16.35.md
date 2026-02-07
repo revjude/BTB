@@ -1,4 +1,4 @@
-**1 Chronicles 16:35** 
+**1 Chronicles 16:35**<big><big>[[1Chr.16.23 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say ye, Save us, O God of our salvation, and gather us together, and deliver us from the heathen, that we may give thanks to thy holy name, [and] glory in thy praise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then cry out: ‘Save us, O God of our salvation; gather and deliver us from the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.34|<< 1 Chronicles 16:34]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.36|1 Chronicles 16:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and say  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0559\|אִמְר֕וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | save us  |**<big>&#8207;[[H3467\|הוֹשִׁיעֵ֙]]&#8207;&#8207;[[H9035\|נוּ֙]]&#8207; </big>**| ho.shi.'E.<small><sup>[[HVhv2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

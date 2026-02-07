@@ -1,10 +1,7 @@
 **LXX Ezekiel 25:10** 
 <small><sub>**LXX:**</sub></small>
 Of the sons of Kedem I have given them in addition to the sons of Ammon for an inheritance, so that there should not be a memory of the sons of Ammon among the nations. 
-<small><sub>**KJV:**</sub></small>
-Unto the men of the east with the Ammonites, and will give them in possession, that the Ammonites may not be remembered among the nations.
-<small><sub>**BSB:**</sub></small>
-I will give it along with the Ammonites as a possession to the people of the East, so that the Ammonites will no longer be remembered among the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.25.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.9|<< Ezekiel 25:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.11|Ezekiel 25:11 >>]]</td></tr></table>
 
 | Translation | Greek |

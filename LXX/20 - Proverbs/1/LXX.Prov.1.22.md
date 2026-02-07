@@ -1,10 +1,7 @@
 **LXX Proverbs 1:22** 
 <small><sub>**LXX:**</sub></small>
 As much time \[as the\] guileless have of the righteousness, they shall not be ashamed; but the fools  being ones who crave insolence, having become impious, detest good sense, 
-<small><sub>**KJV:**</sub></small>
-How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?
-<small><sub>**BSB:**</sub></small>
-“How long, O simple ones, will you love your simple ways? How long will scoffers delight in their scorn and fools hate knowledge?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.21|<< Proverbs 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.23|Proverbs 1:23 >>]]</td></tr></table>
 
 | Translation | Greek |

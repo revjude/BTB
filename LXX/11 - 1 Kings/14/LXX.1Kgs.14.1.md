@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In  that time Abijah son of Jeroboam was ill. 
-<small><sub>**KJV:**</sub></small>
-At that time Abijah the son of Jeroboam fell sick.
-<small><sub>**BSB:**</sub></small>
-At that time Abijah son of Jeroboam became ill,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.34|<< 1 Kings 13:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.2|1 Kings 14:2 >>]]</td></tr></table>
 
 | Translation | Greek |

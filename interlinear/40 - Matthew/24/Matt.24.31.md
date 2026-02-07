@@ -1,12 +1,12 @@
-**Matthew 24:31
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:31**<big><big>[[Matt.24.26 The Return of the Son of Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other.
 <small><sub>**BSB:**</sub></small>
 And He will send out His angels with a loud trumpet call, and they will gather His elect from the four winds, from one end of the heavens to the other.
 <small><sub>**Literal:**</sub></small>
 And He will send the angels of Him with a trumpet call voice great, and they will gather together the elect of Him from the four winds, from [the] ends of the heavens until the ends of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.30|<< Matthew 24:30]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.32|Matthew 24:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He will send |**<big>[[G0649\|ἀποστελεῖ]]</big>**  |apostelei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

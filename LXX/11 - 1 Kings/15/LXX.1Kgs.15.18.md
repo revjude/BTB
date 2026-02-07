@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:18** 
 <small><sub>**LXX:**</sub></small>
 And Asa took all the silver and the gold  being found in the treasuries of \[the\] house of \[the\] <span class="smallcaps">lord</span>, and in the treasuries of the house of the king; and he put them into \[the\] hands  of his servants. And king Asa sent them to \[the\] son of Hadad, son of Tabrimon, son of Hezion, king of Syria, the one dwelling in Damascus, saying, 
-<small><sub>**KJV:**</sub></small>
-Then Asa took all the silver and the gold [that were] left in the treasures of the house of the LORD, and the treasures of the king’s house, and delivered them into the hand of his servants: and king Asa sent them to Benhadad, the son of Tabrimon, the son of Hezion, king of Syria, that dwelt at Damascus, saying,
-<small><sub>**BSB:**</sub></small>
-So Asa withdrew all the silver and gold that remained in the treasuries of the house of the LORD and the royal palace. He entrusted it to his servants and sent them with this message to Ben-hadad son of Tabrimmon, the son of Hezion, the king of Aram, who was ruling in Damascus:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.17|<< 1 Kings 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.19|1 Kings 15:19 >>]]</td></tr></table>
 
 | Translation | Greek |

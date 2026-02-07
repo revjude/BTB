@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Why \[is it\] that you treated as worthless the word of \[the\] <span class="smallcaps">lord</span>,  to do the wicked \[thing\] in his eyes? Uriah the Hittite you struck by \[the\] broadsword, and  his wife you took to yourself for wife, and him you killed by \[the\] broadsword of \[the\] sons of Ammon. 
-<small><sub>**KJV:**</sub></small>
-Wherefore hast thou despised the commandment of the LORD, to do evil in his sight? thou hast killed Uriah the Hittite with the sword, and hast taken his wife [to be] thy wife, and hast slain him with the sword of the children of Ammon.
-<small><sub>**BSB:**</sub></small>
-Why then have you despised the command of the LORD by doing evil in His sight? You put Uriah the Hittite to the sword and took his wife as your own. You have slain him with the sword of the Ammonites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.8|<< 2 Samuel 12:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.10|2 Samuel 12:10 >>]]</td></tr></table>
 
 | Translation | Greek |

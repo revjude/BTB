@@ -1,4 +1,4 @@
-**Psalms 107:12** 
+**Psalms 107:12**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore he brought down their heart with labour; they fell down, and [there was] none to help.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He humbled their hearts with hard labor; they stumbled, and there was no one to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.11|<< Psalms 107:11]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.13|Psalms 107:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he humbled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3665\|יַּכְנַ֣ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yakh.Na'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with \<the> trouble  |**<big>&#8207;[[H9003\|בֶּ]]&#8207;&#8207;[[H5999\|עָמָ֣ל]]&#8207; </big>**| be.<small><sup>[[HRd]]</sup></small> 'a.Mal<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

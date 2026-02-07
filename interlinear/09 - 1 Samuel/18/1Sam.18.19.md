@@ -1,4 +1,4 @@
-**1 Samuel 18:19** 
+**1 Samuel 18:19**<big><big>[[1Sam.18.17 David Marries Michal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But it came to pass at the time when Merab Saul’s daughter should have been given to David, that she was given unto Adriel the Meholathite to wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So when it was time to give Saul’s daughter Merab to David, she was given in m
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.18|<< 1 Samuel 18:18]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.20|1 Samuel 18:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | at [the] time  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6256\|עֵ֥ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

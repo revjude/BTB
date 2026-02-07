@@ -1,4 +1,4 @@
-**Isaiah 60:1** 
+**Isaiah 60:1**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Arise, shine, for your light has come, and the glory of the LORD rises upon you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.21|<< Isaiah 59:21]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.2|Isaiah 60:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise  |**<big>&#8207;[[H6965B\|ק֥וּמִי]]&#8207; </big>**| Ku.mi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | shine  |**<big>&#8207;[[H0215\|א֖וֹרִי]]&#8207; </big>**| 'o.ri<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

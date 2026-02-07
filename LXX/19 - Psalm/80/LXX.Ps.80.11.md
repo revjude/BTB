@@ -1,10 +1,7 @@
 **LXX Psalm 80:11** 
 <small><sub>**LXX:**</sub></small>
 She stretched out  her vine branches unto \[the\] sea, and her shoots unto \[the\] rivers. 
-<small><sub>**KJV:**</sub></small>
-She sent out her boughs unto the sea, and her branches unto the river.
-<small><sub>**BSB:**</sub></small>
-It sent out its branches to the Sea, and its shoots toward the River.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.80.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.10|<< Psalm 80:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.12|Psalm 80:12 >>]]</td></tr></table>
 
 | Translation | Greek |

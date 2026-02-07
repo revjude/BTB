@@ -1,12 +1,12 @@
-**Matthew 15:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:5**<big><big>[[Matt.15.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But ye say, Whosoever shall say to [his] father or [his] mother, [It is] a gift, by whatsoever thou mightest be profited by me;
 <small><sub>**BSB:**</sub></small>
 But you say that if anyone says to his father or mother, ‘Whatever you would have received from me is a gift devoted to God,’
 <small><sub>**Literal:**</sub></small>
 You yourselves however say; Who[ever] maybe may say to the father or the mother; [It is] a gift whatever if by me you shall be profited,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.4|<< Matthew 15:4]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.6|Matthew 15:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

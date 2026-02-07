@@ -1,12 +1,12 @@
-**Matthew 28:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:13**<big><big>[[Matt.28.11 The Report of the Guards|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, Say ye, His disciples came by night, and stole him [away] while we slept.
 <small><sub>**BSB:**</sub></small>
 and instructed them: “You are to say, ‘His disciples came by night and stole Him away while we were asleep.’
 <small><sub>**Literal:**</sub></small>
 saying; do say that the disciples of Him by night having come they stole Him we being asleep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.12|<< Matthew 28:12]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.14|Matthew 28:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγοντες·]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do say |**<big>[[G2036\|εἴπατε]]</big>**  |eipate <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

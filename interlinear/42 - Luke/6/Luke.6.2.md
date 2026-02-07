@@ -1,12 +1,12 @@
-**Luke 6:2
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:2**<big><big>[[Luke.6.1 The Lord of the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And certain of the Pharisees said unto them, Why do ye that which is not lawful to do on the sabbath days?
 <small><sub>**BSB:**</sub></small>
 But some of the Pharisees asked, “Why are you doing what is unlawful on the Sabbath?”
 <small><sub>**Literal:**</sub></small>
 Some however of the Pharisees said to them: Why do you that which not it is lawful to do in [on] the Sabbaths?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.1|<< Luke 6:1]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.3|Luke 6:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Some |**<big>[[G5100\|τινὲς]]</big>**  |tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

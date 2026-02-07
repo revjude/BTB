@@ -1,12 +1,12 @@
-**2 Corinthians 11:28
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:28**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Beside those things that are without, that which cometh upon me daily, the care of all the churches.
 <small><sub>**BSB:**</sub></small>
 Apart from these external trials, I face daily the pressure of my concern for all the churches.
 <small><sub>**Literal:**</sub></small>
 Besides the [things] external the stoppage on me <the> on every day <the> [is my] care for all the churches.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.27|<< 2 Corinthians 11:27]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.29|2 Corinthians 11:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Besides |**<big>[[G5565\|χωρὶς]]</big>**  |chōris <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [things] |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

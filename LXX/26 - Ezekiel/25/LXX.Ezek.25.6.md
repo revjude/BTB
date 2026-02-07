@@ -1,10 +1,7 @@
 **LXX Ezekiel 25:6** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span>; Because you clapped  your hand, and stamped  your foot, and rejoiced in your soul over the land  of Israel; 
-<small><sub>**KJV:**</sub></small>
-For thus saith the Lord GOD; Because thou hast clapped [thine] hands, and stamped with the feet, and rejoiced in heart with all thy despite against the land of Israel;
-<small><sub>**BSB:**</sub></small>
-For this is what the Lord GOD says: ‘Because you clapped your hands and stomped your feet and rejoiced over the land of Israel with a heart full of contempt,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.5|<< Ezekiel 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.7|Ezekiel 25:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 17:23
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:23**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they shall say to you, See here; or, see there: go not after [them], nor follow [them].
 <small><sub>**BSB:**</sub></small>
 People will tell you, ‘Look, there He is!’ or ‘Look, here He is!’ Do not go out or chase after them.
 <small><sub>**Literal:**</sub></small>
 And they will say to you; Behold there or Behold here. Not may go forth nor may follow.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.22|<< Luke 17:22]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.24|Luke 17:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they will say |**<big>[[G4483\|ἐροῦσιν]]</big>**  |erousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

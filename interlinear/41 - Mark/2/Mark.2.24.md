@@ -1,12 +1,12 @@
-**Mark 2:24
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:24**<big><big>[[Mark.2.23 The Lord of the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the Pharisees said unto him, Behold, why do they on the sabbath day that which is not lawful?
 <small><sub>**BSB:**</sub></small>
 So the Pharisees said to Him, “Look, why are they doing what is unlawful on the Sabbath?”
 <small><sub>**Literal:**</sub></small>
 And the Pharisees were saying to Him; Behold why do they in on the Sabbaths that which not is lawful?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.23|<< Mark 2:23]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.25|Mark 2:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

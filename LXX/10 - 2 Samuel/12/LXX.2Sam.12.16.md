@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:16** 
 <small><sub>**LXX:**</sub></small>
 And David sought  God for the boy. And David fasted with fasting, and he entered and lodged upon the ground. 
-<small><sub>**KJV:**</sub></small>
-David therefore besought God for the child; and David fasted, and went in, and lay all night upon the earth.
-<small><sub>**BSB:**</sub></small>
-David pleaded with God for the boy. He fasted and went into his house and spent the night lying in sackcloth on the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.15|<< 2 Samuel 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.17|2 Samuel 12:17 >>]]</td></tr></table>
 
 | Translation | Greek |

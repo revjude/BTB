@@ -1,10 +1,7 @@
 **LXX Ezekiel 11:7** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says Adonai \[the\] <span class="smallcaps">lord</span>;  Your dead whom you struck in \[the\] midst of her, these are the meats, and she is the kettle. And you I will lead out from \[the\] midst of her. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; Your slain whom ye have laid in the midst of it, they [are] the flesh, and this [city is] the caldron: but I will bring you forth out of the midst of it.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: The slain you have laid within this city are the meat, and the city is the pot; but I will remove you from it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.6|<< Ezekiel 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.8|Ezekiel 11:8 >>]]</td></tr></table>
 
 | Translation | Greek |

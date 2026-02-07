@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 7:19** 
 <small><sub>**LXX:**</sub></small>
  Wisdom will give help to the wise one over ten exercising authority, of the ones being in the city. 
-<small><sub>**KJV:**</sub></small>
-Wisdom strengtheneth the wise more than ten mighty [men] which are in the city.
-<small><sub>**BSB:**</sub></small>
-Wisdom makes the wise man stronger than ten rulers in a city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.18|<< Ecclesiastes 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.20|Ecclesiastes 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

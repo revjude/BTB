@@ -1,10 +1,7 @@
 **LXX Hosea 1:3** 
 <small><sub>**LXX:**</sub></small>
 And he went and took  Gomer daughter of Diblaim; and she conceived, and bore to him a son. 
-<small><sub>**KJV:**</sub></small>
-So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son.
-<small><sub>**BSB:**</sub></small>
-So Hosea went and married Gomer daughter of Diblaim, and she conceived and bore him a son.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.1.2|<< Hosea 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.1.4|Hosea 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

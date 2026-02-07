@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:3** 
 <small><sub>**LXX:**</sub></small>
 And in Jerusalem dwelt of the sons of Judah, and of the sons of Benjamin, and of the sons of Ephraim, and Manasseh; 
-<small><sub>**KJV:**</sub></small>
-And in Jerusalem dwelt of the children of Judah, and of the children of Benjamin, and of the children of Ephraim, and Manasseh;
-<small><sub>**BSB:**</sub></small>
-Some of the descendants of Judah, Benjamin, Ephraim, and Manasseh lived in Jerusalem:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.2|<< 1 Chronicles 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.4|1 Chronicles 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

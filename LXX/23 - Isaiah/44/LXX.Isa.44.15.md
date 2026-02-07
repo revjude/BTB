@@ -1,10 +1,7 @@
 **LXX Isaiah 44:15** 
 <small><sub>**LXX:**</sub></small>
 that it might be \[for\] men to burn. And taking of it he warms himself, and in burning they bake bread \[loaves\] upon it; and \[with\] the remaining he works out gods, and does obeisance to them. He made it a carved \[idol\], and he bends to them; 
-<small><sub>**KJV:**</sub></small>
-Then shall it be for a man to burn: for he will take thereof, and warm himself; yea, he kindleth [it], and baketh bread; yea, he maketh a god, and worshippeth [it]; he maketh it a graven image, and falleth down thereto.
-<small><sub>**BSB:**</sub></small>
-It serves as fuel for man. He takes some of it to warm himself, and he kindles a fire and bakes his bread. He also fashions it into a god and worships it; he makes an idol and bows down to it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.14|<< Isaiah 44:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.16|Isaiah 44:16 >>]]</td></tr></table>
 
 | Translation | Greek |

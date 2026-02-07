@@ -1,10 +1,7 @@
 **LXX Psalm 88:7** 
 <small><sub>**LXX:**</sub></small>
 Upon me your rage stayed, and you brought upon me all your crests. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-Thy wrath lieth hard upon me, and thou hast afflicted [me] with all thy waves. Selah.
-<small><sub>**BSB:**</sub></small>
-Your wrath weighs heavily upon me; all Your waves have submerged me. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.88.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.6|<< Psalm 88:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.8|Psalm 88:8 >>]]</td></tr></table>
 
 | Translation | Greek |

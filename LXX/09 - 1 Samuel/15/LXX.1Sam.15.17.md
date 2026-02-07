@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:17** 
 <small><sub>**LXX:**</sub></small>
 And Samuel said to Saul, Were you not small, \[even\] you, before yourself for taking the lead of \[the\] chiefdom of \[the\] tribes of Israel? And \[the\] <span class="smallcaps">lord</span> anointed you for king over Israel. 
-<small><sub>**KJV:**</sub></small>
-And Samuel said, When thou [wast] little in thine own sight, [wast] thou not [made] the head of the tribes of Israel, and the LORD anointed thee king over Israel?
-<small><sub>**BSB:**</sub></small>
-And Samuel said, “Although you were once small in your own eyes, have you not become the head of the tribes of Israel? The LORD anointed you king over Israel<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.16|<< 1 Samuel 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.18|1 Samuel 15:18 >>]]</td></tr></table>
 
 | Translation | Greek |

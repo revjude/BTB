@@ -1,4 +1,4 @@
-**2 Kings 17:20** 
+**2 Kings 17:20**<big><big>[[2Kgs.17.5 Israel Carried Captive to Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD rejected all the seed of Israel, and afflicted them, and delivered them into the hand of spoilers, until he had cast them out of his sight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the LORD rejected all the descendants of Israel. He afflicted them and delive
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.19|<< 2 Kings 17:19]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.21|2 Kings 17:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rejected  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3988A\|יִּמְאַ֨ס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.'As<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

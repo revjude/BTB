@@ -1,4 +1,4 @@
-**Numbers 9:21** 
+**Numbers 9:21**<big><big>[[Num.9.15 The Cloud above the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [so] it was, when the cloud abode from even unto the morning, and [that] the cloud was taken up in the morning, then they journeyed: whether [it was] by day or by night that the cloud was taken up, they journeyed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sometimes the cloud remained only from evening until morning, and when it lifted
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.20|<< Numbers 9:20]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.22|Numbers 9:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3426\|יֵ֞שׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] when  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**[^1] | 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad Aleppo (biblia benchayim)">LA(bh)</abbr> |

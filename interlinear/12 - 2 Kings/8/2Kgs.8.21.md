@@ -1,4 +1,4 @@
-**2 Kings 8:21** 
+**2 Kings 8:21**<big><big>[[2Kgs.8.20 Edom and Libnah Rebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joram went over to Zair, and all the chariots with him: and he rose by night, and smote the Edomites which compassed him about, and the captains of the chariots: and the people fled into their tents.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jehoram crossed over to Zair with all his chariots. When the Edomites surroun
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.20|<< 2 Kings 8:20]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.22|2 Kings 8:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he passed over  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|יַּעֲבֹ֤ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joram  |**<big>&#8207;[[H3141J\|יוֹרָם֙]]&#8207; </big>**| yo.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

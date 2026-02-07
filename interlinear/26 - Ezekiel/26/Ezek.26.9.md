@@ -1,4 +1,4 @@
-**Ezekiel 26:9** 
+**Ezekiel 26:9**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall set engines of war against thy walls, and with his axes he shall break down thy towers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will direct the blows of his battering rams against your walls and tear down 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.8|<< Ezekiel 26:8]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.10|Ezekiel 26:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] blow of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4239\|מְחִ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.Chi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | battering-ram his  |**<big>&#8207;[[H6904\|קָֽבָלּ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ka.va.L<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

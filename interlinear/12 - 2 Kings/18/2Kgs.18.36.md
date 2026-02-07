@@ -1,4 +1,4 @@
-**2 Kings 18:36** 
+**2 Kings 18:36**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the people held their peace, and answered him not a word: for the king’s commandment was, saying, Answer him not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the people remained silent and did not answer a word, for Hezekiah had comma
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.35|<< 2 Kings 18:35]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.37|2 Kings 18:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they kept silent  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2790B\|הֶחֱרִ֣ישׁוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.che.Ri.shu<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֔ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 11:30** 
+**1 Chronicles 11:30**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Maharai the Netophathite, Heled the son of Baanah the Netophathite,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Maharai the Netophathite, Heled son of Baanah the Netophathite,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.29|<< 1 Chronicles 11:29]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.31|1 Chronicles 11:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Maharai  |**<big>&#8207;[[H4121\|מַהְרַי֙]]&#8207; </big>**| mah.Rai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Netophathite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5200\|נְּטֹ֣פָתִ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.To.fa.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

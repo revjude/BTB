@@ -1,12 +1,12 @@
-**Romans 5:17
-**<small><sub>**KJV:**</sub></small>
+**Romans 5:17**<big><big>[[Rom.5.12 Death in Adam, Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if by one man’s offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)
 <small><sub>**BSB:**</sub></small>
 For if, by the trespass of the one man, death reigned through that one man, how much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the one man, Jesus Christ!
 <small><sub>**Literal:**</sub></small>
 If for by the of the one trespass <the> death reigned through the one, how much more those the excess <the> of grace and of the gift <the> of righteousness receiving in life will reign through the one Jesus Christ!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.16|<< Romans 5:16]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.18|Romans 5:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

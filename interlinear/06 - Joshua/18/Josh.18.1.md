@@ -1,4 +1,4 @@
-**Joshua 18:1** 
+**Joshua 18:1**<big><big>[[Josh.18.1 The Remainder Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the whole congregation of Israel assembled at Shiloh and set up the Tent of
 > $\quad$ referenced by: [[Acts.7.45|Acts 7:45]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they assembled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6950\|יִּקָּ֨הֲל֜וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ka.ha.Lu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

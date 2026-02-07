@@ -1,10 +1,7 @@
 **LXX Numbers 8:6** 
 <small><sub>**LXX:**</sub></small>
 Take the Levites from \[the\] midst of the sons of Israel, and you shall purify them. 
-<small><sub>**KJV:**</sub></small>
-Take the Levites from among the children of Israel, and cleanse them.
-<small><sub>**BSB:**</sub></small>
-“Take the Levites from among the Israelites and make them ceremonially clean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.5|<< Numbers 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.7|Numbers 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

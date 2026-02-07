@@ -1,4 +1,4 @@
-**1 Chronicles 3:15** 
+**1 Chronicles 3:15**<big><big>[[1Chr.3.10 The Descendants of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Josiah [were], the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Josiah: Johanan was the firstborn, Jehoiakim the second, Zedekiah th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.14|<< 1 Chronicles 3:14]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.16|1 Chronicles 3:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵי֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Josiah  |**<big>&#8207;[[H2977G\|יֹאשִׁיָּ֔הוּ]]&#8207; </big>**| yo.shi.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

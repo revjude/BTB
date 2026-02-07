@@ -1,10 +1,7 @@
 **LXX 2 Kings 14:23** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] fifteenth year of Amaziah son of Joash king of Judah, Jeroboam son of Joash reigned over Israel in Samaria -- forty and one year. 
-<small><sub>**KJV:**</sub></small>
-In the fifteenth year of Amaziah the son of Joash king of Judah Jeroboam the son of Joash king of Israel began to reign in Samaria, [and reigned] forty and one years.
-<small><sub>**BSB:**</sub></small>
-In the fifteenth year of the reign of Amaziah son of Joash over Judah, Jeroboam son of Jehoash became king of Israel, and he reigned in Samaria forty-one years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.22|<< 2 Kings 14:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.24|2 Kings 14:24 >>]]</td></tr></table>
 
 | Translation | Greek |

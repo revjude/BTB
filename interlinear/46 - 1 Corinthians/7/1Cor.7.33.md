@@ -1,12 +1,12 @@
-**1 Corinthians 7:33
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:33**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that is married careth for the things that are of the world, how he may please [his] wife.
 <small><sub>**BSB:**</sub></small>
 But the married man is concerned about the affairs of this world, how he can please his wife,
 <small><sub>**Literal:**</sub></small>
 the [one] however having been married he cares for the [things] of the world, how he may please the wife,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.32|<< 1 Corinthians 7:32]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.34|1 Corinthians 7:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

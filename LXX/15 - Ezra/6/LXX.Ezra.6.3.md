@@ -1,10 +1,7 @@
 **LXX Ezra 6:3** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] first year of king Cyrus, Cyrus the king rendered a decree concerning \[the\] house  of God, the one in Jerusalem, \[saying\], Let the house be built, and \[the\] place of which they sacrifice the sacrifices! And set the foundations, \[the\] height of sixty cubits, \[and the\] width of it sixty cubits, 
-<small><sub>**KJV:**</sub></small>
-In the first year of Cyrus the king [the same] Cyrus the king made a decree [concerning] the house of God at Jerusalem, Let the house be builded, the place where they offered sacrifices, and let the foundations thereof be strongly laid; the height thereof threescore cubits, [and] the breadth thereof threescore cubits;
-<small><sub>**BSB:**</sub></small>
-In the first year of King Cyrus, he issued a decree concerning the house of God in Jerusalem: Let the house be rebuilt as a place for offering sacrifices, and let its foundations be firmly laid. It is to be sixty cubits high and sixty cubits wide,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.2|<< Ezra 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.4|Ezra 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

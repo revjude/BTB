@@ -1,10 +1,7 @@
 **LXX Numbers 7:84** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the dedication of the altar in which day he anointed it, by the rulers of the sons of Israel; twelve silver saucers, twelve silver bowls, twelve gold incense pans, 
-<small><sub>**KJV:**</sub></small>
-This [was] the dedication of the altar, in the day when it was anointed, by the princes of Israel: twelve chargers of silver, twelve silver bowls, twelve spoons of gold:
-<small><sub>**BSB:**</sub></small>
-So these were the offerings from the leaders of Israel for the dedication of the altar when it was anointed: twelve silver platters, twelve silver bowls, and twelve gold dishes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.84|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.83|<< Numbers 7:83]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.85|Numbers 7:85 >>]]</td></tr></table>
 
 | Translation | Greek |

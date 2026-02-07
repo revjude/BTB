@@ -1,10 +1,7 @@
 **LXX Isaiah 48:13** 
 <small><sub>**LXX:**</sub></small>
 And  my hand laid the foundation for the earth, and  my right hand solidified the heaven. I will call them, and they shall stand together. 
-<small><sub>**KJV:**</sub></small>
-Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens: [when] I call unto them, they stand up together.
-<small><sub>**BSB:**</sub></small>
-Surely My own hand founded the earth, and My right hand spread out the heavens; when I summon them, they stand up together.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.12|<< Isaiah 48:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.14|Isaiah 48:14 >>]]</td></tr></table>
 
 | Translation | Greek |

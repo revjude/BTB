@@ -1,4 +1,4 @@
-**Proverbs 2:9** 
+**Proverbs 2:9**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou understand righteousness, and judgment, and equity; [yea], every good path.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will discern righteousness and justice and equity—every good path.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.8|<< Proverbs 2:8]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.10|Proverbs 2:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֗ז]]&#8207; </big>**| 'Az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will understand  |**<big>&#8207;[[H0995\|תָּ֭בִין]]&#8207; </big>**| Ta.vin<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

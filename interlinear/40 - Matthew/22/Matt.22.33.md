@@ -1,12 +1,12 @@
-**Matthew 22:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:33**<big><big>[[Matt.22.23 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the multitude heard [this], they were astonished at his doctrine.
 <small><sub>**BSB:**</sub></small>
 When the crowds heard this, they were astonished at His teaching.
 <small><sub>**Literal:**</sub></small>
 And having heard the crowds were astonished at the teaching of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.32|<< Matthew 22:32]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.34|Matthew 22:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having heard |**<big>[[G0191\|ἀκούσαντες]]</big>**  |akousantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

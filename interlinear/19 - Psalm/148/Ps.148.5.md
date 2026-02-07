@@ -1,4 +1,4 @@
-**Psalms 148:5** 
+**Psalms 148:5**<big><big>[[Ps.148.1 Praise the LORD from the Heavens|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them praise the name of the LORD: for he commanded, and they were created.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let them praise the name of the LORD, for He gave the command and they were crea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.148.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148.4|<< Psalms 148:4]]</td><td align="center" style="border:none;">[[Ps.148|Psalms 148]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.6|Psalms 148:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them praise  |**<big>&#8207;[[H1984B\|יְֽ֭הַֽלְלוּ]]&#8207; </big>**| Ye.ha.lu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

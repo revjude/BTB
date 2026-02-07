@@ -1,12 +1,12 @@
-**John 6:63
-**<small><sub>**KJV:**</sub></small>
+**John 6:63**<big><big>[[John.6.59 Many Disciples Turn Back|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, [they] are spirit, and [they] are life.
 <small><sub>**BSB:**</sub></small>
 The Spirit gives life; the flesh profits nothing. The words I have spoken to you are spirit and they are life.
 <small><sub>**Literal:**</sub></small>
 The Spirit is the [one] giving life, the flesh not profits no [thing]; The declarations that I myself have spoken to you spirit are and life they are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.62|<< John 6:62]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.64|John 6:64 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Spirit |**<big>[[G4151G\|πνεῦμά]]</big>**  |pneuma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

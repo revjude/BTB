@@ -1,4 +1,4 @@
-**1 Chronicles 19:17** 
+**1 Chronicles 19:17**<big><big>[[1Chr.19.10 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was told David; and he gathered all Israel, and passed over Jordan, and came upon them, and set [the battle] in array against them. So when David had put the battle in array against the Syrians, they fought with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When this was reported to David, he gathered all Israel, crossed the Jordan, adv
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.16|<< 1 Chronicles 19:16]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.18|1 Chronicles 19:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יֻּגַּ֣ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yu.Gad<small><sup>[[HVHw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to David  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1732\|דָוִ֗יד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

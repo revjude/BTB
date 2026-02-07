@@ -1,12 +1,12 @@
-**Mark 14:36
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:36**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, Abba, Father, all things [are] possible unto thee; take away this cup from me: nevertheless not what I will, but what thou wilt.
 <small><sub>**BSB:**</sub></small>
 “Abba, Father,” He said, “all things are possible for You. Take this cup from Me. Yet not what I will, but what You will.”
 <small><sub>**Literal:**</sub></small>
 And He was saying; Abba, O Father, all things [are] possible to You; do take away <the> cup this from Me but not [it is] what I myself want but what You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.35|<< Mark 14:35]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.37|Mark 14:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was saying; |**<big>[[G3004G\|ἔλεγεν·]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

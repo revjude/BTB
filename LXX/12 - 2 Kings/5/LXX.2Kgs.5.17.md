@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:17** 
 <small><sub>**LXX:**</sub></small>
 And Naaman said, And if not, let there be given indeed \[to\] your servant a cargo team of mules of earth, for your servant shall not offer any longer a whole burnt-offering and sacrifice to other gods; but only to the <span class="smallcaps">lord</span> alone. 
-<small><sub>**KJV:**</sub></small>
-And Naaman said, Shall there not then, I pray thee, be given to thy servant two mules’ burden of earth? for thy servant will henceforth offer neither burnt offering nor sacrifice unto other gods, but unto the LORD.
-<small><sub>**BSB:**</sub></small>
-“If you will not,” said Naaman, “please let me, your servant, be given as much soil as a pair of mules can carry. For your servant will never again make a burnt offering or a sacrifice to any other god but the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.16|<< 2 Kings 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.18|2 Kings 5:18 >>]]</td></tr></table>
 
 | Translation | Greek |

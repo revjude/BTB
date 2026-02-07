@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:8** 
 <small><sub>**LXX:**</sub></small>
 And the king said to the woman, Go to  your house being in health! and I will take charge concerning you. 
-<small><sub>**KJV:**</sub></small>
-And the king said unto the woman, Go to thine house, and I will give charge concerning thee.
-<small><sub>**BSB:**</sub></small>
-“Go home,” the king said to the woman, “and I will give orders on your behalf.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.7|<< 2 Samuel 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.9|2 Samuel 14:9 >>]]</td></tr></table>
 
 | Translation | Greek |

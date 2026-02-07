@@ -1,12 +1,12 @@
-**Romans 7:5
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:5**<big><big>[[Rom.7.1 Release from the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.
 <small><sub>**BSB:**</sub></small>
 For when we lived according to the flesh, the sinful passions aroused by the law were at work in our bodies, bearing fruit for death.
 <small><sub>**Literal:**</sub></small>
 While for we were in the flesh, the passions <the> of sins that [were] through the law were at work in the members of us to the bringing forth of fruit <the> to death;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.4|<< Romans 7:4]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.6|Romans 7:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | While |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

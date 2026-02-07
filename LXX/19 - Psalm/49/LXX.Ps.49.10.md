@@ -1,10 +1,7 @@
 **LXX Psalm 49:10** 
 <small><sub>**LXX:**</sub></small>
 Whenever he should behold wise men dying, \[the\] fool and \[the\] mindless one shall perish together; and they shall leave behind their riches to strangers. 
-<small><sub>**KJV:**</sub></small>
-For he seeth [that] wise men die, likewise the fool and the brutish person perish, and leave their wealth to others.
-<small><sub>**BSB:**</sub></small>
-For it is clear that wise men die, and the foolish and the senseless both perish and leave their wealth to others.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.49.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.9|<< Psalm 49:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.11|Psalm 49:11 >>]]</td></tr></table>
 
 | Translation | Greek |

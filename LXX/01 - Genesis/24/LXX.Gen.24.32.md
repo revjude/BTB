@@ -1,10 +1,7 @@
 **LXX Genesis 24:32** 
 <small><sub>**LXX:**</sub></small>
 And the man entered into the residence. And he unharnessed the camels, and gave straw and fodder to the camels, and water  for his feet, and for the feet of the men  with him. 
-<small><sub>**KJV:**</sub></small>
-And the man came into the house: and he ungirded his camels, and gave straw and provender for the camels, and water to wash his feet, and the men’s feet that [were] with him.
-<small><sub>**BSB:**</sub></small>
-So the man came to the house, and the camels were unloaded. Straw and feed were brought to the camels, and water to wash his feet and the feet of his companions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.31|<< Genesis 24:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.33|Genesis 24:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 52:8** (52:10)
+**Psalms 52:8**<big><big>[[Ps.52.1 Why Do You Boast of Evil？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I [am] like a green olive tree in the house of God: I trust in the mercy of God for ever and ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I am like an olive tree flourishing in the house of God; I trust in the lovi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.52.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.52.7|<< Psalms 52:7]]</td><td align="center" style="border:none;">[[Ps.52|Psalms 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.52.9|Psalms 52:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] like an olive tree  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H2132H\|זַ֣יִת]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Za.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

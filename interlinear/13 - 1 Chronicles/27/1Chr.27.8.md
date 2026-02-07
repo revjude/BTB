@@ -1,4 +1,4 @@
-**1 Chronicles 27:8** 
+**1 Chronicles 27:8**<big><big>[[1Chr.27.1 Twelve Captains for Twelve Months|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fifth captain for the fifth month [was] Shamhuth the Izrahite: and in his course [were] twenty and four thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fifth, for the fifth month, was the commander Shamhuth the Izrahite. There w
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.7|<< 1 Chronicles 27:7]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.9|1 Chronicles 27:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] the fifth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2549\|חַמִישִׁי֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.mi.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for the month  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2320G\|חֹ֣דֶשׁ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

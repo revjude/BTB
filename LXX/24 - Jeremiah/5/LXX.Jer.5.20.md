@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:20** 
 <small><sub>**LXX:**</sub></small>
 Announce these \[things\] unto the house of Jacob, and let it be heard in  of Judah! 
-<small><sub>**KJV:**</sub></small>
-Declare this in the house of Jacob, and publish it in Judah, saying,
-<small><sub>**BSB:**</sub></small>
-Declare this in the house of Jacob and proclaim it in Judah:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.19|<< Jeremiah 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.21|Jeremiah 5:21 >>]]</td></tr></table>
 
 | Translation | Greek |

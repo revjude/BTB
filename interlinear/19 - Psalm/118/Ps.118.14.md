@@ -1,4 +1,4 @@
-**Psalms 118:14** 
+**Psalms 118:14**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] my strength and song, and is become my salvation.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD is my strength and my song, and He has become my salvation.
 > $\quad$ referenced by: [[Exod.15.2|Exod 15:2]] ☩ [[Isa.12.2|Isa 12:2]] ☩ [[Heb.2.13|Heb 2:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] might my  |**<big>&#8207;[[H5797\|עָזִּ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.Z<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and strength  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2176\|זִמְרָ֣ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> zim.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

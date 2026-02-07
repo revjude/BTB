@@ -1,10 +1,7 @@
 **LXX Numbers 33:17** 
 <small><sub>**LXX:**</sub></small>
 And departing from Tombs of the Desire, and they camped in Hazeroth. 
-<small><sub>**KJV:**</sub></small>
-And they departed from Kibrothhattaavah, and encamped at Hazeroth.
-<small><sub>**BSB:**</sub></small>
-They set out from Kibroth-hattaavah and camped at Hazeroth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.16|<< Numbers 33:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.18|Numbers 33:18 >>]]</td></tr></table>
 
 | Translation | Greek |

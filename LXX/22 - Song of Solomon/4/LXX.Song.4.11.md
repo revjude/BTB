@@ -1,10 +1,7 @@
 **LXX Song of Solomon 4:11** 
 <small><sub>**LXX:**</sub></small>
 Your lips drop honeycomb, O bride. Honey and milk \[are\] under  your tongue; and \[the\] scent of your garments \[is\] as \[the\] scent of frankincense. 
-<small><sub>**KJV:**</sub></small>
-Thy lips, O [my] spouse, drop [as] the honeycomb: honey and milk [are] under thy tongue; and the smell of thy garments [is] like the smell of Lebanon.
-<small><sub>**BSB:**</sub></small>
-Your lips, my bride, drip sweetness like the honeycomb; honey and milk are under your tongue, and the fragrance of your garments is like the aroma of Lebanon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.10|<< Song of Solomon 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.12|Song of Solomon 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

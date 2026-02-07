@@ -1,10 +1,7 @@
 **LXX Daniel 4:17** 
 <small><sub>**LXX:**</sub></small>
 The word \[is\] through \[the\] interpretation of a sentinel, and \[the\] saying of holy ones the response, that the ones living should know that \[the\] <span class="smallcaps">lord</span> is the highest of the kingdom  of men, and to whom ever it should seem good he shall give it, and he will raise up over it \[that which is\] in contempt of men. 
-<small><sub>**KJV:**</sub></small>
-This matter [is] by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will, and setteth up over it the basest of men.
-<small><sub>**BSB:**</sub></small>
-This decision is the decree of the watchers, the verdict declared by the holy ones, so that the living will know that the Most High rules over the kingdom of mankind and gives it to whom He wishes, setting over it the lowliest of men.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.16|<< Daniel 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.18|Daniel 4:18 >>]]</td></tr></table>
 
 | Translation | Greek |

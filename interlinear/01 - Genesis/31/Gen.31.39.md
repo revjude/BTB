@@ -1,4 +1,4 @@
-**Genesis 31:39** 
+**Genesis 31:39**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That which was torn [of beasts] I brought not unto thee; I bare the loss of it; of my hand didst thou require it, [whether] stolen by day, or stolen by night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I did not bring you anything torn by wild beasts; I bore the loss myself. And yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.38|<< Genesis 31:38]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.40|Genesis 31:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a torn animal  |**<big>&#8207;[[H2966\|טְרֵפָה֙]]&#8207; </big>**| te.re.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Mark 14:62
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:62**<big><big>[[Mark.14.53 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said, I am: and ye shall see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.
 <small><sub>**BSB:**</sub></small>
 “I am,” said Jesus, “and you will see the Son of Man sitting at the right hand of Power and coming with the clouds of heaven.”
@@ -10,7 +10,7 @@ And Jesus said, I am: and ye shall see the Son of man sitting on the right hand 
 > $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]] ☩ [[LXX.Dan.7.13|Dan 7:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

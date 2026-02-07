@@ -1,4 +1,4 @@
-**1 Chronicles 11:38** 
+**1 Chronicles 11:38**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Joel the brother of Nathan, Mibhar the son of Haggeri,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joel the brother of Nathan, Mibhar son of Hagri,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.37|<< 1 Chronicles 11:37]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.39|1 Chronicles 11:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Joel  |**<big>&#8207;[[H3100M\|יוֹאֵל֙]]&#8207; </big>**| yo.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] brother of  |**<big>&#8207;[[H0251G\|אֲחִ֣י]]&#8207; </big>**| 'a.Chi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:16** 
 <small><sub>**LXX:**</sub></small>
 For there is no remembrance of the wise man with the fool in the eon; in so far as already the coming days  all \[things\] are forgotten; and how the wise \[man\] die with the fool? 
-<small><sub>**KJV:**</sub></small>
-For [there is] no remembrance of the wise more than of the fool for ever; seeing that which now [is] in the days to come shall all be forgotten. And how dieth the wise [man]? as the fool.
-<small><sub>**BSB:**</sub></small>
-For there is no lasting remembrance of the wise, just as with the fool, seeing that both will be forgotten in the days to come. Alas, the wise man will die just like the fool!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.15|<< Ecclesiastes 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.17|Ecclesiastes 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

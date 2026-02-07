@@ -1,4 +1,4 @@
-**Isaiah 5:24** 
+**Isaiah 5:24**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore as the fire devoureth the stubble, and the flame consumeth the chaff, [so] their root shall be as rottenness, and their blossom shall go up as dust: because they have cast away the law of the LORD of hosts, and despised the word of the Holy One of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore, as a tongue of fire consumes the straw, and as dry grass shrivels in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.23|<< Isaiah 5:23]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.25|Isaiah 5:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵן֩]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | as consumes  |**<big>&#8207;[[H9004\|כֶּ]]&#8207;&#8207;[[H0398\|אֱכֹ֨ל]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'e.Khol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

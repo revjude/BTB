@@ -1,4 +1,4 @@
-**Psalms 20:3** (20:4)
+**Psalms 20:3**<big><big>[[Ps.20.1 The Day of Trouble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember all thy offerings, and accept thy burnt sacrifice; Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May He remember all your gifts and look favorably on your burnt offerings. Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.20.2|<< Psalms 20:2]]</td><td align="center" style="border:none;">[[Ps.20|Psalms 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.20.4|Psalms 20:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may he remember  |**<big>&#8207;[[H2142\|יִזְכֹּ֥ר]]&#8207; </big>**| yiz.Kor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

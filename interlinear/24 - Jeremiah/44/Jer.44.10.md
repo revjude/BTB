@@ -1,4 +1,4 @@
-**Jeremiah 44:10** 
+**Jeremiah 44:10**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are not humbled [even] unto this day, neither have they feared, nor walked in my law, nor in my statutes, that I set before you and before your fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To this day they have not humbled themselves or shown reverence, nor have they f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.9|<< Jeremiah 44:9]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.11|Jeremiah 44:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have been made contrite  |**<big>&#8207;[[H1792\|דֻכְּא֔וּ]]&#8207; </big>**| du.ke.'U<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

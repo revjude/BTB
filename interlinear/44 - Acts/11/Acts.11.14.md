@@ -1,12 +1,12 @@
-**Acts 11:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:14**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who shall tell thee words, whereby thou and all thy house shall be saved.
 <small><sub>**BSB:**</sub></small>
 He will convey to you a message by which you and all your household will be saved.’
 <small><sub>**Literal:**</sub></small>
 who will speak declarations to you in which will be saved you yourself and all the household of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.13|<< Acts 11:13]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.15|Acts 11:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will speak |**<big>[[G2980\|λαλήσει]]</big>**  |lalēsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

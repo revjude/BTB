@@ -1,10 +1,7 @@
 **LXX Genesis 44:30** 
 <small><sub>**LXX:**</sub></small>
 Now then, if I should enter to  your servant and our father, and the child should not be with us, then \[know\] his life depends on  this one's life. 
-<small><sub>**KJV:**</sub></small>
-Now therefore when I come to thy servant my father, and the lad [be] not with us; seeing that his life is bound up in the lad’s life;
-<small><sub>**BSB:**</sub></small>
-So if the boy is not with us when I return to your servant, and if my father, whose life is wrapped up in the boy’s life,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.29|<< Genesis 44:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.31|Genesis 44:31 >>]]</td></tr></table>
 
 | Translation | Greek |

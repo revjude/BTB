@@ -1,4 +1,4 @@
-**Jeremiah 49:7** 
+**Jeremiah 49:7**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Concerning Edom, thus saith the LORD of hosts; [Is] wisdom no more in Teman? is counsel perished from the prudent? is their wisdom vanished?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Concerning Edom, this is what the LORD of Hosts says: “Is there no longer wisd
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.6|<< Jeremiah 49:6]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.8|Jeremiah 49:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of Edom  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H0123G\|אֱד֗וֹם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'e.Dom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֤ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

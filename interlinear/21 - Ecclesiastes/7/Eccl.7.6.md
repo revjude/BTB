@@ -1,4 +1,4 @@
-**Ecclesiastes 7:6** 
+**Ecclesiastes 7:6**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For as the crackling of thorns under a pot, so [is] the laughter of the fool: this also [is] vanity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For like the crackling of thorns under the pot, so is the laughter of the fool. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.5|<< Ecclesiastes 7:5]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.7|Ecclesiastes 7:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like [the] sound of  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H6963H\|ק֤וֹל]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

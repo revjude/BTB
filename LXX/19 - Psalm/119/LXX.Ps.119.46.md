@@ -1,10 +1,7 @@
 **LXX Psalm 119:46** 
 <small><sub>**LXX:**</sub></small>
 And I spoke by  your testimonies before kings, and I was not ashamed. 
-<small><sub>**KJV:**</sub></small>
-I will speak of thy testimonies also before kings, and will not be ashamed.
-<small><sub>**BSB:**</sub></small>
-I will speak of Your testimonies before kings, and I will not be ashamed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.45|<< Psalm 119:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.47|Psalm 119:47 >>]]</td></tr></table>
 
 | Translation | Greek |

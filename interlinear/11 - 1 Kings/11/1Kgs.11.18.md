@@ -1,4 +1,4 @@
-**1 Kings 11:18** 
+**1 Kings 11:18**<big><big>[[1Kgs.11.14 Hadad’s Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they arose out of Midian, and came to Paran: and they took men with them out of Paran, and they came to Egypt, unto Pharaoh king of Egypt; which gave him an house, and appointed him victuals, and gave him land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hadad and his men set out from Midian and went to Paran. They took men from Para
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.17|<< 1 Kings 11:17]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.19|1 Kings 11:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּקֻ֙מוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ku.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Midian  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4080H\|מִּדְיָ֔ן]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mid.Yan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

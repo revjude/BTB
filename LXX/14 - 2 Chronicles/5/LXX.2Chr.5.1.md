@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And all the work was completed which Solomon did in \[the\] house of \[the\] <span class="smallcaps">lord</span>; and Solomon carried in the holy \[things\] of David  his father, and the silver, and the gold, and all the items; and he put \[them\] in a treasury house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Thus all the work that Solomon made for the house of the LORD was finished: and Solomon brought in [all] the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God.
-<small><sub>**BSB:**</sub></small>
-So all the work that Solomon had performed for the house of the LORD was completed. Then Solomon brought in the items his father David had dedicated—the silver, the gold, and all the furnishings—and he placed them in the treasuries of the house of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.22|<< 2 Chronicles 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.5.2|2 Chronicles 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

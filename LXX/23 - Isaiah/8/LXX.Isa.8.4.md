@@ -1,10 +1,7 @@
 **LXX Isaiah 8:4** 
 <small><sub>**LXX:**</sub></small>
 Because before the child knows to call \[his\] father or mother, one shall take t \[\] he power of Damascus, and the spoils of Samaria before \[the\] king of \[the\] Assyrians. 
-<small><sub>**KJV:**</sub></small>
-For before the child shall have knowledge to cry, My father, and my mother, the riches of Damascus and the spoil of Samaria shall be taken away before the king of Assyria.
-<small><sub>**BSB:**</sub></small>
-For before the boy knows how to cry ‘Father’ or ‘Mother,’ the wealth of Damascus and the plunder of Samaria will be carried off by the king of Assyria.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.3|<< Isaiah 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.5|Isaiah 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

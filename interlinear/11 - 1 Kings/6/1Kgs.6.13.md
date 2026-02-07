@@ -1,4 +1,4 @@
-**1 Kings 6:13** 
+**1 Kings 6:13**<big><big>[[1Kgs.6.11 God’s Promise to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will dwell among the children of Israel, and will not forsake my people Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will dwell among the Israelites and will not abandon My people Israel.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.12|<< 1 Kings 6:12]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.14|1 Kings 6:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will dwell  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7931\|שָׁ֣כַנְתִּ֔י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Sha.khan.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in among  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|ת֖וֹךְ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Song of Solomon 6:13** 
 <small><sub>**LXX:**</sub></small>
 Return! return!  O Shulamite. Return! return! and we will look to you. 
-<small><sub>**KJV:**</sub></small>
-Return, return, O Shulamite; return, return, that we may look upon thee. What will ye see in the Shulamite? As it were the company of two armies.
-<small><sub>**BSB:**</sub></small>
-Come back, come back, O Shulammite! Come back, come back, that we may gaze upon you. Why do you look at the Shulammite, as on the dance of Mahanaim?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.12|<< Song of Solomon 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.1|Song of Solomon 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

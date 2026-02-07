@@ -1,12 +1,12 @@
-**Ephesians 2:7
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 2:7**<big><big>[[Eph.2.1 Alive with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That in the ages to come he might shew the exceeding riches of his grace in [his] kindness toward us through Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 in order that in the coming ages He might display the surpassing riches of His grace, demonstrated by His kindness to us in Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 in order that He may show in the ages that [are] coming the surpassing riches of the grace of Him in kindness toward us in Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.6|<< Ephesians 2:6]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.8|Ephesians 2:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in order that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He may show |**<big>[[G1731\|ἐνδείξηται]]</big>**  |endeixētai <small><sup>[[V-AMS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

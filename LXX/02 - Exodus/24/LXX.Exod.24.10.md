@@ -1,10 +1,7 @@
 **LXX Exodus 24:10** 
 <small><sub>**LXX:**</sub></small>
 And they saw the place where the God of Israel stood. And the \[things\] under  his feet \[were\] as a brick work of sapphire; and as \[the\] form of firmament of the heaven in the cleanliness. 
-<small><sub>**KJV:**</sub></small>
-And they saw the God of Israel: and [there was] under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in [his] clearness.
-<small><sub>**BSB:**</sub></small>
-and they saw the God of Israel. Under His feet was a work like a pavement made of sapphire, as clear as the sky itself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.9|<< Exodus 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.11|Exodus 24:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 24:10** is...

@@ -1,5 +1,5 @@
-**Revelation 19:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:3**<big><big>[[Rev.19.1 Rejoicing in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And again they said, Alleluia. And her smoke rose up for ever and ever.
 <small><sub>**BSB:**</sub></small>
 And a second time they called out: “Hallelujah! Her smoke rises forever and ever.”
@@ -10,7 +10,7 @@ And a second time they have said: Hallelujah! And the smoke of her goes up to th
 > $\quad$ alluding to: [[LXX.Isa.34.10|Isa 34:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a second time |**<big>[[G1208\|δεύτερον]]</big>**  |deuteron <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

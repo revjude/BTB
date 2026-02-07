@@ -1,10 +1,7 @@
 **LXX Exodus 9:9** 
 <small><sub>**LXX:**</sub></small>
 And let there become a cloud of dust upon all the land of Egypt! and there will be upon  men and upon the four-footed \[creatures\] sores of boils breaking out among both  men, and among the four-footed \[creatures\], and in all \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth [with] blains upon man, and upon beast, throughout all the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-It will become fine dust over all the land of Egypt, and festering boils will break out on man and beast throughout the land.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.8|<< Exodus 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.10|Exodus 9:10 >>]]</td></tr></table>
 
 | Translation | Greek |

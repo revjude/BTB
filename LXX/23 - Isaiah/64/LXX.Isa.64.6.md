@@ -1,10 +1,7 @@
 **LXX Isaiah 64:6** 
 <small><sub>**LXX:**</sub></small>
 And we all became as unclean. All our righteousness \[is\] as a \[menstrual\] rag sitting apart. And we flowed away as leaves on account of  our lawless deeds; thus \[the\] wind shall bear us \[away\]. 
-<small><sub>**KJV:**</sub></small>
-But we are all as an unclean [thing], and all our righteousnesses [are] as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away.
-<small><sub>**BSB:**</sub></small>
-Each of us has become like something unclean, and all our righteous acts are like filthy rags; we all wither like a leaf, and our iniquities carry us away like the wind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.64.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.64.5|<< Isaiah 64:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.64.7|Isaiah 64:7 >>]]</td></tr></table>
 
 | Translation | Greek |

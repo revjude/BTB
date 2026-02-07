@@ -1,4 +1,4 @@
-**Job 32:17** 
+**Job 32:17**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [I said], I will answer also my part, I also will shew mine opinion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I too will answer; yes, I will declare what I know.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.16|<< Job 32:16]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.18|Job 32:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will answer  |**<big>&#8207;[[H6030B\|אַעֲנֶ֣ה]]&#8207; </big>**| 'a.'a.Neh<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H0637\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

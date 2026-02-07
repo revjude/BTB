@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:14** 
 <small><sub>**LXX:**</sub></small>
 And he said to Gehazi, What must be done for her? And Gehazi said, That by all means a son is not to her, and  her husband is old. 
-<small><sub>**KJV:**</sub></small>
-And he said, What then [is] to be done for her? And Gehazi answered, Verily she hath no child, and her husband is old.
-<small><sub>**BSB:**</sub></small>
-So he asked, “Then what should be done for her?” “Well, she has no son,” Gehazi replied, “and her husband is old.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.13|<< 2 Kings 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.15|2 Kings 4:15 >>]]</td></tr></table>
 
 | Translation | Greek |

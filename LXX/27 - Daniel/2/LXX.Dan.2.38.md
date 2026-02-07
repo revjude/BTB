@@ -1,10 +1,7 @@
 **LXX Daniel 2:38** 
 <small><sub>**LXX:**</sub></small>
 In every place where the sons of men dwell, both wild beasts of \[the\] field and birds of heaven he gave into  your hand, and he placed you lord of all. You are the head  of gold. 
-<small><sub>**KJV:**</sub></small>
-And wheresoever the children of men dwell, the beasts of the field and the fowls of the heaven hath he given into thine hand, and hath made thee ruler over them all. Thou [art] this head of gold.
-<small><sub>**BSB:**</sub></small>
-Wherever the sons of men or beasts of the field or birds of the air dwell, He has given them into your hand and has made you ruler over them all. You are that head of gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.37|<< Daniel 2:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.39|Daniel 2:39 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Romans 16:3
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:3**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Greet Priscilla and Aquila my helpers in Christ Jesus:
 <small><sub>**BSB:**</sub></small>
 Greet Prisca and Aquila, my fellow workers in Christ Jesus,
 <small><sub>**Literal:**</sub></small>
 do greet Prisca and Aquila the fellow workers of mine in Christ Jesus —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.2|<< Romans 16:2]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.4|Romans 16:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do greet |**<big>[[G0782\|Ἀσπάσασθε]]</big>**  |Aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Prisca [^1] |**<big>[[G4251\|Πρίσκαν]]</big>**  |Priskan <small><sup>[[N-ASF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |

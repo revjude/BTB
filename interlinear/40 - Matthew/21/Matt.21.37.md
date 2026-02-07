@@ -1,12 +1,12 @@
-**Matthew 21:37
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:37**<big><big>[[Matt.21.33 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But last of all he sent unto them his son, saying, They will reverence my son.
 <small><sub>**BSB:**</sub></small>
 Finally, he sent his son to them. ‘They will respect my son,’ he said.
 <small><sub>**Literal:**</sub></small>
 Afterward then he sent to them the son of him saying; They will respect the son of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.36|<< Matthew 21:36]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.38|Matthew 21:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Afterward |**<big>[[G5306\|ὕστερον]]</big>**  |husteron <small><sup>[[A-ASN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

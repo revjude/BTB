@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:25** 
 <small><sub>**LXX:**</sub></small>
 And I will sprinkle upon you clean water, and you shall be cleansed from all  your uncleannesses; and I will cleanse you from all your idols. 
-<small><sub>**KJV:**</sub></small>
-Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you.
-<small><sub>**BSB:**</sub></small>
-I will also sprinkle clean water on you, and you will be clean. I will cleanse you from all your impurities and all your idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.24|<< Ezekiel 36:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.26|Ezekiel 36:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 36:25** is...

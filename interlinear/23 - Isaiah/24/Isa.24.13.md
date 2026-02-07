@@ -1,4 +1,4 @@
-**Isaiah 24:13** 
+**Isaiah 24:13**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thus it shall be in the midst of the land among the people, [there shall be] as the shaking of an olive tree, [and] as the gleaning grapes when the vintage is done.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So will it be on the earth and among the nations, like a harvested olive tree, l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.12|<< Isaiah 24:12]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.14|Isaiah 24:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹ֥ה]]&#8207; </big>**| khoh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

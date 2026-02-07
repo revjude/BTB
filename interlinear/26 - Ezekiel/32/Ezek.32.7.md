@@ -1,4 +1,4 @@
-**Ezekiel 32:7** 
+**Ezekiel 32:7**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when I shall put thee out, I will cover the heaven, and make the stars thereof dark; I will cover the sun with a cloud, and the moon shall not give her light.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When I extinguish you, I will cover the heavens and darken their stars. I will c
 > $\quad$ referenced by: [[Joel.2.10|Joel 2:10]] ☩ [[Matt.24.29|Matt 24:29]] ☩ [[Rev.8.12|Rev 8:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will cover  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3680\|כִסֵּיתִ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khi.sei.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when extinguishing you  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3518\|כַבּֽוֹתְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> kha.bot.<small><sup>[[HVpcc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

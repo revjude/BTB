@@ -1,10 +1,7 @@
 **LXX Proverbs 14:16** 
 <small><sub>**LXX:**</sub></small>
 A wise man, fearing, turns aside from evil; but the fool, yielding to himself, mixes in with \[the\] lawless one. 
-<small><sub>**KJV:**</sub></small>
-A wise [man] feareth, and departeth from evil: but the fool rageth, and is confident.
-<small><sub>**BSB:**</sub></small>
-A wise man fears and turns from evil, but a fool is careless and reckless.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.15|<< Proverbs 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.17|Proverbs 14:17 >>]]</td></tr></table>
 
 | Translation | Greek |

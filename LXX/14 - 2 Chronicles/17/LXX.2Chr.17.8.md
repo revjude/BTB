@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 17:8** 
 <small><sub>**LXX:**</sub></small>
 And with them the Levites -- Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tob-adonijah the Levites; and with them Elishama and Jehoram, the priests. 
-<small><sub>**KJV:**</sub></small>
-And with them [he sent] Levites, [even] Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tobadonijah, Levites; and with them Elishama and Jehoram, priests.
-<small><sub>**BSB:**</sub></small>
-accompanied by certain Levites—Shemaiah, Nethaniah, Zebadiah, Asahel, Shemiramoth, Jehonathan, Adonijah, Tobijah, and Tob-adonijah—along with the priests Elishama and Jehoram.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.7|<< 2 Chronicles 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.9|2 Chronicles 17:9 >>]]</td></tr></table>
 
 | Translation | Greek |

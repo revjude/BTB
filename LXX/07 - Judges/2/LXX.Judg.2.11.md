@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel acted  wickedly before \[the\] <span class="smallcaps">lord</span>, and they served to the Baalim. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel did evil in the sight of the LORD, and served Baalim:
-<small><sub>**BSB:**</sub></small>
-And the Israelites did evil in the sight of the LORD and served the Baals.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.10|<< Judges 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.12|Judges 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

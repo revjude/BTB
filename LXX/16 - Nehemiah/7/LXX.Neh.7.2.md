@@ -1,10 +1,7 @@
 **LXX Nehemiah 7:2** 
 <small><sub>**LXX:**</sub></small>
 and gave charge \[to\] Hanani  my brother, and \[to\] Hananiah \[the\] ruler of the palace in Jerusalem, (for he was as a true man, and one fearing  God more than many,) 
-<small><sub>**KJV:**</sub></small>
-That I gave my brother Hanani, and Hananiah the ruler of the palace, charge over Jerusalem: for he [was] a faithful man, and feared God above many.
-<small><sub>**BSB:**</sub></small>
-Then I put my brother Hanani in charge of Jerusalem, along with Hananiah the commander of the fortress, because he was a faithful man who feared God more than most.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.1|<< Nehemiah 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.3|Nehemiah 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

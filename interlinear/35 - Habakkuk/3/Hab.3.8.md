@@ -1,4 +1,4 @@
-**Habakkuk 3:8** 
+**Habakkuk 3:8**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Was the LORD displeased against the rivers? [was] thine anger against the rivers? [was] thy wrath against the sea, that thou didst ride upon thine horses [and] thy chariots of salvation?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Were You angry at the rivers, O LORD? Was Your wrath against the streams? Did Yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.7|<< Habakkuk 3:7]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.9|Habakkuk 3:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ on rivers  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H5104H\|נְהָרִים֙]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> vi<small><sup>[[HR]]</sup></small> n.ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | has it burned  |**<big>&#8207;[[H2734\|חָרָ֣ה]]&#8207; </big>**| cha.Rah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

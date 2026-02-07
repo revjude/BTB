@@ -1,10 +1,7 @@
 **LXX Job 8:14** 
 <small><sub>**LXX:**</sub></small>
 For his house will be uninhabited, and his tent will turn out to be as for a spider. 
-<small><sub>**KJV:**</sub></small>
-Whose hope shall be cut off, and whose trust [shall be] a spider’s web.
-<small><sub>**BSB:**</sub></small>
-His confidence is fragile; his security is in a spider’s web.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.13|<< Job 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.15|Job 8:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 3:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 3:7**<big><big>[[Acts.3.1 A Lame Man Walks|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he took him by the right hand, and lifted [him] up: and immediately his feet and ancle bones received strength.
 <small><sub>**BSB:**</sub></small>
 Taking him by the right hand, Peter helped him up, and at once the man’s feet and ankles were made strong.
 <small><sub>**Literal:**</sub></small>
 And having taken him by the right hand he raised up him. immediately then were strengthened the feet of him and the ankles,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.6|<< Acts 3:6]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.8|Acts 3:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken |**<big>[[G4084\|πιάσας]]</big>**  |piasas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

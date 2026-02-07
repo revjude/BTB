@@ -1,4 +1,4 @@
-**2 Kings 19:34** 
+**2 Kings 19:34**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will defend this city, to save it, for mine own sake, and for my servant David’s sake.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will defend this city and save it for My own sake and for the sake of My serva
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.33|<< 2 Kings 19:33]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.35|2 Kings 19:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will defend  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1598\|גַנּוֹתִ֛י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ga.no.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to>  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

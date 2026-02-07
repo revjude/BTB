@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:33** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] \[the\] ones standing, and  their sons. From the sons  of Kohath -- Heman the psalm singer, son of Joel, son of Shemuel, 
-<small><sub>**KJV:**</sub></small>
-And these [are] they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel,
-<small><sub>**BSB:**</sub></small>
-These are the men who served, together with their sons. From the Kohathites: Heman the singer, the son of Joel, the son of Samuel,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.32|<< 1 Chronicles 6:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.34|1 Chronicles 6:34 >>]]</td></tr></table>
 
 | Translation | Greek |

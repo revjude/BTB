@@ -1,4 +1,4 @@
-**2 Chronicles 32:26** 
+**2 Chronicles 32:26**<big><big>[[2Chr.32.24 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Notwithstanding Hezekiah humbled himself for the pride of his heart, [both] he and the inhabitants of Jerusalem, so that the wrath of the LORD came not upon them in the days of Hezekiah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Hezekiah humbled the pride of his heart—he and the people of Jerusalem—
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.25|<< 2 Chronicles 32:25]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.27|2 Chronicles 32:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he humbled himself  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3665\|יִּכָּנַ֤ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.Na'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hezekiah  |**<big>&#8207;[[H2396G\|יְחִזְקִיָּ֙הוּ֙]]&#8207; </big>**| ye.chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

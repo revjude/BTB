@@ -1,4 +1,4 @@
-**Proverbs 30:31** 
+**Proverbs 30:31**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A greyhound; an he goat also; and a king, against whom [there is] no rising up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ a strutting rooster; a he-goat; and a king with his army around him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.30|<< Proverbs 30:30]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.32|Proverbs 30:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a rooster of  |**<big>&#8207;[[H2223\|זַרְזִ֣יר]]&#8207; </big>**| zar.Zir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | loins  |**<big>&#8207;[[H4975\|מָתְנַ֣יִם]]&#8207; </big>**| ma.te.Na.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

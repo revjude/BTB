@@ -1,4 +1,4 @@
-**Psalms 46:3** (46:4)
+**Psalms 46:3**<big><big>[[Ps.46.1 God Is Our Refuge and Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Though] the waters thereof roar [and] be troubled, [though] the mountains shake with the swelling thereof. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ though their waters roar and foam and the mountains quake in the surge. Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.46.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.46.2|<< Psalms 46:2]]</td><td align="center" style="border:none;">[[Ps.46|Psalms 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.46.4|Psalms 46:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will roar  |**<big>&#8207;[[H1993\|יֶהֱמ֣וּ]]&#8207; </big>**| ye.he.Mu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will foam  |**<big>&#8207;[[H2560A\|יֶחְמְר֣וּ]]&#8207; </big>**| yech.me.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

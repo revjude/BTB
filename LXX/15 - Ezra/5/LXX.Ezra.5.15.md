@@ -1,10 +1,7 @@
 **LXX Ezra 5:15** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, These  items take and go! Put them in the house  in Jerusalem! And the house of God -- let it be built in  its place! 
-<small><sub>**KJV:**</sub></small>
-And said unto him, Take these vessels, go, carry them into the temple that [is] in Jerusalem, and let the house of God be builded in his place.
-<small><sub>**BSB:**</sub></small>
-and instructed, ‘Take these articles, put them in the temple in Jerusalem, and let the house of God be rebuilt on its original site.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.14|<< Ezra 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.16|Ezra 5:16 >>]]</td></tr></table>
 
 | Translation | Greek |

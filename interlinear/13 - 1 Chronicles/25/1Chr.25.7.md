@@ -1,4 +1,4 @@
-**1 Chronicles 25:7** 
+**1 Chronicles 25:7**<big><big>[[1Chr.25.1 Twenty-Four Divisions of Musicians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the number of them, with their brethren that were instructed in the songs of the LORD, [even] all that were cunning, was two hundred fourscore and eight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Together with their relatives, who were all trained and skillful in the songs of
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.25.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.25.6|<< 1 Chronicles 25:6]]</td><td align="center" style="border:none;">[[1Chr.25|1 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.25.8|1 Chronicles 25:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֤י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | number their  |**<big>&#8207;[[H4557\|מִסְפָּרָ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| mis.pa.Ra<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

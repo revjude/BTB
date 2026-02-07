@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:29** 
 <small><sub>**LXX:**</sub></small>
 But Ahab son of Omri reigned over Israel in \[the\] thirtieth and eighth year  of Asa king of Judah. And Ahab son of Omri reigned over Israel in Samaria twenty and two years. 
-<small><sub>**KJV:**</sub></small>
-And in the thirty and eighth year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria twenty and two years.
-<small><sub>**BSB:**</sub></small>
-In the thirty-eighth year of Asa’s reign over Judah, Ahab son of Omri became king of Israel, and he reigned in Samaria twenty-two years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.28|<< 1 Kings 16:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.30|1 Kings 16:30 >>]]</td></tr></table>
 
 | Translation | Greek |

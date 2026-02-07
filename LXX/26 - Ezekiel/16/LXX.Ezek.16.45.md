@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:45** 
 <small><sub>**LXX:**</sub></small>
 you are the daughter of your mother, the one thrusting away  her husband, and  her children; and sister  of your brethren, of the ones thrusting away  their husbands and  their children.  Your mother \[was\] a Hittite, and  your father an Amorite. 
-<small><sub>**KJV:**</sub></small>
-Thou [art] thy mother’s daughter, that lotheth her husband and her children; and thou [art] the sister of thy sisters, which lothed their husbands and their children: your mother [was] an Hittite, and your father an Amorite.
-<small><sub>**BSB:**</sub></small>
-You are the daughter of your mother, who despised her husband and children. You are the sister of your sisters, who despised their husbands and children. Your mother was a Hittite and your father an Amorite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.44|<< Ezekiel 16:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.46|Ezekiel 16:46 >>]]</td></tr></table>
 
 | Translation | Greek |

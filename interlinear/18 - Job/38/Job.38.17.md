@@ -1,4 +1,4 @@
-**Job 38:17** 
+**Job 38:17**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have the gates of death been opened unto thee? or hast thou seen the doors of the shadow of death?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Have the gates of death been revealed to you? Have you seen the gates of the sha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.16|<< Job 38:16]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.18|Job 38:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ have they been revealed  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H1540H\|נִגְל֣וּ]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> nig.Lu<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Jeremiah 31:4** 
+**Jeremiah 31:4**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again I will build thee, and thou shalt be built, O virgin of Israel: thou shalt again be adorned with thy tabrets, and shalt go forth in the dances of them that make merry.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Again I will build you, and you will be rebuilt, O Virgin Israel. Again you will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.3|<< Jeremiah 31:3]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.5|Jeremiah 31:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | again  |**<big>&#8207;[[H5750\|ע֤וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will build you  |**<big>&#8207;[[H1129\|אֶבְנֵ]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| 'ev.ne<small><sup>[[HVqi1cs]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Judges 8:17** 
+**Judges 8:17**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he beat down the tower of Penuel, and slew the men of the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also pulled down the tower of Penuel and killed the men of the city.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.16|<< Judges 8:16]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.18|Judges 8:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tower of  |**<big>&#8207;[[H4026M\|מִגְדַּ֥ל]]&#8207; </big>**| mig.Dal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

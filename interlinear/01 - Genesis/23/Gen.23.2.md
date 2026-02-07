@@ -1,4 +1,4 @@
-**Genesis 23:2** 
+**Genesis 23:2**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Sarah died in Kirjatharba; the same [is] Hebron in the land of Canaan: and Abraham came to mourn for Sarah, and to weep for her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She died in Kiriath-arba (that is, Hebron) in the land of Canaan, and Abraham we
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.1|<< Genesis 23:1]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.3|Genesis 23:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|תָּ֣מָת]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.mot<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sarah  |**<big>&#8207;[[H8283\|שָׂרָ֗ה]]&#8207; </big>**| sa.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

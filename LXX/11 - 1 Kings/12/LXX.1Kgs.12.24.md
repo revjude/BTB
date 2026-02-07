@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:24** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, You shall not ascend, nor wage war with  your brethren of \[the\] sons of Israel. each return to  his house! for from me this thing has taken place. And they hearkened to the word of \[the\] <span class="smallcaps">lord</span>, and they ceased  to go against the thing of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, Ye shall not go up, nor fight against your brethren the children of Israel: return every man to his house; for this thing is from me. They hearkened therefore to the word of the LORD, and returned to depart, according to the word of the LORD.
-<small><sub>**BSB:**</sub></small>
-that this is what the LORD says: ‘You are not to go up and fight against your brothers, the Israelites. Each of you must return home, for this is My doing.’” So they listened to the word of the LORD and turned back according to the word of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.23|<< 1 Kings 12:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.25|1 Kings 12:25 >>]]</td></tr></table>
 
 | Translation | Greek |

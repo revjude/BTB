@@ -1,4 +1,4 @@
-**Ezekiel 24:10** 
+**Ezekiel 24:10**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Heap on wood, kindle the fire, consume the flesh, and spice it well, and let the bones be burned.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pile on the logs and kindle the fire; cook the meat well and mix in the spices; 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.9|<< Ezekiel 24:9]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.11|Ezekiel 24:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | increase  |**<big>&#8207;[[H7235A\|הַרְבֵּ֤ה]]&#8207; </big>**| har.Beh<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the wood\<s>  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6086I\|עֵצִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Tzim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

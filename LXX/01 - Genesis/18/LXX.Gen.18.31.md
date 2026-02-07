@@ -1,10 +1,7 @@
 **LXX Genesis 18:31** 
 <small><sub>**LXX:**</sub></small>
 And he said, Since I have \[taken\] to speak to the Lord, but if \[there\] may be found there twenty? And he said, No way will I destroy if I should find there twenty. 
-<small><sub>**KJV:**</sub></small>
-And he said, Behold now, I have taken upon me to speak unto the Lord: Peradventure there shall be twenty found there. And he said, I will not destroy [it] for twenty’s sake.
-<small><sub>**BSB:**</sub></small>
-And Abraham said, “Now that I have ventured to speak to the Lord, suppose twenty are found there?” He answered, “On account of the twenty, I will not destroy it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.30|<< Genesis 18:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.32|Genesis 18:32 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 11:30
-**<small><sub>**KJV:**</sub></small>
+**John 11:30**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now Jesus was not yet come into the town, but was in that place where Martha met him.
 <small><sub>**BSB:**</sub></small>
 Now Jesus had not yet entered the village, but was still at the place where Martha had met Him.
 <small><sub>**Literal:**</sub></small>
 Not yet now had come <the> Jesus into the village, but was still in the place where met with Him <the> Martha.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.29|<< John 11:29]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.31|John 11:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not yet |**<big>[[G3768\|οὔπω]]</big>**  |oupō <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

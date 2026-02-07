@@ -1,5 +1,5 @@
-**Romans 10:6
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:6**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down [from above]:)
 <small><sub>**BSB:**</sub></small>
 But the righteousness that is by faith says: “Do not say in your heart, ‘Who will ascend into heaven?’ (that is, to bring Christ down)
@@ -10,7 +10,7 @@ The however of faith righteousness thus speaks: Not you may say in the heart of 
 > $\quad$ referencing: [[LXX.Deut.9.4|Deut 9:4]] ☩ [[LXX.Deut.30.12|Deut 30:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

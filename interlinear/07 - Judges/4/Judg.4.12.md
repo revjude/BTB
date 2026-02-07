@@ -1,4 +1,4 @@
-**Judges 4:12** 
+**Judges 4:12**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shewed Sisera that Barak the son of Abinoam was gone up to mount Tabor.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Sisera was told that Barak son of Abinoam had gone up Mount Tabor,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.11|<< Judges 4:11]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.13|Judges 4:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יַּגִּ֖דוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Gi.du<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Sisera  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5516G\|סִֽיסְרָ֑א]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> si.se.Ra'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 9:34
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:34**<big><big>[[Mark.9.33 The Greatest in the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But they held their peace: for by the way they had disputed among themselves, who [should be] the greatest.
 <small><sub>**BSB:**</sub></small>
 But they were silent, for on the way they had been arguing about which of them was the greatest.
 <small><sub>**Literal:**</sub></small>
 <the> And they were silent; with one another for they had been discussing along the road which [was] greatest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.33|<< Mark 9:33]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.35|Mark 9:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

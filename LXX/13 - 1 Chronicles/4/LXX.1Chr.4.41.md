@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:41** 
 <small><sub>**LXX:**</sub></small>
 And these written by name came in \[the\] days of Hezekiah king of Judah. And they struck  their tents, and the Minaians, the ones being found there, and they devoted them to consumption until  this day. And they lived there instead of them, for pasture  for their animals \[was\] there. 
-<small><sub>**KJV:**</sub></small>
-And these written by name came in the days of Hezekiah king of Judah, and smote their tents, and the habitations that were found there, and destroyed them utterly unto this day, and dwelt in their rooms: because [there was] pasture there for their flocks.
-<small><sub>**BSB:**</sub></small>
-These who were noted by name came in the days of Hezekiah king of Judah. They attacked the Hamites in their dwellings as well as the Meunites who were there, devoting them to destruction even to this day. Then they settled in their place, because there was pasture for their flocks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.40|<< 1 Chronicles 4:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.42|1 Chronicles 4:42 >>]]</td></tr></table>
 
 | Translation | Greek |

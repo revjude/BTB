@@ -1,4 +1,4 @@
-**Leviticus 25:7** 
+**Leviticus 25:7**<big><big>[[Lev.25.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for thy cattle, and for the beast that [are] in thy land, shall all the increase thereof be meat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and for your livestock and the wild animals in your land. All its growth may ser
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.6|<< Leviticus 25:6]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.8|Leviticus 25:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to livestock your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ֨]]&#8207;&#8207;[[H0929\|בְהֶמְתְּ]]&#8207;&#8207;[[H9021\|ךָ֔]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Li<small><sup>[[HR]]</sup></small> v.hem.te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and to the animal[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H2416C\|חַיָּ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HRd]]</sup></small> chai.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

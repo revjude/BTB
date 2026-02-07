@@ -1,10 +1,7 @@
 **LXX Psalm 22:13** 
 <small><sub>**LXX:**</sub></small>
 They opened their mouths against me, as a lion snatching away and roaring. 
-<small><sub>**KJV:**</sub></small>
-They gaped upon me [with] their mouths, [as] a ravening and a roaring lion.
-<small><sub>**BSB:**</sub></small>
-They open their jaws against me like lions that roar and maul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.12|<< Psalm 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.14|Psalm 22:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:13** is...

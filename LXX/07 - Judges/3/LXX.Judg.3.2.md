@@ -1,10 +1,7 @@
 **LXX Judges 3:2** 
 <small><sub>**LXX:**</sub></small>
 \[this was\] only for the sake of the generations of the sons of Israel,  to teach them war, except the ones before them did not know them, 
-<small><sub>**KJV:**</sub></small>
-Only that the generations of the children of Israel might know, to teach them war, at the least such as before knew nothing thereof;
-<small><sub>**BSB:**</sub></small>
-if only to teach warfare to the subsequent generations of Israel, especially to those who had not known it formerly:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.1|<< Judges 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.3|Judges 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

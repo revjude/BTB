@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:29** 
 <small><sub>**LXX:**</sub></small>
 the man going to bed with her shall give to the father of the young woman fifty double-drachmas of silver, and she will be his wife, because he humbled her; he will not be able to send her away  at any time. 
-<small><sub>**KJV:**</sub></small>
-Then the man that lay with her shall give unto the damsel’s father fifty [shekels] of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days.
-<small><sub>**BSB:**</sub></small>
-then the man who lay with her must pay the young woman’s father fifty shekels of silver, and she must become his wife because he has violated her. He must not divorce her as long as he lives.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.28|<< Deuteronomy 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.30|Deuteronomy 22:30 >>]]</td></tr></table>
 
 | Translation | Greek |

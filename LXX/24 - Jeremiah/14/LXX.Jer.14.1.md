@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> to Jeremiah concerning the drought. 
-<small><sub>**KJV:**</sub></small>
-The word of the LORD that came to Jeremiah concerning the dearth.
-<small><sub>**BSB:**</sub></small>
-This is the word of the LORD that came to Jeremiah concerning the drought:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.27|<< Jeremiah 13:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.2|Jeremiah 14:2 >>]]</td></tr></table>
 
 | Translation | Greek |

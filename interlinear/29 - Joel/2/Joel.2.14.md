@@ -1,4 +1,4 @@
-**Joel 2:14** 
+**Joel 2:14**<big><big>[[Joel.2.12 Return with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who knoweth [if] he will return and repent, and leave a blessing behind him; [even] a meat offering and a drink offering unto the LORD your God?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who knows? He may turn and relent and leave a blessing behind Him—grain and dr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.13|<< Joel 2:13]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.15|Joel 2:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֥י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] knowing  |**<big>&#8207;[[H3045\|יוֹדֵ֖עַ]]&#8207; </big>**| yo.De.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

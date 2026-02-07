@@ -1,4 +1,4 @@
-**Job 31:18** 
+**Job 31:18**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (For from my youth he was brought up with me, as [with] a father, and I have guided her from my mother’s womb;)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ though from my youth I reared him as would a father, and from my mother’s womb
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.17|<< Job 31:17]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.19|Job 31:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | since youth\<s> my  |**<big>&#8207;[[H9006\|מִ֭]]&#8207;&#8207;[[H5271A\|נְּעוּרַ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Mi.<small><sup>[[HR]]</sup></small> ne.'u.ra<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

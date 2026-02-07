@@ -1,10 +1,7 @@
 **LXX Exodus 8:18** 
 <small><sub>**LXX:**</sub></small>
 And the enchanters also did likewise in their sorceries, to lead out the midge, but they were not able. And there were  midges among both  men, and among the four-footed \[creatures\]. 
-<small><sub>**KJV:**</sub></small>
-And the magicians did so with their enchantments to bring forth lice, but they could not: so there were lice upon man, and upon beast.
-<small><sub>**BSB:**</sub></small>
-The magicians tried to produce gnats using their magic arts, but they could not. And the gnats remained on man and beast.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.17|<< Exodus 8:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.19|Exodus 8:19 >>]]</td></tr></table>
 
 | Translation | Greek |

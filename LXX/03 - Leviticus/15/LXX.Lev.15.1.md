@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Moses and Aaron, saying, 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Moses and to Aaron, saying,
-<small><sub>**BSB:**</sub></small>
-And the LORD said to Moses and Aaron,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.57|<< Leviticus 14:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.2|Leviticus 15:2 >>]]</td></tr></table>
 
 | Translation | Greek |

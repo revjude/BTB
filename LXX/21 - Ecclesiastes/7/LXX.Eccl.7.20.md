@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 7:20** 
 <small><sub>**LXX:**</sub></small>
 For there is no just man on the earth who shall do good and shall not sin. 
-<small><sub>**KJV:**</sub></small>
-For [there is] not a just man upon earth, that doeth good, and sinneth not.
-<small><sub>**BSB:**</sub></small>
-Surely there is no righteous man on earth who does good and never sins.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.19|<< Ecclesiastes 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.21|Ecclesiastes 7:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ecclesiastes 7:20** is...

@@ -1,10 +1,7 @@
 **LXX Joshua 8:21** 
 <small><sub>**LXX:**</sub></small>
 And Joshua and all Israel beheld that the ones in ambush took the city, and that the smoke of the city ascended into the heaven; and turning they struck the men  of Ai. 
-<small><sub>**KJV:**</sub></small>
-And when Joshua and all Israel saw that the ambush had taken the city, and that the smoke of the city ascended, then they turned again, and slew the men of Ai.
-<small><sub>**BSB:**</sub></small>
-When Joshua and all Israel saw that the men in ambush had captured the city and that smoke was rising from it, they turned around and struck down the men of Ai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.20|<< Joshua 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.22|Joshua 8:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Habakkuk 3:14** 
+**Habakkuk 3:14**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing [was] as to devour the poor secretly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With his own spear You pierced his head, when his warriors stormed out to scatte
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.13|<< Habakkuk 3:13]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.15|Habakkuk 3:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you pierced  |**<big>&#8207;[[H5344A\|נָקַ֤בְתָּ]]&#8207; </big>**| na.Kav.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with own arrows his  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H4294I\|מַטָּי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> ma.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

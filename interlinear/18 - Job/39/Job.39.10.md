@@ -1,4 +1,4 @@
-**Job 39:10** 
+**Job 39:10**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Can you hold him to the furrow with a harness? Will he plow the valleys behind y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.9|<< Job 39:9]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.11|Job 39:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will you bind  |**<big>&#8207;[[H9008\|הֲֽ]]&#8207;&#8207;[[H7194\|תִקְשָׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> tik.shor-<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wild ox  |**<big>&#8207;[[H7214\|רֵ֭ים]]&#8207; </big>**| reim<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

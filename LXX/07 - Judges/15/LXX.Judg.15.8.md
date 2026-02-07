@@ -1,10 +1,7 @@
 **LXX Judges 15:8** 
 <small><sub>**LXX:**</sub></small>
 And he struck them leg on thigh with a great beating. And he went down and sat at \[the\] hole in the rock of Etam. 
-<small><sub>**KJV:**</sub></small>
-And he smote them hip and thigh with a great slaughter: and he went down and dwelt in the top of the rock Etam.
-<small><sub>**BSB:**</sub></small>
-And he struck them ruthlessly with a great slaughter, and then went down and stayed in the cave at the rock of Etam.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.7|<< Judges 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.9|Judges 15:9 >>]]</td></tr></table>
 
 | Translation | Greek |

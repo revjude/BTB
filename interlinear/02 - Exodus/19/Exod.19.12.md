@@ -1,4 +1,4 @@
-**Exodus 19:12** 
+**Exodus 19:12**<big><big>[[Exod.19.1 Israel at Mount Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt set bounds unto the people round about, saying, Take heed to yourselves, [that ye] go [not] up into the mount, or touch the border of it: whosoever toucheth the mount shall be surely put to death:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And you are to set up a boundary for the people around the mountain and tell the
 > $\quad$ referenced by: [[Heb.12.20|Heb 12:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will set a boundary for  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1379\|הִגְבַּלְתָּ֤]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hig.bal.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

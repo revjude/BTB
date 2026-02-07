@@ -1,12 +1,12 @@
-**Revelation 20:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 20:3**<big><big>[[Rev.20.1 Satan Bound|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season.
 <small><sub>**BSB:**</sub></small>
 And he threw him into the Abyss, shut it, and sealed it over him, so that he could not deceive the nations until the thousand years were complete. After that, he must be released for a brief period of time.
 <small><sub>**Literal:**</sub></small>
 And he cast him into the Abyss and shut him and sealed [it] over him, so that not he may deceive any longer the nations until may be completed the thousand years. and After these things it is necessary for to be released him for a little time.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.2|<< Revelation 20:2]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.4|Revelation 20:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he cast |**<big>[[G0906G\|ἔβαλεν]]</big>**  |ebalen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

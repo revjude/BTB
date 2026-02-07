@@ -1,10 +1,7 @@
 **LXX Daniel 10:7** 
 <small><sub>**LXX:**</sub></small>
 And I Daniel alone beheld the apparition. And the men, the ones with me, beheld not the apparition, but a great change of state fell upon them, and they fled in fear. 
-<small><sub>**KJV:**</sub></small>
-And I Daniel alone saw the vision: for the men that were with me saw not the vision; but a great quaking fell upon them, so that they fled to hide themselves.
-<small><sub>**BSB:**</sub></small>
-Only I, Daniel, saw the vision; the men with me did not see it, but a great terror fell upon them, and they ran and hid themselves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.6|<< Daniel 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.8|Daniel 10:8 >>]]</td></tr></table>
 
 | Translation | Greek |

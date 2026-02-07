@@ -1,4 +1,4 @@
-**Psalms 12:6** (12:7)
+**Psalms 12:6**<big><big>[[Ps.12.1 The Godly Are No More|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of the LORD [are] pure words: [as] silver tried in a furnace of earth, purified seven times.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The words of the LORD are flawless, like silver refined in a furnace, like gold 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.12.5|<< Psalms 12:5]]</td><td align="center" style="border:none;">[[Ps.12|Psalms 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.12.7|Psalms 12:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] words of  |**<big>&#8207;[[H0565A\|אִֽמֲר֣וֹת]]&#8207; </big>**| 'i.ma.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

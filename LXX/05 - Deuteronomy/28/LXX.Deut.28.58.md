@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:58** 
 <small><sub>**LXX:**</sub></small>
 if you should not hearken to do all the discourses  of this law, the ones being written in  this scroll, to fear  this wonderful and valued name -- \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-If thou wilt not observe to do all the words of this law that are written in this book, that thou mayest fear this glorious and fearful name, THE LORD THY GOD;
-<small><sub>**BSB:**</sub></small>
-If you are not careful to observe all the words of this law which are written in this book, that you may fear this glorious and awesome name—the LORD your God—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.58|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.57|<< Deuteronomy 28:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.59|Deuteronomy 28:59 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Judges 6:12** 
+**Judges 6:12**<big><big>[[Judg.6.11 The Call of Gideon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of the LORD appeared unto him, and said unto him, The LORD [is] with thee, thou mighty man of valour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the angel of the LORD appeared to Gideon and said, “The LORD is with you, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.11|<< Judges 6:11]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.13|Judges 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appeared  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200L\|יֵּרָ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Ra'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָ֖י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

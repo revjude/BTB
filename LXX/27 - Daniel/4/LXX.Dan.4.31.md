@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 With the word being in the mouth of the king, a voice from heaven came, To you it is spoken, O king Nebuchadnezzar,  your kingdom went from you. 
-<small><sub>**KJV:**</sub></small>
-While the word [was] in the king’s mouth, there fell a voice from heaven, [saying], O king Nebuchadnezzar, to thee it is spoken; The kingdom is departed from thee.
-<small><sub>**BSB:**</sub></small>
-While the words were still in the king’s mouth, a voice came from heaven: “It is decreed to you, King Nebuchadnezzar, that the kingdom has departed from you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.30|<< Daniel 4:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.32|Daniel 4:32 >>]]</td></tr></table>
 
 | Translation | Greek |

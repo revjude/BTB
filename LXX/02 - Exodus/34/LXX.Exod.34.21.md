@@ -1,10 +1,7 @@
 **LXX Exodus 34:21** 
 <small><sub>**LXX:**</sub></small>
 Six days you shall work, but the seventh day you shall rest -- in the sowing and in the harvest you shall rest. 
-<small><sub>**KJV:**</sub></small>
-Six days thou shalt work, but on the seventh day thou shalt rest: in earing time and in harvest thou shalt rest.
-<small><sub>**BSB:**</sub></small>
-Six days you shall labor, but on the seventh day you shall rest; even in the seasons of plowing and harvesting, you must rest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.20|<< Exodus 34:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.22|Exodus 34:22 >>]]</td></tr></table>
 
 | Translation | Greek |

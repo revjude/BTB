@@ -1,5 +1,5 @@
-**Hebrews 11:3
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:3**<big><big>[[Heb.11.1 Faith and Assurance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.
 <small><sub>**BSB:**</sub></small>
 By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible.
@@ -10,7 +10,7 @@ By faith we understand to have been formed the ages by declaration of God so tha
 > $\quad$ alluding to: [[LXX.Gen.1.1|Gen 1:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we understand |**<big>[[G3539\|νοοῦμεν]]</big>**  |nooumen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

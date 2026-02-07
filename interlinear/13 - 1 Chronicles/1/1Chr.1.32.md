@@ -1,4 +1,4 @@
-**1 Chronicles 1:32** 
+**1 Chronicles 1:32**<big><big>[[1Chr.1.28 The Descendants of Abraham|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the sons of Keturah, Abraham’s concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons born to Keturah, Abraham’s concubine: Zimran, Jokshan, Medan, Midian,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.31|<< 1 Chronicles 1:31]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.33|1 Chronicles 1:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֨י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Keturah  |**<big>&#8207;[[H6989\|קְטוּרָ֜ה]]&#8207; </big>**| ke.tu.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

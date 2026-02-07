@@ -1,10 +1,7 @@
 **LXX Job 12:11** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] ear indeed scrutinizes words, and the throat tastes grains. 
-<small><sub>**KJV:**</sub></small>
-Doth not the ear try words? and the mouth taste his meat?
-<small><sub>**BSB:**</sub></small>
-Does not the ear test words as the tongue tastes its food?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.10|<< Job 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.12|Job 12:12 >>]]</td></tr></table>
 
 | Translation | Greek |

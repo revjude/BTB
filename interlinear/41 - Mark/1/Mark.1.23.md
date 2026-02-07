@@ -1,12 +1,12 @@
-**Mark 1:23
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:23**<big><big>[[Mark.1.21 Jesus Expels an Unclean Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there was in their synagogue a man with an unclean spirit; and he cried out,
 <small><sub>**BSB:**</sub></small>
 Suddenly a man with an unclean spirit cried out in the synagogue:
 <small><sub>**Literal:**</sub></small>
 And immediately there was in the synagogue of them a man with a spirit unclean and he cried out<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.22|<< Mark 1:22]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.24|Mark 1:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately [^1] |**<big>[[G2112\|εὐθὺς]]</big>**  |euthus <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">NO</abbr> | |

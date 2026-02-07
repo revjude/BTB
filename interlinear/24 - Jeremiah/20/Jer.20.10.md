@@ -1,4 +1,4 @@
-**Jeremiah 20:10** 
+**Jeremiah 20:10**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I heard the defaming of many, fear on every side. Report, [say they], and we will report it. All my familiars watched for my halting, [saying], Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I have heard the whispering of many: “Terror is on every side! Report him;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.9|<< Jeremiah 20:9]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.11|Jeremiah 20:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have heard  |**<big>&#8207;[[H8085G\|שָׁמַ֜עְתִּי]]&#8207; </big>**| sha.Ma'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

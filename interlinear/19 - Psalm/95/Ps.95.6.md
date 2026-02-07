@@ -1,4 +1,4 @@
-**Psalms 95:6** 
+**Psalms 95:6**<big><big>[[Ps.95.1 Do Not Harden Your Hearts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O come, let us worship and bow down: let us kneel before the LORD our maker.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O come, let us worship and bow down; let us kneel before the LORD our Maker.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.95.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.95.5|<< Psalms 95:5]]</td><td align="center" style="border:none;">[[Ps.95|Psalms 95]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.95.7|Psalms 95:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come  |**<big>&#8207;[[H0935G\|בֹּ֭אוּ]]&#8207; </big>**| Bo.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let us bow down  |**<big>&#8207;[[H7812\|נִשְׁתַּחֲוֶ֣ה]]&#8207; </big>**| nish.ta.cha.Veh<small><sup>[[HVti1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

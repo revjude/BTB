@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:7** 
 <small><sub>**LXX:**</sub></small>
 And Nathan said to David, You are the man, the \[one\] doing this \[thing\]. Thus says \[the\] <span class="smallcaps">lord</span>  God of Israel, I anointed you for king over  Israel, and I rescued you from out of \[the\] hand of Saul. 
-<small><sub>**KJV:**</sub></small>
-And Nathan said to David, Thou [art] the man. Thus saith the LORD God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul;
-<small><sub>**BSB:**</sub></small>
-Then Nathan said to David, “You are that man! This is what the LORD, the God of Israel, says: ‘I anointed you king over Israel, and I delivered you from the hand of Saul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.6|<< 2 Samuel 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.8|2 Samuel 12:8 >>]]</td></tr></table>
 
 | Translation | Greek |

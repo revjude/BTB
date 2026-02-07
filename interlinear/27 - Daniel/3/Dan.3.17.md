@@ -1,4 +1,4 @@
-**Daniel 3:17** 
+**Daniel 3:17**<big><big>[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If it be [so], our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver [us] out of thine hand, O king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If the God whom we serve exists, then He is able to deliver us from the blazing 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.16|<< Daniel 3:16]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.18|Daniel 3:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H2006A\|הֵ֣ן]]&#8207; </big>**| hen<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H0383\|אִיתַ֗י]]&#8207; </big>**| 'i.Tai<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

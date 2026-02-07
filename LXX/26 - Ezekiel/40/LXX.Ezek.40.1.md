@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the fifth and twentieth year  of our captivity, in the first month, \[the\] tenth of the month, in the fourteenth year after the capturing the city, in  that day \[the\] hand \[of the\] <span class="smallcaps">lord</span> came upon me, 
-<small><sub>**KJV:**</sub></small>
-In the five and twentieth year of our captivity, in the beginning of the year, in the tenth [day] of the month, in the fourteenth year after that the city was smitten, in the selfsame day the hand of the LORD was upon me, and brought me thither.
-<small><sub>**BSB:**</sub></small>
-In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month—in the fourteenth year after Jerusalem had been struck down—on that very day the hand of the LORD was upon me, and He took me there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.29|<< Ezekiel 39:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.2|Ezekiel 40:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 40:1** is...

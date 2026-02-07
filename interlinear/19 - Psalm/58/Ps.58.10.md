@@ -1,4 +1,4 @@
-**Psalms 58:10** (58:11)
+**Psalms 58:10**<big><big>[[Ps.58.1 God Judges the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The righteous shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The righteous will rejoice when they see they are avenged; they will wash their 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.9|<< Psalms 58:9]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.11|Psalms 58:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will rejoice  |**<big>&#8207;[[H8055\|יִשְׂמַ֣ח]]&#8207; </big>**| yis.Mach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] righteous  |**<big>&#8207;[[H6662\|צַ֭דִּיק]]&#8207; </big>**| Tza.dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

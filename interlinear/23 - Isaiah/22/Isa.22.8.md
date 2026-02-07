@@ -1,4 +1,4 @@
-**Isaiah 22:8** 
+**Isaiah 22:8**<big><big>[[Isa.22.1 The Valley of Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he discovered the covering of Judah, and thou didst look in that day to the armour of the house of the forest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has uncovered the defenses of Judah. On that day you looked to the weapons in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.7|<< Isaiah 22:7]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.9|Isaiah 22:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he uncovered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1540K\|יְגַ֕ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Gal<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

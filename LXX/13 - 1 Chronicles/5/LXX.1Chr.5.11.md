@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 5:11** 
 <small><sub>**LXX:**</sub></small>
 and \[the\] sons of Gad dwelt over against them at the land of Bashan unto Salcah. 
-<small><sub>**KJV:**</sub></small>
-And the children of Gad dwelt over against them, in the land of Bashan unto Salchah:
-<small><sub>**BSB:**</sub></small>
-The descendants of Gad lived next to the Reubenites in the land of Bashan, as far as Salecah:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.10|<< 1 Chronicles 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.12|1 Chronicles 5:12 >>]]</td></tr></table>
 
 | Translation | Greek |

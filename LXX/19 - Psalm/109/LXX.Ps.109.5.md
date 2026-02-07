@@ -1,10 +1,7 @@
 **LXX Psalm 109:5** 
 <small><sub>**LXX:**</sub></small>
 And they placed against me bad \[things\] for good \[things\]; and hatred for  my affection. 
-<small><sub>**KJV:**</sub></small>
-And they have rewarded me evil for good, and hatred for my love.
-<small><sub>**BSB:**</sub></small>
-They repay me evil for good, and hatred for my love.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.4|<< Psalm 109:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.6|Psalm 109:6 >>]]</td></tr></table>
 
 | Translation | Greek |

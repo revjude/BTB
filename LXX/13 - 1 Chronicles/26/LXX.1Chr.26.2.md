@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 26:2** 
 <small><sub>**LXX:**</sub></small>
 And  to Meshelemiah sons Zechariah the first-born, Jediael the second, Zebadiah the third, Jathniel the fourth, 
-<small><sub>**KJV:**</sub></small>
-And the sons of Meshelemiah [were], Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,
-<small><sub>**BSB:**</sub></small>
-Meshelemiah had sons: Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.1|<< 1 Chronicles 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.3|1 Chronicles 26:3 >>]]</td></tr></table>
 
 | Translation | Greek |

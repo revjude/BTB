@@ -1,12 +1,12 @@
-**John 16:9
-**<small><sub>**KJV:**</sub></small>
+**John 16:9**<big><big>[[John.16.5 The Promise of the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of sin, because they believe not on me;
 <small><sub>**BSB:**</sub></small>
 in regard to sin, because they do not believe in Me;
 <small><sub>**Literal:**</sub></small>
 concerning sin indeed, because not do they believe in Me myself;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.8|<< John 16:8]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.10|John 16:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | concerning |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | sin |**<big>[[G0266\|ἁμαρτίας]]</big>**  |hamartias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

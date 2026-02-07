@@ -1,4 +1,4 @@
-**Isaiah 22:10** 
+**Isaiah 22:10**<big><big>[[Isa.22.1 The Valley of Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye have numbered the houses of Jerusalem, and the houses have ye broken down to fortify the wall.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You counted the houses of Jerusalem and tore them down to strengthen the wall.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.9|<< Isaiah 22:9]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.11|Isaiah 22:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] houses of  |**<big>&#8207;[[H1004B\|בָּתֵּ֥י]]&#8207; </big>**| ba.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

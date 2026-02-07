@@ -1,4 +1,4 @@
-**Genesis 50:9** 
+**Genesis 50:9**<big><big>[[Gen.50.1 Mourning and Burial for Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there went up with him both chariots and horsemen: and it was a very great company.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Chariots and horsemen alike went up with him, and it was an exceedingly large pr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.8|<< Genesis 50:8]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.10|Genesis 50:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֣עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with him  |**<big>&#8207;[[H5973A\|עִמּ֔]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| i.M<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

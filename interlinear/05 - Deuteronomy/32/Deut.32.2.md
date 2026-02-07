@@ -1,4 +1,4 @@
-**Deuteronomy 32:2** 
+**Deuteronomy 32:2**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My doctrine shall drop as the rain, my speech shall distil as the dew, as the small rain upon the tender herb, and as the showers upon the grass:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let my teaching fall like rain and my speech settle like dew, like gentle rain o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.1|<< Deuteronomy 32:1]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.3|Deuteronomy 32:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it drop  |**<big>&#8207;[[H6201\|יַעֲרֹ֤ף]]&#8207; </big>**| ya.'a.Rof<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like the rain  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H4306\|מָּטָר֙]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> ma.Tar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

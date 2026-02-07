@@ -1,12 +1,12 @@
-**Acts 8:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:22**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Repent therefore of this thy wickedness, and pray God, if perhaps the thought of thine heart may be forgiven thee.
 <small><sub>**BSB:**</sub></small>
 Repent, therefore, of your wickedness, and pray to the Lord. Perhaps He will forgive you for the intent of your heart.
 <small><sub>**Literal:**</sub></small>
 do repent therefore of the wickedness of yours this and do pray earnestly to the Lord, if indeed will be forgiven you the intent of the heart of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.21|<< Acts 8:21]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.23|Acts 8:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do repent |**<big>[[G3340\|μετανόησον]]</big>**  |metanoēson <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

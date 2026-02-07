@@ -1,12 +1,12 @@
-**Mark 12:21
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:21**<big><big>[[Mark.12.18 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the second took her, and died, neither left he any seed: and the third likewise.
 <small><sub>**BSB:**</sub></small>
 Then the second one married the widow, but he also died and left no children. And the third did likewise.
 <small><sub>**Literal:**</sub></small>
 And the second took her and died and not he himself having left seed and the third likewise;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.20|<< Mark 12:20]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.22|Mark 12:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

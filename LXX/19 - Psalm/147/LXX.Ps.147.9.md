@@ -1,10 +1,7 @@
 **LXX Psalm 147:9** 
 <small><sub>**LXX:**</sub></small>
 giving to the cattle their nourishment, and to the young of the crows -- to the ones calling upon him. 
-<small><sub>**KJV:**</sub></small>
-He giveth to the beast his food, [and] to the young ravens which cry.
-<small><sub>**BSB:**</sub></small>
-He provides food for the animals, and for the young ravens when they call.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.147.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.147.8|<< Psalm 147:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.147.10|Psalm 147:10 >>]]</td></tr></table>
 
 | Translation | Greek |

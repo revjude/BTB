@@ -1,4 +1,4 @@
-**Hosea 5:7** 
+**Hosea 5:7**<big><big>[[Hos.5.1 Judgment on Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have dealt treacherously against the LORD: for they have begotten strange children: now shall a month devour them with their portions.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have been unfaithful to the LORD; for they have borne illegitimate children
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.6|<< Hosea 5:6]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.8|Hosea 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with Yahweh  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3068G\|יהוָ֣ה]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have dealt treacherously  |**<big>&#8207;[[H0898\|בָּגָ֔דוּ]]&#8207; </big>**| ba.Ga.du<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

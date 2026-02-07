@@ -1,10 +1,7 @@
 **LXX Song of Solomon 6:2** 
 <small><sub>**LXX:**</sub></small>
 My beloved \[man\] went down to his garden, to bowls of the aromatics, to tend in gardens, and to collect lilies. 
-<small><sub>**KJV:**</sub></small>
-My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies.
-<small><sub>**BSB:**</sub></small>
-My beloved has gone down to his garden, to the beds of spices, to pasture his flock in the gardens and to gather lilies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.1|<< Song of Solomon 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.3|Song of Solomon 6:3 >>]]</td></tr></table>
 
 | Translation | Greek |

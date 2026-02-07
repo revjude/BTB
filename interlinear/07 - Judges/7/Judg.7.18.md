@@ -1,4 +1,4 @@
-**Judges 7:18** 
+**Judges 7:18**<big><big>[[Judg.7.15 Gideon Defeats Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I blow with a trumpet, I and all that [are] with me, then blow ye the trumpets also on every side of all the camp, and say, [The sword] of the LORD, and of Gideon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I and all who are with me blow our horns, then you are also to blow your ho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.17|<< Judges 7:17]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.19|Judges 7:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will give a blast  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8628\|תָקַעְתִּי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ta.ka'.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the trumpet  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7782\|שּׁוֹפָ֔ר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> sho.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

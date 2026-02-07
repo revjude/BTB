@@ -1,10 +1,7 @@
 **LXX Amos 3:4** 
 <small><sub>**LXX:**</sub></small>
 Shall a lion bellow from out of  his forest not having game, \[no\]. Shall a cub utter his voice from out of  his haven altogether, if anything should not have been seized, \[no\]. 
-<small><sub>**KJV:**</sub></small>
-Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?
-<small><sub>**BSB:**</sub></small>
-Does a lion roar in the forest when he has no prey? Does a young lion growl in his den if he has caught nothing?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.3|<< Amos 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.5|Amos 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

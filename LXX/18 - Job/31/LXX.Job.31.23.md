@@ -1,10 +1,7 @@
 **LXX Job 31:23** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] fear of \[the\] <span class="smallcaps">lord</span> constrained me; from  his concern I shall not endure. 
-<small><sub>**KJV:**</sub></small>
-For destruction [from] God [was] a terror to me, and by reason of his highness I could not endure.
-<small><sub>**BSB:**</sub></small>
-For calamity from God terrifies me, and His splendor I cannot overpower.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.22|<< Job 31:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.24|Job 31:24 >>]]</td></tr></table>
 
 | Translation | Greek |

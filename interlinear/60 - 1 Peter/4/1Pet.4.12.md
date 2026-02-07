@@ -1,12 +1,12 @@
-**1 Peter 4:12
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 4:12**<big><big>[[1Pet.4.12 Suffering as Christians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:
 <small><sub>**BSB:**</sub></small>
 Beloved, do not be surprised at the fiery trial that has come upon you, as though something strange were happening to you.
 <small><sub>**Literal:**</sub></small>
 Beloved, not do be surprised at the among you fire for a trial to you taking place as if a strange thing to you were happening;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.11|<< 1 Peter 4:11]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.13|1 Peter 4:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Beloved, |**<big>[[G0027\|Ἀγαπητοί,]]</big>**  |Agapētoi <small><sup>[[A-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

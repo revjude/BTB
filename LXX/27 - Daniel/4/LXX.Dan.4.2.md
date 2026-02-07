@@ -1,10 +1,7 @@
 **LXX Daniel 4:2** 
 <small><sub>**LXX:**</sub></small>
 The signs and the miracles which God the highest did with me is pleasing before me to announce to you. 
-<small><sub>**KJV:**</sub></small>
-I thought it good to shew the signs and wonders that the high God hath wrought toward me.
-<small><sub>**BSB:**</sub></small>
-I am pleased to declare the signs and wonders that the Most High God has performed for me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.1|<< Daniel 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.3|Daniel 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

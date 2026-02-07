@@ -1,4 +1,4 @@
-**Ezekiel 26:4** 
+**Ezekiel 26:4**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall destroy the walls of Tyrus, and break down her towers: I will also scrape her dust from her, and make her like the top of a rock.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will destroy the walls of Tyre and demolish her towers. I will scrape the s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.3|<< Ezekiel 26:3]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.5|Ezekiel 26:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will destroy  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7843\|שִׁחֲת֞וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.cha.Tu<small><sup>[[HVpq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] walls of  |**<big>&#8207;[[H2346G\|חֹמ֣וֹת]]&#8207; </big>**| cho.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

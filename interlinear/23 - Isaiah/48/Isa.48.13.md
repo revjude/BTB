@@ -1,4 +1,4 @@
-**Isaiah 48:13** 
+**Isaiah 48:13**<big><big>[[Isa.48.12 Deliverance Promised to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens: [when] I call unto them, they stand up together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely My own hand founded the earth, and My right hand spread out the heavens; 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.12|<< Isaiah 48:12]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.14|Isaiah 48:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H0637\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hand my  |**<big>&#8207;[[H3027H\|יָדִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| ya.D<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

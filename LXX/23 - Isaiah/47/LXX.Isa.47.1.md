@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Go down, sit upon the ground, O virgin daughter of Babylon, sit on the ground! There is no throne, O daughter of \[the\] Chaldeans. For no longer shall you be added to be called tender and delicate. 
-<small><sub>**KJV:**</sub></small>
-Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: [there is] no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.
-<small><sub>**BSB:**</sub></small>
-“Go down and sit in the dust, O Virgin Daughter of Babylon. Sit on the ground without a throne, O Daughter of the Chaldeans! For you will no longer be called tender or delicate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.47.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.13|<< Isaiah 46:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.2|Isaiah 47:2 >>]]</td></tr></table>
 
 | Translation | Greek |

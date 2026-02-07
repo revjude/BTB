@@ -1,10 +1,7 @@
 **LXX Zechariah 13:6** 
 <small><sub>**LXX:**</sub></small>
 And I will say to him, What \[are\]  these wounds in the middle  of your hands? And he will say, \[The\] ones which I was struck by in the house  of my beloved. 
-<small><sub>**KJV:**</sub></small>
-And [one] shall say unto him, What [are] these wounds in thine hands? Then he shall answer, [Those] with which I was wounded [in] the house of my friends.
-<small><sub>**BSB:**</sub></small>
-If someone asks him, ‘What are these wounds on your chest?’ he will answer, ‘These are the wounds I received in the house of my friends.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.13.5|<< Zechariah 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.13.7|Zechariah 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

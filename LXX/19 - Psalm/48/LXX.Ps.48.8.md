@@ -1,10 +1,7 @@
 **LXX Psalm 48:8** 
 <small><sub>**LXX:**</sub></small>
 Just as we heard, so also we behold in \[the\] city of \[the\] <span class="smallcaps">lord</span> of the forces, in \[the\] city  of our God.  God founded it into the eon. 
-<small><sub>**KJV:**</sub></small>
-As we have heard, so have we seen in the city of the LORD of hosts, in the city of our God: God will establish it for ever. Selah.
-<small><sub>**BSB:**</sub></small>
-As we have heard, so we have seen in the city of the LORD of Hosts, in the city of our God: God will establish her forever. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.48.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.48.7|<< Psalm 48:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.48.9|Psalm 48:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 38:26** 
+**Exodus 38:26**<big><big>[[Exod.38.21 An Inventory of Materials|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A bekah for every man, [that is], half a shekel, after the shekel of the sanctuary, for every one that went to be numbered, from twenty years old and upward, for six hundred thousand and three thousand and five hundred and fifty [men].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ a beka per person, that is, half a shekel, according to the sanctuary shekel, fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.25|<< Exodus 38:25]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.27|Exodus 38:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a beka  |**<big>&#8207;[[H1235\|בֶּ֚קַע]]&#8207; </big>**| Be.ka'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for the head  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1538\|גֻּלְגֹּ֔לֶת]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> gul.Go.let<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

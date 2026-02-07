@@ -1,12 +1,12 @@
-**Mark 6:22
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:22**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the daughter of the said Herodias came in, and danced, and pleased Herod and them that sat with him, the king said unto the damsel, Ask of me whatsoever thou wilt, and I will give [it] thee.
 <small><sub>**BSB:**</sub></small>
 When the daughter of Herodias came and danced, she pleased Herod and his guests, and the king said to the girl, “Ask me for whatever you wish, and I will give it to you.”
 <small><sub>**Literal:**</sub></small>
 and when was entering the daughter of him <the> Herodias and when having danced and she pleased <the> Herod and those reclining with [him] said <the> now the king to the girl; do ask me whatever if you shall wish, and I will give to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.21|<< Mark 6:21]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.23|Mark 6:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when was entering |**<big>[[G1525\|εἰσελθούσης]]</big>**  |eiselthousēs <small><sup>[[V-2AAP-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

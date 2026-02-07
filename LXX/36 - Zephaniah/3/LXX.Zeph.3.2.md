@@ -1,10 +1,7 @@
 **LXX Zephaniah 3:2** 
 <small><sub>**LXX:**</sub></small>
 She did not listen to your voice; she did not take instruction; she had not relied upon the <span class="smallcaps">lord</span>, and to  her God she did not approach. 
-<small><sub>**KJV:**</sub></small>
-She obeyed not the voice; she received not correction; she trusted not in the LORD; she drew not near to her God.
-<small><sub>**BSB:**</sub></small>
-She heeded no voice; she accepted no correction. She does not trust in the LORD; she has not drawn near to her God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.1|<< Zephaniah 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.3|Zephaniah 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

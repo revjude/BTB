@@ -1,4 +1,4 @@
-**Joshua 18:4** 
+**Joshua 18:4**<big><big>[[Josh.18.1 The Remainder Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give out from among you three men for [each] tribe: and I will send them, and they shall rise, and go through the land, and describe it according to the inheritance of them; and they shall come [again] to me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Appoint three men from each tribe, and I will send them out to survey the land a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.3|<< Joshua 18:3]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.5|Joshua 18:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | provide  |**<big>&#8207;[[H3051\|הָב֥וּ]]&#8207; </big>**| ha.Vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> yourselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֛ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

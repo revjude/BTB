@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:29** 
 <small><sub>**LXX:**</sub></small>
 and for the bread loaves of the place setting, and for the fine flour of the sacrifice \[offering\], and for the unleavened cakes, and for \[the\] frying pan, and for the mixture, and for every measure; 
-<small><sub>**KJV:**</sub></small>
-Both for the shewbread, and for the fine flour for meat offering, and for the unleavened cakes, and for [that which is baked in] the pan, and for that which is fried, and for all manner of measure and size;
-<small><sub>**BSB:**</sub></small>
-as well as for the rows of the showbread, the fine flour for the grain offering, the wafers of unleavened bread, the baking, the mixing, and all measurements of quantity and size.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.28|<< 1 Chronicles 23:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.30|1 Chronicles 23:30 >>]]</td></tr></table>
 
 | Translation | Greek |

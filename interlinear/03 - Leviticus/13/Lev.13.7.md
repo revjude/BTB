@@ -1,4 +1,4 @@
-**Leviticus 13:7** 
+**Leviticus 13:7**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if the rash spreads further on his skin after he has shown himself to the pr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.6|<< Leviticus 13:6]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.8|Leviticus 13:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to spread>  |**<big>&#8207;[[H6581\|פָּשֹׂ֨ה]]&#8207; </big>**| pa.Soh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

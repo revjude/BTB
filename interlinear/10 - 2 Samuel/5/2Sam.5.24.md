@@ -1,4 +1,4 @@
-**2 Samuel 5:24** 
+**2 Samuel 5:24**<big><big>[[2Sam.5.17 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the LORD go out before thee, to smite the host of the Philistines.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As soon as you hear the sound of marching in the tops of the balsam trees, move 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.23|<< 2 Samuel 5:23]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.25|2 Samuel 5:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and let it be  |**<big>&#8207;[[H9002\|וִ֠]]&#8207;&#8207;[[H1961\|יהִי]]&#8207; </big>**| Vi.<small><sup>[[HC]]</sup></small> hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | just as hearing you  [^3]|**<big>&#8207;[[H9004\|כְּֽ]]&#8207;&#8207;[[H8085G\|שָׁמְעֲ]]&#8207;&#8207;[[H9041\|ךָ֞]]&#8207; </big>**[^4] | ke.<small><sup>[[HR]]</sup></small> sha.me.'a.<small><sup>[[HVqcc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

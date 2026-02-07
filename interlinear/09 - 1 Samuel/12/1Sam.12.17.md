@@ -1,4 +1,4 @@
-**1 Samuel 12:17** 
+**1 Samuel 12:17**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is it] not wheat harvest to day? I will call unto the LORD, and he shall send thunder and rain; that ye may perceive and see that your wickedness [is] great, which ye have done in the sight of the LORD, in asking you a king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is it not the wheat harvest today? I will call on the LORD to send thunder and r
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.16|<< 1 Samuel 12:16]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.18|1 Samuel 12:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֤וֹא]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] harvest of  |**<big>&#8207;[[H7105A\|קְצִיר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.tzir-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

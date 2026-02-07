@@ -1,4 +1,4 @@
-**Daniel 8:11** 
+**Daniel 8:11**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, he magnified [himself] even to the prince of the host, and by him the daily [sacrifice] was taken away, and the place of his sanctuary was cast down.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It magnified itself, even to the Prince of the host; it removed His daily sacrif
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.10|<< Daniel 8:10]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.12|Daniel 8:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5704\|עַ֥ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] commander of  |**<big>&#8207;[[H8269\|שַֽׂר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| sar-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

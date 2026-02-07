@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:12** 
 <small><sub>**LXX:**</sub></small>
 And the king made the hewn timbers for supports of the house of \[the\] <span class="smallcaps">lord</span>, and the house of the king, and stringed instruments, and lutes \[for\] the singers. There had not come such unhewn timbers unto the land, nor was seen somewhere until  this day. 
-<small><sub>**KJV:**</sub></small>
-And the king made of the almug trees pillars for the house of the LORD, and for the king’s house, harps also and psalteries for singers: there came no such almug trees, nor were seen unto this day.
-<small><sub>**BSB:**</sub></small>
-The king made the almug wood into steps for the house of the LORD and for the king’s palace, and into lyres and harps for the singers. Never before had such almug wood been brought in, nor has such been seen again to this day.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.11|<< 1 Kings 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.13|1 Kings 10:13 >>]]</td></tr></table>
 
 | Translation | Greek |

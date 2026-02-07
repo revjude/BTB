@@ -1,4 +1,4 @@
-**Judges 9:45** 
+**Judges 9:45**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abimelech fought against the city all that day; and he took the city, and slew the people that [was] therein, and beat down the city, and sowed it with salt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And all that day Abimelech fought against the city until he had captured it and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.44|<< Judges 9:44]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.46|Judges 9:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Abimelech  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0040H\|אֲבִימֶ֜לֶךְ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vi.Me.lekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] fighting  |**<big>&#8207;[[H3898A\|נִלְחָ֣ם]]&#8207; </big>**| nil.Cham<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:33** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to David, In no way shall you be able to go against  this Philistine to battle against him, for you are a boy, and he is a man of war from his youth. 
-<small><sub>**KJV:**</sub></small>
-And Saul said to David, Thou art not able to go against this Philistine to fight with him: for thou [art but] a youth, and he a man of war from his youth.
-<small><sub>**BSB:**</sub></small>
-But Saul replied, “You cannot go out against this Philistine to fight him. You are just a boy, and he has been a warrior from his youth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.32|<< 1 Samuel 17:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.34|1 Samuel 17:34 >>]]</td></tr></table>
 
 | Translation | Greek |

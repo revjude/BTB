@@ -1,5 +1,5 @@
-**Matthew 1:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:23**<big><big>[[Matt.1.18 The Birth of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.
 <small><sub>**BSB:**</sub></small>
 “Behold, the virgin will be with child and will give birth to a son, and they will call Him Immanuel” (which means, “God with us”).
@@ -10,7 +10,7 @@ Behold the virgin in womb [pregnancy] will have and she will bear a son, and the
 > $\quad$ referencing: [[LXX.Isa.7.14|Isa 7:14]] ☩ [[LXX.Isa.8.8|Isa 8:8]][[LXX.Isa.8.10|, 10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

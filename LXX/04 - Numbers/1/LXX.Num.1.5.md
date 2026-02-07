@@ -1,10 +1,7 @@
 **LXX Numbers 1:5** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the names of the men who shall stand with you of the ones of Reuben -- Elizur son of Shedeur. 
-<small><sub>**KJV:**</sub></small>
-And these [are] the names of the men that shall stand with you: of [the tribe of] Reuben; Elizur the son of Shedeur.
-<small><sub>**BSB:**</sub></small>
-These are the names of the men who are to assist you: From the tribe of Reuben, Elizur son of Shedeur;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.4|<< Numbers 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.6|Numbers 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

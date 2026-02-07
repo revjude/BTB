@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 25:7** 
 <small><sub>**LXX:**</sub></small>
 And their number was with  their brethren, \[the\] ones being taught to sing \[to the\] <span class="smallcaps">lord</span>, every one perceiving \[singing\] -- two hundred eighty and eight. 
-<small><sub>**KJV:**</sub></small>
-So the number of them, with their brethren that were instructed in the songs of the LORD, [even] all that were cunning, was two hundred fourscore and eight.
-<small><sub>**BSB:**</sub></small>
-Together with their relatives, who were all trained and skillful in the songs of the LORD, they numbered 288.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.25.6|<< 1 Chronicles 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.25.8|1 Chronicles 25:8 >>]]</td></tr></table>
 
 | Translation | Greek |

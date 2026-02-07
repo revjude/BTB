@@ -1,4 +1,4 @@
-**Ezekiel 12:4** 
+**Ezekiel 12:4**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou bring forth thy stuff by day in their sight, as stuff for removing: and thou shalt go forth at even in their sight, as they that go forth into captivity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bring out your baggage for exile by day, as they watch. Then in the evening, as 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.3|<< Ezekiel 12:3]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.5|Ezekiel 12:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will bring out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318H\|הוֹצֵאתָ֨]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.tze.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | baggage\<s> your  |**<big>&#8207;[[H3627\|כֵלֶ֜י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| khe.Lei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

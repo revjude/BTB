@@ -1,12 +1,12 @@
-**John 11:13
-**<small><sub>**KJV:**</sub></small>
+**John 11:13**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.
 <small><sub>**BSB:**</sub></small>
 They thought that Jesus was talking about actual sleep, but He was speaking about the death of Lazarus.
 <small><sub>**Literal:**</sub></small>
 Had spoken however <the> Jesus of the death of him; they however thought that of the rest <the> of sleep He speaks.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.12|<< John 11:12]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.14|John 11:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Had spoken |**<big>[[G2036\|εἰρήκει]]</big>**  |eirēkei <small><sup>[[V-LAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

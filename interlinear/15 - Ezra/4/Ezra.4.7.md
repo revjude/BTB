@@ -1,4 +1,4 @@
-**Ezra 4:7** 
+**Ezra 4:7**<big><big>[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of their companions, unto Artaxerxes king of Persia; and the writing of the letter [was] written in the Syrian tongue, and interpreted in the Syrian tongue.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And in the days of Artaxerxes king of Persia, Bishlam, Mithredath, Tabeel, and t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.6|<< Ezra 4:6]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.8|Ezra 4:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in [the] days of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H3117G\|ימֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Artaxerxes  |**<big>&#8207;[[H0783A\|אַרְתַּחְשַׁ֗שְׂתָּא]]&#8207; </big>**| 'ar.tach.Shas.ta'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

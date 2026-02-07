@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:22** 
 <small><sub>**LXX:**</sub></small>
 In which manner silver is cast in a furnace in \[the\] midst of \[the\] furnace, so shall you be cast in a furnace in \[the\] midst of it. And you shall realize that I \[the\] <span class="smallcaps">lord</span> poured out  my rage upon you. 
-<small><sub>**KJV:**</sub></small>
-As silver is melted in the midst of the furnace, so shall ye be melted in the midst thereof; and ye shall know that I the LORD have poured out my fury upon you.
-<small><sub>**BSB:**</sub></small>
-As silver is melted in a furnace, so you will be melted within the city. Then you will know that I, the LORD, have poured out My wrath upon you.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.21|<< Ezekiel 22:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.23|Ezekiel 22:23 >>]]</td></tr></table>
 
 | Translation | Greek |

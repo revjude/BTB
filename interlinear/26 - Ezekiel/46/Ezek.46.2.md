@@ -1,4 +1,4 @@
-**Ezekiel 46:2** 
+**Ezekiel 46:2**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the prince shall enter by the way of the porch of [that] gate without, and shall stand by the post of the gate, and the priests shall prepare his burnt offering and his peace offerings, and he shall worship at the threshold of the gate: then he shall go forth; but the gate shall not be shut until the evening.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The prince is to enter from the outside through the portico of the gateway and s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.1|<< Ezekiel 46:1]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.3|Ezekiel 46:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will go  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֣א]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the prince  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5387A\|נָּשִׂ֡יא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.Si'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

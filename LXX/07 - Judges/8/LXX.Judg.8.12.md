@@ -1,10 +1,7 @@
 **LXX Judges 8:12** 
 <small><sub>**LXX:**</sub></small>
 And Zebah fled, and Zalmunna. And he pursued after them, and he took hold of the two kings of Midian,  Zebah and  Zalmunna, and all  their camp was startled. 
-<small><sub>**KJV:**</sub></small>
-And when Zebah and Zalmunna fled, he pursued after them, and took the two kings of Midian, Zebah and Zalmunna, and discomfited all the host.
-<small><sub>**BSB:**</sub></small>
-When Zebah and Zalmunna fled, Gideon pursued and captured these two kings of Midian, routing their entire army.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.11|<< Judges 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.13|Judges 8:13 >>]]</td></tr></table>
 
 | Translation | Greek |

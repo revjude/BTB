@@ -1,10 +1,7 @@
 **LXX Numbers 23:5** 
 <small><sub>**LXX:**</sub></small>
 And God put a word into the mouth of Balaam, and he said, Turning towards Balak thus you shall speak. 
-<small><sub>**KJV:**</sub></small>
-And the LORD put a word in Balaam’s mouth, and said, Return unto Balak, and thus thou shalt speak.
-<small><sub>**BSB:**</sub></small>
-Then the LORD put a message in Balaam’s mouth, saying, “Return to Balak and give him this message.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.4|<< Numbers 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.6|Numbers 23:6 >>]]</td></tr></table>
 
 | Translation | Greek |

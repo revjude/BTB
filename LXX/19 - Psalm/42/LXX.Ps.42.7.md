@@ -1,10 +1,7 @@
 **LXX Psalm 42:7** 
 <small><sub>**LXX:**</sub></small>
 \[The\] deep calls \[the\] deep at \[the\] sound  of your torrents; all  your crests and  your waves went over me. 
-<small><sub>**KJV:**</sub></small>
-Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.
-<small><sub>**BSB:**</sub></small>
-Deep calls to deep in the roar of Your waterfalls; all Your breakers and waves have rolled over me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.42.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.42.6|<< Psalm 42:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.42.8|Psalm 42:8 >>]]</td></tr></table>
 
 | Translation | Greek |

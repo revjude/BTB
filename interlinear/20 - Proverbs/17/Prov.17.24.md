@@ -1,4 +1,4 @@
-**Proverbs 17:24** 
+**Proverbs 17:24**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wisdom [is] before him that hath understanding; but the eyes of a fool [are] in the ends of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wisdom is the focus of the discerning, but the eyes of a fool wander to the ends
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.23|<< Proverbs 17:23]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.25|Proverbs 17:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] with  |**<big>&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] face of  |**<big>&#8207;[[H6440H\|פְּנֵ֣י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

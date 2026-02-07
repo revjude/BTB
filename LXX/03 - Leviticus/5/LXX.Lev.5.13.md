@@ -1,10 +1,7 @@
 **LXX Leviticus 5:13** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall atone for him for  his sin which he sinned against one of these \[things\] -- and it shall be forgiven him. And the remaining will be for the priest as a sacrifice of the fine flour. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall make an atonement for him as touching his sin that he hath sinned in one of these, and it shall be forgiven him: and [the remnant] shall be the priest’s, as a meat offering.
-<small><sub>**BSB:**</sub></small>
-In this way the priest will make atonement for him for any of these sins he has committed, and he will be forgiven. The remainder will belong to the priest, like the grain offering.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.12|<< Leviticus 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.14|Leviticus 5:14 >>]]</td></tr></table>
 
 | Translation | Greek |

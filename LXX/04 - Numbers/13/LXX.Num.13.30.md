@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Caleb quelled the people before Moses, and said to him, Not so, but ascending we will ascend, and we shall inherit it; for by might we shall be able \[to prevail\] against them. 
-<small><sub>**KJV:**</sub></small>
-And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.
-<small><sub>**BSB:**</sub></small>
-Then Caleb quieted the people before Moses and said, “We must go up and take possession of the land, for we can certainly conquer it!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.13.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.13.29|<< Numbers 13:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.13.31|Numbers 13:31 >>]]</td></tr></table>
 
 | Translation | Greek |

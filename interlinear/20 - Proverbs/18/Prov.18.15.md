@@ -1,4 +1,4 @@
-**Proverbs 18:15** 
+**Proverbs 18:15**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The heart of the discerning acquires knowledge, and the ear of the wise seeks it
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.14|<< Proverbs 18:14]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.16|Proverbs 18:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a heart  |**<big>&#8207;[[H3820A\|לֵ֣ב]]&#8207; </big>**| lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | discerning  |**<big>&#8207;[[H0995\|נָ֭בוֹן]]&#8207; </big>**| Na.Von<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

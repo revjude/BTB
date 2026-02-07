@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 8:9** 
 <small><sub>**LXX:**</sub></small>
 And all this I beheld; and I gave  my heart to every  action which I had done under the sun; the \[things\], as much as a man exercises authority to a man  to inflict evil on him. 
-<small><sub>**KJV:**</sub></small>
-All this have I seen, and applied my heart unto every work that is done under the sun: [there is] a time wherein one man ruleth over another to his own hurt.
-<small><sub>**BSB:**</sub></small>
-All this I have seen, applying my mind to every deed that is done under the sun; there is a time when one man lords it over another to his own detriment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.8|<< Ecclesiastes 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.10|Ecclesiastes 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

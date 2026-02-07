@@ -1,10 +1,7 @@
 **LXX Daniel 8:19** 
 <small><sub>**LXX:**</sub></small>
 And he said, Behold, I make known to you the \[things\] being at \[the\] last of the wrath, for \[it is\] yet for end of time. 
-<small><sub>**KJV:**</sub></small>
-And he said, Behold, I will make thee know what shall be in the last end of the indignation: for at the time appointed the end [shall be].
-<small><sub>**BSB:**</sub></small>
-and said, “Behold, I will make known to you what will happen in the latter time of wrath, because it concerns the appointed time of the end.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.18|<< Daniel 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.20|Daniel 8:20 >>]]</td></tr></table>
 
 | Translation | Greek |

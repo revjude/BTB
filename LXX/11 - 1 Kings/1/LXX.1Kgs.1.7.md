@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:7** 
 <small><sub>**LXX:**</sub></small>
 And his communications were with Joab the son of Zeruiah, and with Abiathar the priest. And they helped \[following\] after Adonijah. 
-<small><sub>**KJV:**</sub></small>
-And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped [him].
-<small><sub>**BSB:**</sub></small>
-So Adonijah conferred with Joab son of Zeruiah and with Abiathar the priest, who supported him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.6|<< 1 Kings 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.8|1 Kings 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

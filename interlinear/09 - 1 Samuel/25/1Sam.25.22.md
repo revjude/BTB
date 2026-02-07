@@ -1,4 +1,4 @@
-**1 Samuel 25:22** 
+**1 Samuel 25:22**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So and more also do God unto the enemies of David, if I leave of all that [pertain] to him by the morning light any that pisseth against the wall.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May God punish David, and ever so severely, if I let one male belonging to Nabal
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.21|<< 1 Samuel 25:21]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.23|1 Samuel 25:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may he do  |**<big>&#8207;[[H6213A\|יַעֲשֶׂ֧ה]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

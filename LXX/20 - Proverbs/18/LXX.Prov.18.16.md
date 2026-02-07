@@ -1,10 +1,7 @@
 **LXX Proverbs 18:16** 
 <small><sub>**LXX:**</sub></small>
 A gift of a man widens him; and sits him by monarchs. 
-<small><sub>**KJV:**</sub></small>
-A man’s gift maketh room for him, and bringeth him before great men.
-<small><sub>**BSB:**</sub></small>
-A man’s gift opens doors for him, and brings him before great men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.15|<< Proverbs 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.17|Proverbs 18:17 >>]]</td></tr></table>
 
 | Translation | Greek |

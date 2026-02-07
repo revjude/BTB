@@ -1,5 +1,5 @@
-**2 Corinthians 8:15
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:15**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As it is written, He that [had gathered] much had nothing over; and he that [had gathered] little had no lack.
 <small><sub>**BSB:**</sub></small>
 As it is written: “He who gathered much had no excess, and he who gathered little had no shortfall.”
@@ -10,7 +10,7 @@ Even as it has been written: He the much not did abound and he the little not la
 > $\quad$ referencing: [[LXX.Exod.16.18|Exod 16:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it has been written: |**<big>[[G1125\|γέγραπται·]]</big>**  |gegraptai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

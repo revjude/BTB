@@ -1,10 +1,7 @@
 **LXX Exodus 33:16** 
 <small><sub>**LXX:**</sub></small>
 And how will it truly be made known that I have found favor by you -- I and also  your people, unless you \[are\] going with us, and both I and your people will be glorified by all the nations, as many as are upon the earth? 
-<small><sub>**KJV:**</sub></small>
-For wherein shall it be known here that I and thy people have found grace in thy sight? [is it] not in that thou goest with us? so shall we be separated, I and thy people, from all the people that [are] upon the face of the earth.
-<small><sub>**BSB:**</sub></small>
-For how then can it be known that Your people and I have found favor in Your sight, unless You go with us? How else will we be distinguished from all the other people on the face of the earth?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.15|<< Exodus 33:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.17|Exodus 33:17 >>]]</td></tr></table>
 
 | Translation | Greek |

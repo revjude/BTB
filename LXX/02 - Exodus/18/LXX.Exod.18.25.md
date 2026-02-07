@@ -1,10 +1,7 @@
 **LXX Exodus 18:25** 
 <small><sub>**LXX:**</sub></small>
 And Moses chose mighty men from all Israel, and appointed them over them \[as\] commanders of thousands, and commanders of hundreds, and commanders of fifties, and commanders of tens, and judicial recorders. 
-<small><sub>**KJV:**</sub></small>
-And Moses chose able men out of all Israel, and made them heads over the people, rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.
-<small><sub>**BSB:**</sub></small>
-So Moses chose capable men from all Israel and made them heads over the people as leaders of thousands, of hundreds, of fifties, and of tens.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.24|<< Exodus 18:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.26|Exodus 18:26 >>]]</td></tr></table>
 
 | Translation | Greek |

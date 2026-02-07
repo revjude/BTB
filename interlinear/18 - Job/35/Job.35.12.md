@@ -1,4 +1,4 @@
-**Job 35:12** 
+**Job 35:12**<big><big>[[Job.35.1 Elihu Recalls God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There they cry, but none giveth answer, because of the pride of evil men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There they cry out, but He does not answer, because of the pride of evil men.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.35.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.35.11|<< Job 35:11]]</td><td align="center" style="border:none;">[[Job.35|Job 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.13|Job 35:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֣ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they cry out  |**<big>&#8207;[[H6817\|יִ֭צְעֲקוּ]]&#8207; </big>**| Yitz.'a.ku<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

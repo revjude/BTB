@@ -1,10 +1,7 @@
 **LXX Numbers 3:36** 
 <small><sub>**LXX:**</sub></small>
 The numbering of the watch of \[the\] sons of Merari \[is\] the tips of the tent, and  their bars, and  their posts, and  their bases, and all  their items, and  their works, 
-<small><sub>**KJV:**</sub></small>
-And [under] the custody and charge of the sons of Merari [shall be] the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto,
-<small><sub>**BSB:**</sub></small>
-The duties assigned to the sons of Merari were the tabernacle’s frames, crossbars, posts, bases, and all its equipment—all the service for these items,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.35|<< Numbers 3:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.37|Numbers 3:37 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 19:8** 
 <small><sub>**LXX:**</sub></small>
 And indeed in Jerusalem Jehoshaphat placed of the Levites, and of the priests, and of the patriarchs of Israel, for \[the\] judgment \[of the\] <span class="smallcaps">lord</span>, and to judge the ones dwelling in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Moreover in Jerusalem did Jehoshaphat set of the Levites, and [of] the priests, and of the chief of the fathers of Israel, for the judgment of the LORD, and for controversies, when they returned to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Moreover, Jehoshaphat appointed in Jerusalem some of the Levites, priests, and heads of the Israelite families to judge on behalf of the LORD and to settle disputes. And they lived in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.7|<< 2 Chronicles 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.9|2 Chronicles 19:9 >>]]</td></tr></table>
 
 | Translation | Greek |

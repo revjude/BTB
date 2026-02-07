@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 13:16** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel fled from \[the\] face of Judah, and \[the\] <span class="smallcaps">lord</span> delivered them into  their hands. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel fled before Judah: and God delivered them into their hand.
-<small><sub>**BSB:**</sub></small>
-So the Israelites fled before Judah, and God delivered them into their hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.15|<< 2 Chronicles 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.17|2 Chronicles 13:17 >>]]</td></tr></table>
 
 | Translation | Greek |

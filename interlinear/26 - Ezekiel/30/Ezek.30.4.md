@@ -1,4 +1,4 @@
-**Ezekiel 30:4** 
+**Ezekiel 30:4**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sword shall come upon Egypt, and great pain shall be in Ethiopia, when the slain shall fall in Egypt, and they shall take away her multitude, and her foundations shall be broken down.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A sword will come against Egypt, and there will be anguish in Cush when the slai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.3|<< Ezekiel 30:3]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.5|Ezekiel 30:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will come  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0935G\|בָאָ֥ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.'Ah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a sword  |**<big>&#8207;[[H2719\|חֶ֙רֶב֙]]&#8207; </big>**| che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

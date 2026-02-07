@@ -1,4 +1,4 @@
-**Deuteronomy 20:8** 
+**Deuteronomy 20:8**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the officers shall speak further unto the people, and they shall say, What man [is there that is] fearful and fainthearted? let him go and return unto his house, lest his brethren’s heart faint as well as his heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the officers shall speak further to the army, saying, “Is any man afraid 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.7|<< Deuteronomy 20:7]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.9|Deuteronomy 20:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will repeat  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3254G\|יָסְפ֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.se.Fu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the officials  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7860\|שֹּׁטְרִים֮]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sho.te.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

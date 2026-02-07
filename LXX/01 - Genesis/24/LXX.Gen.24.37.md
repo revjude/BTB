@@ -1,10 +1,7 @@
 **LXX Genesis 24:37** 
 <small><sub>**LXX:**</sub></small>
 And my master bound me by an oath, saying, You shall not take a wife  for my son from the daughters of the Canaanites, in which I sojourned in  their land. 
-<small><sub>**KJV:**</sub></small>
-And my master made me swear, saying, Thou shalt not take a wife to my son of the daughters of the Canaanites, in whose land I dwell:
-<small><sub>**BSB:**</sub></small>
-My master made me swear an oath and said, ‘You shall not take a wife for my son from the daughters of the Canaanites in whose land I dwell,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.36|<< Genesis 24:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.38|Genesis 24:38 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 14:24** 
+**Numbers 14:24**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land whereinto he went; and his seed shall possess it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But because My servant Caleb has a different spirit and has followed Me wholehea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.23|<< Numbers 14:23]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.25|Numbers 14:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and servant my  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5650\|עַבְדִּ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Caleb  |**<big>&#8207;[[H3612G\|כָלֵ֗ב]]&#8207; </big>**| kha.Lev<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

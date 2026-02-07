@@ -1,4 +1,4 @@
-**Exodus 18:25** 
+**Exodus 18:25**<big><big>[[Exod.18.13 Jethro Advises Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses chose able men out of all Israel, and made them heads over the people, rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Moses chose capable men from all Israel and made them heads over the people a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.24|<< Exodus 18:24]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.26|Exodus 18:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he chose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0977\|יִּבְחַ֨ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiv.Char<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֤ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

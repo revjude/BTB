@@ -1,10 +1,7 @@
 **LXX Jeremiah 17:18** 
 <small><sub>**LXX:**</sub></small>
 the ones pursuing me be disgraced, and may I not be disgraced myself. May they be terrified, but may I not be terrified myself. Bring upon them \[the\] wicked day! In double destruction destroy them! 
-<small><sub>**KJV:**</sub></small>
-Let them be confounded that persecute me, but let not me be confounded: let them be dismayed, but let not me be dismayed: bring upon them the day of evil, and destroy them with double destruction.
-<small><sub>**BSB:**</sub></small>
-Let my persecutors be put to shame, but do not let me be put to shame. Let them be terrified, but do not let me be terrified. Bring upon them the day of disaster and shatter them with double destruction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.17|<< Jeremiah 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.19|Jeremiah 17:19 >>]]</td></tr></table>
 
 | Translation | Greek |

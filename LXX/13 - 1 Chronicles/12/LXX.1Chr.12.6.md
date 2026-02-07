@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:6** 
 <small><sub>**LXX:**</sub></small>
 Elkanah, and Jessiah, and Azareel, and Joezer, and Jashobeam, the Korhites, 
-<small><sub>**KJV:**</sub></small>
-Elkanah, and Jesiah, and Azareel, and Joezer, and Jashobeam, the Korhites,
-<small><sub>**BSB:**</sub></small>
-Elkanah, Isshiah, Azarel, Joezer, and Jashobeam, who were Korahites;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.5|<< 1 Chronicles 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.7|1 Chronicles 12:7 >>]]</td></tr></table>
 
 | Translation | Greek |

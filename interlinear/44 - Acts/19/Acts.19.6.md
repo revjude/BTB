@@ -1,12 +1,12 @@
-**Acts 19:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:6**<big><big>[[Acts.19.1 The Holy Spirit Received at Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Paul had laid [his] hands upon them, the Holy Ghost came on them; and they spake with tongues, and prophesied.
 <small><sub>**BSB:**</sub></small>
 And when Paul laid his hands on them, the Holy Spirit came upon them, and they spoke in tongues and prophesied.
 <small><sub>**Literal:**</sub></small>
 And when was laying on them <the> Paul the hands came the Spirit <the> Holy upon them, they were speaking then in tongues and were prophesying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.5|<< Acts 19:5]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.7|Acts 19:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when was laying |**<big>[[G2007\|ἐπιθέντος]]</big>**  |epithentos <small><sup>[[V-2AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

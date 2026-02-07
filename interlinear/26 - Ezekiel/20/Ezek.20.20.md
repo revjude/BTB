@@ -1,4 +1,4 @@
-**Ezekiel 20:20** 
+**Ezekiel 20:20**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Keep My Sabbaths holy, that they may be a sign between us, so that you may know 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.19|<< Ezekiel 20:19]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.21|Ezekiel 20:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sabbaths my  |**<big>&#8207;[[H7676\|שַׁבְּתוֹתַ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| sha.be.to.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 27:35
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:35**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had thus spoken, he took bread, and gave thanks to God in presence of them all: and when he had broken [it], he began to eat.
 <small><sub>**BSB:**</sub></small>
 After he had said this, Paul took bread and gave thanks to God in front of them all. Then he broke it and began to eat.
 <small><sub>**Literal:**</sub></small>
 Having said now these things and having taken bread he gave thanks <the> to God before all, and having broken [it] he began to eat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.34|<< Acts 27:34]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.36|Acts 27:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having said |**<big>[[G2036\|Εἴπας]]</big>**  [^1] |Eipas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

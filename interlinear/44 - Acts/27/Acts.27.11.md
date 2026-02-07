@@ -1,12 +1,12 @@
-**Acts 27:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:11**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nevertheless the centurion believed the master and the owner of the ship, more than those things which were spoken by Paul.
 <small><sub>**BSB:**</sub></small>
 But contrary to Paul’s advice, the centurion was persuaded by the pilot and by the owner of the ship.
 <small><sub>**Literal:**</sub></small>
 <the> But the centurion by the pilot and by the ship owner rather was persuaded than by the [things] by <the> Paul spoken.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.10|<< Acts 27:10]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.12|Acts 27:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 2:14** 
+**Exodus 2:14**<big><big>[[Exod.2.11 The Rejection and Flight of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Who made thee a prince and a judge over us? intendest thou to kill me, as thou killedst the Egyptian? And Moses feared, and said, Surely this thing is known.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But the man replied, “Who made you ruler and judge over us? Are you planning t
 > $\quad$ referenced by: [[Acts.7.26|Acts 7:26]] ☩ [[Acts.7.27|Acts 7:27-29]] ☩ [[Acts.7.35|Acts 7:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H0559\|יֹּאמֶר]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who?  |**<big>&#8207;[[H4310\|מִ֣י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

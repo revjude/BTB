@@ -1,5 +1,5 @@
-**Revelation 17:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:4**<big><big>[[Rev.17.1 The Woman on the Beast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication:
 <small><sub>**BSB:**</sub></small>
 The woman was dressed in purple and scarlet, and adorned with gold and precious stones and pearls. She held in her hand a golden cup full of abominations and the impurities of her sexual immorality.
@@ -10,7 +10,7 @@ And the woman was clothed in purple and scarlet and adorned with gold and with s
 > $\quad$ possibly alluding to: [[LXX.Jer.51.7|Jer 51:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

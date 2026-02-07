@@ -1,10 +1,7 @@
 **LXX Job 10:8** 
 <small><sub>**LXX:**</sub></small>
  Your hands shaped me and made me; after these \[things\] in turning you smote me. 
-<small><sub>**KJV:**</sub></small>
-Thine hands have made me and fashioned me together round about; yet thou dost destroy me.
-<small><sub>**BSB:**</sub></small>
-Your hands shaped me and altogether formed me. Would You now turn and destroy me?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.10.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.10.7|<< Job 10:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.10.9|Job 10:9 >>]]</td></tr></table>
 
 | Translation | Greek |

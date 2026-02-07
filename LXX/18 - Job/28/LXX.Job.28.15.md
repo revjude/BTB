@@ -1,10 +1,7 @@
 **LXX Job 28:15** 
 <small><sub>**LXX:**</sub></small>
 One shall not give an investment for her, and shall not set silver as a bargain for her. 
-<small><sub>**KJV:**</sub></small>
-It cannot be gotten for gold, neither shall silver be weighed [for] the price thereof.
-<small><sub>**BSB:**</sub></small>
-It cannot be bought with gold, nor can its price be weighed out in silver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.14|<< Job 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.16|Job 28:16 >>]]</td></tr></table>
 
 | Translation | Greek |

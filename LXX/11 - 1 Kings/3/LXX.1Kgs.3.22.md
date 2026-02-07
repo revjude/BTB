@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:22** 
 <small><sub>**LXX:**</sub></small>
 And the other woman said, Not \[so\], for  my son \[is\] the one living, and your son \[is\] the one having died. And she said, Not \[so\],  your son \[is\] the one having died, and my son \[is\] the one living. And they spoke before the king. 
-<small><sub>**KJV:**</sub></small>
-And the other woman said, Nay; but the living [is] my son, and the dead [is] thy son. And this said, No; but the dead [is] thy son, and the living [is] my son. Thus they spake before the king.
-<small><sub>**BSB:**</sub></small>
-“No,” said the other woman, “the living one is my son and the dead one is your son.” But the first woman insisted, “No, the dead one is yours and the living one is mine.” So they argued before the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.21|<< 1 Kings 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.23|1 Kings 3:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Daniel 2:32** 
 <small><sub>**LXX:**</sub></small>
 An image of which the head pure gold, the hands and the breast and the arms of it silver, the belly and the thighs brass, 
-<small><sub>**KJV:**</sub></small>
-This image’s head [was] of fine gold, his breast and his arms of silver, his belly and his thighs of brass,
-<small><sub>**BSB:**</sub></small>
-The head of the statue was pure gold, its chest and arms were silver, its belly and thighs were bronze,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.31|<< Daniel 2:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.33|Daniel 2:33 >>]]</td></tr></table>
 
 | Translation | Greek |

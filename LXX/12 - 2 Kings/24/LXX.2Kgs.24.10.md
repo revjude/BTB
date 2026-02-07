@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In  that time Nebuchadnezzar king of Babylon ascended to Jerusalem, and the city came \[to be\] encompassed about. 
-<small><sub>**KJV:**</sub></small>
-At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged.
-<small><sub>**BSB:**</sub></small>
-At that time the servants of Nebuchadnezzar king of Babylon marched up to Jerusalem, and the city came under siege.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.9|<< 2 Kings 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.11|2 Kings 24:11 >>]]</td></tr></table>
 
 | Translation | Greek |

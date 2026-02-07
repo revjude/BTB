@@ -1,4 +1,4 @@
-**Joshua 7:8** 
+**Joshua 7:8**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Lord, what shall I say, when Israel turneth their backs before their enemies!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O Lord, what can I say, now that Israel has turned its back and run from its ene
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.7|<< Joshua 7:7]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.9|Joshua 7:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pardon me  |**<big>&#8207;[[H0994\|בִּ֖י]]&#8207; </big>**| bi<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֑י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

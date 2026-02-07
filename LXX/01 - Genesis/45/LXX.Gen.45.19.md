@@ -1,10 +1,7 @@
 **LXX Genesis 45:19** 
 <small><sub>**LXX:**</sub></small>
  And you charge these to take for themselves wagons from out of \[the\] land of Egypt  for your children, and  your wives! And taking up  your father come! 
-<small><sub>**KJV:**</sub></small>
-Now thou art commanded, this do ye; take you wagons out of the land of Egypt for your little ones, and for your wives, and bring your father, and come.
-<small><sub>**BSB:**</sub></small>
-You are also directed to tell them: ‘Take wagons from the land of Egypt for your young children and your wives, and bring your father and come back.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.18|<< Genesis 45:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.20|Genesis 45:20 >>]]</td></tr></table>
 
 | Translation | Greek |

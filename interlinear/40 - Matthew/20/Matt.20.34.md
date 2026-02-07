@@ -1,12 +1,12 @@
-**Matthew 20:34
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:34**<big><big>[[Matt.20.29 The Blind Men by the Road|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So Jesus had compassion [on them], and touched their eyes: and immediately their eyes received sight, and they followed him.
 <small><sub>**BSB:**</sub></small>
 Moved with compassion, Jesus touched their eyes, and at once they received their sight and followed Him.
 <small><sub>**Literal:**</sub></small>
 Having been moved with compassion then <the> Jesus touched the eyes of them, and immediately they received sight of them <the> eyes and they followed Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.33|<< Matthew 20:33]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.1|Matthew 21:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having been moved with compassion |**<big>[[G4697\|σπλαγχνισθεὶς]]</big>**  |splagchnistheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

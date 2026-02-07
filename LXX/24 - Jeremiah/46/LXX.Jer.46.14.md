@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:14** 
 <small><sub>**LXX:**</sub></small>
 Announce in Egypt, and make audible in Migdol, and exhort in Memphis! And in Tahpanhes say! Attend to and prepare! for \[the\] sword devoured  your yew tree. 
-<small><sub>**KJV:**</sub></small>
-Declare ye in Egypt, and publish in Migdol, and publish in Noph and in Tahpanhes: say ye, Stand fast, and prepare thee; for the sword shall devour round about thee.
-<small><sub>**BSB:**</sub></small>
-“Announce it in Egypt, and proclaim it in Migdol; proclaim it in Memphis and Tahpanhes: ‘Take your positions and prepare yourself, for the sword devours those around you.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.13|<< Jeremiah 46:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.15|Jeremiah 46:15 >>]]</td></tr></table>
 
 | Translation | Greek |

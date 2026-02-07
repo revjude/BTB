@@ -1,10 +1,7 @@
 **LXX Numbers 28:22** 
 <small><sub>**LXX:**</sub></small>
 and a young he-goat from \[the\] goats -- one for a sin \[offering\] to atone for you, 
-<small><sub>**KJV:**</sub></small>
-And one goat [for] a sin offering, to make an atonement for you.
-<small><sub>**BSB:**</sub></small>
-Include one male goat as a sin offering to make atonement for you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.21|<< Numbers 28:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.23|Numbers 28:23 >>]]</td></tr></table>
 
 | Translation | Greek |

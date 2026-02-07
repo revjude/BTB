@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 7:25** 
 <small><sub>**LXX:**</sub></small>
 I and my heart circled about  to know, and  to survey, and  to seek wisdom, and \[the\] reckoning \[of things\], and  to know \[the\] impious man's foolishness, and rioting, and deviation. 
-<small><sub>**KJV:**</sub></small>
-I applied mine heart to know, and to search, and to seek out wisdom, and the reason [of things], and to know the wickedness of folly, even of foolishness [and] madness:
-<small><sub>**BSB:**</sub></small>
-I directed my mind to understand, to explore, to search out wisdom and explanations, and to understand the stupidity of wickedness and the folly of madness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.24|<< Ecclesiastes 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.26|Ecclesiastes 7:26 >>]]</td></tr></table>
 
 | Translation | Greek |

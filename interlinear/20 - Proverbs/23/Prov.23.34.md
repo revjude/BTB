@@ -1,4 +1,4 @@
-**Proverbs 23:34** 
+**Proverbs 23:34**<big><big>[[Prov.23.29 Saying 19|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will be like one sleeping on the high seas or lying on the top of a mast:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.33|<< Proverbs 23:33]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.35|Proverbs 23:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will be  |**<big>&#8207;[[H9001\|וְ֭]]&#8207;&#8207;[[H1961\|הָיִיתָ]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ha.yi.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like [one who] lies down  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H7901G\|שֹׁכֵ֣ב]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> sho.Khev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

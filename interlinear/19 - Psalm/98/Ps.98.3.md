@@ -1,4 +1,4 @@
-**Psalms 98:3** 
+**Psalms 98:3**<big><big>[[Ps.98.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has remembered His love and faithfulness to the house of Israel; all the ends
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.98.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.98.2|<< Psalms 98:2]]</td><td align="center" style="border:none;">[[Ps.98|Psalms 98]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.98.4|Psalms 98:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has remembered  |**<big>&#8207;[[H2142\|זָ֘כַ֤ר]]&#8207; </big>**| za.Khar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | covenant loyalty his  |**<big>&#8207;[[H2617A\|חַסְדּ֨]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| chas.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

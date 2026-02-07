@@ -1,10 +1,7 @@
 **LXX Exodus 16:13** 
 <small><sub>**LXX:**</sub></small>
 And it was evening. And there ascended \[the\] mother-quail, and it covered the camp. And in the morning there was a resting of the dew round about the camp. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host.
-<small><sub>**BSB:**</sub></small>
-That evening quail came and covered the camp, and in the morning there was a layer of dew around the camp.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.12|<< Exodus 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.14|Exodus 16:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 42:18** 
 <small><sub>**LXX:**</sub></small>
 And he said to them  on the third day, You do this and you shall live!  For I fear God. 
-<small><sub>**KJV:**</sub></small>
-And Joseph said unto them the third day, This do, and live; [for] I fear God:
-<small><sub>**BSB:**</sub></small>
-and on the third day he said to them, “I fear God. So do this and you will live:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.17|<< Genesis 42:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.19|Genesis 42:19 >>]]</td></tr></table>
 
 | Translation | Greek |

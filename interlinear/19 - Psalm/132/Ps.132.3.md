@@ -1,4 +1,4 @@
-**Psalms 132:3** 
+**Psalms 132:3**<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely I will not come into the tabernacle of my house, nor go up into my bed;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely I will not come into the tabernacle of my house, nor go up into my bed;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.2|<< Psalms 132:2]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.4|Psalms 132:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518H\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will go  |**<big>&#8207;[[H0935G\|אָ֭בֹא]]&#8207; </big>**| 'A.vo'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

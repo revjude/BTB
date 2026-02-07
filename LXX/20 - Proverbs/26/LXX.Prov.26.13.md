@@ -1,10 +1,7 @@
 **LXX Proverbs 26:13** 
 <small><sub>**LXX:**</sub></small>
 \[The\] lazy one says when being sent into \[the\] way, A lion \[is\] in the ways, and in the squares \[are\] murderers. 
-<small><sub>**KJV:**</sub></small>
-The slothful [man] saith, [There is] a lion in the way; a lion [is] in the streets.
-<small><sub>**BSB:**</sub></small>
-The slacker says, “A lion is in the road! A fierce lion roams the public square!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.26.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.12|<< Proverbs 26:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.14|Proverbs 26:14 >>]]</td></tr></table>
 
 | Translation | Greek |

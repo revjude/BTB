@@ -1,4 +1,4 @@
-**1 Chronicles 7:12** 
+**1 Chronicles 7:12**<big><big>[[1Chr.7.6 The Descendants of Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shuppim also, and Huppim, the children of Ir, [and] Hushim, the sons of Aher.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Shuppites and Huppites were descendants of Ir, and the Hushites were descend
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.11|<< 1 Chronicles 7:11]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.13|1 Chronicles 7:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Shuppim  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8206G\|שֻׁפִּ֤ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shu.Pim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Huppim  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2650G\|חֻפִּם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chu.Pim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

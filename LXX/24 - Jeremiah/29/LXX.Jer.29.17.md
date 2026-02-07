@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:17** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> of the forces, Behold, I shall send to them a sword, and famine, and pestilence. And I shall establish them as a bad fig which \[one shall\] not be able to eat because of the badness. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts; Behold, I will send upon them the sword, the famine, and the pestilence, and will make them like vile figs, that cannot be eaten, they are so evil.
-<small><sub>**BSB:**</sub></small>
-this is what the LORD of Hosts says: “I will send against them sword and famine and plague, and I will make them like rotten figs, so bad they cannot be eaten.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.16|<< Jeremiah 29:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.18|Jeremiah 29:18 >>]]</td></tr></table>
 
 | Translation | Greek |

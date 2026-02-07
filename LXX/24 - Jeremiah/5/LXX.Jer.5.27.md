@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:27** 
 <small><sub>**LXX:**</sub></small>
 As a snare having been set \[is\] full of birds, so  their houses \[are\] full of treachery. On account of this they were magnified, and enriched. 
-<small><sub>**KJV:**</sub></small>
-As a cage is full of birds, so [are] their houses full of deceit: therefore they are become great, and waxen rich.
-<small><sub>**BSB:**</sub></small>
-Like cages full of birds, so their houses are full of deceit. Therefore they have become powerful and rich.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.26|<< Jeremiah 5:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.28|Jeremiah 5:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 28:51** 
+**Deuteronomy 28:51**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall eat the fruit of thy cattle, and the fruit of thy land, until thou be destroyed: which [also] shall not leave thee [either] corn, wine, or oil, [or] the increase of thy kine, or flocks of thy sheep, until he have destroyed thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will eat the offspring of your livestock and the produce of your land until
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.50|<< Deuteronomy 28:50]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.52|Deuteronomy 28:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will devour  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H0398\|אָכַל]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> 'a.khal<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] fruit of  |**<big>&#8207;[[H6529\|פְּרִ֨י]]&#8207; </big>**| pe.Ri<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

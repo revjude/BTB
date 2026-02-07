@@ -1,12 +1,12 @@
-**Luke 23:45
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:45**<big><big>[[Luke.23.44 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the sun was darkened, and the veil of the temple was rent in the midst.
 <small><sub>**BSB:**</sub></small>
 The sun was darkened, and the veil of the temple was torn down the middle.
 <small><sub>**Literal:**</sub></small>
 and The sun darkened. and was torn then the veil of the temple in [the] middle.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.44|<< Luke 23:44]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.46|Luke 23:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |
 | The [^1] |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |

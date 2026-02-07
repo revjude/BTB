@@ -1,4 +1,4 @@
-**Psalms 31:13** (31:14)
+**Psalms 31:13**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have heard the slander of many: fear [was] on every side: while they took counsel together against me, they devised to take away my life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I hear the slander of many; there is terror on every side. They conspire aga
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.12|<< Psalms 31:12]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.14|Psalms 31:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have heard  |**<big>&#8207;[[H8085G\|שָׁמַ֨עְתִּי]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| sha.Ma'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

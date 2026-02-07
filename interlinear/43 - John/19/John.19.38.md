@@ -1,12 +1,12 @@
-**John 19:38
-**<small><sub>**KJV:**</sub></small>
+**John 19:38**<big><big>[[John.19.38 The Burial of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after this Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, besought Pilate that he might take away the body of Jesus: and Pilate gave [him] leave. He came therefore, and took the body of Jesus.
 <small><sub>**BSB:**</sub></small>
 Afterward, Joseph of Arimathea, who was a disciple of Jesus (but secretly for fear of the Jews), asked Pilate to let him remove the body of Jesus. Pilate gave him permission, so he came and removed His body.
 <small><sub>**Literal:**</sub></small>
 After then these things asked <the> Pilate <the> Joseph <the> from Arimathea being a disciple <the> of Jesus — concealed however through the fear of the Jews — that he may take away the body <the> of Jesus. and gave permission <the> Pilate. He came therefore and he took away the body of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.37|<< John 19:37]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.39|John 19:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|Μετὰ]]</big>**  |Meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |

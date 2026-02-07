@@ -1,10 +1,7 @@
 **LXX Proverbs 12:26** 
 <small><sub>**LXX:**</sub></small>
 A friend will be a just arbitrator of himself; but \[the\] ones sinning pursue evil \[things\], and the way of the impious misleads them. 
-<small><sub>**KJV:**</sub></small>
-The righteous [is] more excellent than his neighbour: but the way of the wicked seduceth them.
-<small><sub>**BSB:**</sub></small>
-A righteous man is cautious in friendship, but the ways of the wicked lead them astray.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.12.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.25|<< Proverbs 12:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.27|Proverbs 12:27 >>]]</td></tr></table>
 
 | Translation | Greek |

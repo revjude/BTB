@@ -1,10 +1,7 @@
 **LXX Psalm 44:15** 
 <small><sub>**LXX:**</sub></small>
 My being made ashamed is in front of me \[the\] entire day, and the shame  of my face covered me; 
-<small><sub>**KJV:**</sub></small>
-My confusion [is] continually before me, and the shame of my face hath covered me,
-<small><sub>**BSB:**</sub></small>
-All day long my disgrace is before me, and shame has covered my face,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.44.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.14|<< Psalm 44:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.16|Psalm 44:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:29** 
 <small><sub>**LXX:**</sub></small>
 Have you seen that Ahab was vexed in front of me? Because he was vexed in front of me, I shall not bring the evil in  his days, but only in the days  of his son will I bring the evil upon  his house. 
-<small><sub>**KJV:**</sub></small>
-Seest thou how Ahab humbleth himself before me? because he humbleth himself before me, I will not bring the evil in his days: [but] in his son’s days will I bring the evil upon his house.
-<small><sub>**BSB:**</sub></small>
-“Have you seen how Ahab has humbled himself before Me? Because he has humbled himself before Me, I will not bring the calamity during his days, but I will bring it upon his house in the days of his son.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.28|<< 1 Kings 21:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.1|1 Kings 22:1 >>]]</td></tr></table>
 
 | Translation | Greek |

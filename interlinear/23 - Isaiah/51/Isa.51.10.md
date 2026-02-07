@@ -1,4 +1,4 @@
-**Isaiah 51:10** 
+**Isaiah 51:10**<big><big>[[Isa.51.1 Salvation for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Art] thou not it which hath dried the sea, the waters of the great deep; that hath made the depths of the sea a way for the ransomed to pass over?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Was it not You who dried up the sea, the waters of the great deep, who made a ro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.9|<< Isaiah 51:9]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.11|Isaiah 51:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֤וֹא]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] you  |**<big>&#8207;[[H0859C\|אַתְּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'at-<small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

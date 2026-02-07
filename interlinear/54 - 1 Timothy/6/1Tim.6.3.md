@@ -1,12 +1,12 @@
-**1 Timothy 6:3
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:3**<big><big>[[1Tim.6.3 Reject False Doctrines|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If any man teach otherwise, and consent not to wholesome words, [even] the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;
 <small><sub>**BSB:**</sub></small>
 If anyone teaches another doctrine and disagrees with the sound words of our Lord Jesus Christ and with godly teaching,
 <small><sub>**Literal:**</sub></small>
 If anyone teaches another doctrine and not he draws near to sound words <the> of the Lord of us Jesus Christ and the according to godliness teaching,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.2|<< 1 Timothy 6:2]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.4|1 Timothy 6:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

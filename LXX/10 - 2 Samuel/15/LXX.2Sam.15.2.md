@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:2** 
 <small><sub>**LXX:**</sub></small>
 And Absalom rose early, and stood at the way of the gate. And it came to pass every man in which had a case, and came to the king for a judgment, that Absalom called him, and said to him, From out of of what city are you? And he said, your servant \[is\] from one of the tribes of Israel. 
-<small><sub>**KJV:**</sub></small>
-And Absalom rose up early, and stood beside the way of the gate: and it was [so], that when any man that had a controversy came to the king for judgment, then Absalom called unto him, and said, Of what city [art] thou? And he said, Thy servant [is] of one of the tribes of Israel.
-<small><sub>**BSB:**</sub></small>
-He would get up early and stand beside the road leading to the city gate. Whenever anyone had a grievance to bring before the king for a decision, Absalom would call out and ask, “What city are you from?” And if he replied, “Your servant is from one of the tribes of Israel,”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.1|<< 2 Samuel 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.3|2 Samuel 15:3 >>]]</td></tr></table>
 
 | Translation | Greek |

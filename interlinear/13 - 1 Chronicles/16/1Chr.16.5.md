@@ -1,4 +1,4 @@
-**1 Chronicles 16:5** 
+**1 Chronicles 16:5**<big><big>[[1Chr.16.1 A Tent for the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obededom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Asaph was the chief, Zechariah was second, then Jeiel, Shemiramoth, Jehiel, Matt
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.4|<< 1 Chronicles 16:4]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.6|1 Chronicles 16:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Asaph  |**<big>&#8207;[[H0623H\|אָסָ֥ף]]&#8207; </big>**| 'a.Saf<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] the chief  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7218H\|רֹ֖אשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Rosh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

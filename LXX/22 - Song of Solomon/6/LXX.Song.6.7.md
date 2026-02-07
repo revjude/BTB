@@ -1,10 +1,7 @@
 **LXX Song of Solomon 6:7** 
 <small><sub>**LXX:**</sub></small>
 Your cheeks \[are\] as \[the\] rind of the pomegranate \[being seen\] outside  your veil. 
-<small><sub>**KJV:**</sub></small>
-As a piece of a pomegranate [are] thy temples within thy locks.
-<small><sub>**BSB:**</sub></small>
-Your brow behind your veil is like a slice of pomegranate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.6|<< Song of Solomon 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.6.8|Song of Solomon 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

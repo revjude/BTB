@@ -1,12 +1,12 @@
-**Luke 6:13
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:13**<big><big>[[Luke.6.12 The Twelve Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when it was day, he called [unto him] his disciples: and of them he chose twelve, whom also he named apostles;
 <small><sub>**BSB:**</sub></small>
 When daylight came, He called His disciples to Him and chose twelve of them, whom He also designated as apostles:
 <small><sub>**Literal:**</sub></small>
 And when it became day, He called to [Him] the disciples of Him, also having chosen out from them twelve whom also apostles He named:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.12|<< Luke 6:12]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.14|Luke 6:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

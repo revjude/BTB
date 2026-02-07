@@ -1,4 +1,4 @@
-**2 Kings 17:24** 
+**2 Kings 17:24**<big><big>[[2Kgs.17.24 Samaria Resettled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Assyria brought [men] from Babylon, and from Cuthah, and from Ava, and from Hamath, and from Sepharvaim, and placed [them] in the cities of Samaria instead of the children of Israel: and they possessed Samaria, and dwelt in the cities thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the king of Assyria brought people from Babylon, Cuthah, Avva, Hamath, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.23|<< 2 Kings 17:23]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.25|2 Kings 17:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought [people]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יָּבֵ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ve'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

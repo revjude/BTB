@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:32** 
 <small><sub>**LXX:**</sub></small>
 And Absalom said to Joab, Behold, I sent to you, saying, Come here! And I will send you to the king, saying, Why did I come from out of Geshur? It was good for me  to be there. And now, I shall see indeed \[the\] face of the king, and if there is iniquity in me then I shall be killed. 
-<small><sub>**KJV:**</sub></small>
-And Absalom answered Joab, Behold, I sent unto thee, saying, Come hither, that I may send thee to the king, to say, Wherefore am I come from Geshur? [it had been] good for me [to have been] there still: now therefore let me see the king’s face; and if there be [any] iniquity in me, let him kill me.
-<small><sub>**BSB:**</sub></small>
-“Look,” said Absalom, “I sent for you and said, ‘Come here. I want to send you to the king to ask: Why have I come back from Geshur? It would be better for me if I were still there.’ So now, let me see the king’s face, and if there is iniquity in me, let him kill me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.31|<< 2 Samuel 14:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.33|2 Samuel 14:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 24:17** 
+**Ezekiel 24:17**<big><big>[[Ezek.24.15 Ezekiel’s Wife Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Forbear to cry, make no mourning for the dead, bind the tire of thine head upon thee, and put on thy shoes upon thy feet, and cover not [thy] lips, and eat not the bread of men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Groan quietly; do not mourn for the dead. Put on your turban and strap your sand
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.16|<< Ezekiel 24:16]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.18|Ezekiel 24:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | groaning  |**<big>&#8207;[[H0602\|הֵאָנֵ֣ק]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| he.'a.Nek<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | be silent  |**<big>&#8207;[[H1826H\|דֹּ֗ם]]&#8207; </big>**| Dom<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

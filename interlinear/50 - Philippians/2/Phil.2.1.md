@@ -1,12 +1,12 @@
-**Philippians 2:1
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:1**<big><big>[[Phil.2.1 One in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If [there be] therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,
 <small><sub>**BSB:**</sub></small>
 Therefore if you have any encouragement in Christ, if any comfort from His love, if any fellowship with the Spirit, if any affection and compassion,
 <small><sub>**Literal:**</sub></small>
 If [there is] any therefore encouragement in Christ, if any comfort of love, if any fellowship of [the] Spirit, if any affections and compassions,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.30|<< Philippians 1:30]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.2|Philippians 2:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If [there is] |**<big>[[G1487G\|Εἴ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | any |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

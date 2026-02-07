@@ -1,4 +1,4 @@
-**Lamentations 4:14** 
+**Lamentations 4:14**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have wandered [as] blind [men] in the streets, they have polluted themselves with blood, so that men could not touch their garments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They wandered blind in the streets, defiled by this blood, so that no one dared 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.13|<< Lamentations 4:13]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.15|Lamentations 4:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they wandered  |**<big>&#8207;[[H5128\|נָע֤וּ]]&#8207; </big>**| na.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | blind [people]  |**<big>&#8207;[[H5787\|עִוְרִים֙]]&#8207; </big>**| 'iv.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

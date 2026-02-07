@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
  In that day they shall sing  this song upon \[the\] land  of Judea, Behold, a strong city; and he shall establish our deliverance for the wall and rampart. 
-<small><sub>**KJV:**</sub></small>
-In that day shall this song be sung in the land of Judah; We have a strong city; salvation will [God] appoint [for] walls and bulwarks.
-<small><sub>**BSB:**</sub></small>
-In that day this song will be sung in the land of Judah: We have a strong city; salvation is established as its walls and ramparts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.26.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.12|<< Isaiah 25:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.2|Isaiah 26:2 >>]]</td></tr></table>
 
 | Translation | Greek |

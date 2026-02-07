@@ -1,4 +1,4 @@
-**Jeremiah 25:10** 
+**Jeremiah 25:10**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover I will take from them the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the sound of the millstones, and the light of the candle.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Moreover, I will banish from them the sounds of joy and gladness, the voices of 
 > $\quad$ referenced by: [[Rev.18.22|Rev 18:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will destroy  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0006\|הַאֲבַדְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.'a.vad.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from \<the> them  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9038\|הֶ֗ם]]&#8207; </big>**| me.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

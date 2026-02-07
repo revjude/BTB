@@ -1,5 +1,5 @@
-**Luke 1:50
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:50**<big><big>[[Luke.1.46 Mary’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his mercy [is] on them that fear him from generation to generation.
 <small><sub>**BSB:**</sub></small>
 His mercy extends to those who fear Him, from generation to generation.
@@ -10,7 +10,7 @@ And the mercy of Him [is] to generations and generations to those fearing Him;<b
 > $\quad$ alluding to: [[LXX.Ps.103.17|Ps 103:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

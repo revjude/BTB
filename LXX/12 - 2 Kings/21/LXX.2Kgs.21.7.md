@@ -1,10 +1,7 @@
 **LXX 2 Kings 21:7** 
 <small><sub>**LXX:**</sub></small>
 And he put the carving of the sacred grove in the house, in which \[the\] <span class="smallcaps">lord</span> said to David, and to Solomon  his son, In  this house, and in Jerusalem, in which I chose from out of all \[the\] tribes  of Israel, that I will put  my name there into the eon. 
-<small><sub>**KJV:**</sub></small>
-And he set a graven image of the grove that he had made in the house, of which the LORD said to David, and to Solomon his son, In this house, and in Jerusalem, which I have chosen out of all tribes of Israel, will I put my name for ever:
-<small><sub>**BSB:**</sub></small>
-Manasseh even took the carved Asherah pole he had made and set it up in the temple, of which the LORD had said to David and his son Solomon, “In this temple and in Jerusalem, which I have chosen out of all the tribes of Israel, I will establish My Name forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.6|<< 2 Kings 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.8|2 Kings 21:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 6:9** 
+**Ezekiel 6:9**<big><big>[[Ezek.6.8 A Remnant to Be Blessed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they that escape of you shall remember me among the nations whither they shall be carried captives, because I am broken with their whorish heart, which hath departed from me, and with their eyes, which go a whoring after their idols: and they shall lothe themselves for the evils which they have committed in all their abominations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then in the nations to which they have been carried captive, your survivors will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.8|<< Ezekiel 6:8]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.10|Ezekiel 6:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will remember  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2142\|זָכְר֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> za.khe.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | escapees your  |**<big>&#8207;[[H6412A\|פְלִֽיטֵי]]&#8207;&#8207;[[H9026\|כֶ֜ם]]&#8207; </big>**| fe.li.tei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

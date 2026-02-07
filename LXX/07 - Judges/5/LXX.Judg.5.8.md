@@ -1,10 +1,7 @@
 **LXX Judges 5:8** 
 <small><sub>**LXX:**</sub></small>
 They selected new gods, then cities of rulers waged war; spears appeared for protection of young women, even a spear -- forty thousand in  Israel. 
-<small><sub>**KJV:**</sub></small>
-They chose new gods; then [was] war in the gates: was there a shield or spear seen among forty thousand in Israel?
-<small><sub>**BSB:**</sub></small>
-When they chose new gods, then war came to their gates. Not a shield or spear was found among forty thousand in Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.7|<< Judges 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.9|Judges 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

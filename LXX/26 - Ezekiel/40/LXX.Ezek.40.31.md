@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:31** 
 <small><sub>**LXX:**</sub></small>
 And its pediments to the outer courtyard -- palms to the portals and with eight steps ascending upon it. 
-<small><sub>**KJV:**</sub></small>
-And the arches thereof [were] toward the utter court; and palm trees [were] upon the posts thereof: and the going up to it [had] eight steps.
-<small><sub>**BSB:**</sub></small>
-Its portico faced the outer court, and its side pillars were decorated with palm trees. Eight steps led up to it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.30|<< Ezekiel 40:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.32|Ezekiel 40:32 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 67:4** (67:5)
+**Psalms 67:4**<big><big>[[Ps.67.1 May God Cause His Face to Shine upon Us|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the nations be glad and sing for joy, for You judge the peoples justly and l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.67.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.67.3|<< Psalms 67:3]]</td><td align="center" style="border:none;">[[Ps.67|Psalms 67]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.67.5|Psalms 67:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they rejoice  |**<big>&#8207;[[H8055\|יִֽשְׂמְח֥וּ]]&#8207; </big>**| yis.me.Chu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they may sing for joy  |**<big>&#8207;[[H9002\|וִֽ]]&#8207;&#8207;[[H7442B\|ירַנְּנ֗וּ]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> ra.ne.Nu<small><sup>[[HVpu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

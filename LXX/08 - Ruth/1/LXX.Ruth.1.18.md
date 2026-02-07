@@ -1,10 +1,7 @@
 **LXX Ruth 1:18** 
 <small><sub>**LXX:**</sub></small>
 And Naomi seeing that she was determined  to go with her, she abated  to speak to her any more. 
-<small><sub>**KJV:**</sub></small>
-When she saw that she was stedfastly minded to go with her, then she left speaking unto her.
-<small><sub>**BSB:**</sub></small>
-When Naomi saw that Ruth was determined to go with her, she stopped trying to persuade her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.17|<< Ruth 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.19|Ruth 1:19 >>]]</td></tr></table>
 
 | Translation | Greek |

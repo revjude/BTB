@@ -1,4 +1,4 @@
-**Daniel 5:3** 
+**Daniel 5:3**<big><big>[[Dan.5.1 Belshazzar’s Feast|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they brought the golden vessels that were taken out of the temple of the house of God which [was] at Jerusalem; and the king, and his princes, his wives, and his concubines, drank in them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus they brought in the gold vessels that had been taken from the temple, the h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.2|<< Daniel 5:2]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.4|Daniel 5:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֗יִן]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they brought  |**<big>&#8207;[[H0858\|הַיְתִיו֙]]&#8207; </big>**| hay.Tiv<small><sup>[[AVhp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

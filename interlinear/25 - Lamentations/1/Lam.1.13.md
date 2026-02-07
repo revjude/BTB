@@ -1,4 +1,4 @@
-**Lamentations 1:13** 
+**Lamentations 1:13**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From above hath he sent fire into my bones, and it prevaileth against them: he hath spread a net for my feet, he hath turned me back: he hath made me desolate [and] faint all the day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He sent fire from on high, and it overpowered my bones. He spread a net for my f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.12|<< Lamentations 1:12]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.14|Lamentations 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from a high place  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4791\|מָּר֛וֹם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ma.Rom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he sent  |**<big>&#8207;[[H7971G\|שָֽׁלַח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| sha.lach-<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

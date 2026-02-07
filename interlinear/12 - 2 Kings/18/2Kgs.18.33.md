@@ -1,4 +1,4 @@
-**2 Kings 18:33** 
+**2 Kings 18:33**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hath any of the gods of the nations delivered at all his land out of the hand of the king of Assyria?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Has the god of any nation ever delivered his land from the hand of the king of A
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.32|<< 2 Kings 18:32]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.34|2 Kings 18:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ really \<to deliver>  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H5337\|הַצֵּ֥ל]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ha.Tzel<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | have they delivered  |**<big>&#8207;[[H5337\|הִצִּ֛ילוּ]]&#8207; </big>**| hi.Tzi.lu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

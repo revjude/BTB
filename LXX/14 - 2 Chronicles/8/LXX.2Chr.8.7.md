@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 8:7** 
 <small><sub>**LXX:**</sub></small>
 All the people  left behind from the Hittite, and the Amorite, and the Perizzite, and the Hivite, and the Jebusite, who are not of  Israel, 
-<small><sub>**KJV:**</sub></small>
-[As for] all the people [that were] left of the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, which [were] not of Israel,
-<small><sub>**BSB:**</sub></small>
-As for all the people who remained of the Hittites, Amorites, Perizzites, Hivites, and Jebusites (these people were not Israelites)—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.6|<< 2 Chronicles 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.8|2 Chronicles 8:8 >>]]</td></tr></table>
 
 | Translation | Greek |

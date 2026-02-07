@@ -1,10 +1,7 @@
 **LXX Genesis 34:24** 
 <small><sub>**LXX:**</sub></small>
 And they listened to Hamor and Shechem  his son, and all the \[ones\] going forth at the gate  of their city. And they were circumcised in the flesh  of their foreskin -- every male. 
-<small><sub>**KJV:**</sub></small>
-And unto Hamor and unto Shechem his son hearkened all that went out of the gate of his city; and every male was circumcised, all that went out of the gate of his city.
-<small><sub>**BSB:**</sub></small>
-All the men who went out of the city gate listened to Hamor and his son Shechem, and every male of the city was circumcised.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.23|<< Genesis 34:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.25|Genesis 34:25 >>]]</td></tr></table>
 
 | Translation | Greek |

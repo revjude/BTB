@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And behold, glory \[of the\] <span class="smallcaps">lord</span> God of Israel was there, according to the vision which I beheld in the plain. 
-<small><sub>**KJV:**</sub></small>
-And, behold, the glory of the God of Israel [was] there, according to the vision that I saw in the plain.
-<small><sub>**BSB:**</sub></small>
-And there I saw the glory of the God of Israel, like the vision I had seen in the plain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.3|<< Ezekiel 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.5|Ezekiel 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

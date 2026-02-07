@@ -1,4 +1,4 @@
-**Job 6:4** 
+**Job 6:4**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the arrows of the Almighty [are] within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the arrows of the Almighty have pierced me; my spirit drinks in their poison
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.3|<< Job 6:3]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.5|Job 6:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] arrows of  |**<big>&#8207;[[H2671\|חִצֵּ֪י]]&#8207; </big>**| chi.Tzei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

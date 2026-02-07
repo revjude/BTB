@@ -1,10 +1,7 @@
 **LXX Job 5:5** 
 <small><sub>**LXX:**</sub></small>
 For those \[things\] which they harvested, one hungering shall eat; but they shall be carried to ones armed; their strength be siphoned off. 
-<small><sub>**KJV:**</sub></small>
-Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.
-<small><sub>**BSB:**</sub></small>
-The hungry consume his harvest, taking it even from the thorns, and the thirsty pant after his wealth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.4|<< Job 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.6|Job 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

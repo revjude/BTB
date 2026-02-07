@@ -1,4 +1,4 @@
-**Numbers 20:3** 
+**Numbers 20:3**<big><big>[[Num.20.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before the LORD!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The people quarreled with Moses and said, “If only we had perished with our br
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.2|<< Numbers 20:2]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.4|Numbers 20:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it quarreled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7378\|יָּ֥רֶב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.rev<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֖ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

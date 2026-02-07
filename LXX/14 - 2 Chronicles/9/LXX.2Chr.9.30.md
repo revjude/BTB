@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:30** 
 <small><sub>**LXX:**</sub></small>
 And Solomon reigned in Jerusalem over all Israel forty years. 
-<small><sub>**KJV:**</sub></small>
-And Solomon reigned in Jerusalem over all Israel forty years.
-<small><sub>**BSB:**</sub></small>
-Solomon reigned in Jerusalem over all Israel forty years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.29|<< 2 Chronicles 9:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.31|2 Chronicles 9:31 >>]]</td></tr></table>
 
 | Translation | Greek |

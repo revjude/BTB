@@ -1,12 +1,12 @@
-**Mark 9:3
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:3**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his raiment became shining, exceeding white as snow; so as no fuller on earth can white them.
 <small><sub>**BSB:**</sub></small>
 His clothes became radiantly white, brighter than any launderer on earth could bleach them.
 <small><sub>**Literal:**</sub></small>
 and the garments of Him was shining white exceedingly as snow such as a launderer on the earth not is able thus to whiten.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.2|<< Mark 9:2]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.4|Mark 9:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

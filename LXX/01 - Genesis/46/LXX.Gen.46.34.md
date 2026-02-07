@@ -1,10 +1,7 @@
 **LXX Genesis 46:34** 
 <small><sub>**LXX:**</sub></small>
 You shall say, We are your servants men grazing cattle, from child \[hood\] until the present, even we and  our fathers; that you may dwell in \[the\] land of Goshen of Arabia. For every shepherd of flocks \[is an\] abomination to \[the\] Egyptians. 
-<small><sub>**KJV:**</sub></small>
-That ye shall say, Thy servants’ trade hath been about cattle from our youth even until now, both we, [and] also our fathers: that ye may dwell in the land of Goshen; for every shepherd [is] an abomination unto the Egyptians.
-<small><sub>**BSB:**</sub></small>
-you are to say, ‘Your servants have raised livestock ever since our youth—both we and our fathers.’ Then you will be allowed to settle in the land of Goshen, since all shepherds are detestable to the Egyptians.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.33|<< Genesis 46:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.1|Genesis 47:1 >>]]</td></tr></table>
 
 | Translation | Greek |

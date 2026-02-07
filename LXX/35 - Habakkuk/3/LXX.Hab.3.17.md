@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 For \[though the\] fig-tree shall not bear fruit, and there shall not be produce on the grapevines; \[and\] the work of the olive shall lie, and the plains shall not produce food, \[and\] sheep cease from \[having\] food, and \[the\] oxen shall not exist at \[the\] stables; 
-<small><sub>**KJV:**</sub></small>
-Although the fig tree shall not blossom, neither [shall] fruit [be] in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and [there shall be] no herd in the stalls:
-<small><sub>**BSB:**</sub></small>
-Though the fig tree does not bud and no fruit is on the vines, though the olive crop fails and the fields produce no food, though the sheep are cut off from the fold and no cattle are in the stalls,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.16|<< Habakkuk 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.18|Habakkuk 3:18 >>]]</td></tr></table>
 
 | Translation | Greek |

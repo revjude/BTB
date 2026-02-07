@@ -1,10 +1,7 @@
 **LXX Leviticus 14:43** 
 <small><sub>**LXX:**</sub></small>
 But if the infection should come again, and should rise up in the house after the taking away of the stones, and after the scraping the house, and after the plastering, 
-<small><sub>**KJV:**</sub></small>
-And if the plague come again, and break out in the house, after that he hath taken away the stones, and after he hath scraped the house, and after it is plaistered;
-<small><sub>**BSB:**</sub></small>
-If the mildew reappears in the house after the stones have been torn out and the house has been scraped and replastered,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.42|<< Leviticus 14:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.44|Leviticus 14:44 >>]]</td></tr></table>
 
 | Translation | Greek |

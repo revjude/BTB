@@ -1,10 +1,7 @@
 **LXX Genesis 38:19** 
 <small><sub>**LXX:**</sub></small>
 And rising up she went forth. And she removed  her lightweight garment from herself, and put on the garments  of her widowhood. 
-<small><sub>**KJV:**</sub></small>
-And she arose, and went away, and laid by her vail from her, and put on the garments of her widowhood.
-<small><sub>**BSB:**</sub></small>
-Then Tamar got up and departed. And she removed her veil and put on her widow’s garments again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.18|<< Genesis 38:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.20|Genesis 38:20 >>]]</td></tr></table>
 
 | Translation | Greek |

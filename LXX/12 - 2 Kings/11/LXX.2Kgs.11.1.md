@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Athaliah the mother of Ahaziah saw that her son died, and she rose up and destroyed all the seed of the kingdom. 
-<small><sub>**KJV:**</sub></small>
-And when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal.
-<small><sub>**BSB:**</sub></small>
-When Athaliah the mother of Ahaziah saw that her son was dead, she proceeded to annihilate all the royal heirs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.36|<< 2 Kings 10:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.2|2 Kings 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

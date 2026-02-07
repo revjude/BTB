@@ -1,10 +1,7 @@
 **LXX Ezekiel 2:6** 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, should not be afraid of them, nor be startled by their face, for they shall be heated, and shall rise up together against you round about. And you dwell in \[the\] midst of scorpions.  You should not fear their words, and before their face you should not be startled, for it is a rebellious house. 
-<small><sub>**KJV:**</sub></small>
-And thou, son of man, be not afraid of them, neither be afraid of their words, though briers and thorns [be] with thee, and thou dost dwell among scorpions: be not afraid of their words, nor be dismayed at their looks, though they [be] a rebellious house.
-<small><sub>**BSB:**</sub></small>
-But you, son of man, do not be afraid of them or their words. Do not be afraid, though briers and thorns surround you, and you dwell among scorpions. Do not be afraid of their words or dismayed by their presence, though they are a rebellious house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.2.5|<< Ezekiel 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.2.7|Ezekiel 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

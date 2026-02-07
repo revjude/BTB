@@ -1,10 +1,7 @@
 **LXX Genesis 31:36** 
 <small><sub>**LXX:**</sub></small>
 And Jacob was provoked to anger, and he quarreled \[with\] Laban. And responding Jacob said  to Laban, What is  my offence? and what is  my sin, that you pursued after me? 
-<small><sub>**KJV:**</sub></small>
-And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What [is] my trespass? what [is] my sin, that thou hast so hotly pursued after me?
-<small><sub>**BSB:**</sub></small>
-Then Jacob became incensed and challenged Laban. “What is my crime?” he said. “For what sin of mine have you so hotly pursued me?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.35|<< Genesis 31:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.37|Genesis 31:37 >>]]</td></tr></table>
 
 | Translation | Greek |

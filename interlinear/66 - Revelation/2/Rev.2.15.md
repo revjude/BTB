@@ -1,12 +1,12 @@
-**Revelation 2:15
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:15**<big><big>[[Rev.2.12 To the Church in Pergamum|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So hast thou also them that hold the doctrine of the Nicolaitans, which thing I hate.
 <small><sub>**BSB:**</sub></small>
 In the same way, some of you also hold to the teaching of the Nicolaitans.
 <small><sub>**Literal:**</sub></small>
 So have also you yourself [some] holding the teaching of the Nicolaitans likewise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.14|<< Revelation 2:14]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.16|Revelation 2:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | have |**<big>[[G2192\|ἔχεις]]</big>**  |echeis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

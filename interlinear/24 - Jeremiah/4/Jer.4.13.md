@@ -1,4 +1,4 @@
-**Jeremiah 4:13** 
+**Jeremiah 4:13**<big><big>[[Jer.4.5 Disaster from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he shall come up as clouds, and his chariots [shall be] as a whirlwind: his horses are swifter than eagles. Woe unto us! for we are spoiled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, he advances like the clouds, his chariots like the whirlwind. His horses
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.12|<< Jeremiah 4:12]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.14|Jeremiah 4:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like clouds  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H6051\|עֲנָנִ֣ים]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.na.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

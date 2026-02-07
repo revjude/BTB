@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:23** 
 <small><sub>**LXX:**</sub></small>
 for only in the eighteenth year  of king Josiah this passover to the <span class="smallcaps">lord</span> took place in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-But in the eighteenth year of king Josiah, [wherein] this passover was holden to the LORD in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-But in the eighteenth year of Josiah’s reign, this Passover was observed to the LORD in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.22|<< 2 Kings 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.24|2 Kings 23:24 >>]]</td></tr></table>
 
 | Translation | Greek |

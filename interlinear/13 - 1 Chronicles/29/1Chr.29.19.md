@@ -1,4 +1,4 @@
-**1 Chronicles 29:19** 
+**1 Chronicles 29:19**<big><big>[[1Chr.29.10 David’s Prayer of Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And give unto Solomon my son a perfect heart, to keep thy commandments, thy testimonies, and thy statutes, and to do all [these things], and to build the palace, [for] the which I have made provision.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And give my son Solomon a whole heart to keep and carry out all Your commandment
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.18|<< 1 Chronicles 29:18]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.20|1 Chronicles 29:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to Solomon  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8010\|שְׁלֹמֹ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> sh.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | son my  |**<big>&#8207;[[H1121A\|בְנִ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

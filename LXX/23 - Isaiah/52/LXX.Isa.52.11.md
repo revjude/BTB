@@ -1,10 +1,7 @@
 **LXX Isaiah 52:11** 
 <small><sub>**LXX:**</sub></small>
 Leave! Leave! Go forth from there, and \[the\] unclean \[thing\] do not touch! Go forth from out of \[the\] midst of it! Separate yourselves, O ones bearing the vessels of \[the\] <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-Depart ye, depart ye, go ye out from thence, touch no unclean [thing]; go ye out of the midst of her; be ye clean, that bear the vessels of the LORD.
-<small><sub>**BSB:**</sub></small>
-Depart, depart, go out from there! Touch no unclean thing; come out from it, purify yourselves, you who carry the vessels of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.52.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.10|<< Isaiah 52:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.12|Isaiah 52:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 52:11** is...

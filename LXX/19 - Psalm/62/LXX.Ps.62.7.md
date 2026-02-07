@@ -1,10 +1,7 @@
 **LXX Psalm 62:7** 
 <small><sub>**LXX:**</sub></small>
 By  God  \[is\] my deliverance, and  my glory; the God  of my help; and  my hope \[is\] upon  God. 
-<small><sub>**KJV:**</sub></small>
-In God [is] my salvation and my glory: the rock of my strength, [and] my refuge, [is] in God.
-<small><sub>**BSB:**</sub></small>
-My salvation and my honor rest on God, my strong rock; my refuge is in God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.62.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.62.6|<< Psalm 62:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.62.8|Psalm 62:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Behold, days of the <span class="smallcaps">lord</span> come, and your spoils shall be divided among you. 
-<small><sub>**KJV:**</sub></small>
-Behold, the day of the LORD cometh, and thy spoil shall be divided in the midst of thee.
-<small><sub>**BSB:**</sub></small>
-Behold, a day of the LORD is coming when your plunder will be divided in your presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.14.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.13.9|<< Zechariah 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.2|Zechariah 14:2 >>]]</td></tr></table>
 
 | Translation | Greek |

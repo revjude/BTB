@@ -1,12 +1,12 @@
-**Philippians 3:17
-**<small><sub>**KJV:**</sub></small>
+**Philippians 3:17**<big><big>[[Phil.3.17 Citizenship in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample.
 <small><sub>**BSB:**</sub></small>
 Join one another in following my example, brothers, and carefully observe those who walk according to the pattern we set for you.
 <small><sub>**Literal:**</sub></small>
 Imitators together of me do be, brothers, and do observe those thus walking even as you have [for] a pattern us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.16|<< Philippians 3:16]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.18|Philippians 3:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Imitators together |**<big>[[G4831\|Συμμιμηταί]]</big>**  [^1] |Summimētai <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of me |**<big>[[G3165\|μου]]</big>**  |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

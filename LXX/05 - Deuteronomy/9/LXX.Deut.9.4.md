@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:4** 
 <small><sub>**LXX:**</sub></small>
 You should not say in  your heart by the complete consuming \[by the\] <span class="smallcaps">lord</span>  your God  of these nations before your face, saying, Because of  my righteousness \[the\] <span class="smallcaps">lord</span> brought me to inherit  this good land. But on account of the impiety  of these nations \[the\] <span class="smallcaps">lord</span> will utterly destroy them before your face. 
-<small><sub>**KJV:**</sub></small>
-Speak not thou in thine heart, after that the LORD thy God hath cast them out from before thee, saying, For my righteousness the LORD hath brought me in to possess this land: but for the wickedness of these nations the LORD doth drive them out from before thee.
-<small><sub>**BSB:**</sub></small>
-When the LORD your God has driven them out before you, do not say in your heart, “Because of my righteousness the LORD has brought me in to possess this land.” Rather, the LORD is driving out these nations before you because of their wickedness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.3|<< Deuteronomy 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.5|Deuteronomy 9:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 9:4** is...

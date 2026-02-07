@@ -1,4 +1,4 @@
-**Micah 4:8** 
+**Micah 4:8**<big><big>[[Mic.4.6 The Restoration of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou, O tower of the flock, the strong hold of the daughter of Zion, unto thee shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you, O watchtower of the flock, O stronghold of the Daughter of Zion—the f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.4.7|<< Micah 4:7]]</td><td align="center" style="border:none;">[[Mic.4|Micah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.4.9|Micah 4:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Migdal  |**<big>&#8207;[[H4029\|מִגְדַּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mig.dal-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

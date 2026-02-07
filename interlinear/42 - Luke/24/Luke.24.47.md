@@ -1,12 +1,12 @@
-**Luke 24:47
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:47**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And that repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.
 <small><sub>**BSB:**</sub></small>
 and in His name repentance and forgiveness of sins will be proclaimed to all nations, beginning in Jerusalem.
 <small><sub>**Literal:**</sub></small>
 and to be proclaimed in the name of Him repentance to forgiveness of sins to all <the> nations having begun from Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.46|<< Luke 24:46]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.48|Luke 24:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to be proclaimed |**<big>[[G2784\|κηρυχθῆναι]]</big>**  |kēruchthēnai <small><sup>[[V-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

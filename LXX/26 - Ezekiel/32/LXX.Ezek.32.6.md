@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:6** 
 <small><sub>**LXX:**</sub></small>
 And I will water the earth from  your excrement; from  your multitude upon the mountains I will fill up \[the\] ravines with you. 
-<small><sub>**KJV:**</sub></small>
-I will also water with thy blood the land wherein thou swimmest, [even] to the mountains; and the rivers shall be full of thee.
-<small><sub>**BSB:**</sub></small>
-I will drench the land with the flow of your blood, all the way to the mountains—the ravines will be filled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.5|<< Ezekiel 32:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.7|Ezekiel 32:7 >>]]</td></tr></table>
 
 | Translation | Greek |

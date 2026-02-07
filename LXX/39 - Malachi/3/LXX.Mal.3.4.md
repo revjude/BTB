@@ -1,10 +1,7 @@
 **LXX Malachi 3:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sacrifice of Judah and Jerusalem shall please the <span class="smallcaps">lord</span>,, as in the days of the eon; and as the years  before. 
-<small><sub>**KJV:**</sub></small>
-Then shall the offering of Judah and Jerusalem be pleasant unto the LORD, as in the days of old, and as in former years.
-<small><sub>**BSB:**</sub></small>
-Then the offerings of Judah and Jerusalem will please the LORD, as in days of old and years gone by.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.3|<< Malachi 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.5|Malachi 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

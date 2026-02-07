@@ -1,4 +1,4 @@
-**Leviticus 24:7** 
+**Leviticus 24:7**<big><big>[[Lev.24.5 The Showbread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put pure frankincense upon [each] row, that it may be on the bread for a memorial, [even] an offering made by fire unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you are to place pure frankincense near each row, so that it may serve as a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.6|<< Leviticus 24:6]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.8|Leviticus 24:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414H\|נָתַתָּ֥]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

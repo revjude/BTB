@@ -1,10 +1,7 @@
 **LXX Exodus 19:22** 
 <small><sub>**LXX:**</sub></small>
 And the priests, the ones approaching to the <span class="smallcaps">lord</span>  God, let them be sanctified! lest at any time \[the\] <span class="smallcaps">lord</span> should get rid of them. 
-<small><sub>**KJV:**</sub></small>
-And let the priests also, which come near to the LORD, sanctify themselves, lest the LORD break forth upon them.
-<small><sub>**BSB:**</sub></small>
-Even the priests who approach the LORD must consecrate themselves, or the LORD will break out against them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.19.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.21|<< Exodus 19:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.23|Exodus 19:23 >>]]</td></tr></table>
 
 | Translation | Greek |

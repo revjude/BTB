@@ -1,10 +1,7 @@
 **LXX Genesis 50:5** 
 <small><sub>**LXX:**</sub></small>
  My father bound me by an oath before  his coming to an end, saying, In the memorial which I dug myself, in \[the\] land of Canaan, there entomb me! Now then, ascending, I will entomb  my father, and I will return back. 
-<small><sub>**KJV:**</sub></small>
-My father made me swear, saying, Lo, I die: in my grave which I have digged for me in the land of Canaan, there shalt thou bury me. Now therefore let me go up, I pray thee, and bury my father, and I will come again.
-<small><sub>**BSB:**</sub></small>
-my father made me swear an oath when he said, ‘I am about to die. You must bury me in the tomb that I dug for myself in the land of Canaan.’ Now let me go and bury my father, and then return.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.50.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.4|<< Genesis 50:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.6|Genesis 50:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Samuel was offering the whole burnt-offering. And the Philistines led forward for war against Israel. And \[the\] <span class="smallcaps">lord</span> thundered with a great voice in  that day against the Philistines, and they were confounded, and failed before Israel. 
-<small><sub>**KJV:**</sub></small>
-And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the LORD thundered with a great thunder on that day upon the Philistines, and discomfited them; and they were smitten before Israel.
-<small><sub>**BSB:**</sub></small>
-As the Philistines drew near to fight against Israel, Samuel was offering up the burnt offering. But that day the LORD thundered loudly against the Philistines and threw them into such confusion that they fled before Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.9|<< 1 Samuel 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.11|1 Samuel 7:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 7:10** is...

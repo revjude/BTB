@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it took place in the eleventh year, \[day\] one of the month, \[the\] word \[of the\] <span class="smallcaps">lord</span> came to me, saying, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the eleventh year, in the first [day] of the month, [that] the word of the LORD came unto me, saying,
-<small><sub>**BSB:**</sub></small>
-In the eleventh month of the twelfth year, on the first day of the month, the word of the LORD came to me, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.17|<< Ezekiel 25:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.2|Ezekiel 26:2 >>]]</td></tr></table>
 
 | Translation | Greek |

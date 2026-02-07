@@ -1,10 +1,7 @@
 **LXX Jeremiah 14:9** 
 <small><sub>**LXX:**</sub></small>
 Will you be as a man sleeping, or as a man not being able to deliver? But you are among us, O <span class="smallcaps">lord</span>, and  your name is called upon us; you should not forget us. 
-<small><sub>**KJV:**</sub></small>
-Why shouldest thou be as a man astonied, as a mighty man [that] cannot save? yet thou, O LORD, [art] in the midst of us, and we are called by thy name; leave us not.
-<small><sub>**BSB:**</sub></small>
-Why are You like a man taken by surprise, like a warrior powerless to save? Yet You are among us, O LORD, and we are called by Your name. Do not forsake us!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.8|<< Jeremiah 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.10|Jeremiah 14:10 >>]]</td></tr></table>
 
 | Translation | Greek |

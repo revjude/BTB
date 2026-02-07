@@ -1,4 +1,4 @@
-**Jeremiah 18:9** 
+**Jeremiah 18:9**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [at what] instant I shall speak concerning a nation, and concerning a kingdom, to build and to plant [it];
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And if at another time I announce that I will build up and establish a nation or
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.8|<< Jeremiah 18:8]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.10|Jeremiah 18:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a moment  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7281\|רֶ֣גַע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Re.ga'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will speak  |**<big>&#8207;[[H1696I\|אֲדַבֵּ֔ר]]&#8207; </big>**| 'a.da.Ber<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Revelation 11:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:12**<big><big>[[Rev.11.7 The Witnesses Killed and Raised|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they heard a great voice from heaven saying unto them, Come up hither. And they ascended up to heaven in a cloud; and their enemies beheld them.
 <small><sub>**BSB:**</sub></small>
 And the witnesses heard a loud voice from heaven saying, “Come up here.” And they went up to heaven in a cloud as their enemies watched them.
 <small><sub>**Literal:**</sub></small>
 And they heard a voice great out of <the> heaven saying to them; do come up here. And they went up to <the> heaven in the cloud, and beheld them the enemies of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.11|<< Revelation 11:11]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.13|Revelation 11:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they heard [^1] [^2] |**<big>[[G0191\|ἤκουσαν]]</big>**  |ēkousan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(O)</abbr> | |

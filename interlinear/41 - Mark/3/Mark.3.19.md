@@ -1,12 +1,12 @@
-**Mark 3:19
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:19**<big><big>[[Mark.3.13 The Twelve Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Judas Iscariot, which also betrayed him: and they went into an house.
 <small><sub>**BSB:**</sub></small>
 and Judas Iscariot, who betrayed Jesus.
 <small><sub>**Literal:**</sub></small>
 and Judas Iscariot who also betrayed Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.18|<< Mark 3:18]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.20|Mark 3:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Judas |**<big>[[G2455H\|Ἰούδαν]]</big>**  |Ioudan <small><sup>[[N-ASM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

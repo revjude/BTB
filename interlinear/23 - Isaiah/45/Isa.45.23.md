@@ -1,4 +1,4 @@
-**Isaiah 45:23** 
+**Isaiah 45:23**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have sworn by myself, the word is gone out of my mouth [in] righteousness, and shall not return, That unto me every knee shall bow, every tongue shall swear.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ By Myself I have sworn; truth has gone out from My mouth, a word that will not b
 > $\quad$ referenced by: [[Rom.14.11|Rom 14:11]] ☩ [[Phil.2.10|Phil 2:10]] ☩ [[Phil.2.11|Phil 2:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by myself  |**<big>&#8207;[[H9003\|בִּ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| b<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I swear  |**<big>&#8207;[[H7650\|נִשְׁבַּ֔עְתִּי]]&#8207; </big>**| nish.Ba'.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

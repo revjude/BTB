@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:22** 
 <small><sub>**LXX:**</sub></small>
 You shall not have fear of them, for \[the\] <span class="smallcaps">lord</span>  our God himself shall wage war for you. 
-<small><sub>**KJV:**</sub></small>
-Ye shall not fear them: for the LORD your God he shall fight for you.
-<small><sub>**BSB:**</sub></small>
-Do not be afraid of them, for the LORD your God Himself will fight for you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.21|<< Deuteronomy 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.23|Deuteronomy 3:23 >>]]</td></tr></table>
 
 | Translation | Greek |

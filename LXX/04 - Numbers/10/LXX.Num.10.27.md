@@ -1,10 +1,7 @@
 **LXX Numbers 10:27** 
 <small><sub>**LXX:**</sub></small>
 And over the force of \[the\] tribe of \[the\] sons of Naphtali \[was\] Ahira son of Enan. 
-<small><sub>**KJV:**</sub></small>
-And over the host of the tribe of the children of Naphtali [was] Ahira the son of Enan.
-<small><sub>**BSB:**</sub></small>
-and Ahira son of Enan was over the division of the tribe of Naphtali.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.26|<< Numbers 10:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.28|Numbers 10:28 >>]]</td></tr></table>
 
 | Translation | Greek |

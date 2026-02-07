@@ -1,10 +1,7 @@
 **LXX Exodus 21:20** 
 <small><sub>**LXX:**</sub></small>
 But if any strike  his servant or  his maidservant with a rod, and \[one\] should die by  his hand, with punishment let him be punished! 
-<small><sub>**KJV:**</sub></small>
-And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.
-<small><sub>**BSB:**</sub></small>
-If a man strikes his manservant or maidservant with a rod, and the servant dies by his hand, he shall surely be punished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.19|<< Exodus 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.21|Exodus 21:21 >>]]</td></tr></table>
 
 | Translation | Greek |

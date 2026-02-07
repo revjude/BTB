@@ -1,4 +1,4 @@
-**Joshua 13:30** 
+**Joshua 13:30**<big><big>[[Josh.13.29 Manasseh’s Eastern Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their coast was from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the towns of Jair, which [are] in Bashan, threescore cities:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The territory from Mahanaim through all Bashan—all the kingdom of Og king of B
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.29|<< Joshua 13:29]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.31|Joshua 13:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | territory their  |**<big>&#8207;[[H1366H\|גְבוּלָ֗]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ge.vu.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

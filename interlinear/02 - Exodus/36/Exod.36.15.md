@@ -1,4 +1,4 @@
-**Exodus 36:15** 
+**Exodus 36:15**<big><big>[[Exod.36.14 The Eleven Curtains of Goat Hair|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The length of one curtain [was] thirty cubits, and four cubits [was] the breadth of one curtain: the eleven curtains [were] of one size.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each of the eleven curtains was the same size—thirty cubits long and four cubi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.14|<< Exodus 36:14]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.16|Exodus 36:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] length of  |**<big>&#8207;[[H0753\|אֹ֜רֶךְ]]&#8207; </big>**| 'O.rekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the curtain  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3407\|יְרִיעָ֣ה]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> y.ri.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

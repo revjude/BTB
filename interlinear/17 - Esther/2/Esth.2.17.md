@@ -1,4 +1,4 @@
-**Esther 2:17** 
+**Esther 2:17**<big><big>[[Esth.2.17 Esther Becomes Queen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king loved Esther above all the women, and she obtained grace and favour in his sight more than all the virgins; so that he set the royal crown upon her head, and made her queen instead of Vashti.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the king loved Esther more than all the other women, and she found grace and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.16|<< Esther 2:16]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.18|Esther 2:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he loved  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0157G\|יֶּאֱהַ֨ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.'e.Hav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֤לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

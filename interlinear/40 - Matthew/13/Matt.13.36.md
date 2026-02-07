@@ -1,12 +1,12 @@
-**Matthew 13:36
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:36**<big><big>[[Matt.13.36 The Parable of the Weeds Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Jesus sent the multitude away, and went into the house: and his disciples came unto him, saying, Declare unto us the parable of the tares of the field.
 <small><sub>**BSB:**</sub></small>
 Then Jesus dismissed the crowds and went into the house. His disciples came to Him and said, “Explain to us the parable of the weeds in the field.”
 <small><sub>**Literal:**</sub></small>
 Then having dismissed the crowds He went into the house <the> Jesus. And came to Him the disciples of Him saying; do explain to us the parable of the weeds of the field.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.35|<< Matthew 13:35]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.37|Matthew 13:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having dismissed |**<big>[[G0863G\|ἀφεὶς]]</big>**  |apheis <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

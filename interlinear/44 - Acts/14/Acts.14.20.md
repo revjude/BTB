@@ -1,12 +1,12 @@
-**Acts 14:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:20**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Howbeit, as the disciples stood round about him, he rose up, and came into the city: and the next day he departed with Barnabas to Derbe.
 <small><sub>**BSB:**</sub></small>
 But after the disciples had gathered around him, he got up and went back into the city. And the next day he left with Barnabas for Derbe.
 <small><sub>**Literal:**</sub></small>
 When were sorrounding however the disciples him having risen up he entered into the city And on the next day he went away with <the> Barnabas to Derbe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.19|<< Acts 14:19]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.21|Acts 14:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When were sorrounding |**<big>[[G2944\|κυκλωσάντων]]</big>**  |kuklōsantōn <small><sup>[[V-AAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

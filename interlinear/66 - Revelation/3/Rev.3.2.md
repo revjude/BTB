@@ -1,12 +1,12 @@
-**Revelation 3:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:2**<big><big>[[Rev.3.1 To the Church in Sardis|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.
 <small><sub>**BSB:**</sub></small>
 Wake up and strengthen what remains, which is about to die; for I have found your deeds incomplete in the sight of My God.
 <small><sub>**Literal:**</sub></small>
 do be watching and do strengthen the [things] that remain which <they> were about to die; not for I have found your <the> works completed in the sight of the God of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.1|<< Revelation 3:1]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.3|Revelation 3:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be |**<big>[[G1096\|γίνου]]</big>**  |ginou <small><sup>[[V-PNM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | watching |**<big>[[G1127\|γρηγορῶν]]</big>**  |grēgorōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

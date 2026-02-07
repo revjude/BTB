@@ -1,10 +1,7 @@
 **LXX Judges 12:14** 
 <small><sub>**LXX:**</sub></small>
 And there were to him forty sons, and thirty sons  of his sons being mounted upon seventy foals. And he judged  Israel eight years. 
-<small><sub>**KJV:**</sub></small>
-And he had forty sons and thirty nephews, that rode on threescore and ten ass colts: and he judged Israel eight years.
-<small><sub>**BSB:**</sub></small>
-He had forty sons and thirty grandsons, who rode on seventy donkeys. And he judged Israel eight years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.12.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.12.13|<< Judges 12:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.12.15|Judges 12:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 26:55** 
+**Numbers 26:55**<big><big>[[Num.26.52 Inheritance by Lot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Notwithstanding the land shall be divided by lot: according to the names of the tribes of their fathers they shall inherit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Indeed, the land must be divided by lot; they shall receive their inheritance ac
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.54|<< Numbers 26:54]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.56|Numbers 26:56 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H0389\|אַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'akh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by lot  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1486\|גוֹרָ֕ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> go.Ral<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

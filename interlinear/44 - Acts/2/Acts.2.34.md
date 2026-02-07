@@ -1,5 +1,5 @@
-**Acts 2:34
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:34**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For David is not ascended into the heavens: but he saith himself, The LORD said unto my Lord, Sit thou on my right hand,
 <small><sub>**BSB:**</sub></small>
 For David did not ascend into heaven, but he himself says: ‘The Lord said to my Lord, “Sit at My right hand
@@ -10,7 +10,7 @@ Not for David ascended into the heavens, he says however himself: Said the Lord 
 > $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

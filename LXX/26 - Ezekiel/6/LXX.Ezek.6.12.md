@@ -1,10 +1,7 @@
 **LXX Ezekiel 6:12** 
 <small><sub>**LXX:**</sub></small>
 The one far away shall come to an end by plague. And the one near shall fall by \[the\] broadsword. And the one being left behind, and the one being compassed \[by siege\] will be finished off by famine. And I shall exhaust  my anger against them. 
-<small><sub>**KJV:**</sub></small>
-He that is far off shall die of the pestilence; and he that is near shall fall by the sword; and he that remaineth and is besieged shall die by the famine: thus will I accomplish my fury upon them.
-<small><sub>**BSB:**</sub></small>
-He who is far off will die by the plague, he who is near will fall by the sword, and he who remains will die by famine. So I will vent My fury upon them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.6.11|<< Ezekiel 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.6.13|Ezekiel 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 37:10** 
+**Genesis 37:10**<big><big>[[Gen.37.1 Joseph’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he told [it] to his father, and to his brethren: and his father rebuked him, and said unto him, What [is] this dream that thou hast dreamed? Shall I and thy mother and thy brethren indeed come to bow down ourselves to thee to the earth?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He told his father and brothers, but his father rebuked him and said, “What is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.9|<< Genesis 37:9]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.11|Genesis 37:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he recounted [it]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5608A\|יְסַפֵּ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sa.Per<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 26:47** 
+**Numbers 26:47**<big><big>[[Num.26.44 The Tribe of Asher|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the families of the sons of Asher according to those that were numbered of them; [who were] fifty and three thousand and four hundred.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the clans of Asher, and their registration numbered 53,400.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.46|<< Numbers 26:46]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.48|Numbers 26:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֛לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] clans of  |**<big>&#8207;[[H4940\|מִשְׁפְּחֹ֥ת]]&#8207; </big>**| mish.pe.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

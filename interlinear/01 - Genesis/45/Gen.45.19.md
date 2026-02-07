@@ -1,4 +1,4 @@
-**Genesis 45:19** 
+**Genesis 45:19**<big><big>[[Gen.45.16 Pharaoh Invites Jacob to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now thou art commanded, this do ye; take you wagons out of the land of Egypt for your little ones, and for your wives, and bring your father, and come.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are also directed to tell them: ‘Take wagons from the land of Egypt for yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.18|<< Genesis 45:18]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.20|Genesis 45:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you are commanded  |**<big>&#8207;[[H6680\|צֻוֵּ֖יתָה]]&#8207; </big>**| tzu.Vei.tah<small><sup>[[HVPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

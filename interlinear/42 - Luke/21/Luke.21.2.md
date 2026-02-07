@@ -1,12 +1,12 @@
-**Luke 21:2
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:2**<big><big>[[Luke.21.1 The Poor Widow’s Offering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he saw also a certain poor widow casting in thither two mites.
 <small><sub>**BSB:**</sub></small>
 and He saw a poor widow put in two small copper coins.
 <small><sub>**Literal:**</sub></small>
 He saw then and a certain widow poor casting in lepta two.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.1|<< Luke 21:1]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.3|Luke 21:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He saw |**<big>[[G1492H\|εἶδεν]]</big>**  |eiden <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

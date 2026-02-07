@@ -1,10 +1,7 @@
 **LXX Psalm 115:12** 
 <small><sub>**LXX:**</sub></small>
 The <span class="smallcaps">lord</span> was remembering us; he blessed us; he blessed the house of Israel; he blessed the house of Aaron; 
-<small><sub>**KJV:**</sub></small>
-The LORD hath been mindful of us: he will bless [us]; he will bless the house of Israel; he will bless the house of Aaron.
-<small><sub>**BSB:**</sub></small>
-The LORD is mindful of us; He will bless us. He will bless the house of Israel; He will bless the house of Aaron;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.115.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.11|<< Psalm 115:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.13|Psalm 115:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 26:4** 
 <small><sub>**LXX:**</sub></small>
 Do not give an answer to a fool according to  that one's folly, lest you should become likened to him! 
-<small><sub>**KJV:**</sub></small>
-Answer not a fool according to his folly, lest thou also be like unto him.
-<small><sub>**BSB:**</sub></small>
-Do not answer a fool according to his folly, or you yourself will be like him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.26.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.3|<< Proverbs 26:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.5|Proverbs 26:5 >>]]</td></tr></table>
 
 | Translation | Greek |

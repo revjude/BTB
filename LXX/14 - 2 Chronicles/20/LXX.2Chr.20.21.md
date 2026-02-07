@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:21** 
 <small><sub>**LXX:**</sub></small>
 And being advised with the people, and he stationed psalm singers and ones praising the <span class="smallcaps">lord</span>,  to acknowledge and to praise in the holy, in the going forth before the force. And they said, Give acknowledgment to the <span class="smallcaps">lord</span>, for into the eon  \[is\] his mercy! 
-<small><sub>**KJV:**</sub></small>
-And when he had consulted with the people, he appointed singers unto the LORD, and that should praise the beauty of holiness, as they went out before the army, and to say, Praise the LORD; for his mercy [endureth] for ever.
-<small><sub>**BSB:**</sub></small>
-Then Jehoshaphat consulted with the people and appointed those who would sing to the LORD and praise the splendor of His holiness. As they went out before the army, they were singing: “Give thanks to the LORD, for His loving devotion endures forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.20|<< 2 Chronicles 20:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.22|2 Chronicles 20:22 >>]]</td></tr></table>
 
 | Translation | Greek |

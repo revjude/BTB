@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:11** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>, Behold, I bring upon them evils of which they shall not be able to come forth from out of them. And they shall cry out to me, and I will not listen to them. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD, Behold, I will bring evil upon them, which they shall not be able to escape; and though they shall cry unto me, I will not hearken unto them.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD says: ‘I am about to bring upon them a disaster that they cannot escape. They will cry out to Me, but I will not listen to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.10|<< Jeremiah 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.12|Jeremiah 11:12 >>]]</td></tr></table>
 
 | Translation | Greek |

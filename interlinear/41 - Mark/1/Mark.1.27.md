@@ -1,12 +1,12 @@
-**Mark 1:27
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:27**<big><big>[[Mark.1.21 Jesus Expels an Unclean Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine [is] this? for with authority commandeth he even the unclean spirits, and they do obey him.
 <small><sub>**BSB:**</sub></small>
 All the people were amazed and began to ask one another, “What is this? A new teaching with authority! He commands even the unclean spirits, and they obey Him!”
 <small><sub>**Literal:**</sub></small>
 And were astonished all so as to question among themselves saying; What is this? what <the> teaching <the> new this that With authority; even to the spirits <the> unclean He commands, and they obey Him!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.26|<< Mark 1:26]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.28|Mark 1:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were astonished |**<big>[[G2284\|ἐθαμβήθησαν]]</big>**  |ethambēthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 5:11** 
 <small><sub>**LXX:**</sub></small>
 In a multitude  of goodness the ones eating of it are multiplied; and what courageous \[thing is it\] to the one having it, but \[the\] sum of the seeing it with his eyes? 
-<small><sub>**KJV:**</sub></small>
-When goods increase, they are increased that eat them: and what good [is there] to the owners thereof, saving the beholding [of them] with their eyes?
-<small><sub>**BSB:**</sub></small>
-When good things increase, so do those who consume them; what then is the profit to the owner, except to behold them with his eyes?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.10|<< Ecclesiastes 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.12|Ecclesiastes 5:12 >>]]</td></tr></table>
 
 | Translation | Greek |

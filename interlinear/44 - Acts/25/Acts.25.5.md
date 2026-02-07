@@ -1,12 +1,12 @@
-**Acts 25:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:5**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let them therefore, said he, which among you are able, go down with [me], and accuse this man, if there be any wickedness in him.
 <small><sub>**BSB:**</sub></small>
 So if this man has done anything wrong, let some of your leaders come down with me and accuse him there.”
 <small><sub>**Literal:**</sub></small>
 Those therefore among you he says [in] power having gone down too, if anything there is in the man wrong, they should accuse him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.4|<< Acts 25:4]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.6|Acts 25:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

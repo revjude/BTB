@@ -1,10 +1,7 @@
 **LXX Numbers 3:34** 
 <small><sub>**LXX:**</sub></small>
  Their numbering according to \[the\] number of every male, from a month and up -- six thousand and two hundred. 
-<small><sub>**KJV:**</sub></small>
-And those that were numbered of them, according to the number of all the males, from a month old and upward, [were] six thousand and two hundred.
-<small><sub>**BSB:**</sub></small>
-The number of all the males a month old or more was 6,200.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.33|<< Numbers 3:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.35|Numbers 3:35 >>]]</td></tr></table>
 
 | Translation | Greek |

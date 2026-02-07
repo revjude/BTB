@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:3** 
 <small><sub>**LXX:**</sub></small>
 And the men  \[were\] with him, each one and  his house. And they dwelt among the cities of Hebron. 
-<small><sub>**KJV:**</sub></small>
-And his men that [were] with him did David bring up, every man with his household: and they dwelt in the cities of Hebron.
-<small><sub>**BSB:**</sub></small>
-David also took the men who were with him, each with his household, and they settled in the towns near Hebron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.2|<< 2 Samuel 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.4|2 Samuel 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 47:13** 
 <small><sub>**LXX:**</sub></small>
 You are tired in  your counsels. the astrologers of the heaven stand indeed and deliver you! let the ones seeing the stars announce to you what is about to come upon you! 
-<small><sub>**KJV:**</sub></small>
-Thou art wearied in the multitude of thy counsels. Let now the astrologers, the stargazers, the monthly prognosticators, stand up, and save thee from [these things] that shall come upon thee.
-<small><sub>**BSB:**</sub></small>
-You are wearied by your many counselors; let them come forward now and save you—your astrologers who observe the stars, who monthly predict your fate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.47.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.12|<< Isaiah 47:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.14|Isaiah 47:14 >>]]</td></tr></table>
 
 | Translation | Greek |

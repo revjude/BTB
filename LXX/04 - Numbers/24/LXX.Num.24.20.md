@@ -1,10 +1,7 @@
 **LXX Numbers 24:20** 
 <small><sub>**LXX:**</sub></small>
 And having seen  Amalek, and taking up  his parable, he said, \[The\] head of nations \[is\] Amalek, and  his seed shall perish. 
-<small><sub>**KJV:**</sub></small>
-And when he looked on Amalek, he took up his parable, and said, Amalek [was] the first of the nations; but his latter end [shall be] that he perish for ever.
-<small><sub>**BSB:**</sub></small>
-Then Balaam saw Amalek and lifted up an oracle, saying: “Amalek was first among the nations, but his end is destruction.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.19|<< Numbers 24:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.21|Numbers 24:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 12:43** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses and Aaron, This \[is\] the law of the passover. Every foreigner shall not eat of it. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses and Aaron, This [is] the ordinance of the passover: There shall no stranger eat thereof:
-<small><sub>**BSB:**</sub></small>
-And the LORD said to Moses and Aaron, “This is the statute of the Passover: No foreigner is to eat of it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.42|<< Exodus 12:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.44|Exodus 12:44 >>]]</td></tr></table>
 
 | Translation | Greek |

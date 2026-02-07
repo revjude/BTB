@@ -1,4 +1,4 @@
-**2 Samuel 24:22** 
+**2 Samuel 24:22**<big><big>[[2Sam.24.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Araunah said unto David, Let my lord the king take and offer up what [seemeth] good unto him: behold, [here be] oxen for burnt sacrifice, and threshing instruments and [other] instruments of the oxen for wood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Araunah said to David, “May my lord the king take whatever seems good to him a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.21|<< 2 Samuel 24:21]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.23|2 Samuel 24:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Araunah  |**<big>&#8207;[[H0728\|אֲרַ֙וְנָה֙]]&#8207; </big>**| 'a.Rav.nah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

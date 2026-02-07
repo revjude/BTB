@@ -1,4 +1,4 @@
-**Deuteronomy 1:22** 
+**Deuteronomy 1:22**<big><big>[[Deut.1.19 Twelve Spies Sent Out|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye came near unto me every one of you, and said, We will send men before us, and they shall search us out the land, and bring us word again by what way we must go up, and into what cities we shall come.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then all of you approached me and said, “Let us send men ahead of us to search
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.21|<< Deuteronomy 1:21]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.23|Deuteronomy 1:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you drew near !  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7126G\|תִּקְרְב֣וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.re.Vu<small><sup>[[HVqw2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ]]&#8207;&#8207;[[H9030\|י֮]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

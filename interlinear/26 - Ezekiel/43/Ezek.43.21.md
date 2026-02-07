@@ -1,4 +1,4 @@
-**Ezekiel 43:21** 
+**Ezekiel 43:21**<big><big>[[Ezek.43.13 The Altar of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt take the bullock also of the sin offering, and he shall burn it in the appointed place of the house, without the sanctuary.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you are to take away the bull for the sin offering and burn it in the appoi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.20|<< Ezekiel 43:20]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.22|Ezekiel 43:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָ֣קַחְתָּ֔]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> La.kach.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 33:21** 
 <small><sub>**LXX:**</sub></small>
 For in him our heart shall be glad; and in  his holy name we hope. 
-<small><sub>**KJV:**</sub></small>
-For our heart shall rejoice in him, because we have trusted in his holy name.
-<small><sub>**BSB:**</sub></small>
-For our hearts rejoice in Him, since we trust in His holy name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.33.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.33.20|<< Psalm 33:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.33.22|Psalm 33:22 >>]]</td></tr></table>
 
 | Translation | Greek |

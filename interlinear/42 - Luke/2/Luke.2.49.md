@@ -1,12 +1,12 @@
-**Luke 2:49
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:49**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father’s business?
 <small><sub>**BSB:**</sub></small>
 “Why were you looking for Me?” He asked. “Did you not know that I had to be in My Father’s house?”
 <small><sub>**Literal:**</sub></small>
 And He said to them; Why [is it] for you were seeking Me? Surely you knew that in the [house] of the Father of Mine it behooves to be Me?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.48|<< Luke 2:48]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.50|Luke 2:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**1 Corinthians 6:4
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 6:4**<big><big>[[1Cor.6.1 Lawsuits among Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If then ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the church.
 <small><sub>**BSB:**</sub></small>
 So if you need to settle everyday matters, do you appoint as judges those of no standing in the church?
 <small><sub>**Literal:**</sub></small>
 Things of this life indeed so judgment [as to] if you shall have, the [ones] despised in the church, those set you up!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.3|<< 1 Corinthians 6:3]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.5|1 Corinthians 6:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Things of this life |**<big>[[G0982\|βιωτικὰ]]</big>**  |biōtika <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

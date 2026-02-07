@@ -1,12 +1,12 @@
-**Matthew 26:52
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:52**<big><big>[[Matt.26.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Jesus unto him, Put up again thy sword into his place: for all they that take the sword shall perish with the sword.
 <small><sub>**BSB:**</sub></small>
 “Put your sword back in its place,” Jesus said to him. “For all who draw the sword will die by the sword.
 <small><sub>**Literal:**</sub></small>
 Then says to him <the> Jesus; do return the sword of you into the place of it; all for those having taken [the] sword by [the] sword will perish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.51|<< Matthew 26:51]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.53|Matthew 26:53 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

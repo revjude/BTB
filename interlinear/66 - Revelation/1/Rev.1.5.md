@@ -1,12 +1,12 @@
-**Revelation 1:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:5**<big><big>[[Rev.1.4 John Greets the Seven Churches|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And from Jesus Christ, [who is] the faithful witness, [and] the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,
 <small><sub>**BSB:**</sub></small>
 and from Jesus Christ, the faithful witness, the firstborn from the dead, and the ruler of the kings of the earth. To Him who loves us and has released us from our sins by His blood,
 <small><sub>**Literal:**</sub></small>
 and from Jesus Christ, the witness <the> faithful, the firstborn from the dead and the ruler of the kings of the earth. To the [One] loving us and having released us from the sins of us through the blood of Him —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.4|<< Revelation 1:4]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.6|Revelation 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Exodus 24:14** 
 <small><sub>**LXX:**</sub></small>
 And they said to the elders, Be still here until we return to you! And behold, Aaron and Hur \[are\] with you. If anyone should come for a judgment, let them go to them! 
-<small><sub>**KJV:**</sub></small>
-And he said unto the elders, Tarry ye here for us, until we come again unto you: and, behold, Aaron and Hur [are] with you: if any man have any matters to do, let him come unto them.
-<small><sub>**BSB:**</sub></small>
-And he said to the elders, “Wait here for us until we return to you. Aaron and Hur are here with you. Whoever has a dispute can go to them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.13|<< Exodus 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.15|Exodus 24:15 >>]]</td></tr></table>
 
 | Translation | Greek |

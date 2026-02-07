@@ -1,12 +1,12 @@
-**Romans 8:37
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:37**<big><big>[[Rom.8.35 More than Conquerors|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nay, in all these things we are more than conquerors through him that loved us.
 <small><sub>**BSB:**</sub></small>
 No, in all these things we are more than conquerors through Him who loved us.
 <small><sub>**Literal:**</sub></small>
 But in these things all we more than conquer through the [One who] having loved us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.36|<< Romans 8:36]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.38|Romans 8:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

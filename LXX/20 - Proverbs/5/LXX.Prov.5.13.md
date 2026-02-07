@@ -1,10 +1,7 @@
 **LXX Proverbs 5:13** 
 <small><sub>**LXX:**</sub></small>
 I did not hear \[the\] voice of one correcting me and teaching me; nor did I set aside  my ear. 
-<small><sub>**KJV:**</sub></small>
-And have not obeyed the voice of my teachers, nor inclined mine ear to them that instructed me!
-<small><sub>**BSB:**</sub></small>
-I did not listen to the voice of my teachers or incline my ear to my mentors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.12|<< Proverbs 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.14|Proverbs 5:14 >>]]</td></tr></table>
 
 | Translation | Greek |

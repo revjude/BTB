@@ -1,10 +1,10 @@
-**Esther 4:6** 
+**Esther 4:6**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Hatach went forth to Mordecai unto the street of the city, which [was] before the king’s gate.
 <small><sub>**BSB:**</sub></small>
 So Hathach went out to Mordecai in the city square in front of the king’s gate,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.5|<< Esther 4:5]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.7|Esther 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hathach  |**<big>&#8207;[[H2047\|הֲתָ֖ךְ]]&#8207; </big>**| ha.Takh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

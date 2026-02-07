@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΛΑΜΕΔ</p>
 
  To their mothers they said, Where \[is\] \[the\] grain and wine? while they were enfeebled as wounded men in \[the\] squares of the city, in the pouring out of their souls into \[the\] bosom of their mothers. 
-<small><sub>**KJV:**</sub></small>
-They say to their mothers, Where [is] corn and wine? when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers’ bosom.
-<small><sub>**BSB:**</sub></small>
-They cry out to their mothers: “Where is the grain and wine?” as they faint like the wounded in the streets of the city, as their lives fade away in the arms of their mothers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.11|<< Lamentations 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.13|Lamentations 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

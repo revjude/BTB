@@ -1,10 +1,7 @@
 **LXX Job 2:2** 
 <small><sub>**LXX:**</sub></small>
 And the <span class="smallcaps">lord</span> said to the devil, From what place come you? Then the devil said before the <span class="smallcaps">lord</span>, Traveling over the \[place\] under heaven, and walking about  the whole \[the place\] at hand. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.
-<small><sub>**BSB:**</sub></small>
-“Where have you come from?” said the LORD to Satan. “From roaming through the earth,” he replied, “and walking back and forth in it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.1|<< Job 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.3|Job 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

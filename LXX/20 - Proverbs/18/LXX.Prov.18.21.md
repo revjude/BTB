@@ -1,10 +1,7 @@
 **LXX Proverbs 18:21** 
 <small><sub>**LXX:**</sub></small>
 Death and life \[are\] in \[the\] handle of \[the\] tongue; and the ones holding it shall eat  of its fruits. 
-<small><sub>**KJV:**</sub></small>
-Death and life [are] in the power of the tongue: and they that love it shall eat the fruit thereof.
-<small><sub>**BSB:**</sub></small>
-Life and death are in the power of the tongue, and those who love it will eat its fruit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.20|<< Proverbs 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.22|Proverbs 18:22 >>]]</td></tr></table>
 
 | Translation | Greek |

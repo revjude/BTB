@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:15** 
 <small><sub>**LXX:**</sub></small>
 What abomination did the one being loved in my house do? Shall vows and holy meats remove from you  your evils, or by these will you evade? 
-<small><sub>**KJV:**</sub></small>
-What hath my beloved to do in mine house, [seeing] she hath wrought lewdness with many, and the holy flesh is passed from thee? when thou doest evil, then thou rejoicest.
-<small><sub>**BSB:**</sub></small>
-What right has My beloved in My house, having carried out so many evil schemes? Can consecrated meat avert your doom? When you are wicked, then you rejoice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.14|<< Jeremiah 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.16|Jeremiah 11:16 >>]]</td></tr></table>
 
 | Translation | Greek |

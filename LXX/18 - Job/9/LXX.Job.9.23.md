@@ -1,10 +1,7 @@
 **LXX Job 9:23** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] vile \[are\] extraordinary in death, but \[the\] just \[are\] ridiculed. 
-<small><sub>**KJV:**</sub></small>
-If the scourge slay suddenly, he will laugh at the trial of the innocent.
-<small><sub>**BSB:**</sub></small>
-When the scourge brings sudden death, He mocks the despair of the innocent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.22|<< Job 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.24|Job 9:24 >>]]</td></tr></table>
 
 | Translation | Greek |

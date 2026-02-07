@@ -1,10 +1,7 @@
 **LXX Numbers 6:14** 
 <small><sub>**LXX:**</sub></small>
 and shall lead  his gift to the <span class="smallcaps">lord</span> -- one unblemished he-lamb of a year \[old\] for a whole burnt-offering, and one unblemished ewe-lamb of a year \[old\] for a sin \[offering\], and one unblemished ram for a deliverance \[offering\]; 
-<small><sub>**KJV:**</sub></small>
-And he shall offer his offering unto the LORD, one he lamb of the first year without blemish for a burnt offering, and one ewe lamb of the first year without blemish for a sin offering, and one ram without blemish for peace offerings,
-<small><sub>**BSB:**</sub></small>
-and he is to present an offering to the LORD of an unblemished year-old male lamb as a burnt offering, an unblemished year-old female lamb as a sin offering, and an unblemished ram as a peace offering—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.13|<< Numbers 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.15|Numbers 6:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 31:6** 
 <small><sub>**LXX:**</sub></small>
 And Saul died, and  his three sons, and the one carrying  his weapons, and all  his men, in  that day at the same \[time\]. 
-<small><sub>**KJV:**</sub></small>
-So Saul died, and his three sons, and his armourbearer, and all his men, that same day together.
-<small><sub>**BSB:**</sub></small>
-So Saul, his three sons, his armor-bearer, and all his men died together that same day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.31.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.31.5|<< 1 Samuel 31:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.31.7|1 Samuel 31:7 >>]]</td></tr></table>
 
 | Translation | Greek |

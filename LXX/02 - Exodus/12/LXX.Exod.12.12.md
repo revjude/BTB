@@ -1,10 +1,7 @@
 **LXX Exodus 12:12** 
 <small><sub>**LXX:**</sub></small>
 And I shall go through in \[the\] land of Egypt in  this night, and I shall strike all first-born in \[the\] land of Egypt, from man unto beast; and among all the gods of the Egyptians I will execute  punishment -- I \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-On that night I will pass through the land of Egypt and strike down every firstborn male, both man and beast, and I will execute judgment against all the gods of Egypt. I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.11|<< Exodus 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.13|Exodus 12:13 >>]]</td></tr></table>
 
 | Translation | Greek |

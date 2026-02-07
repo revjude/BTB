@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:23** 
 <small><sub>**LXX:**</sub></small>
 that they should not be defiled any longer by  their idols, and in  their stumblings, and in all their impieties. And I will rescue them from all  their lawless deeds which they sinned by them, and I will cleanse them. And they will be to me for a people, and I will be to them for God. 
-<small><sub>**KJV:**</sub></small>
-Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God.
-<small><sub>**BSB:**</sub></small>
-They will no longer defile themselves with their idols or detestable images, or with any of their transgressions. I will save them from all their apostasies by which they sinned, and I will cleanse them. Then they will be My people, and I will be their God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.22|<< Ezekiel 37:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.24|Ezekiel 37:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 37:23** is...

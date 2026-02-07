@@ -1,12 +1,12 @@
-**John 8:59
-**<small><sub>**KJV:**</sub></small>
+**John 8:59**<big><big>[[John.8.48 Before Abraham Was Born, I Am|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then took they up stones to cast at him: but Jesus hid himself, and went out of the temple, going through the midst of them, and so passed by.
 <small><sub>**BSB:**</sub></small>
 At this, they picked up stones to throw at Him. But Jesus was hidden and went out of the temple area.
 <small><sub>**Literal:**</sub></small>
 They took up therefore stones that they might cast at Him. Jesus however hid Himself and He went forth out of the temple having passed through through midst of them and He was passing by thus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.58|<< John 8:58]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.1|John 9:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They took up |**<big>[[G0142\|ἦραν]]</big>**  |ēran <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

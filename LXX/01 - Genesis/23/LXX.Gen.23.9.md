@@ -1,10 +1,7 @@
 **LXX Genesis 23:9** 
 <small><sub>**LXX:**</sub></small>
 And let him give to me the double cave which is his -- the \[one\] being in a part  of his field. Let him give it to me \[for its\] worth of silver, for a possession of a memorial among you. 
-<small><sub>**KJV:**</sub></small>
-That he may give me the cave of Machpelah, which he hath, which [is] in the end of his field; for as much money as it is worth he shall give it me for a possession of a buryingplace amongst you.
-<small><sub>**BSB:**</sub></small>
-to sell me the cave of Machpelah that belongs to him; it is at the end of his field. Let him sell it to me in your presence for full price, so that I may have a burial site.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.8|<< Genesis 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.10|Genesis 23:10 >>]]</td></tr></table>
 
 | Translation | Greek |

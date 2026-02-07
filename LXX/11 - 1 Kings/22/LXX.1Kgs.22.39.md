@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:39** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the words of Ahab, and all which he did, and \[the\] house of ivory which he built, and all the cities which he made, behold have not these been written in \[the\] scroll of \[the\] words of the days of the kings of Israel? 
-<small><sub>**KJV:**</sub></small>
-Now the rest of the acts of Ahab, and all that he did, and the ivory house which he made, and all the cities that he built, [are] they not written in the book of the chronicles of the kings of Israel?
-<small><sub>**BSB:**</sub></small>
-As for the rest of the acts of Ahab, along with all his accomplishments and the ivory palace and all the cities he built, are they not written in the Book of the Chronicles of the Kings of Israel?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.38|<< 1 Kings 22:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.40|1 Kings 22:40 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 45:26** 
 <small><sub>**LXX:**</sub></small>
 And they announced to him, saying that,  Your son Joseph lives, and he rules all \[the\] land of Egypt. And Jacob receded in \[his\] thought, for he did not trust them. 
-<small><sub>**KJV:**</sub></small>
-And told him, saying, Joseph [is] yet alive, and he [is] governor over all the land of Egypt. And Jacob’s heart fainted, for he believed them not.
-<small><sub>**BSB:**</sub></small>
-“Joseph is still alive,” they said, “and he is ruler over all the land of Egypt!” But Jacob was stunned, for he did not believe them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.25|<< Genesis 45:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.27|Genesis 45:27 >>]]</td></tr></table>
 
 | Translation | Greek |

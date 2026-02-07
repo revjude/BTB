@@ -1,4 +1,4 @@
-**Job 38:19** 
+**Job 38:19**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where [is] the way [where] light dwelleth? and [as for] darkness, where [is] the place thereof,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Where is the way to the home of light? Do you know where darkness resides,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.18|<< Job 38:18]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.20|Job 38:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where?  |**<big>&#8207;[[H0335\|אֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ei-<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2088\|זֶ֣ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 52:7** 
+**Isaiah 52:7**<big><big>[[Isa.52.1 Deliverance for Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ How beautiful on the mountains are the feet of those who bring good news, who pr
 > $\quad$ referenced by: [[Rom.10.15|Rom 10:15]] ☩ [[Eph.6.15|Eph 6:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are beautiful  |**<big>&#8207;[[H4998\|נָּאו֨וּ]]&#8207; </big>**| na.Vu<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

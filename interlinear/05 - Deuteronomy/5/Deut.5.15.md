@@ -1,4 +1,4 @@
-**Deuteronomy 5:15** 
+**Deuteronomy 5:15**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And remember that thou wast a servant in the land of Egypt, and [that] the LORD thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the LORD thy God commanded thee to keep the sabbath day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember that you were a slave in the land of Egypt, and that the LORD your God 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.14|<< Deuteronomy 5:14]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.16|Deuteronomy 5:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will remember  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2142\|זָכַרְתָּ֞֗]]&#8207; </big>**[^1] | ve.<small><sup>[[Hc]]</sup></small> za.khar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

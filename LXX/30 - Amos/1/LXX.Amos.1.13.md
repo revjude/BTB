@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, For the three impious deeds of the sons of Ammon, even for the four, I will not turn away from them. Because they ripped open the ones having one in \[the\] womb of the ones of Gilead, so that they should widen  their borders. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; For three transgressions of the children of Ammon, and for four, I will not turn away [the punishment] thereof; because they have ripped up the women with child of Gilead, that they might enlarge their border:
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “For three transgressions of the Ammonites, even four, I will not revoke My judgment, because they ripped open the pregnant women of Gilead in order to enlarge their territory.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.1.12|<< Amos 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.1.14|Amos 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

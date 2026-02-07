@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 An impious \[man\] flees \[with\] no one pursuing; but \[the\] just man is secure as a lion. 
-<small><sub>**KJV:**</sub></small>
-The wicked flee when no man pursueth: but the righteous are bold as a lion.
-<small><sub>**BSB:**</sub></small>
-The wicked flee when no one pursues, but the righteous are as bold as a lion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.27|<< Proverbs 27:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.2|Proverbs 28:2 >>]]</td></tr></table>
 
 | Translation | Greek |

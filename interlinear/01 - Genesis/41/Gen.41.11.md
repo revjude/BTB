@@ -1,4 +1,4 @@
-**Genesis 41:11** 
+**Genesis 41:11**<big><big>[[Gen.41.1 The Dreams of Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we dreamed a dream in one night, I and he; we dreamed each man according to the interpretation of his dream.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One night both the chief baker and I had dreams, and each dream had its own mean
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.10|<< Genesis 41:10]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.12|Genesis 41:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we dreamed !  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2492B\|נַּֽחַלְמָ֥]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> na.chal.Ma<small><sup>[[HVqw1cp]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a dream  |**<big>&#8207;[[H2472\|חֲל֛וֹם]]&#8207; </big>**| cha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

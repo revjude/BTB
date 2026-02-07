@@ -1,10 +1,7 @@
 **LXX Judges 12:2** 
 <small><sub>**LXX:**</sub></small>
 And Jephthah said to them, I was a man pleading, and  my people, and the sons of Ammon humbled me exceedingly, and I yelled out to you, and you did not deliver me from out of their hand. 
-<small><sub>**KJV:**</sub></small>
-And Jephthah said unto them, I and my people were at great strife with the children of Ammon; and when I called you, ye delivered me not out of their hands.
-<small><sub>**BSB:**</sub></small>
-But Jephthah replied, “My people and I had a serious conflict with the Ammonites, and when I called, you did not save me out of their hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.12.1|<< Judges 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.12.3|Judges 12:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Hebrews 4:7
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 4:7**<big><big>[[Heb.4.1 The Sabbath Rest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.
 <small><sub>**BSB:**</sub></small>
 God again designated a certain day as “Today,” when a long time later He spoke through David as was just stated: “Today, if you hear His voice, do not harden your hearts.”
@@ -10,7 +10,7 @@ again a certain He appoints day: Today, through David saying: after so long a ti
 > $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | again |**<big>[[G3825\|πάλιν]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a certain |**<big>[[G5100\|τινὰ]]</big>**  |tina <small><sup>[[X-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

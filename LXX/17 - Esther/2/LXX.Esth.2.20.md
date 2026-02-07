@@ -1,10 +1,7 @@
 **LXX Esther 2:20** 
 <small><sub>**LXX:**</sub></small>
  Now Esther did not plainly tell  of her fatherland, for thus Mordecai gave charge to her, to fear  God, and to observe  his orders, as she was with him. And Esther did not change  her conduct. 
-<small><sub>**KJV:**</sub></small>
-Esther had not [yet] shewed her kindred nor her people; as Mordecai had charged her: for Esther did the commandment of Mordecai, like as when she was brought up with him.
-<small><sub>**BSB:**</sub></small>
-Esther still had not revealed her lineage or her people, just as Mordecai had instructed. She obeyed Mordecai’s command, as she had done under his care.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.19|<< Esther 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.21|Esther 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

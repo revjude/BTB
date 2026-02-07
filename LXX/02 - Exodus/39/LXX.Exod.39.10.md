@@ -1,10 +1,7 @@
 **LXX Exodus 39:10** 
 <small><sub>**LXX:**</sub></small>
 And they wove together in it a woven work inlaid with precious stones, arranged in four rows. A row of stones -- sardius, and topaz, and emerald, \[was\] the one row. 
-<small><sub>**KJV:**</sub></small>
-And they set in it four rows of stones: [the first] row [was] a sardius, a topaz, and a carbuncle: this [was] the first row.
-<small><sub>**BSB:**</sub></small>
-And they mounted on it four rows of gemstones: The first row had a ruby, a topaz, and an emerald;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.9|<< Exodus 39:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.11|Exodus 39:11 >>]]</td></tr></table>
 
 | Translation | Greek |

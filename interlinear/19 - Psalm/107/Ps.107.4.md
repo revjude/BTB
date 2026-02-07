@@ -1,4 +1,4 @@
-**Psalms 107:4** 
+**Psalms 107:4**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They wandered in the wilderness in a solitary way; they found no city to dwell in.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Some wandered in desert wastelands, finding no path to a city in which to dwell.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.3|<< Psalms 107:3]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.5|Psalms 107:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they wandered about  |**<big>&#8207;[[H8582\|תָּע֣וּ]]&#8207; </big>**| ta.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the wilderness  |**<big>&#8207;[[H9003\|בַ֭]]&#8207;&#8207;[[H4057B\|מִּדְבָּר]]&#8207; </big>**| Va.<small><sup>[[HRd]]</sup></small> mid.bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

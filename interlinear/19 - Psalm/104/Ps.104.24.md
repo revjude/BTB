@@ -1,4 +1,4 @@
-**Psalms 104:24** 
+**Psalms 104:24**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How many are Your works, O LORD! In wisdom You have made them all; the earth is 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.23|<< Psalms 104:23]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.25|Psalms 104:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H4100\|מָֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are many  |**<big>&#8207;[[H7231\|רַבּ֬וּ]]&#8207; </big>**| ra.Bu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

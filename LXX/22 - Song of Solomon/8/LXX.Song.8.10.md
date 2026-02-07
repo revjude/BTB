@@ -1,10 +1,7 @@
 **LXX Song of Solomon 8:10** 
 <small><sub>**LXX:**</sub></small>
 I \[am\] a wall, and  my breasts \[are\] as towers. I was in their eyes as one finding peace. 
-<small><sub>**KJV:**</sub></small>
-I [am] a wall, and my breasts like towers: then was I in his eyes as one that found favour.
-<small><sub>**BSB:**</sub></small>
-I am a wall, and my breasts are like towers. So I have become in his eyes like one who brings peace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.9|<< Song of Solomon 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.11|Song of Solomon 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

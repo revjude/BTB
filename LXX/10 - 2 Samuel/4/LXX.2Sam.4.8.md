@@ -1,10 +1,7 @@
 **LXX 2 Samuel 4:8** 
 <small><sub>**LXX:**</sub></small>
 And they brought the head of Ishbosheth  to David in Hebron. And they said to the king, Behold, the head of Ishbosheth son of Saul  your enemy, who sought  your life; and \[the\] <span class="smallcaps">lord</span> gave \[to\] our master the king punishment  of his enemies, as  this day, of Saul  your enemy, and of  his seed. 
-<small><sub>**KJV:**</sub></small>
-And they brought the head of Ishbosheth unto David to Hebron, and said to the king, Behold the head of Ishbosheth the son of Saul thine enemy, which sought thy life; and the LORD hath avenged my lord the king this day of Saul, and of his seed.
-<small><sub>**BSB:**</sub></small>
-They brought the head of Ish-bosheth to David at Hebron and said to the king, “Here is the head of Ish-bosheth son of Saul, your enemy who sought your life. Today the LORD has granted vengeance to my lord the king against Saul and his offspring.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.4.7|<< 2 Samuel 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.4.9|2 Samuel 4:9 >>]]</td></tr></table>
 
 | Translation | Greek |

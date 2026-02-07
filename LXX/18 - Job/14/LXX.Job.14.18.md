@@ -1,10 +1,7 @@
 **LXX Job 14:18** 
 <small><sub>**LXX:**</sub></small>
 And moreover a mountain falling shall fall into ruin, and a rock shall be \[worn\] old from out of  its place. 
-<small><sub>**KJV:**</sub></small>
-And surely the mountain falling cometh to nought, and the rock is removed out of his place.
-<small><sub>**BSB:**</sub></small>
-But as a mountain erodes and crumbles and a rock is dislodged from its place,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.14.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.17|<< Job 14:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.19|Job 14:19 >>]]</td></tr></table>
 
 | Translation | Greek |

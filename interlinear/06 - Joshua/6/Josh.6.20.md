@@ -1,4 +1,4 @@
-**Joshua 6:20** 
+**Joshua 6:20**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the people shouted when [the priests] blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So when the rams’ horns sounded, the people shouted. When they heard the blast
 > $\quad$ referenced by: [[Heb.11.30|Heb 11:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it shouted  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7321\|יָּ֣רַע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.ra'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֔ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 10:7** 
+**Psalms 10:7**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His mouth is full of cursing and deceit and fraud: under his tongue [is] mischief and vanity.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ His mouth is full of cursing, deceit, and violence; trouble and malice are under
 > $\quad$ referenced by: [[Rom.3.14|Rom 3:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a curse  |**<big>&#8207;[[H0423\|אָלָ֤ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mouth his  |**<big>&#8207;[[H6310G\|פִּ֣י]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| Pi.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

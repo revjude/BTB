@@ -1,4 +1,4 @@
-**Psalms 35:15** 
+**Psalms 35:15**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But in mine adversity they rejoiced, and gathered themselves together: [yea], the abjects gathered themselves together against me, and I knew [it] not; they did tear [me], and ceased not:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when I stumbled, they assembled in glee; they gathered together against me. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.14|<< Psalms 35:14]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.16|Psalms 35:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and at stumbling my  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H6761\|צַלְעִ]]&#8207;&#8207;[[H9020\|י֮]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> tzal.'<small><sup>[[HNcmsc]]</sup></small> I<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they rejoiced  |**<big>&#8207;[[H8055\|שָׂמְח֪וּ]]&#8207; </big>**| sa.me.Chu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

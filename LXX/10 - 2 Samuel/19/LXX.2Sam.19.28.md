@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:28** 
 <small><sub>**LXX:**</sub></small>
 For there was not any to the house  of my father, but only men for death \[to\] my master the king. And you put  your servant   to eat at  your table. And what reason is there to me still, even  to cry out still to the king? 
-<small><sub>**KJV:**</sub></small>
-For all [of] my father’s house were but dead men before my lord the king: yet didst thou set thy servant among them that did eat at thine own table. What right therefore have I yet to cry any more unto the king?
-<small><sub>**BSB:**</sub></small>
-For all the house of my grandfather deserves death from my lord the king, yet you have set your servant among those who eat at your table. What further right, then, do I have to keep appealing to the king?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.27|<< 2 Samuel 19:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.29|2 Samuel 19:29 >>]]</td></tr></table>
 
 | Translation | Greek |

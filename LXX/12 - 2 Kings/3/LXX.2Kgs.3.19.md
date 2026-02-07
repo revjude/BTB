@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:19** 
 <small><sub>**LXX:**</sub></small>
 And you shall strike every fortified city, and every choice city; and every good tree you shall throw down, and all springs of water you shall obstruct, and every good portion \[of land\] you shall make useless with stones. 
-<small><sub>**KJV:**</sub></small>
-And ye shall smite every fenced city, and every choice city, and shall fell every good tree, and stop all wells of water, and mar every good piece of land with stones.
-<small><sub>**BSB:**</sub></small>
-And you shall attack every fortified city and every city of importance. You shall cut down every good tree, stop up every spring, and ruin every good field with stones.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.18|<< 2 Kings 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.20|2 Kings 3:20 >>]]</td></tr></table>
 
 | Translation | Greek |

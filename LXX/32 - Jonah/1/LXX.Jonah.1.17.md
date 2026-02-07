@@ -1,10 +1,7 @@
 **LXX Jonah 1:17** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> assigned a great whale to swallow  Jonah. And Jonah was in the belly of the whale three days and three nights. 
-<small><sub>**KJV:**</sub></small>
-Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.
-<small><sub>**BSB:**</sub></small>
-Now the LORD had appointed a great fish to swallow Jonah, and Jonah spent three days and three nights in the belly of the fish.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.16|<< Jonah 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.1|Jonah 2:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 1:17** is...

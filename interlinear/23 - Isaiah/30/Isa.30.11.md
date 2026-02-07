@@ -1,4 +1,4 @@
-**Isaiah 30:11** 
+**Isaiah 30:11**<big><big>[[Isa.30.1 The Worthless Treaty with Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Get you out of the way, turn aside out of the path, cause the Holy One of Israel to cease from before us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Get out of the way; turn off the road. Rid us of the Holy One of Israel!”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.10|<< Isaiah 30:10]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.12|Isaiah 30:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | turn away  |**<big>&#8207;[[H5493H\|ס֚וּרוּ]]&#8207; </big>**| Su.ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from  |**<big>&#8207;[[H4480A\|מִנֵּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.nei-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

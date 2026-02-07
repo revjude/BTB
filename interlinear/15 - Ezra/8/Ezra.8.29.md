@@ -1,4 +1,4 @@
-**Ezra 8:29** 
+**Ezra 8:29**<big><big>[[Ezra.8.24 Priests to Guard the Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Watch ye, and keep [them], until ye weigh [them] before the chief of the priests and the Levites, and chief of the fathers of Israel, at Jerusalem, in the chambers of the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Guard them carefully until you weigh them out in the chambers of the house of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.28|<< Ezra 8:28]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.30|Ezra 8:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | watch  |**<big>&#8207;[[H8245\|שִׁקְד֣וּ]]&#8207; </big>**| shik.Du<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and keep [them]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8104H\|שִׁמְר֗וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shim.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

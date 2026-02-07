@@ -1,4 +1,4 @@
-**Leviticus 22:31** 
+**Leviticus 22:31**<big><big>[[Lev.22.17 Worthy Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shall ye keep my commandments, and do them: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to keep My commandments and practice them. I am the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.30|<< Leviticus 22:30]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.32|Leviticus 22:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will keep  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H8104G\|שְׁמַרְתֶּם֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> she.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | commandments my  |**<big>&#8207;[[H4687\|מִצְוֹתַ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| mitz.vo.Ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

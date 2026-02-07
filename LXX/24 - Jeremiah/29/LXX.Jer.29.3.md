@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:3** 
 <small><sub>**LXX:**</sub></small>
 by \[the\] hand of Elasah son of Shaphan, and Gemariah son of Hilkiah, whom Zedekiah king of Judah sent to \[the\] king of Babylon into Babylon, saying, 
-<small><sub>**KJV:**</sub></small>
-By the hand of Elasah the son of Shaphan, and Gemariah the son of Hilkiah, (whom Zedekiah king of Judah sent unto Babylon to Nebuchadnezzar king of Babylon) saying,
-<small><sub>**BSB:**</sub></small>
-The letter was entrusted to Elasah son of Shaphan and Gemariah son of Hilkiah, whom Zedekiah king of Judah sent to King Nebuchadnezzar in Babylon. It stated:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.2|<< Jeremiah 29:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.4|Jeremiah 29:4 >>]]</td></tr></table>
 
 | Translation | Greek |

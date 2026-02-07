@@ -1,4 +1,4 @@
-**1 Chronicles 13:5** 
+**1 Chronicles 13:5**<big><big>[[1Chr.13.1 David Fetches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hemath, to bring the ark of God from Kirjathjearim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So David assembled all Israel, from the River Shihor in Egypt to Lebo-hamath, to
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.4|<< 1 Chronicles 13:4]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.13.6|1 Chronicles 13:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called together  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6950\|יַּקְהֵ֤ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yak.Hel<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִיד֙]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

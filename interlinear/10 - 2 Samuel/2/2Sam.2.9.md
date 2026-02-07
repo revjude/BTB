@@ -1,4 +1,4 @@
-**2 Samuel 2:9** 
+**2 Samuel 2:9**<big><big>[[2Sam.2.8 Ish-bosheth Made King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And made him king over Gilead, and over the Ashurites, and over Jezreel, and over Ephraim, and over Benjamin, and over all Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and made him king over Gilead, Asher, Jezreel, Ephraim, and Benjamin—over all 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.8|<< 2 Samuel 2:8]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.10|2 Samuel 2:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made king him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4427A\|יַּמְלִכֵ֙]]&#8207;&#8207;[[H9033\|הוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yam.li.Khe.<small><sup>[[HVhw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

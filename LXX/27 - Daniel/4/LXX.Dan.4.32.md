@@ -1,10 +1,7 @@
 **LXX Daniel 4:32** 
 <small><sub>**LXX:**</sub></small>
 And from  men they shall banish you, and with wild beasts  your dwelling \[shall be\], and grass as an ox they shall feed you, and seven seasons shall change over you, until of which \[time\] you shall know that the highest dominates the kingdom  of men, and to whom ever it seems good to give it. 
-<small><sub>**KJV:**</sub></small>
-And they shall drive thee from men, and thy dwelling [shall be] with the beasts of the field: they shall make thee to eat grass as oxen, and seven times shall pass over thee, until thou know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will.
-<small><sub>**BSB:**</sub></small>
-You will be driven away from mankind to live with the beasts of the field, and you will feed on grass like an ox. And seven times will pass you by, until you acknowledge that the Most High rules over the kingdom of mankind and gives it to whom He wishes.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.31|<< Daniel 4:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.33|Daniel 4:33 >>]]</td></tr></table>
 
 | Translation | Greek |

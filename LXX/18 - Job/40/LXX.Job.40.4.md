@@ -1,10 +1,7 @@
 **LXX Job 40:4** 
 <small><sub>**LXX:**</sub></small>
 Why still do I plead, being admonished and reproved by \[the\] <span class="smallcaps">lord</span>? Hearing such \[things\], \[and\] being nothing; and I, what answer shall I give to these \[things\]? I shall put a hand upon my mouth. 
-<small><sub>**KJV:**</sub></small>
-Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth.
-<small><sub>**BSB:**</sub></small>
-“Behold, I am insignificant. How can I reply to You? I place my hand over my mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.40.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.3|<< Job 40:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.5|Job 40:5 >>]]</td></tr></table>
 
 | Translation | Greek |

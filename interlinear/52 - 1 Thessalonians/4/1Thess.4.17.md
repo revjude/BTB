@@ -1,12 +1,12 @@
-**1 Thessalonians 4:17
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 4:17**<big><big>[[1Thess.4.13 The Return of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then we which are alive [and] remain shall be caught up together with them in the clouds, to meet the Lord in the air: and so shall we ever be with the Lord.
 <small><sub>**BSB:**</sub></small>
 After that, we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air. And so we will always be with the Lord.
 <small><sub>**Literal:**</sub></small>
 Then we ourselves the living those remaining together with them we will be caught away in [the] clouds for [the] meeting of the Lord in [the] air; and so always with [the] Lord we will be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.16|<< 1 Thessalonians 4:16]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.18|1 Thessalonians 4:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G1899\|ἔπειτα]]</big>**  |epeita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**2 Kings 14:17** 
+**2 Kings 14:17**<big><big>[[2Kgs.14.17 The Death of Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Amaziah the son of Joash king of Judah lived after the death of Jehoash son of Jehoahaz king of Israel fifteen years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Amaziah son of Joash king of Judah lived for fifteen years after the death of Je
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.16|<< 2 Kings 14:16]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.18|2 Kings 14:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lived  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2421\|יְחִ֨י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Chi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Amaziah  |**<big>&#8207;[[H0558G\|אֲמַצְיָ֤הוּ]]&#8207; </big>**| 'a.matz.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 29:12** 
+**Exodus 29:12**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt take of the blood of the bullock, and put [it] upon the horns of the altar with thy finger, and pour all the blood beside the bottom of the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take some of the blood of the bull and put it on the horns of the altar with you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.11|<< Exodus 29:11]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.13|Exodus 29:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָֽקַחְתָּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.kach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of [the] blood of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1818\|דַּ֣ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Dam<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

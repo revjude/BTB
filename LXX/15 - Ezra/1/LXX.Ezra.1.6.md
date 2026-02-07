@@ -1,10 +1,7 @@
 **LXX Ezra 1:6** 
 <small><sub>**LXX:**</sub></small>
 And all the ones round about them strengthened  their hands with items of silver, with gold, and with belongings, and with cattle, and with gifts, besides the ones with voluntary offerings. 
-<small><sub>**KJV:**</sub></small>
-And all they that [were] about them strengthened their hands with vessels of silver, with gold, with goods, and with beasts, and with precious things, beside all [that] was willingly offered.
-<small><sub>**BSB:**</sub></small>
-And all their neighbors supported them with articles of silver and gold, with goods and livestock, and with valuables, in addition to all their freewill offerings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.1.5|<< Ezra 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.1.7|Ezra 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

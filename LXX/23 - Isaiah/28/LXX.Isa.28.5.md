@@ -1,10 +1,7 @@
 **LXX Isaiah 28:5** 
 <small><sub>**LXX:**</sub></small>
  In that day \[the\] <span class="smallcaps">lord</span> of Hosts will be the crown  of hope, the plaited \[crown\]  of glory to the one being left behind of my people. 
-<small><sub>**KJV:**</sub></small>
-In that day shall the LORD of hosts be for a crown of glory, and for a diadem of beauty, unto the residue of his people,
-<small><sub>**BSB:**</sub></small>
-On that day the LORD of Hosts will be a crown of glory, a diadem of splendor to the remnant of His people,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.4|<< Isaiah 28:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.6|Isaiah 28:6 >>]]</td></tr></table>
 
 | Translation | Greek |

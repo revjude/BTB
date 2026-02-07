@@ -1,12 +1,12 @@
-**Philippians 1:25
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:25**<big><big>[[Phil.1.21 To Live Is Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;
 <small><sub>**BSB:**</sub></small>
 Convinced of this, I know that I will remain and will continue with all of you for your progress and joy in the faith,
 <small><sub>**Literal:**</sub></small>
 And this having been persuaded of I know that I will remain and will continue with all of you for <the> your progress and joy of the faith,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.24|<< Philippians 1:24]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.26|Philippians 1:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

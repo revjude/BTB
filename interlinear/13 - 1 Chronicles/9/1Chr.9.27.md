@@ -1,4 +1,4 @@
-**1 Chronicles 9:27** 
+**1 Chronicles 9:27**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they lodged round about the house of God, because the charge [was] upon them, and the opening thereof every morning [pertained] to them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They would spend the night stationed around the house of God, because they were 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.26|<< 1 Chronicles 9:26]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.28|1 Chronicles 9:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and around  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5439G\|סְבִיב֥וֹת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> se.vi.Vot<small><sup>[[HNcbpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004Q\|בֵּית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

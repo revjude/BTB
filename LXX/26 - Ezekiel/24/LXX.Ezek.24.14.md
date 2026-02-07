@@ -1,10 +1,7 @@
 **LXX Ezekiel 24:14** 
 <small><sub>**LXX:**</sub></small>
 I \[the\] <span class="smallcaps">lord</span> have spoken, and it shall come, and I will do; I will not warn nor show mercy, and in no way will I comfort; according to  your ways, and according to  your thoughts I will judge you, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-I the LORD have spoken [it]: it shall come to pass, and I will do [it]; I will not go back, neither will I spare, neither will I repent; according to thy ways, and according to thy doings, shall they judge thee, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-I, the LORD, have spoken; the time is coming, and I will act. I will not refrain or show pity, nor will I relent. I will judge you according to your ways and deeds,’ declares the Lord GOD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.13|<< Ezekiel 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.15|Ezekiel 24:15 >>]]</td></tr></table>
 
 | Translation | Greek |

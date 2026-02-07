@@ -1,4 +1,4 @@
-**Ezra 4:6** 
+**Ezra 4:6**<big><big>[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the reign of Ahasuerus, in the beginning of his reign, wrote they [unto him] an accusation against the inhabitants of Judah and Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the beginning of the reign of Xerxes, an accusation was lodged against the pe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.5|<< Ezra 4:5]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.7|Ezra 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in [the] reign of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H4438\|מַלְכוּת֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> mal.Khut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ahasuerus  |**<big>&#8207;[[H0325\|אֲחַשְׁוֵר֔וֹשׁ]]&#8207; </big>**| 'a.chash.ve.Ro.osh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

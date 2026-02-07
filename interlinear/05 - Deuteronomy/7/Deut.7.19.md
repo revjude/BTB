@@ -1,4 +1,4 @@
-**Deuteronomy 7:19** 
+**Deuteronomy 7:19**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The great temptations which thine eyes saw, and the signs, and the wonders, and the mighty hand, and the stretched out arm, whereby the LORD thy God brought thee out: so shall the LORD thy God do unto all the people of whom thou art afraid.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the great trials that you saw, the signs and wonders, and the mighty hand and ou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.18|<< Deuteronomy 7:18]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.20|Deuteronomy 7:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the trials  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4531B\|מַּסֹּ֨ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Sot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> great  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1419A\|גְּדֹלֹ֜ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.do.Lot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

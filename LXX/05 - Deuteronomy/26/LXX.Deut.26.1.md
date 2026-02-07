@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it will be whenever you should enter into the land which \[the\] <span class="smallcaps">lord</span>  your God gives to you by lot to inherit it, and should dwell upon it; 
-<small><sub>**KJV:**</sub></small>
-And it shall be, when thou [art] come in unto the land which the LORD thy God giveth thee [for] an inheritance, and possessest it, and dwellest therein;
-<small><sub>**BSB:**</sub></small>
-When you enter the land that the LORD your God is giving you as an inheritance, and you take possession of it and settle in it,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.26.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.19|<< Deuteronomy 25:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.2|Deuteronomy 26:2 >>]]</td></tr></table>
 
 | Translation | Greek |

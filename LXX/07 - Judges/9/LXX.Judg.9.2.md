@@ -1,10 +1,7 @@
 **LXX Judges 9:2** 
 <small><sub>**LXX:**</sub></small>
 Speak indeed into the ears of all the men of Shechem, \[saying\], Which \[is\] best to you,  \[for\] seventy men to rule you, all \[the\] sons of Jerubbaal, or \[for\] one man to dominate you? And you should remember that I am of your bone and of your flesh. 
-<small><sub>**KJV:**</sub></small>
-Speak, I pray you, in the ears of all the men of Shechem, Whether [is] better for you, either that all the sons of Jerubbaal, [which are] threescore and ten persons, reign over you, or that one reign over you? remember also that I [am] your bone and your flesh.
-<small><sub>**BSB:**</sub></small>
-“Please ask all the leaders of Shechem, ‘Is it better for you that seventy men, all the sons of Jerubbaal, rule over you, or just one man?’ Remember that I am your own flesh and blood.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.1|<< Judges 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.3|Judges 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

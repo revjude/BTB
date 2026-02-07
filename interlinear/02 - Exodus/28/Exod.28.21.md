@@ -1,4 +1,4 @@
-**Exodus 28:21** 
+**Exodus 28:21**<big><big>[[Exod.28.15 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the stones shall be with the names of the children of Israel, twelve, according to their names, [like] the engravings of a signet; every one with his name shall they be according to the twelve tribes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The twelve stones are to correspond to the names of the sons of Israel, each eng
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.20|<< Exodus 28:20]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.22|Exodus 28:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the stones  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0068G\|אֲבָנִים]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.va.nim<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be  |**<big>&#8207;[[H1961\|תִּֽהְיֶ֜יןָ]]&#8207; </big>**| tih.Yei.na<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

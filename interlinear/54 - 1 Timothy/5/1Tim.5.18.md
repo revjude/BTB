@@ -1,5 +1,5 @@
-**1 Timothy 5:18
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 5:18**<big><big>[[1Tim.5.17 Honoring Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The labourer [is] worthy of his reward.
 <small><sub>**BSB:**</sub></small>
 For the Scripture says, “Do not muzzle an ox while it is treading out the grain,” and, “The worker is worthy of his wages.”
@@ -10,7 +10,7 @@ Says for the Scripture; An ox treading out grain not you will muzzle; and Worthy
 > $\quad$ referencing: [[LXX.Deut.25.4|Deut 25:4]] ☩ [[Luke.10.7|Luke 10:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

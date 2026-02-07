@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Abner sent messengers to David in Hebron, saying, You ordain a covenant with me! And behold,  My hand \[is\] with you to return to you all Israel. 
-<small><sub>**KJV:**</sub></small>
-And Abner sent messengers to David on his behalf, saying, Whose [is] the land? saying [also], Make thy league with me, and, behold, my hand [shall be] with thee, to bring about all Israel unto thee.
-<small><sub>**BSB:**</sub></small>
-Then Abner sent messengers on his behalf to say to David, “To whom does the land belong? Make your covenant with me, and surely my hand will be with you to bring all Israel over to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.11|<< 2 Samuel 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.13|2 Samuel 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

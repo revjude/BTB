@@ -1,12 +1,12 @@
-**Luke 2:48
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:48**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing.
 <small><sub>**BSB:**</sub></small>
 When His parents saw Him, they were astonished. “Child, why have You done this to us?” His mother asked. “Your father and I have been anxiously searching for You.”
 <small><sub>**Literal:**</sub></small>
 And having seen Him they were astonished, and said to Him the mother of Him: Child why You did to us thus? Behold the father of You and I myself distressing were seeking You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.47|<< Luke 2:47]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.49|Luke 2:49 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having seen |**<big>[[G1492H\|ἰδόντες]]</big>**  |idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 7:2** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass from which day the ark was in Kirjath-jearim, the days were multiplied. And they became twenty years; and all \[the\] house of Israel looked after \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, while the ark abode in Kirjathjearim, that the time was long; for it was twenty years: and all the house of Israel lamented after the LORD.
-<small><sub>**BSB:**</sub></small>
-And from that day a long time passed, twenty years in all, as the ark remained at Kiriath-jearim. And all the house of Israel mournfully sought the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.1|<< 1 Samuel 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.3|1 Samuel 7:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 7:2** is...

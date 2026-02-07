@@ -1,4 +1,4 @@
-**Isaiah 52:8** 
+**Isaiah 52:8**<big><big>[[Isa.52.1 Deliverance for Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen! Your watchmen lift up their voices, together they shout for joy. For eve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.7|<< Isaiah 52:7]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.9|Isaiah 52:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] voice of  |**<big>&#8207;[[H6963A\|ק֥וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | watchmen your  |**<big>&#8207;[[H6822\|צֹפַ֛יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| tzo.Fa.yi<small><sup>[[HVqrmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

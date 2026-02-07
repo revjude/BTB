@@ -1,10 +1,7 @@
 **LXX Song of Solomon 2:9** 
 <small><sub>**LXX:**</sub></small>
 My beloved \[man\] is likened to the doe or a fawn of the hinds. Behold, he stands behind  our wall, leaning over through the windows, looking out through the lattice. 
-<small><sub>**KJV:**</sub></small>
-My beloved is like a roe or a young hart: behold, he standeth behind our wall, he looketh forth at the windows, shewing himself through the lattice.
-<small><sub>**BSB:**</sub></small>
-My beloved is like a gazelle or a young stag. Look, he stands behind our wall, gazing through the windows, peering through the lattice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.2.8|<< Song of Solomon 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.2.10|Song of Solomon 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

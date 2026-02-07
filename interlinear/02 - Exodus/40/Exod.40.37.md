@@ -1,4 +1,4 @@
-**Exodus 40:37** 
+**Exodus 40:37**<big><big>[[Exod.40.34 The Cloud and the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if the cloud were not taken up, then they journeyed not till the day that it was taken up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If the cloud was not lifted, they would not set out until the day it was taken u
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.36|<< Exodus 40:36]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.38|Exodus 40:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

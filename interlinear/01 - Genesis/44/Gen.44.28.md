@@ -1,4 +1,4 @@
-**Genesis 44:28** 
+**Genesis 44:28**<big><big>[[Gen.44.18 Judah Pleads for Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the one went out from me, and I said, Surely he is torn in pieces; and I saw him not since:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When one of them was gone, I said: “Surely he has been torn to pieces.” And 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.27|<< Genesis 44:27]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.29|Genesis 44:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the one  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0259\|אֶחָד֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

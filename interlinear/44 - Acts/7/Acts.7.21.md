@@ -1,5 +1,5 @@
-**Acts 7:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:21**<big><big>[[Acts.7.20 The Birth and Adoption of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was cast out, Pharaoh’s daughter took him up, and nourished him for her own son.
 <small><sub>**BSB:**</sub></small>
 When he was set outside, Pharaoh’s daughter took him and brought him up as her own son.
@@ -10,7 +10,7 @@ When was being exposed then he took up him the daughter of Pharaoh and brought u
 > $\quad$ alluding to: [[LXX.Exod.2.3|Exod 2:3-10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was being exposed [^1] |**<big>[[G1620\|ἐκτεθέντος]]</big>**  |ektethentos <small><sup>[[V-APP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

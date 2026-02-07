@@ -1,4 +1,4 @@
-**Psalms 86:3** 
+**Psalms 86:3**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be merciful unto me, O Lord: for I cry unto thee daily.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be merciful to me, O Lord, for I call to You all day long.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.2|<< Psalms 86:2]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.4|Psalms 86:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | show favor to me  |**<big>&#8207;[[H2603A\|חָנֵּ֥]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| cho.ne.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֑י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

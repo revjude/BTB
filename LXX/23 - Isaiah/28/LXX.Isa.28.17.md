@@ -1,10 +1,7 @@
 **LXX Isaiah 28:17** 
 <small><sub>**LXX:**</sub></small>
 And I shall place judgment for hope,  and my charity by weights. And the ones relying vainly in a lie that in no way \[the\] gale go by you; 
-<small><sub>**KJV:**</sub></small>
-Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place.
-<small><sub>**BSB:**</sub></small>
-I will make justice the measuring line and righteousness the level. Hail will sweep away your refuge of lies, and water will flood your hiding place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.16|<< Isaiah 28:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.18|Isaiah 28:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 28:17** is...

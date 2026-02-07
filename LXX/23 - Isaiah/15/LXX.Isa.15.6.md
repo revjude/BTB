@@ -1,10 +1,7 @@
 **LXX Isaiah 15:6** 
 <small><sub>**LXX:**</sub></small>
 The water  of Nimrim shall be desolate, and  her grass shall fail; for there will not be green grass. 
-<small><sub>**KJV:**</sub></small>
-For the waters of Nimrim shall be desolate: for the hay is withered away, the grass faileth, there is no green thing.
-<small><sub>**BSB:**</sub></small>
-The waters of Nimrim are dried up, and the grass is withered; the vegetation is gone, and the greenery is no more.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.15.5|<< Isaiah 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.15.7|Isaiah 15:7 >>]]</td></tr></table>
 
 | Translation | Greek |

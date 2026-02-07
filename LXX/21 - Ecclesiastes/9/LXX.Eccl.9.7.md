@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 9:7** 
 <small><sub>**LXX:**</sub></small>
 Come, eat with gladness  of your bread, and drink your wine with a good heart! for already God thought well  of your actions 
-<small><sub>**KJV:**</sub></small>
-Go thy way, eat thy bread with joy, and drink thy wine with a merry heart; for God now accepteth thy works.
-<small><sub>**BSB:**</sub></small>
-Go, eat your bread with joy, and drink your wine with a cheerful heart, for God has already approved your works:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.6|<< Ecclesiastes 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.8|Ecclesiastes 9:8 >>]]</td></tr></table>
 
 | Translation | Greek |

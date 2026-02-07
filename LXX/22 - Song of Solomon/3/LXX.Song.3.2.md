@@ -1,10 +1,7 @@
 **LXX Song of Solomon 3:2** 
 <small><sub>**LXX:**</sub></small>
 I shall rise up indeed, and I shall encircle in the city, in the markets, and in the squares, and I will seek whom my soul loved. I sought him, and I did not find him. 
-<small><sub>**KJV:**</sub></small>
-I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not.
-<small><sub>**BSB:**</sub></small>
-I will arise now and go about the city, through the streets and squares. I will seek the one I love. So I sought him but did not find him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.3.1|<< Song of Solomon 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.3.3|Song of Solomon 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

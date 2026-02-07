@@ -1,12 +1,12 @@
-**Luke 22:14
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:14**<big><big>[[Luke.22.14 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the hour was come, he sat down, and the twelve apostles with him.
 <small><sub>**BSB:**</sub></small>
 When the hour had come, Jesus reclined at the table with His apostles.
 <small><sub>**Literal:**</sub></small>
 And when was come the hour, He reclined and the twelve apostles with Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.13|<< Luke 22:13]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.15|Luke 22:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

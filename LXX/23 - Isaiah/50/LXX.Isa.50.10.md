@@ -1,10 +1,7 @@
 **LXX Isaiah 50:10** 
 <small><sub>**LXX:**</sub></small>
 Who among you \[is\] the one fearing the <span class="smallcaps">lord</span>? let him obey the voice  of his servant! \[Let\] the ones going in darkness, and there is no light for them, yield upon the name of \[the\] <span class="smallcaps">lord</span>, and support yourselves upon  God! 
-<small><sub>**KJV:**</sub></small>
-Who [is] among you that feareth the LORD, that obeyeth the voice of his servant, that walketh [in] darkness, and hath no light? let him trust in the name of the LORD, and stay upon his God.
-<small><sub>**BSB:**</sub></small>
-Who among you fears the LORD and obeys the voice of His Servant? Who among you walks in darkness and has no light? Let him trust in the name of the LORD; let him lean on his God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.50.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.9|<< Isaiah 50:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.50.11|Isaiah 50:11 >>]]</td></tr></table>
 
 | Translation | Greek |

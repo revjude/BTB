@@ -1,10 +1,7 @@
 **LXX Genesis 45:6** 
 <small><sub>**LXX:**</sub></small>
 For this second year a famine \[is\] upon the earth, and still remaining \[are\] five years in which there is no plowing nor harvest. 
-<small><sub>**KJV:**</sub></small>
-For these two years [hath] the famine [been] in the land: and yet [there are] five years, in the which [there shall] neither [be] earing nor harvest.
-<small><sub>**BSB:**</sub></small>
-For the famine has covered the land these two years, and there will be five more years without plowing or harvesting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.5|<< Genesis 45:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.7|Genesis 45:7 >>]]</td></tr></table>
 
 | Translation | Greek |

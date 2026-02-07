@@ -1,4 +1,4 @@
-**Judges 9:19** 
+**Judges 9:19**<big><big>[[Judg.9.7 Jotham’s Parable|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If ye then have dealt truly and sincerely with Jerubbaal and with his house this day, [then] rejoice ye in Abimelech, and let him also rejoice in you:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ if you have acted faithfully and honestly toward Jerubbaal and his house this da
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.18|<< Judges 9:18]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.20|Judges 9:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in faithfulness  |**<big>&#8207;[[H9003\|בֶּ]]&#8207;&#8207;[[H0571G\|אֱמֶ֨ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 28:15** 
 <small><sub>**LXX:**</sub></small>
 You were unblemished in  your days of which day you were created, until of which \[time\] the offences were found in you. 
-<small><sub>**KJV:**</sub></small>
-Thou [wast] perfect in thy ways from the day that thou wast created, till iniquity was found in thee.
-<small><sub>**BSB:**</sub></small>
-From the day you were created you were blameless in your ways—until wickedness was found in you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.14|<< Ezekiel 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.16|Ezekiel 28:16 >>]]</td></tr></table>
 
 | Translation | Greek |

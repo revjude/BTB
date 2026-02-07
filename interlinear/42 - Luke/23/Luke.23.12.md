@@ -1,12 +1,12 @@
-**Luke 23:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:12**<big><big>[[Luke.23.6 Jesus before Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the same day Pilate and Herod were made friends together: for before they were at enmity between themselves.
 <small><sub>**BSB:**</sub></small>
 That day Herod and Pilate became friends; before this time they had been enemies.
 <small><sub>**Literal:**</sub></small>
 Became then friends <the> both Herod and <the> Pilate on that <the> day with one another; they were formerly for at enmity they were between them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.11|<< Luke 23:11]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.13|Luke 23:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Became |**<big>[[G1096\|ἐγένοντο]]</big>**  |egenonto <small><sup>[[V-2ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

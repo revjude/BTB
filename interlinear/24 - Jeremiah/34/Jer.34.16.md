@@ -1,4 +1,4 @@
-**Jeremiah 34:16** 
+**Jeremiah 34:16**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye turned and polluted my name, and caused every man his servant, and every man his handmaid, whom ye had set at liberty at their pleasure, to return, and brought them into subjection, to be unto you for servants and for handmaids.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But now you have changed your minds and profaned My name. Each of you has taken 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.15|<< Jeremiah 34:15]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.17|Jeremiah 34:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you turned back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725I\|תָּשֻׁ֙בוּ֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Shu.vu<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you profaned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2490H\|תְּחַלְּל֣וּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.cha.le.Lu<small><sup>[[HVpw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

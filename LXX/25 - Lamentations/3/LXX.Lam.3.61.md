@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΣΙΝ</p>
 
 You heard  their scorning, all  their devices against me; 
-<small><sub>**KJV:**</sub></small>
-Thou hast heard their reproach, O LORD, [and] all their imaginations against me;
-<small><sub>**BSB:**</sub></small>
-O LORD, You have heard their insults, all their plots against me—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.61|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.60|<< Lamentations 3:60]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.62|Lamentations 3:62 >>]]</td></tr></table>
 
 | Translation | Greek |

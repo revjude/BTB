@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:11** 
 <small><sub>**LXX:**</sub></small>
 But the land into which you enter there to inherit it, \[is\] a mountainous land and plain; from out of the rain of the heaven it shall drink water; 
-<small><sub>**KJV:**</sub></small>
-But the land, whither ye go to possess it, [is] a land of hills and valleys, [and] drinketh water of the rain of heaven:
-<small><sub>**BSB:**</sub></small>
-But the land that you are crossing the Jordan to possess is a land of mountains and valleys that drinks in the rain from heaven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.10|<< Deuteronomy 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.12|Deuteronomy 11:12 >>]]</td></tr></table>
 
 | Translation | Greek |

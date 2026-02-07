@@ -1,4 +1,4 @@
-**Genesis 3:20** 
+**Genesis 3:20**<big><big>[[Gen.3.16 The Punishment of Mankind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adam called his wife’s name Eve; because she was the mother of all living.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Adam named his wife Eve, because she would be the mother of all the living.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.19|<< Genesis 3:19]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.21|Genesis 3:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121H\|יִּקְרָ֧א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the man  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0120H\|אָדָ֛ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

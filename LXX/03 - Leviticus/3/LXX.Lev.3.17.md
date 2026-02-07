@@ -1,10 +1,7 @@
 **LXX Leviticus 3:17** 
 <small><sub>**LXX:**</sub></small>
 everlasting law unto  your generations, in every dwelling of yours -- all fat and all blood you shall not eat. 
-<small><sub>**KJV:**</sub></small>
-[It shall be] a perpetual statute for your generations throughout all your dwellings, that ye eat neither fat nor blood.
-<small><sub>**BSB:**</sub></small>
-This is a permanent statute for the generations to come, wherever you live: You must not eat any fat or any blood.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.3.16|<< Leviticus 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.1|Leviticus 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

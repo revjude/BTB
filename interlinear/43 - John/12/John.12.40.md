@@ -1,5 +1,5 @@
-**John 12:40
-**<small><sub>**KJV:**</sub></small>
+**John 12:40**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He hath blinded their eyes, and hardened their heart; that they should not see with [their] eyes, nor understand with [their] heart, and be converted, and I should heal them.
 <small><sub>**BSB:**</sub></small>
 “He has blinded their eyes and hardened their hearts, so that they cannot see with their eyes, and understand with their hearts, and turn, and I would heal them.”
@@ -10,7 +10,7 @@ He has blinded of them the eyes and has hardened of them the heart, that not the
 > $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9-10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He has blinded |**<big>[[G5186\|τετύφλωκεν]]</big>**  |tetuphlōken <small><sup>[[V-RAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of them |**<big>[[G0846\|αὐτῶν]]</big>**  |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

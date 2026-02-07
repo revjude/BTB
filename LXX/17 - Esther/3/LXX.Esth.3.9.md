@@ -1,10 +1,7 @@
 **LXX Esther 3:9** 
 <small><sub>**LXX:**</sub></small>
 If it seems \[good\] to the king, let him decree to destroy them, and I will circumscribe for the treasury of the king ten thousand talents of silver. 
-<small><sub>**KJV:**</sub></small>
-If it please the king, let it be written that they may be destroyed: and I will pay ten thousand talents of silver to the hands of those that have the charge of the business, to bring [it] into the king’s treasuries.
-<small><sub>**BSB:**</sub></small>
-If it pleases the king, let a decree be issued to destroy them, and I will deposit ten thousand talents of silver into the royal treasury to pay those who carry it out.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.8|<< Esther 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.10|Esther 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

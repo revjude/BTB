@@ -1,12 +1,12 @@
-**Luke 5:36
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:36**<big><big>[[Luke.5.36 The Patches and the Wineskins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was [taken] out of the new agreeth not with the old.
 <small><sub>**BSB:**</sub></small>
 He also told them a parable: “No one tears a piece of cloth from a new garment and sews it on an old one. If he does, he will tear the new garment as well, and the patch from the new will not match the old.
 <small><sub>**Literal:**</sub></small>
 He was speaking now also a parable to them that No [one] a piece of a garment new having torn puts [it] on a garment old; lest then except indeed also the new will tear, and to the old not it will match the piece <the> of the new.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.35|<< Luke 5:35]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.37|Luke 5:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was speaking |**<big>[[G3004G\|ἔλεγεν]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

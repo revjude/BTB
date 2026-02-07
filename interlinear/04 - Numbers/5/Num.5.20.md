@@ -1,4 +1,4 @@
-**Numbers 5:20** 
+**Numbers 5:20**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if thou hast gone aside [to another] instead of thy husband, and if thou be defiled, and some man have lain with thee beside thine husband:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if you have gone astray while under your husband’s authority and have defi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.19|<< Numbers 5:19]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.21|Numbers 5:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859C\|אַ֗תְּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'At<small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

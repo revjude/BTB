@@ -1,4 +1,4 @@
-**Ezekiel 27:36** 
+**Ezekiel 27:36**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The merchants among the people shall hiss at thee; thou shalt be a terror, and never [shalt be] any more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those who trade among the nations hiss at you; you have come to a horrible end a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.35|<< Ezekiel 27:35]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.1|Ezekiel 28:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | traders  |**<big>&#8207;[[H5503\|סֹֽחֲרִים֙]]&#8207; </big>**| so.cha.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among the peoples  |**<big>&#8207;[[H9003\|בָּ֣]]&#8207;&#8207;[[H5971A\|עַמִּ֔ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

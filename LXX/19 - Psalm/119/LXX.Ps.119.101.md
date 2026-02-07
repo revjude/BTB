@@ -1,10 +1,7 @@
 **LXX Psalm 119:101** 
 <small><sub>**LXX:**</sub></small>
 From out of every evil way I restrained  my feet, so that I shall guard  your words. 
-<small><sub>**KJV:**</sub></small>
-I have refrained my feet from every evil way, that I might keep thy word.
-<small><sub>**BSB:**</sub></small>
-I have kept my feet from every evil path, that I may keep Your word.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.101|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.100|<< Psalm 119:100]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.102|Psalm 119:102 >>]]</td></tr></table>
 
 | Translation | Greek |

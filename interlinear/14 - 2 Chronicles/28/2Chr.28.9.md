@@ -1,4 +1,4 @@
-**2 Chronicles 28:9** 
+**2 Chronicles 28:9**<big><big>[[2Chr.28.5 Aram Defeats Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But a prophet of the LORD was there, whose name [was] Oded: and he went out before the host that came to Samaria, and said unto them, Behold, because the LORD God of your fathers was wroth with Judah, he hath delivered them into your hand, and ye have slain them in a rage [that] reacheth up unto heaven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But a prophet of the LORD named Oded was there, and he went out to meet the army
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.8|<< 2 Chronicles 28:8]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.10|2 Chronicles 28:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H8033G\|שָׁם]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> shom<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was  |**<big>&#8207;[[H1961\|הָיָ֨ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 6:4** 
 <small><sub>**LXX:**</sub></small>
 And the giants were upon the earth in  those days. And after that, the sons of God continually entered to the daughters  of men, and procreated for themselves. Those were the giants, the \[ones\] from \[the\] eon, the renowned men. 
-<small><sub>**KJV:**</sub></small>
-There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare [children] to them, the same [became] mighty men which [were] of old, men of renown.
-<small><sub>**BSB:**</sub></small>
-The Nephilim were on the earth in those days—and afterward as well—when the sons of God had relations with the daughters of men. And they bore them children who became the mighty men of old, men of renown.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.6.3|<< Genesis 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.6.5|Genesis 6:5 >>]]</td></tr></table>
 
 | Translation | Greek |

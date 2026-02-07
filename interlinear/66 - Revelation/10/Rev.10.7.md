@@ -1,12 +1,12 @@
-**Revelation 10:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 10:7**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But in the days of the voice of the seventh angel, when he shall begin to sound, the mystery of God should be finished, as he hath declared to his servants the prophets.
 <small><sub>**BSB:**</sub></small>
 But in the days of the voice of the seventh angel, when he begins to sound his trumpet, the mystery of God will be fulfilled, just as He proclaimed to His servants the prophets.”
 <small><sub>**Literal:**</sub></small>
 But in the days of the voice of the seventh angel, when he may soon to sound [the] trumpet, then would be completed the mystery <the> of God, as evangelised [to] those His own servants [to] the prophets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.6|<< Revelation 10:6]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.8|Revelation 10:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

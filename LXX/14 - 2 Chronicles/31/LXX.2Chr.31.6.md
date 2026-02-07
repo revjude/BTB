@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 31:6** 
 <small><sub>**LXX:**</sub></small>
 And the ones dwelling in the cities of Judah also themselves brought a tenth of \[the\] calves, and sheep, and a tenth of \[the\] goats. And they sanctified to the <span class="smallcaps">lord</span> their God. And they carried in and put heaps \[upon\] heaps. 
-<small><sub>**KJV:**</sub></small>
-And [concerning] the children of Israel and Judah, that dwelt in the cities of Judah, they also brought in the tithe of oxen and sheep, and the tithe of holy things which were consecrated unto the LORD their God, and laid [them] by heaps.
-<small><sub>**BSB:**</sub></small>
-And the Israelites and Judahites who lived in the cities of Judah also brought a tithe of their herds and flocks and a tithe of the holy things consecrated to the LORD their God, and they laid them in large heaps.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.31.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.5|<< 2 Chronicles 31:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.7|2 Chronicles 31:7 >>]]</td></tr></table>
 
 | Translation | Greek |

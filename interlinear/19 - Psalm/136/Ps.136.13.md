@@ -1,4 +1,4 @@
-**Psalms 136:13** 
+**Psalms 136:13**<big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To him which divided the Red sea into parts: for his mercy [endureth] for ever:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He divided the Red Sea in two His loving devotion endures forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.136.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.12|<< Psalms 136:12]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.14|Psalms 136:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to [one who] cut  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1504\|גֹזֵ֣ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> go.Zer<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> [the] sea of  |**<big>&#8207;[[H3220G\|יַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yam-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

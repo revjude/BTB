@@ -1,10 +1,7 @@
 **LXX Joshua 17:18** 
 <small><sub>**LXX:**</sub></small>
 For the forest shall be to you, for it is a forest, and you shall clear it out. And his departure will be to you whenever you should utterly destroy the Canaanite, for there is a choice cavalry to him, for he is strong; for you excel in strength over him. 
-<small><sub>**KJV:**</sub></small>
-But the mountain shall be thine; for it [is] a wood, and thou shalt cut it down: and the outgoings of it shall be thine: for thou shalt drive out the Canaanites, though they have iron chariots, [and] though they [be] strong.
-<small><sub>**BSB:**</sub></small>
-because the hill country will be yours as well. It is a forest; clear it, and its farthest limits will be yours. Although the Canaanites have iron chariots and although they are strong, you can drive them out.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.17|<< Joshua 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.1|Joshua 18:1 >>]]</td></tr></table>
 
 | Translation | Greek |

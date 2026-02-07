@@ -1,4 +1,4 @@
-**Micah 1:10** 
+**Micah 1:10**<big><big>[[Mic.1.8 Weeping and Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Declare ye [it] not at Gath, weep ye not at all: in the house of Aphrah roll thyself in the dust.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not tell it in Gath; do not weep at all. Roll in the dust in Beth-leaphrah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.9|<< Micah 1:9]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.11|Micah 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in Gath  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1661\|גַת֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Gat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

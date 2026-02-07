@@ -1,10 +1,7 @@
 **LXX Numbers 14:10** 
 <small><sub>**LXX:**</sub></small>
 And all the congregation said to stone them with stones. And the glory of \[the\] <span class="smallcaps">lord</span> appeared in the cloud upon the tent of the testimony among all the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-But all the congregation bade stone them with stones. And the glory of the LORD appeared in the tabernacle of the congregation before all the children of Israel.
-<small><sub>**BSB:**</sub></small>
-But the whole congregation threatened to stone Joshua and Caleb. Then the glory of the LORD appeared to all the Israelites at the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.9|<< Numbers 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.11|Numbers 14:11 >>]]</td></tr></table>
 
 | Translation | Greek |

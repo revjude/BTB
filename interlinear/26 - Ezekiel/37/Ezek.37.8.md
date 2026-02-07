@@ -1,4 +1,4 @@
-**Ezekiel 37:8** 
+**Ezekiel 37:8**<big><big>[[Ezek.37.1 The Valley of Dry Bones|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but [there was] no breath in them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As I looked on, tendons appeared on them, flesh grew, and skin covered them; but
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.7|<< Ezekiel 37:7]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.9|Ezekiel 37:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|רָאִ֜יתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'I.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

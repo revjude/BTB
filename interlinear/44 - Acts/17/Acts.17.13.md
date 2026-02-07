@@ -1,12 +1,12 @@
-**Acts 17:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:13**<big><big>[[Acts.17.10 The Character of the Bereans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when the Jews of Thessalonica had knowledge that the word of God was preached of Paul at Berea, they came thither also, and stirred up the people.
 <small><sub>**BSB:**</sub></small>
 But when the Jews from Thessalonica learned that Paul was also proclaiming the word of God in Berea, they went there themselves to incite and agitate the crowds.
 <small><sub>**Literal:**</sub></small>
 When however knew those from <the> Thessalonica Jews that also in <the> Berea was proclaimed by <the> Paul the word <the> of God, they came there also stirring up and agitating the crowds.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.12|<< Acts 17:12]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.14|Acts 17:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|Ὡς]]</big>**  |Hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

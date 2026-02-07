@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:15** 
 <small><sub>**LXX:**</sub></small>
 And the woman went and did according to the word of Elijah; and she gave to him, and he ate, and she, and  her children. 
-<small><sub>**KJV:**</sub></small>
-And she went and did according to the saying of Elijah: and she, and he, and her house, did eat [many] days.
-<small><sub>**BSB:**</sub></small>
-So she went and did according to the word of Elijah, and there was food every day for Elijah and the woman and her household.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.14|<< 1 Kings 17:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.16|1 Kings 17:16 >>]]</td></tr></table>
 
 | Translation | Greek |

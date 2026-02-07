@@ -1,10 +1,7 @@
 **LXX Proverbs 4:27** 
 <small><sub>**LXX:**</sub></small>
 You should not turn aside unto the right nor unto the left; but turn your foot from an evil way! For \[the\] ways, the ones of \[the\] right, God knows; but the ones perverting are  of \[the\] left; but he makes your tracks straight,  and he shall lead before your goings in peace. 
-<small><sub>**KJV:**</sub></small>
-Turn not to the right hand nor to the left: remove thy foot from evil.
-<small><sub>**BSB:**</sub></small>
-Do not swerve to the right or to the left; turn your feet away from evil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.4.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.26|<< Proverbs 4:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.1|Proverbs 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

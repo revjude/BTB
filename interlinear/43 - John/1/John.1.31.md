@@ -1,12 +1,12 @@
-**John 1:31
-**<small><sub>**KJV:**</sub></small>
+**John 1:31**<big><big>[[John.1.29 Jesus the Lamb of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.
 <small><sub>**BSB:**</sub></small>
 I myself did not know Him, but the reason I came baptizing with water was that He might be revealed to Israel.”
 <small><sub>**Literal:**</sub></small>
 And I myself not knew Him, but that He may be revealed <the> to Israel, because of this came I myself with <the> water baptizing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.30|<< John 1:30]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.32|John 1:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And I myself |**<big>[[G1473\|κἀγὼ]]</big>**  |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

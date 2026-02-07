@@ -1,4 +1,4 @@
-**Numbers 15:16** 
+**Numbers 15:16**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One law and one manner shall be for you, and for the stranger that sojourneth with you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The same law and the same ordinance will apply both to you and to the foreigner 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.15|<< Numbers 15:15]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.17|Numbers 15:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a law  |**<big>&#8207;[[H8451\|תּוֹרָ֥ה]]&#8207; </big>**| to.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one  |**<big>&#8207;[[H0259\|אַחַ֛ת]]&#8207; </big>**| 'a.Chat<small><sup>[[HAcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

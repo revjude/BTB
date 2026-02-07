@@ -1,4 +1,4 @@
-**Proverbs 3:35** 
+**Proverbs 3:35**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wise shall inherit glory: but shame shall be the promotion of fools.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wise will inherit honor, but fools are held up to shame.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.34|<< Proverbs 3:34]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.1|Proverbs 4:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | honor  |**<big>&#8207;[[H3519\|כָּ֭בוֹד]]&#8207; </big>**| Ka.Vod<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wise [people]  |**<big>&#8207;[[H2450\|חֲכָמִ֣ים]]&#8207; </big>**| cha.kha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

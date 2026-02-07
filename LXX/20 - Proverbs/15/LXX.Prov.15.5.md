@@ -1,10 +1,7 @@
 **LXX Proverbs 15:5** 
 <small><sub>**LXX:**</sub></small>
 A fool sneers at \[the\] instruction of \[his\] father; but the one keeping \[his\] commandments \[is\] more astute. In superabundant righteousness is abundant strength; but the impious entirely rooted from \[the\] earth shall be destroyed. 
-<small><sub>**KJV:**</sub></small>
-A fool despiseth his father’s instruction: but he that regardeth reproof is prudent.
-<small><sub>**BSB:**</sub></small>
-A fool rejects his father’s discipline, but whoever heeds correction is prudent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.4|<< Proverbs 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.6|Proverbs 15:6 >>]]</td></tr></table>
 
 | Translation | Greek |

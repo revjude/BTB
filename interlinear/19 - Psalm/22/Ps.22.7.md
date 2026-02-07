@@ -1,4 +1,4 @@
-**Psalms 22:7** (22:8)
+**Psalms 22:7**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All they that see me laugh me to scorn: they shoot out the lip, they shake the head, [saying],
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ All who see me mock me; they sneer and shake their heads:
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[Matt.27.43|Matt 27:43]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] see me  |**<big>&#8207;[[H7200G\|רֹ֭אַ]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| Ro.'a<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

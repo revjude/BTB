@@ -1,10 +1,7 @@
 **LXX Jeremiah 8:10** 
 <small><sub>**LXX:**</sub></small>
 On account of this, I give  their wives to others, and  their fields to the heirs. For from small unto great all pursue a fondness of money. And from prophet unto priest all commit lies. 
-<small><sub>**KJV:**</sub></small>
-Therefore will I give their wives unto others, [and] their fields to them that shall inherit [them]: for every one from the least even unto the greatest is given to covetousness, from the prophet even unto the priest every one dealeth falsely.
-<small><sub>**BSB:**</sub></small>
-Therefore I will give their wives to other men and their fields to new owners. For from the least of them to the greatest, all are greedy for gain; from prophet to priest, all practice deceit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.9|<< Jeremiah 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.11|Jeremiah 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

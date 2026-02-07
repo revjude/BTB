@@ -1,4 +1,4 @@
-**Isaiah 40:26** 
+**Isaiah 40:26**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift up your eyes on high, and behold who hath created these [things], that bringeth out their host by number: he calleth them all by names by the greatness of his might, for that [he is] strong in power; not one faileth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Lift up your eyes on high: Who created all these? He leads forth the starry host
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.25|<< Isaiah 40:25]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.27|Isaiah 40:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lift up  |**<big>&#8207;[[H5375M\|שְׂאוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| se.'u-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | height  |**<big>&#8207;[[H4791\|מָר֨וֹם]]&#8207; </big>**| ma.Rom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Esther 9:13** 
+**Esther 9:13**<big><big>[[Esth.9.11 Haman’s Sons Hanged|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Esther, If it please the king, let it be granted to the Jews which [are] in Shushan to do to morrow also according unto this day’s decree, and let Haman’s ten sons be hanged upon the gallows.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Esther replied, “If it pleases the king, may the Jews in Susa also have tomorr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.12|<< Esther 9:12]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.14|Esther 9:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֤אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Esther  |**<big>&#8207;[[H0635\|אֶסְתֵּר֙]]&#8207; </big>**| 'es.Ter<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

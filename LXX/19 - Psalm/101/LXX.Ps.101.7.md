@@ -1,10 +1,7 @@
 **LXX Psalm 101:7** 
 <small><sub>**LXX:**</sub></small>
 one having pride dwelt not in \[the\] midst of my house. One speaking unjust did not conduct \[anything\] before  my eyes. 
-<small><sub>**KJV:**</sub></small>
-He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.
-<small><sub>**BSB:**</sub></small>
-No one who practices deceit shall dwell in my house; no one who tells lies shall stand in my presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.101.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.101.6|<< Psalm 101:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.101.8|Psalm 101:8 >>]]</td></tr></table>
 
 | Translation | Greek |

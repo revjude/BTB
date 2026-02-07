@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:23** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass Jehudi having read three columns or four, he shred them with the razor of the scribe, and tossed into the fire, the one upon the grate, until all the papyrus leaf vanished in the fire, the one upon the grate. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, [that] when Jehudi had read three or four leaves, he cut it with the penknife, and cast [it] into the fire that [was] on the hearth, until all the roll was consumed in the fire that [was] on the hearth.
-<small><sub>**BSB:**</sub></small>
-And as soon as Jehudi had read three or four columns, Jehoiakim would cut them off with a scribe’s knife and throw them into the firepot, until the entire scroll had been consumed by the fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.22|<< Jeremiah 36:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.24|Jeremiah 36:24 >>]]</td></tr></table>
 
 | Translation | Greek |

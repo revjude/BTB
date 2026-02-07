@@ -1,4 +1,4 @@
-**Psalms 20:6** (20:7)
+**Psalms 20:6**<big><big>[[Ps.20.1 The Day of Trouble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now know I that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now I know that the LORD saves His anointed; He answers him from His holy heaven
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.20.5|<< Psalms 20:5]]</td><td align="center" style="border:none;">[[Ps.20|Psalms 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.20.7|Psalms 20:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H6258\|עַתָּ֤ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I know  |**<big>&#8207;[[H3045\|יָדַ֗עְתִּי]]&#8207; </big>**| ya.Da'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

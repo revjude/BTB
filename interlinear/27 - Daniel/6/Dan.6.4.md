@@ -1,4 +1,4 @@
-**Daniel 6:4** (6:5)
+**Daniel 6:4**<big><big>[[Dan.6.1 The Plot against Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he [was] faithful, neither was there any error or fault found in him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus the administrators and satraps sought a charge against Daniel concerning th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.3|<< Daniel 6:3]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.5|Daniel 6:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱדַ֨יִן]]&#8207; </big>**| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | overseers the  |**<big>&#8207;[[H5632\|סָֽרְכַיָּ֜]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| sa.re.khai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

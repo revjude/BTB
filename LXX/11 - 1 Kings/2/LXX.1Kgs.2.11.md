@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:11** 
 <small><sub>**LXX:**</sub></small>
 And the days which David reigned over Israel \[were\] forty years. In Hebron he reigned seven years, and in Jerusalem he reigned thirty and three years. 
-<small><sub>**KJV:**</sub></small>
-And the days that David reigned over Israel [were] forty years: seven years reigned he in Hebron, and thirty and three years reigned he in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-The length of David’s reign over Israel was forty years—seven years in Hebron and thirty-three years in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.10|<< 1 Kings 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.12|1 Kings 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

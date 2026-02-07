@@ -1,4 +1,4 @@
-**Joshua 14:13** 
+**Joshua 14:13**<big><big>[[Josh.14.6 Caleb Requests Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua blessed him, and gave unto Caleb the son of Jephunneh Hebron for an inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Joshua blessed Caleb son of Jephunneh and gave him Hebron as his inheritanc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.12|<< Joshua 14:12]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.14|Joshua 14:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he blessed him  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1288\|יְבָרְכֵ֖]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.va.re.Khe.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻׁ֑עַ]]&#8207; </big>**| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

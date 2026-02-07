@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:9** 
 <small><sub>**LXX:**</sub></small>
 And if he should be able to battle against me, and strike me, then we will be to you for servants. But if I shall overpower him, and shall strike him, you will be to us for servants, and you shall serve us. 
-<small><sub>**KJV:**</sub></small>
-If he be able to fight with me, and to kill me, then will we be your servants: but if I prevail against him, and kill him, then shall ye be our servants, and serve us.
-<small><sub>**BSB:**</sub></small>
-If he is able to fight me and kill me, then we will be your servants. But if I prevail against him and kill him, then you shall be our servants and work for us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.8|<< 1 Samuel 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.10|1 Samuel 17:10 >>]]</td></tr></table>
 
 | Translation | Greek |

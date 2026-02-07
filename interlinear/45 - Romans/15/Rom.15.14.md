@@ -1,12 +1,12 @@
-**Romans 15:14
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:14**<big><big>[[Rom.15.14 Paul the Minister to the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I myself also am persuaded of you, my brethren, that ye also are full of goodness, filled with all knowledge, able also to admonish one another.
 <small><sub>**BSB:**</sub></small>
 I myself am convinced, my brothers, that you yourselves are full of goodness, brimming with knowledge, and able to instruct one another.
 <small><sub>**Literal:**</sub></small>
 I have been persuaded now, brothers of mine, also myself I myself concerning you that also you yourselves full are of goodness filled with all <the> knowledge, being able also one another to admonish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.13|<< Romans 15:13]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.15|Romans 15:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have been persuaded |**<big>[[G3982\|πέπεισμαι]]</big>**  |pepeismai <small><sup>[[V-RPI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now, |**<big>[[G1161\|δέ,]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

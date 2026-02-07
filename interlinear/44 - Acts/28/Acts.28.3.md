@@ -1,12 +1,12 @@
-**Acts 28:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:3**<big><big>[[Acts.28.1 Ashore on Malta|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Paul had gathered a bundle of sticks, and laid [them] on the fire, there came a viper out of the heat, and fastened on his hand.
 <small><sub>**BSB:**</sub></small>
 Paul gathered a bundle of sticks, and as he laid them on the fire, a viper, driven out by the heat, fastened itself to his hand.
 <small><sub>**Literal:**</sub></small>
 When having gathered now <the> Paul of sticks some quantity and having laid [them] on the fire a viper out from the heat having come fastened on the hand of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.2|<< Acts 28:2]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.4|Acts 28:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When having gathered |**<big>[[G4962\|συστρέψαντος]]</big>**  |sustrepsantos <small><sup>[[V-AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

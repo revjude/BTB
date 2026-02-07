@@ -1,10 +1,7 @@
 **LXX Song of Solomon 1:6** 
 <small><sub>**LXX:**</sub></small>
 You should not look, for I am being blackened, for the sun looked over me. Sons of my mother quarreled with me. They made me keeper in \[the\] vineyards. I kept not my \[own\] vineyard. 
-<small><sub>**KJV:**</sub></small>
-Look not upon me, because I [am] black, because the sun hath looked upon me: my mother’s children were angry with me; they made me the keeper of the vineyards; [but] mine own vineyard have I not kept.
-<small><sub>**BSB:**</sub></small>
-Do not stare because I am dark, for the sun has gazed upon me. My mother’s sons were angry with me; they made me a keeper of the vineyards, but my own vineyard I have neglected.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.5|<< Song of Solomon 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.7|Song of Solomon 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 7:14** (7:15)
+**Psalms 7:14**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he travaileth with iniquity, and hath conceived mischief, and brought forth falsehood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, the wicked man travails with evil; he conceives trouble and births false
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.13|<< Psalms 7:13]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.15|Psalms 7:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֥ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he is in labor with  |**<big>&#8207;[[H2254C\|יְחַבֶּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.cha.bel-<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 16:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:29**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Abraham saith unto him, They have Moses and the prophets; let them hear them.
 <small><sub>**BSB:**</sub></small>
 But Abraham replied, ‘They have Moses and the Prophets; let your brothers listen to them.’
 <small><sub>**Literal:**</sub></small>
 Says however to him Abraham; They have Moses and the prophets; they should listen to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.28|<< Luke 16:28]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.30|Luke 16:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|Λέγει]]</big>**  |Legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

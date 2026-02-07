@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:24** 
 <small><sub>**LXX:**</sub></small>
 And the king said to Araunah, Not so, but only by acquiring shall I acquire \[it\] from you for a price, for I shall not offer \[to the\] <span class="smallcaps">lord</span> my God a whole burnt-offering without \[paying\] a charge. And David acquired the threshing-floor, and the oxen with fifty silver shekels. 
-<small><sub>**KJV:**</sub></small>
-And the king said unto Araunah, Nay; but I will surely buy [it] of thee at a price: neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing. So David bought the threshingfloor and the oxen for fifty shekels of silver.
-<small><sub>**BSB:**</sub></small>
-“No,” replied the king, “I insist on paying a price, for I will not offer to the LORD my God burnt offerings that cost me nothing.” So David bought the threshing floor and the oxen for fifty shekels of silver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.23|<< 2 Samuel 24:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.25|2 Samuel 24:25 >>]]</td></tr></table>
 
 | Translation | Greek |

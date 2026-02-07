@@ -1,4 +1,4 @@
-**Psalms 54:6** (54:8)
+**Psalms 54:6**<big><big>[[Ps.54.1 Save Me by Your Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will freely sacrifice unto thee: I will praise thy name, O LORD; for [it is] good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Freely I will sacrifice to You; I will praise Your name, O LORD, for it is good.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.54.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.54.5|<< Psalms 54:5]]</td><td align="center" style="border:none;">[[Ps.54|Psalms 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.54.7|Psalms 54:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in voluntariness  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H5071\|נְדָבָ֥ה]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> n.da.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will sacrifice  |**<big>&#8207;[[H2076\|אֶזְבְּחָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ez.be.chah-<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

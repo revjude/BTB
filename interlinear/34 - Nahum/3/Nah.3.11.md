@@ -1,4 +1,4 @@
-**Nahum 3:11** 
+**Nahum 3:11**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou also shalt be drunken: thou shalt be hid, thou also shalt seek strength because of the enemy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You too will become drunk; you will go into hiding and seek refuge from the enem
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.10|<< Nahum 3:10]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.12|Nahum 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859C\|אַ֣תְּ]]&#8207; </big>**| 'at<small><sup>[[HPp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

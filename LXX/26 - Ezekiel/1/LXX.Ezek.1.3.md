@@ -1,10 +1,7 @@
 **LXX Ezekiel 1:3** 
 <small><sub>**LXX:**</sub></small>
 and \[the\] word \[of the\] <span class="smallcaps">lord</span> came to Ezekiel, the son of Buzi the priest, in \[the\] land of \[the\] Chaldeans by the river  Chebar; and \[the\] hand \[of the\] <span class="smallcaps">lord</span> came upon me. 
-<small><sub>**KJV:**</sub></small>
-The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him.
-<small><sub>**BSB:**</sub></small>
-the word of the LORD came directly to Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the River Kebar. And there the LORD’s hand was upon him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.2|<< Ezekiel 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.4|Ezekiel 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

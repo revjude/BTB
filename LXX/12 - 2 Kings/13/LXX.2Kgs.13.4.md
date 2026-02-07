@@ -1,10 +1,7 @@
 **LXX 2 Kings 13:4** 
 <small><sub>**LXX:**</sub></small>
 And Jehoahaz beseeched the face of \[the\] <span class="smallcaps">lord</span>, and \[the\] <span class="smallcaps">lord</span> heeded him. For he beheld the affliction  of Israel, because \[the\] king of Syria afflicted them. 
-<small><sub>**KJV:**</sub></small>
-And Jehoahaz besought the LORD, and the LORD hearkened unto him: for he saw the oppression of Israel, because the king of Syria oppressed them.
-<small><sub>**BSB:**</sub></small>
-Then Jehoahaz sought the favor of the LORD, and the LORD listened to him because He saw the oppression that the king of Aram had inflicted on Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.3|<< 2 Kings 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.5|2 Kings 13:5 >>]]</td></tr></table>
 
 | Translation | Greek |

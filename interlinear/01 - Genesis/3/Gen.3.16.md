@@ -1,4 +1,4 @@
-**Genesis 3:16** 
+**Genesis 3:16**<big><big>[[Gen.3.16 The Punishment of Mankind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire [shall be] to thy husband, and he shall rule over thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ To the woman He said: “I will sharply increase your pain in childbirth; in pai
 > $\quad$ referenced by: [[1Cor.14.34|1Cor 14:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to  |**<big>&#8207;[[H0413\|אֶֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the woman  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0802G\|אִשָּׁ֣ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

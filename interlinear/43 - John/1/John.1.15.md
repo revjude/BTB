@@ -1,12 +1,12 @@
-**John 1:15
-**<small><sub>**KJV:**</sub></small>
+**John 1:15**<big><big>[[John.1.14 The Word Became Flesh|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.
 <small><sub>**BSB:**</sub></small>
 John testified concerning Him. He cried out, saying, “This is He of whom I said, ‘He who comes after me has surpassed me because He was before me.’”
 <small><sub>**Literal:**</sub></small>
 John witnesses concerning Him and he has cried out saying; This was He of whom I was saying; The [One] after me coming precedence over me has, because before me He was.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.14|<< John 1:14]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.16|John 1:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | John |**<big>[[G2491G\|Ἰωάννης]]</big>**  [^1] |Iōannēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | witnesses |**<big>[[G3140\|μαρτυρεῖ]]</big>**  |marturei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

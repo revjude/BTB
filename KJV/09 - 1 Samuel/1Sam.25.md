@@ -1,10 +1,10 @@
 (KJV) **1 Samuel 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24|<< 1 Samuel 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26|1 Samuel 26 >>]]</td></tr></table>
 
-***The Death of Samuel*** ^bsb710
+<big><big>[[1Sam.25.1 The Death of Samuel|⥃]]</big></big>***The Death of Samuel***
 
  $\quad$ <span class="startversemarker">[</span>**[[1Sam.25.1|1]]**<span class="endversemarker">]</span> And Samuel<small><small>[^2]</small></small> died; and all the Israelites were gathered together, and lamented<small><small>[^3]</small></small> him, and buried him in his house<small><small>[^4]</small></small> at Ramah. And David arose, and went down to the wilderness<small><small>[^5]</small></small> of Paran.<small><small>[^6]</small></small>
 
-***David, Nabal, and Abigail*** ^bsb711
+<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥃]]</big></big>***David, Nabal, and Abigail***
 
  <span class="startversemarker">[</span>**[[1Sam.25.2|2]]**<span class="endversemarker">]</span> And \[there was\] a man in Maon<small><small>[^7]</small></small>, whose possessions \[were<small><small>[^8]</small></small>\] in Carmel<small><small>[^9]</small></small>; and the man<small><small>[^10]</small></small> \[was\] very great, and he had three thousand<small><small>[^11]</small></small> sheep, and a thousand goats: and he was shearing<small><small>[^12]</small></small> his sheep in Carmel<small><small>[^13]</small></small>. <span class="startversemarker">[</span>**[[1Sam.25.3|3]]**<span class="endversemarker">]</span> Now the name of the man \[was\] Nabal; and the name of his wife Abigail: and \[she was\] a woman of good<small><small>[^14]</small></small> understanding, and of a beautiful countenance: but the man \[was\] churlish<small><small>[^15]</small></small> and evil in his doings; and he \[was<small><small>[^16]</small></small>\] of the house of Caleb. 
 
@@ -14,7 +14,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Sam.25.10|10]]**<span class=
 
 $\quad$ <span class="startversemarker">[</span>**[[1Sam.25.14|14]]**<span class="endversemarker">]</span> [¶]But one of the young men told Abigail, Nabal’s wife, saying, Behold, David sent messengers out of the wilderness to salute our master; and he railed on them<small><small>[^36]</small></small>. <span class="startversemarker">[</span>**[[1Sam.25.15|15]]**<span class="endversemarker">]</span> But the men \[were\] very good<small><small>[^37]</small></small> unto us, and we were not hurt<small><small>[^38]</small></small>, neither missed we any thing, as long as we were conversant with them, when we were in the fields: <span class="startversemarker">[</span>**[[1Sam.25.16|16]]**<span class="endversemarker">]</span> They were a wall<small><small>[^39]</small></small> unto us both by night and day, all the while we were with them keeping the sheep. <span class="startversemarker">[</span>**[[1Sam.25.17|17]]**<span class="endversemarker">]</span> Now therefore know and consider what thou wilt do; for evil<small><small>[^40]</small></small> is determined against our master, and against all his household: for he \[is such\] a son of Belial<small><small>[^41]</small></small>, that \[a man<small><small>[^42]</small></small>\] cannot speak to him.
 
-***Abigail Intercedes for Nabal*** ^bsb712
+<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥃]]</big></big>***Abigail Intercedes for Nabal***
 
  
 
@@ -24,7 +24,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Sam.25.32|32]]**<span class=
 
 $\quad$ <span class="startversemarker">[</span>**[[1Sam.25.36|36]]**<span class="endversemarker">]</span> And Abigail came to Nabal; and, behold, he held a feast<small><small>[^97]</small></small> in his house, like the feast of a king; and Nabal’s heart \[was\] merry<small><small>[^98]</small></small> within him, for he \[was\] very drunken: wherefore she told him<small><small>[^99]</small></small> nothing, less or more, until the morning light. <span class="startversemarker">[</span>**[[1Sam.25.37|37]]**<span class="endversemarker">]</span> But it came to pass in the morning, when the wine was gone out of Nabal, and his wife had told him<small><small>[^100]</small></small> these things, that his heart<small><small>[^101]</small></small> died within him, and he became \[as\] a stone. <span class="startversemarker">[</span>**[[1Sam.25.38|38]]**<span class="endversemarker">]</span> And it came to pass about ten days \[after\], that the <span class="smallcaps">Lord<small><small>[^102]</small></small></span> smote Nabal, that he died.
 
-***David Marries Abigail*** ^bsb713
+<big><big>[[1Sam.25.39 David Marries Abigail|⥃]]</big></big>***David Marries Abigail***
 
  
 

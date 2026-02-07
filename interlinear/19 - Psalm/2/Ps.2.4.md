@@ -1,4 +1,4 @@
-**Psalms 2:4** 
+**Psalms 2:4**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that sitteth in the heavens shall laugh: the Lord shall have them in derision.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The One enthroned in heaven laughs; the Lord taunts them.
 > $\quad$ referenced by: [[Rev.11.18|Rev 11:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the one who] sits  |**<big>&#8207;[[H3427\|יוֹשֵׁ֣ב]]&#8207; </big>**| yo.Shev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the heavens  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8064\|שָּׁמַ֣יִם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

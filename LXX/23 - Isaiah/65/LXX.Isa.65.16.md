@@ -1,10 +1,7 @@
 **LXX Isaiah 65:16** 
 <small><sub>**LXX:**</sub></small>
 which shall be blessed upon the earth. For they shall bless the true God. And the ones swearing by an oath upon the earth shall swear by an oath on the true God. For they shall forget  their first affliction, and it shall not ascend unto  their heart. 
-<small><sub>**KJV:**</sub></small>
-That he who blesseth himself in the earth shall bless himself in the God of truth; and he that sweareth in the earth shall swear by the God of truth; because the former troubles are forgotten, and because they are hid from mine eyes.
-<small><sub>**BSB:**</sub></small>
-Whoever invokes a blessing in the land will do so by the God of truth, and whoever takes an oath in the land will swear by the God of truth. For the former troubles will be forgotten and hidden from My sight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.15|<< Isaiah 65:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.17|Isaiah 65:17 >>]]</td></tr></table>
 
 | Translation | Greek |

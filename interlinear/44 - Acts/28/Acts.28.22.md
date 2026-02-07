@@ -1,12 +1,12 @@
-**Acts 28:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:22**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But we desire to hear of thee what thou thinkest: for as concerning this sect, we know that every where it is spoken against.
 <small><sub>**BSB:**</sub></small>
 But we consider your views worth hearing, because we know that people everywhere are speaking against this sect.”
 <small><sub>**Literal:**</sub></small>
 We deem it worthy however from you to hear what you think; concerning truly for <the> sect this known to us it is that everywhere it is spoken against.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.21|<< Acts 28:21]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.23|Acts 28:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We deem it worthy |**<big>[[G0515\|ἀξιοῦμεν]]</big>**  |axioumen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

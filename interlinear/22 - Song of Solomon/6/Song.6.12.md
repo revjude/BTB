@@ -1,4 +1,4 @@
-**Song of Solomon 6:12** 
+**Song of Solomon 6:12**<big><big>[[Song.6.11 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or ever I was aware, my soul made me [like] the chariots of Amminadib.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Before I realized it, my desire had set me among the royal chariots of my people
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.11|<< Song of Solomon 6:11]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.13|Song of Solomon 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I knew  |**<big>&#8207;[[H3045\|יָדַ֔עְתִּי]]&#8207; </big>**| ya.Da'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

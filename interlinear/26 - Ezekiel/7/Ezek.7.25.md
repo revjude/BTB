@@ -1,4 +1,4 @@
-**Ezekiel 7:25** 
+**Ezekiel 7:25**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Destruction cometh; and they shall seek peace, and [there shall be] none.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Anguish is coming! They will seek peace, but find none.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.24|<< Ezekiel 7:24]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.26|Ezekiel 7:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | anguish  |**<big>&#8207;[[H7089\|קְפָ֖דָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.Fa.dah-<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has come  |**<big>&#8207;[[H0935G\|בָ֑א]]&#8207; </big>**| Va'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**2 Corinthians 11:17
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:17**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That which I speak, I speak [it] not after the Lord, but as it were foolishly, in this confidence of boasting.
 <small><sub>**BSB:**</sub></small>
 In this confident boasting of mine, I am not speaking as the Lord would, but as a fool.
 <small><sub>**Literal:**</sub></small>
 What I am saying, not according to [the] Lord am I saying but as in foolishness, in this the confidence <the> of boasting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.16|<< 2 Corinthians 11:16]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.18|2 Corinthians 11:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I am saying, |**<big>[[G2980\|λαλῶ,]]</big>**  |lalō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

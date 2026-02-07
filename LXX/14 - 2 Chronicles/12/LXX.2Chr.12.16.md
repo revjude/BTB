@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 12:16** 
 <small><sub>**LXX:**</sub></small>
 And Rehoboam slept with  his fathers, and was entombed in \[the\] city of David. And Abijah his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And Rehoboam slept with his fathers, and was buried in the city of David: and Abijah his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And Rehoboam rested with his fathers and was buried in the City of David. And his son Abijah reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.15|<< 2 Chronicles 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.1|2 Chronicles 13:1 >>]]</td></tr></table>
 
 | Translation | Greek |

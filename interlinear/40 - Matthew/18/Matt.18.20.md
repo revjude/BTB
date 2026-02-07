@@ -1,12 +1,12 @@
-**Matthew 18:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:20**<big><big>[[Matt.18.19 Ask in My Name|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For where two or three are gathered together in my name, there am I in the midst of them.
 <small><sub>**BSB:**</sub></small>
 For where two or three gather together in My name, there am I with them.”
 <small><sub>**Literal:**</sub></small>
 Where for are two or three assembled unto <the> My name, there am I in [the] midst of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.19|<< Matthew 18:19]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.21|Matthew 18:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Where |**<big>[[G3757\|οὗ]]</big>**  |hou <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

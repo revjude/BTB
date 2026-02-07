@@ -1,4 +1,4 @@
-**2 Kings 18:24** 
+**2 Kings 18:24**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How then wilt thou turn away the face of one captain of the least of my master’s servants, and put thy trust on Egypt for chariots and for horsemen?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For how can you repel a single officer among the least of my master’s servants
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.23|<< 2 Kings 18:23]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.25|2 Kings 18:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and how?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0349A\|אֵ֣יךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will you turn back  |**<big>&#8207;[[H7725I\|תָּשִׁ֗יב]]&#8207; </big>**| ta.Shiv<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

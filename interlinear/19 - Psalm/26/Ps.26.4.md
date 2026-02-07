@@ -1,4 +1,4 @@
-**Psalms 26:4** 
+**Psalms 26:4**<big><big>[[Ps.26.1 Vindicate Me, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have not sat with vain persons, neither will I go in with dissemblers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I do not sit with deceitful men, nor keep company with hypocrites.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.26.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.26.3|<< Psalms 26:3]]</td><td align="center" style="border:none;">[[Ps.26|Psalms 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.26.5|Psalms 26:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I sit  |**<big>&#8207;[[H3427\|יָ֭שַׁבְתִּי]]&#8207; </big>**| Ya.shav.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

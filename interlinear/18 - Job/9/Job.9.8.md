@@ -1,4 +1,4 @@
-**Job 9:8** 
+**Job 9:8**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which alone spreadeth out the heavens, and treadeth upon the waves of the sea.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He alone stretches out the heavens and treads on the waves of the sea.
 > $\quad$ referenced by: [[Matt.14.29|Matt 14:29]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] stretches out  |**<big>&#8207;[[H5186\|נֹטֶ֣ה]]&#8207; </big>**| no.Teh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heavens  |**<big>&#8207;[[H8064\|שָׁמַ֣יִם]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

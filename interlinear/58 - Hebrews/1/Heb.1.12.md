@@ -1,5 +1,5 @@
-**Hebrews 1:12
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 1:12**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.
 <small><sub>**BSB:**</sub></small>
 You will roll them up like a robe; like a garment they will be changed; but You remain the same, and Your years will never end.”
@@ -10,7 +10,7 @@ and like a robe You will roll up them like a garment also they will be changed; 
 > $\quad$ referencing: [[LXX.Ps.102.25|Ps 102:25-27]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | like |**<big>[[G5616\|ὡσεὶ]]</big>**  |hōsei <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

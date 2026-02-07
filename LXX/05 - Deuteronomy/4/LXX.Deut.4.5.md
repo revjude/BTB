@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:5** 
 <small><sub>**LXX:**</sub></small>
 Behold! I have shown to you ordinances and judgments, as \[the\] <span class="smallcaps">lord</span> my God gave charge to me,  to do thus for you in the land into which you enter there to inherit it. 
-<small><sub>**KJV:**</sub></small>
-Behold, I have taught you statutes and judgments, even as the LORD my God commanded me, that ye should do so in the land whither ye go to possess it.
-<small><sub>**BSB:**</sub></small>
-See, I have taught you statutes and ordinances just as the LORD my God has commanded me, so that you may follow them in the land that you are about to enter and possess.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.4|<< Deuteronomy 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.6|Deuteronomy 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

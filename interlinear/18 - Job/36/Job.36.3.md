@@ -1,4 +1,4 @@
-**Job 36:3** 
+**Job 36:3**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will fetch my knowledge from afar, and will ascribe righteousness to my Maker.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I get my knowledge from afar, and I will ascribe justice to my Maker.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.2|<< Job 36:2]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.4|Job 36:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will bear  |**<big>&#8207;[[H5375H\|אֶשָּׂ֣א]]&#8207; </big>**| 'e.Sa'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | knowledge my  |**<big>&#8207;[[H1843\|דֵ֭עִ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| De.'<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

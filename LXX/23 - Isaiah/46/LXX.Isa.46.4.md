@@ -1,10 +1,7 @@
 **LXX Isaiah 46:4** 
 <small><sub>**LXX:**</sub></small>
 until old age; I am, and until whenever you should become aged, I am. I endure you. I made, and I shall spare. I shall take up and I shall deliver you. 
-<small><sub>**KJV:**</sub></small>
-And [even] to [your] old age I [am] he; and [even] to hoar hairs will I carry [you]: I have made, and I will bear; even I will carry, and will deliver [you].
-<small><sub>**BSB:**</sub></small>
-Even to your old age, I will be the same, and I will bear you up when you turn gray. I have made you, and I will carry you; I will sustain you and deliver you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.46.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.46.3|<< Isaiah 46:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.46.5|Isaiah 46:5 >>]]</td></tr></table>
 
 | Translation | Greek |

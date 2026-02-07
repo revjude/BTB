@@ -1,10 +1,7 @@
 **LXX Joshua 20:3** 
 <small><sub>**LXX:**</sub></small>
 for a place of refuge to the manslayer, to the one striking a life unintentionally without forethought. And the cities shall be to you a place of refuge, and the manslayer shall not die by the one acting as next of kin  \[for\] blood. 
-<small><sub>**KJV:**</sub></small>
-That the slayer that killeth [any] person unawares [and] unwittingly may flee thither: and they shall be your refuge from the avenger of blood.
-<small><sub>**BSB:**</sub></small>
-so that anyone who kills another unintentionally or accidentally may flee there. These will be your refuge from the avenger of blood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.20.2|<< Joshua 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.20.4|Joshua 20:4 >>]]</td></tr></table>
 
 | Translation | Greek |

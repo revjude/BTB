@@ -1,10 +1,7 @@
 **LXX Proverbs 14:21** 
 <small><sub>**LXX:**</sub></small>
 The one dishonoring \[the\] needy sins; but \[the\] one showing mercy on \[the\] poor \[is\] most blessed. 
-<small><sub>**KJV:**</sub></small>
-He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy [is] he.
-<small><sub>**BSB:**</sub></small>
-He who despises his neighbor sins, but blessed is he who shows kindness to the poor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.20|<< Proverbs 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.22|Proverbs 14:22 >>]]</td></tr></table>
 
 | Translation | Greek |

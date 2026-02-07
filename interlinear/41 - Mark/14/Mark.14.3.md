@@ -1,12 +1,12 @@
-**Mark 14:3
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:3**<big><big>[[Mark.14.3 Jesus Anointed at Bethany|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And being in Bethany in the house of Simon the leper, as he sat at meat, there came a woman having an alabaster box of ointment of spikenard very precious; and she brake the box, and poured [it] on his head.
 <small><sub>**BSB:**</sub></small>
 While Jesus was in Bethany reclining at the table in the home of Simon the Leper, a woman came with an alabaster jar of expensive perfume, made of pure nard. She broke open the jar and poured it on Jesus’ head.
 <small><sub>**Literal:**</sub></small>
 And when is being He in Bethany in the house of Simon the leper, when is reclining He came a woman having an alabaster flask of fragrant oil of nard pure of great price. and having broken the alabaster flask she poured [it] on His according to <the> head.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.2|<< Mark 14:2]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.4|Mark 14:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when is being |**<big>[[G1510\|ὄντος]]</big>**  |ontos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

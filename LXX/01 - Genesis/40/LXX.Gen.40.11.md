@@ -1,10 +1,7 @@
 **LXX Genesis 40:11** 
 <small><sub>**LXX:**</sub></small>
 And the cup of Pharaoh \[was\] in  my hand, and I took the grape cluster and squeezed it into the cup, and gave the cup into the hand of Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh’s cup [was] in my hand: and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand.
-<small><sub>**BSB:**</sub></small>
-Pharaoh’s cup was in my hand, and I took the grapes, squeezed them into his cup, and placed the cup in his hand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.10|<< Genesis 40:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.12|Genesis 40:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 29:7** 
+**Numbers 29:7**<big><big>[[Num.29.7 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall have on the tenth [day] of this seventh month an holy convocation; and ye shall afflict your souls: ye shall not do any work [therein]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the tenth day of this seventh month, you are to hold a sacred assembly, and y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.6|<< Numbers 29:6]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.8|Numbers 29:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on the ten  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בֶ]]&#8207;&#8207;[[H6218\|עָשׂוֹר֩]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HRd]]</sup></small> 'a.sOr<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of the month  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2320G\|חֹ֨דֶשׁ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

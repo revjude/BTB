@@ -1,10 +1,7 @@
 **LXX Isaiah 45:16** 
 <small><sub>**LXX:**</sub></small>
 all the ones being an adversary to him shall be ashamed and shall feel remorse; and they shall go in shame. Be dedicated to me, O islands. 
-<small><sub>**KJV:**</sub></small>
-They shall be ashamed, and also confounded, all of them: they shall go to confusion together [that are] makers of idols.
-<small><sub>**BSB:**</sub></small>
-They will all be put to shame and humiliated; the makers of idols will depart together in disgrace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.45.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.15|<< Isaiah 45:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.17|Isaiah 45:17 >>]]</td></tr></table>
 
 | Translation | Greek |

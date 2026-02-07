@@ -1,12 +1,12 @@
-**1 Corinthians 11:26
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:26**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come.
 <small><sub>**BSB:**</sub></small>
 For as often as you eat this bread and drink this cup, you proclaim the Lord’s death until He comes.
 <small><sub>**Literal:**</sub></small>
 As often as for when you shall eat <the> bread this and <the> cup this may drink, the death of the Lord you proclaim until that when He may come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.25|<< 1 Corinthians 11:25]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.27|1 Corinthians 11:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As often as |**<big>[[G3740\|ὁσάκις]]</big>**  |hosakis <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

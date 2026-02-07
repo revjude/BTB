@@ -1,10 +1,7 @@
 **LXX Leviticus 7:2** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] place of which they slay the whole burnt-offering, they shall slay the ram of the trespass \[offering\] before \[the\] <span class="smallcaps">lord</span>. And he shall pour the blood upon the base of the altar round about. 
-<small><sub>**KJV:**</sub></small>
-In the place where they kill the burnt offering shall they kill the trespass offering: and the blood thereof shall he sprinkle round about upon the altar.
-<small><sub>**BSB:**</sub></small>
-The guilt offering must be slaughtered in the place where the burnt offering is slaughtered, and the priest shall splatter its blood on all sides of the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.1|<< Leviticus 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.3|Leviticus 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

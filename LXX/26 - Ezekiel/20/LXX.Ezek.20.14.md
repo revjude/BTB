@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:14** 
 <small><sub>**LXX:**</sub></small>
 And I acted so that  my name  should not be thoroughly profaned before the nations which I led them out before their eyes. 
-<small><sub>**KJV:**</sub></small>
-But I wrought for my name’s sake, that it should not be polluted before the heathen, in whose sight I brought them out.
-<small><sub>**BSB:**</sub></small>
-But I acted for the sake of My name, so that it would not be profaned in the eyes of the nations in whose sight I had brought them out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.13|<< Ezekiel 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.15|Ezekiel 20:15 >>]]</td></tr></table>
 
 | Translation | Greek |

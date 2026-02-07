@@ -1,10 +1,7 @@
 **LXX Joel 2:13** 
 <small><sub>**LXX:**</sub></small>
 And tear  your hearts and not  your garments! And return to \[the\] <span class="smallcaps">lord</span>  your God! for he is merciful and pitying, lenient and full of mercy, and changing his mind concerning the evils. 
-<small><sub>**KJV:**</sub></small>
-And rend your heart, and not your garments, and turn unto the LORD your God: for he [is] gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.
-<small><sub>**BSB:**</sub></small>
-So rend your hearts and not your garments, and return to the LORD your God. For He is gracious and compassionate, slow to anger, abounding in loving devotion. And He relents from sending disaster.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.12|<< Joel 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.14|Joel 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

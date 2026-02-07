@@ -1,10 +1,7 @@
 **LXX Judges 3:4** 
 <small><sub>**LXX:**</sub></small>
 And it happened so as to test Israel by them, to know if they will hearken to the commandments of \[the\] <span class="smallcaps">lord</span> which he gave charge \[to\] their fathers by \[the\] hand of Moses. 
-<small><sub>**KJV:**</sub></small>
-And they were to prove Israel by them, to know whether they would hearken unto the commandments of the LORD, which he commanded their fathers by the hand of Moses.
-<small><sub>**BSB:**</sub></small>
-These nations were left to test the Israelites, to find out whether they would keep the commandments of the LORD, which He had given their fathers through Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.3|<< Judges 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.5|Judges 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

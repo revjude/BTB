@@ -1,4 +1,4 @@
-**Numbers 22:17** 
+**Numbers 22:17**<big><big>[[Num.22.1 Balak Summons Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will promote thee unto very great honour, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for I will honor you richly and do whatever you say. So please come and put a cu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.16|<< Numbers 22:16]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.18|Numbers 22:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | surely \<honor>  |**<big>&#8207;[[H3513G\|כַבֵּ֤ד]]&#8207; </big>**| kha.Bed<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

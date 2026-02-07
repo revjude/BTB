@@ -1,12 +1,12 @@
-**Matthew 26:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:16**<big><big>[[Matt.26.14 Judas Agrees to Betray Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And from that time he sought opportunity to betray him.
 <small><sub>**BSB:**</sub></small>
 So from then on Judas looked for an opportunity to betray Jesus.
 <small><sub>**Literal:**</sub></small>
 And from that time he was seeking an opportunity that Him he may betray.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.15|<< Matthew 26:15]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.17|Matthew 26:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

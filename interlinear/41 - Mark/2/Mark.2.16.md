@@ -1,12 +1,12 @@
-**Mark 2:16
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:16**<big><big>[[Mark.2.13 Jesus Calls Levi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the scribes and Pharisees saw him eat with publicans and sinners, they said unto his disciples, How is it that he eateth and drinketh with publicans and sinners?
 <small><sub>**BSB:**</sub></small>
 When the scribes who were Pharisees saw Jesus eating with these people, they asked His disciples, “Why does He eat with tax collectors and sinners?”
 <small><sub>**Literal:**</sub></small>
 And the scribes <and> of the Pharisees <and> having seen that he eats with the sinners and tax collectors were saying to the disciples of Him; Why [is it] that with the tax collectors and sinners He eats and drinks?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.15|<< Mark 2:15]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.17|Mark 2:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

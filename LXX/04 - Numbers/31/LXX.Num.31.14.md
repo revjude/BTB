@@ -1,10 +1,7 @@
 **LXX Numbers 31:14** 
 <small><sub>**LXX:**</sub></small>
 And Moses was provoked to anger with the overseers of the force -- commanders of thousands, and commanders of hundreds, the ones coming from the battle array of the war. 
-<small><sub>**KJV:**</sub></small>
-And Moses was wroth with the officers of the host, [with] the captains over thousands, and captains over hundreds, which came from the battle.
-<small><sub>**BSB:**</sub></small>
-But Moses was angry with the officers of the army—the commanders of thousands and commanders of hundreds—who were returning from the battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.13|<< Numbers 31:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.15|Numbers 31:15 >>]]</td></tr></table>
 
 | Translation | Greek |

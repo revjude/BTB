@@ -1,12 +1,12 @@
-**Galatians 3:5
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:5**<big><big>[[Gal.3.1 Faith and Belief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He therefore that ministereth to you the Spirit, and worketh miracles among you, [doeth he it] by the works of the law, or by the hearing of faith?
 <small><sub>**BSB:**</sub></small>
 Does God lavish His Spirit on you and work miracles among you because you practice the law, or because you hear and believe?
 <small><sub>**Literal:**</sub></small>
 The [One] therefore supplying to you the Spirit and working miracles among you, [is it] out of works of the Law or out of hearing of faith?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.4|<< Galatians 3:4]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.6|Galatians 3:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [One] |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 41:2** 
 <small><sub>**LXX:**</sub></small>
 Who awakened righteousness from \[the\] east, called it by his feet, and it shall go? He shall appoint against nations, and he shall recede kings, and he shall put their swords into \[the\] earth, and their bows as sticks being pushed out. 
-<small><sub>**KJV:**</sub></small>
-Who raised up the righteous [man] from the east, called him to his foot, gave the nations before him, and made [him] rule over kings? he gave [them] as the dust to his sword, [and] as driven stubble to his bow.
-<small><sub>**BSB:**</sub></small>
-Who has aroused one from the east and called him to his feet in righteousness? He hands nations over to him and subdues kings before him. He turns them to dust with his sword, to windblown chaff with his bow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.1|<< Isaiah 41:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.3|Isaiah 41:3 >>]]</td></tr></table>
 
 | Translation | Greek |

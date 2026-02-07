@@ -1,28 +1,28 @@
 (KJV) **1 Chronicles 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6|<< 1 Chronicles 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8|1 Chronicles 8 >>]]</td></tr></table>
 
-***The Descendants of Issachar*** ^bsb998
+<big><big>[[1Chr.7.1 The Descendants of Issachar|⥃]]</big></big>***The Descendants of Issachar***
 
  $\quad$ <span class="startversemarker">[</span>**[[1Chr.7.1|1]]**<span class="endversemarker">]</span> Now the sons of Issachar \[were\], Tola, and Puah, Jashub, and Shimron, four.<small><small>[^2]</small></small> <span class="startversemarker">[</span>**[[1Chr.7.2|2]]**<span class="endversemarker">]</span> And the sons of Tola; Uzzi, and Rephaiah, and Jeriel, and Jahmai, and Jibsam, and Shemuel, heads of their father’s house, \[to wit\], of Tola: \[they were\] valiant men of might in their generations; whose number<small><small>[^3]</small></small> \[was\] in the days of David two and twenty thousand and six hundred. <span class="startversemarker">[</span>**[[1Chr.7.3|3]]**<span class="endversemarker">]</span> And the sons of Uzzi; Izrahiah: and the sons of Izrahiah; Michael, and Obadiah, and Joel, Ishiah, five: all of them chief men. <span class="startversemarker">[</span>**[[1Chr.7.4|4]]**<span class="endversemarker">]</span> And with them, by their generations, after the house of their fathers, \[were\] bands of soldiers for war, six and thirty thousand \[men\]: for they had many wives and sons.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[1Chr.7.5|5]]**<span class="endversemarker">]</span> And their brethren among all the families of Issachar \[were\] valiant men of might, reckoned in all by their genealogies fourscore and seven thousand.
 
-***The Descendants of Benjamin*** ^bsb999
+<big><big>[[1Chr.7.6 The Descendants of Benjamin|⥃]]</big></big>***The Descendants of Benjamin***
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[1Chr.7.6|6]]**<span class="endversemarker">]</span> [¶]\[The sons\] of Benjamin<small><small>[^5]</small></small>; Bela, and Becher, and Jediael<small><small>[^6]</small></small>, three. <span class="startversemarker">[</span>**[[1Chr.7.7|7]]**<span class="endversemarker">]</span> And the sons of Bela; Ezbon, and Uzzi, and Uzziel, and Jerimoth, and Iri, five; heads of the house of \[their\] fathers, mighty men of valour; and were reckoned<small><small>[^7]</small></small> by their genealogies twenty and two thousand and thirty and four. <span class="startversemarker">[</span>**[[1Chr.7.8|8]]**<span class="endversemarker">]</span> And the sons of Becher; Zemira, and Joash, and Eliezer, and Elioenai, and Omri, and Jerimoth, and Abiah, and Anathoth, and Alameth. All these \[are\] the sons of Becher. <span class="startversemarker">[</span>**[[1Chr.7.9|9]]**<span class="endversemarker">]</span> And the number of them, after their genealogy by their generations, heads of the house of their fathers, mighty men of valour, \[was\] twenty thousand and two hundred. <span class="startversemarker">[</span>**[[1Chr.7.10|10]]**<span class="endversemarker">]</span> The sons also of Jediael; Bilhan: and the sons of Bilhan; Jeush, and Benjamin, and Ehud<small><small>[^8]</small></small>, and Chenaanah, and Zethan, and Tharshish, and Ahishahar. <span class="startversemarker">[</span>**[[1Chr.7.11|11]]**<span class="endversemarker">]</span> All these the sons of Jediael, by the heads of their fathers, mighty men<small><small>[^9]</small></small> of valour, \[were\] seventeen thousand and two hundred \[soldiers\], fit to go out for war \[and\] battle. <span class="startversemarker">[</span>**[[1Chr.7.12|12]]**<span class="endversemarker">]</span> Shuppim<small><small>[^10]</small></small><small><small>[^11]</small></small> also, and Huppim, the children of Ir<small><small>[^12]</small></small>, \[and\] Hushim, the sons of Aher<small><small>[^13]</small></small>.
 
-***The Descendants of Naphtali*** ^bsb1000
+<big><big>[[1Chr.7.13 The Descendants of Naphtali|⥃]]</big></big>***The Descendants of Naphtali***
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[1Chr.7.13|13]]**<span class="endversemarker">]</span> [¶]The sons of Naphtali; Jahziel<small><small>[^14]</small></small>, and Guni, and Jezer, and Shallum<small><small>[^15]</small></small>, the sons of Bilhah<small><small>[^16]</small></small>.
 
-***The Descendants of Manasseh*** ^bsb1001
+<big><big>[[1Chr.7.14 The Descendants of Manasseh|⥃]]</big></big>***The Descendants of Manasseh***
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[1Chr.7.14|14]]**<span class="endversemarker">]</span> [¶]The sons<small><small>[^17]</small></small> of Manasseh; Ashriel, whom she bare: (\[but\] his concubine the Aramitess bare Machir<small><small>[^18]</small></small> the father of Gilead: <span class="startversemarker">[</span>**[[1Chr.7.15|15]]**<span class="endversemarker">]</span> And Machir took to wife \[the sister\] of Huppim<small><small>[^19]</small></small> and Shuppim, whose sister’s name \[was\] Maachah;) and the name<small><small>[^20]</small></small> of the second \[was\] Zelophehad: and Zelophehad<small><small>[^21]</small></small> had daughters. <span class="startversemarker">[</span>**[[1Chr.7.16|16]]**<span class="endversemarker">]</span> And Maachah the wife of Machir bare a son, and she called his name Peresh; and the name of his brother \[was\] Sheresh; and his sons \[were\] Ulam and Rakem. <span class="startversemarker">[</span>**[[1Chr.7.17|17]]**<span class="endversemarker">]</span> And the sons of Ulam; Bedan<small><small>[^22]</small></small>. These \[were\] the sons of Gilead, the son of Machir, the son of Manasseh. <span class="startversemarker">[</span>**[[1Chr.7.18|18]]**<span class="endversemarker">]</span> And his sister Hammoleketh bare Ishod, and Abi–ezer, and Mahalah.<small><small>[^23]</small></small> <span class="startversemarker">[</span>**[[1Chr.7.19|19]]**<span class="endversemarker">]</span> And the sons of Shemida were, Ahian, and Shechem, and Likhi, and Aniam.
 
-***The Descendants of Ephraim*** ^bsb1002
+<big><big>[[1Chr.7.20 The Descendants of Ephraim|⥃]]</big></big>***The Descendants of Ephraim***
 
  
 
@@ -34,7 +34,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.7.23|23]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[1Chr.7.28|28]]**<span class="endversemarker">]</span> [¶]And their possessions and habitations \[were\], Beth–el<small><small>[^33]</small></small> and the towns thereof, and eastward Naaran<small><small>[^34]</small></small>, and westward Gezer<small><small>[^35]</small></small>, with the towns<small><small>[^36]</small></small> thereof; Shechem also and the towns thereof, unto Gaza and the towns thereof: <span class="startversemarker">[</span>**[[1Chr.7.29|29]]**<span class="endversemarker">]</span> And by the borders of the children of Manasseh<small><small>[^37]</small></small>, Beth–shean<small><small>[^38]</small></small> and her towns, Taanach<small><small>[^39]</small></small> and her towns, Megiddo<small><small>[^40]</small></small> and her towns, Dor and her towns. In these dwelt<small><small>[^41]</small></small> the children of Joseph the son of Israel.
 
-***The Descendants of Asher*** ^bsb1003
+<big><big>[[1Chr.7.30 The Descendants of Asher|⥃]]</big></big>***The Descendants of Asher***
 
  
 

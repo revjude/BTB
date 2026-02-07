@@ -1,12 +1,12 @@
-**Philemon 1:19
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:19**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I Paul have written [it] with mine own hand, I will repay [it]: albeit I do not say to thee how thou owest unto me even thine own self besides.
 <small><sub>**BSB:**</sub></small>
 I, Paul, write this with my own hand. I will repay it—not to mention that you owe me your very self.
 <small><sub>**Literal:**</sub></small>
 I myself Paul did write <the> with my own hand, I myself will repay [it]; that not I may say to you that even yourself to me you owe also.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.18|<< Philemon 1:18]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.20|Philemon 1:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|Ἐγὼ]]</big>**  |Egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

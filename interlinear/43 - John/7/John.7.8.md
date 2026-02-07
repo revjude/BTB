@@ -1,12 +1,12 @@
-**John 7:8
-**<small><sub>**KJV:**</sub></small>
+**John 7:8**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Go ye up unto this feast: I go not up yet unto this feast; for my time is not yet full come.
 <small><sub>**BSB:**</sub></small>
 Go up to the feast on your own. I am not going up to this feast, because My time has not yet come.”
 <small><sub>**Literal:**</sub></small>
 You yourselves do go up to <the> feast this; I myself not am going up to <the> feast this, for <the> My time <the> not yet has been fulfilled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.7|<< John 7:7]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.9|John 7:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do go up |**<big>[[G0305\|ἀνάβητε]]</big>**  |anabēte <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

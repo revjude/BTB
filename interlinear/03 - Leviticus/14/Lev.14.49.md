@@ -1,4 +1,4 @@
-**Leviticus 14:49** 
+**Leviticus 14:49**<big><big>[[Lev.14.48 Cleansing a Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall take to cleanse the house two birds, and cedar wood, and scarlet, and hyssop:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is to take two birds, cedar wood, scarlet yarn, and hyssop to purify the hous
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.48|<< Leviticus 14:48]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.50|Leviticus 14:50 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will take  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3947G\|לָקַ֛ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> la.Kach<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to cleanse from sin  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2398\|חַטֵּ֥א]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> cha.Te'<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

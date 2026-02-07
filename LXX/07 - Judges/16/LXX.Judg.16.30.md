@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Samson said, my soul die with the Philistines. And he leaned in strength, and the house fell upon the satraps, and upon all the people  in it. And the ones having died whom Samson put to death were in  his death many over whom he put to death in  his life. 
-<small><sub>**KJV:**</sub></small>
-And Samson said, Let me die with the Philistines. And he bowed himself with [all his] might; and the house fell upon the lords, and upon all the people that [were] therein. So the dead which he slew at his death were more than [they] which he slew in his life.
-<small><sub>**BSB:**</sub></small>
-Samson said, “Let me die with the Philistines.” Then he pushed with all his might, and the temple fell on the lords and all the people in it. So in his death he killed more than he had killed in his life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.29|<< Judges 16:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.31|Judges 16:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 19:19** 
 <small><sub>**LXX:**</sub></small>
 And the servants of Hadarezer beheld that they failed from in front of Israel, and they ordained with David a peace, and they served him. And Syria wanted not  to help the sons of Ammon any longer. 
-<small><sub>**KJV:**</sub></small>
-And when the servants of Hadarezer saw that they were put to the worse before Israel, they made peace with David, and became his servants: neither would the Syrians help the children of Ammon any more.
-<small><sub>**BSB:**</sub></small>
-When Hadadezer’s subjects saw that they had been defeated by Israel, they made peace with David and became subject to him. So the Arameans were unwilling to help the Ammonites anymore.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.18|<< 1 Chronicles 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.20.1|1 Chronicles 20:1 >>]]</td></tr></table>
 
 | Translation | Greek |

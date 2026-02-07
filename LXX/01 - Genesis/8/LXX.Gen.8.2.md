@@ -1,10 +1,7 @@
 **LXX Genesis 8:2** 
 <small><sub>**LXX:**</sub></small>
 And were revealed the springs of the abyss and the torrents of the heaven. And the rain was constrained from the heaven. 
-<small><sub>**KJV:**</sub></small>
-The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;
-<small><sub>**BSB:**</sub></small>
-The springs of the deep and the floodgates of the heavens were closed, and the rain from the sky was restrained.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.1|<< Genesis 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.3|Genesis 8:3 >>]]</td></tr></table>
 
 | Translation | Greek |

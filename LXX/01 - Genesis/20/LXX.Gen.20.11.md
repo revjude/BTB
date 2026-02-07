@@ -1,10 +1,7 @@
 **LXX Genesis 20:11** 
 <small><sub>**LXX:**</sub></small>
 And Abraham said, For I said, Surely there is not godliness in  this place, and they will kill me because  of my wife. 
-<small><sub>**KJV:**</sub></small>
-And Abraham said, Because I thought, Surely the fear of God [is] not in this place; and they will slay me for my wife’s sake.
-<small><sub>**BSB:**</sub></small>
-Abraham replied, “I thought to myself, ‘Surely there is no fear of God in this place. They will kill me on account of my wife.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.20.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.10|<< Genesis 20:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.12|Genesis 20:12 >>]]</td></tr></table>
 
 | Translation | Greek |

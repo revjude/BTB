@@ -1,4 +1,4 @@
-**Genesis 29:20** 
+**Genesis 29:20**<big><big>[[Gen.29.14 Jacob Marries Leah and Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob served seven years for Rachel; and they seemed unto him [but] a few days, for the love he had to her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jacob served seven years for Rachel, yet it seemed but a few days because of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.19|<< Genesis 29:19]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.21|Genesis 29:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he served  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5647G\|יַּעֲבֹ֧ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֛ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

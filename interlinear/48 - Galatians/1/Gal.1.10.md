@@ -1,12 +1,12 @@
-**Galatians 1:10
-**<small><sub>**KJV:**</sub></small>
+**Galatians 1:10**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.
 <small><sub>**BSB:**</sub></small>
 Am I now seeking the approval of men, or of God? Or am I striving to please men? If I were still trying to please men, I would not be a servant of Christ.
 <small><sub>**Literal:**</sub></small>
 Presently for of men do I seek approval or <the> God? Or do I seek men to please? if for yet men I were pleasing, of Christ a servant not then would I was being.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.9|<< Galatians 1:9]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.11|Galatians 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Presently |**<big>[[G0737\|ἄρτι]]</big>**  |arti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

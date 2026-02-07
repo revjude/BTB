@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:17** 
 <small><sub>**LXX:**</sub></small>
 For also even they went down with him into Hades with the ones slain by \[the\] sword; and  his seed  dwelling under  his protection were destroyed in the middle of their life. 
-<small><sub>**KJV:**</sub></small>
-They also went down into hell with him unto [them that be] slain with the sword; and [they that were] his arm, [that] dwelt under his shadow in the midst of the heathen.
-<small><sub>**BSB:**</sub></small>
-They too descended with it to Sheol, to those slain by the sword. As its allies they had lived in its shade among the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.16|<< Ezekiel 31:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.31.18|Ezekiel 31:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 31:17** is...

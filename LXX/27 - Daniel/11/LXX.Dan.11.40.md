@@ -1,10 +1,7 @@
 **LXX Daniel 11:40** 
 <small><sub>**LXX:**</sub></small>
 And in end time he will mix horns with the king of the south; and \[the\] king of the north shall be gathered together unto him with chariots, and with horsemen, and with many ships. And he shall enter into the land, and he shall break and go by. 
-<small><sub>**KJV:**</sub></small>
-And at the time of the end shall the king of the south push at him: and the king of the north shall come against him like a whirlwind, with chariots, and with horsemen, and with many ships; and he shall enter into the countries, and shall overflow and pass over.
-<small><sub>**BSB:**</sub></small>
-At the time of the end, the king of the South will engage him in battle, but the king of the North will storm out against him with chariots, horsemen, and many ships, invading many countries and sweeping through them like a flood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.39|<< Daniel 11:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.41|Daniel 11:41 >>]]</td></tr></table>
 
 | Translation | Greek |

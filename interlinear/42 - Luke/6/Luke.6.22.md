@@ -1,12 +1,12 @@
-**Luke 6:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:22**<big><big>[[Luke.6.20 The Beatitudes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Blessed are ye, when men shall hate you, and when they shall separate you [from their company], and shall reproach [you], and cast out your name as evil, for the Son of man’s sake.
 <small><sub>**BSB:**</sub></small>
 Blessed are you when people hate you, and when they exclude you and insult you and reject your name as evil because of the Son of Man.
 <small><sub>**Literal:**</sub></small>
 Blessed are you when may hate you <the> men and when they may exclude you and they may insult [you] and they may cast out the name of you as evil on account of the Son <the> of Man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.21|<< Luke 6:21]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.23|Luke 6:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Blessed |**<big>[[G3107\|Μακάριοί]]</big>**  |Makarioi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are you |**<big>[[G1510\|ἐστε,]]</big>**  |este <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

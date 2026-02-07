@@ -1,10 +1,7 @@
 **LXX Daniel 2:41** 
 <small><sub>**LXX:**</sub></small>
 And that \[which\] you beheld of the feet and of the toes, part somewhat earthenware, and part somewhat of iron, will be a kingdom divided; and \[some\] from the root  of iron will be in it, in which manner you beheld the iron being intermingled with the potsherd. 
-<small><sub>**KJV:**</sub></small>
-And whereas thou sawest the feet and toes, part of potters’ clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.
-<small><sub>**BSB:**</sub></small>
-And just as you saw that the feet and toes were made partly of fired clay and partly of iron, so this will be a divided kingdom, yet some of the strength of iron will be in it—just as you saw the iron mixed with clay.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.40|<< Daniel 2:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.42|Daniel 2:42 >>]]</td></tr></table>
 
 | Translation | Greek |

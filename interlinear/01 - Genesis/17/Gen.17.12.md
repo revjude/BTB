@@ -1,4 +1,4 @@
-**Genesis 17:12** 
+**Genesis 17:12**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that is eight days old shall be circumcised among you, every man child in your generations, he that is born in the house, or bought with money of any stranger, which [is] not of thy seed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Generation after generation, every male must be circumcised when he is eight day
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.11|<< Genesis 17:11]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.13|Genesis 17:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a son of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121L\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eight  |**<big>&#8207;[[H8083\|שְׁמֹנַ֣ת]]&#8207; </big>**| she.mo.Nat<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

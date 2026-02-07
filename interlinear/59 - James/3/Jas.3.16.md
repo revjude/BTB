@@ -1,12 +1,12 @@
-**James 3:16
-**<small><sub>**KJV:**</sub></small>
+**James 3:16**<big><big>[[Jas.3.13 The Wisdom from Above|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For where envying and strife [is], there [is] confusion and every evil work.
 <small><sub>**BSB:**</sub></small>
 For where jealousy and selfish ambition exist, there will be disorder and every evil practice.
 <small><sub>**Literal:**</sub></small>
 Where for jealousy and self-interest [exist], there [will be] disorder and every evil thing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.15|<< James 3:15]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.17|James 3:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Where |**<big>[[G3699\|ὅπου]]</big>**  |hopou <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

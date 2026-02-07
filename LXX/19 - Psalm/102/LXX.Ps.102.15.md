@@ -1,10 +1,7 @@
 **LXX Psalm 102:15** 
 <small><sub>**LXX:**</sub></small>
 And the nations shall fear the name of \[the\] <span class="smallcaps">lord</span>, and all the kings of the earth  your glory. 
-<small><sub>**KJV:**</sub></small>
-So the heathen shall fear the name of the LORD, and all the kings of the earth thy glory.
-<small><sub>**BSB:**</sub></small>
-So the nations will fear the name of the LORD, and all the kings of the earth will fear Your glory.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.14|<< Psalm 102:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.16|Psalm 102:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 29:10** (29:9)
+**Deuteronomy 29:10**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye stand this day all of you before the LORD your God; your captains of your tribes, your elders, and your officers, [with] all the men of Israel,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All of you are standing today before the LORD your God—you leaders of tribes, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.9|<< Deuteronomy 29:9]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.11|Deuteronomy 29:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859D\|אַתֶּ֨ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] standing  |**<big>&#8207;[[H5324\|נִצָּבִ֤ים]]&#8207; </big>**| ni.tza.Vim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 94:2** 
+**Psalms 94:2**<big><big>[[Ps.94.1 The LORD Will Not Forget His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift up thyself, thou judge of the earth: render a reward to the proud.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rise up, O Judge of the earth; render a reward to the proud.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.94.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.94.1|<< Psalms 94:1]]</td><td align="center" style="border:none;">[[Ps.94|Psalms 94]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.94.3|Psalms 94:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | raise yourself up  |**<big>&#8207;[[H5375G\|הִ֭נָּשֵׂא]]&#8207; </big>**| Hi.na.se'<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O judge of  |**<big>&#8207;[[H8199\|שֹׁפֵ֣ט]]&#8207; </big>**| sho.Fet<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

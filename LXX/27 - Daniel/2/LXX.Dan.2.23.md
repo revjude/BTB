@@ -1,10 +1,7 @@
 **LXX Daniel 2:23** 
 <small><sub>**LXX:**</sub></small>
 To you, O God  of my fathers, I acknowledge and praise, for wisdom and power you gave to me, and made known to me what we petitioned from you; and the matter of the king you made known to me. 
-<small><sub>**KJV:**</sub></small>
-I thank thee, and praise thee, O thou God of my fathers, who hast given me wisdom and might, and hast made known unto me now what we desired of thee: for thou hast [now] made known unto us the king’s matter.
-<small><sub>**BSB:**</sub></small>
-To You, O God of my fathers, I give thanks and praise, because You have given me wisdom and power. And now You have made known to me what we have requested, for You have made known to us the dream of the king.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.22|<< Daniel 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.24|Daniel 2:24 >>]]</td></tr></table>
 
 | Translation | Greek |

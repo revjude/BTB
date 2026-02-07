@@ -1,4 +1,4 @@
-**Exodus 14:23** 
+**Exodus 14:23**<big><big>[[Exod.14.15 Parting the Red Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Egyptians pursued, and went in after them to the midst of the sea, [even] all Pharaoh’s horses, his chariots, and his horsemen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the Egyptians chased after them—all Pharaoh’s horses, chariots, and hors
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.22|<< Exodus 14:22]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.24|Exodus 14:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they pursued  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7291\|יִּרְדְּפ֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.de.Fu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Egypt  |**<big>&#8207;[[H4713\|מִצְרַ֙יִם֙]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 90:10** 
 <small><sub>**LXX:**</sub></small>
 The days  of our years among them \[are\] seventy years; but if by commands -- eighty years, but  much of them toil and misery; for mellowing comes upon us, and we shall be corrected. 
-<small><sub>**KJV:**</sub></small>
-The days of our years [are] threescore years and ten; and if by reason of strength [they be] fourscore years, yet [is] their strength labour and sorrow; for it is soon cut off, and we fly away.
-<small><sub>**BSB:**</sub></small>
-The length of our days is seventy years—or eighty if we are strong—yet their pride is but labor and sorrow, for they quickly pass, and we fly away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.90.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.9|<< Psalm 90:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.11|Psalm 90:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 8:37** 
+**1 Kings 8:37**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If there be in the land famine, if there be pestilence, blasting, mildew, locust, [or] if there be caterpiller; if their enemy besiege them in the land of their cities; whatsoever plague, whatsoever sickness [there be];
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When famine or plague comes upon the land, or blight or mildew or locusts or gra
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.36|<< 1 Kings 8:36]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.38|1 Kings 8:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | famine  |**<big>&#8207;[[H7458\|רָעָ֞ב]]&#8207; </big>**| ra.'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

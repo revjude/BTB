@@ -1,4 +1,4 @@
-**2 Chronicles 16:11** 
+**2 Chronicles 16:11**<big><big>[[2Chr.16.11 The Death and Burial of Asa|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, the acts of Asa, first and last, lo, they [are] written in the book of the kings of Judah and Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the acts of Asa, from beginning to end, are indeed written in the Book of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.10|<< 2 Chronicles 16:10]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.12|2 Chronicles 16:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] matters of  |**<big>&#8207;[[H1697K\|דִּבְרֵ֣י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Samuel said to every man of Israel, Behold, I hearkened to  your voice in all as many \[things\] as you said to me, and I gave reign over you a king. 
-<small><sub>**KJV:**</sub></small>
-And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you.
-<small><sub>**BSB:**</sub></small>
-Then Samuel said to all Israel, “I have listened to your voice in all that you have said to me, and I have set over you a king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.15|<< 1 Samuel 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.2|1 Samuel 12:2 >>]]</td></tr></table>
 
 | Translation | Greek |

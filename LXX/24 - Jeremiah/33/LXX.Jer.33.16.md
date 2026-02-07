@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:16** 
 <small><sub>**LXX:**</sub></small>
 In  those days Judah shall be delivered, and Jerusalem shall dwell securely. And this is the name  they shall call him, \[The\] <span class="smallcaps">lord</span> our Justice. 
-<small><sub>**KJV:**</sub></small>
-In those days shall Judah be saved, and Jerusalem shall dwell safely: and this [is the name] wherewith she shall be called, The LORD our righteousness.
-<small><sub>**BSB:**</sub></small>
-In those days Judah will be saved, and Jerusalem will dwell securely, and this is the name by which it will be called: The LORD Our Righteousness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.15|<< Jeremiah 33:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.17|Jeremiah 33:17 >>]]</td></tr></table>
 
 | Translation | Greek |

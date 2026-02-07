@@ -1,12 +1,12 @@
-**John 3:10
-**<small><sub>**KJV:**</sub></small>
+**John 3:10**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?
 <small><sub>**BSB:**</sub></small>
 “You are Israel’s teacher,” said Jesus, “and you do not understand these things?
 <small><sub>**Literal:**</sub></small>
 Answered <the> Jesus and said to him; You yourself are the teacher <the> of Israel and these things not know?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.9|<< John 3:9]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.11|John 3:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|Ἀπεκρίθη]]</big>**  |Apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR">k</abbr> | |

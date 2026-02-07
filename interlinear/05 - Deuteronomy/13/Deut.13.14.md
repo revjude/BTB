@@ -1,4 +1,4 @@
-**Deuteronomy 13:14** (13:15)
+**Deuteronomy 13:14**<big><big>[[Deut.13.12 Idolatrous Cities to Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou inquire, and make search, and ask diligently; and, behold, [if it be] truth, [and] the thing certain, [that] such abomination is wrought among you;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then you must inquire, investigate, and interrogate thoroughly. And if it is est
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.13|<< Deuteronomy 13:13]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.15|Deuteronomy 13:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will investigate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1875\|דָרַשְׁתָּ֧]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> da.rash.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will search  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2713\|חָקַרְתָּ֧]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.kar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

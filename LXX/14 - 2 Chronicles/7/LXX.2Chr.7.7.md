@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 7:7** 
 <small><sub>**LXX:**</sub></small>
 And Solomon sanctified the middle of the courtyard, of the one in \[the\] house of \[the\] <span class="smallcaps">lord</span>; for he offered there the whole burnt-offerings, and the fat of the deliverance \[offerings\]; for the altar  of brass which Solomon made did not suffice to take the whole burnt-offerings, and the gift offerings, and the fat. 
-<small><sub>**KJV:**</sub></small>
-Moreover Solomon hallowed the middle of the court that [was] before the house of the LORD: for there he offered burnt offerings, and the fat of the peace offerings, because the brasen altar which Solomon had made was not able to receive the burnt offerings, and the meat offerings, and the fat.
-<small><sub>**BSB:**</sub></small>
-Then Solomon consecrated the middle of the courtyard in front of the house of the LORD, and there he offered the burnt offerings and the fat of the peace offerings, since the bronze altar he had made could not hold all these offerings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.6|<< 2 Chronicles 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.8|2 Chronicles 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

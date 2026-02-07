@@ -1,10 +1,7 @@
 **LXX Psalm 120:4** 
 <small><sub>**LXX:**</sub></small>
 The arrows of the mighty \[are\] being sharpened with the solitary coals. 
-<small><sub>**KJV:**</sub></small>
-Sharp arrows of the mighty, with coals of juniper.
-<small><sub>**BSB:**</sub></small>
-Sharp arrows will come from the warrior, with burning coals of the broom tree!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.120.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.120.3|<< Psalm 120:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.120.5|Psalm 120:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 23:34** 
 <small><sub>**LXX:**</sub></small>
 and you shall recline as if in \[the\] heart of \[the\] sea; and as a navigator in a great swell; 
-<small><sub>**KJV:**</sub></small>
-Yea, thou shalt be as he that lieth down in the midst of the sea, or as he that lieth upon the top of a mast.
-<small><sub>**BSB:**</sub></small>
-You will be like one sleeping on the high seas or lying on the top of a mast:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.33|<< Proverbs 23:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.35|Proverbs 23:35 >>]]</td></tr></table>
 
 | Translation | Greek |

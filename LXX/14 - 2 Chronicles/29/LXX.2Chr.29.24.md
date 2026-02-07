@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:24** 
 <small><sub>**LXX:**</sub></small>
 And the priests sacrificed them, and atoned  of their blood against the altar, and they atoned for all Israel; for the king said, for all Israel \[is\] the whole burnt-offering, and the ones for a sin \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And the priests killed them, and they made reconciliation with their blood upon the altar, to make an atonement for all Israel: for the king commanded [that] the burnt offering and the sin offering [should be made] for all Israel.
-<small><sub>**BSB:**</sub></small>
-And the priests slaughtered the goats and put their blood on the altar for a sin offering, to make atonement for all Israel, because the king had ordered the burnt offering and the sin offering for all Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.23|<< 2 Chronicles 29:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.25|2 Chronicles 29:25 >>]]</td></tr></table>
 
 | Translation | Greek |

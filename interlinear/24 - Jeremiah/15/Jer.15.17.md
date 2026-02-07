@@ -1,4 +1,4 @@
-**Jeremiah 15:17** 
+**Jeremiah 15:17**<big><big>[[Jer.15.10 Jeremiah’s Woe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I sat not in the assembly of the mockers, nor rejoiced; I sat alone because of thy hand: for thou hast filled me with indignation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I never sat with the band of revelers, nor did I celebrate with them. Because Yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.16|<< Jeremiah 15:16]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.18|Jeremiah 15:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I sat  |**<big>&#8207;[[H3427\|יָשַׁ֥בְתִּי]]&#8207; </big>**| ya.Shav.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

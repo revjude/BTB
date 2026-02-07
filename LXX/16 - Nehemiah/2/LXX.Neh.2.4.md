@@ -1,10 +1,7 @@
 **LXX Nehemiah 2:4** 
 <small><sub>**LXX:**</sub></small>
 And the king said to me, For what \[is\] this you seek? And I prayed to \[the\] <span class="smallcaps">lord</span> God  of heaven. 
-<small><sub>**KJV:**</sub></small>
-Then the king said unto me, For what dost thou make request? So I prayed to the God of heaven.
-<small><sub>**BSB:**</sub></small>
-“What is your request?” replied the king. So I prayed to the God of heaven<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.3|<< Nehemiah 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.5|Nehemiah 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

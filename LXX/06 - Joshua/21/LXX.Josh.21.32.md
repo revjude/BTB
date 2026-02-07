@@ -1,10 +1,7 @@
 **LXX Joshua 21:32** 
 <small><sub>**LXX:**</sub></small>
 And from out of the tribe of Naphtali, the cities  being separated for the one manslaying --  Kedesh in  Galilee and the \[parts\] being separated  with it, and  Hamoth-dor and the \[parts\] being separated  with it, and  Kartan and the \[parts\] being separated  with it -- three cities. 
-<small><sub>**KJV:**</sub></small>
-And out of the tribe of Naphtali, Kedesh in Galilee with her suburbs, [to be] a city of refuge for the slayer; and Hammothdor with her suburbs, and Kartan with her suburbs; three cities.
-<small><sub>**BSB:**</sub></small>
-And from the tribe of Naphtali they were given Kedesh in Galilee (a city of refuge for the manslayer), Hammoth-dor, and Kartan—three cities, together with their pasturelands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.31|<< Joshua 21:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.33|Joshua 21:33 >>]]</td></tr></table>
 
 | Translation | Greek |

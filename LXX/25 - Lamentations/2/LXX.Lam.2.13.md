@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΜΗΜ</p>
 
 What shall I testify? or what shall I liken to you, O daughter of Jerusalem? Who shall deliver you, O virgin daughter of Zion? For \[the\] cup of your destruction was enlarged; Who shall heal you? 
-<small><sub>**KJV:**</sub></small>
-What thing shall I take to witness for thee? what thing shall I liken to thee, O daughter of Jerusalem? what shall I equal to thee, that I may comfort thee, O virgin daughter of Zion? for thy breach [is] great like the sea: who can heal thee?
-<small><sub>**BSB:**</sub></small>
-What can I say for you? To what can I compare you, O Daughter of Jerusalem? To what can I liken you, that I may console you, O Virgin Daughter of Zion? For your wound is as deep as the sea. Who can ever heal you?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.12|<< Lamentations 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.14|Lamentations 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

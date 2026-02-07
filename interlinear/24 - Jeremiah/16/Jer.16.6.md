@@ -1,4 +1,4 @@
-**Jeremiah 16:6** 
+**Jeremiah 16:6**<big><big>[[Jer.16.1 Disaster Predicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Both the great and the small shall die in this land: they shall not be buried, neither shall [men] lament for them, nor cut themselves, nor make themselves bald for them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Both the great and the small shall die in this land: they shall not be buried, n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.5|<< Jeremiah 16:5]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.7|Jeremiah 16:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will die  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4191\|מֵ֨תוּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Me.tu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | great [people]  |**<big>&#8207;[[H1419A\|גְדֹלִ֧ים]]&#8207; </big>**| ge.do.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

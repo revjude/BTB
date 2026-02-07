@@ -1,12 +1,12 @@
-**Luke 23:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:22**<big><big>[[Luke.23.13 The Crowd Chooses Barabbas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them the third time, Why, what evil hath he done? I have found no cause of death in him: I will therefore chastise him, and let [him] go.
 <small><sub>**BSB:**</sub></small>
 A third time he said to them, “What evil has this man done? I have found in Him no offense worthy of death. So after I punish Him, I will release Him.”
 <small><sub>**Literal:**</sub></small>
 <the> And a third [time] he said to them; What for evil did commit this [man]? No [thing] worthy of death found I in Him. Having chastised therefore Him I will release [Him].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.21|<< Luke 23:21]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.23|Luke 23:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

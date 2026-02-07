@@ -1,10 +1,7 @@
 **LXX Daniel 5:12** 
 <small><sub>**LXX:**</sub></small>
 For extra spirit \[is\] in him, and intelligence, and understanding of interpreting dreams, and reporting things held, and untying things bonded together -- \[it is\] Daniel, and the king put to him \[the\] name -- Belteshazzar. Now then let \[him\] be called! and  its interpretation he will announce to you. 
-<small><sub>**KJV:**</sub></small>
-Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.
-<small><sub>**BSB:**</sub></small>
-did this because Daniel, the one he named Belteshazzar, was found to have an extraordinary spirit, as well as knowledge, understanding, and the ability to interpret dreams, explain riddles, and solve difficult problems. Summon Daniel, therefore, and he will give you the interpretation.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.11|<< Daniel 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.13|Daniel 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

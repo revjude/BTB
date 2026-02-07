@@ -1,10 +1,7 @@
 **LXX Isaiah 36:3** 
 <small><sub>**LXX:**</sub></small>
 And there came forth to him, Eliakim, the \[son of\] Hilkiah the manager, and Shebna the scribe, and Joah, the \[son of\] Asaph, the recorder. 
-<small><sub>**KJV:**</sub></small>
-Then came forth unto him Eliakim, Hilkiah’s son, which was over the house, and Shebna the scribe, and Joah, Asaph’s son, the recorder.
-<small><sub>**BSB:**</sub></small>
-Then Eliakim son of Hilkiah the palace administrator, Shebna the scribe, and Joah son of Asaph the recorder, went out to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.36.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.2|<< Isaiah 36:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.4|Isaiah 36:4 >>]]</td></tr></table>
 
 | Translation | Greek |

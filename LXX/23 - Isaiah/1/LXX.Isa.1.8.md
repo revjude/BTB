@@ -1,10 +1,7 @@
 **LXX Isaiah 1:8** 
 <small><sub>**LXX:**</sub></small>
 The daughter of Zion shall be abandoned as a tent in a vineyard, and as a storehouse in a cucumber garden, as a city being assaulted. 
-<small><sub>**KJV:**</sub></small>
-And the daughter of Zion is left as a cottage in a vineyard, as a lodge in a garden of cucumbers, as a besieged city.
-<small><sub>**BSB:**</sub></small>
-And the Daughter of Zion is abandoned like a shelter in a vineyard, like a shack in a cucumber field, like a city besieged.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.7|<< Isaiah 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.9|Isaiah 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 3:31** 
 <small><sub>**LXX:**</sub></small>
 And  their watch \[is\] the ark, and the table, and the lamp-stand, and the altars, and the items of the holy \[place\], as many as they officiate with them, and the overcovering, and all  their works. 
-<small><sub>**KJV:**</sub></small>
-And their charge [shall be] the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the hanging, and all the service thereof.
-<small><sub>**BSB:**</sub></small>
-Their duties were the ark, the table, the lampstand, the altars, the articles of the sanctuary used with them, and the curtain—all the service for these items.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.30|<< Numbers 3:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.32|Numbers 3:32 >>]]</td></tr></table>
 
 | Translation | Greek |

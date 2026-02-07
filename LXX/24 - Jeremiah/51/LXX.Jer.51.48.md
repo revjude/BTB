@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:48** 
 <small><sub>**LXX:**</sub></small>
 And shall be glad over Babylon the heavens and the earth, and all the ones in them. For from \[the\] north comes to him ones utterly destroying, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Then the heaven and the earth, and all that [is] therein, shall sing for Babylon: for the spoilers shall come unto her from the north, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Then heaven and earth and all that is in them will shout for joy over Babylon because the destroyers from the north will come against her,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.47|<< Jeremiah 51:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.49|Jeremiah 51:49 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 51:48** is...

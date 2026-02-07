@@ -1,10 +1,7 @@
 **LXX Genesis 49:15** 
 <small><sub>**LXX:**</sub></small>
 And seeing the rest, that \[it was\] good, and the earth, that \[it was\] plentiful, he placed  his shoulder to the toil, and became a man for farming. 
-<small><sub>**KJV:**</sub></small>
-And he saw that rest [was] good, and the land that [it was] pleasant; and bowed his shoulder to bear, and became a servant unto tribute.
-<small><sub>**BSB:**</sub></small>
-He saw that his resting place was good and that his land was pleasant, so he bent his shoulder to the burden and submitted to labor as a servant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.14|<< Genesis 49:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.16|Genesis 49:16 >>]]</td></tr></table>
 
 | Translation | Greek |

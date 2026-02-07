@@ -1,4 +1,4 @@
-**Jeremiah 48:2** 
+**Jeremiah 48:2**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There shall be] no more praise of Moab: in Heshbon they have devised evil against it; come, and let us cut it off from [being] a nation. Also thou shalt be cut down, O Madmen; the sword shall pursue thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is no longer praise for Moab; in Heshbon they devise evil against her: ‘
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.1|<< Jeremiah 48:1]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.3|Jeremiah 48:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵ֣ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|עוֹד֮]]&#8207; </big>**| 'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 49:20** 
 <small><sub>**LXX:**</sub></small>
 For your sons whom you have lost shall say in your ears, The place \[is too\] narrow for me, make for me a place that I shall dwell! 
-<small><sub>**KJV:**</sub></small>
-The children which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place [is] too strait for me: give place to me that I may dwell.
-<small><sub>**BSB:**</sub></small>
-Yet the children of your bereavement will say in your hearing, ‘This place is too small for us; make room for us to live here.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.19|<< Isaiah 49:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.21|Isaiah 49:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 16:5
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:5**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So he called every one of his lord’s debtors [unto him], and said unto the first, How much owest thou unto my lord?
 <small><sub>**BSB:**</sub></small>
 And he called in each one of his master’s debtors. ‘How much do you owe my master?’ he asked the first.
 <small><sub>**Literal:**</sub></small>
 And having called to [him] one each of the debtors of the master his own he was saying to the first; How much owe you to the master of me?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.4|<< Luke 16:4]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.6|Luke 16:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having called to [him] |**<big>[[G4341\|προσκαλεσάμενος]]</big>**  |proskalesamenos <small><sup>[[V-ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Colossians 2:12
-**<small><sub>**KJV:**</sub></small>
+**Colossians 2:12**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Buried with him in baptism, wherein also ye are risen with [him] through the faith of the operation of God, who hath raised him from the dead.
 <small><sub>**BSB:**</sub></small>
 And having been buried with Him in baptism, you were raised with Him through your faith in the power of God, who raised Him from the dead.
 <small><sub>**Literal:**</sub></small>
 having been buried with Him in <the> baptism in which also you were raised with [Him] through the faith of the working <the> of God the [One who] having raised Him out from the dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.11|<< Colossians 2:11]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.13|Colossians 2:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having been buried with |**<big>[[G4916\|συνταφέντες]]</big>**  |suntaphentes <small><sup>[[V-2APP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

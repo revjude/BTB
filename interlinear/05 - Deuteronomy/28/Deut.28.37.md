@@ -1,4 +1,4 @@
-**Deuteronomy 28:37** 
+**Deuteronomy 28:37**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the LORD shall lead thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will become an object of horror, scorn, and ridicule among all the nations t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.36|<< Deuteronomy 28:36]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.38|Deuteronomy 28:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיִ֣יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yi.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<into> a horror  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8047H\|שַׁמָּ֔ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

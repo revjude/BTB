@@ -1,4 +1,4 @@
-**2 Kings 23:20** 
+**2 Kings 23:20**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he slew all the priests of the high places that [were] there upon the altars, and burned men’s bones upon them, and returned to Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the altars he slaughtered all the priests of the high places, and he burned h
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.19|<< 2 Kings 23:19]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.21|2 Kings 23:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he slaughtered  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H2076\|יִּזְבַּח]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yiz.bach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

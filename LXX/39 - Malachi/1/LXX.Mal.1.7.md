@@ -1,10 +1,7 @@
 **LXX Malachi 1:7** 
 <small><sub>**LXX:**</sub></small>
 In bringing to  my altar polluted bread loaves. And you say, We polluted in what? In  your saying, \[The\] table of \[the\] <span class="smallcaps">lord</span> is polluted; and the \[things\] being placed upon it are \[thereby\] treated with contempt. 
-<small><sub>**KJV:**</sub></small>
-Ye offer polluted bread upon mine altar; and ye say, Wherein have we polluted thee? In that ye say, The table of the LORD [is] contemptible.
-<small><sub>**BSB:**</sub></small>
-By presenting defiled food on My altar. But you ask, ‘How have we defiled You?’ By saying that the table of the LORD is contemptible.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.1.6|<< Malachi 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.1.8|Malachi 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

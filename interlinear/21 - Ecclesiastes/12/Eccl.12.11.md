@@ -1,4 +1,4 @@
-**Ecclesiastes 12:11** 
+**Ecclesiastes 12:11**<big><big>[[Eccl.12.9 The Whole Duty of Man|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of the wise [are] as goads, and as nails fastened [by] the masters of assemblies, [which] are given from one shepherd.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The words of the wise are like goads, and the anthologies of the masters are lik
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.10|<< Ecclesiastes 12:10]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.12|Ecclesiastes 12:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵ֤י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wise [people]  |**<big>&#8207;[[H2450\|חֲכָמִים֙]]&#8207; </big>**| cha.kha.Mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

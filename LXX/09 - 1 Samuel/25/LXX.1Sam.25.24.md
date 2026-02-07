@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:24** 
 <small><sub>**LXX:**</sub></small>
 And she fell by his feet, and she said, On me, O my lord, \[be\] the injustice. indeed your maidservant speak into  your ears, and you hear the words  of your maidservant! 
-<small><sub>**KJV:**</sub></small>
-And fell at his feet, and said, Upon me, my lord, [upon] me [let this] iniquity [be]: and let thine handmaid, I pray thee, speak in thine audience, and hear the words of thine handmaid.
-<small><sub>**BSB:**</sub></small>
-She fell at his feet and said, “My lord, may the blame be on me alone, but please let your servant speak to you; hear the words of your servant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.23|<< 1 Samuel 25:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.25|1 Samuel 25:25 >>]]</td></tr></table>
 
 | Translation | Greek |

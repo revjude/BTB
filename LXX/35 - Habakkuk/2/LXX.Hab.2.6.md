@@ -1,10 +1,7 @@
 **LXX Habakkuk 2:6** 
 <small><sub>**LXX:**</sub></small>
 take up not all these a parable against him, and a riddle for his narrative? And they shall say, Woe, the one multiplying to himself the \[things\] not being his -- how long? even \[the\] one oppressing  his collar densely. 
-<small><sub>**KJV:**</sub></small>
-Shall not all these take up a parable against him, and a taunting proverb against him, and say, Woe to him that increaseth [that which is] not his! how long? and to him that ladeth himself with thick clay!
-<small><sub>**BSB:**</sub></small>
-Will not all of these take up a taunt against him, speaking with mockery and derision: ‘Woe to him who amasses what is not his and makes himself rich with many loans! How long will this go on?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.5|<< Habakkuk 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.2.7|Habakkuk 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

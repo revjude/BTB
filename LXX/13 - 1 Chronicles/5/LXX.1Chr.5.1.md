@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Reuben \[the\] first-born of Israel -- for he \[was\] the first-born, but in the profaning the strewn bed  of his father, his rights of the first-born was given to \[the\] sons of Joseph, son of Israel. And he did not trace descent for rights of the first-born. 
-<small><sub>**KJV:**</sub></small>
-Now the sons of Reuben the firstborn of Israel, (for he [was] the firstborn; but, forasmuch as he defiled his father’s bed, his birthright was given unto the sons of Joseph the son of Israel: and the genealogy is not to be reckoned after the birthright.
-<small><sub>**BSB:**</sub></small>
-These were the sons of Reuben the firstborn of Israel. Though he was the firstborn, his birthright was given to the sons of Joseph son of Israel, because Reuben defiled his father’s bed. So he is not reckoned according to birthright.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.43|<< 1 Chronicles 4:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.2|1 Chronicles 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

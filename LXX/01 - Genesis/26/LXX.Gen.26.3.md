@@ -1,10 +1,7 @@
 **LXX Genesis 26:3** 
 <small><sub>**LXX:**</sub></small>
 And sojourn in  this land! And I will be with you, and I will bless you. For to you and  your seed I will give all  this land. And I will establish  my oath, which I swore  to Abraham  your father. 
-<small><sub>**KJV:**</sub></small>
-Sojourn in this land, and I will be with thee, and will bless thee; for unto thee, and unto thy seed, I will give all these countries, and I will perform the oath which I sware unto Abraham thy father;
-<small><sub>**BSB:**</sub></small>
-Stay in this land as a foreigner, and I will be with you and bless you. For I will give all these lands to you and your offspring, and I will confirm the oath that I swore to your father Abraham.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.2|<< Genesis 26:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.4|Genesis 26:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 8:25** (8:21)
+**Exodus 8:25**<big><big>[[Exod.8.20 The Fourth Plague：Flies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh called for Moses and for Aaron, and said, Go ye, sacrifice to your God in the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Pharaoh summoned Moses and Aaron and said, “Go, sacrifice to your God wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.24|<< Exodus 8:24]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.26|Exodus 8:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקְרָ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547J\|פַרְעֹ֔ה]]&#8207; </big>**| far.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

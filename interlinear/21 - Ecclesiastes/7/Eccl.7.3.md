@@ -1,4 +1,4 @@
-**Ecclesiastes 7:3** 
+**Ecclesiastes 7:3**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sorrow [is] better than laughter: for by the sadness of the countenance the heart is made better.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sorrow is better than laughter, for a sad countenance is good for the heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.2|<< Ecclesiastes 7:2]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.4|Ecclesiastes 7:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֥וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | vexation  |**<big>&#8207;[[H3708A\|כַּ֖עַס]]&#8207; </big>**| Ka.'as<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

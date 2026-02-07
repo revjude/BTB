@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass of their going and speaking, that behold, a chariot of fire, and horses of fire, and they drew apart between both; and Elijah was taken up in a rumbling unto into the heaven. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as they still went on, and talked, that, behold, [there appeared] a chariot of fire, and horses of fire, and parted them both asunder; and Elijah went up by a whirlwind into heaven.
-<small><sub>**BSB:**</sub></small>
-As they were walking along and talking together, suddenly a chariot of fire with horses of fire appeared and separated the two of them, and Elijah went up into heaven in a whirlwind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.10|<< 2 Kings 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.12|2 Kings 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

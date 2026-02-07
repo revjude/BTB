@@ -1,4 +1,4 @@
-**2 Chronicles 25:11** 
+**2 Chronicles 25:11**<big><big>[[2Chr.25.5 Amaziah’s Victories|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Amaziah strengthened himself, and led forth his people, and went to the valley of salt, and smote of the children of Seir ten thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Amaziah, however, summoned his strength and led his troops to the Valley of Salt
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.10|<< 2 Chronicles 25:10]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.12|2 Chronicles 25:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Amaziah  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0558G\|אֲמַצְיָ֙הוּ֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.matz.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he strengthened himself  |**<big>&#8207;[[H2388G\|הִתְחַזַּ֔ק]]&#8207; </big>**| hit.cha.Zak<small><sup>[[HVtp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

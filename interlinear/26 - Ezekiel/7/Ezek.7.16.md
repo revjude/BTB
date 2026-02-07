@@ -1,4 +1,4 @@
-**Ezekiel 7:16** 
+**Ezekiel 7:16**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they that escape of them shall escape, and shall be on the mountains like doves of the valleys, all of them mourning, every one for his iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The survivors will escape and live in the mountains, moaning like doves of the v
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.15|<< Ezekiel 7:15]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.17|Ezekiel 7:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will escape  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6403\|פָֽלְטוּ֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fal.Tu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | escapees their  |**<big>&#8207;[[H6412A\|פְּלִ֣יטֵי]]&#8207;&#8207;[[H9028\|הֶ֔ם]]&#8207; </big>**| pe.Li.tei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

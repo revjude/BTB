@@ -1,10 +1,7 @@
 **LXX Nehemiah 6:3** 
 <small><sub>**LXX:**</sub></small>
 And I sent messengers unto them, saying, \[The\] work \[is\] great \[that\] I do, and I am not able to go down, lest at any time the work should rest; when ever I shall perfect it, I shall go down to you. 
-<small><sub>**KJV:**</sub></small>
-And I sent messengers unto them, saying, I [am] doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?
-<small><sub>**BSB:**</sub></small>
-So I sent messengers to them, saying, “I am doing a great work and cannot come down. Why should the work stop while I leave it to go down to you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.6.2|<< Nehemiah 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.4|Nehemiah 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

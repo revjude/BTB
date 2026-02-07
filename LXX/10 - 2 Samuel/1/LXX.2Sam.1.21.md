@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:21** 
 <small><sub>**LXX:**</sub></small>
 O mountains  in Gilboa, may there not fall upon you neither dew nor rain; and O fields of first-fruits, for there \[the\] shield of \[the\] mighty ones was loathed, \[the\] shield of Saul was not anointed with oil. 
-<small><sub>**KJV:**</sub></small>
-Ye mountains of Gilboa, [let there be] no dew, neither [let there be] rain, upon you, nor fields of offerings: for there the shield of the mighty is vilely cast away, the shield of Saul, [as though he had] not [been] anointed with oil.
-<small><sub>**BSB:**</sub></small>
-O mountains of Gilboa, may you have no dew or rain, no fields yielding offerings of grain. For there the shield of the mighty was defiled, the shield of Saul, no longer anointed with oil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.20|<< 2 Samuel 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.22|2 Samuel 1:22 >>]]</td></tr></table>
 
 | Translation | Greek |

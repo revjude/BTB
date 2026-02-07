@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 5:24** 
 <small><sub>**LXX:**</sub></small>
 And these \[were\] \[the\] rulers of \[the\] house of their families -- Epher, and Ishi, and Eliel, and Azriel and Jeremiah, and Hodaviah, and Jahdiel; men mighty in strength, famous men, rulers according to \[the\] house of their families. 
-<small><sub>**KJV:**</sub></small>
-And these [were] the heads of the house of their fathers, even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, mighty men of valour, famous men, [and] heads of the house of their fathers.
-<small><sub>**BSB:**</sub></small>
-These were the heads of their families: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel. They were mighty men of valor, famous men, and heads of their families.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.5.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.23|<< 1 Chronicles 5:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.25|1 Chronicles 5:25 >>]]</td></tr></table>
 
 | Translation | Greek |

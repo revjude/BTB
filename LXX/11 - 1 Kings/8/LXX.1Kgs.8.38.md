@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:38** 
 <small><sub>**LXX:**</sub></small>
 every prayer, every supplication, if it should happen to any man,  whenever each \[one\] should know \[the\] infection of his heart, and should open and spread out  his hands in  this house, 
-<small><sub>**KJV:**</sub></small>
-What prayer and supplication soever be [made] by any man, [or] by all thy people Israel, which shall know every man the plague of his own heart, and spread forth his hands toward this house:
-<small><sub>**BSB:**</sub></small>
-then may whatever prayer or petition Your people Israel make—each knowing his own afflictions and spreading out his hands toward this temple—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.37|<< 1 Kings 8:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.39|1 Kings 8:39 >>]]</td></tr></table>
 
 | Translation | Greek |

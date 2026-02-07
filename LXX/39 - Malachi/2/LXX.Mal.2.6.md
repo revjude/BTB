@@ -1,10 +1,7 @@
 **LXX Malachi 2:6** 
 <small><sub>**LXX:**</sub></small>
 \[The\] law of truth was in  his mouth, and injustice was not found in his lips. In peace he straightened out to go with me; and many he turned from iniquity. 
-<small><sub>**KJV:**</sub></small>
-The law of truth was in his mouth, and iniquity was not found in his lips: he walked with me in peace and equity, and did turn many away from iniquity.
-<small><sub>**BSB:**</sub></small>
-True instruction was in his mouth, and nothing false was found on his lips. He walked with Me in peace and uprightness, and he turned many from iniquity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.5|<< Malachi 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.7|Malachi 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

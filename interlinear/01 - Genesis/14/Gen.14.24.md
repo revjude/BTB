@@ -1,4 +1,4 @@
-**Genesis 14:24** 
+**Genesis 14:24**<big><big>[[Gen.14.17 Melchizedek Blesses Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will accept nothing but what my men have eaten and the share for the men who w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.23|<< Genesis 14:23]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.1|Genesis 15:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | apart from me  |**<big>&#8207;[[H1107\|בִּלְעָדַ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| bil.'a.Da<small><sup>[[HAcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | only  |**<big>&#8207;[[H7535\|רַ֚ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

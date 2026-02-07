@@ -1,12 +1,12 @@
-**2 Corinthians 10:10
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 10:10**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For [his] letters, say they, [are] weighty and powerful; but [his] bodily presence [is] weak, and [his] speech contemptible.
 <small><sub>**BSB:**</sub></small>
 For some say, “His letters are weighty and forceful, but his physical presence is unimpressive, and his speaking is of no account.”
 <small><sub>**Literal:**</sub></small>
 For the letters indeed they say [are] weighty and strong, <the> however the presence of the body weak and the speech ignored.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.9|<< 2 Corinthians 10:9]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.11|2 Corinthians 10:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|αἱ]]</big>**  |hai <small><sup>[[T-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:46** 
 <small><sub>**LXX:**</sub></small>
 Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Lead a multitude against them, and put disturbance and ravaging among them; 
-<small><sub>**KJV:**</sub></small>
-For thus saith the Lord GOD; I will bring up a company upon them, and will give them to be removed and spoiled.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: ‘Bring a mob against them and consign them to terror and plunder.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.45|<< Ezekiel 23:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.47|Ezekiel 23:47 >>]]</td></tr></table>
 
 | Translation | Greek |

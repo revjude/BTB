@@ -1,12 +1,12 @@
-**Acts 7:51
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:51**<big><big>[[Acts.7.44 The Tabernacle of the Testimony|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers [did], so [do] ye.
 <small><sub>**BSB:**</sub></small>
 You stiff-necked people with uncircumcised hearts and ears! You always resist the Holy Spirit, just as your fathers did.
 <small><sub>**Literal:**</sub></small>
 Stiff-necked and uncircumcised in the hearts of you and <the> in ears, you yourselves always the Spirit <the> Holy resist, as the fathers of you also you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.50|<< Acts 7:50]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.52|Acts 7:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Stiff-necked |**<big>[[G4644\|σκληροτράχηλοι]]</big>**  |sklērotrachēloi <small><sup>[[A-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

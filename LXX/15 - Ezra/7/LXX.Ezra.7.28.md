@@ -1,10 +1,7 @@
 **LXX Ezra 7:28** 
 <small><sub>**LXX:**</sub></small>
 And upon me mercy leaned in \[the\] eyes of the king, and  his counselors, and all the rulers of the king of the mighty ones. And I was strengthened by the good hand of \[the\] <span class="smallcaps">lord</span> my God upon me, and I gathered from Israel rulers  to ascend with me. 
-<small><sub>**KJV:**</sub></small>
-And hath extended mercy unto me before the king, and his counsellers, and before all the king’s mighty princes. And I was strengthened as the hand of the LORD my God [was] upon me, and I gathered together out of Israel chief men to go up with me.
-<small><sub>**BSB:**</sub></small>
-and who has shown me favor before the king, his counselors, and all his powerful officials. And because the hand of the LORD my God was upon me, I took courage and gathered the leaders of Israel to return with me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.27|<< Ezra 7:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.1|Ezra 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

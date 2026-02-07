@@ -1,12 +1,12 @@
-**Acts 13:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:2**<big><big>[[Acts.13.1 Paul’s First Missionary Journey Begins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them.
 <small><sub>**BSB:**</sub></small>
 While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for Me Barnabas and Saul for the work to which I have called them.”
 <small><sub>**Literal:**</sub></small>
 As were ministering now they to the Lord and fasting said the Spirit <the> Holy; do set apart then to Me <the> both Barnabas and <the> Saul for the work to which I have called them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.1|<< Acts 13:1]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.3|Acts 13:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As were ministering |**<big>[[G3008\|λειτουργούντων]]</big>**  |leitourgountōn <small><sup>[[V-PAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

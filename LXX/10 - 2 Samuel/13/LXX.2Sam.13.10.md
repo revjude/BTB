@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:10** 
 <small><sub>**LXX:**</sub></small>
 And Amnon said to Tamar, Carry in to me the food to the bedroom! and I shall eat from out of  your hand. And Tamar took the biscuits which she made, and carried \[them\] \[to\] Amnon her brother, into the bedroom. 
-<small><sub>**KJV:**</sub></small>
-And Amnon said unto Tamar, Bring the meat into the chamber, that I may eat of thine hand. And Tamar took the cakes which she had made, and brought [them] into the chamber to Amnon her brother.
-<small><sub>**BSB:**</sub></small>
-Then Amnon said to Tamar, “Bring the food into the bedroom, so that I may eat it from your hand.” Tamar took the cakes she had made and went to her brother Amnon’s bedroom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.9|<< 2 Samuel 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.11|2 Samuel 13:11 >>]]</td></tr></table>
 
 | Translation | Greek |

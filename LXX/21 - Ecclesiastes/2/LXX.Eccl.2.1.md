@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 I said in my heart, Come now indeed, I will test you with gladness, and \[therefore\] know  good! And behold, also even this \[is\] folly. 
-<small><sub>**KJV:**</sub></small>
-I said in mine heart, Go to now, I will prove thee with mirth, therefore enjoy pleasure: and, behold, this also [is] vanity.
-<small><sub>**BSB:**</sub></small>
-I said to myself, “Come now, I will test you with pleasure; enjoy what is good!” But it proved to be futile.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.18|<< Ecclesiastes 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.2|Ecclesiastes 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

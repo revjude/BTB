@@ -1,12 +1,12 @@
-**Acts 4:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:10**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be it known unto you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, [even] by him doth this man stand here before you whole.
 <small><sub>**BSB:**</sub></small>
 then let this be known to all of you and to all the people of Israel: It is by the name of Jesus Christ of Nazareth, whom you crucified but whom God raised from the dead, that this man stands before you healed.
 <small><sub>**Literal:**</sub></small>
 known it should be to all you and to all the people of Israel that in the name of Jesus Christ <the> of Nazareth whom you yourselves crucified, whom <the> God raised out from [the] dead, in Him this [man] has stood before you sound.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.9|<< Acts 4:9]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.11|Acts 4:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | known |**<big>[[G1110\|γνωστὸν]]</big>**  |gnōston <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it should be |**<big>[[G1510\|ἔστω]]</big>**  |estō <small><sup>[[V-PAM-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In  those days I beheld in Judah ones treading \[the\] wine vats on the Sabbath, and bringing sheaves, and loading upon the donkeys; even wine, and \[the\] grape cluster, and figs, and every burden, and bringing \[them\] into Jerusalem on \[the\] day of the Sabbath. And I attested to them in \[the\] day of their sale. 
-<small><sub>**KJV:**</sub></small>
-In those days saw I in Judah [some] treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all [manner of] burdens, which they brought into Jerusalem on the sabbath day: and I testified [against them] in the day wherein they sold victuals.
-<small><sub>**BSB:**</sub></small>
-In those days I saw people in Judah treading winepresses on the Sabbath and bringing in grain and loading it on donkeys, along with wine, grapes, and figs. All kinds of goods were being brought into Jerusalem on the Sabbath day. So I warned them against selling food on that day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.14|<< Nehemiah 13:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.16|Nehemiah 13:16 >>]]</td></tr></table>
 
 | Translation | Greek |

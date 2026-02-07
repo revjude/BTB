@@ -1,12 +1,12 @@
-**2 Timothy 3:16
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 3:16**<big><big>[[2Tim.3.10 All Scripture Is God-Breathed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 All scripture [is] given by inspiration of God, and [is] profitable for doctrine, for reproof, for correction, for instruction in righteousness:
 <small><sub>**BSB:**</sub></small>
 All Scripture is God-breathed and is useful for instruction, for conviction, for correction, and for training in righteousness,
 <small><sub>**Literal:**</sub></small>
 Every Scripture [is] God-breathed and profitable for instruction, for conviction, for correction, [and] for training <the> in righteousness,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.15|<< 2 Timothy 3:15]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.17|2 Timothy 3:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Every |**<big>[[G3956\|Πᾶσα]]</big>**  |Pasa <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Scripture [is] |**<big>[[G1124\|γραφὴ]]</big>**  |graphē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 96:10** 
+**Psalms 96:10**<big><big>[[Ps.96.1 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say among the heathen [that] the LORD reigneth: the world also shall be established that it shall not be moved: he shall judge the people righteously.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Declare among the nations: “The LORD reigns!” The world is firmly establishe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.96.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.96.9|<< Psalms 96:9]]</td><td align="center" style="border:none;">[[Ps.96|Psalms 96]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.96.11|Psalms 96:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | say  |**<big>&#8207;[[H0559\|אִמְר֤וּ]]&#8207; </big>**| 'im.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among the nations  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1471A\|גּוֹיִ֨ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

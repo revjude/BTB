@@ -1,4 +1,4 @@
-**2 Kings 15:8** 
+**2 Kings 15:8**<big><big>[[2Kgs.15.8 Zechariah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the thirty and eighth year of Azariah king of Judah did Zachariah the son of Jeroboam reign over Israel in Samaria six months.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the thirty-eighth year of Azariah’s reign over Judah, Zechariah son of Jero
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.7|<< 2 Kings 15:7]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.9|2 Kings 15:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8141\|שְׁנַ֨ת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> sh.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thirty  |**<big>&#8207;[[H7970\|שְׁלֹשִׁ֤ים]]&#8207; </big>**| she.lo.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

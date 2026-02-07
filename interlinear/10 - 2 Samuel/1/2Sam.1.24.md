@@ -1,4 +1,4 @@
-**2 Samuel 1:24** 
+**2 Samuel 1:24**<big><big>[[2Sam.1.17 David’s Song for Saul and Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye daughters of Israel, weep over Saul, who clothed you in scarlet, with [other] delights, who put on ornaments of gold upon your apparel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O daughters of Israel, weep for Saul, who clothed you in scarlet and luxury, who
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.23|<< 2 Samuel 1:23]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.25|2 Samuel 1:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O daughters of  |**<big>&#8207;[[H1323G\|בְּנוֹת֙]]&#8207; </big>**| be.nOt<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

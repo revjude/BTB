@@ -1,4 +1,4 @@
-**Ezekiel 22:9** 
+**Ezekiel 22:9**<big><big>[[Ezek.22.1 The Sins of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In thee are men that carry tales to shed blood: and in thee they eat upon the mountains: in the midst of thee they commit lewdness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Among you are slanderous men bent on bloodshed; within you are those who eat on 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.8|<< Ezekiel 22:8]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.10|Ezekiel 22:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | people of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֥י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | slander  |**<big>&#8207;[[H7400\|רָכִ֛יל]]&#8207; </big>**| ra.Khil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

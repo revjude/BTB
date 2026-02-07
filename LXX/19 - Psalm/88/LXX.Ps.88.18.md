@@ -1,10 +1,7 @@
 **LXX Psalm 88:18** 
 <small><sub>**LXX:**</sub></small>
 You put far from me friend and near one, and the ones knowing me, because of misery. 
-<small><sub>**KJV:**</sub></small>
-Lover and friend hast thou put far from me, [and] mine acquaintance into darkness.
-<small><sub>**BSB:**</sub></small>
-You have removed my beloved and my friend; darkness is my closest companion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.88.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.17|<< Psalm 88:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.1|Psalm 89:1 >>]]</td></tr></table>
 
 | Translation | Greek |

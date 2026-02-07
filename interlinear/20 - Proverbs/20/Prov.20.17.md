@@ -1,4 +1,4 @@
-**Proverbs 20:17** 
+**Proverbs 20:17**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bread of deceit [is] sweet to a man; but afterwards his mouth shall be filled with gravel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Food gained by fraud is sweet to a man, but later his mouth is full of gravel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.16|<< Proverbs 20:16]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.18|Proverbs 20:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] sweet  |**<big>&#8207;[[H6156\|עָרֵ֣ב]]&#8207; </big>**| 'a.Rev<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> person  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H0376G\|אִישׁ]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

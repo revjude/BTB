@@ -1,12 +1,12 @@
-**Luke 24:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:20**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And how the chief priests and our rulers delivered him to be condemned to death, and have crucified him.
 <small><sub>**BSB:**</sub></small>
 Our chief priests and rulers delivered Him up to the sentence of death, and they crucified Him.
 <small><sub>**Literal:**</sub></small>
 that then delivered up him the chief priests and the rulers of us to [the] judgment of death and crucified Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.19|<< Luke 24:19]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.21|Luke 24:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G3704\|ὅπως]]</big>**  |hopōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

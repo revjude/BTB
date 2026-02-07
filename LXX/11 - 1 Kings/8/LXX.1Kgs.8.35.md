@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:35** 
 <small><sub>**LXX:**</sub></small>
 \[And\] in the holding together the heaven and there not being rain because they shall sin against you, and \[if\] they shall pray in  this place, and shall acknowledge  your name, and shall turn from their sins, whenever you should humble them; 
-<small><sub>**KJV:**</sub></small>
-When heaven is shut up, and there is no rain, because they have sinned against thee; if they pray toward this place, and confess thy name, and turn from their sin, when thou afflictest them:
-<small><sub>**BSB:**</sub></small>
-When the skies are shut and there is no rain because Your people have sinned against You, and they pray toward this place and confess Your name, and they turn from their sins because You have afflicted them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.34|<< 1 Kings 8:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.36|1 Kings 8:36 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 19:4** 
 <small><sub>**LXX:**</sub></small>
 And nations heard concerning him; and he was seized in  their corruption, and they led him in a wicker cage into \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-The nations also heard of him; he was taken in their pit, and they brought him with chains unto the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-When the nations heard of him, he was trapped in their pit. With hooks they led him away to the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.3|<< Ezekiel 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.5|Ezekiel 19:5 >>]]</td></tr></table>
 
 | Translation | Greek |

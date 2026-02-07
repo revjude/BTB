@@ -1,4 +1,4 @@
-**Isaiah 3:16** 
+**Isaiah 3:16**<big><big>[[Isa.3.16 A Warning to the Daughters of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the LORD saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing [as] they go, and making a tinkling with their feet:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD also says: “Because the daughters of Zion are haughty—walking with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.15|<< Isaiah 3:15]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.17|Isaiah 3:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Proverbs 23:35** 
 <small><sub>**LXX:**</sub></small>
 and you shall say, They beat me, and I did not have pain; and, They mocked me, but I did not know. When will it be dawn that coming I shall seek after one who shall go together with me to \[drink\]? 
-<small><sub>**KJV:**</sub></small>
-They have stricken me, [shalt thou say, and] I was not sick; they have beaten me, [and] I felt [it] not: when shall I awake? I will seek it yet again.
-<small><sub>**BSB:**</sub></small>
-“They struck me, but I feel no pain! They beat me, but I did not know it! When can I wake up to search for another drink?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.34|<< Proverbs 23:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.1|Proverbs 24:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 7:10** 
 <small><sub>**LXX:**</sub></small>
 And they entered and yelled by the gate of the city. And they announced to them, saying, We entered into the camp of Syria, and behold, there is not there a man nor a voice of a man, but only a horse being tied and a donkey being tied, and their tents as they are. 
-<small><sub>**KJV:**</sub></small>
-So they came and called unto the porter of the city: and they told them, saying, We came to the camp of the Syrians, and, behold, [there was] no man there, neither voice of man, but horses tied, and asses tied, and the tents as they [were].
-<small><sub>**BSB:**</sub></small>
-So they went and called out to the gatekeepers of the city, saying, “We went to the Aramean camp and no one was there—not a trace—only tethered horses and donkeys, and the tents were intact.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.7.9|<< 2 Kings 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.7.11|2 Kings 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

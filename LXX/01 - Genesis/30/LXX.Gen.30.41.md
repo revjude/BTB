@@ -1,10 +1,7 @@
 **LXX Genesis 30:41** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the time the flocks which he stimulated in \[the\] womb, Jacob taking \[them\] put the rods before the flocks at the watering troughs \[for\] the \[purpose of\] stimulating them by the rods. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, whensoever the stronger cattle did conceive, that Jacob laid the rods before the eyes of the cattle in the gutters, that they might conceive among the rods.
-<small><sub>**BSB:**</sub></small>
-Whenever the stronger females of the flock were in heat, Jacob would place the branches in the troughs, in full view of the animals, so that they would breed in front of the branches.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.40|<< Genesis 30:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.42|Genesis 30:42 >>]]</td></tr></table>
 
 | Translation | Greek |

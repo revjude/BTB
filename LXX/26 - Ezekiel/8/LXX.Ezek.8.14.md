@@ -1,10 +1,7 @@
 **LXX Ezekiel 8:14** 
 <small><sub>**LXX:**</sub></small>
 And he brought me unto the thresholds of the gate of \[the\] house of \[the\] <span class="smallcaps">lord</span>, of the one looking to \[the\] north. And behold, there women \[were\] sitting down wailing  Tammuz. 
-<small><sub>**KJV:**</sub></small>
-Then he brought me to the door of the gate of the LORD’S house which [was] toward the north; and, behold, there sat women weeping for Tammuz.
-<small><sub>**BSB:**</sub></small>
-Then He brought me to the entrance of the north gate of the house of the LORD, and I saw women sitting there, weeping for Tammuz.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.13|<< Ezekiel 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.15|Ezekiel 8:15 >>]]</td></tr></table>
 
 | Translation | Greek |

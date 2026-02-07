@@ -1,4 +1,4 @@
-**2 Kings 8:5** 
+**2 Kings 8:5**<big><big>[[2Kgs.8.1 The Shunammite’s Land Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as he was telling the king how he had restored a dead body to life, that, behold, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said, My lord, O king, this [is] the woman, and this [is] her son, whom Elisha restored to life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Gehazi was telling the king how Elisha had brought the dead back to life. Ju
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.4|<< 2 Kings 8:4]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.6|2 Kings 8:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H1961\|יְהִי]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> y.hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he  |**<big>&#8207;[[H1931\|ה֥וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 23:18** 
 <small><sub>**LXX:**</sub></small>
 You shall not bring \[the\] hire of a harlot, nor \[the\] price of a dog, into the house of \[the\] <span class="smallcaps">lord</span>  your God for any vow. For even both are an abomination \[to the\] <span class="smallcaps">lord</span> your God. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not bring the hire of a whore, or the price of a dog, into the house of the LORD thy God for any vow: for even both these [are] abomination unto the LORD thy God.
-<small><sub>**BSB:**</sub></small>
-You must not bring the wages of a prostitute, whether female or male, into the house of the LORD your God to fulfill any vow, because both are detestable to the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.17|<< Deuteronomy 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.19|Deuteronomy 23:19 >>]]</td></tr></table>
 
 | Translation | Greek |

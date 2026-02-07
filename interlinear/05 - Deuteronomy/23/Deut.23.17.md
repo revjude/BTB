@@ -1,4 +1,4 @@
-**Deuteronomy 23:17** (23:18)
+**Deuteronomy 23:17**<big><big>[[Deut.23.15 Miscellaneous Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall be no whore of the daughters of Israel, nor a sodomite of the sons of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No daughter or son of Israel is to be a shrine prostitute.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.16|<< Deuteronomy 23:16]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.18|Deuteronomy 23:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she will be  |**<big>&#8207;[[H1961\|תִהְיֶ֥ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

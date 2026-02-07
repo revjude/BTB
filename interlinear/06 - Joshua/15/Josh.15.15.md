@@ -1,4 +1,4 @@
-**Joshua 15:15** 
+**Joshua 15:15**<big><big>[[Josh.15.13 Caleb’s Portion and Conquest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went up thence to the inhabitants of Debir: and the name of Debir before [was] Kirjathsepher.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From there he marched against the inhabitants of Debir (formerly known as Kiriat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.14|<< Joshua 15:14]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.16|Joshua 15:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֣עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁ֔ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

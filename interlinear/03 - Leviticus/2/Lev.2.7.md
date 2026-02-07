@@ -1,4 +1,4 @@
-**Leviticus 2:7** 
+**Leviticus 2:7**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thy oblation [be] a meat offering [baken] in the fryingpan, it shall be made [of] fine flour with oil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If your offering is a grain offering cooked in a pan, it must consist of fine fl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.6|<< Leviticus 2:6]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.8|Leviticus 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a grain offering of  |**<big>&#8207;[[H4503G\|מִנְחַ֥ת]]&#8207; </big>**| min.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

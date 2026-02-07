@@ -1,10 +1,7 @@
 **LXX Judges 15:11** 
 <small><sub>**LXX:**</sub></small>
 And three thousand men of Judah went down unto \[the\] hole in \[the\] rock of Etam, and said to Samson, Do you not behold that the Philistines dominate us? Then why did you \[do\] these \[things\] to us? And Samson said to them, In which manner they did to me, so I did to them. 
-<small><sub>**KJV:**</sub></small>
-Then three thousand men of Judah went to the top of the rock Etam, and said to Samson, Knowest thou not that the Philistines [are] rulers over us? what [is] this [that] thou hast done unto us? And he said unto them, As they did unto me, so have I done unto them.
-<small><sub>**BSB:**</sub></small>
-In response, three thousand men of Judah went to the cave at the rock of Etam, and they asked Samson, “Do you not realize that the Philistines rule over us? What have you done to us?” “I have done to them what they did to me,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.10|<< Judges 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.12|Judges 15:12 >>]]</td></tr></table>
 
 | Translation | Greek |

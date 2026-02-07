@@ -1,10 +1,7 @@
 **LXX Isaiah 11:12** 
 <small><sub>**LXX:**</sub></small>
 And he shall lift a sign unto the nations. And he will bring together the ones being destroyed of Israel. And he will gather the ones being dispersed of Judah from out of the four wings of the earth. 
-<small><sub>**KJV:**</sub></small>
-And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.
-<small><sub>**BSB:**</sub></small>
-He will raise a banner for the nations and gather the exiles of Israel; He will collect the scattered of Judah from the four corners of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.11|<< Isaiah 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.13|Isaiah 11:13 >>]]</td></tr></table>
 
 | Translation | Greek |

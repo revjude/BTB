@@ -1,12 +1,12 @@
-**Acts 23:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:3**<big><big>[[Acts.23.1 Paul before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Paul unto him, God shall smite thee, [thou] whited wall: for sittest thou to judge me after the law, and commandest me to be smitten contrary to the law?
 <small><sub>**BSB:**</sub></small>
 Then Paul said to him, “God will strike you, you whitewashed wall! You sit here to judge me according to the law, yet you yourself violate the law by commanding that I be struck.”
 <small><sub>**Literal:**</sub></small>
 Then <the> Paul to him said; To strike you is about <the> God, wall whitewashed! And you yourself do you sit judging me according to the law, and violating law you command me to be struck?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.2|<< Acts 23:2]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.4|Acts 23:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

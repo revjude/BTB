@@ -1,10 +1,7 @@
 **LXX 1 Samuel 13:6** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] man of Israel beheld that they were in a strait for them to not lead forward; and the people hid in the caves, and in the lairs, and in the rocks, and in the excavations, and in the pits. 
-<small><sub>**KJV:**</sub></small>
-When the men of Israel saw that they were in a strait, (for the people were distressed,) then the people did hide themselves in caves, and in thickets, and in rocks, and in high places, and in pits.
-<small><sub>**BSB:**</sub></small>
-Seeing that they were in danger because their troops were hard-pressed, the men of Israel hid in caves and thickets, among the rocks, and in cellars and cisterns.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.5|<< 1 Samuel 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.7|1 Samuel 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

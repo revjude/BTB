@@ -1,10 +1,7 @@
 **LXX Job 16:7** 
 <small><sub>**LXX:**</sub></small>
 But now, he has made me exhausted, a festering moron, and it took hold of me. 
-<small><sub>**KJV:**</sub></small>
-But now he hath made me weary: thou hast made desolate all my company.
-<small><sub>**BSB:**</sub></small>
-Surely He has now exhausted me; You have devastated all my family.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.6|<< Job 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.8|Job 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

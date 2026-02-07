@@ -1,4 +1,4 @@
-**Isaiah 66:5** 
+**Isaiah 66:5**<big><big>[[Isa.66.1 Heaven Is My Throne|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear the word of the LORD, ye that tremble at his word; Your brethren that hated you, that cast you out for my name’s sake, said, Let the LORD be glorified: but he shall appear to your joy, and they shall be ashamed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You who tremble at His word, hear the word of the LORD: “Your brothers who hat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.4|<< Isaiah 66:4]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.6|Isaiah 66:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear  |**<big>&#8207;[[H8085G\|שִׁמְעוּ֙]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] word of  |**<big>&#8207;[[H1697G\|דְּבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

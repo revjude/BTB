@@ -1,4 +1,4 @@
-**Psalms 30:9** (30:10)
+**Psalms 30:9**<big><big>[[Ps.30.1 You Turned My Mourning into Dancing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What profit [is there] in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What profit [is there] in my blood, when I go down to the pit? Shall the dust pr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.30.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.8|<< Psalms 30:8]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30.10|Psalms 30:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is the] profit  |**<big>&#8207;[[H1215\|בֶּ֥צַע]]&#8207; </big>**| Be.tza'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

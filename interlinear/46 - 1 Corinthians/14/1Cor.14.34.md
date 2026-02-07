@@ -1,5 +1,5 @@
-**1 Corinthians 14:34
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:34**<big><big>[[1Cor.14.26 Orderly Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let your women keep silence in the churches: for it is not permitted unto them to speak; but [they are commanded] to be under obedience, as also saith the law.
 <small><sub>**BSB:**</sub></small>
 Women are to be silent in the churches. They are not permitted to speak, but must be in submission, as the law says.
@@ -10,7 +10,7 @@ the women of you in the churches they should be silent; Not for it is allowed to
 > $\quad$ alluding to: [[LXX.Gen.3.16|Gen 3:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the |**<big>[[G3588\|Αἱ]]</big>**  |Hai <small><sup>[[T-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | women |**<big>[[G1135G\|γυναῖκες]]</big>**  |gunaikes <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

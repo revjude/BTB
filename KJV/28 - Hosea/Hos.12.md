@@ -1,6 +1,6 @@
 (KJV) **Hosea 12**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11|<< Hosea 11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13|Hosea 13 >>]]</td></tr></table>
 
-***A Reproof of Ephraim, Judah, and Jacob*** ^bsb1984
+<big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥃]]</big></big>***A Reproof of Ephraim, Judah, and Jacob***
 
  $\quad$ <span class="startversemarker">[</span>**[[Hos.12.1|1]]**<span class="endversemarker">]</span> Ephraim feedeth<small><small>[^2]</small></small> on wind, and followeth after the east wind: he daily<small><small>[^3]</small></small> increaseth lies and desolation; and they<small><small>[^4]</small></small> do make a covenant with the Assyrians, and oil is carried into Egypt. <span class="startversemarker">[</span>**[[Hos.12.2|2]]**<span class="endversemarker">]</span> The <span class="smallcaps">Lord</span> hath also a controversy<small><small>[^5]</small></small> with Judah, and will<small><small>[^6]</small></small> punish<small><small>[^7]</small></small> Jacob according to his ways; according to his doings<small><small>[^8]</small></small> will he recompense him. 
 

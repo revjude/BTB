@@ -1,4 +1,4 @@
-**Judges 17:2** 
+**Judges 17:2**<big><big>[[Judg.17.1 Micah’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto his mother, The eleven hundred [shekels] of silver that were taken from thee, about which thou cursedst, and spakest of also in mine ears, behold, the silver [is] with me; I took it. And his mother said, Blessed [be thou] of the LORD, my son.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ said to his mother, “The eleven hundred shekels of silver that were taken from
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.17.1|<< Judges 17:1]]</td><td align="center" style="border:none;">[[Judg.17|Judges 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.3|Judges 17:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to mother his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0517\|אִמּ֡]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'i.M<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 9:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:20**<big><big>[[Matt.9.18 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, a woman, which was diseased with an issue of blood twelve years, came behind [him], and touched the hem of his garment:
 <small><sub>**BSB:**</sub></small>
 Suddenly a woman who had suffered from bleeding for twelve years came up behind Him and touched the fringe of His cloak.
 <small><sub>**Literal:**</sub></small>
 And behold a woman having a flux of blood twelve years having come up behind [Him] she touched the fringe of the garment of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.19|<< Matthew 9:19]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.21|Matthew 9:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

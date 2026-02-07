@@ -1,4 +1,4 @@
-**Exodus 38:17** 
+**Exodus 38:17**<big><big>[[Exod.38.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sockets for the pillars [were of] brass; the hooks of the pillars and their fillets [of] silver; and the overlaying of their chapiters [of] silver; and all the pillars of the court [were] filleted with silver.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The bases for the posts were bronze, the hooks and bands were silver, and the pl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.16|<< Exodus 38:16]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.18|Exodus 38:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the bases  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0134\|אֲדָנִ֣ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.da.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for the pillars  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H5982G\|עַמֻּדִים֮]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'a.mu.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 36:8** 
+**Isaiah 36:8**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore give pledges, I pray thee, to my master the king of Assyria, and I will give thee two thousand horses, if thou be able on thy part to set riders upon them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now, therefore, make a bargain with my master, the king of Assyria. I will give 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.7|<< Isaiah 36:7]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.9|Isaiah 36:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | make a wager  |**<big>&#8207;[[H6148\|הִתְעָ֣רֶב]]&#8207; </big>**| hit.'A.rev<small><sup>[[HVtv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

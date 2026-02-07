@@ -1,12 +1,12 @@
-**John 6:30
-**<small><sub>**KJV:**</sub></small>
+**John 6:30**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They said therefore unto him, What sign shewest thou then, that we may see, and believe thee? what dost thou work?
 <small><sub>**BSB:**</sub></small>
 So they asked Him, “What sign then will You perform, so that we may see it and believe You? What will You do?
 <small><sub>**Literal:**</sub></small>
 They said therefore to Him; What then do You yourself [as a] sign that we may see and may believe You? What work do You perform?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.29|<< John 6:29]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.31|John 6:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They said |**<big>[[G2036\|Εἶπον]]</big>**  |Eipon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

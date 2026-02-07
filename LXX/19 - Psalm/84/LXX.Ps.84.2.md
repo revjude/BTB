@@ -1,10 +1,7 @@
 **LXX Psalm 84:2** 
 <small><sub>**LXX:**</sub></small>
 My soul longs after and falters for the courtyards of the <span class="smallcaps">lord</span>.  My heart and  my flesh exulted over \[the\] living God. 
-<small><sub>**KJV:**</sub></small>
-My soul longeth, yea, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God.
-<small><sub>**BSB:**</sub></small>
-My soul longs, even faints, for the courts of the LORD; my heart and my flesh cry out for the living God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.84.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.1|<< Psalm 84:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.3|Psalm 84:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 40:5** 
+**Genesis 40:5**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which [were] bound in the prison.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ both of these men—the Egyptian king’s cupbearer and baker, who were being he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.4|<< Genesis 40:4]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.6|Genesis 40:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they dreamed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2492B\|יַּֽחַלְמוּ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.chal.Mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a dream  |**<big>&#8207;[[H2472\|חֲל֨וֹם]]&#8207; </big>**| cha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

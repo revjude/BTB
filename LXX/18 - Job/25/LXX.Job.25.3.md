@@ -1,10 +1,7 @@
 **LXX Job 25:3** 
 <small><sub>**LXX:**</sub></small>
 For let not any undertake \[the thought\] that there is deferment for marauders. And upon whom will there not come an ambush from him? 
-<small><sub>**KJV:**</sub></small>
-Is there any number of his armies? and upon whom doth not his light arise?
-<small><sub>**BSB:**</sub></small>
-Can His troops be numbered? On whom does His light not rise?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.25.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.25.2|<< Job 25:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.25.4|Job 25:4 >>]]</td></tr></table>
 
 | Translation | Greek |

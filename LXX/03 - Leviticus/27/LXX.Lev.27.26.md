@@ -1,10 +1,7 @@
 **LXX Leviticus 27:26** 
 <small><sub>**LXX:**</sub></small>
 And every first-born which ever should be born among  your cattle will be to the <span class="smallcaps">lord</span>. And  no one shall consecrate it. If also a calf, if also a sheep, it is to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Only the firstling of the beasts, which should be the LORD’S firstling, no man shall sanctify it; whether [it be] ox, or sheep: it [is] the LORD’S.
-<small><sub>**BSB:**</sub></small>
-But no one may consecrate a firstborn of the livestock, because a firstborn belongs to the LORD. Whether it is an ox or a sheep, it is the LORD’s.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.25|<< Leviticus 27:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.27|Leviticus 27:27 >>]]</td></tr></table>
 
 | Translation | Greek |

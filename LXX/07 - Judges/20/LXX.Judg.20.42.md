@@ -1,10 +1,7 @@
 **LXX Judges 20:42** 
 <small><sub>**LXX:**</sub></small>
 And they leaned before \[the\] man of Israel in the way of the wilderness, and the battle upon them unawares; and the ones from the cities -- they utterly destroyed them in their midst. 
-<small><sub>**KJV:**</sub></small>
-Therefore they turned [their backs] before the men of Israel unto the way of the wilderness; but the battle overtook them; and them which [came] out of the cities they destroyed in the midst of them.
-<small><sub>**BSB:**</sub></small>
-So they fled before the men of Israel toward the wilderness, but the battle overtook them, and the men coming out of the cities struck them down there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.41|<< Judges 20:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.43|Judges 20:43 >>]]</td></tr></table>
 
 | Translation | Greek |

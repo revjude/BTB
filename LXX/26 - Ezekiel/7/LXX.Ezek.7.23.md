@@ -1,10 +1,7 @@
 **LXX Ezekiel 7:23** 
 <small><sub>**LXX:**</sub></small>
 And they shall produce befouling, because the land \[is\] full of judgments of blood, and the city full of lawlessness. And I will bring evils of nations, and they shall inherit  their houses. 
-<small><sub>**KJV:**</sub></small>
-Make a chain: for the land is full of bloody crimes, and the city is full of violence.
-<small><sub>**BSB:**</sub></small>
-Forge the chain, for the land is full of crimes of bloodshed, and the city is full of violence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.22|<< Ezekiel 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.24|Ezekiel 7:24 >>]]</td></tr></table>
 
 | Translation | Greek |

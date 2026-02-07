@@ -1,10 +1,7 @@
 **LXX Isaiah 7:13** 
 <small><sub>**LXX:**</sub></small>
 And he said, Hear indeed, O house of David! Is it a small \[thing\] to you to furnish a struggle to men, then how do you furnish a struggle \[to the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-And he said, Hear ye now, O house of David; [Is it] a small thing for you to weary men, but will ye weary my God also?
-<small><sub>**BSB:**</sub></small>
-Then Isaiah said, “Hear now, O house of David! Is it not enough to try the patience of men? Will you try the patience of my God as well?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.12|<< Isaiah 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.14|Isaiah 7:14 >>]]</td></tr></table>
 
 | Translation | Greek |

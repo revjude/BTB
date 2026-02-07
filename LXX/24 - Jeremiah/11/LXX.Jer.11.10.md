@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:10** 
 <small><sub>**LXX:**</sub></small>
 They returned unto the iniquities  of their fathers, of the ones prior, the ones not wanting to listen to  my words. And behold, they went after strange gods,  to serve them; and the house of Israel effaced and the house of Judah,  my covenant which I ordained with  their fathers. 
-<small><sub>**KJV:**</sub></small>
-They are turned back to the iniquities of their forefathers, which refused to hear my words; and they went after other gods to serve them: the house of Israel and the house of Judah have broken my covenant which I made with their fathers.
-<small><sub>**BSB:**</sub></small>
-They have returned to the sins of their forefathers who refused to obey My words. They have followed other gods to serve them. The house of Israel and the house of Judah have broken the covenant I made with their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.9|<< Jeremiah 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.11|Jeremiah 11:11 >>]]</td></tr></table>
 
 | Translation | Greek |

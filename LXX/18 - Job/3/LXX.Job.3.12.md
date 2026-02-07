@@ -1,10 +1,7 @@
 **LXX Job 3:12** 
 <small><sub>**LXX:**</sub></small>
 And why did the knees meet me? And why did I nurse \[on the\] breasts. 
-<small><sub>**KJV:**</sub></small>
-Why did the knees prevent me? or why the breasts that I should suck?
-<small><sub>**BSB:**</sub></small>
-Why were there knees to receive me, and breasts that I should be nursed?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.11|<< Job 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.13|Job 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

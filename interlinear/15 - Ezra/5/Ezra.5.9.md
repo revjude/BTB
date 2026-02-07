@@ -1,4 +1,4 @@
-**Ezra 5:9** 
+**Ezra 5:9**<big><big>[[Ezra.5.6 Tattenai’s Letter to Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then asked we those elders, [and] said unto them thus, Who commanded you to build this house, and to make up these walls?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So we questioned the elders and asked, “Who authorized you to rebuild this tem
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.8|<< Ezra 5:8]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.10|Ezra 5:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱדַ֗יִן]]&#8207; </big>**| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we asked  |**<big>&#8207;[[H7593\|שְׁאֵ֙לְנָא֙]]&#8207; </big>**| she.'E.le.na'<small><sup>[[AVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

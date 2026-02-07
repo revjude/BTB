@@ -1,10 +1,7 @@
 **LXX Deuteronomy 21:10** 
 <small><sub>**LXX:**</sub></small>
 And whenever you should go forth to war with  your enemies, and \[the\] <span class="smallcaps">lord</span> your God should deliver them up into  your hands, that you shall despoil  them by plunder. 
-<small><sub>**KJV:**</sub></small>
-When thou goest forth to war against thine enemies, and the LORD thy God hath delivered them into thine hands, and thou hast taken them captive,
-<small><sub>**BSB:**</sub></small>
-When you go to war against your enemies and the LORD your God delivers them into your hand and you take them captive,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.9|<< Deuteronomy 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.11|Deuteronomy 21:11 >>]]</td></tr></table>
 
 | Translation | Greek |

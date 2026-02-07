@@ -1,10 +1,7 @@
 **LXX Psalm 78:71** 
 <small><sub>**LXX:**</sub></small>
 \[even\] from behind the ones giving birth he took him, to tend Jacob  his servant, and Israel  his inheritance. 
-<small><sub>**KJV:**</sub></small>
-From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance.
-<small><sub>**BSB:**</sub></small>
-from tending the ewes He brought him to be shepherd of His people Jacob, of Israel His inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.71|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.70|<< Psalm 78:70]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.72|Psalm 78:72 >>]]</td></tr></table>
 
 | Translation | Greek |

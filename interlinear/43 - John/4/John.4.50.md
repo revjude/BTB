@@ -1,12 +1,12 @@
-**John 4:50
-**<small><sub>**KJV:**</sub></small>
+**John 4:50**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus saith unto him, Go thy way; thy son liveth. And the man believed the word that Jesus had spoken unto him, and he went his way.
 <small><sub>**BSB:**</sub></small>
 “Go,” said Jesus. “Your son will live.” The man took Jesus at His word and departed.
 <small><sub>**Literal:**</sub></small>
 Says to him <the> Jesus; do go, the son of you lives. and Believed the man in the word that said to him <the> Jesus, and he was going.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.49|<< John 4:49]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.51|John 4:51 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|Λέγει]]</big>**  |Legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

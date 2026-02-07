@@ -1,12 +1,12 @@
-**Matthew 26:49
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:49**<big><big>[[Matt.26.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And forthwith he came to Jesus, and said, Hail, master; and kissed him.
 <small><sub>**BSB:**</sub></small>
 Going directly to Jesus, he said, “Greetings, Rabbi!” and kissed Him.
 <small><sub>**Literal:**</sub></small>
 And immediately having come up <the> to Jesus he said; Greetings Rabbi, and kissed Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.48|<< Matthew 26:48]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.50|Matthew 26:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G2112\|εὐθέως]]</big>**  |eutheōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

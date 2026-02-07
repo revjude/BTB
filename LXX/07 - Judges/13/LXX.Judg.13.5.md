@@ -1,10 +1,7 @@
 **LXX Judges 13:5** 
 <small><sub>**LXX:**</sub></small>
 For behold, you have \[one\] in \[the\] womb, and you shall bear a son, and an iron \[razor\] shall not ascend upon  his head, for the boy will be a Nazarite to God from the womb; and he shall begin to deliver  Israel from out of \[the\] hand of \[the\] Philistines. 
-<small><sub>**KJV:**</sub></small>
-For, lo, thou shalt conceive, and bear a son; and no rasor shall come on his head: for the child shall be a Nazarite unto God from the womb: and he shall begin to deliver Israel out of the hand of the Philistines.
-<small><sub>**BSB:**</sub></small>
-For behold, you will conceive and give birth to a son. And no razor shall touch his head, because the boy will be a Nazirite to God from the womb, and he will begin the deliverance of Israel from the hand of the Philistines.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.4|<< Judges 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.6|Judges 13:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Judges 13:5** is...

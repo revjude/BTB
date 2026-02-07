@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:9** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Gad,  David's seer, saying, 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Gad, David’s seer, saying,
-<small><sub>**BSB:**</sub></small>
-And the LORD instructed Gad, David’s seer,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.8|<< 1 Chronicles 21:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.10|1 Chronicles 21:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 33:8** 
+**Ezekiel 33:8**<big><big>[[Ezek.33.1 Ezekiel the Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I say unto the wicked, O wicked [man], thou shalt surely die; if thou dost not speak to warn the wicked from his way, that wicked [man] shall die in his iniquity; but his blood will I require at thine hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If I say to the wicked, ‘O wicked man, you will surely die,’ but you do not 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.7|<< Ezekiel 33:7]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.9|Ezekiel 33:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when say I  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0559\|אָמְרִ֣]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.me.R<small><sup>[[HVqcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the wicked [person]  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H7563\|רָשָׁ֗ע]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

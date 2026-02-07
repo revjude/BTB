@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:14** 
 <small><sub>**LXX:**</sub></small>
 From \[the\] depth of the beginning  of its hollow part to the atonement-seat, the one from beneath -- two cubits, and the breadth a cubit; and from the small atonement-seat to the great atonement-seat -- four cubits, and \[the\] breadth a cubit. 
-<small><sub>**KJV:**</sub></small>
-And from the bottom [upon] the ground [even] to the lower settle [shall be] two cubits, and the breadth one cubit; and from the lesser settle [even] to the greater settle [shall be] four cubits, and the breadth [one] cubit.
-<small><sub>**BSB:**</sub></small>
-The space from the gutter on the ground to the lower ledge shall be two cubits, and the ledge one cubit wide. The space from the smaller ledge to the larger ledge shall be four cubits, and the ledge one cubit wide.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.13|<< Ezekiel 43:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.15|Ezekiel 43:15 >>]]</td></tr></table>
 
 | Translation | Greek |

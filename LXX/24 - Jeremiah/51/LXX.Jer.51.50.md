@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:50** 
 <small><sub>**LXX:**</sub></small>
 O ones being rescued from \[the\] broadsword, go and do not stand! Make mention, O ones far off, of the <span class="smallcaps">lord</span>, and let Jerusalem ascend upon  your heart! 
-<small><sub>**KJV:**</sub></small>
-Ye that have escaped the sword, go away, stand not still: remember the LORD afar off, and let Jerusalem come into your mind.
-<small><sub>**BSB:**</sub></small>
-You who have escaped the sword, depart and do not linger! Remember the LORD from far away, and let Jerusalem come to mind.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.49|<< Jeremiah 51:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.51|Jeremiah 51:51 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 5:14** 
 <small><sub>**LXX:**</sub></small>
 And came to pass all the days of Cainan, ten years and nine hundred, and he died. 
-<small><sub>**KJV:**</sub></small>
-And all the days of Cainan were nine hundred and ten years: and he died.
-<small><sub>**BSB:**</sub></small>
-So Kenan lived a total of 910 years, and then he died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.13|<< Genesis 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.15|Genesis 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

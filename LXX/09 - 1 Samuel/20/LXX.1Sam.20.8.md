@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:8** 
 <small><sub>**LXX:**</sub></small>
 And you will do mercy with  your servant, for you brought  your servant into a covenant of \[the\] <span class="smallcaps">lord</span> with yourself. And if there is injustice in  your servant, you put me to death! And why thus should you bring me unto your father? 
-<small><sub>**KJV:**</sub></small>
-Therefore thou shalt deal kindly with thy servant; for thou hast brought thy servant into a covenant of the LORD with thee: notwithstanding, if there be in me iniquity, slay me thyself; for why shouldest thou bring me to thy father?
-<small><sub>**BSB:**</sub></small>
-Therefore show kindness to your servant, for you have brought me into a covenant with you before the LORD. If there is iniquity in me, then kill me yourself; why should you bring me to your father?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.7|<< 1 Samuel 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.9|1 Samuel 20:9 >>]]</td></tr></table>
 
 | Translation | Greek |

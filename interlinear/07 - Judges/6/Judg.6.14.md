@@ -1,4 +1,4 @@
-**Judges 6:14** 
+**Judges 6:14**<big><big>[[Judg.6.11 The Call of Gideon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD looked upon him, and said, Go in this thy might, and thou shalt save Israel from the hand of the Midianites: have not I sent thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD turned to him and said, “Go in the strength you have and save Israel 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.13|<< Judges 6:13]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.15|Judges 6:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he turned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6437G\|יִּ֤פֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.fen<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 19:21** 
+**1 Kings 19:21**<big><big>[[1Kgs.19.19 The Call of Elisha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he returned back from him, and took a yoke of oxen, and slew them, and boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose, and went after Elijah, and ministered unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Elisha turned back from him, took his pair of oxen, and slaughtered them. Usi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.20|<< 1 Kings 19:20]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.1|1 Kings 20:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he turned back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּ֨שָׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shov<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from after him  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0310A\|אַחֲרָ֜י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 26:2** 
+**Numbers 26:2**<big><big>[[Num.26.1 The Second Census of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take the sum of all the congregation of the children of Israel, from twenty years old and upward, throughout their fathers’ house, all that are able to go to war in Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take the sum of all the congregation of the children of Israel, from twenty year
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.1|<< Numbers 26:1]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.3|Numbers 26:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lift up  |**<big>&#8207;[[H5375V\|שְׂא֞וּ]]&#8207; </big>**| se.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

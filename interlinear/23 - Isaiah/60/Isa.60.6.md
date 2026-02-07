@@ -1,4 +1,4 @@
-**Isaiah 60:6** 
+**Isaiah 60:6**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The multitude of camels shall cover thee, the dromedaries of Midian and Ephah; all they from Sheba shall come: they shall bring gold and incense; and they shall shew forth the praises of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Caravans of camels will cover your land, young camels of Midian and Ephah, and a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.5|<< Isaiah 60:5]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.7|Isaiah 60:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a multitude of  |**<big>&#8207;[[H8229\|שִֽׁפְעַ֨ת]]&#8207; </big>**| shif.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | camels  |**<big>&#8207;[[H1581\|גְּמַלִּ֜ים]]&#8207; </big>**| ge.ma.Lim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

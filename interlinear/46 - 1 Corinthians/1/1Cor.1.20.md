@@ -1,5 +1,5 @@
-**1 Corinthians 1:20
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:20**<big><big>[[1Cor.1.18 The Message of the Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Where [is] the wise? where [is] the scribe? where [is] the disputer of this world? hath not God made foolish the wisdom of this world?
 <small><sub>**BSB:**</sub></small>
 Where is the wise man? Where is the scribe? Where is the philosopher of this age? Has not God made foolish the wisdom of the world?
@@ -10,7 +10,7 @@ Where [is the] wise? Where [the] scribe? Where [the] debater of the age this? Su
 > $\quad$ alluding to: [[LXX.Isa.33.18|Isa 33:18]] ☩ [[LXX.Isa.44.25|Isa 44:25]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Where [is the] |**<big>[[G4226\|ποῦ]]</big>**  |pou <small><sup>[[ADV-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | wise? |**<big>[[G4680\|σοφός;]]</big>**  |sophos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:2** 
 <small><sub>**LXX:**</sub></small>
 And Joab sent to Tekoah, and he took from there a wise woman. And he said to her, You mourn indeed, and put on mournful garments, and do not anoint \[yourself\] with oil, and be as a woman mourning for many days for one having died! 
-<small><sub>**KJV:**</sub></small>
-And Joab sent to Tekoah, and fetched thence a wise woman, and said unto her, I pray thee, feign thyself to be a mourner, and put on now mourning apparel, and anoint not thyself with oil, but be as a woman that had a long time mourned for the dead:
-<small><sub>**BSB:**</sub></small>
-So Joab sent to Tekoa to bring a wise woman from there. He told her, “Please pretend to be a mourner; put on clothes for mourning and do not anoint yourself with oil. Act like a woman who has mourned for the dead a long time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.1|<< 2 Samuel 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.3|2 Samuel 14:3 >>]]</td></tr></table>
 
 | Translation | Greek |

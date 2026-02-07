@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he shall do according to  his will; and the king shall be exalted, and magnified over every god, and over the God  of gods. And he shall speak pompous words, and shall prosper until of which \[time\] the wrath should be completed. For unto completion it is coming to pass. 
-<small><sub>**KJV:**</sub></small>
-And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.
-<small><sub>**BSB:**</sub></small>
-Then the king will do as he pleases and will exalt and magnify himself above every god, and he will speak monstrous things against the God of gods. He will be successful until the time of wrath is completed, for what has been decreed must be accomplished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.35|<< Daniel 11:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.37|Daniel 11:37 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 11:36** is...

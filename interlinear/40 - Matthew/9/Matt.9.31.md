@@ -1,12 +1,12 @@
-**Matthew 9:31
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:31**<big><big>[[Matt.9.27 Jesus Heals the Blind and Mute|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But they, when they were departed, spread abroad his fame in all that country.
 <small><sub>**BSB:**</sub></small>
 But they went out and spread the news about Him throughout the land.
 <small><sub>**Literal:**</sub></small>
 <the> But having gone out they make known Him in all the land that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.30|<< Matthew 9:30]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.32|Matthew 9:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

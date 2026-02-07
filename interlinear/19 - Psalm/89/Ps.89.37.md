@@ -1,4 +1,4 @@
-**Psalms 89:37** (89:38)
+**Psalms 89:37**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall be established for ever as the moon, and [as] a faithful witness in heaven. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ like the moon, established forever, a faithful witness in the sky.” Selah
 > $\quad$ referenced by: [[John.12.34|John 12:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like [the] moon  |**<big>&#8207;[[H9004\|כְּ֭]]&#8207;&#8207;[[H3394\|יָרֵחַ]]&#8207; </big>**| Ke.<small><sup>[[HR]]</sup></small> ya.re.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be established  |**<big>&#8207;[[H3559H\|יִכּ֣וֹן]]&#8207; </big>**| yi.Kon<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 20:25** 
 <small><sub>**LXX:**</sub></small>
 and go completely \[the\] arrow through his body; and walk \[the\] stars on his habitation; \[may\] fears \[be\] upon him. 
-<small><sub>**KJV:**</sub></small>
-It is drawn, and cometh out of the body; yea, the glittering sword cometh out of his gall: terrors [are] upon him.
-<small><sub>**BSB:**</sub></small>
-It is drawn out of his back, the gleaming point from his liver. Terrors come over him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.20.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.24|<< Job 20:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.26|Job 20:26 >>]]</td></tr></table>
 
 | Translation | Greek |

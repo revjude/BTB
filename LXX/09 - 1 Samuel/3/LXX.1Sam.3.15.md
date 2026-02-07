@@ -1,10 +1,7 @@
 **LXX 1 Samuel 3:15** 
 <small><sub>**LXX:**</sub></small>
 And Samuel went to bed until morning. And he rose up early in the morning, and he opened the doors of \[the\] house of \[the\] <span class="smallcaps">lord</span>. And Samuel feared to report the vision  to Eli. 
-<small><sub>**KJV:**</sub></small>
-And Samuel lay until the morning, and opened the doors of the house of the LORD. And Samuel feared to shew Eli the vision.
-<small><sub>**BSB:**</sub></small>
-Samuel lay down until the morning; then he opened the doors of the house of the LORD. He was afraid to tell Eli the vision,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.14|<< 1 Samuel 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.16|1 Samuel 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

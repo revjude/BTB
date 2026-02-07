@@ -1,12 +1,12 @@
-**Revelation 20:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 20:1**<big><big>[[Rev.20.1 Satan Bound|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.
 <small><sub>**BSB:**</sub></small>
 Then I saw an angel coming down from heaven with the key to the Abyss, holding in his hand a great chain.
 <small><sub>**Literal:**</sub></small>
 And I saw an angel descending out of <the> heaven holding the key of the Abyss and a chain great in the hand of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.21|<< Revelation 19:21]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.2|Revelation 20:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I saw |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

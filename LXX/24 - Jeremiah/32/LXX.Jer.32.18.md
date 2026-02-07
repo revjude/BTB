@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:18** 
 <small><sub>**LXX:**</sub></small>
 \[the\] one having mercy unto thousands, and recompensing sins of fathers into \[the\] bosom of their children after them.  The great and strong God; \[the\] <span class="smallcaps">lord</span> of the forces, \[is\] his name, 
-<small><sub>**KJV:**</sub></small>
-Thou shewest lovingkindness unto thousands, and recompensest the iniquity of the fathers into the bosom of their children after them: the Great, the Mighty God, the LORD of hosts, [is] his name,
-<small><sub>**BSB:**</sub></small>
-You show loving devotion to thousands but lay the iniquity of the fathers into the laps of their children after them, O great and mighty God whose name is the LORD of Hosts,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.17|<< Jeremiah 32:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.19|Jeremiah 32:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 1:16** 
+**Jeremiah 1:16**<big><big>[[Jer.1.1 The Call of Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will utter my judgments against them touching all their wickedness, who have forsaken me, and have burned incense unto other gods, and worshipped the works of their own hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will pronounce My judgments against them for all their wickedness, because the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1.15|<< Jeremiah 1:15]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1.17|Jeremiah 1:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will speak  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1696I\|דִבַּרְתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> di.bar.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | judgments my  |**<big>&#8207;[[H4941G\|מִשְׁפָּטַ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| mish.pa.Ta<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

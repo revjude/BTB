@@ -1,12 +1,12 @@
-**John 4:51
-**<small><sub>**KJV:**</sub></small>
+**John 4:51**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as he was now going down, his servants met him, and told [him], saying, Thy son liveth.
 <small><sub>**BSB:**</sub></small>
 And while he was still on the way, his servants met him with the news that his boy was alive.
 <small><sub>**Literal:**</sub></small>
 Already then when he is going down the servants of him met with him and reported saying that the boy of him lives.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.50|<< John 4:50]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.52|John 4:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Already |**<big>[[G2235\|ἤδη]]</big>**  |ēdē <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:27** 
 <small><sub>**LXX:**</sub></small>
 And I will turn  your impious deeds from you, and  your harlotry from \[the\] land of Egypt, and in no way shall you lift up  your eyes unto them; and in no way shall you remember Egypt any more. 
-<small><sub>**KJV:**</sub></small>
-Thus will I make thy lewdness to cease from thee, and thy whoredom [brought] from the land of Egypt: so that thou shalt not lift up thine eyes unto them, nor remember Egypt any more.
-<small><sub>**BSB:**</sub></small>
-So I will put an end to your indecency and prostitution, which began in the land of Egypt, and you will not lift your eyes to them or remember Egypt anymore.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.26|<< Ezekiel 23:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.28|Ezekiel 23:28 >>]]</td></tr></table>
 
 | Translation | Greek |

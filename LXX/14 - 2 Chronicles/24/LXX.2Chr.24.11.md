@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:11** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the time  to bring in the container to the superintendents of the king by \[the\] hand of the Levites, that when they beheld that the money was superabundant, that the scribe of the king came, and the superintendent of the great priest; and they emptied out the container, and they lifted and placed it upon  its place. Thus they did day by day, and they gathered much money. 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass, that at what time the chest was brought unto the king’s office by the hand of the Levites, and when they saw that [there was] much money, the king’s scribe and the high priest’s officer came and emptied the chest, and took it, and carried it to his place again. Thus they did day by day, and gathered money in abundance.
-<small><sub>**BSB:**</sub></small>
-Whenever the chest was brought by the Levites to the king’s overseers and they saw that there was a large amount of money, the royal scribe and the officer of the high priest would come and empty the chest and carry it back to its place. They did this daily and gathered the money in abundance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.10|<< 2 Chronicles 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.12|2 Chronicles 24:12 >>]]</td></tr></table>
 
 | Translation | Greek |

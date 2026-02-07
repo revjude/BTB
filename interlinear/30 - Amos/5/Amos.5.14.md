@@ -1,4 +1,4 @@
-**Amos 5:14** 
+**Amos 5:14**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seek good, and not evil, that ye may live: and so the LORD, the God of hosts, shall be with you, as ye have spoken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Seek good, not evil, so that you may live. And the LORD, the God of Hosts, will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.13|<< Amos 5:13]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.15|Amos 5:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | seek  |**<big>&#8207;[[H1875\|דִּרְשׁוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| dir.shu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | good  |**<big>&#8207;[[H2896B\|ט֥וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

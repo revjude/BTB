@@ -1,4 +1,4 @@
-**Leviticus 16:17** 
+**Leviticus 16:17**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall be no man in the tabernacle of the congregation when he goeth in to make an atonement in the holy [place], until he come out, and have made an atonement for himself, and for his household, and for all the congregation of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ No one may be in the Tent of Meeting from the time Aaron goes in to make atoneme
 > $\quad$ referenced by: [[Luke.1.10|Luke 1:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and any  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | person  |**<big>&#8207;[[H0120G\|אָדָ֞ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Leviticus 21:6** 
+**Leviticus 21:6**<big><big>[[Lev.21.1 Holiness Required of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall be holy unto their God, and not profane the name of their God: for the offerings of the LORD made by fire, [and] the bread of their God, they do offer: therefore they shall be holy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They must be holy to their God and not profane the name of their God. Because th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.5|<< Leviticus 21:5]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.7|Leviticus 21:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | holy  |**<big>&#8207;[[H6918G\|קְדֹשִׁ֤ים]]&#8207; </big>**| ke.do.Shim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be  |**<big>&#8207;[[H1961\|יִהְיוּ֙]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

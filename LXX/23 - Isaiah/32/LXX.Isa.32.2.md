@@ -1,10 +1,7 @@
 **LXX Isaiah 32:2** 
 <small><sub>**LXX:**</sub></small>
 And the man shall be hiding  his words, and they shall be hid as of water being brought; and it shall be shone forth in Zion as a river being brought along, glorious in a thirsting land. 
-<small><sub>**KJV:**</sub></small>
-And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land.
-<small><sub>**BSB:**</sub></small>
-Each will be like a shelter from the wind, a refuge from the storm, like streams of water in a dry land, like the shadow of a great rock in an arid land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.32.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.32.1|<< Isaiah 32:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.32.3|Isaiah 32:3 >>]]</td></tr></table>
 
 | Translation | Greek |

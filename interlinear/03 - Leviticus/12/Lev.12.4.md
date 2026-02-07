@@ -1,4 +1,4 @@
-**Leviticus 12:4** 
+**Leviticus 12:4**<big><big>[[Lev.12.1 Purification after Childbirth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The woman shall continue in purification from her bleeding for thirty-three days
 > $\quad$ referenced by: [[Luke.2.21|Luke 2:21-22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and thirty  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7970\|שְׁלֹשִׁ֥ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | day[s]  |**<big>&#8207;[[H3117G\|יוֹם֙]]&#8207; </big>**| yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

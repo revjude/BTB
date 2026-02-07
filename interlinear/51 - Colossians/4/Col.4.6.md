@@ -1,12 +1,12 @@
-**Colossians 4:6
-**<small><sub>**KJV:**</sub></small>
+**Colossians 4:6**<big><big>[[Col.4.1 Prayerful Speech and Actions|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let your speech [be] alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.
 <small><sub>**BSB:**</sub></small>
 Let your speech always be gracious, seasoned with salt, so that you may know how to answer everyone.
 <small><sub>**Literal:**</sub></small>
 [Let] the speech of you [be] always in grace, with salt seasoned, to  know how it behooves you one each to answer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.5|<< Colossians 4:5]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.7|Colossians 4:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [Let] the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | speech |**<big>[[G3056\|λόγος]]</big>**  |logos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

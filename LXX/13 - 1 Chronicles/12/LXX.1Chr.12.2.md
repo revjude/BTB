@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:2** 
 <small><sub>**LXX:**</sub></small>
 and \[using the\] bow with \[the\] right \[hands\] and with \[the\] left \[hands\], and slingers with stones, and with arrows, and with a bow from the brethren of Saul of  Benjamin. 
-<small><sub>**KJV:**</sub></small>
-[They were] armed with bows, and could use both the right hand and the left in [hurling] stones and [shooting] arrows out of a bow, [even] of Saul’s brethren of Benjamin.
-<small><sub>**BSB:**</sub></small>
-they were archers using both the right and left hands to sling stones and shoot arrows; and they were Saul’s kinsmen from Benjamin):<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.1|<< 1 Chronicles 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.3|1 Chronicles 12:3 >>]]</td></tr></table>
 
 | Translation | Greek |

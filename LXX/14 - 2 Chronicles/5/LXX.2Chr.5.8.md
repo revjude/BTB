@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 5:8** 
 <small><sub>**LXX:**</sub></small>
 And the cherubim were being opened and spread out  of their wings over the place of the ark. And the cherubim covered the ark, and over  its bearing poles on top. 
-<small><sub>**KJV:**</sub></small>
-For the cherubims spread forth [their] wings over the place of the ark, and the cherubims covered the ark and the staves thereof above.
-<small><sub>**BSB:**</sub></small>
-For the cherubim spread their wings over the place of the ark and overshadowed the ark and its poles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.5.7|<< 2 Chronicles 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.5.9|2 Chronicles 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

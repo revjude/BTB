@@ -1,4 +1,4 @@
-**Genesis 11:30** 
+**Genesis 11:30**<big><big>[[Gen.11.27 Terah’s Descendants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Sarai was barren; she [had] no child.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Sarai was barren; she had no children.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.29|<< Genesis 11:29]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.31|Genesis 11:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|תְּהִ֥י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Hi<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sarai  |**<big>&#8207;[[H8297\|שָׂרַ֖י]]&#8207; </big>**| sa.Rai<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

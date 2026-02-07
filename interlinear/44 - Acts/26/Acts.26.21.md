@@ -1,12 +1,12 @@
-**Acts 26:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:21**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For these causes the Jews caught me in the temple, and went about to kill [me].
 <small><sub>**BSB:**</sub></small>
 For this reason the Jews seized me in the temple courts and tried to kill me.
 <small><sub>**Literal:**</sub></small>
 On account of these things me the Jews having seized being in the temple they were attempting to kill.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.20|<< Acts 26:20]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.22|Acts 26:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On account of |**<big>[[G1752\|ἕνεκα]]</big>**  |heneka <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these things |**<big>[[G3778\|τούτων]]</big>**  |toutōn <small><sup>[[D-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

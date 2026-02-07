@@ -1,4 +1,4 @@
-**Isaiah 46:2** 
+**Isaiah 46:2**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The gods cower; they crouch together, unable to relieve the burden; but they the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.1|<< Isaiah 46:1]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.3|Isaiah 46:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have stooped low  |**<big>&#8207;[[H7164\|קָרְס֤וּ]]&#8207; </big>**| ka.re.Su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have bowed down  |**<big>&#8207;[[H3766\|כָֽרְעוּ֙]]&#8207; </big>**| kha.re.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

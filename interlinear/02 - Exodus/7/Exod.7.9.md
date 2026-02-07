@@ -1,4 +1,4 @@
-**Exodus 7:9** 
+**Exodus 7:9**<big><big>[[Exod.7.8 Aaron’s Staff|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou shalt say unto Aaron, Take thy rod, and cast [it] before Pharaoh, [and] it shall become a serpent.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou sha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.8|<< Exodus 7:8]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.10|Exodus 7:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will say  |**<big>&#8207;[[H1696G\|יְדַבֵּ֨ר]]&#8207; </big>**| ye.da.Ber<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**2 Corinthians 3:4
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:4**<big><big>[[2Cor.3.1 Ministers of a New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And such trust have we through Christ to God-ward:
 <small><sub>**BSB:**</sub></small>
 Such confidence before God is ours through Christ.
 <small><sub>**Literal:**</sub></small>
 Confidence now such we have through <the> Christ toward <the> God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.3|<< 2 Corinthians 3:3]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.5|2 Corinthians 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Confidence |**<big>[[G4006\|Πεποίθησιν]]</big>**  |Pepoithēsin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

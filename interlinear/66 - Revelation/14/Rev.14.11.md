@@ -1,5 +1,5 @@
-**Revelation 14:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:11**<big><big>[[Rev.14.6 The Three Angels and Babylon’s Fall|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.
 <small><sub>**BSB:**</sub></small>
 And the smoke of their torment rises forever and ever. Day and night there is no rest for those who worship the beast and its image, or for anyone who receives the mark of its name.”
@@ -10,7 +10,7 @@ And the smoke of the torment of them to ages of ages goes up, and not have rest 
 > $\quad$ alluding to: [[LXX.Isa.34.10|Isa 34:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

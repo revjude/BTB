@@ -1,12 +1,12 @@
-**Luke 22:59
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:59**<big><big>[[Luke.22.54 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And about the space of one hour after another confidently affirmed, saying, Of a truth this [fellow] also was with him: for he is a Galilaean.
 <small><sub>**BSB:**</sub></small>
 About an hour later, another man insisted, “Certainly this man was with Him, for he too is a Galilean.”
 <small><sub>**Literal:**</sub></small>
 And when was elapsing about hour one other a certain was strongly affirming [it] saying; Of a truth also this one with Him was; also for a Galilean he is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.58|<< Luke 22:58]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.60|Luke 22:60 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when was elapsing |**<big>[[G1339\|διαστάσης]]</big>**  |diastasēs <small><sup>[[V-2AAP-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

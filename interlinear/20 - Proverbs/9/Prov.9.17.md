@@ -1,4 +1,4 @@
-**Proverbs 9:17** 
+**Proverbs 9:17**<big><big>[[Prov.9.13 The Way of Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Stolen waters are sweet, and bread [eaten] in secret is pleasant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Stolen waters are sweet, and bread [eaten] in secret is pleasant.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.16|<< Proverbs 9:16]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.18|Proverbs 9:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | waters  |**<big>&#8207;[[H4325G\|מַֽיִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ma.yim-<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | stolen  |**<big>&#8207;[[H1589\|גְּנוּבִ֥ים]]&#8207; </big>**| ge.nu.Vim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

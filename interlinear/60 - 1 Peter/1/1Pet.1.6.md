@@ -1,12 +1,12 @@
-**1 Peter 1:6
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:6**<big><big>[[1Pet.1.3 A Living Hope|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations:
 <small><sub>**BSB:**</sub></small>
 In this you greatly rejoice, though now for a little while you may have had to suffer grief in various trials
 <small><sub>**Literal:**</sub></small>
 in which you greatly rejoice for a little while at present, if being necessary it is, having been put to grief by various trials<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.5|<< 1 Peter 1:5]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.7|1 Peter 1:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | which |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

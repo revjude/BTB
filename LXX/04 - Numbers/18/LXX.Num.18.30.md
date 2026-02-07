@@ -1,10 +1,7 @@
 **LXX Numbers 18:30** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them, Whenever you should remove the first-fruit from it, then shall it be considered the Levites as produce from \[the\] threshing-floor, and as produce from \[the\] wine-vat. 
-<small><sub>**KJV:**</sub></small>
-Therefore thou shalt say unto them, When ye have heaved the best thereof from it, then it shall be counted unto the Levites as the increase of the threshingfloor, and as the increase of the winepress.
-<small><sub>**BSB:**</sub></small>
-Therefore say to the Levites, ‘When you have presented the best part, it will be reckoned to you as the produce of the threshing floor or winepress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.29|<< Numbers 18:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.31|Numbers 18:31 >>]]</td></tr></table>
 
 | Translation | Greek |

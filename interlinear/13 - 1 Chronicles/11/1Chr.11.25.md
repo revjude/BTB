@@ -1,4 +1,4 @@
-**1 Chronicles 11:25** 
+**1 Chronicles 11:25**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he was honourable among the thirty, but attained not to the [first] three: and David set him over his guard.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He was most honored among the Thirty, but he did not become one of the Three. An
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.24|<< 1 Chronicles 11:24]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.26|1 Chronicles 11:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | more than  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the thirty  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7970\|שְּׁלוֹשִׁ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.lo.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

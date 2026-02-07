@@ -1,10 +1,7 @@
 **LXX Job 11:13** 
 <small><sub>**LXX:**</sub></small>
 For if you established your heart clean, and turned up and opened \[your\] hands to him; 
-<small><sub>**KJV:**</sub></small>
-If thou prepare thine heart, and stretch out thine hands toward him;
-<small><sub>**BSB:**</sub></small>
-As for you, if you direct your heart and lift up your hands to Him,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.12|<< Job 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.14|Job 11:14 >>]]</td></tr></table>
 
 | Translation | Greek |

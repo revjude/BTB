@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 36:13** 
 <small><sub>**LXX:**</sub></small>
 in the annulling the \[things\] with king Nebuchadnezzar, in which he bound him by an oath according to  God. And he hardened  his neck, and  he strengthened his heart  to not return to \[the\] <span class="smallcaps">lord</span> God of Israel. 
-<small><sub>**KJV:**</sub></small>
-And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the LORD God of Israel.
-<small><sub>**BSB:**</sub></small>
-He also rebelled against King Nebuchadnezzar, who had made him swear by God. But Zedekiah stiffened his neck and hardened his heart against turning to the LORD, the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.36.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.12|<< 2 Chronicles 36:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.14|2 Chronicles 36:14 >>]]</td></tr></table>
 
 | Translation | Greek |

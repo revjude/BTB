@@ -1,10 +1,7 @@
 **LXX Psalm 18:42** 
 <small><sub>**LXX:**</sub></small>
 And I will make them as fine as dust against \[the\] face of \[the\] wind; as mud in the squares I will grind them. 
-<small><sub>**KJV:**</sub></small>
-Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets.
-<small><sub>**BSB:**</sub></small>
-I ground them as dust in the face of the wind; I trampled them like mud in the streets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.41|<< Psalm 18:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.43|Psalm 18:43 >>]]</td></tr></table>
 
 | Translation | Greek |

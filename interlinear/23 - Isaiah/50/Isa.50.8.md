@@ -1,4 +1,4 @@
-**Isaiah 50:8** 
+**Isaiah 50:8**<big><big>[[Isa.50.4 The Servant’s Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He is] near that justifieth me; who will contend with me? let us stand together: who [is] mine adversary? let him come near to me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The One who vindicates Me is near. Who will dare to contend with Me? Let us conf
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.50.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50.7|<< Isaiah 50:7]]</td><td align="center" style="border:none;">[[Isa.50|Isaiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.50.9|Isaiah 50:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] near  |**<big>&#8207;[[H7138\|קָרוֹב֙]]&#8207; </big>**| ka.rOv<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the one who] justifies me  |**<big>&#8207;[[H6663\|מַצְדִּיקִ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| matz.di.K<small><sup>[[HVhrmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

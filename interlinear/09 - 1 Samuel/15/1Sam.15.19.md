@@ -1,4 +1,4 @@
-**1 Samuel 15:19** 
+**1 Samuel 15:19**<big><big>[[1Sam.15.10 Samuel Denounces Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore then didst thou not obey the voice of the LORD, but didst fly upon the spoil, and didst evil in the sight of the LORD?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So why did you not obey the LORD? Why did you rush upon the plunder and do evil 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.18|<< 1 Samuel 15:18]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.20|1 Samuel 15:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<to> why?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לָ֥]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

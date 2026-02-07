@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In the second year of Darius the king, in the sixth month, \[day\] one of the month, came \[the\] word of \[the\] <span class="smallcaps">lord</span> by \[the\] hand of Haggai the prophet, saying, Say to Zerubbabel the son of Shealtiel, from \[the\] tribe of Judah, and to Joshua the son of Josedech the great priest, saying, 
-<small><sub>**KJV:**</sub></small>
-In the second year of Darius the king, in the sixth month, in the first day of the month, came the word of the LORD by Haggai the prophet unto Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, saying,
-<small><sub>**BSB:**</sub></small>
-In the second year of the reign of Darius, on the first day of the sixth month, the word of the LORD came through Haggai the prophet to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest, stating<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.20|<< Zephaniah 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.2|Haggai 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

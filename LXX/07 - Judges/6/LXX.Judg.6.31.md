@@ -1,10 +1,7 @@
 **LXX Judges 6:31** 
 <small><sub>**LXX:**</sub></small>
 And Joash said to the men  rising against him, Do you now adjudicate for  Baal? or shall you deliver him? Who ever pleaded to him let die in \[the\] morning. If he is God, he shall avenge for himself, for he razed  his altar. 
-<small><sub>**KJV:**</sub></small>
-And Joash said unto all that stood against him, Will ye plead for Baal? will ye save him? he that will plead for him, let him be put to death whilst [it is yet] morning: if he [be] a god, let him plead for himself, because [one] hath cast down his altar.
-<small><sub>**BSB:**</sub></small>
-But Joash said to all who stood against him, “Are you contending for Baal? Are you trying to save him? Whoever pleads his case will be put to death by morning! If Baal is a god, let him contend for himself with the one who has torn down his altar.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.30|<< Judges 6:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.32|Judges 6:32 >>]]</td></tr></table>
 
 | Translation | Greek |

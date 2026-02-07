@@ -1,10 +1,7 @@
 **LXX Proverbs 9:6** 
 <small><sub>**LXX:**</sub></small>
 Cease folly! and you shall live. And seek intelligence! that you should spend life. And keep straight understanding by knowledge! 
-<small><sub>**KJV:**</sub></small>
-Forsake the foolish, and live; and go in the way of understanding.
-<small><sub>**BSB:**</sub></small>
-Leave your folly behind, and you will live; walk in the way of understanding.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.9.5|<< Proverbs 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.7|Proverbs 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

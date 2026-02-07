@@ -1,10 +1,7 @@
 **LXX Isaiah 49:6** 
 <small><sub>**LXX:**</sub></small>
 And he said, It is a great \[thing\] for you  to be called my servant;  to establish the tribes of Jacob, and to return the dispersion of Israel. Behold, I have given you for a covenant of a race, for a light of nations,  for you to be for deliverance unto \[the\] end of the earth. 
-<small><sub>**KJV:**</sub></small>
-And he said, It is a light thing that thou shouldest be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth.
-<small><sub>**BSB:**</sub></small>
-He says: “It is not enough for You to be My Servant, to raise up the tribes of Jacob, and to restore the protected ones of Israel. I will also make You a light for the nations, to bring My salvation to the ends of the earth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.5|<< Isaiah 49:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.7|Isaiah 49:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 49:6** is...

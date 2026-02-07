@@ -1,4 +1,4 @@
-**Psalms 34:11** (34:12)
+**Psalms 34:11**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come, ye children, hearken unto me: I will teach you the fear of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come, children, listen to me; I will teach you the fear of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.10|<< Psalms 34:10]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.12|Psalms 34:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come  |**<big>&#8207;[[H1980K\|לְֽכוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.khu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O children  |**<big>&#8207;[[H1121A\|בָ֭נִים]]&#8207; </big>**| Va.nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

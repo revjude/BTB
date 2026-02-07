@@ -1,4 +1,4 @@
-**Proverbs 3:33** 
+**Proverbs 3:33**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The curse of the LORD [is] in the house of the wicked: but he blesseth the habitation of the just.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The curse of the LORD is on the house of the wicked, but He blesses the home of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.32|<< Proverbs 3:32]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.34|Proverbs 3:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] curse of  |**<big>&#8207;[[H3994\|מְאֵרַ֣ת]]&#8207; </big>**| me.'e.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

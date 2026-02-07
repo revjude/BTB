@@ -1,4 +1,4 @@
-**Isaiah 57:17** 
+**Isaiah 57:17**<big><big>[[Isa.57.14 Healing for the Repentant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the iniquity of his covetousness was I wroth, and smote him: I hid me, and was wroth, and he went on frowardly in the way of his heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I was enraged by his sinful greed, so I struck him and hid My face in anger; yet
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.16|<< Isaiah 57:16]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.18|Isaiah 57:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] iniquity of  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5771G\|עֲוֹ֥ן]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.Von<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | unjust gain his  |**<big>&#8207;[[H1215\|בִּצְע֛]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| bitz.'<small><sup>[[HNcmsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

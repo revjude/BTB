@@ -1,10 +1,7 @@
 **LXX Genesis 24:2** 
 <small><sub>**LXX:**</sub></small>
 And Abraham said \[to\] his servant, to the elder  of his house, to the one in charge of all his \[things\], Put  your hand under  my thigh! 
-<small><sub>**KJV:**</sub></small>
-And Abraham said unto his eldest servant of his house, that ruled over all that he had, Put, I pray thee, thy hand under my thigh:
-<small><sub>**BSB:**</sub></small>
-So Abraham instructed the chief servant of his household, who managed all he owned, “Place your hand under my thigh,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.1|<< Genesis 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.3|Genesis 24:3 >>]]</td></tr></table>
 
 | Translation | Greek |

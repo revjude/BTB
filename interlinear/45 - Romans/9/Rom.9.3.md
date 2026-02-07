@@ -1,12 +1,12 @@
-**Romans 9:3
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:3**<big><big>[[Rom.9.1 Paul’s Concern for the Jews|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:
 <small><sub>**BSB:**</sub></small>
 For I could wish that I myself were cursed and cut off from Christ for the sake of my brothers, my own flesh and blood,
 <small><sub>**Literal:**</sub></small>
 was wishing for a curse to be [my]self I myself separated from <the> Christ for the brothers of mine the kinsmen of mine according to [the] flesh;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.2|<< Romans 9:2]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.4|Romans 9:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | was wishing |**<big>[[G2172\|ηὐχόμην]]</big>**  |ēuchomēn <small><sup>[[V-INI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

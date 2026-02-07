@@ -1,10 +1,7 @@
 **LXX Jeremiah 17:17** 
 <small><sub>**LXX:**</sub></small>
 You should not be to me for alienation; \[but one\] sparing me in \[the\] evil day. 
-<small><sub>**KJV:**</sub></small>
-Be not a terror unto me: thou [art] my hope in the day of evil.
-<small><sub>**BSB:**</sub></small>
-Do not become a terror to me; You are my refuge in the day of disaster.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.16|<< Jeremiah 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.18|Jeremiah 17:18 >>]]</td></tr></table>
 
 | Translation | Greek |

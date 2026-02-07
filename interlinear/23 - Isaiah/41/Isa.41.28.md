@@ -1,4 +1,4 @@
-**Isaiah 41:28** 
+**Isaiah 41:28**<big><big>[[Isa.41.21 Meaningless Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I beheld, and [there was] no man; even among them, and [there was] no counseller, that, when I asked of them, could answer a word.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I look, there is no one; there is no counselor among them; when I ask them,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.27|<< Isaiah 41:27]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.29|Isaiah 41:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [when] I may look  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7200G\|אֵ֙רֶא֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.re'<small><sup>[[HVqj1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and there not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵ֣ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

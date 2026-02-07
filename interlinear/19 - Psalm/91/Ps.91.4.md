@@ -1,4 +1,4 @@
-**Psalms 91:4** 
+**Psalms 91:4**<big><big>[[Ps.91.1 You Are My Refuge and My Fortress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall cover thee with his feathers, and under his wings shalt thou trust: his truth [shall be thy] shield and buckler.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will cover you with His feathers; under His wings you will find refuge; His f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.91.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.91.3|<< Psalms 91:3]]</td><td align="center" style="border:none;">[[Ps.91|Psalms 91]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.91.5|Psalms 91:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with pinion his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0084\|אֶבְרָת֨]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ev.ra.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will cover  |**<big>&#8207;[[H5526B\|יָ֣סֶךְ]]&#8207; </big>**| Ya.sekh<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

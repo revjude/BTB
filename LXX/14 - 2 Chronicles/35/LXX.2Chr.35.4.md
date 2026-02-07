@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:4** 
 <small><sub>**LXX:**</sub></small>
 And be prepared according to \[the\] houses of your families, and according to  your daily rotations, according to the writing of David king of Israel, and by \[the\] hand of Solomon his son! 
-<small><sub>**KJV:**</sub></small>
-And prepare [yourselves] by the houses of your fathers, after your courses, according to the writing of David king of Israel, and according to the writing of Solomon his son.
-<small><sub>**BSB:**</sub></small>
-Prepare yourselves by families in your divisions, according to the instructions written by David king of Israel and Solomon his son.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.3|<< 2 Chronicles 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.5|2 Chronicles 35:5 >>]]</td></tr></table>
 
 | Translation | Greek |

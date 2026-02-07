@@ -1,4 +1,4 @@
-**Leviticus 7:21** 
+**Leviticus 7:21**<big><big>[[Lev.7.11 The Peace Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the soul that shall touch any unclean [thing, as] the uncleanness of man, or [any] unclean beast, or any abominable unclean [thing], and eat of the flesh of the sacrifice of peace offerings, which [pertain] unto the LORD, even that soul shall be cut off from his people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If one touches anything unclean, whether human uncleanness, an unclean animal, o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.20|<< Leviticus 7:20]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.22|Leviticus 7:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and anyone  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5315J\|נֶ֜פֶשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

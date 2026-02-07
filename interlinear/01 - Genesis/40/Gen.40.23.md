@@ -1,4 +1,4 @@
-**Genesis 40:23** 
+**Genesis 40:23**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet did not the chief butler remember Joseph, but forgat him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The chief cupbearer, however, did not remember Joseph; he forgot all about him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.22|<< Genesis 40:22]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.1|Genesis 41:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he remembered  |**<big>&#8207;[[H2142\|זָכַ֧ר]]&#8207; </big>**| za.Khar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

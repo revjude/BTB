@@ -1,4 +1,4 @@
-**Exodus 28:3** 
+**Exodus 28:3**<big><big>[[Exod.28.1 Garments for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt speak unto all [that are] wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron’s garments to consecrate him, that he may minister unto me in the priest’s office.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to instruct all the skilled craftsmen, whom I have filled with a spirit 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.2|<< Exodus 28:2]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.4|Exodus 28:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will speak  |**<big>&#8207;[[H1696G\|תְּדַבֵּר֙]]&#8207; </big>**| te.da.Ber<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

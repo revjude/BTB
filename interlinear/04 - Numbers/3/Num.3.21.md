@@ -1,4 +1,4 @@
-**Numbers 3:21** 
+**Numbers 3:21**<big><big>[[Num.3.21 The Gershonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of Gershon [was] the family of the Libnites, and the family of the Shimites: these [are] the families of the Gershonites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From Gershon came the Libnite clan and the Shimeite clan; these were the Gershon
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.20|<< Numbers 3:20]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.22|Numbers 3:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [belonged] to Gershon  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1648\|גֵ֣רְשׁ֔וֹן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Ge.re.Shon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] clan of  |**<big>&#8207;[[H4940\|מִשְׁפַּ֙חַת֙]]&#8207; </big>**| mish.Pa.chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

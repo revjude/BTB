@@ -1,12 +1,12 @@
-**1 Corinthians 16:7
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:7**<big><big>[[1Cor.16.5 Paul’s Travel Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I will not see you now by the way; but I trust to tarry a while with you, if the Lord permit.
 <small><sub>**BSB:**</sub></small>
 For I do not want to see you now only in passing; I hope to spend some time with you, if the Lord permits.
 <small><sub>**Literal:**</sub></small>
 Not I want for you now in passing to see; I hope for a time certain to remain with you, if the Lord shall permit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.6|<< 1 Corinthians 16:6]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.8|1 Corinthians 16:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I want |**<big>[[G2309\|θέλω]]</big>**  |thelō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

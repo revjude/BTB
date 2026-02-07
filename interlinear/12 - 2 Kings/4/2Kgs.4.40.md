@@ -1,4 +1,4 @@
-**2 Kings 4:40** 
+**2 Kings 4:40**<big><big>[[2Kgs.4.38 Elisha Purifies the Poisonous Stew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they poured out for the men to eat. And it came to pass, as they were eating of the pottage, that they cried out, and said, O [thou] man of God, [there is] death in the pot. And they could not eat [thereof].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they poured it out for the men to eat, but when they tasted the stew they cr
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.39|<< 2 Kings 4:39]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.41|2 Kings 4:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they poured [it] out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3332G\|יִּֽצְק֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yitz.Ku<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for [the] men  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֖ים]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

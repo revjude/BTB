@@ -1,4 +1,4 @@
-**Jeremiah 26:16** 
+**Jeremiah 26:16**<big><big>[[Jer.26.16 Jeremiah Spared from Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said the princes and all the people unto the priests and to the prophets; This man [is] not worthy to die: for he hath spoken to us in the name of the LORD our God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the officials and all the people told the priests and prophets, “This man
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.15|<< Jeremiah 26:15]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.17|Jeremiah 26:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the officials  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8269\|שָּׂרִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

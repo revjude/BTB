@@ -1,4 +1,4 @@
-**2 Samuel 7:21** 
+**2 Samuel 7:21**<big><big>[[2Sam.7.18 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy word’s sake, and according to thine own heart, hast thou done all these great things, to make thy servant know [them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the sake of Your word and according to Your own heart, You have accomplished
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.20|<< 2 Samuel 7:20]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.22|2 Samuel 7:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for sake of  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5668\|עֲב֤וּר]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.Vur<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | word your  |**<big>&#8207;[[H1697J\|דְּבָֽרְ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| de.va.re.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 I heard \[the\] scorns of Moab, and \[the\] ill-treatment by \[the\] sons of Ammon, in which they berated  my people, and magnified themselves over  my borders. 
-<small><sub>**KJV:**</sub></small>
-I have heard the reproach of Moab, and the revilings of the children of Ammon, whereby they have reproached my people, and magnified [themselves] against their border.
-<small><sub>**BSB:**</sub></small>
-“I have heard the reproach of Moab and the insults of the Ammonites, who have taunted My people and threatened their borders.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.2.7|<< Zephaniah 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.2.9|Zephaniah 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

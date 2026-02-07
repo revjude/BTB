@@ -1,4 +1,4 @@
-**Psalms 93:1** 
+**Psalms 93:1**<big><big>[[Ps.93.1 The LORD Reigns!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, [wherewith] he hath girded himself: the world also is stablished, that it cannot be moved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD reigns! He is robed in majesty; the LORD has clothed and armed Himself 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.93.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.15|<< Psalms 92:15]]</td><td align="center" style="border:none;">[[Ps.93|Psalms 93]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.93.2|Psalms 93:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he reigns  |**<big>&#8207;[[H4427A\|מָלָךְ֮]]&#8207; </big>**| ma.loKh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

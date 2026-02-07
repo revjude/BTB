@@ -1,4 +1,4 @@
-**2 Kings 4:30** 
+**2 Kings 4:30**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the mother of the child said, [As] the LORD liveth, and [as] thy soul liveth, I will not leave thee. And he arose, and followed her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the mother of the boy said, “As surely as the LORD lives and as you yourse
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.29|<< 2 Kings 4:29]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.31|2 Kings 4:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֙אמֶר֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] mother of  |**<big>&#8207;[[H0517\|אֵ֣ם]]&#8207; </big>**| 'em<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

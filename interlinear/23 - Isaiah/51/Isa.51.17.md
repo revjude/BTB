@@ -1,4 +1,4 @@
-**Isaiah 51:17** 
+**Isaiah 51:17**<big><big>[[Isa.51.17 God’s Fury Removed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Awake, awake, stand up, O Jerusalem, which hast drunk at the hand of the LORD the cup of his fury; thou hast drunken the dregs of the cup of trembling, [and] wrung [them] out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Awake, awake! Rise up, O Jerusalem, you who have drunk from the hand of the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.16|<< Isaiah 51:16]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.18|Isaiah 51:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | rouse yourself  |**<big>&#8207;[[H5782\|הִתְעוֹרְרִ֣י]]&#8207; </big>**| hit.'o.Ri<small><sup>[[HVtv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rouse yourself  |**<big>&#8207;[[H5782\|הִֽתְעוֹרְרִ֗י]]&#8207; </big>**| hit.'o.Ri<small><sup>[[HVtv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

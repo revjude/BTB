@@ -1,12 +1,12 @@
-**Romans 6:21
-**<small><sub>**KJV:**</sub></small>
+**Romans 6:21**<big><big>[[Rom.6.15 The Wages of Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What fruit had ye then in those things whereof ye are now ashamed? for the end of those things [is] death.
 <small><sub>**BSB:**</sub></small>
 What fruit did you reap at that time from the things of which you are now ashamed? The outcome of those things is death.
 <small><sub>**Literal:**</sub></small>
 What therefore fruit had you then in the [things] of which now you are ashamed? The for end of those things [is] death.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.20|<< Romans 6:20]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.22|Romans 6:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|τίνα]]</big>**  |tina <small><sup>[[I-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Exodus 39:23** 
 <small><sub>**LXX:**</sub></small>
 And the cleft of the undergarment \[was\] in the middle, being interwoven closely, having an edge round about the cleft, reinforced. 
-<small><sub>**KJV:**</sub></small>
-And [there was] an hole in the midst of the robe, as the hole of an habergeon, [with] a band round about the hole, that it should not rend.
-<small><sub>**BSB:**</sub></small>
-with an opening in the center of the robe like that of a garment, with a collar around the opening so that it would not tear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.22|<< Exodus 39:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.24|Exodus 39:24 >>]]</td></tr></table>
 
 | Translation | Greek |

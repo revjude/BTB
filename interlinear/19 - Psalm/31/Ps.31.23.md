@@ -1,4 +1,4 @@
-**Psalms 31:23** (31:24)
+**Psalms 31:23**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O love the LORD, all ye his saints: [for] the LORD preserveth the faithful, and plentifully rewardeth the proud doer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Love the LORD, all His saints. The LORD preserves the faithful, but fully repays
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.22|<< Psalms 31:22]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.24|Psalms 31:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | love  |**<big>&#8207;[[H0157G\|אֶֽהֱב֥וּ]]&#8207; </big>**| 'e.he.Vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

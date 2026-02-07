@@ -1,4 +1,4 @@
-**Numbers 19:2** 
+**Numbers 19:2**<big><big>[[Num.19.1 The Red Heifer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the ordinance of the law which the LORD hath commanded, saying, Speak unto the children of Israel, that they bring thee a red heifer without spot, wherein [is] no blemish, [and] upon which never came yoke:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This [is] the ordinance of the law which the LORD hath commanded, saying, Speak 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.1|<< Numbers 19:1]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.3|Numbers 19:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2063\|זֹ֚את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] statute of  |**<big>&#8207;[[H2708\|חֻקַּ֣ת]]&#8207; </big>**| chu.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

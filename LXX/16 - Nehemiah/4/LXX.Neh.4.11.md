@@ -1,10 +1,7 @@
 **LXX Nehemiah 4:11** 
 <small><sub>**LXX:**</sub></small>
 And the ones afflicting us said, They shall not know, and they shall not see until whenever we should come into \[the\] midst of them, and should murder them, and the work to cease. 
-<small><sub>**KJV:**</sub></small>
-And our adversaries said, They shall not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease.
-<small><sub>**BSB:**</sub></small>
-And our enemies said, “Before they know or see a thing, we will come into their midst, kill them, and put an end to the work.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.10|<< Nehemiah 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.12|Nehemiah 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

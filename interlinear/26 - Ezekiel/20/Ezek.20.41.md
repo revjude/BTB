@@ -1,4 +1,4 @@
-**Ezekiel 20:41** 
+**Ezekiel 20:41**<big><big>[[Ezek.20.33 Judgment and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will accept you with your sweet savour, when I bring you out from the people, and gather you out of the countries wherein ye have been scattered; and I will be sanctified in you before the heathen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I bring you from the peoples and gather you from the lands to which you hav
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.40|<< Ezekiel 20:40]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.42|Ezekiel 20:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> an odor of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7381\|רֵ֣יחַ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Rei.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | soothing  |**<big>&#8207;[[H5207\|נִיחֹחַ֮]]&#8207; </big>**| ni.cho.aCh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Habakkuk 1:9** 
+**Habakkuk 1:9**<big><big>[[Hab.1.5 The LORD’s Answer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall come all for violence: their faces shall sup up [as] the east wind, and they shall gather the captivity as the sand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All of them come bent on violence; their hordes advance like the east wind; they
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.8|<< Habakkuk 1:8]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.10|Habakkuk 1:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all of it  |**<big>&#8207;[[H3605\|כֻּלֹּ]]&#8207;&#8207;[[H9023\|ה֙]]&#8207; </big>**| ku.Lo<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for violence  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2555\|חָמָ֣ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> cha.Mas<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

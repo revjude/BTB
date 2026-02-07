@@ -1,4 +1,4 @@
-**Genesis 18:14** 
+**Genesis 18:14**<big><big>[[Gen.18.9 Sarah Laughs at the Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Is any thing too hard for the LORD? At the time appointed I will return unto thee, according to the time of life, and Sarah shall have a son.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Is anything too difficult for the LORD? At the appointed time I will return to y
 > $\quad$ referenced by: [[Rom.9.9|Rom 9:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ is it [too] difficult  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H6381\|יִפָּלֵ֥א]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> yi.pa.Le'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for Yahweh  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

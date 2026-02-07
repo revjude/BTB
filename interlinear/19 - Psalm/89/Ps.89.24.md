@@ -1,4 +1,4 @@
-**Psalms 89:24** (89:25)
+**Psalms 89:24**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But my faithfulness and my mercy [shall be] with him: and in my name shall his horn be exalted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My faithfulness and loving devotion will be with him, and through My name his ho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.23|<< Psalms 89:23]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.25|Psalms 89:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and faithfulness my  |**<big>&#8207;[[H9002\|וֶֽ]]&#8207;&#8207;[[H0530\|אֶֽמוּנָתִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.mu.na.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and covenant loyalty my  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2617A\|חַסְדִּ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chas.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

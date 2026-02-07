@@ -1,4 +1,4 @@
-**Nehemiah 5:11** 
+**Nehemiah 5:11**<big><big>[[Neh.5.1 Nehemiah Defends the Oppressed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth [part] of the money, and of the corn, the wine, and the oil, that ye exact of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Please restore to them immediately their fields, vineyards, olive groves, and ho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.10|<< Nehemiah 5:10]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.12|Nehemiah 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | return  |**<big>&#8207;[[H7725G\|הָשִׁיבוּ֩]]&#8207; </big>**| ha.shi.Vu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֨א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

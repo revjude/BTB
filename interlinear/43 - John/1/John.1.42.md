@@ -1,12 +1,12 @@
-**John 1:42
-**<small><sub>**KJV:**</sub></small>
+**John 1:42**<big><big>[[John.1.35 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.
 <small><sub>**BSB:**</sub></small>
 Andrew brought him to Jesus, who looked at him and said, “You are Simon son of John. You will be called Cephas” (which is translated as Peter).
 <small><sub>**Literal:**</sub></small>
 and He led him to <the> Jesus. Having looked at now him <the> Jesus said; You yourself are Simon the son of John; You yourself will be called Cephas which means Peter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.41|<< John 1:41]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.43|John 1:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | He led |**<big>[[G0071\|ἤγαγεν]]</big>**  |ēgagen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

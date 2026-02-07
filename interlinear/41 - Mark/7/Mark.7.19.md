@@ -1,12 +1,12 @@
-**Mark 7:19
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:19**<big><big>[[Mark.7.14 What Defiles a Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because it entereth not into his heart, but into the belly, and goeth out into the draught, purging all meats?
 <small><sub>**BSB:**</sub></small>
 because it does not enter his heart, but it goes into the stomach and then is eliminated.” (Thus all foods are clean.)
 <small><sub>**Literal:**</sub></small>
 because not it enters of him into the heart but into the belly and into the sewer goes out, purifying all the food.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.18|<< Mark 7:18]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.20|Mark 7:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

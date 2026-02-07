@@ -1,10 +1,7 @@
 **LXX Numbers 4:47** 
 <small><sub>**LXX:**</sub></small>
 from five and twenty years and up, unto fifty years; every  one entering to the works of the works, and the works of the \[things\] being lifted in the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-From thirty years old and upward even unto fifty years old, every one that came to do the service of the ministry, and the service of the burden in the tabernacle of the congregation,
-<small><sub>**BSB:**</sub></small>
-from thirty to fifty years old who came to do the work of serving and carrying the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.46|<< Numbers 4:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.48|Numbers 4:48 >>]]</td></tr></table>
 
 | Translation | Greek |

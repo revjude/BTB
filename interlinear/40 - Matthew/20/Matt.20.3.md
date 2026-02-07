@@ -1,12 +1,12 @@
-**Matthew 20:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:3**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he went out about the third hour, and saw others standing idle in the marketplace,
 <small><sub>**BSB:**</sub></small>
 About the third hour he went out and saw others standing in the marketplace doing nothing.
 <small><sub>**Literal:**</sub></small>
 And having gone out about the third hour he saw others already standing in the marketplace idle<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.2|<< Matthew 20:2]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.4|Matthew 20:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone out |**<big>[[G1831\|ἐξελθὼν]]</big>**  |exelthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

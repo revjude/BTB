@@ -1,10 +1,7 @@
 **LXX Deuteronomy 24:18** 
 <small><sub>**LXX:**</sub></small>
 And you shall remember that you were a servant in \[the\] land of Egypt, and \[the\] <span class="smallcaps">lord</span> your God ransomed you from there. On account of this I give charge to you to do  this thing. 
-<small><sub>**KJV:**</sub></small>
-But thou shalt remember that thou wast a bondman in Egypt, and the LORD thy God redeemed thee thence: therefore I command thee to do this thing.
-<small><sub>**BSB:**</sub></small>
-Remember that you were slaves in Egypt, and the LORD your God redeemed you from that place. Therefore I am commanding you to do this.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.17|<< Deuteronomy 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.19|Deuteronomy 24:19 >>]]</td></tr></table>
 
 | Translation | Greek |

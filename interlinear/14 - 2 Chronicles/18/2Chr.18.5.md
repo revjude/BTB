@@ -1,4 +1,4 @@
-**2 Chronicles 18:5** 
+**2 Chronicles 18:5**<big><big>[[2Chr.18.1 Jehoshaphat Allies with Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the king of Israel gathered together of prophets four hundred men, and said unto them, Shall we go to Ramothgilead to battle, or shall I forbear? And they said, Go up; for God will deliver [it] into the king’s hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the king of Israel assembled the prophets, four hundred men, and asked them, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.4|<< 2 Chronicles 18:4]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.6|2 Chronicles 18:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he assembled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6908\|יִּקְבֹּ֨ץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Botz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

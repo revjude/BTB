@@ -1,5 +1,5 @@
-**Revelation 14:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:14**<big><big>[[Rev.14.14 The Harvest of the Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I looked, and behold a white cloud, and upon the cloud [one] sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle.
 <small><sub>**BSB:**</sub></small>
 And I looked and saw a white cloud, and seated on the cloud was One like the Son of Man, with a golden crown on His head and a sharp sickle in His hand.
@@ -11,7 +11,7 @@ And I looked and behold a cloud white, and upon the cloud is sitting [One] like 
 > $\quad$ alluding to: [[LXX.Dan.7.13|Dan 7:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I looked |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

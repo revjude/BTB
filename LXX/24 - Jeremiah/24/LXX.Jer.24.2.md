@@ -1,10 +1,7 @@
 **LXX Jeremiah 24:2** 
 <small><sub>**LXX:**</sub></small>
 The one reed basket \[was of\] exceedingly better figs as the early figs; and the other reed basket was of exceedingly bad figs which shall not be eaten because of their badness. 
-<small><sub>**KJV:**</sub></small>
-One basket [had] very good figs, [even] like the figs [that are] first ripe: and the other basket [had] very naughty figs, which could not be eaten, they were so bad.
-<small><sub>**BSB:**</sub></small>
-One basket had very good figs, like those that ripen early, but the other basket contained very poor figs, so bad they could not be eaten.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.1|<< Jeremiah 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.3|Jeremiah 24:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 10:14** 
+**Joshua 10:14**<big><big>[[Josh.10.1 The Day the Sun Stood Still|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was no day like that before it or after it, that the LORD hearkened unto the voice of a man: for the LORD fought for Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There has been no day like it before or since, when the LORD listened to the voi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.13|<< Joshua 10:13]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.15|Joshua 10:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֨א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been  |**<big>&#8207;[[H1961\|הָיָ֜ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

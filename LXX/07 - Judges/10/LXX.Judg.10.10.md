@@ -1,10 +1,7 @@
 **LXX Judges 10:10** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel cried out to \[the\] <span class="smallcaps">lord</span>, saying, We sinned against you, for we abandoned  our God, and we served to the Baalim. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel cried unto the LORD, saying, We have sinned against thee, both because we have forsaken our God, and also served Baalim.
-<small><sub>**BSB:**</sub></small>
-Then the Israelites cried out to the LORD, saying, “We have sinned against You, for we have indeed forsaken our God and served the Baals.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.9|<< Judges 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.11|Judges 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

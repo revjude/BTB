@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:14** 
 <small><sub>**LXX:**</sub></small>
 And I will stand him in  my house, and with  his kingdom unto \[the\] eon. And  his throne will be re-erected unto \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-But I will settle him in mine house and in my kingdom for ever: and his throne shall be established for evermore.
-<small><sub>**BSB:**</sub></small>
-But I will set him over My house and My kingdom forever, and his throne will be established forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.13|<< 1 Chronicles 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.15|1 Chronicles 17:15 >>]]</td></tr></table>
 
 | Translation | Greek |

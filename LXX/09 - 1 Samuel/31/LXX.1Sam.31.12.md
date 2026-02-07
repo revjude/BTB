@@ -1,10 +1,7 @@
 **LXX 1 Samuel 31:12** 
 <small><sub>**LXX:**</sub></small>
 And all the men of power rose up. And they went \[the\] entire  night, and took the body of Saul, and the body of Jonathan  his son from the wall in Beth-sham. And they brought them into Jabish, and incinerated them there. 
-<small><sub>**KJV:**</sub></small>
-All the valiant men arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Bethshan, and came to Jabesh, and burnt them there.
-<small><sub>**BSB:**</sub></small>
-all their men of valor set out, journeyed all night, and retrieved the bodies of Saul and his sons from the wall of Beth-shan. When they arrived at Jabesh, they burned the bodies there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.31.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.31.11|<< 1 Samuel 31:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.31.13|1 Samuel 31:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 35:15** 
+**Ezekiel 35:15**<big><big>[[Ezek.35.1 A Prophecy against Mount Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As thou didst rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto thee: thou shalt be desolate, O mount Seir, and all Idumea, [even] all of it: and they shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As you rejoiced when the inheritance of the house of Israel became desolate, so 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.35.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.14|<< Ezekiel 35:14]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.1|Ezekiel 36:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | according to rejoicing your  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8057\|שִׂמְחָ֨תְ]]&#8207;&#8207;[[H9021\|ךָ֜]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> sim.Cha.te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] inheritance of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5159\|נַחְלַ֧ת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> nach.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

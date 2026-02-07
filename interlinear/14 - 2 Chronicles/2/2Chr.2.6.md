@@ -1,4 +1,4 @@
-**2 Chronicles 2:6** (2:5)
+**2 Chronicles 2:6**<big><big>[[2Chr.2.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But who is able to build him an house, seeing the heaven and heaven of heavens cannot contain him? who [am] I then, that I should build him an house, save only to burn sacrifice before him?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But who is able to build a house for Him, since the heavens, even the highest he
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.5|<< 2 Chronicles 2:5]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.7|2 Chronicles 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and who?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he retain  |**<big>&#8207;[[H6113\|יַעֲצָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.'a.tzor-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

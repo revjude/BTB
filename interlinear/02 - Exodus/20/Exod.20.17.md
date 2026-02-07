@@ -1,4 +1,4 @@
-**Exodus 20:17** 
+**Exodus 20:17**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that [is] thy neighbour’s.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You shall not covet your neighbor’s house. You shall not covet your neighbor�
 > $\quad$ referenced by: [[Rom.7.7|Rom 7:7]] ☩ [[Rom.13.9|Rom 13:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must covet  |**<big>&#8207;[[H2530A\|תַחְמֹ֖ד]]&#8207; </big>**| tach.Mod<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

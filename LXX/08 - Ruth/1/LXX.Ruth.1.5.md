@@ -1,10 +1,7 @@
 **LXX Ruth 1:5** 
 <small><sub>**LXX:**</sub></small>
 And also indeed both Mahlon and Chilion died. And the woman was left of  her two sons, and of  her husband. 
-<small><sub>**KJV:**</sub></small>
-And Mahlon and Chilion died also both of them; and the woman was left of her two sons and her husband.
-<small><sub>**BSB:**</sub></small>
-both Mahlon and Chilion also died, and Naomi was left without her two sons and without her husband.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.4|<< Ruth 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.6|Ruth 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

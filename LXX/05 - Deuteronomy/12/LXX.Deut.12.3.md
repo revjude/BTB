@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall raze  their shrines, and break  their monuments; and  you shall cut down their sacred groves; and the carvings  of their gods you shall incinerate by fire; and you shall destroy  their names from out of  that place. 
-<small><sub>**KJV:**</sub></small>
-And ye shall overthrow their altars, and break their pillars, and burn their groves with fire; and ye shall hew down the graven images of their gods, and destroy the names of them out of that place.
-<small><sub>**BSB:**</sub></small>
-Tear down their altars, smash their sacred pillars, burn up their Asherah poles, cut down the idols of their gods, and wipe out their names from every place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.2|<< Deuteronomy 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.4|Deuteronomy 12:4 >>]]</td></tr></table>
 
 | Translation | Greek |

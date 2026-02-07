@@ -1,5 +1,5 @@
-**1 Thessalonians 3:13
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 3:13**<big><big>[[1Thess.3.6 Timothy’s Encouraging Report|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints.
 <small><sub>**BSB:**</sub></small>
 so that He may establish your hearts in blamelessness and holiness before our God and Father at the coming of our Lord Jesus with all His saints. Amen.
@@ -10,7 +10,7 @@ in order <the> to strengthen your <the> hearts blameless in holiness before the 
 > $\quad$ referencing: [[LXX.Zech.14.5|Zech 14:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in order |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

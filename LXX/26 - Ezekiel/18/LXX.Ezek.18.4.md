@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 For all the souls are mine; in which manner the soul of the father, also the soul of the son; they are mine. The soul  sinning, this one shall die. 
-<small><sub>**KJV:**</sub></small>
-Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die.
-<small><sub>**BSB:**</sub></small>
-Behold, every soul belongs to Me; both father and son are Mine. The soul who sins is the one who will die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.3|<< Ezekiel 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.5|Ezekiel 18:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 70:2** (70:3)
+**Psalms 70:2**<big><big>[[Ps.70.1 Hurry, O LORD, to Help Me!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May those who seek my life be ashamed and confounded; may those who wish me harm
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.70.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.70.1|<< Psalms 70:1]]</td><td align="center" style="border:none;">[[Ps.70|Psalms 70]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.70.3|Psalms 70:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they be ashamed  |**<big>&#8207;[[H0954\|יֵבֹ֣שׁוּ]]&#8207; </big>**| ye.Vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they may be abashed  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2659\|יַחְפְּרוּ֮]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yach.pe.Ru<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

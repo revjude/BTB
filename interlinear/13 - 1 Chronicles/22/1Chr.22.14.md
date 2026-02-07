@@ -1,4 +1,4 @@
-**1 Chronicles 22:14** 
+**1 Chronicles 22:14**<big><big>[[1Chr.22.6 Solomon Anointed to Build the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now, behold, in my trouble I have prepared for the house of the LORD an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and thou mayest add thereto.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now behold, I have taken great pains to provide for the house of the LORD—100,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.13|<< 1 Chronicles 22:13]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.15|1 Chronicles 22:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and here!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֨ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in affliction my  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H6040\|עָנְיִ֜]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'a.ne.Y<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

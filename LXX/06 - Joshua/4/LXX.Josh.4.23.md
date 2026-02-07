@@ -1,10 +1,7 @@
 **LXX Joshua 4:23** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> our God to dry up the water of the Jordan from  in front of them, until of which \[time\] they passed over, just as \[the\] <span class="smallcaps">lord</span> our God did to the red sea, which \[the\] <span class="smallcaps">lord</span> God caused to dry up in front of us until we went by. 
-<small><sub>**KJV:**</sub></small>
-For the LORD your God dried up the waters of Jordan from before you, until ye were passed over, as the LORD your God did to the Red sea, which he dried up from before us, until we were gone over:
-<small><sub>**BSB:**</sub></small>
-For the LORD your God dried up the waters of the Jordan before you until you had crossed over, just as He did to the Red Sea, which He dried up before us until we had crossed over.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.22|<< Joshua 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.24|Joshua 4:24 >>]]</td></tr></table>
 
 | Translation | Greek |

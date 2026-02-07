@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the young woman pleased him, and she found favor before him. And he hastened to give her the beauty treatment, and \[her\] portion, and the seven young women  being exhibited to her from \[the\] royal \[palace\]. And he treated her well, and  her handmaidens in the chamber of the women. 
-<small><sub>**KJV:**</sub></small>
-And the maiden pleased him, and she obtained kindness of him; and he speedily gave her her things for purification, with such things as belonged to her, and seven maidens, [which were] meet to be given her, out of the king’s house: and he preferred her and her maids unto the best [place] of the house of the women.
-<small><sub>**BSB:**</sub></small>
-And the young woman pleased him and obtained his favor, so he quickly provided her with beauty treatments and the special diet. He assigned to her seven select maidservants from the palace and transferred her with them to the best place in the harem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.8|<< Esther 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.10|Esther 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

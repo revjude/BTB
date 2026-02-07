@@ -1,4 +1,4 @@
-**Genesis 18:7** 
+**Genesis 18:7**<big><big>[[Gen.18.1 The Three Visitors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham ran unto the herd, and fetcht a calf tender and good, and gave [it] unto a young man; and he hasted to dress it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Meanwhile, Abraham ran to the herd, selected a tender and choice calf, and gave 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.6|<< Genesis 18:6]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.8|Genesis 18:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the herd  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1241\|בָּקָ֖ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 29:20** 
 <small><sub>**LXX:**</sub></small>
 And Jacob served for Rachel seven years, and they were before him as a few days, because of  his love for her. 
-<small><sub>**KJV:**</sub></small>
-And Jacob served seven years for Rachel; and they seemed unto him [but] a few days, for the love he had to her.
-<small><sub>**BSB:**</sub></small>
-So Jacob served seven years for Rachel, yet it seemed but a few days because of his love for her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.19|<< Genesis 29:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.21|Genesis 29:21 >>]]</td></tr></table>
 
 | Translation | Greek |

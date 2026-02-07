@@ -1,10 +1,7 @@
 **LXX Exodus 40:5** 
 <small><sub>**LXX:**</sub></small>
 And you shall place the golden altar to  burn incense before the ark of the testimony. And you shall place a covering veil upon the door of the tent. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt set the altar of gold for the incense before the ark of the testimony, and put the hanging of the door to the tabernacle.
-<small><sub>**BSB:**</sub></small>
-Place the gold altar of incense in front of the ark of the Testimony, and hang the curtain at the entrance to the tabernacle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.4|<< Exodus 40:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.6|Exodus 40:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:47** 
 <small><sub>**LXX:**</sub></small>
 And neither as in  their ways were you gone, nor according to  their lawless deeds acted even a little, but you take precedence over them in all  your ways. 
-<small><sub>**KJV:**</sub></small>
-Yet hast thou not walked after their ways, nor done after their abominations: but, as [if that were] a very little [thing], thou wast corrupted more than they in all thy ways.
-<small><sub>**BSB:**</sub></small>
-And you not only walked in their ways and practiced their abominations, but soon you were more depraved than they were.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.46|<< Ezekiel 16:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.48|Ezekiel 16:48 >>]]</td></tr></table>
 
 | Translation | Greek |

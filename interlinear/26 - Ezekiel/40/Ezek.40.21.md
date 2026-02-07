@@ -1,4 +1,4 @@
-**Ezekiel 40:21** 
+**Ezekiel 40:21**<big><big>[[Ezek.40.20 The North Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the little chambers thereof [were] three on this side and three on that side; and the posts thereof and the arches thereof were after the measure of the first gate: the length thereof [was] fifty cubits, and the breadth five and twenty cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Its three gate chambers on each side, its side pillars, and its portico all had 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.20|<< Ezekiel 40:20]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.22|Ezekiel 40:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and chambers its  [^3]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8372\|תָאָ֗י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**[^4] | ve.<small><sup>[[HC]]</sup></small> ta.'o<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | three  |**<big>&#8207;[[H7969\|שְׁלוֹשָׁ֤ה]]&#8207; </big>**| she.lo.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Revelation 2:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:16**<big><big>[[Rev.2.12 To the Church in Pergamum|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth.
 <small><sub>**BSB:**</sub></small>
 Therefore repent! Otherwise I will come to you shortly and wage war against them with the sword of My mouth.
 <small><sub>**Literal:**</sub></small>
 do repent therefore! lest then except I am coming to you quickly and I will make war against them with the sword of the mouth of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.15|<< Revelation 2:15]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.17|Revelation 2:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do repent |**<big>[[G3340\|μετανόησον]]</big>**  |metanoēson <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore! [^1] |**<big>[[G3767\|οὖν·]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH+Treg+Byz">NO</abbr> | |

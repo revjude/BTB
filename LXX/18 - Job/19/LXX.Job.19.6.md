@@ -1,10 +1,7 @@
 **LXX Job 19:6** 
 <small><sub>**LXX:**</sub></small>
 Know then! that the <span class="smallcaps">lord</span> is the one disturbing; and his fortress he raised up high against me. 
-<small><sub>**KJV:**</sub></small>
-Know now that God hath overthrown me, and hath compassed me with his net.
-<small><sub>**BSB:**</sub></small>
-then understand that it is God who has wronged me and drawn His net around me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.5|<< Job 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.7|Job 19:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 14:37** 
 <small><sub>**LXX:**</sub></small>
 and they died, the men  avowing bad \[things\] concerning the land in the calamity before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Even those men that did bring up the evil report upon the land, died by the plague before the LORD.
-<small><sub>**BSB:**</sub></small>
-those men who had brought out the bad report about the land—were struck down by a plague before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.36|<< Numbers 14:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.38|Numbers 14:38 >>]]</td></tr></table>
 
 | Translation | Greek |

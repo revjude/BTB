@@ -1,10 +1,7 @@
 **LXX Numbers 4:13** 
 <small><sub>**LXX:**</sub></small>
 And they shall place the lid upon the altar, and they shall cover over it \[with\] a garment entirely of purple. 
-<small><sub>**KJV:**</sub></small>
-And they shall take away the ashes from the altar, and spread a purple cloth thereon:
-<small><sub>**BSB:**</sub></small>
-Then they shall remove the ashes from the bronze altar, spread a purple cloth over it,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.12|<< Numbers 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.14|Numbers 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

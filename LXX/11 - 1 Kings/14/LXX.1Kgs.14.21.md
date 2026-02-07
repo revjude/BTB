@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:21** 
 <small><sub>**LXX:**</sub></small>
 And Rehoboam son of Solomon reigned over Judah. Rehoboam \[was\] a son \[being\] forty and one years \[old\] in  his being given reign. And seventeen years he reigned in Jerusalem, in the city in which \[the\] <span class="smallcaps">lord</span> chose to put  his name there from all of \[the\] tribes  of Israel. And the name  of his mother \[was\] Naamah the Ammonitess. 
-<small><sub>**KJV:**</sub></small>
-And Rehoboam the son of Solomon reigned in Judah. Rehoboam [was] forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD did choose out of all the tribes of Israel, to put his name there. And his mother’s name [was] Naamah an Ammonitess.
-<small><sub>**BSB:**</sub></small>
-Meanwhile, Rehoboam son of Solomon reigned in Judah. He was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city the LORD had chosen from all the tribes of Israel in which to put His Name. His mother’s name was Naamah the Ammonite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.20|<< 1 Kings 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.22|1 Kings 14:22 >>]]</td></tr></table>
 
 | Translation | Greek |

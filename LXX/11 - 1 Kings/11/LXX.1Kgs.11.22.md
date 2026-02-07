@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:22** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh said \[to\] Hadad, What do you lack with me, that behold, you seek to go forth into  your land? And Hadad said to him, Not one thing, but by sending you shall send me. 
-<small><sub>**KJV:**</sub></small>
-Then Pharaoh said unto him, But what hast thou lacked with me, that, behold, thou seekest to go to thine own country? And he answered, Nothing: howbeit let me go in any wise.
-<small><sub>**BSB:**</sub></small>
-But Pharaoh asked him, “What have you lacked here with me that you suddenly want to go back to your own country?” “Nothing,” Hadad replied, “but please let me go.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.21|<< 1 Kings 11:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.23|1 Kings 11:23 >>]]</td></tr></table>
 
 | Translation | Greek |

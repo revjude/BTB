@@ -1,10 +1,7 @@
 **LXX Isaiah 54:16** 
 <small><sub>**LXX:**</sub></small>
 Behold, I created you, not as a brazier blowing in a fire of coals, and bringing forth a utensil for work; but I created you, not for destruction to corrupt. 
-<small><sub>**KJV:**</sub></small>
-Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.
-<small><sub>**BSB:**</sub></small>
-Behold, I have created the craftsman who fans the coals into flame and forges a weapon fit for its task; and I have created the destroyer to wreak havoc.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.54.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.15|<< Isaiah 54:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.17|Isaiah 54:17 >>]]</td></tr></table>
 
 | Translation | Greek |

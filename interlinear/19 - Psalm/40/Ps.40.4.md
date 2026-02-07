@@ -1,4 +1,4 @@
-**Psalms 40:4** (40:5)
+**Psalms 40:4**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [is] that man that maketh the LORD his trust, and respecteth not the proud, nor such as turn aside to lies.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Blessed is the man who has made the LORD his trust, who has not turned to the pr
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed!  |**<big>&#8207;[[H0835\|אַ֥שְֽׁרֵי]]&#8207; </big>**| 'Ash.rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] the man  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1397\|גֶּ֗בֶר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ge.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

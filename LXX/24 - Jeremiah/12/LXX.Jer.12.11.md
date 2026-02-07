@@ -1,10 +1,7 @@
 **LXX Jeremiah 12:11** 
 <small><sub>**LXX:**</sub></small>
 It was appointed for extinction by destruction; on account of me all the land was obliterated in extinction, for there is no man putting it to heart. 
-<small><sub>**KJV:**</sub></small>
-They have made it desolate, [and being] desolate it mourneth unto me; the whole land is made desolate, because no man layeth [it] to heart.
-<small><sub>**BSB:**</sub></small>
-They have made it a desolation; desolate before Me, it mourns. All the land is laid waste, but no man takes it to heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.10|<< Jeremiah 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.12|Jeremiah 12:12 >>]]</td></tr></table>
 
 | Translation | Greek |

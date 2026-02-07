@@ -1,10 +1,7 @@
 **LXX Job 1:4** 
 <small><sub>**LXX:**</sub></small>
 And his sons going to one another prepared a banquet, each  of his own day, taking along together also  their three sisters to eat and to drink with them. 
-<small><sub>**KJV:**</sub></small>
-And his sons went and feasted [in their] houses, every one his day; and sent and called for their three sisters to eat and to drink with them.
-<small><sub>**BSB:**</sub></small>
-Job’s sons would take turns holding feasts in their homes, and they would invite their three sisters to eat and drink with them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.3|<< Job 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.5|Job 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

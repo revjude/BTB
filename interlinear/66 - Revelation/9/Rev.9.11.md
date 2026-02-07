@@ -1,12 +1,12 @@
-**Revelation 9:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:11**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they had a king over them, [which is] the angel of the bottomless pit, whose name in the Hebrew tongue [is] Abaddon, but in the Greek tongue hath [his] name Apollyon.
 <small><sub>**BSB:**</sub></small>
 They were ruled by a king, the angel of the Abyss. His name in Hebrew is Abaddon, and in Greek it is Apollyon.
 <small><sub>**Literal:**</sub></small>
 and They have over them a king <the> angel of the abyss; [The] name of Him in Hebrew [is] Abaddon, and in the Greek [the] name he has Apollyon.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.10|<< Revelation 9:10]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.12|Revelation 9:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |
 | They have [^1] |**<big>[[G2192\|ἔχουσιν]]</big>**  |echousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |

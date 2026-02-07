@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 You shall not adhere to one witness in witnessing against a man for any injustice, and for any sin, and for any sin which ever he should have sinned. By \[the\] mouth of two witnesses, and by \[the\] mouth of three witnesses every word shall be established. 
-<small><sub>**KJV:**</sub></small>
-One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.
-<small><sub>**BSB:**</sub></small>
-A lone witness is not sufficient to establish any wrongdoing or sin against a man, regardless of what offense he may have committed. A matter must be established by the testimony of two or three witnesses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.14|<< Deuteronomy 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.16|Deuteronomy 19:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 19:15** is...

@@ -1,10 +1,7 @@
 **LXX Isaiah 26:16** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, in affliction we remembered you; in small affliction  your instruction \[is with\] us. 
-<small><sub>**KJV:**</sub></small>
-LORD, in trouble have they visited thee, they poured out a prayer [when] thy chastening [was] upon them.
-<small><sub>**BSB:**</sub></small>
-O LORD, they sought You in their distress; when You disciplined them, they poured out a quiet prayer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.26.15|<< Isaiah 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.26.17|Isaiah 26:17 >>]]</td></tr></table>
 
 | Translation | Greek |

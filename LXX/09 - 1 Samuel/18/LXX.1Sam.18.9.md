@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:9** 
 <small><sub>**LXX:**</sub></small>
 And Saul was suspecting  David from  that day and beyond. 
-<small><sub>**KJV:**</sub></small>
-And Saul eyed David from that day and forward.
-<small><sub>**BSB:**</sub></small>
-And from that day forward Saul kept a jealous eye on David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.8|<< 1 Samuel 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.10|1 Samuel 18:10 >>]]</td></tr></table>
 
 | Translation | Greek |

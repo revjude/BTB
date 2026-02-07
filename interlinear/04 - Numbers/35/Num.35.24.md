@@ -1,4 +1,4 @@
-**Numbers 35:24** 
+**Numbers 35:24**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the congregation shall judge between the slayer and the revenger of blood according to these judgments:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then the congregation must judge between the slayer and the avenger of blood acc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.23|<< Numbers 35:23]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.25|Numbers 35:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will judge  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8199\|שָֽׁפְטוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.fe.Tu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the congregation  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H5712\|עֵדָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Dah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

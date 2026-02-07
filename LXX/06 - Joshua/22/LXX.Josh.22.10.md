@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they came into Galeloth  of Jordan, which is in \[the\] land of Canaan; and they built (the sons of Reuben, and the sons of Gad, and the half tribe of Manasseh) there a shrine upon the Jordan; a great shrine  to behold. 
-<small><sub>**KJV:**</sub></small>
-And when they came unto the borders of Jordan, that [are] in the land of Canaan, the children of Reuben and the children of Gad and the half tribe of Manasseh built there an altar by Jordan, a great altar to see to.
-<small><sub>**BSB:**</sub></small>
-And when they came to Geliloth near the Jordan in the land of Canaan, the Reubenites, the Gadites, and the half-tribe of Manasseh built an imposing altar there by the Jordan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.9|<< Joshua 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.11|Joshua 22:11 >>]]</td></tr></table>
 
 | Translation | Greek |

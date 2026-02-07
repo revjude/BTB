@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:11** 
 <small><sub>**LXX:**</sub></small>
 And Malchijah measured \[section\] son of Harim and Hashub son of Pahath-moab repaired a second, even unto \[the\] tower of the furnaces. 
-<small><sub>**KJV:**</sub></small>
-Malchijah the son of Harim, and Hashub the son of Pahathmoab, repaired the other piece, and the tower of the furnaces.
-<small><sub>**BSB:**</sub></small>
-Malchijah son of Harim and Hasshub son of Pahath-moab repaired another section, as well as the Tower of the Ovens.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.10|<< Nehemiah 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.12|Nehemiah 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Habakkuk 1:2** 
 <small><sub>**LXX:**</sub></small>
 For how long, O <span class="smallcaps">lord</span>, shall I cry out, and in no way should you listen? \[For how long\] shall I yell to you being wronged, and you should not deliver? 
-<small><sub>**KJV:**</sub></small>
-O LORD, how long shall I cry, and thou wilt not hear! [even] cry out unto thee [of] violence, and thou wilt not save!
-<small><sub>**BSB:**</sub></small>
-How long, O LORD, must I call for help but You do not hear, or cry out to You, “Violence!” but You do not save?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.1.1|<< Habakkuk 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.1.3|Habakkuk 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Kings 14:21** 
+**2 Kings 14:21**<big><big>[[2Kgs.14.21 Azariah Succeeds Amaziah in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people of Judah took Azariah, which [was] sixteen years old, and made him king instead of his father Amaziah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then all the people of Judah took Azariah, who was sixteen years old, and made h
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.20|<< 2 Kings 14:20]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.22|2 Kings 14:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקְח֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

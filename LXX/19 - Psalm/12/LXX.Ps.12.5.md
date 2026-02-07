@@ -1,10 +1,7 @@
 **LXX Psalm 12:5** 
 <small><sub>**LXX:**</sub></small>
 Because of the misery of the poor, and the moaning of the needy, now I will arise, says \[the\] <span class="smallcaps">lord</span>, I will establish by deliverance, I will speak openly by him. 
-<small><sub>**KJV:**</sub></small>
-For the oppression of the poor, for the sighing of the needy, now will I arise, saith the LORD; I will set [him] in safety [from him that] puffeth at him.
-<small><sub>**BSB:**</sub></small>
-“For the cause of the oppressed and for the groaning of the needy, I will now arise,” says the LORD. “I will bring safety to him who yearns.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.12.4|<< Psalm 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.12.6|Psalm 12:6 >>]]</td></tr></table>
 
 | Translation | Greek |

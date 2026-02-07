@@ -1,10 +1,7 @@
 **LXX Leviticus 4:2** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! saying, If a soul should sin unintentionally from all of the orders of \[the\] <span class="smallcaps">lord</span>, of which \[things\] he must not be doing, and he should do any one of them; 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the LORD [concerning things] which ought not to be done, and shall do against any of them:
-<small><sub>**BSB:**</sub></small>
-“Tell the Israelites to do as follows with one who sins unintentionally against any of the LORD’s commandments and does what is forbidden by them:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.1|<< Leviticus 4:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.3|Leviticus 4:3 >>]]</td></tr></table>
 
 | Translation | Greek |

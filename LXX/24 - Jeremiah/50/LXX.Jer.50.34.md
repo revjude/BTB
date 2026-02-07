@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:34** 
 <small><sub>**LXX:**</sub></small>
 But the one ransoming them \[is\] strong; \[the\] <span class="smallcaps">lord</span> almighty \[is\] his name. He will judge equitably against  his opponents, that the land should be removed; and he provokes the ones dwelling in Babylon. 
-<small><sub>**KJV:**</sub></small>
-Their Redeemer [is] strong; the LORD of hosts [is] his name: he shall throughly plead their cause, that he may give rest to the land, and disquiet the inhabitants of Babylon.
-<small><sub>**BSB:**</sub></small>
-Their Redeemer is strong; the LORD of Hosts is His name. He will fervently plead their case so that He may bring rest to the earth, but turmoil to those who live in Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.33|<< Jeremiah 50:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.35|Jeremiah 50:35 >>]]</td></tr></table>
 
 | Translation | Greek |

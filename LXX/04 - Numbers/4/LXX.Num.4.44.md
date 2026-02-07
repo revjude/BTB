@@ -1,10 +1,7 @@
 **LXX Numbers 4:44** 
 <small><sub>**LXX:**</sub></small>
 And their numbering was according to their peoples, according to \[the\] houses of their patrimony -- three thousand and two hundred. 
-<small><sub>**KJV:**</sub></small>
-Even those that were numbered of them after their families, were three thousand and two hundred.
-<small><sub>**BSB:**</sub></small>
-The men registered by their clans numbered 3,200.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.43|<< Numbers 4:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.45|Numbers 4:45 >>]]</td></tr></table>
 
 | Translation | Greek |

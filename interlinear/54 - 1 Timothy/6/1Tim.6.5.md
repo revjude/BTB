@@ -1,12 +1,12 @@
-**1 Timothy 6:5
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:5**<big><big>[[1Tim.6.3 Reject False Doctrines|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.
 <small><sub>**BSB:**</sub></small>
 and constant friction between men of depraved mind who are devoid of the truth. These men regard godliness as a means of gain.
 <small><sub>**Literal:**</sub></small>
 [and] constant frictions corrupted among men <the> in mind and defrauded of the truth, holding a means of gain to be <the> godliness do depart from <the>[one of] such.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.4|<< 1 Timothy 6:4]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.6|1 Timothy 6:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [and] constant frictions |**<big>[[G3859\|διαπαρατριβαὶ]]</big>**  [^1] |diaparatribai <small><sup>[[N-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | corrupted |**<big>[[G1311\|διεφθαρμένων]]</big>**  |diephtharmenōn <small><sup>[[V-RPP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**1 Samuel 29:4** 
+**1 Samuel 29:4**<big><big>[[1Sam.29.1 The Philistines Reject David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the princes of the Philistines were wroth with him; and the princes of the Philistines said unto him, Make this fellow return, that he may go again to his place which thou hast appointed him, and let him not go down with us to battle, lest in the battle he be an adversary to us: for wherewith should he reconcile himself unto his master? [should it] not [be] with the heads of these men?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the commanders of the Philistines were angry with Achish and told him, “Se
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.29.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.3|<< 1 Samuel 29:3]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.5|1 Samuel 29:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were angry  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7107\|יִּקְצְפ֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.tze.Fu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | towards him  |**<big>&#8207;[[H5921A\|עָלָ֜י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

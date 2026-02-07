@@ -1,10 +1,7 @@
 **LXX Proverbs 31:6** 
 <small><sub>**LXX:**</sub></small>
 Give intoxicating drink to the ones in distresses, and wine to drink to the ones in griefs! 
-<small><sub>**KJV:**</sub></small>
-Give strong drink unto him that is ready to perish, and wine unto those that be of heavy hearts.
-<small><sub>**BSB:**</sub></small>
-Give strong drink to one who is perishing, and wine to the bitter in soul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.31.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.5|<< Proverbs 31:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.7|Proverbs 31:7 >>]]</td></tr></table>
 
 | Translation | Greek |

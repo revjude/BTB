@@ -1,4 +1,4 @@
-**2 Kings 23:10** 
+**2 Kings 23:10**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he defiled Topheth, which [is] in the valley of the children of Hinnom, that no man might make his son or his daughter to pass through the fire to Molech.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also desecrated Topheth in the Valley of Ben-hinnom so that no one could sacr
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.9|<< 2 Kings 23:9]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.11|2 Kings 23:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made unclean  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2930A\|טִמֵּ֣א]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ti.Me'<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

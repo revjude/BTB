@@ -1,10 +1,7 @@
 **LXX Ezekiel 24:6** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says Adonai \[the\] <span class="smallcaps">lord</span>; O city of bloodshed, a kettle in which there is poison in it, and the poison did not come forth out of her; they brought forth by her limb; a lot fell not unto her. 
-<small><sub>**KJV:**</sub></small>
-Wherefore thus saith the Lord GOD; Woe to the bloody city, to the pot whose scum [is] therein, and whose scum is not gone out of it! bring it out piece by piece; let no lot fall upon it.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: ‘Woe to the city of bloodshed, to the pot now rusted, whose rust will not come off! Empty it piece by piece; cast no lots for its contents.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.5|<< Ezekiel 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.7|Ezekiel 24:7 >>]]</td></tr></table>
 
 | Translation | Greek |

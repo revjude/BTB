@@ -1,10 +1,7 @@
 **LXX Numbers 4:46** 
 <small><sub>**LXX:**</sub></small>
 All the ones being numbered, whom Moses numbered, and Aaron, and the rulers of Israel of the Levites, according to their peoples, and according to \[the\] houses of their patrimony, 
-<small><sub>**KJV:**</sub></small>
-All those that were numbered of the Levites, whom Moses and Aaron and the chief of Israel numbered, after their families, and after the house of their fathers,
-<small><sub>**BSB:**</sub></small>
-So Moses, Aaron, and the leaders of Israel numbered by their clans and families all the Levites<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.45|<< Numbers 4:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.47|Numbers 4:47 >>]]</td></tr></table>
 
 | Translation | Greek |

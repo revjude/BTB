@@ -1,10 +1,7 @@
 **LXX Psalm 55:21** 
 <small><sub>**LXX:**</sub></small>
 He divided them into parts from \[the\] anger  of his face, and their hearts approached. His words were made tender above olive oil, yet they are arrows. 
-<small><sub>**KJV:**</sub></small>
-[The words] of his mouth were smoother than butter, but war [was] in his heart: his words were softer than oil, yet [were] they drawn swords.
-<small><sub>**BSB:**</sub></small>
-His speech is smooth as butter, but war is in his heart. His words are softer than oil, yet they are swords unsheathed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.55.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.20|<< Psalm 55:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.22|Psalm 55:22 >>]]</td></tr></table>
 
 | Translation | Greek |

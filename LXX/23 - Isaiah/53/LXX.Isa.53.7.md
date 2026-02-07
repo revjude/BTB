@@ -1,10 +1,7 @@
 **LXX Isaiah 53:7** 
 <small><sub>**LXX:**</sub></small>
 And he on account of  being inflicted by evil opened not  his mouth. He was led as a sheep unto slaughter, and as a lamb before the one shearing \[is\] voiceless, so he did not open  his mouth. 
-<small><sub>**KJV:**</sub></small>
-He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.
-<small><sub>**BSB:**</sub></small>
-He was oppressed and afflicted, yet He did not open His mouth. He was led like a lamb to the slaughter, and as a sheep before her shearers is silent, so He did not open His mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.53.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.6|<< Isaiah 53:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.8|Isaiah 53:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 53:7** is...

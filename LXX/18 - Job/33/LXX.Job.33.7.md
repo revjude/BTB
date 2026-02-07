@@ -1,10 +1,7 @@
 **LXX Job 33:7** 
 <small><sub>**LXX:**</sub></small>
 You whirl about not in \[the\] fear of me, nor  be my hand heavy upon you. 
-<small><sub>**KJV:**</sub></small>
-Behold, my terror shall not make thee afraid, neither shall my hand be heavy upon thee.
-<small><sub>**BSB:**</sub></small>
-Surely no fear of me should terrify you; nor will my hand be heavy upon you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.6|<< Job 33:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.8|Job 33:8 >>]]</td></tr></table>
 
 | Translation | Greek |

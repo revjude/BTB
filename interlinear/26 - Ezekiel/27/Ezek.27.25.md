@@ -1,4 +1,4 @@
-**Ezekiel 27:25** 
+**Ezekiel 27:25**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ships of Tarshish did sing of thee in thy market: and thou wast replenished, and made very glorious in the midst of the seas.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The ships of Tarshish carried your merchandise. And you were filled with heavy c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.24|<< Ezekiel 27:24]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.26|Ezekiel 27:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] ships of  |**<big>&#8207;[[H0591\|אֳנִיּ֣וֹת]]&#8207; </big>**| 'o.ni.Yot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Tarshish  |**<big>&#8207;[[H8659H\|תַּרְשִׁ֔ישׁ]]&#8207; </big>**| tar.Shish<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Amos 3:6** 
+**Amos 3:6**<big><big>[[Amos.3.1 Witnesses against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the LORD hath not done [it]?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a ram’s horn sounds in a city, do the people not tremble? If calamity comes
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.3.5|<< Amos 3:5]]</td><td align="center" style="border:none;">[[Amos.3|Amos 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.3.7|Amos 3:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<if>?  |**<big>&#8207;[[H0518I\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | is it blown  |**<big>&#8207;[[H8628\|יִתָּקַ֤ע]]&#8207; </big>**| yi.ta.Ka'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

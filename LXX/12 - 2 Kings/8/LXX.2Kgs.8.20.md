@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:20** 
 <small><sub>**LXX:**</sub></small>
 In  his days Edom annulled \[allegiance\] from beneath \[the\] hand of Judah, and they gave reign to a king over themselves. 
-<small><sub>**KJV:**</sub></small>
-In his days Edom revolted from under the hand of Judah, and made a king over themselves.
-<small><sub>**BSB:**</sub></small>
-In the days of Jehoram, Edom rebelled against the hand of Judah and appointed their own king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.19|<< 2 Kings 8:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.21|2 Kings 8:21 >>]]</td></tr></table>
 
 | Translation | Greek |

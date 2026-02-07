@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 7:14** 
 <small><sub>**LXX:**</sub></small>
 and they should have shame  (my people upon whom call upon  my name) upon them, and should pray, and should seek  my face, and should turn from  their wicked ways, then I shall listen from the heaven, and I will be propitious to their sins, and I will heal  their land. 
-<small><sub>**KJV:**</sub></small>
-If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.
-<small><sub>**BSB:**</sub></small>
-and if My people who are called by My name humble themselves and pray and seek My face and turn from their wicked ways, then I will hear from heaven, forgive their sin, and heal their land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.13|<< 2 Chronicles 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.15|2 Chronicles 7:15 >>]]</td></tr></table>
 
 | Translation | Greek |

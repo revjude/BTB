@@ -1,10 +1,7 @@
 **LXX Ezra 2:31** 
 <small><sub>**LXX:**</sub></small>
 Sons of \[the\] other Elam -- a thousand two hundred fifty-four. 
-<small><sub>**KJV:**</sub></small>
-The children of the other Elam, a thousand two hundred fifty and four.
-<small><sub>**BSB:**</sub></small>
-the descendants of the other Elam, 1,254;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.2.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.30|<< Ezra 2:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.32|Ezra 2:32 >>]]</td></tr></table>
 
 | Translation | Greek |

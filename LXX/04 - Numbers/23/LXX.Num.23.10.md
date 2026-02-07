@@ -1,10 +1,7 @@
 **LXX Numbers 23:10** 
 <small><sub>**LXX:**</sub></small>
 Who determined exactly the seed of Jacob, and who shall count out peoples of Israel? my soul die among souls of \[the\] just, and my seed become as the seed of this. 
-<small><sub>**KJV:**</sub></small>
-Who can count the dust of Jacob, and the number of the fourth [part] of Israel? Let me die the death of the righteous, and let my last end be like his!
-<small><sub>**BSB:**</sub></small>
-Who can count the dust of Jacob or number even a fourth of Israel? Let me die the death of the righteous; let my end be like theirs!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.9|<< Numbers 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.11|Numbers 23:11 >>]]</td></tr></table>
 
 | Translation | Greek |

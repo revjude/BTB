@@ -1,4 +1,4 @@
-**Joshua 21:14** 
+**Joshua 21:14**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jattir with her suburbs, and Eshtemoa with her suburbs,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jattir, Eshtemoa,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.13|<< Joshua 21:13]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.15|Joshua 21:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jattir  |**<big>&#8207;[[H3492\|יַתִּר֙]]&#8207; </big>**| ya.Tir<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

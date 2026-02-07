@@ -1,4 +1,4 @@
-**Ezekiel 40:34** 
+**Ezekiel 40:34**<big><big>[[Ezek.40.28 The Gates of the Inner Court|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the arches thereof [were] toward the outward court; and palm trees [were] upon the posts thereof, on this side, and on that side: and the going up to it [had] eight steps.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Its portico faced the outer court, and its side pillars were decorated with palm
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.33|<< Ezekiel 40:33]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.35|Ezekiel 40:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and porches its  [^3]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0361\|אֵלַמָּ֗י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**[^4] | ve.<small><sup>[[HC]]</sup></small> 'e.la.mo<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | [were] to the courtyard  |**<big>&#8207;[[H9005\|לֶֽ]]&#8207;&#8207;[[H2691A\|חָצֵר֙]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> cha.Tzer<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

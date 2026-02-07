@@ -1,12 +1,12 @@
-**John 5:6
-**<small><sub>**KJV:**</sub></small>
+**John 5:6**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus saw him lie, and knew that he had been now a long time [in that case], he saith unto him, Wilt thou be made whole?
 <small><sub>**BSB:**</sub></small>
 When Jesus saw him lying there and realized that he had spent a long time in this condition, He asked him, “Do you want to get well?”
 <small><sub>**Literal:**</sub></small>
 Him having seen <the> Jesus lying, and having known that a long already time he has been, He says to him; Desire you well to become?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.5|<< John 5:5]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.7|John 5:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Him |**<big>[[G3778\|τοῦτον]]</big>**  |touton <small><sup>[[D-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having seen |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

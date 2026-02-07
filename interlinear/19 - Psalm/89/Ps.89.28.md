@@ -1,4 +1,4 @@
-**Psalms 89:28** (89:29)
+**Psalms 89:28**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My mercy will I keep for him for evermore, and my covenant shall stand fast with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will forever preserve My loving devotion for him, and My covenant with him wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.27|<< Psalms 89:27]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.29|Psalms 89:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for ever  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H5769G\|עוֹלָ֗ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will keep  |**<big>&#8207;[[H8104H\|אֶשְׁמָר]]&#8207; </big>**[^1] [^2] | 'esh.mor-<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |

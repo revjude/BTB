@@ -6,10 +6,7 @@ An ode of the steps.
 
 <small><sub>**LXX:**</sub></small>
 Unless \[the\] <span class="smallcaps">lord</span> built \[the\] house, the builders tired in vain. Unless \[the\] <span class="smallcaps">lord</span> guarded \[the\] city, the one guarding stayed awake in vain. 
-<small><sub>**KJV:**</sub></small>
-A Song of degrees for Solomon. Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh [but] in vain.
-<small><sub>**BSB:**</sub></small>
-A song of ascents. Of Solomon. Unless the LORD builds the house, its builders labor in vain; unless the LORD protects the city, its watchmen stand guard in vain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.127.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.126.6|<< Psalm 126:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.127.2|Psalm 127:2 >>]]</td></tr></table>
 
 | Translation | Greek |

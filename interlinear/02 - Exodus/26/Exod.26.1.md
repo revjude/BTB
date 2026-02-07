@@ -1,4 +1,4 @@
-**Exodus 26:1** 
+**Exodus 26:1**<big><big>[[Exod.26.1 The Ten Curtains for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover thou shalt make the tabernacle [with] ten curtains [of] fine twined linen, and blue, and purple, and scarlet: [with] cherubims of cunning work shalt thou make them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover thou shalt make the tabernacle [with] ten curtains [of] fine twined lin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.40|<< Exodus 25:40]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.2|Exodus 26:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the tabernacle  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4908\|מִּשְׁכָּ֥ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mish.Kan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

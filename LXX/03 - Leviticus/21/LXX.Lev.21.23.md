@@ -1,10 +1,7 @@
 **LXX Leviticus 21:23** 
 <small><sub>**LXX:**</sub></small>
 Except to the veil he shall not come forward, and to the altar he shall not approach, for he has a blemish, and he shall not profane the holy \[things\]  of his God, for I \[the\] <span class="smallcaps">lord</span>, \[am\] the one sanctifying them. 
-<small><sub>**KJV:**</sub></small>
-Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the LORD do sanctify them.
-<small><sub>**BSB:**</sub></small>
-but because he has a defect, he must not go near the veil or approach the altar, so as not to desecrate My sanctuaries. For I am the LORD who sanctifies them.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.22|<< Leviticus 21:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.24|Leviticus 21:24 >>]]</td></tr></table>
 
 | Translation | Greek |

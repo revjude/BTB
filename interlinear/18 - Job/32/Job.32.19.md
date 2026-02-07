@@ -1,4 +1,4 @@
-**Job 32:19** 
+**Job 32:19**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, my belly [is] as wine [which] hath no vent; it is ready to burst like new bottles.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, my belly is like unvented wine; it is about to burst like a new wineskin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.18|<< Job 32:18]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.20|Job 32:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | belly my  |**<big>&#8207;[[H0990G\|בִטְנִ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| vit.N<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

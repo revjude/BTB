@@ -1,12 +1,12 @@
-**Mark 8:16
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:16**<big><big>[[Mark.8.14 The Leaven of the Pharisees and of Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they reasoned among themselves, saying, [It is] because we have no bread.
 <small><sub>**BSB:**</sub></small>
 So they began to discuss with one another the fact that they had no bread.
 <small><sub>**Literal:**</sub></small>
 And they were reasoning with one another saying because loaves not they have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.15|<< Mark 8:15]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.17|Mark 8:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were reasoning |**<big>[[G1260\|διελογίζοντο]]</big>**  |dielogizonto <small><sup>[[V-INI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

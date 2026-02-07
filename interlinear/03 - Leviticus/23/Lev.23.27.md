@@ -1,4 +1,4 @@
-**Leviticus 23:27** 
+**Leviticus 23:27**<big><big>[[Lev.23.26 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also on the tenth [day] of this seventh month [there shall be] a day of atonement: it shall be an holy convocation unto you; and ye shall afflict your souls, and offer an offering made by fire unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Also on the tenth [day] of this seventh month [there shall be] a day of atonemen
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.26|<< Leviticus 23:26]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.28|Leviticus 23:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | surely  |**<big>&#8207;[[H0389\|אַ֡ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the ten  |**<big>&#8207;[[H9003\|בֶּ]]&#8207;&#8207;[[H6218\|עָשׂ֣וֹר]]&#8207; </big>**| be.<small><sup>[[HRd]]</sup></small> 'a.Sor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

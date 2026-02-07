@@ -1,4 +1,4 @@
-**Exodus 32:3** 
+**Exodus 32:3**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people brake off the golden earrings which [were] in their ears, and brought [them] unto Aaron.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then all the people took off their gold earrings and brought them to Aaron.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.2|<< Exodus 32:2]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.4|Exodus 32:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they tore off from themselves  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6561\|יִּתְפָּֽרְקוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.pa.re.Ku<small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

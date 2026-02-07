@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:27** 
 <small><sub>**LXX:**</sub></small>
 And you gave them into \[the\] hand of ones afflicting them, and they afflicted them. And they yelled out to you in \[the\] time of their affliction, and you heard from out of your heaven, and in your great compassions you gave deliverers to them, and they delivered them from \[the\] hand of ones afflicting them. 
-<small><sub>**KJV:**</sub></small>
-Therefore thou deliveredst them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried unto thee, thou heardest [them] from heaven; and according to thy manifold mercies thou gavest them saviours, who saved them out of the hand of their enemies.
-<small><sub>**BSB:**</sub></small>
-So You delivered them into the hands of enemies who oppressed them, and in their time of distress they cried out to You. From heaven You heard them, and in Your great compassion You gave them deliverers who saved them from the hands of their enemies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.26|<< Nehemiah 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.28|Nehemiah 9:28 >>]]</td></tr></table>
 
 | Translation | Greek |

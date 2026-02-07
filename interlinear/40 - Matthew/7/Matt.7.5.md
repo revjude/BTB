@@ -1,12 +1,12 @@
-**Matthew 7:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:5**<big><big>[[Matt.7.1 Judging Others|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother’s eye.
 <small><sub>**BSB:**</sub></small>
 You hypocrite! First take the beam out of your own eye, and then you will see clearly to remove the speck from your brother’s eye.
 <small><sub>**Literal:**</sub></small>
 Hypocrite! do cast out first from the eye of you the beam, and then you will see clearly to cast out the splinter from the eye of the brother of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.4|<< Matthew 7:4]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.6|Matthew 7:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Hypocrite! |**<big>[[G5273\|ὑποκριτά,]]</big>**  |hupokrita <small><sup>[[N-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do cast out |**<big>[[G1544\|ἔκβαλε]]</big>**  |ekbale <small><sup>[[V-2AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

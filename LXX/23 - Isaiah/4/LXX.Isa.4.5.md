@@ -1,10 +1,7 @@
 **LXX Isaiah 4:5** 
 <small><sub>**LXX:**</sub></small>
 And he shall come, and it will be \[that\] every place  of mount Zion, and all the \[places\] surrounding it he shall shadow with a cloud by day, and as smoke and \[the\] light of fire burning by night; all the glory shall be sheltered. 
-<small><sub>**KJV:**</sub></small>
-And the LORD will create upon every dwelling place of mount Zion, and upon her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night: for upon all the glory [shall be] a defence.
-<small><sub>**BSB:**</sub></small>
-Then the LORD will create over all of Mount Zion and over her assemblies a cloud of smoke by day and a glowing flame of fire by night. For over all the glory there will be a canopy,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.4.4|<< Isaiah 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.4.6|Isaiah 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:36** 
 <small><sub>**LXX:**</sub></small>
 then you shall listen from the heaven, and shall be propitious to the sins  of your servant, and  your people Israel, for you shall manifest to them the good way to go by it; and you shall give rain upon  your land, which you gave \[to\] your people for an inheritance. 
-<small><sub>**KJV:**</sub></small>
-Then hear thou in heaven, and forgive the sin of thy servants, and of thy people Israel, that thou teach them the good way wherein they should walk, and give rain upon thy land, which thou hast given to thy people for an inheritance.
-<small><sub>**BSB:**</sub></small>
-then may You hear from heaven and forgive the sin of Your servants, Your people Israel, so that You may teach them the good way in which they should walk. May You send rain on the land that You gave Your people as an inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.35|<< 1 Kings 8:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.37|1 Kings 8:37 >>]]</td></tr></table>
 
 | Translation | Greek |

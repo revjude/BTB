@@ -1,10 +1,7 @@
 **LXX Genesis 21:33** 
 <small><sub>**LXX:**</sub></small>
 And Abraham planted plowed fields near the Well of the Oath. And he called there the name of \[the\] <span class="smallcaps">lord</span>, God eternal. 
-<small><sub>**KJV:**</sub></small>
-And [Abraham] planted a grove in Beersheba, and called there on the name of the LORD, the everlasting God.
-<small><sub>**BSB:**</sub></small>
-And Abraham planted a tamarisk tree in Beersheba, and there he called upon the name of the LORD, the Eternal God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.32|<< Genesis 21:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.34|Genesis 21:34 >>]]</td></tr></table>
 
 | Translation | Greek |

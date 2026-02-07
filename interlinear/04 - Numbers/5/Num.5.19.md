@@ -1,4 +1,4 @@
-**Numbers 5:19** 
+**Numbers 5:19**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall charge her by an oath, and say unto the woman, If no man have lain with thee, and if thou hast not gone aside to uncleanness [with another] instead of thy husband, be thou free from this bitter water that causeth the curse:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he is to put the woman under oath and say to her, ‘If no other man has sle
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.18|<< Numbers 5:18]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.20|Numbers 5:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make swear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7650\|הִשְׁבִּ֨יעַ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.Bi.a'<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> her  |**<big>&#8207;[[H0853\|אֹתָ֜]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Proverbs 30:23** 
+**Proverbs 30:23**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For an odious [woman] when she is married; and an handmaid that is heir to her mistress.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ an unloved woman who marries, and a maidservant who supplants her mistress.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.22|<< Proverbs 30:22]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.24|Proverbs 30:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | under  |**<big>&#8207;[[H8478H\|תַּ֣חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a hated [woman]  |**<big>&#8207;[[H8130\|שְׂ֭נוּאָה]]&#8207; </big>**| Se.nu.'ah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

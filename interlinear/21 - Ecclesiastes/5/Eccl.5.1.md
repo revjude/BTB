@@ -1,4 +1,4 @@
-**Ecclesiastes 5:1** (4:17)
+**Ecclesiastes 5:1**<big><big>[[Eccl.5.1 Approaching God with Awe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Guard your steps when you go to the house of God. Draw near to listen rather tha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.16|<< Ecclesiastes 4:16]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.2|Ecclesiastes 5:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | guard  |**<big>&#8207;[[H8104H\|שְׁמֹ֣ר]]&#8207; </big>**| she.Mor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | foot your  [^2]|**<big>&#8207;[[H7272\|רַגְלְ]]&#8207;&#8207;[[H9021\|ךָ֗]]&#8207; </big>**[^3] | rag.lei.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 51:9** 
 <small><sub>**LXX:**</sub></small>
 Awaken! Awaken! O Jerusalem, and put on the strength  of your arm! Awaken as in \[the\] beginning of days, as a generation of an eon! Are not you her being quarried in width, being torn up by \[the\] dragon? 
-<small><sub>**KJV:**</sub></small>
-Awake, awake, put on strength, O arm of the LORD; awake, as in the ancient days, in the generations of old. [Art] thou not it that hath cut Rahab, [and] wounded the dragon?
-<small><sub>**BSB:**</sub></small>
-Awake, awake, put on strength, O arm of the LORD. Wake up as in days past, as in generations of old. Was it not You who cut Rahab to pieces, who pierced through the dragon?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.51.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.8|<< Isaiah 51:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.10|Isaiah 51:10 >>]]</td></tr></table>
 
 | Translation | Greek |

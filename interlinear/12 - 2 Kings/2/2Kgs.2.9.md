@@ -1,4 +1,4 @@
-**2 Kings 2:9** 
+**2 Kings 2:9**<big><big>[[2Kgs.2.1 Elijah Taken Up to Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when they were gone over, that Elijah said unto Elisha, Ask what I shall do for thee, before I be taken away from thee. And Elisha said, I pray thee, let a double portion of thy spirit be upon me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After they had crossed over, Elijah said to Elisha, “Tell me, what can I do fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.8|<< 2 Kings 2:8]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.10|2 Kings 2:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when had passed over they  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H5674A\|עָבְרָ֗]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> 'a.ve.Ra<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

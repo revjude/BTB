@@ -1,10 +1,7 @@
 **LXX Joshua 21:36** 
 <small><sub>**LXX:**</sub></small>
 And cities of the Jordan  of Jericho, from out of the tribe of Reuben, the city of the place of refuge of the one manslaying --  Bezer and the outskirts of it, and  Jahazah and the outskirts of it, 
-<small><sub>**KJV:**</sub></small>
-And out of the tribe of Reuben, Bezer with her suburbs, and Jahazah with her suburbs,
-<small><sub>**BSB:**</sub></small>
-From the tribe of Reuben they were given Bezer, Jahaz,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.35|<< Joshua 21:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.37|Joshua 21:37 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 29:24** 
 <small><sub>**LXX:**</sub></small>
 And the ones wandering in the spirit shall know understanding, and the ones grumbling shall learn to obey, and the stuttering tongues shall learn to speak peace. 
-<small><sub>**KJV:**</sub></small>
-They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
-<small><sub>**BSB:**</sub></small>
-Then the wayward in spirit will come to understanding, and those who grumble will accept instruction.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.23|<< Isaiah 29:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.1|Isaiah 30:1 >>]]</td></tr></table>
 
 | Translation | Greek |

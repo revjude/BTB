@@ -1,4 +1,4 @@
-**Job 6:9** 
+**Job 6:9**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even that it would please God to destroy me; that he would let loose his hand, and cut me off!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ that God would be willing to crush me, to unleash His hand and cut me off!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.8|<< Job 6:8]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.10|Job 6:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and may he be willing  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2974\|יֹאֵ֣ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.'El<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0433\|אֱ֭לוֹהַּ]]&#8207; </big>**| 'E.lo.ah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

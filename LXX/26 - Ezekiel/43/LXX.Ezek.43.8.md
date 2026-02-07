@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:8** 
 <small><sub>**LXX:**</sub></small>
 in  their putting  my threshold among  their thresholds, and  my doorways next to  their doorways. And they appointed my wall as and them together. And they profaned  my holy name by  their lawless deeds which they did. And I obliterated them in my rage and by carnage. 
-<small><sub>**KJV:**</sub></small>
-In their setting of their threshold by my thresholds, and their post by my posts, and the wall between me and them, they have even defiled my holy name by their abominations that they have committed: wherefore I have consumed them in mine anger.
-<small><sub>**BSB:**</sub></small>
-When they placed their threshold next to My threshold and their doorposts beside My doorposts, with only a wall between Me and them, they defiled My holy name by the abominations they committed. Therefore I have consumed them in My anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.7|<< Ezekiel 43:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.9|Ezekiel 43:9 >>]]</td></tr></table>
 
 | Translation | Greek |

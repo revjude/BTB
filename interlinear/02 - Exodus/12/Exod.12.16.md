@@ -1,4 +1,4 @@
-**Exodus 12:16** 
+**Exodus 12:16**<big><big>[[Exod.12.14 The Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the first day [there shall be] an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save [that] which every man must eat, that only may be done of you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the first day you are to hold a sacred assembly, and another on the seventh d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.15|<< Exodus 12:15]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.17|Exodus 12:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [will be] on the day  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּ֤וֹם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vai.<small><sup>[[HRd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> first  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7223G\|רִאשׁוֹן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ri.shOn<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

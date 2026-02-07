@@ -1,5 +1,5 @@
-**1 Corinthians 15:54
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:54**<big><big>[[1Cor.15.50 Where, O Death, Is Your Victory？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So when this corruptible shall have put on incorruption, and this mortal shall have put on immortality, then shall be brought to pass the saying that is written, Death is swallowed up in victory.
 <small><sub>**BSB:**</sub></small>
 When the perishable has been clothed with the imperishable and the mortal with immortality, then the saying that is written will come to pass: “Death has been swallowed up in victory.”
@@ -10,7 +10,7 @@ When now <the> perishable this may have put on [the] imperishable and <the> mort
 > $\quad$ referencing: [[LXX.Isa.25.8|Isa 25:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

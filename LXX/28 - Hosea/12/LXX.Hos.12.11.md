@@ -1,10 +1,7 @@
 **LXX Hosea 12:11** 
 <small><sub>**LXX:**</sub></small>
 If Gilgal is not, then even rulers sacrificing in Gilgal were false, and  their altars are as tortoise \[like heaps\] upon an uncultivated field. 
-<small><sub>**KJV:**</sub></small>
-[Is there] iniquity [in] Gilead? surely they are vanity: they sacrifice bullocks in Gilgal; yea, their altars [are] as heaps in the furrows of the fields.
-<small><sub>**BSB:**</sub></small>
-Is there iniquity in Gilead? They will surely come to nothing. Do they sacrifice bulls in Gilgal? Indeed, their altars will be heaps of stones in the furrows of the field.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.10|<< Hosea 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.12|Hosea 12:12 >>]]</td></tr></table>
 
 | Translation | Greek |

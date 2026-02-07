@@ -1,10 +1,7 @@
 **LXX Psalm 74:18** 
 <small><sub>**LXX:**</sub></small>
 Remember this! an enemy berated the <span class="smallcaps">lord</span>, and a foolish people provoked  your name. 
-<small><sub>**KJV:**</sub></small>
-Remember this, [that] the enemy hath reproached, O LORD, and [that] the foolish people have blasphemed thy name.
-<small><sub>**BSB:**</sub></small>
-Remember how the enemy has mocked You, O LORD, how a foolish people has spurned Your name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.74.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.17|<< Psalm 74:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.19|Psalm 74:19 >>]]</td></tr></table>
 
 | Translation | Greek |

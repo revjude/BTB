@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] word \[of the\] <span class="smallcaps">lord</span> came to me, saying, 
-<small><sub>**KJV:**</sub></small>
-The word of the LORD came again unto me, saying,
-<small><sub>**BSB:**</sub></small>
-And the word of the LORD came to me, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.36|<< Ezekiel 27:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.2|Ezekiel 28:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 36:37** 
 <small><sub>**LXX:**</sub></small>
 And Samiah died, and reigned instead of him -- Saul from Rehoboth \[of the\] place by \[the\] river. 
-<small><sub>**KJV:**</sub></small>
-And Samlah died, and Saul of Rehoboth [by] the river reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-When Samlah died, Shaul from Rehoboth on the Euphrates reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.36|<< Genesis 36:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.38|Genesis 36:38 >>]]</td></tr></table>
 
 | Translation | Greek |

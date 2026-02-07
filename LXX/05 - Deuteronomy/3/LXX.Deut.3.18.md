@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:18** 
 <small><sub>**LXX:**</sub></small>
 And I gave charge to you at  that time, saying, \[The\] <span class="smallcaps">lord</span>  your God has given to you  this land by lot. Arming yourselves, go forth before \[the\] face  of your brethren of \[the\] sons of Israel -- every one able! 
-<small><sub>**KJV:**</sub></small>
-And I commanded you at that time, saying, The LORD your God hath given you this land to possess it: ye shall pass over armed before your brethren the children of Israel, all [that are] meet for the war.
-<small><sub>**BSB:**</sub></small>
-At that time I commanded you: “The LORD your God has given you this land to possess. All your men of valor are to cross over, armed for battle, ahead of your brothers, the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.17|<< Deuteronomy 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.19|Deuteronomy 3:19 >>]]</td></tr></table>
 
 | Translation | Greek |

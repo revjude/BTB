@@ -1,10 +1,7 @@
 **LXX Micah 2:10** 
 <small><sub>**LXX:**</sub></small>
 Rise up and go! for \[there\] is not to you this rest. Because of uncleanness you were corrupted by corruption. 
-<small><sub>**KJV:**</sub></small>
-Arise ye, and depart; for this [is] not [your] rest: because it is polluted, it shall destroy [you], even with a sore destruction.
-<small><sub>**BSB:**</sub></small>
-Arise and depart, for this is not your place of rest, because its defilement brings destruction—a grievous destruction!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.9|<< Micah 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.11|Micah 2:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Micah 2:10** is...

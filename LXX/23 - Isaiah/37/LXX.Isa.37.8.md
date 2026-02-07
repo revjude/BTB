@@ -1,10 +1,7 @@
 **LXX Isaiah 37:8** 
 <small><sub>**LXX:**</sub></small>
 And Rabshakeh returned, and overtook the king of \[the\] Assyrians while assaulting Libna, for he heard that he departed from Lachish. 
-<small><sub>**KJV:**</sub></small>
-So Rabshakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish.
-<small><sub>**BSB:**</sub></small>
-When the Rabshakeh heard that the king of Assyria had left Lachish, he withdrew and found the king fighting against Libnah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.7|<< Isaiah 37:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.9|Isaiah 37:9 >>]]</td></tr></table>
 
 | Translation | Greek |

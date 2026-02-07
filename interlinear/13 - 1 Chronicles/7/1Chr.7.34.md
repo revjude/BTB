@@ -1,4 +1,4 @@
-**1 Chronicles 7:34** 
+**1 Chronicles 7:34**<big><big>[[1Chr.7.30 The Descendants of Asher|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Shamer; Ahi, and Rohgah, Jehubbah, and Aram.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Shemer: Ahi, Rohgah, Hubbah, and Aram.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.33|<< 1 Chronicles 7:33]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.35|1 Chronicles 7:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֖י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shemer  |**<big>&#8207;[[H8106H\|שָׁ֑מֶר]]&#8207; </big>**| Sha.mer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

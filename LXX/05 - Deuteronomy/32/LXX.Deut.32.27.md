@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:27** 
 <small><sub>**LXX:**</sub></small>
 Unless \[they should say it was\] on account \[of the\] anger of \[the\] enemies, that in no way should they live a long time, and that in no way \[their\] opponents join in making an attack, lest they should say,  Our high hand, and not \[the\] <span class="smallcaps">lord</span> did all these \[things\]. 
-<small><sub>**KJV:**</sub></small>
-Were it not that I feared the wrath of the enemy, lest their adversaries should behave themselves strangely, [and] lest they should say, Our hand [is] high, and the LORD hath not done all this.
-<small><sub>**BSB:**</sub></small>
-if I had not dreaded the taunt of the enemy, lest their adversaries misunderstand and say: ‘Our own hand has prevailed; it was not the LORD who did all this.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.26|<< Deuteronomy 32:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.28|Deuteronomy 32:28 >>]]</td></tr></table>
 
 | Translation | Greek |

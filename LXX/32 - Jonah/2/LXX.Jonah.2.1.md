@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jonah prayed to \[the\] <span class="smallcaps">lord</span>  his God from out of the belly of the whale. 
-<small><sub>**KJV:**</sub></small>
-Then Jonah prayed unto the LORD his God out of the fish’s belly,
-<small><sub>**BSB:**</sub></small>
-From inside the fish, Jonah prayed to the LORD his God,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.17|<< Jonah 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.2|Jonah 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

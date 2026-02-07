@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:28** 
 <small><sub>**LXX:**</sub></small>
 And the nations shall know that I am \[the\] <span class="smallcaps">lord</span>  sanctifying them, in the being  of my holy \[things\] in their midst into the eon. 
-<small><sub>**KJV:**</sub></small>
-And the heathen shall know that I the LORD do sanctify Israel, when my sanctuary shall be in the midst of them for evermore.
-<small><sub>**BSB:**</sub></small>
-Then the nations will know that I the LORD sanctify Israel, when My sanctuary is among them forever.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.27|<< Ezekiel 37:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.38.1|Ezekiel 38:1 >>]]</td></tr></table>
 
 | Translation | Greek |

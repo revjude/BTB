@@ -1,5 +1,5 @@
-**Colossians 3:25
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:25**<big><big>[[Col.3.22 Serving with Honor|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that doeth wrong shall receive for the wrong which he hath done: and there is no respect of persons.
 <small><sub>**BSB:**</sub></small>
 Whoever does wrong will be repaid for his wrong, and there is no favoritism.
@@ -10,7 +10,7 @@ The [one] for doing wrong he will be repaid [for] what he has done wrong and not
 > $\quad$ alluding to: [[LXX.Deut.10.17|Deut 10:17]] ☩ [[LXX.Job.34.19|Job 34:19]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for [^1] |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jonah 1:6** 
 <small><sub>**LXX:**</sub></small>
 And the captain drew near to him, and said to him, Why do you snore? Rise up, call upon  your God! so that God should preserve us, and in no way we should be destroyed. 
-<small><sub>**KJV:**</sub></small>
-So the shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.
-<small><sub>**BSB:**</sub></small>
-The captain approached him and said, “How can you sleep? Get up and call upon your God. Perhaps this God will consider us, so that we may not perish.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.1.5|<< Jonah 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.1.7|Jonah 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΡΗΣ</p>
 
 You adjudicated, O <span class="smallcaps">lord</span>, the punishments  of my soul. You ransomed  my life. 
-<small><sub>**KJV:**</sub></small>
-O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.
-<small><sub>**BSB:**</sub></small>
-You defend my cause, O Lord; You redeem my life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.58|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.57|<< Lamentations 3:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.59|Lamentations 3:59 >>]]</td></tr></table>
 
 | Translation | Greek |

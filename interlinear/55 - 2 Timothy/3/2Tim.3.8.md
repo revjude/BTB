@@ -1,5 +1,5 @@
-**2 Timothy 3:8
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 3:8**<big><big>[[2Tim.3.1 Evil in the Last Days|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.
 <small><sub>**BSB:**</sub></small>
 Just as Jannes and Jambres opposed Moses, so also these men oppose the truth. They are depraved in mind and disqualified from the faith.
@@ -10,7 +10,7 @@ By which way now Jannes and Jambres opposed to Moses, so also these oppose to th
 > $\quad$ referencing: [[LXX.Exod.7.11|Exod 7:11-22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By which |**<big>[[G3739\|Ὃν]]</big>**  |Hon <small><sup>[[R-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | way |**<big>[[G5158\|τρόπον]]</big>**  |tropon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Joshua 21:5** 
 <small><sub>**LXX:**</sub></small>
 And to the sons of Kohath, to the ones being left from out of the kin, of \[the\] tribe of Ephraim, and from the tribe of Dan, and from the half tribe of Manasseh -- ten cities by casting lots. 
-<small><sub>**KJV:**</sub></small>
-And the rest of the children of Kohath [had] by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities.
-<small><sub>**BSB:**</sub></small>
-The remaining descendants of Kohath received ten cities by lot from the tribes of Ephraim, Dan, and the half-tribe of Manasseh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.4|<< Joshua 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.6|Joshua 21:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 8:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:13**<big><big>[[Matt.8.5 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said unto the centurion, Go thy way; and as thou hast believed, [so] be it done unto thee. And his servant was healed in the selfsame hour.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to the centurion, “Go! As you have believed, so will it be done for you.” And his servant was healed at that very hour.
 <small><sub>**Literal:**</sub></small>
 And said <the> Jesus to the centurion; do go, and as you have believed it should be [done] to you. And was healed the servant of him in the hour that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.12|<< Matthew 8:12]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.14|Matthew 8:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezra 7:21** 
 <small><sub>**LXX:**</sub></small>
 I Artaxerxes \[the\] king established a decree to all the treasuries, to the ones on the other side of the river, that all what ever he should ask of you (Ezra the priest and scribe of the law of the God  of heaven) readily let it become so! 
-<small><sub>**KJV:**</sub></small>
-And I, [even] I Artaxerxes the king, do make a decree to all the treasurers which [are] beyond the river, that whatsoever Ezra the priest, the scribe of the law of the God of heaven, shall require of you, it be done speedily,
-<small><sub>**BSB:**</sub></small>
-I, King Artaxerxes, decree to all the treasurers west of the Euphrates: Whatever Ezra the priest, the scribe of the Law of the God of heaven, may require of you, it must be provided promptly,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.20|<< Ezra 7:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.22|Ezra 7:22 >>]]</td></tr></table>
 
 | Translation | Greek |

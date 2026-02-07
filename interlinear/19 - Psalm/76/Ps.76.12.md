@@ -1,4 +1,4 @@
-**Psalms 76:12** (76:13)
+**Psalms 76:12**<big><big>[[Ps.76.1 God’s Name Is Great in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall cut off the spirit of princes: [he is] terrible to the kings of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He breaks the spirits of princes; He is feared by the kings of the earth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.76.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.11|<< Psalms 76:11]]</td><td align="center" style="border:none;">[[Ps.76|Psalms 76]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.0|Psalms 77:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he humbles  |**<big>&#8207;[[H1219\|יִ֭בְצֹר]]&#8207; </big>**| Yiv.tzor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] spirit of  |**<big>&#8207;[[H7307G\|ר֣וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

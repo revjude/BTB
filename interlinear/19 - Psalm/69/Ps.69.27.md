@@ -1,4 +1,4 @@
-**Psalms 69:27** (69:28)
+**Psalms 69:27**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Add iniquity unto their iniquity: and let them not come into thy righteousness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Add iniquity to their iniquity; let them not share in Your righteousness.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.26|<< Psalms 69:26]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.28|Psalms 69:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | put !  |**<big>&#8207;[[H5414G\|תְּֽנָ]]&#8207;&#8207;[[H9012\|ה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.na<small><sup>[[HVqv2ms]]</sup></small> h-<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | iniquity  |**<big>&#8207;[[H5771I\|עָ֭וֹן]]&#8207; </big>**| 'A.von<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

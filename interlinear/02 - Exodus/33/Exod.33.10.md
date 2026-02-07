@@ -1,4 +1,4 @@
-**Exodus 33:10** 
+**Exodus 33:10**<big><big>[[Exod.33.7 The Tent of Meeting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people saw the cloudy pillar stand [at] the tabernacle door: and all the people rose up and worshipped, every man [in] his tent door.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When all the people saw the pillar of cloud standing at the entrance to the tent
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.9|<< Exodus 33:9]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.11|Exodus 33:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it saw  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|רָאָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'Ah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

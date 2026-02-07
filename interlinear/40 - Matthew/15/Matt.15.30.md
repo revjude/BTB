@@ -1,12 +1,12 @@
-**Matthew 15:30
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:30**<big><big>[[Matt.15.29 The Feeding of the Four Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And great multitudes came unto him, having with them [those that were] lame, blind, dumb, maimed, and many others, and cast them down at Jesus’ feet; and he healed them:
 <small><sub>**BSB:**</sub></small>
 Large crowds came to Him, bringing the lame, the blind, the crippled, the mute, and many others, and laid them at His feet, and He healed them.
 <small><sub>**Literal:**</sub></small>
 And came to Him crowds great having with themselves lame blind crippled mute and others many and they placed them at the feet of Him Jesus; and He healed them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.29|<< Matthew 15:29]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.31|Matthew 15:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | came |**<big>[[G4334\|προσῆλθον]]</big>**  |prosēlthon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Numbers 27:13** 
+**Numbers 27:13**<big><big>[[Num.27.12 Moses Requests a Successor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when thou hast seen it, thou also shalt be gathered unto thy people, as Aaron thy brother was gathered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After you have seen it, you too will be gathered to your people, as your brother
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.12|<< Numbers 27:12]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.14|Numbers 27:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will see  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|רָאִ֣יתָה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'I.tah<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹתָ֔]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 139:20** 
+**Psalms 139:20**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they speak against thee wickedly, [and] thine enemies take [thy name] in vain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who speak of You deceitfully; Your enemies take Your name in vain.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.19|<< Psalms 139:19]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.21|Psalms 139:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [those] who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they speak of you  |**<big>&#8207;[[H0559\|יֹ֭אמְרֻ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| Yo.me.ru.<small><sup>[[HVqi3mp]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

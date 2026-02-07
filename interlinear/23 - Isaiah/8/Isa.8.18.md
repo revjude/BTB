@@ -1,4 +1,4 @@
-**Isaiah 8:18** 
+**Isaiah 8:18**<big><big>[[Isa.8.11 A Call to Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I and the children whom the LORD hath given me [are] for signs and for wonders in Israel from the LORD of hosts, which dwelleth in mount Zion.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Here am I, and the children the LORD has given me as signs and symbols in Israel
 > $\quad$ referenced by: [[Heb.2.13|Heb 2:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֗י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

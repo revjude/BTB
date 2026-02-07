@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:13** 
 <small><sub>**LXX:**</sub></small>
 and over the load carriers, and knowers concerning all of the ones doing the works in effort; and \[others\] of the Levites -- scribes and judges and gatekeepers. 
-<small><sub>**KJV:**</sub></small>
-Also [they were] over the bearers of burdens, and [were] overseers of all that wrought the work in any manner of service: and of the Levites [there were] scribes, and officers, and porters.
-<small><sub>**BSB:**</sub></small>
-were over the laborers and supervised all who did the work, task by task. Some of the Levites were secretaries, officers, and gatekeepers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.12|<< 2 Chronicles 34:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.14|2 Chronicles 34:14 >>]]</td></tr></table>
 
 | Translation | Greek |

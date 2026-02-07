@@ -1,6 +1,6 @@
 (KJV) **1 Chronicles 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1|<< 1 Chronicles 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3|1 Chronicles 3 >>]]</td></tr></table>
 
-***The Sons of Israel***&emsp;<small><sup>\[ [[Gen.35|Genesis 35:21–26]] <big>†</big> [[Gen.38|Genesis 38:1–30]] ]</sup></small> ^bsb983
+<big><big>[[1Chr.2.1 The Sons of Israel|⥃]]</big></big>***The Sons of Israel***&emsp;<small><sup>\[ [[Gen.35|Genesis 35:21–26]] <big>†</big> [[Gen.38|Genesis 38:1–30]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[1Chr.2.1|1]]**<span class="endversemarker">]</span> These \[are\] the sons of Israel<small><small>[^2]</small></small>; Reuben<small><small>[^3]</small></small>, Simeon, Levi, and Judah, Issachar, and Zebulun,<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[1Chr.2.2|2]]**<span class="endversemarker">]</span> Dan<small><small>[^5]</small></small>, Joseph<small><small>[^6]</small></small>, and Benjamin<small><small>[^7]</small></small>, Naphtali<small><small>[^8]</small></small>, Gad<small><small>[^9]</small></small>, and Asher<small><small>[^10]</small></small>. 
 

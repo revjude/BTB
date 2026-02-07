@@ -1,10 +1,7 @@
 **LXX Psalm 94:16** 
 <small><sub>**LXX:**</sub></small>
 Who shall rise up to me against \[the\] ones acting wickedly? or who shall stand up with me against the ones working  lawlessness? 
-<small><sub>**KJV:**</sub></small>
-Who will rise up for me against the evildoers? [or] who will stand up for me against the workers of iniquity?
-<small><sub>**BSB:**</sub></small>
-Who will rise up for me against the wicked? Who will stand for me against the workers of iniquity?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.94.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.94.15|<< Psalm 94:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.94.17|Psalm 94:17 >>]]</td></tr></table>
 
 | Translation | Greek |

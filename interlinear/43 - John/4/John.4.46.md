@@ -1,12 +1,12 @@
-**John 4:46
-**<small><sub>**KJV:**</sub></small>
+**John 4:46**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum.
 <small><sub>**BSB:**</sub></small>
 So once again He came to Cana in Galilee, where He had turned the water into wine. And there was a royal official whose son lay sick at Capernaum.
 <small><sub>**Literal:**</sub></small>
 He came therefore <the> Jesus again to <the> Cana <the> of Galilee, where He had made the water wine. And there was a certain royal official whose <the> son was sick in Capernaum.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.45|<< John 4:45]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.47|John 4:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He came |**<big>[[G2064\|Ἦλθεν]]</big>**  |Ēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

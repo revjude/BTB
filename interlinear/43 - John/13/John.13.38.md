@@ -1,12 +1,12 @@
-**John 13:38
-**<small><sub>**KJV:**</sub></small>
+**John 13:38**<big><big>[[John.13.36 Jesus Predicts Peter’s Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered him, Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice.
 <small><sub>**BSB:**</sub></small>
 “Will you lay down your life for Me?” Jesus replied. “Truly, truly, I tell you, before the rooster crows, you will deny Me three times.
 <small><sub>**Literal:**</sub></small>
 answers to him <the> Jesus; The life of you for Me will you lay down? Amen Amen I say to you; certainly not [the] rooster may crow until that you will deny Me three times.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.37|<< John 13:37]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.1|John 14:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | answers [^1] |**<big>[[G0611\|ἀποκρίνεται]]</big>**  |apokrinetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 26:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:7**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Unto which [promise] our twelve tribes, instantly serving [God] day and night, hope to come. For which hope’s sake, king Agrippa, I am accused of the Jews.
 <small><sub>**BSB:**</sub></small>
 the promise our twelve tribes are hoping to see fulfilled as they earnestly serve God day and night. It is because of this hope, O king, that I am accused by the Jews.
 <small><sub>**Literal:**</sub></small>
 to which the twelve tribes of us in earnestness night and day serving they hope to attain, concerning which hope I am accused Agrippa by the Jews, O king,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.6|<< Acts 26:6]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.8|Acts 26:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | which |**<big>[[G3739\|ἣν]]</big>**  |hēn <small><sup>[[R-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

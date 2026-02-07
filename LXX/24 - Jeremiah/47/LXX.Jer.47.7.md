@@ -1,10 +1,7 @@
 **LXX Jeremiah 47:7** 
 <small><sub>**LXX:**</sub></small>
 How shall it be quiet, and \[the\] <span class="smallcaps">lord</span> gave charge to it against  Ashkelon, and against the \[places\] by the sea, for the remnant to be roused. 
-<small><sub>**KJV:**</sub></small>
-How can it be quiet, seeing the LORD hath given it a charge against Ashkelon, and against the sea shore? there hath he appointed it.
-<small><sub>**BSB:**</sub></small>
-How can it rest when the LORD has commanded it? He has appointed it against Ashkelon and the shore of its coastland.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.47.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.47.6|<< Jeremiah 47:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.1|Jeremiah 48:1 >>]]</td></tr></table>
 
 | Translation | Greek |

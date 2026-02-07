@@ -1,10 +1,7 @@
 **LXX Psalm 31:13** 
 <small><sub>**LXX:**</sub></small>
 For I heard \[the\] fault of many sojourning round about. In  their gathering together against me  they consulted to take my soul. 
-<small><sub>**KJV:**</sub></small>
-For I have heard the slander of many: fear [was] on every side: while they took counsel together against me, they devised to take away my life.
-<small><sub>**BSB:**</sub></small>
-For I hear the slander of many; there is terror on every side. They conspire against me and plot to take my life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.31.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.31.12|<< Psalm 31:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.31.14|Psalm 31:14 >>]]</td></tr></table>
 
 | Translation | Greek |

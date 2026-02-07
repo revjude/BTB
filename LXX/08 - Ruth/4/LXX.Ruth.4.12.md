@@ -1,10 +1,7 @@
 **LXX Ruth 4:12** 
 <small><sub>**LXX:**</sub></small>
 And your house become as \[the\] house of Pharez, whom Tamar bore  to Judah. Of  your seed \[the\] <span class="smallcaps">lord</span> give to you children of this maidservant. 
-<small><sub>**KJV:**</sub></small>
-And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which the LORD shall give thee of this young woman.
-<small><sub>**BSB:**</sub></small>
-And may your house become like the house of Perez, whom Tamar bore to Judah, because of the offspring the LORD will give you by this young woman.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.11|<< Ruth 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.13|Ruth 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

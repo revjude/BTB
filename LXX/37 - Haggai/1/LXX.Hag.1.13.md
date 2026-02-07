@@ -1,10 +1,7 @@
 **LXX Haggai 1:13** 
 <small><sub>**LXX:**</sub></small>
 And Haggai the messenger \[of the\] <span class="smallcaps">lord</span> said among \[the\] messengers of \[the\] <span class="smallcaps">lord</span>, Say to the people! I am with you, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Then spake Haggai the LORD’S messenger in the LORD’S message unto the people, saying, I [am] with you, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Haggai, the messenger of the LORD, delivered the message of the LORD to the people: “I am with you,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.12|<< Haggai 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.1.14|Haggai 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

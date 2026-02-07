@@ -1,10 +1,7 @@
 **LXX Daniel 5:11** 
 <small><sub>**LXX:**</sub></small>
 There is a man in  your kingdom in which is spirit of the holy God. And in the days  of your father, vigilance, and understanding, and wisdom as wisdom of God, was found in him; and  king Nebuchadnezzar  your father placed him ruler of enchanters of magi of Chaldeans \[and\] of astrologers. 
-<small><sub>**KJV:**</sub></small>
-There is a man in thy kingdom, in whom [is] the spirit of the holy gods; and in the days of thy father light and understanding and wisdom, like the wisdom of the gods, was found in him; whom the king Nebuchadnezzar thy father, the king, [I say], thy father, made master of the magicians, astrologers, Chaldeans, [and] soothsayers;
-<small><sub>**BSB:**</sub></small>
-There is a man in your kingdom who has the spirit of the holy gods in him. In the days of your father he was found to have insight, intelligence, and wisdom like that of the gods. Your father, King Nebuchadnezzar, appointed him chief of the magicians, enchanters, astrologers, and diviners. Your own father, the king,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.10|<< Daniel 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.12|Daniel 5:12 >>]]</td></tr></table>
 
 | Translation | Greek |

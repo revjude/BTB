@@ -1,4 +1,4 @@
-**Ezra 2:6** 
+**Ezra 2:6**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Pahathmoab, of the children of Jeshua [and] Joab, two thousand eight hundred and twelve.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the descendants of Pahath-moab (through the line of Jeshua and Joab), 2,812;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.5|<< Ezra 2:5]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.7|Ezra 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pahath-  |**<big>&#8207;[[H6355G\|פַחַ֥ת]]&#8207; </big>**| fa.Chat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

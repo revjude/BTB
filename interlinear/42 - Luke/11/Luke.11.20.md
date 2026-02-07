@@ -1,12 +1,12 @@
-**Luke 11:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:20**<big><big>[[Luke.11.14 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if I with the finger of God cast out devils, no doubt the kingdom of God is come upon you.
 <small><sub>**BSB:**</sub></small>
 But if I drive out demons by the finger of God, then the kingdom of God has come upon you.
 <small><sub>**Literal:**</sub></small>
 If however by [the] finger of God I myself cast out the demons, then has come upon you the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.19|<< Luke 11:19]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.21|Luke 11:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

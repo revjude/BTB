@@ -1,10 +1,7 @@
 **LXX Jeremiah 37:10** 
 <small><sub>**LXX:**</sub></small>
 And if you should strike all the force of the Chaldeans, the ones waging war against you, and there should be left behind a certain amount having been stabbed, each in  his place, these shall rise up and shall burn  this city by fire. 
-<small><sub>**KJV:**</sub></small>
-For though ye had smitten the whole army of the Chaldeans that fight against you, and there remained [but] wounded men among them, [yet] should they rise up every man in his tent, and burn this city with fire.
-<small><sub>**BSB:**</sub></small>
-Indeed, if you were to strike down the entire army of the Chaldeans that is fighting against you, and only wounded men remained in their tents, they would still get up and burn this city down.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.37.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.9|<< Jeremiah 37:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.11|Jeremiah 37:11 >>]]</td></tr></table>
 
 | Translation | Greek |

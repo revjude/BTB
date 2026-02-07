@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:25** 
 <small><sub>**LXX:**</sub></small>
 And I quarreled with them, and cursed them, and I struck some of their men, and I plucked their hair, and I bound them to an oath by  God, You shall not give  your daughters \[to\] their sons, and you shall not indeed take  of their daughters \[for\] your sons, and to yourselves. 
-<small><sub>**KJV:**</sub></small>
-And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, [saying], Ye shall not give your daughters unto their sons, nor take their daughters unto your sons, or for yourselves.
-<small><sub>**BSB:**</sub></small>
-I rebuked them and called down curses on them. I beat some of these men and pulled out their hair. Then I made them take an oath before God and said, “You must not give your daughters in marriage to their sons or take their daughters as wives for your sons or for yourselves!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.24|<< Nehemiah 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.26|Nehemiah 13:26 >>]]</td></tr></table>
 
 | Translation | Greek |

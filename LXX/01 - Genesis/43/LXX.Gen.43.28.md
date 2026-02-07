@@ -1,10 +1,7 @@
 **LXX Genesis 43:28** 
 <small><sub>**LXX:**</sub></small>
  And they said, He is in health --  your servant  our father, still lives. And he said, Blessed be  that man  by God. And bowing they did obeisance to him. 
-<small><sub>**KJV:**</sub></small>
-And they answered, Thy servant our father [is] in good health, he [is] yet alive. And they bowed down their heads, and made obeisance.
-<small><sub>**BSB:**</sub></small>
-“Your servant our father is well,” they answered. “He is still alive.” And they bowed down to honor him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.43.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.27|<< Genesis 43:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.43.29|Genesis 43:29 >>]]</td></tr></table>
 
 | Translation | Greek |

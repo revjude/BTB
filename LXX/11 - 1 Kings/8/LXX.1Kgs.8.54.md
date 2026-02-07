@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:54** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Solomon completed praying to \[the\] <span class="smallcaps">lord</span> all the prayer, and  this supplication, \[that\] he rose up in front of the altar of \[the\] <span class="smallcaps">lord</span>, having kneeled upon  his knees, and  his hands being opened and spread out unto the heaven. 
-<small><sub>**KJV:**</sub></small>
-And it was [so], that when Solomon had made an end of praying all this prayer and supplication unto the LORD, he arose from before the altar of the LORD, from kneeling on his knees with his hands spread up to heaven.
-<small><sub>**BSB:**</sub></small>
-Now when Solomon had finished praying this entire prayer and petition to the LORD, he got up before the altar of the LORD, where he had been kneeling with his hands spread out toward heaven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.53|<< 1 Kings 8:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.55|1 Kings 8:55 >>]]</td></tr></table>
 
 | Translation | Greek |

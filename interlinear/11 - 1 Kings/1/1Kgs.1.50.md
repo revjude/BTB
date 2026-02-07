@@ -1,4 +1,4 @@
-**1 Kings 1:50** 
+**1 Kings 1:50**<big><big>[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adonijah feared because of Solomon, and arose, and went, and caught hold on the horns of the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Adonijah, in fear of Solomon, got up and went to take hold of the horns of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.49|<< 1 Kings 1:49]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.51|1 Kings 1:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Adonijah  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0138G\|אֲדֹ֣נִיָּ֔הוּ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Do.ni.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was afraid  |**<big>&#8207;[[H3372G\|יָרֵ֖א]]&#8207; </big>**| ya.Re'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

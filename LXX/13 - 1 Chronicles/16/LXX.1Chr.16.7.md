@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:7** 
 <small><sub>**LXX:**</sub></small>
 In  that day then David arranged \[this psalm\] in \[the\] beginning of the praising  \[the\] <span class="smallcaps">lord</span> by \[the\] hand of Asaph and  his brethren. 
-<small><sub>**KJV:**</sub></small>
-Then on that day David delivered first [this psalm] to thank the LORD into the hand of Asaph and his brethren.
-<small><sub>**BSB:**</sub></small>
-On that day David first committed to Asaph and his associates this song of thanksgiving to the LORD:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.6|<< 1 Chronicles 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.8|1 Chronicles 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

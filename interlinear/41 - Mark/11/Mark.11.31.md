@@ -1,12 +1,12 @@
-**Mark 11:31
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:31**<big><big>[[Mark.11.27 Jesus’ Authority Challenged|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then did ye not believe him?
 <small><sub>**BSB:**</sub></small>
 They deliberated among themselves what they should answer: “If we say, ‘From heaven,’ He will ask, ‘Why then did you not believe him?’
 <small><sub>**Literal:**</sub></small>
 And they were reasoning with themselves saying; What may we say? If we shall say; From heaven, He will say; Because of why then not did you believe in him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.30|<< Mark 11:30]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.32|Mark 11:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were reasoning [^1] |**<big>[[G1260\|διελογίζοντο]]</big>**  |dielogizonto <small><sup>[[V-INI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

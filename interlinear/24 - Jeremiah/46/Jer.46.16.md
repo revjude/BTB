@@ -1,4 +1,4 @@
-**Jeremiah 46:16** 
+**Jeremiah 46:16**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He made many to fall, yea, one fell upon another: and they said, Arise, and let us go again to our own people, and to the land of our nativity, from the oppressing sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They continue to stumble; indeed, they have fallen over one another. They say, �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.15|<< Jeremiah 46:15]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.17|Jeremiah 46:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will multiply  |**<big>&#8207;[[H7235A\|הִרְבָּ֖ה]]&#8207; </big>**| hir.Bah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] stumbles  |**<big>&#8207;[[H3782\|כּוֹשֵׁ֑ל]]&#8207; </big>**| ko.Shel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

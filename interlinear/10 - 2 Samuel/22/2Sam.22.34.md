@@ -1,4 +1,4 @@
-**2 Samuel 22:34** 
+**2 Samuel 22:34**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He maketh my feet like hinds’ [feet]: and setteth me upon my high places.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He makes my feet like those of a deer and stations me upon the heights.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.33|<< 2 Samuel 22:33]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.35|2 Samuel 22:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] making  |**<big>&#8207;[[H7737B\|מְשַׁוֶּ֥ה]]&#8207; </big>**| me.sha.Veh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | feet my  [^2]|**<big>&#8207;[[H7272\|רַגְלַ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**[^3] | rag.l<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

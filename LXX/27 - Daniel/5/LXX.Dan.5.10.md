@@ -1,10 +1,7 @@
 **LXX Daniel 5:10** 
 <small><sub>**LXX:**</sub></small>
 And the queen entered into the house of the banquet. And the queen responded and said, O king, live into the eon! disturb your thoughts not you, and  let not your appearance be changed! 
-<small><sub>**KJV:**</sub></small>
-[Now] the queen, by reason of the words of the king and his lords, came into the banquet house: [and] the queen spake and said, O king, live for ever: let not thy thoughts trouble thee, nor let thy countenance be changed:
-<small><sub>**BSB:**</sub></small>
-Hearing the outcry of the king and his nobles, the queen entered the banquet hall. “O king, may you live forever!” she said. “Do not let your thoughts terrify you, or your face grow pale.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.9|<< Daniel 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.11|Daniel 5:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 28:21** 
 <small><sub>**LXX:**</sub></small>
 And the woman entered to Saul, and beheld that he hastened very much. And she said to him, Behold, your maidservant hearkened to  your voice, and I put  my life in  my hand, and I hearkened to  your words which you spoke to me. 
-<small><sub>**KJV:**</sub></small>
-And the woman came unto Saul, and saw that he was sore troubled, and said unto him, Behold, thine handmaid hath obeyed thy voice, and I have put my life in my hand, and have hearkened unto thy words which thou spakest unto me.
-<small><sub>**BSB:**</sub></small>
-When the woman came to Saul and saw how distraught he was, she said to him, “Look, your maidservant has obeyed your voice. I took my life in my hands and did as you told me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.20|<< 1 Samuel 28:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.22|1 Samuel 28:22 >>]]</td></tr></table>
 
 | Translation | Greek |

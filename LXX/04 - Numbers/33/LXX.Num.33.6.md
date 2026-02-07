@@ -1,10 +1,7 @@
 **LXX Numbers 33:6** 
 <small><sub>**LXX:**</sub></small>
 And departing from Soccoth, and they camped in Etham, which is a part of the wilderness. 
-<small><sub>**KJV:**</sub></small>
-And they departed from Succoth, and pitched in Etham, which [is] in the edge of the wilderness.
-<small><sub>**BSB:**</sub></small>
-They set out from Succoth and camped at Etham, on the edge of the wilderness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.5|<< Numbers 33:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.7|Numbers 33:7 >>]]</td></tr></table>
 
 | Translation | Greek |

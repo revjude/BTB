@@ -1,10 +1,7 @@
 **LXX Nahum 3:7** 
 <small><sub>**LXX:**</sub></small>
 And it will be all the ones seeing you shall go from you, and shall say, Wretched Nineveh, who shall moan her? From what place shall I seek comfort to her? 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, [that] all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?
-<small><sub>**BSB:**</sub></small>
-Then all who see you will recoil from you and say, ‘Nineveh is devastated; who will grieve for her?’ Where can I find comforters for you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.6|<< Nahum 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.8|Nahum 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

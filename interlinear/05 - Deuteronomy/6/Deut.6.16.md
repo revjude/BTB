@@ -1,4 +1,4 @@
-**Deuteronomy 6:16** 
+**Deuteronomy 6:16**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not tempt the LORD your God, as ye tempted [him] in Massah.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Do not test the LORD your God as you tested Him at Massah.
 > $\quad$ referenced by: [[Matt.4.7|Matt 4:7]] ☩ [[Luke.4.12|Luke 4:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will put to [the] test  |**<big>&#8207;[[H5254G\|תְנַסּ֔וּ]]&#8207; </big>**| te.na.Su<small><sup>[[HVpi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

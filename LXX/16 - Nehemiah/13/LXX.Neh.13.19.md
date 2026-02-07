@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:19** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when \[the\] gates were stood in Jerusalem before the Sabbath, that I spoke, and they locked the gates. And I spoke so as to not open them until after the Sabbath. And I stood some of my young men at the gates, so as to not lift burdens on \[the\] day of the Sabbath. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, that when the gates of Jerusalem began to be dark before the sabbath, I commanded that the gates should be shut, and charged that they should not be opened till after the sabbath: and [some] of my servants set I at the gates, [that] there should no burden be brought in on the sabbath day.
-<small><sub>**BSB:**</sub></small>
-When the evening shadows began to fall on the gates of Jerusalem, just before the Sabbath, I ordered that the gates be shut and not opened until after the Sabbath. I posted some of my servants at the gates so that no load could enter on the Sabbath day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.18|<< Nehemiah 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.20|Nehemiah 13:20 >>]]</td></tr></table>
 
 | Translation | Greek |

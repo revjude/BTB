@@ -1,5 +1,5 @@
-**Matthew 26:31
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:31**<big><big>[[Matt.26.31 Jesus Predicts Peter’s Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then saith Jesus unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep of the flock shall be scattered abroad.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to them, “This very night you will all fall away on account of Me. For it is written: ‘I will strike the Shepherd, and the sheep of the flock will be scattered.’
@@ -10,7 +10,7 @@ Then says to them <the> Jesus; All you yourselves will fall away because of Me m
 > $\quad$ referencing: [[LXX.Zech.13.7|Zech 13:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

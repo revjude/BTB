@@ -1,12 +1,12 @@
-**Ephesians 2:4
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 2:4**<big><big>[[Eph.2.1 Alive with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But God, who is rich in mercy, for his great love wherewith he loved us,
 <small><sub>**BSB:**</sub></small>
 But because of His great love for us, God, who is rich in mercy,
 <small><sub>**Literal:**</sub></small>
 <the> But God rich being in mercy because of the great love of Him with which He loved us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.3|<< Ephesians 2:3]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.5|Ephesians 2:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

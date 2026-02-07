@@ -1,4 +1,4 @@
-**Daniel 11:36** 
+**Daniel 11:36**<big><big>[[Dan.11.36 The King Who Exalts Himself|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king shall do according to his will; and he shall exalt himself, and magnify himself above every god, and shall speak marvellous things against the God of gods, and shall prosper till the indignation be accomplished: for that that is determined shall be done.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the king will do as he pleases and will exalt and magnify himself above eve
 > $\quad$ referenced by: [[2Thess.2.4|2Thess 2:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will do  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשָׂ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Sah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | according to pleasure his  |**<big>&#8207;[[H9004\|כִ]]&#8207;&#8207;[[H7522\|רְצוֹנ֜]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| khi<small><sup>[[HR]]</sup></small> r.tzo.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

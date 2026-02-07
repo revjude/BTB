@@ -1,6 +1,6 @@
 (KJV) **Proverbs 3**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2|<< Proverbs 2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4|Proverbs 4 >>]]</td></tr></table>
 
-***Trust in the LORD with All Your Heart*** ^bsb1448
+<big><big>[[Prov.3.1 Trust in the LORD with All Your Heart|⥃]]</big></big>***Trust in the LORD with All Your Heart***
 
  $\quad$ <span class="startversemarker">[</span>**[[Prov.3.1|1]]**<span class="endversemarker">]</span> My son, forget<small><small>[^2]</small></small> not my law; but let<small><small>[^3]</small></small> thine heart keep my commandments: <span class="startversemarker">[</span>**[[Prov.3.2|2]]**<span class="endversemarker">]</span> For length<small><small>[^4]</small></small> of days, and long life<small><small>[^5]</small></small>, and peace<small><small>[^6]</small></small>, shall they add to thee. <span class="startversemarker">[</span>**[[Prov.3.3|3]]**<span class="endversemarker">]</span> Let not mercy<small><small>[^7]</small></small> and truth forsake thee: bind<small><small>[^8]</small></small> them about thy neck; write<small><small>[^9]</small></small> them upon the table of thine heart: <span class="startversemarker">[</span>**[[Prov.3.4|4]]**<span class="endversemarker">]</span> So shalt<small><small>[^10]</small></small> thou find favour and good understanding<small><small>[^11]</small></small> in the sight of God and man. 
 
@@ -10,7 +10,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Prov.3.7|7]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[Prov.3.11|11]]**<span class="endversemarker">]</span> [¶]My<small><small>[^24]</small></small> son, despise not the chastening of the <span class="smallcaps">Lord</span>; neither<small><small>[^25]</small></small> be weary of his correction: <span class="startversemarker">[</span>**[[Prov.3.12|12]]**<span class="endversemarker">]</span> For whom the <span class="smallcaps">Lord</span> loveth he correcteth; even as a father the son \[in whom\] he delighteth.<small><small>[^26]</small></small>
 
-***The Blessings of Wisdom*** ^bsb1449
+<big><big>[[Prov.3.13 The Blessings of Wisdom|⥃]]</big></big>***The Blessings of Wisdom***
 
  
 

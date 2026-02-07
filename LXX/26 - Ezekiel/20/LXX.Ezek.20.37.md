@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:37** 
 <small><sub>**LXX:**</sub></small>
 And I will lead you by  my rod, and I will bring you in by number. 
-<small><sub>**KJV:**</sub></small>
-And I will cause you to pass under the rod, and I will bring you into the bond of the covenant:
-<small><sub>**BSB:**</sub></small>
-I will make you pass under the rod and will bring you into the bond of the covenant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.36|<< Ezekiel 20:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.38|Ezekiel 20:38 >>]]</td></tr></table>
 
 | Translation | Greek |

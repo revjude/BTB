@@ -1,4 +1,4 @@
-**Joshua 6:18** 
+**Joshua 6:18**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye, in any wise keep [yourselves] from the accursed thing, lest ye make [yourselves] accursed, when ye take of the accursed thing, and make the camp of Israel a curse, and trouble it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But keep away from the things devoted to destruction, lest you yourself be set a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.17|<< Joshua 6:17]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.19|Joshua 6:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and only  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7535\|רַק]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> rak-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859D\|אַתֶּם֙]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

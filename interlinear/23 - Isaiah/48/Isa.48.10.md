@@ -1,4 +1,4 @@
-**Isaiah 48:10** 
+**Isaiah 48:10**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have refined thee, but not with silver; I have chosen thee in the furnace of affliction.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ See, I have refined you, but not as silver; I have tested you in the furnace of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.9|<< Isaiah 48:9]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.11|Isaiah 48:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֥ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have refined you  |**<big>&#8207;[[H6884\|צְרַפְתִּ֖י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| tze.raf.Ti.<small><sup>[[HVqp1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

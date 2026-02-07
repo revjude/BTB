@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:20** 
 <small><sub>**LXX:**</sub></small>
 On account of this, hear \[the\] plan of \[the\] <span class="smallcaps">lord</span>! which he planned against  Edom; and his device which he devised against the ones dwelling Teman. Surely the least of the sheep shall be scraped away. Surely their resting-place shall be made impassable for them? 
-<small><sub>**KJV:**</sub></small>
-Therefore hear the counsel of the LORD, that he hath taken against Edom; and his purposes, that he hath purposed against the inhabitants of Teman: Surely the least of the flock shall draw them out: surely he shall make their habitations desolate with them.
-<small><sub>**BSB:**</sub></small>
-Therefore hear the plans that the LORD has drawn up against Edom and the strategies He has devised against the people of Teman: Surely the little ones of the flock will be dragged away; certainly their pasture will be made desolate because of them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.19|<< Jeremiah 49:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.21|Jeremiah 49:21 >>]]</td></tr></table>
 
 | Translation | Greek |

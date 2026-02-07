@@ -1,12 +1,12 @@
-**1 Corinthians 10:11
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:11**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.
 <small><sub>**BSB:**</sub></small>
 Now these things happened to them as examples and were written down as warnings for us, on whom the fulfillment of the ages has come.
 <small><sub>**Literal:**</sub></small>
 These things now all typologically  it was happening to them, were written then for admonition of us to whom the ends of the ages has come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.10|<< 1 Corinthians 10:10]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.12|1 Corinthians 10:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

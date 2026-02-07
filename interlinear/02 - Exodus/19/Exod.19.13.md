@@ -1,4 +1,4 @@
-**Exodus 19:13** 
+**Exodus 19:13**<big><big>[[Exod.19.1 Israel at Mount Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall not an hand touch it, but he shall surely be stoned, or shot through; whether [it be] beast or man, it shall not live: when the trumpet soundeth long, they shall come up to the mount.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ No hand shall touch him, but he shall surely be stoned or shot with arrows—whe
 > $\quad$ referenced by: [[Heb.12.20|Heb 12:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will touch  |**<big>&#8207;[[H5060\|תִגַּ֨ע]]&#8207; </big>**| ti.Ga'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

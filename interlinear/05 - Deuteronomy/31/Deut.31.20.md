@@ -1,4 +1,4 @@
-**Deuteronomy 31:20** 
+**Deuteronomy 31:20**<big><big>[[Deut.31.14 God Commissions Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For when I shall have brought them into the land which I sware unto their fathers, that floweth with milk and honey; and they shall have eaten and filled themselves, and waxen fat; then will they turn unto other gods, and serve them, and provoke me, and break my covenant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I have brought them into the land that I swore to give their fathers, a lan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.19|<< Deuteronomy 31:19]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.21|Deuteronomy 31:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will bring it  |**<big>&#8207;[[H0935P\|אֲבִיאֶ֜]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| 'a.vi.'E.<small><sup>[[HVhi1cs]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

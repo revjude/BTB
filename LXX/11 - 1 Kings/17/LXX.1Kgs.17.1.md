@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Elijah the Tishbite said, the one from Tishbon  of Gilead, to Ahab, As \[the\] <span class="smallcaps">lord</span> lives, the God of Israel, in whom I stand before him, Shall there be  these years dew and rain, \[no\], but unless \[it be\] through \[the\] word of my mouth. 
-<small><sub>**KJV:**</sub></small>
-And Elijah the Tishbite, [who was] of the inhabitants of Gilead, said unto Ahab, [As] the LORD God of Israel liveth, before whom I stand, there shall not be dew nor rain these years, but according to my word.
-<small><sub>**BSB:**</sub></small>
-Now Elijah the Tishbite, who was among the settlers of Gilead, said to Ahab, “As surely as the LORD, the God of Israel, lives, before whom I stand, there will be neither dew nor rain in these years except at my word!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.34|<< 1 Kings 16:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.2|1 Kings 17:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Kings 17:1** is...

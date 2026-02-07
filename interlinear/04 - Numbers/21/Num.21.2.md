@@ -1,4 +1,4 @@
-**Numbers 21:2** 
+**Numbers 21:2**<big><big>[[Num.21.1 The Defeat of Arad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel vowed a vow unto the LORD, and said, If thou wilt indeed deliver this people into my hand, then I will utterly destroy their cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Israel made a vow to the LORD: “If You will deliver this people into our ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.1|<< Numbers 21:1]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.3|Numbers 21:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it vowed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5087\|יִּדַּ֨ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Dar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֥ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

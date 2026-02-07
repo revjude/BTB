@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:51** 
 <small><sub>**LXX:**</sub></small>
 And Samaria did not sin according to the halves of your sins. But you multiplied  your lawless deeds above them, and justified  your sisters in all  your lawless deeds which you did. 
-<small><sub>**KJV:**</sub></small>
-Neither hath Samaria committed half of thy sins; but thou hast multiplied thine abominations more than they, and hast justified thy sisters in all thine abominations which thou hast done.
-<small><sub>**BSB:**</sub></small>
-Furthermore, Samaria did not commit half the sins you did. You have multiplied your abominations beyond theirs, and all the abominations you have committed have made your sisters appear righteous.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.50|<< Ezekiel 16:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.52|Ezekiel 16:52 >>]]</td></tr></table>
 
 | Translation | Greek |

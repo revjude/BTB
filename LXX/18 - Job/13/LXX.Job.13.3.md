@@ -1,10 +1,7 @@
 **LXX Job 13:3** 
 <small><sub>**LXX:**</sub></small>
 But nevertheless, I will speak to \[the\] <span class="smallcaps">lord</span>; and I will reprove before him, if he should be willing. 
-<small><sub>**KJV:**</sub></small>
-Surely I would speak to the Almighty, and I desire to reason with God.
-<small><sub>**BSB:**</sub></small>
-Yet I desire to speak to the Almighty and argue my case before God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.13.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.2|<< Job 13:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.4|Job 13:4 >>]]</td></tr></table>
 
 | Translation | Greek |

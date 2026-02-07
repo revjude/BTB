@@ -1,4 +1,4 @@
-**1 Chronicles 28:18** 
+**1 Chronicles 28:18**<big><big>[[1Chr.28.11 The Plans for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubims, that spread out [their wings], and covered the ark of the covenant of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the weight of the refined gold for the altar of incense; and the plans for the c
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.17|<< 1 Chronicles 28:17]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.19|1 Chronicles 28:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and for [the] altar of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4196\|מִזְבַּ֧ח]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> miz.Bach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> incense  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7004\|קְּטֹ֛רֶת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.To.ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

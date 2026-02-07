@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Who should grant you, O my beloved \[man\], nursing \[the\] breasts of my mother; finding you outside I should kiss you, and indeed, they will not treat me with contempt. 
-<small><sub>**KJV:**</sub></small>
-O that thou [wert] as my brother, that sucked the breasts of my mother! [when] I should find thee without, I would kiss thee; yea, I should not be despised.
-<small><sub>**BSB:**</sub></small>
-O that you were to me like a brother who nursed at my mother’s breasts! If I found you outdoors, I would kiss you, and no one would despise me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.7.13|<< Song of Solomon 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.2|Song of Solomon 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

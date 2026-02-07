@@ -1,10 +1,7 @@
 **LXX Zechariah 1:4** 
 <small><sub>**LXX:**</sub></small>
 And do not become as  your fathers! ones whom the prophets accused them, the ones beforehand saying, Thus says \[the\] <span class="smallcaps">lord</span> of the forces, Turn from  your wicked ways, and from  your wicked practices! And they did not listen, and did not take heed  to listen to me, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Be ye not as your fathers, unto whom the former prophets have cried, saying, Thus saith the LORD of hosts; Turn ye now from your evil ways, and [from] your evil doings: but they did not hear, nor hearken unto me, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Do not be like your fathers, to whom the former prophets proclaimed that this is what the LORD of Hosts says: ‘Turn now from your evil ways and deeds.’ But they did not listen or pay attention to Me, declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.3|<< Zechariah 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.5|Zechariah 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

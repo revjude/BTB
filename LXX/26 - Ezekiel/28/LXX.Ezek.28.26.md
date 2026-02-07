@@ -1,10 +1,7 @@
 **LXX Ezekiel 28:26** 
 <small><sub>**LXX:**</sub></small>
 And they shall dwell upon it in hope. And they shall build houses, and shall plant vineyards, and shall dwell in hope, whenever I execute judgment on all the ones dishonoring them, among the ones round about them; and they shall know that I am \[the\] <span class="smallcaps">lord</span>  their God, and the God  of their fathers. 
-<small><sub>**KJV:**</sub></small>
-And they shall dwell safely therein, and shall build houses, and plant vineyards; yea, they shall dwell with confidence, when I have executed judgments upon all those that despise them round about them; and they shall know that I [am] the LORD their God.
-<small><sub>**BSB:**</sub></small>
-And there they will dwell securely, build houses, and plant vineyards. They will dwell securely when I execute judgments against all those around them who treat them with contempt. Then they will know that I am the LORD their God.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.28.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.25|<< Ezekiel 28:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.1|Ezekiel 29:1 >>]]</td></tr></table>
 
 | Translation | Greek |

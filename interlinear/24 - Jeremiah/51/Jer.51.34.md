@@ -1,4 +1,4 @@
-**Jeremiah 51:34** 
+**Jeremiah 51:34**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nebuchadrezzar the king of Babylon hath devoured me, he hath crushed me, he hath made me an empty vessel, he hath swallowed me up like a dragon, he hath filled his belly with my delicates, he hath cast me out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nebuchadrezzar the king of Babylon hath devoured me, he hath crushed me, he hath
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.33|<< Jeremiah 51:33]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.35|Jeremiah 51:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he devoured me  [^2]|**<big>&#8207;[[H0398\|אֲכָלַ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**[^3] | 'a.kha.la.<small><sup>[[HVqp3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | he confused me  [^5]|**<big>&#8207;[[H2000\|הֲמָמַ֗]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**[^6] | ha.ma.ma.<small><sup>[[HVqp3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

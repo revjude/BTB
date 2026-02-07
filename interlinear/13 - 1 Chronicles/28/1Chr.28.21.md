@@ -1,4 +1,4 @@
-**1 Chronicles 28:21** 
+**1 Chronicles 28:21**<big><big>[[1Chr.28.11 The Plans for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, the courses of the priests and the Levites, [even they shall be with thee] for all the service of the house of God: and [there shall be] with thee for all manner of workmanship every willing skilful man, for any manner of service: also the princes and all the people [will be] wholly at thy commandment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The divisions of the priests and Levites are ready for all the service of the ho
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.20|<< 1 Chronicles 28:20]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.1|1 Chronicles 29:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] divisions of  |**<big>&#8207;[[H4256\|מַחְלְקוֹת֙]]&#8207; </big>**| mach.le.kOt<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

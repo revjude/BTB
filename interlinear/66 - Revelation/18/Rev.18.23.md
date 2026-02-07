@@ -1,5 +1,5 @@
-**Revelation 18:23
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:23**<big><big>[[Rev.18.21 The Doom of Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the light of a candle shall shine no more at all in thee; and the voice of the bridegroom and of the bride shall be heard no more at all in thee: for thy merchants were the great men of the earth; for by thy sorceries were all nations deceived.
 <small><sub>**BSB:**</sub></small>
 The light of a lamp will never shine in you again, and the voices of a bride and bridegroom will never call out in you again. For your merchants were the great ones of the earth, because all the nations were deceived by your sorcery.”
@@ -10,7 +10,7 @@ And [the] light of lamp certainly not may shine in you any longer, and [the] voi
 > $\quad$ alluding to: [[LXX.Isa.23.8|Isa 23:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] light |**<big>[[G5457\|φῶς]]</big>**  |phōs <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

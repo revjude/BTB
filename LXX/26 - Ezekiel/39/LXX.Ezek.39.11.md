@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:11** 
 <small><sub>**LXX:**</sub></small>
 And it will be in  that day I will appoint  Gog a place of renown -- a memorial in Israel, a cemetery of the ones coming by the sea. And they shall enclose the cleft of the ravine, and they shall bury Gog there, and all  his multitude. And it shall be called then, The Cemetery  of Gog. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass in that day, [that] I will give unto Gog a place there of graves in Israel, the valley of the passengers on the east of the sea: and it shall stop the [noses] of the passengers: and there shall they bury Gog and all his multitude: and they shall call [it] The valley of Hamongog.
-<small><sub>**BSB:**</sub></small>
-And on that day I will give Gog a burial place in Israel, the Valley of the Travelers, east of the Sea. It will block those who travel through, because Gog and all his hordes will be buried there. So it will be called the Valley of Hamon-gog.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.10|<< Ezekiel 39:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.12|Ezekiel 39:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Thessalonians 3:6
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 3:6**<big><big>[[2Thess.3.6 A Warning against Idleness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.
 <small><sub>**BSB:**</sub></small>
 Now we command you, brothers, in the name of our Lord Jesus Christ, to keep away from any brother who leads an undisciplined life that is not in keeping with the tradition you received from us.
 <small><sub>**Literal:**</sub></small>
 We command now you, brothers, in [the] name of the Lord of us Jesus Christ, are to withdraw you from every brother idly walking and not according to the tradition that they received from us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.5|<< 2 Thessalonians 3:5]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.7|2 Thessalonians 3:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We command |**<big>[[G3853\|Παραγγέλλομεν]]</big>**  |Parangellomen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah said, \[It is a\] light \[thing\] for the shadow to lean ten stairs, not thus, but the shadow return ten stairs to the rear. 
-<small><sub>**KJV:**</sub></small>
-And Hezekiah answered, It is a light thing for the shadow to go down ten degrees: nay, but let the shadow return backward ten degrees.
-<small><sub>**BSB:**</sub></small>
-“It is easy for the shadow to lengthen ten steps,” answered Hezekiah, “but not for it to go back ten steps.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.20.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.9|<< 2 Kings 20:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.11|2 Kings 20:11 >>]]</td></tr></table>
 
 | Translation | Greek |

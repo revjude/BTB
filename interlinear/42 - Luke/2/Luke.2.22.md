@@ -1,5 +1,5 @@
-**Luke 2:22
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:22**<big><big>[[Luke.2.21 Jesus Presented at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present [him] to the Lord;
 <small><sub>**BSB:**</sub></small>
 And when the time of purification according to the Law of Moses was complete, His parents brought Him to Jerusalem to present Him to the Lord
@@ -10,7 +10,7 @@ And when were fulfilled the days of the purification of them according to the la
 > $\quad$ alluding to: [[LXX.Lev.12.3|Lev 12:3-4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

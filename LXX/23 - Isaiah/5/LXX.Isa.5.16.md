@@ -1,10 +1,7 @@
 **LXX Isaiah 5:16** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> of Hosts shall be raised up high in judgment; and the holy God shall be glorified in righteousness. 
-<small><sub>**KJV:**</sub></small>
-But the LORD of hosts shall be exalted in judgment, and God that is holy shall be sanctified in righteousness.
-<small><sub>**BSB:**</sub></small>
-But the LORD of Hosts will be exalted by His justice, and the holy God will show Himself holy in righteousness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.15|<< Isaiah 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.17|Isaiah 5:17 >>]]</td></tr></table>
 
 | Translation | Greek |

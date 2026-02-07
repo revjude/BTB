@@ -1,4 +1,4 @@
-**Psalms 145:3** 
+**Psalms 145:3**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Great [is] the LORD, and greatly to be praised; and his greatness [is] unsearchable.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Great is the LORD and greatly to be praised; His greatness is unsearchable.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.2|<< Psalms 145:2]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.4|Psalms 145:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] great  |**<big>&#8207;[[H1419A\|גָּ֘ד֤וֹל]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

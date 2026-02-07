@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:8** 
 <small><sub>**LXX:**</sub></small>
 Concerning these \[things\] gird yourselves \[with\] sackcloths, and lament, and shout! because the rage of \[the\] anger \[of the\] <span class="smallcaps">lord</span> shall not be turned from you. 
-<small><sub>**KJV:**</sub></small>
-For this gird you with sackcloth, lament and howl: for the fierce anger of the LORD is not turned back from us.
-<small><sub>**BSB:**</sub></small>
-So put on sackcloth, mourn and wail, for the fierce anger of the LORD has not turned away from us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.7|<< Jeremiah 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.9|Jeremiah 4:9 >>]]</td></tr></table>
 
 | Translation | Greek |

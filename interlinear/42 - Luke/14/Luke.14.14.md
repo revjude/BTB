@@ -1,12 +1,12 @@
-**Luke 14:14
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:14**<big><big>[[Luke.14.7 The Parable of the Guests|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And thou shalt be blessed; for they cannot recompense thee: for thou shalt be recompensed at the resurrection of the just.
 <small><sub>**BSB:**</sub></small>
 and you will be blessed. Since they cannot repay you, you will be repaid at the resurrection of the righteous.”
 <small><sub>**Literal:**</sub></small>
 and blessed you will be, because nothing they have to repay you; It will be recompensed for to you in the resurrection of the righteous.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.13|<< Luke 14:13]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.15|Luke 14:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | blessed |**<big>[[G3107\|μακάριος]]</big>**  |makarios <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**Hebrews 8:11
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 8:11**<big><big>[[Heb.8.6 The New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they shall not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.
 <small><sub>**BSB:**</sub></small>
 No longer will each one teach his neighbor or his brother, saying, ‘Know the Lord,’ because they will all know Me, from the least of them to the greatest.
@@ -10,7 +10,7 @@ And certainly not shall they teach each the comrade of him and each the brother 
 > $\quad$ referencing: [[LXX.Jer.31.31|Jer 31:31-34]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | certainly |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

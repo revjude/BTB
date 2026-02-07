@@ -1,10 +1,7 @@
 **LXX Leviticus 5:11** 
 <small><sub>**LXX:**</sub></small>
 And if his hand should not find a pair of turtle-doves, or two young pigeons, then he shall bring  his gift for which he sinned -- the tenth of the ephah of fine flour for a sin \[offering\]. He shall not pour upon it olive oil, nor place upon it frankincense, for it is \[an offering\] on account of sin. 
-<small><sub>**KJV:**</sub></small>
-But if he be not able to bring two turtledoves, or two young pigeons, then he that sinned shall bring for his offering the tenth part of an ephah of fine flour for a sin offering; he shall put no oil upon it, neither shall he put [any] frankincense thereon: for it [is] a sin offering.
-<small><sub>**BSB:**</sub></small>
-But if he cannot afford two turtledoves or two young pigeons, he may bring a tenth of an ephah of fine flour as a sin offering. He must not put olive oil or frankincense on it, because it is a sin offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.10|<< Leviticus 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.12|Leviticus 5:12 >>]]</td></tr></table>
 
 | Translation | Greek |

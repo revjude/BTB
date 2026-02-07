@@ -1,12 +1,12 @@
-**Luke 23:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:8**<big><big>[[Luke.23.6 Jesus before Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Herod saw Jesus, he was exceeding glad: for he was desirous to see him of a long [season], because he had heard many things of him; and he hoped to have seen some miracle done by him.
 <small><sub>**BSB:**</sub></small>
 When Herod saw Jesus, he was greatly pleased. He had wanted to see Him for a long time, because he had heard about Him and was hoping to see Him perform a miracle.
 <small><sub>**Literal:**</sub></small>
 <the> And Herod having seen <the> Jesus [was] glad exceedingly; he was for of long time wishing to see Him because of <the> hearing many things concerning Him and he was hoping some sign to see by Him done.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.7|<< Luke 23:7]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.9|Luke 23:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

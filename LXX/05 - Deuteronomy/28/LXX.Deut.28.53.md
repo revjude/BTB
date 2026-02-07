@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:53** 
 <small><sub>**LXX:**</sub></small>
 And you shall eat the progeny  of your belly, \[the\] meat of your sons and your daughters, as many as \[the\] <span class="smallcaps">lord</span> your God gave to you in  your straits, and in  your affliction, in which your enemy shall afflict you. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt eat the fruit of thine own body, the flesh of thy sons and of thy daughters, which the LORD thy God hath given thee, in the siege, and in the straitness, wherewith thine enemies shall distress thee:
-<small><sub>**BSB:**</sub></small>
-Then you will eat the fruit of your womb, the flesh of the sons and daughters whom the LORD your God has given you, in the siege and distress that your enemy will inflict on you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.52|<< Deuteronomy 28:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.54|Deuteronomy 28:54 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they said, Come, we should devise against Jeremiah a device, for \[the\] law shall not perish from \[the\] priest, nor counsel from \[the\] discerning, nor \[the\] word from \[the\] prophet. Come, for we should strike him in the tongue, and we shall not hear all  his words. 
-<small><sub>**KJV:**</sub></small>
-Then said they, Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us smite him with the tongue, and let us not give heed to any of his words.
-<small><sub>**BSB:**</sub></small>
-Then some said, “Come, let us make plans against Jeremiah, for the law will never be lost to the priest, nor counsel to the wise, nor an oracle to the prophet. Come, let us denounce him and pay no heed to any of his words.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.17|<< Jeremiah 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.19|Jeremiah 18:19 >>]]</td></tr></table>
 
 | Translation | Greek |

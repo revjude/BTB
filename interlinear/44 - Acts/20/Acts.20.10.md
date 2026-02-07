@@ -1,12 +1,12 @@
-**Acts 20:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:10**<big><big>[[Acts.20.7 Eutychus Revived at Troas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Paul went down, and fell on him, and embracing [him] said, Trouble not yourselves; for his life is in him.
 <small><sub>**BSB:**</sub></small>
 But Paul went down, threw himself on the young man, and embraced him. “Do not be alarmed!” he said. “He is still alive!”
 <small><sub>**Literal:**</sub></small>
 Having descended however <the> Paul fell upon him and having embraced [him] said; Not do be alarmed; the for life of him in him is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.9|<< Acts 20:9]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.11|Acts 20:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having descended |**<big>[[G2597\|καταβὰς]]</big>**  |katabas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

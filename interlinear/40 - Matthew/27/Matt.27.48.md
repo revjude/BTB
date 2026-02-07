@@ -1,5 +1,5 @@
-**Matthew 27:48
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:48**<big><big>[[Matt.27.45 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And straightway one of them ran, and took a spunge, and filled [it] with vinegar, and put [it] on a reed, and gave him to drink.
 <small><sub>**BSB:**</sub></small>
 One of them quickly ran and brought a sponge. He filled it with sour wine, put it on a reed, and held it up for Jesus to drink.
@@ -10,7 +10,7 @@ And immediately having run one of them and having taken a sponge, having filled 
 > $\quad$ referencing: [[LXX.Ps.69.21|Ps 69:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G2112\|εὐθέως]]</big>**  |eutheōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

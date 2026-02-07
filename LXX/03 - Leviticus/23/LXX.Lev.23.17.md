@@ -1,10 +1,7 @@
 **LXX Leviticus 23:17** 
 <small><sub>**LXX:**</sub></small>
 From  your houses you shall bring bread loaves, an increase \[offering\]; they shall be two bread loaves of two tenths of fine flour, baked being leaven of \[the\] first produce to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Ye shall bring out of your habitations two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven; [they are] the firstfruits unto the LORD.
-<small><sub>**BSB:**</sub></small>
-Bring two loaves of bread from your dwellings as a wave offering, each made from two-tenths of an ephah of fine flour, baked with leaven, as the firstfruits to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.16|<< Leviticus 23:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.18|Leviticus 23:18 >>]]</td></tr></table>
 
 | Translation | Greek |

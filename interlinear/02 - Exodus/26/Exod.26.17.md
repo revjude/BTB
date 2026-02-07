@@ -1,4 +1,4 @@
-**Exodus 26:17** 
+**Exodus 26:17**<big><big>[[Exod.26.15 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Two tenons [shall there be] in one board, set in order one against another: thus shalt thou make for all the boards of the tabernacle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Two tenons must be connected to each other for each frame. Make all the frames o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.16|<< Exodus 26:16]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.18|Exodus 26:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | two  |**<big>&#8207;[[H8147\|שְׁתֵּ֣י]]&#8207; </big>**| she.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands  |**<big>&#8207;[[H3027G\|יָד֗וֹת]]&#8207; </big>**| ya.Dot<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

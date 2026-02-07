@@ -1,4 +1,4 @@
-**Daniel 10:10** 
+**Daniel 10:10**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, an hand touched me, which set me upon my knees and [upon] the palms of my hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Suddenly, a hand touched me and set me trembling on my hands and knees.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.9|<< Daniel 10:9]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.11|Daniel 10:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a hand  |**<big>&#8207;[[H3027G\|יָ֖ד]]&#8207; </big>**| yad<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

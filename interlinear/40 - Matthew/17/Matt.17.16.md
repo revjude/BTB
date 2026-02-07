@@ -1,12 +1,12 @@
-**Matthew 17:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:16**<big><big>[[Matt.17.14 The Boy with a Demon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I brought him to thy disciples, and they could not cure him.
 <small><sub>**BSB:**</sub></small>
 I brought him to Your disciples, but they could not heal him.”
 <small><sub>**Literal:**</sub></small>
 And I brought him to the disciples of You, and not they were able him to heal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.15|<< Matthew 17:15]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.17|Matthew 17:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I brought |**<big>[[G4374\|προσήνεγκα]]</big>**  |prosēnegka <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

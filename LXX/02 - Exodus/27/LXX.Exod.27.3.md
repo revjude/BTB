@@ -1,10 +1,7 @@
 **LXX Exodus 27:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall make a rim for the altar. And  \[its\] lid, and  \[its\] bowls, and  \[its\] meat hooks, and  \[its\] censer, and all  \[its\] utensils you shall make of brass. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make his pans to receive his ashes, and his shovels, and his basons, and his fleshhooks, and his firepans: all the vessels thereof thou shalt make [of] brass.
-<small><sub>**BSB:**</sub></small>
-Make all its utensils of bronze—its pots for removing ashes, its shovels, its sprinkling bowls, its meat forks, and its firepans.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.27.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.2|<< Exodus 27:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.4|Exodus 27:4 >>]]</td></tr></table>
 
 | Translation | Greek |

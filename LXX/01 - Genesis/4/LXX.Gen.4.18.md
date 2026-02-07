@@ -1,10 +1,7 @@
 **LXX Genesis 4:18** 
 <small><sub>**LXX:**</sub></small>
 And \[to\] Enoch was born Irad; and Irad procreated  Mehujael; and Mehujael procreated  Methusael; and Methusaela procreated  Lamech. 
-<small><sub>**KJV:**</sub></small>
-And unto Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech.
-<small><sub>**BSB:**</sub></small>
-Now to Enoch was born Irad, and Irad was the father of Mehujael, and Mehujael was the father of Methusael, and Methusael was the father of Lamech.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.17|<< Genesis 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.19|Genesis 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 4:18** 
+**Jeremiah 4:18**<big><big>[[Jer.4.5 Disaster from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy way and thy doings have procured these [things] unto thee; this [is] thy wickedness, because it is bitter, because it reacheth unto thine heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thy way and thy doings have procured these [things] unto thee; this [is] thy wic
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.17|<< Jeremiah 4:17]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.19|Jeremiah 4:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | conduct your  |**<big>&#8207;[[H1870G\|דַּרְכֵּ]]&#8207;&#8207;[[H9022\|ךְ֙]]&#8207; </big>**| dar.ke<small><sup>[[HNcbsc]]</sup></small> Kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and deeds your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4611\|מַ֣עֲלָלַ֔יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Ma.'a.la.La.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:17** 
 <small><sub>**LXX:**</sub></small>
 And the gatekeepers -- Shallum, and Akkub, and Talmon, and Ahiman, and  their brethren. Shallum \[was\] the ruler. 
-<small><sub>**KJV:**</sub></small>
-And the porters [were], Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum [was] the chief;
-<small><sub>**BSB:**</sub></small>
-These were the gatekeepers: Shallum, Akkub, Talmon, Ahiman, and their relatives. Shallum was their chief;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.16|<< 1 Chronicles 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.18|1 Chronicles 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

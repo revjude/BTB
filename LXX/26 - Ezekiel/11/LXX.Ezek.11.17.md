@@ -1,10 +1,7 @@
 **LXX Ezekiel 11:17** 
 <small><sub>**LXX:**</sub></small>
 On account of this, you say! Thus says Adonai \[the\] <span class="smallcaps">lord</span>, that, I will take them from out of the nations, and I will gather them from out of the places of which I scattered them among them, and I will give to them the land  of Israel. 
-<small><sub>**KJV:**</sub></small>
-Therefore say, Thus saith the Lord GOD; I will even gather you from the people, and assemble you out of the countries where ye have been scattered, and I will give you the land of Israel.
-<small><sub>**BSB:**</sub></small>
-Therefore declare that this is what the Lord GOD says: ‘I will gather you from the peoples and assemble you from the countries to which you have been scattered, and I will give back to you the land of Israel.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.16|<< Ezekiel 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.18|Ezekiel 11:18 >>]]</td></tr></table>
 
 | Translation | Greek |

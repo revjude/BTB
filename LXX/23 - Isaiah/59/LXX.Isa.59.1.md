@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[Is\] not the hand \[of the\] <span class="smallcaps">lord</span> strong  to deliver? or his ear weighed down to not listen? 
-<small><sub>**KJV:**</sub></small>
-Behold, the LORD’S hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:
-<small><sub>**BSB:**</sub></small>
-Surely the arm of the LORD is not too short to save, nor His ear too dull to hear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.59.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.14|<< Isaiah 58:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.2|Isaiah 59:2 >>]]</td></tr></table>
 
 | Translation | Greek |

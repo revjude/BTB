@@ -1,4 +1,4 @@
-**Isaiah 36:9** 
+**Isaiah 36:9**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How then wilt thou turn away the face of one captain of the least of my master’s servants, and put thy trust on Egypt for chariots and for horsemen?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For how can you repel a single officer among the least of my master’s servants
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.8|<< Isaiah 36:8]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.10|Isaiah 36:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and how?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0349A\|אֵ֣יךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will you turn back  |**<big>&#8207;[[H7725I\|תָּשִׁ֗יב]]&#8207; </big>**| ta.Shiv<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

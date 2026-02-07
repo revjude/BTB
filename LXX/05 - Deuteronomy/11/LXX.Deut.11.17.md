@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:17** 
 <small><sub>**LXX:**</sub></small>
 and \[the\] <span class="smallcaps">lord</span> being enraged should be angry with you, that he should hold together the heaven, and there will not be rain, and the earth shall not give  of its fruit, and you shall be destroyed quickly from the good land which \[the\] <span class="smallcaps">lord</span> gave to you. 
-<small><sub>**KJV:**</sub></small>
-And [then] the LORD’S wrath be kindled against you, and he shut up the heaven, that there be no rain, and that the land yield not her fruit; and [lest] ye perish quickly from off the good land which the LORD giveth you.
-<small><sub>**BSB:**</sub></small>
-or the anger of the LORD will be kindled against you. He will shut the heavens so that there will be no rain, nor will the land yield its produce, and you will soon perish from the good land that the LORD is giving you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.16|<< Deuteronomy 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.18|Deuteronomy 11:18 >>]]</td></tr></table>
 
 | Translation | Greek |

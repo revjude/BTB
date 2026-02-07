@@ -1,12 +1,12 @@
-**Acts 4:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:4**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Howbeit many of them which heard the word believed; and the number of the men was about five thousand.
 <small><sub>**BSB:**</sub></small>
 But many who heard the message believed, and the number of men grew to about five thousand.
 <small><sub>**Literal:**</sub></small>
 Many however of those having heard the word believed; and became the number of the men about thousand five.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.3|<< Acts 4:3]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.5|Acts 4:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Many |**<big>[[G4183\|πολλοὶ]]</big>**  |polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

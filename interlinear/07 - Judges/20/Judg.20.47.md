@@ -1,4 +1,4 @@
-**Judges 20:47** 
+**Judges 20:47**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But six hundred men turned and fled to the wilderness unto the rock Rimmon, and abode in the rock Rimmon four months.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But 600 men turned and fled into the wilderness to the rock of Rimmon, where the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.46|<< Judges 20:46]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.48|Judges 20:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they turned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6437G\|יִּפְנ֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they fled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5127\|יָּנֻ֤סוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Nu.su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

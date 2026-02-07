@@ -1,10 +1,7 @@
 **LXX Numbers 35:2** 
 <small><sub>**LXX:**</sub></small>
 Give orders to the sons of Israel! and they shall give to the Levites from the lots of their possession cities to dwell in; and the outskirts of the cities round about them you shall give to the Levites. 
-<small><sub>**KJV:**</sub></small>
-Command the children of Israel, that they give unto the Levites of the inheritance of their possession cities to dwell in; and ye shall give [also] unto the Levites suburbs for the cities round about them.
-<small><sub>**BSB:**</sub></small>
-“Command the Israelites to give, from the inheritance they will possess, cities for the Levites to live in and pasturelands around the cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.1|<< Numbers 35:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.3|Numbers 35:3 >>]]</td></tr></table>
 
 | Translation | Greek |

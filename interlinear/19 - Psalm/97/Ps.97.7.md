@@ -1,4 +1,4 @@
-**Psalms 97:7** 
+**Psalms 97:7**<big><big>[[Ps.97.1 Let the Earth Rejoice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Confounded be all they that serve graven images, that boast themselves of idols: worship him, all [ye] gods.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ All worshipers of images are put to shame—those who boast in idols. Worship Hi
 > $\quad$ referenced by: [[Heb.1.6|Heb 1:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them be ashamed  |**<big>&#8207;[[H0954\|יֵבֹ֤שׁוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ye.Vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

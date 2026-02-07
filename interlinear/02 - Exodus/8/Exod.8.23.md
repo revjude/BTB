@@ -1,4 +1,4 @@
-**Exodus 8:23** (8:19)
+**Exodus 8:23**<big><big>[[Exod.8.20 The Fourth Plague：Flies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will put a division between my people and thy people: to morrow shall this sign be.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make a distinction between My people and your people. This sign will take
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.22|<< Exodus 8:22]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.24|Exodus 8:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760H\|שַׂמְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a ransom  |**<big>&#8207;[[H6304\|פְדֻ֔ת]]&#8207; </big>**| fe.Dut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:19** 
 <small><sub>**LXX:**</sub></small>
 And  his daughter-in-law, \[the\] wife of Phinehas, having conceived  to give birth, when she heard the message that the ark of God was taken, and that her father-in-law has died, and  her husband; that she wept and gave birth, for her \[birth\] pangs turned upon her. 
-<small><sub>**KJV:**</sub></small>
-And his daughter in law, Phinehas’ wife, was with child, [near] to be delivered: and when she heard the tidings that the ark of God was taken, and that her father in law and her husband were dead, she bowed herself and travailed; for her pains came upon her.
-<small><sub>**BSB:**</sub></small>
-Now Eli’s daughter-in-law, the wife of Phinehas, was pregnant and about to give birth. When she heard the news of the capture of God’s ark and the deaths of her father-in-law and her husband, she collapsed and gave birth, for her labor pains overtook her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.18|<< 1 Samuel 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.20|1 Samuel 4:20 >>]]</td></tr></table>
 
 | Translation | Greek |

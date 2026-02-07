@@ -1,4 +1,4 @@
-**Joel 2:27** 
+**Joel 2:27**<big><big>[[Joel.2.18 Restoration Promised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall know that I [am] in the midst of Israel, and [that] I [am] the LORD your God, and none else: and my people shall never be ashamed.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then you will know that I am present in Israel and that I am the LORD your God, 
 > $\quad$ referenced by: [[Ezek.39.28|Ezek 39:28-29]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will know  |**<big>&#8207;[[H9001\|וִ]]&#8207;&#8207;[[H3045\|ידַעְתֶּ֗ם]]&#8207; </big>**| vi.<small><sup>[[Hc]]</sup></small> da'.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

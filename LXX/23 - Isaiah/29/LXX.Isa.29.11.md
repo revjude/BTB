@@ -1,10 +1,7 @@
 **LXX Isaiah 29:11** 
 <small><sub>**LXX:**</sub></small>
 And all these sayings shall be to you as the words  of this scroll having a seal set upon it; which if they should give it to a man having knowledge of letters, saying, Read these \[things\]! Then he shall say, I am not able to read, for it is sealed. 
-<small><sub>**KJV:**</sub></small>
-And the vision of all is become unto you as the words of a book that is sealed, which [men] deliver to one that is learned, saying, Read this, I pray thee: and he saith, I cannot; for it [is] sealed:
-<small><sub>**BSB:**</sub></small>
-And the entire vision will be to you like the words sealed in a scroll. If it is handed to someone to read, he will say, “I cannot, because it is sealed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.10|<< Isaiah 29:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.12|Isaiah 29:12 >>]]</td></tr></table>
 
 | Translation | Greek |

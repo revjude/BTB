@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Sanballat heard, and  Tobiah, and  Geshem the Arabian, and the rest  of our enemies, that I built the wall, that there was no breach left in it; (and indeed until  that time I did not set up \[the\] doors in the gates) 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and [that] there was no breach left therein; (though at that time I had not set up the doors upon the gates;)
-<small><sub>**BSB:**</sub></small>
-When Sanballat, Tobiah, Geshem the Arab, and the rest of our enemies heard that I had rebuilt the wall and not a gap was left—though to that time I had not yet installed the doors in the gates—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.19|<< Nehemiah 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.2|Nehemiah 6:2 >>]]</td></tr></table>
 
 | Translation | Greek |

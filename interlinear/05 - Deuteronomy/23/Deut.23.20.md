@@ -1,4 +1,4 @@
-**Deuteronomy 23:20** (23:21)
+**Deuteronomy 23:20**<big><big>[[Deut.23.15 Miscellaneous Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto a stranger thou mayest lend upon usury; but unto thy brother thou shalt not lend upon usury: that the LORD thy God may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You may charge a foreigner interest, but not your brother, so that the LORD your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.19|<< Deuteronomy 23:19]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.21|Deuteronomy 23:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the foreigner  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5237\|נָּכְרִ֣י]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> na.khe.Ri<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will charge interest  |**<big>&#8207;[[H5391B\|תַשִּׁ֔יךְ]]&#8207; </big>**| ta.Shikh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

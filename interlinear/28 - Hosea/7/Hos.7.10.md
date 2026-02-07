@@ -1,4 +1,4 @@
-**Hosea 7:10** 
+**Hosea 7:10**<big><big>[[Hos.7.1 Ephraim’s Iniquity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the pride of Israel testifieth to his face: and they do not return to the LORD their God, nor seek him for all this.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Israel’s arrogance testifies against them, yet they do not return to the LORD 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.9|<< Hosea 7:9]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.11|Hosea 7:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it testifies  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6030B\|עָנָ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] pride of  |**<big>&#8207;[[H1347\|גְאֽוֹן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ge.'on-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

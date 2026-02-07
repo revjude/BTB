@@ -1,10 +1,7 @@
 **LXX Ezekiel 15:7** 
 <small><sub>**LXX:**</sub></small>
 And I will put  my face against them; from out of the fire they shall come forth, and fire shall devour them; and they shall know that I \[am\] \[the\] <span class="smallcaps">lord</span> in  my firmly fixing  my face against them. 
-<small><sub>**KJV:**</sub></small>
-And I will set my face against them; they shall go out from [one] fire, and [another] fire shall devour them; and ye shall know that I [am] the LORD, when I set my face against them.
-<small><sub>**BSB:**</sub></small>
-And I will set My face against them. Though they may have escaped the fire, yet another fire will consume them. And when I set My face against them, you will know that I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.15.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.15.6|<< Ezekiel 15:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.15.8|Ezekiel 15:8 >>]]</td></tr></table>
 
 | Translation | Greek |

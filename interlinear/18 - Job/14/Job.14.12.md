@@ -1,4 +1,4 @@
-**Job 14:12** 
+**Job 14:12**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So man lieth down, and riseth not: till the heavens [be] no more, they shall not awake, nor be raised out of their sleep.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so a man lies down and does not rise. Until the heavens are no more, he will not
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.11|<< Job 14:11]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.13|Job 14:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a person  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376G\|אִ֥ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he lies down  |**<big>&#8207;[[H7901G\|שָׁכַ֗ב]]&#8207; </big>**| sha.Khav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

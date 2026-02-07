@@ -1,10 +1,7 @@
 **LXX Zechariah 4:7** 
 <small><sub>**LXX:**</sub></small>
 Who are you  great mountain before \[the\] face of Zerubbabel  to set up? And I will bring forth the stone of the inheritance of its favor equaling \[my\] favor. 
-<small><sub>**KJV:**</sub></small>
-Who [art] thou, O great mountain? before Zerubbabel [thou shalt become] a plain: and he shall bring forth the headstone [thereof with] shoutings, [crying], Grace, grace unto it.
-<small><sub>**BSB:**</sub></small>
-What are you, O great mountain? Before Zerubbabel you will become a plain. Then he will bring forth the capstone accompanied by shouts of ‘Grace, grace to it!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.4.6|<< Zechariah 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.4.8|Zechariah 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

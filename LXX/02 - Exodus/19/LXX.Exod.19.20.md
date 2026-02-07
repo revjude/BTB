@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> came down upon  mount  Sinai, upon the top of the mountain. And \[the\] <span class="smallcaps">lord</span> called Moses unto the top of the mountain; and Moses ascended. 
-<small><sub>**KJV:**</sub></small>
-And the LORD came down upon mount Sinai, on the top of the mount: and the LORD called Moses [up] to the top of the mount; and Moses went up.
-<small><sub>**BSB:**</sub></small>
-The LORD descended to the top of Mount Sinai and called Moses to the summit. So Moses went up,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.19|<< Exodus 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.21|Exodus 19:21 >>]]</td></tr></table>
 
 | Translation | Greek |

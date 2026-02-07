@@ -1,10 +1,7 @@
 **LXX Psalm 102:8** 
 <small><sub>**LXX:**</sub></small>
 All the day my enemies berated me, and the ones praising me swore an oath against me. 
-<small><sub>**KJV:**</sub></small>
-Mine enemies reproach me all the day; [and] they that are mad against me are sworn against me.
-<small><sub>**BSB:**</sub></small>
-All day long my enemies taunt me; they ridicule me and curse me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.7|<< Psalm 102:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.9|Psalm 102:9 >>]]</td></tr></table>
 
 | Translation | Greek |

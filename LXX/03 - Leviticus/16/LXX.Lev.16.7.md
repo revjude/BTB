@@ -1,10 +1,7 @@
 **LXX Leviticus 16:7** 
 <small><sub>**LXX:**</sub></small>
 And he shall take the two young he-goats, and present them before \[the\] <span class="smallcaps">lord</span> by the door of the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And he shall take the two goats, and present them before the LORD [at] the door of the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-Then he shall take the two goats and present them before the LORD at the entrance to the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.6|<< Leviticus 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.8|Leviticus 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

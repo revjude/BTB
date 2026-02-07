@@ -1,10 +1,7 @@
 **LXX Numbers 26:9** 
 <small><sub>**LXX:**</sub></small>
 and the sons of Eliab -- Namuel, and Dathan, and Abiram; these \[are\] \[the ones\] summoned of the congregation. These are the ones rising up together against Moses and Aaron in the gathering of Korah, in the conspiring against \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Eliab; Nemuel, and Dathan, and Abiram. This [is that] Dathan and Abiram, [which were] famous in the congregation, who strove against Moses and against Aaron in the company of Korah, when they strove against the LORD:
-<small><sub>**BSB:**</sub></small>
-and the sons of Eliab were Nemuel, Dathan, and Abiram. It was Dathan and Abiram, chosen by the congregation, who rebelled against Moses and Aaron with the followers of Korah who rebelled against the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.8|<< Numbers 26:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.10|Numbers 26:10 >>]]</td></tr></table>
 
 | Translation | Greek |

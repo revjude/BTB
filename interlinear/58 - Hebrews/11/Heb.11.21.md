@@ -1,5 +1,5 @@
-**Hebrews 11:21
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:21**<big><big>[[Heb.11.20 The Faith of Isaac, Jacob, and Joseph|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, [leaning] upon the top of his staff.
 <small><sub>**BSB:**</sub></small>
 By faith Jacob, when he was dying, blessed each of Joseph’s sons and worshiped as he leaned on the top of his staff.
@@ -11,7 +11,7 @@ By faith Jacob dying each of the sons of Joseph blessed and worshiped on the top
 > $\quad$ alluding to: [[LXX.Gen.48.15|Gen 48:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Jacob |**<big>[[G2384H\|Ἰακὼβ]]</big>**  |Iakōb <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

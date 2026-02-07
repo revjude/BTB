@@ -1,10 +1,7 @@
 **LXX Psalm 83:15** 
 <small><sub>**LXX:**</sub></small>
 So shall you pursue them with  your gale; and in  your anger you shall disturb them. 
-<small><sub>**KJV:**</sub></small>
-So persecute them with thy tempest, and make them afraid with thy storm.
-<small><sub>**BSB:**</sub></small>
-so pursue them with Your tempest, and terrify them with Your storm.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.83.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.83.14|<< Psalm 83:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.16|Psalm 83:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 30:5** 
+**2 Chronicles 30:5**<big><big>[[2Chr.30.1 Hezekiah Proclaims a Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they established a decree to make proclamation throughout all Israel, from Beersheba even to Dan, that they should come to keep the passover unto the LORD God of Israel at Jerusalem: for they had not done [it] of a long [time in such sort] as it was written.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they established a decree to circulate a proclamation throughout Israel, from
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.4|<< 2 Chronicles 30:4]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.6|2 Chronicles 30:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they appointed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975H\|יַּֽעֲמִ֣ידוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Mi.du<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a word  |**<big>&#8207;[[H1697J\|דָבָ֗ר]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

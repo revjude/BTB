@@ -1,12 +1,12 @@
-**2 Corinthians 10:9
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 10:9**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That I may not seem as if I would terrify you by letters.
 <small><sub>**BSB:**</sub></small>
 I do not want to seem to be trying to frighten you by my letters.
 <small><sub>**Literal:**</sub></small>
 that not [I] may seem as if to frighten you through the letters.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.8|<< 2 Corinthians 10:8]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.10|2 Corinthians 10:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

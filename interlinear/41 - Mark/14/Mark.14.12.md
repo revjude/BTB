@@ -1,12 +1,12 @@
-**Mark 14:12
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:12**<big><big>[[Mark.14.12 Preparing the Passover|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the first day of unleavened bread, when they killed the passover, his disciples said unto him, Where wilt thou that we go and prepare that thou mayest eat the passover?
 <small><sub>**BSB:**</sub></small>
 On the first day of the Feast of Unleavened Bread, when the Passover lamb was to be sacrificed, Jesus’ disciples asked Him, “Where do You want us to prepare for You to eat the Passover?”
 <small><sub>**Literal:**</sub></small>
 And on the first day <the> of unleavened [bread], when the Passover lamb they were to sacrifice, say to Him the disciples of Him; Where do You desire [that] having gone we may prepare that You may eat the Passover?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.11|<< Mark 14:11]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.13|Mark 14:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | on the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

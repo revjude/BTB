@@ -1,4 +1,4 @@
-**Proverbs 28:19** 
+**Proverbs 28:19**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that tilleth his land shall have plenty of bread: but he that followeth after vain [persons] shall have poverty enough.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The one who works his land will have plenty of food, but whoever chases fantasie
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.18|<< Proverbs 28:18]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.20|Proverbs 28:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] tills  |**<big>&#8207;[[H5647I\|עֹבֵ֣ד]]&#8207; </big>**| 'o.Ved<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | land his  |**<big>&#8207;[[H0127G\|אַ֭דְמָת]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'ad.ma.t<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

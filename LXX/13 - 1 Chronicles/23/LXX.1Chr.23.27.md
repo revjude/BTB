@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:27** 
 <small><sub>**LXX:**</sub></small>
 For in the last words of David \[was\] the number of the sons of Levi from twenty years and up. 
-<small><sub>**KJV:**</sub></small>
-For by the last words of David the Levites [were] numbered from twenty years old and above:
-<small><sub>**BSB:**</sub></small>
-For according to the final instructions of David, the Levites twenty years of age or older were counted,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.26|<< 1 Chronicles 23:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.28|1 Chronicles 23:28 >>]]</td></tr></table>
 
 | Translation | Greek |

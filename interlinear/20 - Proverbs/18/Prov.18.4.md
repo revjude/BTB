@@ -1,4 +1,4 @@
-**Proverbs 18:4** 
+**Proverbs 18:4**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of a man’s mouth [are as] deep waters, [and] the wellspring of wisdom [as] a flowing brook.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The words of a man’s mouth are deep waters; the fountain of wisdom is a bubbli
 > $\quad$ referenced by: [[John.7.38|John 7:38]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] waters  |**<big>&#8207;[[H4325G\|מַ֣יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | deep  |**<big>&#8207;[[H6013\|עֲ֭מֻקִּים]]&#8207; </big>**| 'A.mu.kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 45:8** 
 <small><sub>**LXX:**</sub></small>
 And it will be to him for a possession in  Israel. And the ones guiding my people shall not tyrannize any longer; but \[the\] house of Israel shall inherit the land according to their tribes. 
-<small><sub>**KJV:**</sub></small>
-In the land shall be his possession in Israel: and my princes shall no more oppress my people; and [the rest of] the land shall they give to the house of Israel according to their tribes.
-<small><sub>**BSB:**</sub></small>
-This land will be his possession in Israel. And My princes will no longer oppress My people, but will give the rest of the land to the house of Israel according to their tribes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.45.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.7|<< Ezekiel 45:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.9|Ezekiel 45:9 >>]]</td></tr></table>
 
 | Translation | Greek |

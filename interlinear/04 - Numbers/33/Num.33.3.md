@@ -1,4 +1,4 @@
-**Numbers 33:3** 
+**Numbers 33:3**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they departed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with an high hand in the sight of all the Egyptians.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the fifteenth day of the first month, on the day after the Passover, the Isra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.2|<< Numbers 33:2]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.4|Numbers 33:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they set out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|יִּסְע֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Rameses  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H7486G\|רַעְמְסֵס֙]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ra'.me.Ses<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 26:20** 
+**Genesis 26:20**<big><big>[[Gen.26.12 Isaac’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the herdmen of Gerar did strive with Isaac’s herdmen, saying, The water [is] ours: and he called the name of the well Esek; because they strove with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the herdsmen of Gerar quarreled with Isaac’s herdsmen and said, “The wat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.19|<< Genesis 26:19]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.21|Genesis 26:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they disputed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7378\|יָּרִ֜יבוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ri.vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] herdsmen of  |**<big>&#8207;[[H7462B\|רֹעֵ֣י]]&#8207; </big>**| ro.'Ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

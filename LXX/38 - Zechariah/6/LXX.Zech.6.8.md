@@ -1,10 +1,7 @@
 **LXX Zechariah 6:8** 
 <small><sub>**LXX:**</sub></small>
 And he yelled out and spoke to me, saying Behold, the ones going forth upon \[the\] land of \[the\] north caused rest  for my rage in \[the\] land of \[the\] north. 
-<small><sub>**KJV:**</sub></small>
-Then cried he upon me, and spake unto me, saying, Behold, these that go toward the north country have quieted my spirit in the north country.
-<small><sub>**BSB:**</sub></small>
-Then the LORD summoned me and said, “Behold, those going to the land of the north have given rest to My Spirit in the land of the north.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.7|<< Zechariah 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.9|Zechariah 6:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 20:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:31**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.
 <small><sub>**BSB:**</sub></small>
 Therefore be alert and remember that for three years I never stopped warning each of you night and day with tears.
 <small><sub>**Literal:**</sub></small>
 Therefore do watch remembering that three years night and day not I ceased with tears admonishing one each.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.30|<< Acts 20:30]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.32|Acts 20:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do watch |**<big>[[G1127\|γρηγορεῖτε]]</big>**  |grēgoreite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

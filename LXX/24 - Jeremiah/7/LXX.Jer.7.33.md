@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:33** 
 <small><sub>**LXX:**</sub></small>
 And the dead of this people will be for food to the birds  of heaven, and to the wild beasts of the earth; and there will not be one frightening \[them\] away. 
-<small><sub>**KJV:**</sub></small>
-And the carcases of this people shall be meat for the fowls of the heaven, and for the beasts of the earth; and none shall fray [them] away.
-<small><sub>**BSB:**</sub></small>
-The corpses of this people will become food for the birds of the air and the beasts of the earth, and there will be no one to scare them away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.32|<< Jeremiah 7:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.34|Jeremiah 7:34 >>]]</td></tr></table>
 
 | Translation | Greek |

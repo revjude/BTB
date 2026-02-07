@@ -1,10 +1,7 @@
 **LXX Amos 5:16** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>  God  almighty, In all squares \[shall be\] a beating of the breast, and in all ways it shall be said, Woe, woe. \[The\] farmer shall be called unto mourning, and for beating of the breast, and for knowing wailing. 
-<small><sub>**KJV:**</sub></small>
-Therefore the LORD, the God of hosts, the Lord, saith thus; Wailing [shall be] in all streets; and they shall say in all the highways, Alas! alas! and they shall call the husbandman to mourning, and such as are skilful of lamentation to wailing.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD, the God of Hosts, the Lord, says: “There will be wailing in all the public squares and cries of ‘Alas! Alas!’ in all the streets. The farmer will be summoned to mourn, and the mourners to wail.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.15|<< Amos 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.17|Amos 5:17 >>]]</td></tr></table>
 
 | Translation | Greek |

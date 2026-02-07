@@ -1,12 +1,12 @@
-**Romans 13:14
-**<small><sub>**KJV:**</sub></small>
+**Romans 13:14**<big><big>[[Rom.13.11 The Day Is Near|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But put ye on the Lord Jesus Christ, and make not provision for the flesh, to [fulfil] the lusts [thereof].
 <small><sub>**BSB:**</sub></small>
 Instead, clothe yourselves with the Lord Jesus Christ, and make no provision for the desires of the flesh.
 <small><sub>**Literal:**</sub></small>
 But do put on the Lord Jesus Christ and of the flesh provision not do make for desires.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.13|<< Romans 13:13]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.1|Romans 14:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do put on |**<big>[[G1746\|ἐνδύσασθε]]</big>**  |endusasthe <small><sup>[[V-AMM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

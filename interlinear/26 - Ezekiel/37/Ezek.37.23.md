@@ -1,4 +1,4 @@
-**Ezekiel 37:23** 
+**Ezekiel 37:23**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ They will no longer defile themselves with their idols or detestable images, or 
 > $\quad$ referenced by: [[Titus.2.14|Titus 2:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֧א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will make themselves unclean  |**<big>&#8207;[[H2930A\|יִֽטַמְּא֣וּ]]&#8207; </big>**| yi.ta.me.'U<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

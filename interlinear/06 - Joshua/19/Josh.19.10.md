@@ -1,4 +1,4 @@
-**Joshua 19:10** 
+**Joshua 19:10**<big><big>[[Josh.19.10 Zebulun’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the third lot came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The third lot came up for the clans of the tribe of Zebulun: The border of their
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.9|<< Joshua 19:9]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.11|Joshua 19:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it came up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֙עַל֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lot  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1486\|גּוֹרָ֣ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.Ral<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

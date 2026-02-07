@@ -1,12 +1,12 @@
-**Mark 4:8
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:8**<big><big>[[Mark.4.1 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And other fell on good ground, and did yield fruit that sprang up and increased; and brought forth, some thirty, and some sixty, and some an hundred.
 <small><sub>**BSB:**</sub></small>
 Still other seed fell on good soil, where it sprouted, grew up, and produced a crop—one bearing thirtyfold, another sixtyfold, and another a hundredfold.”
 <small><sub>**Literal:**</sub></small>
 And others fell into the soil <the> good and was yielding fruit growing up and increasing and was bearing one thirtyfold and one sixty and one a hundred.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.7|<< Mark 4:7]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.9|Mark 4:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | others [^1] |**<big>[[G0243\|ἄλλα]]</big>**  |alla <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |

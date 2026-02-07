@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In the eighth month, of \[the\] second year unto Darius, came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> to Zechariah, the \[son of\] Berechiah, son of Iddo the prophet, saying, 
-<small><sub>**KJV:**</sub></small>
-In the eighth month, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,
-<small><sub>**BSB:**</sub></small>
-In the eighth month of the second year of Darius, the word of the LORD came to the prophet Zechariah son of Berechiah, the son of Iddo, saying:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.23|<< Haggai 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.2|Zechariah 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

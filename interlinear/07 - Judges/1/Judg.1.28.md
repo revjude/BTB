@@ -1,4 +1,4 @@
-**Judges 1:28** 
+**Judges 1:28**<big><big>[[Judg.1.27 The Failure to Complete the Conquest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Israel was strong, that they put the Canaanites to tribute, and did not utterly drive them out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Israel became stronger, they pressed the Canaanites into forced labor, but 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.27|<< Judges 1:27]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.29|Judges 1:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

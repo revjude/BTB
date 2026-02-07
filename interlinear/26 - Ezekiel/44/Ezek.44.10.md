@@ -1,4 +1,4 @@
-**Ezekiel 44:10** 
+**Ezekiel 44:10**<big><big>[[Ezek.44.6 Reproof of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Levites that are gone away far from me, when Israel went astray, which went astray away from me after their idols; they shall even bear their iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely the Levites who wandered away from Me when Israel went astray, and who wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.9|<< Ezekiel 44:9]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.11|Ezekiel 44:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588B\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | except  |**<big>&#8207;[[H0518B\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

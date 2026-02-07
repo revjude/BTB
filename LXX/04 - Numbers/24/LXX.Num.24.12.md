@@ -1,10 +1,7 @@
 **LXX Numbers 24:12** 
 <small><sub>**LXX:**</sub></small>
 And Balaam said to Balak, Did I not also speak \[to\] your messengers whom you sent to me, saying, 
-<small><sub>**KJV:**</sub></small>
-And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,
-<small><sub>**BSB:**</sub></small>
-Balaam answered Balak, “Did I not already tell the messengers you sent me<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.11|<< Numbers 24:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.13|Numbers 24:13 >>]]</td></tr></table>
 
 | Translation | Greek |

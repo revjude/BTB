@@ -1,5 +1,5 @@
-**Matthew 19:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:4**<big><big>[[Matt.19.1 Teachings about Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he answered and said unto them, Have ye not read, that he which made [them] at the beginning made them male and female,
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “Have you not read that from the beginning the Creator ‘made them male and female,’
@@ -11,7 +11,7 @@ Which now answering He said to them: Surely you have read that the [One] created
 > $\quad$ referencing: [[LXX.Gen.5.2|Gen 5:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Which |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

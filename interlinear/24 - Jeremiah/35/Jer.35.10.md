@@ -1,4 +1,4 @@
-**Jeremiah 35:10** 
+**Jeremiah 35:10**<big><big>[[Jer.35.1 The Obedience of the Rechabites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But we have dwelt in tents, and have obeyed, and done according to all that Jonadab our father commanded us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But we have lived in tents and have obeyed and done exactly as our forefather Jo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.9|<< Jeremiah 35:9]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.11|Jeremiah 35:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we have dwelt  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|נֵּ֖שֶׁב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ne.shev<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> tents  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H0168G\|אֳהָלִ֑ים]]&#8207; </big>**| bo.<small><sup>[[HRd]]</sup></small> 'o.ha.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

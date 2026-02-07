@@ -1,10 +1,7 @@
 **LXX Amos 7:17** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>,  Your wife shall commit harlotry in the city; and your sons and  your daughters shall fall by \[the\] broadsword; and  your land shall be measured out by a measuring line; and you shall come to an end in an unclean land; and Israel shall be led captive from  his land. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD; Thy wife shall be an harlot in the city, and thy sons and thy daughters shall fall by the sword, and thy land shall be divided by line; and thou shalt die in a polluted land: and Israel shall surely go into captivity forth of his land.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD says: ‘Your wife will become a prostitute in the city, and your sons and daughters will fall by the sword. Your land will be divided by a measuring line, and you yourself will die on pagan soil. And Israel will surely go into exile, away from their homeland.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.7.16|<< Amos 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.8.1|Amos 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 37:25** 
+**Genesis 37:25**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a company of Ishmeelites came from Gilead with their camels bearing spicery and balm and myrrh, going to carry [it] down to Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And as they sat down to eat a meal, they looked up and saw a caravan of Ishmaeli
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.24|<< Genesis 37:24]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.26|Genesis 37:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they sat down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|יֵּשְׁבוּ֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.she.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to eat  |**<big>&#8207;[[H9005\|לֶֽ]]&#8207;&#8207;[[H0398\|אֱכָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'e.khol-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

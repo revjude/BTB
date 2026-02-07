@@ -1,10 +1,7 @@
 **LXX Nahum 2:3** 
 <small><sub>**LXX:**</sub></small>
 \[The\] weapons of his command of men \[are\] mighty men mocking with fire; the reins  of their chariots in \[the\] day of his preparation, and the horsemen shall be making a disruption. 
-<small><sub>**KJV:**</sub></small>
-The shield of his mighty men is made red, the valiant men [are] in scarlet: the chariots [shall be] with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken.
-<small><sub>**BSB:**</sub></small>
-The shields of his mighty men are red; the valiant warriors are dressed in scarlet. The fittings of the chariots flash like fire on the day they are prepared, and the spears of cypress have been brandished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.2|<< Nahum 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.4|Nahum 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

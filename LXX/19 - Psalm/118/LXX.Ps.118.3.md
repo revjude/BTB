@@ -1,10 +1,7 @@
 **LXX Psalm 118:3** 
 <small><sub>**LXX:**</sub></small>
 Say indeed, O house of Aaron, that \[he is\] good, for into the eon \[is\] his mercy! 
-<small><sub>**KJV:**</sub></small>
-Let the house of Aaron now say, that his mercy [endureth] for ever.
-<small><sub>**BSB:**</sub></small>
-Let the house of Aaron say, “His loving devotion endures forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.118.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.2|<< Psalm 118:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.4|Psalm 118:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:31** 
 <small><sub>**LXX:**</sub></small>
 And Rehoboam slept with  his fathers. And they entombed \[him\] with  his fathers in \[the\] city of David. And \[the\] name  of his mother \[was\] Naamah the Ammonitess. And Abijam his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother’s name [was] Naamah an Ammonitess. And Abijam his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And Rehoboam rested with his fathers and was buried with them in the City of David; his mother’s name was Naamah the Ammonite. And his son Abijam reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.30|<< 1 Kings 14:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.1|1 Kings 15:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,10 @@
 (KJV) **2 Kings 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6|<< 2 Kings 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8|2 Kings 8 >>]]</td></tr></table>
 
-***Elisha’s Prophecy of Plenty*** ^bsb902
+<big><big>[[2Kgs.7.1 Elisha’s Prophecy of Plenty|⥃]]</big></big>***Elisha’s Prophecy of Plenty***
 
  $\quad$ <span class="startversemarker">[</span>**[[2Kgs.7.1|1]]**<span class="endversemarker">]</span> Then Elisha said<small><small>[^2]</small></small>, Hear ye the word of the <span class="smallcaps">Lord</span>; Thus saith the <span class="smallcaps">Lord</span>, To morrow<small><small>[^3]</small></small> about this time \[shall\] a measure of fine flour<small><small>[^4]</small></small> \[be sold\] for a shekel, and two measures of barley<small><small>[^5]</small></small> for a shekel, in the gate of Samaria<small><small>[^6]</small></small>. <span class="startversemarker">[</span>**[[2Kgs.7.2|2]]**<span class="endversemarker">]</span> Then a lord<small><small>[^7]</small></small> on whose hand the king leaned answered the man of God, and said, Behold, \[if\] the <span class="smallcaps">Lord<small><small>[^8]</small></small></span> would make windows<small><small>[^9]</small></small> in heaven, might this thing be? And he said, Behold, thou shalt see \[it<small><small>[^10]</small></small>\] with thine eyes, but shalt not eat thereof.
 
-***The Syrians Flee*** ^bsb903
+<big><big>[[2Kgs.7.3 The Syrians Flee|⥃]]</big></big>***The Syrians Flee***
 
  
 
@@ -12,7 +12,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Kgs.7.3|3]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[2Kgs.7.12|12]]**<span class="endversemarker">]</span> And the king arose in the night, and said unto his servants, I will now shew you what the Syrians have done to us. They know that we \[be\] hungry; therefore are they gone out of the camp to hide themselves in the field, saying, When they come out of the city, we shall catch them alive, and get into the city. <span class="startversemarker">[</span>**[[2Kgs.7.13|13]]**<span class="endversemarker">]</span> And one<small><small>[^31]</small></small> of his servants answered and said, Let \[some\] take, I pray thee, five of the horses that remain, which are left in the city<small><small>[^32]</small></small>, (behold, they \[are\] as all the multitude of Israel that are left in it: behold, \[I say\], they \[are\] even<small><small>[^33]</small></small> as all the multitude of the Israelites that are consumed:) and let us send and see. <span class="startversemarker">[</span>**[[2Kgs.7.14|14]]**<span class="endversemarker">]</span> They took therefore two chariot horses; and the king sent after the host of the Syrians, saying, Go and see. <span class="startversemarker">[</span>**[[2Kgs.7.15|15]]**<span class="endversemarker">]</span> And they went after them unto Jordan: and, lo, all the way \[was\] full of garments and vessels<small><small>[^34]</small></small>, which the Syrians had cast away<small><small>[^35]</small></small> in their haste. And the messengers returned, and told the king.
 
-***Elisha’s Prophecy Fulfilled*** ^bsb904
+<big><big>[[2Kgs.7.16 Elisha’s Prophecy Fulfilled|⥃]]</big></big>***Elisha’s Prophecy Fulfilled***
 
  <span class="startversemarker">[</span>**[[2Kgs.7.16|16]]**<span class="endversemarker">]</span> And the people went out, and spoiled the tents<small><small>[^36]</small></small> of the Syrians. So a measure of fine flour was \[sold\] for a shekel, and two measures of barley for a shekel, according to<small><small>[^37]</small></small> the word of the <span class="smallcaps">Lord</span>. 
 

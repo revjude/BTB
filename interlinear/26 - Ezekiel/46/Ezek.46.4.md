@@ -1,4 +1,4 @@
-**Ezekiel 46:4** 
+**Ezekiel 46:4**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the burnt offering that the prince shall offer unto the LORD in the sabbath day [shall be] six lambs without blemish, and a ram without blemish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The burnt offering that the prince presents to the LORD on the Sabbath day shall
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.3|<< Ezekiel 46:3]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.5|Ezekiel 46:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the burnt offering  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ֣]]&#8207;&#8207;[[H5930A\|עֹלָ֔ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ha.<small><sup>[[HTd]]</sup></small> 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

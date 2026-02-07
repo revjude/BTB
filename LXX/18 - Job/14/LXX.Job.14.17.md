@@ -1,10 +1,7 @@
 **LXX Job 14:17** 
 <small><sub>**LXX:**</sub></small>
 And you set a seal upon my  lawless deeds in a bag, and marked if in anything I violated unwillingly. 
-<small><sub>**KJV:**</sub></small>
-My transgression [is] sealed up in a bag, and thou sewest up mine iniquity.
-<small><sub>**BSB:**</sub></small>
-My transgression would be sealed in a bag, and You would cover over my iniquity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.16|<< Job 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.18|Job 14:18 >>]]</td></tr></table>
 
 | Translation | Greek |

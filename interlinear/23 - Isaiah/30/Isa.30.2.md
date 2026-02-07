@@ -1,4 +1,4 @@
-**Isaiah 30:2** 
+**Isaiah 30:2**<big><big>[[Isa.30.1 The Worthless Treaty with Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That walk to go down into Egypt, and have not asked at my mouth; to strengthen themselves in the strength of Pharaoh, and to trust in the shadow of Egypt!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They set out to go down to Egypt without asking My advice, to seek shelter under
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.1|<< Isaiah 30:1]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.3|Isaiah 30:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who go  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1980G\|הֹלְכִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ho.le.Khim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to go down  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3381\|רֶ֣דֶת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Re.det<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Joshua 10:17** 
+**Joshua 10:17**<big><big>[[Josh.10.16 The Victory at Makkedah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was told Joshua, saying, The five kings are found hid in a cave at Makkedah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Joshua was informed: “The five kings have been found; they are hiding in t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.16|<< Joshua 10:16]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.18|Joshua 10:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יֻּגַּ֖ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yu.Gad<small><sup>[[HVHw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Joshua  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H3091G\|יהוֹשֻׁ֣עַ]]&#8207; </big>**| li.<small><sup>[[HR]]</sup></small> ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

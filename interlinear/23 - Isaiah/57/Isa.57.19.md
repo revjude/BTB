@@ -1,4 +1,4 @@
-**Isaiah 57:19** 
+**Isaiah 57:19**<big><big>[[Isa.57.14 Healing for the Repentant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I create the fruit of the lips; Peace, peace to [him that is] far off, and to [him that is] near, saith the LORD; and I will heal him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ bringing praise to their lips. Peace, peace to those far and near,” says the L
 > $\quad$ referenced by: [[Eph.2.17|Eph 2:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [I am] about to create  |**<big>&#8207;[[H1254A\|בּוֹרֵ֖א]]&#8207; </big>**| bo.Re'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] fruit  [^1]|**<big>&#8207;[[H5108B\|נִ֣יב]]&#8207; </big>**[^2] | nuv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

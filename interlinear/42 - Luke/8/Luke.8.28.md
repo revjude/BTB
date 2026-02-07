@@ -1,12 +1,12 @@
-**Luke 8:28
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:28**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, [thou] Son of God most high? I beseech thee, torment me not.
 <small><sub>**BSB:**</sub></small>
 When the man saw Jesus, he cried out and fell down before Him, shouting in a loud voice, “What do You want with me, Jesus, Son of the Most High God? I beg You not to torture me!”
 <small><sub>**Literal:**</sub></small>
 Having seen then <the> Jesus and having cried out he fell down before Him and in a voice loud said; What to me myself and to You, Jesus, Son <the> of God the Most High? I implore of You not me You may torment!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.27|<< Luke 8:27]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.29|Luke 8:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

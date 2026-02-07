@@ -1,10 +1,7 @@
 **LXX Ezra 8:26** 
 <small><sub>**LXX:**</sub></small>
 And I set in their hands silver -- six hundred fifty talents, and vessels made of silver -- a hundred, and talents of gold -- a hundred; 
-<small><sub>**KJV:**</sub></small>
-I even weighed unto their hand six hundred and fifty talents of silver, and silver vessels an hundred talents, [and] of gold an hundred talents;
-<small><sub>**BSB:**</sub></small>
-I weighed out into their hands 650 talents of silver, articles of silver weighing 100 talents, 100 talents of gold,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.25|<< Ezra 8:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.27|Ezra 8:27 >>]]</td></tr></table>
 
 | Translation | Greek |

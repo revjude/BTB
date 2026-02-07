@@ -1,10 +1,7 @@
 **LXX Nehemiah 4:16** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass from  that day, \[that\] half of the ones being arrayed did the work, and half of them resisted \[with\] lances, and shields, and bows, and chest \[plates\]; and the rulers \[were\] behind \[the\] whole house of Judah. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass from that time forth, [that] the half of my servants wrought in the work, and the other half of them held both the spears, the shields, and the bows, and the habergeons; and the rulers [were] behind all the house of Judah.
-<small><sub>**BSB:**</sub></small>
-And from that day on, half of my servants did the work while the other half held spears, shields, bows, and armor. The officers stationed themselves behind all the people of Judah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.15|<< Nehemiah 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.17|Nehemiah 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

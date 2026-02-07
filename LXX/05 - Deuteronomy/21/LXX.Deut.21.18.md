@@ -1,10 +1,7 @@
 **LXX Deuteronomy 21:18** 
 <small><sub>**LXX:**</sub></small>
 And if any might \[have\] a son resisting persuasion, and an irritant, not obeying \[the\] voice of his father, and \[the\] voice of his mother, and they should correct him, and he should not listen to them; 
-<small><sub>**KJV:**</sub></small>
-If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and [that], when they have chastened him, will not hearken unto them:
-<small><sub>**BSB:**</sub></small>
-If a man has a stubborn and rebellious son who does not obey his father and mother and does not listen to them when disciplined,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.21.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.17|<< Deuteronomy 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.21.19|Deuteronomy 21:19 >>]]</td></tr></table>
 
 | Translation | Greek |

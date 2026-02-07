@@ -1,4 +1,4 @@
-**Isaiah 19:8** 
+**Isaiah 19:8**<big><big>[[Isa.19.1 The Burden against Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fishers also shall mourn, and all they that cast angle into the brooks shall lament, and they that spread nets upon the waters shall languish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the fishermen will mourn, all who cast a hook into the Nile will lament, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.7|<< Isaiah 19:7]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.9|Isaiah 19:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will lament  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0578\|אָנוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Nu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the fishermen  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1771\|דַּיָּגִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> dai.ya.Gim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

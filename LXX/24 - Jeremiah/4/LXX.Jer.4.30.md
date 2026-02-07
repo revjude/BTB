@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:30** 
 <small><sub>**LXX:**</sub></small>
 And you, what shall you do? If you should put on scarlet, and should be adorned with an ornament of gold; and if you should rub antimony \[on\]  your eyes, your finery \[is\] in vain; your lovers thrusted you away,  they seek your life. 
-<small><sub>**KJV:**</sub></small>
-And [when] thou [art] spoiled, what wilt thou do? Though thou clothest thyself with crimson, though thou deckest thee with ornaments of gold, though thou rentest thy face with painting, in vain shalt thou make thyself fair; [thy] lovers will despise thee, they will seek thy life.
-<small><sub>**BSB:**</sub></small>
-And you, O devastated one, what will you do, though you dress yourself in scarlet, though you adorn yourself with gold jewelry, though you enlarge your eyes with paint? You adorn yourself in vain; your lovers despise you; they want to take your life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.29|<< Jeremiah 4:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.31|Jeremiah 4:31 >>]]</td></tr></table>
 
 | Translation | Greek |

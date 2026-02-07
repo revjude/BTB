@@ -1,4 +1,4 @@
-**Exodus 11:6** 
+**Exodus 11:6**<big><big>[[Exod.11.1 The Plague on the Firstborn Foretold|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall be a great cry throughout all the land of Egypt, such as there was none like it, nor shall be like it any more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then a great cry will go out over all the land of Egypt. Such an outcry has neve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.11.5|<< Exodus 11:5]]</td><td align="center" style="border:none;">[[Exod.11|Exodus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.11.7|Exodus 11:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָֽיְתָ֛ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a cry  |**<big>&#8207;[[H6818\|צְעָקָ֥ה]]&#8207; </big>**| tze.'a.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

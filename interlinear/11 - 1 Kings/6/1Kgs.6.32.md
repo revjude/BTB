@@ -1,4 +1,4 @@
-**1 Kings 6:32** 
+**1 Kings 6:32**<big><big>[[1Kgs.6.31 The Doors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The two doors also [were of] olive tree; and he carved upon them carvings of cherubims and palm trees and open flowers, and overlaid [them] with gold, and spread gold upon the cherubims, and upon the palm trees.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The double doors were made of olive wood, and he carved into them cherubim, palm
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.31|<< 1 Kings 6:31]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.33|1 Kings 6:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and two  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8147\|שְׁתֵּי֮]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | doors of  |**<big>&#8207;[[H1817C\|דַּלְת֣וֹת]]&#8207; </big>**| dal.Tot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**John 2:17
-**<small><sub>**KJV:**</sub></small>
+**John 2:17**<big><big>[[John.2.12 Jesus Cleanses the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his disciples remembered that it was written, The zeal of thine house hath eaten me up.
 <small><sub>**BSB:**</sub></small>
 His disciples remembered that it is written: “Zeal for Your house will consume Me.”
@@ -10,7 +10,7 @@ Remembered now the disciples of Him that written it is: The zeal of the house of
 > $\quad$ referencing: [[LXX.Ps.69.9|Ps 69:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Remembered |**<big>[[G3403\|ἐμνήσθησαν]]</big>**  |emnēsthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

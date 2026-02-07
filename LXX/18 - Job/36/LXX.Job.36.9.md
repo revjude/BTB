@@ -1,10 +1,7 @@
 **LXX Job 36:9** 
 <small><sub>**LXX:**</sub></small>
 And he shall announce to them  their works, and  their transgressions, for they are prevalent. 
-<small><sub>**KJV:**</sub></small>
-Then he sheweth them their work, and their transgressions that they have exceeded.
-<small><sub>**BSB:**</sub></small>
-then He tells them their deeds and how arrogantly they have transgressed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.8|<< Job 36:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.10|Job 36:10 >>]]</td></tr></table>
 
 | Translation | Greek |

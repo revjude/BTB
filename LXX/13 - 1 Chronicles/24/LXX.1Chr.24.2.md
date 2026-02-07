@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 24:2** 
 <small><sub>**LXX:**</sub></small>
 And Nadab and Abihu died before  their father, and there were no sons to them. And Eleazar and Ithamar \[the\] sons of Aaron officiated as priest. 
-<small><sub>**KJV:**</sub></small>
-But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest’s office.
-<small><sub>**BSB:**</sub></small>
-But Nadab and Abihu died before their father did, and they had no sons; so Eleazar and Ithamar served as priests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.1|<< 1 Chronicles 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.3|1 Chronicles 24:3 >>]]</td></tr></table>
 
 | Translation | Greek |

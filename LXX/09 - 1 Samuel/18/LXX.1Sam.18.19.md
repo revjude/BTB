@@ -1,10 +1,7 @@
 **LXX 1 Samuel 18:19** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the time of the giving  Merab daughter of Saul \[to\] David, that he gave her to Adriel the Meholathite for a wife. 
-<small><sub>**KJV:**</sub></small>
-But it came to pass at the time when Merab Saul’s daughter should have been given to David, that she was given unto Adriel the Meholathite to wife.
-<small><sub>**BSB:**</sub></small>
-So when it was time to give Saul’s daughter Merab to David, she was given in marriage to Adriel of Meholah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.18.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.18.18|<< 1 Samuel 18:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.18.20|1 Samuel 18:20 >>]]</td></tr></table>
 
 | Translation | Greek |

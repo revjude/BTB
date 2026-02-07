@@ -1,10 +1,7 @@
 **LXX Genesis 24:25** 
 <small><sub>**LXX:**</sub></small>
 And she said to him, Also \[there is\] much straw and fodder by us, and a place  to rest up. 
-<small><sub>**KJV:**</sub></small>
-She said moreover unto him, We have both straw and provender enough, and room to lodge in.
-<small><sub>**BSB:**</sub></small>
-Then she added, “We have plenty of straw and feed, as well as a place for you to spend the night.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.24|<< Genesis 24:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.26|Genesis 24:26 >>]]</td></tr></table>
 
 | Translation | Greek |

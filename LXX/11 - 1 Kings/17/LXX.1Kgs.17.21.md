@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:21** 
 <small><sub>**LXX:**</sub></small>
 And he breathed into the boy three times, and he called upon the <span class="smallcaps">lord</span>, and he said, O <span class="smallcaps">lord</span>  my God, return indeed the life  of this boy to \[him\]! 
-<small><sub>**KJV:**</sub></small>
-And he stretched himself upon the child three times, and cried unto the LORD, and said, O LORD my God, I pray thee, let this child’s soul come into him again.
-<small><sub>**BSB:**</sub></small>
-Then he stretched himself out over the child three times and cried out to the LORD, “O LORD my God, please let this boy’s life return to him!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.20|<< 1 Kings 17:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.22|1 Kings 17:22 >>]]</td></tr></table>
 
 | Translation | Greek |

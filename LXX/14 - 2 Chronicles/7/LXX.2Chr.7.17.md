@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 7:17** 
 <small><sub>**LXX:**</sub></small>
 And if you should go before me as David your father went, and should do according to all what I gave charge to you, and  keep my orders and my judgments; 
-<small><sub>**KJV:**</sub></small>
-And as for thee, if thou wilt walk before me, as David thy father walked, and do according to all that I have commanded thee, and shalt observe my statutes and my judgments;
-<small><sub>**BSB:**</sub></small>
-And as for you, if you walk before Me as your father David walked, doing all I have commanded you, and if you keep My statutes and ordinances,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.16|<< 2 Chronicles 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.18|2 Chronicles 7:18 >>]]</td></tr></table>
 
 | Translation | Greek |

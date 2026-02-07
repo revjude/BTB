@@ -1,12 +1,12 @@
-**Romans 9:5
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:5**<big><big>[[Rom.9.1 Paul’s Concern for the Jews|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whose [are] the fathers, and of whom as concerning the flesh Christ [came], who is over all, God blessed for ever. Amen.
 <small><sub>**BSB:**</sub></small>
 Theirs are the patriarchs, and from them proceeds the human descent of Christ, who is God over all, forever worthy of praise! Amen.
 <small><sub>**Literal:**</sub></small>
 whose [are] the patriarchs and from whom [is] <the> Christ <the> according to the flesh, who is being over all God blessed to the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.4|<< Romans 9:4]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.6|Romans 9:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whose [are] |**<big>[[G3739\|ὧν]]</big>**  |hōn <small><sup>[[R-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

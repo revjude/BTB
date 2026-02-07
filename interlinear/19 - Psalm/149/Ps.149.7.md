@@ -1,4 +1,4 @@
-**Psalms 149:7** 
+**Psalms 149:7**<big><big>[[Ps.149.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To execute vengeance upon the heathen, [and] punishments upon the people;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to inflict vengeance on the nations and punishment on the peoples,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.149.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.149.6|<< Psalms 149:6]]</td><td align="center" style="border:none;">[[Ps.149|Psalms 149]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.149.8|Psalms 149:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to execute  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשׂ֣וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | vengeance  |**<big>&#8207;[[H5360\|נְ֭קָמָה]]&#8207; </big>**| Ne.ka.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

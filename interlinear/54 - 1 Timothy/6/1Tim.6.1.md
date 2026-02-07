@@ -1,12 +1,12 @@
-**1 Timothy 6:1
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:1**<big><big>[[1Tim.6.1 Serving with Honor|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and [his] doctrine be not blasphemed.
 <small><sub>**BSB:**</sub></small>
 All who are under the yoke of slavery should regard their masters as fully worthy of honor, so that God’s name and our teaching will not be discredited.
 <small><sub>**Literal:**</sub></small>
 As many as are under a yoke [as] slaves, <the> [their] own masters of all honor worthy they should esteem, so that not the name <the> of God and the teaching may be denigrated.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.25|<< 1 Timothy 5:25]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.2|1 Timothy 6:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As many as |**<big>[[G3745\|Ὅσοι]]</big>**  |Hosoi <small><sup>[[K-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are |**<big>[[G1510\|εἰσὶν]]</big>**  |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

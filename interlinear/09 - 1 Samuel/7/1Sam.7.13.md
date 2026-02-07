@@ -1,4 +1,4 @@
-**1 Samuel 7:13** 
+**1 Samuel 7:13**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the LORD was against the Philistines all the days of Samuel.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So the Philistines were subdued, and they stopped invading the territory of Isra
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were subdued  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3665\|יִּכָּֽנְעוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.ne.'U<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Philistines  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6430G\|פְּלִשְׁתִּ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

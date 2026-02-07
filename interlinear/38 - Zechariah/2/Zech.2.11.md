@@ -1,4 +1,4 @@
-**Zechariah 2:11** (2:15)
+**Zechariah 2:11**<big><big>[[Zech.2.6 The Redemption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And many nations shall be joined to the LORD in that day, and shall be my people: and I will dwell in the midst of thee, and thou shalt know that the LORD of hosts hath sent me unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And many nations shall be joined to the LORD in that day, and shall be my people
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.10|<< Zechariah 2:10]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.12|Zechariah 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will join themselves  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3867A\|נִלְווּ֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nil.Vu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nations  |**<big>&#8207;[[H1471A\|גוֹיִ֨ם]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

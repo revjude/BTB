@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:8** 
 <small><sub>**LXX:**</sub></small>
 And he abandoned the counsel of the elders which they advised him, and he took up advice with the young men  being brought up with him, of the ones standing before his face. 
-<small><sub>**KJV:**</sub></small>
-But he forsook the counsel of the old men, which they had given him, and consulted with the young men that were grown up with him, [and] which stood before him:
-<small><sub>**BSB:**</sub></small>
-But Rehoboam rejected the advice of the elders; instead, he consulted the young men who had grown up with him and served him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.7|<< 1 Kings 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.9|1 Kings 12:9 >>]]</td></tr></table>
 
 | Translation | Greek |

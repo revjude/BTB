@@ -1,10 +1,7 @@
 **LXX Micah 1:16** 
 <small><sub>**LXX:**</sub></small>
 Shave and shear for  your delightful children, widening  your shaving as an eagle, for they were taken captive from you. 
-<small><sub>**KJV:**</sub></small>
-Make thee bald, and poll thee for thy delicate children; enlarge thy baldness as the eagle; for they are gone into captivity from thee.
-<small><sub>**BSB:**</sub></small>
-Shave yourselves bald and cut off your hair in mourning for your precious children; make yourselves as bald as an eagle, for they will go from you into exile.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.15|<< Micah 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.1|Micah 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

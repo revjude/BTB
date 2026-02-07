@@ -1,10 +1,7 @@
 **LXX Ezekiel 28:25** 
 <small><sub>**LXX:**</sub></small>
 Thus says Adonai \[the\] <span class="smallcaps">lord</span>; And I will gather the house of Israel from out of the nations of which they were dispersed there. And I will be sanctified among them before the peoples, and the nations. And they shall dwell upon  their land which I gave \[to\] my servant Jacob. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; When I shall have gathered the house of Israel from the people among whom they are scattered, and shall be sanctified in them in the sight of the heathen, then shall they dwell in their land that I have given to my servant Jacob.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: ‘When I gather the house of Israel from the peoples among whom they have been scattered, I will show Myself holy among them in the sight of the nations. Then they will dwell in their own land, which I have given to My servant Jacob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.28.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.24|<< Ezekiel 28:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.26|Ezekiel 28:26 >>]]</td></tr></table>
 
 | Translation | Greek |

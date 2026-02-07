@@ -1,12 +1,12 @@
-**Mark 1:45
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:45**<big><big>[[Mark.1.40 The Leper’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he went out, and began to publish [it] much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter.
 <small><sub>**BSB:**</sub></small>
 But the man went out and openly began to proclaim and spread the news. Consequently, Jesus could no longer enter a town in plain view, but He stayed out in solitary places. Yet people came to Him from every quarter.
 <small><sub>**Literal:**</sub></small>
 <the> And having gone out he began to proclaim much and to spread abroad the matter so that no longer He to be able openly into [the] city to enter, but out in solitary places He was. and they were coming to Him from every side.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.44|<< Mark 1:44]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.1|Mark 2:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

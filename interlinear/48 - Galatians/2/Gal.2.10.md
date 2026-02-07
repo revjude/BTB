@@ -1,12 +1,12 @@
-**Galatians 2:10
-**<small><sub>**KJV:**</sub></small>
+**Galatians 2:10**<big><big>[[Gal.2.1 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Only [they would] that we should remember the poor; the same which I also was forward to do.
 <small><sub>**BSB:**</sub></small>
 They only asked us to remember the poor, the very thing I was eager to do.
 <small><sub>**Literal:**</sub></small>
 Only [they asked] the poor that we may remember; that also I was eager [the] same thing to do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.9|<< Galatians 2:9]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.11|Galatians 2:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Only [they asked] |**<big>[[G3441\|μόνον]]</big>**  |monon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῶν]]</big>**  |tōn <small><sup>[[T-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

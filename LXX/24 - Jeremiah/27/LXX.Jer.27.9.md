@@ -1,10 +1,7 @@
 **LXX Jeremiah 27:9** 
 <small><sub>**LXX:**</sub></small>
 And you, hearken not to  your false prophets! and of the ones using oracles for you, and of the ones dreaming to you, and of the ones of your omens, and of the ones of your administers of potions, saying, In no way should you work for the king of Babylon. 
-<small><sub>**KJV:**</sub></small>
-Therefore hearken not ye to your prophets, nor to your diviners, nor to your dreamers, nor to your enchanters, nor to your sorcerers, which speak unto you, saying, Ye shall not serve the king of Babylon:
-<small><sub>**BSB:**</sub></small>
-But as for you, do not listen to your prophets, your diviners, your interpreters of dreams, your mediums, or your sorcerers who declare, ‘You will not serve the king of Babylon.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.27.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.8|<< Jeremiah 27:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.10|Jeremiah 27:10 >>]]</td></tr></table>
 
 | Translation | Greek |

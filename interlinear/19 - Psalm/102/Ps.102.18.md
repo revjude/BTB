@@ -1,4 +1,4 @@
-**Psalms 102:18** (102:19)
+**Psalms 102:18**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This shall be written for the generation to come: and the people which shall be created shall praise the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let this be written for the generation to come, so that a people not yet created
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.17|<< Psalms 102:17]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.19|Psalms 102:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let it be written  |**<big>&#8207;[[H3789\|תִּכָּ֣תֶב]]&#8207; </big>**| ti.Ka.tev<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2063\|זֹ֭את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

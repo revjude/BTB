@@ -1,4 +1,4 @@
-**Job 12:4** 
+**Job 12:4**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am [as] one mocked of his neighbour, who calleth upon God, and he answereth him: the just upright [man is] laughed to scorn.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am a laughingstock to my friends, though I called on God, and He answered. The
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.3|<< Job 12:3]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.5|Job 12:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a laughingstock  |**<big>&#8207;[[H7814\|שְׂחֹ֤ק]]&#8207; </big>**| se.Chok<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to friend his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7453\|רֵעֵ֨]]&#8207;&#8207;[[H9023\|הוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

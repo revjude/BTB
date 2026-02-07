@@ -1,12 +1,12 @@
-**Hebrews 7:10
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:10**<big><big>[[Heb.7.1 Melchizedek and Abraham|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he was yet in the loins of his father, when Melchisedec met him.
 <small><sub>**BSB:**</sub></small>
 For when Melchizedek met Abraham, Levi was still in the loin of his ancestor.
 <small><sub>**Literal:**</sub></small>
 Still for in the loin <the> of [his] father he was when he met with him <the> Melchizedek.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.9|<< Hebrews 7:9]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.11|Hebrews 7:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Still |**<big>[[G2089\|ἔτι]]</big>**  |eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

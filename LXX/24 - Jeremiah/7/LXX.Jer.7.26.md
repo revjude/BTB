@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:26** 
 <small><sub>**LXX:**</sub></small>
 And they did not listen to me, and their ear did not take heed, and they hardened  their neck above  their fathers. 
-<small><sub>**KJV:**</sub></small>
-Yet they hearkened not unto me, nor inclined their ear, but hardened their neck: they did worse than their fathers.
-<small><sub>**BSB:**</sub></small>
-Yet they would not listen to Me or incline their ear, but they stiffened their necks and did more evil than their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.25|<< Jeremiah 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.27|Jeremiah 7:27 >>]]</td></tr></table>
 
 | Translation | Greek |

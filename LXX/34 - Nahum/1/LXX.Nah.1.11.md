@@ -1,10 +1,7 @@
 **LXX Nahum 1:11** 
 <small><sub>**LXX:**</sub></small>
 From out of you shall come forth a device against the <span class="smallcaps">lord</span>, planning wicked \[things\] adverse \[to him\]. 
-<small><sub>**KJV:**</sub></small>
-There is [one] come out of thee, that imagineth evil against the LORD, a wicked counseller.
-<small><sub>**BSB:**</sub></small>
-From you, O Nineveh, comes forth a plotter of evil against the LORD, a counselor of wickedness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.10|<< Nahum 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.12|Nahum 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

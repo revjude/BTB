@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 6:10** 
 <small><sub>**LXX:**</sub></small>
 If anything became, already its name has been called; and it is known what man is, and he is not able to judge against the one stronger than he. 
-<small><sub>**KJV:**</sub></small>
-That which hath been is named already, and it is known that it [is] man: neither may he contend with him that is mightier than he.
-<small><sub>**BSB:**</sub></small>
-Whatever exists was named long ago, and it is known what man is; but he cannot contend with one stronger than he.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.9|<< Ecclesiastes 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.11|Ecclesiastes 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 33:39** 
+**Numbers 33:39**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron [was] an hundred and twenty and three years old when he died in mount Hor.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Aaron was 123 years old when he died on Mount Hor.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.38|<< Numbers 33:38]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.40|Numbers 33:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Aaron  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0175\|אַהֲרֹ֔ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] a son of  |**<big>&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

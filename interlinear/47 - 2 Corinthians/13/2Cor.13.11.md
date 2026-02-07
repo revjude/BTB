@@ -1,12 +1,12 @@
-**2 Corinthians 13:11
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 13:11**<big><big>[[2Cor.13.11 Benediction and Farewell|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.
 <small><sub>**BSB:**</sub></small>
 Finally, brothers, rejoice! Aim for perfect harmony, encourage one another, be of one mind, live in peace. And the God of love and peace will be with you.
 <small><sub>**Literal:**</sub></small>
 Finally, brothers, do rejoice do be perfected, do be encouraged, the same do think, do be at peace, And the God <the> of love and peace will be with you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.10|<< 2 Corinthians 13:10]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.12|2 Corinthians 13:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Finally, |**<big>[[G3063\|Λοιπόν,]]</big>**  |Loipon <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | brothers, |**<big>[[G0080\|ἀδελφοί,]]</big>**  |adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

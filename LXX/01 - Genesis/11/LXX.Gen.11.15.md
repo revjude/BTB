@@ -1,10 +1,7 @@
 **LXX Genesis 11:15** 
 <small><sub>**LXX:**</sub></small>
 And Salah lived after  his procreating  Eber, three hundred thirty years, and he procreated sons and daughters, and he died. 
-<small><sub>**KJV:**</sub></small>
-And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters.
-<small><sub>**BSB:**</sub></small>
-And after he had become the father of Eber, Shelah lived 403 years and had other sons and daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.14|<< Genesis 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.16|Genesis 11:16 >>]]</td></tr></table>
 
 | Translation | Greek |

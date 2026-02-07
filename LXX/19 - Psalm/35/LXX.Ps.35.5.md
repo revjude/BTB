@@ -1,10 +1,7 @@
 **LXX Psalm 35:5** 
 <small><sub>**LXX:**</sub></small>
 Let them become as dust according to \[the\] face of \[the\] wind! and an angel of \[the\] <span class="smallcaps">lord</span> squeezing them. 
-<small><sub>**KJV:**</sub></small>
-Let them be as chaff before the wind: and let the angel of the LORD chase [them].
-<small><sub>**BSB:**</sub></small>
-May they be like chaff in the wind, as the angel of the LORD drives them away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.35.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.4|<< Psalm 35:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.6|Psalm 35:6 >>]]</td></tr></table>
 
 | Translation | Greek |

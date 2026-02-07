@@ -1,12 +1,12 @@
-**Matthew 6:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:19**<big><big>[[Matt.6.19 Treasures in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:
 <small><sub>**BSB:**</sub></small>
 Do not store up for yourselves treasures on earth, where moth and rust destroy, and where thieves break in and steal.
 <small><sub>**Literal:**</sub></small>
 Not do store up for yourselves treasures upon the earth, where moth and rust destroy and where thieves break in and steal;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.18|<< Matthew 6:18]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.20|Matthew 6:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|Μὴ]]</big>**  |Mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do store up |**<big>[[G2343\|θησαυρίζετε]]</big>**  |thēsaurizete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

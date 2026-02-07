@@ -1,4 +1,4 @@
-**Ezekiel 20:1** 
+**Ezekiel 20:1**<big><big>[[Ezek.20.1 Israel’s Rebellion in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the seventh year, in the fifth [month], the tenth [day] of the month, [that] certain of the elders of Israel came to inquire of the LORD, and sat before me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the seventh year, on the tenth day of the fifth month, some of the elders of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.14|<< Ezekiel 19:14]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.2|Ezekiel 20:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the year  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8141\|שָּׁנָ֣ה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

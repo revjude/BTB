@@ -1,10 +1,7 @@
 **LXX Exodus 40:27** 
 <small><sub>**LXX:**</sub></small>
 And he burned incense upon it, the incense of the composition, just as \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And he burnt sweet incense thereon; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-and he burned fragrant incense on it, just as the LORD had commanded him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.26|<< Exodus 40:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.28|Exodus 40:28 >>]]</td></tr></table>
 
 | Translation | Greek |

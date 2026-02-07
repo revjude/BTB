@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:30** 
 <small><sub>**LXX:**</sub></small>
 And Saul said, I have sinned, but glorify me before the elders  of my people, and before  Israel, and return with me! and I will do obeisance to \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Then he said, I have sinned: [yet] honour me now, I pray thee, before the elders of my people, and before Israel, and turn again with me, that I may worship the LORD thy God.
-<small><sub>**BSB:**</sub></small>
-“I have sinned,” Saul replied. “Please honor me now before the elders of my people and before Israel. Come back with me, so that I may worship the LORD your God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.29|<< 1 Samuel 15:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.31|1 Samuel 15:31 >>]]</td></tr></table>
 
 | Translation | Greek |

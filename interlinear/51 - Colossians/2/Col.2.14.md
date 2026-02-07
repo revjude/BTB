@@ -1,12 +1,12 @@
-**Colossians 2:14
-**<small><sub>**KJV:**</sub></small>
+**Colossians 2:14**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;
 <small><sub>**BSB:**</sub></small>
 having canceled the debt ascribed to us in the decrees that stood against us. He took it away, nailing it to the cross!
 <small><sub>**Literal:**</sub></small>
 having blotted out the against us handwriting in the decrees which was adverse to us, and it He has taken out of the way having nailed it to the cross;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.13|<< Colossians 2:13]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.15|Colossians 2:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having blotted out |**<big>[[G1813\|ἐξαλείψας]]</big>**  |exaleipsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

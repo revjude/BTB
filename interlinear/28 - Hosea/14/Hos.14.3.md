@@ -1,4 +1,4 @@
-**Hosea 14:3** (14:4)
+**Hosea 14:3**<big><big>[[Hos.14.1 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, [Ye are] our gods: for in thee the fatherless findeth mercy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Assyria will not save us, nor will we ride on horses. We will never again say, �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.2|<< Hosea 14:2]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.4|Hosea 14:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Assyria  |**<big>&#8207;[[H0804G\|אַשּׁ֣וּר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

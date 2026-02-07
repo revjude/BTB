@@ -1,10 +1,7 @@
 **LXX 2 Samuel 6:21** 
 <small><sub>**LXX:**</sub></small>
 And David said to Michal, In the presence of \[the\] <span class="smallcaps">lord</span> I will dance, who chose me over  your father, and over all  his house,  to place me in \[the\] lead over  his people  Israel; and I shall play and dance in the presence of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And David said unto Michal, [It was] before the LORD, which chose me before thy father, and before all his house, to appoint me ruler over the people of the LORD, over Israel: therefore will I play before the LORD.
-<small><sub>**BSB:**</sub></small>
-But David said to Michal, “I was dancing before the LORD, who chose me over your father and all his house when He appointed me ruler over the LORD’s people Israel. I will celebrate before the LORD,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.20|<< 2 Samuel 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.22|2 Samuel 6:22 >>]]</td></tr></table>
 
 | Translation | Greek |

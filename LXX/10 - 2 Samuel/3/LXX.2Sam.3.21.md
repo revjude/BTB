@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:21** 
 <small><sub>**LXX:**</sub></small>
 And Abner said to David, I will arise indeed and go, and gather together to  my master the king all Israel; and I will ordain with you a covenant, and you shall reign over all whom your soul desires. And David sent away  Abner, and he went in peace. 
-<small><sub>**KJV:**</sub></small>
-And Abner said unto David, I will arise and go, and will gather all Israel unto my lord the king, that they may make a league with thee, and that thou mayest reign over all that thine heart desireth. And David sent Abner away; and he went in peace.
-<small><sub>**BSB:**</sub></small>
-Then Abner said to David, “Let me go at once, and I will gather all Israel to my lord the king, that they may make a covenant with you, and that you may rule over all that your heart desires.” So David dismissed Abner, and he went in peace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.20|<< 2 Samuel 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.22|2 Samuel 3:22 >>]]</td></tr></table>
 
 | Translation | Greek |

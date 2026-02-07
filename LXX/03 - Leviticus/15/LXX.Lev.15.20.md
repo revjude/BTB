@@ -1,10 +1,7 @@
 **LXX Leviticus 15:20** 
 <small><sub>**LXX:**</sub></small>
 And everything upon what ever she should lay \[herself\] upon it, in  her menstruation, it will be unclean; and everything upon what ever she should sit \[herself\] upon it, it will be unclean. 
-<small><sub>**KJV:**</sub></small>
-And every thing that she lieth upon in her separation shall be unclean: every thing also that she sitteth upon shall be unclean.
-<small><sub>**BSB:**</sub></small>
-Anything on which she lies or sits during her menstruation will be unclean,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.19|<< Leviticus 15:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.21|Leviticus 15:21 >>]]</td></tr></table>
 
 | Translation | Greek |

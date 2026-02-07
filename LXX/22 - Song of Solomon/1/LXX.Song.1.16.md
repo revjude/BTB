@@ -1,10 +1,7 @@
 **LXX Song of Solomon 1:16** 
 <small><sub>**LXX:**</sub></small>
 Behold, you are fair, my beloved \[man\]; and indeed beautiful to our shady bed. 
-<small><sub>**KJV:**</sub></small>
-Behold, thou [art] fair, my beloved, yea, pleasant: also our bed [is] green.
-<small><sub>**BSB:**</sub></small>
-How handsome you are, my beloved! Oh, how delightful! The soft grass is our bed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.15|<< Song of Solomon 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.17|Song of Solomon 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

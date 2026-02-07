@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:8** 
 <small><sub>**LXX:**</sub></small>
 All the \[things\] shining light in the heaven shall darken over you, and I will appoint darkness over  your land, says \[the\] Lord \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-All the bright lights of heaven will I make dark over thee, and set darkness upon thy land, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-All the shining lights in the heavens I will darken over you, and I will bring darkness upon your land,’ declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.7|<< Ezekiel 32:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.9|Ezekiel 32:9 >>]]</td></tr></table>
 
 | Translation | Greek |

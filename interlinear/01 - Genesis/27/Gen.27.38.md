@@ -1,4 +1,4 @@
-**Genesis 27:38** 
+**Genesis 27:38**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Esau said unto his father, Hast thou but one blessing, my father? bless me, [even] me also, O my father. And Esau lifted up his voice, and wept.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Esau said to his father, “Do you have only one blessing, my father? Bless me t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.37|<< Genesis 27:37]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.39|Genesis 27:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Esau  |**<big>&#8207;[[H6215G\|עֵשָׂ֜ו]]&#8207; </big>**| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

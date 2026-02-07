@@ -1,10 +1,7 @@
 **LXX Isaiah 13:9** 
 <small><sub>**LXX:**</sub></small>
 For behold \[the\] day of \[the\] <span class="smallcaps">lord</span> comes; incurable rage and anger to make the world desolate, and to destroy the sinners from out of it. 
-<small><sub>**KJV:**</sub></small>
-Behold, the day of the LORD cometh, cruel both with wrath and fierce anger, to lay the land desolate: and he shall destroy the sinners thereof out of it.
-<small><sub>**BSB:**</sub></small>
-Behold, the Day of the LORD is coming—cruel, with fury and burning anger—to make the earth a desolation and to destroy the sinners within it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.8|<< Isaiah 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.10|Isaiah 13:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 13:9** is...

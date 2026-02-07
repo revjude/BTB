@@ -1,4 +1,4 @@
-**Proverbs 25:8** 
+**Proverbs 25:8**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go not forth hastily to strive, lest [thou know not] what to do in the end thereof, when thy neighbour hath put thee to shame.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ do not bring hastily to court. Otherwise, what will you do in the end when your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.7|<< Proverbs 25:7]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.9|Proverbs 25:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you go forth  |**<big>&#8207;[[H3318H\|תֵּצֵ֥א]]&#8207; </big>**| te.Tze'<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

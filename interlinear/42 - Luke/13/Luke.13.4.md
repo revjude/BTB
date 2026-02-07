@@ -1,12 +1,12 @@
-**Luke 13:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:4**<big><big>[[Luke.13.1 A Call to Repentance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Or those eighteen, upon whom the tower in Siloam fell, and slew them, think ye that they were sinners above all men that dwelt in Jerusalem?
 <small><sub>**BSB:**</sub></small>
 Or those eighteen who were killed when the tower of Siloam collapsed on them: Do you think that they were more sinful than all the others living in Jerusalem?
 <small><sub>**Literal:**</sub></small>
 Or those <the> eighteen on whom fell the tower in <the> Siloam and killed them, think you that these debtors were beyond all the men who are dwelling in in Jerusalem?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.3|<< Luke 13:3]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.5|Luke 13:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|Ἢ]]</big>**  |Ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those |**<big>[[G1565\|ἐκεῖνοι]]</big>**  |ekeinoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

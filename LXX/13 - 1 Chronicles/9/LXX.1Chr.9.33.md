@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:33** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] \[the\] psalm singers, rulers of the families of the Levites, in the cubicle being set in order for daily rotations, for day and night, for them to \[do\] the works. 
-<small><sub>**KJV:**</sub></small>
-And these [are] the singers, chief of the fathers of the Levites, [who remaining] in the chambers [were] free: for they were employed in [that] work day and night.
-<small><sub>**BSB:**</sub></small>
-Those who were musicians, the heads of Levite families, stayed in the temple chambers and were exempt from other duties because they were on duty day and night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.32|<< 1 Chronicles 9:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.34|1 Chronicles 9:34 >>]]</td></tr></table>
 
 | Translation | Greek |

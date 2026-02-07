@@ -1,10 +1,7 @@
 **LXX Ezekiel 42:12** 
 <small><sub>**LXX:**</sub></small>
 of the inner chambers of the ones towards \[the\] south; according to the doorways at \[the\] beginning of the promenade upon a light interval of a reed according to \[the\] east of the entering them. 
-<small><sub>**KJV:**</sub></small>
-And according to the doors of the chambers that [were] toward the south [was] a door in the head of the way, [even] the way directly before the wall toward the east, as one entereth into them.
-<small><sub>**BSB:**</sub></small>
-And corresponding to the doors of the chambers that were facing south, there was a door in front of the walkway that was parallel to the wall extending eastward.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.11|<< Ezekiel 42:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.13|Ezekiel 42:13 >>]]</td></tr></table>
 
 | Translation | Greek |

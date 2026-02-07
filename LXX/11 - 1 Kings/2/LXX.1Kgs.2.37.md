@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:37** 
 <small><sub>**LXX:**</sub></small>
 And it will be in the day that you exit, and pass over the rushing stream  Kidron, in knowing, know that to death you shall die,  your blood will be upon  your head. 
-<small><sub>**KJV:**</sub></small>
-For it shall be, [that] on the day thou goest out, and passest over the brook Kidron, thou shalt know for certain that thou shalt surely die: thy blood shall be upon thine own head.
-<small><sub>**BSB:**</sub></small>
-On the day you go out and cross the Kidron Valley, know for sure that you will die; your blood will be on your own head.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.36|<< 1 Kings 2:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.38|1 Kings 2:38 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Lamentations 3:63** 
+**Lamentations 3:63**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold their sitting down, and their rising up; I [am] their musick.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they sit and when they rise, see how they mock me in song.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.63|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.62|<< Lamentations 3:62]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.64|Lamentations 3:64 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sitting their  |**<big>&#8207;[[H7675\|שִׁבְתָּ֤]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| shiv.Ta<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and rising their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7012\|קִֽימָתָ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ki.ma.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

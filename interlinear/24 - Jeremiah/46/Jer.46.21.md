@@ -1,4 +1,4 @@
-**Jeremiah 46:21** 
+**Jeremiah 46:21**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also her hired men [are] in the midst of her like fatted bullocks; for they also are turned back, [and] are fled away together: they did not stand, because the day of their calamity was come upon them, [and] the time of their visitation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even the mercenaries among her are like fattened calves. They too will turn back
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.20|<< Jeremiah 46:20]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.22|Jeremiah 46:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hired soldiers its  |**<big>&#8207;[[H7916\|שְׂכִרֶ֤י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| se.khi.Rei.<small><sup>[[HAampc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

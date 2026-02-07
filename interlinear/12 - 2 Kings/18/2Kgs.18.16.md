@@ -1,4 +1,4 @@
-**2 Kings 18:16** 
+**2 Kings 18:16**<big><big>[[2Kgs.18.13 Sennacherib Invades Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At that time did Hezekiah cut off [the gold from] the doors of the temple of the LORD, and [from] the pillars which Hezekiah king of Judah had overlaid, and gave it to the king of Assyria.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time Hezekiah stripped the gold with which he had plated the doors and d
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.15|<< 2 Kings 18:15]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.17|2 Kings 18:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | at the time  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H6256\|עֵ֣ת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|הִ֗יא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

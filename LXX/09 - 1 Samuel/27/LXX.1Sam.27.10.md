@@ -1,10 +1,7 @@
 **LXX 1 Samuel 27:10** 
 <small><sub>**LXX:**</sub></small>
 And Achish said to David, Upon whom did you attack today? And David said to Achish, To \[the\] south  in Judea, and to \[the\] south of Jerahmeel, and to \[the\] south of the Kenite. 
-<small><sub>**KJV:**</sub></small>
-And Achish said, Whither have ye made a road to day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites.
-<small><sub>**BSB:**</sub></small>
-who would ask him, “What have you raided today?” And David would reply, “The Negev of Judah,” or “The Negev of Jerahmeel,” or “The Negev of the Kenites.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.27.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.9|<< 1 Samuel 27:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.11|1 Samuel 27:11 >>]]</td></tr></table>
 
 | Translation | Greek |

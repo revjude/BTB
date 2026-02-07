@@ -1,4 +1,4 @@
-**Job 38:25** 
+**Job 38:25**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who cuts a channel for the flood or clears a path for the thunderbolt,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.24|<< Job 38:24]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.26|Job 38:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | does he divide  |**<big>&#8207;[[H6385\|פִלַּ֣ג]]&#8207; </big>**| fi.Lag<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

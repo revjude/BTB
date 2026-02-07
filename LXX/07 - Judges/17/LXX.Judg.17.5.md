@@ -1,10 +1,7 @@
 **LXX Judges 17:5** 
 <small><sub>**LXX:**</sub></small>
 And the house of Micah was to him \[the\] house of God. And he made an ephod and teraphim. And he filled up the hand of one  of his sons, and he became to him for a priest. 
-<small><sub>**KJV:**</sub></small>
-And the man Micah had an house of gods, and made an ephod, and teraphim, and consecrated one of his sons, who became his priest.
-<small><sub>**BSB:**</sub></small>
-Now this man Micah had a shrine, and he made an ephod and some household idols, and ordained one of his sons as his priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.17.4|<< Judges 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.17.6|Judges 17:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 37:36** 
 <small><sub>**LXX:**</sub></small>
 And the Midianites gave  Joseph into Egypt  to Potiphar the castrato of Pharaoh -- \[the\] chief guard. 
-<small><sub>**KJV:**</sub></small>
-And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh’s, [and] captain of the guard.
-<small><sub>**BSB:**</sub></small>
-Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, an officer of Pharaoh and captain of the guard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.35|<< Genesis 37:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.1|Genesis 38:1 >>]]</td></tr></table>
 
 | Translation | Greek |

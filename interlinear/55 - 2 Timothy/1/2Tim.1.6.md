@@ -1,12 +1,12 @@
-**2 Timothy 1:6
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 1:6**<big><big>[[2Tim.1.3 Faithfulness under Persecution|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore I put thee in remembrance that thou stir up the gift of God, which is in thee by the putting on of my hands.
 <small><sub>**BSB:**</sub></small>
 For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands.
 <small><sub>**Literal:**</sub></small>
 For this reason I remind you to kindle anew the gift <the> of God, which is in you through the laying on of the hands of mine;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.5|<< 2 Timothy 1:5]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.7|2 Timothy 1:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G1223\|Δι᾽]]</big>**  |Di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3739\|ἣν]]</big>**  |hēn <small><sup>[[R-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

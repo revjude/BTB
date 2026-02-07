@@ -1,10 +1,7 @@
 **LXX Psalm 33:19** 
 <small><sub>**LXX:**</sub></small>
 to rescue their souls from death, and to nourish them during famine. 
-<small><sub>**KJV:**</sub></small>
-To deliver their soul from death, and to keep them alive in famine.
-<small><sub>**BSB:**</sub></small>
-to deliver them from death and keep them alive in famine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.33.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.33.18|<< Psalm 33:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.33.20|Psalm 33:20 >>]]</td></tr></table>
 
 | Translation | Greek |

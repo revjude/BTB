@@ -1,4 +1,4 @@
-**Exodus 28:28** 
+**Exodus 28:28**<big><big>[[Exod.28.15 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall bind the breastplate by the rings thereof unto the rings of the ephod with a lace of blue, that [it] may be above the curious girdle of the ephod, and that the breastplate be not loosed from the ephod.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The rings of the breastpiece shall be tied to the rings of the ephod with a cord
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.27|<< Exodus 28:27]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.29|Exodus 28:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so they may bind  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7405\|יִרְכְּס֣וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yir.ke.Su<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

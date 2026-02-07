@@ -1,4 +1,4 @@
-**1 Chronicles 27:22** 
+**1 Chronicles 27:22**<big><big>[[1Chr.27.16 The Leaders of the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of Dan, Azareel the son of Jeroham. These [were] the princes of the tribes of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and over Dan was Azarel son of Jeroham. These were the leaders of the tribes of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.21|<< 1 Chronicles 27:21]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.23|1 Chronicles 27:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for Dan  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1835G\|דָ֕ן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Dan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Azarel  |**<big>&#8207;[[H5832H\|עֲזַרְאֵ֖ל]]&#8207; </big>**| 'a.zar.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

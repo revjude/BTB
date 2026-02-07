@@ -1,4 +1,4 @@
-**Isaiah 30:23** 
+**Isaiah 30:23**<big><big>[[Isa.30.18 God Will Be Gracious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall he give the rain of thy seed, that thou shalt sow the ground withal; and bread of the increase of the earth, and it shall be fat and plenteous: in that day shall thy cattle feed in large pastures.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then He will send rain for the seed that you have sown in the ground, and the fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.22|<< Isaiah 30:22]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.24|Isaiah 30:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will give  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתַן֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Tan<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] rain of  |**<big>&#8207;[[H4306\|מְטַ֨ר]]&#8207; </big>**| me.Tar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 18:40
-**<small><sub>**KJV:**</sub></small>
+**John 18:40**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber.
 <small><sub>**BSB:**</sub></small>
 “Not this man,” they shouted, “but Barabbas!” (Now Barabbas was an insurrectionist.)
 <small><sub>**Literal:**</sub></small>
 They cried out then again all saying; Not this one but <the> Barabbas! Was now <the> Barabbas an insurrectionist.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.39|<< John 18:39]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.1|John 19:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They cried out |**<big>[[G2905\|ἐκραύγασαν]]</big>**  |ekraugasan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

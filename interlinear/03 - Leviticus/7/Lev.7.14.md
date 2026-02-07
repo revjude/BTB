@@ -1,4 +1,4 @@
-**Leviticus 7:14** 
+**Leviticus 7:14**<big><big>[[Lev.7.11 The Peace Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of it he shall offer one out of the whole oblation [for] an heave offering unto the LORD, [and] it shall be the priest’s that sprinkleth the blood of the peace offerings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the cakes he must present one portion of each offering as a contribution to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.13|<< Leviticus 7:13]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.15|Leviticus 7:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will present  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7126H\|הִקְרִ֨יב]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hik.Riv<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from it  |**<big>&#8207;[[H4480A\|מִמֶּ֤]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

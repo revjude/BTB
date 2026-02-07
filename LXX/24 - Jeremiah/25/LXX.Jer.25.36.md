@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:36** 
 <small><sub>**LXX:**</sub></small>
 A sound of a cry of the shepherds, and a shout of the rams, for \[the\] <span class="smallcaps">lord</span> annihilated  their pastures. 
-<small><sub>**KJV:**</sub></small>
-A voice of the cry of the shepherds, and an howling of the principal of the flock, [shall be heard]: for the LORD hath spoiled their pasture.
-<small><sub>**BSB:**</sub></small>
-Hear the cry of the shepherds, the wailing of the leaders of the flock, for the LORD is destroying their pasture.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.35|<< Jeremiah 25:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.37|Jeremiah 25:37 >>]]</td></tr></table>
 
 | Translation | Greek |

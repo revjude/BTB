@@ -1,12 +1,12 @@
-**Matthew 27:66
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:66**<big><big>[[Matt.27.62 The Guards at the Tomb|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So they went, and made the sepulchre sure, sealing the stone, and setting a watch.
 <small><sub>**BSB:**</sub></small>
 So they went and secured the tomb by sealing the stone and posting the guard.
 <small><sub>**Literal:**</sub></small>
 <the> And having gone they made secure the tomb having sealed the stone with the guard.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.65|<< Matthew 27:65]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.1|Matthew 28:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

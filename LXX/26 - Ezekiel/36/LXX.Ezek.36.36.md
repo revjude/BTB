@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:36** 
 <small><sub>**LXX:**</sub></small>
 And the nations shall know, as many as might be left behind round about you, that I \[the\] <span class="smallcaps">lord</span> built up the \[places\] having been demolished; and I planted the \[places\] having been obliterated. For I \[the\] <span class="smallcaps">lord</span> spoke, and I will act. 
-<small><sub>**KJV:**</sub></small>
-Then the heathen that are left round about you shall know that I the LORD build the ruined [places, and] plant that that was desolate: I the LORD have spoken [it], and I will do [it].
-<small><sub>**BSB:**</sub></small>
-Then the nations around you that remain will know that I, the LORD, have rebuilt what was destroyed, and I have replanted what was desolate. I, the LORD, have spoken, and I will do it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.35|<< Ezekiel 36:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.37|Ezekiel 36:37 >>]]</td></tr></table>
 
 | Translation | Greek |

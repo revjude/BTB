@@ -1,4 +1,4 @@
-**Proverbs 26:6** 
+**Proverbs 26:6**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that sendeth a message by the hand of a fool cutteth off the feet, [and] drinketh damage.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like cutting off one’s own feet or drinking violence is the sending of a messa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.5|<< Proverbs 26:5]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.7|Proverbs 26:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] cuts off  |**<big>&#8207;[[H7096\|מְקַצֶּ֣ה]]&#8207; </big>**| me.ka.Tzeh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | feet  |**<big>&#8207;[[H7272\|רַ֭גְלַיִם]]&#8207; </big>**| Rag.la.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Proverbs 8:27** 
 <small><sub>**LXX:**</sub></small>
 When he prepared the heaven, I was present with him, and when he separated  his throne upon \[the\] winds; 
-<small><sub>**KJV:**</sub></small>
-When he prepared the heavens, I [was] there: when he set a compass upon the face of the depth:
-<small><sub>**BSB:**</sub></small>
-I was there when He established the heavens, when He inscribed a circle on the face of the deep,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.8.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.26|<< Proverbs 8:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.28|Proverbs 8:28 >>]]</td></tr></table>
 
 | Translation | Greek |

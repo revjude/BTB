@@ -1,10 +1,7 @@
 **LXX Joshua 2:7** 
 <small><sub>**LXX:**</sub></small>
 And the men pursued after them \[on the\] way unto the Jordan near the ford, and the gate was locked. 
-<small><sub>**KJV:**</sub></small>
-And the men pursued after them the way to Jordan unto the fords: and as soon as they which pursued after them were gone out, they shut the gate.
-<small><sub>**BSB:**</sub></small>
-So the king’s men set out in pursuit of the spies along the road to the fords of the Jordan, and as soon as they had gone out, the gate was shut.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.6|<< Joshua 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.8|Joshua 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

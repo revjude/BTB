@@ -1,4 +1,4 @@
-**1 Samuel 10:14** 
+**1 Samuel 10:14**<big><big>[[1Sam.10.9 Samuel’s Signs Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul’s uncle said unto him and to his servant, Whither went ye? And he said, To seek the asses: and when we saw that [they were] no where, we came to Samuel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Saul’s uncle asked him and his servant, “Where did you go?” “To look
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.13|<< 1 Samuel 10:13]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.15|1 Samuel 10:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמֶר֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] uncle of  |**<big>&#8207;[[H1730I\|דּ֨וֹד]]&#8207; </big>**| Dod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

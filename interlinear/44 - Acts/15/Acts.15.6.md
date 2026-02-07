@@ -1,12 +1,12 @@
-**Acts 15:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:6**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the apostles and elders came together for to consider of this matter.
 <small><sub>**BSB:**</sub></small>
 So the apostles and elders met to look into this matter.
 <small><sub>**Literal:**</sub></small>
 Were gathered together then the apostles and the elders to understand about <the> matter this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.5|<< Acts 15:5]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.7|Acts 15:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were gathered together |**<big>[[G4863\|Συνήχθησάν]]</big>**  |Sunēchthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [^1] |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH+Treg">N(k)O</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Numbers 18:5** 
 <small><sub>**LXX:**</sub></small>
 And you shall guard the watches of the holy \[places\], and the watches of the altar. And there shall not be yet rage among the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And ye shall keep the charge of the sanctuary, and the charge of the altar: that there be no wrath any more upon the children of Israel.
-<small><sub>**BSB:**</sub></small>
-And you shall attend to the duties of the sanctuary and of the altar, so that wrath may not fall on the Israelites again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.4|<< Numbers 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.6|Numbers 18:6 >>]]</td></tr></table>
 
 | Translation | Greek |

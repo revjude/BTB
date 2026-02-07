@@ -1,10 +1,7 @@
 **LXX Micah 5:3** 
 <small><sub>**LXX:**</sub></small>
 On account of this, he will appoint them unto a time of giving birth. She shall give birth, and the remnants  of their brethren shall return unto the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-Therefore will he give them up, until the time [that] she which travaileth hath brought forth: then the remnant of his brethren shall return unto the children of Israel.
-<small><sub>**BSB:**</sub></small>
-Therefore Israel will be abandoned until she who is in labor has given birth; then the rest of His brothers will return to the children of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.5.2|<< Micah 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.4|Micah 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

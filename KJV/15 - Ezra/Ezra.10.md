@@ -1,10 +1,10 @@
 (KJV) **Ezra 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9|<< Ezra 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1|Nehemiah 1 >>]]</td></tr></table>
 
-***Shecaniah’s Encouragement*** ^bsb1193
+<big><big>[[Ezra.10.1 Shecaniah’s Encouragement|⥃]]</big></big>***Shecaniah’s Encouragement***
 
  $\quad$ <span class="startversemarker">[</span>**[[Ezra.10.1|1]]**<span class="endversemarker">]</span> Now when Ezra<small><small>[^2]</small></small> had prayed, and when he had<small><small>[^3]</small></small> confessed, weeping<small><small>[^4]</small></small> and casting himself down before the house<small><small>[^5]</small></small> of God, there assembled unto him out of Israel a very great<small><small>[^6]</small></small> congregation of men and women and children: for the people wept very sore<small><small>[^7]</small></small>. <span class="startversemarker">[</span>**[[Ezra.10.2|2]]**<span class="endversemarker">]</span> And Shechaniah<small><small>[^8]</small></small> the son of Jehiel, \[one\] of the sons of Elam<small><small>[^9]</small></small>, answered and said unto Ezra, We have trespassed<small><small>[^10]</small></small> against our God, and have taken strange wives of the people of the land: yet now there is hope<small><small>[^11]</small></small> in Israel concerning this thing. <span class="startversemarker">[</span>**[[Ezra.10.3|3]]**<span class="endversemarker">]</span> Now therefore let us make<small><small>[^12]</small></small> a covenant with our God to put away<small><small>[^13]</small></small> all the wives, and such as are born of them, according to the counsel<small><small>[^14]</small></small> of my lord, and of those that<small><small>[^15]</small></small> tremble at the commandment<small><small>[^16]</small></small> of our God; and let it<small><small>[^17]</small></small> be done according to the law. <span class="startversemarker">[</span>**[[Ezra.10.4|4]]**<span class="endversemarker">]</span> Arise<small><small>[^18]</small></small>; for \[this\] matter<small><small>[^19]</small></small> \[belongeth\] unto thee: we also \[will<small><small>[^20]</small></small> be\] with thee: be of good<small><small>[^21]</small></small> courage, and do \[it\]. <span class="startversemarker">[</span>**[[Ezra.10.5|5]]**<span class="endversemarker">]</span> Then arose<small><small>[^22]</small></small> Ezra, and made<small><small>[^23]</small></small> the chief priests, the Levites, and all Israel, to swear that they should do according to this word. And they sware.
 
-***The People’s Confession of Sin*** ^bsb1194
+<big><big>[[Ezra.10.6 The People’s Confession of Sin|⥃]]</big></big>***The People’s Confession of Sin***
 
  
 
@@ -14,7 +14,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Ezra.10.9|9]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[Ezra.10.15|15]]**<span class="endversemarker">]</span> Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed<small><small>[^48]</small></small> about this \[matter\]: and Meshullam<small><small>[^49]</small></small> and Shabbethai<small><small>[^50]</small></small> the Levite helped them. <span class="startversemarker">[</span>**[[Ezra.10.16|16]]**<span class="endversemarker">]</span> And the children of the captivity did so. And Ezra the priest, \[with\] certain chief of the fathers, after the house of their fathers, and all of them by \[their\] names, were separated, and sat down in the first day of the tenth month to examine the matter<small><small>[^51]</small></small>. <span class="startversemarker">[</span>**[[Ezra.10.17|17]]**<span class="endversemarker">]</span> And they made an end with all the men that had taken strange wives by the first day<small><small>[^52]</small></small> of the first month.<small><small>[^53]</small></small>
 
-***Those Guilty of Intermarriage*** ^bsb1195
+<big><big>[[Ezra.10.18 Those Guilty of Intermarriage|⥃]]</big></big>***Those Guilty of Intermarriage***
 
  
 

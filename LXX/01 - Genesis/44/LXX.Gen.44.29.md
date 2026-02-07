@@ -1,10 +1,7 @@
 **LXX Genesis 44:29** 
 <small><sub>**LXX:**</sub></small>
 If then you should take also this \[one\] from  my face, and comes to pass to him an infirmity in the way, then \[know that\] you will lead me  in old age with distress into Hades. 
-<small><sub>**KJV:**</sub></small>
-And if ye take this also from me, and mischief befall him, ye shall bring down my gray hairs with sorrow to the grave.
-<small><sub>**BSB:**</sub></small>
-Now if you also take this one from me and harm comes to him, you will bring my gray hair down to Sheol in sorrow.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.28|<< Genesis 44:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.30|Genesis 44:30 >>]]</td></tr></table>
 
 | Translation | Greek |

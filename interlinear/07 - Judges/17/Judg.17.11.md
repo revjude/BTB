@@ -1,4 +1,4 @@
-**Judges 17:11** 
+**Judges 17:11**<big><big>[[Judg.17.1 Micah’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Levite was content to dwell with the man; and the young man was unto him as one of his sons.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and agreed to stay with him, and the young man became like a son to Micah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.17.10|<< Judges 17:10]]</td><td align="center" style="border:none;">[[Judg.17|Judges 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.12|Judges 17:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was willing  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2974\|יּ֥וֹאֶל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.'el<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Levite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לֵּוִ֖י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> le.Vi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

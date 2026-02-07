@@ -1,4 +1,4 @@
-**Zechariah 10:1** 
+**Zechariah 10:1**<big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ask ye of the LORD rain in the time of the latter rain; [so] the LORD shall make bright clouds, and give them showers of rain, to every one grass in the field.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ask the LORD for rain in springtime; the LORD makes the storm clouds, and He wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.17|<< Zechariah 9:17]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.2|Zechariah 10:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ask  |**<big>&#8207;[[H7592\|שַׁאֲל֨וּ]]&#8207; </big>**| sha.'a.Lu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Yahweh  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

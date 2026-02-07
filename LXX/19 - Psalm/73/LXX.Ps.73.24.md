@@ -1,10 +1,7 @@
 **LXX Psalm 73:24** 
 <small><sub>**LXX:**</sub></small>
 and in  your counsel you guided me, and with glory you received me. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt guide me with thy counsel, and afterward receive me [to] glory.
-<small><sub>**BSB:**</sub></small>
-You guide me with Your counsel, and later receive me in glory.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.73.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.23|<< Psalm 73:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.25|Psalm 73:25 >>]]</td></tr></table>
 
 | Translation | Greek |

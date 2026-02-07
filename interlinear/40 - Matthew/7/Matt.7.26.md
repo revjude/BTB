@@ -1,12 +1,12 @@
-**Matthew 7:26
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:26**<big><big>[[Matt.7.24 The House on the Rock|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:
 <small><sub>**BSB:**</sub></small>
 But everyone who hears these words of Mine and does not act on them is like a foolish man who built his house on sand.
 <small><sub>**Literal:**</sub></small>
 And everyone who is hearing My <the> words these and not doing them he will be likened to a man foolish who built of him the house upon the sand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.25|<< Matthew 7:25]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.27|Matthew 7:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | everyone |**<big>[[G3956\|πᾶς]]</big>**  |pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

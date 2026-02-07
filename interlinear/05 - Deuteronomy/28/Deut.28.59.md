@@ -1,4 +1,4 @@
-**Deuteronomy 28:59** 
+**Deuteronomy 28:59**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the LORD will make thy plagues wonderful, and the plagues of thy seed, [even] great plagues, and of long continuance, and sore sicknesses, and of long continuance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will bring upon you and your descendants extraordinary disasters, severe and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.59|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.58|<< Deuteronomy 28:58]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.60|Deuteronomy 28:60 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make extraordinary  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6381\|הִפְלָ֤א]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hif.La'<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

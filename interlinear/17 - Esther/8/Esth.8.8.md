@@ -1,4 +1,4 @@
-**Esther 8:8** 
+**Esther 8:8**<big><big>[[Esth.8.7 The Decree of Xerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Write ye also for the Jews, as it liketh you, in the king’s name, and seal [it] with the king’s ring: for the writing which is written in the king’s name, and sealed with the king’s ring, may no man reverse.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now you may write in the king’s name as you please regarding the Jews, and sea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.7|<< Esther 8:7]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.9|Esther 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H0859D\|אַתֶּם]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'a.tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | write  |**<big>&#8207;[[H3789\|כִּתְב֨וּ]]&#8207; </big>**| kit.Vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

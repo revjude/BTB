@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 5:19** 
 <small><sub>**LXX:**</sub></small>
 And indeed, every man to whom God gave to him riches and possessions, and gave to him authority  to eat from it, and to take  his portion, and  to be glad in his effort; this is a gift of God. 
-<small><sub>**KJV:**</sub></small>
-Every man also to whom God hath given riches and wealth, and hath given him power to eat thereof, and to take his portion, and to rejoice in his labour; this [is] the gift of God.
-<small><sub>**BSB:**</sub></small>
-Furthermore, God has given riches and wealth to every man, and He has enabled him to enjoy them, to accept his lot, and to rejoice in his labor. This is a gift from God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.5.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.18|<< Ecclesiastes 5:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.20|Ecclesiastes 5:20 >>]]</td></tr></table>
 
 | Translation | Greek |

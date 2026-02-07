@@ -1,4 +1,4 @@
-**Judges 9:30** 
+**Judges 9:30**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Zebul the ruler of the city heard the words of Gaal the son of Ebed, his anger was kindled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Zebul the governor of the city heard the words of Gaal son of Ebed, he burn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.29|<< Judges 9:29]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.31|Judges 9:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַ֗ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zebul  |**<big>&#8207;[[H2083\|זְבֻל֙]]&#8207; </big>**| ze.Vul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

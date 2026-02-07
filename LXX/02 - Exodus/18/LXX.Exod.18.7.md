@@ -1,10 +1,7 @@
 **LXX Exodus 18:7** 
 <small><sub>**LXX:**</sub></small>
 And Moses came forth to meet with  his father-in-law; and he did obeisance to him, and he kissed him, and they greeted one another, and he brought them into the tent. 
-<small><sub>**KJV:**</sub></small>
-And Moses went out to meet his father in law, and did obeisance, and kissed him; and they asked each other of [their] welfare; and they came into the tent.
-<small><sub>**BSB:**</sub></small>
-So Moses went out to meet his father-in-law and bowed down and kissed him. They greeted each other and went into the tent.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.6|<< Exodus 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.8|Exodus 18:8 >>]]</td></tr></table>
 
 | Translation | Greek |

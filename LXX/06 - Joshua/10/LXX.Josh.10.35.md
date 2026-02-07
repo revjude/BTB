@@ -1,10 +1,7 @@
 **LXX Joshua 10:35** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> delivered it into \[the\] hand of Israel. And he took it in  that day, and he slaughtered it by \[the\] mouth of \[the\] sword, and every one breathing in it. In  that day they slaughtered in which manner they did  to Lachish. 
-<small><sub>**KJV:**</sub></small>
-And they took it on that day, and smote it with the edge of the sword, and all the souls that [were] therein he utterly destroyed that day, according to all that he had done to Lachish.
-<small><sub>**BSB:**</sub></small>
-That day they captured Eglon and put it to the sword, and Joshua devoted to destruction everyone in the city, just as he had done to Lachish.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.34|<< Joshua 10:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.36|Joshua 10:36 >>]]</td></tr></table>
 
 | Translation | Greek |

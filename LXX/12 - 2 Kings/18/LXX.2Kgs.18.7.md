@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was with him; in all the things which he did he perceived. And he annulled \[allegiance\] to the king of \[the\] Assyrians, and he did not serve to him. 
-<small><sub>**KJV:**</sub></small>
-And the LORD was with him; [and] he prospered whithersoever he went forth: and he rebelled against the king of Assyria, and served him not.
-<small><sub>**BSB:**</sub></small>
-And the LORD was with Hezekiah, and he prospered wherever he went. He rebelled against the king of Assyria and refused to serve him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.6|<< 2 Kings 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.8|2 Kings 18:8 >>]]</td></tr></table>
 
 | Translation | Greek |

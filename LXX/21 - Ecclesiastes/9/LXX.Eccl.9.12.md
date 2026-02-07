@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 9:12** 
 <small><sub>**LXX:**</sub></small>
 And indeed man does not know  his season. As  fishes  being hunted with a hurtful casting-net, and as birds  being hunted with a snare -- as them the sons of man shall be ensnared in an evil season, whenever it should fall upon them suddenly. 
-<small><sub>**KJV:**</sub></small>
-For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so [are] the sons of men snared in an evil time, when it falleth suddenly upon them.
-<small><sub>**BSB:**</sub></small>
-For surely no man knows his time: Like fish caught in a cruel net or birds trapped in a snare, so men are ensnared in an evil time that suddenly falls upon them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.9.11|<< Ecclesiastes 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.9.13|Ecclesiastes 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

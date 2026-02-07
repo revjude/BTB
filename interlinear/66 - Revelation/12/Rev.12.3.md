@@ -1,5 +1,5 @@
-**Revelation 12:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 12:3**<big><big>[[Rev.12.1 The Woman and the Dragon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there appeared another wonder in heaven; and behold a great red dragon, having seven heads and ten horns, and seven crowns upon his heads.
 <small><sub>**BSB:**</sub></small>
 Then another sign appeared in heaven: a huge red dragon with seven heads, ten horns, and seven royal crowns on his heads.
@@ -10,7 +10,7 @@ And was seen another sign in <the> heaven, and behold a dragon great red having 
 > $\quad$ alluding to: [[LXX.Dan.7.7|Dan 7:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was seen |**<big>[[G3700H\|ὤφθη]]</big>**  |ōphthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

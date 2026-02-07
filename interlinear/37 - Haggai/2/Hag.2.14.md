@@ -1,4 +1,4 @@
-**Haggai 2:14** 
+**Haggai 2:14**<big><big>[[Hag.2.10 Blessings for a Defiled People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered Haggai, and said, So [is] this people, and so [is] this nation before me, saith the LORD; and so [is] every work of their hands; and that which they offer there [is] unclean.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Haggai replied, “So it is with this people and this nation before Me, dec
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.13|<< Haggai 2:13]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.15|Haggai 2:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֨עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Haggai  |**<big>&#8207;[[H2292A\|חַגַּ֜י]]&#8207; </big>**| cha.Gai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

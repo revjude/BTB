@@ -1,12 +1,12 @@
-**Luke 14:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:20**<big><big>[[Luke.14.15 The Parable of the Banquet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And another said, I have married a wife, and therefore I cannot come.
 <small><sub>**BSB:**</sub></small>
 Still another said, ‘I have married a wife, so I cannot come.’
 <small><sub>**Literal:**</sub></small>
 And another said; A wife I have married and because of this not I am able to come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.19|<< Luke 14:19]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.21|Luke 14:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | another |**<big>[[G2087\|ἕτερος]]</big>**  |heteros <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

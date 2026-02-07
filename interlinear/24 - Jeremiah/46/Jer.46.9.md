@@ -1,4 +1,4 @@
-**Jeremiah 46:9** 
+**Jeremiah 46:9**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come up, ye horses; and rage, ye chariots; and let the mighty men come forth; the Ethiopians and the Libyans, that handle the shield; and the Lydians, that handle [and] bend the bow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Advance, O horses! Race furiously, O chariots! Let the warriors come forth—Cus
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.8|<< Jeremiah 46:8]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.10|Jeremiah 46:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go up  |**<big>&#8207;[[H5927G\|עֲל֤וּ]]&#8207; </big>**| 'a.Lu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O horses  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5483M\|סּוּסִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> su.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

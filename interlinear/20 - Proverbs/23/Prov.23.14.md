@@ -1,4 +1,4 @@
-**Proverbs 23:14** 
+**Proverbs 23:14**<big><big>[[Prov.23.13 Saying 13|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt beat him with the rod, and shalt deliver his soul from hell.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Strike him with a rod, and you will deliver his soul from Sheol.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.13|<< Proverbs 23:13]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.15|Proverbs 23:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַ֭תָּה]]&#8207; </big>**| 'A.tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with the rod  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7626G\|שֵּׁ֣בֶט]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> She.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

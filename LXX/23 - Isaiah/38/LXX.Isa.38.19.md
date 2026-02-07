@@ -1,10 +1,7 @@
 **LXX Isaiah 38:19** 
 <small><sub>**LXX:**</sub></small>
 The living shall bless you in which manner as I; for from  today I shall produce children who shall announce  your righteousness, 
-<small><sub>**KJV:**</sub></small>
-The living, the living, he shall praise thee, as I [do] this day: the father to the children shall make known thy truth.
-<small><sub>**BSB:**</sub></small>
-The living, only the living, can thank You, as I do today; fathers will tell their children about Your faithfulness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.38.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.18|<< Isaiah 38:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.20|Isaiah 38:20 >>]]</td></tr></table>
 
 | Translation | Greek |

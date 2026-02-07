@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 4:3** 
 <small><sub>**LXX:**</sub></small>
 And better above  these two which not yet was born, which knew not all the evil action  being done under the sun. 
-<small><sub>**KJV:**</sub></small>
-Yea, better [is he] than both they, which hath not yet been, who hath not seen the evil work that is done under the sun.
-<small><sub>**BSB:**</sub></small>
-But better than both is he who has not yet existed, who has not seen the evil that is done under the sun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.2|<< Ecclesiastes 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.4|Ecclesiastes 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

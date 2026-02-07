@@ -1,4 +1,4 @@
-**2 Chronicles 31:7** 
+**2 Chronicles 31:7**<big><big>[[2Chr.31.3 Contributions for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the third month they began to lay the foundation of the heaps, and finished [them] in the seventh month.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the third month they began building up the heaps, and they finished in the se
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.6|<< 2 Chronicles 31:6]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.8|2 Chronicles 31:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the month  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2320G\|חֹ֙דֶשׁ֙]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> third  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7992\|שְּׁלִשִׁ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.li.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

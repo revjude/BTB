@@ -1,4 +1,4 @@
-**Zechariah 1:8** 
+**Zechariah 1:8**<big><big>[[Zech.1.7 The Vision of the Horses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I saw by night, and behold a man riding upon a red horse, and he stood among the myrtle trees that [were] in the bottom; and behind him [were there] red horses, speckled, and white.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I looked out into the night and saw a man riding on a red horse. He was standing
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.7|<< Zechariah 1:7]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.9|Zechariah 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I saw  |**<big>&#8207;[[H7200L\|רָאִ֣יתִי]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ra.'I.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the night  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3915\|לַּ֗יְלָה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

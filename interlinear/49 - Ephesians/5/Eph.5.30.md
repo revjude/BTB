@@ -1,12 +1,12 @@
-**Ephesians 5:30
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:30**<big><big>[[Eph.5.21 Wives and Husbands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we are members of his body, of his flesh, and of his bones.
 <small><sub>**BSB:**</sub></small>
 For we are members of His body.
 <small><sub>**Literal:**</sub></small>
 for members we are of the body of Him from the flesh of Him and from the of bones of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.29|<< Ephesians 5:29]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.31|Ephesians 5:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | members |**<big>[[G3196\|μέλη]]</big>**  |melē <small><sup>[[N-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

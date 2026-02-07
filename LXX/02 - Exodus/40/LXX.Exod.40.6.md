@@ -1,10 +1,7 @@
 **LXX Exodus 40:6** 
 <small><sub>**LXX:**</sub></small>
 And the altar of the yield \[offerings\] you shall put by the door of the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt set the altar of the burnt offering before the door of the tabernacle of the tent of the congregation.
-<small><sub>**BSB:**</sub></small>
-Place the altar of burnt offering in front of the entrance to the tabernacle, the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.5|<< Exodus 40:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.7|Exodus 40:7 >>]]</td></tr></table>
 
 | Translation | Greek |

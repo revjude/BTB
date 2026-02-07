@@ -1,10 +1,7 @@
 **LXX Judges 9:25** 
 <small><sub>**LXX:**</sub></small>
 And the men of Shechem put for him ones lying in wait upon the top of the mountains. And they kidnapped all the ones going along by them in the way; and it was reported  to Abimelech. 
-<small><sub>**KJV:**</sub></small>
-And the men of Shechem set liers in wait for him in the top of the mountains, and they robbed all that came along that way by them: and it was told Abimelech.
-<small><sub>**BSB:**</sub></small>
-The leaders of Shechem set up an ambush against Abimelech on the hilltops, and they robbed all who passed by them on the road. So this was reported to Abimelech.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.24|<< Judges 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.26|Judges 9:26 >>]]</td></tr></table>
 
 | Translation | Greek |

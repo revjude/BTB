@@ -1,12 +1,12 @@
-**Acts 18:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:14**<big><big>[[Acts.18.12 Paul before Gallio|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Paul was now about to open [his] mouth, Gallio said unto the Jews, If it were a matter of wrong or wicked lewdness, O [ye] Jews, reason would that I should bear with you:
 <small><sub>**BSB:**</sub></small>
 But just as Paul was about to speak, Gallio told the Jews, “If this matter involved a wrongdoing or vicious crime, O Jews, it would be reasonable for me to hear your complaint.
 <small><sub>**Literal:**</sub></small>
 When is being about to now <the> Paul to open <the> [his] mouth said <the> Gallio to the Jews; If indeed therefore it was unrighteousness some or crime wicked, O Jews, according to reason would I have endured with you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.13|<< Acts 18:13]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.15|Acts 18:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When is being about to |**<big>[[G3195\|Μέλλοντος]]</big>**  |Mellontos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

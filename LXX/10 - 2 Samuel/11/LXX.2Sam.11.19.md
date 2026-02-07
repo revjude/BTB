@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:19** 
 <small><sub>**LXX:**</sub></small>
 And Joab gave charge to the messenger, saying, In  your completing all the matters of the battle speaking to the king, 
-<small><sub>**KJV:**</sub></small>
-And charged the messenger, saying, When thou hast made an end of telling the matters of the war unto the king,
-<small><sub>**BSB:**</sub></small>
-and instructed the messenger, “When you have finished giving the king a full account of the battle,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.18|<< 2 Samuel 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.20|2 Samuel 11:20 >>]]</td></tr></table>
 
 | Translation | Greek |

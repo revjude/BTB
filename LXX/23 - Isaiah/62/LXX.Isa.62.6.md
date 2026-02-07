@@ -1,10 +1,7 @@
 **LXX Isaiah 62:6** 
 <small><sub>**LXX:**</sub></small>
 And upon  your walls, O Jerusalem, I placed keepers \[for the\] entire  day and \[the\] entire  night; ones who through \[the\] end shall not keep silent making mention of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-I have set watchmen upon thy walls, O Jerusalem, [which] shall never hold their peace day nor night: ye that make mention of the LORD, keep not silence,
-<small><sub>**BSB:**</sub></small>
-On your walls, O Jerusalem, I have posted watchmen; they will never be silent day or night. You who call on the LORD shall take no rest for yourselves,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.62.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.62.5|<< Isaiah 62:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.7|Isaiah 62:7 >>]]</td></tr></table>
 
 | Translation | Greek |

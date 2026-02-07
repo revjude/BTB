@@ -1,4 +1,4 @@
-**Numbers 18:7** 
+**Numbers 18:7**<big><big>[[Num.18.1 Duties of Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thou and thy sons with thee shall keep your priest’s office for every thing of the altar, and within the vail; and ye shall serve: I have given your priest’s office [unto you as] a service of gift: and the stranger that cometh nigh shall be put to death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But only you and your sons shall attend to your priesthood for everything concer
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.6|<< Numbers 18:6]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.8|Numbers 18:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and sons your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בָנֶ֣י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

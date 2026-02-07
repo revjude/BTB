@@ -1,10 +1,7 @@
 **LXX Zechariah 7:3** 
 <small><sub>**LXX:**</sub></small>
 saying to the priests  in the house of \[the\] <span class="smallcaps">lord</span> almighty, and to the prophets, saying, The sanctified \[offering\] has entered here in the fifth month, as it did already a fit \[number\] of years. 
-<small><sub>**KJV:**</sub></small>
-[And] to speak unto the priests which [were] in the house of the LORD of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years?
-<small><sub>**BSB:**</sub></small>
-by asking the priests of the house of the LORD of Hosts, as well as the prophets, “Should I weep and fast in the fifth month, as I have done these many years?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.7.2|<< Zechariah 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.7.4|Zechariah 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

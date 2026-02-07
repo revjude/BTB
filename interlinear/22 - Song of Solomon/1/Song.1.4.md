@@ -1,4 +1,4 @@
-**Song of Solomon 1:4** 
+**Song of Solomon 1:4**<big><big>[[Song.1.2 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Draw me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take me away with you—let us hurry! May the king bring me to his chambers. We 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1.3|<< Song of Solomon 1:3]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.5|Song of Solomon 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | draw me  |**<big>&#8207;[[H4900\|מָשְׁכֵ֖]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ma.she.Khe.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after you  |**<big>&#8207;[[H0310A\|אַחֲרֶ֣י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'a.cha.Rei.<small><sup>[[HAcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

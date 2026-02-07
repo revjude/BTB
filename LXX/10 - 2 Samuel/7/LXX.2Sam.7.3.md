@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:3** 
 <small><sub>**LXX:**</sub></small>
 And Nathan said to the king, All as much as should be in  your heart, proceed and do! for the <span class="smallcaps">lord</span> \[is\] with you. 
-<small><sub>**KJV:**</sub></small>
-And Nathan said to the king, Go, do all that [is] in thine heart; for the LORD [is] with thee.
-<small><sub>**BSB:**</sub></small>
-And Nathan replied to the king, “Go and do all that is in your heart, for the LORD is with you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.2|<< 2 Samuel 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.4|2 Samuel 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

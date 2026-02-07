@@ -1,10 +1,7 @@
 **LXX Psalm 40:7** 
 <small><sub>**LXX:**</sub></small>
 Then I said, Behold, I come. In \[the\] chapter of the scroll it is written concerning me. 
-<small><sub>**KJV:**</sub></small>
-Then said I, Lo, I come: in the volume of the book [it is] written of me,
-<small><sub>**BSB:**</sub></small>
-Then I said, “Here I am, I have come—it is written about me in the scroll:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.40.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.6|<< Psalm 40:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.8|Psalm 40:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 40:7** is...

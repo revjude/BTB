@@ -1,4 +1,4 @@
-**Psalms 119:98** 
+**Psalms 119:98**<big><big>[[Ps.119.97 Your Word Is a Lamp to My Feet - MEM|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou through thy commandments hast made me wiser than mine enemies: for they [are] ever with me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your commandments make me wiser than my enemies, for they are always with me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.98|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.97|<< Psalms 119:97]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.99|Psalms 119:99 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | more than enemies my  |**<big>&#8207;[[H9006\|מֵ֭]]&#8207;&#8207;[[H0341\|אֹ֣יְבַ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'O.ye.va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it makes wise me  |**<big>&#8207;[[H2449\|תְּחַכְּמֵ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| te.cha.ke.Me.<small><sup>[[HVpi3fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 42:8** 
 <small><sub>**LXX:**</sub></small>
 For the length of the inner chambers of the ones looking into the outer courtyard -- fifty cubits; and these are the ones facing these \[others\]. The whole \[was\] a hundred cubits. 
-<small><sub>**KJV:**</sub></small>
-For the length of the chambers that [were] in the utter court [was] fifty cubits: and, lo, before the temple [were] an hundred cubits.
-<small><sub>**BSB:**</sub></small>
-For the chambers on the outer court were fifty cubits long, while those facing the temple were a hundred cubits long.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.42.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.42.7|<< Ezekiel 42:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.42.9|Ezekiel 42:9 >>]]</td></tr></table>
 
 | Translation | Greek |

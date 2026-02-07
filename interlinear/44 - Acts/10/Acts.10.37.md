@@ -1,12 +1,12 @@
-**Acts 10:37
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:37**<big><big>[[Acts.10.34 Good News for the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That word, [I say], ye know, which was published throughout all Judaea, and began from Galilee, after the baptism which John preached;
 <small><sub>**BSB:**</sub></small>
 You yourselves know what has happened throughout Judea, beginning in Galilee with the baptism that John proclaimed:
 <small><sub>**Literal:**</sub></small>
 You yourselves know the having come declaration through all <the> Judea, having begun from <the> Galilee after the baptism that proclaimed John:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.36|<< Acts 10:36]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.38|Acts 10:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | know |**<big>[[G6063\|οἴδατε]]</big>**  |oidate <small><sup>[[V-RAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

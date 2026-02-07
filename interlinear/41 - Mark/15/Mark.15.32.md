@@ -1,12 +1,12 @@
-**Mark 15:32
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:32**<big><big>[[Mark.15.21 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him.
 <small><sub>**BSB:**</sub></small>
 Let the Christ, the King of Israel, come down now from the cross, so that we may see and believe!” And even those who were crucified with Him berated Him.
 <small><sub>**Literal:**</sub></small>
 The Christ, the King <the> of Israel, he should descend now from the cross that we may see and may believe in him. And those crucified with Him were upbraiding Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.31|<< Mark 15:31]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.33|Mark 15:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Christ, |**<big>[[G5547\|χριστός,]]</big>**  |christos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 9:3** 
 <small><sub>**LXX:**</sub></small>
 And the king said, Is there left any man from the house of Saul, that I should perform with him an \[act of\] mercy of God? And Ziba said to the king, \[There\] still is a son \[to\] Jonathan being stricken of the feet. 
-<small><sub>**KJV:**</sub></small>
-And the king said, [Is] there not yet any of the house of Saul, that I may shew the kindness of God unto him? And Ziba said unto the king, Jonathan hath yet a son, [which is] lame on [his] feet.
-<small><sub>**BSB:**</sub></small>
-So the king asked, “Is there anyone left of the house of Saul to whom I can show the kindness of God?” Ziba answered, “There is still Jonathan’s son, who is lame in both feet.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.9.2|<< 2 Samuel 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.9.4|2 Samuel 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

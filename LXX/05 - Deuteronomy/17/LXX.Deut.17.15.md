@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:15** 
 <small><sub>**LXX:**</sub></small>
 \[then\] in placing, you shall place over yourself a ruler, which ever \[the\] <span class="smallcaps">lord</span> your God should choose -- him from out of  your brethren you shall place over yourself \[as\] ruler. You shall not be able to place over yourself an alien man, for he is not your brother. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt in any wise set [him] king over thee, whom the LORD thy God shall choose: [one] from among thy brethren shalt thou set king over thee: thou mayest not set a stranger over thee, which [is] not thy brother.
-<small><sub>**BSB:**</sub></small>
-you are to appoint over yourselves the king whom the LORD your God shall choose. Appoint a king from among your brothers; you are not to set over yourselves a foreigner who is not one of your brothers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.14|<< Deuteronomy 17:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.16|Deuteronomy 17:16 >>]]</td></tr></table>
 
 | Translation | Greek |

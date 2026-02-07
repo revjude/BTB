@@ -1,4 +1,4 @@
-**Ezra 7:15** 
+**Ezra 7:15**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to carry the silver and gold, which the king and his counsellers have freely offered unto the God of Israel, whose habitation [is] in Jerusalem,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, you are to take with you the silver and gold that the king and his cou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.14|<< Ezra 7:14]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.16|Ezra 7:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to carry  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2987\|הֵיבָלָ֖ה]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> le.<small><sup>[[AR]]</sup></small> hei.va.Lah<small><sup>[[AVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | silver  |**<big>&#8207;[[H3702\|כְּסַ֣ף]]&#8207; </big>**| ke.Saf<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

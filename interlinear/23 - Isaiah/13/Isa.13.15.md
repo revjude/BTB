@@ -1,4 +1,4 @@
-**Isaiah 13:15** 
+**Isaiah 13:15**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every one that is found shall be thrust through; and every one that is joined [unto them] shall fall by the sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever is caught will be stabbed, and whoever is captured will die by the sword
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.14|<< Isaiah 13:14]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.16|Isaiah 13:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> [one who] is found  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4672\|נִּמְצָ֖א]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> nim.Tza'<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

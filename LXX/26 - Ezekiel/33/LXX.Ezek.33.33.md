@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:33** 
 <small><sub>**LXX:**</sub></small>
 And when ever it should come \[to pass\], they shall say, Behold, it is come; and they shall know that a prophet was in their midst. 
-<small><sub>**KJV:**</sub></small>
-And when this cometh to pass, (lo, it will come,) then shall they know that a prophet hath been among them.
-<small><sub>**BSB:**</sub></small>
-So when it comes to pass—and surely it will come—then they will know that a prophet has been among them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.32|<< Ezekiel 33:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.1|Ezekiel 34:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 33:33** is...

@@ -1,4 +1,4 @@
-**Isaiah 50:10** 
+**Isaiah 50:10**<big><big>[[Isa.50.4 The Servant’s Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] among you that feareth the LORD, that obeyeth the voice of his servant, that walketh [in] darkness, and hath no light? let him trust in the name of the LORD, and stay upon his God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who among you fears the LORD and obeys the voice of His Servant? Who among you w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.50.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50.9|<< Isaiah 50:9]]</td><td align="center" style="border:none;">[[Isa.50|Isaiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.50.11|Isaiah 50:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among you  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9036\|כֶם֙]]&#8207; </big>**| va.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 65:25** 
+**Isaiah 65:25**<big><big>[[Isa.65.17 A New Heaven and a New Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wolf and the lamb shall feed together, and the lion shall eat straw like the bullock: and dust [shall be] the serpent’s meat. They shall not hurt nor destroy in all my holy mountain, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wolf and the lamb will feed together, and the lion will eat straw like the o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.24|<< Isaiah 65:24]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.1|Isaiah 66:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wolf  |**<big>&#8207;[[H2061\|זְאֵ֨ב]]&#8207; </big>**| ze.'Ev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and lamb  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2924\|טָלֶ֜ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ta.Leh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

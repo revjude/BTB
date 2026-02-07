@@ -1,10 +1,7 @@
 **LXX Ezekiel 14:4** 
 <small><sub>**LXX:**</sub></small>
 On account of this, speak to them! And you shall say to them, Thus says Adonai \[the\] <span class="smallcaps">lord</span>; A man, a man from out of the house of Israel who ever should put  his considerations upon  his heart, and  should arrange punishment for his iniquities before his face, and should come to the \[false\] prophet; I \[the\] <span class="smallcaps">lord</span> will answer him by them, in the \[things\] which \[are\] within \[in\] his mind, 
-<small><sub>**KJV:**</sub></small>
-Therefore speak unto them, and say unto them, Thus saith the Lord GOD; Every man of the house of Israel that setteth up his idols in his heart, and putteth the stumblingblock of his iniquity before his face, and cometh to the prophet; I the LORD will answer him that cometh according to the multitude of his idols;
-<small><sub>**BSB:**</sub></small>
-Therefore speak to them and tell them that this is what the Lord GOD says: ‘When any Israelite sets up idols in his heart and puts a wicked stumbling block before his face, and then comes to the prophet, I the LORD will answer him according to his great idolatry,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.3|<< Ezekiel 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.5|Ezekiel 14:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Haggai 2:2** 
 <small><sub>**LXX:**</sub></small>
 Speak indeed to Zerubbabel the \[son of\] Shealtiel of \[the\] tribe of Judah, and to Joshua the \[son\] of Josedech the great priest, and to all the ones left of the people, saying, 
-<small><sub>**KJV:**</sub></small>
-Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,
-<small><sub>**BSB:**</sub></small>
-“Speak to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest, and also to the remnant of the people. Ask them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.1|<< Haggai 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.3|Haggai 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 16:9** 
 <small><sub>**LXX:**</sub></small>
 And the king of \[the\] Assyrians heard him. And \[the\] king of \[the\] Assyrians ascended up against Damascus, and he seized it, and he resettled it, and  he killed Rezin. 
-<small><sub>**KJV:**</sub></small>
-And the king of Assyria hearkened unto him: for the king of Assyria went up against Damascus, and took it, and carried [the people of] it captive to Kir, and slew Rezin.
-<small><sub>**BSB:**</sub></small>
-So the king of Assyria responded to him, marched up to Damascus, and captured it. He took its people to Kir as captives and put Rezin to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.16.8|<< 2 Kings 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.10|2 Kings 16:10 >>]]</td></tr></table>
 
 | Translation | Greek |

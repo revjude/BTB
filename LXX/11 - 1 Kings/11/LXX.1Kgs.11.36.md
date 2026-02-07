@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:36** 
 <small><sub>**LXX:**</sub></small>
  But \[to\] his son I will give the two chiefdoms, so that there might be a designation \[to\] my servant David all the days before me in Jerusalem, the city which I chose for myself  to put  my name there. 
-<small><sub>**KJV:**</sub></small>
-And unto his son will I give one tribe, that David my servant may have a light alway before me in Jerusalem, the city which I have chosen me to put my name there.
-<small><sub>**BSB:**</sub></small>
-I will give one tribe to his son, so that My servant David will always have a lamp before Me in Jerusalem, the city where I chose to put My Name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.35|<< 1 Kings 11:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.37|1 Kings 11:37 >>]]</td></tr></table>
 
 | Translation | Greek |

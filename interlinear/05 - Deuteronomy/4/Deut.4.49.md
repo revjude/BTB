@@ -1,4 +1,4 @@
-**Deuteronomy 4:49** 
+**Deuteronomy 4:49**<big><big>[[Deut.4.44 Introduction to the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the plain on this side Jordan eastward, even unto the sea of the plain, under the springs of Pisgah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ including all the Arabah on the east side of the Jordan and as far as the Sea of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.48|<< Deuteronomy 4:48]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.1|Deuteronomy 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Arabah  |**<big>&#8207;[[H9009\|הָ֨]]&#8207;&#8207;[[H6160G\|עֲרָבָ֜ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.ra.Vah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

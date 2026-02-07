@@ -1,10 +1,7 @@
 **LXX Jeremiah 12:17** 
 <small><sub>**LXX:**</sub></small>
 But if they should not return, then I shall lift away that nation by removal and destruction, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But if they will not obey, I will utterly pluck up and destroy that nation, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-But if they will not obey, then I will uproot that nation; I will uproot it and destroy it, declares the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.12.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.16|<< Jeremiah 12:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.1|Jeremiah 13:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 22:25** 
+**Joshua 22:25**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD hath made Jordan a border between us and you, ye children of Reuben and children of Gad; ye have no part in the LORD: so shall your children make our children cease from fearing the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the LORD has made the Jordan a border between us and you Reubenites and Gadi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.24|<< Joshua 22:24]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.26|Joshua 22:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a border  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1366G\|גְב֣וּל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has put  |**<big>&#8207;[[H5414I\|נָֽתַן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| na.tan-<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

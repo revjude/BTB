@@ -1,10 +1,7 @@
 **LXX Amos 7:13** 
 <small><sub>**LXX:**</sub></small>
 But in Beth-el no longer shall you proceed  to prophesy. For it is a sanctuary \[for the\] king, and it is a house of royalty. 
-<small><sub>**KJV:**</sub></small>
-But prophesy not again any more at Bethel: for it [is] the king’s chapel, and it [is] the king’s court.
-<small><sub>**BSB:**</sub></small>
-But never prophesy at Bethel again, because it is the sanctuary of the king and the temple of the kingdom.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.7.12|<< Amos 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.14|Amos 7:14 >>]]</td></tr></table>
 
 | Translation | Greek |

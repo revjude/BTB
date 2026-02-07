@@ -1,10 +1,7 @@
 **LXX Exodus 29:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall place them upon one bin, and you shall offer them at the bin, and the young calf, and the two rams. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt put them into one basket, and bring them in the basket, with the bullock and the two rams.
-<small><sub>**BSB:**</sub></small>
-put them in a basket, and present them in the basket, along with the bull and the two rams.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.2|<< Exodus 29:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.4|Exodus 29:4 >>]]</td></tr></table>
 
 | Translation | Greek |

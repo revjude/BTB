@@ -1,10 +1,7 @@
 **LXX Jeremiah 47:5** 
 <small><sub>**LXX:**</sub></small>
 Baldness is come upon Gaza; Ashkelon was thrown away, and the remnant of \[the\] Anakim. 
-<small><sub>**KJV:**</sub></small>
-Baldness is come upon Gaza; Ashkelon is cut off [with] the remnant of their valley: how long wilt thou cut thyself?
-<small><sub>**BSB:**</sub></small>
-The people of Gaza will shave their heads in mourning; Ashkelon will be silenced. O remnant of their valley, how long will you gash yourself?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.47.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.47.4|<< Jeremiah 47:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.6|Jeremiah 47:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:5** 
 <small><sub>**LXX:**</sub></small>
 And my sheep were scattered on account of \[there\] not being shepherds; and \[my sheep\] became for a thing devoured by all the wild beasts of the field. 
-<small><sub>**KJV:**</sub></small>
-And they were scattered, because [there is] no shepherd: and they became meat to all the beasts of the field, when they were scattered.
-<small><sub>**BSB:**</sub></small>
-They were scattered for lack of a shepherd, and when they were scattered they became food for all the wild beasts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.4|<< Ezekiel 34:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.6|Ezekiel 34:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 34:5** is...

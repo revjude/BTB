@@ -1,4 +1,4 @@
-**Job 28:22** 
+**Job 28:22**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Destruction and death say, We have heard the fame thereof with our ears.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Abaddon and Death say, ‘We have heard a rumor about it.’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.21|<< Job 28:21]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.23|Job 28:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Abaddon  |**<big>&#8207;[[H0011\|אֲבַדּ֣וֹן]]&#8207; </big>**| 'a.va.Don<small><sup>[[HNtfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and death  |**<big>&#8207;[[H9002\|וָ֭]]&#8207;&#8207;[[H4194\|מָוֶת]]&#8207; </big>**| Va.<small><sup>[[HC]]</sup></small> ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

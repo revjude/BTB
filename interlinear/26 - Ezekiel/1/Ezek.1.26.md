@@ -1,4 +1,4 @@
-**Ezekiel 1:26** 
+**Ezekiel 1:26**<big><big>[[Ezek.1.22 The Divine Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And above the firmament that [was] over their heads [was] the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne [was] the likeness as the appearance of a man above upon it.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Above the expanse over their heads was the likeness of a throne with the appeara
 > $\quad$ referenced by: [[Rev.4.2|Rev 4:2-3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] from above  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4605\|מַּ֗עַל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> Ma.'al<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> the expanse  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H7549\|רָקִ֙יעַ֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ra.Ki.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

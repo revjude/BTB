@@ -1,4 +1,4 @@
-**Genesis 49:3** 
+**Genesis 49:3**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Reuben, thou [art] my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Reuben, you are my firstborn, my might, and the beginning of my strength, excell
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.2|<< Genesis 49:2]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.4|Genesis 49:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Reuben  |**<big>&#8207;[[H7205\|רְאוּבֵן֙]]&#8207; </big>**| re.'u.Ven<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] firstborn my  |**<big>&#8207;[[H1060\|בְּכֹ֣רִ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.Kho.r<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

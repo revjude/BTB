@@ -1,4 +1,4 @@
-**Ezekiel 28:24** 
+**Ezekiel 28:24**<big><big>[[Ezek.28.20 A Prophecy against Sidon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall be no more a pricking brier unto the house of Israel, nor [any] grieving thorn of all [that are] round about them, that despised them; and they shall know that I [am] the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the people of Israel will no longer face a pricking brier or a painful thorn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.23|<< Ezekiel 28:23]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.25|Ezekiel 28:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will belong  |**<big>&#8207;[[H1961\|יִהְיֶ֨ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

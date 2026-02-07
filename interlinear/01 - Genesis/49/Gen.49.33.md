@@ -1,4 +1,4 @@
-**Genesis 49:33** 
+**Genesis 49:33**<big><big>[[Gen.49.29 The Death of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When Jacob had finished instructing his sons, he pulled his feet into the bed an
 > $\quad$ referenced by: [[Acts.7.15|Acts 7:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he finished  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3615G\|יְכַ֤ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Khal<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹב֙]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 41:2** (41:3)
+**Psalms 41:2**<big><big>[[Ps.41.1 Victory over Betrayal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD will preserve him, and keep him alive; [and] he shall be blessed upon the earth: and thou wilt not deliver him unto the will of his enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will protect and preserve him; He will bless him in the land and refuse
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.41.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.41.1|<< Psalms 41:1]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.3|Psalms 41:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will keep him  |**<big>&#8207;[[H8104H\|יִשְׁמְרֵ֣]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| yish.me.Re.<small><sup>[[HVqi3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

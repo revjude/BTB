@@ -1,4 +1,4 @@
-**2 Kings 15:25** 
+**2 Kings 15:25**<big><big>[[2Kgs.15.23 Pekahiah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Pekah the son of Remaliah, a captain of his, conspired against him, and smote him in Samaria, in the palace of the king’s house, with Argob and Arieh, and with him fifty men of the Gileadites: and he killed him, and reigned in his room.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then his officer, Pekah son of Remaliah, conspired against him along with Argob,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.24|<< 2 Kings 15:24]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.26|2 Kings 15:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he conspired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7194\|יִּקְשֹׁ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Shor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on him  |**<big>&#8207;[[H5921A\|עָלָי]]&#8207;&#8207;[[H9033\|ו֩]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

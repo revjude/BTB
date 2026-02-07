@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:22** 
 <small><sub>**LXX:**</sub></small>
 For a fire burns away of  my rage; it shall be burned unto lower Hades; it shall devour \[the\] land, and  its produce; it shall blaze on \[the\] foundations of mountains. 
-<small><sub>**KJV:**</sub></small>
-For a fire is kindled in mine anger, and shall burn unto the lowest hell, and shall consume the earth with her increase, and set on fire the foundations of the mountains.
-<small><sub>**BSB:**</sub></small>
-For a fire has been kindled by My anger, and it burns to the depths of Sheol; it consumes the earth and its produce, and scorches the foundations of the mountains.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.21|<< Deuteronomy 32:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.23|Deuteronomy 32:23 >>]]</td></tr></table>
 
 | Translation | Greek |

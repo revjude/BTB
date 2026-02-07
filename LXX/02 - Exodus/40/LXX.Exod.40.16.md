@@ -1,10 +1,7 @@
 **LXX Exodus 40:16** 
 <small><sub>**LXX:**</sub></small>
 And Moses did all as much as \[the\] <span class="smallcaps">lord</span> gave charge to him -- thus he did. 
-<small><sub>**KJV:**</sub></small>
-Thus did Moses: according to all that the LORD commanded him, so did he.
-<small><sub>**BSB:**</sub></small>
-Moses did everything just as the LORD had commanded him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.15|<< Exodus 40:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.17|Exodus 40:17 >>]]</td></tr></table>
 
 | Translation | Greek |

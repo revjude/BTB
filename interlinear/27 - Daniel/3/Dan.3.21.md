@@ -1,4 +1,4 @@
-**Daniel 3:21** 
+**Daniel 3:21**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then these men were bound in their coats, their hosen, and their hats, and their [other] garments, and were cast into the midst of the burning fiery furnace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they were tied up, wearing robes, trousers, turbans, and other clothes, and t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.20|<< Daniel 3:20]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.22|Daniel 3:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֜יִן]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | men the  |**<big>&#8207;[[H1400\|גֻּבְרַיָּ֣]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| guv.rai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

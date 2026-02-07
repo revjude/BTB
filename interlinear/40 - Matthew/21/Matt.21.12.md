@@ -1,12 +1,12 @@
-**Matthew 21:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:12**<big><big>[[Matt.21.12 Jesus Cleanses the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves,
 <small><sub>**BSB:**</sub></small>
 Then Jesus entered the temple courts and drove out all who were buying and selling there. He overturned the tables of the money changers and the seats of those selling doves.
 <small><sub>**Literal:**</sub></small>
 And entered <the> Jesus into the temple <the> of God and cast out all those selling and buying in the temple, and the tables of the money changers He overturned and the seats of those selling the doves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.11|<< Matthew 21:11]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.13|Matthew 21:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | entered |**<big>[[G1525\|εἰσῆλθεν]]</big>**  |eisēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

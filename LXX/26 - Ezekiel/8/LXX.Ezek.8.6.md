@@ -1,10 +1,7 @@
 **LXX Ezekiel 8:6** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, O son of man, do you see what these do? \[the\] great lawless deeds which the house of Israel does here  to keep at a distance from  my holy places? And still you shall see greater lawless deeds. 
-<small><sub>**KJV:**</sub></small>
-He said furthermore unto me, Son of man, seest thou what they do? [even] the great abominations that the house of Israel committeth here, that I should go far off from my sanctuary? but turn thee yet again, [and] thou shalt see greater abominations.
-<small><sub>**BSB:**</sub></small>
-“Son of man,” He said to me, “do you see what they are doing—the great abominations that the house of Israel is committing—to drive Me far from My sanctuary? Yet you will see even greater abominations.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.5|<< Ezekiel 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.7|Ezekiel 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

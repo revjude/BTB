@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:15** 
 <small><sub>**LXX:**</sub></small>
 And bread from heaven you gave to them for their provision, and water from out of \[the\] rock you brought forth for them for their thirst. And you spoke to them to enter to inherit the land into which you stretched out  your hand to give to them. 
-<small><sub>**KJV:**</sub></small>
-And gavest them bread from heaven for their hunger, and broughtest forth water for them out of the rock for their thirst, and promisedst them that they should go in to possess the land which thou hadst sworn to give them.
-<small><sub>**BSB:**</sub></small>
-In their hunger You gave them bread from heaven; in their thirst You brought them water from the rock. You told them to go in and possess the land that You had sworn to give them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.14|<< Nehemiah 9:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.16|Nehemiah 9:16 >>]]</td></tr></table>
 
 | Translation | Greek |

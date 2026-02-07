@@ -1,4 +1,4 @@
-**Job 11:15** 
+**Job 11:15**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then indeed you will lift up your face without blemish; you will stand firm and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.14|<< Job 11:14]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.16|Job 11:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | then  |**<big>&#8207;[[H0227A\|אָ֤ז]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

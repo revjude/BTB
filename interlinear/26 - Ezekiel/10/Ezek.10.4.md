@@ -1,4 +1,4 @@
-**Ezekiel 10:4** 
+**Ezekiel 10:4**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the glory of the LORD went up from the cherub, [and stood] over the threshold of the house; and the house was filled with the cloud, and the court was full of the brightness of the LORD’S glory.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the glory of the LORD rose from above the cherubim and stood over the thres
 > $\quad$ referenced by: [[Rev.15.8|Rev 15:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it rose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7311A\|יָּ֤רָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.rom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] glory of  |**<big>&#8207;[[H3519\|כְּבוֹד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.Vod-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

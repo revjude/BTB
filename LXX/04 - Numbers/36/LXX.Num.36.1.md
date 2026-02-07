@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And came forward the rulers of the fathers' \[side\] of \[the\] tribes of \[the\] sons of Gilead, son of Machir, son of Manasseh, from the tribe of \[the\] sons of Joseph, and they spoke before Moses, and before Eleazar the priest, and before the rulers of \[the\] houses of \[the\] patrimony of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:
-<small><sub>**BSB:**</sub></small>
-Now the family heads of the clan of Gilead son of Machir son of Manasseh, one of the clans of Joseph, approached Moses and the leaders who were the heads of the Israelite families and addressed them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.36.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.34|<< Numbers 35:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.2|Numbers 36:2 >>]]</td></tr></table>
 
 | Translation | Greek |

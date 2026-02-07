@@ -1,4 +1,4 @@
-**Proverbs 26:16** 
+**Proverbs 26:16**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sluggard [is] wiser in his own conceit than seven men that can render a reason.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The slacker is wiser in his own eyes than seven men who answer discreetly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.15|<< Proverbs 26:15]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.17|Proverbs 26:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] wise  |**<big>&#8207;[[H2450\|חָכָ֣ם]]&#8207; </big>**| cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a sluggard  |**<big>&#8207;[[H6102\|עָצֵ֣ל]]&#8207; </big>**| 'a.Tzel<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

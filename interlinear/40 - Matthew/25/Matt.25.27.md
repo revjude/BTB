@@ -1,12 +1,12 @@
-**Matthew 25:27
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:27**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thou oughtest therefore to have put my money to the exchangers, and [then] at my coming I should have received mine own with usury.
 <small><sub>**BSB:**</sub></small>
 Then you should have deposited my money with the bankers, and on my return I would have received it back with interest.
 <small><sub>**Literal:**</sub></small>
 It was necessary you therefore to put the coins of mine to the bankers, and having come I myself received then would <the> my own with interest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.26|<< Matthew 25:26]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.28|Matthew 25:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It was necessary |**<big>[[G1163\|ἔδει]]</big>**  |edei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|σε]]</big>**  |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:24** 
 <small><sub>**LXX:**</sub></small>
 And Michaiah said, Behold, you shall see in  that day in which you shall enter closet by closet  to hide. 
-<small><sub>**KJV:**</sub></small>
-And Micaiah said, Behold, thou shalt see on that day when thou shalt go into an inner chamber to hide thyself.
-<small><sub>**BSB:**</sub></small>
-Micaiah replied, “You will soon see, on that day when you go and hide in an inner room.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.23|<< 2 Chronicles 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.25|2 Chronicles 18:25 >>]]</td></tr></table>
 
 | Translation | Greek |

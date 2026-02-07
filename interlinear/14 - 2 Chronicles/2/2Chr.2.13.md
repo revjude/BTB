@@ -1,4 +1,4 @@
-**2 Chronicles 2:13** (2:12)
+**2 Chronicles 2:13**<big><big>[[2Chr.2.11 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now I have sent a cunning man, endued with understanding, of Huram my father’s,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now I am sending you Huram-abi, a skillful man endowed with creativity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.12|<< 2 Chronicles 2:12]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.14|2 Chronicles 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I send  |**<big>&#8207;[[H7971G\|שָׁלַ֧חְתִּי]]&#8207; </big>**| sha.Lach.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

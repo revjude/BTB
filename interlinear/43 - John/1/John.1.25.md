@@ -1,12 +1,12 @@
-**John 1:25
-**<small><sub>**KJV:**</sub></small>
+**John 1:25**<big><big>[[John.1.19 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?
 <small><sub>**BSB:**</sub></small>
 asked him, “Why then do you baptize, if you are not the Christ, nor Elijah, nor the Prophet?”
 <small><sub>**Literal:**</sub></small>
 And they asked him and they said to him; Why then baptize you if you yourself not are the Christ nor Elijah nor the prophet?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.24|<< John 1:24]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.26|John 1:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they asked |**<big>[[G2065\|ἠρώτησαν]]</big>**  |ērōtēsan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

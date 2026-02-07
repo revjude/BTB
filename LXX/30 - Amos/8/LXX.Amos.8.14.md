@@ -1,10 +1,7 @@
 **LXX Amos 8:14** 
 <small><sub>**LXX:**</sub></small>
 The ones swearing an oath according to the atonement of Samaria, and ones saying, Your God lives, O Dan; and  your God, O Beer-sheba. And they shall fall and in no way should they rise up again. 
-<small><sub>**KJV:**</sub></small>
-They that swear by the sin of Samaria, and say, Thy god, O Dan, liveth; and, The manner of Beersheba liveth; even they shall fall, and never rise up again.
-<small><sub>**BSB:**</sub></small>
-Those who swear by the guilt of Samaria and say, ‘As surely as your god lives, O Dan,’ or, ‘As surely as the way of Beersheba lives’—they will fall, never to rise again.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.8.13|<< Amos 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.1|Amos 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:35** 
 <small><sub>**LXX:**</sub></small>
 I am today a son of eighty years. Can I know between good and between bad? Shall your servant still taste what I shall eat or shall drink, \[no\]. Shall I hear still \[the\] voice of singing \[men\] and singing \[women\], \[no\]. Then why \[should\] your servant be a load upon  my master the king? 
-<small><sub>**KJV:**</sub></small>
-I [am] this day fourscore years old: [and] can I discern between good and evil? can thy servant taste what I eat or what I drink? can I hear any more the voice of singing men and singing women? wherefore then should thy servant be yet a burden unto my lord the king?
-<small><sub>**BSB:**</sub></small>
-I am now eighty years old. Can I discern what is good and what is not? Can your servant taste what he eats or drinks? Can I still hear the voice of singing men and women? Why should your servant be an added burden to my lord the king?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.34|<< 2 Samuel 19:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.36|2 Samuel 19:36 >>]]</td></tr></table>
 
 | Translation | Greek |

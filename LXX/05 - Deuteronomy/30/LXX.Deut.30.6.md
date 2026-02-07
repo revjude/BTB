@@ -1,10 +1,7 @@
 **LXX Deuteronomy 30:6** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> shall purge  your heart, and the heart  of your seed, to love \[the\] <span class="smallcaps">lord</span>  your God from your entire heart, and from your entire soul, that you should live. 
-<small><sub>**KJV:**</sub></small>
-And the LORD thy God will circumcise thine heart, and the heart of thy seed, to love the LORD thy God with all thine heart, and with all thy soul, that thou mayest live.
-<small><sub>**BSB:**</sub></small>
-The LORD your God will circumcise your hearts and the hearts of your descendants, and you will love Him with all your heart and with all your soul, so that you may live.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.30.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.5|<< Deuteronomy 30:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.7|Deuteronomy 30:7 >>]]</td></tr></table>
 
 | Translation | Greek |

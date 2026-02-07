@@ -1,4 +1,4 @@
-**2 Kings 10:35** 
+**2 Kings 10:35**<big><big>[[2Kgs.10.34 Jehoahaz Succeeds Jehu in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehu slept with his fathers: and they buried him in Samaria. And Jehoahaz his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Jehu rested with his fathers and was buried in Samaria, and his son Jehoahaz
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.34|<< 2 Kings 10:34]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.36|2 Kings 10:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lay down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901J\|יִּשְׁכַּ֤ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehu  |**<big>&#8207;[[H3058H\|יֵהוּא֙]]&#8207; </big>**| ye.Hu'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

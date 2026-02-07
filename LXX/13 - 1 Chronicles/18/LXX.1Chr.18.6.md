@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 18:6** 
 <small><sub>**LXX:**</sub></small>
 And David placed a detachment in Syria  near Damascus. And they were  to David as servants bringing gifts. And \[the\] <span class="smallcaps">lord</span> preserved David in all wherever he went. 
-<small><sub>**KJV:**</sub></small>
-Then David put [garrisons] in Syriadamascus; and the Syrians became David’s servants, [and] brought gifts. Thus the LORD preserved David whithersoever he went.
-<small><sub>**BSB:**</sub></small>
-Then he placed garrisons in Aram of Damascus, and the Arameans became subject to David and brought him tribute. So the LORD made David victorious wherever he went.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.5|<< 1 Chronicles 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.7|1 Chronicles 18:7 >>]]</td></tr></table>
 
 | Translation | Greek |

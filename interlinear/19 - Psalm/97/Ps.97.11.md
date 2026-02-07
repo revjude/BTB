@@ -1,4 +1,4 @@
-**Psalms 97:11** 
+**Psalms 97:11**<big><big>[[Ps.97.1 Let the Earth Rejoice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Light is sown for the righteous, and gladness for the upright in heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Light shines on the righteous, gladness on the upright in heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.97.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.10|<< Psalms 97:10]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.12|Psalms 97:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | light  |**<big>&#8207;[[H0216\|א֭וֹר]]&#8207; </big>**| 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] sown  |**<big>&#8207;[[H2232\|זָרֻ֣עַ]]&#8207; </big>**| za.Ru.a'<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

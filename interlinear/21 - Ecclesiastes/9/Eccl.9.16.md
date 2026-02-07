@@ -1,4 +1,4 @@
-**Ecclesiastes 9:16** 
+**Ecclesiastes 9:16**<big><big>[[Eccl.9.13 Wisdom Is Better than Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I, Wisdom [is] better than strength: nevertheless the poor man’s wisdom [is] despised, and his words are not heard.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I said, “Wisdom is better than strength, but the wisdom of the poor man is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.15|<< Ecclesiastes 9:15]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.17|Ecclesiastes 9:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I said  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַ֣רְתִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Mar.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אָ֔נִי]]&#8207; </big>**| 'A.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

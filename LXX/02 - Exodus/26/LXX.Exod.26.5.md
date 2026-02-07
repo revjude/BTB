@@ -1,10 +1,7 @@
 **LXX Exodus 26:5** 
 <small><sub>**LXX:**</sub></small>
 And fifty hooks you shall make for the one curtain, and fifty hooks you shall make for the part of the curtain corresponding to the coupling of the second, facing headlong into one another each. 
-<small><sub>**KJV:**</sub></small>
-Fifty loops shalt thou make in the one curtain, and fifty loops shalt thou make in the edge of the curtain that [is] in the coupling of the second; that the loops may take hold one of another.
-<small><sub>**BSB:**</sub></small>
-Make fifty loops on one curtain and fifty loops on the end curtain of the second set, so that the loops line up opposite one another.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.4|<< Exodus 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.6|Exodus 26:6 >>]]</td></tr></table>
 
 | Translation | Greek |

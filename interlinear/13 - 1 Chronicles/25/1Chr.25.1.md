@@ -1,4 +1,4 @@
-**1 Chronicles 25:1** 
+**1 Chronicles 25:1**<big><big>[[1Chr.25.1 Twenty-Four Divisions of Musicians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Additionally, David and the commanders of the army set apart some of the sons of
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.25.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.31|<< 1 Chronicles 24:31]]</td><td align="center" style="border:none;">[[1Chr.25|1 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.25.2|1 Chronicles 25:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he separated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0914\|יַּבְדֵּ֣ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yav.Del<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִיד֩]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

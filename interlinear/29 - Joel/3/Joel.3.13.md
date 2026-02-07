@@ -1,4 +1,4 @@
-**Joel 3:13** (4:13)
+**Joel 3:13**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Put ye in the sickle, for the harvest is ripe: come, get you down; for the press is full, the fats overflow; for their wickedness [is] great.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Swing the sickle, for the harvest is ripe. Come, trample the grapes, for the win
 > $\quad$ referenced by: [[Mark.4.29|Mark 4:29]] ☩ [[Rev.14.15|Rev 14:15]] ☩ [[Rev.14.19|Rev 14:19-20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | send out  |**<big>&#8207;[[H7971K\|שִׁלְח֣וּ]]&#8207; </big>**| shil.Chu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sickle  |**<big>&#8207;[[H4038\|מַגָּ֔ל]]&#8207; </big>**| ma.Gal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

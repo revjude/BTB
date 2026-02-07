@@ -1,12 +1,12 @@
-**1 Peter 3:17
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:17**<big><big>[[1Pet.3.14 Suffering for Righteousness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For [it is] better, if the will of God be so, that ye suffer for well doing, than for evil doing.
 <small><sub>**BSB:**</sub></small>
 For it is better, if it is God’s will, to suffer for doing good than for doing evil.
 <small><sub>**Literal:**</sub></small>
 [It is] better for doing good if one would desire the will <the> of God, to suffer than doing evil;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.16|<< 1 Peter 3:16]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.18|1 Peter 3:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [It is] better |**<big>[[G2908\|κρεῖττον]]</big>**  |kreitton <small><sup>[[A-NSN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

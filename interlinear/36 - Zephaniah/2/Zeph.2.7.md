@@ -1,4 +1,4 @@
-**Zephaniah 2:7** 
+**Zephaniah 2:7**<big><big>[[Zeph.2.4 Judgment on the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the LORD their God shall visit them, and turn away their captivity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The coast will belong to the remnant of the house of Judah; there they will find
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.6|<< Zephaniah 2:6]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.8|Zephaniah 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will belong  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָ֣יָה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ha.yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] region  |**<big>&#8207;[[H2256M\|חֶ֗בֶל]]&#8207; </big>**| Che.vel<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

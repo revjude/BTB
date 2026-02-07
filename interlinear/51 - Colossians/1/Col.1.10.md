@@ -1,12 +1,12 @@
-**Colossians 1:10
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:10**<big><big>[[Col.1.3 Thanksgiving and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;
 <small><sub>**BSB:**</sub></small>
 so that you may walk in a manner worthy of the Lord and may please Him in every way: bearing fruit in every good work, growing in the knowledge of God,
 <small><sub>**Literal:**</sub></small>
 to walk you worthily of the Lord in all pleasing in every work good bringing forth fruit and growing into <the> knowledge <the> of God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.9|<< Colossians 1:9]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.11|Colossians 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to walk |**<big>[[G4043\|περιπατῆσαι]]</big>**  |peripatēsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

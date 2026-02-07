@@ -1,4 +1,4 @@
-**Job 8:16** 
+**Job 8:16**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He [is] green before the sun, and his branch shooteth forth in his garden.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is a well-watered plant in the sunshine, spreading its shoots over the garden
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.15|<< Job 8:15]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.17|Job 8:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a fresh [plant]  |**<big>&#8207;[[H7373\|רָטֹ֣ב]]&#8207; </big>**| ra.To<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he  |**<big>&#8207;[[H1931\|ה֭וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

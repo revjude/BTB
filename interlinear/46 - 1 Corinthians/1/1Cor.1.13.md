@@ -1,12 +1,12 @@
-**1 Corinthians 1:13
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:13**<big><big>[[1Cor.1.10 Unity in the Church|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?
 <small><sub>**BSB:**</sub></small>
 Is Christ divided? Was Paul crucified for you? Were you baptized into the name of Paul?
 <small><sub>**Literal:**</sub></small>
 Has been divided <the> Christ? Surely not Paul was crucified for you? Or into the name of Paul were you baptized?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.12|<< 1 Corinthians 1:12]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.14|1 Corinthians 1:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Has been divided |**<big>[[G3307\|μεμέρισται]]</big>**  |memeristai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

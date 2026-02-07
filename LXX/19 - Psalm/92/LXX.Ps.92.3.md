@@ -1,10 +1,7 @@
 **LXX Psalm 92:3** 
 <small><sub>**LXX:**</sub></small>
 on \[the\] ten-stringed psaltery, with an ode on \[the\] harp. 
-<small><sub>**KJV:**</sub></small>
-Upon an instrument of ten strings, and upon the psaltery; upon the harp with a solemn sound.
-<small><sub>**BSB:**</sub></small>
-with the ten-stringed harp and the melody of the lyre.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.92.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.92.2|<< Psalm 92:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.92.4|Psalm 92:4 >>]]</td></tr></table>
 
 | Translation | Greek |

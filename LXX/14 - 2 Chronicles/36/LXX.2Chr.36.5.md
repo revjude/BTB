@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 36:5** 
 <small><sub>**LXX:**</sub></small>
 Jehoiakim \[was\] a son being twenty and five years \[old\] in  his taking reign. And eleven years he reigned in Jerusalem. And he acted  wickedly before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Jehoiakim [was] twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did [that which was] evil in the sight of the LORD his God.
-<small><sub>**BSB:**</sub></small>
-Jehoiakim was twenty-five years old when he became king, and he reigned in Jerusalem eleven years. And he did evil in the sight of the LORD his God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.36.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.4|<< 2 Chronicles 36:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.6|2 Chronicles 36:6 >>]]</td></tr></table>
 
 | Translation | Greek |

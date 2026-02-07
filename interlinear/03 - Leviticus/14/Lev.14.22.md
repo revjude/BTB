@@ -1,4 +1,4 @@
-**Leviticus 14:22** 
+**Leviticus 14:22**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And two turtledoves, or two young pigeons, such as he is able to get; and the one shall be a sin offering, and the other a burnt offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and two turtledoves or two young pigeons, whichever he can afford, one to be a s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.21|<< Leviticus 14:21]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.23|Leviticus 14:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and two  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8147\|שְׁתֵּ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | turtle-doves  |**<big>&#8207;[[H8449\|תֹרִ֗ים]]&#8207; </big>**| to.Rim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

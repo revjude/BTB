@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:7** 
 <small><sub>**LXX:**</sub></small>
 The fourth for the fourth month \[was\] Asahel the brother of Joab, and Zebadiah his son, and  his brethren after him; and in  his division \[were\] twenty and four thousand. 
-<small><sub>**KJV:**</sub></small>
-The fourth [captain] for the fourth month [was] Asahel the brother of Joab, and Zebadiah his son after him: and in his course [were] twenty and four thousand.
-<small><sub>**BSB:**</sub></small>
-The fourth, for the fourth month, was Joab’s brother Asahel, and his son Zebadiah was commander after him. There were 24,000 men in his division.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.6|<< 1 Chronicles 27:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.8|1 Chronicles 27:8 >>]]</td></tr></table>
 
 | Translation | Greek |

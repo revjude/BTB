@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:17** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span>, You shall not see wind, and you shall not see rain; but  this \[dry\] stream shall be filled \[with\] water, and you shall drink, you and  your possessions, and  your cattle. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD, Ye shall not see wind, neither shall ye see rain; yet that valley shall be filled with water, that ye may drink, both ye, and your cattle, and your beasts.
-<small><sub>**BSB:**</sub></small>
-For the LORD says, ‘You will not see wind or rain, but the valley will be filled with water, and you will drink—you and your cattle and your animals.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.16|<< 2 Kings 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.18|2 Kings 3:18 >>]]</td></tr></table>
 
 | Translation | Greek |

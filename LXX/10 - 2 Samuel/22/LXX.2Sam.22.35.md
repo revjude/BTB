@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:35** 
 <small><sub>**LXX:**</sub></small>
 teaching  my hands for war, and breaking \[the\] bow of brass by my arms. 
-<small><sub>**KJV:**</sub></small>
-He teacheth my hands to war; so that a bow of steel is broken by mine arms.
-<small><sub>**BSB:**</sub></small>
-He trains my hands for battle; my arms can bend a bow of bronze.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.34|<< 2 Samuel 22:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.36|2 Samuel 22:36 >>]]</td></tr></table>
 
 | Translation | Greek |

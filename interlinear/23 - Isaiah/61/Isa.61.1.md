@@ -1,4 +1,4 @@
-**Isaiah 61:1** 
+**Isaiah 61:1**<big><big>[[Isa.61.1 The Year of the LORD’s Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Spirit of the Lord GOD [is] upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to [them that are] bound;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The Spirit of the Lord GOD is on Me, because the LORD has anointed Me to preach 
 > $\quad$ referenced by: [[Matt.11.5|Matt 11:5]] ☩ [[Luke.4.18|Luke 4:18-19]] ☩ [[Luke.7.22|Luke 7:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] spirit of  |**<big>&#8207;[[H7307G\|ר֛וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

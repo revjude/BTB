@@ -1,10 +1,7 @@
 **LXX Psalm 18:7** 
 <small><sub>**LXX:**</sub></small>
 And it was shaken; and trembling took place on the earth; and the foundations of the mountains were disturbed and shaken; for God was provoked to anger by them. 
-<small><sub>**KJV:**</sub></small>
-Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was wroth.
-<small><sub>**BSB:**</sub></small>
-Then the earth shook and quaked, and the foundations of the mountains trembled; they were shaken because He burned with anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.6|<< Psalm 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.8|Psalm 18:8 >>]]</td></tr></table>
 
 | Translation | Greek |

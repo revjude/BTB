@@ -1,10 +1,7 @@
 **LXX 1 Samuel 31:5** 
 <small><sub>**LXX:**</sub></small>
 And the one carrying his weapons beheld that Saul died, and he fell also himself upon  his broadsword, and died with him. 
-<small><sub>**KJV:**</sub></small>
-And when his armourbearer saw that Saul was dead, he fell likewise upon his sword, and died with him.
-<small><sub>**BSB:**</sub></small>
-When his armor-bearer saw that Saul was dead, he too fell on his own sword and died with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.31.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.31.4|<< 1 Samuel 31:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.31.6|1 Samuel 31:6 >>]]</td></tr></table>
 
 | Translation | Greek |

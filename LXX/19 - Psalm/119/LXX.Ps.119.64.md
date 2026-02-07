@@ -1,10 +1,7 @@
 **LXX Psalm 119:64** 
 <small><sub>**LXX:**</sub></small>
  Of your mercy, O <span class="smallcaps">lord</span>, the earth \[is\] full;  teach me your ordinances! 
-<small><sub>**KJV:**</sub></small>
-The earth, O LORD, is full of thy mercy: teach me thy statutes.
-<small><sub>**BSB:**</sub></small>
-The earth is filled with Your loving devotion, O LORD; teach me Your statutes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.64|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.63|<< Psalm 119:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.65|Psalm 119:65 >>]]</td></tr></table>
 
 | Translation | Greek |

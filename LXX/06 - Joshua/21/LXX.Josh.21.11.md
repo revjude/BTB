@@ -1,10 +1,7 @@
 **LXX Joshua 21:11** 
 <small><sub>**LXX:**</sub></small>
 And they gave to them  Kirjath-arba, mother-city of the Anak (this is Hebron) in the mountain of Judah, and the outskirts of it round about it. 
-<small><sub>**KJV:**</sub></small>
-And they gave them the city of Arba the father of Anak, which [city is] Hebron, in the hill [country] of Judah, with the suburbs thereof round about it.
-<small><sub>**BSB:**</sub></small>
-They gave them Kiriath-arba (that is, Hebron), with its surrounding pasturelands, in the hill country of Judah. (Arba was the father of Anak.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.10|<< Joshua 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.12|Joshua 21:12 >>]]</td></tr></table>
 
 | Translation | Greek |

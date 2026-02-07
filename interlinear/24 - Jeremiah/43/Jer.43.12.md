@@ -1,4 +1,4 @@
-**Jeremiah 43:12** 
+**Jeremiah 43:12**<big><big>[[Jer.43.1 Jeremiah Taken to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will kindle a fire in the houses of the gods of Egypt; and he shall burn them, and carry them away captives: and he shall array himself with the land of Egypt, as a shepherd putteth on his garment; and he shall go forth from thence in peace.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will kindle a fire in the temples of the gods of Egypt, and Nebuchadnezzar wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.43.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.43.11|<< Jeremiah 43:11]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.13|Jeremiah 43:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will kindle  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3341\|הִצַּ֣תִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Tza.ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fire  |**<big>&#8207;[[H0784\|אֵ֗שׁ]]&#8207; </big>**| 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**2 Corinthians 1:3
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:3**<big><big>[[2Cor.1.3 The God of All Comfort|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Blessed [be] God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;
 <small><sub>**BSB:**</sub></small>
 Blessed be the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort,
 <small><sub>**Literal:**</sub></small>
 Blessed [be] the God and Father of the Lord of us Jesus Christ, the Father <the> of compassions and God of all comfort,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.2|<< 2 Corinthians 1:2]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.4|2 Corinthians 1:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Blessed [be] |**<big>[[G2128\|Εὐλογητὸς]]</big>**  |Eulogētos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

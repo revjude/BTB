@@ -1,4 +1,4 @@
-**Jeremiah 11:23** 
+**Jeremiah 11:23**<big><big>[[Jer.11.18 A Plot against Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall be no remnant of them: for I will bring evil upon the men of Anathoth, [even] the year of their visitation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There will be no remnant, for I will bring disaster on the people of Anathoth in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.22|<< Jeremiah 11:22]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.1|Jeremiah 12:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a remnant  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7611\|שְׁאֵרִ֕ית]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.'e.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

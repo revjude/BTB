@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:8** 
 <small><sub>**LXX:**</sub></small>
 Behold! I have delivered up before you the land. Having entered, inherit the land! which I swore by an oath \[to\] your fathers, \[to\] Abraham, and Isaac, and Jacob, to give to them and to their seed after them. 
-<small><sub>**KJV:**</sub></small>
-Behold, I have set the land before you: go in and possess the land which the LORD sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them.
-<small><sub>**BSB:**</sub></small>
-See, I have placed the land before you. Enter and possess the land that the LORD swore He would give to your fathers Abraham, Isaac, and Jacob, and to their descendants after them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.7|<< Deuteronomy 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.9|Deuteronomy 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

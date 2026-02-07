@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:24** 
 <small><sub>**LXX:**</sub></small>
 And Joab the \[son of\] Zeruiah began to count among the people, and he did not complete it. And anger against Israel happened because of this. And the number \[was\] not set down in writing in a scroll of \[the\] matters of the days  of king David. 
-<small><sub>**KJV:**</sub></small>
-Joab the son of Zeruiah began to number, but he finished not, because there fell wrath for it against Israel; neither was the number put in the account of the chronicles of king David.
-<small><sub>**BSB:**</sub></small>
-Joab son of Zeruiah began to count the men but did not finish. For because of this census wrath came upon Israel, and the number was not entered in the Book of the Chronicles of King David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.23|<< 1 Chronicles 27:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.25|1 Chronicles 27:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 8:34
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:34**<big><big>[[Mark.8.34 Take Up Your Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had called the people [unto him] with his disciples also, he said unto them, Whosoever will come after me, let him deny himself, and take up his cross, and follow me.
 <small><sub>**BSB:**</sub></small>
 Then Jesus called the crowd to Him along with His disciples, and He told them, “If anyone wants to come after Me, he must deny himself and take up his cross and follow Me.
 <small><sub>**Literal:**</sub></small>
 And having called to [Him] the crowd with the disciples of Him He said to them; If anyone desires after Me to follow, he should deny himself and he should take up the cross of him and he should follow Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.33|<< Mark 8:33]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.35|Mark 8:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having called to [Him] |**<big>[[G4341\|προσκαλεσάμενος]]</big>**  |proskalesamenos <small><sup>[[V-ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

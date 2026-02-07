@@ -1,10 +1,7 @@
 **LXX Exodus 22:24** 
 <small><sub>**LXX:**</sub></small>
 and I shall be provoked to anger with rage, and I will kill you \[by the\] sword, and your wives will be widows, and  your children orphans. 
-<small><sub>**KJV:**</sub></small>
-And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.
-<small><sub>**BSB:**</sub></small>
-My anger will be kindled, and I will kill you with the sword; then your wives will become widows and your children will be fatherless.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.23|<< Exodus 22:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.25|Exodus 22:25 >>]]</td></tr></table>
 
 | Translation | Greek |

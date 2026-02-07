@@ -1,12 +1,12 @@
-**Hebrews 8:6
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 8:6**<big><big>[[Heb.8.6 The New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.
 <small><sub>**BSB:**</sub></small>
 Now, however, Jesus has received a much more excellent ministry, just as the covenant He mediates is better and is founded on better promises.
 <small><sub>**Literal:**</sub></small>
 now however more excellent He has obtained a ministry, as much as also of a better He is covenant [the] mediator, which upon better promises has been enacted.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.5|<< Hebrews 8:5]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.7|Hebrews 8:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now [^1] |**<big>[[G3570\|νυνὶ]]</big>**  |nuni <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(o)</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

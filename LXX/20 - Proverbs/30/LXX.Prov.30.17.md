@@ -1,10 +1,7 @@
 **LXX Proverbs 30:17** 
 <small><sub>**LXX:**</sub></small>
 \[The\] eye ridiculing a father, and dishonoring \[the\] old age of a mother -- let \[the\] crows from the ravines cut it out, and \[the\] young of \[the\] eagles devour it. 
-<small><sub>**KJV:**</sub></small>
-The eye [that] mocketh at [his] father, and despiseth to obey [his] mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.
-<small><sub>**BSB:**</sub></small>
-As for the eye that mocks a father and scorns obedience to a mother, may the ravens of the valley pluck it out and young vultures devour it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.30.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.16|<< Proverbs 30:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.18|Proverbs 30:18 >>]]</td></tr></table>
 
 | Translation | Greek |

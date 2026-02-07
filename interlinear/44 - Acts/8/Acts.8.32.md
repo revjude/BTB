@@ -1,5 +1,5 @@
-**Acts 8:32
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:32**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The place of the scripture which he read was this, He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened he not his mouth:
 <small><sub>**BSB:**</sub></small>
 The eunuch was reading this passage of Scripture: “He was led like a sheep to the slaughter, and as a lamb before the shearer is silent, so He did not open His mouth.
@@ -10,7 +10,7 @@ The eunuch was reading this passage of Scripture: “He was led like a sheep to 
 > $\quad$ referencing: [[LXX.Isa.53.7|Isa 53:7-8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

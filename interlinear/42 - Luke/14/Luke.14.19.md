@@ -1,12 +1,12 @@
-**Luke 14:19
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:19**<big><big>[[Luke.14.15 The Parable of the Banquet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And another said, I have bought five yoke of oxen, and I go to prove them: I pray thee have me excused.
 <small><sub>**BSB:**</sub></small>
 Another said, ‘I have bought five yoke of oxen, and I am going to try them out. Please excuse me.’
 <small><sub>**Literal:**</sub></small>
 And another said; Yoke of oxen I have bought five and I am going to prove them; I beg of you do hold me excused.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.18|<< Luke 14:18]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.20|Luke 14:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | another |**<big>[[G2087\|ἕτερος]]</big>**  |heteros <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

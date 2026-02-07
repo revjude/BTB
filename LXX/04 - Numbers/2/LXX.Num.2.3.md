@@ -1,10 +1,7 @@
 **LXX Numbers 2:3** 
 <small><sub>**LXX:**</sub></small>
 And the ones camping first according to \[the\] east, in order, \[was the\] camp of Judah with their force. And the ruler of the sons of Judah \[was\] Nashon son of Amminadab. 
-<small><sub>**KJV:**</sub></small>
-And on the east side toward the rising of the sun shall they of the standard of the camp of Judah pitch throughout their armies: and Nahshon the son of Amminadab [shall be] captain of the children of Judah.
-<small><sub>**BSB:**</sub></small>
-On the east side, toward the sunrise, the divisions of Judah are to camp under their standard: The leader of the Judahites is Nahshon son of Amminadab,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.2|<< Numbers 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.4|Numbers 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

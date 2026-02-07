@@ -1,10 +1,7 @@
 **LXX Exodus 23:7** 
 <small><sub>**LXX:**</sub></small>
 From all things unjust you shall abstain. \[The\] innocent and \[the\] just you shall not kill. And you shall not give justice to the impious because of bribes. 
-<small><sub>**KJV:**</sub></small>
-Keep thee far from a false matter; and the innocent and righteous slay thou not: for I will not justify the wicked.
-<small><sub>**BSB:**</sub></small>
-Stay far away from a false accusation. Do not kill the innocent or the just, for I will not acquit the guilty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.6|<< Exodus 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.8|Exodus 23:8 >>]]</td></tr></table>
 
 | Translation | Greek |

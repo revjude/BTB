@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:12** 
 <small><sub>**LXX:**</sub></small>
 And Jehoshaphat said, \[The\] word \[of the\] <span class="smallcaps">lord</span> is with him. And \[the\] king of Israel went down to him, and Jehoshaphat king of Judah, and the king of Edom. 
-<small><sub>**KJV:**</sub></small>
-And Jehoshaphat said, The word of the LORD is with him. So the king of Israel and Jehoshaphat and the king of Edom went down to him.
-<small><sub>**BSB:**</sub></small>
-Jehoshaphat affirmed, “The word of the LORD is with him.” So the king of Israel and Jehoshaphat and the king of Edom went down to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.11|<< 2 Kings 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.13|2 Kings 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

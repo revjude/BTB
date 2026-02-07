@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 5:4** 
 <small><sub>**LXX:**</sub></small>
 As when you vow a vow  to God, you should not pass time  to render it, for \[his\] will is not in foolish \[vows\]. You then, as much as you should have vowed, render! 
-<small><sub>**KJV:**</sub></small>
-When thou vowest a vow unto God, defer not to pay it; for [he hath] no pleasure in fools: pay that which thou hast vowed.
-<small><sub>**BSB:**</sub></small>
-When you make a vow to God, do not delay in fulfilling it, because He takes no pleasure in fools. Fulfill your vow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.3|<< Ecclesiastes 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.5|Ecclesiastes 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

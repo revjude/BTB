@@ -1,10 +1,7 @@
 **LXX Proverbs 24:16** 
 <small><sub>**LXX:**</sub></small>
 For seven times the just shall fall, and rise up; but the impious will weaken in evils. 
-<small><sub>**KJV:**</sub></small>
-For a just [man] falleth seven times, and riseth up again: but the wicked shall fall into mischief.
-<small><sub>**BSB:**</sub></small>
-For though a righteous man may fall seven times, he still gets up; but the wicked stumble in bad times.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.15|<< Proverbs 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.17|Proverbs 24:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Leviticus 4:20** 
+**Leviticus 4:20**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall do with the bullock as he did with the bullock for a sin offering, so shall he do with this: and the priest shall make an atonement for them, and it shall be forgiven them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He shall offer this bull just as he did the bull for the sin offering; in this w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.19|<< Leviticus 4:19]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.21|Leviticus 4:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will do  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשָׂ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Sah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the bull  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6499\|פָּ֔ר]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Par<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

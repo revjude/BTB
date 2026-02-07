@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:18** 
 <small><sub>**LXX:**</sub></small>
 And I gave charge to you at  that time all the words which you shall do. 
-<small><sub>**KJV:**</sub></small>
-And I commanded you at that time all the things which ye should do.
-<small><sub>**BSB:**</sub></small>
-And at that time I commanded you all the things you were to do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.17|<< Deuteronomy 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.19|Deuteronomy 1:19 >>]]</td></tr></table>
 
 | Translation | Greek |

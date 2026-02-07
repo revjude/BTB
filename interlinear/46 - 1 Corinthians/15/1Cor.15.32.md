@@ -1,5 +1,5 @@
-**1 Corinthians 15:32
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:32**<big><big>[[1Cor.15.20 The Order of Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die.
 <small><sub>**BSB:**</sub></small>
 If I fought wild beasts in Ephesus for human motives, what did I gain? If the dead are not raised, “Let us eat and drink, for tomorrow we die.”
@@ -10,7 +10,7 @@ If according to man I fought wild beasts in Ephesus, what to me the profit? If [
 > $\quad$ referencing: [[LXX.Isa.22.13|Isa 22:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | according to |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

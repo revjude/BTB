@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Take heed to yourself! that you should not forget \[the\] <span class="smallcaps">lord</span>  your God, so as to not guard  his commandments, and  his judgments, and  his ordinances, as many as I give charge to you today; 
-<small><sub>**KJV:**</sub></small>
-Beware that thou forget not the LORD thy God, in not keeping his commandments, and his judgments, and his statutes, which I command thee this day:
-<small><sub>**BSB:**</sub></small>
-Be careful not to forget the LORD your God by failing to keep His commandments and ordinances and statutes, which I am giving you this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.10|<< Deuteronomy 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.12|Deuteronomy 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

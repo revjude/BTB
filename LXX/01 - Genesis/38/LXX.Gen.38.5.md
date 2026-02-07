@@ -1,10 +1,7 @@
 **LXX Genesis 38:5** 
 <small><sub>**LXX:**</sub></small>
 And adding she bore a son, and she called  his name, Shelah. And she was in Chezib when she bore them. 
-<small><sub>**KJV:**</sub></small>
-And she yet again conceived, and bare a son; and called his name Shelah: and he was at Chezib, when she bare him.
-<small><sub>**BSB:**</sub></small>
-Then she gave birth to another son and named him Shelah; it was at Chezib that she gave birth to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.4|<< Genesis 38:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.6|Genesis 38:6 >>]]</td></tr></table>
 
 | Translation | Greek |

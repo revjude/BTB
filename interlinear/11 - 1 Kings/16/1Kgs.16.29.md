@@ -1,4 +1,4 @@
-**1 Kings 16:29** 
+**1 Kings 16:29**<big><big>[[1Kgs.16.29 Ahab Reigns in Israel, Marries Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the thirty and eighth year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria twenty and two years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the thirty-eighth year of Asa’s reign over Judah, Ahab son of Omri became k
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.28|<< 1 Kings 16:28]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.30|1 Kings 16:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Ahab  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0256G\|אַחְאָ֣ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ach.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

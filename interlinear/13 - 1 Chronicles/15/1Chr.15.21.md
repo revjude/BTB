@@ -1,4 +1,4 @@
-**1 Chronicles 15:21** 
+**1 Chronicles 15:21**<big><big>[[1Chr.15.14 The Priests and Levites Carry the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, and Azaziah, with harps on the Sheminith to excel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah were to lead
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.20|<< 1 Chronicles 15:20]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.22|1 Chronicles 15:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Mattithiah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4993H\|מַתִּתְיָ֣הוּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.tit.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Eliphelehu  |**<big>&#8207;[[H9002\|וֶ]]&#8207;&#8207;[[H0466\|אֱלִֽיפְלֵ֗הוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.li.fe.Le.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

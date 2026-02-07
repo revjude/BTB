@@ -1,10 +1,7 @@
 **LXX Daniel 3:10** 
 <small><sub>**LXX:**</sub></small>
 You O king established a decree, Every man who ever should hear the sound of the trumpet, even flute and harp, even sambuke and psaltery, and harmony of sound, and every kind of music, 
-<small><sub>**KJV:**</sub></small>
-Thou, O king, hast made a decree, that every man that shall hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, shall fall down and worship the golden image:
-<small><sub>**BSB:**</sub></small>
-You, O king, have issued a decree that everyone who hears the sound of the horn, flute, zither, lyre, harp, pipes, and all kinds of music must fall down and worship the golden statue,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.9|<< Daniel 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.11|Daniel 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

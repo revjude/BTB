@@ -1,4 +1,4 @@
-**Isaiah 62:10** 
+**Isaiah 62:10**<big><big>[[Isa.62.1 Zion’s Salvation and New Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go through, go through the gates; prepare ye the way of the people; cast up, cast up the highway; gather out the stones; lift up a standard for the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go out, go out through the gates; prepare the way for the people! Build it up, b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.62.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.9|<< Isaiah 62:9]]</td><td align="center" style="border:none;">[[Isa.62|Isaiah 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.11|Isaiah 62:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pass  |**<big>&#8207;[[H5674A\|עִבְר֤וּ]]&#8207; </big>**| 'iv.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | pass  |**<big>&#8207;[[H5674A\|עִבְרוּ֙]]&#8207; </big>**| 'iv.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

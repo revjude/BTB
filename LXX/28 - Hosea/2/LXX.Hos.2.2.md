@@ -1,10 +1,7 @@
 **LXX Hosea 2:2** 
 <small><sub>**LXX:**</sub></small>
 Plead with  your mother! Plead! for she \[is\] not my wife, and I \[am\] not her husband. And I will lift away  her harlotry from in front of me, and  her adultery from between  her breasts; 
-<small><sub>**KJV:**</sub></small>
-Plead with your mother, plead: for she [is] not my wife, neither [am] I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts;
-<small><sub>**BSB:**</sub></small>
-Rebuke your mother, rebuke her, for she is not My wife, and I am not her husband. Let her remove the adultery from her face and the unfaithfulness from between her breasts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.1|<< Hosea 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.3|Hosea 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

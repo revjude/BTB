@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:3** 
 <small><sub>**LXX:**</sub></small>
 Thus says Adonai \[the\] <span class="smallcaps">lord</span>; And I will put my net upon you by an assembly of many peoples; and I will lead you by  my hook. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; I will therefore spread out my net over thee with a company of many people; and they shall bring thee up in my net.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: ‘I will spread My net over you with a company of many peoples, and they will draw you up in My net.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.2|<< Ezekiel 32:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.4|Ezekiel 32:4 >>]]</td></tr></table>
 
 | Translation | Greek |

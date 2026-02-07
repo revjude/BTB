@@ -1,12 +1,12 @@
-**Luke 18:5
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:5**<big><big>[[Luke.18.1 The Parable of the Persistent Widow|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me.
 <small><sub>**BSB:**</sub></small>
 yet because this widow keeps pestering me, I will give her justice. Otherwise, she will wear me out with her perpetual requests.’”
 <small><sub>**Literal:**</sub></small>
 because yet it occasioning me trouble <the> widow this I will avenge her, so that not to end coming she may exhaust me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.4|<< Luke 18:4]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.6|Luke 18:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G1223\|διά]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | yet |**<big>[[G1065\|γε]]</big>**  |ge <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

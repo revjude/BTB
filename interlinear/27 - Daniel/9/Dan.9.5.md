@@ -1,4 +1,4 @@
-**Daniel 9:5** 
+**Daniel 9:5**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from thy precepts and from thy judgments:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ we have sinned and done wrong. We have acted wickedly and rebelled. We have turn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.4|<< Daniel 9:4]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.6|Daniel 9:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we have sinned  |**<big>&#8207;[[H2398\|חָטָ֥אנוּ]]&#8207; </big>**| cha.Ta.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and we have committed iniquity  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5753B\|עָוִ֖ינוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Vi.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Colossians 2:6
-**<small><sub>**KJV:**</sub></small>
+**Colossians 2:6**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As ye have therefore received Christ Jesus the Lord, [so] walk ye in him:
 <small><sub>**BSB:**</sub></small>
 Therefore, just as you have received Christ Jesus as Lord, continue to walk in Him,
 <small><sub>**Literal:**</sub></small>
 Just as therefore you have received <the> Christ Jesus the Lord, in Him do walk<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.5|<< Colossians 2:5]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.7|Colossians 2:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Just as |**<big>[[G5613\|Ὡς]]</big>**  |Hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

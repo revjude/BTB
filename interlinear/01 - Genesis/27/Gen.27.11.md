@@ -1,4 +1,4 @@
-**Genesis 27:11** 
+**Genesis 27:11**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob said to Rebekah his mother, Behold, Esau my brother [is] a hairy man, and I [am] a smooth man:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Jacob answered his mother Rebekah, “Look, my brother Esau is a hairy man, but 
 > $\quad$ referenced by: [[Heb.11.9|Heb 11:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֔ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

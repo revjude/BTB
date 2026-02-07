@@ -1,10 +1,7 @@
 **LXX Isaiah 66:18** 
 <small><sub>**LXX:**</sub></small>
 And I  know their works and their device. And I come to bring together all the nations, and the tongues. And they shall come and shall see  my glory. 
-<small><sub>**KJV:**</sub></small>
-For I [know] their works and their thoughts: it shall come, that I will gather all nations and tongues; and they shall come, and see my glory.
-<small><sub>**BSB:**</sub></small>
-“And I, knowing their deeds and thoughts, am coming to gather all nations and tongues, and they will come and see My glory.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.17|<< Isaiah 66:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.19|Isaiah 66:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 24:3** 
 <small><sub>**LXX:**</sub></small>
 And a beast of burden of orphans they took away, and oxen of widows for security. 
-<small><sub>**KJV:**</sub></small>
-They drive away the ass of the fatherless, they take the widow’s ox for a pledge.
-<small><sub>**BSB:**</sub></small>
-They drive away the donkey of the fatherless and take the widow’s ox in pledge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.24.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.2|<< Job 24:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.4|Job 24:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 7:5** 
 <small><sub>**LXX:**</sub></small>
 And all the Egyptians shall know that I am \[the\] <span class="smallcaps">lord</span>, stretching out  my hand against Egypt; and I will lead the sons of Israel from their midst. 
-<small><sub>**KJV:**</sub></small>
-And the Egyptians shall know that I [am] the LORD, when I stretch forth mine hand upon Egypt, and bring out the children of Israel from among them.
-<small><sub>**BSB:**</sub></small>
-And the Egyptians will know that I am the LORD, when I stretch out My hand against Egypt and bring the Israelites out from among them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.4|<< Exodus 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.6|Exodus 7:6 >>]]</td></tr></table>
 
 | Translation | Greek |

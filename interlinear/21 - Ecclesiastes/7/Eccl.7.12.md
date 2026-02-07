@@ -1,4 +1,4 @@
-**Ecclesiastes 7:12** 
+**Ecclesiastes 7:12**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For wisdom [is] a defence, [and] money [is] a defence: but the excellency of knowledge [is, that] wisdom giveth life to them that have it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For wisdom, like money, is a shelter, and the advantage of knowledge is that wis
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.11|<< Ecclesiastes 7:11]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.13|Ecclesiastes 7:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] \<in> a shade  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6738\|צֵ֥ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tzel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

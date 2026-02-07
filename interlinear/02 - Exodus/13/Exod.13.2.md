@@ -1,4 +1,4 @@
-**Exodus 13:2** 
+**Exodus 13:2**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, [both] of man and of beast: it [is] mine.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Sanctify unto me all the firstborn, whatsoever openeth the womb among the childr
 > $\quad$ referenced by: [[Luke.2.23|Luke 2:23]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | consecrate  |**<big>&#8207;[[H6942H\|קַדֶּשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ka.desh-<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H9005\|לִ֨]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

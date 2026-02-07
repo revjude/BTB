@@ -1,10 +1,7 @@
 **LXX Psalm 44:16** 
 <small><sub>**LXX:**</sub></small>
 \[even\] from \[the\] voice of \[the\] one berating and speaking improperly from in front \[of the\] enemy and \[the\] one banishing. 
-<small><sub>**KJV:**</sub></small>
-For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger.
-<small><sub>**BSB:**</sub></small>
-at the voice of the scorner and reviler, because of the enemy, bent on revenge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.44.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.15|<< Psalm 44:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.17|Psalm 44:17 >>]]</td></tr></table>
 
 | Translation | Greek |

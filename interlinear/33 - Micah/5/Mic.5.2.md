@@ -1,4 +1,4 @@
-**Micah 5:2** (5:1)
+**Micah 5:2**<big><big>[[Mic.5.1 A Ruler from Bethlehem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou, Bethlehem Ephratah, [though] thou be little among the thousands of Judah, [yet] out of thee shall he come forth unto me [that is] to be ruler in Israel; whose goings forth [have been] from of old, from everlasting.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But you, Bethlehem Ephrathah, who are small among the clans of Judah, out of you
 > $\quad$ referenced by: [[Matt.2.6|Matt 2:6]] ☩ [[John.7.42|John 7:42]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֞ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Beth-  |**<big>&#8207;[[H1035G\|בֵּֽית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

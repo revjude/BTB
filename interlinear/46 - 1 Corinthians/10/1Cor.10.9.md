@@ -1,5 +1,5 @@
-**1 Corinthians 10:9
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:9**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.
 <small><sub>**BSB:**</sub></small>
 We should not test Christ, as some of them did, and were killed by snakes.
@@ -10,7 +10,7 @@ Neither shall we test the Christ even as and some of them tested, and by <the> s
 > $\quad$ alluding to: [[LXX.Num.21.6|Num 21:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Neither |**<big>[[G3366\|μηδὲ]]</big>**  |mēde <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | shall we test |**<big>[[G1598\|ἐκπειράζωμεν]]</big>**  |ekpeirazōmen <small><sup>[[V-PAS-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

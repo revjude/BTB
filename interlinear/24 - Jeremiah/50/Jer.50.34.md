@@ -1,4 +1,4 @@
-**Jeremiah 50:34** 
+**Jeremiah 50:34**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their Redeemer [is] strong; the LORD of hosts [is] his name: he shall throughly plead their cause, that he may give rest to the land, and disquiet the inhabitants of Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their Redeemer is strong; the LORD of Hosts is His name. He will fervently plead
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.33|<< Jeremiah 50:33]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.35|Jeremiah 50:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | redeemer their  |**<big>&#8207;[[H1350A\|גֹּאֲלָ֣]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| go.'a.La<small><sup>[[HVqrmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] strong  |**<big>&#8207;[[H2389\|חָזָ֗ק]]&#8207; </big>**| cha.Zak<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

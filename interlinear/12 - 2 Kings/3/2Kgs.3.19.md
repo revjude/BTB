@@ -1,4 +1,4 @@
-**2 Kings 3:19** 
+**2 Kings 3:19**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall smite every fenced city, and every choice city, and shall fell every good tree, and stop all wells of water, and mar every good piece of land with stones.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you shall attack every fortified city and every city of importance. You shal
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.18|<< 2 Kings 3:18]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.20|2 Kings 3:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will strike down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5221\|הִכִּיתֶ֞ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.ki.Tem<small><sup>[[HVhq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

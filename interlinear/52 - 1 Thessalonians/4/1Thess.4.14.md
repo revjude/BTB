@@ -1,12 +1,12 @@
-**1 Thessalonians 4:14
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 4:14**<big><big>[[1Thess.4.13 The Return of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.
 <small><sub>**BSB:**</sub></small>
 For since we believe that Jesus died and rose again, we also believe that God will bring with Jesus those who have fallen asleep in Him.
 <small><sub>**Literal:**</sub></small>
 If for we believe that Jesus died and rose again, so also <the> God those having fallen asleep through <the> Jesus will bring with Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.13|<< 1 Thessalonians 4:13]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.15|1 Thessalonians 4:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

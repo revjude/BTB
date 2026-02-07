@@ -1,4 +1,4 @@
-**Joshua 22:18** 
+**Joshua 22:18**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But that ye must turn away this day from following the LORD? and it will be, [seeing] ye rebel to day against the LORD, that to morrow he will be wroth with the whole congregation of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And now, would you turn away from the LORD? If you rebel today against the LORD,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.17|<< Joshua 22:17]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.19|Joshua 22:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859D\|אַתֶּם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you are turning away  |**<big>&#8207;[[H7725G\|תָּשֻׁ֣בוּ]]&#8207; </big>**| ta.Shu.vu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

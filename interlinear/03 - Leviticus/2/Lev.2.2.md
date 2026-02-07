@@ -1,4 +1,4 @@
-**Leviticus 2:2** 
+**Leviticus 2:2**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall bring it to Aaron’s sons the priests: and he shall take thereout his handful of the flour thereof, and of the oil thereof, with all the frankincense thereof; and the priest shall burn the memorial of it upon the altar, [to be] an offering made by fire, of a sweet savour unto the LORD:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and bring it to Aaron’s sons the priests. The priest shall take a handful of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.1|<< Leviticus 2:1]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.3|Leviticus 2:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will bring it  |**<big>&#8207;[[H9001\|וֶֽ]]&#8207;&#8207;[[H0935P\|הֱבִיאָ֗]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.vi.'A<small><sup>[[HVhq3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

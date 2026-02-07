@@ -1,5 +1,5 @@
-**Acts 7:40
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:40**<big><big>[[Acts.7.39 The Rebellion of Israel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying unto Aaron, Make us gods to go before us: for [as for] this Moses, which brought us out of the land of Egypt, we wot not what is become of him.
 <small><sub>**BSB:**</sub></small>
 They said to Aaron, ‘Make us gods who will go before us! As for this Moses who led us out of the land of Egypt, we do not know what has happened to him.’
@@ -10,7 +10,7 @@ having said <the> to Aaron; do make us gods who will go before us; <the> As for 
 > $\quad$ referencing: [[LXX.Exod.32.1|Exod 32:1]] ☩ [[LXX.Exod.32.23|Exod 32:23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having said |**<big>[[G2036\|εἰπόντες]]</big>**  |eipontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

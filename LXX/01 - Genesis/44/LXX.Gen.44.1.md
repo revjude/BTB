@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joseph gave charge to the one over  his house, saying, Fill the bags of the men \[with\] foods, as much as they are able to lift away. And put in each the silver at the mouth of the bag. 
-<small><sub>**KJV:**</sub></small>
-And he commanded the steward of his house, saying, Fill the men’s sacks [with] food, as much as they can carry, and put every man’s money in his sack’s mouth.
-<small><sub>**BSB:**</sub></small>
-Then Joseph instructed his steward: “Fill the men’s sacks with as much food as they can carry, and put each one’s silver in the mouth of his sack.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.43.34|<< Genesis 43:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.2|Genesis 44:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 16:4** 
 <small><sub>**LXX:**</sub></small>
 Their weaknesses were multiplied -- they \[that\] hastened after these \[gods\]. In no way shall I bring together the ones of their gathering for blood, nor in any way shall I mention  their names through my lips. 
-<small><sub>**KJV:**</sub></small>
-Their sorrows shall be multiplied [that] hasten [after] another [god]: their drink offerings of blood will I not offer, nor take up their names into my lips.
-<small><sub>**BSB:**</sub></small>
-Sorrows will multiply to those who chase other gods. I will not pour out their libations of blood, or speak their names with my lips.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.16.3|<< Psalm 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.16.5|Psalm 16:5 >>]]</td></tr></table>
 
 | Translation | Greek |

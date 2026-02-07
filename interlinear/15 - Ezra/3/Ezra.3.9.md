@@ -1,4 +1,4 @@
-**Ezra 3:9** 
+**Ezra 3:9**<big><big>[[Ezra.3.8 Temple Restoration Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then stood Jeshua [with] his sons and his brethren, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, [with] their sons and their brethren the Levites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jeshua and his sons and brothers, Kadmiel and his sons (descendants of Yehuda
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3.8|<< Ezra 3:8]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.10|Ezra 3:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stood  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975H\|יַּעֲמֹ֣ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jeshua  |**<big>&#8207;[[H3442J\|יֵשׁ֡וּעַ]]&#8207; </big>**| ye.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

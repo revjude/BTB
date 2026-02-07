@@ -1,10 +1,7 @@
 **LXX Job 37:22** 
 <small><sub>**LXX:**</sub></small>
 From \[the\] north \[are\] clouds shining like gold; in these the glory and honor from \[the\] almighty \[is\] great; 
-<small><sub>**KJV:**</sub></small>
-Fair weather cometh out of the north: with God [is] terrible majesty.
-<small><sub>**BSB:**</sub></small>
-Out of the north He comes in golden splendor; awesome majesty surrounds Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.37.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.21|<< Job 37:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.23|Job 37:23 >>]]</td></tr></table>
 
 | Translation | Greek |

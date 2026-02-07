@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 31:2** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah ordered the daily rotations of the priests and of the Levites, and the daily rotations of each according to  his ministration, to the priests and to the Levites, for the whole burnt-offering, and for the sacrifice  of deliverance, and  to praise, and to acknowledge, and to officiate at the gates in the courtyards of \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Hezekiah appointed the courses of the priests and the Levites after their courses, every man according to his service, the priests and Levites for burnt offerings and for peace offerings, to minister, and to give thanks, and to praise in the gates of the tents of the LORD.
-<small><sub>**BSB:**</sub></small>
-Hezekiah reestablished the divisions of the priests and Levites—each of them according to their duties as priests or Levites—for the burnt offerings and peace offerings, for ministry, for giving thanks, and for singing praises at the gates of the LORD’s dwelling.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.1|<< 2 Chronicles 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.3|2 Chronicles 31:3 >>]]</td></tr></table>
 
 | Translation | Greek |

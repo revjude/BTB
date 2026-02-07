@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:45** 
 <small><sub>**LXX:**</sub></small>
 Come forth from his midst my people, and let each deliver  his own life from \[the\] anger of \[the\] rage of \[the\] <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-My people, go ye out of the midst of her, and deliver ye every man his soul from the fierce anger of the LORD.
-<small><sub>**BSB:**</sub></small>
-Come out of her, My people! Save your lives, each of you, from the fierce anger of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.44|<< Jeremiah 51:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.46|Jeremiah 51:46 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 51:45** is...

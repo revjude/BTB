@@ -1,4 +1,4 @@
-**Song of Solomon 5:16** 
+**Song of Solomon 5:16**<big><big>[[Song.5.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His mouth [is] most sweet: yea, he [is] altogether lovely. This [is] my beloved, and this [is] my friend, O daughters of Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His mouth is most sweet; he is altogether lovely. This is my beloved, and this i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.15|<< Song of Solomon 5:15]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.1|Song of Solomon 6:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | mouth his  |**<big>&#8207;[[H2441\|חִכּ]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| chi.K<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] sweetness\<es>  |**<big>&#8207;[[H4477\|מַֽמְתַקִּ֔ים]]&#8207; </big>**| mam.ta.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

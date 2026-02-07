@@ -1,10 +1,7 @@
 **LXX Exodus 20:7** 
 <small><sub>**LXX:**</sub></small>
 You shall not take the name of \[the\] <span class="smallcaps">lord</span>  your God in vain.  For no \[way\] shall \[the\] <span class="smallcaps">lord</span> cleanse the \[one\] taking  his name in vain. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.
-<small><sub>**BSB:**</sub></small>
-You shall not take the name of the LORD your God in vain, for the LORD will not leave anyone unpunished who takes His name in vain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.6|<< Exodus 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.8|Exodus 20:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 20:7** is...

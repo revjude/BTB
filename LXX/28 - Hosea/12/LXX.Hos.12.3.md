@@ -1,10 +1,7 @@
 **LXX Hosea 12:3** 
 <small><sub>**LXX:**</sub></small>
 In the belly he caught the heel  of his brother; and in his toils he grew in strength with God. 
-<small><sub>**KJV:**</sub></small>
-He took his brother by the heel in the womb, and by his strength he had power with God:
-<small><sub>**BSB:**</sub></small>
-In the womb he grasped his brother’s heel, and in his vigor he wrestled with God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.2|<< Hosea 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.4|Hosea 12:4 >>]]</td></tr></table>
 
 | Translation | Greek |

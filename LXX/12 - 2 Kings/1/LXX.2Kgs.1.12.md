@@ -1,10 +1,7 @@
 **LXX 2 Kings 1:12** 
 <small><sub>**LXX:**</sub></small>
 And Elijah answered and said to him, If I \[am\] a man of God, fire shall come down from  heaven, and shall devour you and  your fifty. And there came down fire from  heaven and devoured him and  his fifty. 
-<small><sub>**KJV:**</sub></small>
-And Elijah answered and said unto them, If I [be] a man of God, let fire come down from heaven, and consume thee and thy fifty. And the fire of God came down from heaven, and consumed him and his fifty.
-<small><sub>**BSB:**</sub></small>
-Again Elijah replied, “If I am a man of God, may fire come down from heaven and consume you and your fifty men.” And the fire of God came down from heaven and consumed the captain and his fifty men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.11|<< 2 Kings 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.13|2 Kings 1:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Kings 1:12** is...

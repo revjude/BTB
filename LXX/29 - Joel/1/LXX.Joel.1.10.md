@@ -1,10 +1,7 @@
 **LXX Joel 1:10** 
 <small><sub>**LXX:**</sub></small>
 for the plains languish. Mourn, O earth, for \[the\] grain languishes! \[the\] wine was dried up, \[the\] olive oil lessened. 
-<small><sub>**KJV:**</sub></small>
-The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.
-<small><sub>**BSB:**</sub></small>
-The field is ruined; the land mourns. For the grain is destroyed, the new wine is dried up, and the oil fails.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.9|<< Joel 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.11|Joel 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

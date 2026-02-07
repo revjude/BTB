@@ -1,12 +1,12 @@
-**2 Thessalonians 3:8
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 3:8**<big><big>[[2Thess.3.6 A Warning against Idleness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither did we eat any man’s bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:
 <small><sub>**BSB:**</sub></small>
 nor did we eat anyone’s food without paying for it. Instead, in labor and toil, we worked night and day so that we would not be a burden to any of you.
 <small><sub>**Literal:**</sub></small>
 nor without payment bread did we eat from anyone, but in labor and hardship night and day working in order <the> not to be burdensome to any of you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.7|<< 2 Thessalonians 3:7]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.9|2 Thessalonians 3:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nor |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | without payment |**<big>[[G1432\|δωρεὰν]]</big>**  |dōrean <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

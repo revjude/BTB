@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:18** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>,  God of Abraham, and Isaac, and Israel, of the one of our fathers, keep of them the thing shaped \[of the\] thoughts of \[the\] heart of your people into the eon! and straighten out  their hearts to you! 
-<small><sub>**KJV:**</sub></small>
-O LORD God of Abraham, Isaac, and of Israel, our fathers, keep this for ever in the imagination of the thoughts of the heart of thy people, and prepare their heart unto thee:
-<small><sub>**BSB:**</sub></small>
-O LORD, God of our fathers Abraham, Isaac, and Israel, keep this desire forever in the intentions of the hearts of Your people, and direct their hearts toward You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.17|<< 1 Chronicles 29:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.19|1 Chronicles 29:19 >>]]</td></tr></table>
 
 | Translation | Greek |

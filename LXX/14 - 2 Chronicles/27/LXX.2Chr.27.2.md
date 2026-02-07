@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 27:2** 
 <small><sub>**LXX:**</sub></small>
 And he did the upright \[thing\] before \[the\] <span class="smallcaps">lord</span>, according to all which Uzziah his father did. Only into the temple of \[the\] <span class="smallcaps">lord</span> he did not enter, and yet the people corrupted \[themselves\]. 
-<small><sub>**KJV:**</sub></small>
-And he did [that which was] right in the sight of the LORD, according to all that his father Uzziah did: howbeit he entered not into the temple of the LORD. And the people did yet corruptly.
-<small><sub>**BSB:**</sub></small>
-And he did what was right in the eyes of the LORD, just as his father Uzziah had done. In addition, he did not enter the temple of the LORD. But the people still behaved corruptly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.27.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.27.1|<< 2 Chronicles 27:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.27.3|2 Chronicles 27:3 >>]]</td></tr></table>
 
 | Translation | Greek |

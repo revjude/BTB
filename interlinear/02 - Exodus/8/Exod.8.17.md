@@ -1,4 +1,4 @@
-**Exodus 8:17** (8:13)
+**Exodus 8:17**<big><big>[[Exod.8.16 The Third Plague：Gnats|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they did so; for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice in man, and in beast; all the dust of the land became lice throughout all the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This they did, and when Aaron stretched out his hand with his staff and struck t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.16|<< Exodus 8:16]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.18|Exodus 8:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּֽעֲשׂוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.su-<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so  |**<big>&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 77:9** 
 <small><sub>**LXX:**</sub></small>
 God forget to pity, or hold up his compassions in his anger? PAUSE. 
-<small><sub>**KJV:**</sub></small>
-Hath God forgotten to be gracious? hath he in anger shut up his tender mercies? Selah.
-<small><sub>**BSB:**</sub></small>
-Has God forgotten to be gracious? Has His anger shut off His compassion?” Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.77.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.8|<< Psalm 77:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.10|Psalm 77:10 >>]]</td></tr></table>
 
 | Translation | Greek |

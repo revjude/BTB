@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:24** 
 <small><sub>**LXX:**</sub></small>
 Behold, a multitude is come unto the city to seize it, and the city was given into \[the\] hands of Chaldeans  waging war against it, by \[the\] face of \[the\] sword, and famine, and pestilence. As you said so it happened; and behold, you see. 
-<small><sub>**KJV:**</sub></small>
-Behold the mounts, they are come unto the city to take it; and the city is given into the hand of the Chaldeans, that fight against it, because of the sword, and of the famine, and of the pestilence: and what thou hast spoken is come to pass; and, behold, thou seest [it].
-<small><sub>**BSB:**</sub></small>
-See how the siege ramps are mounted against the city to capture it. And by sword and famine and plague, the city has been given into the hands of the Chaldeans who are fighting against it. What You have spoken has happened, as You now see!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.23|<< Jeremiah 32:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.25|Jeremiah 32:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 4:3** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after \[some\] days, Cain brought from the fruits of the land a sacrifice to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD.
-<small><sub>**BSB:**</sub></small>
-So in the course of time, Cain brought some of the fruit of the soil as an offering to the LORD,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.2|<< Genesis 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.4|Genesis 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Kings 7:8** 
+**2 Kings 7:8**<big><big>[[2Kgs.7.3 The Syrians Flee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when these lepers came to the uttermost part of the camp, they went into one tent, and did eat and drink, and carried thence silver, and gold, and raiment, and went and hid [it]; and came again, and entered into another tent, and carried thence [also], and went and hid [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the lepers reached the edge of the camp, they went into a tent to eat and d
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.7|<< 2 Kings 7:7]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.9|2 Kings 7:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹאוּ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.vo.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [people] having a skin disease  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H6879\|מְצֹרָעִ֨ים]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.tzo.ra.'Im<small><sup>[[HVPsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

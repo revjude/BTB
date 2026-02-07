@@ -1,10 +1,7 @@
 **LXX Genesis 39:15** 
 <small><sub>**LXX:**</sub></small>
 And in  his hearing that my voice was raised, and I yelled, leaving behind  his clothes by me, he fled, and he went forth outside. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out.
-<small><sub>**BSB:**</sub></small>
-When he heard me scream for help, he left his cloak beside me and ran out of the house.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.14|<< Genesis 39:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.16|Genesis 39:16 >>]]</td></tr></table>
 
 | Translation | Greek |

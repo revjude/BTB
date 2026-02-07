@@ -1,12 +1,12 @@
-**Luke 7:39
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:39**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when the Pharisee which had bidden him saw [it], he spake within himself, saying, This man, if he were a prophet, would have known who and what manner of woman [this is] that toucheth him: for she is a sinner.
 <small><sub>**BSB:**</sub></small>
 When the Pharisee who had invited Jesus saw this, he said to himself, “If this man were a prophet, He would know who this is and what kind of woman is touching Him—for she is a sinner!”
 <small><sub>**Literal:**</sub></small>
 Having seen now the Pharisee the [one] having invited Him he spoke within himself saying; This if He was <the> prophet, he have known then would who and what the woman [is] who touches Him for a sinner she is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.38|<< Luke 7:38]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.40|Luke 7:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

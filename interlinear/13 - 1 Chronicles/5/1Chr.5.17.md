@@ -1,4 +1,4 @@
-**1 Chronicles 5:17** 
+**1 Chronicles 5:17**<big><big>[[1Chr.5.11 The Descendants of Gad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All these were reckoned by genealogies in the days of Jotham king of Judah, and in the days of Jeroboam king of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All of them were recorded in the genealogies during the reigns of Jotham king of
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.16|<< 1 Chronicles 5:16]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.18|1 Chronicles 5:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all of them  |**<big>&#8207;[[H3605\|כֻּלָּ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they had themselves enrolled  |**<big>&#8207;[[H3187\|הִתְיַחְשׂ֔וּ]]&#8207; </big>**| hit.yach.Su<small><sup>[[HVtp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

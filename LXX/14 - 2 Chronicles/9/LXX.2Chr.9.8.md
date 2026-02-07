@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:8** 
 <small><sub>**LXX:**</sub></small>
 \[the\] <span class="smallcaps">lord</span> your God be for a blessing, who wanted by you  to put you upon his throne for a king \[to\] your God; in that \[the\] <span class="smallcaps">lord</span> your God loved  Israel,  to establish it into the eon, and he put you over them as king,  to execute equity and righteousness. 
-<small><sub>**KJV:**</sub></small>
-Blessed be the LORD thy God, which delighted in thee to set thee on his throne, [to be] king for the LORD thy God: because thy God loved Israel, to establish them for ever, therefore made he thee king over them, to do judgment and justice.
-<small><sub>**BSB:**</sub></small>
-Blessed be the LORD your God, who has delighted in you to set you on His throne to be king for the LORD your God. Because your God loved Israel enough to establish them forever, He has made you king over them to carry out justice and righteousness.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.7|<< 2 Chronicles 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.9|2 Chronicles 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

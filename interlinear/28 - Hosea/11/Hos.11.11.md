@@ -1,4 +1,4 @@
-**Hosea 11:11** 
+**Hosea 11:11**<big><big>[[Hos.11.8 God’s Love for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will come trembling like birds from Egypt and like doves from the land of A
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.10|<< Hosea 11:10]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.12|Hosea 11:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will tremble  |**<big>&#8207;[[H2729\|יֶחֶרְד֤וּ]]&#8207; </big>**| ye.cher.Du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a bird  |**<big>&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H6833\|צִפּוֹר֙]]&#8207; </big>**| khe.<small><sup>[[HR]]</sup></small> tzi.pOr<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 2:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:13**<big><big>[[Matt.2.13 The Flight to Egypt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.
 <small><sub>**BSB:**</sub></small>
 When the Magi had gone, an angel of the Lord appeared to Joseph in a dream. “Get up!” he said. “Take the Child and His mother and flee to Egypt. Stay there until I tell you, for Herod is going to search for the Child to kill Him.”
 <small><sub>**Literal:**</sub></small>
 When were withdrawing then they behold an angel of [the] Lord appears in a dream <the> to Joseph saying; Having arisen do take the Child and the mother of Him and do flee into Egypt and do remain there until when I may tell you; is about for Herod is to seek the Child <the> to destroy Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.12|<< Matthew 2:12]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.14|Matthew 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When were withdrawing |**<big>[[G0402\|Ἀναχωρησάντων]]</big>**  |Anachōrēsantōn <small><sup>[[V-AAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

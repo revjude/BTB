@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joshua went forth, and all Israel with him, from out of Makkedah unto Libna. And they assaulted against Libna. 
-<small><sub>**KJV:**</sub></small>
-Then Joshua passed from Makkedah, and all Israel with him, unto Libnah, and fought against Libnah:
-<small><sub>**BSB:**</sub></small>
-Then Joshua and all Israel with him moved on from Makkedah to Libnah and fought against Libnah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.28|<< Joshua 10:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.30|Joshua 10:30 >>]]</td></tr></table>
 
 | Translation | Greek |

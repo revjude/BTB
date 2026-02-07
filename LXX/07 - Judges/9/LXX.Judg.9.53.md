@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And a woman tossed one piece of millstone upon the head of Abimelech, and it fractured  his skull. 
-<small><sub>**KJV:**</sub></small>
-And a certain woman cast a piece of a millstone upon Abimelech’s head, and all to brake his skull.
-<small><sub>**BSB:**</sub></small>
-But a woman dropped an upper millstone on Abimelech’s head, crushing his skull.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.52|<< Judges 9:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.54|Judges 9:54 >>]]</td></tr></table>
 
 | Translation | Greek |

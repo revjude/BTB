@@ -1,10 +1,7 @@
 **LXX Numbers 14:35** 
 <small><sub>**LXX:**</sub></small>
 I \[the\] <span class="smallcaps">lord</span> spoke. Assuredly thus I will do  to this wicked congregation, to the one rising up together against me. In  this wilderness they shall be completely consumed, and there they shall die. 
-<small><sub>**KJV:**</sub></small>
-I the LORD have said, I will surely do it unto all this evil congregation, that are gathered together against me: in this wilderness they shall be consumed, and there they shall die.
-<small><sub>**BSB:**</sub></small>
-I, the LORD, have spoken, and I will surely do these things to this entire wicked congregation, which has conspired against Me. They will meet their end in the wilderness, and there they will die.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.34|<< Numbers 14:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.36|Numbers 14:36 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 14:35** is...

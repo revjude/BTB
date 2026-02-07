@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 20:8** 
 <small><sub>**LXX:**</sub></small>
 These were born to Rapha in Gath; all four were giants, and they fell by \[the\] hand of David, and by \[the\] hand of his servants. 
-<small><sub>**KJV:**</sub></small>
-These were born unto the giant in Gath; and they fell by the hand of David, and by the hand of his servants.
-<small><sub>**BSB:**</sub></small>
-So these descendants of Rapha in Gath fell at the hands of David and his servants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.20.7|<< 1 Chronicles 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.1|1 Chronicles 21:1 >>]]</td></tr></table>
 
 | Translation | Greek |

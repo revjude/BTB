@@ -1,4 +1,4 @@
-**Genesis 8:5** 
+**Genesis 8:5**<big><big>[[Gen.8.1 The Ark Rests on Ararat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the waters decreased continually until the tenth month: in the tenth [month], on the first [day] of the month, were the tops of the mountains seen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the waters continued to recede until the tenth month, and on the first day o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.4|<< Genesis 8:4]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.6|Genesis 8:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the waters  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4325G\|מַּ֗יִם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were  |**<big>&#8207;[[H1961\|הָיוּ֙]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

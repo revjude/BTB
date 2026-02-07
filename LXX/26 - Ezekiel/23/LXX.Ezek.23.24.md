@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:24** 
 <small><sub>**LXX:**</sub></small>
 And they shall come upon you all from \[the\] north with weapons, and chariots, and wheels, and a multitude of peoples, and chest \[plates\], and shields, and helmets -- they shall be placed around about you, and they shall throw upon you a watch round about. And I will impute judgment before their face, and they shall punish you in  their judgments. 
-<small><sub>**KJV:**</sub></small>
-And they shall come against thee with chariots, wagons, and wheels, and with an assembly of people, [which] shall set against thee buckler and shield and helmet round about: and I will set judgment before them, and they shall judge thee according to their judgments.
-<small><sub>**BSB:**</sub></small>
-They will come against you with a host of peoples, with weapons, chariots, and wagons. They will array themselves against you on every side with buckler and shield and helmet. I will delegate judgment to them, and they will punish you according to their own standards.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.23|<< Ezekiel 23:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.25|Ezekiel 23:25 >>]]</td></tr></table>
 
 | Translation | Greek |

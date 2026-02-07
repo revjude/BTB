@@ -1,10 +1,7 @@
 **LXX Nehemiah 8:7** 
 <small><sub>**LXX:**</sub></small>
 And Joshua, and Bani, and Sherebiah,  Jamin, and Akkub,  Shabbethai, and Hodijah, and Maaseiah, and Kelita, and Azariah, and Jozabad and Hanan, and Pelaiah, and the Levites, were bringing understanding to the people in the law. And the people \[were\] at  \[their\] station. 
-<small><sub>**KJV:**</sub></small>
-Also Jeshua, and Bani, and Sherebiah, Jamin, Akkub, Shabbethai, Hodijah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites, caused the people to understand the law: and the people [stood] in their place.
-<small><sub>**BSB:**</sub></small>
-The Levites—Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, and Pelaiah—instructed the people in the Law as they stood in their places.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.6|<< Nehemiah 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.8|Nehemiah 8:8 >>]]</td></tr></table>
 
 | Translation | Greek |

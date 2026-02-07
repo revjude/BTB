@@ -1,10 +1,7 @@
 **LXX Psalm 11:3** 
 <small><sub>**LXX:**</sub></small>
 That which you readied, they demolished; but the just, what did they do? 
-<small><sub>**KJV:**</sub></small>
-If the foundations be destroyed, what can the righteous do?
-<small><sub>**BSB:**</sub></small>
-If the foundations are destroyed, what can the righteous do?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.11.2|<< Psalm 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.11.4|Psalm 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

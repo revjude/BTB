@@ -1,10 +1,7 @@
 **LXX Psalm 17:11** 
 <small><sub>**LXX:**</sub></small>
 They are casting me out now; they surrounded me;  their eyes set to turn me to the ground. 
-<small><sub>**KJV:**</sub></small>
-They have now compassed us in our steps: they have set their eyes bowing down to the earth;
-<small><sub>**BSB:**</sub></small>
-They have tracked us down, and now surround us; their eyes are set to cast us to the ground,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.10|<< Psalm 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.12|Psalm 17:12 >>]]</td></tr></table>
 
 | Translation | Greek |

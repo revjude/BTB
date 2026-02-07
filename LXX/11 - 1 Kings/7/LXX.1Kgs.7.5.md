@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:5** 
 <small><sub>**LXX:**</sub></small>
 And all the doorways and the places \[were\] four-cornered being arched over, from the doorway upon \[the\] door thrice. 
-<small><sub>**KJV:**</sub></small>
-And all the doors and posts [were] square, with the windows: and light [was] against light [in] three ranks.
-<small><sub>**BSB:**</sub></small>
-All the doorways had rectangular frames, with the openings facing one another in three tiers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.4|<< 1 Kings 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.6|1 Kings 7:6 >>]]</td></tr></table>
 
 | Translation | Greek |

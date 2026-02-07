@@ -1,4 +1,4 @@
-**Isaiah 47:2** 
+**Isaiah 47:2**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take the millstones, and grind meal: uncover thy locks, make bare the leg, uncover the thigh, pass over the rivers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take millstones and grind flour; remove your veil; strip off your skirt, bare yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.1|<< Isaiah 47:1]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.3|Isaiah 47:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take  |**<big>&#8207;[[H3947G\|קְחִ֥י]]&#8207; </big>**| ke.Chi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a hand-mill  |**<big>&#8207;[[H7347\|רֵחַ֖יִם]]&#8207; </big>**| re.Cha.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

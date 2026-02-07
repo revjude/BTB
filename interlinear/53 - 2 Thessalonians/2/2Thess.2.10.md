@@ -1,12 +1,12 @@
-**2 Thessalonians 2:10
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 2:10**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.
 <small><sub>**BSB:**</sub></small>
 and with every wicked deception directed against those who are perishing, because they refused the love of the truth that would have saved them.
 <small><sub>**Literal:**</sub></small>
 and in every deceit <the> of wickedness in unto those perishing, in return for which the love of the truth not they received in order for <the> to be saved them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.9|<< 2 Thessalonians 2:9]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.11|2 Thessalonians 2:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

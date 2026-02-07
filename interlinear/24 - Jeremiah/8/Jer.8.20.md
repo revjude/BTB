@@ -1,4 +1,4 @@
-**Jeremiah 8:20** 
+**Jeremiah 8:20**<big><big>[[Jer.8.18 Jeremiah Weeps for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The harvest is past, the summer is ended, and we are not saved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The harvest is past, the summer is ended, and we are not saved.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.19|<< Jeremiah 8:19]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.21|Jeremiah 8:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has passed  |**<big>&#8207;[[H5674A\|עָבַ֥ר]]&#8207; </big>**| 'a.Var<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | harvest  |**<big>&#8207;[[H7105A\|קָצִ֖יר]]&#8207; </big>**| ka.Tzir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

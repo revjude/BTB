@@ -1,5 +1,5 @@
-**Mark 10:4
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:4**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they said, Moses suffered to write a bill of divorcement, and to put [her] away.
 <small><sub>**BSB:**</sub></small>
 They answered, “Moses permitted a man to write his wife a certificate of divorce and send her away.”
@@ -10,7 +10,7 @@ They answered, “Moses permitted a man to write his wife a certificate of divor
 > $\quad$ referencing: [[LXX.Deut.24.1|Deut 24:1]][[LXX.Deut.24.3|, 3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

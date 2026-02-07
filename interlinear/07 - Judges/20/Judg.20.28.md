@@ -1,4 +1,4 @@
-**Judges 20:28** 
+**Judges 20:28**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days,) saying, Shall I yet again go out to battle against the children of Benjamin my brother, or shall I cease? And the LORD said, Go up; for to morrow I will deliver them into thine hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and Phinehas son of Eleazar, the son of Aaron, served before it.) The Israelites
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.27|<< Judges 20:27]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.29|Judges 20:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Phinehas  |**<big>&#8207;[[H9002\|וּ֠]]&#8207;&#8207;[[H6372G\|פִינְחָס]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> fin.chos<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

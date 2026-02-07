@@ -1,4 +1,4 @@
-**2 Kings 25:21** 
+**2 Kings 25:21**<big><big>[[2Kgs.25.18 Captives Carried to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Babylon smote them, and slew them at Riblah in the land of Hamath. So Judah was carried away out of their land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There at Riblah in the land of Hamath, the king of Babylon struck them down and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.20|<< 2 Kings 25:20]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.22|2 Kings 25:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he struck down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5221\|יַּ֣ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yakh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ]]&#8207;&#8207;[[H9038\|ם֩]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

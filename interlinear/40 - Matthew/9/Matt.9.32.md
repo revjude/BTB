@@ -1,12 +1,12 @@
-**Matthew 9:32
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:32**<big><big>[[Matt.9.27 Jesus Heals the Blind and Mute|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As they went out, behold, they brought to him a dumb man possessed with a devil.
 <small><sub>**BSB:**</sub></small>
 As they were leaving, a demon-possessed man who was mute was brought to Jesus.
 <small><sub>**Literal:**</sub></small>
 [As] they now were going out behold they brought to Him a man mute [and] demonised.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.31|<< Matthew 9:31]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.33|Matthew 9:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [As] they |**<big>[[G0846\|Αὐτῶν]]</big>**  |Autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

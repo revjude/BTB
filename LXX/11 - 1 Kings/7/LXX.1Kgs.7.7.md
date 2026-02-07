@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:7** 
 <small><sub>**LXX:**</sub></small>
 And the columned porch of the throne where he judged there, \[was\] a columned porch for the judgment seat. And it \[was\] decorated with fretwork in cedars from floor unto upper room. 
-<small><sub>**KJV:**</sub></small>
-Then he made a porch for the throne where he might judge, [even] the porch of judgment: and [it was] covered with cedar from one side of the floor to the other.
-<small><sub>**BSB:**</sub></small>
-In addition, he built a hall for the throne, the Hall of Justice, where he was to judge. It was paneled with cedar from floor to ceiling.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.6|<< 1 Kings 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.8|1 Kings 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

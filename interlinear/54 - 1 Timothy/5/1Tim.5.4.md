@@ -1,12 +1,12 @@
-**1 Timothy 5:4
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 5:4**<big><big>[[1Tim.5.3 Honoring True Widows|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if any widow have children or nephews, let them learn first to shew piety at home, and to requite their parents: for that is good and acceptable before God.
 <small><sub>**BSB:**</sub></small>
 But if a widow has children or grandchildren, they must first learn to show godliness to their own family and repay their parents, for this is pleasing in the sight of God.
 <small><sub>**Literal:**</sub></small>
 If however any widow children or grandchildren has, they should learn first <the> [her] own household to be devout and recompense to give <the> to parents; this for is good and pleasing before <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.3|<< 1 Timothy 5:3]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.5|1 Timothy 5:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

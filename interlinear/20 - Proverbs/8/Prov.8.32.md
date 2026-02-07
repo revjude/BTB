@@ -1,4 +1,4 @@
-**Proverbs 8:32** 
+**Proverbs 8:32**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore hearken unto me, O ye children: for blessed [are they that] keep my ways.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now therefore, my sons, listen to me, for blessed are those who keep my ways.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.31|<< Proverbs 8:31]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.33|Proverbs 8:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O children  |**<big>&#8207;[[H1121G\|בָ֭נִים]]&#8207; </big>**| Va.nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

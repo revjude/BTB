@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:16** 
 <small><sub>**LXX:**</sub></small>
 and  their sisters -- Zeruiah, and Abigail. And \[the\] sons of Zeruiah -- Abishai, and Joab, and Asahel -- these three. 
-<small><sub>**KJV:**</sub></small>
-Whose sisters [were] Zeruiah, and Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three.
-<small><sub>**BSB:**</sub></small>
-Their sisters were Zeruiah and Abigail. And the three sons of Zeruiah were Abishai, Joab, and Asahel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.15|<< 1 Chronicles 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.17|1 Chronicles 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

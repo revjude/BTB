@@ -1,10 +1,7 @@
 **LXX 1 Samuel 11:11** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass with the morning, that Saul put the people into three companies, and they entered into \[the\] midst of the camp in the early morning watch, and they struck the sons of Ammon until the day warmed through. And it came to pass, the ones being left behind were scattered, and there was not left behind among them two together. 
-<small><sub>**KJV:**</sub></small>
-And it was [so] on the morrow, that Saul put the people in three companies; and they came into the midst of the host in the morning watch, and slew the Ammonites until the heat of the day: and it came to pass, that they which remained were scattered, so that two of them were not left together.
-<small><sub>**BSB:**</sub></small>
-The next day Saul organized the troops into three divisions, and during the morning watch they invaded the camp of the Ammonites and slaughtered them, until the hottest part of the day. And the survivors were so scattered that no two of them were left together.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.10|<< 1 Samuel 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.12|1 Samuel 11:12 >>]]</td></tr></table>
 
 | Translation | Greek |

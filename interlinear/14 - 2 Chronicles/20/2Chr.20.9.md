@@ -1,4 +1,4 @@
-**2 Chronicles 20:9** 
+**2 Chronicles 20:9**<big><big>[[2Chr.20.5 Jehoshaphat’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If, [when] evil cometh upon us, [as] the sword, judgment, or pestilence, or famine, we stand before this house, and in thy presence, (for thy name [is] in this house,) and cry unto thee in our affliction, then thou wilt hear and help.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If, [when] evil cometh upon us, [as] the sword, judgment, or pestilence, or fami
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.8|<< 2 Chronicles 20:8]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.10|2 Chronicles 20:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will come  |**<big>&#8207;[[H0935G\|תָּב֨וֹא]]&#8207; </big>**| ta.Vo'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

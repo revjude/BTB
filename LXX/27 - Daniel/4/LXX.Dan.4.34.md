@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And after the end of the days I Nebuchadnezzar  lifted up my eyes unto heaven, and  my senses returned unto me, and to the highest I blessed, and to the one living into the eons I praised and glorified. For  his authority \[is\] an eternal authority, and  his kingdom \[is\] unto generation and generation. 
-<small><sub>**KJV:**</sub></small>
-And at the end of the days I Nebuchadnezzar lifted up mine eyes unto heaven, and mine understanding returned unto me, and I blessed the most High, and I praised and honoured him that liveth for ever, whose dominion [is] an everlasting dominion, and his kingdom [is] from generation to generation:
-<small><sub>**BSB:**</sub></small>
-But at the end of those days I, Nebuchadnezzar, looked up to heaven, and my sanity was restored to me. Then I praised the Most High, and I honored and glorified Him who lives forever: “For His dominion is an everlasting dominion, and His kingdom endures from generation to generation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.33|<< Daniel 4:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.35|Daniel 4:35 >>]]</td></tr></table>
 
 | Translation | Greek |

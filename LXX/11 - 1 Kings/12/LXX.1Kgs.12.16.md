@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:16** 
 <small><sub>**LXX:**</sub></small>
 And all Israel knew that the king did not hearken to them. And the people answered to the king, saying, What is our portion with David? and, There is no inheritance to us with \[the\] son of Jesse. Run, O Israel, to  your tents! Now graze  your \[own\] house, David! And Israel went forth to  his tents. 
-<small><sub>**KJV:**</sub></small>
-So when all Israel saw that the king hearkened not unto them, the people answered the king, saying, What portion have we in David? neither [have we] inheritance in the son of Jesse: to your tents, O Israel: now see to thine own house, David. So Israel departed unto their tents.
-<small><sub>**BSB:**</sub></small>
-When all Israel saw that the king had refused to listen to them, they answered the king: “What portion do we have in David, and what inheritance in the son of Jesse? To your tents, O Israel! Look now to your own house, O David!” So the Israelites went home,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.15|<< 1 Kings 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.17|1 Kings 12:17 >>]]</td></tr></table>
 
 | Translation | Greek |

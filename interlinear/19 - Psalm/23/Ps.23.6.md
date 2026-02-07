@@ -1,4 +1,4 @@
-**Psalms 23:6** 
+**Psalms 23:6**<big><big>[[Ps.23.1 The LORD Is My Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely goodness and mercy will follow me all the days of my life, and I will dwe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.23.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.23.5|<< Psalms 23:5]]</td><td align="center" style="border:none;">[[Ps.23|Psalms 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.24.0|Psalms 24:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | surely  |**<big>&#8207;[[H0389\|אַ֤ךְ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | good  |**<big>&#8207;[[H2896B\|ט֤וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

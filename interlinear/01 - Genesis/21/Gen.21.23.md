@@ -1,4 +1,4 @@
-**Genesis 21:23** 
+**Genesis 21:23**<big><big>[[Gen.21.22 The Covenant at Beersheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son’s son: [but] according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now, therefore, swear to me here before God that you will not deal falsely with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.22|<< Genesis 21:22]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.24|Genesis 21:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | swear !  |**<big>&#8207;[[H7650\|הִשָּׁ֨בְעָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| hi.Sha.ve.'a<small><sup>[[HVNv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |

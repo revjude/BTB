@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 1:15** 
 <small><sub>**LXX:**</sub></small>
 \[The thing\] being perverted is not able  to be embellished. And deficiency is not able to be counted. 
-<small><sub>**KJV:**</sub></small>
-[That which is] crooked cannot be made straight: and that which is wanting cannot be numbered.
-<small><sub>**BSB:**</sub></small>
-What is crooked cannot be straightened, and what is lacking cannot be counted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.14|<< Ecclesiastes 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.16|Ecclesiastes 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

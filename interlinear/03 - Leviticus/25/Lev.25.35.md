@@ -1,4 +1,4 @@
-**Leviticus 25:35** 
+**Leviticus 25:35**<big><big>[[Lev.25.35 Redemption of the Poor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: [yea, though he be] a stranger, or a sojourner; that he may live with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now if your countryman becomes destitute and cannot support himself among you, t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.34|<< Leviticus 25:34]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.36|Leviticus 25:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will become impoverished  |**<big>&#8207;[[H4134\|יָמ֣וּךְ]]&#8207; </big>**| ya.Mukh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

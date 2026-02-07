@@ -1,4 +1,4 @@
-**Jeremiah 51:23** 
+**Jeremiah 51:23**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will also break in pieces with thee the shepherd and his flock; and with thee will I break in pieces the husbandman and his yoke of oxen; and with thee will I break in pieces captains and rulers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With you I shatter the shepherd and his flock; with you I shatter the farmer and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.22|<< Jeremiah 51:22]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.24|Jeremiah 51:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I smash  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5310A\|נִפַּצְתִּ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ni.patz.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by \<the> you  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| ve.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

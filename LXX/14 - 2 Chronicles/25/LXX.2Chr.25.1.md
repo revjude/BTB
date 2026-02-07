@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 A son being twenty and five years \[old\] \[was\] Amaziah in  his taking reign. And twenty and nine years he reigned in Jerusalem. And \[the\] name  of his mother \[was\] Jehoaddan of Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Amaziah [was] twenty and five years old [when] he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother’s name [was] Jehoaddan of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Amaziah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Jehoaddan; she was from Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.27|<< 2 Chronicles 24:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.2|2 Chronicles 25:2 >>]]</td></tr></table>
 
 | Translation | Greek |

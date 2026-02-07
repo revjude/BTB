@@ -1,4 +1,4 @@
-**Psalms 31:10** (31:11)
+**Psalms 31:10**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For my life is spent with grief, and my years with sighing: my strength faileth because of mine iniquity, and my bones are consumed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For my life is consumed with grief and my years with groaning; my iniquity has d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.9|<< Psalms 31:9]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.11|Psalms 31:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have wasted away  |**<big>&#8207;[[H3615J\|כָל֪וּ]]&#8207; </big>**| kha.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

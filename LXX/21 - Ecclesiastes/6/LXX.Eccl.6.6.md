@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 6:6** 
 <small><sub>**LXX:**</sub></small>
 And if he lived a thousand years of returns, and he knows not goodness, is it not unto one place all shall go? 
-<small><sub>**KJV:**</sub></small>
-Yea, though he live a thousand years twice [told], yet hath he seen no good: do not all go to one place?
-<small><sub>**BSB:**</sub></small>
-even if he lives a thousand years twice over but fails to enjoy his prosperity. Do not all go to the same place?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.5|<< Ecclesiastes 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.7|Ecclesiastes 6:7 >>]]</td></tr></table>
 
 | Translation | Greek |

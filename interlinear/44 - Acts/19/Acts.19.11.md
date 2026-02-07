@@ -1,12 +1,12 @@
-**Acts 19:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:11**<big><big>[[Acts.19.8 Paul Ministers in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And God wrought special miracles by the hands of Paul:
 <small><sub>**BSB:**</sub></small>
 God did extraordinary miracles through the hands of Paul,
 <small><sub>**Literal:**</sub></small>
 Miracles then not <the> being ordinary <the> God was doing through the hands of Paul,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.10|<< Acts 19:10]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.12|Acts 19:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Miracles |**<big>[[G1411\|δυνάμεις]]</big>**  |dunameis <small><sup>[[N-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 13:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:6**<big><big>[[Acts.13.4 On Cyprus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had gone through the isle unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name [was] Barjesus:
 <small><sub>**BSB:**</sub></small>
 They traveled through the whole island as far as Paphos, where they found a Jewish sorcerer and false prophet named Bar-Jesus,
 <small><sub>**Literal:**</sub></small>
 Having passed through now all the island as far as Paphos they found a man — a certain magician a false prophet Jewish — whose name of Bar-Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.5|<< Acts 13:5]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.7|Acts 13:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having passed through |**<big>[[G1330\|Διελθόντες]]</big>**  |Dielthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

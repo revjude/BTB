@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these are the orders and the judgments, which you shall guard  to do in the land of which \[the\] <span class="smallcaps">lord</span> the God  of your fathers gives to you by lot, all the days of which you live upon the land. 
-<small><sub>**KJV:**</sub></small>
-These [are] the statutes and judgments, which ye shall observe to do in the land, which the LORD God of thy fathers giveth thee to possess it, all the days that ye live upon the earth.
-<small><sub>**BSB:**</sub></small>
-These are the statutes and ordinances you must be careful to follow all the days you live in the land that the LORD, the God of your fathers, has given you to possess.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.32|<< Deuteronomy 11:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.2|Deuteronomy 12:2 >>]]</td></tr></table>
 
 | Translation | Greek |

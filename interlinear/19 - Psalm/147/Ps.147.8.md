@@ -1,4 +1,4 @@
-**Psalms 147:8** 
+**Psalms 147:8**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who covers the sky with clouds, who prepares rain for the earth, who makes grass
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.7|<< Psalms 147:7]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.9|Psalms 147:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who covers  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H3680\|מְכַסֶּ֬ה]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> m.kha.Seh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heavens  |**<big>&#8207;[[H8064\|שָׁמַ֨יִם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 13:38
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:38**<big><big>[[Matt.13.36 The Parable of the Weeds Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The field is the world; the good seed are the children of the kingdom; but the tares are the children of the wicked [one];
 <small><sub>**BSB:**</sub></small>
 The field is the world, and the good seed represents the sons of the kingdom. The weeds are the sons of the evil one,
 <small><sub>**Literal:**</sub></small>
 <the> and the field is the world; <the> and [the] good seed, these are the sons of the kingdom; <the> and the weeds are the sons of the evil [one];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.37|<< Matthew 13:37]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.39|Matthew 13:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

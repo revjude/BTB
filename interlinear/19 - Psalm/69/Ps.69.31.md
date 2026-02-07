@@ -1,4 +1,4 @@
-**Psalms 69:31** (69:32)
+**Psalms 69:31**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [This] also shall please the LORD better than an ox [or] bullock that hath horns and hoofs.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And this will please the LORD more than an ox, more than a bull with horns and h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.30|<< Psalms 69:30]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.32|Psalms 69:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so it may be good  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3190\|תִיטַ֣ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ti.Tav<small><sup>[[HVqu2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַֽ֭]]&#8207;&#8207;[[H3068G\|יהוָה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

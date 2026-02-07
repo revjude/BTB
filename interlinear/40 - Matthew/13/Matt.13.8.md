@@ -1,12 +1,12 @@
-**Matthew 13:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:8**<big><big>[[Matt.13.1 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.
 <small><sub>**BSB:**</sub></small>
 Still other seed fell on good soil and produced a crop—a hundredfold, sixtyfold, or thirtyfold.
 <small><sub>**Literal:**</sub></small>
 Other now fell upon the soil <the> good and were yielding fruit, some indeed a hundredfold, some however sixty, some however thirty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.7|<< Matthew 13:7]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.9|Matthew 13:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Other |**<big>[[G0243\|ἄλλα]]</big>**  |alla <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

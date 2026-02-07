@@ -1,4 +1,4 @@
-**Deuteronomy 28:50** 
+**Deuteronomy 28:50**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A nation of fierce countenance, which shall not regard the person of the old, nor shew favour to the young:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ a ruthless nation with no respect for the old and no pity for the young.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.49|<< Deuteronomy 28:49]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.51|Deuteronomy 28:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a nation  |**<big>&#8207;[[H1471A\|גּ֖וֹי]]&#8207; </big>**| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fierce of  |**<big>&#8207;[[H5794\|עַ֣ז]]&#8207; </big>**| 'az<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

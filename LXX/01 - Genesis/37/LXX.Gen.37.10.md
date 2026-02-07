@@ -1,10 +1,7 @@
 **LXX Genesis 37:10** 
 <small><sub>**LXX:**</sub></small>
 And his father reproached him, and said to him, What  \[is\] this dream which you dreamed? Is it so indeed in having come I will come also, and  your mother, and  your brothers, to do obeisance to you upon the ground? 
-<small><sub>**KJV:**</sub></small>
-And he told [it] to his father, and to his brethren: and his father rebuked him, and said unto him, What [is] this dream that thou hast dreamed? Shall I and thy mother and thy brethren indeed come to bow down ourselves to thee to the earth?
-<small><sub>**BSB:**</sub></small>
-He told his father and brothers, but his father rebuked him and said, “What is this dream that you have had? Will your mother and brothers and I actually come and bow down to the ground before you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.9|<< Genesis 37:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.11|Genesis 37:11 >>]]</td></tr></table>
 
 | Translation | Greek |

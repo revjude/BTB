@@ -1,10 +1,7 @@
 **LXX Exodus 3:15** 
 <small><sub>**LXX:**</sub></small>
 And God said again to Moses, Thus you shall say to the sons of Israel, \[The\] <span class="smallcaps">lord</span>  God  of our fathers, the God of Abraham, and the God of Isaac, and the God of Jacob sent me to you; this is my  eternal name, and a memorial for generations to generations. 
-<small><sub>**KJV:**</sub></small>
-And God said moreover unto Moses, Thus shalt thou say unto the children of Israel, The LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this [is] my name for ever, and this [is] my memorial unto all generations.
-<small><sub>**BSB:**</sub></small>
-God also told Moses, “Say to the Israelites, ‘The LORD, the God of your fathers—the God of Abraham, the God of Isaac, and the God of Jacob—has sent me to you.’ This is My name forever, and this is how I am to be remembered in every generation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.14|<< Exodus 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.16|Exodus 3:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 3:15** is...

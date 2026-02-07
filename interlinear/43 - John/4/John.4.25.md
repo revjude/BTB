@@ -1,12 +1,12 @@
-**John 4:25
-**<small><sub>**KJV:**</sub></small>
+**John 4:25**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The woman saith unto him, I know that Messias cometh, which is called Christ: when he is come, he will tell us all things.
 <small><sub>**BSB:**</sub></small>
 The woman said, “I know that Messiah” (called Christ) “is coming. When He comes, He will explain everything to us.”
 <small><sub>**Literal:**</sub></small>
 Says to Him the woman; I know that Messiah is coming, who is called Christ, when may come He, He will tell us all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.24|<< John 4:24]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.26|John 4:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|Λέγει]]</big>**  |Legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to Him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

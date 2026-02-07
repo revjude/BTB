@@ -1,12 +1,12 @@
-**Luke 18:13
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:13**<big><big>[[Luke.18.9 The Pharisee and the Tax Collector|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the publican, standing afar off, would not lift up so much as [his] eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.
 <small><sub>**BSB:**</sub></small>
 But the tax collector stood at a distance, unwilling even to lift up his eyes to heaven. Instead, he beat his breast and said, ‘God, have mercy on me, a sinner!’
 <small><sub>**Literal:**</sub></small>
 and <the> but the tax collector afar off having stood not was willing not even the eyes to lift up to <the> heaven but was striking into the breast of him saying: O God, do be merciful to me to the sinner!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.12|<< Luke 18:12]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.14|Luke 18:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

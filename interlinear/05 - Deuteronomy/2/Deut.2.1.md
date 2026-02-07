@@ -1,4 +1,4 @@
-**Deuteronomy 2:1** 
+**Deuteronomy 2:1**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spake unto me: and we compassed mount Seir many days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then we turned back and headed for the wilderness by way of the Red Sea, as the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.46|<< Deuteronomy 1:46]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.2|Deuteronomy 2:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we turned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6437G\|נֵּ֜פֶן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ne.fen<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and we set out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|נִּסַּ֤ע]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ni.Sa'<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

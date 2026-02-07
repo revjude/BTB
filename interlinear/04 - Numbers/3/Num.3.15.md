@@ -1,4 +1,4 @@
-**Numbers 3:15** 
+**Numbers 3:15**<big><big>[[Num.3.14 The Numbering of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Number the children of Levi after the house of their fathers, by their families:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.14|<< Numbers 3:14]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.16|Numbers 3:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | enroll  |**<big>&#8207;[[H6485A\|פְּקֹד֙]]&#8207; </big>**| pe.Kod<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The vision of the four-footed, of the ones in the wilderness. In the affliction and in the straits \[are the\] lion and lion's cub; from there also asps and \[the\] progeny of flying asps; the ones who brought upon donkeys and camels  of their riches to a nation who shall not benefit them for help, but for shame and scorn. 
-<small><sub>**KJV:**</sub></small>
-The burden of the beasts of the south: into the land of trouble and anguish, from whence [come] the young and old lion, the viper and fiery flying serpent, they will carry their riches upon the shoulders of young asses, and their treasures upon the bunches of camels, to a people [that] shall not profit [them].
-<small><sub>**BSB:**</sub></small>
-This is the burden against the beasts of the Negev: Through a land of hardship and distress, of lioness and lion, of viper and flying serpent, they carry their wealth on the backs of donkeys and their treasures on the humps of camels, to a people of no profit to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.5|<< Isaiah 30:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.7|Isaiah 30:7 >>]]</td></tr></table>
 
 | Translation | Greek |

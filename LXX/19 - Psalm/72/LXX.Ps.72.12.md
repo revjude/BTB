@@ -1,10 +1,7 @@
 **LXX Psalm 72:12** 
 <small><sub>**LXX:**</sub></small>
 For he rescued \[the\] poor from \[the\] mighty one, and \[the\] needy one in whom no helper existed. 
-<small><sub>**KJV:**</sub></small>
-For he shall deliver the needy when he crieth; the poor also, and [him] that hath no helper.
-<small><sub>**BSB:**</sub></small>
-For he will deliver the needy who cry out and the afflicted who have no helper.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.72.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.11|<< Psalm 72:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.13|Psalm 72:13 >>]]</td></tr></table>
 
 | Translation | Greek |

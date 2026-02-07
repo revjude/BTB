@@ -1,12 +1,12 @@
-**Mark 12:5
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:5**<big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And again he sent another; and him they killed, and many others; beating some, and killing some.
 <small><sub>**BSB:**</sub></small>
 He sent still another, and this one they killed. He sent many others; some they beat and others they killed.
 <small><sub>**Literal:**</sub></small>
 And again another He sent; and him they killed, also many others, some indeed beating, some however killing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.4|<< Mark 12:4]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.6|Mark 12:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | again |**<big>[[G3825\|πάλιν]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

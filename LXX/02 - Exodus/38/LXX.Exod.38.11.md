@@ -1,10 +1,7 @@
 **LXX Exodus 38:11** 
 <small><sub>**LXX:**</sub></small>
 And the side  towards \[the\] north \[was a\] hundred by a hundred. And  their posts -- twenty, and  their twenty, brass bases. And  their hooks, and  their clips \[were of\] silver. 
-<small><sub>**KJV:**</sub></small>
-And for the north side [the hangings were] an hundred cubits, their pillars [were] twenty, and their sockets of brass twenty; the hooks of the pillars and their fillets [of] silver.
-<small><sub>**BSB:**</sub></small>
-The north side was also a hundred cubits long, with twenty posts and twenty bronze bases. The hooks and bands of the posts were silver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.10|<< Exodus 38:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.12|Exodus 38:12 >>]]</td></tr></table>
 
 | Translation | Greek |

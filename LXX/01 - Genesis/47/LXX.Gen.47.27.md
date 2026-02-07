@@ -1,10 +1,7 @@
 **LXX Genesis 47:27** 
 <small><sub>**LXX:**</sub></small>
 And Israel dwelt in \[the\] land of Egypt, upon \[the\] land of Goshen. And they were heir over it. And they grew and multiplied exceedingly. 
-<small><sub>**KJV:**</sub></small>
-And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly.
-<small><sub>**BSB:**</sub></small>
-Now the Israelites settled in the land of Egypt, in the region of Goshen. They acquired property there and became fruitful and increased greatly in number.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.26|<< Genesis 47:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.28|Genesis 47:28 >>]]</td></tr></table>
 
 | Translation | Greek |

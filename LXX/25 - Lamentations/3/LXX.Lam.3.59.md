@@ -1,10 +1,7 @@
 **LXX Lamentations 3:59** 
 <small><sub>**LXX:**</sub></small>
 You saw, O <span class="smallcaps">lord</span>,  my disturbances. You judged  my case. 
-<small><sub>**KJV:**</sub></small>
-O LORD, thou hast seen my wrong: judge thou my cause.
-<small><sub>**BSB:**</sub></small>
-You have seen, O LORD, the wrong done to me; vindicate my cause!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.59|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.58|<< Lamentations 3:58]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.60|Lamentations 3:60 >>]]</td></tr></table>
 
 | Translation | Greek |

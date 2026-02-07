@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 4:16** 
 <small><sub>**LXX:**</sub></small>
 There is no limit  to all \[the\] people,  to all as many as was before them; and indeed, the last shall not be glad in himself. For even indeed this \[is\] folly and resolve of spirit. 
-<small><sub>**KJV:**</sub></small>
-[There is] no end of all the people, [even] of all that have been before them: they also that come after shall not rejoice in him. Surely this also [is] vanity and vexation of spirit.
-<small><sub>**BSB:**</sub></small>
-There is no limit to all the people who were before them. Yet the successor will not be celebrated by those who come even later. This too is futile and a pursuit of the wind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.15|<< Ecclesiastes 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.1|Ecclesiastes 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

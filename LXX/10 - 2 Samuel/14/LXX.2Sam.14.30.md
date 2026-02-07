@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Absalom said to  his servants, You know the portion in \[the\] field  of Joab being next to mine, and to him \[is\] barley there. You go and burn it by fire! And the servants of Absalom burned by fire the portion \[of the field\] of Joab. 
-<small><sub>**KJV:**</sub></small>
-Therefore he said unto his servants, See, Joab’s field is near mine, and he hath barley there; go and set it on fire. And Absalom’s servants set the field on fire.
-<small><sub>**BSB:**</sub></small>
-Then Absalom said to his servants, “Look, Joab’s field is next to mine, and he has barley there. Go and set it on fire!” And Absalom’s servants set the field on fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.29|<< 2 Samuel 14:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.31|2 Samuel 14:31 >>]]</td></tr></table>
 
 | Translation | Greek |

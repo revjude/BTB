@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:17** 
 <small><sub>**LXX:**</sub></small>
 And you took the items  of your boasting from  my gold, and from  my silver of which I gave you; and you made for yourself male images, and you fornicated with them. 
-<small><sub>**KJV:**</sub></small>
-Thou hast also taken thy fair jewels of my gold and of my silver, which I had given thee, and madest to thyself images of men, and didst commit whoredom with them,
-<small><sub>**BSB:**</sub></small>
-You also took the fine jewelry of gold and silver I had given you, and you made male idols with which to prostitute yourself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.16|<< Ezekiel 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.18|Ezekiel 16:18 >>]]</td></tr></table>
 
 | Translation | Greek |

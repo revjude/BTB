@@ -1,4 +1,4 @@
-**Isaiah 34:6** 
+**Isaiah 34:6**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sword of the LORD is filled with blood, it is made fat with fatness, [and] with the blood of lambs and goats, with the fat of the kidneys of rams: for the LORD hath a sacrifice in Bozrah, and a great slaughter in the land of Idumea.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The sword of the LORD is bathed in blood. It drips with fat—with the blood of 
 > $\quad$ referenced by: [[Rev.19.17|Rev 19:17-18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a sword  |**<big>&#8207;[[H2719\|חֶ֣רֶב]]&#8207; </big>**| Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belongs] to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֞ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

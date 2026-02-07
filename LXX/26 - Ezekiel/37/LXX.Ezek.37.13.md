@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:13** 
 <small><sub>**LXX:**</sub></small>
 And you shall know that I am \[the\] <span class="smallcaps">lord</span>, by  my opening  your graves,  for me to lead you from out of  your graves,  O my people. 
-<small><sub>**KJV:**</sub></small>
-And ye shall know that I [am] the LORD, when I have opened your graves, O my people, and brought you up out of your graves,
-<small><sub>**BSB:**</sub></small>
-Then you, My people, will know that I am the LORD, when I open your graves and bring you up from them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.12|<< Ezekiel 37:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.14|Ezekiel 37:14 >>]]</td></tr></table>
 
 | Translation | Greek |

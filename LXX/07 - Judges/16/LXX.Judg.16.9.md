@@ -1,10 +1,7 @@
 **LXX Judges 16:9** 
 <small><sub>**LXX:**</sub></small>
 And the ambush sat down for him in the storeroom. And she said to him, \[The\] Philistines are upon you, Samson. And he tore up the strings of the bow in which manner one pulls apart yarn of hemp in  its smelling of fire, and his strength was not made known. 
-<small><sub>**KJV:**</sub></small>
-Now [there were] men lying in wait, abiding with her in the chamber. And she said unto him, The Philistines [be] upon thee, Samson. And he brake the withs, as a thread of tow is broken when it toucheth the fire. So his strength was not known.
-<small><sub>**BSB:**</sub></small>
-While the men were hidden in her room, she called out, “Samson, the Philistines are here!” But he snapped the bowstrings like a strand of yarn seared by a flame. So the source of his strength remained unknown.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.8|<< Judges 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.10|Judges 16:10 >>]]</td></tr></table>
 
 | Translation | Greek |

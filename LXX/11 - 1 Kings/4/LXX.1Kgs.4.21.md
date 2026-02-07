@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:21** 
 <small><sub>**LXX:**</sub></small>
 And Solomon was ruler in all the kingdoms from \[the\] river of \[the\] land of the Philistines and unto \[the\] border of Egypt. And they were bringing gifts, and they served  Solomon all the days  of his life. 
-<small><sub>**KJV:**</sub></small>
-And Solomon reigned over all kingdoms from the river unto the land of the Philistines, and unto the border of Egypt: they brought presents, and served Solomon all the days of his life.
-<small><sub>**BSB:**</sub></small>
-And Solomon reigned over all the kingdoms from the Euphrates to the land of the Philistines, as far as the border of Egypt. These kingdoms offered tribute and served Solomon all the days of his life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.20|<< 1 Kings 4:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.22|1 Kings 4:22 >>]]</td></tr></table>
 
 | Translation | Greek |

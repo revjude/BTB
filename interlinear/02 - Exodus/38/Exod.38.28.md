@@ -1,4 +1,4 @@
-**Exodus 38:28** 
+**Exodus 38:28**<big><big>[[Exod.38.21 An Inventory of Materials|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the thousand seven hundred seventy and five [shekels] he made hooks for the pillars, and overlaid their chapiters, and filleted them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With the 1,775 shekels of silver he made the hooks for the posts, overlaid their
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.27|<< Exodus 38:27]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.29|Exodus 38:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the one thousand  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0505G\|אֶ֜לֶף]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

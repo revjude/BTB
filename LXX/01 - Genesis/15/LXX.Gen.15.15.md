@@ -1,10 +1,7 @@
 **LXX Genesis 15:15** 
 <small><sub>**LXX:**</sub></small>
 But you shall go forth to  your fathers with peace, being entombed in a good old age. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt go to thy fathers in peace; thou shalt be buried in a good old age.
-<small><sub>**BSB:**</sub></small>
-You, however, will go to your fathers in peace and be buried at a ripe old age.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.14|<< Genesis 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.16|Genesis 15:16 >>]]</td></tr></table>
 
 | Translation | Greek |

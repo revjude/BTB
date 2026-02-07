@@ -1,10 +1,7 @@
 **LXX Daniel 10:3** 
 <small><sub>**LXX:**</sub></small>
 Of desirable bread I ate not, and meat and wine did not go into  my mouth, and an anointing I did not anoint \[with\] until \[the\] fullness of \[the\] three period of sevens of days. 
-<small><sub>**KJV:**</sub></small>
-I ate no pleasant bread, neither came flesh nor wine in my mouth, neither did I anoint myself at all, till three whole weeks were fulfilled.
-<small><sub>**BSB:**</sub></small>
-I ate no rich food, no meat or wine entered my mouth, and I did not anoint myself with oil until the three weeks were completed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.2|<< Daniel 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.4|Daniel 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

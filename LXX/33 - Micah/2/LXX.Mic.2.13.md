@@ -1,10 +1,7 @@
 **LXX Micah 2:13** 
 <small><sub>**LXX:**</sub></small>
 Ascend through the breach before in front of them! They cut through and went through \[the\] gate, and came forth through it; and their king went forth before in front of them; and the <span class="smallcaps">lord</span> shall lead them. 
-<small><sub>**KJV:**</sub></small>
-The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the LORD on the head of them.
-<small><sub>**BSB:**</sub></small>
-One who breaks open the way will go up before them; they will break through the gate, and go out by it. Their King will pass through before them, the LORD as their leader.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.12|<< Micah 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.3.1|Micah 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

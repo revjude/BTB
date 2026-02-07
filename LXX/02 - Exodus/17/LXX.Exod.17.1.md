@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And all the congregation \[of the\] sons of Israel departed from out of the wilderness of Sin, according to their camps, through \[the\] saying of \[the\] <span class="smallcaps">lord</span>. And they camped in Rephidim. But there was no water for the people to drink. 
-<small><sub>**KJV:**</sub></small>
-And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and [there was] no water for the people to drink.
-<small><sub>**BSB:**</sub></small>
-Then the whole congregation of Israel left the Desert of Sin, moving from place to place as the LORD commanded. They camped at Rephidim, but there was no water for the people to drink.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.17.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.36|<< Exodus 16:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.17.2|Exodus 17:2 >>]]</td></tr></table>
 
 | Translation | Greek |

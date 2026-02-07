@@ -1,4 +1,4 @@
-**Joshua 24:5** 
+**Joshua 24:5**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I sent Moses also and Aaron, and I plagued Egypt, according to that which I did among them: and afterward I brought you out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I sent Moses and Aaron, and I afflicted the Egyptians by what I did there, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.4|<< Joshua 24:4]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.6|Joshua 24:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I sent  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7971G\|אֶשְׁלַ֞ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'esh.Lach<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

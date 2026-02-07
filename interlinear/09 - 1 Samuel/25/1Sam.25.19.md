@@ -1,4 +1,4 @@
-**1 Samuel 25:19** 
+**1 Samuel 25:19**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said unto her servants, Go on before me; behold, I come after you. But she told not her husband Nabal.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and said to her young men, “Go ahead of me. I will be right behind you.” But
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.18|<< 1 Samuel 25:18]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.20|1 Samuel 25:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֤אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to servants her  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H5288\|נְעָרֶ֙י]]&#8207;&#8207;[[H9024\|הָ֙]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> n.'a.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

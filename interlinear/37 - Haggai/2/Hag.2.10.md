@@ -1,4 +1,4 @@
-**Haggai 2:10** 
+**Haggai 2:10**<big><big>[[Hag.2.10 Blessings for a Defiled People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the four and twentieth [day] of the ninth [month], in the second year of Darius, came the word of the LORD by Haggai the prophet, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the twenty-fourth day of the ninth month, in the second year of Darius, the w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.9|<< Haggai 2:9]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.11|Haggai 2:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on [day] twenty  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6242\|עֶשְׂרִ֤ים]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'es.Rim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0702\|אַרְבָּעָה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

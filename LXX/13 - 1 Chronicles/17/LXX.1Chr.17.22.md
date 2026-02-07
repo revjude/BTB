@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:22** 
 <small><sub>**LXX:**</sub></small>
 And you appointed  your people Israel for yourself -- a people unto \[the\] eon. And you, O <span class="smallcaps">lord</span>, became to them for God. 
-<small><sub>**KJV:**</sub></small>
-For thy people Israel didst thou make thine own people for ever; and thou, LORD, becamest their God.
-<small><sub>**BSB:**</sub></small>
-For You have made Your people Israel Your very own forever, and You, O LORD, have become their God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.21|<< 1 Chronicles 17:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.23|1 Chronicles 17:23 >>]]</td></tr></table>
 
 | Translation | Greek |

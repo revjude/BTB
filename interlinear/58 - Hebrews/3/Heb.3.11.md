@@ -1,5 +1,5 @@
-**Hebrews 3:11
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:11**<big><big>[[Heb.3.7 Do Not Harden Your Hearts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So I sware in my wrath, They shall not enter into my rest.)
 <small><sub>**BSB:**</sub></small>
 So I swore on oath in My anger, ‘They shall never enter My rest.’”
@@ -10,7 +10,7 @@ so I swore in the wrath of Mine; [not] will they enter into the rest of Mine.<br
 > $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I swore |**<big>[[G3660\|ὤμοσα]]</big>**  |ōmosa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

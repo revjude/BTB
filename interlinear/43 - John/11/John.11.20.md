@@ -1,12 +1,12 @@
-**John 11:20
-**<small><sub>**KJV:**</sub></small>
+**John 11:20**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Martha, as soon as she heard that Jesus was coming, went and met him: but Mary sat [still] in the house.
 <small><sub>**BSB:**</sub></small>
 So when Martha heard that Jesus was coming, she went out to meet Him, but Mary stayed at home.
 <small><sub>**Literal:**</sub></small>
 <the> Therefore Martha, when she heard that <the> Jesus is coming, met with Him; Mary however in the house was sitting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.19|<< John 11:19]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.21|John 11:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

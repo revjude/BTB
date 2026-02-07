@@ -1,10 +1,7 @@
 **LXX Zephaniah 3:9** 
 <small><sub>**LXX:**</sub></small>
 For then I will transfer upon \[the\] peoples \[one\] tongue for her generation,  for all to call upon the name of \[the\] <span class="smallcaps">lord</span>,  to serve him under one yoke. 
-<small><sub>**KJV:**</sub></small>
-For then will I turn to the people a pure language, that they may all call upon the name of the LORD, to serve him with one consent.
-<small><sub>**BSB:**</sub></small>
-For then I will restore pure lips to the peoples, that all may call upon the name of the LORD and serve Him shoulder to shoulder.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.8|<< Zephaniah 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.10|Zephaniah 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

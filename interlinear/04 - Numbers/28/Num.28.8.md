@@ -1,4 +1,4 @@
-**Numbers 28:8** 
+**Numbers 28:8**<big><big>[[Num.28.1 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the other lamb shalt thou offer at even: as the meat offering of the morning, and as the drink offering thereof, thou shalt offer [it], a sacrifice made by fire, of a sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And offer the second lamb at twilight, with the same grain offering and drink of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.7|<< Numbers 28:7]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.9|Numbers 28:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵת֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lamb  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3532\|כֶּ֣בֶשׂ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ke.ves<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

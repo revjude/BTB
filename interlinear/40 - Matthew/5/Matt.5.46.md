@@ -1,12 +1,12 @@
-**Matthew 5:46
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:46**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if ye love them which love you, what reward have ye? do not even the publicans the same?
 <small><sub>**BSB:**</sub></small>
 If you love those who love you, what reward will you get? Do not even tax collectors do the same?
 <small><sub>**Literal:**</sub></small>
 If for you shall love those loving you, what reward have you? Surely also the tax collectors the same do?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.45|<< Matthew 5:45]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.47|Matthew 5:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 45:4** 
 <small><sub>**LXX:**</sub></small>
 And \[in\] your fineness, even stretch tight \[your bow\], and greatly prosper, and reign! Because of truth, and gentleness, and righteousness even your right \[hand\] guide you wonderfully. 
-<small><sub>**KJV:**</sub></small>
-And in thy majesty ride prosperously because of truth and meekness [and] righteousness; and thy right hand shall teach thee terrible things.
-<small><sub>**BSB:**</sub></small>
-In your splendor ride forth in victory on behalf of truth and humility and justice; may your right hand show your awesome deeds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.45.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.3|<< Psalm 45:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.5|Psalm 45:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 65:10** 
 <small><sub>**LXX:**</sub></small>
 And there shall be in the grove folds of flocks; and \[the\] ravine of Achor \[shall be\] for a resting \[place\] of herds \[for\] my people, the ones who sought me. 
-<small><sub>**KJV:**</sub></small>
-And Sharon shall be a fold of flocks, and the valley of Achor a place for the herds to lie down in, for my people that have sought me.
-<small><sub>**BSB:**</sub></small>
-Sharon will become a pasture for flocks, and the Valley of Achor a resting place for herds, for My people who seek Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.65.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.9|<< Isaiah 65:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.65.11|Isaiah 65:11 >>]]</td></tr></table>
 
 | Translation | Greek |

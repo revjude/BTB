@@ -1,12 +1,12 @@
-**Matthew 22:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:13**<big><big>[[Matt.22.1 The Parable of the Banquet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said the king to the servants, Bind him hand and foot, and take him away, and cast [him] into outer darkness; there shall be weeping and gnashing of teeth.
 <small><sub>**BSB:**</sub></small>
 Then the king told the servants, ‘Tie him hand and foot, and throw him into the outer darkness, where there will be weeping and gnashing of teeth.’
 <small><sub>**Literal:**</sub></small>
 Then the king said to the servants; Having bound his feet and hands do take and do cast out him into the darkness <the> outer; there will be the weeping and the gnashing of the teeth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.12|<< Matthew 22:12]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.14|Matthew 22:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|τότε]]</big>**  |tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

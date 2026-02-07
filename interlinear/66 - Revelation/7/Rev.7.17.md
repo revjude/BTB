@@ -1,5 +1,5 @@
-**Revelation 7:17
-**<small><sub>**KJV:**</sub></small>
+**Revelation 7:17**<big><big>[[Rev.7.9 Praise from the Great Multitude|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.
 <small><sub>**BSB:**</sub></small>
 For the Lamb in the center of the throne will be their shepherd. ‘He will lead them to springs of living water,’ and ‘God will wipe away every tear from their eyes.’”
@@ -10,7 +10,7 @@ because the Lamb <the> in the center of the throne will shepherd them and He wil
 > $\quad$ referencing: [[LXX.Isa.25.8|Isa 25:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

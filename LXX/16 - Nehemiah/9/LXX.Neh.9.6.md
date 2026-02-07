@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Ezra said, You are he, \[the\] <span class="smallcaps">lord</span> alone. You made the heaven and the heaven of the heaven, and all  their positions; the earth and all as much as is in it; the seas and all the \[things\] in them. And you restore to life  all \[things\]; and to you the militaries of the heavens do obeisance. 
-<small><sub>**KJV:**</sub></small>
-Thou, [even] thou, [art] LORD alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all [things] that [are] therein, the seas, and all that [is] therein, and thou preservest them all; and the host of heaven worshippeth thee.
-<small><sub>**BSB:**</sub></small>
-You alone are the LORD. You created the heavens, the highest heavens with all their host, the earth and all that is on it, the seas and all that is in them. You give life to all things, and the host of heaven worships You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.5|<< Nehemiah 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.7|Nehemiah 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

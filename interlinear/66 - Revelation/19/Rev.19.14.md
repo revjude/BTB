@@ -1,12 +1,12 @@
-**Revelation 19:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:14**<big><big>[[Rev.19.11 The Rider on the White Horse|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the armies [which were] in heaven followed him upon white horses, clothed in fine linen, white and clean.
 <small><sub>**BSB:**</sub></small>
 The armies of heaven, dressed in fine linen, white and pure, follow Him on white horses.
 <small><sub>**Literal:**</sub></small>
 And the armies who were in <the> heaven were following after Him upon horses white having clothed themselves in fine linen white and pure.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.13|<< Revelation 19:13]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.15|Revelation 19:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**2 Corinthians 1:17
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:17**<big><big>[[2Cor.1.12 Paul’s Change of Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When I therefore was thus minded, did I use lightness? or the things that I purpose, do I purpose according to the flesh, that with me there should be yea yea, and nay nay?
 <small><sub>**BSB:**</sub></small>
 When I planned this, did I do it carelessly? Or do I make my plans by human standards, so as to say “Yes, yes” and also “No, no”?
 <small><sub>**Literal:**</sub></small>
 Thus therefore deciding surely not ever then <the> levity did I use? Or what I purpose according to flesh do I purpose, so that there may be with me myself <the> Yes yes and <the> No no?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.16|<< 2 Corinthians 1:16]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.18|2 Corinthians 1:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

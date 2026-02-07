@@ -1,10 +1,7 @@
 **LXX Numbers 35:12** 
 <small><sub>**LXX:**</sub></small>
 And they will be  cities for you as places of refuge from the one acting as next of kin  for blood, that in no way the one man-slaying die until whenever he should stand before the congregation for judgment. 
-<small><sub>**KJV:**</sub></small>
-And they shall be unto you cities for refuge from the avenger; that the manslayer die not, until he stand before the congregation in judgment.
-<small><sub>**BSB:**</sub></small>
-You are to have these cities as a refuge from the avenger, so that the manslayer will not die until he stands trial before the assembly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.11|<< Numbers 35:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.13|Numbers 35:13 >>]]</td></tr></table>
 
 | Translation | Greek |

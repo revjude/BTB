@@ -1,10 +1,7 @@
 **LXX Proverbs 5:14** 
 <small><sub>**LXX:**</sub></small>
 By little I came unto every evil in \[the\] midst of \[the\] assembly and congregation. 
-<small><sub>**KJV:**</sub></small>
-I was almost in all evil in the midst of the congregation and assembly.
-<small><sub>**BSB:**</sub></small>
-I am on the brink of utter ruin in the midst of the whole assembly.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.13|<< Proverbs 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.15|Proverbs 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

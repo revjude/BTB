@@ -1,4 +1,4 @@
-**Song of Solomon 8:12** 
+**Song of Solomon 8:12**<big><big>[[Song.8.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My vineyard, which [is] mine, [is] before me: thou, O Solomon, [must have] a thousand, and those that keep the fruit thereof two hundred.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But my own vineyard is mine to give; the thousand shekels are for you, O Solomon
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.11|<< Song of Solomon 8:11]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.13|Song of Solomon 8:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | vineyard my  |**<big>&#8207;[[H3754\|כַּרְמִ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| kar.M<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which [belongs] to me  |**<big>&#8207;[[H9007\|שֶׁ]]&#8207;&#8207;[[H9005\|לִּ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| she.<small><sup>[[HTr]]</sup></small> L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

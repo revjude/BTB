@@ -1,4 +1,4 @@
-**Amos 4:8** 
+**Amos 4:8**<big><big>[[Amos.4.1 Punishment Brings No Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So two [or] three cities wandered unto one city, to drink water; but they were not satisfied: yet have ye not returned unto me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ People staggered from city to city for water to drink, but they were not satisfi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4.7|<< Amos 4:7]]</td><td align="center" style="border:none;">[[Amos.4|Amos 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.4.9|Amos 4:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they staggered  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5128\|נָע֡וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two  |**<big>&#8207;[[H8147\|שְׁתַּיִם֩]]&#8207; </big>**| she.ta.Yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

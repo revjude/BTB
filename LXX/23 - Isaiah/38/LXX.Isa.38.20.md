@@ -1,10 +1,7 @@
 **LXX Isaiah 38:20** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>  of my deliverance; even I will not cease blessing you with \[the\] psaltery all the days  of my life, before the house  of God. 
-<small><sub>**KJV:**</sub></small>
-The LORD [was ready] to save me: therefore we will sing my songs to the stringed instruments all the days of our life in the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-The LORD will save me; we will play songs on stringed instruments all the days of our lives in the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.38.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.19|<< Isaiah 38:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.21|Isaiah 38:21 >>]]</td></tr></table>
 
 | Translation | Greek |

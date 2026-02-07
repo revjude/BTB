@@ -1,10 +1,7 @@
 **LXX Ezekiel 28:9** 
 <small><sub>**LXX:**</sub></small>
 In saying, will you say, I am God, in the presence of the ones doing away with you?  But you are a man, and not God in \[the\] hand of ones piercing you. 
-<small><sub>**KJV:**</sub></small>
-Wilt thou yet say before him that slayeth thee, I [am] God? but thou [shalt be] a man, and no God, in the hand of him that slayeth thee.
-<small><sub>**BSB:**</sub></small>
-Will you still say, ‘I am a god,’ in the presence of those who slay you? You will be only a man, not a god, in the hands of those who wound you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.28.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.8|<< Ezekiel 28:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.10|Ezekiel 28:10 >>]]</td></tr></table>
 
 | Translation | Greek |

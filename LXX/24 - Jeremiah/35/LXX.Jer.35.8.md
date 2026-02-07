@@ -1,10 +1,7 @@
 **LXX Jeremiah 35:8** 
 <small><sub>**LXX:**</sub></small>
 And we hearkened to the voice of Jonadab son of Rechab  our father in all \[things\] which he gave charge to us, to  not drink wine all the days  of our life, we, and  our wives, and  our sons, and  our daughters; 
-<small><sub>**KJV:**</sub></small>
-Thus have we obeyed the voice of Jonadab the son of Rechab our father in all that he hath charged us, to drink no wine all our days, we, our wives, our sons, nor our daughters;
-<small><sub>**BSB:**</sub></small>
-And we have obeyed the voice of our forefather Jonadab son of Rechab in all he commanded us. So we have not drunk wine all our lives—neither we nor our wives nor our sons and daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.7|<< Jeremiah 35:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.9|Jeremiah 35:9 >>]]</td></tr></table>
 
 | Translation | Greek |

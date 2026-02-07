@@ -1,12 +1,12 @@
-**Acts 10:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:19**<big><big>[[Acts.10.17 Peter Called to Caesarea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee.
 <small><sub>**BSB:**</sub></small>
 As Peter continued to reflect on the vision, the Spirit said to him, “Behold, three men are looking for you.
 <small><sub>**Literal:**</sub></small>
 <the> And Peter thinking over the vision said to him the Spirit: Behold men three are seeking you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.18|<< Acts 10:18]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.20|Acts 10:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τοῦ]]</big>**  |Tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

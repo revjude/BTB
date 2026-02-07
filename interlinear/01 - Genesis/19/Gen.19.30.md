@@ -1,4 +1,4 @@
-**Genesis 19:30** 
+**Genesis 19:30**<big><big>[[Gen.19.30 Lot and His Daughters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Lot went up out of Zoar, and dwelt in the mountain, and his two daughters with him; for he feared to dwell in Zoar: and he dwelt in a cave, he and his two daughters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Lot and his two daughters left Zoar and settled in the mountains—for he was af
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.29|<< Genesis 19:29]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.31|Genesis 19:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּעַל֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'Al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Lot  |**<big>&#8207;[[H3876\|ל֨וֹט]]&#8207; </big>**| Lot<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 40:11** 
+**Genesis 40:11**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh’s cup [was] in my hand: and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pharaoh’s cup was in my hand, and I took the grapes, squeezed them into his cu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.10|<< Genesis 40:10]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.12|Genesis 40:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] cup of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3563A\|כ֥וֹס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khos<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547H\|פַּרְעֹ֖ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

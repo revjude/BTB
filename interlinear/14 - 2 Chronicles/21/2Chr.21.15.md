@@ -1,4 +1,4 @@
-**2 Chronicles 21:15** 
+**2 Chronicles 21:15**<big><big>[[2Chr.21.12 Elijah’s Letter to Jehoram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou [shalt have] great sickness by disease of thy bowels, until thy bowels fall out by reason of the sickness day by day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And day after day you yourself will suffer from a severe illness, a disease of y
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.14|<< 2 Chronicles 21:14]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.16|2 Chronicles 21:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֛ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] in sickness\<es>  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H2483\|חֳלָיִ֥ים]]&#8207; </big>**| bo.<small><sup>[[HR]]</sup></small> cho.la.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

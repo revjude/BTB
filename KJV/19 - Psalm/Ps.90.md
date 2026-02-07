@@ -1,6 +1,6 @@
 (KJV) **Psalm 90**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89|<< Psalm 89]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.91|Psalm 91 >>]]</td></tr></table>
 
-***From Everlasting to Everlasting*** ^bsb1383
+<big><big>[[Ps.90.1 From Everlasting to Everlasting|⥃]]</big></big>***From Everlasting to Everlasting***
 
 
 

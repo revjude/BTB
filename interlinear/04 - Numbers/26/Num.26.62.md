@@ -1,4 +1,4 @@
-**Numbers 26:62** 
+**Numbers 26:62**<big><big>[[Num.26.57 The Levites Numbered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And those that were numbered of them were twenty and three thousand, all males from a month old and upward: for they were not numbered among the children of Israel, because there was no inheritance given them among the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The registration of the Levites totaled 23,000, every male a month old or more; 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.62|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.61|<< Numbers 26:61]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.63|Numbers 26:63 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּהְי֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | enrolled [men] their  |**<big>&#8207;[[H6485A\|פְקֻדֵי]]&#8207;&#8207;[[H9028\|הֶ֗ם]]&#8207; </big>**| fe.ku.dei.<small><sup>[[HVqsmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

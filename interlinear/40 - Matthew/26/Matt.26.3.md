@@ -1,12 +1,12 @@
-**Matthew 26:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:3**<big><big>[[Matt.26.1 The Plot to Kill Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then assembled together the chief priests, and the scribes, and the elders of the people, unto the palace of the high priest, who was called Caiaphas,
 <small><sub>**BSB:**</sub></small>
 At that time the chief priests and elders of the people assembled in the courtyard of the high priest, whose name was Caiaphas,
 <small><sub>**Literal:**</sub></small>
 Then were gathered together the chief priests and <the> scribes and the elders of the people in the courtyard of the high priest who is being named Caiaphas<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.2|<< Matthew 26:2]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.4|Matthew 26:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were gathered together |**<big>[[G4863\|συνήχθησαν]]</big>**  |sunēchthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

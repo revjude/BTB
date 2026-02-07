@@ -1,10 +1,7 @@
 **LXX Psalm 22:16** 
 <small><sub>**LXX:**</sub></small>
 For many dogs encircled me; \[the\] gathering of the ones \[acting\] wicked compass me. They dug into my hands and my feet. 
-<small><sub>**KJV:**</sub></small>
-For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
-<small><sub>**BSB:**</sub></small>
-For dogs surround me; a band of evil men encircles me; they have pierced my hands and feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.15|<< Psalm 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.17|Psalm 22:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:16** is...

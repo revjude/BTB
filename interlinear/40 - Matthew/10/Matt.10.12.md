@@ -1,12 +1,12 @@
-**Matthew 10:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:12**<big><big>[[Matt.10.5 The Ministry of the Twelve|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when ye come into an house, salute it.
 <small><sub>**BSB:**</sub></small>
 As you enter the home, greet its occupants.
 <small><sub>**Literal:**</sub></small>
 Entering now into the house do greet it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.11|<< Matthew 10:11]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.13|Matthew 10:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Entering |**<big>[[G1525\|εἰσερχόμενοι]]</big>**  |eiserchomenoi <small><sup>[[V-PNP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

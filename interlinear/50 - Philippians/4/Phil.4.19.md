@@ -1,12 +1,12 @@
-**Philippians 4:19
-**<small><sub>**KJV:**</sub></small>
+**Philippians 4:19**<big><big>[[Phil.4.10 The Generosity of the Philippians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But my God shall supply all your need according to his riches in glory by Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 And my God will supply all your needs according to His glorious riches in Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 <the> And the God of mine will fill up all [the] needs of you according to the riches of Him in glory in Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.18|<< Philippians 4:18]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.20|Philippians 4:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Ezekiel 16:47** 
+**Ezekiel 16:47**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet hast thou not walked after their ways, nor done after their abominations: but, as [if that were] a very little [thing], thou wast corrupted more than they in all thy ways.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you not only walked in their ways and practiced their abominations, but soon
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.46|<< Ezekiel 16:46]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.48|Ezekiel 16:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in ways their  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H1870G\|דַרְכֵי]]&#8207;&#8207;[[H9029\|הֶן֙]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> dar.khei.<small><sup>[[HNcmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

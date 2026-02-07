@@ -1,10 +1,7 @@
 **LXX Numbers 18:19** 
 <small><sub>**LXX:**</sub></small>
 Every cut-away portion of the holy \[things\], as many \[things\] as the sons of Israel should remove \[to the\] <span class="smallcaps">lord</span>, to you I have given, and \[to\] your sons, and \[to\] your daughters after you -- an eternal law. \[It is\] an eternal covenant of salt before \[the\] <span class="smallcaps">lord</span> to you and \[to\] your seed after you. 
-<small><sub>**KJV:**</sub></small>
-All the heave offerings of the holy things, which the children of Israel offer unto the LORD, have I given thee, and thy sons and thy daughters with thee, by a statute for ever: it [is] a covenant of salt for ever before the LORD unto thee and to thy seed with thee.
-<small><sub>**BSB:**</sub></small>
-All the holy offerings that the Israelites present to the LORD I give to you and to your sons and daughters as a permanent statute. It is a permanent covenant of salt before the LORD for you and your offspring.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.18|<< Numbers 18:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.20|Numbers 18:20 >>]]</td></tr></table>
 
 | Translation | Greek |

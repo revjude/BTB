@@ -1,4 +1,4 @@
-**Genesis 8:21** 
+**Genesis 8:21**<big><big>[[Gen.8.20 Noah Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart [is] evil from his youth; neither will I again smite any more every thing living, as I have done.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the LORD smelled the pleasing aroma, He said in His heart, “Never again w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.20|<< Genesis 8:20]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.22|Genesis 8:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he smelled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7306\|יָּ֣רַח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.rach<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֮]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 77:8** 
 <small><sub>**LXX:**</sub></small>
 Or, will he cut off his mercy at \[the\] end? \[Did\] he finish entirely \[his\] discourse from generation to generations? 
-<small><sub>**KJV:**</sub></small>
-Is his mercy clean gone for ever? doth [his] promise fail for evermore?
-<small><sub>**BSB:**</sub></small>
-Is His loving devotion gone forever? Has His promise failed for all time?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.77.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.7|<< Psalm 77:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.9|Psalm 77:9 >>]]</td></tr></table>
 
 | Translation | Greek |

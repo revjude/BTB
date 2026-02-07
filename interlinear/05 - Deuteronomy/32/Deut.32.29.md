@@ -1,4 +1,4 @@
-**Deuteronomy 32:29** 
+**Deuteronomy 32:29**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O that they were wise, [that] they understood this, [that] they would consider their latter end!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If only they were wise, they would understand it; they would comprehend their fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.28|<< Deuteronomy 32:28]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.30|Deuteronomy 32:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3863\|ל֥וּ]]&#8207; </big>**| lu<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were wise  |**<big>&#8207;[[H2449\|חָכְמ֖וּ]]&#8207; </big>**| cha.khe.Mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

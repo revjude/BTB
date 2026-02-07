@@ -1,4 +1,4 @@
-**Leviticus 4:32** 
+**Leviticus 4:32**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he bring a lamb for a sin offering, he shall bring it a female without blemish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If, however, he brings a lamb as a sin offering, he must bring an unblemished fe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.31|<< Leviticus 4:31]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.33|Leviticus 4:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a male lamb  |**<big>&#8207;[[H3532\|כֶּ֛בֶשׂ]]&#8207; </big>**| Ke.ves<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

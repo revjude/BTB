@@ -1,10 +1,7 @@
 **LXX Deuteronomy 20:8** 
 <small><sub>**LXX:**</sub></small>
 And the scribes shall add to speak to the people, and shall say, Who \[is\] the man, the one fearing and timid in the heart? Let him go, and let him return to  his house! that he should not make timid the heart  of his brother, as  he. 
-<small><sub>**KJV:**</sub></small>
-And the officers shall speak further unto the people, and they shall say, What man [is there that is] fearful and fainthearted? let him go and return unto his house, lest his brethren’s heart faint as well as his heart.
-<small><sub>**BSB:**</sub></small>
-Then the officers shall speak further to the army, saying, “Is any man afraid or fainthearted? Let him return home, so that the hearts of his brothers will not melt like his own.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.7|<< Deuteronomy 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.9|Deuteronomy 20:9 >>]]</td></tr></table>
 
 | Translation | Greek |

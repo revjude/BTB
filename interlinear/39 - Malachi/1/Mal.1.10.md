@@ -1,4 +1,4 @@
-**Malachi 1:10** 
+**Malachi 1:10**<big><big>[[Mal.1.6 The Polluted Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is there] even among you that would shut the doors [for nought]? neither do ye kindle [fire] on mine altar for nought. I have no pleasure in you, saith the LORD of hosts, neither will I accept an offering at your hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who [is there] even among you that would shut the doors [for nought]? neither do
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.9|<< Malachi 1:9]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.11|Malachi 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 9:16** 
 <small><sub>**LXX:**</sub></small>
 And if I should call and he should hearken, I do not trust that he has listened to my  voice. 
-<small><sub>**KJV:**</sub></small>
-If I had called, and he had answered me; [yet] would I not believe that he had hearkened unto my voice.
-<small><sub>**BSB:**</sub></small>
-If I summoned Him and He answered me, I do not believe He would listen to my voice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.15|<< Job 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.17|Job 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

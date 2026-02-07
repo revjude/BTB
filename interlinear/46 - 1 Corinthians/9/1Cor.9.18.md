@@ -1,12 +1,12 @@
-**1 Corinthians 9:18
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:18**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What is my reward then? [Verily] that, when I preach the gospel, I may make the gospel of Christ without charge, that I abuse not my power in the gospel.
 <small><sub>**BSB:**</sub></small>
 What then is my reward? That in preaching the gospel I may offer it free of charge, and so not use up my rights in preaching it.
 <small><sub>**Literal:**</sub></small>
 What then of me is the reward? That in evangelising free of charge I may offer the gospel of the Christ so as <the> not to use up the right of me in the gospel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.17|<< 1 Corinthians 9:17]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.19|1 Corinthians 9:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

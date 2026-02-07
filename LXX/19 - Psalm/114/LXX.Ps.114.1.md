@@ -6,10 +6,7 @@ Alleluiah.
 
 <small><sub>**LXX:**</sub></small>
 In \[the\] exodus of Israel from Egypt, of \[the\] house of Jacob, from a barbaric people, 
-<small><sub>**KJV:**</sub></small>
-When Israel went out of Egypt, the house of Jacob from a people of strange language;
-<small><sub>**BSB:**</sub></small>
-When Israel departed from Egypt, the house of Jacob from a people of foreign tongue,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.114.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.113.9|<< Psalm 113:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.114.2|Psalm 114:2 >>]]</td></tr></table>
 
 | Translation | Greek |

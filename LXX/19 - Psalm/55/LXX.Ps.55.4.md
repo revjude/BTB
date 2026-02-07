@@ -1,10 +1,7 @@
 **LXX Psalm 55:4** 
 <small><sub>**LXX:**</sub></small>
  My heart was disturbed in me, and dread of death fell upon me. 
-<small><sub>**KJV:**</sub></small>
-My heart is sore pained within me: and the terrors of death are fallen upon me.
-<small><sub>**BSB:**</sub></small>
-My heart pounds within me, and the terrors of death assail me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.55.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.55.3|<< Psalm 55:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.55.5|Psalm 55:5 >>]]</td></tr></table>
 
 | Translation | Greek |

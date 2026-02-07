@@ -1,4 +1,4 @@
-**Psalms 37:13** 
+**Psalms 37:13**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Lord shall laugh at him: for he seeth that his day is coming.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but the Lord laughs, seeing that their day is coming.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.12|<< Psalms 37:12]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.14|Psalms 37:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he laughs  |**<big>&#8207;[[H7832\|יִשְׂחַק]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yis.chak-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

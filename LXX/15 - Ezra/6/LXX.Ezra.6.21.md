@@ -1,10 +1,7 @@
 **LXX Ezra 6:21** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel ate the passover -- the ones coming forth from the resettlement, and every one  separating themself of the uncleanness of \[the\] nations of the land \[that was\] theirs  to inquire of \[the\] <span class="smallcaps">lord</span> God of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel, which were come again out of captivity, and all such as had separated themselves unto them from the filthiness of the heathen of the land, to seek the LORD God of Israel, did eat,
-<small><sub>**BSB:**</sub></small>
-The Israelites who had returned from exile ate it, together with all who had separated themselves from the uncleanness of the peoples of the land to seek the LORD, the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.20|<< Ezra 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.22|Ezra 6:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 10:9** 
 <small><sub>**LXX:**</sub></small>
 This one was a giant hunter with hounds before \[the\] <span class="smallcaps">lord</span>  God. On account of this they shall say, As Nimrod a giant hunter with hounds before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.
-<small><sub>**BSB:**</sub></small>
-He was a mighty hunter before the LORD; so it is said, “Like Nimrod, a mighty hunter before the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.10.8|<< Genesis 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.10|Genesis 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

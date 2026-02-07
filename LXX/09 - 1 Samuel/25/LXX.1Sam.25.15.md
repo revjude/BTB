@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:15** 
 <small><sub>**LXX:**</sub></small>
 And the men \[were\] good to us, exceedingly. And they did not detain us, nor charged to us anything all the days which we were by them, in  our being in \[the\] field. 
-<small><sub>**KJV:**</sub></small>
-But the men [were] very good unto us, and we were not hurt, neither missed we any thing, as long as we were conversant with them, when we were in the fields:
-<small><sub>**BSB:**</sub></small>
-Yet these men were very good to us. When we were in the field, we were not harassed, and nothing of ours went missing the whole time we lived among them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.14|<< 1 Samuel 25:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.16|1 Samuel 25:16 >>]]</td></tr></table>
 
 | Translation | Greek |

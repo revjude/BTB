@@ -1,4 +1,4 @@
-**2 Chronicles 30:13** 
+**2 Chronicles 30:13**<big><big>[[2Chr.30.13 Hezekiah Celebrates the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there assembled at Jerusalem much people to keep the feast of unleavened bread in the second month, a very great congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the second month, a very great assembly gathered in Jerusalem to celebrate th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.12|<< 2 Chronicles 30:12]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.14|2 Chronicles 30:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0622\|יֵּֽאָסְפ֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.'a.se.Fu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִַ֙ם֙]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

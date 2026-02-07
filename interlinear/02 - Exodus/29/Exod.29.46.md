@@ -1,4 +1,4 @@
-**Exodus 29:46** 
+**Exodus 29:46**<big><big>[[Exod.29.45 God Will Dwell among the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall know that I [am] the LORD their God, that brought them forth out of the land of Egypt, that I may dwell among them: I [am] the LORD their God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they will know that I am the LORD their God, who brought them out of the lan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.45|<< Exodus 29:45]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.1|Exodus 30:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will know  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3045\|יָדְע֗וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.de.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

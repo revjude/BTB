@@ -1,4 +1,4 @@
-**Zephaniah 3:17** 
+**Zephaniah 3:17**<big><big>[[Zeph.3.14 Israel’s Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD thy God in the midst of thee [is] mighty; he will save, he will rejoice over thee with joy; he will rest in his love, he will joy over thee with singing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD your God is among you; He is mighty to save. He will rejoice over you w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.16|<< Zephaniah 3:16]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.18|Zephaniah 3:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֧ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God your  |**<big>&#8207;[[H0430G\|אֱלֹהַ֛יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| 'e.lo.Ha.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

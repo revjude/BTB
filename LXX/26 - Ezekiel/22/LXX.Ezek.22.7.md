@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:7** 
 <small><sub>**LXX:**</sub></small>
 They spoke evil of father and mother among you. And against the foreigner they behaved with injustice among you. Orphan and widow they tyrannize among you. 
-<small><sub>**KJV:**</sub></small>
-In thee have they set light by father and mother: in the midst of thee have they dealt by oppression with the stranger: in thee have they vexed the fatherless and the widow.
-<small><sub>**BSB:**</sub></small>
-Father and mother are treated with contempt. Within your walls the foreign resident is exploited, the fatherless and the widow are oppressed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.6|<< Ezekiel 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.8|Ezekiel 22:8 >>]]</td></tr></table>
 
 | Translation | Greek |

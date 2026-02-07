@@ -1,4 +1,4 @@
-**Ezekiel 3:26** 
+**Ezekiel 3:26**<big><big>[[Ezek.3.16 A Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make thy tongue cleave to the roof of thy mouth, that thou shalt be dumb, and shalt not be to them a reprover: for they [are] a rebellious house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make your tongue stick to the roof of your mouth, and you will be silent 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.25|<< Ezekiel 3:25]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.27|Ezekiel 3:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and tongue your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3956G\|לְשֽׁוֹנְ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.shon.<small><sup>[[HNcbsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will make stick  |**<big>&#8207;[[H1692\|אַדְבִּ֣יק]]&#8207; </big>**| 'ad.Bik<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

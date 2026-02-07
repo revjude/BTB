@@ -1,12 +1,12 @@
-**John 18:34
-**<small><sub>**KJV:**</sub></small>
+**John 18:34**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?
 <small><sub>**BSB:**</sub></small>
 “Are you saying this on your own,” Jesus asked, “or did others tell you about Me?”
 <small><sub>**Literal:**</sub></small>
 Answered to him <the> Jesus; Of yourself you yourself this say or others did say [it] to you concerning Me?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.33|<< John 18:33]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.35|John 18:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

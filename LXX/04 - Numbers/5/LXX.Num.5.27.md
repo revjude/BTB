@@ -1,10 +1,7 @@
 **LXX Numbers 5:27** 
 <small><sub>**LXX:**</sub></small>
 And it shall be if she should be defiled, and in forgetfulness her husband should be unaware, then shall enter into her the water  of rebuke  of accursing, and the belly shall bloat, and her thigh shall miscarry. And the woman will be for a curse  to her people. 
-<small><sub>**KJV:**</sub></small>
-And when he hath made her to drink the water, then it shall come to pass, [that], if she be defiled, and have done trespass against her husband, that the water that causeth the curse shall enter into her, [and become] bitter, and her belly shall swell, and her thigh shall rot: and the woman shall be a curse among her people.
-<small><sub>**BSB:**</sub></small>
-When he has made her drink the water, if she has defiled herself and been unfaithful to her husband, then the water that brings a curse will enter her and cause bitter suffering; her belly will swell, her thigh will shrivel, and she will become accursed among her people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.26|<< Numbers 5:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.28|Numbers 5:28 >>]]</td></tr></table>
 
 | Translation | Greek |

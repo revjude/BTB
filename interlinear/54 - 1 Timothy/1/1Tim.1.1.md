@@ -1,12 +1,12 @@
-**1 Timothy 1:1
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 1:1**<big><big>[[1Tim.1.1 Paul’s Greeting to Timothy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, [which is] our hope;
 <small><sub>**BSB:**</sub></small>
 Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope,
 <small><sub>**Literal:**</sub></small>
 Paul an apostle of [the] Lord Christ Jesus according to [the] command of God [the] Savior of us and Lord Christ Jesus the hope of us<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.18|<< 2 Thessalonians 3:18]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.2|1 Timothy 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | an apostle |**<big>[[G0652\|ἀπόστολος]]</big>**  |apostolos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

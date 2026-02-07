@@ -1,4 +1,4 @@
-**Psalms 115:11** 
+**Psalms 115:11**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye that fear the LORD, trust in the LORD: he [is] their help and their shield.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You who fear the LORD, trust in the LORD! He is their help and shield.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.10|<< Psalms 115:10]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.12|Psalms 115:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O [those] fearing  |**<big>&#8207;[[H3373\|יִרְאֵ֣י]]&#8207; </big>**| yir.'Ei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

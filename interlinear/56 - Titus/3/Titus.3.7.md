@@ -1,12 +1,12 @@
-**Titus 3:7
-**<small><sub>**KJV:**</sub></small>
+**Titus 3:7**<big><big>[[Titus.3.1 Heirs of Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That being justified by his grace, we should be made heirs according to the hope of eternal life.
 <small><sub>**BSB:**</sub></small>
 so that, having been justified by His grace, we would become heirs with the hope of eternal life.
 <small><sub>**Literal:**</sub></small>
 so that having been justified <the> by that grace heirs we may become according to [the] hope of life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.6|<< Titus 3:6]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.8|Titus 3:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having been justified |**<big>[[G1344\|δικαιωθέντες]]</big>**  |dikaiōthentes <small><sup>[[V-APP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

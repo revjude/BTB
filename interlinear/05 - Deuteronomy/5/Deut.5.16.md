@@ -1,4 +1,4 @@
-**Deuteronomy 5:16** 
+**Deuteronomy 5:16**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Honour thy father and thy mother, as the LORD thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the LORD thy God giveth thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Honor your father and your mother, as the LORD your God has commanded you, so th
 > $\quad$ referenced by: [[Matt.15.4|Matt 15:4]] ☩ [[Matt.19.18|Matt 19:18-19]] ☩ [[Mark.7.10|Mark 7:10]] ☩ [[Mark.10.19|Mark 10:19]] ☩ [[Luke.18.20|Luke 18:20]] ☩ [[Rom.13.9|Rom 13:9]] ☩ [[Eph.6.2|Eph 6:2-3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | honor  |**<big>&#8207;[[H3513G\|כַּבֵּ֤ד]]&#8207; </big>**| ka.Bed<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

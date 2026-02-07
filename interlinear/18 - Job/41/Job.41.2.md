@@ -1,4 +1,4 @@
-**Job 41:2** (40:26)
+**Job 41:2**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Canst thou put an hook into his nose? or bore his jaw through with a thorn?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Can you put a cord through his nose or pierce his jaw with a hook?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.1|<< Job 41:1]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.3|Job 41:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will you put  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H7760H\|תָשִׂ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ta.Sim<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a cord  |**<big>&#8207;[[H0100\|אַגְמ֣וֹן]]&#8207; </big>**| 'ag.Mon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

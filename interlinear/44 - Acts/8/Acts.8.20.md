@@ -1,12 +1,12 @@
-**Acts 8:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:20**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money.
 <small><sub>**BSB:**</sub></small>
 But Peter replied, “May your silver perish with you, because you thought you could buy the gift of God with money!
 <small><sub>**Literal:**</sub></small>
 Peter however said to him; The silver of you with you would [that] it be to destruction, because the gift <the> of God you thought through money to be obtained!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.19|<< Acts 8:19]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.21|Acts 8:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Peter |**<big>[[G4074G\|Πέτρος]]</big>**  |Petros <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

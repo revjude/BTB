@@ -1,4 +1,4 @@
-**Lamentations 1:15** 
+**Lamentations 1:15**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Lord hath trodden under foot all my mighty [men] in the midst of me: he hath called an assembly against me to crush my young men: the Lord hath trodden the virgin, the daughter of Judah, [as] in a winepress.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The Lord has rejected all the mighty men in my midst; He has summoned an army ag
 > $\quad$ referenced by: [[Rev.14.19|Rev 14:19-20]] ☩ [[Rev.19.15|Rev 19:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has thrown away  |**<big>&#8207;[[H5541A\|סִלָּ֨ה]]&#8207; </big>**| si.Lah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,6 +1,6 @@
 (KJV) **1 Kings 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13|<< 1 Kings 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15|1 Kings 15 >>]]</td></tr></table>
 
-***Ahijah’s Prophecy against Jeroboam*** ^bsb846
+<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥃]]</big></big>***Ahijah’s Prophecy against Jeroboam***
 
  $\quad$ <span class="startversemarker">[</span>**[[1Kgs.14.1|1]]**<span class="endversemarker">]</span> At that time<small><small>[^2]</small></small> Abijah the son<small><small>[^3]</small></small> of Jeroboam fell sick. <span class="startversemarker">[</span>**[[1Kgs.14.2|2]]**<span class="endversemarker">]</span> And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself<small><small>[^4]</small></small>, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there \[is\] Ahijah<small><small>[^5]</small></small> the prophet, which told me that \[I should be\] king over this people. <span class="startversemarker">[</span>**[[1Kgs.14.3|3]]**<span class="endversemarker">]</span> And take<small><small>[^6]</small></small> with thee<small><small>[^7]</small></small> ten loaves, and cracknels<small><small>[^8]</small></small>, and a cruse<small><small>[^9]</small></small> of honey, and go to him: he shall tell<small><small>[^10]</small></small> thee what shall become of the child. <span class="startversemarker">[</span>**[[1Kgs.14.4|4]]**<span class="endversemarker">]</span> And Jeroboam’s wife did so, and arose, and went to Shiloh<small><small>[^11]</small></small>, and came to the house of Ahijah. But Ahijah could not see; for his eyes<small><small>[^12]</small></small> were set by reason of his age<small><small>[^13]</small></small>. 
 
@@ -8,17 +8,17 @@ $\quad$ <span class="startversemarker">[</span>**[[1Kgs.14.5|5]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[1Kgs.14.17|17]]**<span class="endversemarker">]</span> [¶]And Jeroboam’s wife arose, and departed, and came to Tirzah<small><small>[^45]</small></small>: \[and\] when she came<small><small>[^46]</small></small> to the threshold of the door, the child died; <span class="startversemarker">[</span>**[[1Kgs.14.18|18]]**<span class="endversemarker">]</span> And they buried him; and all Israel mourned for him, according to the word of the <span class="smallcaps">Lord</span>, which he spake by the hand of his servant Ahijah the prophet.
 
-***Nadab Succeeds Jeroboam*** ^bsb847
+<big><big>[[1Kgs.14.19 Nadab Succeeds Jeroboam|⥃]]</big></big>***Nadab Succeeds Jeroboam***
 
  <span class="startversemarker">[</span>**[[1Kgs.14.19|19]]**<span class="endversemarker">]</span> And the rest of the acts of Jeroboam, how he warred<small><small>[^47]</small></small>, and how he reigned, behold, they \[are\] written in the book<small><small>[^48]</small></small> of the chronicles of the kings of Israel.<small><small>[^49]</small></small> <span class="startversemarker">[</span>**[[1Kgs.14.20|20]]**<span class="endversemarker">]</span> And the days which Jeroboam reigned \[were\] two and twenty years: and he slept<small><small>[^50]</small></small> with his fathers, and Nadab<small><small>[^51]</small></small> his son reigned in his stead.
 
-***Rehoboam Reigns in Judah***&emsp;<small><sup>\[ [[2Chr.12|2 Chronicles 12:13–14]] ]</sup></small> ^bsb848
+<big><big>[[1Kgs.14.21 Rehoboam Reigns in Judah|⥃]]</big></big>***Rehoboam Reigns in Judah***&emsp;<small><sup>\[ [[2Chr.12|2 Chronicles 12:13–14]] ]</sup></small>
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[1Kgs.14.21|21]]**<span class="endversemarker">]</span> And Rehoboam<small><small>[^52]</small></small> the son of Solomon reigned in Judah. Rehoboam \[was\] forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city<small><small>[^53]</small></small> which the <span class="smallcaps">Lord</span> did choose out of all the tribes of Israel, to put his name<small><small>[^54]</small></small> there. And his mother’s name \[was\] Naamah<small><small>[^55]</small></small> an Ammonitess. <span class="startversemarker">[</span>**[[1Kgs.14.22|22]]**<span class="endversemarker">]</span> And Judah<small><small>[^56]</small></small> did evil in the sight of the <span class="smallcaps">Lord</span>, and they provoked<small><small>[^57]</small></small> him to jealousy with their sins which they had committed, above all<small><small>[^58]</small></small> that their fathers had done. <span class="startversemarker">[</span>**[[1Kgs.14.23|23]]**<span class="endversemarker">]</span> For they also built<small><small>[^59]</small></small> them high places, and images<small><small>[^60]</small></small>, and groves<small><small>[^61]</small></small>, on every high hill, and under every<small><small>[^62]</small></small> green tree. <span class="startversemarker">[</span>**[[1Kgs.14.24|24]]**<span class="endversemarker">]</span> And there<small><small>[^63]</small></small> were also sodomites in the land: \[and\] they did according to all the abominations of the nations which the <span class="smallcaps">Lord</span> cast out before the children of Israel.
 
-***Shishak Raids Jerusalem***&emsp;<small><sup>\[ [[2Chr.12|2 Chronicles 12:1–12]] ]</sup></small> ^bsb849
+<big><big>[[1Kgs.14.25 Shishak Raids Jerusalem|⥃]]</big></big>***Shishak Raids Jerusalem***&emsp;<small><sup>\[ [[2Chr.12|2 Chronicles 12:1–12]] ]</sup></small>
 
  
 

@@ -1,12 +1,12 @@
-**John 17:4
-**<small><sub>**KJV:**</sub></small>
+**John 17:4**<big><big>[[John.17.1 Prayer for the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I have glorified thee on the earth: I have finished the work which thou gavest me to do.
 <small><sub>**BSB:**</sub></small>
 I have glorified You on earth by accomplishing the work You gave Me to do.
 <small><sub>**Literal:**</sub></small>
 I myself You glorified on the earth the work having completed that You have given Me that I may do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.3|<< John 17:3]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.5|John 17:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγώ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | You |**<big>[[G4771\|σε]]</big>**  |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

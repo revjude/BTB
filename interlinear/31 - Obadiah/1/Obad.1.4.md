@@ -1,4 +1,4 @@
-**Obadiah 1:4** 
+**Obadiah 1:4**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though thou exalt [thyself] as the eagle, and though thou set thy nest among the stars, thence will I bring thee down, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though you soar like the eagle and make your nest among the stars, even from the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.3|<< Obadiah 1:3]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.5|Obadiah 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will make high  |**<big>&#8207;[[H1361\|תַּגְבִּ֣יהַּ]]&#8207; </big>**| tag.Bi.ah<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

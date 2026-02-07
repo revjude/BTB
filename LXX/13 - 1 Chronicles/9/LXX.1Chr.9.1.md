@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And all Israel traced descent; and behold, they are written upon \[the\] scroll \[of the\] kings of Israel and Judah, and they were resettled in Babylon because  of their breach-of-contract which they transgressed. 
-<small><sub>**KJV:**</sub></small>
-So all Israel were reckoned by genealogies; and, behold, they [were] written in the book of the kings of Israel and Judah, [who] were carried away to Babylon for their transgression.
-<small><sub>**BSB:**</sub></small>
-So all Israel was recorded in the genealogies written in the Book of the Kings of Israel. But Judah was exiled to Babylon because of their unfaithfulness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.40|<< 1 Chronicles 8:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.2|1 Chronicles 9:2 >>]]</td></tr></table>
 
 | Translation | Greek |

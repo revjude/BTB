@@ -1,10 +1,7 @@
 **LXX Numbers 11:26** 
 <small><sub>**LXX:**</sub></small>
 And were left behind two men in the camp; \[the\] name of the one \[was\] Eldad, and \[the\] name of the second \[was\] Medad; and the spirit rested upon them, and these were of the ones delineated, and came not to the tent; and they prophesied in the camp. 
-<small><sub>**KJV:**</sub></small>
-But there remained two [of the] men in the camp, the name of the one [was] Eldad, and the name of the other Medad: and the spirit rested upon them; and they [were] of them that were written, but went not out unto the tabernacle: and they prophesied in the camp.
-<small><sub>**BSB:**</sub></small>
-Two men, however, had remained in the camp—one named Eldad and the other Medad—and the Spirit rested on them. They were among those listed, but they had not gone out to the tent, and they prophesied in the camp.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.25|<< Numbers 11:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.27|Numbers 11:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 38:19** 
+**Ezekiel 38:19**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For in my jealousy [and] in the fire of my wrath have I spoken, Surely in that day there shall be a great shaking in the land of Israel;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In My zeal and fiery rage I proclaim that on that day there will be a great eart
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.18|<< Ezekiel 38:18]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.20|Ezekiel 38:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in jealousy my  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7068\|קִנְאָתִ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> kin.'a.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] fire of  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0784\|אֵשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'esh-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

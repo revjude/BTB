@@ -1,12 +1,12 @@
-**Colossians 1:24
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:24**<big><big>[[Col.1.24 Paul’s Suffering for the Church|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body’s sake, which is the church:
 <small><sub>**BSB:**</sub></small>
 Now I rejoice in my sufferings for you, and I fill up in my flesh what is lacking in regard to Christ’s afflictions for the sake of His body, which is the church.
 <small><sub>**Literal:**</sub></small>
 Now I rejoice in the sufferings of mine for you and I am filling up that which is lacking of the tribulations <the> of Christ in the flesh of mine for the body of Him which is the church;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.23|<< Colossians 1:23]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.25|Colossians 1:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3568\|Νῦν]]</big>**  |Nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I rejoice |**<big>[[G5463\|χαίρω]]</big>**  |chairō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:28** 
 <small><sub>**LXX:**</sub></small>
 Upward of \[the\] gate of the horses the priests repaired, \[every\] man right opposite his own house. 
-<small><sub>**KJV:**</sub></small>
-From above the horse gate repaired the priests, every one over against his house.
-<small><sub>**BSB:**</sub></small>
-Above the Horse Gate, each of the priests made repairs in front of his own house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.27|<< Nehemiah 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.29|Nehemiah 3:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 31:32** 
+**Genesis 31:32**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With whomsoever thou findest thy gods, let him not live: before our brethren discern thou what [is] thine with me, and take [it] to thee. For Jacob knew not that Rachel had stolen them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you find your gods with anyone here, he shall not live! In the presence of ou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.31|<< Genesis 31:31]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.33|Genesis 31:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with  |**<big>&#8207;[[H5973A\|עִ֠ם]]&#8207; </big>**| 'im<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [anyone] whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

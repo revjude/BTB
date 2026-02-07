@@ -1,12 +1,12 @@
-**Luke 11:28
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:28**<big><big>[[Luke.11.27 True Blessedness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he said, Yea rather, blessed [are] they that hear the word of God, and keep it.
 <small><sub>**BSB:**</sub></small>
 But He replied, “Blessed rather are those who hear the word of God and obey it.”
 <small><sub>**Literal:**</sub></small>
 He himself then said; No rather blessed [are] those hearing the word <the> of God and keeping it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.27|<< Luke 11:27]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.29|Luke 11:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

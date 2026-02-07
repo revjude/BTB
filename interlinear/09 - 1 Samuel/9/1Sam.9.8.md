@@ -1,4 +1,4 @@
-**1 Samuel 9:8** 
+**1 Samuel 9:8**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the servant answered Saul again, and said, Behold, I have here at hand the fourth part of a shekel of silver: [that] will I give to the man of God, to tell us our way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The servant answered him again. “Look,” he said, “I have here in my hand a
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.7|<< 1 Samuel 9:7]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.9|1 Samuel 9:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he repeated  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3254G\|יֹּ֤סֶף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.sef<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the servant  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5288\|נַּ֙עַר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:16** 
 <small><sub>**LXX:**</sub></small>
 And the pitcher  of flour failed not, and the jar  of olive oil had not less, according to the saying of \[the\] <span class="smallcaps">lord</span>, which he spoke by \[the\] hand of Elijah. 
-<small><sub>**KJV:**</sub></small>
-[And] the barrel of meal wasted not, neither did the cruse of oil fail, according to the word of the LORD, which he spake by Elijah.
-<small><sub>**BSB:**</sub></small>
-The jar of flour was not exhausted and the jug of oil did not run dry, according to the word that the LORD had spoken through Elijah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.15|<< 1 Kings 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.17|1 Kings 17:17 >>]]</td></tr></table>
 
 | Translation | Greek |

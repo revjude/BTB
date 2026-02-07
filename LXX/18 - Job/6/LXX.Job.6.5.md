@@ -1,10 +1,7 @@
 **LXX Job 6:5** 
 <small><sub>**LXX:**</sub></small>
 For what -- will \[the\] wild donkey ineffectually cry out if he is not  seeking grain, \[no\]. And shall then \[the\] voice of \[the\] ox tear \[loose\] at \[the\] stable \[while\] having  foods, \[no\]. 
-<small><sub>**KJV:**</sub></small>
-Doth the wild ass bray when he hath grass? or loweth the ox over his fodder?
-<small><sub>**BSB:**</sub></small>
-Does a wild donkey bray over fresh grass, or an ox low over its fodder?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.4|<< Job 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.6|Job 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

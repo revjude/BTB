@@ -1,12 +1,12 @@
-**John 7:35
-**<small><sub>**KJV:**</sub></small>
+**John 7:35**<big><big>[[John.7.25 Is Jesus the Christ？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?
 <small><sub>**BSB:**</sub></small>
 At this, the Jews said to one another, “Where does He intend to go that we will not find Him? Will He go where the Jews are dispersed among the Greeks, and teach the Greeks?
 <small><sub>**Literal:**</sub></small>
 Said therefore the Jews among themselves; Where He is about to go that we ourselves not will find Him? Surely to the Dispersion among the Greeks is He about to go and to teach the Greeks?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.34|<< John 7:34]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.36|John 7:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|εἶπον]]</big>**  |eipon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:15** 
 <small><sub>**LXX:**</sub></small>
 And \[there\] went down three of the thirty rulers to the rock to David, into the cave of Adullam; and the camp of the Philistines pitched in the valley of the giants. 
-<small><sub>**KJV:**</sub></small>
-Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim.
-<small><sub>**BSB:**</sub></small>
-Three of the thirty chief men went down to David, to the rock at the cave of Adullam, while a company of Philistines was encamped in the Valley of Rephaim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.14|<< 1 Chronicles 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.16|1 Chronicles 11:16 >>]]</td></tr></table>
 
 | Translation | Greek |

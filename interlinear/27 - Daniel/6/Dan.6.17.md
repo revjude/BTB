@@ -1,4 +1,4 @@
-**Daniel 6:17** (6:18)
+**Daniel 6:17**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a stone was brought, and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the purpose might not be changed concerning Daniel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A stone was brought and placed over the mouth of the den, and the king sealed it
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.16|<< Daniel 6:16]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.18|Daniel 6:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was brought  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0858\|הֵיתָ֙יִת֙]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> hei.Ta.yit<small><sup>[[AVHp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a stone  |**<big>&#8207;[[H0069\|אֶ֣בֶן]]&#8207; </big>**| 'E.ven<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

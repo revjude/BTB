@@ -1,4 +1,4 @@
-**Micah 7:16** 
+**Micah 7:16**<big><big>[[Mic.7.14 God’s Compassion on Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The nations shall see and be confounded at all their might: they shall lay [their] hand upon [their] mouth, their ears shall be deaf.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nations will see and be ashamed, deprived of all their might. They will put thei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.15|<< Micah 7:15]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.17|Micah 7:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will see  |**<big>&#8207;[[H7200G\|יִרְא֤וּ]]&#8207; </big>**| yir.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nations  |**<big>&#8207;[[H1471A\|גוֹיִם֙]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

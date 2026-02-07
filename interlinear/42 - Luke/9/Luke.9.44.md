@@ -1,12 +1,12 @@
-**Luke 9:44
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:44**<big><big>[[Luke.9.43 The Second Prediction of the Passion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men.
 <small><sub>**BSB:**</sub></small>
 “Let these words sink into your ears: The Son of Man is about to be delivered into the hands of men.”
 <small><sub>**Literal:**</sub></small>
 do implant in yourself you yourselves into the ears of you <the> words these; <the> for the Son <the> of Man is soon to be betrayed into [the] hands of men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.43|<< Luke 9:43]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.45|Luke 9:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do implant in yourself |**<big>[[G5087\|θέσθε]]</big>**  |thesthe <small><sup>[[V-2AMM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:19** 
 <small><sub>**LXX:**</sub></small>
 Did, by doing away, Hezekiah king of Judah and all Judah do away with him? \[Was it\] not they feared  \[the\] <span class="smallcaps">lord</span>, and they beseeched  in front of \[the\] <span class="smallcaps">lord</span>, and \[the\] <span class="smallcaps">lord</span> ceased from the evils which he spoke against them? And we did great evils against our souls. 
-<small><sub>**KJV:**</sub></small>
-Did Hezekiah king of Judah and all Judah put him at all to death? did he not fear the LORD, and besought the LORD, and the LORD repented him of the evil which he had pronounced against them? Thus might we procure great evil against our souls.
-<small><sub>**BSB:**</sub></small>
-Did Hezekiah king of Judah or anyone else in Judah put him to death? Did Hezekiah not fear the LORD and seek His favor, and did not the LORD relent of the disaster He had pronounced against them? But we are about to bring great harm on ourselves!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.18|<< Jeremiah 26:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.20|Jeremiah 26:20 >>]]</td></tr></table>
 
 | Translation | Greek |

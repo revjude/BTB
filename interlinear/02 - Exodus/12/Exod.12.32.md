@@ -1,4 +1,4 @@
-**Exodus 12:32** 
+**Exodus 12:32**<big><big>[[Exod.12.31 The Exodus Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also take your flocks and your herds, as ye have said, and be gone; and bless me also.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take your flocks and herds as well, just as you have said, and depart! And bless
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.31|<< Exodus 12:31]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.33|Exodus 12:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | both  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | flock[s] your  |**<big>&#8207;[[H6629G\|צֹאנְ]]&#8207;&#8207;[[H9026\|כֶ֨ם]]&#8207; </big>**| tzon.<small><sup>[[HNcbsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

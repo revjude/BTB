@@ -1,12 +1,12 @@
-**Acts 16:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:13**<big><big>[[Acts.16.11 Lydia’s Conversion in Philippi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake unto the women which resorted [thither].
 <small><sub>**BSB:**</sub></small>
 On the Sabbath we went outside the city gate along the river, where it was customary to find a place of prayer. After sitting down, we spoke to the women who had gathered there.
 <small><sub>**Literal:**</sub></small>
 On the then day of the Sabbaths we went forth outside the gate by a river where we were accustomed prayer to have, And having sat down we were speaking to those having gathered women.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.12|<< Acts 16:12]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.14|Acts 16:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

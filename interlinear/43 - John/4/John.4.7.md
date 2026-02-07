@@ -1,12 +1,12 @@
-**John 4:7
-**<small><sub>**KJV:**</sub></small>
+**John 4:7**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There cometh a woman of Samaria to draw water: Jesus saith unto her, Give me to drink.
 <small><sub>**BSB:**</sub></small>
 When a Samaritan woman came to draw water, Jesus said to her, “Give Me a drink.”
 <small><sub>**Literal:**</sub></small>
 Comes a woman out of <the> Samaria to draw water. Says to her <the> Jesus; do give Me to drink.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.6|<< John 4:6]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.8|John 4:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Comes |**<big>[[G2064\|Ἔρχεται]]</big>**  |Erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a woman |**<big>[[G1135G\|γυνὴ]]</big>**  |gunē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

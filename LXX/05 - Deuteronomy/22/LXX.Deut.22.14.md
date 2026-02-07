@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:14** 
 <small><sub>**LXX:**</sub></small>
 and should place upon her words offered as an excuse, and should bring upon her a bad name, and should say,  I took this woman, and drawing near to her, I did not find her tokens of virginity. 
-<small><sub>**KJV:**</sub></small>
-And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:
-<small><sub>**BSB:**</sub></small>
-and he then accuses her of shameful conduct and gives her a bad name, saying, “I married this woman and had relations with her, but I discovered she was not a virgin.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.13|<< Deuteronomy 22:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.15|Deuteronomy 22:15 >>]]</td></tr></table>
 
 | Translation | Greek |

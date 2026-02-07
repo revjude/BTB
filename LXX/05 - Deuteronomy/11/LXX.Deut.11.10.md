@@ -1,10 +1,7 @@
 **LXX Deuteronomy 11:10** 
 <small><sub>**LXX:**</sub></small>
 For it is the land into which you enter there to inherit it; it is not as the land of Egypt, from where you went forth from there; whenever they sow the seed, and water with the feet, as a garden of vegetables. 
-<small><sub>**KJV:**</sub></small>
-For the land, whither thou goest in to possess it, [is] not as the land of Egypt, from whence ye came out, where thou sowedst thy seed, and wateredst [it] with thy foot, as a garden of herbs:
-<small><sub>**BSB:**</sub></small>
-For the land that you are entering to possess is not like the land of Egypt, from which you have come, where you sowed your seed and irrigated on foot, like a vegetable garden.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.11.9|<< Deuteronomy 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.11.11|Deuteronomy 11:11 >>]]</td></tr></table>
 
 | Translation | Greek |

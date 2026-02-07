@@ -1,12 +1,12 @@
-**2 Corinthians 10:4
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 10:4**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For the weapons of our warfare [are] not carnal, but mighty through God to the pulling down of strong holds;)
 <small><sub>**BSB:**</sub></small>
 The weapons of our warfare are not the weapons of the flesh. Instead, they have divine power to demolish strongholds.
 <small><sub>**Literal:**</sub></small>
 The for weapons of the warfare of us [are] not fleshly but powerful <the> divinely to [the] demolition of strongholds, [5] arguments overthrowing<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.3|<< 2 Corinthians 10:3]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.5|2 Corinthians 10:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 105:4** 
 <small><sub>**LXX:**</sub></small>
 Seek the <span class="smallcaps">lord</span>, and be fortified! Seek  his face always! 
-<small><sub>**KJV:**</sub></small>
-Seek the LORD, and his strength: seek his face evermore.
-<small><sub>**BSB:**</sub></small>
-Seek out the LORD and His strength; seek His face always.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.105.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.3|<< Psalm 105:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.5|Psalm 105:5 >>]]</td></tr></table>
 
 | Translation | Greek |

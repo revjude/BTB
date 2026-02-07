@@ -1,4 +1,4 @@
-**1 Kings 6:38** 
+**1 Kings 6:38**<big><big>[[1Kgs.6.36 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the eleventh year, in the month Bul, which [is] the eighth month, was the house finished throughout all the parts thereof, and according to all the fashion of it. So was he seven years in building it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the eleventh year, in the month of Bul, the eighth month, the temple was fini
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.37|<< 1 Kings 6:37]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.1|1 Kings 7:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in the year  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H8141\|שָּׁנָה֩]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> one [plus]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0259\|אַחַ֨ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.Chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

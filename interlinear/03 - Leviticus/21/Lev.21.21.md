@@ -1,4 +1,4 @@
-**Leviticus 21:21** 
+**Leviticus 21:21**<big><big>[[Lev.21.16 Restrictions against Those with Blemishes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the LORD made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No descendant of Aaron the priest who has a defect shall approach to present the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.20|<< Leviticus 21:20]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.22|Leviticus 21:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | any  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | man  |**<big>&#8207;[[H0376G\|אִ֞ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

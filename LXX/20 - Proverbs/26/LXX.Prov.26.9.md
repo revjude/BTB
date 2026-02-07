@@ -1,10 +1,7 @@
 **LXX Proverbs 26:9** 
 <small><sub>**LXX:**</sub></small>
 Thorn-bushes germinate in \[the\] hand of the intoxicated; and servitude in \[the\] hand  of fools. 
-<small><sub>**KJV:**</sub></small>
-[As] a thorn goeth up into the hand of a drunkard, so [is] a parable in the mouth of fools.
-<small><sub>**BSB:**</sub></small>
-Like a thorn that goes into the hand of a drunkard is a proverb in the mouth of a fool.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.26.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.8|<< Proverbs 26:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.10|Proverbs 26:10 >>]]</td></tr></table>
 
 | Translation | Greek |

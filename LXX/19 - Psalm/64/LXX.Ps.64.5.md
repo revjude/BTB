@@ -1,10 +1,7 @@
 **LXX Psalm 64:5** 
 <small><sub>**LXX:**</sub></small>
 They determined for themselves an evil matter; they describe \[to themselves\]  \[how\] to hide snares. They said, Who shall see them? 
-<small><sub>**KJV:**</sub></small>
-They encourage themselves [in] an evil matter: they commune of laying snares privily; they say, Who shall see them?
-<small><sub>**BSB:**</sub></small>
-They hold fast to their evil purpose; they speak of hiding their snares. “Who will see them?” they say.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.64.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.64.4|<< Psalm 64:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.6|Psalm 64:6 >>]]</td></tr></table>
 
 | Translation | Greek |

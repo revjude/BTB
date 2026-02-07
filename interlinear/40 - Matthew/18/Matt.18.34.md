@@ -1,12 +1,12 @@
-**Matthew 18:34
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:34**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him.
 <small><sub>**BSB:**</sub></small>
 In anger his master turned him over to the jailers to be tortured, until he should repay all that he owed.
 <small><sub>**Literal:**</sub></small>
 And having been angry the master of him delivered him to the jailers until that he may pay all which is being owed to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.33|<< Matthew 18:33]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.35|Matthew 18:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having been angry |**<big>[[G3710\|ὀργισθεὶς]]</big>**  |orgistheis <small><sup>[[V-APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

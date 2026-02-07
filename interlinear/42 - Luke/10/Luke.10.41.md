@@ -1,12 +1,12 @@
-**Luke 10:41
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:41**<big><big>[[Luke.10.38 Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answered and said unto her, Martha, Martha, thou art careful and troubled about many things:
 <small><sub>**BSB:**</sub></small>
 “Martha, Martha,” the Lord replied, “you are worried and upset about many things.
 <small><sub>**Literal:**</sub></small>
 Answering now He said to her the Lord; Martha Martha, you are anxious and troubled about many things,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.40|<< Luke 10:40]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.42|Luke 10:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|Ἀποκριθεὶς]]</big>**  |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

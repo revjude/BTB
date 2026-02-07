@@ -1,10 +1,7 @@
 **LXX Job 30:20** 
 <small><sub>**LXX:**</sub></small>
 And I have cried out to you, and you hear me not; they stood and contemplated me. 
-<small><sub>**KJV:**</sub></small>
-I cry unto thee, and thou dost not hear me: I stand up, and thou regardest me [not].
-<small><sub>**BSB:**</sub></small>
-I cry out to You for help, but You do not answer; when I stand up, You merely look at me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.19|<< Job 30:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.21|Job 30:21 >>]]</td></tr></table>
 
 | Translation | Greek |

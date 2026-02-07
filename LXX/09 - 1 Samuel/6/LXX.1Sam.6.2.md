@@ -1,10 +1,7 @@
 **LXX 1 Samuel 6:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] Philistines called the priests, and the clairvoyants, and  their enchanters, saying, What should we do with the ark of \[the\] <span class="smallcaps">lord</span>? Make known to us by what \[means\] we shall send it unto  its place! 
-<small><sub>**KJV:**</sub></small>
-And the Philistines called for the priests and the diviners, saying, What shall we do to the ark of the LORD? tell us wherewith we shall send it to his place.
-<small><sub>**BSB:**</sub></small>
-the Philistines summoned the priests and diviners, saying, “What shall we do with the ark of the LORD? Tell us how to send it back to its place.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.1|<< 1 Samuel 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.3|1 Samuel 6:3 >>]]</td></tr></table>
 
 | Translation | Greek |

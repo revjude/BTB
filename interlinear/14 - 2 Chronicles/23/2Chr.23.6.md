@@ -1,4 +1,4 @@
-**2 Chronicles 23:6** 
+**2 Chronicles 23:6**<big><big>[[2Chr.23.1 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But let none come into the house of the LORD, save the priests, and they that minister of the Levites; they shall go in, for they [are] holy: but all the people shall keep the watch of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No one is to enter the house of the LORD except the priests and those Levites wh
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.5|<< 2 Chronicles 23:5]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.7|2 Chronicles 23:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and may not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anyone go  |**<big>&#8207;[[H0935G\|יָב֣וֹא]]&#8207; </big>**| ya.Vo'<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

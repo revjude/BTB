@@ -1,12 +1,12 @@
-**Luke 1:58
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:58**<big><big>[[Luke.1.57 The Birth of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And her neighbours and her cousins heard how the Lord had shewed great mercy upon her; and they rejoiced with her.
 <small><sub>**BSB:**</sub></small>
 Her neighbors and relatives heard that the Lord had shown her great mercy, and they rejoiced with her.
 <small><sub>**Literal:**</sub></small>
 And heard the neighbours and the relatives of her that magnified [the] Lord the mercy of Him with her, and they were rejoicing with her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.57|<< Luke 1:57]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.59|Luke 1:59 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | heard |**<big>[[G0191\|ἤκουσαν]]</big>**  |ēkousan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 14:28** 
 <small><sub>**LXX:**</sub></small>
 After three years you shall bring forth every  tenth  of your produce; in  that year you shall place it in  your cities. 
-<small><sub>**KJV:**</sub></small>
-At the end of three years thou shalt bring forth all the tithe of thine increase the same year, and shalt lay [it] up within thy gates:
-<small><sub>**BSB:**</sub></small>
-At the end of every three years, bring a tenth of all your produce for that year and lay it up within your gates.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.14.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.27|<< Deuteronomy 14:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.29|Deuteronomy 14:29 >>]]</td></tr></table>
 
 | Translation | Greek |

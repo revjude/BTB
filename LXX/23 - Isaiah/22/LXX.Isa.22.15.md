@@ -1,10 +1,7 @@
 **LXX Isaiah 22:15** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> of Hosts, Go into the cubicle, to Somnan the storekeeper, and say to him, 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD of hosts, Go, get thee unto this treasurer, [even] unto Shebna, which [is] over the house, [and say],
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD of Hosts says: “Go, say to Shebna, the steward in charge of the palace:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.14|<< Isaiah 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.16|Isaiah 22:16 >>]]</td></tr></table>
 
 | Translation | Greek |

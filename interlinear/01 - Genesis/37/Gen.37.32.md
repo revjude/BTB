@@ -1,4 +1,4 @@
-**Genesis 37:32** 
+**Genesis 37:32**<big><big>[[Gen.37.31 Jacob Mourns Joseph|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they sent the coat of [many] colours, and they brought [it] to their father; and said, This have we found: know now whether it [be] thy son’s coat or no.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They sent the robe of many colors to their father and said, “We found this. Ex
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.31|<< Genesis 37:31]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.33|Genesis 37:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they sent  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7971G\|יְשַׁלְּח֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sha.le.Chu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

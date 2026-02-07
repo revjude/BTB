@@ -1,10 +1,7 @@
 **LXX Micah 3:5** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> concerning the prophets, of the ones misleading  my people; the ones biting with  their teeth, and proclaiming peace upon \[them\], and \[when\] nothing was put into  their mouth, they \[even\] sanctified a war against \[them\]. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD concerning the prophets that make my people err, that bite with their teeth, and cry, Peace; and he that putteth not into their mouths, they even prepare war against him.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “As for the prophets who lead My people astray, who proclaim peace while they chew with their teeth, but declare war against one who puts nothing in their mouths:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.3.4|<< Micah 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.3.6|Micah 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

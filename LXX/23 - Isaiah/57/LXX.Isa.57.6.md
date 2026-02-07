@@ -1,10 +1,7 @@
 **LXX Isaiah 57:6** 
 <small><sub>**LXX:**</sub></small>
 That \[is\] your  portion, this is your  lot. To those you poured out libations, and to these you offered sacrifices; over these \[things\] then shall I not be provoked to anger? 
-<small><sub>**KJV:**</sub></small>
-Among the smooth [stones] of the stream [is] thy portion; they, they [are] thy lot: even to them hast thou poured a drink offering, thou hast offered a meat offering. Should I receive comfort in these?
-<small><sub>**BSB:**</sub></small>
-Your portion is among the smooth stones of the valley; indeed, they are your lot. Even to them you have poured out a drink offering and offered a grain offering. Should I relent because of these?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.57.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.5|<< Isaiah 57:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.7|Isaiah 57:7 >>]]</td></tr></table>
 
 | Translation | Greek |

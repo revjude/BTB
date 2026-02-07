@@ -1,4 +1,4 @@
-**1 Chronicles 4:9** 
+**1 Chronicles 4:9**<big><big>[[1Chr.4.9 The Prayer of Jabez|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jabez was more honourable than his brethren: and his mother called his name Jabez, saying, Because I bare him with sorrow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Jabez was more honorable than his brothers. His mother had named him Jabez, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.8|<< 1 Chronicles 4:8]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.10|1 Chronicles 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jabez  |**<big>&#8207;[[H3258H\|יַעְבֵּ֔ץ]]&#8207; </big>**| ya'.Betz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Matthew 11:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 11:14**<big><big>[[Matt.11.7 Jesus Testifies about John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if ye will receive [it], this is Elias, which was for to come.
 <small><sub>**BSB:**</sub></small>
 And if you are willing to accept it, he is the Elijah who was to come.
@@ -10,7 +10,7 @@ And if you are willing to receive [it], he himself is Elijah who is being about 
 > $\quad$ referencing: [[LXX.Mal.4.5|Mal 4:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

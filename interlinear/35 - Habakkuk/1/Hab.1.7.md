@@ -1,4 +1,4 @@
-**Habakkuk 1:7** 
+**Habakkuk 1:7**<big><big>[[Hab.1.5 The LORD’s Answer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They [are] terrible and dreadful: their judgment and their dignity shall proceed of themselves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are dreaded and feared; from themselves they derive justice and sovereignty
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.6|<< Habakkuk 1:6]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.8|Habakkuk 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] terrifying  |**<big>&#8207;[[H0366\|אָיֹ֥ם]]&#8207; </big>**| 'a.Yom<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and awesome  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3372G\|נוֹרָ֖א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> no.Ra'<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 31:5** 
+**Deuteronomy 31:5**<big><big>[[Deut.31.1 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall give them up before your face, that ye may do unto them according unto all the commandments which I have commanded you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will deliver them over to you, and you must do to them exactly as I hav
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.4|<< Deuteronomy 31:4]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.6|Deuteronomy 31:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will deliver up them  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5414G\|נְתָנָ֥]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.ta.Na<small><sup>[[HVqq3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

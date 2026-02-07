@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:44** 
 <small><sub>**LXX:**</sub></small>
 And they ate, and left behind according to the saying of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-So he set [it] before them, and they did eat, and left [thereof], according to the word of the LORD.
-<small><sub>**BSB:**</sub></small>
-So he set it before them, and they ate and had some left over, according to the word of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.43|<< 2 Kings 4:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.1|2 Kings 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

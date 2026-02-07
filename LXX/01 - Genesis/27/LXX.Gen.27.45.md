@@ -1,10 +1,7 @@
 **LXX Genesis 27:45** 
 <small><sub>**LXX:**</sub></small>
 until the turning back the rage and the anger  of your brother from you, and he should forget what you have done to him. And sending, I will fetch you from there, lest at any time I should be childless from the two of you in one day. 
-<small><sub>**KJV:**</sub></small>
-Until thy brother’s anger turn away from thee, and he forget [that] which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?
-<small><sub>**BSB:**</sub></small>
-until your brother’s rage against you wanes and he forgets what you have done to him. Then I will send for you and bring you back from there. Why should I lose both of you in one day?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.44|<< Genesis 27:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.46|Genesis 27:46 >>]]</td></tr></table>
 
 | Translation | Greek |

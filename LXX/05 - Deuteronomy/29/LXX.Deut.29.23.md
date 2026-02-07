@@ -1,10 +1,7 @@
 **LXX Deuteronomy 29:23** 
 <small><sub>**LXX:**</sub></small>
 sulphur and salt incinerating; all  its land shall not be sown, nor shall rise, nor should ascend upon it any green \[thing\]. As Sodom and Gomorrah were eradicated -- Admah and Zeboim, which \[the\] <span class="smallcaps">lord</span> eradicated in rage and anger, 
-<small><sub>**KJV:**</sub></small>
-[And that] the whole land thereof [is] brimstone, and salt, [and] burning, [that] it is not sown, nor beareth, nor any grass groweth therein, like the overthrow of Sodom, and Gomorrah, Admah, and Zeboim, which the LORD overthrew in his anger, and in his wrath:
-<small><sub>**BSB:**</sub></small>
-All its soil will be a burning waste of sulfur and salt, unsown and unproductive, with no plant growing on it, just like the destruction of Sodom and Gomorrah, Admah and Zeboiim, which the LORD overthrew in His fierce anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.22|<< Deuteronomy 29:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.24|Deuteronomy 29:24 >>]]</td></tr></table>
 
 | Translation | Greek |

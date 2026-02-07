@@ -1,10 +1,7 @@
 **LXX Psalm 89:34** 
 <small><sub>**LXX:**</sub></small>
 nor in any way should I profane  my covenant; and the \[things\] going forth through  my lips in no way should I annul. 
-<small><sub>**KJV:**</sub></small>
-My covenant will I not break, nor alter the thing that is gone out of my lips.
-<small><sub>**BSB:**</sub></small>
-I will not violate My covenant or alter the utterance of My lips.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.33|<< Psalm 89:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.35|Psalm 89:35 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 8:55** 
+**1 Kings 8:55**<big><big>[[1Kgs.8.54 Solomon’s Benediction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he stood, and blessed all the congregation of Israel with a loud voice, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he stood and blessed the whole assembly of Israel in a loud voice, saying:
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.54|<< 1 Kings 8:54]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.56|1 Kings 8:56 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stood  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5975G\|יַּעְמֹ֕ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya'.Mod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he blessed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1288\|יְבָ֕רֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Va.rekh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

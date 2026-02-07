@@ -1,4 +1,4 @@
-**Job 34:14** 
+**Job 34:14**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he set his heart upon man, [if] he gather unto himself his spirit and his breath;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If He were to set His heart to it and withdraw His Spirit and breath,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.13|<< Job 34:13]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.15|Job 34:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will set  |**<big>&#8207;[[H7760A\|יָשִׂ֣ים]]&#8207; </big>**| ya.Sim<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

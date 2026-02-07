@@ -1,4 +1,4 @@
-**Job 39:11** 
+**Job 39:11**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wilt thou trust him, because his strength [is] great? or wilt thou leave thy labour to him?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Can you rely on his great strength? Will you leave your hard work to him?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.10|<< Job 39:10]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.12|Job 39:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ will you trust  |**<big>&#8207;[[H9008\|הֲֽ]]&#8207;&#8207;[[H0982\|תִבְטַח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> tiv.tach-<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in it  |**<big>&#8207;[[H9003\|בּ֭]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| b<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

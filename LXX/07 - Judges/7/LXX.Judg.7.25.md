@@ -1,10 +1,7 @@
 **LXX Judges 7:25** 
 <small><sub>**LXX:**</sub></small>
 And they seized the two rulers of Midian --  Oreb and  Zeeb; and they killed  Oreb in Sur, and  Zeeb they killed in Jakeb Zeeb. And they pursued  Midian. And the head of Oreb, and of Zeeb they brought to Gideon from  the other side of the Jordan. 
-<small><sub>**KJV:**</sub></small>
-And they took two princes of the Midianites, Oreb and Zeeb; and they slew Oreb upon the rock Oreb, and Zeeb they slew at the winepress of Zeeb, and pursued Midian, and brought the heads of Oreb and Zeeb to Gideon on the other side Jordan.
-<small><sub>**BSB:**</sub></small>
-They also captured Oreb and Zeeb, the two princes of Midian; and they killed Oreb at the rock of Oreb and Zeeb at the winepress of Zeeb. So they pursued the Midianites and brought the heads of Oreb and Zeeb to Gideon on the other side of the Jordan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.24|<< Judges 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.1|Judges 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

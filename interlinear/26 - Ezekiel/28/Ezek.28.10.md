@@ -1,4 +1,4 @@
-**Ezekiel 28:10** 
+**Ezekiel 28:10**<big><big>[[Ezek.28.1 A Prophecy against the Ruler of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt die the deaths of the uncircumcised by the hand of strangers: for I have spoken [it], saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will die the death of the uncircumcised at the hands of foreigners. For I ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.9|<< Ezekiel 28:9]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.11|Ezekiel 28:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] deaths of  |**<big>&#8207;[[H4194\|מוֹתֵ֧י]]&#8207; </big>**| mo.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | uncircumcised [men]  |**<big>&#8207;[[H6189\|עֲרֵלִ֛ים]]&#8207; </big>**| 'a.re.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

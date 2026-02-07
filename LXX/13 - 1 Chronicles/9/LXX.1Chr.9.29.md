@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:29** 
 <small><sub>**LXX:**</sub></small>
 And \[some\] of them \[were\] placed over the equipment, and over all  the holy items, and over the fine flour, and the wine, and the oil, and the frankincense, and the aromatics. 
-<small><sub>**KJV:**</sub></small>
-[Some] of them also [were] appointed to oversee the vessels, and all the instruments of the sanctuary, and the fine flour, and the wine, and the oil, and the frankincense, and the spices.
-<small><sub>**BSB:**</sub></small>
-Others were put in charge of the furnishings and other articles of the sanctuary, as well as the fine flour, wine, oil, frankincense, and spices.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.28|<< 1 Chronicles 9:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.30|1 Chronicles 9:30 >>]]</td></tr></table>
 
 | Translation | Greek |

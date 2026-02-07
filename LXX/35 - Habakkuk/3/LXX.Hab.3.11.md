@@ -1,10 +1,7 @@
 **LXX Habakkuk 3:11** 
 <small><sub>**LXX:**</sub></small>
 The sun was exalted, and the moon stood in  her order. At \[the\] light of your arrows they shall go forth, and your weapons in brightness of lightning. 
-<small><sub>**KJV:**</sub></small>
-The sun [and] moon stood still in their habitation: at the light of thine arrows they went, [and] at the shining of thy glittering spear.
-<small><sub>**BSB:**</sub></small>
-Sun and moon stood still in their places at the flash of Your flying arrows, at the brightness of Your shining spear.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.10|<< Habakkuk 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.12|Habakkuk 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 44:13** 
+**Jeremiah 44:13**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will punish them that dwell in the land of Egypt, as I have punished Jerusalem, by the sword, by the famine, and by the pestilence:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will punish those who live in the land of Egypt, just as I punished Jerusalem,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.12|<< Jeremiah 44:12]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.14|Jeremiah 44:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will visit [judgment]  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6485H\|פָקַדְתִּ֗י]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fa.kad.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַ֤ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

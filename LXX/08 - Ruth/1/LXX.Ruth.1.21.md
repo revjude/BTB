@@ -1,10 +1,7 @@
 **LXX Ruth 1:21** 
 <small><sub>**LXX:**</sub></small>
 I went out full, and the <span class="smallcaps">lord</span> returned me empty. And why do you call me Naomi, and \[the\] <span class="smallcaps">lord</span> humbled me, and the worthy one afflicted me? 
-<small><sub>**KJV:**</sub></small>
-I went out full, and the LORD hath brought me home again empty: why [then] call ye me Naomi, seeing the LORD hath testified against me, and the Almighty hath afflicted me?
-<small><sub>**BSB:**</sub></small>
-I went away full, but the LORD has brought me back empty. Why call me Naomi? After all, the LORD has testified against me, and the Almighty has afflicted me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.20|<< Ruth 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.22|Ruth 1:22 >>]]</td></tr></table>
 
 | Translation | Greek |

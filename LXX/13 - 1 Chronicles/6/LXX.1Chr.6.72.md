@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:72** 
 <small><sub>**LXX:**</sub></small>
 And from \[the\] tribe of Issachar --  Kedesh and  her outskirts, and  Daberath and  her outskirts, 
-<small><sub>**KJV:**</sub></small>
-And out of the tribe of Issachar; Kedesh with her suburbs, Daberath with her suburbs,
-<small><sub>**BSB:**</sub></small>
-From the tribe of Issachar they were given Kedesh, Daberath,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.72|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.71|<< 1 Chronicles 6:71]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.73|1 Chronicles 6:73 >>]]</td></tr></table>
 
 | Translation | Greek |

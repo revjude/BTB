@@ -1,4 +1,4 @@
-**Job 20:8** 
+**Job 20:8**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall fly away as a dream, and shall not be found: yea, he shall be chased away as a vision of the night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will fly away like a dream, never to be found; he will be chased away like a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.7|<< Job 20:7]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.9|Job 20:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like a dream  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H2472\|חֲל֣וֹם]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> cha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will fly away  |**<big>&#8207;[[H5774A\|יָ֭עוּף]]&#8207; </big>**| Ya.'uf<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

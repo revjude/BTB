@@ -1,5 +1,5 @@
-**Romans 15:12
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:12**<big><big>[[Rom.15.7 Christ the Servant of Jews and Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust.
 <small><sub>**BSB:**</sub></small>
 And once more, Isaiah says: “The Root of Jesse will appear, One who will arise to rule over the Gentiles; in Him the Gentiles will put their hope.”
@@ -10,7 +10,7 @@ And again Isaiah says: There will be the root <the> of Jesse, and the [One] aris
 > $\quad$ referencing: [[LXX.Isa.11.10|Isa 11:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | again |**<big>[[G3825\|πάλιν]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

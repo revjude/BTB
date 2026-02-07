@@ -1,12 +1,12 @@
-**Luke 20:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:3**<big><big>[[Luke.20.1 Jesus’ Authority Challenged|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he answered and said unto them, I will also ask you one thing; and answer me:
 <small><sub>**BSB:**</sub></small>
 “I will also ask you a question,” Jesus replied. “Tell Me:
 <small><sub>**Literal:**</sub></small>
 Answering now He said to them; Will ask you I myself also one thing, and do tell Me:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.2|<< Luke 20:2]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.4|Luke 20:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|Ἀποκριθεὶς]]</big>**  |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

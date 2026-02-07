@@ -1,10 +1,7 @@
 **LXX 1 Kings 6:31** 
 <small><sub>**LXX:**</sub></small>
 And to the doorway of the dabir he made doors of wood of juniper, and five-fold doorways. 
-<small><sub>**KJV:**</sub></small>
-And for the entering of the oracle he made doors [of] olive tree: the lintel [and] side posts [were] a fifth part [of the wall].
-<small><sub>**BSB:**</sub></small>
-For the entrance to the inner sanctuary, Solomon constructed doors of olive wood with five-sided doorposts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.6.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.30|<< 1 Kings 6:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.32|1 Kings 6:32 >>]]</td></tr></table>
 
 | Translation | Greek |

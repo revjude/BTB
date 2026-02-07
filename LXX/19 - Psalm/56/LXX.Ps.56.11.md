@@ -1,10 +1,7 @@
 **LXX Psalm 56:11** 
 <small><sub>**LXX:**</sub></small>
 Unto  God I hoped; I will not be afraid in what man shall do to me. 
-<small><sub>**KJV:**</sub></small>
-In God have I put my trust: I will not be afraid what man can do unto me.
-<small><sub>**BSB:**</sub></small>
-in God I trust; I will not be afraid. What can man do to me?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.56.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.10|<< Psalm 56:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.12|Psalm 56:12 >>]]</td></tr></table>
 
 | Translation | Greek |

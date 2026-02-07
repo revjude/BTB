@@ -1,4 +1,4 @@
-**1 Kings 7:41** 
+**1 Kings 7:41**<big><big>[[1Kgs.7.40 Completion of the Bronze Works|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The two pillars, and the [two] bowls of the chapiters that [were] on the top of the two pillars; and the two networks, to cover the two bowls of the chapiters which [were] upon the top of the pillars;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the two pillars; the two bowl-shaped capitals atop the pillars; the two sets of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.40|<< 1 Kings 7:40]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.42|1 Kings 7:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pillars  |**<big>&#8207;[[H5982G\|עַמֻּדִ֣ים]]&#8207; </big>**| 'a.mu.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two  |**<big>&#8207;[[H8147\|שְׁנַ֔יִם]]&#8207; </big>**| she.Na.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

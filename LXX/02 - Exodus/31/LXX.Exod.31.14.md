@@ -1,10 +1,7 @@
 **LXX Exodus 31:14** 
 <small><sub>**LXX:**</sub></small>
 And you shall guard the Sabbath, for it is holy to you. The one profaning it, unto death shall be put to death. Every one who shall do work on it, that soul shall be utterly destroyed from \[the\] midst  of his people. 
-<small><sub>**KJV:**</sub></small>
-Ye shall keep the sabbath therefore; for it [is] holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth [any] work therein, that soul shall be cut off from among his people.
-<small><sub>**BSB:**</sub></small>
-Keep the Sabbath, for it is holy to you. Anyone who profanes it must surely be put to death. Whoever does any work on that day must be cut off from among his people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.31.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.13|<< Exodus 31:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.31.15|Exodus 31:15 >>]]</td></tr></table>
 
 | Translation | Greek |

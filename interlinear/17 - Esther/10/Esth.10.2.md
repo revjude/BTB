@@ -1,4 +1,4 @@
-**Esther 10:2** 
+**Esther 10:2**<big><big>[[Esth.10.1 Tribute to Xerxes and Mordecai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the acts of his power and of his might, and the declaration of the greatness of Mordecai, whereunto the king advanced him, [are] they not written in the book of the chronicles of the kings of Media and Persia?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And all of Mordecai’s powerful and magnificent accomplishments, together with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.10.1|<< Esther 10:1]]</td><td align="center" style="border:none;">[[Esth.10|Esther 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.10.3|Esther 10:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] achievement of  |**<big>&#8207;[[H4639G\|מַעֲשֵׂ֤ה]]&#8207; </big>**| ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

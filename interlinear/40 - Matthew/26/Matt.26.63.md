@@ -1,12 +1,12 @@
-**Matthew 26:63
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:63**<big><big>[[Matt.26.57 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Jesus held his peace. And the high priest answered and said unto him, I adjure thee by the living God, that thou tell us whether thou be the Christ, the Son of God.
 <small><sub>**BSB:**</sub></small>
 But Jesus remained silent. Then the high priest said to Him, “I charge You under oath by the living God: Tell us if You are the Christ, the Son of God.”
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus was silent. And answering the high priest said to Him; I adjure you by <the> God the living that us may you tell if You yourself are the Christ the Son <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.62|<< Matthew 26:62]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.64|Matthew 26:64 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

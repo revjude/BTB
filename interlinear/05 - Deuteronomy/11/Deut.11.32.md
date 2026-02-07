@@ -1,4 +1,4 @@
-**Deuteronomy 11:32** 
+**Deuteronomy 11:32**<big><big>[[Deut.11.26 A Blessing and a Curse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall observe to do all the statutes and judgments which I set before you this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ be careful to follow all the statutes and ordinances that I am setting before yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.31|<< Deuteronomy 11:31]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.1|Deuteronomy 12:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will take care  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H8104J\|שְׁמַרְתֶּ֣ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> she.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to observe  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשׂ֔וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

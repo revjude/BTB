@@ -1,10 +1,7 @@
 **LXX Joshua 4:15** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke  to Joshua, saying, 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Joshua, saying,
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Joshua,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.14|<< Joshua 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.16|Joshua 4:16 >>]]</td></tr></table>
 
 | Translation | Greek |

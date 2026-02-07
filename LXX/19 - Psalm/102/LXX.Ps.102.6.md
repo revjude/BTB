@@ -1,10 +1,7 @@
 **LXX Psalm 102:6** 
 <small><sub>**LXX:**</sub></small>
 I became like a solitary pelican; I became as \[the\] long-eared owl in \[its\] area. 
-<small><sub>**KJV:**</sub></small>
-I am like a pelican of the wilderness: I am like an owl of the desert.
-<small><sub>**BSB:**</sub></small>
-I am like a desert owl, like an owl among the ruins.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.5|<< Psalm 102:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.7|Psalm 102:7 >>]]</td></tr></table>
 
 | Translation | Greek |

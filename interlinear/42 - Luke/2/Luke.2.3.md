@@ -1,12 +1,12 @@
-**Luke 2:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:3**<big><big>[[Luke.2.1 The Birth of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all went to be taxed, every one into his own city.
 <small><sub>**BSB:**</sub></small>
 And everyone went to his own town to register.
 <small><sub>**Literal:**</sub></small>
 And were going all to be registered, each to the their own city.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.2|<< Luke 2:2]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.4|Luke 2:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were going |**<big>[[G4198\|ἐπορεύοντο]]</big>**  |eporeuonto <small><sup>[[V-INI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

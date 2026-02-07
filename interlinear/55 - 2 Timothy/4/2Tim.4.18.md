@@ -1,12 +1,12 @@
-**2 Timothy 4:18
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:18**<big><big>[[2Tim.4.16 The Lord Remains Faithful|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the Lord shall deliver me from every evil work, and will preserve [me] unto his heavenly kingdom: to whom [be] glory for ever and ever. Amen.
 <small><sub>**BSB:**</sub></small>
 And the Lord will rescue me from every evil action and bring me safely into His heavenly kingdom. To Him be the glory forever and ever. Amen.
 <small><sub>**Literal:**</sub></small>
 and Will deliver me the Lord from every deed evil and will bring [me] safely into the kingdom of Him <the> heavenly; to whom [is] the glory unto the ages of the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.17|<< 2 Timothy 4:17]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.19|2 Timothy 4:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Will deliver |**<big>[[G4506\|ῥύσεταί]]</big>**  |rhusetai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**2 Timothy 3:4
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 3:4**<big><big>[[2Tim.3.1 Evil in the Last Days|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Traitors, heady, highminded, lovers of pleasures more than lovers of God;
 <small><sub>**BSB:**</sub></small>
 traitorous, reckless, conceited, lovers of pleasure rather than lovers of God,
 <small><sub>**Literal:**</sub></small>
 treacherous, reckless, puffed up, lovers of pleasure rather than lovers of God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.3|<< 2 Timothy 3:3]]</td><td align="center" style="border:none;">[[2Tim.3|2 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.3.5|2 Timothy 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | treacherous, |**<big>[[G4273\|προδόται,]]</big>**  |prodotai <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | reckless, |**<big>[[G4312\|προπετεῖς,]]</big>**  |propeteis <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

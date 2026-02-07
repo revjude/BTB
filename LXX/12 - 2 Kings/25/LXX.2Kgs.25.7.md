@@ -1,10 +1,7 @@
 **LXX 2 Kings 25:7** 
 <small><sub>**LXX:**</sub></small>
 And he slew the sons of Zedekiah before his eyes. And the eyes of Zedekiah he blinded, and he tied him in shackles, and led him unto Babylon. 
-<small><sub>**KJV:**</sub></small>
-And they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him with fetters of brass, and carried him to Babylon.
-<small><sub>**BSB:**</sub></small>
-And they slaughtered the sons of Zedekiah before his eyes. Then they put out his eyes, bound him with bronze shackles, and took him to Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.6|<< 2 Kings 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.8|2 Kings 25:8 >>]]</td></tr></table>
 
 | Translation | Greek |

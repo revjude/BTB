@@ -1,4 +1,4 @@
-**Isaiah 66:7** 
+**Isaiah 66:7**<big><big>[[Isa.66.7 Rejoice with Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Before she travailed, she brought forth; before her pain came, she was delivered of a man child.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Before she travailed, she brought forth; before her pain came, she was delivered
 > $\quad$ referenced by: [[Rev.12.1|Rev 12:1-2]] ☩ [[Rev.12.5|Rev 12:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> before  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2962\|טֶ֥רֶם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Te.rem<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she was in labor  |**<big>&#8207;[[H2342I\|תָּחִ֖יל]]&#8207; </big>**| ta.Chil<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

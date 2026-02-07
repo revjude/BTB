@@ -6,10 +6,7 @@ A psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 To you, O <span class="smallcaps">lord</span>, I shall cry out.  My God, do not remain silent from me! lest at any time you should remain silent, and I shall be likened to the ones going down into \[the\] pit. 
-<small><sub>**KJV:**</sub></small>
-[A Psalm] of David. Unto thee will I cry, O LORD my rock; be not silent to me: lest, [if] thou be silent to me, I become like them that go down into the pit.
-<small><sub>**BSB:**</sub></small>
-Of David. To You, O LORD, I call; be not deaf to me, O my Rock. For if You remain silent, I will be like those descending to the Pit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.27.14|<< Psalm 27:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.28.2|Psalm 28:2 >>]]</td></tr></table>
 
 | Translation | Greek |

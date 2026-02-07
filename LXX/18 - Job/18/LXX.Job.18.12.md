@@ -1,10 +1,7 @@
 **LXX Job 18:12** 
 <small><sub>**LXX:**</sub></small>
 But in hunger an extraordinary severe downfall is prepared for him. 
-<small><sub>**KJV:**</sub></small>
-His strength shall be hungerbitten, and destruction [shall be] ready at his side.
-<small><sub>**BSB:**</sub></small>
-His strength is depleted, and calamity is ready at his side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.18.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.11|<< Job 18:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.13|Job 18:13 >>]]</td></tr></table>
 
 | Translation | Greek |

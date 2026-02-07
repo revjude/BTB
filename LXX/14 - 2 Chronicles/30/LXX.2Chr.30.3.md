@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:3** 
 <small><sub>**LXX:**</sub></small>
 for they were not able to observe it in  that time, for the priests were not sanctified enough, and the people were not gathered in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-For they could not keep it at that time, because the priests had not sanctified themselves sufficiently, neither had the people gathered themselves together to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-since they had been unable to keep it at the regular time, because not enough priests had consecrated themselves and the people had not been gathered in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.2|<< 2 Chronicles 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.4|2 Chronicles 30:4 >>]]</td></tr></table>
 
 | Translation | Greek |

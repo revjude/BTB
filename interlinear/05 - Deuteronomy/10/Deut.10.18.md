@@ -1,4 +1,4 @@
-**Deuteronomy 10:18** 
+**Deuteronomy 10:18**<big><big>[[Deut.10.12 A Call to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He doth execute the judgment of the fatherless and widow, and loveth the stranger, in giving him food and raiment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He executes justice for the fatherless and widow, and He loves the foreigner, gi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.17|<< Deuteronomy 10:17]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.19|Deuteronomy 10:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] bringing about  |**<big>&#8207;[[H6213A\|עֹשֶׂ֛ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | judgment of  |**<big>&#8207;[[H4941H\|מִשְׁפַּ֥ט]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

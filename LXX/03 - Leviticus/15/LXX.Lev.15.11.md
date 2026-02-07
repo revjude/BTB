@@ -1,10 +1,7 @@
 **LXX Leviticus 15:11** 
 <small><sub>**LXX:**</sub></small>
 And of as many as should touch the one having a seminal emission, and  his hands have not been washed in water, he shall wash  his garments, and shall bathe in water, and he will be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-And whomsoever he toucheth that hath the issue, and hath not rinsed his hands in water, he shall wash his clothes, and bathe [himself] in water, and be unclean until the even.
-<small><sub>**BSB:**</sub></small>
-If the man with the discharge touches anyone without first rinsing his hands with water, the one who was touched must wash his clothes and bathe with water, and he will be unclean until evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.10|<< Leviticus 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.12|Leviticus 15:12 >>]]</td></tr></table>
 
 | Translation | Greek |

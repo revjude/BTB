@@ -1,10 +1,7 @@
 **LXX Psalm 127:2** 
 <small><sub>**LXX:**</sub></small>
 For it is vain for you  to rise up early; you arise after  sitting down, O ones eating \[the\] bread of grief, whenever he should give sleep to his beloved ones. 
-<small><sub>**KJV:**</sub></small>
-[It is] vain for you to rise up early, to sit up late, to eat the bread of sorrows: [for] so he giveth his beloved sleep.
-<small><sub>**BSB:**</sub></small>
-In vain you rise early and stay up late, toiling for bread to eat—for He gives sleep to His beloved.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.127.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.127.1|<< Psalm 127:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.127.3|Psalm 127:3 >>]]</td></tr></table>
 
 | Translation | Greek |

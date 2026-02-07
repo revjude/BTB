@@ -1,4 +1,4 @@
-**Psalms 78:67** 
+**Psalms 78:67**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He rejected the tent of Joseph and refused the tribe of Ephraim.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.67|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.66|<< Psalms 78:66]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.68|Psalms 78:68 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rejected  |**<big>&#8207;[[H9001\|וַ֭]]&#8207;&#8207;[[H3988A\|יִּמְאַס]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yim.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> [the] tent of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0168G\|אֹ֣הֶל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'O.hel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

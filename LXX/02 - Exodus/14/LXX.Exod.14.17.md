@@ -1,10 +1,7 @@
 **LXX Exodus 14:17** 
 <small><sub>**LXX:**</sub></small>
 And behold, I will harden the heart of Pharaoh, and all the Egyptians; and they will enter in after them, and I will be glorified by Pharaoh, and by all  his military, and by the chariots, and by  his horses. 
-<small><sub>**KJV:**</sub></small>
-And I, behold, I will harden the hearts of the Egyptians, and they shall follow them: and I will get me honour upon Pharaoh, and upon all his host, upon his chariots, and upon his horsemen.
-<small><sub>**BSB:**</sub></small>
-And I will harden the hearts of the Egyptians so that they will go in after them. Then I will gain honor by means of Pharaoh and all his army and chariots and horsemen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.16|<< Exodus 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.18|Exodus 14:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ecclesiastes 10:9** 
+**Ecclesiastes 10:9**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso removeth stones shall be hurt therewith; [and] he that cleaveth wood shall be endangered thereby.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The one who quarries stones may be injured by them, and he who splits logs endan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.8|<< Ecclesiastes 10:8]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.10|Ecclesiastes 10:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] quarries  |**<big>&#8207;[[H5265\|מַסִּ֣יעַ]]&#8207; </big>**| ma.Si.a'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | stones  |**<big>&#8207;[[H0068G\|אֲבָנִ֔ים]]&#8207; </big>**| 'a.va.Nim<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

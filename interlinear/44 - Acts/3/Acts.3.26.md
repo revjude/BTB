@@ -1,12 +1,12 @@
-**Acts 3:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 3:26**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Unto you first God, having raised up his Son Jesus, sent him to bless you, in turning away every one of you from his iniquities.
 <small><sub>**BSB:**</sub></small>
 When God raised up His Servant, He sent Him first to you to bless you by turning each of you from your wicked ways.”
 <small><sub>**Literal:**</sub></small>
 To you first having raised up <the> God the servant of Him Jesus sent Him blessing you in <the> turning away each from the wickednesses of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.25|<< Acts 3:25]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.1|Acts 4:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To you |**<big>[[G4771\|ὑμῖν]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | first |**<big>[[G4413G\|πρῶτον]]</big>**  |prōton <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

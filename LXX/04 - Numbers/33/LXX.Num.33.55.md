@@ -1,10 +1,7 @@
 **LXX Numbers 33:55** 
 <small><sub>**LXX:**</sub></small>
 And if you should not destroy the ones dwelling upon the land from your face, then it shall be whom ever you should leave behind of them, \[shall be\] barbs in  your eyes, and arrows in  your sides; and they shall be an enemy to you upon the land upon which you dwell. 
-<small><sub>**KJV:**</sub></small>
-But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them [shall be] pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell.
-<small><sub>**BSB:**</sub></small>
-But if you do not drive out the inhabitants of the land before you, those you allow to remain will become barbs in your eyes and thorns in your sides; they will harass you in the land where you settle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.54|<< Numbers 33:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.56|Numbers 33:56 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Hilkiah the great priest said to Shaphan the scribe, I found a scroll of the law in \[the\] house of \[the\] <span class="smallcaps">lord</span>. And Hilkiah gave to Shaphan the scroll, and he read it. 
-<small><sub>**KJV:**</sub></small>
-And Hilkiah the high priest said unto Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah gave the book to Shaphan, and he read it.
-<small><sub>**BSB:**</sub></small>
-Then Hilkiah the high priest said to Shaphan the scribe, “I have found the Book of the Law in the house of the LORD!” And he gave it to Shaphan, who read it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.7|<< 2 Kings 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.9|2 Kings 22:9 >>]]</td></tr></table>
 
 | Translation | Greek |

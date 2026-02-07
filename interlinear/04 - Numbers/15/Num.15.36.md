@@ -1,4 +1,4 @@
-**Numbers 15:36** 
+**Numbers 15:36**<big><big>[[Num.15.32 A Sabbath-Breaker Stoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the congregation brought him without the camp, and stoned him with stones, and he died; as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the whole congregation took the man outside the camp and stoned him to death,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.35|<< Numbers 15:35]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.37|Numbers 15:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they brought out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318H\|יֹּצִ֨יאוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Tzi.'u<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֜]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

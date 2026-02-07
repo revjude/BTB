@@ -1,12 +1,12 @@
-**Psalms 134:1** 
+**Psalms 134:1**<big><big>[[Ps.134.1 Bless the LORD, All You Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Song of degrees. Behold, bless ye the LORD, all [ye] servants of the LORD, which by night stand in the house of the LORD.
+Behold, bless ye the LORD, all [ye] servants of the LORD, which by night stand in the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 A song of ascents. Come, bless the LORD, all you servants of the LORD who serve by night in the house of the LORD!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.134.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.134.0|<< Psalms 134:0]]</td><td align="center" style="border:none;">[[Ps.134|Psalms 134]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.134.2|Psalms 134:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bless  |**<big>&#8207;[[H1288\|בָּרֲכ֣וּ]]&#8207; </big>**| ba.ra.Khu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

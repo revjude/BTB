@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:21** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons of Shelah \[the\] son of Judah \[were\] Er \[the\] father of Lecah, and Laadah \[the\] father of Mareshah, and \[the\] generations of the families of Ephradabak to the house of Ashbea, 
-<small><sub>**KJV:**</sub></small>
-The sons of Shelah the son of Judah [were], Er the father of Lecah, and Laadah the father of Mareshah, and the families of the house of them that wrought fine linen, of the house of Ashbea,
-<small><sub>**BSB:**</sub></small>
-The sons of Shelah son of Judah: Er the father of Lecah, Laadah the father of Mareshah and the clans of the linen workers at Beth-ashbea,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.20|<< 1 Chronicles 4:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.22|1 Chronicles 4:22 >>]]</td></tr></table>
 
 | Translation | Greek |

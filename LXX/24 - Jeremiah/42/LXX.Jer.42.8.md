@@ -1,10 +1,7 @@
 **LXX Jeremiah 42:8** 
 <small><sub>**LXX:**</sub></small>
 And he called  Johanan son of Kareah, and the leaders of the force, and all the people, from small and unto great. 
-<small><sub>**KJV:**</sub></small>
-Then called he Johanan the son of Kareah, and all the captains of the forces which [were] with him, and all the people from the least even to the greatest,
-<small><sub>**BSB:**</sub></small>
-and he summoned Johanan son of Kareah, all the commanders of the forces who were with him, and all the people from the least to the greatest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.7|<< Jeremiah 42:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.9|Jeremiah 42:9 >>]]</td></tr></table>
 
 | Translation | Greek |

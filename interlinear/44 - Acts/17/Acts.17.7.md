@@ -1,12 +1,12 @@
-**Acts 17:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:7**<big><big>[[Acts.17.1 The Uproar in Thessalonica|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whom Jason hath received: and these all do contrary to the decrees of Caesar, saying that there is another king, [one] Jesus.
 <small><sub>**BSB:**</sub></small>
 and Jason has welcomed them into his home. They are all defying Caesar’s decrees, saying that there is another king, named Jesus!”
 <small><sub>**Literal:**</sub></small>
 whom has received Jason; And these all contrary to the decrees of Caesar do king another proclaiming to be Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.6|<< Acts 17:6]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.8|Acts 17:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom |**<big>[[G3739\|οὓς]]</big>**  |hous <small><sup>[[R-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | has received |**<big>[[G5264\|ὑποδέδεκται]]</big>**  |hupodedektai <small><sup>[[V-RNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

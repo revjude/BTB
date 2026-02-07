@@ -1,10 +1,7 @@
 **LXX Exodus 10:10** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, Let it be so! \[The\] <span class="smallcaps">lord</span> \[be\] with you, in so far as I send you; but should also  your belongings? See! for wickedness lies near to you. 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, Let the LORD be so with you, as I will let you go, and your little ones: look [to it]; for evil [is] before you.
-<small><sub>**BSB:**</sub></small>
-Then Pharaoh told them, “May the LORD be with you if I ever let you go with your little ones. Clearly you are bent on evil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.10.9|<< Exodus 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.10.11|Exodus 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

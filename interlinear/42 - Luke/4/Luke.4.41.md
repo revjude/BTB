@@ -1,12 +1,12 @@
-**Luke 4:41
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:41**<big><big>[[Luke.4.38 Jesus Heals at Peter’s House|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And devils also came out of many, crying out, and saying, Thou art Christ the Son of God. And he rebuking [them] suffered them not to speak: for they knew that he was Christ.
 <small><sub>**BSB:**</sub></small>
 Demons also came out of many people, shouting, “You are the Son of God!” But He rebuked the demons and would not allow them to speak, because they knew He was the Christ.
 <small><sub>**Literal:**</sub></small>
 Were going out now also demons from many shouting out and saying that You yourself are <the> Christ the Son <the> of God. And rebuking [them] not was He allowing them to speak because they knew the Christ Him to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.40|<< Luke 4:40]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.42|Luke 4:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were going out |**<big>[[G1831\|ἐξήρχετο]]</big>**  |exērcheto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

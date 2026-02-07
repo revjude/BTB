@@ -1,10 +1,7 @@
 **LXX Ruth 4:8** 
 <small><sub>**LXX:**</sub></small>
 And the relative said  to Boaz, You acquire to yourself  my right of inheritance! And he untied  his sandal and gave \[it\] to him. 
-<small><sub>**KJV:**</sub></small>
-Therefore the kinsman said unto Boaz, Buy [it] for thee. So he drew off his shoe.
-<small><sub>**BSB:**</sub></small>
-So the kinsman-redeemer removed his sandal and said to Boaz, “Buy it for yourself.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.7|<< Ruth 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.9|Ruth 4:9 >>]]</td></tr></table>
 
 | Translation | Greek |

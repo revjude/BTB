@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:4** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the words which \[the\] <span class="smallcaps">lord</span> spoke unto Israel and Judah. 
-<small><sub>**KJV:**</sub></small>
-And these [are] the words that the LORD spake concerning Israel and concerning Judah.
-<small><sub>**BSB:**</sub></small>
-These are the words that the LORD spoke concerning Israel and Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.3|<< Jeremiah 30:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.5|Jeremiah 30:5 >>]]</td></tr></table>
 
 | Translation | Greek |

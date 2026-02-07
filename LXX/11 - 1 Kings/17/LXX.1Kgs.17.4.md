@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:4** 
 <small><sub>**LXX:**</sub></small>
 And it will be from out of the rushing stream you shall drink water, and to the crows I shall give charge  to nourish you there. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, [that] thou shalt drink of the brook; and I have commanded the ravens to feed thee there.
-<small><sub>**BSB:**</sub></small>
-And you are to drink from the brook, and I have commanded the ravens to feed you there.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.3|<< 1 Kings 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.5|1 Kings 17:5 >>]]</td></tr></table>
 
 | Translation | Greek |

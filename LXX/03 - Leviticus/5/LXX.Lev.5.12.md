@@ -1,10 +1,7 @@
 **LXX Leviticus 5:12** 
 <small><sub>**LXX:**</sub></small>
 And he shall bring it to the priest. And the priest grabbing from it a full  handful of his, shall place the memorial \[portion\] of it upon the altar, upon the whole burnt-offerings to the <span class="smallcaps">lord</span> -- it is a sin \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-Then shall he bring it to the priest, and the priest shall take his handful of it, [even] a memorial thereof, and burn [it] on the altar, according to the offerings made by fire unto the LORD: it [is] a sin offering.
-<small><sub>**BSB:**</sub></small>
-He is to bring it to the priest, who shall take a handful from it as a memorial portion and burn it on the altar atop the food offerings to the LORD; it is a sin offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.5.11|<< Leviticus 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.5.13|Leviticus 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

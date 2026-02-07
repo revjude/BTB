@@ -1,4 +1,4 @@
-**2 Kings 15:19** 
+**2 Kings 15:19**<big><big>[[2Kgs.15.17 Menahem Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] Pul the king of Assyria came against the land: and Menahem gave Pul a thousand talents of silver, that his hand might be with him to confirm the kingdom in his hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Pul king of Assyria invaded the land, and Menahem gave Pul a thousand talen
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.18|<< 2 Kings 15:18]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.20|2 Kings 15:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he came  |**<big>&#8207;[[H0935G\|בָּ֣א]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pul  |**<big>&#8207;[[H6322G\|פ֤וּל]]&#8207; </big>**| ful<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

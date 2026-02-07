@@ -1,4 +1,4 @@
-**Deuteronomy 21:15** 
+**Deuteronomy 21:15**<big><big>[[Deut.21.15 Inheritance Rights of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man have two wives, one beloved, and another hated, and they have born him children, [both] the beloved and the hated; and [if] the firstborn son be hers that was hated:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a man has two wives, one beloved and the other unloved, and both bear him son
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.14|<< Deuteronomy 21:14]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.16|Deuteronomy 21:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will belong  |**<big>&#8207;[[H1961\|תִהְיֶ֨יןָ]]&#8207; </big>**| tih.Yei.na<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

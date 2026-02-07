@@ -1,4 +1,4 @@
-**Jeremiah 2:31** 
+**Jeremiah 2:31**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O generation, see ye the word of the LORD. Have I been a wilderness unto Israel? a land of darkness? wherefore say my people, We are lords; we will come no more unto thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You people of this generation, consider the word of the LORD: “Have I been a w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.30|<< Jeremiah 2:30]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.32|Jeremiah 2:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O generation  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1755\|דּ֗וֹר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Dor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859D\|אַתֶּם֙]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

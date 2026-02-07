@@ -1,10 +1,7 @@
 **LXX Judges 8:15** 
 <small><sub>**LXX:**</sub></small>
 And he came to the rulers of Succoth. And he said to them, Behold, Zebah and Zalmunna, by whom you berated me, saying, Not \[is\] \[the\] hand of Zebah and Zalmunna now in your hand, that we will give bread \[loaves\] \[to\] your men fainting. 
-<small><sub>**KJV:**</sub></small>
-And he came unto the men of Succoth, and said, Behold Zebah and Zalmunna, with whom ye did upbraid me, saying, [Are] the hands of Zebah and Zalmunna now in thine hand, that we should give bread unto thy men [that are] weary?
-<small><sub>**BSB:**</sub></small>
-And Gideon went to the men of Succoth and said, “Here are Zebah and Zalmunna, about whom you taunted me, saying, ‘Are the hands of Zebah and Zalmunna already in your possession, that we should give bread to your weary men?’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.14|<< Judges 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.16|Judges 8:16 >>]]</td></tr></table>
 
 | Translation | Greek |

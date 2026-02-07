@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:27** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, All the earth will be desolate; but in no way will I do \[it\] \[unto\] completion. 
-<small><sub>**KJV:**</sub></small>
-For thus hath the LORD said, The whole land shall be desolate; yet will I not make a full end.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD says: “The whole land will be desolate, but I will not finish its destruction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.26|<< Jeremiah 4:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.28|Jeremiah 4:28 >>]]</td></tr></table>
 
 | Translation | Greek |

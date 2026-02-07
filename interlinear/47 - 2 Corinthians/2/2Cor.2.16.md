@@ -1,12 +1,12 @@
-**2 Corinthians 2:16
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 2:16**<big><big>[[2Cor.2.12 Triumph in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To the one [we are] the savour of death unto death; and to the other the savour of life unto life. And who [is] sufficient for these things?
 <small><sub>**BSB:**</sub></small>
 To the one we are an odor that brings death, to the other a fragrance that brings life. And who is qualified for such a task?
 <small><sub>**Literal:**</sub></small>
 to one indeed an odor from death to death, to one however a fragrance from life to life. And for these things who [is] sufficient?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.15|<< 2 Corinthians 2:15]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.17|2 Corinthians 2:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to one |**<big>[[G3739\|οἷς]]</big>**  |hois <small><sup>[[R-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

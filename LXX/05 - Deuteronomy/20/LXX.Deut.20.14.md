@@ -1,10 +1,7 @@
 **LXX Deuteronomy 20:14** 
 <small><sub>**LXX:**</sub></small>
 except the women and the belongings. And all the cattle, and all as much as exists in the city, and all the chattel you shall despoil for yourself, and you shall eat all the plunder  of your enemy, whom \[the\] <span class="smallcaps">lord</span>  your God gives to you. 
-<small><sub>**KJV:**</sub></small>
-But the women, and the little ones, and the cattle, and all that is in the city, [even] all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies, which the LORD thy God hath given thee.
-<small><sub>**BSB:**</sub></small>
-But the women, children, livestock, and whatever else is in the city—all its spoil—you may take as plunder, and you shall use the spoil of your enemies that the LORD your God gives you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.20.13|<< Deuteronomy 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.20.15|Deuteronomy 20:15 >>]]</td></tr></table>
 
 | Translation | Greek |

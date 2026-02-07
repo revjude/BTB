@@ -1,10 +1,7 @@
 **LXX Leviticus 16:20** 
 <small><sub>**LXX:**</sub></small>
 And he shall complete making atonement for the \[holy\] place, and the tent of the testimony, and the altar; and he shall make a cleansing for the priests. And he shall bring the living young he-goat. 
-<small><sub>**KJV:**</sub></small>
-And when he hath made an end of reconciling the holy [place], and the tabernacle of the congregation, and the altar, he shall bring the live goat:
-<small><sub>**BSB:**</sub></small>
-When Aaron has finished purifying the Most Holy Place, the Tent of Meeting, and the altar, he is to bring forward the live goat.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.19|<< Leviticus 16:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.21|Leviticus 16:21 >>]]</td></tr></table>
 
 | Translation | Greek |

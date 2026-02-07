@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah sent unto all Israel and Judah, and he wrote letters unto  Ephraim and Manasseh to come into \[the\] house of \[the\] <span class="smallcaps">lord</span> in Jerusalem,  to observe the passover to the <span class="smallcaps">lord</span> God of Israel. 
-<small><sub>**KJV:**</sub></small>
-And Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to the house of the LORD at Jerusalem, to keep the passover unto the LORD God of Israel.
-<small><sub>**BSB:**</sub></small>
-Then Hezekiah sent word throughout all Israel and Judah, and he also wrote letters to Ephraim and Manasseh inviting them to come to the house of the LORD in Jerusalem to keep the Passover of the LORD, the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.36|<< 2 Chronicles 29:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.2|2 Chronicles 30:2 >>]]</td></tr></table>
 
 | Translation | Greek |

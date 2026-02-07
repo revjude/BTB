@@ -1,6 +1,6 @@
 (KJV) **Amos 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6|<< Amos 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8|Amos 8 >>]]</td></tr></table>
 
-***The Locusts, Fire, and Plumb Line***&emsp;<small><sup>\[ [[Joel.2|Joel 2:1–11]] ]</sup></small> ^bsb2008
+<big><big>[[Amos.7.1 The Locusts, Fire, and Plumb Line|⥃]]</big></big>***The Locusts, Fire, and Plumb Line***&emsp;<small><sup>\[ [[Joel.2|Joel 2:1–11]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Amos.7.1|1]]**<span class="endversemarker">]</span> Thus hath the Lord <span class="smallcaps">God</span> she<small><small>[^2]</small></small>wed<small><small>[^3]</small></small> unto me; and, behold, he formed grasshoppers<small><small>[^4]</small></small> in the beginning of the shooting up of the latter growth; and, lo, \[it was\] the latter growth after the king’s mowings<small><small>[^5]</small></small>. <span class="startversemarker">[</span>**[[Amos.7.2|2]]**<span class="endversemarker">]</span> And it came to pass, \[that\] when<small><small>[^6]</small></small> they had made an end of eating the grass of the land, then I said, O Lord<small><small>[^7]</small></small> <span class="smallcaps">God</span>, forgive, I beseech thee: by whom shall Jacob arise<small><small>[^8]</small></small>? for<small><small>[^9]</small></small> he \[is\] small. <span class="startversemarker">[</span>**[[Amos.7.3|3]]**<span class="endversemarker">]</span> The <span class="smallcaps">Lord</span> repented for this: It shall not be, saith the <span class="smallcaps">Lord</span>.<small><small>[^10]</small></small> 
 
@@ -8,7 +8,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Amos.7.4|4]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[Amos.7.7|7]]**<span class="endversemarker">]</span> [¶]Thus he shewed me: and, behold, the Lord stood upon a wall<small><small>[^16]</small></small> \[made\] by a plumbline, with a plumbline in his hand. <span class="startversemarker">[</span>**[[Amos.7.8|8]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto me, Amos<small><small>[^17]</small></small>, what seest thou? And I said, A plumbline<small><small>[^18]</small></small>. Then said the Lord, Behold, I will set<small><small>[^19]</small></small> a plumbline in the midst of my people Israel: I will not<small><small>[^20]</small></small> again pass by them any more: <span class="startversemarker">[</span>**[[Amos.7.9|9]]**<span class="endversemarker">]</span> And the high<small><small>[^21]</small></small> places of Isaac shall be desolate, and the sanctuaries of Israel shall be laid waste; and I will<small><small>[^22]</small></small> rise against the house of Jeroboam with the sword.
 
-***Amaziah Accuses Amos*** ^bsb2009
+<big><big>[[Amos.7.10 Amaziah Accuses Amos|⥃]]</big></big>***Amaziah Accuses Amos***
 
  
 

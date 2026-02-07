@@ -1,10 +1,7 @@
 **LXX Exodus 17:6** 
 <small><sub>**LXX:**</sub></small>
 Behold, I stand there, before  your coming upon the rock in Horeb. And you shall strike the rock, and shall come forth from out of it water, and the people shall drink. And Moses did thus before the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.
-<small><sub>**BSB:**</sub></small>
-Behold, I will stand there before you by the rock at Horeb. And when you strike the rock, water will come out of it for the people to drink.” So Moses did this in the sight of the elders of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.17.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.17.5|<< Exodus 17:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.17.7|Exodus 17:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 17:6** is...

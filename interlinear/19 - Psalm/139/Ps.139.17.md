@@ -1,4 +1,4 @@
-**Psalms 139:17** 
+**Psalms 139:17**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How precious also are thy thoughts unto me, O God! how great is the sum of them!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How precious to me are Your thoughts, O God, how vast is their sum!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.16|<< Psalms 139:16]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.18|Psalms 139:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to me  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> L<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | how!  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

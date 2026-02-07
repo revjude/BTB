@@ -1,4 +1,4 @@
-**Job 21:15** 
+**Job 21:15**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What [is] the Almighty, that we should serve him? and what profit should we have, if we pray unto him?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who is the Almighty, that we should serve Him, and what would we gain if we pray
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.14|<< Job 21:14]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.16|Job 21:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is the] Almighty  |**<big>&#8207;[[H7706\|שַׁדַּ֥י]]&#8207; </big>**| sha.Dai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

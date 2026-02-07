@@ -1,10 +1,7 @@
 **LXX Proverbs 8:6** 
 <small><sub>**LXX:**</sub></small>
 Listen to me! for I shall speak serious \[things\], and I will offer straight \[things\] from \[my\] lips! 
-<small><sub>**KJV:**</sub></small>
-Hear; for I will speak of excellent things; and the opening of my lips [shall be] right things.
-<small><sub>**BSB:**</sub></small>
-Listen, for I speak of noble things, and the opening of my lips will reveal right.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.5|<< Proverbs 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.7|Proverbs 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

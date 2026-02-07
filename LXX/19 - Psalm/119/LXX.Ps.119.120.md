@@ -1,10 +1,7 @@
 **LXX Psalm 119:120** 
 <small><sub>**LXX:**</sub></small>
 Nail up my flesh because of the fear of you! for because of  your judgments I feared. 
-<small><sub>**KJV:**</sub></small>
-My flesh trembleth for fear of thee; and I am afraid of thy judgments.
-<small><sub>**BSB:**</sub></small>
-My flesh trembles in awe of You; I stand in fear of Your judgments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.120|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.119|<< Psalm 119:119]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.121|Psalm 119:121 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**1 Corinthians 3:8
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:8**<big><big>[[1Cor.3.1 God’s Fellow Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour.
 <small><sub>**BSB:**</sub></small>
 He who plants and he who waters are one in purpose, and each will be rewarded according to his own labor.
@@ -10,7 +10,7 @@ The [one] planting now also the [one] watering one are, each now <the> [his] own
 > $\quad$ alluding to: [[LXX.Ps.62.12|Ps 62:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | planting |**<big>[[G5452\|φυτεύων]]</big>**  |phuteuōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

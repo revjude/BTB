@@ -1,4 +1,4 @@
-**Leviticus 24:11** 
+**Leviticus 24:11**<big><big>[[Lev.24.10 Punishment for Blasphemy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Israelitish woman’s son blasphemed the name [of the LORD], and cursed. And they brought him unto Moses: (and his mother’s name [was] Shelomith, the daughter of Dibri, of the tribe of Dan:)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The son of the Israelite woman blasphemed the Name with a curse. So they brought
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.10|<< Leviticus 24:10]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.12|Leviticus 24:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he slandered  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H5344A\|יִּקֹּב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ko<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

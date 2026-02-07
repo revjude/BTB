@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 1:7** 
 <small><sub>**LXX:**</sub></small>
 In  that night God appeared \[to\] Solomon, and he said to him, Ask what I shall give to you! 
-<small><sub>**KJV:**</sub></small>
-In that night did God appear unto Solomon, and said unto him, Ask what I shall give thee.
-<small><sub>**BSB:**</sub></small>
-That night God appeared to Solomon and said, “Ask, and I will give it to you!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.6|<< 2 Chronicles 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.8|2 Chronicles 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

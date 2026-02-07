@@ -1,5 +1,5 @@
-**Luke 2:21
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:21**<big><big>[[Luke.2.21 Jesus Presented at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.
 <small><sub>**BSB:**</sub></small>
 When the eight days before His circumcision had passed, He was named Jesus, the name the angel had given Him before He was conceived.
@@ -10,7 +10,7 @@ And when were fulfilled days eight <the> to circumcise Him the child then was ca
 > $\quad$ alluding to: [[LXX.Lev.12.3|Lev 12:3-4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

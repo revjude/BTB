@@ -1,12 +1,12 @@
-**Matthew 12:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:33**<big><big>[[Matt.12.33 Good and Bad Fruit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Either make the tree good, and his fruit good; or else make the tree corrupt, and his fruit corrupt: for the tree is known by [his] fruit.
 <small><sub>**BSB:**</sub></small>
 Make a tree good and its fruit will be good, or make a tree bad and its fruit will be bad, for a tree is known by its fruit.
 <small><sub>**Literal:**</sub></small>
 Either do make the tree good and the fruit of it good, or do make the tree bad and the fruit of it bad; by for the fruit the tree is known.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.32|<< Matthew 12:32]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.34|Matthew 12:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Either |**<big>[[G2228\|Ἢ]]</big>**  |Ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do make |**<big>[[G4160G\|ποιήσατε]]</big>**  |poiēsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

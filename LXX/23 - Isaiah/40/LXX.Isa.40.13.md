@@ -1,10 +1,7 @@
 **LXX Isaiah 40:13** 
 <small><sub>**LXX:**</sub></small>
 Who knew \[the\] mind of \[the\] <span class="smallcaps">lord</span>? and who became his counselor? Who shall instruct him? 
-<small><sub>**KJV:**</sub></small>
-Who hath directed the Spirit of the LORD, or [being] his counseller hath taught him?
-<small><sub>**BSB:**</sub></small>
-Who has directed the Spirit of the LORD, or informed Him as His counselor?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.12|<< Isaiah 40:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.14|Isaiah 40:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 40:13** is...

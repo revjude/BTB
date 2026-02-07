@@ -1,10 +1,7 @@
 **LXX Ezekiel 46:20** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, This  place is of which the priests boil there the \[sacrifices\] for an ignorance \[offering\], and the \[sacrifices\] for a sin \[offering\]; and there they bake the gift \[offering\]  thoroughly \[so as\] to not bring \[them\] forth into the outer courtyard,  to sanctify the people. 
-<small><sub>**KJV:**</sub></small>
-Then said he unto me, This [is] the place where the priests shall boil the trespass offering and the sin offering, where they shall bake the meat offering; that they bear [them] not out into the utter court, to sanctify the people.
-<small><sub>**BSB:**</sub></small>
-and said to me, “This is the place where the priests shall boil the guilt offering and the sin offering, and where they shall bake the grain offering, so that they do not bring them into the outer court and transmit holiness to the people.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.19|<< Ezekiel 46:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.21|Ezekiel 46:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Esther 1:15** 
 <small><sub>**LXX:**</sub></small>
 And they reported to him according to the laws as \[what\] Vashti the queen must do, for she had not done the \[things\] having been assigned by the king, through the eunuchs. 
-<small><sub>**KJV:**</sub></small>
-What shall we do unto the queen Vashti according to law, because she hath not performed the commandment of the king Ahasuerus by the chamberlains?
-<small><sub>**BSB:**</sub></small>
-“According to law,” he asked, “what should be done with Queen Vashti, since she refused to obey the command of King Xerxes delivered by the eunuchs?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.14|<< Esther 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.16|Esther 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

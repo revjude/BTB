@@ -1,10 +1,7 @@
 **LXX Deuteronomy 24:5** 
 <small><sub>**LXX:**</sub></small>
 And if any should take a wife recently, he shall not go forth to war, and not one thing shall be put upon him -- he shall be innocent in  his house, for one year he shall make glad  his wife whom he took. 
-<small><sub>**KJV:**</sub></small>
-When a man hath taken a new wife, he shall not go out to war, neither shall he be charged with any business: [but] he shall be free at home one year, and shall cheer up his wife which he hath taken.
-<small><sub>**BSB:**</sub></small>
-If a man is newly married, he must not be sent to war or be pressed into any duty. For one year he is free to stay at home and bring joy to the wife he has married.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.24.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.4|<< Deuteronomy 24:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.6|Deuteronomy 24:6 >>]]</td></tr></table>
 
 | Translation | Greek |

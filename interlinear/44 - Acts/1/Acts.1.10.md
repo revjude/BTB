@@ -1,12 +1,12 @@
-**Acts 1:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:10**<big><big>[[Acts.1.6 The Ascension|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel;
 <small><sub>**BSB:**</sub></small>
 They were looking intently into the sky as He was going, when suddenly two men dressed in white stood beside them.
 <small><sub>**Literal:**</sub></small>
 And as looking intently they were into the heaven as is going He, then behold men two had stood by them in garments white,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.9|<< Acts 1:9]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.11|Acts 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

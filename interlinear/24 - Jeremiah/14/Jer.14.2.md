@@ -1,4 +1,4 @@
-**Jeremiah 14:2** 
+**Jeremiah 14:2**<big><big>[[Jer.14.1 Drought, Famine, Sword, and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judah mourneth, and the gates thereof languish; they are black unto the ground; and the cry of Jerusalem is gone up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Judah mourneth, and the gates thereof languish; they are black unto the ground; 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.1|<< Jeremiah 14:1]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.3|Jeremiah 14:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it is in mourning  |**<big>&#8207;[[H0056\|אָבְלָ֣ה]]&#8207; </big>**| 'a.ve.Lah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֔ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

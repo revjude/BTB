@@ -1,4 +1,4 @@
-**Ezekiel 7:22** 
+**Ezekiel 7:22**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My face will I turn also from them, and they shall pollute my secret [place]: for the robbers shall enter into it, and defile it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will turn My face away from them, and they will defile My treasured place. Vio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.21|<< Ezekiel 7:21]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.23|Ezekiel 7:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will turn around  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5437G\|הֲסִבּוֹתִ֤י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.si.bo.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | face my  |**<big>&#8207;[[H6440H\|פָנַ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| fa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

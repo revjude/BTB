@@ -1,4 +1,4 @@
-**Isaiah 12:1** 
+**Isaiah 12:1**<big><big>[[Isa.12.1 Joyful Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in that day thou shalt say, O LORD, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In that day you will say: “O LORD, I will praise You. Although You were angry 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.16|<< Isaiah 11:16]]</td><td align="center" style="border:none;">[[Isa.12|Isaiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.12.2|Isaiah 12:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָֽמַרְתָּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּ֣וֹם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

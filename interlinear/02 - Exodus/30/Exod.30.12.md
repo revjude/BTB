@@ -1,4 +1,4 @@
-**Exodus 30:12** 
+**Exodus 30:12**<big><big>[[Exod.30.11 The Census Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou takest the sum of the children of Israel after their number, then shall they give every man a ransom for his soul unto the LORD, when thou numberest them; that there be no plague among them, when [thou] numberest them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When thou takest the sum of the children of Israel after their number, then shal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.11|<< Exodus 30:11]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.13|Exodus 30:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will take  |**<big>&#8207;[[H5375V\|תִשָּׂ֞א]]&#8207; </big>**| ti.Sa'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

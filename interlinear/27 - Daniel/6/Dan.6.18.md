@@ -1,4 +1,4 @@
-**Daniel 6:18** (6:19)
+**Daniel 6:18**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king went to his palace, and passed the night fasting: neither were instruments of musick brought before him: and his sleep went from him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the king went to his palace and spent the night fasting. No entertainment w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.17|<< Daniel 6:17]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.19|Daniel 6:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱ֠דַיִן]]&#8207; </big>**| 'E.da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went  |**<big>&#8207;[[H0236\|אֲזַ֨ל]]&#8207; </big>**| 'a.Zal<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

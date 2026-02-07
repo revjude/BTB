@@ -1,4 +1,4 @@
-**Job 17:3** 
+**Job 17:3**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lay down now, put me in a surety with thee; who [is] he [that] will strike hands with me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Give me, I pray, the pledge You demand. Who else will be my guarantor?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.2|<< Job 17:2]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.4|Job 17:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | make !  |**<big>&#8207;[[H7760H\|שִֽׂימָ]]&#8207;&#8207;[[H9012\|ה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| si.ma<small><sup>[[HVqv2ms]]</sup></small> h-<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָּ֭א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

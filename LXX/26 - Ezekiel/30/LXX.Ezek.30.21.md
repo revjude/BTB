@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:21** 
 <small><sub>**LXX:**</sub></small>
 O son of man, I broke the arms of Pharaoh king of Egypt; and behold, it was not earnestly beseeched  to give to him healing,  to put upon him a dressing,  to be given strength to take hold of \[the\] sword. 
-<small><sub>**KJV:**</sub></small>
-Son of man, I have broken the arm of Pharaoh king of Egypt; and, lo, it shall not be bound up to be healed, to put a roller to bind it, to make it strong to hold the sword.
-<small><sub>**BSB:**</sub></small>
-“Son of man, I have broken the arm of Pharaoh king of Egypt. See, it has not been bound up for healing, or splinted for strength to hold the sword.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.20|<< Ezekiel 30:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.22|Ezekiel 30:22 >>]]</td></tr></table>
 
 | Translation | Greek |

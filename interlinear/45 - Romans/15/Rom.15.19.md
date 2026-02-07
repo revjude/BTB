@@ -1,12 +1,12 @@
-**Romans 15:19
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:19**<big><big>[[Rom.15.14 Paul the Minister to the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Christ.
 <small><sub>**BSB:**</sub></small>
 by the power of signs and wonders, and by the power of the Spirit of God. So from Jerusalem all the way around to Illyricum, I have fully proclaimed the gospel of Christ.
 <small><sub>**Literal:**</sub></small>
 in [the] power of signs and wonders, in [the] power of [the] Spirit of God, so as for me from Jerusalem and around unto <the> Illyricum to have fully proclaimed the gospel <the> of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.18|<< Romans 15:18]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.20|Romans 15:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | power |**<big>[[G1411\|δυνάμει]]</big>**  |dunamei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

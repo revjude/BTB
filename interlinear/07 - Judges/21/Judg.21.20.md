@@ -1,4 +1,4 @@
-**Judges 21:20** 
+**Judges 21:20**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore they commanded the children of Benjamin, saying, Go and lie in wait in the vineyards;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they commanded the Benjamites: “Go, hide in the vineyards
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.19|<< Judges 21:19]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.21|Judges 21:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they commanded  [^2]|**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6680\|יְצַוּ֕וּ]]&#8207; </big>**[^3] | va<small><sup>[[Hc]]</sup></small> y.tzav<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:6** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span> against the house of \[the\] king of Judah. You \[are\] Gilead to me, head  of Lebanon. Should I not make you desolate, cities not being dwelt in? 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD unto the king’s house of Judah; Thou [art] Gilead unto me, [and] the head of Lebanon: [yet] surely I will make thee a wilderness, [and] cities [which] are not inhabited.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD says concerning the house of the king of Judah: “You are like Gilead to Me, like the summit of Lebanon; but I will surely turn you into a desert, like cities that are uninhabited.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.5|<< Jeremiah 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.7|Jeremiah 22:7 >>]]</td></tr></table>
 
 | Translation | Greek |

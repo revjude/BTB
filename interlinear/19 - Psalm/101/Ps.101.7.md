@@ -1,4 +1,4 @@
-**Psalms 101:7** 
+**Psalms 101:7**<big><big>[[Ps.101.1 I Will Set No Worthless Thing before My Eyes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No one who practices deceit shall dwell in my house; no one who tells lies shall
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.101.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.6|<< Psalms 101:6]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101.8|Psalms 101:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will dwell  |**<big>&#8207;[[H3427\|יֵשֵׁ֨ב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ye.Shev<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 9:5** 
 <small><sub>**LXX:**</sub></small>
 And he said to these in my hearing, Go into the city behind him and smite! And you should not spare  your eyes, and you should not show mercy. 
-<small><sub>**KJV:**</sub></small>
-And to the others he said in mine hearing, Go ye after him through the city, and smite: let not your eye spare, neither have ye pity:
-<small><sub>**BSB:**</sub></small>
-And as I listened, He said to the others, “Follow him through the city and start killing; do not show pity or spare anyone!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.4|<< Ezekiel 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.9.6|Ezekiel 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

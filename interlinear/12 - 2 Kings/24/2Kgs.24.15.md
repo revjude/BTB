@@ -1,4 +1,4 @@
-**2 Kings 24:15** 
+**2 Kings 24:15**<big><big>[[2Kgs.24.10 The Captivity of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he carried away Jehoiachin to Babylon, and the king’s mother, and the king’s wives, and his officers, and the mighty of the land, [those] carried he into captivity from Jerusalem to Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nebuchadnezzar carried away Jehoiachin to Babylon, as well as the king’s mothe
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.14|<< 2 Kings 24:14]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.16|2 Kings 24:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took into exile  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1540K\|יֶּ֥גֶל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.gel<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

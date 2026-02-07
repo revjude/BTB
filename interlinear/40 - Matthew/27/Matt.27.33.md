@@ -1,12 +1,12 @@
-**Matthew 27:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:33**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they were come unto a place called Golgotha, that is to say, a place of a skull,
 <small><sub>**BSB:**</sub></small>
 And when they came to a place called Golgotha, which means The Place of the Skull,
 <small><sub>**Literal:**</sub></small>
 And having come to a place being named Golgotha, which is of a Skull Place being named,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.32|<< Matthew 27:32]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.34|Matthew 27:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G2064\|ἐλθόντες]]</big>**  |elthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

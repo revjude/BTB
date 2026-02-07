@@ -1,5 +1,5 @@
-**Hebrews 12:21
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:21**<big><big>[[Heb.12.18 An Unshakable Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And so terrible was the sight, [that] Moses said, I exceedingly fear and quake:)
 <small><sub>**BSB:**</sub></small>
 The sight was so terrifying that even Moses said, “I am trembling with fear.”
@@ -10,7 +10,7 @@ And thus fearful was the [thing] appearing [that] Moses said; Greatly afraid I a
 > $\quad$ referencing: [[LXX.Deut.9.19|Deut 9:19]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | thus |**<big>[[G3779\|οὕτω]]</big>**  [^1] |houtō <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

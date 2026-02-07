@@ -1,12 +1,12 @@
-**John 4:47
-**<small><sub>**KJV:**</sub></small>
+**John 4:47**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When he heard that Jesus was come out of Judaea into Galilee, he went unto him, and besought him that he would come down, and heal his son: for he was at the point of death.
 <small><sub>**BSB:**</sub></small>
 When he heard that Jesus had come from Judea to Galilee, he went and begged Him to come down and heal his son, who was about to die.
 <small><sub>**Literal:**</sub></small>
 He having heard that Jesus had come out of <the> Judea into <the> Galilee, went to Him and was asking him that He may come down and He may heal his <the> son; he was about for to die.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.46|<< John 4:46]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.48|John 4:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having heard |**<big>[[G0191\|ἀκούσας]]</big>**  |akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

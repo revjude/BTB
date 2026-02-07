@@ -1,10 +1,7 @@
 **LXX Psalm 119:165** 
 <small><sub>**LXX:**</sub></small>
 Great peace \[is\] to the ones loving  your law, and there is no obstacle to them. 
-<small><sub>**KJV:**</sub></small>
-Great peace have they which love thy law: and nothing shall offend them.
-<small><sub>**BSB:**</sub></small>
-Abundant peace belongs to those who love Your law; nothing can make them stumble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.165|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.164|<< Psalm 119:164]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.166|Psalm 119:166 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 14:25** 
 <small><sub>**LXX:**</sub></small>
  But Amalek and the Canaanites dwell in the valley. Tomorrow you should turn and depart into the wilderness way \[of the\] red sea. 
-<small><sub>**KJV:**</sub></small>
-(Now the Amalekites and the Canaanites dwelt in the valley.) To morrow turn you, and get you into the wilderness by the way of the Red sea.
-<small><sub>**BSB:**</sub></small>
-Now since the Amalekites and Canaanites are living in the valleys, turn back tomorrow and head for the wilderness along the route to the Red Sea.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.24|<< Numbers 14:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.26|Numbers 14:26 >>]]</td></tr></table>
 
 | Translation | Greek |

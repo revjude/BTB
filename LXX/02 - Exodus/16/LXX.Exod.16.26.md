@@ -1,10 +1,7 @@
 **LXX Exodus 16:26** 
 <small><sub>**LXX:**</sub></small>
 Six days you shall collect together, but the seventh day \[is\] a Sabbath, for it shall not be \[found\] in it. 
-<small><sub>**KJV:**</sub></small>
-Six days ye shall gather it; but on the seventh day, [which is] the sabbath, in it there shall be none.
-<small><sub>**BSB:**</sub></small>
-For six days you may gather, but on the seventh day, the Sabbath, it will not be there.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.25|<< Exodus 16:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.27|Exodus 16:27 >>]]</td></tr></table>
 
 | Translation | Greek |

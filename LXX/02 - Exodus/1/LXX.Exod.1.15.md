@@ -1,10 +1,7 @@
 **LXX Exodus 1:15** 
 <small><sub>**LXX:**</sub></small>
 And the king of the Egyptians said to the midwives of the Hebrews, to a certain one of them \[with\] the name Shiphrah, and the name of the second Puah. 
-<small><sub>**KJV:**</sub></small>
-And the king of Egypt spake to the Hebrew midwives, of which the name of the one [was] Shiphrah, and the name of the other Puah:
-<small><sub>**BSB:**</sub></small>
-Then the king of Egypt said to the Hebrew midwives, whose names were Shiphrah and Puah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.14|<< Exodus 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.16|Exodus 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 13:25** 
 <small><sub>**LXX:**</sub></small>
 Or as a leaf moving by \[the\] wind, will you be cautious \[of me\]? or as grass borne by \[the\] wind, \[will you be\] adverse to me? 
-<small><sub>**KJV:**</sub></small>
-Wilt thou break a leaf driven to and fro? and wilt thou pursue the dry stubble?
-<small><sub>**BSB:**</sub></small>
-Would You frighten a windblown leaf? Would You chase after dry chaff?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.24|<< Job 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.26|Job 13:26 >>]]</td></tr></table>
 
 | Translation | Greek |

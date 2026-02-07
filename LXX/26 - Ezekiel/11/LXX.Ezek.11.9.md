@@ -1,10 +1,7 @@
 **LXX Ezekiel 11:9** 
 <small><sub>**LXX:**</sub></small>
 And I will lead you from \[the\] midst of her. And I will deliver you into \[the\] hands of strangers. And I will execute judgments among you. 
-<small><sub>**KJV:**</sub></small>
-And I will bring you out of the midst thereof, and deliver you into the hands of strangers, and will execute judgments among you.
-<small><sub>**BSB:**</sub></small>
-I will bring you out of the city and deliver you into the hands of foreigners, and I will execute judgments against you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.8|<< Ezekiel 11:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.10|Ezekiel 11:10 >>]]</td></tr></table>
 
 | Translation | Greek |

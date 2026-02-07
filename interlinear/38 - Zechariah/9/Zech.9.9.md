@@ -1,4 +1,4 @@
-**Zechariah 9:9** 
+**Zechariah 9:9**<big><big>[[Zech.9.9 Zion’s Coming King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he [is] just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Rejoice greatly, O Daughter of Zion! Shout in triumph, O Daughter of Jerusalem! 
 > $\quad$ referenced by: [[Matt.21.5|Matt 21:5]] ☩ [[John.12.14|John 12:14-15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | rejoice  |**<big>&#8207;[[H1523\|גִּילִ֨י]]&#8207; </big>**| gi.Li<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | exceedingly  |**<big>&#8207;[[H3966\|מְאֹ֜ד]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

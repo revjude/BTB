@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:9** 
 <small><sub>**LXX:**</sub></small>
 But you did wickedly  doing more than all as many as were in front of you. And you went and made for yourself other gods, and molten \[images\],  to provoke me to anger, and tossed me behind you. 
-<small><sub>**KJV:**</sub></small>
-But hast done evil above all that were before thee: for thou hast gone and made thee other gods, and molten images, to provoke me to anger, and hast cast me behind thy back:
-<small><sub>**BSB:**</sub></small>
-You have done more evil than all who came before you. You have proceeded to make for yourself other gods and molten images to provoke Me, and you have flung Me behind your back.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.8|<< 1 Kings 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.10|1 Kings 14:10 >>]]</td></tr></table>
 
 | Translation | Greek |

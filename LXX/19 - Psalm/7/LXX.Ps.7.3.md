@@ -1,10 +1,7 @@
 **LXX Psalm 7:3** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>  my God, if I did this, if there is injustice in my hands, 
-<small><sub>**KJV:**</sub></small>
-O LORD my God, if I have done this; if there be iniquity in my hands;
-<small><sub>**BSB:**</sub></small>
-O LORD my God, if I have done this, if injustice is on my hands,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.2|<< Psalm 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.4|Psalm 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

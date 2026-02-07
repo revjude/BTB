@@ -1,4 +1,4 @@
-**Daniel 4:23** (4:20)
+**Daniel 4:23**<big><big>[[Dan.4.19 Daniel Interprets the Second Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whereas the king saw a watcher and an holy one coming down from heaven, and saying, Hew the tree down, and destroy it; yet leave the stump of the roots thereof in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven, and [let] his portion [be] with the beasts of the field, till seven times pass over him;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you, O king, saw a watcher, a holy one, coming down from heaven and saying: 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.22|<< Daniel 4:22]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.24|Daniel 4:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and that  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1768\|דִ֣י]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> Di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he saw  |**<big>&#8207;[[H2370\|חֲזָ֣ה]]&#8207; </big>**| cha.Zah<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

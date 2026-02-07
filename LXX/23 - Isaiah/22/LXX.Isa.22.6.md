@@ -1,10 +1,7 @@
 **LXX Isaiah 22:6** 
 <small><sub>**LXX:**</sub></small>
 But the Elamites took quivers, and men riders upon horses, and \[there was\] a gathering of a battle array. 
-<small><sub>**KJV:**</sub></small>
-And Elam bare the quiver with chariots of men [and] horsemen, and Kir uncovered the shield.
-<small><sub>**BSB:**</sub></small>
-Elam takes up a quiver, with chariots and horsemen, and Kir uncovers the shield.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.5|<< Isaiah 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.7|Isaiah 22:7 >>]]</td></tr></table>
 
 | Translation | Greek |

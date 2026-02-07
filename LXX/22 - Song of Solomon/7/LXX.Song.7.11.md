@@ -1,10 +1,7 @@
 **LXX Song of Solomon 7:11** 
 <small><sub>**LXX:**</sub></small>
 Come, O my beloved \[man\]! we should go forth into \[the\] field; we should lodge in towns. 
-<small><sub>**KJV:**</sub></small>
-Come, my beloved, let us go forth into the field; let us lodge in the villages.
-<small><sub>**BSB:**</sub></small>
-Come, my beloved, let us go to the countryside; let us spend the night among the wildflowers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.7.10|<< Song of Solomon 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.12|Song of Solomon 7:12 >>]]</td></tr></table>
 
 | Translation | Greek |

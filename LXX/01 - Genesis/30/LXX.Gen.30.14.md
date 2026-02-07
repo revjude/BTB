@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Reuben went in \[the\] day \[of the\] wheat harvest, and he found apples of mandrakes in the field. And he brought them to Leah  his mother. And Rachel said  to Leah  her sister, Give to me of the mandrakes  of your son! 
-<small><sub>**KJV:**</sub></small>
-And Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them unto his mother Leah. Then Rachel said to Leah, Give me, I pray thee, of thy son’s mandrakes.
-<small><sub>**BSB:**</sub></small>
-Now during the wheat harvest, Reuben went out and found some mandrakes in the field. When he brought them to his mother, Rachel begged Leah, “Please give me some of your son’s mandrakes.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.13|<< Genesis 30:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.15|Genesis 30:15 >>]]</td></tr></table>
 
 | Translation | Greek |

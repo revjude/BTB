@@ -1,10 +1,7 @@
 **LXX Nehemiah 11:13** 
 <small><sub>**LXX:**</sub></small>
 And his brethren \[the\] rulers of families -- two hundred forty-two; even Amashai son of Azareel, son of Sikiah, son of Meshillemoth, son of Immer, 
-<small><sub>**KJV:**</sub></small>
-And his brethren, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,
-<small><sub>**BSB:**</sub></small>
-and his associates, the leaders of families—242 men; Amashai son of Azarel, the son of Ahzai, the son of Meshillemoth, the son of Immer;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.12|<< Nehemiah 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.14|Nehemiah 11:14 >>]]</td></tr></table>
 
 | Translation | Greek |

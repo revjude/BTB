@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:3** 
 <small><sub>**LXX:**</sub></small>
 And one said, Please come with  your servants. And he said, I will go. 
-<small><sub>**KJV:**</sub></small>
-And one said, Be content, I pray thee, and go with thy servants. And he answered, I will go.
-<small><sub>**BSB:**</sub></small>
-Then one of them said, “Please come with your servants.” “I will come,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.2|<< 2 Kings 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.4|2 Kings 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:12** 
 <small><sub>**LXX:**</sub></small>
 of the great courtyard round about \[with\] three rows of hewn \[stones\], and a row being chiseled of cedar, even to the inner courtyard of \[the\] house of \[the\] <span class="smallcaps">lord</span>, and to the columned porch of the house. 
-<small><sub>**KJV:**</sub></small>
-And the great court round about [was] with three rows of hewed stones, and a row of cedar beams, both for the inner court of the house of the LORD, and for the porch of the house.
-<small><sub>**BSB:**</sub></small>
-The great courtyard was surrounded by three rows of dressed stone and a row of trimmed cedar beams, as were the inner courtyard and portico of the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.11|<< 1 Kings 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.13|1 Kings 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

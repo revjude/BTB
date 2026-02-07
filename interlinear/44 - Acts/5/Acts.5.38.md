@@ -1,12 +1,12 @@
-**Acts 5:38
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:38**<big><big>[[Acts.5.33 Gamaliel’s Advice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought:
 <small><sub>**BSB:**</sub></small>
 So in the present case I advise you: Leave these men alone. Let them go! For if their purpose or endeavor is of human origin, it will fail.
 <small><sub>**Literal:**</sub></small>
 And <the> now I say to you, do withdraw from <the> men these and do release them, for if shall be from men <the> plan this or <the> work this, it will be overthrown;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.37|<< Acts 5:37]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.39|Acts 5:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 23:35
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:35**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the people stood beholding. And the rulers also with them derided [him], saying, He saved others; let him save himself, if he be Christ, the chosen of God.
 <small><sub>**BSB:**</sub></small>
 The people stood watching, and the rulers sneered at Him, saying, “He saved others; let Him save Himself if He is the Christ of God, the Chosen One.”
 <small><sub>**Literal:**</sub></small>
 And had stood the people beholding. Were deriding [Him] then also the rulers with them saying; Others He saved, he should save Himself if this is the Christ <the> <the> of God the Chosen [One].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.34|<< Luke 23:34]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.36|Luke 23:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | had stood |**<big>[[G2476\|εἱστήκει]]</big>**  [^1] |heistēkei <small><sup>[[V-LAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

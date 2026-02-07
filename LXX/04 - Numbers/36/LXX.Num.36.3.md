@@ -1,10 +1,7 @@
 **LXX Numbers 36:3** 
 <small><sub>**LXX:**</sub></small>
 And they will be to one of the tribes of \[the\] sons of Israel for wives; and their lot shall be removed from the possession  of our fathers, and shall be added for an inheritance of the tribe in which ever they should become wives; and from the lot  of our inheritance it shall be removed. 
-<small><sub>**KJV:**</sub></small>
-And if they be married to any of the sons of the [other] tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall be put to the inheritance of the tribe whereunto they are received: so shall it be taken from the lot of our inheritance.
-<small><sub>**BSB:**</sub></small>
-But if they marry any of the men from the other tribes of Israel, their inheritance will be withdrawn from the portion of our fathers and added to the tribe into which they marry. So our allotted inheritance would be taken away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.36.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.2|<< Numbers 36:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.4|Numbers 36:4 >>]]</td></tr></table>
 
 | Translation | Greek |

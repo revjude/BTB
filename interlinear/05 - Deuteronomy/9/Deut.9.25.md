@@ -1,4 +1,4 @@
-**Deuteronomy 9:25** 
+**Deuteronomy 9:25**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus I fell down before the LORD forty days and forty nights, as I fell down [at the first]; because the LORD had said he would destroy you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I fell down before the LORD for forty days and forty nights, because the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.24|<< Deuteronomy 9:24]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.26|Deuteronomy 9:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I prostrated myself  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H5307G\|אֶתְנַפַּ֞ל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'et.na.Pal<small><sup>[[HVtw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֣י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

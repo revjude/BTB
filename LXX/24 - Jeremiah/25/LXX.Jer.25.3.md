@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:3** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] thirteenth year of Josiah, son of Amon, king of Judah, and until  this day \[for\] twenty and three years, that \[the\] word \[of the\] <span class="smallcaps">lord</span> came to me, and I spoke to you rising early and speaking, and you listened not. 
-<small><sub>**KJV:**</sub></small>
-From the thirteenth year of Josiah the son of Amon king of Judah, even unto this day, that [is] the three and twentieth year, the word of the LORD hath come unto me, and I have spoken unto you, rising early and speaking; but ye have not hearkened.
-<small><sub>**BSB:**</sub></small>
-“From the thirteenth year of Josiah son of Amon king of Judah until this very day—twenty-three years—the word of the LORD has come to me, and I have spoken to you again and again, but you have not listened.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.2|<< Jeremiah 25:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.4|Jeremiah 25:4 >>]]</td></tr></table>
 
 | Translation | Greek |

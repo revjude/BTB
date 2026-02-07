@@ -1,4 +1,4 @@
-**Deuteronomy 30:18** 
+**Deuteronomy 30:18**<big><big>[[Deut.30.11 The Choice of Life or Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I denounce unto you this day, that ye shall surely perish, [and that] ye shall not prolong [your] days upon the land, whither thou passest over Jordan to go to possess it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I declare to you today that you will surely perish; you shall not prolong your d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.17|<< Deuteronomy 30:17]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.19|Deuteronomy 30:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I tell  |**<big>&#8207;[[H5046\|הִגַּ֤דְתִּי]]&#8207; </big>**| hi.Gad.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶם֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

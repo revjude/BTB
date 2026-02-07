@@ -1,4 +1,4 @@
-**Jeremiah 15:2** 
+**Jeremiah 15:2**<big><big>[[Jer.15.1 Judgment to Continue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, if they say unto thee, Whither shall we go forth? then thou shalt tell them, Thus saith the LORD; Such as [are] for death, to death; and such as [are] for the sword, to the sword; and such as [are] for the famine, to the famine; and such as [are] for the captivity, to the captivity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If they ask you, ‘Where shall we go?’ you are to tell them that this is what
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.1|<< Jeremiah 15:1]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.3|Jeremiah 15:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֛ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

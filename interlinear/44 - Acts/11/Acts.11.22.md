@@ -1,12 +1,12 @@
-**Acts 11:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:22**<big><big>[[Acts.11.19 The Church at Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then tidings of these things came unto the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch.
 <small><sub>**BSB:**</sub></small>
 When news of this reached the ears of the church in Jerusalem, they sent Barnabas to Antioch.
 <small><sub>**Literal:**</sub></small>
 Was heard now the report in the ears of the church which is being in Jerusalem concerning them and they sent forth Barnabas to go as far as Antioch;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.21|<< Acts 11:21]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.23|Acts 11:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was heard |**<big>[[G0191\|ἠκούσθη]]</big>**  |ēkousthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

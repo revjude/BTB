@@ -1,4 +1,4 @@
-**Psalms 119:43** 
+**Psalms 119:43**<big><big>[[Ps.119.41 Your Word Is a Lamp to My Feet - VAU|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And take not the word of truth utterly out of my mouth; for I have hoped in thy judgments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Never take Your word of truth from my mouth, for I hope in Your judgments.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.42|<< Psalms 119:42]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.44|Psalms 119:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and may not  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you take away  |**<big>&#8207;[[H5337\|תַּצֵּ֬ל]]&#8207; </big>**| ta.Tzel<small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 11:4** 
+**1 Kings 11:4**<big><big>[[1Kgs.11.1 Solomon’s Foreign Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For it came to pass, when Solomon was old, [that] his wives turned away his heart after other gods: and his heart was not perfect with the LORD his God, as [was] the heart of David his father.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For when Solomon grew old, his wives turned his heart after other gods, and he w
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.3|<< 1 Kings 11:3]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.5|1 Kings 11:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] time of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6256\|עֵת֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

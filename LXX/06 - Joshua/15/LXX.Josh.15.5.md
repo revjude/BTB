@@ -1,10 +1,7 @@
 **LXX Joshua 15:5** 
 <small><sub>**LXX:**</sub></small>
 And the borders from \[the\] east \[are\] all the salty sea, unto part of the Jordan; and  their borders by \[the\] north \[are\] from the ridge of the sea, and from the part of the Jordan. 
-<small><sub>**KJV:**</sub></small>
-And the east border [was] the salt sea, [even] unto the end of Jordan. And [their] border in the north quarter [was] from the bay of the sea at the uttermost part of Jordan:
-<small><sub>**BSB:**</sub></small>
-The eastern border was the Salt Sea as far as the mouth of the Jordan. The northern border started from the bay of the sea at the mouth of the Jordan,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.4|<< Joshua 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.6|Joshua 15:6 >>]]</td></tr></table>
 
 | Translation | Greek |

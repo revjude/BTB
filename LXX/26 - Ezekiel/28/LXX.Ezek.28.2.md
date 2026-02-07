@@ -1,10 +1,7 @@
 **LXX Ezekiel 28:2** 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, say to the ruler of Tyre! Thus says Adonai \[the\] <span class="smallcaps">lord</span>; because your heart was raised up high, and you said, I am the God, I inhabited \[the\] dwelling of God in \[the\] heart of \[the\] sea. But you are a man, and not God, and you made  your heart as \[the\] heart of God. 
-<small><sub>**KJV:**</sub></small>
-Son of man, say unto the prince of Tyrus, Thus saith the Lord GOD; Because thine heart [is] lifted up, and thou hast said, I [am] a God, I sit [in] the seat of God, in the midst of the seas; yet thou [art] a man, and not God, though thou set thine heart as the heart of God:
-<small><sub>**BSB:**</sub></small>
-“Son of man, tell the ruler of Tyre that this is what the Lord GOD says: Your heart is proud, and you have said, ‘I am a god; I sit in the seat of gods in the heart of the sea.’ Yet you are a man and not a god, though you have regarded your heart as that of a god.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.1|<< Ezekiel 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.3|Ezekiel 28:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 28:2** is...

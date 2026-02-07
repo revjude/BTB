@@ -1,4 +1,4 @@
-**Ezekiel 30:18** 
+**Ezekiel 30:18**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At Tehaphnehes also the day shall be darkened, when I shall break there the yokes of Egypt: and the pomp of her strength shall cease in her: as for her, a cloud shall cover her, and her daughters shall go into captivity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The day will be darkened in Tahpanhes when I break the yoke of Egypt and her pro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.17|<< Ezekiel 30:17]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.19|Ezekiel 30:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in Tahpanhes  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִֽ]]&#8207;&#8207;[[H8471\|תְחַפְנְחֵס֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi<small><sup>[[HR]]</sup></small> t.chaf.ne.Ches<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will withhold  |**<big>&#8207;[[H2820\|חָשַׂ֣ךְ]]&#8207; </big>**| cha.Sakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

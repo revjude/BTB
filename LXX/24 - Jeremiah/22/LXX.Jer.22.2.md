@@ -1,10 +1,7 @@
 **LXX Jeremiah 22:2** 
 <small><sub>**LXX:**</sub></small>
 And you shall say, Hear the word of \[the\] <span class="smallcaps">lord</span>, O king of Judah, O one sitting down upon \[the\] throne of David, you and  your servants, and  your people, and the ones entering  by these gates! 
-<small><sub>**KJV:**</sub></small>
-And say, Hear the word of the LORD, O king of Judah, that sittest upon the throne of David, thou, and thy servants, and thy people that enter in by these gates:
-<small><sub>**BSB:**</sub></small>
-saying, ‘Hear the word of the LORD, O king of Judah, who sits on the throne of David—you and your officials and your people who enter these gates.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.22.1|<< Jeremiah 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.22.3|Jeremiah 22:3 >>]]</td></tr></table>
 
 | Translation | Greek |

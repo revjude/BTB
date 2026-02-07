@@ -1,4 +1,4 @@
-**Ezekiel 28:9** 
+**Ezekiel 28:9**<big><big>[[Ezek.28.1 A Prophecy against the Ruler of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wilt thou yet say before him that slayeth thee, I [am] God? but thou [shalt be] a man, and no God, in the hand of him that slayeth thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Will you still say, ‘I am a god,’ in the presence of those who slay you? You
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.8|<< Ezekiel 28:8]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.10|Ezekiel 28:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ really \<to say>  |**<big>&#8207;[[H9008\|הֶ]]&#8207;&#8207;[[H0559\|אָמֹ֤ר]]&#8207; </big>**| he.<small><sup>[[HTi]]</sup></small> 'a.Mor<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will you say  |**<big>&#8207;[[H0559\|תֹּאמַר֙]]&#8207; </big>**| to.Mar<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

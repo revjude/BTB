@@ -1,10 +1,7 @@
 **LXX Leviticus 4:3** 
 <small><sub>**LXX:**</sub></small>
 if then the anointed chief priest should sin \[to cause\] the people to sin, \[then\] he shall bring for  his sin of which he sinned an unblemished calf of \[the\] oxen to the <span class="smallcaps">lord</span> for the sin. 
-<small><sub>**KJV:**</sub></small>
-If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the LORD for a sin offering.
-<small><sub>**BSB:**</sub></small>
-If the anointed priest sins, bringing guilt on the people, he must bring to the LORD a young bull without blemish as a sin offering for the sin he has committed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.2|<< Leviticus 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.4|Leviticus 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

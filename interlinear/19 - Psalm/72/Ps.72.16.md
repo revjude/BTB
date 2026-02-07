@@ -1,4 +1,4 @@
-**Psalms 72:16** 
+**Psalms 72:16**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and [they] of the city shall flourish like grass of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May there be an abundance of grain in the land; may it sway atop the hills. May 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.15|<< Psalms 72:15]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.17|Psalms 72:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it be  |**<big>&#8207;[[H1961\|יְהִ֤י]]&#8207; </big>**| ye.Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an abundance of  |**<big>&#8207;[[H6451\|פִסַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| fi.sat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

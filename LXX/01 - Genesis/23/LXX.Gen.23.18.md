@@ -1,10 +1,7 @@
 **LXX Genesis 23:18** 
 <small><sub>**LXX:**</sub></small>
 \[came to\] Abraham for a possession before the sons of Heth, and all the \[ones\] entering into the city. 
-<small><sub>**KJV:**</sub></small>
-Unto Abraham for a possession in the presence of the children of Heth, before all that went in at the gate of his city.
-<small><sub>**BSB:**</sub></small>
-to Abraham’s possession in the presence of all the Hittites who had come to the gate of his city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.17|<< Genesis 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.19|Genesis 23:19 >>]]</td></tr></table>
 
 | Translation | Greek |

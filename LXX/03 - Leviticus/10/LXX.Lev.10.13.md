@@ -1,10 +1,7 @@
 **LXX Leviticus 10:13** 
 <small><sub>**LXX:**</sub></small>
 And you shall eat it in \[the\] holy place. For it is a law to you, and a law \[to\] your sons -- this from the yield \[offerings\] of \[the\] <span class="smallcaps">lord</span>. For thus it has been given charge to me. 
-<small><sub>**KJV:**</sub></small>
-And ye shall eat it in the holy place, because it [is] thy due, and thy sons’ due, of the sacrifices of the LORD made by fire: for so I am commanded.
-<small><sub>**BSB:**</sub></small>
-You shall eat it in a holy place, because it is your share and your sons’ share of the food offerings to the LORD; for this is what I have been commanded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.10.12|<< Leviticus 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.14|Leviticus 10:14 >>]]</td></tr></table>
 
 | Translation | Greek |

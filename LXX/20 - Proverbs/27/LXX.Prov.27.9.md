@@ -1,10 +1,7 @@
 **LXX Proverbs 27:9** 
 <small><sub>**LXX:**</sub></small>
 Perfumes, and wines, and incenses \[the\] heart happy; but \[the\] soul breaks down by adverse incidents. 
-<small><sub>**KJV:**</sub></small>
-Ointment and perfume rejoice the heart: so [doth] the sweetness of a man’s friend by hearty counsel.
-<small><sub>**BSB:**</sub></small>
-Oil and incense bring joy to the heart, and the counsel of a friend is sweetness to the soul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.27.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.8|<< Proverbs 27:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.10|Proverbs 27:10 >>]]</td></tr></table>
 
 | Translation | Greek |

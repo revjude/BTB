@@ -1,12 +1,12 @@
-**Acts 14:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:28**<big><big>[[Acts.14.21 Strengthening the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there they abode long time with the disciples.
 <small><sub>**BSB:**</sub></small>
 And they spent a long time there with the disciples.
 <small><sub>**Literal:**</sub></small>
 They were remaining then there time no little with the disciples.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.27|<< Acts 14:27]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.1|Acts 15:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were remaining |**<big>[[G1304\|διέτριβον]]</big>**  |dietribon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

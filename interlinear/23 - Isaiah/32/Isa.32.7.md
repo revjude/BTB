@@ -1,4 +1,4 @@
-**Isaiah 32:7** 
+**Isaiah 32:7**<big><big>[[Isa.32.1 A Righteous King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The instruments also of the churl [are] evil: he deviseth wicked devices to destroy the poor with lying words, even when the needy speaketh right.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The weapons of the scoundrel are destructive; he hatches plots to destroy the po
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.6|<< Isaiah 32:6]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.8|Isaiah 32:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a scoundrel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3596\|כֵלַ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khe.Lai<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | weapons his  |**<big>&#8207;[[H3627\|כֵּלָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ke.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

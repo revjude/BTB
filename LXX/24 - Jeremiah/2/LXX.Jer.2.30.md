@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:30** 
 <small><sub>**LXX:**</sub></small>
 In vain I struck  your children. They received not correction. A sword devoured  your prophets, as a lion  annihilating. And you feared not. 
-<small><sub>**KJV:**</sub></small>
-In vain have I smitten your children; they received no correction: your own sword hath devoured your prophets, like a destroying lion.
-<small><sub>**BSB:**</sub></small>
-“I have struck your sons in vain; they accepted no discipline. Your own sword has devoured your prophets like a voracious lion.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.29|<< Jeremiah 2:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.31|Jeremiah 2:31 >>]]</td></tr></table>
 
 | Translation | Greek |

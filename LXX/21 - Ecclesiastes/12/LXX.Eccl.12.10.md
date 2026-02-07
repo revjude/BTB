@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 12:10** 
 <small><sub>**LXX:**</sub></small>
 \[The\] ecclesiastic sought much  to find a wanting of words, and writing of uprightness of words of truth. 
-<small><sub>**KJV:**</sub></small>
-The preacher sought to find out acceptable words: and [that which was] written [was] upright, [even] words of truth.
-<small><sub>**BSB:**</sub></small>
-The Teacher searched to find delightful sayings and to record accurate words of truth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.9|<< Ecclesiastes 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.11|Ecclesiastes 12:11 >>]]</td></tr></table>
 
 | Translation | Greek |

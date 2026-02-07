@@ -1,12 +1,12 @@
-**Acts 14:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:9**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The same heard Paul speak: who stedfastly beholding him, and perceiving that he had faith to be healed,
 <small><sub>**BSB:**</sub></small>
 This man was listening to the words of Paul, who looked intently at him and saw that he had faith to be healed.
 <small><sub>**Literal:**</sub></small>
 This [man] heard <the> Paul speaking, who having looked intently at him and having seen that he has faith <the> to be healed,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.8|<< Acts 14:8]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.10|Acts 14:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This [man] |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | heard [^1] |**<big>[[G0191\|ἤκουσεν]]</big>**  |ēkousen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+Byz">N(k)O</abbr> | |

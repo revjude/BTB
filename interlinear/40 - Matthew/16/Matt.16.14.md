@@ -1,12 +1,12 @@
-**Matthew 16:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:14**<big><big>[[Matt.16.13 Peter’s Confession of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they said, Some [say that thou art] John the Baptist: some, Elias; and others, Jeremias, or one of the prophets.
 <small><sub>**BSB:**</sub></small>
 They replied, “Some say John the Baptist; others say Elijah; and still others, Jeremiah or one of the prophets.”
 <small><sub>**Literal:**</sub></small>
 <the> And they said: Some indeed, John the Baptist, others however, Elijah, others however, Jeremiah or one of the prophets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.13|<< Matthew 16:13]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.15|Matthew 16:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

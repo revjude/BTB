@@ -1,4 +1,4 @@
-**1 Chronicles 20:6** 
+**1 Chronicles 20:6**<big><big>[[1Chr.20.4 Battles against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And yet again there was war at Gath, where was a man of [great] stature, whose fingers and toes [were] four and twenty, six [on each hand], and six [on each foot]: and he also was the son of the giant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there was also a battle at Gath, where there was a man of great stature with
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.20.5|<< 1 Chronicles 20:5]]</td><td align="center" style="border:none;">[[1Chr.20|1 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.20.7|1 Chronicles 20:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|תְּהִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.hi-<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|ע֥וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

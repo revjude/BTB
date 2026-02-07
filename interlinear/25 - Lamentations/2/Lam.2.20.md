@@ -1,4 +1,4 @@
-**Lamentations 2:20** 
+**Lamentations 2:20**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, O LORD, and consider to whom thou hast done this. Shall the women eat their fruit, [and] children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Look, O LORD, and consider: Whom have You ever treated like this? Should women e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.19|<< Lamentations 2:19]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.21|Lamentations 2:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | see  |**<big>&#8207;[[H7200G\|רְאֵ֤ה]]&#8207; </big>**| re.'Eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

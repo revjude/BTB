@@ -1,4 +1,4 @@
-**Isaiah 11:1** 
+**Isaiah 11:1**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then a shoot will spring up from the stump of Jesse, and a Branch from his roots
 > $\quad$ referenced by: [[Matt.2.23|Matt 2:23]] ☩ [[Rom.15.12|Rom 15:12]] ☩ [[Rev.22.16|Rev 22:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will go forth  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318L\|יָצָ֥א]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Tza'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a shoot  |**<big>&#8207;[[H2415\|חֹ֖טֶר]]&#8207; </big>**| Cho.ter<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

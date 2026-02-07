@@ -1,10 +1,7 @@
 **LXX Exodus 9:25** 
 <small><sub>**LXX:**</sub></small>
 And the hail struck in all \[the\] land of Egypt -- all as much as was in the plain from man unto beast. And all pasturage  in the plain the hail struck. And all the trees  in the plains broke. 
-<small><sub>**KJV:**</sub></small>
-And the hail smote throughout all the land of Egypt all that [was] in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field.
-<small><sub>**BSB:**</sub></small>
-Throughout the land of Egypt, the hail struck down everything in the field, both man and beast; it beat down every plant of the field and stripped every tree.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.24|<< Exodus 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.26|Exodus 9:26 >>]]</td></tr></table>
 
 | Translation | Greek |

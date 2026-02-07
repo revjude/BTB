@@ -1,10 +1,7 @@
 **LXX Job 37:2** 
 <small><sub>**LXX:**</sub></small>
 Hear a report in anger of rage of \[the\] <span class="smallcaps">lord</span>! And a meditation from out of his mouth shall come forth. 
-<small><sub>**KJV:**</sub></small>
-Hear attentively the noise of his voice, and the sound [that] goeth out of his mouth.
-<small><sub>**BSB:**</sub></small>
-Listen closely to the thunder of His voice and the rumbling that comes from His mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.37.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.1|<< Job 37:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.3|Job 37:3 >>]]</td></tr></table>
 
 | Translation | Greek |

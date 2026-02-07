@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:25** 
 <small><sub>**LXX:**</sub></small>
 And I will put  my jealousy against you. And they shall deal with you in an anger of rage. They shall remove your nose and your ears; and  they shall throw down your remnant with a broadsword. They shall take your sons and your daughters, and  your remnant shall be devoured by fire. 
-<small><sub>**KJV:**</sub></small>
-And I will set my jealousy against thee, and they shall deal furiously with thee: they shall take away thy nose and thine ears; and thy remnant shall fall by the sword: they shall take thy sons and thy daughters; and thy residue shall be devoured by the fire.
-<small><sub>**BSB:**</sub></small>
-And I will set My jealous rage against you, and they will deal with you in fury. They will cut off your noses and ears, and your survivors will fall by the sword. They will seize your sons and daughters, and your remnant will be consumed by fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.24|<< Ezekiel 23:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.26|Ezekiel 23:26 >>]]</td></tr></table>
 
 | Translation | Greek |

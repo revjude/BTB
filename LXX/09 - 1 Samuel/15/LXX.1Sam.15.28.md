@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:28** 
 <small><sub>**LXX:**</sub></small>
 And Samuel said to him, \[the\] <span class="smallcaps">lord</span> tore  your kingdom from Israel, from out of your hand today, and he shall give it \[to\] your neighbor, to the one good over you. 
-<small><sub>**KJV:**</sub></small>
-And Samuel said unto him, The LORD hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, [that is] better than thou.
-<small><sub>**BSB:**</sub></small>
-So Samuel said to him, “The LORD has torn the kingdom of Israel from you today and has given it to your neighbor who is better than you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.27|<< 1 Samuel 15:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.29|1 Samuel 15:29 >>]]</td></tr></table>
 
 | Translation | Greek |

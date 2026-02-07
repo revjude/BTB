@@ -1,4 +1,4 @@
-**Judges 11:26** 
+**Judges 11:26**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 While Israel dwelt in Heshbon and her towns, and in Aroer and her towns, and in all the cities that [be] along by the coasts of Arnon, three hundred years? why therefore did ye not recover [them] within that time?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For three hundred years Israel has lived in Heshbon, Aroer, and their villages, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.25|<< Judges 11:25]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.27|Judges 11:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when dwelt  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3427\|שֶׁ֣בֶת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> She.vet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִ֠שְׂרָאֵל]]&#8207; </big>**| Yis.ra.'el<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Hebrews 10:36
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:36**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For ye have need of patience, that, after ye have done the will of God, ye might receive the promise.
 <small><sub>**BSB:**</sub></small>
 You need to persevere, so that after you have done the will of God, you will receive what He has promised.
 <small><sub>**Literal:**</sub></small>
 Of endurance for You have need, so that the will <the> of God having done you may receive the promise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.35|<< Hebrews 10:35]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.37|Hebrews 10:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of endurance |**<big>[[G5281\|ὑπομονῆς]]</big>**  |hupomonēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

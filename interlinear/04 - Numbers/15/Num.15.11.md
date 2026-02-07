@@ -1,4 +1,4 @@
-**Numbers 15:11** 
+**Numbers 15:11**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shall it be done for one bullock, or for one ram, or for a lamb, or a kid.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is to be done for each bull, ram, lamb, or goat.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.10|<< Numbers 15:10]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.12|Numbers 15:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3602\|כָּ֣כָה]]&#8207; </big>**| Ka.khah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be done  |**<big>&#8207;[[H6213A\|יֵעָשֶׂ֗ה]]&#8207; </big>**| ye.'a.Seh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

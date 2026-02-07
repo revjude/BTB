@@ -1,4 +1,4 @@
-**Exodus 29:9** 
+**Exodus 29:9**<big><big>[[Exod.29.1 Consecration of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt gird them with girdles, Aaron and his sons, and put the bonnets on them: and the priest’s office shall be theirs for a perpetual statute: and thou shalt consecrate Aaron and his sons.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wrap the sashes around Aaron and his sons and tie headbands on them. The priesth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.8|<< Exodus 29:8]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.10|Exodus 29:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will gird  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2296\|חָגַרְתָּ֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.gar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ֨]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

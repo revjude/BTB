@@ -1,4 +1,4 @@
-**Genesis 27:45** 
+**Genesis 27:45**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Until thy brother’s anger turn away from thee, and he forget [that] which thou hast done to him: then I will send, and fetch thee from thence: why should I be deprived also of you both in one day?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ until your brother’s rage against you wanes and he forgets what you have done 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.44|<< Genesis 27:44]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.46|Genesis 27:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | turns back  |**<big>&#8207;[[H7725I\|שׁ֨וּב]]&#8207; </big>**| shuv<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

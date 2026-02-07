@@ -1,4 +1,4 @@
-**Genesis 39:23** 
+**Genesis 39:23**<big><big>[[Gen.39.13 Joseph Falsely Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The keeper of the prison looked not to any thing [that was] under his hand; because the LORD was with him, and [that] which he did, the LORD made [it] to prosper.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The warden did not concern himself with anything under Joseph’s care, because 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.22|<< Genesis 39:22]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.1|Genesis 40:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H0369\|אֵ֣ין]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] commander of  |**<big>&#8207;[[H8269\|שַׂ֣ר]]&#8207; </big>**| sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

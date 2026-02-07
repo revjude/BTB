@@ -1,4 +1,4 @@
-**Daniel 4:29** (4:26)
+**Daniel 4:29**<big><big>[[Dan.4.28 The Second Dream Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the end of twelve months he walked in the palace of the kingdom of Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Twelve months later, as he was walking on the roof of the royal palace of Babylo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.28|<< Daniel 4:28]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.30|Daniel 4:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to [the] end of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7118\|קְצָ֥ת]]&#8207; </big>**| li<small><sup>[[AR]]</sup></small> k.Tzat<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | months  |**<big>&#8207;[[H3393\|יַרְחִ֖ין]]&#8207; </big>**| yar.Chin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

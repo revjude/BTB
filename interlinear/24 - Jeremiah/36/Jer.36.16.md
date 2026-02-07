@@ -1,4 +1,4 @@
-**Jeremiah 36:16** 
+**Jeremiah 36:16**<big><big>[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass, when they had heard all the words, they were afraid both one and other, and said unto Baruch, We will surely tell the king of all these words.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they had heard all these words, they turned to one another in fear and said
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.15|<< Jeremiah 36:15]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.17|Jeremiah 36:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when heard they  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8085G\|שָׁמְעָ]]&#8207;&#8207;[[H9048\|ם֙]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> sha.me.'A<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

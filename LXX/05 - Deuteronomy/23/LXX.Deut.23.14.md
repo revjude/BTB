@@ -1,10 +1,7 @@
 **LXX Deuteronomy 23:14** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span>  your God walks about in  your camp to rescue you, and to deliver up  your enemy before your face; and your camp shall be holy, and there shall not be seen among you a thing of indecency, that he shall turn away from you. 
-<small><sub>**KJV:**</sub></small>
-For the LORD thy God walketh in the midst of thy camp, to deliver thee, and to give up thine enemies before thee; therefore shall thy camp be holy: that he see no unclean thing in thee, and turn away from thee.
-<small><sub>**BSB:**</sub></small>
-For the LORD your God walks throughout your camp to protect you and deliver your enemies to you. Your camp must be holy, lest He see anything unclean among you and turn away from you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.23.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.13|<< Deuteronomy 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.15|Deuteronomy 23:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 23:14** is...

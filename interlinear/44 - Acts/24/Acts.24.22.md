@@ -1,12 +1,12 @@
-**Acts 24:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:22**<big><big>[[Acts.24.22 The Verdict Postponed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Felix heard these things, having more perfect knowledge of [that] way, he deferred them, and said, When Lysias the chief captain shall come down, I will know the uttermost of your matter.
 <small><sub>**BSB:**</sub></small>
 Then Felix, who was well informed about the Way, adjourned the hearing and said, “When Lysias the commander comes, I will decide your case.”
 <small><sub>**Literal:**</sub></small>
 having heard these things deferred  then  them <the> Felix more precisely knowing the [things] concerning the Way having said; When Lysias the commander may have come down, I will examine the [things] as to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.21|<< Acts 24:21]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.23|Acts 24:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having heard |**<big>[[G0191\|Ἀκούσας]]</big>**  |Akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 | these things [^1] |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

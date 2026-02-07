@@ -1,4 +1,4 @@
-**2 Chronicles 8:17** 
+**2 Chronicles 8:17**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then went Solomon to Eziongeber, and to Eloth, at the sea side in the land of Edom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Solomon went to Ezion-geber and to Eloth on the coast of Edom.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.16|<< 2 Chronicles 8:16]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.18|2 Chronicles 8:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָז֩]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went  |**<big>&#8207;[[H1980G\|הָלַ֨ךְ]]&#8207; </big>**| ha.Lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

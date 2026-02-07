@@ -1,4 +1,4 @@
-**Job 12:25** 
+**Job 12:25**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They grope in the dark without light, and he maketh them to stagger like [a] drunken [man].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They grope in the darkness without light; He makes them stagger like drunkards.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.24|<< Job 12:24]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.1|Job 13:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they grope  |**<big>&#8207;[[H4959\|יְמַֽשְׁשׁוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.mash.shu-<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | darkness  |**<big>&#8207;[[H2822\|חֹ֥שֶׁךְ]]&#8207; </big>**| Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

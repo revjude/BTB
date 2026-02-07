@@ -1,12 +1,12 @@
-**Romans 10:12
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:12**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.
 <small><sub>**BSB:**</sub></small>
 For there is no difference between Jew and Greek: The same Lord is Lord of all, and gives richly to all who call on Him,
 <small><sub>**Literal:**</sub></small>
 Not for there is difference Jew between and Greek; <the> for the same Lord of all is rich toward all those calling Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.11|<< Romans 10:11]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.13|Romans 10:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

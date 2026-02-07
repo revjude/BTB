@@ -1,4 +1,4 @@
-**Ezekiel 48:18** 
+**Ezekiel 48:18**<big><big>[[Ezek.48.15 The Common Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the residue in length over against the oblation of the holy [portion shall be] ten thousand eastward, and ten thousand westward: and it shall be over against the oblation of the holy [portion]; and the increase thereof shall be for food unto them that serve the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The remainder of the length bordering the holy portion and running adjacent to i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.17|<< Ezekiel 48:17]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.19|Ezekiel 48:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<the> [what] remains  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3498\|נּוֹתָ֨ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> no.Tar<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the length  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0753\|אֹ֜רֶךְ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'O.rekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

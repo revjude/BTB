@@ -1,10 +1,7 @@
 **LXX Leviticus 11:38** 
 <small><sub>**LXX:**</sub></small>
 But if water should be poured upon any seed, and their decaying flesh should fall upon it, it is unclean to you. 
-<small><sub>**KJV:**</sub></small>
-But if [any] water be put upon the seed, and [any part] of their carcase fall thereon, it [shall be] unclean unto you.
-<small><sub>**BSB:**</sub></small>
-but if water has been put on the seed and a carcass falls on it, it is unclean for you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.37|<< Leviticus 11:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.39|Leviticus 11:39 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Miriam and Aaron spoke against Moses, because of the Ethiopian wife, whom Moses took, for he took an Ethiopian woman. 
-<small><sub>**KJV:**</sub></small>
-And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
-<small><sub>**BSB:**</sub></small>
-Then Miriam and Aaron criticized Moses because of the Cushite woman he had married, for he had taken a Cushite wife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.35|<< Numbers 11:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.2|Numbers 12:2 >>]]</td></tr></table>
 
 | Translation | Greek |

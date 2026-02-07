@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And still Job proceeded \[and\] said in the retort. 
-<small><sub>**KJV:**</sub></small>
-Moreover Job continued his parable, and said,
-<small><sub>**BSB:**</sub></small>
-Job continued his discourse:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.26.14|<< Job 26:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.27.2|Job 27:2 >>]]</td></tr></table>
 
 | Translation | Greek |

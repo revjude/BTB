@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:6** 
 <small><sub>**LXX:**</sub></small>
 And Absalom did according to  this thing to all Israel, to the ones coming for a judgment to the king. And Absalom adopted the heart of \[the\] men of Israel. 
-<small><sub>**KJV:**</sub></small>
-And on this manner did Absalom to all Israel that came to the king for judgment: so Absalom stole the hearts of the men of Israel.
-<small><sub>**BSB:**</sub></small>
-Absalom did this to all the Israelites who came to the king for justice. In this way he stole the hearts of the men of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.5|<< 2 Samuel 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.7|2 Samuel 15:7 >>]]</td></tr></table>
 
 | Translation | Greek |

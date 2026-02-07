@@ -1,4 +1,4 @@
-**Isaiah 44:6** 
+**Isaiah 44:6**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD the King of Israel, and his redeemer the LORD of hosts; I [am] the first, and I [am] the last; and beside me [there is] no God.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Thus says the LORD, the King and Redeemer of Israel, the LORD of Hosts: “I am 
 > $\quad$ referenced by: [[Rev.1.8|Rev 1:8]] ☩ [[Rev.1.17|Rev 1:17]] ☩ [[Rev.22.13|Rev 22:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֨ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 17:22
-**<small><sub>**KJV:**</sub></small>
+**John 17:22**<big><big>[[John.17.20 Prayer for All Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the glory which thou gavest me I have given them; that they may be one, even as we are one:
 <small><sub>**BSB:**</sub></small>
 I have given them the glory You gave Me, so that they may be one as We are one—
 <small><sub>**Literal:**</sub></small>
 And I myself the glory which You have given Me I have given to them, so that they may be one even as We ourselves one — are;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.21|<< John 17:21]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.23|John 17:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And I myself |**<big>[[G1473\|κἀγὼ]]</big>**  [^1] |kagō <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Proverbs 6:12** 
+**Proverbs 6:12**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A naughty person, a wicked man, walketh with a froward mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A worthless person, a wicked man, walks with a perverse mouth,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.11|<< Proverbs 6:11]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.13|Proverbs 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a person of  |**<big>&#8207;[[H0120G\|אָדָ֣ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | worthlessness  |**<big>&#8207;[[H1100I\|בְּ֭לִיַּעַל]]&#8207; </big>**| Be.li.ya.'al<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

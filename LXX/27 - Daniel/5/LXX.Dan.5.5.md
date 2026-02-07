@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In the same  hour came forth fingers of \[the\] hand of a man, and they wrote over against the lamp upon the whitewashed \[portion\] of the wall of the house of the king. And the king viewed the knuckles of the hand  writing. 
-<small><sub>**KJV:**</sub></small>
-In the same hour came forth fingers of a man’s hand, and wrote over against the candlestick upon the plaister of the wall of the king’s palace: and the king saw the part of the hand that wrote.
-<small><sub>**BSB:**</sub></small>
-At that moment the fingers of a human hand appeared and wrote on the plaster of the wall, near the lampstand in the royal palace. As the king watched the hand that was writing,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.4|<< Daniel 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.6|Daniel 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

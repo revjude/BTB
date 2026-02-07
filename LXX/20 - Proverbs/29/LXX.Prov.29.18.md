@@ -1,10 +1,7 @@
 **LXX Proverbs 29:18** 
 <small><sub>**LXX:**</sub></small>
 In no way should there exist an expositor to a lawbreaking nation; but the one keeping the law is most blessed. 
-<small><sub>**KJV:**</sub></small>
-Where [there is] no vision, the people perish: but he that keepeth the law, happy [is] he.
-<small><sub>**BSB:**</sub></small>
-Where there is no vision, the people cast off restraint; but blessed is he who keeps the Law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.29.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.17|<< Proverbs 29:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.19|Proverbs 29:19 >>]]</td></tr></table>
 
 | Translation | Greek |

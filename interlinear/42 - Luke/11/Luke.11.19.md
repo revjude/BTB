@@ -1,12 +1,12 @@
-**Luke 11:19
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:19**<big><big>[[Luke.11.14 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if I by Beelzebub cast out devils, by whom do your sons cast [them] out? therefore shall they be your judges.
 <small><sub>**BSB:**</sub></small>
 And if I drive out demons by Beelzebul, by whom do your sons drive them out? So then, they will be your judges.
 <small><sub>**Literal:**</sub></small>
 If now I myself by Beelzebul cast out the demons, the sons of you by whom do they cast out? On account of this they themselves of you judges will be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.18|<< Luke 11:18]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.20|Luke 11:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

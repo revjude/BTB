@@ -1,10 +1,7 @@
 **LXX Judges 19:16** 
 <small><sub>**LXX:**</sub></small>
 And behold, an old man entered from  his works from out of the field at evening, and the man \[was\] from mount Ephraim, and he sojourned in Gibeah; and the men of the place \[were\] sons of Benjamin. 
-<small><sub>**KJV:**</sub></small>
-And, behold, there came an old man from his work out of the field at even, which [was] also of mount Ephraim; and he sojourned in Gibeah: but the men of the place [were] Benjamites.
-<small><sub>**BSB:**</sub></small>
-That evening an old man from the hill country of Ephraim, who was residing in Gibeah (the men of that place were Benjamites), came in from his work in the field.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.15|<< Judges 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.17|Judges 19:17 >>]]</td></tr></table>
 
 | Translation | Greek |

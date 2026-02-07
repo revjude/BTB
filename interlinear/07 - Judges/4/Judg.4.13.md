@@ -1,4 +1,4 @@
-**Judges 4:13** 
+**Judges 4:13**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Sisera gathered together all his chariots, [even] nine hundred chariots of iron, and all the people that [were] with him, from Harosheth of the Gentiles unto the river of Kishon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ he summoned all nine hundred of his iron chariots and all the men with him, from
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.12|<< Judges 4:12]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.14|Judges 4:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2199\|יַּזְעֵ֨ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yaz.'Ek<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sisera  |**<big>&#8207;[[H5516G\|סִֽיסְרָ֜א]]&#8207; </big>**| sis.Ra'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 6:70** (6:55)
+**1 Chronicles 6:70**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And out of the half tribe of Manasseh; Aner with her suburbs, and Bileam with her suburbs, for the family of the remnant of the sons of Kohath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And from the half-tribe of Manasseh the rest of the clans of the Kohathites were
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.70|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.69|<< 1 Chronicles 6:69]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.71|1 Chronicles 6:71 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] half of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H4276\|מַּחֲצִית֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ma.cha.Tzit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tribe of  |**<big>&#8207;[[H4294H\|מַטֵּ֣ה]]&#8207; </big>**| ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

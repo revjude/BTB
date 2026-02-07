@@ -1,4 +1,4 @@
-**Deuteronomy 1:42** 
+**Deuteronomy 1:42**<big><big>[[Deut.1.41 The Defeat at Hormah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto me, Say unto them, Go not up, neither fight; for I [am] not among you; lest ye be smitten before your enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the LORD said to me, “Tell them not to go up and fight, for I am not with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.41|<< Deuteronomy 1:41]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.43|Deuteronomy 1:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

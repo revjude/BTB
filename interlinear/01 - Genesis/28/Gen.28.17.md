@@ -1,4 +1,4 @@
-**Genesis 28:17** 
+**Genesis 28:17**<big><big>[[Gen.28.10 Jacob’s Ladder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he was afraid, and said, How dreadful [is] this place! this [is] none other but the house of God, and this [is] the gate of heaven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he was afraid and said, “How awesome is this place! This is none other tha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.16|<< Genesis 28:16]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.18|Genesis 28:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was afraid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3372H\|יִּירָא֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמַ֔ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

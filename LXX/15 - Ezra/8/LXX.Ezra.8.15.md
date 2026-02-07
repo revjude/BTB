@@ -1,10 +1,7 @@
 **LXX Ezra 8:15** 
 <small><sub>**LXX:**</sub></small>
 And I gathered them to the river, the one coming to  Ahava; and we camped there three days. And I perceived among the people, and among the priests, \[there were\] not \[any\] from \[the\] sons of Levi found there. 
-<small><sub>**KJV:**</sub></small>
-And I gathered them together to the river that runneth to Ahava; and there abode we in tents three days: and I viewed the people, and the priests, and found there none of the sons of Levi.
-<small><sub>**BSB:**</sub></small>
-Now I assembled these exiles at the canal that flows to Ahava, and we camped there three days. And when I searched among the people and priests, I found no Levites there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.14|<< Ezra 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.16|Ezra 8:16 >>]]</td></tr></table>
 
 | Translation | Greek |

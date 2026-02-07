@@ -1,10 +1,7 @@
 **LXX Isaiah 58:11** 
 <small><sub>**LXX:**</sub></small>
 And your God will be with you always, and you shall be filled up just as your soul desires. And  your bones shall be fattened, and will be as a saturated garden, and as a spring which water failed not. 
-<small><sub>**KJV:**</sub></small>
-And the LORD shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.
-<small><sub>**BSB:**</sub></small>
-The LORD will always guide you; He will satisfy you in a sun-scorched land and strengthen your frame. You will be like a well-watered garden, like a spring whose waters never fail.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.58.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.10|<< Isaiah 58:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.12|Isaiah 58:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 58:11** is...

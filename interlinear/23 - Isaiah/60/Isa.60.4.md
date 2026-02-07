@@ -1,4 +1,4 @@
-**Isaiah 60:4** 
+**Isaiah 60:4**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift up thine eyes round about, and see: all they gather themselves together, they come to thee: thy sons shall come from far, and thy daughters shall be nursed at [thy] side.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Lift up your eyes and look around: They all gather and come to you; your sons wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.3|<< Isaiah 60:3]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.5|Isaiah 60:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lift up  |**<big>&#8207;[[H5375M\|שְׂאִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| se.'i-<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all around  |**<big>&#8207;[[H5439G\|סָבִ֤יב]]&#8207; </big>**| sa.Viv<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

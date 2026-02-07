@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:26** 
 <small><sub>**LXX:**</sub></small>
 And the one returning him from out of the way heard, and said, This is the man of God who rebelled against the word of \[the\] <span class="smallcaps">lord</span>; and \[the\] <span class="smallcaps">lord</span> gave him to the lion, and it broke him, and it killed him, according to the word of \[the\] <span class="smallcaps">lord</span> which he spoke to him. 
-<small><sub>**KJV:**</sub></small>
-And when the prophet that brought him back from the way heard [thereof], he said, It [is] the man of God, who was disobedient unto the word of the LORD: therefore the LORD hath delivered him unto the lion, which hath torn him, and slain him, according to the word of the LORD, which he spake unto him.
-<small><sub>**BSB:**</sub></small>
-When the prophet who had brought him back from his journey heard this, he said, “It is the man of God who disobeyed the command of the LORD. Therefore the LORD has delivered him to the lion, and it has mauled him and killed him, according to the word that the LORD had spoken to him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.25|<< 1 Kings 13:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.27|1 Kings 13:27 >>]]</td></tr></table>
 
 | Translation | Greek |

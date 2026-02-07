@@ -1,12 +1,12 @@
-**Matthew 20:31
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:31**<big><big>[[Matt.20.29 The Blind Men by the Road|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the multitude rebuked them, because they should hold their peace: but they cried the more, saying, Have mercy on us, O Lord, [thou] Son of David.
 <small><sub>**BSB:**</sub></small>
 The crowd admonished them to be silent, but they cried out all the louder, “Lord, Son of David, have mercy on us!”
 <small><sub>**Literal:**</sub></small>
 <the> And the crowd rebuked them that they may be silent. <the> But all the more they cried out saying: do have mercy on us Lord, Son of David.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.30|<< Matthew 20:30]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.32|Matthew 20:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

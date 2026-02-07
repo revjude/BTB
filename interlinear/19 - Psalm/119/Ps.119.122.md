@@ -1,4 +1,4 @@
-**Psalms 119:122** 
+**Psalms 119:122**<big><big>[[Ps.119.121 Your Word Is a Lamp to My Feet - AIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be surety for thy servant for good: let not the proud oppress me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ensure Your servant’s well-being; do not let the arrogant oppress me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.122|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.121|<< Psalms 119:121]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.123|Psalms 119:123 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | stand surety for  |**<big>&#8207;[[H6148\|עֲרֹ֣ב]]&#8207; </big>**| a.Ro<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | servant your  |**<big>&#8207;[[H5650\|עַבְדְּ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| 'av.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

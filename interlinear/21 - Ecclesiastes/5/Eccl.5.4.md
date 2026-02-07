@@ -1,4 +1,4 @@
-**Ecclesiastes 5:4** (5:3)
+**Ecclesiastes 5:4**<big><big>[[Eccl.5.1 Approaching God with Awe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou vowest a vow unto God, defer not to pay it; for [he hath] no pleasure in fools: pay that which thou hast vowed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you make a vow to God, do not delay in fulfilling it, because He takes no p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.3|<< Ecclesiastes 5:3]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.5|Ecclesiastes 5:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<just> when  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁר֩]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will vow  |**<big>&#8207;[[H5087\|תִּדֹּ֨ר]]&#8207; </big>**| ti.Dor<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

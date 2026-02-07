@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:39** 
 <small><sub>**LXX:**</sub></small>
 And that I am as a relative today, and one being placed for king.  But these men, the sons of Zeruiah are hard for me. \[The\] <span class="smallcaps">lord</span> should recompense to the one doing the wicked \[things\] according to  his evil. 
-<small><sub>**KJV:**</sub></small>
-And I [am] this day weak, though anointed king; and these men the sons of Zeruiah [be] too hard for me: the LORD shall reward the doer of evil according to his wickedness.
-<small><sub>**BSB:**</sub></small>
-And I am weak this day, though anointed as king, and these men, the sons of Zeruiah, are too fierce for me. May the LORD repay the evildoer according to his evil!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.38|<< 2 Samuel 3:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.4.1|2 Samuel 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

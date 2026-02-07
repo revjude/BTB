@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:20** 
 <small><sub>**LXX:**</sub></small>
 And came forth the spirit, and stood in the presence of \[the\] <span class="smallcaps">lord</span>, and said, I shall deceive him. And \[the\] <span class="smallcaps">lord</span> said, By what \[means\]? 
-<small><sub>**KJV:**</sub></small>
-Then there came out a spirit, and stood before the LORD, and said, I will entice him. And the LORD said unto him, Wherewith?
-<small><sub>**BSB:**</sub></small>
-Then a spirit came forward, stood before the LORD, and said, ‘I will entice him.’ ‘By what means?’ asked the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.19|<< 2 Chronicles 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.21|2 Chronicles 18:21 >>]]</td></tr></table>
 
 | Translation | Greek |

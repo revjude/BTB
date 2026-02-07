@@ -1,10 +1,7 @@
 **LXX Ezekiel 11:12** 
 <small><sub>**LXX:**</sub></small>
 Unto the borders  of Israel I will judge you, and you shall know, for I \[am\] \[the\] <span class="smallcaps">lord</span>. For you did not go in my commandments, and  of my judgments you went not, and according to the judgments of the nations, of the ones around you, you went. 
-<small><sub>**KJV:**</sub></small>
-And ye shall know that I [am] the LORD: for ye have not walked in my statutes, neither executed my judgments, but have done after the manners of the heathen that [are] round about you.
-<small><sub>**BSB:**</sub></small>
-Then you will know that I am the LORD. For you have neither followed My statutes nor practiced My ordinances, but you have conformed to the ordinances of the nations around you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.11|<< Ezekiel 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.13|Ezekiel 11:13 >>]]</td></tr></table>
 
 | Translation | Greek |

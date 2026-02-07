@@ -1,4 +1,4 @@
-**1 Kings 20:34** 
+**1 Kings 20:34**<big><big>[[1Kgs.20.31 Ahab Spares Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [Benhadad] said unto him, The cities, which my father took from thy father, I will restore; and thou shalt make streets for thee in Damascus, as my father made in Samaria. Then [said Ahab], I will send thee away with this covenant. So he made a covenant with him, and sent him away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ben-hadad said to him, “I will restore the cities my father took from your fat
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.33|<< 1 Kings 20:33]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.35|1 Kings 20:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָ֡י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

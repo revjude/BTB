@@ -1,10 +1,7 @@
 **LXX Joshua 9:20** 
 <small><sub>**LXX:**</sub></small>
 This we will do to them -- to take them alive, and we will preserve them, and there will not be anger against us on account of the oath which we swore by an oath to them. 
-<small><sub>**KJV:**</sub></small>
-This we will do to them; we will even let them live, lest wrath be upon us, because of the oath which we sware unto them.
-<small><sub>**BSB:**</sub></small>
-This is how we will treat them: We will let them live, so that no wrath will fall on us because of the oath we swore to them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.19|<< Joshua 9:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.21|Joshua 9:21 >>]]</td></tr></table>
 
 | Translation | Greek |

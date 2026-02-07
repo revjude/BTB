@@ -1,4 +1,4 @@
-**1 Chronicles 3:24** 
+**1 Chronicles 3:24**<big><big>[[1Chr.3.17 The Royal Line After the Exile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Elioenai [were], Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani, seven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.23|<< 1 Chronicles 3:23]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.1|1 Chronicles 4:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Elioenai  |**<big>&#8207;[[H0454B\|אֶלְיוֹעֵינַ֗י]]&#8207; </big>**| 'el.yo.'ei.Nai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

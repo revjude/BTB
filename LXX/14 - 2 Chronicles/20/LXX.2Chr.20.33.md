@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:33** 
 <small><sub>**LXX:**</sub></small>
 Only the high \[places\] he did not remove, and still the people did not straighten out  their heart to \[the\] <span class="smallcaps">lord</span>  God  of their fathers. 
-<small><sub>**KJV:**</sub></small>
-Howbeit the high places were not taken away: for as yet the people had not prepared their hearts unto the God of their fathers.
-<small><sub>**BSB:**</sub></small>
-The high places, however, were not removed; the people had not yet set their hearts on the God of their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.32|<< 2 Chronicles 20:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.34|2 Chronicles 20:34 >>]]</td></tr></table>
 
 | Translation | Greek |

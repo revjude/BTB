@@ -1,4 +1,4 @@
-**2 Chronicles 11:13** 
+**2 Chronicles 11:13**<big><big>[[2Chr.11.13 Jeroboam Forsakes the Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priests and the Levites that [were] in all Israel resorted to him out of all their coasts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, the priests and Levites from all their districts throughout Israel sto
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.12|<< 2 Chronicles 11:12]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.14|2 Chronicles 11:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the priests  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֲנִים֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and the Levites  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֔ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

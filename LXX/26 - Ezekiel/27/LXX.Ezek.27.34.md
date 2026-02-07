@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:34** 
 <small><sub>**LXX:**</sub></small>
 But now you are broken in the sea; your consolidation and all your gathering \[is\] in \[the\] depth of \[the\] water in your midst. All your oarsmen fell. 
-<small><sub>**KJV:**</sub></small>
-In the time [when] thou shalt be broken by the seas in the depths of the waters thy merchandise and all thy company in the midst of thee shall fall.
-<small><sub>**BSB:**</sub></small>
-Now you are shattered by the seas in the depths of the waters; your merchandise and the people among you have gone down with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.33|<< Ezekiel 27:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.35|Ezekiel 27:35 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 15:13
-**<small><sub>**KJV:**</sub></small>
+**John 15:13**<big><big>[[John.15.9 No Greater Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Greater love hath no man than this, that a man lay down his life for his friends.
 <small><sub>**BSB:**</sub></small>
 Greater love has no one than this, that he lay down his life for his friends.
 <small><sub>**Literal:**</sub></small>
 Greater than this love no [one] has that one the life of him may lay down for the friends of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.12|<< John 15:12]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.14|John 15:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Greater |**<big>[[G3173\|μείζονα]]</big>**  |meizona <small><sup>[[A-ASF-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | than this |**<big>[[G3778\|ταύτης]]</big>**  |tautēs <small><sup>[[D-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

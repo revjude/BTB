@@ -1,10 +1,7 @@
 **LXX Isaiah 8:7** 
 <small><sub>**LXX:**</sub></small>
 behold, \[the\] <span class="smallcaps">lord</span> leads against you the strong and abundant water of the river, the king of the Assyrians, and  his glory. And he shall ascend upon all your ravine, and shall walk upon all your wall. 
-<small><sub>**KJV:**</sub></small>
-Now therefore, behold, the Lord bringeth up upon them the waters of the river, strong and many, [even] the king of Assyria, and all his glory: and he shall come up over all his channels, and go over all his banks:
-<small><sub>**BSB:**</sub></small>
-the Lord will surely bring against them the mighty floodwaters of the Euphrates—the king of Assyria and all his pomp. It will overflow its channels and overrun its banks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.6|<< Isaiah 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.8|Isaiah 8:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 8:7** is...

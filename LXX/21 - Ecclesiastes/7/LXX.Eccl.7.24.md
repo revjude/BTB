@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 7:24** 
 <small><sub>**LXX:**</sub></small>
 Far above what was, and a deep depth -- who shall find it? 
-<small><sub>**KJV:**</sub></small>
-That which is far off, and exceeding deep, who can find it out?
-<small><sub>**BSB:**</sub></small>
-What exists is out of reach and very deep. Who can fathom it?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.23|<< Ecclesiastes 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.25|Ecclesiastes 7:25 >>]]</td></tr></table>
 
 | Translation | Greek |

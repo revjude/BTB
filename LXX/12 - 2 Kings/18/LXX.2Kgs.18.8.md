@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:8** 
 <small><sub>**LXX:**</sub></small>
 He struck the Philistines unto Gaza, and unto its border, from \[the\] tower of the ones guarding, and unto \[the\] fortified city. 
-<small><sub>**KJV:**</sub></small>
-He smote the Philistines, [even] unto Gaza, and the borders thereof, from the tower of the watchmen to the fenced city.
-<small><sub>**BSB:**</sub></small>
-He defeated the Philistines as far as Gaza and its borders, from watchtower to fortified city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.7|<< 2 Kings 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.9|2 Kings 18:9 >>]]</td></tr></table>
 
 | Translation | Greek |

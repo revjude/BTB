@@ -1,12 +1,12 @@
-**2 Peter 2:2
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 2:2**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of.
 <small><sub>**BSB:**</sub></small>
 Many will follow in their depravity, and because of them the way of truth will be defamed.
 <small><sub>**Literal:**</sub></small>
 And many will follow after their <the> sensuality, through whom the way of the truth will be denigrated;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.1|<< 2 Peter 2:1]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.3|2 Peter 2:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | many |**<big>[[G4183\|πολλοὶ]]</big>**  |polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

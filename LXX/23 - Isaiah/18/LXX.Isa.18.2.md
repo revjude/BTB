@@ -1,10 +1,7 @@
 **LXX Isaiah 18:2** 
 <small><sub>**LXX:**</sub></small>
 The one sending treaties and Bibline papyrus letters by \[the\] sea upon the water; for messengers of light shall go to an elevated nation, and a strange people, and ill-tempered. Who is it beyond, a nation unhoped for, and the rivers of all \[the\] land being trampled now? 
-<small><sub>**KJV:**</sub></small>
-That sendeth ambassadors by the sea, even in vessels of bulrushes upon the waters, [saying], Go, ye swift messengers, to a nation scattered and peeled, to a people terrible from their beginning hitherto; a nation meted out and trodden down, whose land the rivers have spoiled!
-<small><sub>**BSB:**</sub></small>
-which sends couriers by sea, in papyrus vessels on the waters. Go, swift messengers, to a people tall and smooth-skinned, to a people widely feared, to a powerful nation of strange speech, whose land is divided by rivers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.18.1|<< Isaiah 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.18.3|Isaiah 18:3 >>]]</td></tr></table>
 
 | Translation | Greek |

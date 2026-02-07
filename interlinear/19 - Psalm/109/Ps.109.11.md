@@ -1,4 +1,4 @@
-**Psalms 109:11** 
+**Psalms 109:11**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the extortioner catch all that he hath; and let the strangers spoil his labour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the creditor seize all he owns, and strangers plunder the fruits of his labo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.10|<< Psalms 109:10]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.12|Psalms 109:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may he strike  |**<big>&#8207;[[H5367\|יְנַקֵּ֣שׁ]]&#8207; </big>**| ye.na.Kesh<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a creditor  |**<big>&#8207;[[H5383\|נ֭וֹשֶׁה]]&#8207; </big>**| No.o.sheh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

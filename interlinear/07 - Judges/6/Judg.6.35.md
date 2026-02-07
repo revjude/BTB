@@ -1,4 +1,4 @@
-**Judges 6:35** 
+**Judges 6:35**<big><big>[[Judg.6.33 The Sign of the Fleece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sent messengers throughout all Manasseh; who also was gathered after him: and he sent messengers unto Asher, and unto Zebulun, and unto Naphtali; and they came up to meet them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Calling them to arms, Gideon sent messengers throughout Manasseh, as well as Ash
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.34|<< Judges 6:34]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.36|Judges 6:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and messengers  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4397G\|מַלְאָכִים֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mal.'a.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he sent  |**<big>&#8207;[[H7971G\|שָׁלַ֣ח]]&#8207; </big>**| sha.Lach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

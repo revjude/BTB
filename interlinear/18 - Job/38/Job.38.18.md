@@ -1,4 +1,4 @@
-**Job 38:18** 
+**Job 38:18**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hast thou perceived the breadth of the earth? declare if thou knowest it all.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Have you surveyed the extent of the earth? Tell Me, if you know all this.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.17|<< Job 38:17]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.19|Job 38:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | have you shown yourself attentive?  |**<big>&#8207;[[H0995\|הִ֭תְבֹּנַנְתָּ]]&#8207; </big>**| Hit.bo.nan.ta<small><sup>[[HVtp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

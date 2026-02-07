@@ -1,10 +1,7 @@
 **LXX Joshua 2:23** 
 <small><sub>**LXX:**</sub></small>
 And the two young men returned, and they went down from out of the mountain, and passed over, and came to  Joshua son of Nun. And they described to him all the things coming to pass to them. 
-<small><sub>**KJV:**</sub></small>
-So the two men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun, and told him all [things] that befell them:
-<small><sub>**BSB:**</sub></small>
-Then the two men started back, came down from the hill country, and crossed the river. So they came to Joshua son of Nun and reported all that had happened to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.22|<< Joshua 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.24|Joshua 2:24 >>]]</td></tr></table>
 
 | Translation | Greek |

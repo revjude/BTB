@@ -1,4 +1,4 @@
-**Ezekiel 41:3** 
+**Ezekiel 41:3**<big><big>[[Ezek.41.1 Inside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then went he inward, and measured the post of the door, two cubits; and the door, six cubits; and the breadth of the door, seven cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he went into the inner sanctuary and measured the side pillars at the entran
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.2|<< Ezekiel 41:2]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.4|Ezekiel 41:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֣א]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to within  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6441\|פְנִ֔ימָה]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Ni.mah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

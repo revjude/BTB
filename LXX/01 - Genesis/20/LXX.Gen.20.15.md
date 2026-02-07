@@ -1,10 +1,7 @@
 **LXX Genesis 20:15** 
 <small><sub>**LXX:**</sub></small>
 And Abimelech said  to Abraham, Behold,  my land \[is\] before you, which ever it may please you, dwell \[there\]! 
-<small><sub>**KJV:**</sub></small>
-And Abimelech said, Behold, my land [is] before thee: dwell where it pleaseth thee.
-<small><sub>**BSB:**</sub></small>
-And Abimelech said, “Look, my land is before you. Settle wherever you please.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.14|<< Genesis 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.16|Genesis 20:16 >>]]</td></tr></table>
 
 | Translation | Greek |

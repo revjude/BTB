@@ -1,6 +1,6 @@
 (KJV) **Deuteronomy 29**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28|<< Deuteronomy 28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30|Deuteronomy 30 >>]]</td></tr></table>
 
-***The Covenant in Moab*** ^bsb534
+<big><big>[[Deut.29.1 The Covenant in Moab|⥃]]</big></big>***The Covenant in Moab***
 
  $\quad$ <span class="startversemarker">[</span>**[[Deut.29.1|1]]**<span class="endversemarker">]</span> These \[are\] the words<small><small>[^2]</small></small> of the covenant, which the <span class="smallcaps">Lord</span> commanded Moses to make with the children of Israel in the land of Moab, beside the<small><small>[^3]</small></small> covenant which he made with them in Horeb. 
 

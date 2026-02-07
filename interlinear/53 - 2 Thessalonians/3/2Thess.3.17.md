@@ -1,12 +1,12 @@
-**2 Thessalonians 3:17
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 3:17**<big><big>[[2Thess.3.16 Signature and Final Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The salutation of Paul with mine own hand, which is the token in every epistle: so I write.
 <small><sub>**BSB:**</sub></small>
 This greeting is in my own hand—Paul. This is my mark in every letter; it is the way I write.
 <small><sub>**Literal:**</sub></small>
 The greeting <the> in my own hand — by Paul, which is [my] sign in every letter; In this manner I write.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.16|<< 2 Thessalonians 3:16]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.18|2 Thessalonians 3:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | greeting |**<big>[[G0783\|ἀσπασμὸς]]</big>**  |aspasmos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

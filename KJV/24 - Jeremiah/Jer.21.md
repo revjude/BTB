@@ -1,6 +1,6 @@
 (KJV) **Jeremiah 21**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20|<< Jeremiah 20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22|Jeremiah 22 >>]]</td></tr></table>
 
-***Jerusalem Will Fall to Babylon*** ^bsb1741
+<big><big>[[Jer.21.1 Jerusalem Will Fall to Babylon|⥃]]</big></big>***Jerusalem Will Fall to Babylon***
 
  $\quad$ <span class="startversemarker">[</span>**[[Jer.21.1|1]]**<span class="endversemarker">]</span> The word<small><small>[^2]</small></small> which came unto Jeremiah from the <span class="smallcaps">Lord</span>, when<small><small>[^3]</small></small> king Zedekiah sent unto him Pashur<small><small>[^4]</small></small> the son of Melchiah, and Zephaniah<small><small>[^5]</small></small> the son of Maaseiah the priest, saying,<small><small>[^6]</small></small> <span class="startversemarker">[</span>**[[Jer.21.2|2]]**<span class="endversemarker">]</span> Enquire<small><small>[^7]</small></small>, I pray thee, of the <span class="smallcaps">Lord</span> for<small><small>[^8]</small></small> us; for Nebuchadrezzar king of Babylon maketh war against us; if so be that the <span class="smallcaps">Lord</span> will deal with us according<small><small>[^9]</small></small> to all his wondrous works, that he may go up from us. 
 
@@ -8,7 +8,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Jer.21.3|3]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[Jer.21.8|8]]**<span class="endversemarker">]</span> And unto this people thou shalt say, Thus saith the <span class="smallcaps">Lord</span>; Behold, I set<small><small>[^18]</small></small> before you the way of life, and the way of death. <span class="startversemarker">[</span>**[[Jer.21.9|9]]**<span class="endversemarker">]</span> He that abideth<small><small>[^19]</small></small> in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his<small><small>[^20]</small></small> life shall be unto him for a prey. <span class="startversemarker">[</span>**[[Jer.21.10|10]]**<span class="endversemarker">]</span> For I have<small><small>[^21]</small></small> set my face against this city for evil, and not for good, saith the <span class="smallcaps">Lord</span>: it shall<small><small>[^22]</small></small> be given into the hand of the king of Babylon, and he shall burn it with fire.
 
-***A Message to the House of David*** ^bsb1742
+<big><big>[[Jer.21.11 A Message to the House of David|⥃]]</big></big>***A Message to the House of David***
 
  
 

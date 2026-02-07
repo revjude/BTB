@@ -1,12 +1,12 @@
-**John 1:38
-**<small><sub>**KJV:**</sub></small>
+**John 1:38**<big><big>[[John.1.35 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?
 <small><sub>**BSB:**</sub></small>
 Jesus turned and saw them following. “What do you want?” He asked. They said to Him, “Rabbi” (which means Teacher), “where are You staying?”
 <small><sub>**Literal:**</sub></small>
 Having turned then <the> Jesus and having beheld them following He says to them; What seek you? <the> And they said to Him; Rabbi which is to say meaning Teacher — where are You staying?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.37|<< John 1:37]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.39|John 1:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having turned |**<big>[[G4762\|Στραφεὶς]]</big>**  |Strapheis <small><sup>[[V-2APP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

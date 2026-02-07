@@ -1,4 +1,4 @@
-**Genesis 34:5** 
+**Genesis 34:5**<big><big>[[Gen.34.1 The Defiling of Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob heard that he had defiled Dinah his daughter: now his sons were with his cattle in the field: and Jacob held his peace until they were come.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jacob heard that Shechem had defiled his daughter Dinah, but since his sons were
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.4|<< Genesis 34:4]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.6|Genesis 34:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jacob  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3290\|יַעֲקֹ֣ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he heard  |**<big>&#8207;[[H8085G\|שָׁמַ֗ע]]&#8207; </big>**| sha.Ma'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

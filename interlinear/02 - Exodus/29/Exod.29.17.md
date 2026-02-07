@@ -1,4 +1,4 @@
-**Exodus 29:17** 
+**Exodus 29:17**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt cut the ram in pieces, and wash the inwards of him, and his legs, and put [them] unto his pieces, and unto his head.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cut the ram into pieces, wash the entrails and legs, and place them with its hea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.16|<< Exodus 29:16]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.18|Exodus 29:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶ֨ת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the ram  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0352A\|אַ֔יִל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

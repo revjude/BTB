@@ -1,10 +1,7 @@
 **LXX Isaiah 47:14** 
 <small><sub>**LXX:**</sub></small>
 Behold, all \[are\] as sticks upon a fire, they shall be incinerated, and in no way shall they rescue  their soul from out of \[the\] flame. For you shall have coals of fire to sit by them; 
-<small><sub>**KJV:**</sub></small>
-Behold, they shall be as stubble; the fire shall burn them; they shall not deliver themselves from the power of the flame: [there shall] not [be] a coal to warm at, [nor] fire to sit before it.
-<small><sub>**BSB:**</sub></small>
-Surely they are like stubble; the fire will burn them up. They cannot deliver themselves from the power of the flame. There will be no coals to warm them or fire to sit beside.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.47.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.13|<< Isaiah 47:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.15|Isaiah 47:15 >>]]</td></tr></table>
 
 | Translation | Greek |

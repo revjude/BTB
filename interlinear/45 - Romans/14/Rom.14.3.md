@@ -1,12 +1,12 @@
-**Romans 14:3
-**<small><sub>**KJV:**</sub></small>
+**Romans 14:3**<big><big>[[Rom.14.1 The Law of Liberty|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let not him that eateth despise him that eateth not; and let not him which eateth not judge him that eateth: for God hath received him.
 <small><sub>**BSB:**</sub></small>
 The one who eats everything must not belittle the one who does not, and the one who does not eat everything must not judge the one who does, for God has accepted him.
 <small><sub>**Literal:**</sub></small>
 The [one] eating the [one] not eating not he should despise, and the [one] now not eating him eating not he should judge; <the> God for him has received.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.2|<< Romans 14:2]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.4|Romans 14:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | eating |**<big>[[G2068\|ἐσθίων]]</big>**  |esthiōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

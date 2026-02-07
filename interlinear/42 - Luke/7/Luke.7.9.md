@@ -1,12 +1,12 @@
-**Luke 7:9
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:9**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel.
 <small><sub>**BSB:**</sub></small>
 When Jesus heard this, He marveled at the centurion. Turning to the crowd following Him, He said, “I tell you, not even in Israel have I found such great faith.”
 <small><sub>**Literal:**</sub></small>
 Having heard then these things <the> Jesus marveled at him; and having turned to the following Him crowd He said; I say to you, not even in <the> Israel such great faith did I find.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.8|<< Luke 7:8]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.10|Luke 7:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|ἀκούσας]]</big>**  |akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

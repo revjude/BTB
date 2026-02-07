@@ -1,10 +1,7 @@
 **LXX Psalm 124:7** 
 <small><sub>**LXX:**</sub></small>
  Our soul as a sparrow was rescued from out of the snare of the ones hunting. The snare was broken, and we were rescued. 
-<small><sub>**KJV:**</sub></small>
-Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.
-<small><sub>**BSB:**</sub></small>
-We have escaped like a bird from the snare of the fowler; the net is torn, and we have slipped away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.124.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.124.6|<< Psalm 124:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.124.8|Psalm 124:8 >>]]</td></tr></table>
 
 | Translation | Greek |

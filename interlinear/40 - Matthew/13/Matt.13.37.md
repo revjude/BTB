@@ -1,12 +1,12 @@
-**Matthew 13:37
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:37**<big><big>[[Matt.13.36 The Parable of the Weeds Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He answered and said unto them, He that soweth the good seed is the Son of man;
 <small><sub>**BSB:**</sub></small>
 He replied, “The One who sows the good seed is the Son of Man.
 <small><sub>**Literal:**</sub></small>
 <the> And answering He said to them: The [One] sowing the good seed is the Son <the> of Man;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.36|<< Matthew 13:36]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.38|Matthew 13:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 63:9** 
+**Isaiah 63:9**<big><big>[[Isa.63.7 God’s Mercies Recalled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In all their affliction he was afflicted, and the angel of his presence saved them: in his love and in his pity he redeemed them; and he bare them, and carried them all the days of old.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In all their distress, He too was afflicted, and the Angel of His Presence saved
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.8|<< Isaiah 63:8]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.10|Isaiah 63:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in all  |**<big>&#8207;[[H9003\|בְּֽ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | distress their  |**<big>&#8207;[[H6869B\|צָרָתָ֣]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| tza.ra.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

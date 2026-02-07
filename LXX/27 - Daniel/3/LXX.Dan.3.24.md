@@ -1,10 +1,7 @@
 **LXX Daniel 3:24** 
 <small><sub>**LXX:**</sub></small>
 And Nebuchadnezzar heard their praising. And he wondered, and rose up in haste, and said \[to\] his great men, \[Was it\] not three men we threw into the midst of the fire being shackled? And they said to the king, Truly, O king. 
-<small><sub>**KJV:**</sub></small>
-Then Nebuchadnezzar the king was astonied, and rose up in haste, [and] spake, and said unto his counsellers, Did not we cast three men bound into the midst of the fire? They answered and said unto the king, True, O king.
-<small><sub>**BSB:**</sub></small>
-Suddenly King Nebuchadnezzar jumped up in amazement and asked his advisers, “Did we not throw three men, firmly bound, into the fire?” “Certainly, O king,” they replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.23|<< Daniel 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.25|Daniel 3:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:4** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] heart of \[the\] sea  \[are\] your borders, your sons invested to you beauty. 
-<small><sub>**KJV:**</sub></small>
-Thy borders [are] in the midst of the seas, thy builders have perfected thy beauty.
-<small><sub>**BSB:**</sub></small>
-Your borders are in the heart of the seas; your builders perfected your beauty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.3|<< Ezekiel 27:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.5|Ezekiel 27:5 >>]]</td></tr></table>
 
 | Translation | Greek |

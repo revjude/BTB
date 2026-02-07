@@ -1,4 +1,4 @@
-**Isaiah 34:10** 
+**Isaiah 34:10**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall not be quenched night nor day; the smoke thereof shall go up for ever: from generation to generation it shall lie waste; none shall pass through it for ever and ever.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ It will not be quenched—day or night. Its smoke will ascend forever. From gene
 > $\quad$ referenced by: [[Rev.14.11|Rev 14:11]] ☩ [[Rev.18.18|Rev 18:18]] ☩ [[Rev.19.3|Rev 19:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | night  |**<big>&#8207;[[H3915\|לַ֤יְלָה]]&#8207; </big>**| Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and by day  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3119\|יוֹמָם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

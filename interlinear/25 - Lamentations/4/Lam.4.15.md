@@ -1,4 +1,4 @@
-**Lamentations 4:15** 
+**Lamentations 4:15**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They cried unto them, Depart ye; [it is] unclean; depart, depart, touch not: when they fled away and wandered, they said among the heathen, They shall no more sojourn [there].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They cried unto them, Depart ye; [it is] unclean; depart, depart, touch not: whe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.14|<< Lamentations 4:14]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.16|Lamentations 4:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | depart  |**<big>&#8207;[[H5493G\|ס֣וּרוּ]]&#8207; </big>**| Su.ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | unclean  |**<big>&#8207;[[H2931\|טָמֵ֞א]]&#8207; </big>**| ta.Me'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

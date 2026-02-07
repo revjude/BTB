@@ -1,4 +1,4 @@
-**Judges 5:10** 
+**Judges 5:10**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak, ye that ride on white asses, ye that sit in judgment, and walk by the way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You who ride white donkeys, who sit on saddle blankets, and you who travel the r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.9|<< Judges 5:9]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.11|Judges 5:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O riders of  |**<big>&#8207;[[H7392\|רֹכְבֵי֩]]&#8207; </big>**| ro.khe.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | female donkeys  |**<big>&#8207;[[H0860\|אֲתֹנ֨וֹת]]&#8207; </big>**| 'a.to.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

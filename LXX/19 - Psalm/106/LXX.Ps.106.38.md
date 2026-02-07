@@ -1,10 +1,7 @@
 **LXX Psalm 106:38** 
 <small><sub>**LXX:**</sub></small>
 and they poured out innocent blood -- \[the\] blood of their sons and daughters whom they sacrificed to the carvings of Canaan. And the land was polluted with murder by \[their\] blood, 
-<small><sub>**KJV:**</sub></small>
-And shed innocent blood, [even] the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood.
-<small><sub>**BSB:**</sub></small>
-They shed innocent blood—the blood of their sons and daughters, whom they sacrificed to the idols of Canaan, and the land was polluted with blood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.37|<< Psalm 106:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.39|Psalm 106:39 >>]]</td></tr></table>
 
 | Translation | Greek |

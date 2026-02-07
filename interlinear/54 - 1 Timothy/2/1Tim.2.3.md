@@ -1,12 +1,12 @@
-**1 Timothy 2:3
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 2:3**<big><big>[[1Tim.2.1 A Call to Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this [is] good and acceptable in the sight of God our Saviour;
 <small><sub>**BSB:**</sub></small>
 This is good and pleasing in the sight of God our Savior,
 <small><sub>**Literal:**</sub></small>
 This for [is] good and acceptable before the Savior of us God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.2|<< 1 Timothy 2:2]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.4|1 Timothy 2:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

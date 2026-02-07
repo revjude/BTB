@@ -1,12 +1,12 @@
-**Acts 18:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 18:26**<big><big>[[Acts.18.23 Paul’s Third Missionary Journey Begins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him unto [them], and expounded unto him the way of God more perfectly.
 <small><sub>**BSB:**</sub></small>
 And he began to speak boldly in the synagogue. When Priscilla and Aquila heard him, they took him aside and explained to him the way of God more accurately.
 <small><sub>**Literal:**</sub></small>
 He then began to speak boldly in the synagogue. Having heard however him Priscilla and Aquila they took to [them] him and more accurately to him they expounded the way <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.25|<< Acts 18:25]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.27|Acts 18:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He |**<big>[[G3778\|οὗτός]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

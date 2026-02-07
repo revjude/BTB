@@ -1,10 +1,7 @@
 **LXX Ezekiel 14:19** 
 <small><sub>**LXX:**</sub></small>
 Or also if I should send a plague as a successor upon  that land, and I shall pour out  my rage upon it in blood,  to utterly destroy from out of it man and beast, 
-<small><sub>**KJV:**</sub></small>
-Or [if] I send a pestilence into that land, and pour out my fury upon it in blood, to cut off from it man and beast:
-<small><sub>**BSB:**</sub></small>
-Or if I send a plague into that land and pour out My wrath upon it through bloodshed, cutting off from it both man and beast,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.18|<< Ezekiel 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.20|Ezekiel 14:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Revelation 2:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:1**<big><big>[[Rev.2.1 To the Church in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;
 <small><sub>**BSB:**</sub></small>
 “To the angel of the church in Ephesus write: These are the words of Him who holds the seven stars in His right hand and walks among the seven golden lampstands.
@@ -10,7 +10,7 @@ To the angel of the in Ephesus church do write: These things says the [One] hold
 > $\quad$ possibly alluding to: [[LXX.Deut.23.14|Deut 23:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To the |**<big>[[G3588\|Τῷ]]</big>**  |Tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | angel |**<big>[[G0032H\|ἀγγέλῳ]]</big>**  |angelō <small><sup>[[N-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

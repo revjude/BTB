@@ -1,4 +1,4 @@
-**Joshua 9:13** 
+**Joshua 9:13**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these bottles of wine, which we filled, [were] new; and, behold, they be rent: and these our garments and our shoes are become old by reason of the very long journey.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These wineskins were new when we filled them, but look, they are cracked. And th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.12|<< Joshua 9:12]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.14|Joshua 9:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֨לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] skin-bottles of  |**<big>&#8207;[[H4997\|נֹאד֤וֹת]]&#8207; </big>**| no.Dot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

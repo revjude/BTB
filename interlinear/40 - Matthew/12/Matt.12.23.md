@@ -1,12 +1,12 @@
-**Matthew 12:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:23**<big><big>[[Matt.12.22 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all the people were amazed, and said, Is not this the son of David?
 <small><sub>**BSB:**</sub></small>
 The crowds were astounded and asked, “Could this be the Son of David?”
 <small><sub>**Literal:**</sub></small>
 And were amazed all the crowds and were saying; surely not ever this is the Son of David?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.22|<< Matthew 12:22]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.24|Matthew 12:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were amazed |**<big>[[G1839\|ἐξίσταντο]]</big>**  |existanto <small><sup>[[V-IMI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 106:5** 
+**Psalms 106:5**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I may see the good of thy chosen, that I may rejoice in the gladness of thy nation, that I may glory with thine inheritance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ that I may see the prosperity of Your chosen ones, and rejoice in the gladness o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.4|<< Psalms 106:4]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.6|Psalms 106:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to look  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7200K\|רְא֤וֹת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> r.'ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on [the] good thing[s] of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2896C\|ט֘וֹבַ֤ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> To.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

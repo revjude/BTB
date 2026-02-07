@@ -1,10 +1,7 @@
 **LXX Esther 3:13** 
 <small><sub>**LXX:**</sub></small>
 And it was sent by couriers unto the kingdom of Artaxerxes, to remove the race of the Jews on day one of \[the\] twelfth month, which is Adar, and to plunder  their possessions. 
-<small><sub>**KJV:**</sub></small>
-And the letters were sent by posts into all the king’s provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day, [even] upon the thirteenth [day] of the twelfth month, which [is] the month Adar, and [to take] the spoil of them for a prey.
-<small><sub>**BSB:**</sub></small>
-And the letters were sent by couriers to each of the royal provinces with the order to destroy, kill, and annihilate all the Jews—young and old, women and children—and to plunder their possessions on a single day, the thirteenth day of Adar, the twelfth month.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.12|<< Esther 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.14|Esther 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

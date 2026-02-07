@@ -1,10 +1,7 @@
 **LXX 2 Samuel 4:6** 
 <small><sub>**LXX:**</sub></small>
 And behold, the doorkeeper of the house was cleansing wheat, and he slumbered and slept. And Rechab and Baanah  his brother escaped notice. 
-<small><sub>**KJV:**</sub></small>
-And they came thither into the midst of the house, [as though] they would have fetched wheat; and they smote him under the fifth [rib]: and Rechab and Baanah his brother escaped.
-<small><sub>**BSB:**</sub></small>
-They entered the interior of the house as if to get some wheat, and they stabbed him in the stomach. Then Rechab and his brother Baanah slipped away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.4.5|<< 2 Samuel 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.4.7|2 Samuel 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

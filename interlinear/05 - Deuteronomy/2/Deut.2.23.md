@@ -1,4 +1,4 @@
-**Deuteronomy 2:23** 
+**Deuteronomy 2:23**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Avims which dwelt in Hazerim, [even] unto Azzah, the Caphtorims, which came forth out of Caphtor, destroyed them, and dwelt in their stead.)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the Avvim, who lived in villages as far as Gaza, were destroyed by the Capht
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.22|<< Deuteronomy 2:22]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.24|Deuteronomy 2:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the Avvites  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H5761G\|עַוִּ֛ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.Vim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who were dwelling  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3427\|יֹּשְׁבִ֥ים]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yo.she.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 14:1** 
+**Deuteronomy 14:1**<big><big>[[Deut.14.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye [are] the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are sons of the LORD your God; do not cut yourselves or shave your foreheads
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.18|<< Deuteronomy 13:18]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.2|Deuteronomy 14:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] children  |**<big>&#8207;[[H1121A\|בָּנִ֣ים]]&#8207; </big>**| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859D\|אַתֶּ֔ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

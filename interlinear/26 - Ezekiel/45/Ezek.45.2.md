@@ -1,4 +1,4 @@
-**Ezekiel 45:2** 
+**Ezekiel 45:2**<big><big>[[Ezek.45.1 Consecration of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of this there shall be for the sanctuary five hundred [in length], with five hundred [in breadth], square round about; and fifty cubits round about for the suburbs thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Within this area there is to be a section for the sanctuary 500 cubits square, w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.1|<< Ezekiel 45:1]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.3|Ezekiel 45:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will be  |**<big>&#8207;[[H1961\|יִהְיֶ֤ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of this  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H2088\|זֶּה֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

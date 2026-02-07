@@ -1,4 +1,4 @@
-**2 Kings 4:41** 
+**2 Kings 4:41**<big><big>[[2Kgs.4.38 Elisha Purifies the Poisonous Stew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he said, Then bring meal. And he cast [it] into the pot; and he said, Pour out for the people, that they may eat. And there was no harm in the pot.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Elisha said, “Get some flour.” He threw it into the pot and said, “Po
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.40|<< 2 Kings 4:40]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.42|2 Kings 4:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and fetch  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3947J\|קְחוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ke.chu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

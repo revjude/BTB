@@ -1,10 +1,7 @@
 **LXX 2 Samuel 12:28** 
 <small><sub>**LXX:**</sub></small>
 And now, gather together the rest of the people, and camp upon the city, and be the first to take it! that I should not be the first to take the city, and my name should be called upon it. 
-<small><sub>**KJV:**</sub></small>
-Now therefore gather the rest of the people together, and encamp against the city, and take it: lest I take the city, and it be called after my name.
-<small><sub>**BSB:**</sub></small>
-Now, therefore, assemble the rest of the troops, lay siege to the city, and capture it. Otherwise I will capture the city, and it will be named after me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.12.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.12.27|<< 2 Samuel 12:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.12.29|2 Samuel 12:29 >>]]</td></tr></table>
 
 | Translation | Greek |

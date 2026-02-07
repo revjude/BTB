@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:43** 
 <small><sub>**LXX:**</sub></small>
 And why have you not guarded the oath of \[the\] <span class="smallcaps">lord</span>, and the commandment which I gave charge to you? 
-<small><sub>**KJV:**</sub></small>
-Why then hast thou not kept the oath of the LORD, and the commandment that I have charged thee with?
-<small><sub>**BSB:**</sub></small>
-So why have you not kept your oath to the LORD and the command that I gave you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.42|<< 1 Kings 2:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.44|1 Kings 2:44 >>]]</td></tr></table>
 
 | Translation | Greek |

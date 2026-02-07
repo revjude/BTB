@@ -1,12 +1,12 @@
-**Galatians 6:18
-**<small><sub>**KJV:**</sub></small>
+**Galatians 6:18**<big><big>[[Gal.6.11 Final Warnings and Blessings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Brethren, the grace of our Lord Jesus Christ [be] with your spirit. Amen.
 <small><sub>**BSB:**</sub></small>
 The grace of our Lord Jesus Christ be with your spirit, brothers. Amen.
 <small><sub>**Literal:**</sub></small>
 The grace of the Lord of us Jesus Christ [be] with the spirit of you, brothers. Amen. to Galatians it was written from Rome.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.17|<< Galatians 6:17]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.1|Ephesians 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | grace |**<big>[[G5485\|χάρις]]</big>**  |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

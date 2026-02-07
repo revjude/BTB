@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:49** 
 <small><sub>**LXX:**</sub></small>
 Then Ahaziah son of Ahab said to Jehoshaphat, my servants go with  your servants. And Jehoshaphat did not want it. 
-<small><sub>**KJV:**</sub></small>
-Then said Ahaziah the son of Ahab unto Jehoshaphat, Let my servants go with thy servants in the ships. But Jehoshaphat would not.
-<small><sub>**BSB:**</sub></small>
-At that time Ahaziah son of Ahab said to Jehoshaphat, “Let my servants sail with your servants,” but Jehoshaphat refused.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.48|<< 1 Kings 22:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.50|1 Kings 22:50 >>]]</td></tr></table>
 
 | Translation | Greek |

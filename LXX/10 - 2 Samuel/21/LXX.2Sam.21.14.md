@@ -1,10 +1,7 @@
 **LXX 2 Samuel 21:14** 
 <small><sub>**LXX:**</sub></small>
 And he entombed the bones of Saul, and of Jonathan  his son, and the bones of the ones being expose to the sun, in the land of Benjamin, in the side \[of the hill\], in the tomb of Kish  his father. And they did all as much as the king gave charge. And God heeded to the land after these \[things\]. 
-<small><sub>**KJV:**</sub></small>
-And the bones of Saul and Jonathan his son buried they in the country of Benjamin in Zelah, in the sepulchre of Kish his father: and they performed all that the king commanded. And after that God was intreated for the land.
-<small><sub>**BSB:**</sub></small>
-And they buried the bones of Saul and his son Jonathan in Zela in the land of Benjamin, in the tomb of Saul’s father Kish. After they had done everything the king had commanded, God answered their prayers for the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.13|<< 2 Samuel 21:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.15|2 Samuel 21:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Romans 7:2
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:2**<big><big>[[Rom.7.1 Release from the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the woman which hath an husband is bound by the law to [her] husband so long as he liveth; but if the husband be dead, she is loosed from the law of [her] husband.
 <small><sub>**BSB:**</sub></small>
 For instance, a married woman is bound by law to her husband as long as he lives. But if her husband dies, she is released from the law of marriage.
 <small><sub>**Literal:**</sub></small>
 The for married woman to the living husband has been bound by law; if however shall die the husband, she has been cleared from the law of the husband.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.1|<< Romans 7:1]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.3|Romans 7:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

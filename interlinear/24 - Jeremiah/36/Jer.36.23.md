@@ -1,4 +1,4 @@
-**Jeremiah 36:23** 
+**Jeremiah 36:23**<big><big>[[Jer.36.20 Jehoiakim Burns the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, [that] when Jehudi had read three or four leaves, he cut it with the penknife, and cast [it] into the fire that [was] on the hearth, until all the roll was consumed in the fire that [was] on the hearth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And as soon as Jehudi had read three or four columns, Jehoiakim would cut them o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.22|<< Jeremiah 36:22]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.24|Jeremiah 36:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when read aloud  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H7121J\|קְר֣וֹא]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> k.Ro'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

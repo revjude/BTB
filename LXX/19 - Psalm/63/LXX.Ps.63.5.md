@@ -1,10 +1,7 @@
 **LXX Psalm 63:5** 
 <small><sub>**LXX:**</sub></small>
 As of fat and fatness my soul be filled; and \[with\] lips of exultation my mouth shall praise. 
-<small><sub>**KJV:**</sub></small>
-My soul shall be satisfied as [with] marrow and fatness; and my mouth shall praise [thee] with joyful lips:
-<small><sub>**BSB:**</sub></small>
-My soul is satisfied as with the richest of foods; with joyful lips my mouth will praise You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.63.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.4|<< Psalm 63:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.6|Psalm 63:6 >>]]</td></tr></table>
 
 | Translation | Greek |

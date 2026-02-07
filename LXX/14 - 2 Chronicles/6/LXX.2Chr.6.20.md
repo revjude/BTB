@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:20** 
 <small><sub>**LXX:**</sub></small>
  for your eyes to be open unto  this house day and night, in  this place which you said to call upon  your name there;  to hear the prayer which your manservant prayed in  this place. 
-<small><sub>**KJV:**</sub></small>
-That thine eyes may be open upon this house day and night, upon the place whereof thou hast said that thou wouldest put thy name there; to hearken unto the prayer which thy servant prayeth toward this place.
-<small><sub>**BSB:**</sub></small>
-May Your eyes be open toward this temple day and night, toward the place where You said You would put Your Name, so that You may hear the prayer that Your servant prays toward this place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.19|<< 2 Chronicles 6:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.21|2 Chronicles 6:21 >>]]</td></tr></table>
 
 | Translation | Greek |

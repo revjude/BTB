@@ -1,10 +1,7 @@
 **LXX Numbers 4:11** 
 <small><sub>**LXX:**</sub></small>
 And upon the golden altar they shall place a garment of blue, and they shall cover it with a covering made of a skin of blue. And they shall insert the bearing poles of it. 
-<small><sub>**KJV:**</sub></small>
-And upon the golden altar they shall spread a cloth of blue, and cover it with a covering of badgers’ skins, and shall put to the staves thereof:
-<small><sub>**BSB:**</sub></small>
-Over the gold altar they are to spread a blue cloth, cover it with fine leather, and insert the poles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.10|<< Numbers 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.12|Numbers 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

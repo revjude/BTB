@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he led against them \[the\] king of \[the\] Chaldeans, and he killed  their young men by \[the\] broadsword in \[the\] house of his sanctuary. And he did not spare the young men. And  their virgins he did not show mercy \[on\], and  their elders he took away --  whole he delivered up into their hands. 
-<small><sub>**KJV:**</sub></small>
-Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave [them] all into his hand.
-<small><sub>**BSB:**</sub></small>
-So He brought up against them the king of the Chaldeans, who put their young men to the sword in the sanctuary, sparing neither young men nor young women, neither elderly nor infirm. God gave them all into the hand of Nebuchadnezzar,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.36.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.16|<< 2 Chronicles 36:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.18|2 Chronicles 36:18 >>]]</td></tr></table>
 
 | Translation | Greek |

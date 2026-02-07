@@ -1,12 +1,12 @@
-**Acts 22:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:5**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brethren, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished.
 <small><sub>**BSB:**</sub></small>
 as the high priest and the whole Council can testify about me. I even obtained letters from them to their brothers in Damascus, and I was on my way to apprehend these people and bring them to Jerusalem to be punished.
 <small><sub>**Literal:**</sub></small>
 as also the high priest bears witness to me and all the elderhood, from whom also letters having received to the brothers to Damascus I was on my way going to bring also those there being bound to Jerusalem in order that they may be punished.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.4|<< Acts 22:4]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.6|Acts 22:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

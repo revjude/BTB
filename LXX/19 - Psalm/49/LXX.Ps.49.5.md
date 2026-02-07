@@ -1,10 +1,7 @@
 **LXX Psalm 49:5** 
 <small><sub>**LXX:**</sub></small>
 Why do I fear in \[the\] wicked day? The lawlessness  at my heel shall encircle me -- 
-<small><sub>**KJV:**</sub></small>
-Wherefore should I fear in the days of evil, [when] the iniquity of my heels shall compass me about?
-<small><sub>**BSB:**</sub></small>
-Why should I fear in times of trouble, when wicked usurpers surround me?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.49.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.49.4|<< Psalm 49:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.6|Psalm 49:6 >>]]</td></tr></table>
 
 | Translation | Greek |

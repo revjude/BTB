@@ -1,10 +1,7 @@
 **LXX Joshua 3:17** 
 <small><sub>**LXX:**</sub></small>
 And the priests stood, the ones lifting the ark of the covenant of \[the\] <span class="smallcaps">lord</span>, upon dry \[land\] in \[the\] midst of the Jordan ready. And all the sons of Israel passed over through dry \[land\], until of which \[time\] all the people completed passing over the Jordan. 
-<small><sub>**KJV:**</sub></small>
-And the priests that bare the ark of the covenant of the LORD stood firm on dry ground in the midst of Jordan, and all the Israelites passed over on dry ground, until all the people were passed clean over Jordan.
-<small><sub>**BSB:**</sub></small>
-The priests carrying the ark of the covenant of the LORD stood firm on dry ground in the middle of the Jordan, while all Israel crossed over the dry ground, until the entire nation had crossed the Jordan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.16|<< Joshua 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.1|Joshua 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 14:2** 
 <small><sub>**LXX:**</sub></small>
 According to lots they inherited, in which manner \[the\] <span class="smallcaps">lord</span> gave charge by \[the\] hand of Moses, to the nine tribes, and to the half tribe. 
-<small><sub>**KJV:**</sub></small>
-By lot [was] their inheritance, as the LORD commanded by the hand of Moses, for the nine tribes, and [for] the half tribe.
-<small><sub>**BSB:**</sub></small>
-Their inheritance was assigned by lot for the nine and a half tribes, as the LORD had commanded through Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.1|<< Joshua 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.3|Joshua 14:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joshua 14:2** is...

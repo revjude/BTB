@@ -1,4 +1,4 @@
-**Genesis 46:32** 
+**Genesis 46:32**<big><big>[[Gen.46.28 Jacob Arrives in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men [are] shepherds, for their trade hath been to feed cattle; and they have brought their flocks, and their herds, and all that they have.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The men are shepherds; they raise livestock, and they have brought their flocks 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.31|<< Genesis 46:31]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.33|Genesis 46:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the men  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0582\|אֲנָשִׁים֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] shepherds of  |**<big>&#8207;[[H7462B\|רֹ֣עֵי]]&#8207; </big>**| Ro.'ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

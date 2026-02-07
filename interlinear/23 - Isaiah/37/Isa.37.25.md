@@ -1,4 +1,4 @@
-**Isaiah 37:25** 
+**Isaiah 37:25**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have digged, and drunk water; and with the sole of my feet have I dried up all the rivers of the besieged places.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have dug wells and drunk foreign waters. With the soles of my feet I have drie
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.24|<< Isaiah 37:24]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.26|Isaiah 37:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have dug  |**<big>&#8207;[[H6979A\|קַ֖רְתִּי]]&#8207; </big>**| Kar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 74:23** 
+**Psalms 74:23**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Forget not the voice of thine enemies: the tumult of those that rise up against thee increaseth continually.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not disregard the clamor of Your adversaries, the uproar of Your enemies that
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.22|<< Psalms 74:22]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.75.0|Psalms 75:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you forget  |**<big>&#8207;[[H7911\|תִּ֭שְׁכַּח]]&#8207; </big>**| Tish.kach<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Joshua 14:13** 
 <small><sub>**LXX:**</sub></small>
 And Joshua blessed him, and he gave  Hebron \[to\] Caleb son of Jephunneh by lot. 
-<small><sub>**KJV:**</sub></small>
-And Joshua blessed him, and gave unto Caleb the son of Jephunneh Hebron for an inheritance.
-<small><sub>**BSB:**</sub></small>
-Then Joshua blessed Caleb son of Jephunneh and gave him Hebron as his inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.12|<< Joshua 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.14|Joshua 14:14 >>]]</td></tr></table>
 
 | Translation | Greek |

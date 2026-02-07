@@ -1,4 +1,4 @@
-**Proverbs 21:16** 
+**Proverbs 21:16**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The man that wandereth out of the way of understanding shall remain in the congregation of the dead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The man who strays from the path of understanding will rest in the assembly of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.15|<< Proverbs 21:15]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.17|Proverbs 21:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a person  |**<big>&#8207;[[H0120G\|אָדָ֗ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [who] wanders  |**<big>&#8207;[[H8582\|תּ֭וֹעֶה]]&#8207; </big>**| To.'eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

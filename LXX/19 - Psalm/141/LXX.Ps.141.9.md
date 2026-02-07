@@ -1,10 +1,7 @@
 **LXX Psalm 141:9** 
 <small><sub>**LXX:**</sub></small>
 Keep me from a snare which they concocted against me! and from obstacles of the ones working  lawlessness. 
-<small><sub>**KJV:**</sub></small>
-Keep me from the snares [which] they have laid for me, and the gins of the workers of iniquity.
-<small><sub>**BSB:**</sub></small>
-Keep me from the snares they have laid for me, and from the lures of evildoers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.141.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.141.8|<< Psalm 141:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.141.10|Psalm 141:10 >>]]</td></tr></table>
 
 | Translation | Greek |

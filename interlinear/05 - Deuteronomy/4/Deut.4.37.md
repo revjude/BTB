@@ -1,4 +1,4 @@
-**Deuteronomy 4:37** 
+**Deuteronomy 4:37**<big><big>[[Deut.4.32 The LORD Alone Is God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And because he loved thy fathers, therefore he chose their seed after them, and brought thee out in his sight with his mighty power out of Egypt;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because He loved your fathers, He chose their descendants after them and brought
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.36|<< Deuteronomy 4:36]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.38|Deuteronomy 4:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and because  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8478J\|תַ֗חַת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

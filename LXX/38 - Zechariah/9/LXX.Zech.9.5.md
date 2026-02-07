@@ -1,10 +1,7 @@
 **LXX Zechariah 9:5** 
 <small><sub>**LXX:**</sub></small>
 Ashkelon shall see, and shall fear; and Gaza, even she shall grieve exceedingly; and Ekron, for she shall be ashamed over  her transgression; and \[the\] king shall perish from Gaza; and Ashkelon in no way should be inhabited. 
-<small><sub>**KJV:**</sub></small>
-Ashkelon shall see [it], and fear; Gaza also [shall see it], and be very sorrowful, and Ekron; for her expectation shall be ashamed; and the king shall perish from Gaza, and Ashkelon shall not be inhabited.
-<small><sub>**BSB:**</sub></small>
-Ashkelon will see and fear; Gaza will writhe in agony, as will Ekron, for her hope will wither. There will cease to be a king in Gaza, and Ashkelon will be uninhabited.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.4|<< Zechariah 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.6|Zechariah 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

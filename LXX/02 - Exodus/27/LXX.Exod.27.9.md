@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall make a courtyard for the tent in the side, the one towards \[the\] south, \[and\] shrouds for the courtyard from out of linen being twined, \[the\] length a hundred cubits to the one side. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make the court of the tabernacle: for the south side southward [there shall be] hangings for the court [of] fine twined linen of an hundred cubits long for one side:
-<small><sub>**BSB:**</sub></small>
-You are also to make a courtyard for the tabernacle. On the south side of the courtyard make curtains of finely spun linen, a hundred cubits long on one side,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.27.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.27.8|<< Exodus 27:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.10|Exodus 27:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 25:8** 
 <small><sub>**LXX:**</sub></small>
 he entered after the Israelitish man into the furnace, and he pierced both the  Israelitish man, and the woman through  her womb; and the calamity ceased from the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And he went after the man of Israel into the tent, and thrust both of them through, the man of Israel, and the woman through her belly. So the plague was stayed from the children of Israel.
-<small><sub>**BSB:**</sub></small>
-followed the Israelite into the tent, and drove the spear through both of them—through the Israelite and on through the belly of the woman. So the plague against the Israelites was halted,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.7|<< Numbers 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.9|Numbers 25:9 >>]]</td></tr></table>
 
 | Translation | Greek |

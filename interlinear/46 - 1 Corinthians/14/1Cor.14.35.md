@@ -1,12 +1,12 @@
-**1 Corinthians 14:35
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:35**<big><big>[[1Cor.14.26 Orderly Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church.
 <small><sub>**BSB:**</sub></small>
 If they wish to inquire about something, they are to ask their own husbands at home; for it is dishonorable for a woman to speak in the church.
 <small><sub>**Literal:**</sub></small>
 If however anything to learn they desire, at home <the> [their] own husbands they should ask; shameful for it is for a woman to speak in [the] church.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.34|<< 1 Corinthians 14:34]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.36|1 Corinthians 14:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Job 34:11** 
 <small><sub>**LXX:**</sub></small>
 But he gives back to man as each of them does, and by a path man will find him. 
-<small><sub>**KJV:**</sub></small>
-For the work of a man shall he render unto him, and cause every man to find according to [his] ways.
-<small><sub>**BSB:**</sub></small>
-For according to a man’s deeds He repays him; according to a man’s ways He brings consequences.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.10|<< Job 34:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.12|Job 34:12 >>]]</td></tr></table>
 
 | Translation | Greek |

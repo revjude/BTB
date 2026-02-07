@@ -1,10 +1,7 @@
 **LXX Isaiah 38:12** 
 <small><sub>**LXX:**</sub></small>
 I failed my kin; I forsook the rest  of my life; it departed and went forth from me as the one resting up pitching a tent.  My spirit in me became as \[the\] web of one working in wool approaching to cut it off. 
-<small><sub>**KJV:**</sub></small>
-Mine age is departed, and is removed from me as a shepherd’s tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day [even] to night wilt thou make an end of me.
-<small><sub>**BSB:**</sub></small>
-My dwelling has been picked up and removed from me like a shepherd’s tent. I have rolled up my life like a weaver; He cuts me off from the loom; from day until night You make an end of me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.38.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.11|<< Isaiah 38:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.13|Isaiah 38:13 >>]]</td></tr></table>
 
 | Translation | Greek |

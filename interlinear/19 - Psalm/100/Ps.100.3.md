@@ -1,4 +1,4 @@
-**Psalms 100:3** 
+**Psalms 100:3**<big><big>[[Ps.100.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Know ye that the LORD he [is] God: [it is] he [that] hath made us, and not we ourselves; [we are] his people, and the sheep of his pasture.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Know that the LORD is God. It is He who made us, and we are His; we are His peop
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.100.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.100.2|<< Psalms 100:2]]</td><td align="center" style="border:none;">[[Ps.100|Psalms 100]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.100.4|Psalms 100:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | know  |**<big>&#8207;[[H3045\|דְּע֗וּ]]&#8207; </big>**| de.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Joshua 20:9** 
+**Joshua 20:9**<big><big>[[Josh.20.1 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These were the cities appointed for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth [any] person at unawares might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the cities appointed for all the Israelites and foreigners among them,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.20.8|<< Joshua 20:8]]</td><td align="center" style="border:none;">[[Josh.20|Joshua 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.1|Joshua 21:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were  |**<big>&#8207;[[H1961\|הָיוּ֩]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

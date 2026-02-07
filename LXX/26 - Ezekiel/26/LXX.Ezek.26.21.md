@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:21** 
 <small><sub>**LXX:**</sub></small>
 I will appoint you for destruction, and you shall not exist any longer. And you shall seek and not find into the eon, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-I will make thee a terror, and thou [shalt be] no [more]: though thou be sought for, yet shalt thou never be found again, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-I will make you an object of horror, and you will be no more. You will be sought, but will never be found,’ declares the Lord GOD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.20|<< Ezekiel 26:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.1|Ezekiel 27:1 >>]]</td></tr></table>
 
 | Translation | Greek |

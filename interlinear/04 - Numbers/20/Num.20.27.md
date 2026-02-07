@@ -1,4 +1,4 @@
-**Numbers 20:27** 
+**Numbers 20:27**<big><big>[[Num.20.22 The Death of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses did as the LORD commanded: and they went up into mount Hor in the sight of all the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Moses did as the LORD had commanded, and they climbed Mount Hor in the sight 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.26|<< Numbers 20:26]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.28|Numbers 20:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּ֣עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֔ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

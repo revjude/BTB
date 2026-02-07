@@ -1,4 +1,4 @@
-**Proverbs 10:3** 
+**Proverbs 10:3**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD will not suffer the soul of the righteous to famish: but he casteth away the substance of the wicked.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD does not let the righteous go hungry, but He denies the craving of the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.2|<< Proverbs 10:2]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.4|Proverbs 10:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he allows to hunger  |**<big>&#8207;[[H7456\|יַרְעִ֣יב]]&#8207; </big>**| yar.'Iv<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

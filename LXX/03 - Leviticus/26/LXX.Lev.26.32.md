@@ -1,10 +1,7 @@
 **LXX Leviticus 26:32** 
 <small><sub>**LXX:**</sub></small>
 And I will make quite desolate, \[even\] I,  your land. And your enemies dwelling in it shall wonder over it. 
-<small><sub>**KJV:**</sub></small>
-And I will bring the land into desolation: and your enemies which dwell therein shall be astonished at it.
-<small><sub>**BSB:**</sub></small>
-And I will lay waste the land, so that your enemies who dwell in it will be appalled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.31|<< Leviticus 26:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.33|Leviticus 26:33 >>]]</td></tr></table>
 
 | Translation | Greek |

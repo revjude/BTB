@@ -1,10 +1,7 @@
 **LXX Exodus 39:32** 
 <small><sub>**LXX:**</sub></small>
 And all work of the tent of the testimony was completed. And the sons of Israel made according to all whatsoever \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-Thus was all the work of the tabernacle of the tent of the congregation finished: and the children of Israel did according to all that the LORD commanded Moses, so did they.
-<small><sub>**BSB:**</sub></small>
-So all the work for the tabernacle, the Tent of Meeting, was completed. The Israelites did everything just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.31|<< Exodus 39:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.33|Exodus 39:33 >>]]</td></tr></table>
 
 | Translation | Greek |

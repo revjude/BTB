@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they come unto the threshing-floor of Nachon, and Uzzah stretched out  his hand to the ark  of God to hold it. And he held it, for the calf distracted it. 
-<small><sub>**KJV:**</sub></small>
-And when they came to Nachon’s threshingfloor, Uzzah put forth [his hand] to the ark of God, and took hold of it; for the oxen shook [it].
-<small><sub>**BSB:**</sub></small>
-When they came to the threshing floor of Nacon, Uzzah reached out and took hold of the ark of God, because the oxen had stumbled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.5|<< 2 Samuel 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.7|2 Samuel 6:7 >>]]</td></tr></table>
 
 | Translation | Greek |

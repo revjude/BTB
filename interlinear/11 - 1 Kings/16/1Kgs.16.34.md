@@ -1,4 +1,4 @@
-**1 Kings 16:34** 
+**1 Kings 16:34**<big><big>[[1Kgs.16.29 Ahab Reigns in Israel, Marries Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In his days did Hiel the Bethelite build Jericho: he laid the foundation thereof in Abiram his firstborn, and set up the gates thereof in his youngest [son] Segub, according to the word of the LORD, which he spake by Joshua the son of Nun.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In Ahab’s days, Hiel the Bethelite rebuilt Jericho. At the cost of Abiram his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.33|<< 1 Kings 16:33]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.1|1 Kings 17:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in days his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3117G\|יָמָ֞י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he rebuilt  |**<big>&#8207;[[H1129\|בָּנָ֥ה]]&#8207; </big>**| ba.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 21:12** (21:17)
+**Ezekiel 21:12**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cry and howl, son of man: for it shall be upon my people, it [shall be] upon all the princes of Israel: terrors by reason of the sword shall be upon my people: smite therefore upon [thy] thigh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cry out and wail, O son of man, for the sword is wielded against My people; it i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.11|<< Ezekiel 21:11]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.13|Ezekiel 21:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | cry out  |**<big>&#8207;[[H2199\|זְעַ֤ק]]&#8207; </big>**| ze.'Ak<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and wail  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3213\|הֵילֵל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hei.Lel<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 9:11** 
 <small><sub>**LXX:**</sub></small>
 And Ziba said to the king, According to all as much as my master the king gives charge \[to\] his servant, so your servant do. And Mephibosheth ate at the table of David as one  of \[the\] sons of the king. 
-<small><sub>**KJV:**</sub></small>
-Then said Ziba unto the king, According to all that my lord the king hath commanded his servant, so shall thy servant do. As for Mephibosheth, [said the king], he shall eat at my table, as one of the king’s sons.
-<small><sub>**BSB:**</sub></small>
-And Ziba said to the king, “Your servant will do all that my lord the king has commanded.” So Mephibosheth ate at David’s table like one of the king’s own sons.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.9.10|<< 2 Samuel 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.9.12|2 Samuel 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Thessalonians 2:9
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 2:9**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For ye remember, brethren, our labour and travail: for labouring night and day, because we would not be chargeable unto any of you, we preached unto you the gospel of God.
 <small><sub>**BSB:**</sub></small>
 Surely you recall, brothers, our labor and toil. We worked night and day so that we would not be a burden to anyone while we proclaimed to you the gospel of God.
 <small><sub>**Literal:**</sub></small>
 You remember for, brothers, the labor of us and <the> hardship: By night for and day working in order <the> not to burden anyone of you we proclaimed to you the gospel <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.8|<< 1 Thessalonians 2:8]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.10|1 Thessalonians 2:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You remember |**<big>[[G3421\|Μνημονεύετε]]</big>**  |Mnēmoneuete <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for, |**<big>[[G1063\|γάρ,]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

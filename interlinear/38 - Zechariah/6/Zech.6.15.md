@@ -1,4 +1,4 @@
-**Zechariah 6:15** 
+**Zechariah 6:15**<big><big>[[Zech.6.9 The Crown and the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they [that are] far off shall come and build in the temple of the LORD, and ye shall know that the LORD of hosts hath sent me unto you. And [this] shall come to pass, if ye will diligently obey the voice of the LORD your God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even those far away will come and build the temple of the LORD, and you will kno
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.14|<< Zechariah 6:14]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.7.1|Zechariah 7:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and distant [ones]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7350\|רְחוֹקִ֣ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> re.cho.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will come  |**<big>&#8207;[[H0935G\|יָבֹ֗אוּ]]&#8207; </big>**| ya.Vo.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

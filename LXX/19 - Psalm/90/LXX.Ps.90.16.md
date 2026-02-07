@@ -1,10 +1,7 @@
 **LXX Psalm 90:16** 
 <small><sub>**LXX:**</sub></small>
 And look upon  your servants, and upon  your works, and guide  their sons! 
-<small><sub>**KJV:**</sub></small>
-Let thy work appear unto thy servants, and thy glory unto their children.
-<small><sub>**BSB:**</sub></small>
-May Your work be shown to Your servants, and Your splendor to their children.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.90.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.90.15|<< Psalm 90:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.90.17|Psalm 90:17 >>]]</td></tr></table>
 
 | Translation | Greek |

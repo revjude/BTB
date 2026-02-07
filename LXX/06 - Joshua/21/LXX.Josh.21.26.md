@@ -1,10 +1,7 @@
 **LXX Joshua 21:26** 
 <small><sub>**LXX:**</sub></small>
 All \[the\] ten cities and the \[parts\] being separated  with them to the peoples of \[the\] sons of Kohath  being left behind. 
-<small><sub>**KJV:**</sub></small>
-All the cities [were] ten with their suburbs for the families of the children of Kohath that remained.
-<small><sub>**BSB:**</sub></small>
-In all, ten cities, together with their pasturelands, were given to the rest of the Kohathite clans.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.25|<< Joshua 21:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.27|Joshua 21:27 >>]]</td></tr></table>
 
 | Translation | Greek |

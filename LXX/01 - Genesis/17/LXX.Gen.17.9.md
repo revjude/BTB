@@ -1,10 +1,7 @@
 **LXX Genesis 17:9** 
 <small><sub>**LXX:**</sub></small>
 And God said to Abraham, You also  shall observe my covenant, and  your seed after you for  their generations. 
-<small><sub>**KJV:**</sub></small>
-And God said unto Abraham, Thou shalt keep my covenant therefore, thou, and thy seed after thee in their generations.
-<small><sub>**BSB:**</sub></small>
-God also said to Abraham, “You must keep My covenant—you and your descendants in the generations after you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.17.8|<< Genesis 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.17.10|Genesis 17:10 >>]]</td></tr></table>
 
 | Translation | Greek |

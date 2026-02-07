@@ -1,12 +1,12 @@
-**Ephesians 5:23
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:23**<big><big>[[Eph.5.21 Wives and Husbands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
 <small><sub>**BSB:**</sub></small>
 For the husband is the head of the wife as Christ is the head of the church, His body, of which He is the Savior.
 <small><sub>**Literal:**</sub></small>
 for the husband is head of the wife as also <the> Christ [is the] head of the church, and He Himself is Savior of the body;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.22|<< Ephesians 5:22]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.24|Ephesians 5:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR">k</abbr> | |

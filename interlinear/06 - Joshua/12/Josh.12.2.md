@@ -1,4 +1,4 @@
-**Joshua 12:2** 
+**Joshua 12:2**<big><big>[[Josh.12.1 The Kings Defeated East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sihon king of the Amorites, who dwelt in Heshbon, [and] ruled from Aroer, which [is] upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, [which is] the border of the children of Ammon;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sihon king of the Amorites, who lived in Heshbon. He ruled from Aroer on the rim
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.1|<< Joshua 12:1]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.3|Joshua 12:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Sihon  |**<big>&#8207;[[H5511\|סִיחוֹן֙]]&#8207; </big>**| si.chOn<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶ֣לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Nehemiah 4:14** (4:8)
+**Nehemiah 4:14**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I looked, and rose up, and said unto the nobles, and to the rulers, and to the rest of the people, Be not ye afraid of them: remember the Lord, [which is] great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After I had made an inspection, I stood up and said to the nobles, the officials
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.13|<< Nehemiah 4:13]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.15|Nehemiah 4:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7200G\|אֵ֣רֶא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'E.re'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I arose  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6965B\|אָק֗וּם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Kum<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

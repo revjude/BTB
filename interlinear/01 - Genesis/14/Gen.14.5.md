@@ -1,4 +1,4 @@
-**Genesis 14:5** 
+**Genesis 14:5**<big><big>[[Gen.14.1 The War of the Kings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the fourteenth year came Chedorlaomer, and the kings that [were] with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the fourteenth year, Chedorlaomer and the kings allied with him went out and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.4|<< Genesis 14:4]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.6|Genesis 14:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in four-  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0702\|אַרְבַּע֩]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'ar.Ba'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | teen  |**<big>&#8207;[[H6240\|עֶשְׂרֵ֨ה]]&#8207; </big>**| 'es.Reh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

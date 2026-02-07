@@ -1,12 +1,12 @@
-**Colossians 3:15
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:15**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And let the peace of God rule in your hearts, to the which also ye are called in one body; and be ye thankful.
 <small><sub>**BSB:**</sub></small>
 Let the peace of Christ rule in your hearts, for to this you were called as members of one body. And be thankful.
 <small><sub>**Literal:**</sub></small>
 And the peace <the> from Christ should rule in the hearts of you, to which also you were called in one body; And thankful do be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.14|<< Colossians 3:14]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.16|Colossians 3:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

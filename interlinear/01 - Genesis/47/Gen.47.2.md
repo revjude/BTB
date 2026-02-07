@@ -1,4 +1,4 @@
-**Genesis 47:2** 
+**Genesis 47:2**<big><big>[[Gen.47.1 Jacob Settles in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took some of his brethren, [even] five men, and presented them unto Pharaoh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he chose five of his brothers and presented them before Pharaoh.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.1|<< Genesis 47:1]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.3|Genesis 47:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] end of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7097A\|קְצֵ֣ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi<small><sup>[[HR]]</sup></small> k.Tzeh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | brothers his  |**<big>&#8207;[[H0251G\|אֶחָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'e.Cha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

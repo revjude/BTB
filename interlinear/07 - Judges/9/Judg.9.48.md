@@ -1,4 +1,4 @@
-**Judges 9:48** 
+**Judges 9:48**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abimelech gat him up to mount Zalmon, he and all the people that [were] with him; and Abimelech took an axe in his hand, and cut down a bough from the trees, and took it, and laid [it] on his shoulder, and said unto the people that [were] with him, What ye have seen me do, make haste, [and] do as I [have done].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ he and all his men went up to Mount Zalmon. Abimelech took his axe in his hand a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.47|<< Judges 9:47]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.49|Judges 9:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֨עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abimelech  |**<big>&#8207;[[H0040H\|אֲבִימֶ֜לֶךְ]]&#8207; </big>**| 'a.vi.Me.lekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

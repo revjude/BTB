@@ -1,12 +1,12 @@
-**1 Thessalonians 2:10
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 2:10**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye [are] witnesses, and God [also], how holily and justly and unblameably we behaved ourselves among you that believe:
 <small><sub>**BSB:**</sub></small>
 You are witnesses, and so is God, of how holy, righteous, and blameless our conduct was among you who believed.
 <small><sub>**Literal:**</sub></small>
 You [are] witnesses and <the> God, how holily and righteously and blamelessly toward you those believing we were,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.9|<< 1 Thessalonians 2:9]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.11|1 Thessalonians 2:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You [are] |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | witnesses |**<big>[[G3144\|μάρτυρες]]</big>**  |martures <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

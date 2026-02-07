@@ -1,10 +1,7 @@
 **LXX Judges 9:28** 
 <small><sub>**LXX:**</sub></small>
 And Gaal son of Ebed said, Who is Abimelech, and who is \[the\] son of Shechem, that we shall serve to him? \[Is he\] not \[the\] son of Jerubbaal, and Zebul his overseer, his manservant with the men of Hamor, father of Shechem? And why \[is it\] that we shall serve to him ourselves? 
-<small><sub>**KJV:**</sub></small>
-And Gaal the son of Ebed said, Who [is] Abimelech, and who [is] Shechem, that we should serve him? [is] not [he] the son of Jerubbaal? and Zebul his officer? serve the men of Hamor the father of Shechem: for why should we serve him?
-<small><sub>**BSB:**</sub></small>
-Then Gaal son of Ebed said, “Who is Abimelech, and who is Shechem, that we should serve him? Is he not the son of Jerubbaal, and is not Zebul his officer? You are to serve the men of Hamor, the father of Shechem. Why should we serve Abimelech?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.27|<< Judges 9:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.29|Judges 9:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 29:17** 
 <small><sub>**LXX:**</sub></small>
 But the eyes of Leah \[were\] weak, but Rachel was good to the sight, and beautiful  in appearance -- exceedingly. 
-<small><sub>**KJV:**</sub></small>
-Leah [was] tender eyed; but Rachel was beautiful and well favoured.
-<small><sub>**BSB:**</sub></small>
-Leah had weak eyes, but Rachel was shapely and beautiful.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.16|<< Genesis 29:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.18|Genesis 29:18 >>]]</td></tr></table>
 
 | Translation | Greek |

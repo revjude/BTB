@@ -1,10 +1,7 @@
 **LXX Haggai 2:19** 
 <small><sub>**LXX:**</sub></small>
 Shall yet it be recognized upon the threshing-floor, \[no\]. And shall yet the grapevine, and the fig-tree, and the pomegranate, and the trees of the olive, the ones not bearing fruit \[be recognized\], \[no\]. From  this day I shall bless. 
-<small><sub>**KJV:**</sub></small>
-Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless [you].
-<small><sub>**BSB:**</sub></small>
-Is there still seed in the barn? The vine, the fig, the pomegranate, and the olive tree have not yet yielded fruit. But from this day on, I will bless you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.18|<< Haggai 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.20|Haggai 2:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 19:3** 
 <small><sub>**LXX:**</sub></small>
 Let each \[one\] fear his father and his mother! And  my Sabbaths you shall keep. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Ye shall fear every man his mother, and his father, and keep my sabbaths: I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-Each of you must respect his mother and father, and you must keep My Sabbaths. I am the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.2|<< Leviticus 19:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.4|Leviticus 19:4 >>]]</td></tr></table>
 
 | Translation | Greek |

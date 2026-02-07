@@ -1,4 +1,4 @@
-**Joshua 24:10** 
+**Joshua 24:10**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I would not hearken unto Balaam; therefore he blessed you still: so I delivered you out of his hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but I would not listen to Balaam. So he blessed you again and again, and I deliv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.9|<< Joshua 24:9]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.11|Joshua 24:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I was willing  |**<big>&#8207;[[H0014\|אָבִ֖יתִי]]&#8207; </big>**| 'a.Vi.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

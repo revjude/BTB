@@ -1,4 +1,4 @@
-**1 Chronicles 12:21** (12:22)
+**1 Chronicles 12:21**<big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they helped David against the band [of the rovers]: for they [were] all mighty men of valour, and were captains in the host.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They helped David against the raiders, for they were all mighty men of valor and
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.20|<< 1 Chronicles 12:20]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.22|1 Chronicles 12:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1992\|הֵ֗מָּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they helped  |**<big>&#8207;[[H5826\|עָזְר֤וּ]]&#8207; </big>**| 'a.ze.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

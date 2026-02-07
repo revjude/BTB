@@ -1,12 +1,12 @@
-**Matthew 10:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:18**<big><big>[[Matt.10.16 Sheep among Wolves|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles.
 <small><sub>**BSB:**</sub></small>
 On My account you will be brought before governors and kings as witnesses to them and to the Gentiles.
 <small><sub>**Literal:**</sub></small>
 and before governors also and kings you will be brought on account of Me for a testimony to them and to the Gentiles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.17|<< Matthew 10:17]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.19|Matthew 10:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | before |**<big>[[G1909\|ἐπὶ]]</big>**  |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

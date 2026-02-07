@@ -1,4 +1,4 @@
-**Isaiah 10:16** 
+**Isaiah 10:16**<big><big>[[Isa.10.5 Judgment on Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shall the Lord, the Lord of hosts, send among his fat ones leanness; and under his glory he shall kindle a burning like the burning of a fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore the Lord GOD of Hosts will send a wasting disease among Assyria’s st
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.15|<< Isaiah 10:15]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.17|Isaiah 10:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ֠]]&#8207;&#8207;[[H3651C\|כֵן]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will send  |**<big>&#8207;[[H7971G\|יְשַׁלַּ֨ח]]&#8207; </big>**| ye.sha.Lach<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

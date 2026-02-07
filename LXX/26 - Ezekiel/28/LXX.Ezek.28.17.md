@@ -1,10 +1,7 @@
 **LXX Ezekiel 28:17** 
 <small><sub>**LXX:**</sub></small>
 Your heart was raised up high over  your beauty; your higher knowledge was corrupted with  your beauty because of the multitude  of your sins. I tossed you upon the earth; I put you before kings to be made an example. 
-<small><sub>**KJV:**</sub></small>
-Thine heart was lifted up because of thy beauty, thou hast corrupted thy wisdom by reason of thy brightness: I will cast thee to the ground, I will lay thee before kings, that they may behold thee.
-<small><sub>**BSB:**</sub></small>
-Your heart grew proud of your beauty; you corrupted your wisdom because of your splendor; so I cast you to the earth; I made you a spectacle before kings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.28.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.16|<< Ezekiel 28:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.18|Ezekiel 28:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Kings 15:12** 
+**2 Kings 15:12**<big><big>[[2Kgs.15.8 Zechariah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [was] the word of the LORD which he spake unto Jehu, saying, Thy sons shall sit on the throne of Israel unto the fourth [generation]. And so it came to pass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the word of the LORD spoken to Jehu was fulfilled: “Four generations of you
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.11|<< 2 Kings 15:11]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.13|2 Kings 15:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] [the] word of  |**<big>&#8207;[[H1697J\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

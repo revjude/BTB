@@ -1,10 +1,7 @@
 **LXX Numbers 8:13** 
 <small><sub>**LXX:**</sub></small>
 And you shall stand the Levites before Aaron, and before  his sons; and you shall give them back \[as\] a gift \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt set the Levites before Aaron, and before his sons, and offer them [for] an offering unto the LORD.
-<small><sub>**BSB:**</sub></small>
-You are to have the Levites stand before Aaron and his sons and then present them before the LORD as a wave offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.12|<< Numbers 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.14|Numbers 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

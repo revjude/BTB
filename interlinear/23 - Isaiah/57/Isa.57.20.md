@@ -1,4 +1,4 @@
-**Isaiah 57:20** 
+**Isaiah 57:20**<big><big>[[Isa.57.14 Healing for the Repentant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the wicked [are] like the troubled sea, when it cannot rest, whose waters cast up mire and dirt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the wicked are like the storm-tossed sea, for it cannot be still, and its wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.19|<< Isaiah 57:19]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.21|Isaiah 57:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the wicked [people]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7563\|רְשָׁעִ֖ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] like the sea  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H3220G\|יָּ֣ם]]&#8207; </big>**| ka<small><sup>[[HRd]]</sup></small> i.Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

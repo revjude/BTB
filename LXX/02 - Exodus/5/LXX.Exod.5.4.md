@@ -1,10 +1,7 @@
 **LXX Exodus 5:4** 
 <small><sub>**LXX:**</sub></small>
 And the king of Egypt said to them, Why \[do you\], Moses and Aaron, turn aside the people from the works? Go forth each of you to  his works! 
-<small><sub>**KJV:**</sub></small>
-And the king of Egypt said unto them, Wherefore do ye, Moses and Aaron, let the people from their works? get you unto your burdens.
-<small><sub>**BSB:**</sub></small>
-But the king of Egypt said to them, “Moses and Aaron, why do you draw the people away from their work? Get back to your labor!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.3|<< Exodus 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.5|Exodus 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 21:33** 
 <small><sub>**LXX:**</sub></small>
 \[The\] gravel of \[the\] rushing stream was sweet to him, and after him every man shall go forth, and in front of him \[there are\] innumerable ones. 
-<small><sub>**KJV:**</sub></small>
-The clods of the valley shall be sweet unto him, and every man shall draw after him, as [there are] innumerable before him.
-<small><sub>**BSB:**</sub></small>
-The clods of the valley are sweet to him; everyone follows behind him, and those before him are without number.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.21.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.32|<< Job 21:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.34|Job 21:34 >>]]</td></tr></table>
 
 | Translation | Greek |

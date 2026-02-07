@@ -1,10 +1,7 @@
 **LXX Genesis 44:4** 
 <small><sub>**LXX:**</sub></small>
 And their going forth from the city, not \[at a\] far distance, and Joseph said to the \[one\] over  his house, In rising up, pursue after the men, and you shall overtake them! And you shall say to them, For what reason did you recompense bad for good? Why did you steal my  silver drinking cup? 
-<small><sub>**KJV:**</sub></small>
-[And] when they were gone out of the city, [and] not [yet] far off, Joseph said unto his steward, Up, follow after the men; and when thou dost overtake them, say unto them, Wherefore have ye rewarded evil for good?
-<small><sub>**BSB:**</sub></small>
-They had not gone far from the city when Joseph told his steward, “Pursue the men at once, and when you overtake them, ask, ‘Why have you repaid good with evil?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.3|<< Genesis 44:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.5|Genesis 44:5 >>]]</td></tr></table>
 
 | Translation | Greek |

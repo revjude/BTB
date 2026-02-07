@@ -1,10 +1,7 @@
 **LXX Isaiah 36:20** 
 <small><sub>**LXX:**</sub></small>
 Which of the gods of all  these nations \[is\] the one who was rescued  of his land from out of my hand, that \[the\] <span class="smallcaps">lord</span> shall rescue Jerusalem from out of my hand? 
-<small><sub>**KJV:**</sub></small>
-Who [are they] among all the gods of these lands, that have delivered their land out of my hand, that the LORD should deliver Jerusalem out of my hand?
-<small><sub>**BSB:**</sub></small>
-Who among all the gods of these lands has delivered his land from my hand? How then can the LORD deliver Jerusalem from my hand?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.36.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.19|<< Isaiah 36:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.21|Isaiah 36:21 >>]]</td></tr></table>
 
 | Translation | Greek |

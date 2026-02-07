@@ -1,12 +1,12 @@
-**Acts 11:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 11:26**<big><big>[[Acts.11.19 The Church at Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch.
 <small><sub>**BSB:**</sub></small>
 and when he found him, he brought him back to Antioch. So for a full year they met together with the church and taught large numbers of people. The disciples were first called Christians at Antioch.
 <small><sub>**Literal:**</sub></small>
 and having found him he brought him to Antioch. It came to pass [that] now they also a year whole gathering together in the church and teaching a crowd large, Were calling then first in Antioch the disciples Christians.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.25|<< Acts 11:25]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.27|Acts 11:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having found |**<big>[[G2147\|εὑρὼν]]</big>**  |heurōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

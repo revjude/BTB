@@ -1,10 +1,7 @@
 **LXX Hosea 12:5** 
 <small><sub>**LXX:**</sub></small>
 But the <span class="smallcaps">lord</span>  God  almighty will be his memorial. 
-<small><sub>**KJV:**</sub></small>
-Even the LORD God of hosts; the LORD [is] his memorial.
-<small><sub>**BSB:**</sub></small>
-the LORD God of Hosts, the LORD is His name of renown.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.4|<< Hosea 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.6|Hosea 12:6 >>]]</td></tr></table>
 
 | Translation | Greek |

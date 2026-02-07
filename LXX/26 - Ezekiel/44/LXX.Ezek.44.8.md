@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:8** 
 <small><sub>**LXX:**</sub></small>
 And you kept not the orders  of my sanctuary. But you ordered  to keep guards in  my holy places for yourselves. 
-<small><sub>**KJV:**</sub></small>
-And ye have not kept the charge of mine holy things: but ye have set keepers of my charge in my sanctuary for yourselves.
-<small><sub>**BSB:**</sub></small>
-And you have not kept charge of My holy things, but have appointed others to keep charge of My sanctuary for you.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.7|<< Ezekiel 44:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.9|Ezekiel 44:9 >>]]</td></tr></table>
 
 | Translation | Greek |

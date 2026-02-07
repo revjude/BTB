@@ -1,10 +1,7 @@
 **LXX Psalm 30:3** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, you led my soul from out of Hades; you delivered me from the ones going down into \[the\] pit. 
-<small><sub>**KJV:**</sub></small>
-O LORD, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.
-<small><sub>**BSB:**</sub></small>
-O LORD, You pulled me up from Sheol; You spared me from descending into the Pit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.30.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.2|<< Psalm 30:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.30.4|Psalm 30:4 >>]]</td></tr></table>
 
 | Translation | Greek |

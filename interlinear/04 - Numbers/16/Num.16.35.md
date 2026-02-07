@@ -1,4 +1,4 @@
-**Numbers 16:35** 
+**Numbers 16:35**<big><big>[[Num.16.28 The Earth Swallows Korah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there came out a fire from the LORD, and consumed the two hundred and fifty men that offered incense.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And fire came forth from the LORD and consumed the 250 men who were offering the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.34|<< Numbers 16:34]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.36|Numbers 16:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and fire  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0784\|אֵ֥שׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it came forth  |**<big>&#8207;[[H3318L\|יָצְאָ֖ה]]&#8207; </big>**| ya.tze.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

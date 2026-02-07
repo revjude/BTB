@@ -1,10 +1,7 @@
 **LXX Judges 16:21** 
 <small><sub>**LXX:**</sub></small>
 And the Philistines took hold of him, and gouged out  his eyes, and carried him unto Gaza. And they bound him with shackles of brass, and he was grinding in \[the\] house of the prison. 
-<small><sub>**KJV:**</sub></small>
-But the Philistines took him, and put out his eyes, and brought him down to Gaza, and bound him with fetters of brass; and he did grind in the prison house.
-<small><sub>**BSB:**</sub></small>
-Then the Philistines seized him, gouged out his eyes, and brought him down to Gaza, where he was bound with bronze shackles and forced to grind grain in the prison.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.20|<< Judges 16:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.22|Judges 16:22 >>]]</td></tr></table>
 
 | Translation | Greek |

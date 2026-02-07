@@ -1,12 +1,12 @@
-**Luke 24:40
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:40**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had thus spoken, he shewed them [his] hands and [his] feet.
 <small><sub>**BSB:**</sub></small>
 And when He had said this, He showed them His hands and feet.
 <small><sub>**Literal:**</sub></small>
 And this having said He showed to them the hands and the feet.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.39|<< Luke 24:39]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.41|Luke 24:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

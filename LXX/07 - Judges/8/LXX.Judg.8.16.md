@@ -1,10 +1,7 @@
 **LXX Judges 8:16** 
 <small><sub>**LXX:**</sub></small>
 And he took the rulers and the elders of the city into the thorn-bushes of the wilderness, and the Barkenim, and he rent with them the men of Succoth. 
-<small><sub>**KJV:**</sub></small>
-And he took the elders of the city, and thorns of the wilderness and briers, and with them he taught the men of Succoth.
-<small><sub>**BSB:**</sub></small>
-Then he took the elders of the city, and using the thorns and briers of the wilderness, he disciplined the men of Succoth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.15|<< Judges 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.17|Judges 8:17 >>]]</td></tr></table>
 
 | Translation | Greek |

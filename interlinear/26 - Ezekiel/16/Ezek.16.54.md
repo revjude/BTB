@@ -1,4 +1,4 @@
-**Ezekiel 16:54** 
+**Ezekiel 16:54**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thou mayest bear thine own shame, and mayest be confounded in all that thou hast done, in that thou art a comfort unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So you will bear your disgrace and be ashamed of all you did to comfort them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.53|<< Ezekiel 16:53]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.55|Ezekiel 16:55 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֙עַן֙]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you may bear  |**<big>&#8207;[[H5375H\|תִּשְׂאִ֣י]]&#8207; </big>**| tis.'I<small><sup>[[HVqj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

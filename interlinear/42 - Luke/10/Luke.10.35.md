@@ -1,12 +1,12 @@
-**Luke 10:35
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:35**<big><big>[[Luke.10.25 The Parable of the Good Samaritan|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And on the morrow when he departed, he took out two pence, and gave [them] to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee.
 <small><sub>**BSB:**</sub></small>
 The next day he took out two denarii and gave them to the innkeeper. ‘Take care of him,’ he said, ‘and on my return I will repay you for any additional expense.’
 <small><sub>**Literal:**</sub></small>
 And on the next day having gone out having taken out he gave [them] two denarii to the innkeeper and said to him: do take care of him, and whatever more maybe you may expend, I myself on the returning of me will repay you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.34|<< Luke 10:34]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.36|Luke 10:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | on |**<big>[[G1909\|ἐπὶ]]</big>**  |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

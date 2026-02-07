@@ -1,12 +1,12 @@
-**2 Corinthians 1:20
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 1:20**<big><big>[[2Cor.1.12 Paul’s Change of Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For all the promises of God in him [are] yea, and in him Amen, unto the glory of God by us.
 <small><sub>**BSB:**</sub></small>
 For all the promises of God are “Yes” in Christ. And so through Him, our “Amen” is spoken to the glory of God.
 <small><sub>**Literal:**</sub></small>
 As many as for promises of God [there are], in Him [is] the Yes; Therefore also thorugh Him the Amen <the> to God [is] for glory through us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.19|<< 2 Corinthians 1:19]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.21|2 Corinthians 1:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As many as |**<big>[[G3745\|ὅσαι]]</big>**  |hosai <small><sup>[[K-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

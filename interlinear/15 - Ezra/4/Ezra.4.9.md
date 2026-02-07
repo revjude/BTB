@@ -1,4 +1,4 @@
-**Ezra 4:9** 
+**Ezra 4:9**<big><big>[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then [wrote] Rehum the chancellor, and Shimshai the scribe, and the rest of their companions; the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites, the Dehavites, [and] the Elamites,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From Rehum the commander, Shimshai the scribe, and the rest of their associates�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.8|<< Ezra 4:8]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.10|Ezra 4:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱדַ֜יִן]]&#8207; </big>**| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rehum  |**<big>&#8207;[[H7348B\|רְח֣וּם]]&#8207; </big>**| re.Chum<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 22:6** 
+**1 Chronicles 22:6**<big><big>[[1Chr.22.6 Solomon Anointed to Build the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he called for Solomon his son, and charged him to build an house for the LORD God of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then David called for his son Solomon and instructed him to build a house for th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.5|<< 1 Chronicles 22:5]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.7|1 Chronicles 22:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121G\|יִּקְרָ֖א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> Solomon  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8010\|שְׁלֹמֹ֣ה]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

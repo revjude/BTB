@@ -1,4 +1,4 @@
-**Deuteronomy 31:13** 
+**Deuteronomy 31:13**<big><big>[[Deut.31.9 The Reading of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [that] their children, which have not known [any thing], may hear, and learn to fear the LORD your God, as long as ye live in the land whither ye go over Jordan to possess it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then their children who do not know the law will listen and learn to fear the LO
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.12|<< Deuteronomy 31:12]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.14|Deuteronomy 31:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and children their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בְנֵי]]&#8207;&#8207;[[H9028\|הֶ֞ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

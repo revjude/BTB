@@ -1,4 +1,4 @@
-**Hosea 7:5** 
+**Hosea 7:5**<big><big>[[Hos.7.1 Ephraim’s Iniquity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the day of our king the princes have made [him] sick with bottles of wine; he stretched out his hand with scorners.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The princes are inflamed with wine on the day of our king; so he joins hands wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.4|<< Hosea 7:4]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.6|Hosea 7:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] day of  |**<big>&#8207;[[H3117G\|י֣וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | king our  |**<big>&#8207;[[H4428G\|מַלְכֵּ֔]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| mal.Ke.<small><sup>[[HNcmsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Philippians 4:12
-**<small><sub>**KJV:**</sub></small>
+**Philippians 4:12**<big><big>[[Phil.4.10 The Generosity of the Philippians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need.
 <small><sub>**BSB:**</sub></small>
 I know how to live humbly, and I know how to abound. In any and every situation I have learned the secret of being filled and being hungry, of having plenty and having need.
 <small><sub>**Literal:**</sub></small>
 I know also [how] to be brought low, I know also [how] to abound; In everything and in all things I have learned the secret also to be full and to hunger also to abound and to be deficient;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.11|<< Philippians 4:11]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.13|Philippians 4:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know |**<big>[[G6063\|οἶδα]]</big>**  |oida <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also [^1] |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |

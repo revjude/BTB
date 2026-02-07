@@ -1,12 +1,12 @@
-**Acts 22:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:2**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,)
 <small><sub>**BSB:**</sub></small>
 When they heard him speak to them in Hebrew, they became even more quiet. Then Paul declared,
 <small><sub>**Literal:**</sub></small>
 Having heard then that in the Hebrew language he was addressing them, even more they became quiet. And he says;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.1|<< Acts 22:1]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.3|Acts 22:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|ἀκούσαντες]]</big>**  |akousantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

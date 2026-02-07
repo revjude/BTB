@@ -1,12 +1,12 @@
-**Romans 7:8
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:8**<big><big>[[Rom.7.7 God’s Law Is Holy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin [was] dead.
 <small><sub>**BSB:**</sub></small>
 But sin, seizing its opportunity through the commandment, produced in me every kind of covetous desire. For apart from the law, sin is dead.
 <small><sub>**Literal:**</sub></small>
 An occasion however having taken <the> sin through the commandment it produced in me myself all covetousness; apart from for [the] Law sin [is] dead;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.7|<< Romans 7:7]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.9|Romans 7:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | An occasion |**<big>[[G0874\|ἀφορμὴν]]</big>**  |aphormēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

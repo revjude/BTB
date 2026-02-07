@@ -1,12 +1,12 @@
-**Revelation 12:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 12:11**<big><big>[[Rev.12.7 The War in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death.
 <small><sub>**BSB:**</sub></small>
 They have conquered him by the blood of the Lamb and by the word of their testimony. And they did not love their lives so as to shy away from death.
 <small><sub>**Literal:**</sub></small>
 And they themselves overcame him through the blood of the Lamb and through the word of the testimony of them and not they have loved the life of them unto death.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.10|<< Revelation 12:10]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.12|Revelation 12:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they themselves |**<big>[[G0846\|αὐτοὶ]]</big>**  |autoi <small><sup>[[P-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

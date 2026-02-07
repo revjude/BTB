@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Moses in the wilderness  of Sinai, in the tent of the testimony, on \[day\] one of the second month of \[the\] second year of their coming forth from out of \[the\] land of Egypt, saying, 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first [day] of the second month, in the second year after they were come out of the land of Egypt, saying,
-<small><sub>**BSB:**</sub></small>
-On the first day of the second month of the second year after the Israelites had come out of the land of Egypt, the LORD spoke to Moses in the Tent of Meeting in the Wilderness of Sinai. He said:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.34|<< Leviticus 27:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.2|Numbers 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

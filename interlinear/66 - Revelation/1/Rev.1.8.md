@@ -1,5 +1,5 @@
-**Revelation 1:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:8**<big><big>[[Rev.1.4 John Greets the Seven Churches|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.
 <small><sub>**BSB:**</sub></small>
 “I am the Alpha and the Omega,” says the Lord God, who is and was and is to come—the Almighty.
@@ -10,7 +10,7 @@ I myself am the Alpha and the Omega beginning and end says the Lord <the> God, w
 > $\quad$ possibly alluding to: [[LXX.Isa.41.4|Isa 41:4]] ☩ [[LXX.Isa.44.6|Isa 44:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|Ἐγώ]]</big>**  |Egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | am |**<big>[[G1510\|εἰμι]]</big>**  |eimi <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

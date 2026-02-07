@@ -1,4 +1,4 @@
-**Genesis 42:9** 
+**Genesis 42:9**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph remembered the dreams which he dreamed of them, and said unto them, Ye [are] spies; to see the nakedness of the land ye are come.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joseph remembered his dreams about them and said, “You are spies! You have com
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.8|<< Genesis 42:8]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.10|Genesis 42:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he remembered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2142\|יִּזְכֹּ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.Kor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵ֔ף]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

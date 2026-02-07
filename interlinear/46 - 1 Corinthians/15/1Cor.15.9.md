@@ -1,12 +1,12 @@
-**1 Corinthians 15:9
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:9**<big><big>[[1Cor.15.1 The Resurrection of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I am the least of the apostles, that am not meet to be called an apostle, because I persecuted the church of God.
 <small><sub>**BSB:**</sub></small>
 For I am the least of the apostles and am unworthy to be called an apostle, because I persecuted the church of God.
 <small><sub>**Literal:**</sub></small>
 I myself for am the least of the apostles who not am fit to be called an apostle, because I persecuted the church <the> of God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.8|<< 1 Corinthians 15:8]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.10|1 Corinthians 15:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

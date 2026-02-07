@@ -1,10 +1,7 @@
 **LXX Exodus 28:8** 
 <small><sub>**LXX:**</sub></small>
 And the woven work of the shoulder-pieces which is upon him, concerning the making of it, shall be from pure gold, and blue, and purple, and scarlet being spun, and linen being twined. 
-<small><sub>**KJV:**</sub></small>
-And the curious girdle of the ephod, which [is] upon it, shall be of the same, according to the work thereof; [even of] gold, [of] blue, and purple, and scarlet, and fine twined linen.
-<small><sub>**BSB:**</sub></small>
-And the skillfully woven waistband of the ephod must be of one piece, of the same workmanship—with gold, with blue, purple, and scarlet yarn, and with finely spun linen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.7|<< Exodus 28:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.9|Exodus 28:9 >>]]</td></tr></table>
 
 | Translation | Greek |

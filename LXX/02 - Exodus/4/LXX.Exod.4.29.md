@@ -1,10 +1,7 @@
 **LXX Exodus 4:29** 
 <small><sub>**LXX:**</sub></small>
 And Moses and Aaron went, and brought together the council of elders of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And Moses and Aaron went and gathered together all the elders of the children of Israel:
-<small><sub>**BSB:**</sub></small>
-Then Moses and Aaron went and assembled all the elders of the Israelites,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.28|<< Exodus 4:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.30|Exodus 4:30 >>]]</td></tr></table>
 
 | Translation | Greek |

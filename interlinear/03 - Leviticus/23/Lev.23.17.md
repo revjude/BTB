@@ -1,4 +1,4 @@
-**Leviticus 23:17** 
+**Leviticus 23:17**<big><big>[[Lev.23.15 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall bring out of your habitations two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven; [they are] the firstfruits unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bring two loaves of bread from your dwellings as a wave offering, each made from
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.16|<< Leviticus 23:16]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.18|Leviticus 23:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from dwelling places your  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4186\|מּוֹשְׁבֹ֨תֵי]]&#8207;&#8207;[[H9026\|כֶ֜ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mo.she.Vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will bring  |**<big>&#8207;[[H0935P\|תָּבִ֣יאּוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ta.Vi'.'u<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

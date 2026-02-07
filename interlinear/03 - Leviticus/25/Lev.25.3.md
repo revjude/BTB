@@ -1,4 +1,4 @@
-**Leviticus 25:3** 
+**Leviticus 25:3**<big><big>[[Lev.25.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For six years you may sow your field and prune your vineyard and gather its crop
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.2|<< Leviticus 25:2]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.4|Leviticus 25:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | six  |**<big>&#8207;[[H8337\|שֵׁ֤שׁ]]&#8207; </big>**| shesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | years  |**<big>&#8207;[[H8141\|שָׁנִים֙]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

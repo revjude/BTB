@@ -1,4 +1,4 @@
-**2 Samuel 22:38** 
+**2 Samuel 22:38**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have pursued mine enemies, and destroyed them; and turned not again until I had consumed them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I pursued my enemies and destroyed them; I did not turn back until they were con
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.37|<< 2 Samuel 22:37]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.39|2 Samuel 22:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let me pursue  |**<big>&#8207;[[H7291\|אֶרְדְּפָ֥ה]]&#8207; </big>**| 'er.de.Fah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | enemies my  |**<big>&#8207;[[H0341\|אֹיְבַ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'o.ye.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

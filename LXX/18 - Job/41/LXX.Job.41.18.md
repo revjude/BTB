@@ -1,10 +1,7 @@
 **LXX Job 41:18** 
 <small><sub>**LXX:**</sub></small>
 In his sneezing brightness shines forth,  and his eyes \[are as the\] appearance of \[the\] morning star. 
-<small><sub>**KJV:**</sub></small>
-By his neesings a light doth shine, and his eyes [are] like the eyelids of the morning.
-<small><sub>**BSB:**</sub></small>
-His snorting flashes with light, and his eyes are like the rays of dawn.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.41.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.17|<< Job 41:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.19|Job 41:19 >>]]</td></tr></table>
 
 | Translation | Greek |

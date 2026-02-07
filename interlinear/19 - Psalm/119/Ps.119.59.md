@@ -1,4 +1,4 @@
-**Psalms 119:59** 
+**Psalms 119:59**<big><big>[[Ps.119.57 Your Word Is a Lamp to My Feet - CHETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I thought on my ways, and turned my feet unto thy testimonies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I considered my ways and turned my steps to Your testimonies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.59|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.58|<< Psalms 119:58]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.60|Psalms 119:60 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have thought about  |**<big>&#8207;[[H2803J\|חִשַּׁ֥בְתִּי]]&#8207; </big>**| chi.Shav.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ways my  |**<big>&#8207;[[H1870G\|דְרָכָ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| de.ra.Kha<small><sup>[[HNcbpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Kings 10:14** 
+**2 Kings 10:14**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Take them alive. And they took them alive, and slew them at the pit of the shearing house, [even] two and forty men; neither left he any of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jehu ordered, “Take them alive.” So his men took them alive, then slaug
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.13|<< 2 Kings 10:13]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.15|2 Kings 10:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seize them  |**<big>&#8207;[[H8610\|תִּפְשׂ֣וּ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| tif.Su<small><sup>[[HVqv2mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

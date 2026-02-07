@@ -1,10 +1,7 @@
 **LXX Psalm 59:13** 
 <small><sub>**LXX:**</sub></small>
 In consummation, by anger of consummation \[consume\], that in no way they should exist; that they shall know that  God \[is\] master  of Jacob, and of the ends of the earth. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-Consume [them] in wrath, consume [them], that they [may] not [be]: and let them know that God ruleth in Jacob unto the ends of the earth. Selah.
-<small><sub>**BSB:**</sub></small>
-Consume them in wrath; consume them till they are no more, so it may be known to the ends of the earth that God rules over Jacob. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.59.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.12|<< Psalm 59:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.14|Psalm 59:14 >>]]</td></tr></table>
 
 | Translation | Greek |

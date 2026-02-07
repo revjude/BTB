@@ -1,4 +1,4 @@
-**1 Chronicles 26:16** 
+**1 Chronicles 26:16**<big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To Shuppim and Hosah [the lot came forth] westward, with the gate Shallecheth, by the causeway of the going up, ward against ward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The lots for the West Gate and the Shallecheth Gate on the ascending highway fel
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.15|<< 1 Chronicles 26:15]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.17|1 Chronicles 26:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to Shuppim  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8206H\|שֻׁפִּ֤ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> shu.Pim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and to Hosah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2621H\|חֹסָה֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> cho.Sah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

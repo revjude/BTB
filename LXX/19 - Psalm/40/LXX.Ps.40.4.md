@@ -1,10 +1,7 @@
 **LXX Psalm 40:4** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[is\] \[the\] man of which his hope is in the name \[of the\] <span class="smallcaps">lord</span>, and did not look to follies and false frenzies. 
-<small><sub>**KJV:**</sub></small>
-Blessed [is] that man that maketh the LORD his trust, and respecteth not the proud, nor such as turn aside to lies.
-<small><sub>**BSB:**</sub></small>
-Blessed is the man who has made the LORD his trust, who has not turned to the proud, nor to those who lapse into falsehood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.40.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.3|<< Psalm 40:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.5|Psalm 40:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 40:4** is...

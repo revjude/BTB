@@ -1,10 +1,7 @@
 **LXX Joel 3:4** 
 <small><sub>**LXX:**</sub></small>
 And what are you to me, O Tyre and Sidon, and all Galilee of \[the\] Philistines? Do you recompense to me a recompense? or do you have resentment to me? Swiftly and quickly I will recompense  your recompense upon your heads; 
-<small><sub>**KJV:**</sub></small>
-Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly [and] speedily will I return your recompence upon your own head;
-<small><sub>**BSB:**</sub></small>
-Now what do you have against Me, O Tyre, Sidon, and all the regions of Philistia? Are you rendering against Me a recompense? If you retaliate against Me, I will swiftly and speedily return your recompense upon your heads.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.3.3|<< Joel 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.3.5|Joel 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

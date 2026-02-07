@@ -1,10 +1,7 @@
 **LXX Deuteronomy 23:21** 
 <small><sub>**LXX:**</sub></small>
 And if you shall vow a vow \[to the\] <span class="smallcaps">lord</span>  your God, you shall not pass time to give it; for requiring, \[the\] <span class="smallcaps">lord</span> your God shall require it from you; and it will be sin to you. 
-<small><sub>**KJV:**</sub></small>
-When thou shalt vow a vow unto the LORD thy God, thou shalt not slack to pay it: for the LORD thy God will surely require it of thee; and it would be sin in thee.
-<small><sub>**BSB:**</sub></small>
-If you make a vow to the LORD your God, do not be slow to keep it, because He will surely require it of you, and you will be guilty of sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.23.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.20|<< Deuteronomy 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.22|Deuteronomy 23:22 >>]]</td></tr></table>
 
 | Translation | Greek |

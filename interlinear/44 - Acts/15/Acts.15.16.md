@@ -1,5 +1,5 @@
-**Acts 15:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:16**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:
 <small><sub>**BSB:**</sub></small>
 ‘After this I will return and rebuild the fallen tent of David. Its ruins I will rebuild, and I will restore it,
@@ -10,7 +10,7 @@ After these things I will return and will rebuild the tabernacle of David which 
 > $\quad$ referencing: [[LXX.Jer.12.15|Jer 12:15]] ☩ [[LXX.Amos.9.11|Amos 9:11-12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these things |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Hosea 4:12** 
 <small><sub>**LXX:**</sub></small>
 By their symbols they asked, and by their rods they reported to him. In a spirit of harlotry they were wandered, and they fornicated from  their God. 
-<small><sub>**KJV:**</sub></small>
-My people ask counsel at their stocks, and their staff declareth unto them: for the spirit of whoredoms hath caused [them] to err, and they have gone a whoring from under their God.
-<small><sub>**BSB:**</sub></small>
-My people consult their wooden idols, and their divining rods inform them. For a spirit of prostitution leads them astray and they have played the harlot against their God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.4.11|<< Hosea 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.4.13|Hosea 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

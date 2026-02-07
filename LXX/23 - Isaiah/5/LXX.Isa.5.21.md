@@ -1,10 +1,7 @@
 **LXX Isaiah 5:21** 
 <small><sub>**LXX:**</sub></small>
 Woe to the ones wise to themselves, and having knowledge before themselves. 
-<small><sub>**KJV:**</sub></small>
-Woe unto [them that are] wise in their own eyes, and prudent in their own sight!
-<small><sub>**BSB:**</sub></small>
-Woe to those who are wise in their own eyes and clever in their own sight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.20|<< Isaiah 5:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.22|Isaiah 5:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 5:21** is...

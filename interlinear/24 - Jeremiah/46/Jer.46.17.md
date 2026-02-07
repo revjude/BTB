@@ -1,4 +1,4 @@
-**Jeremiah 46:17** 
+**Jeremiah 46:17**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They did cry there, Pharaoh king of Egypt [is but] a noise; he hath passed the time appointed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There they will cry out: ‘Pharaoh king of Egypt was all noise; he has let the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.16|<< Jeremiah 46:16]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.18|Jeremiah 46:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | people will call out  |**<big>&#8207;[[H7121G\|קָרְא֖וּ]]&#8207; </big>**| ka.re.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֑ם]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

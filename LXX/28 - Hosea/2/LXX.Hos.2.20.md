@@ -1,10 +1,7 @@
 **LXX Hosea 2:20** 
 <small><sub>**LXX:**</sub></small>
 And I will espouse you to myself in trust. And you shall recognize the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-I will even betroth thee unto me in faithfulness: and thou shalt know the LORD.
-<small><sub>**BSB:**</sub></small>
-And I will betroth you in faithfulness, and you will know the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.19|<< Hosea 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.21|Hosea 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

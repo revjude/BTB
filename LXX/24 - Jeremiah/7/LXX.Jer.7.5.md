@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:5** 
 <small><sub>**LXX:**</sub></small>
 For if in setting right, you should set right  your ways, and  your practices, and in doing you should execute equity between a man and between  his neighbor, 
-<small><sub>**KJV:**</sub></small>
-For if ye throughly amend your ways and your doings; if ye throughly execute judgment between a man and his neighbour;
-<small><sub>**BSB:**</sub></small>
-For if you really correct your ways and deeds, if you act justly toward one another,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.4|<< Jeremiah 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.6|Jeremiah 7:6 >>]]</td></tr></table>
 
 | Translation | Greek |

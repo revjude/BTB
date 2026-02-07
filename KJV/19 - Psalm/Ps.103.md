@@ -1,6 +1,6 @@
 (KJV) **Psalm 103**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102|<< Psalm 102]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104|Psalm 104 >>]]</td></tr></table>
 
-***Bless the LORD, O My Soul*** ^bsb1396
+<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥃]]</big></big>***Bless the LORD, O My Soul***
 
 
 

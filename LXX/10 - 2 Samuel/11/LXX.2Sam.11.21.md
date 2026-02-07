@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:21** 
 <small><sub>**LXX:**</sub></small>
 Who struck  Abimelech son of Jerubbesheth? Did not a woman toss a piece of millstone upon him from above the wall, and he died in Thebez? Why did you lead forward to the wall? And you shall say, And also  your servant Uriah the Hittite is dead. 
-<small><sub>**KJV:**</sub></small>
-Who smote Abimelech the son of Jerubbesheth? did not a woman cast a piece of a millstone upon him from the wall, that he died in Thebez? why went ye nigh the wall? then say thou, Thy servant Uriah the Hittite is dead also.
-<small><sub>**BSB:**</sub></small>
-Who struck Abimelech son of Jerubbesheth? Was it not a woman who dropped an upper millstone on him from the wall, so that he died in Thebez? Why did you get so close to the wall?’ If he asks you this, then you are to say, ‘Your servant Uriah the Hittite is dead as well.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.20|<< 2 Samuel 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.22|2 Samuel 11:22 >>]]</td></tr></table>
 
 | Translation | Greek |

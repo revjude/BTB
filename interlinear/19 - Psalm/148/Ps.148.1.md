@@ -1,4 +1,4 @@
-**Psalms 148:1** 
+**Psalms 148:1**<big><big>[[Ps.148.1 Praise the LORD from the Heavens|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Hallelujah! Praise the LORD from the heavens; praise Him in the highest places.
 > $\quad$ referenced by: [[Matt.21.9|Matt 21:9]] ☩ [[Mark.11.10|Mark 11:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | praise  |**<big>&#8207;[[H1984B\|הַ֥לְלוּ]]&#8207; </big>**| Ha.lu<small><sup>[[HVpv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3050\|יָ֨הּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

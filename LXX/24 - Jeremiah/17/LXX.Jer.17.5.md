@@ -1,10 +1,7 @@
 **LXX Jeremiah 17:5** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, Cursed \[is\] the man who  has hope upon man, and shall fix firmly \[the\] flesh of his arm, and should separate his heart from \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; Cursed [be] the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the LORD.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “Cursed is the man who trusts in mankind, who makes mere flesh his strength and turns his heart from the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.4|<< Jeremiah 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.6|Jeremiah 17:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 24:4** 
 <small><sub>**LXX:**</sub></small>
 the former husband sending her out shall not be able to return to take her to himself for a wife after  her being defiled; for it is an abomination before \[the\] <span class="smallcaps">lord</span>  your God, and you shall not defile the land which \[the\] <span class="smallcaps">lord</span>  your God gives to you by lot. 
-<small><sub>**KJV:**</sub></small>
-Her former husband, which sent her away, may not take her again to be his wife, after that she is defiled; for that [is] abomination before the LORD: and thou shalt not cause the land to sin, which the LORD thy God giveth thee [for] an inheritance.
-<small><sub>**BSB:**</sub></small>
-then the husband who divorced her first may not remarry her after she has been defiled, for that is an abomination to the LORD. You must not bring sin upon the land that the LORD your God is giving you as an inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.24.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.3|<< Deuteronomy 24:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.5|Deuteronomy 24:5 >>]]</td></tr></table>
 
 | Translation | Greek |

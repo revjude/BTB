@@ -1,4 +1,4 @@
-**Job 32:16** 
+**Job 32:16**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I had waited, (for they spake not, but stood still, [and] answered no more;)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Must I wait, now that they are silent, now that they stand and no longer reply?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.15|<< Job 32:15]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.17|Job 32:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and will I wait?  |**<big>&#8207;[[H9001\|וְ֭]]&#8207;&#8207;[[H3176G\|הוֹחַלְתִּי]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ho.chal.ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

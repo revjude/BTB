@@ -1,4 +1,4 @@
-**Psalms 7:7** (7:8)
+**Psalms 7:7**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall the congregation of the people compass thee about: for their sakes therefore return thou on high.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the assembled peoples gather around You; take Your seat over them on high.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.6|<< Psalms 7:6]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.8|Psalms 7:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and an assembly of  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H5712\|עֲדַ֣ת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nations  |**<big>&#8207;[[H3816\|לְ֭אֻמִּים]]&#8207; </big>**| Le.'u.mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

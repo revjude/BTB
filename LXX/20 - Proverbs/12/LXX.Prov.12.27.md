@@ -1,10 +1,7 @@
 **LXX Proverbs 12:27** 
 <small><sub>**LXX:**</sub></small>
 A deceitful man shall not succeed in hunting; but a pure man \[is\] an esteemed possession. 
-<small><sub>**KJV:**</sub></small>
-The slothful [man] roasteth not that which he took in hunting: but the substance of a diligent man [is] precious.
-<small><sub>**BSB:**</sub></small>
-A lazy man does not roast his game, but a diligent man prizes his possession.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.12.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.12.26|<< Proverbs 12:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.12.28|Proverbs 12:28 >>]]</td></tr></table>
 
 | Translation | Greek |

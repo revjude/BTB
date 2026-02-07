@@ -1,12 +1,12 @@
-**1 Thessalonians 5:3
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 5:3**<big><big>[[1Thess.5.1 The Day of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape.
 <small><sub>**BSB:**</sub></small>
 While people are saying, “Peace and security,” destruction will come upon them suddenly, like labor pains on a pregnant woman, and they will not escape.
 <small><sub>**Literal:**</sub></small>
 when for they may say; Peace and security, then suddenly upon them comes destruction as the labor pains to her in womb [pregnancy] having, and certainly not shall they escape.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.2|<< 1 Thessalonians 5:2]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.4|1 Thessalonians 5:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

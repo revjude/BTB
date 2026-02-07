@@ -1,10 +1,7 @@
 **LXX Psalm 77:2** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] day of my affliction  I inquired of God.  By night my hands \[were\] before him, and I was not deceived. My soul refused to be comforted. 
-<small><sub>**KJV:**</sub></small>
-In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted.
-<small><sub>**BSB:**</sub></small>
-In the day of trouble I sought the Lord; through the night my outstretched hands did not grow weary; my soul refused to be comforted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.77.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.1|<< Psalm 77:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.3|Psalm 77:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Colossians 2:18
-**<small><sub>**KJV:**</sub></small>
+**Colossians 2:18**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,
 <small><sub>**BSB:**</sub></small>
 Do not let anyone who delights in false humility and the worship of angels disqualify you with speculation about what he has seen. Such a person is puffed up without basis by his unspiritual mind.
 <small><sub>**Literal:**</sub></small>
 No one you should disqualify delighting in humility and [the] worship of the angels, which not he has seen detailing vainly being puffed up by the mind of the flesh of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.17|<< Colossians 2:17]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.19|Colossians 2:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No one |**<big>[[G3367\|μηδεὶς]]</big>**  |mēdeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

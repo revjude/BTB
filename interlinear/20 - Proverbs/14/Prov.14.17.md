@@ -1,4 +1,4 @@
-**Proverbs 14:17** 
+**Proverbs 14:17**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He that is] soon angry dealeth foolishly: and a man of wicked devices is hated.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A quick-tempered man acts foolishly, and a devious man is hated.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.16|<< Proverbs 14:16]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.18|Proverbs 14:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [a person] short of  |**<big>&#8207;[[H7116\|קְֽצַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.tzar-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anger\<s>  |**<big>&#8207;[[H0639G\|אַ֭פַּיִם]]&#8207; </big>**| 'A.pa.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

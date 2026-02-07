@@ -1,4 +1,4 @@
-**Isaiah 42:4** 
+**Isaiah 42:4**<big><big>[[Isa.42.1 Here Is My Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall not fail nor be discouraged, till he have set judgment in the earth: and the isles shall wait for his law.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He will not grow weak or discouraged before He has established justice on the ea
 > $\quad$ referenced by: [[Matt.12.18|Matt 12:18-21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will grow dim  |**<big>&#8207;[[H3543A\|יִכְהֶה֙]]&#8207; </big>**| yikh.Heh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

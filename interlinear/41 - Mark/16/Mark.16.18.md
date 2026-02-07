@@ -1,12 +1,12 @@
-**Mark 16:18
-**<small><sub>**KJV:**</sub></small>
+**Mark 16:18**<big><big>[[Mark.16.14 The Great Commission|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.
 <small><sub>**BSB:**</sub></small>
 they will pick up snakes with their hands, and if they drink any deadly poison, it will not harm them; they will lay their hands on the sick, and they will be made well.”
 <small><sub>**Literal:**</sub></small>
 and with their hands serpents they will take up, and if deadly anything they shall drink, certainly not them it will hurt, upon [the] sick hands they will lay and well they will be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.17|<< Mark 16:17]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.19|Mark 16:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg">O</abbr> | |
 | with |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg">O</abbr> | |

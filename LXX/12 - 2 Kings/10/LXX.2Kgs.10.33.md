@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:33** 
 <small><sub>**LXX:**</sub></small>
 from the Jordan according to \[the\] rising of \[the\] sun -- all the land of Gilead of the Gadites, and  of Reuben, and  of Manasseh -- from Aroer, which is upon the edge of \[the\] rushing stream Arnon, and  Gilead and  Bashan. 
-<small><sub>**KJV:**</sub></small>
-From Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, and the Manassites, from Aroer, which [is] by the river Arnon, even Gilead and Bashan.
-<small><sub>**BSB:**</sub></small>
-from the Jordan eastward through all the land of Gilead (the region of Gad, Reuben, and Manasseh), and from Aroer by the Arnon Valley through Gilead to Bashan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.32|<< 2 Kings 10:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.34|2 Kings 10:34 >>]]</td></tr></table>
 
 | Translation | Greek |

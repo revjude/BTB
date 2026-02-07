@@ -1,10 +1,7 @@
 **LXX Ezekiel 14:20** 
 <small><sub>**LXX:**</sub></small>
 and Noah, and Daniel, and Job \[be\] in \[the\] midst of it, as I live, says Adonai \[the\] <span class="smallcaps">lord</span>, neither sons or daughters shall be delivered, but they in  their righteousness shall rescue  their souls. 
-<small><sub>**KJV:**</sub></small>
-Though Noah, Daniel, and Job, [were] in it, [as] I live, saith the Lord GOD, they shall deliver neither son nor daughter; they shall [but] deliver their own souls by their righteousness.
-<small><sub>**BSB:**</sub></small>
-then as surely as I live, declares the Lord GOD, even if Noah, Daniel, and Job were in it, they could not deliver their own sons or daughters. Their righteousness could deliver only themselves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.19|<< Ezekiel 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.21|Ezekiel 14:21 >>]]</td></tr></table>
 
 | Translation | Greek |

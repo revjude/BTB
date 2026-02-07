@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:11** 
 <small><sub>**LXX:**</sub></small>
 My house is not a cave of robbers, of which my name is called upon in it there before you. And behold, I have seen, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Is this house, which is called by my name, become a den of robbers in your eyes? Behold, even I have seen [it], saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Has this house, which bears My Name, become a den of robbers in your sight? Yes, I too have seen it, declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.10|<< Jeremiah 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.12|Jeremiah 7:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 7:11** is...

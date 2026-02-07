@@ -1,4 +1,4 @@
-**Ezekiel 22:20** 
+**Ezekiel 22:20**<big><big>[[Ezek.22.17 The Refining Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] they gather silver, and brass, and iron, and lead, and tin, into the midst of the furnace, to blow the fire upon it, to melt [it]; so will I gather [you] in mine anger and in my fury, and I will leave [you there], and melt you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Just as one gathers silver, copper, iron, lead, and tin into the furnace to melt
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.19|<< Ezekiel 22:19]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.21|Ezekiel 22:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] gathering of  |**<big>&#8207;[[H6910\|קְבֻ֣צַת]]&#8207; </big>**| ke.Vu.tzat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | silver  |**<big>&#8207;[[H3701G\|כֶּ֡סֶף]]&#8207; </big>**| Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

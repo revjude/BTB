@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:7** 
 <small><sub>**LXX:**</sub></small>
 And I came into Jerusalem, and I perceived  the wickedness which Eliashib did for Tobiah, to make for him a treasury in \[the\] courtyard of \[the\] house  of God. 
-<small><sub>**KJV:**</sub></small>
-And I came to Jerusalem, and understood of the evil that Eliashib did for Tobiah, in preparing him a chamber in the courts of the house of God.
-<small><sub>**BSB:**</sub></small>
-to return to Jerusalem. Then I discovered the evil that Eliashib had done on behalf of Tobiah by providing him a room in the courts of the house of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.6|<< Nehemiah 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.8|Nehemiah 13:8 >>]]</td></tr></table>
 
 | Translation | Greek |

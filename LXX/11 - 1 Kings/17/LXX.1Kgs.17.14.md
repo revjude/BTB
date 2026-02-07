@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:14** 
 <small><sub>**LXX:**</sub></small>
 For thus says \[the\] <span class="smallcaps">lord</span>  God of Israel, The pitcher  of flour shall not fail, and the jar  of olive oil shall not have less, until \[the\] days of the giving by the <span class="smallcaps">lord</span> the rain upon the earth. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD God of Israel, The barrel of meal shall not waste, neither shall the cruse of oil fail, until the day [that] the LORD sendeth rain upon the earth.
-<small><sub>**BSB:**</sub></small>
-for this is what the LORD, the God of Israel, says: ‘The jar of flour will not be exhausted and the jug of oil will not run dry until the day the LORD sends rain upon the face of the earth.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.13|<< 1 Kings 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.15|1 Kings 17:15 >>]]</td></tr></table>
 
 | Translation | Greek |

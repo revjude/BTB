@@ -1,12 +1,12 @@
-**Matthew 20:26
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:26**<big><big>[[Matt.20.20 A Mother’s Request|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But it shall not be so among you: but whosoever will be great among you, let him be your minister;
 <small><sub>**BSB:**</sub></small>
 It shall not be this way among you. Instead, whoever wants to become great among you must be your servant,
 <small><sub>**Literal:**</sub></small>
 Not thus now will it be among you, but who[ever] if shall wish among you great to become, he will be your servant;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.25|<< Matthew 20:25]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.27|Matthew 20:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐχ]]</big>**  |ouch <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | thus |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

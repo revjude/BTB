@@ -1,4 +1,4 @@
-**Deuteronomy 1:43** 
+**Deuteronomy 1:43**<big><big>[[Deut.1.41 The Defeat at Hormah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I spake unto you; and ye would not hear, but rebelled against the commandment of the LORD, and went presumptuously up into the hill.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I spoke to you, but you would not listen. You rebelled against the command of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.42|<< Deuteronomy 1:42]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.44|Deuteronomy 1:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I spoke  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H1696G\|אֲדַבֵּ֥ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.da.Ber<small><sup>[[HVpw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

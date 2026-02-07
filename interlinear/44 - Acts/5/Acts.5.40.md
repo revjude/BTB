@@ -1,12 +1,12 @@
-**Acts 5:40
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:40**<big><big>[[Acts.5.33 Gamaliel’s Advice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to him they agreed: and when they had called the apostles, and beaten [them], they commanded that they should not speak in the name of Jesus, and let them go.
 <small><sub>**BSB:**</sub></small>
 At this, they yielded to Gamaliel. They called the apostles in and had them flogged. Then they ordered them not to speak in the name of Jesus, and released them.
 <small><sub>**Literal:**</sub></small>
 and having called in the apostles having beaten they commanded [them] not to speak in the name <the> of Jesus and released them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.39|<< Acts 5:39]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.41|Acts 5:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having called in |**<big>[[G4341\|προσκαλεσάμενοι]]</big>**  |proskalesamenoi <small><sup>[[V-ADP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

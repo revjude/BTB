@@ -1,10 +1,7 @@
 **LXX Judges 19:13** 
 <small><sub>**LXX:**</sub></small>
 And he said \[to\] his servant, Come, for we should approach one of the places, and we should lodge in Gibeah or in Ramah. 
-<small><sub>**KJV:**</sub></small>
-And he said unto his servant, Come, and let us draw near to one of these places to lodge all night, in Gibeah, or in Ramah.
-<small><sub>**BSB:**</sub></small>
-He continued, “Come, let us try to reach one of these towns to spend the night in Gibeah or Ramah.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.12|<< Judges 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.14|Judges 19:14 >>]]</td></tr></table>
 
 | Translation | Greek |

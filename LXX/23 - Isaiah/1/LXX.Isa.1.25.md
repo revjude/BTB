@@ -1,10 +1,7 @@
 **LXX Isaiah 1:25** 
 <small><sub>**LXX:**</sub></small>
 And I will bring  my hand against you, and I will purify you to cleanness. But the ones resisting persuasion I will destroy, and I will remove all lawless ones from you. 
-<small><sub>**KJV:**</sub></small>
-And I will turn my hand upon thee, and purely purge away thy dross, and take away all thy tin:
-<small><sub>**BSB:**</sub></small>
-I will turn My hand against you; I will thoroughly purge your dross; I will remove all your impurities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.24|<< Isaiah 1:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.26|Isaiah 1:26 >>]]</td></tr></table>
 
 | Translation | Greek |

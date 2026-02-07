@@ -1,12 +1,12 @@
-**Mark 4:4
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:4**<big><big>[[Mark.4.1 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, as he sowed, some fell by the way side, and the fowls of the air came and devoured it up.
 <small><sub>**BSB:**</sub></small>
 And as he was sowing, some seed fell along the path, and the birds came and devoured it.
 <small><sub>**Literal:**</sub></small>
 And it came to pass while <the> sowing, <the> some fell along the road, and came the birds <the> heaven and devoured it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.3|<< Mark 4:3]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.5|Mark 4:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

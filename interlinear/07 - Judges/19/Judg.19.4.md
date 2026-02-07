@@ -1,4 +1,4 @@
-**Judges 19:4** 
+**Judges 19:4**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his father in law, the damsel’s father, retained him; and he abode with him three days: so they did eat and drink, and lodged there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His father-in-law, the girl’s father, persuaded him to stay, so he remained wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.3|<< Judges 19:3]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.5|Judges 19:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took hold  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388H\|יֶּחֱזַק]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.che.zak-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on \<the> him  |**<big>&#8207;[[H9003\|בּ֤]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| b<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

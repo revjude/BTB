@@ -1,4 +1,4 @@
-**Numbers 24:8** 
+**Numbers 24:8**<big><big>[[Num.24.1 Balaam’s Third Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce [them] through with his arrows.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God brought him out of Egypt with strength like a wild ox, to devour hostile nat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.7|<< Numbers 24:7]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.9|Numbers 24:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | God  |**<big>&#8207;[[H0410G\|אֵ֚ל]]&#8207; </big>**| 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] bringing out it  |**<big>&#8207;[[H3318H\|מוֹצִיא֣]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| mo.tzi.'<small><sup>[[HVhrmsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

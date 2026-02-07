@@ -1,12 +1,12 @@
-**James 4:12
-**<small><sub>**KJV:**</sub></small>
+**James 4:12**<big><big>[[Jas.4.7 Drawing Near to God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There is one lawgiver, who is able to save and to destroy: who art thou that judgest another?
 <small><sub>**BSB:**</sub></small>
 There is only one Lawgiver and Judge, the One who is able to save and destroy. But who are you to judge your neighbor?
 <small><sub>**Literal:**</sub></small>
 One there is <the> Lawgiver and Judge who is being able to save and to destroy; You yourself however who are you who [are] judging the neighbour?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.11|<< James 4:11]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.13|James 4:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | One |**<big>[[G1520\|εἷς]]</big>**  |heis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | there is |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

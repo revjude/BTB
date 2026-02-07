@@ -1,12 +1,12 @@
-**Matthew 24:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:5**<big><big>[[Matt.24.1 Temple Destruction and Other Signs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For many shall come in my name, saying, I am Christ; and shall deceive many.
 <small><sub>**BSB:**</sub></small>
 For many will come in My name, claiming, ‘I am the Christ,’ and will deceive many.
 <small><sub>**Literal:**</sub></small>
 Many for will come in the name of Me saying; I myself am the Christ, and many they will mislead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.4|<< Matthew 24:4]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.6|Matthew 24:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Many |**<big>[[G4183\|πολλοὶ]]</big>**  |polloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:7** 
 <small><sub>**LXX:**</sub></small>
 And they locked the doors of the temple, and they extinguished the lamps, and they did not burn incense, and \[the\] whole burnt-offerings they did not offer in the holy \[place\] to the God of Israel. 
-<small><sub>**KJV:**</sub></small>
-Also they have shut up the doors of the porch, and put out the lamps, and have not burned incense nor offered burnt offerings in the holy [place] unto the God of Israel.
-<small><sub>**BSB:**</sub></small>
-They also shut the doors of the portico and extinguished the lamps. They did not burn incense or present burnt offerings in the Holy Place of the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.6|<< 2 Chronicles 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.8|2 Chronicles 29:8 >>]]</td></tr></table>
 
 | Translation | Greek |

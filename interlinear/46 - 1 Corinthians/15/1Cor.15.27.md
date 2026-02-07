@@ -1,5 +1,5 @@
-**1 Corinthians 15:27
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:27**<big><big>[[1Cor.15.20 The Order of Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he hath put all things under his feet. But when he saith, all things are put under [him, it is] manifest that he is excepted, which did put all things under him.
 <small><sub>**BSB:**</sub></small>
 For “God has put everything under His feet.” Now when it says that everything has been put under Him, this clearly does not include the One who put everything under Him.
@@ -10,7 +10,7 @@ All things for He has put in subjection under the feet of Him; When however it m
 > $\quad$ referencing: [[LXX.Ps.8.6|Ps 8:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All things |**<big>[[G3956\|πάντα]]</big>**  |panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

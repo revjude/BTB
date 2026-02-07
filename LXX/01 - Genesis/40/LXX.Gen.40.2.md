@@ -1,10 +1,7 @@
 **LXX Genesis 40:2** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh was provoked to anger over  his two eunuchs -- over the chief wine taster and over the chief baker. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh was wroth against two [of] his officers, against the chief of the butlers, and against the chief of the bakers.
-<small><sub>**BSB:**</sub></small>
-Pharaoh was angry with his two officers, the chief cupbearer and the chief baker,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.1|<< Genesis 40:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.3|Genesis 40:3 >>]]</td></tr></table>
 
 | Translation | Greek |

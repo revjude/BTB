@@ -1,10 +1,7 @@
 **LXX Psalm 51:15** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>,  you shall open my lips, and  my mouth shall announce  your praise. 
-<small><sub>**KJV:**</sub></small>
-O Lord, open thou my lips; and my mouth shall shew forth thy praise.
-<small><sub>**BSB:**</sub></small>
-O Lord, open my lips, and my mouth will declare Your praise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.51.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.51.14|<< Psalm 51:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.16|Psalm 51:16 >>]]</td></tr></table>
 
 | Translation | Greek |

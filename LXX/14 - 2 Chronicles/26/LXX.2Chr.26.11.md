@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 26:11** 
 <small><sub>**LXX:**</sub></small>
 And there existed  to Uzziah a force to make war, and \[for\] going forth into battle array. And the count of the numbering of them \[was\] through \[the\] hand of Jeiel the scribe, and Maaseiah the judge, and through \[the\] hand of Hananiah, the substitute for the king. 
-<small><sub>**KJV:**</sub></small>
-Moreover Uzziah had an host of fighting men, that went out to war by bands, according to the number of their account by the hand of Jeiel the scribe and Maaseiah the ruler, under the hand of Hananiah, [one] of the king’s captains.
-<small><sub>**BSB:**</sub></small>
-Uzziah had an army ready for battle that went out to war by assigned divisions, as recorded by Jeiel the scribe and Maaseiah the officer under the direction of Hananiah, one of the royal officers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.26.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.10|<< 2 Chronicles 26:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.12|2 Chronicles 26:12 >>]]</td></tr></table>
 
 | Translation | Greek |

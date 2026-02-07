@@ -1,10 +1,7 @@
 **LXX Leviticus 13:48** 
 <small><sub>**LXX:**</sub></small>
 or in \[the\] warp, or in \[the\] woof, or in the flaxen linens, or in the woolen \[threads\], or in a skin, or in any workmanship of skin, 
-<small><sub>**KJV:**</sub></small>
-Whether [it be] in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;
-<small><sub>**BSB:**</sub></small>
-any weave or knit of linen or wool, or any article of leather—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.47|<< Leviticus 13:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.49|Leviticus 13:49 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:20** 
 <small><sub>**LXX:**</sub></small>
 And Eli blessed  Elkanah and  his wife, saying, \[the\] <span class="smallcaps">lord</span> pay to you seed from out of  this woman, for the loan which she treated the <span class="smallcaps">lord</span>. And the man went forth to  his place. 
-<small><sub>**KJV:**</sub></small>
-And Eli blessed Elkanah and his wife, and said, The LORD give thee seed of this woman for the loan which is lent to the LORD. And they went unto their own home.
-<small><sub>**BSB:**</sub></small>
-And Eli would bless Elkanah and his wife, saying, “May the LORD give you children by this woman in place of the one she dedicated to the LORD.” Then they would go home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.19|<< 1 Samuel 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.21|1 Samuel 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

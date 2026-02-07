@@ -1,10 +1,7 @@
 **LXX Psalm 102:19** 
 <small><sub>**LXX:**</sub></small>
 For he looked out from \[the\] height of his holy place. \[The\] <span class="smallcaps">lord</span> looked from heaven upon the earth, 
-<small><sub>**KJV:**</sub></small>
-For he hath looked down from the height of his sanctuary; from heaven did the LORD behold the earth;
-<small><sub>**BSB:**</sub></small>
-For He looked down from the heights of His sanctuary; the LORD gazed out from heaven to earth<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.18|<< Psalm 102:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.20|Psalm 102:20 >>]]</td></tr></table>
 
 | Translation | Greek |

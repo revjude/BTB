@@ -1,10 +1,7 @@
 **LXX Genesis 40:21** 
 <small><sub>**LXX:**</sub></small>
 And he restored the chief wine taster to  his office, and he gave the cup unto the hand of Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh’s hand:
-<small><sub>**BSB:**</sub></small>
-Pharaoh restored the chief cupbearer to his position, so that he once again placed the cup in Pharaoh’s hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.20|<< Genesis 40:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.22|Genesis 40:22 >>]]</td></tr></table>
 
 | Translation | Greek |

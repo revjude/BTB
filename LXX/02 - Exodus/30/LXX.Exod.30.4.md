@@ -1,10 +1,7 @@
 **LXX Exodus 30:4** 
 <small><sub>**LXX:**</sub></small>
 And two rings of pure gold for it you shall make under  \[its\] twisted rim for the two corners. You shall make \[them\] on two sides, and they will be clips for the staves so as to lift it by them. 
-<small><sub>**KJV:**</sub></small>
-And two golden rings shalt thou make to it under the crown of it, by the two corners thereof, upon the two sides of it shalt thou make [it]; and they shall be for places for the staves to bear it withal.
-<small><sub>**BSB:**</sub></small>
-And make two gold rings below the molding on opposite sides to hold the poles used to carry it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.3|<< Exodus 30:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.5|Exodus 30:5 >>]]</td></tr></table>
 
 | Translation | Greek |

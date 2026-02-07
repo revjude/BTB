@@ -1,4 +1,4 @@
-**Daniel 4:10** (4:7)
+**Daniel 4:10**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus [were] the visions of mine head in my bed; I saw, and behold a tree in the midst of the earth, and the height thereof [was] great.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In these visions of my mind as I was lying in bed, I saw this come to pass: Ther
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.9|<< Daniel 4:9]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.11|Daniel 4:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] visions of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2376\|חֶזְוֵ֥י]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> chez.Vei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | head my  |**<big>&#8207;[[H7217\|רֵאשִׁ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| re.Sh<small><sup>[[ANcbsc]]</sup></small> i<small><sup>[[ASp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

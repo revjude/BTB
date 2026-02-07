@@ -1,10 +1,7 @@
 **LXX Judges 21:14** 
 <small><sub>**LXX:**</sub></small>
 And Benjamin returned to the sons of Israel in  that time, and they gave them the women who were of the women of Jabish Gilead, and it pleased them thus. 
-<small><sub>**KJV:**</sub></small>
-And Benjamin came again at that time; and they gave them wives which they had saved alive of the women of Jabeshgilead: and yet so they sufficed them not.
-<small><sub>**BSB:**</sub></small>
-And at that time the Benjamites returned and were given the women who were spared from Jabesh-gilead. But there were not enough women for all of them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.13|<< Judges 21:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.15|Judges 21:15 >>]]</td></tr></table>
 
 | Translation | Greek |

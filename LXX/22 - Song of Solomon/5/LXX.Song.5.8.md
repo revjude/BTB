@@ -1,10 +1,7 @@
 **LXX Song of Solomon 5:8** 
 <small><sub>**LXX:**</sub></small>
 I bind you by an oath, O daughters of Jerusalem, by the powers and by the strengths of the field, if you should find  my beloved \[man\], what should you report to him, for I am being pierced of love. 
-<small><sub>**KJV:**</sub></small>
-I charge you, O daughters of Jerusalem, if ye find my beloved, that ye tell him, that I [am] sick of love.
-<small><sub>**BSB:**</sub></small>
-O daughters of Jerusalem, I adjure you, if you find my beloved, tell him I am sick with love.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.7|<< Song of Solomon 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.9|Song of Solomon 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

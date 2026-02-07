@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And now, behold, the sons of Ammon, and Moab, and mount Seir, in which you did not grant  Israel to go through them, in their coming forth from out of \[the\] land of Egypt, for they turned aside from them, and they did not utterly destroy them -- 
-<small><sub>**KJV:**</sub></small>
-And now, behold, the children of Ammon and Moab and mount Seir, whom thou wouldest not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not;
-<small><sub>**BSB:**</sub></small>
-And now, here are the men of Ammon, Moab, and Mount Seir, whom You did not let Israel invade when they came out of the land of Egypt. So Israel turned away from them and did not destroy them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.9|<< 2 Chronicles 20:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.11|2 Chronicles 20:11 >>]]</td></tr></table>
 
 | Translation | Greek |

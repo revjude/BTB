@@ -1,4 +1,4 @@
-**Deuteronomy 1:4** 
+**Deuteronomy 1:4**<big><big>[[Deut.1.1 The Command to Leave Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After he had slain Sihon the king of the Amorites, which dwelt in Heshbon, and Og the king of Bashan, which dwelt at Astaroth in Edrei:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This was after he had defeated Sihon king of the Amorites, who lived in Heshbon,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.3|<< Deuteronomy 1:3]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.5|Deuteronomy 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֣י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | had defeated he  |**<big>&#8207;[[H5221\|הַכֹּת֗]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| ha.ko.T<small><sup>[[HVhcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

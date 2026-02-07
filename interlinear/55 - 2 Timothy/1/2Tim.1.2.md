@@ -1,12 +1,12 @@
-**2 Timothy 1:2
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 1:2**<big><big>[[2Tim.1.1 Paul’s Greeting to Timothy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To Timothy, [my] dearly beloved son: Grace, mercy, [and] peace, from God the Father and Christ Jesus our Lord.
 <small><sub>**BSB:**</sub></small>
 To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
 <small><sub>**Literal:**</sub></small>
 To Timothy [my] beloved child: Grace, mercy, [and] peace from God [the] Father and Christ Jesus the Lord of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.1|<< 2 Timothy 1:1]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.3|2 Timothy 1:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To Timothy |**<big>[[G5095\|Τιμοθέῳ]]</big>**  |Timotheō <small><sup>[[N-DSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [my] beloved |**<big>[[G0027\|ἀγαπητῷ]]</big>**  |agapētō <small><sup>[[A-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

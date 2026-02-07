@@ -1,10 +1,7 @@
 **LXX Numbers 22:18** 
 <small><sub>**LXX:**</sub></small>
 And Balaam answered and said to the rulers of Balak, If Balak shall give to me his house full of silver and gold, I shall not be able to violate the word of \[the\] <span class="smallcaps">lord</span>  God, to do it small or great. 
-<small><sub>**KJV:**</sub></small>
-And Balaam answered and said unto the servants of Balak, If Balak would give me his house full of silver and gold, I cannot go beyond the word of the LORD my God, to do less or more.
-<small><sub>**BSB:**</sub></small>
-But Balaam replied to the servants of Balak, “If Balak were to give me his house full of silver and gold, I could not do anything small or great to go beyond the command of the LORD my God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.17|<< Numbers 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.19|Numbers 22:19 >>]]</td></tr></table>
 
 | Translation | Greek |

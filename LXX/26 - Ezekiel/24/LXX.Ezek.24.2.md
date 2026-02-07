@@ -1,10 +1,7 @@
 **LXX Ezekiel 24:2** 
 <small><sub>**LXX:**</sub></small>
 O son of man, write for yourself the name of the day from  this day, from which \[the\] king of Babylon fastened upon Jerusalem, \[even\] from  today's day! 
-<small><sub>**KJV:**</sub></small>
-Son of man, write thee the name of the day, [even] of this same day: the king of Babylon set himself against Jerusalem this same day.
-<small><sub>**BSB:**</sub></small>
-“Son of man, write down today’s date, for on this very day the king of Babylon has laid siege to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.1|<< Ezekiel 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.3|Ezekiel 24:3 >>]]</td></tr></table>
 
 | Translation | Greek |

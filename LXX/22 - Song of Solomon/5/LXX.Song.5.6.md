@@ -1,10 +1,7 @@
 **LXX Song of Solomon 5:6** 
 <small><sub>**LXX:**</sub></small>
 I opened \[to\] my beloved \[man\]; my beloved \[man\] was gone. My soul came forth for his word. I sought him, and I did not find him; I called him, and he did not hearken to me. 
-<small><sub>**KJV:**</sub></small>
-I opened to my beloved; but my beloved had withdrawn himself, [and] was gone: my soul failed when he spake: I sought him, but I could not find him; I called him, but he gave me no answer.
-<small><sub>**BSB:**</sub></small>
-I opened for my beloved, but he had turned and gone. My heart sank at his departure. I sought him but did not find him. I called, but he did not answer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.5|<< Song of Solomon 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.7|Song of Solomon 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

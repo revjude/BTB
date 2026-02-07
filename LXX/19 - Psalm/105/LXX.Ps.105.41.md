@@ -1,10 +1,7 @@
 **LXX Psalm 105:41** 
 <small><sub>**LXX:**</sub></small>
 He tore open \[the\] rock, and \[the\] waters flowed; rivers went to waterless \[places\]. 
-<small><sub>**KJV:**</sub></small>
-He opened the rock, and the waters gushed out; they ran in the dry places [like] a river.
-<small><sub>**BSB:**</sub></small>
-He opened a rock, and water gushed out; it flowed like a river in the desert.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.105.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.40|<< Psalm 105:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.42|Psalm 105:42 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 41:28** (41:20)
+**Job 41:28**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The arrow cannot make him flee: slingstones are turned with him into stubble.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No arrow can make him flee; slingstones become like chaff to him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.27|<< Job 41:27]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.29|Job 41:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it makes flee it  |**<big>&#8207;[[H1272\|יַבְרִיחֶ֥]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| yav.ri.Che.<small><sup>[[HVhi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

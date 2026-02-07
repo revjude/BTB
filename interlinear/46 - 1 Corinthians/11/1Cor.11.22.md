@@ -1,12 +1,12 @@
-**1 Corinthians 11:22
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:22**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise [you] not.
 <small><sub>**BSB:**</sub></small>
 Don’t you have your own homes in which to eat and drink? Or do you despise the church of God and humiliate those who have nothing? What can I say to you? Shall I praise you for this? No, I will not!
 <small><sub>**Literal:**</sub></small>
 Surely not indeed houses surely you have in which to eat and to drink? Or the church <the> of God do you despise and put to shame those nothing having? What shall I say to you shall I praise you in this? Not I praise [you]!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.21|<< 1 Corinthians 11:21]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.23|1 Corinthians 11:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

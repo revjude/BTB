@@ -1,10 +1,7 @@
 **LXX Isaiah 48:20** 
 <small><sub>**LXX:**</sub></small>
 Come forth from out of Babylon, O one fleeing from the Chaldeans! \[With\] a voice of gladness announce \[it\], and audibly let this be made known! Report unto \[the\] end of the earth! Say! \[The\] <span class="smallcaps">lord</span> rescued  his servant Jacob. 
-<small><sub>**KJV:**</sub></small>
-Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it [even] to the end of the earth; say ye, The LORD hath redeemed his servant Jacob.
-<small><sub>**BSB:**</sub></small>
-Leave Babylon! Flee from the Chaldeans! Declare it with a shout of joy, proclaim it, let it go out to the ends of the earth, saying, “The LORD has redeemed His servant Jacob!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.19|<< Isaiah 48:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.21|Isaiah 48:21 >>]]</td></tr></table>
 
 | Translation | Greek |

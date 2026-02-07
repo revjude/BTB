@@ -1,10 +1,7 @@
 **LXX Psalm 72:7** 
 <small><sub>**LXX:**</sub></small>
 Righteousness shall rise in his days, and a multitude of peace until of which \[time\] the moon should be taken away. 
-<small><sub>**KJV:**</sub></small>
-In his days shall the righteous flourish; and abundance of peace so long as the moon endureth.
-<small><sub>**BSB:**</sub></small>
-May the righteous flourish in his days and prosperity abound until the moon is no more.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.72.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.72.6|<< Psalm 72:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.8|Psalm 72:8 >>]]</td></tr></table>
 
 | Translation | Greek |

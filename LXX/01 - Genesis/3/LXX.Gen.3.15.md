@@ -1,10 +1,7 @@
 **LXX Genesis 3:15** 
 <small><sub>**LXX:**</sub></small>
 And I will put hatred between you and between the woman; and between  your seed and between  her seed. He will give heed to your head, and you will give heed to his heel. 
-<small><sub>**KJV:**</sub></small>
-And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.
-<small><sub>**BSB:**</sub></small>
-And I will put enmity between you and the woman, and between your seed and her seed. He will crush your head, and you will strike his heel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.14|<< Genesis 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.16|Genesis 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

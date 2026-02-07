@@ -1,4 +1,4 @@
-**Ezra 2:50** 
+**Ezra 2:50**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Asnah, the children of Mehunim, the children of Nephusim,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the descendants of Asnah, the descendants of Meunim, the descendants of Nephusim
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.49|<< Ezra 2:49]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.51|Ezra 2:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Asnah  |**<big>&#8207;[[H0619\|אַסְנָ֥ה]]&#8207; </big>**| 'as.Nah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

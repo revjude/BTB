@@ -1,10 +1,7 @@
 **LXX Daniel 7:2** 
 <small><sub>**LXX:**</sub></small>
 I Daniel viewed in my vision of the night. And behold, the four winds of the heaven struck up in the great sea. 
-<small><sub>**KJV:**</sub></small>
-Daniel spake and said, I saw in my vision by night, and, behold, the four winds of the heaven strove upon the great sea.
-<small><sub>**BSB:**</sub></small>
-Daniel declared: “In my vision in the night I looked, and suddenly the four winds of heaven were churning up the great sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.1|<< Daniel 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.3|Daniel 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Amos 6:12** 
+**Amos 6:12**<big><big>[[Amos.6.8 The Pride of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall horses run upon the rock? will [one] plow [there] with oxen? for ye have turned judgment into gall, and the fruit of righteousness into hemlock:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Shall horses run upon the rock? will [one] plow [there] with oxen? for ye have t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.11|<< Amos 6:11]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.13|Amos 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ do they run !  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H7323G\|יְרֻצ֤וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> y.ru.Tzu<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the crag[s]  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5553H\|סֶּ֙לַע֙]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Se.la'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

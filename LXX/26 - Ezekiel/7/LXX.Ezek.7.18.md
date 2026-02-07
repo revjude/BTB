@@ -1,10 +1,7 @@
 **LXX Ezekiel 7:18** 
 <small><sub>**LXX:**</sub></small>
 And they shall gird on sackcloths, and stupefaction shall cover them. And upon every face shame \[will be\] upon them, and upon every head baldness. 
-<small><sub>**KJV:**</sub></small>
-They shall also gird [themselves] with sackcloth, and horror shall cover them; and shame [shall be] upon all faces, and baldness upon all their heads.
-<small><sub>**BSB:**</sub></small>
-They will put on sackcloth, and terror will overwhelm them. Shame will cover all their faces, and all their heads will be shaved.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.7.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.7.17|<< Ezekiel 7:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.7.19|Ezekiel 7:19 >>]]</td></tr></table>
 
 | Translation | Greek |

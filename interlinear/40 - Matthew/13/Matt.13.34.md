@@ -1,12 +1,12 @@
-**Matthew 13:34
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:34**<big><big>[[Matt.13.34 I Will Open My Mouth in Parables|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 All these things spake Jesus unto the multitude in parables; and without a parable spake he not unto them:
 <small><sub>**BSB:**</sub></small>
 Jesus spoke all these things to the crowds in parables. He did not tell them anything without using a parable.
 <small><sub>**Literal:**</sub></small>
 These things all spoke <the> Jesus in parables to the crowds and without a parable no [thing] He was speaking to them,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.33|<< Matthew 13:33]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.35|Matthew 13:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|Ταῦτα]]</big>**  |Tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πάντα]]</big>**  |panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

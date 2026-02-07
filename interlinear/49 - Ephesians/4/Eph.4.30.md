@@ -1,12 +1,12 @@
-**Ephesians 4:30
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:30**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.
 <small><sub>**BSB:**</sub></small>
 And do not grieve the Holy Spirit of God, in whom you were sealed for the day of redemption.
 <small><sub>**Literal:**</sub></small>
 And not do grieve the Spirit <the> Holy <the> of God in whom you were sealed for [the] day of redemption.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.29|<< Ephesians 4:29]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.31|Ephesians 4:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

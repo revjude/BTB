@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 19:2** 
 <small><sub>**LXX:**</sub></small>
 And David said, I will do an act of kindness with Hanun son of Nahash, as his father performed kindness with me. And David sent messengers  to comfort him because of  his father. And the servants of David came into \[the\] land of \[the\] sons of Ammon to Hanun,  to comfort him. 
-<small><sub>**KJV:**</sub></small>
-And David said, I will shew kindness unto Hanun the son of Nahash, because his father shewed kindness to me. And David sent messengers to comfort him concerning his father. So the servants of David came into the land of the children of Ammon to Hanun, to comfort him.
-<small><sub>**BSB:**</sub></small>
-And David said, “I will show kindness to Hanun son of Nahash, because his father showed kindness to me.” So David sent messengers to console Hanun concerning his father. But when David’s servants arrived in the land of the Ammonites to console him,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.19.1|<< 1 Chronicles 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.19.3|1 Chronicles 19:3 >>]]</td></tr></table>
 
 | Translation | Greek |

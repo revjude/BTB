@@ -1,10 +1,7 @@
 **LXX Psalm 104:29** 
 <small><sub>**LXX:**</sub></small>
 But \[at the\] turning of your  face they shall be disturbed; you shall take away in return  their spirit, and they shall fail, and unto  their dust they shall return. 
-<small><sub>**KJV:**</sub></small>
-Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.
-<small><sub>**BSB:**</sub></small>
-When You hide Your face, they are terrified; when You take away their breath, they die and return to dust.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.28|<< Psalm 104:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.30|Psalm 104:30 >>]]</td></tr></table>
 
 | Translation | Greek |

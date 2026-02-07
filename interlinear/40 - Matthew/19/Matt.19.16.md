@@ -1,12 +1,12 @@
-**Matthew 19:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:16**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
 <small><sub>**BSB:**</sub></small>
 Just then a man came up to Jesus and inquired, “Teacher, what good thing must I do to obtain eternal life?”
 <small><sub>**Literal:**</sub></small>
 And behold one having come to Him said: Teacher good what good [thing] shall I do that I may have life eternal?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.15|<< Matthew 19:15]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.17|Matthew 19:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

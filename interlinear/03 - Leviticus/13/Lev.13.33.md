@@ -1,4 +1,4 @@
-**Leviticus 13:33** 
+**Leviticus 13:33**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall be shaven, but the scall shall he not shave; and the priest shall shut up [him that hath] the scall seven days more:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then the person must shave himself except for the scaly area. Then the priest sh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.32|<< Leviticus 13:32]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.34|Leviticus 13:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will shave himself  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1548\|הִ֨תְגַּלָּ֔ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Hit.ga.Lach<small><sup>[[HVtq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

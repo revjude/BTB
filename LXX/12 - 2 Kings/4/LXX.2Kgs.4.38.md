@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Elisha returned to Gilgal. And the famine \[was\] in the land. And the sons of the prophets sat down before him. And Elisha said \[to\] his servant, Stand by the great kettle, and boil stew for the sons of the prophets! 
-<small><sub>**KJV:**</sub></small>
-And Elisha came again to Gilgal: and [there was] a dearth in the land; and the sons of the prophets [were] sitting before him: and he said unto his servant, Set on the great pot, and seethe pottage for the sons of the prophets.
-<small><sub>**BSB:**</sub></small>
-When Elisha returned to Gilgal, there was a famine in the land. As the sons of the prophets were sitting at his feet, he said to his attendant, “Put on the large pot and boil some stew for the sons of the prophets.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.37|<< 2 Kings 4:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.39|2 Kings 4:39 >>]]</td></tr></table>
 
 | Translation | Greek |

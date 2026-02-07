@@ -1,4 +1,4 @@
-**Ecclesiastes 10:5** 
+**Ecclesiastes 10:5**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is an evil [which] I have seen under the sun, as an error [which] proceedeth from the ruler:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is an evil I have seen under the sun—an error that proceeds from the rul
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.4|<< Ecclesiastes 10:4]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.6|Ecclesiastes 10:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there  |**<big>&#8207;[[H3426\|יֵ֣שׁ]]&#8207; </big>**| yesh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] an evil  |**<big>&#8207;[[H7451I\|רָעָ֔ה]]&#8207; </big>**| ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

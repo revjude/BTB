@@ -1,4 +1,4 @@
-**Nahum 1:9** 
+**Nahum 1:9**<big><big>[[Nah.1.1 The Burden against Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What do ye imagine against the LORD? he will make an utter end: affliction shall not rise up the second time.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whatever you plot against the LORD, He will bring to an end. Affliction will not
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.8|<< Nahum 1:8]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.10|Nahum 1:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whatever  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will plot !  |**<big>&#8207;[[H2803I\|תְּחַשְּׁבוּ]]&#8207;&#8207;[[H9013\|ן֙]]&#8207; </big>**| te.cha.she.Vu<small><sup>[[HVpi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Proverbs 28:23** 
 <small><sub>**LXX:**</sub></small>
 The one reproving a man's ways shall have favors, rather than the flatterer with the tongue. 
-<small><sub>**KJV:**</sub></small>
-He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.
-<small><sub>**BSB:**</sub></small>
-He who rebukes a man will later find more favor than one who flatters with his tongue.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.28.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.22|<< Proverbs 28:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.24|Proverbs 28:24 >>]]</td></tr></table>
 
 | Translation | Greek |

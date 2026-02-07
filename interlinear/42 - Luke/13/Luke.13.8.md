@@ -1,12 +1,12 @@
-**Luke 13:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:8**<big><big>[[Luke.13.6 The Parable of the Barren Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he answering said unto him, Lord, let it alone this year also, till I shall dig about it, and dung [it]:
 <small><sub>**BSB:**</sub></small>
 ‘Sir,’ the man replied, ‘leave it alone again this year, until I dig around it and fertilize it.
 <small><sub>**Literal:**</sub></small>
 <the> And answering he says to him; Sir, do leave it also this the year, until when I may dig around it and may put [in] manure;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.7|<< Luke 13:7]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.9|Luke 13:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

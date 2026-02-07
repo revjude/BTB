@@ -1,4 +1,4 @@
-**Ezekiel 46:13** 
+**Ezekiel 46:13**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt daily prepare a burnt offering unto the LORD [of] a lamb of the first year without blemish: thou shalt prepare it every morning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you shall provide an unblemished year-old lamb as a daily burnt offering to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.12|<< Ezekiel 46:12]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.14|Ezekiel 46:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a lamb  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3532\|כֶ֨בֶשׂ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khe.ves<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

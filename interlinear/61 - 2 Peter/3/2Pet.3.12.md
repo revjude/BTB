@@ -1,12 +1,12 @@
-**2 Peter 3:12
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 3:12**<big><big>[[2Pet.3.8 The Day of the Lord|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?
 <small><sub>**BSB:**</sub></small>
 as you anticipate and hasten the coming of the day of God, when the heavens will be destroyed by fire and the elements will melt in the heat.
 <small><sub>**Literal:**</sub></small>
 expecting and hastening the coming of the <the> of God day, through which [the] heavens being set on fire will be dissolved and [the] elements burning with heat are melting?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.11|<< 2 Peter 3:11]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.13|2 Peter 3:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | expecting |**<big>[[G4328\|προσδοκῶντας]]</big>**  |prosdokōntas <small><sup>[[V-PAP-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

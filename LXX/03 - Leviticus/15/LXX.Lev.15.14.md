@@ -1,10 +1,7 @@
 **LXX Leviticus 15:14** 
 <small><sub>**LXX:**</sub></small>
 And on the eighth day he shall take to himself two turtle-doves, or two young pigeons, and he shall bring them before \[the\] <span class="smallcaps">lord</span>, to the doors of the tent of the testimony, and he shall give them to the priest. 
-<small><sub>**KJV:**</sub></small>
-And on the eighth day he shall take to him two turtledoves, or two young pigeons, and come before the LORD unto the door of the tabernacle of the congregation, and give them unto the priest:
-<small><sub>**BSB:**</sub></small>
-On the eighth day he is to take two turtledoves or two young pigeons, come before the LORD at the entrance to the Tent of Meeting, and give them to the priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.13|<< Leviticus 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.15|Leviticus 15:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:19** 
 <small><sub>**LXX:**</sub></small>
 And \[some\] from Manasseh joined with David in the coming of the Philistines against Saul for war. And David did not help them, for in counsel it came to pass from the commandants of the Philistines, saying, With  our heads he will return to his master Saul. 
-<small><sub>**KJV:**</sub></small>
-And there fell [some] of Manasseh to David, when he came with the Philistines against Saul to battle: but they helped them not: for the lords of the Philistines upon advisement sent him away, saying, He will fall to his master Saul to [the jeopardy of] our heads.
-<small><sub>**BSB:**</sub></small>
-Some from Manasseh defected to David when he went with the Philistines to fight against Saul. (They did not help the Philistines because the Philistine rulers consulted and sent David away, saying, “It will cost us our heads if he defects to his master Saul.”)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.18|<< 1 Chronicles 12:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.20|1 Chronicles 12:20 >>]]</td></tr></table>
 
 | Translation | Greek |

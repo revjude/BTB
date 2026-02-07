@@ -1,12 +1,12 @@
-**Matthew 3:11
-**<small><sub>**KJV:**</sub></small>
+**Matthew 3:11**<big><big>[[Matt.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and [with] fire:
 <small><sub>**BSB:**</sub></small>
 I baptize you with water for repentance, but after me will come One more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and with fire.
 <small><sub>**Literal:**</sub></small>
 I myself indeed you baptize with water to repentance, <the> however after me is coming mightier than I He is of whom not I am fit the sandals to carry; He himself you will baptize with [the] Spirit Holy and with fire;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.10|<< Matthew 3:10]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.12|Matthew 3:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

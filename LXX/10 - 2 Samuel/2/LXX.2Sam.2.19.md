@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:19** 
 <small><sub>**LXX:**</sub></small>
 And Asahel pursued after Abner, and he did not turn aside  to go to the right nor to the left after Abner. 
-<small><sub>**KJV:**</sub></small>
-And Asahel pursued after Abner; and in going he turned not to the right hand nor to the left from following Abner.
-<small><sub>**BSB:**</sub></small>
-and he chased Abner, not turning to the right or to the left in his pursuit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.18|<< 2 Samuel 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.20|2 Samuel 2:20 >>]]</td></tr></table>
 
 | Translation | Greek |

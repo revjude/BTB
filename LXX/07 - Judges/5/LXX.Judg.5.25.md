@@ -1,10 +1,7 @@
 **LXX Judges 5:25** 
 <small><sub>**LXX:**</sub></small>
 He asked her for water, and she gave milk to him in a pan; she drew near butter of strong ones. 
-<small><sub>**KJV:**</sub></small>
-He asked water, [and] she gave [him] milk; she brought forth butter in a lordly dish.
-<small><sub>**BSB:**</sub></small>
-He asked for water, and she gave him milk. In a magnificent bowl she brought him curds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.24|<< Judges 5:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.26|Judges 5:26 >>]]</td></tr></table>
 
 | Translation | Greek |

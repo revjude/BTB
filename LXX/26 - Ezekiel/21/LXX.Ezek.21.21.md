@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:21** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] king of Babylon shall stand upon the ancient way, upon \[the\] corner of the two streets  to use oracles for divination,  to stir up \[the\] rod, and to ask among the carved \[images\], and to watch livers. 
-<small><sub>**KJV:**</sub></small>
-For the king of Babylon stood at the parting of the way, at the head of the two ways, to use divination: he made [his] arrows bright, he consulted with images, he looked in the liver.
-<small><sub>**BSB:**</sub></small>
-For the king of Babylon stands at the fork in the road, at the junction of the two roads, to seek an omen: He shakes the arrows, he consults the idols, he examines the liver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.20|<< Ezekiel 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.22|Ezekiel 21:22 >>]]</td></tr></table>
 
 | Translation | Greek |

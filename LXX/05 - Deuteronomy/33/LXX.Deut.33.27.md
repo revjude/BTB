@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:27** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sovereignty \[of\] God shall shelter you, and \[that\] under \[the\] strength of everlasting arms. And he shall cast out from your face \[the\] enemy, saying, May you perish. 
-<small><sub>**KJV:**</sub></small>
-The eternal God [is thy] refuge, and underneath [are] the everlasting arms: and he shall thrust out the enemy from before thee; and shall say, Destroy [them].
-<small><sub>**BSB:**</sub></small>
-The eternal God is your dwelling place, and underneath are the everlasting arms. He drives out the enemy before you, giving the command, ‘Destroy him!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.26|<< Deuteronomy 33:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.28|Deuteronomy 33:28 >>]]</td></tr></table>
 
 | Translation | Greek |

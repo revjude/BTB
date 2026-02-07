@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:29** 
 <small><sub>**LXX:**</sub></small>
 And I shall not turn my face any longer from them, because I poured out  my rage upon the house of Israel, says \[the\] Lord \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Neither will I hide my face any more from them: for I have poured out my spirit upon the house of Israel, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-And I will no longer hide My face from them, for I will pour out My Spirit on the house of Israel, declares the Lord GOD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.28|<< Ezekiel 39:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.1|Ezekiel 40:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 39:29** is...

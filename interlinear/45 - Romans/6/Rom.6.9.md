@@ -1,12 +1,12 @@
-**Romans 6:9
-**<small><sub>**KJV:**</sub></small>
+**Romans 6:9**<big><big>[[Rom.6.1 Dead to Sin, Alive to God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him.
 <small><sub>**BSB:**</sub></small>
 For we know that since Christ was raised from the dead, He cannot die again; death no longer has dominion over Him.
 <small><sub>**Literal:**</sub></small>
 knowing that Christ having been raised up out from [the] dead no longer dies; Death over Him no longer rules.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.8|<< Romans 6:8]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.10|Romans 6:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | knowing |**<big>[[G6063\|εἰδότες]]</big>**  |eidotes <small><sup>[[V-RAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

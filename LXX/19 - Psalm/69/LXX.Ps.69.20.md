@@ -1,10 +1,7 @@
 **LXX Psalm 69:20** 
 <small><sub>**LXX:**</sub></small>
 My soul expected scorning and misery; and I remained behind for one grieving, and he did not exist; and for ones comforting, but I did not find. 
-<small><sub>**KJV:**</sub></small>
-Reproach hath broken my heart; and I am full of heaviness: and I looked [for some] to take pity, but [there was] none; and for comforters, but I found none.
-<small><sub>**BSB:**</sub></small>
-Insults have broken my heart, and I am in despair. I looked for sympathy, but there was none, for comforters, but I found no one.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.19|<< Psalm 69:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.21|Psalm 69:21 >>]]</td></tr></table>
 
 | Translation | Greek |

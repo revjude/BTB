@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:22** 
 <small><sub>**LXX:**</sub></small>
 And Hannah did not ascend with him, for she said to her husband, \[I will wait\] until the ascending \[of\] the boy, whenever I should have weaned it, and he shall appear  in front of \[the\] <span class="smallcaps">lord</span>, and he shall settle there unto \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-But Hannah went not up; for she said unto her husband, [I will not go up] until the child be weaned, and [then] I will bring him, that he may appear before the LORD, and there abide for ever.
-<small><sub>**BSB:**</sub></small>
-but Hannah did not go. “After the boy is weaned,” she said to her husband, “I will take him to appear before the LORD and to stay there permanently.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.21|<< 1 Samuel 1:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.23|1 Samuel 1:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 1:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:25**<big><big>[[Matt.1.18 The Birth of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And knew her not till she had brought forth her firstborn son: and he called his name JESUS.
 <small><sub>**BSB:**</sub></small>
 But he had no union with her until she gave birth to a Son. And he gave Him the name Jesus.
 <small><sub>**Literal:**</sub></small>
 and not he was knowing her until that she had brought forth the a son of her <the> firstborn, and (s)he called the name of Him Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.24|<< Matthew 1:24]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.1|Matthew 2:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Joshua 5:13** 
+**Joshua 5:13**<big><big>[[Josh.5.13 The Commander of the LORD’s Army|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, there stood a man over against him with his sword drawn in his hand: and Joshua went unto him, and said unto him, [Art] thou for us, or for our adversaries?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now when Joshua was near Jericho, he looked up and saw a man standing in front o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.12|<< Joshua 5:12]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.14|Joshua 5:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when was  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H1961\|הְי֣וֹת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

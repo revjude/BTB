@@ -1,10 +1,7 @@
 **LXX Isaiah 41:3** 
 <small><sub>**LXX:**</sub></small>
 And he shall pursue them; the way of his feet shall go through in peace. 
-<small><sub>**KJV:**</sub></small>
-He pursued them, [and] passed safely; [even] by the way [that] he had not gone with his feet.
-<small><sub>**BSB:**</sub></small>
-He pursues them, going on safely, hardly touching the path with his feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.2|<< Isaiah 41:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.4|Isaiah 41:4 >>]]</td></tr></table>
 
 | Translation | Greek |

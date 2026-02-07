@@ -1,12 +1,12 @@
-**1 Peter 1:13
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:13**<big><big>[[1Pet.1.13 A Call to Holiness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;
 <small><sub>**BSB:**</sub></small>
 Therefore prepare your minds for action. Be sober-minded. Set your hope fully on the grace to be given you at the revelation of Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 Therefore having girded up the loins of the mind of you, being sober-minded, fully do set [your] hope upon which is being brought to you grace in [the] revelation of Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.12|<< 1 Peter 1:12]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.14|1 Peter 1:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|Διὸ]]</big>**  |Dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having girded up |**<big>[[G0328\|ἀναζωσάμενοι]]</big>**  |anazōsamenoi <small><sup>[[V-AMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

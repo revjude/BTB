@@ -1,4 +1,4 @@
-**Ezekiel 40:45** 
+**Ezekiel 40:45**<big><big>[[Ezek.40.44 Chambers for Ministry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto me, This chamber, whose prospect [is] toward the south, [is] for the priests, the keepers of the charge of the house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the man said to me: “The chamber that faces south is for the priests who 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.44|<< Ezekiel 40:44]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.46|Ezekiel 40:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבֵּ֖ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.Ber<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלָ֑]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

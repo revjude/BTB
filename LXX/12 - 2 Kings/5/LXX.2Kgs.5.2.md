@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] Syrians went forth in armed bands and they captured from out of \[the\] land of Israel a small young woman; and she was in the presence of the wife of Naaman. 
-<small><sub>**KJV:**</sub></small>
-And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman’s wife.
-<small><sub>**BSB:**</sub></small>
-At this time the Arameans had gone out in bands and had taken a young girl from the land of Israel, and she was serving Naaman’s wife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.1|<< 2 Kings 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.3|2 Kings 5:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Samuel 4:11** 
+**2 Samuel 4:11**<big><big>[[2Sam.4.9 The Execution of Rechab and Baanah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How much more, when wicked men have slain a righteous person in his own house upon his bed? shall I not therefore now require his blood of your hand, and take you away from the earth?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How much more, when wicked men kill a righteous man in his own house and on his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.4.10|<< 2 Samuel 4:10]]</td><td align="center" style="border:none;">[[2Sam.4|2 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.4.12|2 Samuel 4:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | indeed?  |**<big>&#8207;[[H0637\|אַ֞ף]]&#8207; </big>**| 'af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

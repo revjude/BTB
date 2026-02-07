@@ -1,10 +1,7 @@
 **LXX Nehemiah 4:8** 
 <small><sub>**LXX:**</sub></small>
 And they gathered all together to come and to deploy against Jerusalem, and to do it for a delusion. 
-<small><sub>**KJV:**</sub></small>
-And conspired all of them together to come [and] to fight against Jerusalem, and to hinder it.
-<small><sub>**BSB:**</sub></small>
-and all of them conspired to come and fight against Jerusalem and create a hindrance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.7|<< Nehemiah 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.9|Nehemiah 4:9 >>]]</td></tr></table>
 
 | Translation | Greek |

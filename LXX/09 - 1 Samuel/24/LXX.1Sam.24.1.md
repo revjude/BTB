@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Saul returned from \[going\] after the Philistines, that they reported to him, saying, Behold, David \[is\] in the wilderness of En Gedi. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David [is] in the wilderness of Engedi.
-<small><sub>**BSB:**</sub></small>
-After Saul had returned from pursuing the Philistines, he was told, “David is in the wilderness of En-gedi.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.29|<< 1 Samuel 23:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.2|1 Samuel 24:2 >>]]</td></tr></table>
 
 | Translation | Greek |

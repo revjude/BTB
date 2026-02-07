@@ -1,4 +1,4 @@
-**Leviticus 19:28** 
+**Leviticus 19:28**<big><big>[[Lev.19.19 Keep My Statutes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not make any cuts in your bodies for the dead or put tattoo marks on yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.27|<< Leviticus 19:27]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.29|Leviticus 19:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and cut[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8296A\|שֶׂ֣רֶט]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Se.ret<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for a corpse  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5315M\|נֶ֗פֶשׁ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

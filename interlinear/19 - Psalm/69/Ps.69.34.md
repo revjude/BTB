@@ -1,4 +1,4 @@
-**Psalms 69:34** (69:35)
+**Psalms 69:34**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the heaven and earth praise him, the seas, and every thing that moveth therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let heaven and earth praise Him, the seas and everything that moves in them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.33|<< Psalms 69:33]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.35|Psalms 69:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they praise him  |**<big>&#8207;[[H1984B\|יְֽ֭הַלְלוּ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| Ye.ha.lu.<small><sup>[[HVpi3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heaven  |**<big>&#8207;[[H8064\|שָׁמַ֣יִם]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 69:26** 
 <small><sub>**LXX:**</sub></small>
 For whom you struck, they pursued; and they added to the pain of my wounds. 
-<small><sub>**KJV:**</sub></small>
-For they persecute [him] whom thou hast smitten; and they talk to the grief of those whom thou hast wounded.
-<small><sub>**BSB:**</sub></small>
-For they persecute the one You struck and recount the pain of those You wounded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.25|<< Psalm 69:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.27|Psalm 69:27 >>]]</td></tr></table>
 
 | Translation | Greek |

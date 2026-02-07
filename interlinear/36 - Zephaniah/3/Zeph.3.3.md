@@ -1,4 +1,4 @@
-**Zephaniah 3:3** 
+**Zephaniah 3:3**<big><big>[[Zeph.3.1 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her princes within her [are] roaring lions; her judges [are] evening wolves; they gnaw not the bones till the morrow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Her princes are roaring lions; her judges are evening wolves, leaving nothing fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.2|<< Zephaniah 3:2]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.4|Zephaniah 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | officials its  |**<big>&#8207;[[H8269\|שָׂרֶ֣י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| sa.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in midst its  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7130G\|קִרְבָּ֔]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> kir.Ba<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

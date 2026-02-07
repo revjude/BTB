@@ -1,12 +1,12 @@
-**John 1:27
-**<small><sub>**KJV:**</sub></small>
+**John 1:27**<big><big>[[John.1.19 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He it is, who coming after me is preferred before me, whose shoe’s latchet I am not worthy to unloose.
 <small><sub>**BSB:**</sub></small>
 He is the One who comes after me, the straps of whose sandals I am not worthy to untie.”
 <small><sub>**Literal:**</sub></small>
 he himself is the [One] after me coming, who before me has been; of whom not am I myself worthy that I may untie of Him the strap of the sandal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.26|<< John 1:26]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.28|John 1:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he himself |**<big>[[G0846\|αὐτός]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | is |**<big>[[G1510\|ἐστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

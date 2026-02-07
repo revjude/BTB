@@ -1,10 +1,7 @@
 **LXX Exodus 37:21** 
 <small><sub>**LXX:**</sub></small>
 The knob under the two branches of it, and a knob under the two branches of it, thus to the six branches, to the ones going forth from out of the lamp-stand. 
-<small><sub>**KJV:**</sub></small>
-And a knop under two branches of the same, and a knop under two branches of the same, and a knop under two branches of the same, according to the six branches going out of it.
-<small><sub>**BSB:**</sub></small>
-A bud was under the first pair of branches that extended from the lampstand, a bud under the second pair, and a bud under the third pair.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.20|<< Exodus 37:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.22|Exodus 37:22 >>]]</td></tr></table>
 
 | Translation | Greek |

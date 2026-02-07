@@ -1,4 +1,4 @@
-**Judges 18:21** 
+**Judges 18:21**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they turned and departed, and put the little ones and the cattle and the carriage before them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Putting their small children, their livestock, and their possessions in front of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.20|<< Judges 18:20]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.22|Judges 18:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they turned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6437G\|יִּפְנ֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּלֵ֑כוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Le.khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

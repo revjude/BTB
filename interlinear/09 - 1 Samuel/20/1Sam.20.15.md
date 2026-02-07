@@ -1,4 +1,4 @@
-**1 Samuel 20:15** 
+**1 Samuel 20:15**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [also] thou shalt not cut off thy kindness from my house for ever: no, not when the LORD hath cut off the enemies of David every one from the face of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and do not ever cut off your loving devotion from my household—not even when t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.14|<< 1 Samuel 20:14]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.16|1 Samuel 20:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must cut off  |**<big>&#8207;[[H3772I\|תַכְרִ֧ת]]&#8207; </big>**| takh.Rit<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

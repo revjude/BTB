@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:31** 
 <small><sub>**LXX:**</sub></small>
 You shall not do so \[to the\] <span class="smallcaps">lord</span> your God; for the abominations which \[the\] <span class="smallcaps">lord</span> detested they did with  their gods; for also  their sons and  their daughters they incinerated in fire \[to\] their gods. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not do so unto the LORD thy God: for every abomination to the LORD, which he hateth, have they done unto their gods; for even their sons and their daughters they have burnt in the fire to their gods.
-<small><sub>**BSB:**</sub></small>
-You must not worship the LORD your God in this way, because they practice for their gods every abomination which the LORD hates. They even burn their sons and daughters in the fire as sacrifices to their gods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.30|<< Deuteronomy 12:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.32|Deuteronomy 12:32 >>]]</td></tr></table>
 
 | Translation | Greek |

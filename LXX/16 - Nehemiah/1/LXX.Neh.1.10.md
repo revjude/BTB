@@ -1,10 +1,7 @@
 **LXX Nehemiah 1:10** 
 <small><sub>**LXX:**</sub></small>
 And they \[are\] your children and your people, whom you ransomed by  your great power, and by  your fortified hand. 
-<small><sub>**KJV:**</sub></small>
-Now these [are] thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand.
-<small><sub>**BSB:**</sub></small>
-They are Your servants and Your people. You redeemed them by Your great power and mighty hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.1.9|<< Nehemiah 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.1.11|Nehemiah 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

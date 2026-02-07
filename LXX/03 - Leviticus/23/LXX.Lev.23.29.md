@@ -1,10 +1,7 @@
 **LXX Leviticus 23:29** 
 <small><sub>**LXX:**</sub></small>
 Every soul who shall not be humbled in it, \[in\] this day, shall be utterly destroyed from among  its people. 
-<small><sub>**KJV:**</sub></small>
-For whatsoever soul [it be] that shall not be afflicted in that same day, he shall be cut off from among his people.
-<small><sub>**BSB:**</sub></small>
-If anyone does not humble himself on this day, he must be cut off from his people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.28|<< Leviticus 23:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.30|Leviticus 23:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Leviticus 23:29** is...

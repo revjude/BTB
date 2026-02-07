@@ -1,10 +1,7 @@
 **LXX 2 Samuel 2:27** 
 <small><sub>**LXX:**</sub></small>
 And Joab said, As \[the\] <span class="smallcaps">lord</span> lives, that if you had not spoken, because then from the morning the people ascended even each after  his brother. 
-<small><sub>**KJV:**</sub></small>
-And Joab said, [As] God liveth, unless thou hadst spoken, surely then in the morning the people had gone up every one from following his brother.
-<small><sub>**BSB:**</sub></small>
-“As surely as God lives,” Joab replied, “if you had not spoken up, the troops would have continued pursuing their brothers until morning.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.2.26|<< 2 Samuel 2:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.28|2 Samuel 2:28 >>]]</td></tr></table>
 
 | Translation | Greek |

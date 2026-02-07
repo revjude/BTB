@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:29** 
 <small><sub>**LXX:**</sub></small>
 And I will deliver you from out of all  your uncleannesses. And I will call for the grain, and I will multiply it, and I will not appoint famine unto you. 
-<small><sub>**KJV:**</sub></small>
-I will also save you from all your uncleannesses: and I will call for the corn, and will increase it, and lay no famine upon you.
-<small><sub>**BSB:**</sub></small>
-I will save you from all your uncleanness. I will summon the grain and make it plentiful, and I will not bring famine upon you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.28|<< Ezekiel 36:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.30|Ezekiel 36:30 >>]]</td></tr></table>
 
 | Translation | Greek |

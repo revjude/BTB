@@ -1,10 +1,7 @@
 **LXX Isaiah 30:25** 
 <small><sub>**LXX:**</sub></small>
 And there shall be upon every high mountain, and upon every elevated hill, water traveling over in  that day, whenever many should be destroyed, and whenever towers shall fall. 
-<small><sub>**KJV:**</sub></small>
-And there shall be upon every high mountain, and upon every high hill, rivers [and] streams of waters in the day of the great slaughter, when the towers fall.
-<small><sub>**BSB:**</sub></small>
-And from every high mountain and every raised hill, streams of water will flow in the day of great slaughter, when the towers fall.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.24|<< Isaiah 30:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.26|Isaiah 30:26 >>]]</td></tr></table>
 
 | Translation | Greek |

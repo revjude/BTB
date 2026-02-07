@@ -1,4 +1,4 @@
-**Proverbs 25:15** 
+**Proverbs 25:15**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Through patience a ruler can be persuaded, and a gentle tongue can break a bone.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.14|<< Proverbs 25:14]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.16|Proverbs 25:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by length of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0753\|אֹ֣רֶךְ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'O.rekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anger\<s>  |**<big>&#8207;[[H0639G\|אַ֭פַּיִם]]&#8207; </big>**| 'A.pa.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

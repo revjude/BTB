@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:5** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; Assuredly by fire of my rage I spoke against the remaining nations, and against  all Edom; for they gave  my land to themselves for a possession with gladness, dishonoring lives,  to obliterate in plunder. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; Surely in the fire of my jealousy have I spoken against the residue of the heathen, and against all Idumea, which have appointed my land into their possession with the joy of all [their] heart, with despiteful minds, to cast it out for a prey.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: Surely in My burning zeal I have spoken against the rest of the nations, and against all Edom, who took My land as their own possession with wholehearted joy and utter contempt, so that its pastureland became plunder.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.4|<< Ezekiel 36:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.6|Ezekiel 36:6 >>]]</td></tr></table>
 
 | Translation | Greek |

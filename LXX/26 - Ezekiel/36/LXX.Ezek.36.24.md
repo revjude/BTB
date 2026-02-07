@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:24** 
 <small><sub>**LXX:**</sub></small>
 And I will take you from out of the nations, and I will gather you from out of all the lands, and I will bring you into  your land. 
-<small><sub>**KJV:**</sub></small>
-For I will take you from among the heathen, and gather you out of all countries, and will bring you into your own land.
-<small><sub>**BSB:**</sub></small>
-For I will take you from among the nations and gather you out of all the countries, and I will bring you back into your own land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.23|<< Ezekiel 36:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.25|Ezekiel 36:25 >>]]</td></tr></table>
 
 | Translation | Greek |

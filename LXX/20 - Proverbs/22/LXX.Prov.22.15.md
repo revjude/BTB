@@ -1,10 +1,7 @@
 **LXX Proverbs 22:15** 
 <small><sub>**LXX:**</sub></small>
 Thoughtlessness lights up \[the\] heart of a young person; but \[the\] rod and instruction \[will drive it\] far from him. 
-<small><sub>**KJV:**</sub></small>
-Foolishness [is] bound in the heart of a child; [but] the rod of correction shall drive it far from him.
-<small><sub>**BSB:**</sub></small>
-Foolishness is bound up in the heart of a child, but the rod of discipline drives it far from him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.14|<< Proverbs 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.16|Proverbs 22:16 >>]]</td></tr></table>
 
 | Translation | Greek |

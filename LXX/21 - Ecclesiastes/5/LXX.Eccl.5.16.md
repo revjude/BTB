@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 5:16** 
 <small><sub>**LXX:**</sub></small>
 And indeed this \[is\] an evil sickness; for as he came, so also he shall go forth. And what is his advantage in which he makes an effort into \[the\] wind? 
-<small><sub>**KJV:**</sub></small>
-And this also [is] a sore evil, [that] in all points as he came, so shall he go: and what profit hath he that hath laboured for the wind?
-<small><sub>**BSB:**</sub></small>
-This too is a grievous affliction: Exactly as a man is born, so he will depart. What does he gain as he toils for the wind?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.15|<< Ecclesiastes 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.17|Ecclesiastes 5:17 >>]]</td></tr></table>
 
 | Translation | Greek |

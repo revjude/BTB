@@ -1,12 +1,12 @@
-**2 Corinthians 2:13
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 2:13**<big><big>[[2Cor.2.12 Triumph in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I had no rest in my spirit, because I found not Titus my brother: but taking my leave of them, I went from thence into Macedonia.
 <small><sub>**BSB:**</sub></small>
 I had no peace in my spirit, because I did not find my brother Titus there. So I said goodbye to them and went on to Macedonia.
 <small><sub>**Literal:**</sub></small>
 not I have had rest in the spirit of mine in the not finding my Titus the brother of mine, instead having taken leave of them I went out to Macedonia.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.12|<< 2 Corinthians 2:12]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.14|2 Corinthians 2:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have had |**<big>[[G2192\|ἔσχηκα]]</big>**  |eschēka <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

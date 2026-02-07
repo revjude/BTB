@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:13** 
 <small><sub>**LXX:**</sub></small>
 I will be to him as father, and he will be to me as son. And  my mercy I will not remove from him, as I removed from the ones before you. 
-<small><sub>**KJV:**</sub></small>
-I will be his father, and he shall be my son: and I will not take my mercy away from him, as I took [it] from [him] that was before thee:
-<small><sub>**BSB:**</sub></small>
-I will be his Father, and he will be My son. And I will never remove My loving devotion from him as I removed it from your predecessor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.12|<< 1 Chronicles 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.14|1 Chronicles 17:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Chronicles 17:13** is...

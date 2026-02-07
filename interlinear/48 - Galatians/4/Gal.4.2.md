@@ -1,12 +1,12 @@
-**Galatians 4:2
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:2**<big><big>[[Gal.4.1 Sons and Heirs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But is under tutors and governors until the time appointed of the father.
 <small><sub>**BSB:**</sub></small>
 He is subject to guardians and trustees until the date set by his father.
 <small><sub>**Literal:**</sub></small>
 Instead under guardians he is and trustees until the time appointed <the> by [his] father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.1|<< Galatians 4:1]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.3|Galatians 4:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Instead |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | under |**<big>[[G5259H\|ὑπὸ]]</big>**  |hupo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

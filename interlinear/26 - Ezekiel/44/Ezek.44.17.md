@@ -1,4 +1,4 @@
-**Ezekiel 44:17** 
+**Ezekiel 44:17**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] when they enter in at the gates of the inner court, they shall be clothed with linen garments; and no wool shall come upon them, whiles they minister in the gates of the inner court, and within.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they enter the gates of the inner court, they are to wear linen garments; t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.16|<< Ezekiel 44:16]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.18|Ezekiel 44:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when come they  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0935G\|בוֹאָ]]&#8207;&#8207;[[H9048\|ם֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> vo.'A<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 40:33** 
 <small><sub>**LXX:**</sub></small>
 And he set up the courtyard round about the tent and the testimony, and he stationed the draw curtain of the door of the courtyard. And Moses completed all the works. 
-<small><sub>**KJV:**</sub></small>
-And he reared up the court round about the tabernacle and the altar, and set up the hanging of the court gate. So Moses finished the work.
-<small><sub>**BSB:**</sub></small>
-And Moses set up the courtyard around the tabernacle and the altar, and he hung the curtain for the entrance to the courtyard. So Moses finished the work.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.32|<< Exodus 40:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.34|Exodus 40:34 >>]]</td></tr></table>
 
 | Translation | Greek |

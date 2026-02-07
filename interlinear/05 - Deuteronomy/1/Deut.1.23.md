@@ -1,4 +1,4 @@
-**Deuteronomy 1:23** 
+**Deuteronomy 1:23**<big><big>[[Deut.1.19 Twelve Spies Sent Out|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the saying pleased me well: and I took twelve men of you, one of a tribe:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The plan seemed good to me, so I selected twelve men from among you, one from ea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.22|<< Deuteronomy 1:22]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.24|Deuteronomy 1:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was good  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3190\|יִּיטַ֥ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Tav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in view my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869I\|עֵינַ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

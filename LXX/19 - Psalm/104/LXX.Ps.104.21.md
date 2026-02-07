@@ -1,10 +1,7 @@
 **LXX Psalm 104:21** 
 <small><sub>**LXX:**</sub></small>
 \[Lion\] cubs roaring  to seize by force; and seeking from  God food for themselves. 
-<small><sub>**KJV:**</sub></small>
-The young lions roar after their prey, and seek their meat from God.
-<small><sub>**BSB:**</sub></small>
-The young lions roar for their prey and seek their food from God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.20|<< Psalm 104:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.22|Psalm 104:22 >>]]</td></tr></table>
 
 | Translation | Greek |

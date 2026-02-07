@@ -1,5 +1,5 @@
-**1 Corinthians 15:47
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:47**<big><big>[[1Cor.15.35 The Resurrection Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The first man [is] of the earth, earthy: the second man [is] the Lord from heaven.
 <small><sub>**BSB:**</sub></small>
 The first man was of the dust of the earth, the second man from heaven.
@@ -10,7 +10,7 @@ The first man [was] from [the] earth made of dust, the second man [is] the Lord 
 > $\quad$ alluding to: [[LXX.Gen.2.7|Gen 2:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | first |**<big>[[G4413G\|πρῶτος]]</big>**  |prōtos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

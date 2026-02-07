@@ -1,10 +1,7 @@
 **LXX Leviticus 15:24** 
 <small><sub>**LXX:**</sub></small>
 And if any one should bed down in her bed with her, and her uncleanness should be upon him, he shall be unclean seven days. And every bed upon which ever he should go to bed upon it, it shall be unclean. 
-<small><sub>**KJV:**</sub></small>
-And if any man lie with her at all, and her flowers be upon him, he shall be unclean seven days; and all the bed whereon he lieth shall be unclean.
-<small><sub>**BSB:**</sub></small>
-If a man lies with her and her menstrual flow touches him, he will be unclean for seven days, and any bed on which he lies will become unclean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.23|<< Leviticus 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.25|Leviticus 15:25 >>]]</td></tr></table>
 
 | Translation | Greek |

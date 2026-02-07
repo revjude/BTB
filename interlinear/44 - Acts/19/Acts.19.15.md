@@ -1,12 +1,12 @@
-**Acts 19:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:15**<big><big>[[Acts.19.13 Seven Sons of Sceva|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?
 <small><sub>**BSB:**</sub></small>
 But one day the evil spirit responded, “Jesus I know, and I know about Paul, but who are you?”
 <small><sub>**Literal:**</sub></small>
 Answering however the spirit <the> evil said to them: <the> indeed Jesus I know and <the> Paul I am acquainted with; you yourselves however who are you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.14|<< Acts 19:14]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.16|Acts 19:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|ἀποκριθὲν]]</big>**  |apokrithen <small><sup>[[V-AOP-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

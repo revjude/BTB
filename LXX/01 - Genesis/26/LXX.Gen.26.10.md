@@ -1,10 +1,7 @@
 **LXX Genesis 26:10** 
 <small><sub>**LXX:**</sub></small>
 And Abimelech said to him, What \[is\] this you did to us? \[Is it a\] small \[thing\] if someone of my kind went to bed with  your wife, and you brought upon us \[a sin of\] ignorance? 
-<small><sub>**KJV:**</sub></small>
-And Abimelech said, What [is] this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us.
-<small><sub>**BSB:**</sub></small>
-“What is this you have done to us?” asked Abimelech. “One of the people could easily have slept with your wife, and you would have brought guilt upon us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.9|<< Genesis 26:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.11|Genesis 26:11 >>]]</td></tr></table>
 
 | Translation | Greek |

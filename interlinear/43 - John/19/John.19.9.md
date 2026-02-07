@@ -1,12 +1,12 @@
-**John 19:9
-**<small><sub>**KJV:**</sub></small>
+**John 19:9**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And went again into the judgment hall, and saith unto Jesus, Whence art thou? But Jesus gave him no answer.
 <small><sub>**BSB:**</sub></small>
 and he went back into the Praetorium. “Where are You from?” he asked. But Jesus gave no answer.
 <small><sub>**Literal:**</sub></small>
 And he went into the Praetorium again and he says <the> to Jesus; From where are You yourself? <the> But Jesus an answer not did give to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.8|<< John 19:8]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.10|John 19:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he went |**<big>[[G1525\|εἰσῆλθεν]]</big>**  |eisēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

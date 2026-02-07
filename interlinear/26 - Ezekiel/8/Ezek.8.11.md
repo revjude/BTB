@@ -1,4 +1,4 @@
-**Ezekiel 8:11** 
+**Ezekiel 8:11**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there stood before them seventy men of the ancients of the house of Israel, and in the midst of them stood Jaazaniah the son of Shaphan, with every man his censer in his hand; and a thick cloud of incense went up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Before them stood seventy elders of the house of Israel, with Jaazaniah son of S
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.10|<< Ezekiel 8:10]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.12|Ezekiel 8:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and seventy  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7657\|שִׁבְעִ֣ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shiv.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | man  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

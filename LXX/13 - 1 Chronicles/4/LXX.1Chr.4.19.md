@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:19** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of \[his\] wife -- Hodiah \[the\] sister of Naham, father of Keila the Garmite, and Eshtemoa the Maachathite. 
-<small><sub>**KJV:**</sub></small>
-And the sons of [his] wife Hodiah the sister of Naham, the father of Keilah the Garmite, and Eshtemoa the Maachathite.
-<small><sub>**BSB:**</sub></small>
-The sons of Hodiah’s wife, the sister of Naham, were the fathers of Keilah the Garmite and of Eshtemoa the Maacathite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.18|<< 1 Chronicles 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.20|1 Chronicles 4:20 >>]]</td></tr></table>
 
 | Translation | Greek |

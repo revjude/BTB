@@ -1,4 +1,4 @@
-**Deuteronomy 28:66** 
+**Deuteronomy 28:66**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thy life shall hang in doubt before thee; and thou shalt fear day and night, and shalt have none assurance of thy life:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So your life will hang in doubt before you, and you will be afraid night and day
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.66|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.65|<< Deuteronomy 28:65]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.67|Deuteronomy 28:67 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָי֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | life your  |**<big>&#8207;[[H2416E\|חַיֶּ֔י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| chai.Yei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

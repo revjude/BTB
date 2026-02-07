@@ -1,10 +1,7 @@
 **LXX Proverbs 18:13** 
 <small><sub>**LXX:**</sub></small>
 The one who answers a word before hearing \[the matter\], it is folly and scorn to him. 
-<small><sub>**KJV:**</sub></small>
-He that answereth a matter before he heareth [it], it [is] folly and shame unto him.
-<small><sub>**BSB:**</sub></small>
-He who answers a matter before he hears it—this is folly and disgrace to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.18.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.18.12|<< Proverbs 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.18.14|Proverbs 18:14 >>]]</td></tr></table>
 
 | Translation | Greek |

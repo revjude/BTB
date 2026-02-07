@@ -1,10 +1,7 @@
 **LXX Job 24:18** 
 <small><sub>**LXX:**</sub></small>
 He is light upon \[the\] face of \[the\] water; their portion be cursed upon \[the\] earth; and appear their plants 
-<small><sub>**KJV:**</sub></small>
-He [is] swift as the waters; their portion is cursed in the earth: he beholdeth not the way of the vineyards.
-<small><sub>**BSB:**</sub></small>
-They are but foam on the surface of the water; their portion of the land is cursed, so that no one turns toward their vineyards.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.17|<< Job 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.19|Job 24:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 1:13** 
+**Isaiah 1:13**<big><big>[[Isa.1.10 Meaningless Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; [it is] iniquity, even the solemn meeting.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bring your worthless offerings no more; your incense is detestable to Me. New Mo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.12|<< Isaiah 1:12]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.14|Isaiah 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must repeat  |**<big>&#8207;[[H3254G\|תוֹסִ֗יפוּ]]&#8207; </big>**| to.Si.fu<small><sup>[[HVhi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

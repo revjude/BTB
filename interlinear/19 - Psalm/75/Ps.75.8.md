@@ -1,4 +1,4 @@
-**Psalms 75:8** (75:9)
+**Psalms 75:8**<big><big>[[Ps.75.1 God’s Righteous Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For in the hand of the LORD [there is] a cup, and the wine is red; it is full of mixture; and he poureth out of the same: but the dregs thereof, all the wicked of the earth shall wring [them] out, [and] drink [them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For a cup is in the hand of the LORD, full of foaming wine mixed with spices. He
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.75.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.75.7|<< Psalms 75:7]]</td><td align="center" style="border:none;">[[Ps.75|Psalms 75]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.75.9|Psalms 75:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a cup  |**<big>&#8207;[[H3563A\|כ֪וֹס]]&#8207; </big>**| Khos<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

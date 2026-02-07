@@ -1,10 +1,7 @@
 **LXX Proverbs 23:6** 
 <small><sub>**LXX:**</sub></small>
 Do not dine with a bewitching man, nor desire  his foods; 
-<small><sub>**KJV:**</sub></small>
-Eat thou not the bread of [him that hath] an evil eye, neither desire thou his dainty meats:
-<small><sub>**BSB:**</sub></small>
-Do not eat the bread of a stingy man, and do not crave his delicacies;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.5|<< Proverbs 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.7|Proverbs 23:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**3 John 1:12
-**<small><sub>**KJV:**</sub></small>
+**3 John 1:12**<big><big>[[3John.1.9 Diotrephes and Demetrius|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Demetrius hath good report of all [men], and of the truth itself: yea, and we [also] bear record; and ye know that our record is true.
 <small><sub>**BSB:**</sub></small>
 Demetrius has received a good testimony from everyone, and from the truth itself. We also testify for him, and you know that our testimony is true.
 <small><sub>**Literal:**</sub></small>
 To Demetrius witness has been given by all and by itself the truth; and we ourselves also bear witness, and you know that the testimony of us true is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.11|<< 3 John 1:11]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.13|3 John 1:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To Demetrius |**<big>[[G1216\|Δημητρίῳ]]</big>**  |Dēmētriō <small><sup>[[N-DSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | witness has been given |**<big>[[G3140\|μεμαρτύρηται]]</big>**  |memarturētai <small><sup>[[V-RPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

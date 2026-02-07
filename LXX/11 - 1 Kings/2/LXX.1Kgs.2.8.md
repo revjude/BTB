@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:8** 
 <small><sub>**LXX:**</sub></small>
 And behold, \[there is\] with you Shimei son of Gera, son of the Benjamite from Bahurim. And he cursed me a grievous curse in the day in which I went into Camps. And he went down for meeting me at the Jordan, and I swore by an oath to him by \[the\] <span class="smallcaps">lord</span>, saying, you to death by \[the\] broadsword. 
-<small><sub>**KJV:**</sub></small>
-And, behold, [thou hast] with thee Shimei the son of Gera, a Benjamite of Bahurim, which cursed me with a grievous curse in the day when I went to Mahanaim: but he came down to meet me at Jordan, and I sware to him by the LORD, saying, I will not put thee to death with the sword.
-<small><sub>**BSB:**</sub></small>
-Keep an eye on Shimei the son of Gera, the Benjamite from Bahurim who is with you. He called down bitter curses against me on the day I went to Mahanaim, but when he came down to meet me at the Jordan, I swore to him by the LORD: ‘I will never put you to the sword.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.7|<< 1 Kings 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.9|1 Kings 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

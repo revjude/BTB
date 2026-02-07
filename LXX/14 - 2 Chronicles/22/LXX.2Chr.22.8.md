@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 22:8** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  Jehu taking vengeance on the house of Ahab, that he found the rulers of Judah, and the brothers of Ahaziah, \[the\] ones officiating \[to\] Ahaziah, and he killed them. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, that, when Jehu was executing judgment upon the house of Ahab, and found the princes of Judah, and the sons of the brethren of Ahaziah, that ministered to Ahaziah, he slew them.
-<small><sub>**BSB:**</sub></small>
-So while Jehu was executing judgment on the house of Ahab, he found the rulers of Judah and the sons of Ahaziah’s brothers who were serving Ahaziah, and he killed them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.7|<< 2 Chronicles 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.9|2 Chronicles 22:9 >>]]</td></tr></table>
 
 | Translation | Greek |

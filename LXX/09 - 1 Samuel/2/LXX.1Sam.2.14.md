@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:14** 
 <small><sub>**LXX:**</sub></small>
 And he stuck it into the great kettle, or into the brass caldron, or into the earthen pot; and all, what ever ascended on the meat hook the priest took to himself. According to thus they did to all Israel in Shiloh to the ones coming to sacrifice to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he struck [it] into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither.
-<small><sub>**BSB:**</sub></small>
-and plunge it into the pan or kettle or cauldron or cooking pot. And the priest would claim for himself whatever the meat fork brought up. This is how they treated all the Israelites who came to Shiloh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.13|<< 1 Samuel 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.15|1 Samuel 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 24:11** 
 <small><sub>**LXX:**</sub></small>
 And he rested the camels outside of the city by the Well of the Water,  towards late \[in the day\], when the \[women\] came forth drawing water. 
-<small><sub>**KJV:**</sub></small>
-And he made his camels to kneel down without the city by a well of water at the time of the evening, [even] the time that women go out to draw [water].
-<small><sub>**BSB:**</sub></small>
-As evening approached, he made the camels kneel down near the well outside the town at the time when the women went out to draw water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.10|<< Genesis 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.12|Genesis 24:12 >>]]</td></tr></table>
 
 | Translation | Greek |

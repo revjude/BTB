@@ -1,12 +1,12 @@
-**Psalms 85:1** (85:2)
+**Psalms 85:1**<big><big>[[Ps.85.1 You Showed Favor to Your Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm for the sons of Korah. LORD, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.
+LORD, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of the sons of Korah. You showed favor to Your land, O LORD; You restored Jacob from captivity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.85.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.85.0|<< Psalms 85:0]]</td><td align="center" style="border:none;">[[Ps.85|Psalms 85]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.85.2|Psalms 85:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you showed favor to  |**<big>&#8207;[[H7521\|רָצִ֣יתָ]]&#8207; </big>**| ra.Tzi.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

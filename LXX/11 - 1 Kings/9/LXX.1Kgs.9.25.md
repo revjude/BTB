@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:25** 
 <small><sub>**LXX:**</sub></small>
 And Solomon offered thrice in a year whole burnt-offerings and peace \[offerings\] upon the altar, the one he built to the <span class="smallcaps">lord</span>. And he burnt incense upon it, the one which \[was\] before \[the\] <span class="smallcaps">lord</span>, and he finished the house. 
-<small><sub>**KJV:**</sub></small>
-And three times in a year did Solomon offer burnt offerings and peace offerings upon the altar which he built unto the LORD, and he burnt incense upon the altar that [was] before the LORD. So he finished the house.
-<small><sub>**BSB:**</sub></small>
-Three times a year Solomon offered burnt offerings and peace offerings on the altar he had built for the LORD, burning incense with them before the LORD. So he completed the temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.24|<< 1 Kings 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.26|1 Kings 9:26 >>]]</td></tr></table>
 
 | Translation | Greek |

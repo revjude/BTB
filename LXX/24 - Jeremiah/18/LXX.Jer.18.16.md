@@ -1,10 +1,7 @@
 **LXX Jeremiah 18:16** 
 <small><sub>**LXX:**</sub></small>
  to order up  their land for extinction, and the everlasting hissing. All the ones traveling through it shall be amazed, and shall shake  their head. 
-<small><sub>**KJV:**</sub></small>
-To make their land desolate, [and] a perpetual hissing; every one that passeth thereby shall be astonished, and wag his head.
-<small><sub>**BSB:**</sub></small>
-They have made their land a desolation, a perpetual object of scorn; all who pass by will be appalled and shake their heads.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.15|<< Jeremiah 18:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.17|Jeremiah 18:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 40:11** 
 <small><sub>**LXX:**</sub></small>
 As a shepherd, he shall tend  his flock; and  his arm shall gather \[the\] lambs, and he shall comfort \[the\] one having one in \[the\] womb. 
-<small><sub>**KJV:**</sub></small>
-He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry [them] in his bosom, [and] shall gently lead those that are with young.
-<small><sub>**BSB:**</sub></small>
-He tends His flock like a shepherd; He gathers the lambs in His arms and carries them close to His heart. He gently leads the nursing ewes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.10|<< Isaiah 40:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.12|Isaiah 40:12 >>]]</td></tr></table>
 
 | Translation | Greek |

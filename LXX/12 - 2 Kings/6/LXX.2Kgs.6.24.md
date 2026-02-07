@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after these \[things\], that \[the\] son of Hadad king of Syria gathered all  his camp, and ascended, and besieged against Samaria. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after this, that Benhadad king of Syria gathered all his host, and went up, and besieged Samaria.
-<small><sub>**BSB:**</sub></small>
-Some time later, Ben-hadad king of Aram assembled his entire army and marched up to besiege Samaria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.23|<< 2 Kings 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.25|2 Kings 6:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 21:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:11**<big><big>[[Acts.21.8 Paul Visits Philip the Evangelist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was come unto us, he took Paul’s girdle, and bound his own hands and feet, and said, Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver [him] into the hands of the Gentiles.
 <small><sub>**BSB:**</sub></small>
 Coming over to us, he took Paul’s belt, bound his own feet and hands, and said, “The Holy Spirit says: ‘In this way the Jews of Jerusalem will bind the owner of this belt and hand him over to the Gentiles.’”
 <small><sub>**Literal:**</sub></small>
 and having come to us and having taken the belt <the> of Paul, having bound both of himself the feet and the hands he said; Thus says the Spirit <the> Holy; The man of whom is <the> belt this, in this way will bind in Jerusalem the Jews and will deliver [him] into [the] hands of [the] Gentiles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.10|<< Acts 21:10]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.12|Acts 21:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G2064\|ἐλθὼν]]</big>**  |elthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

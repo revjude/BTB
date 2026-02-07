@@ -1,12 +1,12 @@
 ## Bruhman Translator's Bible (BTB)
 
-A digital Bible compiled in markdown for the [Obsidian](https://obsidian.md) platform. The BTB provides English-speaking users access to study the Bible in the original Greek and Hebrew through an intuitive interface, with resources available for interpretation and translation from the source languages.
+A Bible compiled in Markdown for the [Obsidian](https://obsidian.md) platform. The BTB provides English-speaking users access to study the Bible in the original Greek and Hebrew, and offers a framework for developing new translations from the source manuscripts through an intuitive interface that puts interpretation and translation resources right at your fingertips. Applications range from personal study and small Bible study groups to academic classroom environments.
 
 ### Overview
 
-Obsidian's Wikipedia-style linking features work well for integrating the many Bible resources available in the public domain. This project attempts to bring together these resources into an interconnected study environment.
+Leaning into the wiki-style linking features of the Obsidian platform, The BTB transforms Bible study into an active, hands-on experience. Rather than passively reading a finished translation, users work through the text like a translator—comparing the original Greek and Hebrew manuscripts with traditional translations, consulting lexicons and many thousands of references, and crafting their own renderings of each passage. Think of it as a workbook that guides you through the process of translation: the KJV provides a familiar starting point rooted in the Majority Text, while the Berean Standard Bible offers a modern critical text for comparison. Whether you're a Sunday school teacher preparing lessons, an individual seeking deeper understanding of Scripture, or a student in an academic setting, the BTB gives you the tools to engage directly with the biblical languages and discover meaning for yourself.
 
-This work builds on the efforts of many scholars, theologians, and scribes whose painstaking digitization, analysis, and correction of ancient publications began years before modern tools made such tasks easier. The groups and individuals listed in the [Acknowledgments](#acknowledgments) section generously made their work freely available and provided the foundation for this project.
+This work builds on the efforts of many scholars, theologians, and scribes whose painstaking digitization, analysis, and correction of ancient publications began years before modern tools made such tasks easier. The groups and individuals listed in the [Acknowledgments](#acknowledgments) section below generously made their work freely available and provided the foundation for this project.
 
 **Important:** Initial setup requires patience. After cloning the repository or downloading the archive of over 130,000 individual notes, Obsidian's first indexing takes approximately one hour. Once complete, navigation is quick.
 

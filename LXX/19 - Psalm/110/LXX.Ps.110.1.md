@@ -6,10 +6,7 @@ A psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 The <span class="smallcaps">lord</span> said to my Lord, Sit down at my right \[hand\] until whenever I should make  your enemies a footstool  for your feet. 
-<small><sub>**KJV:**</sub></small>
-A Psalm of David. The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
-<small><sub>**BSB:**</sub></small>
-A Psalm of David. The LORD said to my Lord: “Sit at My right hand until I make Your enemies a footstool for Your feet.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.110.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.31|<< Psalm 109:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.110.2|Psalm 110:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 110:1** is...

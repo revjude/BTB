@@ -1,4 +1,4 @@
-**Lamentations 1:5** 
+**Lamentations 1:5**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her adversaries are the chief, her enemies prosper; for the LORD hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Her foes have become her masters; her enemies are at ease. For the LORD has brou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.4|<< Lamentations 1:4]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.6|Lamentations 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have become  |**<big>&#8207;[[H1961\|הָי֨וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | opponents her  |**<big>&#8207;[[H6862C\|צָרֶ֤י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| tza.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

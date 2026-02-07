@@ -1,12 +1,12 @@
-**Acts 19:35
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:35**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the townclerk had appeased the people, he said, [Ye] men of Ephesus, what man is there that knoweth not how that the city of the Ephesians is a worshipper of the great goddess Diana, and of the [image] which fell down from Jupiter?
 <small><sub>**BSB:**</sub></small>
 Finally the city clerk quieted the crowd and declared, “Men of Ephesus, doesn’t everyone know that the city of Ephesus is guardian of the temple of the great Artemis and of her image, which fell from heaven?
 <small><sub>**Literal:**</sub></small>
 having calmed then the town clerk the crowd he says; Men Ephesians, who for is there of men who not knows the of [the] Ephesians city temple-keeper as being of the great goddess Artemis and of that fallen from the sky?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.34|<< Acts 19:34]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.36|Acts 19:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having calmed |**<big>[[G2687\|καταστείλας]]</big>**  |katasteilas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

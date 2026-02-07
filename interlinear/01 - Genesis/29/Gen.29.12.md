@@ -1,4 +1,4 @@
-**Genesis 29:12** 
+**Genesis 29:12**<big><big>[[Gen.29.1 Jacob Meets Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob told Rachel that he [was] her father’s brother, and that he [was] Rebekah’s son: and she ran and told her father.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He told Rachel that he was Rebekah’s son, a relative of her father, and she ra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.11|<< Genesis 29:11]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.13|Genesis 29:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יַּגֵּ֨ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ged<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֜ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

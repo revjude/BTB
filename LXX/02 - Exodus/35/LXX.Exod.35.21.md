@@ -1,10 +1,7 @@
 **LXX Exodus 35:21** 
 <small><sub>**LXX:**</sub></small>
 And each brought what their heart offered. And the ones which it seemed \[good in\] their soul brought a choice portion to \[the\] <span class="smallcaps">lord</span> for all the works of the tent of the testimony, and for all the upkeep of it, and for all the holy apparels. 
-<small><sub>**KJV:**</sub></small>
-And they came, every one whose heart stirred him up, and every one whom his spirit made willing, [and] they brought the LORD’S offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.
-<small><sub>**BSB:**</sub></small>
-And everyone whose heart stirred him and whose spirit prompted him came and brought an offering to the LORD for the work on the Tent of Meeting, for all its services, and for the holy garments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.20|<< Exodus 35:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.22|Exodus 35:22 >>]]</td></tr></table>
 
 | Translation | Greek |

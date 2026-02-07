@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:38** 
 <small><sub>**LXX:**</sub></small>
 to utterly destroy great and stronger nations than you before your face, to bring you \[and\] to give to you  their land to inherit as you have today. 
-<small><sub>**KJV:**</sub></small>
-To drive out nations from before thee greater and mightier than thou [art], to bring thee in, to give thee their land [for] an inheritance, as [it is] this day.
-<small><sub>**BSB:**</sub></small>
-to drive out before you nations greater and mightier than you, and to bring you into their land and give it to you for your inheritance, as it is this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.37|<< Deuteronomy 4:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.39|Deuteronomy 4:39 >>]]</td></tr></table>
 
 | Translation | Greek |

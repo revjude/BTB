@@ -1,5 +1,5 @@
-**Revelation 16:21
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:21**<big><big>[[Rev.16.17 The Seventh Bowl of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there fell upon men a great hail out of heaven, [every stone] about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague thereof was exceeding great.
 <small><sub>**BSB:**</sub></small>
 And great hailstones weighing almost a hundred pounds each rained down on them from above. And men cursed God for the plague of hail, because it was so horrendous.
@@ -10,7 +10,7 @@ And a hail great about a talent weight comes down out of <the> heaven upon the m
 > $\quad$ possibly alluding to: [[LXX.Exod.9.24|Exod 9:24]] ☩ [[LXX.Exod.9.34|Exod 9:34]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a hail |**<big>[[G5464\|χάλαζα]]</big>**  |chalaza <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Joshua 21:25** 
+**Joshua 21:25**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And out of the half tribe of Manasseh, Tanach with her suburbs, and Gathrimmon with her suburbs; two cities.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And from the half-tribe of Manasseh they were given Taanach and Gath-rimmon—tw
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.24|<< Joshua 21:24]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.26|Joshua 21:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] half of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H4276\|מַּחֲצִית֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ma.cha.Tzit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tribe of  |**<big>&#8207;[[H4294H\|מַטֵּ֣ה]]&#8207; </big>**| ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

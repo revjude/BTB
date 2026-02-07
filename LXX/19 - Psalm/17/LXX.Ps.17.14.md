@@ -1,10 +1,7 @@
 **LXX Psalm 17:14** 
 <small><sub>**LXX:**</sub></small>
 From \[the\] enemies  by your hand, O <span class="smallcaps">lord</span>; from \[the\] few of \[the\] earth; divide them in  their life. And  of your \[things\] being hidden their belly was filled; they were filled of sons, and the remnants they leave \[to\] their infants. 
-<small><sub>**KJV:**</sub></small>
-From men [which are] thy hand, O LORD, from men of the world, [which have] their portion in [this] life, and whose belly thou fillest with thy hid [treasure]: they are full of children, and leave the rest of their [substance] to their babes.
-<small><sub>**BSB:**</sub></small>
-from such men, O LORD, by Your hand—from men of the world whose portion is in this life. May You fill the bellies of Your treasured ones and satisfy their sons, so they leave their abundance to their children.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.13|<< Psalm 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.15|Psalm 17:15 >>]]</td></tr></table>
 
 | Translation | Greek |

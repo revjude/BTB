@@ -1,12 +1,12 @@
-**Matthew 15:21
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:21**<big><big>[[Matt.15.21 The Faith of the Canaanite Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Jesus went thence, and departed into the coasts of Tyre and Sidon.
 <small><sub>**BSB:**</sub></small>
 Leaving that place, Jesus withdrew to the district of Tyre and Sidon.
 <small><sub>**Literal:**</sub></small>
 And having gone forth from there <the> Jesus withdrew to the district of Tyre and Sidon.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.20|<< Matthew 15:20]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.22|Matthew 15:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone forth |**<big>[[G1831\|ἐξελθὼν]]</big>**  |exelthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

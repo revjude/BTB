@@ -1,10 +1,7 @@
 **LXX Job 1:8** 
 <small><sub>**LXX:**</sub></small>
 And the <span class="smallcaps">lord</span> said to him, \[Have\] you been attentive then \[in\] your consideration to  my attendant Job, that there is none likened to him of the ones upon the earth, a blameless man, a man sincere and upright and fearing  God, at a distance from every wicked thing? 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Satan, Hast thou considered my servant Job, that [there is] none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Satan, “Have you considered My servant Job? For there is no one on earth like him, a man who is blameless and upright, who fears God and shuns evil.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.7|<< Job 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.9|Job 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

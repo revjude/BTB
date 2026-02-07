@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 26:31** 
 <small><sub>**LXX:**</sub></small>
 Of the Hebronites, Jerijah \[was\] the ruler of the Hebronites according to their generations, and according to their families. In the fortieth year of the kingship of David they were numbered, and \[the\] mighty man was found among them in Jazer of the Gileadite. 
-<small><sub>**KJV:**</sub></small>
-Among the Hebronites [was] Jerijah the chief, [even] among the Hebronites, according to the generations of his fathers. In the fortieth year of the reign of David they were sought for, and there were found among them mighty men of valour at Jazer of Gilead.
-<small><sub>**BSB:**</sub></small>
-As for the Hebronites, Jerijah was the chief of the Hebronites, according to the genealogies of his ancestors. In the fortieth year of David’s reign the records were searched, and strong, capable men were found among the Hebronites at Jazer in Gilead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.26.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.30|<< 1 Chronicles 26:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.32|1 Chronicles 26:32 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:40** 
 <small><sub>**LXX:**</sub></small>
 And you shall guard  his commandments, and  his ordinances, as many as I give charge to you today; that it should be good to you, and \[to\] your sons after you, so that you should be long-lived upon the earth, of which \[the\] <span class="smallcaps">lord</span>  your God gives to you all the days. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt keep therefore his statutes, and his commandments, which I command thee this day, that it may go well with thee, and with thy children after thee, and that thou mayest prolong [thy] days upon the earth, which the LORD thy God giveth thee, for ever.
-<small><sub>**BSB:**</sub></small>
-Keep His statutes and commandments, which I am giving you today, so that you and your children after you may prosper, and that you may live long in the land that the LORD your God is giving you for all time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.39|<< Deuteronomy 4:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.41|Deuteronomy 4:41 >>]]</td></tr></table>
 
 | Translation | Greek |

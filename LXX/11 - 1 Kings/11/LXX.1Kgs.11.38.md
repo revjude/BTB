@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:38** 
 <small><sub>**LXX:**</sub></small>
 And it will be if you should guard all as much as I gave charge to you, and should go in  my ways, and do the upright \[thing\] before me,  to keep  my orders, and  my commandments, as did David  my servant; then I will be with you, and I shall build for you a sure house, as I built  for David. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, if thou wilt hearken unto all that I command thee, and wilt walk in my ways, and do [that is] right in my sight, to keep my statutes and my commandments, as David my servant did; that I will be with thee, and build thee a sure house, as I built for David, and will give Israel unto thee.
-<small><sub>**BSB:**</sub></small>
-If you listen to all that I command you, walk in My ways, and do what is right in My sight in order to keep My statutes and commandments as My servant David did, then I will be with you. I will build you a lasting dynasty just as I built for David, and I will give Israel to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.37|<< 1 Kings 11:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.39|1 Kings 11:39 >>]]</td></tr></table>
 
 | Translation | Greek |

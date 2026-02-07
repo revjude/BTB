@@ -1,4 +1,4 @@
-**Deuteronomy 3:22** 
+**Deuteronomy 3:22**<big><big>[[Deut.3.12 Land Division East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not fear them: for the LORD your God he shall fight for you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not be afraid of them, for the LORD your God Himself will fight for you.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.21|<< Deuteronomy 3:21]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.23|Deuteronomy 3:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֖א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must fear them  |**<big>&#8207;[[H3372G\|תְִּירָא֑וּ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ti.ra.'U<small><sup>[[HVqi2mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

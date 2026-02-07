@@ -1,4 +1,4 @@
-**1 Kings 13:25** 
+**1 Kings 13:25**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, men passed by, and saw the carcase cast in the way, and the lion standing by the carcase: and they came and told [it] in the city where the old prophet dwelt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there were men passing by who saw the body lying in the road with the lion s
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.24|<< 1 Kings 13:24]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.26|1 Kings 13:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֧ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | men  |**<big>&#8207;[[H0582\|אֲנָשִׁ֣ים]]&#8207; </big>**| 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

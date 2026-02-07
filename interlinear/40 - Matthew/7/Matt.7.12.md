@@ -1,12 +1,12 @@
-**Matthew 7:12
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:12**<big><big>[[Matt.7.7 Ask, Seek, Knock|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.
 <small><sub>**BSB:**</sub></small>
 In everything, then, do to others as you would have them do to you. For this is the essence of the Law and the Prophets.
 <small><sub>**Literal:**</sub></small>
 All things therefore as much as maybe you shall desire that they shall enact for you the men, so also you yourselves do enact for them; This for is the law and the prophets.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.11|<< Matthew 7:11]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.13|Matthew 7:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All things |**<big>[[G3956\|Πάντα]]</big>**  |Panta <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 10:29** 
+**Isaiah 10:29**<big><big>[[Isa.10.20 A Remnant Shall Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are gone over the passage: they have taken up their lodging at Geba; Ramah is afraid; Gibeah of Saul is fled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They have crossed at the ford: “We will spend the night at Geba.” Ramah trem
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.28|<< Isaiah 10:28]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.30|Isaiah 10:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have passed over  |**<big>&#8207;[[H5674A\|עָֽבְרוּ֙]]&#8207; </big>**| 'a.ve.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] pass  |**<big>&#8207;[[H4569B\|מַעְבָּרָ֔ה]]&#8207; </big>**| ma'.ba.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

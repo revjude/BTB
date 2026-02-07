@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΔΑΛΕΘ</p>
 
 \[The\] ways of Zion mourn by \[reason of\]  there not being ones coming to \[the\] holiday \[feast\]. All  her gates have been obliterated.  Her priests are groaning,  her virgins are being led \[captive\], and she is being embittered in herself. 
-<small><sub>**KJV:**</sub></small>
-The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she [is] in bitterness.
-<small><sub>**BSB:**</sub></small>
-The roads to Zion mourn, because no one comes to her appointed feasts. All her gates are deserted; her priests groan, her maidens grieve, and she herself is bitter with anguish.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.3|<< Lamentations 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.5|Lamentations 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

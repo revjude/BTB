@@ -1,10 +1,7 @@
 **LXX Micah 7:4** 
 <small><sub>**LXX:**</sub></small>
 And I will take out  their good \[things\], as a moth chews away, and one proceeding by \[the\] rule in \[the\] day of \[the\] watch. Woe, your punishments came, now \[there\] shall be their weeping. 
-<small><sub>**KJV:**</sub></small>
-The best of them [is] as a brier: the most upright [is sharper] than a thorn hedge: the day of thy watchmen [and] thy visitation cometh; now shall be their perplexity.
-<small><sub>**BSB:**</sub></small>
-The best of them is like a brier; the most upright is sharper than a hedge of thorns. The day for your watchmen has come, the day of your visitation. Now is the time of their confusion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.3|<< Micah 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.5|Micah 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

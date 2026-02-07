@@ -1,12 +1,12 @@
-**Mark 7:27
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:27**<big><big>[[Mark.7.24 The Faith of the Gentile Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Jesus said unto her, Let the children first be filled: for it is not meet to take the children’s bread, and to cast [it] unto the dogs.
 <small><sub>**BSB:**</sub></small>
 “First let the children have their fill,” He said. “For it is not right to take the children’s bread and toss it to the dogs.”
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus He was saying to her; do permit first to be satisfied the children; not for it is good to take the bread of the children and to the dogs to cast [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.26|<< Mark 7:26]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.28|Mark 7:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | And [^1] |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

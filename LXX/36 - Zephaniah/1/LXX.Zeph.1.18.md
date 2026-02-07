@@ -1,10 +1,7 @@
 **LXX Zephaniah 1:18** 
 <small><sub>**LXX:**</sub></small>
 And  their silver and  their gold in no way shall be able to rescue them in \[the\] day of \[the\] anger of \[the\] <span class="smallcaps">lord</span>. And by fire his zeal shall consume all the land. For completion and diligence he will execute \[it\] upon all the ones dwelling the land. 
-<small><sub>**KJV:**</sub></small>
-Neither their silver nor their gold shall be able to deliver them in the day of the LORD’S wrath; but the whole land shall be devoured by the fire of his jealousy: for he shall make even a speedy riddance of all them that dwell in the land.
-<small><sub>**BSB:**</sub></small>
-Neither their silver nor their gold will be able to deliver them on the Day of the LORD’s wrath. The whole earth will be consumed by the fire of His jealousy.” For indeed, He will make a sudden end of all who dwell on the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.17|<< Zephaniah 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.2.1|Zephaniah 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

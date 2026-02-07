@@ -1,10 +1,7 @@
 **LXX Numbers 20:20** 
 <small><sub>**LXX:**</sub></small>
  And he said, You shall not go through of mine. And Edom came forth to meet with him with a heavy multitude, and with a strong hand. 
-<small><sub>**KJV:**</sub></small>
-And he said, Thou shalt not go through. And Edom came out against him with much people, and with a strong hand.
-<small><sub>**BSB:**</sub></small>
-But Edom insisted, “You may not pass through.” And they came out to confront the Israelites with a large army and a strong hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.19|<< Numbers 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.21|Numbers 20:21 >>]]</td></tr></table>
 
 | Translation | Greek |

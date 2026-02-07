@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:17** 
 <small><sub>**LXX:**</sub></small>
 Call the name Pharaoh Necho king of Egypt, Saon Esbeie Moed. 
-<small><sub>**KJV:**</sub></small>
-They did cry there, Pharaoh king of Egypt [is but] a noise; he hath passed the time appointed.
-<small><sub>**BSB:**</sub></small>
-There they will cry out: ‘Pharaoh king of Egypt was all noise; he has let the appointed time pass him by.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.16|<< Jeremiah 46:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.18|Jeremiah 46:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 15:1** 
+**Genesis 15:1**<big><big>[[Gen.15.1 God’s Covenant with Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I [am] thy shield, [and] thy exceeding great reward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After these events, the word of the LORD came to Abram in a vision: “Do not be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.24|<< Genesis 14:24]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.2|Genesis 15:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after  |**<big>&#8207;[[H0310A\|אַחַ֣ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Char<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the things  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697I\|דְּבָרִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

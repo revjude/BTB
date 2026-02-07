@@ -1,18 +1,18 @@
 (KJV) **Luke 15**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14|<< Luke 14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16|Luke 16 >>]]</td></tr></table>
 
-***The Parable of the Lost Sheep***&emsp;<small><sup>\[ [[Matt.18|Matthew 18:10–14]] ]</sup></small> ^bsb2442
+<big><big>[[Luke.15.1 The Parable of the Lost Sheep|⥃]]</big></big>***The Parable of the Lost Sheep***&emsp;<small><sup>\[ [[Matt.18|Matthew 18:10–14]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Luke.15.1|1]]**<span class="endversemarker">]</span> Then drew near unto him all the publicans and sinners for to hear him.<small><small>[^2]</small></small> <span class="startversemarker">[</span>**[[Luke.15.2|2]]**<span class="endversemarker">]</span> And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them.<small><small>[^3]</small></small> 
 
 $\quad$ <span class="startversemarker">[</span>**[[Luke.15.3|3]]**<span class="endversemarker">]</span> And he spake this parable unto them, saying, <span class="startversemarker">[</span>**[[Luke.15.4|4]]**<span class="endversemarker">]</span> <span style="color:red;">What man<small><small>[^4]</small></small> of you, having<small><small>[^5]</small></small> an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?</span> <span class="startversemarker">[</span>**[[Luke.15.5|5]]**<span class="endversemarker">]</span> <span style="color:red;">And when<small><small>[^6]</small></small> he hath found \[it\], he layeth<small><small>[^7]</small></small> \[it\] on his shoulders, rejoicing<small><small>[^8]</small></small>.</span> <span class="startversemarker">[</span>**[[Luke.15.6|6]]**<span class="endversemarker">]</span> <span style="color:red;">And when he cometh home, he calleth together \[his<small><small>[^9]</small></small>\] friends and neighbours, saying unto them, Rejoice with me; for<small><small>[^10]</small></small> I have found my sheep which was lost.</span> <span class="startversemarker">[</span>**[[Luke.15.7|7]]**<span class="endversemarker">]</span> <span style="color:red;">I say unto you, that likewise joy<small><small>[^11]</small></small> shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which<small><small>[^12]</small></small> need no repentance.</span>
 
-***The Parable of the Lost Coin*** ^bsb2443
+<big><big>[[Luke.15.8 The Parable of the Lost Coin|⥃]]</big></big>***The Parable of the Lost Coin***
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Luke.15.8|8]]**<span class="endversemarker">]</span> <span style="color:red;">Either what woman having ten pieces<small><small>[^13]</small></small> of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek<small><small>[^14]</small></small> diligently till she find \[it\]?</span> <span class="startversemarker">[</span>**[[Luke.15.9|9]]**<span class="endversemarker">]</span> <span style="color:red;">And when she hath found \[it\], she calleth \[her\] friends and \[her\] neighbours together, saying, Rejoice<small><small>[^15]</small></small> with me; for I have found the piece which I had lost.</span> <span class="startversemarker">[</span>**[[Luke.15.10|10]]**<span class="endversemarker">]</span> <span style="color:red;">Likewise, I say unto you, there<small><small>[^16]</small></small> is joy in the presence of the angels of God over one<small><small>[^17]</small></small> sinner that repenteth.</span>
 
-***The Parable of the Prodigal Son***&emsp;<small><sup>\[ [[Deut.21|Deuteronomy 21:18–21]] ]</sup></small> ^bsb2444
+<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥃]]</big></big>***The Parable of the Prodigal Son***&emsp;<small><sup>\[ [[Deut.21|Deuteronomy 21:18–21]] ]</sup></small>
 
  
 

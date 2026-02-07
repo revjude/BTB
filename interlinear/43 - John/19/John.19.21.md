@@ -1,12 +1,12 @@
-**John 19:21
-**<small><sub>**KJV:**</sub></small>
+**John 19:21**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said the chief priests of the Jews to Pilate, Write not, The King of the Jews; but that he said, I am King of the Jews.
 <small><sub>**BSB:**</sub></small>
 So the chief priests of the Jews said to Pilate, “Do not write, ‘The King of the Jews,’ but only that He said, ‘I am the King of the Jews.’”
 <small><sub>**Literal:**</sub></small>
 Were saying therefore <the> to Pilate the chief priests of the Jews; Not do write; The King of the Jews, but for He said; King I am of the Jews.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.20|<< John 19:20]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.22|John 19:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were saying |**<big>[[G3004G\|ἔλεγον]]</big>**  |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

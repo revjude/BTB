@@ -1,12 +1,12 @@
-**1 Corinthians 7:32
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:32**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I would have you without carefulness. He that is unmarried careth for the things that belong to the Lord, how he may please the Lord:
 <small><sub>**BSB:**</sub></small>
 I want you to be free from concern. The unmarried man is concerned about the work of the Lord, how he can please the Lord.
 <small><sub>**Literal:**</sub></small>
 I desire now you without concern to be. The unmarried man cares for the [things] of the Lord, how he may please the Lord;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.31|<< 1 Corinthians 7:31]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.33|1 Corinthians 7:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I desire |**<big>[[G2309\|θέλω]]</big>**  |thelō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

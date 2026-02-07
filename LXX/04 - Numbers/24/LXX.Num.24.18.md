@@ -1,10 +1,7 @@
 **LXX Numbers 24:18** 
 <small><sub>**LXX:**</sub></small>
 And Edom shall be an inheritance, and Esau his enemy shall be an inheritance. And Israel acted in strength. 
-<small><sub>**KJV:**</sub></small>
-And Edom shall be a possession, Seir also shall be a possession for his enemies; and Israel shall do valiantly.
-<small><sub>**BSB:**</sub></small>
-Edom will become a possession, as will Seir, his enemy; but Israel will perform with valor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.17|<< Numbers 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.19|Numbers 24:19 >>]]</td></tr></table>
 
 | Translation | Greek |

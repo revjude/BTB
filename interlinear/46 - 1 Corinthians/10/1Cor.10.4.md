@@ -1,12 +1,12 @@
-**1 Corinthians 10:4
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:4**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.
 <small><sub>**BSB:**</sub></small>
 and drank the same spiritual drink; for they drank from the spiritual rock that accompanied them, and that rock was Christ.
 <small><sub>**Literal:**</sub></small>
 and all the same spiritual they drank drink they were drinking for from [the] spiritual accompanying [them] rock, the rock then was <the> Christ;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.3|<< 1 Corinthians 10:3]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.5|1 Corinthians 10:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all |**<big>[[G3956\|πάντες]]</big>**  |pantes <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:2** 
 <small><sub>**LXX:**</sub></small>
 For they did not meet the sons of Israel with bread and water, and they hired against them  Balaam to curse them. And our God turned the curse into a blessing. 
-<small><sub>**KJV:**</sub></small>
-Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: howbeit our God turned the curse into a blessing.
-<small><sub>**BSB:**</sub></small>
-because they had not met the Israelites with food and water, but had hired Balaam to call down a curse against them (although our God had turned the curse into a blessing).<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.1|<< Nehemiah 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.3|Nehemiah 13:3 >>]]</td></tr></table>
 
 | Translation | Greek |

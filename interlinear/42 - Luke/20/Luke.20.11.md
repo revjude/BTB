@@ -1,12 +1,12 @@
-**Luke 20:11
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:11**<big><big>[[Luke.20.9 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And again he sent another servant: and they beat him also, and entreated [him] shamefully, and sent [him] away empty.
 <small><sub>**BSB:**</sub></small>
 So he sent another servant, but they beat him and treated him shamefully, sending him away empty-handed.
 <small><sub>**Literal:**</sub></small>
 And he proceeded another to send a servant; <the> but him having beaten and having dishonored they sent away empty-handed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.10|<< Luke 20:10]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.12|Luke 20:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he proceeded |**<big>[[G4369\|προσέθετο]]</big>**  |prosetheto <small><sup>[[V-2AMI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Numbers 1:52** 
+**Numbers 1:52**<big><big>[[Num.1.47 The Exemption of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Israelites are to camp by their divisions, each man in his own camp and unde
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.51|<< Numbers 1:51]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.53|Numbers 1:53 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will encamp  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2583\|חָנ֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.Nu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

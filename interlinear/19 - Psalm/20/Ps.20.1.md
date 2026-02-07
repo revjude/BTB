@@ -1,12 +1,12 @@
-**Psalms 20:1** (20:2)
+**Psalms 20:1**<big><big>[[Ps.20.1 The Day of Trouble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm of David. The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;
+The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David. May the LORD answer you in the day of trouble; may the name of the God of Jacob protect you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.20.0|<< Psalms 20:0]]</td><td align="center" style="border:none;">[[Ps.20|Psalms 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.20.2|Psalms 20:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may he answer you  |**<big>&#8207;[[H6030B\|יַֽעַנְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| ya.'an.<small><sup>[[HVqi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

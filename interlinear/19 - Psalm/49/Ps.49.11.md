@@ -1,4 +1,4 @@
-**Psalms 49:11** (49:12)
+**Psalms 49:11**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their inward thought [is, that] their houses [shall continue] for ever, [and] their dwelling places to all generations; they call [their] lands after their own names.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their graves are their eternal homes—their dwellings for endless generations�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.10|<< Psalms 49:10]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.12|Psalms 49:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | inner being their  |**<big>&#8207;[[H7130H\|קִרְבָּ֤]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| kir.Ba<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | houses their  |**<big>&#8207;[[H1004B\|בָּתֵּ֨י]]&#8207;&#8207;[[H9028\|מוֹ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ba.Tei.<small><sup>[[HNcmpc]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

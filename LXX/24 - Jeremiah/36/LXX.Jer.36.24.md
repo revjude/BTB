@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:24** 
 <small><sub>**LXX:**</sub></small>
 And they were not amazed, and they tore not  their garments -- the king and all  his servants, the ones hearing all  these words. 
-<small><sub>**KJV:**</sub></small>
-Yet they were not afraid, nor rent their garments, [neither] the king, nor any of his servants that heard all these words.
-<small><sub>**BSB:**</sub></small>
-Yet in hearing all these words, the king and his servants did not become frightened or tear their garments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.23|<< Jeremiah 36:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.25|Jeremiah 36:25 >>]]</td></tr></table>
 
 | Translation | Greek |

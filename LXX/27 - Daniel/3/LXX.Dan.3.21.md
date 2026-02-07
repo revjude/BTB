@@ -1,10 +1,7 @@
 **LXX Daniel 3:21** 
 <small><sub>**LXX:**</sub></small>
 Then  those men were shackled with  their pantaloons, and tiaras, and leggings, and their garments. And they were thrown into the midst of the burning furnace of fire, 
-<small><sub>**KJV:**</sub></small>
-Then these men were bound in their coats, their hosen, and their hats, and their [other] garments, and were cast into the midst of the burning fiery furnace.
-<small><sub>**BSB:**</sub></small>
-So they were tied up, wearing robes, trousers, turbans, and other clothes, and they were thrown into the blazing fiery furnace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.20|<< Daniel 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.22|Daniel 3:22 >>]]</td></tr></table>
 
 | Translation | Greek |

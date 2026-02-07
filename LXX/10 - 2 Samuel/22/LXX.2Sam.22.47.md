@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:47** 
 <small><sub>**LXX:**</sub></small>
 As \[the\] <span class="smallcaps">lord</span> lives -- for blessed be the one shaping me, and my God shall be raised up high --  my deliverer. 
-<small><sub>**KJV:**</sub></small>
-The LORD liveth; and blessed [be] my rock; and exalted be the God of the rock of my salvation.
-<small><sub>**BSB:**</sub></small>
-The LORD lives, and blessed be my Rock! And may God, the Rock of my salvation, be exalted—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.46|<< 2 Samuel 22:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.48|2 Samuel 22:48 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Micah 6:16** 
+**Micah 6:16**<big><big>[[Mic.6.9 The Punishment of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the statutes of Omri are kept, and all the works of the house of Ahab, and ye walk in their counsels; that I should make thee a desolation, and the inhabitants thereof an hissing: therefore ye shall bear the reproach of my people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have kept the statutes of Omri and all the practices of Ahab’s house; you 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.15|<< Micah 6:15]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.1|Micah 7:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so \<it> may be kept  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8104G\|יִשְׁתַּמֵּ֞ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yish.ta.Mer<small><sup>[[HVtu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] statutes of  |**<big>&#8207;[[H2708\|חֻקּ֣וֹת]]&#8207; </big>**| chu.Kot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

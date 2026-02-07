@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:19** 
 <small><sub>**LXX:**</sub></small>
 A covenant between me and between you, and between  my father and  your father! Behold, I have sent to you gifts of silver and of gold, come efface  your covenant  with Baasha king of Israel! and he shall ascend from me. 
-<small><sub>**KJV:**</sub></small>
-[There is] a league between me and thee, [and] between my father and thy father: behold, I have sent unto thee a present of silver and gold; come and break thy league with Baasha king of Israel, that he may depart from me.
-<small><sub>**BSB:**</sub></small>
-“Let there be a treaty between me and you as there was between my father and your father. See, I have sent you a gift of silver and gold. Now go and break your treaty with Baasha king of Israel, so that he will withdraw from me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.18|<< 1 Kings 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.20|1 Kings 15:20 >>]]</td></tr></table>
 
 | Translation | Greek |

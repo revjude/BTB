@@ -1,12 +1,12 @@
-**John 17:1
-**<small><sub>**KJV:**</sub></small>
+**John 17:1**<big><big>[[John.17.1 Prayer for the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:
 <small><sub>**BSB:**</sub></small>
 When Jesus had spoken these things, He lifted up His eyes to heaven and said, “Father, the hour has come. Glorify Your Son, that Your Son may glorify You.
 <small><sub>**Literal:**</sub></small>
 These things spoke <the> Jesus, and having lifted up the eyes of Him to <the> heaven and He said; Father, has come the hour; do glorify Your <the> Son, that also the Son of you may glorify You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.33|<< John 16:33]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.2|John 17:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|Ταῦτα]]</big>**  |Tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | spoke |**<big>[[G2980\|ἐλάλησεν]]</big>**  |elalēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

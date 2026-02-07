@@ -1,4 +1,4 @@
-**Proverbs 18:19** 
+**Proverbs 18:19**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A brother offended [is harder to be won] than a strong city: and [their] contentions [are] like the bars of a castle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ An offended brother is harder to win than a fortified city, and disputes are lik
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.18|<< Proverbs 18:18]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.20|Proverbs 18:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a brother  |**<big>&#8207;[[H0251G\|אָ֗ח]]&#8207; </big>**| 'Ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | transgressed  |**<big>&#8207;[[H6586\|נִפְשָׁ֥ע]]&#8207; </big>**| nif.Sha'<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

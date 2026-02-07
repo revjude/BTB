@@ -1,4 +1,4 @@
-**Joshua 13:7** 
+**Joshua 13:7**<big><big>[[Josh.13.1 Lands Yet Unconquered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore divide this land for an inheritance unto the nine tribes, and the half tribe of Manasseh,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now therefore divide this land as an inheritance to the nine tribes and the half
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.6|<< Joshua 13:6]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.8|Joshua 13:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | apportion  |**<big>&#8207;[[H2505A\|חַלֵּ֞ק]]&#8207; </big>**| cha.Lek<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

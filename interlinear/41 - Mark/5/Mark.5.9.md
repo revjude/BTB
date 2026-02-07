@@ -1,12 +1,12 @@
-**Mark 5:9
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:9**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he asked him, What [is] thy name? And he answered, saying, My name [is] Legion: for we are many.
 <small><sub>**BSB:**</sub></small>
 “What is your name?” Jesus asked. “My name is Legion,” he replied, “for we are many.”
 <small><sub>**Literal:**</sub></small>
 And He was asking him; What [is] [the] name of you And he answered he says to him; Legion [is] name to Me because many we are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.8|<< Mark 5:8]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.10|Mark 5:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was asking |**<big>[[G1905\|ἐπηρώτα]]</big>**  |epērōta <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

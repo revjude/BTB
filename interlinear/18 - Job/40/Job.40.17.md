@@ -1,4 +1,4 @@
-**Job 40:17** 
+**Job 40:17**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He moveth his tail like a cedar: the sinews of his stones are wrapped together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His tail sways like a cedar; the sinews of his thighs are tightly knit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.16|<< Job 40:16]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.18|Job 40:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it stiffens  |**<big>&#8207;[[H2654B\|יַחְפֹּ֣ץ]]&#8207; </big>**| yach.Potz<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | tail its  |**<big>&#8207;[[H2180\|זְנָב֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ze.na.V<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

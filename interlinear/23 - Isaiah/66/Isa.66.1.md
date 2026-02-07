@@ -1,4 +1,4 @@
-**Isaiah 66:1** 
+**Isaiah 66:1**<big><big>[[Isa.66.1 Heaven Is My Throne|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, The heaven [is] my throne, and the earth [is] my footstool: where [is] the house that ye build unto me? and where [is] the place of my rest?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ This is what the LORD says: “Heaven is My throne, and earth is My footstool. W
 > $\quad$ referenced by: [[Matt.5.34|Matt 5:34-35]] ☩ [[Acts.7.49|Acts 7:49-50]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֚ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

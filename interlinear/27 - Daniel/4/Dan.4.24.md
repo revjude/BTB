@@ -1,4 +1,4 @@
-**Daniel 4:24** (4:21)
+**Daniel 4:24**<big><big>[[Dan.4.19 Daniel Interprets the Second Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the interpretation, O king, and this [is] the decree of the most High, which is come upon my lord the king:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the interpretation, O king, and this is the decree that the Most High ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.23|<< Daniel 4:23]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.25|Daniel 4:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H1836\|דְּנָ֥ה]]&#8207; </big>**| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] interpretation the  |**<big>&#8207;[[H6591\|פִשְׁרָ֖]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| fish.Ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

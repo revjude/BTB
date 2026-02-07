@@ -1,10 +1,7 @@
 **LXX Isaiah 33:13** 
 <small><sub>**LXX:**</sub></small>
 The ones at a distance shall hear what I did; and the ones approaching shall know  my strength. 
-<small><sub>**KJV:**</sub></small>
-Hear, ye [that are] far off, what I have done; and, ye [that are] near, acknowledge my might.
-<small><sub>**BSB:**</sub></small>
-You who are far off, hear what I have done; you who are near, acknowledge My might.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.33.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.12|<< Isaiah 33:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.14|Isaiah 33:14 >>]]</td></tr></table>
 
 | Translation | Greek |

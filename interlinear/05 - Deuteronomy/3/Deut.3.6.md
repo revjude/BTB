@@ -1,4 +1,4 @@
-**Deuteronomy 3:6** 
+**Deuteronomy 3:6**<big><big>[[Deut.3.1 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we utterly destroyed them, as we did unto Sihon king of Heshbon, utterly destroying the men, women, and children, of every city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We devoted them to destruction, as we had done to Sihon king of Heshbon, utterly
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.5|<< Deuteronomy 3:5]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.7|Deuteronomy 3:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we totally destroyed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2763A\|נַּחֲרֵ֣ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> na.cha.Rem<small><sup>[[HVhw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָ֔]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

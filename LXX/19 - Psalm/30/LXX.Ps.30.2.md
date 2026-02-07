@@ -1,10 +1,7 @@
 **LXX Psalm 30:2** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>  my God, I cried out to you, and I shall heal of my \[condition\]. 
-<small><sub>**KJV:**</sub></small>
-O LORD my God, I cried unto thee, and thou hast healed me.
-<small><sub>**BSB:**</sub></small>
-O LORD my God, I cried to You for help, and You healed me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.30.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.1|<< Psalm 30:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.30.3|Psalm 30:3 >>]]</td></tr></table>
 
 | Translation | Greek |

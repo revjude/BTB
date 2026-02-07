@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:22** 
 <small><sub>**LXX:**</sub></small>
 Behold, I order it, says \[the\] <span class="smallcaps">lord</span>; and I will return them into  this city. And they shall wage war against her, and shall take her, and shall incinerate her in fire; and the cities of Judah -- I will make them for untrodden of ones dwelling. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will command, saith the LORD, and cause them to return to this city; and they shall fight against it, and take it, and burn it with fire: and I will make the cities of Judah a desolation without an inhabitant.
-<small><sub>**BSB:**</sub></small>
-Behold, I am going to give the command, declares the LORD, and I will bring them back to this city. They will fight against it, capture it, and burn it down. And I will make the cities of Judah a desolation, without inhabitant.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.21|<< Jeremiah 34:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.1|Jeremiah 35:1 >>]]</td></tr></table>
 
 | Translation | Greek |

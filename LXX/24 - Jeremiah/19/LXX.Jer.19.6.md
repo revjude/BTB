@@ -1,10 +1,7 @@
 **LXX Jeremiah 19:6** 
 <small><sub>**LXX:**</sub></small>
 On account of this, days come, says \[the\] <span class="smallcaps">lord</span>, and they shall not call  this place still, Downfall, and Cemetery of \[the\] son of Hinnom, but Cemetery of the Slaughter. 
-<small><sub>**KJV:**</sub></small>
-Therefore, behold, the days come, saith the LORD, that this place shall no more be called Tophet, nor The valley of the son of Hinnom, but The valley of slaughter.
-<small><sub>**BSB:**</sub></small>
-So behold, the days are coming, declares the LORD, when this place will no longer be called Topheth or the Valley of Ben-hinnom, but the Valley of Slaughter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.5|<< Jeremiah 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.7|Jeremiah 19:7 >>]]</td></tr></table>
 
 | Translation | Greek |

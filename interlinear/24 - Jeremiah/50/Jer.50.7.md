@@ -1,4 +1,4 @@
-**Jeremiah 50:7** 
+**Jeremiah 50:7**<big><big>[[Jer.50.4 Hope for Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All that found them have devoured them: and their adversaries said, We offend not, because they have sinned against the LORD, the habitation of justice, even the LORD, the hope of their fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All who found them devoured them, and their enemies said, ‘We are not guilty, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.6|<< Jeremiah 50:6]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.8|Jeremiah 50:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] found them  |**<big>&#8207;[[H4672\|מוֹצְאֵי]]&#8207;&#8207;[[H9038\|הֶ֣ם]]&#8207; </big>**| motz.'ei.<small><sup>[[HVqrmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

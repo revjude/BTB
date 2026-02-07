@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:24** 
 <small><sub>**LXX:**</sub></small>
 And she saddled the donkey, and said \[to\] her servant, You lead, and go! Do not wait for me  to mount. For if I said to you, Go, then you shall go and shall come to the man  of God in mount  Carmel. 
-<small><sub>**KJV:**</sub></small>
-Then she saddled an ass, and said to her servant, Drive, and go forward; slack not [thy] riding for me, except I bid thee.
-<small><sub>**BSB:**</sub></small>
-Then she saddled the donkey and told her servant, “Drive onward; do not slow the pace for me unless I tell you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.23|<< 2 Kings 4:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.25|2 Kings 4:25 >>]]</td></tr></table>
 
 | Translation | Greek |

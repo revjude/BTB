@@ -1,10 +1,7 @@
 **LXX Exodus 31:4** 
 <small><sub>**LXX:**</sub></small>
 and to supervise construction; to work the gold, and the silver, and the brass, and the blue, and the purple and the spun scarlet, 
-<small><sub>**KJV:**</sub></small>
-To devise cunning works, to work in gold, and in silver, and in brass,
-<small><sub>**BSB:**</sub></small>
-to design artistic works in gold, silver, and bronze,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.3|<< Exodus 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.31.5|Exodus 31:5 >>]]</td></tr></table>
 
 | Translation | Greek |

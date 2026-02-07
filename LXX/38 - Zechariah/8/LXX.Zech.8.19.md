@@ -1,10 +1,7 @@
 **LXX Zechariah 8:19** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> almighty, Fasting on the fourth \[month\], and fasting on the fifth, and fasting on the seventh, and fasting on the tenth, shall be to the house of Judah for joy and gladness, and for good holiday \[feasts\]; and you shall be glad, and  love truth and peace. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts; The fast of the fourth [month], and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and gladness, and cheerful feasts; therefore love the truth and peace.
-<small><sub>**BSB:**</sub></small>
-“This is what the LORD of Hosts says: The fasts of the fourth, the fifth, the seventh, and the tenth months will become times of joy and gladness, cheerful feasts for the house of Judah. Therefore you are to love both truth and peace.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.18|<< Zechariah 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.20|Zechariah 8:20 >>]]</td></tr></table>
 
 | Translation | Greek |

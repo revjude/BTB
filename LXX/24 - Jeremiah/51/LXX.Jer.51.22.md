@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:22** 
 <small><sub>**LXX:**</sub></small>
 And I will scatter by you husband and wife. And I will scatter by you \[the\] old man and child. And I will scatter by you \[the\] young man and virgin. 
-<small><sub>**KJV:**</sub></small>
-With thee also will I break in pieces man and woman; and with thee will I break in pieces old and young; and with thee will I break in pieces the young man and the maid;
-<small><sub>**BSB:**</sub></small>
-With you I shatter man and woman; with you I shatter the old man and the youth; with you I shatter the young man and the maiden.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.21|<< Jeremiah 51:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.23|Jeremiah 51:23 >>]]</td></tr></table>
 
 | Translation | Greek |

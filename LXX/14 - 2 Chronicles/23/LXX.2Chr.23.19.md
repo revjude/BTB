@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 23:19** 
 <small><sub>**LXX:**</sub></small>
 And the gatekeepers stood at the gates of \[the\] house of \[the\] <span class="smallcaps">lord</span>, that there shall not enter in anything unclean. 
-<small><sub>**KJV:**</sub></small>
-And he set the porters at the gates of the house of the LORD, that none [which was] unclean in any thing should enter in.
-<small><sub>**BSB:**</sub></small>
-He stationed gatekeepers at the gates of the house of the LORD, so that no one who was in any way unclean could enter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.18|<< 2 Chronicles 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.20|2 Chronicles 23:20 >>]]</td></tr></table>
 
 | Translation | Greek |

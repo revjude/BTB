@@ -1,4 +1,4 @@
-**Ezekiel 22:5** 
+**Ezekiel 22:5**<big><big>[[Ezek.22.1 The Sins of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Those that be] near, and [those that be] far from thee, shall mock thee, [which art] infamous [and] much vexed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Those near and far will mock you, O infamous city, full of turmoil.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.4|<< Ezekiel 22:4]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.6|Ezekiel 22:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [nations] nearby  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7138\|קְּרֹב֛וֹת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.ro.Vot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and the [nations] far off  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7350\|רְחֹק֥וֹת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> re.cho.Kot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

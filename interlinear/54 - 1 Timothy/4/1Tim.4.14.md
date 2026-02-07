@@ -1,12 +1,12 @@
-**1 Timothy 4:14
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 4:14**<big><big>[[1Tim.4.6 A Good Servant of Jesus Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neglect not the gift that is in thee, which was given thee by prophecy, with the laying on of the hands of the presbytery.
 <small><sub>**BSB:**</sub></small>
 Do not neglect the gift that is in you, which was given you through the prophecy spoken over you at the laying on of the hands of the elders.
 <small><sub>**Literal:**</sub></small>
 Not do be negligent of the in you gift which was given to you through prophecy with [the] laying on of the hands of the elderhood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.4.13|<< 1 Timothy 4:13]]</td><td align="center" style="border:none;">[[1Tim.4|1 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.4.15|1 Timothy 4:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do be negligent |**<big>[[G0272\|ἀμέλει]]</big>**  |amelei <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

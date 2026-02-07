@@ -1,4 +1,4 @@
-**Genesis 29:25** 
+**Genesis 29:25**<big><big>[[Gen.29.14 Jacob Marries Leah and Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that in the morning, behold, it [was] Leah: and he said to Laban, What [is] this thou hast done unto me? did not I serve with thee for Rachel? wherefore then hast thou beguiled me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When morning came, there was Leah! “What have you done to me?” Jacob said to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.24|<< Genesis 29:24]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.26|Genesis 29:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the morning  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1242\|בֹּ֔קֶר]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

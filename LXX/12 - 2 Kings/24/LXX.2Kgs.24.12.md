@@ -1,10 +1,7 @@
 **LXX 2 Kings 24:12** 
 <small><sub>**LXX:**</sub></small>
 And Jehoiachin king of Judah came forth to the king of Babylon, he and  his mother, and  his servants, and  his rulers, and  his eunuchs. And \[the\] king of Babylon took them in the eighth year  of his kingdom. 
-<small><sub>**KJV:**</sub></small>
-And Jehoiachin the king of Judah went out to the king of Babylon, he, and his mother, and his servants, and his princes, and his officers: and the king of Babylon took him in the eighth year of his reign.
-<small><sub>**BSB:**</sub></small>
-Jehoiachin king of Judah, his mother, his servants, his commanders, and his officials all surrendered to the king of Babylon. So in the eighth year of his reign, the king of Babylon took him captive.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.24.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.11|<< 2 Kings 24:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.13|2 Kings 24:13 >>]]</td></tr></table>
 
 | Translation | Greek |

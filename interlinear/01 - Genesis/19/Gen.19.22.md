@@ -1,4 +1,4 @@
-**Genesis 19:22** 
+**Genesis 19:22**<big><big>[[Gen.19.12 Lot Flees to Zoar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Haste thee, escape thither; for I cannot do any thing till thou be come thither. Therefore the name of the city was called Zoar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hurry! Run there quickly, for I cannot do anything until you reach it.” That i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.21|<< Genesis 19:21]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.23|Genesis 19:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hurry  |**<big>&#8207;[[H4116A\|מַהֵר֙]]&#8207; </big>**| ma.Her<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | escape  |**<big>&#8207;[[H4422\|הִמָּלֵ֣ט]]&#8207; </big>**| hi.ma.Let<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

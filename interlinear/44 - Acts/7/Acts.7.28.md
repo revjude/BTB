@@ -1,5 +1,5 @@
-**Acts 7:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:28**<big><big>[[Acts.7.23 The Rejection and Flight of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wilt thou kill me, as thou diddest the Egyptian yesterday?
 <small><sub>**BSB:**</sub></small>
 Do you want to kill me as you killed the Egyptian yesterday?’
@@ -10,7 +10,7 @@ Surely not to execute me you yourself desire [the] same way you executed yesterd
 > $\quad$ referencing: [[LXX.Exod.2.13|Exod 2:13-15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to execute |**<big>[[G0337\|ἀνελεῖν]]</big>**  |anelein <small><sup>[[V-2AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

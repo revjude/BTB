@@ -1,10 +1,7 @@
 **LXX Jeremiah 10:3** 
 <small><sub>**LXX:**</sub></small>
 For the laws of the nations \[are\] vain. \[An idol\] is a tree being cut from out of the forest, \[the\] work of a fabricator, even a molten casting. 
-<small><sub>**KJV:**</sub></small>
-For the customs of the people [are] vain: for [one] cutteth a tree out of the forest, the work of the hands of the workman, with the axe.
-<small><sub>**BSB:**</sub></small>
-For the customs of the peoples are worthless; they cut down a tree from the forest; it is shaped with a chisel by the hands of a craftsman.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.10.2|<< Jeremiah 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.10.4|Jeremiah 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

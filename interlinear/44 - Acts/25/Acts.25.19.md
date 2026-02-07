@@ -1,12 +1,12 @@
-**Acts 25:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:19**<big><big>[[Acts.25.13 Festus Consults Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But had certain questions against him of their own superstition, and of one Jesus, which was dead, whom Paul affirmed to be alive.
 <small><sub>**BSB:**</sub></small>
 They only had some contentions with him regarding their own religion and a certain Jesus who had died, but whom Paul affirmed to be alive.
 <small><sub>**Literal:**</sub></small>
 Questions however certain concerning the own religion they had against him and concerning a certain Jesus having died whom was affirming <the> Paul to be alive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.18|<< Acts 25:18]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.20|Acts 25:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Questions |**<big>[[G2213\|ζητήματα]]</big>**  |zētēmata <small><sup>[[N-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

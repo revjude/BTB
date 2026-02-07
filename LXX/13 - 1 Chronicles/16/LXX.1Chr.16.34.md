@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:34** 
 <small><sub>**LXX:**</sub></small>
 Make acknowledgment to the <span class="smallcaps">lord</span> for good! for his mercy into the eon. 
-<small><sub>**KJV:**</sub></small>
-O give thanks unto the LORD; for [he is] good; for his mercy [endureth] for ever.
-<small><sub>**BSB:**</sub></small>
-Give thanks to the LORD, for He is good; His loving devotion endures forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.33|<< 1 Chronicles 16:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.35|1 Chronicles 16:35 >>]]</td></tr></table>
 
 | Translation | Greek |

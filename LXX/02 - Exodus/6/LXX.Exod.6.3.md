@@ -1,10 +1,7 @@
 **LXX Exodus 6:3** 
 <small><sub>**LXX:**</sub></small>
 And I appeared to Abraham, and Isaac, and Jacob, being their God. And  my name, \[the\] <span class="smallcaps">lord</span>, \[was\] not manifested to them. 
-<small><sub>**KJV:**</sub></small>
-And I appeared unto Abraham, unto Isaac, and unto Jacob, by [the name of] God Almighty, but by my name JEHOVAH was I not known to them.
-<small><sub>**BSB:**</sub></small>
-I appeared to Abraham, to Isaac, and to Jacob as God Almighty, but by My name the LORD I did not make Myself known to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.2|<< Exodus 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.4|Exodus 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

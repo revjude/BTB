@@ -1,10 +1,7 @@
 **LXX Numbers 7:69** 
 <small><sub>**LXX:**</sub></small>
 one calf from \[the\] oxen, one ram, one he-lamb of a year \[old\] for a whole burnt-offering; 
-<small><sub>**KJV:**</sub></small>
-One young bullock, one ram, one lamb of the first year, for a burnt offering:
-<small><sub>**BSB:**</sub></small>
-one young bull, one ram, and one male lamb a year old for a burnt offering;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.69|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.68|<< Numbers 7:68]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.70|Numbers 7:70 >>]]</td></tr></table>
 
 | Translation | Greek |

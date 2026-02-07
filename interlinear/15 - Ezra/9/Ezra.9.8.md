@@ -1,4 +1,4 @@
-**Ezra 9:8** 
+**Ezra 9:8**<big><big>[[Ezra.9.5 Ezra’s Prayer of Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now for a little space grace hath been [shewed] from the LORD our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But now, for a brief moment, grace has come from the LORD our God to preserve fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.7|<< Ezra 9:7]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.9|Ezra 9:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֡ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a little of  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H4592\|מְעַט]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> m.'at-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

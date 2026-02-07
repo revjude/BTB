@@ -1,4 +1,4 @@
-**Job 22:17** 
+**Job 22:17**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which said unto God, Depart from us: and what can the Almighty do for them?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They said to God, ‘Depart from us. What can the Almighty do to us?’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.16|<< Job 22:16]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.18|Job 22:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who were saying  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0559\|אֹמְרִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.me.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> God  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H0410G\|אֵל]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> 'el<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 6:49
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:49**<big><big>[[Mark.6.45 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when they saw him walking upon the sea, they supposed it had been a spirit, and cried out:
 <small><sub>**BSB:**</sub></small>
 but when they saw Him walking on the sea, they cried out, thinking He was a ghost—
 <small><sub>**Literal:**</sub></small>
 <the> And having seen Him on the sea walking they thought that a ghost [it] is, and cried out;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.48|<< Mark 6:48]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.50|Mark 6:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

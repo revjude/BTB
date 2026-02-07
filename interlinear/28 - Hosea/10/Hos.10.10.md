@@ -1,4 +1,4 @@
-**Hosea 10:10** 
+**Hosea 10:10**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] in my desire that I should chastise them; and the people shall be gathered against them, when they shall bind themselves in their two furrows.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will chasten them when I please; nations will be gathered against them to put 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.9|<< Hosea 10:9]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.11|Hosea 10:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | at desire my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0185\|אַוָּתִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.va.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I will discipline them  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3256\|אֶסֳּרֵ֑]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.so.Re<small><sup>[[HVqu1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -6,10 +6,7 @@ To the director; for the assistance of the early morning; a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 O God,  my God, take heed to me! Why did you abandon me? The words of my transgressions \[are\] far from my deliverance. 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician upon Aijeleth Shahar, A Psalm of David. My God, my God, why hast thou forsaken me? [why art thou so] far from helping me, [and from] the words of my roaring?
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. To the tune of “The Doe of the Dawn.” A Psalm of David. My God, my God, why have You forsaken me? Why are You so far from saving me, so far from my words of groaning?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.21.13|<< Psalm 21:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.2|Psalm 22:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:1** is...

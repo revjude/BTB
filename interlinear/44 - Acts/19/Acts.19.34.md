@@ -1,12 +1,12 @@
-**Acts 19:34
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:34**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when they knew that he was a Jew, all with one voice about the space of two hours cried out, Great [is] Diana of the Ephesians.
 <small><sub>**BSB:**</sub></small>
 But when they realized that he was a Jew, they all shouted in unison for about two hours: “Great is Artemis of the Ephesians!”
 <small><sub>**Literal:**</sub></small>
 Having recognized however that a Jew he is, a cry there was one from all about ongoing hours two crying out; Great [is] <the> Artemis of [the] Ephesians.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.33|<< Acts 19:33]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.35|Acts 19:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having recognized [^1] |**<big>[[G1921\|ἐπιγνόντες]]</big>**  |epignontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 22:18** 
 <small><sub>**LXX:**</sub></small>
 and will toss you into a great and unmeasured place, and there you shall die; and he will establish  your good chariot for dishonor, and the house  of your ruler for trampling. 
-<small><sub>**KJV:**</sub></small>
-He will surely violently turn and toss thee [like] a ball into a large country: there shalt thou die, and there the chariots of thy glory [shall be] the shame of thy lord’s house.
-<small><sub>**BSB:**</sub></small>
-roll you into a ball, and sling you into a wide land. There you will die, and there your glorious chariots will remain—a disgrace to the house of your master.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.17|<< Isaiah 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.19|Isaiah 22:19 >>]]</td></tr></table>
 
 | Translation | Greek |

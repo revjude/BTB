@@ -1,10 +1,7 @@
 **LXX Numbers 15:36** 
 <small><sub>**LXX:**</sub></small>
 And all the congregation led him outside the camp; and they stoned him, as \[the\] <span class="smallcaps">lord</span> gave orders  \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And all the congregation brought him without the camp, and stoned him with stones, and he died; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-So the whole congregation took the man outside the camp and stoned him to death, as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.35|<< Numbers 15:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.37|Numbers 15:37 >>]]</td></tr></table>
 
 | Translation | Greek |

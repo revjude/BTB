@@ -1,12 +1,12 @@
-**Ephesians 3:21
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 3:21**<big><big>[[Eph.3.14 Paul’s Prayer for the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Unto him [be] glory in the church by Christ Jesus throughout all ages, world without end. Amen.
 <small><sub>**BSB:**</sub></small>
 to Him be the glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.
 <small><sub>**Literal:**</sub></small>
 to Him [be] the glory in the church and in Christ Jesus to all the generations of the age of the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.20|<< Ephesians 3:20]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.1|Ephesians 4:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to Him [be] |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Mark 2:21
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:21**<big><big>[[Mark.2.21 The Patches and the Wineskins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 No man also seweth a piece of new cloth on an old garment: else the new piece that filled it up taketh away from the old, and the rent is made worse.
 <small><sub>**BSB:**</sub></small>
 No one sews a patch of unshrunk cloth on an old garment. If he does, the new piece will pull away from the old, and a worse tear will result.
 <small><sub>**Literal:**</sub></small>
 and No [one] a patch of cloth unshrunk sews on clothing old; lest then except tears away the patch from it <the> new from the old, And worse a tear takes place.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.20|<< Mark 2:20]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.22|Mark 2:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | No [one] |**<big>[[G3762\|οὐδεὶς]]</big>**  |oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

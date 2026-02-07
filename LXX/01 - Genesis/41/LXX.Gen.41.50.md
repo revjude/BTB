@@ -1,10 +1,7 @@
 **LXX Genesis 41:50** 
 <small><sub>**LXX:**</sub></small>
  And to Joseph were born two sons before the coming of the seven years  of famine, which Asenath bore to him, the daughter of Poti-phera, priest of Heliopolis. 
-<small><sub>**KJV:**</sub></small>
-And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Potipherah priest of On bare unto him.
-<small><sub>**BSB:**</sub></small>
-Before the years of famine arrived, two sons were born to Joseph by Asenath daughter of Potiphera, priest of On.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.49|<< Genesis 41:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.51|Genesis 41:51 >>]]</td></tr></table>
 
 | Translation | Greek |

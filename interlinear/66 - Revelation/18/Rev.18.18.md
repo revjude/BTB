@@ -1,5 +1,5 @@
-**Revelation 18:18
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:18**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And cried when they saw the smoke of her burning, saying, What [city is] like unto this great city!
 <small><sub>**BSB:**</sub></small>
 and cry out at the sight of the smoke rising from the fire that consumes her. “What city was ever like this great city?” they will exclaim.
@@ -10,7 +10,7 @@ and were crying out seeing the smoke of the burning of her saying; What [is] lik
 > $\quad$ alluding to: [[LXX.Isa.34.10|Isa 34:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were crying out [^1] |**<big>[[G2896\|ἔκραζον]]</big>**  |ekrazon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Treg+TR+Byz">NK(o)</abbr> | |

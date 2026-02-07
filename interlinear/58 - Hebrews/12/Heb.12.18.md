@@ -1,5 +1,5 @@
-**Hebrews 12:18
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:18**<big><big>[[Heb.12.18 An Unshakable Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For ye are not come unto the mount that might be touched, and that burned with fire, nor unto blackness, and darkness, and tempest,
 <small><sub>**BSB:**</sub></small>
 For you have not come to a mountain that can be touched and that is burning with fire; to darkness, gloom, and storm;
@@ -10,7 +10,7 @@ Not for you have come to [that] being touched mountain and kindled with fire and
 > $\quad$ alluding to: [[LXX.Exod.19.16|Exod 19:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|Οὐ]]</big>**  |Ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

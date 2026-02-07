@@ -1,10 +1,7 @@
 **LXX Malachi 2:11** 
 <small><sub>**LXX:**</sub></small>
 Judah abandoned, and an abomination took place in  Israel and in Jerusalem; for Judah profaned the holy \[things\] of \[the\] <span class="smallcaps">lord</span> in which he loved, and applied unto alien gods. 
-<small><sub>**KJV:**</sub></small>
-Judah hath dealt treacherously, and an abomination is committed in Israel and in Jerusalem; for Judah hath profaned the holiness of the LORD which he loved, and hath married the daughter of a strange god.
-<small><sub>**BSB:**</sub></small>
-Judah has broken faith; an abomination has been committed in Israel and in Jerusalem. For Judah has profaned the LORD’s beloved sanctuary by marrying the daughter of a foreign god.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.2.10|<< Malachi 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.2.12|Malachi 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

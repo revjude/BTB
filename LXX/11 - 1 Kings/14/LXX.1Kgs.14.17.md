@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:17** 
 <small><sub>**LXX:**</sub></small>
 And the wife of Jeroboam rose up, and went unto Tizrah. And it came to pass as she entered in the threshold of the house, that the child died. 
-<small><sub>**KJV:**</sub></small>
-And Jeroboam’s wife arose, and departed, and came to Tirzah: [and] when she came to the threshold of the door, the child died;
-<small><sub>**BSB:**</sub></small>
-Then Jeroboam’s wife got up and departed for Tirzah, and as soon as she stepped over the threshold of the house, the boy died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.16|<< 1 Kings 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.18|1 Kings 14:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**John 6:31
-**<small><sub>**KJV:**</sub></small>
+**John 6:31**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Our fathers did eat manna in the desert; as it is written, He gave them bread from heaven to eat.
 <small><sub>**BSB:**</sub></small>
 Our fathers ate the manna in the wilderness, as it is written: ‘He gave them bread from heaven to eat.’”
@@ -11,7 +11,7 @@ The fathers of us the manna ate in the wilderness even as it is written: Bread f
 > $\quad$ referencing: [[LXX.Ps.78.24|Ps 78:24]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | fathers |**<big>[[G3962\|πατέρες]]</big>**  |pateres <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

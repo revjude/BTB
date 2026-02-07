@@ -1,10 +1,7 @@
 **LXX 2 Kings 11:19** 
 <small><sub>**LXX:**</sub></small>
 And he took the commanders of hundreds, and the patrol, and the couriers, and all the people of the land. And they led the king from \[the\] house of \[the\] <span class="smallcaps">lord</span>, and entered \[the\] way of \[the\] gate of the bodyguards \[of the\] house of the king. And they seated him upon the throne of the kings. 
-<small><sub>**KJV:**</sub></small>
-And he took the rulers over hundreds, and the captains, and the guard, and all the people of the land; and they brought down the king from the house of the LORD, and came by the way of the gate of the guard to the king’s house. And he sat on the throne of the kings.
-<small><sub>**BSB:**</sub></small>
-He took with him the commanders of hundreds, the Carites, the guards, and all the people of the land, and they brought the king down from the house of the LORD and entered the royal palace by way of the Gate of the Guards. Then Joash took his seat on the royal throne,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.18|<< 2 Kings 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.20|2 Kings 11:20 >>]]</td></tr></table>
 
 | Translation | Greek |

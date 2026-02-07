@@ -1,12 +1,12 @@
-**Romans 5:5
-**<small><sub>**KJV:**</sub></small>
+**Romans 5:5**<big><big>[[Rom.5.1 The Triumph of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
 <small><sub>**BSB:**</sub></small>
 And hope does not disappoint us, because God has poured out His love into our hearts through the Holy Spirit, whom He has given us.
 <small><sub>**Literal:**</sub></small>
 <the> And hope not does make [us] ashamed, because the love <the> of God has been poured out into the hearts of us through [the] Spirit Holy the [One] having been given to us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.4|<< Romans 5:4]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.6|Romans 5:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

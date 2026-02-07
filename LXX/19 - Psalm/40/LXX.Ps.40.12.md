@@ -1,10 +1,7 @@
 **LXX Psalm 40:12** 
 <small><sub>**LXX:**</sub></small>
 For bad \[things\] compass me which there is no number. My lawless deeds overtook me, and I was not able  to see. They were multiplied over the hairs  of my head; and  my heart abandoned me. 
-<small><sub>**KJV:**</sub></small>
-For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me.
-<small><sub>**BSB:**</sub></small>
-For evils without number surround me; my sins have overtaken me, so that I cannot see. They are more than the hairs of my head, and my heart has failed within me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.40.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.11|<< Psalm 40:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.13|Psalm 40:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 40:12** is...

@@ -1,4 +1,4 @@
-**Proverbs 18:23** 
+**Proverbs 18:23**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The poor useth intreaties; but the rich answereth roughly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The poor man pleads for mercy, but the rich man answers harshly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.22|<< Proverbs 18:22]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.24|Proverbs 18:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | supplications  |**<big>&#8207;[[H8469\|תַּחֲנוּנִ֥ים]]&#8207; </big>**| ta.cha.nu.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he speaks  |**<big>&#8207;[[H1696G\|יְדַבֶּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.da.ber-<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

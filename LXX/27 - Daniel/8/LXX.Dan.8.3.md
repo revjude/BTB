@@ -1,10 +1,7 @@
 **LXX Daniel 8:3** 
 <small><sub>**LXX:**</sub></small>
 And I lifted  my eyes and looked. And behold, one ram standing before the Ubal; and \[there was\] to him horns, and the horns \[were\] high; and the one \[was\] higher than \[the\] other, and the high one ascended up last. 
-<small><sub>**KJV:**</sub></small>
-Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had [two] horns: and the [two] horns [were] high; but one [was] higher than the other, and the higher came up last.
-<small><sub>**BSB:**</sub></small>
-Then I lifted up my eyes and saw a ram with two horns standing beside the canal. The horns were long, but one was longer than the other, and the longer one grew up later.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.2|<< Daniel 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.4|Daniel 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

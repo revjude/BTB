@@ -1,12 +1,12 @@
-**Acts 19:29
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:29**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the whole city was filled with confusion: and having caught Gaius and Aristarchus, men of Macedonia, Paul’s companions in travel, they rushed with one accord into the theatre.
 <small><sub>**BSB:**</sub></small>
 Soon the whole city was in disarray. They rushed together into the theatre, dragging with them Gaius and Aristarchus, Paul’s traveling companions from Macedonia.
 <small><sub>**Literal:**</sub></small>
 And was filled the city all <the> with confusion; they rushed and with one accord to the theatre having dragged off Gaius and Aristarchus Macedonians, fellow travelers <the> of Paul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.28|<< Acts 19:28]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.30|Acts 19:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was filled |**<big>[[G4130\|ἐπλήσθη]]</big>**  |eplēsthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

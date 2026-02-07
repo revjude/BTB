@@ -1,10 +1,7 @@
 **LXX Psalm 92:9** 
 <small><sub>**LXX:**</sub></small>
 For behold,  your enemies, O <span class="smallcaps">lord</span>, for behold,  your enemies shall perish, and all the ones working lawlessness shall be dispersed. 
-<small><sub>**KJV:**</sub></small>
-For, lo, thine enemies, O LORD, for, lo, thine enemies shall perish; all the workers of iniquity shall be scattered.
-<small><sub>**BSB:**</sub></small>
-For surely Your enemies, O LORD, surely Your enemies will perish; all evildoers will be scattered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.92.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.92.8|<< Psalm 92:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.92.10|Psalm 92:10 >>]]</td></tr></table>
 
 | Translation | Greek |

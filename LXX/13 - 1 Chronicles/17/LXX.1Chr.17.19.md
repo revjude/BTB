@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:19** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, on account of  your servant, and according to  your heart, you did  all this greatness, to make known all the great \[things\]. 
-<small><sub>**KJV:**</sub></small>
-O LORD, for thy servant’s sake, and according to thine own heart, hast thou done all this greatness, in making known all [these] great things.
-<small><sub>**BSB:**</sub></small>
-O LORD. For the sake of Your servant and according to Your own heart, You have accomplished this great thing and made known all these great promises.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.18|<< 1 Chronicles 17:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.20|1 Chronicles 17:20 >>]]</td></tr></table>
 
 | Translation | Greek |

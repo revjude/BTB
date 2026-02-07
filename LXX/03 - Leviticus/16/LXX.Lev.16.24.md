@@ -1,10 +1,7 @@
 **LXX Leviticus 16:24** 
 <small><sub>**LXX:**</sub></small>
 And he shall bathe  his body in water in \[the\] holy place. And shall put on  his apparel, and coming forth shall offer  his whole burnt-offering, and the whole offering of the people; and he shall atone for himself, and for  his house, and for the people as for the priests. 
-<small><sub>**KJV:**</sub></small>
-And he shall wash his flesh with water in the holy place, and put on his garments, and come forth, and offer his burnt offering, and the burnt offering of the people, and make an atonement for himself, and for the people.
-<small><sub>**BSB:**</sub></small>
-He is to bathe himself with water in a holy place and put on his own clothes. Then he must go out and sacrifice his burnt offering and the people’s burnt offering to make atonement for himself and for the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.23|<< Leviticus 16:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.25|Leviticus 16:25 >>]]</td></tr></table>
 
 | Translation | Greek |

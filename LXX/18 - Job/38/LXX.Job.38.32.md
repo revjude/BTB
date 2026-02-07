@@ -1,10 +1,7 @@
 **LXX Job 38:32** 
 <small><sub>**LXX:**</sub></small>
 Or will you open Mazuroth in its time? And Hesperus with its tail -- will you lead it? 
-<small><sub>**KJV:**</sub></small>
-Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?
-<small><sub>**BSB:**</sub></small>
-Can you bring forth the constellations in their seasons or lead out the Bear and her cubs?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.31|<< Job 38:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.33|Job 38:33 >>]]</td></tr></table>
 
 | Translation | Greek |

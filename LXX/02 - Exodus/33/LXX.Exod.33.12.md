@@ -1,10 +1,7 @@
 **LXX Exodus 33:12** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to \[the\] <span class="smallcaps">lord</span>, Behold, you say to me, Lead  this people! But you manifested not to me whom you shall send along with me. But you said to me, I know you above all, and you have favor with me. 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto the LORD, See, thou sayest unto me, Bring up this people: and thou hast not let me know whom thou wilt send with me. Yet thou hast said, I know thee by name, and thou hast also found grace in my sight.
-<small><sub>**BSB:**</sub></small>
-Then Moses said to the LORD, “Look, You have been telling me, ‘Lead this people up,’ but You have not let me know whom You will send with me. Yet You have said, ‘I know you by name, and you have found favor in My sight.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.11|<< Exodus 33:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.13|Exodus 33:13 >>]]</td></tr></table>
 
 | Translation | Greek |

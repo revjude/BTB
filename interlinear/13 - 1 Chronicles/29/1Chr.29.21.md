@@ -1,4 +1,4 @@
-**1 Chronicles 29:21** 
+**1 Chronicles 29:21**<big><big>[[1Chr.29.21 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they sacrificed sacrifices unto the LORD, and offered burnt offerings unto the LORD, on the morrow after that day, [even] a thousand bullocks, a thousand rams, [and] a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The next day they offered sacrifices and presented burnt offerings to the LORD: 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.20|<< 1 Chronicles 29:20]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.22|1 Chronicles 29:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they sacrificed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2076\|יִּזְבְּח֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiz.be.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

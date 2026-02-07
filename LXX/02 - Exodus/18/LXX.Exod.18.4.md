@@ -1,10 +1,7 @@
 **LXX Exodus 18:4** 
 <small><sub>**LXX:**</sub></small>
 And the name of the second \[was\] Eliezer, saying, For the God  of my father \[is\] my helper, and he rescued me from out of \[the\] hand of Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-And the name of the other [was] Eliezer; for the God of my father, [said he, was] mine help, and delivered me from the sword of Pharaoh:
-<small><sub>**BSB:**</sub></small>
-The other son was named Eliezer, for Moses had said, “The God of my father was my helper and delivered me from the sword of Pharaoh.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.3|<< Exodus 18:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.5|Exodus 18:5 >>]]</td></tr></table>
 
 | Translation | Greek |

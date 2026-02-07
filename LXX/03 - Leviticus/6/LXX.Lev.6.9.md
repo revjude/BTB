@@ -1,10 +1,7 @@
 **LXX Leviticus 6:9** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the law of the bringing the whole burnt-offering. This \[is\] the bringing the whole burnt-offering upon  its burning upon the altar \[the\] entire  night until morning; and the fire of the altar shall burn upon it, and shall not be extinguished. 
-<small><sub>**KJV:**</sub></small>
-Command Aaron and his sons, saying, This [is] the law of the burnt offering: It [is] the burnt offering, because of the burning upon the altar all night unto the morning, and the fire of the altar shall be burning in it.
-<small><sub>**BSB:**</sub></small>
-“Command Aaron and his sons that this is the law of the burnt offering: The burnt offering is to remain on the hearth of the altar all night, until morning, and the fire must be kept burning on the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.8|<< Leviticus 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.10|Leviticus 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

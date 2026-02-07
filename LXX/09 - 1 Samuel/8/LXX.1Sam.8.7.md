@@ -1,10 +1,7 @@
 **LXX 1 Samuel 8:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Samuel, Hearken to the voice of the people! as whatever they should speak to you, for \[it is\] not you they treat with contempt, but only me they treat with contempt,  to not reign over them. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them.
-<small><sub>**BSB:**</sub></small>
-And the LORD said to Samuel, “Listen to the voice of the people in all that they say to you. For it is not you they have rejected, but they have rejected Me as their king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.6|<< 1 Samuel 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.8.8|1 Samuel 8:8 >>]]</td></tr></table>
 
 | Translation | Greek |

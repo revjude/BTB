@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 25:5** 
 <small><sub>**LXX:**</sub></small>
 All these \[were\] sons \[to\] Heman the seer to the king in words of God,  to raise up high \[the\] horn. And God gave \[to\] Heman fourteen sons and three daughters. 
-<small><sub>**KJV:**</sub></small>
-All these [were] the sons of Heman the king’s seer in the words of God, to lift up the horn. And God gave to Heman fourteen sons and three daughters.
-<small><sub>**BSB:**</sub></small>
-All these sons of Heman the king’s seer were given him through the promises of God to exalt him, for God had given Heman fourteen sons and three daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.25.4|<< 1 Chronicles 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.25.6|1 Chronicles 25:6 >>]]</td></tr></table>
 
 | Translation | Greek |

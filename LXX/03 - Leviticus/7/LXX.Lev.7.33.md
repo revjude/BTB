@@ -1,10 +1,7 @@
 **LXX Leviticus 7:33** 
 <small><sub>**LXX:**</sub></small>
 The one offering the blood of the deliverance \[offering\], and the fat, of the sons of Aaron -- to him will be the right shoulder for a portion. 
-<small><sub>**KJV:**</sub></small>
-He among the sons of Aaron, that offereth the blood of the peace offerings, and the fat, shall have the right shoulder for [his] part.
-<small><sub>**BSB:**</sub></small>
-The son of Aaron who presents the blood and fat of the peace offering shall have the right thigh as a portion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.32|<< Leviticus 7:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.34|Leviticus 7:34 >>]]</td></tr></table>
 
 | Translation | Greek |

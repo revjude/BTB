@@ -1,4 +1,4 @@
-**2 Samuel 3:17** 
+**2 Samuel 3:17**<big><big>[[2Sam.3.6 Abner Joins David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abner had communication with the elders of Israel, saying, Ye sought for David in times past [to be] king over you:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Abner conferred with the elders of Israel and said, “In the past you sough
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.16|<< 2 Samuel 3:16]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.18|2 Samuel 3:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] word of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1697G\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abner  |**<big>&#8207;[[H0074\|אַבְנֵ֣ר]]&#8207; </big>**| 'av.Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

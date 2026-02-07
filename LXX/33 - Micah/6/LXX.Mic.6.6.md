@@ -1,10 +1,7 @@
 **LXX Micah 6:6** 
 <small><sub>**LXX:**</sub></small>
 By what \[means\] should I overtake the <span class="smallcaps">lord</span>? Shall I take hold of my God \[the\] highest? Shall I overtake him with a whole burnt-offering, with calves of a year \[old\], \[no\]. 
-<small><sub>**KJV:**</sub></small>
-Wherewith shall I come before the LORD, [and] bow myself before the high God? shall I come before him with burnt offerings, with calves of a year old?
-<small><sub>**BSB:**</sub></small>
-With what shall I come before the LORD when I bow before the God on high? Should I come to Him with burnt offerings, with year-old calves?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.6.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.5|<< Micah 6:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.7|Micah 6:7 >>]]</td></tr></table>
 
 | Translation | Greek |

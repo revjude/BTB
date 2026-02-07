@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:15** 
 <small><sub>**LXX:**</sub></small>
 In those  days and in  that time, I will cause to sprout \[to\] David a bud of righteousness. And a king shall reign, and he shall be perceiving, and shall cause equity and righteousness in the land. 
-<small><sub>**KJV:**</sub></small>
-In those days, and at that time, will I cause the Branch of righteousness to grow up unto David; and he shall execute judgment and righteousness in the land.
-<small><sub>**BSB:**</sub></small>
-In those days and at that time I will cause to sprout for David a righteous Branch, and He will administer justice and righteousness in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.14|<< Jeremiah 33:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.16|Jeremiah 33:16 >>]]</td></tr></table>
 
 | Translation | Greek |

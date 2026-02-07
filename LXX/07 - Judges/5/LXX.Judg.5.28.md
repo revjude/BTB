@@ -1,10 +1,7 @@
 **LXX Judges 5:28** 
 <small><sub>**LXX:**</sub></small>
 Through the window the mother of Sisera looked and studied -- through the latticed \[window\]. Why his chariot late to arrive? Why did \[the\] track of his chariots pass time? 
-<small><sub>**KJV:**</sub></small>
-The mother of Sisera looked out at a window, and cried through the lattice, Why is his chariot [so] long in coming? why tarry the wheels of his chariots?
-<small><sub>**BSB:**</sub></small>
-Sisera’s mother looked through the window; she peered through the lattice and lamented: ‘Why is his chariot so long in coming? What has delayed the clatter of his chariots?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.27|<< Judges 5:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.29|Judges 5:29 >>]]</td></tr></table>
 
 | Translation | Greek |

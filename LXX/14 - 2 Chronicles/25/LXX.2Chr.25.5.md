@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:5** 
 <small><sub>**LXX:**</sub></small>
 And Amaziah gathered the house of Judah, and he established them according to \[the\] houses of their families for commanders of thousands, and commanders of hundreds, in all Judah and Benjamin. And he numbered them from twenty years \[old\] and up. And he found of them three hundred thousand mighty ones going forth for war, mighty ones holding spear and shield. 
-<small><sub>**KJV:**</sub></small>
-Moreover Amaziah gathered Judah together, and made them captains over thousands, and captains over hundreds, according to the houses of [their] fathers, throughout all Judah and Benjamin: and he numbered them from twenty years old and above, and found them three hundred thousand choice [men, able] to go forth to war, that could handle spear and shield.
-<small><sub>**BSB:**</sub></small>
-Then Amaziah gathered the people of Judah and assigned them according to their families to commanders of thousands and of hundreds. And he numbered those twenty years of age or older throughout Judah and Benjamin and found 300,000 chosen men able to serve in the army, bearing the spear and shield.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.4|<< 2 Chronicles 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.6|2 Chronicles 25:6 >>]]</td></tr></table>
 
 | Translation | Greek |

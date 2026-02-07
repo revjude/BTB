@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:18** 
 <small><sub>**LXX:**</sub></small>
 And Shaphan the scribe reported to the king, saying, Helkiah the priest gave a scroll to me. And Shaphan read it before the king. 
-<small><sub>**KJV:**</sub></small>
-Then Shaphan the scribe told the king, saying, Hilkiah the priest hath given me a book. And Shaphan read it before the king.
-<small><sub>**BSB:**</sub></small>
-Moreover, Shaphan the scribe told the king, “Hilkiah the priest has given me a book.” And Shaphan read it in the presence of the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.17|<< 2 Chronicles 34:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.19|2 Chronicles 34:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 14:23** 
 <small><sub>**LXX:**</sub></small>
 And they built for themselves high \[places\], and monuments, and sacred groves upon every high hill, and underneath every shady tree. 
-<small><sub>**KJV:**</sub></small>
-For they also built them high places, and images, and groves, on every high hill, and under every green tree.
-<small><sub>**BSB:**</sub></small>
-They also built for themselves high places, sacred pillars, and Asherah poles on every high hill and under every green tree.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.14.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.14.22|<< 1 Kings 14:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.14.24|1 Kings 14:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 8:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:8**<big><big>[[Acts.8.4 Philip in Samaria|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there was great joy in that city.
 <small><sub>**BSB:**</sub></small>
 So there was great joy in that city.
 <small><sub>**Literal:**</sub></small>
 and There was then much joy in the city that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.7|<< Acts 8:7]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.9|Acts 8:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | There was |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

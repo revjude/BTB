@@ -1,4 +1,4 @@
-**1 Kings 20:9** 
+**1 Kings 20:9**<big><big>[[1Kgs.20.1 Ben-hadad Attacks Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore he said unto the messengers of Benhadad, Tell my lord the king, All that thou didst send for to thy servant at the first I will do: but this thing I may not do. And the messengers departed, and brought him word again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Ahab answered the messengers of Ben-hadad, “Tell my lord the king, ‘All t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.8|<< 1 Kings 20:8]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.10|1 Kings 20:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֜אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] messengers of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4397G\|מַלְאֲכֵ֣י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mal.'a.Khei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

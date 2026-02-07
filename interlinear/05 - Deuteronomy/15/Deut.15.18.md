@@ -1,4 +1,4 @@
-**Deuteronomy 15:18** 
+**Deuteronomy 15:18**<big><big>[[Deut.15.12 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall not seem hard unto thee, when thou sendest him away free from thee; for he hath been worth a double hired servant [to thee], in serving thee six years: and the LORD thy God shall bless thee in all that thou doest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not regard it as a hardship to set your servant free, because his six years o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.17|<< Deuteronomy 15:17]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.19|Deuteronomy 15:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be hard  |**<big>&#8207;[[H7185\|יִקְשֶׁ֣ה]]&#8207; </big>**| yik.Sheh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

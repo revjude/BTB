@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:10** 
 <small><sub>**LXX:**</sub></small>
 And he overtook it at \[the\] end of three years. In \[the\] sixth year  of Hezekiah -- this is \[the\] ninth year  of Hoshea king of Israel, Samaria was seized. 
-<small><sub>**KJV:**</sub></small>
-And at the end of three years they took it: [even] in the sixth year of Hezekiah, that [is] the ninth year of Hoshea king of Israel, Samaria was taken.
-<small><sub>**BSB:**</sub></small>
-And at the end of three years, the Assyrians captured it. So Samaria was captured in the sixth year of Hezekiah, which was the ninth year of Hoshea king of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.9|<< 2 Kings 18:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.11|2 Kings 18:11 >>]]</td></tr></table>
 
 | Translation | Greek |

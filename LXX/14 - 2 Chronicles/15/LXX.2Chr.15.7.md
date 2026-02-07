@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 15:7** 
 <small><sub>**LXX:**</sub></small>
 And you, be strong and do not loosen  your hands! for there is a wage  for your work. 
-<small><sub>**KJV:**</sub></small>
-Be ye strong therefore, and let not your hands be weak: for your work shall be rewarded.
-<small><sub>**BSB:**</sub></small>
-But as for you, be strong; do not be discouraged, for your work will be rewarded.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.15.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.6|<< 2 Chronicles 15:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.8|2 Chronicles 15:8 >>]]</td></tr></table>
 
 | Translation | Greek |

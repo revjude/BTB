@@ -1,10 +1,7 @@
 **LXX Judges 5:5** 
 <small><sub>**LXX:**</sub></small>
 Mountains shook from \[the\] face of \[the\] <span class="smallcaps">lord</span>; this Sinai from \[the\] face of \[the\] <span class="smallcaps">lord</span> God of Israel. 
-<small><sub>**KJV:**</sub></small>
-The mountains melted from before the LORD, [even] that Sinai from before the LORD God of Israel.
-<small><sub>**BSB:**</sub></small>
-The mountains quaked before the LORD, the One of Sinai, before the LORD, the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.4|<< Judges 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.6|Judges 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

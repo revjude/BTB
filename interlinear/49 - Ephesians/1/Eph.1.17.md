@@ -1,12 +1,12 @@
-**Ephesians 1:17
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 1:17**<big><big>[[Eph.1.15 Spiritual Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That the God of our Lord Jesus Christ, the Father of glory, may give unto you the spirit of wisdom and revelation in the knowledge of him:
 <small><sub>**BSB:**</sub></small>
 that the God of our Lord Jesus Christ, the glorious Father, may give you a spirit of wisdom and revelation in your knowledge of Him.
 <small><sub>**Literal:**</sub></small>
 that the God of the Lord of us Jesus Christ, the Father <the> of glory, may give to you [a] spirit of wisdom and revelation in [the] knowledge of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.16|<< Ephesians 1:16]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.18|Ephesians 1:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Judges 4:2** 
+**Judges 4:2**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host [was] Sisera, which dwelt in Harosheth of the Gentiles.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the LORD sold them into the hand of Jabin king of Canaan, who reigned in Hazo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.1|<< Judges 4:1]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.3|Judges 4:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sold them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4376\|יִּמְכְּרֵ֣]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.ke.Re<small><sup>[[HVqw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

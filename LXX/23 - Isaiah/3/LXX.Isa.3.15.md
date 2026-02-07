@@ -1,10 +1,7 @@
 **LXX Isaiah 3:15** 
 <small><sub>**LXX:**</sub></small>
 Why do you wrong  my people, and disgrace the face of the poor, says \[the\] <span class="smallcaps">lord</span>, \[the\] Lord of \[the\] militaries? 
-<small><sub>**KJV:**</sub></small>
-What mean ye [that] ye beat my people to pieces, and grind the faces of the poor? saith the Lord GOD of hosts.
-<small><sub>**BSB:**</sub></small>
-Why do you crush My people and grind the faces of the poor?” declares the Lord GOD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.14|<< Isaiah 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.16|Isaiah 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

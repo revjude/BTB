@@ -1,10 +1,7 @@
 **LXX Exodus 33:21** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said, Behold, a place by me. And you shall stand upon the rock; 
-<small><sub>**KJV:**</sub></small>
-And the LORD said, Behold, [there is] a place by me, and thou shalt stand upon a rock:
-<small><sub>**BSB:**</sub></small>
-The LORD continued, “There is a place near Me where you are to stand upon a rock,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.20|<< Exodus 33:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.22|Exodus 33:22 >>]]</td></tr></table>
 
 | Translation | Greek |

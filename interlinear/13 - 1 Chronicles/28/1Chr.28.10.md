@@ -1,4 +1,4 @@
-**1 Chronicles 28:10** 
+**1 Chronicles 28:10**<big><big>[[1Chr.28.1 David Commissions Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take heed now; for the LORD hath chosen thee to build an house for the sanctuary: be strong, and do [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Consider now that the LORD has chosen you to build a house for the sanctuary. Be
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.9|<< 1 Chronicles 28:9]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.11|1 Chronicles 28:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | see  |**<big>&#8207;[[H7200H\|רְאֵ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| re.'Eh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | now  |**<big>&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

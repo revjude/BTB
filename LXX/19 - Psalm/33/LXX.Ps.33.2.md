@@ -1,10 +1,7 @@
 **LXX Psalm 33:2** 
 <small><sub>**LXX:**</sub></small>
 Make acknowledgment to the <span class="smallcaps">lord</span> with \[the\] harp! With \[the\] ten-stringed psaltery strum to him! 
-<small><sub>**KJV:**</sub></small>
-Praise the LORD with harp: sing unto him with the psaltery [and] an instrument of ten strings.
-<small><sub>**BSB:**</sub></small>
-Praise the LORD with the harp; make music to Him with ten strings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.33.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.33.1|<< Psalm 33:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.33.3|Psalm 33:3 >>]]</td></tr></table>
 
 | Translation | Greek |

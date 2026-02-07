@@ -1,4 +1,4 @@
-**Psalms 91:11** 
+**Psalms 91:11**<big><big>[[Ps.91.1 You Are My Refuge and My Fortress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he shall give his angels charge over thee, to keep thee in all thy ways.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For He will command His angels concerning you to guard you in all your ways.
 > $\quad$ referenced by: [[Matt.4.6|Matt 4:6]] ☩ [[Luke.4.10|Luke 4:10-11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | angels his  |**<big>&#8207;[[H4397H\|מַ֭לְאָכָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| Mal.'a.kha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

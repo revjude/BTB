@@ -1,10 +1,7 @@
 **LXX 1 Samuel 16:18** 
 <small><sub>**LXX:**</sub></small>
 And answered one  of his servant-lads, and said, Behold, I have seen \[the\] son  of Jesse \[the\] Beth-lehemite, and he knows to strum, and the man \[is\] discerning, and a warrior, and wise in word, and the man is good to the sight, and \[the\] <span class="smallcaps">lord</span> is with him. 
-<small><sub>**KJV:**</sub></small>
-Then answered one of the servants, and said, Behold, I have seen a son of Jesse the Bethlehemite, [that is] cunning in playing, and a mighty valiant man, and a man of war, and prudent in matters, and a comely person, and the LORD [is] with him.
-<small><sub>**BSB:**</sub></small>
-One of the servants answered, “I have seen a son of Jesse of Bethlehem who knows how to play the harp. He is a mighty man of valor, a warrior, eloquent and handsome, and the LORD is with him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.17|<< 1 Samuel 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.19|1 Samuel 16:19 >>]]</td></tr></table>
 
 | Translation | Greek |

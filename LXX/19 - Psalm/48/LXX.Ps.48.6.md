@@ -1,10 +1,7 @@
 **LXX Psalm 48:6** 
 <small><sub>**LXX:**</sub></small>
 Trembling took hold of them there -- pangs as a woman giving birth. 
-<small><sub>**KJV:**</sub></small>
-Fear took hold upon them there, [and] pain, as of a woman in travail.
-<small><sub>**BSB:**</sub></small>
-Trembling seized them there, anguish like a woman in labor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.48.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.48.5|<< Psalm 48:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.48.7|Psalm 48:7 >>]]</td></tr></table>
 
 | Translation | Greek |

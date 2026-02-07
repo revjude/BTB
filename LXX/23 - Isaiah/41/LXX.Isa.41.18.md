@@ -1,10 +1,7 @@
 **LXX Isaiah 41:18** 
 <small><sub>**LXX:**</sub></small>
 But I will open rivers upon the mountains, and springs in \[the\] midst of plains; I will make the wilderness into marshes of waters, and the thirsting ground in aqueducts. 
-<small><sub>**KJV:**</sub></small>
-I will open rivers in high places, and fountains in the midst of the valleys: I will make the wilderness a pool of water, and the dry land springs of water.
-<small><sub>**BSB:**</sub></small>
-I will open rivers on the barren heights, and fountains in the middle of the valleys. I will turn the desert into a pool of water, and the dry land into flowing springs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.17|<< Isaiah 41:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.19|Isaiah 41:19 >>]]</td></tr></table>
 
 | Translation | Greek |

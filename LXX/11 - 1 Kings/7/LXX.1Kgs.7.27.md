@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:27** 
 <small><sub>**LXX:**</sub></small>
 And he made ten bases of brass -- four cubits \[was\] the length of the one base, and four cubits the width of it, and three cubits \[was\] the height of it. 
-<small><sub>**KJV:**</sub></small>
-And he made ten bases of brass; four cubits [was] the length of one base, and four cubits the breadth thereof, and three cubits the height of it.
-<small><sub>**BSB:**</sub></small>
-In addition, he made ten movable stands of bronze, each four cubits long, four cubits wide, and three cubits high.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.26|<< 1 Kings 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.28|1 Kings 7:28 >>]]</td></tr></table>
 
 | Translation | Greek |

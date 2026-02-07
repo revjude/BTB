@@ -1,10 +1,7 @@
 **LXX Isaiah 22:12** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> of Hosts called for weeping in that day, and beating the breast, and shaving, and girding up sackcloths. 
-<small><sub>**KJV:**</sub></small>
-And in that day did the Lord GOD of hosts call to weeping, and to mourning, and to baldness, and to girding with sackcloth:
-<small><sub>**BSB:**</sub></small>
-On that day the Lord GOD of Hosts called for weeping and wailing, for shaven heads and the wearing of sackcloth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.11|<< Isaiah 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.13|Isaiah 22:13 >>]]</td></tr></table>
 
 | Translation | Greek |

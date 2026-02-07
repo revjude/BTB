@@ -1,12 +1,12 @@
-**Luke 5:24
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:24**<big><big>[[Luke.5.17 Jesus Heals a Paralytic|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house.
 <small><sub>**BSB:**</sub></small>
 But so that you may know that the Son of Man has authority on the earth to forgive sins…” He said to the paralytic, “I tell you, get up, pick up your mat, and go home.”
 <small><sub>**Literal:**</sub></small>
 That however you may know that the Son <the> of Man authority has on the earth to forgive sins.., He said to the [one] paralyzed; To you I say, do arise and having taken up the mat of you, do go to the house of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.23|<< Luke 5:23]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.25|Luke 5:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | That |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

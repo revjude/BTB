@@ -1,12 +1,12 @@
-**Philemon 1:2
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:2**<big><big>[[Phlm.1.1 Greetings from Paul and Timothy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to [our] beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:
 <small><sub>**BSB:**</sub></small>
 to Apphia our sister, to Archippus our fellow soldier, and to the church that meets at your house:
 <small><sub>**Literal:**</sub></small>
 and to Apphia <the> our sister and to Archippus the fellow soldier of us and to the at [the] house of you church:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.1|<< Philemon 1:1]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.3|Philemon 1:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to Apphia |**<big>[[G0682\|Ἀπφίᾳ]]</big>**  |Apphia <small><sup>[[N-DSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

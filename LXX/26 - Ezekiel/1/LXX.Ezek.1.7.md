@@ -1,10 +1,7 @@
 **LXX Ezekiel 1:7** 
 <small><sub>**LXX:**</sub></small>
 And  their legs \[were\] straight; and their feet feathered; and \[there were\] sparks as flashing brass; and their wings \[were\] light. 
-<small><sub>**KJV:**</sub></small>
-And their feet [were] straight feet; and the sole of their feet [was] like the sole of a calf’s foot: and they sparkled like the colour of burnished brass.
-<small><sub>**BSB:**</sub></small>
-Their legs were straight, and the soles of their feet were like the hooves of a calf, gleaming like polished bronze.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.6|<< Ezekiel 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.8|Ezekiel 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

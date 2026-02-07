@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:18** 
 <small><sub>**LXX:**</sub></small>
 And I beseeched before \[the\] <span class="smallcaps">lord</span> a second \[time\], as also even  formerly, forty days and forty nights. Bread I did not eat, and water I did not drink, on account of all  your sins which you sinned, to do the wicked \[thing\] before \[the\] <span class="smallcaps">lord</span>  God, to provoke him. 
-<small><sub>**KJV:**</sub></small>
-And I fell down before the LORD, as at the first, forty days and forty nights: I did neither eat bread, nor drink water, because of all your sins which ye sinned, in doing wickedly in the sight of the LORD, to provoke him to anger.
-<small><sub>**BSB:**</sub></small>
-Then I fell down before the LORD for forty days and forty nights, as I had done the first time. I did not eat bread or drink water because of all the sin you had committed in doing what was evil in the sight of the LORD and provoking Him to anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.17|<< Deuteronomy 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.19|Deuteronomy 9:19 >>]]</td></tr></table>
 
 | Translation | Greek |

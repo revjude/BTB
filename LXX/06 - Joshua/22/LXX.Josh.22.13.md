@@ -1,10 +1,7 @@
 **LXX Joshua 22:13** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel sent to the sons of Reuben, and to the sons of Gad, and to the half tribe of Manasseh, into the land of Gilead,  both Phinehas \[the\] son of Eleazar, \[the\] son of Aaron the chief priest, 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel sent unto the children of Reuben, and to the children of Gad, and to the half tribe of Manasseh, into the land of Gilead, Phinehas the son of Eleazar the priest,
-<small><sub>**BSB:**</sub></small>
-The Israelites sent Phinehas son of Eleazar the priest to the land of Gilead, to the Reubenites, the Gadites, and the half-tribe of Manasseh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.12|<< Joshua 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.14|Joshua 22:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 1:16** 
 <small><sub>**LXX:**</sub></small>
 And I shall speak to them with judgment concerning all  their evil, as they abandoned me, and they sacrificed to strange gods, and did obeisance to the works  of their hands. 
-<small><sub>**KJV:**</sub></small>
-And I will utter my judgments against them touching all their wickedness, who have forsaken me, and have burned incense unto other gods, and worshipped the works of their own hands.
-<small><sub>**BSB:**</sub></small>
-I will pronounce My judgments against them for all their wickedness, because they have forsaken Me, and they have burned incense to other gods and worshiped the works of their own hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.15|<< Jeremiah 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.17|Jeremiah 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

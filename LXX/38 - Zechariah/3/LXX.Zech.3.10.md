@@ -1,10 +1,7 @@
 **LXX Zechariah 3:10** 
 <small><sub>**LXX:**</sub></small>
 In  that day, says \[the\] <span class="smallcaps">lord</span> almighty, you shall call together each  his neighbor underneath a grapevine and underneath a fig-tree. 
-<small><sub>**KJV:**</sub></small>
-In that day, saith the LORD of hosts, shall ye call every man his neighbour under the vine and under the fig tree.
-<small><sub>**BSB:**</sub></small>
-On that day, declares the LORD of Hosts, you will each invite your neighbor to sit under your own vine and fig tree.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.3.9|<< Zechariah 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.4.1|Zechariah 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

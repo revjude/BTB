@@ -1,12 +1,12 @@
-**Acts 23:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:10**<big><big>[[Acts.23.1 Paul before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when there arose a great dissension, the chief captain, fearing lest Paul should have been pulled in pieces of them, commanded the soldiers to go down, and to take him by force from among them, and to bring [him] into the castle.
 <small><sub>**BSB:**</sub></small>
 The dispute grew so violent that the commander was afraid they would tear Paul to pieces. He ordered the soldiers to go down and remove him by force and bring him into the barracks.
 <small><sub>**Literal:**</sub></small>
 great then is becoming dissension, having feared the commander lest may be torn to pieces <the> Paul by them he commanded the troop having gone down and to take by force him from midst of them, to bring [him] then into the barracks.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.9|<< Acts 23:9]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.11|Acts 23:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | great |**<big>[[G4183\|πολλῆς]]</big>**  |pollēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

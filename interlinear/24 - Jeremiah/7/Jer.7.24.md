@@ -1,4 +1,4 @@
-**Jeremiah 7:24** 
+**Jeremiah 7:24**<big><big>[[Jer.7.16 Judah’s Idolatry Persists|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they hearkened not, nor inclined their ear, but walked in the counsels [and] in the imagination of their evil heart, and went backward, and not forward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet they did not listen or incline their ear, but they followed the stubborn inc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.23|<< Jeremiah 7:23]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.25|Jeremiah 7:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they listened  |**<big>&#8207;[[H8085H\|שָֽׁמְעוּ֙]]&#8207; </big>**| sha.me.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

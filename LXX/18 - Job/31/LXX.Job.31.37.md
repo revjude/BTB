@@ -1,10 +1,7 @@
 **LXX Job 31:37** 
 <small><sub>**LXX:**</sub></small>
 And unless tearing it I gave it back having received nothing from a debtor. 
-<small><sub>**KJV:**</sub></small>
-I would declare unto him the number of my steps; as a prince would I go near unto him.
-<small><sub>**BSB:**</sub></small>
-I would give account of all my steps; I would approach Him like a prince.)—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.36|<< Job 31:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.38|Job 31:38 >>]]</td></tr></table>
 
 | Translation | Greek |

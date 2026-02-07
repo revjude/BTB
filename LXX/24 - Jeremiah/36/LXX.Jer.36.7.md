@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:7** 
 <small><sub>**LXX:**</sub></small>
 Perhaps their \[need for\] mercy will fall in front of \[the\] <span class="smallcaps">lord</span>, and they will turn from  their evil way. For great \[is\] the rage and the anger of \[the\] <span class="smallcaps">lord</span> which he spoke against  this people. 
-<small><sub>**KJV:**</sub></small>
-It may be they will present their supplication before the LORD, and will return every one from his evil way: for great [is] the anger and the fury that the LORD hath pronounced against this people.
-<small><sub>**BSB:**</sub></small>
-Perhaps they will bring their petition before the LORD, and each one will turn from his wicked way; for great are the anger and fury that the LORD has pronounced against this people.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.6|<< Jeremiah 36:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.8|Jeremiah 36:8 >>]]</td></tr></table>
 
 | Translation | Greek |

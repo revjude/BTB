@@ -1,10 +1,7 @@
 **LXX Psalm 80:13** 
 <small><sub>**LXX:**</sub></small>
 \[The\] pig from \[the\] forest laid her wasted, and \[the\] wild boar feeds on her. 
-<small><sub>**KJV:**</sub></small>
-The boar out of the wood doth waste it, and the wild beast of the field doth devour it.
-<small><sub>**BSB:**</sub></small>
-The boar from the forest ravages it, and the creatures of the field feed upon it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.80.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.80.12|<< Psalm 80:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.14|Psalm 80:14 >>]]</td></tr></table>
 
 | Translation | Greek |

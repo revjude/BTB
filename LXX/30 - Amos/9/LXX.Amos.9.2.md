@@ -1,10 +1,7 @@
 **LXX Amos 9:2** 
 <small><sub>**LXX:**</sub></small>
 If they should be buried in Hades, from there  my hand shall pull them up. And if they ascend into the heaven, from there I will lead them down. 
-<small><sub>**KJV:**</sub></small>
-Though they dig into hell, thence shall mine hand take them; though they climb up to heaven, thence will I bring them down:
-<small><sub>**BSB:**</sub></small>
-Though they dig down to Sheol, from there My hand will take them; and though they climb up to heaven, from there I will pull them down.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.1|<< Amos 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.3|Amos 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

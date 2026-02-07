@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:15** 
 <small><sub>**LXX:**</sub></small>
 And every one  traveling over the land, and seeing \[the\] bone of a man, shall build a sign by it, until whenever the ones burying shall bury it in the cemetery  of Gog. 
-<small><sub>**KJV:**</sub></small>
-And the passengers [that] pass through the land, when [any] seeth a man’s bone, then shall he set up a sign by it, till the buriers have buried it in the valley of Hamongog.
-<small><sub>**BSB:**</sub></small>
-As they pass through the land, anyone who sees a human bone will set up a pillar next to it, until the gravediggers have buried it in the Valley of Hamon-gog.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.14|<< Ezekiel 39:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.16|Ezekiel 39:16 >>]]</td></tr></table>
 
 | Translation | Greek |

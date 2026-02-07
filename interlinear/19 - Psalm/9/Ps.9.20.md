@@ -1,4 +1,4 @@
-**Psalms 9:20** (9:21)
+**Psalms 9:20**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Put them in fear, O LORD: [that] the nations may know themselves [to be but] men. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Lay terror upon them, O LORD; let the nations know they are but men. Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.19|<< Psalms 9:19]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.1|Psalms 10:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | appoint !  |**<big>&#8207;[[H7896I\|שִׁ֘יתָ֤]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| shi.Ta<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

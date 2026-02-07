@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:9** 
 <small><sub>**LXX:**</sub></small>
 And the woman said to  her husband, Behold indeed, I know that this \[is\] a holy man of God, who travels unto us continually. 
-<small><sub>**KJV:**</sub></small>
-And she said unto her husband, Behold now, I perceive that this [is] an holy man of God, which passeth by us continually.
-<small><sub>**BSB:**</sub></small>
-Then the woman said to her husband, “Behold, now I know that the one who often comes our way is a holy man of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.8|<< 2 Kings 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.10|2 Kings 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

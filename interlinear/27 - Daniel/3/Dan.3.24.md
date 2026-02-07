@@ -1,4 +1,4 @@
-**Daniel 3:24** 
+**Daniel 3:24**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Nebuchadnezzar the king was astonied, and rose up in haste, [and] spake, and said unto his counsellers, Did not we cast three men bound into the midst of the fire? They answered and said unto the king, True, O king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Suddenly King Nebuchadnezzar jumped up in amazement and asked his advisers, “D
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.23|<< Daniel 3:23]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.25|Daniel 3:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0116\|אֱדַ֙יִן֙]]&#8207; </big>**| 'e.Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Nebuchadnezzar  |**<big>&#8207;[[H5020\|נְבוּכַדְנֶצַּ֣ר]]&#8207; </big>**| ne.vu.khad.ne.Tzar<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

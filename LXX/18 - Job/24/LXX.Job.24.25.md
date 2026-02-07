@@ -1,10 +1,7 @@
 **LXX Job 24:25** 
 <small><sub>**LXX:**</sub></small>
 But if not, who is the one saying for me to speak falsely, and he renders my words as nothing? 
-<small><sub>**KJV:**</sub></small>
-And if [it be] not [so] now, who will make me a liar, and make my speech nothing worth?
-<small><sub>**BSB:**</sub></small>
-If this is not so, then who can prove me a liar and reduce my words to nothing?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.24.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.24|<< Job 24:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.25.1|Job 25:1 >>]]</td></tr></table>
 
 | Translation | Greek |

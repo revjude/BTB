@@ -1,4 +1,4 @@
-**Psalms 116:2** 
+**Psalms 116:2**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because he hath inclined his ear unto me, therefore will I call upon [him] as long as I live.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because He has inclined His ear to me, I will call on Him as long as I live.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.1|<< Psalms 116:1]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.3|Psalms 116:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has inclined  |**<big>&#8207;[[H5186\|הִטָּ֣ה]]&#8207; </big>**| hi.Tah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

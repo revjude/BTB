@@ -1,10 +1,7 @@
 **LXX Psalm 107:16** 
 <small><sub>**LXX:**</sub></small>
 For he broke \[the\] gates of brass; and \[the\] bars of iron he fractured in pieces. 
-<small><sub>**KJV:**</sub></small>
-For he hath broken the gates of brass, and cut the bars of iron in sunder.
-<small><sub>**BSB:**</sub></small>
-For He has broken down the gates of bronze and cut through the bars of iron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.15|<< Psalm 107:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.17|Psalm 107:17 >>]]</td></tr></table>
 
 | Translation | Greek |

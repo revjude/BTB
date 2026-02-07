@@ -1,4 +1,4 @@
-**2 Chronicles 5:13** 
+**2 Chronicles 5:13**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It came even to pass, as the trumpeters and singers [were] as one, to make one sound to be heard in praising and thanking the LORD; and when they lifted up [their] voice with the trumpets and cymbals and instruments of musick, and praised the LORD, [saying], For [he is] good; for his mercy [endureth] for ever: that [then] the house was filled with a cloud, [even] the house of the LORD;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The trumpeters and singers joined together to praise and thank the LORD with one
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.12|<< 2 Chronicles 5:12]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.14|2 Chronicles 5:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it belonged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | as one  |**<big>&#8207;[[H9004\|כְ֠]]&#8207;&#8207;[[H0259\|אֶחָד]]&#8207; </big>**| Khe.<small><sup>[[HR]]</sup></small> 'e.chod<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

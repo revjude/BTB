@@ -1,4 +1,4 @@
-**Daniel 9:24** 
+**Daniel 9:24**<big><big>[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seventy weeks are determined upon thy people and upon thy holy city, to finish the transgression, and to make an end of sins, and to make reconciliation for iniquity, and to bring in everlasting righteousness, and to seal up the vision and prophecy, and to anoint the most Holy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Seventy weeks are decreed for your people and your holy city to stop their trans
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.23|<< Daniel 9:23]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.25|Daniel 9:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sevens  |**<big>&#8207;[[H7620I\|שָׁבֻעִ֨ים]]&#8207; </big>**| sha.vu.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seventy  |**<big>&#8207;[[H7657\|שִׁבְעִ֜ים]]&#8207; </big>**| shiv.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

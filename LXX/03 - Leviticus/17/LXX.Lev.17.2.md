@@ -1,10 +1,7 @@
 **LXX Leviticus 17:2** 
 <small><sub>**LXX:**</sub></small>
 Speak to Aaron and to  his sons, and to all the sons of Israel! And you shall say to them this  saying which \[the\] <span class="smallcaps">lord</span> gives charge, saying, 
-<small><sub>**KJV:**</sub></small>
-Speak unto Aaron, and unto his sons, and unto all the children of Israel, and say unto them; This [is] the thing which the LORD hath commanded, saying,
-<small><sub>**BSB:**</sub></small>
-“Speak to Aaron, his sons, and all the Israelites and tell them this is what the LORD has commanded:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.17.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.1|<< Leviticus 17:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.3|Leviticus 17:3 >>]]</td></tr></table>
 
 | Translation | Greek |

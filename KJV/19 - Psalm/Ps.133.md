@@ -1,6 +1,6 @@
 (KJV) **Psalm 133**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132|<< Psalm 132]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.134|Psalm 134 >>]]</td></tr></table>
 
-***How Pleasant to Live in Harmony!***&emsp;<small><sup>\[ [[1Cor.1|1 Corinthians 1:10–17]] <big>†</big> [[Eph.4|Ephesians 4:1–16]] ]</sup></small> ^bsb1426
+<big><big>[[Ps.133.1 How Pleasant to Live in Harmony!|⥃]]</big></big>***How Pleasant to Live in Harmony!***&emsp;<small><sup>\[ [[1Cor.1|1 Corinthians 1:10–17]] <big>†</big> [[Eph.4|Ephesians 4:1–16]] ]</sup></small>
 
 
 

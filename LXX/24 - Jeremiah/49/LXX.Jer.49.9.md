@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:9** 
 <small><sub>**LXX:**</sub></small>
 For grape gatherers came to you -- the ones who shall not leave behind to you vestiges. As thieves in \[the\] night they shall put their hands. 
-<small><sub>**KJV:**</sub></small>
-If grapegatherers come to thee, would they not leave [some] gleaning grapes? if thieves by night, they will destroy till they have enough.
-<small><sub>**BSB:**</sub></small>
-If grape gatherers came to you, would they not leave some gleanings? Were thieves to come in the night, would they not steal only what they wanted?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.8|<< Jeremiah 49:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.10|Jeremiah 49:10 >>]]</td></tr></table>
 
 | Translation | Greek |

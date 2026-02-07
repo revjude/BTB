@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:9** 
 <small><sub>**LXX:**</sub></small>
 Thus may God do  to Abner, and thus may he add to him that as \[the\] <span class="smallcaps">lord</span> swore by an oath  to David, that so I should do \[the same\] to him in  this day, 
-<small><sub>**KJV:**</sub></small>
-So do God to Abner, and more also, except, as the LORD hath sworn to David, even so I do to him;
-<small><sub>**BSB:**</sub></small>
-May God punish Abner, and ever so severely, if I do not do for David what the LORD has sworn to him:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.8|<< 2 Samuel 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.10|2 Samuel 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

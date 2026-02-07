@@ -1,10 +1,7 @@
 **LXX Song of Solomon 1:11** 
 <small><sub>**LXX:**</sub></small>
 Representations of gold we will make for you with marks  of silver. 
-<small><sub>**KJV:**</sub></small>
-We will make thee borders of gold with studs of silver.
-<small><sub>**BSB:**</sub></small>
-We will make you ornaments of gold, studded with beads of silver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.10|<< Song of Solomon 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.12|Song of Solomon 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

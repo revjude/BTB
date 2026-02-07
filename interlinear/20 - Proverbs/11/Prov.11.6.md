@@ -1,4 +1,4 @@
-**Proverbs 11:6** 
+**Proverbs 11:6**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The righteousness of the upright shall deliver them: but transgressors shall be taken in [their own] naughtiness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The righteousness of the upright delivers them, but the faithless are trapped by
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.5|<< Proverbs 11:5]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.7|Proverbs 11:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] righteousness of  |**<big>&#8207;[[H6666\|צִדְקַ֣ת]]&#8207; </big>**| tzid.Kat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | upright [people]  |**<big>&#8207;[[H3477G\|יְ֭שָׁרִים]]&#8207; </big>**| Ye.sha.rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

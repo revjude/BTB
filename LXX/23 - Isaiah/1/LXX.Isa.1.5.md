@@ -1,10 +1,7 @@
 **LXX Isaiah 1:5** 
 <small><sub>**LXX:**</sub></small>
 Why still should you be struck, proceeding in lawlessness? \[The\] whole head \[is\] in misery, and \[the\] whole heart \[is\] in distress. 
-<small><sub>**KJV:**</sub></small>
-Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.
-<small><sub>**BSB:**</sub></small>
-Why do you want more beatings? Why do you keep rebelling? Your head has a massive wound, and your whole heart is afflicted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.4|<< Isaiah 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.6|Isaiah 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

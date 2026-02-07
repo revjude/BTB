@@ -1,10 +1,7 @@
 **LXX Deuteronomy 8:7** 
 <small><sub>**LXX:**</sub></small>
  For \[the\] <span class="smallcaps">lord</span>  your God shall bring you into a land good and abundant, of which \[are\] rushing streams of waters, and springs of \[the\] deeps going forth through the plains, and through the mountains. 
-<small><sub>**KJV:**</sub></small>
-For the LORD thy God bringeth thee into a good land, a land of brooks of water, of fountains and depths that spring out of valleys and hills;
-<small><sub>**BSB:**</sub></small>
-For the LORD your God is bringing you into a good land, a land of brooks and fountains and springs that flow through the valleys and hills;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.6|<< Deuteronomy 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.8|Deuteronomy 8:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**1 Timothy 6:7
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:7**<big><big>[[1Tim.6.6 Godliness with Contentment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we brought nothing into [this] world, [and it is] certain we can carry nothing out.
 <small><sub>**BSB:**</sub></small>
 For we brought nothing into the world, so we cannot carry anything out of it.
@@ -11,7 +11,7 @@ No [thing] for we brought into the world, evident because neither to carry out a
 > $\quad$ possibly alluding to: [[LXX.Ps.49.18|Ps 49:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No [thing] |**<big>[[G3762\|οὐδὲν]]</big>**  |ouden <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

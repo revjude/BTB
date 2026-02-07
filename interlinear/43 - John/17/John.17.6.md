@@ -1,12 +1,12 @@
-**John 17:6
-**<small><sub>**KJV:**</sub></small>
+**John 17:6**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I have manifested thy name unto the men which thou gavest me out of the world: thine they were, and thou gavest them me; and they have kept thy word.
 <small><sub>**BSB:**</sub></small>
 I have revealed Your name to those You have given Me out of the world. They were Yours; You gave them to Me, and they have kept Your word.
 <small><sub>**Literal:**</sub></small>
 I revealed Your <the> name to the men whom you gave Me out of the world; Yours they were and to Me them You gave and the word of You they have kept.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.5|<< John 17:5]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.7|John 17:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I revealed |**<big>[[G5319\|Ἐφανέρωσά]]</big>**  |Ephanerōsa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Your |**<big>[[G4771\|σου]]</big>**  |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

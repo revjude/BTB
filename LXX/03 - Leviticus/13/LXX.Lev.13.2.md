@@ -1,10 +1,7 @@
 **LXX Leviticus 13:2** 
 <small><sub>**LXX:**</sub></small>
 If any man should have in \[the\] skin of his flesh a discoloration radiant spot, and an infection of leprosy takes place in \[the\] skin of his flesh, he shall be led to Aaron the priest, or one  of his sons of the priests. 
-<small><sub>**KJV:**</sub></small>
-When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh [like] the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:
-<small><sub>**BSB:**</sub></small>
-“When someone has a swelling or rash or bright spot on his skin that may be an infectious skin disease, he must be brought to Aaron the priest or to one of his sons who is a priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.1|<< Leviticus 13:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.3|Leviticus 13:3 >>]]</td></tr></table>
 
 | Translation | Greek |

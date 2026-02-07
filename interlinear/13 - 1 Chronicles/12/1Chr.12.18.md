@@ -1,4 +1,4 @@
-**1 Chronicles 12:18** (12:19)
+**1 Chronicles 12:18**<big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the spirit came upon Amasai, [who was] chief of the captains, [and he said], Thine [are we], David, and on thy side, thou son of Jesse: peace, peace [be] unto thee, and peace [be] to thine helpers; for thy God helpeth thee. Then David received them, and made them captains of the band.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Spirit came upon Amasai, the chief of the Thirty, and he said: “We ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.17|<< 1 Chronicles 12:17]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.19|1 Chronicles 12:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a spirit  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7307G\|ר֣וּחַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it clothed  |**<big>&#8207;[[H3847\|לָבְשָׁ֗ה]]&#8207; </big>**| la.ve.Shah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

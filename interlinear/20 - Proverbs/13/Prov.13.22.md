@@ -1,4 +1,4 @@
-**Proverbs 13:22** 
+**Proverbs 13:22**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A good [man] leaveth an inheritance to his children’s children: and the wealth of the sinner [is] laid up for the just.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A good man leaves an inheritance to his children’s children, but the sinner’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.21|<< Proverbs 13:21]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.23|Proverbs 13:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a good [person]  |**<big>&#8207;[[H2896A\|ט֗וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he leaves an inheritance to  |**<big>&#8207;[[H5157\|יַנְחִ֥יל]]&#8207; </big>**| yan.Chil<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

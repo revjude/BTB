@@ -1,4 +1,4 @@
-**Deuteronomy 27:12** 
+**Deuteronomy 27:12**<big><big>[[Deut.27.11 Curses Pronounced from Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These shall stand upon mount Gerizim to bless the people, when ye are come over Jordan; Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These shall stand upon mount Gerizim to bless the people, when ye are come over 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.11|<< Deuteronomy 27:11]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.13|Deuteronomy 27:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these [tribes]  |**<big>&#8207;[[H0428\|אֵ֠לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will stand  |**<big>&#8207;[[H5975G\|יַֽעַמְד֞וּ]]&#8207; </big>**| ya.'am.Du<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

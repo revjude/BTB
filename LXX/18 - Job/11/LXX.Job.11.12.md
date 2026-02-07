@@ -1,10 +1,7 @@
 **LXX Job 11:12** 
 <small><sub>**LXX:**</sub></small>
 But man otherwise shall be over-confident with words; but a mortal born of a woman \[is\] equal to a recluse donkey. 
-<small><sub>**KJV:**</sub></small>
-For vain man would be wise, though man be born [like] a wild ass’s colt.
-<small><sub>**BSB:**</sub></small>
-But a witless man can no more become wise than the colt of a wild donkey can be born a man!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.11|<< Job 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.13|Job 11:13 >>]]</td></tr></table>
 
 | Translation | Greek |

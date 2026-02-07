@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:16** 
 <small><sub>**LXX:**</sub></small>
 And  your multitude weakened and fell; and each said to his neighbor, We should rise up and return to  our people and unto  our fatherland, from \[the\] face of the Grecian sword. 
-<small><sub>**KJV:**</sub></small>
-He made many to fall, yea, one fell upon another: and they said, Arise, and let us go again to our own people, and to the land of our nativity, from the oppressing sword.
-<small><sub>**BSB:**</sub></small>
-They continue to stumble; indeed, they have fallen over one another. They say, ‘Get up! Let us return to our people and to the land of our birth, away from the sword of the oppressor.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.15|<< Jeremiah 46:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.17|Jeremiah 46:17 >>]]</td></tr></table>
 
 | Translation | Greek |

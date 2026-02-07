@@ -1,4 +1,4 @@
-**Ezekiel 33:33** 
+**Ezekiel 33:33**<big><big>[[Ezek.33.21 Word of Jerusalem’s Fall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when this cometh to pass, (lo, it will come,) then shall they know that a prophet hath been among them.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So when it comes to pass—and surely it will come—then they will know that a 
 > $\quad$ fulfilled in: [[Mark.3.32|Mark 3:32-35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when comes it  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0935G\|בֹאָ֑]]&#8207;&#8207;[[H9044\|הּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> vo.'A<small><sup>[[HVqcc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

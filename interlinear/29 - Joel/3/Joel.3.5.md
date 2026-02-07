@@ -1,4 +1,4 @@
-**Joel 3:5** (4:5)
+**Joel 3:5**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For you took My silver and gold and carried off My finest treasures to your temp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.4|<< Joel 3:4]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.6|Joel 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | silver my  |**<big>&#8207;[[H3701G\|כַּסְפִּ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| kas.P<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

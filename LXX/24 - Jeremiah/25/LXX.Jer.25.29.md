@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:29** 
 <small><sub>**LXX:**</sub></small>
 For in \[the\] city upon which my name is named by it, I begin to afflict. And you by cleansing in no way shall be cleansed, for I shall call a sword upon all the ones settling down upon the earth, says \[the\] <span class="smallcaps">lord</span> of the forces. 
-<small><sub>**KJV:**</sub></small>
-For, lo, I begin to bring evil on the city which is called by my name, and should ye be utterly unpunished? Ye shall not be unpunished: for I will call for a sword upon all the inhabitants of the earth, saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-For behold, I am beginning to bring disaster on the city that bears My Name, so how could you possibly go unpunished? You will not go unpunished, for I am calling down a sword upon all the inhabitants of the earth, declares the LORD of Hosts.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.28|<< Jeremiah 25:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.30|Jeremiah 25:30 >>]]</td></tr></table>
 
 | Translation | Greek |

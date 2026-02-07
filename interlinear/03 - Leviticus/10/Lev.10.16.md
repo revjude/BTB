@@ -1,4 +1,4 @@
-**Leviticus 10:16** 
+**Leviticus 10:16**<big><big>[[Lev.10.8 Restrictions for Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses diligently sought the goat of the sin offering, and, behold, it was burnt: and he was angry with Eleazar and Ithamar, the sons of Aaron [which were] left [alive], saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Later, Moses searched carefully for the goat of the sin offering, and behold, it
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.15|<< Leviticus 10:15]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.17|Leviticus 10:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֣ת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] male goat of  |**<big>&#8207;[[H8163B\|שְׂעִ֣יר]]&#8207; </big>**| se.'Ir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 6:30
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:30**<big><big>[[Matt.6.25 Do Not Worry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, [shall he] not much more [clothe] you, O ye of little faith?
 <small><sub>**BSB:**</sub></small>
 If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the furnace, will He not much more clothe you, O you of little faith?
 <small><sub>**Literal:**</sub></small>
 If however the grass of the field, today being [here] and tomorrow into [the] furnace being thrown, <the> God thus clothes, surely much more you, O [you] of little faith?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.29|<< Matthew 6:29]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.31|Matthew 6:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

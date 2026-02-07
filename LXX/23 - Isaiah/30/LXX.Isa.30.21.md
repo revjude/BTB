@@ -1,10 +1,7 @@
 **LXX Isaiah 30:21** 
 <small><sub>**LXX:**</sub></small>
 and  your ears shall hearken to the words of the ones \[following\] after you, misleading \[you\]. The ones saying, This \[is\] the way, we should go by it, whether right \[or\] whether left. 
-<small><sub>**KJV:**</sub></small>
-And thine ears shall hear a word behind thee, saying, This [is] the way, walk ye in it, when ye turn to the right hand, and when ye turn to the left.
-<small><sub>**BSB:**</sub></small>
-And whether you turn to the right or to the left, your ears will hear this command behind you: “This is the way. Walk in it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.20|<< Isaiah 30:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.22|Isaiah 30:22 >>]]</td></tr></table>
 
 | Translation | Greek |

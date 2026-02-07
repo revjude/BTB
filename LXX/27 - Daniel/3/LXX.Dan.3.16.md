@@ -1,10 +1,7 @@
 **LXX Daniel 3:16** 
 <small><sub>**LXX:**</sub></small>
 And answered Shadrach, Meshach, and Abed-nego, saying  to king Nebuchadnezzar, We have no need concerning  this matter to answer to you. 
-<small><sub>**KJV:**</sub></small>
-Shadrach, Meshach, and Abednego, answered and said to the king, O Nebuchadnezzar, we [are] not careful to answer thee in this matter.
-<small><sub>**BSB:**</sub></small>
-Shadrach, Meshach, and Abednego replied to the king, “O Nebuchadnezzar, we have no need to answer you in this matter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.15|<< Daniel 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.17|Daniel 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

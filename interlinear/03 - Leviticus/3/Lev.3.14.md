@@ -1,4 +1,4 @@
-**Leviticus 3:14** 
+**Leviticus 3:14**<big><big>[[Lev.3.1 Laws for Peace Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall offer thereof his offering, [even] an offering made by fire unto the LORD; the fat that covereth the inwards, and all the fat that [is] upon the inwards,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And from his offering he shall present a food offering to the LORD: the fat that
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.3.13|<< Leviticus 3:13]]</td><td align="center" style="border:none;">[[Lev.3|Leviticus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.3.15|Leviticus 3:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will present  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7126H\|הִקְרִ֤יב]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hik.Riv<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from it  |**<big>&#8207;[[H4480A\|מִמֶּ֙]]&#8207;&#8207;[[H9033\|נּוּ֙]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

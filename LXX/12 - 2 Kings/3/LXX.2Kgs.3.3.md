@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:3** 
 <small><sub>**LXX:**</sub></small>
 Except in the sins of Jeroboam son of Nebat, who led Israel into sin, he cleaved to; he did not abstain from it. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless he cleaved unto the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom.
-<small><sub>**BSB:**</sub></small>
-Nevertheless, he clung to the sins that Jeroboam son of Nebat had caused Israel to commit; he did not turn away from them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.2|<< 2 Kings 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.4|2 Kings 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

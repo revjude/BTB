@@ -1,4 +1,4 @@
-**Joel 2:17** 
+**Joel 2:17**<big><big>[[Joel.2.12 Return with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the priests, the ministers of the LORD, weep between the porch and the altar, and let them say, Spare thy people, O LORD, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where [is] their God?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the priests who minister before the LORD weep between the portico and the al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.16|<< Joel 2:16]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.18|Joel 2:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | between  |**<big>&#8207;[[H0996G\|בֵּ֤ין]]&#8207; </big>**| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the porch  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0197J\|אוּלָם֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'u.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

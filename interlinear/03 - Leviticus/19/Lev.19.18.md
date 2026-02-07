@@ -1,4 +1,4 @@
-**Leviticus 19:18** 
+**Leviticus 19:18**<big><big>[[Lev.19.9 Love Your Neighbor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Do not seek revenge or bear a grudge against any of your people, but love your n
 > $\quad$ referenced by: [[Matt.5.43|Matt 5:43]] ☩ [[Matt.19.19|Matt 19:19]] ☩ [[Matt.22.39|Matt 22:39]] ☩ [[Luke.10.27|Luke 10:27]] ☩ [[Mark.12.31|Mark 12:31]] ☩ [[Gal.5.14|Gal 5:14]] ☩ [[Jas.2.8|Jas 2:8]] ☩ [[Mark.12.33|Mark 12:33]] ☩ [[Rom.12.19|Rom 12:19]] ☩ [[Rom.13.9|Rom 13:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will avenge yourself  |**<big>&#8207;[[H5358\|תִקֹּ֤ם]]&#8207; </big>**| ti.Kom<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:10** 
 <small><sub>**LXX:**</sub></small>
 And all whatever my eyes asked for was not at a distance from them. I did not detain  my heart from any gladness, for my heart was gladdened in all my effort. And this was my portion of all my effort. 
-<small><sub>**KJV:**</sub></small>
-And whatsoever mine eyes desired I kept not from them, I withheld not my heart from any joy; for my heart rejoiced in all my labour: and this was my portion of all my labour.
-<small><sub>**BSB:**</sub></small>
-Anything my eyes desired, I did not deny myself. I refused my heart no pleasure. For my heart took delight in all my work, and this was the reward for all my labor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.9|<< Ecclesiastes 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.11|Ecclesiastes 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 10:28** 
+**Proverbs 10:28**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The hope of the righteous [shall be] gladness: but the expectation of the wicked shall perish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The hope of the righteous is joy, but the expectations of the wicked will perish
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.27|<< Proverbs 10:27]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.29|Proverbs 10:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] hope of  |**<big>&#8207;[[H8431\|תּוֹחֶ֣לֶת]]&#8207; </big>**| to.Che.let<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteous [people]  |**<big>&#8207;[[H6662\|צַדִּיקִ֣ים]]&#8207; </big>**| tza.di.Kim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

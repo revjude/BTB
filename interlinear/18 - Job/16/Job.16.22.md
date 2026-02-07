@@ -1,4 +1,4 @@
-**Job 16:22** 
+**Job 16:22**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When a few years are come, then I shall go the way [whence] I shall not return.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For when only a few years are past I will go the way of no return.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.21|<< Job 16:21]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.1|Job 17:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | years of  |**<big>&#8207;[[H8141\|שְׁנ֣וֹת]]&#8207; </big>**| she.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

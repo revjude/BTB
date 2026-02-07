@@ -1,10 +1,7 @@
 **LXX Daniel 3:7** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when the peoples heard the sound of the trumpet, even flute and harp, even sambuke and psaltery, and every kind of music, falling down the peoples, tribes, languages, did obeisance to the image  of gold which Nebuchadnezzar the king stationed. 
-<small><sub>**KJV:**</sub></small>
-Therefore at that time, when all the people heard the sound of the cornet, flute, harp, sackbut, psaltery, and all kinds of musick, all the people, the nations, and the languages, fell down [and] worshipped the golden image that Nebuchadnezzar the king had set up.
-<small><sub>**BSB:**</sub></small>
-Therefore, as soon as all the people heard the sound of the horn, flute, zither, lyre, harp, and all kinds of music, the people of every nation and language would fall down and worship the golden statue that King Nebuchadnezzar had set up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.6|<< Daniel 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.8|Daniel 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

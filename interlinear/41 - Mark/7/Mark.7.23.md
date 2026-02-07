@@ -1,12 +1,12 @@
-**Mark 7:23
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:23**<big><big>[[Mark.7.14 What Defiles a Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 All these evil things come from within, and defile the man.
 <small><sub>**BSB:**</sub></small>
 All these evils come from within, and these are what defile a man.”
 <small><sub>**Literal:**</sub></small>
 All these <the> evils from within go forth and it defiles the man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.22|<< Mark 7:22]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.24|Mark 7:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | All |**<big>[[G3956\|πάντα]]</big>**  |panta <small><sup>[[A-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these |**<big>[[G3778\|ταῦτα]]</big>**  |tauta <small><sup>[[D-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

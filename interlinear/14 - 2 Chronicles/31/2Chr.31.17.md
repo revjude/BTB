@@ -1,4 +1,4 @@
-**2 Chronicles 31:17** 
+**2 Chronicles 31:17**<big><big>[[2Chr.31.11 Hezekiah Organizes the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Both to the genealogy of the priests by the house of their fathers, and the Levites from twenty years old and upward, in their charges by their courses;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and to the priests enrolled according to their families in the genealogy, as wel
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.16|<< 2 Chronicles 31:16]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.18|2 Chronicles 31:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֨ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] genealogical enrolment of  |**<big>&#8207;[[H3188\|הִתְיַחֵ֤שׂ]]&#8207; </big>**| hit.ya.Ches<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

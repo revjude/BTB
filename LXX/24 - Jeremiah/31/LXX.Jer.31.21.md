@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:21** 
 <small><sub>**LXX:**</sub></small>
 Establish to yourself overseers! Execute punishment! Give your heart to  your shoulders in \[the\] way in which you were going! Return, O virgin Israel! Return unto  your cities mourning! 
-<small><sub>**KJV:**</sub></small>
-Set thee up waymarks, make thee high heaps: set thine heart toward the highway, [even] the way [which] thou wentest: turn again, O virgin of Israel, turn again to these thy cities.
-<small><sub>**BSB:**</sub></small>
-“Set up the road markers, put up the signposts. Keep the highway in mind, the road you have traveled. Return, O Virgin Israel, return to these cities of yours.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.20|<< Jeremiah 31:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.22|Jeremiah 31:22 >>]]</td></tr></table>
 
 | Translation | Greek |

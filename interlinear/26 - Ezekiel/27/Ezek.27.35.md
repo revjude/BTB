@@ -1,4 +1,4 @@
-**Ezekiel 27:35** 
+**Ezekiel 27:35**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the inhabitants of the isles shall be astonished at thee, and their kings shall be sore afraid, they shall be troubled in [their] countenance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the people of the coastlands are appalled over you. Their kings shudder with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.34|<< Ezekiel 27:34]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.36|Ezekiel 27:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כֹּ֚ל]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] inhabitants of  |**<big>&#8207;[[H3427\|יֹשְׁבֵ֣י]]&#8207; </big>**| yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

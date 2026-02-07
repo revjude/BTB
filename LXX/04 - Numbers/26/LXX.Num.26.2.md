@@ -1,10 +1,7 @@
 **LXX Numbers 26:2** 
 <small><sub>**LXX:**</sub></small>
 Take the sum of all \[the\] congregation of \[the\] sons of Israel, from twenty years and up, according to \[the\] houses of their patrimony! every one  going forth to deploy among Israel. 
-<small><sub>**KJV:**</sub></small>
-Take the sum of all the congregation of the children of Israel, from twenty years old and upward, throughout their fathers’ house, all that are able to go to war in Israel.
-<small><sub>**BSB:**</sub></small>
-“Take a census of the whole congregation of Israel by the houses of their fathers—all those twenty years of age or older who can serve in the army of Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.1|<< Numbers 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.3|Numbers 26:3 >>]]</td></tr></table>
 
 | Translation | Greek |

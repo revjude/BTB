@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:13** 
 <small><sub>**LXX:**</sub></small>
 Or was it not reported to you,  O my master, what \[things\] I have done when  Jezebel killed the prophets of \[the\] <span class="smallcaps">lord</span>, that I took some of the prophets of \[the\] <span class="smallcaps">lord</span> -- a hundred men, and I hid them in the caves by fifty, and I maintained them with bread loaves and water? 
-<small><sub>**KJV:**</sub></small>
-Was it not told my lord what I did when Jezebel slew the prophets of the LORD, how I hid an hundred men of the LORD’S prophets by fifty in a cave, and fed them with bread and water?
-<small><sub>**BSB:**</sub></small>
-Was it not reported to my lord what I did when Jezebel slaughtered the prophets of the LORD? I hid a hundred prophets of the LORD, fifty men per cave, and I provided them with food and water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.12|<< 1 Kings 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.14|1 Kings 18:14 >>]]</td></tr></table>
 
 | Translation | Greek |

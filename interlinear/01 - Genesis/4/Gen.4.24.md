@@ -1,4 +1,4 @@
-**Genesis 4:24** 
+**Genesis 4:24**<big><big>[[Gen.4.17 The Descendants of Cain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If Cain is avenged sevenfold, then Lamech seventy-sevenfold.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.23|<< Genesis 4:23]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.25|Genesis 4:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sevenfold  |**<big>&#8207;[[H7659\|שִׁבְעָתַ֖יִם]]&#8207; </big>**| shiv.'a.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

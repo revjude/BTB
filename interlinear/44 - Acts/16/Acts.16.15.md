@@ -1,12 +1,12 @@
-**Acts 16:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:15**<big><big>[[Acts.16.11 Lydia’s Conversion in Philippi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when she was baptized, and her household, she besought [us], saying, If ye have judged me to be faithful to the Lord, come into my house, and abide [there]. And she constrained us.
 <small><sub>**BSB:**</sub></small>
 And when she and her household had been baptized, she urged us, “If you consider me a believer in the Lord, come and stay at my house.” And she persuaded us.
 <small><sub>**Literal:**</sub></small>
 When then she was baptized and the house of her, she begged saying; If you have judged me faithful to the Lord to be, having entered into the house of mine do remain; And she persuaded us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.14|<< Acts 16:14]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.16|Acts 16:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

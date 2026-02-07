@@ -1,10 +1,7 @@
 **LXX Proverbs 8:36** 
 <small><sub>**LXX:**</sub></small>
 But the ones sinning against me are impious unto their own souls; and the ones detesting me love death. 
-<small><sub>**KJV:**</sub></small>
-But he that sinneth against me wrongeth his own soul: all they that hate me love death.
-<small><sub>**BSB:**</sub></small>
-But he who fails to find me harms himself; all who hate me love death.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.8.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.35|<< Proverbs 8:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.9.1|Proverbs 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

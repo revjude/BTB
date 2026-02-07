@@ -1,10 +1,7 @@
 **LXX Numbers 25:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said  to Moses, Take all the heads of the people, and make an example of them \[for the\] <span class="smallcaps">lord</span> over against the sun! and \[the\] anger of \[the\] rage \[of the\] <span class="smallcaps">lord</span> shall turn away from Israel. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Take all the heads of the people, and hang them up before the LORD against the sun, that the fierce anger of the LORD may be turned away from Israel.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Moses, “Take all the leaders of the people and execute them in broad daylight before the LORD, so that His fierce anger may turn away from Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.25.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.25.3|<< Numbers 25:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.25.5|Numbers 25:5 >>]]</td></tr></table>
 
 | Translation | Greek |

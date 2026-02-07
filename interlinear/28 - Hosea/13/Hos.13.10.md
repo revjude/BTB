@@ -1,4 +1,4 @@
-**Hosea 13:10** 
+**Hosea 13:10**<big><big>[[Hos.13.9 Death and Resurrection|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will be thy king: where [is any other] that may save thee in all thy cities? and thy judges of whom thou saidst, Give me a king and princes?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Where is your king now to save you in all your cities, and the rulers to whom yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.9|<< Hosea 13:9]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.11|Hosea 13:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where?  |**<big>&#8207;[[H0165\|אֱהִ֤י]]&#8207; </big>**| 'e.Hi<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] king your  |**<big>&#8207;[[H4428G\|מַלְכְּ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| mal.ke.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

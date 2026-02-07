@@ -1,4 +1,4 @@
-**Jeremiah 11:19** 
+**Jeremiah 11:19**<big><big>[[Jer.11.18 A Plot against Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I [was] like a lamb [or] an ox [that] is brought to the slaughter; and I knew not that they had devised devices against me, [saying], Let us destroy the tree with the fruit thereof, and let us cut him off from the land of the living, that his name may be no more remembered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I was like a gentle lamb led to slaughter; I did not know that they had plot
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.18|<< Jeremiah 11:18]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.20|Jeremiah 11:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֕י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [had been] like a lamb  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3532\|כֶ֥בֶשׂ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Khe.ves<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

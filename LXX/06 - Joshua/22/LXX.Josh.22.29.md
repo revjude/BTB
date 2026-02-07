@@ -1,10 +1,7 @@
 **LXX Joshua 22:29** 
 <small><sub>**LXX:**</sub></small>
 May it not be then for us to leave from \[the\] <span class="smallcaps">lord</span>, so as to turn away in  today's days from \[the\] <span class="smallcaps">lord</span>, so as to build us an altar for the yield \[offerings\], and the sacrifices, and the sacrifice  of deliverance, except for the altar of \[the\] <span class="smallcaps">lord</span>  our God which is before  his tent. 
-<small><sub>**KJV:**</sub></small>
-God forbid that we should rebel against the LORD, and turn this day from following the LORD, to build an altar for burnt offerings, for meat offerings, or for sacrifices, beside the altar of the LORD our God that [is] before his tabernacle.
-<small><sub>**BSB:**</sub></small>
-Far be it from us to rebel against the LORD and turn away from Him today by building an altar for burnt offerings, grain offerings, or sacrifices, other than the altar of the LORD our God, which stands before His tabernacle.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.28|<< Joshua 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.30|Joshua 22:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Samuel 17:7** 
+**1 Samuel 17:7**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the staff of his spear [was] like a weaver’s beam; and his spear’s head [weighed] six hundred shekels of iron: and one bearing a shield went before him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The shaft of his spear was like a weaver’s beam, and its iron point weighed si
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.6|<< 1 Samuel 17:6]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.8|1 Samuel 17:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] wood of  [^2]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6086G\|עֵ֣ץ]]&#8207; </big>**[^3] | ve.<small><sup>[[HC]]</sup></small> chatz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | spear his  |**<big>&#8207;[[H2595\|חֲנִית֗]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| cha.ni.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

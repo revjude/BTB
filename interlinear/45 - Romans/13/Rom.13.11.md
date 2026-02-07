@@ -1,12 +1,12 @@
-**Romans 13:11
-**<small><sub>**KJV:**</sub></small>
+**Romans 13:11**<big><big>[[Rom.13.11 The Day Is Near|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And that, knowing the time, that now [it is] high time to awake out of sleep: for now [is] our salvation nearer than when we believed.
 <small><sub>**BSB:**</sub></small>
 And do this, understanding the occasion. The hour has come for you to wake up from your slumber, for our salvation is nearer now than when we first believed.
 <small><sub>**Literal:**</sub></small>
 And this knowing the time, that [it is the] hour already [for] you out of sleep to awaken; now for nearer [is] of us the salvation than when first we believed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.10|<< Romans 13:10]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.12|Romans 13:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

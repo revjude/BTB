@@ -1,12 +1,12 @@
-**Philippians 3:21
-**<small><sub>**KJV:**</sub></small>
+**Philippians 3:21**<big><big>[[Phil.3.17 Citizenship in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself.
 <small><sub>**BSB:**</sub></small>
 who, by the power that enables Him to subject all things to Himself, will transform our lowly bodies to be like His glorious body.
 <small><sub>**Literal:**</sub></small>
 who will transform the body of the humiliation of us toward <the> to become it conformed to the body of the glory of Himself according to the working <the> enabling Him even to subdue to Him <the> all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.20|<< Philippians 3:20]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.1|Philippians 4:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will transform |**<big>[[G3345\|μετασχηματίσει]]</big>**  |metaschēmatisei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

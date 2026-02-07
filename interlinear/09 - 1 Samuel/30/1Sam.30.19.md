@@ -1,4 +1,4 @@
-**1 Samuel 30:19** 
+**1 Samuel 30:19**<big><big>[[1Sam.30.7 David Destroys the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was nothing lacking to them, neither small nor great, neither sons nor daughters, neither spoil, nor any [thing] that they had taken to them: David recovered all.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nothing was missing, young or old, son or daughter, or any of the plunder the Am
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.18|<< 1 Samuel 30:18]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.20|1 Samuel 30:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was missing  |**<big>&#8207;[[H5737C\|נֶעְדַּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne'.dar-<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

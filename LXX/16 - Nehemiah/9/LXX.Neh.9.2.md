@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:2** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel separated from every alien son; and they stood and declared openly  their sins, and the lawless deeds  of their fathers. 
-<small><sub>**KJV:**</sub></small>
-And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers.
-<small><sub>**BSB:**</sub></small>
-Those of Israelite descent separated themselves from all the foreigners, and they stood and confessed their sins and the iniquities of their fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.1|<< Nehemiah 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.3|Nehemiah 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 37:2** 
 <small><sub>**LXX:**</sub></small>
 And he sent  Eliakim the manager, and Shebna the scribe (with the elders of the priests putting on sackcloths) to Isaiah son of Amoz the prophet. 
-<small><sub>**KJV:**</sub></small>
-And he sent Eliakim, who [was] over the household, and Shebna the scribe, and the elders of the priests covered with sackcloth, unto Isaiah the prophet the son of Amoz.
-<small><sub>**BSB:**</sub></small>
-And he sent Eliakim the palace administrator, Shebna the scribe, and the leading priests, all wearing sackcloth, to the prophet Isaiah son of Amoz<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.1|<< Isaiah 37:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.3|Isaiah 37:3 >>]]</td></tr></table>
 
 | Translation | Greek |

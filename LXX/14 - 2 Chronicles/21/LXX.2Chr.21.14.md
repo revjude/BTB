@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 21:14** 
 <small><sub>**LXX:**</sub></small>
 Behold, \[the\] <span class="smallcaps">lord</span> shall strike you \[with\] a great calamity among  your people, and among  your sons, and among  your wives, and among all  your belongings; 
-<small><sub>**KJV:**</sub></small>
-Behold, with a great plague will the LORD smite thy people, and thy children, and thy wives, and all thy goods:
-<small><sub>**BSB:**</sub></small>
-So behold, the LORD is about to strike your people, your sons, your wives, and all your possessions with a serious blow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.13|<< 2 Chronicles 21:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.15|2 Chronicles 21:15 >>]]</td></tr></table>
 
 | Translation | Greek |

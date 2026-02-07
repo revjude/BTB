@@ -1,12 +1,12 @@
-**Galatians 6:10
-**<small><sub>**KJV:**</sub></small>
+**Galatians 6:10**<big><big>[[Gal.6.1 Carry One Another’s Burdens|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As we have therefore opportunity, let us do good unto all [men], especially unto them who are of the household of faith.
 <small><sub>**BSB:**</sub></small>
 Therefore, as we have opportunity, let us do good to everyone, and especially to the family of faith.
 <small><sub>**Literal:**</sub></small>
 So then as occasion we have we may work <the> good toward all, especially now toward those of the household of the of faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.9|<< Galatians 6:9]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.11|Galatians 6:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G0686\|ἄρα]]</big>**  |ara <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

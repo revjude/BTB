@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 23:4** 
 <small><sub>**LXX:**</sub></small>
 And now this \[is\] the word what you shall do. The third of you of the priests and of the Levites enter on the Sabbath, and \[go\] unto the gates of the entrances; 
-<small><sub>**KJV:**</sub></small>
-This [is] the thing that ye shall do; A third part of you entering on the sabbath, of the priests and of the Levites, [shall be] porters of the doors;
-<small><sub>**BSB:**</sub></small>
-This is what you are to do: A third of you priests and Levites who come on duty on the Sabbath shall keep watch at the doors,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.3|<< 2 Chronicles 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.5|2 Chronicles 23:5 >>]]</td></tr></table>
 
 | Translation | Greek |

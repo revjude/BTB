@@ -1,10 +1,7 @@
 **LXX Leviticus 16:19** 
 <small><sub>**LXX:**</sub></small>
 And he shall sprinkle upon it some of the blood \[with\] his finger seven times; and he shall cleanse it, and shall sanctify it from the uncleannesses of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And he shall sprinkle of the blood upon it with his finger seven times, and cleanse it, and hallow it from the uncleanness of the children of Israel.
-<small><sub>**BSB:**</sub></small>
-He is to sprinkle some of the blood on it with his finger seven times to cleanse it and consecrate it from the uncleanness of the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.18|<< Leviticus 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.20|Leviticus 16:20 >>]]</td></tr></table>
 
 | Translation | Greek |

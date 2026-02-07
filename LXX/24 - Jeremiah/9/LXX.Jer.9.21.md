@@ -1,10 +1,7 @@
 **LXX Jeremiah 9:21** 
 <small><sub>**LXX:**</sub></small>
 For death ascended through  your windows; it entered into  your land  to obliterate infants outside, and young men from the squares. 
-<small><sub>**KJV:**</sub></small>
-For death is come up into our windows, [and] is entered into our palaces, to cut off the children from without, [and] the young men from the streets.
-<small><sub>**BSB:**</sub></small>
-For death has climbed in through our windows; it has entered our fortresses to cut off the children from the streets, the young men from the town squares.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.20|<< Jeremiah 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.22|Jeremiah 9:22 >>]]</td></tr></table>
 
 | Translation | Greek |

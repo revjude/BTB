@@ -1,10 +1,7 @@
 **LXX Psalm 43:4** 
 <small><sub>**LXX:**</sub></small>
 And I shall enter to the altar  of God; to the God  gladdening  my youth. I will acknowledge to you with \[the\] harp, O God  my God. 
-<small><sub>**KJV:**</sub></small>
-Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.
-<small><sub>**BSB:**</sub></small>
-Then I will go to the altar of God, to God, my greatest joy. I will praise You with the harp, O God, my God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.43.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.43.3|<< Psalm 43:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.43.5|Psalm 43:5 >>]]</td></tr></table>
 
 | Translation | Greek |

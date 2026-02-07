@@ -1,12 +1,12 @@
-**Luke 7:36
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:36**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee’s house, and sat down to meat.
 <small><sub>**BSB:**</sub></small>
 Then one of the Pharisees invited Jesus to eat with him, and He entered the Pharisee’s house and reclined at the table.
 <small><sub>**Literal:**</sub></small>
 Was asking now one Him of the Pharisees that He may eat with him. and having entered into the house of the Pharisee He was sat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.35|<< Luke 7:35]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.37|Luke 7:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was asking |**<big>[[G2065\|Ἠρώτα]]</big>**  |Ērōta <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

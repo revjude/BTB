@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the king sent and called him to himself into \[the\] house Asaliseel, the one in \[the\] house of \[the\] <span class="smallcaps">lord</span>. And the king said to him, I shall ask you a word, and you shall not hide from me \[the\] saying. 
-<small><sub>**KJV:**</sub></small>
-Then Zedekiah the king sent, and took Jeremiah the prophet unto him into the third entry that [is] in the house of the LORD: and the king said unto Jeremiah, I will ask thee a thing; hide nothing from me.
-<small><sub>**BSB:**</sub></small>
-Then King Zedekiah sent for Jeremiah the prophet and received him at the third entrance to the house of the LORD. “I am going to ask you something,” said the king to Jeremiah. “Do not hide anything from me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.13|<< Jeremiah 38:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.15|Jeremiah 38:15 >>]]</td></tr></table>
 
 | Translation | Greek |

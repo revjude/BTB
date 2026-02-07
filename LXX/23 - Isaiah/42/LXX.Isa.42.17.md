@@ -1,10 +1,7 @@
 **LXX Isaiah 42:17** 
 <small><sub>**LXX:**</sub></small>
 But they were turned into the rear. You should be ashamed with shame, O ones relying upon the carvings, O ones saying to the molten \[images\], You are our gods. 
-<small><sub>**KJV:**</sub></small>
-They shall be turned back, they shall be greatly ashamed, that trust in graven images, that say to the molten images, Ye [are] our gods.
-<small><sub>**BSB:**</sub></small>
-But those who trust in idols and say to molten images, ‘You are our gods!’ will be turned back in utter shame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.16|<< Isaiah 42:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.18|Isaiah 42:18 >>]]</td></tr></table>
 
 | Translation | Greek |

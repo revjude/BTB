@@ -1,4 +1,4 @@
-**Psalms 130:5** 
+**Psalms 130:5**<big><big>[[Ps.130.1 Out of the Depths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I wait for the LORD, my soul doth wait, and in his word do I hope.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I wait for the LORD; my soul does wait, and in His word I put my hope.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.130.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.130.4|<< Psalms 130:4]]</td><td align="center" style="border:none;">[[Ps.130|Psalms 130]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.130.6|Psalms 130:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I wait for  |**<big>&#8207;[[H6960A\|קִוִּ֣יתִי]]&#8207; </big>**| ki.Vi.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 24:55** 
 <small><sub>**LXX:**</sub></small>
 And her brothers and mother said, the virgin remain with us about ten days! and after this she shall go forth. 
-<small><sub>**KJV:**</sub></small>
-And her brother and her mother said, Let the damsel abide with us [a few] days, at the least ten; after that she shall go.
-<small><sub>**BSB:**</sub></small>
-But her brother and mother said, “Let the girl remain with us ten days or so. After that, she may go.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.54|<< Genesis 24:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.56|Genesis 24:56 >>]]</td></tr></table>
 
 | Translation | Greek |

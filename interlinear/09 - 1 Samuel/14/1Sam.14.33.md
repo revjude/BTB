@@ -1,4 +1,4 @@
-**1 Samuel 14:33** 
+**1 Samuel 14:33**<big><big>[[1Sam.14.24 Jonathan Eats the Honey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they told Saul, saying, Behold, the people sin against the LORD, in that they eat with the blood. And he said, Ye have transgressed: roll a great stone unto me this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then someone reported to Saul: “Look, the troops are sinning against the LORD 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.32|<< 1 Samuel 14:32]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.34|1 Samuel 14:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and people told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יַּגִּ֤ידוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Gi.du<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Saul  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7586G\|שָׁאוּל֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

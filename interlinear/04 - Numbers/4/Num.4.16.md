@@ -1,4 +1,4 @@
-**Numbers 4:16** 
+**Numbers 4:16**<big><big>[[Num.4.1 The Duties of the Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to the office of Eleazar the son of Aaron the priest [pertaineth] the oil for the light, and the sweet incense, and the daily meat offering, and the anointing oil, [and] the oversight of all the tabernacle, and of all that therein [is], in the sanctuary, and in the vessels thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Eleazar son of Aaron the priest shall oversee the oil for the light, the fragran
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.15|<< Numbers 4:15]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.17|Numbers 4:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] oversight of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6486\|פְקֻדַּ֞ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.ku.Dat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eleazar  |**<big>&#8207;[[H0499G\|אֶלְעָזָ֣ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'el.'a.Zar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 3:29** 
+**Deuteronomy 3:29**<big><big>[[Deut.3.23 Moses Forbidden to Cross the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So we abode in the valley over against Bethpeor.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So we stayed in the valley opposite Beth-peor.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.28|<< Deuteronomy 3:28]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.1|Deuteronomy 4:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we remained  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|נֵּ֣שֶׁב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ne.shev<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the valley  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1516R\|גָּ֔יְא]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Gay'<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

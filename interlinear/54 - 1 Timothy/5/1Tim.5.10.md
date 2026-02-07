@@ -1,12 +1,12 @@
-**1 Timothy 5:10
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 5:10**<big><big>[[1Tim.5.3 Honoring True Widows|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Well reported of for good works; if she have brought up children, if she have lodged strangers, if she have washed the saints’ feet, if she have relieved the afflicted, if she have diligently followed every good work.
 <small><sub>**BSB:**</sub></small>
 and well known for good deeds such as bringing up children, entertaining strangers, washing the feet of the saints, imparting relief to the afflicted, and devoting herself to every good work.
 <small><sub>**Literal:**</sub></small>
 in works good being borne witness to, if she has brought up children, if she entertained strangers, if saints’ feet she has washed, if to those being oppressed she has imparted relief, if to every work good she has followed after.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.9|<< 1 Timothy 5:9]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.11|1 Timothy 5:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | works |**<big>[[G2041\|ἔργοις]]</big>**  |ergois <small><sup>[[N-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

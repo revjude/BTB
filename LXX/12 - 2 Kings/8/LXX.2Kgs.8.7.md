@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:7** 
 <small><sub>**LXX:**</sub></small>
 And Elisha came unto Damascus. And the son of Hadad king of Syria was infirm. And they announced to him, saying, The man of God comes unto here. 
-<small><sub>**KJV:**</sub></small>
-And Elisha came to Damascus; and Benhadad the king of Syria was sick; and it was told him, saying, The man of God is come hither.
-<small><sub>**BSB:**</sub></small>
-Then Elisha came to Damascus while Ben-hadad king of Aram was sick, and the king was told, “The man of God has come here.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.6|<< 2 Kings 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.8|2 Kings 8:8 >>]]</td></tr></table>
 
 | Translation | Greek |

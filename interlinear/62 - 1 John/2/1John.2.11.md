@@ -1,12 +1,12 @@
-**1 John 2:11
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:11**<big><big>[[1John.2.7 A New Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes.
 <small><sub>**BSB:**</sub></small>
 But whoever hates his brother is in the darkness and walks in the darkness. He does not know where he is going, because the darkness has blinded his eyes.
 <small><sub>**Literal:**</sub></small>
 The [one] however hating the brother of him in the darkness is and in the darkness walks and not does he know where he is going, because the darkness has blinded the eyes of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.10|<< 1 John 2:10]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.12|1 John 2:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

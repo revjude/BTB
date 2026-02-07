@@ -1,10 +1,7 @@
 **LXX Deuteronomy 10:11** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to me, Proceed, depart before  this people, and let them enter and inherit the land! which I swore by an oath \[to\] their fathers to give to them. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto me, Arise, take [thy] journey before the people, that they may go in and possess the land, which I sware unto their fathers to give unto them.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to me, “Get up. Continue your journey ahead of the people, that they may enter and possess the land that I swore to their fathers to give them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.10.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.10|<< Deuteronomy 10:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.12|Deuteronomy 10:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 5:4** 
 <small><sub>**LXX:**</sub></small>
 And came to pass the days of Adam which he lived after  his procreating  Seth, seven hundred years, and he procreated sons and daughters. 
-<small><sub>**KJV:**</sub></small>
-And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:
-<small><sub>**BSB:**</sub></small>
-And after he had become the father of Seth, Adam lived 800 years and had other sons and daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.5.3|<< Genesis 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.5.5|Genesis 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

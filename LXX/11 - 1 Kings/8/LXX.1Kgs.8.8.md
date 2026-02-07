@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:8** 
 <small><sub>**LXX:**</sub></small>
 And the sanctified \[staves\] projected, and the heads of the sanctified \[staves\] looked out from the holies unto \[the\] front of the dabir. And they were not seen outside, and they were there until  this day. 
-<small><sub>**KJV:**</sub></small>
-And they drew out the staves, that the ends of the staves were seen out in the holy [place] before the oracle, and they were not seen without: and there they are unto this day.
-<small><sub>**BSB:**</sub></small>
-The poles extended far enough that their ends were visible from the Holy Place in front of the inner sanctuary, but not from outside the Holy Place; and they are there to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.7|<< 1 Kings 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.9|1 Kings 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 20:18** 
+**2 Chronicles 20:18**<big><big>[[2Chr.20.14 The Prophecy of Jahaziel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoshaphat bowed his head with [his] face to the ground: and all Judah and the inhabitants of Jerusalem fell before the LORD, worshipping the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jehoshaphat bowed facedown, and all the people of Judah and Jerusalem fell 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.17|<< 2 Chronicles 20:17]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.19|2 Chronicles 20:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he bowed low  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6915\|יִּקֹּ֧ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoshaphat  |**<big>&#8207;[[H3092I\|יְהוֹשָׁפָ֛ט]]&#8207; </big>**| ye.ho.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

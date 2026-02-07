@@ -1,4 +1,4 @@
-**Job 42:16** 
+**Job 42:16**<big><big>[[Job.42.10 The LORD Blesses Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After this lived Job an hundred and forty years, and saw his sons, and his sons’ sons, [even] four generations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After this, Job lived 140 years and saw his children and their children to the f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.15|<< Job 42:15]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.17|Job 42:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lived  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2421\|יְחִ֤י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Chi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Job  |**<big>&#8207;[[H0347\|אִיּוֹב֙]]&#8207; </big>**| 'i.yOv<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

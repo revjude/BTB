@@ -1,4 +1,4 @@
-**Deuteronomy 14:21** 
+**Deuteronomy 14:21**<big><big>[[Deut.14.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not eat [of] any thing that dieth of itself: thou shalt give it unto the stranger that [is] in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou [art] an holy people unto the LORD thy God. Thou shalt not seethe a kid in his mother’s milk.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are not to eat any carcass; you may give it to the foreigner residing within
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.20|<< Deuteronomy 14:20]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.22|Deuteronomy 14:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will eat  |**<big>&#8207;[[H0398\|תֹאכְל֣וּ]]&#8207; </big>**| to.khe.Lu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

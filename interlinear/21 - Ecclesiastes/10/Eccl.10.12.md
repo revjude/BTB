@@ -1,4 +1,4 @@
-**Ecclesiastes 10:12** 
+**Ecclesiastes 10:12**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of a wise man’s mouth [are] gracious; but the lips of a fool will swallow up himself.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The words of a wise man’s mouth are gracious, but the lips of a fool consume h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.11|<< Ecclesiastes 10:11]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.13|Ecclesiastes 10:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵ֥י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] mouth of  |**<big>&#8207;[[H6310G\|פִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| fi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

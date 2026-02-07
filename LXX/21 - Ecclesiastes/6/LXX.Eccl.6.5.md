@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 6:5** 
 <small><sub>**LXX:**</sub></small>
 And indeed he knew not \[the\] sun, and this one knows not rest over this \[other\] one. 
-<small><sub>**KJV:**</sub></small>
-Moreover he hath not seen the sun, nor known [any thing]: this hath more rest than the other.
-<small><sub>**BSB:**</sub></small>
-The child, though neither seeing the sun nor knowing anything, has more rest than that man,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.6.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.4|<< Ecclesiastes 6:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.6|Ecclesiastes 6:6 >>]]</td></tr></table>
 
 | Translation | Greek |

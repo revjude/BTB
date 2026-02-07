@@ -1,12 +1,12 @@
 (KJV) **Deuteronomy 23**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22|<< Deuteronomy 22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24|Deuteronomy 24 >>]]</td></tr></table>
 
-***Exclusion from the Congregation*** ^bsb519
+<big><big>[[Deut.23.1 Exclusion from the Congregation|⥃]]</big></big>***Exclusion from the Congregation***
 
  $\quad$ <span class="startversemarker">[</span>**[[Deut.23.1|1]]**<span class="endversemarker">]</span> He that is wounded<small><small>[^2]</small></small> in the stones, or hath his privy member cut off, shall not enter<small><small>[^3]</small></small> into the congregation of the <span class="smallcaps">Lord</span>. <span class="startversemarker">[</span>**[[Deut.23.2|2]]**<span class="endversemarker">]</span> A bastard shall not enter into the congregation of the <span class="smallcaps">Lord</span>; even to his tenth generation shall he not enter into the congregation of the <span class="smallcaps">Lord</span>.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[Deut.23.3|3]]**<span class="endversemarker">]</span> An Ammonite<small><small>[^5]</small></small> or Moabite shall not enter into the congregation of the <span class="smallcaps">Lord</span>; even to their tenth generation shall they not enter into the congregation of the <span class="smallcaps">Lord</span> for ever: <span class="startversemarker">[</span>**[[Deut.23.4|4]]**<span class="endversemarker">]</span> Because they met<small><small>[^6]</small></small> you not with bread and with water in the way, when ye came forth out of Egypt; and because they hired<small><small>[^7]</small></small> against thee Balaam the son of Beor of Pethor of Mesopotamia, to curse thee. <span class="startversemarker">[</span>**[[Deut.23.5|5]]**<span class="endversemarker">]</span> Nevertheless<small><small>[^8]</small></small> the <span class="smallcaps">Lord</span> thy God would not hearken unto Balaam; but the <span class="smallcaps">Lord</span> thy God turned the curse into a blessing unto thee, because the<small><small>[^9]</small></small> <span class="smallcaps">Lord</span> thy God loved thee. <span class="startversemarker">[</span>**[[Deut.23.6|6]]**<span class="endversemarker">]</span> Thou shalt<small><small>[^10]</small></small> not seek their peace nor their prosperity<small><small>[^11]</small></small> all thy days for ever. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Deut.23.7|7]]**<span class="endversemarker">]</span> [¶]Thou shalt not abhor an Edomite; for he \[is\] thy<small><small>[^12]</small></small> brother: thou shalt not abhor an Egyptian; because thou<small><small>[^13]</small></small> wast a stranger in his land. <span class="startversemarker">[</span>**[[Deut.23.8|8]]**<span class="endversemarker">]</span> The children that are begotten of them shall enter into<small><small>[^14]</small></small> the congregation of the <span class="smallcaps">Lord</span> in their third generation<small><small>[^15]</small></small>.
 
-***Uncleanness in the Camp***&emsp;<small><sup>\[ [[Lev.15|Leviticus 15:1–12]] ]</sup></small> ^bsb520
+<big><big>[[Deut.23.9 Uncleanness in the Camp|⥃]]</big></big>***Uncleanness in the Camp***&emsp;<small><sup>\[ [[Lev.15|Leviticus 15:1–12]] ]</sup></small>
 
  
 
@@ -16,7 +16,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Deut.23.10|10]]**<span class=
 
 $\quad$ <span class="startversemarker">[</span>**[[Deut.23.12|12]]**<span class="endversemarker">]</span> [¶]Thou shalt have a place also without the camp, whither thou shalt go forth abroad:<small><small>[^21]</small></small> <span class="startversemarker">[</span>**[[Deut.23.13|13]]**<span class="endversemarker">]</span> And thou shalt have a paddle upon thy weapon; and it shall be, when thou wilt ease thyself<small><small>[^22]</small></small> abroad, thou shalt dig therewith, and shalt turn back and cover that<small><small>[^23]</small></small> which cometh from thee: <span class="startversemarker">[</span>**[[Deut.23.14|14]]**<span class="endversemarker">]</span> For the <span class="smallcaps">Lord</span> thy God walketh<small><small>[^24]</small></small> in the midst of thy camp, to deliver thee, and to give up thine enemies before thee; therefore shall thy camp be holy: that he see no unclean thing<small><small>[^25]</small></small> in thee, and turn away from thee.
 
-***Miscellaneous Laws*** ^bsb521
+<big><big>[[Deut.23.15 Miscellaneous Laws|⥃]]</big></big>***Miscellaneous Laws***
 
  
 

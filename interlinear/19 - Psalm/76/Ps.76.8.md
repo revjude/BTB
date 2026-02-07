@@ -1,4 +1,4 @@
-**Psalms 76:8** (76:9)
+**Psalms 76:8**<big><big>[[Ps.76.1 God’s Name Is Great in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou didst cause judgment to be heard from heaven; the earth feared, and was still,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From heaven You pronounced judgment, and the earth feared and was still
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.76.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.7|<< Psalms 76:7]]</td><td align="center" style="border:none;">[[Ps.76|Psalms 76]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.9|Psalms 76:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from heaven  |**<big>&#8207;[[H9006\|מִ֭]]&#8207;&#8207;[[H8064\|שָּׁמַיִם]]&#8207; </big>**| Mi.<small><sup>[[HR]]</sup></small> sha.ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you proclaimed  |**<big>&#8207;[[H8085I\|הִשְׁמַ֣עְתָּ]]&#8207; </big>**| hish.Ma'.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

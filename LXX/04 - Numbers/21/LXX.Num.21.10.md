@@ -1,10 +1,7 @@
 **LXX Numbers 21:10** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel departed, and they camped in Oboth. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel set forward, and pitched in Oboth.
-<small><sub>**BSB:**</sub></small>
-Then the Israelites set out and camped at Oboth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.9|<< Numbers 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.11|Numbers 21:11 >>]]</td></tr></table>
 
 | Translation | Greek |

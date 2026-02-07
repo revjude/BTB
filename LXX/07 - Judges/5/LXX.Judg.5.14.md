@@ -1,10 +1,7 @@
 **LXX Judges 5:14** 
 <small><sub>**LXX:**</sub></small>
 Ephraim rooted them out among  Amalek. After you, Benjamin, with  your peoples. Of me, Machir, they came down searching out; and from Zebulun growing in strength in chiefdom \[of the\] narrative of a scribe. 
-<small><sub>**KJV:**</sub></small>
-Out of Ephraim [was there] a root of them against Amalek; after thee, Benjamin, among thy people; out of Machir came down governors, and out of Zebulun they that handle the pen of the writer.
-<small><sub>**BSB:**</sub></small>
-Some came from Ephraim, with their roots in Amalek; Benjamin came with your people after you. The commanders came down from Machir, the bearers of the marshal’s staff from Zebulun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.13|<< Judges 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.15|Judges 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

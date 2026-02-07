@@ -1,4 +1,4 @@
-**Psalms 65:9** (65:10)
+**Psalms 65:9**<big><big>[[Ps.65.1 Praise Awaits God in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, [which] is full of water: thou preparest them corn, when thou hast so provided for it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You attend to the earth and water it; with abundance You enrich it. The streams 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.65.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.8|<< Psalms 65:8]]</td><td align="center" style="border:none;">[[Ps.65|Psalms 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.65.10|Psalms 65:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you visit  |**<big>&#8207;[[H6485I\|פָּקַ֥דְתָּ]]&#8207; </big>**| pa.Kad.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֨רֶץ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

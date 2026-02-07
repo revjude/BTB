@@ -1,12 +1,12 @@
-**2 Corinthians 3:12
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:12**<big><big>[[2Cor.3.7 The Glory of the New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Seeing then that we have such hope, we use great plainness of speech:
 <small><sub>**BSB:**</sub></small>
 Therefore, since we have such a hope, we are very bold.
 <small><sub>**Literal:**</sub></small>
 Having therefore such hope great boldness we use,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.11|<< 2 Corinthians 3:11]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.13|2 Corinthians 3:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having |**<big>[[G2192\|Ἔχοντες]]</big>**  |Echontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**2 Corinthians 10:18
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 10:18**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For not he that commendeth himself is approved, but whom the Lord commendeth.
 <small><sub>**BSB:**</sub></small>
 For it is not the one who commends himself who is approved, but the one whom the Lord commends.
 <small><sub>**Literal:**</sub></small>
 Not for the [one] himself commending, this [one] is approved, but [the one] whom the Lord commends.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.17|<< 2 Corinthians 10:17]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.1|2 Corinthians 11:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

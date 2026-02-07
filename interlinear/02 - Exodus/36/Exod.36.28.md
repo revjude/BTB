@@ -1,4 +1,4 @@
-**Exodus 36:28** 
+**Exodus 36:28**<big><big>[[Exod.36.20 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And two boards made he for the corners of the tabernacle in the two sides.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and two frames for the two back corners of the tabernacle,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.27|<< Exodus 36:27]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.29|Exodus 36:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and two  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8147\|שְׁנֵ֤י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Nei<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | frames  |**<big>&#8207;[[H7175\|קְרָשִׁים֙]]&#8207; </big>**| ke.ra.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

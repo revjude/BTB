@@ -1,4 +1,4 @@
-**Numbers 3:37** 
+**Numbers 3:37**<big><big>[[Num.3.33 The Merarites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the pillars of the court round about, and their sockets, and their pins, and their cords.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ as well as the posts of the surrounding courtyard with their bases, tent pegs, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.36|<< Numbers 3:36]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.38|Numbers 3:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] pillars of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5982G\|עַמֻּדֵ֧י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.mu.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the courtyard  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H2691A\|חָצֵ֛ר]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> cha.Tzer<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

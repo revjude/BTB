@@ -1,4 +1,4 @@
-**Exodus 34:35** 
+**Exodus 34:35**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel saw the face of Moses, that the skin of Moses’ face shone: and Moses put the vail upon his face again, until he went in to speak with him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ and the Israelites would see that the face of Moses was radiant. So Moses would 
 > $\quad$ referenced by: [[2Cor.3.7|2Cor 3:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they saw  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|רָא֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

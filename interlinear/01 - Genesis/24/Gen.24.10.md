@@ -1,4 +1,4 @@
-**Genesis 24:10** 
+**Genesis 24:10**<big><big>[[Gen.24.1 A Wife for Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the servant took ten camels of the camels of his master, and departed; for all the goods of his master [were] in his hand: and he arose, and went to Mesopotamia, unto the city of Nahor.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the servant took ten of his master’s camels and departed with all manner 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.9|<< Genesis 24:9]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.11|Genesis 24:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the servant  |**<big>&#8207;[[H9009\|הָ֠]]&#8207;&#8207;[[H5650\|עֶבֶד]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> 'e.ved<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

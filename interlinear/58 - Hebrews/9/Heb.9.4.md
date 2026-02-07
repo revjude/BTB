@@ -1,12 +1,12 @@
-**Hebrews 9:4
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:4**<big><big>[[Heb.9.1 The Earthly Tabernacle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein [was] the golden pot that had manna, and Aaron’s rod that budded, and the tables of the covenant;
 <small><sub>**BSB:**</sub></small>
 containing the golden altar of incense and the gold-covered ark of the covenant. Inside the ark were the gold jar of manna, Aaron’s staff that had budded, and the stone tablets of the covenant.
 <small><sub>**Literal:**</sub></small>
 [the] golden having altar of incense and the ark of the covenant covered around in every part with gold, in which [was the] jar golden having the manna and the staff of Aaron which having budded and the tablets of the covenant;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.3|<< Hebrews 9:3]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.5|Hebrews 9:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] golden |**<big>[[G5552\|χρυσοῦν]]</big>**  |chrusoun <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having |**<big>[[G2192\|ἔχουσα]]</big>**  |echousa <small><sup>[[V-PAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

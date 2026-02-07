@@ -1,10 +1,7 @@
 **LXX Psalm 139:9** 
 <small><sub>**LXX:**</sub></small>
 If I may take up  my wings at dawn, and I should encamp unto the ends of the sea, 
-<small><sub>**KJV:**</sub></small>
-[If] I take the wings of the morning, [and] dwell in the uttermost parts of the sea;
-<small><sub>**BSB:**</sub></small>
-If I rise on the wings of the dawn, if I settle by the farthest sea,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.8|<< Psalm 139:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.10|Psalm 139:10 >>]]</td></tr></table>
 
 | Translation | Greek |

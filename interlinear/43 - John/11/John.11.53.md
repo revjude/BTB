@@ -1,12 +1,12 @@
-**John 11:53
-**<small><sub>**KJV:**</sub></small>
+**John 11:53**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then from that day forth they took counsel together for to put him to death.
 <small><sub>**BSB:**</sub></small>
 So from that day on they plotted to kill Him.
 <small><sub>**Literal:**</sub></small>
 From that [very] therefore <the> day they plotted that they may kill Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.52|<< John 11:52]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.54|John 11:54 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From |**<big>[[G0575\|ἀπ᾽]]</big>**  |ap᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that [very] |**<big>[[G1565\|ἐκείνης]]</big>**  |ekeinēs <small><sup>[[D-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 23:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:2**<big><big>[[Acts.23.1 Paul before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the high priest Ananias commanded them that stood by him to smite him on the mouth.
 <small><sub>**BSB:**</sub></small>
 At this, the high priest Ananias ordered those standing near Paul to strike him on the mouth.
 <small><sub>**Literal:**</sub></small>
 <the> Then the high priest Ananias commanded to those standing by him to strike of him the mouth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.1|<< Acts 23:1]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.3|Acts 23:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

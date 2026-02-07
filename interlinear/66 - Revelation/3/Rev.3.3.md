@@ -1,12 +1,12 @@
-**Revelation 3:3
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:3**<big><big>[[Rev.3.1 To the Church in Sardis|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.
 <small><sub>**BSB:**</sub></small>
 Remember, then, what you have received and heard. Keep it and repent. If you do not wake up, I will come like a thief, and you will not know the hour when I will come upon you.
 <small><sub>**Literal:**</sub></small>
 do remember therefore what you have received and heard — and do keep [it] and do repent. If therefore not you shall watch, I will come upon you like a thief, and certainly not you may know at what hour I will come upon you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.2|<< Revelation 3:2]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.4|Revelation 3:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do remember |**<big>[[G3421\|μνημόνευε]]</big>**  |mnēmoneue <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

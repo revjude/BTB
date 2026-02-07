@@ -1,12 +1,12 @@
-**Acts 25:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:23**<big><big>[[Acts.25.23 Paul before Agrippa and Bernice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And on the morrow, when Agrippa was come, and Bernice, with great pomp, and was entered into the place of hearing, with the chief captains, and principal men of the city, at Festus’ commandment Paul was brought forth.
 <small><sub>**BSB:**</sub></small>
 The next day Agrippa and Bernice came with great pomp and entered the auditorium, along with the commanders and leading men of the city. And Festus ordered that Paul be brought in.
 <small><sub>**Literal:**</sub></small>
 On the therefore next day when was coming <the> Agrippa and <the> Bernice with great pomp and having entered into the audience hall with both to the commanders and to men who in prominence being in the city and when was commanding <the> Festus was brought in <the> Paul.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.22|<< Acts 25:22]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.24|Acts 25:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On the |**<big>[[G3588\|Τῇ]]</big>**  |Tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

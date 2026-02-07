@@ -1,4 +1,4 @@
-**Genesis 33:14** 
+**Genesis 33:14**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let my lord, I pray thee, pass over before his servant: and I will lead on softly, according as the cattle that goeth before me and the children be able to endure, until I come unto my lord unto Seir.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Please let my lord go ahead of his servant. I will continue on slowly, at a comf
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.13|<< Genesis 33:13]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.15|Genesis 33:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let him pass on  |**<big>&#8207;[[H5674A\|יַעֲבָר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.'a.vor-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֥א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

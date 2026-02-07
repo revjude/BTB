@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In \[the\] fiftieth and second year  of Azariah king of Judah Pekah son of Remaliah reigned over Israel in Samaria twenty years. 
-<small><sub>**KJV:**</sub></small>
-In the two and fiftieth year of Azariah king of Judah Pekah the son of Remaliah began to reign over Israel in Samaria, [and reigned] twenty years.
-<small><sub>**BSB:**</sub></small>
-In the fifty-second year of Azariah’s reign over Judah, Pekah son of Remaliah became king of Israel, and he reigned in Samaria twenty years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.26|<< 2 Kings 15:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.28|2 Kings 15:28 >>]]</td></tr></table>
 
 | Translation | Greek |

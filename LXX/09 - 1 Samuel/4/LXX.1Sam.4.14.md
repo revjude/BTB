@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:14** 
 <small><sub>**LXX:**</sub></small>
 And Eli heard the sound of the yelling, and said, What \[is\]  this sound of yelling? And the man hastening, entered and reported  to Eli. 
-<small><sub>**KJV:**</sub></small>
-And when Eli heard the noise of the crying, he said, What [meaneth] the noise of this tumult? And the man came in hastily, and told Eli.
-<small><sub>**BSB:**</sub></small>
-Eli heard the outcry and asked, “Why this commotion?” So the man hurried over and reported to Eli.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.13|<< 1 Samuel 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.15|1 Samuel 4:15 >>]]</td></tr></table>
 
 | Translation | Greek |

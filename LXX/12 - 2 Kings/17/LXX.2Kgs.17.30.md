@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:30** 
 <small><sub>**LXX:**</sub></small>
 And the men of Babylon made  Succoth Benoth. And the men of Cuth made  Nergal. And the men of Hamath made  Ashima. 
-<small><sub>**KJV:**</sub></small>
-And the men of Babylon made Succothbenoth, and the men of Cuth made Nergal, and the men of Hamath made Ashima,
-<small><sub>**BSB:**</sub></small>
-The men of Babylon made Succoth-benoth, the men of Cuth made Nergal, the men of Hamath made Ashima,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.29|<< 2 Kings 17:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.31|2 Kings 17:31 >>]]</td></tr></table>
 
 | Translation | Greek |

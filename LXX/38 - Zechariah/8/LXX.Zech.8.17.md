@@ -1,10 +1,7 @@
 **LXX Zechariah 8:17** 
 <small><sub>**LXX:**</sub></small>
 And consider each not evil \[against\] his neighbor in  your hearts! And do not love a lying oath! For all these \[things\] I detested, says \[the\] <span class="smallcaps">lord</span> almighty. 
-<small><sub>**KJV:**</sub></small>
-And let none of you imagine evil in your hearts against his neighbour; and love no false oath: for all these [are things] that I hate, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-do not plot evil in your hearts against your neighbor, and do not love to swear falsely, for I hate all these things,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.16|<< Zechariah 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.18|Zechariah 8:18 >>]]</td></tr></table>
 
 | Translation | Greek |

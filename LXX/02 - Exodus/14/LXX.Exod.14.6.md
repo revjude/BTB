@@ -1,10 +1,7 @@
 **LXX Exodus 14:6** 
 <small><sub>**LXX:**</sub></small>
 Pharaoh then teamed up  his chariots, and he led all his people with himself. 
-<small><sub>**KJV:**</sub></small>
-And he made ready his chariot, and took his people with him:
-<small><sub>**BSB:**</sub></small>
-So Pharaoh prepared his chariot and took his army with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.5|<< Exodus 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.7|Exodus 14:7 >>]]</td></tr></table>
 
 | Translation | Greek |

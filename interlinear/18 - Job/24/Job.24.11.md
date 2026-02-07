@@ -1,4 +1,4 @@
-**Job 24:11** 
+**Job 24:11**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Which] make oil within their walls, [and] tread [their] winepresses, and suffer thirst.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They crush olives within their walls; they tread the winepresses, but go thirsty
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.10|<< Job 24:10]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.12|Job 24:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | between  |**<big>&#8207;[[H0996H\|בֵּין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bein-<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rows their  |**<big>&#8207;[[H7791A\|שׁוּרֹתָ֥]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| shu.ro.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

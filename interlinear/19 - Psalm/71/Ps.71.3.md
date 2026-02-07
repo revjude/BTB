@@ -1,4 +1,4 @@
-**Psalms 71:3** 
+**Psalms 71:3**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be thou my strong habitation, whereunto I may continually resort: thou hast given commandment to save me; for thou [art] my rock and my fortress.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be my rock of refuge, where I can always go. Give the command to save me, for Yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.2|<< Psalms 71:2]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.4|Psalms 71:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | become  |**<big>&#8207;[[H1961\|הֱיֵ֤ה]]&#8207; </big>**| he.Yeh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of me  |**<big>&#8207;[[H9005\|לִ֨]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**James 5:10
-**<small><sub>**KJV:**</sub></small>
+**James 5:10**<big><big>[[Jas.5.7 Patience in Suffering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Take, my brethren, the prophets, who have spoken in the name of the Lord, for an example of suffering affliction, and of patience.
 <small><sub>**BSB:**</sub></small>
 Brothers, as an example of patience in affliction, take the prophets who spoke in the name of the Lord.
 <small><sub>**Literal:**</sub></small>
 [As] an example do take brothers of mine <the> of suffering evils and <the> of patience the prophets who spoke in the name of [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.9|<< James 5:9]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.11|James 5:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [As] an example |**<big>[[G5262\|ὑπόδειγμα]]</big>**  |hupodeigma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do take |**<big>[[G2983\|λάβετε,]]</big>**  |labete <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

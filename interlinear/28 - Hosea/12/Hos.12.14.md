@@ -1,4 +1,4 @@
-**Hosea 12:14** (12:15)
+**Hosea 12:14**<big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ephraim provoked [him] to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ephraim has provoked bitter anger, so his Lord will leave his bloodguilt upon hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.12.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.13|<< Hosea 12:13]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.1|Hosea 13:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has provoked to anger  |**<big>&#8207;[[H3707\|הִכְעִ֥יס]]&#8207; </big>**| hikh.'Is<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֖יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

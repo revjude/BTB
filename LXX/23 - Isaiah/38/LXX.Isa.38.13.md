@@ -1,10 +1,7 @@
 **LXX Isaiah 38:13** 
 <small><sub>**LXX:**</sub></small>
 In  that day I was delivered over until morning. As a lion so he broke all  my bones. For from the day until the night I was delivered over. 
-<small><sub>**KJV:**</sub></small>
-I reckoned till morning, [that], as a lion, so will he break all my bones: from day [even] to night wilt thou make an end of me.
-<small><sub>**BSB:**</sub></small>
-I composed myself until the morning. Like a lion He breaks all my bones; from day until night You make an end of me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.38.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.12|<< Isaiah 38:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.14|Isaiah 38:14 >>]]</td></tr></table>
 
 | Translation | Greek |

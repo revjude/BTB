@@ -1,10 +1,7 @@
 **LXX Judges 3:21** 
 <small><sub>**LXX:**</sub></small>
 And it happened together  in his rising up, that Ehud stretched out  his left hand and took the knife from  his right thigh, and he stuck it into the belly of Eglon. 
-<small><sub>**KJV:**</sub></small>
-And Ehud put forth his left hand, and took the dagger from his right thigh, and thrust it into his belly:
-<small><sub>**BSB:**</sub></small>
-And Ehud reached with his left hand, pulled the sword from his right thigh, and plunged it into Eglon’s belly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.3.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.3.20|<< Judges 3:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.3.22|Judges 3:22 >>]]</td></tr></table>
 
 | Translation | Greek |

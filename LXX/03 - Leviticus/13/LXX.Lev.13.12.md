@@ -1,10 +1,7 @@
 **LXX Leviticus 13:12** 
 <small><sub>**LXX:**</sub></small>
 But if blooming leprosy shall break out in the skin, and the leprosy shall cover all the skin with the infection, from head unto his feet, according to \[the\] whole  vision of the priest; 
-<small><sub>**KJV:**</sub></small>
-And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of [him that hath] the plague from his head even to his foot, wheresoever the priest looketh;
-<small><sub>**BSB:**</sub></small>
-But if the skin disease breaks out all over his skin so that it covers all the skin of the infected person from head to foot, as far as the priest can see,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.11|<< Leviticus 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.13|Leviticus 13:13 >>]]</td></tr></table>
 
 | Translation | Greek |

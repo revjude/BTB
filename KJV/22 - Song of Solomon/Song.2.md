@@ -1,30 +1,30 @@
 (KJV) **Song of Solomon 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1|<< Song of Solomon 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3|Song of Solomon 3 >>]]</td></tr></table>
 
-*The Bride* ^bsb1546
+<big><big>[[Song.2.1 The Bride|⥃]]</big></big>*The Bride*
 
  $\quad$ <span class="startversemarker">[</span>**[[Song.2.1|1]]**<span class="endversemarker">]</span> I \[am\] the rose<small><small>[^2]</small></small> of Sharon, \[and\] the lily<small><small>[^3]</small></small> of the valleys.
 
-*The Bridegroom* ^bsb1547
+<big><big>[[Song.2.2 The Bridegroom|⥃]]</big></big>*The Bridegroom*
 
  <span class="startversemarker">[</span>**[[Song.2.2|2]]**<span class="endversemarker">]</span> As the lily among thorns, so \[is\] my love among the daughters.<small><small>[^4]</small></small>
 
-*The Bride* ^bsb1548
+<big><big>[[Song.2.3 The Bride|⥃]]</big></big>*The Bride*
 
  <span class="startversemarker">[</span>**[[Song.2.3|3]]**<span class="endversemarker">]</span> As the apple tree<small><small>[^5]</small></small> among the trees of the wood, so \[is\] my beloved<small><small>[^6]</small></small> among the sons. I sat<small><small>[^7]</small></small> down under his shadow with great delight, and his fruit<small><small>[^8]</small></small> \[was\] sweet to my taste<small><small>[^9]</small></small>. <span class="startversemarker">[</span>**[[Song.2.4|4]]**<span class="endversemarker">]</span> He brought<small><small>[^10]</small></small> me to the banqueting house<small><small>[^11]</small></small>, and his banner<small><small>[^12]</small></small> over me \[was\] love. <span class="startversemarker">[</span>**[[Song.2.5|5]]**<span class="endversemarker">]</span> Stay<small><small>[^13]</small></small> me with flagons<small><small>[^14]</small></small>, comfor<small><small>[^15]</small></small>t me<small><small>[^16]</small></small> with apples: for I \[am\] sick of love. <span class="startversemarker">[</span>**[[Song.2.6|6]]**<span class="endversemarker">]</span> His left hand \[is\] under my head, and his right hand doth embrace me.<small><small>[^17]</small></small> <span class="startversemarker">[</span>**[[Song.2.7|7]]**<span class="endversemarker">]</span> I charge you<small><small>[^18]</small></small>, O ye<small><small>[^19]</small></small> daughters of Jerusalem, by the roes<small><small>[^20]</small></small>, and by the hinds of the field, that ye stir<small><small>[^21]</small></small> not up, nor awake \[my\] love, till he please. 
 
 $\quad$ <span class="startversemarker">[</span>**[[Song.2.8|8]]**<span class="endversemarker">]</span> The voice<small><small>[^22]</small></small> of my beloved! behold, he cometh leaping<small><small>[^23]</small></small> upon the mountains<small><small>[^24]</small></small>, skipping upon the hills. <span class="startversemarker">[</span>**[[Song.2.9|9]]**<span class="endversemarker">]</span> My beloved is like<small><small>[^25]</small></small> a roe or a young hart: behold, he standeth<small><small>[^26]</small></small> behind our wall, he looketh forth at the windows, shewing<small><small>[^27]</small></small> himself through the lattice. <span class="startversemarker">[</span>**[[Song.2.10|10]]**<span class="endversemarker">]</span> My beloved spake<small><small>[^28]</small></small>, and said unto me, Rise<small><small>[^29]</small></small> up, my love, my fair one, and come away. <span class="startversemarker">[</span>**[[Song.2.11|11]]**<span class="endversemarker">]</span> For, lo, the winter is past, the rain is over \[and\] gone;<small><small>[^30]</small></small> <span class="startversemarker">[</span>**[[Song.2.12|12]]**<span class="endversemarker">]</span> The flowers<small><small>[^31]</small></small> appear on the earth; the time<small><small>[^32]</small></small> of the singing \[of birds\] is come, and the voice of the turtle<small><small>[^33]</small></small> is heard in our land; <span class="startversemarker">[</span>**[[Song.2.13|13]]**<span class="endversemarker">]</span> The fig tree<small><small>[^34]</small></small> putteth forth her green figs, and the vines \[with\] the tender grape give a \[good\] smell. Arise<small><small>[^35]</small></small>, my love, my fair one, and come away.
 
-*The Bridegroom* ^bsb1549
+<big><big>[[Song.2.14 The Bridegroom|⥃]]</big></big>*The Bridegroom*
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Song.2.14|14]]**<span class="endversemarker">]</span> O my dove<small><small>[^36]</small></small>, \[that art<small><small>[^37]</small></small>\] in the clefts<small><small>[^38]</small></small> of the rock, in the secret \[places\] of the stairs, let me see thy countenance, let me hear<small><small>[^39]</small></small> thy voice; for sweet<small><small>[^40]</small></small> \[is\] thy voice, and thy countenance<small><small>[^41]</small></small> \[is\] comely.
 
-*The Friends* ^bsb1550
+<big><big>[[Song.2.15 The Friends|⥃]]</big></big>*The Friends*
 
  <span class="startversemarker">[</span>**[[Song.2.15|15]]**<span class="endversemarker">]</span> Take us the foxes<small><small>[^42]</small></small>, the little foxes, that spoil the vines: for our vines \[have\] tender<small><small>[^43]</small></small> grapes.
 
-*The Bride* ^bsb1551
+<big><big>[[Song.2.16 The Bride|⥃]]</big></big>*The Bride*
 
  
 

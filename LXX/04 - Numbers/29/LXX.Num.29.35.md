@@ -1,10 +1,7 @@
 **LXX Numbers 29:35** 
 <small><sub>**LXX:**</sub></small>
 And the eighth day will be a holiday recess to you. All servile work you shall not do on it. 
-<small><sub>**KJV:**</sub></small>
-On the eighth day ye shall have a solemn assembly: ye shall do no servile work [therein]:
-<small><sub>**BSB:**</sub></small>
-On the eighth day you are to hold a solemn assembly; you must not do any regular work.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.29.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.34|<< Numbers 29:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.29.36|Numbers 29:36 >>]]</td></tr></table>
 
 | Translation | Greek |

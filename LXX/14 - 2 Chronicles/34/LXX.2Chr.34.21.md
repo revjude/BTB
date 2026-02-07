@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:21** 
 <small><sub>**LXX:**</sub></small>
 Go, seek \[the\] <span class="smallcaps">lord</span> for me, and for all the ones left in Israel and Judah, concerning the words of the scroll of the one being found! for great \[is\] the rage of \[the\] <span class="smallcaps">lord</span> which burns away against us, because our fathers did not listen \[concerning\] the word of \[the\] <span class="smallcaps">lord</span>,  to do according to all the \[things\] being written in  this scroll. 
-<small><sub>**KJV:**</sub></small>
-Go, inquire of the LORD for me, and for them that are left in Israel and in Judah, concerning the words of the book that is found: for great [is] the wrath of the LORD that is poured out upon us, because our fathers have not kept the word of the LORD, to do after all that is written in this book.
-<small><sub>**BSB:**</sub></small>
-“Go and inquire of the LORD for me and for those remaining in Israel and Judah concerning the words in the book that has been found. For great is the wrath of the LORD that has been poured out on us because our fathers have not kept the word of the LORD by doing all that is written in this book.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.20|<< 2 Chronicles 34:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.22|2 Chronicles 34:22 >>]]</td></tr></table>
 
 | Translation | Greek |

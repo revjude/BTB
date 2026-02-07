@@ -1,4 +1,4 @@
-**Proverbs 31:4** 
+**Proverbs 31:4**<big><big>[[Prov.31.1 The Sayings for King Lemuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] not for kings, O Lemuel, [it is] not for kings to drink wine; nor for princes strong drink:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is not for kings, O Lemuel, it is not for kings to drink wine, or for rulers 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.3|<< Proverbs 31:3]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.5|Proverbs 31:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not [it be]  |**<big>&#8207;[[H0408\|אַ֤ל]]&#8207; </big>**| 'al<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> kings  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H4428G\|מְלָכִ֨ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> m.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

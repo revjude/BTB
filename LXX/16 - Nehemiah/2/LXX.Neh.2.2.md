@@ -1,10 +1,7 @@
 **LXX Nehemiah 2:2** 
 <small><sub>**LXX:**</sub></small>
 And the king said to me, Why is your face in a sorry state, and you are not content? For is this not unless \[there is\] a sorrowful heart. And I was afraid exceedingly much. 
-<small><sub>**KJV:**</sub></small>
-Wherefore the king said unto me, Why [is] thy countenance sad, seeing thou [art] not sick? this [is] nothing [else] but sorrow of heart. Then I was very sore afraid,
-<small><sub>**BSB:**</sub></small>
-so the king said to me, “Why is your face sad, though you are not ill? This could only be sadness of the heart.” I was overwhelmed with fear<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.1|<< Nehemiah 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.3|Nehemiah 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

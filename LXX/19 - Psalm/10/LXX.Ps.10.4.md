@@ -1,10 +1,7 @@
 **LXX Psalm 10:4** 
 <small><sub>**LXX:**</sub></small>
 The sinner provoked the <span class="smallcaps">lord</span> according to the magnitude  of his anger; he shall not seek after \[God\]; God is not before him; 
-<small><sub>**KJV:**</sub></small>
-The wicked, through the pride of his countenance, will not seek [after God]: God [is] not in all his thoughts.
-<small><sub>**BSB:**</sub></small>
-In his pride the wicked man does not seek Him; in all his schemes there is no God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.10.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.3|<< Psalm 10:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.5|Psalm 10:5 >>]]</td></tr></table>
 
 | Translation | Greek |

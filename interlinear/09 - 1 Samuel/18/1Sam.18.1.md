@@ -1,4 +1,4 @@
-**1 Samuel 18:1** 
+**1 Samuel 18:1**<big><big>[[1Sam.18.1 Jonathan Befriends David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After David had finished speaking with Saul, the souls of Jonathan and David wer
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.58|<< 1 Samuel 17:58]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.2|1 Samuel 18:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when finished he  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3615G\|כַלֹּת]]&#8207;&#8207;[[H9043\|וֹ֙]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> kha.lo.T<small><sup>[[HVpcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

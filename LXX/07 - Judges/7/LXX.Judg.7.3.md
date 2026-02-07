@@ -1,10 +1,7 @@
 **LXX Judges 7:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to him, Speak indeed into the ears of the people! saying, Any  one fearing and timid return! And they sallied out from  mount Gilead. And returned of the people twenty and two thousand, and ten thousand were left behind. 
-<small><sub>**KJV:**</sub></small>
-Now therefore go to, proclaim in the ears of the people, saying, Whosoever [is] fearful and afraid, let him return and depart early from mount Gilead. And there returned of the people twenty and two thousand; and there remained ten thousand.
-<small><sub>**BSB:**</sub></small>
-Now, therefore, proclaim in the hearing of the men: ‘Whoever is fearful and trembling may turn back and leave Mount Gilead.’” So twenty-two thousand of them turned back, but ten thousand remained.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.2|<< Judges 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.4|Judges 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

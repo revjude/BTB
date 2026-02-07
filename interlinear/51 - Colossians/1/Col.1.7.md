@@ -1,12 +1,12 @@
-**Colossians 1:7
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:7**<big><big>[[Col.1.3 Thanksgiving and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;
 <small><sub>**BSB:**</sub></small>
 You learned it from Epaphras, our beloved fellow servant, who is a faithful minister of Christ on our behalf,
 <small><sub>**Literal:**</sub></small>
 even as and you learned from Epaphras the beloved fellow bond-servant of us, who is faithful on behalf of of you a servant <the> of Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.6|<< Colossians 1:6]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.8|Colossians 1:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

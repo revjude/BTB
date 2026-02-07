@@ -1,4 +1,4 @@
-**Jeremiah 32:43** 
+**Jeremiah 32:43**<big><big>[[Jer.32.36 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And fields shall be bought in this land, whereof ye say, [It is] desolate without man or beast; it is given into the hand of the Chaldeans.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And fields will be bought in this land about which you are saying, ‘It is a de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.42|<< Jeremiah 32:42]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.44|Jeremiah 32:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be bought  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7069\|נִקְנָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nik.Nah<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the field  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7704G\|שָּׂדֶ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

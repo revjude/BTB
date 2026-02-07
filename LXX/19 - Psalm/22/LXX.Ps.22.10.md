@@ -1,10 +1,7 @@
 **LXX Psalm 22:10** 
 <small><sub>**LXX:**</sub></small>
 I was cast upon you from \[the\] womb; from out of \[the\] belly of my mother you are my God. 
-<small><sub>**KJV:**</sub></small>
-I was cast upon thee from the womb: thou [art] my God from my mother’s belly.
-<small><sub>**BSB:**</sub></small>
-From birth I was cast upon You; from my mother’s womb You have been my God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.9|<< Psalm 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.11|Psalm 22:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:10** is...

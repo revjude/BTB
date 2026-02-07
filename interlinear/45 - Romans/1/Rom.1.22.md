@@ -1,5 +1,5 @@
-**Romans 1:22
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:22**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Professing themselves to be wise, they became fools,
 <small><sub>**BSB:**</sub></small>
 Although they claimed to be wise, they became fools,
@@ -11,7 +11,7 @@ Professing to be wise they became fools<br><table width="100%" border="0"><tr><t
 > $\quad$ alluding to: [[LXX.Jer.10.14|Jer 10:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Professing |**<big>[[G5335\|φάσκοντες]]</big>**  |phaskontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to be |**<big>[[G1511\|εἶναι]]</big>**  |einai <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

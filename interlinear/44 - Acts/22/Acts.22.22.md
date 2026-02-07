@@ -1,12 +1,12 @@
-**Acts 22:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:22**<big><big>[[Acts.22.22 Paul the Roman Citizen|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they gave him audience unto this word, and [then] lifted up their voices, and said, Away with such a [fellow] from the earth: for it is not fit that he should live.
 <small><sub>**BSB:**</sub></small>
 The crowd listened to Paul until he made this statement. Then they lifted up their voices and shouted, “Rid the earth of him! He is not fit to live!”
 <small><sub>**Literal:**</sub></small>
 They were listening now to him until this <the> word and they lifted up the voice of them saying; Away from the earth <the> [with] such; Not for it was proper [for] him to live!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.21|<< Acts 22:21]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.23|Acts 22:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were listening |**<big>[[G0191\|Ἤκουον]]</big>**  |Ēkouon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

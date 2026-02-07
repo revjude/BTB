@@ -1,4 +1,4 @@
-**1 Samuel 1:15** 
+**1 Samuel 1:15**<big><big>[[1Sam.1.9 Hannah Prays for a Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hannah answered and said, No, my lord, I [am] a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but have poured out my soul before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Hannah answered and said, No, my lord, I [am] a woman of a sorrowful spirit:
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.14|<< 1 Samuel 1:14]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.16|1 Samuel 1:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|תַּ֨עַן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.'an<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hannah  |**<big>&#8207;[[H2584\|חַנָּ֤ה]]&#8207; </big>**| cha.Nah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

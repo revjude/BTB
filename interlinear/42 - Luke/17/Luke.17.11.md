@@ -1,12 +1,12 @@
-**Luke 17:11
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:11**<big><big>[[Luke.17.11 The Ten Lepers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee.
 <small><sub>**BSB:**</sub></small>
 While Jesus was on His way to Jerusalem, He was passing between Samaria and Galilee.
 <small><sub>**Literal:**</sub></small>
 And it came to pass in the going up him to Jerusalem that He himself was passing through [the] midst of Samaria and Galilee.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.10|<< Luke 17:10]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.12|Luke 17:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

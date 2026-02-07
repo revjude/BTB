@@ -1,4 +1,4 @@
-**Job 34:15** 
+**Job 34:15**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All flesh shall perish together, and man shall turn again unto dust.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ all flesh would perish together and mankind would return to the dust.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.14|<< Job 34:14]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.16|Job 34:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will expire  |**<big>&#8207;[[H1478\|יִגְוַ֣ע]]&#8207; </big>**| yig.Va'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

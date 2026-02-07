@@ -1,12 +1,12 @@
-**Matthew 27:41
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:41**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Likewise also the chief priests mocking [him], with the scribes and elders, said,
 <small><sub>**BSB:**</sub></small>
 In the same way, the chief priests, scribes, and elders mocked Him, saying,
 <small><sub>**Literal:**</sub></small>
 Likewise now also the chief priests mocking with the scribes and elders and Pharisees were saying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.40|<< Matthew 27:40]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.42|Matthew 27:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Likewise |**<big>[[G3668\|ὁμοίως]]</big>**  |homoiōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |

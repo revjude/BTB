@@ -1,10 +1,7 @@
 **LXX Psalm 89:47** 
 <small><sub>**LXX:**</sub></small>
 Remember what  my reality \[is\]; for acting in folly, did you creat all the sons  of men? 
-<small><sub>**KJV:**</sub></small>
-Remember how short my time is: wherefore hast thou made all men in vain?
-<small><sub>**BSB:**</sub></small>
-Remember the briefness of my lifespan! For what futility You have created all men!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.46|<< Psalm 89:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.48|Psalm 89:48 >>]]</td></tr></table>
 
 | Translation | Greek |

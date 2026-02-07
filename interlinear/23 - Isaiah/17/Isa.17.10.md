@@ -1,4 +1,4 @@
-**Isaiah 17:10** 
+**Isaiah 17:10**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because thou hast forgotten the God of thy salvation, and hast not been mindful of the rock of thy strength, therefore shalt thou plant pleasant plants, and shalt set it with strange slips:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For you have forgotten the God of your salvation and failed to remember the Rock
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.9|<< Isaiah 17:9]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.11|Isaiah 17:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have forgotten  |**<big>&#8207;[[H7911\|שָׁכַ֙חַתְּ֙]]&#8207; </big>**| sha.Kha.chat<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

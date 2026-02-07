@@ -1,4 +1,4 @@
-**Daniel 4:18** (4:15)
+**Daniel 4:18**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This dream I king Nebuchadnezzar have seen. Now thou, O Belteshazzar, declare the interpretation thereof, forasmuch as all the wise [men] of my kingdom are not able to make known unto me the interpretation: but thou [art] able; for the spirit of the holy gods [is] in thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the dream that I, King Nebuchadnezzar, saw. Now, Belteshazzar, tell me t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.17|<< Daniel 4:17]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.19|Daniel 4:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H1836\|דְּנָה֙]]&#8207; </big>**| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dream the  |**<big>&#8207;[[H2493\|חֶלְמָ֣]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| chel.Ma<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

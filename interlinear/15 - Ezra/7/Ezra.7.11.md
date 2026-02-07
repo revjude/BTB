@@ -1,4 +1,4 @@
-**Ezra 7:11** 
+**Ezra 7:11**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now this [is] the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, [even] a scribe of the words of the commandments of the LORD, and of his statutes to Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the text of the letter King Artaxerxes had given to Ezra the priest and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.10|<< Ezra 7:10]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.12|Ezra 7:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2088\|זֶ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] copy of  |**<big>&#8207;[[H6572A\|פַּרְשֶׁ֣גֶן]]&#8207; </big>**| par.She.gen<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

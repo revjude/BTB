@@ -1,4 +1,4 @@
-**Job 40:20** 
+**Job 40:20**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely the mountains bring him forth food, where all the beasts of the field play.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The hills yield him their produce, while all the beasts of the field play nearby
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.19|<< Job 40:19]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.21|Job 40:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] beast[s] of  |**<big>&#8207;[[H0944\|ב֭וּל]]&#8207; </big>**| vul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

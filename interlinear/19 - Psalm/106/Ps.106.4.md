@@ -1,4 +1,4 @@
-**Psalms 106:4** 
+**Psalms 106:4**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember me, O LORD, with the favour [that thou bearest unto] thy people: O visit me with thy salvation;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember me, O LORD, in Your favor to Your people; visit me with Your salvation,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.3|<< Psalms 106:3]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.5|Psalms 106:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember me  |**<big>&#8207;[[H2142\|זָכְרֵ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| za.khe.Re.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

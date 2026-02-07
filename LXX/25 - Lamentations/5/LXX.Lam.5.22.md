@@ -1,10 +1,7 @@
 **LXX Lamentations 5:22** 
 <small><sub>**LXX:**</sub></small>
 For in thrusting away, you thrusted us away; you were provoked to anger against us, unto exceedingly. 
-<small><sub>**KJV:**</sub></small>
-But thou hast utterly rejected us; thou art very wroth against us.
-<small><sub>**BSB:**</sub></small>
-unless You have utterly rejected us and remain angry with us beyond measure.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.5.21|<< Lamentations 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.1|Ezekiel 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

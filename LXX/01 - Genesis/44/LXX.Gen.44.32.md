@@ -1,10 +1,7 @@
 **LXX Genesis 44:32** 
 <small><sub>**LXX:**</sub></small>
  For your servant has looked out for the child for  my father, saying, If I do not lead him to you, I will be sinning against \[my\] father all the days. 
-<small><sub>**KJV:**</sub></small>
-For thy servant became surety for the lad unto my father, saying, If I bring him not unto thee, then I shall bear the blame to my father for ever.
-<small><sub>**BSB:**</sub></small>
-Indeed, your servant guaranteed the boy’s safety to my father, saying, ‘If I do not return him to you, I will bear the guilt before you, my father, all my life.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.31|<< Genesis 44:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.33|Genesis 44:33 >>]]</td></tr></table>
 
 | Translation | Greek |

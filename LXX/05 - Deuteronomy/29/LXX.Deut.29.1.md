@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 These are the words of the covenant, which \[the\] <span class="smallcaps">lord</span> gave charge to Moses to establish with the sons of Israel in \[the\] land of Moab, besides the covenant of which he ordained with them in Horeb. 
-<small><sub>**KJV:**</sub></small>
-These [are] the words of the covenant, which the LORD commanded Moses to make with the children of Israel in the land of Moab, beside the covenant which he made with them in Horeb.
-<small><sub>**BSB:**</sub></small>
-These are the words of the covenant that the LORD commanded Moses to make with the Israelites in the land of Moab, in addition to the covenant He had made with them at Horeb.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.68|<< Deuteronomy 28:68]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.2|Deuteronomy 29:2 >>]]</td></tr></table>
 
 | Translation | Greek |

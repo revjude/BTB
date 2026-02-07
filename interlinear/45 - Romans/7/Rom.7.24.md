@@ -1,12 +1,12 @@
-**Romans 7:24
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:24**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 O wretched man that I am! who shall deliver me from the body of this death?
 <small><sub>**BSB:**</sub></small>
 What a wretched man I am! Who will rescue me from this body of death?
 <small><sub>**Literal:**</sub></small>
 O wretched I myself [am] man! Who me will deliver out of the body <the> of death this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.23|<< Romans 7:23]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.25|Romans 7:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O wretched |**<big>[[G5005\|ταλαίπωρος]]</big>**  |talaipōros <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I myself [am] |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

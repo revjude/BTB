@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:12** 
 <small><sub>**LXX:**</sub></small>
 A spirit of fullness shall come to me; but now I shall speak my judgments against them. 
-<small><sub>**KJV:**</sub></small>
-[Even] a full wind from those [places] shall come unto me: now also will I give sentence against them.
-<small><sub>**BSB:**</sub></small>
-a wind too strong for that comes from Me. Now I also pronounce judgments against them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.11|<< Jeremiah 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.13|Jeremiah 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

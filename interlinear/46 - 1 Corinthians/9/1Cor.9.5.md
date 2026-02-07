@@ -1,12 +1,12 @@
-**1 Corinthians 9:5
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:5**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Have we not power to lead about a sister, a wife, as well as other apostles, and [as] the brethren of the Lord, and Cephas?
 <small><sub>**BSB:**</sub></small>
 Have we no right to take along a believing wife, as do the other apostles and the Lord’s brothers and Cephas?
 <small><sub>**Literal:**</sub></small>
 certainly surely we have authority a sister a wife to take about as also the other apostles and the brothers of the Lord and Cephas?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.4|<< 1 Corinthians 9:4]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.6|1 Corinthians 9:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | surely |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

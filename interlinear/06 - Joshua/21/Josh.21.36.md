@@ -1,4 +1,4 @@
-**Joshua 21:36** 
+**Joshua 21:36**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And out of the tribe of Reuben, Bezer with her suburbs, and Jahazah with her suburbs,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the tribe of Reuben they were given Bezer, Jahaz,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.35|<< Joshua 21:35]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.37|Joshua 21:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from [the] tribe of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4294H\|מַּטֵּ֣ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Restored text based on Leningrad parallels">R</abbr> |
 | Reuben  |**<big>&#8207;[[H7205\|רְאוּבֵ֔ן]]&#8207; </big>**| re.'u.Ven<small><sup>[[HNpm]]</sup></small> | <abbr title="Restored text based on Leningrad parallels">R</abbr> |

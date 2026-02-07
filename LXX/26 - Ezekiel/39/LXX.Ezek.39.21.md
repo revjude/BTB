@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And I will put  my glory among you, and all the nations shall see  my judgment which I did, and  my hand which I brought upon them. 
-<small><sub>**KJV:**</sub></small>
-And I will set my glory among the heathen, and all the heathen shall see my judgment that I have executed, and my hand that I have laid upon them.
-<small><sub>**BSB:**</sub></small>
-I will display My glory among the nations, and all the nations will see the judgment that I execute and the hand that I lay upon them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.20|<< Ezekiel 39:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.22|Ezekiel 39:22 >>]]</td></tr></table>
 
 | Translation | Greek |

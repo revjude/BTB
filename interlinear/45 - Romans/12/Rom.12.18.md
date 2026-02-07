@@ -1,12 +1,12 @@
-**Romans 12:18
-**<small><sub>**KJV:**</sub></small>
+**Romans 12:18**<big><big>[[Rom.12.14 Forgiveness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If it be possible, as much as lieth in you, live peaceably with all men.
 <small><sub>**BSB:**</sub></small>
 If it is possible on your part, live at peace with everyone.
 <small><sub>**Literal:**</sub></small>
 if possible <the> of you with all men living at peace,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.17|<< Romans 12:17]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.19|Romans 12:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | possible |**<big>[[G1415\|δυνατόν,]]</big>**  |dunaton <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And I said, O Being One, O <span class="smallcaps">lord</span>. Behold, the prophets prophesy and say, You shall not see a sword, nor shall hunger be among you; for truth and peace I shall appoint upon the land, and in  this place. 
-<small><sub>**KJV:**</sub></small>
-Then said I, Ah, Lord GOD! behold, the prophets say unto them, Ye shall not see the sword, neither shall ye have famine; but I will give you assured peace in this place.
-<small><sub>**BSB:**</sub></small>
-“Ah, Lord GOD!” I replied, “Look, the prophets are telling them, ‘You will not see the sword or suffer famine, but I will give you lasting peace in this place.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.12|<< Jeremiah 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.14|Jeremiah 14:14 >>]]</td></tr></table>
 
 | Translation | Greek |

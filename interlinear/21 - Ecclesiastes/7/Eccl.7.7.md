@@ -1,4 +1,4 @@
-**Ecclesiastes 7:7** 
+**Ecclesiastes 7:7**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely oppression maketh a wise man mad; and a gift destroyeth the heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely extortion turns a wise man into a fool, and a bribe corrupts the heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.6|<< Ecclesiastes 7:6]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.8|Ecclesiastes 7:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> oppression  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6233\|עֹ֖שֶׁק]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'O.shek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

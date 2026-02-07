@@ -1,5 +1,5 @@
-**Hebrews 3:7
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:7**<big><big>[[Heb.3.7 Do Not Harden Your Hearts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,
 <small><sub>**BSB:**</sub></small>
 Therefore, as the Holy Spirit says: “Today, if you hear His voice,
@@ -10,7 +10,7 @@ Therefore, even as says the Spirit <the> Holy: Today if the voice of Him you sha
 > $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore, |**<big>[[G1352\|Διό,]]</big>**  |Dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

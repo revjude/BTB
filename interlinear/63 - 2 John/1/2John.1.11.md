@@ -1,12 +1,12 @@
-**2 John 1:11
-**<small><sub>**KJV:**</sub></small>
+**2 John 1:11**<big><big>[[2John.1.7 Beware of Deceivers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he that biddeth him God speed is partaker of his evil deeds.
 <small><sub>**BSB:**</sub></small>
 Whoever greets such a person shares in his evil deeds.
 <small><sub>**Literal:**</sub></small>
 the [one] telling for him to rejoice partakes in the works of him <the> evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.10|<< 2 John 1:10]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.12|2 John 1:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | telling |**<big>[[G3004G\|λέγων]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |

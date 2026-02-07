@@ -1,10 +1,7 @@
 **LXX Numbers 3:3** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the names of the sons of Aaron, the priests, the ones being anointed whom were perfected  of their hands to officiate as priest. 
-<small><sub>**KJV:**</sub></small>
-These [are] the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest’s office.
-<small><sub>**BSB:**</sub></small>
-These were Aaron’s sons, the anointed priests, who were ordained to serve as priests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.2|<< Numbers 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.4|Numbers 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

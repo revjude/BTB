@@ -1,4 +1,4 @@
-**Deuteronomy 7:21** 
+**Deuteronomy 7:21**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not be affrighted at them: for the LORD thy God [is] among you, a mighty God and terrible.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not be terrified by them, for the LORD your God, who is among you, is a great
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.20|<< Deuteronomy 7:20]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.22|Deuteronomy 7:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you must be terrified  |**<big>&#8207;[[H6206\|תַעֲרֹ֖ץ]]&#8207; </big>**| ta.'a.Rotz<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

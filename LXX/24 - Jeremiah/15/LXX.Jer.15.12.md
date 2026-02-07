@@ -1,10 +1,7 @@
 **LXX Jeremiah 15:12** 
 <small><sub>**LXX:**</sub></small>
 Shall it be known \[that\] iron and a wrap-around garment of brass  \[is\] your strength, \[no\]. 
-<small><sub>**KJV:**</sub></small>
-Shall iron break the northern iron and the steel?
-<small><sub>**BSB:**</sub></small>
-Can anyone smash iron—iron from the north—or bronze?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.15.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.11|<< Jeremiah 15:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.13|Jeremiah 15:13 >>]]</td></tr></table>
 
 | Translation | Greek |

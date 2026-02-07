@@ -1,10 +1,7 @@
 **LXX Psalm 51:12** 
 <small><sub>**LXX:**</sub></small>
 Give back to me the exultation  of your deliverance, and support me \[with your\] governing spirit! 
-<small><sub>**KJV:**</sub></small>
-Restore unto me the joy of thy salvation; and uphold me [with thy] free spirit.
-<small><sub>**BSB:**</sub></small>
-Restore to me the joy of Your salvation, and sustain me with a willing spirit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.51.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.51.11|<< Psalm 51:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.13|Psalm 51:13 >>]]</td></tr></table>
 
 | Translation | Greek |

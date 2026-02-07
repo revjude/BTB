@@ -1,12 +1,12 @@
-**Revelation 18:9
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:9**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the kings of the earth, who have committed fornication and lived deliciously with her, shall bewail her, and lament for her, when they shall see the smoke of her burning,
 <small><sub>**BSB:**</sub></small>
 Then the kings of the earth who committed sexual immorality and lived in luxury with her will weep and wail at the sight of the smoke rising from the fire that consumes her.
 <small><sub>**Literal:**</sub></small>
 And they will weep [for] her and they will wail for her the kings of the earth the [ones who] with her having committed sexual immorality and having lived luxuriously, when they may see the smoke of the burning of her<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.8|<< Revelation 18:8]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.10|Revelation 18:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they will weep [^1] |**<big>[[G2799\|κλαύσουσιν]]</big>**  |klausousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |

@@ -1,4 +1,4 @@
-**Proverbs 31:27** 
+**Proverbs 31:27**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She looketh well to the ways of her household, and eateth not the bread of idleness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She watches over the affairs of her household and does not eat the bread of idle
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.26|<< Proverbs 31:26]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.28|Proverbs 31:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [she is] watching over  |**<big>&#8207;[[H6822\|צ֭וֹפִיָּה]]&#8207; </big>**| Tzo.fi.yah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] ways of  |**<big>&#8207;[[H1979\|הֲלִיכ֣וֹת]]&#8207; </big>**| ha.li.Khot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

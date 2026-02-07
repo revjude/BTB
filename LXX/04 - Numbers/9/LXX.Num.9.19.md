@@ -1,10 +1,7 @@
 **LXX Numbers 9:19** 
 <small><sub>**LXX:**</sub></small>
 And whenever the cloud should be dragged upon the tent for many days, that the sons of Israel shall guard the watch of the <span class="smallcaps">lord</span>, and in no way shall they lift away. 
-<small><sub>**KJV:**</sub></small>
-And when the cloud tarried long upon the tabernacle many days, then the children of Israel kept the charge of the LORD, and journeyed not.
-<small><sub>**BSB:**</sub></small>
-Even when the cloud lingered over the tabernacle for many days, the Israelites kept the LORD’s charge and did not set out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.18|<< Numbers 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.20|Numbers 9:20 >>]]</td></tr></table>
 
 | Translation | Greek |

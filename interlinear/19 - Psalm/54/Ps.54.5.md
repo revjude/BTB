@@ -1,4 +1,4 @@
-**Psalms 54:5** (54:7)
+**Psalms 54:5**<big><big>[[Ps.54.1 Save Me by Your Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall reward evil unto mine enemies: cut them off in thy truth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will reward my enemies with evil. In Your faithfulness, destroy them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.54.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.54.4|<< Psalms 54:4]]</td><td align="center" style="border:none;">[[Ps.54|Psalms 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.54.6|Psalms 54:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may he bring back  [^1]|**<big>&#8207;[[H7725H\|יָשִׁ֣יב]]&#8207; </big>**[^2] | ya.Shiv<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | the evil  |**<big>&#8207;[[H9009\|הָ֭]]&#8207;&#8207;[[H7451B\|רַע]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

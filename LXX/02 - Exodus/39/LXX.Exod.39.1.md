@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the leftover blue and purple and the scarlet they made \[into\] apparels for \[the\] ministry of Aaron, for the officiating in them in the holy \[place\], as \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And of the blue, and purple, and scarlet, they made cloths of service, to do service in the holy [place], and made the holy garments for Aaron; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-From the blue, purple, and scarlet yarn they made specially woven garments for ministry in the sanctuary, as well as the holy garments for Aaron, just as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.31|<< Exodus 38:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.2|Exodus 39:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Colossians 4:15
-**<small><sub>**KJV:**</sub></small>
+**Colossians 4:15**<big><big>[[Col.4.15 Signature and Final Instructions|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Salute the brethren which are in Laodicea, and Nymphas, and the church which is in his house.
 <small><sub>**BSB:**</sub></small>
 Greet the brothers in Laodicea, as well as Nympha and the church that meets at her house.
 <small><sub>**Literal:**</sub></small>
 do greet the in Laodicea brothers and also Nympha and the in house of her church.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.14|<< Colossians 4:14]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.16|Colossians 4:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do greet |**<big>[[G0782\|Ἀσπάσασθε]]</big>**  |Aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

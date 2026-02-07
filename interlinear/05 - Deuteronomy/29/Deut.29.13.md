@@ -1,4 +1,4 @@
-**Deuteronomy 29:13** (29:12)
+**Deuteronomy 29:13**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That he may establish thee to day for a people unto himself, and [that] he may be unto thee a God, as he hath said unto thee, and as he hath sworn unto thy fathers, to Abraham, to Isaac, and to Jacob.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and so that He may establish you today as His people, and He may be your God as 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.12|<< Deuteronomy 29:12]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.14|Deuteronomy 29:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so as  |**<big>&#8207;[[H4616\|לְמַ֣עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to establish  |**<big>&#8207;[[H6965I\|הָקִֽים]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.kim-<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

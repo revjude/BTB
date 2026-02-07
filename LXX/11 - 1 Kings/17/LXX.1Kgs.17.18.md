@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:18** 
 <small><sub>**LXX:**</sub></small>
 And she said to Elijah, What \[is it\] to me and to you, O man  of God, \[for you\] to enter to me,  to call to mind  my iniquities and to kill  my son? 
-<small><sub>**KJV:**</sub></small>
-And she said unto Elijah, What have I to do with thee, O thou man of God? art thou come unto me to call my sin to remembrance, and to slay my son?
-<small><sub>**BSB:**</sub></small>
-“O man of God,” said the woman to Elijah, “what have you done to me? Have you come to remind me of my iniquity and cause the death of my son?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.17|<< 1 Kings 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.19|1 Kings 17:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:29** 
 <small><sub>**LXX:**</sub></small>
 And if a man should rise up to pursue you, and seeking  your life, that the life of my master will be bound in a bond  of life by \[the\] <span class="smallcaps">lord</span>  God; and the life  of your enemies you shall sling \[as\] in \[the\] midst of the sling. 
-<small><sub>**KJV:**</sub></small>
-Yet a man is risen to pursue thee, and to seek thy soul: but the soul of my lord shall be bound in the bundle of life with the LORD thy God; and the souls of thine enemies, them shall he sling out, [as out] of the middle of a sling.
-<small><sub>**BSB:**</sub></small>
-And should someone pursue you and seek your life, then the life of my lord will be bound securely by the LORD your God in the bundle of the living. But He shall fling away the lives of your enemies like stones from a sling.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.28|<< 1 Samuel 25:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.30|1 Samuel 25:30 >>]]</td></tr></table>
 
 | Translation | Greek |

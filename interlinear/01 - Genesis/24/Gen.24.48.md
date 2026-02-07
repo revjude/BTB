@@ -1,4 +1,4 @@
-**Genesis 24:48** 
+**Genesis 24:48**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I bowed down my head, and worshipped the LORD, and blessed the LORD God of my master Abraham, which had led me in the right way to take my master’s brother’s daughter unto his son.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I bowed down and worshiped the LORD; and I blessed the LORD, the God of my 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.47|<< Genesis 24:47]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.49|Genesis 24:49 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I bowed low  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6915\|אֶקֹּ֥ד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Kod<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I bowed down  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H7812\|אֶשְׁתַּחֲוֶ֖ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'esh.ta.cha.Veh<small><sup>[[HVvw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

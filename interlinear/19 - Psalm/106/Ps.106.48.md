@@ -1,4 +1,4 @@
-**Psalms 106:48** 
+**Psalms 106:48**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [be] the LORD God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed be the LORD, the God of Israel, from everlasting to everlasting. Let all
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.47|<< Psalms 106:47]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.1|Psalms 107:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [be] blessed  |**<big>&#8207;[[H1288\|בָּר֤וּךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ba.Rukh-<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 14:39** 
 <small><sub>**LXX:**</sub></small>
 And Moses spoke  these words to all \[the\] sons of Israel; and the people mourned exceedingly. 
-<small><sub>**KJV:**</sub></small>
-And Moses told these sayings unto all the children of Israel: and the people mourned greatly.
-<small><sub>**BSB:**</sub></small>
-And when Moses relayed these words to all the Israelites, the people mourned bitterly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.38|<< Numbers 14:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.40|Numbers 14:40 >>]]</td></tr></table>
 
 | Translation | Greek |

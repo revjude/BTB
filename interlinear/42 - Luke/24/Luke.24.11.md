@@ -1,12 +1,12 @@
-**Luke 24:11
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:11**<big><big>[[Luke.24.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And their words seemed to them as idle tales, and they believed them not.
 <small><sub>**BSB:**</sub></small>
 But their words seemed like nonsense to them, and they did not believe the women.
 <small><sub>**Literal:**</sub></small>
 And appeared before them like folly the declarations of them and they were not believing in them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.10|<< Luke 24:10]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.12|Luke 24:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | appeared |**<big>[[G5316\|ἐφάνησαν]]</big>**  |ephanēsan <small><sup>[[V-2API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 32:44** 
+**Jeremiah 32:44**<big><big>[[Jer.32.36 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Men shall buy fields for money, and subscribe evidences, and seal [them], and take witnesses in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, and in the cities of the mountains, and in the cities of the valley, and in the cities of the south: for I will cause their captivity to return, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Fields will be purchased with silver, and deeds will be signed, sealed, and witn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.43|<< Jeremiah 32:43]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.1|Jeremiah 33:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | fields  |**<big>&#8207;[[H7704G\|שָׂד֞וֹת]]&#8207; </big>**| sa.Dot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> silver  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3701G\|כֶּ֣סֶף]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

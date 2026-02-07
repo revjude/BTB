@@ -1,4 +1,4 @@
-**Lamentations 2:21** 
+**Lamentations 2:21**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The young and the old lie on the ground in the streets: my virgins and my young men are fallen by the sword; thou hast slain [them] in the day of thine anger; thou hast killed, [and] not pitied.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Both young and old lie together in the dust of the streets. My young men and mai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.20|<< Lamentations 2:20]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.22|Lamentations 2:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have lain down  |**<big>&#8207;[[H7901G\|שָׁכְב֨וּ]]&#8207; </big>**| sha.khe.Vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the ground  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0776H\|אָ֤רֶץ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

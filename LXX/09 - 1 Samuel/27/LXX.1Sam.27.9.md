@@ -1,10 +1,7 @@
 **LXX 1 Samuel 27:9** 
 <small><sub>**LXX:**</sub></small>
 And he struck the land, and did not bring forth alive man or woman; and they took flocks, and herds, and donkeys, and camels, and clothes. And they returned and came to Achish. 
-<small><sub>**KJV:**</sub></small>
-And David smote the land, and left neither man nor woman alive, and took away the sheep, and the oxen, and the asses, and the camels, and the apparel, and returned, and came to Achish.
-<small><sub>**BSB:**</sub></small>
-Whenever David attacked a territory, he did not leave a man or woman alive, but he took the flocks and herds, the donkeys, camels, and clothing. Then he would return to Achish,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.27.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.8|<< 1 Samuel 27:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.10|1 Samuel 27:10 >>]]</td></tr></table>
 
 | Translation | Greek |

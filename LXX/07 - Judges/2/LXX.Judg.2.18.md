@@ -1,10 +1,7 @@
 **LXX Judges 2:18** 
 <small><sub>**LXX:**</sub></small>
 And when \[the\] <span class="smallcaps">lord</span> raised up to them judges, then \[the\] <span class="smallcaps">lord</span> \[was\] with the judge, and he delivered them from \[the\] hand of their enemies all the days of the judge. For \[the\] <span class="smallcaps">lord</span> was moved to comfort because of  their moaning from in front of the ones assaulting them and afflicting them. 
-<small><sub>**KJV:**</sub></small>
-And when the LORD raised them up judges, then the LORD was with the judge, and delivered them out of the hand of their enemies all the days of the judge: for it repented the LORD because of their groanings by reason of them that oppressed them and vexed them.
-<small><sub>**BSB:**</sub></small>
-Whenever the LORD raised up a judge for the Israelites, He was with that judge and saved them from the hands of their enemies while the judge was still alive; for the LORD was moved to pity by their groaning under those who oppressed them and afflicted them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.17|<< Judges 2:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.19|Judges 2:19 >>]]</td></tr></table>
 
 | Translation | Greek |

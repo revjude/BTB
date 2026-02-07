@@ -1,4 +1,4 @@
-**Exodus 17:4** 
+**Exodus 17:4**<big><big>[[Exod.17.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses cried unto the LORD, saying, What shall I do unto this people? they be almost ready to stone me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Moses cried out to the LORD, “What should I do with these people? A littl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.17.3|<< Exodus 17:3]]</td><td align="center" style="border:none;">[[Exod.17|Exodus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.5|Exodus 17:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he cried out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6817\|יִּצְעַ֤ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yitz.'Ak<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁה֙]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

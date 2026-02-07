@@ -1,10 +1,7 @@
 **LXX Exodus 21:27** 
 <small><sub>**LXX:**</sub></small>
 And if the tooth of the man-servant, or the tooth  of his female attendant he should knock out; he shall send them free on account of  their tooth. 
-<small><sub>**KJV:**</sub></small>
-And if he smite out his manservant’s tooth, or his maidservant’s tooth; he shall let him go free for his tooth’s sake.
-<small><sub>**BSB:**</sub></small>
-And if he knocks out the tooth of his manservant or maidservant, he must let the servant go free as compensation for the tooth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.26|<< Exodus 21:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.28|Exodus 21:28 >>]]</td></tr></table>
 
 | Translation | Greek |

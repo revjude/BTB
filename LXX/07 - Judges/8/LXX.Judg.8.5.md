@@ -1,10 +1,7 @@
 **LXX Judges 8:5** 
 <small><sub>**LXX:**</sub></small>
 And he said to the men of Succoth, Give indeed bread \[loaves\] for the nourishment  to this people  with me! for they hunger, for I pursue after  Zebah and Zalmunna, kings of Midian. 
-<small><sub>**KJV:**</sub></small>
-And he said unto the men of Succoth, Give, I pray you, loaves of bread unto the people that follow me; for they [be] faint, and I am pursuing after Zebah and Zalmunna, kings of Midian.
-<small><sub>**BSB:**</sub></small>
-So Gideon said to the men of Succoth, “Please give my troops some bread, for they are exhausted, and I am still pursuing Zebah and Zalmunna, the kings of Midian.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.4|<< Judges 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.6|Judges 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

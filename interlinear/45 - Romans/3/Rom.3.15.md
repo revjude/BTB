@@ -1,5 +1,5 @@
-**Romans 3:15
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:15**<big><big>[[Rom.3.9 There Is No One Righteous|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Their feet [are] swift to shed blood:
 <small><sub>**BSB:**</sub></small>
 “Their feet are swift to shed blood;
@@ -10,7 +10,7 @@ swift [are] the feet of them to shed blood;<br><table width="100%" border="0"><t
 > $\quad$ referencing: [[LXX.Isa.59.7|Isa 59:7-8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | swift [are] |**<big>[[G3691\|ὀξεῖς]]</big>**  |oxeis <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

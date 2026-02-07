@@ -1,4 +1,4 @@
-**Exodus 26:37** 
+**Exodus 26:37**<big><big>[[Exod.26.36 The Curtain for the Entrance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make for the hanging five pillars [of] shittim [wood], and overlay them with gold, [and] their hooks [shall be of] gold: and thou shalt cast five sockets of brass for them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Make five posts of acacia wood for the curtain, overlay them with gold, use hook
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.36|<< Exodus 26:36]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.1|Exodus 27:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213H\|עָשִׂ֣יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for the screen  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4539\|מָּסָ֗ךְ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> ma.Sakh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

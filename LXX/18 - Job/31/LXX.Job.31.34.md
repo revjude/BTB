@@ -1,10 +1,7 @@
 **LXX Job 31:34** 
 <small><sub>**LXX:**</sub></small>
 (for I was not diverted by a great multitude  to not openly declare before them); and if even I allowed a disabled \[man\] to go forth \[from\] my door with an empty bosom, 
-<small><sub>**KJV:**</sub></small>
-Did I fear a great multitude, or did the contempt of families terrify me, that I kept silence, [and] went not out of the door?
-<small><sub>**BSB:**</sub></small>
-because I greatly feared the crowds and the contempt of the clans terrified me, so that I kept silent and would not go outside—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.33|<< Job 31:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.35|Job 31:35 >>]]</td></tr></table>
 
 | Translation | Greek |

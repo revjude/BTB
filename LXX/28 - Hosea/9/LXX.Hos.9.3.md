@@ -1,10 +1,7 @@
 **LXX Hosea 9:3** 
 <small><sub>**LXX:**</sub></small>
 They did not dwell in the land of the <span class="smallcaps">lord</span>; Ephraim dwelt in Egypt, and among \[the\] Assyrians they shall eat unclean \[things\]. 
-<small><sub>**KJV:**</sub></small>
-They shall not dwell in the LORD’S land; but Ephraim shall return to Egypt, and they shall eat unclean [things] in Assyria.
-<small><sub>**BSB:**</sub></small>
-They will not remain in the land of the LORD; Ephraim will return to Egypt and eat unclean food in Assyria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.2|<< Hosea 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.9.4|Hosea 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

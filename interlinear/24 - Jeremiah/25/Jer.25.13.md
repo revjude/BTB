@@ -1,4 +1,4 @@
-**Jeremiah 25:13** 
+**Jeremiah 25:13**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring upon that land all my words which I have pronounced against it, [even] all that is written in this book, which Jeremiah hath prophesied against all the nations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will bring upon that land all the words I have pronounced against it, all that
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.12|<< Jeremiah 25:12]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.14|Jeremiah 25:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will bring  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0935P\|הֵֽבֵאתִי֙]]&#8207; </big>**[^1] [^2] | ve.<small><sup>[[Hc]]</sup></small> he.ve.ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

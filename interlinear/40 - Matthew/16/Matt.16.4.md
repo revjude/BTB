@@ -1,5 +1,5 @@
-**Matthew 16:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:4**<big><big>[[Matt.16.1 The Demand for a Sign|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas. And he left them, and departed.
 <small><sub>**BSB:**</sub></small>
 A wicked and adulterous generation demands a sign, but none will be given it except the sign of Jonah.” Then He left them and went away.
@@ -10,7 +10,7 @@ A generation evil and adulterous a sign seeks; and a sign not will be given to i
 > $\quad$ alluding to: [[LXX.Jonah.1.17|Jonah 1:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A generation |**<big>[[G1074\|γενεὰ]]</big>**  |genea <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | evil |**<big>[[G4190\|πονηρὰ]]</big>**  |ponēra <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

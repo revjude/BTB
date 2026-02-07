@@ -1,4 +1,4 @@
-**Numbers 18:15** 
+**Numbers 18:15**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every thing that openeth the matrix in all flesh, which they bring unto the LORD, [whether it be] of men or beasts, shall be thine: nevertheless the firstborn of man shalt thou surely redeem, and the firstling of unclean beasts shalt thou redeem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The firstborn of every womb, whether man or beast, that is offered to the LORD b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.14|<< Numbers 18:14]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.16|Numbers 18:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | firstborn of  |**<big>&#8207;[[H6363A\|פֶּ֣טֶר]]&#8207; </big>**| Pe.ter<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

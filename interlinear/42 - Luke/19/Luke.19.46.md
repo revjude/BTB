@@ -1,5 +1,5 @@
-**Luke 19:46
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:46**<big><big>[[Luke.19.45 Jesus Cleanses the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying unto them, It is written, My house is the house of prayer: but ye have made it a den of thieves.
 <small><sub>**BSB:**</sub></small>
 He declared to them, “It is written: ‘My house will be a house of prayer.’ But you have made it ‘a den of robbers.’”
@@ -10,7 +10,7 @@ saying to them; It has been written: And will be the house of Mine a house of pr
 > $\quad$ referencing: [[LXX.Isa.56.7|Isa 56:7]] ☩ [[LXX.Jer.7.11|Jer 7:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying |**<big>[[G3004G\|λέγων]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to them; |**<big>[[G0846\|αὐτοῖς·]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

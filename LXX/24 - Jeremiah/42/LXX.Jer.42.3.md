@@ -1,10 +1,7 @@
 **LXX Jeremiah 42:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> your God announce to us! the way in which we shall go by it, and \[the\] word which we shall do. 
-<small><sub>**KJV:**</sub></small>
-That the LORD thy God may shew us the way wherein we may walk, and the thing that we may do.
-<small><sub>**BSB:**</sub></small>
-Pray that the LORD your God will tell us the way we should walk and the thing we should do.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.2|<< Jeremiah 42:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.42.4|Jeremiah 42:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:20** 
 <small><sub>**LXX:**</sub></small>
 And you, O my master, O king, the eyes of all Israel are towards you to report to them who shall sit upon the throne  of my master the king after him. 
-<small><sub>**KJV:**</sub></small>
-And thou, my lord, O king, the eyes of all Israel [are] upon thee, that thou shouldest tell them who shall sit on the throne of my lord the king after him.
-<small><sub>**BSB:**</sub></small>
-And as for you, my lord the king, the eyes of all Israel are upon you to tell them who will sit on the throne of my lord the king after him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.19|<< 1 Kings 1:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.21|1 Kings 1:21 >>]]</td></tr></table>
 
 | Translation | Greek |

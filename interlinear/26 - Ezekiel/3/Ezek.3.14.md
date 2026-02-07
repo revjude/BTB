@@ -1,4 +1,4 @@
-**Ezekiel 3:14** 
+**Ezekiel 3:14**<big><big>[[Ezek.3.1 Ezekiel Eats the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of the LORD was strong upon me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the Spirit lifted me up and took me away, and I went in bitterness and in the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.13|<< Ezekiel 3:13]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.15|Ezekiel 3:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a spirit  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7307G\|ר֥וּחַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it lifted up me  |**<big>&#8207;[[H5375G\|נְשָׂאַ֖תְ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ne.sa.'At.<small><sup>[[HVqp3fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

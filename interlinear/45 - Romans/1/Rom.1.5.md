@@ -1,12 +1,12 @@
-**Romans 1:5
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:5**<big><big>[[Rom.1.1 Paul Greets the Saints in Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:
 <small><sub>**BSB:**</sub></small>
 Through Him and on behalf of His name, we received grace and apostleship to call all those among the Gentiles to the obedience that comes from faith.
 <small><sub>**Literal:**</sub></small>
 through whom we have received grace and apostleship unto obedience of faith among all the Gentiles on behalf of the name of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.4|<< Romans 1:4]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.6|Romans 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | through |**<big>[[G1223\|δι᾽]]</big>**  |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whom |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

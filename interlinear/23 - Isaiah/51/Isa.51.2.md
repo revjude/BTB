@@ -1,4 +1,4 @@
-**Isaiah 51:2** 
+**Isaiah 51:2**<big><big>[[Isa.51.1 Salvation for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Look unto Abraham your father, and unto Sarah [that] bare you: for I called him alone, and blessed him, and increased him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Look to Abraham your father, and to Sarah who gave you birth. When I called him,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.1|<< Isaiah 51:1]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.3|Isaiah 51:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | look  |**<big>&#8207;[[H5027\|הַבִּ֙יטוּ֙]]&#8207; </big>**| ha.Bi.tu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

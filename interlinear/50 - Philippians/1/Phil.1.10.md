@@ -1,12 +1,12 @@
-**Philippians 1:10
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:10**<big><big>[[Phil.1.3 Thanksgiving and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ;
 <small><sub>**BSB:**</sub></small>
 so that you may be able to test and prove what is best and may be pure and blameless for the day of Christ,
 <small><sub>**Literal:**</sub></small>
 for <the> to approve you the [things] being excellent, so that you may be pure and blameless unto [the] day of Christ<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.9|<< Philippians 1:9]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.11|Philippians 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

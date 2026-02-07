@@ -1,12 +1,12 @@
-**Romans 2:27
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:27**<big><big>[[Rom.2.17 The Jews and the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And shall not uncircumcision which is by nature, if it fulfil the law, judge thee, who by the letter and circumcision dost transgress the law?
 <small><sub>**BSB:**</sub></small>
 The one who is physically uncircumcised yet keeps the law will condemn you who, even though you have the written code and circumcision, are a lawbreaker.
 <small><sub>**Literal:**</sub></small>
 And will judge the by nature uncircumcision the law fulfilling you who with [the] letter and circumcision [are] a transgressor of law.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.26|<< Romans 2:26]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.28|Romans 2:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will judge |**<big>[[G2919\|κρινεῖ]]</big>**  |krinei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

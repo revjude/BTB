@@ -1,4 +1,4 @@
-**1 Samuel 30:14** 
+**1 Samuel 30:14**<big><big>[[1Sam.30.7 David Destroys the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We made an invasion [upon] the south of the Cherethites, and upon [the coast] which [belongeth] to Judah, and upon the south of Caleb; and we burned Ziklag with fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We raided the Negev of the Cherethites, the territory of Judah, and the Negev of
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.13|<< 1 Samuel 30:13]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.15|1 Samuel 30:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we  |**<big>&#8207;[[H0587\|אֲנַ֡חְנוּ]]&#8207; </big>**| 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we had made a raid  |**<big>&#8207;[[H6584\|פָּשַׁ֜טְנוּ]]&#8207; </big>**| pa.Shat.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

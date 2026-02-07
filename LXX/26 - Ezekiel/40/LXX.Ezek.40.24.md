@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he led me according to \[the\] south. And behold, \[there was\] a gate looking to \[the\] south; and he measured it, and the vestibules, and the portals, and the pediments according to  these measures. 
-<small><sub>**KJV:**</sub></small>
-After that he brought me toward the south, and behold a gate toward the south: and he measured the posts thereof and the arches thereof according to these measures.
-<small><sub>**BSB:**</sub></small>
-Then he led me to the south side, and I saw a gateway facing south. He measured its side pillars and portico, and they had the same measurements as the others.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.23|<< Ezekiel 40:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.25|Ezekiel 40:25 >>]]</td></tr></table>
 
 | Translation | Greek |

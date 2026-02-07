@@ -1,4 +1,4 @@
-**2 Chronicles 34:13** 
+**2 Chronicles 34:13**<big><big>[[2Chr.34.8 Josiah Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also [they were] over the bearers of burdens, and [were] overseers of all that wrought the work in any manner of service: and of the Levites [there were] scribes, and officers, and porters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ were over the laborers and supervised all who did the work, task by task. Some o
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.12|<< 2 Chronicles 34:12]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.14|2 Chronicles 34:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<and> [were] over  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַ֣ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the burden-bearers  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5449\|סַּבָּלִ֗ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.ba.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

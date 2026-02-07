@@ -1,12 +1,12 @@
-**3 John 1:5
-**<small><sub>**KJV:**</sub></small>
+**3 John 1:5**<big><big>[[3John.1.5 Gaius Commended for Hospitality|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers;
 <small><sub>**BSB:**</sub></small>
 Beloved, you are faithful in what you are doing for the brothers, and especially since they are strangers to you.
 <small><sub>**Literal:**</sub></small>
 Beloved, faithfully you are doing whatever maybe you shall do for the brothers and for that [thing] strangers,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.4|<< 3 John 1:4]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.6|3 John 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Beloved, |**<big>[[G0027\|ἀγαπητέ,]]</big>**  |agapēte <small><sup>[[A-VSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | faithfully |**<big>[[G4103\|πιστὸν]]</big>**  |piston <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

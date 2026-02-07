@@ -1,12 +1,12 @@
-**Matthew 12:48
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:48**<big><big>[[Matt.12.46 Jesus’ Mother and Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he answered and said unto him that told him, Who is my mother? and who are my brethren?
 <small><sub>**BSB:**</sub></small>
 But Jesus replied, “Who is My mother, and who are My brothers?”
 <small><sub>**Literal:**</sub></small>
 <the> And answering He said to the [one] telling to Him; Who is the mother of Mine and who are the brothers of Mine?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.47|<< Matthew 12:47]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.49|Matthew 12:49 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

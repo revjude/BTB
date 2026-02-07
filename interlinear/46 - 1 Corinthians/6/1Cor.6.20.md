@@ -1,12 +1,12 @@
-**1 Corinthians 6:20
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 6:20**<big><big>[[1Cor.6.18 The Temple of the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s.
 <small><sub>**BSB:**</sub></small>
 you were bought at a price. Therefore glorify God with your body.
 <small><sub>**Literal:**</sub></small>
 you were bought for with a price; do glorify therefore <the> God in the body of you and in the spirit of you which is <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.19|<< 1 Corinthians 6:19]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.1|1 Corinthians 7:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you were bought |**<big>[[G0059\|ἠγοράσθητε]]</big>**  |ēgorasthēte <small><sup>[[V-API-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

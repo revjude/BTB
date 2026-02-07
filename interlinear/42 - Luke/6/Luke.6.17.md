@@ -1,12 +1,12 @@
-**Luke 6:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:17**<big><big>[[Luke.6.17 Jesus Heals the Multitudes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all Judaea and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases;
 <small><sub>**BSB:**</sub></small>
 Then Jesus came down with them and stood on a level place. A large crowd of His disciples was there, along with a great number of people from all over Judea, Jerusalem, and the seacoast of Tyre and Sidon.
 <small><sub>**Literal:**</sub></small>
 And having descended with them He stood on a place level. and a crowd large of disciples of Him and a multitude great of the people from all <the> Judea and Jerusalem and the sea coast of Tyre and Sidon<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.16|<< Luke 6:16]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.18|Luke 6:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having descended |**<big>[[G2597\|καταβὰς]]</big>**  |katabas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

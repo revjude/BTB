@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:22** 
 <small><sub>**LXX:**</sub></small>
 You should go indeed and prepare yet, and know and see  his place where his foot is, quickly, there \[in that place\] of which you said, lest at any time he should trick \[you\]! 
-<small><sub>**KJV:**</sub></small>
-Go, I pray you, prepare yet, and know and see his place where his haunt is, [and] who hath seen him there: for it is told me [that] he dealeth very subtilly.
-<small><sub>**BSB:**</sub></small>
-Please go and prepare further. Investigate and watch carefully where he goes and who has seen him there, for I am told that he is extremely cunning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.21|<< 1 Samuel 23:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.23|1 Samuel 23:23 >>]]</td></tr></table>
 
 | Translation | Greek |

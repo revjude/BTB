@@ -1,10 +1,7 @@
 **LXX Psalm 109:23** 
 <small><sub>**LXX:**</sub></small>
 As shade in  its turning aside, I was taken away in return; I was shaken away as locusts. 
-<small><sub>**KJV:**</sub></small>
-I am gone like the shadow when it declineth: I am tossed up and down as the locust.
-<small><sub>**BSB:**</sub></small>
-I am fading away like a lengthening shadow; I am shaken off like a locust.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.22|<< Psalm 109:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.24|Psalm 109:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 16:16
-**<small><sub>**KJV:**</sub></small>
+**Mark 16:16**<big><big>[[Mark.16.14 The Great Commission|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
 <small><sub>**BSB:**</sub></small>
 Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.
 <small><sub>**Literal:**</sub></small>
 The [one] having believed and having been baptized will be saved; the [one] however having disbelieved will be condemned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.15|<< Mark 16:15]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.17|Mark 16:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
 | having believed |**<big>[[G4100\|πιστεύσας]]</big>**  |pisteusas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |

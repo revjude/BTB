@@ -1,4 +1,4 @@
-**Deuteronomy 13:15** (13:16)
+**Deuteronomy 13:15**<big><big>[[Deut.13.12 Idolatrous Cities to Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt surely smite the inhabitants of that city with the edge of the sword, destroying it utterly, and all that [is] therein, and the cattle thereof, with the edge of the sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ you must surely put the inhabitants of that city to the sword. Devote to destruc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.14|<< Deuteronomy 13:14]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.16|Deuteronomy 13:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to strike>  |**<big>&#8207;[[H5221\|הַכֵּ֣ה]]&#8207; </big>**| ha.Keh<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will strike  |**<big>&#8207;[[H5221\|תַכֶּ֗ה]]&#8207; </big>**| ta.Keh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

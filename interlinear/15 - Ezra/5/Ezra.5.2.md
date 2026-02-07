@@ -1,4 +1,4 @@
-**Ezra 5:2** 
+**Ezra 5:2**<big><big>[[Ezra.5.1 Temple Rebuilding Resumes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which [is] at Jerusalem: and with them [were] the prophets of God helping them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Zerubbabel son of Shealtiel and Jeshua son of Jozadak rose up and began to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.1|<< Ezra 5:1]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.3|Ezra 5:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֡יִן]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they arose  |**<big>&#8207;[[H6966G\|קָ֠מוּ]]&#8207; </big>**| Ka.mu<small><sup>[[AVqp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

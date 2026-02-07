@@ -1,10 +1,7 @@
 **LXX Exodus 6:25** 
 <small><sub>**LXX:**</sub></small>
 And Eleazar the \[son of\] Aaron, took of the daughters of Putiel to himself as wife; and she bore to him  Phinehas. These \[are\] the heads of \[the\] family of \[the\] Levites, according to their generations. 
-<small><sub>**KJV:**</sub></small>
-And Eleazar Aaron’s son took him [one] of the daughters of Putiel to wife; and she bare him Phinehas: these [are] the heads of the fathers of the Levites according to their families.
-<small><sub>**BSB:**</sub></small>
-Aaron’s son Eleazar married one of the daughters of Putiel, and she bore him Phinehas. These were the heads of the Levite families by their clans.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.24|<< Exodus 6:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.26|Exodus 6:26 >>]]</td></tr></table>
 
 | Translation | Greek |

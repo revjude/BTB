@@ -1,10 +1,7 @@
 **LXX Leviticus 23:16** 
 <small><sub>**LXX:**</sub></small>
 until the next day of the last period of seven you shall count fifty days, and you shall bring a new sacrifice \[offering\] to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Even unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meat offering unto the LORD.
-<small><sub>**BSB:**</sub></small>
-You shall count off fifty days until the day after the seventh Sabbath, and then present an offering of new grain to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.15|<< Leviticus 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.17|Leviticus 23:17 >>]]</td></tr></table>
 
 | Translation | Greek |

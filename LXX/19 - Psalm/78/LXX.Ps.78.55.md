@@ -1,10 +1,7 @@
 **LXX Psalm 78:55** 
 <small><sub>**LXX:**</sub></small>
 And he cast out nations before their face, and he allotted them by a line of inheritance. And he encamped the tribes of Israel among their tents. 
-<small><sub>**KJV:**</sub></small>
-He cast out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents.
-<small><sub>**BSB:**</sub></small>
-He drove out nations before them and apportioned their inheritance; He settled the tribes of Israel in their tents.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.54|<< Psalm 78:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.56|Psalm 78:56 >>]]</td></tr></table>
 
 | Translation | Greek |

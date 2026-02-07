@@ -1,10 +1,7 @@
 **LXX Ezra 10:28** 
 <small><sub>**LXX:**</sub></small>
 And of the sons of Bebai -- Jehohanan, and Hananiah, and Zabbai, and Athlai. 
-<small><sub>**KJV:**</sub></small>
-Of the sons also of Bebai; Jehohanan, Hananiah, Zabbai, [and] Athlai.
-<small><sub>**BSB:**</sub></small>
-From the descendants of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.27|<< Ezra 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.29|Ezra 10:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 135:17** 
 <small><sub>**LXX:**</sub></small>
 they have ears and they shall not give ear; and neither is a breath in  their mouth. 
-<small><sub>**KJV:**</sub></small>
-They have ears, but they hear not; neither is there [any] breath in their mouths.
-<small><sub>**BSB:**</sub></small>
-they have ears, but cannot hear; nor is there breath in their mouths.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.135.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.135.16|<< Psalm 135:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.135.18|Psalm 135:18 >>]]</td></tr></table>
 
 | Translation | Greek |

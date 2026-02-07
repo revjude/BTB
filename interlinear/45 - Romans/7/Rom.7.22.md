@@ -1,5 +1,5 @@
-**Romans 7:22
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:22**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I delight in the law of God after the inward man:
 <small><sub>**BSB:**</sub></small>
 For in my inner being I delight in God’s law.
@@ -11,7 +11,7 @@ I delight for in the law <the> of God according to the inward man,<br><table wid
 > $\quad$ alluding to: [[LXX.Jer.31.33|Jer 31:33]] ☩ [[John.6.45|John 6:45]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I delight |**<big>[[G4913\|συνήδομαι]]</big>**  |sunēdomai <small><sup>[[V-PNI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

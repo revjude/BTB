@@ -1,4 +1,4 @@
-**Isaiah 41:16** 
+**Isaiah 41:16**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt fan them, and the wind shall carry them away, and the whirlwind shall scatter them: and thou shalt rejoice in the LORD, [and] shalt glory in the Holy One of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will winnow them, and a wind will carry them away; a gale will scatter them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.15|<< Isaiah 41:15]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.17|Isaiah 41:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you will winnow them  |**<big>&#8207;[[H2219\|תִּזְרֵ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| tiz.Re<small><sup>[[HVqi2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and a wind  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7307H\|ר֣וּחַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

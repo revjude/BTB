@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 10:14** 
 <small><sub>**LXX:**</sub></small>
 And the fool multiplies words. Man does not know what the \[thing\] becoming \[is\], and what the \[thing\] will be; for after him who shall announce to him? 
-<small><sub>**KJV:**</sub></small>
-A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?
-<small><sub>**BSB:**</sub></small>
-Yet the fool multiplies words. No one knows what is coming, and who can tell him what will come after him?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.13|<< Ecclesiastes 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.10.15|Ecclesiastes 10:15 >>]]</td></tr></table>
 
 | Translation | Greek |

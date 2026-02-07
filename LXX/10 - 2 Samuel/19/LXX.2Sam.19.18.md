@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he passed over the ford  to arouse the household of the king, and  to do the upright \[thing\] in his eyes. And Shimei son of Gera fell upon his face before the king, at his passing over the Jordan. 
-<small><sub>**KJV:**</sub></small>
-And there went over a ferry boat to carry over the king’s household, and to do what he thought good. And Shimei the son of Gera fell down before the king, as he was come over Jordan;
-<small><sub>**BSB:**</sub></small>
-and crossed at the ford to carry over the king’s household and to do what was good in his sight. When Shimei son of Gera crossed the Jordan, he fell down before the king<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.17|<< 2 Samuel 19:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.19|2 Samuel 19:19 >>]]</td></tr></table>
 
 | Translation | Greek |

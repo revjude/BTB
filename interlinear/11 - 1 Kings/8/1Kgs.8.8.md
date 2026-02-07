@@ -1,4 +1,4 @@
-**1 Kings 8:8** 
+**1 Kings 8:8**<big><big>[[1Kgs.8.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they drew out the staves, that the ends of the staves were seen out in the holy [place] before the oracle, and they were not seen without: and there they are unto this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The poles extended far enough that their ends were visible from the Holy Place i
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.7|<< 1 Kings 8:7]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.9|1 Kings 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were long  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H0748\|יַּאֲרִכוּ֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.ri.Khu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the poles  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0905G\|בַּדִּים֒]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

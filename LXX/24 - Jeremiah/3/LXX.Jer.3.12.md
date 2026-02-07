@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:12** 
 <small><sub>**LXX:**</sub></small>
 Go and read  these words towards \[the\] north! And you shall say, Return to me, O house  of Israel, says \[the\] <span class="smallcaps">lord</span>! And in no way shall I firmly fix  my face against you. For I am merciful, says \[the\] <span class="smallcaps">lord</span>, and I shall not be infuriated with you into the eon. 
-<small><sub>**KJV:**</sub></small>
-Go and proclaim these words toward the north, and say, Return, thou backsliding Israel, saith the LORD; [and] I will not cause mine anger to fall upon you: for I [am] merciful, saith the LORD, [and] I will not keep [anger] for ever.
-<small><sub>**BSB:**</sub></small>
-Go, proclaim this message toward the north: ‘Return, O faithless Israel,’ declares the LORD. ‘I will no longer look on you with anger, for I am merciful,’ declares the LORD. ‘I will not be angry forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.11|<< Jeremiah 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.13|Jeremiah 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

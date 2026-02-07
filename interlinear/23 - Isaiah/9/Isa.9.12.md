@@ -1,4 +1,4 @@
-**Isaiah 9:12** (9:11)
+**Isaiah 9:12**<big><big>[[Isa.9.8 Judgment against Israel’s Pride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Syrians before, and the Philistines behind; and they shall devour Israel with open mouth. For all this his anger is not turned away, but his hand [is] stretched out still.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Aram from the east and Philistia from the west have devoured Israel with open mo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.11|<< Isaiah 9:11]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.13|Isaiah 9:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Aram  |**<big>&#8207;[[H0758I\|אֲרָ֣ם]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] east  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6924G\|קֶּ֗דֶם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ke.dem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

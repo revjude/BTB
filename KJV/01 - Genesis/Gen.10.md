@@ -1,14 +1,14 @@
 (KJV) **Genesis 10**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9|<< Genesis 9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11|Genesis 11 >>]]</td></tr></table>
 
-***The Table of Nations***&emsp;<small><sup>\[ [[1Chr.1|1 Chronicles 1:4–27]] ]</sup></small> ^bsb32
+<big><big>[[Gen.10.1 The Table of Nations|⥃]]</big></big>***The Table of Nations***&emsp;<small><sup>\[ [[1Chr.1|1 Chronicles 1:4–27]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Gen.10.1|1]]**<span class="endversemarker">]</span> Now these \[are\] the<small><small>[^2]</small></small> generations of the sons of Noah, Shem, Ham, and Japheth: and unto<small><small>[^3]</small></small> them were sons born after the flood.
 
-*The Japhethites* ^bsb33
+<big><big>[[Gen.10.2 The Japhethites|⥃]]</big></big>*The Japhethites*
 
  <span class="startversemarker">[</span>**[[Gen.10.2|2]]**<span class="endversemarker">]</span> The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[Gen.10.3|3]]**<span class="endversemarker">]</span> And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah. <span class="startversemarker">[</span>**[[Gen.10.4|4]]**<span class="endversemarker">]</span> And the sons of Javan; Elishah, and Tarshish, Kittim<small><small>[^5]</small></small>, and Dodanim<small><small>[^6]</small></small>.<small><small>[^7]</small></small> <span class="startversemarker">[</span>**[[Gen.10.5|5]]**<span class="endversemarker">]</span> By these were the isles<small><small>[^8]</small></small> of the Gentiles divided in their lands; every one after his<small><small>[^9]</small></small> tongue, after their families, in their nations.<small><small>[^10]</small></small>
 
-*The Hamites* ^bsb34
+<big><big>[[Gen.10.6 The Hamites|⥃]]</big></big>*The Hamites*
 
  
 
@@ -16,7 +16,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.10.6|6]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.10.15|15]]**<span class="endversemarker">]</span> And Canaan<small><small>[^38]</small></small> begat Sidon<small><small>[^39]</small></small> his firstborn, and Heth<small><small>[^40]</small></small>, <span class="startversemarker">[</span>**[[Gen.10.16|16]]**<span class="endversemarker">]</span> And the Jebusite<small><small>[^41]</small></small>, and the Amorite, and the Girgasite, <span class="startversemarker">[</span>**[[Gen.10.17|17]]**<span class="endversemarker">]</span> And the Hivite<small><small>[^42]</small></small>, and the Arkite, and the Sinite, <span class="startversemarker">[</span>**[[Gen.10.18|18]]**<span class="endversemarker">]</span> And the Arvadite<small><small>[^43]</small></small>, and the Zemarite<small><small>[^44]</small></small>, and the Hamathite<small><small>[^45]</small></small>: and afterward were the families of the Canaanites spread abroad. <span class="startversemarker">[</span>**[[Gen.10.19|19]]**<span class="endversemarker">]</span> And the<small><small>[^46]</small></small> border of the Canaanites was from Sidon, as thou comest<small><small>[^47]</small></small> to Gerar<small><small>[^48]</small></small>, unto Gaza<small><small>[^49]</small></small>; as thou goest, unto Sodom<small><small>[^50]</small></small>, and Gomorrah, and Admah, and Zeboim, even unto Lasha. <span class="startversemarker">[</span>**[[Gen.10.20|20]]**<span class="endversemarker">]</span> These \[are\] the sons of Ham, after their families, after their tongues, in their countries, \[and\] in their nations.<small><small>[^51]</small></small>
 
-*The Semites* ^bsb35
+<big><big>[[Gen.10.21 The Semites|⥃]]</big></big>*The Semites*
 
  
 

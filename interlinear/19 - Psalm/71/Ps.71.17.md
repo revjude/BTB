@@ -1,4 +1,4 @@
-**Psalms 71:17** 
+**Psalms 71:17**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O God, thou hast taught me from my youth: and hitherto have I declared thy wondrous works.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O God, You have taught me from my youth, and to this day I proclaim Your marvelo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.16|<< Psalms 71:16]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.18|Psalms 71:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God  |**<big>&#8207;[[H0430G\|אֱֽלֹהִ֗ים]]&#8207; </big>**| 'elo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have taught me  |**<big>&#8207;[[H3925G\|לִמַּדְתַּ֥]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| li.mad.Ta.<small><sup>[[HVpp2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

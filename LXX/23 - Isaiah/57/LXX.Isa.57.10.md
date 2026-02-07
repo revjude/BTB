@@ -1,10 +1,7 @@
 **LXX Isaiah 57:10** 
 <small><sub>**LXX:**</sub></small>
 You tired \[in\] your many ways. and You said not, I shall cease growing in strength. For you practiced these \[things\]. On account of this you did not earnestly beseech of me. 
-<small><sub>**KJV:**</sub></small>
-Thou art wearied in the greatness of thy way; [yet] saidst thou not, There is no hope: thou hast found the life of thine hand; therefore thou wast not grieved.
-<small><sub>**BSB:**</sub></small>
-You are wearied by your many journeys, but you did not say, “There is no hope!” You found renewal of your strength; therefore you did not grow weak.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.57.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.9|<< Isaiah 57:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.11|Isaiah 57:11 >>]]</td></tr></table>
 
 | Translation | Greek |

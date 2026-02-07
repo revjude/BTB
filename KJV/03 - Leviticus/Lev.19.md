@@ -1,6 +1,6 @@
 (KJV) **Leviticus 19**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18|<< Leviticus 18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20|Leviticus 20 >>]]</td></tr></table>
 
-***Commandments for Holiness*** ^bsb308
+<big><big>[[Lev.19.1 Commandments for Holiness|⥃]]</big></big>***Commandments for Holiness***
 
  $\quad$ <span class="startversemarker">[</span>**[[Lev.19.1|1]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> spake unto Moses, saying, <span class="startversemarker">[</span>**[[Lev.19.2|2]]**<span class="endversemarker">]</span> Speak unto all the congregation of the children of Israel, and say unto them, Ye shall<small><small>[^2]</small></small> be holy: for I the <span class="smallcaps">Lord</span> your God \[am\] holy. 
 
@@ -10,7 +10,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Lev.19.4|4]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[Lev.19.5|5]]**<span class="endversemarker">]</span> [¶]And if ye offer a sacrifice<small><small>[^8]</small></small> of peace offerings unto the <span class="smallcaps">Lord</span>, ye shall<small><small>[^9]</small></small> offer it at your own will<small><small>[^10]</small></small>.<small><small>[^11]</small></small> <span class="startversemarker">[</span>**[[Lev.19.6|6]]**<span class="endversemarker">]</span> It shall be eaten the same day ye offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire.<small><small>[^12]</small></small> <span class="startversemarker">[</span>**[[Lev.19.7|7]]**<span class="endversemarker">]</span> And if it be eaten at all on the third day, it \[is\] abominable<small><small>[^13]</small></small>; it shall<small><small>[^14]</small></small> not be accepted. <span class="startversemarker">[</span>**[[Lev.19.8|8]]**<span class="endversemarker">]</span> Therefore \[every one\] that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the <span class="smallcaps">Lord</span>: and that soul shall be cut off from among his people.
 
-***Love Your Neighbor***&emsp;<small><sup>\[ [[Rom.13|Romans 13:8–10]] ]</sup></small> ^bsb309
+<big><big>[[Lev.19.9 Love Your Neighbor|⥃]]</big></big>***Love Your Neighbor***&emsp;<small><sup>\[ [[Rom.13|Romans 13:8–10]] ]</sup></small>
 
  
 
@@ -32,7 +32,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Lev.19.17|17]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Lev.19.18|18]]**<span class="endversemarker">]</span> [¶]Thou shalt not avenge<small><small>[^32]</small></small>, nor bear any grudge against the children of thy people, but thou shalt<small><small>[^33]</small></small> love thy neighbour as thyself: I \[am\] the <span class="smallcaps">Lord</span>.
 
-***Keep My Statutes*** ^bsb310
+<big><big>[[Lev.19.19 Keep My Statutes|⥃]]</big></big>***Keep My Statutes***
 
  
 

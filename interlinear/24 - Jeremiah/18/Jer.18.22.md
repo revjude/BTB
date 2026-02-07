@@ -1,4 +1,4 @@
-**Jeremiah 18:22** 
+**Jeremiah 18:22**<big><big>[[Jer.18.18 Another Plot against Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let a cry be heard from their houses, when thou shalt bring a troop suddenly upon them: for they have digged a pit to take me, and hid snares for my feet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let a cry be heard from their houses when You suddenly bring raiders against the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.21|<< Jeremiah 18:21]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.23|Jeremiah 18:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it be heard  |**<big>&#8207;[[H8085G\|תִּשָּׁמַ֤ע]]&#8207; </big>**| ti.sha.Ma'<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a cry of distress  |**<big>&#8207;[[H2201\|זְעָקָה֙]]&#8207; </big>**| ze.'a.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

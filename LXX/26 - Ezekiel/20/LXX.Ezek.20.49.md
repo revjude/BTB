@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:49** 
 <small><sub>**LXX:**</sub></small>
 And I said, By no means, O <span class="smallcaps">lord</span>, O Lord, these shall say to me, Is not this a parable being spoken? 
-<small><sub>**KJV:**</sub></small>
-Then said I, Ah Lord GOD! they say of me, Doth he not speak parables?
-<small><sub>**BSB:**</sub></small>
-Then I said, “Ah, Lord GOD, they are saying of me, ‘Is he not just telling parables?’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.48|<< Ezekiel 20:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.1|Ezekiel 21:1 >>]]</td></tr></table>
 
 | Translation | Greek |

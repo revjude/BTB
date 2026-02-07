@@ -1,10 +1,7 @@
 **LXX Psalm 38:10** 
 <small><sub>**LXX:**</sub></small>
  My heart \[is\] disturbed; my strength abandoned me; even the light  of my eyes, even it is not with me. 
-<small><sub>**KJV:**</sub></small>
-My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me.
-<small><sub>**BSB:**</sub></small>
-My heart pounds, my strength fails, and even the light of my eyes has faded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.38.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.38.9|<< Psalm 38:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.38.11|Psalm 38:11 >>]]</td></tr></table>
 
 | Translation | Greek |

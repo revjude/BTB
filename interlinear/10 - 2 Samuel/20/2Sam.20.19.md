@@ -1,4 +1,4 @@
-**2 Samuel 20:19** 
+**2 Samuel 20:19**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am one of them that are] peaceable [and] faithful in Israel: thou seekest to destroy a city and a mother in Israel: why wilt thou swallow up the inheritance of the LORD?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am among the peaceable and faithful in Israel, but you are trying to destroy a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.18|<< 2 Samuel 20:18]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.20|2 Samuel 20:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֕י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] [the] peaceful [ones] of  |**<big>&#8207;[[H7999B\|שְׁלֻמֵ֖י]]&#8207; </big>**| she.lu.Mei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 36:15** 
 <small><sub>**LXX:**</sub></small>
 The length of the one hide covering was thirty cubits, and four cubits the breadth of the one hide covering. The same measure was to the eleven hide coverings. 
-<small><sub>**KJV:**</sub></small>
-The length of one curtain [was] thirty cubits, and four cubits [was] the breadth of one curtain: the eleven curtains [were] of one size.
-<small><sub>**BSB:**</sub></small>
-Each of the eleven curtains was the same size—thirty cubits long and four cubits wide.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.14|<< Exodus 36:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.16|Exodus 36:16 >>]]</td></tr></table>
 
 | Translation | Greek |

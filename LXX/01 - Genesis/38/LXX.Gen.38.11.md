@@ -1,10 +1,7 @@
 **LXX Genesis 38:11** 
 <small><sub>**LXX:**</sub></small>
 And Judah said to Tamar  his daughter-in-law, You sit as a widow in the house  of your father! until Shelah my son becomes older. For he said, Lest at any time this \[one\] also should die as also  his brothers. And Tamar going forth settled in the house  of her father. 
-<small><sub>**KJV:**</sub></small>
-Then said Judah to Tamar his daughter in law, Remain a widow at thy father’s house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren [did]. And Tamar went and dwelt in her father’s house.
-<small><sub>**BSB:**</sub></small>
-Then Judah said to his daughter-in-law Tamar, “Live as a widow in your father’s house until my son Shelah grows up.” For he thought, “He may die too, like his brothers.” So Tamar went to live in her father’s house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.38.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.10|<< Genesis 38:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.12|Genesis 38:12 >>]]</td></tr></table>
 
 | Translation | Greek |

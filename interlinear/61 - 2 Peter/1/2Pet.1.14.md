@@ -1,12 +1,12 @@
-**2 Peter 1:14
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 1:14**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Knowing that shortly I must put off [this] my tabernacle, even as our Lord Jesus Christ hath shewed me.
 <small><sub>**BSB:**</sub></small>
 because I know that this tent will soon be laid aside, as our Lord Jesus Christ has made clear to me.
 <small><sub>**Literal:**</sub></small>
 knowing that imminent is the putting off of the tabernacle of mine, even as also the Lord of us Jesus Christ has made clear to me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.13|<< 2 Peter 1:13]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.15|2 Peter 1:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | knowing |**<big>[[G6063\|εἰδὼς]]</big>**  |eidōs <small><sup>[[V-RAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

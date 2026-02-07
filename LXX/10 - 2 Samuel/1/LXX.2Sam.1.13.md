@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:13** 
 <small><sub>**LXX:**</sub></small>
 And David said to the servant-lad, the one reporting to him, From what place are you? And he said, I am \[the\] son of an Amalekite sojourner man. 
-<small><sub>**KJV:**</sub></small>
-And David said unto the young man that told him, Whence [art] thou? And he answered, I [am] the son of a stranger, an Amalekite.
-<small><sub>**BSB:**</sub></small>
-And David inquired of the young man who had brought him the report, “Where are you from?” “I am the son of a foreigner,” he answered. “I am an Amalekite.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.12|<< 2 Samuel 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.14|2 Samuel 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

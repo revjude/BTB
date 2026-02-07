@@ -1,10 +1,7 @@
 **LXX Isaiah 37:6** 
 <small><sub>**LXX:**</sub></small>
 And Isaiah said to them, Thus you shall say to  your master, Thus says \[the\] <span class="smallcaps">lord</span>, You should not be fearful of the words which you heard, which the ambassadors of \[the\] king of \[the\] Assyrians berated me. 
-<small><sub>**KJV:**</sub></small>
-And Isaiah said unto them, Thus shall ye say unto your master, Thus saith the LORD, Be not afraid of the words that thou hast heard, wherewith the servants of the king of Assyria have blasphemed me.
-<small><sub>**BSB:**</sub></small>
-who replied, “Tell your master that this is what the LORD says: ‘Do not be afraid of the words you have heard, with which the servants of the king of Assyria have blasphemed Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.5|<< Isaiah 37:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.7|Isaiah 37:7 >>]]</td></tr></table>
 
 | Translation | Greek |

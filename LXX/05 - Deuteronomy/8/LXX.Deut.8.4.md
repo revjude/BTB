@@ -1,10 +1,7 @@
 **LXX Deuteronomy 8:4** 
 <small><sub>**LXX:**</sub></small>
  Your garments did not grow old from you;  your feet were not calloused -- behold, for forty years. 
-<small><sub>**KJV:**</sub></small>
-Thy raiment waxed not old upon thee, neither did thy foot swell, these forty years.
-<small><sub>**BSB:**</sub></small>
-Your clothing did not wear out and your feet did not swell during these forty years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.3|<< Deuteronomy 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.5|Deuteronomy 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

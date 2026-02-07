@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:2** 
 <small><sub>**LXX:**</sub></small>
 And now, whenever this scroll comes to you, and with you \[are\] the sons  of your master, and with you the chariots and the horses, and fortified cities, and weapons, 
-<small><sub>**KJV:**</sub></small>
-Now as soon as this letter cometh to you, seeing your master’s sons [are] with you, and [there are] with you chariots and horses, a fenced city also, and armour;
-<small><sub>**BSB:**</sub></small>
-“When this letter arrives, since your master’s sons are with you and you have chariots and horses, a fortified city and weaponry,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.1|<< 2 Kings 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.3|2 Kings 10:3 >>]]</td></tr></table>
 
 | Translation | Greek |

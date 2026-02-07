@@ -1,12 +1,12 @@
-**1 Corinthians 7:15
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:15**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if the unbelieving depart, let him depart. A brother or a sister is not under bondage in such [cases]: but God hath called us to peace.
 <small><sub>**BSB:**</sub></small>
 But if the unbeliever leaves, let him go. The believing brother or sister is not bound in such cases. God has called you to live in peace.
 <small><sub>**Literal:**</sub></small>
 If however the unbeliever separates himself, he should separate himself; not has bee under bondage the brother or the sister in <the> such [cases]; Into however peace has called you <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.14|<< 1 Corinthians 7:14]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.16|1 Corinthians 7:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

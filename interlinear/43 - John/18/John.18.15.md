@@ -1,12 +1,12 @@
-**John 18:15
-**<small><sub>**KJV:**</sub></small>
+**John 18:15**<big><big>[[John.18.15 Peter’s First Denial|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Simon Peter followed Jesus, and [so did] another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest.
 <small><sub>**BSB:**</sub></small>
 Now Simon Peter and another disciple were following Jesus. Since that disciple was known to the high priest, he also went with Jesus into the courtyard of the high priest.
 <small><sub>**Literal:**</sub></small>
 Were following now <the> after Jesus Simon Peter and the other disciple. the Now disciple that [one] was known to the high priest also he entered with <the> Jesus into the court of the high priest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.14|<< John 18:14]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.16|John 18:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were following |**<big>[[G0190\|Ἠκολούθει]]</big>**  |Ēkolouthei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

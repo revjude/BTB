@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:10** 
 <small><sub>**LXX:**</sub></small>
 See that there shall not fall of the saying of \[the\] <span class="smallcaps">lord</span> unto the ground, of which \[the\] <span class="smallcaps">lord</span> spoke against the house of Ahab. And \[the\] <span class="smallcaps">lord</span> did as much as he spoke by \[the\] hand  of his servant Elijah. 
-<small><sub>**KJV:**</sub></small>
-Know now that there shall fall unto the earth nothing of the word of the LORD, which the LORD spake concerning the house of Ahab: for the LORD hath done [that] which he spake by his servant Elijah.
-<small><sub>**BSB:**</sub></small>
-Know, then, that not a word the LORD has spoken against the house of Ahab will fail, for the LORD has done what He promised through His servant Elijah.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.9|<< 2 Kings 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.11|2 Kings 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Lamentations 3:47** 
+**Lamentations 3:47**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear and a snare is come upon us, desolation and destruction.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Panic and pitfall have come upon us—devastation and destruction.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.46|<< Lamentations 3:46]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.48|Lamentations 3:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | terror  |**<big>&#8207;[[H6343\|פַּ֧חַד]]&#8207; </big>**| Pa.chad<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and a pit  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H6354\|פַ֛חַת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Fa.chat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

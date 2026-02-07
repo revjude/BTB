@@ -1,10 +1,7 @@
 **LXX Joshua 23:15** 
 <small><sub>**LXX:**</sub></small>
 And it will be in which manner all the good things come unto you, which \[the\] <span class="smallcaps">lord</span> your God spoke unto you; so \[the\] <span class="smallcaps">lord</span> will bring upon you all the bad things, until he should utterly destroy you from  this good land, of which \[the\] <span class="smallcaps">lord</span> your God gave to you, 
-<small><sub>**KJV:**</sub></small>
-Therefore it shall come to pass, [that] as all good things are come upon you, which the LORD your God promised you; so shall the LORD bring upon you all evil things, until he have destroyed you from off this good land which the LORD your God hath given you.
-<small><sub>**BSB:**</sub></small>
-But just as every good thing the LORD your God promised you has come to pass, likewise the LORD will bring upon you the calamity He has threatened, until He has destroyed you from this good land He has given you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.23.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.14|<< Joshua 23:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.16|Joshua 23:16 >>]]</td></tr></table>
 
 | Translation | Greek |

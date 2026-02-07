@@ -1,4 +1,4 @@
-**Judges 15:18** 
+**Judges 15:18**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he was sore athirst, and called on the LORD, and said, Thou hast given this great deliverance into the hand of thy servant: and now shall I die for thirst, and fall into the hand of the uncircumcised?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And being very thirsty, Samson cried out to the LORD, “You have accomplished t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.17|<< Judges 15:17]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.19|Judges 15:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was thirsty  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6770\|יִּצְמָא֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yitz.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | very  |**<big>&#8207;[[H3966\|מְאֹד֒]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

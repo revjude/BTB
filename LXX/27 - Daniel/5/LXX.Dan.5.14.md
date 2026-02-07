@@ -1,10 +1,7 @@
 **LXX Daniel 5:14** 
 <small><sub>**LXX:**</sub></small>
 I heard concerning you, that spirit of God \[is\] in you, and vigilance, and understanding, and extra wisdom is found in you. 
-<small><sub>**KJV:**</sub></small>
-I have even heard of thee, that the spirit of the gods [is] in thee, and [that] light and understanding and excellent wisdom is found in thee.
-<small><sub>**BSB:**</sub></small>
-I have heard that the spirit of the gods is in you, and that you have insight, intelligence, and extraordinary wisdom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.13|<< Daniel 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.15|Daniel 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

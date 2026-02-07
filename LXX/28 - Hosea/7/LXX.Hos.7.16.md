@@ -1,10 +1,7 @@
 **LXX Hosea 7:16** 
 <small><sub>**LXX:**</sub></small>
 They returned unto nothing; they became as a bow being stretched tight; their rulers shall fall by \[the\] broadsword because of \[the\] stupidity of their tongue; this is  their disparagement in \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-They return, [but] not to the most High: they are like a deceitful bow: their princes shall fall by the sword for the rage of their tongue: this [shall be] their derision in the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-They turn, but not to the Most High; they are like a faulty bow. Their leaders will fall by the sword for the cursing of their tongue; for this they will be ridiculed in the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.15|<< Hosea 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.8.1|Hosea 8:1 >>]]</td></tr></table>
 
 | Translation | Greek |

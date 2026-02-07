@@ -1,10 +1,7 @@
 **LXX Isaiah 44:5** 
 <small><sub>**LXX:**</sub></small>
 This one shall say  I am of God. And this one shall call himself by the name of Jacob. And another shall inscribe with his hand,  I am of God. And he shall call himself by the name Israel. 
-<small><sub>**KJV:**</sub></small>
-One shall say, I [am] the LORD’S; and another shall call [himself] by the name of Jacob; and another shall subscribe [with] his hand unto the LORD, and surname [himself] by the name of Israel.
-<small><sub>**BSB:**</sub></small>
-One will say, ‘I belong to the LORD,’ another will call himself by the name of Jacob, and still another will write on his hand, ‘The LORD’s,’ and will take the name of Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.4|<< Isaiah 44:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.6|Isaiah 44:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Jotham \[was\] a son twenty and five years \[old\] in  his taking reign, and sixteen years he reigned in Jerusalem. And \[the\] name \[to\] his mother \[was\] Jerousha, daughter of Zadok. 
-<small><sub>**KJV:**</sub></small>
-Jotham [was] twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name also [was] Jerushah, the daughter of Zadok.
-<small><sub>**BSB:**</sub></small>
-Jotham was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother’s name was Jerushah daughter of Zadok.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.23|<< 2 Chronicles 26:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.27.2|2 Chronicles 27:2 >>]]</td></tr></table>
 
 | Translation | Greek |

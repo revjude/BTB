@@ -1,10 +1,7 @@
 **LXX Amos 7:12** 
 <small><sub>**LXX:**</sub></small>
 And Amaziah said to Amos, the one seeing, Proceed! Withdraw into \[the\] land of Judah, and there spend your life! and there you shall prophesy. 
-<small><sub>**KJV:**</sub></small>
-Also Amaziah said unto Amos, O thou seer, go, flee thee away into the land of Judah, and there eat bread, and prophesy there:
-<small><sub>**BSB:**</sub></small>
-And Amaziah said to Amos, “Go away, you seer! Flee to the land of Judah; earn your bread there and do your prophesying there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.7.11|<< Amos 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.13|Amos 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

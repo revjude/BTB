@@ -1,4 +1,4 @@
-**Job 40:4** 
+**Job 40:4**<big><big>[[Job.40.1 Job Humbles Himself before the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.3|<< Job 40:3]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.5|Job 40:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2005\|הֵ֣ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I am insignificant  |**<big>&#8207;[[H7043\|קַ֭לֹּתִי]]&#8207; </big>**| Ka.lo.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

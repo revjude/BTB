@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:21** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel being found in Jerusalem observed the holiday of the unleavened \[breads\] seven days with great gladness. And they sang praise to the <span class="smallcaps">lord</span> day by day, even the priests and the Levites with instruments of strength to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel that were present at Jerusalem kept the feast of unleavened bread seven days with great gladness: and the Levites and the priests praised the LORD day by day, [singing] with loud instruments unto the LORD.
-<small><sub>**BSB:**</sub></small>
-The Israelites who were present in Jerusalem celebrated the Feast of Unleavened Bread for seven days with great joy, and the Levites and priests praised the LORD day after day, accompanied by loud instruments of praise to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.20|<< 2 Chronicles 30:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.22|2 Chronicles 30:22 >>]]</td></tr></table>
 
 | Translation | Greek |

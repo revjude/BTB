@@ -1,10 +1,7 @@
 **LXX Joel 2:17** 
 <small><sub>**LXX:**</sub></small>
 The shall weep priests ministering between the footing and the altar to the <span class="smallcaps">lord</span>. And they shall say, Spare, O <span class="smallcaps">lord</span>,  your people! and, You should not give  your inheritance unto scorn for the nations to rule them; so that among the nations they should not say, Where is  their God? 
-<small><sub>**KJV:**</sub></small>
-Let the priests, the ministers of the LORD, weep between the porch and the altar, and let them say, Spare thy people, O LORD, and give not thine heritage to reproach, that the heathen should rule over them: wherefore should they say among the people, Where [is] their God?
-<small><sub>**BSB:**</sub></small>
-Let the priests who minister before the LORD weep between the portico and the altar, saying, “Spare Your people, O LORD, and do not make Your heritage a reproach, an object of scorn among the nations. Why should they say among the peoples, ‘Where is their God?’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.16|<< Joel 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.18|Joel 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

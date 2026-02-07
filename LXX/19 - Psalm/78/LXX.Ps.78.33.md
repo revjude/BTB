@@ -1,10 +1,7 @@
 **LXX Psalm 78:33** 
 <small><sub>**LXX:**</sub></small>
 And their days ended in folly, and  their years with haste. 
-<small><sub>**KJV:**</sub></small>
-Therefore their days did he consume in vanity, and their years in trouble.
-<small><sub>**BSB:**</sub></small>
-So He ended their days in futility, and their years in sudden terror.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.32|<< Psalm 78:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.34|Psalm 78:34 >>]]</td></tr></table>
 
 | Translation | Greek |

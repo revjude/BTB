@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:12** 
 <small><sub>**LXX:**</sub></small>
 On account of this their way become to them for a slip in dimness! And they shall be tripped up and shall fall in it. Because I shall bring upon them bad \[things\] in \[the\] year of their visitation, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Wherefore their way shall be unto them as slippery [ways] in the darkness: they shall be driven on, and fall therein: for I will bring evil upon them, [even] the year of their visitation, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“Therefore their path will become slick; they will be driven away into the darkness and fall into it. For I will bring disaster upon them in the year of their punishment,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.11|<< Jeremiah 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.13|Jeremiah 23:13 >>]]</td></tr></table>
 
 | Translation | Greek |

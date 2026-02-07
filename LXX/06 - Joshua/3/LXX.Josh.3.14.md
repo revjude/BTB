@@ -1,10 +1,7 @@
 **LXX Joshua 3:14** 
 <small><sub>**LXX:**</sub></small>
 And it happened as the people departed from out of  their tents, to pass over the Jordan, that the priests lifted the ark of the covenant of \[the\] <span class="smallcaps">lord</span> in front of the people. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the people removed from their tents, to pass over Jordan, and the priests bearing the ark of the covenant before the people;
-<small><sub>**BSB:**</sub></small>
-So when the people broke camp to cross the Jordan, the priests carried the ark of the covenant ahead of them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.13|<< Joshua 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.15|Joshua 3:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joshua 3:14** is...

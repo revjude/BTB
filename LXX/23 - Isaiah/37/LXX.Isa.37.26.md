@@ -1,10 +1,7 @@
 **LXX Isaiah 37:26** 
 <small><sub>**LXX:**</sub></small>
 \[Have\] you not heard these \[things\] which I did earlier? From ancient days I ordered it. But now I displayed nations in fortified \[places\] desolate, and \[the\] ones living in fortified cities. 
-<small><sub>**KJV:**</sub></small>
-Hast thou not heard long ago, [how] I have done it; [and] of ancient times, that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste defenced cities [into] ruinous heaps.
-<small><sub>**BSB:**</sub></small>
-Have you not heard? Long ago I ordained it; in days of old I planned it. Now I have brought it to pass, that you should crush fortified cities into piles of rubble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.25|<< Isaiah 37:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.27|Isaiah 37:27 >>]]</td></tr></table>
 
 | Translation | Greek |

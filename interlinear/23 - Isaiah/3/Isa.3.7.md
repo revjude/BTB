@@ -1,4 +1,4 @@
-**Isaiah 3:7** 
+**Isaiah 3:7**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day shall he swear, saying, I will not be an healer; for in my house [is] neither bread nor clothing: make me not a ruler of the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On that day he will cry aloud: “I am not a healer. I have no food or clothing 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.6|<< Isaiah 3:6]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.8|Isaiah 3:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will lift up  |**<big>&#8207;[[H5375N\|יִשָּׂא֩]]&#8207; </big>**| yi.Sa'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the day  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּ֨וֹם]]&#8207; </big>**| va<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

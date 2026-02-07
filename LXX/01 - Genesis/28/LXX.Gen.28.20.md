@@ -1,10 +1,7 @@
 **LXX Genesis 28:20** 
 <small><sub>**LXX:**</sub></small>
 And Jacob vowed a vow, saying, If \[the\] <span class="smallcaps">lord</span> God should be with me, and should guard me in  this journey which I go, and should give to me bread to eat, and a cloak to put on, 
-<small><sub>**KJV:**</sub></small>
-And Jacob vowed a vow, saying, If God will be with me, and will keep me in this way that I go, and will give me bread to eat, and raiment to put on,
-<small><sub>**BSB:**</sub></small>
-Then Jacob made a vow, saying, “If God will be with me and watch over me on this journey, and if He will provide me with food to eat and clothes to wear,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.28.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.19|<< Genesis 28:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.21|Genesis 28:21 >>]]</td></tr></table>
 
 | Translation | Greek |

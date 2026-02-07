@@ -1,4 +1,4 @@
-**2 Chronicles 26:3** 
+**2 Chronicles 26:3**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sixteen years old [was] Uzziah when he began to reign, and he reigned fifty and two years in Jerusalem. His mother’s name also [was] Jecoliah of Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Uzziah was sixteen years old when he became king, and he reigned in Jerusalem fi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.2|<< 2 Chronicles 26:2]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.4|2 Chronicles 26:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] a son of  |**<big>&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | six-  |**<big>&#8207;[[H8337\|שֵׁ֨שׁ]]&#8207; </big>**| shesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

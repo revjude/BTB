@@ -1,10 +1,7 @@
 **LXX Judges 15:2** 
 <small><sub>**LXX:**</sub></small>
 And her father said, In saying, I said that, By detesting you detested her; and I gave her to your companion. Behold is not her younger sister better \[than\] she? Let her be to you instead of her! 
-<small><sub>**KJV:**</sub></small>
-And her father said, I verily thought that thou hadst utterly hated her; therefore I gave her to thy companion: [is] not her younger sister fairer than she? take her, I pray thee, instead of her.
-<small><sub>**BSB:**</sub></small>
-“I was sure that you thoroughly hated her,” said her father, “so I gave her to one of the men who accompanied you. Is not her younger sister more beautiful than she? Please take her instead.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.1|<< Judges 15:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.3|Judges 15:3 >>]]</td></tr></table>
 
 | Translation | Greek |

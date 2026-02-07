@@ -1,10 +1,7 @@
 **LXX Leviticus 22:30** 
 <small><sub>**LXX:**</sub></small>
 \[in\] that day it shall be eaten; you shall not leave of the meats into the morning. I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-On the same day it shall be eaten up; ye shall leave none of it until the morrow: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-It must be eaten that same day. Do not leave any of it until morning. I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.29|<< Leviticus 22:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.31|Leviticus 22:31 >>]]</td></tr></table>
 
 | Translation | Greek |

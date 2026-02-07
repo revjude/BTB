@@ -1,4 +1,4 @@
-**Psalms 74:2** 
+**Psalms 74:2**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember thy congregation, [which] thou hast purchased of old; the rod of thine inheritance, [which] thou hast redeemed; this mount Zion, wherein thou hast dwelt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember Your congregation, which You purchased long ago and redeemed as the tri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.1|<< Psalms 74:1]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.3|Psalms 74:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | remember  |**<big>&#8207;[[H2142\|זְכֹ֤ר]]&#8207; </big>**| ze.Khor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | congregation your  |**<big>&#8207;[[H5712\|עֲדָתְ]]&#8207;&#8207;[[H9021\|ךָ֨]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.da.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

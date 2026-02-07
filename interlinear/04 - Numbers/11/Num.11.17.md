@@ -1,4 +1,4 @@
-**Numbers 11:17** 
+**Numbers 11:17**<big><big>[[Num.11.16 Seventy Elders Anointed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will come down and talk with thee there: and I will take of the spirit which [is] upon thee, and will put [it] upon them; and they shall bear the burden of the people with thee, that thou bear [it] not thyself alone.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will come down and speak with you there, and I will take some of the Spiri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.16|<< Numbers 11:16]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.18|Numbers 11:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will come down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3381\|יָרַדְתִּ֗י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.rad.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I will speak  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1696G\|דִבַּרְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> di.bar.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

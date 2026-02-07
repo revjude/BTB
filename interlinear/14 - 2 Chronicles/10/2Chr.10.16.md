@@ -1,4 +1,4 @@
-**2 Chronicles 10:16** 
+**2 Chronicles 10:16**<big><big>[[2Chr.10.16 The Kingdom Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when all Israel [saw] that the king would not hearken unto them, the people answered the king, saying, What portion have we in David? and [we have] none inheritance in the son of Jesse: every man to your tents, O Israel: [and] now, David, see to thine own house. So all Israel went to their tents.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When all Israel saw that the king had refused to listen to them, they answered t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.10.15|<< 2 Chronicles 10:15]]</td><td align="center" style="border:none;">[[2Chr.10|2 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10.17|2 Chronicles 10:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֗ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

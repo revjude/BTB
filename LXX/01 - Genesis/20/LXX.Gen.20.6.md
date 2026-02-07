@@ -1,10 +1,7 @@
 **LXX Genesis 20:6** 
 <small><sub>**LXX:**</sub></small>
 And God said to him by sleep, And I knew that with a clean heart you did this, and I spared you \[for\] you to not sin against me; because of this I did not let you  touch her. 
-<small><sub>**KJV:**</sub></small>
-And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her.
-<small><sub>**BSB:**</sub></small>
-Then God said to Abimelech in the dream, “Yes, I know that you did this with a clear conscience, and so I have kept you from sinning against Me. That is why I did not let you touch her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.5|<< Genesis 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.7|Genesis 20:7 >>]]</td></tr></table>
 
 | Translation | Greek |

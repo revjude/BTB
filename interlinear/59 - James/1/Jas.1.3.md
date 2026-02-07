@@ -1,12 +1,12 @@
-**James 1:3
-**<small><sub>**KJV:**</sub></small>
+**James 1:3**<big><big>[[Jas.1.2 Rejoicing in Trials|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Knowing [this], that the trying of your faith worketh patience.
 <small><sub>**BSB:**</sub></small>
 because you know that the testing of your faith develops perseverance.
 <small><sub>**Literal:**</sub></small>
 knowing that the testing of your <the> faith produces endurance;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.2|<< James 1:2]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.4|James 1:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | knowing |**<big>[[G1097\|γινώσκοντες]]</big>**  |ginōskontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

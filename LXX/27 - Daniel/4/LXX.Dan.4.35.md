@@ -1,10 +1,7 @@
 **LXX Daniel 4:35** 
 <small><sub>**LXX:**</sub></small>
 And all the ones inhabiting the earth \[are\] considered as nothing; and according to  his will he does among the force of the of heaven, and among the one dwelling the earth. And there is not one who shall act against  his hand, and says to him, What did you do? 
-<small><sub>**KJV:**</sub></small>
-And all the inhabitants of the earth [are] reputed as nothing: and he doeth according to his will in the army of heaven, and [among] the inhabitants of the earth: and none can stay his hand, or say unto him, What doest thou?
-<small><sub>**BSB:**</sub></small>
-All the peoples of the earth are counted as nothing, and He does as He pleases with the army of heaven and the peoples of the earth. There is no one who can restrain His hand or say to Him, ‘What have You done?’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.34|<< Daniel 4:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.36|Daniel 4:36 >>]]</td></tr></table>
 
 | Translation | Greek |

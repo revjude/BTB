@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 To all the time and season, \[to\] every thing under the heaven. 
-<small><sub>**KJV:**</sub></small>
-To every [thing there is] a season, and a time to every purpose under the heaven:
-<small><sub>**BSB:**</sub></small>
-To everything there is a season, and a time for every purpose under heaven:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.26|<< Ecclesiastes 2:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.2|Ecclesiastes 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

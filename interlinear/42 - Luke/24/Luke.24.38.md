@@ -1,12 +1,12 @@
-**Luke 24:38
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:38**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Why are ye troubled? and why do thoughts arise in your hearts?
 <small><sub>**BSB:**</sub></small>
 “Why are you troubled,” Jesus asked, “and why do doubts arise in your hearts?
 <small><sub>**Literal:**</sub></small>
 And He said to them; Why troubled are you and through why doubts do come up in the heart of you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.37|<< Luke 24:37]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.39|Luke 24:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

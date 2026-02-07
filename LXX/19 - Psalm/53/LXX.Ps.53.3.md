@@ -1,10 +1,7 @@
 **LXX Psalm 53:3** 
 <small><sub>**LXX:**</sub></small>
 All turned aside; together they were made useless; there is not one doing good, there is not even one. 
-<small><sub>**KJV:**</sub></small>
-Every one of them is gone back: they are altogether become filthy; [there is] none that doeth good, no, not one.
-<small><sub>**BSB:**</sub></small>
-All have turned away, they have together become corrupt; there is no one who does good, not even one.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.53.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.53.2|<< Psalm 53:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.53.4|Psalm 53:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 53:3** is...

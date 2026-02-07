@@ -1,10 +1,7 @@
 **LXX Numbers 6:9** 
 <small><sub>**LXX:**</sub></small>
 And if anyone should die to death near him suddenly, immediately the head of his vow shall be defiled; and he shall shave  his head in which day he should be cleansed; the seventh day he shall be shaved. 
-<small><sub>**KJV:**</sub></small>
-And if any man die very suddenly by him, and he hath defiled the head of his consecration; then he shall shave his head in the day of his cleansing, on the seventh day shall he shave it.
-<small><sub>**BSB:**</sub></small>
-If someone suddenly dies in his presence and defiles his consecrated head of hair, he must shave his head on the day of his cleansing—the seventh day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.8|<< Numbers 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.10|Numbers 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

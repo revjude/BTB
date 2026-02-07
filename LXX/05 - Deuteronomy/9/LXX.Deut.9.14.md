@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:14** 
 <small><sub>**LXX:**</sub></small>
 Allow me! to utterly destroy them, and I will wipe away  their name from beneath the heaven. And I will make you into a great and strong nation, and \[more\] numerous rather than this one. 
-<small><sub>**KJV:**</sub></small>
-Let me alone, that I may destroy them, and blot out their name from under heaven: and I will make of thee a nation mightier and greater than they.
-<small><sub>**BSB:**</sub></small>
-Leave Me alone, so that I may destroy them and blot out their name from under heaven. Then I will make you into a nation mightier and greater than they are.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.13|<< Deuteronomy 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.15|Deuteronomy 9:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 6:17** 
 <small><sub>**LXX:**</sub></small>
 And \[with\] the ram he shall make a sacrifice of deliverance to the <span class="smallcaps">lord</span> with the bin  of unleavened \[breads\]. And the priest shall offer  his sacrifice \[offering\], and  his libation. 
-<small><sub>**KJV:**</sub></small>
-And he shall offer the ram [for] a sacrifice of peace offerings unto the LORD, with the basket of unleavened bread: the priest shall offer also his meat offering, and his drink offering.
-<small><sub>**BSB:**</sub></small>
-He shall also offer the ram as a peace offering to the LORD, along with the basket of unleavened bread. And the priest is to offer the accompanying grain offering and drink offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.16|<< Numbers 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.18|Numbers 6:18 >>]]</td></tr></table>
 
 | Translation | Greek |

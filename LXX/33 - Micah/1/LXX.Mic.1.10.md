@@ -1,10 +1,7 @@
 **LXX Micah 1:10** 
 <small><sub>**LXX:**</sub></small>
 O ones in Gath, do not magnify yourselves! And, O ones in Baceim, do not rebuild of \[your\] house with laughter! Strew earth on your laughter! 
-<small><sub>**KJV:**</sub></small>
-Declare ye [it] not at Gath, weep ye not at all: in the house of Aphrah roll thyself in the dust.
-<small><sub>**BSB:**</sub></small>
-Do not tell it in Gath; do not weep at all. Roll in the dust in Beth-leaphrah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.9|<< Micah 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.11|Micah 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

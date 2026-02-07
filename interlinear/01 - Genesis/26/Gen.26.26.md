@@ -1,4 +1,4 @@
-**Genesis 26:26** 
+**Genesis 26:26**<big><big>[[Gen.26.26 Isaac’s Covenant with Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Abimelech went to him from Gerar, and Ahuzzath one of his friends, and Phichol the chief captain of his army.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Later, Abimelech came to Isaac from Gerar, with Ahuzzath his adviser and Phicol 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.25|<< Genesis 26:25]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.27|Genesis 26:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Abimelech  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0040G\|אֲבִימֶ֕לֶךְ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vi.Me.lekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he came  |**<big>&#8207;[[H1980G\|הָלַ֥ךְ]]&#8207; </big>**| ha.Lakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

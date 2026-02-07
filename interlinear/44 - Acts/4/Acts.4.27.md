@@ -1,12 +1,12 @@
-**Acts 4:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:27**<big><big>[[Acts.4.23 The Believers’ Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For of a truth against thy holy child Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together,
 <small><sub>**BSB:**</sub></small>
 In fact, this is the very city where Herod and Pontius Pilate conspired with the Gentiles and the people of Israel against Your holy servant Jesus, whom You anointed.
 <small><sub>**Literal:**</sub></small>
 Were gathered together for in truth in the city this against the holy servant of You Jesus whom You anointed, Herod both and Pontius Pilate with [the] Gentiles and peoples of Israel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.26|<< Acts 4:26]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.28|Acts 4:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were gathered together |**<big>[[G4863\|συνήχθησαν]]</big>**  |sunēchthēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

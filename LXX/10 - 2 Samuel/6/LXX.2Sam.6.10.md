@@ -1,10 +1,7 @@
 **LXX 2 Samuel 6:10** 
 <small><sub>**LXX:**</sub></small>
 And David did not want  to turn aside to himself the ark of \[the\] covenant of \[the\] <span class="smallcaps">lord</span> into the city of David. And David turned off with it into \[the\] house of Obed Edom the Gittite. 
-<small><sub>**KJV:**</sub></small>
-So David would not remove the ark of the LORD unto him into the city of David: but David carried it aside into the house of Obededom the Gittite.
-<small><sub>**BSB:**</sub></small>
-So he was unwilling to move the ark of the LORD to the City of David; instead, he took it aside to the house of Obed-edom the Gittite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.9|<< 2 Samuel 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.11|2 Samuel 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

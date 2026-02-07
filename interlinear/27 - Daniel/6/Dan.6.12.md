@@ -1,4 +1,4 @@
-**Daniel 6:12** (6:13)
+**Daniel 6:12**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they came near, and spake before the king concerning the king’s decree; Hast thou not signed a decree, that every man that shall ask [a petition] of any God or man within thirty days, save of thee, O king, shall be cast into the den of lions? The king answered and said, The thing [is] true, according to the law of the Medes and Persians, which altereth not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they approached the king and asked about his royal decree: “Did you not sig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.11|<< Daniel 6:11]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.13|Daniel 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ֠]]&#8207;&#8207;[[H0116\|אדַיִן]]&#8207; </big>**| Be.<small><sup>[[AR]]</sup></small> da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they approached  |**<big>&#8207;[[H7127\|קְרִ֨יבוּ]]&#8207; </big>**| ke.Ri.vu<small><sup>[[AVqp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

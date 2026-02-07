@@ -1,4 +1,4 @@
-**2 Kings 12:17** (12:18)
+**2 Kings 12:17**<big><big>[[2Kgs.12.17 The Death of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Hazael king of Syria went up, and fought against Gath, and took it: and Hazael set his face to go up to Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At that time Hazael king of Aram marched up and fought against Gath and captured
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.16|<< 2 Kings 12:16]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.18|2 Kings 12:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he went up  |**<big>&#8207;[[H5927G\|יַעֲלֶ֗ה]]&#8207; </big>**| ya.'a.Leh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

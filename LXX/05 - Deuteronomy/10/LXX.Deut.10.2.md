@@ -1,10 +1,7 @@
 **LXX Deuteronomy 10:2** 
 <small><sub>**LXX:**</sub></small>
 And I will write upon the tablets the words which \[were\] on the first tablets which you broke, and you shall put them into the ark. 
-<small><sub>**KJV:**</sub></small>
-And I will write on the tables the words that were in the first tables which thou brakest, and thou shalt put them in the ark.
-<small><sub>**BSB:**</sub></small>
-And I will write on the tablets the words that were on the first tablets, which you broke; and you are to place them in the ark.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.10.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.10.1|<< Deuteronomy 10:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.3|Deuteronomy 10:3 >>]]</td></tr></table>
 
 | Translation | Greek |

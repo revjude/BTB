@@ -1,10 +1,7 @@
 **LXX Genesis 1:21** 
 <small><sub>**LXX:**</sub></small>
 And God made the great whales, and every life of living creatures of reptiles which the waters brought forth according to their types; and every feathered winged creature according to type. And God beheld that \[it was\] good. 
-<small><sub>**KJV:**</sub></small>
-And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that [it was] good.
-<small><sub>**BSB:**</sub></small>
-So God created the great sea creatures and every living thing that moves, with which the waters teemed according to their kinds, and every winged bird after its kind. And God saw that it was good.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.20|<< Genesis 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.22|Genesis 1:22 >>]]</td></tr></table>
 
 | Translation | Greek |

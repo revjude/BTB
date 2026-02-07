@@ -1,4 +1,4 @@
-**Genesis 4:5** 
+**Genesis 4:5**<big><big>[[Gen.4.1 Cain and Abel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but He had no regard for Cain and his offering. So Cain became very angry, and h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.4|<< Genesis 4:4]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.6|Genesis 4:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Cain  |**<big>&#8207;[[H7014B\|קַ֥יִן]]&#8207; </big>**| Ka.yin<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

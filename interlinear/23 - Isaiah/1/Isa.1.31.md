@@ -1,4 +1,4 @@
-**Isaiah 1:31** 
+**Isaiah 1:31**<big><big>[[Isa.1.21 The Corruption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the strong shall be as tow, and the maker of it as a spark, and they shall both burn together, and none shall quench [them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The strong man will become tinder and his work will be a spark; both will burn t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.30|<< Isaiah 1:30]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.1|Isaiah 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the strong [person]  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H2634\|חָסֹן֙]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> cha.Son<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

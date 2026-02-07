@@ -1,10 +1,7 @@
 **LXX Jeremiah 24:6** 
 <small><sub>**LXX:**</sub></small>
 And I shall firmly fix  my eyes upon them for good, and I shall restore them into  this land. And I will rebuild them, and in no way demolish; and I will plant them, and in no way will I pluck \[them\] up. 
-<small><sub>**KJV:**</sub></small>
-For I will set mine eyes upon them for good, and I will bring them again to this land: and I will build them, and not pull [them] down; and I will plant them, and not pluck [them] up.
-<small><sub>**BSB:**</sub></small>
-I will keep My eyes on them for good and will return them to this land. I will build them up and not tear them down; I will plant them and not uproot them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.5|<< Jeremiah 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.7|Jeremiah 24:7 >>]]</td></tr></table>
 
 | Translation | Greek |

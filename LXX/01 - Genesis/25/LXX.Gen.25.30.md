@@ -1,10 +1,7 @@
 **LXX Genesis 25:30** 
 <small><sub>**LXX:**</sub></small>
 And Esau said  to Jacob, Let me taste from  this spicy stew for I fail; on account of this his name was called Edom. 
-<small><sub>**KJV:**</sub></small>
-And Esau said to Jacob, Feed me, I pray thee, with that same red [pottage]; for I [am] faint: therefore was his name called Edom.
-<small><sub>**BSB:**</sub></small>
-He said to Jacob, “Let me eat some of that red stew, for I am famished.” (That is why he was also called Edom.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.29|<< Genesis 25:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.31|Genesis 25:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Judges 14:6** 
+**Judges 14:6**<big><big>[[Judg.14.1 Samson’s Marriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Spirit of the LORD came mightily upon him, and he rent him as he would have rent a kid, and [he had] nothing in his hand: but he told not his father or his mother what he had done.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the Spirit of the LORD came powerfully upon him, and he tore the lion apart 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.5|<< Judges 14:5]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.7|Judges 14:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it rushed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6743A\|תִּצְלַ֨ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> titz.Lach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on him  |**<big>&#8207;[[H5921A\|עָלָ֜י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

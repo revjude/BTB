@@ -1,4 +1,4 @@
-**Ecclesiastes 11:10** 
+**Ecclesiastes 11:10**<big><big>[[Eccl.11.7 Enjoy Your Years|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth [are] vanity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So banish sorrow from your heart, and cast off pain from your body, for youth an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11.9|<< Ecclesiastes 11:9]]</td><td align="center" style="border:none;">[[Eccl.11|Ecclesiastes 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.1|Ecclesiastes 12:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and remove  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5493G\|הָסֵ֥ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.Ser<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | vexation  |**<big>&#8207;[[H3708A\|כַּ֙עַס֙]]&#8207; </big>**| ka.'as<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

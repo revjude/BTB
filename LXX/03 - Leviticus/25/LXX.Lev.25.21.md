@@ -1,10 +1,7 @@
 **LXX Leviticus 25:21** 
 <small><sub>**LXX:**</sub></small>
 Then I will send  my blessing to you in the sixth year, and \[the land\] shall produce  its produce for the three years. 
-<small><sub>**KJV:**</sub></small>
-Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years.
-<small><sub>**BSB:**</sub></small>
-But I will send My blessing upon you in the sixth year, so that the land will yield a crop sufficient for three years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.20|<< Leviticus 25:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.22|Leviticus 25:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Leviticus 11:32** 
+**Leviticus 11:32**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And upon whatsoever [any] of them, when they are dead, doth fall, it shall be unclean; whether [it be] any vessel of wood, or raiment, or skin, or sack, whatsoever vessel [it be], wherein [any] work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When one of them dies and falls on something, that article becomes unclean; any 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.31|<< Leviticus 11:31]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.33|Leviticus 11:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כֹ֣ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 25:12** 
+**Numbers 25:12**<big><big>[[Num.25.6 The Zeal of Phinehas|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore say, Behold, I give unto him my covenant of peace:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Declare, therefore, that I am granting him My covenant of peace.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.25.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.25.11|<< Numbers 25:11]]</td><td align="center" style="border:none;">[[Num.25|Numbers 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.25.13|Numbers 25:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֖ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | say  |**<big>&#8207;[[H0559\|אֱמֹ֑ר]]&#8207; </big>**| 'e.Mor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

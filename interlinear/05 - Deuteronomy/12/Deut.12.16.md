@@ -1,4 +1,4 @@
-**Deuteronomy 12:16** 
+**Deuteronomy 12:16**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only ye shall not eat the blood; ye shall pour it upon the earth as water.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but you must not eat the blood; pour it on the ground like water.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.15|<< Deuteronomy 12:15]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.17|Deuteronomy 12:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַ֥ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the blood  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1818\|דָּ֖ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

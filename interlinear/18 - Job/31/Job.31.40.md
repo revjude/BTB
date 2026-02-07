@@ -1,4 +1,4 @@
-**Job 31:40** 
+**Job 31:40**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let thistles grow instead of wheat, and cockle instead of barley. The words of Job are ended.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then let briers grow instead of wheat and stinkweed instead of barley.” Thus c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.39|<< Job 31:39]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.1|Job 32:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in place of  |**<big>&#8207;[[H8478H\|תַּ֤חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wheat  |**<big>&#8207;[[H2406\|חִטָּ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| chi.Tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

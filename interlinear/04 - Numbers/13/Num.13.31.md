@@ -1,4 +1,4 @@
-**Numbers 13:31** 
+**Numbers 13:31**<big><big>[[Num.13.25 The Reports of the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the men that went up with him said, We be not able to go up against the people; for they [are] stronger than we.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the men who had gone up with him replied, “We cannot go up against the peo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.30|<< Numbers 13:30]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.32|Numbers 13:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the men  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ֨]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֜ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

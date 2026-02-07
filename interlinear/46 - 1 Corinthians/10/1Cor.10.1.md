@@ -1,5 +1,5 @@
-**1 Corinthians 10:1
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:1**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;
 <small><sub>**BSB:**</sub></small>
 I do not want you to be unaware, brothers, that our forefathers were all under the cloud, and that they all passed through the sea.
@@ -10,7 +10,7 @@ Not I want for you to be ignorant, brothers, that the fathers of us all under th
 > $\quad$ alluding to: [[LXX.Exod.13.21|Exod 13:21]] ☩ [[LXX.Exod.14.22|Exod 14:22]] ☩ [[LXX.Num.9.18|Num 9:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|Οὐ]]</big>**  |Ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I want |**<big>[[G2309\|θέλω]]</big>**  |thelō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

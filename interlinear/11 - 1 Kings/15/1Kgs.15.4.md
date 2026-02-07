@@ -1,4 +1,4 @@
-**1 Kings 15:4** 
+**1 Kings 15:4**<big><big>[[1Kgs.15.1 Abijam Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless for David’s sake did the LORD his God give him a lamp in Jerusalem, to set up his son after him, and to establish Jerusalem:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nevertheless, for the sake of David, the LORD his God gave him a lamp in Jerusal
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.3|<< 1 Kings 15:3]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.5|1 Kings 15:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for [the] sake of  |**<big>&#8207;[[H4616\|לְמַ֣עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

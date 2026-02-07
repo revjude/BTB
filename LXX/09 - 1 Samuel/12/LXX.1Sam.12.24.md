@@ -1,10 +1,7 @@
 **LXX 1 Samuel 12:24** 
 <small><sub>**LXX:**</sub></small>
 Only fear the <span class="smallcaps">lord</span>, and serve him in truth, and with your entire heart! For see what he magnified with you! 
-<small><sub>**KJV:**</sub></small>
-Only fear the LORD, and serve him in truth with all your heart: for consider how great [things] he hath done for you.
-<small><sub>**BSB:**</sub></small>
-Above all, fear the LORD and serve Him faithfully with all your heart; consider what great things He has done for you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.23|<< 1 Samuel 12:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.25|1 Samuel 12:25 >>]]</td></tr></table>
 
 | Translation | Greek |

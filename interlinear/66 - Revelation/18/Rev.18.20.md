@@ -1,5 +1,5 @@
-**Revelation 18:20
-**<small><sub>**KJV:**</sub></small>
+**Revelation 18:20**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Rejoice over her, [thou] heaven, and [ye] holy apostles and prophets; for God hath avenged you on her.
 <small><sub>**BSB:**</sub></small>
 Rejoice over her, O heaven, and you saints and apostles and prophets, because God has pronounced for you His judgment against her.
@@ -10,7 +10,7 @@ do rejoice over her, O heaven and you saints and you apostles and you prophets, 
 > $\quad$ alluding to: [[LXX.Isa.44.23|Isa 44:23]] ☩ [[LXX.Jer.51.48|Jer 51:48]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do rejoice |**<big>[[G2165\|εὐφραίνου]]</big>**  |euphrainou <small><sup>[[V-PPM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | over |**<big>[[G1909\|ἐπ᾽]]</big>**  |ep᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

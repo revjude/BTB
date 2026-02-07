@@ -1,10 +1,7 @@
 **LXX Genesis 22:12** 
 <small><sub>**LXX:**</sub></small>
 And he said, You should not put  your hand upon the lad, nor should you do \[anything\] to him by any means. For now I know that you fear  God, and spared not  your beloved son on account of me. 
-<small><sub>**KJV:**</sub></small>
-And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only [son] from me.
-<small><sub>**BSB:**</sub></small>
-“Do not lay a hand on the boy or do anything to him,” said the angel, “for now I know that you fear God, since you have not withheld your only son from me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.22.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.11|<< Genesis 22:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.13|Genesis 22:13 >>]]</td></tr></table>
 
 | Translation | Greek |

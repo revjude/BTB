@@ -1,4 +1,4 @@
-**Genesis 4:8** 
+**Genesis 4:8**<big><big>[[Gen.4.1 Cain and Abel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then Cain said to his brother Abel, “Let us go out to the field.” And while 
 > $\quad$ referenced by: [[Matt.23.35|Matt 23:35]] ☩ [[Luke.11.51|Luke 11:51]] ☩ [[1John.3.12|1John 3:12]] ☩ [[Jude.1.11|Jude 1:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Cain  |**<big>&#8207;[[H7014B\|קַ֖יִן]]&#8207; </big>**| Ka.yin<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 5:13** 
+**Numbers 5:13**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and [there be] no witness against her, neither she be taken [with the manner];
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ by sleeping with another man, and it is concealed from her husband and her impur
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.12|<< Numbers 5:12]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.14|Numbers 5:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will lie with  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7901I\|שָׁכַ֨ב]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Khav<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a man  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

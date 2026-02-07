@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David said to all  his servants with him in Jerusalem, Rise up! for we should flee, for there is no deliverance for us from \[the\] face of Absalom. Hasten  to go! that he should not hasten and overtake us, and thrust evil upon us, and should strike the city by \[the\] mouth of \[the\] broadsword. 
-<small><sub>**KJV:**</sub></small>
-And David said unto all his servants that [were] with him at Jerusalem, Arise, and let us flee; for we shall not [else] escape from Absalom: make speed to depart, lest he overtake us suddenly, and bring evil upon us, and smite the city with the edge of the sword.
-<small><sub>**BSB:**</sub></small>
-And David said to all the servants with him in Jerusalem, “Arise and let us flee, or we will not escape from Absalom! We must leave quickly, or he will soon overtake us, heap disaster on us, and put the city to the sword.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.13|<< 2 Samuel 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.15|2 Samuel 15:15 >>]]</td></tr></table>
 
 | Translation | Greek |

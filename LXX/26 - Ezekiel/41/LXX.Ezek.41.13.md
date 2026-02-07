@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he measured over against the house -- a hundred cubits length, and the \[spaces\] left over, and the \[places\] separating, and  its walls -- a hundred cubits length. 
-<small><sub>**KJV:**</sub></small>
-So he measured the house, an hundred cubits long; and the separate place, and the building, with the walls thereof, an hundred cubits long;
-<small><sub>**BSB:**</sub></small>
-Then he measured the temple to be a hundred cubits long, and the temple courtyard and the building with its walls were also a hundred cubits long.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.41.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.12|<< Ezekiel 41:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.14|Ezekiel 41:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 41:13** is...

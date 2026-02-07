@@ -1,12 +1,12 @@
-**1 John 2:18
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:18**<big><big>[[1John.2.18 Beware of Antichrists|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.
 <small><sub>**BSB:**</sub></small>
 Children, it is the last hour; and just as you have heard that the antichrist is coming, so now many antichrists have appeared. This is how we know it is the last hour.
 <small><sub>**Literal:**</sub></small>
 Little children, [the] last hour it is, and even as you have heard that <the> antichrist is coming, even now antichrists many have arisen whereby we know that [the] last hour it is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.17|<< 1 John 2:17]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.19|1 John 2:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Little children, |**<big>[[G3813\|Παιδία,]]</big>**  |Paidia <small><sup>[[N-VPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] last |**<big>[[G2078\|ἐσχάτη]]</big>**  |eschatē <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

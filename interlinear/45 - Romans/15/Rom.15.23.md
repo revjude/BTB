@@ -1,12 +1,12 @@
-**Romans 15:23
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:23**<big><big>[[Rom.15.23 Paul’s Travel Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But now having no more place in these parts, and having a great desire these many years to come unto you;
 <small><sub>**BSB:**</sub></small>
 But now that there are no further opportunities for me in these regions, and since I have longed for many years to visit you,
 <small><sub>**Literal:**</sub></small>
 Now however no longer a place having in <the> regions these a great desire now having had <the> to come to you for many years,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.22|<< Romans 15:22]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.24|Romans 15:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Now |**<big>[[G3570\|νυνὶ]]</big>**  |nuni <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

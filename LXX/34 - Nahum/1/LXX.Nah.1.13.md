@@ -1,10 +1,7 @@
 **LXX Nahum 1:13** 
 <small><sub>**LXX:**</sub></small>
 And now I will break  his rod from you, and the bonds I will tear up. 
-<small><sub>**KJV:**</sub></small>
-For now will I break his yoke from off thee, and will burst thy bonds in sunder.
-<small><sub>**BSB:**</sub></small>
-For I will now break their yoke from your neck and tear away your shackles.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.12|<< Nahum 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.14|Nahum 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

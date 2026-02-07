@@ -1,10 +1,7 @@
 **LXX Psalm 44:19** 
 <small><sub>**LXX:**</sub></small>
 For you humbled us in \[the\] place of affliction; and \[the\] shadow of death covered over us. 
-<small><sub>**KJV:**</sub></small>
-Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.
-<small><sub>**BSB:**</sub></small>
-But You have crushed us in the lair of jackals; You have covered us with deepest darkness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.44.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.18|<< Psalm 44:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.20|Psalm 44:20 >>]]</td></tr></table>
 
 | Translation | Greek |

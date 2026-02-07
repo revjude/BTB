@@ -1,12 +1,12 @@
-**Mark 12:27
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:27**<big><big>[[Mark.12.18 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He is not the God of the dead, but the God of the living: ye therefore do greatly err.
 <small><sub>**BSB:**</sub></small>
 He is not the God of the dead, but of the living. You are badly mistaken!”
 <small><sub>**Literal:**</sub></small>
 Not He is the God of [the] dead but God of [the] living; you yourselves therefore Greatly you err.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.26|<< Mark 12:26]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.28|Mark 12:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He is |**<big>[[G1510\|ἔστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

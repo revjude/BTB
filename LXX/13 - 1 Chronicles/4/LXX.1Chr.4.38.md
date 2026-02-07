@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:38** 
 <small><sub>**LXX:**</sub></small>
 these \[are\] the ones going by names of \[the\] rulers in  their generations; and in \[the\] houses of their families they were multiplied into a multitude. 
-<small><sub>**KJV:**</sub></small>
-These mentioned by [their] names [were] princes in their families: and the house of their fathers increased greatly.
-<small><sub>**BSB:**</sub></small>
-These men listed by name were the leaders of their clans. Their families increased greatly,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.37|<< 1 Chronicles 4:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.39|1 Chronicles 4:39 >>]]</td></tr></table>
 
 | Translation | Greek |

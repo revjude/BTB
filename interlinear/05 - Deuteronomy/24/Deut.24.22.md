@@ -1,4 +1,4 @@
-**Deuteronomy 24:22** 
+**Deuteronomy 24:22**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt remember that thou wast a bondman in the land of Egypt: therefore I command thee to do this thing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Remember that you were slaves in the land of Egypt. Therefore I am commanding yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.21|<< Deuteronomy 24:21]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.1|Deuteronomy 25:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will remember  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2142\|זָ֣כַרְתָּ֔]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Za.khar.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

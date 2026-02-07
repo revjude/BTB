@@ -1,12 +1,12 @@
-**Romans 1:26
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:26**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:
 <small><sub>**BSB:**</sub></small>
 For this reason God gave them over to dishonorable passions. Even their women exchanged natural relations for unnatural ones.
 <small><sub>**Literal:**</sub></small>
 Because of this gave up them <the> God to passions of dishonor; <the> Even for females of them changed the natural use into that contrary to nature,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.25|<< Romans 1:25]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.27|Romans 1:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|Διὰ]]</big>**  |Dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

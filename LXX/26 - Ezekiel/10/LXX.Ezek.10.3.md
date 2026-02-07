@@ -1,10 +1,7 @@
 **LXX Ezekiel 10:3** 
 <small><sub>**LXX:**</sub></small>
 And the cherubim stood at \[the\] right of the house, in the entering of the man. And the cloud filled the inner courtyard. 
-<small><sub>**KJV:**</sub></small>
-Now the cherubims stood on the right side of the house, when the man went in; and the cloud filled the inner court.
-<small><sub>**BSB:**</sub></small>
-Now when the man went in, the cherubim were standing on the south side of the temple, and a cloud filled the inner court.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.2|<< Ezekiel 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.4|Ezekiel 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

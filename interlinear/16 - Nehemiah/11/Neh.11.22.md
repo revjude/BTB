@@ -1,4 +1,4 @@
-**Nehemiah 11:22** 
+**Nehemiah 11:22**<big><big>[[Neh.11.20 Residents Outside Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The overseer also of the Levites at Jerusalem [was] Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha. Of the sons of Asaph, the singers [were] over the business of the house of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now the overseer of the Levites in Jerusalem was Uzzi son of Bani, the son of Ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.21|<< Nehemiah 11:21]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.23|Nehemiah 11:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] overseer of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6496\|פְקִ֤יד]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.Kid<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Levites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּם֙]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

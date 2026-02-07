@@ -1,12 +1,12 @@
-**Romans 8:10
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:10**<big><big>[[Rom.8.1 Walking by the Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if Christ [be] in you, the body [is] dead because of sin; but the Spirit [is] life because of righteousness.
 <small><sub>**BSB:**</sub></small>
 But if Christ is in you, your body is dead because of sin, yet your spirit is alive because of righteousness.
 <small><sub>**Literal:**</sub></small>
 If now Christ [is] in you, the indeed body [is] dead on account of sin the however Spirit [is] life on account of righteousness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.9|<< Romans 8:9]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.11|Romans 8:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

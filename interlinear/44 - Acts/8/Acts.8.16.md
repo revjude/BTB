@@ -1,12 +1,12 @@
-**Acts 8:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:16**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.)
 <small><sub>**BSB:**</sub></small>
 For the Holy Spirit had not yet fallen upon any of them; they had simply been baptized into the name of the Lord Jesus.
 <small><sub>**Literal:**</sub></small>
 Not yet for He was upon none of them having fallen, only however baptized they were being into the name of the Lord Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.15|<< Acts 8:15]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.17|Acts 8:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not yet [^1] |**<big>[[G3764\|οὐδέπω]]</big>**  |oudepō <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

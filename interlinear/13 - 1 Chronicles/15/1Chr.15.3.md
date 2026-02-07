@@ -1,4 +1,4 @@
-**1 Chronicles 15:3** 
+**1 Chronicles 15:3**<big><big>[[1Chr.15.1 Preparing to Move the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David gathered all Israel together to Jerusalem, to bring up the ark of the LORD unto his place, which he had prepared for it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And David assembled all Israel in Jerusalem to bring up the ark of the LORD to t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.2|<< 1 Chronicles 15:2]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.4|1 Chronicles 15:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he assembled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6950\|יַּקְהֵ֥ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yak.Hel<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֛יד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

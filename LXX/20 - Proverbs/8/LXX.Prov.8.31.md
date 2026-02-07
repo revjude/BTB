@@ -1,10 +1,7 @@
 **LXX Proverbs 8:31** 
 <small><sub>**LXX:**</sub></small>
 \[even\] when he was pleased with the completing \[the\] inhabitable world, and was pleased among \[the\] sons of men. 
-<small><sub>**KJV:**</sub></small>
-Rejoicing in the habitable part of his earth; and my delights [were] with the sons of men.
-<small><sub>**BSB:**</sub></small>
-I was rejoicing in His whole world, delighting together in the sons of men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.8.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.30|<< Proverbs 8:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.32|Proverbs 8:32 >>]]</td></tr></table>
 
 | Translation | Greek |

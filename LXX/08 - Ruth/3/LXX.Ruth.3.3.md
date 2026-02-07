@@ -1,10 +1,7 @@
 **LXX Ruth 3:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall bathe, and anoint, and put  your clothes upon yourself, and ascend unto the threshing-floor! You should not make \[yourself\] known to the man, until  he finishes  eating and drinking. 
-<small><sub>**KJV:**</sub></small>
-Wash thyself therefore, and anoint thee, and put thy raiment upon thee, and get thee down to the floor: [but] make not thyself known unto the man, until he shall have done eating and drinking.
-<small><sub>**BSB:**</sub></small>
-Therefore wash yourself, put on perfume, and wear your best clothes. Go down to the threshing floor, but do not let the man know you are there until he has finished eating and drinking.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.2|<< Ruth 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.4|Ruth 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

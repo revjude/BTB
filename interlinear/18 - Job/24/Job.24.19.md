@@ -1,4 +1,4 @@
-**Job 24:19** 
+**Job 24:19**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Drought and heat consume the snow waters: [so doth] the grave [those which] have sinned.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As drought and heat consume the melting snow, so Sheol steals those who have sin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.18|<< Job 24:18]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.20|Job 24:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | drought  |**<big>&#8207;[[H6723\|צִיָּ֤ה]]&#8207; </big>**| tzi.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

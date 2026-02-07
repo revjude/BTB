@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, take unto yourself a brick! and you shall put it before your face,; and you shall diagram upon it \[the\] city  of Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, [even] Jerusalem:
-<small><sub>**BSB:**</sub></small>
-“Now you, son of man, take a brick, place it before you, and draw on it the city of Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.27|<< Ezekiel 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.4.2|Ezekiel 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

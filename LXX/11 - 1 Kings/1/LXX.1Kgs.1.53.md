@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:53** 
 <small><sub>**LXX:**</sub></small>
 And king Solomon sent, and brought him from on top of the altar. And he entered and did obeisance to  king Solomon. And Solomon said to him, Go unto  your house! 
-<small><sub>**KJV:**</sub></small>
-So king Solomon sent, and they brought him down from the altar. And he came and bowed himself to king Solomon: and Solomon said unto him, Go to thine house.
-<small><sub>**BSB:**</sub></small>
-So King Solomon summoned Adonijah down from the altar, and he came and bowed down before King Solomon, who said to him, “Go to your home.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.52|<< 1 Kings 1:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.1|1 Kings 2:1 >>]]</td></tr></table>
 
 | Translation | Greek |

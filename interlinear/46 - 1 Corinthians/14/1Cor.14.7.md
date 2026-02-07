@@ -1,12 +1,12 @@
-**1 Corinthians 14:7
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:7**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped?
 <small><sub>**BSB:**</sub></small>
 Even in the case of lifeless instruments, such as the flute or harp, how will anyone recognize the tune they are playing unless the notes are distinct?
 <small><sub>**Literal:**</sub></small>
 Even <the> lifeless things a sound giving, whether flute or harp, if distinction to the sounds not they shall give, how will it be known what is being piped or what is being harped?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.6|<< 1 Corinthians 14:6]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.8|1 Corinthians 14:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even |**<big>[[G3676\|ὅμως]]</big>**  |homōs <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

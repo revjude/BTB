@@ -1,10 +1,7 @@
 **LXX Proverbs 22:13** 
 <small><sub>**LXX:**</sub></small>
 \[The\] lazy one makes an excuse and says, \[There is\] a lion in the streets, and in the squares \[are\] murderers. 
-<small><sub>**KJV:**</sub></small>
-The slothful [man] saith, [There is] a lion without, I shall be slain in the streets.
-<small><sub>**BSB:**</sub></small>
-The slacker says, “There is a lion outside! I will be slain in the streets!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.12|<< Proverbs 22:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.14|Proverbs 22:14 >>]]</td></tr></table>
 
 | Translation | Greek |

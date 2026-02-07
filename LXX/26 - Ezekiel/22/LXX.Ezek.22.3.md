@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall say, Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; O city shedding blood in \[the\] midst of herself,  \[so that\] her time should come, and prepares thoughts against herself,  to defile herself. 
-<small><sub>**KJV:**</sub></small>
-Then say thou, Thus saith the Lord GOD, The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself.
-<small><sub>**BSB:**</sub></small>
-and tell her that this is what the Lord GOD says: ‘O city who brings her own doom by shedding blood within her walls and making idols to defile herself,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.2|<< Ezekiel 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.4|Ezekiel 22:4 >>]]</td></tr></table>
 
 | Translation | Greek |

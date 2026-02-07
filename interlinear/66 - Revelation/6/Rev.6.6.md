@@ -1,12 +1,12 @@
-**Revelation 6:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:6**<big><big>[[Rev.6.5 The Third Seal：Famine|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and [see] thou hurt not the oil and the wine.
 <small><sub>**BSB:**</sub></small>
 And I heard what sounded like a voice from among the four living creatures, saying, “A quart of wheat for a denarius, and three quarts of barley for a denarius, and do not harm the oil and wine.”
 <small><sub>**Literal:**</sub></small>
 And I heard [something] like a voice in [the] midst of the four living creatures saying; A choenix of wheat for a denarius and three choenixes of barley for a denarius, and the oil and the wine not you may injure.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.5|<< Revelation 6:5]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.7|Revelation 6:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I heard |**<big>[[G0191\|ἤκουσα]]</big>**  |ēkousa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 28:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:16**<big><big>[[Matt.28.16 The Great Commission|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the eleven disciples went away into Galilee, into a mountain where Jesus had appointed them.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, the eleven disciples went to Galilee, to the mountain Jesus had designated.
 <small><sub>**Literal:**</sub></small>
 <the> And the eleven disciples went into <the> Galilee to the mountain where assigned to them <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.15|<< Matthew 28:15]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.17|Matthew 28:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

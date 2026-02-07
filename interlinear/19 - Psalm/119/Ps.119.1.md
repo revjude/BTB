@@ -1,6 +1,6 @@
-**Psalms 119:1** 
+**Psalms 119:1**<big><big>[[Ps.119.1 Your Word Is a Lamp to My Feet - ALEPH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-ALEPH. Blessed [are] the undefiled in the way, who walk in the law of the LORD.
+Blessed [are] the undefiled in the way, who walk in the law of the LORD.
 <small><sub>**BSB:**</sub></small>
 Blessed are those whose way is blameless, who walk in the Law of the LORD.
 <small><sub>**LXX:**</sub></small>
@@ -10,7 +10,7 @@ Blessed are those whose way is blameless, who walk in the Law of the LORD.
 > $\quad$ referenced by: [[Phil.4.5|Phil 4:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed!  |**<big>&#8207;[[H0835\|אַשְׁרֵ֥י]]&#8207; </big>**| 'ash.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are people] blameless of  |**<big>&#8207;[[H8549H\|תְמִֽימֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.mi.mei-<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

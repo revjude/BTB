@@ -1,4 +1,4 @@
-**2 Kings 19:20** 
+**2 Kings 19:20**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the LORD God of Israel, [That] which thou hast prayed to me against Sennacherib king of Assyria I have heard.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Isaiah son of Amoz sent a message to Hezekiah: “This is what the LORD, th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.19|<< 2 Kings 19:19]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.21|2 Kings 19:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַח֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Isaiah  |**<big>&#8207;[[H3470A\|יְשַֽׁעְיָ֣הוּ]]&#8207; </big>**| ye.sha'.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

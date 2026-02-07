@@ -1,4 +1,4 @@
-**Deuteronomy 33:12** 
+**Deuteronomy 33:12**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] of Benjamin he said, The beloved of the LORD shall dwell in safety by him; [and the LORD] shall cover him all the day long, and he shall dwell between his shoulders.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Concerning Benjamin he said: “May the beloved of the LORD rest secure in Him; 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.11|<< Deuteronomy 33:11]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.13|Deuteronomy 33:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of Benjamin  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1144G\|בִנְיָמִ֣ן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he said  |**<big>&#8207;[[H0559\|אָמַ֔ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

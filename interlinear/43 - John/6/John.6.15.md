@@ -1,12 +1,12 @@
-**John 6:15
-**<small><sub>**KJV:**</sub></small>
+**John 6:15**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus therefore perceived that they would come and take him by force, to make him a king, he departed again into a mountain himself alone.
 <small><sub>**BSB:**</sub></small>
 Then Jesus, realizing that they were about to come and make Him king by force, withdrew again to a mountain by Himself.
 <small><sub>**Literal:**</sub></small>
 Jesus therefore having known that they are about to come and to seize Him that they may make Him king withdrew again to the mountain Himself alone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.14|<< John 6:14]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.16|John 6:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Jesus |**<big>[[G2424G\|Ἰησοῦς]]</big>**  |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

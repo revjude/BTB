@@ -1,10 +1,7 @@
 **LXX Genesis 26:21** 
 <small><sub>**LXX:**</sub></small>
 And departing from there he dug another well. And they quarreled also on account of that \[well\]. And he named the name of it, Hatred. 
-<small><sub>**KJV:**</sub></small>
-And they digged another well, and strove for that also: and he called the name of it Sitnah.
-<small><sub>**BSB:**</sub></small>
-Then they dug another well and quarreled over that one also; so he named it Sitnah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.20|<< Genesis 26:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.22|Genesis 26:22 >>]]</td></tr></table>
 
 | Translation | Greek |

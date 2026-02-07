@@ -1,4 +1,4 @@
-**Jeremiah 22:4** 
+**Jeremiah 22:4**<big><big>[[Jer.22.1 A Warning to Judah’s Kings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For if ye do this thing indeed, then shall there enter in by the gates of this house kings sitting upon the throne of David, riding in chariots and on horses, he, and his servants, and his people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For if you will indeed carry out these commands, then kings who sit on David’s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.3|<< Jeremiah 22:3]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.5|Jeremiah 22:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588B\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | except  |**<big>&#8207;[[H0518B\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

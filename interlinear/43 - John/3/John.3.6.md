@@ -1,12 +1,12 @@
-**John 3:6
-**<small><sub>**KJV:**</sub></small>
+**John 3:6**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.
 <small><sub>**BSB:**</sub></small>
 Flesh is born of flesh, but spirit is born of the Spirit.
 <small><sub>**Literal:**</sub></small>
 That born of the flesh flesh is, and that born of the Spirit spirit is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.5|<< John 3:5]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.7|John 3:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | That |**<big>[[G3588\|Τὸ]]</big>**  |To <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | born |**<big>[[G1080\|γεγεννημένον]]</big>**  |gegennēmenon <small><sup>[[V-RPP-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

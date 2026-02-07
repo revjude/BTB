@@ -1,10 +1,7 @@
 **LXX Psalm 22:9** 
 <small><sub>**LXX:**</sub></small>
 For you are the one pulling me from \[the\] womb;  my hope from \[the\] breasts  of my mother. 
-<small><sub>**KJV:**</sub></small>
-But thou [art] he that took me out of the womb: thou didst make me hope [when I was] upon my mother’s breasts.
-<small><sub>**BSB:**</sub></small>
-Yet You brought me forth from the womb; You made me secure at my mother’s breast.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.22.8|<< Psalm 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.22.10|Psalm 22:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 22:9** is...

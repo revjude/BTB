@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall enter, and shall read with  this papyrus paper \[scroll\] into the ears of the people in \[the\] house of \[the\] <span class="smallcaps">lord</span> in \[the\] day of \[the\] fast. And in the ears of all Judah, of the ones coming from out of their cities, you shall read to them. 
-<small><sub>**KJV:**</sub></small>
-Therefore go thou, and read in the roll, which thou hast written from my mouth, the words of the LORD in the ears of the people in the LORD’S house upon the fasting day: and also thou shalt read them in the ears of all Judah that come out of their cities.
-<small><sub>**BSB:**</sub></small>
-so you are to go to the house of the LORD on a day of fasting, and in the hearing of the people you are to read the words of the LORD from the scroll you have written at my dictation. Read them in the hearing of all the people of Judah who are coming from their cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.5|<< Jeremiah 36:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.7|Jeremiah 36:7 >>]]</td></tr></table>
 
 | Translation | Greek |

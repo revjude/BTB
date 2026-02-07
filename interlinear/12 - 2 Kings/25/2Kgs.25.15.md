@@ -1,4 +1,4 @@
-**2 Kings 25:15** 
+**2 Kings 25:15**<big><big>[[2Kgs.25.8 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the firepans, and the bowls, [and] such things as [were] of gold, [in] gold, and of silver, [in] silver, the captain of the guard took away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The captain of the guard also took away the censers and sprinkling bowls—anyth
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.14|<< 2 Kings 25:14]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.16|2 Kings 25:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the fire-pans  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4289\|מַּחְתּוֹת֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mach.tOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

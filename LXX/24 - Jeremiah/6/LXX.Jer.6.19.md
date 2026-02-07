@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:19** 
 <small><sub>**LXX:**</sub></small>
 Hearken, O earth! Behold, I will bring upon  this people bad \[things\] -- the fruit of their rejection. For  my word they heeded not, and  my law they have thrust away. 
-<small><sub>**KJV:**</sub></small>
-Hear, O earth: behold, I will bring evil upon this people, [even] the fruit of their thoughts, because they have not hearkened unto my words, nor to my law, but rejected it.
-<small><sub>**BSB:**</sub></small>
-Hear, O earth! I am bringing disaster on this people, the fruit of their own schemes, because they have paid no attention to My word and have rejected My instruction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.18|<< Jeremiah 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.20|Jeremiah 6:20 >>]]</td></tr></table>
 
 | Translation | Greek |

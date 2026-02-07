@@ -1,12 +1,12 @@
-**Mark 14:67
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:67**<big><big>[[Mark.14.66 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when she saw Peter warming himself, she looked upon him, and said, And thou also wast with Jesus of Nazareth.
 <small><sub>**BSB:**</sub></small>
 and saw him warming himself there. She looked at Peter and said, “You also were with Jesus the Nazarene.”
 <small><sub>**Literal:**</sub></small>
 and having seen <the> Peter warming himself, having looked at him she says; Also you yourself with the Nazarene you were <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.66|<< Mark 14:66]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.68|Mark 14:68 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having seen |**<big>[[G1492H\|ἰδοῦσα]]</big>**  |idousa <small><sup>[[V-2AAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

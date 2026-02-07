@@ -1,5 +1,5 @@
-**Luke 17:32
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:32**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Remember Lot’s wife.
 <small><sub>**BSB:**</sub></small>
 Remember Lot’s wife!
@@ -10,7 +10,7 @@ do remember the wife of Lot!<br><table width="100%" border="0"><tr><td style="bo
 > $\quad$ alluding to: [[LXX.Gen.19.26|Gen 19:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do remember |**<big>[[G3421\|μνημονεύετε]]</big>**  |mnēmoneuete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῆς]]</big>**  |tēs <small><sup>[[T-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

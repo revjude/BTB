@@ -1,4 +1,4 @@
-**Leviticus 27:32** 
+**Leviticus 27:32**<big><big>[[Lev.27.30 Instruction on Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And concerning the tithe of the herd, or of the flock, [even] of whatsoever passeth under the rod, the tenth shall be holy unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Every tenth animal from the herd or flock that passes under the shepherd’s rod
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.31|<< Leviticus 27:31]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.33|Leviticus 27:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tithe of  |**<big>&#8207;[[H4643\|מַעְשַׂ֤ר]]&#8207; </big>**| ma'.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Malachi 3:15** 
+**Malachi 3:15**<big><big>[[Mal.3.13 The Book of Remembrance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now we call the proud happy; yea, they that work wickedness are set up; yea, [they that] tempt God are even delivered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now we call the arrogant blessed. Not only do evildoers prosper, they even te
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.14|<< Malachi 3:14]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.16|Malachi 3:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֕ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we  |**<big>&#8207;[[H0587\|אֲנַ֖חְנוּ]]&#8207; </big>**| 'a.Nach.nu<small><sup>[[HPp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

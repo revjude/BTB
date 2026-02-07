@@ -1,10 +1,7 @@
 **LXX Joshua 22:8** 
 <small><sub>**LXX:**</sub></small>
 With many things they went forth unto  their houses, and \[with\] exceedingly much cattle, and silver, and gold, and brass, and iron \[tools\], and clothes exceedingly much; \[and\] they divided the spoils  of their enemies with  their brethren. 
-<small><sub>**KJV:**</sub></small>
-And he spake unto them, saying, Return with much riches unto your tents, and with very much cattle, with silver, and with gold, and with brass, and with iron, and with very much raiment: divide the spoil of your enemies with your brethren.
-<small><sub>**BSB:**</sub></small>
-saying, “Return to your homes with your great wealth, with immense herds of livestock, with silver, gold, bronze, iron, and very many clothes. Divide with your brothers the spoil of your enemies.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.7|<< Joshua 22:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.9|Joshua 22:9 >>]]</td></tr></table>
 
 | Translation | Greek |

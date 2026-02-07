@@ -1,4 +1,4 @@
-**Joshua 8:27** 
+**Joshua 8:27**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only the cattle and the spoil of that city Israel took for a prey unto themselves, according unto the word of the LORD which he commanded Joshua.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Israel took for themselves only the cattle and plunder of that city, as the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.26|<< Joshua 8:26]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.28|Joshua 8:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַ֣ק]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the livestock  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0929\|בְּהֵמָ֗ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

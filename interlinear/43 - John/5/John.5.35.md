@@ -1,12 +1,12 @@
-**John 5:35
-**<small><sub>**KJV:**</sub></small>
+**John 5:35**<big><big>[[John.5.31 Testimonies about Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He was a burning and a shining light: and ye were willing for a season to rejoice in his light.
 <small><sub>**BSB:**</sub></small>
 John was a lamp that burned and gave light, and you were willing for a season to bask in his light.
 <small><sub>**Literal:**</sub></small>
 He was the lamp which is burning and shining, you yourselves now were willing to rejoice for a season in the light of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.34|<< John 5:34]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.36|John 5:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He |**<big>[[G1565\|ἐκεῖνος]]</big>**  |ekeinos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

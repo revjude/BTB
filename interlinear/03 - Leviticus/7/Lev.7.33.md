@@ -1,4 +1,4 @@
-**Leviticus 7:33** 
+**Leviticus 7:33**<big><big>[[Lev.7.28 The Priests’ Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He among the sons of Aaron, that offereth the blood of the peace offerings, and the fat, shall have the right shoulder for [his] part.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The son of Aaron who presents the blood and fat of the peace offering shall have
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.32|<< Leviticus 7:32]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.34|Leviticus 7:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [one who] presents  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7126H\|מַּקְרִ֞יב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mak.Riv<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

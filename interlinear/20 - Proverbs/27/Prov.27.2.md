@@ -1,4 +1,4 @@
-**Proverbs 27:2** 
+**Proverbs 27:2**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let another praise you, and not your own mouth—a stranger, and not your own li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.1|<< Proverbs 27:1]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.3|Proverbs 27:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may he praise you  |**<big>&#8207;[[H1984B\|יְהַלֶּלְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| ye.ha.lel.<small><sup>[[HVpi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a stranger  |**<big>&#8207;[[H2114A\|זָ֣ר]]&#8207; </big>**| zar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

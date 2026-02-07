@@ -1,10 +1,7 @@
 **LXX Psalm 76:5** 
 <small><sub>**LXX:**</sub></small>
 All the senseless in the heart were disturbed. All anything the men of wealth slept their sleep and did not find \[in\] their hands. 
-<small><sub>**KJV:**</sub></small>
-The stouthearted are spoiled, they have slept their sleep: and none of the men of might have found their hands.
-<small><sub>**BSB:**</sub></small>
-The valiant lie plundered; they sleep their last sleep. No men of might could lift a hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.76.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.4|<< Psalm 76:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.6|Psalm 76:6 >>]]</td></tr></table>
 
 | Translation | Greek |

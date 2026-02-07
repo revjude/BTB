@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  those days that the Philistines were gathered together in  their camps  to come forth for war against  Israel. And Achish said to  David, In knowing you shall know that with me you shall go forth unto the war, you and  your men. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men.
-<small><sub>**BSB:**</sub></small>
-Now in those days the Philistines gathered their forces for warfare against Israel. So Achish said to David, “You must understand that you and your men are to go out to battle with me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.12|<< 1 Samuel 27:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.2|1 Samuel 28:2 >>]]</td></tr></table>
 
 | Translation | Greek |

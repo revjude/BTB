@@ -1,4 +1,4 @@
-**Ruth 3:4** 
+**Ruth 3:4**<big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, when he lieth down, that thou shalt mark the place where he shall lie, and thou shalt go in, and uncover his feet, and lay thee down; and he will tell thee what thou shalt do.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When he lies down, note the place where he lies. Then go in and uncover his feet
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.3|<< Ruth 3:3]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.5|Ruth 3:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and let it be  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H1961\|יהִ֣י]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when lies down he  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7901G\|שָׁכְב֗]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> sha.khe.V<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

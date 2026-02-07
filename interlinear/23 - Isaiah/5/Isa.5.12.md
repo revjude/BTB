@@ -1,4 +1,4 @@
-**Isaiah 5:12** 
+**Isaiah 5:12**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the harp, and the viol, the tabret, and pipe, and wine, are in their feasts: but they regard not the work of the LORD, neither consider the operation of his hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At their feasts are the lyre and harp, tambourines and flutes and wine. They dis
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.11|<< Isaiah 5:11]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.13|Isaiah 5:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | harp  |**<big>&#8207;[[H3658\|כִנּ֜וֹר]]&#8207; </big>**| khi.Nor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

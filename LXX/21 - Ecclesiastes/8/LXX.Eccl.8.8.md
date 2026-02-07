@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 8:8** 
 <small><sub>**LXX:**</sub></small>
 There is no man exercising authority over spirit  to restrain with the spirit; and there is no exercising authority in \[the\] day of death; and there is no discharge in \[the\] day of battle; and impiety shall not preserve the \[thing\] for her. 
-<small><sub>**KJV:**</sub></small>
-[There is] no man that hath power over the spirit to retain the spirit; neither [hath he] power in the day of death: and [there is] no discharge in [that] war; neither shall wickedness deliver those that are given to it.
-<small><sub>**BSB:**</sub></small>
-As no man has power over the wind to contain it, so no one has authority over his day of death. As no one can be discharged in wartime, so wickedness will not release those who practice it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.7|<< Ecclesiastes 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.9|Ecclesiastes 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

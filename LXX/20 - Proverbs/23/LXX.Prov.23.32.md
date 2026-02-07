@@ -1,10 +1,7 @@
 **LXX Proverbs 23:32** 
 <small><sub>**LXX:**</sub></small>
  But at last \[it will be\] as if being struck by a serpent he stretches out, and as if by a horned serpent the poison diffuses throughout him. 
-<small><sub>**KJV:**</sub></small>
-At the last it biteth like a serpent, and stingeth like an adder.
-<small><sub>**BSB:**</sub></small>
-In the end it bites like a snake and stings like a viper.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.31|<< Proverbs 23:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.33|Proverbs 23:33 >>]]</td></tr></table>
 
 | Translation | Greek |

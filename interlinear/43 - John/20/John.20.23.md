@@ -1,12 +1,12 @@
-**John 20:23
-**<small><sub>**KJV:**</sub></small>
+**John 20:23**<big><big>[[John.20.19 Jesus Appears to the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whose soever sins ye remit, they are remitted unto them; [and] whose soever [sins] ye retain, they are retained.
 <small><sub>**BSB:**</sub></small>
 If you forgive anyone his sins, they are forgiven; if you withhold forgiveness from anyone, it is withheld.”
 <small><sub>**Literal:**</sub></small>
 If of any you may forgive the sins, they have been forgiven to them; If any you may retain, they have been retained.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.22|<< John 20:22]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.24|John 20:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G0302\|ἄν]]</big>**  |an <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of any |**<big>[[G5100\|τινων]]</big>**  |tinōn <small><sup>[[X-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

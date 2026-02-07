@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:13** 
 <small><sub>**LXX:**</sub></small>
 And the house  upon \[the\] face of Jerusalem, the one at \[the\] right of the mount  of Mosoath, which Solomon king of Israel built \[to\] Ashtoreth \[the\] loathsome thing of \[the\] Sidonians, and \[to\] Chemosh \[the\] loathsome thing of Moab, and \[to\] Molech \[the\] abomination of \[the\] sons of Ammon, the king defiled. 
-<small><sub>**KJV:**</sub></small>
-And the high places that [were] before Jerusalem, which [were] on the right hand of the mount of corruption, which Solomon the king of Israel had builded for Ashtoreth the abomination of the Zidonians, and for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon, did the king defile.
-<small><sub>**BSB:**</sub></small>
-The king also desecrated the high places east of Jerusalem, to the south of the Mount of Corruption, which King Solomon of Israel had built for Ashtoreth the abomination of the Sidonians, for Chemosh the abomination of the Moabites, and for Milcom the abomination of the Ammonites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.12|<< 2 Kings 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.14|2 Kings 23:14 >>]]</td></tr></table>
 
 | Translation | Greek |

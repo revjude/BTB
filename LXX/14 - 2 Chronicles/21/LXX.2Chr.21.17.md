@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 21:17** 
 <small><sub>**LXX:**</sub></small>
 And they ascended against Judah, and overpowered it, and captured all the possessions which they found in \[the\] house of the king, and the \[houses\] of his sons, and  his daughters. And there was not left to him a son except Jehoahaz the youngest  of his sons. 
-<small><sub>**KJV:**</sub></small>
-And they came up into Judah, and brake into it, and carried away all the substance that was found in the king’s house, and his sons also, and his wives; so that there was never a son left him, save Jehoahaz, the youngest of his sons.
-<small><sub>**BSB:**</sub></small>
-So they went to war against Judah, invaded it, and carried off all the possessions found in the king’s palace, along with his sons and wives; not a son was left to him except Jehoahaz, his youngest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.16|<< 2 Chronicles 21:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.18|2 Chronicles 21:18 >>]]</td></tr></table>
 
 | Translation | Greek |

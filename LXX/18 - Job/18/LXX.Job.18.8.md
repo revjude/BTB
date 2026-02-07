@@ -1,10 +1,7 @@
 **LXX Job 18:8** 
 <small><sub>**LXX:**</sub></small>
 And be put his foot in a snare; may he be coiled in a net; 
-<small><sub>**KJV:**</sub></small>
-For he is cast into a net by his own feet, and he walketh upon a snare.
-<small><sub>**BSB:**</sub></small>
-For his own feet lead him into a net, and he wanders into its mesh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.7|<< Job 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.9|Job 18:9 >>]]</td></tr></table>
 
 | Translation | Greek |

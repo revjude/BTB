@@ -1,10 +1,7 @@
 **LXX Exodus 33:5** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to the sons of Israel, You \[are\] a people hard-necked; see that I do not bring another calamity upon you! and should completely consume you. Now then remove  your glorious apparels, and the ornament! and I will show to you what I will do to you. 
-<small><sub>**KJV:**</sub></small>
-For the LORD had said unto Moses, Say unto the children of Israel, Ye [are] a stiffnecked people: I will come up into the midst of thee in a moment, and consume thee: therefore now put off thy ornaments from thee, that I may know what to do unto thee.
-<small><sub>**BSB:**</sub></small>
-For the LORD had said to Moses, “Tell the Israelites, ‘You are a stiff-necked people. If I should go with you for a single moment, I would destroy you. Now take off your jewelry, and I will decide what to do with you.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.33.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.33.4|<< Exodus 33:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.33.6|Exodus 33:6 >>]]</td></tr></table>
 
 | Translation | Greek |

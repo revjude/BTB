@@ -1,10 +1,7 @@
 **LXX Job 6:26** 
 <small><sub>**LXX:**</sub></small>
 Nor  will your reproof cause me to cease my words; for neither your utterance of a word will I endure. 
-<small><sub>**KJV:**</sub></small>
-Do ye imagine to reprove words, and the speeches of one that is desperate, [which are] as wind?
-<small><sub>**BSB:**</sub></small>
-Do you intend to correct my words, and treat as wind my cry of despair?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.6.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.25|<< Job 6:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.27|Job 6:27 >>]]</td></tr></table>
 
 | Translation | Greek |

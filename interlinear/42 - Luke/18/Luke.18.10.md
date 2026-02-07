@@ -1,12 +1,12 @@
-**Luke 18:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:10**<big><big>[[Luke.18.9 The Pharisee and the Tax Collector|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Two men went up into the temple to pray; the one a Pharisee, and the other a publican.
 <small><sub>**BSB:**</sub></small>
 “Two men went up to the temple to pray. One was a Pharisee and the other a tax collector.
 <small><sub>**Literal:**</sub></small>
 Men two went up into the temple to pray, the one a Pharisee and the other a tax collector.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.9|<< Luke 18:9]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.11|Luke 18:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Men |**<big>[[G0444\|Ἄνθρωποι]]</big>**  |Anthrōpoi <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | two |**<big>[[G1417\|δύο]]</big>**  |duo <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

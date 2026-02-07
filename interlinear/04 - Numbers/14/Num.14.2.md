@@ -1,4 +1,4 @@
-**Numbers 14:2** 
+**Numbers 14:2**<big><big>[[Num.14.1 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the children of Israel murmured against Moses and against Aaron: and the whole congregation said unto them, Would God that we had died in the land of Egypt! or would God we had died in this wilderness!
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ All the Israelites grumbled against Moses and Aaron, and the whole congregation 
 > $\quad$ referenced by: [[1Cor.10.10|1Cor 10:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they grumbled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3885B\|יִּלֹּ֙נוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Lo.nu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

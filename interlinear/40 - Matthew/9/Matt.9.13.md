@@ -1,5 +1,5 @@
-**Matthew 9:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:13**<big><big>[[Matt.9.9 Jesus Calls Matthew|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But go ye and learn what [that] meaneth, I will have mercy, and not sacrifice: for I am not come to call the righteous, but sinners to repentance.
 <small><sub>**BSB:**</sub></small>
 But go and learn what this means: ‘I desire mercy, not sacrifice.’ For I have not come to call the righteous, but sinners.”
@@ -10,7 +10,7 @@ Having gone however do learn what is; Mercy I desire and not [desire] sacrifice;
 > $\quad$ referencing: [[LXX.Hos.6.6|Hos 6:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having gone |**<big>[[G4198\|πορευθέντες]]</big>**  |poreuthentes <small><sup>[[V-AOP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

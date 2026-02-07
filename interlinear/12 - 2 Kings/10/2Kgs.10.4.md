@@ -1,4 +1,4 @@
-**2 Kings 10:4** 
+**2 Kings 10:4**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they were exceedingly afraid, and said, Behold, two kings stood not before him: how then shall we stand?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But they were terrified and reasoned, “If two kings could not stand against hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.3|<< 2 Kings 10:3]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.5|2 Kings 10:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were afraid  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3372G\|יִּֽרְאוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | very  |**<big>&#8207;[[H3966\|מְאֹ֣ד]]&#8207; </big>**| me.'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Revelation 9:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:1**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the fifth angel sounded, and I saw a star fall from heaven unto the earth: and to him was given the key of the bottomless pit.
 <small><sub>**BSB:**</sub></small>
 Then the fifth angel sounded his trumpet, and I saw a star that had fallen from heaven to earth, and it was given the key to the pit of the Abyss.
 <small><sub>**Literal:**</sub></small>
 And the fifth angel sounded [his] trumpet, and I saw a star out of <the> heaven having fallen to the earth, and was given to it the key of the pit of the abyss,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.13|<< Revelation 8:13]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.2|Revelation 9:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

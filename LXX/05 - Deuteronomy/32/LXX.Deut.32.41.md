@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:41** 
 <small><sub>**LXX:**</sub></small>
 For I will sharpen my sword as lightning, and my hand will hold to equity. And I will recompense punishment against the enemies; and against the ones detesting me I will recompense. 
-<small><sub>**KJV:**</sub></small>
-If I whet my glittering sword, and mine hand take hold on judgment; I will render vengeance to mine enemies, and will reward them that hate me.
-<small><sub>**BSB:**</sub></small>
-when I sharpen My flashing sword, and My hand grasps it in judgment, I will take vengeance on My adversaries and repay those who hate Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.40|<< Deuteronomy 32:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.42|Deuteronomy 32:42 >>]]</td></tr></table>
 
 | Translation | Greek |

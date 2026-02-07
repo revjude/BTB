@@ -1,10 +1,7 @@
 **LXX Ezekiel 13:20** 
 <small><sub>**LXX:**</sub></small>
 On account of this, Thus says Adonai \[the\] <span class="smallcaps">lord</span>; Behold, I \[am\] against  your pillows upon which you confederate souls there; and I will tear them from  your arms, and I will send out the souls, the ones whom you distorted  their souls for dispersing. 
-<small><sub>**KJV:**</sub></small>
-Wherefore thus saith the Lord GOD; Behold, I [am] against your pillows, wherewith ye there hunt the souls to make [them] fly, and I will tear them from your arms, and will let the souls go, [even] the souls that ye hunt to make [them] fly.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: See, I am against the magic charms with which you ensnare souls like birds, and I will tear them from your arms. So I will free the souls you have ensnared like birds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.19|<< Ezekiel 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.21|Ezekiel 13:21 >>]]</td></tr></table>
 
 | Translation | Greek |

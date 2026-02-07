@@ -1,12 +1,12 @@
-**Mark 10:37
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:37**<big><big>[[Mark.10.35 The Request of James and John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They said unto him, Grant unto us that we may sit, one on thy right hand, and the other on thy left hand, in thy glory.
 <small><sub>**BSB:**</sub></small>
 They answered, “Grant that one of us may sit at Your right hand and the other at Your left in Your glory.”
 <small><sub>**Literal:**</sub></small>
 <the> And they said to Him; do grant to us that one of [us] at right [hand] and one at left [hand] of you let us sit in the glory of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.36|<< Mark 10:36]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.38|Mark 10:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

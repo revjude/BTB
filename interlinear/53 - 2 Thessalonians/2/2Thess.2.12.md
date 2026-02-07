@@ -1,12 +1,12 @@
-**2 Thessalonians 2:12
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 2:12**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
 <small><sub>**BSB:**</sub></small>
 in order that judgment may come upon all who have disbelieved the truth and delighted in wickedness.
 <small><sub>**Literal:**</sub></small>
 in order that may be judged all those not having believed the truth but having delighted in <the> in unrighteousness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.11|<< 2 Thessalonians 2:11]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.13|2 Thessalonians 2:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in order that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | may be judged |**<big>[[G2919\|κριθῶσιν]]</big>**  |krithōsin <small><sup>[[V-APS-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Proverbs 28:25** 
 <small><sub>**LXX:**</sub></small>
 An insatiable man judges in vain; but \[the\] one yielding upon \[the\] <span class="smallcaps">lord</span> will be in care. 
-<small><sub>**KJV:**</sub></small>
-He that is of a proud heart stirreth up strife: but he that putteth his trust in the LORD shall be made fat.
-<small><sub>**BSB:**</sub></small>
-A greedy man stirs up strife, but he who trusts in the LORD will prosper.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.28.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.24|<< Proverbs 28:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.26|Proverbs 28:26 >>]]</td></tr></table>
 
 | Translation | Greek |

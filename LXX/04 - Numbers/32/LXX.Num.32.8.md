@@ -1,10 +1,7 @@
 **LXX Numbers 32:8** 
 <small><sub>**LXX:**</sub></small>
 Did not your fathers do thus when I sent them from out of Kadesh Barnea to study the land? 
-<small><sub>**KJV:**</sub></small>
-Thus did your fathers, when I sent them from Kadeshbarnea to see the land.
-<small><sub>**BSB:**</sub></small>
-This is what your fathers did when I sent them from Kadesh-barnea to inspect the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.7|<< Numbers 32:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.9|Numbers 32:9 >>]]</td></tr></table>
 
 | Translation | Greek |

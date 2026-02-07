@@ -1,4 +1,4 @@
-**Daniel 8:7** 
+**Daniel 8:7**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I saw him come close unto the ram, and he was moved with choler against him, and smote the ram, and brake his two horns: and there was no power in the ram to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the ram out of his hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I saw him approach the ram in a rage against him, and he struck the ram and shat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.6|<< Daniel 8:6]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.8|Daniel 8:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw it  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H7200G\|רְאִיתִ֞י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> re.'i.Ti<small><sup>[[HVqq1cs]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | approaching  |**<big>&#8207;[[H5060\|מַגִּ֣יעַ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ma.Gi.a'<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

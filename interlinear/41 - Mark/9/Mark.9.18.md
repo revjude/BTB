@@ -1,12 +1,12 @@
-**Mark 9:18
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:18**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And wheresoever he taketh him, he teareth him: and he foameth, and gnasheth with his teeth, and pineth away: and I spake to thy disciples that they should cast him out; and they could not.
 <small><sub>**BSB:**</sub></small>
 Whenever it seizes him, it throws him to the ground. He foams at the mouth, gnashes his teeth, and becomes rigid. I asked Your disciples to drive it out, but they were unable.”
 <small><sub>**Literal:**</sub></small>
 and whenever if him it may grasp, it throws down him; and he foams and he gnashes <the> his teeth of him and is withering away. And I spoke to the disciples of You that it they may cast out, and not they had power.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.17|<< Mark 9:17]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.19|Mark 9:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whenever |**<big>[[G3699\|ὅπου]]</big>**  |hopou <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

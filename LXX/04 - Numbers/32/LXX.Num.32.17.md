@@ -1,10 +1,7 @@
 **LXX Numbers 32:17** 
 <small><sub>**LXX:**</sub></small>
 And we, arming ourselves, \[will be\] an advance guard in front of the sons of Israel, until when we should lead them into  their own place. And our belongings shall dwell in cities being walled, because of the ones dwelling in the land. 
-<small><sub>**KJV:**</sub></small>
-But we ourselves will go ready armed before the children of Israel, until we have brought them unto their place: and our little ones shall dwell in the fenced cities because of the inhabitants of the land.
-<small><sub>**BSB:**</sub></small>
-But we will arm ourselves and be ready to go ahead of the Israelites until we have brought them into their place. Meanwhile, our little ones will remain in the fortified cities for protection from the inhabitants of the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.16|<< Numbers 32:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.18|Numbers 32:18 >>]]</td></tr></table>
 
 | Translation | Greek |

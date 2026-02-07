@@ -1,4 +1,4 @@
-**Proverbs 27:3** 
+**Proverbs 27:3**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A stone [is] heavy, and the sand weighty; but a fool’s wrath [is] heavier than them both.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A stone is heavy and sand is a burden, but aggravation from a fool outweighs the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.2|<< Proverbs 27:2]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.4|Proverbs 27:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] heaviness of  |**<big>&#8207;[[H3514\|כֹּֽבֶד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koed-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a stone  |**<big>&#8207;[[H0068G\|אֶ֭בֶן]]&#8207; </big>**| 'E.ven<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 3:45** 
 <small><sub>**LXX:**</sub></small>
 Take the Levites in place of all the first-born sons of Israel, and the cattle of the Levites in place  of their cattle! And the Levites will be mine. I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-“Take the Levites in place of all the firstborn of Israel, and the livestock of the Levites in place of their livestock. The Levites belong to Me; I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.44|<< Numbers 3:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.46|Numbers 3:46 >>]]</td></tr></table>
 
 | Translation | Greek |

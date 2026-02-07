@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in the fourteenth year of king Hezekiah Sennacherib king of \[the\] Assyrians ascended against the fortified cities of Judah, and he seized them. 
-<small><sub>**KJV:**</sub></small>
-Now in the fourteenth year of king Hezekiah did Sennacherib king of Assyria come up against all the fenced cities of Judah, and took them.
-<small><sub>**BSB:**</sub></small>
-In the fourteenth year of Hezekiah’s reign, Sennacherib king of Assyria attacked and captured all the fortified cities of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.12|<< 2 Kings 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.14|2 Kings 18:14 >>]]</td></tr></table>
 
 | Translation | Greek |

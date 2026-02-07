@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:13** 
 <small><sub>**LXX:**</sub></small>
 For from their small and unto great all have completed lawless deeds; from \[the\] priest and unto false prophet, all acted falsely. 
-<small><sub>**KJV:**</sub></small>
-For from the least of them even unto the greatest of them every one [is] given to covetousness; and from the prophet even unto the priest every one dealeth falsely.
-<small><sub>**BSB:**</sub></small>
-“For from the least of them to the greatest, all are greedy for gain; from prophet to priest, all practice deceit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.12|<< Jeremiah 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.14|Jeremiah 6:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 5:15** 
 <small><sub>**LXX:**</sub></small>
 And a people shall be abased, and a man shall be dishonored, and the elevated eyes shall be abased. 
-<small><sub>**KJV:**</sub></small>
-And the mean man shall be brought down, and the mighty man shall be humbled, and the eyes of the lofty shall be humbled:
-<small><sub>**BSB:**</sub></small>
-So mankind will be brought low, and each man humbled; the arrogant will lower their eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.14|<< Isaiah 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.16|Isaiah 5:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Samuel 6:22** 
+**2 Samuel 6:22**<big><big>[[2Sam.6.16 Michal’s Contempt for David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will yet be more vile than thus, and will be base in mine own sight: and of the maidservants which thou hast spoken of, of them shall I be had in honour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and I will humiliate and humble myself even more than this. Yet I will be honore
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.21|<< 2 Samuel 6:21]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.23|2 Samuel 6:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will demean myself  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H7043\|נְקַלֹּ֤תִי]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.ka.Lo.ti<small><sup>[[HVNq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | still  |**<big>&#8207;[[H5750\|עוֹד֙]]&#8207; </big>**| 'Od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

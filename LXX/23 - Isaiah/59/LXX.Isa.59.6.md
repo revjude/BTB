@@ -1,10 +1,7 @@
 **LXX Isaiah 59:6** 
 <small><sub>**LXX:**</sub></small>
  Their web shall not be \[made\] into a garment, nor shall they clothe themselves from  their works,  for their works \[are\] works of lawlessness. 
-<small><sub>**KJV:**</sub></small>
-Their webs shall not become garments, neither shall they cover themselves with their works: their works [are] works of iniquity, and the act of violence [is] in their hands.
-<small><sub>**BSB:**</sub></small>
-Their cobwebs cannot be made into clothing, and they cannot cover themselves with their works. Their deeds are sinful deeds, and acts of violence are in their hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.59.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.5|<< Isaiah 59:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.7|Isaiah 59:7 >>]]</td></tr></table>
 
 | Translation | Greek |

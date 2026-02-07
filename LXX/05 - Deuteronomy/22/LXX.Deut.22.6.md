@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:6** 
 <small><sub>**LXX:**</sub></small>
 And if you should meet with a nest of birds before your face in the way, or upon any tree, or upon the ground -- young \[chicks\] or eggs, and the mother should be incubating upon the young, or upon the eggs, you shall not take the mother with the offspring. 
-<small><sub>**KJV:**</sub></small>
-If a bird’s nest chance to be before thee in the way in any tree, or on the ground, [whether they be] young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:
-<small><sub>**BSB:**</sub></small>
-If you come across a bird’s nest with chicks or eggs, either in a tree or on the ground along the road, and the mother is sitting on the chicks or eggs, you must not take the mother along with the young.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.5|<< Deuteronomy 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.7|Deuteronomy 22:7 >>]]</td></tr></table>
 
 | Translation | Greek |

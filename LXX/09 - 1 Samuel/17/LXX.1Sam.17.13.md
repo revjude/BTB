@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:13** 
 <small><sub>**LXX:**</sub></small>
 And the three elder sons of Jesse went after Saul unto the war. And \[the\] name  of his sons, of the ones having gone unto the war -- Eliab  his first-born, and the second Abinadab, and the third Shammah. 
-<small><sub>**KJV:**</sub></small>
-And the three eldest sons of Jesse went [and] followed Saul to the battle: and the names of his three sons that went to the battle [were] Eliab the firstborn, and next unto him Abinadab, and the third Shammah.
-<small><sub>**BSB:**</sub></small>
-The three older sons of Jesse had followed Saul into battle: The firstborn was Eliab, the second was Abinadab, and the third was Shammah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.12|<< 1 Samuel 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.14|1 Samuel 17:14 >>]]</td></tr></table>
 
 | Translation | Greek |

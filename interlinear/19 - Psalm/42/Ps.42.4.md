@@ -1,4 +1,4 @@
-**Psalms 42:4** (42:5)
+**Psalms 42:4**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I remember these [things], I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These things come to mind as I pour out my soul: how I walked with the multitude
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.3|<< Psalms 42:3]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.5|Psalms 42:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these [things]  |**<big>&#8207;[[H0428\|אֵ֤לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will remember  |**<big>&#8207;[[H2142\|אֶזְכְּרָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'ez.ke.Rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

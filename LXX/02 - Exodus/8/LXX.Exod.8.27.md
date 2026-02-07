@@ -1,10 +1,7 @@
 **LXX Exodus 8:27** 
 <small><sub>**LXX:**</sub></small>
 A journey of three days we shall go into the wilderness, and we shall sacrifice to \[the\] <span class="smallcaps">lord</span>  our God, just as he told us. 
-<small><sub>**KJV:**</sub></small>
-We will go three days’ journey into the wilderness, and sacrifice to the LORD our God, as he shall command us.
-<small><sub>**BSB:**</sub></small>
-We must make a three-day journey into the wilderness and sacrifice to the LORD our God as He commands us.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.26|<< Exodus 8:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.28|Exodus 8:28 >>]]</td></tr></table>
 
 | Translation | Greek |

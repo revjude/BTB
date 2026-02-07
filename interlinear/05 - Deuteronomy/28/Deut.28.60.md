@@ -1,4 +1,4 @@
-**Deuteronomy 28:60** 
+**Deuteronomy 28:60**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he will bring upon thee all the diseases of Egypt, which thou wast afraid of; and they shall cleave unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will afflict you again with all the diseases you dreaded in Egypt, and they w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.60|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.59|<< Deuteronomy 28:59]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.61|Deuteronomy 28:61 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will bring back  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725G\|הֵשִׁ֣יב]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Shiv<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on \<the> you  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H9031\|ךָ֗]]&#8207; </big>**| be.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

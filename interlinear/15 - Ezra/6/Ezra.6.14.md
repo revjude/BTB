@@ -1,4 +1,4 @@
-**Ezra 6:14** 
+**Ezra 6:14**<big><big>[[Ezra.6.13 The Temple Completed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the elders of the Jews builded, and they prospered through the prophesying of Haggai the prophet and Zechariah the son of Iddo. And they builded, and finished [it], according to the commandment of the God of Israel, and according to the commandment of Cyrus, and Darius, and Artaxerxes king of Persia.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the Jewish elders built and prospered through the prophesying of Haggai the p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.13|<< Ezra 6:13]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.15|Ezra 6:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] elders of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7868\|שָׂבֵ֤י]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> sa.Vei<small><sup>[[ANcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jews the  |**<big>&#8207;[[H3062\|יְהוּדָיֵ]]&#8207;&#8207;[[H9010\|א֙]]&#8207; </big>**| ye.hu.da.Ye<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

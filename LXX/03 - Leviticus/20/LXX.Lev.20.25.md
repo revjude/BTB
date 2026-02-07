@@ -1,10 +1,7 @@
 **LXX Leviticus 20:25** 
 <small><sub>**LXX:**</sub></small>
 And you shall separate yourselves between the cattle of the clean and unclean; and between the winged creatures of the clean, and the unclean. And you shall not make abhorrent  your souls among the cattle, and among the winged creatures, and among all the reptiles of the earth, which I separated to you for uncleanness. 
-<small><sub>**KJV:**</sub></small>
-Ye shall therefore put difference between clean beasts and unclean, and between unclean fowls and clean: and ye shall not make your souls abominable by beast, or by fowl, or by any manner of living thing that creepeth on the ground, which I have separated from you as unclean.
-<small><sub>**BSB:**</sub></small>
-You are therefore to distinguish between clean and unclean animals and birds. Do not become contaminated by any animal or bird, or by anything that crawls on the ground; I have set these apart as unclean for you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.20.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.24|<< Leviticus 20:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.26|Leviticus 20:26 >>]]</td></tr></table>
 
 | Translation | Greek |

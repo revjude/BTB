@@ -1,12 +1,12 @@
-**Matthew 25:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:17**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And likewise he that [had received] two, he also gained other two.
 <small><sub>**BSB:**</sub></small>
 Likewise, the one with the two talents gained two more.
 <small><sub>**Literal:**</sub></small>
 Likewise and the [one with] the two gained and he [gained] more two.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.16|<< Matthew 25:16]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.18|Matthew 25:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Likewise |**<big>[[G5615\|ὡσαύτως]]</big>**  |hōsautōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="Tyn+Treg+TR+Byz">ko</abbr> | |

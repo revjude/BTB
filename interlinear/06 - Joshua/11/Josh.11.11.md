@@ -1,4 +1,4 @@
-**Joshua 11:11** 
+**Joshua 11:11**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they smote all the souls that [were] therein with the edge of the sword, utterly destroying [them]: there was not any left to breathe: and he burnt Hazor with fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Israelites put everyone in Hazor to the sword, devoting them to destruction.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.10|<< Joshua 11:10]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.12|Joshua 11:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they struck  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H5221\|יַּכּוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.ku<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 12:9** 
 <small><sub>**LXX:**</sub></small>
 Who knew not among all these, that \[the\] hand of \[the\] <span class="smallcaps">lord</span> made these? 
-<small><sub>**KJV:**</sub></small>
-Who knoweth not in all these that the hand of the LORD hath wrought this?
-<small><sub>**BSB:**</sub></small>
-Which of all these does not know that the hand of the LORD has done this?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.12.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.8|<< Job 12:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.10|Job 12:10 >>]]</td></tr></table>
 
 | Translation | Greek |

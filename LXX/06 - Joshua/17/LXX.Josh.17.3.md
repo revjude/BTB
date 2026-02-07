@@ -1,10 +1,7 @@
 **LXX Joshua 17:3** 
 <small><sub>**LXX:**</sub></small>
 And \[to\] Zelophehad, son of Hepher, son of Gilead, son of Machir, son of Manasseh, there were no sons to him, but daughters. And these \[are\] the names of the daughters of Zelophehad -- Mahlah, and Noah, and Hoglah, and Milcha, and Tirzah. 
-<small><sub>**KJV:**</sub></small>
-But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but daughters: and these [are] the names of his daughters, Mahlah, and Noah, Hoglah, Milcah, and Tirzah.
-<small><sub>**BSB:**</sub></small>
-But Zelophehad son of Hepher (the son of Gilead, the son of Machir, the son of Manasseh) had no sons but only daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.17.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.2|<< Joshua 17:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.4|Joshua 17:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Revelation 21:18
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:18**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the building of the wall of it was [of] jasper: and the city [was] pure gold, like unto clear glass.
 <small><sub>**BSB:**</sub></small>
 The wall was made of jasper, and the city itself of pure gold, as pure as glass.
 <small><sub>**Literal:**</sub></small>
 And was the structure of the wall of it [was] jasper, and the city gold pure like as glass clear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.17|<< Revelation 21:17]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.19|Revelation 21:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |

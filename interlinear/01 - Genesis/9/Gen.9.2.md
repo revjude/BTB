@@ -1,4 +1,4 @@
-**Genesis 9:2** 
+**Genesis 9:2**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth [upon] the earth, and upon all the fishes of the sea; into your hand are they delivered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fear and dread of you will fall on every living creature on the earth, every
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.1|<< Genesis 9:1]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.3|Genesis 9:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and fear your  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4172A\|מוֹרַאֲ]]&#8207;&#8207;[[H9026\|כֶ֤ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mo.ra.'a.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and dread your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2844A\|חִתְּ]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chi.te.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

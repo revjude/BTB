@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after these \[things\], and David asked by \[the\] <span class="smallcaps">lord</span>, saying, Shall I ascend unto one of the cities  of Judah? And \[the\] <span class="smallcaps">lord</span> said to him, Ascend! And David said, Where should I ascend? And he said, Unto Hebron. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after this, that David inquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.
-<small><sub>**BSB:**</sub></small>
-Some time later, David inquired of the LORD, “Should I go up to one of the towns of Judah?” “Go up,” the LORD answered. Then David asked, “Where should I go?” “To Hebron,” replied the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.27|<< 2 Samuel 1:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.2.2|2 Samuel 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

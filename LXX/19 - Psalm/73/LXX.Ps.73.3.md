@@ -1,10 +1,7 @@
 **LXX Psalm 73:3** 
 <small><sub>**LXX:**</sub></small>
 For I was jealous over the lawless \[things\], viewing \[the\] peace of sinners. 
-<small><sub>**KJV:**</sub></small>
-For I was envious at the foolish, [when] I saw the prosperity of the wicked.
-<small><sub>**BSB:**</sub></small>
-For I envied the arrogant when I saw the prosperity of the wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.73.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.2|<< Psalm 73:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.4|Psalm 73:4 >>]]</td></tr></table>
 
 | Translation | Greek |

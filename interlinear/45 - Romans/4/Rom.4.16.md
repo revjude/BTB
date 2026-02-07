@@ -1,12 +1,12 @@
-**Romans 4:16
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:16**<big><big>[[Rom.4.13 Abraham Receives the Promise|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore [it is] of faith, that [it might be] by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,
 <small><sub>**BSB:**</sub></small>
 Therefore, the promise comes by faith, so that it may rest on grace and may be guaranteed to all Abraham’s offspring—not only to those who are of the law, but also to those who are of the faith of Abraham. He is the father of us all.
 <small><sub>**Literal:**</sub></small>
 Therefore it [is] of faith, that [it may be] according to grace, for <the> to be sure the promise to all the seed, not to that of the law only but also to that of [the] faith of Abraham, who is [the] father of all of us —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.15|<< Romans 4:15]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.17|Romans 4:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it [is] |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

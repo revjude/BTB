@@ -1,12 +1,12 @@
-**Luke 9:48
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:48**<big><big>[[Luke.9.46 The Greatest in the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said unto them, Whosoever shall receive this child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is least among you all, the same shall be great.
 <small><sub>**BSB:**</sub></small>
 And He said to them, “Whoever welcomes this little child in My name welcomes Me, and whoever welcomes Me welcomes the One who sent Me. For whoever is the least among all of you, he is the greatest.”
 <small><sub>**Literal:**</sub></small>
 and He said to them; Who[ever] maybe shall receive this <the> child in the name of Me, Me myself receives; and who[ever] maybe Me myself shall receive, receives the [One] having sent Me. The [one] for least among all you being he is great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.47|<< Luke 9:47]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.49|Luke 9:49 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

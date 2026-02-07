@@ -1,12 +1,12 @@
-**Romans 8:34
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:34**<big><big>[[Rom.8.28 God Works in All Things|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who [is] he that condemneth? [It is] Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.
 <small><sub>**BSB:**</sub></small>
 Who is there to condemn us? For Christ Jesus, who died, and more than that was raised to life, is at the right hand of God—and He is interceding for us.
 <small><sub>**Literal:**</sub></small>
 Who [is] the [one] condemning? [For it is] Christ Jesus the [one] having died rather now also having been raised up from dead who also is at [the] right hand <the> of God, who and is interceding for us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.33|<< Romans 8:33]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.35|Romans 8:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who [is] |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

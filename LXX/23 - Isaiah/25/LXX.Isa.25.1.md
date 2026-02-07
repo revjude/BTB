@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>  my God, I will glorify you, I shall sing praise  \[to\] your name; for you did wonderful things; true ancient counsel. May it be. 
-<small><sub>**KJV:**</sub></small>
-O LORD, thou [art] my God; I will exalt thee, I will praise thy name; for thou hast done wonderful [things; thy] counsels of old [are] faithfulness [and] truth.
-<small><sub>**BSB:**</sub></small>
-O LORD, You are my God! I will exalt You; I will praise Your name. For You have worked wonders—plans formed long ago—in perfect faithfulness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.25.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.23|<< Isaiah 24:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.25.2|Isaiah 25:2 >>]]</td></tr></table>
 
 | Translation | Greek |

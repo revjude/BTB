@@ -1,10 +1,7 @@
 **LXX Daniel 5:3** 
 <small><sub>**LXX:**</sub></small>
 And they brought the items  of gold, and the ones of silver, which were brought forth from out of the temple  of God  in Jerusalem, and they drank with them -- the king, and  his great men, and  his concubines, and  his mistresses. 
-<small><sub>**KJV:**</sub></small>
-Then they brought the golden vessels that were taken out of the temple of the house of God which [was] at Jerusalem; and the king, and his princes, his wives, and his concubines, drank in them.
-<small><sub>**BSB:**</sub></small>
-Thus they brought in the gold vessels that had been taken from the temple, the house of God in Jerusalem, and the king drank from them, along with his nobles, his wives, and his concubines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.2|<< Daniel 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.4|Daniel 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 43:17** 
+**Ezekiel 43:17**<big><big>[[Ezek.43.13 The Altar of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the settle [shall be] fourteen [cubits] long and fourteen broad in the four squares thereof; and the border about it [shall be] half a cubit; and the bottom thereof [shall be] a cubit about; and his stairs shall look toward the east.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The ledge shall also be square, fourteen cubits long and fourteen cubits wide, w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.16|<< Ezekiel 43:16]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.18|Ezekiel 43:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the ledge  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5835\|עֲזָרָ֞ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.za.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] four-  |**<big>&#8207;[[H0702\|אַרְבַּ֧ע]]&#8207; </big>**| 'ar.Ba'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

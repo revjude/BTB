@@ -1,10 +1,7 @@
 **LXX Isaiah 29:7** 
 <small><sub>**LXX:**</sub></small>
 And the sleep riches of all the nations will be as ones dreaming in, as many as march against Ariel, and all the ones soldiering against Jerusalem, and all the ones gathering together against her, and the ones afflicting her. 
-<small><sub>**KJV:**</sub></small>
-And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.
-<small><sub>**BSB:**</sub></small>
-All the many nations going out to battle against Ariel—even all who war against her, laying siege and attacking her—will be like a dream, like a vision in the night,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.6|<< Isaiah 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.8|Isaiah 29:8 >>]]</td></tr></table>
 
 | Translation | Greek |

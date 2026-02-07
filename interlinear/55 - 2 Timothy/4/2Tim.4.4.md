@@ -1,12 +1,12 @@
-**2 Timothy 4:4
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:4**<big><big>[[2Tim.4.1 Preach the Word|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they shall turn away [their] ears from the truth, and shall be turned unto fables.
 <small><sub>**BSB:**</sub></small>
 So they will turn their ears away from the truth and turn aside to myths.
 <small><sub>**Literal:**</sub></small>
 and from indeed the truth <the> hearing they will turn away, unto however <the> myths they will be turned aside.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.3|<< 2 Timothy 4:3]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.5|2 Timothy 4:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from |**<big>[[G0575\|ἀπὸ]]</big>**  |apo <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

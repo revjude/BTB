@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:8** 
 <small><sub>**LXX:**</sub></small>
 And  this lofty house, every one  traveling by it shall be amazed, and shall whistle. And they shall say, For what \[reason\] did \[the\] <span class="smallcaps">lord</span> \[do\] thus \[to\] this land, and \[to\] this house? 
-<small><sub>**KJV:**</sub></small>
-And at this house, [which] is high, every one that passeth by it shall be astonished, and shall hiss; and they shall say, Why hath the LORD done thus unto this land, and to this house?
-<small><sub>**BSB:**</sub></small>
-And when this temple has become a heap of rubble, all who pass by it will be appalled and will hiss and say, ‘Why has the LORD done such a thing to this land and to this temple?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.7|<< 1 Kings 9:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.9|1 Kings 9:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 35:5** 
 <small><sub>**LXX:**</sub></small>
 And I set in front of them a clay vessel of wine, and cups, and I said, Drink wine! 
-<small><sub>**KJV:**</sub></small>
-And I set before the sons of the house of the Rechabites pots full of wine, and cups, and I said unto them, Drink ye wine.
-<small><sub>**BSB:**</sub></small>
-Then I set pitchers full of wine and some cups before the men of the house of the Rechabites, and I said to them, “Drink some wine.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.4|<< Jeremiah 35:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.6|Jeremiah 35:6 >>]]</td></tr></table>
 
 | Translation | Greek |

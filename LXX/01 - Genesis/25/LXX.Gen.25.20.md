@@ -1,10 +1,7 @@
 **LXX Genesis 25:20** 
 <small><sub>**LXX:**</sub></small>
 Abraham procreated  Isaac. And Isaac was forty years \[old\] when he took  Rebekah daughter of Bethuel the Syrian to himself for wife. 
-<small><sub>**KJV:**</sub></small>
-And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padanaram, the sister to Laban the Syrian.
-<small><sub>**BSB:**</sub></small>
-and Isaac was forty years old when he married Rebekah, the daughter of Bethuel the Aramean from Paddan-aram and the sister of Laban the Aramean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.19|<< Genesis 25:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.21|Genesis 25:21 >>]]</td></tr></table>
 
 | Translation | Greek |

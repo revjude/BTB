@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:17** 
 <small><sub>**LXX:**</sub></small>
 And the Levites stationed Heman son of Joel, and of  his brethren, Asaph son Berechiah; and of the sons of Merari his brethren, Ethan son of Kushaiah. 
-<small><sub>**KJV:**</sub></small>
-So the Levites appointed Heman the son of Joel; and of his brethren, Asaph the son of Berechiah; and of the sons of Merari their brethren, Ethan the son of Kushaiah;
-<small><sub>**BSB:**</sub></small>
-So the Levites appointed Heman son of Joel; from his brothers, Asaph son of Berechiah; from their brothers the Merarites, Ethan son of Kushaiah;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.16|<< 1 Chronicles 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.18|1 Chronicles 15:18 >>]]</td></tr></table>
 
 | Translation | Greek |

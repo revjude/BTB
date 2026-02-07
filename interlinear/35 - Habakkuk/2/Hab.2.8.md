@@ -1,4 +1,4 @@
-**Habakkuk 2:8** 
+**Habakkuk 2:8**<big><big>[[Hab.2.6 Woe to the Chaldeans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because thou hast spoiled many nations, all the remnant of the people shall spoil thee; because of men’s blood, and [for] the violence of the land, of the city, and of all that dwell therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because you have plundered many nations, the remnant of the people will plunder 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.7|<< Habakkuk 2:7]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.9|Habakkuk 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859A\|אַתָּ֤ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

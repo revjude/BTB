@@ -1,4 +1,4 @@
-**1 Chronicles 24:29** 
+**1 Chronicles 24:29**<big><big>[[1Chr.24.20 The Rest of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Concerning Kish: the son of Kish [was] Jerahmeel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From Kish: Jerahmeel the son of Kish.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.28|<< 1 Chronicles 24:28]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.30|1 Chronicles 24:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for Kish  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7027H\|קִ֖ישׁ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kish<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

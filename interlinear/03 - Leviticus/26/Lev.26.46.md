@@ -1,4 +1,4 @@
-**Leviticus 26:46** 
+**Leviticus 26:46**<big><big>[[Lev.26.40 God Remembers Those Who Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the statutes and judgments and laws, which the LORD made between him and the children of Israel in mount Sinai by the hand of Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the statutes, ordinances, and laws that the LORD established between H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.45|<< Leviticus 26:45]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.1|Leviticus 27:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֠לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] the statutes  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2706G\|חֻקִּ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chu.Kim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

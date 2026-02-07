@@ -1,14 +1,14 @@
 (KJV) **Genesis 46**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45|<< Genesis 45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47|Genesis 47 >>]]</td></tr></table>
 
-***Jacob’s Journey to Egypt*** ^bsb133
+<big><big>[[Gen.46.1 Jacob’s Journey to Egypt|⥃]]</big></big>***Jacob’s Journey to Egypt***
 
  $\quad$ <span class="startversemarker">[</span>**[[Gen.46.1|1]]**<span class="endversemarker">]</span> And Israel took his journey with all that he had, and came to Beer–sheba<small><small>[^2]</small></small>, and offered<small><small>[^3]</small></small> sacrifices unto<small><small>[^4]</small></small> the God of his father Isaac.<small><small>[^5]</small></small> <span class="startversemarker">[</span>**[[Gen.46.2|2]]**<span class="endversemarker">]</span> And God spake unto Israel in the visions<small><small>[^6]</small></small> of the night, and said, Jacob<small><small>[^7]</small></small>, Jacob. And he said, Here \[am\] I. <span class="startversemarker">[</span>**[[Gen.46.3|3]]**<span class="endversemarker">]</span> And he said, I \[am\] God, the God<small><small>[^8]</small></small> of thy father: fear not<small><small>[^9]</small></small> to go down into Egypt; for I will<small><small>[^10]</small></small> there make of thee a great nation: <span class="startversemarker">[</span>**[[Gen.46.4|4]]**<span class="endversemarker">]</span> I will go<small><small>[^11]</small></small> down with thee into Egypt; and I will<small><small>[^12]</small></small> also surely bring thee up \[again\]: and Joseph<small><small>[^13]</small></small> shall put his hand upon thine eyes. <span class="startversemarker">[</span>**[[Gen.46.5|5]]**<span class="endversemarker">]</span> And Jacob<small><small>[^14]</small></small> rose up from Beer–sheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons<small><small>[^15]</small></small> which Pharaoh had sent to carry him. <span class="startversemarker">[</span>**[[Gen.46.6|6]]**<span class="endversemarker">]</span> And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt<small><small>[^16]</small></small>, Jacob, and all his seed with him:
 
-***Those Who Went to Egypt***&emsp;<small><sup>\[ [[Exod.1|Exodus 1:1–7]] ]</sup></small> ^bsb134
+<big><big>[[Gen.46.7 Those Who Went to Egypt|⥃]]</big></big>***Those Who Went to Egypt***&emsp;<small><sup>\[ [[Exod.1|Exodus 1:1–7]] ]</sup></small>
 
  <span class="startversemarker">[</span>**[[Gen.46.7|7]]**<span class="endversemarker">]</span> His sons, and his sons’ sons with him, his daughters, and his sons’ daughters, and all his seed brought he with him into Egypt.
 
-*The Children of Leah* ^bsb135
+<big><big>[[Gen.46.8 The Children of Leah|⥃]]</big></big>*The Children of Leah*
 
  
 
@@ -24,7 +24,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.46.13|13]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.46.14|14]]**<span class="endversemarker">]</span> [¶]And the sons of Zebulun<small><small>[^30]</small></small>; Sered, and Elon, and Jahleel. <span class="startversemarker">[</span>**[[Gen.46.15|15]]**<span class="endversemarker">]</span> These \[be\] the sons of Leah<small><small>[^31]</small></small>, which she bare unto Jacob in Padan–aram<small><small>[^32]</small></small>, with his<small><small>[^33]</small></small> daughter Dinah: all the souls of his sons and his daughters \[were\] thirty and three.
 
-*The Children of Zilpah* ^bsb136
+<big><big>[[Gen.46.16 The Children of Zilpah|⥃]]</big></big>*The Children of Zilpah*
 
  
 
@@ -32,7 +32,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.46.16|16]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.46.17|17]]**<span class="endversemarker">]</span> [¶]And the sons of Asher<small><small>[^38]</small></small>; Jimnah, and Ishuah, and Isui, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel. <span class="startversemarker">[</span>**[[Gen.46.18|18]]**<span class="endversemarker">]</span> These \[are\] the sons of Zilpah<small><small>[^39]</small></small>, whom Laban gave to Leah his daughter, and these she bare unto Jacob, \[even\] sixteen souls.
 
-*The Children of Rachel* ^bsb137
+<big><big>[[Gen.46.19 The Children of Rachel|⥃]]</big></big>*The Children of Rachel*
 
  <span class="startversemarker">[</span>**[[Gen.46.19|19]]**<span class="endversemarker">]</span> The sons of Rachel<small><small>[^40]</small></small> Jacob’s wife; Joseph<small><small>[^41]</small></small>, and Benjamin. 
 
@@ -40,7 +40,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.46.20|20]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.46.21|21]]**<span class="endversemarker">]</span> [¶]And the sons<small><small>[^44]</small></small> of Benjamin \[were\] Belah, and Becher, and Ashbel, Gera, and Naaman, Ehi<small><small>[^45]</small></small>, and Rosh, Muppim<small><small>[^46]</small></small>, and Huppim<small><small>[^47]</small></small>, and Ard. <span class="startversemarker">[</span>**[[Gen.46.22|22]]**<span class="endversemarker">]</span> These \[are\] the sons of Rachel, which were born to Jacob: all the souls \[were\] fourteen.
 
-*The Children of Bilhah* ^bsb138
+<big><big>[[Gen.46.23 The Children of Bilhah|⥃]]</big></big>*The Children of Bilhah*
 
  
 
@@ -48,7 +48,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Gen.46.23|23]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Gen.46.24|24]]**<span class="endversemarker">]</span> [¶]And the sons of Naphtali<small><small>[^50]</small></small>; Jahzeel<small><small>[^51]</small></small>, and Guni, and Jezer, and Shillem. <span class="startversemarker">[</span>**[[Gen.46.25|25]]**<span class="endversemarker">]</span> These \[are\] the sons of Bilhah<small><small>[^52]</small></small>, which Laban gave unto Rachel his daughter, and she bare these unto Jacob: all the souls \[were\] seven. <span class="startversemarker">[</span>**[[Gen.46.26|26]]**<span class="endversemarker">]</span> All the souls that came with Jacob into Egypt, which came out of his loins<small><small>[^53]</small></small>, besides Jacob’s sons’ wives, all the souls \[were\] threescore and six; <span class="startversemarker">[</span>**[[Gen.46.27|27]]**<span class="endversemarker">]</span> And the sons of Joseph, which were born him in Egypt, \[were\] two souls: all the souls of the house of Jacob, which came into Egypt, \[were\] threescore and ten<small><small>[^54]</small></small>.
 
-***Jacob Arrives in Egypt*** ^bsb139
+<big><big>[[Gen.46.28 Jacob Arrives in Egypt|⥃]]</big></big>***Jacob Arrives in Egypt***
 
  
 

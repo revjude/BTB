@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 1:11** 
 <small><sub>**LXX:**</sub></small>
 And God said to Solomon, Because this happened in  your heart, and you did not ask wealth of things, nor glory, nor the life of the ones detesting you, and you did not ask \[for\] many days; but you asked for yourself wisdom and understanding, so as to judge  my people, over whom I gave you to reign over it -- 
-<small><sub>**KJV:**</sub></small>
-And God said to Solomon, Because this was in thine heart, and thou hast not asked riches, wealth, or honour, nor the life of thine enemies, neither yet hast asked long life; but hast asked wisdom and knowledge for thyself, that thou mayest judge my people, over whom I have made thee king:
-<small><sub>**BSB:**</sub></small>
-God said to Solomon, “Since this was in your heart instead of requesting riches or wealth or honor for yourself or death for your enemies—and since you have not even requested long life but have asked for wisdom and knowledge to govern My people over whom I have made you king—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.10|<< 2 Chronicles 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.12|2 Chronicles 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

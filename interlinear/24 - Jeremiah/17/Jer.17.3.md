@@ -1,4 +1,4 @@
-**Jeremiah 17:3** 
+**Jeremiah 17:3**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O my mountain in the field, I will give thy substance [and] all thy treasures to the spoil, [and] thy high places for sin, throughout all thy borders.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O My mountain in the countryside, I will give over your wealth and all your trea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.2|<< Jeremiah 17:2]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.4|Jeremiah 17:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | mountain my  |**<big>&#8207;[[H2042\|הֲרָרִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| ha.ra.R<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the field  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7704G\|שָּׂדֶ֔ה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

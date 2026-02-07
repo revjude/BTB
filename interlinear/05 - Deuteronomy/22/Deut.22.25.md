@@ -1,4 +1,4 @@
-**Deuteronomy 22:25** 
+**Deuteronomy 22:25**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if a man find a betrothed damsel in the field, and the man force her, and lie with her: then the man only that lay with her shall die:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if the man encounters a betrothed woman in the open country, and he overpowe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.24|<< Deuteronomy 22:24]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.26|Deuteronomy 22:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the open country  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7704G\|שָּׂדֶ֞ה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

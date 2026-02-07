@@ -1,10 +1,7 @@
 **LXX Leviticus 4:33** 
 <small><sub>**LXX:**</sub></small>
 And he shall place  his hand upon the head of the one for the sin \[offering\]. And they shall slay it for a sin \[offering\] in \[the\] place of which they slay the whole burnt-offerings. 
-<small><sub>**KJV:**</sub></small>
-And he shall lay his hand upon the head of the sin offering, and slay it for a sin offering in the place where they kill the burnt offering.
-<small><sub>**BSB:**</sub></small>
-And he is to lay his hand on the head of the sin offering and slaughter it as a sin offering at the place where the burnt offering is slaughtered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.32|<< Leviticus 4:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.34|Leviticus 4:34 >>]]</td></tr></table>
 
 | Translation | Greek |

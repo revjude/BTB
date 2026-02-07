@@ -1,4 +1,4 @@
-**Deuteronomy 34:1** 
+**Deuteronomy 34:1**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that [is] over against Jericho. And the LORD shewed him all the land of Gilead, unto Dan,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.29|<< Deuteronomy 33:29]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.2|Deuteronomy 34:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֨עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֜ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

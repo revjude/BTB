@@ -1,12 +1,12 @@
-**Matthew 27:42
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:42**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He saved others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him.
 <small><sub>**BSB:**</sub></small>
 “He saved others, but He cannot save Himself. He is the King of Israel! Let Him come down now from the cross, and we will believe in Him.
 <small><sub>**Literal:**</sub></small>
 Others He saved, Himself not is He able to save. if King of Israel He is, he should descend now from the cross, and we will believe in Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.41|<< Matthew 27:41]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.43|Matthew 27:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Others |**<big>[[G0243\|ἄλλους]]</big>**  |allous <small><sup>[[A-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He saved, |**<big>[[G4982\|ἔσωσεν,]]</big>**  |esōsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

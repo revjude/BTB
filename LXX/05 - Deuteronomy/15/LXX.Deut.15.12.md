@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:12** 
 <small><sub>**LXX:**</sub></small>
 And if your brother a Hebrew man should be sold to you, or the Hebrew woman, he shall serve to you six years, and the seventh you shall send him free from you. 
-<small><sub>**KJV:**</sub></small>
-[And] if thy brother, an Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee.
-<small><sub>**BSB:**</sub></small>
-If a fellow Hebrew, a man or a woman, is sold to you and serves you six years, then in the seventh year you must set him free.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.11|<< Deuteronomy 15:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.13|Deuteronomy 15:13 >>]]</td></tr></table>
 
 | Translation | Greek |

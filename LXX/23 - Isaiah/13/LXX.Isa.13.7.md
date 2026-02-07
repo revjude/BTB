@@ -1,10 +1,7 @@
 **LXX Isaiah 13:7** 
 <small><sub>**LXX:**</sub></small>
 Because of this every hand shall be loosened, and every soul of man shall be timid. 
-<small><sub>**KJV:**</sub></small>
-Therefore shall all hands be faint, and every man’s heart shall melt:
-<small><sub>**BSB:**</sub></small>
-Therefore all hands will fall limp, and every man’s heart will melt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.13.6|<< Isaiah 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.8|Isaiah 13:8 >>]]</td></tr></table>
 
 | Translation | Greek |

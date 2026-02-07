@@ -1,12 +1,12 @@
-**Revelation 8:13
-**<small><sub>**KJV:**</sub></small>
+**Revelation 8:13**<big><big>[[Rev.8.6 The First Four Trumpets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I beheld, and heard an angel flying through the midst of heaven, saying with a loud voice, Woe, woe, woe, to the inhabiters of the earth by reason of the other voices of the trumpet of the three angels, which are yet to sound!
 <small><sub>**BSB:**</sub></small>
 And as I observed, I heard an eagle flying overhead, calling in a loud voice, “Woe! Woe! Woe to those who dwell on the earth, because of the trumpet blasts about to be sounded by the remaining three angels!”
 <small><sub>**Literal:**</sub></small>
 And I looked and I heard one eagle flying in mid-heaven saying in a voice loud; Woe Woe Woe to those dwelling on the earth because of the remaining voices of the trumpet of the three angels who are being about to sound [their] trumpets!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.12|<< Revelation 8:12]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.1|Revelation 9:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I looked |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

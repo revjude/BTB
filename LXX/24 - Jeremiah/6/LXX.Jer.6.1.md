@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Grow in strength, O sons of Benjamin, from \[the\] midst  of Jerusalem! And in Tekoa signify by trumpet! And over Beth-haccerem lift a sign! For bad \[things\] look from \[the\] north, and great destruction is happening. 
-<small><sub>**KJV:**</sub></small>
-O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Bethhaccerem: for evil appeareth out of the north, and great destruction.
-<small><sub>**BSB:**</sub></small>
-“Run for cover, O sons of Benjamin; flee from Jerusalem! Sound the ram’s horn in Tekoa; send up a signal over Beth-haccherem, for disaster looms from the north, even great destruction.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.31|<< Jeremiah 5:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.2|Jeremiah 6:2 >>]]</td></tr></table>
 
 | Translation | Greek |

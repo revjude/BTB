@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Josiah observed the passover in Jerusalem to the <span class="smallcaps">lord</span> his God. And he sacrificed the passover on the fourteenth of the first month. 
-<small><sub>**KJV:**</sub></small>
-Moreover Josiah kept a passover unto the LORD in Jerusalem: and they killed the passover on the fourteenth [day] of the first month.
-<small><sub>**BSB:**</sub></small>
-Then Josiah kept the Passover to the LORD in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.33|<< 2 Chronicles 34:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.2|2 Chronicles 35:2 >>]]</td></tr></table>
 
 | Translation | Greek |

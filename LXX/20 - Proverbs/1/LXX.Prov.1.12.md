@@ -1,10 +1,7 @@
 **LXX Proverbs 1:12** 
 <small><sub>**LXX:**</sub></small>
 and we should swallow him as Hades, while living, and lift his  remembrance from \[the\] earth, 
-<small><sub>**KJV:**</sub></small>
-Let us swallow them up alive as the grave; and whole, as those that go down into the pit:
-<small><sub>**BSB:**</sub></small>
-let us swallow them alive like Sheol, and whole like those descending into the Pit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.1.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.11|<< Proverbs 1:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.13|Proverbs 1:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 They came devising troubles, and working evils on  their beds, and together during the day they complete them; for they lifted not their hands to God. 
-<small><sub>**KJV:**</sub></small>
-Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.
-<small><sub>**BSB:**</sub></small>
-Woe to those who devise iniquity and plot evil on their beds! At morning’s light they accomplish it because the power is in their hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.16|<< Micah 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.2|Micah 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

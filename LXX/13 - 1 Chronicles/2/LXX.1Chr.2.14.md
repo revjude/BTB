@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:14** 
 <small><sub>**LXX:**</sub></small>
 Nethaneel the fourth, and Raddai the fifth, 
-<small><sub>**KJV:**</sub></small>
-Nethaneel the fourth, Raddai the fifth,
-<small><sub>**BSB:**</sub></small>
-Nethanel fourth, Raddai fifth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.13|<< 1 Chronicles 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.15|1 Chronicles 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

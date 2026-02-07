@@ -1,4 +1,4 @@
-**Numbers 4:15** 
+**Numbers 4:15**<big><big>[[Num.4.1 The Duties of the Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath shall come to bear [it]: but they shall not touch [any] holy thing, lest they die. These [things are] the burden of the sons of Kohath in the tabernacle of the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Aaron and his sons have finished covering the holy objects and all their eq
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.14|<< Numbers 4:14]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.16|Numbers 4:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will finish  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3615G\|כִלָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khi.Lah<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aaron  |**<big>&#8207;[[H0175\|אַֽהֲרֹן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.ha.ron-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

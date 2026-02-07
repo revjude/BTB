@@ -1,12 +1,12 @@
-**2 Corinthians 5:21
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 5:21**<big><big>[[2Cor.5.11 Ambassadors for Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he hath made him [to be] sin for us, who knew no sin; that we might be made the righteousness of God in him.
 <small><sub>**BSB:**</sub></small>
 God made Him who knew no sin to be sin on our behalf, so that in Him we might become the righteousness of God.
 <small><sub>**Literal:**</sub></small>
 The [One] for not having known sin for us sin He made, so that we ourselves may become [the] righteousness of God in Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.20|<< 2 Corinthians 5:20]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.1|2 Corinthians 6:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [One] |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

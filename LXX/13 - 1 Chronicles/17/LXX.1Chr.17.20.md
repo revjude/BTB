@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:20** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, there is none likened to you, and there is no God besides you, according to all as much as we heard with  our ears. 
-<small><sub>**KJV:**</sub></small>
-O LORD, [there is] none like thee, neither [is there any] God beside thee, according to all that we have heard with our ears.
-<small><sub>**BSB:**</sub></small>
-O LORD, there is none like You, and there is no God but You, according to everything we have heard with our own ears.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.19|<< 1 Chronicles 17:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.21|1 Chronicles 17:21 >>]]</td></tr></table>
 
 | Translation | Greek |

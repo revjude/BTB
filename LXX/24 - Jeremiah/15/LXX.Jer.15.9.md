@@ -1,10 +1,7 @@
 **LXX Jeremiah 15:9** 
 <small><sub>**LXX:**</sub></small>
 The one giving birth to seven was emptied. Her soul suffered misfortune; her sun set even in the middle of the day. She was disgraced and berated. Of the ones remaining of them I will give to \[the\] sword before  their enemies, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-She that hath borne seven languisheth: she hath given up the ghost; her sun is gone down while [it was] yet day: she hath been ashamed and confounded: and the residue of them will I deliver to the sword before their enemies, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-The mother of seven will grow faint; she will breathe her last breath. Her sun will set while it is still day; she will be disgraced and humiliated. And the rest I will put to the sword in the presence of their enemies,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.15.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.8|<< Jeremiah 15:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.10|Jeremiah 15:10 >>]]</td></tr></table>
 
 | Translation | Greek |

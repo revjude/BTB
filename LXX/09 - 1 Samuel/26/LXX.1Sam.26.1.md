@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the Ziphites come to the hill to Saul, saying, Behold, David is sheltered with us in the hill  of Hachilah,  against \[the\] face  of Jeshimon. 
-<small><sub>**KJV:**</sub></small>
-And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, [which is] before Jeshimon?
-<small><sub>**BSB:**</sub></small>
-Then the Ziphites came to Saul at Gibeah and said, “Is not David hiding on the hill of Hachilah, opposite Jeshimon?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.44|<< 1 Samuel 25:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.2|1 Samuel 26:2 >>]]</td></tr></table>
 
 | Translation | Greek |

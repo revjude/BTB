@@ -1,4 +1,4 @@
-**1 Samuel 16:18** 
+**1 Samuel 16:18**<big><big>[[1Sam.16.14 David Serves Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered one of the servants, and said, Behold, I have seen a son of Jesse the Bethlehemite, [that is] cunning in playing, and a mighty valiant man, and a man of war, and prudent in matters, and a comely person, and the LORD [is] with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One of the servants answered, “I have seen a son of Jesse of Bethlehem who kno
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.17|<< 1 Samuel 16:17]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.19|1 Samuel 16:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּעַן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'An<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one  |**<big>&#8207;[[H0259\|אֶחָ֨ד]]&#8207; </big>**| 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

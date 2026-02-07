@@ -1,10 +1,7 @@
 **LXX Numbers 7:7** 
 <small><sub>**LXX:**</sub></small>
 The two wagons, and the four oxen he gave to the sons of Gershon for  their ministrations. 
-<small><sub>**KJV:**</sub></small>
-Two wagons and four oxen he gave unto the sons of Gershon, according to their service:
-<small><sub>**BSB:**</sub></small>
-He gave the Gershonites two carts and four oxen, as their service required,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.6|<< Numbers 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.8|Numbers 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

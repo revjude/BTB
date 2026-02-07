@@ -1,10 +1,7 @@
 **LXX Nehemiah 2:11** 
 <small><sub>**LXX:**</sub></small>
 And I came unto Jerusalem, and I was there three days. 
-<small><sub>**KJV:**</sub></small>
-So I came to Jerusalem, and was there three days.
-<small><sub>**BSB:**</sub></small>
-After I had arrived in Jerusalem and had been there three days,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.2.10|<< Nehemiah 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.2.12|Nehemiah 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

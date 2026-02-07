@@ -1,4 +1,4 @@
-**1 Kings 21:9** 
+**1 Kings 21:9**<big><big>[[1Kgs.21.8 Jezebel’s Plot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she wrote in the letters, saying, Proclaim a fast, and set Naboth on high among the people:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the letters she wrote: “Proclaim a fast and give Naboth a seat of honor amo
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.8|<< 1 Kings 21:8]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.10|1 Kings 21:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she wrote  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3789\|תִּכְתֹּ֥ב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tikh.To<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the letters  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5612A\|סְּפָרִ֖ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> se.fa.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

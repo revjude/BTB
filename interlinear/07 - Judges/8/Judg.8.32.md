@@ -1,4 +1,4 @@
-**Judges 8:32** 
+**Judges 8:32**<big><big>[[Judg.8.32 Gideon’s Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gideon the son of Joash died in a good old age, and was buried in the sepulchre of Joash his father, in Ophrah of the Abiezrites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Later, Gideon son of Joash died at a ripe old age and was buried in the tomb of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.31|<< Judges 8:31]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.33|Judges 8:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֛מָת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gideon  |**<big>&#8207;[[H1439\|גִּדְע֥וֹן]]&#8207; </big>**| gid.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

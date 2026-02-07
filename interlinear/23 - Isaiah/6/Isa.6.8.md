@@ -1,4 +1,4 @@
-**Isaiah 6:8** 
+**Isaiah 6:8**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here [am] I; send me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I heard the voice of the Lord saying: “Whom shall I send? Who will go for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.7|<< Isaiah 6:7]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.9|Isaiah 6:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I heard  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H8085G\|אֶשְׁמַ֞ע]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'esh.Ma'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**John 19:29
-**<small><sub>**KJV:**</sub></small>
+**John 19:29**<big><big>[[John.19.28 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now there was set a vessel full of vinegar: and they filled a spunge with vinegar, and put [it] upon hyssop, and put [it] to his mouth.
 <small><sub>**BSB:**</sub></small>
 A jar of sour wine was sitting there. So they soaked a sponge in the wine, put it on a stalk of hyssop, and lifted it to His mouth.
@@ -10,7 +10,7 @@ A vessel therefore was set [there] of sour wine full. a sponge therefore full of
 > $\quad$ alluding to: [[LXX.Ps.69.21|Ps 69:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A vessel |**<big>[[G4632\|σκεῦος]]</big>**  |skeuos <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

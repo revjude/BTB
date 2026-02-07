@@ -1,10 +1,7 @@
 **LXX Genesis 41:42** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh removing the ring from  his hand, put it upon the hand of Joseph. And he put on him fine linen apparel, and he put a collar of gold about  his neck. 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh took off his ring from his hand, and put it upon Joseph’s hand, and arrayed him in vestures of fine linen, and put a gold chain about his neck;
-<small><sub>**BSB:**</sub></small>
-Then Pharaoh removed the signet ring from his finger, put it on Joseph’s finger, clothed him in garments of fine linen, and placed a gold chain around his neck.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.41|<< Genesis 41:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.43|Genesis 41:43 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 21:1
-**<small><sub>**KJV:**</sub></small>
+**Luke 21:1**<big><big>[[Luke.21.1 The Poor Widow’s Offering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he looked up, and saw the rich men casting their gifts into the treasury.
 <small><sub>**BSB:**</sub></small>
 Then Jesus looked up and saw the rich putting their gifts into the treasury,
 <small><sub>**Literal:**</sub></small>
 Having looked up now He saw the ones casting into the treasury the gifts of them rich.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.47|<< Luke 20:47]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.2|Luke 21:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having looked up |**<big>[[G0308\|Ἀναβλέψας]]</big>**  |Anablepsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Joel 3:10** (4:10)
+**Joel 3:10**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beat your plowshares into swords, and your pruninghooks into spears: let the weak say, I [am] strong.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Beat your plowshares into swords and your pruning hooks into spears. Let the wea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.9|<< Joel 3:9]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.11|Joel 3:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | beat  |**<big>&#8207;[[H3807\|כֹּ֤תּוּ]]&#8207; </big>**| Ko.tu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | plowshares your  |**<big>&#8207;[[H0855\|אִתֵּי]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| 'i.tei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

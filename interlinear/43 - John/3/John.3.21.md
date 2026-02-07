@@ -1,12 +1,12 @@
-**John 3:21
-**<small><sub>**KJV:**</sub></small>
+**John 3:21**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God.
 <small><sub>**BSB:**</sub></small>
 But whoever practices the truth comes into the Light, so that it may be seen clearly that what he has done has been accomplished in God.”
 <small><sub>**Literal:**</sub></small>
 the [one] however practicing the truth comes to the Light that may be manifest his <the> works that in God have been done.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.20|<< John 3:20]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.22|John 3:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

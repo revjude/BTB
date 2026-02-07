@@ -1,10 +1,7 @@
 **LXX Genesis 24:45** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass before the completing my speaking in  my mind, straightway Rebekah came forth having the water-pitcher upon the shoulders, and she went down to the spring, and she drew water. And I said to her, Give me a drink! 
-<small><sub>**KJV:**</sub></small>
-And before I had done speaking in mine heart, behold, Rebekah came forth with her pitcher on her shoulder; and she went down unto the well, and drew [water]: and I said unto her, Let me drink, I pray thee.
-<small><sub>**BSB:**</sub></small>
-And before I had finished praying in my heart, there was Rebekah coming out with her jar on her shoulder, and she went down to the spring and drew water. So I said to her, ‘Please give me a drink.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.44|<< Genesis 24:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.46|Genesis 24:46 >>]]</td></tr></table>
 
 | Translation | Greek |

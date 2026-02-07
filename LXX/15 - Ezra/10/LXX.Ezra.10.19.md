@@ -1,10 +1,7 @@
 **LXX Ezra 10:19** 
 <small><sub>**LXX:**</sub></small>
 And they gave their hand \[in pledge\]  to bring forth their own wives; and \[they gave\] trespass \[offerings\] -- a ram of \[the\] sheep for their trespass \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And they gave their hands that they would put away their wives; and [being] guilty, [they offered] a ram of the flock for their trespass.
-<small><sub>**BSB:**</sub></small>
-They pledged to send their wives away, and for their guilt they presented a ram from the flock as a guilt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.18|<< Ezra 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.20|Ezra 10:20 >>]]</td></tr></table>
 
 | Translation | Greek |

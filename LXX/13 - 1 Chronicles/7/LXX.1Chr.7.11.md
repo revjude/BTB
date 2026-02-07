@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:11** 
 <small><sub>**LXX:**</sub></small>
 All these \[were\] sons of Jediael, rulers of the families, mighty ones of strength -- seventeen thousand and two hundred going forth in power  to wage war. 
-<small><sub>**KJV:**</sub></small>
-All these the sons of Jediael, by the heads of their fathers, mighty men of valour, [were] seventeen thousand and two hundred [soldiers], fit to go out for war [and] battle.
-<small><sub>**BSB:**</sub></small>
-All these sons of Jediael were heads of their families, mighty men of valor; there were 17,200 fit for battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.10|<< 1 Chronicles 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.12|1 Chronicles 7:12 >>]]</td></tr></table>
 
 | Translation | Greek |

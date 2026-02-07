@@ -1,12 +1,12 @@
-**1 Corinthians 15:37
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:37**<big><big>[[1Cor.15.35 The Resurrection Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And that which thou sowest, thou sowest not that body that shall be, but bare grain, it may chance of wheat, or of some other [grain]:
 <small><sub>**BSB:**</sub></small>
 And what you sow is not the body that will be, but just a seed, perhaps of wheat or something else.
 <small><sub>**Literal:**</sub></small>
 And what you sow, not the body that will be you sow but a bare grain, if it would be of wheat or of some of the rest;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.36|<< 1 Corinthians 15:36]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.38|1 Corinthians 15:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | what |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

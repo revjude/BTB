@@ -1,5 +1,5 @@
-**Ephesians 1:20
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 1:20**<big><big>[[Eph.1.15 Spiritual Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which he wrought in Christ, when he raised him from the dead, and set [him] at his own right hand in the heavenly [places],
 <small><sub>**BSB:**</sub></small>
 which He exerted in Christ when He raised Him from the dead and seated Him at His right hand in the heavenly realms,
@@ -10,7 +10,7 @@ which He worked in <the> Christ having raised Him out from the dead and having s
 > $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which |**<big>[[G3739\|ἣν]]</big>**  |hēn <small><sup>[[R-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He worked [^1] |**<big>[[G1754\|ἐνήργησεν]]</big>**  |enērgēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+Treg+TR+Byz">NK(o)</abbr> | |

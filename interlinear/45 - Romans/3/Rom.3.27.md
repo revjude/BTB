@@ -1,12 +1,12 @@
-**Romans 3:27
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:27**<big><big>[[Rom.3.21 Righteousness through Faith in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Where [is] boasting then? It is excluded. By what law? of works? Nay: but by the law of faith.
 <small><sub>**BSB:**</sub></small>
 Where, then, is boasting? It is excluded. On what principle? On that of works? No, but on that of faith.
 <small><sub>**Literal:**</sub></small>
 Where then [is] the boasting? It has been excluded. Through what principle? That of works? No, but through [the] principle of faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.26|<< Romans 3:26]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.28|Romans 3:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Where |**<big>[[G4226\|Ποῦ]]</big>**  |Pou <small><sup>[[ADV-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [is] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

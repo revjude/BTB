@@ -1,12 +1,12 @@
-**1 Corinthians 4:15
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 4:15**<big><big>[[1Cor.4.14 Paul’s Fatherly Warning|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For though ye have ten thousand instructors in Christ, yet [have ye] not many fathers: for in Christ Jesus I have begotten you through the gospel.
 <small><sub>**BSB:**</sub></small>
 Even if you have ten thousand guardians in Christ, you do not have many fathers; for in Christ Jesus I became your father through the gospel.
 <small><sub>**Literal:**</sub></small>
 If for ten thousand guardians you shall have in Christ yet not many fathers; in for Christ Jesus through the gospel I myself you begot.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.14|<< 1 Corinthians 4:14]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.16|1 Corinthians 4:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

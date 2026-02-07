@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:15** 
 <small><sub>**LXX:**</sub></small>
 And indeed the high altar in Beth-el, which Jeroboam son of Nebat made, who led Israel into sin, also indeed  he tore down that high altar, and he broke  its stones, and made \[them\] fine into dust, and he incinerated the sacred grove. 
-<small><sub>**KJV:**</sub></small>
-Moreover the altar that [was] at Bethel, [and] the high place which Jeroboam the son of Nebat, who made Israel to sin, had made, both that altar and the high place he brake down, and burned the high place, [and] stamped [it] small to powder, and burned the grove.
-<small><sub>**BSB:**</sub></small>
-He even pulled down the altar at Bethel, the high place set up by Jeroboam son of Nebat, who had caused Israel to sin. Then he burned the high place, ground it to powder, and burned the Asherah pole.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.14|<< 2 Kings 23:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.16|2 Kings 23:16 >>]]</td></tr></table>
 
 | Translation | Greek |

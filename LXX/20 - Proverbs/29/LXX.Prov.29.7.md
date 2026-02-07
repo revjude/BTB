@@ -1,10 +1,7 @@
 **LXX Proverbs 29:7** 
 <small><sub>**LXX:**</sub></small>
 A just \[man\] has knowledge to judge for \[the\] destitute; but the impious do not comprehend knowledge; and \[to the\] poor \[there does\] not exist \[the\] mind of an arbitrator. 
-<small><sub>**KJV:**</sub></small>
-The righteous considereth the cause of the poor: [but] the wicked regardeth not to know [it].
-<small><sub>**BSB:**</sub></small>
-The righteous consider the cause of the poor, but the wicked have no regard for such concerns.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.29.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.6|<< Proverbs 29:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.8|Proverbs 29:8 >>]]</td></tr></table>
 
 | Translation | Greek |

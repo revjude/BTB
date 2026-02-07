@@ -1,4 +1,4 @@
-**Exodus 16:24** 
+**Exodus 16:24**<big><big>[[Exod.16.22 The Sabbath Observed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they set it aside until morning as Moses had commanded, and it did not smell 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.23|<< Exodus 16:23]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.25|Exodus 16:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they left  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5117\|יַּנִּ֤יחוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ni.chu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹת]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 18:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Abraham, Why \[is it\] that Sarah laughed in herself, saying, Indeed is it truly I will bear, and I have grown old? 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Abraham, Wherefore did Sarah laugh, saying, Shall I of a surety bear a child, which am old?
-<small><sub>**BSB:**</sub></small>
-And the LORD asked Abraham, “Why did Sarah laugh and say, ‘Can I really bear a child when I am old?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.12|<< Genesis 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.14|Genesis 18:14 >>]]</td></tr></table>
 
 | Translation | Greek |

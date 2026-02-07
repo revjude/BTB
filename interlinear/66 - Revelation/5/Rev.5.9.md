@@ -1,12 +1,12 @@
-**Revelation 5:9
-**<small><sub>**KJV:**</sub></small>
+**Revelation 5:9**<big><big>[[Rev.5.1 The Lamb Takes the Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they sung a new song, saying, Thou art worthy to take the book, and to open the seals thereof: for thou wast slain, and hast redeemed us to God by thy blood out of every kindred, and tongue, and people, and nation;
 <small><sub>**BSB:**</sub></small>
 And they sang a new song: “Worthy are You to take the scroll and open its seals, because You were slain, and by Your blood You purchased for God those from every tribe and tongue and people and nation.
 <small><sub>**Literal:**</sub></small>
 And they are singing a song new saying; Worthy are You to take the scroll and to open the seals of it, because You were slain and You purchased <the> to God of us by the blood of You out of every tribe and tongue and people and nation<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.8|<< Revelation 5:8]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.10|Revelation 5:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they are singing |**<big>[[G0103\|ᾄδουσιν]]</big>**  |adousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

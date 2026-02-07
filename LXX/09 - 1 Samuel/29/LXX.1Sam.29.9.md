@@ -1,10 +1,7 @@
 **LXX 1 Samuel 29:9** 
 <small><sub>**LXX:**</sub></small>
 And Achish answered and said to David, I know that you are good in my eyes, as an angel of God, but the satraps of the Philistines say, He shall not come with us to war. 
-<small><sub>**KJV:**</sub></small>
-And Achish answered and said to David, I know that thou [art] good in my sight, as an angel of God: notwithstanding the princes of the Philistines have said, He shall not go up with us to the battle.
-<small><sub>**BSB:**</sub></small>
-Achish replied, “I know that you are as pleasing in my sight as an angel of God. But the commanders of the Philistines have said, ‘He must not go into battle with us.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.29.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.8|<< 1 Samuel 29:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.10|1 Samuel 29:10 >>]]</td></tr></table>
 
 | Translation | Greek |

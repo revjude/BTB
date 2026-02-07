@@ -1,10 +1,7 @@
 **LXX Hosea 12:4** 
 <small><sub>**LXX:**</sub></small>
 And he grew in strength with \[the\] angel, and he prevailed; they wept and beseeched me; in the house of On they found me. There it was spoken to them. 
-<small><sub>**KJV:**</sub></small>
-Yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him [in] Bethel, and there he spake with us;
-<small><sub>**BSB:**</sub></small>
-Yes, he struggled with the angel and prevailed; he wept and sought His favor; he found Him at Bethel and spoke with Him there—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.12.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.12.3|<< Hosea 12:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.12.5|Hosea 12:5 >>]]</td></tr></table>
 
 | Translation | Greek |

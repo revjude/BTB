@@ -1,10 +1,7 @@
 **LXX Joshua 1:4** 
 <small><sub>**LXX:**</sub></small>
 The wilderness and the Antilebanon unto the great river, \[the\] river Euphrates, all \[the\] land of \[the\] Hittites, and unto the great sea from \[the\] descent \[of the\] sun will be  your boundaries. 
-<small><sub>**KJV:**</sub></small>
-From the wilderness and this Lebanon even unto the great river, the river Euphrates, all the land of the Hittites, and unto the great sea toward the going down of the sun, shall be your coast.
-<small><sub>**BSB:**</sub></small>
-Your territory shall extend from the wilderness and Lebanon to the great River Euphrates—all the land of the Hittites—and west as far as the Great Sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.3|<< Joshua 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.5|Joshua 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

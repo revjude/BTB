@@ -1,4 +1,4 @@
-**1 Kings 18:39** 
+**1 Kings 18:39**<big><big>[[1Kgs.18.36 Elijah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when all the people saw [it], they fell on their faces: and they said, The LORD, he [is] the God; the LORD, he [is] the God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When all the people saw this, they fell facedown and said, “The LORD, He is Go
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.38|<< 1 Kings 18:38]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.40|1 Kings 18:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּרְא֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yaR'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

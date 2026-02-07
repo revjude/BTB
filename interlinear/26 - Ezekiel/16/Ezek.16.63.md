@@ -1,4 +1,4 @@
-**Ezekiel 16:63** 
+**Ezekiel 16:63**<big><big>[[Ezek.16.59 The Covenant Remembered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thou mayest remember, and be confounded, and never open thy mouth any more because of thy shame, when I am pacified toward thee for all that thou hast done, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that when I make atonement for all you have done, you will remember and be as
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.63|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.62|<< Ezekiel 16:62]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.1|Ezekiel 17:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֤עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you may remember  |**<big>&#8207;[[H2142\|תִּזְכְּרִי֙]]&#8207; </big>**| tiz.ke.Ri<small><sup>[[HVqj2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

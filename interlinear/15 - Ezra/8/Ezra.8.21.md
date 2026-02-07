@@ -1,4 +1,4 @@
-**Ezra 8:21** 
+**Ezra 8:21**<big><big>[[Ezra.8.21 Fasting for Protection|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I proclaimed a fast there, at the river of Ahava, that we might afflict ourselves before our God, to seek of him a right way for us, and for our little ones, and for all our substance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there by the Ahava Canal I proclaimed a fast, so that we might humble oursel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.20|<< Ezra 8:20]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.22|Ezra 8:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I proclaimed  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7121I\|אֶקְרָ֨א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'ek.Ra'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֥ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 26:5** 
+**Numbers 26:5**<big><big>[[Num.26.5 The Tribe of Reuben|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Reuben, the eldest son of Israel: the children of Reuben; Hanoch, [of whom cometh] the family of the Hanochites: of Pallu, the family of the Palluites:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Reuben was the firstborn of Israel. These were the descendants of Reuben: The Ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.4|<< Numbers 26:4]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.6|Numbers 26:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Reuben  |**<big>&#8207;[[H7205\|רְאוּבֵ֖ן]]&#8207; </big>**| re.'u.Ven<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] firstborn of  |**<big>&#8207;[[H1060\|בְּכ֣וֹר]]&#8207; </big>**| be.Khor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

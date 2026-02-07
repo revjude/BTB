@@ -1,4 +1,4 @@
-**Job 19:19** 
+**Job 19:19**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All my inward friends abhorred me: and they whom I loved are turned against me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All my best friends despise me, and those I love have turned against me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.18|<< Job 19:18]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.20|Job 19:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they abhor me  |**<big>&#8207;[[H8581\|תִּֽ֭עֲבוּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Ti.'a.vu.<small><sup>[[HVpp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

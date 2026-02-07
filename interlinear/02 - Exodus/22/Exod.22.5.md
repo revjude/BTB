@@ -1,4 +1,4 @@
-**Exodus 22:5** (22:4)
+**Exodus 22:5**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man shall cause a field or vineyard to be eaten, and shall put in his beast, and shall feed in another man’s field; of the best of his own field, and of the best of his own vineyard, shall he make restitution.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a man grazes his livestock in a field or vineyard and allows them to stray so
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.4|<< Exodus 22:4]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.6|Exodus 22:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will cause to be grazed over  |**<big>&#8207;[[H1197B\|יַבְעֶר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yav.'er-<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

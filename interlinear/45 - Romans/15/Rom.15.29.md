@@ -1,12 +1,12 @@
-**Romans 15:29
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:29**<big><big>[[Rom.15.23 Paul’s Travel Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I am sure that, when I come unto you, I shall come in the fulness of the blessing of the gospel of Christ.
 <small><sub>**BSB:**</sub></small>
 I know that when I come to you, I will come in the fullness of the blessing of Christ.
 <small><sub>**Literal:**</sub></small>
 I know now that coming to you in [the] fullness of the blessing of the gospel <the> of Christ I will come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.28|<< Romans 15:28]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.30|Romans 15:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I know |**<big>[[G6063\|οἶδα]]</big>**  |oida <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

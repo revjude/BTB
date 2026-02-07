@@ -1,4 +1,4 @@
-**Genesis 18:4** 
+**Genesis 18:4**<big><big>[[Gen.18.1 The Three Visitors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let a little water be brought, that you may wash your feet and rest yourselves u
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.3|<< Genesis 18:3]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.5|Genesis 18:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let it be brought  |**<big>&#8207;[[H3947J\|יֻקַּֽח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yu.kach-<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֣א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

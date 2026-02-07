@@ -1,12 +1,12 @@
-**Mark 14:71
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:71**<big><big>[[Mark.14.66 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he began to curse and to swear, [saying], I know not this man of whom ye speak.
 <small><sub>**BSB:**</sub></small>
 But he began to curse and swear, “I do not know this man of whom you speak!”
 <small><sub>**Literal:**</sub></small>
 <the> But he began to curse and to swear that Not I know <the> man this whom you speak of!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.70|<< Mark 14:70]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.72|Mark 14:72 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

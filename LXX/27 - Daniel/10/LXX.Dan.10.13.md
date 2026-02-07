@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the ruler of \[the\] kingdom of \[the\] Persians stood right opposite me twenty \[days\] and one day. And behold, Michael, one of the rulers of the ones foremost, came to help me; and I left him there with the ruler of \[the\] kingdom of \[the\] Persians. 
-<small><sub>**KJV:**</sub></small>
-But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.
-<small><sub>**BSB:**</sub></small>
-However, the prince of the kingdom of Persia opposed me for twenty-one days. Then Michael, one of the chief princes, came to help me, for I had been left there with the kings of Persia.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.12|<< Daniel 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.14|Daniel 10:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 10:13** is...

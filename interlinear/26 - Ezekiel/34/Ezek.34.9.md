@@ -1,4 +1,4 @@
-**Ezekiel 34:9** 
+**Ezekiel 34:9**<big><big>[[Ezek.34.1 A Prophecy against Israel’s Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, O ye shepherds, hear the word of the LORD;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ therefore, you shepherds, hear the word of the LORD!’
 > $\quad$ related to: [[Ps.44.22|Ps 44:22]] ☩ [[Zech.11.7|Zech 11:7]] ☩ [[Luke.11.49|Luke 11:49-50]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵן֙]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O shepherds  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H7462B\|רֹעִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ro.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 60:22** 
 <small><sub>**LXX:**</sub></small>
 The very few will be for thousands, and the least for a great nation. I \[the\] <span class="smallcaps">lord</span> in \[due\] time shall gather them. 
-<small><sub>**KJV:**</sub></small>
-A little one shall become a thousand, and a small one a strong nation: I the LORD will hasten it in his time.
-<small><sub>**BSB:**</sub></small>
-The least of you will become a thousand, and the smallest a mighty nation. I am the LORD; in its time I will accomplish it quickly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.60.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.21|<< Isaiah 60:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.61.1|Isaiah 61:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 25:39
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:39**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Or when saw we thee sick, or in prison, and came unto thee?
 <small><sub>**BSB:**</sub></small>
 When did we see You sick or in prison and visit You?’
 <small><sub>**Literal:**</sub></small>
 When now You saw we ailing or in prison and came to You?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.38|<< Matthew 25:38]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.40|Matthew 25:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G4219\|πότε]]</big>**  |pote <small><sup>[[PRT-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

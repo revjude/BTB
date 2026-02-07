@@ -1,10 +1,7 @@
 **LXX Genesis 30:38** 
 <small><sub>**LXX:**</sub></small>
 And he placed the rods which he peeled at the watering troughs of the channels of the water. That whenever the flocks came to drink in front of the rods of those having come to  drink, \[the rods\] should stimulate the flocks at the rods. 
-<small><sub>**KJV:**</sub></small>
-And he set the rods which he had pilled before the flocks in the gutters in the watering troughs when the flocks came to drink, that they should conceive when they came to drink.
-<small><sub>**BSB:**</sub></small>
-Then he set the peeled branches in the watering troughs in front of the flocks coming in to drink. So when the flocks were in heat and came to drink,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.37|<< Genesis 30:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.39|Genesis 30:39 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 66:9** 
 <small><sub>**LXX:**</sub></small>
 \[Even\] of the one who establishes  my soul for life, and not granting my feet for tossing about. 
-<small><sub>**KJV:**</sub></small>
-Which holdeth our soul in life, and suffereth not our feet to be moved.
-<small><sub>**BSB:**</sub></small>
-He preserves our lives and keeps our feet from slipping.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.66.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.66.8|<< Psalm 66:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.10|Psalm 66:10 >>]]</td></tr></table>
 
 | Translation | Greek |

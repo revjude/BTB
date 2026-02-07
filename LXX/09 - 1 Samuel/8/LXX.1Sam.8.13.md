@@ -1,10 +1,7 @@
 **LXX 1 Samuel 8:13** 
 <small><sub>**LXX:**</sub></small>
 And  your daughters he will take for perfumers, and for cooks, and for baking. 
-<small><sub>**KJV:**</sub></small>
-And he will take your daughters [to be] confectionaries, and [to be] cooks, and [to be] bakers.
-<small><sub>**BSB:**</sub></small>
-And he will take your daughters to be perfumers, cooks, and bakers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.8.12|<< 1 Samuel 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.8.14|1 Samuel 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

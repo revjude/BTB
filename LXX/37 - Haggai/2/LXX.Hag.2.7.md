@@ -1,10 +1,7 @@
 **LXX Haggai 2:7** 
 <small><sub>**LXX:**</sub></small>
 And I shall shake all the nations. And the chosen of all the nations shall come, and I will fill  this house \[with\] glory, says \[the\] <span class="smallcaps">lord</span> almighty. 
-<small><sub>**KJV:**</sub></small>
-And I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-I will shake all the nations, and they will come with all their treasures, and I will fill this house with glory, says the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.6|<< Haggai 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.8|Haggai 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Samuel 24:21** (24:22)
+**1 Samuel 24:21**<big><big>[[1Sam.24.16 David’s Oath to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Swear now therefore unto me by the LORD, that thou wilt not cut off my seed after me, and that thou wilt not destroy my name out of my father’s house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now, swear to me by the LORD that you will not cut off my descendants or wipe
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.20|<< 1 Samuel 24:20]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.22|1 Samuel 24:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | swear an oath !  |**<big>&#8207;[[H7650\|הִשָּׁ֤בְעָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| hi.Sha.ve.'a<small><sup>[[HVNv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |

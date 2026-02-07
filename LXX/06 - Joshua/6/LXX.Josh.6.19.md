@@ -1,10 +1,7 @@
 **LXX Joshua 6:19** 
 <small><sub>**LXX:**</sub></small>
 And all silver or gold, and all brass and iron, will be holy to the <span class="smallcaps">lord</span>; it shall be carried into \[the\] treasury \[of the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But all the silver, and gold, and vessels of brass and iron, [are] consecrated unto the LORD: they shall come into the treasury of the LORD.
-<small><sub>**BSB:**</sub></small>
-For all the silver and gold and all the articles of bronze and iron are holy to the LORD; they must go into His treasury.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.18|<< Joshua 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.20|Joshua 6:20 >>]]</td></tr></table>
 
 | Translation | Greek |

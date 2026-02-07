@@ -1,12 +1,12 @@
-**Matthew 7:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:14**<big><big>[[Matt.7.13 The Narrow Gate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because strait [is] the gate, and narrow [is] the way, which leadeth unto life, and few there be that find it.
 <small><sub>**BSB:**</sub></small>
 But small is the gate and narrow the way that leads to life, and only a few find it.
 <small><sub>**Literal:**</sub></small>
 Which small [is] the gate and compressed the way which is leading to <the> life, and few are those finding it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.13|<< Matthew 7:13]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.15|Matthew 7:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Which [^1] [^2] |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+Treg+Byz">N(K)O</abbr> | |
 | small [is] |**<big>[[G4728\|στενὴ]]</big>**  |stenē <small><sup>[[A-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

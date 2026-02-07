@@ -1,10 +1,7 @@
 **LXX Proverbs 27:10** 
 <small><sub>**LXX:**</sub></small>
 Your friend or paternal friend you should not abandon; but to the house  of your brother you should not enter in adversity; better a friend near, than a brother living far. 
-<small><sub>**KJV:**</sub></small>
-Thine own friend, and thy father’s friend, forsake not; neither go into thy brother’s house in the day of thy calamity: [for] better [is] a neighbour [that is] near than a brother far off.
-<small><sub>**BSB:**</sub></small>
-Do not forsake your friend or your father’s friend, and do not go to your brother’s house in the day of your calamity; better a neighbor nearby than a brother far away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.27.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.9|<< Proverbs 27:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.11|Proverbs 27:11 >>]]</td></tr></table>
 
 | Translation | Greek |

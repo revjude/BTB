@@ -1,4 +1,4 @@
-**2 Samuel 2:17** 
+**2 Samuel 2:17**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was a very sore battle that day; and Abner was beaten, and the men of Israel, before the servants of David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The battle that day was intense, and Abner and the men of Israel were defeated b
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.16|<< 2 Samuel 2:16]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.18|2 Samuel 2:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|תְּהִ֧י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Hi<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the battle  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4421\|מִּלְחָמָ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

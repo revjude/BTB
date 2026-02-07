@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:25** 
 <small><sub>**LXX:**</sub></small>
 And he went down from  Bama into the city. And they spread carpets  for Saul upon the roof, and he went to bed. 
-<small><sub>**KJV:**</sub></small>
-And when they were come down from the high place into the city, [Samuel] communed with Saul upon the top of the house.
-<small><sub>**BSB:**</sub></small>
-And after they had come down from the high place into the city, Samuel spoke with Saul on the roof of his house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.24|<< 1 Samuel 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.26|1 Samuel 9:26 >>]]</td></tr></table>
 
 | Translation | Greek |

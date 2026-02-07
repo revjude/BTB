@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 5:10** 
 <small><sub>**LXX:**</sub></small>
 And in the days of Saul they made war with the Hagarites, and they fell by  their hand, and they dwelt in  their tents upon all \[the\] face of \[the\] east \[parts\]  of Gilead. 
-<small><sub>**KJV:**</sub></small>
-And in the days of Saul they made war with the Hagarites, who fell by their hand: and they dwelt in their tents throughout all the east [land] of Gilead.
-<small><sub>**BSB:**</sub></small>
-During the days of Saul they waged war against the Hagrites, who were defeated at their hands, and they occupied the dwellings of the Hagrites throughout the region east of Gilead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.5.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.5.9|<< 1 Chronicles 5:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.5.11|1 Chronicles 5:11 >>]]</td></tr></table>
 
 | Translation | Greek |

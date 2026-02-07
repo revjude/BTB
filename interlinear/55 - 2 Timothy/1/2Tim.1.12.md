@@ -1,12 +1,12 @@
-**2 Timothy 1:12
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 1:12**<big><big>[[2Tim.1.3 Faithfulness under Persecution|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day.
 <small><sub>**BSB:**</sub></small>
 For this reason, even though I suffer as I do, I am not ashamed; for I know whom I have believed, and I am convinced that He is able to guard what I have entrusted to Him for that day.
 <small><sub>**Literal:**</sub></small>
 For this reason also these things I suffer, But not I am ashamed; I know for in whom I have believed and I have been persuaded that able He is the entrusted deposit of mine to guard for that [very] <the> day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.11|<< 2 Timothy 1:11]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.13|2 Timothy 1:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G1223\|δι᾽]]</big>**  |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3739\|ἣν]]</big>**  |hēn <small><sup>[[R-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

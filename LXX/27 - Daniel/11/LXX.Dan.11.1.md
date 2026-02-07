@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And I in \[the\] first year of Cyrus stood for might and strength. 
-<small><sub>**KJV:**</sub></small>
-Also I in the first year of Darius the Mede, [even] I, stood to confirm and to strengthen him.
-<small><sub>**BSB:**</sub></small>
-“And I, in the first year of Darius the Mede, stood up to strengthen and protect him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.21|<< Daniel 10:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.2|Daniel 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

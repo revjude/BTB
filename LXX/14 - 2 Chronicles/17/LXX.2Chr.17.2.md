@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 17:2** 
 <small><sub>**LXX:**</sub></small>
 And he put a force in all the fortified cities of Judah, and he put leaders in the land of Judah, and in the cities of Ephraim, which Asa his father first took. 
-<small><sub>**KJV:**</sub></small>
-And he placed forces in all the fenced cities of Judah, and set garrisons in the land of Judah, and in the cities of Ephraim, which Asa his father had taken.
-<small><sub>**BSB:**</sub></small>
-He stationed troops in every fortified city of Judah and put garrisons in the land of Judah and in the cities of Ephraim that his father Asa had captured.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.17.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.1|<< 2 Chronicles 17:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.3|2 Chronicles 17:3 >>]]</td></tr></table>
 
 | Translation | Greek |

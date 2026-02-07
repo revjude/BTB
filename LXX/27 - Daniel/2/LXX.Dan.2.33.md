@@ -1,10 +1,7 @@
 **LXX Daniel 2:33** 
 <small><sub>**LXX:**</sub></small>
 the legs iron, the feet part somewhat of iron, and part somewhat earthenware. 
-<small><sub>**KJV:**</sub></small>
-His legs of iron, his feet part of iron and part of clay.
-<small><sub>**BSB:**</sub></small>
-its legs were iron, and its feet were part iron and part clay.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.32|<< Daniel 2:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.34|Daniel 2:34 >>]]</td></tr></table>
 
 | Translation | Greek |

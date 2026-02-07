@@ -1,4 +1,4 @@
-**Ezekiel 23:14** 
+**Ezekiel 23:14**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [that] she increased her whoredoms: for when she saw men pourtrayed upon the wall, the images of the Chaldeans pourtrayed with vermilion,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Oholibah carried her prostitution even further. She saw the men portrayed on
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.13|<< Ezekiel 23:13]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.15|Ezekiel 23:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she added  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3254G\|תּ֖וֹסֶף]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.sef<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

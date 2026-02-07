@@ -1,4 +1,4 @@
-**1 Chronicles 13:2** 
+**1 Chronicles 13:2**<big><big>[[1Chr.13.1 David Fetches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said unto all the congregation of Israel, If [it seem] good unto you, and [that it be] of the LORD our God, let us send abroad unto our brethren every where, [that are] left in all the land of Israel, and with them [also] to the priests and Levites [which are] in their cities [and] suburbs, that they may gather themselves unto us:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he said to the whole assembly of Israel, “If it seems good to you, and if 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.1|<< 1 Chronicles 13:1]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.13.3|1 Chronicles 13:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֜יד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

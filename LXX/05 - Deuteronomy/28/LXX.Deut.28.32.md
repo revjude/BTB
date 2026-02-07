@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:32** 
 <small><sub>**LXX:**</sub></small>
  Your sons and  your daughters will be given to another nation, and  your eyes shall see being inflamed over them. And your hand shall not be strong. 
-<small><sub>**KJV:**</sub></small>
-Thy sons and thy daughters [shall be] given unto another people, and thine eyes shall look, and fail [with longing] for them all the day long: and [there shall be] no might in thine hand.
-<small><sub>**BSB:**</sub></small>
-Your sons and daughters will be given to another nation, while your eyes grow weary looking for them day after day, with no power in your hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.31|<< Deuteronomy 28:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.33|Deuteronomy 28:33 >>]]</td></tr></table>
 
 | Translation | Greek |

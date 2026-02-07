@@ -1,4 +1,4 @@
-**Psalms 58:7** (58:8)
+**Psalms 58:7**<big><big>[[Ps.58.1 God Judges the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them melt away as waters [which] run continually: [when] he bendeth [his bow to shoot] his arrows, let them be as cut in pieces.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May they vanish like water that runs off; when they draw the bow, may their arro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.6|<< Psalms 58:6]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.8|Psalms 58:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they flow  |**<big>&#8207;[[H3988B\|יִמָּאֲס֣וּ]]&#8207; </big>**| yi.ma.'a.Su<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like  |**<big>&#8207;[[H3644G\|כְמוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khe.mov-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

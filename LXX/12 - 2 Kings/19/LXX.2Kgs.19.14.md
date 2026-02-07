@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah took the scrolls from out of \[the\] hand of the messengers and read them. And he ascended into \[the\] house of \[the\] <span class="smallcaps">lord</span>, and Hezekiah unrolled them before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Hezekiah received the letter of the hand of the messengers, and read it: and Hezekiah went up into the house of the LORD, and spread it before the LORD.
-<small><sub>**BSB:**</sub></small>
-So Hezekiah received the letter from the messengers, read it, and went up to the house of the LORD and spread it out before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.13|<< 2 Kings 19:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.15|2 Kings 19:15 >>]]</td></tr></table>
 
 | Translation | Greek |

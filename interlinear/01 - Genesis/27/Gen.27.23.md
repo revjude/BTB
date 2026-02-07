@@ -1,4 +1,4 @@
-**Genesis 27:23** 
+**Genesis 27:23**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he discerned him not, because his hands were hairy, as his brother Esau’s hands: so he blessed him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Isaac did not recognize him, because his hands were hairy like those of his brot
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.22|<< Genesis 27:22]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.24|Genesis 27:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he recognized him  |**<big>&#8207;[[H5234A\|הִכִּיר֔]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| hi.ki.R<small><sup>[[HVhp3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

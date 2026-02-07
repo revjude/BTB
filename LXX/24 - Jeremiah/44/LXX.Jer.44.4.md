@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:4** 
 <small><sub>**LXX:**</sub></small>
 And I sent to you  my servants the prophets early. And I sent saying, You shall not do \[this\] thing,  this contamination of which I detested. 
-<small><sub>**KJV:**</sub></small>
-Howbeit I sent unto you all my servants the prophets, rising early and sending [them], saying, Oh, do not this abominable thing that I hate.
-<small><sub>**BSB:**</sub></small>
-Yet I sent you all My servants the prophets again and again, saying: ‘Do not do this detestable thing that I hate.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.3|<< Jeremiah 44:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.5|Jeremiah 44:5 >>]]</td></tr></table>
 
 | Translation | Greek |

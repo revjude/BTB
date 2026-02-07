@@ -1,10 +1,7 @@
 **LXX Exodus 11:6** 
 <small><sub>**LXX:**</sub></small>
 And there will be a great cry by all \[the\] land of Egypt, in which such as was not, and such as no longer shall be added. 
-<small><sub>**KJV:**</sub></small>
-And there shall be a great cry throughout all the land of Egypt, such as there was none like it, nor shall be like it any more.
-<small><sub>**BSB:**</sub></small>
-Then a great cry will go out over all the land of Egypt. Such an outcry has never been heard before and will never be heard again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.11.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.11.5|<< Exodus 11:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.11.7|Exodus 11:7 >>]]</td></tr></table>
 
 | Translation | Greek |

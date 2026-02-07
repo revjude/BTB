@@ -1,10 +1,7 @@
 **LXX Psalm 36:12** 
 <small><sub>**LXX:**</sub></small>
 There they fell -- all the ones working  lawlessness. They were pushed out, and in no way shall they be able to stand. 
-<small><sub>**KJV:**</sub></small>
-There are the workers of iniquity fallen: they are cast down, and shall not be able to rise.
-<small><sub>**BSB:**</sub></small>
-There the evildoers lie fallen, thrown down and unable to rise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.36.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.36.11|<< Psalm 36:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.1|Psalm 37:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 5:4** 
+**Numbers 5:4**<big><big>[[Num.5.1 Cleansing the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel did so, and put them out without the camp: as the LORD spake unto Moses, so did the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the Israelites did this, sending such people outside the camp. They did just 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.3|<< Numbers 5:3]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.5|Numbers 5:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they did  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|יַּֽעֲשׂוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.su-<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so  |**<big>&#8207;[[H3651C\|כֵן֙]]&#8207; </big>**| khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

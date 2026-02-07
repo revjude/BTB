@@ -1,10 +1,7 @@
 **LXX Song of Solomon 5:12** 
 <small><sub>**LXX:**</sub></small>
 His eyes \[are\] as doves by \[the\] fullnesses of waters, being bathed in milk, sitting down upon \[the\] fullnesses of waters. 
-<small><sub>**KJV:**</sub></small>
-His eyes [are] as [the eyes] of doves by the rivers of waters, washed with milk, [and] fitly set.
-<small><sub>**BSB:**</sub></small>
-His eyes are like doves beside the streams of water, bathed in milk and mounted like jewels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.5.11|<< Song of Solomon 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.5.13|Song of Solomon 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

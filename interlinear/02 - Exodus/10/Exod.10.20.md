@@ -1,4 +1,4 @@
-**Exodus 10:20** 
+**Exodus 10:20**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD hardened Pharaoh’s heart, so that he would not let the children of Israel go.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the LORD hardened Pharaoh’s heart, and he would not let the Israelites go.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.19|<< Exodus 10:19]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.21|Exodus 10:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made strong  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2388G\|יְחַזֵּ֥ק]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.cha.Zek<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

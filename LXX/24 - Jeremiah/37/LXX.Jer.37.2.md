@@ -1,10 +1,7 @@
 **LXX Jeremiah 37:2** 
 <small><sub>**LXX:**</sub></small>
 And he hearkened not, and  his servants, and the people of the land, of the words of \[the\] <span class="smallcaps">lord</span> which he spoke by \[the\] hand of Jeremiah. 
-<small><sub>**KJV:**</sub></small>
-But neither he, nor his servants, nor the people of the land, did hearken unto the words of the LORD, which he spake by the prophet Jeremiah.
-<small><sub>**BSB:**</sub></small>
-But he and his officers and the people of the land refused to obey the words that the LORD had spoken through Jeremiah the prophet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.37.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.1|<< Jeremiah 37:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.3|Jeremiah 37:3 >>]]</td></tr></table>
 
 | Translation | Greek |

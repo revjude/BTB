@@ -1,4 +1,4 @@
-**Isaiah 66:6** 
+**Isaiah 66:6**<big><big>[[Isa.66.1 Heaven Is My Throne|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A voice of noise from the city, a voice from the temple, a voice of the LORD that rendereth recompence to his enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hear the uproar from the city; listen to the voice from the temple! It is the vo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.5|<< Isaiah 66:5]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.7|Isaiah 66:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a sound of  |**<big>&#8207;[[H6963H\|ק֤וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an uproar  |**<big>&#8207;[[H7588\|שָׁאוֹן֙]]&#8207; </big>**| sha.'On<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

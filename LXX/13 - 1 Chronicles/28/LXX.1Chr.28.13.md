@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 28:13** 
 <small><sub>**LXX:**</sub></small>
 and for the divisions of daily rotations of the priests and the Levites, and for every work of ministration of \[the\] house of \[the\] <span class="smallcaps">lord</span>, and of the storehouses of the items of ministrations of the service of \[the\] house of \[the\] <span class="smallcaps">lord</span>; 
-<small><sub>**KJV:**</sub></small>
-Also for the courses of the priests and the Levites, and for all the work of the service of the house of the LORD, and for all the vessels of service in the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-for the divisions of the priests and Levites, for all the work of service in the house of the LORD, and for all the articles of service in the house of the LORD:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.12|<< 1 Chronicles 28:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.14|1 Chronicles 28:14 >>]]</td></tr></table>
 
 | Translation | Greek |

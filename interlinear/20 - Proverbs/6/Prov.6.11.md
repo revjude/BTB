@@ -1,4 +1,4 @@
-**Proverbs 6:11** 
+**Proverbs 6:11**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall thy poverty come as one that travelleth, and thy want as an armed man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and poverty will come upon you like a robber, and need like a bandit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.10|<< Proverbs 6:10]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.12|Proverbs 6:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> va'-<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a traveler  |**<big>&#8207;[[H9004\|כִ]]&#8207;&#8207;[[H1980N\|מְהַלֵּ֥ךְ]]&#8207; </big>**| khi<small><sup>[[HR]]</sup></small> m.ha.Lekh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Micah 7:20** 
 <small><sub>**LXX:**</sub></small>
 He shall give truth  to Jacob, mercy  to Abraham, in so far as you swore an oath \[to\] our fathers, according to the former days. 
-<small><sub>**KJV:**</sub></small>
-Thou wilt perform the truth to Jacob, [and] the mercy to Abraham, which thou hast sworn unto our fathers from the days of old.
-<small><sub>**BSB:**</sub></small>
-You will show faithfulness to Jacob and loving devotion to Abraham, as You swore to our fathers from the days of old.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.19|<< Micah 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.1|Nahum 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

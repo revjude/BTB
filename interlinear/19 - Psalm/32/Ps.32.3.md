@@ -1,4 +1,4 @@
-**Psalms 32:3** 
+**Psalms 32:3**<big><big>[[Ps.32.1 The Joy of Forgiveness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I kept silence, my bones waxed old through my roaring all the day long.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I kept silent, my bones became brittle from my groaning all day long.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.32.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.2|<< Psalms 32:2]]</td><td align="center" style="border:none;">[[Ps.32|Psalms 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32.4|Psalms 32:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I kept silent  |**<big>&#8207;[[H2790B\|הֶ֭חֱרַשְׁתִּי]]&#8207; </big>**| He.che.rash.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

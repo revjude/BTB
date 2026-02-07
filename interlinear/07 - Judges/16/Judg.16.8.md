@@ -1,4 +1,4 @@
-**Judges 16:8** 
+**Judges 16:8**<big><big>[[Judg.16.4 Samson and Delilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the lords of the Philistines brought up to her seven green withs which had not been dried, and she bound him with them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the lords of the Philistines brought her seven fresh bowstrings that had not 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.7|<< Judges 16:7]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.9|Judges 16:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they brought up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927H\|יַּעֲלוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.lu-<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> her  |**<big>&#8207;[[H9005\|לָ֞]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

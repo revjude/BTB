@@ -1,4 +1,4 @@
-**Joshua 15:59** 
+**Joshua 15:59**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Maarath, and Bethanoth, and Eltekon; six cities with their villages:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Maarath, Beth-anoth, and Eltekon—six cities, along with their villages.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.59|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.58|<< Joshua 15:58]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.60|Joshua 15:60 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Maarath  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4638\|מַעֲרָ֥ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.'a.Rat<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Beth  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1042\|בֵית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> veit-<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

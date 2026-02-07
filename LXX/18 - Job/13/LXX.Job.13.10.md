@@ -1,10 +1,7 @@
 **LXX Job 13:10** 
 <small><sub>**LXX:**</sub></small>
 in not one \[thing\] less shall he reprove you; but if also wonder secretly at persons. 
-<small><sub>**KJV:**</sub></small>
-He will surely reprove you, if ye do secretly accept persons.
-<small><sub>**BSB:**</sub></small>
-Surely He would rebuke you if you secretly showed partiality.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.13.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.9|<< Job 13:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.11|Job 13:11 >>]]</td></tr></table>
 
 | Translation | Greek |

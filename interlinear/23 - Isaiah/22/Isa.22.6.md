@@ -1,4 +1,4 @@
-**Isaiah 22:6** 
+**Isaiah 22:6**<big><big>[[Isa.22.1 The Valley of Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elam bare the quiver with chariots of men [and] horsemen, and Kir uncovered the shield.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Elam takes up a quiver, with chariots and horsemen, and Kir uncovers the shield.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.5|<< Isaiah 22:5]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.7|Isaiah 22:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Elam  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5867A\|עֵילָם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ei.Lam<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it took up  |**<big>&#8207;[[H5375H\|נָשָׂ֣א]]&#8207; </big>**| na.Sa'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

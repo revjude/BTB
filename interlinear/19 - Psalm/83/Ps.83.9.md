@@ -1,4 +1,4 @@
-**Psalms 83:9** (83:10)
+**Psalms 83:9**<big><big>[[Ps.83.1 O God, Be Not Silent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Do unto them as [unto] the Midianites; as [to] Sisera, as [to] Jabin, at the brook of Kison:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do to them as You did to Midian, as to Sisera and Jabin at the River Kishon,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.8|<< Psalms 83:8]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.10|Psalms 83:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do  |**<big>&#8207;[[H6213A\|עֲשֵֽׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.seh-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֥ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

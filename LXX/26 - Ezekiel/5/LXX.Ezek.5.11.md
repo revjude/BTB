@@ -1,10 +1,7 @@
 **LXX Ezekiel 5:11** 
 <small><sub>**LXX:**</sub></small>
 On account of this, as I live, says Adonai \[the\] <span class="smallcaps">lord</span>; Assuredly, because  you defiled my holy \[things\] in all  your loathsome things, and in all  your abominations, I also thrust you away; my eye will not spare, and I shall not show mercy. 
-<small><sub>**KJV:**</sub></small>
-Wherefore, [as] I live, saith the Lord GOD; Surely, because thou hast defiled my sanctuary with all thy detestable things, and with all thine abominations, therefore will I also diminish [thee]; neither shall mine eye spare, neither will I have any pity.
-<small><sub>**BSB:**</sub></small>
-Therefore as surely as I live, declares the Lord GOD, because you have defiled My sanctuary with all your detestable idols and abominations, I Myself will withdraw My favor; I will not look upon you with pity, nor will I spare you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.10|<< Ezekiel 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.12|Ezekiel 5:12 >>]]</td></tr></table>
 
 | Translation | Greek |

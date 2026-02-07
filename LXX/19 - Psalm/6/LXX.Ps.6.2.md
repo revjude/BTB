@@ -1,10 +1,7 @@
 **LXX Psalm 6:2** 
 <small><sub>**LXX:**</sub></small>
 Show mercy on me, O <span class="smallcaps">lord</span>! for I am weak. Heal me, O <span class="smallcaps">lord</span>! for my bones \[are\] disturbed, 
-<small><sub>**KJV:**</sub></small>
-Have mercy upon me, O LORD; for I [am] weak: O LORD, heal me; for my bones are vexed.
-<small><sub>**BSB:**</sub></small>
-Be merciful to me, O LORD, for I am frail; heal me, O LORD, for my bones are in agony.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.6.1|<< Psalm 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.6.3|Psalm 6:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:29** 
 <small><sub>**LXX:**</sub></small>
 In  those days in no way shall they say, The fathers ate an unripe grape, and  teeth of the children had tooth-chills. 
-<small><sub>**KJV:**</sub></small>
-In those days they shall say no more, The fathers have eaten a sour grape, and the children’s teeth are set on edge.
-<small><sub>**BSB:**</sub></small>
-“In those days, it will no longer be said: ‘The fathers have eaten sour grapes, and the teeth of the children are set on edge.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.28|<< Jeremiah 31:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.30|Jeremiah 31:30 >>]]</td></tr></table>
 
 | Translation | Greek |

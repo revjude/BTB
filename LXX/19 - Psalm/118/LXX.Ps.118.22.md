@@ -1,10 +1,7 @@
 **LXX Psalm 118:22** 
 <small><sub>**LXX:**</sub></small>
 \[The\] stone which the builders rejected, this one became for \[the\] head of \[the\] corner. 
-<small><sub>**KJV:**</sub></small>
-The stone [which] the builders refused is become the head [stone] of the corner.
-<small><sub>**BSB:**</sub></small>
-The stone the builders rejected has become the cornerstone.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.118.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.21|<< Psalm 118:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.23|Psalm 118:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 118:22** is...

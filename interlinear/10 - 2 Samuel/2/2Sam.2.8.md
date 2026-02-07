@@ -1,4 +1,4 @@
-**2 Samuel 2:8** 
+**2 Samuel 2:8**<big><big>[[2Sam.2.8 Ish-bosheth Made King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Abner the son of Ner, captain of Saul’s host, took Ishbosheth the son of Saul, and brought him over to Mahanaim;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Meanwhile, Abner son of Ner, the commander of Saul’s army, took Saul’s son I
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.7|<< 2 Samuel 2:7]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.9|2 Samuel 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Abner  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0074\|אַבְנֵ֣ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

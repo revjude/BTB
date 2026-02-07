@@ -1,4 +1,4 @@
-**Genesis 12:14** 
+**Genesis 12:14**<big><big>[[Gen.12.10 Abram and Sarai in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that, when Abram was come into Egypt, the Egyptians beheld the woman that she [was] very fair.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So when Abram entered Egypt, the Egyptians saw that the woman was very beautiful
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.13|<< Genesis 12:13]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.15|Genesis 12:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֕י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when entered  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0935G\|ב֥וֹא]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

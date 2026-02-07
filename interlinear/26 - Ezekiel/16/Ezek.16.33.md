@@ -1,4 +1,4 @@
-**Ezekiel 16:33** 
+**Ezekiel 16:33**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They give gifts to all whores: but thou givest thy gifts to all thy lovers, and hirest them, that they may come unto thee on every side for thy whoredom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Men give gifts to all their prostitutes, but you gave gifts to all your lovers. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.32|<< Ezekiel 16:32]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.34|Ezekiel 16:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to all  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> khol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prostitutes  |**<big>&#8207;[[H2181\|זֹנ֖וֹת]]&#8207; </big>**| zo.Not<small><sup>[[HVqrfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

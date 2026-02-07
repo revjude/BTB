@@ -1,12 +1,12 @@
-**Acts 28:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 28:10**<big><big>[[Acts.28.1 Ashore on Malta|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who also honoured us with many honours; and when we departed, they laded [us] with such things as were necessary.
 <small><sub>**BSB:**</sub></small>
 The islanders honored us in many ways and supplied our needs when we were ready to sail.
 <small><sub>**Literal:**</sub></small>
 who also with many honors honored us, and on setting sail they laid on [us] the [things] for the needs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.9|<< Acts 28:9]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.11|Acts 28:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|οἳ]]</big>**  |hoi <small><sup>[[R-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

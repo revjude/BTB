@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:43** 
 <small><sub>**LXX:**</sub></small>
 \[The\] king of Babylon heard the report of them, and his hands were disabled; affliction held him firmly, pangs as a woman giving birth. 
-<small><sub>**KJV:**</sub></small>
-The king of Babylon hath heard the report of them, and his hands waxed feeble: anguish took hold of him, [and] pangs as of a woman in travail.
-<small><sub>**BSB:**</sub></small>
-The king of Babylon has heard the report, and his hands hang limp. Anguish has gripped him, pain like that of a woman in labor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.42|<< Jeremiah 50:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.44|Jeremiah 50:44 >>]]</td></tr></table>
 
 | Translation | Greek |

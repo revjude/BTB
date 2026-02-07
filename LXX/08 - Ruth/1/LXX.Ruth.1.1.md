@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the days in the judging of the judges. And came to pass a famine in the land. And went forth a man from Beth-lehem  of Judea  to sojourn in \[the\] field of Moab, he, and  his wife, and  his two sons. 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons.
-<small><sub>**BSB:**</sub></small>
-In the days when the judges ruled, there was a famine in the land. And a certain man from Bethlehem in Judah, with his wife and two sons, went to reside in the land of Moab.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.25|<< Judges 21:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.1.2|Ruth 1:2 >>]]</td></tr></table>
 
 | Translation | Greek |

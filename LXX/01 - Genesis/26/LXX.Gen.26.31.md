@@ -1,10 +1,7 @@
 **LXX Genesis 26:31** 
 <small><sub>**LXX:**</sub></small>
 And rising up in the morning, each swore by an oath to the neighbor. And Isaac sent them out, and they moved away from him with safety. 
-<small><sub>**KJV:**</sub></small>
-And they rose up betimes in the morning, and sware one to another: and Isaac sent them away, and they departed from him in peace.
-<small><sub>**BSB:**</sub></small>
-And they got up early the next morning and swore an oath to each other. Then Isaac sent them on their way, and they left him in peace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.30|<< Genesis 26:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.32|Genesis 26:32 >>]]</td></tr></table>
 
 | Translation | Greek |

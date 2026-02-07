@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:43** 
 <small><sub>**LXX:**</sub></small>
 And he went in all \[the\] way of Asa  his father. He turned not aside from it,  to do the upright in \[the\] eyes of \[the\] <span class="smallcaps">lord</span>. Except the high \[places\] he did not lift away; for the people sacrificed and burnt incense on the high \[places\]. 
-<small><sub>**KJV:**</sub></small>
-And he walked in all the ways of Asa his father; he turned not aside from it, doing [that which was] right in the eyes of the LORD: nevertheless the high places were not taken away; [for] the people offered and burnt incense yet in the high places.
-<small><sub>**BSB:**</sub></small>
-And Jehoshaphat walked in all the ways of his father Asa; he did not turn away from them, but did what was right in the eyes of the LORD. The high places, however, were not removed; the people still sacrificed and burned incense on the high places.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.42|<< 1 Kings 22:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.44|1 Kings 22:44 >>]]</td></tr></table>
 
 | Translation | Greek |

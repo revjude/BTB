@@ -1,4 +1,4 @@
-**1 Chronicles 27:25** 
+**1 Chronicles 27:25**<big><big>[[1Chr.27.25 David’s Various Overseers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And over the king’s treasures [was] Azmaveth the son of Adiel: and over the storehouses in the fields, in the cities, and in the villages, and in the castles, [was] Jehonathan the son of Uzziah:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Azmaveth son of Adiel was in charge of the royal storehouses. Jonathan son of Uz
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.24|<< 1 Chronicles 27:24]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.26|1 Chronicles 27:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] over  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] storehouses of  |**<big>&#8207;[[H0214\|אֹצְר֣וֹת]]&#8207; </big>**| 'o.tze.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

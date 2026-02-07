@@ -1,10 +1,7 @@
 **LXX Judges 21:8** 
 <small><sub>**LXX:**</sub></small>
 And they said, What one \[is there\] of the tribes of Israel which did not ascend to \[the\] <span class="smallcaps">lord</span> in Mizpeh? And behold, no man came to the camp from Jabish Gilead to the assembly. 
-<small><sub>**KJV:**</sub></small>
-And they said, What one [is there] of the tribes of Israel that came not up to Mizpeh to the LORD? And, behold, there came none to the camp from Jabeshgilead to the assembly.
-<small><sub>**BSB:**</sub></small>
-So they asked, “Which one of the tribes of Israel failed to come up before the LORD at Mizpah?” And, in fact, no one from Jabesh-gilead had come to the camp for the assembly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.7|<< Judges 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.9|Judges 21:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 22:21** 
+**Job 22:21**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Acquaint now thyself with him, and be at peace: thereby good shall come unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Reconcile now and be at peace with Him; thereby good will come to you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.20|<< Job 22:20]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.22|Job 22:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be reconciled  |**<big>&#8207;[[H5532\|הַסְכֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| has.ken-<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֣א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

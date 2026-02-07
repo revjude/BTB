@@ -1,10 +1,7 @@
 **LXX Genesis 22:2** 
 <small><sub>**LXX:**</sub></small>
 And he said, Take  your son, the beloved, whom you loved --  Isaac! And go into the high land, and offer him there \[as\] a whole offering upon one of the mountains! which ever I may tell you. 
-<small><sub>**KJV:**</sub></small>
-And he said, Take now thy son, thine only [son] Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.
-<small><sub>**BSB:**</sub></small>
-“Take your son,” God said, “your only son Isaac, whom you love, and go to the land of Moriah. Offer him there as a burnt offering on one of the mountains, which I will show you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.1|<< Genesis 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.3|Genesis 22:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 22:2** is...

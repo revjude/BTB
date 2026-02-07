@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:24** 
 <small><sub>**LXX:**</sub></small>
 And I will recompense \[to\] Babylon and to all the Chaldeans dwelling \[there\] all  their evils which they did against Zion before your eyes, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And I will render unto Babylon and to all the inhabitants of Chaldea all their evil that they have done in Zion in your sight, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Before your very eyes I will repay Babylon and all the dwellers of Chaldea for all the evil they have done in Zion,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.23|<< Jeremiah 51:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.25|Jeremiah 51:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 12:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 12:12**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had considered [the thing], he came to the house of Mary the mother of John, whose surname was Mark; where many were gathered together praying.
 <small><sub>**BSB:**</sub></small>
 And when he had realized this, he went to the house of Mary the mother of John, also called Mark, where many people had gathered together and were praying.
 <small><sub>**Literal:**</sub></small>
 Having considered [it] also he came to the house <the> of Mary the mother of John who is called Mark, where were many gathered together and praying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.11|<< Acts 12:11]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.13|Acts 12:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having considered [it] |**<big>[[G4894\|συνιδών]]</big>**  |sunidōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

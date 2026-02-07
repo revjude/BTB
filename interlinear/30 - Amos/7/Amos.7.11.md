@@ -1,4 +1,4 @@
-**Amos 7:11** 
+**Amos 7:11**<big><big>[[Amos.7.10 Amaziah Accuses Amos|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus Amos saith, Jeroboam shall die by the sword, and Israel shall surely be led away captive out of their own land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for this is what Amos has said: ‘Jeroboam will die by the sword, and Israel wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.10|<< Amos 7:10]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.12|Amos 7:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹה֙]]&#8207; </big>**| khoh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

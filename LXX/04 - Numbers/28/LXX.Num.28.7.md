@@ -1,10 +1,7 @@
 **LXX Numbers 28:7** 
 <small><sub>**LXX:**</sub></small>
 And its libation -- the fourth \[part\] of the hin to the one lamb. In the holy \[place\] you shall offer a libation \[offering\] of liquor \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the drink offering thereof [shall be] the fourth [part] of an hin for the one lamb: in the holy [place] shalt thou cause the strong wine to be poured unto the LORD [for] a drink offering.
-<small><sub>**BSB:**</sub></small>
-The drink offering accompanying each lamb shall be a quarter hin. Pour out the offering of fermented drink to the LORD in the sanctuary area.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.6|<< Numbers 28:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.8|Numbers 28:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Esther 2:4** 
 <small><sub>**LXX:**</sub></small>
 And the woman who ever should be pleasing to the king shall reign instead of Vashti. And the thing pleased the king, and he did so. 
-<small><sub>**KJV:**</sub></small>
-And let the maiden which pleaseth the king be queen instead of Vashti. And the thing pleased the king; and he did so.
-<small><sub>**BSB:**</sub></small>
-Then let the young woman who pleases the king become queen in place of Vashti.” This suggestion pleased the king, and he acted accordingly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.3|<< Esther 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.5|Esther 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

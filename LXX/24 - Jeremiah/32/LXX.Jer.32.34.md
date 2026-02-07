@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:34** 
 <small><sub>**LXX:**</sub></small>
 And they put  their defilements in the house which my name was called upon by them in their uncleannesses. 
-<small><sub>**KJV:**</sub></small>
-But they set their abominations in the house, which is called by my name, to defile it.
-<small><sub>**BSB:**</sub></small>
-They have placed their abominations in the house that bears My Name, and so have defiled it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.33|<< Jeremiah 32:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.35|Jeremiah 32:35 >>]]</td></tr></table>
 
 | Translation | Greek |

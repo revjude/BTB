@@ -1,6 +1,6 @@
 (KJV) **Psalm 40**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39|<< Psalm 39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41|Psalm 41 >>]]</td></tr></table>
 
-***I Waited Patiently for the LORD*** <small><small>[^2]</small></small> &emsp;<small><sup>\[ [[Ps.70|Psalms 70:1–5]] <big>†</big> [[Heb.10|Hebrews 10:1–18]] ]</sup></small> ^bsb1333
+<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥃]]</big></big>***I Waited Patiently for the LORD*** <small><small>[^2]</small></small> &emsp;<small><sup>\[ [[Ps.70|Psalms 70:1–5]] <big>†</big> [[Heb.10|Hebrews 10:1–18]] ]</sup></small>
 
 
 

@@ -1,12 +1,12 @@
-**Acts 21:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:20**<big><big>[[Acts.21.17 Paul’s Arrival at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they heard [it], they glorified the Lord, and said unto him, Thou seest, brother, how many thousands of Jews there are which believe; and they are all zealous of the law:
 <small><sub>**BSB:**</sub></small>
 When they heard this, they glorified God. Then they said to Paul, “You see, brother, how many thousands of Jews have believed, and all of them are zealous for the law.
 <small><sub>**Literal:**</sub></small>
 Those then having heard were glorifying <the> God, They said then to him; You see brother, how many myriads there are among the Jews who having believed and all zealous ones for the law are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.19|<< Acts 21:19]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.21|Acts 21:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

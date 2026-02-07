@@ -1,12 +1,12 @@
-**2 Timothy 1:8
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 1:8**<big><big>[[2Tim.1.3 Faithfulness under Persecution|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be not thou therefore ashamed of the testimony of our Lord, nor of me his prisoner: but be thou partaker of the afflictions of the gospel according to the power of God;
 <small><sub>**BSB:**</sub></small>
 So do not be ashamed of the testimony of our Lord, or of me, His prisoner. Instead, join me in suffering for the gospel by the power of God.
 <small><sub>**Literal:**</sub></small>
 Not therefore you may be ashamed of the testimony of the Lord of us nor of me myself the prisoner of Him, but do suffer together for the gospel according to [the] power of God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.7|<< 2 Timothy 1:7]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.9|2 Timothy 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|Μὴ]]</big>**  |Mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

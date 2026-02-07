@@ -1,10 +1,7 @@
 **LXX Proverbs 10:10** 
 <small><sub>**LXX:**</sub></small>
 The beckoning eye with treachery gathers distresses for men; but the one reproving with an open manner makes peace. 
-<small><sub>**KJV:**</sub></small>
-He that winketh with the eye causeth sorrow: but a prating fool shall fall.
-<small><sub>**BSB:**</sub></small>
-He who winks the eye causes grief, and foolish lips will come to ruin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.9|<< Proverbs 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.11|Proverbs 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

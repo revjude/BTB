@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:2** 
 <small><sub>**LXX:**</sub></small>
 And I will gather you, and I will lead you down, and I will haul you from \[the\] extreme north, and I will lead you upon the mountains of Israel. 
-<small><sub>**KJV:**</sub></small>
-And I will turn thee back, and leave but the sixth part of thee, and will cause thee to come up from the north parts, and will bring thee upon the mountains of Israel:
-<small><sub>**BSB:**</sub></small>
-I will turn you around, drive you along, bring you up from the far north, and send you against the mountains of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.1|<< Ezekiel 39:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.3|Ezekiel 39:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Colossians 4:13
-**<small><sub>**KJV:**</sub></small>
+**Colossians 4:13**<big><big>[[Col.4.7 Greetings from Paul’s Fellow Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I bear him record, that he hath a great zeal for you, and them [that are] in Laodicea, and them in Hierapolis.
 <small><sub>**BSB:**</sub></small>
 For I testify about him that he goes to great pains for you and for those at Laodicea and Hierapolis.
 <small><sub>**Literal:**</sub></small>
 I bear witness for to him that he has great labour for you and those in Laodicea and [those] of them in Hiera polis.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.12|<< Colossians 4:12]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.14|Colossians 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I bear witness |**<big>[[G3140\|μαρτυρῶ]]</big>**  |marturō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

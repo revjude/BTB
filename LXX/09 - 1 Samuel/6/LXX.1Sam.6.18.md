@@ -1,10 +1,7 @@
 **LXX 1 Samuel 6:18** 
 <small><sub>**LXX:**</sub></small>
 And gold mice, according to \[the\] number of all the cities of the Philistines, of the five satraps, from \[the\] city being solidly \[fortified\], and unto \[the\] town of the Perezzite, and unto the great stone of which they placed upon it the ark of the covenant of \[the\] <span class="smallcaps">lord</span> until  this day in \[the\] field of Joshua, of the one of Beth-shemesh. 
-<small><sub>**KJV:**</sub></small>
-And the golden mice, [according to] the number of all the cities of the Philistines [belonging] to the five lords, [both] of fenced cities, and of country villages, even unto the great [stone of] Abel, whereon they set down the ark of the LORD: [which stone remaineth] unto this day in the field of Joshua, the Bethshemite.
-<small><sub>**BSB:**</sub></small>
-The number of gold rats also corresponded to the number of Philistine cities belonging to the five rulers—the fortified cities and their outlying villages. And the large rock on which they placed the ark of the LORD stands to this day in the field of Joshua of Beth-shemesh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.17|<< 1 Samuel 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.19|1 Samuel 6:19 >>]]</td></tr></table>
 
 | Translation | Greek |

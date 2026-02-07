@@ -1,12 +1,12 @@
-**Mark 14:5
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:5**<big><big>[[Mark.14.3 Jesus Anointed at Bethany|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For it might have been sold for more than three hundred pence, and have been given to the poor. And they murmured against her.
 <small><sub>**BSB:**</sub></small>
 It could have been sold for over three hundred denarii and the money given to the poor.” And they scolded her.
 <small><sub>**Literal:**</sub></small>
 Was possible for this <the> fragrant oil to have been sold [for] above denarii three hundred and to have been given to the poor; And they were grumbling at her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.4|<< Mark 14:4]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.6|Mark 14:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was possible |**<big>[[G1410\|ἠδύνατο]]</big>**  |ēdunato <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

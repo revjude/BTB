@@ -1,4 +1,4 @@
-**Song of Solomon 8:13** 
+**Song of Solomon 8:13**<big><big>[[Song.8.13 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou that dwellest in the gardens, the companions hearken to thy voice: cause me to hear [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You who dwell in the gardens, my companions are listening for your voice. Let me
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.12|<< Song of Solomon 8:12]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.14|Song of Solomon 8:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O [one who] dwells  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3427\|יוֹשֶׁ֣בֶת]]&#8207; </big>**[^1] | hai.<small><sup>[[HTd]]</sup></small> yo.She.vet<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 | in the gardens  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1588M\|גַּנִּ֗ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ga.Nim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

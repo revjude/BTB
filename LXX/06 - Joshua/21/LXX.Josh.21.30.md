@@ -1,10 +1,7 @@
 **LXX Joshua 21:30** 
 <small><sub>**LXX:**</sub></small>
 And from out of the tribe of Asher --  Mishal and the \[parts\] being separated  with it, and Abdon and the \[parts\] being separated  with it, 
-<small><sub>**KJV:**</sub></small>
-And out of the tribe of Asher, Mishal with her suburbs, Abdon with her suburbs,
-<small><sub>**BSB:**</sub></small>
-From the tribe of Asher they were given Mishal, Abdon,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.29|<< Joshua 21:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.31|Joshua 21:31 >>]]</td></tr></table>
 
 | Translation | Greek |

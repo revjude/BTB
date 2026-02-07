@@ -1,10 +1,7 @@
 **LXX Genesis 41:3** 
 <small><sub>**LXX:**</sub></small>
 And another seven oxen ascended after these from out of the river, shameful to the sight and thin in the flesh, and feeding by the oxen by the edge of the river. 
-<small><sub>**KJV:**</sub></small>
-And, behold, seven other kine came up after them out of the river, ill favoured and leanfleshed; and stood by the [other] kine upon the brink of the river.
-<small><sub>**BSB:**</sub></small>
-After them, seven other cows, sickly and thin, came up from the Nile and stood beside the well-fed cows on the bank of the river.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.2|<< Genesis 41:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.4|Genesis 41:4 >>]]</td></tr></table>
 
 | Translation | Greek |

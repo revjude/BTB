@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:78** 
 <small><sub>**LXX:**</sub></small>
 And of the other side of the Jordan by Jericho, according to \[the\] east of the Jordan, \[were given out\] from \[the\] tribe of Reuben --  Bezer in the wilderness and  her outskirts, and  Jahzah and  her outskirts, 
-<small><sub>**KJV:**</sub></small>
-And on the other side Jordan by Jericho, on the east side of Jordan, [were given them] out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,
-<small><sub>**BSB:**</sub></small>
-From the tribe of Reuben east of the Jordan opposite Jericho they were given Bezer in the wilderness, Jahzah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.78|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.77|<< 1 Chronicles 6:77]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.79|1 Chronicles 6:79 >>]]</td></tr></table>
 
 | Translation | Greek |

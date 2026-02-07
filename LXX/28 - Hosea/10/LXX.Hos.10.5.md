@@ -1,10 +1,7 @@
 **LXX Hosea 10:5** 
 <small><sub>**LXX:**</sub></small>
 To the calf of the house of On the ones dwelling Samaria shall sojourn; for his people mourned for it; and as they greatly embittered him, they shall rejoice over  his glory, for he was displaced from him. 
-<small><sub>**KJV:**</sub></small>
-The inhabitants of Samaria shall fear because of the calves of Bethaven: for the people thereof shall mourn over it, and the priests thereof [that] rejoiced on it, for the glory thereof, because it is departed from it.
-<small><sub>**BSB:**</sub></small>
-The people of Samaria will fear for the calf of Beth-aven. Indeed, its people will mourn over it with its idolatrous priests—those who rejoiced in its glory—for it has been taken from them into exile.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.10.4|<< Hosea 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.10.6|Hosea 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

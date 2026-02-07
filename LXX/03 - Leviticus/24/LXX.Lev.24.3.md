@@ -1,10 +1,7 @@
 **LXX Leviticus 24:3** 
 <small><sub>**LXX:**</sub></small>
 from outside the veil, in the tent of the testimony. Aaron and his sons shall burn it from evening until morning before \[the\] <span class="smallcaps">lord</span> perpetually -- an eternal law unto  your generations. 
-<small><sub>**KJV:**</sub></small>
-Without the vail of the testimony, in the tabernacle of the congregation, shall Aaron order it from the evening unto the morning before the LORD continually: [it shall be] a statute for ever in your generations.
-<small><sub>**BSB:**</sub></small>
-Outside the veil of the Testimony in the Tent of Meeting, Aaron is to tend the lamps continually before the LORD from evening until morning. This is to be a permanent statute for the generations to come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.24.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.2|<< Leviticus 24:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.4|Leviticus 24:4 >>]]</td></tr></table>
 
 | Translation | Greek |

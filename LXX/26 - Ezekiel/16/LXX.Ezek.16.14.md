@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:14** 
 <small><sub>**LXX:**</sub></small>
 And your name went forth among the nations in  your beauty; because it was being completed with attractiveness, in the beauty which I ordered up for you, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And thy renown went forth among the heathen for thy beauty: for it [was] perfect through my comeliness, which I had put upon thee, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-Your fame spread among the nations on account of your beauty, for it was perfect in the splendor I bestowed on you, declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.13|<< Ezekiel 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.15|Ezekiel 16:15 >>]]</td></tr></table>
 
 | Translation | Greek |

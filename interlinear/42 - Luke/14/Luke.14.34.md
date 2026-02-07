@@ -1,12 +1,12 @@
-**Luke 14:34
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:34**<big><big>[[Luke.14.34 Good Salt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Salt [is] good: but if the salt have lost his savour, wherewith shall it be seasoned?
 <small><sub>**BSB:**</sub></small>
 Salt is good, but if the salt loses its savor, with what will it be seasoned?
 <small><sub>**Literal:**</sub></small>
 Good [is] therefore the salt; if however even the salt shall become tasteless, with what will it be seasoned?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.33|<< Luke 14:33]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.35|Luke 14:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Good [is] |**<big>[[G2570G\|Καλὸν]]</big>**  |Kalon <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |

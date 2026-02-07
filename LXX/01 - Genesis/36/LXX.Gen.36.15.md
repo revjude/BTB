@@ -1,10 +1,7 @@
 **LXX Genesis 36:15** 
 <small><sub>**LXX:**</sub></small>
 These \[were\] \[the\] princes, sons of Esau. \[The\] sons of Eliphaz first-born of Esau -- prince Teman, prince Omar, prince Zepho, prince Kenaz, 
-<small><sub>**KJV:**</sub></small>
-These [were] dukes of the sons of Esau: the sons of Eliphaz the firstborn [son] of Esau; duke Teman, duke Omar, duke Zepho, duke Kenaz,
-<small><sub>**BSB:**</sub></small>
-These are the chiefs among the sons of Esau. The sons of Eliphaz the firstborn of Esau: Chiefs Teman, Omar, Zepho, Kenaz,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.14|<< Genesis 36:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.16|Genesis 36:16 >>]]</td></tr></table>
 
 | Translation | Greek |

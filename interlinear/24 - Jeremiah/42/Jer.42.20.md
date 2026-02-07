@@ -1,4 +1,4 @@
-**Jeremiah 42:20** 
+**Jeremiah 42:20**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For ye dissembled in your hearts, when ye sent me unto the LORD your God, saying, Pray for us unto the LORD our God; and according unto all that the LORD our God shall say, so declare unto us, and we will do [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For you have deceived yourselves by sending me to the LORD your God, saying, ‘
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.19|<< Jeremiah 42:19]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.21|Jeremiah 42:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you caused to err  [^1]|**<big>&#8207;[[H8582\|הִתְעֵיתֶם֮]]&#8207; </big>**[^2] | hit.'e.teim<small><sup>[[HVhp2mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

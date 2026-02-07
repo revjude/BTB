@@ -1,12 +1,12 @@
-**1 Corinthians 7:3
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:3**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband.
 <small><sub>**BSB:**</sub></small>
 The husband should fulfill his marital duty to his wife, and likewise the wife to her husband.
 <small><sub>**Literal:**</sub></small>
 To the wife the husband the debt good will should fulfill; likewise now also the wife to the husband.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.2|<< 1 Corinthians 7:2]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.4|1 Corinthians 7:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | wife |**<big>[[G1135H\|γυναικὶ]]</big>**  |gunaiki <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

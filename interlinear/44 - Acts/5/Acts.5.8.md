@@ -1,12 +1,12 @@
-**Acts 5:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:8**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Peter answered unto her, Tell me whether ye sold the land for so much? And she said, Yea, for so much.
 <small><sub>**BSB:**</sub></small>
 “Tell me,” said Peter, “is this the price you and your husband got for the land?” “Yes,” she answered, “that is the price.”
 <small><sub>**Literal:**</sub></small>
 Replied then to her <the> Peter; do tell me if for so much the land you sold? <the> And she said; Yes for so much.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.7|<< Acts 5:7]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.9|Acts 5:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Replied |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

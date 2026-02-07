@@ -1,12 +1,12 @@
-**Acts 14:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:14**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Which] when the apostles, Barnabas and Paul, heard [of], they rent their clothes, and ran in among the people, crying out,
 <small><sub>**BSB:**</sub></small>
 But when the apostles Barnabas and Paul found out about this, they tore their clothes and rushed into the crowd, shouting,
 <small><sub>**Literal:**</sub></small>
 Having heard however the apostles Barnabas and Paul having torn the garments of them rushed out into the crowd crying out<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.13|<< Acts 14:13]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.15|Acts 14:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|Ἀκούσαντες]]</big>**  |Akousantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

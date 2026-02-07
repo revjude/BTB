@@ -1,10 +1,7 @@
 **LXX Numbers 21:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> listened to the voice of Israel, and he delivered up the Canaanite unto his hand, and he devoted him to consumption, and  his cities. And they called the name  of that place, Anathema. 
-<small><sub>**KJV:**</sub></small>
-And the LORD hearkened to the voice of Israel, and delivered up the Canaanites; and they utterly destroyed them and their cities: and he called the name of the place Hormah.
-<small><sub>**BSB:**</sub></small>
-And the LORD heard Israel’s plea and delivered up the Canaanites. Israel devoted them and their cities to destruction; so they named the place Hormah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.2|<< Numbers 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.4|Numbers 21:4 >>]]</td></tr></table>
 
 | Translation | Greek |

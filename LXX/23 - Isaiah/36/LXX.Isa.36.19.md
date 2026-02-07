@@ -1,10 +1,7 @@
 **LXX Isaiah 36:19** 
 <small><sub>**LXX:**</sub></small>
 Where is the god of Hamath and Arpad? And where \[is\] the god of the city of Sepharvaim? \[Have\] they been able to rescue  Samaria from out of my hand? 
-<small><sub>**KJV:**</sub></small>
-Where [are] the gods of Hamath and Arphad? where [are] the gods of Sepharvaim? and have they delivered Samaria out of my hand?
-<small><sub>**BSB:**</sub></small>
-Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim? Have they delivered Samaria from my hand?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.36.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.18|<< Isaiah 36:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.20|Isaiah 36:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 55:10** (55:11)
+**Psalms 55:10**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Day and night they go about it upon the walls thereof: mischief also and sorrow [are] in the midst of it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Day and night they encircle the walls, while malice and trouble lie within.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.9|<< Psalms 55:9]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.11|Psalms 55:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | by day  |**<big>&#8207;[[H3119\|יוֹמָ֤ם]]&#8207; </big>**| yo.Mam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and night  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H3915\|לַ֗יְלָה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Lay.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

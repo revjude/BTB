@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:36** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, Because you hearkened not to the voice of \[the\] <span class="smallcaps">lord</span>, behold, \[as\] you run from me,  a lion shall strike you. And he went forth from him, and a lion found him, and struck him. 
-<small><sub>**KJV:**</sub></small>
-Then said he unto him, Because thou hast not obeyed the voice of the LORD, behold, as soon as thou art departed from me, a lion shall slay thee. And as soon as he was departed from him, a lion found him, and slew him.
-<small><sub>**BSB:**</sub></small>
-Then the prophet said to him, “Because you have not obeyed the voice of the LORD, as soon as you depart from me a lion will kill you.” And when he left, a lion found him and killed him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.35|<< 1 Kings 20:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.37|1 Kings 20:37 >>]]</td></tr></table>
 
 | Translation | Greek |

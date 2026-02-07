@@ -1,4 +1,4 @@
-**1 Chronicles 28:12** 
+**1 Chronicles 28:12**<big><big>[[1Chr.28.11 The Plans for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the pattern of all that he had by the spirit, of the courts of the house of the LORD, and of all the chambers round about, of the treasuries of the house of God, and of the treasuries of the dedicated things:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The plans contained everything David had in mind for the courts of the house of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.11|<< 1 Chronicles 28:11]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.13|1 Chronicles 28:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] pattern of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8403\|תַבְנִ֗ית]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tav.Nit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כֹּל֩]]&#8207; </big>**| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

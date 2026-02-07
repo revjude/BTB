@@ -1,4 +1,4 @@
-**Leviticus 25:53** 
+**Leviticus 25:53**<big><big>[[Lev.25.47 Redemption of Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] as a yearly hired servant shall he be with him: [and the other] shall not rule with rigour over him in thy sight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He shall be treated like a man hired from year to year, but a foreign owner must
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.52|<< Leviticus 25:52]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.54|Leviticus 25:54 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like a hired laborer of  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H7916\|שְׂכִ֥יר]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> s.Khir<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a year  |**<big>&#8207;[[H8141\|שָׁנָ֛ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

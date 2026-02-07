@@ -1,4 +1,4 @@
-**Ezekiel 34:27** 
+**Ezekiel 34:27**<big><big>[[Ezek.34.25 The Covenant of Peace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the tree of the field shall yield her fruit, and the earth shall yield her increase, and they shall be safe in their land, and shall know that I [am] the LORD, when I have broken the bands of their yoke, and delivered them out of the hand of those that served themselves of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The trees of the field will give their fruit, and the land will yield its produc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.26|<< Ezekiel 34:26]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.28|Ezekiel 34:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will give  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתַן֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Tan<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] tree[s] of  |**<big>&#8207;[[H6086H\|עֵ֨ץ]]&#8207; </big>**| 'etz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

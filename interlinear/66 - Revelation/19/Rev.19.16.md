@@ -1,12 +1,12 @@
-**Revelation 19:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:16**<big><big>[[Rev.19.11 The Rider on the White Horse|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he hath on [his] vesture and on his thigh a name written, KING OF KINGS, AND LORD OF LORDS.
 <small><sub>**BSB:**</sub></small>
 And He has a name written on His robe and on His thigh: KING OF KINGS AND LORD OF LORDS.
 <small><sub>**Literal:**</sub></small>
 And He has upon the robe and upon the thigh of Him <the> a name written: King of kings and Lord of Lords.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.15|<< Revelation 19:15]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.17|Revelation 19:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He has |**<big>[[G2192\|ἔχει]]</big>**  |echei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

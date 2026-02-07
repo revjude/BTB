@@ -1,10 +1,7 @@
 **LXX Daniel 3:20** 
 <small><sub>**LXX:**</sub></small>
 And he told strong men of strength shackling  Shadrach, Meshach, and Abed-nego, to cast \[them\] into the burning furnace fire. 
-<small><sub>**KJV:**</sub></small>
-And he commanded the most mighty men that [were] in his army to bind Shadrach, Meshach, and Abednego, [and] to cast [them] into the burning fiery furnace.
-<small><sub>**BSB:**</sub></small>
-and he commanded some mighty men of valor in his army to tie up Shadrach, Meshach, and Abednego and throw them into the blazing fiery furnace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.19|<< Daniel 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.21|Daniel 3:21 >>]]</td></tr></table>
 
 | Translation | Greek |

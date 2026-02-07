@@ -1,10 +1,7 @@
 **LXX Zephaniah 3:14** 
 <small><sub>**LXX:**</sub></small>
 Rejoice, O daughter of Zion! Proclaim \[out loud\], O daughter of Jerusalem! Be glad and delight yourself with your entire heart, O daughter of Jerusalem! 
-<small><sub>**KJV:**</sub></small>
-Sing, O daughter of Zion; shout, O Israel; be glad and rejoice with all the heart, O daughter of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Sing for joy, O Daughter of Zion; shout aloud, O Israel! Be glad and rejoice with all your heart, O Daughter of Jerusalem!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.13|<< Zephaniah 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.15|Zephaniah 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

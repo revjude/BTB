@@ -1,10 +1,7 @@
 **LXX Job 9:3** 
 <small><sub>**LXX:**</sub></small>
 For if he should want to enter into judgment with him, in no way shall \[God\] obey him, \[so\] that he shall not contradict with one word of his from out of a thousand. 
-<small><sub>**KJV:**</sub></small>
-If he will contend with him, he cannot answer him one of a thousand.
-<small><sub>**BSB:**</sub></small>
-If one wished to contend with God, he could not answer Him one time out of a thousand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.2|<< Job 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.4|Job 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 2:35
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:35**<big><big>[[Luke.2.25 The Prophecy of Simeon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed.
 <small><sub>**BSB:**</sub></small>
 so that the thoughts of many hearts will be revealed—and a sword will pierce your soul as well.”
 <small><sub>**Literal:**</sub></small>
 and of you also of her the soul will go through a sword — so that maybe may be revealed of many hearts [the] thoughts.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.34|<< Luke 2:34]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.36|Luke 2:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of you |**<big>[[G4771\|σοῦ]]</big>**  |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

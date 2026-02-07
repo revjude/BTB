@@ -1,12 +1,12 @@
-**Matthew 27:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:6**<big><big>[[Matt.27.3 Judas Hangs Himself|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood.
 <small><sub>**BSB:**</sub></small>
 The chief priests picked up the pieces of silver and said, “It is unlawful to put this into the treasury, since it is blood money.”
 <small><sub>**Literal:**</sub></small>
 <the> And the chief priests having taken the pieces of silver said; Not it is lawful to put them into the treasury since [the] price of blood it is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.5|<< Matthew 27:5]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.7|Matthew 27:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

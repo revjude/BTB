@@ -1,10 +1,7 @@
 **LXX Ezra 10:29** 
 <small><sub>**LXX:**</sub></small>
 And of the sons of Bani -- Meshullam, and Malluch, and Adaiah, and Jashub, and Sheal, and Ramoth. 
-<small><sub>**KJV:**</sub></small>
-And of the sons of Bani; Meshullam, Malluch, and Adaiah, Jashub, and Sheal, and Ramoth.
-<small><sub>**BSB:**</sub></small>
-From the descendants of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.28|<< Ezra 10:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.30|Ezra 10:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 24:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:2**<big><big>[[Matt.24.1 Temple Destruction and Other Signs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said unto them, See ye not all these things? verily I say unto you, There shall not be left here one stone upon another, that shall not be thrown down.
 <small><sub>**BSB:**</sub></small>
 “Do you see all these things?” He replied. “Truly I tell you, not one stone here will be left on another; every one will be thrown down.”
 <small><sub>**Literal:**</sub></small>
 <the> And answering Jesus He said to them; Not do you see these things all Amen I say to you; certainly not even may be left here stone upon stone which not indeed will be thrown down.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.1|<< Matthew 24:1]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.3|Matthew 24:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

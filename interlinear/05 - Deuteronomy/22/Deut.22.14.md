@@ -1,4 +1,4 @@
-**Deuteronomy 22:14** 
+**Deuteronomy 22:14**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he then accuses her of shameful conduct and gives her a bad name, saying, �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.13|<< Deuteronomy 22:13]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.15|Deuteronomy 22:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760J\|שָׂ֥ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Sam<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> her  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9034\|הּ֙]]&#8207; </big>**| la<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

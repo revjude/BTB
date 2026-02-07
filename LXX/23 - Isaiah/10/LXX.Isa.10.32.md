@@ -1,10 +1,7 @@
 **LXX Isaiah 10:32** 
 <small><sub>**LXX:**</sub></small>
 Enjoin \[them\] today to abide in \[the\] way! Enjoin  the mountain  daughter of Zion, and the hills in Jerusalem! 
-<small><sub>**KJV:**</sub></small>
-As yet shall he remain at Nob that day: he shall shake his hand [against] the mount of the daughter of Zion, the hill of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Yet today they will halt at Nob, shaking a fist at the mount of Daughter Zion, at the hill of Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.31|<< Isaiah 10:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.33|Isaiah 10:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 4:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:23**<big><big>[[Acts.4.23 The Believers’ Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And being let go, they went to their own company, and reported all that the chief priests and elders had said unto them.
 <small><sub>**BSB:**</sub></small>
 On their release, Peter and John returned to their own people and reported everything that the chief priests and elders had said to them.
 <small><sub>**Literal:**</sub></small>
 Having been let go now they came to <the> [their] own and reported as much as to them the chief priests and the elders had said.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.22|<< Acts 4:22]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.24|Acts 4:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having been let go |**<big>[[G0630G\|Ἀπολυθέντες]]</big>**  |Apoluthentes <small><sup>[[V-APP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

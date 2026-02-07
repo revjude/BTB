@@ -1,4 +1,4 @@
-**Exodus 28:17** 
+**Exodus 28:17**<big><big>[[Exod.28.15 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt set in it settings of stones, [even] four rows of stones: [the first] row [shall be] a sardius, a topaz, and a carbuncle: [this shall be] the first row.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And mount on it a setting of gemstones, four rows of stones: In the first row th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.16|<< Exodus 28:16]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.18|Exodus 28:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will fill  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4390\|מִלֵּאתָ֥]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> mi.le.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> it  |**<big>&#8207;[[H9003\|ב]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| v<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 115:7** 
+**Psalms 115:7**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have hands, but they handle not: feet have they, but they walk not: neither speak they through their throat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ they have hands, but cannot feel; they have feet, but cannot walk; they cannot e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.6|<< Psalms 115:6]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.8|Psalms 115:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hands their  |**<big>&#8207;[[H3027G\|יְדֵי]]&#8207;&#8207;[[H9028\|הֶ֤ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ye.dei.<small><sup>[[HNcbdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֬א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

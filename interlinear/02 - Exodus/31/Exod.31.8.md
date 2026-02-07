@@ -1,4 +1,4 @@
-**Exodus 31:8** 
+**Exodus 31:8**<big><big>[[Exod.31.1 Bezalel and Oholiab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the table and his furniture, and the pure candlestick with all his furniture, and the altar of incense,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the table with its utensils, the pure gold lampstand with all its utensils, the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.31.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.7|<< Exodus 31:7]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.9|Exodus 31:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the table  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7979\|שֻּׁלְחָן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> shul.Chan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

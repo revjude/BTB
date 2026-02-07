@@ -1,10 +1,7 @@
 **LXX Job 18:6** 
 <small><sub>**LXX:**</sub></small>
  his light \[will be\] darkness in \[his\] habitation, and the lamp over him shall be extinguished. 
-<small><sub>**KJV:**</sub></small>
-The light shall be dark in his tabernacle, and his candle shall be put out with him.
-<small><sub>**BSB:**</sub></small>
-The light in his tent grows dark, and the lamp beside him goes out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.18.5|<< Job 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.7|Job 18:7 >>]]</td></tr></table>
 
 | Translation | Greek |

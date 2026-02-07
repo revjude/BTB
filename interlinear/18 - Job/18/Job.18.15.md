@@ -1,4 +1,4 @@
-**Job 18:15** 
+**Job 18:15**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall dwell in his tabernacle, because [it is] none of his: brimstone shall be scattered upon his habitation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Fire resides in his tent; burning sulfur rains down on his dwelling.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.14|<< Job 18:14]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.16|Job 18:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it dwells  |**<big>&#8207;[[H7931\|תִּשְׁכּ֣וֹן]]&#8207; </big>**| tish.Kon<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in tent his  |**<big>&#8207;[[H9003\|בְּ֭]]&#8207;&#8207;[[H0168G\|אָהֳל]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'o.ho.l<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

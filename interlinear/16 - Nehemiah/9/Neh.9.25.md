@@ -1,4 +1,4 @@
-**Nehemiah 9:25** 
+**Nehemiah 9:25**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took strong cities, and a fat land, and possessed houses full of all goods, wells digged, vineyards, and oliveyards, and fruit trees in abundance: so they did eat, and were filled, and became fat, and delighted themselves in thy great goodness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They captured fortified cities and fertile land and took houses full of all good
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.24|<< Nehemiah 9:24]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.26|Nehemiah 9:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they captured  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H3920\|יִּלְכְּד֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yil.ke.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cities  |**<big>&#8207;[[H5892B\|עָרִ֣ים]]&#8207; </big>**| 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

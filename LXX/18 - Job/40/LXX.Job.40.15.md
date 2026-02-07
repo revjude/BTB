@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 But indeed, behold, \[the\] wild beast by you; it eats grass equal to oxen. 
-<small><sub>**KJV:**</sub></small>
-Behold now behemoth, which I made with thee; he eateth grass as an ox.
-<small><sub>**BSB:**</sub></small>
-Look at Behemoth, which I made along with you. He feeds on grass like an ox.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.40.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.14|<< Job 40:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.16|Job 40:16 >>]]</td></tr></table>
 
 | Translation | Greek |

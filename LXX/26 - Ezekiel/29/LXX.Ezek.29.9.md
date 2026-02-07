@@ -1,10 +1,7 @@
 **LXX Ezekiel 29:9** 
 <small><sub>**LXX:**</sub></small>
 And the land of Egypt will be \[for\] destruction and desolation. And they shall know that I am \[the\] <span class="smallcaps">lord</span>, because of  your saying, The rivers are mine and I made them. 
-<small><sub>**KJV:**</sub></small>
-And the land of Egypt shall be desolate and waste; and they shall know that I [am] the LORD: because he hath said, The river [is] mine, and I have made [it].
-<small><sub>**BSB:**</sub></small>
-The land of Egypt will become a desolate wasteland. Then they will know that I am the LORD. Because you said, ‘The Nile is mine; I made it,’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.29.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.8|<< Ezekiel 29:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.10|Ezekiel 29:10 >>]]</td></tr></table>
 
 | Translation | Greek |

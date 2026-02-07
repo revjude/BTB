@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:29** 
 <small><sub>**LXX:**</sub></small>
 And Israel shall be divided into two, and he shall not turn, nor the holy one of Israel change his mind, for not as a man is he  to change the mind. 
-<small><sub>**KJV:**</sub></small>
-And also the Strength of Israel will not lie nor repent: for he [is] not a man, that he should repent.
-<small><sub>**BSB:**</sub></small>
-Moreover, the Glory of Israel does not lie or change His mind, for He is not a man, that He should change His mind.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.28|<< 1 Samuel 15:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.30|1 Samuel 15:30 >>]]</td></tr></table>
 
 | Translation | Greek |

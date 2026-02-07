@@ -1,4 +1,4 @@
-**Ezekiel 4:6** 
+**Ezekiel 4:6**<big><big>[[Ezek.4.1 A Sign of Jerusalem’s Siege|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when thou hast accomplished them, lie again on thy right side, and thou shalt bear the iniquity of the house of Judah forty days: I have appointed thee each day for a year.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you have completed these days, lie down again, but on your right side, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.5|<< Ezekiel 4:5]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.7|Ezekiel 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will complete  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3615G\|כִלִּיתָ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khi.li.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

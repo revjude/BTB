@@ -1,4 +1,4 @@
-**Proverbs 11:13** 
+**Proverbs 11:13**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A gossip reveals a secret, but a trustworthy person keeps a confidence.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.12|<< Proverbs 11:12]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.14|Proverbs 11:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] goes about  |**<big>&#8207;[[H1980G\|הוֹלֵ֣ךְ]]&#8207; </big>**| ho.Lekh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a slanderer  |**<big>&#8207;[[H7400\|רָ֭כִיל]]&#8207; </big>**| Ra.khil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

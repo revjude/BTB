@@ -1,4 +1,4 @@
-**Exodus 28:11** 
+**Exodus 28:11**<big><big>[[Exod.28.6 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With the work of an engraver in stone, [like] the engravings of a signet, shalt thou engrave the two stones with the names of the children of Israel: thou shalt make them to be set in ouches of gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Engrave the names of the sons of Israel on the two stones the way a gem cutter e
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.10|<< Exodus 28:10]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.12|Exodus 28:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] work of  |**<big>&#8207;[[H4639G\|מַעֲשֵׂ֣ה]]&#8207; </big>**| ma.'a.Seh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an engraver of  |**<big>&#8207;[[H2796\|חָרַשׁ֮]]&#8207; </big>**| cha.Rash<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

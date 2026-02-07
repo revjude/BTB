@@ -1,10 +1,7 @@
 **LXX Exodus 37:13** 
 <small><sub>**LXX:**</sub></small>
 And he cast for it four golden rings. And he placed the four rings upon the four parts  by \[its\] feet. 
-<small><sub>**KJV:**</sub></small>
-And he cast for it four rings of gold, and put the rings upon the four corners that [were] in the four feet thereof.
-<small><sub>**BSB:**</sub></small>
-He cast four gold rings for the table and fastened them to the four corners at its four legs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.12|<< Exodus 37:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.14|Exodus 37:14 >>]]</td></tr></table>
 
 | Translation | Greek |

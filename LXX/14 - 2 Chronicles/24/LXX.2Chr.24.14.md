@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:14** 
 <small><sub>**LXX:**</sub></small>
 And as they completed, they brought to the king and to Jehoiada the rest of the money, and they made \[with\] it items for \[the\] house of \[the\] <span class="smallcaps">lord</span>, items for \[the\] ministry, and of the whole burnt-offerings, and incense pans, and gold and silver vessels. And they offered whole burnt-offerings in the house of \[the\] <span class="smallcaps">lord</span> continually all the days of Jehoiada. 
-<small><sub>**KJV:**</sub></small>
-And when they had finished [it], they brought the rest of the money before the king and Jehoiada, whereof were made vessels for the house of the LORD, [even] vessels to minister, and to offer [withal], and spoons, and vessels of gold and silver. And they offered burnt offerings in the house of the LORD continually all the days of Jehoiada.
-<small><sub>**BSB:**</sub></small>
-When they were finished, they brought the rest of the money to the king and Jehoiada, and with it were made articles for the house of the LORD—utensils for the service and for the burnt offerings, dishes, and other objects of gold and silver. Throughout the days of Jehoiada, burnt offerings were presented regularly in the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.13|<< 2 Chronicles 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.15|2 Chronicles 24:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:34** 
 <small><sub>**LXX:**</sub></small>
 And the land having been obliterated shall be worked; for reason that being obliterated according to \[the\] eyes of all traveling by. 
-<small><sub>**KJV:**</sub></small>
-And the desolate land shall be tilled, whereas it lay desolate in the sight of all that passed by.
-<small><sub>**BSB:**</sub></small>
-The desolate land will be cultivated instead of lying desolate in the sight of all who pass through.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.33|<< Ezekiel 36:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.35|Ezekiel 36:35 >>]]</td></tr></table>
 
 | Translation | Greek |

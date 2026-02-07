@@ -1,4 +1,4 @@
-**Ezra 8:27** 
+**Ezra 8:27**<big><big>[[Ezra.8.24 Priests to Guard the Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also twenty basons of gold, of a thousand drams; and two vessels of fine copper, precious as gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Also twenty basons of gold, of a thousand drams; and two vessels of fine copper,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.26|<< Ezra 8:26]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.28|Ezra 8:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and bowls of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3713A\|כְפֹרֵ֤י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.fo.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gold  |**<big>&#8207;[[H2091\|זָהָב֙]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Hebrews 7:26
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:26**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For such an high priest became us, [who is] holy, harmless, undefiled, separate from sinners, and made higher than the heavens;
 <small><sub>**BSB:**</sub></small>
 Such a high priest truly befits us—One who is holy, innocent, undefiled, set apart from sinners, and exalted above the heavens.
 <small><sub>**Literal:**</sub></small>
 Such indeed for us also was fitting a high priest, holy, innocent, undefiled, separated from <the> sinners, and higher than the heavens having become;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.25|<< Hebrews 7:25]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.27|Hebrews 7:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Such |**<big>[[G5108\|Τοιοῦτος]]</big>**  |Toioutos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

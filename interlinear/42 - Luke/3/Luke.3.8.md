@@ -1,12 +1,12 @@
-**Luke 3:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 3:8**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to [our] father: for I say unto you, That God is able of these stones to raise up children unto Abraham.
 <small><sub>**BSB:**</sub></small>
 Produce fruit, then, in keeping with repentance. And do not begin to say to yourselves, ‘We have Abraham as our father.’ For I tell you that out of these stones God can raise up children for Abraham.
 <small><sub>**Literal:**</sub></small>
 do produce therefore fruits worthy <the> of repentance; and not may begin to say in yourselves; [As] father We have <the> Abraham. I say for to you that is able <the> God from <the> stones these to raise up children <the> to Abraham.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.7|<< Luke 3:7]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.9|Luke 3:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do produce |**<big>[[G4160G\|ποιήσατε]]</big>**  |poiēsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

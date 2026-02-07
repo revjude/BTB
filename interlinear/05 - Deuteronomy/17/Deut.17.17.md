@@ -1,4 +1,4 @@
-**Deuteronomy 17:17** 
+**Deuteronomy 17:17**<big><big>[[Deut.17.14 Guidelines for a King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall he multiply wives to himself, that his heart turn not away: neither shall he greatly multiply to himself silver and gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He must not take many wives for himself, lest his heart go astray. He must not a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.16|<< Deuteronomy 17:16]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.18|Deuteronomy 17:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will increase  |**<big>&#8207;[[H7235A\|יַרְבֶּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yar.beh-<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

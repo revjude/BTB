@@ -1,4 +1,4 @@
-**Genesis 31:41** 
+**Genesis 31:41**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus have I been twenty years in thy house; I served thee fourteen years for thy two daughters, and six years for thy cattle: and thou hast changed my wages ten times.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus for twenty years I have served in your household—fourteen years for your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.40|<< Genesis 31:40]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.42|Genesis 31:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2088\|זֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| zeh-<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belonged] to \<the> me  |**<big>&#8207;[[H9005\|לִּ֞]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 89:45** 
 <small><sub>**LXX:**</sub></small>
 You diminished the days  of his throne. You poured upon him shame. 
-<small><sub>**KJV:**</sub></small>
-The days of his youth hast thou shortened: thou hast covered him with shame. Selah.
-<small><sub>**BSB:**</sub></small>
-You have cut short the days of his youth; You have covered him with shame. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.44|<< Psalm 89:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.46|Psalm 89:46 >>]]</td></tr></table>
 
 | Translation | Greek |

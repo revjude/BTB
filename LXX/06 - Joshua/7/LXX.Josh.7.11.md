@@ -1,10 +1,7 @@
 **LXX Joshua 7:11** 
 <small><sub>**LXX:**</sub></small>
 The people have sinned, and violated  my covenant which I ordained with it. For even they took from the offering for consumption, and stealing they lie, and they cast the items for themselves. 
-<small><sub>**KJV:**</sub></small>
-Israel hath sinned, and they have also transgressed my covenant which I commanded them: for they have even taken of the accursed thing, and have also stolen, and dissembled also, and they have put [it] even among their own stuff.
-<small><sub>**BSB:**</sub></small>
-Israel has sinned; they have transgressed My covenant that I commanded them, and they have taken some of what was devoted to destruction. Indeed, they have stolen and lied, and they have put these things with their own possessions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.10|<< Joshua 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.12|Joshua 7:12 >>]]</td></tr></table>
 
 | Translation | Greek |

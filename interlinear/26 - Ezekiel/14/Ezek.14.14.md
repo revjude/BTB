@@ -1,4 +1,4 @@
-**Ezekiel 14:14** 
+**Ezekiel 14:14**<big><big>[[Ezek.14.12 Four Dire Judgments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though these three men, Noah, Daniel, and Job, were in it, they should deliver [but] their own souls by their righteousness, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then even if these three men—Noah, Daniel, and Job—were in it, their righteo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.13|<< Ezekiel 14:13]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.15|Ezekiel 14:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H1961\|הָיוּ]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ha.yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] three  |**<big>&#8207;[[H7969\|שְׁלֹ֨שֶׁת]]&#8207; </big>**| she.Lo.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

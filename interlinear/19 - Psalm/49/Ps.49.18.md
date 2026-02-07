@@ -1,4 +1,4 @@
-**Psalms 49:18** (49:19)
+**Psalms 49:18**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though while he lived he blessed his soul: and [men] will praise thee, when thou doest well to thyself.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Though in his lifetime he blesses his soul—and men praise you when you prosper
 > $\quad$ referenced by: [[1Tim.6.7|1Tim 6:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | self his  |**<big>&#8207;[[H5315G\|נַ֭פְשׁ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| naf.sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

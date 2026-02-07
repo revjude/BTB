@@ -1,4 +1,4 @@
-**2 Samuel 14:16** 
+**2 Samuel 14:16**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the king will hear, to deliver his handmaid out of the hand of the man [that would] destroy me and my son together out of the inheritance of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the king will hear and deliver his maidservant from the hand of the man who 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.15|<< 2 Samuel 14:15]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.17|2 Samuel 14:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֚י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will hear  |**<big>&#8207;[[H8085G\|יִשְׁמַ֣ע]]&#8207; </big>**| yish.Ma'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

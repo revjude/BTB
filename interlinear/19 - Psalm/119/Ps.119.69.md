@@ -1,4 +1,4 @@
-**Psalms 119:69** 
+**Psalms 119:69**<big><big>[[Ps.119.65 Your Word Is a Lamp to My Feet - TETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The proud have forged a lie against me: [but] I will keep thy precepts with [my] whole heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though the arrogant have smeared me with lies, I keep Your precepts with all my 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.69|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.68|<< Psalms 119:68]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.70|Psalms 119:70 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have smeared  |**<big>&#8207;[[H2950\|טָפְל֬וּ]]&#8207; </big>**| ta.fe.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on me  |**<big>&#8207;[[H5921A\|עָלַ֣]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

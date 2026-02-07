@@ -1,10 +1,7 @@
 **LXX Esther 8:10** 
 <small><sub>**LXX:**</sub></small>
 And it was written through the king, and the seal was set by  his ring, and they sent out the letters by couriers, 
-<small><sub>**KJV:**</sub></small>
-And he wrote in the king Ahasuerus’ name, and sealed [it] with the king’s ring, and sent letters by posts on horseback, [and] riders on mules, camels, [and] young dromedaries:
-<small><sub>**BSB:**</sub></small>
-Mordecai wrote in the name of King Xerxes and sealed it with the royal signet ring. He sent the documents by mounted couriers riding on swift horses bred from the royal mares.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.9|<< Esther 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.11|Esther 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

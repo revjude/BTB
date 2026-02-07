@@ -1,12 +1,12 @@
-**Matthew 13:56
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:56**<big><big>[[Matt.13.53 The Rejection at Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And his sisters, are they not all with us? Whence then hath this [man] all these things?
 <small><sub>**BSB:**</sub></small>
 Aren’t all His sisters with us as well? Where then did this man get all these things?”
 <small><sub>**Literal:**</sub></small>
 And the sisters of Him surely all with us are? From where then to this [man] these things all?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.55|<< Matthew 13:55]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.57|Matthew 13:57 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|αἱ]]</big>**  |hai <small><sup>[[T-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

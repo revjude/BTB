@@ -1,10 +1,7 @@
 **LXX Isaiah 62:7** 
 <small><sub>**LXX:**</sub></small>
 For there is not \[one\] likened to you, whenever he should set \[things\] right, and should make Jerusalem prancing upon the earth. 
-<small><sub>**KJV:**</sub></small>
-And give him no rest, till he establish, and till he make Jerusalem a praise in the earth.
-<small><sub>**BSB:**</sub></small>
-nor give Him any rest until He establishes Jerusalem and makes her the praise of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.62.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.62.6|<< Isaiah 62:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.62.8|Isaiah 62:8 >>]]</td></tr></table>
 
 | Translation | Greek |

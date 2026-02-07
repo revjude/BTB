@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 16:14** 
 <small><sub>**LXX:**</sub></small>
 And they entombed him in the tomb in which he dug for himself in \[the\] city of David. And they rested him upon the bed, and they filled it of aromatics, and types of scented perfumes. And they made for him a great funeral, and they kindled him a great burning -- unto exceedingly. 
-<small><sub>**KJV:**</sub></small>
-And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds [of spices] prepared by the apothecaries’ art: and they made a very great burning for him.
-<small><sub>**BSB:**</sub></small>
-And he was buried in the tomb that he had cut out for himself in the City of David. They laid him on a bier that was full of spices and various blended perfumes; then they made a great fire in his honor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.16.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.16.13|<< 2 Chronicles 16:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.1|2 Chronicles 17:1 >>]]</td></tr></table>
 
 | Translation | Greek |

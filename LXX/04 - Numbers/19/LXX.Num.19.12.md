@@ -1,10 +1,7 @@
 **LXX Numbers 19:12** 
 <small><sub>**LXX:**</sub></small>
 This one shall be purified on the third day and the seventh day, and he will be clean. But if he should not be purified on the third day, and on the seventh day, he will not be clean. 
-<small><sub>**KJV:**</sub></small>
-He shall purify himself with it on the third day, and on the seventh day he shall be clean: but if he purify not himself the third day, then the seventh day he shall not be clean.
-<small><sub>**BSB:**</sub></small>
-He must purify himself with the water on the third day and on the seventh day; then he will be clean. But if he does not purify himself on the third and seventh days, he will not be clean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.11|<< Numbers 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.13|Numbers 19:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Esther 1:3** 
 <small><sub>**LXX:**</sub></small>
 in the third year of his reign, he made a banquet \[to his\] friends, and to the rest of \[the\] nations, and to the Persians and Medes -- \[the\] honorable ones, and to the rulers of the satrapies. 
-<small><sub>**KJV:**</sub></small>
-In the third year of his reign, he made a feast unto all his princes and his servants; the power of Persia and Media, the nobles and princes of the provinces, [being] before him:
-<small><sub>**BSB:**</sub></small>
-In the third year of his reign, Xerxes held a feast for all his officials and servants. The military leaders of Persia and Media were there, along with the nobles and princes of the provinces.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.2|<< Esther 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.4|Esther 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

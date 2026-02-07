@@ -1,4 +1,4 @@
-**Joshua 24:4** 
+**Joshua 24:4**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I gave unto Isaac Jacob and Esau: and I gave unto Esau mount Seir, to possess it; but Jacob and his children went down into Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and to Isaac I gave Jacob and Esau. I gave Esau Mount Seir to possess, but Jacob
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.3|<< Joshua 24:3]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.5|Joshua 24:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I gave  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5414G\|אֶתֵּ֣ן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Ten<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Isaac  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3327\|יִצְחָ֔ק]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

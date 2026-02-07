@@ -1,10 +1,7 @@
 **LXX Genesis 49:33** 
 <small><sub>**LXX:**</sub></small>
 And Jacob rested giving orders \[to\] his sons. And lifting up  his feet upon the bed he failed. And he was added to  his people. 
-<small><sub>**KJV:**</sub></small>
-And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.
-<small><sub>**BSB:**</sub></small>
-When Jacob had finished instructing his sons, he pulled his feet into the bed and breathed his last, and he was gathered to his people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.32|<< Genesis 49:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.1|Genesis 50:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 49:33** is...

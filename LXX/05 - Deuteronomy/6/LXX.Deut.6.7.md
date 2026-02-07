@@ -1,10 +1,7 @@
 **LXX Deuteronomy 6:7** 
 <small><sub>**LXX:**</sub></small>
 And you shall assist your sons with them, and you shall speak of them sitting down in \[your\] house, and going in \[the\] way, and lying in bed, and arising. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
-<small><sub>**BSB:**</sub></small>
-And you shall teach them diligently to your children and speak of them when you sit at home and when you walk along the road, when you lie down and when you get up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.6|<< Deuteronomy 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.8|Deuteronomy 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

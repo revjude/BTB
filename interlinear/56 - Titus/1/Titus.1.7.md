@@ -1,12 +1,12 @@
-**Titus 1:7
-**<small><sub>**KJV:**</sub></small>
+**Titus 1:7**<big><big>[[Titus.1.5 Appointing Elders on Crete|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;
 <small><sub>**BSB:**</sub></small>
 As God’s steward, an overseer must be above reproach—not self-willed, not quick-tempered, not given to drunkenness, not violent, not greedy for money.
 <small><sub>**Literal:**</sub></small>
 It behooves for the overseer blameless to be as God’s steward, not self-willed, not quick tempered, not given to wine, not a striker, not greedy of base gain,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.6|<< Titus 1:6]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.8|Titus 1:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It behooves |**<big>[[G1163\|δεῖ]]</big>**  |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

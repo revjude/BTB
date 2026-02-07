@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:16** 
 <small><sub>**LXX:**</sub></small>
 And they abandoned the commandments of \[the\] <span class="smallcaps">lord</span> their God, and they made for themselves molten castings of two heifers, and they made a sacred grove, and did obeisance to all the military of the heaven, and they served \[to\] Baal. 
-<small><sub>**KJV:**</sub></small>
-And they left all the commandments of the LORD their God, and made them molten images, [even] two calves, and made a grove, and worshipped all the host of heaven, and served Baal.
-<small><sub>**BSB:**</sub></small>
-They abandoned all the commandments of the LORD their God and made for themselves two cast idols of calves and an Asherah pole. They bowed down to all the host of heaven and served Baal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.15|<< 2 Kings 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.17|2 Kings 17:17 >>]]</td></tr></table>
 
 | Translation | Greek |

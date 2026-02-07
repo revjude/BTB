@@ -1,12 +1,12 @@
-**Romans 6:16
-**<small><sub>**KJV:**</sub></small>
+**Romans 6:16**<big><big>[[Rom.6.15 The Wages of Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?
 <small><sub>**BSB:**</sub></small>
 Do you not know that when you offer yourselves as obedient slaves, you are slaves to the one you obey, whether you are slaves to sin leading to death, or to obedience leading to righteousness?
 <small><sub>**Literal:**</sub></small>
 Not know you that to whom you yield yourselves [as] slaves for obedience, slaves you are to him whom you obey, whether of sin to death or of obedience to righteousness?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.15|<< Romans 6:15]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.17|Romans 6:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | know you |**<big>[[G6063\|οἴδατε]]</big>**  |oidate <small><sup>[[V-RAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

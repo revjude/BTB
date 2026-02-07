@@ -1,12 +1,12 @@
-**Luke 23:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:7**<big><big>[[Luke.23.6 Jesus before Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as soon as he knew that he belonged unto Herod’s jurisdiction, he sent him to Herod, who himself also was at Jerusalem at that time.
 <small><sub>**BSB:**</sub></small>
 And learning that Jesus was under Herod’s jurisdiction, he sent Him to Herod, who himself was in Jerusalem at that time.
 <small><sub>**Literal:**</sub></small>
 and having learned that from the jurisdiction of Herod He is, he sent up Him to <the> Herod being also he himself in Jerusalem in those <the> days.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.6|<< Luke 23:6]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.8|Luke 23:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having learned |**<big>[[G1921\|ἐπιγνοὺς]]</big>**  |epignous <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

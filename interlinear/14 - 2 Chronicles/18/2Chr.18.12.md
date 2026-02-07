@@ -1,4 +1,4 @@
-**2 Chronicles 18:12** 
+**2 Chronicles 18:12**<big><big>[[2Chr.18.12 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the messenger that went to call Micaiah spake to him, saying, Behold, the words of the prophets [declare] good to the king with one assent; let thy word therefore, I pray thee, be like one of theirs, and speak thou good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the messenger who had gone to call Micaiah instructed him, “Behold, with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.11|<< 2 Chronicles 18:11]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.13|2 Chronicles 18:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the messenger  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4397G\|מַּלְאָ֞ךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> mal.'Akh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

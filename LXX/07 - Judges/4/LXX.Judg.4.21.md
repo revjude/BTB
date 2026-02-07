@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jael \[the\] wife of Heber took the peg of the tent, and put the hammer in  her hand, and she entered to him tranquilly, and she hammered in the peg into  his cheek, and thrust it through into the ground. And he being startled was enveloped in darkness and died. 
-<small><sub>**KJV:**</sub></small>
-Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died.
-<small><sub>**BSB:**</sub></small>
-But as he lay sleeping from exhaustion, Heber’s wife Jael took a tent peg, grabbed a hammer, and went silently to Sisera. She drove the peg through his temple and into the ground, and he died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.20|<< Judges 4:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.22|Judges 4:22 >>]]</td></tr></table>
 
 | Translation | Greek |

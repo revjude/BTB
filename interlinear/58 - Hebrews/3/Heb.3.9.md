@@ -1,5 +1,5 @@
-**Hebrews 3:9
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:9**<big><big>[[Heb.3.7 Do Not Harden Your Hearts|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When your fathers tempted me, proved me, and saw my works forty years.
 <small><sub>**BSB:**</sub></small>
 where your fathers tested and tried Me, and for forty years saw My works.
@@ -10,7 +10,7 @@ where tried me the fathers of you by testing me and saw the works of Mine<br><ta
 > $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where |**<big>[[G3757\|οὗ]]</big>**  |hou <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | tried |**<big>[[G3985H\|ἐπείρασαν]]</big>**  |epeirasan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

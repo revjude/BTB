@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the third day, Esther put on royal \[apparel\], and she stood in \[the\] courtyard of the house of \[the\] king, in the inner \[courtyard\], right opposite the royal \[house\] of the king. And the king sat down on \[the\] throne  of his own kingdom in the royal house, right opposite the door of the house. 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass on the third day, that Esther put on [her] royal [apparel], and stood in the inner court of the king’s house, over against the king’s house: and the king sat upon his royal throne in the royal house, over against the gate of the house.
-<small><sub>**BSB:**</sub></small>
-On the third day, Esther put on her royal robes and stood in the inner court of the palace across from the king’s quarters. The king was sitting on his royal throne in the royal courtroom, facing the entrance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.4.17|<< Esther 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.2|Esther 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

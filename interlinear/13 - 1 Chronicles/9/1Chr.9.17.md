@@ -1,4 +1,4 @@
-**1 Chronicles 9:17** 
+**1 Chronicles 9:17**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the porters [were], Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum [was] the chief;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the gatekeepers: Shallum, Akkub, Talmon, Ahiman, and their relatives.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.16|<< 1 Chronicles 9:16]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.18|1 Chronicles 9:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the gatekeepers  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7778\|שֹּׁעֲרִים֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> sho.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shallum  |**<big>&#8207;[[H7967M\|שַׁלּ֣וּם]]&#8207; </big>**| sha.Lum<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

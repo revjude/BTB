@@ -1,10 +1,7 @@
 **LXX Leviticus 14:35** 
 <small><sub>**LXX:**</sub></small>
 then one from the house shall come and shall announce to the priest, saying, \[Something\] as an infection has appeared to me in the house. 
-<small><sub>**KJV:**</sub></small>
-And he that owneth the house shall come and tell the priest, saying, It seemeth to me [there is] as it were a plague in the house:
-<small><sub>**BSB:**</sub></small>
-the owner of the house shall come and tell the priest, ‘Something like mildew has appeared in my house.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.34|<< Leviticus 14:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.36|Leviticus 14:36 >>]]</td></tr></table>
 
 | Translation | Greek |

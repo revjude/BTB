@@ -1,4 +1,4 @@
-**1 Kings 14:9** 
+**1 Kings 14:9**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But hast done evil above all that were before thee: for thou hast gone and made thee other gods, and molten images, to provoke me to anger, and hast cast me behind thy back:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have done more evil than all who came before you. You have proceeded to make
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.8|<< 1 Kings 14:8]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.10|1 Kings 14:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you have done evil  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7489A\|תָּ֣רַע]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.ra'<small><sup>[[HVhw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to act  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשׂ֔וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

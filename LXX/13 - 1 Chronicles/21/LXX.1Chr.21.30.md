@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:30** 
 <small><sub>**LXX:**</sub></small>
 And David \[was\] not able  to go before it to seek  God, for he hastened from \[the\] face of the broadsword of the angel of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But David could not go before it to inquire of God: for he was afraid because of the sword of the angel of the LORD.
-<small><sub>**BSB:**</sub></small>
-but David could not go before it to inquire of God, because he was afraid of the sword of the angel of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.29|<< 1 Chronicles 21:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.1|1 Chronicles 22:1 >>]]</td></tr></table>
 
 | Translation | Greek |

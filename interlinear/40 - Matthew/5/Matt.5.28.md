@@ -1,12 +1,12 @@
-**Matthew 5:28
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:28**<big><big>[[Matt.5.27 Adultery|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.
 <small><sub>**BSB:**</sub></small>
 But I tell you that anyone who looks at a woman to lust after her has already committed adultery with her in his heart.
 <small><sub>**Literal:**</sub></small>
 I myself however say to you that everyone who is looking upon a woman in order <the> to lust after her already has committed adultery with her in the heart of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.27|<< Matthew 5:27]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.29|Matthew 5:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

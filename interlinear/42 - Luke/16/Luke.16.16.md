@@ -1,12 +1,12 @@
-**Luke 16:16
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:16**<big><big>[[Luke.16.14 The Law and the Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The law and the prophets [were] until John: since that time the kingdom of God is preached, and every man presseth into it.
 <small><sub>**BSB:**</sub></small>
 The Law and the Prophets were proclaimed until John. Since that time, the gospel of the kingdom of God is being preached, and everyone is forcing his way into it.
 <small><sub>**Literal:**</sub></small>
 The law and the prophets [were] until John; from that time the kingdom <the> of God is evangelised [about], and everyone into it forces his way.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.15|<< Luke 16:15]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.17|Luke 16:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | law |**<big>[[G3551\|νόμος]]</big>**  |nomos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

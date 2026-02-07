@@ -1,12 +1,12 @@
-**Mark 11:27
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:27**<big><big>[[Mark.11.27 Jesus’ Authority Challenged|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they come again to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders,
 <small><sub>**BSB:**</sub></small>
 After their return to Jerusalem, Jesus was walking in the temple courts, and the chief priests, scribes, and elders came up to Him.
 <small><sub>**Literal:**</sub></small>
 And they come again to Jerusalem; And in the temple when is walking He they come to Him the chief priests and the scribes and the elders<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.26|<< Mark 11:26]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.28|Mark 11:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they come |**<big>[[G2064\|ἔρχονται]]</big>**  |erchontai <small><sup>[[V-PNI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

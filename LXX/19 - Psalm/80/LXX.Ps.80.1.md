@@ -6,10 +6,7 @@ To the director; for the changings; a testimony \[to\] Asaph; a psalm.
 
 <small><sub>**LXX:**</sub></small>
 O one tending  Israel, take heed! O one guiding Joseph as sheep, the one sitting down upon the cherubim -- appear! 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician upon ShoshannimEduth, A Psalm of Asaph. Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest [between] the cherubims, shine forth.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. To the tune of “The Lilies of the Covenant.” A Psalm of Asaph. Hear us, O Shepherd of Israel, who leads Joseph like a flock; You who sit enthroned between the cherubim, shine forth<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.80.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.79.13|<< Psalm 79:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.80.2|Psalm 80:2 >>]]</td></tr></table>
 
 | Translation | Greek |

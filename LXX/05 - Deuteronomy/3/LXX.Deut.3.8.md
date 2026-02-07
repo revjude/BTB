@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:8** 
 <small><sub>**LXX:**</sub></small>
 And we took in  that time the land from \[the\] hands of \[the\] two kings of the Amorites, the ones who were on the other side of the Jordan -- from the rushing stream of Arnon unto mount Hermon. 
-<small><sub>**KJV:**</sub></small>
-And we took at that time out of the hand of the two kings of the Amorites the land that [was] on this side Jordan, from the river of Arnon unto mount Hermon;
-<small><sub>**BSB:**</sub></small>
-At that time we took from the two kings of the Amorites the land across the Jordan, from the Arnon Valley as far as Mount Hermon—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.7|<< Deuteronomy 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.9|Deuteronomy 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

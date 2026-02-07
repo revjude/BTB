@@ -1,10 +1,7 @@
 **LXX Leviticus 26:21** 
 <small><sub>**LXX:**</sub></small>
 And if after these \[things\] you should go sideways, and should not want to obey me, I will add to you seven calamities according to  your sins. 
-<small><sub>**KJV:**</sub></small>
-And if ye walk contrary unto me, and will not hearken unto me; I will bring seven times more plagues upon you according to your sins.
-<small><sub>**BSB:**</sub></small>
-If you walk in hostility toward Me and refuse to obey Me, I will multiply your plagues seven times, according to your sins.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.20|<< Leviticus 26:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.22|Leviticus 26:22 >>]]</td></tr></table>
 
 | Translation | Greek |

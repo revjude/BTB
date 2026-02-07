@@ -1,4 +1,4 @@
-**1 Samuel 6:6** 
+**1 Samuel 6:6**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore then do ye harden your hearts, as the Egyptians and Pharaoh hardened their hearts? when he had wrought wonderfully among them, did they not let the people go, and they departed?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why harden your hearts as the Egyptians and Pharaoh hardened theirs? When He aff
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.5|<< 1 Samuel 6:5]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.7|1 Samuel 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<to> why?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לָ֤]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will you harden  |**<big>&#8207;[[H3513H\|תְכַבְּדוּ֙]]&#8207; </big>**| te.kha.be.Du<small><sup>[[HVpi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

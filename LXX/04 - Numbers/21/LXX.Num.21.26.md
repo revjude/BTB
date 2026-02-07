@@ -1,10 +1,7 @@
 **LXX Numbers 21:26** 
 <small><sub>**LXX:**</sub></small>
 For Heshbon is \[the\] city of Sihon the king of the Amorites. And this one waged war against \[the\] king of Moab  formerly. And \[they\] took all  his land from his hand unto Arnon. 
-<small><sub>**KJV:**</sub></small>
-For Heshbon [was] the city of Sihon the king of the Amorites, who had fought against the former king of Moab, and taken all his land out of his hand, even unto Arnon.
-<small><sub>**BSB:**</sub></small>
-Heshbon was the city of Sihon king of the Amorites, who had fought against the former king of Moab and taken all his land as far as the Arnon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.25|<< Numbers 21:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.27|Numbers 21:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Malachi 1:11** 
+**Malachi 1:11**<big><big>[[Mal.1.6 The Polluted Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For from the rising of the sun even unto the going down of the same my name [shall be] great among the Gentiles; and in every place incense [shall be] offered unto my name, and a pure offering: for my name [shall be] great among the heathen, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For My name will be great among the nations, from where the sun rises to where i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.10|<< Malachi 1:10]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.12|Malachi 1:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] rising of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4217H\|מִּזְרַח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> miz.rach-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

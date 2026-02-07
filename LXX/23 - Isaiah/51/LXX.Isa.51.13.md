@@ -1,10 +1,7 @@
 **LXX Isaiah 51:13** 
 <small><sub>**LXX:**</sub></small>
 And you forgot God, the one making you, the one making the heaven, and laying the foundation for the earth. And fear continually all the days  in front of the rage of the one afflicting you! in which manner he planned  to carry you away. And now where \[is\] the rage of the one afflicting you? 
-<small><sub>**KJV:**</sub></small>
-And forgettest the LORD thy maker, that hath stretched forth the heavens, and laid the foundations of the earth; and hast feared continually every day because of the fury of the oppressor, as if he were ready to destroy? and where [is] the fury of the oppressor?
-<small><sub>**BSB:**</sub></small>
-But you have forgotten the LORD, your Maker, who stretched out the heavens and laid the foundations of the earth. You live in terror all day long because of the fury of the oppressor who is bent on destruction. But where is the fury of the oppressor?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.51.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.12|<< Isaiah 51:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.14|Isaiah 51:14 >>]]</td></tr></table>
 
 | Translation | Greek |

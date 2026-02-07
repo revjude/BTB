@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the boy matured. And it came to pass the boy went forth to  his father -- to the ones harvesting. 
-<small><sub>**KJV:**</sub></small>
-And when the child was grown, it fell on a day, that he went out to his father to the reapers.
-<small><sub>**BSB:**</sub></small>
-And the child grew, and one day he went out to his father, who was with the harvesters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.17|<< 2 Kings 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.19|2 Kings 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

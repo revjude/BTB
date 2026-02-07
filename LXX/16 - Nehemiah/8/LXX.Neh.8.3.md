@@ -1,10 +1,7 @@
 **LXX Nehemiah 8:3** 
 <small><sub>**LXX:**</sub></small>
 And he read in it before the square of the one before the gate of the waters, from the hour of the illuminating by the sun until \[the\] middle of the day, before men and women. And they were perceiving, even all \[the\] ears of the people, to the scroll of the law. 
-<small><sub>**KJV:**</sub></small>
-And he read therein before the street that [was] before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people [were attentive] unto the book of the law.
-<small><sub>**BSB:**</sub></small>
-So Ezra read it aloud from daybreak until noon as he faced the square before the Water Gate, in front of the men and women and those who could understand. And all the people listened attentively to the Book of the Law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.2|<< Nehemiah 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.4|Nehemiah 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

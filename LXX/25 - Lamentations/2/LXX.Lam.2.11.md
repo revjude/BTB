@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΧΑΦ</p>
 
 My eyes failed with tears; my heart is disturbed; my glory is poured out onto the ground over the destruction of the daughter  of my people, in the failing infant and ones nursing in \[the\] squares of the city. 
-<small><sub>**KJV:**</sub></small>
-Mine eyes do fail with tears, my bowels are troubled, my liver is poured upon the earth, for the destruction of the daughter of my people; because the children and the sucklings swoon in the streets of the city.
-<small><sub>**BSB:**</sub></small>
-My eyes fail from weeping; I am churning within. My heart is poured out in grief over the destruction of the daughter of my people, because children and infants faint in the streets of the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.10|<< Lamentations 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.12|Lamentations 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

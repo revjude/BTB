@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:13** 
 <small><sub>**LXX:**</sub></small>
 And Hiram said, What \[are\]  these cities which you gave to me, O brother? And he called them \[The\] Border until  this day. 
-<small><sub>**KJV:**</sub></small>
-And he said, What cities [are] these which thou hast given me, my brother? And he called them the land of Cabul unto this day.
-<small><sub>**BSB:**</sub></small>
-“What are these towns you have given me, my brother?” asked Hiram, and he called them the Land of Cabul, as they are called to this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.12|<< 1 Kings 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.14|1 Kings 9:14 >>]]</td></tr></table>
 
 | Translation | Greek |

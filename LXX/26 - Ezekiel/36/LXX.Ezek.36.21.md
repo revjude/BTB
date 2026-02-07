@@ -1,10 +1,7 @@
 **LXX Ezekiel 36:21** 
 <small><sub>**LXX:**</sub></small>
 And I spared them on account of  my holy name, which \[the\] house of Israel profaned among the nations of which they entered there. 
-<small><sub>**KJV:**</sub></small>
-But I had pity for mine holy name, which the house of Israel had profaned among the heathen, whither they went.
-<small><sub>**BSB:**</sub></small>
-But I had concern for My holy name, which the house of Israel had profaned among the nations to which they had gone.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.36.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.20|<< Ezekiel 36:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.22|Ezekiel 36:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 36:21** is...

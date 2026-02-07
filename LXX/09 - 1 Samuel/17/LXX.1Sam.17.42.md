@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:42** 
 <small><sub>**LXX:**</sub></small>
 And Goliath beheld  David, and he treated him with contempt, for he was a boy, and he was ruddy with beauty of eyes. 
-<small><sub>**KJV:**</sub></small>
-And when the Philistine looked about, and saw David, he disdained him: for he was [but] a youth, and ruddy, and of a fair countenance.
-<small><sub>**BSB:**</sub></small>
-When the Philistine looked and saw David, he despised him because he was just a boy, ruddy and handsome.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.41|<< 1 Samuel 17:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.43|1 Samuel 17:43 >>]]</td></tr></table>
 
 | Translation | Greek |

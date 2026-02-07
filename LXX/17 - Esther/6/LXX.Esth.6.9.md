@@ -1,10 +1,7 @@
 **LXX Esther 6:9** 
 <small><sub>**LXX:**</sub></small>
 and give it to one of the friends of the king of the honorable ones; and robe the man whom the king loves, and mount him upon the horse, and let him proclaim through the square of the city! saying, So shall \[it\] be \[done\] to every man whom the king extols. 
-<small><sub>**KJV:**</sub></small>
-And let this apparel and horse be delivered to the hand of one of the king’s most noble princes, that they may array the man [withal] whom the king delighteth to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus shall it be done to the man whom the king delighteth to honour.
-<small><sub>**BSB:**</sub></small>
-Let the robe and the horse be entrusted to one of the king’s most noble princes. Let them array the man the king wants to honor and parade him on the horse through the city square, proclaiming before him, ‘This is what is done for the man whom the king is delighted to honor!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.6.8|<< Esther 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.6.10|Esther 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

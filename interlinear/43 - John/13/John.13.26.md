@@ -1,12 +1,12 @@
-**John 13:26
-**<small><sub>**KJV:**</sub></small>
+**John 13:26**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered, He it is, to whom I shall give a sop, when I have dipped [it]. And when he had dipped the sop, he gave [it] to Judas Iscariot, [the son] of Simon.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “It is the one to whom I give this morsel after I have dipped it.” Then He dipped the morsel and gave it to Judas son of Simon Iscariot.
 <small><sub>**Literal:**</sub></small>
 Answers therefore <the> Jesus; He it is to whom I myself will dip the morsel and will give to him. And having dipped then the morsel He takes [it] and gives [it] to Judas [son] of Simon Iscariot.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.25|<< John 13:25]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.27|John 13:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answers |**<big>[[G0611\|ἀποκρίνεται]]</big>**  |apokrinetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="WH">O</abbr> | |

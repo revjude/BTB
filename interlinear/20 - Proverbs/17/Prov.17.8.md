@@ -1,4 +1,4 @@
-**Proverbs 17:8** 
+**Proverbs 17:8**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A gift [is as] a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A bribe is a charm to its giver; wherever he turns, he succeeds.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.7|<< Proverbs 17:7]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.9|Proverbs 17:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a stone of  |**<big>&#8207;[[H0068G\|אֶֽבֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.ven-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | favor  |**<big>&#8207;[[H2580\|חֵ֣ן]]&#8207; </big>**| chen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

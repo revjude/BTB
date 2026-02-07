@@ -1,5 +1,5 @@
-**Revelation 21:15
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:15**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he that talked with me had a golden reed to measure the city, and the gates thereof, and the wall thereof.
 <small><sub>**BSB:**</sub></small>
 The angel who spoke with me had a golden measuring rod to measure the city and its gates and walls.
@@ -10,7 +10,7 @@ And the [one] speaking with me he had a measuring reed golden so that he may mea
 > $\quad$ alluding to: [[LXX.Ezek.40.3|Ezek 40:3]] ☩ [[LXX.Zech.2.1|Zech 2:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

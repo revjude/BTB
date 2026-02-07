@@ -1,10 +1,7 @@
 **LXX Isaiah 50:11** 
 <small><sub>**LXX:**</sub></small>
 Behold, you all kindle a fire, and you strengthen \[the\] flame; you go to the light  of your fire, and the flame which you kindled. On account of me these \[things\] came to pass to you; you shall remain the night in distress. 
-<small><sub>**KJV:**</sub></small>
-Behold, all ye that kindle a fire, that compass [yourselves] about with sparks: walk in the light of your fire, and in the sparks [that] ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow.
-<small><sub>**BSB:**</sub></small>
-Behold, all you who kindle a fire, who array yourselves with firebrands, walk in the light of your fire and of the firebrands you have lit! This is what you will receive from My hand: You will lie down in a place of torment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.50.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.10|<< Isaiah 50:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.1|Isaiah 51:1 >>]]</td></tr></table>
 
 | Translation | Greek |

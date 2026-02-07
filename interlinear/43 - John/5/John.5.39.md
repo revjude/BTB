@@ -1,12 +1,12 @@
-**John 5:39
-**<small><sub>**KJV:**</sub></small>
+**John 5:39**<big><big>[[John.5.39 The Witness of Scripture|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.
 <small><sub>**BSB:**</sub></small>
 You pore over the Scriptures because you presume that by them you possess eternal life. These are the very words that testify about Me,
 <small><sub>**Literal:**</sub></small>
 You diligently search the Scriptures, for you yourselves think in them life eternal to have; and these are they those bearing witness concerning Me,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.38|<< John 5:38]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.40|John 5:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You diligently search |**<big>[[G2045\|ἐραυνᾶτε]]</big>**  |eraunate <small><sup>[[V-PAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰς]]</big>**  |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

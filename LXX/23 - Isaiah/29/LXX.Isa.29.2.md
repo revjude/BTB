@@ -1,10 +1,7 @@
 **LXX Isaiah 29:2** 
 <small><sub>**LXX:**</sub></small>
 For I will squeeze Ariel, and her strength and riches will be mine. 
-<small><sub>**KJV:**</sub></small>
-Yet I will distress Ariel, and there shall be heaviness and sorrow: and it shall be unto me as Ariel.
-<small><sub>**BSB:**</sub></small>
-And I will constrain Ariel, and there will be mourning and lamentation; she will be like an altar hearth before Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.1|<< Isaiah 29:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.3|Isaiah 29:3 >>]]</td></tr></table>
 
 | Translation | Greek |

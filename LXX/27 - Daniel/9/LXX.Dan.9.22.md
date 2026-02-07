@@ -1,10 +1,7 @@
 **LXX Daniel 9:22** 
 <small><sub>**LXX:**</sub></small>
 And he brought understanding to me, and spoke with me, and said, O Daniel, now I came forth to instruct you for understanding. 
-<small><sub>**KJV:**</sub></small>
-And he informed [me], and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding.
-<small><sub>**BSB:**</sub></small>
-He instructed me and spoke with me, saying: “O Daniel, I have come now to give you insight and understanding.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.21|<< Daniel 9:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.23|Daniel 9:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 9:22** is...

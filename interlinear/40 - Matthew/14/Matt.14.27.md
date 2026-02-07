@@ -1,12 +1,12 @@
-**Matthew 14:27
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:27**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But straightway Jesus spake unto them, saying, Be of good cheer; it is I; be not afraid.
 <small><sub>**BSB:**</sub></small>
 But Jesus spoke up at once: “Take courage! It is I. Do not be afraid.”
 <small><sub>**Literal:**</sub></small>
 Immediately now spoke <the> Jesus to them saying; Take courage! I myself it is, not do fear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.26|<< Matthew 14:26]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.28|Matthew 14:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Immediately |**<big>[[G2112\|εὐθὺς]]</big>**  [^1] |euthus <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

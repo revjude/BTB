@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Who shall find a vigorous wife? For such is more esteemed \[than\] very costly stones. 
-<small><sub>**KJV:**</sub></small>
-Who can find a virtuous woman? for her price [is] far above rubies.
-<small><sub>**BSB:**</sub></small>
-A wife of noble character, who can find? She is far more precious than rubies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.31.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.9|<< Proverbs 31:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.11|Proverbs 31:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 62:5** 
+**Isaiah 62:5**<big><big>[[Isa.62.1 Zion’s Salvation and New Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [as] a young man marrieth a virgin, [so] shall thy sons marry thee: and [as] the bridegroom rejoiceth over the bride, [so] shall thy God rejoice over thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For as a young man marries a young woman, so your sons will marry you; and as a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.62.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.62.4|<< Isaiah 62:4]]</td><td align="center" style="border:none;">[[Isa.62|Isaiah 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.6|Isaiah 62:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he marries  |**<big>&#8207;[[H1166I\|יִבְעַ֤ל]]&#8207; </big>**| yiv.'Al<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

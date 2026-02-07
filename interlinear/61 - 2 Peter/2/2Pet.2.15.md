@@ -1,5 +1,5 @@
-**2 Peter 2:15
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 2:15**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which have forsaken the right way, and are gone astray, following the way of Balaam [the son] of Bosor, who loved the wages of unrighteousness;
 <small><sub>**BSB:**</sub></small>
 They have left the straight way and wandered off to follow the way of Balaam son of Beor, who loved the wages of wickedness.
@@ -10,7 +10,7 @@ leaving the straight way they have gone astray, having followed in the way <the>
 > $\quad$ alluding to: [[LXX.Num.22.28|Num 22:28]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | leaving [^1] |**<big>[[G2641\|καταλείποντες]]</big>**  |kataleipontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA27+Tyn+WH">N(k)O</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="TR">k</abbr> | |

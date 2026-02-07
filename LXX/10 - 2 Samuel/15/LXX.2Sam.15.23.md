@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:23** 
 <small><sub>**LXX:**</sub></small>
 And all the land wept \[with a\] great voice. And all the people passed through the rushing stream of the Kidron. And the king passed over the rushing stream Kidron. And all the people came unto \[the\] face of \[the\] way \[of\] the wilderness. 
-<small><sub>**KJV:**</sub></small>
-And all the country wept with a loud voice, and all the people passed over: the king also himself passed over the brook Kidron, and all the people passed over, toward the way of the wilderness.
-<small><sub>**BSB:**</sub></small>
-Everyone in the countryside was weeping loudly as all the people passed by. And as the king crossed the Kidron Valley, all the people also passed toward the way of the wilderness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.22|<< 2 Samuel 15:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.24|2 Samuel 15:24 >>]]</td></tr></table>
 
 | Translation | Greek |

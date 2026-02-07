@@ -1,10 +1,7 @@
 **LXX Daniel 7:5** 
 <small><sub>**LXX:**</sub></small>
 And behold, a second wild beast likened to a bear, and on one part she stood, and three ribs \[were\] in  her mouth, in between  her teeth. And so they said to her, Rise up, eat much flesh! 
-<small><sub>**KJV:**</sub></small>
-And behold another beast, a second, like to a bear, and it raised up itself on one side, and [it had] three ribs in the mouth of it between the teeth of it: and they said thus unto it, Arise, devour much flesh.
-<small><sub>**BSB:**</sub></small>
-Suddenly another beast appeared, which looked like a bear. It was raised up on one of its sides, and it had three ribs in its mouth between its teeth. So it was told, ‘Get up and gorge yourself on flesh!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.4|<< Daniel 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.6|Daniel 7:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 7:5** is...

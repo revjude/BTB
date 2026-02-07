@@ -1,12 +1,12 @@
-**Luke 10:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:12**<big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I say unto you, that it shall be more tolerable in that day for Sodom, than for that city.
 <small><sub>**BSB:**</sub></small>
 I tell you, it will be more bearable on that day for Sodom than for that town.
 <small><sub>**Literal:**</sub></small>
 I say now to you that for Sodom in the day that more tolerable it will be than <the> city for that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.11|<< Luke 10:11]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.13|Luke 10:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |

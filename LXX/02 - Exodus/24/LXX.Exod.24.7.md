@@ -1,10 +1,7 @@
 **LXX Exodus 24:7** 
 <small><sub>**LXX:**</sub></small>
 And taking the scroll of the covenant, he read into the ears of the people. And they said, All as much as \[the\] <span class="smallcaps">lord</span> spoke we shall do, and we shall hearken to. 
-<small><sub>**KJV:**</sub></small>
-And he took the book of the covenant, and read in the audience of the people: and they said, All that the LORD hath said will we do, and be obedient.
-<small><sub>**BSB:**</sub></small>
-Then he took the Book of the Covenant and read it to the people, who replied, “All that the LORD has spoken we will do, and we will be obedient.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.6|<< Exodus 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.8|Exodus 24:8 >>]]</td></tr></table>
 
 | Translation | Greek |

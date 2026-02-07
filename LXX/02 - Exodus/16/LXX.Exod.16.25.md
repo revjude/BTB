@@ -1,10 +1,7 @@
 **LXX Exodus 16:25** 
 <small><sub>**LXX:**</sub></small>
 And Moses said, You eat it today, for it is a Sabbath to the <span class="smallcaps">lord</span>! Today you shall not find \[any\] in a plain. 
-<small><sub>**KJV:**</sub></small>
-And Moses said, Eat that to day; for to day [is] a sabbath unto the LORD: to day ye shall not find it in the field.
-<small><sub>**BSB:**</sub></small>
-“Eat it today,” Moses said, “because today is a Sabbath to the LORD. Today you will not find anything in the field.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.24|<< Exodus 16:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.26|Exodus 16:26 >>]]</td></tr></table>
 
 | Translation | Greek |

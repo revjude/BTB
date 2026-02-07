@@ -1,4 +1,4 @@
-**Daniel 9:25** 
+**Daniel 9:25**<big><big>[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Know therefore and understand, [that] from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince [shall be] seven weeks, and threescore and two weeks: the street shall be built again, and the wall, even in troublous times.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Know and understand this: From the issuance of the decree to restore and rebuild
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.24|<< Daniel 9:24]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.26|Daniel 9:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so you may know  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3045\|תֵדַ֨ע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> te.Da'<small><sup>[[HVqu2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will understand  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7919A\|תַשְׂכֵּ֜ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tas.Kel<small><sup>[[HVhj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

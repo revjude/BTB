@@ -1,4 +1,4 @@
-**2 Samuel 20:1** 
+**2 Samuel 20:1**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there happened to be there a man of Belial, whose name [was] Sheba, the son of Bichri, a Benjamite: and he blew a trumpet, and said, We have no part in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now a worthless man named Sheba son of Bichri, a Benjamite, happened to be there
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.43|<< 2 Samuel 19:43]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.2|2 Samuel 20:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8033G\|שָׁ֨ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was met  |**<big>&#8207;[[H7122I\|נִקְרָ֜א]]&#8207; </big>**| nik.Ra'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

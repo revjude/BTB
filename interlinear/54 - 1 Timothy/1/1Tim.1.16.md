@@ -1,12 +1,12 @@
-**1 Timothy 1:16
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 1:16**<big><big>[[1Tim.1.12 God’s Grace to Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting.
 <small><sub>**BSB:**</sub></small>
 But for this very reason I was shown mercy, so that in me, the worst of sinners, Christ Jesus might display His perfect patience as an example to those who would believe in Him for eternal life.
 <small><sub>**Literal:**</sub></small>
 But because of this I was shown mercy, that in me myself [the] foremost may display Christ Jesus <the> [his] perfect patience as a pattern for those being about to believe on Him to life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.15|<< 1 Timothy 1:15]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.17|1 Timothy 1:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

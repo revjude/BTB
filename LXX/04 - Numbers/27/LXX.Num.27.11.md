@@ -1,10 +1,7 @@
 **LXX Numbers 27:11** 
 <small><sub>**LXX:**</sub></small>
 And if there might not be brothers  of his father, you shall give  his inheritance to the member of the family, to the one nearest him of  his tribe, to inherit the \[things\] of his. And this will be to the sons of Israel, an ordinance of equity, as \[the\] <span class="smallcaps">lord</span> gave orders \[to\] Moses. 
-<small><sub>**KJV:**</sub></small>
-And if his father have no brethren, then ye shall give his inheritance unto his kinsman that is next to him of his family, and he shall possess it: and it shall be unto the children of Israel a statute of judgment, as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-And if his father has no brothers, give his inheritance to the next of kin from his clan, that he may take possession of it. This is to be a statutory ordinance for the Israelites, as the LORD has commanded Moses.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.27.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.10|<< Numbers 27:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.12|Numbers 27:12 >>]]</td></tr></table>
 
 | Translation | Greek |

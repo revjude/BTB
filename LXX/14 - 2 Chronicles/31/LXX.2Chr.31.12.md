@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 31:12** 
 <small><sub>**LXX:**</sub></small>
 And they carried in there the first-fruits, and the tenth parts in trust. And over them for supervisor \[was\] Cononiah the Levite, and Shimei  his brother relieving, 
-<small><sub>**KJV:**</sub></small>
-And brought in the offerings and the tithes and the dedicated [things] faithfully: over which Cononiah the Levite [was] ruler, and Shimei his brother [was] the next.
-<small><sub>**BSB:**</sub></small>
-And they faithfully brought in the contributions, tithes, and dedicated gifts. Conaniah the Levite was the officer in charge of them, and his brother Shimei was second.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.31.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.11|<< 2 Chronicles 31:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.13|2 Chronicles 31:13 >>]]</td></tr></table>
 
 | Translation | Greek |

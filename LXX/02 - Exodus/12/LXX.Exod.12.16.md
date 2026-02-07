@@ -1,10 +1,7 @@
 **LXX Exodus 12:16** 
 <small><sub>**LXX:**</sub></small>
 And  the first day shall be called holy. And  the seventh day will be called holy to you. All servile work shall not be done in them, except as much as \[is necessary\] to do for every soul, this only shall be done by you. 
-<small><sub>**KJV:**</sub></small>
-And in the first day [there shall be] an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save [that] which every man must eat, that only may be done of you.
-<small><sub>**BSB:**</sub></small>
-On the first day you are to hold a sacred assembly, and another on the seventh day. You must not do any work on those days, except to prepare the meals—that is all you may do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.15|<< Exodus 12:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.17|Exodus 12:17 >>]]</td></tr></table>
 
 | Translation | Greek |

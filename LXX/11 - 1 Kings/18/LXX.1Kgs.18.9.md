@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:9** 
 <small><sub>**LXX:**</sub></small>
 And Obadiah said, How have I sinned that you appoint  your servant into \[the\] hands of Ahab  to kill me? 
-<small><sub>**KJV:**</sub></small>
-And he said, What have I sinned, that thou wouldest deliver thy servant into the hand of Ahab, to slay me?
-<small><sub>**BSB:**</sub></small>
-But Obadiah replied, “How have I sinned, that you are handing your servant over to Ahab to put me to death?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.8|<< 1 Kings 18:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.10|1 Kings 18:10 >>]]</td></tr></table>
 
 | Translation | Greek |

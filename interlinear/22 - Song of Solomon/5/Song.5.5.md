@@ -1,4 +1,4 @@
-**Song of Solomon 5:5** 
+**Song of Solomon 5:5**<big><big>[[Song.5.2 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I rose up to open to my beloved; and my hands dropped [with] myrrh, and my fingers [with] sweet smelling myrrh, upon the handles of the lock.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I rose up to open for my beloved. My hands dripped with myrrh, my fingers with f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.4|<< Song of Solomon 5:4]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.6|Song of Solomon 5:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I arose  |**<big>&#8207;[[H6965B\|קַ֥מְתִּֽי]]&#8207; </big>**| Kam.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֖י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

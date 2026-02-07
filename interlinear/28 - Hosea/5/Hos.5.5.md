@@ -1,4 +1,4 @@
-**Hosea 5:5** 
+**Hosea 5:5**<big><big>[[Hos.5.1 Judgment on Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Israel’s arrogance testifies against them; Israel and Ephraim stumble in their
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.4|<< Hosea 5:4]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.6|Hosea 5:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it testifies  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6030B\|עָנָ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] pride of  |**<big>&#8207;[[H1347\|גְאֽוֹן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ge.'on-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

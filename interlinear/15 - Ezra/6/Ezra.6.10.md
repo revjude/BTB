@@ -1,4 +1,4 @@
-**Ezra 6:10** 
+**Ezra 6:10**<big><big>[[Ezra.6.1 The Decree of Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they will be able to offer sacrifices of a sweet aroma to the God of heaven
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.9|<< Ezra 6:9]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.11|Ezra 6:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H1768\|דִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be  |**<big>&#8207;[[H1934\|לֶהֱוֹ֧ן]]&#8207; </big>**| le.he.Von<small><sup>[[AVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 5:25** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall take from out of \[the\] hand of the woman the sacrifice  of jealousy, and shall place the sacrifice before \[the\] <span class="smallcaps">lord</span>. And he shall bring her unto the altar. 
-<small><sub>**KJV:**</sub></small>
-Then the priest shall take the jealousy offering out of the woman’s hand, and shall wave the offering before the LORD, and offer it upon the altar:
-<small><sub>**BSB:**</sub></small>
-The priest shall take from her hand the grain offering for jealousy, wave it before the LORD, and bring it to the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.24|<< Numbers 5:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.26|Numbers 5:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 34:13** 
+**Ezekiel 34:13**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring them out from the people, and gather them from the countries, and will bring them to their own land, and feed them upon the mountains of Israel by the rivers, and in all the inhabited places of the country.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will bring them out from the peoples, gather them from the countries, and brin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.12|<< Ezekiel 34:12]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.14|Ezekiel 34:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will bring out them  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318H\|הוֹצֵאתִ֣י]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.tze.Ti<small><sup>[[HVhq1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

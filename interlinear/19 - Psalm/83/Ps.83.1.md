@@ -1,12 +1,12 @@
-**Psalms 83:1** (83:2)
+**Psalms 83:1**<big><big>[[Ps.83.1 O God, Be Not Silent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Song [or] Psalm of Asaph. Keep not thou silence, O God: hold not thy peace, and be not still, O God.
+Keep not thou silence, O God: hold not thy peace, and be not still, O God.
 <small><sub>**BSB:**</sub></small>
 A song. A Psalm of Asaph. O God, be not silent; be not speechless; be not still, O God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.0|<< Psalms 83:0]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.2|Psalms 83:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֥ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [let] not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

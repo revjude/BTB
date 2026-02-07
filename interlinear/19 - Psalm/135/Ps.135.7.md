@@ -1,4 +1,4 @@
-**Psalms 135:7** 
+**Psalms 135:7**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He causeth the vapours to ascend from the ends of the earth; he maketh lightnings for the rain; he bringeth the wind out of his treasuries.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He causes the clouds to rise from the ends of the earth. He generates the lightn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.6|<< Psalms 135:6]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.8|Psalms 135:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] bringing up  |**<big>&#8207;[[H5927G\|מַֽעֲלֶ֣ה]]&#8207; </big>**| ma.'a.Leh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | clouds  |**<big>&#8207;[[H5387B\|נְשִׂאִים֮]]&#8207; </big>**| ne.si.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

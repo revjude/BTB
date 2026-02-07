@@ -1,4 +1,4 @@
-**Job 34:4** 
+**Job 34:4**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let us choose to us judgment: let us know among ourselves what [is] good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let us choose for ourselves what is right; let us learn together what is good.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.3|<< Job 34:3]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.5|Job 34:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּ֥ט]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let us choose  |**<big>&#8207;[[H0977\|נִבְחֲרָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| niv.cha.rah-<small><sup>[[HVqc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

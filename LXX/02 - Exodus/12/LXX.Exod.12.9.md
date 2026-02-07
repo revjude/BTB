@@ -1,10 +1,7 @@
 **LXX Exodus 12:9** 
 <small><sub>**LXX:**</sub></small>
 You shall not eat of them raw, nor being boiled in water, but  roasted \[by\] fire, head with the feet, and the entrails. 
-<small><sub>**KJV:**</sub></small>
-Eat not of it raw, nor sodden at all with water, but roast [with] fire; his head with his legs, and with the purtenance thereof.
-<small><sub>**BSB:**</sub></small>
-Do not eat any of the meat raw or cooked in boiling water, but only roasted over the fire—its head and legs and inner parts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.8|<< Exodus 12:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.10|Exodus 12:10 >>]]</td></tr></table>
 
 | Translation | Greek |

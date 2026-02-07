@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of Ephraim gathered together, and they came to Zaphon, and said to Jephthah, Why \[is it\] that you went to wage war against the sons of Ammon, and you did not call us to go with you?  We will burn your house over you with fire. 
-<small><sub>**KJV:**</sub></small>
-And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire.
-<small><sub>**BSB:**</sub></small>
-Then the men of Ephraim assembled and crossed the Jordan to Zaphon. They said to Jephthah, “Why have you crossed over to fight the Ammonites without calling us to go with you? We will burn your house down with you inside!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.40|<< Judges 11:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.12.2|Judges 12:2 >>]]</td></tr></table>
 
 | Translation | Greek |

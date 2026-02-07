@@ -1,4 +1,4 @@
-**Proverbs 4:26** 
+**Proverbs 4:26**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ponder the path of thy feet, and let all thy ways be established.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Make a level path for your feet, and all your ways will be sure.
 > $\quad$ referenced by: [[Heb.12.13|Heb 12:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | make level  |**<big>&#8207;[[H6424\|פַּ֭לֵּס]]&#8207; </big>**| Pa.les<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] track of  |**<big>&#8207;[[H4570\|מַעְגַּ֣ל]]&#8207; </big>**| ma'.Gal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

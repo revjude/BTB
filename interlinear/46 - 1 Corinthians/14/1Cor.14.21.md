@@ -1,5 +1,5 @@
-**1 Corinthians 14:21
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:21**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In the law it is written, With [men of] other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord.
 <small><sub>**BSB:**</sub></small>
 It is written in the Law: “By strange tongues and foreign lips I will speak to this people, but even then they will not listen to Me, says the Lord.”
@@ -10,7 +10,7 @@ In the law it has been written that By other tongues and by lips of others I wil
 > $\quad$ referencing: [[LXX.Isa.28.11|Isa 28:11-12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

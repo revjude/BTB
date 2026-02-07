@@ -1,12 +1,12 @@
-**Matthew 18:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:23**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants.
 <small><sub>**BSB:**</sub></small>
 Because of this, the kingdom of heaven is like a king who wanted to settle accounts with his servants.
 <small><sub>**Literal:**</sub></small>
 Because of this has become like the kingdom of the heavens to a man a king who desired to settle accounts with the servants of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.22|<< Matthew 18:22]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.24|Matthew 18:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|Διὰ]]</big>**  |Dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

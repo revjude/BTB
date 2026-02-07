@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they encircled the city on the second day, once near to \[it\]; and they went forth again into the camp. So it was done for six days. 
-<small><sub>**KJV:**</sub></small>
-And the second day they compassed the city once, and returned into the camp: so they did six days.
-<small><sub>**BSB:**</sub></small>
-So on the second day they marched around the city once and returned to the camp. They did this for six days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.13|<< Joshua 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.15|Joshua 6:15 >>]]</td></tr></table>
 
 | Translation | Greek |

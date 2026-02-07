@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:22** 
 <small><sub>**LXX:**</sub></small>
 Behold, all the women  being left behind in \[the\] house of \[the\] king of Judah having been led out to \[the\] rulers of \[the\] king of Babylon; and these \[women\] \[shall say\], \[the\] men at peace with you deceived you and prevailed over you, and they will depose \[you\] in slips of your feet; they turned from you. 
-<small><sub>**KJV:**</sub></small>
-And, behold, all the women that are left in the king of Judah’s house [shall be] brought forth to the king of Babylon’s princes, and those [women] shall say, Thy friends have set thee on, and have prevailed against thee: thy feet are sunk in the mire, [and] they are turned away back.
-<small><sub>**BSB:**</sub></small>
-All the women who remain in the palace of the king of Judah will be brought out to the officials of the king of Babylon, and those women will say: ‘They misled you and overcame you—those trusted friends of yours. Your feet sank into the mire, and they deserted you.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.21|<< Jeremiah 38:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.23|Jeremiah 38:23 >>]]</td></tr></table>
 
 | Translation | Greek |

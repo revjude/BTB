@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:16** 
 <small><sub>**LXX:**</sub></small>
 And you, do not pray for  this people! and do not petition  to show them mercy! and do not make a vow! and do not come forward to me concerning them! for I will not listen to \[you\]. 
-<small><sub>**KJV:**</sub></small>
-Therefore pray not thou for this people, neither lift up cry nor prayer for them, neither make intercession to me: for I will not hear thee.
-<small><sub>**BSB:**</sub></small>
-As for you, do not pray for these people, do not offer a plea or petition on their behalf, and do not beg Me, for I will not listen to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.15|<< Jeremiah 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.17|Jeremiah 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

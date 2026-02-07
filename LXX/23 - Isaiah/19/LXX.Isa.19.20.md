@@ -1,10 +1,7 @@
 **LXX Isaiah 19:20** 
 <small><sub>**LXX:**</sub></small>
 And it will be for a sign into the eon \[to the\] <span class="smallcaps">lord</span> in \[the\] place of Egypt; for they shall cry out to \[the\] <span class="smallcaps">lord</span> because of the ones afflicting them; and he shall send to them a man who will deliver them; by judging he shall deliver them. 
-<small><sub>**KJV:**</sub></small>
-And it shall be for a sign and for a witness unto the LORD of hosts in the land of Egypt: for they shall cry unto the LORD because of the oppressors, and he shall send them a saviour, and a great one, and he shall deliver them.
-<small><sub>**BSB:**</sub></small>
-It will be a sign and a witness to the LORD of Hosts in the land of Egypt. When they cry out to the LORD because of their oppressors, He will send them a savior and defender to rescue them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.19.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.19|<< Isaiah 19:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.21|Isaiah 19:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 5:23** 
+**Deuteronomy 5:23**<big><big>[[Deut.5.22 Moses Intercedes for the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when ye heard the voice out of the midst of the darkness, (for the mountain did burn with fire,) that ye came near unto me, [even] all the heads of your tribes, and your elders;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when you heard the voice out of the darkness while the mountain was blazing 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.22|<< Deuteronomy 5:22]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.24|Deuteronomy 5:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when heard you  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8085G\|שָׁמְעֲ]]&#8207;&#8207;[[H9046\|כֶ֤ם]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> sha.me.'a.<small><sup>[[HVqcc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

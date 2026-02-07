@@ -1,12 +1,12 @@
-**Acts 16:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:25**<big><big>[[Acts.16.25 The Conversion of the Jailer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them.
 <small><sub>**BSB:**</sub></small>
 About midnight Paul and Silas were praying and singing hymns to God, and the other prisoners were listening to them.
 <small><sub>**Literal:**</sub></small>
 Toward now <the> midnight Paul and Silas praying they were singing praises to <the> God; Were listening now to them the prisoners.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.24|<< Acts 16:24]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.26|Acts 16:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Toward |**<big>[[G2596\|Κατὰ]]</big>**  |Kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

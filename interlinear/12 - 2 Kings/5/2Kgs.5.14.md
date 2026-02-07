@@ -1,4 +1,4 @@
-**2 Kings 5:14** 
+**2 Kings 5:14**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So Naaman went down and dipped himself in the Jordan seven times, according to t
 > $\quad$ referenced by: [[Luke.4.27|Luke 4:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3381\|יֵּ֗רֶד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.red<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he dipped  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2881\|יִּטְבֹּ֤ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.Bol<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

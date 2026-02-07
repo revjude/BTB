@@ -1,12 +1,12 @@
-**Matthew 25:35
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:35**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:
 <small><sub>**BSB:**</sub></small>
 For I was hungry and you gave Me something to eat, I was thirsty and you gave Me something to drink, I was a stranger and you took Me in,
 <small><sub>**Literal:**</sub></small>
 I hungered for and you gave Me to eat, I thirsted and you gave to drink me, a stranger I was and you took in Me,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.34|<< Matthew 25:34]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.36|Matthew 25:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I hungered |**<big>[[G3983\|ἐπείνασα]]</big>**  |epeinasa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

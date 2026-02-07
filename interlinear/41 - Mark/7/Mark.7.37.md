@@ -1,12 +1,12 @@
-**Mark 7:37
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:37**<big><big>[[Mark.7.31 The Deaf and Mute Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And were beyond measure astonished, saying, He hath done all things well: he maketh both the deaf to hear, and the dumb to speak.
 <small><sub>**BSB:**</sub></small>
 The people were utterly astonished and said, “He has done all things well! He makes even the deaf hear and the mute speak!”
 <small><sub>**Literal:**</sub></small>
 And above measure they were astonished saying; Well all things He has done both the deaf He makes to hear and the mute to speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.36|<< Mark 7:36]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.1|Mark 8:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | above measure |**<big>[[G5228\|ὑπερπερισσῶς]]</big>**  |huperperissōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

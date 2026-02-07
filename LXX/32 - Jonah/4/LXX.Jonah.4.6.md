@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> God assigned a gourd, and it ascended above \[the\] head of Jonah,  to be shading up above  his head,  to shade him from  his hurts. And Jonah rejoiced over the gourd \[with\] great joy. 
-<small><sub>**KJV:**</sub></small>
-And the LORD God prepared a gourd, and made [it] to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.
-<small><sub>**BSB:**</sub></small>
-So the LORD God appointed a vine, and it grew up to provide shade over Jonah’s head to ease his discomfort, and Jonah was greatly pleased with the plant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.4.5|<< Jonah 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.4.7|Jonah 4:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 4:6** is...

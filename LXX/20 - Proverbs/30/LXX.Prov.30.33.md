@@ -1,10 +1,7 @@
 **LXX Proverbs 30:33** 
 <small><sub>**LXX:**</sub></small>
 Extract milk, and there will be butter; but if you should pressure \[the\] nostrils there shall come forth blood; and if you should drag out words, there shall come forth litigations and fights. 
-<small><sub>**KJV:**</sub></small>
-Surely the churning of milk bringeth forth butter, and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife.
-<small><sub>**BSB:**</sub></small>
-For as the churning of milk yields butter, and the twisting of the nose draws blood, so the stirring of anger brings forth strife.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.30.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.32|<< Proverbs 30:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.1|Proverbs 31:1 >>]]</td></tr></table>
 
 | Translation | Greek |

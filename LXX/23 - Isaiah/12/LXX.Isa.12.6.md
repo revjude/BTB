@@ -1,10 +1,7 @@
 **LXX Isaiah 12:6** 
 <small><sub>**LXX:**</sub></small>
 Exult and be glad,  O ones dwelling \[in\] Zion! for the holy one of Israel is exalted in \[the\] midst of her. 
-<small><sub>**KJV:**</sub></small>
-Cry out and shout, thou inhabitant of Zion: for great [is] the Holy One of Israel in the midst of thee.
-<small><sub>**BSB:**</sub></small>
-Cry out and sing, O citizen of Zion, for great among you is the Holy One of Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.12.5|<< Isaiah 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.13.1|Isaiah 13:1 >>]]</td></tr></table>
 
 | Translation | Greek |

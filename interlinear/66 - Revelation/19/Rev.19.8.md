@@ -1,5 +1,5 @@
-**Revelation 19:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:8**<big><big>[[Rev.19.6 The Marriage of the Lamb|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to her was granted that she should be arrayed in fine linen, clean and white: for the fine linen is the righteousness of saints.
 <small><sub>**BSB:**</sub></small>
 She was given clothing of fine linen, bright and pure.” For the fine linen she wears is the righteous acts of the saints.
@@ -10,7 +10,7 @@ And it was given to her that she may be clothed in fine linen bright and pure; <
 > $\quad$ alluding to: [[LXX.Ps.45.14|Ps 45:14]] ☩ [[LXX.Isa.61.10|Isa 61:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it was given |**<big>[[G1325\|ἐδόθη]]</big>**  |edothē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:10** 
 <small><sub>**LXX:**</sub></small>
 And they set up to themselves \[stone\] monuments and sacred groves upon every high hill, and underneath every tree of \[the\] woods. 
-<small><sub>**KJV:**</sub></small>
-And they set them up images and groves in every high hill, and under every green tree:
-<small><sub>**BSB:**</sub></small>
-They set up for themselves sacred pillars and Asherah poles on every high hill and under every green tree.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.9|<< 2 Kings 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.11|2 Kings 17:11 >>]]</td></tr></table>
 
 | Translation | Greek |

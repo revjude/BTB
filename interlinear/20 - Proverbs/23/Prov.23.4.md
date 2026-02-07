@@ -1,4 +1,4 @@
-**Proverbs 23:4** 
+**Proverbs 23:4**<big><big>[[Prov.23.4 Saying 8|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Labour not to be rich: cease from thine own wisdom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not wear yourself out to get rich; be wise enough to restrain yourself.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.3|<< Proverbs 23:3]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.5|Proverbs 23:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you labor  |**<big>&#8207;[[H3021\|תִּיגַ֥ע]]&#8207; </big>**| ti.Ga'<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

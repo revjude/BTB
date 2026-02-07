@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:22** 
 <small><sub>**LXX:**</sub></small>
 And I turned  my hand against them, and I acted because of myself, so that  my name  should not be thoroughly profaned before the nations; from whom I led them out before their eyes. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless I withdrew mine hand, and wrought for my name’s sake, that it should not be polluted in the sight of the heathen, in whose sight I brought them forth.
-<small><sub>**BSB:**</sub></small>
-But I withheld My hand and acted for the sake of My name, so that it would not be profaned in the eyes of the nations in whose sight I had brought them out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.21|<< Ezekiel 20:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.23|Ezekiel 20:23 >>]]</td></tr></table>
 
 | Translation | Greek |

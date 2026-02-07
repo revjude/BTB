@@ -1,4 +1,4 @@
-**Ezekiel 6:7** 
+**Ezekiel 6:7**<big><big>[[Ezek.6.1 Judgment against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the slain shall fall in the midst of you, and ye shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The slain will fall among you, and you will know that I am the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.6|<< Ezekiel 6:6]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.8|Ezekiel 6:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will fall  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5307J\|נָפַ֥ל]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Fal<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] slain  |**<big>&#8207;[[H2491A\|חָלָ֖ל]]&#8207; </big>**| cha.Lal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

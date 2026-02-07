@@ -1,10 +1,7 @@
 **LXX Zechariah 9:10** 
 <small><sub>**LXX:**</sub></small>
 And he shall utterly destroy chariots from Ephraim, and \[the\] horse from Jerusalem; \[the\] bow of warfare shall be utterly destroyed, and abundance and peace out of nations. And he shall rule waters unto \[the\] sea, and from rivers of \[the\] passes of \[the\] earth. 
-<small><sub>**KJV:**</sub></small>
-And I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the battle bow shall be cut off: and he shall speak peace unto the heathen: and his dominion [shall be] from sea [even] to sea, and from the river [even] to the ends of the earth.
-<small><sub>**BSB:**</sub></small>
-And I will cut off the chariot from Ephraim and the horse from Jerusalem, and the bow of war will be broken. Then He will proclaim peace to the nations. His dominion will extend from sea to sea, and from the Euphrates to the ends of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.9|<< Zechariah 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.11|Zechariah 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

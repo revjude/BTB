@@ -1,4 +1,4 @@
-**1 Kings 8:61** 
+**1 Kings 8:61**<big><big>[[1Kgs.8.54 Solomon’s Benediction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let your heart therefore be perfect with the LORD our God, to walk in his statutes, and to keep his commandments, as at this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So let your heart be fully devoted to the LORD our God, as it is this day, to wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.61|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.60|<< 1 Kings 8:60]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.62|1 Kings 8:62 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart your  |**<big>&#8207;[[H3824\|לְבַבְ]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| le.vav.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

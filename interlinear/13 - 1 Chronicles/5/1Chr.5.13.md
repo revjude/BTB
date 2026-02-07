@@ -1,4 +1,4 @@
-**1 Chronicles 5:13** 
+**1 Chronicles 5:13**<big><big>[[1Chr.5.11 The Descendants of Gad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their brethren of the house of their fathers [were], Michael, and Meshullam, and Sheba, and Jorai, and Jachan, and Zia, and Heber, seven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their kinsmen by families were Michael, Meshullam, Sheba, Jorai, Jacan, Zia, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.12|<< 1 Chronicles 5:12]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.14|1 Chronicles 5:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and relatives their  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0251H\|אֲחֵי]]&#8207;&#8207;[[H9028\|הֶ֞ם]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.chei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] house of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1004M\|בֵ֣ית]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Veit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Chronicles 16:21** 
+**1 Chronicles 16:21**<big><big>[[1Chr.16.7 David’s Psalms of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He suffered no man to do them wrong: yea, he reproved kings for their sakes,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He let no man oppress them; He rebuked kings on their behalf:
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.20|<< 1 Chronicles 16:20]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.22|1 Chronicles 16:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he permitted  |**<big>&#8207;[[H5117\|הִנִּ֤יחַ]]&#8207; </big>**| hi.Ni.ach<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

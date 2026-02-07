@@ -1,4 +1,4 @@
-**Deuteronomy 23:7** (23:8)
+**Deuteronomy 23:7**<big><big>[[Deut.23.1 Exclusion from the Congregation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not abhor an Edomite; for he [is] thy brother: thou shalt not abhor an Egyptian; because thou wast a stranger in his land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not despise an Edomite, for he is your brother. Do not despise an Egyptian, b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.6|<< Deuteronomy 23:6]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.8|Deuteronomy 23:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will abhor  |**<big>&#8207;[[H8581\|תְתַעֵ֣ב]]&#8207; </big>**| te.ta.'Ev<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

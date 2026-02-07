@@ -1,12 +1,12 @@
-**Luke 9:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:29**<big><big>[[Luke.9.28 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And as he prayed, the fashion of his countenance was altered, and his raiment [was] white [and] glistering.
 <small><sub>**BSB:**</sub></small>
 And as He was praying, the appearance of His face changed, and His clothes became radiantly white.
 <small><sub>**Literal:**</sub></small>
 And it came to pass during <the> praying by Him the appearance of the face of Him [was] altered, and the clothing of Him white became dazzling.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.28|<< Luke 9:28]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.30|Luke 9:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

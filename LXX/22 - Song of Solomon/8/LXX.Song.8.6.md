@@ -1,10 +1,7 @@
 **LXX Song of Solomon 8:6** 
 <small><sub>**LXX:**</sub></small>
 Set me as a seal upon  your heart, as a seal upon  your arm! For the love \[is\] strong as death; hard as Hades \[is\] jealousy; her sparks \[are\] sparks of \[the\] fire of her flames. 
-<small><sub>**KJV:**</sub></small>
-Set me as a seal upon thine heart, as a seal upon thine arm: for love [is] strong as death; jealousy [is] cruel as the grave: the coals thereof [are] coals of fire, [which hath] a most vehement flame.
-<small><sub>**BSB:**</sub></small>
-Set me as a seal over your heart, as a seal upon your arm. For love is as strong as death, its jealousy as unrelenting as Sheol. Its sparks are fiery flames, the fiercest blaze of all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.5|<< Song of Solomon 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.7|Song of Solomon 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

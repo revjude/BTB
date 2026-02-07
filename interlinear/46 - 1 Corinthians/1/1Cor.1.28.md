@@ -1,12 +1,12 @@
-**1 Corinthians 1:28
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:28**<big><big>[[1Cor.1.26 Wisdom from God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And base things of the world, and things which are despised, hath God chosen, [yea], and things which are not, to bring to nought things that are:
 <small><sub>**BSB:**</sub></small>
 He chose the lowly and despised things of the world, and the things that are not, to nullify the things that are,
 <small><sub>**Literal:**</sub></small>
 and the low-born of the world and the [things] despised chose <the> God, and the [things] not being, that the [things] being He may annul,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.27|<< 1 Corinthians 1:27]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.29|1 Corinthians 1:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**Acts 7:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:13**<big><big>[[Acts.7.9 Joseph Sold into Egypt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And at the second [time] Joseph was made known to his brethren; and Joseph’s kindred was made known unto Pharaoh.
 <small><sub>**BSB:**</sub></small>
 On their second visit, Joseph revealed his identity to his brothers, and his family became known to Pharaoh.
@@ -10,7 +10,7 @@ and on the second time was recognised by Joseph the to brothers of him, and know
 > $\quad$ alluding to: [[LXX.Gen.45.1|Gen 45:1]] ☩ [[LXX.Gen.45.9|Gen 45:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | on |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

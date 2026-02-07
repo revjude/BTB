@@ -1,4 +1,4 @@
-**Numbers 19:12** 
+**Numbers 19:12**<big><big>[[Num.19.11 Purification of the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall purify himself with it on the third day, and on the seventh day he shall be clean: but if he purify not himself the third day, then the seventh day he shall not be clean.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He must purify himself with the water on the third day and on the seventh day; t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.11|<< Numbers 19:11]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.13|Numbers 19:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will purify himself  |**<big>&#8207;[[H2398\|יִתְחַטָּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yit.cha.ta'-<small><sup>[[HVti3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Nehemiah 12:24** 
+**Nehemiah 12:24**<big><big>[[Neh.12.1 The Priests and Levites Who Returned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise [and] to give thanks, according to the commandment of David the man of God, ward over against ward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The leaders of the Levites were Hashabiah, Sherebiah, and Jeshua son of Kadmiel,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.23|<< Nehemiah 12:23]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.25|Nehemiah 12:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] leaders of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7218H\|רָאשֵׁ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ra.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Levites  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H3881\|לְוִיִּם]]&#8207; </big>**| Ha<small><sup>[[HTd]]</sup></small> l.vi.yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

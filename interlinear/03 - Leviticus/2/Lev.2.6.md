@@ -1,4 +1,4 @@
-**Leviticus 2:6** 
+**Leviticus 2:6**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt part it in pieces, and pour oil thereon: it [is] a meat offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Crumble it and pour oil on it; it is a grain offering.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.5|<< Leviticus 2:5]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.7|Leviticus 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you will crumble  |**<big>&#8207;[[H6626\|פָּת֤וֹת]]&#8207; </big>**| pa.Tot<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹתָ]]&#8207;&#8207;[[H9034\|הּ֙]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

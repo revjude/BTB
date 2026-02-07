@@ -1,12 +1,12 @@
-**John 8:47
-**<small><sub>**KJV:**</sub></small>
+**John 8:47**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that is of God heareth God’s words: ye therefore hear [them] not, because ye are not of God.
 <small><sub>**BSB:**</sub></small>
 Whoever belongs to God hears the words of God. The reason you do not hear is that you do not belong to God.”
 <small><sub>**Literal:**</sub></small>
 He who is of <the> God the declarations <the> of God hears; because of this you yourselves not hear, because of <the> God not you are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.46|<< John 8:46]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.48|John 8:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He who |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is |**<big>[[G1510\|ὢν]]</big>**  |ōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

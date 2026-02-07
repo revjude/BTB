@@ -1,5 +1,5 @@
-**Romans 3:20
-**<small><sub>**KJV:**</sub></small>
+**Romans 3:20**<big><big>[[Rom.3.9 There Is No One Righteous|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law [is] the knowledge of sin.
 <small><sub>**BSB:**</sub></small>
 Therefore no one will be justified in His sight by works of the law. For the law merely brings awareness of sin.
@@ -10,7 +10,7 @@ Therefore by works of [the] Law not will be justified any flesh before Him; thro
 > $\quad$ alluding to: [[LXX.Ps.143.2|Ps 143:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1360\|διότι]]</big>**  |dioti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | by |**<big>[[G1537\|ἐξ]]</big>**  |ex <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

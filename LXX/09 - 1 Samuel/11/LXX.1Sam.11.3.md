@@ -1,10 +1,7 @@
 **LXX 1 Samuel 11:3** 
 <small><sub>**LXX:**</sub></small>
 And the men of Jabish spoke to him, \[saying\], Spare us seven days, and we will send messengers unto every border of Israel. And if there might not be  one delivering us, then we will come forth to you. 
-<small><sub>**KJV:**</sub></small>
-And the elders of Jabesh said unto him, Give us seven days’ respite, that we may send messengers unto all the coasts of Israel: and then, if [there be] no man to save us, we will come out to thee.
-<small><sub>**BSB:**</sub></small>
-“Hold off for seven days,” replied the elders of Jabesh, “and let us send messengers throughout Israel. If there is no one to save us, we will surrender to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.2|<< 1 Samuel 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.4|1 Samuel 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

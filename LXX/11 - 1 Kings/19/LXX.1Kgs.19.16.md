@@ -1,10 +1,7 @@
 **LXX 1 Kings 19:16** 
 <small><sub>**LXX:**</sub></small>
 And  Jehu son of Nimshi you shall anoint as king over Israel. And  Elisha son of Shaphat of Abel-meholah you shall anoint as prophet instead of you. 
-<small><sub>**KJV:**</sub></small>
-And Jehu the son of Nimshi shalt thou anoint [to be] king over Israel: and Elisha the son of Shaphat of Abelmeholah shalt thou anoint [to be] prophet in thy room.
-<small><sub>**BSB:**</sub></small>
-You are also to anoint Jehu son of Nimshi as king over Israel and Elisha son of Shaphat from Abel-meholah to succeed you as prophet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.15|<< 1 Kings 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.17|1 Kings 19:17 >>]]</td></tr></table>
 
 | Translation | Greek |

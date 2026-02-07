@@ -1,12 +1,12 @@
-**Luke 17:16
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:16**<big><big>[[Luke.17.11 The Ten Lepers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And fell down on [his] face at his feet, giving him thanks: and he was a Samaritan.
 <small><sub>**BSB:**</sub></small>
 He fell facedown at Jesus’ feet in thanksgiving to Him—and he was a Samaritan.
 <small><sub>**Literal:**</sub></small>
 and he fell on [his] face at the feet of Him giving thanks to Him; and he himself was a Samaritan.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.15|<< Luke 17:15]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.17|Luke 17:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he fell |**<big>[[G4098\|ἔπεσεν]]</big>**  |epesen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

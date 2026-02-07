@@ -1,4 +1,4 @@
-**Job 30:7** 
+**Job 30:7**<big><big>[[Job.30.1 Job’s Honor Turned to Contempt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Among the bushes they brayed; under the nettles they were gathered together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They cried out among the shrubs and huddled beneath the nettles.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.6|<< Job 30:6]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.8|Job 30:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | between  |**<big>&#8207;[[H0996G\|בֵּין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bein-<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bushes  |**<big>&#8207;[[H7880\|שִׂיחִ֥ים]]&#8207; </big>**| si.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Daniel 2:35** 
+**Daniel 2:35**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the iron, clay, bronze, silver, and gold were shattered and became like cha
 > $\quad$ referenced by: [[Matt.21.44|Matt 21:44]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֣יִן]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were shattered  |**<big>&#8207;[[H1855\|דָּ֣קוּ]]&#8207; </big>**| Da.ku<small><sup>[[AVqp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

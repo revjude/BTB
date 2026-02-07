@@ -1,12 +1,12 @@
-**Mark 12:6
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:6**<big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having yet therefore one son, his wellbeloved, he sent him also last unto them, saying, They will reverence my son.
 <small><sub>**BSB:**</sub></small>
 Finally, having one beloved son, he sent him to them. ‘They will respect my son,’ he said.
 <small><sub>**Literal:**</sub></small>
 Yet therefore one did have son beloved of him; he sent and him last to them saying that They will have respect for the son of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.5|<< Mark 12:5]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.7|Mark 12:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yet |**<big>[[G2089\|ἔτι]]</big>**  |eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

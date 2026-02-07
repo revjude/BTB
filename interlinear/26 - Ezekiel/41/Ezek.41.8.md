@@ -1,4 +1,4 @@
-**Ezekiel 41:8** 
+**Ezekiel 41:8**<big><big>[[Ezek.41.5 Outside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I saw also the height of the house round about: the foundations of the side chambers [were] a full reed of six great cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I saw that the temple had a raised base all around it, forming the foundation of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.7|<< Ezekiel 41:7]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.9|Ezekiel 41:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I saw  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|רָאִ֧יתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'I.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belonged] to the house  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1004B\|בַּ֛יִת]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

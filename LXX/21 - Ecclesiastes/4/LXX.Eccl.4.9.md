@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 4:9** 
 <small><sub>**LXX:**</sub></small>
 Better the two than the one, in which there is to them a good wage in their effort. 
-<small><sub>**KJV:**</sub></small>
-Two [are] better than one; because they have a good reward for their labour.
-<small><sub>**BSB:**</sub></small>
-Two are better than one, because they have a good return for their labor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.8|<< Ecclesiastes 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.10|Ecclesiastes 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

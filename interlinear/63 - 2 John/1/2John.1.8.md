@@ -1,12 +1,12 @@
-**2 John 1:8
-**<small><sub>**KJV:**</sub></small>
+**2 John 1:8**<big><big>[[2John.1.7 Beware of Deceivers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward.
 <small><sub>**BSB:**</sub></small>
 Watch yourselves, so that you do not lose what we have worked for, but that you may be fully rewarded.
 <small><sub>**Literal:**</sub></small>
 do watch yourselves so that not you may lose what things we have worked for, but a reward full you may receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.7|<< 2 John 1:7]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.9|2 John 1:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do watch |**<big>[[G0991\|βλέπετε]]</big>**  |blepete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | yourselves |**<big>[[G1438\|ἑαυτοὺς]]</big>**  |he'autous <small><sup>[[F-2APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

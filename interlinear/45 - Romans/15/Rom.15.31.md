@@ -1,12 +1,12 @@
-**Romans 15:31
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:31**<big><big>[[Rom.15.23 Paul’s Travel Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That I may be delivered from them that do not believe in Judaea; and that my service which [I have] for Jerusalem may be accepted of the saints;
 <small><sub>**BSB:**</sub></small>
 Pray that I may be delivered from the unbelievers in Judea, and that my service in Jerusalem may be acceptable to the saints there,
 <small><sub>**Literal:**</sub></small>
 so that I may be delivered from those refusing to be persuaded in <the> Judea and so that the service of mine which [is] in Jerusalem acceptable to the saints may become<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.30|<< Romans 15:30]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.32|Romans 15:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I may be delivered |**<big>[[G4506\|ῥυσθῶ]]</big>**  |rhusthō <small><sup>[[V-APS-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

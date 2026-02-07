@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:33** 
 <small><sub>**LXX:**</sub></small>
 And a man stretched tight a bow skillfully and struck the king of Israel between the lungs, and between the chest \[plate\]. And he said to the charioteer, Turn  your hand, and lead me from the battle! for I am wounded. 
-<small><sub>**KJV:**</sub></small>
-And a [certain] man drew a bow at a venture, and smote the king of Israel between the joints of the harness: therefore he said to his chariot man, Turn thine hand, that thou mayest carry me out of the host; for I am wounded.
-<small><sub>**BSB:**</sub></small>
-However, a certain man drew his bow without taking special aim, and he struck the king of Israel between the joints of his armor. So the king said to his charioteer, “Turn around and take me out of the battle, for I am badly wounded!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.32|<< 2 Chronicles 18:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.34|2 Chronicles 18:34 >>]]</td></tr></table>
 
 | Translation | Greek |

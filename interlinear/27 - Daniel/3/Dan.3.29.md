@@ -1,4 +1,4 @@
-**Daniel 3:29** 
+**Daniel 3:29**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I make a decree, That every people, nation, and language, which speak any thing amiss against the God of Shadrach, Meshach, and Abednego, shall be cut in pieces, and their houses shall be made a dunghill: because there is no other God that can deliver after this sort.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore I decree that the people of any nation or language who say anything of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.28|<< Daniel 3:28]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.30|Daniel 3:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from me  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9030\|נִּי֮]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is made  |**<big>&#8207;[[H7761G\|שִׂ֣ים]]&#8207; </big>**| sim<small><sup>[[AVQp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

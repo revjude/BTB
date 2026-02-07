@@ -1,4 +1,4 @@
-**2 Chronicles 22:10** 
+**2 Chronicles 22:10**<big><big>[[2Chr.22.10 Athaliah and Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal of the house of Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Athaliah the mother of Ahaziah saw that her son was dead, she proceeded to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.22.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.22.9|<< 2 Chronicles 22:9]]</td><td align="center" style="border:none;">[[2Chr.22|2 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22.11|2 Chronicles 22:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Athaliah  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6271G\|עֲתַלְיָ֙הוּ֙]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.tal.Ya.hu<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] mother of  |**<big>&#8207;[[H0517\|אֵ֣ם]]&#8207; </big>**| 'em<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

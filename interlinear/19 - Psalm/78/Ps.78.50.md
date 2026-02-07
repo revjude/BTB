@@ -1,4 +1,4 @@
-**Psalms 78:50** 
+**Psalms 78:50**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He made a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He cleared a path for His anger; He did not spare them from death but delivered 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.49|<< Psalms 78:49]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.51|Psalms 78:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he made level  |**<big>&#8207;[[H6424\|יְפַלֵּ֥ס]]&#8207; </big>**| ye.fa.Les<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a path  |**<big>&#8207;[[H5410A\|נָתִ֗יב]]&#8207; </big>**| na.Tiv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 73:2** 
+**Psalms 73:2**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But as for me, my feet were almost gone; my steps had well nigh slipped.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But as for me, my feet had almost stumbled; my steps had nearly slipped.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.1|<< Psalms 73:1]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.3|Psalms 73:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0589\|אֲנִ֗י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a little  |**<big>&#8207;[[H9004\|כִּ֭]]&#8207;&#8207;[[H4592\|מְעַט]]&#8207; </big>**| Ki<small><sup>[[HR]]</sup></small> m.'at<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

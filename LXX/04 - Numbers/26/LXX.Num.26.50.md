@@ -1,10 +1,7 @@
 **LXX Numbers 26:50** 
 <small><sub>**LXX:**</sub></small>
 These \[are the\] peoples of Naphtali by their numbering -- five and forty thousand and four hundred. 
-<small><sub>**KJV:**</sub></small>
-These [are] the families of Naphtali according to their families: and they that were numbered of them [were] forty and five thousand and four hundred.
-<small><sub>**BSB:**</sub></small>
-These were the clans of Naphtali, and their registration numbered 45,400.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.49|<< Numbers 26:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.51|Numbers 26:51 >>]]</td></tr></table>
 
 | Translation | Greek |

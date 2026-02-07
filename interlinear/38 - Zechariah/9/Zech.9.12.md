@@ -1,4 +1,4 @@
-**Zechariah 9:12** 
+**Zechariah 9:12**<big><big>[[Zech.9.9 Zion’s Coming King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn you to the strong hold, ye prisoners of hope: even to day do I declare [that] I will render double unto thee;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Return to your stronghold, O prisoners of hope; even today I declare that I will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.11|<< Zechariah 9:11]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.13|Zechariah 9:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | return  |**<big>&#8207;[[H7725G\|שׁ֚וּבוּ]]&#8207; </big>**| Shu.vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] stronghold  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1225\|בִצָּר֔וֹן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vi.tza.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

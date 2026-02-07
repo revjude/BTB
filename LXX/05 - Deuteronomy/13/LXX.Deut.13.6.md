@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 But if there should enjoin you,  your brother from your father, or from your mother, or  of your son, or  of your daughter, or  of your wife, or one in  your bosom, or  your equal friend \[to\] your soul, in private saying, We should go and should serve other gods which neither you nor your fathers know, 
-<small><sub>**KJV:**</sub></small>
-If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which [is] as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers;
-<small><sub>**BSB:**</sub></small>
-If your very own brother, or your son or daughter, or the wife you embrace, or your closest friend secretly entices you, saying, “Let us go and worship other gods” (which neither you nor your fathers have known,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.5|<< Deuteronomy 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.7|Deuteronomy 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

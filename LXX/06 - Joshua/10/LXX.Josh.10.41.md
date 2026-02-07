@@ -1,10 +1,7 @@
 **LXX Joshua 10:41** 
 <small><sub>**LXX:**</sub></small>
 And Joshua killed them from Kadesh Barnea unto Gaza, all the land of Goshen unto  Gibeon. 
-<small><sub>**KJV:**</sub></small>
-And Joshua smote them from Kadeshbarnea even unto Gaza, and all the country of Goshen, even unto Gibeon.
-<small><sub>**BSB:**</sub></small>
-Joshua conquered the area from Kadesh-barnea to Gaza, and the whole region of Goshen as far as Gibeon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.40|<< Joshua 10:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.42|Joshua 10:42 >>]]</td></tr></table>
 
 | Translation | Greek |

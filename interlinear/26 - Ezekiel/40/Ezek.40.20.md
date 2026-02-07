@@ -1,4 +1,4 @@
-**Ezekiel 40:20** 
+**Ezekiel 40:20**<big><big>[[Ezek.40.20 The North Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the gate of the outward court that looked toward the north, he measured the length thereof, and the breadth thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also measured the length and width of the gateway of the outer court facing n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.19|<< Ezekiel 40:19]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.21|Ezekiel 40:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the gate  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8179G\|שַּׁ֗עַר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

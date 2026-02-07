@@ -1,10 +1,7 @@
 **LXX Isaiah 6:12** 
 <small><sub>**LXX:**</sub></small>
 And after these \[things\] God shall distance the men; and the ones being left behind upon the land shall be multiplied. 
-<small><sub>**KJV:**</sub></small>
-And the LORD have removed men far away, and [there be] a great forsaking in the midst of the land.
-<small><sub>**BSB:**</sub></small>
-until the LORD has driven men far away and the land is utterly forsaken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.11|<< Isaiah 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.13|Isaiah 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

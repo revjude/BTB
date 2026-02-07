@@ -1,10 +1,7 @@
 **LXX Genesis 36:23** 
 <small><sub>**LXX:**</sub></small>
 And these \[were\] \[the\] sons of Shobal -- Golam, and Manahath, and Ebal, and Shepho, and Onam. 
-<small><sub>**KJV:**</sub></small>
-And the children of Shobal [were] these; Alvan, and Manahath, and Ebal, Shepho, and Onam.
-<small><sub>**BSB:**</sub></small>
-These are the sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.22|<< Genesis 36:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.24|Genesis 36:24 >>]]</td></tr></table>
 
 | Translation | Greek |

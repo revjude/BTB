@@ -1,4 +1,4 @@
-**Job 38:41** 
+**Job 38:41**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who provides food for the raven when its young cry out to God as they wander abo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.40|<< Job 38:40]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.1|Job 39:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֤י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | does he prepare  |**<big>&#8207;[[H3559A\|יָכִ֥ין]]&#8207; </big>**| ya.Khin<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 18:17** 
+**Exodus 18:17**<big><big>[[Exod.18.13 Jethro Advises Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses’ father in law said unto him, The thing that thou doest [is] not good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Moses’ father-in-law said to him, “What you are doing is not good.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.16|<< Exodus 18:16]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.18|Exodus 18:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֛אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] father-in-law of  |**<big>&#8207;[[H2859A\|חֹתֵ֥ן]]&#8207; </big>**| cho.Ten<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

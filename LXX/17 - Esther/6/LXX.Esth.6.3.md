@@ -1,10 +1,7 @@
 **LXX Esther 6:3** 
 <small><sub>**LXX:**</sub></small>
 And the king said, What glory or favor did we do  for Mordecai? And the servants of the king said, We did not do for him one \[thing\]. 
-<small><sub>**KJV:**</sub></small>
-And the king said, What honour and dignity hath been done to Mordecai for this? Then said the king’s servants that ministered unto him, There is nothing done for him.
-<small><sub>**BSB:**</sub></small>
-The king inquired, “What honor or dignity has been bestowed on Mordecai for this act?” “Nothing has been done for him,” replied the king’s attendants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.6.2|<< Esther 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.6.4|Esther 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

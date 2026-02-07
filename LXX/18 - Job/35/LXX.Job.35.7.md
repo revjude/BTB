@@ -1,10 +1,7 @@
 **LXX Job 35:7** 
 <small><sub>**LXX:**</sub></small>
 Since then you are righteous, what shall you give to him, or what shall he take from out of your hand? 
-<small><sub>**KJV:**</sub></small>
-If thou be righteous, what givest thou him? or what receiveth he of thine hand?
-<small><sub>**BSB:**</sub></small>
-If you are righteous, what do you give Him, or what does He receive from your hand?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.35.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.6|<< Job 35:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.8|Job 35:8 >>]]</td></tr></table>
 
 | Translation | Greek |

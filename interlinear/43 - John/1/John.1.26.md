@@ -1,12 +1,12 @@
-**John 1:26
-**<small><sub>**KJV:**</sub></small>
+**John 1:26**<big><big>[[John.1.19 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;
 <small><sub>**BSB:**</sub></small>
 “I baptize with water,” John replied, “but among you stands One you do not know.
 <small><sub>**Literal:**</sub></small>
 Answered them <the> John saying; I myself baptize with water; [in the] midst now of you he has stood whom you yourselves not know,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.25|<< John 1:25]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.27|John 1:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | them |**<big>[[G0846\|αὐτοῖς]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

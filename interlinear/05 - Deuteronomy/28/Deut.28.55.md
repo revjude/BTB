@@ -1,4 +1,4 @@
-**Deuteronomy 28:55** 
+**Deuteronomy 28:55**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that he will not give to any of them of the flesh of his children whom he shall eat: because he hath nothing left him in the siege, and in the straitness, wherewith thine enemies shall distress thee in all thy gates.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ refusing to share with any of them the flesh of his children he will eat because
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.54|<< Deuteronomy 28:54]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.56|Deuteronomy 28:56 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from giving  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5414G\|תֵּ֣ת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Tet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to one  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0259\|אַחַ֣ד]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

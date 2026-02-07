@@ -1,4 +1,4 @@
-**Genesis 9:15** 
+**Genesis 9:15**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will remember my covenant, which [is] between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will remember My covenant between Me and you and every living creature of ever
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.14|<< Genesis 9:14]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.16|Genesis 9:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will remember  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2142\|זָכַרְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> za.khar.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

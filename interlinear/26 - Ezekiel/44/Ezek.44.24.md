@@ -1,4 +1,4 @@
-**Ezekiel 44:24** 
+**Ezekiel 44:24**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in controversy they shall stand in judgment; [and] they shall judge it according to my judgments: and they shall keep my laws and my statutes in all mine assemblies; and they shall hallow my sabbaths.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In any dispute, they shall officiate as judges and judge according to My ordinan
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.23|<< Ezekiel 44:23]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.25|Ezekiel 44:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a dispute  |**<big>&#8207;[[H7379\|רִ֗יב]]&#8207; </big>**| Riv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

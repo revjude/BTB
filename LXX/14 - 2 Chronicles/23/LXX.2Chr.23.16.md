@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 23:16** 
 <small><sub>**LXX:**</sub></small>
 And Jehoiada ordained a covenant between he and between the people, and between the king,  to be for a people to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be the LORD’S people.
-<small><sub>**BSB:**</sub></small>
-Then Jehoiada made a covenant between himself and the king and the people that they would be the LORD’s people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.15|<< 2 Chronicles 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.17|2 Chronicles 23:17 >>]]</td></tr></table>
 
 | Translation | Greek |

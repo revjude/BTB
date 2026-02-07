@@ -1,10 +1,7 @@
 **LXX Joshua 19:22** 
 <small><sub>**LXX:**</sub></small>
 And the borders joined together at Tabor, and at Shahazinah, and Beth-shemesh; and the outer reaches of their borders will be the Jordan, Sixteen cities and  their towns. 
-<small><sub>**KJV:**</sub></small>
-And the coast reacheth to Tabor, and Shahazimah, and Bethshemesh; and the outgoings of their border were at Jordan: sixteen cities with their villages.
-<small><sub>**BSB:**</sub></small>
-The border reached Tabor, Shahazumah, and Beth-shemesh, and ended at the Jordan. There were sixteen cities, along with their villages.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.21|<< Joshua 19:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.23|Joshua 19:23 >>]]</td></tr></table>
 
 | Translation | Greek |

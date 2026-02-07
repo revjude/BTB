@@ -1,4 +1,4 @@
-**Song of Solomon 6:2** 
+**Song of Solomon 6:2**<big><big>[[Song.6.2 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My beloved has gone down to his garden, to the beds of spices, to pasture his fl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.1|<< Song of Solomon 6:1]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.3|Song of Solomon 6:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lover my  |**<big>&#8207;[[H1730G\|דּוֹדִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| do.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has gone down  |**<big>&#8207;[[H3381\|יָרַ֣ד]]&#8207; </big>**| ya.Rad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

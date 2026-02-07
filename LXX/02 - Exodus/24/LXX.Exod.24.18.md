@@ -1,10 +1,7 @@
 **LXX Exodus 24:18** 
 <small><sub>**LXX:**</sub></small>
 And Moses entered in the midst of the cloud, and ascended unto the mountain, and was there in the mountain forty days and forty nights. 
-<small><sub>**KJV:**</sub></small>
-And Moses went into the midst of the cloud, and gat him up into the mount: and Moses was in the mount forty days and forty nights.
-<small><sub>**BSB:**</sub></small>
-Moses entered the cloud as he went up on the mountain, and he remained on the mountain forty days and forty nights.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.17|<< Exodus 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.1|Exodus 25:1 >>]]</td></tr></table>
 
 | Translation | Greek |

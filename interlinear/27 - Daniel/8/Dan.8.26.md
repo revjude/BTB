@@ -1,4 +1,4 @@
-**Daniel 8:26** 
+**Daniel 8:26**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the vision of the evening and the morning which was told [is] true: wherefore shut thou up the vision; for it [shall be] for many days.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The vision of the evenings and the mornings that has been spoken is true. Now yo
 > $\quad$ referenced by: [[Rev.10.4|Rev 10:4]] ☩ [[Rev.22.10|Rev 22:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] vision of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4758\|מַרְאֵ֨ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mar.'Eh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the evening  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6153\|עֶ֧רֶב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

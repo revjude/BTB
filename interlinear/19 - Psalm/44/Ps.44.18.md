@@ -1,4 +1,4 @@
-**Psalms 44:18** (44:19)
+**Psalms 44:18**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our heart is not turned back, neither have our steps declined from thy way;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Our hearts have not turned back; our steps have not strayed from Your path.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.17|<< Psalms 44:17]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.19|Psalms 44:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it had turned back  |**<big>&#8207;[[H5472\|נָס֣וֹג]]&#8207; </big>**| na.Sog<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

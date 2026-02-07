@@ -1,4 +1,4 @@
-**1 Kings 18:6** 
+**1 Kings 18:6**<big><big>[[1Kgs.18.1 Elijah’s Message to Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they divided the land between them to pass throughout it: Ahab went one way by himself, and Obadiah went another way by himself.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they divided the land to explore. Ahab went one way by himself, and Obadiah w
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.5|<< 1 Kings 18:5]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.7|1 Kings 18:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they divided  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2505A\|יְחַלְּק֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.cha.le.Ku<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to themselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֛ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

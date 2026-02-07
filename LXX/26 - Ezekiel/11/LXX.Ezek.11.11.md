@@ -1,10 +1,7 @@
 **LXX Ezekiel 11:11** 
 <small><sub>**LXX:**</sub></small>
 She shall not be to you for a kettle, and you in no way shall become in \[the\] midst of her for meat. 
-<small><sub>**KJV:**</sub></small>
-This [city] shall not be your caldron, neither shall ye be the flesh in the midst thereof; [but] I will judge you in the border of Israel:
-<small><sub>**BSB:**</sub></small>
-The city will not be a pot for you, nor will you be the meat within it. I will judge you even to the borders of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.10|<< Ezekiel 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.12|Ezekiel 11:12 >>]]</td></tr></table>
 
 | Translation | Greek |

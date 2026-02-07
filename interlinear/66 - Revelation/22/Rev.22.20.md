@@ -1,5 +1,5 @@
-**Revelation 22:20
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:20**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.
 <small><sub>**BSB:**</sub></small>
 He who testifies to these things says, “Yes, I am coming soon.” Amen. Come, Lord Jesus!
@@ -10,7 +10,7 @@ Says the [One] testifying these things; Yes I am coming quickly; Amen. yes do co
 > $\quad$ possibly alluding to: [[LXX.Hab.2.3|Hab 2:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|Λέγει]]</big>**  |Legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [One] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

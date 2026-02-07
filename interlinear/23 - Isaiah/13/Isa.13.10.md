@@ -1,4 +1,4 @@
-**Isaiah 13:10** 
+**Isaiah 13:10**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the stars of heaven and the constellations thereof shall not give their light: the sun shall be darkened in his going forth, and the moon shall not cause her light to shine.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For the stars of heaven and their constellations will not give their light. The 
 > $\quad$ referenced by: [[Matt.24.29|Matt 24:29]] ☩ [[Mark.13.24|Mark 13:24-25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] stars of  |**<big>&#8207;[[H3556\|כוֹכְבֵ֤י]]&#8207; </big>**| khokh.Vei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

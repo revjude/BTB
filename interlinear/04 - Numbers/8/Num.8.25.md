@@ -1,4 +1,4 @@
-**Numbers 8:25** 
+**Numbers 8:25**<big><big>[[Num.8.23 Retirement for Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And from the age of fifty years they shall cease waiting upon the service [thereof], and shall serve no more:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But at the age of fifty, they must retire from performing the work and no longer
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.24|<< Numbers 8:24]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.26|Numbers 8:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from a son of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1121L\|בֶּן֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> Ben<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fifty  |**<big>&#8207;[[H2572\|חֲמִשִּׁ֣ים]]&#8207; </big>**| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

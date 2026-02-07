@@ -1,4 +1,4 @@
-**Joshua 20:3** 
+**Joshua 20:3**<big><big>[[Josh.20.1 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the slayer that killeth [any] person unawares [and] unwittingly may flee thither: and they shall be your refuge from the avenger of blood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that anyone who kills another unintentionally or accidentally may flee there.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.20.2|<< Joshua 20:2]]</td><td align="center" style="border:none;">[[Josh.20|Joshua 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.20.4|Joshua 20:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to flee  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5127\|נ֥וּס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Nus<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there towards  |**<big>&#8207;[[H8033G\|שָׁ֙מָּ]]&#8207;&#8207;[[H9011\|ה֙]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |

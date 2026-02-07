@@ -1,12 +1,12 @@
-**Matthew 21:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:3**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if any [man] say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them.
 <small><sub>**BSB:**</sub></small>
 If anyone questions you, tell him that the Lord needs them, and he will send them right away.”
 <small><sub>**Literal:**</sub></small>
 And if anyone to you may say anything, you will say that the Lord of them need has, Immediately then he will send them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.2|<< Matthew 21:2]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.4|Matthew 21:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐάν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Joshua 13:21** 
 <small><sub>**LXX:**</sub></small>
 and all the cities  of Misor, and all the kingdom  of Sihon king of the Amorites, which reigned in Heshbon, whom Moses struck he and the leaders of Midian even  Evi and  Rekem, and  Zur, and  Hur, and  Reba, rulers of Sihon, the ones dwelling in the land. 
-<small><sub>**KJV:**</sub></small>
-And all the cities of the plain, and all the kingdom of Sihon king of the Amorites, which reigned in Heshbon, whom Moses smote with the princes of Midian, Evi, and Rekem, and Zur, and Hur, and Reba, [which were] dukes of Sihon, dwelling in the country.
-<small><sub>**BSB:**</sub></small>
-all the cities of the plateau and all the kingdom of Sihon king of the Amorites, who reigned in Heshbon until Moses killed him and the chiefs of Midian (Evi, Rekem, Zur, Hur, and Reba), the princes of Sihon who lived in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.13.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.20|<< Joshua 13:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.22|Joshua 13:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 28:8** 
 <small><sub>**LXX:**</sub></small>
 The one multiplying  his wealth with interest and usury,  gathers it for one showing mercy on \[the\] poor. 
-<small><sub>**KJV:**</sub></small>
-He that by usury and unjust gain increaseth his substance, he shall gather it for him that will pity the poor.
-<small><sub>**BSB:**</sub></small>
-He who increases his wealth by interest and usury lays it up for one who is kind to the poor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.28.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.7|<< Proverbs 28:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.9|Proverbs 28:9 >>]]</td></tr></table>
 
 | Translation | Greek |

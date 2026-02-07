@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:12** 
 <small><sub>**LXX:**</sub></small>
 On account of this prophesy and say! Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; Behold, I shall open  your tombs, and I shall lead you from out of  your tombs, and I will bring you into the land  of Israel. 
-<small><sub>**KJV:**</sub></small>
-Therefore prophesy and say unto them, Thus saith the Lord GOD; Behold, O my people, I will open your graves, and cause you to come up out of your graves, and bring you into the land of Israel.
-<small><sub>**BSB:**</sub></small>
-Therefore prophesy and tell them that this is what the Lord GOD says: ‘O My people, I will open your graves and bring you up from them, and I will bring you back to the land of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.11|<< Ezekiel 37:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.13|Ezekiel 37:13 >>]]</td></tr></table>
 
 | Translation | Greek |

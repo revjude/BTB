@@ -1,4 +1,4 @@
-**Psalms 21:9** (21:10)
+**Psalms 21:9**<big><big>[[Ps.21.1 After the Battle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt make them as a fiery oven in the time of thine anger: the LORD shall swallow them up in his wrath, and the fire shall devour them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will place them in a fiery furnace at the time of Your appearing. In His wra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.8|<< Psalms 21:8]]</td><td align="center" style="border:none;">[[Ps.21|Psalms 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.21.10|Psalms 21:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you will make them  |**<big>&#8207;[[H7896G\|תְּשִׁיתֵ֤]]&#8207;&#8207;[[H9038\|מוֹ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| te.shi.Te.<small><sup>[[HVqi2ms]]</sup></small> mov<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a furnace of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8574H\|תַנּ֥וּר]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> ta.Nur<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

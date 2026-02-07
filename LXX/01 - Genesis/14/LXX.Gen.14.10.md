@@ -1,10 +1,7 @@
 **LXX Genesis 14:10** 
 <small><sub>**LXX:**</sub></small>
 And the salty valley \[had\] wells of asphalt, and \[the\] king of Sodom fled, and \[the\] king of Gomorrah, and they fell in there; and the ones being left behind fled into the mountainous area. 
-<small><sub>**KJV:**</sub></small>
-And the vale of Siddim [was full of] slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain.
-<small><sub>**BSB:**</sub></small>
-Now the Valley of Siddim was full of tar pits, and as the kings of Sodom and Gomorrah fled, some men fell into the pits, but the survivors fled to the hill country.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.9|<< Genesis 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.11|Genesis 14:11 >>]]</td></tr></table>
 
 | Translation | Greek |

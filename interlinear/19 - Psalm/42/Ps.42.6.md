@@ -1,4 +1,4 @@
-**Psalms 42:6** (42:7)
+**Psalms 42:6**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O my God, my soul is cast down within me: therefore will I remember thee from the land of Jordan, and of the Hermonites, from the hill Mizar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O my God, my soul despairs within me. Therefore I remember You from the land of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.5|<< Psalms 42:5]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.7|Psalms 42:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God my  |**<big>&#8207;[[H0430G\|אֱֽלֹהַ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'elo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on me  |**<big>&#8207;[[H5921A\|עָלַ]]&#8207;&#8207;[[H9030\|י֮]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

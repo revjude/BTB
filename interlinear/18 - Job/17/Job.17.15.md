@@ -1,4 +1,4 @@
-**Job 17:15** 
+**Job 17:15**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And where [is] now my hope? as for my hope, who shall see it?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ where then is my hope? Who can see any hope for me?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.14|<< Job 17:14]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.16|Job 17:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and where?  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H0346\|אַיֵּה]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'ai.yeh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | then  |**<big>&#8207;[[H0645\|אֵפ֣וֹ]]&#8207; </big>**| 'e.Fo<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

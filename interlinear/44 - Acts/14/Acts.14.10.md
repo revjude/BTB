@@ -1,12 +1,12 @@
-**Acts 14:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:10**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Said with a loud voice, Stand upright on thy feet. And he leaped and walked.
 <small><sub>**BSB:**</sub></small>
 In a loud voice Paul called out, “Stand up on your feet!” And the man jumped up and began to walk.
 <small><sub>**Literal:**</sub></small>
 said in a loud <the> voice; do stand on the feet of you upright! And he sprang up and was walking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.9|<< Acts 14:9]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.11|Acts 14:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in a loud |**<big>[[G3173\|μεγάλῃ]]</big>**  |megalē <small><sup>[[A-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

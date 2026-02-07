@@ -1,4 +1,4 @@
-**Isaiah 32:12** 
+**Isaiah 32:12**<big><big>[[Isa.32.9 The Women of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall lament for the teats, for the pleasant fields, for the fruitful vine.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Beat your breasts for the pleasant fields, for the fruitful vines,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.11|<< Isaiah 32:11]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.13|Isaiah 32:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | breasts  |**<big>&#8207;[[H7699A\|שָׁדַ֖יִם]]&#8207; </big>**| sha.Da.yim<small><sup>[[HNcmda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

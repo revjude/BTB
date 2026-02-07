@@ -1,10 +1,7 @@
 **LXX Esther 5:14** 
 <small><sub>**LXX:**</sub></small>
 And Zeresh his wife said to him, and \[his\] friends, Fell for yourself a tree of fifty cubits, and at dawn speak to the king, and hang Mordecai upon the tree; and you enter into the banquet with the king, and be glad! And the saying pleased  Haman, and the tree was prepared. 
-<small><sub>**KJV:**</sub></small>
-Then said Zeresh his wife and all his friends unto him, Let a gallows be made of fifty cubits high, and to morrow speak thou unto the king that Mordecai may be hanged thereon: then go thou in merrily with the king unto the banquet. And the thing pleased Haman; and he caused the gallows to be made.
-<small><sub>**BSB:**</sub></small>
-His wife Zeresh and all his friends told him, “Have them build a gallows fifty cubits high, and ask the king in the morning to have Mordecai hanged on it. Then go to the banquet with the king and enjoy yourself.” The advice pleased Haman, and he had the gallows constructed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.5.13|<< Esther 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.6.1|Esther 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

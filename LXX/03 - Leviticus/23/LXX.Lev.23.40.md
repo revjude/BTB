@@ -1,10 +1,7 @@
 **LXX Leviticus 23:40** 
 <small><sub>**LXX:**</sub></small>
 And you shall take to yourselves on the first day beautiful fruit of \[the\] tree, and palm branches of palm trees, and tender branches of a bushy tree, and willows, and tender branches of \[the\] chaste tree by \[the\] rushing stream; and you shall be glad before \[the\] <span class="smallcaps">lord</span>  your God seven days. 
-<small><sub>**KJV:**</sub></small>
-And ye shall take you on the first day the boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook; and ye shall rejoice before the LORD your God seven days.
-<small><sub>**BSB:**</sub></small>
-On the first day you are to gather the fruit of majestic trees, the branches of palm trees, and the boughs of leafy trees and of willows of the brook. And you are to rejoice before the LORD your God for seven days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.39|<< Leviticus 23:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.41|Leviticus 23:41 >>]]</td></tr></table>
 
 | Translation | Greek |

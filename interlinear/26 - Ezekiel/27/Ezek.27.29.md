@@ -1,4 +1,4 @@
-**Ezekiel 27:29** 
+**Ezekiel 27:29**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all that handle the oar, the mariners, [and] all the pilots of the sea, shall come down from their ships, they shall stand upon the land;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All who handle the oars will abandon their ships. The sailors and all the captai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.28|<< Ezekiel 27:28]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.30|Ezekiel 27:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will come down  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H3381\|יָרְד֞וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.re.Du<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from ships their  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0591\|אָנִיּֽוֹתֵי]]&#8207;&#8207;[[H9028\|הֶ֗ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.ni.yo.tei.<small><sup>[[HNcfpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

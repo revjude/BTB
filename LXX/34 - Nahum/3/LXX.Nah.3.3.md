@@ -1,10 +1,7 @@
 **LXX Nahum 3:3** 
 <small><sub>**LXX:**</sub></small>
 horseman ascending, and of \[the\] shining broadsword, and flashing shields; and \[the\] multitude of slain, and of a heavy downfall; and there was no limit \[to\] her nations, and they shall be weak in  their bodies from a multitude of harlotry; 
-<small><sub>**KJV:**</sub></small>
-The horseman lifteth up both the bright sword and the glittering spear: and [there is] a multitude of slain, and a great number of carcases; and [there is] none end of [their] corpses; they stumble upon their corpses:
-<small><sub>**BSB:**</sub></small>
-Charging horseman, flashing sword, shining spear; heaps of slain, mounds of corpses, dead bodies without end—they stumble over their dead—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.2|<< Nahum 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.4|Nahum 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 14:52** 
 <small><sub>**LXX:**</sub></small>
 And he shall purify the house with the blood of the small bird, and with the living water, and with the living small bird, and with the wood  of cedar, and with the hyssop, and with the twined scarlet. 
-<small><sub>**KJV:**</sub></small>
-And he shall cleanse the house with the blood of the bird, and with the running water, and with the living bird, and with the cedar wood, and with the hyssop, and with the scarlet:
-<small><sub>**BSB:**</sub></small>
-And he shall cleanse the house with the bird’s blood, the fresh water, the live bird, the cedar wood, the hyssop, and the scarlet yarn.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.51|<< Leviticus 14:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.53|Leviticus 14:53 >>]]</td></tr></table>
 
 | Translation | Greek |

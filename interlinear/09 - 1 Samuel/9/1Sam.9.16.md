@@ -1,4 +1,4 @@
-**1 Samuel 9:16** 
+**1 Samuel 9:16**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To morrow about this time I will send thee a man out of the land of Benjamin, and thou shalt anoint him [to be] captain over my people Israel, that he may save my people out of the hand of the Philistines: for I have looked upon my people, because their cry is come unto me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To morrow about this time I will send thee a man out of the land of Benjamin, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.15|<< 1 Samuel 9:15]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.17|1 Samuel 9:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | about \<the> this time  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H6256\|עֵ֣ת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'Et<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | tomorrow  |**<big>&#8207;[[H4279\|מָחָ֡ר]]&#8207; </big>**| ma.Char<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

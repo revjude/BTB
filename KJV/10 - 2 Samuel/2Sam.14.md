@@ -1,6 +1,6 @@
 (KJV) **2 Samuel 14**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13|<< 2 Samuel 13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15|2 Samuel 15 >>]]</td></tr></table>
 
-***Absalom’s Return to Jerusalem*** ^bsb763
+<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥃]]</big></big>***Absalom’s Return to Jerusalem***
 
  $\quad$ <span class="startversemarker">[</span>**[[2Sam.14.1|1]]**<span class="endversemarker">]</span> Now Joab<small><small>[^2]</small></small> the son of Zeruiah perceived that the king’s heart \[was\] toward Absalom<small><small>[^3]</small></small>.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[2Sam.14.2|2]]**<span class="endversemarker">]</span> And Joab sent to Tekoah<small><small>[^5]</small></small>, and fetched thence a wise woman, and said unto her, I pray thee, feign thyself to be a mourner, and put on now mourning<small><small>[^6]</small></small> apparel, and anoint not thyself with oil, but be as a woman that had a long time mourned for the dead: <span class="startversemarker">[</span>**[[2Sam.14.3|3]]**<span class="endversemarker">]</span> And come to the king, and speak on this manner unto him. So Joab put the words<small><small>[^7]</small></small> in her mouth. 
 
@@ -10,7 +10,7 @@ $\quad$ <span class="startversemarker">[</span>**[[2Sam.14.21|21]]**<span class=
 
 $\quad$ <span class="startversemarker">[</span>**[[2Sam.14.25|25]]**<span class="endversemarker">]</span> [¶]But in all Israel<small><small>[^52]</small></small> there was none to be so much praised as Absalom for his beauty: from the sole<small><small>[^53]</small></small> of his foot even to the crown of his head there was no blemish in him. <span class="startversemarker">[</span>**[[2Sam.14.26|26]]**<span class="endversemarker">]</span> And when he polled<small><small>[^54]</small></small> his head, (for it was at every year’s end that he polled \[it\]: because \[the hair\] was heavy on him, therefore he polled it:) he weighed the hair of his head at two hundred shekels<small><small>[^55]</small></small> after the king’s weight. <span class="startversemarker">[</span>**[[2Sam.14.27|27]]**<span class="endversemarker">]</span> And unto Absalom there were born<small><small>[^56]</small></small> three sons, and one daughter, whose name \[was\] Tamar<small><small>[^57]</small></small>: she was a woman of a fair countenance.
 
-***Absalom Reconciled to David*** ^bsb764
+<big><big>[[2Sam.14.28 Absalom Reconciled to David|⥃]]</big></big>***Absalom Reconciled to David***
 
  
 

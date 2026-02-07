@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:25** 
 <small><sub>**LXX:**</sub></small>
 For David said, \[The\] <span class="smallcaps">lord</span> God of Israel rested  his people, and encamped in Jerusalem unto \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-For David said, The LORD God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:
-<small><sub>**BSB:**</sub></small>
-For David had said, “The LORD, the God of Israel, has given rest to His people and has come to dwell in Jerusalem forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.24|<< 1 Chronicles 23:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.26|1 Chronicles 23:26 >>]]</td></tr></table>
 
 | Translation | Greek |

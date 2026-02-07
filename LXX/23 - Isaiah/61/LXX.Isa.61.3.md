@@ -1,10 +1,7 @@
 **LXX Isaiah 61:3** 
 <small><sub>**LXX:**</sub></small>
 to give to the ones mourning for Zion glory instead of ashes; an anointing of gladness to them \[that\] mourn; according to an apparel of glory instead of a spirit of indifference. And they shall be called generations of righteousness, a \[thing\] planted of \[the\] <span class="smallcaps">lord</span> for glory. 
-<small><sub>**KJV:**</sub></small>
-To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the LORD, that he might be glorified.
-<small><sub>**BSB:**</sub></small>
-to console the mourners in Zion—to give them a crown of beauty for ashes, the oil of joy for mourning, and a garment of praise for a spirit of despair. So they will be called oaks of righteousness, the planting of the LORD, that He may be glorified.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.61.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.61.2|<< Isaiah 61:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.61.4|Isaiah 61:4 >>]]</td></tr></table>
 
 | Translation | Greek |

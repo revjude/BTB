@@ -1,10 +1,7 @@
 **LXX Ruth 2:10** 
 <small><sub>**LXX:**</sub></small>
 And she fell upon her face, and did obeisance upon the ground, and said to him, Why \[is it\] that I found favor in your eyes  to recognize me, and I am a stranger? 
-<small><sub>**KJV:**</sub></small>
-Then she fell on her face, and bowed herself to the ground, and said unto him, Why have I found grace in thine eyes, that thou shouldest take knowledge of me, seeing I [am] a stranger?
-<small><sub>**BSB:**</sub></small>
-At this, she fell on her face, bowing low to the ground, and said to him, “Why have I found such favor in your eyes that you should take notice of me, even though I am a foreigner?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.9|<< Ruth 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.11|Ruth 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

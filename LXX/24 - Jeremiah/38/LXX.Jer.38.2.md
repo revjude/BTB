@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:2** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>, The one dwelling in  this city shall die by \[the\] broadsword, and by famine, and by pestilence; and the one going forth to the Chaldeans shall live; and his life shall be for gain, and he shall live. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, He that remaineth in this city shall die by the sword, by the famine, and by the pestilence: but he that goeth forth to the Chaldeans shall live; for he shall have his life for a prey, and shall live.
-<small><sub>**BSB:**</sub></small>
-“This is what the LORD says: Whoever stays in this city will die by sword and famine and plague, but whoever surrenders to the Chaldeans will live; he will retain his life like a spoil of war, and he will live.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.1|<< Jeremiah 38:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.3|Jeremiah 38:3 >>]]</td></tr></table>
 
 | Translation | Greek |

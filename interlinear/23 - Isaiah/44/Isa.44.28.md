@@ -1,4 +1,4 @@
-**Isaiah 44:28** 
+**Isaiah 44:28**<big><big>[[Isa.44.21 Jerusalem to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That saith of Cyrus, [He is] my shepherd, and shall perform all my pleasure: even saying to Jerusalem, Thou shalt be built; and to the temple, Thy foundation shall be laid.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ who says of Cyrus, ‘My shepherd will fulfill all that I desire,’ who says of
 > $\quad$ referenced by: [[Acts.13.22|Acts 13:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who says  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0559\|אֹמֵ֤ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of Cyrus  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3566\|כ֙וֹרֶשׁ֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kho.resh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

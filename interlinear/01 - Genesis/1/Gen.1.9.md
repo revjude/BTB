@@ -1,4 +1,4 @@
-**Genesis 1:9** 
+**Genesis 1:9**<big><big>[[Gen.1.9 The Third Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said, Let the waters under the heaven be gathered together unto one place, and let the dry [land] appear: and it was so.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And God said, “Let the waters under the sky be gathered into one place, so tha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.8|<< Genesis 1:8]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.10|Genesis 1:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֗ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 25:31** 
+**Genesis 25:31**<big><big>[[Gen.25.29 Esau Sells His Birthright|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob said, Sell me this day thy birthright.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And Jacob said, Sell me this day thy birthright.
 > $\quad$ referenced by: [[Heb.12.16|Heb 12:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֖אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jacob  |**<big>&#8207;[[H3290\|יַעֲקֹ֑ב]]&#8207; </big>**| ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

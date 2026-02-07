@@ -1,4 +1,4 @@
-**Isaiah 2:11** 
+**Isaiah 2:11**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the LORD alone shall be exalted in that day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The proud look of man will be humbled, and the loftiness of men brought low; the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.10|<< Isaiah 2:10]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.12|Isaiah 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | eyes of  |**<big>&#8207;[[H5869H\|עֵינֵ֞י]]&#8207; </big>**| 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | haughtiness of  |**<big>&#8207;[[H1365\|גַּבְה֤וּת]]&#8207; </big>**| gav.Hut<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

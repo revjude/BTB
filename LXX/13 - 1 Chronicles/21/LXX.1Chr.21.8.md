@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:8** 
 <small><sub>**LXX:**</sub></small>
 And David said to  God, I have sinned exceedingly, that I did  this thing. And now, remove indeed the iniquity  of your servant! for I acted in folly exceedingly. 
-<small><sub>**KJV:**</sub></small>
-And David said unto God, I have sinned greatly, because I have done this thing: but now, I beseech thee, do away the iniquity of thy servant; for I have done very foolishly.
-<small><sub>**BSB:**</sub></small>
-Then David said to God, “I have sinned greatly because I have done this thing. Now I beg You to take away the iniquity of Your servant, for I have acted very foolishly.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.7|<< 1 Chronicles 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.9|1 Chronicles 21:9 >>]]</td></tr></table>
 
 | Translation | Greek |

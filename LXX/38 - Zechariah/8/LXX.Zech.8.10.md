@@ -1,10 +1,7 @@
 **LXX Zechariah 8:10** 
 <small><sub>**LXX:**</sub></small>
 For before  those days the wage  of men will not be for profitability, and the wage of the cattle does not exist. And to the one going forth and to the one entering there will be no peace because of the affliction. And I shall send out all the men, each against  his neighbor. 
-<small><sub>**KJV:**</sub></small>
-For before these days there was no hire for man, nor any hire for beast; neither [was there any] peace to him that went out or came in because of the affliction: for I set all men every one against his neighbour.
-<small><sub>**BSB:**</sub></small>
-For before those days neither man nor beast received wages, nor was there safety from the enemy for anyone who came or went, for I had turned every man against his neighbor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.9|<< Zechariah 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.11|Zechariah 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

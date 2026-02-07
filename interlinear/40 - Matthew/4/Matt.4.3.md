@@ -1,12 +1,12 @@
-**Matthew 4:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 4:3**<big><big>[[Matt.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the tempter came to him, he said, If thou be the Son of God, command that these stones be made bread.
 <small><sub>**BSB:**</sub></small>
 The tempter came to Him and said, “If You are the Son of God, tell these stones to become bread.”
 <small><sub>**Literal:**</sub></small>
 And having come the [one] tempting he said to Him; If Son You are <the> of God, do speak that <the> stones these loaves of bread may become.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.2|<< Matthew 4:2]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.4|Matthew 4:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G4334\|προσελθὼν]]</big>**  |proselthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

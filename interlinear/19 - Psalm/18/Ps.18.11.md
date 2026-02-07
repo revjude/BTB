@@ -1,4 +1,4 @@
-**Psalms 18:11** (18:12)
+**Psalms 18:11**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He made darkness his secret place; his pavilion round about him [were] dark waters [and] thick clouds of the skies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He made darkness His hiding place, and storm clouds a canopy around Him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.10|<< Psalms 18:10]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.12|Psalms 18:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he made  |**<big>&#8207;[[H7896G\|יָ֤שֶׁת]]&#8207; </big>**| Ya.shet<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | darkness  |**<big>&#8207;[[H2822\|חֹ֨שֶׁךְ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 88:9** 
 <small><sub>**LXX:**</sub></small>
  My eyes are weakened from poorness. I cried out to you, O <span class="smallcaps">lord</span>, \[the\] entire  day. I opened and spread out to you  my hands. 
-<small><sub>**KJV:**</sub></small>
-Mine eye mourneth by reason of affliction: LORD, I have called daily upon thee, I have stretched out my hands unto thee.
-<small><sub>**BSB:**</sub></small>
-My eyes grow dim with grief. I call to You daily, O LORD; I spread out my hands to You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.88.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.8|<< Psalm 88:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.10|Psalm 88:10 >>]]</td></tr></table>
 
 | Translation | Greek |

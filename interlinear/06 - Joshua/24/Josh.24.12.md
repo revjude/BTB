@@ -1,4 +1,4 @@
-**Joshua 24:12** 
+**Joshua 24:12**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I sent the hornet before you, which drave them out from before you, [even] the two kings of the Amorites; [but] not with thy sword, nor with thy bow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I sent the hornet ahead of you, and it drove out the two Amorite kings before yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.11|<< Joshua 24:11]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.13|Joshua 24:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I sent  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7971G\|אֶשְׁלַ֤ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'esh.Lach<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before you  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

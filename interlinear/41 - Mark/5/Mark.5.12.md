@@ -1,12 +1,12 @@
-**Mark 5:12
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:12**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And all the devils besought him, saying, Send us into the swine, that we may enter into them.
 <small><sub>**BSB:**</sub></small>
 So the demons begged Jesus, “Send us to the pigs, so that we may enter them.”
 <small><sub>**Literal:**</sub></small>
 And they begged Him all <the> demons saying; do send us into the pigs so that into them let us enter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.11|<< Mark 5:11]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.13|Mark 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they begged |**<big>[[G3870\|παρεκάλεσαν]]</big>**  |parekalesan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

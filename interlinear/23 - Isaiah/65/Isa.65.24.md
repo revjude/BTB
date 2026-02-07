@@ -1,4 +1,4 @@
-**Isaiah 65:24** 
+**Isaiah 65:24**<big><big>[[Isa.65.17 A New Heaven and a New Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, that before they call, I will answer; and while they are yet speaking, I will hear.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even before they call, I will answer, and while they are still speaking, I will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.23|<< Isaiah 65:23]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.25|Isaiah 65:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | before  |**<big>&#8207;[[H2962\|טֶֽרֶם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.rem-<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

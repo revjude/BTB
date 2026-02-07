@@ -1,4 +1,4 @@
-**Deuteronomy 4:13** 
+**Deuteronomy 4:13**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he declared unto you his covenant, which he commanded you to perform, [even] ten commandments; and he wrote them upon two tables of stone.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He declared to you His covenant, which He commanded you to follow—the Ten Comm
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.12|<< Deuteronomy 4:12]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.14|Deuteronomy 4:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he declared  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יַּגֵּ֨ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ged<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֜ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

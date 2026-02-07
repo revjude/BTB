@@ -1,10 +1,7 @@
 **LXX Numbers 8:20** 
 <small><sub>**LXX:**</sub></small>
 And \[so\] Moses and Aaron did, and all the congregation of \[the\] sons of Israel, to the Levites as \[the\] <span class="smallcaps">lord</span> gave charge  to Moses concerning the Levites -- thus the sons of Israel did to them. 
-<small><sub>**KJV:**</sub></small>
-And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the LORD commanded Moses concerning the Levites, so did the children of Israel unto them.
-<small><sub>**BSB:**</sub></small>
-So Moses, Aaron, and the whole congregation of Israel did with the Levites everything that the LORD had commanded Moses they should do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.8.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.19|<< Numbers 8:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.21|Numbers 8:21 >>]]</td></tr></table>
 
 | Translation | Greek |

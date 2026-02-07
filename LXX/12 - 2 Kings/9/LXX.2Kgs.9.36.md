@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:36** 
 <small><sub>**LXX:**</sub></small>
 And they returned, and announced \[it\] to him. And he said, \[The\] word of \[the\] <span class="smallcaps">lord</span> which he spoke by \[the\] hand  of his servant Elijah the Tishbite, saying, In the portion \[of land\] in Jezreel the dogs shall eat the flesh of Jezebel. 
-<small><sub>**KJV:**</sub></small>
-Wherefore they came again, and told him. And he said, This [is] the word of the LORD, which he spake by his servant Elijah the Tishbite, saying, In the portion of Jezreel shall dogs eat the flesh of Jezebel:
-<small><sub>**BSB:**</sub></small>
-So they went back and told Jehu, who replied, “This is the word of the LORD, which He spoke through His servant Elijah the Tishbite: ‘On the plot of ground at Jezreel the dogs will devour the flesh of Jezebel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.35|<< 2 Kings 9:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.37|2 Kings 9:37 >>]]</td></tr></table>
 
 | Translation | Greek |

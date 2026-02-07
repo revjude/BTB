@@ -1,4 +1,4 @@
-**1 Chronicles 11:7** 
+**1 Chronicles 11:7**<big><big>[[1Chr.11.4 David Conquers Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David dwelt in the castle; therefore they called it the city of David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So David took up residence in the fortress; that is why it was called the City o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.6|<< 1 Chronicles 11:6]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.8|1 Chronicles 11:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he dwelt  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3427\|יֵּ֥שֶׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.shev<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֖יד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 12:18** 
+**Job 12:18**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He looseth the bond of kings, and girdeth their loins with a girdle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He loosens the bonds placed by kings and fastens a belt around their waists.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.17|<< Job 12:17]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.19|Job 12:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] correction of  |**<big>&#8207;[[H4148I\|מוּסַ֣ר]]&#8207; </big>**| mu.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | kings  |**<big>&#8207;[[H4428G\|מְלָכִ֣ים]]&#8207; </big>**| me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

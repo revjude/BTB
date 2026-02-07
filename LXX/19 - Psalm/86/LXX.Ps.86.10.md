@@ -1,10 +1,7 @@
 **LXX Psalm 86:10** 
 <small><sub>**LXX:**</sub></small>
 For you are great, and performing wonders. You are the only God. 
-<small><sub>**KJV:**</sub></small>
-For thou [art] great, and doest wondrous things: thou [art] God alone.
-<small><sub>**BSB:**</sub></small>
-For You are great and perform wonders; You alone are God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.86.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.9|<< Psalm 86:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.11|Psalm 86:11 >>]]</td></tr></table>
 
 | Translation | Greek |

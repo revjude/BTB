@@ -1,10 +1,7 @@
 **LXX Deuteronomy 22:17** 
 <small><sub>**LXX:**</sub></small>
 He now places upon her words offered as an excuse, saying, I did not find  tokens of virginity of your daughter; and these are the tokens of virginity  of my daughter. And they shall unfold the garment \[worn by her\] before the council of elders of the city. 
-<small><sub>**KJV:**</sub></small>
-And, lo, he hath given occasions of speech [against her], saying, I found not thy daughter a maid; and yet these [are the tokens of] my daughter’s virginity. And they shall spread the cloth before the elders of the city.
-<small><sub>**BSB:**</sub></small>
-And now he has accused her of shameful conduct, saying, ‘I discovered that your daughter was not a virgin.’ But here is the proof of her virginity.” And they shall spread out the cloth before the city elders.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.22.16|<< Deuteronomy 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.18|Deuteronomy 22:18 >>]]</td></tr></table>
 
 | Translation | Greek |

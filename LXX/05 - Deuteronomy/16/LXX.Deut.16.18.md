@@ -1,10 +1,7 @@
 **LXX Deuteronomy 16:18** 
 <small><sub>**LXX:**</sub></small>
 Judges and judicial recorders you shall ordain to yourself in all  your cities, which \[the\] <span class="smallcaps">lord</span>  your God gives to you according to tribes. And they shall judge the people with just judgment. 
-<small><sub>**KJV:**</sub></small>
-Judges and officers shalt thou make thee in all thy gates, which the LORD thy God giveth thee, throughout thy tribes: and they shall judge the people with just judgment.
-<small><sub>**BSB:**</sub></small>
-You are to appoint judges and officials for your tribes in every town that the LORD your God is giving you. They are to judge the people with righteous judgment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.17|<< Deuteronomy 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.19|Deuteronomy 16:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:14** 
 <small><sub>**LXX:**</sub></small>
 And  your holy Sabbath you made known to them; commandments, and orders, and law, you gave charge to them by \[the\] hand of Moses  your servant. 
-<small><sub>**KJV:**</sub></small>
-And madest known unto them thy holy sabbath, and commandedst them precepts, statutes, and laws, by the hand of Moses thy servant:
-<small><sub>**BSB:**</sub></small>
-You revealed to them Your holy Sabbath and gave them commandments and statutes and laws through Your servant Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.13|<< Nehemiah 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.15|Nehemiah 9:15 >>]]</td></tr></table>
 
 | Translation | Greek |

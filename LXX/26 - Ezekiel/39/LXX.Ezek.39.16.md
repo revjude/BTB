@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:16** 
 <small><sub>**LXX:**</sub></small>
 For even the name of the city \[is\] Cemetery; and the land shall be cleansed. 
-<small><sub>**KJV:**</sub></small>
-And also the name of the city [shall be] Hamonah. Thus shall they cleanse the land.
-<small><sub>**BSB:**</sub></small>
-(Even the city will be named Hamonah.) And so they will cleanse the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.15|<< Ezekiel 39:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.17|Ezekiel 39:17 >>]]</td></tr></table>
 
 | Translation | Greek |

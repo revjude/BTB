@@ -1,4 +1,4 @@
-**Proverbs 19:12** 
+**Proverbs 19:12**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king’s wrath [is] as the roaring of a lion; but his favour [is] as dew upon the grass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A king’s rage is like the roar of a lion, but his favor is like dew on the gra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.11|<< Proverbs 19:11]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.13|Proverbs 19:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a roaring  |**<big>&#8207;[[H5099\|נַ֣הַם]]&#8207; </big>**| Na.ham<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> young lion  |**<big>&#8207;[[H9004\|כַּ֭]]&#8207;&#8207;[[H3715A\|כְּפִיר]]&#8207; </big>**| Ka.<small><sup>[[HRd]]</sup></small> ke.fir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

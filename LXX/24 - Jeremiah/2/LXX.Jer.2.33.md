@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:33** 
 <small><sub>**LXX:**</sub></small>
 What good \[device\] will you yet apply in  your ways  to seek affection? \[It will\] not \[be\] thus. But even you did wicked  to defile  your ways. 
-<small><sub>**KJV:**</sub></small>
-Why trimmest thou thy way to seek love? therefore hast thou also taught the wicked ones thy ways.
-<small><sub>**BSB:**</sub></small>
-How skillfully you pursue love! Even the most immoral of women could learn from your ways.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.32|<< Jeremiah 2:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.34|Jeremiah 2:34 >>]]</td></tr></table>
 
 | Translation | Greek |

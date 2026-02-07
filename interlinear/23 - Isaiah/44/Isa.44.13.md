@@ -1,4 +1,4 @@
-**Isaiah 44:13** 
+**Isaiah 44:13**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The carpenter stretcheth out [his] rule; he marketh it out with a line; he fitteth it with planes, and he marketh it out with the compass, and maketh it after the figure of a man, according to the beauty of a man; that it may remain in the house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The woodworker extends a measuring line; he marks it out with a stylus; he shape
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.12|<< Isaiah 44:12]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.14|Isaiah 44:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a craftsman of  |**<big>&#8207;[[H2796\|חָרַ֣שׁ]]&#8207; </big>**| cha.Rash<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wood\<s>  |**<big>&#8207;[[H6086K\|עֵצִים֮]]&#8207; </big>**| 'e.Tzim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

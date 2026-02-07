@@ -1,4 +1,4 @@
-**Jeremiah 40:16** 
+**Jeremiah 40:16**<big><big>[[Jer.40.13 The Plot against Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Gedaliah the son of Ahikam said unto Johanan the son of Kareah, Thou shalt not do this thing: for thou speakest falsely of Ishmael.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Gedaliah son of Ahikam said to Johanan son of Kareah, “Do not do such a th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.40.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40.15|<< Jeremiah 40:15]]</td><td align="center" style="border:none;">[[Jer.40|Jeremiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.1|Jeremiah 41:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Gedaliah  |**<big>&#8207;[[H1436B\|גְּדַלְיָ֤הוּ]]&#8207; </big>**| ge.dal.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

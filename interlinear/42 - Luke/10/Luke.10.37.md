@@ -1,12 +1,12 @@
-**Luke 10:37
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:37**<big><big>[[Luke.10.25 The Parable of the Good Samaritan|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.
 <small><sub>**BSB:**</sub></small>
 “The one who showed him mercy,” replied the expert in the law. Then Jesus told him, “Go and do likewise.”
 <small><sub>**Literal:**</sub></small>
 <the> And he said; The [one] having shown <the> compassion toward him. Said then to him <the> Jesus; do go and you yourself do act likewise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.36|<< Luke 10:36]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.38|Luke 10:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

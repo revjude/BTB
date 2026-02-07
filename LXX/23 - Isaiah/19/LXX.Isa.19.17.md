@@ -1,10 +1,7 @@
 **LXX Isaiah 19:17** 
 <small><sub>**LXX:**</sub></small>
 And the place of the Jews will be to the Egyptians for a fearful \[thing\]; any one who might name it to them, they shall fear, because of the plan which \[the\] <span class="smallcaps">lord</span> of Hosts planned against it. 
-<small><sub>**KJV:**</sub></small>
-And the land of Judah shall be a terror unto Egypt, every one that maketh mention thereof shall be afraid in himself, because of the counsel of the LORD of hosts, which he hath determined against it.
-<small><sub>**BSB:**</sub></small>
-The land of Judah will bring terror to Egypt; whenever Judah is mentioned, Egypt will tremble over what the LORD of Hosts has planned against it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.16|<< Isaiah 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.18|Isaiah 19:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 40:19** 
+**Genesis 40:19**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Within three days Pharaoh will lift off your head and hang you on a tree. Then t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.18|<< Genesis 40:18]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.20|Genesis 40:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in again  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5750\|ע֣וֹד]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'od<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three  |**<big>&#8207;[[H7969\|שְׁלֹ֣שֶׁת]]&#8207; </big>**| she.Lo.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

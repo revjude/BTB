@@ -1,10 +1,7 @@
 **LXX Jeremiah 37:19** 
 <small><sub>**LXX:**</sub></small>
 And where are  your prophets, the ones prophesying to you, saying that, In no way \[the\] king of Babylon come unto  this land? 
-<small><sub>**KJV:**</sub></small>
-Where [are] now your prophets which prophesied unto you, saying, The king of Babylon shall not come against you, nor against this land?
-<small><sub>**BSB:**</sub></small>
-Where are your prophets who prophesied to you, claiming, ‘The king of Babylon will not come against you or this land’?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.37.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.18|<< Jeremiah 37:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.20|Jeremiah 37:20 >>]]</td></tr></table>
 
 | Translation | Greek |

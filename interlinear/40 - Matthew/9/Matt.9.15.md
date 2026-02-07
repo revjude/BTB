@@ -1,12 +1,12 @@
-**Matthew 9:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:15**<big><big>[[Matt.9.14 Questions about Fasting|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said unto them, Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken from them, and then shall they fast.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “How can the guests of the bridegroom mourn while He is with them? But the time will come when the bridegroom will be taken from them; then they will fast.
 <small><sub>**Literal:**</sub></small>
 And said to them <the> Jesus; Surely not can the sons of the bridechamber [are] to mourn as long as with them is the bridegroom? Will come however days when may have been taken away from them the bridegroom, and then they will fast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.14|<< Matthew 9:14]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.16|Matthew 9:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

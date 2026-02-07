@@ -1,4 +1,4 @@
-**Proverbs 20:9** 
+**Proverbs 20:9**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who can say, I have made my heart clean, I am pure from my sin?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Who can say, “I have kept my heart pure; I am cleansed from my sin”?
 > $\quad$ referenced by: [[1John.1.8|1John 1:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he say  |**<big>&#8207;[[H0559\|יֹ֭אמַר]]&#8207; </big>**| Yo.mar<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

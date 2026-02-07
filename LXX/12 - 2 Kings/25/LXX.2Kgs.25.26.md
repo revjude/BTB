@@ -1,10 +1,7 @@
 **LXX 2 Kings 25:26** 
 <small><sub>**LXX:**</sub></small>
 And all the people rose up from small unto great, and the rulers of the force, and they entered into Egypt; for they feared from \[the\] face of the Chaldeans. 
-<small><sub>**KJV:**</sub></small>
-And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldees.
-<small><sub>**BSB:**</sub></small>
-Then all the people small and great, together with the commanders of the army, arose and fled to Egypt for fear of the Chaldeans.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.25|<< 2 Kings 25:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.27|2 Kings 25:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:5** 
 <small><sub>**LXX:**</sub></small>
 And a bronze helmet \[was\] upon  his head, and he put on a chest \[plate\] of chain-work. And the weight  of his chest \[plate\] \[was\] five thousand shekels of brass and iron. 
-<small><sub>**KJV:**</sub></small>
-And [he had] an helmet of brass upon his head, and he [was] armed with a coat of mail; and the weight of the coat [was] five thousand shekels of brass.
-<small><sub>**BSB:**</sub></small>
-and he had a bronze helmet on his head. He wore a bronze coat of mail weighing five thousand shekels,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.4|<< 1 Samuel 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.6|1 Samuel 17:6 >>]]</td></tr></table>
 
 | Translation | Greek |

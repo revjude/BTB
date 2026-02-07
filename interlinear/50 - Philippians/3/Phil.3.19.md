@@ -1,12 +1,12 @@
-**Philippians 3:19
-**<small><sub>**KJV:**</sub></small>
+**Philippians 3:19**<big><big>[[Phil.3.17 Citizenship in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whose end [is] destruction, whose God [is their] belly, and [whose] glory [is] in their shame, who mind earthly things.)
 <small><sub>**BSB:**</sub></small>
 Their end is destruction, their god is their belly, and their glory is in their shame. Their minds are set on earthly things.
 <small><sub>**Literal:**</sub></small>
 whose <the> end [is] destruction, whose <the> God [is] the belly and <the> glory [is] in the shame of them, those <the> [things] earthly minding.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.18|<< Philippians 3:18]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.20|Philippians 3:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whose |**<big>[[G3739\|ὧν]]</big>**  |hōn <small><sup>[[R-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

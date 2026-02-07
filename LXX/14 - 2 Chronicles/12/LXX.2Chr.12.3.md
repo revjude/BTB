@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 12:3** 
 <small><sub>**LXX:**</sub></small>
 with a thousand and two hundred chariots, and sixty thousand horsemen, and there was no count of the multitude  coming with him out of Egypt -- Lubim, Sukkiim, and Ethiopians. 
-<small><sub>**KJV:**</sub></small>
-With twelve hundred chariots, and threescore thousand horsemen: and the people [were] without number that came with him out of Egypt; the Lubims, the Sukkiims, and the Ethiopians.
-<small><sub>**BSB:**</sub></small>
-with 1,200 chariots, 60,000 horsemen, and countless troops who came with him out of Egypt—Libyans, Sukkites, and Cushites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.12.2|<< 2 Chronicles 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.12.4|2 Chronicles 12:4 >>]]</td></tr></table>
 
 | Translation | Greek |

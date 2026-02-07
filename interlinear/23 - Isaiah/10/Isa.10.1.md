@@ -1,4 +1,4 @@
-**Isaiah 10:1** 
+**Isaiah 10:1**<big><big>[[Isa.10.1 Woe to Tyrants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto them that decree unrighteous decrees, and that write grievousness [which] they have prescribed;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to those who enact unjust statutes and issue oppressive decrees,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.21|<< Isaiah 9:21]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.2|Isaiah 10:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֥וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those [who] decree  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2710\|חֹֽקְקִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cho.ke.Kim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

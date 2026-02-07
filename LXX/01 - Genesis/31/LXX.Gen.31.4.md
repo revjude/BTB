@@ -1,10 +1,7 @@
 **LXX Genesis 31:4** 
 <small><sub>**LXX:**</sub></small>
 And Jacob sending, called Leah and Rachel to the plain where the flocks were. 
-<small><sub>**KJV:**</sub></small>
-And Jacob sent and called Rachel and Leah to the field unto his flock,
-<small><sub>**BSB:**</sub></small>
-So Jacob sent word and called Rachel and Leah to the field where his flocks were,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.3|<< Genesis 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.5|Genesis 31:5 >>]]</td></tr></table>
 
 | Translation | Greek |

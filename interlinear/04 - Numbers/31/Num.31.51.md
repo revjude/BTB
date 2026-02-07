@@ -1,4 +1,4 @@
-**Numbers 31:51** 
+**Numbers 31:51**<big><big>[[Num.31.48 The Voluntary Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses and Eleazar the priest took the gold of them, [even] all wrought jewels.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Moses and Eleazar the priest received from them all the articles made out of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.50|<< Numbers 31:50]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.52|Numbers 31:52 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947H\|יִּקַּ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֜ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 51:19** (51:21)
+**Psalms 51:19**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then You will delight in righteous sacrifices, in whole burnt offerings; then bu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.18|<< Psalms 51:18]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.52.0|Psalms 52:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֤ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will delight in  |**<big>&#8207;[[H2654A\|תַּחְפֹּ֣ץ]]&#8207; </big>**| tach.Potz<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

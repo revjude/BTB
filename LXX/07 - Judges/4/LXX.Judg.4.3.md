@@ -1,10 +1,7 @@
 **LXX Judges 4:3** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel cried out to \[the\] <span class="smallcaps">lord</span>, because nine hundred chariots of iron \[were\] his. And he afflicted  Israel by might for twenty years. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel cried unto the LORD: for he had nine hundred chariots of iron; and twenty years he mightily oppressed the children of Israel.
-<small><sub>**BSB:**</sub></small>
-Then the Israelites cried out to the LORD, because Jabin had nine hundred chariots of iron, and he had harshly oppressed the Israelites for twenty years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.2|<< Judges 4:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.4|Judges 4:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 53:8** 
+**Isaiah 53:8**<big><big>[[Isa.53.1 The Suffering Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ By oppression and judgment He was taken away, and who can recount His descendant
 > $\quad$ referenced by: [[Acts.8.32|Acts 8:32-33]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from oppression  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H6115\|עֹ֤צֶר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'O.tzer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and from judgment  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4941G\|מִּשְׁפָּט֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

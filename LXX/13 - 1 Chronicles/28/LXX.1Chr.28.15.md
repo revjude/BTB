@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 28:15** 
 <small><sub>**LXX:**</sub></small>
 and \[the\] weight to the lamp-stands, to the ones in gold, and \[to\] their lamps, gold in weight -- of lamp-stand by lamp-stand, and \[to\] its lamps, and to the lamp-stands. But of the gold and silver lamp-stands he gave to him of the scale-weight \[of money\], and the lamp-stands he gave to him the scale-weight. 
-<small><sub>**KJV:**</sub></small>
-Even the weight for the candlesticks of gold, and for their lamps of gold, by weight for every candlestick, and for the lamps thereof: and for the candlesticks of silver by weight, [both] for the candlestick, and [also] for the lamps thereof, according to the use of every candlestick.
-<small><sub>**BSB:**</sub></small>
-the weight of the gold lampstands and their lamps, including the weight of each lampstand and its lamps; the weight of each silver lampstand and its lamps, according to the use of each lampstand;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.14|<< 1 Chronicles 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.16|1 Chronicles 28:16 >>]]</td></tr></table>
 
 | Translation | Greek |

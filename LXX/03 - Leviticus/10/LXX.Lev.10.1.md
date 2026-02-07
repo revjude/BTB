@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the two sons of Aaron Nadab and Abihu each taking  his censer, they placed upon them fire, and put upon them incense, and offered before \[the\] <span class="smallcaps">lord</span> an alien fire, which \[the\] <span class="smallcaps">lord</span> assigned not to them. 
-<small><sub>**KJV:**</sub></small>
-And Nadab and Abihu, the sons of Aaron, took either of them his censer, and put fire therein, and put incense thereon, and offered strange fire before the LORD, which he commanded them not.
-<small><sub>**BSB:**</sub></small>
-Now Aaron’s sons Nadab and Abihu took their censers, put fire in them and added incense, and offered unauthorized fire before the LORD, contrary to His command.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.24|<< Leviticus 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.2|Leviticus 10:2 >>]]</td></tr></table>
 
 | Translation | Greek |

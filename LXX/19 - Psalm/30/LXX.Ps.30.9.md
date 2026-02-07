@@ -1,10 +1,7 @@
 **LXX Psalm 30:9** 
 <small><sub>**LXX:**</sub></small>
 What benefit \[is there\] in  my blood, in  my going down into corruption? Shall \[the\] dust acknowledge you, or shall it announce  your truth? 
-<small><sub>**KJV:**</sub></small>
-What profit [is there] in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?
-<small><sub>**BSB:**</sub></small>
-“What gain is there in my bloodshed, in my descent to the Pit? Will the dust praise You? Will it proclaim Your faithfulness?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.30.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.30.8|<< Psalm 30:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.30.10|Psalm 30:10 >>]]</td></tr></table>
 
 | Translation | Greek |

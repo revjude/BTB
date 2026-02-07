@@ -1,10 +1,7 @@
 **LXX Genesis 30:42** 
 <small><sub>**LXX:**</sub></small>
 But whenever the flocks bore he did not place \[them\]. And the unmarked became  Laban's, and the marked  Jacob's. 
-<small><sub>**KJV:**</sub></small>
-But when the cattle were feeble, he put [them] not in: so the feebler were Laban’s, and the stronger Jacob’s.
-<small><sub>**BSB:**</sub></small>
-But if the animals were weak, he did not set out the branches. So the weaker animals went to Laban and the stronger ones to Jacob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.41|<< Genesis 30:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.43|Genesis 30:43 >>]]</td></tr></table>
 
 | Translation | Greek |

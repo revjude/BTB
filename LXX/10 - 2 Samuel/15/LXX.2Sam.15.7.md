@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:7** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass at \[the\] end of forty years, that Absalom said to  his father, I will go indeed and pay  my vows which I vowed to the <span class="smallcaps">lord</span> in Hebron. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after forty years, that Absalom said unto the king, I pray thee, let me go and pay my vow, which I have vowed unto the LORD, in Hebron.
-<small><sub>**BSB:**</sub></small>
-After four years had passed, Absalom said to the king, “Please let me go to Hebron to fulfill a vow I have made to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.6|<< 2 Samuel 15:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.8|2 Samuel 15:8 >>]]</td></tr></table>
 
 | Translation | Greek |

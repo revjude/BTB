@@ -1,4 +1,4 @@
-**1 Kings 2:43** 
+**1 Kings 2:43**<big><big>[[1Kgs.2.36 The Execution of Shimei|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why then hast thou not kept the oath of the LORD, and the commandment that I have charged thee with?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So why have you not kept your oath to the LORD and the command that I gave you?�
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.42|<< 1 Kings 2:42]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.44|1 Kings 2:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and why?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4069\|מַדּ֕וּעַ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.Du.a'<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

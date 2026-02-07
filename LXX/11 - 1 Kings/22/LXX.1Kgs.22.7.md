@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:7** 
 <small><sub>**LXX:**</sub></small>
 And Jehoshaphat said to the king of Israel, Is there not here a prophet of the <span class="smallcaps">lord</span>, and we shall ask the <span class="smallcaps">lord</span> through him? 
-<small><sub>**KJV:**</sub></small>
-And Jehoshaphat said, [Is there] not here a prophet of the LORD besides, that we might inquire of him?
-<small><sub>**BSB:**</sub></small>
-But Jehoshaphat asked, “Is there not still a prophet of the LORD here of whom we can inquire?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.6|<< 1 Kings 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.8|1 Kings 22:8 >>]]</td></tr></table>
 
 | Translation | Greek |

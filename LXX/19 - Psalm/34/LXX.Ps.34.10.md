@@ -1,10 +1,7 @@
 **LXX Psalm 34:10** 
 <small><sub>**LXX:**</sub></small>
 \[The\] rich became poor, and they hunger; but the ones seeking after the <span class="smallcaps">lord</span> shall not lack any good \[thing\]. 
-<small><sub>**KJV:**</sub></small>
-The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good [thing].
-<small><sub>**BSB:**</sub></small>
-Young lions go lacking and hungry, but those who seek the LORD lack no good thing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.34.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.34.9|<< Psalm 34:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.34.11|Psalm 34:11 >>]]</td></tr></table>
 
 | Translation | Greek |

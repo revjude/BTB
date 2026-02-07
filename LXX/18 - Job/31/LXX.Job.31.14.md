@@ -1,10 +1,7 @@
 **LXX Job 31:14** 
 <small><sub>**LXX:**</sub></small>
 what then shall I do if the <span class="smallcaps">lord</span> shall appoint chastisement for me? and if also he should visit, what answer shall I make? 
-<small><sub>**KJV:**</sub></small>
-What then shall I do when God riseth up? and when he visiteth, what shall I answer him?
-<small><sub>**BSB:**</sub></small>
-what will I do when God rises to judge? How will I answer when called to account?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.13|<< Job 31:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.15|Job 31:15 >>]]</td></tr></table>
 
 | Translation | Greek |

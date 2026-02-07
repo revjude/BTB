@@ -1,4 +1,4 @@
-**Proverbs 10:15** 
+**Proverbs 10:15**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The rich man’s wealth [is] his strong city: the destruction of the poor [is] their poverty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wealth of the rich man is his fortified city, but poverty is the ruin of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.14|<< Proverbs 10:14]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.16|Proverbs 10:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] wealth of  |**<big>&#8207;[[H1952\|ה֣וֹן]]&#8207; </big>**| Hon<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a rich [person]  |**<big>&#8207;[[H6223\|עָ֭שִׁיר]]&#8207; </big>**| 'A.shir<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

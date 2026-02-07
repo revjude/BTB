@@ -1,5 +1,5 @@
-**Luke 1:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:15**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother’s womb.
 <small><sub>**BSB:**</sub></small>
 for he will be great in the sight of the Lord. He shall never take wine or strong drink, and he will be filled with the Holy Spirit even from his mother’s womb.
@@ -10,7 +10,7 @@ He will be for great before the Lord, and wine and strong drink certainly not sh
 > $\quad$ referencing: [[LXX.Lev.10.9|Lev 10:9]] ☩ [[LXX.Num.6.3|Num 6:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He will be |**<big>[[G1510\|ἔσται]]</big>**  |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

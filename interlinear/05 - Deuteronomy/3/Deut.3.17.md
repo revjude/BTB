@@ -1,4 +1,4 @@
-**Deuteronomy 3:17** 
+**Deuteronomy 3:17**<big><big>[[Deut.3.12 Land Division East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The plain also, and Jordan, and the coast [thereof], from Chinnereth even unto the sea of the plain, [even] the salt sea, under Ashdothpisgah eastward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Jordan River in the Arabah bordered it from Chinnereth to the Sea of the Ara
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.16|<< Deuteronomy 3:16]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.18|Deuteronomy 3:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the Arabah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H6160G\|עֲרָבָ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.ra.Vah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and the Jordan  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3383\|יַּרְדֵּ֣ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hai.<small><sup>[[HTd]]</sup></small> yar.Den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

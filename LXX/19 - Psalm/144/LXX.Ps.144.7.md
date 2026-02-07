@@ -1,10 +1,7 @@
 **LXX Psalm 144:7** 
 <small><sub>**LXX:**</sub></small>
 Send out  your hand from \[the\] height! Take me, and rescue me from many waters, from out of \[the\] hand of \[the\] sons of strangers! 
-<small><sub>**KJV:**</sub></small>
-Send thine hand from above; rid me, and deliver me out of great waters, from the hand of strange children;
-<small><sub>**BSB:**</sub></small>
-Reach down from on high; set me free and rescue me from the deep waters, from the grasp of foreigners,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.144.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.144.6|<< Psalm 144:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.144.8|Psalm 144:8 >>]]</td></tr></table>
 
 | Translation | Greek |

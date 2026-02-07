@@ -1,4 +1,4 @@
-**2 Samuel 3:4** 
+**2 Samuel 3:4**<big><big>[[2Sam.3.1 The House of David Strengthened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the fourth, Adonijah the son of Haggith; and the fifth, Shephatiah the son of Abital;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ his fourth was Adonijah, the son of Haggith; his fifth was Shephatiah, the son o
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.3|<< 2 Samuel 3:3]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.5|2 Samuel 3:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] the fourth  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7243\|רְבִיעִ֖י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> re.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Adonijah  |**<big>&#8207;[[H0138G\|אֲדֹנִיָּ֣ה]]&#8207; </big>**| 'a.do.ni.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

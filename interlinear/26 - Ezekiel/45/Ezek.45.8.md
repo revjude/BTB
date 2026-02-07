@@ -1,4 +1,4 @@
-**Ezekiel 45:8** 
+**Ezekiel 45:8**<big><big>[[Ezek.45.7 The Prince’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the land shall be his possession in Israel: and my princes shall no more oppress my people; and [the rest of] the land shall they give to the house of Israel according to their tribes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This land will be his possession in Israel. And My princes will no longer oppres
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.7|<< Ezekiel 45:7]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.9|Ezekiel 45:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the land  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0776G\|אָ֛רֶץ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will belong  |**<big>&#8207;[[H1961\|יִֽהְיֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yih.yeh-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

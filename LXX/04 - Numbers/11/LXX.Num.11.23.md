@@ -1,10 +1,7 @@
 **LXX Numbers 11:23** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Shall the hand of \[the\] <span class="smallcaps">lord</span> not be enough? Already you shall know if my word shall overtake you or not. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Is the LORD’S hand waxed short? thou shalt see now whether my word shall come to pass unto thee or not.
-<small><sub>**BSB:**</sub></small>
-The LORD answered Moses, “Is the LORD’s arm too short? Now you will see whether or not My word will come to pass.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.22|<< Numbers 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.24|Numbers 11:24 >>]]</td></tr></table>
 
 | Translation | Greek |

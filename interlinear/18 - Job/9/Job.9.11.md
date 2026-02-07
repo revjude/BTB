@@ -1,4 +1,4 @@
-**Job 9:11** 
+**Job 9:11**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, he goeth by me, and I see [him] not: he passeth on also, but I perceive him not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Were He to pass by me, I would not see Him; were He to move, I would not recogni
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.10|<< Job 9:10]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.12|Job 9:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵ֤ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will pass by  |**<big>&#8207;[[H5674A\|יַעֲבֹ֣ר]]&#8207; </big>**| ya.'a.Vor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

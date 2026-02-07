@@ -1,4 +1,4 @@
-**Psalms 79:11** 
+**Psalms 79:11**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the sighing of the prisoner come before thee; according to the greatness of thy power preserve thou those that are appointed to die;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the groans of the captives reach You; by the strength of Your arm preserve t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.10|<< Psalms 79:10]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.12|Psalms 79:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it come  |**<big>&#8207;[[H0935G\|תָּ֤ב֣וֹא]]&#8207; </big>**| ta.Vo'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנֶי]]&#8207;&#8207;[[H9021\|ךָ֮]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.nei.<small><sup>[[HNcmpc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezra 9:7** 
+**Ezra 9:7**<big><big>[[Ezra.9.5 Ezra’s Prayer of Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Since the days of our fathers [have] we [been] in a great trespass unto this day; and for our iniquities have we, our kings, [and] our priests, been delivered into the hand of the kings of the lands, to the sword, to captivity, and to a spoil, and to confusion of face, as [it is] this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the days of our fathers to this day, our guilt has been great. Because of o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.6|<< Ezra 9:6]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.8|Ezra 9:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] days of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3117G\|ימֵ֣י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ancestors our  |**<big>&#8207;[[H0001G\|אֲבֹתֵ֗י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'a.vo.Tei.<small><sup>[[HNcfpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

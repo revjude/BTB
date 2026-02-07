@@ -1,4 +1,4 @@
-**1 Kings 7:5** 
+**1 Kings 7:5**<big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the doors and posts [were] square, with the windows: and light [was] against light [in] three ranks.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the doorways had rectangular frames, with the openings facing one another in
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.4|<< 1 Kings 7:4]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.6|1 Kings 7:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the openings  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6607\|פְּתָחִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pe.ta.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

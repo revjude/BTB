@@ -1,12 +1,12 @@
-**Matthew 25:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:33**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he shall set the sheep on his right hand, but the goats on the left.
 <small><sub>**BSB:**</sub></small>
 He will place the sheep on His right and the goats on His left.
 <small><sub>**Literal:**</sub></small>
 And He will set <the> indeed the sheep on [the] right hand of Him, <the> however the goats on [the] left.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.32|<< Matthew 25:32]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.34|Matthew 25:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He will set |**<big>[[G2476\|στήσει]]</big>**  |stēsei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

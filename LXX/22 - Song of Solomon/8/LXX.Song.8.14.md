@@ -1,10 +1,7 @@
 **LXX Song of Solomon 8:14** 
 <small><sub>**LXX:**</sub></small>
 Flee, O my beloved \[man\], and be like the doe or the fawn of the hinds upon mountains of aromatics! 
-<small><sub>**KJV:**</sub></small>
-Make haste, my beloved, and be thou like to a roe or to a young hart upon the mountains of spices.
-<small><sub>**BSB:**</sub></small>
-Come away, my beloved, and be like a gazelle or a young stag on the mountains of spices.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.8.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.13|<< Song of Solomon 8:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.1|Isaiah 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

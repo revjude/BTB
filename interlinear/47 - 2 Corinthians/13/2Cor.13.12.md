@@ -1,12 +1,12 @@
-**2 Corinthians 13:12
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 13:12**<big><big>[[2Cor.13.11 Benediction and Farewell|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Greet one another with an holy kiss.
 <small><sub>**BSB:**</sub></small>
 Greet one another with a holy kiss.
 <small><sub>**Literal:**</sub></small>
 do greet one another with a holy kiss. [13] Greet you the saints all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.11|<< 2 Corinthians 13:11]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.13|2 Corinthians 13:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do greet |**<big>[[G0782\|Ἀσπάσασθε]]</big>**  |Aspasasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | one another |**<big>[[G0240\|ἀλλήλους]]</big>**  |allēlous <small><sup>[[C-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

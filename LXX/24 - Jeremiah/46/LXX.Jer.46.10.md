@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:10** 
 <small><sub>**LXX:**</sub></small>
 And  that day \[will be\] to the <span class="smallcaps">lord</span> God of the forces a day of vengeance,  to take vengeance  on his enemies. And the sword shall devour, and be filled, and be intoxicated from  their blood. For \[there is\] a sacrifice to the <span class="smallcaps">lord</span> of Hosts upon a land \[of the\] north at \[the\] river Euphrates. 
-<small><sub>**KJV:**</sub></small>
-For this [is] the day of the Lord GOD of hosts, a day of vengeance, that he may avenge him of his adversaries: and the sword shall devour, and it shall be satiate and made drunk with their blood: for the Lord GOD of hosts hath a sacrifice in the north country by the river Euphrates.
-<small><sub>**BSB:**</sub></small>
-For that day belongs to the Lord GOD of Hosts, a day of vengeance against His foes. The sword will devour until it is satisfied, until it is quenched with their blood. For the Lord GOD of Hosts will hold a sacrifice in the land of the north by the River Euphrates.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.9|<< Jeremiah 46:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.11|Jeremiah 46:11 >>]]</td></tr></table>
 
 | Translation | Greek |

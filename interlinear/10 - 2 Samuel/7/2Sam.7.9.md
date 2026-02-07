@@ -1,4 +1,4 @@
-**2 Samuel 7:9** 
+**2 Samuel 7:9**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I was with thee whithersoever thou wentest, and have cut off all thine enemies out of thy sight, and have made thee a great name, like unto the name of the great [men] that [are] in the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have been with you wherever you have gone, and I have cut off all your enemies
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.8|<< 2 Samuel 7:8]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.10|2 Samuel 7:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I have been  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H1961\|אֶהְיֶ֣ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'eh.Yeh<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with you  |**<big>&#8207;[[H5973A\|עִמְּ]]&#8207;&#8207;[[H9031\|ךָ֗]]&#8207; </big>**| 'i.me.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

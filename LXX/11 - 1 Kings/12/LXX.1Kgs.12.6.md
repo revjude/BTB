@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:6** 
 <small><sub>**LXX:**</sub></small>
 And king Rehoboam reported to the elders, the ones who were standing before Solomon  his father \[while\] he was still living, saying, How do you counsel that I should answer \[to\] this people a word? 
-<small><sub>**KJV:**</sub></small>
-And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived, and said, How do ye advise that I may answer this people?
-<small><sub>**BSB:**</sub></small>
-Then King Rehoboam consulted with the elders who had served his father Solomon during his lifetime. “How do you advise me to respond to these people?” he asked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.5|<< 1 Kings 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.7|1 Kings 12:7 >>]]</td></tr></table>
 
 | Translation | Greek |

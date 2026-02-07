@@ -1,4 +1,4 @@
-**2 Chronicles 36:4** 
+**2 Chronicles 36:4**<big><big>[[2Chr.36.1 Jehoahaz Succeeds Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Neco king of Egypt made Eliakim brother of Jehoahaz king over Judah and Jer
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.3|<< 2 Chronicles 36:3]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.5|2 Chronicles 36:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made king  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4427A\|יַּמְלֵ֨ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yam.Lekh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

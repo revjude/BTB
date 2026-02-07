@@ -1,10 +1,7 @@
 **LXX Psalm 66:6** 
 <small><sub>**LXX:**</sub></small>
 The one converting the sea into dry \[land\]; in \[the\] river they shall go through on foot. There we shall be glad in him -- 
-<small><sub>**KJV:**</sub></small>
-He turned the sea into dry [land]: they went through the flood on foot: there did we rejoice in him.
-<small><sub>**BSB:**</sub></small>
-He turned the sea into dry land; they passed through the waters on foot; there we rejoiced in Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.66.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.66.5|<< Psalm 66:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.7|Psalm 66:7 >>]]</td></tr></table>
 
 | Translation | Greek |

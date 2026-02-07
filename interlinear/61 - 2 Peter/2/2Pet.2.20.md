@@ -1,12 +1,12 @@
-**2 Peter 2:20
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 2:20**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if after they have escaped the pollutions of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again entangled therein, and overcome, the latter end is worse with them than the beginning.
 <small><sub>**BSB:**</sub></small>
 If indeed they have escaped the corruption of the world through the knowledge of our Lord and Savior Jesus Christ, only to be entangled and overcome by it again, their final condition is worse than it was at first.
 <small><sub>**Literal:**</sub></small>
 If for having escaped the pollutions of the world through [the] knowledge of the Lord of us and Savior Jesus Christ, in these now again having been entangled they are subdued, has become to them the last [state] worse than the first.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.19|<< 2 Peter 2:19]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.21|2 Peter 2:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Leviticus 18:17** 
 <small><sub>**LXX:**</sub></small>
 \[The\] indecency of a woman and her daughter you shall not uncover; the daughter  of her son and the daughter  of her daughter you shall not take to uncover  their indecency, they are members of your family; it is an act of impiety. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not uncover the nakedness of a woman and her daughter, neither shalt thou take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; [for] they [are] her near kinswomen: it [is] wickedness.
-<small><sub>**BSB:**</sub></small>
-You must not have sexual relations with both a woman and her daughter. You are not to marry her son’s daughter or her daughter’s daughter and have sexual relations with her. They are close relatives; it is depraved.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.16|<< Leviticus 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.18|Leviticus 18:18 >>]]</td></tr></table>
 
 | Translation | Greek |

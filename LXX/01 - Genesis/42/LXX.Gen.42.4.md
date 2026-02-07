@@ -1,10 +1,7 @@
 **LXX Genesis 42:4** 
 <small><sub>**LXX:**</sub></small>
  But Benjamin the brother of Joseph \[was\] not sent with  his brothers. For he said, Lest at any time should come to pass to him an infirmity. 
-<small><sub>**KJV:**</sub></small>
-But Benjamin, Joseph’s brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him.
-<small><sub>**BSB:**</sub></small>
-But Jacob did not send Joseph’s brother Benjamin with his brothers, for he said, “I am afraid that harm might befall him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.3|<< Genesis 42:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.5|Genesis 42:5 >>]]</td></tr></table>
 
 | Translation | Greek |

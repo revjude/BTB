@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The year in which king Ahaz died, came  this saying. 
-<small><sub>**KJV:**</sub></small>
-In the year that king Ahaz died was this burden.
-<small><sub>**BSB:**</sub></small>
-In the year that King Ahaz died, this burden was received:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.14.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.27|<< Isaiah 14:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.29|Isaiah 14:29 >>]]</td></tr></table>
 
 | Translation | Greek |

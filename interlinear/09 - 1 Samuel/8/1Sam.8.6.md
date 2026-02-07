@@ -1,4 +1,4 @@
-**1 Samuel 8:6** 
+**1 Samuel 8:6**<big><big>[[1Sam.8.1 Israel Demands a King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the thing displeased Samuel, when they said, Give us a king to judge us. And Samuel prayed unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when they said, “Give us a king to judge us,” their demand was displeasi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.5|<< 1 Samuel 8:5]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.7|1 Samuel 8:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was displeasing  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7489A\|יֵּ֤רַע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the matter  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697I\|דָּבָר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

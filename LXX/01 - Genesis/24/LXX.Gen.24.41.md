@@ -1,10 +1,7 @@
 **LXX Genesis 24:41** 
 <small><sub>**LXX:**</sub></small>
 Then you will be innocent concerning  my oath. For when ever you should have come to  my tribe, and give \[her\] not to you, then you will be innocent concerning  my oath. 
-<small><sub>**KJV:**</sub></small>
-Then shalt thou be clear from [this] my oath, when thou comest to my kindred; and if they give not thee [one], thou shalt be clear from my oath.
-<small><sub>**BSB:**</sub></small>
-And when you go to my kindred, if they refuse to give her to you, then you will be released from my oath.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.40|<< Genesis 24:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.42|Genesis 24:42 >>]]</td></tr></table>
 
 | Translation | Greek |

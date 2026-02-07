@@ -1,12 +1,12 @@
-**Hebrews 12:10
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:10**<big><big>[[Heb.12.4 God Disciplines His Sons|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For they verily for a few days chastened [us] after their own pleasure; but he for [our] profit, that [we] might be partakers of his holiness.
 <small><sub>**BSB:**</sub></small>
 Our fathers disciplined us for a short time as they thought best, but God disciplines us for our good, so that we may share in His holiness.
 <small><sub>**Literal:**</sub></small>
 <the> Indeed for during a few days according to which is seeming good to them they were disciplining [us], [He] however for which is [our] benefitting in order <the> to share of the holiness of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.9|<< Hebrews 12:9]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.11|Hebrews 12:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

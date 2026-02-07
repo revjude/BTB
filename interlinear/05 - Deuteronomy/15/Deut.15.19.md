@@ -1,4 +1,4 @@
-**Deuteronomy 15:19** 
+**Deuteronomy 15:19**<big><big>[[Deut.15.19 Firstborn Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the firstling males that come of thy herd and of thy flock thou shalt sanctify unto the LORD thy God: thou shalt do no work with the firstling of thy bullock, nor shear the firstling of thy sheep.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must set apart to the LORD your God every firstborn male produced by your he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.18|<< Deuteronomy 15:18]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.20|Deuteronomy 15:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כָּֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kal-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> firstborn  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1060\|בְּכ֡וֹר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.Khor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

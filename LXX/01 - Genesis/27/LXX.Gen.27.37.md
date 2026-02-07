@@ -1,10 +1,7 @@
 **LXX Genesis 27:37** 
 <small><sub>**LXX:**</sub></small>
 And answering Isaac said  to Esau, If I made him master of you, and I made all his brothers his servants, to support him \[with\] grain and wine -- then to you what may I do child? 
-<small><sub>**KJV:**</sub></small>
-And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son?
-<small><sub>**BSB:**</sub></small>
-But Isaac answered Esau: “Look, I have made him your master and given him all his relatives as servants; I have sustained him with grain and new wine. What is left that I can do for you, my son?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.36|<< Genesis 27:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.38|Genesis 27:38 >>]]</td></tr></table>
 
 | Translation | Greek |

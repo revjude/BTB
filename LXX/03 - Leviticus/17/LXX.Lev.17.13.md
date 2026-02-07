@@ -1,10 +1,7 @@
 **LXX Leviticus 17:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] man, a man of the sons of Israel, or of the foreigners  lying near to you, who ever shall hunt a hunt for a wild beast or birds, which is to be eaten, he shall pour out  its blood, and cover it in the ground. 
-<small><sub>**KJV:**</sub></small>
-And whatsoever man [there be] of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.
-<small><sub>**BSB:**</sub></small>
-And if any Israelite or foreigner living among them hunts down a wild animal or bird that may be eaten, he must drain its blood and cover it with dirt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.12|<< Leviticus 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.14|Leviticus 17:14 >>]]</td></tr></table>
 
 | Translation | Greek |

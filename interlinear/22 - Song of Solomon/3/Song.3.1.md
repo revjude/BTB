@@ -1,4 +1,4 @@
-**Song of Solomon 3:1** 
+**Song of Solomon 3:1**<big><big>[[Song.3.1 The Bride’s Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By night on my bed I sought him whom my soul loveth: I sought him, but I found him not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On my bed at night I sought the one I love; I sought him, but did not find him.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.17|<< Song of Solomon 2:17]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.2|Song of Solomon 3:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bed my  |**<big>&#8207;[[H4904\|מִשְׁכָּבִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| mish.ka.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

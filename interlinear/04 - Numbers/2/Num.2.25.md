@@ -1,4 +1,4 @@
-**Numbers 2:25** 
+**Numbers 2:25**<big><big>[[Num.2.1 The Order of the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The standard of the camp of Dan [shall be] on the north side by their armies: and the captain of the children of Dan [shall be] Ahiezer the son of Ammishaddai.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the north side, the divisions of Dan are to camp under their standard: The le
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.24|<< Numbers 2:24]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.26|Numbers 2:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] standard of  |**<big>&#8207;[[H1714\|דֶּ֣גֶל]]&#8207; </big>**| De.gel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] camp of  |**<big>&#8207;[[H4264\|מַחֲנֵ֥ה]]&#8207; </big>**| ma.cha.Neh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

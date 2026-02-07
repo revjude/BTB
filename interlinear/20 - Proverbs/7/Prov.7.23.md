@@ -1,4 +1,4 @@
-**Proverbs 7:23** 
+**Proverbs 7:23**<big><big>[[Prov.7.1 Warnings about the Adulteress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it [is] for his life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ until an arrow pierces his liver, like a bird darting into a snare—not knowing
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.7.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.22|<< Proverbs 7:22]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.24|Proverbs 7:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5704\|עַ֤ד]]&#8207; </big>**| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will pierce  |**<big>&#8207;[[H6398\|יְפַלַּ֪ח]]&#8207; </big>**| ye.fa.Lach<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 3:3** 
+**Job 3:3**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the day perish wherein I was born, and the night [in which] it was said, There is a man child conceived.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the day perish wherein I was born, and the night [in which] it was said, The
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.2|<< Job 3:2]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.4|Job 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let it perish  |**<big>&#8207;[[H0006\|יֹ֣אבַד]]&#8207; </big>**| Yoad<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] day  |**<big>&#8207;[[H3117G\|י֭וֹם]]&#8207; </big>**| Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

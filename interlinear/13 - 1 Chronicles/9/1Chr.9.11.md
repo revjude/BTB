@@ -1,4 +1,4 @@
-**1 Chronicles 9:11** 
+**1 Chronicles 9:11**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the ruler of the house of God;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Azariah son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Merai
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.10|<< 1 Chronicles 9:10]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.12|1 Chronicles 9:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Azariah  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H5838L\|עֲזַרְיָ֨ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.zar.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

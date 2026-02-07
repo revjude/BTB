@@ -1,4 +1,4 @@
-**Genesis 20:18** 
+**Genesis 20:18**<big><big>[[Gen.20.1 Abraham, Sarah, and Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham’s wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for on account of Abraham’s wife Sarah, the LORD had completely closed all the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.17|<< Genesis 20:17]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.1|Genesis 21:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to shut up>  |**<big>&#8207;[[H6113\|עָצֹ֤ר]]&#8207; </big>**| 'a.Tzor<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

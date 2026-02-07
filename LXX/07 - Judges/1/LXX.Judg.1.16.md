@@ -1,10 +1,7 @@
 **LXX Judges 1:16** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Jothor the Kenite, father-in-law of Moses, ascended from out of the city of the palms to the sons of Judah, into the wilderness of Judah, the one being in the south upon \[the\] descent of Arad; and they went and dwelt with the people. 
-<small><sub>**KJV:**</sub></small>
-And the children of the Kenite, Moses’ father in law, went up out of the city of palm trees with the children of Judah into the wilderness of Judah, which [lieth] in the south of Arad; and they went and dwelt among the people.
-<small><sub>**BSB:**</sub></small>
-Now the descendants of Moses’ father-in-law, the Kenite, went up with the men of Judah from the City of Palms to the Wilderness of Judah in the Negev near Arad. They went to live among the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.15|<< Judges 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.17|Judges 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

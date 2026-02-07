@@ -1,10 +1,7 @@
 **LXX Exodus 28:9** 
 <small><sub>**LXX:**</sub></small>
 And you shall take the two stones -- stones of emerald; and you shall carve on them the names of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt take two onyx stones, and grave on them the names of the children of Israel:
-<small><sub>**BSB:**</sub></small>
-Take two onyx stones and engrave on them the names of the sons of Israel:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.8|<< Exodus 28:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.10|Exodus 28:10 >>]]</td></tr></table>
 
 | Translation | Greek |

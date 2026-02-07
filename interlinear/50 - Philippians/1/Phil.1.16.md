@@ -1,12 +1,12 @@
-**Philippians 1:16
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:16**<big><big>[[Phil.1.12 Paul’s Trials Advance the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:
 <small><sub>**BSB:**</sub></small>
 The latter do so in love, knowing that I am appointed for the defense of the gospel.
 <small><sub>**Literal:**</sub></small>
 [17] the [ones] indeed out of love knowing that for defense of the gospel I am appointed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.15|<< Philippians 1:15]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.17|Philippians 1:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [17] the [ones] |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

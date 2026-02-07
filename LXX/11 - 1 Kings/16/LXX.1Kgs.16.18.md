@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Zimri beheld that his city was taken, that he entered into \[the\] inner room of the house of the king, and he set on fire the house of the king over himself with fire, and he died 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Zimri saw that the city was taken, that he went into the palace of the king’s house, and burnt the king’s house over him with fire, and died,
-<small><sub>**BSB:**</sub></small>
-When Zimri saw that the city was captured, he entered the citadel of the royal palace and burned it down upon himself. So he died<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.17|<< 1 Kings 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.19|1 Kings 16:19 >>]]</td></tr></table>
 
 | Translation | Greek |

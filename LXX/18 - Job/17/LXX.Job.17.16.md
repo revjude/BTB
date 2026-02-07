@@ -1,10 +1,7 @@
 **LXX Job 17:16** 
 <small><sub>**LXX:**</sub></small>
 or will they go down with me into Hades? or with one accord shall we go down unto \[the\] embankment? 
-<small><sub>**KJV:**</sub></small>
-They shall go down to the bars of the pit, when [our] rest together [is] in the dust.
-<small><sub>**BSB:**</sub></small>
-Will it go down to the gates of Sheol? Will we go down together into the dust?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.17.15|<< Job 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.18.1|Job 18:1 >>]]</td></tr></table>
 
 | Translation | Greek |

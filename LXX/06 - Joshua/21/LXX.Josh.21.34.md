@@ -1,10 +1,7 @@
 **LXX Joshua 21:34** 
 <small><sub>**LXX:**</sub></small>
 And to the people of \[the\] sons of Merari, the Levites, to the ones remaining from the tribe of \[the\] sons of Zebulun --  Jokneam and the outskirts of it, and  Kartah and the outskirts of it, 
-<small><sub>**KJV:**</sub></small>
-And unto the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with her suburbs, and Kartah with her suburbs,
-<small><sub>**BSB:**</sub></small>
-This is what the Merarite clan (the rest of the Levites) were given: From the tribe of Zebulun they were given Jokneam, Kartah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.33|<< Joshua 21:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.35|Joshua 21:35 >>]]</td></tr></table>
 
 | Translation | Greek |

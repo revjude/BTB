@@ -1,10 +1,7 @@
 **LXX Exodus 16:16** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the thing which \[the\] <span class="smallcaps">lord</span> ordered. Bring together of it each for \[what\] is fitting! A homer per head, according to \[the\] number of your souls; let each with your tents collect together! 
-<small><sub>**KJV:**</sub></small>
-This [is] the thing which the LORD hath commanded, Gather of it every man according to his eating, an omer for every man, [according to] the number of your persons; take ye every man for [them] which [are] in his tents.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD has commanded: ‘Each one is to gather as much as he needs. You may take an omer for each person in your tent.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.15|<< Exodus 16:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.17|Exodus 16:17 >>]]</td></tr></table>
 
 | Translation | Greek |

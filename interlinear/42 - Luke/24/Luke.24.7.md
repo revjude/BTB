@@ -1,12 +1,12 @@
-**Luke 24:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:7**<big><big>[[Luke.24.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, The Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again.
 <small><sub>**BSB:**</sub></small>
 ‘The Son of Man must be delivered into the hands of sinful men, and be crucified, and on the third day rise again.’”
 <small><sub>**Literal:**</sub></small>
 saying The Son <the> of Man that it behooves to be delivered into hands of men sinful and to be crucified and on the third day to arise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.6|<< Luke 24:6]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.8|Luke 24:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying |**<big>[[G3004G\|λέγων]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | The |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

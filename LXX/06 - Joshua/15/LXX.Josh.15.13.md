@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[to\] Caleb son of Jephunneh he gave a portion in \[the\] midst of \[the\] sons of Judah according to \[the\] order  of God. And Joshua gave to him the city Arba, \[the\] mother-city of Anak -- this is Hebron. 
-<small><sub>**KJV:**</sub></small>
-And unto Caleb the son of Jephunneh he gave a part among the children of Judah, according to the commandment of the LORD to Joshua, [even] the city of Arba the father of Anak, which [city is] Hebron.
-<small><sub>**BSB:**</sub></small>
-According to the LORD’s command to him, Joshua gave Caleb son of Jephunneh a portion among the sons of Judah—Kiriath-arba, that is, Hebron. (Arba was the forefather of Anak.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.12|<< Joshua 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.14|Joshua 15:14 >>]]</td></tr></table>
 
 | Translation | Greek |

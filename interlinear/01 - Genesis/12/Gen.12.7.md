@@ -1,4 +1,4 @@
-**Genesis 12:7** 
+**Genesis 12:7**<big><big>[[Gen.12.1 The Call of Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD appeared unto Abram, and said, Unto thy seed will I give this land: and there builded he an altar unto the LORD, who appeared unto him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the LORD appeared to Abram and said, “I will give this land to your offsp
 > $\quad$ referenced by: [[Acts.7.5|Acts 7:5]] ☩ [[Gal.3.16|Gal 3:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appeared  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יֵּרָ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Ra'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

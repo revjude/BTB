@@ -1,4 +1,4 @@
-**Isaiah 59:13** 
+**Isaiah 59:13**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In transgressing and lying against the LORD, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ rebelling and denying the LORD, turning away from our God, speaking oppression a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.12|<< Isaiah 59:12]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.14|Isaiah 59:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we have transgressed  |**<big>&#8207;[[H6586\|פָּשֹׁ֤עַ]]&#8207; </big>**| pa.Sho.a'<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and we have denied  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3584\|כַחֵשׁ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.Chesh<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

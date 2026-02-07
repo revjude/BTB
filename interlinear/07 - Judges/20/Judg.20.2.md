@@ -1,4 +1,4 @@
-**Judges 20:2** 
+**Judges 20:2**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chief of all the people, [even] of all the tribes of Israel, presented themselves in the assembly of the people of God, four hundred thousand footmen that drew sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The leaders of all the people and all the tribes of Israel presented themselves 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.1|<< Judges 20:1]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.3|Judges 20:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they presented themselves  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3320\|יִּֽתְיַצְּב֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.ya.tze.Vu<small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] corners of  |**<big>&#8207;[[H6438H\|פִּנּ֣וֹת]]&#8207; </big>**| pi.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:21** 
 <small><sub>**LXX:**</sub></small>
 Of the three \[he was more\] honorable above the two, and he became to them as a ruler, but unto the \[first\] three he arrived not at. 
-<small><sub>**KJV:**</sub></small>
-Of the three, he was more honourable than the two; for he was their captain: howbeit he attained not to the [first] three.
-<small><sub>**BSB:**</sub></small>
-He was doubly honored above the Three, and he became their commander, even though he was not included among the Three.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.20|<< 1 Chronicles 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.22|1 Chronicles 11:22 >>]]</td></tr></table>
 
 | Translation | Greek |

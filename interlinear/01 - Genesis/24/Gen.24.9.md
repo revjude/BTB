@@ -1,4 +1,4 @@
-**Genesis 24:9** 
+**Genesis 24:9**<big><big>[[Gen.24.1 A Wife for Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the servant put his hand under the thigh of Abraham his master, and sware to him concerning that matter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the servant placed his hand under the thigh of his master Abraham and swore a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.8|<< Genesis 24:8]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.10|Genesis 24:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he put  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760H\|יָּ֤שֶׂם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.sem<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the servant  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5650\|עֶ֙בֶד֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.ved<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

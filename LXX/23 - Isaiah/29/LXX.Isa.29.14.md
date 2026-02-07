@@ -1,10 +1,7 @@
 **LXX Isaiah 29:14** 
 <small><sub>**LXX:**</sub></small>
 On account of this, behold, I shall proceed  to transpose  this people; and I will transpose them, and I will destroy the wisdom of the wise; and I will hide the understanding of the discerning. 
-<small><sub>**KJV:**</sub></small>
-Therefore, behold, I will proceed to do a marvellous work among this people, [even] a marvellous work and a wonder: for the wisdom of their wise [men] shall perish, and the understanding of their prudent [men] shall be hid.
-<small><sub>**BSB:**</sub></small>
-Therefore I will again confound these people with wonder upon wonder. The wisdom of the wise will vanish, and the intelligence of the intelligent will be hidden.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.13|<< Isaiah 29:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.15|Isaiah 29:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 29:14** is...

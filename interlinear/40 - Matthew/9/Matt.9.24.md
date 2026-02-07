@@ -1,12 +1,12 @@
-**Matthew 9:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:24**<big><big>[[Matt.9.18 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He said unto them, Give place: for the maid is not dead, but sleepeth. And they laughed him to scorn.
 <small><sub>**BSB:**</sub></small>
 “Go away,” He told them. “The girl is not dead, but asleep.” And they laughed at Him.
 <small><sub>**Literal:**</sub></small>
 He was saying to them: do go away, Not for is dead the girl but sleeps. And they were mocking Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.23|<< Matthew 9:23]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.25|Matthew 9:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was saying [^1] |**<big>[[G3004G\|ἔλεγεν]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | to them: |**<big>[[G0846\|αὐτοῖς·]]</big>**  |autois <small><sup>[[P-DPM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

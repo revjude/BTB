@@ -1,10 +1,7 @@
 **LXX Judges 8:6** 
 <small><sub>**LXX:**</sub></small>
 And the rulers of Succoth said, \[The\] hand of Zebah and Zalmunna \[is\] not now in  your hand, that we should give bread \[loaves\] \[to\] your military. 
-<small><sub>**KJV:**</sub></small>
-And the princes of Succoth said, [Are] the hands of Zebah and Zalmunna now in thine hand, that we should give bread unto thine army?
-<small><sub>**BSB:**</sub></small>
-But the leaders of Succoth asked, “Are the hands of Zebah and Zalmunna already in your possession, that we should give bread to your army?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.5|<< Judges 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.7|Judges 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

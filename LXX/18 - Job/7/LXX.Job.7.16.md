@@ -1,10 +1,7 @@
 **LXX Job 7:16** 
 <small><sub>**LXX:**</sub></small>
 For live not into the eon, that I should patiently wait. Depart from me, for my livelihood \[is\] empty! 
-<small><sub>**KJV:**</sub></small>
-I loathe [it]; I would not live alway: let me alone; for my days [are] vanity.
-<small><sub>**BSB:**</sub></small>
-I loathe my life! I would not live forever. Leave me alone, for my days are but a breath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.15|<< Job 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.17|Job 7:17 >>]]</td></tr></table>
 
 | Translation | Greek |

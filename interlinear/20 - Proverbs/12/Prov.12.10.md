@@ -1,4 +1,4 @@
-**Proverbs 12:10** 
+**Proverbs 12:10**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A righteous [man] regardeth the life of his beast: but the tender mercies of the wicked [are] cruel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A righteous man regards the life of his animal, but the tender mercies of the wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.9|<< Proverbs 12:9]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.11|Proverbs 12:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] knowing  |**<big>&#8207;[[H3045\|יוֹדֵ֣עַ]]&#8207; </big>**| yo.De.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a righteous [person]  |**<big>&#8207;[[H6662\|צַ֭דִּיק]]&#8207; </big>**| Tza.dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

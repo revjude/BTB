@@ -1,12 +1,12 @@
-**Acts 15:40
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:40**<big><big>[[Acts.15.36 Paul’s Second Missionary Journey Begins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God.
 <small><sub>**BSB:**</sub></small>
 but Paul chose Silas and left, commended by the brothers to the grace of the Lord.
 <small><sub>**Literal:**</sub></small>
 Paul however having chosen Silas went forth having been committed to the grace of the Lord by the brothers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.39|<< Acts 15:39]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.41|Acts 15:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

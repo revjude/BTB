@@ -1,4 +1,4 @@
-**Psalms 143:2** 
+**Psalms 143:2**<big><big>[[Ps.143.1 I Stretch Out My Hands to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And enter not into judgment with thy servant: for in thy sight shall no man living be justified.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Do not bring Your servant into judgment, for no one alive is righteous before Yo
 > $\quad$ referenced by: [[Rom.3.20|Rom 3:20]] ☩ [[Gal.2.16|Gal 2:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and may not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you go  |**<big>&#8207;[[H0935G\|תָּב֣וֹא]]&#8207; </big>**| ta.Vo'<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

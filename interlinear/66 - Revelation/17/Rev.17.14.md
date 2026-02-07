@@ -1,5 +1,5 @@
-**Revelation 17:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 17:14**<big><big>[[Rev.17.14 The Victory of the Lamb|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him [are] called, and chosen, and faithful.
 <small><sub>**BSB:**</sub></small>
 They will make war against the Lamb, and the Lamb will triumph over them, because He is Lord of lords and King of kings; and He will be accompanied by His called and chosen and faithful ones.”
@@ -10,7 +10,7 @@ These with the Lamb war will make, and the Lamb will overcome them, because Lord
 > $\quad$ alluding to: [[LXX.Dan.8.25|Dan 8:25]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These |**<big>[[G3778\|οὗτοι]]</big>**  |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | with |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

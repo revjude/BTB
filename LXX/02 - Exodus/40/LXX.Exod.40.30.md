@@ -1,10 +1,7 @@
 **LXX Exodus 40:30** 
 <small><sub>**LXX:**</sub></small>
 And he put the bathing tub between the tent of the testimony, and between the altar. And he placed water in it 
-<small><sub>**KJV:**</sub></small>
-And he set the laver between the tent of the congregation and the altar, and put water there, to wash [withal].
-<small><sub>**BSB:**</sub></small>
-He placed the basin between the Tent of Meeting and the altar and put water in it for washing;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.29|<< Exodus 40:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.31|Exodus 40:31 >>]]</td></tr></table>
 
 | Translation | Greek |

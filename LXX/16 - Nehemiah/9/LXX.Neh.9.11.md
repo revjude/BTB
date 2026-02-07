@@ -1,10 +1,7 @@
 **LXX Nehemiah 9:11** 
 <small><sub>**LXX:**</sub></small>
 And you tore up the sea before them, and they went in \[the\] midst of the sea in dryness; and the ones pursuing them you tossed into \[the\] bottom of the sea, as a stone in vehement water. 
-<small><sub>**KJV:**</sub></small>
-And thou didst divide the sea before them, so that they went through the midst of the sea on the dry land; and their persecutors thou threwest into the deeps, as a stone into the mighty waters.
-<small><sub>**BSB:**</sub></small>
-You divided the sea before them, and they crossed through it on dry ground. You hurled their pursuers into the depths like a stone into raging waters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.10|<< Nehemiah 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.12|Nehemiah 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 45:5** 
 <small><sub>**LXX:**</sub></small>
 Twenty and five thousand in length, and a breadth of twenty thousand shall be to the Levites, to the ones ministering in the house, to them for possession cities  to dwell in. 
-<small><sub>**KJV:**</sub></small>
-And the five and twenty thousand of length, and the ten thousand of breadth, shall also the Levites, the ministers of the house, have for themselves, for a possession for twenty chambers.
-<small><sub>**BSB:**</sub></small>
-An adjacent area 25,000 cubits long and 10,000 cubits wide shall belong to the Levites who minister in the temple; it will be their possession for towns in which to live.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.45.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.45.4|<< Ezekiel 45:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.45.6|Ezekiel 45:6 >>]]</td></tr></table>
 
 | Translation | Greek |

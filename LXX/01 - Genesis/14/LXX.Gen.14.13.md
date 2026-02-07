@@ -1,10 +1,7 @@
 **LXX Genesis 14:13** 
 <small><sub>**LXX:**</sub></small>
 And a certain person of the ones being rescued coming, reported to Abram, to the traveler. And he dwelt at the oak  of Mamre \[the\] Amorite of the brother of Eshcol, and the brother of Aner, who were confederates  of Abram. 
-<small><sub>**KJV:**</sub></small>
-And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these [were] confederate with Abram.
-<small><sub>**BSB:**</sub></small>
-Then an escapee came and reported this to Abram the Hebrew. Now Abram was living near the Oaks of Mamre the Amorite, a brother of Eshcol and Aner, all of whom were bound by treaty to Abram.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.12|<< Genesis 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.14|Genesis 14:14 >>]]</td></tr></table>
 
 | Translation | Greek |

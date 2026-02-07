@@ -1,10 +1,7 @@
 **LXX Ezekiel 8:3** 
 <small><sub>**LXX:**</sub></small>
 And he stretched out a likeness of a hand, and he took me up by the decorative hem  of my top. And spirit took me in between the earth and between the heaven, and led me unto Jerusalem in a vision of God, unto the thresholds of the inner gate  looking to \[the\] north of which was the monument of the acquirer. 
-<small><sub>**KJV:**</sub></small>
-And he put forth the form of an hand, and took me by a lock of mine head; and the spirit lifted me up between the earth and the heaven, and brought me in the visions of God to Jerusalem, to the door of the inner gate that looketh toward the north; where [was] the seat of the image of jealousy, which provoketh to jealousy.
-<small><sub>**BSB:**</sub></small>
-He stretched out what looked like a hand and took me by the hair of my head. Then the Spirit lifted me up between earth and heaven and carried me in visions of God to Jerusalem, to the entrance of the north gate of the inner court, where the idol that provokes jealousy was seated.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.2|<< Ezekiel 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.4|Ezekiel 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

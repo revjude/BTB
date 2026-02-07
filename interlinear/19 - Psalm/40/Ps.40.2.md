@@ -1,4 +1,4 @@
-**Psalms 40:2** (40:3)
+**Psalms 40:2**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, [and] established my goings.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He lifted me up from the pit of despair, out of the miry clay; He set my feet up
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought up me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927H\|יַּעֲלֵ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Le.<small><sup>[[HVhw3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from a pit of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H0953A\|בּ֥וֹר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Bor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

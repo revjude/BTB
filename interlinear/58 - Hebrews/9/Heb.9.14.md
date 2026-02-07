@@ -1,5 +1,5 @@
-**Hebrews 9:14
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:14**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?
 <small><sub>**BSB:**</sub></small>
 how much more will the blood of Christ, who through the eternal Spirit offered Himself unblemished to God, purify our consciences from works of death, so that we may serve the living God!
@@ -10,7 +10,7 @@ how much more the blood <the> of Christ, who through [the] Spirit eternal Himsel
 > $\quad$ possibly alluding to: [[LXX.Num.14.36|Num 14:36]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how much |**<big>[[G4214\|πόσῳ]]</big>**  |posō <small><sup>[[Q-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | more |**<big>[[G3123G\|μᾶλλον]]</big>**  |mallon <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

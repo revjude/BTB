@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:24** 
 <small><sub>**LXX:**</sub></small>
 In no way \[the\] anger of \[the\] rage \[of the\] <span class="smallcaps">lord</span> turn until he should execute, and until he should ordain \[the\] enterprise of his heart. Upon \[the\] last of the days you shall know them. 
-<small><sub>**KJV:**</sub></small>
-The fierce anger of the LORD shall not return, until he have done [it], and until he have performed the intents of his heart: in the latter days ye shall consider it.
-<small><sub>**BSB:**</sub></small>
-The fierce anger of the LORD will not turn back until He has fully accomplished the purposes of His heart. In the days to come you will understand this.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.23|<< Jeremiah 30:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.1|Jeremiah 31:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 47:30** 
 <small><sub>**LXX:**</sub></small>
 But I shall be gone to sleep with  my fathers, then you shall lift me from out of Egypt, and entomb me in  their burying-place.  And he said, I will do according to  your saying. 
-<small><sub>**KJV:**</sub></small>
-But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said.
-<small><sub>**BSB:**</sub></small>
-but when I lie down with my fathers, carry me out of Egypt and bury me with them.” Joseph answered, “I will do as you have requested.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.29|<< Genesis 47:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.31|Genesis 47:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 66:5** 
 <small><sub>**LXX:**</sub></small>
 Come and see the works  of God! as fearful in counsels above the sons  of men. 
-<small><sub>**KJV:**</sub></small>
-Come and see the works of God: [he is] terrible [in his] doing toward the children of men.
-<small><sub>**BSB:**</sub></small>
-Come and see the works of God; how awesome are His deeds toward mankind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.66.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.66.4|<< Psalm 66:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.6|Psalm 66:6 >>]]</td></tr></table>
 
 | Translation | Greek |

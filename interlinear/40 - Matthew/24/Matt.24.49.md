@@ -1,12 +1,12 @@
-**Matthew 24:49
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:49**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And shall begin to smite [his] fellowservants, and to eat and drink with the drunken;
 <small><sub>**BSB:**</sub></small>
 And he begins to beat his fellow servants and to eat and drink with drunkards.
 <small><sub>**Literal:**</sub></small>
 and may begin to beat the fellow servants of him, he may eat then and he may drink with those being drunkards,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.48|<< Matthew 24:48]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.50|Matthew 24:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | may begin |**<big>[[G0757\|ἄρξηται]]</big>**  |arxētai <small><sup>[[V-AMS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

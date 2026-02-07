@@ -1,10 +1,7 @@
 **LXX Psalm 119:97** 
 <small><sub>**LXX:**</sub></small>
 How I loved  your law, O <span class="smallcaps">lord</span>; \[the\] entire  day it is my meditation. 
-<small><sub>**KJV:**</sub></small>
-MEM. O how love I thy law! it [is] my meditation all the day.
-<small><sub>**BSB:**</sub></small>
-Oh, how I love Your law! All day long it is my meditation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.97|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.96|<< Psalm 119:96]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.98|Psalm 119:98 >>]]</td></tr></table>
 
 | Translation | Greek |

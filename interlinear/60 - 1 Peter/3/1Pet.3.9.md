@@ -1,12 +1,12 @@
-**1 Peter 3:9
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:9**<big><big>[[1Pet.3.8 Turning from Evil|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing.
 <small><sub>**BSB:**</sub></small>
 Do not repay evil with evil or insult with insult, but with blessing, because to this you were called so that you may inherit a blessing.
 <small><sub>**Literal:**</sub></small>
 not repaying evil for evil or insult for insult, on the contrary however blessing knowing because to this you were called so that blessing you may inherit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.8|<< 1 Peter 3:8]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.10|1 Peter 3:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | repaying |**<big>[[G0591\|ἀποδιδόντες]]</big>**  |apodidontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

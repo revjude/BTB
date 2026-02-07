@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:25** 
 <small><sub>**LXX:**</sub></small>
 There was no king before him likened to him, who turned towards \[the\] <span class="smallcaps">lord</span> with his entire heart, and with his entire life, and with his entire strength, according to all the law of Moses. And after him rose up not \[one\] like him. 
-<small><sub>**KJV:**</sub></small>
-And like unto him was there no king before him, that turned to the LORD with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there [any] like him.
-<small><sub>**BSB:**</sub></small>
-Neither before nor after Josiah was there any king like him, who turned to the LORD with all his heart and with all his soul and with all his strength, according to all the Law of Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.24|<< 2 Kings 23:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.26|2 Kings 23:26 >>]]</td></tr></table>
 
 | Translation | Greek |

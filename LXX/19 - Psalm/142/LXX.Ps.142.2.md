@@ -1,10 +1,7 @@
 **LXX Psalm 142:2** 
 <small><sub>**LXX:**</sub></small>
 I shall pour out my supplication before him;  I shall report my affliction before him. 
-<small><sub>**KJV:**</sub></small>
-I poured out my complaint before him; I shewed before him my trouble.
-<small><sub>**BSB:**</sub></small>
-I pour out my complaint before Him; I reveal my trouble to Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.142.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.142.1|<< Psalm 142:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.142.3|Psalm 142:3 >>]]</td></tr></table>
 
 | Translation | Greek |

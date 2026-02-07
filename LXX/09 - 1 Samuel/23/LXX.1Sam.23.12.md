@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:12** 
 <small><sub>**LXX:**</sub></small>
 And David said, the ones from Keilah deliver up me and  my men into \[the\] hand of Saul? And \[the\] <span class="smallcaps">lord</span> said, They shall deliver up. 
-<small><sub>**KJV:**</sub></small>
-Then said David, Will the men of Keilah deliver me and my men into the hand of Saul? And the LORD said, They will deliver [thee] up.
-<small><sub>**BSB:**</sub></small>
-So David asked, “Will the citizens of Keilah surrender me and my men into the hand of Saul?” “They will,” said the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.11|<< 1 Samuel 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.13|1 Samuel 23:13 >>]]</td></tr></table>
 
 | Translation | Greek |

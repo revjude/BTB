@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:13** 
 <small><sub>**LXX:**</sub></small>
 and Jesse procreated  his first-born Eliab, and Abinadab the second, and Shimma the third, 
-<small><sub>**KJV:**</sub></small>
-And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,
-<small><sub>**BSB:**</sub></small>
-Jesse was the father of Eliab his firstborn; Abinadab was born second, Shimea third,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.12|<< 1 Chronicles 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.14|1 Chronicles 2:14 >>]]</td></tr></table>
 
 | Translation | Greek |

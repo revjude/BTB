@@ -1,4 +1,4 @@
-**Nehemiah 13:31** 
+**Nehemiah 13:31**<big><big>[[Neh.13.23 Intermarriage Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the wood offering, at times appointed, and for the firstfruits. Remember me, O my God, for good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I also arranged for contributions of wood at the appointed times, and for the fi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.30|<< Nehemiah 13:30]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.1|Esther 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and for [the] offering of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7133B\|קֻרְבַּ֧ן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> kur.Ban<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the wood\<s>  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6086G\|עֵצִ֛ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Tzim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

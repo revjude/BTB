@@ -1,4 +1,4 @@
-**Nahum 2:11** (2:12)
+**Nahum 2:11**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where [is] the dwelling of the lions, and the feedingplace of the young lions, where the lion, [even] the old lion, walked, [and] the lion’s whelp, and none made [them] afraid?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Where is the lions’ lair or the feeding ground of the young lions, where the l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.10|<< Nahum 2:10]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.12|Nahum 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where?  |**<big>&#8207;[[H0346\|אַיֵּה֙]]&#8207; </big>**| 'ai.Yeh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is the] dwelling place of  |**<big>&#8207;[[H4583\|מְע֣וֹן]]&#8207; </big>**| me.'on<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

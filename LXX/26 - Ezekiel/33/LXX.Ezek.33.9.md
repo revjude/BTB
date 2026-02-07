@@ -1,10 +1,7 @@
 **LXX Ezekiel 33:9** 
 <small><sub>**LXX:**</sub></small>
 But you, if you should forewarn the impious  of his way to turn from it, and he should not turn from  his way, this one shall die in his impiety; but you  rescued your own soul. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless, if thou warn the wicked of his way to turn from it; if he do not turn from his way, he shall die in his iniquity; but thou hast delivered thy soul.
-<small><sub>**BSB:**</sub></small>
-But if you warn the wicked man to turn from his way, and he does not turn from it, he will die in his iniquity, but you will have saved your life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.33.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.8|<< Ezekiel 33:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.10|Ezekiel 33:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 21:11** 
 <small><sub>**LXX:**</sub></small>
 Moreover he made \[the\] high \[places\] in the cities of Judah, and fornicated the ones dwelling in Jerusalem, and led Judah astray. 
-<small><sub>**KJV:**</sub></small>
-Moreover he made high places in the mountains of Judah, and caused the inhabitants of Jerusalem to commit fornication, and compelled Judah [thereto].
-<small><sub>**BSB:**</sub></small>
-Jehoram had also built high places on the hills of Judah; he had caused the people of Jerusalem to prostitute themselves and had led Judah astray.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.10|<< 2 Chronicles 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.12|2 Chronicles 21:12 >>]]</td></tr></table>
 
 | Translation | Greek |

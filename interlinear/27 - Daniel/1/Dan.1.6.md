@@ -1,4 +1,4 @@
-**Daniel 1:6** 
+**Daniel 1:6**<big><big>[[Dan.1.1 Daniel Removed to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Among these young men were some from Judah: Daniel, Hananiah, Mishael, and Azari
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.5|<< Daniel 1:5]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.7|Daniel 1:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֥י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among \<the> them  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

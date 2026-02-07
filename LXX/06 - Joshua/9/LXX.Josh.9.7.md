@@ -1,10 +1,7 @@
 **LXX Joshua 9:7** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel said to the Hivites, Look, dwell together not with me, so how do we ordain with you a covenant? 
-<small><sub>**KJV:**</sub></small>
-And the men of Israel said unto the Hivites, Peradventure ye dwell among us; and how shall we make a league with you?
-<small><sub>**BSB:**</sub></small>
-But the men of Israel said to the Hivites, “Perhaps you dwell near us. How can we make a treaty with you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.6|<< Joshua 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.8|Joshua 9:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 2:24** 
 <small><sub>**LXX:**</sub></small>
 And he turned behind him, and beheld them, and cursed them in \[the\] name of \[the\] <span class="smallcaps">lord</span>. And two bears came forth from out of the forest, and they tore asunder of them forty and two children. 
-<small><sub>**KJV:**</sub></small>
-And he turned back, and looked on them, and cursed them in the name of the LORD. And there came forth two she bears out of the wood, and tare forty and two children of them.
-<small><sub>**BSB:**</sub></small>
-Then he turned around, looked at them, and called down a curse on them in the name of the LORD. Suddenly two female bears came out of the woods and mauled forty-two of the boys.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.23|<< 2 Kings 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.25|2 Kings 2:25 >>]]</td></tr></table>
 
 | Translation | Greek |

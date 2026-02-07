@@ -1,4 +1,4 @@
-**Psalms 32:8** 
+**Psalms 32:8**<big><big>[[Ps.32.1 The Joy of Forgiveness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will instruct you and teach you the way you should go; I will give you counsel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.32.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.7|<< Psalms 32:7]]</td><td align="center" style="border:none;">[[Ps.32|Psalms 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.32.9|Psalms 32:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will instruct you  |**<big>&#8207;[[H7919A\|אַשְׂכִּֽילְ]]&#8207;&#8207;[[H9031\|ךָ֨]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'as.ki.le.<small><sup>[[HVhi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I will teach you  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H3384B\|אוֹרְ]]&#8207;&#8207;[[H9031\|ךָ֗]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'or.<small><sup>[[HVhu1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 18:50** 
 <small><sub>**LXX:**</sub></small>
 \[the one\] magnifying the deliverance of the king; and appointing mercy \[to\] his anointed one, \[to\] David and \[to\] his seed unto \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore.
-<small><sub>**BSB:**</sub></small>
-Great salvation He brings to His king. He shows loving devotion to His anointed, to David and his descendants forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.49|<< Psalm 18:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.1|Psalm 19:1 >>]]</td></tr></table>
 
 | Translation | Greek |

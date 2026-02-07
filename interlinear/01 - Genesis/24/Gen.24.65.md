@@ -1,4 +1,4 @@
-**Genesis 24:65** 
+**Genesis 24:65**<big><big>[[Gen.24.62 Isaac Marries Rebekah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For she [had] said unto the servant, What man [is] this that walketh in the field to meet us? And the servant [had] said, It [is] my master: therefore she took a vail, and covered herself.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and asked the servant, “Who is that man in the field coming to meet us?” “
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.65|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.64|<< Genesis 24:64]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.66|Genesis 24:66 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֣אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

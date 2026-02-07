@@ -1,4 +1,4 @@
-**Ecclesiastes 6:3** 
+**Ecclesiastes 6:3**<big><big>[[Eccl.6.1 The Futility of Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man beget an hundred [children], and live many years, so that the days of his years be many, and his soul be not filled with good, and also [that] he have no burial; I say, [that] an untimely birth [is] better than he.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A man may father a hundred children and live for many years; yet no matter how l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.2|<< Ecclesiastes 6:2]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.4|Ecclesiastes 6:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will father  |**<big>&#8207;[[H3205\|יוֹלִ֣יד]]&#8207; </big>**| yo.Lid<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

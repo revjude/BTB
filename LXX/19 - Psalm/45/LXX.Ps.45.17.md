@@ -1,10 +1,7 @@
 **LXX Psalm 45:17** 
 <small><sub>**LXX:**</sub></small>
 your name remembered in every generation, and generation. On account of this peoples will make acknowledgment to you into the eon, and into the eon of the eon. 
-<small><sub>**KJV:**</sub></small>
-I will make thy name to be remembered in all generations: therefore shall the people praise thee for ever and ever.
-<small><sub>**BSB:**</sub></small>
-I will commemorate your name through all generations; therefore the nations will praise you forever and ever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.45.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.16|<< Psalm 45:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.46.1|Psalm 46:1 >>]]</td></tr></table>
 
 | Translation | Greek |

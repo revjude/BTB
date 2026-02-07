@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 10:5** 
 <small><sub>**LXX:**</sub></small>
 And the one carrying his weapons beheld that Saul died, and he fell also himself upon  his broadsword, and died. 
-<small><sub>**KJV:**</sub></small>
-And when his armourbearer saw that Saul was dead, he fell likewise on the sword, and died.
-<small><sub>**BSB:**</sub></small>
-When his armor-bearer saw that Saul was dead, he too fell on his own sword and died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.10.4|<< 1 Chronicles 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.6|1 Chronicles 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

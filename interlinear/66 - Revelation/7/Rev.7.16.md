@@ -1,5 +1,5 @@
-**Revelation 7:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 7:16**<big><big>[[Rev.7.9 Praise from the Great Multitude|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They shall hunger no more, neither thirst any more; neither shall the sun light on them, nor any heat.
 <small><sub>**BSB:**</sub></small>
 ‘Never again will they hunger, and never will they thirst; nor will the sun beat down upon them, nor any scorching heat.’
@@ -10,7 +10,7 @@ Not they will hunger any more neither will they thirst anymore nor not no may fa
 > $\quad$ referencing: [[LXX.Isa.49.10|Isa 49:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they will hunger |**<big>[[G3983\|πεινάσουσιν]]</big>**  |peinasousin <small><sup>[[V-FAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 36:10** 
 <small><sub>**LXX:**</sub></small>
 Extend  your mercy to the ones knowing you, and  your righteousness to the ones straight  in heart! 
-<small><sub>**KJV:**</sub></small>
-O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart.
-<small><sub>**BSB:**</sub></small>
-Extend Your loving devotion to those who know You, and Your righteousness to the upright in heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.36.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.36.9|<< Psalm 36:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.36.11|Psalm 36:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 26:27** 
+**Proverbs 26:27**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso diggeth a pit shall fall therein: and he that rolleth a stone, it will return upon him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who digs a pit will fall into it, and he who rolls a stone will have it roll 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.26|<< Proverbs 26:26]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.28|Proverbs 26:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] digs  |**<big>&#8207;[[H3738B\|כֹּֽרֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ko.re.ho.Sha-<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a pit  |**<big>&#8207;[[H7845H\|שַּׁ֭חַת]]&#8207; </big>**| Sha.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

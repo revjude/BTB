@@ -1,10 +1,7 @@
 **LXX Psalm 105:36** 
 <small><sub>**LXX:**</sub></small>
 And he struck every first-born in  their land, first-fruit of all their toil. 
-<small><sub>**KJV:**</sub></small>
-He smote also all the firstborn in their land, the chief of all their strength.
-<small><sub>**BSB:**</sub></small>
-Then He struck all the firstborn in their land, the firstfruits of all their vigor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.105.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.35|<< Psalm 105:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.37|Psalm 105:37 >>]]</td></tr></table>
 
 | Translation | Greek |

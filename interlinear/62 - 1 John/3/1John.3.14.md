@@ -1,12 +1,12 @@
-**1 John 3:14
-**<small><sub>**KJV:**</sub></small>
+**1 John 3:14**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We know that we have passed from death unto life, because we love the brethren. He that loveth not [his] brother abideth in death.
 <small><sub>**BSB:**</sub></small>
 We know that we have passed from death to life, because we love our brothers. The one who does not love remains in death.
 <small><sub>**Literal:**</sub></small>
 We ourselves know that we have passed from <the> death to <the> life, because we love <the> [our] brothers; The [one] not loving the brother abides in <the> death.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.13|<< 1 John 3:13]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.15|1 John 3:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | know |**<big>[[G6063\|οἴδαμεν]]</big>**  |oidamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

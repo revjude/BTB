@@ -1,10 +1,7 @@
 **LXX Isaiah 27:13** 
 <small><sub>**LXX:**</sub></small>
 And it will be in  that day they shall trump the great trumpet, and the ones being lost in the place of the Assyrians shall come, and the ones being lost in Egypt. And they shall do obeisance to the <span class="smallcaps">lord</span> upon the holy mountain in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass in that day, [that] the great trumpet shall be blown, and they shall come which were ready to perish in the land of Assyria, and the outcasts in the land of Egypt, and shall worship the LORD in the holy mount at Jerusalem.
-<small><sub>**BSB:**</sub></small>
-And in that day a great ram’s horn will sound, and those who were perishing in Assyria will come forth with those who were exiles in Egypt. And they will worship the LORD on the holy mountain in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.27.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.27.12|<< Isaiah 27:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.1|Isaiah 28:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 19:2** 
 <small><sub>**LXX:**</sub></small>
 And Jezebel sent to Elijah, and said, Thus the gods do to me, and thus may they add, that this  hour tomorrow I shall put  your life as \[the\] life of one of them. 
-<small><sub>**KJV:**</sub></small>
-Then Jezebel sent a messenger unto Elijah, saying, So let the gods do [to me], and more also, if I make not thy life as the life of one of them by to morrow about this time.
-<small><sub>**BSB:**</sub></small>
-So Jezebel sent a messenger to Elijah, saying, “May the gods deal with me, and ever so severely, if by this time tomorrow I have not made your life like the lives of those you killed!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.19.1|<< 1 Kings 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.19.3|1 Kings 19:3 >>]]</td></tr></table>
 
 | Translation | Greek |

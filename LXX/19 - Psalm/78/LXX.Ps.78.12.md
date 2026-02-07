@@ -1,10 +1,7 @@
 **LXX Psalm 78:12** 
 <small><sub>**LXX:**</sub></small>
 before  their fathers; what wonders he did in \[the\] land of Egypt in \[the\] plain of Tanis. 
-<small><sub>**KJV:**</sub></small>
-Marvellous things did he in the sight of their fathers, in the land of Egypt, [in] the field of Zoan.
-<small><sub>**BSB:**</sub></small>
-He worked wonders before their fathers in the land of Egypt, in the region of Zoan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.11|<< Psalm 78:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.13|Psalm 78:13 >>]]</td></tr></table>
 
 | Translation | Greek |

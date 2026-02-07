@@ -1,10 +1,7 @@
 **LXX 2 Kings 20:17** 
 <small><sub>**LXX:**</sub></small>
 Behold, days come, says \[the\] <span class="smallcaps">lord</span>, and there shall be taken away all the \[things\] in  your house, and as much as your fathers treasured up until  this day into Babylon. There shall not be left behind a thing, said \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Behold, the days come, that all that [is] in thine house, and that which thy fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-The time will surely come when everything in your palace and all that your fathers have stored up until this day will be carried off to Babylon. Nothing will be left, says the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.16|<< 2 Kings 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.18|2 Kings 20:18 >>]]</td></tr></table>
 
 | Translation | Greek |

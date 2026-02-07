@@ -1,10 +1,7 @@
 **LXX 2 Kings 2:17** 
 <small><sub>**LXX:**</sub></small>
 And they pressed him until he was shamed. And he said, Send them! And they sent fifty men; and they sought three days, and they did not find him. 
-<small><sub>**KJV:**</sub></small>
-And when they urged him till he was ashamed, he said, Send. They sent therefore fifty men; and they sought three days, but found him not.
-<small><sub>**BSB:**</sub></small>
-But when they pressed him to the point of embarrassment, he said, “Send them.” And they sent fifty men, who searched for three days but did not find Elijah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.16|<< 2 Kings 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.18|2 Kings 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

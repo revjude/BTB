@@ -1,10 +1,7 @@
 **LXX Joshua 23:10** 
 <small><sub>**LXX:**</sub></small>
 One man of you pursued a thousand. For \[the\] <span class="smallcaps">lord</span>  our God, he wages war for you, just as he spoke to you. 
-<small><sub>**KJV:**</sub></small>
-One man of you shall chase a thousand: for the LORD your God, he [it is] that fighteth for you, as he hath promised you.
-<small><sub>**BSB:**</sub></small>
-One of you can put a thousand to flight, because the LORD your God fights for you, just as He promised.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.9|<< Joshua 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.11|Joshua 23:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 24:11** 
+**Isaiah 24:11**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] a crying for wine in the streets; all joy is darkened, the mirth of the land is gone.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the streets they cry out for wine. All joy turns to gloom; rejoicing is exile
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.10|<< Isaiah 24:10]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.12|Isaiah 24:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an outcry  |**<big>&#8207;[[H6682\|צְוָחָ֥ה]]&#8207; </big>**| tze.va.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

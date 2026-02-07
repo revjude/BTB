@@ -1,10 +1,7 @@
 **LXX Judges 20:20** 
 <small><sub>**LXX:**</sub></small>
 And every man of Israel went forth for war against Benjamin; and he deployed against them -- \[the\] man of Israel for war against  Gibeah. 
-<small><sub>**KJV:**</sub></small>
-And the men of Israel went out to battle against Benjamin; and the men of Israel put themselves in array to fight against them at Gibeah.
-<small><sub>**BSB:**</sub></small>
-And the men of Israel went out to fight against Benjamin and took up their battle positions at Gibeah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.19|<< Judges 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.21|Judges 20:21 >>]]</td></tr></table>
 
 | Translation | Greek |

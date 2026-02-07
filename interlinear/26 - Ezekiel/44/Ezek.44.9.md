@@ -1,4 +1,4 @@
-**Ezekiel 44:9** 
+**Ezekiel 44:9**<big><big>[[Ezek.44.6 Reproof of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; No stranger, uncircumcised in heart, nor uncircumcised in flesh, shall enter into my sanctuary, of any stranger that [is] among the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ This is what the Lord GOD says: No foreigner uncircumcised in heart and flesh ma
 > $\quad$ referenced by: [[Rev.21.27|Rev 21:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַר֮]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

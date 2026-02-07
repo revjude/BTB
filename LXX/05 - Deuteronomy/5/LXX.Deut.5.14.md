@@ -1,10 +1,7 @@
 **LXX Deuteronomy 5:14** 
 <small><sub>**LXX:**</sub></small>
 But the seventh day \[is a\] Sabbath \[to the\] <span class="smallcaps">lord</span>  your God. You shall not do on it any work -- you, and  your son, and  your daughter,  your manservant, and  your maidservant,  your ox, and  your beast of burden, and every beast of yours, and the foreigner  sojourning among you, that your manservant and your maidservant should have cause to rest as also you. 
-<small><sub>**KJV:**</sub></small>
-But the seventh day [is] the sabbath of the LORD thy God: [in it] thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that [is] within thy gates; that thy manservant and thy maidservant may rest as well as thou.
-<small><sub>**BSB:**</sub></small>
-but the seventh day is a Sabbath to the LORD your God, on which you must not do any work—neither you, nor your son or daughter, nor your manservant or maidservant, nor your ox or donkey or any of your livestock, nor the foreigner within your gates, so that your manservant and maidservant may rest as you do.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.5.13|<< Deuteronomy 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.5.15|Deuteronomy 5:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 33:1** 
+**2 Chronicles 33:1**<big><big>[[2Chr.33.1 Manasseh Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Manasseh [was] twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Manasseh was twelve years old when he became king, and he reigned in Jerusalem f
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.33|<< 2 Chronicles 32:33]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.2|2 Chronicles 33:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] a son of  |**<big>&#8207;[[H1121L\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two [plus]  |**<big>&#8207;[[H8147\|שְׁתֵּ֥ים]]&#8207; </big>**| she.Teim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

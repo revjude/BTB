@@ -1,10 +1,7 @@
 **LXX Judges 7:12** 
 <small><sub>**LXX:**</sub></small>
 And Midian and Amalek and all the sons of \[the\] east were encamped in the valley as locust in multitude; and there was no number \[to\] their camels, but they were as if the sand  upon the edge of the sea in multitude. 
-<small><sub>**KJV:**</sub></small>
-And the Midianites and the Amalekites and all the children of the east lay along in the valley like grasshoppers for multitude; and their camels [were] without number, as the sand by the sea side for multitude.
-<small><sub>**BSB:**</sub></small>
-Now the Midianites, Amalekites, and all the other people of the east had settled in the valley like a swarm of locusts, and their camels were as countless as the sand on the seashore.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.11|<< Judges 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.13|Judges 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

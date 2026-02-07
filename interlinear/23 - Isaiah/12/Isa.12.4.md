@@ -1,4 +1,4 @@
-**Isaiah 12:4** 
+**Isaiah 12:4**<big><big>[[Isa.12.1 Joyful Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in that day shall ye say, Praise the LORD, call upon his name, declare his doings among the people, make mention that his name is exalted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and on that day you will say: “Give praise to the LORD; proclaim His name! Mak
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.12.3|<< Isaiah 12:3]]</td><td align="center" style="border:none;">[[Isa.12|Isaiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.12.5|Isaiah 12:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will say  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|אֲמַרְתֶּ֞ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּ֣וֹם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

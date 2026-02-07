@@ -1,12 +1,12 @@
-**Luke 4:40
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:40**<big><big>[[Luke.4.38 Jesus Heals at Peter’s House|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when the sun was setting, all they that had any sick with divers diseases brought them unto him; and he laid his hands on every one of them, and healed them.
 <small><sub>**BSB:**</sub></small>
 At sunset, all who were ill with various diseases were brought to Jesus, and laying His hands on each one, He healed them.
 <small><sub>**Literal:**</sub></small>
 When is setting now the sun all as many as had [any] ailing with diseases various brought them to Him; <the> and on one each of them the hands having laid He was healing them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.39|<< Luke 4:39]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.41|Luke 4:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When is setting |**<big>[[G1416\|Δύνοντος]]</big>**  |Dunontos <small><sup>[[V-PAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

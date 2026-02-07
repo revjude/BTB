@@ -1,10 +1,7 @@
 **LXX Psalm 33:20** 
 <small><sub>**LXX:**</sub></small>
  And our soul waits on the <span class="smallcaps">lord</span>, for he is our helper and defender. 
-<small><sub>**KJV:**</sub></small>
-Our soul waiteth for the LORD: he [is] our help and our shield.
-<small><sub>**BSB:**</sub></small>
-Our soul waits for the LORD; He is our help and our shield.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.33.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.33.19|<< Psalm 33:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.33.21|Psalm 33:21 >>]]</td></tr></table>
 
 | Translation | Greek |

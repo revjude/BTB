@@ -1,4 +1,4 @@
-**Isaiah 63:14** 
+**Isaiah 63:14**<big><big>[[Isa.63.7 God’s Mercies Recalled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As a beast goeth down into the valley, the Spirit of the LORD caused him to rest: so didst thou lead thy people, to make thyself a glorious name.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like cattle going down to the valley, the Spirit of the LORD gave them rest. You
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.13|<< Isaiah 63:13]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.15|Isaiah 63:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like \<the> livestock  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0929\|בְּהֵמָה֙]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> be.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [which] in the valley  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1237K\|בִּקְעָ֣ה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> bik.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

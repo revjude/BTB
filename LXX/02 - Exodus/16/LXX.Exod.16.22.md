@@ -1,10 +1,7 @@
 **LXX Exodus 16:22** 
 <small><sub>**LXX:**</sub></small>
 And it happened in the sixth day they collected together the necessary double \[amount\], two homers to the one \[person\]. And all the rulers of the congregation entered, and announced to Moses. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, [that] on the sixth day they gathered twice as much bread, two omers for one [man]: and all the rulers of the congregation came and told Moses.
-<small><sub>**BSB:**</sub></small>
-On the sixth day, they gathered twice as much food—two omers per person—and all the leaders of the congregation came and reported this to Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.21|<< Exodus 16:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.23|Exodus 16:23 >>]]</td></tr></table>
 
 | Translation | Greek |

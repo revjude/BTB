@@ -1,10 +1,7 @@
 **LXX Ezekiel 1:2** 
 <small><sub>**LXX:**</sub></small>
 \[On the\] fifth of the month, this \[is\] the fifth year of the captivity  of king Jehoiakim, 
-<small><sub>**KJV:**</sub></small>
-In the fifth [day] of the month, which [was] the fifth year of king Jehoiachin’s captivity,
-<small><sub>**BSB:**</sub></small>
-On the fifth day of the month—it was the fifth year of the exile of King Jehoiachin—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.1|<< Ezekiel 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.3|Ezekiel 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 4:17** 
+**Exodus 4:17**<big><big>[[Exod.4.10 The Appointment of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt take this rod in thine hand, wherewith thou shalt do signs.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But take this staff in your hand so you can perform signs with it.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.16|<< Exodus 4:16]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.18|Exodus 4:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the staff  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4294G\|מַּטֶּ֥ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.Teh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

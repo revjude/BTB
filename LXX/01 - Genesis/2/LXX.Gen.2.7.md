@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And God shaped the man, taking dust from the earth. And he breathed into  his face breath of life, and man became a living soul. 
-<small><sub>**KJV:**</sub></small>
-And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
-<small><sub>**BSB:**</sub></small>
-Then the LORD God formed man from the dust of the ground and breathed the breath of life into his nostrils, and the man became a living being.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.6|<< Genesis 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.8|Genesis 2:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 2:7** is...

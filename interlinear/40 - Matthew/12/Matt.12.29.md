@@ -1,12 +1,12 @@
-**Matthew 12:29
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:29**<big><big>[[Matt.12.22 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Or else how can one enter into a strong man’s house, and spoil his goods, except he first bind the strong man? and then he will spoil his house.
 <small><sub>**BSB:**</sub></small>
 Or again, how can anyone enter a strong man’s house and steal his possessions, unless he first ties up the strong man? Then he can plunder his house.
 <small><sub>**Literal:**</sub></small>
 Or how is able anyone to enter into the house of the strong [man] and the goods of him to plunder, only unless first he shall bind the strong [man]? And then the house of him he will rob.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.28|<< Matthew 12:28]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.30|Matthew 12:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | how |**<big>[[G4459\|πῶς]]</big>**  |pōs <small><sup>[[PRT-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

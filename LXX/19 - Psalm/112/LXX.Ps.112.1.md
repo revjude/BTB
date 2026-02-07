@@ -6,10 +6,7 @@ Alleluiah.
 
 <small><sub>**LXX:**</sub></small>
 Happy \[the\] man  fearing the <span class="smallcaps">lord</span>; in  his commandments he will want exceedingly. 
-<small><sub>**KJV:**</sub></small>
-Praise ye the LORD. Blessed [is] the man [that] feareth the LORD, [that] delighteth greatly in his commandments.
-<small><sub>**BSB:**</sub></small>
-Hallelujah! Blessed is the man who fears the LORD, who greatly delights in His commandments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.112.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.111.10|<< Psalm 111:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.112.2|Psalm 112:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 5:28** 
 <small><sub>**LXX:**</sub></small>
 whose  arrows are sharp, and  their bows being stretched tight; the feet  of their horses are considered as solid rock; the wheels  of their chariots as a blast. 
-<small><sub>**KJV:**</sub></small>
-Whose arrows [are] sharp, and all their bows bent, their horses’ hoofs shall be counted like flint, and their wheels like a whirlwind:
-<small><sub>**BSB:**</sub></small>
-Their arrows are sharpened, and all their bows are strung. The hooves of their horses are like flint; their chariot wheels are like a whirlwind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.27|<< Isaiah 5:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.29|Isaiah 5:29 >>]]</td></tr></table>
 
 | Translation | Greek |

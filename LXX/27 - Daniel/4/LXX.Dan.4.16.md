@@ -1,10 +1,7 @@
 **LXX Daniel 4:16** 
 <small><sub>**LXX:**</sub></small>
  His heart shall be changed from the ones of men, and \[the\] heart of a wild beast shall be given to him; and seven times shall change over him. 
-<small><sub>**KJV:**</sub></small>
-Let his heart be changed from man’s, and let a beast’s heart be given unto him; and let seven times pass over him.
-<small><sub>**BSB:**</sub></small>
-Let his mind be changed from that of a man, and let him be given the mind of a beast till seven times pass him by.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.15|<< Daniel 4:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.17|Daniel 4:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 52:17** 
+**Jeremiah 52:17**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also the pillars of brass that [were] in the house of the LORD, and the bases, and the brasen sea that [was] in the house of the LORD, the Chaldeans brake, and carried all the brass of them to Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, the Chaldeans broke up the bronze pillars and stands and the bronze Se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.16|<< Jeremiah 52:16]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.18|Jeremiah 52:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] pillars of  |**<big>&#8207;[[H5982G\|עַמּוּדֵ֨י]]&#8207; </big>**| 'a.mu.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 23:15** 
 <small><sub>**LXX:**</sub></small>
 And Balaam said to Balak, Stand beside  your sacrifice! and I shall go to ask  God. 
-<small><sub>**KJV:**</sub></small>
-And he said unto Balak, Stand here by thy burnt offering, while I meet [the LORD] yonder.
-<small><sub>**BSB:**</sub></small>
-Balaam said to Balak, “Stay here beside your burnt offering while I meet the LORD over there.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.14|<< Numbers 23:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.16|Numbers 23:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 3:24** 
 <small><sub>**LXX:**</sub></small>
 And the ruler of \[the\] household of \[the\] family of the people  of Gershon \[was\] Elisaph son of Lael. 
-<small><sub>**KJV:**</sub></small>
-And the chief of the house of the father of the Gershonites [shall be] Eliasaph the son of Lael.
-<small><sub>**BSB:**</sub></small>
-and the leader of the families of the Gershonites was Eliasaph son of Lael.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.23|<< Numbers 3:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.25|Numbers 3:25 >>]]</td></tr></table>
 
 | Translation | Greek |

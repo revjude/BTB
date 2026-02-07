@@ -1,10 +1,7 @@
 **LXX Nehemiah 10:10** 
 <small><sub>**LXX:**</sub></small>
 and  his brethren, Shebaniah, Hodijah, Kelita, Pelaiah, Hanan. 
-<small><sub>**KJV:**</sub></small>
-And their brethren, Shebaniah, Hodijah, Kelita, Pelaiah, Hanan,
-<small><sub>**BSB:**</sub></small>
-and their associates: Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.9|<< Nehemiah 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.11|Nehemiah 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

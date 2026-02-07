@@ -1,4 +1,4 @@
-**Isaiah 43:13** 
+**Isaiah 43:13**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, before the day [was] I [am] he; and [there is] none that can deliver out of my hand: I will work, and who shall let it?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even from eternity I am He, and none can deliver out of My hand. When I act, who
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.12|<< Isaiah 43:12]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.14|Isaiah 43:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from a day  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3117L\|יּוֹם֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

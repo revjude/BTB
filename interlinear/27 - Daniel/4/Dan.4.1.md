@@ -1,4 +1,4 @@
-**Daniel 4:1** (3:31)
+**Daniel 4:1**<big><big>[[Dan.4.1 Nebuchadnezzar Confesses God’s Kingdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nebuchadnezzar the king, unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ King Nebuchadnezzar, To the people of every nation and language who dwell in all
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.30|<< Daniel 3:30]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.2|Daniel 4:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Nebuchadnezzar  |**<big>&#8207;[[H5020\|נְבוּכַדְנֶצַּ֣ר]]&#8207; </big>**| ne.vu.khad.ne.Tzar<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | king the  |**<big>&#8207;[[H4430\|מַלְכָּ֗]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

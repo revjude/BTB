@@ -1,10 +1,7 @@
 **LXX Numbers 3:35** 
 <small><sub>**LXX:**</sub></small>
 And the ruler of \[the\] house of \[the\] patrimony of the people  of Merari \[was\] Zuriel son of Abihail. By \[the\] side of the tent they shall camp towards \[the\] north. 
-<small><sub>**KJV:**</sub></small>
-And the chief of the house of the father of the families of Merari [was] Zuriel the son of Abihail: [these] shall pitch on the side of the tabernacle northward.
-<small><sub>**BSB:**</sub></small>
-The leader of the families of the Merarites was Zuriel son of Abihail; they were to camp on the north side of the tabernacle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.3.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.34|<< Numbers 3:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.36|Numbers 3:36 >>]]</td></tr></table>
 
 | Translation | Greek |

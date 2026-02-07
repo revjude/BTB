@@ -1,4 +1,4 @@
-**Job 24:24** 
+**Job 24:24**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are exalted for a little while, but are gone and brought low; they are taken out of the way as all [other], and cut off as the tops of the ears of corn.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are exalted for a moment, then they are gone; they are brought low and gath
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.23|<< Job 24:23]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.25|Job 24:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they are exalted  |**<big>&#8207;[[H7426\|ר֤וֹמּוּ]]&#8207; </big>**| Ro.mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a little  |**<big>&#8207;[[H4592\|מְּעַ֨ט]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| me.'At<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Joshua 1:3** 
+**Joshua 1:3**<big><big>[[Josh.1.1 God Instructs Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every place that the sole of your foot shall tread upon, that have I given unto you, as I said unto Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have given you every place where the sole of your foot will tread, just as I p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.2|<< Joshua 1:2]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.4|Joshua 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | place  |**<big>&#8207;[[H4725\|מָק֗וֹם]]&#8207; </big>**| ma.Kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

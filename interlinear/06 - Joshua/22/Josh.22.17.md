@@ -1,4 +1,4 @@
-**Joshua 22:17** 
+**Joshua 22:17**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] the iniquity of Peor too little for us, from which we are not cleansed until this day, although there was a plague in the congregation of the LORD,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Was not the sin of Peor enough for us, from which we have not cleansed ourselves
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.16|<< Joshua 22:16]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.18|Joshua 22:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ little  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H4592\|מְעַט]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> m.'at-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> us  |**<big>&#8207;[[H9005\|לָ֙]]&#8207;&#8207;[[H9035\|נוּ֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

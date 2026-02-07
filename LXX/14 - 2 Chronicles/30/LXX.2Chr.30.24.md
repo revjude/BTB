@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:24** 
 <small><sub>**LXX:**</sub></small>
 For Hezekiah the king of Judah dedicated to all the assembly a thousand calves, and seven thousand sheep. And the rulers dedicated for the people a thousand calves, and ten thousand sheep, and were sanctified of the priests in multitude. 
-<small><sub>**KJV:**</sub></small>
-For Hezekiah king of Judah did give to the congregation a thousand bullocks and seven thousand sheep; and the princes gave to the congregation a thousand bullocks and ten thousand sheep: and a great number of priests sanctified themselves.
-<small><sub>**BSB:**</sub></small>
-For Hezekiah king of Judah contributed a thousand bulls and seven thousand sheep for the assembly, and the officials contributed a thousand bulls and ten thousand sheep for the assembly, and a great number of priests consecrated themselves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.23|<< 2 Chronicles 30:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.25|2 Chronicles 30:25 >>]]</td></tr></table>
 
 | Translation | Greek |

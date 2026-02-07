@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:22** 
 <small><sub>**LXX:**</sub></small>
 For the ones leading  my people do not know me; they are foolish sons, and not discerning. They are wise  to do evil, but the doing good they have not recognized. 
-<small><sub>**KJV:**</sub></small>
-For my people [is] foolish, they have not known me; they [are] sottish children, and they have none understanding: they [are] wise to do evil, but to do good they have no knowledge.
-<small><sub>**BSB:**</sub></small>
-“For My people are fools; they have not known Me. They are foolish children, without understanding. They are skilled in doing evil, but they know not how to do good.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.21|<< Jeremiah 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.23|Jeremiah 4:23 >>]]</td></tr></table>
 
 | Translation | Greek |

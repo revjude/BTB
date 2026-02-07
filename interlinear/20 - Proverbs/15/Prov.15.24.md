@@ -1,4 +1,4 @@
-**Proverbs 15:24** 
+**Proverbs 15:24**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The way of life [is] above to the wise, that he may depart from hell beneath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The path of life leads upward for the wise, that he may avoid going down to Sheo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.23|<< Proverbs 15:23]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.25|Proverbs 15:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] path of  |**<big>&#8207;[[H0734\|אֹ֣רַח]]&#8207; </big>**| 'O.rach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | life  |**<big>&#8207;[[H2416E\|חַ֭יִּים]]&#8207; </big>**| Chai.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

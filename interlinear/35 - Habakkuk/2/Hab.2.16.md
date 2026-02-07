@@ -1,4 +1,4 @@
-**Habakkuk 2:16** 
+**Habakkuk 2:16**<big><big>[[Hab.2.6 Woe to the Chaldeans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the LORD’S right hand shall be turned unto thee, and shameful spewing [shall be] on thy glory.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will be filled with shame instead of glory. You too must drink and expose yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.15|<< Habakkuk 2:15]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.17|Habakkuk 2:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you are satisfied  |**<big>&#8207;[[H7646\|שָׂבַ֤עְתָּ]]&#8207; </big>**| sa.Va'.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | shame  |**<big>&#8207;[[H7036\|קָלוֹן֙]]&#8207; </big>**| ka.lOn<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

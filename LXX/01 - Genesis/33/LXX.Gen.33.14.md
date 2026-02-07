@@ -1,10 +1,7 @@
 **LXX Genesis 33:14** 
 <small><sub>**LXX:**</sub></small>
 my master go forth in front of  his servant! and I shall gain strength in the way according to \[the\] ease of the trek  before me, and according to \[the\] foot of the youngsters, until  my coming to  my master in Seir. 
-<small><sub>**KJV:**</sub></small>
-Let my lord, I pray thee, pass over before his servant: and I will lead on softly, according as the cattle that goeth before me and the children be able to endure, until I come unto my lord unto Seir.
-<small><sub>**BSB:**</sub></small>
-Please let my lord go ahead of his servant. I will continue on slowly, at a comfortable pace for the livestock and children, until I come to my lord at Seir.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.33.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.33.13|<< Genesis 33:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.15|Genesis 33:15 >>]]</td></tr></table>
 
 | Translation | Greek |

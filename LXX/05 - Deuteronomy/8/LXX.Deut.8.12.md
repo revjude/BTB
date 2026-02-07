@@ -1,10 +1,7 @@
 **LXX Deuteronomy 8:12** 
 <small><sub>**LXX:**</sub></small>
 lest having eaten, and being filled up, and having built good houses, and dwelling in them, 
-<small><sub>**KJV:**</sub></small>
-Lest [when] thou hast eaten and art full, and hast built goodly houses, and dwelt [therein];
-<small><sub>**BSB:**</sub></small>
-Otherwise, when you eat and are satisfied, when you build fine houses in which to dwell,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.11|<< Deuteronomy 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.13|Deuteronomy 8:13 >>]]</td></tr></table>
 
 | Translation | Greek |

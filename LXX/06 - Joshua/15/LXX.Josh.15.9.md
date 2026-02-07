@@ -1,10 +1,7 @@
 **LXX Joshua 15:9** 
 <small><sub>**LXX:**</sub></small>
 And the border passes out through from \[the\] top of the mountain at \[the\] spring \[of the\] water of Nephtoah; and it passes out unto \[the\] towns of mount Ephron; and the border leads unto Baalah -- this is \[the\] city Jearim. 
-<small><sub>**KJV:**</sub></small>
-And the border was drawn from the top of the hill unto the fountain of the water of Nephtoah, and went out to the cities of mount Ephron; and the border was drawn to Baalah, which [is] Kirjathjearim:
-<small><sub>**BSB:**</sub></small>
-From the hilltop the border curved to the spring of the Waters of Nephtoah, proceeded to the cities of Mount Ephron, and then bent around toward Baalah (that is, Kiriath-jearim).<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.8|<< Joshua 15:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.10|Joshua 15:10 >>]]</td></tr></table>
 
 | Translation | Greek |

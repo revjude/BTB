@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David \[was\] older and full of days. And Solomon his son took reign instead of him over Israel. 
-<small><sub>**KJV:**</sub></small>
-So when David was old and full of days, he made Solomon his son king over Israel.
-<small><sub>**BSB:**</sub></small>
-When David was old and full of years, he installed his son Solomon as king over Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.19|<< 1 Chronicles 22:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.2|1 Chronicles 23:2 >>]]</td></tr></table>
 
 | Translation | Greek |

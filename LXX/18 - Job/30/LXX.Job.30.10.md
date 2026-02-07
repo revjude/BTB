@@ -1,10 +1,7 @@
 **LXX Job 30:10** 
 <small><sub>**LXX:**</sub></small>
 And they abhorred me, separating far \[from me\]; and from my face they spared not spittle. 
-<small><sub>**KJV:**</sub></small>
-They abhor me, they flee far from me, and spare not to spit in my face.
-<small><sub>**BSB:**</sub></small>
-They abhor me and keep far from me; they do not hesitate to spit in my face.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.9|<< Job 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.11|Job 30:11 >>]]</td></tr></table>
 
 | Translation | Greek |

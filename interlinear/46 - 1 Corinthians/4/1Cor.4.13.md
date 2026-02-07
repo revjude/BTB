@@ -1,12 +1,12 @@
-**1 Corinthians 4:13
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 4:13**<big><big>[[1Cor.4.1 Servants of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Being defamed, we intreat: we are made as the filth of the world, [and are] the offscouring of all things unto this day.
 <small><sub>**BSB:**</sub></small>
 when we are slandered, we answer gently. Up to this moment we have become the scum of the earth, the refuse of the world.
 <small><sub>**Literal:**</sub></small>
 being defamed we entreat, As [the] scum of the earth we have become, of all [the] refuse until now.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.12|<< 1 Corinthians 4:12]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.14|1 Corinthians 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | being defamed [^1] |**<big>[[G6022\|δυσφημούμενοι]]</big>**  |dusphēmoumenoi <small><sup>[[V-PPP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |
 | we entreat, |**<big>[[G3870\|παρακαλοῦμεν,]]</big>**  |parakaloumen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

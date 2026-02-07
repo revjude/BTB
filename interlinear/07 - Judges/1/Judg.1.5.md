@@ -1,4 +1,4 @@
-**Judges 1:5** 
+**Judges 1:5**<big><big>[[Judg.1.1 The Conquest of Canaan Proceeds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they found Adonibezek in Bezek: and they fought against him, and they slew the Canaanites and the Perizzites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there they found Adoni-bezek and fought against him, striking down the Canaa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.4|<< Judges 1:4]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.6|Judges 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they found  |**<big>&#8207;[[H9001\|וַֽ֠]]&#8207;&#8207;[[H4672\|יִּמְצְאוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yim.tze.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

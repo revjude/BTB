@@ -1,10 +1,7 @@
 **LXX Isaiah 14:25** 
 <small><sub>**LXX:**</sub></small>
  \[even\] to destroy the Assyrians upon  my land, and upon  my mountains; and they will be for trampling. And their yoke shall be removed from them, and  their dignity shall be removed from their shoulders. 
-<small><sub>**KJV:**</sub></small>
-That I will break the Assyrian in my land, and upon my mountains tread him under foot: then shall his yoke depart from off them, and his burden depart from off their shoulders.
-<small><sub>**BSB:**</sub></small>
-I will break Assyria in My land; I will trample him on My mountain. His yoke will be taken off My people, and his burden removed from their shoulders.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.14.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.24|<< Isaiah 14:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.26|Isaiah 14:26 >>]]</td></tr></table>
 
 | Translation | Greek |

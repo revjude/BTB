@@ -1,12 +1,12 @@
-**Mark 10:2
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:2**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the Pharisees came to him, and asked him, Is it lawful for a man to put away [his] wife? tempting him.
 <small><sub>**BSB:**</sub></small>
 Some Pharisees came to test Him. “Is it lawful for a man to divorce his wife?” they inquired.
 <small><sub>**Literal:**</sub></small>
 And having come to [him] the Pharisees were questioning Him if it is lawful for a husband a wife to divorce testing Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.1|<< Mark 10:1]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.3|Mark 10:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come to [him] |**<big>[[G4334\|προσελθόντες]]</big>**  |proselthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">NKO</abbr> | |

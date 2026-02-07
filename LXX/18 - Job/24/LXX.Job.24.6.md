@@ -1,10 +1,7 @@
 **LXX Job 24:6** 
 <small><sub>**LXX:**</sub></small>
 They harvested a field not being their own before \[its\] season; and \[the\] disabled worked \[the\] vineyards of \[the\] impious without pay and without eating. 
-<small><sub>**KJV:**</sub></small>
-They reap [every one] his corn in the field: and they gather the vintage of the wicked.
-<small><sub>**BSB:**</sub></small>
-They gather fodder in the fields and glean the vineyards of the wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.24.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.24.5|<< Job 24:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.24.7|Job 24:7 >>]]</td></tr></table>
 
 | Translation | Greek |

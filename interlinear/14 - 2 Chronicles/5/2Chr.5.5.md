@@ -1,4 +1,4 @@
-**2 Chronicles 5:5** 
+**2 Chronicles 5:5**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought up the ark, and the tabernacle of the congregation, and all the holy vessels that [were] in the tabernacle, these did the priests [and] the Levites bring up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and they brought up the ark and the Tent of Meeting with all its sacred furnishi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.4|<< 2 Chronicles 5:4]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.6|2 Chronicles 5:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they brought up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927H\|יַּעֲל֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Lu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

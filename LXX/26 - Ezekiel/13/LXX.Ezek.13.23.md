@@ -1,10 +1,7 @@
 **LXX Ezekiel 13:23** 
 <small><sub>**LXX:**</sub></small>
 Because of this, in no way shall you see false \[visions\], and in no way shall you divine divinations still. And I will rescue  my people from out of your hand, and you shall know that I am \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Therefore ye shall see no more vanity, nor divine divinations: for I will deliver my people out of your hand: and ye shall know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-therefore you will no longer see false visions or practice divination. I will deliver My people from your hands. Then you will know that I am the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.22|<< Ezekiel 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.1|Ezekiel 14:1 >>]]</td></tr></table>
 
 | Translation | Greek |

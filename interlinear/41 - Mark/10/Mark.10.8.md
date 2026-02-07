@@ -1,5 +1,5 @@
-**Mark 10:8
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:8**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they twain shall be one flesh: so then they are no more twain, but one flesh.
 <small><sub>**BSB:**</sub></small>
 and the two will become one flesh.’ So they are no longer two, but one flesh.
@@ -10,7 +10,7 @@ and will be the two for flesh one’ Therefore no longer they are two but one fl
 > $\quad$ referencing: [[LXX.Gen.2.24|Gen 2:24]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will be |**<big>[[G1510\|ἔσονται]]</big>**  |esontai <small><sup>[[V-FDI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

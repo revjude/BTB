@@ -1,4 +1,4 @@
-**Deuteronomy 18:3** 
+**Deuteronomy 18:3**<big><big>[[Deut.18.1 Provision for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this shall be the priest’s due from the people, from them that offer a sacrifice, whether [it be] ox or sheep; and they shall give unto the priest the shoulder, and the two cheeks, and the maw.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This shall be the priests’ share from the people who offer a sacrifice, whethe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.2|<< Deuteronomy 18:2]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.4|Deuteronomy 18:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2088\|זֶ֡ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be  |**<big>&#8207;[[H1961\|יִהְיֶה֩]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

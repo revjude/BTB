@@ -1,4 +1,4 @@
-**Deuteronomy 21:8** 
+**Deuteronomy 21:8**<big><big>[[Deut.21.1 Atonement for an Unsolved Murder|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be merciful, O LORD, unto thy people Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel’s charge. And the blood shall be forgiven them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Accept this atonement, O LORD, for Your people Israel whom You have redeemed, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.7|<< Deuteronomy 21:7]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.9|Deuteronomy 21:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | make atonement  |**<big>&#8207;[[H3722A\|כַּפֵּר֩]]&#8207; </big>**| ka.Per<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for people your  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5971A\|עַמְּ]]&#8207;&#8207;[[H9021\|ךָ֨]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

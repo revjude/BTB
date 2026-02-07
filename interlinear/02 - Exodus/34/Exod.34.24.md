@@ -1,4 +1,4 @@
-**Exodus 34:24** 
+**Exodus 34:24**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will cast out the nations before thee, and enlarge thy borders: neither shall any man desire thy land, when thou shalt go up to appear before the LORD thy God thrice in the year.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I will drive out the nations before you and enlarge your borders, and no one
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.23|<< Exodus 34:23]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.25|Exodus 34:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will dispossess  |**<big>&#8207;[[H3423H\|אוֹרִ֤ישׁ]]&#8207; </big>**| 'o.Rish<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

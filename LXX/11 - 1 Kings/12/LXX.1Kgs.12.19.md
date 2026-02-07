@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:19** 
 <small><sub>**LXX:**</sub></small>
 And Israel annulled \[allegiance\] with the house of David until  this day. 
-<small><sub>**KJV:**</sub></small>
-So Israel rebelled against the house of David unto this day.
-<small><sub>**BSB:**</sub></small>
-So to this day Israel has been in rebellion against the house of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.18|<< 1 Kings 12:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.20|1 Kings 12:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 37:21** 
 <small><sub>**LXX:**</sub></small>
 And Isaiah son of Amoz was sent to Hezekiah. And he said to him, Thus says \[the\] <span class="smallcaps">lord</span>  God of Israel, I heard what you prayed to me concerning Sennacherib king of \[the\] Assyrians. 
-<small><sub>**KJV:**</sub></small>
-Then Isaiah the son of Amoz sent unto Hezekiah, saying, Thus saith the LORD God of Israel, Whereas thou hast prayed to me against Sennacherib king of Assyria:
-<small><sub>**BSB:**</sub></small>
-Then Isaiah son of Amoz sent a message to Hezekiah: “This is what the LORD, the God of Israel, says: Because you have prayed to Me concerning Sennacherib king of Assyria,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.37.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.20|<< Isaiah 37:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.22|Isaiah 37:22 >>]]</td></tr></table>
 
 | Translation | Greek |

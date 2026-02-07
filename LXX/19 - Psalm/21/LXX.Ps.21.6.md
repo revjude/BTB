@@ -1,10 +1,7 @@
 **LXX Psalm 21:6** 
 <small><sub>**LXX:**</sub></small>
 For you shall give to him a blessing into \[the\] eon of \[the\] eon; you shall gladden him with joy with  your countenance. 
-<small><sub>**KJV:**</sub></small>
-For thou hast made him most blessed for ever: thou hast made him exceeding glad with thy countenance.
-<small><sub>**BSB:**</sub></small>
-For You grant him blessings forever; You cheer him with joy in Your presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.21.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.21.5|<< Psalm 21:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.21.7|Psalm 21:7 >>]]</td></tr></table>
 
 | Translation | Greek |

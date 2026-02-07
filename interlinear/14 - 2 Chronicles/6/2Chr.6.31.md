@@ -1,4 +1,4 @@
-**2 Chronicles 6:31** 
+**2 Chronicles 6:31**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may fear thee, to walk in thy ways, so long as they live in the land which thou gavest unto our fathers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that they may fear You and walk in Your ways all the days they live in the la
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.30|<< 2 Chronicles 6:30]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.32|2 Chronicles 6:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֣עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they may fear you  |**<big>&#8207;[[H3372G\|יִֽירָא֗וּ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| yi.ra.'U.<small><sup>[[HVqj3mp]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

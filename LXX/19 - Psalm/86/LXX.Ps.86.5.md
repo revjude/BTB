@@ -1,10 +1,7 @@
 **LXX Psalm 86:5** 
 <small><sub>**LXX:**</sub></small>
 For you, O <span class="smallcaps">lord</span>, \[are\] gracious, and lenient, and full of mercy to all the ones calling upon you. 
-<small><sub>**KJV:**</sub></small>
-For thou, Lord, [art] good, and ready to forgive; and plenteous in mercy unto all them that call upon thee.
-<small><sub>**BSB:**</sub></small>
-For You, O Lord, are kind and forgiving, rich in loving devotion to all who call on You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.86.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.4|<< Psalm 86:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.6|Psalm 86:6 >>]]</td></tr></table>
 
 | Translation | Greek |

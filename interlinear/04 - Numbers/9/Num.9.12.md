@@ -1,4 +1,4 @@
-**Numbers 9:12** 
+**Numbers 9:12**<big><big>[[Num.9.1 The Second Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ they may not leave any of it until morning or break any of its bones. They must 
 > $\quad$ referenced by: [[John.19.36|John 19:36]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will leave over  |**<big>&#8207;[[H7604\|יַשְׁאִ֤ירוּ]]&#8207; </big>**| yash.'I.ru<small><sup>[[HVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

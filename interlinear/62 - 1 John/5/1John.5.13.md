@@ -1,12 +1,12 @@
-**1 John 5:13
-**<small><sub>**KJV:**</sub></small>
+**1 John 5:13**<big><big>[[1John.5.13 Effective Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.
 <small><sub>**BSB:**</sub></small>
 I have written these things to you who believe in the name of the Son of God, so that you may know that you have eternal life.
 <small><sub>**Literal:**</sub></small>
 These things have I written to you to those believing into the name of the Son <the> of God so that you may know that life you have eternal and so that to those believing in the name of the Son <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.12|<< 1 John 5:12]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.14|1 John 5:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|Ταῦτα]]</big>**  |Tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | have I written |**<big>[[G1125\|ἔγραψα]]</big>**  |egrapsa <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

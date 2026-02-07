@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 9:11** 
 <small><sub>**LXX:**</sub></small>
 And the king made ascents \[from\] the wood of pines for the house of \[the\] <span class="smallcaps">lord</span>, and for the house of the king, and harps and stringed instruments for the singers. And there was not seen such \[as these\] before in \[the\] land of Judah. 
-<small><sub>**KJV:**</sub></small>
-And the king made [of] the algum trees terraces to the house of the LORD, and to the king’s palace, and harps and psalteries for singers: and there were none such seen before in the land of Judah.
-<small><sub>**BSB:**</sub></small>
-The king made the algum wood into steps for the house of the LORD and for the king’s palace, and into lyres and harps for the singers. Never before had anything like them been seen in the land of Judah.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.9.10|<< 2 Chronicles 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.9.12|2 Chronicles 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

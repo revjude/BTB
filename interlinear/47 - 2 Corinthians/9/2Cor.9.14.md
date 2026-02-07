@@ -1,12 +1,12 @@
-**2 Corinthians 9:14
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 9:14**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And by their prayer for you, which long after you for the exceeding grace of God in you.
 <small><sub>**BSB:**</sub></small>
 And their prayers for you will express their affection for you, because of the surpassing grace God has given you.
 <small><sub>**Literal:**</sub></small>
 and by their supplication for you a longing for you on account of the surpassing grace <the> of God upon you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.13|<< 2 Corinthians 9:13]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.15|2 Corinthians 9:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | by their |**<big>[[G0846\|αὐτῶν]]</big>**  |autōn <small><sup>[[P-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

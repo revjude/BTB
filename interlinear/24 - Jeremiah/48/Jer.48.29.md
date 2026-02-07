@@ -1,4 +1,4 @@
-**Jeremiah 48:29** 
+**Jeremiah 48:29**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have heard the pride of Moab, (he is exceeding proud) his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We have heard of Moab’s pomposity, his exceeding pride and conceit, his proud 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.28|<< Jeremiah 48:28]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.30|Jeremiah 48:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | we have heard  |**<big>&#8207;[[H8085G\|שָׁמַ֥עְנוּ]]&#8207; </big>**| sha.Ma'.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] pride of  |**<big>&#8207;[[H1347\|גְאוֹן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ge.'on-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**1 Corinthians 9:17
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 9:17**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if I do this thing willingly, I have a reward: but if against my will, a dispensation [of the gospel] is committed unto me.
 <small><sub>**BSB:**</sub></small>
 If my preaching is voluntary, I have a reward. But if it is not voluntary, I am still entrusted with a responsibility.
 <small><sub>**Literal:**</sub></small>
 If for willingly this I do, a reward I have; if however unwillingly, a stewardship I have been entrusted with.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.16|<< 1 Corinthians 9:16]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.18|1 Corinthians 9:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

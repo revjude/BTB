@@ -1,12 +1,12 @@
-**Acts 8:34
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:34**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other man?
 <small><sub>**BSB:**</sub></small>
 “Tell me,” said the eunuch, “who is the prophet talking about, himself or someone else?”
 <small><sub>**Literal:**</sub></small>
 Answering now the eunuch <the> to Philip said; I pray you, concerning whom the prophet says this? Concerning himself, or concerning other some?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.33|<< Acts 8:33]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.35|Acts 8:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|Ἀποκριθεὶς]]</big>**  |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

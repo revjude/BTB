@@ -1,10 +1,7 @@
 **LXX Joshua 15:10** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] border went around from Baalah unto west, and shall go by unto mount Seir, and shall go by unto \[the\] back of \[the\] city Jearim from \[the\] north -- this is Chesalon, and it shall go down to \[the\] city of \[the\] sun, and shall go by to \[the\] south. 
-<small><sub>**KJV:**</sub></small>
-And the border compassed from Baalah westward unto mount Seir, and passed along unto the side of mount Jearim, which [is] Chesalon, on the north side, and went down to Bethshemesh, and passed on to Timnah:
-<small><sub>**BSB:**</sub></small>
-The border curled westward from Baalah to Mount Seir, ran along the northern slope of Mount Jearim (that is, Chesalon), went down to Beth-shemesh, and crossed to Timnah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.9|<< Joshua 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.11|Joshua 15:11 >>]]</td></tr></table>
 
 | Translation | Greek |

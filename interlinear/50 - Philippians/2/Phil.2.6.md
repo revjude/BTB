@@ -1,12 +1,12 @@
-**Philippians 2:6
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:6**<big><big>[[Phil.2.5 The Mind of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who, being in the form of God, thought it not robbery to be equal with God:
 <small><sub>**BSB:**</sub></small>
 Who, existing in the form of God, did not consider equality with God something to be grasped,
 <small><sub>**Literal:**</sub></small>
 Who in [the] form of God existing not something to be grasped considered <the> to be equal with God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.5|<< Philippians 2:5]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.7|Philippians 2:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

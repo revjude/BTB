@@ -1,10 +1,7 @@
 **LXX Ezekiel 25:17** 
 <small><sub>**LXX:**</sub></small>
 And I will execute among them great vengeance in rebukes of rage, and they shall realize that I am Adonai \[the\] <span class="smallcaps">lord</span> in the executing  of my vengeance upon them. 
-<small><sub>**KJV:**</sub></small>
-And I will execute great vengeance upon them with furious rebukes; and they shall know that I [am] the LORD, when I shall lay my vengeance upon them.
-<small><sub>**BSB:**</sub></small>
-I will execute great vengeance against them with furious reproof. Then they will know that I am the LORD, when I lay My vengeance upon them.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.16|<< Ezekiel 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.1|Ezekiel 26:1 >>]]</td></tr></table>
 
 | Translation | Greek |

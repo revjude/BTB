@@ -1,10 +1,7 @@
 **LXX 1 Kings 10:17** 
 <small><sub>**LXX:**</sub></small>
 And he made three hundred oblong shields of gold hammered out. Three minas of gold \[were\] used for the one oblong shield. And the king put them in \[the\] house of \[the\] forest  of Lebanon. 
-<small><sub>**KJV:**</sub></small>
-And [he made] three hundred shields [of] beaten gold; three pound of gold went to one shield: and the king put them in the house of the forest of Lebanon.
-<small><sub>**BSB:**</sub></small>
-He also made three hundred small shields of hammered gold; three minas of gold went into each shield. And the king put them in the House of the Forest of Lebanon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.10.16|<< 1 Kings 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.10.18|1 Kings 10:18 >>]]</td></tr></table>
 
 | Translation | Greek |

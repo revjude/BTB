@@ -1,4 +1,4 @@
-**Daniel 2:40** 
+**Daniel 2:40**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all [things]: and as iron that breaketh all these, shall it break in pieces and bruise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Finally, there will be a fourth kingdom as strong as iron; for iron shatters and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.39|<< Daniel 2:39]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.41|Daniel 2:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a kingdom  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4437\|מַלְכוּ֙]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> mal.Khu<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fourth  |**<big>&#8207;[[H7244\|רְבִ֣יעָאָ֔ה]]&#8207; </big>**[^1] [^2] | re.vi.'a.yah<small><sup>[[AAofsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |

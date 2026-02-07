@@ -1,10 +1,7 @@
 **LXX Jeremiah 40:11** 
 <small><sub>**LXX:**</sub></small>
 And all the Jews, the ones in Moab, and among \[the\] sons of Ammon, and the ones in  Edom, and the ones in all the land, heard that \[the\] king of Babylon granted a vestige  to Judah, and that he placed over them  Gedaliah son of Ahikam. 
-<small><sub>**KJV:**</sub></small>
-Likewise when all the Jews that [were] in Moab, and among the Ammonites, and in Edom, and that [were] in all the countries, heard that the king of Babylon had left a remnant of Judah, and that he had set over them Gedaliah the son of Ahikam the son of Shaphan;
-<small><sub>**BSB:**</sub></small>
-When all the Jews in Moab, Ammon, Edom, and all the other lands heard that the king of Babylon had left a remnant in Judah and had appointed Gedaliah son of Ahikam, the son of Shaphan, over them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.40.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.10|<< Jeremiah 40:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.12|Jeremiah 40:12 >>]]</td></tr></table>
 
 | Translation | Greek |

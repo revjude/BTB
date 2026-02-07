@@ -1,4 +1,4 @@
-**Ezekiel 8:1** 
+**Ezekiel 8:1**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the sixth year, in the sixth [month], in the fifth [day] of the month, [as] I sat in mine house, and the elders of Judah sat before me, that the hand of the Lord GOD fell there upon me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the sixth year, on the fifth day of the sixth month, I was sitting in my hous
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.27|<< Ezekiel 7:27]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.2|Ezekiel 8:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the year  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8141\|שָּׁנָ֣ה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

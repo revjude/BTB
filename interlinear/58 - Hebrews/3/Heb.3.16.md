@@ -1,12 +1,12 @@
-**Hebrews 3:16
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 3:16**<big><big>[[Heb.3.12 The Peril of Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses.
 <small><sub>**BSB:**</sub></small>
 For who were the ones who heard and rebelled? Were they not all those Moses led out of Egypt?
 <small><sub>**Literal:**</sub></small>
 Who for [were those] having heard rebelled? but surely all those having come out of Egypt through Moses?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.15|<< Hebrews 3:15]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.17|Hebrews 3:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who |**<big>[[G5101\|τίνες]]</big>**  |tines <small><sup>[[I-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

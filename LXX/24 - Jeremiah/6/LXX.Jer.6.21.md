@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:21** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>, Behold, I impute upon  this people weakness, and fathers and sons shall weaken in it together; neighbor and  his near one shall perish. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD, Behold, I will lay stumblingblocks before this people, and the fathers and the sons together shall fall upon them; the neighbour and his friend shall perish.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD says: “I will lay stumbling blocks before this people; fathers and sons alike will be staggered; friends and neighbors will perish.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.20|<< Jeremiah 6:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.22|Jeremiah 6:22 >>]]</td></tr></table>
 
 | Translation | Greek |

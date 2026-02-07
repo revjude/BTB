@@ -1,4 +1,4 @@
-**Isaiah 5:8** 
+**Isaiah 5:8**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto them that join house to house, [that] lay field to field, till [there be] no place, that they may be placed alone in the midst of the earth!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to you who add house to house and join field to field until no place is left
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.7|<< Isaiah 5:7]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.9|Isaiah 5:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֗וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] make touch  |**<big>&#8207;[[H5060\|מַגִּיעֵ֥י]]&#8207; </big>**| ma.gi.'Ei<small><sup>[[HVhrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

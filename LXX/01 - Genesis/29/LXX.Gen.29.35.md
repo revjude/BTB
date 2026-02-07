@@ -1,10 +1,7 @@
 **LXX Genesis 29:35** 
 <small><sub>**LXX:**</sub></small>
 And conceiving again she bore a son. And she said, Now yet this I will acknowledge to \[the\] <span class="smallcaps">lord</span>. On account of this she called  his name, Judah. And she stopped  bearing. 
-<small><sub>**KJV:**</sub></small>
-And she conceived again, and bare a son: and she said, Now will I praise the LORD: therefore she called his name Judah; and left bearing.
-<small><sub>**BSB:**</sub></small>
-And once more she conceived and gave birth to a son and said, “This time I will praise the LORD.” So she named him Judah. Then Leah stopped having children.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.34|<< Genesis 29:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.1|Genesis 30:1 >>]]</td></tr></table>
 
 | Translation | Greek |

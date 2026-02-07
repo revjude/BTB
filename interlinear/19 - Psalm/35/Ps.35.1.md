@@ -1,12 +1,12 @@
-**Psalms 35:1** 
+**Psalms 35:1**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-[A Psalm] of David. Plead [my cause], O LORD, with them that strive with me: fight against them that fight against me.
+Plead [my cause], O LORD, with them that strive with me: fight against them that fight against me.
 <small><sub>**BSB:**</sub></small>
 Of David. Contend with my opponents, O LORD; fight against those who fight against me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.0|<< Psalms 35:0]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.2|Psalms 35:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | contend !  |**<big>&#8207;[[H7378\|רִיבָ֣]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ri.Va<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

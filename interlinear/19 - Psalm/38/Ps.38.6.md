@@ -1,4 +1,4 @@
-**Psalms 38:6** (38:7)
+**Psalms 38:6**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am troubled; I am bowed down greatly; I go mourning all the day long.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am bent and brought low; all day long I go about mourning.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.5|<< Psalms 38:5]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.7|Psalms 38:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I am bent down  |**<big>&#8207;[[H5753A\|נַעֲוֵ֣יתִי]]&#8207; </big>**| na.'a.Vei.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I am bent over  |**<big>&#8207;[[H7817\|שַׁחֹ֣תִי]]&#8207; </big>**| sha.Cho.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

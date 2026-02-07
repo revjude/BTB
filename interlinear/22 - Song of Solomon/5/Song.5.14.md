@@ -1,4 +1,4 @@
-**Song of Solomon 5:14** 
+**Song of Solomon 5:14**<big><big>[[Song.5.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His hands [are as] gold rings set with the beryl: his belly [is as] bright ivory overlaid [with] sapphires.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His arms are rods of gold set with beryl. His body is polished ivory bedecked wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.13|<< Song of Solomon 5:13]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.15|Song of Solomon 5:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hands his  |**<big>&#8207;[[H3027G\|יָדָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| ya.Da<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] rods of  |**<big>&#8207;[[H1550B\|גְּלִילֵ֣י]]&#8207; </big>**| ge.li.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

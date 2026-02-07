@@ -1,10 +1,7 @@
 **LXX Deuteronomy 14:21** 
 <small><sub>**LXX:**</sub></small>
 Any decaying flesh you shall not eat. To the foreigner  in  your cities it shall be given, and he shall eat \[it\]; or you shall render it to the alien. For you are a holy people \[to the\] <span class="smallcaps">lord</span>  your God. You shall not boil a lamb in \[the\] milk of his mother. 
-<small><sub>**KJV:**</sub></small>
-Ye shall not eat [of] any thing that dieth of itself: thou shalt give it unto the stranger that [is] in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou [art] an holy people unto the LORD thy God. Thou shalt not seethe a kid in his mother’s milk.
-<small><sub>**BSB:**</sub></small>
-You are not to eat any carcass; you may give it to the foreigner residing within your gates, and he may eat it, or you may sell it to a foreigner. For you are a holy people belonging to the LORD your God. You must not cook a young goat in its mother’s milk.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.14.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.20|<< Deuteronomy 14:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.22|Deuteronomy 14:22 >>]]</td></tr></table>
 
 | Translation | Greek |

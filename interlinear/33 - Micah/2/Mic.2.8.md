@@ -1,4 +1,4 @@
-**Micah 2:8** 
+**Micah 2:8**<big><big>[[Mic.2.6 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even of late my people is risen up as an enemy: ye pull off the robe with the garment from them that pass by securely as men averse from war.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But of late My people have risen up like an enemy: You strip off the splendid ro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.7|<< Micah 2:7]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.9|Micah 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and yesterday  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0865\|אֶתְמ֗וּל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'et.Mul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people my  |**<big>&#8207;[[H5971A\|עַמִּ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

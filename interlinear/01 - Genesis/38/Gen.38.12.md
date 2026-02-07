@@ -1,4 +1,4 @@
-**Genesis 38:12** 
+**Genesis 38:12**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in process of time the daughter of Shuah Judah’s wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After a long time Judah’s wife, the daughter of Shua, died. When Judah had fin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.11|<< Genesis 38:11]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.13|Genesis 38:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they increased  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7235A\|יִּרְבּוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.Bu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the days  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117G\|יָּמִ֔ים]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

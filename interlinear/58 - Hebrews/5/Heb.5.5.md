@@ -1,5 +1,5 @@
-**Hebrews 5:5
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 5:5**<big><big>[[Heb.5.1 The Perfect High Priest|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So also Christ glorified not himself to be made an high priest; but he that said unto him, Thou art my Son, to day have I begotten thee.
 <small><sub>**BSB:**</sub></small>
 So also Christ did not take upon Himself the glory of becoming a high priest, but He was called by the One who said to Him: “You are My Son; today I have become Your Father.”
@@ -10,7 +10,7 @@ So also <the> Christ not Himself did glorify to become a high priest but the [On
 > $\quad$ referencing: [[LXX.Ps.2.7|Ps 2:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

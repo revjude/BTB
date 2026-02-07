@@ -1,10 +1,7 @@
 **LXX Job 13:26** 
 <small><sub>**LXX:**</sub></small>
 For you wrote down against me bad \[things\], and you invested to me youthful sin. 
-<small><sub>**KJV:**</sub></small>
-For thou writest bitter things against me, and makest me to possess the iniquities of my youth.
-<small><sub>**BSB:**</sub></small>
-For You record bitter accusations against me and bequeath to me the iniquities of my youth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.13.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.13.25|<< Job 13:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.13.27|Job 13:27 >>]]</td></tr></table>
 
 | Translation | Greek |

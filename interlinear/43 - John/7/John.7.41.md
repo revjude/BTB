@@ -1,12 +1,12 @@
-**John 7:41
-**<small><sub>**KJV:**</sub></small>
+**John 7:41**<big><big>[[John.7.40 Division over Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Others said, This is the Christ. But some said, Shall Christ come out of Galilee?
 <small><sub>**BSB:**</sub></small>
 Others declared, “This is the Christ.” But still others asked, “How can the Christ come from Galilee?
 <small><sub>**Literal:**</sub></small>
 Others were saying; This is the Christ; Those however were saying; Surely not for out of <the> Galilee the Christ comes?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.40|<< John 7:40]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.42|John 7:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Others |**<big>[[G0243\|ἄλλοι]]</big>**  |alloi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were saying; |**<big>[[G3004G\|ἔλεγον·]]</big>**  |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

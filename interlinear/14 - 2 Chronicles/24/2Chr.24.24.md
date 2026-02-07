@@ -1,4 +1,4 @@
-**2 Chronicles 24:24** 
+**2 Chronicles 24:24**<big><big>[[2Chr.24.23 The Death of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the army of the Syrians came with a small company of men, and the LORD delivered a very great host into their hand, because they had forsaken the LORD God of their fathers. So they executed judgment against Joash.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Although the Aramean army had come with only a few men, the LORD delivered into 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.23|<< 2 Chronicles 24:23]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.25|2 Chronicles 24:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with smallness of  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H4705\|מִצְעַ֨ר]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> mitz.'Ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

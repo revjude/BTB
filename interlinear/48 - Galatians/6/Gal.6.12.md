@@ -1,12 +1,12 @@
-**Galatians 6:12
-**<small><sub>**KJV:**</sub></small>
+**Galatians 6:12**<big><big>[[Gal.6.11 Final Warnings and Blessings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ.
 <small><sub>**BSB:**</sub></small>
 Those who want to make a good impression outwardly are trying to compel you to be circumcised. They only do this to avoid persecution for the cross of Christ.
 <small><sub>**Literal:**</sub></small>
 As many as wish to have a fair appearance in [the] flesh, these compel you to be circumcised, only that for the cross <the> of Christ Jesus not they may be persecuted;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.11|<< Galatians 6:11]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.13|Galatians 6:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As many as |**<big>[[G3745\|ὅσοι]]</big>**  |hosoi <small><sup>[[K-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | wish |**<big>[[G2309\|θέλουσιν]]</big>**  |thelousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 27:4** 
 <small><sub>**LXX:**</sub></small>
 And you shall order them to say to their lords, Thus said \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel; Thus you shall say to  your lords, 
-<small><sub>**KJV:**</sub></small>
-And command them to say unto their masters, Thus saith the LORD of hosts, the God of Israel; Thus shall ye say unto your masters;
-<small><sub>**BSB:**</sub></small>
-Give them a message from the LORD of Hosts, the God of Israel, to relay to their masters:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.27.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.3|<< Jeremiah 27:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.5|Jeremiah 27:5 >>]]</td></tr></table>
 
 | Translation | Greek |

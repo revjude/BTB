@@ -1,12 +1,12 @@
-**Psalms 17:1** 
+**Psalms 17:1**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Prayer of David. Hear the right, O LORD, attend unto my cry, give ear unto my prayer, [that goeth] not out of feigned lips.
+Hear the right, O LORD, attend unto my cry, give ear unto my prayer, [that goeth] not out of feigned lips.
 <small><sub>**BSB:**</sub></small>
 A prayer of David. Hear, O LORD, my righteous plea; listen to my cry. Give ear to my prayer—it comes from lips free of deceit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.0|<< Psalms 17:0]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.2|Psalms 17:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear !  |**<big>&#8207;[[H8085G\|שִׁמְעָ֤]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| shim.'A<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

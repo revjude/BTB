@@ -1,4 +1,4 @@
-**Psalms 68:30** (68:31)
+**Psalms 68:30**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, [till every one] submit himself with pieces of silver: scatter thou the people [that] delight in war.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rebuke the beast in the reeds, the herd of bulls among the calves of the nations
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.29|<< Psalms 68:29]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.31|Psalms 68:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | rebuke  |**<big>&#8207;[[H1605\|גְּעַ֨ר]]&#8207; </big>**| ge.'Ar<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] animal[s] of  |**<big>&#8207;[[H2416C\|חַיַּ֪ת]]&#8207; </big>**| chai.Yat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

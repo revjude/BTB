@@ -1,4 +1,4 @@
-**Leviticus 15:15** 
+**Leviticus 15:15**<big><big>[[Lev.15.13 The Cleansing of Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall offer them, the one [for] a sin offering, and the other [for] a burnt offering; and the priest shall make an atonement for him before the LORD for his issue.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priest is to sacrifice them, one as a sin offering and the other as a burnt 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.14|<< Leviticus 15:14]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.16|Leviticus 15:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will offer  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשָׂ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Sah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

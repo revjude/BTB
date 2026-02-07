@@ -1,10 +1,7 @@
 **LXX Judges 9:37** 
 <small><sub>**LXX:**</sub></small>
 And Gaal proceeded still  to speak, and said, Behold, a people coming down as a sea from the \[part\] next to the navel of the earth, and one company arrives from \[the\] way of \[the\] Oak of \[the\] Seers. 
-<small><sub>**KJV:**</sub></small>
-And Gaal spake again and said, See there come people down by the middle of the land, and another company come along by the plain of Meonenim.
-<small><sub>**BSB:**</sub></small>
-Then Gaal spoke up again, “Look, people are coming down from the center of the land, and one company is coming by way of the Diviners’ Oak.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.36|<< Judges 9:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.38|Judges 9:38 >>]]</td></tr></table>
 
 | Translation | Greek |

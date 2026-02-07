@@ -1,10 +1,7 @@
 **LXX Joshua 21:4** 
 <small><sub>**LXX:**</sub></small>
 And the lot came forth to the people of Kohath, and it was to the sons of Aaron, the priests, to the Levites from \[the\] tribe of Judah, and from \[the\] tribe of Simeon, and from \[the\] tribe of Benjamin -- thirteen cities by casting lots. 
-<small><sub>**KJV:**</sub></small>
-And the lot came out for the families of the Kohathites: and the children of Aaron the priest, [which were] of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities.
-<small><sub>**BSB:**</sub></small>
-The first lot came out for the Kohathite clans. The Levites who were descendants of Aaron the priest received thirteen cities by lot from the tribes of Judah, Simeon, and Benjamin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.3|<< Joshua 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.5|Joshua 21:5 >>]]</td></tr></table>
 
 | Translation | Greek |

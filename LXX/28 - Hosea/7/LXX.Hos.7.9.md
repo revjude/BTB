@@ -1,10 +1,7 @@
 **LXX Hosea 7:9** 
 <small><sub>**LXX:**</sub></small>
 And strangers ate  his strength, but he did not know \[it\]; and gray hairs broke out to him, and he did not know \[it\]. 
-<small><sub>**KJV:**</sub></small>
-Strangers have devoured his strength, and he knoweth [it] not: yea, gray hairs are here and there upon him, yet he knoweth not.
-<small><sub>**BSB:**</sub></small>
-Foreigners consume his strength, but he does not notice. Even his hair is streaked with gray, but he does not know.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.7.8|<< Hosea 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.7.10|Hosea 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

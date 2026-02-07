@@ -1,10 +1,7 @@
 **LXX Psalm 25:17** 
 <small><sub>**LXX:**</sub></small>
 The afflictions  of my heart were multiplied; lead me from out of my necessities! 
-<small><sub>**KJV:**</sub></small>
-The troubles of my heart are enlarged: [O] bring thou me out of my distresses.
-<small><sub>**BSB:**</sub></small>
-The troubles of my heart increase; free me from my distress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.25.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.25.16|<< Psalm 25:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.25.18|Psalm 25:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Zechariah 1:6** 
+**Zechariah 1:6**<big><big>[[Zech.1.1 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But my words and my statutes, which I commanded my servants the prophets, did they not take hold of your fathers? and they returned and said, Like as the LORD of hosts thought to do unto us, according to our ways, and according to our doings, so hath he dealt with us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But did not My words and My statutes, which I commanded My servants the prophets
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.5|<< Zechariah 1:5]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.7|Zechariah 1:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0389\|אַ֣ךְ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | words my  |**<big>&#8207;[[H1697G\|דְּבָרַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| de.va.Ra<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

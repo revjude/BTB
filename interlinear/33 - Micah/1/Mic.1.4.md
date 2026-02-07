@@ -1,4 +1,4 @@
-**Micah 1:4** 
+**Micah 1:4**<big><big>[[Mic.1.1 Judgment to Come|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the mountains shall be molten under him, and the valleys shall be cleft, as wax before the fire, [and] as the waters [that are] poured down a steep place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The mountains will melt beneath Him, and the valleys will split apart, like wax 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.3|<< Micah 1:3]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.5|Micah 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will melt  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H4549\|נָמַ֤סּוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Ma.su<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the mountains  |**<big>&#8207;[[H9009\|הֶֽ]]&#8207;&#8207;[[H2022G\|הָרִים֙]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

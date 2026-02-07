@@ -1,4 +1,4 @@
-**Psalms 83:7** (83:8)
+**Psalms 83:7**<big><big>[[Ps.83.1 O God, Be Not Silent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ of Gebal, Ammon, and Amalek, of Philistia with the people of Tyre.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.6|<< Psalms 83:6]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.8|Psalms 83:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Gebal  |**<big>&#8207;[[H1381\|גְּבָ֣ל]]&#8207; </big>**| ge.Val<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Ammon  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H5983\|עַמּוֹן]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> 'a.mon<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

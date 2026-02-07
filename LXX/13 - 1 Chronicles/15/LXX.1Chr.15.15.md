@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:15** 
 <small><sub>**LXX:**</sub></small>
 And the sons of the Levites lifted the ark  of God (as Moses gave charge by \[the\] word of \[the\] <span class="smallcaps">lord</span> according to the writing) with \[the\] bearing poles on their shoulders. 
-<small><sub>**KJV:**</sub></small>
-And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the LORD.
-<small><sub>**BSB:**</sub></small>
-And the Levites carried the ark of God on their shoulders with the poles, as Moses had commanded in accordance with the word of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.14|<< 1 Chronicles 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.16|1 Chronicles 15:16 >>]]</td></tr></table>
 
 | Translation | Greek |

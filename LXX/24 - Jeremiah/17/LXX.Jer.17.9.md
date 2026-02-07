@@ -1,10 +1,7 @@
 **LXX Jeremiah 17:9** 
 <small><sub>**LXX:**</sub></small>
 The heart \[is\] deep beyond all \[things\], and man is, who shall know him? 
-<small><sub>**KJV:**</sub></small>
-The heart [is] deceitful above all [things], and desperately wicked: who can know it?
-<small><sub>**BSB:**</sub></small>
-The heart is deceitful above all things and beyond cure. Who can understand it?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.8|<< Jeremiah 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.10|Jeremiah 17:10 >>]]</td></tr></table>
 
 | Translation | Greek |

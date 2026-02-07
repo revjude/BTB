@@ -1,10 +1,7 @@
 **LXX Jeremiah 19:12** 
 <small><sub>**LXX:**</sub></small>
 Thus I will do, says \[the\] <span class="smallcaps">lord</span>,  to this place, and to the ones dwelling in it,  to yield up  this city as the one having fallen into ruin. 
-<small><sub>**KJV:**</sub></small>
-Thus will I do unto this place, saith the LORD, and to the inhabitants thereof, and [even] make this city as Tophet:
-<small><sub>**BSB:**</sub></small>
-This is what I will do to this place and to its residents, declares the LORD. I will make this city like Topheth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.19.11|<< Jeremiah 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.13|Jeremiah 19:13 >>]]</td></tr></table>
 
 | Translation | Greek |

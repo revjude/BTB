@@ -1,5 +1,5 @@
-**Mark 12:10
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:10**<big><big>[[Mark.12.1 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And have ye not read this scripture; The stone which the builders rejected is become the head of the corner:
 <small><sub>**BSB:**</sub></small>
 Have you never read this Scripture: ‘The stone the builders rejected has become the cornerstone.
@@ -10,7 +10,7 @@ Not even <the> Scripture this have you read: [The] stone which rejected those bu
 > $\quad$ referencing: [[LXX.Ps.118.22|Ps 118:22-23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not even |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

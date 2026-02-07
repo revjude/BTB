@@ -1,4 +1,4 @@
-**Leviticus 26:10** 
+**Leviticus 26:10**<big><big>[[Lev.26.1 Additional Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall eat old store, and bring forth the old because of the new.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will still be eating the old supply of grain when you need to clear it out t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.9|<< Leviticus 26:9]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.11|Leviticus 26:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will eat  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0398\|אֲכַלְתֶּ֥ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.khal.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | old harvest  |**<big>&#8207;[[H3465H\|יָשָׁ֖ן]]&#8207; </big>**| ya.Shan<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

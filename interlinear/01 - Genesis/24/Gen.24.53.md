@@ -1,4 +1,4 @@
-**Genesis 24:53** 
+**Genesis 24:53**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the servant brought forth jewels of silver, and jewels of gold, and raiment, and gave [them] to Rebekah: he gave also to her brother and to her mother precious things.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he brought out jewels of silver and gold, and articles of clothing, and he 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.52|<< Genesis 24:52]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.54|Genesis 24:54 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318H\|יּוֹצֵ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Tze'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the servant  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5650\|עֶ֜בֶד]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.ved<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

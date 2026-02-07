@@ -1,4 +1,4 @@
-**Isaiah 22:9** 
+**Isaiah 22:9**<big><big>[[Isa.22.1 The Valley of Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye have seen also the breaches of the city of David, that they are many: and ye gathered together the waters of the lower pool.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You saw that there were many breaches in the walls of the City of David. You col
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.8|<< Isaiah 22:8]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.10|Isaiah 22:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֨ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] breaches of  |**<big>&#8207;[[H1233\|בְּקִיעֵ֧י]]&#8207; </big>**| be.ki.'Ei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

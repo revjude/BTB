@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to me, saying, I have spoken to you once and twice, saying, I have seen  this people; and, behold, it is a hard-necked people. 
-<small><sub>**KJV:**</sub></small>
-Furthermore the LORD spake unto me, saying, I have seen this people, and, behold, it [is] a stiffnecked people:
-<small><sub>**BSB:**</sub></small>
-The LORD also said to me, “I have seen this people, and they are indeed a stiff-necked people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.12|<< Deuteronomy 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.14|Deuteronomy 9:14 >>]]</td></tr></table>
 
 | Translation | Greek |

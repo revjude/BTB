@@ -1,4 +1,4 @@
-**2 Samuel 3:30** 
+**2 Samuel 3:30**<big><big>[[2Sam.3.22 Joab Murders Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joab and Abishai his brother slew Abner, because he had slain their brother Asahel at Gibeon in the battle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Joab and Abishai his brother slew Abner, because he had slain their brother A
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.29|<< 2 Samuel 3:29]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.31|2 Samuel 3:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Joab  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3097G\|יוֹאָב֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Abishai  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0052\|אֲבִישַׁ֣י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vi.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

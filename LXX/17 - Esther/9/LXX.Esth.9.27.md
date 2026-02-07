@@ -1,10 +1,7 @@
 **LXX Esther 9:27** 
 <small><sub>**LXX:**</sub></small>
 And the Jews favorably received \[it\] for themselves, and for  their seed, and for the ones purposed unto them \[to observe it\] -- nor in fact shall they treat \[it\] otherwise. And these days \[were\] a memorial being completed according to generation and generation, and city, and family, and place. 
-<small><sub>**KJV:**</sub></small>
-The Jews ordained, and took upon them, and upon their seed, and upon all such as joined themselves unto them, so as it should not fail, that they would keep these two days according to their writing, and according to their [appointed] time every year;
-<small><sub>**BSB:**</sub></small>
-the Jews bound themselves to establish the custom that they and their descendants and all who join them should not fail to celebrate these two days at the appointed time each and every year, according to their regulation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.26|<< Esther 9:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.28|Esther 9:28 >>]]</td></tr></table>
 
 | Translation | Greek |

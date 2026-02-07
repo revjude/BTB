@@ -1,10 +1,7 @@
 **LXX Exodus 23:26** 
 <small><sub>**LXX:**</sub></small>
 It will not be barren nor sterile upon  your land; the number  of your days I will fill up. 
-<small><sub>**KJV:**</sub></small>
-There shall nothing cast their young, nor be barren, in thy land: the number of thy days I will fulfil.
-<small><sub>**BSB:**</sub></small>
-No woman in your land will miscarry or be barren; I will fulfill the number of your days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.25|<< Exodus 23:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.27|Exodus 23:27 >>]]</td></tr></table>
 
 | Translation | Greek |

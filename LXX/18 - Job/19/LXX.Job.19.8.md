@@ -1,10 +1,7 @@
 **LXX Job 19:8** 
 <small><sub>**LXX:**</sub></small>
 I have been enclosed round about, and in no way shall I pass over; he put darkness upon my face. 
-<small><sub>**KJV:**</sub></small>
-He hath fenced up my way that I cannot pass, and he hath set darkness in my paths.
-<small><sub>**BSB:**</sub></small>
-He has blocked my way so I cannot pass; He has veiled my paths with darkness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.19.7|<< Job 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.19.9|Job 19:9 >>]]</td></tr></table>
 
 | Translation | Greek |

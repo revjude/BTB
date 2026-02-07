@@ -1,4 +1,4 @@
-**Genesis 31:25** 
+**Genesis 31:25**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Jacob had pitched his tent in the hill country of Gilead when Laban overtook
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.24|<< Genesis 31:24]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.26|Genesis 31:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he overtook  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5381\|יַּשֵּׂ֥ג]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Seg<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Laban  |**<big>&#8207;[[H3837A\|לָבָ֖ן]]&#8207; </big>**| la.Van<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

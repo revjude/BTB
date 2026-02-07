@@ -1,12 +1,12 @@
-**Acts 25:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:7**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was come, the Jews which came down from Jerusalem stood round about, and laid many and grievous complaints against Paul, which they could not prove.
 <small><sub>**BSB:**</sub></small>
 When Paul arrived, the Jews who had come down from Jerusalem stood around him, bringing many serious charges that they could not prove.
 <small><sub>**Literal:**</sub></small>
 When was arriving then he they stood around him the from Jerusalem having come down Jews many and weighty charges presenting concerning <the> Paul which not they were able to prove,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.6|<< Acts 25:6]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.8|Acts 25:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When was arriving |**<big>[[G3854\|Παραγενομένου]]</big>**  |Paragenomenou <small><sup>[[V-2ADP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Joel 1:5** 
+**Joel 1:5**<big><big>[[Joel.1.1 The Invasion of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wake up, you drunkards, and weep; wail, all you drinkers of wine, because of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.4|<< Joel 1:4]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.6|Joel 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | awake  |**<big>&#8207;[[H6974\|הָקִ֤יצוּ]]&#8207; </big>**| ha.Ki.tzu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O drunkards  |**<big>&#8207;[[H7910\|שִׁכּוֹרִים֙]]&#8207; </big>**| shi.ko.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

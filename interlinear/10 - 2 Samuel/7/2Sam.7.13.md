@@ -1,4 +1,4 @@
-**2 Samuel 7:13** 
+**2 Samuel 7:13**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall build an house for my name, and I will stablish the throne of his kingdom for ever.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He will build a house for My Name, and I will establish the throne of his kingdo
 > $\quad$ referenced by: [[John.12.34|John 12:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1931\|ה֥וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will build  |**<big>&#8207;[[H1129\|יִבְנֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yiv.neh-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

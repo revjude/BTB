@@ -1,4 +1,4 @@
-**Zechariah 6:1** 
+**Zechariah 6:1**<big><big>[[Zech.6.1 The Vision of the Four Chariots|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains [were] mountains of brass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And again I lifted up my eyes and saw four chariots coming out from between two 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.5.11|<< Zechariah 5:11]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.2|Zechariah 6:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I returned  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7725J\|אָשֻׁ֗ב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Shuv<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I lifted up  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5375M\|אֶשָּׂ֤א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Sa'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

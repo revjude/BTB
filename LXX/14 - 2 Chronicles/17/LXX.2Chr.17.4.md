@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 17:4** 
 <small><sub>**LXX:**</sub></small>
 but he sought after \[the\] <span class="smallcaps">lord</span> God of his father, and by  his commandments he went, and not according to the works of Israel. 
-<small><sub>**KJV:**</sub></small>
-But sought to the [LORD] God of his father, and walked in his commandments, and not after the doings of Israel.
-<small><sub>**BSB:**</sub></small>
-but he sought the God of his father and walked by His commandments rather than the practices of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.3|<< 2 Chronicles 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.5|2 Chronicles 17:5 >>]]</td></tr></table>
 
 | Translation | Greek |

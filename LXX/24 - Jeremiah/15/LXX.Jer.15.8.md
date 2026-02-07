@@ -1,10 +1,7 @@
 **LXX Jeremiah 15:8** 
 <small><sub>**LXX:**</sub></small>
 Their widows were multiplied above the sand of the sea; I brought young men against \[the\] mother, misery in midday. I cast upon her sudden trembling and anxiety. 
-<small><sub>**KJV:**</sub></small>
-Their widows are increased to me above the sand of the seas: I have brought upon them against the mother of the young men a spoiler at noonday: I have caused [him] to fall upon it suddenly, and terrors upon the city.
-<small><sub>**BSB:**</sub></small>
-I will make their widows more numerous than the sand of the sea. I will bring a destroyer at noon against the mothers of young men. I will suddenly bring upon them anguish and dismay.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.7|<< Jeremiah 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.9|Jeremiah 15:9 >>]]</td></tr></table>
 
 | Translation | Greek |

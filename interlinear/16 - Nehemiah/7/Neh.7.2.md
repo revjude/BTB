@@ -1,4 +1,4 @@
-**Nehemiah 7:2** 
+**Nehemiah 7:2**<big><big>[[Neh.7.1 Securing the City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I gave my brother Hanani, and Hananiah the ruler of the palace, charge over Jerusalem: for he [was] a faithful man, and feared God above many.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I put my brother Hanani in charge of Jerusalem, along with Hananiah the com
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.1|<< Nehemiah 7:1]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.3|Nehemiah 7:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I appointed  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6680\|אֲצַוֶּ֞ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.tza.Veh<small><sup>[[HVpw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

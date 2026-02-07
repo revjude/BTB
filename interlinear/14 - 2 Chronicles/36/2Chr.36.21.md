@@ -1,4 +1,4 @@
-**2 Chronicles 36:21** 
+**2 Chronicles 36:21**<big><big>[[2Chr.36.15 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: [for] as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the land enjoyed its Sabbath rest all the days of the desolation, until seven
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.20|<< 2 Chronicles 36:20]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.22|2 Chronicles 36:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to fulfill  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4390\|מַלֹּ֤אות]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.Lot<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] word of  |**<big>&#8207;[[H1697G\|דְּבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

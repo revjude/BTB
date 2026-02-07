@@ -1,10 +1,7 @@
 **LXX Exodus 29:34** 
 <small><sub>**LXX:**</sub></small>
 And if \[anything\] should be left behind from the meats of the sacrifice of the consecration, and of the bread loaves, until morning, you shall incinerate the remainder with fire; it shall not be eaten, for it is sanctified. 
-<small><sub>**KJV:**</sub></small>
-And if ought of the flesh of the consecrations, or of the bread, remain unto the morning, then thou shalt burn the remainder with fire: it shall not be eaten, because it [is] holy.
-<small><sub>**BSB:**</sub></small>
-And if any of the meat of ordination or any bread is left until the morning, you are to burn up the remainder. It must not be eaten, because it is sacred.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.33|<< Exodus 29:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.35|Exodus 29:35 >>]]</td></tr></table>
 
 | Translation | Greek |

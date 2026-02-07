@@ -1,10 +1,7 @@
 **LXX Malachi 3:13** 
 <small><sub>**LXX:**</sub></small>
 You weighed down against me  by your words, says \[the\] <span class="smallcaps">lord</span>. And you said, We spoke ill against you in what? 
-<small><sub>**KJV:**</sub></small>
-Your words have been stout against me, saith the LORD. Yet ye say, What have we spoken [so much] against thee?
-<small><sub>**BSB:**</sub></small>
-“Your words against Me have been harsh,” says the LORD. “Yet you ask, ‘What have we spoken against You?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.12|<< Malachi 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.14|Malachi 3:14 >>]]</td></tr></table>
 
 | Translation | Greek |

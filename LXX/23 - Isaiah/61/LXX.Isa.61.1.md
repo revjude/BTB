@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Spirit of \[the\] <span class="smallcaps">lord</span> \[is\] upon me,  because he anointed me to announce good news to \[the\] poor. He has sent me to heal the ones being broken in the heart; to proclaim a release to captives, and recovery of sight to \[the\] blind; 
-<small><sub>**KJV:**</sub></small>
-The Spirit of the Lord GOD [is] upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to [them that are] bound;
-<small><sub>**BSB:**</sub></small>
-The Spirit of the Lord GOD is on Me, because the LORD has anointed Me to preach good news to the poor. He has sent Me to bind up the brokenhearted, to proclaim liberty to the captives and freedom to the prisoners,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.61.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.22|<< Isaiah 60:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.61.2|Isaiah 61:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 61:1** is...

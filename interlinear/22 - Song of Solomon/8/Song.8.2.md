@@ -1,4 +1,4 @@
-**Song of Solomon 8:2** 
+**Song of Solomon 8:2**<big><big>[[Song.8.1 Longing for Her Beloved|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I would lead thee, [and] bring thee into my mother’s house, [who] would instruct me: I would cause thee to drink of spiced wine of the juice of my pomegranate.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I would lead you and bring you to the house of my mother who taught me. I would 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.1|<< Song of Solomon 8:1]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.3|Song of Solomon 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will lead you  |**<big>&#8207;[[H5090A\|אֶנְהָֽגֲ]]&#8207;&#8207;[[H9031\|ךָ֗]]&#8207; </big>**| 'en.ha.ga.<small><sup>[[HVqi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will bring you  |**<big>&#8207;[[H0935P\|אֲבִֽיאֲ]]&#8207;&#8207;[[H9031\|ךָ֛]]&#8207; </big>**| 'a.vi.'a.<small><sup>[[HVhi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

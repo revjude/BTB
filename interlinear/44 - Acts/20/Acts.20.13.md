@@ -1,12 +1,12 @@
-**Acts 20:13
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:13**<big><big>[[Acts.20.13 From Troas to Miletus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And we went before to ship, and sailed unto Assos, there intending to take in Paul: for so had he appointed, minding himself to go afoot.
 <small><sub>**BSB:**</sub></small>
 We went on ahead to the ship and sailed to Assos, where we were to take Paul aboard. He had arranged this because he was going there on foot.
 <small><sub>**Literal:**</sub></small>
 We ourselves however having gone ahead to the ship sailed to <the> Assos, there being about to take in <the> Paul; Thus for having arranged himself he was readying himself to go on foot.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.12|<< Acts 20:12]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.14|Acts 20:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

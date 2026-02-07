@@ -1,12 +1,12 @@
-**Revelation 5:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 5:5**<big><big>[[Rev.5.1 The Lamb Takes the Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.
 <small><sub>**BSB:**</sub></small>
 Then one of the elders said to me, “Do not weep! Behold, the Lion of the tribe of Judah, the Root of David, has triumphed to open the scroll and its seven seals.”
 <small><sub>**Literal:**</sub></small>
 And one of the elders says to me; Not do weep. Behold has overcome the Lion who is being of the tribe of Judah, the root of David, The [one]  to open the scroll and to untie the seven seals of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.4|<< Revelation 5:4]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.6|Revelation 5:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | one |**<big>[[G1520\|εἷς]]</big>**  |heis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

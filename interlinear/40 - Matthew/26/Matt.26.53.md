@@ -1,12 +1,12 @@
-**Matthew 26:53
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:53**<big><big>[[Matt.26.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thinkest thou that I cannot now pray to my Father, and he shall presently give me more than twelve legions of angels?
 <small><sub>**BSB:**</sub></small>
 Are you not aware that I can call on My Father, and He will at once put at My disposal more than twelve legions of angels?
 <small><sub>**Literal:**</sub></small>
 Or think you that not I am able to call upon the Father of Mine, and He will furnish to Me presently more than twelve legions of angels?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.52|<< Matthew 26:52]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.54|Matthew 26:54 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | think you |**<big>[[G1380\|δοκεῖς]]</big>**  |dokeis <small><sup>[[V-PAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

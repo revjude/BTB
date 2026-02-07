@@ -1,5 +1,5 @@
-**1 Timothy 5:19
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 5:19**<big><big>[[1Tim.5.17 Honoring Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Against an elder receive not an accusation, but before two or three witnesses.
 <small><sub>**BSB:**</sub></small>
 Do not entertain an accusation against an elder, except on the testimony of two or three witnesses.
@@ -10,7 +10,7 @@ Against an elder an accusation not do receive unless only except upon two or thr
 > $\quad$ referencing: [[LXX.Deut.19.15|Deut 19:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Against |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | an elder |**<big>[[G4245G\|πρεσβυτέρου]]</big>**  |presbuterou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

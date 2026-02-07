@@ -1,4 +1,4 @@
-**Proverbs 21:3** 
+**Proverbs 21:3**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To do justice and judgment [is] more acceptable to the LORD than sacrifice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ To do righteousness and justice is more desirable to the LORD than sacrifice.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.2|<< Proverbs 21:2]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.4|Proverbs 21:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to do  |**<big>&#8207;[[H6213A\|עֲ֭שֹׂה]]&#8207; </big>**| 'A.soh<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteousness  |**<big>&#8207;[[H6666\|צְדָקָ֣ה]]&#8207; </big>**| tze.da.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

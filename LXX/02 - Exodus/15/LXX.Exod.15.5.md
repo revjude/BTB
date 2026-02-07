@@ -1,10 +1,7 @@
 **LXX Exodus 15:5** 
 <small><sub>**LXX:**</sub></small>
 A high sea covered them; they descended unto \[the\] bottom of the sea as stone. 
-<small><sub>**KJV:**</sub></small>
-The depths have covered them: they sank into the bottom as a stone.
-<small><sub>**BSB:**</sub></small>
-The depths have covered them; they sank there like a stone.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.4|<< Exodus 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.6|Exodus 15:6 >>]]</td></tr></table>
 
 | Translation | Greek |

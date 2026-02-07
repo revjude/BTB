@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 10:5** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, Go until three days, and \[then\] come to me! And the people went forth. 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, Come again unto me after three days. And the people departed.
-<small><sub>**BSB:**</sub></small>
-Rehoboam answered, “Come back to me in three days.” So the people departed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.4|<< 2 Chronicles 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.6|2 Chronicles 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

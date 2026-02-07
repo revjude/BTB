@@ -1,10 +1,7 @@
 **LXX Psalm 95:4** 
 <small><sub>**LXX:**</sub></small>
 For in  his hand \[are\] the ends of the earth; and the heights of the mountains are his. 
-<small><sub>**KJV:**</sub></small>
-In his hand [are] the deep places of the earth: the strength of the hills [is] his also.
-<small><sub>**BSB:**</sub></small>
-In His hand are the depths of the earth, and the mountain peaks belong to Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.95.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.95.3|<< Psalm 95:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.95.5|Psalm 95:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 22:2** 
 <small><sub>**LXX:**</sub></small>
 Speak to Aaron and \[to\] his sons! And let them take heed concerning the holy \[things\] of the sons of Israel! and they shall not profane  my holy name, as much as they sanctify to me. I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name [in those things] which they hallow unto me: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-“Tell Aaron and his sons to treat with respect the sacred offerings that the Israelites have consecrated to Me, so that they do not profane My holy name. I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.22.1|<< Leviticus 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.22.3|Leviticus 22:3 >>]]</td></tr></table>
 
 | Translation | Greek |

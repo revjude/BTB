@@ -1,10 +1,7 @@
 **LXX Hosea 10:14** 
 <small><sub>**LXX:**</sub></small>
 And destruction shall rise up among  your people, and all  your \[places\] being walled around shall be undone. As \[the\] ruler Shalman \[departed\] out of the house of Jeroboam in \[the\] days of battle, they dashed \[the\] mother upon children; 
-<small><sub>**KJV:**</sub></small>
-Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Betharbel in the day of battle: the mother was dashed in pieces upon [her] children.
-<small><sub>**BSB:**</sub></small>
-the roar of battle will rise against your people, so that all your fortresses will be demolished as Shalman devastated Beth-arbel in the day of battle, when mothers were dashed to pieces along with their children.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.10.13|<< Hosea 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.10.15|Hosea 10:15 >>]]</td></tr></table>
 
 | Translation | Greek |

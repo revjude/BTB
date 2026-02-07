@@ -1,10 +1,7 @@
 **LXX Psalm 94:12** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[is\] a man whom ever you should correct, O <span class="smallcaps">lord</span>, and from out of  your law you should teach him; 
-<small><sub>**KJV:**</sub></small>
-Blessed [is] the man whom thou chastenest, O LORD, and teachest him out of thy law;
-<small><sub>**BSB:**</sub></small>
-Blessed is the man You discipline, O LORD, and teach from Your law,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.94.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.94.11|<< Psalm 94:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.94.13|Psalm 94:13 >>]]</td></tr></table>
 
 | Translation | Greek |

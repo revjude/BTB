@@ -1,10 +1,7 @@
 **LXX Numbers 31:19** 
 <small><sub>**LXX:**</sub></small>
 And you camp outside the camp seven days, every one  doing away with a soul! And all  having touched the one being pierced shall be purified in the third day, and in the seventh day you and  your captivity. 
-<small><sub>**KJV:**</sub></small>
-And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify [both] yourselves and your captives on the third day, and on the seventh day.
-<small><sub>**BSB:**</sub></small>
-All of you who have killed a person or touched the dead are to remain outside the camp for seven days. On the third day and the seventh day you are to purify both yourselves and your captives.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.18|<< Numbers 31:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.20|Numbers 31:20 >>]]</td></tr></table>
 
 | Translation | Greek |

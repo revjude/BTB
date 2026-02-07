@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:44** 
 <small><sub>**LXX:**</sub></small>
 And  to Azel \[were\] six sons, and these \[are\]  their names -- Azrikam his first-born, and Ishmael, and Sheariah, and Obadiah, and Hanan. These \[are the\] sons of Azel. 
-<small><sub>**KJV:**</sub></small>
-And Azel had six sons, whose names [are] these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these [were] the sons of Azel.
-<small><sub>**BSB:**</sub></small>
-And Azel had six sons, and these were their names: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. These were the sons of Azel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.43|<< 1 Chronicles 9:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.10.1|1 Chronicles 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 25:7** 
 <small><sub>**LXX:**</sub></small>
 But if the man does not want to take the wife  of his brother; then the woman shall ascend unto the gate to the council of elders, and shall say, The brother of my husband does not want to raise up the name  of his brother in Israel -- the brother of my husband does not want to. 
-<small><sub>**KJV:**</sub></small>
-And if the man like not to take his brother’s wife, then let his brother’s wife go up to the gate unto the elders, and say, My husband’s brother refuseth to raise up unto his brother a name in Israel, he will not perform the duty of my husband’s brother.
-<small><sub>**BSB:**</sub></small>
-But if the man does not want to marry his brother’s widow, she is to go to the elders at the city gate and say, “My husband’s brother refuses to preserve his brother’s name in Israel. He is not willing to perform the duty of a brother-in-law for me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.25.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.6|<< Deuteronomy 25:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.8|Deuteronomy 25:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 5:15** (5:29)
+**1 Kings 5:15**<big><big>[[1Kgs.5.13 Solomon’s Labor Force|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon had threescore and ten thousand that bare burdens, and fourscore thousand hewers in the mountains;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Solomon had 70,000 porters and 80,000 stonecutters in the mountains,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.14|<< 1 Kings 5:14]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.16|1 Kings 5:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it belonged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֧י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Solomon  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8010\|שְׁלֹמֹ֛ה]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

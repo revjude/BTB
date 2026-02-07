@@ -1,10 +1,7 @@
 **LXX Joshua 3:3** 
 <small><sub>**LXX:**</sub></small>
 And they gave charge to the people, saying, Whenever you should behold the ark of the covenant of \[the\] <span class="smallcaps">lord</span>  our God, and the priests, and the Levites lifting it, that you shall depart from  your place and go after it! 
-<small><sub>**KJV:**</sub></small>
-And they commanded the people, saying, When ye see the ark of the covenant of the LORD your God, and the priests the Levites bearing it, then ye shall remove from your place, and go after it.
-<small><sub>**BSB:**</sub></small>
-and commanded the people: “When you see the ark of the covenant of the LORD your God being carried by the Levitical priests, you are to set out from your positions and follow it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.2|<< Joshua 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.4|Joshua 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

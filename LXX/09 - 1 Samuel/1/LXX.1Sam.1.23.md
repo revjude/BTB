@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:23** 
 <small><sub>**LXX:**</sub></small>
 And Elkanah her husband said to her, You do the good \[thing\] in your eyes, sit until whenever you should wean it! Only may \[the\] <span class="smallcaps">lord</span> establish the \[thing\] coming forth from out of  your mouth. And the woman sat, and nursed  her son until whenever she weaned him. 
-<small><sub>**KJV:**</sub></small>
-And Elkanah her husband said unto her, Do what seemeth thee good; tarry until thou have weaned him; only the LORD establish his word. So the woman abode, and gave her son suck until she weaned him.
-<small><sub>**BSB:**</sub></small>
-“Do what you think is best,” her husband Elkanah replied, “and stay here until you have weaned him. Only may the LORD confirm His word.” So Hannah stayed and nursed her son until she had weaned him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.22|<< 1 Samuel 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.24|1 Samuel 1:24 >>]]</td></tr></table>
 
 | Translation | Greek |

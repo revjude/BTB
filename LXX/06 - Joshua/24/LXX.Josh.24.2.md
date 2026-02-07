@@ -1,10 +1,7 @@
 **LXX Joshua 24:2** 
 <small><sub>**LXX:**</sub></small>
 And Joshua said to all the people, Thus says \[the\] <span class="smallcaps">lord</span>  God of Israel, On the other side of the river your fathers dwelled from the beginning -- Terah the father of Abraham, and the father of Nachor; and they served other gods. 
-<small><sub>**KJV:**</sub></small>
-And Joshua said unto all the people, Thus saith the LORD God of Israel, Your fathers dwelt on the other side of the flood in old time, [even] Terah, the father of Abraham, and the father of Nachor: and they served other gods.
-<small><sub>**BSB:**</sub></small>
-And Joshua said to all the people, “This is what the LORD, the God of Israel, says: ‘Long ago your fathers, including Terah the father of Abraham and Nahor, lived beyond the Euphrates and worshiped other gods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.1|<< Joshua 24:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.3|Joshua 24:3 >>]]</td></tr></table>
 
 | Translation | Greek |

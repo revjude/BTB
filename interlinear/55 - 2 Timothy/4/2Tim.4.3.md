@@ -1,12 +1,12 @@
-**2 Timothy 4:3
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:3**<big><big>[[2Tim.4.1 Preach the Word|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;
 <small><sub>**BSB:**</sub></small>
 For the time will come when men will not tolerate sound doctrine, but with itching ears they will gather around themselves teachers to suit their own desires.
 <small><sub>**Literal:**</sub></small>
 There will be for a time when <the> sound teaching not they will endure, but according to <the> [their] own <the> desires to themselves they will gather around [them] teachers having an itching <the> ear;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.2|<< 2 Timothy 4:2]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.4|2 Timothy 4:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There will be |**<big>[[G1510\|ἔσται]]</big>**  |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

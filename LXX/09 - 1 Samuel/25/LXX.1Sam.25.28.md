@@ -1,10 +1,7 @@
 **LXX 1 Samuel 25:28** 
 <small><sub>**LXX:**</sub></small>
 Take away indeed the violation  of your maidservant! for in doing, \[the\] <span class="smallcaps">lord</span> shall make  a trustworthy house for my master, for the <span class="smallcaps">lord</span> shall wage \[the\] battle for my master, and evil shall not be found in you at any time. 
-<small><sub>**KJV:**</sub></small>
-I pray thee, forgive the trespass of thine handmaid: for the LORD will certainly make my lord a sure house; because my lord fighteth the battles of the LORD, and evil hath not been found in thee [all] thy days.
-<small><sub>**BSB:**</sub></small>
-Please forgive your servant’s offense, for the LORD will surely make a lasting dynasty for my lord, because he fights the LORD’s battles. May no evil be found in you as long as you live.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.25.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.25.27|<< 1 Samuel 25:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.25.29|1 Samuel 25:29 >>]]</td></tr></table>
 
 | Translation | Greek |

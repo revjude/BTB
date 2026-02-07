@@ -1,12 +1,12 @@
-**John 21:23
-**<small><sub>**KJV:**</sub></small>
+**John 21:23**<big><big>[[John.21.20 Jesus and the Beloved Disciple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what [is that] to thee?
 <small><sub>**BSB:**</sub></small>
 Because of this, the rumor spread among the brothers that this disciple would not die. However, Jesus did not say that he would not die, but only, “If I want him to remain until I return, what is that to you?”
 <small><sub>**Literal:**</sub></small>
 Went out therefore this <the> saying among the brothers that the disciple that not dies; and Not said however to him <the> Jesus that not he dies, but If him I shall desire to remain until I come, what [is it] to you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.22|<< John 21:22]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.24|John 21:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Went out |**<big>[[G1831\|Ἐξῆλθεν]]</big>**  |Exēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

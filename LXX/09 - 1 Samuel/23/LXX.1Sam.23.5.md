@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:5** 
 <small><sub>**LXX:**</sub></small>
 And David went, and the men, the ones with him, unto Keilah. And he waged war against the Philistines, and they fled from his face. And he took away  their cattle, and he struck them with a great beating. And David delivered the ones dwelling in Keilah. 
-<small><sub>**KJV:**</sub></small>
-So David and his men went to Keilah, and fought with the Philistines, and brought away their cattle, and smote them with a great slaughter. So David saved the inhabitants of Keilah.
-<small><sub>**BSB:**</sub></small>
-Then David and his men went to Keilah, fought against the Philistines, and carried off their livestock, striking them with a mighty blow. So David saved the people of Keilah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.4|<< 1 Samuel 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.6|1 Samuel 23:6 >>]]</td></tr></table>
 
 | Translation | Greek |

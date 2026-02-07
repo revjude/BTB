@@ -1,10 +1,7 @@
 **LXX Jeremiah 14:17** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them  this word, Lead down tears into your eyes day and night, and let them not stop! For by a great defeat \[the\] daughter of my people was defeated, even \[by\] an exceedingly grievous beating. 
-<small><sub>**KJV:**</sub></small>
-Therefore thou shalt say this word unto them; Let mine eyes run down with tears night and day, and let them not cease: for the virgin daughter of my people is broken with a great breach, with a very grievous blow.
-<small><sub>**BSB:**</sub></small>
-You are to speak this word to them: ‘My eyes overflow with tears; day and night they do not cease, for the virgin daughter of my people has been shattered by a crushing blow, a severely grievous wound.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.14.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.14.16|<< Jeremiah 14:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.14.18|Jeremiah 14:18 >>]]</td></tr></table>
 
 | Translation | Greek |

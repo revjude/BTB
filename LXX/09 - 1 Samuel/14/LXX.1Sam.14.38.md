@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:38** 
 <small><sub>**LXX:**</sub></small>
 And Saul said, Bring here all the corners  of Israel, and know and behold by whom this sin has taken place today! 
-<small><sub>**KJV:**</sub></small>
-And Saul said, Draw ye near hither, all the chief of the people: and know and see wherein this sin hath been this day.
-<small><sub>**BSB:**</sub></small>
-Therefore Saul said, “Come here, all you leaders of the troops, and let us investigate how this sin has occurred today.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.37|<< 1 Samuel 14:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.39|1 Samuel 14:39 >>]]</td></tr></table>
 
 | Translation | Greek |

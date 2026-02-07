@@ -1,10 +1,7 @@
 **LXX Ezra 8:10** 
 <small><sub>**LXX:**</sub></small>
 From the sons of Shelomith -- son of Josiphiah, and with him a hundred sixty  males. 
-<small><sub>**KJV:**</sub></small>
-And of the sons of Shelomith; the son of Josiphiah, and with him an hundred and threescore males.
-<small><sub>**BSB:**</sub></small>
-from the descendants of Bani, Shelomith son of Josiphiah, and with him 160 men;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.9|<< Ezra 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.11|Ezra 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

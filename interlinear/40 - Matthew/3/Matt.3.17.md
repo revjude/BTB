@@ -1,5 +1,5 @@
-**Matthew 3:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 3:17**<big><big>[[Matt.3.13 The Baptism of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.
 <small><sub>**BSB:**</sub></small>
 And a voice from heaven said, “This is My beloved Son, in whom I am well pleased!”
@@ -12,7 +12,7 @@ And behold a voice out of the heavens saying; This is the Son of Mine the belove
 > $\quad$ alluding to: [[LXX.Isa.42.1|Isa 42:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

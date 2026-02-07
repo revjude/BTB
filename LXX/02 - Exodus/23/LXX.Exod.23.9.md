@@ -1,10 +1,7 @@
 **LXX Exodus 23:9** 
 <small><sub>**LXX:**</sub></small>
 And a foreigner you shall not maltreat, nor in any way afflict. For you know the soul of the foreigner, for you yourselves were foreigners in \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-Also thou shalt not oppress a stranger: for ye know the heart of a stranger, seeing ye were strangers in the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-Do not oppress a foreign resident, since you yourselves know how it feels to be foreigners; for you were foreigners in the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.8|<< Exodus 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.10|Exodus 23:10 >>]]</td></tr></table>
 
 | Translation | Greek |

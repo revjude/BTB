@@ -1,10 +1,7 @@
 **LXX Judges 10:14** 
 <small><sub>**LXX:**</sub></small>
 Proceed and yell to the gods whom you chose for yourselves, and let them deliver you in \[the\] time of your affliction! 
-<small><sub>**KJV:**</sub></small>
-Go and cry unto the gods which ye have chosen; let them deliver you in the time of your tribulation.
-<small><sub>**BSB:**</sub></small>
-Go and cry out to the gods you have chosen. Let them save you in your time of trouble.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.10.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.13|<< Judges 10:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.15|Judges 10:15 >>]]</td></tr></table>
 
 | Translation | Greek |

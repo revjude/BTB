@@ -1,4 +1,4 @@
-**2 Chronicles 35:9** 
+**2 Chronicles 35:9**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Conaniah also, and Shemaiah and Nethaneel, his brethren, and Hashabiah and Jeiel and Jozabad, chief of the Levites, gave unto the Levites for passover offerings five thousand [small cattle], and five hundred oxen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Additionally, Conaniah and his brothers Shemaiah and Nethanel, as well as Hashab
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.8|<< 2 Chronicles 35:8]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.10|2 Chronicles 35:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Konaniah  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H3562\|כָֽנַנְיָהוּ]]&#8207; </big>**[^1] [^2] | ve.<small><sup>[[HC]]</sup></small> kha.v.nan.ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | and Shemaiah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8098M\|שְׁמַֽעְיָ֨הוּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.ma'.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

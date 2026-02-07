@@ -1,12 +1,12 @@
-**1 Timothy 1:14
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 1:14**<big><big>[[1Tim.1.12 God’s Grace to Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 And the grace of our Lord overflowed to me, along with the faith and love that are in Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 Surpassingly increased then the grace of the Lord of us with [the] faith and love that [are] in Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.13|<< 1 Timothy 1:13]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.15|1 Timothy 1:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surpassingly increased |**<big>[[G5250\|ὑπερεπλεόνασεν]]</big>**  |huperepleonasen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

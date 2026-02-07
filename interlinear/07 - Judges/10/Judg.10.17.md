@@ -1,4 +1,4 @@
-**Judges 10:17** 
+**Judges 10:17**<big><big>[[Judg.10.6 Oppression by the Philistines and Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the children of Ammon were gathered together, and encamped in Gilead. And the children of Israel assembled themselves together, and encamped in Mizpeh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Ammonites were called to arms and camped in Gilead, and the Israelites 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.16|<< Judges 10:16]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.18|Judges 10:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were summoned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6817\|יִּצָּֽעֲקוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.tza.'a.Ku<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 14:19** 
 <small><sub>**LXX:**</sub></small>
 Dismiss the sin  of this people according to  your great mercy, just as kindness happened to them from Egypt until the present. 
-<small><sub>**KJV:**</sub></small>
-Pardon, I beseech thee, the iniquity of this people according unto the greatness of thy mercy, and as thou hast forgiven this people, from Egypt even until now.
-<small><sub>**BSB:**</sub></small>
-Pardon, I pray, the iniquity of this people, in keeping with the greatness of Your loving devotion, just as You have forgiven them ever since they left Egypt.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.18|<< Numbers 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.20|Numbers 14:20 >>]]</td></tr></table>
 
 | Translation | Greek |

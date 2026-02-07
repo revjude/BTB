@@ -1,10 +1,7 @@
 **LXX Joshua 21:45** 
 <small><sub>**LXX:**</sub></small>
 Not a word failed from all of the good words which \[the\] <span class="smallcaps">lord</span> spoke to the sons of Israel; all came \[to pass\]. 
-<small><sub>**KJV:**</sub></small>
-There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass.
-<small><sub>**BSB:**</sub></small>
-Not one of all the LORD’s good promises to the house of Israel had failed; everything was fulfilled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.44|<< Joshua 21:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.1|Joshua 22:1 >>]]</td></tr></table>
 
 | Translation | Greek |

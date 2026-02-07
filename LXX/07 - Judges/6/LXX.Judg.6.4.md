@@ -1,10 +1,7 @@
 **LXX Judges 6:4** 
 <small><sub>**LXX:**</sub></small>
 And they camped by them, and they ruined the resources of the land unto the coming unto Gaza. And there was not left behind support for life in Israel, even \[for the\] flock, and calf, and donkey. 
-<small><sub>**KJV:**</sub></small>
-And they encamped against them, and destroyed the increase of the earth, till thou come unto Gaza, and left no sustenance for Israel, neither sheep, nor ox, nor ass.
-<small><sub>**BSB:**</sub></small>
-encamping against them as far as Gaza and destroying the produce of the land. They left Israel with no sustenance, neither sheep nor oxen nor donkeys.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.3|<< Judges 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.5|Judges 6:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Judges 6:4** is...

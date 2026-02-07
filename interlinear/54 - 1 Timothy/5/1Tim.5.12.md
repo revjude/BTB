@@ -1,12 +1,12 @@
-**1 Timothy 5:12
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 5:12**<big><big>[[1Tim.5.3 Honoring True Widows|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having damnation, because they have cast off their first faith.
 <small><sub>**BSB:**</sub></small>
 and thus will incur judgment because they are setting aside their first faith.
 <small><sub>**Literal:**</sub></small>
 incurring judgment because the first faith they have cast off;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.11|<< 1 Timothy 5:11]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.13|1 Timothy 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | incurring |**<big>[[G2192\|ἔχουσαι]]</big>**  |echousai <small><sup>[[V-PAP-NPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | judgment |**<big>[[G2917\|κρίμα,]]</big>**  |krima <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Micah 6:14** 
 <small><sub>**LXX:**</sub></small>
 You shall eat, and in no way be filled up. And I shall banish you to yourself, and you shall be forsaken, and in no way should you be preserved; and as many as should be preserved shall be delivered up unto \[the\] broadsword. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt eat, but not be satisfied; and thy casting down [shall be] in the midst of thee; and thou shalt take hold, but shalt not deliver; and [that] which thou deliverest will I give up to the sword.
-<small><sub>**BSB:**</sub></small>
-You will eat but not be satisfied, and your hunger will remain with you. What you acquire, you will not preserve; and what you save, I will give to the sword.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.13|<< Micah 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.15|Micah 6:15 >>]]</td></tr></table>
 
 | Translation | Greek |

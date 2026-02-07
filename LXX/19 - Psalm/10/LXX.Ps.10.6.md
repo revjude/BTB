@@ -1,10 +1,7 @@
 **LXX Psalm 10:6** 
 <small><sub>**LXX:**</sub></small>
 For he said in his heart, In no way should I be shaken from generation to generation; \[I shall exist\] without bad \[happening\]; 
-<small><sub>**KJV:**</sub></small>
-He hath said in his heart, I shall not be moved: for [I shall] never [be] in adversity.
-<small><sub>**BSB:**</sub></small>
-He says to himself, “I will not be moved; from age to age I am free of distress.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.10.5|<< Psalm 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.10.7|Psalm 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

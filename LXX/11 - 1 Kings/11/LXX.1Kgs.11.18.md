@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:18** 
 <small><sub>**LXX:**</sub></small>
 And they rose up out of Midian, and came into Paran. And they took men with themselves, and they came to Pharaoh king of Egypt. And Hadad entered to Pharaoh. And he gave to him a house, and ordered bread loaves for him, and gave land to him. 
-<small><sub>**KJV:**</sub></small>
-And they arose out of Midian, and came to Paran: and they took men with them out of Paran, and they came to Egypt, unto Pharaoh king of Egypt; which gave him an house, and appointed him victuals, and gave him land.
-<small><sub>**BSB:**</sub></small>
-Hadad and his men set out from Midian and went to Paran. They took men from Paran with them and went to Egypt, to Pharaoh king of Egypt, who gave Hadad a house and land and provided him with food.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.17|<< 1 Kings 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.19|1 Kings 11:19 >>]]</td></tr></table>
 
 | Translation | Greek |

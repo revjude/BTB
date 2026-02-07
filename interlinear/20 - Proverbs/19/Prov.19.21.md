@@ -1,4 +1,4 @@
-**Proverbs 19:21** 
+**Proverbs 19:21**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There are] many devices in a man’s heart; nevertheless the counsel of the LORD, that shall stand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Many plans are in a man’s heart, but the purpose of the LORD will prevail.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.20|<< Proverbs 19:20]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.22|Proverbs 19:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | many  |**<big>&#8207;[[H7227A\|רַבּ֣וֹת]]&#8207; </big>**| ra.Bot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | plans  |**<big>&#8207;[[H4284\|מַחֲשָׁב֣וֹת]]&#8207; </big>**| ma.cha.sha.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

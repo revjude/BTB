@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:31** 
 <small><sub>**LXX:**</sub></small>
 And you \[are\] my sheep; even sheep of my pasture -- you are men, and I \[am\] \[the\] <span class="smallcaps">lord</span>  your God, says \[the\] Lord \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And ye my flock, the flock of my pasture, [are] men, [and] I [am] your God, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-‘You are My flock, the sheep of My pasture, My people, and I am your God,’ declares the Lord GOD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.30|<< Ezekiel 34:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.35.1|Ezekiel 35:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The year that Tartan entered unto Ashdod, when he was sent by Sargon king of \[the\] Assyrians, and he waged war \[against\] Ashdod, and overtook it, 
-<small><sub>**KJV:**</sub></small>
-In the year that Tartan came unto Ashdod, (when Sargon the king of Assyria sent him,) and fought against Ashdod, and took it;
-<small><sub>**BSB:**</sub></small>
-Before the year that the chief commander, sent by Sargon king of Assyria, came to Ashdod and attacked and captured it,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.20.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.25|<< Isaiah 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.20.2|Isaiah 20:2 >>]]</td></tr></table>
 
 | Translation | Greek |

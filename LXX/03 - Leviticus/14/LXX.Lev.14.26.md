@@ -1,10 +1,7 @@
 **LXX Leviticus 14:26** 
 <small><sub>**LXX:**</sub></small>
 And of the olive oil the priest shall pour upon  his hand -- the left. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall pour of the oil into the palm of his own left hand:
-<small><sub>**BSB:**</sub></small>
-Then the priest is to pour some of the oil into his left palm<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.25|<< Leviticus 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.27|Leviticus 14:27 >>]]</td></tr></table>
 
 | Translation | Greek |

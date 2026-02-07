@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:39** 
 <small><sub>**LXX:**</sub></small>
 And  his brother Asaph, the one standing at his right. Asaph son of Berachiah, son of Shimea, 
-<small><sub>**KJV:**</sub></small>
-And his brother Asaph, who stood on his right hand, [even] Asaph the son of Berachiah, the son of Shimea,
-<small><sub>**BSB:**</sub></small>
-Heman’s kinsman was Asaph, who served at his right hand: Asaph the son of Berechiah, the son of Shimea,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.38|<< 1 Chronicles 6:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.40|1 Chronicles 6:40 >>]]</td></tr></table>
 
 | Translation | Greek |

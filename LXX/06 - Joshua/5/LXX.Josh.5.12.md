@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 On  this day the manna failed, on the next day after  their eating from the grain of the land, and no longer manna existed to the sons of Israel. And they gathered fruit \[of\] the place of the Phoenicians in  that year. 
-<small><sub>**KJV:**</sub></small>
-And the manna ceased on the morrow after they had eaten of the old corn of the land; neither had the children of Israel manna any more; but they did eat of the fruit of the land of Canaan that year.
-<small><sub>**BSB:**</sub></small>
-And the day after they had eaten from the produce of the land, the manna ceased. There was no more manna for the Israelites, so that year they began to eat the crops of the land of Canaan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.11|<< Joshua 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.13|Joshua 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

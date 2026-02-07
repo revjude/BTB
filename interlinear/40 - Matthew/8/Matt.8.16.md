@@ -1,12 +1,12 @@
-**Matthew 8:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:16**<big><big>[[Matt.8.14 Jesus Heals at Peter’s House|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with [his] word, and healed all that were sick:
 <small><sub>**BSB:**</sub></small>
 When evening came, many who were demon-possessed were brought to Jesus, and He drove out the spirits with a word and healed all the sick.
 <small><sub>**Literal:**</sub></small>
 When evening now having come they brought to Him being demonised many, and He cast out the spirits by a word, and all those sick being He healed,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.15|<< Matthew 8:15]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.17|Matthew 8:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When evening |**<big>[[G3798\|Ὀψίας]]</big>**  |Opsias <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

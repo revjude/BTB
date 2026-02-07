@@ -1,4 +1,4 @@
-**1 Samuel 28:25** 
+**1 Samuel 28:25**<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she brought [it] before Saul, and before his servants; and they did eat. Then they rose up, and went away that night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She served it to Saul and his servants, and they ate. And that night they got up
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.24|<< 1 Samuel 28:24]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.1|1 Samuel 29:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she brought [them] near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5066H\|תַּגֵּ֧שׁ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Gesh<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

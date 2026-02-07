@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:34** 
 <small><sub>**LXX:**</sub></small>
 And in  your hands was found blood of innocent souls. I found them not in ditches, but upon every oak. 
-<small><sub>**KJV:**</sub></small>
-Also in thy skirts is found the blood of the souls of the poor innocents: I have not found it by secret search, but upon all these.
-<small><sub>**BSB:**</sub></small>
-Moreover, your skirts are stained with the blood of the innocent poor, though you did not find them breaking in. But in spite of all these things<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.33|<< Jeremiah 2:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.35|Jeremiah 2:35 >>]]</td></tr></table>
 
 | Translation | Greek |

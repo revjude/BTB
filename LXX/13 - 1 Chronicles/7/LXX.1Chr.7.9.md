@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:9** 
 <small><sub>**LXX:**</sub></small>
 And  their genealogy according to their generations, rulers of \[the\] houses of their families, mighty ones of strength -- twenty thousand and two hundred. 
-<small><sub>**KJV:**</sub></small>
-And the number of them, after their genealogy by their generations, heads of the house of their fathers, mighty men of valour, [was] twenty thousand and two hundred.
-<small><sub>**BSB:**</sub></small>
-Their genealogies were recorded according to the heads of their families—20,200 mighty men of valor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.8|<< 1 Chronicles 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.10|1 Chronicles 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

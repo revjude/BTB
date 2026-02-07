@@ -1,12 +1,12 @@
-**Luke 24:52
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:52**<big><big>[[Luke.24.50 The Ascension|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they worshipped him, and returned to Jerusalem with great joy:
 <small><sub>**BSB:**</sub></small>
 And they worshiped Him and returned to Jerusalem with great joy,
 <small><sub>**Literal:**</sub></small>
 And they themselves having worshiped Him returned to Jerusalem with joy great<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.51|<< Luke 24:51]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.53|Luke 24:53 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they themselves |**<big>[[G0846\|αὐτοὶ]]</big>**  |autoi <small><sup>[[P-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

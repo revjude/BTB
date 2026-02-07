@@ -1,10 +1,7 @@
 **LXX Isaiah 41:8** 
 <small><sub>**LXX:**</sub></small>
 But you, O Israel my servant, Jacob whom I chose, seed of Abraham whom I loved; 
-<small><sub>**KJV:**</sub></small>
-But thou, Israel, [art] my servant, Jacob whom I have chosen, the seed of Abraham my friend.
-<small><sub>**BSB:**</sub></small>
-“But you, O Israel, My servant, Jacob, whom I have chosen, descendant of Abraham My friend—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.7|<< Isaiah 41:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.9|Isaiah 41:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 41:8** is...

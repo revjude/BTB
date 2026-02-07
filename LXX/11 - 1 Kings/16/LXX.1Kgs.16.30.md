@@ -1,10 +1,7 @@
 **LXX 1 Kings 16:30** 
 <small><sub>**LXX:**</sub></small>
 And Ahab did the wicked \[thing\] before \[the\] <span class="smallcaps">lord</span>, and he was wicked above all the \[ones\] prior of him. 
-<small><sub>**KJV:**</sub></small>
-And Ahab the son of Omri did evil in the sight of the LORD above all that [were] before him.
-<small><sub>**BSB:**</sub></small>
-However, Ahab son of Omri did evil in the sight of the LORD, more than all who were before him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.16.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.16.29|<< 1 Kings 16:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.31|1 Kings 16:31 >>]]</td></tr></table>
 
 | Translation | Greek |

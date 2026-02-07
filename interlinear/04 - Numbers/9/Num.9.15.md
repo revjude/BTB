@@ -1,4 +1,4 @@
-**Numbers 9:15** 
+**Numbers 9:15**<big><big>[[Num.9.15 The Cloud above the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the day that the tabernacle was reared up the cloud covered the tabernacle, [namely], the tent of the testimony: and at even there was upon the tabernacle as it were the appearance of fire, until the morning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the day that the tabernacle, the Tent of the Testimony, was set up, the cloud
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.14|<< Numbers 9:14]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.16|Numbers 9:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on [the] day  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3117G\|יוֹם֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | set up  |**<big>&#8207;[[H6965I\|הָקִ֣ים]]&#8207; </big>**| ha.Kim<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Zechariah 2:12** (2:16)
+**Zechariah 2:12**<big><big>[[Zech.2.6 The Redemption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall inherit Judah his portion in the holy land, and shall choose Jerusalem again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the LORD will take possession of Judah as His portion in the Holy Land, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.11|<< Zechariah 2:11]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.13|Zechariah 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will inherit  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5157\|נָחַ֨ל]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Chal<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

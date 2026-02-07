@@ -1,4 +1,4 @@
-**1 Kings 12:1** 
+**1 Kings 12:1**<big><big>[[1Kgs.12.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Rehoboam went to Shechem, for all Israel had gone there to make him king.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.43|<< 1 Kings 11:43]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.2|1 Kings 12:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֥לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rehoboam  |**<big>&#8207;[[H7346\|רְחַבְעָ֖ם]]&#8207; </big>**| re.chav.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

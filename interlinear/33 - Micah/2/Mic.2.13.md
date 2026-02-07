@@ -1,4 +1,4 @@
-**Micah 2:13** 
+**Micah 2:13**<big><big>[[Mic.2.12 The Remnant of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the LORD on the head of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One who breaks open the way will go up before them; they will break through the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.12|<< Micah 2:12]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.3.1|Micah 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will go up  |**<big>&#8207;[[H5927G\|עָלָ֤ה]]&#8207; </big>**| 'a.Lah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the [one who] breaks through  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6555\|פֹּרֵץ֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> po.Retz<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

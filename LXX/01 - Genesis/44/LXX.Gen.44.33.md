@@ -1,10 +1,7 @@
 **LXX Genesis 44:33** 
 <small><sub>**LXX:**</sub></small>
 Now then, I will remain to you \[as a\] servant instead of the child, \[as a\] domestic servant  of my master. But let the child ascend with  his brothers. 
-<small><sub>**KJV:**</sub></small>
-Now therefore, I pray thee, let thy servant abide instead of the lad a bondman to my lord; and let the lad go up with his brethren.
-<small><sub>**BSB:**</sub></small>
-Now please let your servant stay here as my lord’s slave in place of the boy. Let him return with his brothers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.32|<< Genesis 44:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.34|Genesis 44:34 >>]]</td></tr></table>
 
 | Translation | Greek |

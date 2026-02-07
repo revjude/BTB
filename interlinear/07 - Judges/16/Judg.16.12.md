@@ -1,4 +1,4 @@
-**Judges 16:12** 
+**Judges 16:12**<big><big>[[Judg.16.4 Samson and Delilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Delilah therefore took new ropes, and bound him therewith, and said unto him, The Philistines [be] upon thee, Samson. And [there were] liers in wait abiding in the chamber. And he brake them from off his arms like a thread.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Delilah took new ropes, tied him up with them, and called out, “Samson, the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.11|<< Judges 16:11]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.13|Judges 16:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|תִּקַּ֣ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Kach<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Delilah  |**<big>&#8207;[[H1807\|דְּלִילָה֩]]&#8207; </big>**| de.li.Lah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

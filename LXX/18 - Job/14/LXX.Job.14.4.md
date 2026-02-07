@@ -1,10 +1,7 @@
 **LXX Job 14:4** 
 <small><sub>**LXX:**</sub></small>
 For who will be clean from filth? but no one; 
-<small><sub>**KJV:**</sub></small>
-Who can bring a clean [thing] out of an unclean? not one.
-<small><sub>**BSB:**</sub></small>
-Who can bring out clean from unclean? No one!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.3|<< Job 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.5|Job 14:5 >>]]</td></tr></table>
 
 | Translation | Greek |

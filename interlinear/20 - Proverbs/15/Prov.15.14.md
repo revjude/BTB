@@ -1,4 +1,4 @@
-**Proverbs 15:14** 
+**Proverbs 15:14**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heart of him that hath understanding seeketh knowledge: but the mouth of fools feedeth on foolishness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A discerning heart seeks knowledge, but the mouth of a fool feeds on folly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.13|<< Proverbs 15:13]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.15|Proverbs 15:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a heart  |**<big>&#8207;[[H3820A\|לֵ֣ב]]&#8207; </big>**| lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | discerning  |**<big>&#8207;[[H0995\|נָ֭בוֹן]]&#8207; </big>**| Na.Von<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

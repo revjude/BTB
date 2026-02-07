@@ -1,4 +1,4 @@
-**Jeremiah 15:16** 
+**Jeremiah 15:16**<big><big>[[Jer.15.10 Jeremiah’s Woe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy words were found, and I did eat them; and thy word was unto me the joy and rejoicing of mine heart: for I am called by thy name, O LORD God of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your words were found, and I ate them. Your words became my joy and my heart’s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.15|<< Jeremiah 15:15]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.17|Jeremiah 15:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they were found  |**<big>&#8207;[[H4672\|נִמְצְא֤וּ]]&#8207; </big>**| nim.tze.'U<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | words your  |**<big>&#8207;[[H1697G\|דְבָרֶ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| de.va.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

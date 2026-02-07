@@ -1,10 +1,7 @@
 **LXX Exodus 23:11** 
 <small><sub>**LXX:**</sub></small>
 but on the seventh you shall make a release \[from work\], and spare it, and the poor of your nation shall eat; and the \[things\] being left behind of them the wild beasts shall eat of the field. Thus you shall do  with your vineyard, and  your olive grove. 
-<small><sub>**KJV:**</sub></small>
-But the seventh [year] thou shalt let it rest and lie still; that the poor of thy people may eat: and what they leave the beasts of the field shall eat. In like manner thou shalt deal with thy vineyard, [and] with thy oliveyard.
-<small><sub>**BSB:**</sub></small>
-but in the seventh year you must let it rest and lie fallow, so that the poor among your people may eat from the field and the wild animals may consume what they leave. Do the same with your vineyard and olive grove.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.10|<< Exodus 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.12|Exodus 23:12 >>]]</td></tr></table>
 
 | Translation | Greek |

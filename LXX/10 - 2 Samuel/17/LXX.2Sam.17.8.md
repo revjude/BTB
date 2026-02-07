@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:8** 
 <small><sub>**LXX:**</sub></small>
 And Hushai said, You know  your father, and  his men, that they are exceedingly mighty, and their soul \[is\] very bitter as a bear being made childless in the plain. And  your father a warrior man, and in no way shall he rest the people. 
-<small><sub>**KJV:**</sub></small>
-For, said Hushai, thou knowest thy father and his men, that they [be] mighty men, and they [be] chafed in their minds, as a bear robbed of her whelps in the field: and thy father [is] a man of war, and will not lodge with the people.
-<small><sub>**BSB:**</sub></small>
-He continued, “You know your father and his men. They are mighty men, and as fierce as a wild bear robbed of her cubs. Moreover, your father is a man of war who will not spend the night with the troops.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.7|<< 2 Samuel 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.9|2 Samuel 17:9 >>]]</td></tr></table>
 
 | Translation | Greek |

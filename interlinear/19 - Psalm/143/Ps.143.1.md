@@ -1,12 +1,12 @@
-**Psalms 143:1** 
+**Psalms 143:1**<big><big>[[Ps.143.1 I Stretch Out My Hands to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Psalm of David. Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, [and] in thy righteousness.
+Hear my prayer, O LORD, give ear to my supplications: in thy faithfulness answer me, [and] in thy righteousness.
 <small><sub>**BSB:**</sub></small>
 A Psalm of David. O LORD, hear my prayer. In Your faithfulness, give ear to my plea; in Your righteousness, answer me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.143.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.143.0|<< Psalms 143:0]]</td><td align="center" style="border:none;">[[Ps.143|Psalms 143]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.2|Psalms 143:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hear  |**<big>&#8207;[[H8085G\|שְׁמַ֬ע]]&#8207; </big>**| she.Ma'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

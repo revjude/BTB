@@ -1,10 +1,7 @@
 **LXX Psalm 106:9** 
 <small><sub>**LXX:**</sub></small>
 And he reproached the red sea, and it was dried up. And he guided them in \[the\] deep as in \[the\] wilderness. 
-<small><sub>**KJV:**</sub></small>
-He rebuked the Red sea also, and it was dried up: so he led them through the depths, as through the wilderness.
-<small><sub>**BSB:**</sub></small>
-He rebuked the Red Sea, and it dried up; He led them through the depths as through a desert.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.8|<< Psalm 106:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.10|Psalm 106:10 >>]]</td></tr></table>
 
 | Translation | Greek |

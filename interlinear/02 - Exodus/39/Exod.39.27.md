@@ -1,4 +1,4 @@
-**Exodus 39:27** 
+**Exodus 39:27**<big><big>[[Exod.39.22 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they made coats [of] fine linen [of] woven work for Aaron, and for his sons,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For Aaron and his sons they made tunics of fine linen, the work of a weaver,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.26|<< Exodus 39:26]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.28|Exodus 39:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they made  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H6213H\|יַּעֲשׂ֛וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Su<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

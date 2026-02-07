@@ -1,4 +1,4 @@
-**Deuteronomy 31:3** 
+**Deuteronomy 31:3**<big><big>[[Deut.31.1 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD thy God, he will go over before thee, [and] he will destroy these nations from before thee, and thou shalt possess them: [and] Joshua, he shall go over before thee, as the LORD hath said.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD your God Himself will cross over ahead of you. He will destroy these na
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.2|<< Deuteronomy 31:2]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.4|Deuteronomy 31:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God your  |**<big>&#8207;[[H0430G\|אֱלֹהֶ֜י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

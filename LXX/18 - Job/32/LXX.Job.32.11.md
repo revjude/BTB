@@ -1,10 +1,7 @@
 **LXX Job 32:11** 
 <small><sub>**LXX:**</sub></small>
 Give ear to my  sayings! for I will speak in your hearing, as far as of which \[time\] you should examine \[the\] words; 
-<small><sub>**KJV:**</sub></small>
-Behold, I waited for your words; I gave ear to your reasons, whilst ye searched out what to say.
-<small><sub>**BSB:**</sub></small>
-Indeed, I waited while you spoke; I listened to your reasoning; as you searched for words,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.32.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.32.10|<< Job 32:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.32.12|Job 32:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 10:16** 
 <small><sub>**LXX:**</sub></small>
 But \[the\] <span class="smallcaps">lord</span> of Hosts sends for  your honor -- dishonor; and for  your glory -- fire; by a burning it shall be burnt. 
-<small><sub>**KJV:**</sub></small>
-Therefore shall the Lord, the Lord of hosts, send among his fat ones leanness; and under his glory he shall kindle a burning like the burning of a fire.
-<small><sub>**BSB:**</sub></small>
-Therefore the Lord GOD of Hosts will send a wasting disease among Assyria’s stout warriors, and under his pomp will be kindled a fire like a burning flame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.15|<< Isaiah 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.17|Isaiah 10:17 >>]]</td></tr></table>
 
 | Translation | Greek |

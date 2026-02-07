@@ -1,4 +1,4 @@
-**Leviticus 26:8** 
+**Leviticus 26:8**<big><big>[[Lev.26.1 Additional Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And five of you shall chase an hundred, and an hundred of you shall put ten thousand to flight: and your enemies shall fall before you by the sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Five of you will pursue a hundred, and a hundred of you will pursue ten thousand
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.7|<< Leviticus 26:7]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.9|Leviticus 26:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will pursue  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7291\|רָדְפ֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> rad.Fu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of \<the> you  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9036\|כֶּ֤ם]]&#8207; </big>**| mi.<small><sup>[[HRd]]</sup></small> Kem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

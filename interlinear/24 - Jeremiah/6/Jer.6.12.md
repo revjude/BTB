@@ -1,4 +1,4 @@
-**Jeremiah 6:12** 
+**Jeremiah 6:12**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their houses shall be turned unto others, [with their] fields and wives together: for I will stretch out my hand upon the inhabitants of the land, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their houses will be turned over to others, their fields and wives as well, for 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.11|<< Jeremiah 6:11]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.13|Jeremiah 6:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be turned over  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5437J\|נָסַ֤בּוּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Sa.bu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | houses their  |**<big>&#8207;[[H1004B\|בָֽתֵּי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| va.tei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

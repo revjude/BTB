@@ -1,5 +1,5 @@
-**Acts 7:15
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:15**<big><big>[[Acts.7.15 Israel Oppressed in Egypt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So Jacob went down into Egypt, and died, he, and our fathers,
 <small><sub>**BSB:**</sub></small>
 So Jacob went down to Egypt, where he and our fathers died.
@@ -10,7 +10,7 @@ And went down now Jacob into Egypt and died he himself and the fathers of us<br>
 > $\quad$ referencing: [[LXX.Gen.49.33|Gen 49:33]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg">no</abbr> | |
 | went down |**<big>[[G2597\|κατέβη]]</big>**  |katebē <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

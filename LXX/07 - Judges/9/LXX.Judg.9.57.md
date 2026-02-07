@@ -1,10 +1,7 @@
 **LXX Judges 9:57** 
 <small><sub>**LXX:**</sub></small>
 And all the evil of \[the\] men of Shechem, God returned on  their \[own\] head. And came upon them the curse of Jotham the son of Jerubbaal. 
-<small><sub>**KJV:**</sub></small>
-And all the evil of the men of Shechem did God render upon their heads: and upon them came the curse of Jotham the son of Jerubbaal.
-<small><sub>**BSB:**</sub></small>
-And God also brought all the wickedness of the men of Shechem back upon their own heads. So the curse of Jotham son of Jerubbaal came upon them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.56|<< Judges 9:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.1|Judges 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 28:15** 
+**Job 28:15**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It cannot be gotten for gold, neither shall silver be weighed [for] the price thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It cannot be bought with gold, nor can its price be weighed out in silver.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.14|<< Job 28:14]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.16|Job 28:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be given  |**<big>&#8207;[[H5414G\|יֻתַּ֣ן]]&#8207; </big>**| yu.Tan<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

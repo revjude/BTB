@@ -1,4 +1,4 @@
-**Deuteronomy 5:8** 
+**Deuteronomy 5:8**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not make thee [any] graven image, [or] any likeness [of any thing] that [is] in heaven above, or that [is] in the earth beneath, or that [is] in the waters beneath the earth:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You shall not make for yourself an idol in the form of anything in the heavens a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.7|<< Deuteronomy 5:7]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.9|Deuteronomy 5:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽ֣א]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**[^1] | Lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |
 | you must make  |**<big>&#8207;[[H6213H\|תַעֲשֶׂ֥ה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**[^2] | ta.'a.Seh-<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 83:16** (83:17)
+**Psalms 83:16**<big><big>[[Ps.83.1 O God, Be Not Silent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fill their faces with shame; that they may seek thy name, O LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cover their faces with shame, that they may seek Your name, O LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.83.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.83.15|<< Psalms 83:15]]</td><td align="center" style="border:none;">[[Ps.83|Psalms 83]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.83.17|Psalms 83:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | fill  |**<big>&#8207;[[H4390\|מַלֵּ֣א]]&#8207; </big>**| ma.Le'<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | faces their  |**<big>&#8207;[[H6440H\|פְנֵי]]&#8207;&#8207;[[H9028\|הֶ֣ם]]&#8207; </big>**| fe.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

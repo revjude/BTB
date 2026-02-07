@@ -1,12 +1,12 @@
-**Matthew 5:44
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:44**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;
 <small><sub>**BSB:**</sub></small>
 But I tell you, love your enemies and pray for those who persecute you,
 <small><sub>**Literal:**</sub></small>
 I myself however say to you; do love the enemies of you do bless those cursing you well do  to those hating you and do pray for those mistreating you and persecuting you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.43|<< Matthew 5:43]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.45|Matthew 5:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

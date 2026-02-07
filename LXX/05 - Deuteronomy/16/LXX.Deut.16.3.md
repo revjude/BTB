@@ -1,10 +1,7 @@
 **LXX Deuteronomy 16:3** 
 <small><sub>**LXX:**</sub></small>
 You shall not eat it with yeast; seven days you shall eat it with unleavened \[breads\], bread of affliction; for in haste you came forth from out of Egypt at night; that you should remember the day  of your departure from out of \[the\] land of Egypt all the days  of your life. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt eat no leavened bread with it; seven days shalt thou eat unleavened bread therewith, [even] the bread of affliction; for thou camest forth out of the land of Egypt in haste: that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life.
-<small><sub>**BSB:**</sub></small>
-You must not eat leavened bread with it; for seven days you are to eat with it unleavened bread, the bread of affliction, because you left the land of Egypt in haste—so that you may remember for the rest of your life the day you left the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.16.2|<< Deuteronomy 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.16.4|Deuteronomy 16:4 >>]]</td></tr></table>
 
 | Translation | Greek |

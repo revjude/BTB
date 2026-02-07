@@ -1,4 +1,4 @@
-**Numbers 8:21** 
+**Numbers 8:21**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Levites were purified, and they washed their clothes; and Aaron offered them [as] an offering before the LORD; and Aaron made an atonement for them to cleanse them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Levites purified themselves and washed their clothes, and Aaron presented th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.20|<< Numbers 8:20]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.22|Numbers 8:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they purified themselves  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2398\|יִּֽתְחַטְּא֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.cha.te.'U<small><sup>[[HVtw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Levites  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לְוִיִּ֗ם]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> l.vi.Yim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

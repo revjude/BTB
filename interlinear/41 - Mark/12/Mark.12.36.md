@@ -1,5 +1,5 @@
-**Mark 12:36
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:36**<big><big>[[Mark.12.35 Whose Son Is the Christ？|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For David himself said by the Holy Ghost, The LORD said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.
 <small><sub>**BSB:**</sub></small>
 Speaking by the Holy Spirit, David himself declared: ‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’
@@ -10,7 +10,7 @@ Himself for David said by the Spirit <the> Holy: Said the Lord to the Lord of me
 > $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |

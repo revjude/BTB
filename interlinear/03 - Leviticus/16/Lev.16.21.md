@@ -1,4 +1,4 @@
-**Leviticus 16:21** 
+**Leviticus 16:21**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send [him] away by the hand of a fit man into the wilderness:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he is to lay both hands on the head of the live goat and confess over it al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.20|<< Leviticus 16:20]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.22|Leviticus 16:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will lean  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5564\|סָמַ֨ךְ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.Makh<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aaron  |**<big>&#8207;[[H0175\|אַהֲרֹ֜ן]]&#8207; </big>**| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

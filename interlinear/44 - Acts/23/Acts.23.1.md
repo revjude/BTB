@@ -1,12 +1,12 @@
-**Acts 23:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:1**<big><big>[[Acts.23.1 Paul before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Paul, earnestly beholding the council, said, Men [and] brethren, I have lived in all good conscience before God until this day.
 <small><sub>**BSB:**</sub></small>
 Paul looked directly at the Sanhedrin and said, “Brothers, I have conducted myself before God in all good conscience to this day.”
 <small><sub>**Literal:**</sub></small>
 Having looked intently then <the> Paul at the Council he said; Men brothers, I myself in all conscience good have lived as a citizen <the> to God unto this <the> day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.30|<< Acts 22:30]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.2|Acts 23:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having looked intently |**<big>[[G0816\|Ἀτενίσας]]</big>**  |Atenisas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

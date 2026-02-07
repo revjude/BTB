@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:18** 
 <small><sub>**LXX:**</sub></small>
 And a young man beheld them, and he reported \[to\] Absalom. And the two went quickly, and they entered into a house of a man in Bahurim, and unto his cistern in the courtyard, and they went down there. 
-<small><sub>**KJV:**</sub></small>
-Nevertheless a lad saw them, and told Absalom: but they went both of them away quickly, and came to a man’s house in Bahurim, which had a well in his court; whither they went down.
-<small><sub>**BSB:**</sub></small>
-But a young man did see them and told Absalom. So the two left quickly and came to the house of a man in Bahurim. He had a well in his courtyard, and they climbed down into it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.17|<< 2 Samuel 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.19|2 Samuel 17:19 >>]]</td></tr></table>
 
 | Translation | Greek |

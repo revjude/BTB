@@ -1,12 +1,12 @@
-**1 Peter 4:3
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 4:3**<big><big>[[1Pet.4.1 Living for God’s Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the time past of [our] life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:
 <small><sub>**BSB:**</sub></small>
 For you have spent enough time in the past carrying out the same desires as the Gentiles: living in debauchery, lust, drunkenness, orgies, carousing, and detestable idolatry.
 <small><sub>**Literal:**</sub></small>
 [Is] sufficient for to us the having past time <the> of life the desire of the Gentiles to have carried out having walked in sensuality, in lusts, in drunkenness, in orgies, in carousing, and in abominable idolatries;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.2|<< 1 Peter 4:2]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.4|1 Peter 4:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [Is] sufficient |**<big>[[G0713\|ἀρκετὸς]]</big>**  |arketos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Exodus 36:29** 
+**Exodus 36:29**<big><big>[[Exod.36.20 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they were coupled beneath, and coupled together at the head thereof, to one ring: thus he did to both of them in both the corners.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ coupled together from bottom to top and fitted into a single ring. He made both 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.28|<< Exodus 36:28]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.30|Exodus 36:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָי֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | twins  |**<big>&#8207;[[H8380\|תוֹאֲמִם֮]]&#8207; </big>**| to.'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

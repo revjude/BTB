@@ -1,4 +1,4 @@
-**Judges 13:17** 
+**Judges 13:17**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Manoah said unto the angel of the LORD, What [is] thy name, that when thy sayings come to pass we may do thee honour?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Manoah said to the angel of the LORD, “What is your name, so that we may 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.16|<< Judges 13:16]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.18|Judges 13:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֧אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Manoah  |**<big>&#8207;[[H4495\|מָנ֛וֹחַ]]&#8207; </big>**| ma.No.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

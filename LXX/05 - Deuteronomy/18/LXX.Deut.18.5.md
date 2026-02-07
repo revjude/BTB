@@ -1,10 +1,7 @@
 **LXX Deuteronomy 18:5** 
 <small><sub>**LXX:**</sub></small>
 for \[the\] <span class="smallcaps">lord</span> your God chose him from out of all  your tribes, to stand before \[the\] <span class="smallcaps">lord</span>  God, to officiate in the name of \[the\] <span class="smallcaps">lord</span>, he and  his sons all the days. 
-<small><sub>**KJV:**</sub></small>
-For the LORD thy God hath chosen him out of all thy tribes, to stand to minister in the name of the LORD, him and his sons for ever.
-<small><sub>**BSB:**</sub></small>
-For the LORD your God has chosen Levi and his sons out of all your tribes to stand and minister in His name for all time.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.18.4|<< Deuteronomy 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.6|Deuteronomy 18:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Corinthians 11:2
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:2**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered [them] to you.
 <small><sub>**BSB:**</sub></small>
 Now I commend you for remembering me in everything and for maintaining the traditions, just as I passed them on to you.
 <small><sub>**Literal:**</sub></small>
 I commend now you brothers that in all things me you have remembered, and even as I delivered to you the teachings you are keeping.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.1|<< 1 Corinthians 11:1]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.3|1 Corinthians 11:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I commend |**<big>[[G1867\|Ἐπαινῶ]]</big>**  |Epainō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

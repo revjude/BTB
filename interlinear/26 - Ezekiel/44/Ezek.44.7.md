@@ -1,4 +1,4 @@
-**Ezekiel 44:7** 
+**Ezekiel 44:7**<big><big>[[Ezek.44.6 Reproof of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that ye have brought [into my sanctuary] strangers, uncircumcised in heart, and uncircumcised in flesh, to be in my sanctuary, to pollute it, [even] my house, when ye offer my bread, the fat and the blood, and they have broken my covenant because of all your abominations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In addition to all your other abominations, you brought in foreigners uncircumci
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.6|<< Ezekiel 44:6]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.8|Ezekiel 44:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when brought you  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H0935P\|הֲבִיאֲ]]&#8207;&#8207;[[H9046\|כֶ֣ם]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> ha.vi.'a.<small><sup>[[HVhcc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sons of  |**<big>&#8207;[[H1121I\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

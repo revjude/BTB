@@ -1,12 +1,12 @@
-**John 14:20
-**<small><sub>**KJV:**</sub></small>
+**John 14:20**<big><big>[[John.14.15 Jesus Promises the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 At that day ye shall know that I [am] in my Father, and ye in me, and I in you.
 <small><sub>**BSB:**</sub></small>
 On that day you will know that I am in My Father, and you are in Me, and I am in you.
 <small><sub>**Literal:**</sub></small>
 In that [very] <the> day will know you yourselves that I myself [am] in the Father of Mine and you yourselves in Me myself and I myself in you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.19|<< John 14:19]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.21|John 14:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that [very] |**<big>[[G1565\|ἐκείνῃ]]</big>**  |ekeinē <small><sup>[[D-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

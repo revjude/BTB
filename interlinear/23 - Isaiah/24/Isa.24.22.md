@@ -1,4 +1,4 @@
-**Isaiah 24:22** 
+**Isaiah 24:22**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall be gathered together, [as] prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will be gathered together like prisoners in a pit. They will be confined to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.21|<< Isaiah 24:21]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.23|Isaiah 24:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be gathered  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0622\|אֻסְּפ֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'u.se.Fu<small><sup>[[HVPq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a gathering  |**<big>&#8207;[[H0626\|אֲסֵפָ֤ה]]&#8207; </big>**| 'a.se.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

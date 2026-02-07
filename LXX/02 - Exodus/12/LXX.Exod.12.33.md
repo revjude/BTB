@@ -1,10 +1,7 @@
 **LXX Exodus 12:33** 
 <small><sub>**LXX:**</sub></small>
 And the Egyptians constrained the people with diligence to cast them from the land; for they said that, We all shall die. 
-<small><sub>**KJV:**</sub></small>
-And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We [be] all dead [men].
-<small><sub>**BSB:**</sub></small>
-And in order to send them out of the land quickly, the Egyptians urged the people on. “For otherwise,” they said, “we are all going to die!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.32|<< Exodus 12:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.34|Exodus 12:34 >>]]</td></tr></table>
 
 | Translation | Greek |

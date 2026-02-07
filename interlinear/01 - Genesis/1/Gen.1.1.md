@@ -1,4 +1,4 @@
-**Genesis 1:1** 
+**Genesis 1:1**<big><big>[[Gen.1.1 The Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the beginning God created the heaven and the earth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ In the beginning God created the heavens and the earth.
 > $\quad$ referenced by: [[Heb.11.3|Heb 11:3]] ☩ [[2Pet.3.5|2Pet 3:5-6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in beginning  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7225G\|רֵאשִׁ֖ית]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> re.Shit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he created  |**<big>&#8207;[[H1254A\|בָּרָ֣א]]&#8207; </big>**| ba.Ra'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

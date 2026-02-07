@@ -1,4 +1,4 @@
-**Genesis 5:18** 
+**Genesis 5:18**<big><big>[[Gen.5.18 God Takes Up Enoch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jared lived an hundred sixty and two years, and he begat Enoch:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When Jared was 162 years old, he became the father of Enoch.
 > $\quad$ referenced by: [[Jude.1.14|Jude 1:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lived  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2421\|יְחִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.chi-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jared  |**<big>&#8207;[[H3382G\|יֶ֕רֶד]]&#8207; </big>**| Ye.red<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

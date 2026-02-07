@@ -1,10 +1,7 @@
 **LXX Psalm 107:28** 
 <small><sub>**LXX:**</sub></small>
 And they cry out to \[the\] <span class="smallcaps">lord</span> in  their being afflicted; and he leads them from out of their distresses. 
-<small><sub>**KJV:**</sub></small>
-Then they cry unto the LORD in their trouble, and he bringeth them out of their distresses.
-<small><sub>**BSB:**</sub></small>
-Then they cried out to the LORD in their trouble, and He brought them out of their distress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.107.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.107.27|<< Psalm 107:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.107.29|Psalm 107:29 >>]]</td></tr></table>
 
 | Translation | Greek |

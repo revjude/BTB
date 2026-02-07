@@ -1,4 +1,4 @@
-**Proverbs 29:9** 
+**Proverbs 29:9**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [If] a wise man contendeth with a foolish man, whether he rage or laugh, [there is] no rest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a wise man goes to court with a fool, there will be raving and laughing with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.8|<< Proverbs 29:8]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.10|Proverbs 29:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a person  |**<big>&#8207;[[H0376G\|אִֽישׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ish-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wise  |**<big>&#8207;[[H2450\|חָכָ֗ם]]&#8207; </big>**| cha.Kham<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

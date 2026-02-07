@@ -1,4 +1,4 @@
-**Genesis 27:6** 
+**Genesis 27:6**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rebekah spake unto Jacob her son, saying, Behold, I heard thy father speak unto Esau thy brother, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rebekah said to her son Jacob, “Behold, I overheard your father saying to your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.5|<< Genesis 27:5]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.7|Genesis 27:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Rebekah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7259\|רִבְקָה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> riv.Kah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she said  |**<big>&#8207;[[H0559\|אָֽמְרָ֔ה]]&#8207; </big>**| 'a.me.Rah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

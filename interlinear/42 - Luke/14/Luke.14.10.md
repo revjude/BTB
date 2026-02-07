@@ -1,12 +1,12 @@
-**Luke 14:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:10**<big><big>[[Luke.14.7 The Parable of the Guests|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when thou art bidden, go and sit down in the lowest room; that when he that bade thee cometh, he may say unto thee, Friend, go up higher: then shalt thou have worship in the presence of them that sit at meat with thee.
 <small><sub>**BSB:**</sub></small>
 But when you are invited, go and sit in the last place, so that your host will come and tell you, ‘Friend, move up to a better place.’ Then you will be honored in front of everyone at the table with you.
 <small><sub>**Literal:**</sub></small>
 But when you may be invited, having gone do recline in the last place, so that when may come the [one] having invited you, he will say to you; Friend, do come up higher. Then will be to you glory before all those reclining [with] you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.9|<< Luke 14:9]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.11|Luke 14:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

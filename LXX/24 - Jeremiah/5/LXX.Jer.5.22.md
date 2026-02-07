@@ -1,10 +1,7 @@
 **LXX Jeremiah 5:22** 
 <small><sub>**LXX:**</sub></small>
 Will you not fear me, says \[the\] <span class="smallcaps">lord</span>? or before my face will you not show veneration? the one ordering \[the\] sand for a limit to the sea as an eternal order, and \[the sea\] shall not pass over it; and it shall be disturbed but it will not be prevailing; and its waves shall resound, but shall not pass over it. 
-<small><sub>**KJV:**</sub></small>
-Fear ye not me? saith the LORD: will ye not tremble at my presence, which have placed the sand [for] the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof toss themselves, yet can they not prevail; though they roar, yet can they not pass over it?
-<small><sub>**BSB:**</sub></small>
-Do you not fear Me?” declares the LORD. “Do you not tremble before Me, the One who set the sand as the boundary for the sea, an enduring barrier it cannot cross? The waves surge, but they cannot prevail. They roar but cannot cross it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.21|<< Jeremiah 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.23|Jeremiah 5:23 >>]]</td></tr></table>
 
 | Translation | Greek |

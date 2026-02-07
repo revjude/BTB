@@ -1,10 +1,7 @@
 **LXX Judges 13:4** 
 <small><sub>**LXX:**</sub></small>
 And now guard and do not drink wine and liquor, and do not eat any unclean \[thing\]! 
-<small><sub>**KJV:**</sub></small>
-Now therefore beware, I pray thee, and drink not wine nor strong drink, and eat not any unclean [thing]:
-<small><sub>**BSB:**</sub></small>
-Now please be careful not to drink wine or strong drink, and not to eat anything unclean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.13.3|<< Judges 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.5|Judges 13:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:30** 
 <small><sub>**LXX:**</sub></small>
 And all these words shall find you at \[the\] last of the days, and you shall turn towards \[the\] <span class="smallcaps">lord</span>  your God, and you shall hearken \[to\] his voice. 
-<small><sub>**KJV:**</sub></small>
-When thou art in tribulation, and all these things are come upon thee, [even] in the latter days, if thou turn to the LORD thy God, and shalt be obedient unto his voice;
-<small><sub>**BSB:**</sub></small>
-When you are in distress and all these things have happened to you, then in later days you will return to the LORD your God and listen to His voice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.29|<< Deuteronomy 4:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.31|Deuteronomy 4:31 >>]]</td></tr></table>
 
 | Translation | Greek |

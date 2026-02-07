@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And there was a famine in the days of David for three years, year  next to year. And David sought the face of \[the\] <span class="smallcaps">lord</span>. And \[the\] <span class="smallcaps">lord</span> said, Against Saul and against  his house \[is\] the iniquity, in \[the\] death of his blood \[shed\], for which he put to death the Gibeonites. 
-<small><sub>**KJV:**</sub></small>
-Then there was a famine in the days of David three years, year after year; and David inquired of the LORD. And the LORD answered, [It is] for Saul, and for [his] bloody house, because he slew the Gibeonites.
-<small><sub>**BSB:**</sub></small>
-During the reign of David there was a famine for three successive years, and David sought the face of the LORD. And the LORD said, “It is because of the blood shed by Saul and his family, because he killed the Gibeonites.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.26|<< 2 Samuel 20:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.2|2 Samuel 21:2 >>]]</td></tr></table>
 
 | Translation | Greek |

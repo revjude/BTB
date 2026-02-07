@@ -1,10 +1,7 @@
 **LXX Genesis 36:39** 
 <small><sub>**LXX:**</sub></small>
 And Baal-hanan son of Achbor died, and reigned instead of him -- Arad, son of Barad; and \[the\] name  of his city -- Phogor; and \[the\] name  of his wife -- Mehetabel, daughter of Matred, son of Mezahab. 
-<small><sub>**KJV:**</sub></small>
-And Baalhanan the son of Achbor died, and Hadar reigned in his stead: and the name of his city [was] Pau; and his wife’s name [was] Mehetabel, the daughter of Matred, the daughter of Mezahab.
-<small><sub>**BSB:**</sub></small>
-When Baal-hanan son of Achbor died, Hadad reigned in his place. His city was named Pau, and his wife’s name was Mehetabel daughter of Matred, the daughter of Me-zahab.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.38|<< Genesis 36:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.40|Genesis 36:40 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:25** 
 <small><sub>**LXX:**</sub></small>
 He was honored above the thirty, but to the \[first\] three he did not arrive. And David placed him over  his family. 
-<small><sub>**KJV:**</sub></small>
-Behold, he was honourable among the thirty, but attained not to the [first] three: and David set him over his guard.
-<small><sub>**BSB:**</sub></small>
-He was most honored among the Thirty, but he did not become one of the Three. And David appointed him over his guard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.24|<< 1 Chronicles 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.26|1 Chronicles 11:26 >>]]</td></tr></table>
 
 | Translation | Greek |

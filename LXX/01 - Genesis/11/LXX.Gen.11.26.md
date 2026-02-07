@@ -1,10 +1,7 @@
 **LXX Genesis 11:26** 
 <small><sub>**LXX:**</sub></small>
 And Terah lived seventy years and he procreated  Abram and  Nahor and  Haran. 
-<small><sub>**KJV:**</sub></small>
-And Terah lived seventy years, and begat Abram, Nahor, and Haran.
-<small><sub>**BSB:**</sub></small>
-When Terah was 70 years old, he became the father of Abram, Nahor, and Haran.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.11.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.11.25|<< Genesis 11:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.11.27|Genesis 11:27 >>]]</td></tr></table>
 
 | Translation | Greek |

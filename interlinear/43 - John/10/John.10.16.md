@@ -1,12 +1,12 @@
-**John 10:16
-**<small><sub>**KJV:**</sub></small>
+**John 10:16**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, [and] one shepherd.
 <small><sub>**BSB:**</sub></small>
 I have other sheep that are not of this fold. I must bring them in as well, and they will listen to My voice. Then there will be one flock and one shepherd.
 <small><sub>**Literal:**</sub></small>
 And other sheep I have, which not are of <the> fold this, those also it behooves Me to bring, and to the voice of Mine they will listen, and they will become one flock, with one shepherd.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.15|<< John 10:15]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.17|John 10:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | other |**<big>[[G0243\|ἄλλα]]</big>**  |alla <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

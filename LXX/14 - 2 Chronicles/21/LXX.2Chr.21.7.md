@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 21:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> did not want to utterly destroy the house of David on account of the covenant which he ordained  with David, and as he said to him, to give him a lamp and \[to\] his sons all the days. 
-<small><sub>**KJV:**</sub></small>
-Howbeit the LORD would not destroy the house of David, because of the covenant that he had made with David, and as he promised to give a light to him and to his sons for ever.
-<small><sub>**BSB:**</sub></small>
-Yet the LORD was unwilling to destroy the house of David, because of the covenant He had made with David, and since He had promised to maintain a lamp for David and his descendants forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.6|<< 2 Chronicles 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.8|2 Chronicles 21:8 >>]]</td></tr></table>
 
 | Translation | Greek |

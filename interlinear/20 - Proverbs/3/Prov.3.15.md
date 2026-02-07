@@ -1,4 +1,4 @@
-**Proverbs 3:15** 
+**Proverbs 3:15**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She [is] more precious than rubies: and all the things thou canst desire are not to be compared unto her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She is more precious than rubies; nothing you desire compares with her.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.14|<< Proverbs 3:14]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.16|Proverbs 3:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] precious  |**<big>&#8207;[[H3368\|יְקָ֣רָה]]&#8207; </big>**| ye.Ka.rah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she  |**<big>&#8207;[[H1931\|הִ֭יא]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

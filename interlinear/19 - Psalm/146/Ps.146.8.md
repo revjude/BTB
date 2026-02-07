@@ -1,4 +1,4 @@
-**Psalms 146:8** 
+**Psalms 146:8**<big><big>[[Ps.146.1 Praise the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD openeth [the eyes of] the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the LORD opens the eyes of the blind, the LORD lifts those who are weighed down,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.146.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.146.7|<< Psalms 146:7]]</td><td align="center" style="border:none;">[[Ps.146|Psalms 146]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.146.9|Psalms 146:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] opening  |**<big>&#8207;[[H6491\|פֹּ֘קֵ֤חַ]]&#8207; </big>**| po.Ke.ach<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

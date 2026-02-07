@@ -1,4 +1,4 @@
-**Leviticus 25:8** 
+**Leviticus 25:8**<big><big>[[Lev.25.8 The Year of Jubilee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you shall count off seven Sabbaths of years—seven times seven years—so t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.7|<< Leviticus 25:7]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.9|Leviticus 25:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will count  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5608A\|סָפַרְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.far.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> yourself  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֗]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

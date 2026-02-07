@@ -1,4 +1,4 @@
-**Zechariah 6:4** 
+**Zechariah 6:4**<big><big>[[Zech.6.1 The Vision of the Four Chariots|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I answered and said unto the angel that talked with me, What [are] these, my lord?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I inquired of the angel who was speaking with me, “What are these, my lord?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.3|<< Zechariah 6:3]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.5|Zechariah 6:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I answered  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6030B\|אַ֙עַן֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'A.'an<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I said  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H0559\|אֹמַ֔ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

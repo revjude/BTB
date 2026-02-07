@@ -1,4 +1,4 @@
-**Ezekiel 48:10** 
+**Ezekiel 48:10**<big><big>[[Ezek.48.8 The Portions for the Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for them, [even] for the priests, shall be [this] holy oblation; toward the north five and twenty thousand [in length], and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the LORD shall be in the midst thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This will be the holy portion for the priests. It will be 25,000 cubits long on 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.9|<< Ezekiel 48:9]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.11|Ezekiel 48:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to these  |**<big>&#8207;[[H9002\|וּ֠]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0428\|אֵ֜לֶּה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will belong  |**<big>&#8207;[[H1961\|תִּהְיֶ֣ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

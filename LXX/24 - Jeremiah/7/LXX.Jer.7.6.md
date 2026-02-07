@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:6** 
 <small><sub>**LXX:**</sub></small>
 and you should not tyrannize over \[the\] foreigner and orphan and widow; and you should not pour out innocent blood in  this place; and you should not go after strange gods for your hurt; 
-<small><sub>**KJV:**</sub></small>
-[If] ye oppress not the stranger, the fatherless, and the widow, and shed not innocent blood in this place, neither walk after other gods to your hurt:
-<small><sub>**BSB:**</sub></small>
-if you no longer oppress the foreigner and the fatherless and the widow, and if you no longer shed innocent blood in this place or follow other gods to your own harm,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.5|<< Jeremiah 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.7|Jeremiah 7:7 >>]]</td></tr></table>
 
 | Translation | Greek |

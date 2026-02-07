@@ -1,4 +1,4 @@
-**2 Chronicles 25:13** 
+**2 Chronicles 25:13**<big><big>[[2Chr.25.5 Amaziah’s Victories|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the soldiers of the army which Amaziah sent back, that they should not go with him to battle, fell upon the cities of Judah, from Samaria even unto Bethhoron, and smote three thousand of them, and took much spoil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Meanwhile the troops that Amaziah had dismissed from battle raided the cities of
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.12|<< 2 Chronicles 25:12]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.14|2 Chronicles 25:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] sons of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121G\|בְנֵ֣י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the troop  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1416\|גְּד֗וּד]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.Dud<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

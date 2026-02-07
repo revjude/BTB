@@ -1,10 +1,7 @@
 **LXX Exodus 23:29** 
 <small><sub>**LXX:**</sub></small>
 I will not cast them from your face in one year, that the land should not become wilderness, and many wild beasts should happen upon you in the land. 
-<small><sub>**KJV:**</sub></small>
-I will not drive them out from before thee in one year; lest the land become desolate, and the beast of the field multiply against thee.
-<small><sub>**BSB:**</sub></small>
-I will not drive them out before you in a single year; otherwise the land would become desolate and wild animals would multiply against you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.28|<< Exodus 23:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.30|Exodus 23:30 >>]]</td></tr></table>
 
 | Translation | Greek |

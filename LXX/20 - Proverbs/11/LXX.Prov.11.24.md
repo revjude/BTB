@@ -1,10 +1,7 @@
 **LXX Proverbs 11:24** 
 <small><sub>**LXX:**</sub></small>
 There are the ones  sowing \[their\] own \[seed\] making more; and there are also the ones gathering having less. 
-<small><sub>**KJV:**</sub></small>
-There is that scattereth, and yet increaseth; and [there is] that withholdeth more than is meet, but [it tendeth] to poverty.
-<small><sub>**BSB:**</sub></small>
-One gives freely, yet gains even more; another withholds what is right, only to become poor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.11.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.23|<< Proverbs 11:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.25|Proverbs 11:25 >>]]</td></tr></table>
 
 | Translation | Greek |

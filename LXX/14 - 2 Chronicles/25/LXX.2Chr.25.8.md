@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:8** 
 <small><sub>**LXX:**</sub></small>
 For if you should undertake  to grow strong by these in the battle, \[the\] <span class="smallcaps">lord</span> will put \[you\] to flight before the enemies, for there is strength to the <span class="smallcaps">lord</span>  to help, and to put to flight. 
-<small><sub>**KJV:**</sub></small>
-But if thou wilt go, do [it], be strong for the battle: God shall make thee fall before the enemy: for God hath power to help, and to cast down.
-<small><sub>**BSB:**</sub></small>
-Even if you go and fight bravely in battle, God will overthrow you before the enemy, for God has power to help and power to overthrow.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.7|<< 2 Chronicles 25:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.9|2 Chronicles 25:9 >>]]</td></tr></table>
 
 | Translation | Greek |

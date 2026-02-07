@@ -1,5 +1,5 @@
-**Revelation 16:16
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:16**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he gathered them together into a place called in the Hebrew tongue Armageddon.
 <small><sub>**BSB:**</sub></small>
 And they assembled the kings in the place that in Hebrew is called Armageddon.
@@ -10,7 +10,7 @@ And he gathered together them unto the place which is being called in Hebrew Arm
 > $\quad$ possibly alluding to: [[LXX.Joel.3.2|Joel 3:2]] ☩ [[LXX.Zeph.3.8|Zeph 3:8]] ☩ [[LXX.Zech.14.2|Zech 14:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he gathered together |**<big>[[G4863\|συνήγαγεν]]</big>**  |sunēgagen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

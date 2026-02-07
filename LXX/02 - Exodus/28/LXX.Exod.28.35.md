@@ -1,10 +1,7 @@
 **LXX Exodus 28:35** 
 <small><sub>**LXX:**</sub></small>
 And it shall be in the officiating of Aaron his sound \[will be\] audible entering into the holy place before \[the\] <span class="smallcaps">lord</span>, and \[his\] exiting, that he might not die. 
-<small><sub>**KJV:**</sub></small>
-And it shall be upon Aaron to minister: and his sound shall be heard when he goeth in unto the holy [place] before the LORD, and when he cometh out, that he die not.
-<small><sub>**BSB:**</sub></small>
-Aaron must wear the robe whenever he ministers, and its sound will be heard when he enters or exits the sanctuary before the LORD, so that he will not die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.34|<< Exodus 28:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.36|Exodus 28:36 >>]]</td></tr></table>
 
 | Translation | Greek |

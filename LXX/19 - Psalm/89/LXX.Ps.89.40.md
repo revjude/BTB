@@ -1,10 +1,7 @@
 **LXX Psalm 89:40** 
 <small><sub>**LXX:**</sub></small>
 You demolished all  his barriers. You made  his fortresses dreaded. 
-<small><sub>**KJV:**</sub></small>
-Thou hast broken down all his hedges; thou hast brought his strong holds to ruin.
-<small><sub>**BSB:**</sub></small>
-You have broken down all his walls; You have reduced his strongholds to rubble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.89.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.39|<< Psalm 89:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.41|Psalm 89:41 >>]]</td></tr></table>
 
 | Translation | Greek |

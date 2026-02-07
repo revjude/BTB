@@ -1,10 +1,7 @@
 **LXX Ezekiel 10:20** 
 <small><sub>**LXX:**</sub></small>
 This is the living creature which I saw underneath \[the\] God of Israel by the river  Chebar; and I knew that \[they are\] cherubim. 
-<small><sub>**KJV:**</sub></small>
-This [is] the living creature that I saw under the God of Israel by the river of Chebar; and I knew that they [were] the cherubims.
-<small><sub>**BSB:**</sub></small>
-These were the living creatures I had seen beneath the God of Israel by the River Kebar, and I knew that they were cherubim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.10.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.10.19|<< Ezekiel 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.21|Ezekiel 10:21 >>]]</td></tr></table>
 
 | Translation | Greek |

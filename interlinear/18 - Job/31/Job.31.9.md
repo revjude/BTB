@@ -1,4 +1,4 @@
-**Job 31:9** 
+**Job 31:9**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If mine heart have been deceived by a woman, or [if] I have laid wait at my neighbour’s door;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If my heart has been enticed by my neighbor’s wife, or I have lurked at his do
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.8|<< Job 31:8]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.10|Job 31:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been deceived  |**<big>&#8207;[[H6601B\|נִפְתָּ֣ה]]&#8207; </big>**| nif.Tah<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

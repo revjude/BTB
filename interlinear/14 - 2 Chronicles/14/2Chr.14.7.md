@@ -1,4 +1,4 @@
-**2 Chronicles 14:7** (14:6)
+**2 Chronicles 14:7**<big><big>[[2Chr.14.1 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore he said unto Judah, Let us build these cities, and make about [them] walls, and towers, gates, and bars, [while] the land [is] yet before us; because we have sought the LORD our God, we have sought [him], and he hath given us rest on every side. So they built and prospered.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So he said to the people of Judah, “Let us build these cities and surround the
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14.6|<< 2 Chronicles 14:6]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.8|2 Chronicles 14:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Judah  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H3063G\|יהוּדָ֜ה]]&#8207; </big>**| li.<small><sup>[[HR]]</sup></small> hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

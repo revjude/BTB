@@ -1,4 +1,4 @@
-**1 Chronicles 8:37** 
+**1 Chronicles 8:37**<big><big>[[1Chr.8.33 The Family of Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moza begat Binea: Rapha [was] his son, Eleasah his son, Azel his son:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moza was the father of Binea. Raphah was his son, Eleasah his son, and Azel his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.36|<< 1 Chronicles 8:36]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.38|1 Chronicles 8:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Moza  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4162H\|מוֹצָ֖א]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mo.Tza'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֣יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

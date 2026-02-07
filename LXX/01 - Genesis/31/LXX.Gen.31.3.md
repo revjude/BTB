@@ -1,10 +1,7 @@
 **LXX Genesis 31:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Jacob, Return to the land  of your father, and to  your family! and I will be with you. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Jacob, Return unto the land of thy fathers, and to thy kindred; and I will be with thee.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Jacob, “Go back to the land of your fathers and to your kindred, and I will be with you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.2|<< Genesis 31:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.4|Genesis 31:4 >>]]</td></tr></table>
 
 | Translation | Greek |

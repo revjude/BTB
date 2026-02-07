@@ -1,10 +1,7 @@
 **LXX Ezekiel 31:18** 
 <small><sub>**LXX:**</sub></small>
 To whom are you likened in power, and in glory, and in greatness among the trees of the delicacy? Go down with the trees of the delicacy into \[the\] depth of \[the\] earth! You shall sleep in \[the\] midst of uncircumcised, with ones slain by sword. Thus Pharaoh and all the multitude  of his strength, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-To whom art thou thus like in glory and in greatness among the trees of Eden? yet shalt thou be brought down with the trees of Eden unto the nether parts of the earth: thou shalt lie in the midst of the uncircumcised with [them that be] slain by the sword. This [is] Pharaoh and all his multitude, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-Who then is like you in glory and greatness among the trees of Eden? You also will be brought down to the depths of the earth to be with the trees of Eden. You will lie among the uncircumcised, with those slain by the sword. This is Pharaoh and all his multitude, declares the Lord GOD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.31.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.31.17|<< Ezekiel 31:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.1|Ezekiel 32:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 40:17** 
+**Ezekiel 40:17**<big><big>[[Ezek.40.17 The Outer Court|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then brought he me into the outward court, and, lo, [there were] chambers, and a pavement made for the court round about: thirty chambers [were] upon the pavement.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he brought me into the outer court, and there were chambers and a pavement 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.16|<< Ezekiel 40:16]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.18|Ezekiel 40:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יְבִיאֵ֗]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.vi.'E.<small><sup>[[HVhw3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

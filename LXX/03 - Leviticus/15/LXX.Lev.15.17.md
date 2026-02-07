@@ -1,10 +1,7 @@
 **LXX Leviticus 15:17** 
 <small><sub>**LXX:**</sub></small>
 And every garment, and every skin, upon which ever might be upon it of \[the\] marriage-bed of semen, that it shall be washed in water, and will be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-And every garment, and every skin, whereon is the seed of copulation, shall be washed with water, and be unclean until the even.
-<small><sub>**BSB:**</sub></small>
-Any clothing or leather on which there is an emission of semen must be washed with water, and it will remain unclean until evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.15.16|<< Leviticus 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.15.18|Leviticus 15:18 >>]]</td></tr></table>
 
 | Translation | Greek |

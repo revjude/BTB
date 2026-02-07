@@ -1,10 +1,7 @@
 **LXX Numbers 26:65** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> said to them, By death they shall die in the wilderness, and there shall not be left behind of them not even one, except Caleb \[the\] son of Jephunneh, and Joshua the \[son\] of Nun. 
-<small><sub>**KJV:**</sub></small>
-For the LORD had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun.
-<small><sub>**BSB:**</sub></small>
-For the LORD had told them that they would surely die in the wilderness. Not one was left except Caleb son of Jephunneh and Joshua son of Nun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.65|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.64|<< Numbers 26:64]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.1|Numbers 27:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 26:65** is...

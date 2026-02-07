@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In that  time \[the\] <span class="smallcaps">lord</span> said to me, You dress stone for yourself -- two tablets of stone as the first! And ascend to me into the mountain, and make for yourself a wooden ark! 
-<small><sub>**KJV:**</sub></small>
-At that time the LORD said unto me, Hew thee two tables of stone like unto the first, and come up unto me into the mount, and make thee an ark of wood.
-<small><sub>**BSB:**</sub></small>
-At that time the LORD said to me, “Chisel out two stone tablets like the originals, come up to Me on the mountain, and make an ark of wood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.29|<< Deuteronomy 9:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.10.2|Deuteronomy 10:2 >>]]</td></tr></table>
 
 | Translation | Greek |

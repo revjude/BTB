@@ -1,4 +1,4 @@
-**Joshua 10:5** 
+**Joshua 10:5**<big><big>[[Josh.10.1 The Day the Sun Stood Still|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, the king of Eglon, gathered themselves together, and went up, they and all their hosts, and encamped before Gibeon, and made war against it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the five kings of the Amorites—the kings of Jerusalem, Hebron, Jarmuth, Lac
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.4|<< Joshua 10:4]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.6|Joshua 10:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0622\|יֵּאָסְפ֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.'a.se.Fu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they went up  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5927G\|יַּעֲל֜וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

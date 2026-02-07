@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And if any should beguile a virgin not betrothed, and should go to bed with her, he shall endow her to himself \[as\] a wife \[with a\] dowry. 
-<small><sub>**KJV:**</sub></small>
-And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife.
-<small><sub>**BSB:**</sub></small>
-If a man seduces a virgin who is not pledged in marriage and sleeps with her, he must pay the full dowry for her to be his wife.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.15|<< Exodus 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.17|Exodus 22:17 >>]]</td></tr></table>
 
 | Translation | Greek |

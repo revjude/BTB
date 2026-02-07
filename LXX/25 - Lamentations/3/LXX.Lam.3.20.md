@@ -1,10 +1,7 @@
 **LXX Lamentations 3:20** 
 <small><sub>**LXX:**</sub></small>
 I shall be remembered, and my soul shall converse with me. 
-<small><sub>**KJV:**</sub></small>
-My soul hath [them] still in remembrance, and is humbled in me.
-<small><sub>**BSB:**</sub></small>
-Surely my soul remembers and is humbled within me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.19|<< Lamentations 3:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.21|Lamentations 3:21 >>]]</td></tr></table>
 
 | Translation | Greek |

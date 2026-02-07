@@ -1,4 +1,4 @@
-**Psalms 50:5** 
+**Psalms 50:5**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gather my saints together unto me; those that have made a covenant with me by sacrifice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Gather my saints together unto me; those that have made a covenant with me by sa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.4|<< Psalms 50:4]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.6|Psalms 50:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | gather  |**<big>&#8207;[[H0622\|אִסְפוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'is.fu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H9005\|לִ֥]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

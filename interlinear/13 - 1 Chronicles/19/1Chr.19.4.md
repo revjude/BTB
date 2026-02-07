@@ -1,4 +1,4 @@
-**1 Chronicles 19:4** 
+**1 Chronicles 19:4**<big><big>[[1Chr.19.1 David’s Messengers Disgraced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore Hanun took David’s servants, and shaved them, and cut off their garments in the midst hard by their buttocks, and sent them away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Hanun took David’s servants, shaved their beards, cut off their garments at
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.3|<< 1 Chronicles 19:3]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.5|1 Chronicles 19:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hanun  |**<big>&#8207;[[H2586G\|חָנ֜וּן]]&#8207; </big>**| cha.Nun<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 14:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:27**<big><big>[[Acts.14.21 Strengthening the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they were come, and had gathered the church together, they rehearsed all that God had done with them, and how he had opened the door of faith unto the Gentiles.
 <small><sub>**BSB:**</sub></small>
 When they arrived, they gathered the church together and reported all that God had done through them, and how He had opened the door of faith to the Gentiles.
 <small><sub>**Literal:**</sub></small>
 Having arrived now and having gathered together the church they were declaring how much did <the> God with them and that He had opened to the Gentiles a door of faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.26|<< Acts 14:26]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.28|Acts 14:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having arrived |**<big>[[G3854\|παραγενόμενοι]]</big>**  |paragenomenoi <small><sup>[[V-2ADP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

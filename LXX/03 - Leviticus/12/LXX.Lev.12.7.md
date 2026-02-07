@@ -1,10 +1,7 @@
 **LXX Leviticus 12:7** 
 <small><sub>**LXX:**</sub></small>
 And he shall bring it before \[the\] <span class="smallcaps">lord</span>. And the priest shall atone for her, and he shall cleanse her from the spring  of her blood. This is the law for the giving birth to a male or female. 
-<small><sub>**KJV:**</sub></small>
-Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This [is] the law for her that hath born a male or a female.
-<small><sub>**BSB:**</sub></small>
-And the priest will present them before the LORD and make atonement for her; and she shall be ceremonially cleansed from her flow of blood. This is the law for a woman giving birth, whether to a male or to a female.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.12.6|<< Leviticus 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.12.8|Leviticus 12:8 >>]]</td></tr></table>
 
 | Translation | Greek |

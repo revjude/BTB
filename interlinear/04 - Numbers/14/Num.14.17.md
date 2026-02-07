@@ -1,4 +1,4 @@
-**Numbers 14:17** 
+**Numbers 14:17**<big><big>[[Num.14.13 Moses Intercedes for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, I beseech thee, let the power of my Lord be great, according as thou hast spoken, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now I pray, may the power of my Lord be magnified, just as You have declared:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.16|<< Numbers 14:16]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.18|Numbers 14:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֕ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may it be great  |**<big>&#8207;[[H1431\|יִגְדַּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yig.dal-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

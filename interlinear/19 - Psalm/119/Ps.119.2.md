@@ -1,4 +1,4 @@
-**Psalms 119:2** 
+**Psalms 119:2**<big><big>[[Ps.119.1 Your Word Is a Lamp to My Feet - ALEPH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [are] they that keep his testimonies, [and that] seek him with the whole heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed are those who keep His testimonies and seek Him with all their heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.1|<< Psalms 119:1]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.3|Psalms 119:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed!  |**<big>&#8207;[[H0835\|אַ֭שְׁרֵי]]&#8207; </big>**| 'Ash.rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are those who] observe  |**<big>&#8207;[[H5341\|נֹצְרֵ֥י]]&#8207; </big>**| no.tze.Rei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

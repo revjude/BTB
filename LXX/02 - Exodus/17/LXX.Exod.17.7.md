@@ -1,10 +1,7 @@
 **LXX Exodus 17:7** 
 <small><sub>**LXX:**</sub></small>
 And he named the name  of that place -- Test and Reviling; on account of the reviling of the sons of Israel, and on account of the testing the <span class="smallcaps">lord</span>, saying, Is \[the\] <span class="smallcaps">lord</span> with us or not? 
-<small><sub>**KJV:**</sub></small>
-And he called the name of the place Massah, and Meribah, because of the chiding of the children of Israel, and because they tempted the LORD, saying, Is the LORD among us, or not?
-<small><sub>**BSB:**</sub></small>
-He named the place Massah and Meribah because the Israelites quarreled, and because they tested the LORD, saying, “Is the LORD among us or not?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.17.6|<< Exodus 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.17.8|Exodus 17:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 16:20** 
 <small><sub>**LXX:**</sub></small>
 And Jesse took an ass, and put upon it a homer of bread \[loaves\], and a leather bag of wine, and one kid of \[the\] goats, and sent \[them\] by \[the\] hand of David  his son to Saul. 
-<small><sub>**KJV:**</sub></small>
-And Jesse took an ass [laden] with bread, and a bottle of wine, and a kid, and sent [them] by David his son unto Saul.
-<small><sub>**BSB:**</sub></small>
-And Jesse took a donkey loaded with bread, a skin of wine, and one young goat and sent them to Saul with his son David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.16.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.16.19|<< 1 Samuel 16:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.21|1 Samuel 16:21 >>]]</td></tr></table>
 
 | Translation | Greek |

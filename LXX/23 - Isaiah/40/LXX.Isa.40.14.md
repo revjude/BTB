@@ -1,10 +1,7 @@
 **LXX Isaiah 40:14** 
 <small><sub>**LXX:**</sub></small>
 Or whom did he take up advice with, and instructed him? Or who showed to him equity? Or who showed to him a way of understanding? 
-<small><sub>**KJV:**</sub></small>
-With whom took he counsel, and [who] instructed him, and taught him in the path of judgment, and taught him knowledge, and shewed to him the way of understanding?
-<small><sub>**BSB:**</sub></small>
-Whom did He consult to enlighten Him, and who taught Him the paths of justice? Who imparted knowledge to Him and showed Him the way of understanding?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.13|<< Isaiah 40:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.15|Isaiah 40:15 >>]]</td></tr></table>
 
 | Translation | Greek |

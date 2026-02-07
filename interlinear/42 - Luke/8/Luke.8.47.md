@@ -1,12 +1,12 @@
-**Luke 8:47
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:47**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately.
 <small><sub>**BSB:**</sub></small>
 Then the woman, seeing that she could not escape notice, came trembling and fell down before Him. In the presence of all the people, she explained why she had touched Him and how she had immediately been healed.
 <small><sub>**Literal:**</sub></small>
 Having seen then the woman that not she was hid, trembling she came and having fallen down before Him, for what cause she touched Him she declared to him before all the people and how she was healed immediately.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.46|<< Luke 8:46]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.48|Luke 8:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|ἰδοῦσα]]</big>**  |idousa <small><sup>[[V-2AAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

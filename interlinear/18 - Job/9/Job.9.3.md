@@ -1,4 +1,4 @@
-**Job 9:3** 
+**Job 9:3**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he will contend with him, he cannot answer him one of a thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If one wished to contend with God, he could not answer Him one time out of a tho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.2|<< Job 9:2]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.4|Job 9:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | someone desires  |**<big>&#8207;[[H2654A\|יַ֭חְפֹּץ]]&#8207; </big>**| Yach.potz<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

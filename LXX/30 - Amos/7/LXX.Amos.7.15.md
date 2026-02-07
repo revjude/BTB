@@ -1,10 +1,7 @@
 **LXX Amos 7:15** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> took me from the sheep, and \[the\] <span class="smallcaps">lord</span> said to me, Proceed and prophesy over  my people Israel! 
-<small><sub>**KJV:**</sub></small>
-And the LORD took me as I followed the flock, and the LORD said unto me, Go, prophesy unto my people Israel.
-<small><sub>**BSB:**</sub></small>
-But the LORD took me from following the flock and said to me, ‘Go, prophesy to My people Israel.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.7.14|<< Amos 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.16|Amos 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

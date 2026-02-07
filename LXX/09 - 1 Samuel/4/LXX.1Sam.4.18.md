@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:18** 
 <small><sub>**LXX:**</sub></small>
 And it happened as the ark of God was mentioned, that he fell from the chair backwardly, being next to the gate, and his back was broken, and he died, for the man was old and heavy; and he judged  Israel forty years. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when he made mention of the ark of God, that he fell from off the seat backward by the side of the gate, and his neck brake, and he died: for he was an old man, and heavy. And he had judged Israel forty years.
-<small><sub>**BSB:**</sub></small>
-As soon as the ark of God was mentioned, Eli fell backward from his chair by the city gate, and being old and heavy, he broke his neck and died. And Eli had judged Israel forty years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.17|<< 1 Samuel 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.19|1 Samuel 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

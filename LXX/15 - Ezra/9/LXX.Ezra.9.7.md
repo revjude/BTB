@@ -1,10 +1,7 @@
 **LXX Ezra 9:7** 
 <small><sub>**LXX:**</sub></small>
 From \[the\] days of our fathers we are in great trespass until  this day. And  in our lawless deeds we were delivered up, and  our kings, and  our priests, into \[the\] hand of \[the\] kings of the nations, by broadsword, and into captivity, and in seizure, and in shame of our face, as  this day. 
-<small><sub>**KJV:**</sub></small>
-Since the days of our fathers [have] we [been] in a great trespass unto this day; and for our iniquities have we, our kings, [and] our priests, been delivered into the hand of the kings of the lands, to the sword, to captivity, and to a spoil, and to confusion of face, as [it is] this day.
-<small><sub>**BSB:**</sub></small>
-From the days of our fathers to this day, our guilt has been great. Because of our iniquities, we and our kings and priests have been delivered into the hands of the kings of the earth and subjected to the sword and to captivity, to pillage and humiliation, as we are this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.6|<< Ezra 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.8|Ezra 9:8 >>]]</td></tr></table>
 
 | Translation | Greek |

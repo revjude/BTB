@@ -1,4 +1,4 @@
-**Ezekiel 26:12** 
+**Ezekiel 26:12**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall make a spoil of thy riches, and make a prey of thy merchandise: and they shall break down thy walls, and destroy thy pleasant houses: and they shall lay thy stones and thy timber and thy dust in the midst of the water.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will plunder your wealth and pillage your merchandise. They will demolish y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.11|<< Ezekiel 26:11]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.13|Ezekiel 26:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will plunder  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7997B\|שָׁלְל֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Lu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wealth your  |**<big>&#8207;[[H2428H\|חֵילֵ֗]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| chei.Le<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

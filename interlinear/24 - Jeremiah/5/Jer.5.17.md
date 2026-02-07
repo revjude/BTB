@@ -1,4 +1,4 @@
-**Jeremiah 5:17** 
+**Jeremiah 5:17**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall eat up thine harvest, and thy bread, [which] thy sons and thy daughters should eat: they shall eat up thy flocks and thine herds: they shall eat up thy vines and thy fig trees: they shall impoverish thy fenced cities, wherein thou trustedst, with the sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will devour your harvest and food; they will consume your sons and daughter
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.16|<< Jeremiah 5:16]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.18|Jeremiah 5:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will devour  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0398\|אָכַ֨ל]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Khal<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | harvest your  |**<big>&#8207;[[H7105A\|קְצִֽירְ]]&#8207;&#8207;[[H9021\|ךָ֜]]&#8207; </big>**| ke.tzi.re.<small><sup>[[HNcmsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

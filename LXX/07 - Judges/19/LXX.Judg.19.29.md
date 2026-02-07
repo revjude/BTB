@@ -1,10 +1,7 @@
 **LXX Judges 19:29** 
 <small><sub>**LXX:**</sub></small>
 And he entered into  his house, and he took the knife, and took hold of  his concubine, and dismembered her according to  her bones into twelve portions, and he sent them unto all the tribes of Israel. 
-<small><sub>**KJV:**</sub></small>
-And when he was come into his house, he took a knife, and laid hold on his concubine, and divided her, [together] with her bones, into twelve pieces, and sent her into all the coasts of Israel.
-<small><sub>**BSB:**</sub></small>
-When he reached his house, he picked up a knife, took hold of his concubine, cut her limb by limb into twelve pieces, and sent her throughout the territory of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.28|<< Judges 19:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.30|Judges 19:30 >>]]</td></tr></table>
 
 | Translation | Greek |

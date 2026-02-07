@@ -1,12 +1,12 @@
-**2 Peter 1:21
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 1:21**<big><big>[[2Pet.1.16 Eyewitnesses of His Majesty|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the prophecy came not in old time by the will of man: but holy men of God spake [as they were] moved by the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 For no such prophecy was ever brought forth by the will of man, but men spoke from God as they were carried along by the Holy Spirit.
 <small><sub>**Literal:**</sub></small>
 Not for by [the] will of man was brought prophecy at any time but by [the] Spirit Holy being carried spoke <the> from of God men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.20|<< 2 Peter 1:20]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.1|2 Peter 2:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

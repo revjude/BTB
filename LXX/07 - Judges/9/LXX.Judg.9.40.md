@@ -1,10 +1,7 @@
 **LXX Judges 9:40** 
 <small><sub>**LXX:**</sub></small>
 And Abimelech pursued him, and he fled from his face, and there fell slain many unto the doors of the city. 
-<small><sub>**KJV:**</sub></small>
-And Abimelech chased him, and he fled before him, and many were overthrown [and] wounded, [even] unto the entering of the gate.
-<small><sub>**BSB:**</sub></small>
-but Abimelech pursued him, and Gaal fled before him. And many Shechemites fell wounded all the way to the entrance of the gate.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.39|<< Judges 9:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.41|Judges 9:41 >>]]</td></tr></table>
 
 | Translation | Greek |

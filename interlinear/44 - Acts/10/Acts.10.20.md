@@ -1,12 +1,12 @@
-**Acts 10:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:20**<big><big>[[Acts.10.17 Peter Called to Caesarea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them.
 <small><sub>**BSB:**</sub></small>
 So get up! Go downstairs and accompany them without hesitation, because I have sent them.”
 <small><sub>**Literal:**</sub></small>
 But having risen do go down and do proceed with them nothing doubting, since I myself have sent them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.19|<< Acts 10:19]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.21|Acts 10:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having risen |**<big>[[G0450\|ἀναστὰς]]</big>**  |anastas <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

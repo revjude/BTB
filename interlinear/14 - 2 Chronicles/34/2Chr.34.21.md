@@ -1,4 +1,4 @@
-**2 Chronicles 34:21** 
+**2 Chronicles 34:21**<big><big>[[2Chr.34.14 Hilkiah Finds the Book of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go, inquire of the LORD for me, and for them that are left in Israel and in Judah, concerning the words of the book that is found: for great [is] the wrath of the LORD that is poured out upon us, because our fathers have not kept the word of the LORD, to do after all that is written in this book.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Go, inquire of the LORD for me, and for them that are left in Israel and in Juda
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.20|<< 2 Chronicles 34:20]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.22|2 Chronicles 34:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | go  |**<big>&#8207;[[H1980G\|לְכוּ֩]]&#8207; </big>**| le.Khu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | consult  |**<big>&#8207;[[H1875\|דִרְשׁ֨וּ]]&#8207; </big>**| dir.Shu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

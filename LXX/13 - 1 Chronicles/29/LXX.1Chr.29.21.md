@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:21** 
 <small><sub>**LXX:**</sub></small>
 And David sacrificed to the <span class="smallcaps">lord</span> a sacrifice, and offered whole burnt-offerings to the <span class="smallcaps">lord</span> on the next day of the first day -- of a thousand calves, a thousand rams, a thousand lambs, and  their libations, and sacrifices in multitude for all  Israel. 
-<small><sub>**KJV:**</sub></small>
-And they sacrificed sacrifices unto the LORD, and offered burnt offerings unto the LORD, on the morrow after that day, [even] a thousand bullocks, a thousand rams, [and] a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel:
-<small><sub>**BSB:**</sub></small>
-The next day they offered sacrifices and presented burnt offerings to the LORD: a thousand bulls, a thousand rams, and a thousand lambs, along with their drink offerings, and other sacrifices in abundance for all Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.20|<< 1 Chronicles 29:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.22|1 Chronicles 29:22 >>]]</td></tr></table>
 
 | Translation | Greek |

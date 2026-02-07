@@ -1,4 +1,4 @@
-**Deuteronomy 6:21** 
+**Deuteronomy 6:21**<big><big>[[Deut.6.20 Teach Your Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then thou shalt say unto thy son, We were Pharaoh’s bondmen in Egypt; and the LORD brought us out of Egypt with a mighty hand:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then you are to tell him, “We were slaves of Pharaoh in Egypt, but the LORD br
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.20|<< Deuteronomy 6:20]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.22|Deuteronomy 6:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0559\|אָמַרְתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.mar.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to child your  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1121A\|בִנְ]]&#8207;&#8207;[[H9021\|ךָ֔]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vin.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

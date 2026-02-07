@@ -1,4 +1,4 @@
-**Amos 5:27** 
+**Amos 5:27**<big><big>[[Amos.5.16 Woe to Rebellious Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will I cause you to go into captivity beyond Damascus, saith the LORD, whose name [is] The God of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Therefore I will send you into exile beyond Damascus,” says the LORD, whose na
 > $\quad$ referenced by: [[Acts.7.42|Acts 7:42-43]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will send into exile  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1540K\|הִגְלֵיתִ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hig.lei.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֶתְ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| 'et.<small><sup>[[HTo]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

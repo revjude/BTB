@@ -1,4 +1,4 @@
-**Job 42:15** 
+**Job 42:15**<big><big>[[Job.42.10 The LORD Blesses Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in all the land were no women found [so] fair as the daughters of Job: and their father gave them inheritance among their brethren.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No women as beautiful as Job’s daughters could be found in all the land, and t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.14|<< Job 42:14]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.16|Job 42:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֨א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was found  |**<big>&#8207;[[H4672\|נִמְצָ֜א]]&#8207; </big>**| nim.Tza'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

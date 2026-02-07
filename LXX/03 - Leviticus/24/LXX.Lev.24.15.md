@@ -1,10 +1,7 @@
 **LXX Leviticus 24:15** 
 <small><sub>**LXX:**</sub></small>
 And to the sons of Israel speak! And you shall say to them, A man, a man if he should curse God, \[that one\] shall take \[the\] sin. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt speak unto the children of Israel, saying, Whosoever curseth his God shall bear his sin.
-<small><sub>**BSB:**</sub></small>
-And you are to tell the Israelites, ‘If anyone curses his God, he shall bear the consequences of his sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.14|<< Leviticus 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.16|Leviticus 24:16 >>]]</td></tr></table>
 
 | Translation | Greek |

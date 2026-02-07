@@ -1,4 +1,4 @@
-**Numbers 6:27** 
+**Numbers 6:27**<big><big>[[Num.6.22 Aaron’s Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall put my name upon the children of Israel; and I will bless them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So they shall put My name on the Israelites, and I will bless them.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.26|<< Numbers 6:26]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.1|Numbers 7:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760H\|שָׂמ֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sa.Mu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

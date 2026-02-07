@@ -1,10 +1,7 @@
 **LXX Genesis 40:3** 
 <small><sub>**LXX:**</sub></small>
 And he put them under guard in the jail, into the place where Joseph had been taken away there. 
-<small><sub>**KJV:**</sub></small>
-And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph [was] bound.
-<small><sub>**BSB:**</sub></small>
-and imprisoned them in the house of the captain of the guard, the same prison where Joseph was confined.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.2|<< Genesis 40:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.4|Genesis 40:4 >>]]</td></tr></table>
 
 | Translation | Greek |

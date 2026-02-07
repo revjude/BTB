@@ -1,12 +1,12 @@
-**John 17:2
-**<small><sub>**KJV:**</sub></small>
+**John 17:2**<big><big>[[John.17.1 Prayer for the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As thou hast given him power over all flesh, that he should give eternal life to as many as thou hast given him.
 <small><sub>**BSB:**</sub></small>
 For You granted Him authority over all people, so that He may give eternal life to all those You have given Him.
 <small><sub>**Literal:**</sub></small>
 Even as You gave to Him authority over all flesh, so that all whom You have given to Him, He may give to them life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.1|<< John 17:1]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.3|John 17:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | You gave |**<big>[[G1325\|ἔδωκας]]</big>**  |edōkas <small><sup>[[V-AAI-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

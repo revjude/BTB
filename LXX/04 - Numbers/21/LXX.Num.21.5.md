@@ -1,10 +1,7 @@
 **LXX Numbers 21:5** 
 <small><sub>**LXX:**</sub></small>
 And the people spoke ill against  God, and against Moses, saying, Why did you lead us out of Egypt to kill us in the wilderness? For there is no bread nor water;  and our soul loathes in  this empty bread. 
-<small><sub>**KJV:**</sub></small>
-And the people spake against God, and against Moses, Wherefore have ye brought us up out of Egypt to die in the wilderness? for [there is] no bread, neither [is there any] water; and our soul loatheth this light bread.
-<small><sub>**BSB:**</sub></small>
-and spoke against God and against Moses: “Why have you led us up out of Egypt to die in the wilderness? There is no bread or water, and we detest this wretched food!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.4|<< Numbers 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.6|Numbers 21:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 21:5** is...

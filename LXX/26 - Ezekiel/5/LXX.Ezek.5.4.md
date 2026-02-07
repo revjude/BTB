@@ -1,10 +1,7 @@
 **LXX Ezekiel 5:4** 
 <small><sub>**LXX:**</sub></small>
 And from out of these you shall take still \[more\], and shall toss them into \[the\] midst of the fire, and shall incinerate them by fire; \[and\] fire shall come forth from it, and you shall say to all \[the\] house of Israel, 
-<small><sub>**KJV:**</sub></small>
-Then take of them again, and cast them into the midst of the fire, and burn them in the fire; [for] thereof shall a fire come forth into all the house of Israel.
-<small><sub>**BSB:**</sub></small>
-Again, take a few of these, throw them into the fire, and burn them. From there a fire will spread to the whole house of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.5.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.3|<< Ezekiel 5:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.5|Ezekiel 5:5 >>]]</td></tr></table>
 
 | Translation | Greek |

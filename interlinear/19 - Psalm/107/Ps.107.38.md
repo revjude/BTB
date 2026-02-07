@@ -1,4 +1,4 @@
-**Psalms 107:38** 
+**Psalms 107:38**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He blesseth them also, so that they are multiplied greatly; and suffereth not their cattle to decrease.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He blesses them, and they multiply greatly; He does not let their herds diminish
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.37|<< Psalms 107:37]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.39|Psalms 107:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he blessed them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1288\|יְבָרֲכֵ֣]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.va.ra.Khe<small><sup>[[HVpw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they multiplied  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7235A\|יִּרְבּ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.Bu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

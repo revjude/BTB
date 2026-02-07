@@ -1,4 +1,4 @@
-**Jeremiah 36:13** 
+**Jeremiah 36:13**<big><big>[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Michaiah declared unto them all the words that he had heard, when Baruch read the book in the ears of the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Micaiah reported to them all the words he had heard Baruch read from the scr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.12|<< Jeremiah 36:12]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.14|Jeremiah 36:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יַּגֵּ֤ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ged<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Lamentations 4:8** 
+**Lamentations 4:8**<big><big>[[Lam.4.1 The Distress of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their visage is blacker than a coal; they are not known in the streets: their skin cleaveth to their bones; it is withered, it is become like a stick.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But now their appearance is blacker than soot; they are not recognized in the st
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.4.7|<< Lamentations 4:7]]</td><td align="center" style="border:none;">[[Lam.4|Lamentations 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.4.9|Lamentations 4:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it is dark  |**<big>&#8207;[[H2821\|חָשַׁ֤ךְ]]&#8207; </big>**| cha.Shakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | more than soot  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7815\|שְּׁחוֹר֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> she.chOr<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

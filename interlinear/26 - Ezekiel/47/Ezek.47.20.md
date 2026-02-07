@@ -1,4 +1,4 @@
-**Ezekiel 47:20** 
+**Ezekiel 47:20**<big><big>[[Ezek.47.13 The Borders of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The west side also [shall be] the great sea from the border, till a man come over against Hamath. This [is] the west side.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And on the west side, the Great Sea will be the boundary up to a point opposite 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.19|<< Ezekiel 47:19]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.21|Ezekiel 47:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] side of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6285\|פְאַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.'at-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] west  |**<big>&#8207;[[H3220H\|יָם֙]]&#8207; </big>**| yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

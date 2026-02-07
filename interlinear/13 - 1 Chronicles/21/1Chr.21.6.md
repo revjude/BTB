@@ -1,4 +1,4 @@
-**1 Chronicles 21:6** 
+**1 Chronicles 21:6**<big><big>[[1Chr.21.1 David’s Military Census|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Levi and Benjamin counted he not among them: for the king’s word was abominable to Joab.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Joab did not include Levi and Benjamin in the count, because the king’s co
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.5|<< 1 Chronicles 21:5]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.7|1 Chronicles 21:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Levi  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3878\|לֵוִי֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> le.Vi<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Benjamin  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1144G\|בִנְיָמִ֔ן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

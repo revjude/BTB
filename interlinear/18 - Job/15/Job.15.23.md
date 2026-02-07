@@ -1,4 +1,4 @@
-**Job 15:23** 
+**Job 15:23**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He wandereth abroad for bread, [saying], Where [is it]? he knoweth that the day of darkness is ready at his hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He wanders about as food for vultures; he knows the day of darkness is at hand.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.22|<< Job 15:22]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.24|Job 15:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] wandering  |**<big>&#8207;[[H5074\|נֹ֘דֵ֤ד]]&#8207; </big>**| no.Ded<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Hebrews 4:13
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 4:13**<big><big>[[Heb.4.12 The Living Word|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither is there any creature that is not manifest in his sight: but all things [are] naked and opened unto the eyes of him with whom we have to do.
 <small><sub>**BSB:**</sub></small>
 Nothing in all creation is hidden from God’s sight; everything is uncovered and exposed before the eyes of Him to whom we must give account.
 <small><sub>**Literal:**</sub></small>
 And not there is creature hidden before Him; all things however [are] uncovered and laid bare to the eyes of Him to whom [is] our <the> reckoning.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.12|<< Hebrews 4:12]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.14|Hebrews 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

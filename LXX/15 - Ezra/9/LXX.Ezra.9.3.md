@@ -1,10 +1,7 @@
 **LXX Ezra 9:3** 
 <small><sub>**LXX:**</sub></small>
 And as I heard  this word, I tore  my garments and  my undergarment, and was agitated, and plucked the hair  of my head, and of  my beard, and sat down for calming. 
-<small><sub>**KJV:**</sub></small>
-And when I heard this thing, I rent my garment and my mantle, and plucked off the hair of my head and of my beard, and sat down astonied.
-<small><sub>**BSB:**</sub></small>
-When I heard this report, I tore my tunic and cloak, pulled out some hair from my head and beard, and sat down in horror.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.9.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.2|<< Ezra 9:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.4|Ezra 9:4 >>]]</td></tr></table>
 
 | Translation | Greek |

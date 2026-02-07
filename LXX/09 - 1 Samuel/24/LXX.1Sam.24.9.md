@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:9** 
 <small><sub>**LXX:**</sub></small>
 And David said to Saul, Why do you hearken to the words of the people, saying, Behold, David seeks  your life? 
-<small><sub>**KJV:**</sub></small>
-And David said to Saul, Wherefore hearest thou men’s words, saying, Behold, David seeketh thy hurt?
-<small><sub>**BSB:**</sub></small>
-and said to Saul, “Why do you listen to the words of men who say, ‘Look, David intends to harm you’?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.8|<< 1 Samuel 24:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.10|1 Samuel 24:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Kings 6:6** 
+**2 Kings 6:6**<big><big>[[2Kgs.6.1 The Axe Head Floats|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man of God said, Where fell it? And he shewed him the place. And he cut down a stick, and cast [it] in thither; and the iron did swim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the man of God said, Where fell it? And he shewed him the place. And he cut 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.5|<< 2 Kings 6:5]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.7|2 Kings 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] man of  |**<big>&#8207;[[H0376G\|אִישׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ish-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

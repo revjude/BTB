@@ -1,12 +1,12 @@
-**Luke 2:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:4**<big><big>[[Luke.2.1 The Birth of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)
 <small><sub>**BSB:**</sub></small>
 So Joseph also went up from Nazareth in Galilee to Judea, to the city of David called Bethlehem, since he was from the house and line of David.
 <small><sub>**Literal:**</sub></small>
 Went up then also Joseph from <the> Galilee out of [the] town of Nazareth to <the> Judea to [the] City of David which is called Bethlehem, because of <the> being him from [the] house and family of David,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.3|<< Luke 2:3]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.5|Luke 2:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Went up |**<big>[[G0305\|ἀνέβη]]</big>**  |anebē <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Exodus 30:14** 
 <small><sub>**LXX:**</sub></small>
 Every one passing in the numbering from twenty years \[old\] and above shall give the contribution to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Every one that passeth among them that are numbered, from twenty years old and above, shall give an offering unto the LORD.
-<small><sub>**BSB:**</sub></small>
-Everyone twenty years of age or older who crosses over must give this offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.13|<< Exodus 30:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.15|Exodus 30:15 >>]]</td></tr></table>
 
 | Translation | Greek |

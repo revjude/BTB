@@ -1,10 +1,7 @@
 **LXX Psalm 71:24** 
 <small><sub>**LXX:**</sub></small>
 But still also  my tongue shall meditate upon your righteousness all the day, whenever the ones seeking bad \[things\] for me should be ashamed and should feel remorse. 
-<small><sub>**KJV:**</sub></small>
-My tongue also shall talk of thy righteousness all the day long: for they are confounded, for they are brought unto shame, that seek my hurt.
-<small><sub>**BSB:**</sub></small>
-My tongue will indeed proclaim Your righteousness all day long, for those who seek my harm are disgraced and confounded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.71.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.23|<< Psalm 71:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.1|Psalm 72:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 119:133** 
+**Psalms 119:133**<big><big>[[Ps.119.129 Your Word Is a Lamp to My Feet - PE|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Order my steps in thy word: and let not any iniquity have dominion over me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Order my steps in Your word; let no sin rule over me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.133|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.132|<< Psalms 119:132]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.134|Psalms 119:134 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | footsteps my  |**<big>&#8207;[[H6471\|פְּ֭עָמַ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| Pe.'a.ma<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | direct  |**<big>&#8207;[[H3559H\|הָכֵ֣ן]]&#8207; </big>**| ha.Khen<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 18:5** 
 <small><sub>**LXX:**</sub></small>
 And they said to him, Ask indeed to  God! that we will know if our way greatly prospers which we go by it. 
-<small><sub>**KJV:**</sub></small>
-And they said unto him, Ask counsel, we pray thee, of God, that we may know whether our way which we go shall be prosperous.
-<small><sub>**BSB:**</sub></small>
-Then they said to him, “Please inquire of God to determine whether we will have a successful journey.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.4|<< Judges 18:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.6|Judges 18:6 >>]]</td></tr></table>
 
 | Translation | Greek |

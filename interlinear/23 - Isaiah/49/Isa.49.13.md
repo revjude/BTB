@@ -1,4 +1,4 @@
-**Isaiah 49:13** 
+**Isaiah 49:13**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the LORD hath comforted his people, and will have mercy upon his afflicted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Shout for joy, O heavens; rejoice, O earth; break forth in song, O mountains! Fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.12|<< Isaiah 49:12]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.14|Isaiah 49:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | shout for joy  |**<big>&#8207;[[H7442B\|רָנּ֤וּ]]&#8207; </big>**| ra.Nu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O heaven  |**<big>&#8207;[[H8064\|שָׁמַ֙יִם֙]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

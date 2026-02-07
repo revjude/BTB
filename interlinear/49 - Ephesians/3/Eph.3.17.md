@@ -1,12 +1,12 @@
-**Ephesians 3:17
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 3:17**<big><big>[[Eph.3.14 Paul’s Prayer for the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,
 <small><sub>**BSB:**</sub></small>
 so that Christ may dwell in your hearts through faith. Then you, being rooted and grounded in love,
 <small><sub>**Literal:**</sub></small>
 [for] to dwell <the> Christ through <the> faith in the hearts of you in love rooted and founded,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.16|<< Ephesians 3:16]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.18|Ephesians 3:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [for] to dwell |**<big>[[G2730\|κατοικῆσαι]]</big>**  |katoikēsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

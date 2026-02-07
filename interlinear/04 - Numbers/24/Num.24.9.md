@@ -1,4 +1,4 @@
-**Numbers 24:9** 
+**Numbers 24:9**<big><big>[[Num.24.1 Balaam’s Third Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed [is] he that blesseth thee, and cursed [is] he that curseth thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He crouches, he lies down like a lion, like a lioness—who dares to rouse him? 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.8|<< Numbers 24:8]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.10|Numbers 24:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it crouched  |**<big>&#8207;[[H3766\|כָּרַ֨ע]]&#8207; </big>**| ka.Ra'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it lay down  |**<big>&#8207;[[H7901G\|שָׁכַ֧ב]]&#8207; </big>**| sha.Khav<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

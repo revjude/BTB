@@ -1,10 +1,7 @@
 **LXX Micah 5:12** 
 <small><sub>**LXX:**</sub></small>
 And I will utterly destroy  your potions from out of  your hands; and ones declaring \[fortunes\] shall not be to you. 
-<small><sub>**KJV:**</sub></small>
-And I will cut off witchcrafts out of thine hand; and thou shalt have no [more] soothsayers:
-<small><sub>**BSB:**</sub></small>
-I will cut the sorceries from your hand, and you will have no fortune-tellers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.5.11|<< Micah 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.13|Micah 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

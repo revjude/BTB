@@ -1,4 +1,4 @@
-**Ezekiel 18:28** 
+**Ezekiel 18:28**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because he considereth, and turneth away from all his transgressions that he hath committed, he shall surely live, he shall not die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because he considered and turned from all the transgressions he had committed, h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.27|<< Ezekiel 18:27]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.29|Ezekiel 18:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200H\|יִּרְאֶ֣ה]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.'Eh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he turned away  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725O\|יָּ֔שָׁב]]&#8207; </big>**[^1] [^2] | va<small><sup>[[Hc]]</sup></small> i.ya.shov<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |

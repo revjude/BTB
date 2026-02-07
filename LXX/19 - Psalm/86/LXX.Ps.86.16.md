@@ -1,10 +1,7 @@
 **LXX Psalm 86:16** 
 <small><sub>**LXX:**</sub></small>
 Look upon me, and show mercy on me! Give  your might \[to\] your child, and deliver the son  of your maidservant! 
-<small><sub>**KJV:**</sub></small>
-O turn unto me, and have mercy upon me; give thy strength unto thy servant, and save the son of thine handmaid.
-<small><sub>**BSB:**</sub></small>
-Turn to me and have mercy; grant Your strength to Your servant; save the son of Your maidservant.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.86.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.86.15|<< Psalm 86:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.86.17|Psalm 86:17 >>]]</td></tr></table>
 
 | Translation | Greek |

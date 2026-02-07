@@ -1,4 +1,4 @@
-**Proverbs 15:2** 
+**Proverbs 15:2**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The tongue of the wise useth knowledge aright: but the mouth of fools poureth out foolishness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The tongue of the wise commends knowledge, but the mouth of the fool spouts foll
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.1|<< Proverbs 15:1]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.3|Proverbs 15:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] tongue of  |**<big>&#8207;[[H3956G\|לְשׁ֣וֹן]]&#8207; </big>**| le.Shon<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wise [people]  |**<big>&#8207;[[H2450\|חֲ֭כָמִים]]&#8207; </big>**| Cha.kha.mim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

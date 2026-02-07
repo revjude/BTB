@@ -1,6 +1,6 @@
 (KJV) **Ruth 2**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1|<< Ruth 1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3|Ruth 3 >>]]</td></tr></table>
 
-***Boaz Meets Ruth*** ^bsb652
+<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥃]]</big></big>***Boaz Meets Ruth***
 
  $\quad$ <span class="startversemarker">[</span>**[[Ruth.2.1|1]]**<span class="endversemarker">]</span> And Naomi had a kinsman<small><small>[^2]</small></small> of her husband’s, a mighty<small><small>[^3]</small></small> man of wealth, of the family of Elimelech; and his name \[was\] Boaz<small><small>[^4]</small></small>. <span class="startversemarker">[</span>**[[Ruth.2.2|2]]**<span class="endversemarker">]</span> And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears<small><small>[^5]</small></small> of corn after \[him\] in whose sight I shall find grace. And she said unto her, Go, my daughter. <span class="startversemarker">[</span>**[[Ruth.2.3|3]]**<span class="endversemarker">]</span> And she went, and came, and gleaned<small><small>[^6]</small></small> in the field after the reapers: and her hap was<small><small>[^7]</small></small> to light on a part of the field \[belonging\] unto Boaz, who \[was\] of the kindred of Elimelech. 
 

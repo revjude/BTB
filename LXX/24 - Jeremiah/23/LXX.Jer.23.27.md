@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:27** 
 <small><sub>**LXX:**</sub></small>
 The ones devising \[ways\]  to forget  my name by  their dreams, which each was described to  his neighbor; as their fathers forgot  my name in \[service to\]  Baal. 
-<small><sub>**KJV:**</sub></small>
-Which think to cause my people to forget my name by their dreams which they tell every man to his neighbour, as their fathers have forgotten my name for Baal.
-<small><sub>**BSB:**</sub></small>
-They suppose the dreams that they tell one another will make My people forget My name, just as their fathers forgot My name through the worship of Baal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.26|<< Jeremiah 23:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.28|Jeremiah 23:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Kings 9:25** 
+**1 Kings 9:25**<big><big>[[1Kgs.9.10 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And three times in a year did Solomon offer burnt offerings and peace offerings upon the altar which he built unto the LORD, and he burnt incense upon the altar that [was] before the LORD. So he finished the house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Three times a year Solomon offered burnt offerings and peace offerings on the al
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.24|<< 1 Kings 9:24]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.26|1 Kings 9:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he offered up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5927I\|הֶעֱלָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.'e.Lah<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֡ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

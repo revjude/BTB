@@ -1,12 +1,12 @@
-**Mark 14:69
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:69**<big><big>[[Mark.14.66 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And a maid saw him again, and began to say to them that stood by, This is [one] of them.
 <small><sub>**BSB:**</sub></small>
 There the servant girl saw him and again said to those standing nearby, “This man is one of them.”
 <small><sub>**Literal:**</sub></small>
 And the servant girl having seen him began again to say to those having been standing by that This [one] of them is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.68|<< Mark 14:68]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.70|Mark 14:70 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

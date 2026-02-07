@@ -1,10 +1,7 @@
 **LXX Isaiah 45:23** 
 <small><sub>**LXX:**</sub></small>
 According to myself I swear by an oath, that righteousness shall come forth from out of my mouth;  my words shall not be perverted. For every knee shall bend to me, and every tongue shall swear by an oath by God, 
-<small><sub>**KJV:**</sub></small>
-I have sworn by myself, the word is gone out of my mouth [in] righteousness, and shall not return, That unto me every knee shall bow, every tongue shall swear.
-<small><sub>**BSB:**</sub></small>
-By Myself I have sworn; truth has gone out from My mouth, a word that will not be revoked: Every knee will bow before Me, every tongue will swear allegiance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.45.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.22|<< Isaiah 45:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.24|Isaiah 45:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 45:23** is...

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the lawless one, if he should turn from all  his lawless deeds which he did, and should keep all  my commandments, and should do equity and righteousness and mercy; to life he shall live, and he shall not die. 
-<small><sub>**KJV:**</sub></small>
-But if the wicked will turn from all his sins that he hath committed, and keep all my statutes, and do that which is lawful and right, he shall surely live, he shall not die.
-<small><sub>**BSB:**</sub></small>
-But if the wicked man turns from all the sins he has committed, keeps all My statutes, and does what is just and right, he will surely live; he will not die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.20|<< Ezekiel 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.22|Ezekiel 18:22 >>]]</td></tr></table>
 
 | Translation | Greek |

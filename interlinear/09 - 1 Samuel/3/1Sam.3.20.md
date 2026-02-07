@@ -1,4 +1,4 @@
-**1 Samuel 3:20** 
+**1 Samuel 3:20**<big><big>[[1Sam.3.15 Samuel Shares the Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all Israel from Dan even to Beersheba knew that Samuel [was] established [to be] a prophet of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So all Israel from Dan to Beersheba knew that Samuel was confirmed as a prophet 
 > $\quad$ referenced by: [[Acts.13.20|Acts 13:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it knew  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3045\|יֵּ֙דַע֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.da'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

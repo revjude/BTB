@@ -1,5 +1,5 @@
-**Romans 10:16
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:16**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?
 <small><sub>**BSB:**</sub></small>
 But not all of them welcomed the good news. For Isaiah says, “Lord, who has believed our message?”
@@ -10,7 +10,7 @@ But not all heeded the good news; Isaiah for says; Lord, who has believed the re
 > $\quad$ referencing: [[LXX.Isa.53.1|Isa 53:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

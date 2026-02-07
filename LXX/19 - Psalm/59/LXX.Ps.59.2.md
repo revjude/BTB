@@ -1,10 +1,7 @@
 **LXX Psalm 59:2** 
 <small><sub>**LXX:**</sub></small>
 Rescue me from the ones working  lawlessness, and deliver me from men of blood! 
-<small><sub>**KJV:**</sub></small>
-Deliver me from the workers of iniquity, and save me from bloody men.
-<small><sub>**BSB:**</sub></small>
-Deliver me from workers of iniquity, and save me from men of bloodshed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.59.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.1|<< Psalm 59:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.3|Psalm 59:3 >>]]</td></tr></table>
 
 | Translation | Greek |

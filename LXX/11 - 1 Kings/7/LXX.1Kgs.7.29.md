@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:29** 
 <small><sub>**LXX:**</sub></small>
 And upon the joineries  between the protruding \[parts\] \[were\] lions and oxen and cherubim. And upon the protruding \[parts\] so also from above and from below the lions and the oxen places of a descending work. 
-<small><sub>**KJV:**</sub></small>
-And on the borders that [were] between the ledges [were] lions, oxen, and cherubims: and upon the ledges [there was] a base above: and beneath the lions and oxen [were] certain additions made of thin work.
-<small><sub>**BSB:**</sub></small>
-and on the panels between the uprights were lions, oxen, and cherubim. On the uprights was a pedestal above, and below the lions and oxen were wreaths of beveled work.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.28|<< 1 Kings 7:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.30|1 Kings 7:30 >>]]</td></tr></table>
 
 | Translation | Greek |

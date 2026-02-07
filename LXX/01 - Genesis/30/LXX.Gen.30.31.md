@@ -1,10 +1,7 @@
 **LXX Genesis 30:31** 
 <small><sub>**LXX:**</sub></small>
 And Laban said to him, What shall I give to you? And Jacob said to him, You shall not give to me anything. If you should do for me  this word, again I will tend  your flocks, and guard \[them\]. 
-<small><sub>**KJV:**</sub></small>
-And he said, What shall I give thee? And Jacob said, Thou shalt not give me any thing: if thou wilt do this thing for me, I will again feed [and] keep thy flock:
-<small><sub>**BSB:**</sub></small>
-“What can I give you?” Laban asked. “You do not need to give me anything,” Jacob replied. “If you do this one thing for me, I will keep on shepherding and keeping your flocks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.30|<< Genesis 30:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.32|Genesis 30:32 >>]]</td></tr></table>
 
 | Translation | Greek |

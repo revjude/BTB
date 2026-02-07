@@ -1,4 +1,4 @@
-**Psalms 84:4** (84:5)
+**Psalms 84:4**<big><big>[[Ps.84.1 Better Is One Day in Your Courts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [are] they that dwell in thy house: they will be still praising thee. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How blessed are those who dwell in Your house! They are ever praising You. Selah
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.84.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.84.3|<< Psalms 84:3]]</td><td align="center" style="border:none;">[[Ps.84|Psalms 84]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84.5|Psalms 84:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed!  |**<big>&#8207;[[H0835\|אַ֭שְׁרֵי]]&#8207; </big>**| 'Ash.rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are those who] dwell of  |**<big>&#8207;[[H3427\|יוֹשְׁבֵ֣י]]&#8207; </big>**| yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

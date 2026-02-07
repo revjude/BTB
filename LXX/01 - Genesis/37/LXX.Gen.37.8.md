@@ -1,10 +1,7 @@
 **LXX Genesis 37:8** 
 <small><sub>**LXX:**</sub></small>
 And his brothers said to him, Do you mean in reigning you will reign over us, or in dominating you will dominate us? And they added still to detest him because of  his dreams, and because of  his words. 
-<small><sub>**KJV:**</sub></small>
-And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words.
-<small><sub>**BSB:**</sub></small>
-“Do you intend to reign over us?” his brothers asked. “Will you actually rule us?” So they hated him even more because of his dream and his statements.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.7|<< Genesis 37:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.9|Genesis 37:9 >>]]</td></tr></table>
 
 | Translation | Greek |

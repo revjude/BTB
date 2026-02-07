@@ -1,12 +1,12 @@
-**John 11:15
-**<small><sub>**KJV:**</sub></small>
+**John 11:15**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I am glad for your sakes that I was not there, to the intent ye may believe; nevertheless let us go unto him.
 <small><sub>**BSB:**</sub></small>
 and for your sake I am glad I was not there, so that you may believe. But let us go to him.”
 <small><sub>**Literal:**</sub></small>
 And I rejoice for sake of you, in order that you may believe, that not I was there; But let us go to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.14|<< John 11:14]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.16|John 11:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I rejoice |**<big>[[G5463\|χαίρω]]</big>**  |chairō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

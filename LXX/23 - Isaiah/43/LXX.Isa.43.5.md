@@ -1,10 +1,7 @@
 **LXX Isaiah 43:5** 
 <small><sub>**LXX:**</sub></small>
 Do not fear, for I am with you! From \[the\] east I will lead  your seed, and from \[the\] west I will bring you together. 
-<small><sub>**KJV:**</sub></small>
-Fear not: for I [am] with thee: I will bring thy seed from the east, and gather thee from the west;
-<small><sub>**BSB:**</sub></small>
-Do not be afraid, for I am with you; I will bring your offspring from the east and gather you from the west.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.4|<< Isaiah 43:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.6|Isaiah 43:6 >>]]</td></tr></table>
 
 | Translation | Greek |

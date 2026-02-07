@@ -1,4 +1,4 @@
-**Ezekiel 22:28** 
+**Ezekiel 22:28**<big><big>[[Ezek.22.23 Israel’s Wicked Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And her prophets have daubed them with untempered [morter], seeing vanity, and divining lies unto them, saying, Thus saith the Lord GOD, when the LORD hath not spoken.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Her prophets whitewash these deeds by false visions and lying divinations, sayin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.27|<< Ezekiel 22:27]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.29|Ezekiel 22:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and prophets its  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5030\|נְבִיאֶ֗י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ne.vi.'Ei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have plastered  |**<big>&#8207;[[H2902A\|טָח֤וּ]]&#8207; </big>**| ta.Chu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 30:3** (30:4)
+**Numbers 30:3**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a woman also vow a vow unto the LORD, and bind [herself] by a bond, [being] in her father’s house in her youth;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And if a woman in her father’s house during her youth makes a vow to the LORD 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.2|<< Numbers 30:2]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.4|Numbers 30:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a woman  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0802G\|אִשָּׁ֕ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.Shah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

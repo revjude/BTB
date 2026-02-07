@@ -1,4 +1,4 @@
-**Daniel 11:35** 
+**Daniel 11:35**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [some] of them of understanding shall fall, to try them, and to purge, and to make [them] white, [even] to the time of the end: because [it is] yet for a time appointed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Some of the wise will fall so that they may be refined, purified, and made spotl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.34|<< Daniel 11:34]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.36|Daniel 11:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and some of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those [who] have insight  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7919A\|מַּשְׂכִּילִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mas.ki.Lim<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

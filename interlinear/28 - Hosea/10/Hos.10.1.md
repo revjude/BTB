@@ -1,4 +1,4 @@
-**Hosea 10:1** 
+**Hosea 10:1**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Israel [is] an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Israel was a luxuriant vine, yielding fruit for himself. The more his fruit incr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.17|<< Hosea 9:17]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.2|Hosea 10:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] a vine  |**<big>&#8207;[[H1612\|גֶּ֤פֶן]]&#8207; </big>**| Ge.fen<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | luxuriant  |**<big>&#8207;[[H1238A\|בּוֹקֵק֙]]&#8207; </big>**| bo.Kek<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

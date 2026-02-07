@@ -1,12 +1,12 @@
-**Philippians 2:19
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:19**<big><big>[[Phil.2.19 Timothy and Epaphroditus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state.
 <small><sub>**BSB:**</sub></small>
 Now I hope in the Lord Jesus to send Timothy to you soon, that I also may be cheered when I learn how you are doing.
 <small><sub>**Literal:**</sub></small>
 I hope however in [the] Lord Jesus Timothy soon to send to you, that I myself also may be encouraged having known the [things] concerning you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.18|<< Philippians 2:18]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.20|Philippians 2:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I hope |**<big>[[G1679\|Ἐλπίζω]]</big>**  |Elpizō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

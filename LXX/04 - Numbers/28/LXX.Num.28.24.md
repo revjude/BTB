@@ -1,10 +1,7 @@
 **LXX Numbers 28:24** 
 <small><sub>**LXX:**</sub></small>
 These according to these \[manners\] you shall offer \[per\] day for the seven days \[as\] a gift yield \[offering\] scent of pleasant aroma \[to the\] <span class="smallcaps">lord</span>; with the continual whole burnt-offering you shall offer  its libation. 
-<small><sub>**KJV:**</sub></small>
-After this manner ye shall offer daily, throughout the seven days, the meat of the sacrifice made by fire, of a sweet savour unto the LORD: it shall be offered beside the continual burnt offering, and his drink offering.
-<small><sub>**BSB:**</sub></small>
-Offer the same food each day for seven days as a food offering, a pleasing aroma to the LORD. It is to be offered with its drink offering and the regular burnt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.23|<< Numbers 28:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.25|Numbers 28:25 >>]]</td></tr></table>
 
 | Translation | Greek |

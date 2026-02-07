@@ -1,4 +1,4 @@
-**Psalms 18:2** (18:3)
+**Psalms 18:2**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] my rock, and my fortress, and my deliverer; my God, my strength, in whom I will trust; my buckler, and the horn of my salvation, [and] my high tower.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD is my rock, my fortress, and my deliverer. My God is my rock, in whom I
 > $\quad$ referenced by: [[Heb.2.13|Heb 2:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] rock my  |**<big>&#8207;[[H5553H\|סַֽלְעִ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| sal.'<small><sup>[[HNcmsc]]</sup></small> I<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

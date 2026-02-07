@@ -1,4 +1,4 @@
-**Nehemiah 12:44** 
+**Nehemiah 12:44**<big><big>[[Neh.12.44 Provisions for Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at that time were some appointed over the chambers for the treasures, for the offerings, for the firstfruits, and for the tithes, to gather into them out of the fields of the cities the portions of the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And on that same day men were appointed over the rooms that housed the supplies,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.43|<< Nehemiah 12:43]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.45|Nehemiah 12:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were appointed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6485J\|יִּפָּקְד֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.pa.ke.Du<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the day  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H3117G\|יּוֹם֩]]&#8207; </big>**| va<small><sup>[[HRd]]</sup></small> i.yOm<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

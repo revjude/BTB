@@ -1,10 +1,7 @@
 **LXX Joshua 23:9** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> shall utterly destroy them from your face -- great and strong nations; and to you no one withstood before you until  this day. 
-<small><sub>**KJV:**</sub></small>
-For the LORD hath driven out from before you great nations and strong: but [as for] you, no man hath been able to stand before you unto this day.
-<small><sub>**BSB:**</sub></small>
-The LORD has driven out great and powerful nations before you, and to this day no one can stand against you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.23.8|<< Joshua 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.23.10|Joshua 23:10 >>]]</td></tr></table>
 
 | Translation | Greek |

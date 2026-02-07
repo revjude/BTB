@@ -1,10 +1,7 @@
 **LXX Esther 8:13** 
 <small><sub>**LXX:**</sub></small>
 And the copies, let them be displayed clear to the eyes in all the kingdom, and for all the Jews to be prepared for this  day, for them to wage war against their opponents. 
-<small><sub>**KJV:**</sub></small>
-The copy of the writing for a commandment to be given in every province [was] published unto all people, and that the Jews should be ready against that day to avenge themselves on their enemies.
-<small><sub>**BSB:**</sub></small>
-A copy of the text of the edict was to be issued in every province and published to all the people, so that the Jews would be ready on that day to avenge themselves on their enemies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.12|<< Esther 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.14|Esther 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

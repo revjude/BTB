@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 7:6** 
 <small><sub>**LXX:**</sub></small>
 And the priests were standing at their watches, and the Levites with instruments of odes of \[the\] <span class="smallcaps">lord</span>, which David the king made,  to acknowledge before \[the\] <span class="smallcaps">lord</span>, that his mercy \[is\] into the eon, \[along\] with \[the\] hymns of David by their hand. And the priests were trumpeting trumpets opposite them, and all Israel \[was\] standing. 
-<small><sub>**KJV:**</sub></small>
-And the priests waited on their offices: the Levites also with instruments of musick of the LORD, which David the king had made to praise the LORD, because his mercy [endureth] for ever, when David praised by their ministry; and the priests sounded trumpets before them, and all Israel stood.
-<small><sub>**BSB:**</sub></small>
-The priests stood at their posts, as did the Levites with the musical instruments of the LORD, which King David had made for giving thanks to the LORD and with which David had offered praise, saying, “For His loving devotion endures forever.” Across from the Levites, the priests sounded trumpets, and all the Israelites were standing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.5|<< 2 Chronicles 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.7|2 Chronicles 7:7 >>]]</td></tr></table>
 
 | Translation | Greek |

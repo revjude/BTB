@@ -1,4 +1,4 @@
-**Psalms 104:4** 
+**Psalms 104:4**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who maketh his angels spirits; his ministers a flaming fire:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He makes the winds His messengers, flames of fire His servants.
 > $\quad$ referenced by: [[Heb.1.7|Heb 1:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] making  |**<big>&#8207;[[H6213H\|עֹשֶׂ֣ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | messengers his  |**<big>&#8207;[[H4397G\|מַלְאָכָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| mal.'a.Kha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

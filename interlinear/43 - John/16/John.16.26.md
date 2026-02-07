@@ -1,12 +1,12 @@
-**John 16:26
-**<small><sub>**KJV:**</sub></small>
+**John 16:26**<big><big>[[John.16.23 Ask in My Name|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:
 <small><sub>**BSB:**</sub></small>
 In that day you will ask in My name. I am not saying that I will ask the Father on your behalf.
 <small><sub>**Literal:**</sub></small>
 In that [very] <the> day in the name of Me you will ask; and not I say to you that I myself will implore the Father for you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.25|<< John 16:25]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.27|John 16:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that [very] |**<big>[[G1565\|ἐκείνῃ]]</big>**  |ekeinē <small><sup>[[D-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

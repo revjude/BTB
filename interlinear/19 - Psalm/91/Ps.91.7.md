@@ -1,4 +1,4 @@
-**Psalms 91:7** 
+**Psalms 91:7**<big><big>[[Ps.91.1 You Are My Refuge and My Fortress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A thousand shall fall at thy side, and ten thousand at thy right hand; [but] it shall not come nigh thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though a thousand may fall at your side, and ten thousand at your right hand, no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.91.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.91.6|<< Psalms 91:6]]</td><td align="center" style="border:none;">[[Ps.91|Psalms 91]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.91.8|Psalms 91:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it will fall  |**<big>&#8207;[[H5307G\|יִפֹּ֤ל]]&#8207; </big>**| yi.Pol<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from side your  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6654\|צִּדְּ]]&#8207;&#8207;[[H9021\|ךָ֨]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> tzi.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

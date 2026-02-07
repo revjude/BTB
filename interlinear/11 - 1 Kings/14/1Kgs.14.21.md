@@ -1,4 +1,4 @@
-**1 Kings 14:21** 
+**1 Kings 14:21**<big><big>[[1Kgs.14.21 Rehoboam Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rehoboam the son of Solomon reigned in Judah. Rehoboam [was] forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD did choose out of all the tribes of Israel, to put his name there. And his mother’s name [was] Naamah an Ammonitess.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Meanwhile, Rehoboam son of Solomon reigned in Judah. He was forty-one years old 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.20|<< 1 Kings 14:20]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.22|1 Kings 14:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Rehoboam  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7346\|רְחַבְעָם֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> re.chav.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

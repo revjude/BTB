@@ -1,10 +1,7 @@
 **LXX Psalm 140:13** 
 <small><sub>**LXX:**</sub></small>
 Besides, \[the\] just shall make acknowledgment \[to\] your name, and \[the\] upright shall dwell with  your presence. 
-<small><sub>**KJV:**</sub></small>
-Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.
-<small><sub>**BSB:**</sub></small>
-Surely the righteous will praise Your name; the upright will dwell in Your presence.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.140.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.12|<< Psalm 140:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.141.1|Psalm 141:1 >>]]</td></tr></table>
 
 | Translation | Greek |

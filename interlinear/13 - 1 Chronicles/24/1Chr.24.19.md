@@ -1,4 +1,4 @@
-**1 Chronicles 24:19** 
+**1 Chronicles 24:19**<big><big>[[1Chr.24.1 Twenty-Four Divisions of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [were] the orderings of them in their service to come into the house of the LORD, according to their manner, under Aaron their father, as the LORD God of Israel had commanded him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This was their appointed order for service when they entered the house of the LO
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.18|<< 1 Chronicles 24:18]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.20|1 Chronicles 24:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] group[s] their  |**<big>&#8207;[[H6486\|פְקֻדָּתָ֞]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| fe.ku.da.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

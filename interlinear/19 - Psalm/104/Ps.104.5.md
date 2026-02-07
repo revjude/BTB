@@ -1,4 +1,4 @@
-**Psalms 104:5** 
+**Psalms 104:5**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Who] laid the foundations of the earth, [that] it should not be removed for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He set the earth on its foundations, never to be moved.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.4|<< Psalms 104:4]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.6|Psalms 104:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he established  |**<big>&#8207;[[H3245\|יָֽסַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.sad-<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] earth  |**<big>&#8207;[[H0776G\|אֶ֭רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

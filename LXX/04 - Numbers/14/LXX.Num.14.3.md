@@ -1,10 +1,7 @@
 **LXX Numbers 14:3** 
 <small><sub>**LXX:**</sub></small>
 And why did \[the\] <span class="smallcaps">lord</span> bring us into  this land to fall in war?  Our wives and  children will be for ravaging. Now then it is best for us to return to Egypt. 
-<small><sub>**KJV:**</sub></small>
-And wherefore hath the LORD brought us unto this land, to fall by the sword, that our wives and our children should be a prey? were it not better for us to return into Egypt?
-<small><sub>**BSB:**</sub></small>
-Why is the LORD bringing us into this land to fall by the sword? Our wives and children will become plunder. Would it not be better for us to go back to Egypt?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.2|<< Numbers 14:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.4|Numbers 14:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Lamentations 3:30** 
+**Lamentations 3:30**<big><big>[[Lam.3.19 The Prophet’s Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He giveth [his] cheek to him that smiteth him: he is filled full with reproach.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let him offer his cheek to the one who would strike him; let him be filled with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.29|<< Lamentations 3:29]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.31|Lamentations 3:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let him give  |**<big>&#8207;[[H5414G\|יִתֵּ֧ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] [one who] strikes him  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5221\|מַכֵּ֛]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.Ke.<small><sup>[[HVhrmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 149:3** 
+**Psalms 149:3**<big><big>[[Ps.149.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let them praise His name with dancing, and make music to Him with tambourine and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.149.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.149.2|<< Psalms 149:2]]</td><td align="center" style="border:none;">[[Ps.149|Psalms 149]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.149.4|Psalms 149:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them praise  |**<big>&#8207;[[H1984B\|יְהַֽלְל֣וּ]]&#8207; </big>**| ye.ha.Lu<small><sup>[[HVpi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | name his  |**<big>&#8207;[[H8034\|שְׁמ֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 28:23** 
 <small><sub>**LXX:**</sub></small>
 besides the continual whole burnt-offering of the early morning which is a perpetual whole burnt-offering. 
-<small><sub>**KJV:**</sub></small>
-Ye shall offer these beside the burnt offering in the morning, which [is] for a continual burnt offering.
-<small><sub>**BSB:**</sub></small>
-You are to present these in addition to the regular morning burnt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.22|<< Numbers 28:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.24|Numbers 28:24 >>]]</td></tr></table>
 
 | Translation | Greek |

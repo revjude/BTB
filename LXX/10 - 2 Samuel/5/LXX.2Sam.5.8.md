@@ -1,10 +1,7 @@
 **LXX 2 Samuel 5:8** 
 <small><sub>**LXX:**</sub></small>
 And David said in  that day, Every one striking a Jebusite, let him touch by \[the\] dagger both the lame, and the blind, and the ones detesting the soul of David! On account of this they shall say, Blind and lame shall not enter into \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And David said on that day, Whosoever getteth up to the gutter, and smiteth the Jebusites, and the lame and the blind, [that are] hated of David’s soul, [he shall be chief and captain]. Wherefore they said, The blind and the lame shall not come into the house.
-<small><sub>**BSB:**</sub></small>
-On that day he said, “Whoever attacks the Jebusites must use the water shaft to reach the lame and blind who are despised by David.” That is why it is said, “The blind and the lame will never enter the palace.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.7|<< 2 Samuel 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.9|2 Samuel 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

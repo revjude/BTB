@@ -1,5 +1,5 @@
-**Revelation 15:4
-**<small><sub>**KJV:**</sub></small>
+**Revelation 15:4**<big><big>[[Rev.15.1 The Song of Moses and the Lamb|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who shall not fear thee, O Lord, and glorify thy name? for [thou] only [art] holy: for all nations shall come and worship before thee; for thy judgments are made manifest.
 <small><sub>**BSB:**</sub></small>
 Who will not fear You, O Lord, and glorify Your name? For You alone are holy. All nations will come and worship before You, for Your righteous acts have been revealed.”
@@ -10,7 +10,7 @@ Who certainly surely may fear you O Lord, and will glorify the name of You? For 
 > $\quad$ referencing: [[LXX.Ps.86.9|Ps 86:9]] ☩ [[LXX.Jer.10.6|Jer 10:6-7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | certainly |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

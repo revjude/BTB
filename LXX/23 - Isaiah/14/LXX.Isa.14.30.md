@@ -1,10 +1,7 @@
 **LXX Isaiah 14:30** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] poor shall be grazed by him; and poor men with peace shall rest; and he shall do away your seed with hunger; and  your vestige he will do away with. 
-<small><sub>**KJV:**</sub></small>
-And the firstborn of the poor shall feed, and the needy shall lie down in safety: and I will kill thy root with famine, and he shall slay thy remnant.
-<small><sub>**BSB:**</sub></small>
-Then the firstborn of the poor will find pasture, and the needy will lie down in safety, but I will kill your root by famine, and your remnant will be slain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.14.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.14.29|<< Isaiah 14:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.14.31|Isaiah 14:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Daniel 5:12** 
+**Daniel 5:12**<big><big>[[Dan.5.5 The Handwriting on the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Forasmuch as an excellent spirit, and knowledge, and understanding, interpreting of dreams, and shewing of hard sentences, and dissolving of doubts, were found in the same Daniel, whom the king named Belteshazzar: now let Daniel be called, and he will shew the interpretation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ did this because Daniel, the one he named Belteshazzar, was found to have an ext
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.11|<< Daniel 5:11]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.13|Daniel 5:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as to  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H9005\|ל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ko<small><sup>[[AR]]</sup></small> l-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | because  |**<big>&#8207;[[H6903H\|קֳבֵ֡ל]]&#8207; </big>**| ko.Vel<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

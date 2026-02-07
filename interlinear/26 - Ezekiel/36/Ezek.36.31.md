@@ -1,4 +1,4 @@
-**Ezekiel 36:31** 
+**Ezekiel 36:31**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall ye remember your own evil ways, and your doings that [were] not good, and shall lothe yourselves in your own sight for your iniquities and for your abominations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will remember your evil ways and wicked deeds, and you will loathe your
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.30|<< Ezekiel 36:30]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.32|Ezekiel 36:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will remember  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H2142\|זְכַרְתֶּם֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ze.khar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

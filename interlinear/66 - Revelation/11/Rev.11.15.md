@@ -1,5 +1,5 @@
-**Revelation 11:15
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:15**<big><big>[[Rev.11.15 The Seventh Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the seventh angel sounded; and there were great voices in heaven, saying, The kingdoms of this world are become [the kingdoms] of our Lord, and of his Christ; and he shall reign for ever and ever.
 <small><sub>**BSB:**</sub></small>
 Then the seventh angel sounded his trumpet, and loud voices called out in heaven: “The kingdom of the world has become the kingdom of our Lord and of His Christ, and He will reign forever and ever.”
@@ -11,7 +11,7 @@ And the seventh angel sounded [his] trumpet, and there were voices great in <the
 > $\quad$ alluding to: [[LXX.Dan.7.14|Dan 7:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

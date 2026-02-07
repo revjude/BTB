@@ -1,4 +1,4 @@
-**Deuteronomy 24:17** 
+**Deuteronomy 24:17**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not pervert the judgment of the stranger, [nor] of the fatherless; nor take a widow’s raiment to pledge:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not deny justice to the foreigner or the fatherless, and do not take a widow�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.16|<< Deuteronomy 24:16]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.18|Deuteronomy 24:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will turn aside  |**<big>&#8207;[[H5186\|תַטֶּ֔ה]]&#8207; </big>**| ta.Teh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 32:6** 
+**Isaiah 32:6**<big><big>[[Isa.32.1 A Righteous King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy, and to utter error against the LORD, to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For a fool speaks foolishness; his mind plots iniquity. He practices ungodliness
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.5|<< Isaiah 32:5]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.7|Isaiah 32:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a fool  |**<big>&#8207;[[H5036\|נָבָל֙]]&#8207; </big>**| na.Val<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

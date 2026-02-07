@@ -1,4 +1,4 @@
-**Leviticus 13:19** 
+**Leviticus 13:19**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the priest;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and a white swelling or a reddish-white spot develops where the boil was, he mus
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.18|<< Leviticus 13:18]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.20|Leviticus 13:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֞ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] place of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H4725\|מְק֤וֹם]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> m.Kom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

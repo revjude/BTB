@@ -1,10 +1,7 @@
 **LXX Hosea 2:8** 
 <small><sub>**LXX:**</sub></small>
 And she did not know that I gave to her the grain, and the wine, and the olive oil, and multiplied silver to her. But she made silver and gold \[things\] \[to\] Baal. 
-<small><sub>**KJV:**</sub></small>
-For she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, [which] they prepared for Baal.
-<small><sub>**BSB:**</sub></small>
-For she does not acknowledge that it was I who gave her grain, new wine, and oil, who lavished on her silver and gold—which they crafted for Baal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.7|<< Hosea 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.9|Hosea 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

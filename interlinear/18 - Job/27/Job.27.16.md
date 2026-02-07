@@ -1,4 +1,4 @@
-**Job 27:16** 
+**Job 27:16**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though he heap up silver as the dust, and prepare raiment as the clay;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though he heaps up silver like dust and piles up a wardrobe like clay,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.15|<< Job 27:15]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.17|Job 27:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will heap up  |**<big>&#8207;[[H6651\|יִצְבֹּ֣ר]]&#8207; </big>**| yitz.Bor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 28:14** 
+**Ezekiel 28:14**<big><big>[[Ezek.28.11 A Lament for the King of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou [art] the anointed cherub that covereth; and I have set thee [so]: thou wast upon the holy mountain of God; thou hast walked up and down in the midst of the stones of fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You were anointed as a guardian cherub, for I had ordained you. You were on the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.13|<< Ezekiel 28:13]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.15|Ezekiel 28:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859C\|אַ֨תְּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'At-<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] a cherub of  |**<big>&#8207;[[H3742\|כְּר֔וּב]]&#8207; </big>**| ke.Ruv<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

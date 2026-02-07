@@ -1,10 +1,7 @@
 **LXX Exodus 4:27** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Aaron, Go to meet with Moses in the wilderness! And he went, and he met with him in the mountain  of God, and they kissed one another. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him.
-<small><sub>**BSB:**</sub></small>
-Meanwhile, the LORD had said to Aaron, “Go and meet Moses in the wilderness.” So he went and met Moses at the mountain of God and kissed him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.26|<< Exodus 4:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.28|Exodus 4:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezra 3:13** 
 <small><sub>**LXX:**</sub></small>
 And the people were not recognizing the sound of the cheering  of gladness from the sound of the weeping of the people; for the people cried out with a great sound, and the voice was heard even from far off. 
-<small><sub>**KJV:**</sub></small>
-So that the people could not discern the noise of the shout of joy from the noise of the weeping of the people: for the people shouted with a loud shout, and the noise was heard afar off.
-<small><sub>**BSB:**</sub></small>
-The people could not distinguish the shouts of joy from the sound of weeping, because the people were making so much noise. And the sound was heard from afar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.3.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.12|<< Ezra 3:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.4.1|Ezra 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Philippians 1:18
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:18**<big><big>[[Phil.1.12 Paul’s Trials Advance the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What then? notwithstanding, every way, whether in pretence, or in truth, Christ is preached; and I therein do rejoice, yea, and will rejoice.
 <small><sub>**BSB:**</sub></small>
 What then is the issue? Just this: that in every way, whether by false motives or true, Christ is preached. And in this I rejoice. Yes, and I will continue to rejoice,
 <small><sub>**Literal:**</sub></small>
 What then? Only that in every way whether in pretext or in truth Christ is proclaimed, And in this I rejoice Yes and I will rejoice.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.17|<< Philippians 1:17]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.19|Philippians 1:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then? |**<big>[[G1063\|γάρ;]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

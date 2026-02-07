@@ -1,4 +1,4 @@
-**Judges 15:11** 
+**Judges 15:11**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then three thousand men of Judah went to the top of the rock Etam, and said to Samson, Knowest thou not that the Philistines [are] rulers over us? what [is] this [that] thou hast done unto us? And he said unto them, As they did unto me, so have I done unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In response, three thousand men of Judah went to the cave at the rock of Etam, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.10|<< Judges 15:10]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.12|Judges 15:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3381\|יֵּרְד֡וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.re.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | three  |**<big>&#8207;[[H7969\|שְׁלֹשֶׁת֩]]&#8207; </big>**| she.lo.Shet<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

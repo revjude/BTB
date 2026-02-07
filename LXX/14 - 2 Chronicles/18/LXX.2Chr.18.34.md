@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:34** 
 <small><sub>**LXX:**</sub></small>
 And the battle turned in  that day. And the king of Israel was set upon the chariot right opposite Syria until evening, and he died in the going down of the sun. 
-<small><sub>**KJV:**</sub></small>
-And the battle increased that day: howbeit the king of Israel stayed [himself] up in [his] chariot against the Syrians until the even: and about the time of the sun going down he died.
-<small><sub>**BSB:**</sub></small>
-The battle raged throughout that day, and the king of Israel propped himself up in his chariot facing the Arameans until evening. And at sunset he died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.33|<< 2 Chronicles 18:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.1|2 Chronicles 19:1 >>]]</td></tr></table>
 
 | Translation | Greek |

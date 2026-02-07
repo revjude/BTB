@@ -1,4 +1,4 @@
-**Proverbs 23:13** 
+**Proverbs 23:13**<big><big>[[Prov.23.13 Saying 13|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Withhold not correction from the child: for [if] thou beatest him with the rod, he shall not die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not withhold discipline from a child; although you strike him with a rod, he 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.12|<< Proverbs 23:12]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.14|Proverbs 23:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you withhold  |**<big>&#8207;[[H4513\|תִּמְנַ֣ע]]&#8207; </big>**| tim.Na'<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

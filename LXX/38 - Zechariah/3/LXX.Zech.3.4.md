@@ -1,10 +1,7 @@
 **LXX Zechariah 3:4** 
 <small><sub>**LXX:**</sub></small>
 And \[the angel\] responded and said to the ones standing in front of him, saying, Remove the filthy garments from him! And he said to him, Behold, I took  your iniquities. And you clothe him in a foot length robe! 
-<small><sub>**KJV:**</sub></small>
-And he answered and spake unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment.
-<small><sub>**BSB:**</sub></small>
-So the angel said to those standing before him, “Take off his filthy clothes!” Then he said to Joshua, “See, I have removed your iniquity, and I will clothe you with splendid robes.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.3.3|<< Zechariah 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.3.5|Zechariah 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

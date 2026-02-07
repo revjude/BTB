@@ -1,4 +1,4 @@
-**Isaiah 40:7** 
+**Isaiah 40:7**<big><big>[[Isa.40.6 The Enduring Word|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The grass withereth, the flower fadeth: because the spirit of the LORD bloweth upon it: surely the people [is] grass.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The grass withers and the flowers fall when the breath of the LORD blows on them
 > $\quad$ referenced by: [[Jas.1.10|Jas 1:10-11]] ☩ [[1Pet.1.24|1Pet 1:24-25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it dries up  |**<big>&#8207;[[H3001\|יָבֵ֤שׁ]]&#8207; </big>**| ya.Vesh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | grass  |**<big>&#8207;[[H2682A\|חָצִיר֙]]&#8207; </big>**| cha.Tzir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

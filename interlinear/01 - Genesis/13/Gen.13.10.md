@@ -1,4 +1,4 @@
-**Genesis 13:10** 
+**Genesis 13:10**<big><big>[[Gen.13.10 Lot Proceeds toward Sodom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Lot lifted up his eyes, and beheld all the plain of Jordan, that it [was] well watered every where, before the LORD destroyed Sodom and Gomorrah, [even] as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Lot looked out and saw that the whole plain of the Jordan, all the way to Zo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.9|<< Genesis 13:9]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.11|Genesis 13:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lifted up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375M\|יִּשָּׂא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.sa'-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Lot  |**<big>&#8207;[[H3876\|ל֣וֹט]]&#8207; </big>**| Lot<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

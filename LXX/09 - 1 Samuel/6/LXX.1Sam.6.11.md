@@ -1,10 +1,7 @@
 **LXX 1 Samuel 6:11** 
 <small><sub>**LXX:**</sub></small>
 And they put the ark of \[the\] <span class="smallcaps">lord</span> upon the wagon, and the place chest, and the mice  of gold, and the images  of their buttocks. 
-<small><sub>**KJV:**</sub></small>
-And they laid the ark of the LORD upon the cart, and the coffer with the mice of gold and the images of their emerods.
-<small><sub>**BSB:**</sub></small>
-Then they put the ark of the LORD on the cart, along with the chest containing the gold rats and the images of the tumors.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.10|<< 1 Samuel 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.12|1 Samuel 6:12 >>]]</td></tr></table>
 
 | Translation | Greek |

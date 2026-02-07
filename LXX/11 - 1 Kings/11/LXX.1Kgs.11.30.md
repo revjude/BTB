@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:30** 
 <small><sub>**LXX:**</sub></small>
 And Ahijah took hold of  his own cloak, the new \[one\]  upon him, and he tore it \[into\] twelve pieces. 
-<small><sub>**KJV:**</sub></small>
-And Ahijah caught the new garment that [was] on him, and rent it [in] twelve pieces:
-<small><sub>**BSB:**</sub></small>
-And Ahijah took hold of the new cloak he was wearing, tore it into twelve pieces,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.29|<< 1 Kings 11:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.31|1 Kings 11:31 >>]]</td></tr></table>
 
 | Translation | Greek |

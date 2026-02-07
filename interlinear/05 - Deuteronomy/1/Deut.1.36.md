@@ -1,4 +1,4 @@
-**Deuteronomy 1:36** 
+**Deuteronomy 1:36**<big><big>[[Deut.1.34 Israel’s Penalty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ except Caleb son of Jephunneh. He will see it, and I will give him and his desce
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.35|<< Deuteronomy 1:35]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.37|Deuteronomy 1:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | except  |**<big>&#8207;[[H2108\|זֽוּלָתִ֞י]]&#8207; </big>**| zu.la.Ti<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Caleb  |**<big>&#8207;[[H3612G\|כָּלֵ֤ב]]&#8207; </big>**| ka.Lev<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

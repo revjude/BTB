@@ -1,4 +1,4 @@
-**Exodus 3:6** 
+**Exodus 3:6**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he said, I [am] the God of thy father, the God of Abraham, the God of Isaac, and the God of Jacob. And Moses hid his face; for he was afraid to look upon God.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then He said, “I am the God of your father, the God of Abraham, the God of Isa
 > $\quad$ referenced by: [[Matt.22.32|Matt 22:32]] ☩ [[Mark.12.26|Mark 12:26]] ☩ [[Luke.20.37|Luke 20:37]] ☩ [[Acts.3.13|Acts 3:13]] ☩ [[Acts.7.32|Acts 7:32]] ☩ [[Rom.3.13|Rom 3:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִי֙]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

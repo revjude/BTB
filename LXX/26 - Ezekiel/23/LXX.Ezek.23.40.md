@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:40** 
 <small><sub>**LXX:**</sub></small>
 And they sent forth to the men, to the ones having come from far off, to which they sent out messengers to them. And together  in their coming straight you bathed and your eyes with antimony, and adorned yourself with ornamentation, 
-<small><sub>**KJV:**</sub></small>
-And furthermore, that ye have sent for men to come from far, unto whom a messenger [was] sent; and, lo, they came: for whom thou didst wash thyself, paintedst thy eyes, and deckedst thyself with ornaments,
-<small><sub>**BSB:**</sub></small>
-Furthermore, you sisters sent messengers for men who came from afar; and behold, when they arrived, you bathed for them, painted your eyes, and adorned yourself with jewelry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.39|<< Ezekiel 23:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.41|Ezekiel 23:41 >>]]</td></tr></table>
 
 | Translation | Greek |

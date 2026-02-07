@@ -1,12 +1,12 @@
-**Psalms 78:1** 
+**Psalms 78:1**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-Maschil of Asaph. Give ear, O my people, [to] my law: incline your ears to the words of my mouth.
+Give ear, O my people, [to] my law: incline your ears to the words of my mouth.
 <small><sub>**BSB:**</sub></small>
 A Maskil of Asaph. Give ear, O my people, to my instruction; listen to the words of my mouth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.0|<< Psalms 78:0]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.2|Psalms 78:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give ear to !  |**<big>&#8207;[[H0238\|הַאֲזִ֣ינָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ha.'a.Zi.na<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O people my  |**<big>&#8207;[[H5971A\|עַ֭מִּ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'A.m<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

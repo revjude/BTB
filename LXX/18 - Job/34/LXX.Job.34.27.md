@@ -1,10 +1,7 @@
 **LXX Job 34:27** 
 <small><sub>**LXX:**</sub></small>
 For they turned aside from \[the\] law of God; they did not recognize his ordinances, 
-<small><sub>**KJV:**</sub></small>
-Because they turned back from him, and would not consider any of his ways:
-<small><sub>**BSB:**</sub></small>
-because they turned aside from Him and had no regard for any of His ways.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.26|<< Job 34:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.28|Job 34:28 >>]]</td></tr></table>
 
 | Translation | Greek |

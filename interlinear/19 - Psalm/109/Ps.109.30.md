@@ -1,4 +1,4 @@
-**Psalms 109:30** 
+**Psalms 109:30**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will greatly praise the LORD with my mouth; yea, I will praise him among the multitude.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With my mouth I will thank the LORD profusely; I will praise Him in the presence
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.29|<< Psalms 109:29]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.31|Psalms 109:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will give thanks to  |**<big>&#8207;[[H3034\|א֘וֹדֶ֤ה]]&#8207; </big>**| 'o.Deh<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

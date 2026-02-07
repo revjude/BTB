@@ -1,10 +1,7 @@
 **LXX Numbers 14:30** 
 <small><sub>**LXX:**</sub></small>
 Shall you enter into the land upon which I stretched out  my hand to encamp you upon it, \[no\]. But only Caleb, son of Jephunneh, and Joshua the \[son of\] Nun, 
-<small><sub>**KJV:**</sub></small>
-Doubtless ye shall not come into the land, [concerning] which I sware to make you dwell therein, save Caleb the son of Jephunneh, and Joshua the son of Nun.
-<small><sub>**BSB:**</sub></small>
-Surely none of you will enter the land in which I swore to settle you, except Caleb son of Jephunneh and Joshua son of Nun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.29|<< Numbers 14:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.31|Numbers 14:31 >>]]</td></tr></table>
 
 | Translation | Greek |

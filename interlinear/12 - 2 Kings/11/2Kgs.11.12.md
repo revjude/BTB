@@ -1,4 +1,4 @@
-**2 Kings 11:12** 
+**2 Kings 11:12**<big><big>[[2Kgs.11.4 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought forth the king’s son, and put the crown upon him, and [gave him] the testimony; and they made him king, and anointed him; and they clapped their hands, and said, God save the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jehoiada brought out the king’s son, put the crown on him, presented him 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.11|<< 2 Kings 11:11]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.13|2 Kings 11:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318H\|יּוֹצִ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Tzi'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

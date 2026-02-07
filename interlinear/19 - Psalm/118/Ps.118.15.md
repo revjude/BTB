@@ -1,4 +1,4 @@
-**Psalms 118:15** 
+**Psalms 118:15**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The voice of rejoicing and salvation [is] in the tabernacles of the righteous: the right hand of the LORD doeth valiantly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Shouts of joy and salvation resound in the tents of the righteous: “The right 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.14|<< Psalms 118:14]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.16|Psalms 118:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sound of  |**<big>&#8207;[[H6963A\|ק֤וֹל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a shout of joy  |**<big>&#8207;[[H7440\|רִנָּ֬ה]]&#8207; </big>**| ri.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 25:23** 
+**Exodus 25:23**<big><big>[[Exod.25.23 The Table of Showbread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt also make a table [of] shittim wood: two cubits [shall be] the length thereof, and a cubit the breadth thereof, and a cubit and a half the height thereof.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You are also to make a table of acacia wood two cubits long, a cubit wide, and a
 > $\quad$ referenced by: [[Heb.9.2|Heb 9:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213H\|עָשִׂ֥יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a table  |**<big>&#8207;[[H7979\|שֻׁלְחָ֖ן]]&#8207; </big>**| shul.Chan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

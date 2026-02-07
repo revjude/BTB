@@ -1,12 +1,12 @@
-**Matthew 6:21
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:21**<big><big>[[Matt.6.19 Treasures in Heaven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For where your treasure is, there will your heart be also.
 <small><sub>**BSB:**</sub></small>
 For where your treasure is, there your heart will be also.
 <small><sub>**Literal:**</sub></small>
 Where for is the treasure of you [one] there will be also the heart of you [one].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.20|<< Matthew 6:20]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.22|Matthew 6:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Where |**<big>[[G3699\|ὅπου]]</big>**  |hopou <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 52:7** 
+**Jeremiah 52:7**<big><big>[[Jer.52.1 The Fall of Jerusalem Recounted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the city was broken up, and all the men of war fled, and went forth out of the city by night by the way of the gate between the two walls, which [was] by the king’s garden; (now the Chaldeans [were] by the city round about:) and they went by the way of the plain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the city was breached; and though the Chaldeans had surrounded the city, al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.6|<< Jeremiah 52:6]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.8|Jeremiah 52:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was broken into  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1234\|תִּבָּקַ֣ע]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.ba.Ka'<small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֗יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

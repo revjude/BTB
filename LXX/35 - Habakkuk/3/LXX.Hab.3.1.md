@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[The\] prayer of Habakkuk the prophet with an ode. 
-<small><sub>**KJV:**</sub></small>
-A prayer of Habakkuk the prophet upon Shigionoth.
-<small><sub>**BSB:**</sub></small>
-This is a prayer of Habakkuk the prophet, according to Shigionoth:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.2.20|<< Habakkuk 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.2|Habakkuk 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

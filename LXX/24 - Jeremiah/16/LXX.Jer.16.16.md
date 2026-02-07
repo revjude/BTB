@@ -1,10 +1,7 @@
 **LXX Jeremiah 16:16** 
 <small><sub>**LXX:**</sub></small>
 Behold, I send many fishermen, says \[the\] <span class="smallcaps">lord</span>, and they shall fish them. And after these I shall send many hunters, and they shall hunt them upon every mountain, and upon every hill, and from out of the holes of the rocks. 
-<small><sub>**KJV:**</sub></small>
-Behold, I will send for many fishers, saith the LORD, and they shall fish them; and after will I send for many hunters, and they shall hunt them from every mountain, and from every hill, and out of the holes of the rocks.
-<small><sub>**BSB:**</sub></small>
-But for now I will send for many fishermen, declares the LORD, and they will catch them. After that I will send for many hunters, and they will hunt them down on every mountain and hill, even from the clefts of the rocks.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.16.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.16.15|<< Jeremiah 16:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.16.17|Jeremiah 16:17 >>]]</td></tr></table>
 
 | Translation | Greek |

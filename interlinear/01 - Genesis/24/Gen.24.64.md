@@ -1,4 +1,4 @@
-**Genesis 24:64** 
+**Genesis 24:64**<big><big>[[Gen.24.62 Isaac Marries Rebekah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rebekah lifted up her eyes, and when she saw Isaac, she lighted off the camel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when Rebekah looked up and saw Isaac, she got down from her camel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.64|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.63|<< Genesis 24:63]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.65|Genesis 24:65 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she lifted up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375M\|תִּשָּׂ֤א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Sa'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rebekah  |**<big>&#8207;[[H7259\|רִבְקָה֙]]&#8207; </big>**| riv.Kah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

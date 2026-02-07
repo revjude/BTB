@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:26** 
 <small><sub>**LXX:**</sub></small>
 Intoxicate him! for he was magnified against \[the\] <span class="smallcaps">lord</span>. And Moab shall strike with his hand, and will be for laughter, even himself, 
-<small><sub>**KJV:**</sub></small>
-Make ye him drunken: for he magnified [himself] against the LORD: Moab also shall wallow in his vomit, and he also shall be in derision.
-<small><sub>**BSB:**</sub></small>
-“Make him drunk, because he has magnified himself against the LORD; so Moab will wallow in his own vomit, and he will also become a laughingstock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.25|<< Jeremiah 48:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.27|Jeremiah 48:27 >>]]</td></tr></table>
 
 | Translation | Greek |

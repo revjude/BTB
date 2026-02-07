@@ -1,4 +1,4 @@
-**Ezekiel 33:13** 
+**Ezekiel 33:13**<big><big>[[Ezek.33.10 The Message of the Watchman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I shall say to the righteous, [that] he shall surely live; if he trust to his own righteousness, and commit iniquity, all his righteousnesses shall not be remembered; but for his iniquity that he hath committed, he shall die for it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If I tell the righteous man that he will surely live, but he then trusts in his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.12|<< Ezekiel 33:12]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.14|Ezekiel 33:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when say I  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0559\|אָמְרִ֤]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'a.me.R<small><sup>[[HVqcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the righteous [person]  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6662\|צַּדִּיק֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

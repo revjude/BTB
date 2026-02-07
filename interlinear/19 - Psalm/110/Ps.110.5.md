@@ -1,4 +1,4 @@
-**Psalms 110:5** 
+**Psalms 110:5**<big><big>[[Ps.110.1 God’s Faithful Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Lord at thy right hand shall strike through kings in the day of his wrath.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The Lord is at Your right hand; He will crush kings in the day of His wrath.
 > $\quad$ referenced by: [[Rev.6.15|Rev 6:15-16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] at  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

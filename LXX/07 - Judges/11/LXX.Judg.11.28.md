@@ -1,10 +1,7 @@
 **LXX Judges 11:28** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] king of \[the\] sons of Ammon would not hearken to the words of Jephthah which he sent to him. 
-<small><sub>**KJV:**</sub></small>
-Howbeit the king of the children of Ammon hearkened not unto the words of Jephthah which he sent him.
-<small><sub>**BSB:**</sub></small>
-But the king of the Ammonites paid no heed to the message Jephthah sent him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.27|<< Judges 11:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.29|Judges 11:29 >>]]</td></tr></table>
 
 | Translation | Greek |

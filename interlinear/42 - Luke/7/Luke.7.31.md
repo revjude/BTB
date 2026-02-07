@@ -1,12 +1,12 @@
-**Luke 7:31
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:31**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?
 <small><sub>**BSB:**</sub></small>
 “To what, then, can I compare the men of this generation? What are they like?
 <small><sub>**Literal:**</sub></small>
 said now <the> Lord To what therefore will I liken the men of the generation this And to what are they like?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.30|<< Luke 7:30]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.32|Luke 7:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="TR">K</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">K</abbr> | |

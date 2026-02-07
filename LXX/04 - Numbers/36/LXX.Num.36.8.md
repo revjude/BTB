@@ -1,10 +1,7 @@
 **LXX Numbers 36:8** 
 <small><sub>**LXX:**</sub></small>
 And every daughter acting as next of kin of an inheritance from the tribes of the sons of Israel, they shall be wives to one of the ones from out of the people of her father, that the sons of Israel should be acting as next of kin, each in the inheritance  of his father. 
-<small><sub>**KJV:**</sub></small>
-And every daughter, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers.
-<small><sub>**BSB:**</sub></small>
-Every daughter who possesses an inheritance from any Israelite tribe must marry within a clan of the tribe of her father, so that every Israelite will possess the inheritance of his fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.36.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.7|<< Numbers 36:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.9|Numbers 36:9 >>]]</td></tr></table>
 
 | Translation | Greek |

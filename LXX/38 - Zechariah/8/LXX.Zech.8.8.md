@@ -1,10 +1,7 @@
 **LXX Zechariah 8:8** 
 <small><sub>**LXX:**</sub></small>
 And I will bring them, and they will encamp in \[the\] midst of Jerusalem; and they will be to me for a people, and I will be to them for God, in truth and in righteousness. 
-<small><sub>**KJV:**</sub></small>
-And I will bring them, and they shall dwell in the midst of Jerusalem: and they shall be my people, and I will be their God, in truth and in righteousness.
-<small><sub>**BSB:**</sub></small>
-I will bring them back to dwell in Jerusalem, where they will be My people, and I will be their faithful and righteous God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.7|<< Zechariah 8:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.9|Zechariah 8:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Esther 2:12** 
+**Esther 2:12**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when every maid’s turn was come to go in to king Ahasuerus, after that she had been twelve months, according to the manner of the women, (for so were the days of their purifications accomplished, [to wit], six months with oil of myrrh, and six months with sweet odours, and with [other] things for the purifying of the women;)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the twelve months before her turn to go to King Xerxes, the harem regulation 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.11|<< Esther 2:11]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.13|Esther 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and when arrived  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5060\|הַגִּ֡יעַ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> ha.Gi.a'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] turn of  |**<big>&#8207;[[H8447\|תֹּר֩]]&#8207; </big>**| tor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

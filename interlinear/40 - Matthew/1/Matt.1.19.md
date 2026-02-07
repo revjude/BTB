@@ -1,12 +1,12 @@
-**Matthew 1:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:19**<big><big>[[Matt.1.18 The Birth of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Joseph her husband, being a just [man], and not willing to make her a publick example, was minded to put her away privily.
 <small><sub>**BSB:**</sub></small>
 Because Joseph her husband was a righteous man and was unwilling to disgrace her publicly, he resolved to divorce her quietly.
 <small><sub>**Literal:**</sub></small>
 Joseph now the husband of her, righteous being and not willing her to disgrace, he purposed secretly to send away her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.18|<< Matthew 1:18]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.20|Matthew 1:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Joseph |**<big>[[G2501G\|Ἰωσὴφ]]</big>**  |Iōsēph <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezra 3:11** 
 <small><sub>**LXX:**</sub></small>
 And they answered in praise and confession to the <span class="smallcaps">lord</span>, \[saying\] That \[he is\] good, that into the eon  \[is\] his mercy upon  Israel. And all the people shouted a great voice in the praising the <span class="smallcaps">lord</span> at the groundwork of the house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And they sang together by course in praising and giving thanks unto the LORD; because [he is] good, for his mercy [endureth] for ever toward Israel. And all the people shouted with a great shout, when they praised the LORD, because the foundation of the house of the LORD was laid.
-<small><sub>**BSB:**</sub></small>
-And they sang responsively with praise and thanksgiving to the LORD: “For He is good; for His loving devotion to Israel endures forever.” Then all the people gave a great shout of praise to the LORD, because the foundation of the house of the LORD had been laid.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.10|<< Ezra 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.12|Ezra 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

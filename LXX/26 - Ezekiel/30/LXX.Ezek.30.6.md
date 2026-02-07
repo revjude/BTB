@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:6** 
 <small><sub>**LXX:**</sub></small>
 Thus says Adonai \[the\] <span class="smallcaps">lord</span>; And the supports of Egypt shall fall, and the insolence of her strength shall go down from Migdol unto Syene; they shall fall by the sword in her, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; They also that uphold Egypt shall fall; and the pride of her power shall come down: from the tower of Syene shall they fall in it by the sword, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD says: The allies of Egypt will fall, and her proud strength will collapse. From Migdol to Syene they will fall by the sword within her, declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.5|<< Ezekiel 30:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.7|Ezekiel 30:7 >>]]</td></tr></table>
 
 | Translation | Greek |

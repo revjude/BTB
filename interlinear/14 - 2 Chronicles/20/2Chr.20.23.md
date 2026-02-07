@@ -1,4 +1,4 @@
-**2 Chronicles 20:23** 
+**2 Chronicles 20:23**<big><big>[[2Chr.20.20 The Enemies Destroy Themselves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the children of Ammon and Moab stood up against the inhabitants of mount Seir, utterly to slay and destroy [them]: and when they had made an end of the inhabitants of Seir, every one helped to destroy another.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Ammonites and Moabites rose up against the inhabitants of Mount Seir, devoti
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.22|<< 2 Chronicles 20:22]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.24|2 Chronicles 20:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they rose up  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H5975I\|יַּֽעַמְדוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.'am.du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֨י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

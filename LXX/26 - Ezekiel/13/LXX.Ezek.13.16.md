@@ -1,10 +1,7 @@
 **LXX Ezekiel 13:16** 
 <small><sub>**LXX:**</sub></small>
 the prophets  of Israel, the ones prophesying against Jerusalem, and the ones seeing her peace, and there is no peace, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-[To wit], the prophets of Israel which prophesy concerning Jerusalem, and which see visions of peace for her, and [there is] no peace, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-those prophets of Israel who prophesied to Jerusalem and saw a vision of peace for her when there was no peace, declares the Lord GOD.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.15|<< Ezekiel 13:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.17|Ezekiel 13:17 >>]]</td></tr></table>
 
 | Translation | Greek |

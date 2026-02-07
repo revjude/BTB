@@ -1,5 +1,5 @@
-**1 Peter 3:15
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:15**<big><big>[[1Pet.3.14 Suffering for Righteousness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But sanctify the Lord God in your hearts: and [be] ready always to [give] an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:
 <small><sub>**BSB:**</sub></small>
 But in your hearts sanctify Christ as Lord. Always be prepared to give a defense to everyone who asks you the reason for the hope that is in you. But respond with gentleness and respect,
@@ -10,7 +10,7 @@ But in your hearts sanctify Christ as Lord. Always be prepared to give a defense
 > $\quad$ referencing: [[LXX.Isa.8.13|Isa 8:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [As] Lord |**<big>[[G2962G\|κύριον]]</big>**  |kurion <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

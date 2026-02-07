@@ -1,10 +1,7 @@
 **LXX Job 35:4** 
 <small><sub>**LXX:**</sub></small>
 I shall give to you an answer, and to your three friends. 
-<small><sub>**KJV:**</sub></small>
-I will answer thee, and thy companions with thee.
-<small><sub>**BSB:**</sub></small>
-I will reply to you and to your friends as well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.3|<< Job 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.5|Job 35:5 >>]]</td></tr></table>
 
 | Translation | Greek |

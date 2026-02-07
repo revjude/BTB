@@ -1,10 +1,7 @@
 **LXX Zechariah 6:7** 
 <small><sub>**LXX:**</sub></small>
 and dapple-gray -- they went forth, and they looked  to travel about the earth. And he said, Go and travel about the earth! And they traveled about the earth. 
-<small><sub>**KJV:**</sub></small>
-And the bay went forth, and sought to go that they might walk to and fro through the earth: and he said, Get you hence, walk to and fro through the earth. So they walked to and fro through the earth.
-<small><sub>**BSB:**</sub></small>
-As the strong horses went out, they were eager to go and patrol the earth; and the LORD said, “Go and patrol the earth.” So they patrolled the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.6|<< Zechariah 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.8|Zechariah 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

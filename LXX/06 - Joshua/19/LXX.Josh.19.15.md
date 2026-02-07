@@ -1,10 +1,7 @@
 **LXX Joshua 19:15** 
 <small><sub>**LXX:**</sub></small>
 and Kattath, and Nahallel, and Shimron, and Idalah, and Beth-lehem. Twelve cities and  their towns. 
-<small><sub>**KJV:**</sub></small>
-And Kattath, and Nahallal, and Shimron, and Idalah, and Bethlehem: twelve cities with their villages.
-<small><sub>**BSB:**</sub></small>
-It also included Kattath, Nahalal, Shimron, Idalah, and Bethlehem. There were twelve cities, along with their villages.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.14|<< Joshua 19:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.16|Joshua 19:16 >>]]</td></tr></table>
 
 | Translation | Greek |

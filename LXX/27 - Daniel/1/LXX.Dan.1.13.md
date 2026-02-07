@@ -1,10 +1,7 @@
 **LXX Daniel 1:13** 
 <small><sub>**LXX:**</sub></small>
 And our shape be seen before you! and the shapes of the boys of the ones eating at the table of the king. And how ever you should behold, do accordingly with  your servants! 
-<small><sub>**KJV:**</sub></small>
-Then let our countenances be looked upon before thee, and the countenance of the children that eat of the portion of the king’s meat: and as thou seest, deal with thy servants.
-<small><sub>**BSB:**</sub></small>
-Then compare our appearances with those of the young men who are eating the royal food, and deal with your servants according to what you see.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.12|<< Daniel 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.14|Daniel 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

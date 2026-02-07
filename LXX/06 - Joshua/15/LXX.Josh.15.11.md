@@ -1,10 +1,7 @@
 **LXX Joshua 15:11** 
 <small><sub>**LXX:**</sub></small>
 And the border shall pass out at \[the\] back of Ekron towards \[the\] north; and the borders shall pass out into Shicron, and shall go by \[the\] mount \[of the\] land of Baalah, and pass out at Jebneel; and the outer reaches will be the borders at \[the\] sea. And  their borders from \[the\] west -- the great sea shall define the bounds. 
-<small><sub>**KJV:**</sub></small>
-And the border went out unto the side of Ekron northward: and the border was drawn to Shicron, and passed along to mount Baalah, and went out unto Jabneel; and the goings out of the border were at the sea.
-<small><sub>**BSB:**</sub></small>
-Then it went out to the northern slope of Ekron, curved toward Shikkeron, proceeded to Mount Baalah, went on to Jabneel, and ended at the Sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.10|<< Joshua 15:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.12|Joshua 15:12 >>]]</td></tr></table>
 
 | Translation | Greek |

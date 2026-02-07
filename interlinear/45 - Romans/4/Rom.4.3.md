@@ -1,5 +1,5 @@
-**Romans 4:3
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:3**<big><big>[[Rom.4.1 Abraham Justified by Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.
 <small><sub>**BSB:**</sub></small>
 For what does the Scripture say? “Abraham believed God, and it was credited to him as righteousness.”
@@ -10,7 +10,7 @@ What for the Scripture says? Believed then Abraham <the> in God, and it was reck
 > $\quad$ referencing: [[LXX.Gen.15.6|Gen 15:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | What |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

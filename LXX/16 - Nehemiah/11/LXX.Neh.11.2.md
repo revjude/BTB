@@ -1,10 +1,7 @@
 **LXX Nehemiah 11:2** 
 <small><sub>**LXX:**</sub></small>
 And the people blessed all the men of the ones willing to settle in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem.
-<small><sub>**BSB:**</sub></small>
-And the people blessed all the men who volunteered to live in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.1|<< Nehemiah 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.3|Nehemiah 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

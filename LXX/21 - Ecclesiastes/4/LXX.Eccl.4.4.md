@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 4:4** 
 <small><sub>**LXX:**</sub></small>
 And I beheld all the effort, and all courage  of action; for the same zeal of man \[is\] from  his companion. And indeed this \[is\] folly and resolve of spirit. 
-<small><sub>**KJV:**</sub></small>
-Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This [is] also vanity and vexation of spirit.
-<small><sub>**BSB:**</sub></small>
-I saw that all labor and success spring from a man’s envy of his neighbor. This too is futile and a pursuit of the wind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.3|<< Ecclesiastes 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.5|Ecclesiastes 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 9:25** 
 <small><sub>**LXX:**</sub></small>
 Behold, days come, says \[the\] <span class="smallcaps">lord</span>, and I will visit upon all having been circumcised of their uncircumcision; 
-<small><sub>**KJV:**</sub></small>
-Behold, the days come, saith the LORD, that I will punish all [them which are] circumcised with the uncircumcised;
-<small><sub>**BSB:**</sub></small>
-“Behold, the days are coming,” declares the LORD, “when I will punish all who are circumcised only in the flesh—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.24|<< Jeremiah 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.26|Jeremiah 9:26 >>]]</td></tr></table>
 
 | Translation | Greek |

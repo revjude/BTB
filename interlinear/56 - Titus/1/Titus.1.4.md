@@ -1,12 +1,12 @@
-**Titus 1:4
-**<small><sub>**KJV:**</sub></small>
+**Titus 1:4**<big><big>[[Titus.1.1 Paul’s Greeting to Titus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 To Titus, [mine] own son after the common faith: Grace, mercy, [and] peace, from God the Father and the Lord Jesus Christ our Saviour.
 <small><sub>**BSB:**</sub></small>
 To Titus, my true child in our common faith: Grace and peace from God the Father and Christ Jesus our Savior.
 <small><sub>**Literal:**</sub></small>
 To Titus [my] true child according to [our] common faith: Grace and peace from God [the] Father and Lord Christ Jesus the Savior of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.3|<< Titus 1:3]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.5|Titus 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To Titus |**<big>[[G5103\|Τίτῳ]]</big>**  |Titō <small><sup>[[N-DSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [my] true |**<big>[[G1103\|γνησίῳ]]</big>**  |gnēsiō <small><sup>[[A-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

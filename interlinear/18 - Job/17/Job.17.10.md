@@ -1,4 +1,4 @@
-**Job 17:10** 
+**Job 17:10**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But as for you all, do ye return, and come now: for I cannot find [one] wise [man] among you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But come back and try again, all of you. For I will not find a wise man among yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.9|<< Job 17:9]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.11|Job 17:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and but  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0199\|אוּלָ֗ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'u.Lam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all of them  |**<big>&#8207;[[H3605\|כֻּלָּ֣]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ku.La<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

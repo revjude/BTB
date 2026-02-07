@@ -1,4 +1,4 @@
-**Exodus 25:19** 
+**Exodus 25:19**<big><big>[[Exod.25.17 The Mercy Seat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And make one cherub on the one end, and the other cherub on the other end: [even] of the mercy seat shall ye make the cherubims on the two ends thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ one cherub on one end and one on the other, all made from one piece of gold.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.18|<< Exodus 25:18]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.20|Exodus 25:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and make  |**<big>&#8207;[[H9002\|וַ֠]]&#8207;&#8207;[[H6213H\|עֲשֵׂה]]&#8207; </big>**| Va.<small><sup>[[HC]]</sup></small> 'a.seh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a cherub  |**<big>&#8207;[[H3742\|כְּר֨וּב]]&#8207; </big>**| ke.Ruv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

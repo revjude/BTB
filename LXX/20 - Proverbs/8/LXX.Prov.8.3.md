@@ -1,10 +1,7 @@
 **LXX Proverbs 8:3** 
 <small><sub>**LXX:**</sub></small>
 For by \[the\] gates of mighty ones she is occupied; and in \[the\] entrances sings, \[saying\], 
-<small><sub>**KJV:**</sub></small>
-She crieth at the gates, at the entry of the city, at the coming in at the doors.
-<small><sub>**BSB:**</sub></small>
-Beside the gates to the city, at the entrances she cries out:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.2|<< Proverbs 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.4|Proverbs 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

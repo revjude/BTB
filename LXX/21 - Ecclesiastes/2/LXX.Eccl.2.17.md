@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:17** 
 <small><sub>**LXX:**</sub></small>
 And I was detested with  life; for evil \[was\] upon me -- the action  of doing \[a thing\] under the sun. For all \[is\] folly and a resolve of spirit. 
-<small><sub>**KJV:**</sub></small>
-Therefore I hated life; because the work that is wrought under the sun [is] grievous unto me: for all [is] vanity and vexation of spirit.
-<small><sub>**BSB:**</sub></small>
-So I hated life, because the work that is done under the sun was grievous to me. For everything is futile and a pursuit of the wind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.16|<< Ecclesiastes 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.18|Ecclesiastes 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

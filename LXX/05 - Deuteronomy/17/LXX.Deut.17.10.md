@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:10** 
 <small><sub>**LXX:**</sub></small>
 And you shall do according to the thing, which ever they should announce to you from the place of which ever \[the\] <span class="smallcaps">lord</span> your God should choose. And you shall guard exceedingly to do according to all as much as \[the\] law should be established to you. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt do according to the sentence, which they of that place which the LORD shall choose shall shew thee; and thou shalt observe to do according to all that they inform thee:
-<small><sub>**BSB:**</sub></small>
-You must abide by the verdict they give you at the place the LORD will choose. Be careful to do everything they instruct you,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.9|<< Deuteronomy 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.11|Deuteronomy 17:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 29:3** 
 <small><sub>**LXX:**</sub></small>
 as when his lamp shone over my head; when  I went through darkness by his light; 
-<small><sub>**KJV:**</sub></small>
-When his candle shined upon my head, [and when] by his light I walked [through] darkness;
-<small><sub>**BSB:**</sub></small>
-when His lamp shone above my head, and by His light I walked through the darkness,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.29.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.2|<< Job 29:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.4|Job 29:4 >>]]</td></tr></table>
 
 | Translation | Greek |

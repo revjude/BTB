@@ -1,10 +1,7 @@
 **LXX Esther 9:31** 
 <small><sub>**LXX:**</sub></small>
 And they established to themselves Mordecai and Esther the queen for themselves; and then establishing according to  their fasting and  their counsel. 
-<small><sub>**KJV:**</sub></small>
-To confirm these days of Purim in their times [appointed], according as Mordecai the Jew and Esther the queen had enjoined them, and as they had decreed for themselves and for their seed, the matters of the fastings and their cry.
-<small><sub>**BSB:**</sub></small>
-in order to confirm these days of Purim at their appointed time, just as Mordecai the Jew and Queen Esther had established them and had committed themselves and their descendants to the times of fasting and lamentation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.29|<< Esther 9:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.32|Esther 9:32 >>]]</td></tr></table>
 
 | Translation | Greek |

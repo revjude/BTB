@@ -1,4 +1,4 @@
-**2 Kings 18:25** 
+**2 Kings 18:25**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Am I now come up without the LORD against this place to destroy it? The LORD said to me, Go up against this land, and destroy it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now, was it apart from the LORD that I have come up against this place to des
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.24|<< 2 Kings 18:24]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.26|2 Kings 18:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H6258\|עַתָּה֙]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ from without  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1107\|בַּלְעֲדֵ֣י]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> mi.<small><sup>[[HR]]</sup></small> bal.'a.Dei<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 31:8** 
+**Isaiah 31:8**<big><big>[[Isa.31.1 Woe to Those Who Rely on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the Assyrian fall with the sword, not of a mighty man; and the sword, not of a mean man, shall devour him: but he shall flee from the sword, and his young men shall be discomfited.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then shall the Assyrian fall with the sword, not of a mighty man; and the sword,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.31.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.31.7|<< Isaiah 31:7]]</td><td align="center" style="border:none;">[[Isa.31|Isaiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.31.9|Isaiah 31:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will fall  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5307J\|נָפַ֤ל]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Fal<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Assyria  |**<big>&#8207;[[H0804G\|אַשּׁוּר֙]]&#8207; </big>**| 'a.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

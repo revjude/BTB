@@ -1,12 +1,12 @@
-**John 6:71
-**<small><sub>**KJV:**</sub></small>
+**John 6:71**<big><big>[[John.6.67 Peter’s Confession of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He spake of Judas Iscariot [the son] of Simon: for he it was that should betray him, being one of the twelve.
 <small><sub>**BSB:**</sub></small>
 He was speaking about Judas, the son of Simon Iscariot. For although Judas was one of the Twelve, he was later to betray Jesus.
 <small><sub>**Literal:**</sub></small>
 He was speaking now <the> of Judas [son] of Simon Iscariot; he for was about to betray Him one being of the Twelve.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.70|<< John 6:70]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.1|John 7:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was speaking |**<big>[[G3004G\|ἔλεγεν]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

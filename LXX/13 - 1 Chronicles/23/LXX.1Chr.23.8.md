@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:8** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons \[to\] Ladan -- the ruler Jehiel, and Zetham, and Joel -- three. 
-<small><sub>**KJV:**</sub></small>
-The sons of Laadan; the chief [was] Jehiel, and Zetham, and Joel, three.
-<small><sub>**BSB:**</sub></small>
-The sons of Ladan: Jehiel the first, Zetham, and Joel—three in all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.7|<< 1 Chronicles 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.9|1 Chronicles 23:9 >>]]</td></tr></table>
 
 | Translation | Greek |

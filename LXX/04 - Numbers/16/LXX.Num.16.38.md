@@ -1,10 +1,7 @@
 **LXX Numbers 16:38** 
 <small><sub>**LXX:**</sub></small>
 For they sanctified the censers  of these sinners by  their lives. And make them \[into\] scales hammered out for adornment to the altar! for they were brought near before \[the\] <span class="smallcaps">lord</span>, and were sanctified. And they became for a sign to the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-The censers of these sinners against their own souls, let them make them broad plates [for] a covering of the altar: for they offered them before the LORD, therefore they are hallowed: and they shall be a sign unto the children of Israel.
-<small><sub>**BSB:**</sub></small>
-As for the censers of those who sinned at the cost of their own lives, hammer them into sheets to overlay the altar, for these were presented before the LORD, and so have become holy. They will serve as a sign to the Israelites.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.37|<< Numbers 16:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.39|Numbers 16:39 >>]]</td></tr></table>
 
 | Translation | Greek |

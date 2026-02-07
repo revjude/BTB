@@ -1,12 +1,12 @@
-**Romans 15:4
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:4**<big><big>[[Rom.15.1 Accept One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.
 <small><sub>**BSB:**</sub></small>
 For everything that was written in the past was written for our instruction, so that through endurance and the encouragement of the Scriptures, we might have hope.
 <small><sub>**Literal:**</sub></small>
 As much as for was written in the past all things for <the> our own instruction was written, so that through <the> endurance and through the encouragement of the Scriptures <the> hope we may have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.3|<< Romans 15:3]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.5|Romans 15:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As much as |**<big>[[G3745\|ὅσα]]</big>**  |hosa <small><sup>[[K-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

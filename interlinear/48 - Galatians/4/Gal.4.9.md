@@ -1,12 +1,12 @@
-**Galatians 4:9
-**<small><sub>**KJV:**</sub></small>
+**Galatians 4:9**<big><big>[[Gal.4.8 Paul’s Concern for the Galatians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?
 <small><sub>**BSB:**</sub></small>
 But now that you know God, or rather are known by God, how is it that you are turning back to those weak and worthless principles? Do you wish to be enslaved by them all over again?
 <small><sub>**Literal:**</sub></small>
 now however having known God, rather however having been known by God, how do you turn again to the weak and destitute principles to which again anew to be enslaved you desire?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.8|<< Galatians 4:8]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.10|Galatians 4:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

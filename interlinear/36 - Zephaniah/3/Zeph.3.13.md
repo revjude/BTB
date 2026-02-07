@@ -1,4 +1,4 @@
-**Zephaniah 3:13** 
+**Zephaniah 3:13**<big><big>[[Zeph.3.9 A Faithful Remnant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make [them] afraid.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The remnant of Israel will no longer do wrong or speak lies, nor will a deceitfu
 > $\quad$ referenced by: [[Rev.14.5|Rev 14:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] remnant of  |**<big>&#8207;[[H7611\|שְׁאֵרִ֨ית]]&#8207; </big>**| she.'e.Rit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֜ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

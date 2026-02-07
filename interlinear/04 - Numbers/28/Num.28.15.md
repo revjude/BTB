@@ -1,4 +1,4 @@
-**Numbers 28:15** 
+**Numbers 28:15**<big><big>[[Num.28.11 The Monthly Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And one kid of the goats for a sin offering unto the LORD shall be offered, beside the continual burnt offering, and his drink offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In addition to the regular burnt offering with its drink offering, one male goat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.14|<< Numbers 28:14]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.16|Numbers 28:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a male goat of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8163B\|שְׂעִ֨יר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> se.'Ir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | goats  |**<big>&#8207;[[H5795\|עִזִּ֥ים]]&#8207; </big>**| 'i.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

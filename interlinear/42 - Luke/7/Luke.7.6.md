@@ -1,12 +1,12 @@
-**Luke 7:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:6**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:
 <small><sub>**BSB:**</sub></small>
 So Jesus went with them. But when He was not far from the house, the centurion sent friends with the message: “Lord, do not trouble Yourself, for I am not worthy to have You come under my roof.
 <small><sub>**Literal:**</sub></small>
 <the> And Jesus was going with them. Already then when he not far being distant from the house sent to him friends the centurion saying to Him; Lord, not do be troubled; not for worthy I am that under the roof of mine You may come,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.5|<< Luke 7:5]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.7|Luke 7:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

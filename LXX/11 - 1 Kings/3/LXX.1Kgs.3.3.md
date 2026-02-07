@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:3** 
 <small><sub>**LXX:**</sub></small>
 And Solomon loved the <span class="smallcaps">lord</span>,  to go in the orders of David  his father; only he sacrificed and burned incense in the high \[places\]. 
-<small><sub>**KJV:**</sub></small>
-And Solomon loved the LORD, walking in the statutes of David his father: only he sacrificed and burnt incense in high places.
-<small><sub>**BSB:**</sub></small>
-And Solomon loved the LORD and walked in the statutes of his father David, except that he sacrificed and burned incense on the high places.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.2|<< 1 Kings 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.3.4|1 Kings 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

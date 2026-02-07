@@ -1,12 +1,12 @@
-**Luke 23:53
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:53**<big><big>[[Luke.23.50 The Burial of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he took it down, and wrapped it in linen, and laid it in a sepulchre that was hewn in stone, wherein never man before was laid.
 <small><sub>**BSB:**</sub></small>
 Then he took it down, wrapped it in a linen cloth, and placed it in a tomb cut into the rock, where no one had yet been laid.
 <small><sub>**Literal:**</sub></small>
 And having taken down it he wrapped it in a linen cloth and placed it in a tomb cut in a rock in which no were no [one] not yet laid.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.52|<< Luke 23:52]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.54|Luke 23:54 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having taken down |**<big>[[G2507\|καθελὼν]]</big>**  |kathelōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

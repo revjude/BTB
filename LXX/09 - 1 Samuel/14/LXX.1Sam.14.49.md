@@ -1,10 +1,7 @@
 **LXX 1 Samuel 14:49** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Saul were Jonathan, and Ishui, and Melchi-shua. And \[the\] names  of his two daughters -- \[the\] name of the first-born \[was\] Merab, and \[the\] name of the second \[was\] Michal. 
-<small><sub>**KJV:**</sub></small>
-Now the sons of Saul were Jonathan, and Ishui, and Melchishua: and the names of his two daughters [were these]; the name of the firstborn Merab, and the name of the younger Michal:
-<small><sub>**BSB:**</sub></small>
-Now the sons of Saul were Jonathan, Ishvi, and Malchishua. His two daughters were named Merab (his firstborn) and Michal (his younger daughter).<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.14.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.14.48|<< 1 Samuel 14:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.14.50|1 Samuel 14:50 >>]]</td></tr></table>
 
 | Translation | Greek |

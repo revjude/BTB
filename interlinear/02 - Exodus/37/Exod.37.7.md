@@ -1,4 +1,4 @@
-**Exodus 37:7** 
+**Exodus 37:7**<big><big>[[Exod.37.6 The Mercy Seat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made two cherubims [of] gold, beaten out of one piece made he them, on the two ends of the mercy seat;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He made two cherubim of hammered gold at the ends of the mercy seat,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.6|<< Exodus 37:6]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.8|Exodus 37:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֛עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two  |**<big>&#8207;[[H8147\|שְׁנֵ֥י]]&#8207; </big>**| she.Nei<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

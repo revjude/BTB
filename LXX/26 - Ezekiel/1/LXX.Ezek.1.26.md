@@ -1,10 +1,7 @@
 **LXX Ezekiel 1:26** 
 <small><sub>**LXX:**</sub></small>
 of the one being above their head, as a vision of stone of sapphire \[with\] a likeness of a throne upon it; and upon the likeness of the throne \[was\] a likeness as a form of a man from above. 
-<small><sub>**KJV:**</sub></small>
-And above the firmament that [was] over their heads [was] the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne [was] the likeness as the appearance of a man above upon it.
-<small><sub>**BSB:**</sub></small>
-Above the expanse over their heads was the likeness of a throne with the appearance of sapphire, and on the throne high above was a figure like that of a man.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.1.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.25|<< Ezekiel 1:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.27|Ezekiel 1:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 1:26** is...

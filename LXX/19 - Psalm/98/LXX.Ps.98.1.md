@@ -6,10 +6,7 @@ A psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 Sing to the <span class="smallcaps">lord</span> a new song! for the <span class="smallcaps">lord</span> did wonderful \[things\]. He delivered him \[by\] his right \[hand\] and  his holy arm. 
-<small><sub>**KJV:**</sub></small>
-A Psalm. O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.
-<small><sub>**BSB:**</sub></small>
-A Psalm. Sing to the LORD a new song, for He has done wonders; His right hand and holy arm have gained Him the victory.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.98.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.97.12|<< Psalm 97:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.98.2|Psalm 98:2 >>]]</td></tr></table>
 
 | Translation | Greek |

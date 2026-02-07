@@ -1,4 +1,4 @@
-**Psalms 119:83** 
+**Psalms 119:83**<big><big>[[Ps.119.81 Your Word Is a Lamp to My Feet - CAPH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I am become like a bottle in the smoke; [yet] do I not forget thy statutes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though I am like a wineskin dried up by smoke, I do not forget Your statutes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.83|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.82|<< Psalms 119:82]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.84|Psalms 119:84 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have become  |**<big>&#8207;[[H1961\|הָ֭יִיתִי]]&#8207; </big>**| Ha.yi.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

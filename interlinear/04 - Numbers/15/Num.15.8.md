@@ -1,4 +1,4 @@
-**Numbers 15:8** 
+**Numbers 15:8**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when thou preparest a bullock [for] a burnt offering, or [for] a sacrifice in performing a vow, or peace offerings unto the LORD:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you prepare a young bull as a burnt offering or sacrifice to fulfill a vow 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.7|<< Numbers 15:7]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.9|Numbers 15:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will offer  |**<big>&#8207;[[H6213I\|תַעֲשֶׂ֥ה]]&#8207; </big>**| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

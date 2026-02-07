@@ -1,4 +1,4 @@
-**Ezekiel 31:11** 
+**Ezekiel 31:11**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have therefore delivered him into the hand of the mighty one of the heathen; he shall surely deal with him: I have driven him out for his wickedness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I delivered it into the hand of the ruler of the nations, for him to deal with i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.10|<< Ezekiel 31:10]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.12|Ezekiel 31:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will give it  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5414G\|אֶ֨תְּנֵ֔]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.te.Ne.<small><sup>[[HVqu1cs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] hand of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027H\|יַ֖ד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

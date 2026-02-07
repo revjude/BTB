@@ -1,4 +1,4 @@
-**Psalms 88:16** (88:17)
+**Psalms 88:16**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy fierce wrath goeth over me; thy terrors have cut me off.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your wrath has swept over me; Your terrors have destroyed me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.15|<< Psalms 88:15]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.17|Psalms 88:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | over me  |**<big>&#8207;[[H5921A\|עָ֭לַ]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'A.la<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have passed  |**<big>&#8207;[[H5674A\|עָבְר֣וּ]]&#8207; </big>**| 'a.ve.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

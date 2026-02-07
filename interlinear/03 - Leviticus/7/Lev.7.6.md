@@ -1,4 +1,4 @@
-**Leviticus 7:6** 
+**Leviticus 7:6**<big><big>[[Lev.7.1 The Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every male among the priests shall eat thereof: it shall be eaten in the holy place: it [is] most holy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Every male among the priests may eat of it. It must be eaten in a holy place; it
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.5|<< Leviticus 7:5]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.7|Leviticus 7:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | male  |**<big>&#8207;[[H2145\|זָכָ֥ר]]&#8207; </big>**| za.Khar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he found a jaw \[bone\] of a donkey having been tossed. And he stretched out  his hand, and took it, and struck with it a thousand men. 
-<small><sub>**KJV:**</sub></small>
-And he found a new jawbone of an ass, and put forth his hand, and took it, and slew a thousand men therewith.
-<small><sub>**BSB:**</sub></small>
-He found the fresh jawbone of a donkey, reached out his hand and took it, and struck down a thousand men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.14|<< Judges 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.16|Judges 15:16 >>]]</td></tr></table>
 
 | Translation | Greek |

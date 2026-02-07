@@ -1,12 +1,12 @@
-**Acts 25:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 25:1**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when Festus was come into the province, after three days he ascended from Caesarea to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Three days after his arrival in the province, Festus went up from Caesarea to Jerusalem,
 <small><sub>**Literal:**</sub></small>
 Festus therefore having arrived in the province after three days he went up to Jerusalem from Caesarea,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.27|<< Acts 24:27]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.2|Acts 25:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Festus |**<big>[[G5347\|Φῆστος]]</big>**  |Phēstos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

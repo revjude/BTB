@@ -1,10 +1,7 @@
 **LXX Isaiah 3:12** 
 <small><sub>**LXX:**</sub></small>
 O my people,  your exactors glean you, and the ones exacting lord over you; O my people, the ones declaring you blessed mislead you, and they disturb the roads of your feet. 
-<small><sub>**KJV:**</sub></small>
-[As for] my people, children [are] their oppressors, and women rule over them. O my people, they which lead thee cause [thee] to err, and destroy the way of thy paths.
-<small><sub>**BSB:**</sub></small>
-Youths oppress My people, and women rule over them. O My people, your guides mislead you; they turn you from your paths.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.11|<< Isaiah 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.13|Isaiah 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

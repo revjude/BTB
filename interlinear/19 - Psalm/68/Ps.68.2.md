@@ -1,4 +1,4 @@
-**Psalms 68:2** (68:3)
+**Psalms 68:2**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As smoke is driven away, [so] drive [them] away: as wax melteth before the fire, [so] let the wicked perish at the presence of God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As smoke is blown away, You will drive them out; as wax melts before the fire, t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.1|<< Psalms 68:1]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.3|Psalms 68:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as is driven about  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H5086\|הִנְדֹּ֥ף]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> hin.Dof<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | smoke  |**<big>&#8207;[[H6227\|עָשָׁ֗ן]]&#8207; </big>**| 'a.Shan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

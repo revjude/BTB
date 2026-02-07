@@ -1,4 +1,4 @@
-**Psalms 80:7** (80:8)
+**Psalms 80:7**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn us again, O God of hosts, and cause thy face to shine; and we shall be saved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Restore us, O God of Hosts, and cause Your face to shine upon us, that we may be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.6|<< Psalms 80:6]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.8|Psalms 80:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God of  |**<big>&#8207;[[H0430G\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hosts  |**<big>&#8207;[[H6635B\|צְבָא֣וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

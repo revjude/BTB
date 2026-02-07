@@ -1,4 +1,4 @@
-**Genesis 26:2** 
+**Genesis 26:2**<big><big>[[Gen.26.1 God’s Promise to Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD appeared to Isaac and said, “Do not go down to Egypt. Settle in the l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.1|<< Genesis 26:1]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.3|Genesis 26:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appeared  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יֵּרָ֤א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Ra'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H0413\|אֵלָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

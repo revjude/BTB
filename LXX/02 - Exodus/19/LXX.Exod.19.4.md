@@ -1,10 +1,7 @@
 **LXX Exodus 19:4** 
 <small><sub>**LXX:**</sub></small>
 You have seen as much as I have done to them -- to the Egyptians. And I took you as upon wings of eagles, and led you to myself. 
-<small><sub>**KJV:**</sub></small>
-Ye have seen what I did unto the Egyptians, and [how] I bare you on eagles’ wings, and brought you unto myself.
-<small><sub>**BSB:**</sub></small>
-‘You have seen for yourselves what I did to Egypt, and how I carried you on eagles’ wings and brought you to Myself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.19.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.3|<< Exodus 19:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.5|Exodus 19:5 >>]]</td></tr></table>
 
 | Translation | Greek |

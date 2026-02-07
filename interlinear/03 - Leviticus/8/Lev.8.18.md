@@ -1,4 +1,4 @@
-**Leviticus 8:18** 
+**Leviticus 8:18**<big><big>[[Lev.8.18 The Priests’ Burnt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought the ram for the burnt offering: and Aaron and his sons laid their hands upon the head of the ram.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Moses presented the ram for the burnt offering, and Aaron and his sons laid
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.17|<< Leviticus 8:17]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.19|Leviticus 8:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he presented  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7126H\|יַּקְרֵ֕ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yak.Rev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

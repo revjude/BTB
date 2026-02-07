@@ -1,4 +1,4 @@
-**Job 36:10** 
+**Job 36:10**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He openeth also their ear to discipline, and commandeth that they return from iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He opens their ears to correction and commands that they turn from iniquity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.9|<< Job 36:9]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.11|Job 36:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he uncovered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1540I\|יִּ֣גֶל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.gel<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ear their  |**<big>&#8207;[[H0241G\|אָ֭זְנָ]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| 'A.ze.no<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

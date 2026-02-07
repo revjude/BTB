@@ -1,12 +1,12 @@
-**John 7:51
-**<small><sub>**KJV:**</sub></small>
+**John 7:51**<big><big>[[John.7.45 The Unbelief of the Jewish Leaders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Doth our law judge [any] man, before it hear him, and know what he doeth?
 <small><sub>**BSB:**</sub></small>
 “Does our law convict a man without first hearing from him to determine what he has done?”
 <small><sub>**Literal:**</sub></small>
 Surely not the law of us does judge the man only unless it shall hear first from him and may know what he does?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.50|<< John 7:50]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.52|John 7:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

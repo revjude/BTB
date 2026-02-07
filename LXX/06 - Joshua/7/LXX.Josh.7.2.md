@@ -1,10 +1,7 @@
 **LXX Joshua 7:2** 
 <small><sub>**LXX:**</sub></small>
 And Joshua sent men from Jericho unto Ai, which is by Beth-aven, according to \[the\] east of Beth-el. And he spoke to to them, saying, In ascending, survey the land! And the men ascended and surveyed  Ai. 
-<small><sub>**KJV:**</sub></small>
-And Joshua sent men from Jericho to Ai, which [is] beside Bethaven, on the east side of Bethel, and spake unto them, saying, Go up and view the country. And the men went up and viewed Ai.
-<small><sub>**BSB:**</sub></small>
-Meanwhile, Joshua sent men from Jericho to Ai, which is near Beth-aven to the east of Bethel, and told them, “Go up and spy out the land.” So the men went up and spied out Ai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.1|<< Joshua 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.3|Joshua 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

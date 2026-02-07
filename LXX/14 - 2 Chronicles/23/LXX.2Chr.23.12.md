@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 23:12** 
 <small><sub>**LXX:**</sub></small>
 And Athaliah heard the sound of the people, of the ones running, and acknowledging, and praising the king. And she entered to the king, into the house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Now when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the LORD:
-<small><sub>**BSB:**</sub></small>
-When Athaliah heard the noise of the people running and cheering the king, she went out to them in the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.11|<< 2 Chronicles 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.13|2 Chronicles 23:13 >>]]</td></tr></table>
 
 | Translation | Greek |

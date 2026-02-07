@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 16:2** 
 <small><sub>**LXX:**</sub></small>
 And Asa took silver and gold from out of \[the\] treasuries of \[the\] house of \[the\] <span class="smallcaps">lord</span>, and from \[the\] house of the king, and he sent to the son  of Hadad king of Syria, the one dwelling in Damascus, saying, 
-<small><sub>**KJV:**</sub></small>
-Then Asa brought out silver and gold out of the treasures of the house of the LORD and of the king’s house, and sent to Benhadad king of Syria, that dwelt at Damascus, saying,
-<small><sub>**BSB:**</sub></small>
-So Asa withdrew the silver and gold from the treasuries of the house of the LORD and the royal palace, and he sent it with this message to Ben-hadad king of Aram, who was ruling in Damascus:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.16.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.16.1|<< 2 Chronicles 16:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.16.3|2 Chronicles 16:3 >>]]</td></tr></table>
 
 | Translation | Greek |

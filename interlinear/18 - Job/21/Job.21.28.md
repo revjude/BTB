@@ -1,4 +1,4 @@
-**Job 21:28** 
+**Job 21:28**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For ye say, Where [is] the house of the prince? and where [are] the dwelling places of the wicked?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For you say, ‘Where now is the nobleman’s house, and where are the tents in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.27|<< Job 21:27]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.29|Job 21:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you say  |**<big>&#8207;[[H0559\|תֹֽאמְר֗וּ]]&#8207; </big>**| to.me.Ru<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

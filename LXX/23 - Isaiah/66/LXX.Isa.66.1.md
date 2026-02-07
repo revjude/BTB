@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, The heaven \[is\] my throne, and the earth a footstool  for my feet. What kind of house shall you build to me? and what kind of place  for my rest? 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, The heaven [is] my throne, and the earth [is] my footstool: where [is] the house that ye build unto me? and where [is] the place of my rest?
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “Heaven is My throne, and earth is My footstool. What kind of house will you build for Me? Or where will My place of repose be?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.25|<< Isaiah 65:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.2|Isaiah 66:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 66:1** is...

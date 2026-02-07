@@ -1,5 +1,5 @@
-**Romans 10:21
-**<small><sub>**KJV:**</sub></small>
+**Romans 10:21**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people.
 <small><sub>**BSB:**</sub></small>
 But as for Israel he says: “All day long I have held out My hands to a disobedient and obstinate people.”
@@ -10,7 +10,7 @@ As for however <the> Israel he says: All the day I have stretched out the hands 
 > $\quad$ referencing: [[LXX.Isa.65.2|Isa 65:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As for |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 16:10** 
+**Jeremiah 16:10**<big><big>[[Jer.16.1 Disaster Predicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, when thou shalt shew this people all these words, and they shall say unto thee, Wherefore hath the LORD pronounced all this great evil against us? or what [is] our iniquity? or what [is] our sin that we have committed against the LORD our God?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you tell these people all these things, they will ask you, ‘Why has the L
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.9|<< Jeremiah 16:9]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.11|Jeremiah 16:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

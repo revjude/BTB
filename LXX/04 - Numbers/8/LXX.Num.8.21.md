@@ -1,10 +1,7 @@
 **LXX Numbers 8:21** 
 <small><sub>**LXX:**</sub></small>
 And the Levites purified themselves, and washed  their garments. And Aaron gave them \[as\] a gift before \[the\] <span class="smallcaps">lord</span>. And Aaron made atonement for them to purify them. 
-<small><sub>**KJV:**</sub></small>
-And the Levites were purified, and they washed their clothes; and Aaron offered them [as] an offering before the LORD; and Aaron made an atonement for them to cleanse them.
-<small><sub>**BSB:**</sub></small>
-The Levites purified themselves and washed their clothes, and Aaron presented them as a wave offering before the LORD. Aaron also made atonement for them to cleanse them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.8.20|<< Numbers 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.8.22|Numbers 8:22 >>]]</td></tr></table>
 
 | Translation | Greek |

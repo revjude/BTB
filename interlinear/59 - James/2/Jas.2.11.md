@@ -1,5 +1,5 @@
-**James 2:11
-**<small><sub>**KJV:**</sub></small>
+**James 2:11**<big><big>[[Jas.2.1 A Warning against Favoritism|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law.
 <small><sub>**BSB:**</sub></small>
 For He who said, “Do not commit adultery,” also said, “Do not murder.” If you do not commit adultery, but do commit murder, you have become a lawbreaker.
@@ -10,7 +10,7 @@ The [One] for having said Not you may commit adultery, said also Not you may mur
 > $\quad$ referencing: [[LXX.Exod.20.13|Exod 20:13-14]] ☩ [[LXX.Deut.5.17|Deut 5:17]][[LXX.Deut.5.18|, 18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [One] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

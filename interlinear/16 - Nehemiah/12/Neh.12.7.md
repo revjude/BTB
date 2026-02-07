@@ -1,4 +1,4 @@
-**Nehemiah 12:7** 
+**Nehemiah 12:7**<big><big>[[Neh.12.1 The Priests and Levites Who Returned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sallu, Amok, Hilkiah, Jedaiah. These [were] the chief of the priests and of their brethren in the days of Jeshua.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sallu, Amok, Hilkiah, and Jedaiah. These were the leaders of the priests and the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.6|<< Nehemiah 12:6]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.8|Nehemiah 12:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Sallu  |**<big>&#8207;[[H5543B\|סַלּ֣וּ]]&#8207; </big>**| sa.Lu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Amok  |**<big>&#8207;[[H5987\|עָמ֔וֹק]]&#8207; </big>**| a.Mok<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

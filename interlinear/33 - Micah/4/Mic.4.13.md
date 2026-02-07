@@ -1,4 +1,4 @@
-**Micah 4:13** 
+**Micah 4:13**<big><big>[[Mic.4.6 The Restoration of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rise and thresh, O Daughter of Zion, for I will give you horns of iron and hoove
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.4.12|<< Micah 4:12]]</td><td align="center" style="border:none;">[[Mic.4|Micah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.1|Micah 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise  |**<big>&#8207;[[H6965B\|ק֧וּמִי]]&#8207; </big>**| Ku.mi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and thresh  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H1758\|ד֣וֹשִׁי]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Do.o.shi<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

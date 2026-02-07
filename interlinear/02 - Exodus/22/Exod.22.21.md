@@ -1,4 +1,4 @@
-**Exodus 22:21** (22:20)
+**Exodus 22:21**<big><big>[[Exod.22.16 Laws of Social Responsibility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in the land of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must not exploit or oppress a foreign resident, for you yourselves were fore
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.20|<< Exodus 22:20]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.22|Exodus 22:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a sojourner  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1616\|גֵ֥ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Ger<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

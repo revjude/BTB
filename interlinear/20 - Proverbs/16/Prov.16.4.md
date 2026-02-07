@@ -1,10 +1,10 @@
-**Proverbs 16:4** 
+**Proverbs 16:4**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath made all [things] for himself: yea, even the wicked for the day of evil.
 <small><sub>**BSB:**</sub></small>
 The LORD has made everything for His purpose—even the wicked for the day of disaster.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.3|<< Proverbs 16:3]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.5|Proverbs 16:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | everything  |**<big>&#8207;[[H3605\|כֹּ֤ל]]&#8207; </big>**| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he makes  |**<big>&#8207;[[H6466\|פָּעַ֣ל]]&#8207; </big>**| pa.'Al<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

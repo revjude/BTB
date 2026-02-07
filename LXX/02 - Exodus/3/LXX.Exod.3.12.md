@@ -1,10 +1,7 @@
 **LXX Exodus 3:12** 
 <small><sub>**LXX:**</sub></small>
 And God said to Moses, saying that, I will be with you. And this \[will be\] to you the sign that I send you in  your leading  my people from out of Egypt, and you shall serve  God in  this mountain. 
-<small><sub>**KJV:**</sub></small>
-And he said, Certainly I will be with thee; and this [shall be] a token unto thee, that I have sent thee: When thou hast brought forth the people out of Egypt, ye shall serve God upon this mountain.
-<small><sub>**BSB:**</sub></small>
-“I will surely be with you,” God said, “and this will be the sign to you that I have sent you: When you have brought the people out of Egypt, all of you will worship God on this mountain.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.11|<< Exodus 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.13|Exodus 3:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 3:12** is...

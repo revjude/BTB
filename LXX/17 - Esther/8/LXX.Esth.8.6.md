@@ -1,10 +1,7 @@
 **LXX Esther 8:6** 
 <small><sub>**LXX:**</sub></small>
 For how shall I be able to behold the ill treatment  of my people? And how shall I be able to be delivered in the destruction  of my fatherland? 
-<small><sub>**KJV:**</sub></small>
-For how can I endure to see the evil that shall come unto my people? or how can I endure to see the destruction of my kindred?
-<small><sub>**BSB:**</sub></small>
-For how could I bear to see the disaster that would befall my people? How could I bear to see the destruction of my kindred?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.8.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.5|<< Esther 8:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.7|Esther 8:7 >>]]</td></tr></table>
 
 | Translation | Greek |

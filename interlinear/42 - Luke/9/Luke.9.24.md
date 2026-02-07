@@ -1,12 +1,12 @@
-**Luke 9:24
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:24**<big><big>[[Luke.9.23 Take Up Your Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it.
 <small><sub>**BSB:**</sub></small>
 For whoever wants to save his life will lose it, but whoever loses his life for My sake will save it.
 <small><sub>**Literal:**</sub></small>
 Who[ever] for maybe shall desire the life of him to save, will lose it; who[ever] however maybe may lose the life of him on account of me, he will save it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.23|<< Luke 9:23]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.25|Luke 9:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Hosea 13:6** 
+**Hosea 13:6**<big><big>[[Hos.13.1 God’s Anger against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When they had pasture, they became satisfied; when they were satisfied, their he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.5|<< Hosea 13:5]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.7|Hosea 13:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | according to pasture their  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4830\|מַרְעִיתָ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> mar.'i.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they were satisfied  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7646\|יִּשְׂבָּ֔עוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.Ba.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Leviticus 14:28** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall put of the olive oil  being in  his hand upon the lobe of the ear of the one being cleansed -- the right, and upon the thumb  of his hand -- the right, and upon the big toe  of his foot -- the right, on the place of the blood of the  trespass \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall put of the oil that [is] in his hand upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the place of the blood of the trespass offering:
-<small><sub>**BSB:**</sub></small>
-The priest shall also put some of the oil in his palm on the right earlobe of the one to be cleansed, on the thumb of his right hand, and on the big toe of his right foot—on the same places as the blood of the guilt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.27|<< Leviticus 14:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.29|Leviticus 14:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And one wife of the sons of the prophets yelled to Elisha, saying,  Your servant,  my husband died, and you know that your servant was fearing the <span class="smallcaps">lord</span>. And the money-lender came to take  my two sons for servants to himself. 
-<small><sub>**KJV:**</sub></small>
-Now there cried a certain woman of the wives of the sons of the prophets unto Elisha, saying, Thy servant my husband is dead; and thou knowest that thy servant did fear the LORD: and the creditor is come to take unto him my two sons to be bondmen.
-<small><sub>**BSB:**</sub></small>
-Now the wife of one of the sons of the prophets cried out to Elisha, “Your servant, my husband, is dead, and you know that your servant feared the LORD. And now his creditor is coming to take my two children as his slaves!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.27|<< 2 Kings 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.2|2 Kings 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

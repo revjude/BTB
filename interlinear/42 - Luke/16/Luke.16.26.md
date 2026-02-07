@@ -1,12 +1,12 @@
-**Luke 16:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:26**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that [would come] from thence.
 <small><sub>**BSB:**</sub></small>
 And besides all this, a great chasm has been fixed between us and you, so that even those who wish cannot cross from here to you, nor can anyone cross from there to us.’
 <small><sub>**Literal:**</sub></small>
 And besides all these things between us and you a chasm great has been fixed so that those desiring to pass from here to you not may be able nor those from there to us they shall pass.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.25|<< Luke 16:25]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.27|Luke 16:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | besides [^1] |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH">N(k)O</abbr> | |

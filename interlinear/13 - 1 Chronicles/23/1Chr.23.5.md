@@ -1,4 +1,4 @@
-**1 Chronicles 23:5** 
+**1 Chronicles 23:5**<big><big>[[1Chr.23.1 The Divisions of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover four thousand [were] porters; and four thousand praised the LORD with the instruments which I made, [said David], to praise [therewith].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover four thousand [were] porters; and four thousand praised the LORD with t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.4|<< 1 Chronicles 23:4]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.6|1 Chronicles 23:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0702\|אַרְבַּ֥עַת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.Ba.'at<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand\<s>  |**<big>&#8207;[[H0505G\|אֲלָפִ֖ים]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

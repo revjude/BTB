@@ -1,4 +1,4 @@
-**Ezra 7:19** 
+**Ezra 7:19**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The vessels also that are given thee for the service of the house of thy God, [those] deliver thou before the God of Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must deliver to the God of Jerusalem all the articles given to you for the s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.18|<< Ezra 7:18]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.20|Ezra 7:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and vessels the  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3984\|מָֽאנַיָּ]]&#8207;&#8207;[[H9010\|א֙]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> ma.nai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H1768\|דִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

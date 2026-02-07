@@ -1,10 +1,7 @@
 **LXX Judges 9:51** 
 <small><sub>**LXX:**</sub></small>
 And there was a strong tower in \[the\] midst of the city. And fled there all the men, and the women, and all the leaders of the city. And they shut up themselves, and ascended upon the roof of the tower. 
-<small><sub>**KJV:**</sub></small>
-But there was a strong tower within the city, and thither fled all the men and women, and all they of the city, and shut [it] to them, and gat them up to the top of the tower.
-<small><sub>**BSB:**</sub></small>
-But there was a strong tower inside the city, and all the men, women, and leaders of the city fled there. They locked themselves in and went up to the roof of the tower.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.50|<< Judges 9:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.52|Judges 9:52 >>]]</td></tr></table>
 
 | Translation | Greek |

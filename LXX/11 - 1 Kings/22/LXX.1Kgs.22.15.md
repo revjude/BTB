@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:15** 
 <small><sub>**LXX:**</sub></small>
 And he came to the king. And the king said to him, Micaiah, Shall I ascend to Ramoth Gilead for war, or wait? And he said to him, Ascend! and \[the\] <span class="smallcaps">lord</span> shall prosper the way in \[the\] hand of the king. 
-<small><sub>**KJV:**</sub></small>
-So he came to the king. And the king said unto him, Micaiah, shall we go against Ramothgilead to battle, or shall we forbear? And he answered him, Go, and prosper: for the LORD shall deliver [it] into the hand of the king.
-<small><sub>**BSB:**</sub></small>
-When Micaiah arrived, the king asked him, “Micaiah, should we go to war against Ramoth-gilead, or should we refrain?” “Go up and triumph,” Micaiah replied, “for the LORD will deliver it into the hand of the king.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.14|<< 1 Kings 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.16|1 Kings 22:16 >>]]</td></tr></table>
 
 | Translation | Greek |

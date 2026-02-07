@@ -1,4 +1,4 @@
-**Song of Solomon 7:9** (7:10)
+**Song of Solomon 7:9**<big><big>[[Song.7.1 Admiration by the Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the roof of thy mouth like the best wine for my beloved, that goeth [down] sweetly, causing the lips of those that are asleep to speak.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and your mouth like the finest wine. May it flow smoothly to my beloved, gliding
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.8|<< Song of Solomon 7:8]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.10|Song of Solomon 7:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and mouth your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2441\|חִכֵּ֕]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chi.Ke<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like [the] wine of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3196\|יֵ֥ין]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Yein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

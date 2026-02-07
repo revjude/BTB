@@ -1,4 +1,4 @@
-**Leviticus 6:30** (6:23)
+**Leviticus 6:30**<big><big>[[Lev.6.24 The Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And no sin offering, whereof [any] of the blood is brought into the tabernacle of the congregation to reconcile [withal] in the holy [place], shall be eaten: it shall be burnt in the fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But no sin offering may be eaten if its blood has been brought into the Tent of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.29|<< Leviticus 6:29]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.1|Leviticus 7:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and any  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sin offering  |**<big>&#8207;[[H2403H\|חַטָּ֡את]]&#8207; </big>**| cha.Tat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

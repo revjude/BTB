@@ -1,4 +1,4 @@
-**2 Kings 11:13** 
+**2 Kings 11:13**<big><big>[[2Kgs.11.13 The Death of Athaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Athaliah heard the noise of the guard [and] of the people, she came to the people into the temple of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Athaliah heard the noise from the guards and the people, she went out to th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.12|<< 2 Kings 11:12]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.14|2 Kings 11:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|תִּשְׁמַ֣ע]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tish.Ma'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Athaliah  |**<big>&#8207;[[H6271G\|עֲתַלְיָ֔ה]]&#8207; </big>**| 'a.tal.Yah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

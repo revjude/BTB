@@ -1,12 +1,12 @@
-**Matthew 24:17
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:17**<big><big>[[Matt.24.15 The Abomination of Desolation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let him which is on the housetop not come down to take any thing out of his house:
 <small><sub>**BSB:**</sub></small>
 Let no one on the housetop come down to retrieve anything from his house.
 <small><sub>**Literal:**</sub></small>
 the [one] on the housetop not he should come down to take the [things] out of the house of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.16|<< Matthew 24:16]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.18|Matthew 24:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | on |**<big>[[G1909\|ἐπὶ]]</big>**  |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Exodus 30:9** 
 <small><sub>**LXX:**</sub></small>
 And you shall not offer upon it another incense. A yield \[offering\], and a sacrifice \[offering\], and a libation \[offering\] you shall not offer upon it. 
-<small><sub>**KJV:**</sub></small>
-Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meat offering; neither shall ye pour drink offering thereon.
-<small><sub>**BSB:**</sub></small>
-On this altar you must not offer unauthorized incense or a burnt offering or grain offering; nor are you to pour a drink offering on it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.8|<< Exodus 30:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.10|Exodus 30:10 >>]]</td></tr></table>
 
 | Translation | Greek |

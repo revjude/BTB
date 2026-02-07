@@ -1,12 +1,12 @@
-**Acts 24:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:11**<big><big>[[Acts.24.10 Paul’s Defense to Felix|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because that thou mayest understand, that there are yet but twelve days since I went up to Jerusalem for to worship.
 <small><sub>**BSB:**</sub></small>
 You can verify for yourself that no more than twelve days ago I went up to Jerusalem to worship.
 <small><sub>**Literal:**</sub></small>
 Being able you to know that not more there are to me days than twelve from which I went up to then worship in Jerusalem;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.10|<< Acts 24:10]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.12|Acts 24:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Being able |**<big>[[G1410\|δυναμένου]]</big>**  |dunamenou <small><sup>[[V-PNP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|σου]]</big>**  |sou <small><sup>[[P-2GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

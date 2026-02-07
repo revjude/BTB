@@ -1,10 +1,7 @@
 **LXX Genesis 23:11** 
 <small><sub>**LXX:**</sub></small>
 By me let it be, O lord, and hear me! The field and the cave  in it I give to you. Before all  of my fellow-countrymen I have given \[it\] to you. You entomb  your dead. 
-<small><sub>**KJV:**</sub></small>
-Nay, my lord, hear me: the field give I thee, and the cave that [is] therein, I give it thee; in the presence of the sons of my people give I it thee: bury thy dead.
-<small><sub>**BSB:**</sub></small>
-“No, my lord. Listen to me. I give you the field, and I give you the cave that is in it. I give it to you in the presence of my people. Bury your dead.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.23.10|<< Genesis 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.23.12|Genesis 23:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 27:8** 
 <small><sub>**LXX:**</sub></small>
 A man if he should die, and there might not be a son to him, you shall invest  his inheritance \[to\] his daughter. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt speak unto the children of Israel, saying, If a man die, and have no son, then ye shall cause his inheritance to pass unto his daughter.
-<small><sub>**BSB:**</sub></small>
-Furthermore, you shall say to the Israelites, ‘If a man dies and leaves no son, you are to transfer his inheritance to his daughter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.27.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.27.7|<< Numbers 27:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.27.9|Numbers 27:9 >>]]</td></tr></table>
 
 | Translation | Greek |

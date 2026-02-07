@@ -1,4 +1,4 @@
-**Genesis 27:43** 
+**Genesis 27:43**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, my son, obey my voice; and arise, flee thou to Laban my brother to Haran;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now, my son, obey my voice and flee at once to my brother Laban in Haran.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.42|<< Genesis 27:42]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.44|Genesis 27:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O son my  |**<big>&#8207;[[H1121A\|בְנִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Daniel 4:26** 
 <small><sub>**LXX:**</sub></small>
 And whereas they said, Allow the development of the roots of the tree in the ground;  your kingdom abides to you from of which ever \[time\] you should know the heavenly authority. 
-<small><sub>**KJV:**</sub></small>
-And whereas they commanded to leave the stump of the tree roots; thy kingdom shall be sure unto thee, after that thou shalt have known that the heavens do rule.
-<small><sub>**BSB:**</sub></small>
-As for the command to leave the stump of the tree with its roots, your kingdom will be restored to you as soon as you acknowledge that Heaven rules.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.25|<< Daniel 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.27|Daniel 4:27 >>]]</td></tr></table>
 
 | Translation | Greek |

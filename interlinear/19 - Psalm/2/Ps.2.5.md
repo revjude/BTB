@@ -1,4 +1,4 @@
-**Psalms 2:5** 
+**Psalms 2:5**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall he speak unto them in his wrath, and vex them in his sore displeasure.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then He rebukes them in His anger, and terrifies them in His fury:
 > $\quad$ referenced by: [[Rev.11.18|Rev 11:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֤ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he speaks  |**<big>&#8207;[[H1696G\|יְדַבֵּ֣ר]]&#8207; </big>**| ye.da.Ber<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Song of Solomon 4:8** 
+**Song of Solomon 4:8**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come with me from Lebanon, [my] spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions’ dens, from the mountains of the leopards.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come with me from Lebanon, my bride, come with me from Lebanon! Descend from the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.7|<< Song of Solomon 4:7]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.9|Song of Solomon 4:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with me  |**<big>&#8207;[[H0854\|אִתִּ֤]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'i.T<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Lebanon  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3844G\|לְּבָנוֹן֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> le.va.nOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

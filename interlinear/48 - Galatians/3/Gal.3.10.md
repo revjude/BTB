@@ -1,5 +1,5 @@
-**Galatians 3:10
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:10**<big><big>[[Gal.3.10 Christ Has Redeemed Us|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as many as are of the works of the law are under the curse: for it is written, Cursed [is] every one that continueth not in all things which are written in the book of the law to do them.
 <small><sub>**BSB:**</sub></small>
 All who rely on works of the law are under a curse. For it is written: “Cursed is everyone who does not continue to do everything written in the Book of the Law.”
@@ -10,7 +10,7 @@ As many as for of works of [the] Law are, under a curse are; it has been written
 > $\quad$ referencing: [[LXX.Deut.27.26|Deut 27:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As many as |**<big>[[G3745\|ὅσοι]]</big>**  |hosoi <small><sup>[[K-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

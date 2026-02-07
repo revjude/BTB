@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:51** 
 <small><sub>**LXX:**</sub></small>
 And Ahaziah son of Ahab reigned over Israel in Samaria. In \[the\] seventeenth year of Jehoshaphat king of Judah, Ahaziah son of Ahab reigned over Israel in Samaria two years. 
-<small><sub>**KJV:**</sub></small>
-Ahaziah the son of Ahab began to reign over Israel in Samaria the seventeenth year of Jehoshaphat king of Judah, and reigned two years over Israel.
-<small><sub>**BSB:**</sub></small>
-In the seventeenth year of Jehoshaphat’s reign over Judah, Ahaziah son of Ahab became king of Israel, and he reigned in Samaria two years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.50|<< 1 Kings 22:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.52|1 Kings 22:52 >>]]</td></tr></table>
 
 | Translation | Greek |

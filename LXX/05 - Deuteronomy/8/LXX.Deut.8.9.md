@@ -1,10 +1,7 @@
 **LXX Deuteronomy 8:9** 
 <small><sub>**LXX:**</sub></small>
 A land upon which you shall eat your bread without poorness, and you shall not be in want upon it. A land of which  its stones \[are\] iron, and from out of  its mountains you shall mine brass. 
-<small><sub>**KJV:**</sub></small>
-A land wherein thou shalt eat bread without scarceness, thou shalt not lack any [thing] in it; a land whose stones [are] iron, and out of whose hills thou mayest dig brass.
-<small><sub>**BSB:**</sub></small>
-a land where you will eat food without scarcity, where you will lack nothing; a land whose rocks are iron and whose hills are ready to be mined for copper.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.8|<< Deuteronomy 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.10|Deuteronomy 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

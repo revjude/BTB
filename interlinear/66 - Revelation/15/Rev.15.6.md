@@ -1,12 +1,12 @@
-**Revelation 15:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 15:6**<big><big>[[Rev.15.5 Preparation for Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles.
 <small><sub>**BSB:**</sub></small>
 And out of the temple came the seven angels with the seven plagues, dressed in clean and bright linen and girded with golden sashes around their chests.
 <small><sub>**Literal:**</sub></small>
 And came forth the seven angels those having the seven plagues out of the temple who were having clothed themselves in linen pure and bright and having girded themselves with around the chests sashes golden.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.5|<< Revelation 15:5]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.7|Revelation 15:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | came forth |**<big>[[G1831\|ἐξῆλθον]]</big>**  [^1] |exēlthon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

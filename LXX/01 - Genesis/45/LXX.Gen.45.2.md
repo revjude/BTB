@@ -1,10 +1,7 @@
 **LXX Genesis 45:2** 
 <small><sub>**LXX:**</sub></small>
 And he let go with a voice of weeping. And all the Egyptians heard, and it became audible into the house of Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-And he wept aloud: and the Egyptians and the house of Pharaoh heard.
-<small><sub>**BSB:**</sub></small>
-But he wept so loudly that the Egyptians heard him, and Pharaoh’s household soon heard of it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.1|<< Genesis 45:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.3|Genesis 45:3 >>]]</td></tr></table>
 
 | Translation | Greek |

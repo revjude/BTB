@@ -1,10 +1,7 @@
 **LXX Leviticus 20:6** 
 <small><sub>**LXX:**</sub></small>
 And a soul who ever should follow after ones who deliver oracles or enchanters, so as to fornicate after them, I will set  my face against  that soul, and I will destroy it from out of  its people. 
-<small><sub>**KJV:**</sub></small>
-And the soul that turneth after such as have familiar spirits, and after wizards, to go a whoring after them, I will even set my face against that soul, and will cut him off from among his people.
-<small><sub>**BSB:**</sub></small>
-Whoever turns to mediums or spiritists to prostitute himself with them, I will also set My face against that person and cut him off from his people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.20.5|<< Leviticus 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.20.7|Leviticus 20:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ruth 1:9** 
+**Ruth 1:9**<big><big>[[Ruth.1.6 Ruth’s Loyalty to Naomi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD grant you that ye may find rest, each [of you] in the house of her husband. Then she kissed them; and they lifted up their voice, and wept.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the LORD enable each of you to find rest in the home of your new husband.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.8|<< Ruth 1:8]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.10|Ruth 1:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may he give  |**<big>&#8207;[[H5414G\|יִתֵּ֤ן]]&#8207; </big>**| yi.Ten<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

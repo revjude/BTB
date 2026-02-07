@@ -1,12 +1,12 @@
-**Revelation 13:13
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:13**<big><big>[[Rev.13.11 The Beast from the Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he doeth great wonders, so that he maketh fire come down from heaven on the earth in the sight of men,
 <small><sub>**BSB:**</sub></small>
 And the second beast performed great signs, even causing fire from heaven to come down to earth in the presence of the people.
 <small><sub>**Literal:**</sub></small>
 And it works signs great so that even fire it may cause out of <the> heaven to come down to the earth in the presence <the> of men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.12|<< Revelation 13:12]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.14|Revelation 13:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it works |**<big>[[G4160G\|ποιεῖ]]</big>**  |poiei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

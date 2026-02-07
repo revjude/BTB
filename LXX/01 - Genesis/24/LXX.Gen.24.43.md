@@ -1,10 +1,7 @@
 **LXX Genesis 24:43** 
 <small><sub>**LXX:**</sub></small>
 behold, I stand near the spring  of water, and the daughters of the men of the city came forth to draw water, and it will be the virgin to whom ever I should say, Give \[me\] a little water to drink from your water-pitcher! 
-<small><sub>**KJV:**</sub></small>
-Behold, I stand by the well of water; and it shall come to pass, that when the virgin cometh forth to draw [water], and I say to her, Give me, I pray thee, a little water of thy pitcher to drink;
-<small><sub>**BSB:**</sub></small>
-Here I am, standing beside this spring. Now if a maiden comes out to draw water and I say to her, ‘Please let me drink a little water from your jar,’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.42|<< Genesis 24:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.44|Genesis 24:44 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 14:13** 
 <small><sub>**LXX:**</sub></small>
 And  Joash king of Judah king of Israel seized Amaziah son of Joash son of Ahaziah in Beth-shemesh. And he came into Jerusalem and demolished in the wall of Jerusalem at the gate of Ephraim unto the gate of the corner -- four hundred cubits. 
-<small><sub>**KJV:**</sub></small>
-And Jehoash king of Israel took Amaziah king of Judah, the son of Jehoash the son of Ahaziah, at Bethshemesh, and came to Jerusalem, and brake down the wall of Jerusalem from the gate of Ephraim unto the corner gate, four hundred cubits.
-<small><sub>**BSB:**</sub></small>
-There at Beth-shemesh, Jehoash king of Israel captured Amaziah king of Judah, the son of Joash, the son of Ahaziah. Then Jehoash went to Jerusalem and broke down the wall of Jerusalem from the Ephraim Gate to the Corner Gate—a section of four hundred cubits.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.12|<< 2 Kings 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.14|2 Kings 14:14 >>]]</td></tr></table>
 
 | Translation | Greek |

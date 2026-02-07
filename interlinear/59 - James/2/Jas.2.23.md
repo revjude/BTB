@@ -1,5 +1,5 @@
-**James 2:23
-**<small><sub>**KJV:**</sub></small>
+**James 2:23**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God.
 <small><sub>**BSB:**</sub></small>
 And the Scripture was fulfilled that says, “Abraham believed God, and it was credited to him as righteousness,” and he was called a friend of God.
@@ -11,7 +11,7 @@ And was fulfilled the Scripture which is saying; Believed then Abraham <the> in 
 > $\quad$ alluding to: [[LXX.Isa.41.8|Isa 41:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was fulfilled |**<big>[[G4137\|ἐπληρώθη]]</big>**  |eplērōthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

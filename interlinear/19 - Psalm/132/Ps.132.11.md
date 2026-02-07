@@ -1,4 +1,4 @@
-**Psalms 132:11** 
+**Psalms 132:11**<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath sworn [in] truth unto David; he will not turn from it; Of the fruit of thy body will I set upon thy throne.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD swore an oath to David, a promise He will not revoke: “One of your de
 > $\quad$ referenced by: [[Luke.1.32|Luke 1:32]] ☩ [[John.7.42|John 7:42]] ☩ [[Acts.2.30|Acts 2:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he swore an oath  |**<big>&#8207;[[H7650\|נִשְׁבַּֽע]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| nish.ba'-<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

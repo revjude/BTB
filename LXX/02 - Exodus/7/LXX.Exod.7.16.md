@@ -1,10 +1,7 @@
 **LXX Exodus 7:16** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to him, \[The\] <span class="smallcaps">lord</span>  God of the Hebrews has sent me to you, saying, Send out  my people! that they may serve to me in the wilderness. And behold, you hearkened not unto this \[time\]. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt say unto him, The LORD God of the Hebrews hath sent me unto thee, saying, Let my people go, that they may serve me in the wilderness: and, behold, hitherto thou wouldest not hear.
-<small><sub>**BSB:**</sub></small>
-Then say to him, ‘The LORD, the God of the Hebrews, has sent me to tell you: Let My people go, so that they may worship Me in the wilderness. But until now you have not listened.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.15|<< Exodus 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.17|Exodus 7:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 7:16** is...

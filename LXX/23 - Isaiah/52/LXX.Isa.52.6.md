@@ -1,10 +1,7 @@
 **LXX Isaiah 52:6** 
 <small><sub>**LXX:**</sub></small>
 On account of this, my people shall know  my name. On account of this in  that day, for I am he, the one speaking; I am at hand. 
-<small><sub>**KJV:**</sub></small>
-Therefore my people shall know my name: therefore [they shall know] in that day that I [am] he that doth speak: behold, [it is] I.
-<small><sub>**BSB:**</sub></small>
-Therefore My people will know My name; therefore they will know on that day that I am He who speaks. Here I am!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.52.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.5|<< Isaiah 52:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.7|Isaiah 52:7 >>]]</td></tr></table>
 
 | Translation | Greek |

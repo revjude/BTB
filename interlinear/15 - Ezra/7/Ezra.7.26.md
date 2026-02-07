@@ -1,4 +1,4 @@
-**Ezra 7:26** 
+**Ezra 7:26**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether [it be] unto death, or to banishment, or to confiscation of goods, or to imprisonment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If anyone does not keep the law of your God and the law of the king, let a stric
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.25|<< Ezra 7:25]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.27|Ezra 7:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and any  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3606\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> khol<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H1768\|דִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| di-<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 4:12** 
 <small><sub>**LXX:**</sub></small>
 And if one prevails against the one, the two shall stand against him. And the three-stranded cord shall not be quickly ripped apart. 
-<small><sub>**KJV:**</sub></small>
-And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.
-<small><sub>**BSB:**</sub></small>
-And though one may be overpowered, two can resist. Moreover, a cord of three strands is not quickly broken.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.11|<< Ecclesiastes 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.13|Ecclesiastes 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

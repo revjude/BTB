@@ -1,4 +1,4 @@
-**Isaiah 50:6** 
+**Isaiah 50:6**<big><big>[[Isa.50.4 The Servant’s Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I offered My back to those who struck Me, and My cheeks to those who tore out My
 > $\quad$ referenced by: [[Matt.26.67|Matt 26:67]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | back my  |**<big>&#8207;[[H1460A\|גֵּוִ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| ge.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I gave  |**<big>&#8207;[[H5414G\|נָתַ֣תִּי]]&#8207; </big>**| na.Ta.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

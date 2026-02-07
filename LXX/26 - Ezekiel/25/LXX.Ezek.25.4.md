@@ -1,10 +1,7 @@
 **LXX Ezekiel 25:4** 
 <small><sub>**LXX:**</sub></small>
 On account of this, behold, I deliver you up to the sons of Kedem for an inheritance. And they shall encamp among  your chattel among you; and they shall put their tents among you; they shall eat  your fruits, and they shall drink  of your fatness. 
-<small><sub>**KJV:**</sub></small>
-Behold, therefore I will deliver thee to the men of the east for a possession, and they shall set their palaces in thee, and make their dwellings in thee: they shall eat thy fruit, and they shall drink thy milk.
-<small><sub>**BSB:**</sub></small>
-therefore I will indeed give you as a possession to the people of the East. They will set up their camps and pitch their tents among you. They will eat your fruit and drink your milk.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.25.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.3|<< Ezekiel 25:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.5|Ezekiel 25:5 >>]]</td></tr></table>
 
 | Translation | Greek |

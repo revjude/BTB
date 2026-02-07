@@ -1,4 +1,4 @@
-**Psalms 136:15** 
+**Psalms 136:15**<big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But overthrew Pharaoh and his host in the Red sea: for his mercy [endureth] for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but swept Pharaoh and his army into the Red Sea. His loving devotion endures for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.136.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.14|<< Psalms 136:14]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.16|Psalms 136:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he shook off  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5287\|נִ֘עֵ֤ר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ni.'Er<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547J\|פַּרְעֹ֣ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

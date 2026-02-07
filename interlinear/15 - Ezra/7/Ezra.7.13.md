@@ -1,4 +1,4 @@
-**Ezra 7:13** 
+**Ezra 7:13**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I make a decree, that all they of the people of Israel, and [of] his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I hereby decree that any volunteers among the Israelites in my kingdom, includin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.12|<< Ezra 7:12]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.14|Ezra 7:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from me  |**<big>&#8207;[[H4481\|מִנִּ]]&#8207;&#8207;[[H9030\|י֮]]&#8207; </big>**| mi.<small><sup>[[AR]]</sup></small> Ni<small><sup>[[ASp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is made  |**<big>&#8207;[[H7761G\|שִׂ֣ים]]&#8207; </big>**| sim<small><sup>[[AVQp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

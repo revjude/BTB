@@ -1,5 +1,5 @@
-**Hebrews 6:14
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 6:14**<big><big>[[Heb.6.13 God’s Unchangeable Promise|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, Surely blessing I will bless thee, and multiplying I will multiply thee.
 <small><sub>**BSB:**</sub></small>
 saying, “I will surely bless you and multiply your descendants.”
@@ -10,7 +10,7 @@ saying; If surely blessing I will bless you and multiplying I will multiply you;
 > $\quad$ referencing: [[LXX.Gen.22.16|Gen 22:16-17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying; |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | If [^1] |**<big>[[G1487K\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

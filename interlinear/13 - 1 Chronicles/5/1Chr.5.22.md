@@ -1,4 +1,4 @@
-**1 Chronicles 5:22** 
+**1 Chronicles 5:22**<big><big>[[1Chr.5.11 The Descendants of Gad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For there fell down many slain, because the war [was] of God. And they dwelt in their steads until the captivity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and many others fell slain, because the battle belonged to God. And they occupie
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.21|<< 1 Chronicles 5:21]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.23|1 Chronicles 5:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | slain [ones]  |**<big>&#8207;[[H2491A\|חֲלָלִ֤ים]]&#8207; </big>**| cha.la.Lim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

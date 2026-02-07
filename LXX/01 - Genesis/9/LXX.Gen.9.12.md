@@ -1,10 +1,7 @@
 **LXX Genesis 9:12** 
 <small><sub>**LXX:**</sub></small>
 And God said to Noah, This \[is\] the sign of the covenant which I execute between me and you, and between every living soul, as many as are with you for eternal generations. 
-<small><sub>**KJV:**</sub></small>
-And God said, This [is] the token of the covenant which I make between me and you and every living creature that [is] with you, for perpetual generations:
-<small><sub>**BSB:**</sub></small>
-And God said, “This is the sign of the covenant I am making between Me and you and every living creature with you, a covenant for all generations to come:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.9.11|<< Genesis 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.9.13|Genesis 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

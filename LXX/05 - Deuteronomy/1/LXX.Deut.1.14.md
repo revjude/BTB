@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:14** 
 <small><sub>**LXX:**</sub></small>
 And you answered to me, and said, The saying \[is\] good which you spoke to do. 
-<small><sub>**KJV:**</sub></small>
-And ye answered me, and said, The thing which thou hast spoken [is] good [for us] to do.
-<small><sub>**BSB:**</sub></small>
-And you answered me and said, “What you propose to do is good.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.13|<< Deuteronomy 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.15|Deuteronomy 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

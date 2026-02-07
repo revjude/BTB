@@ -1,10 +1,7 @@
 **LXX Exodus 37:19** 
 <small><sub>**LXX:**</sub></small>
 And three basins being shaped nut-like \[were\] on the one branch, \[with\] a knob and lily; and three basins being shaped nut-like on the one branch \[with\] a knob and a lily; thus to the six branches, to the \[ones\] going forth from the lamp-stand. 
-<small><sub>**KJV:**</sub></small>
-Three bowls made after the fashion of almonds in one branch, a knop and a flower; and three bowls made like almonds in another branch, a knop and a flower: so throughout the six branches going out of the candlestick.
-<small><sub>**BSB:**</sub></small>
-There were three cups shaped like almond blossoms on the first branch, each with buds and petals, three on the next branch, and the same for all six branches that extended from the lampstand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.18|<< Exodus 37:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.20|Exodus 37:20 >>]]</td></tr></table>
 
 | Translation | Greek |

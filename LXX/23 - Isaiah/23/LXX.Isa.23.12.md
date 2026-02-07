@@ -1,10 +1,7 @@
 **LXX Isaiah 23:12** 
 <small><sub>**LXX:**</sub></small>
 And they shall say, No longer in any way should you proceed  to insult and to wrong the daughter of Zion; and if you should go forth to Chittim, not even there shall be rest to you. 
-<small><sub>**KJV:**</sub></small>
-And he said, Thou shalt no more rejoice, O thou oppressed virgin, daughter of Zidon: arise, pass over to Chittim; there also shalt thou have no rest.
-<small><sub>**BSB:**</sub></small>
-He said, “You shall rejoice no more, O oppressed Virgin Daughter of Sidon. Get up and cross over to Cyprus—even there you will find no rest.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.23.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.11|<< Isaiah 23:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.13|Isaiah 23:13 >>]]</td></tr></table>
 
 | Translation | Greek |

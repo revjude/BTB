@@ -1,4 +1,4 @@
-**Job 21:12** 
+**Job 21:12**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They take the timbrel and harp, and rejoice at the sound of the organ.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ singing to the tambourine and lyre and making merry at the sound of the flute.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.11|<< Job 21:11]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.13|Job 21:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they lift  |**<big>&#8207;[[H5375H\|יִ֭שְׂאוּ]]&#8207; </big>**| Yis.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | according to tambourine  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H8596\|תֹ֣ף]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Tof<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

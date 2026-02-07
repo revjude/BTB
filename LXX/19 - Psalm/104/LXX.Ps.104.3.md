@@ -1,10 +1,7 @@
 **LXX Psalm 104:3** 
 <small><sub>**LXX:**</sub></small>
  roofing his upper rooms with waters;  placing clouds  for his step; the one walking upon \[the\] wings of \[the\] winds; 
-<small><sub>**KJV:**</sub></small>
-Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind:
-<small><sub>**BSB:**</sub></small>
-laying the beams of His chambers in the waters above, making the clouds His chariot, walking on the wings of the wind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.2|<< Psalm 104:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.4|Psalm 104:4 >>]]</td></tr></table>
 
 | Translation | Greek |

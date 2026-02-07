@@ -1,12 +1,12 @@
-**John 9:3
-**<small><sub>**KJV:**</sub></small>
+**John 9:3**<big><big>[[John.9.1 Jesus Heals the Man Born Blind|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “Neither this man nor his parents sinned, but this happened so that the works of God would be displayed in him.
 <small><sub>**Literal:**</sub></small>
 Answered <the> Jesus; Neither this [man] sinned nor [sinned] the parents of him, but [it was] that may be displayed the works <the> of God in him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.2|<< John 9:2]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.4|John 9:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|Ἀπεκρίθη]]</big>**  |Apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="TR">k</abbr> | |

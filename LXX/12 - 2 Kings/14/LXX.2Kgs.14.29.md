@@ -1,10 +1,7 @@
 **LXX 2 Kings 14:29** 
 <small><sub>**LXX:**</sub></small>
 And Jeroboam slept with  his fathers with the kings of Israel. And Zechariah his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And Jeroboam slept with his fathers, [even] with the kings of Israel; and Zachariah his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And Jeroboam rested with his fathers, the kings of Israel. And his son Zechariah reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.28|<< 2 Kings 14:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.1|2 Kings 15:1 >>]]</td></tr></table>
 
 | Translation | Greek |

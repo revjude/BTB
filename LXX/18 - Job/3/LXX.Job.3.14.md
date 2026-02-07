@@ -1,10 +1,7 @@
 **LXX Job 3:14** 
 <small><sub>**LXX:**</sub></small>
 with \[the\] kings, \[the\] counselors of \[the\] earth, who prance with swords; 
-<small><sub>**KJV:**</sub></small>
-With kings and counsellers of the earth, which built desolate places for themselves;
-<small><sub>**BSB:**</sub></small>
-with kings and counselors of the earth, who built for themselves cities now in ruins,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.3.13|<< Job 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.3.15|Job 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

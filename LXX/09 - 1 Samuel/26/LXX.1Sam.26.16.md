@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:16** 
 <small><sub>**LXX:**</sub></small>
 this \[is\] not a good thing which you have done. As lives \[the\] <span class="smallcaps">lord</span>, for you \[are\] sons of death, the ones not guarding the king,  your master, the anointed one of \[the\] <span class="smallcaps">lord</span>. And now see where the spear of the king is, and the flask of the water, the \[things\] by his head! 
-<small><sub>**KJV:**</sub></small>
-This thing [is] not good that thou hast done. [As] the LORD liveth, ye [are] worthy to die, because ye have not kept your master, the LORD’S anointed. And now see where the king’s spear [is], and the cruse of water that [was] at his bolster.
-<small><sub>**BSB:**</sub></small>
-This thing you have done is not good. As surely as the LORD lives, all of you deserve to die, since you did not protect your lord, the LORD’s anointed. Now look around. Where are the king’s spear and water jug that were by his head?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.15|<< 1 Samuel 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.17|1 Samuel 26:17 >>]]</td></tr></table>
 
 | Translation | Greek |

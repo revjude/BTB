@@ -1,4 +1,4 @@
-**Isaiah 31:3** 
+**Isaiah 31:3**<big><big>[[Isa.31.1 Woe to Those Who Rely on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the Egyptians [are] men, and not God; and their horses flesh, and not spirit. When the LORD shall stretch out his hand, both he that helpeth shall fall, and he that is holpen shall fall down, and they all shall fail together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the Egyptians are men, not God; their horses are flesh, not spirit. When the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.31.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.31.2|<< Isaiah 31:2]]</td><td align="center" style="border:none;">[[Isa.31|Isaiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.31.4|Isaiah 31:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Egypt  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4714G\|מִצְרַ֤יִם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] humankind  |**<big>&#8207;[[H0120G\|אָדָם֙]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 14:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 14:5**<big><big>[[Acts.14.1 Paul and Barnabas at Iconium|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when there was an assault made both of the Gentiles, and also of the Jews with their rulers, to use [them] despitefully, and to stone them,
 <small><sub>**BSB:**</sub></small>
 But when the Gentiles and Jews, together with their rulers, set out to mistreat and stone them,
 <small><sub>**Literal:**</sub></small>
 When then there was a rush of the Gentiles both and Jews with the rulers of them to mistreat and to stone them,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.4|<< Acts 14:4]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.6|Acts 14:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

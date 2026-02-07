@@ -1,4 +1,4 @@
-**Job 21:31** 
+**Job 21:31**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who shall declare his way to his face? and who shall repay him [what] he hath done?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who denounces his behavior to his face? Who repays him for what he has done?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.30|<< Job 21:30]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.32|Job 21:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he tell  |**<big>&#8207;[[H5046\|יַגִּ֣יד]]&#8207; </big>**| ya.Gid<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

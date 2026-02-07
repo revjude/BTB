@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:27** 
 <small><sub>**LXX:**</sub></small>
 But you should not be fearful, my servant Jacob, nor should you be terrified Israel. For behold, I deliver you from far off, and  your seed from  their captivity. And Jacob shall return, and shall be tranquil, and shall sleep, and there will not be one troubling him. 
-<small><sub>**KJV:**</sub></small>
-But fear not thou, O my servant Jacob, and be not dismayed, O Israel: for, behold, I will save thee from afar off, and thy seed from the land of their captivity; and Jacob shall return, and be in rest and at ease, and none shall make [him] afraid.
-<small><sub>**BSB:**</sub></small>
-But you, O Jacob My servant, do not be afraid, and do not be dismayed, O Israel. For I will surely save you out of a distant place, your descendants from the land of their captivity! Jacob will return to quiet and ease, with no one to make him afraid.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.26|<< Jeremiah 46:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.28|Jeremiah 46:28 >>]]</td></tr></table>
 
 | Translation | Greek |

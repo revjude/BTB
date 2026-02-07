@@ -1,4 +1,4 @@
-**Exodus 16:21** 
+**Exodus 16:21**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Every morning each one gathered as much as was needed, and when the sun grew hot
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.20|<< Exodus 16:20]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.22|Exodus 16:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3950\|יִּלְקְט֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yil.ke.Tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹת]]&#8207;&#8207;[[H9033\|וֹ֙]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

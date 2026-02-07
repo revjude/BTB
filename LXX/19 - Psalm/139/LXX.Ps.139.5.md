@@ -1,10 +1,7 @@
 **LXX Psalm 139:5** 
 <small><sub>**LXX:**</sub></small>
 the last and the former. You shaped me and put your hand upon me. 
-<small><sub>**KJV:**</sub></small>
-Thou hast beset me behind and before, and laid thine hand upon me.
-<small><sub>**BSB:**</sub></small>
-You hem me in behind and before; You have laid Your hand upon me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.4|<< Psalm 139:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.6|Psalm 139:6 >>]]</td></tr></table>
 
 | Translation | Greek |

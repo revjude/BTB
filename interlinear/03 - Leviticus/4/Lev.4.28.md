@@ -1,4 +1,4 @@
-**Leviticus 4:28** 
+**Leviticus 4:28**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When he becomes aware of the sin he has committed, he must bring an unblemished 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.27|<< Leviticus 4:27]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.29|Leviticus 4:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or  |**<big>&#8207;[[H0176A\|א֚וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been made known  |**<big>&#8207;[[H3045\|הוֹדַ֣ע]]&#8207; </big>**| ho.Da'<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:8** 
 <small><sub>**LXX:**</sub></small>
 And Abner was enraged exceedingly on account of  this word  by Ishbosheth. And Abner said to him, Am I a dog's head \[that\] I executed today mercy with the house of Saul  your father, and with \[his\] brethren, and with his acquaintances, and did not desert to the house of David, that you seek anxiously about me concerning injustice to a woman today? 
-<small><sub>**KJV:**</sub></small>
-Then was Abner very wroth for the words of Ishbosheth, and said, [Am] I a dog’s head, which against Judah do shew kindness this day unto the house of Saul thy father, to his brethren, and to his friends, and have not delivered thee into the hand of David, that thou chargest me to day with a fault concerning this woman?
-<small><sub>**BSB:**</sub></small>
-Abner was furious over Ish-bosheth’s accusation. “Am I the head of a dog that belongs to Judah?” he asked. “All this time I have been loyal to the house of your father Saul, to his brothers, and to his friends. I have not delivered you into the hand of David, but now you accuse me of wrongdoing with this woman!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.7|<< 2 Samuel 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.9|2 Samuel 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

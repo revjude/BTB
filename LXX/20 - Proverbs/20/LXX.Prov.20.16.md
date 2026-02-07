@@ -1,10 +1,7 @@
 **LXX Proverbs 20:16** 
 <small><sub>**LXX:**</sub></small>
 Remove the garment of the one guaranteeing a loan for a stranger, and take security from him for a strange \[woman\]! 
-<small><sub>**KJV:**</sub></small>
-Take his garment that is surety [for] a stranger: and take a pledge of him for a strange woman.
-<small><sub>**BSB:**</sub></small>
-Take the garment of the one who posts security for a stranger; get collateral if it is for a foreigner.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.20.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.20.15|<< Proverbs 20:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.20.17|Proverbs 20:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 21:3** 
 <small><sub>**LXX:**</sub></small>
 And they said, Why, O <span class="smallcaps">lord</span> God of Israel, was this taken place in  Israel,  to overlook today in  Israel one tribe? 
-<small><sub>**KJV:**</sub></small>
-And said, O LORD God of Israel, why is this come to pass in Israel, that there should be to day one tribe lacking in Israel?
-<small><sub>**BSB:**</sub></small>
-“Why, O LORD God of Israel,” they cried out, “has this happened in Israel? Today in Israel one tribe is missing!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.2|<< Judges 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.4|Judges 21:4 >>]]</td></tr></table>
 
 | Translation | Greek |

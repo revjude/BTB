@@ -1,10 +1,7 @@
 **LXX Nehemiah 12:39** 
 <small><sub>**LXX:**</sub></small>
 and up above the gate of Ephraim, and upon the gate, the one of Eisiana, and upon the fish gate, and \[by the\] tower of Hananeel, and from the tower  of Meah, and unto the gate of the sheep; and they stopped upon \[the\] gate of the prison. 
-<small><sub>**KJV:**</sub></small>
-And from above the gate of Ephraim, and above the old gate, and above the fish gate, and the tower of Hananeel, and the tower of Meah, even unto the sheep gate: and they stood still in the prison gate.
-<small><sub>**BSB:**</sub></small>
-over the Gate of Ephraim, the Jeshanah Gate, the Fish Gate, the Tower of Hananel, and the Tower of the Hundred, as far as the Sheep Gate. And they stopped at the Gate of the Guard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.38|<< Nehemiah 12:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.40|Nehemiah 12:40 >>]]</td></tr></table>
 
 | Translation | Greek |

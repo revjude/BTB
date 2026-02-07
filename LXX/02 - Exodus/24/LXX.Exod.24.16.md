@@ -1,10 +1,7 @@
 **LXX Exodus 24:16** 
 <small><sub>**LXX:**</sub></small>
 And the glory of God came down upon  mount  Sinai, and the cloud covered it six days. And \[the\] <span class="smallcaps">lord</span> called  Moses on the seventh day from out of \[the\] midst of the cloud. 
-<small><sub>**KJV:**</sub></small>
-And the glory of the LORD abode upon mount Sinai, and the cloud covered it six days: and the seventh day he called unto Moses out of the midst of the cloud.
-<small><sub>**BSB:**</sub></small>
-and the glory of the LORD settled on Mount Sinai. For six days the cloud covered it, and on the seventh day the LORD called to Moses from within the cloud.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.24.15|<< Exodus 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.17|Exodus 24:17 >>]]</td></tr></table>
 
 | Translation | Greek |

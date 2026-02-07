@@ -1,12 +1,12 @@
-**Luke 19:28
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:28**<big><big>[[Luke.19.28 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had thus spoken, he went before, ascending up to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 After Jesus had said this, He went on ahead, going up to Jerusalem.
 <small><sub>**Literal:**</sub></small>
 And having said these things He was going on ahead going up to Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.27|<< Luke 19:27]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.29|Luke 19:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having said |**<big>[[G2036\|εἰπὼν]]</big>**  |eipōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

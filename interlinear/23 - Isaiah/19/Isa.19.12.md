@@ -1,4 +1,4 @@
-**Isaiah 19:12** 
+**Isaiah 19:12**<big><big>[[Isa.19.1 The Burden against Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where [are] they? where [are] thy wise [men]? and let them tell thee now, and let them know what the LORD of hosts hath purposed upon Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Where are your wise men now? Let them tell you and reveal what the LORD of Hosts
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.11|<< Isaiah 19:11]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.13|Isaiah 19:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where [are]? they  |**<big>&#8207;[[H0335\|אַיָּ]]&#8207;&#8207;[[H9048\|ם֙]]&#8207; </big>**| 'ai.Ya<small><sup>[[HTi]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | then  |**<big>&#8207;[[H0645\|אֵפ֣וֹא]]&#8207; </big>**| 'e.Fo'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

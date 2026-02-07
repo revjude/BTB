@@ -1,10 +1,10 @@
 (KJV) **1 Chronicles 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21|<< 1 Chronicles 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23|1 Chronicles 23 >>]]</td></tr></table>
 
-***Preparations for the Temple*** ^bsb1040
+<big><big>[[1Chr.22.1 Preparations for the Temple|⥃]]</big></big>***Preparations for the Temple***
 
  $\quad$ <span class="startversemarker">[</span>**[[1Chr.22.1|1]]**<span class="endversemarker">]</span> Then David said, This \[is\] the house<small><small>[^2]</small></small> of the <span class="smallcaps">Lord</span> God, and this \[is\] the altar<small><small>[^3]</small></small> of the burnt offering for Israel. <span class="startversemarker">[</span>**[[1Chr.22.2|2]]**<span class="endversemarker">]</span> And David commanded to gather together the strangers<small><small>[^4]</small></small> that \[were\] in the land of Israel; and he set masons<small><small>[^5]</small></small> to hew wrought stones to build the house of God. <span class="startversemarker">[</span>**[[1Chr.22.3|3]]**<span class="endversemarker">]</span> And David prepared iron<small><small>[^6]</small></small> in abundance for the nails for the doors of the gates, and for the joinings; and brass in abundance without weight<small><small>[^7]</small></small>; <span class="startversemarker">[</span>**[[1Chr.22.4|4]]**<span class="endversemarker">]</span> Also cedar trees<small><small>[^8]</small></small> in abundance: for the Zidonians and they of Tyre brought much cedar wood to David. <span class="startversemarker">[</span>**[[1Chr.22.5|5]]**<span class="endversemarker">]</span> And David said, Solomon<small><small>[^9]</small></small> my son \[is\] young and tender, and the house \[that is\] to be builded for the <span class="smallcaps">Lord</span> \[must be\] exceeding<small><small>[^10]</small></small> magnifical, of fame and of glory throughout all countries: I will \[therefore\] now make preparation for it. So David prepared<small><small>[^11]</small></small> abundantly before his death.
 
-***Solomon Anointed to Build the Temple*** ^bsb1041
+<big><big>[[1Chr.22.6 Solomon Anointed to Build the Temple|⥃]]</big></big>***Solomon Anointed to Build the Temple***
 
  
 

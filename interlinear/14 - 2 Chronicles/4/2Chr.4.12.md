@@ -1,4 +1,4 @@
-**2 Chronicles 4:12** 
+**2 Chronicles 4:12**<big><big>[[2Chr.4.11 Completion of the Bronze Works|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [To wit], the two pillars, and the pommels, and the chapiters [which were] on the top of the two pillars, and the two wreaths to cover the two pommels of the chapiters which [were] on the top of the pillars;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the two pillars; the two bowl-shaped capitals atop the pillars; the two sets of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.11|<< 2 Chronicles 4:11]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.13|2 Chronicles 4:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | pillars  |**<big>&#8207;[[H5982G\|עַמּוּדִ֣ים]]&#8207; </big>**| 'a.mu.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two  |**<big>&#8207;[[H8147\|שְׁנַ֔יִם]]&#8207; </big>**| she.Na.yim<small><sup>[[HNcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Samuel 17:6** 
+**1 Samuel 17:6**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [he had] greaves of brass upon his legs, and a target of brass between his shoulders.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he had armor of bronze on his legs and a javelin of bronze slung between his
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.5|<< 1 Samuel 17:5]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.7|1 Samuel 17:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and leg armor of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4697\|מִצְחַ֥ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mitz.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bronze  |**<big>&#8207;[[H5178A\|נְחֹ֖שֶׁת]]&#8207; </big>**| ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

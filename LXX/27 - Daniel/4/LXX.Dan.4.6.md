@@ -1,10 +1,7 @@
 **LXX Daniel 4:6** 
 <small><sub>**LXX:**</sub></small>
 And by me was made a decree  to bring in before me all the wise men of Babylon, so that the interpretation of the dream they should make known to me. 
-<small><sub>**KJV:**</sub></small>
-Therefore made I a decree to bring in all the wise [men] of Babylon before me, that they might make known unto me the interpretation of the dream.
-<small><sub>**BSB:**</sub></small>
-So I issued a decree that all the wise men of Babylon be brought before me to interpret the dream for me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.5|<< Daniel 4:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.7|Daniel 4:7 >>]]</td></tr></table>
 
 | Translation | Greek |

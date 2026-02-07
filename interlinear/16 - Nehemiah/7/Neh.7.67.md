@@ -1,4 +1,4 @@
-**Nehemiah 7:67** 
+**Nehemiah 7:67**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beside their manservants and their maidservants, of whom [there were] seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ in addition to their 7,337 menservants and maidservants, as well as their 245 ma
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.67|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.66|<< Nehemiah 7:66]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.68|Nehemiah 7:68 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<from> \<to> besides  |**<big>&#8207;[[H9006\|מִ֠]]&#8207;&#8207;[[H9005\|לְּ]]&#8207;&#8207;[[H0905J\|בַד]]&#8207; </big>**| Mi.<small><sup>[[HR]]</sup></small> le.<small><sup>[[HR]]</sup></small> vad<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | male servants their  |**<big>&#8207;[[H5650\|עַבְדֵי]]&#8207;&#8207;[[H9028\|הֶ֤ם]]&#8207; </big>**| 'av.dei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

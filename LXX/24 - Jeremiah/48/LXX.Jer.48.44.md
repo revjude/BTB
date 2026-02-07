@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:44** 
 <small><sub>**LXX:**</sub></small>
 The one fleeing from \[the\] face  of fear shall fall into the cesspool; and the one ascending from out of the cesspool even shall be seized in the snare. For I shall bring these \[things\] upon Moab in \[the\] year of her visitation, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-He that fleeth from the fear shall fall into the pit; and he that getteth up out of the pit shall be taken in the snare: for I will bring upon it, [even] upon Moab, the year of their visitation, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“Whoever flees the panic will fall into the pit, and whoever climbs from the pit will be caught in the snare. For I will bring upon Moab the year of their punishment,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.43|<< Jeremiah 48:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.45|Jeremiah 48:45 >>]]</td></tr></table>
 
 | Translation | Greek |

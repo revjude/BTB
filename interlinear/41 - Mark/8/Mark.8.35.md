@@ -1,12 +1,12 @@
-**Mark 8:35
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:35**<big><big>[[Mark.8.34 Take Up Your Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the gospel’s, the same shall save it.
 <small><sub>**BSB:**</sub></small>
 For whoever wants to save his life will lose it, but whoever loses his life for My sake and for the gospel will save it.
 <small><sub>**Literal:**</sub></small>
 Who[ever] for if shall desire <the> life his to save, will lose it; who[ever] now maybe will lose the life of him on account of Me and of the gospel, this he will save it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.34|<< Mark 8:34]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.36|Mark 8:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

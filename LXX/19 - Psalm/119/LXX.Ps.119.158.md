@@ -1,10 +1,7 @@
 **LXX Psalm 119:158** 
 <small><sub>**LXX:**</sub></small>
 I beheld ones lacking sense and wasting away, for  they kept not your oracles. 
-<small><sub>**KJV:**</sub></small>
-I beheld the transgressors, and was grieved; because they kept not thy word.
-<small><sub>**BSB:**</sub></small>
-I look on the faithless with loathing because they do not keep Your word.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.158|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.157|<< Psalm 119:157]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.159|Psalm 119:159 >>]]</td></tr></table>
 
 | Translation | Greek |

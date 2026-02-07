@@ -1,12 +1,12 @@
-**Matthew 7:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 7:15**<big><big>[[Matt.7.15 A Tree and Its Fruit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves.
 <small><sub>**BSB:**</sub></small>
 Beware of false prophets. They come to you in sheep’s clothing, but inwardly they are ravenous wolves.
 <small><sub>**Literal:**</sub></small>
 do beware now of the false prophets who come to you in clothing of sheep, inwardly however they are wolves ravenous.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.14|<< Matthew 7:14]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.16|Matthew 7:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do beware |**<big>[[G4337\|Προσέχετε]]</big>**  |Prosechete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:3** 
 <small><sub>**LXX:**</sub></small>
 For ascended upon her a nation from \[the\] north. This one put  her land for extinction, and there will not be one dwelling in her from man and beast. 
-<small><sub>**KJV:**</sub></small>
-For out of the north there cometh up a nation against her, which shall make her land desolate, and none shall dwell therein: they shall remove, they shall depart, both man and beast.
-<small><sub>**BSB:**</sub></small>
-For a nation from the north will come against her; it will make her land a desolation. No one will live in it; both man and beast will flee.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.2|<< Jeremiah 50:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.4|Jeremiah 50:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Corinthians 6:10
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 6:10**<big><big>[[2Cor.6.1 Paul’s Hardships and God’s Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As sorrowful, yet alway rejoicing; as poor, yet making many rich; as having nothing, and [yet] possessing all things.
 <small><sub>**BSB:**</sub></small>
 sorrowful, yet always rejoicing; poor, yet making many rich; having nothing, and yet possessing everything.
 <small><sub>**Literal:**</sub></small>
 as being sorrowful always yet rejoicing, as poor many yet enriching, as nothing having and yet all things possessing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.9|<< 2 Corinthians 6:9]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.11|2 Corinthians 6:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | being sorrowful |**<big>[[G3076\|λυπούμενοι]]</big>**  |lupoumenoi <small><sup>[[V-PPP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

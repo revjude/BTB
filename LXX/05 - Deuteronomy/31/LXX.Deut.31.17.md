@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:17** 
 <small><sub>**LXX:**</sub></small>
 And I shall be provoked to anger in rage with them in  that day, and I will leave them, and I will turn  my face from them, and they shall be a thing devoured. And many evils and afflictions shall find him; and he shall say in  that day, because \[the\] <span class="smallcaps">lord</span> my God is not among me these evils found me. 
-<small><sub>**KJV:**</sub></small>
-Then my anger shall be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they shall be devoured, and many evils and troubles shall befall them; so that they will say in that day, Are not these evils come upon us, because our God [is] not among us?
-<small><sub>**BSB:**</sub></small>
-On that day My anger will burn against them, and I will abandon them and hide My face from them, so that they will be consumed, and many troubles and afflictions will befall them. On that day they will say, ‘Have not these disasters come upon us because our God is no longer with us?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.16|<< Deuteronomy 31:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.18|Deuteronomy 31:18 >>]]</td></tr></table>
 
 | Translation | Greek |

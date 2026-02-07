@@ -1,10 +1,7 @@
 **LXX Leviticus 11:39** 
 <small><sub>**LXX:**</sub></small>
 And if one should die of the animals, which this one is \[allowed\] for you to eat,, the one touching  of their decaying flesh, he will be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even.
-<small><sub>**BSB:**</sub></small>
-If an animal that you may eat dies, anyone who touches the carcass will be unclean until evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.38|<< Leviticus 11:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.40|Leviticus 11:40 >>]]</td></tr></table>
 
 | Translation | Greek |

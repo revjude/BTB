@@ -1,10 +1,7 @@
 **LXX Psalm 63:10** 
 <small><sub>**LXX:**</sub></small>
 They shall be delivered up into \[the\] hands of \[the\] broadsword; they will be portions \[for\] foxes. 
-<small><sub>**KJV:**</sub></small>
-They shall fall by the sword: they shall be a portion for foxes.
-<small><sub>**BSB:**</sub></small>
-They will fall to the power of the sword; they will become a portion for foxes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.63.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.9|<< Psalm 63:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.11|Psalm 63:11 >>]]</td></tr></table>
 
 | Translation | Greek |

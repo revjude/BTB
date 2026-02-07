@@ -1,4 +1,4 @@
-**Joshua 15:63** 
+**Joshua 15:63**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for the Jebusites the inhabitants of Jerusalem, the children of Judah could not drive them out: but the Jebusites dwell with the children of Judah at Jerusalem unto this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the descendants of Judah could not drive out the Jebusites living in Jerusal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.63|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.62|<< Joshua 15:62]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.16.1|Joshua 16:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Jebusite[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2983G\|יְבוּסִי֙]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> y.vu.Si<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

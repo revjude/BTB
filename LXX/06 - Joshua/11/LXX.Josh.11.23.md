@@ -1,10 +1,7 @@
 **LXX Joshua 11:23** 
 <small><sub>**LXX:**</sub></small>
 And Joshua took all the land, as far as \[the\] <span class="smallcaps">lord</span> gave charge  to Moses. And Joshua gave them by inheritance to Israel in their distribution according to their tribes. And the land rested from waging war. 
-<small><sub>**KJV:**</sub></small>
-So Joshua took the whole land, according to all that the LORD said unto Moses; and Joshua gave it for an inheritance unto Israel according to their divisions by their tribes. And the land rested from war.
-<small><sub>**BSB:**</sub></small>
-So Joshua took the entire land, in keeping with all that the LORD had spoken to Moses. And Joshua gave it as an inheritance to Israel according to the allotments to their tribes. Then the land had rest from war.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.22|<< Joshua 11:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.1|Joshua 12:1 >>]]</td></tr></table>
 
 | Translation | Greek |

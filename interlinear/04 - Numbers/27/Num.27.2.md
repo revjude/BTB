@@ -1,4 +1,4 @@
-**Numbers 27:2** 
+**Numbers 27:2**<big><big>[[Num.27.1 The Daughters of Zelophehad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, [by] the door of the tabernacle of the congregation, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the entrance to the Tent of Meeting, stood before Moses, Eleazar the priest, the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.1|<< Numbers 27:1]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.3|Numbers 27:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they took their stand  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5975G\|תַּעֲמֹ֜דְנָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.'a.Mo.de.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֣י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

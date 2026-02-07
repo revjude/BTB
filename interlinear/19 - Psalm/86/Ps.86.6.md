@@ -1,4 +1,4 @@
-**Psalms 86:6** 
+**Psalms 86:6**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give ear, O LORD, unto my prayer; and attend to the voice of my supplications.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hear my prayer, O LORD, and attend to my plea for mercy.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.5|<< Psalms 86:5]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.7|Psalms 86:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give ear to !  |**<big>&#8207;[[H0238\|הַאֲזִ֣ינָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ha.'a.Zi.na<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

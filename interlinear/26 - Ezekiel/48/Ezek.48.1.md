@@ -1,4 +1,4 @@
-**Ezekiel 48:1** 
+**Ezekiel 48:1**<big><big>[[Ezek.48.1 The Portions for the Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazarenan, the border of Damascus northward, to the coast of Hamath; for these are his sides east [and] west; a [portion for] Dan.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Now these [are] the names of the tribes. From the north end to the coast of the 
 > $\quad$ referenced by: [[Rev.21.2|Rev 21:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] names of  |**<big>&#8207;[[H8034\|שְׁמ֣וֹת]]&#8207; </big>**| she.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

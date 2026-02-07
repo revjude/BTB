@@ -1,4 +1,4 @@
-**Genesis 8:9** 
+**Genesis 8:9**<big><big>[[Gen.8.6 Noah Sends a Raven and a Dove|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters [were] on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the dove found no place to rest her foot, and she returned to him in the ark
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.8|<< Genesis 8:8]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.10|Genesis 8:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<it> found  |**<big>&#8207;[[H4672\|מָצְאָה֩]]&#8207; </big>**| ma.tze.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

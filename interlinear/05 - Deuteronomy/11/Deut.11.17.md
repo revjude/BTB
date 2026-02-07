@@ -1,4 +1,4 @@
-**Deuteronomy 11:17** 
+**Deuteronomy 11:17**<big><big>[[Deut.11.8 God’s Great Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [then] the LORD’S wrath be kindled against you, and he shut up the heaven, that there be no rain, and that the land yield not her fruit; and [lest] ye perish quickly from off the good land which the LORD giveth you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ or the anger of the LORD will be kindled against you. He will shut the heavens s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.16|<< Deuteronomy 11:16]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.18|Deuteronomy 11:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will burn  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2734\|חָרָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.Rah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] anger of  |**<big>&#8207;[[H0639G\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

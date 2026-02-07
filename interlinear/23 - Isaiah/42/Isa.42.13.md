@@ -1,4 +1,4 @@
-**Isaiah 42:13** 
+**Isaiah 42:13**<big><big>[[Isa.42.10 A New Song of Praise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall go forth as a mighty man, he shall stir up jealousy like a man of war: he shall cry, yea, roar; he shall prevail against his enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD goes forth like a mighty one; He stirs up His zeal like a warrior. He s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.12|<< Isaiah 42:12]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.14|Isaiah 42:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> warrior  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H1368\|גִּבּ֣וֹר]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> gi.Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

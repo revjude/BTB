@@ -1,12 +1,12 @@
-**Ephesians 4:9
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:9**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 (Now that he ascended, what is it but that he also descended first into the lower parts of the earth?
 <small><sub>**BSB:**</sub></small>
 What does “He ascended” mean, except that He also descended to the lower parts of the earth?
 <small><sub>**Literal:**</sub></small>
 <the> And He ascended, what is [this] only except that also He descended first into the lower regions of the earth?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.8|<< Ephesians 4:8]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.10|Ephesians 4:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

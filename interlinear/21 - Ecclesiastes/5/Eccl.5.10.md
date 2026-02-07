@@ -1,4 +1,4 @@
-**Ecclesiastes 5:10** (5:9)
+**Ecclesiastes 5:10**<big><big>[[Eccl.5.8 The Futility of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this [is] also vanity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who loves money is never satisfied by money, and he who loves wealth is never
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.9|<< Ecclesiastes 5:9]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.11|Ecclesiastes 5:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] loves  |**<big>&#8207;[[H0157G\|אֹהֵ֥ב]]&#8207; </big>**| 'o.Hev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | silver  |**<big>&#8207;[[H3701G\|כֶּ֙סֶף֙]]&#8207; </big>**| ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 91:2** 
+**Psalms 91:2**<big><big>[[Ps.91.1 You Are My Refuge and My Fortress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will say of the LORD, [He is] my refuge and my fortress: my God; in him will I trust.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will say to the LORD, “You are my refuge and my fortress, my God, in whom I 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.91.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.91.1|<< Psalms 91:1]]</td><td align="center" style="border:none;">[[Ps.91|Psalms 91]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.91.3|Psalms 91:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will say  |**<big>&#8207;[[H0559\|אֹמַ֗ר]]&#8207; </big>**| 'o.Mar<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of Yahweh  |**<big>&#8207;[[H9005\|לַֽ֭]]&#8207;&#8207;[[H3068G\|יהוָה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

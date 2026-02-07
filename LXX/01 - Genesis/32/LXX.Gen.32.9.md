@@ -1,10 +1,7 @@
 **LXX Genesis 32:9** 
 <small><sub>**LXX:**</sub></small>
 And Jacob said, The God  of my father Abraham, and the God  of my father Isaac, O <span class="smallcaps">lord</span>, the one saying to me, Run to the land  of your birth! and I will do good to you. 
-<small><sub>**KJV:**</sub></small>
-And Jacob said, O God of my father Abraham, and God of my father Isaac, the LORD which saidst unto me, Return unto thy country, and to thy kindred, and I will deal well with thee:
-<small><sub>**BSB:**</sub></small>
-Then Jacob declared, “O God of my father Abraham, God of my father Isaac, the LORD who told me, ‘Go back to your country and to your kindred, and I will make you prosper,’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.8|<< Genesis 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.10|Genesis 32:10 >>]]</td></tr></table>
 
 | Translation | Greek |

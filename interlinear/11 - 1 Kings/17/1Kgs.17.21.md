@@ -1,4 +1,4 @@
-**1 Kings 17:21** 
+**1 Kings 17:21**<big><big>[[1Kgs.17.17 Elijah Raises the Widow’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he stretched himself upon the child three times, and cried unto the LORD, and said, O LORD my God, I pray thee, let this child’s soul come into him again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he stretched himself out over the child three times and cried out to the LO
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.20|<< 1 Kings 17:20]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.22|1 Kings 17:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stretched himself  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4058\|יִּתְמֹדֵ֤ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.mo.Ded<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

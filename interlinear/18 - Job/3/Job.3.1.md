@@ -1,4 +1,4 @@
-**Job 3:1** 
+**Job 3:1**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After this opened Job his mouth, and cursed his day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After this, Job opened his mouth and cursed the day of his birth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.13|<< Job 2:13]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.2|Job 3:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after  |**<big>&#8207;[[H0310A\|אַחֲרֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.cha.rei-<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

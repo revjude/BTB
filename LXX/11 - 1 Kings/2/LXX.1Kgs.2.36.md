@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And sending, the king called  Shimei, and said to him, Build for yourself a house in Jerusalem, and settle there, and do not go forth from there -- not at all! 
-<small><sub>**KJV:**</sub></small>
-And the king sent and called for Shimei, and said unto him, Build thee an house in Jerusalem, and dwell there, and go not forth thence any whither.
-<small><sub>**BSB:**</sub></small>
-Then the king summoned Shimei and said to him, “Build a house for yourself in Jerusalem and live there, but do not go anywhere else.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.35|<< 1 Kings 2:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.37|1 Kings 2:37 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:8** 
 <small><sub>**LXX:**</sub></small>
 And Ebed-melech went forth from the house of \[the\] king, and he spoke to the king, and said, 
-<small><sub>**KJV:**</sub></small>
-Ebedmelech went forth out of the king’s house, and spake to the king, saying,
-<small><sub>**BSB:**</sub></small>
-Ebed-melech went out from the king’s palace and said to the king,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.7|<< Jeremiah 38:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.9|Jeremiah 38:9 >>]]</td></tr></table>
 
 | Translation | Greek |

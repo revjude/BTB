@@ -1,10 +1,7 @@
 **LXX Genesis 4:25** 
 <small><sub>**LXX:**</sub></small>
 And Adam knew Eve  his wife. And conceiving, she bore a son, and named  his name Seth, saying, For God raised up to me another seed instead of Abel, whom Cain killed. 
-<small><sub>**KJV:**</sub></small>
-And Adam knew his wife again; and she bare a son, and called his name Seth: For God, [said she], hath appointed me another seed instead of Abel, whom Cain slew.
-<small><sub>**BSB:**</sub></small>
-And Adam again had relations with his wife, and she gave birth to a son and named him Seth, saying, “God has granted me another seed in place of Abel, since Cain killed him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.4.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.24|<< Genesis 4:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.26|Genesis 4:26 >>]]</td></tr></table>
 
 | Translation | Greek |

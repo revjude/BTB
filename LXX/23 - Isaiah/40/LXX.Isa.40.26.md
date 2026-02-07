@@ -1,10 +1,7 @@
 **LXX Isaiah 40:26** 
 <small><sub>**LXX:**</sub></small>
 Look up into \[the\] height  with your eyes, and behold! Who introduced all these \[things\]? The one bringing forth his cosmos by number shall call all \[things\] by name by great glory, and by \[the\] might of strength. Nothing \[of which\] you \[are\] unaware. 
-<small><sub>**KJV:**</sub></small>
-Lift up your eyes on high, and behold who hath created these [things], that bringeth out their host by number: he calleth them all by names by the greatness of his might, for that [he is] strong in power; not one faileth.
-<small><sub>**BSB:**</sub></small>
-Lift up your eyes on high: Who created all these? He leads forth the starry host by number; He calls each one by name. Because of His great power and mighty strength, not one of them is missing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.25|<< Isaiah 40:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.27|Isaiah 40:27 >>]]</td></tr></table>
 
 | Translation | Greek |

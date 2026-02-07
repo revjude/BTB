@@ -1,10 +1,7 @@
 **LXX Nehemiah 12:29** 
 <small><sub>**LXX:**</sub></small>
 And in Beth-gilgal and from \[the\] fields of Geba and Azmaveth; for the singers built for themselves \[nearby\] properties surrounding Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Also from the house of Gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem.
-<small><sub>**BSB:**</sub></small>
-from Beth-gilgal, and from the fields of Geba and Azmaveth, for they had built villages for themselves around Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.12.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.28|<< Nehemiah 12:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.12.30|Nehemiah 12:30 >>]]</td></tr></table>
 
 | Translation | Greek |

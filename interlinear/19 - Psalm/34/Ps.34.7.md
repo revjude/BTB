@@ -1,4 +1,4 @@
-**Psalms 34:7** (34:8)
+**Psalms 34:7**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The angel of the LORD encampeth round about them that fear him, and delivereth them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The angel of the LORD encamps around those who fear Him, and he delivers them.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.6|<< Psalms 34:6]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.8|Psalms 34:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] encamping  |**<big>&#8207;[[H2583\|חֹנֶ֤ה]]&#8207; </big>**| cho.Neh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] angel of  |**<big>&#8207;[[H4397H\|מַלְאַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mal.'akh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

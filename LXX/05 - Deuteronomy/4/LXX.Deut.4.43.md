@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:43** 
 <small><sub>**LXX:**</sub></small>
  Bezer in the wilderness, in the land in the plain  of Reuben; and  Ramoth in Gilead to the of Gadites; and  Golon in Bashan to the Manassites. 
-<small><sub>**KJV:**</sub></small>
-[Namely], Bezer in the wilderness, in the plain country, of the Reubenites; and Ramoth in Gilead, of the Gadites; and Golan in Bashan, of the Manassites.
-<small><sub>**BSB:**</sub></small>
-Bezer in the wilderness on the plateau belonging to the Reubenites, Ramoth in Gilead belonging to the Gadites, or Golan in Bashan belonging to the Manassites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.42|<< Deuteronomy 4:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.44|Deuteronomy 4:44 >>]]</td></tr></table>
 
 | Translation | Greek |

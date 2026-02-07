@@ -1,10 +1,7 @@
 **LXX Psalm 148:10** 
 <small><sub>**LXX:**</sub></small>
 the wild beasts and all the cattle; \[the\] reptiles, and feathered winged creatures; 
-<small><sub>**KJV:**</sub></small>
-Beasts, and all cattle; creeping things, and flying fowl:
-<small><sub>**BSB:**</sub></small>
-wild animals and all cattle, crawling creatures and flying birds,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.148.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.148.9|<< Psalm 148:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.148.11|Psalm 148:11 >>]]</td></tr></table>
 
 | Translation | Greek |

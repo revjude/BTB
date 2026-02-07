@@ -1,10 +1,7 @@
 **LXX Jeremiah 15:17** 
 <small><sub>**LXX:**</sub></small>
 I sat not in their sanhedrin playing about, but I was cautious from in front of your hand. Alone I sat, for I was filled with bitterness. 
-<small><sub>**KJV:**</sub></small>
-I sat not in the assembly of the mockers, nor rejoiced; I sat alone because of thy hand: for thou hast filled me with indignation.
-<small><sub>**BSB:**</sub></small>
-I never sat with the band of revelers, nor did I celebrate with them. Because Your hand was on me, I sat alone, for You have filled me with indignation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.15.16|<< Jeremiah 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.15.18|Jeremiah 15:18 >>]]</td></tr></table>
 
 | Translation | Greek |

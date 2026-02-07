@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:21** 
 <small><sub>**LXX:**</sub></small>
 He did not allow a man  to overpower them, and he reproved kings on account of them, 
-<small><sub>**KJV:**</sub></small>
-He suffered no man to do them wrong: yea, he reproved kings for their sakes,
-<small><sub>**BSB:**</sub></small>
-He let no man oppress them; He rebuked kings on their behalf:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.20|<< 1 Chronicles 16:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.22|1 Chronicles 16:22 >>]]</td></tr></table>
 
 | Translation | Greek |

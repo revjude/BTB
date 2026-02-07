@@ -1,4 +1,4 @@
-**Judges 5:7** 
+**Judges 5:7**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [The inhabitants of] the villages ceased, they ceased in Israel, until that I Deborah arose, that I arose a mother in Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Life in the villages ceased; it ended in Israel, until I, Deborah, arose, a moth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.6|<< Judges 5:6]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.8|Judges 5:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they ceased  |**<big>&#8207;[[H2308\|חָדְל֧וּ]]&#8207; </big>**| cha.de.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rural people  |**<big>&#8207;[[H6520\|פְרָז֛וֹן]]&#8207; </big>**| fe.ra.Zon<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

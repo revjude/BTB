@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:37** 
 <small><sub>**LXX:**</sub></small>
 \[And\] if famine happens, if plague happens, when there will be a combustion, \[or the\] grasshopper, if blight happens, and if his enemy shall afflict him in one  of their cities, every event, every misery, 
-<small><sub>**KJV:**</sub></small>
-If there be in the land famine, if there be pestilence, blasting, mildew, locust, [or] if there be caterpiller; if their enemy besiege them in the land of their cities; whatsoever plague, whatsoever sickness [there be];
-<small><sub>**BSB:**</sub></small>
-When famine or plague comes upon the land, or blight or mildew or locusts or grasshoppers, or when their enemy besieges them in their cities, whatever plague or sickness may come,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.36|<< 1 Kings 8:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.38|1 Kings 8:38 >>]]</td></tr></table>
 
 | Translation | Greek |

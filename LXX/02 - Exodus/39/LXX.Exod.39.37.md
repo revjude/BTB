@@ -1,10 +1,7 @@
 **LXX Exodus 39:37** 
 <small><sub>**LXX:**</sub></small>
 and the pure lamp-stand, and  \[its\] lamps -- lamps \[for\] burning, and all  \[its\] utensils, and the oil for the light, 
-<small><sub>**KJV:**</sub></small>
-The pure candlestick, [with] the lamps thereof, [even with] the lamps to be set in order, and all the vessels thereof, and the oil for light,
-<small><sub>**BSB:**</sub></small>
-the pure gold lampstand with its row of lamps and all its utensils, as well as the oil for the light;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.36|<< Exodus 39:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.38|Exodus 39:38 >>]]</td></tr></table>
 
 | Translation | Greek |

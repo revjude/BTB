@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he said, Bring to me! and I will eat from  your game, child, that my soul may bless you. And he brought it near to him, and he ate; and he carried to him wine, and he drank. 
-<small><sub>**KJV:**</sub></small>
-And he said, Bring [it] near to me, and I will eat of my son’s venison, that my soul may bless thee. And he brought [it] near to him, and he did eat: and he brought him wine, and he drank.
-<small><sub>**BSB:**</sub></small>
-“Serve me,” said Isaac, “and let me eat some of my son’s game, so that I may bless you.” Jacob brought it to him, and he ate; then he brought him wine, and he drank.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.24|<< Genesis 27:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.26|Genesis 27:26 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 9:13** 
 <small><sub>**LXX:**</sub></small>
 And the whole burnt-offering -- they brought it by limbs, and  head; and he placed \[them\] upon the altar. 
-<small><sub>**KJV:**</sub></small>
-And they presented the burnt offering unto him, with the pieces thereof, and the head: and he burnt [them] upon the altar.
-<small><sub>**BSB:**</sub></small>
-They brought him the burnt offering piece by piece, including the head, and he burned them on the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.12|<< Leviticus 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.14|Leviticus 9:14 >>]]</td></tr></table>
 
 | Translation | Greek |

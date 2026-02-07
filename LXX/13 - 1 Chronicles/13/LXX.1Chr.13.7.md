@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 13:7** 
 <small><sub>**LXX:**</sub></small>
 And they placed the ark  of God upon a new wagon, from out of \[the\] house of Abinadab. And Uzza and  his brethren led the wagon. 
-<small><sub>**KJV:**</sub></small>
-And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drave the cart.
-<small><sub>**BSB:**</sub></small>
-So they carried the ark of God from the house of Abinadab on a new cart, with Uzzah and Ahio guiding the cart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.13.6|<< 1 Chronicles 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.13.8|1 Chronicles 13:8 >>]]</td></tr></table>
 
 | Translation | Greek |

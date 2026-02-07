@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:7** 
 <small><sub>**LXX:**</sub></small>
 And I said after  her committing harlotry all these \[things\], Turn to me! And she turned not. And the Judah covenant-breaker saw her breach-of-contract. 
-<small><sub>**KJV:**</sub></small>
-And I said after she had done all these [things], Turn thou unto me. But she returned not. And her treacherous sister Judah saw [it].
-<small><sub>**BSB:**</sub></small>
-I thought that after she had done all these things, she would return to Me. But she did not return, and her unfaithful sister Judah saw it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.6|<< Jeremiah 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.8|Jeremiah 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

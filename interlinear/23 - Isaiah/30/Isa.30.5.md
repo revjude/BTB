@@ -1,4 +1,4 @@
-**Isaiah 30:5** 
+**Isaiah 30:5**<big><big>[[Isa.30.1 The Worthless Treaty with Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They were all ashamed of a people [that] could not profit them, nor be an help nor profit, but a shame, and also a reproach.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ everyone will be put to shame because of a people useless to them. They bring ne
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.4|<< Isaiah 30:4]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.6|Isaiah 30:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | everyone  |**<big>&#8207;[[H3605\|כֹּ֣ל]]&#8207; </big>**| kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will be ashamed  [^1]|**<big>&#8207;[[H0954\|הֹבִ֔ישׁ]]&#8207; </big>**[^2] | hiv.'ish<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

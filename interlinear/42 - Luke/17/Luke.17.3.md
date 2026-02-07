@@ -1,5 +1,5 @@
-**Luke 17:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:3**<big><big>[[Luke.17.1 Temptations and Trespasses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.
 <small><sub>**BSB:**</sub></small>
 Watch yourselves. If your brother sins, rebuke him; and if he repents, forgive him.
@@ -10,7 +10,7 @@ do take heed to yourselves. If now shall sin against you the brother of you, do 
 > $\quad$ alluding to: [[LXX.Lev.19.17|Lev 19:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do take heed |**<big>[[G4337\|προσέχετε]]</big>**  |prosechete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to yourselves. |**<big>[[G1438\|ἑαυτοῖς.]]</big>**  |he'autois <small><sup>[[F-2DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

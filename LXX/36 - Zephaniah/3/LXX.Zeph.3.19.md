@@ -1,10 +1,7 @@
 **LXX Zephaniah 3:19** 
 <small><sub>**LXX:**</sub></small>
 Behold, I will act among you, because of you in  that time. And I will deliver  her being pressured; and  will take her being thrust away; and I will establish them for boasting and fame in all the earth. 
-<small><sub>**KJV:**</sub></small>
-Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
-<small><sub>**BSB:**</sub></small>
-Behold, at that time, I will deal with all who afflict you. I will save the lame and gather the scattered; and I will appoint praise and fame for the disgraced throughout the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.18|<< Zephaniah 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.20|Zephaniah 3:20 >>]]</td></tr></table>
 
 | Translation | Greek |

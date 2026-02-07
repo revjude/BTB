@@ -1,10 +1,7 @@
 **LXX Job 21:21** 
 <small><sub>**LXX:**</sub></small>
 For  his will \[is\] in his house with him, and \[the\] numbers of his months were divided. 
-<small><sub>**KJV:**</sub></small>
-For what pleasure [hath] he in his house after him, when the number of his months is cut off in the midst?
-<small><sub>**BSB:**</sub></small>
-For what does he care about his household after him, when the number of his months has run out?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.21.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.20|<< Job 21:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.22|Job 21:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 47:15** 
+**Genesis 47:15**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the money from the lands of Egypt and Canaan was gone, all the Egyptians ca
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.14|<< Genesis 47:14]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.16|Genesis 47:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was finished  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8552\|יִּתֹּ֣ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Tom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the money  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3701G\|כֶּ֗סֶף]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

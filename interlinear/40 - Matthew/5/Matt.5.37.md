@@ -1,12 +1,12 @@
-**Matthew 5:37
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:37**<big><big>[[Matt.5.33 Oaths and Vows|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But let your communication be, Yea, yea; Nay, nay: for whatsoever is more than these cometh of evil.
 <small><sub>**BSB:**</sub></small>
 Simply let your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’ Anything more comes from the evil one.
 <small><sub>**Literal:**</sub></small>
 should be however the statement of you Yes Yes, [and] ‘No ‘No; The however excessive of these from <the> evil comes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.36|<< Matthew 5:36]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.38|Matthew 5:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | should be |**<big>[[G1510\|ἔστω]]</big>**  |estō <small><sup>[[V-PAM-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 8:35
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:35**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus.
 <small><sub>**BSB:**</sub></small>
 Then Philip began with this very Scripture and told him the good news about Jesus.
 <small><sub>**Literal:**</sub></small>
 Having opened then <the> Philip the mouth of him and having begun from <the> Scripture this he evangelised to him [about] <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.34|<< Acts 8:34]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.36|Acts 8:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having opened |**<big>[[G0455\|ἀνοίξας]]</big>**  |anoixas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

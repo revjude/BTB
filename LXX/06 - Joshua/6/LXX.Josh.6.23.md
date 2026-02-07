@@ -1,10 +1,7 @@
 **LXX Joshua 6:23** 
 <small><sub>**LXX:**</sub></small>
 And the two young men entered, the ones spying out the city, into the house of the woman; and they led out Rahab the harlot, and  her father, and  her mother, and  her brothers, and all as much as was to her, and  her kin. And they placed her outside the camp of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the young men that were spies went in, and brought out Rahab, and her father, and her mother, and her brethren, and all that she had; and they brought out all her kindred, and left them without the camp of Israel.
-<small><sub>**BSB:**</sub></small>
-So the young spies went in and brought out Rahab, her father and mother and brothers, and all who belonged to her. They brought out her whole family and settled them outside the camp of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.22|<< Joshua 6:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.24|Joshua 6:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joshua 6:23** is...

@@ -1,10 +1,7 @@
 **LXX Genesis 21:17** 
 <small><sub>**LXX:**</sub></small>
 But God listened to the voice of the child from the place where he was. And \[an\] angel of God called  Hagar from out of the heaven, and said to her, What is it, Hagar? Fear not! for God has heeded the voice  of your child from out of the place where he is. 
-<small><sub>**KJV:**</sub></small>
-And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he [is].
-<small><sub>**BSB:**</sub></small>
-Then God heard the voice of the boy, and the angel of God called to Hagar from heaven, “What is wrong, Hagar? Do not be afraid, for God has heard the voice of the boy where he lies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.16|<< Genesis 21:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.18|Genesis 21:18 >>]]</td></tr></table>
 
 | Translation | Greek |

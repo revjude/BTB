@@ -1,10 +1,7 @@
 **LXX Psalm 58:5** 
 <small><sub>**LXX:**</sub></small>
 who does not listen to \[the\] sound of \[the\] sorcerer charming, and the administering of potions by a wise \[man\]. 
-<small><sub>**KJV:**</sub></small>
-Which will not hearken to the voice of charmers, charming never so wisely.
-<small><sub>**BSB:**</sub></small>
-refusing to hear the tune of the charmer who skillfully weaves his spell.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.58.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.58.4|<< Psalm 58:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.58.6|Psalm 58:6 >>]]</td></tr></table>
 
 | Translation | Greek |

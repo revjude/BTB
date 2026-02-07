@@ -1,10 +1,7 @@
 **LXX Exodus 26:25** 
 <small><sub>**LXX:**</sub></small>
 And there shall be eight posts. And  their bases of silver -- sixteen; and two bases to the one post, and two bases to the \[other\] one post. 
-<small><sub>**KJV:**</sub></small>
-And they shall be eight boards, and their sockets [of] silver, sixteen sockets; two sockets under one board, and two sockets under another board.
-<small><sub>**BSB:**</sub></small>
-So there are to be eight frames and sixteen silver bases—two under each frame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.24|<< Exodus 26:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.26|Exodus 26:26 >>]]</td></tr></table>
 
 | Translation | Greek |

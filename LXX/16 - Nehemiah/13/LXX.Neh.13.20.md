@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:20** 
 <small><sub>**LXX:**</sub></small>
 And all the traders lodged and did business outside of Jerusalem once or twice. 
-<small><sub>**KJV:**</sub></small>
-So the merchants and sellers of all kind of ware lodged without Jerusalem once or twice.
-<small><sub>**BSB:**</sub></small>
-Once or twice, the merchants and those who sell all kinds of goods camped outside Jerusalem,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.19|<< Nehemiah 13:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.21|Nehemiah 13:21 >>]]</td></tr></table>
 
 | Translation | Greek |

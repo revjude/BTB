@@ -1,4 +1,4 @@
-**Haggai 2:12** 
+**Haggai 2:12**<big><big>[[Hag.2.10 Blessings for a Defiled People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If one bear holy flesh in the skirt of his garment, and with his skirt do touch bread, or pottage, or wine, or oil, or any meat, shall it be holy? And the priests answered and said, No.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a man carries consecrated meat in the fold of his garment, and it touches bre
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.11|<< Haggai 2:11]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.13|Haggai 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵ֣ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will carry  |**<big>&#8207;[[H5375H\|יִשָּׂא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yi.sa'-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

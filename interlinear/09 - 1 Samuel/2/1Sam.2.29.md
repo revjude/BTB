@@ -1,4 +1,4 @@
-**1 Samuel 2:29** 
+**1 Samuel 2:29**<big><big>[[1Sam.2.27 A Prophecy against the House of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore kick ye at my sacrifice and at mine offering, which I have commanded [in my] habitation; and honourest thy sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why then do you kick at My sacrifice and offering that I have prescribed for My 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.28|<< 1 Samuel 2:28]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.30|1 Samuel 2:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֣]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do you kick  |**<big>&#8207;[[H1163\|תִבְעֲט֗וּ]]&#8207; </big>**| tiv.'a.Tu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

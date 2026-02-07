@@ -1,4 +1,4 @@
-**1 Samuel 10:6** 
+**1 Samuel 10:6**<big><big>[[1Sam.10.1 Samuel Anoints Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Spirit of the LORD will come upon thee, and thou shalt prophesy with them, and shalt be turned into another man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Spirit of the LORD will rush upon you, and you will prophesy with them;
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.5|<< 1 Samuel 10:5]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.7|1 Samuel 10:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will rush  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6743A\|צָלְחָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> tza.le.Chah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עָלֶ֙י]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

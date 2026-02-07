@@ -1,10 +1,7 @@
 **LXX Job 8:9** 
 <small><sub>**LXX:**</sub></small>
 For we are of yesterday, and have not known; for our existence upon the earth is a shadow; 
-<small><sub>**KJV:**</sub></small>
-(For we [are but of] yesterday, and know nothing, because our days upon earth [are] a shadow:)
-<small><sub>**BSB:**</sub></small>
-For we were born yesterday and know nothing; our days on earth are but a shadow.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.8|<< Job 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.10|Job 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

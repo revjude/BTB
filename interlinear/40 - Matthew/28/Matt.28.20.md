@@ -1,12 +1,12 @@
-**Matthew 28:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:20**<big><big>[[Matt.28.16 The Great Commission|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, [even] unto the end of the world. Amen.
 <small><sub>**BSB:**</sub></small>
 and teaching them to obey all that I have commanded you. And surely I am with you always, even to the end of the age.”
 <small><sub>**Literal:**</sub></small>
 teaching them to observe all things as much as I commanded you; And behold I myself with you am all the days until the completion of the age. Amen<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.19|<< Matthew 28:19]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.1|Mark 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | teaching |**<big>[[G1321\|διδάσκοντες]]</big>**  |didaskontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | them |**<big>[[G0846\|αὐτοὺς]]</big>**  |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

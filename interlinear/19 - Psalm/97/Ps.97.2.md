@@ -1,4 +1,4 @@
-**Psalms 97:2** 
+**Psalms 97:2**<big><big>[[Ps.97.1 Let the Earth Rejoice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Clouds and darkness [are] round about him: righteousness and judgment [are] the habitation of his throne.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Clouds and darkness surround Him; righteousness and justice are His throne’s f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.97.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.1|<< Psalms 97:1]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.3|Psalms 97:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | cloud  |**<big>&#8207;[[H6051\|עָנָ֣ן]]&#8207; </big>**| 'a.Nan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and thick darkness  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6205\|עֲרָפֶ֣ל]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.ra.Fel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

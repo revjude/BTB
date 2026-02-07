@@ -1,10 +1,7 @@
 **LXX Genesis 18:7** 
 <small><sub>**LXX:**</sub></small>
 And Abraham ran to the oxen, and he took a tender and good young calf, and gave \[it\] to the servant; and he hastened  to prepare it. 
-<small><sub>**KJV:**</sub></small>
-And Abraham ran unto the herd, and fetcht a calf tender and good, and gave [it] unto a young man; and he hasted to dress it.
-<small><sub>**BSB:**</sub></small>
-Meanwhile, Abraham ran to the herd, selected a tender and choice calf, and gave it to a servant, who hurried to prepare it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.6|<< Genesis 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.8|Genesis 18:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Lamentations 2:12** 
+**Lamentations 2:12**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They say to their mothers, Where [is] corn and wine? when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers’ bosom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They cry out to their mothers: “Where is the grain and wine?” as they faint 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.11|<< Lamentations 2:11]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.13|Lamentations 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to mothers their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0517\|אִמֹּתָ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'i.mo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they say  |**<big>&#8207;[[H0559\|יֹֽאמְר֔וּ]]&#8207; </big>**| yo.me.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Joshua 22:28** 
+**Joshua 22:28**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore said we, that it shall be, when they should [so] say to us or to our generations in time to come, that we may say [again], Behold the pattern of the altar of the LORD, which our fathers made, not for burnt offerings, nor for sacrifices; but it [is] a witness between us and you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore we said, ‘If they ever say this to us or to our descendants, we will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.27|<< Joshua 22:27]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.29|Joshua 22:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|נֹּ֕אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> No.mer<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֗ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

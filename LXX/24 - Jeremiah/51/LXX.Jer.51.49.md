@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:49** 
 <small><sub>**LXX:**</sub></small>
 And even \[as\] Babylon acted to fall of the ones slain of Israel, also in Babylon \[the\] slain of all the earth shall fall. 
-<small><sub>**KJV:**</sub></small>
-As Babylon [hath caused] the slain of Israel to fall, so at Babylon shall fall the slain of all the earth.
-<small><sub>**BSB:**</sub></small>
-“Babylon must fall on account of the slain of Israel, just as the slain of all the earth have fallen because of Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.48|<< Jeremiah 51:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.50|Jeremiah 51:50 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 51:49** is...

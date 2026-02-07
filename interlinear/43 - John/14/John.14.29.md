@@ -1,12 +1,12 @@
-**John 14:29
-**<small><sub>**KJV:**</sub></small>
+**John 14:29**<big><big>[[John.14.27 Peace I Leave with You|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And now I have told you before it come to pass, that, when it is come to pass, ye might believe.
 <small><sub>**BSB:**</sub></small>
 And now I have told you before it happens, so that when it does happen, you will believe.
 <small><sub>**Literal:**</sub></small>
 And now I have told you before it comes to pass, that when it may happen, you may believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.28|<< John 14:28]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.30|John 14:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Ephesians 3:16
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 3:16**<big><big>[[Eph.3.14 Paul’s Prayer for the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;
 <small><sub>**BSB:**</sub></small>
 I ask that out of the riches of His glory He may strengthen you with power through His Spirit in your inner being,
 <small><sub>**Literal:**</sub></small>
 that He may give you according to the riches of the glory of Him with power to be strengthened through the Spirit of Him in the inner man,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.15|<< Ephesians 3:15]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.17|Ephesians 3:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He may give [^1] |**<big>[[G1325\|δῷ]]</big>**  |dō <small><sup>[[V-2AAS-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

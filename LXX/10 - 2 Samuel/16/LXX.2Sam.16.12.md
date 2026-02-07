@@ -1,10 +1,7 @@
 **LXX 2 Samuel 16:12** 
 <small><sub>**LXX:**</sub></small>
 If by any means \[the\] <span class="smallcaps">lord</span> may behold in  my humiliation, and shall return good to me for  his curse  this day -- \[so be it!\] 
-<small><sub>**KJV:**</sub></small>
-It may be that the LORD will look on mine affliction, and that the LORD will requite me good for his cursing this day.
-<small><sub>**BSB:**</sub></small>
-Perhaps the LORD will see my affliction and repay me with good for the cursing I receive today.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.11|<< 2 Samuel 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.13|2 Samuel 16:13 >>]]</td></tr></table>
 
 | Translation | Greek |

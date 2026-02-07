@@ -1,4 +1,4 @@
-**Numbers 8:2** 
+**Numbers 8:2**<big><big>[[Num.8.1 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto Aaron, and say unto him, When thou lightest the lamps, the seven lamps shall give light over against the candlestick.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Speak unto Aaron, and say unto him, When thou lightest the lamps, the seven lamp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.1|<< Numbers 8:1]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.3|Numbers 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | speak  |**<big>&#8207;[[H1696G\|דַּבֵּר֙]]&#8207; </big>**| da.Ber<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

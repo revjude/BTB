@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, Proceed and acquire for yourself a flaxen linen loincloth, and put it around  your loin! and  you shall not go through water. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD unto me, Go and get thee a linen girdle, and put it upon thy loins, and put it not in water.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD said to me: “Go and buy yourself a linen loincloth and put it around your waist, but do not let it touch water.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.17|<< Jeremiah 12:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.2|Jeremiah 13:2 >>]]</td></tr></table>
 
 | Translation | Greek |

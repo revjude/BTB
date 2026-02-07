@@ -1,12 +1,12 @@
-**Luke 6:40
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:40**<big><big>[[Luke.6.37 Judging Others|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The disciple is not above his master: but every one that is perfect shall be as his master.
 <small><sub>**BSB:**</sub></small>
 A disciple is not above his teacher, but everyone who is fully trained will be like his teacher.
 <small><sub>**Literal:**</sub></small>
 Not is a disciple above the teacher of him. fully trained however everyone will be like the teacher of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.39|<< Luke 6:39]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.41|Luke 6:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|Οὐκ]]</big>**  |Ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is |**<big>[[G1510\|ἔστιν]]</big>**  |estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

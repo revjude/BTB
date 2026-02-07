@@ -1,10 +1,7 @@
 **LXX Zechariah 11:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to me, Lower them into the foundry furnace! and to look about if it is unadulterated! in which manner I was proved for them. And I took the thirty pieces of silver, and I put them into the house of \[the\] <span class="smallcaps">lord</span>, into the foundry furnace. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto me, Cast it unto the potter: a goodly price that I was prised at of them. And I took the thirty [pieces] of silver, and cast them to the potter in the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-And the LORD said to me, “Throw it to the potter”—this magnificent price at which they valued me. So I took the thirty pieces of silver and threw them to the potter in the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.11.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.12|<< Zechariah 11:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.14|Zechariah 11:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zechariah 11:13** is...

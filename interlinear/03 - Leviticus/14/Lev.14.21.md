@@ -1,4 +1,4 @@
-**Leviticus 14:21** 
+**Leviticus 14:21**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he [be] poor, and cannot get so much; then he shall take one lamb [for] a trespass offering to be waved, to make an atonement for him, and one tenth deal of fine flour mingled with oil for a meat offering, and a log of oil;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If, however, the person is poor and cannot afford these offerings, he is to take
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.20|<< Leviticus 14:20]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.22|Leviticus 14:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] poor  |**<big>&#8207;[[H1800\|דַּ֣ל]]&#8207; </big>**| dal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

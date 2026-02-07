@@ -1,10 +1,7 @@
 **LXX Genesis 34:31** 
 <small><sub>**LXX:**</sub></small>
  And they said, But as a harlot they treated  our sister. 
-<small><sub>**KJV:**</sub></small>
-And they said, Should he deal with our sister as with an harlot?
-<small><sub>**BSB:**</sub></small>
-But they replied, “Should he have treated our sister like a prostitute?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.30|<< Genesis 34:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.1|Genesis 35:1 >>]]</td></tr></table>
 
 | Translation | Greek |

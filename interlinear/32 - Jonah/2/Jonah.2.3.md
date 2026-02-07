@@ -1,4 +1,4 @@
-**Jonah 2:3** (2:4)
+**Jonah 2:3**<big><big>[[Jonah.2.1 Jonah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For You cast me into the deep, into the heart of the seas, and the current swirl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.2.2|<< Jonah 2:2]]</td><td align="center" style="border:none;">[[Jonah.2|Jonah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.2.4|Jonah 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you have thrown me  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7993\|תַּשְׁלִיכֵ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tash.li.Khe.<small><sup>[[HVhw2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] deep  |**<big>&#8207;[[H4688\|מְצוּלָה֙]]&#8207; </big>**| me.tzu.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

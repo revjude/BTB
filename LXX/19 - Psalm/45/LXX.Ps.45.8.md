@@ -1,10 +1,7 @@
 **LXX Psalm 45:8** 
 <small><sub>**LXX:**</sub></small>
 Myrrh, and balsam, and cassia of  your garments from palaces of ivory, 
-<small><sub>**KJV:**</sub></small>
-All thy garments [smell] of myrrh, and aloes, [and] cassia, out of the ivory palaces, whereby they have made thee glad.
-<small><sub>**BSB:**</sub></small>
-All your garments are fragrant with myrrh and aloes and cassia; from palaces of ivory the harps make you glad.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.45.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.45.7|<< Psalm 45:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.45.9|Psalm 45:9 >>]]</td></tr></table>
 
 | Translation | Greek |

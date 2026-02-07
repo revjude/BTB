@@ -1,10 +1,7 @@
 **LXX Psalm 23:2** 
 <small><sub>**LXX:**</sub></small>
 In \[the\] place of tender shoots, there he encamped me. At \[the\] water of rest, he nourished me. 
-<small><sub>**KJV:**</sub></small>
-He maketh me to lie down in green pastures: he leadeth me beside the still waters.
-<small><sub>**BSB:**</sub></small>
-He makes me lie down in green pastures; He leads me beside quiet waters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.23.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.23.1|<< Psalm 23:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.23.3|Psalm 23:3 >>]]</td></tr></table>
 
 | Translation | Greek |

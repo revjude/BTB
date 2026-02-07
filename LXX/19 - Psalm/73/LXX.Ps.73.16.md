@@ -1,10 +1,7 @@
 **LXX Psalm 73:16** 
 <small><sub>**LXX:**</sub></small>
 And I undertook  to know this, \[but\] it is toilsome before me; 
-<small><sub>**KJV:**</sub></small>
-When I thought to know this, it [was] too painful for me;
-<small><sub>**BSB:**</sub></small>
-When I tried to understand all this, it was troublesome in my sight<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.73.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.73.15|<< Psalm 73:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.73.17|Psalm 73:17 >>]]</td></tr></table>
 
 | Translation | Greek |

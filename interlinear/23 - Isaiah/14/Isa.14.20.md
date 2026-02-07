@@ -1,4 +1,4 @@
-**Isaiah 14:20** 
+**Isaiah 14:20**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not be joined with them in burial, because thou hast destroyed thy land, [and] slain thy people: the seed of evildoers shall never be renowned.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will not join them in burial, since you have destroyed your land and slaught
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.19|<< Isaiah 14:19]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.21|Isaiah 14:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will be united  |**<big>&#8207;[[H3161\|תֵחַ֤ד]]&#8207; </big>**| te.Chad<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

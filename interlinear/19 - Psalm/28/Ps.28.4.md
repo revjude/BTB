@@ -1,4 +1,4 @@
-**Psalms 28:4** 
+**Psalms 28:4**<big><big>[[Ps.28.1 The LORD Is My Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Repay them according to their deeds and for their works of evil. Repay them for 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.28.3|<< Psalms 28:3]]</td><td align="center" style="border:none;">[[Ps.28|Psalms 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.28.5|Psalms 28:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | requite  |**<big>&#8207;[[H5414G\|תֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ten-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֣ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

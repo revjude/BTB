@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:26** 
 <small><sub>**LXX:**</sub></small>
 And the Nethinim were living in  Ophel unto before \[the\] garden of the water gate to \[the\] east, and the protruding tower. 
-<small><sub>**KJV:**</sub></small>
-Moreover the Nethinims dwelt in Ophel, unto [the place] over against the water gate toward the east, and the tower that lieth out.
-<small><sub>**BSB:**</sub></small>
-and the temple servants living on the hill of Ophel made repairs opposite the Water Gate toward the east and the tower that juts out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.25|<< Nehemiah 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.27|Nehemiah 3:27 >>]]</td></tr></table>
 
 | Translation | Greek |

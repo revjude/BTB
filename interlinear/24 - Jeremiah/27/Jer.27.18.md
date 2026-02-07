@@ -1,4 +1,4 @@
-**Jeremiah 27:18** 
+**Jeremiah 27:18**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if they [be] prophets, and if the word of the LORD be with them, let them now make intercession to the LORD of hosts, that the vessels which are left in the house of the LORD, and [in] the house of the king of Judah, and at Jerusalem, go not to Babylon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If they are indeed prophets and the word of the LORD is with them, let them now 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.17|<< Jeremiah 27:17]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.19|Jeremiah 27:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] prophets  |**<big>&#8207;[[H5030\|נְבִאִ֣ים]]&#8207; </big>**| ne.vi.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

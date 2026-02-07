@@ -1,4 +1,4 @@
-**Daniel 4:16** (4:13)
+**Daniel 4:16**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let his heart be changed from man’s, and let a beast’s heart be given unto him; and let seven times pass over him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let his mind be changed from that of a man, and let him be given the mind of a b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.15|<< Daniel 4:15]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.17|Daniel 4:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | heart its  |**<big>&#8207;[[H3825\|לִבְבֵ]]&#8207;&#8207;[[H9023\|הּ֙]]&#8207; </big>**| li.Ve<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | away from  |**<big>&#8207;[[H4481\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

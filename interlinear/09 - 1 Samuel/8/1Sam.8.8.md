@@ -1,4 +1,4 @@
-**1 Samuel 8:8** 
+**1 Samuel 8:8**<big><big>[[1Sam.8.1 Israel Demands a King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to all the works which they have done since the day that I brought them up out of Egypt even unto this day, wherewith they have forsaken me, and served other gods, so do they also unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Just as they have done from the day I brought them up out of Egypt until this da
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.7|<< 1 Samuel 8:7]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.9|1 Samuel 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | according to all  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3605\|כָֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> khal-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the deeds  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4639K\|מַּעֲשִׂ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.'a.Sim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 46:20** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Joseph born in \[the\] land of Egypt, whom Asenath bore to him, \[the\] daughter of Poti-phera, priest of Heliopolis --  Manasseh and  Ephraim. And were born \[the\] sons of Manasseh whom Sura the concubine bore to him --  Machir. And Machir procreated  Gilead. And \[the\] sons of Ephraim brother of Manasseh -- Sutalaam, and Tam. And \[the\] sons of Sutalaam -- Edem. 
-<small><sub>**KJV:**</sub></small>
-And unto Joseph in the land of Egypt were born Manasseh and Ephraim, which Asenath the daughter of Potipherah priest of On bare unto him.
-<small><sub>**BSB:**</sub></small>
-Manasseh and Ephraim were born to Joseph in the land of Egypt by Asenath daughter of Potiphera, priest of On.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.46.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.19|<< Genesis 46:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.21|Genesis 46:21 >>]]</td></tr></table>
 
 | Translation | Greek |

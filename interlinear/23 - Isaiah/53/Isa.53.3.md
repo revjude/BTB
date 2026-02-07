@@ -1,4 +1,4 @@
-**Isaiah 53:3** 
+**Isaiah 53:3**<big><big>[[Isa.53.1 The Suffering Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were [our] faces from him; he was despised, and we esteemed him not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He was despised and rejected by men, a man of sorrows, acquainted with grief. Li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.53.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53.2|<< Isaiah 53:2]]</td><td align="center" style="border:none;">[[Isa.53|Isaiah 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.53.4|Isaiah 53:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he was] despised  |**<big>&#8207;[[H0959\|נִבְזֶה֙]]&#8207; </big>**| niv.Zeh<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and rejected of  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2310\|חֲדַ֣ל]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.Dal<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

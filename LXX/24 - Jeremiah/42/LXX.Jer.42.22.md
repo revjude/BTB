@@ -1,10 +1,7 @@
 **LXX Jeremiah 42:22** 
 <small><sub>**LXX:**</sub></small>
 And now by \[the\] broadsword, and by famine, and by pestilence you shall end in the place in which you wanted to enter to dwell there. 
-<small><sub>**KJV:**</sub></small>
-Now therefore know certainly that ye shall die by the sword, by the famine, and by the pestilence, in the place whither ye desire to go [and] to sojourn.
-<small><sub>**BSB:**</sub></small>
-Now therefore, know for sure that by sword and famine and plague you will die in the place where you desire to go to reside.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.42.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.42.21|<< Jeremiah 42:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.43.1|Jeremiah 43:1 >>]]</td></tr></table>
 
 | Translation | Greek |

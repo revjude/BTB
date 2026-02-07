@@ -1,12 +1,12 @@
-**Romans 2:17
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:17**<big><big>[[Rom.2.17 The Jews and the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, thou art called a Jew, and restest in the law, and makest thy boast of God,
 <small><sub>**BSB:**</sub></small>
 Now you, if you call yourself a Jew; if you rely on the law and boast in God;
 <small><sub>**Literal:**</sub></small>
 If however you yourself a Jew are called and you rely on the law and you boast in God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.16|<< Romans 2:16]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.18|Romans 2:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If [^1] [^2] |**<big>[[G1487G\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(K)O</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

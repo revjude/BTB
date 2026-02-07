@@ -1,4 +1,4 @@
-**Ezekiel 44:25** 
+**Ezekiel 44:25**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall come at no dead person to defile themselves: but for father, or for mother, or for son, or for daughter, for brother, or for sister that hath had no husband, they may defile themselves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A priest must not defile himself by going near a dead person. However, for a fat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.24|<< Ezekiel 44:24]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.26|Ezekiel 44:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dead  |**<big>&#8207;[[H4191\|מֵ֣ת]]&#8207; </big>**| met<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

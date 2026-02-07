@@ -1,12 +1,12 @@
-**Romans 11:23
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:23**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they also, if they abide not still in unbelief, shall be graffed in: for God is able to graff them in again.
 <small><sub>**BSB:**</sub></small>
 And if they do not persist in unbelief, they will be grafted in, for God is able to graft them in again.
 <small><sub>**Literal:**</sub></small>
 And they now only unless they shall continue <the> in unbelief, [then] they will be grafted in; able for is <the> God again to graft in them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.22|<< Romans 11:22]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.24|Romans 11:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And they |**<big>[[G2532\|κἀκεῖνοι]]</big>**  [^1] |kakeinoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ,]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

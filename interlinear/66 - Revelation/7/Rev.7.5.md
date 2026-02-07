@@ -1,12 +1,12 @@
-**Revelation 7:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 7:5**<big><big>[[Rev.7.1 144,000 Sealed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of the tribe of Juda [were] sealed twelve thousand. Of the tribe of Reuben [were] sealed twelve thousand. Of the tribe of Gad [were] sealed twelve thousand.
 <small><sub>**BSB:**</sub></small>
 From the tribe of Judah 12,000 were sealed, from the tribe of Reuben 12,000, from the tribe of Gad 12,000,
 <small><sub>**Literal:**</sub></small>
 Out of [the] tribe of Judah twelve thousand sealed; out of [the] tribe of Reuben twelve thousand sealed; out of [the] tribe of Gad twelve thousand sealed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.4|<< Revelation 7:4]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.6|Revelation 7:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] tribe |**<big>[[G5443\|φυλῆς]]</big>**  |phulēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

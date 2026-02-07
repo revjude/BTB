@@ -1,4 +1,4 @@
-**Leviticus 21:14** 
+**Leviticus 21:14**<big><big>[[Lev.21.1 Holiness Required of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A widow, or a divorced woman, or profane, [or] an harlot, these shall he not take: but he shall take a virgin of his own people to wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is not to marry a widow, a divorced woman, or one defiled by prostitution. He
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.13|<< Leviticus 21:13]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.15|Leviticus 21:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a widow  |**<big>&#8207;[[H0490\|אַלְמָנָ֤ה]]&#8207; </big>**| 'al.ma.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and a divorced [woman]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1644H\|גְרוּשָׁה֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ge.ru.Shah<small><sup>[[HVqsfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Leviticus 3:16** 
+**Leviticus 3:16**<big><big>[[Lev.3.1 Laws for Peace Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall burn them upon the altar: [it is] the food of the offering made by fire for a sweet savour: all the fat [is] the LORD’S.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the priest is to burn the food on the altar as a food offering, a pleasing 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.3.15|<< Leviticus 3:15]]</td><td align="center" style="border:none;">[[Lev.3|Leviticus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.3.17|Leviticus 3:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make smoke them  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6999A\|הִקְטִירָ֥]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hik.ti.Ra<small><sup>[[HVhq3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֖ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

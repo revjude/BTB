@@ -1,4 +1,4 @@
-**1 Samuel 24:7** (24:8)
+**1 Samuel 24:7**<big><big>[[1Sam.24.1 David Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David stayed his servants with these words, and suffered them not to rise against Saul. But Saul rose up out of the cave, and went on [his] way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With these words David restrained his men, and he did not let them rise up again
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.6|<< 1 Samuel 24:6]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.8|1 Samuel 24:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he reprimanded  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8156\|יְשַׁסַּ֨ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sha.Sa'<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֤ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

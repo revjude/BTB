@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:24** 
 <small><sub>**LXX:**</sub></small>
 Shall any be hid in secret, and I not see him, says \[the\] <span class="smallcaps">lord</span>, \[no\]. Is it not that I shall fill the heaven and the earth, says \[the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-Can any hide himself in secret places that I shall not see him? saith the LORD. Do not I fill heaven and earth? saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“Can a man hide in secret places where I cannot see him?” declares the LORD. “Do I not fill the heavens and the earth?” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.23|<< Jeremiah 23:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.25|Jeremiah 23:25 >>]]</td></tr></table>
 
 | Translation | Greek |

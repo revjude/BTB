@@ -1,12 +1,12 @@
-**Acts 16:37
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:37**<big><big>[[Acts.16.35 An Official Apology|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Paul said unto them, They have beaten us openly uncondemned, being Romans, and have cast [us] into prison; and now do they thrust us out privily? nay verily; but let them come themselves and fetch us out.
 <small><sub>**BSB:**</sub></small>
 But Paul said to the officers, “They beat us publicly without a trial and threw us into prison, even though we are Roman citizens. And now do they want to send us away secretly? Absolutely not! Let them come themselves and escort us out!”
 <small><sub>**Literal:**</sub></small>
 <the> But Paul was saying to them; Having beaten us publicly uncondemned men Romans being, they cast [us] into prison, and now secretly us do they throw out? No indeed! Instead having come themselves us they should bring out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.36|<< Acts 16:36]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.38|Acts 16:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 30:2** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>  God of Israel, saying, Write all the words which I executed to you upon a scroll! 
-<small><sub>**KJV:**</sub></small>
-Thus speaketh the LORD God of Israel, saying, Write thee all the words that I have spoken unto thee in a book.
-<small><sub>**BSB:**</sub></small>
-“This is what the LORD, the God of Israel, says: ‘Write in a book all the words that I have spoken to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.30.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.30.1|<< Jeremiah 30:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.30.3|Jeremiah 30:3 >>]]</td></tr></table>
 
 | Translation | Greek |

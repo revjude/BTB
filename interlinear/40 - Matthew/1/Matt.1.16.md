@@ -1,12 +1,12 @@
-**Matthew 1:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:16**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.
 <small><sub>**BSB:**</sub></small>
 and Jacob the father of Joseph, the husband of Mary, of whom was born Jesus, who is called Christ.
 <small><sub>**Literal:**</sub></small>
 Jacob then begat <the> Joseph the husband of Mary out of whom was born Jesus who is being named Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.15|<< Matthew 1:15]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.17|Matthew 1:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Jacob |**<big>[[G2384G\|Ἰακὼβ]]</big>**  |Iakōb <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 13:7** 
 <small><sub>**LXX:**</sub></small>
 For there was not left behind  to Jehoahaz a people, but only fifty horsemen, and ten chariots, and ten thousand footmen, for \[the\] king of Syria destroyed them, and he appointed them as dust for trampling. 
-<small><sub>**KJV:**</sub></small>
-Neither did he leave of the people to Jehoahaz but fifty horsemen, and ten chariots, and ten thousand footmen; for the king of Syria had destroyed them, and had made them like the dust by threshing.
-<small><sub>**BSB:**</sub></small>
-Jehoahaz had no army left, except fifty horsemen, ten chariots, and ten thousand foot soldiers, because the king of Aram had destroyed them and made them like the dust at threshing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.13.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.13.6|<< 2 Kings 13:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.13.8|2 Kings 13:8 >>]]</td></tr></table>
 
 | Translation | Greek |

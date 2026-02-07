@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And after the ceasing of the speech of Elihu, the <span class="smallcaps">lord</span> said  to Job through a tempest and cloud, \[saying\], 
-<small><sub>**KJV:**</sub></small>
-Then the LORD answered Job out of the whirlwind, and said,
-<small><sub>**BSB:**</sub></small>
-Then the LORD answered Job out of the whirlwind and said:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.24|<< Job 37:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.2|Job 38:2 >>]]</td></tr></table>
 
 | Translation | Greek |

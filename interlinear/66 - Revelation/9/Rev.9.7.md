@@ -1,5 +1,5 @@
-**Revelation 9:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:7**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the shapes of the locusts [were] like unto horses prepared unto battle; and on their heads [were] as it were crowns like gold, and their faces [were] as the faces of men.
 <small><sub>**BSB:**</sub></small>
 And the locusts looked like horses prepared for battle, with something like crowns of gold on their heads; and their faces were like the faces of men.
@@ -10,7 +10,7 @@ And the appearance of the locusts [was] like as horses prepared for battle, and 
 > $\quad$ alluding to: [[LXX.Joel.1.6|Joel 1:6]] ☩ [[LXX.Joel.2.4|Joel 2:4]] ☩ [[LXX.Joel.2.5|Joel 2:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

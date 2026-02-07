@@ -1,4 +1,4 @@
-**Genesis 4:23** 
+**Genesis 4:23**<big><big>[[Gen.4.17 The Descendants of Cain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Lamech said to his wives: “Adah and Zillah, hear my voice; wives of Lamec
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.22|<< Genesis 4:22]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.24|Genesis 4:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Lamech  |**<big>&#8207;[[H3929G\|לֶ֜מֶךְ]]&#8207; </big>**| Le.mekh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 20:13** 
 <small><sub>**LXX:**</sub></small>
 And it happened when God led me from the house  of my father, and I said to her, This  righteousness you will do for me in every place of which ever I enter; there you say of me that, He is my brother! 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when God caused me to wander from my father’s house, that I said unto her, This [is] thy kindness which thou shalt shew unto me; at every place whither we shall come, say of me, He [is] my brother.
-<small><sub>**BSB:**</sub></small>
-So when God had me journey from my father’s house, I said to Sarah, ‘This is how you can show your loyalty to me: Wherever we go, say of me, “He is my brother.”’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.20.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.20.12|<< Genesis 20:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.20.14|Genesis 20:14 >>]]</td></tr></table>
 
 | Translation | Greek |

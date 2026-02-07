@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:9** 
 <small><sub>**LXX:**</sub></small>
 In the prophets my heart was broken; in me all my bones were shaken; I became as a man being broken, and as a man constrained by wine, from \[the\] countenance of \[the\] <span class="smallcaps">lord</span>, and from \[the\] countenance of \[the\] beauty of his glory. 
-<small><sub>**KJV:**</sub></small>
-Mine heart within me is broken because of the prophets; all my bones shake; I am like a drunken man, and like a man whom wine hath overcome, because of the LORD, and because of the words of his holiness.
-<small><sub>**BSB:**</sub></small>
-As for the prophets: My heart is broken within me, and all my bones tremble. I have become like a drunkard, like a man overcome by wine, because of the LORD, because of His holy words.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.8|<< Jeremiah 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.10|Jeremiah 23:10 >>]]</td></tr></table>
 
 | Translation | Greek |

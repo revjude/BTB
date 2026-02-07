@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Alas, for I became as one gathering stubble in a harvest, and as one gathering grape gleanings where there does not exist first-ripe grapes to eat, which my soul longs after. Woe O soul. 
-<small><sub>**KJV:**</sub></small>
-Woe is me! for I am as when they have gathered the summer fruits, as the grapegleanings of the vintage: [there is] no cluster to eat: my soul desired the firstripe fruit.
-<small><sub>**BSB:**</sub></small>
-Woe is me! For I am like one gathering summer fruit at the gleaning of the vineyard; there is no cluster to eat, no early fig that I crave.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.16|<< Micah 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.2|Micah 7:2 >>]]</td></tr></table>
 
 | Translation | Greek |

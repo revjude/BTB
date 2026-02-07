@@ -1,12 +1,12 @@
-**Hebrews 9:23
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 9:23**<big><big>[[Heb.9.11 Redemption through His Blood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [It was] therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these.
 <small><sub>**BSB:**</sub></small>
 So it was necessary for the copies of the heavenly things to be purified with these sacrifices, but the heavenly things themselves with better sacrifices than these.
 <small><sub>**Literal:**</sub></small>
 [It was] necessary then [for] the indeed representations of the [things] in the heavens with these to be purified themselves however the heavenly things with better sacrifices than these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.22|<< Hebrews 9:22]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.24|Hebrews 9:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [It was] necessary |**<big>[[G0318\|Ἀνάγκη]]</big>**  |Anagkē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [for] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

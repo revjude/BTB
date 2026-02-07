@@ -1,10 +1,7 @@
 **LXX Deuteronomy 29:12** 
 <small><sub>**LXX:**</sub></small>
 to go in the covenant of \[the\] <span class="smallcaps">lord</span>  your God, and in  his oaths, as many as \[the\] <span class="smallcaps">lord</span>  your God ordains for you today. 
-<small><sub>**KJV:**</sub></small>
-That thou shouldest enter into covenant with the LORD thy God, and into his oath, which the LORD thy God maketh with thee this day:
-<small><sub>**BSB:**</sub></small>
-so that you may enter into the covenant of the LORD your God, which He is making with you today, and into His oath,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.11|<< Deuteronomy 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.29.13|Deuteronomy 29:13 >>]]</td></tr></table>
 
 | Translation | Greek |

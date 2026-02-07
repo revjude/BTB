@@ -1,4 +1,4 @@
-**Exodus 29:28** 
+**Exodus 29:28**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be Aaron’s and his sons’ by a statute for ever from the children of Israel: for it [is] an heave offering: and it shall be an heave offering from the children of Israel of the sacrifice of their peace offerings, [even] their heave offering unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This will belong to Aaron and his sons as a regular portion from the Israelites,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.27|<< Exodus 29:27]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.29|Exodus 29:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will belong  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָה֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Aaron  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0175\|אַהֲרֹ֨ן]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

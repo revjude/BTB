@@ -1,10 +1,7 @@
 **LXX Numbers 22:35** 
 <small><sub>**LXX:**</sub></small>
 And the angel of God said to Balaam, You go with the men! Except the word which ever I should say to you, this you shall guard to speak. And Balaam went with the rulers of Balak. 
-<small><sub>**KJV:**</sub></small>
-And the angel of the LORD said unto Balaam, Go with the men: but only the word that I shall speak unto thee, that thou shalt speak. So Balaam went with the princes of Balak.
-<small><sub>**BSB:**</sub></small>
-But the angel of the LORD said to Balaam, “Go with the men, but you are to speak only what I tell you.” So Balaam went with the princes of Balak.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.34|<< Numbers 22:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.36|Numbers 22:36 >>]]</td></tr></table>
 
 | Translation | Greek |

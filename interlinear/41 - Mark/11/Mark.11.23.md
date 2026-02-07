@@ -1,12 +1,12 @@
-**Mark 11:23
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:23**<big><big>[[Mark.11.20 The Withered Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith.
 <small><sub>**BSB:**</sub></small>
 “Truly I tell you that if anyone says to this mountain, ‘Be lifted up and thrown into the sea,’ and has no doubt in his heart but believes that it will happen, it will be done for him.
 <small><sub>**Literal:**</sub></small>
 Amen for I say to you that who[ever] maybe may say to the mountain this; do be taken away and do be cast into the sea,’ and not may doubt in the heart of him but may believe that what he says takes place, it will be done for him what maybe he shall say.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.22|<< Mark 11:22]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.24|Mark 11:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|ἀμὴν]]</big>**  |amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+Treg+TR+Byz">ko</abbr> | |

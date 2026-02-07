@@ -1,10 +1,7 @@
 **LXX Exodus 15:13** 
 <small><sub>**LXX:**</sub></small>
 You guided \[by\] your righteousness --  this your people whom you ransomed. You aided in your strength in your holy lodging. 
-<small><sub>**KJV:**</sub></small>
-Thou in thy mercy hast led forth the people [which] thou hast redeemed: thou hast guided [them] in thy strength unto thy holy habitation.
-<small><sub>**BSB:**</sub></small>
-With loving devotion You will lead the people You have redeemed; with Your strength You will guide them to Your holy dwelling.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.12|<< Exodus 15:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.14|Exodus 15:14 >>]]</td></tr></table>
 
 | Translation | Greek |

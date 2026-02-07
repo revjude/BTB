@@ -1,4 +1,4 @@
-**Proverbs 25:23** 
+**Proverbs 25:23**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The north wind driveth away rain: so [doth] an angry countenance a backbiting tongue.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As the north wind brings forth rain, so a backbiting tongue brings angry looks.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.22|<< Proverbs 25:22]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.24|Proverbs 25:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a wind of  |**<big>&#8207;[[H7307H\|ר֣וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] north  |**<big>&#8207;[[H6828G\|צָ֭פוֹן]]&#8207; </big>**| Tza.fon<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Luke 10:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:4**<big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Carry neither purse, nor scrip, nor shoes: and salute no man by the way.
 <small><sub>**BSB:**</sub></small>
 Carry no purse or bag or sandals. Do not greet anyone along the road.
@@ -10,7 +10,7 @@ Neither do carry purse nor bag nor sandals, and no one on the road may greet.<br
 > $\quad$ alluding to: [[LXX.2Kgs.4.29|2Kgs 4:29]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Neither |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do carry |**<big>[[G0941\|βαστάζετε]]</big>**  |bastazete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

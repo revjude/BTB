@@ -1,4 +1,4 @@
-**Daniel 7:15** 
+**Daniel 7:15**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I Daniel was grieved in my spirit in the midst of [my] body, and the visions of my head troubled me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I, Daniel, was grieved in my spirit, and the visions in my mind alarmed me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.14|<< Daniel 7:14]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.16|Daniel 7:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it was distressed  |**<big>&#8207;[[H3735\|אֶתְכְּרִיַּ֥ת]]&#8207; </big>**| 'et.ke.ri.Yat<small><sup>[[AVip3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | spirit my  |**<big>&#8207;[[H7308\|רוּחִ֛]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ru.Ch<small><sup>[[ANcbsc]]</sup></small> i<small><sup>[[ASp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

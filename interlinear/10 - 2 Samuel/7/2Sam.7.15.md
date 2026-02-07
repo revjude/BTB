@@ -1,4 +1,4 @@
-**2 Samuel 7:15** 
+**2 Samuel 7:15**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But my mercy shall not depart away from him, as I took [it] from Saul, whom I put away before thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But My loving devotion will never be removed from him as I removed it from Saul,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.14|<< 2 Samuel 7:14]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.16|2 Samuel 7:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and covenant loyalty my  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2617A\|חַסְדִּ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chas.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

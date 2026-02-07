@@ -1,4 +1,4 @@
-**Deuteronomy 1:44** 
+**Deuteronomy 1:44**<big><big>[[Deut.1.41 The Defeat at Hormah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Amorites, which dwelt in that mountain, came out against you, and chased you, as bees do, and destroyed you in Seir, [even] unto Hormah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Amorites who lived in the hills came out against you and chased you lik
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.43|<< Deuteronomy 1:43]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.45|Deuteronomy 1:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֨א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Amorite[s]  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0567\|אֱמֹרִ֜י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.mo.Ri<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

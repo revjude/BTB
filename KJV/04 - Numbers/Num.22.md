@@ -1,6 +1,6 @@
 (KJV) **Numbers 22**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21|<< Numbers 21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23|Numbers 23 >>]]</td></tr></table>
 
-***Balak Summons Balaam*** ^bsb406
+<big><big>[[Num.22.1 Balak Summons Balaam|⥃]]</big></big>***Balak Summons Balaam***
 
  $\quad$ <span class="startversemarker">[</span>**[[Num.22.1|1]]**<span class="endversemarker">]</span> And the children<small><small>[^2]</small></small> of Israel set forward, and pitched in the plains of Moab on this side<small><small>[^3]</small></small> Jordan \[by\] Jericho. 
 
@@ -8,7 +8,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Num.22.2|2]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[Num.22.15|15]]**<span class="endversemarker">]</span> And Balak sent yet again princes<small><small>[^26]</small></small>, more, and more honourable than they. <span class="startversemarker">[</span>**[[Num.22.16|16]]**<span class="endversemarker">]</span> And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing<small><small>[^27]</small></small>, I pray thee, hinder thee from coming unto me: <span class="startversemarker">[</span>**[[Num.22.17|17]]**<span class="endversemarker">]</span> For I will promote<small><small>[^28]</small></small> thee unto very great honour, and I will do<small><small>[^29]</small></small> whatsoever thou sayest unto me: come<small><small>[^30]</small></small> therefore, I pray thee, curse me<small><small>[^31]</small></small> this people. <span class="startversemarker">[</span>**[[Num.22.18|18]]**<span class="endversemarker">]</span> And Balaam answered and said unto the servants of Balak, If Balak<small><small>[^32]</small></small> would give me his house full of silver and gold, I cannot<small><small>[^33]</small></small> go beyond the word of the <span class="smallcaps">Lord</span> my God, to do less or more. <span class="startversemarker">[</span>**[[Num.22.19|19]]**<span class="endversemarker">]</span> Now therefore, I pray you, tarry ye also here this night, that I may know what the <span class="smallcaps">Lord</span> will say unto me more.<small><small>[^34]</small></small> <span class="startversemarker">[</span>**[[Num.22.20|20]]**<span class="endversemarker">]</span> And God<small><small>[^35]</small></small> came unto Balaam at night, and said unto him, If the men<small><small>[^36]</small></small> come to call thee, rise up, \[and\] go with them; but yet<small><small>[^37]</small></small> the word which I shall say unto thee, that shalt thou do. <span class="startversemarker">[</span>**[[Num.22.21|21]]**<span class="endversemarker">]</span> And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab.<small><small>[^38]</small></small>
 
-***The Angel and Balaam’s Donkey*** ^bsb407
+<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥃]]</big></big>***The Angel and Balaam’s Donkey***
 
  
 

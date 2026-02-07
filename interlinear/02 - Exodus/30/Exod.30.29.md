@@ -1,4 +1,4 @@
-**Exodus 30:29** 
+**Exodus 30:29**<big><big>[[Exod.30.22 The Anointing Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt sanctify them, that they may be most holy: whatsoever toucheth them shall be holy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to consecrate them so that they will be most holy. Whatever touches them
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.28|<< Exodus 30:28]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.30|Exodus 30:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will consecrate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6942G\|קִדַּשְׁתָּ֣]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ki.dash.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ֔]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 6:18** 
 <small><sub>**LXX:**</sub></small>
 And you shall do the pleasing and the good before \[the\] <span class="smallcaps">lord</span>  your God, that it should be good to you, and you should enter, and should inherit the good land which \[the\] <span class="smallcaps">lord</span> swore by an oath \[to\] your fathers, 
-<small><sub>**KJV:**</sub></small>
-And thou shalt do [that which is] right and good in the sight of the LORD: that it may be well with thee, and that thou mayest go in and possess the good land which the LORD sware unto thy fathers,
-<small><sub>**BSB:**</sub></small>
-Do what is right and good in the sight of the LORD, so that it may be well with you and that you may enter and possess the good land that the LORD your God swore to give your fathers,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.17|<< Deuteronomy 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.19|Deuteronomy 6:19 >>]]</td></tr></table>
 
 | Translation | Greek |

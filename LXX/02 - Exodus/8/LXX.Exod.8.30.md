@@ -1,10 +1,7 @@
 **LXX Exodus 8:30** 
 <small><sub>**LXX:**</sub></small>
 And Moses went forth from Pharaoh, and made a vow to  God. 
-<small><sub>**KJV:**</sub></small>
-And Moses went out from Pharaoh, and intreated the LORD.
-<small><sub>**BSB:**</sub></small>
-Then Moses left Pharaoh and prayed to the LORD,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.29|<< Exodus 8:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.31|Exodus 8:31 >>]]</td></tr></table>
 
 | Translation | Greek |

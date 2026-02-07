@@ -1,12 +1,12 @@
-**1 Corinthians 11:14
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:14**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?
 <small><sub>**BSB:**</sub></small>
 Doesn’t nature itself teach you that if a man has long hair, it is a disgrace to him,
 <small><sub>**Literal:**</sub></small>
 or Not even <the> nature itself does teach you that a man indeed if he shall have long hair, a dishonor to him it is,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.13|<< 1 Corinthians 11:13]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.15|1 Corinthians 11:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or [^1] |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 | Not even |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

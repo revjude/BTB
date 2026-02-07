@@ -1,12 +1,12 @@
-**Acts 3:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 3:10**<big><big>[[Acts.3.1 A Lame Man Walks|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they knew that it was he which sat for alms at the Beautiful gate of the temple: and they were filled with wonder and amazement at that which had happened unto him.
 <small><sub>**BSB:**</sub></small>
 they recognized him as the man who used to sit begging at the Beautiful Gate of the temple, and they were filled with wonder and amazement at what had happened to him.
 <small><sub>**Literal:**</sub></small>
 They were recognizing then him that he himself was the [one] for the alms sitting at the Beautiful Gate of the temple, and they were filled with wonder and amazement at that having happened to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.9|<< Acts 3:9]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.11|Acts 3:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were recognizing |**<big>[[G1921\|ἐπεγίνωσκον]]</big>**  |epeginōskon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

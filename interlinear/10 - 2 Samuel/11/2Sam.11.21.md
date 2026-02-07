@@ -1,4 +1,4 @@
-**2 Samuel 11:21** 
+**2 Samuel 11:21**<big><big>[[2Sam.11.14 David Arranges Uriah’s Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who smote Abimelech the son of Jerubbesheth? did not a woman cast a piece of a millstone upon him from the wall, that he died in Thebez? why went ye nigh the wall? then say thou, Thy servant Uriah the Hittite is dead also.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who struck Abimelech son of Jerubbesheth? Was it not a woman who dropped an uppe
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.11.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.20|<< 2 Samuel 11:20]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.22|2 Samuel 11:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | did he strike down  |**<big>&#8207;[[H5221\|הִכָּ֞ה]]&#8207; </big>**| hi.Kah<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

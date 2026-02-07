@@ -1,10 +1,7 @@
 **LXX Psalm 148:2** 
 <small><sub>**LXX:**</sub></small>
 Praise him all \[you\] his angels! Praise him all  his forces! 
-<small><sub>**KJV:**</sub></small>
-Praise ye him, all his angels: praise ye him, all his hosts.
-<small><sub>**BSB:**</sub></small>
-Praise Him, all His angels; praise Him, all His heavenly hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.148.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.148.1|<< Psalm 148:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.148.3|Psalm 148:3 >>]]</td></tr></table>
 
 | Translation | Greek |

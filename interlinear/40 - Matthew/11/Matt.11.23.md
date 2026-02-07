@@ -1,5 +1,5 @@
-**Matthew 11:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 11:23**<big><big>[[Matt.11.20 Woe to the Unrepentant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And thou, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in thee, had been done in Sodom, it would have remained until this day.
 <small><sub>**BSB:**</sub></small>
 And you, Capernaum, will you be lifted up to heaven? No, you will be brought down to Hades! For if the miracles that were performed in you had been performed in Sodom, it would have remained to this day.
@@ -10,7 +10,7 @@ And you yourself Capernaum, surely not to <the> heaven will be exalted? to Hades
 > $\quad$ referencing: [[LXX.Isa.14.13|Isa 14:13]][[LXX.Isa.14.15|, 15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you yourself |**<big>[[G4771\|σὺ]]</big>**  |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

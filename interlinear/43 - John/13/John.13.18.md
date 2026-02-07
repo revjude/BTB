@@ -1,5 +1,5 @@
-**John 13:18
-**<small><sub>**KJV:**</sub></small>
+**John 13:18**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.
 <small><sub>**BSB:**</sub></small>
 I am not speaking about all of you; I know whom I have chosen. But this is to fulfill the Scripture: ‘The one who shares My bread has lifted up his heel against Me.’
@@ -10,7 +10,7 @@ Not about all of you I speak; I myself know whom I chose; but that the Scripture
 > $\quad$ referencing: [[LXX.Ps.41.9|Ps 41:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | about |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

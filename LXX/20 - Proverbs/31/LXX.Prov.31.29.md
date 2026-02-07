@@ -1,10 +1,7 @@
 **LXX Proverbs 31:29** 
 <small><sub>**LXX:**</sub></small>
 Many daughters acquired riches; many acted with ability; but you have precedence -- you are elevated above all. 
-<small><sub>**KJV:**</sub></small>
-Many daughters have done virtuously, but thou excellest them all.
-<small><sub>**BSB:**</sub></small>
-“Many daughters have done noble things, but you surpass them all!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.31.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.28|<< Proverbs 31:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.30|Proverbs 31:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 31:17** 
+**Deuteronomy 31:17**<big><big>[[Deut.31.14 God Commissions Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then my anger shall be kindled against them in that day, and I will forsake them, and I will hide my face from them, and they shall be devoured, and many evils and troubles shall befall them; so that they will say in that day, Are not these evils come upon us, because our God [is] not among us?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On that day My anger will burn against them, and I will abandon them and hide My
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.16|<< Deuteronomy 31:16]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.18|Deuteronomy 31:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will burn  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2734\|חָרָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.Rah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anger my  |**<big>&#8207;[[H0639G\|אַפִּ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.P<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

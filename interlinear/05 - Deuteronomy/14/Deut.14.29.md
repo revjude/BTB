@@ -1,4 +1,4 @@
-**Deuteronomy 14:29** 
+**Deuteronomy 14:29**<big><big>[[Deut.14.22 Giving Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which [are] within thy gates, shall come, and shall eat and be satisfied; that the LORD thy God may bless thee in all the work of thine hand which thou doest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Levite (because he has no portion or inheritance among you), the foreig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.28|<< Deuteronomy 14:28]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.1|Deuteronomy 15:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֣א]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Levite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3881\|לֵּוִ֡י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> le.Vi<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Daniel 7:27** 
+**Daniel 7:27**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom [is] an everlasting kingdom, and all dominions shall serve and obey him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the sovereignty, dominion, and greatness of the kingdoms under all of heave
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.26|<< Daniel 7:26]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.28|Daniel 7:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and kingdom the  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4437\|מַלְכוּתָ֨]]&#8207;&#8207;[[H9010\|ה]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> mal.khu.Tah<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and dominion the  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7985\|שָׁלְטָנָ֜]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> shal.ta.Na<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

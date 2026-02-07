@@ -1,10 +1,7 @@
 **LXX Leviticus 18:26** 
 <small><sub>**LXX:**</sub></small>
 And you shall guard all  my laws, and  my orders, and the do any of these abominations native inhabitant and the foreigner uniting with you shall not. 
-<small><sub>**KJV:**</sub></small>
-Ye shall therefore keep my statutes and my judgments, and shall not commit [any] of these abominations; [neither] any of your own nation, nor any stranger that sojourneth among you:
-<small><sub>**BSB:**</sub></small>
-But you are to keep My statutes and ordinances, and you must not commit any of these abominations—neither your native-born nor the foreigner who lives among you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.18.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.25|<< Leviticus 18:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.27|Leviticus 18:27 >>]]</td></tr></table>
 
 | Translation | Greek |

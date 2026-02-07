@@ -1,4 +1,4 @@
-**Genesis 11:14** 
+**Genesis 11:14**<big><big>[[Gen.11.10 Genealogy from Shem to Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Salah lived thirty years, and begat Eber:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Shelah was 30 years old, he became the father of Eber.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.13|<< Genesis 11:13]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.15|Genesis 11:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Shelah  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7974\|שֶׁ֥לַח]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> She.lach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he lived  |**<big>&#8207;[[H2421\|חַ֖י]]&#8207; </big>**| chai<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

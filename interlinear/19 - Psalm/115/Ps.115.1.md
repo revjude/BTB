@@ -1,4 +1,4 @@
-**Psalms 115:1** 
+**Psalms 115:1**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, [and] for thy truth’s sake.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Not to us, O LORD, not to us, but to Your name be the glory, because of Your lov
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.114.8|<< Psalms 114:8]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.2|Psalms 115:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to us  |**<big>&#8207;[[H9005\|לָ֥]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

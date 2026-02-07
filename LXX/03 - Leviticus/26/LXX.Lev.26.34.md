@@ -1,10 +1,7 @@
 **LXX Leviticus 26:34** 
 <small><sub>**LXX:**</sub></small>
 Then the land will favor  its Sabbaths all the days  of its desolation, and you will be in the land  of your enemies. Then the land shall observe the Sabbath, and will favor  its Sabbaths. 
-<small><sub>**KJV:**</sub></small>
-Then shall the land enjoy her sabbaths, as long as it lieth desolate, and ye [be] in your enemies’ land; [even] then shall the land rest, and enjoy her sabbaths.
-<small><sub>**BSB:**</sub></small>
-Then the land shall enjoy its Sabbaths all the days it lies desolate, while you are in the land of your enemies. At that time the land will rest and enjoy its Sabbaths.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.33|<< Leviticus 26:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.35|Leviticus 26:35 >>]]</td></tr></table>
 
 | Translation | Greek |

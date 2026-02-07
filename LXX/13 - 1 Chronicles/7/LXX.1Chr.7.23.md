@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:23** 
 <small><sub>**LXX:**</sub></small>
 And he entered unto  his wife, and she conceived and bore a son, and called  his name Beriah, for  bad \[things\] happened in  his house, 
-<small><sub>**KJV:**</sub></small>
-And when he went in to his wife, she conceived, and bare a son, and he called his name Beriah, because it went evil with his house.
-<small><sub>**BSB:**</sub></small>
-And again he slept with his wife, and she conceived and gave birth to a son. So he named him Beriah, because tragedy had come upon his house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.22|<< 1 Chronicles 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.24|1 Chronicles 7:24 >>]]</td></tr></table>
 
 | Translation | Greek |

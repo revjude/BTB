@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:34** 
 <small><sub>**LXX:**</sub></small>
 And Barzillai said to the king, How \[many\] \[are\] the days of years of my life that I should ascend with the king unto Jerusalem? 
-<small><sub>**KJV:**</sub></small>
-And Barzillai said unto the king, How long have I to live, that I should go up with the king unto Jerusalem?
-<small><sub>**BSB:**</sub></small>
-But Barzillai replied, “How many years of my life remain, that I should go up to Jerusalem with the king?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.33|<< 2 Samuel 19:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.35|2 Samuel 19:35 >>]]</td></tr></table>
 
 | Translation | Greek |

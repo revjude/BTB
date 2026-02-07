@@ -1,4 +1,4 @@
-**Numbers 3:50** 
+**Numbers 3:50**<big><big>[[Num.3.40 The Redemption of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five [shekels], after the shekel of the sanctuary:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He collected the money from the firstborn of the Israelites: 1,365 shekels, acco
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.49|<< Numbers 3:49]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.51|Numbers 3:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from with  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אֵ֗ת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] firstborn of  |**<big>&#8207;[[H1060\|בְּכ֛וֹר]]&#8207; </big>**| be.Khor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

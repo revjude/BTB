@@ -1,10 +1,7 @@
 **LXX Joshua 11:15** 
 <small><sub>**LXX:**</sub></small>
 In which manner \[the\] <span class="smallcaps">lord</span> gave orders  to Moses, \[to\] his servant, likewise Moses gave charge  to Joshua, and thus Joshua did; he did not violate anything of all which Moses gave orders to him. 
-<small><sub>**KJV:**</sub></small>
-As the LORD commanded Moses his servant, so did Moses command Joshua, and so did Joshua; he left nothing undone of all that the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-As the LORD had commanded His servant Moses, so Moses commanded Joshua. That is what Joshua did, leaving nothing undone of all that the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.14|<< Joshua 11:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.16|Joshua 11:16 >>]]</td></tr></table>
 
 | Translation | Greek |

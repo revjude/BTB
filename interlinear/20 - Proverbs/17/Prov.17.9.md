@@ -1,4 +1,4 @@
-**Proverbs 17:9** 
+**Proverbs 17:9**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that covereth a transgression seeketh love; but he that repeateth a matter separateth [very] friends.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whoever conceals an offense promotes love, but he who brings it up separates fri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.8|<< Proverbs 17:8]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.10|Proverbs 17:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] conceals  |**<big>&#8207;[[H3680\|מְֽכַסֶּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| me.kha.seh-<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a transgression  |**<big>&#8207;[[H6588\|פֶּ֭שַׁע]]&#8207; </big>**| Pe.sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Leviticus 11:38** 
+**Leviticus 11:38**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if [any] water be put upon the seed, and [any part] of their carcase fall thereon, it [shall be] unclean unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but if water has been put on the seed and a carcass falls on it, it is unclean f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.37|<< Leviticus 11:37]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.39|Leviticus 11:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִ֤י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khi<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be put  |**<big>&#8207;[[H5414H\|יֻתַּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yu.tan-<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

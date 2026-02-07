@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And  that land we inherited in  that time from Aroer, which is by the bank of \[the\] stream Arnon, and the half of the mountain of Gilead. And  his cities I gave  to Reuben and  Gad. 
-<small><sub>**KJV:**</sub></small>
-And this land, [which] we possessed at that time, from Aroer, which [is] by the river Arnon, and half mount Gilead, and the cities thereof, gave I unto the Reubenites and to the Gadites.
-<small><sub>**BSB:**</sub></small>
-So at that time we took possession of this land. To the Reubenites and Gadites I gave the land beyond Aroer along the Arnon Valley, and half the hill country of Gilead, along with its cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.11|<< Deuteronomy 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.13|Deuteronomy 3:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:19** 
 <small><sub>**LXX:**</sub></small>
 Dan and Javan and Moozel \[were\] for  your market; iron for working \[implements\] and wheels are among your consolidation. 
-<small><sub>**KJV:**</sub></small>
-Dan also and Javan going to and fro occupied in thy fairs: bright iron, cassia, and calamus, were in thy market.
-<small><sub>**BSB:**</sub></small>
-and casks of wine from Izal for your wares. Wrought iron, cassia, and sweet cane were exchanged for your merchandise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.18|<< Ezekiel 27:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.20|Ezekiel 27:20 >>]]</td></tr></table>
 
 | Translation | Greek |

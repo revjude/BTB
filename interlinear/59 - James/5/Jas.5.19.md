@@ -1,12 +1,12 @@
-**James 5:19
-**<small><sub>**KJV:**</sub></small>
+**James 5:19**<big><big>[[Jas.5.19 Restoring a Sinner|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Brethren, if any of you do err from the truth, and one convert him;
 <small><sub>**BSB:**</sub></small>
 My brothers, if one of you should wander from the truth and someone should bring him back,
 <small><sub>**Literal:**</sub></small>
 Brothers of Mine, if anyone among you shall wander from the truth and shall bring back someone him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.18|<< James 5:18]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.20|James 5:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Brothers |**<big>[[G0080\|Ἀδελφοί]]</big>**  |Adelphoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of Mine, [^1] |**<big>[[G3165\|μου,]]</big>**  |mou <small><sup>[[P-1GS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |

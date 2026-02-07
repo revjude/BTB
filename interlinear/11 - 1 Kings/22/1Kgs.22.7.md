@@ -1,4 +1,4 @@
-**1 Kings 22:7** 
+**1 Kings 22:7**<big><big>[[1Kgs.22.1 Ahab and the False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoshaphat said, [Is there] not here a prophet of the LORD besides, that we might inquire of him?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Jehoshaphat asked, “Is there not still a prophet of the LORD here of whom 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.6|<< 1 Kings 22:6]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.8|1 Kings 22:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoshaphat  |**<big>&#8207;[[H3092I\|יְה֣וֹשָׁפָ֔ט]]&#8207; </big>**| ye.Ho.o.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

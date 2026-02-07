@@ -1,12 +1,12 @@
-**Acts 5:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:2**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And kept back [part] of the price, his wife also being privy [to it], and brought a certain part, and laid [it] at the apostles’ feet.
 <small><sub>**BSB:**</sub></small>
 With his wife’s full knowledge, he kept back some of the proceeds for himself, but brought a portion and laid it at the apostles’ feet.
 <small><sub>**Literal:**</sub></small>
 and he kept back from the proceeds, already being aware also the wife of him, and having brought a portion certain at the feet of the apostles he laid [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.1|<< Acts 5:1]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.3|Acts 5:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he kept back |**<big>[[G3557\|ἐνοσφίσατο]]</big>**  |enosphisato <small><sup>[[V-AMI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

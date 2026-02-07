@@ -1,10 +1,7 @@
 **LXX Ezekiel 1:23** 
 <small><sub>**LXX:**</sub></small>
 And under the firmament  their wings \[were\] stretching out flapping, \[the\] other to the other; to each two covering  their bodies. 
-<small><sub>**KJV:**</sub></small>
-And under the firmament [were] their wings straight, the one toward the other: every one had two, which covered on this side, and every one had two, which covered on that side, their bodies.
-<small><sub>**BSB:**</sub></small>
-And under the expanse, their wings stretched out toward one another. Each one also had two wings covering its body.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.1.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.22|<< Ezekiel 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.24|Ezekiel 1:24 >>]]</td></tr></table>
 
 | Translation | Greek |

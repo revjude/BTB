@@ -1,10 +1,7 @@
 **LXX 1 Samuel 6:17** 
 <small><sub>**LXX:**</sub></small>
 And these are the gold buttocks which the Philistines gave back for the torment to the <span class="smallcaps">lord</span> --  for Ashdod one,  Gaza one,  Ashkelon one,  Gath one,  Ekron one. 
-<small><sub>**KJV:**</sub></small>
-And these [are] the golden emerods which the Philistines returned [for] a trespass offering unto the LORD; for Ashdod one, for Gaza one, for Askelon one, for Gath one, for Ekron one;
-<small><sub>**BSB:**</sub></small>
-As a guilt offering to the LORD, the Philistines had sent back one gold tumor for each city: Ashdod, Gaza, Ashkelon, Gath, and Ekron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.16|<< 1 Samuel 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.18|1 Samuel 6:18 >>]]</td></tr></table>
 
 | Translation | Greek |

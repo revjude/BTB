@@ -1,10 +1,7 @@
 **LXX Zechariah 4:10** 
 <small><sub>**LXX:**</sub></small>
 For who treated with contempt small days? And they shall rejoice, and shall see the tin stone \[plummet\] in \[the\] hand of Zerubbabel; these seven eyes of \[the\] <span class="smallcaps">lord</span> are the ones looking upon all the earth. 
-<small><sub>**KJV:**</sub></small>
-For who hath despised the day of small things? for they shall rejoice, and shall see the plummet in the hand of Zerubbabel [with] those seven; they [are] the eyes of the LORD, which run to and fro through the whole earth.
-<small><sub>**BSB:**</sub></small>
-For who has despised the day of small things? But these seven eyes of the LORD, which scan the whole earth, will rejoice when they see the plumb line in the hand of Zerubbabel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.4.9|<< Zechariah 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.4.11|Zechariah 4:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zechariah 4:10** is...

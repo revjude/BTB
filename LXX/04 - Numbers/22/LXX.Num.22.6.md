@@ -1,10 +1,7 @@
 **LXX Numbers 22:6** 
 <small><sub>**LXX:**</sub></small>
 And now come, curse for me  this people! for \[it\] is stronger than me. If we should be able to strike at them, then I will cast them from out of the land. For I know that whom ever you should bless, they are blessed; and whom ever you should curse, they are cursed. 
-<small><sub>**KJV:**</sub></small>
-Come now therefore, I pray thee, curse me this people; for they [are] too mighty for me: peradventure I shall prevail, [that] we may smite them, and [that] I may drive them out of the land: for I wot that he whom thou blessest [is] blessed, and he whom thou cursest is cursed.
-<small><sub>**BSB:**</sub></small>
-So please come now and put a curse on this people, because they are too mighty for me. Perhaps I may be able to defeat them and drive them out of the land; for I know that those you bless are blessed, and those you curse are cursed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.5|<< Numbers 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.7|Numbers 22:7 >>]]</td></tr></table>
 
 | Translation | Greek |

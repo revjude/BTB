@@ -1,12 +1,12 @@
-**John 4:32
-**<small><sub>**KJV:**</sub></small>
+**John 4:32**<big><big>[[John.4.27 The Disciples Return and Marvel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he said unto them, I have meat to eat that ye know not of.
 <small><sub>**BSB:**</sub></small>
 But He told them, “I have food to eat that you know nothing about.”
 <small><sub>**Literal:**</sub></small>
 <the> But He said to them; I myself food have to eat that you yourselves not know.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.31|<< John 4:31]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.33|John 4:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 16:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:22**<big><big>[[Acts.16.16 Paul and Silas Imprisoned|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the multitude rose up together against them: and the magistrates rent off their clothes, and commanded to beat [them].
 <small><sub>**BSB:**</sub></small>
 The crowd joined in the attack against Paul and Silas, and the magistrates ordered that they be stripped and beaten with rods.
 <small><sub>**Literal:**</sub></small>
 And rose up together the crowd against them, and the magistrates having torn off of them the garments were commanding to beat with rods;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.21|<< Acts 16:21]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.23|Acts 16:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | rose up together |**<big>[[G4911\|συνεπέστη]]</big>**  |sunepestē <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

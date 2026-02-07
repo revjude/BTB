@@ -1,4 +1,4 @@
-**Jeremiah 31:17** 
+**Jeremiah 31:17**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there is hope in thine end, saith the LORD, that thy children shall come again to their own border.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So there is hope for your future, declares the LORD, and your children will retu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.16|<< Jeremiah 31:16]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.18|Jeremiah 31:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3426\|יֵשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yesh-<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] hope  |**<big>&#8207;[[H8615B\|תִּקְוָ֥ה]]&#8207; </big>**| tik.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

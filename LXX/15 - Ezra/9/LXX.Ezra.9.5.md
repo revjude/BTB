@@ -1,10 +1,7 @@
 **LXX Ezra 9:5** 
 <small><sub>**LXX:**</sub></small>
 And during the evening sacrifice I rose up from  my humiliation, and in  my tearing  my garments, and  my undergarment, and I leaned upon  my knees, and I spread forth  my hands to \[the\] <span class="smallcaps">lord</span>  my God. 
-<small><sub>**KJV:**</sub></small>
-And at the evening sacrifice I arose up from my heaviness; and having rent my garment and my mantle, I fell upon my knees, and spread out my hands unto the LORD my God,
-<small><sub>**BSB:**</sub></small>
-At the evening offering, I got up from my humiliation with my tunic and cloak torn, and I fell on my knees, spread out my hands to the LORD my God,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.4|<< Ezra 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.6|Ezra 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

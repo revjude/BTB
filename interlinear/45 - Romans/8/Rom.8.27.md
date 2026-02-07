@@ -1,12 +1,12 @@
-**Romans 8:27
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:27**<big><big>[[Rom.8.18 Future Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he that searcheth the hearts knoweth what [is] the mind of the Spirit, because he maketh intercession for the saints according to [the will of] God.
 <small><sub>**BSB:**</sub></small>
 And He who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God.
 <small><sub>**Literal:**</sub></small>
 The [One] now searching <the> hearts knows what [is] the mindset of the Spirit, because according to God He intercedes for [the] saints.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.26|<< Romans 8:26]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.28|Romans 8:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [One] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

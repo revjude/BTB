@@ -1,4 +1,4 @@
-**Isaiah 50:3** 
+**Isaiah 50:3**<big><big>[[Isa.50.1 Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I clothe the heavens with blackness, and I make sackcloth their covering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I clothe the heavens in black and make sackcloth their covering.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.50.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50.2|<< Isaiah 50:2]]</td><td align="center" style="border:none;">[[Isa.50|Isaiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.50.4|Isaiah 50:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I clothe  |**<big>&#8207;[[H3847\|אַלְבִּ֥ישׁ]]&#8207; </big>**| 'al.Bish<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heavens  |**<big>&#8207;[[H8064\|שָׁמַ֖יִם]]&#8207; </big>**| sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

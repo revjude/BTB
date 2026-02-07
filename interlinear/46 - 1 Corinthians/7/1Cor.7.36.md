@@ -1,12 +1,12 @@
-**1 Corinthians 7:36
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:36**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if any man think that he behaveth himself uncomely toward his virgin, if she pass the flower of [her] age, and need so require, let him do what he will, he sinneth not: let them marry.
 <small><sub>**BSB:**</sub></small>
 However, if someone thinks he is acting inappropriately toward his betrothed, and if she is beyond her youth and they ought to marry, let him do as he wishes; he is not sinning; they should get married.
 <small><sub>**Literal:**</sub></small>
 If however anyone to be behaving improperly to the virgin of him supposes, if she shall be beyond youth, and so it ought to be, what he wills he should do; not he does sin, they should marry.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.35|<< 1 Corinthians 7:35]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.37|1 Corinthians 7:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 39:13** 
 <small><sub>**LXX:**</sub></small>
 And Nabuzar-adan the chief guard sent, and Nabushasban and Rab-sares and Nergel and Sharezer and Rab-mag and all the governers of \[the\] king of Babylon. 
-<small><sub>**KJV:**</sub></small>
-So Nebuzaradan the captain of the guard sent, and Nebushasban, Rabsaris, and Nergalsharezer, Rabmag, and all the king of Babylon’s princes;
-<small><sub>**BSB:**</sub></small>
-So Nebuzaradan captain of the guard, Nebushazban the Rabsaris, Nergal-sharezer the Rabmag, and all the captains of the king of Babylon<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.39.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.12|<< Jeremiah 39:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.14|Jeremiah 39:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Judges 3:4** 
+**Judges 3:4**<big><big>[[Judg.3.1 Nations Left to Test Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they were to prove Israel by them, to know whether they would hearken unto the commandments of the LORD, which he commanded their fathers by the hand of Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These nations were left to test the Israelites, to find out whether they would k
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.3|<< Judges 3:3]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.5|Judges 3:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יִּהְי֕וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to put to [the] test  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5254G\|נַסּ֥וֹת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> na.Sot<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

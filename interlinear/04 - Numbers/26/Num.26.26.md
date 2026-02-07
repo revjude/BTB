@@ -1,4 +1,4 @@
-**Numbers 26:26** 
+**Numbers 26:26**<big><big>[[Num.26.26 The Tribe of Zebulun|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Of] the sons of Zebulun after their families: of Sered, the family of the Sardites: of Elon, the family of the Elonites: of Jahleel, the family of the Jahleelites.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the descendants of Zebulun by their clans: The Seredite clan from Ser
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.25|<< Numbers 26:25]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.27|Numbers 26:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zebulun  |**<big>&#8207;[[H2074\|זְבוּלֻן֮]]&#8207; </big>**| ze.vu.Lun<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

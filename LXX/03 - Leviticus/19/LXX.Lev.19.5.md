@@ -1,10 +1,7 @@
 **LXX Leviticus 19:5** 
 <small><sub>**LXX:**</sub></small>
 And if you should sacrifice a sacrifice of deliverance to the <span class="smallcaps">lord</span>, you shall sacrifice acceptable for yourselves. 
-<small><sub>**KJV:**</sub></small>
-And if ye offer a sacrifice of peace offerings unto the LORD, ye shall offer it at your own will.
-<small><sub>**BSB:**</sub></small>
-When you sacrifice a peace offering to the LORD, you shall offer it for your acceptance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.4|<< Leviticus 19:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.6|Leviticus 19:6 >>]]</td></tr></table>
 
 | Translation | Greek |

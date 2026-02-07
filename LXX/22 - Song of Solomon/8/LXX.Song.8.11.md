@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 A Vineyard existed \[to\] Solomon in Baal-hamon. He gave over  his vineyard to the ones keeping \[it\]. \[Every\] man shall bring for its fruit a thousand \[pieces\] of silver. 
-<small><sub>**KJV:**</sub></small>
-Solomon had a vineyard at Baalhamon; he let out the vineyard unto keepers; every one for the fruit thereof was to bring a thousand [pieces] of silver.
-<small><sub>**BSB:**</sub></small>
-Solomon had a vineyard in Baal-hamon. He leased it to the tenants. For its fruit, each was to bring a thousand shekels of silver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.10|<< Song of Solomon 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.12|Song of Solomon 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

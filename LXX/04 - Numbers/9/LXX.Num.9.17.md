@@ -1,10 +1,7 @@
 **LXX Numbers 9:17** 
 <small><sub>**LXX:**</sub></small>
 And when the cloud ascended from the tent, then after this the sons of Israel departed. And in the place where ever the cloud stopped, there the sons of Israel camped. 
-<small><sub>**KJV:**</sub></small>
-And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents.
-<small><sub>**BSB:**</sub></small>
-Whenever the cloud was lifted from above the Tent, the Israelites would set out, and wherever the cloud settled, there the Israelites would camp.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.16|<< Numbers 9:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.18|Numbers 9:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 11:6** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] wolf shall be fed together with \[the\] lamb; and \[the\] leopard shall be refreshed together with \[the\] kid; and a young calf and a lion and a bull shall graze together; and a small child shall lead them. 
-<small><sub>**KJV:**</sub></small>
-The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.
-<small><sub>**BSB:**</sub></small>
-The wolf will live with the lamb, and the leopard will lie down with the goat; the calf and young lion and fatling will be together, and a little child will lead them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.11.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.11.5|<< Isaiah 11:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.11.7|Isaiah 11:7 >>]]</td></tr></table>
 
 | Translation | Greek |

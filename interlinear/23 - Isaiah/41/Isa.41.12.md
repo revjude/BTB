@@ -1,4 +1,4 @@
-**Isaiah 41:12** 
+**Isaiah 41:12**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt seek them, and shalt not find them, [even] them that contended with thee: they that war against thee shall be as nothing, and as a thing of nought.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will seek them but will not find them. Those who wage war against you will c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.11|<< Isaiah 41:11]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.13|Isaiah 41:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you will seek them  |**<big>&#8207;[[H1245\|תְּבַקְשֵׁ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| te.vak.She<small><sup>[[HVpi2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

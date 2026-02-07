@@ -1,10 +1,7 @@
 **LXX Nehemiah 5:5** 
 <small><sub>**LXX:**</sub></small>
 And now our flesh \[is\] as \[the\] flesh of our brethren; as their sons our sons; and behold, we \[are\] tyrannizing over  our sons and  our daughters \[selling them\] for servants, and there are \[some\] of our daughters being tyrannized already; and there is no power \[to redeem them\] by our hands, for our fields and our vineyards \[belong\] to the important ones. 
-<small><sub>**KJV:**</sub></small>
-Yet now our flesh [is] as the flesh of our brethren, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and [some] of our daughters are brought unto bondage [already]: neither [is it] in our power [to redeem them]; for other men have our lands and vineyards.
-<small><sub>**BSB:**</sub></small>
-We and our children are just like our countrymen and their children, yet we are subjecting our sons and daughters to slavery. Some of our daughters are already enslaved, but we are powerless to redeem them because our fields and vineyards belong to others.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.4|<< Nehemiah 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.6|Nehemiah 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

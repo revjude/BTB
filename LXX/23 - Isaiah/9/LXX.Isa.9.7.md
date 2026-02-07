@@ -1,10 +1,7 @@
 **LXX Isaiah 9:7** 
 <small><sub>**LXX:**</sub></small>
 And great \[is\] his sovereignty, and  of his peace there is no end upon the throne of David, and  his kingdom to set it up and to take hold in judgment; even with righteousness from the present and into the eon. The zeal of \[the\] <span class="smallcaps">lord</span> of Hosts shall do these \[things\]. 
-<small><sub>**KJV:**</sub></small>
-Of the increase of [his] government and peace [there shall be] no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever. The zeal of the LORD of hosts will perform this.
-<small><sub>**BSB:**</sub></small>
-Of the increase of His government and peace there will be no end. He will reign on the throne of David and over his kingdom, to establish and sustain it with justice and righteousness from that time and forevermore. The zeal of the LORD of Hosts will accomplish this.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.9.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.9.6|<< Isaiah 9:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.9.8|Isaiah 9:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 9:7** is...

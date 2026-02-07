@@ -1,4 +1,4 @@
-**Psalms 66:5** 
+**Psalms 66:5**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come and see the works of God: [he is] terrible [in his] doing toward the children of men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Come and see the works of God; how awesome are His deeds toward mankind.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.4|<< Psalms 66:4]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.6|Psalms 66:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | come  |**<big>&#8207;[[H1980K\|לְכ֣וּ]]&#8207; </big>**| le.Khu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and see  |**<big>&#8207;[[H9002\|וּ֭]]&#8207;&#8207;[[H7200G\|רְאוּ]]&#8207; </big>**| U.<small><sup>[[HC]]</sup></small> re.'u<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

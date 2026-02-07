@@ -1,10 +1,7 @@
 **LXX Genesis 29:2** 
 <small><sub>**LXX:**</sub></small>
 And he saw, and behold, \[there was\] a well in the plain. And there were there three flocks of sheep resting near it, for from out of  that well they watered the flocks. And there was a great stone upon the mouth of the well. 
-<small><sub>**KJV:**</sub></small>
-And he looked, and behold a well in the field, and, lo, there [were] three flocks of sheep lying by it; for out of that well they watered the flocks: and a great stone [was] upon the well’s mouth.
-<small><sub>**BSB:**</sub></small>
-He looked and saw a well in the field, and near it lay three flocks of sheep, because the sheep were watered from this well. And a large stone covered the mouth of the well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.1|<< Genesis 29:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.3|Genesis 29:3 >>]]</td></tr></table>
 
 | Translation | Greek |

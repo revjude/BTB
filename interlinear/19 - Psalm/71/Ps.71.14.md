@@ -1,4 +1,4 @@
-**Psalms 71:14** 
+**Psalms 71:14**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will hope continually, and will yet praise thee more and more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I will always hope and will praise You more and more.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.13|<< Psalms 71:13]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.15|Psalms 71:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ֭]]&#8207;&#8207;[[H0589\|אֲנִי]]&#8207; </big>**| Va.<small><sup>[[HC]]</sup></small> 'a.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | continually  |**<big>&#8207;[[H8548\|תָּמִ֣יד]]&#8207; </big>**| ta.Mid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

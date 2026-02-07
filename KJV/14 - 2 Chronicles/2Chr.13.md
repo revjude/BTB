@@ -1,10 +1,10 @@
 (KJV) **2 Chronicles 13**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12|<< 2 Chronicles 12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14|2 Chronicles 14 >>]]</td></tr></table>
 
-***Abijah Reigns in Judah***&emsp;<small><sup>\[ [[1Kgs.15|1 Kings 15:1–8]] ]</sup></small> ^bsb1093
+<big><big>[[2Chr.13.1 Abijah Reigns in Judah|⥃]]</big></big>***Abijah Reigns in Judah***&emsp;<small><sup>\[ [[1Kgs.15|1 Kings 15:1–8]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[2Chr.13.1|1]]**<span class="endversemarker">]</span> Now in the eighteenth<small><small>[^2]</small></small> year of king Jeroboam began Abijah to reign over Judah.<small><small>[^3]</small></small> <span class="startversemarker">[</span>**[[2Chr.13.2|2]]**<span class="endversemarker">]</span> He reigned three years in Jerusalem. His mother’s name also \[was\] Michaiah<small><small>[^4]</small></small> the daughter of Uriel of Gibeah<small><small>[^5]</small></small>. And there was<small><small>[^6]</small></small> war between Abijah and Jeroboam. <span class="startversemarker">[</span>**[[2Chr.13.3|3]]**<span class="endversemarker">]</span> And Abijah set<small><small>[^7]</small></small> the battle in array with an army of valiant men of war, \[even\] four hundred<small><small>[^8]</small></small> thousand chosen men: Jeroboam also set the battle in array against him with eight hundred<small><small>[^9]</small></small> thousand chosen men, \[being\] mighty men of valour.
 
-***Civil War against Jeroboam*** ^bsb1094
+<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥃]]</big></big>***Civil War against Jeroboam***
 
  
 

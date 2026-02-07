@@ -1,4 +1,4 @@
-**Joshua 13:4** 
+**Joshua 13:4**<big><big>[[Josh.13.1 Lands Yet Unconquered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the south, all the land of the Canaanites, and Mearah that [is] beside the Sidonians, unto Aphek, to the borders of the Amorites:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to the south, all the land of the Canaanites, from Mearah of the Sidonians to Ap
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.3|<< Joshua 13:3]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.5|Joshua 13:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] south  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8486\|תֵּימָ֞ן]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> tei.Man<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 16:13
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:13**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 No servant can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.
 <small><sub>**BSB:**</sub></small>
 No servant can serve two masters. Either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve both God and money.”
 <small><sub>**Literal:**</sub></small>
 No servant is able to two masters to serve; either for the one he will hate and the other he will love, or to one he will be devoted and the other he will despise. Not you are able God to serve and money.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.12|<< Luke 16:12]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.14|Luke 16:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No |**<big>[[G3762\|Οὐδεὶς]]</big>**  |Oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | servant |**<big>[[G3610\|οἰκέτης]]</big>**  |oiketēs <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

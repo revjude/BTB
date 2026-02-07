@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:5** 
 <small><sub>**LXX:**</sub></small>
 They shall ask the way unto Zion; for here  they shall set their face, and they shall come and shall take refuge with \[the\] <span class="smallcaps">lord</span>; for \[the\] everlasting covenant shall not be forgotten. 
-<small><sub>**KJV:**</sub></small>
-They shall ask the way to Zion with their faces thitherward, [saying], Come, and let us join ourselves to the LORD in a perpetual covenant [that] shall not be forgotten.
-<small><sub>**BSB:**</sub></small>
-They will ask the way to Zion and turn their faces toward it. They will come and join themselves to the LORD in an everlasting covenant that will never be forgotten.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.4|<< Jeremiah 50:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.6|Jeremiah 50:6 >>]]</td></tr></table>
 
 | Translation | Greek |

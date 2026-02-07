@@ -1,10 +1,7 @@
 **LXX 2 Samuel 9:6** 
 <small><sub>**LXX:**</sub></small>
 And Mephibosheth son of Jonathan son of Saul comes to  king David. And he fell upon his face and did obeisance to him. And David said to him, Mephibosheth! And he said, Behold,  your servant. 
-<small><sub>**KJV:**</sub></small>
-Now when Mephibosheth, the son of Jonathan, the son of Saul, was come unto David, he fell on his face, and did reverence. And David said, Mephibosheth. And he answered, Behold thy servant!
-<small><sub>**BSB:**</sub></small>
-And when Mephibosheth son of Jonathan, the son of Saul, came to David, he fell facedown in reverence. Then David said, “Mephibosheth!” “I am your servant,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.9.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.9.5|<< 2 Samuel 9:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.9.7|2 Samuel 9:7 >>]]</td></tr></table>
 
 | Translation | Greek |

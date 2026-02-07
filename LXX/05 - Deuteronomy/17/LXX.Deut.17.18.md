@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:18** 
 <small><sub>**LXX:**</sub></small>
 And it will be whenever he shall be settled in the chair  of his office, then he shall write for himself  this second book of the law into a scroll by \[the hands\] of the priests of the Levites. 
-<small><sub>**KJV:**</sub></small>
-And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book out of [that which is] before the priests the Levites:
-<small><sub>**BSB:**</sub></small>
-When he is seated on his royal throne, he must write for himself a copy of this instruction on a scroll in the presence of the Levitical priests.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.17|<< Deuteronomy 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.19|Deuteronomy 17:19 >>]]</td></tr></table>
 
 | Translation | Greek |

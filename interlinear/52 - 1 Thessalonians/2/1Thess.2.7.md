@@ -1,12 +1,12 @@
-**1 Thessalonians 2:7
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 2:7**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But we were gentle among you, even as a nurse cherisheth her children:
 <small><sub>**BSB:**</sub></small>
 On the contrary, we were gentle among you, like a nursing mother caring for her children.
 <small><sub>**Literal:**</sub></small>
 [though] having authority with weight to be as Christ’s apostles; [7] But we were infants in [the] midst of you, as maybe a nursing mother shall cherish <the> her own children,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.6|<< 1 Thessalonians 2:6]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.8|1 Thessalonians 2:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [though] having authority |**<big>[[G1410\|δυνάμενοι]]</big>**  |dunamenoi <small><sup>[[V-PNP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | with |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

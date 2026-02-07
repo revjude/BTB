@@ -1,4 +1,4 @@
-**Psalms 40:16** (40:17)
+**Psalms 40:16**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The LORD be magnified.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ May all who seek You rejoice and be glad in You; may those who love Your salvati
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they exult  |**<big>&#8207;[[H7797\|יָ֘שִׂ֤ישׂוּ]]&#8207; </big>**| ya.Si.su<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they may rejoice  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8055\|יִשְׂמְח֨וּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yis.me.Chu<small><sup>[[HVqu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

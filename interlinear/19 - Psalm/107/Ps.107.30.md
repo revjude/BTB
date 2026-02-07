@@ -1,4 +1,4 @@
-**Psalms 107:30** 
+**Psalms 107:30**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then are they glad because they be quiet; so he bringeth them unto their desired haven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They rejoiced in the silence, and He guided them to the harbor they desired.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.29|<< Psalms 107:29]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.31|Psalms 107:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they rejoiced  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8055\|יִּשְׂמְח֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.me.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

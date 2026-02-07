@@ -1,12 +1,12 @@
-**Revelation 19:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 19:6**<big><big>[[Rev.19.6 The Marriage of the Lamb|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I heard as it were the voice of a great multitude, and as the voice of many waters, and as the voice of mighty thunderings, saying, Alleluia: for the Lord God omnipotent reigneth.
 <small><sub>**BSB:**</sub></small>
 And I heard a sound like the roar of a great multitude, like the rushing of many waters, and like a mighty rumbling of thunder, crying out: “Hallelujah! For the Lord our God the Almighty reigns.
 <small><sub>**Literal:**</sub></small>
 And I heard [something] like [the] voice of a multitude great and like [the] sound of waters many and like a sound of thunders mighty saying: Hallelujah! For has reigned [the] Lord <the> God of us the Almighty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.5|<< Revelation 19:5]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.7|Revelation 19:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I heard |**<big>[[G0191\|ἤκουσα]]</big>**  |ēkousa <small><sup>[[V-AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

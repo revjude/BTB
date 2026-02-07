@@ -1,10 +1,7 @@
 **LXX Numbers 14:23** 
 <small><sub>**LXX:**</sub></small>
 assuredly they shall not see the land which I swore by an oath \[to\] their fathers; but only  their children who are with me here, as many as have not known good or evil, every young one inexperienced, to these I will give the land. But all the ones provoking me shall not see it. 
-<small><sub>**KJV:**</sub></small>
-Surely they shall not see the land which I sware unto their fathers, neither shall any of them that provoked me see it:
-<small><sub>**BSB:**</sub></small>
-not one will ever see the land that I swore to give their fathers. None of those who have treated Me with contempt will see it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.22|<< Numbers 14:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.24|Numbers 14:24 >>]]</td></tr></table>
 
 | Translation | Greek |

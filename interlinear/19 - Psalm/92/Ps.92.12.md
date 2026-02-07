@@ -1,4 +1,4 @@
-**Psalms 92:12** (92:13)
+**Psalms 92:12**<big><big>[[Ps.92.1 How Great Are Your Works!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The righteous shall flourish like the palm tree: he shall grow like a cedar in Lebanon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The righteous will flourish like a palm tree, and grow like a cedar in Lebanon.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.92.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.11|<< Psalms 92:11]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92.13|Psalms 92:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] righteous  |**<big>&#8207;[[H6662\|צַ֭דִּיק]]&#8207; </big>**| Tza.dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> palm tree  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H8558\|תָּמָ֣ר]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> ta.Mar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

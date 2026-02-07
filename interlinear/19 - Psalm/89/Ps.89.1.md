@@ -1,12 +1,12 @@
-**Psalms 89:1** (89:2)
+**Psalms 89:1**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-Maschil of Ethan the Ezrahite. I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.
+I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.
 <small><sub>**BSB:**</sub></small>
 A Maskil of Ethan the Ezrahite. I will sing of the loving devotion of the LORD forever; with my mouth I will proclaim Your faithfulness to all generations.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.0|<< Psalms 89:0]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.2|Psalms 89:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] covenant loyalti\<es> of  |**<big>&#8207;[[H2617A\|חַֽסְדֵ֣י]]&#8207; </big>**| chas.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

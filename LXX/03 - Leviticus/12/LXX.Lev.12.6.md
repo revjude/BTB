@@ -1,10 +1,7 @@
 **LXX Leviticus 12:6** 
 <small><sub>**LXX:**</sub></small>
 And whenever the days of her cleansing should be fulfilled for a son or for a daughter, she shall bring a lamb of a year \[old\] for a whole burnt-offering, and a young pigeon, or turtle-dove for a sin \[offering\] to the door of the tent of the testimony to the priest. 
-<small><sub>**KJV:**</sub></small>
-And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:
-<small><sub>**BSB:**</sub></small>
-When the days of her purification are complete, whether for a son or for a daughter, she is to bring to the priest at the entrance to the Tent of Meeting a year-old lamb for a burnt offering and a young pigeon or a turtledove for a sin offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.12.5|<< Leviticus 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.12.7|Leviticus 12:7 >>]]</td></tr></table>
 
 | Translation | Greek |

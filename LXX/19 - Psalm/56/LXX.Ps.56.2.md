@@ -1,10 +1,7 @@
 **LXX Psalm 56:2** 
 <small><sub>**LXX:**</sub></small>
 My enemies trampled me \[the\] entire  day, for many \[are\] the ones waging war against me from \[the\] height. 
-<small><sub>**KJV:**</sub></small>
-Mine enemies would daily swallow [me] up: for [they be] many that fight against me, O thou most High.
-<small><sub>**BSB:**</sub></small>
-My enemies pursue me all day long, for many proudly assail me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.56.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.1|<< Psalm 56:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.3|Psalm 56:3 >>]]</td></tr></table>
 
 | Translation | Greek |

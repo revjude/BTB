@@ -1,10 +1,7 @@
 **LXX Isaiah 56:2** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[is\] \[the\] man  doing these \[things\], and \[the\] man  holding to them, and guarding  Sabbaths, \[so as\] to not profane them, and observing  his hands \[so as\] to not do unjustly. 
-<small><sub>**KJV:**</sub></small>
-Blessed [is] the man [that] doeth this, and the son of man [that] layeth hold on it; that keepeth the sabbath from polluting it, and keepeth his hand from doing any evil.
-<small><sub>**BSB:**</sub></small>
-Blessed is the man who does this, and the son of man who holds it fast, who keeps the Sabbath without profaning it and keeps his hand from doing any evil.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.56.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.56.1|<< Isaiah 56:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.3|Isaiah 56:3 >>]]</td></tr></table>
 
 | Translation | Greek |

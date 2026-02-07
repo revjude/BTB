@@ -1,10 +1,7 @@
 **LXX Psalm 64:7** 
 <small><sub>**LXX:**</sub></small>
 and God shall be exalted; \[the\] arrow of infants became  their calamities; 
-<small><sub>**KJV:**</sub></small>
-But God shall shoot at them [with] an arrow; suddenly shall they be wounded.
-<small><sub>**BSB:**</sub></small>
-But God will shoot them with arrows; suddenly they will be wounded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.64.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.64.6|<< Psalm 64:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.8|Psalm 64:8 >>]]</td></tr></table>
 
 | Translation | Greek |

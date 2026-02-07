@@ -1,10 +1,7 @@
 **LXX Exodus 12:34** 
 <small><sub>**LXX:**</sub></small>
 And the people took  their dough before the leavening  of their batches, being bound in  their cloaks upon their shoulders. 
-<small><sub>**KJV:**</sub></small>
-And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders.
-<small><sub>**BSB:**</sub></small>
-So the people took their dough before it was leavened, carrying it on their shoulders in kneading bowls wrapped in clothing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.33|<< Exodus 12:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.35|Exodus 12:35 >>]]</td></tr></table>
 
 | Translation | Greek |

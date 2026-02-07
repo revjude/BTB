@@ -1,4 +1,4 @@
-**Proverbs 15:25** 
+**Proverbs 15:25**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD will destroy the house of the proud: but he will establish the border of the widow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD tears down the house of the proud, but He protects the boundaries of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.24|<< Proverbs 15:24]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.26|Proverbs 15:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] house of  |**<big>&#8207;[[H1004B\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | proud [people]  |**<big>&#8207;[[H1343\|גֵּ֭אִים]]&#8207; </big>**| Ge.'im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

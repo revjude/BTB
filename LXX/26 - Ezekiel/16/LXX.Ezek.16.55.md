@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:55** 
 <small><sub>**LXX:**</sub></small>
 And  your sister Sodom and  her daughters shall be restored as they were from \[the\] beginning. And Samaria and  her daughters shall be restored as they were from \[the\] beginning. And you and  your daughters shall be restored as you were from \[the\] beginning. 
-<small><sub>**KJV:**</sub></small>
-When thy sisters, Sodom and her daughters, shall return to their former estate, and Samaria and her daughters shall return to their former estate, then thou and thy daughters shall return to your former estate.
-<small><sub>**BSB:**</sub></small>
-And your sisters, Sodom with her daughters and Samaria with her daughters, will return to their former state. You and your daughters will also return to your former state.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.54|<< Ezekiel 16:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.56|Ezekiel 16:56 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:13** 
 <small><sub>**LXX:**</sub></small>
 Where is the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim -- Hena and Ivah? 
-<small><sub>**KJV:**</sub></small>
-Where [is] the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah?
-<small><sub>**BSB:**</sub></small>
-Where are the kings of Hamath, Arpad, Sepharvaim, Hena, and Ivvah?’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.12|<< 2 Kings 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.14|2 Kings 19:14 >>]]</td></tr></table>
 
 | Translation | Greek |

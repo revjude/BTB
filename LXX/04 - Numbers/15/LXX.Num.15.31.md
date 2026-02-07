@@ -1,10 +1,7 @@
 **LXX Numbers 15:31** 
 <small><sub>**LXX:**</sub></small>
 for the word of \[the\] <span class="smallcaps">lord</span> he treated as worthless, and  his commandments he effaced; by obliteration that soul shall be obliterated;  his sin \[be\] on him. 
-<small><sub>**KJV:**</sub></small>
-Because he hath despised the word of the LORD, and hath broken his commandment, that soul shall utterly be cut off; his iniquity [shall be] upon him.
-<small><sub>**BSB:**</sub></small>
-He shall certainly be cut off, because he has despised the word of the LORD and broken His commandment; his guilt remains on him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.30|<< Numbers 15:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.32|Numbers 15:32 >>]]</td></tr></table>
 
 | Translation | Greek |

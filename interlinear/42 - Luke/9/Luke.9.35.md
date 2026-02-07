@@ -1,5 +1,5 @@
-**Luke 9:35
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:35**<big><big>[[Luke.9.28 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there came a voice out of the cloud, saying, This is my beloved Son: hear him.
 <small><sub>**BSB:**</sub></small>
 And a voice came from the cloud, saying, “This is My Son, whom I have chosen. Listen to Him!”
@@ -10,7 +10,7 @@ And a voice came out of the cloud saying; This is the Son of Mine the  chosen, t
 > $\quad$ alluding to: [[LXX.Deut.18.15|Deut 18:15]] ☩ [[LXX.Ps.2.7|Ps 2:7]] ☩ [[LXX.Isa.42.1|Isa 42:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a voice |**<big>[[G5456G\|φωνὴ]]</big>**  |phōnē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

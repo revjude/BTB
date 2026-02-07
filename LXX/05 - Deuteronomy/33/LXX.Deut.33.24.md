@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:24** 
 <small><sub>**LXX:**</sub></small>
 And  to Asher he said, Asher \[is\] one being blessed of children; and he will be acceptable \[to\] his brethren; he shall dip his foot in olive oil; 
-<small><sub>**KJV:**</sub></small>
-And of Asher he said, [Let] Asher [be] blessed with children; let him be acceptable to his brethren, and let him dip his foot in oil.
-<small><sub>**BSB:**</sub></small>
-And concerning Asher he said: “May Asher be the most blessed of sons; may he be the most favored among his brothers and dip his foot in oil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.23|<< Deuteronomy 33:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.25|Deuteronomy 33:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Ephesians 1:21
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 1:21**<big><big>[[Eph.1.15 Spiritual Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:
 <small><sub>**BSB:**</sub></small>
 far above all rule and authority, power and dominion, and every name that is named, not only in the present age but also in the one to come.
 <small><sub>**Literal:**</sub></small>
 above every principality and authority and power and dominion and every name being named not only in <the> age this but also in the [one] coming,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.20|<< Ephesians 1:20]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.22|Ephesians 1:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | above |**<big>[[G5231\|ὑπεράνω]]</big>**  |huperanō <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | every |**<big>[[G3956\|πάσης]]</big>**  |pasēs <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

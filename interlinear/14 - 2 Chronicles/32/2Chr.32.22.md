@@ -1,4 +1,4 @@
-**2 Chronicles 32:22** 
+**2 Chronicles 32:22**<big><big>[[2Chr.32.20 Jerusalem Delivered from the Assyrians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus the LORD saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria, and from the hand of all [other], and guided them on every side.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the LORD saved Hezekiah and the people of Jerusalem from the hands of King Se
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.21|<< 2 Chronicles 32:21]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.23|2 Chronicles 32:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saved  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3467\|יּוֹשַׁע֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Sha'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

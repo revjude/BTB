@@ -1,4 +1,4 @@
-**Genesis 30:26** 
+**Genesis 30:26**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give [me] my wives and my children, for whom I have served thee, and let me go: for thou knowest my service which I have done thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Give me my wives and children for whom I have served you, that I may go on my wa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.25|<< Genesis 30:25]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.27|Genesis 30:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give !  |**<big>&#8207;[[H5414G\|תְּנָ֞]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| te.Na<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

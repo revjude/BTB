@@ -1,4 +1,4 @@
-**Jeremiah 48:3** 
+**Jeremiah 48:3**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A voice of crying [shall be] from Horonaim, spoiling and great destruction.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A voice cries out from Horonaim: ‘Devastation and great destruction!’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.2|<< Jeremiah 48:2]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.4|Jeremiah 48:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sound of  |**<big>&#8207;[[H6963A\|ק֥וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a cry of distress  |**<big>&#8207;[[H6818\|צְעָקָ֖ה]]&#8207; </big>**| tze.'a.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

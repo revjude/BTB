@@ -1,4 +1,4 @@
-**Exodus 36:22** 
+**Exodus 36:22**<big><big>[[Exod.36.20 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One board had two tenons, equally distant one from another: thus did he make for all the boards of the tabernacle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Two tenons were connected to each other for each frame. He made all the frames o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.21|<< Exodus 36:21]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.23|Exodus 36:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | two  |**<big>&#8207;[[H8147\|שְׁתֵּ֣י]]&#8207; </big>**| she.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands  |**<big>&#8207;[[H3027G\|יָדֹ֗ת]]&#8207; </big>**| ya.Dot<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

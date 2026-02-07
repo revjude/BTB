@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:19** 
 <small><sub>**LXX:**</sub></small>
 And his mother made a small double garment for him, and offered it to him from days unto days in  her ascending with  her husband, to sacrifice the sacrifice of the days. 
-<small><sub>**KJV:**</sub></small>
-Moreover his mother made him a little coat, and brought [it] to him from year to year, when she came up with her husband to offer the yearly sacrifice.
-<small><sub>**BSB:**</sub></small>
-Each year his mother would make him a little robe and bring it to him when she went with her husband to offer the annual sacrifice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.18|<< 1 Samuel 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.20|1 Samuel 2:20 >>]]</td></tr></table>
 
 | Translation | Greek |

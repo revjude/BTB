@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 11:14** 
 <small><sub>**LXX:**</sub></small>
 For the Levites left behind  their tents, the ones  of their possession, and they went to Judah unto Jerusalem, for Jeroboam and his sons cast them out  to not officiate \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the priest’s office unto the LORD:
-<small><sub>**BSB:**</sub></small>
-For the Levites left their pasturelands and their possessions and went to Judah and Jerusalem, because Jeroboam and his sons had rejected them as priests of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.11.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.13|<< 2 Chronicles 11:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.15|2 Chronicles 11:15 >>]]</td></tr></table>
 
 | Translation | Greek |

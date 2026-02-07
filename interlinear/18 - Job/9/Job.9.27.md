@@ -1,4 +1,4 @@
-**Job 9:27** 
+**Job 9:27**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I say, I will forget my complaint, I will leave off my heaviness, and comfort [myself]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If I were to say, ‘I will forget my complaint and change my expression and smi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.26|<< Job 9:26]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.28|Job 9:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to say I  |**<big>&#8207;[[H0559\|אָ֭מְרִ]]&#8207;&#8207;[[H9040\|י]]&#8207; </big>**| 'A.me.r<small><sup>[[HVqcc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 24:3** 
+**Deuteronomy 24:3**<big><big>[[Deut.24.1 Marriage and Divorce Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [if] the latter husband hate her, and write her a bill of divorcement, and giveth [it] in her hand, and sendeth her out of his house; or if the latter husband die, which took her [to be] his wife;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ and the second man hates her, writes her a certificate of divorce, hands it to h
 > $\quad$ referenced by: [[Matt.5.31|Matt 5:31]] ☩ [[Matt.19.7|Matt 19:7]] ☩ [[Mark.10.4|Mark 10:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will hate her  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H8130\|שְׂנֵאָ]]&#8207;&#8207;[[H9034\|הּ֮]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> se.ne.'A<small><sup>[[HVqq3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the man  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

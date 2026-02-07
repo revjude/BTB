@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:19** 
 <small><sub>**LXX:**</sub></small>
 And I am frightened on account of the rage and the anger that \[the\] <span class="smallcaps">lord</span> was provoked by you  to utterly destroy you. And \[the\] <span class="smallcaps">lord</span> hearkened to me even at  that time. 
-<small><sub>**KJV:**</sub></small>
-For I was afraid of the anger and hot displeasure, wherewith the LORD was wroth against you to destroy you. But the LORD hearkened unto me at that time also.
-<small><sub>**BSB:**</sub></small>
-For I was afraid of the anger and wrath that the LORD had directed against you, enough to destroy you. But the LORD listened to me this time as well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.18|<< Deuteronomy 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.20|Deuteronomy 9:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 9:19** is...

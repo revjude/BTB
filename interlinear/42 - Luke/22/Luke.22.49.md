@@ -1,12 +1,12 @@
-**Luke 22:49
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:49**<big><big>[[Luke.22.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword?
 <small><sub>**BSB:**</sub></small>
 Those around Jesus saw what was about to happen and said, “Lord, should we strike with our swords?”
 <small><sub>**Literal:**</sub></small>
 Having seen then those around Him what will be they said to him: Lord, if will we strike with [the] sword?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.48|<< Luke 22:48]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.50|Luke 22:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|ἰδόντες]]</big>**  |idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

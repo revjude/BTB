@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:17** 
 <small><sub>**LXX:**</sub></small>
 For truth, O <span class="smallcaps">lord</span>, \[the\] kings of \[the\] Assyrians made desolate the nations, and all  their land, 
-<small><sub>**KJV:**</sub></small>
-Of a truth, LORD, the kings of Assyria have destroyed the nations and their lands,
-<small><sub>**BSB:**</sub></small>
-Truly, O LORD, the kings of Assyria have laid waste these nations and their lands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.16|<< 2 Kings 19:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.18|2 Kings 19:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 11:17** 
+**Proverbs 11:17**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The merciful man doeth good to his own soul: but [he that is] cruel troubleth his own flesh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A kind man benefits himself, but a cruel man brings trouble on himself.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.16|<< Proverbs 11:16]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.18|Proverbs 11:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] dealing bountifully with  |**<big>&#8207;[[H1580\|גֹּמֵ֣ל]]&#8207; </big>**| go.Mel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | self his  |**<big>&#8207;[[H5315I\|נַ֭פְשׁ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| naf.sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

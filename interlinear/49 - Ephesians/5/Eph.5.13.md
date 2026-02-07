@@ -1,12 +1,12 @@
-**Ephesians 5:13
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 5:13**<big><big>[[Eph.5.8 Children of Light|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light.
 <small><sub>**BSB:**</sub></small>
 But everything exposed by the light becomes visible, for everything that is illuminated becomes a light itself.
 <small><sub>**Literal:**</sub></small>
 <the> But everything being exposed by the light is made visible;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.12|<< Ephesians 5:12]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.14|Ephesians 5:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

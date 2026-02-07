@@ -1,5 +1,5 @@
-**Ephesians 6:2
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:2**<big><big>[[Eph.6.1 Children and Parents|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Honour thy father and mother; (which is the first commandment with promise;)
 <small><sub>**BSB:**</sub></small>
 “Honor your father and mother” (which is the first commandment with a promise),
@@ -10,7 +10,7 @@ do honor the Father of you and <the> mother, which is [the] commandment first wi
 > $\quad$ referencing: [[LXX.Exod.20.12|Exod 20:12]] ☩ [[LXX.Deut.5.16|Deut 5:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do honor |**<big>[[G5091\|τίμα]]</big>**  |tima <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

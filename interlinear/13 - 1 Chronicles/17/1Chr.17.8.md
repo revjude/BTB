@@ -1,4 +1,4 @@
-**1 Chronicles 17:8** 
+**1 Chronicles 17:8**<big><big>[[1Chr.17.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have been with thee whithersoever thou hast walked, and have cut off all thine enemies from before thee, and have made thee a name like the name of the great men that [are] in the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have been with you wherever you have gone, and I have cut off all your enemies
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.7|<< 1 Chronicles 17:7]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.9|1 Chronicles 17:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I was  |**<big>&#8207;[[H9001\|וָֽ]]&#8207;&#8207;[[H1961\|אֶהְיֶ֣ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'eh.Yeh<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with you  |**<big>&#8207;[[H5973A\|עִמְּ]]&#8207;&#8207;[[H9031\|ךָ֗]]&#8207; </big>**| 'i.me.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

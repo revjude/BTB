@@ -1,10 +1,7 @@
 **LXX Psalm 115:18** 
 <small><sub>**LXX:**</sub></small>
 But we the living, we shall bless the <span class="smallcaps">lord</span> from the present and unto the eon. 
-<small><sub>**KJV:**</sub></small>
-But we will bless the LORD from this time forth and for evermore. Praise the LORD.
-<small><sub>**BSB:**</sub></small>
-But it is we who will bless the LORD, both now and forevermore. Hallelujah!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.115.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.17|<< Psalm 115:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.116.1|Psalm 116:1 >>]]</td></tr></table>
 
 | Translation | Greek |

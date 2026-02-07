@@ -1,4 +1,4 @@
-**Leviticus 13:22** 
+**Leviticus 13:22**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it [is] a plague.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If it spreads any further on the skin, the priest must pronounce him unclean; it
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.21|<< Leviticus 13:21]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.23|Leviticus 13:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to spread>  |**<big>&#8207;[[H6581\|פָּשֹׂ֥ה]]&#8207; </big>**| pa.Soh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

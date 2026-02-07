@@ -1,12 +1,12 @@
-**Acts 9:18
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:18**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized.
 <small><sub>**BSB:**</sub></small>
 At that instant, something like scales fell from Saul’s eyes, and his sight was restored. He got up and was baptized,
 <small><sub>**Literal:**</sub></small>
 And immediately fell of him from the eyes as scales, he regained his sight also immediately And having risen up he was baptized,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.17|<< Acts 9:17]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.19|Acts 9:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | immediately |**<big>[[G2112\|εὐθέως]]</big>**  |eutheōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

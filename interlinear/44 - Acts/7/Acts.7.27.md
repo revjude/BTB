@@ -1,5 +1,5 @@
-**Acts 7:27
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:27**<big><big>[[Acts.7.23 The Rejection and Flight of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that did his neighbour wrong thrust him away, saying, Who made thee a ruler and a judge over us?
 <small><sub>**BSB:**</sub></small>
 But the man who was abusing his neighbor pushed Moses aside and said, ‘Who made you ruler and judge over us?
@@ -10,7 +10,7 @@ The [one] however mistreating the neighbour pushed away him having said; Who you
 > $\quad$ referencing: [[LXX.Exod.2.13|Exod 2:13-15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

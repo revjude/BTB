@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 13:8** 
 <small><sub>**LXX:**</sub></small>
 And David and all Israel were playing before  God with all their ability, and with songs, and with lutes, and with stringed instruments, and with tambourines, and with cymbals, and with trumpets. 
-<small><sub>**KJV:**</sub></small>
-And David and all Israel played before God with all [their] might, and with singing, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets.
-<small><sub>**BSB:**</sub></small>
-David and all the Israelites were celebrating before God with all their might, with songs and on harps and lyres, with tambourines, cymbals, and trumpets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.13.7|<< 1 Chronicles 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.13.9|1 Chronicles 13:9 >>]]</td></tr></table>
 
 | Translation | Greek |

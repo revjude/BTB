@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 11:2** 
 <small><sub>**LXX:**</sub></small>
 And came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> to Shemaiah \[the\] man  of God, saying, 
-<small><sub>**KJV:**</sub></small>
-But the word of the LORD came to Shemaiah the man of God, saying,
-<small><sub>**BSB:**</sub></small>
-But the word of the LORD came to Shemaiah the man of God:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.1|<< 2 Chronicles 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.3|2 Chronicles 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

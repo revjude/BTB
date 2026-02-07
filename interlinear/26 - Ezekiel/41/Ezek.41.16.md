@@ -1,4 +1,4 @@
-**Ezekiel 41:16** 
+**Ezekiel 41:16**<big><big>[[Ezek.41.15 The Interior Structures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The door posts, and the narrow windows, and the galleries round about on their three stories, over against the door, cieled with wood round about, and from the ground up to the windows, and the windows [were] covered;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ as well as the thresholds and the beveled windows and the galleries all around w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.15|<< Ezekiel 41:15]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.17|Ezekiel 41:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the thresholds  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5592B\|סִּפִּ֡ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> si.Pim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and the windows  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2474\|חַלּוֹנִ֣ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> cha.lo.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

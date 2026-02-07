@@ -1,12 +1,12 @@
-**Luke 2:44
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:44**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But they, supposing him to have been in the company, went a day’s journey; and they sought him among [their] kinsfolk and acquaintance.
 <small><sub>**BSB:**</sub></small>
 Assuming He was in their company, they traveled on for a day before they began to look for Him among their relatives and friends.
 <small><sub>**Literal:**</sub></small>
 Having supposed now Him to be in their company they went a day’s journey and were seeking Him among the relatives and in the acquaintances.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.43|<< Luke 2:43]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.45|Luke 2:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having supposed |**<big>[[G3543\|νομίσαντες]]</big>**  |nomisantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

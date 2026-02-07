@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And in the fifth month, \[the\] tenth of the month, came Nabuzar-ardan the chief guard (the one standing in front of the king of Babylon) unto Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Now in the fifth month, in the tenth [day] of the month, which [was] the nineteenth year of Nebuchadrezzar king of Babylon, came Nebuzaradan, captain of the guard, [which] served the king of Babylon, into Jerusalem,
-<small><sub>**BSB:**</sub></small>
-On the tenth day of the fifth month, in the nineteenth year of Nebuchadnezzar’s reign over Babylon, Nebuzaradan captain of the guard, a servant of the king of Babylon, entered Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.11|<< Jeremiah 52:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.13|Jeremiah 52:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Hosea 2:14** 
 <small><sub>**LXX:**</sub></small>
 On account of this, behold, I will wander her, and I will order her as desolate, and I will speak unto  her heart. 
-<small><sub>**KJV:**</sub></small>
-Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her.
-<small><sub>**BSB:**</sub></small>
-“Therefore, behold, I will allure her and lead her to the wilderness, and speak to her tenderly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.13|<< Hosea 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.15|Hosea 2:15 >>]]</td></tr></table>
 
 | Translation | Greek |

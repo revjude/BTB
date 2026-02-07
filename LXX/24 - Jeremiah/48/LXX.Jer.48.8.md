@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:8** 
 <small><sub>**LXX:**</sub></small>
 And ruin shall come upon every city; and a city in no way shall be delivered. And the canyon shall be destroyed, and \[the\] plain shall be utterly destroyed, as \[the\] <span class="smallcaps">lord</span> said. 
-<small><sub>**KJV:**</sub></small>
-And the spoiler shall come upon every city, and no city shall escape: the valley also shall perish, and the plain shall be destroyed, as the LORD hath spoken.
-<small><sub>**BSB:**</sub></small>
-The destroyer will move against every city, and not one town will escape. The valley will also be ruined, and the high plain will be destroyed, as the LORD has said.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.7|<< Jeremiah 48:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.9|Jeremiah 48:9 >>]]</td></tr></table>
 
 | Translation | Greek |

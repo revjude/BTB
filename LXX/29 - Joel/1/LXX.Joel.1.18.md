@@ -1,10 +1,7 @@
 **LXX Joel 1:18** 
 <small><sub>**LXX:**</sub></small>
 What shall we put aside for ourselves? \[The\] herds of oxen weep, for no pasture exists to them; and the flocks of the sheep were obliterated. 
-<small><sub>**KJV:**</sub></small>
-How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.
-<small><sub>**BSB:**</sub></small>
-How the cattle groan! The herds wander in confusion because they have no pasture. Even the flocks of sheep are suffering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.17|<< Joel 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.19|Joel 1:19 >>]]</td></tr></table>
 
 | Translation | Greek |

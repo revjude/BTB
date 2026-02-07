@@ -1,4 +1,4 @@
-**2 Chronicles 29:23** 
+**2 Chronicles 29:23**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought forth the he goats [for] the sin offering before the king and the congregation; and they laid their hands upon them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they brought the goats for the sin offering before the king and the assembl
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.22|<< 2 Chronicles 29:22]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.24|2 Chronicles 29:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they brought near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5066H\|יַּגִּ֙ישׁוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Gi.shu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

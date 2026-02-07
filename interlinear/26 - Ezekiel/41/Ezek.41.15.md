@@ -1,4 +1,4 @@
-**Ezekiel 41:15** 
+**Ezekiel 41:15**<big><big>[[Ezek.41.15 The Interior Structures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he measured the length of the building over against the separate place which [was] behind it, and the galleries thereof on the one side and on the other side, an hundred cubits, with the inner temple, and the porches of the court;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Next he measured the length of the building facing the temple courtyard at the r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.14|<< Ezekiel 41:14]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.16|Ezekiel 41:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he measured  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4058\|מָדַ֣ד]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ma.Dad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] length of  |**<big>&#8207;[[H0753\|אֹֽרֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'o.rekh-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

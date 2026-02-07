@@ -1,4 +1,4 @@
-**1 Samuel 28:20** 
+**1 Samuel 28:20**<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Saul fell straightway all along on the earth, and was sore afraid, because of the words of Samuel: and there was no strength in him; for he had eaten no bread all the day, nor all the night.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Immediately Saul fell flat on the ground, terrified by the words of Samuel. And 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.19|<< 1 Samuel 28:19]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.21|1 Samuel 28:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made haste  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4116A\|יְמַהֵ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ma.Her<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Saul  |**<big>&#8207;[[H7586G\|שָׁא֗וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 14:4** 
+**Genesis 14:4**<big><big>[[Gen.14.1 The War of the Kings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Twelve years they served Chedorlaomer, and in the thirteenth year they rebelled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For twelve years they had been subject to Chedorlaomer, but in the thirteenth ye
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.3|<< Genesis 14:3]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.5|Genesis 14:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | two [plus]  |**<big>&#8207;[[H8147\|שְׁתֵּ֤ים]]&#8207; </big>**| she.Teim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ten  |**<big>&#8207;[[H6240\|עֶשְׂרֵה֙]]&#8207; </big>**| 'es.Reh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:19** 
 <small><sub>**LXX:**</sub></small>
 But I \[am\] as a little lamb, guileless, being led  for a sacrifice, not knowing. Against me they devised a device, saying, Come, and we should put wood for  his bread, and we should obliterate him from \[the\] land of \[the\] living; and  his name in no way shall be remembered any longer. 
-<small><sub>**KJV:**</sub></small>
-But I [was] like a lamb [or] an ox [that] is brought to the slaughter; and I knew not that they had devised devices against me, [saying], Let us destroy the tree with the fruit thereof, and let us cut him off from the land of the living, that his name may be no more remembered.
-<small><sub>**BSB:**</sub></small>
-For I was like a gentle lamb led to slaughter; I did not know that they had plotted against me: “Let us destroy the tree with its fruit; let us cut him off from the land of the living, that his name may be remembered no more.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.18|<< Jeremiah 11:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.20|Jeremiah 11:20 >>]]</td></tr></table>
 
 | Translation | Greek |

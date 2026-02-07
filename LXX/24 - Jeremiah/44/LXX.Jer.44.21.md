@@ -1,10 +1,7 @@
 **LXX Jeremiah 44:21** 
 <small><sub>**LXX:**</sub></small>
 Did not, \[concerning\] the incense of which you burned in the cities of Judah, and outside Jerusalem, you and  your fathers, and  your kings, and  your rulers, and the people of the land, \[the\] <span class="smallcaps">lord</span> remember? even it ascended unto  his heart. 
-<small><sub>**KJV:**</sub></small>
-The incense that ye burned in the cities of Judah, and in the streets of Jerusalem, ye, and your fathers, your kings, and your princes, and the people of the land, did not the LORD remember them, and came it [not] into his mind?
-<small><sub>**BSB:**</sub></small>
-“As for the incense you burned in the cities of Judah and in the streets of Jerusalem—you, your fathers, your kings, your officials, and the people of the land—did the LORD not remember and bring this to mind?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.44.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.20|<< Jeremiah 44:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.22|Jeremiah 44:22 >>]]</td></tr></table>
 
 | Translation | Greek |

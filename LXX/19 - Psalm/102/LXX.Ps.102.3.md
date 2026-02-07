@@ -1,10 +1,7 @@
 **LXX Psalm 102:3** 
 <small><sub>**LXX:**</sub></small>
 For my days dissipated as smoke, and  my bones are parched as dried sticks. 
-<small><sub>**KJV:**</sub></small>
-For my days are consumed like smoke, and my bones are burned as an hearth.
-<small><sub>**BSB:**</sub></small>
-For my days vanish like smoke, and my bones burn like glowing embers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.102.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.102.2|<< Psalm 102:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.102.4|Psalm 102:4 >>]]</td></tr></table>
 
 | Translation | Greek |

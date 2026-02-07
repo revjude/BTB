@@ -1,4 +1,4 @@
-**1 Chronicles 3:5** 
+**1 Chronicles 3:5**<big><big>[[1Chr.3.1 The Descendants of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these were born unto him in Jerusalem; Shimea, and Shobab, and Nathan, and Solomon, four, of Bathshua the daughter of Ammiel:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and these sons were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomo
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.4|<< 1 Chronicles 3:4]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.6|1 Chronicles 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֥לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were born  |**<big>&#8207;[[H3205\|נוּלְּדוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| nu.le.du-<small><sup>[[HVNp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

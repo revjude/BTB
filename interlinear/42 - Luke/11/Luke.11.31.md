@@ -1,5 +1,5 @@
-**Luke 11:31
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:31**<big><big>[[Luke.11.29 The Sign of Jonah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The queen of the south shall rise up in the judgment with the men of this generation, and condemn them: for she came from the utmost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon [is] here.
 <small><sub>**BSB:**</sub></small>
 The Queen of the South will rise at the judgment with the men of this generation and condemn them; for she came from the ends of the earth to hear the wisdom of Solomon, and now One greater than Solomon is here.
@@ -10,7 +10,7 @@ The Queen of the South will rise at the judgment with the men of this generation
 > $\quad$ alluding to: [[LXX.1Kgs.10.1|1Kgs 10:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] Queen |**<big>[[G0938H\|βασίλισσα]]</big>**  |basilissa <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of [the] South |**<big>[[G3558H\|νότου]]</big>**  |notou <small><sup>[[N-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Ecclesiastes 5:6** (5:5)
+**Ecclesiastes 5:6**<big><big>[[Eccl.5.1 Approaching God with Awe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Suffer not thy mouth to cause thy flesh to sin; neither say thou before the angel, that it [was] an error: wherefore should God be angry at thy voice, and destroy the work of thine hands?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not let your mouth cause your flesh to sin, and do not tell the messenger tha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.5|<< Ecclesiastes 5:5]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.7|Ecclesiastes 5:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you permit  |**<big>&#8207;[[H5414K\|תִּתֵּ֤ן]]&#8207; </big>**| ti.Ten<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

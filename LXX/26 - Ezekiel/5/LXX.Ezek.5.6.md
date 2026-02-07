@@ -1,10 +1,7 @@
 **LXX Ezekiel 5:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall tell  of my ordinances to the lawless one of the nations, and  my laws \[to the lawless\] of the places  round about her; because  they thrust away my ordinances, and in  my laws they did not go by them. 
-<small><sub>**KJV:**</sub></small>
-And she hath changed my judgments into wickedness more than the nations, and my statutes more than the countries that [are] round about her: for they have refused my judgments and my statutes, they have not walked in them.
-<small><sub>**BSB:**</sub></small>
-But she has rebelled against My ordinances more wickedly than the nations, and against My statutes worse than the countries around her. For her people have rejected My ordinances and have not walked in My statutes.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.5|<< Ezekiel 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.7|Ezekiel 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

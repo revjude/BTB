@@ -1,4 +1,4 @@
-**Joshua 6:23** 
+**Joshua 6:23**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the young men that were spies went in, and brought out Rahab, and her father, and her mother, and her brethren, and all that she had; and they brought out all her kindred, and left them without the camp of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So the young spies went in and brought out Rahab, her father and mother and brot
 > $\quad$ referenced by: [[Heb.11.31|Heb 11:31]] ☩ [[Jas.2.25|Jas 2:25]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֜אוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo.'u<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the young men  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5288\|נְּעָרִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ne.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

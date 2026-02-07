@@ -1,10 +1,7 @@
 **LXX 2 Samuel 23:16** 
 <small><sub>**LXX:**</sub></small>
 And the three mighty ones tore up the camp of the Philistines, and they drew water from the well, of the one in Beth-lehem, of the one by the gate. And they took \[of it\], and came to David. And he did not want to drink it, and he offered it a libation to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the three mighty men brake through the host of the Philistines, and drew water out of the well of Bethlehem, that [was] by the gate, and took [it], and brought [it] to David: nevertheless he would not drink thereof, but poured it out unto the LORD.
-<small><sub>**BSB:**</sub></small>
-So the three mighty men broke through the Philistine camp, drew water from the well near the gate of Bethlehem, and brought it back to David. But he refused to drink it; instead, he poured it out to the LORD,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.15|<< 2 Samuel 23:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.17|2 Samuel 23:17 >>]]</td></tr></table>
 
 | Translation | Greek |

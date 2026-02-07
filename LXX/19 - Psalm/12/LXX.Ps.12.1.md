@@ -6,10 +6,7 @@ To the director; for the eighth; a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 Deliver me, O <span class="smallcaps">lord</span>! for \[the\] sacred one has failed; for the ones in truths were lessened from the sons  of men. 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician upon Sheminith, A Psalm of David. Help, LORD; for the godly man ceaseth; for the faithful fail from among the children of men.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. According to Sheminith. A Psalm of David. Help, O LORD, for the godly are no more; the faithful have vanished from among men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.12.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.11.7|<< Psalm 11:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.12.2|Psalm 12:2 >>]]</td></tr></table>
 
 | Translation | Greek |

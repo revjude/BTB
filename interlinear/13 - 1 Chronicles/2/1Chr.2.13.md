@@ -1,4 +1,4 @@
-**1 Chronicles 2:13** 
+**1 Chronicles 2:13**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jesse was the father of Eliab his firstborn; Abinadab was born second, Shimea th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.12|<< 1 Chronicles 2:12]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.14|1 Chronicles 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jesse  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3448\|אִישַׁ֛י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֥יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

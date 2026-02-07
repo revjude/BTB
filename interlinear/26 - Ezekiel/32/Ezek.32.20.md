@@ -1,4 +1,4 @@
-**Ezekiel 32:20** 
+**Ezekiel 32:20**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall fall in the midst of [them that are] slain by the sword: she is delivered to the sword: draw her and all her multitudes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will fall among those slain by the sword. The sword is appointed! Let them 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.19|<< Ezekiel 32:19]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.21|Ezekiel 32:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in among  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|ת֥וֹךְ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those] slain of  |**<big>&#8207;[[H2491A\|חַלְלֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| cha.lei-<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

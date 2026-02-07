@@ -1,10 +1,7 @@
 **LXX Psalm 37:26** 
 <small><sub>**LXX:**</sub></small>
 The righteous shows mercy and lends \[the\] entire day, and  his seed will be for a blessing. 
-<small><sub>**KJV:**</sub></small>
-[He is] ever merciful, and lendeth; and his seed [is] blessed.
-<small><sub>**BSB:**</sub></small>
-They are ever generous and quick to lend, and their children are a blessing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.37.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.25|<< Psalm 37:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.27|Psalm 37:27 >>]]</td></tr></table>
 
 | Translation | Greek |

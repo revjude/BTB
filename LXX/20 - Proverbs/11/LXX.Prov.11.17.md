@@ -1,10 +1,7 @@
 **LXX Proverbs 11:17** 
 <small><sub>**LXX:**</sub></small>
 A merciful man does good to his soul; but the unmerciful totally ruins his body. 
-<small><sub>**KJV:**</sub></small>
-The merciful man doeth good to his own soul: but [he that is] cruel troubleth his own flesh.
-<small><sub>**BSB:**</sub></small>
-A kind man benefits himself, but a cruel man brings trouble on himself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.11.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.16|<< Proverbs 11:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.18|Proverbs 11:18 >>]]</td></tr></table>
 
 | Translation | Greek |

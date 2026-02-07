@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:19** 
 <small><sub>**LXX:**</sub></small>
 And indeed all the houses of the high \[places\], of the ones in the cities of Samaria which \[the\] kings of Israel made  to provoke \[the\] <span class="smallcaps">lord</span> to anger, Josiah removed, and he did to them according to all the works which he did in Beth-el. 
-<small><sub>**KJV:**</sub></small>
-And all the houses also of the high places that [were] in the cities of Samaria, which the kings of Israel had made to provoke [the LORD] to anger, Josiah took away, and did to them according to all the acts that he had done in Bethel.
-<small><sub>**BSB:**</sub></small>
-Just as Josiah had done at Bethel, so also in the cities of Samaria he removed all the shrines of the high places set up by the kings of Israel who had provoked the LORD to anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.18|<< 2 Kings 23:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.20|2 Kings 23:20 >>]]</td></tr></table>
 
 | Translation | Greek |

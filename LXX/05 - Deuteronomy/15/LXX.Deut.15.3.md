@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:3** 
 <small><sub>**LXX:**</sub></small>
 The alien -- you shall exact as much as might be \[due\] you from him;  but you shall make a release for your brother  of your loan. 
-<small><sub>**KJV:**</sub></small>
-Of a foreigner thou mayest exact [it again]: but [that] which is thine with thy brother thine hand shall release;
-<small><sub>**BSB:**</sub></small>
-You may collect something from a foreigner, but you must forgive whatever your brother owes you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.2|<< Deuteronomy 15:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.4|Deuteronomy 15:4 >>]]</td></tr></table>
 
 | Translation | Greek |

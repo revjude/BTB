@@ -1,4 +1,4 @@
-**1 Chronicles 26:3** 
+**1 Chronicles 26:3**<big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Elam the fifth, Jehohanan the sixth, Elioenai the seventh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Elam the fifth, Jehohanan the sixth, and Eliehoenai the seventh.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.2|<< 1 Chronicles 26:2]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.4|1 Chronicles 26:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Elam  |**<big>&#8207;[[H5867H\|עֵילָ֤ם]]&#8207; </big>**| 'ei.Lam<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the fifth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2549\|חֲמִישִׁי֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.mi.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

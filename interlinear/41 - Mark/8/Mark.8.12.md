@@ -1,12 +1,12 @@
-**Mark 8:12
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:12**<big><big>[[Mark.8.11 The Demand for a Sign|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he sighed deeply in his spirit, and saith, Why doth this generation seek after a sign? verily I say unto you, There shall no sign be given unto this generation.
 <small><sub>**BSB:**</sub></small>
 Jesus sighed deeply in His spirit and said, “Why does this generation demand a sign? Truly I tell you, no sign will be given to this generation.”
 <small><sub>**Literal:**</sub></small>
 And having sighed deeply in the spirit of Him He says; Why <the> generation this seeks a sign? Amen I say to you, if there will be given to the generation this a sign.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.11|<< Mark 8:11]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.13|Mark 8:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having sighed deeply |**<big>[[G0389\|ἀναστενάξας]]</big>**  |anastenaxas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

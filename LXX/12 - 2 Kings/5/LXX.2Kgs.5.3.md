@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:3** 
 <small><sub>**LXX:**</sub></small>
 And she said to her lady, Ought that  my master \[was\] in the presence of the prophet in Samaria, then he shall cure him from  his leprosy. 
-<small><sub>**KJV:**</sub></small>
-And she said unto her mistress, Would God my lord [were] with the prophet that [is] in Samaria! for he would recover him of his leprosy.
-<small><sub>**BSB:**</sub></small>
-She said to her mistress, “If only my master would go to the prophet who is in Samaria, he would cure him of his leprosy.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.2|<< 2 Kings 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.4|2 Kings 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

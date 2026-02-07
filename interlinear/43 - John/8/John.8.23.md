@@ -1,12 +1,12 @@
-**John 8:23
-**<small><sub>**KJV:**</sub></small>
+**John 8:23**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Ye are from beneath; I am from above: ye are of this world; I am not of this world.
 <small><sub>**BSB:**</sub></small>
 Then He told them, “You are from below; I am from above. You are of this world; I am not of this world.
 <small><sub>**Literal:**</sub></small>
 And He was saying to them; You yourselves from <the> below are, I myself from <the> above am; You yourselves of this the world are, I myself not am of <the> world this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.22|<< John 8:22]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.24|John 8:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was saying [^1] |**<big>[[G3004G\|ἔλεγεν]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

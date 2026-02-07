@@ -1,10 +1,7 @@
 **LXX Ezra 8:31** 
 <small><sub>**LXX:**</sub></small>
 And we lifted away from the river  Ahava on the twelfth of the first month,  to come unto Jerusalem. And \[the\] hand of our God was upon us, and he rescued us from \[the\] hand of \[the\] enemy, and \[the\] warlike \[people\] along the way. 
-<small><sub>**KJV:**</sub></small>
-Then we departed from the river of Ahava on the twelfth [day] of the first month, to go unto Jerusalem: and the hand of our God was upon us, and he delivered us from the hand of the enemy, and of such as lay in wait by the way.
-<small><sub>**BSB:**</sub></small>
-On the twelfth day of the first month we set out from the Ahava Canal to go to Jerusalem, and the hand of our God was upon us to protect us from the hands of the enemies and bandits along the way.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.30|<< Ezra 8:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.32|Ezra 8:32 >>]]</td></tr></table>
 
 | Translation | Greek |

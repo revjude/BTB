@@ -1,6 +1,6 @@
-**Psalms 36:1** (36:2)
+**Psalms 36:1**<big><big>[[Ps.36.1 The Transgression of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, [A Psalm] of David the servant of the LORD. The transgression of the wicked saith within my heart, [that there is] no fear of God before his eyes.
+The transgression of the wicked saith within my heart, [that there is] no fear of God before his eyes.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David, the servant of the LORD. An oracle is in my heart regarding the transgression of the wicked man: There is no fear of God before his eyes.
 <small><sub>**LXX:**</sub></small>
@@ -10,7 +10,7 @@ For the choirmaster. A Psalm of David, the servant of the LORD. An oracle is in 
 > $\quad$ referenced by: [[Rom.3.18|Rom 3:18]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻֽם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | transgression  |**<big>&#8207;[[H6588\|פֶּ֣שַׁע]]&#8207; </big>**| Pe.sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

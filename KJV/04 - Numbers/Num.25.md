@@ -1,10 +1,10 @@
 (KJV) **Numbers 25**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24|<< Numbers 24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26|Numbers 26 >>]]</td></tr></table>
 
-***Moab Seduces Israel***&emsp;<small><sup>\[ [[1Cor.10|1 Corinthians 10:1–13]] ]</sup></small> ^bsb414
+<big><big>[[Num.25.1 Moab Seduces Israel|⥃]]</big></big>***Moab Seduces Israel***&emsp;<small><sup>\[ [[1Cor.10|1 Corinthians 10:1–13]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[Num.25.1|1]]**<span class="endversemarker">]</span> And Israel abode in Shittim<small><small>[^2]</small></small>, and the people<small><small>[^3]</small></small> began to commit whoredom with the daughters of Moab. <span class="startversemarker">[</span>**[[Num.25.2|2]]**<span class="endversemarker">]</span> And they called<small><small>[^4]</small></small> the people unto the sacrifices of their gods: and the people did eat, and bowed<small><small>[^5]</small></small> down to their gods. <span class="startversemarker">[</span>**[[Num.25.3|3]]**<span class="endversemarker">]</span> And Israel joined<small><small>[^6]</small></small> himself unto Baal–peor: and the anger<small><small>[^7]</small></small> of the <span class="smallcaps">Lord</span> was kindled against Israel. <span class="startversemarker">[</span>**[[Num.25.4|4]]**<span class="endversemarker">]</span> And the <span class="smallcaps">Lord</span> said unto Moses, Take all the heads<small><small>[^8]</small></small> of the people, and hang<small><small>[^9]</small></small> them up before the <span class="smallcaps">Lord</span> against the sun, that the fierce<small><small>[^10]</small></small> anger of the <span class="smallcaps">Lord</span> may be turned away from Israel. <span class="startversemarker">[</span>**[[Num.25.5|5]]**<span class="endversemarker">]</span> And Moses said unto the judges<small><small>[^11]</small></small> of Israel, Slay ye<small><small>[^12]</small></small> every one his men that were joined unto Baal–peor.
 
-***The Zeal of Phinehas*** ^bsb415
+<big><big>[[Num.25.6 The Zeal of Phinehas|⥃]]</big></big>***The Zeal of Phinehas***
 
  
 

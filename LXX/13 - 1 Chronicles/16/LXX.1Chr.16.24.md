@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:24** 
 <small><sub>**LXX:**</sub></small>
 Describe among the nations  his glory; to all the peoples  his wonders! 
-<small><sub>**KJV:**</sub></small>
-Declare his glory among the heathen; his marvellous works among all nations.
-<small><sub>**BSB:**</sub></small>
-Declare His glory among the nations, His wonders among all peoples.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.23|<< 1 Chronicles 16:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.25|1 Chronicles 16:25 >>]]</td></tr></table>
 
 | Translation | Greek |

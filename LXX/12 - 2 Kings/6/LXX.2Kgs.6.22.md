@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:22** 
 <small><sub>**LXX:**</sub></small>
 And he said, You shall not strike. Whom you captured by your broadsword, and your bow you shall strike. Place bread loaves and water before them, and let them eat and let them drink and let them go forth to  their master! 
-<small><sub>**KJV:**</sub></small>
-And he answered, Thou shalt not smite [them]: wouldest thou smite those whom thou hast taken captive with thy sword and with thy bow? set bread and water before them, that they may eat and drink, and go to their master.
-<small><sub>**BSB:**</sub></small>
-“Do not kill them,” he replied. “Would you kill those you have captured with your own sword or bow? Set food and water before them, that they may eat and drink and then return to their master.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.21|<< 2 Kings 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.23|2 Kings 6:23 >>]]</td></tr></table>
 
 | Translation | Greek |

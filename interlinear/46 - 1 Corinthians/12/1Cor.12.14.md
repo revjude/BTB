@@ -1,12 +1,12 @@
-**1 Corinthians 12:14
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 12:14**<big><big>[[1Cor.12.12 The Body of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the body is not one member, but many.
 <small><sub>**BSB:**</sub></small>
 For the body does not consist of one part, but of many.
 <small><sub>**Literal:**</sub></small>
 Also for the body not is one member but many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.13|<< 1 Corinthians 12:13]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.15|1 Corinthians 12:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

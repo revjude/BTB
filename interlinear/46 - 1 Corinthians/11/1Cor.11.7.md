@@ -1,5 +1,5 @@
-**1 Corinthians 11:7
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:7**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For a man indeed ought not to cover [his] head, forasmuch as he is the image and glory of God: but the woman is the glory of the man.
 <small><sub>**BSB:**</sub></small>
 A man ought not to cover his head, since he is the image and glory of God; but the woman is the glory of man.
@@ -10,7 +10,7 @@ A man indeed for not ought to cover the head image and glory of God being; the w
 > $\quad$ referencing: [[LXX.Gen.1.26|Gen 1:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A man |**<big>[[G0435G\|Ἀνὴρ]]</big>**  |Anēr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 6:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:23**<big><big>[[Matt.6.22 The Lamp of the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great [is] that darkness!
 <small><sub>**BSB:**</sub></small>
 But if your eyes are bad, your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!
 <small><sub>**Literal:**</sub></small>
 If however the eye of you evil shall be, all the body of you full of darkness will be. If then the light that [is] within you darkness is, that darkness how great!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.22|<< Matthew 6:22]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.24|Matthew 6:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

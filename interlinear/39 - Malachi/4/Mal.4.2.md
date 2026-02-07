@@ -1,4 +1,4 @@
-**Malachi 4:2** (3:20)
+**Malachi 4:2**<big><big>[[Mal.4.1 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But unto you that fear my name shall the Sun of righteousness arise with healing
 > $\quad$ referenced by: [[Luke.1.78|Luke 1:78]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will rise  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2224\|זָרְחָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> za.re.Chah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֜ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

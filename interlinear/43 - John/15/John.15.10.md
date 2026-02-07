@@ -1,12 +1,12 @@
-**John 15:10
-**<small><sub>**KJV:**</sub></small>
+**John 15:10**<big><big>[[John.15.9 No Greater Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love.
 <small><sub>**BSB:**</sub></small>
 If you keep My commandments, you will remain in My love, just as I have kept My Father’s commandments and remain in His love.
 <small><sub>**Literal:**</sub></small>
 If the commandments of Mine you shall keep, you will abide in the love of Mine; even as I myself the commandments of the Father of Mine have kept, and I abide of Him in the love.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.9|<< John 15:9]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.11|John 15:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰς]]</big>**  |tas <small><sup>[[T-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

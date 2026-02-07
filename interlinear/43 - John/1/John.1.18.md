@@ -1,12 +1,12 @@
-**John 1:18
-**<small><sub>**KJV:**</sub></small>
+**John 1:18**<big><big>[[John.1.14 The Word Became Flesh|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared [him].
 <small><sub>**BSB:**</sub></small>
 No one has ever seen God, but the one and only Son, who is Himself God and is at the Father’s side, has made Him known.
 <small><sub>**Literal:**</sub></small>
 God no [one] has seen ever yet; the only begotten God who is being in the bosom of the Father, He has made [Him] known.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.17|<< John 1:17]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.19|John 1:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | God |**<big>[[G2316\|Θεὸν]]</big>**  |Theon <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | no [one] |**<big>[[G3762\|οὐδεὶς]]</big>**  |oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

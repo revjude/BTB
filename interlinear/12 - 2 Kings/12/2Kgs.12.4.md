@@ -1,4 +1,4 @@
-**2 Kings 12:4** (12:5)
+**2 Kings 12:4**<big><big>[[2Kgs.12.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoash said to the priests, All the money of the dedicated things that is brought into the house of the LORD, [even] the money of every one that passeth [the account], the money that every man is set at, [and] all the money that cometh into any man’s heart to bring into the house of the LORD,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Joash said to the priests, “Collect all the money brought as sacred gifts
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.3|<< 2 Kings 12:3]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.5|2 Kings 12:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoash  |**<big>&#8207;[[H3060G\|יְהוֹאָ֜שׁ]]&#8207; </big>**| ye.ho.'Ash<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

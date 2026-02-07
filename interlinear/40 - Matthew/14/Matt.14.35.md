@@ -1,12 +1,12 @@
-**Matthew 14:35
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:35**<big><big>[[Matt.14.34 Jesus Heals at Gennesaret|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the men of that place had knowledge of him, they sent out into all that country round about, and brought unto him all that were diseased;
 <small><sub>**BSB:**</sub></small>
 And when the men of that place recognized Jesus, they sent word to all the surrounding region. People brought all the sick to Him
 <small><sub>**Literal:**</sub></small>
 And having recognized Him the men of the place that one sent to all <the> surrounding region that and brought to Him all those sick being<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.34|<< Matthew 14:34]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.36|Matthew 14:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having recognized |**<big>[[G1921\|ἐπιγνόντες]]</big>**  |epignontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Judges 1:19** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was with Judah; and he inherited the mountain, for he was not able to inherit \[the\] ones dwelling in the valley, for it was separated to them, and \[there were\] chariots of iron to them. 
-<small><sub>**KJV:**</sub></small>
-And the LORD was with Judah; and he drave out [the inhabitants of] the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron.
-<small><sub>**BSB:**</sub></small>
-The LORD was with Judah, and they took possession of the hill country; but they could not drive out the inhabitants of the plains because they had chariots of iron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.18|<< Judges 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.20|Judges 1:20 >>]]</td></tr></table>
 
 | Translation | Greek |

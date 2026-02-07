@@ -1,4 +1,4 @@
-**Leviticus 10:2** 
+**Leviticus 10:2**<big><big>[[Lev.10.1 The Sin of Nadab and Abihu|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there went out fire from the LORD, and devoured them, and they died before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So fire came out from the presence of the LORD and consumed them, and they died 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.1|<< Leviticus 10:1]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.3|Leviticus 10:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it went out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318L\|תֵּ֥צֵא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.tze'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fire  |**<big>&#8207;[[H0784\|אֵ֛שׁ]]&#8207; </big>**| 'esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

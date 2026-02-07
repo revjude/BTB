@@ -1,10 +1,7 @@
 **LXX Exodus 35:22** 
 <small><sub>**LXX:**</sub></small>
 And the men brought from the women every \[thing\] which seemed \[good\] in \[their\] thought. They brought seals, and ear-rings, and rings, and wreaths, and right armbands -- every item of gold. 
-<small><sub>**KJV:**</sub></small>
-And they came, both men and women, as many as were willing hearted, [and] brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered [offered] an offering of gold unto the LORD.
-<small><sub>**BSB:**</sub></small>
-So all who had willing hearts, both men and women, came and brought brooches and earrings, rings and necklaces, and all kinds of gold jewelry. And they all presented their gold as a wave offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.21|<< Exodus 35:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.23|Exodus 35:23 >>]]</td></tr></table>
 
 | Translation | Greek |

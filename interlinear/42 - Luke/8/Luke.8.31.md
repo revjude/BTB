@@ -1,12 +1,12 @@
-**Luke 8:31
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:31**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they besought him that he would not command them to go out into the deep.
 <small><sub>**BSB:**</sub></small>
 And the demons kept begging Jesus not to order them to go into the Abyss.
 <small><sub>**Literal:**</sub></small>
 And they were begging Him that not he would command to them into the abyss to go away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.30|<< Luke 8:30]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.32|Luke 8:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were begging [^1] |**<big>[[G3870\|παρεκάλουν]]</big>**  |parekaloun <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

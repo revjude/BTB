@@ -1,4 +1,4 @@
-**1 Kings 16:28** 
+**1 Kings 16:28**<big><big>[[1Kgs.16.21 Omri Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Omri slept with his fathers, and was buried in Samaria: and Ahab his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Omri rested with his fathers and was buried in Samaria, and his son Ahab rei
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.27|<< 1 Kings 16:27]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.29|1 Kings 16:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lay down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901J\|יִּשְׁכַּ֤ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Omri  |**<big>&#8207;[[H6018G\|עָמְרִי֙]]&#8207; </big>**| 'a.me.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

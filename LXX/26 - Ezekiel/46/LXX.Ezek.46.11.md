@@ -1,10 +1,7 @@
 **LXX Ezekiel 46:11** 
 <small><sub>**LXX:**</sub></small>
 And in the holidays and in the festivals there shall be the gift cake \[offering\] for the calf, and a cake \[offering\] for the ram, and for the lambs -- as his hand should furnish, and of olive oil -- a hin to the cake. 
-<small><sub>**KJV:**</sub></small>
-And in the feasts and in the solemnities the meat offering shall be an ephah to a bullock, and an ephah to a ram, and to the lambs as he is able to give, and an hin of oil to an ephah.
-<small><sub>**BSB:**</sub></small>
-At the festivals and appointed feasts, the grain offering shall be an ephah with a bull, an ephah with a ram, and as much as one is able to give with the lambs, along with a hin of oil per ephah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.46.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.46.10|<< Ezekiel 46:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.46.12|Ezekiel 46:12 >>]]</td></tr></table>
 
 | Translation | Greek |

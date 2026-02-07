@@ -1,4 +1,4 @@
-**Exodus 22:12** (22:11)
+**Exodus 22:12**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if it be stolen from him, he shall make restitution unto the owner thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if the animal was actually stolen from the neighbor, he must make restitutio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.11|<< Exodus 22:11]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.13|Exodus 22:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to steal>  |**<big>&#8207;[[H1589\|גָּנֹ֥ב]]&#8207; </big>**| ga.No<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

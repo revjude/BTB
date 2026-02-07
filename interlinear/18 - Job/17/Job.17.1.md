@@ -1,4 +1,4 @@
-**Job 17:1** 
+**Job 17:1**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My breath is corrupt, my days are extinct, the graves [are ready] for me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My breath is corrupt, my days are extinct, the graves [are ready] for me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.22|<< Job 16:22]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.2|Job 17:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | spirit my  |**<big>&#8207;[[H7307G\|רוּחִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ru.Ch<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is broken  |**<big>&#8207;[[H2254B\|חֻ֭בָּלָה]]&#8207; </big>**| Chu.ba.lah<small><sup>[[HVPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

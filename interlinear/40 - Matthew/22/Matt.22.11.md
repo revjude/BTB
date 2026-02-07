@@ -1,12 +1,12 @@
-**Matthew 22:11
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:11**<big><big>[[Matt.22.1 The Parable of the Banquet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the king came in to see the guests, he saw there a man which had not on a wedding garment:
 <small><sub>**BSB:**</sub></small>
 But when the king came in to see the guests, he spotted a man who was not dressed in wedding clothes.
 <small><sub>**Literal:**</sub></small>
 Having entered in then the king to see those reclining he saw there a man not being dressed himself in clothes of wedding<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.10|<< Matthew 22:10]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.12|Matthew 22:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having entered in |**<big>[[G1525\|Εἰσελθὼν]]</big>**  |Eiselthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

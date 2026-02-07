@@ -1,4 +1,4 @@
-**Exodus 38:25** 
+**Exodus 38:25**<big><big>[[Exod.38.21 An Inventory of Materials|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the silver of them that were numbered of the congregation [was] an hundred talents, and a thousand seven hundred and threescore and fifteen shekels, after the shekel of the sanctuary:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The silver from those numbered among the congregation totaled 100 talents and 1,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.24|<< Exodus 38:24]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.26|Exodus 38:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] silver of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3701G\|כֶ֛סֶף]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khe.sef<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] were enrolled of  |**<big>&#8207;[[H6485A\|פְּקוּדֵ֥י]]&#8207; </big>**| pe.ku.Dei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

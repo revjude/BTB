@@ -1,10 +1,7 @@
 **LXX Deuteronomy 24:3** 
 <small><sub>**LXX:**</sub></small>
 and the last husband should detest her, and should write to her certificate of divorce scroll, and he should put it into  her hands, and send her from out of  his house; or her last husband should die who took her to himself as wife; 
-<small><sub>**KJV:**</sub></small>
-And [if] the latter husband hate her, and write her a bill of divorcement, and giveth [it] in her hand, and sendeth her out of his house; or if the latter husband die, which took her [to be] his wife;
-<small><sub>**BSB:**</sub></small>
-and the second man hates her, writes her a certificate of divorce, hands it to her, and sends her away from his house, or if he dies,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.24.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.24.2|<< Deuteronomy 24:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.24.4|Deuteronomy 24:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 24:3** is...

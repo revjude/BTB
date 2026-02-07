@@ -1,5 +1,5 @@
-**Acts 7:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:10**<big><big>[[Acts.7.9 Joseph Sold into Egypt|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And delivered him out of all his afflictions, and gave him favour and wisdom in the sight of Pharaoh king of Egypt; and he made him governor over Egypt and all his house.
 <small><sub>**BSB:**</sub></small>
 and rescued him from all his troubles. He granted Joseph favor and wisdom in the sight of Pharaoh king of Egypt, who appointed him ruler over Egypt and all his household.
@@ -10,7 +10,7 @@ and rescued him out of all the tribulations of him and gave to him favor and wis
 > $\quad$ alluding to: [[LXX.Gen.41.37|Gen 41:37]] ☩ [[LXX.Gen.41.40|Gen 41:40]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | rescued |**<big>[[G1807\|ἐξείλατο]]</big>**  [^1] |exeilato <small><sup>[[V-2AMI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

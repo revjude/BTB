@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And now, O Israel, hear the ordinances and the judgments! as many as I teach you today to do, that you should live and manifoldly multiply; and entering should be heir to the land which \[the\] <span class="smallcaps">lord</span>  God  of your fathers gives to you. 
-<small><sub>**KJV:**</sub></small>
-Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do [them], that ye may live, and go in and possess the land which the LORD God of your fathers giveth you.
-<small><sub>**BSB:**</sub></small>
-Hear now, O Israel, the statutes and ordinances I am teaching you to follow, so that you may live and may enter and take possession of the land that the LORD, the God of your fathers, is giving you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.29|<< Deuteronomy 3:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.2|Deuteronomy 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

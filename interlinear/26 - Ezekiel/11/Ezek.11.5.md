@@ -1,4 +1,4 @@
-**Ezekiel 11:5** 
+**Ezekiel 11:5**<big><big>[[Ezek.11.1 Evil in High Places|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Spirit of the LORD fell upon me, and said unto me, Speak; Thus saith the LORD; Thus have ye said, O house of Israel: for I know the things that come into your mind, [every one of] them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the Spirit of the LORD fell upon me and told me to declare that this is what
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.4|<< Ezekiel 11:4]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.6|Ezekiel 11:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it fell  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5307G\|תִּפֹּ֣ל]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Pol<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on me  |**<big>&#8207;[[H5921A\|עָלַ]]&#8207;&#8207;[[H9030\|י֮]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 71:11** 
+**Psalms 71:11**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Saying, God hath forsaken him: persecute and take him; for [there is] none to deliver [him].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ saying, “God has forsaken him; pursue him and seize him, for there is no one t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.10|<< Psalms 71:10]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.12|Psalms 71:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> saying  |**<big>&#8207;[[H9005\|לֵ֭]]&#8207;&#8207;[[H0559\|אמֹר]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> mor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֣ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

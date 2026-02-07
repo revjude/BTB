@@ -1,4 +1,4 @@
-**2 Kings 5:23** 
+**2 Kings 5:23**<big><big>[[2Kgs.5.15 Gehazi’s Greed and Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Naaman said, Be content, take two talents. And he urged him, and bound two talents of silver in two bags, with two changes of garments, and laid [them] upon two of his servants; and they bare [them] before him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Naaman insisted, “Please, take two talents.” And he urged Gehazi to acce
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.22|<< 2 Kings 5:22]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.24|2 Kings 5:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Naaman  |**<big>&#8207;[[H5283I\|נַעֲמָ֔ן]]&#8207; </big>**| na.'a.Man<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

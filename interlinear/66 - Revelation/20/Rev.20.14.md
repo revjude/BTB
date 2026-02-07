@@ -1,12 +1,12 @@
-**Revelation 20:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 20:14**<big><big>[[Rev.20.11 Judgment before the Great White Throne|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And death and hell were cast into the lake of fire. This is the second death.
 <small><sub>**BSB:**</sub></small>
 Then Death and Hades were thrown into the lake of fire. This is the second death—the lake of fire.
 <small><sub>**Literal:**</sub></small>
 And <the> Death and <the> Hades were cast into the lake <the> of fire; This the death <the> second is the lake <the> of fire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.13|<< Revelation 20:13]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.15|Revelation 20:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

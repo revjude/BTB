@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:40** 
 <small><sub>**LXX:**</sub></small>
 And I will ordain with them an everlasting covenant which in no way shall I turn behind them. And  I will put my fear in  their heart, to  not separate them from me. 
-<small><sub>**KJV:**</sub></small>
-And I will make an everlasting covenant with them, that I will not turn away from them, to do them good; but I will put my fear in their hearts, that they shall not depart from me.
-<small><sub>**BSB:**</sub></small>
-I will make an everlasting covenant with them: I will never turn away from doing good to them, and I will put My fear in their hearts, so that they will never turn away from Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.39|<< Jeremiah 32:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.41|Jeremiah 32:41 >>]]</td></tr></table>
 
 | Translation | Greek |

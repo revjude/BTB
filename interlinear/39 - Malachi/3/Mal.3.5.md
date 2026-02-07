@@ -1,4 +1,4 @@
-**Malachi 3:5** 
+**Malachi 3:5**<big><big>[[Mal.3.1 I Will Send My Messenger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in [his] wages, the widow, and the fatherless, and that turn aside the stranger [from his right], and fear not me, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will come near to you to judgment; and I will be a swift witness against t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.4|<< Malachi 3:4]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.6|Malachi 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will draw near  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7126G\|קָרַבְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ka.rav.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9036\|כֶם֮]]&#8207; </big>**| 'a.lei.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

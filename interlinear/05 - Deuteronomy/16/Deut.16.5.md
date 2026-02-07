@@ -1,4 +1,4 @@
-**Deuteronomy 16:5** 
+**Deuteronomy 16:5**<big><big>[[Deut.16.1 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou mayest not sacrifice the passover within any of thy gates, which the LORD thy God giveth thee:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are not to sacrifice the Passover animal in any of the towns that the LORD y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.4|<< Deuteronomy 16:4]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.6|Deuteronomy 16:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will be able  |**<big>&#8207;[[H3201\|תוּכַ֖ל]]&#8207; </big>**| tu.Khal<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

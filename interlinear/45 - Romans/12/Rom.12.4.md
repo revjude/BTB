@@ -1,12 +1,12 @@
-**Romans 12:4
-**<small><sub>**KJV:**</sub></small>
+**Romans 12:4**<big><big>[[Rom.12.1 Living Sacrifices|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For as we have many members in one body, and all members have not the same office:
 <small><sub>**BSB:**</sub></small>
 Just as each of us has one body with many members, and not all members have the same function,
 <small><sub>**Literal:**</sub></small>
 Just as for in one body many members we have, <the> now the members all not the same have function,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.3|<< Romans 12:3]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.5|Romans 12:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Just as |**<big>[[G2509\|καθάπερ]]</big>**  |kathaper <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Joel 2:7** 
+**Joel 2:7**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall run like mighty men; they shall climb the wall like men of war; and they shall march every one on his ways, and they shall not break their ranks:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They charge like mighty men; they scale the walls like men of war. Each one marc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.6|<< Joel 2:6]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.8|Joel 2:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like warriors  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1368\|גִבּוֹרִ֣ים]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> gi.bo.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they run !  |**<big>&#8207;[[H7323G\|יְרֻצ֔וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| ye.ru.Tzu<small><sup>[[HVqi3mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Proverbs 4:3** 
+**Proverbs 4:3**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I was my father’s son, tender and only [beloved] in the sight of my mother.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I was a son to my father, tender and the only child of my mother,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.2|<< Proverbs 4:2]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.4|Proverbs 4:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a son  |**<big>&#8207;[[H1121A\|בֵ֭ן]]&#8207; </big>**| ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

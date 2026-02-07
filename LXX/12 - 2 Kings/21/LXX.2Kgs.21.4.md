@@ -1,10 +1,7 @@
 **LXX 2 Kings 21:4** 
 <small><sub>**LXX:**</sub></small>
 And he built an altar in \[the\] house of \[the\] <span class="smallcaps">lord</span>, in which he said, In Jerusalem I will establish  my name. 
-<small><sub>**KJV:**</sub></small>
-And he built altars in the house of the LORD, of which the LORD said, In Jerusalem will I put my name.
-<small><sub>**BSB:**</sub></small>
-Manasseh also built altars in the house of the LORD, of which the LORD had said, “In Jerusalem I will put My Name.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.3|<< 2 Kings 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.5|2 Kings 21:5 >>]]</td></tr></table>
 
 | Translation | Greek |

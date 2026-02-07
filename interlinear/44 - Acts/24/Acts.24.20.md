@@ -1,12 +1,12 @@
-**Acts 24:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 24:20**<big><big>[[Acts.24.10 Paul’s Defense to Felix|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Or else let these same [here] say, if they have found any evil doing in me, while I stood before the council,
 <small><sub>**BSB:**</sub></small>
 Otherwise, let these men state for themselves any crime they found in me when I stood before the Sanhedrin,
 <small><sub>**Literal:**</sub></small>
 Otherwise themselves it they should say if any they found in me myself unrighteousness when was standing I before the Council,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.19|<< Acts 24:19]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.21|Acts 24:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Otherwise |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | themselves |**<big>[[G0846\|αὐτοὶ]]</big>**  |autoi <small><sup>[[P-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

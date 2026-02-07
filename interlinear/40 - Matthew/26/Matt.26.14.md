@@ -1,12 +1,12 @@
-**Matthew 26:14
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:14**<big><big>[[Matt.26.14 Judas Agrees to Betray Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then one of the twelve, called Judas Iscariot, went unto the chief priests,
 <small><sub>**BSB:**</sub></small>
 Then one of the Twelve, the one called Judas Iscariot, went to the chief priests
 <small><sub>**Literal:**</sub></small>
 Then having gone one of the Twelve, the [one] being named Judas Iscariot, to the chief priests<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.13|<< Matthew 26:13]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.15|Matthew 26:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone |**<big>[[G4198\|πορευθεὶς]]</big>**  |poreutheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

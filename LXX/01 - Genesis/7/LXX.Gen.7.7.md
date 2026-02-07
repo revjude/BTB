@@ -1,10 +1,7 @@
 **LXX Genesis 7:7** 
 <small><sub>**LXX:**</sub></small>
 And Noah entered, and  his sons, and  his wife, and the wives  of his sons with him, into the ark, because of the water of the flood. 
-<small><sub>**KJV:**</sub></small>
-And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, because of the waters of the flood.
-<small><sub>**BSB:**</sub></small>
-And Noah and his wife, with his sons and their wives, entered the ark to escape the waters of the flood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.6|<< Genesis 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.8|Genesis 7:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 7:7** is...

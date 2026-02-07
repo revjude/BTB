@@ -1,12 +1,12 @@
-**Mark 6:11
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:11**<big><big>[[Mark.6.7 The Ministry of the Twelve|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whosoever shall not receive you, nor hear you, when ye depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.
 <small><sub>**BSB:**</sub></small>
 If anyone will not welcome you or listen to you, shake the dust off your feet when you leave that place, as a testimony against them.”
 <small><sub>**Literal:**</sub></small>
 And whatever maybe place not he may receive you nor may hear you, departing from there do shake off the dust which [is] under the feet of you for a testimony against them. Amen I say to you more tolerable will be for Sodom or for Gomorrah in day of judgment than for the for city that [one].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.10|<< Mark 6:10]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.12|Mark 6:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whatever [^1] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

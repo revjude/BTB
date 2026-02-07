@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:21** 
 <small><sub>**LXX:**</sub></small>
 And Saul said to them, Being blessed \[are\] you to the <span class="smallcaps">lord</span>, for you toiled on account of me. 
-<small><sub>**KJV:**</sub></small>
-And Saul said, Blessed [be] ye of the LORD; for ye have compassion on me.
-<small><sub>**BSB:**</sub></small>
-“May you be blessed by the LORD,” replied Saul, “for you have had compassion on me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.20|<< 1 Samuel 23:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.22|1 Samuel 23:22 >>]]</td></tr></table>
 
 | Translation | Greek |

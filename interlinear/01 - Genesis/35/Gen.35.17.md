@@ -1,4 +1,4 @@
-**Genesis 35:17** 
+**Genesis 35:17**<big><big>[[Gen.35.16 Benjamin Born, Rachel Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when she was in hard labour, that the midwife said unto her, Fear not; thou shalt have this son also.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ During her severe labor, the midwife said to her, “Do not be afraid, for you a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.16|<< Genesis 35:16]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.18|Genesis 35:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֥י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when had difficulties she  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7185\|הַקְשֹׁתָ֖]]&#8207;&#8207;[[H9044\|הּ]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> hak.sho.Ta<small><sup>[[HVhcc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

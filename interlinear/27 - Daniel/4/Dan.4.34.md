@@ -1,4 +1,4 @@
-**Daniel 4:34** (4:31)
+**Daniel 4:34**<big><big>[[Dan.4.34 Nebuchadnezzar Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at the end of the days I Nebuchadnezzar lifted up mine eyes unto heaven, and mine understanding returned unto me, and I blessed the most High, and I praised and honoured him that liveth for ever, whose dominion [is] an everlasting dominion, and his kingdom [is] from generation to generation:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But at the end of those days I, Nebuchadnezzar, looked up to heaven, and my sani
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.33|<< Daniel 4:33]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.35|Daniel 4:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to [the] end of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7118\|קְצָ֣ת]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> li<small><sup>[[AR]]</sup></small> k.Tzat<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | days the  |**<big>&#8207;[[H3118\|יֽוֹמַיָּ]]&#8207;&#8207;[[H9010\|ה֩]]&#8207; </big>**| yo.mai.Yah<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

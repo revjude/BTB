@@ -1,10 +1,7 @@
 **LXX Isaiah 53:11** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> willed by his hand to remove misery  of his soul, to show to him light, and to shape in the understanding; to justify \[the\] just one, \[the\] good one serving many, and  he shall bear their sins. 
-<small><sub>**KJV:**</sub></small>
-He shall see of the travail of his soul, [and] shall be satisfied: by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.
-<small><sub>**BSB:**</sub></small>
-After the anguish of His soul, He will see the light of life and be satisfied. By His knowledge My righteous Servant will justify many, and He will bear their iniquities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.53.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.10|<< Isaiah 53:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.12|Isaiah 53:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:2** 
 <small><sub>**LXX:**</sub></small>
 And the woman rose up, and did according to the saying of the man  of God. And she went and  her household, and sojourned in \[the\] land of \[the\] philistines seven years. 
-<small><sub>**KJV:**</sub></small>
-And the woman arose, and did after the saying of the man of God: and she went with her household, and sojourned in the land of the Philistines seven years.
-<small><sub>**BSB:**</sub></small>
-So the woman had proceeded to do as the man of God had instructed. And she and her household lived as foreigners for seven years in the land of the Philistines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.1|<< 2 Kings 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.3|2 Kings 8:3 >>]]</td></tr></table>
 
 | Translation | Greek |

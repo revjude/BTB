@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:35** 
 <small><sub>**LXX:**</sub></small>
 \[Shall\] any of these wicked men see  this good land which I swore by an oath \[to\] their fathers, \[no\]. 
-<small><sub>**KJV:**</sub></small>
-Surely there shall not one of these men of this evil generation see that good land, which I sware to give unto your fathers,
-<small><sub>**BSB:**</sub></small>
-“Not one of the men of this evil generation shall see the good land I swore to give your fathers,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.34|<< Deuteronomy 1:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.36|Deuteronomy 1:36 >>]]</td></tr></table>
 
 | Translation | Greek |

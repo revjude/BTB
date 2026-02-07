@@ -1,5 +1,5 @@
-**Hebrews 8:9
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 8:9**<big><big>[[Heb.8.6 The New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord.
 <small><sub>**BSB:**</sub></small>
 It will not be like the covenant I made with their fathers when I took them by the hand to lead them out of the land of Egypt, because they did not abide by My covenant, and I disregarded them, declares the Lord.
@@ -10,7 +10,7 @@ not according to the covenant that I made the with fathers of them in [the] day 
 > $\quad$ referencing: [[LXX.Jer.31.31|Jer 31:31-34]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | according to |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

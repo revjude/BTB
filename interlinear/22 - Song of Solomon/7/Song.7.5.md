@@ -1,4 +1,4 @@
-**Song of Solomon 7:5** (7:6)
+**Song of Solomon 7:5**<big><big>[[Song.7.1 Admiration by the Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine head upon thee [is] like Carmel, and the hair of thine head like purple; the king [is] held in the galleries.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your head crowns you like Mount Carmel, the hair of your head like purple thread
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.4|<< Song of Solomon 7:4]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.6|Song of Solomon 7:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | head your  |**<big>&#8207;[[H7218A\|רֹאשֵׁ֤]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ro.She<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עָלַ֙יִ]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 44:17** 
+**Genesis 44:17**<big><big>[[Gen.44.1 Benjamin and the Silver Cup|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, God forbid that I should do so: [but] the man in whose hand the cup is found, he shall be my servant; and as for you, get you up in peace unto your father.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Joseph replied, “Far be it from me to do this. The man who was found with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.16|<< Genesis 44:16]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.18|Genesis 44:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֕אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | far be it  |**<big>&#8207;[[H2486\|חָלִ֣ילָה]]&#8207; </big>**| cha.Li.lah<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

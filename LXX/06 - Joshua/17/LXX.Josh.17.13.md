@@ -1,10 +1,7 @@
 **LXX Joshua 17:13** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when the sons of Israel grew strong that they made the Canaanites subjects; and \[as\] to utterly destroy, they did not utterly destroy them. 
-<small><sub>**KJV:**</sub></small>
-Yet it came to pass, when the children of Israel were waxen strong, that they put the Canaanites to tribute; but did not utterly drive them out.
-<small><sub>**BSB:**</sub></small>
-However, when the Israelites grew stronger, they put the Canaanites to forced labor; but they failed to drive them out completely.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.17.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.12|<< Joshua 17:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.14|Joshua 17:14 >>]]</td></tr></table>
 
 | Translation | Greek |

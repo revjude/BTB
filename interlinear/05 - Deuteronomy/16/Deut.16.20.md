@@ -1,4 +1,4 @@
-**Deuteronomy 16:20** 
+**Deuteronomy 16:20**<big><big>[[Deut.16.18 Judges and Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That which is altogether just shalt thou follow, that thou mayest live, and inherit the land which the LORD thy God giveth thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pursue justice, and justice alone, so that you may live, and you may possess the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.16.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.16.19|<< Deuteronomy 16:19]]</td><td align="center" style="border:none;">[[Deut.16|Deuteronomy 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.16.21|Deuteronomy 16:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | righteousness  |**<big>&#8207;[[H6664G\|צֶ֥דֶק]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | righteousness  |**<big>&#8207;[[H6664G\|צֶ֖דֶק]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

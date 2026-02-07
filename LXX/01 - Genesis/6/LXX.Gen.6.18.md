@@ -1,10 +1,7 @@
 **LXX Genesis 6:18** 
 <small><sub>**LXX:**</sub></small>
 And I will establish  my covenant with you. And you shall enter into the ark, you and  your sons, and  your wife, and the wives  of your sons with you. 
-<small><sub>**KJV:**</sub></small>
-But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’ wives with thee.
-<small><sub>**BSB:**</sub></small>
-But I will establish My covenant with you, and you will enter the ark—you and your sons and your wife and your sons’ wives with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.6.17|<< Genesis 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.6.19|Genesis 6:19 >>]]</td></tr></table>
 
 | Translation | Greek |

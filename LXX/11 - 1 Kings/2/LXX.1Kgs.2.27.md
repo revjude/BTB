@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:27** 
 <small><sub>**LXX:**</sub></small>
 And Solomon cast out  Abiathar \[so that\] he would not be for priest to the <span class="smallcaps">lord</span>; \[to\] fulfill the saying of \[the\] <span class="smallcaps">lord</span>, which he said concerning the house of Eli in Shiloh. 
-<small><sub>**KJV:**</sub></small>
-So Solomon thrust out Abiathar from being priest unto the LORD; that he might fulfil the word of the LORD, which he spake concerning the house of Eli in Shiloh.
-<small><sub>**BSB:**</sub></small>
-So Solomon banished Abiathar from the priesthood of the LORD and thus fulfilled the word that the LORD had spoken at Shiloh against the house of Eli.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.26|<< 1 Kings 2:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.28|1 Kings 2:28 >>]]</td></tr></table>
 
 | Translation | Greek |

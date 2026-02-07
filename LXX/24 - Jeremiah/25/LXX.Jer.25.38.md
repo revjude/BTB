@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:38** 
 <small><sub>**LXX:**</sub></small>
 He abandoned his lodging as a lion, for their land became an untrodden \[place\] from in front of the great sword. 
-<small><sub>**KJV:**</sub></small>
-He hath forsaken his covert, as the lion: for their land is desolate because of the fierceness of the oppressor, and because of his fierce anger.
-<small><sub>**BSB:**</sub></small>
-He has left His den like a lion, for their land has been made a desolation by the sword of the oppressor, and because of the fierce anger of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.37|<< Jeremiah 25:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.1|Jeremiah 26:1 >>]]</td></tr></table>
 
 | Translation | Greek |

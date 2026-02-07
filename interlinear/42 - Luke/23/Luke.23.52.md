@@ -1,12 +1,12 @@
-**Luke 23:52
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:52**<big><big>[[Luke.23.50 The Burial of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This [man] went unto Pilate, and begged the body of Jesus.
 <small><sub>**BSB:**</sub></small>
 He went to Pilate to ask for the body of Jesus.
 <small><sub>**Literal:**</sub></small>
 He having gone <the> to Pilate asked [for] the body <the> of Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.51|<< Luke 23:51]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.53|Luke 23:53 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone |**<big>[[G4334\|προσελθὼν]]</big>**  |proselthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

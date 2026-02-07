@@ -1,4 +1,4 @@
-**Jeremiah 42:12** 
+**Jeremiah 42:12**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will shew mercies unto you, that he may have mercy upon you, and cause you to return to your own land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will show you compassion, and he will have compassion on you and restore y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.11|<< Jeremiah 42:11]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.13|Jeremiah 42:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so I may give  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5414G\|אֶתֵּ֥ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'e.Ten<small><sup>[[HVqu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֛ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

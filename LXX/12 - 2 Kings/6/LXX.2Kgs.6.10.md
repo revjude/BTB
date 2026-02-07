@@ -1,10 +1,7 @@
 **LXX 2 Kings 6:10** 
 <small><sub>**LXX:**</sub></small>
 And the king of Israel sent to the place which the man of God told him. And he guarded from there not once nor twice. 
-<small><sub>**KJV:**</sub></small>
-And the king of Israel sent to the place which the man of God told him and warned him of, and saved himself there, not once nor twice.
-<small><sub>**BSB:**</sub></small>
-So the king of Israel sent word to the place the man of God had pointed out. Time and again Elisha warned the king, so that he was on his guard in such places.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.9|<< 2 Kings 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.11|2 Kings 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

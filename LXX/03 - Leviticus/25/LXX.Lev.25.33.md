@@ -1,10 +1,7 @@
 **LXX Leviticus 25:33** 
 <small><sub>**LXX:**</sub></small>
 And what ever should be ransomed by of the Levites, then the sale of houses of \[the\] city of their possession shall go forth unto the release. For \[the\] houses of the cities of the Levites -- this \[is\]  their possession in \[the\] midst of \[the\] sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And if a man purchase of the Levites, then the house that was sold, and the city of his possession, shall go out in [the year of] jubile: for the houses of the cities of the Levites [are] their possession among the children of Israel.
-<small><sub>**BSB:**</sub></small>
-So whatever belongs to the Levites may be redeemed—a house sold in a city they possess—and must be released in the Jubilee, because the houses in the cities of the Levites are their possession among the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.25.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.25.32|<< Leviticus 25:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.25.34|Leviticus 25:34 >>]]</td></tr></table>
 
 | Translation | Greek |

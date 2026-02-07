@@ -1,10 +1,7 @@
 **LXX Numbers 30:4** 
 <small><sub>**LXX:**</sub></small>
 and her father should hear  her vows, and  her sets of limits which she confirmed on  her life, and her father should remain silent, then shall stand all the \[matters\] of her vows, and all the sets of limits which she confirmed on  her life she shall abide by. 
-<small><sub>**KJV:**</sub></small>
-And her father hear her vow, and her bond wherewith she hath bound her soul, and her father shall hold his peace at her: then all her vows shall stand, and every bond wherewith she hath bound her soul shall stand.
-<small><sub>**BSB:**</sub></small>
-and her father hears about her vow or pledge but says nothing to her, then all the vows or pledges by which she has bound herself shall stand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.30.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.3|<< Numbers 30:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.5|Numbers 30:5 >>]]</td></tr></table>
 
 | Translation | Greek |

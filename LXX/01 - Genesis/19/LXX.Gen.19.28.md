@@ -1,10 +1,7 @@
 **LXX Genesis 19:28** 
 <small><sub>**LXX:**</sub></small>
 And he looked upon \[the\] face of Sodom and Gomorrah, and upon \[the\] face of the place round about. And he saw. And behold, a flame ascended from out of the earth, as vapor of a furnace. 
-<small><sub>**KJV:**</sub></small>
-And he looked toward Sodom and Gomorrah, and toward all the land of the plain, and beheld, and, lo, the smoke of the country went up as the smoke of a furnace.
-<small><sub>**BSB:**</sub></small>
-He looked down toward Sodom and Gomorrah and all the land of the plain, and he saw the smoke rising from the land like smoke from a furnace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.27|<< Genesis 19:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.29|Genesis 19:29 >>]]</td></tr></table>
 
 | Translation | Greek |

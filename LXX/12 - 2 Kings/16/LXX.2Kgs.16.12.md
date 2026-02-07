@@ -1,10 +1,7 @@
 **LXX 2 Kings 16:12** 
 <small><sub>**LXX:**</sub></small>
 And the king came from Damascus. And the king beheld the altar. And the king drew near to the altar, and ascended unto it. 
-<small><sub>**KJV:**</sub></small>
-And when the king was come from Damascus, the king saw the altar: and the king approached to the altar, and offered thereon.
-<small><sub>**BSB:**</sub></small>
-When the king came back from Damascus and saw the altar, he approached it and presented offerings on it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.16.11|<< 2 Kings 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.13|2 Kings 16:13 >>]]</td></tr></table>
 
 | Translation | Greek |

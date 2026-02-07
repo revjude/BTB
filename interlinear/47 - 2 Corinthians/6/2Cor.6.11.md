@@ -1,5 +1,5 @@
-**2 Corinthians 6:11
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 6:11**<big><big>[[2Cor.6.1 Paul’s Hardships and God’s Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 O [ye] Corinthians, our mouth is open unto you, our heart is enlarged.
 <small><sub>**BSB:**</sub></small>
 We have spoken freely to you, Corinthians. Our hearts are open wide.
@@ -10,7 +10,7 @@ The mouth of us has been opened to you, Corinthians, the heart of us has been ex
 > $\quad$ referencing: [[LXX.Ps.119.32|Ps 119:32]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Τὸ]]</big>**  |To <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | mouth |**<big>[[G4750\|στόμα]]</big>**  |stoma <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

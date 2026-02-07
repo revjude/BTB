@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:25** 
 <small><sub>**LXX:**</sub></small>
 From which day their fathers went forth from out of \[the\] land of Egypt, and until  this day, even I sent to you all  my servants of the prophets by day; and at dawn also I sent. 
-<small><sub>**KJV:**</sub></small>
-Since the day that your fathers came forth out of the land of Egypt unto this day I have even sent unto you all my servants the prophets, daily rising up early and sending [them]:
-<small><sub>**BSB:**</sub></small>
-From the day your fathers came out of the land of Egypt until this day, I have sent you all My servants the prophets again and again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.24|<< Jeremiah 7:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.26|Jeremiah 7:26 >>]]</td></tr></table>
 
 | Translation | Greek |

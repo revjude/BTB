@@ -1,12 +1,12 @@
-**Romans 2:10
-**<small><sub>**KJV:**</sub></small>
+**Romans 2:10**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But glory, honour, and peace, to every man that worketh good, to the Jew first, and also to the Gentile:
 <small><sub>**BSB:**</sub></small>
 but glory, honor, and peace for everyone who does good, first for the Jew, then for the Greek.
 <small><sub>**Literal:**</sub></small>
 glory however and honor and peace to everyone who is doing <the> good, to Jew both first and to Greek;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.9|<< Romans 2:9]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.11|Romans 2:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | glory |**<big>[[G1391\|δόξα]]</big>**  |doxa <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

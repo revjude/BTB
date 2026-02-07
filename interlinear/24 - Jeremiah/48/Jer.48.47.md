@@ -1,4 +1,4 @@
-**Jeremiah 48:47** 
+**Jeremiah 48:47**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet will I bring again the captivity of Moab in the latter days, saith the LORD. Thus far [is] the judgment of Moab.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet in the latter days I will restore Moab from captivity,” declares the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.46|<< Jeremiah 48:46]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.1|Jeremiah 49:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will turn back  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725H\|שַׁבְתִּ֧י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shav.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] captivity of  |**<big>&#8207;[[H7622\|שְׁבוּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.vut-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

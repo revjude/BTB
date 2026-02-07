@@ -1,4 +1,4 @@
-**Judges 2:13** 
+**Judges 2:13**<big><big>[[Judg.2.10 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they forsook the LORD, and served Baal and Ashtaroth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for they forsook Him and served Baal and the Ashtoreths.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.12|<< Judges 2:12]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.14|Judges 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they forsook  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5800A\|יַּעַזְב֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'az.Vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 11:14** 
 <small><sub>**LXX:**</sub></small>
 if there is any lawless \[thing\] in your hands, cause it to be at a distance! and let not injustice lodge in your habitation! 
-<small><sub>**KJV:**</sub></small>
-If iniquity [be] in thine hand, put it far away, and let not wickedness dwell in thy tabernacles.
-<small><sub>**BSB:**</sub></small>
-if you put away the iniquity in your hand, and allow no injustice to dwell in your tents,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.11.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.13|<< Job 11:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.15|Job 11:15 >>]]</td></tr></table>
 
 | Translation | Greek |

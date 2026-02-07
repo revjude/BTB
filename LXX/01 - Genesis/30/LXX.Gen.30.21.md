@@ -1,10 +1,7 @@
 **LXX Genesis 30:21** 
 <small><sub>**LXX:**</sub></small>
 And after this she bore a daughter, and she called  her name, Dinah. 
-<small><sub>**KJV:**</sub></small>
-And afterwards she bare a daughter, and called her name Dinah.
-<small><sub>**BSB:**</sub></small>
-After that, Leah gave birth to a daughter and named her Dinah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.20|<< Genesis 30:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.22|Genesis 30:22 >>]]</td></tr></table>
 
 | Translation | Greek |

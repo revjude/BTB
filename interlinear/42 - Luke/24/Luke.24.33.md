@@ -1,12 +1,12 @@
-**Luke 24:33
-**<small><sub>**KJV:**</sub></small>
+**Luke 24:33**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they rose up the same hour, and returned to Jerusalem, and found the eleven gathered together, and them that were with them,
 <small><sub>**BSB:**</sub></small>
 And they got up that very hour and returned to Jerusalem. There they found the Eleven and those with them, gathered together
 <small><sub>**Literal:**</sub></small>
 And having risen up on [that] same <the> hour they returned to Jerusalem and they found gathered the eleven and those with them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.32|<< Luke 24:32]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.34|Luke 24:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having risen up |**<big>[[G0450\|ἀναστάντες]]</big>**  |anastantes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:33** 
 <small><sub>**LXX:**</sub></small>
 And their blood return upon  his head, and upon the head  of his seed unto \[the\] eon! And \[to\] David, and \[to\] his seed, and \[to\] his house, and \[to\] his throne, may there be peace by \[the\] <span class="smallcaps">lord</span> into \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-Their blood shall therefore return upon the head of Joab, and upon the head of his seed for ever: but upon David, and upon his seed, and upon his house, and upon his throne, shall there be peace for ever from the LORD.
-<small><sub>**BSB:**</sub></small>
-Their blood will come back upon the heads of Joab and his descendants forever; but for David, his descendants, his house, and his throne, there shall be peace from the LORD forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.32|<< 1 Kings 2:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.34|1 Kings 2:34 >>]]</td></tr></table>
 
 | Translation | Greek |

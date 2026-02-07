@@ -1,10 +1,7 @@
 **LXX Psalm 139:24** 
 <small><sub>**LXX:**</sub></small>
 and see if \[the\] way of lawlessness \[is\] in me, and guide me in \[the\] eternal way! 
-<small><sub>**KJV:**</sub></small>
-And see if [there be any] wicked way in me, and lead me in the way everlasting.
-<small><sub>**BSB:**</sub></small>
-See if there is any offensive way in me; lead me in the way everlasting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.23|<< Psalm 139:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.1|Psalm 140:1 >>]]</td></tr></table>
 
 | Translation | Greek |

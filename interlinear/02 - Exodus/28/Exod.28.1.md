@@ -1,4 +1,4 @@
-**Exodus 28:1** 
+**Exodus 28:1**<big><big>[[Exod.28.1 Garments for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest’s office, [even] Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron’s sons.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And take thou unto thee Aaron thy brother, and his sons with him, from among the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.21|<< Exodus 27:21]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.2|Exodus 28:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֡ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bring near  |**<big>&#8207;[[H7126H\|הַקְרֵ֣ב]]&#8207; </big>**| hak.Rev<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

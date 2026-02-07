@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Joshua, You should not fear, nor should you be timid. Take with you all the men, the ones making war, and rising up ascend unto Ai! Behold, I give into  your hands the king of Ai, and  his people, and  his city, and  his land. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Joshua, Fear not, neither be thou dismayed: take all the people of war with thee, and arise, go up to Ai: see, I have given into thy hand the king of Ai, and his people, and his city, and his land:
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Joshua, “Do not be afraid or discouraged. Take the whole army with you, and go up and attack Ai. See, I have delivered into your hand the king of Ai, his people, his city, and his land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.26|<< Joshua 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.2|Joshua 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

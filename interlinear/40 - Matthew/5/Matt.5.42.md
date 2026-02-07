@@ -1,12 +1,12 @@
-**Matthew 5:42
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:42**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Give to him that asketh thee, and from him that would borrow of thee turn not thou away.
 <small><sub>**BSB:**</sub></small>
 Give to the one who asks you, and do not turn away from the one who wants to borrow from you.
 <small><sub>**Literal:**</sub></small>
 To the [one] asking you do give and the [one] desiring from you to borrow not may you turn away from.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.41|<< Matthew 5:41]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.43|Matthew 5:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To the [one] |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | asking |**<big>[[G0154\|αἰτοῦντί]]</big>**  |aitounti <small><sup>[[V-PAP-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 28:8** 
 <small><sub>**LXX:**</sub></small>
 The prophets, the ones being prior to me, and prior to you from the eon, and prophesied against much land, and over great kingdoms concerning war, and concerning affliction, and concerning pestilence. 
-<small><sub>**KJV:**</sub></small>
-The prophets that have been before me and before thee of old prophesied both against many countries, and against great kingdoms, of war, and of evil, and of pestilence.
-<small><sub>**BSB:**</sub></small>
-The prophets of old who preceded you and me prophesied war, disaster, and plague against many lands and great kingdoms.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.28.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.28.7|<< Jeremiah 28:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.9|Jeremiah 28:9 >>]]</td></tr></table>
 
 | Translation | Greek |

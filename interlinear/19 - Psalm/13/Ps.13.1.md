@@ -1,12 +1,12 @@
-**Psalms 13:1** (13:2)
+**Psalms 13:1**<big><big>[[Ps.13.1 How Long, O LORD？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm of David. How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?
+How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David. How long, O LORD? Will You forget me forever? How long will You hide Your face from me?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.13.0|<< Psalms 13:0]]</td><td align="center" style="border:none;">[[Ps.13|Psalms 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.13.2|Psalms 13:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when?  |**<big>&#8207;[[H0575\|אָ֣נָה]]&#8207; </big>**| 'A.nah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

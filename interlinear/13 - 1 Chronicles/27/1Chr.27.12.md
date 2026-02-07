@@ -1,4 +1,4 @@
-**1 Chronicles 27:12** 
+**1 Chronicles 27:12**<big><big>[[1Chr.27.1 Twelve Captains for Twelve Months|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ninth [captain] for the ninth month [was] Abiezer the Anetothite, of the Benjamites: and in his course [were] twenty and four thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The ninth, for the ninth month, was Abiezer the Anathothite, a Benjamite. There 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.11|<< 1 Chronicles 27:11]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.13|1 Chronicles 27:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] the ninth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8671\|תְּשִׁיעִי֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.shi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for the month  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2320G\|חֹ֣דֶשׁ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

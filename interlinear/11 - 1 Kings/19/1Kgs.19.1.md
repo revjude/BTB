@@ -1,4 +1,4 @@
-**1 Kings 19:1** 
+**1 Kings 19:1**<big><big>[[1Kgs.19.1 Elijah Flees from Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahab told Jezebel all that Elijah had done, and withal how he had slain all the prophets with the sword.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Now Ahab told Jezebel everything that Elijah had done and how he had killed all 
 > $\quad$ referenced by: [[Heb.11.35|Heb 11:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יַּגֵּ֤ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ged<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ahab  |**<big>&#8207;[[H0256G\|אַחְאָב֙]]&#8207; </big>**| 'ach.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

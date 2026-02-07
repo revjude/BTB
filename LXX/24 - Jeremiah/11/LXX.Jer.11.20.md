@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:20** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span> of the forces, judging just \[things\], trying \[the\] kidneys and \[the\] hearts, may I behold  \[the\] punishment \[exacted\] by you on them. For to you I revealed  my right action. 
-<small><sub>**KJV:**</sub></small>
-But, O LORD of hosts, that judgest righteously, that triest the reins and the heart, let me see thy vengeance on them: for unto thee have I revealed my cause.
-<small><sub>**BSB:**</sub></small>
-O LORD of Hosts, who judges righteously, who examines the heart and mind, let me see Your vengeance upon them, for to You I have committed my cause.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.19|<< Jeremiah 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.21|Jeremiah 11:21 >>]]</td></tr></table>
 
 | Translation | Greek |

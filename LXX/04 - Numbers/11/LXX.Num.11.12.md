@@ -1,10 +1,7 @@
 **LXX Numbers 11:12** 
 <small><sub>**LXX:**</sub></small>
 \[Have\] I conceived in \[the\] womb all  this people, or \[have\] I given birth to them? that you say to me, Take them into  your bosom as a wet-nurse lifts the one being nursed, unto the land which you swore by an oath to their fathers? 
-<small><sub>**KJV:**</sub></small>
-Have I conceived all this people? have I begotten them, that thou shouldest say unto me, Carry them in thy bosom, as a nursing father beareth the sucking child, unto the land which thou swarest unto their fathers?
-<small><sub>**BSB:**</sub></small>
-Did I conceive all these people? Did I give them birth, so that You should tell me, ‘Carry them in your bosom, as a nurse carries an infant,’ to the land that You swore to give their fathers?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.11|<< Numbers 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.13|Numbers 11:13 >>]]</td></tr></table>
 
 | Translation | Greek |

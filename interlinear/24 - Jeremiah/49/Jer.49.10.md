@@ -1,4 +1,4 @@
-**Jeremiah 49:10** 
+**Jeremiah 49:10**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I have made Esau bare, I have uncovered his secret places, and he shall not be able to hide himself: his seed is spoiled, and his brethren, and his neighbours, and he [is] not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I will strip Esau bare; I will uncover his hiding places, and he will be una
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.9|<< Jeremiah 49:9]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.11|Jeremiah 49:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֞י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**2 Corinthians 5:12
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 5:12**<big><big>[[2Cor.5.11 Ambassadors for Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we commend not ourselves again unto you, but give you occasion to glory on our behalf, that ye may have somewhat to [answer] them which glory in appearance, and not in heart.
 <small><sub>**BSB:**</sub></small>
 We are not commending ourselves to you again. Instead, we are giving you an occasion to be proud of us, so that you can answer those who take pride in appearances rather than in the heart.
 <small><sub>**Literal:**</sub></small>
 Not for again ourselves are we commending to you, but occasion are giving to you of boasting on behalf of us, so that you may have [an answer] toward those in appearance boasting and not in [the] heart.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.11|<< 2 Corinthians 5:11]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.13|2 Corinthians 5:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|Οὐ]]</big>**  |Ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

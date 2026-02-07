@@ -1,10 +1,7 @@
 **LXX Proverbs 13:4** 
 <small><sub>**LXX:**</sub></small>
 Every idle \[man\] is with desire; but \[the\] hands of \[the\] vigorous  \[are\] caring. 
-<small><sub>**KJV:**</sub></small>
-The soul of the sluggard desireth, and [hath] nothing: but the soul of the diligent shall be made fat.
-<small><sub>**BSB:**</sub></small>
-The slacker craves yet has nothing, but the soul of the diligent is fully satisfied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.3|<< Proverbs 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.5|Proverbs 13:5 >>]]</td></tr></table>
 
 | Translation | Greek |

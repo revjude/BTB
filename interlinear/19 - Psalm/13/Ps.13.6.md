@@ -1,4 +1,4 @@
-**Psalms 13:6** 
+**Psalms 13:6**<big><big>[[Ps.13.1 How Long, O LORD？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will sing unto the LORD, because he hath dealt bountifully with me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will sing to the LORD, for He has been good to me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.13.5|<< Psalms 13:5]]</td><td align="center" style="border:none;">[[Ps.13|Psalms 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.14.0|Psalms 14:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will sing  |**<big>&#8207;[[H7891\|אָשִׁ֥ירָה]]&#8207; </big>**| 'a.Shi.rah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֑ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

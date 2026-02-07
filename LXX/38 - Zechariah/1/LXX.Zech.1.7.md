@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 On the fourth and twentieth day in the eleventh month, this \[is\] the month Shebat, in the second year unto Darius, came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> to Zechariah, the son of Berechiah, son of Iddo the prophet, saying, 
-<small><sub>**KJV:**</sub></small>
-Upon the four and twentieth day of the eleventh month, which [is] the month Sebat, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,
-<small><sub>**BSB:**</sub></small>
-On the twenty-fourth day of the eleventh month, the month of Shebat, in the second year of Darius, the word of the LORD came to the prophet Zechariah son of Berechiah, the son of Iddo.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.6|<< Zechariah 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.8|Zechariah 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

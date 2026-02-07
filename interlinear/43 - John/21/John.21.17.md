@@ -1,12 +1,12 @@
-**John 21:17
-**<small><sub>**KJV:**</sub></small>
+**John 21:17**<big><big>[[John.21.15 Jesus and Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He saith unto him the third time, Simon, [son] of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.
 <small><sub>**BSB:**</sub></small>
 Jesus asked a third time, “Simon son of John, do you love Me?” Peter was deeply hurt that Jesus had asked him a third time, “Do you love Me?” “Lord, You know all things,” he replied. “You know I love You.” Jesus said to him, “Feed My sheep.
 <small><sub>**Literal:**</sub></small>
 He says to him the third time; Simon [son] of John, do you dearly love Me? Was grieved <the> Peter because He said to him the third time; Do you dearly love Me? And he speaks to Him; Lord, all things You yourself know, You yourself know that I dearly love You. Says to him <the> Jesus; do feed the sheep of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.16|<< John 21:16]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.18|John 21:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

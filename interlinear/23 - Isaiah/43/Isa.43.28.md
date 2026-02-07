@@ -1,4 +1,4 @@
-**Isaiah 43:28** 
+**Isaiah 43:28**<big><big>[[Isa.43.22 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I have profaned the princes of the sanctuary, and have given Jacob to the curse, and Israel to reproaches.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I will disgrace the princes of your sanctuary, and I will devote Jacob to des
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.27|<< Isaiah 43:27]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.1|Isaiah 44:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so I may profane  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2490H\|אֲחַלֵּ֖ל]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.cha.Lel<small><sup>[[HVpu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] officials of  |**<big>&#8207;[[H8269\|שָׂ֣רֵי]]&#8207; </big>**| Sa.rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

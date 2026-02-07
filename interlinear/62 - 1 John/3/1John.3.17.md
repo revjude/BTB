@@ -1,12 +1,12 @@
-**1 John 3:17
-**<small><sub>**KJV:**</sub></small>
+**1 John 3:17**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But whoso hath this world’s good, and seeth his brother have need, and shutteth up his bowels [of compassion] from him, how dwelleth the love of God in him?
 <small><sub>**BSB:**</sub></small>
 If anyone with earthly possessions sees his brother in need, but withholds his compassion from him, how can the love of God abide in him?
 <small><sub>**Literal:**</sub></small>
 Who[ever] now maybe may have the goods of the world and may see the brother of him need having and he may close up the heart of him from him, how the love <the> of God abides in him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.16|<< 1 John 3:16]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.18|1 John 3:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Who[ever] |**<big>[[G3739\|Ὃς]]</big>**  |Hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δ᾽]]</big>**  |d᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Job 38:37** 
 <small><sub>**LXX:**</sub></small>
 And who \[is\] the one counting clouds in wisdom, and leaned \[the\] heaven unto \[the\] earth, 
-<small><sub>**KJV:**</sub></small>
-Who can number the clouds in wisdom? or who can stay the bottles of heaven,
-<small><sub>**BSB:**</sub></small>
-Who has the wisdom to count the clouds? Or who can tilt the water jars of the heavens<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.36|<< Job 38:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.38|Job 38:38 >>]]</td></tr></table>
 
 | Translation | Greek |

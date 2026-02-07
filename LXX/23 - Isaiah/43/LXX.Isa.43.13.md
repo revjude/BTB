@@ -1,10 +1,7 @@
 **LXX Isaiah 43:13** 
 <small><sub>**LXX:**</sub></small>
 even from \[the\] beginning; and there is not one taking from my hands. I will do, and who shall turn it? 
-<small><sub>**KJV:**</sub></small>
-Yea, before the day [was] I [am] he; and [there is] none that can deliver out of my hand: I will work, and who shall let it?
-<small><sub>**BSB:**</sub></small>
-Even from eternity I am He, and none can deliver out of My hand. When I act, who can reverse it?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.12|<< Isaiah 43:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.14|Isaiah 43:14 >>]]</td></tr></table>
 
 | Translation | Greek |

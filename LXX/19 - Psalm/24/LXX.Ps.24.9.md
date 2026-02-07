@@ -1,10 +1,7 @@
 **LXX Psalm 24:9** 
 <small><sub>**LXX:**</sub></small>
 your rulers lift \[the\] gates! and \[the\] eternal gates be lifted up! and the king of glory shall enter. 
-<small><sub>**KJV:**</sub></small>
-Lift up your heads, O ye gates; even lift [them] up, ye everlasting doors; and the King of glory shall come in.
-<small><sub>**BSB:**</sub></small>
-Lift up your heads, O gates! Be lifted up, O ancient doors, that the King of Glory may enter!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.24.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.24.8|<< Psalm 24:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.24.10|Psalm 24:10 >>]]</td></tr></table>
 
 | Translation | Greek |

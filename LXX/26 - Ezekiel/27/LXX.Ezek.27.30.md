@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:30** 
 <small><sub>**LXX:**</sub></small>
 And they shall shout over you  \[with\] their voice, and shall cry out bitterly, and shall place earth upon  their head, and shall spread a bed of ashes. 
-<small><sub>**KJV:**</sub></small>
-And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:
-<small><sub>**BSB:**</sub></small>
-They will raise their voices for you and cry out bitterly. They will throw dust on their heads and roll in ashes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.29|<< Ezekiel 27:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.31|Ezekiel 27:31 >>]]</td></tr></table>
 
 | Translation | Greek |

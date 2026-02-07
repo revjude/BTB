@@ -1,4 +1,4 @@
-**Psalms 45:5** (45:6)
+**Psalms 45:5**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine arrows [are] sharp in the heart of the king’s enemies; [whereby] the people fall under thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your arrows pierce the hearts of the king’s foes; the nations fall beneath you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.4|<< Psalms 45:4]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.6|Psalms 45:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arrows your  |**<big>&#8207;[[H2671\|חִצֶּ֗י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| chi.Tzei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] sharpened  |**<big>&#8207;[[H8150\|שְׁנ֫וּנִ֥ים]]&#8207; </big>**| she.Nu.Nim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

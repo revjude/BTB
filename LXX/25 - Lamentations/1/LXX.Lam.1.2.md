@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΒΗΘ</p>
 
 In weeping, she wept in \[the\] night, and  her tears \[are\] upon  her cheeks, and no one existed  comforting her from all of the ones loving her. All the ones being fond of her discarded  her, they became to her for enemies. 
-<small><sub>**KJV:**</sub></small>
-She weepeth sore in the night, and her tears [are] on her cheeks: among all her lovers she hath none to comfort [her]: all her friends have dealt treacherously with her, they are become her enemies.
-<small><sub>**BSB:**</sub></small>
-She weeps aloud in the night, with tears upon her cheeks. Among all her lovers there is no one to comfort her. All her friends have betrayed her; they have become her enemies.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.1.1|<< Lamentations 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.1.3|Lamentations 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

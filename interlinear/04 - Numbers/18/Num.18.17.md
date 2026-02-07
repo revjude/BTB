@@ -1,4 +1,4 @@
-**Numbers 18:17** 
+**Numbers 18:17**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the firstling of a cow, or the firstling of a sheep, or the firstling of a goat, thou shalt not redeem; they [are] holy: thou shalt sprinkle their blood upon the altar, and shalt burn their fat [for] an offering made by fire, for a sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But you must not redeem the firstborn of an ox, a sheep, or a goat; they are hol
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.16|<< Numbers 18:16]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.18|Numbers 18:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H0389\|אַ֣ךְ]]&#8207; </big>**| 'akh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] firstborn of  |**<big>&#8207;[[H1060\|בְּֽכוֹר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.khor-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**James 4:9
-**<small><sub>**KJV:**</sub></small>
+**James 4:9**<big><big>[[Jas.4.7 Drawing Near to God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and [your] joy to heaviness.
 <small><sub>**BSB:**</sub></small>
 Grieve, mourn, and weep. Turn your laughter to mourning, and your joy to gloom.
 <small><sub>**Literal:**</sub></small>
 do be grieved and do mourn and do weep; The laughter of you to mourning should be turned and the joy to gloom.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.8|<< James 4:8]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.10|James 4:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do be grieved |**<big>[[G5003\|ταλαιπωρήσατε]]</big>**  |talaipōrēsate <small><sup>[[V-AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

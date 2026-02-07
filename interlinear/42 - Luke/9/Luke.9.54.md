@@ -1,5 +1,5 @@
-**Luke 9:54
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:54**<big><big>[[Luke.9.51 The Samaritans Reject Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when his disciples James and John saw [this], they said, Lord, wilt thou that we command fire to come down from heaven, and consume them, even as Elias did?
 <small><sub>**BSB:**</sub></small>
 When the disciples James and John saw this, they asked, “Lord, do You want us to call down fire from heaven to consume them?”
@@ -10,7 +10,7 @@ Having seen [it] now the disciples of him James and John said; Lord, do you want
 > $\quad$ referencing: [[LXX.2Kgs.1.10|2Kgs 1:10]] ☩ [[LXX.2Kgs.1.12|2Kgs 1:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen [it] |**<big>[[G1492H\|ἰδόντες]]</big>**  |idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

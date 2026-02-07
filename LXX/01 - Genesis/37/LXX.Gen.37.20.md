@@ -1,10 +1,7 @@
 **LXX Genesis 37:20** 
 <small><sub>**LXX:**</sub></small>
 Now then, come, let us kill him and toss him into one of the wells! And we shall say, A ferocious wild beast devoured him. And we shall see what will be  of his dreams. 
-<small><sub>**KJV:**</sub></small>
-Come now therefore, and let us slay him, and cast him into some pit, and we will say, Some evil beast hath devoured him: and we shall see what will become of his dreams.
-<small><sub>**BSB:**</sub></small>
-“Come now, let us kill him and throw him into one of the pits. We can say that a vicious animal has devoured him. Then we shall see what becomes of his dreams!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.37.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.37.19|<< Genesis 37:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.37.21|Genesis 37:21 >>]]</td></tr></table>
 
 | Translation | Greek |

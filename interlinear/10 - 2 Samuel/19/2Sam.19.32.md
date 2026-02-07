@@ -1,4 +1,4 @@
-**2 Samuel 19:32** (19:33)
+**2 Samuel 19:32**<big><big>[[2Sam.19.31 David’s Kindness to Barzillai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Barzillai was a very aged man, [even] fourscore years old: and he had provided the king of sustenance while he lay at Mahanaim; for he [was] a very great man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Barzillai was quite old, eighty years of age, and since he was a very wealthy ma
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.31|<< 2 Samuel 19:31]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.33|2 Samuel 19:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Barzillai  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1271G\|בַרְזִלַּי֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> var.zi.Lai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he was old  |**<big>&#8207;[[H2204\|זָקֵ֣ן]]&#8207; </big>**| za.Ken<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

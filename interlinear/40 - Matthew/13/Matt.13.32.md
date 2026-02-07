@@ -1,5 +1,5 @@
-**Matthew 13:32
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:32**<big><big>[[Matt.13.31 The Parable of the Mustard Seed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.
 <small><sub>**BSB:**</sub></small>
 Although it is the smallest of all seeds, yet it grows into the largest of garden plants and becomes a tree, so that the birds of the air come and nest in its branches.”
@@ -10,7 +10,7 @@ which smallest indeed is of all the seeds, when however it may be grown, greater
 > $\quad$ referencing: [[LXX.Ps.104.12|Ps 104:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | smallest |**<big>[[G3398\|μικρότερον]]</big>**  |mikroteron <small><sup>[[A-NSN-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

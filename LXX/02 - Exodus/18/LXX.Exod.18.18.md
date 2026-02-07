@@ -1,10 +1,7 @@
 **LXX Exodus 18:18** 
 <small><sub>**LXX:**</sub></small>
 And you will be corrupted in unsufferable corruption, and all  this people, which is with you. This thing \[is\] heavy on you, you will not be able to act yourself alone. 
-<small><sub>**KJV:**</sub></small>
-Thou wilt surely wear away, both thou, and this people that [is] with thee: for this thing [is] too heavy for thee; thou art not able to perform it thyself alone.
-<small><sub>**BSB:**</sub></small>
-Surely you and these people with you will wear yourselves out, because the task is too heavy for you. You cannot handle it alone.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.18.17|<< Exodus 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.18.19|Exodus 18:19 >>]]</td></tr></table>
 
 | Translation | Greek |

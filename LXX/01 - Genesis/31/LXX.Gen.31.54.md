@@ -1,10 +1,7 @@
 **LXX Genesis 31:54** 
 <small><sub>**LXX:**</sub></small>
 And Jacob swore by an oath according to the fear  of his father Isaac. And he sacrificed a sacrifice in the mountain, and he called  his brethren; and they ate and drank, and they went to sleep in the mountain. 
-<small><sub>**KJV:**</sub></small>
-Then Jacob offered sacrifice upon the mount, and called his brethren to eat bread: and they did eat bread, and tarried all night in the mount.
-<small><sub>**BSB:**</sub></small>
-Then Jacob offered a sacrifice on the mountain and invited his relatives to eat a meal. And after they had eaten, they spent the night on the mountain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.54|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.53|<< Genesis 31:53]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.55|Genesis 31:55 >>]]</td></tr></table>
 
 | Translation | Greek |

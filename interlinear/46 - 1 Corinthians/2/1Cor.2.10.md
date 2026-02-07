@@ -1,12 +1,12 @@
-**1 Corinthians 2:10
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 2:10**<big><big>[[1Cor.2.6 Spiritual Wisdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But God hath revealed [them] unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.
 <small><sub>**BSB:**</sub></small>
 But God has revealed it to us by the Spirit. The Spirit searches all things, even the deep things of God.
 <small><sub>**Literal:**</sub></small>
 To us and revealed [it] <the> God through the Spirit of him; The for Spirit all things searches, even the depths <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.9|<< 1 Corinthians 2:9]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.11|1 Corinthians 2:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To us |**<big>[[G3165\|ἡμῖν]]</big>**  |hēmin <small><sup>[[P-1DP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+Treg+TR+Byz">NK(o)</abbr> | |

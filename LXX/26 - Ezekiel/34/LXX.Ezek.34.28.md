@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:28** 
 <small><sub>**LXX:**</sub></small>
 And they shall not be any longer for plunder by the nations. And the wild beasts of the land no longer in any way shall eat them. And they shall dwell in hope, and there will not be \[one\] frightening them. 
-<small><sub>**KJV:**</sub></small>
-And they shall no more be a prey to the heathen, neither shall the beast of the land devour them; but they shall dwell safely, and none shall make [them] afraid.
-<small><sub>**BSB:**</sub></small>
-They will no longer be prey for the nations, and the beasts of the earth will not consume them. They will dwell securely, and no one will frighten them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.27|<< Ezekiel 34:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.29|Ezekiel 34:29 >>]]</td></tr></table>
 
 | Translation | Greek |

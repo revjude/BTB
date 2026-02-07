@@ -1,4 +1,4 @@
-**Numbers 31:17** 
+**Numbers 31:17**<big><big>[[Num.31.1 Vengeance on Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore kill every male among the little ones, and kill every woman that hath known man by lying with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now, kill all the boys, as well as every woman who has had relations with a m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.16|<< Numbers 31:16]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.18|Numbers 31:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֕ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | kill  |**<big>&#8207;[[H2026\|הִרְג֥וּ]]&#8207; </big>**| hir.Gu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

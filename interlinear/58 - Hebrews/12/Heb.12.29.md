@@ -1,5 +1,5 @@
-**Hebrews 12:29
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:29**<big><big>[[Heb.12.18 An Unshakable Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For our God [is] a consuming fire.
 <small><sub>**BSB:**</sub></small>
 “For our God is a consuming fire.”
@@ -10,7 +10,7 @@ Also for the God of us [is] a fire consuming.<br><table width="100%" border="0">
 > $\quad$ referencing: [[LXX.Deut.4.24|Deut 4:24]] ☩ [[LXX.Deut.9.3|Deut 9:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

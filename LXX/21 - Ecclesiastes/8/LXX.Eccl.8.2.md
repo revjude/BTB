@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 8:2** 
 <small><sub>**LXX:**</sub></small>
 Watch \[the\] mouth of a king! even because of \[the\] word of \[the\] oath of God. 
-<small><sub>**KJV:**</sub></small>
-I [counsel thee] to keep the king’s commandment, and [that] in regard of the oath of God.
-<small><sub>**BSB:**</sub></small>
-Keep the king’s command, I say, because of your oath before God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.8.1|<< Ecclesiastes 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.8.3|Ecclesiastes 8:3 >>]]</td></tr></table>
 
 | Translation | Greek |

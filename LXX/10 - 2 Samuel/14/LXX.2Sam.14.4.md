@@ -1,10 +1,7 @@
 **LXX 2 Samuel 14:4** 
 <small><sub>**LXX:**</sub></small>
 And the Tekoahite woman entered to the king, and she fell upon her face to the ground, and she did obeisance to him. And she said, Deliver, O king, deliver! 
-<small><sub>**KJV:**</sub></small>
-And when the woman of Tekoah spake to the king, she fell on her face to the ground, and did obeisance, and said, Help, O king.
-<small><sub>**BSB:**</sub></small>
-When the woman from Tekoa went to the king, she fell facedown in homage and said, “Help me, O king!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.3|<< 2 Samuel 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.5|2 Samuel 14:5 >>]]</td></tr></table>
 
 | Translation | Greek |

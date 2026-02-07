@@ -1,4 +1,4 @@
-**Nehemiah 5:5** 
+**Nehemiah 5:5**<big><big>[[Neh.5.1 Nehemiah Defends the Oppressed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet now our flesh [is] as the flesh of our brethren, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and [some] of our daughters are brought unto bondage [already]: neither [is it] in our power [to redeem them]; for other men have our lands and vineyards.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We and our children are just like our countrymen and their children, yet we are 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.5.4|<< Nehemiah 5:4]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.6|Nehemiah 5:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] like [the] flesh of  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H1320\|בְשַׂ֤ר]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> v.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

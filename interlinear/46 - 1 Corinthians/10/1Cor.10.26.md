@@ -1,5 +1,5 @@
-**1 Corinthians 10:26
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:26**<big><big>[[1Cor.10.23 All to God’s Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the earth [is] the Lord’s, and the fulness thereof.
 <small><sub>**BSB:**</sub></small>
 for, “The earth is the Lord’s, and the fullness thereof.”
@@ -10,7 +10,7 @@ The Lord’s for [is] the earth and the fullness of it.<br><table width="100%" b
 > $\quad$ referencing: [[LXX.Ps.24.1|Ps 24:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Lord’s |**<big>[[G2962G\|κυρίου]]</big>**  |kuriou <small><sup>[[N-GSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |

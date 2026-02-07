@@ -1,10 +1,7 @@
 **LXX Isaiah 48:2** 
 <small><sub>**LXX:**</sub></small>
 and ones holding to the name of the holy city, and taking support upon the God of Israel; \[the\] <span class="smallcaps">lord</span> of Hosts \[is\] his name. 
-<small><sub>**KJV:**</sub></small>
-For they call themselves of the holy city, and stay themselves upon the God of Israel; The LORD of hosts [is] his name.
-<small><sub>**BSB:**</sub></small>
-who indeed call yourselves after the holy city and lean on the God of Israel; the LORD of Hosts is His name.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.1|<< Isaiah 48:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.3|Isaiah 48:3 >>]]</td></tr></table>
 
 | Translation | Greek |

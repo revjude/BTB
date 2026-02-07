@@ -1,10 +1,7 @@
 **LXX Judges 7:13** 
 <small><sub>**LXX:**</sub></small>
 And Gideon came, and behold, a man was describing \[to\] his neighbor a dream. And he said, Behold, I dreamed a dream. And behold, a loaf of bread of barley was rolling in the camp of Midian, and it came unto the tent of Midian, and it struck it, and it overturned it, and the tent fell. 
-<small><sub>**KJV:**</sub></small>
-And when Gideon was come, behold, [there was] a man that told a dream unto his fellow, and said, Behold, I dreamed a dream, and, lo, a cake of barley bread tumbled into the host of Midian, and came unto a tent, and smote it that it fell, and overturned it, that the tent lay along.
-<small><sub>**BSB:**</sub></small>
-And as Gideon arrived, a man was telling his friend about a dream. “Behold, I had a dream,” he said, “and I saw a loaf of barley bread come tumbling into the Midianite camp. It struck the tent so hard that the tent overturned and collapsed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.12|<< Judges 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.14|Judges 7:14 >>]]</td></tr></table>
 
 | Translation | Greek |

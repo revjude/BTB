@@ -1,4 +1,4 @@
-**Job 39:24** 
+**Job 39:24**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He swalloweth the ground with fierceness and rage: neither believeth he that [it is] the sound of the trumpet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Trembling with excitement, he devours the distance; he cannot stand still when t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.23|<< Job 39:23]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.25|Job 39:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | with shaking  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7494\|רַ֣עַשׁ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ra.'ash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and excitement  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H7267\|רֹגֶז]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ro.gez<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

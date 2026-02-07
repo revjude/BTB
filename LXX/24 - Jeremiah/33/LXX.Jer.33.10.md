@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:10** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span>, There shall still be heard in  this place (in which you say, It is desolate of men and animals, in \[the\] cities of Judah, and outside Jerusalem in the \[places\] having been made desolate by the not being a man and beast,) 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; Again there shall be heard in this place, which ye say [shall be] desolate without man and without beast, [even] in the cities of Judah, and in the streets of Jerusalem, that are desolate, without man, and without inhabitant, and without beast,
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: In this place you say is a wasteland without man or beast, in the cities of Judah and in the streets of Jerusalem that are deserted—inhabited by neither man nor beast—there will be heard again<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.9|<< Jeremiah 33:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.11|Jeremiah 33:11 >>]]</td></tr></table>
 
 | Translation | Greek |

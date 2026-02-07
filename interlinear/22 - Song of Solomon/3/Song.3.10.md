@@ -1,4 +1,4 @@
-**Song of Solomon 3:10** 
+**Song of Solomon 3:10**<big><big>[[Song.3.6 Solomon Arrives on His Wedding Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He made the pillars thereof [of] silver, the bottom thereof [of] gold, the covering of it [of] purple, the midst thereof being paved [with] love, for the daughters of Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has made its posts of silver, its base of gold, its seat of purple fabric. It
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.9|<< Song of Solomon 3:9]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.11|Song of Solomon 3:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | posts its  |**<big>&#8207;[[H5982G\|עַמּוּדָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| 'a.mu.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he made  |**<big>&#8207;[[H6213H\|עָ֣שָׂה]]&#8207; </big>**| 'A.sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

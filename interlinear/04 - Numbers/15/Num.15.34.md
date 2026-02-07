@@ -1,4 +1,4 @@
-**Numbers 15:34** 
+**Numbers 15:34**<big><big>[[Num.15.32 A Sabbath-Breaker Stoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they put him in ward, because it was not declared what should be done to him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and because it had not been declared what should be done to him, they placed him
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.33|<< Numbers 15:33]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.35|Numbers 15:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they left  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5117\|יַּנִּ֥יחוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ni.chu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> him  |**<big>&#8207;[[H0853\|אֹת֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

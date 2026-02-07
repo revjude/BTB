@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:15** 
 <small><sub>**LXX:**</sub></small>
 And now bring to me one for strumming! And it came to pass as the one strumming strummed, that \[the\] hand \[of the\] <span class="smallcaps">lord</span> came upon him. 
-<small><sub>**KJV:**</sub></small>
-But now bring me a minstrel. And it came to pass, when the minstrel played, that the hand of the LORD came upon him.
-<small><sub>**BSB:**</sub></small>
-But now, bring me a harpist.” And while the harpist played, the hand of the LORD came upon Elisha<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.14|<< 2 Kings 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.16|2 Kings 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

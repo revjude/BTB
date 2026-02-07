@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:11** 
 <small><sub>**LXX:**</sub></small>
 For only Og king of Bashan was left from the Rephaim. Behold  his bed is a bed of iron. Behold this \[is\] in the Akra of the sons of Ammon. Nine cubits was the length of it, and four cubits the breadth of it, in \[the\] cubit of a man. 
-<small><sub>**KJV:**</sub></small>
-For only Og king of Bashan remained of the remnant of giants; behold, his bedstead [was] a bedstead of iron; [is] it not in Rabbath of the children of Ammon? nine cubits [was] the length thereof, and four cubits the breadth of it, after the cubit of a man.
-<small><sub>**BSB:**</sub></small>
-(For only Og king of Bashan had remained of the remnant of the Rephaim. His bed of iron, nine cubits long and four cubits wide, is still in Rabbah of the Ammonites.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.10|<< Deuteronomy 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.12|Deuteronomy 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

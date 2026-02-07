@@ -1,4 +1,4 @@
-**Exodus 7:23** 
+**Exodus 7:23**<big><big>[[Exod.7.14 The First Plague：Blood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh turned and went into his house, neither did he set his heart to this also.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instead, Pharaoh turned around, went into his palace, and did not take any of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.22|<< Exodus 7:22]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.24|Exodus 7:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he turned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6437G\|יִּ֣פֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.fen<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Pharaoh  |**<big>&#8207;[[H6547J\|פַּרְעֹ֔ה]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

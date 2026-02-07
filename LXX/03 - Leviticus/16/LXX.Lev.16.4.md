@@ -1,10 +1,7 @@
 **LXX Leviticus 16:4** 
 <small><sub>**LXX:**</sub></small>
 And he shall put on an inner garment of flaxen linen having been sanctified, and flaxen linen pants will be upon  his flesh, and a flaxen linen belt shall be tied around, and a flaxen linen turban shall be placed -- they are \[the\] holy garments. And he shall bathe in water all  his body. And he shall put them on. 
-<small><sub>**KJV:**</sub></small>
-He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these [are] holy garments; therefore shall he wash his flesh in water, and [so] put them on.
-<small><sub>**BSB:**</sub></small>
-He is to wear the sacred linen tunic, with linen undergarments. He must tie a linen sash around him and put on the linen turban. These are holy garments, and he must bathe himself with water before he wears them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.3|<< Leviticus 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.5|Leviticus 16:5 >>]]</td></tr></table>
 
 | Translation | Greek |

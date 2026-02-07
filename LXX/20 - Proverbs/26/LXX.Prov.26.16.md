@@ -1,10 +1,7 @@
 **LXX Proverbs 26:16** 
 <small><sub>**LXX:**</sub></small>
 \[The\] lazy one appears wiser to himself  in fulfilling transmitting a message. 
-<small><sub>**KJV:**</sub></small>
-The sluggard [is] wiser in his own conceit than seven men that can render a reason.
-<small><sub>**BSB:**</sub></small>
-The slacker is wiser in his own eyes than seven men who answer discreetly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.15|<< Proverbs 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.17|Proverbs 26:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 9:21** 
+**Deuteronomy 9:21**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I took your sin, the calf which ye had made, and burnt it with fire, and stamped it, [and] ground [it] very small, [even] until it was as small as dust: and I cast the dust thereof into the brook that descended out of the mount.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I took that sinful thing, the calf you had made, and burned it in the fire. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.20|<< Deuteronomy 9:20]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.22|Deuteronomy 9:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sin your  |**<big>&#8207;[[H2403B\|חַטַּאתְ]]&#8207;&#8207;[[H9026\|כֶ֞ם]]&#8207; </big>**| cha.tat.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

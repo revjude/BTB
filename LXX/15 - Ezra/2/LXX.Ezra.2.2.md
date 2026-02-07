@@ -1,10 +1,7 @@
 **LXX Ezra 2:2** 
 <small><sub>**LXX:**</sub></small>
 The ones \[that\] came with Zerubbabel -- Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mizpar, Bigvai, Rehum, Baanah. \[The\] number of men of \[the\] people of Israel. 
-<small><sub>**KJV:**</sub></small>
-Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:
-<small><sub>**BSB:**</sub></small>
-accompanied by Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. This is the count of the men of Israel:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.2.1|<< Ezra 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.2.3|Ezra 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:12** 
 <small><sub>**LXX:**</sub></small>
 And after him -- Eleazar son of Dodo the Ahohite -- this one was among the three mighty ones. 
-<small><sub>**KJV:**</sub></small>
-And after him [was] Eleazar the son of Dodo, the Ahohite, who [was one] of the three mighties.
-<small><sub>**BSB:**</sub></small>
-Next in command was Eleazar son of Dodo the Ahohite, one of the three mighty men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.11|<< 1 Chronicles 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.13|1 Chronicles 11:13 >>]]</td></tr></table>
 
 | Translation | Greek |

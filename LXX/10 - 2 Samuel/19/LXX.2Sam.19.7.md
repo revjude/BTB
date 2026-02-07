@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:7** 
 <small><sub>**LXX:**</sub></small>
 And now arise! go forth and speak unto the heart  of your servants! for by \[the\] <span class="smallcaps">lord</span> I swear by an oath, that unless you should go forth, in no way a man remain with you  this night. And realize this in yourself! that this evil \[will be upon\] you over all the evil  coming upon you from your youth until  now. 
-<small><sub>**KJV:**</sub></small>
-Now therefore arise, go forth, and speak comfortably unto thy servants: for I swear by the LORD, if thou go not forth, there will not tarry one with thee this night: and that will be worse unto thee than all the evil that befell thee from thy youth until now.
-<small><sub>**BSB:**</sub></small>
-Now therefore get up! Go out and speak comfort to your servants, for I swear by the LORD that if you do not go out, not a man will remain with you tonight. This will be worse for you than all the adversity that has befallen you from your youth until now!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.6|<< 2 Samuel 19:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.8|2 Samuel 19:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Esther 4:17** 
 <small><sub>**LXX:**</sub></small>
 And proceeding, Mordecai did as much as Esther gave charge to him. 
-<small><sub>**KJV:**</sub></small>
-So Mordecai went his way, and did according to all that Esther had commanded him.
-<small><sub>**BSB:**</sub></small>
-So Mordecai went and did all that Esther had instructed him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.4.16|<< Esther 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.5.1|Esther 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

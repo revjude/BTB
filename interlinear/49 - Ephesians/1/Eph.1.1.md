@@ -1,12 +1,12 @@
-**Ephesians 1:1
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 1:1**<big><big>[[Eph.1.1 Paul’s Greeting to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
 <small><sub>**BSB:**</sub></small>
 Paul, an apostle of Christ Jesus by the will of God, To the saints in Ephesus, the faithful in Christ Jesus:
 <small><sub>**Literal:**</sub></small>
 Paul an apostle of Christ Jesus through [the] will of God To the saints who are being in Ephesus and faithful in Christ Jesus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.18|<< Galatians 6:18]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.2|Ephesians 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Paul |**<big>[[G3972G\|Παῦλος]]</big>**  |Paulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | an apostle |**<big>[[G0652\|ἀπόστολος]]</big>**  |apostolos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

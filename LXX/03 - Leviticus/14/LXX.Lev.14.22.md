@@ -1,10 +1,7 @@
 **LXX Leviticus 14:22** 
 <small><sub>**LXX:**</sub></small>
 and two turtle-doves, or two young pigeons, as much as his hand found. And the one shall be for a sin \[offering\], and the one for a whole burnt-offering. 
-<small><sub>**KJV:**</sub></small>
-And two turtledoves, or two young pigeons, such as he is able to get; and the one shall be a sin offering, and the other a burnt offering.
-<small><sub>**BSB:**</sub></small>
-and two turtledoves or two young pigeons, whichever he can afford, one to be a sin offering and the other a burnt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.21|<< Leviticus 14:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.23|Leviticus 14:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 11:2** 
 <small><sub>**LXX:**</sub></small>
 and to the kings of the \[places\] by the great Sidon, unto the mountainous area, and unto the wilderness before Chinneroth, and the plain, and unto Napedor, 
-<small><sub>**KJV:**</sub></small>
-And to the kings that [were] on the north of the mountains, and of the plains south of Chinneroth, and in the valley, and in the borders of Dor on the west,
-<small><sub>**BSB:**</sub></small>
-to the kings of the north in the mountains, in the Arabah south of Chinnereth, in the foothills, and in Naphoth-dor to the west;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.1|<< Joshua 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.3|Joshua 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

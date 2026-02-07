@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 16:5** 
 <small><sub>**LXX:**</sub></small>
 And it happened when  Baasha heard, that he left off  to no longer build  Ramah, and he rested  his work. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Baasha heard [it], that he left off building of Ramah, and let his work cease.
-<small><sub>**BSB:**</sub></small>
-When Baasha learned of this, he stopped fortifying Ramah and abandoned his work.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.16.4|<< 2 Chronicles 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.16.6|2 Chronicles 16:6 >>]]</td></tr></table>
 
 | Translation | Greek |

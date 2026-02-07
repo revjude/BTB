@@ -1,10 +1,7 @@
 **LXX Joshua 14:11** 
 <small><sub>**LXX:**</sub></small>
 Yet I am today of strength as when Moses sent me, likewise I am strong now to go forth and to enter for war. 
-<small><sub>**KJV:**</sub></small>
-As yet I [am as] strong this day as [I was] in the day that Moses sent me: as my strength [was] then, even so [is] my strength now, for war, both to go out, and to come in.
-<small><sub>**BSB:**</sub></small>
-still as strong today as I was the day Moses sent me out. As my strength was then, so it is now for war, for going out, and for coming in.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.14.10|<< Joshua 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.14.12|Joshua 14:12 >>]]</td></tr></table>
 
 | Translation | Greek |

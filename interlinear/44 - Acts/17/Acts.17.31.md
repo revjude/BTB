@@ -1,5 +1,5 @@
-**Acts 17:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:31**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because he hath appointed a day, in the which he will judge the world in righteousness by [that] man whom he hath ordained; [whereof] he hath given assurance unto all [men], in that he hath raised him from the dead.
 <small><sub>**BSB:**</sub></small>
 For He has set a day when He will judge the world with justice by the Man He has appointed. He has given proof of this to everyone by raising Him from the dead.”
@@ -10,7 +10,7 @@ just as He set a day in which He is about to judge the world in righteousness by
 > $\quad$ alluding to: [[LXX.Ps.9.8|Ps 9:8-9]] ☩ [[LXX.Ps.96.13|Ps 96:13]] ☩ [[LXX.Ps.98.9|Ps 98:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | just as [^1] |**<big>[[G2530\|καθότι]]</big>**  |kathoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | He set |**<big>[[G2476\|ἔστησεν]]</big>**  |estēsen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

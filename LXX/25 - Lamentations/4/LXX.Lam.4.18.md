@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΣΑΔΗ</p>
 
 They hunted our small ones  to not go into  our squares. Our time approached; our days were fulfilled; our end \[is\] at hand. 
-<small><sub>**KJV:**</sub></small>
-They hunt our steps, that we cannot go in our streets: our end is near, our days are fulfilled; for our end is come.
-<small><sub>**BSB:**</sub></small>
-They stalked our every step, so that we could not walk in our streets. Our end drew near, our time ran out, for our end had come!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.4.17|<< Lamentations 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.4.19|Lamentations 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

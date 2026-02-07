@@ -1,12 +1,12 @@
-**John 16:18
-**<small><sub>**KJV:**</sub></small>
+**John 16:18**<big><big>[[John.16.17 Grief Will Turn to Joy|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They said therefore, What is this that he saith, A little while? we cannot tell what he saith.
 <small><sub>**BSB:**</sub></small>
 They kept asking, “Why is He saying, ‘a little while’? We do not understand what He is saying.”
 <small><sub>**Literal:**</sub></small>
 They were saying therefore; what is This that He says <the> a little [while]’? Not we do know what He is saying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.17|<< John 16:17]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.19|John 16:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were saying |**<big>[[G3004G\|ἔλεγον]]</big>**  |elegon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore; |**<big>[[G3767\|οὖν·]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

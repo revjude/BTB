@@ -1,4 +1,4 @@
-**Ezekiel 26:21** 
+**Ezekiel 26:21**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will make thee a terror, and thou [shalt be] no [more]: though thou be sought for, yet shalt thou never be found again, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will make you an object of horror, and you will be no more. You will be sought
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.20|<< Ezekiel 26:20]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.1|Ezekiel 27:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | terrors  |**<big>&#8207;[[H1091\|בַּלָּה֥וֹת]]&#8207; </big>**| ba.la.Hot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will give to you  |**<big>&#8207;[[H5414I\|אֶתְּנֵ֖]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'e.te.Ne<small><sup>[[HVqi1cs]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

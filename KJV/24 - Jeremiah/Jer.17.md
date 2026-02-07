@@ -1,6 +1,6 @@
 (KJV) **Jeremiah 17**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16|<< Jeremiah 16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18|Jeremiah 18 >>]]</td></tr></table>
 
-***The Sin and Punishment of Judah*** ^bsb1733
+<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥃]]</big></big>***The Sin and Punishment of Judah***
 
  $\quad$ <span class="startversemarker">[</span>**[[Jer.17.1|1]]**<span class="endversemarker">]</span> The sin of Judah \[is\] written<small><small>[^2]</small></small> with a pen of iron, \[and\] with the point<small><small>[^3]</small></small> of a diamond: \[it is\] graven<small><small>[^4]</small></small> upon the table of their heart, and upon<small><small>[^5]</small></small> the horns of your altars; <span class="startversemarker">[</span>**[[Jer.17.2|2]]**<span class="endversemarker">]</span> Whilst their children<small><small>[^6]</small></small> remember their altars<small><small>[^7]</small></small> and their groves by the green trees upon the high hills. <span class="startversemarker">[</span>**[[Jer.17.3|3]]**<span class="endversemarker">]</span> O my<small><small>[^8]</small></small> mountain in the field, I will<small><small>[^9]</small></small> give thy substance \[and\] all thy treasures to the spoil, \[and\] thy<small><small>[^10]</small></small> high places for sin, throughout all thy borders. <span class="startversemarker">[</span>**[[Jer.17.4|4]]**<span class="endversemarker">]</span> And thou, even thyself<small><small>[^11]</small></small>, shalt<small><small>[^12]</small></small> discontinue from thine heritage that I gave thee; and I<small><small>[^13]</small></small> will cause thee to serve thine enemies in the land which thou knowest not: for<small><small>[^14]</small></small> ye have kindled a fire in mine anger, \[which\] shall burn for ever. 
 
@@ -8,7 +8,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Jer.17.5|5]]**<span class="en
 
 $\quad$ <span class="startversemarker">[</span>**[[Jer.17.9|9]]**<span class="endversemarker">]</span> [¶]The heart \[is\] deceitful above all \[things\], and desperately wicked: who can know it?<small><small>[^24]</small></small> <span class="startversemarker">[</span>**[[Jer.17.10|10]]**<span class="endversemarker">]</span> I the <span class="smallcaps">Lord<small><small>[^25]</small></small></span> search the heart, \[I\] try the reins, even<small><small>[^26]</small></small> to give every man according to his ways, \[and\] according to the fruit<small><small>[^27]</small></small> of his doings. <span class="startversemarker">[</span>**[[Jer.17.11|11]]**<span class="endversemarker">]</span> \[As\] the partridge sitteth<small><small>[^28]</small></small> \[on eggs\], and hatcheth \[them\] not; \[so\] he that<small><small>[^29]</small></small> getteth riches, and not by right, shall leave<small><small>[^30]</small></small> them in the midst of his days, and at his end shall be a fool<small><small>[^31]</small></small>.
 
-***Jeremiah’s Prayer for Deliverance*** ^bsb1734
+<big><big>[[Jer.17.12 Jeremiah’s Prayer for Deliverance|⥃]]</big></big>***Jeremiah’s Prayer for Deliverance***
 
  
 
@@ -16,7 +16,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Jer.17.12|12]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[Jer.17.15|15]]**<span class="endversemarker">]</span> [¶]Behold, they say unto me, Where \[is\] the word of the <span class="smallcaps">Lord</span>? let it come now.<small><small>[^41]</small></small> <span class="startversemarker">[</span>**[[Jer.17.16|16]]**<span class="endversemarker">]</span> As for me, I have<small><small>[^42]</small></small> not hastened from \[being\] a pastor to follow thee<small><small>[^43]</small></small>: neither<small><small>[^44]</small></small> have I desired the woeful day; thou knowest: that<small><small>[^45]</small></small> which came out of my lips was \[right\] before thee. <span class="startversemarker">[</span>**[[Jer.17.17|17]]**<span class="endversemarker">]</span> Be not a terror<small><small>[^46]</small></small> unto me: thou<small><small>[^47]</small></small> \[art\] my hope in the day of evil. <span class="startversemarker">[</span>**[[Jer.17.18|18]]**<span class="endversemarker">]</span> Let them be confounded<small><small>[^48]</small></small> that persecute me, but let not me be confounded<small><small>[^49]</small></small>: let them be dismayed, but let not me be dismayed: bring upon them the day<small><small>[^50]</small></small> of evil, and destroy them with double destruction<small><small>[^51]</small></small>.
 
-***Restoring the Sabbath***&emsp;<small><sup>\[ [[Neh.13|Nehemiah 13:15–22]] ]</sup></small> ^bsb1735
+<big><big>[[Jer.17.19 Restoring the Sabbath|⥃]]</big></big>***Restoring the Sabbath***&emsp;<small><sup>\[ [[Neh.13|Nehemiah 13:15–22]] ]</sup></small>
 
  
 

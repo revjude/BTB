@@ -1,10 +1,7 @@
 **LXX Daniel 11:20** 
 <small><sub>**LXX:**</sub></small>
 And shall rise up from out of  his root a plant of a kingdom, unto  his preparation, casting aside, exacting glory of \[the\] kingdom. And in  those days he shall be broken, and not in faces, nor in war. 
-<small><sub>**KJV:**</sub></small>
-Then shall stand up in his estate a raiser of taxes [in] the glory of the kingdom: but within few days he shall be destroyed, neither in anger, nor in battle.
-<small><sub>**BSB:**</sub></small>
-In his place one will arise who will send out a tax collector for the glory of the kingdom; but within a few days he will be destroyed, though not in anger or in battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.19|<< Daniel 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.21|Daniel 11:21 >>]]</td></tr></table>
 
 | Translation | Greek |

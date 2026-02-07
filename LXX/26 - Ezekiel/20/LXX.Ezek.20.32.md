@@ -1,10 +1,7 @@
 **LXX Ezekiel 20:32** 
 <small><sub>**LXX:**</sub></small>
 And it will not be in which manner \[that\] you say, We will be as the nations, and as the tribes of the earth,  to serve wood and stone \[idols\]. 
-<small><sub>**KJV:**</sub></small>
-And that which cometh into your mind shall not be at all, that ye say, We will be as the heathen, as the families of the countries, to serve wood and stone.
-<small><sub>**BSB:**</sub></small>
-When you say, ‘Let us be like the nations, like the peoples of the lands, serving wood and stone,’ what you have in mind will never come to pass.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.20.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.31|<< Ezekiel 20:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.33|Ezekiel 20:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 5:16** 
 <small><sub>**LXX:**</sub></small>
 Straw has not been given \[to\] your servants, and  they tell us to make brick. And behold,  your servants have been whipped. Shall you wrong therefore  your people? 
-<small><sub>**KJV:**</sub></small>
-There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants [are] beaten; but the fault [is] in thine own people.
-<small><sub>**BSB:**</sub></small>
-No straw has been given to your servants, yet we are told, ‘Make bricks!’ Look, your servants are being beaten, but the fault is with your own people.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.5.15|<< Exodus 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.17|Exodus 5:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 4:30
-**<small><sub>**KJV:**</sub></small>
+**John 4:30**<big><big>[[John.4.27 The Disciples Return and Marvel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then they went out of the city, and came unto him.
 <small><sub>**BSB:**</sub></small>
 So they left the town and made their way toward Jesus.
 <small><sub>**Literal:**</sub></small>
 They went forth therefore out of the city and were coming unto Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.29|<< John 4:29]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.31|John 4:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They went forth |**<big>[[G1831\|ἐξῆλθον]]</big>**  |exēlthon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">K</abbr> | |

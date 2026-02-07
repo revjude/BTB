@@ -1,4 +1,4 @@
-**Malachi 2:10** 
+**Malachi 2:10**<big><big>[[Mal.2.10 Judah’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have we not all one father? hath not one God created us? why do we deal treacherously every man against his brother, by profaning the covenant of our fathers?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do we not all have one Father? Did not one God create us? Why then do we break f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.9|<< Malachi 2:9]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.11|Malachi 2:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֨וֹא]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [does] a father  |**<big>&#8207;[[H0001G\|אָ֤ב]]&#8207; </big>**| 'av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

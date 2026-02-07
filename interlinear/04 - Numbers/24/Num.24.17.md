@@ -1,4 +1,4 @@
-**Numbers 24:17** 
+**Numbers 24:17**<big><big>[[Num.24.15 Balaam’s Fourth Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I shall see him, but not now: I shall behold him, but not nigh: there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel, and shall smite the corners of Moab, and destroy all the children of Sheth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I see him, but not now; I behold him, but not near. A star will come forth from 
 > $\quad$ referenced by: [[Luke.1.78|Luke 1:78]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I see him  |**<big>&#8207;[[H7200G\|אֶרְאֶ֙]]&#8207;&#8207;[[H9033\|נּוּ֙]]&#8207; </big>**| 'er.'E.<small><sup>[[HVqi1cs]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

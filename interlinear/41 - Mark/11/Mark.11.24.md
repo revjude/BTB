@@ -1,12 +1,12 @@
-**Mark 11:24
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:24**<big><big>[[Mark.11.20 The Withered Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive [them], and ye shall have [them].
 <small><sub>**BSB:**</sub></small>
 Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours.
 <small><sub>**Literal:**</sub></small>
 Because of this I say to you; all things as much as when praying and you ask, do believe that you receive, and it will be to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.23|<< Mark 11:23]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.25|Mark 11:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because of |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

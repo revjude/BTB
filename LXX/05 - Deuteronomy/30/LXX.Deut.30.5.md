@@ -1,10 +1,7 @@
 **LXX Deuteronomy 30:5** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> your God will bring you into the land which your fathers inherited, and you shall inherit it, and he will do you good, and he will do superabundant for you above  your fathers. 
-<small><sub>**KJV:**</sub></small>
-And the LORD thy God will bring thee into the land which thy fathers possessed, and thou shalt possess it; and he will do thee good, and multiply thee above thy fathers.
-<small><sub>**BSB:**</sub></small>
-And the LORD your God will bring you into the land your fathers possessed, and you will take possession of it. He will cause you to prosper and multiply more than your fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.30.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.4|<< Deuteronomy 30:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.6|Deuteronomy 30:6 >>]]</td></tr></table>
 
 | Translation | Greek |

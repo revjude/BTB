@@ -1,4 +1,4 @@
-**Proverbs 28:24** 
+**Proverbs 28:24**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso robbeth his father or his mother, and saith, [It is] no transgression; the same [is] the companion of a destroyer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who robs his father or mother, saying, “It is not wrong,” is a companion 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.23|<< Proverbs 28:23]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.25|Proverbs 28:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] robs  |**<big>&#8207;[[H1497\|גּוֹזֵ֤ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| go.Zel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | father his  |**<big>&#8207;[[H0001G\|אָ֘בִ֤י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

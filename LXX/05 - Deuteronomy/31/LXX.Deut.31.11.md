@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:11** 
 <small><sub>**LXX:**</sub></small>
 in the going with all Israel to appear before \[the\] <span class="smallcaps">lord</span>  your God, in the place in which ever \[the\] <span class="smallcaps">lord</span> should choose, you shall read  this law before all Israel in  their ears. 
-<small><sub>**KJV:**</sub></small>
-When all Israel is come to appear before the LORD thy God in the place which he shall choose, thou shalt read this law before all Israel in their hearing.
-<small><sub>**BSB:**</sub></small>
-when all Israel comes before the LORD your God at the place He will choose, you are to read this law in the hearing of all Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.10|<< Deuteronomy 31:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.12|Deuteronomy 31:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Acts 4:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:6**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Annas the high priest, and Caiaphas, and John, and Alexander, and as many as were of the kindred of the high priest, were gathered together at Jerusalem.
 <small><sub>**BSB:**</sub></small>
 along with Annas the high priest, Caiaphas, John, Alexander, and many others from the high priest’s family.
 <small><sub>**Literal:**</sub></small>
 and Annas the high priest and Caiaphas and John and Alexander and as many as were of descent high-priestly,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.5|<< Acts 4:5]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.7|Acts 4:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Annas [^1] |**<big>[[G0452\|Ἅννας]]</big>**  [^2] |Hannas <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

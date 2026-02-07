@@ -1,12 +1,12 @@
-**Hebrews 2:2
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 2:2**<big><big>[[Heb.2.1 Salvation Confirmed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward;
 <small><sub>**BSB:**</sub></small>
 For if the message spoken by angels was binding, and every transgression and disobedience received its just punishment,
 <small><sub>**Literal:**</sub></small>
 If for the through angels having been spoken word was unalterable, and every transgression and disobedience received a just recompense,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.1|<< Hebrews 2:1]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.3|Hebrews 2:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|Εἰ]]</big>**  |Ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

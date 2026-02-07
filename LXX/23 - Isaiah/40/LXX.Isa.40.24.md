@@ -1,10 +1,7 @@
 **LXX Isaiah 40:24** 
 <small><sub>**LXX:**</sub></small>
 For in no way shall they plant, nor shall they sow, nor shall they be rooted in the earth  of their root. He breathed upon them, and they were dried up; and a blast shall take them \[away\] as sticks. 
-<small><sub>**KJV:**</sub></small>
-Yea, they shall not be planted; yea, they shall not be sown: yea, their stock shall not take root in the earth: and he shall also blow upon them, and they shall wither, and the whirlwind shall take them away as stubble.
-<small><sub>**BSB:**</sub></small>
-No sooner are they planted, no sooner are they sown, no sooner have their stems taken root in the ground, than He blows on them and they wither, and a whirlwind sweeps them away like stubble.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.23|<< Isaiah 40:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.25|Isaiah 40:25 >>]]</td></tr></table>
 
 | Translation | Greek |

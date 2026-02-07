@@ -1,10 +1,7 @@
 **LXX Ezekiel 26:2** 
 <small><sub>**LXX:**</sub></small>
 O son of man, because Sor said against Jerusalem, Well done, she was broken; she had destroyed the nations; she was turned to me -- \[she that was\] full was made desolate. 
-<small><sub>**KJV:**</sub></small>
-Son of man, because that Tyrus hath said against Jerusalem, Aha, she is broken [that was] the gates of the people: she is turned unto me: I shall be replenished, [now] she is laid waste:
-<small><sub>**BSB:**</sub></small>
-“Son of man, because Tyre has said of Jerusalem, ‘Aha! The gate to the nations is broken; it has swung open to me; now that she lies in ruins I will be filled,’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.1|<< Ezekiel 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.3|Ezekiel 26:3 >>]]</td></tr></table>
 
 | Translation | Greek |

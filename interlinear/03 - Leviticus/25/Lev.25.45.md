@@ -1,4 +1,4 @@
-**Leviticus 25:45** 
+**Leviticus 25:45**<big><big>[[Lev.25.39 Redemption of Bondmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover of the children of the strangers that do sojourn among you, of them shall ye buy, and of their families that [are] with you, which they begat in your land: and they shall be your possession.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You may also purchase them from the foreigners residing among you or their clans
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.44|<< Leviticus 25:44]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.46|Leviticus 25:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H1571\|גַם]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of [the] children of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1121G\|בְּנֵ֨י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

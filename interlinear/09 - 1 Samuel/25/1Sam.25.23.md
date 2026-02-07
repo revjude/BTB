@@ -1,4 +1,4 @@
-**1 Samuel 25:23** 
+**1 Samuel 25:23**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Abigail saw David, she hasted, and lighted off the ass, and fell before David on her face, and bowed herself to the ground,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Abigail saw David, she quickly got off the donkey, fell facedown, and bowed
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.22|<< 1 Samuel 25:22]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.24|1 Samuel 25:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|תֵּ֤רֶא]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Te.re'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abigail  |**<big>&#8207;[[H0026G\|אֲבִיגַ֙יִל֙]]&#8207; </big>**| 'a.vi.Ga.yil<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

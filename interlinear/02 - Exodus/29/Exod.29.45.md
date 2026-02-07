@@ -1,4 +1,4 @@
-**Exodus 29:45** 
+**Exodus 29:45**<big><big>[[Exod.29.45 God Will Dwell among the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will dwell among the children of Israel, and will be their God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I will dwell among the Israelites and be their God.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.44|<< Exodus 29:44]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.46|Exodus 29:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will dwell  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7931\|שָׁ֣כַנְתִּ֔י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Sha.khan.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in among  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|ת֖וֹךְ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tokh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

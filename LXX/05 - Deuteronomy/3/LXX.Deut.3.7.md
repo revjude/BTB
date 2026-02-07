@@ -1,10 +1,7 @@
 **LXX Deuteronomy 3:7** 
 <small><sub>**LXX:**</sub></small>
 and all the cattle; and the spoils of the cities we despoiled for ourselves. 
-<small><sub>**KJV:**</sub></small>
-But all the cattle, and the spoil of the cities, we took for a prey to ourselves.
-<small><sub>**BSB:**</sub></small>
-But all the livestock and plunder of the cities we carried off for ourselves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.6|<< Deuteronomy 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.8|Deuteronomy 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

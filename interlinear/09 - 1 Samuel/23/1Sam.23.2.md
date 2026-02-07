@@ -1,4 +1,4 @@
-**1 Samuel 23:2** 
+**1 Samuel 23:2**<big><big>[[1Sam.23.1 David Delivers Keilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore David inquired of the LORD, saying, Shall I go and smite these Philistines? And the LORD said unto David, Go, and smite the Philistines, and save Keilah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So David inquired of the LORD, “Should I go and attack these Philistines?” A
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.1|<< 1 Samuel 23:1]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.3|1 Samuel 23:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he enquired  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7592\|יִּשְׁאַ֨ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.'Al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֤ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

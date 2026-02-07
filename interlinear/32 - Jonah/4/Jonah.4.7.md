@@ -1,4 +1,4 @@
-**Jonah 4:7** 
+**Jonah 4:7**<big><big>[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When dawn came the next day, God appointed a worm that attacked the plant so tha
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appointed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4487\|יְמַ֤ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Man<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> God  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0430G\|אֱלֹהִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

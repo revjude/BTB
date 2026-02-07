@@ -1,10 +1,7 @@
 **LXX Numbers 28:18** 
 <small><sub>**LXX:**</sub></small>
 And the first day will be a holy summoning to you. All work \[which is\] servile you shall not do. 
-<small><sub>**KJV:**</sub></small>
-In the first day [shall be] an holy convocation; ye shall do no manner of servile work [therein]:
-<small><sub>**BSB:**</sub></small>
-On the first day there is to be a sacred assembly; you must not do any regular work.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.17|<< Numbers 28:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.19|Numbers 28:19 >>]]</td></tr></table>
 
 | Translation | Greek |

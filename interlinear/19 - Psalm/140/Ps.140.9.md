@@ -1,4 +1,4 @@
-**Psalms 140:9** (140:10)
+**Psalms 140:9**<big><big>[[Ps.140.1 Rescue Me from Evil Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] the head of those that compass me about, let the mischief of their own lips cover them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May the heads of those who surround me be covered in the trouble their lips have
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.8|<< Psalms 140:8]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.10|Psalms 140:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] head of  |**<big>&#8207;[[H7218A\|רֹ֥אשׁ]]&#8207; </big>**| rosh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | surroundings my  |**<big>&#8207;[[H4524\|מְסִבָּ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| me.si.Ba<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

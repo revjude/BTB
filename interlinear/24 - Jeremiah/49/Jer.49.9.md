@@ -1,4 +1,4 @@
-**Jeremiah 49:9** 
+**Jeremiah 49:9**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If grapegatherers come to thee, would they not leave [some] gleaning grapes? if thieves by night, they will destroy till they have enough.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If grape gatherers came to you, would they not leave some gleanings? Were thieve
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.8|<< Jeremiah 49:8]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.10|Jeremiah 49:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | grape gatherers  |**<big>&#8207;[[H1219\|בֹּֽצְרִים֙]]&#8207; </big>**| bo.tze.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

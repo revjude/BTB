@@ -1,4 +1,4 @@
-**Isaiah 52:13** 
+**Isaiah 52:13**<big><big>[[Isa.52.13 The Servant Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, My Servant will prosper; He will be raised and lifted up and highly exal
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.12|<< Isaiah 52:12]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.14|Isaiah 52:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֥ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will prosper  |**<big>&#8207;[[H7919A\|יַשְׂכִּ֖יל]]&#8207; </big>**| yas.Kil<small><sup>[[HVhi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

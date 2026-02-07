@@ -1,4 +1,4 @@
-**2 Kings 8:24** 
+**2 Kings 8:24**<big><big>[[2Kgs.8.20 Edom and Libnah Rebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joram slept with his fathers, and was buried with his fathers in the city of David: and Ahaziah his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Jehoram rested with his fathers and was buried with them in the City of Davi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.23|<< 2 Kings 8:23]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.25|2 Kings 8:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he lay down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7901J\|יִּשְׁכַּ֤ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kav<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joram  |**<big>&#8207;[[H3141J\|יוֹרָם֙]]&#8207; </big>**| yo.Ram<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

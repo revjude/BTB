@@ -1,10 +1,7 @@
 **LXX Leviticus 16:18** 
 <small><sub>**LXX:**</sub></small>
 And he shall come forth unto the altar, the one before \[the\] <span class="smallcaps">lord</span>, and he shall atone upon it. And he shall take from the blood of the calf, and from the blood of the young he-goat, and he shall place \[it\] upon the horns of the altar round about. 
-<small><sub>**KJV:**</sub></small>
-And he shall go out unto the altar that [is] before the LORD, and make an atonement for it; and shall take of the blood of the bullock, and of the blood of the goat, and put [it] upon the horns of the altar round about.
-<small><sub>**BSB:**</sub></small>
-Then he shall go out to the altar that is before the LORD and make atonement for it. He is to take some of the bull’s blood and some of the goat’s blood and put it on all the horns of the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.17|<< Leviticus 16:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.19|Leviticus 16:19 >>]]</td></tr></table>
 
 | Translation | Greek |

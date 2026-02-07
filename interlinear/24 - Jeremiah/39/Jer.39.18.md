@@ -1,4 +1,4 @@
-**Jeremiah 39:18** 
+**Jeremiah 39:18**<big><big>[[Jer.39.11 Jeremiah Delivered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will surely deliver thee, and thou shalt not fall by the sword, but thy life shall be for a prey unto thee: because thou hast put thy trust in me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I will surely rescue you so that you do not fall by the sword. Because you h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.39.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.17|<< Jeremiah 39:17]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.40.1|Jeremiah 40:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<rescue>  |**<big>&#8207;[[H4422\|מַלֵּט֙]]&#8207; </big>**| ma.Let<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

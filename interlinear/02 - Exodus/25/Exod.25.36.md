@@ -1,4 +1,4 @@
-**Exodus 25:36** 
+**Exodus 25:36**<big><big>[[Exod.25.31 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their knops and their branches shall be of the same: all it [shall be] one beaten work [of] pure gold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The buds and branches are to be all of one piece with the lampstand, hammered ou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.35|<< Exodus 25:35]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.37|Exodus 25:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bulbs their  |**<big>&#8207;[[H3730\|כַּפְתֹּרֵי]]&#8207;&#8207;[[H9028\|הֶ֥ם]]&#8207; </big>**| kaf.to.rei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and branches their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7070G\|קְנֹתָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ke.no.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

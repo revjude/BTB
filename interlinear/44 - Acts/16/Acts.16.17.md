@@ -1,12 +1,12 @@
-**Acts 16:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:17**<big><big>[[Acts.16.16 Paul and Silas Imprisoned|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation.
 <small><sub>**BSB:**</sub></small>
 This girl followed Paul and the rest of us, shouting, “These men are servants of the Most High God, who are proclaiming to you the way of salvation!”
 <small><sub>**Literal:**</sub></small>
 She having followed <the> after Paul and us was crying out saying; These <the> men servants of the God <the> Most High are, who proclaim to you [the] way of salvation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.16|<< Acts 16:16]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.18|Acts 16:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | She |**<big>[[G3778\|αὕτη]]</big>**  |hautē <small><sup>[[D-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having followed [^1] |**<big>[[G2628\|κατακολουθοῦσα]]</big>**  |katakolouthousa <small><sup>[[V-PAP-NSF]]</sup></small> | <abbr title="NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

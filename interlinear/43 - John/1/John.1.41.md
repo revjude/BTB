@@ -1,12 +1,12 @@
-**John 1:41
-**<small><sub>**KJV:**</sub></small>
+**John 1:41**<big><big>[[John.1.35 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.
 <small><sub>**BSB:**</sub></small>
 He first found his brother Simon and told him, “We have found the Messiah” (which is translated as Christ).
 <small><sub>**Literal:**</sub></small>
 Finds he first the brother <the> [his] own Simon and he says to him; We have found the Messiah, which is being translated <the> Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.40|<< John 1:40]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.42|John 1:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Finds |**<big>[[G2147\|Εὑρίσκει]]</big>**  |Heuriskei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

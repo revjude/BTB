@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:30** 
 <small><sub>**LXX:**</sub></small>
 that as I swore by an oath to you according to \[the\] <span class="smallcaps">lord</span>  God of Israel, saying that, Solomon  your son shall reign after me, and he shall sit upon  my throne instead of me; that thus I will do  this day. 
-<small><sub>**KJV:**</sub></small>
-Even as I sware unto thee by the LORD God of Israel, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne in my stead; even so will I certainly do this day.
-<small><sub>**BSB:**</sub></small>
-I will carry out this very day exactly what I swore to you by the LORD, the God of Israel: Surely your son Solomon will reign after me, and he will sit on my throne in my place.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.29|<< 1 Kings 1:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.31|1 Kings 1:31 >>]]</td></tr></table>
 
 | Translation | Greek |

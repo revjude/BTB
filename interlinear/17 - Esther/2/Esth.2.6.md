@@ -1,4 +1,4 @@
-**Esther 2:6** 
+**Esther 2:6**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who had been carried away from Jerusalem with the captivity which had been carried away with Jeconiah king of Judah, whom Nebuchadnezzar the king of Babylon had carried away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He had been carried into exile from Jerusalem by Nebuchadnezzar king of Babylon 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.5|<< Esther 2:5]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.7|Esther 2:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had been taken into exile  |**<big>&#8207;[[H1540K\|הָגְלָה֙]]&#8207; </big>**| ha.ge.Lah<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Romans 9:12
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:12**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 It was said unto her, The elder shall serve the younger.
 <small><sub>**BSB:**</sub></small>
 not by works but by Him who calls, she was told, “The older will serve the younger.”
@@ -10,7 +10,7 @@ not of works but of the [One] calling, [12] it was said to her that The older wi
 > $\quad$ referencing: [[LXX.Gen.25.23|Gen 25:23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | of |**<big>[[G1537\|ἐξ]]</big>**  |ex <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

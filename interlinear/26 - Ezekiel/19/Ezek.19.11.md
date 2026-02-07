@@ -1,4 +1,4 @@
-**Ezekiel 19:11** 
+**Ezekiel 19:11**<big><big>[[Ezek.19.1 A Lament for the Princes of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she had strong rods for the sceptres of them that bare rule, and her stature was exalted among the thick branches, and she appeared in her height with the multitude of her branches.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It had strong branches, fit for a ruler’s scepter. It towered high above the t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.10|<< Ezekiel 19:10]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.12|Ezekiel 19:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they belonged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּֽהְיוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.yu-<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to it  |**<big>&#8207;[[H9005\|לָ֞]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| la<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 13:8** 
 <small><sub>**LXX:**</sub></small>
 And now you speak to oppose against \[the\] face of \[the\] kingdom of \[the\] <span class="smallcaps">lord</span> in \[the\] hand of \[the\] sons of David, and you \[are\] a vast multitude, and with you calves of gold which Jeroboam made for you as gods. 
-<small><sub>**KJV:**</sub></small>
-And now ye think to withstand the kingdom of the LORD in the hand of the sons of David; and ye [be] a great multitude, and [there are] with you golden calves, which Jeroboam made you for gods.
-<small><sub>**BSB:**</sub></small>
-And now you think you can resist the kingdom of the LORD, which is in the hands of David’s descendants. You are indeed a vast army, and you have with you the golden calves that Jeroboam made for you as gods.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.7|<< 2 Chronicles 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.9|2 Chronicles 13:9 >>]]</td></tr></table>
 
 | Translation | Greek |

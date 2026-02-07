@@ -1,10 +1,7 @@
 **LXX Numbers 33:5** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel departing out of Rameses camped in Soccoth. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel removed from Rameses, and pitched in Succoth.
-<small><sub>**BSB:**</sub></small>
-The Israelites set out from Rameses and camped at Succoth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.33.4|<< Numbers 33:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.6|Numbers 33:6 >>]]</td></tr></table>
 
 | Translation | Greek |

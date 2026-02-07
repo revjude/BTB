@@ -1,4 +1,4 @@
-**Proverbs 14:10** 
+**Proverbs 14:10**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The heart knows its own bitterness, and no stranger shares in its joy.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.9|<< Proverbs 14:9]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.11|Proverbs 14:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a heart  |**<big>&#8207;[[H3820A\|לֵ֗ב]]&#8207; </big>**| Lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] knowing  |**<big>&#8207;[[H3045\|י֭וֹדֵעַ]]&#8207; </big>**| Yo.de.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

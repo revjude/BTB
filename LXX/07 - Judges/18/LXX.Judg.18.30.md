@@ -1,10 +1,7 @@
 **LXX Judges 18:30** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Dan set up for themselves the carved \[image\]. And Jonathan, son of Gershom, son of Manasseh, he and  his sons were priests to the tribe of Dan until \[the\] day of the displacement of the land. 
-<small><sub>**KJV:**</sub></small>
-And the children of Dan set up the graven image: and Jonathan, the son of Gershom, the son of Manasseh, he and his sons were priests to the tribe of Dan until the day of the captivity of the land.
-<small><sub>**BSB:**</sub></small>
-The Danites set up idols for themselves, and Jonathan son of Gershom, the son of Moses, and his sons were priests for the tribe of Dan until the day of the captivity of the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.29|<< Judges 18:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.31|Judges 18:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 23:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:33**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Ye] serpents, [ye] generation of vipers, how can ye escape the damnation of hell?
 <small><sub>**BSB:**</sub></small>
 You snakes! You brood of vipers! How will you escape the sentence of hell?
 <small><sub>**Literal:**</sub></small>
 Serpents Offspring of vipers! How shall you escape from the sentence <the> of hell?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.32|<< Matthew 23:32]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.34|Matthew 23:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Serpents |**<big>[[G3789\|ὄφεις]]</big>**  |opheis <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Offspring |**<big>[[G1081G\|γεννήματα]]</big>**  |gennēmata <small><sup>[[N-VPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

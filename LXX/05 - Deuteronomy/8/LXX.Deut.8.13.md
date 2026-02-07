@@ -1,10 +1,7 @@
 **LXX Deuteronomy 8:13** 
 <small><sub>**LXX:**</sub></small>
 and  your oxen, and  your sheep having been multiplied to you, \[and\] silver and gold having been multiplied to you, and all as much as to you shall be multiplying, 
-<small><sub>**KJV:**</sub></small>
-And [when] thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied;
-<small><sub>**BSB:**</sub></small>
-and when your herds and flocks grow large and your silver and gold increase and all that you have is multiplied,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.8.12|<< Deuteronomy 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.14|Deuteronomy 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 40:19** 
 <small><sub>**LXX:**</sub></small>
 Yet in three days and Pharaoh will remove  your head from you, and hang you upon a timber, and the birds of the heaven will eat the flesh from you. 
-<small><sub>**KJV:**</sub></small>
-Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee.
-<small><sub>**BSB:**</sub></small>
-Within three days Pharaoh will lift off your head and hang you on a tree. Then the birds will eat the flesh of your body.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.40.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.40.18|<< Genesis 40:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.40.20|Genesis 40:20 >>]]</td></tr></table>
 
 | Translation | Greek |

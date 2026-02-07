@@ -1,4 +1,4 @@
-**Psalms 97:6** 
+**Psalms 97:6**<big><big>[[Ps.97.1 Let the Earth Rejoice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heavens declare his righteousness, and all the people see his glory.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The heavens proclaim His righteousness; all the peoples see His glory.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.97.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.5|<< Psalms 97:5]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.7|Psalms 97:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they declare  |**<big>&#8207;[[H5046\|הִגִּ֣ידוּ]]&#8207; </big>**| hi.Gi.du<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֣יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

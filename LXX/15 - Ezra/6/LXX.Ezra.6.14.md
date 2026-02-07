@@ -1,10 +1,7 @@
 **LXX Ezra 6:14** 
 <small><sub>**LXX:**</sub></small>
 And the elders of the Jews built, and prospered at \[the\] prophecy of Haggai the prophet, and Zechariah son of Iddo. And they rebuilt, and made ready by \[the\] decree of \[the\] God of Israel, and by \[the\] decree of Cyrus, and Darius, and Artaxerxes kings of Persia. 
-<small><sub>**KJV:**</sub></small>
-And the elders of the Jews builded, and they prospered through the prophesying of Haggai the prophet and Zechariah the son of Iddo. And they builded, and finished [it], according to the commandment of the God of Israel, and according to the commandment of Cyrus, and Darius, and Artaxerxes king of Persia.
-<small><sub>**BSB:**</sub></small>
-So the Jewish elders built and prospered through the prophesying of Haggai the prophet and Zechariah son of Iddo. They finished building according to the command of the God of Israel and the decrees of Cyrus, Darius, and Artaxerxes, kings of Persia.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.13|<< Ezra 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.15|Ezra 6:15 >>]]</td></tr></table>
 
 | Translation | Greek |

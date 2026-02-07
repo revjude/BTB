@@ -1,10 +1,7 @@
 **LXX Genesis 41:33** 
 <small><sub>**LXX:**</sub></small>
 Now then, look about \[for a\] man intelligent and discerning, and place him over \[the\] land of Egypt! 
-<small><sub>**KJV:**</sub></small>
-Now therefore let Pharaoh look out a man discreet and wise, and set him over the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-Now, therefore, Pharaoh should look for a discerning and wise man and set him over the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.32|<< Genesis 41:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.34|Genesis 41:34 >>]]</td></tr></table>
 
 | Translation | Greek |

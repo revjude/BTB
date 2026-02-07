@@ -1,10 +1,7 @@
 **LXX Judges 6:22** 
 <small><sub>**LXX:**</sub></small>
 And Gideon knew that it is \[the\] angel \[of the\] <span class="smallcaps">lord</span>. And Gideon said, Alas, O my Lord, O <span class="smallcaps">lord</span>, for I beheld the angel of \[the\] <span class="smallcaps">lord</span> face to face. 
-<small><sub>**KJV:**</sub></small>
-And when Gideon perceived that he [was] an angel of the LORD, Gideon said, Alas, O Lord GOD! for because I have seen an angel of the LORD face to face.
-<small><sub>**BSB:**</sub></small>
-When Gideon realized that it was the angel of the LORD, he said, “Oh no, Lord GOD! I have seen the angel of the LORD face to face!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.21|<< Judges 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.23|Judges 6:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:26** 
 <small><sub>**LXX:**</sub></small>
 In the turning of the just from  his righteousness, and he should commit transgression, and he should die in the transgression which he did; he shall die in it. 
-<small><sub>**KJV:**</sub></small>
-When a righteous [man] turneth away from his righteousness, and committeth iniquity, and dieth in them; for his iniquity that he hath done shall he die.
-<small><sub>**BSB:**</sub></small>
-If a righteous man turns from his righteousness and practices iniquity, he will die for this. He will die because of the iniquity he has committed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.25|<< Ezekiel 18:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.27|Ezekiel 18:27 >>]]</td></tr></table>
 
 | Translation | Greek |

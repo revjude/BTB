@@ -1,10 +1,7 @@
 **LXX Exodus 39:20** 
 <small><sub>**LXX:**</sub></small>
 And they made two rings of gold, and placed them upon both of the shoulders of the shoulder-piece from below it, down in front, down from the coupling from above the woven part of the shoulder-piece. 
-<small><sub>**KJV:**</sub></small>
-And they made two [other] golden rings, and put them on the two sides of the ephod underneath, toward the forepart of it, over against the [other] coupling thereof, above the curious girdle of the ephod.
-<small><sub>**BSB:**</sub></small>
-They made two additional gold rings and attached them to the bottom of the two shoulder pieces of the ephod, on its front, near the seam just above its woven waistband.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.39.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.39.19|<< Exodus 39:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.39.21|Exodus 39:21 >>]]</td></tr></table>
 
 | Translation | Greek |

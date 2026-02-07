@@ -1,10 +1,7 @@
 **LXX Exodus 12:3** 
 <small><sub>**LXX:**</sub></small>
 Speak to all \[the\] gathering of the sons of Israel! saying, The tenth  of this month each take a sheep according to \[the\] houses of \[the\] families! a sheep according to a house. 
-<small><sub>**KJV:**</sub></small>
-Speak ye unto all the congregation of Israel, saying, In the tenth [day] of this month they shall take to them every man a lamb, according to the house of [their] fathers, a lamb for an house:
-<small><sub>**BSB:**</sub></small>
-Tell the whole congregation of Israel that on the tenth day of this month each man must select a lamb for his family, one per household.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.12.2|<< Exodus 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.12.4|Exodus 12:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jonah 4:6** 
+**Jonah 4:6**<big><big>[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD God prepared a gourd, and made [it] to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So the LORD God appointed a vine, and it grew up to provide shade over Jonah’s
 > $\quad$ referenced by: [[Luke.11.30|Luke 11:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appointed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4487\|יְמַ֣ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Man<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Yah.weh-<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

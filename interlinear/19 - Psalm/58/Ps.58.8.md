@@ -1,4 +1,4 @@
-**Psalms 58:8** (58:9)
+**Psalms 58:8**<big><big>[[Ps.58.1 God Judges the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As a snail [which] melteth, let [every one of them] pass away: [like] the untimely birth of a woman, [that] they may not see the sun.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like a slug that dissolves in its slime, like a woman’s stillborn child, may t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.7|<< Psalms 58:7]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.9|Psalms 58:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like  |**<big>&#8207;[[H3644G\|כְּמ֣וֹ]]&#8207; </big>**| ke.Mo<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a snail  |**<big>&#8207;[[H7642\|שַׁ֭בְּלוּל]]&#8207; </big>**| She.be.lul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

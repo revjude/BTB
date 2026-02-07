@@ -1,4 +1,4 @@
-**Jeremiah 8:22** 
+**Jeremiah 8:22**<big><big>[[Jer.8.18 Jeremiah Weeps for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is there] no balm in Gilead; [is there] no physician there? why then is not the health of the daughter of my people recovered?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is there no balm in Gilead? Is no physician there? Why then has the health of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.21|<< Jeremiah 8:21]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.1|Jeremiah 9:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ balm  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H6875\|צֳרִי֙]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> tzo.Ri<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] there not  |**<big>&#8207;[[H0369\|אֵ֣ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

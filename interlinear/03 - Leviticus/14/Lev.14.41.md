@@ -1,4 +1,4 @@
-**Leviticus 14:41** 
+**Leviticus 14:41**<big><big>[[Lev.14.33 Signs of Home Contamination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall cause the house to be scraped within round about, and they shall pour out the dust that they scrape off without the city into an unclean place:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he shall have the inside of the house scraped completely and the plaster tha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.40|<< Leviticus 14:40]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.42|Leviticus 14:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the house  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1004B\|בַּ֛יִת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

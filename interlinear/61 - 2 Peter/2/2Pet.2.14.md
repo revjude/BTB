@@ -1,12 +1,12 @@
-**2 Peter 2:14
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 2:14**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having eyes full of adultery, and that cannot cease from sin; beguiling unstable souls: an heart they have exercised with covetous practices; cursed children:
 <small><sub>**BSB:**</sub></small>
 Their eyes are full of adultery; their desire for sin is never satisfied; they seduce the unstable. They are accursed children with hearts trained in greed.
 <small><sub>**Literal:**</sub></small>
 eyes having full of adultery and unceasing from sin, enticing souls unestablished, a heart exercised in craving having — of a curse children!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.13|<< 2 Peter 2:13]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.15|2 Peter 2:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | eyes |**<big>[[G3788\|ὀφθαλμοὺς]]</big>**  |ophthalmous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having |**<big>[[G2192\|ἔχοντες]]</big>**  |echontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

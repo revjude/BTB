@@ -1,10 +1,7 @@
 **LXX Genesis 2:12** 
 <small><sub>**LXX:**</sub></small>
 And the gold  of that land \[is\] good, and there is the carbuncle and the leek colored stone. 
-<small><sub>**KJV:**</sub></small>
-And the gold of that land [is] good: there [is] bdellium and the onyx stone.
-<small><sub>**BSB:**</sub></small>
-And the gold of that land is pure, and bdellium and onyx are found there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.11|<< Genesis 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.13|Genesis 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

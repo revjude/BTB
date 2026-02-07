@@ -1,10 +1,7 @@
 **LXX Proverbs 11:7** 
 <small><sub>**LXX:**</sub></small>
 Of the coming to an end of a just man hope is not destroyed; but the boasting of the impious is destroyed. 
-<small><sub>**KJV:**</sub></small>
-When a wicked man dieth, [his] expectation shall perish: and the hope of unjust [men] perisheth.
-<small><sub>**BSB:**</sub></small>
-When the wicked man dies, his hope perishes, and the hope of his strength vanishes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.6|<< Proverbs 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.8|Proverbs 11:8 >>]]</td></tr></table>
 
 | Translation | Greek |

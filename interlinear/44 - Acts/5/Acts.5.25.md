@@ -1,12 +1,12 @@
-**Acts 5:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:25**<big><big>[[Acts.5.24 The Apostles before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then came one and told them, saying, Behold, the men whom ye put in prison are standing in the temple, and teaching the people.
 <small><sub>**BSB:**</sub></small>
 Then someone came in and announced, “Look, the men you put in jail are standing in the temple courts teaching the people!”
 <small><sub>**Literal:**</sub></small>
 Having come then a certain one he reported to them saying that Behold the men whom you put in the prison are in the temple already standing and teaching the people!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.24|<< Acts 5:24]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.26|Acts 5:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having come |**<big>[[G3854\|παραγενόμενος]]</big>**  |paragenomenos <small><sup>[[V-2ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

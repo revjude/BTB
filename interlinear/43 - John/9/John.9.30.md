@@ -1,12 +1,12 @@
-**John 9:30
-**<small><sub>**KJV:**</sub></small>
+**John 9:30**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The man answered and said unto them, Why herein is a marvellous thing, that ye know not from whence he is, and [yet] he hath opened mine eyes.
 <small><sub>**BSB:**</sub></small>
 “That is remarkable indeed!” the man said. “You do not know where He is from, and yet He opened my eyes.
 <small><sub>**Literal:**</sub></small>
 Answered the man and said to them; In this for <the> an amazing thing is that you yourselves not know from where He is, and yet He opened my <the> eyes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.29|<< John 9:29]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.31|John 9:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

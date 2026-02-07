@@ -1,4 +1,4 @@
-**1 Samuel 4:21** 
+**1 Samuel 4:21**<big><big>[[1Sam.4.12 The Death of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she named the child Ichabod, saying, The glory is departed from Israel: because the ark of God was taken, and because of her father in law and her husband.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And she named the boy Ichabod, saying, “The glory has departed from Israel,”
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.20|<< 1 Samuel 4:20]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.22|1 Samuel 4:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she called  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7121H\|תִּקְרָ֣א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tik.Ra'<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> the lad  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5288\|נַּ֗עַר]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:46** 
 <small><sub>**LXX:**</sub></small>
 For from \[the\] sound of \[the\] conquest of Babylon the earth shall be shaken, and her cry among nations shall be heard. 
-<small><sub>**KJV:**</sub></small>
-At the noise of the taking of Babylon the earth is moved, and the cry is heard among the nations.
-<small><sub>**BSB:**</sub></small>
-At the sound of Babylon’s capture the earth will quake; a cry will be heard among the nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.45|<< Jeremiah 50:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.1|Jeremiah 51:1 >>]]</td></tr></table>
 
 | Translation | Greek |

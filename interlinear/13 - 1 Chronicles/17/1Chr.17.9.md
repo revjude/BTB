@@ -1,4 +1,4 @@
-**1 Chronicles 17:9** 
+**1 Chronicles 17:9**<big><big>[[1Chr.17.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also I will ordain a place for my people Israel, and will plant them, and they shall dwell in their place, and shall be moved no more; neither shall the children of wickedness waste them any more, as at the beginning,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will provide a place for My people Israel and will plant them so that they
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.8|<< 1 Chronicles 17:8]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.10|1 Chronicles 17:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will establish  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760L\|שַׂמְתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a place  |**<big>&#8207;[[H4725\|מָ֠קוֹם]]&#8207; </big>**| Ma.kom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

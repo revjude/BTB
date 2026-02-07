@@ -1,4 +1,4 @@
-**Jeremiah 38:11** 
+**Jeremiah 38:11**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Ebedmelech took the men with him, and went into the house of the king under the treasury, and took thence old cast clouts and old rotten rags, and let them down by cords into the dungeon to Jeremiah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Ebed-melech took the men with him and went to the king’s palace, to a pla
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.10|<< Jeremiah 38:10]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.12|Jeremiah 38:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֣ח]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ebed  |**<big>&#8207;[[H5663\|עֶֽבֶד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.ved-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

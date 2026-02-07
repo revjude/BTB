@@ -1,10 +1,7 @@
 **LXX Jeremiah 3:5** 
 <small><sub>**LXX:**</sub></small>
 Shall it abide into the eon, or shall it be guarded for victory? Behold, you spoke and did  these evils, and have prevailed. 
-<small><sub>**KJV:**</sub></small>
-Will he reserve [his anger] for ever? will he keep [it] to the end? Behold, thou hast spoken and done evil things as thou couldest.
-<small><sub>**BSB:**</sub></small>
-Will He be angry forever? Will He be indignant to the end?’ This you have spoken, but you keep doing all the evil you can.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.4|<< Jeremiah 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.3.6|Jeremiah 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Judges 20:14** 
+**Judges 20:14**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the children of Benjamin gathered themselves together out of the cities unto Gibeah, to go out to battle against the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And from their cities they came together at Gibeah to go out and fight against t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.13|<< Judges 20:13]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.15|Judges 20:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gathered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0622\|יֵּאָסְפ֧וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.'a.se.Fu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

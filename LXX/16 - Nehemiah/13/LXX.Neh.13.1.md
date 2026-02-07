@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In  that day \[they\] read in \[the\] scroll of Moses into \[the\] ears of the people. And it was found written in it how that \[the\] Ammonite and Moabite should not enter into \[the\] assembly of God unto \[the\] eon. 
-<small><sub>**KJV:**</sub></small>
-On that day they read in the book of Moses in the audience of the people; and therein was found written, that the Ammonite and the Moabite should not come into the congregation of God for ever;
-<small><sub>**BSB:**</sub></small>
-At that time the Book of Moses was read aloud in the hearing of the people, and in it they found the passage stating that no Ammonite or Moabite should ever enter the assembly of God,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.12.47|<< Nehemiah 12:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.2|Nehemiah 13:2 >>]]</td></tr></table>
 
 | Translation | Greek |

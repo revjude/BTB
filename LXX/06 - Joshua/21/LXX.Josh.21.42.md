@@ -1,10 +1,7 @@
 **LXX Joshua 21:42** 
 <small><sub>**LXX:**</sub></small>
 and  their outskirts. Round about  these cities city by city and the their outskirts round about the cities. Thus to all  these cities. 
-<small><sub>**KJV:**</sub></small>
-These cities were every one with their suburbs round about them: thus [were] all these cities.
-<small><sub>**BSB:**</sub></small>
-Each of these cities had its own surrounding pasturelands; this was true for all the cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.41|<< Joshua 21:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.43|Joshua 21:43 >>]]</td></tr></table>
 
 | Translation | Greek |

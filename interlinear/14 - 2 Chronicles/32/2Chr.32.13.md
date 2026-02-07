@@ -1,4 +1,4 @@
-**2 Chronicles 32:13** 
+**2 Chronicles 32:13**<big><big>[[2Chr.32.9 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Know ye not what I and my fathers have done unto all the people of [other] lands? were the gods of the nations of those lands any ways able to deliver their lands out of mine hand?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do you not know what I and my fathers have done to all the peoples of the lands?
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.12|<< 2 Chronicles 32:12]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.14|2 Chronicles 32:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do you know  |**<big>&#8207;[[H3045\|תֵדְע֗וּ]]&#8207; </big>**| te.de.'U<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

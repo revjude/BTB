@@ -1,10 +1,7 @@
 **LXX Numbers 16:7** 
 <small><sub>**LXX:**</sub></small>
 And put fire upon them! And put upon them incense before \[the\] <span class="smallcaps">lord</span> tomorrow! And it will be the man who ever \[the\] <span class="smallcaps">lord</span> should choose, this one \[shall be\] holy. Let it be suitable to you sons of Levi! 
-<small><sub>**KJV:**</sub></small>
-And put fire therein, and put incense in them before the LORD to morrow: and it shall be [that] the man whom the LORD doth choose, he [shall be] holy: [ye take] too much upon you, ye sons of Levi.
-<small><sub>**BSB:**</sub></small>
-and tomorrow you are to place fire and incense in them in the presence of the LORD. Then the man the LORD chooses will be the one who is holy. It is you sons of Levi who have taken too much upon yourselves!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.6|<< Numbers 16:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.8|Numbers 16:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 36:7** 
 <small><sub>**LXX:**</sub></small>
 And the inheritance to the sons of Israel shall not be moved around from tribe to tribe, that each in the inheritance of the tribe  of his family the sons of Israel shall cleave to. 
-<small><sub>**KJV:**</sub></small>
-So shall not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel shall keep himself to the inheritance of the tribe of his fathers.
-<small><sub>**BSB:**</sub></small>
-No inheritance in Israel may be transferred from tribe to tribe, because each of the Israelites is to retain the inheritance of the tribe of his fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.36.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.6|<< Numbers 36:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.8|Numbers 36:8 >>]]</td></tr></table>
 
 | Translation | Greek |

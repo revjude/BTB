@@ -1,4 +1,4 @@
-**Numbers 5:27** 
+**Numbers 5:27**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he hath made her to drink the water, then it shall come to pass, [that], if she be defiled, and have done trespass against her husband, that the water that causeth the curse shall enter into her, [and become] bitter, and her belly shall swell, and her thigh shall rot: and the woman shall be a curse among her people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When he has made her drink the water, if she has defiled herself and been unfait
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.26|<< Numbers 5:26]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.28|Numbers 5:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make drink her  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8248H\|הִשְׁקָ֣]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.Ka<small><sup>[[HVhq3ms]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

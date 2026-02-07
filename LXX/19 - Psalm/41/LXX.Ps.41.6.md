@@ -1,10 +1,7 @@
 **LXX Psalm 41:6** 
 <small><sub>**LXX:**</sub></small>
 And if he entered  to see \[me\], his heart spoke folly. He gathered lawlessness to himself; he went forth outside and spoke in the same \[manner\]. 
-<small><sub>**KJV:**</sub></small>
-And if he come to see [me], he speaketh vanity: his heart gathereth iniquity to itself; [when] he goeth abroad, he telleth [it].
-<small><sub>**BSB:**</sub></small>
-My visitor speaks falsehood; he gathers slander in his heart; he goes out and spreads it abroad.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.41.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.41.5|<< Psalm 41:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.41.7|Psalm 41:7 >>]]</td></tr></table>
 
 | Translation | Greek |

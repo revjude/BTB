@@ -1,4 +1,4 @@
-**Proverbs 21:14** 
+**Proverbs 21:14**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A gift in secret pacifieth anger: and a reward in the bosom strong wrath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A gift in secret soothes anger, and a covert bribe pacifies great wrath.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.13|<< Proverbs 21:13]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.15|Proverbs 21:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a gift  |**<big>&#8207;[[H4976\|מַתָּ֣ן]]&#8207; </big>**| ma.Tan<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> secrecy  |**<big>&#8207;[[H9003\|בַּ֭]]&#8207;&#8207;[[H5643A\|סֵּתֶר]]&#8207; </big>**| Ba.<small><sup>[[HRd]]</sup></small> se.ter<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 109:27** 
 <small><sub>**LXX:**</sub></small>
 And let them know that  this \[is\] your hand! and you, O <span class="smallcaps">lord</span>, did it. 
-<small><sub>**KJV:**</sub></small>
-That they may know that this [is] thy hand; [that] thou, LORD, hast done it.
-<small><sub>**BSB:**</sub></small>
-Let them know that this is Your hand, that You, O LORD, have done it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.109.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.109.26|<< Psalm 109:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.109.28|Psalm 109:28 >>]]</td></tr></table>
 
 | Translation | Greek |

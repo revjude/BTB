@@ -1,10 +1,7 @@
 **LXX Genesis 24:48** 
 <small><sub>**LXX:**</sub></small>
 And finding favor, I did obeisance to the <span class="smallcaps">lord</span>. And I blessed \[the\] <span class="smallcaps">lord</span>  God  of my master Abraham, who prospered me in \[the\] way of truth, to take the daughter of the brother  of my master,  for his son. 
-<small><sub>**KJV:**</sub></small>
-And I bowed down my head, and worshipped the LORD, and blessed the LORD God of my master Abraham, which had led me in the right way to take my master’s brother’s daughter unto his son.
-<small><sub>**BSB:**</sub></small>
-Then I bowed down and worshiped the LORD; and I blessed the LORD, the God of my master Abraham, who led me on the right road to take the granddaughter of my master’s brother for his son.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.47|<< Genesis 24:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.49|Genesis 24:49 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 5:13** 
 <small><sub>**LXX:**</sub></small>
 And there was one sound in the trumpeting, and in the singing along with stringed instruments, and in the sounding out loud with one voice  to praise and to make acknowledgement to the <span class="smallcaps">lord</span>. And as they raised up high the voice with the trumpets, and with cymbals, and with instruments for the odes, that they said, Make acknowledgment to the <span class="smallcaps">lord</span> for \[he is\] good, for into the eon  \[is\] his mercy! And the house was filled up of \[the\] cloud and of \[the\] glory of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-It came even to pass, as the trumpeters and singers [were] as one, to make one sound to be heard in praising and thanking the LORD; and when they lifted up [their] voice with the trumpets and cymbals and instruments of musick, and praised the LORD, [saying], For [he is] good; for his mercy [endureth] for ever: that [then] the house was filled with a cloud, [even] the house of the LORD;
-<small><sub>**BSB:**</sub></small>
-The trumpeters and singers joined together to praise and thank the LORD with one voice. They lifted up their voices, accompanied by trumpets, cymbals, and musical instruments, in praise to the LORD: “For He is good; His loving devotion endures forever.” And the temple, the house of the LORD, was filled with a cloud<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.5.12|<< 2 Chronicles 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.5.14|2 Chronicles 5:14 >>]]</td></tr></table>
 
 | Translation | Greek |

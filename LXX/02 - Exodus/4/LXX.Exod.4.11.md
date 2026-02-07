@@ -1,10 +1,7 @@
 **LXX Exodus 4:11** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Who gave man a mouth, and who made \[the\] hard of hearing and mute, \[the\] seeing, and blind? \[Was it\] not I \[the\] <span class="smallcaps">lord</span>  God? 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto him, Who hath made man’s mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD?
-<small><sub>**BSB:**</sub></small>
-And the LORD said to him, “Who gave man his mouth? Or who makes the mute or the deaf, the sighted or the blind? Is it not I, the LORD?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.10|<< Exodus 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.12|Exodus 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

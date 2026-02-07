@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:7** 
 <small><sub>**LXX:**</sub></small>
 If thus he should say, Fine, \[then it will be\] peace \[to\] your servant. And if harshly he should answer to you, know that evil is completed by him! 
-<small><sub>**KJV:**</sub></small>
-If he say thus, [It is] well; thy servant shall have peace: but if he be very wroth, [then] be sure that evil is determined by him.
-<small><sub>**BSB:**</sub></small>
-If he says, ‘Good,’ then your servant is safe, but if he is enraged, you will know he has evil intentions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.6|<< 1 Samuel 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.8|1 Samuel 20:8 >>]]</td></tr></table>
 
 | Translation | Greek |

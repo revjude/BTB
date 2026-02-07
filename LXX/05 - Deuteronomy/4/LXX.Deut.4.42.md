@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:42** 
 <small><sub>**LXX:**</sub></small>
 \[for\] the man-killer to flee there who ever should have slaughtered the neighbor not knowingly, and this one having not detested him before  yesterday and the third \[day before\]. And he shall take refuge in one  of these cities, and he shall live -- 
-<small><sub>**KJV:**</sub></small>
-That the slayer might flee thither, which should kill his neighbour unawares, and hated him not in times past; and that fleeing unto one of these cities he might live:
-<small><sub>**BSB:**</sub></small>
-to which a manslayer could flee after killing his neighbor unintentionally without prior malice. To save one’s own life, he could flee to one of these cities:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.41|<< Deuteronomy 4:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.43|Deuteronomy 4:43 >>]]</td></tr></table>
 
 | Translation | Greek |

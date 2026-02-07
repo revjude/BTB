@@ -1,4 +1,4 @@
-**Esther 4:13** 
+**Esther 4:13**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Mordecai commanded to answer Esther, Think not with thyself that thou shalt escape in the king’s house, more than all the Jews.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ he sent back to her this reply: “Do not imagine that because you are in the ki
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.12|<< Esther 4:12]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.14|Esther 4:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Mordecai  |**<big>&#8207;[[H4782H\|מָרְדֳּכַ֖י]]&#8207; </big>**| ma.re.do.Khai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

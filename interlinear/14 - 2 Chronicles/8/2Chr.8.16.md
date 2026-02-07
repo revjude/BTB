@@ -1,4 +1,4 @@
-**2 Chronicles 8:16** 
+**2 Chronicles 8:16**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now all the work of Solomon was prepared unto the day of the foundation of the house of the LORD, and until it was finished. [So] the house of the LORD was perfected.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Thus all the work of Solomon was carried out, from the day the foundation was la
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.15|<< 2 Chronicles 8:15]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.17|2 Chronicles 8:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was arranged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3559A\|תִּכֹּן֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Kon<small><sup>[[HVNw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

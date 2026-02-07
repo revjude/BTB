@@ -1,12 +1,12 @@
-**1 Corinthians 10:17
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:17**<big><big>[[1Cor.10.14 Flee from Idolatry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For we [being] many are one bread, [and] one body: for we are all partakers of that one bread.
 <small><sub>**BSB:**</sub></small>
 Because there is one loaf, we who are many are one body; for we all partake of the one loaf.
 <small><sub>**Literal:**</sub></small>
 Because [there is] one loaf one body the many we are; <the> for all of the one loaf we partake.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.16|<< 1 Corinthians 10:16]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.18|1 Corinthians 10:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because [there is] |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | one |**<big>[[G1520\|εἷς]]</big>**  |heis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

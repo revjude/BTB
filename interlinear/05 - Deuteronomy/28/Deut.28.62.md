@@ -1,4 +1,4 @@
-**Deuteronomy 28:62** 
+**Deuteronomy 28:62**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall be left few in number, whereas ye were as the stars of heaven for multitude; because thou wouldest not obey the voice of the LORD thy God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You who were as numerous as the stars in the sky will be left few in number, bec
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.62|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.61|<< Deuteronomy 28:61]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.63|Deuteronomy 28:63 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will be left  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7604\|נִשְׁאַרְתֶּם֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nish.'ar.Tem<small><sup>[[HVNq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> men of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H4962\|מְתֵ֣י]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> m.Tei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

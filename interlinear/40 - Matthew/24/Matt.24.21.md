@@ -1,5 +1,5 @@
-**Matthew 24:21
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:21**<big><big>[[Matt.24.15 The Abomination of Desolation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For then shall be great tribulation, such as was not since the beginning of the world to this time, no, nor ever shall be.
 <small><sub>**BSB:**</sub></small>
 For at that time there will be great tribulation, unseen from the beginning of the world until now, and never to be seen again.
@@ -10,7 +10,7 @@ There will be for then tribulation great such as not has been from [the] beginni
 > $\quad$ referencing: [[LXX.Jer.30.7|Jer 30:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | There will be |**<big>[[G1510\|ἔσται]]</big>**  |estai <small><sup>[[V-FDI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

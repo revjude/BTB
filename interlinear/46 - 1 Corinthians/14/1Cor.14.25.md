@@ -1,5 +1,5 @@
-**1 Corinthians 14:25
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:25**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And thus are the secrets of his heart made manifest; and so falling down on [his] face he will worship God, and report that God is in you of a truth.
 <small><sub>**BSB:**</sub></small>
 and the secrets of his heart will be made known. So he will fall facedown and worship God, proclaiming, “God is truly among you!”
@@ -10,7 +10,7 @@ and thus the secrets of the heart of him manifest become, And thus having fallen
 > $\quad$ referencing: [[LXX.Isa.45.14|Isa 45:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |
 | thus [^1] |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="TR+Byz">K</abbr> | |

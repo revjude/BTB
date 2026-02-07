@@ -1,4 +1,4 @@
-**Isaiah 9:2** (9:1)
+**Isaiah 9:2**<big><big>[[Isa.9.1 Unto Us a Child Is Born|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The people walking in darkness have seen a great light; on those living in the l
 > $\quad$ referenced by: [[Matt.4.15|Matt 4:15-16]] ☩ [[Luke.1.79|Luke 1:79]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָם֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which walk  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1980I\|הֹלְכִ֣ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ho.le.Khim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

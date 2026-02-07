@@ -1,12 +1,12 @@
-**Luke 14:33
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:33**<big><big>[[Luke.14.25 The Cost of Discipleship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So likewise, whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple.
 <small><sub>**BSB:**</sub></small>
 In the same way, any one of you who does not give up everything he has cannot be My disciple.
 <small><sub>**Literal:**</sub></small>
 So therefore every one of you who not does give up all <the> his own possessions, not is able to be My disciple.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.32|<< Luke 14:32]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.34|Luke 14:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G3779\|Οὕτως]]</big>**  |Houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

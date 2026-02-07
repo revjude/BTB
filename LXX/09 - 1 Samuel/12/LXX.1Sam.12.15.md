@@ -1,10 +1,7 @@
 **LXX 1 Samuel 12:15** 
 <small><sub>**LXX:**</sub></small>
 But if you should not hearken to the voice of \[the\] <span class="smallcaps">lord</span>, and should contend with the mouth of \[the\] <span class="smallcaps">lord</span>, then \[the\] hand \[of the\] <span class="smallcaps">lord</span> will be against you, and against  your king. 
-<small><sub>**KJV:**</sub></small>
-But if ye will not obey the voice of the LORD, but rebel against the commandment of the LORD, then shall the hand of the LORD be against you, as [it was] against your fathers.
-<small><sub>**BSB:**</sub></small>
-But if you disobey the LORD and rebel against His command, then the hand of the LORD will be against you as it was against your fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.14|<< 1 Samuel 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.16|1 Samuel 12:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Judges 14:8** 
+**Judges 14:8**<big><big>[[Judg.14.8 Samson’s Riddle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after a time he returned to take her, and he turned aside to see the carcase of the lion: and, behold, [there was] a swarm of bees and honey in the carcase of the lion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Samson returned later to take her, he left the road to see the lion’s car
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.7|<< Judges 14:7]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.9|Judges 14:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּ֤שָׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shov<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from days  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3117G\|יָּמִים֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

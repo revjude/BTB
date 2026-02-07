@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:26** 
 <small><sub>**LXX:**</sub></small>
 And in no way shall they take from you a stone for a corner, and a stone for a foundation. For into eternal extinction you will be, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And they shall not take of thee a stone for a corner, nor a stone for foundations; but thou shalt be desolate for ever, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-No one shall retrieve from you a cornerstone or a foundation stone, because you will become desolate forever,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.25|<< Jeremiah 51:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.27|Jeremiah 51:27 >>]]</td></tr></table>
 
 | Translation | Greek |

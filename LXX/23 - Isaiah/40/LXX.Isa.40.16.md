@@ -1,10 +1,7 @@
 **LXX Isaiah 40:16** 
 <small><sub>**LXX:**</sub></small>
  And Lebanon \[is\] not fit for burning, and all the four-footed are not fit for a whole offering; 
-<small><sub>**KJV:**</sub></small>
-And Lebanon [is] not sufficient to burn, nor the beasts thereof sufficient for a burnt offering.
-<small><sub>**BSB:**</sub></small>
-Lebanon is not sufficient for fuel, nor its animals enough for a burnt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.15|<< Isaiah 40:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.17|Isaiah 40:17 >>]]</td></tr></table>
 
 | Translation | Greek |

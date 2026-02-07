@@ -1,12 +1,12 @@
-**Luke 7:40
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:40**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answering said unto him, Simon, I have somewhat to say unto thee. And he saith, Master, say on.
 <small><sub>**BSB:**</sub></small>
 But Jesus answered him, “Simon, I have something to tell you.” “Tell me, Teacher,” he said.
 <small><sub>**Literal:**</sub></small>
 And answering <the> Jesus said to him; Simon, I have to you something to say. <the> And; Teacher do say [it], he says.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.39|<< Luke 7:39]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.41|Luke 7:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

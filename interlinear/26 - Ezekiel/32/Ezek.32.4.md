@@ -1,4 +1,4 @@
-**Ezekiel 32:4** 
+**Ezekiel 32:4**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I leave thee upon the land, I will cast thee forth upon the open field, and will cause all the fowls of the heaven to remain upon thee, and I will fill the beasts of the whole earth with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will abandon you on the land and hurl you into the open field. I will cause al
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.3|<< Ezekiel 32:3]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.5|Ezekiel 32:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will abandon you  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5203\|נְטַשְׁתִּ֣י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.tash.Ti.<small><sup>[[HVqq1cs]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the land  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H0776H\|אָ֔רֶץ]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

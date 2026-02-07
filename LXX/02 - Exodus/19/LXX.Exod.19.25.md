@@ -1,10 +1,7 @@
 **LXX Exodus 19:25** 
 <small><sub>**LXX:**</sub></small>
 And Moses went down to the people, and spoke to them. 
-<small><sub>**KJV:**</sub></small>
-So Moses went down unto the people, and spake unto them.
-<small><sub>**BSB:**</sub></small>
-So Moses went down to the people and spoke to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.19.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.24|<< Exodus 19:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.1|Exodus 20:1 >>]]</td></tr></table>
 
 | Translation | Greek |

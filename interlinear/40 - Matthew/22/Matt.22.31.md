@@ -1,12 +1,12 @@
-**Matthew 22:31
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:31**<big><big>[[Matt.22.23 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But as touching the resurrection of the dead, have ye not read that which was spoken unto you by God, saying,
 <small><sub>**BSB:**</sub></small>
 But concerning the resurrection of the dead, have you not read what God said to you:
 <small><sub>**Literal:**</sub></small>
 Concerning now the resurrection of the dead surely you have read that which has been spoken to you by <the> God saying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.30|<< Matthew 22:30]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.32|Matthew 22:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Concerning |**<big>[[G4012\|περὶ]]</big>**  |peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

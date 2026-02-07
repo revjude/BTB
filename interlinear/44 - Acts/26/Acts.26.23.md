@@ -1,12 +1,12 @@
-**Acts 26:23
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:23**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That Christ should suffer, [and] that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles.
 <small><sub>**BSB:**</sub></small>
 that the Christ would suffer, and as the first to rise from the dead, would proclaim light to our people and to the Gentiles.”
 <small><sub>**Literal:**</sub></small>
 that would suffer the Christ, as first through resurrection from [the] dead light He is about to preach <the> to both our people and to the Gentiles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.22|<< Acts 26:22]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.24|Acts 26:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G1487K\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | would suffer |**<big>[[G3805\|παθητὸς]]</big>**  |pathētos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

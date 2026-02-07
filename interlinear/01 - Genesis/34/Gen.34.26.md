@@ -1,4 +1,4 @@
-**Genesis 34:26** 
+**Genesis 34:26**<big><big>[[Gen.34.13 The Revenge of Dinah’s Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they slew Hamor and Shechem his son with the edge of the sword, and took Dinah out of Shechem’s house, and went out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They killed Hamor and his son Shechem with their swords, took Dinah out of Shech
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.25|<< Genesis 34:25]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.27|Genesis 34:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hamor  |**<big>&#8207;[[H2544\|חֲמוֹר֙]]&#8207; </big>**| cha.mOr<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

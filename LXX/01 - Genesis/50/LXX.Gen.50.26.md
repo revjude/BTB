@@ -1,10 +1,7 @@
 **LXX Genesis 50:26** 
 <small><sub>**LXX:**</sub></small>
 And Joseph came to an end -- a hundred ten years \[old\]. And they entombed him, and they placed \[him\] in the coffin in Egypt. 
-<small><sub>**KJV:**</sub></small>
-So Joseph died, [being] an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.
-<small><sub>**BSB:**</sub></small>
-So Joseph died at the age of 110. And they embalmed his body and placed it in a coffin in Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.50.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.25|<< Genesis 50:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.1|Exodus 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

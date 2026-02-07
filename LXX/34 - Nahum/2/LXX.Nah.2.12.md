@@ -1,10 +1,7 @@
 **LXX Nahum 2:12** 
 <small><sub>**LXX:**</sub></small>
 \[The\] lion seized by force the \[things\] fit  for his cubs, and choked \[prey\]  for his \[young\] lions, and filled his nest \[with\] game, and  his home \[of things\] of seizure. 
-<small><sub>**KJV:**</sub></small>
-The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his holes with prey, and his dens with ravin.
-<small><sub>**BSB:**</sub></small>
-The lion mauled enough for its cubs and strangled prey for the lioness. It filled its dens with the kill, and its lairs with mauled prey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.2.11|<< Nahum 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.2.13|Nahum 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

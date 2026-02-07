@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 24:4** 
 <small><sub>**LXX:**</sub></small>
 And more sons of Eleazar were found as rulers of the mighty ones than of the sons of Ithamar. And he divided them to the sons of Eleazar for rulers for \[the\] houses of \[the\] families -- sixteen. And to the sons of Ithamar according to \[the\] houses of their families -- eight. 
-<small><sub>**KJV:**</sub></small>
-And there were more chief men found of the sons of Eleazar than of the sons of Ithamar; and [thus] were they divided. Among the sons of Eleazar [there were] sixteen chief men of the house of [their] fathers, and eight among the sons of Ithamar according to the house of their fathers.
-<small><sub>**BSB:**</sub></small>
-Since more leaders were found among Eleazar’s descendants than those of Ithamar, they were divided accordingly. There were sixteen heads of families from the descendants of Eleazar and eight from the descendants of Ithamar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.24.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.24.3|<< 1 Chronicles 24:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.24.5|1 Chronicles 24:5 >>]]</td></tr></table>
 
 | Translation | Greek |

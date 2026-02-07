@@ -1,10 +1,7 @@
 **LXX Exodus 40:12** 
 <small><sub>**LXX:**</sub></small>
 And you shall lead Aaron and  his sons unto the doors of the tent of the testimony, and you shall bathe them in water. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt bring Aaron and his sons unto the door of the tabernacle of the congregation, and wash them with water.
-<small><sub>**BSB:**</sub></small>
-Then bring Aaron and his sons to the entrance to the Tent of Meeting and wash them with water.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.11|<< Exodus 40:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.13|Exodus 40:13 >>]]</td></tr></table>
 
 | Translation | Greek |

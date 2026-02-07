@@ -1,10 +1,7 @@
 **LXX Isaiah 48:21** 
 <small><sub>**LXX:**</sub></small>
 And if they should thirst, he will lead them through \[the\] wilderness; he shall bring forth water from \[the\] rock to them; \[the\] rock shall be split and shall flow water, and my people shall drink. 
-<small><sub>**KJV:**</sub></small>
-And they thirsted not [when] he led them through the deserts: he caused the waters to flow out of the rock for them: he clave the rock also, and the waters gushed out.
-<small><sub>**BSB:**</sub></small>
-They did not thirst when He led them through the deserts; He made water flow for them from the rock; He split the rock, and water gushed out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.20|<< Isaiah 48:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.22|Isaiah 48:22 >>]]</td></tr></table>
 
 | Translation | Greek |

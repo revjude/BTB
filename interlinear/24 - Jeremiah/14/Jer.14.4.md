@@ -1,4 +1,4 @@
-**Jeremiah 14:4** 
+**Jeremiah 14:4**<big><big>[[Jer.14.1 Drought, Famine, Sword, and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because the ground is chapt, for there was no rain in the earth, the plowmen were ashamed, they covered their heads.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The ground is cracked because no rain has fallen on the land. The farmers are as
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.3|<< Jeremiah 14:3]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.5|Jeremiah 14:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for sake of  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5668\|עֲב֤וּר]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.Vur<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the ground  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0127G\|אֲדָמָה֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

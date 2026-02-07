@@ -1,12 +1,12 @@
-**Matthew 5:36
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:36**<big><big>[[Matt.5.33 Oaths and Vows|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither shalt thou swear by thy head, because thou canst not make one hair white or black.
 <small><sub>**BSB:**</sub></small>
 Nor should you swear by your head, for you cannot make a single hair white or black.
 <small><sub>**Literal:**</sub></small>
 nor by the head of you may you  swear because not you are able one hair white to make or black.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.35|<< Matthew 5:35]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.37|Matthew 5:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nor |**<big>[[G3383\|μήτε]]</big>**  |mēte <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | by |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Acts 6:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 6:3**<big><big>[[Acts.6.1 The Choosing of the Seven|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore, brethren, look ye out among you seven men of honest report, full of the Holy Ghost and wisdom, whom we may appoint over this business.
 <small><sub>**BSB:**</sub></small>
 Therefore, brothers, select from among you seven men confirmed to be full of the Spirit and wisdom. We will assign this responsibility to them
 <small><sub>**Literal:**</sub></small>
 do select therefore, brothers, men out from yourselves being well attested seven full of [the] Spirit Holy and wisdom whom we will appoint over <the> task this;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.2|<< Acts 6:2]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.4|Acts 6:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do select |**<big>[[G1980\|ἐπισκέψασθε]]</big>**  |episkepsasthe <small><sup>[[V-ADM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore, [^1] |**<big>[[G1161\|δέ,]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH">N(k)O</abbr> | |

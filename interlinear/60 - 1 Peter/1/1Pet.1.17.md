@@ -1,12 +1,12 @@
-**1 Peter 1:17
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:17**<big><big>[[1Pet.1.13 A Call to Holiness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if ye call on the Father, who without respect of persons judgeth according to every man’s work, pass the time of your sojourning [here] in fear:
 <small><sub>**BSB:**</sub></small>
 Since you call on a Father who judges each one’s work impartially, conduct yourselves in reverent fear during your stay as foreigners.
 <small><sub>**Literal:**</sub></small>
 And if [as] Father you call on the [One] impartially judging according to the of each work, in fear during the of the sojourn of you time do conduct yourselves;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.16|<< 1 Peter 1:16]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.18|1 Peter 1:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

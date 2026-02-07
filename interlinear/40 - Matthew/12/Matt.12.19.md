@@ -1,5 +1,5 @@
-**Matthew 12:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:19**<big><big>[[Matt.12.15 God’s Chosen Servant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He shall not strive, nor cry; neither shall any man hear his voice in the streets.
 <small><sub>**BSB:**</sub></small>
 He will not quarrel or cry out; no one will hear His voice in the streets.
@@ -10,7 +10,7 @@ Not will He quarrel nor will he cry out, nor will hear anyone in the streets the
 > $\quad$ referencing: [[LXX.Isa.42.1|Isa 42:1-4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will He quarrel |**<big>[[G2051\|ἐρίσει]]</big>**  |erisei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

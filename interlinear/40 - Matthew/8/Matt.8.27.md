@@ -1,12 +1,12 @@
-**Matthew 8:27
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:27**<big><big>[[Matt.8.23 Jesus Calms the Storm|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!
 <small><sub>**BSB:**</sub></small>
 The men were amazed and asked, “What kind of man is this? Even the winds and the sea obey Him!”
 <small><sub>**Literal:**</sub></small>
 <the> And the men marveled saying; What kind [of man] is this that even the winds and the sea Him obey<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.26|<< Matthew 8:26]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.28|Matthew 8:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 39:10** 
 <small><sub>**LXX:**</sub></small>
 And when she spoke \[to\] Joseph day by day, and he did not obey her to sleep with her,  to be intimate with her. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, [or] to be with her.
-<small><sub>**BSB:**</sub></small>
-Although Potiphar’s wife spoke to Joseph day after day, he refused to go to bed with her or even be near her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.39.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.39.9|<< Genesis 39:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.39.11|Genesis 39:11 >>]]</td></tr></table>
 
 | Translation | Greek |

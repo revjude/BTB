@@ -1,4 +1,4 @@
-**Isaiah 3:15** 
+**Isaiah 3:15**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What mean ye [that] ye beat my people to pieces, and grind the faces of the poor? saith the Lord GOD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why do you crush My people and grind the faces of the poor?” declares the Lord
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.14|<< Isaiah 3:14]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.16|Isaiah 3:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what - [is] to you?  [^4]|**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207;&#8207;[[H9005\|לָּ]]&#8207;&#8207;[[H9046\|כֶם֙]]&#8207; </big>**[^5] | mah<small><sup>[[HPi]]</sup></small> - la.<small><sup>[[HR]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | you crush  |**<big>&#8207;[[H1792\|תְּדַכְּא֣וּ]]&#8207; </big>**| te.da.ke.'U<small><sup>[[HVpi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

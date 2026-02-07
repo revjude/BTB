@@ -1,4 +1,4 @@
-**1 Chronicles 21:18** 
+**1 Chronicles 21:18**<big><big>[[1Chr.21.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the angel of the LORD commanded Gad to say to David, that David should go up, and set up an altar unto the LORD in the threshingfloor of Ornan the Jebusite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the angel of the LORD ordered Gad to tell David to go up and build an altar
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.17|<< 1 Chronicles 21:17]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.19|1 Chronicles 21:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] angel of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4397H\|מַלְאַ֧ךְ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mal.'Akh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

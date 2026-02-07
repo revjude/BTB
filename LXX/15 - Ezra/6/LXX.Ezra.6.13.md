@@ -1,10 +1,7 @@
 **LXX Ezra 6:13** 
 <small><sub>**LXX:**</sub></small>
 Then Tatnai the chief ruler on the other side of the river, and Shethar-boznai, and  his fellow-servants, in so far as Darius the king sent, thus they did carefully. 
-<small><sub>**KJV:**</sub></small>
-Then Tatnai, governor on this side the river, Shetharboznai, and their companions, according to that which Darius the king had sent, so they did speedily.
-<small><sub>**BSB:**</sub></small>
-In response, Tattenai the governor of the region west of the Euphrates, Shethar-bozenai, and their associates diligently carried out what King Darius had decreed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.6.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.12|<< Ezra 6:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.14|Ezra 6:14 >>]]</td></tr></table>
 
 | Translation | Greek |

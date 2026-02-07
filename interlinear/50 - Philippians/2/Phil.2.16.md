@@ -1,12 +1,12 @@
-**Philippians 2:16
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:16**<big><big>[[Phil.2.12 Lights in the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain.
 <small><sub>**BSB:**</sub></small>
 as you hold forth the word of life, in order that I may boast on the day of Christ that I did not run or labor in vain.
 <small><sub>**Literal:**</sub></small>
 [the] word of life holding forth, unto a boast to me myself in [the] day of Christ that not in vain I did run nor in vain toil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.15|<< Philippians 2:15]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.17|Philippians 2:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] word |**<big>[[G3056\|λόγον]]</big>**  |logon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of life |**<big>[[G2222\|ζωῆς]]</big>**  |zōēs <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

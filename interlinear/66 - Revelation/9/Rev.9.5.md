@@ -1,12 +1,12 @@
-**Revelation 9:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 9:5**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to them it was given that they should not kill them, but that they should be tormented five months: and their torment [was] as the torment of a scorpion, when he striketh a man.
 <small><sub>**BSB:**</sub></small>
 The locusts were not given power to kill them, but only to torment them for five months, and their torment was like the stinging of a scorpion.
 <small><sub>**Literal:**</sub></small>
 And it was granted to them that not they may kill them, but that they will torment [them] months five, And the torment of them [was] like torment of a scorpion when it may strike a man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.4|<< Revelation 9:4]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.6|Revelation 9:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it was granted |**<big>[[G1325\|ἐδόθη]]</big>**  |edothē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

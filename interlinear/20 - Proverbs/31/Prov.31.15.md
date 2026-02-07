@@ -1,4 +1,4 @@
-**Proverbs 31:15** 
+**Proverbs 31:15**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She rises while it is still night to provide food for her household and portions
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.14|<< Proverbs 31:14]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.16|Proverbs 31:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she rose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|תָּ֤קָם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.kom<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when still  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5750\|ע֬וֹד]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Daniel 4:36** 
 <small><sub>**LXX:**</sub></small>
 At the same  time  my senses returned unto me, and I came into the honor of my kingdom, and  my appearance returned to me, and  my sovereigns and  my great men sought me; and over  my kingdom I was strengthened, and more extra greatness was added to me. 
-<small><sub>**KJV:**</sub></small>
-At the same time my reason returned unto me; and for the glory of my kingdom, mine honour and brightness returned unto me; and my counsellers and my lords sought unto me; and I was established in my kingdom, and excellent majesty was added unto me.
-<small><sub>**BSB:**</sub></small>
-At the same time my sanity was restored, my honor and splendor returned to me for the glory of my kingdom. My advisers and nobles sought me out, and I was restored to my throne, and surpassing greatness was added to me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.4.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.4.35|<< Daniel 4:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.4.37|Daniel 4:37 >>]]</td></tr></table>
 
 | Translation | Greek |

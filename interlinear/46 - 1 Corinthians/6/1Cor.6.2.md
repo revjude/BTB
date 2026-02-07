@@ -1,12 +1,12 @@
-**1 Corinthians 6:2
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 6:2**<big><big>[[1Cor.6.1 Lawsuits among Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters?
 <small><sub>**BSB:**</sub></small>
 Do you not know that the saints will judge the world? And if you are to judge the world, are you not competent to judge trivial cases?
 <small><sub>**Literal:**</sub></small>
 Or surely you know that the saints the world will judge? And if by you is to be judged the world, unworthy are you of cases of the smallest?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.1|<< 1 Corinthians 6:1]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.3|1 Corinthians 6:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or [^1] |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |
 | surely |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

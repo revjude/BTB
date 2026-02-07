@@ -1,4 +1,4 @@
-**Isaiah 16:3** 
+**Isaiah 16:3**<big><big>[[Isa.16.1 Moab’s Destruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take counsel, execute judgment; make thy shadow as the night in the midst of the noonday; hide the outcasts; bewray not him that wandereth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take counsel, execute judgment; make thy shadow as the night in the midst of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.2|<< Isaiah 16:2]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.4|Isaiah 16:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bring  [^1]|**<big>&#8207;[[H0935P\|הָבִ֤יאִי]]&#8207; </big>**[^2] | ha.vi.'u<small><sup>[[HVhv2fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | counsel  |**<big>&#8207;[[H6098\|עֵצָה֙]]&#8207; </big>**| 'e.Tzah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

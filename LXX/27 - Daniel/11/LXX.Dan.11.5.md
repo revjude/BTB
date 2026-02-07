@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the king of the south grew in strength; and one  of his rulers shall grow in strength over him, and shall lord over a great dominion by his authority. 
-<small><sub>**KJV:**</sub></small>
-And the king of the south shall be strong, and [one] of his princes; and he shall be strong above him, and have dominion; his dominion [shall be] a great dominion.
-<small><sub>**BSB:**</sub></small>
-The king of the South will grow strong, but one of his commanders will grow even stronger and will rule his own kingdom with great authority.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.4|<< Daniel 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.6|Daniel 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

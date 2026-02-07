@@ -1,10 +1,7 @@
 **LXX Genesis 21:14** 
 <small><sub>**LXX:**</sub></small>
 And Abraham rose up in the morning, and took bread loaves and a leather bag of water; and he gave to Hagar, and he placed the male child upon  her shoulders, and he sent her. And she went forth wandering about the wilderness by the Well of the Oath. 
-<small><sub>**KJV:**</sub></small>
-And Abraham rose up early in the morning, and took bread, and a bottle of water, and gave [it] unto Hagar, putting [it] on her shoulder, and the child, and sent her away: and she departed, and wandered in the wilderness of Beersheba.
-<small><sub>**BSB:**</sub></small>
-Early in the morning, Abraham got up, took bread and a skin of water, put them on Hagar’s shoulders, and sent her away with the boy. She left and wandered in the Wilderness of Beersheba.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.21.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.21.13|<< Genesis 21:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.21.15|Genesis 21:15 >>]]</td></tr></table>
 
 | Translation | Greek |

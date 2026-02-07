@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 4:18** 
 <small><sub>**LXX:**</sub></small>
 And Solomon made all  these items in multitude, exceedingly; for \[the\] scale-weight of the brass \[was\] not wanting. 
-<small><sub>**KJV:**</sub></small>
-Thus Solomon made all these vessels in great abundance: for the weight of the brass could not be found out.
-<small><sub>**BSB:**</sub></small>
-Solomon made all these articles in such great abundance that the weight of the bronze could not be determined.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.4.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.17|<< 2 Chronicles 4:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.19|2 Chronicles 4:19 >>]]</td></tr></table>
 
 | Translation | Greek |

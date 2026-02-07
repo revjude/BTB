@@ -1,4 +1,4 @@
-**Psalms 112:7** 
+**Psalms 112:7**<big><big>[[Ps.112.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall not be afraid of evil tidings: his heart is fixed, trusting in the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He does not fear bad news; his heart is steadfast, trusting in the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.112.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.112.6|<< Psalms 112:6]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.8|Psalms 112:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from new[s]  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8052\|שְּׁמוּעָ֣ה]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> she.mu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bad  |**<big>&#8207;[[H7451A\|רָ֭עָה]]&#8207; </big>**| Ra.'ah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

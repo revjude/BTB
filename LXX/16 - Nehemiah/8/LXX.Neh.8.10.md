@@ -1,10 +1,7 @@
 **LXX Nehemiah 8:10** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, Go and eat fatness, and drink sweetness, and send portions to the ones not having! for the day is holy to the <span class="smallcaps">lord</span> our God. And do not faint! for the joy of \[the\] <span class="smallcaps">lord</span>, this is our strength. 
-<small><sub>**KJV:**</sub></small>
-Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for [this] day [is] holy unto our Lord: neither be ye sorry; for the joy of the LORD is your strength.
-<small><sub>**BSB:**</sub></small>
-Then Nehemiah told them, “Go and eat what is rich, drink what is sweet, and send out portions to those who have nothing prepared, since today is holy to our Lord. Do not grieve, for the joy of the LORD is your strength.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.9|<< Nehemiah 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.11|Nehemiah 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

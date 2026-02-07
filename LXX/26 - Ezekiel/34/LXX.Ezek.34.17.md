@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:17** 
 <small><sub>**LXX:**</sub></small>
 And you, my sheep, thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; Behold, I separate between sheep and sheep, rams and he-goats. 
-<small><sub>**KJV:**</sub></small>
-And [as for] you, O my flock, thus saith the Lord GOD; Behold, I judge between cattle and cattle, between the rams and the he goats.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says to you, My flock: ‘I will judge between one sheep and another, between the rams and the goats.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.16|<< Ezekiel 34:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.18|Ezekiel 34:18 >>]]</td></tr></table>
 
 | Translation | Greek |

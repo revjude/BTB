@@ -1,4 +1,4 @@
-**Amos 5:10** 
+**Amos 5:10**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There are those who hate the one who reproves in the gate and despise him who sp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.9|<< Amos 5:9]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.11|Amos 5:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they hate  |**<big>&#8207;[[H8130\|שָׂנְא֥וּ]]&#8207; </big>**| sa.ne.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the gate  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H8179G\|שַּׁ֖עַר]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

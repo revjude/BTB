@@ -1,4 +1,4 @@
-**Genesis 43:31** 
+**Genesis 43:31**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he washed his face, and went out, and refrained himself, and said, Set on bread.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he washed his face and came back out. Regaining his composure, he said, “
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.30|<< Genesis 43:30]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.32|Genesis 43:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he washed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7364\|יִּרְחַ֥ץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.Chatz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | face his  |**<big>&#8207;[[H6440H\|פָּנָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| pa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

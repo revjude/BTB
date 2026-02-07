@@ -1,4 +1,4 @@
-**Isaiah 8:17** 
+**Isaiah 8:17**<big><big>[[Isa.8.11 A Call to Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will wait upon the LORD, that hideth his face from the house of Jacob, and I will look for him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will wait for the LORD, who is hiding His face from the house of Jacob. I will
 > $\quad$ referenced by: [[Heb.2.13|Heb 2:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will wait  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2442\|חִכִּ֙יתִי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> chi.Ki.ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֔ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

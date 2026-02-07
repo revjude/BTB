@@ -1,4 +1,4 @@
-**Ezekiel 43:6** 
+**Ezekiel 43:6**<big><big>[[Ezek.43.1 The Glory of the LORD Returns to the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I heard [him] speaking unto me out of the house; and the man stood by me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While the man was standing beside me, I heard someone speaking to me from inside
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.5|<< Ezekiel 43:5]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.7|Ezekiel 43:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I heard  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H8085G\|אֶשְׁמַ֛ע]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'esh.Ma'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] spoke  |**<big>&#8207;[[H1696G\|מִדַּבֵּ֥ר]]&#8207; </big>**| mi.da.Ber<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

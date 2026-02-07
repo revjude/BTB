@@ -1,12 +1,12 @@
-**Matthew 16:28
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:28**<big><big>[[Matt.16.24 Take Up Your Cross|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, some who are standing here will not taste death before they see the Son of Man coming in His kingdom.”
 <small><sub>**Literal:**</sub></small>
 Amen I say to you that there are some of those here already standing who certainly not shall taste of death until when they may have seen the Son <the> of Man coming in the kingdom of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.27|<< Matthew 16:27]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.1|Matthew 17:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Amen |**<big>[[G0281\|Ἀμὴν]]</big>**  |Amēn <small><sup>[[INJ-HEB]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

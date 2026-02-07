@@ -1,4 +1,4 @@
-**Job 18:6** 
+**Job 18:6**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The light shall be dark in his tabernacle, and his candle shall be put out with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The light in his tent grows dark, and the lamp beside him goes out.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.5|<< Job 18:5]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.7|Job 18:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] light  |**<big>&#8207;[[H0216\|א֭וֹר]]&#8207; </big>**| 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it grows dark  |**<big>&#8207;[[H2821\|חָשַׁ֣ךְ]]&#8207; </big>**| cha.Shakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

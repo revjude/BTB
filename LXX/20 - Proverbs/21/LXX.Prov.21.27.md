@@ -1,10 +1,7 @@
 **LXX Proverbs 21:27** 
 <small><sub>**LXX:**</sub></small>
 Sacrifices of \[the\] impious \[are\] an abomination \[to the\] <span class="smallcaps">lord</span>; for even they bring them unlawfully. 
-<small><sub>**KJV:**</sub></small>
-The sacrifice of the wicked [is] abomination: how much more, [when] he bringeth it with a wicked mind?
-<small><sub>**BSB:**</sub></small>
-The sacrifice of the wicked is detestable—how much more so when brought with ill intent!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.21.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.26|<< Proverbs 21:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.28|Proverbs 21:28 >>]]</td></tr></table>
 
 | Translation | Greek |

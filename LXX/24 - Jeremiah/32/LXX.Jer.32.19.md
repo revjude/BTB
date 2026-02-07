@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:19** 
 <small><sub>**LXX:**</sub></small>
 of great counsel, and mighty  \[in\] works.  Your eyes are opened upon all the ways of the sons  of men, to give each according to  his way, and according to the fruit  of his practices. 
-<small><sub>**KJV:**</sub></small>
-Great in counsel, and mighty in work: for thine eyes [are] open upon all the ways of the sons of men: to give every one according to his ways, and according to the fruit of his doings:
-<small><sub>**BSB:**</sub></small>
-the One great in counsel and mighty in deed, whose eyes are on all the ways of the sons of men, to reward each one according to his ways and according to the fruit of his deeds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.18|<< Jeremiah 32:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.20|Jeremiah 32:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 5:5** 
 <small><sub>**LXX:**</sub></small>
 On account of this, the priests of Dagon do not mount, \[nor\] do any  enter into \[the\] house of Dagon by the threshold of the house of Dagon in Ashdod until  this day; but by passing over, they pass over it. 
-<small><sub>**KJV:**</sub></small>
-Therefore neither the priests of Dagon, nor any that come into Dagon’s house, tread on the threshold of Dagon in Ashdod unto this day.
-<small><sub>**BSB:**</sub></small>
-That is why, to this day, the priests of Dagon and all who enter the temple of Dagon in Ashdod do not step on the threshold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.5.4|<< 1 Samuel 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.5.6|1 Samuel 5:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 8:33
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:33**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked.
 <small><sub>**BSB:**</sub></small>
 Then the demons came out of the man and went into the pigs, and the herd rushed down the steep bank into the lake and was drowned.
 <small><sub>**Literal:**</sub></small>
 Having gone out then the demons from the man they entered into the pigs, and rushed the herd down the steep bank into the lake and was drowned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.32|<< Luke 8:32]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.34|Luke 8:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having gone out |**<big>[[G1831\|ἐξελθόντα]]</big>**  |exelthonta <small><sup>[[V-2AAP-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 22:11** 
 <small><sub>**LXX:**</sub></small>
 And now, O my son, \[the\] <span class="smallcaps">lord</span> be with you; and you shall prosper, and shall build a house \[to the\] <span class="smallcaps">lord</span>  your God, as he said concerning you. 
-<small><sub>**KJV:**</sub></small>
-Now, my son, the LORD be with thee; and prosper thou, and build the house of the LORD thy God, as he hath said of thee.
-<small><sub>**BSB:**</sub></small>
-Now, my son, may the LORD be with you, and may you succeed in building the house of the LORD your God, as He said you would.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.10|<< 1 Chronicles 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.12|1 Chronicles 22:12 >>]]</td></tr></table>
 
 | Translation | Greek |

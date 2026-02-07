@@ -1,4 +1,4 @@
-**2 Samuel 23:2** 
+**2 Samuel 23:2**<big><big>[[2Sam.23.1 David’s Last Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Spirit of the LORD spake by me, and his word [was] in my tongue.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Spirit of the LORD spoke through me; His word was on my tongue.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.1|<< 2 Samuel 23:1]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.3|2 Samuel 23:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] spirit of  |**<big>&#8207;[[H7307G\|ר֥וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

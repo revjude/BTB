@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:20** 
 <small><sub>**LXX:**</sub></small>
 And he said, I will turn away  my face from them, and I will show what will be to them at \[the\] last \[times\], for it is a generation being distorted; sons in whom there is no belief in them. 
-<small><sub>**KJV:**</sub></small>
-And he said, I will hide my face from them, I will see what their end [shall be]: for they [are] a very froward generation, children in whom [is] no faith.
-<small><sub>**BSB:**</sub></small>
-He said: “I will hide My face from them; I will see what will be their end. For they are a perverse generation—children of unfaithfulness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.19|<< Deuteronomy 32:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.21|Deuteronomy 32:21 >>]]</td></tr></table>
 
 | Translation | Greek |

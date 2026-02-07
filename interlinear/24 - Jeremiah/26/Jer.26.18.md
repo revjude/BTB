@@ -1,4 +1,4 @@
-**Jeremiah 26:18** 
+**Jeremiah 26:18**<big><big>[[Jer.26.16 Jeremiah Spared from Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Micah the Morasthite prophesied in the days of Hezekiah king of Judah, and spake to all the people of Judah, saying, Thus saith the LORD of hosts; Zion shall be plowed [like] a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of a forest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Micah the Morasthite prophesied in the days of Hezekiah king of Judah, and spake
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.17|<< Jeremiah 26:17]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.19|Jeremiah 26:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Micah  [^1]|**<big>&#8207;[[H4318K\|מִיכָה֙]]&#8207; </big>**[^2] | mi.kha.yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | the Morasthite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4183\|מּ֣וֹרַשְׁתִּ֔י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Mo.rash.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

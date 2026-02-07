@@ -1,10 +1,7 @@
 **LXX Leviticus 19:2** 
 <small><sub>**LXX:**</sub></small>
 Speak to all the congregation of the sons of Israel! And you shall say to them, You shall be holy, for I \[the\] <span class="smallcaps">lord</span> your God \[am\] holy. 
-<small><sub>**KJV:**</sub></small>
-Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the LORD your God [am] holy.
-<small><sub>**BSB:**</sub></small>
-“Speak to the whole congregation of Israel and tell them: Be holy because I, the LORD your God, am holy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.1|<< Leviticus 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.3|Leviticus 19:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Leviticus 19:2** is...

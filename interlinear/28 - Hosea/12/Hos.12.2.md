@@ -1,4 +1,4 @@
-**Hosea 12:2** (12:3)
+**Hosea 12:2**<big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD has a charge to bring against Judah. He will punish Jacob according to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.1|<< Hosea 12:1]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.3|Hosea 12:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a case at law  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7379\|רִ֥יב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Riv<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belongs] to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֖ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

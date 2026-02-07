@@ -1,10 +1,7 @@
 **LXX Ezra 1:4** 
 <small><sub>**LXX:**</sub></small>
 And every \[Jew\]  being left from all the places of which he sojourned there, \[the\] men of his place shall take up for him  silver and gold, and with belongings, and cattle, with the voluntary \[offering\] for \[the\] house  of God, the one in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And whosoever remaineth in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that [is] in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-And let every survivor, wherever he lives, be assisted by the men of that region with silver, gold, goods, and livestock, along with a freewill offering for the house of God in Jerusalem.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.1.3|<< Ezra 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.1.5|Ezra 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**James 4:13
-**<small><sub>**KJV:**</sub></small>
+**James 4:13**<big><big>[[Jas.4.13 Do Not Boast about Tomorrow|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:
 <small><sub>**BSB:**</sub></small>
 Come now, you who say, “Today or tomorrow we will go to this or that city, spend a year there, carry on business, and make a profit.”
 <small><sub>**Literal:**</sub></small>
 do come now you who [are] saying; Today or tomorrow we will go into such <the> city and will spend there a year one and will trade and will make a profit;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.12|<< James 4:12]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.14|James 4:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do come |**<big>[[G0071\|Ἄγε]]</big>**  |Age <small><sup>[[V-PAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

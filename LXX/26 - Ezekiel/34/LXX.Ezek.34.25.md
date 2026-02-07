@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:25** 
 <small><sub>**LXX:**</sub></small>
 And I will ordain with them a covenant of peace. And I will obliterate \[the\] ferocious wild beasts from the land; and they shall dwell in the wilderness, and shall sleep in the forests. 
-<small><sub>**KJV:**</sub></small>
-And I will make with them a covenant of peace, and will cause the evil beasts to cease out of the land: and they shall dwell safely in the wilderness, and sleep in the woods.
-<small><sub>**BSB:**</sub></small>
-I will make with them a covenant of peace and rid the land of wild animals, so that they may dwell securely in the wilderness and sleep in the forest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.24|<< Ezekiel 34:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.26|Ezekiel 34:26 >>]]</td></tr></table>
 
 | Translation | Greek |

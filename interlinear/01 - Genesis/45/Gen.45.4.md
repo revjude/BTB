@@ -1,4 +1,4 @@
-**Genesis 45:4** 
+**Genesis 45:4**<big><big>[[Gen.45.1 Joseph Reveals His Identity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I [am] Joseph your brother, whom ye sold into Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Joseph said to his brothers, “Please come near me.” And they did so. �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.3|<< Genesis 45:3]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.5|Genesis 45:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joseph  |**<big>&#8207;[[H3130G\|יוֹסֵ֧ף]]&#8207; </big>**| yo.Sef<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

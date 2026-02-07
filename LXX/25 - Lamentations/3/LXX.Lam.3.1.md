@@ -6,10 +6,7 @@
 <p style="text-align:center;font-weight:600;">ΑΛΕΦ</p>
 
 I \[am\] a man, one seeing poorness by a rod of his rage upon me. 
-<small><sub>**KJV:**</sub></small>
-I [am] the man [that] hath seen affliction by the rod of his wrath.
-<small><sub>**BSB:**</sub></small>
-I am the man who has seen affliction under the rod of God’s wrath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.22|<< Lamentations 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.2|Lamentations 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

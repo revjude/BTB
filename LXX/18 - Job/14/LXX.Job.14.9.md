@@ -1,10 +1,7 @@
 **LXX Job 14:9** 
 <small><sub>**LXX:**</sub></small>
 from \[the\] scent of water it shall bloom, and shall produce a harvest as if newly planted. 
-<small><sub>**KJV:**</sub></small>
-[Yet] through the scent of water it will bud, and bring forth boughs like a plant.
-<small><sub>**BSB:**</sub></small>
-at the scent of water it will bud and put forth twigs like a sapling.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.14.8|<< Job 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.14.10|Job 14:10 >>]]</td></tr></table>
 
 | Translation | Greek |

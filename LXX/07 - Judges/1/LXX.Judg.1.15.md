@@ -1,10 +1,7 @@
 **LXX Judges 1:15** 
 <small><sub>**LXX:**</sub></small>
 And Achsah said to him, Give indeed to me a blessing, for into \[the\] land of \[the\] south you have handed me over, and you shall give to me a ransoming of water. And Caleb gave to her \[the\] ransom of \[the\] elevated \[springs\], and \[the\] ransom of \[the\] ones below. 
-<small><sub>**KJV:**</sub></small>
-And she said unto him, Give me a blessing: for thou hast given me a south land; give me also springs of water. And Caleb gave her the upper springs and the nether springs.
-<small><sub>**BSB:**</sub></small>
-“Give me a blessing,” she answered. “Since you have given me land in the Negev, give me springs of water as well.” So Caleb gave her both the upper and lower springs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.14|<< Judges 1:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.16|Judges 1:16 >>]]</td></tr></table>
 
 | Translation | Greek |

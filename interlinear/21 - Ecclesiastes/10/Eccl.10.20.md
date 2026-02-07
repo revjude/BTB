@@ -1,4 +1,4 @@
-**Ecclesiastes 10:20** 
+**Ecclesiastes 10:20**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Curse not the king, no not in thy thought; and curse not the rich in thy bedchamber: for a bird of the air shall carry the voice, and that which hath wings shall tell the matter.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not curse the king even in your thoughts, or curse the rich even in your bedr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.19|<< Ecclesiastes 10:19]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.1|Ecclesiastes 11:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֣ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in mind your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4093\|מַדָּֽעֲ]]&#8207;&#8207;[[H9021\|ךָ֗]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ma.da.'a.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

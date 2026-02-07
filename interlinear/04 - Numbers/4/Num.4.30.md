@@ -1,4 +1,4 @@
-**Numbers 4:30** 
+**Numbers 4:30**<big><big>[[Num.4.29 The Duties of the Merarites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From thirty years old and upward even unto fifty years old shalt thou number them, every one that entereth into the service, to do the work of the tabernacle of the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ from thirty to fifty years old, counting everyone who comes to serve in the work
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.29|<< Numbers 4:29]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.31|Numbers 4:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from a son of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1121L\|בֶּן֩]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ben<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thirty  |**<big>&#8207;[[H7970\|שְׁלֹשִׁ֨ים]]&#8207; </big>**| she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

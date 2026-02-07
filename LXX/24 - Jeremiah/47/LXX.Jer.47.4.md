@@ -1,10 +1,7 @@
 **LXX Jeremiah 47:4** 
 <small><sub>**LXX:**</sub></small>
 in the day, in the coming one,  to destroy all the Philistines, and to obliterate  Tyre and Sidon and all the rest  of their helpers, for \[the\] <span class="smallcaps">lord</span> will utterly destroy the Philistines of the remnants of the islands of Cappadocia. 
-<small><sub>**KJV:**</sub></small>
-Because of the day that cometh to spoil all the Philistines, [and] to cut off from Tyrus and Zidon every helper that remaineth: for the LORD will spoil the Philistines, the remnant of the country of Caphtor.
-<small><sub>**BSB:**</sub></small>
-For the day has come to destroy all the Philistines, to cut off from Tyre and Sidon every remaining ally. Indeed, the LORD is about to destroy the Philistines, the remnant from the coasts of Caphtor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.47.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.47.3|<< Jeremiah 47:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.47.5|Jeremiah 47:5 >>]]</td></tr></table>
 
 | Translation | Greek |

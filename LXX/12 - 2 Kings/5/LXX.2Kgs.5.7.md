@@ -1,10 +1,7 @@
 **LXX 2 Kings 5:7** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as the king of Israel read the scroll, that he tore  his garments, and said, Am I God, the one putting to death and restoring to life, that this one sends to me to cure a man from  his leprosy? For besides, you know and see that this one makes an excuse towards me. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the king of Israel had read the letter, that he rent his clothes, and said, [Am] I God, to kill and to make alive, that this man doth send unto me to recover a man of his leprosy? wherefore consider, I pray you, and see how he seeketh a quarrel against me.
-<small><sub>**BSB:**</sub></small>
-When the king of Israel read the letter, he tore his clothes and asked, “Am I God, killing and giving life, that this man expects me to cure a leper? Surely you can see that he is seeking a quarrel with me!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.6|<< 2 Kings 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.8|2 Kings 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

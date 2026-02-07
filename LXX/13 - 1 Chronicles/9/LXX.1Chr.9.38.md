@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:38** 
 <small><sub>**LXX:**</sub></small>
 And Mikloth engendered  Shimeam. And these dwelt in \[the\] midst of their brethren in Jerusalem, with  their brethren. 
-<small><sub>**KJV:**</sub></small>
-And Mikloth begat Shimeam. And they also dwelt with their brethren at Jerusalem, over against their brethren.
-<small><sub>**BSB:**</sub></small>
-Mikloth was the father of Shimeam. They too lived alongside their relatives in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.37|<< 1 Chronicles 9:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.39|1 Chronicles 9:39 >>]]</td></tr></table>
 
 | Translation | Greek |

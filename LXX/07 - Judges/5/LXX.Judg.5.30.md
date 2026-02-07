@@ -1,10 +1,7 @@
 **LXX Judges 5:30** 
 <small><sub>**LXX:**</sub></small>
 Shall they not find him dividing \[the\] spoils? Befriending friends to a mighty head \[ruler\]. Spoils of dyed \[things\] for Sisera, spoils of dyed embroidery dipped. Dyed embroidered works,  spoils for his neck. 
-<small><sub>**KJV:**</sub></small>
-Have they not sped? have they [not] divided the prey; to every man a damsel [or] two; to Sisera a prey of divers colours, a prey of divers colours of needlework, of divers colours of needlework on both sides, [meet] for the necks of [them that take] the spoil?
-<small><sub>**BSB:**</sub></small>
-‘Are they not finding and dividing the spoil—a girl or two for each warrior, a plunder of dyed garments for Sisera, the spoil of embroidered garments for the neck of the looter?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.5.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.5.29|<< Judges 5:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.5.31|Judges 5:31 >>]]</td></tr></table>
 
 | Translation | Greek |

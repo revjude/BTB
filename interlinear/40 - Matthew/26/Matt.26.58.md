@@ -1,12 +1,12 @@
-**Matthew 26:58
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:58**<big><big>[[Matt.26.57 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Peter followed him afar off unto the high priest’s palace, and went in, and sat with the servants, to see the end.
 <small><sub>**BSB:**</sub></small>
 But Peter followed Him at a distance, right up to the courtyard of the high priest. And he went in and sat down with the guards to see the outcome.
 <small><sub>**Literal:**</sub></small>
 <the> And Peter was following Him from afar until the court of the high priest, And having entered within he was sitting with the guards to see the outcome.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.57|<< Matthew 26:57]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.59|Matthew 26:59 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

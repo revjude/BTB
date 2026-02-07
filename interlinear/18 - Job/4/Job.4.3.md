@@ -1,4 +1,4 @@
-**Job 4:3** 
+**Job 4:3**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thou hast instructed many, and thou hast strengthened the weak hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Surely you have instructed many, and have strengthened their feeble hands.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.2|<< Job 4:2]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.4|Job 4:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִ֭נֵּה]]&#8207; </big>**| Hi.neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have instructed  |**<big>&#8207;[[H3256\|יִסַּ֣רְתָּ]]&#8207; </big>**| yi.Sar.ta<small><sup>[[HVpp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

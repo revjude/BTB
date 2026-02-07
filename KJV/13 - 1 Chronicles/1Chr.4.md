@@ -1,18 +1,18 @@
 (KJV) **1 Chronicles 4**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3|<< 1 Chronicles 3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5|1 Chronicles 5 >>]]</td></tr></table>
 
-***The Descendants of Judah*** ^bsb987
+<big><big>[[1Chr.4.1 The Descendants of Judah|⥃]]</big></big>***The Descendants of Judah***
 
  $\quad$ <span class="startversemarker">[</span>**[[1Chr.4.1|1]]**<span class="endversemarker">]</span> The sons of Judah; Pharez<small><small>[^2]</small></small>, Hezron, and Carmi<small><small>[^3]</small></small>, and Hur, and Shobal.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[1Chr.4.2|2]]**<span class="endversemarker">]</span> And Reaiah<small><small>[^5]</small></small> the son of Shobal begat Jahath; and Jahath begat Ahumai, and Lahad. These \[are\] the families of the Zorathites<small><small>[^6]</small></small>. <span class="startversemarker">[</span>**[[1Chr.4.3|3]]**<span class="endversemarker">]</span> And these \[were of\] the father of Etam<small><small>[^7]</small></small>; Jezreel, and Ishma, and Idbash: and the name of their sister \[was\] Hazelelponi: <span class="startversemarker">[</span>**[[1Chr.4.4|4]]**<span class="endversemarker">]</span> And Penuel the father of Gedor<small><small>[^8]</small></small>, and Ezer the father of Hushah. These \[are\] the sons of Hur<small><small>[^9]</small></small>, the firstborn of Ephratah, the father of Beth–lehem. 
 
 $\quad$ <span class="startversemarker">[</span>**[[1Chr.4.5|5]]**<span class="endversemarker">]</span> [¶]And Ashur the father of Tekoa had two wives, Helah and Naarah.<small><small>[^10]</small></small> <span class="startversemarker">[</span>**[[1Chr.4.6|6]]**<span class="endversemarker">]</span> And Naarah bare him Ahuzam, and Hepher, and Temeni, and Haahashtari. These \[were\] the sons of Naarah. <span class="startversemarker">[</span>**[[1Chr.4.7|7]]**<span class="endversemarker">]</span> And the sons of Helah \[were\], Zereth, and Jezoar, and Ethnan. <span class="startversemarker">[</span>**[[1Chr.4.8|8]]**<span class="endversemarker">]</span> And Coz begat Anub, and Zobebah, and the families of Aharhel the son of Harum.<small><small>[^11]</small></small>
 
-***The Prayer of Jabez*** ^bsb988
+<big><big>[[1Chr.4.9 The Prayer of Jabez|⥃]]</big></big>***The Prayer of Jabez***
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[1Chr.4.9|9]]**<span class="endversemarker">]</span> [¶]And Jabez was more<small><small>[^12]</small></small> honourable than his brethren: and his mother called his name Jabez<small><small>[^13]</small></small>, saying, Because I bare him<small><small>[^14]</small></small> with sorrow. <span class="startversemarker">[</span>**[[1Chr.4.10|10]]**<span class="endversemarker">]</span> And Jabez called<small><small>[^15]</small></small> on the God<small><small>[^16]</small></small> of Israel, saying, Oh that<small><small>[^17]</small></small> thou wouldest bless me<small><small>[^18]</small></small> indeed, and enlarge<small><small>[^19]</small></small> my coast, and that thine hand<small><small>[^20]</small></small> might be with me, and that thou<small><small>[^21]</small></small> wouldest keep \[me<small><small>[^22]</small></small>\] from evil, that it may<small><small>[^23]</small></small> not grieve me! And God granted<small><small>[^24]</small></small> him that which he requested.
 
-***More Descendants of Judah*** ^bsb989
+<big><big>[[1Chr.4.11 More Descendants of Judah|⥃]]</big></big>***More Descendants of Judah***
 
  
 
@@ -20,7 +20,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Chr.4.11|11]]**<span class="
 
 $\quad$ <span class="startversemarker">[</span>**[[1Chr.4.21|21]]**<span class="endversemarker">]</span> [¶]The sons of Shelah<small><small>[^47]</small></small> the son of Judah \[were\], Er the father of Lecah, and Laadah the father of Mareshah, and the families of the house of them that wrought fine linen, of the house of Ashbea, <span class="startversemarker">[</span>**[[1Chr.4.22|22]]**<span class="endversemarker">]</span> And Jokim, and the men of Chozeba, and Joash, and Saraph, who had the dominion in Moab, and Jashubi–lehem. And \[these are\] ancient things. <span class="startversemarker">[</span>**[[1Chr.4.23|23]]**<span class="endversemarker">]</span> These \[were\] the potters, and those that dwelt among plants and hedges: there they dwelt with the king for his work.<small><small>[^48]</small></small>
 
-***The Descendants of Simeon*** ^bsb990
+<big><big>[[1Chr.4.24 The Descendants of Simeon|⥃]]</big></big>***The Descendants of Simeon***
 
  
 

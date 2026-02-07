@@ -1,10 +1,7 @@
 **LXX Psalm 56:9** 
 <small><sub>**LXX:**</sub></small>
 My enemies shall turn to the rear, in which ever day I should call upon you. Behold, I knew that you are my God. 
-<small><sub>**KJV:**</sub></small>
-When I cry [unto thee], then shall mine enemies turn back: this I know; for God [is] for me.
-<small><sub>**BSB:**</sub></small>
-Then my enemies will retreat on the day I cry for help. By this I will know that God is on my side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.56.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.8|<< Psalm 56:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.10|Psalm 56:10 >>]]</td></tr></table>
 
 | Translation | Greek |

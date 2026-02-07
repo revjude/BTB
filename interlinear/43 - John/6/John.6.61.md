@@ -1,12 +1,12 @@
-**John 6:61
-**<small><sub>**KJV:**</sub></small>
+**John 6:61**<big><big>[[John.6.59 Many Disciples Turn Back|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Jesus knew in himself that his disciples murmured at it, he said unto them, Doth this offend you?
 <small><sub>**BSB:**</sub></small>
 Aware that His disciples were grumbling about this teaching, Jesus asked them, “Does this offend you?
 <small><sub>**Literal:**</sub></small>
 knowing however <the> Jesus in Himself that are grumbling about this the disciples of Him He said to them; This you does offend?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.60|<< John 6:60]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.62|John 6:62 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | knowing |**<big>[[G6063\|Εἰδὼς]]</big>**  |Eidōs <small><sup>[[V-RAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

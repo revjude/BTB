@@ -1,10 +1,7 @@
 **LXX Isaiah 29:23** 
 <small><sub>**LXX:**</sub></small>
 But whenever their children shall behold  my works, because of me they shall sanctify  my name, and they shall sanctify the holy one of Jacob, and they shall fear the God of Israel. 
-<small><sub>**KJV:**</sub></small>
-But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel.
-<small><sub>**BSB:**</sub></small>
-For when he sees his children around him, the work of My hands, they will honor My name, they will sanctify the Holy One of Jacob, and they will stand in awe of the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.22|<< Isaiah 29:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.24|Isaiah 29:24 >>]]</td></tr></table>
 
 | Translation | Greek |

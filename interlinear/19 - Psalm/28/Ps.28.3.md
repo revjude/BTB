@@ -1,4 +1,4 @@
-**Psalms 28:3** 
+**Psalms 28:3**<big><big>[[Ps.28.1 The LORD Is My Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief [is] in their hearts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not drag me away with the wicked, and with the workers of iniquity, who speak
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.28.2|<< Psalms 28:2]]</td><td align="center" style="border:none;">[[Ps.28|Psalms 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.28.4|Psalms 28:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you drag away me  |**<big>&#8207;[[H4900\|תִּמְשְׁכֵ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| tim.she.Khe.<small><sup>[[HVqj2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

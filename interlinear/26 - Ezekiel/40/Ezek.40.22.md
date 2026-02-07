@@ -1,4 +1,4 @@
-**Ezekiel 40:22** 
+**Ezekiel 40:22**<big><big>[[Ezek.40.20 The North Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their windows, and their arches, and their palm trees, [were] after the measure of the gate that looketh toward the east; and they went up unto it by seven steps; and the arches thereof [were] before them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Its windows, portico, and palm trees had the same measurements as those of the g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.21|<< Ezekiel 40:21]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.23|Ezekiel 40:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and windows its  [^3]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2474\|חַלּוֹנָ֤י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**[^4] | ve.<small><sup>[[HC]]</sup></small> cha.lo.no<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | and porches its  [^7]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0361\|אֵֽלַמָּי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**[^8] | ve.<small><sup>[[HC]]</sup></small> 'e.la.mo<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

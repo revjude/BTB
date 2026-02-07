@@ -1,12 +1,12 @@
-**Matthew 14:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:6**<big><big>[[Matt.14.1 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when Herod’s birthday was kept, the daughter of Herodias danced before them, and pleased Herod.
 <small><sub>**BSB:**</sub></small>
 On Herod’s birthday, however, the daughter of Herodias danced before them and pleased Herod
 <small><sub>**Literal:**</sub></small>
 [The] birthday now having happened <the> of Herod danced the daughter <the> of Herodias in the midst and pleased <the> Herod;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.5|<< Matthew 14:5]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.7|Matthew 14:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] birthday [^1] |**<big>[[G1077\|Γενεσίοις]]</big>**  |Genesiois <small><sup>[[N-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

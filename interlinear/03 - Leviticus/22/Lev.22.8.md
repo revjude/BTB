@@ -1,4 +1,4 @@
-**Leviticus 22:8** 
+**Leviticus 22:8**<big><big>[[Lev.22.1 Restrictions against the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That which dieth of itself, or is torn [with beasts], he shall not eat to defile himself therewith: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He must not eat anything found dead or torn by wild animals, which would make hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.7|<< Leviticus 22:7]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.9|Leviticus 22:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a carcass  |**<big>&#8207;[[H5038\|נְבֵלָ֧ה]]&#8207; </big>**| ne.ve.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and a torn animal  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H2966\|טְרֵפָ֛ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.re.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

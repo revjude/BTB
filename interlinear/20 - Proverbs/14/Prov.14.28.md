@@ -1,4 +1,4 @@
-**Proverbs 14:28** 
+**Proverbs 14:28**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the multitude of people [is] the king’s honour: but in the want of people [is] the destruction of the prince.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A large population is a king’s splendor, but a lack of subjects is a prince’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.27|<< Proverbs 14:27]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.29|Proverbs 14:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] in [the] multitude of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7230\|רָב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> rov-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a people  |**<big>&#8207;[[H5971A\|עָ֥ם]]&#8207; </big>**| 'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

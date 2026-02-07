@@ -1,4 +1,4 @@
-**Isaiah 2:4** 
+**Isaiah 2:4**<big><big>[[Isa.2.1 The Mountain of the House of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then He will judge between the nations and arbitrate for many peoples. They will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.3|<< Isaiah 2:3]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.5|Isaiah 2:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will judge  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8199\|שָׁפַט֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Fat<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | between  |**<big>&#8207;[[H0996G\|בֵּ֣ין]]&#8207; </big>**| bein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

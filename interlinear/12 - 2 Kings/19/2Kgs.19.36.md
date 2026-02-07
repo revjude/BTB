@@ -1,4 +1,4 @@
-**2 Kings 19:36** 
+**2 Kings 19:36**<big><big>[[2Kgs.19.35 Jerusalem Delivered from the Assyrians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Sennacherib king of Assyria broke camp and withdrew. He returned to Nineveh a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.35|<< 2 Kings 19:35]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.37|2 Kings 19:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he departed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5265\|יִּסַּ֣ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Sa'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֔לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

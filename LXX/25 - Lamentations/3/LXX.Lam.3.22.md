@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΗΘ</p>
 
 The mercies of the <span class="smallcaps">lord</span>, for they finished not, for his charities failed not. 
-<small><sub>**KJV:**</sub></small>
-[It is of] the LORD’S mercies that we are not consumed, because his compassions fail not.
-<small><sub>**BSB:**</sub></small>
-Because of the loving devotion of the LORD we are not consumed, for His mercies never fail.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.21|<< Lamentations 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.23|Lamentations 3:23 >>]]</td></tr></table>
 
 | Translation | Greek |

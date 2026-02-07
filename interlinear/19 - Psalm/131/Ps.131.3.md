@@ -1,4 +1,4 @@
-**Psalms 131:3** 
+**Psalms 131:3**<big><big>[[Ps.131.1 I Have Stilled My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let Israel hope in the LORD from henceforth and for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O Israel, put your hope in the LORD, both now and forevermore.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.131.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.131.2|<< Psalms 131:2]]</td><td align="center" style="border:none;">[[Ps.131|Psalms 131]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.0|Psalms 132:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hope  |**<big>&#8207;[[H3176H\|יַחֵ֣ל]]&#8207; </big>**| ya.Chel<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Israel  |**<big>&#8207;[[H3478\|יִ֭שְׂרָאֵל]]&#8207; </big>**| Yis.ra.'el<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

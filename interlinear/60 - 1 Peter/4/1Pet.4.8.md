@@ -1,5 +1,5 @@
-**1 Peter 4:8
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 4:8**<big><big>[[1Pet.4.1 Living for God’s Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.
 <small><sub>**BSB:**</sub></small>
 Above all, love one another deeply, because love covers over a multitude of sins.
@@ -10,7 +10,7 @@ above all things now <the> among yourselves love fervent having, because love co
 > $\quad$ referencing: [[LXX.Prov.10.12|Prov 10:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | above |**<big>[[G4253\|πρὸ]]</big>**  |pro <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | all things |**<big>[[G3956\|πάντων]]</big>**  |pantōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

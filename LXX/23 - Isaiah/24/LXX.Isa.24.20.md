@@ -1,10 +1,7 @@
 **LXX Isaiah 24:20** 
 <small><sub>**LXX:**</sub></small>
 It leans and the earth shall be shaken as a storehouse of fruits; as the one being intoxicated and dizzy; and it shall fall, and in no way be able to rise up. For lawlessness shall grow strong upon it. 
-<small><sub>**KJV:**</sub></small>
-The earth shall reel to and fro like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again.
-<small><sub>**BSB:**</sub></small>
-The earth staggers like a drunkard and sways like a shack. Earth’s rebellion weighs it down, and it falls, never to rise again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.24.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.19|<< Isaiah 24:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.21|Isaiah 24:21 >>]]</td></tr></table>
 
 | Translation | Greek |

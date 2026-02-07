@@ -1,4 +1,4 @@
-**Habakkuk 3:17** 
+**Habakkuk 3:17**<big><big>[[Hab.3.17 Habakkuk Rejoices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Although the fig tree shall not blossom, neither [shall] fruit [be] in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and [there shall be] no herd in the stalls:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Though the fig tree does not bud and no fruit is on the vines, though the olive 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.16|<< Habakkuk 3:16]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.18|Habakkuk 3:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] fig tree  |**<big>&#8207;[[H8384\|תְאֵנָ֣ה]]&#8207; </big>**| te.'e.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

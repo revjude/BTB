@@ -1,10 +1,7 @@
 **LXX Job 16:11** 
 <small><sub>**LXX:**</sub></small>
 For the <span class="smallcaps">lord</span> delivered me into \[the\] hands of \[the\] unjust, and unto \[the\] impious he tossed me. 
-<small><sub>**KJV:**</sub></small>
-God hath delivered me to the ungodly, and turned me over into the hands of the wicked.
-<small><sub>**BSB:**</sub></small>
-God has delivered me to unjust men; He has thrown me to the clutches of the wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.10|<< Job 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.12|Job 16:12 >>]]</td></tr></table>
 
 | Translation | Greek |

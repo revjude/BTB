@@ -1,4 +1,4 @@
-**1 Kings 8:60** 
+**1 Kings 8:60**<big><big>[[1Kgs.8.54 Solomon’s Benediction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That all the people of the earth may know that the LORD [is] God, [and that there is] none else.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that all the peoples of the earth may know that the LORD is God. There is no 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.60|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.59|<< 1 Kings 8:59]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.61|1 Kings 8:61 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so as  |**<big>&#8207;[[H4616\|לְמַ֗עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to know  |**<big>&#8207;[[H3045\|דַּ֚עַת]]&#8207; </big>**| Da.'at<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

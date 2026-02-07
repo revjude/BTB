@@ -1,10 +1,7 @@
 **LXX Exodus 7:2** 
 <small><sub>**LXX:**</sub></small>
 But you shall speak to him all as much as I give charge to you.  But Aaron  your brother will speak to Pharaoh, so as to send the sons of Israel from out of his land. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land.
-<small><sub>**BSB:**</sub></small>
-You are to speak all that I command you, and your brother Aaron is to tell Pharaoh to let the Israelites go out of his land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.1|<< Exodus 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.3|Exodus 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

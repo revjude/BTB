@@ -1,10 +1,7 @@
 **LXX Psalm 50:23** 
 <small><sub>**LXX:**</sub></small>
 A sacrifice of praise shall glorify me, and there \[in the\] way  I will show to him  my deliverance. 
-<small><sub>**KJV:**</sub></small>
-Whoso offereth praise glorifieth me: and to him that ordereth [his] conversation [aright] will I shew the salvation of God.
-<small><sub>**BSB:**</sub></small>
-He who sacrifices a thank offering honors Me, and to him who rightly orders his way, I will show the salvation of God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.50.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.22|<< Psalm 50:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.51.1|Psalm 51:1 >>]]</td></tr></table>
 
 | Translation | Greek |

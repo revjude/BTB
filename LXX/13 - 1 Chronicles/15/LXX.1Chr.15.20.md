@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:20** 
 <small><sub>**LXX:**</sub></small>
 And Zachariah, and Aziel, and Shimiramoth and Jehiel, and Unni, and Eliab, and Masseiah, and Benaiah, with stringed instruments upon Alamoth. 
-<small><sub>**KJV:**</sub></small>
-And Zechariah, and Aziel, and Shemiramoth, and Jehiel, and Unni, and Eliab, and Maaseiah, and Benaiah, with psalteries on Alamoth;
-<small><sub>**BSB:**</sub></small>
-Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah were to play the harps according to Alamoth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.19|<< 1 Chronicles 15:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.21|1 Chronicles 15:21 >>]]</td></tr></table>
 
 | Translation | Greek |

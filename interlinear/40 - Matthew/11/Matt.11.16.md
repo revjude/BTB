@@ -1,12 +1,12 @@
-**Matthew 11:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 11:16**<big><big>[[Matt.11.7 Jesus Testifies about John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But whereunto shall I liken this generation? It is like unto children sitting in the markets, and calling unto their fellows,
 <small><sub>**BSB:**</sub></small>
 To what can I compare this generation? They are like children sitting in the marketplaces and calling out to others:
 <small><sub>**Literal:**</sub></small>
 To what however will I compare <the> generation this? Like it is children sitting in the markets who calling out <the> to others of them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.15|<< Matthew 11:15]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.17|Matthew 11:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To what |**<big>[[G5101\|Τίνι]]</big>**  |Tini <small><sup>[[I-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

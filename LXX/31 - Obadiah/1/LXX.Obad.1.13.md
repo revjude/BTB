@@ -1,10 +1,7 @@
 **LXX Obadiah 1:13** 
 <small><sub>**LXX:**</sub></small>
 nor should you have entered into \[the\] gates of peoples in \[the\] day of their miseries; and you should not have looked, even you,  upon their gathering in \[the\] day of their ruin; and you should not have joined in an attack upon  their force in \[the\] day of their destruction; 
-<small><sub>**KJV:**</sub></small>
-Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid [hands] on their substance in the day of their calamity;
-<small><sub>**BSB:**</sub></small>
-You should not enter the gate of My people in the day of their disaster, nor gloat over their affliction in the day of their disaster, nor loot their wealth in the day of their disaster.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Obad.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Obad.1.12|<< Obadiah 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Obad.1.14|Obadiah 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

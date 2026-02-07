@@ -1,10 +1,7 @@
 **LXX Daniel 9:12** 
 <small><sub>**LXX:**</sub></small>
 And he established  his words which he spoke against us, and against  our judges, the ones judging us, to bring upon us great evils; such as have not taken place underneath all of the heaven, according to the \[things\] taking place in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem.
-<small><sub>**BSB:**</sub></small>
-You have carried out the words spoken against us and against our rulers by bringing upon us a great disaster. For under all of heaven, nothing has ever been done like what has been done to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.9.11|<< Daniel 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.9.13|Daniel 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

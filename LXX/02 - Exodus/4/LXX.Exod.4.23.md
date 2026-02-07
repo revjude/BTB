@@ -1,10 +1,7 @@
 **LXX Exodus 4:23** 
 <small><sub>**LXX:**</sub></small>
 And I said to you, Send  my people! that they should serve me. If indeed then you should not be willing to send them, see then! I will kill  your son, the first-born! 
-<small><sub>**KJV:**</sub></small>
-And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, [even] thy firstborn.
-<small><sub>**BSB:**</sub></small>
-and I told you to let My son go so that he may worship Me. But since you have refused to let him go, behold, I will kill your firstborn son!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.22|<< Exodus 4:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.4.24|Exodus 4:24 >>]]</td></tr></table>
 
 | Translation | Greek |

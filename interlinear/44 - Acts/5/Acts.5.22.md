@@ -1,12 +1,12 @@
-**Acts 5:22
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:22**<big><big>[[Acts.5.17 The Apostles Arrested and Freed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when the officers came, and found them not in the prison, they returned, and told,
 <small><sub>**BSB:**</sub></small>
 But on arriving at the jail, the officers did not find them there. So they returned with the report:
 <small><sub>**Literal:**</sub></small>
 <the> And having come [the] officers not did find them in the prison. having returned then they reported back<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.21|<< Acts 5:21]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.23|Acts 5:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

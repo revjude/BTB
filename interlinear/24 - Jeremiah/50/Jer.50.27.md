@@ -1,4 +1,4 @@
-**Jeremiah 50:27** 
+**Jeremiah 50:27**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Slay all her bullocks; let them go down to the slaughter: woe unto them! for their day is come, the time of their visitation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Kill all her young bulls; let them go down to the slaughter. Woe to them, for th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.26|<< Jeremiah 50:26]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.28|Jeremiah 50:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | kill  |**<big>&#8207;[[H2717C\|חִרְבוּ֙]]&#8207; </big>**| chir.Vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

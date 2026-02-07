@@ -1,10 +1,7 @@
 **LXX Exodus 8:28** 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh said, I shall send you, and you sacrifice \[to\] the <span class="smallcaps">lord</span>  your God in the wilderness! but do not go to extend far away! Make a vow then for me to \[the\] <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-And Pharaoh said, I will let you go, that ye may sacrifice to the LORD your God in the wilderness; only ye shall not go very far away: intreat for me.
-<small><sub>**BSB:**</sub></small>
-Pharaoh answered, “I will let you go and sacrifice to the LORD your God in the wilderness, but you must not go very far. Now pray for me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.8.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.27|<< Exodus 8:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.29|Exodus 8:29 >>]]</td></tr></table>
 
 | Translation | Greek |

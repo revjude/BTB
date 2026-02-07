@@ -1,12 +1,12 @@
-**Titus 2:9
-**<small><sub>**KJV:**</sub></small>
+**Titus 2:9**<big><big>[[Titus.2.1 Teaching Sound Doctrine|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Exhort] servants to be obedient unto their own masters, [and] to please [them] well in all [things]; not answering again;
 <small><sub>**BSB:**</sub></small>
 Slaves are to submit to their own masters in everything, to be well-pleasing, not argumentative,
 <small><sub>**Literal:**</sub></small>
 Servants to [their] own masters are to be subject, in everything well-pleasing to be, not gainsaying,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.8|<< Titus 2:8]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.10|Titus 2:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Servants |**<big>[[G1401\|Δούλους]]</big>**  |Doulous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to [their] own |**<big>[[G2398\|ἰδίοις]]</big>**  |idiois <small><sup>[[A-DPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

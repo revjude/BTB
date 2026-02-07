@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And there was still war against the Philistines with Israel. And David went down and  his servants with him, and they waged war with the Philistines; and David grew faint. 
-<small><sub>**KJV:**</sub></small>
-Moreover the Philistines had yet war again with Israel; and David went down, and his servants with him, and fought against the Philistines: and David waxed faint.
-<small><sub>**BSB:**</sub></small>
-Once again the Philistines waged war against Israel, and David and his servants went down and fought against the Philistines. But David became exhausted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.14|<< 2 Samuel 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.16|2 Samuel 21:16 >>]]</td></tr></table>
 
 | Translation | Greek |

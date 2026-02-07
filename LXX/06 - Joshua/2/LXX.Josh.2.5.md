@@ -1,10 +1,7 @@
 **LXX Joshua 2:5** 
 <small><sub>**LXX:**</sub></small>
 But as the gate was locked in the darkness, and the men went forth, I do not know where they went. You pursue after them! and you shall overtake them. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass [about the time] of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them.
-<small><sub>**BSB:**</sub></small>
-At dusk, when the gate was about to close, the men went out, and I do not know which way they went. Pursue them quickly, and you may catch them!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.2.4|<< Joshua 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.2.6|Joshua 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

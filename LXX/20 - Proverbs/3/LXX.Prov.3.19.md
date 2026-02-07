@@ -1,10 +1,7 @@
 **LXX Proverbs 3:19** 
 <small><sub>**LXX:**</sub></small>
  God \[in\] wisdom founded the earth; and he prepared \[the\] heavens in intelligence. 
-<small><sub>**KJV:**</sub></small>
-The LORD by wisdom hath founded the earth; by understanding hath he established the heavens.
-<small><sub>**BSB:**</sub></small>
-The LORD founded the earth by wisdom and established the heavens by understanding.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.3.18|<< Proverbs 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.3.20|Proverbs 3:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 44:9** (44:10)
+**Psalms 44:9**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou hast cast off, and put us to shame; and goest not forth with our armies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But You have rejected and humbled us; You no longer go forth with our armies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.8|<< Psalms 44:8]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.10|Psalms 44:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H0637\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have rejected  |**<big>&#8207;[[H2186A\|זָ֭נַחְתָּ]]&#8207; </big>**| Za.nach.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 33:21** 
+**Deuteronomy 33:21**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he provided the first part for himself, because there, [in] a portion of the lawgiver, [was he] seated; and he came with the heads of the people, he executed the justice of the LORD, and his judgments with Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He chose the best land for himself, because a ruler’s portion was reserved for
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.20|<< Deuteronomy 33:20]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.22|Deuteronomy 33:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200J\|יַּ֤רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] choicest  |**<big>&#8207;[[H7225H\|רֵאשִׁית֙]]&#8207; </big>**| re.Shit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

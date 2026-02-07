@@ -1,4 +1,4 @@
-**2 Samuel 15:2** 
+**2 Samuel 15:2**<big><big>[[2Sam.15.1 Absalom’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Absalom rose up early, and stood beside the way of the gate: and it was [so], that when any man that had a controversy came to the king for judgment, then Absalom called unto him, and said, Of what city [art] thou? And he said, Thy servant [is] of one of the tribes of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He would get up early and stand beside the road leading to the city gate. Whenev
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.1|<< 2 Samuel 15:1]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.3|2 Samuel 15:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rose early  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7925\|הִשְׁכִּים֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.Kim<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Absalom  |**<big>&#8207;[[H0053\|אַבְשָׁל֔וֹם]]&#8207; </big>**| 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

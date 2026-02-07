@@ -1,10 +1,7 @@
 **LXX 1 Kings 13:25** 
 <small><sub>**LXX:**</sub></small>
 And behold, men coming near also beheld the decaying flesh tossed in the way, and the lion standing next to the decaying flesh. And they entered and spoke in the city of which the prophet, the old man, dwelt in it. 
-<small><sub>**KJV:**</sub></small>
-And, behold, men passed by, and saw the carcase cast in the way, and the lion standing by the carcase: and they came and told [it] in the city where the old prophet dwelt.
-<small><sub>**BSB:**</sub></small>
-And there were men passing by who saw the body lying in the road with the lion standing beside it, and they went and reported this in the city where the old prophet lived.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.13.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.24|<< 1 Kings 13:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.26|1 Kings 13:26 >>]]</td></tr></table>
 
 | Translation | Greek |

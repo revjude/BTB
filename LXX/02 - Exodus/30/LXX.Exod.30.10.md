@@ -1,10 +1,7 @@
 **LXX Exodus 30:10** 
 <small><sub>**LXX:**</sub></small>
 And Aaron shall atone upon  \[its\] horns once  a year. From the blood of the cleansing of sins of the making an atonement once  a year he shall cleanse it for  your generations; it is a holy of holies to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Aaron shall make an atonement upon the horns of it once in a year with the blood of the sin offering of atonements: once in the year shall he make atonement upon it throughout your generations: it [is] most holy unto the LORD.
-<small><sub>**BSB:**</sub></small>
-Once a year Aaron shall make atonement on the horns of the altar. Throughout your generations he shall make atonement on it annually with the blood of the sin offering of atonement. The altar is most holy to the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.9|<< Exodus 30:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.11|Exodus 30:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 30:10** is...

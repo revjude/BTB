@@ -1,4 +1,4 @@
-**Genesis 33:4** 
+**Genesis 33:4**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Esau, however, ran to him and embraced him, threw his arms around his neck, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.3|<< Genesis 33:3]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.5|Genesis 33:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he ran  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7323G\|יָּ֨רָץ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.rotz<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Esau  |**<big>&#8207;[[H6215G\|עֵשָׂ֤ו]]&#8207; </big>**| 'e.Sav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

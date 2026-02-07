@@ -1,4 +1,4 @@
-**Psalms 105:10** 
+**Psalms 105:10**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And confirmed the same unto Jacob for a law, [and] to Israel [for] an everlasting covenant:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He confirmed it to Jacob as a decree, to Israel as an everlasting covenant:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.9|<< Psalms 105:9]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.11|Psalms 105:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he confirmed it  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5975H\|יַּֽעֲמִידֶ֣]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.mi.De.<small><sup>[[HVhw3ms]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Jacob  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3290\|יַעֲקֹ֣ב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

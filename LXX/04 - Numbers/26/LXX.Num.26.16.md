@@ -1,10 +1,7 @@
 **LXX Numbers 26:16** 
 <small><sub>**LXX:**</sub></small>
 \[to\] Ozni, \[the\] people the Oznites; \[to\] Eri, \[the\] people the Erites; 
-<small><sub>**KJV:**</sub></small>
-Of Ozni, the family of the Oznites: of Eri, the family of the Erites:
-<small><sub>**BSB:**</sub></small>
-the Oznite clan from Ozni, the Erite clan from Eri,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.15|<< Numbers 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.17|Numbers 26:17 >>]]</td></tr></table>
 
 | Translation | Greek |

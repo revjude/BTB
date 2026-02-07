@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 8:32** 
 <small><sub>**LXX:**</sub></small>
 And Mikloth engendered  Shimeah. For also these dwelt over against their brethren in Jerusalem, with  their brethren. 
-<small><sub>**KJV:**</sub></small>
-And Mikloth begat Shimeah. And these also dwelt with their brethren in Jerusalem, over against them.
-<small><sub>**BSB:**</sub></small>
-and Mikloth, who was the father of Shimeah. They too lived alongside their relatives in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.8.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.31|<< 1 Chronicles 8:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.33|1 Chronicles 8:33 >>]]</td></tr></table>
 
 | Translation | Greek |

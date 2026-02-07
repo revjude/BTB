@@ -1,10 +1,7 @@
 **LXX Joel 1:19** 
 <small><sub>**LXX:**</sub></small>
 To you, O <span class="smallcaps">lord</span>, we shall yell. For fire consumed the beautiful \[things\] of the wilderness, and a flame incinerated all the trees of the field. 
-<small><sub>**KJV:**</sub></small>
-O LORD, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.
-<small><sub>**BSB:**</sub></small>
-To You, O LORD, I call, for fire has consumed the open pastures and flames have scorched all the trees of the field.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.18|<< Joel 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.20|Joel 1:20 >>]]</td></tr></table>
 
 | Translation | Greek |

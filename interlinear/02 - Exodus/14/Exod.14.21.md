@@ -1,4 +1,4 @@
-**Exodus 14:21** 
+**Exodus 14:21**<big><big>[[Exod.14.15 Parting the Red Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses stretched out his hand over the sea; and the LORD caused the sea to go [back] by a strong east wind all that night, and made the sea dry [land], and the waters were divided.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then Moses stretched out his hand over the sea, and all that night the LORD drov
 > $\quad$ referenced by: [[Acts.7.36|Acts 7:36]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he stretched out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5186\|יֵּ֨ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yet<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֣ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

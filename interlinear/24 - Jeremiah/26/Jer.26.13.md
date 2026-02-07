@@ -1,4 +1,4 @@
-**Jeremiah 26:13** 
+**Jeremiah 26:13**<big><big>[[Jer.26.7 Jeremiah Threatened with Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore now amend your ways and your doings, and obey the voice of the LORD your God; and the LORD will repent him of the evil that he hath pronounced against you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now, correct your ways and deeds, and obey the voice of the LORD your God, so
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.12|<< Jeremiah 26:12]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.14|Jeremiah 26:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | make good  |**<big>&#8207;[[H3190\|הֵיטִ֤יבוּ]]&#8207; </big>**| hei.Ti.vu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

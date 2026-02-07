@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:25** 
 <small><sub>**LXX:**</sub></small>
 And a man from Israel said, Did you see the man,  this one ascending? He ascended so as to berate Israel. And it will be a man who ever should strike him, the king shall enrich him in great riches, and  he will give his daughter to him, and the house  of his father he will make free in Israel. 
-<small><sub>**KJV:**</sub></small>
-And the men of Israel said, Have ye seen this man that is come up? surely to defy Israel is he come up: and it shall be, [that] the man who killeth him, the king will enrich him with great riches, and will give him his daughter, and make his father’s house free in Israel.
-<small><sub>**BSB:**</sub></small>
-Now the men of Israel had been saying, “Do you see how this man keeps coming out to defy Israel? To the man who kills him the king will give great riches. And he will give him his daughter in marriage and exempt his father’s house from taxation in Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.24|<< 1 Samuel 17:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.26|1 Samuel 17:26 >>]]</td></tr></table>
 
 | Translation | Greek |

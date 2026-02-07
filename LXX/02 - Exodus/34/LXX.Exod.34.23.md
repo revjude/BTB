@@ -1,10 +1,7 @@
 **LXX Exodus 34:23** 
 <small><sub>**LXX:**</sub></small>
 Three times of the year every male of yours shall appear before \[the\] <span class="smallcaps">lord</span>  God of Israel. 
-<small><sub>**KJV:**</sub></small>
-Thrice in the year shall all your men children appear before the Lord GOD, the God of Israel.
-<small><sub>**BSB:**</sub></small>
-Three times a year all your males are to appear before the Lord GOD, the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.22|<< Exodus 34:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.24|Exodus 34:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 11:21** 
 <small><sub>**LXX:**</sub></small>
 And for the heart  of their abominations, and  of their lawlessnesses, as  their heart went,  I have imputed their ways against their heads, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But [as for them] whose heart walketh after the heart of their detestable things and their abominations, I will recompense their way upon their own heads, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-But as for those whose hearts pursue detestable things and abominations, I will bring their conduct down upon their own heads, declares the Lord GOD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.20|<< Ezekiel 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.22|Ezekiel 11:22 >>]]</td></tr></table>
 
 | Translation | Greek |

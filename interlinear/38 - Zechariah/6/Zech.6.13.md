@@ -1,4 +1,4 @@
-**Zechariah 6:13** 
+**Zechariah 6:13**<big><big>[[Zech.6.9 The Crown and the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even he shall build the temple of the LORD; and he shall bear the glory, and shall sit and rule upon his throne; and he shall be a priest upon his throne: and the counsel of peace shall be between them both.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yes, He will build the temple of the LORD; He will be clothed in splendor and wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.12|<< Zechariah 6:12]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.14|Zechariah 6:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H1931\|הוּא]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will build  |**<big>&#8207;[[H1129\|יִבְנֶ֞ה]]&#8207; </big>**| yiv.Neh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

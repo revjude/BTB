@@ -1,4 +1,4 @@
-**Psalms 136:8** 
+**Psalms 136:8**<big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sun to rule by day: for his mercy [endureth] for ever:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the sun to rule the day, His loving devotion endures forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.136.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.7|<< Psalms 136:7]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.9|Psalms 136:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the sun  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H8121\|שֶּׁמֶשׁ]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> she.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:37** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was enraged at me because of you, saying, Nor should you in any way enter there. 
-<small><sub>**KJV:**</sub></small>
-Also the LORD was angry with me for your sakes, saying, Thou also shalt not go in thither.
-<small><sub>**BSB:**</sub></small>
-The LORD was also angry with me on your account, and He said, “Not even you shall enter the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.36|<< Deuteronomy 1:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.38|Deuteronomy 1:38 >>]]</td></tr></table>
 
 | Translation | Greek |

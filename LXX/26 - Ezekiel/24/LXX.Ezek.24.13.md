@@ -1,10 +1,7 @@
 **LXX Ezekiel 24:13** 
 <small><sub>**LXX:**</sub></small>
 Her poison shall be a disgrace in the boiling of your uncleanness, and because you were defiled yourself, and you were not cleansed from your uncleanness, then what if you should not be cleansed any more until of which \[time\] I shall fill up  my rage in you? 
-<small><sub>**KJV:**</sub></small>
-In thy filthiness [is] lewdness: because I have purged thee, and thou wast not purged, thou shalt not be purged from thy filthiness any more, till I have caused my fury to rest upon thee.
-<small><sub>**BSB:**</sub></small>
-Because of the indecency of your uncleanness I tried to cleanse you, but you would not be purified from your filthiness. You will not be pure again until My wrath against you has subsided.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.12|<< Ezekiel 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.14|Ezekiel 24:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 122:9** 
+**Psalms 122:9**<big><big>[[Ps.122.1 Pray for the Peace of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because of the house of the LORD our God I will seek thy good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the sake of the house of the LORD our God, I will seek your prosperity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.122.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.122.8|<< Psalms 122:8]]</td><td align="center" style="border:none;">[[Ps.122|Psalms 122]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.123.0|Psalms 123:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for [the] sake of  |**<big>&#8207;[[H4616\|לְ֭מַעַן]]&#8207; </big>**| Le.ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004Q\|בֵּית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Habakkuk 3:3** 
 <small><sub>**LXX:**</sub></small>
  God shall come from out of Teman, even the holy one from out of \[the\] mount \[of the\] shady Paran. PAUSE. His virtue covered the heavens, and  his praise filled the earth. 
-<small><sub>**KJV:**</sub></small>
-God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.
-<small><sub>**BSB:**</sub></small>
-God came from Teman, and the Holy One from Mount Paran. Selah His glory covered the heavens, and His praise filled the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hab.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.2|<< Habakkuk 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.4|Habakkuk 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

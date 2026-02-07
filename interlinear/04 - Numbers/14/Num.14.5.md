@@ -1,4 +1,4 @@
-**Numbers 14:5** 
+**Numbers 14:5**<big><big>[[Num.14.1 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Moses and Aaron fell on their faces before all the assembly of the congregation of the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Moses and Aaron fell facedown before the whole assembly of the congregation
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.4|<< Numbers 14:4]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.6|Numbers 14:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he fell  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5307G\|יִּפֹּ֥ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Pol<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֛ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

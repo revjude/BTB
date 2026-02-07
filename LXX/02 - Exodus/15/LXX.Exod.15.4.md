@@ -1,10 +1,7 @@
 **LXX Exodus 15:4** 
 <small><sub>**LXX:**</sub></small>
 \[The\] chariots of Pharaoh, and  his force he tossed into \[the\] sea; chosen riders -- tribunes he sank in \[the\] red sea. 
-<small><sub>**KJV:**</sub></small>
-Pharaoh’s chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea.
-<small><sub>**BSB:**</sub></small>
-Pharaoh’s chariots and army He has cast into the sea; the finest of his officers are drowned in the Red Sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.3|<< Exodus 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.5|Exodus 15:5 >>]]</td></tr></table>
 
 | Translation | Greek |

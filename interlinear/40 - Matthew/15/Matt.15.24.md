@@ -1,12 +1,12 @@
-**Matthew 15:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:24**<big><big>[[Matt.15.21 The Faith of the Canaanite Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he answered and said, I am not sent but unto the lost sheep of the house of Israel.
 <small><sub>**BSB:**</sub></small>
 He answered, “I was sent only to the lost sheep of the house of Israel.”
 <small><sub>**Literal:**</sub></small>
 <the> And answering He said; Not I was sent only except to the sheep the already perishing of [the] house of Israel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.23|<< Matthew 15:23]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.25|Matthew 15:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

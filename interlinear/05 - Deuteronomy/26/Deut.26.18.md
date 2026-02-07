@@ -1,4 +1,4 @@
-**Deuteronomy 26:18** 
+**Deuteronomy 26:18**<big><big>[[Deut.26.16 Obey the LORD’s Commands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD hath avouched thee this day to be his peculiar people, as he hath promised thee, and that [thou] shouldest keep all his commandments;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And today the LORD has proclaimed that you are His people and treasured possessi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.17|<< Deuteronomy 26:17]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.19|Deuteronomy 26:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֞ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has declared you  |**<big>&#8207;[[H0559\|הֶאֱמִֽירְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| he.'e.mi.re.<small><sup>[[HVhp3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

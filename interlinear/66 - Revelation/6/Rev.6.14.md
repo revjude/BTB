@@ -1,5 +1,5 @@
-**Revelation 6:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:14**<big><big>[[Rev.6.12 The Sixth Seal：Terror|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.
 <small><sub>**BSB:**</sub></small>
 The sky receded like a scroll being rolled up, and every mountain and island was moved from its place.
@@ -10,7 +10,7 @@ And <the> heaven departed like a scroll being rolled up, and every mountain and 
 > $\quad$ alluding to: [[LXX.Ps.102.26|Ps 102:26]] ☩ [[LXX.Isa.34.4|Isa 34:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz+KJV">NKO</abbr> | |

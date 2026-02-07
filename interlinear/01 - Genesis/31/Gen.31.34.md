@@ -1,4 +1,4 @@
-**Genesis 31:34** 
+**Genesis 31:34**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Rachel had taken the images, and put them in the camel’s furniture, and sat upon them. And Laban searched all the tent, but found [them] not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Rachel had taken Laban’s household idols, put them in the saddlebag of her
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.33|<< Genesis 31:33]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.35|Genesis 31:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Rachel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7354\|רָחֵ֞ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ra.Chel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she had taken  |**<big>&#8207;[[H3947G\|לָקְחָ֣ה]]&#8207; </big>**| la.ke.Chah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

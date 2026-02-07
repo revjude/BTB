@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:8** 
 <small><sub>**LXX:**</sub></small>
 And Elkanah her husband said to her, Hannah, what is it to you that you weep? And why do you not eat? And why does your heart beat you? Am I not good to you over ten children? 
-<small><sub>**KJV:**</sub></small>
-Then said Elkanah her husband to her, Hannah, why weepest thou? and why eatest thou not? and why is thy heart grieved? [am] not I better to thee than ten sons?
-<small><sub>**BSB:**</sub></small>
-“Hannah, why are you crying?” her husband Elkanah asked. “Why won’t you eat? Why is your heart so grieved? Am I not better to you than ten sons?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.7|<< 1 Samuel 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.9|1 Samuel 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

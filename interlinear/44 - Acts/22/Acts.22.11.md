@@ -1,12 +1,12 @@
-**Acts 22:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:11**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when I could not see for the glory of that light, being led by the hand of them that were with me, I came into Damascus.
 <small><sub>**BSB:**</sub></small>
 Because the brilliance of the light had blinded me, my companions led me by the hand into Damascus.
 <small><sub>**Literal:**</sub></small>
 While now not I was seeing because of the brightness of the light that, being led by the hand by those being with me I came to Damascus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.10|<< Acts 22:10]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.12|Acts 22:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | While |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

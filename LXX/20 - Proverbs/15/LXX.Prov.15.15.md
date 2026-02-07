@@ -1,10 +1,7 @@
 **LXX Proverbs 15:15** 
 <small><sub>**LXX:**</sub></small>
 All the time the eyes  of evil ones favorably receive evil \[things\]; but the good \[are\] always tranquil. 
-<small><sub>**KJV:**</sub></small>
-All the days of the afflicted [are] evil: but he that is of a merry heart [hath] a continual feast.
-<small><sub>**BSB:**</sub></small>
-All the days of the oppressed are bad, but a cheerful heart has a continual feast.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.15.14|<< Proverbs 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.15.16|Proverbs 15:16 >>]]</td></tr></table>
 
 | Translation | Greek |

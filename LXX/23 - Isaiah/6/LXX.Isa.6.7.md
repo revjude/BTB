@@ -1,10 +1,7 @@
 **LXX Isaiah 6:7** 
 <small><sub>**LXX:**</sub></small>
 And he touched  my mouth, and he said, Behold, this touched  your lips, and your lawless deeds it shall remove, and  it shall purge your sins. 
-<small><sub>**KJV:**</sub></small>
-And he laid [it] upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.
-<small><sub>**BSB:**</sub></small>
-And with it he touched my mouth and said: “Now that this has touched your lips, your iniquity is removed and your sin is atoned for.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.6|<< Isaiah 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.8|Isaiah 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

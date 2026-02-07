@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:24** 
 <small><sub>**LXX:**</sub></small>
 And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer the priests, \[were\] trumpeting with the trumpets before the ark  of God. And Obed Edom and Jehiah \[were\] gatekeepers of the ark. 
-<small><sub>**KJV:**</sub></small>
-And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer, the priests, did blow with the trumpets before the ark of God: and Obededom and Jehiah [were] doorkeepers for the ark.
-<small><sub>**BSB:**</sub></small>
-Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer—the priests—were to blow the trumpets before the ark of God. Obed-edom and Jehiah were also to be guardians of the ark.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.23|<< 1 Chronicles 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.25|1 Chronicles 15:25 >>]]</td></tr></table>
 
 | Translation | Greek |

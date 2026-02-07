@@ -1,4 +1,4 @@
-**Lamentations 1:14** 
+**Lamentations 1:14**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The yoke of my transgressions is bound by his hand: they are wreathed, [and] come up upon my neck: he hath made my strength to fall, the Lord hath delivered me into [their] hands, [from whom] I am not able to rise up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My transgressions are bound into a yoke, knit together by His hand; they are dra
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.13|<< Lamentations 1:13]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.15|Lamentations 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has been bound on  |**<big>&#8207;[[H8244\|נִשְׂקַד֩]]&#8207; </big>**| nis.Kad<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] yoke of  |**<big>&#8207;[[H5923\|עֹ֨ל]]&#8207; </big>**| 'ol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

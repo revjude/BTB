@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 4:13** 
 <small><sub>**LXX:**</sub></small>
 and pomegranates of gold -- four hundred for the two latticed \[works\]; two kinds of pomegranates on the one latticed work,  to cover the two bases of the capitals, which \[are\] upon the columns. 
-<small><sub>**KJV:**</sub></small>
-And four hundred pomegranates on the two wreaths; two rows of pomegranates on each wreath, to cover the two pommels of the chapiters which [were] upon the pillars.
-<small><sub>**BSB:**</sub></small>
-the four hundred pomegranates for the two sets of network (two rows of pomegranates for each network covering both the bowl-shaped capitals atop the pillars);<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.4.12|<< 2 Chronicles 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.4.14|2 Chronicles 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

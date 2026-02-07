@@ -1,4 +1,4 @@
-**2 Chronicles 29:7** 
+**2 Chronicles 29:7**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also they have shut up the doors of the porch, and put out the lamps, and have not burned incense nor offered burnt offerings in the holy [place] unto the God of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They also shut the doors of the portico and extinguished the lamps. They did not
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.6|<< 2 Chronicles 29:6]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.8|2 Chronicles 29:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּ֣ם]]&#8207; </big>**| gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they shut  |**<big>&#8207;[[H5462\|סָֽגְר֞וּ]]&#8207; </big>**| sa.ge.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

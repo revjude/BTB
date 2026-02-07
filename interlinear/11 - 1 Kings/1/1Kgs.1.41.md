@@ -1,4 +1,4 @@
-**1 Kings 1:41** 
+**1 Kings 1:41**<big><big>[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adonijah and all the guests that [were] with him heard [it] as they had made an end of eating. And when Joab heard the sound of the trumpet, he said, Wherefore [is this] noise of the city being in an uproar?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Adonijah and all his guests were finishing their feast when they heard the s
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.40|<< 1 Kings 1:40]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.42|1 Kings 1:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he heard  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8085G\|יִּשְׁמַ֣ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Ma'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Adonijah  |**<big>&#8207;[[H0138G\|אֲדֹנִיָּ֗הוּ]]&#8207; </big>**| 'a.do.ni.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

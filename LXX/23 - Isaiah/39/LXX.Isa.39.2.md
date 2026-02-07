@@ -1,10 +1,7 @@
 **LXX Isaiah 39:2** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah rejoiced over them with a great joy. And he showed to them the house of the spices, and of the silver, and of the gold, and of the balsam, and of the incenses, and of the perfumed liquid, and all the houses of the items of the treasury, and all as much as was in  his treasuries. And there was not one \[thing\] which Hezekiah did not show to them in  his house. 
-<small><sub>**KJV:**</sub></small>
-And Hezekiah was glad of them, and shewed them the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not.
-<small><sub>**BSB:**</sub></small>
-And Hezekiah welcomed the envoys gladly and showed them what was in his treasure house—the silver, the gold, the spices, and the precious oil, as well as his entire armory—all that was found in his storehouses. There was nothing in his palace or in all his dominion that Hezekiah did not show them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.39.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.39.1|<< Isaiah 39:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.39.3|Isaiah 39:3 >>]]</td></tr></table>
 
 | Translation | Greek |

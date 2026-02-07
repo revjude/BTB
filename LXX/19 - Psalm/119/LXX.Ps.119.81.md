@@ -1,10 +1,7 @@
 **LXX Psalm 119:81** 
 <small><sub>**LXX:**</sub></small>
 My soul is wanting for your deliverance. In  your words I raised hope. 
-<small><sub>**KJV:**</sub></small>
-CAPH. My soul fainteth for thy salvation: [but] I hope in thy word.
-<small><sub>**BSB:**</sub></small>
-My soul faints for Your salvation; I wait for Your word.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.81|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.80|<< Psalm 119:80]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.82|Psalm 119:82 >>]]</td></tr></table>
 
 | Translation | Greek |

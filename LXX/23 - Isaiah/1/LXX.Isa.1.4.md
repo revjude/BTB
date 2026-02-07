@@ -1,10 +1,7 @@
 **LXX Isaiah 1:4** 
 <small><sub>**LXX:**</sub></small>
 Woe, O sinful nation, people full of sins, an evil seed, lawless sons. You abandoned the <span class="smallcaps">lord</span>, and provoked to anger the holy one  of Israel; they were separated into the rear. 
-<small><sub>**KJV:**</sub></small>
-Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the LORD, they have provoked the Holy One of Israel unto anger, they are gone away backward.
-<small><sub>**BSB:**</sub></small>
-Alas, O sinful nation, a people laden with iniquity, a brood of evildoers, children who act corruptly! They have forsaken the LORD; they have despised the Holy One of Israel and turned their backs on Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.3|<< Isaiah 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.5|Isaiah 1:5 >>]]</td></tr></table>
 
 | Translation | Greek |

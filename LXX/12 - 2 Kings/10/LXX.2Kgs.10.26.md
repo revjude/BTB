@@ -1,10 +1,7 @@
 **LXX 2 Kings 10:26** 
 <small><sub>**LXX:**</sub></small>
 And they brought forth the monument  of Baal, and burnt it. 
-<small><sub>**KJV:**</sub></small>
-And they brought forth the images out of the house of Baal, and burned them.
-<small><sub>**BSB:**</sub></small>
-They brought out the sacred pillar of the temple of Baal and burned it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.10.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.25|<< 2 Kings 10:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.27|2 Kings 10:27 >>]]</td></tr></table>
 
 | Translation | Greek |

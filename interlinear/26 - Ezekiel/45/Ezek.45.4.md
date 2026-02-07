@@ -1,4 +1,4 @@
-**Ezekiel 45:4** 
+**Ezekiel 45:4**<big><big>[[Ezek.45.1 Consecration of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The holy [portion] of the land shall be for the priests the ministers of the sanctuary, which shall come near to minister unto the LORD: and it shall be a place for their houses, and an holy place for the sanctuary.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It will be a holy portion of the land to be used by the priests who minister in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.3|<< Ezekiel 45:3]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.5|Ezekiel 45:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [will be] a holy portion  |**<big>&#8207;[[H6944G\|קֹ֣דֶשׁ]]&#8207; </big>**| Ko.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from  |**<big>&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

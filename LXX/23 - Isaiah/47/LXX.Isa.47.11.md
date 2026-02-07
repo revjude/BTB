@@ -1,10 +1,7 @@
 **LXX Isaiah 47:11** 
 <small><sub>**LXX:**</sub></small>
 And destruction shall come upon you. And in no way shall you know a cesspool \[is there\], and you shall fall into it. And misery shall come upon you, and in no way shall you be able to be clean. And destruction shall come upon you suddenly, and in no way shall you know. 
-<small><sub>**KJV:**</sub></small>
-Therefore shall evil come upon thee; thou shalt not know from whence it riseth: and mischief shall fall upon thee; thou shalt not be able to put it off: and desolation shall come upon thee suddenly, [which] thou shalt not know.
-<small><sub>**BSB:**</sub></small>
-But disaster will come upon you; you will not know how to charm it away. A calamity will befall you that you will be unable to ward off. Devastation will happen to you suddenly and unexpectedly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.47.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.10|<< Isaiah 47:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.12|Isaiah 47:12 >>]]</td></tr></table>
 
 | Translation | Greek |

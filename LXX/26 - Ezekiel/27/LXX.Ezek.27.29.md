@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:29** 
 <small><sub>**LXX:**</sub></small>
 And all your oarsmen shall go down from their boats, and the crewmen, and the captains of the sea; they shall stand upon the ground. 
-<small><sub>**KJV:**</sub></small>
-And all that handle the oar, the mariners, [and] all the pilots of the sea, shall come down from their ships, they shall stand upon the land;
-<small><sub>**BSB:**</sub></small>
-All who handle the oars will abandon their ships. The sailors and all the captains of the sea will stand on the shore.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.28|<< Ezekiel 27:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.30|Ezekiel 27:30 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 21:20** 
+**Job 21:20**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His eyes shall see his destruction, and he shall drink of the wrath of the Almighty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let his eyes see his own destruction; let him drink for himself the wrath of the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.19|<< Job 21:19]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.21|Job 21:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them see  |**<big>&#8207;[[H7200G\|יִרְא֣וּ]]&#8207; </big>**| yir.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | own eyes his  [^2]|**<big>&#8207;[[H5869A\|עֵינָ֣י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**[^3] | ei.no<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

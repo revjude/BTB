@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he struck \[the\] men of Beth-shemesh, for they beheld the ark of the <span class="smallcaps">lord</span>. And he struck among them seventy men, and fifty thousand men of the people. And the people mourned because \[the\] <span class="smallcaps">lord</span> struck among the people an exceedingly great calamity. 
-<small><sub>**KJV:**</sub></small>
-And he smote the men of Bethshemesh, because they had looked into the ark of the LORD, even he smote of the people fifty thousand and threescore and ten men: and the people lamented, because the LORD had smitten [many] of the people with a great slaughter.
-<small><sub>**BSB:**</sub></small>
-But God struck down some of the people of Beth-shemesh because they looked inside the ark of the LORD. He struck down seventy men, and the people mourned because the LORD had struck them with a great slaughter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.18|<< 1 Samuel 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.6.20|1 Samuel 6:20 >>]]</td></tr></table>
 
 | Translation | Greek |

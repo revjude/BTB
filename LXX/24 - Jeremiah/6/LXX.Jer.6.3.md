@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:3** 
 <small><sub>**LXX:**</sub></small>
 Shepherds shall come unto her and  their flocks; and they shall pitch tents against her round about. And each shall tend  with his hand. 
-<small><sub>**KJV:**</sub></small>
-The shepherds with their flocks shall come unto her; they shall pitch [their] tents against her round about; they shall feed every one in his place.
-<small><sub>**BSB:**</sub></small>
-Shepherds and their flocks will come against her; they will pitch their tents all around her, each tending his own portion:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.2|<< Jeremiah 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.4|Jeremiah 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

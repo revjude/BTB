@@ -1,10 +1,7 @@
 **LXX Psalm 77:3** 
 <small><sub>**LXX:**</sub></small>
 I remembered  God and was glad. I meditated and my spirit was faint-hearted. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.
-<small><sub>**BSB:**</sub></small>
-I remembered You, O God, and I groaned; I mused and my spirit grew faint. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.77.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.2|<< Psalm 77:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.4|Psalm 77:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 6:13** 
+**Joshua 6:13**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And seven priests bearing seven trumpets of rams’ horns before the ark of the LORD went on continually, and blew with the trumpets: and the armed men went before them; but the rereward came after the ark of the LORD, [the priests] going on, and blowing with the trumpets.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the seven priests carrying seven rams’ horns kept marching ahead of the ar
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.12|<< Joshua 6:12]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.14|Joshua 6:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and seven  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7651\|שִׁבְעָ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shiv.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priests  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֲנִ֡ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

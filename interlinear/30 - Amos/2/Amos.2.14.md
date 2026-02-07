@@ -1,4 +1,4 @@
-**Amos 2:14** 
+**Amos 2:14**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the flight shall perish from the swift, and the strong shall not strengthen his force, neither shall the mighty deliver himself:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Escape will fail the swift, the strong will not prevail by his strength, and the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.13|<< Amos 2:13]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.15|Amos 2:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be lost  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0006\|אָבַ֤ד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Vad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a place of escape  |**<big>&#8207;[[H4498\|מָנוֹס֙]]&#8207; </big>**| ma.nOs<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

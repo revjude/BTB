@@ -1,5 +1,5 @@
-**Revelation 12:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 12:14**<big><big>[[Rev.12.13 The Woman Persecuted|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to the woman were given two wings of a great eagle, that she might fly into the wilderness, into her place, where she is nourished for a time, and times, and half a time, from the face of the serpent.
 <small><sub>**BSB:**</sub></small>
 But the woman was given two wings of a great eagle to fly from the presence of the serpent to her place in the wilderness, where she was nourished for a time, and times, and half a time.
@@ -10,7 +10,7 @@ And were given to the woman the two wings of the eagle <the> great, so that she 
 > $\quad$ possibly alluding to: [[LXX.Dan.7.25|Dan 7:25]] ☩ [[LXX.Dan.12.7|Dan 12:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were given |**<big>[[G1325\|ἐδόθησαν]]</big>**  |edothēsan <small><sup>[[V-API-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

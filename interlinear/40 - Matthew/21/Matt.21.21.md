@@ -1,12 +1,12 @@
-**Matthew 21:21
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:21**<big><big>[[Matt.21.18 The Barren Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Jesus answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this [which is done] to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done.
 <small><sub>**BSB:**</sub></small>
 “Truly I tell you,” Jesus replied, “if you have faith and do not doubt, not only will you do what was done to the fig tree, but even if you say to this mountain, ‘Be lifted up and thrown into the sea,’ it will happen.
 <small><sub>**Literal:**</sub></small>
 Answering now <the> Jesus said to them; Amen I say to you; if you shall have faith and not shall doubt, not only the [miracle] of the fig tree will you do, but even if to the mountain this you shall say; do be taken away and do be cast into the sea, it will come to pass;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.20|<< Matthew 21:20]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.22|Matthew 21:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|Ἀποκριθεὶς]]</big>**  |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

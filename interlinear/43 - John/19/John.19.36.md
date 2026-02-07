@@ -1,5 +1,5 @@
-**John 19:36
-**<small><sub>**KJV:**</sub></small>
+**John 19:36**<big><big>[[John.19.31 Jesus’ Side Is Pierced|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken.
 <small><sub>**BSB:**</sub></small>
 Now these things happened so that the Scripture would be fulfilled: “Not one of His bones will be broken.”
@@ -10,7 +10,7 @@ Took place for these things so that the Scripture may be fulfilled: Bone not one
 > $\quad$ referencing: [[LXX.Exod.12.46|Exod 12:46]] ☩ [[LXX.Num.9.12|Num 9:12]] ☩ [[LXX.Ps.34.20|Ps 34:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Took place |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

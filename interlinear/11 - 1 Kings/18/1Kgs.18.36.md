@@ -1,4 +1,4 @@
-**1 Kings 18:36** 
+**1 Kings 18:36**<big><big>[[1Kgs.18.36 Elijah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at [the time of] the offering of the [evening] sacrifice, that Elijah the prophet came near, and said, LORD God of Abraham, Isaac, and of Israel, let it be known this day that thou [art] God in Israel, and [that] I [am] thy servant, and [that] I have done all these things at thy word.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the time of the evening sacrifice, Elijah the prophet approached the altar an
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.35|<< 1 Kings 18:35]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.37|1 Kings 18:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when went up  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H5927I\|עֲל֣וֹת]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.Lot<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

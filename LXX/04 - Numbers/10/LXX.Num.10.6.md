@@ -1,10 +1,7 @@
 **LXX Numbers 10:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall trump for a signal a second \[time\], and shall lift away the camps  camping according to \[the\] south. And you shall trump a third signal, and shall lift away the camps  camping by \[the\] west. And you shall trump a fourth signal, and shall lift away the camps  camping towards \[the\] north. You shall trump a signal at  their departure. 
-<small><sub>**KJV:**</sub></small>
-When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys.
-<small><sub>**BSB:**</sub></small>
-When you sound the short blasts a second time, the camps that lie on the south side are to set out. The blasts are to signal them to set out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.10.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.10.5|<< Numbers 10:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.10.7|Numbers 10:7 >>]]</td></tr></table>
 
 | Translation | Greek |

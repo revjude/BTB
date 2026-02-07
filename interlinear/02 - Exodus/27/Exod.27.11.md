@@ -1,4 +1,4 @@
-**Exodus 27:11** 
+**Exodus 27:11**<big><big>[[Exod.27.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And likewise for the north side in length [there shall be] hangings of an hundred [cubits] long, and his twenty pillars and their twenty sockets [of] brass; the hooks of the pillars and their fillets [of] silver.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Likewise there are to be curtains on the north side, a hundred cubits long, with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.10|<< Exodus 27:10]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.12|Exodus 27:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and thus  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3651C\|כֵ֨ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for [the] side of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6285\|פְאַ֤ת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

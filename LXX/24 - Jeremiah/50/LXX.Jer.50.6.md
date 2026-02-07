@@ -1,10 +1,7 @@
 **LXX Jeremiah 50:6** 
 <small><sub>**LXX:**</sub></small>
 My people became perishing sheep;  their shepherds pushed them out; they led them astray upon the mountains; from mountain unto hill they set out, they forgot their fold. 
-<small><sub>**KJV:**</sub></small>
-My people hath been lost sheep: their shepherds have caused them to go astray, they have turned them away [on] the mountains: they have gone from mountain to hill, they have forgotten their restingplace.
-<small><sub>**BSB:**</sub></small>
-My people are lost sheep; their shepherds have led them astray, causing them to roam the mountains. They have wandered from mountain to hill; they have forgotten their resting place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.50.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.5|<< Jeremiah 50:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.7|Jeremiah 50:7 >>]]</td></tr></table>
 
 | Translation | Greek |

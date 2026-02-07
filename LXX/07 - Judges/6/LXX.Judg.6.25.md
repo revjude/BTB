@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  that night, that \[the\] <span class="smallcaps">lord</span> said to him, Take the well fed calf  of your father, and the second calf of seven years \[old\]! And you shall demolish the altar  of Baal which is  of your father; and the sacred grove  by it you shall cut down. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass the same night, that the LORD said unto him, Take thy father’s young bullock, even the second bullock of seven years old, and throw down the altar of Baal that thy father hath, and cut down the grove that [is] by it:
-<small><sub>**BSB:**</sub></small>
-On that very night the LORD said to Gideon, “Take your father’s young bull and a second bull seven years old, tear down your father’s altar to Baal, and cut down the Asherah pole beside it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.24|<< Judges 6:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.6.26|Judges 6:26 >>]]</td></tr></table>
 
 | Translation | Greek |

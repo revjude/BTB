@@ -1,10 +1,7 @@
 **LXX Psalm 63:9** 
 <small><sub>**LXX:**</sub></small>
 But they seek my soul in folly; they shall enter into the lowermost \[part\] of the earth. 
-<small><sub>**KJV:**</sub></small>
-But those [that] seek my soul, to destroy [it], shall go into the lower parts of the earth.
-<small><sub>**BSB:**</sub></small>
-But those who seek my life to destroy it will go into the depths of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.63.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.63.8|<< Psalm 63:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.63.10|Psalm 63:10 >>]]</td></tr></table>
 
 | Translation | Greek |

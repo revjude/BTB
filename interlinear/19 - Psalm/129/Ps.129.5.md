@@ -1,4 +1,4 @@
-**Psalms 129:5** 
+**Psalms 129:5**<big><big>[[Ps.129.1 The Cords of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them all be confounded and turned back that hate Zion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May all who hate Zion be turned back in shame.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.129.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.129.4|<< Psalms 129:4]]</td><td align="center" style="border:none;">[[Ps.129|Psalms 129]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.129.6|Psalms 129:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they be ashamed  |**<big>&#8207;[[H0954\|יֵ֭בֹשׁוּ]]&#8207; </big>**| Ye.vo.shu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they may be turned back  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5472\|יִסֹּ֣גוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.So.gu<small><sup>[[HVNu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

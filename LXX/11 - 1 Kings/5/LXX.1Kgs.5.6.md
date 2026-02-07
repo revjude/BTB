@@ -1,10 +1,7 @@
 **LXX 1 Kings 5:6** 
 <small><sub>**LXX:**</sub></small>
 And now give charge, and let men fell timbers for me from  Lebanon! And behold,  my servants \[shall be\] with  your servants; and the wage  of your servants I will give to you according to all as much as you should say. For you know that there is not among us one knowing to fell timbers as the Sidonians. 
-<small><sub>**KJV:**</sub></small>
-Now therefore command thou that they hew me cedar trees out of Lebanon; and my servants shall be with thy servants: and unto thee will I give hire for thy servants according to all that thou shalt appoint: for thou knowest that [there is] not among us any that can skill to hew timber like unto the Sidonians.
-<small><sub>**BSB:**</sub></small>
-Now therefore, order that cedars of Lebanon be cut down for me. My servants will be with your servants, and I will pay your servants whatever wages you set, for you know that there are none among us as skilled in logging as the Sidonians.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.5|<< 1 Kings 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.7|1 Kings 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

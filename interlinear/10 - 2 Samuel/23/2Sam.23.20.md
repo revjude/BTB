@@ -1,4 +1,4 @@
-**2 Samuel 23:20** 
+**2 Samuel 23:20**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Benaiah the son of Jehoiada, the son of a valiant man, of Kabzeel, who had done many acts, he slew two lionlike men of Moab: he went down also and slew a lion in the midst of a pit in time of snow:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Benaiah son of Jehoiada was a man of valor from Kabzeel, a man of many explo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.19|<< 2 Samuel 23:19]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.21|2 Samuel 23:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Benaiah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1141G\|בְנָיָ֨הוּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.na.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ven-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

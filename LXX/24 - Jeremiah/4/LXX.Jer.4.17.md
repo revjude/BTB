@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:17** 
 <small><sub>**LXX:**</sub></small>
 As ones guarding a field they have come upon her round about; for you neglected me, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-As keepers of a field, are they against her round about; because she hath been rebellious against me, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-They surround her like men guarding a field, because she has rebelled against Me,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.16|<< Jeremiah 4:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.18|Jeremiah 4:18 >>]]</td></tr></table>
 
 | Translation | Greek |

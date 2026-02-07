@@ -1,4 +1,4 @@
-**Deuteronomy 2:24** 
+**Deuteronomy 2:24**<big><big>[[Deut.2.24 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rise ye up, take your journey, and pass over the river Arnon: behold, I have given into thine hand Sihon the Amorite, king of Heshbon, and his land: begin to possess [it], and contend with him in battle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rise ye up, take your journey, and pass over the river Arnon: behold, I have giv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.23|<< Deuteronomy 2:23]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.25|Deuteronomy 2:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arise  |**<big>&#8207;[[H6965B\|ק֣וּמוּ]]&#8207; </big>**| Ku.mu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | set out  |**<big>&#8207;[[H5265\|סְּע֗וּ]]&#8207; </big>**| se.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

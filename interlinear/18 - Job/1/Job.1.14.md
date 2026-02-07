@@ -1,4 +1,4 @@
-**Job 1:14** 
+**Job 1:14**<big><big>[[Job.1.13 Job Loses His Children and Possessions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ a messenger came and reported to Job: “While the oxen were plowing and the don
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.13|<< Job 1:13]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.15|Job 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a messenger  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4397G\|מַלְאָ֛ךְ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mal.'Akh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he came  |**<big>&#8207;[[H0935G\|בָּ֥א]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

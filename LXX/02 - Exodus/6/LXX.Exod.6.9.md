@@ -1,10 +1,7 @@
 **LXX Exodus 6:9** 
 <small><sub>**LXX:**</sub></small>
 And Moses spoke thus to the sons of Israel, and they did not hearken to Moses because  of faint-heartedness, and because of the hard works. 
-<small><sub>**KJV:**</sub></small>
-And Moses spake so unto the children of Israel: but they hearkened not unto Moses for anguish of spirit, and for cruel bondage.
-<small><sub>**BSB:**</sub></small>
-Moses relayed this message to the Israelites, but on account of their broken spirit and cruel bondage, they did not listen to him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.6.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.6.8|<< Exodus 6:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.6.10|Exodus 6:10 >>]]</td></tr></table>
 
 | Translation | Greek |

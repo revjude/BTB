@@ -1,10 +1,7 @@
 **LXX Deuteronomy 17:8** 
 <small><sub>**LXX:**</sub></small>
 But if a matter in a judgment should be powerless for you \[to decide\], between blood \[and\] blood, and between judgment \[and\] judgment, and between blow \[and\] blow, and between dispute \[and\] dispute, for matters of judgment in  your cities; then rising up you shall ascend unto the place which ever \[the\] <span class="smallcaps">lord</span> your God should choose for his name to be called upon there. 
-<small><sub>**KJV:**</sub></small>
-If there arise a matter too hard for thee in judgment, between blood and blood, between plea and plea, and between stroke and stroke, [being] matters of controversy within thy gates: then shalt thou arise, and get thee up into the place which the LORD thy God shall choose;
-<small><sub>**BSB:**</sub></small>
-If a case is too difficult for you to judge, whether the controversy within your gates is regarding bloodshed, lawsuits, or assaults, you must go up to the place the LORD your God will choose.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.7|<< Deuteronomy 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.9|Deuteronomy 17:9 >>]]</td></tr></table>
 
 | Translation | Greek |

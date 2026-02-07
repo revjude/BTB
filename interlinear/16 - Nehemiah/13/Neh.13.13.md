@@ -1,4 +1,4 @@
-**Nehemiah 13:13** 
+**Nehemiah 13:13**<big><big>[[Neh.13.10 Tithes Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I made treasurers over the treasuries, Shelemiah the priest, and Zadok the scribe, and of the Levites, Pedaiah: and next to them [was] Hanan the son of Zaccur, the son of Mattaniah: for they were counted faithful, and their office [was] to distribute unto their brethren.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I appointed as treasurers over the storerooms Shelemiah the priest, Zadok the sc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.12|<< Nehemiah 13:12]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.14|Nehemiah 13:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I appointed as treasurers !  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0686\|אוֹצְרָ֣]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'otz.Ra<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 5:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 5:17**<big><big>[[Luke.5.17 Jesus Heals a Paralytic|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was [present] to heal them.
 <small><sub>**BSB:**</sub></small>
 One day Jesus was teaching, and the Pharisees and teachers of the law were sitting there. People had come from Jerusalem and from every village of Galilee and Judea, and the power of the Lord was present for Him to heal the sick.
 <small><sub>**Literal:**</sub></small>
 And it came to pass on one of the days that He himself was teaching; and there were sitting by Pharisees and teachers of the law who were already coming out of every village <the> of Galilee and of Judea and of Jerusalem, And [the] power of [the] Lord was with <the> to heal Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.16|<< Luke 5:16]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.18|Luke 5:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it came to pass |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

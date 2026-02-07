@@ -1,10 +1,7 @@
 **LXX Isaiah 30:19** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] holy people shall live in Zion. And Jerusalem in weeping wept, \[saying\], Show mercy on me! He shall show mercy on you. When he perceived the sound of your cry he heeded you. 
-<small><sub>**KJV:**</sub></small>
-For the people shall dwell in Zion at Jerusalem: thou shalt weep no more: he will be very gracious unto thee at the voice of thy cry; when he shall hear it, he will answer thee.
-<small><sub>**BSB:**</sub></small>
-O people in Zion who dwell in Jerusalem, you will weep no more. He will surely be gracious when you cry for help; when He hears, He will answer you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.18|<< Isaiah 30:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.20|Isaiah 30:20 >>]]</td></tr></table>
 
 | Translation | Greek |

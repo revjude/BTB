@@ -1,10 +1,7 @@
 **LXX 2 Kings 11:18** 
 <small><sub>**LXX:**</sub></small>
 And all the people of the land entered into the house  of Baal, and they tore it down. And  his altars, and  his images they broke diligently. And  Mathan the priest  of Baal they killed before \[the\] face of the altars. And the priest established overseers in the house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And all the people of the land went into the house of Baal, and brake it down; his altars and his images brake they in pieces thoroughly, and slew Mattan the priest of Baal before the altars. And the priest appointed officers over the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-So all the people of the land went to the temple of Baal and tore it down. They smashed the altars and idols to pieces, and they killed Mattan the priest of Baal in front of the altars. And Jehoiada the priest posted guards for the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.11.17|<< 2 Kings 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.11.19|2 Kings 11:19 >>]]</td></tr></table>
 
 | Translation | Greek |

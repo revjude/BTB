@@ -1,10 +1,7 @@
 **LXX Genesis 7:17** 
 <small><sub>**LXX:**</sub></small>
 And came to pass the flood forty days and forty nights. And the water multiplied and lifted up the ark, and raised it up high from the earth. 
-<small><sub>**KJV:**</sub></small>
-And the flood was forty days upon the earth; and the waters increased, and bare up the ark, and it was lift up above the earth.
-<small><sub>**BSB:**</sub></small>
-For forty days the flood kept coming on the earth, and the waters rose and lifted the ark high above the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.7.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.16|<< Genesis 7:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.18|Genesis 7:18 >>]]</td></tr></table>
 
 | Translation | Greek |

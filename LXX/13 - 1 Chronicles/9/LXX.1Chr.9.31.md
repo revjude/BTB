@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:31** 
 <small><sub>**LXX:**</sub></small>
 And Mattithiah of the Levites -- this one \[was\] the first-born  to Shallum the Korahthite -- \[he was\] in  trust over the works of the sacrifice of the pan. 
-<small><sub>**KJV:**</sub></small>
-And Mattithiah, [one] of the Levites, who [was] the firstborn of Shallum the Korahite, had the set office over the things that were made in the pans.
-<small><sub>**BSB:**</sub></small>
-A Levite named Mattithiah, the firstborn son of Shallum the Korahite, was entrusted with baking the bread.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.30|<< 1 Chronicles 9:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.32|1 Chronicles 9:32 >>]]</td></tr></table>
 
 | Translation | Greek |

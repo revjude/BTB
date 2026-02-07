@@ -1,10 +1,7 @@
 **LXX Exodus 34:32** 
 <small><sub>**LXX:**</sub></small>
 And after these \[things\] came forward to him all the sons of Israel. And he gave charge to them all as much as \[the\] <span class="smallcaps">lord</span> spoke to him on  mount Sinai. 
-<small><sub>**KJV:**</sub></small>
-And afterward all the children of Israel came nigh: and he gave them in commandment all that the LORD had spoken with him in mount Sinai.
-<small><sub>**BSB:**</sub></small>
-And after this all the Israelites came near, and Moses commanded them to do everything that the LORD had told him on Mount Sinai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.31|<< Exodus 34:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.33|Exodus 34:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 21:19** 
 <small><sub>**LXX:**</sub></small>
 And it happened from days unto days, and as his time came in two days, there came forth  his innards with  his belly in his sickness. And he died in severe sicknesses, and his people did not make a funeral to him, nor a burning according to the burning  of his fathers. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, that in process of time, after the end of two years, his bowels fell out by reason of his sickness: so he died of sore diseases. And his people made no burning for him, like the burning of his fathers.
-<small><sub>**BSB:**</sub></small>
-This continued day after day until two full years had passed. Finally, his intestines came out because of his disease, and he died in severe pain. And his people did not make a fire in his honor as they had done for his fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.18|<< 2 Chronicles 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.20|2 Chronicles 21:20 >>]]</td></tr></table>
 
 | Translation | Greek |

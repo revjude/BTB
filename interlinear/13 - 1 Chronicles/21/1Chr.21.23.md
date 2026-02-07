@@ -1,4 +1,4 @@
-**1 Chronicles 21:23** 
+**1 Chronicles 21:23**<big><big>[[1Chr.21.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ornan said unto David, Take [it] to thee, and let my lord the king do [that which is] good in his eyes: lo, I give [thee] the oxen [also] for burnt offerings, and the threshing instruments for wood, and the wheat for the meat offering; I give it all.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ornan said to David, “Take it! May my lord the king do whatever seems good to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.22|<< 1 Chronicles 21:22]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.24|1 Chronicles 21:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ornan  |**<big>&#8207;[[H0771\|אָרְנָ֤ן]]&#8207; </big>**| 'a.re.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 18:11** 
 <small><sub>**LXX:**</sub></small>
 And now say to \[the\] men of Judah, and to the ones dwelling in Jerusalem! Thus says \[the\] <span class="smallcaps">lord</span>, Behold, I shape against you bad \[things\], and I devise against you a device! indeed each turn from his evil way, and make your practices good and  your ways! 
-<small><sub>**KJV:**</sub></small>
-Now therefore go to, speak to the men of Judah, and to the inhabitants of Jerusalem, saying, Thus saith the LORD; Behold, I frame evil against you, and devise a device against you: return ye now every one from his evil way, and make your ways and your doings good.
-<small><sub>**BSB:**</sub></small>
-Now therefore, tell the men of Judah and the residents of Jerusalem that this is what the LORD says: ‘Behold, I am planning a disaster for you and devising a plan against you. Turn now, each of you, from your evil ways, and correct your ways and deeds.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.10|<< Jeremiah 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.12|Jeremiah 18:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 12:8** 
+**Job 12:8**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Or speak to the earth, and it will teach you; let the fish of the sea inform you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.7|<< Job 12:7]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.9|Job 12:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or  |**<big>&#8207;[[H0176A\|א֤וֹ]]&#8207; </big>**| 'o<small><sup>[[HC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | complain  |**<big>&#8207;[[H7878\|שִׂ֣יחַ]]&#8207; </big>**| Si.ach<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

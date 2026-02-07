@@ -1,12 +1,12 @@
-**Acts 10:40
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:40**<big><big>[[Acts.10.34 Good News for the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Him God raised up the third day, and shewed him openly;
 <small><sub>**BSB:**</sub></small>
 God raised Him up on the third day and caused Him to be seen—
 <small><sub>**Literal:**</sub></small>
 This One <the> God raised up on the third day and gave Him revealed to become<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.39|<< Acts 10:39]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.41|Acts 10:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This One |**<big>[[G3778\|τοῦτον]]</big>**  |touton <small><sup>[[D-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

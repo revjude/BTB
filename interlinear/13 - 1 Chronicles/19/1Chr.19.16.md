@@ -1,4 +1,4 @@
-**1 Chronicles 19:16** 
+**1 Chronicles 19:16**<big><big>[[1Chr.19.10 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the Syrians saw that they were put to the worse before Israel, they sent messengers, and drew forth the Syrians that [were] beyond the river: and Shophach the captain of the host of Hadarezer [went] before them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the Arameans saw that they had been defeated by Israel, they sent messenger
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.15|<< 1 Chronicles 19:15]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.17|1 Chronicles 19:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|יַּ֣רְא]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yar'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Aram  |**<big>&#8207;[[H0758I\|אֲרָ֗ם]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

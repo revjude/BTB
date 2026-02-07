@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> led upon them the rulers of the force of the king of Assyria. And they overtook  Manasseh in bonds, and they tied him in shackles, and they led him into Babylon. 
-<small><sub>**KJV:**</sub></small>
-Wherefore the LORD brought upon them the captains of the host of the king of Assyria, which took Manasseh among the thorns, and bound him with fetters, and carried him to Babylon.
-<small><sub>**BSB:**</sub></small>
-So the LORD brought against them the military commanders of the king of Assyria, who captured Manasseh, put a hook in his nose, bound him with bronze shackles, and took him to Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.33.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.10|<< 2 Chronicles 33:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.12|2 Chronicles 33:12 >>]]</td></tr></table>
 
 | Translation | Greek |

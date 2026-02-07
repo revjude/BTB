@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:16** 
 <small><sub>**LXX:**</sub></small>
 Lean, O <span class="smallcaps">lord</span>,  your ear, and hear! Open, O <span class="smallcaps">lord</span>,  your eyes, and behold! And hear the words of Sennacherib! which he sent to berate \[the\] living God. 
-<small><sub>**KJV:**</sub></small>
-LORD, bow down thine ear, and hear: open, LORD, thine eyes, and see: and hear the words of Sennacherib, which hath sent him to reproach the living God.
-<small><sub>**BSB:**</sub></small>
-Incline Your ear, O LORD, and hear; open Your eyes, O LORD, and see. Listen to the words that Sennacherib has sent to defy the living God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.15|<< 2 Kings 19:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.17|2 Kings 19:17 >>]]</td></tr></table>
 
 | Translation | Greek |

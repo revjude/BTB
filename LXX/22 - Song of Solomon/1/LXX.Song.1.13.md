@@ -1,10 +1,7 @@
 **LXX Song of Solomon 1:13** 
 <small><sub>**LXX:**</sub></small>
 My beloved \[man\] \[is\] a bundle of balsam to me; he shall be lodged between my breasts. 
-<small><sub>**KJV:**</sub></small>
-A bundle of myrrh [is] my wellbeloved unto me; he shall lie all night betwixt my breasts.
-<small><sub>**BSB:**</sub></small>
-My beloved is to me a sachet of myrrh resting between my breasts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.1.12|<< Song of Solomon 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.1.14|Song of Solomon 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

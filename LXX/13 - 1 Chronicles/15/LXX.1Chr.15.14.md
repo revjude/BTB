@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:14** 
 <small><sub>**LXX:**</sub></small>
 And the priests and the Levites purified \[themselves\]  to bring the ark of \[the\] <span class="smallcaps">lord</span> God of Israel. 
-<small><sub>**KJV:**</sub></small>
-So the priests and the Levites sanctified themselves to bring up the ark of the LORD God of Israel.
-<small><sub>**BSB:**</sub></small>
-So the priests and Levites consecrated themselves to bring up the ark of the LORD, the God of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.13|<< 1 Chronicles 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.15|1 Chronicles 15:15 >>]]</td></tr></table>
 
 | Translation | Greek |

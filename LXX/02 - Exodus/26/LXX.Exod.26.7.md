@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall make hide coverings of hair for protection upon the tent, eleven hide coverings you shall make them. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make curtains [of] goats’ [hair] to be a covering upon the tabernacle: eleven curtains shalt thou make.
-<small><sub>**BSB:**</sub></small>
-You are to make curtains of goat hair for the tent over the tabernacle—eleven curtains in all.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.6|<< Exodus 26:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.8|Exodus 26:8 >>]]</td></tr></table>
 
 | Translation | Greek |

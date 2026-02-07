@@ -1,10 +1,7 @@
 **LXX Ezekiel 14:11** 
 <small><sub>**LXX:**</sub></small>
 so that \[the\] house of Israel should not be misled still from me; and that they should not be defiled still in all  their transgressions; and they will be to me for a people, and I will be to them for God, says Adonai \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-That the house of Israel may go no more astray from me, neither be polluted any more with all their transgressions; but that they may be my people, and I may be their God, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-in order that the house of Israel may no longer stray from Me and no longer defile themselves with all their transgressions. Then they will be My people and I will be their God, declares the Lord GOD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.14.10|<< Ezekiel 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.14.12|Ezekiel 14:12 >>]]</td></tr></table>
 
 | Translation | Greek |

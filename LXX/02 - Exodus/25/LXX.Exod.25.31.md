@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall make a lamp-stand from out of pure gold; a turned piece you shall make the lamp-stand.  Its stem, and the branches, and the basins, and the knobs, and the lilies will be of it. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make a candlestick [of] pure gold: [of] beaten work shall the candlestick be made: his shaft, and his branches, his bowls, his knops, and his flowers, shall be of the same.
-<small><sub>**BSB:**</sub></small>
-Then you are to make a lampstand of pure, hammered gold. It shall be made of one piece, including its base and shaft, its cups, and its buds and petals.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.25.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.25.30|<< Exodus 25:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.25.32|Exodus 25:32 >>]]</td></tr></table>
 
 | Translation | Greek |

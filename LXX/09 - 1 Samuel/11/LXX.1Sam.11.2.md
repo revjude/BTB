@@ -1,10 +1,7 @@
 **LXX 1 Samuel 11:2** 
 <small><sub>**LXX:**</sub></small>
 And Nahash the Ammonite said to them, By this I will ordain with you a covenant, in the gouging out of all of you \[the\] right eye, and I will make it for scorn upon all Israel. 
-<small><sub>**KJV:**</sub></small>
-And Nahash the Ammonite answered them, On this [condition] will I make [a covenant] with you, that I may thrust out all your right eyes, and lay it [for] a reproach upon all Israel.
-<small><sub>**BSB:**</sub></small>
-But Nahash the Ammonite replied, “I will make a treaty with you on one condition, that I may put out everyone’s right eye and bring reproach upon all Israel.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.11.1|<< 1 Samuel 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.11.3|1 Samuel 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

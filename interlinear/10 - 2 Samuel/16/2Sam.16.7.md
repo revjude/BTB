@@ -1,4 +1,4 @@
-**2 Samuel 16:7** 
+**2 Samuel 16:7**<big><big>[[2Sam.16.5 Shimei Curses David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thus said Shimei when he cursed, Come out, come out, thou bloody man, and thou man of Belial:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And as he yelled curses, Shimei said, “Get out, get out, you worthless man of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.6|<< 2 Samuel 16:6]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.8|2 Samuel 16:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and thus  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3541\|כֹֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khoh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he said  |**<big>&#8207;[[H0559\|אָמַ֥ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

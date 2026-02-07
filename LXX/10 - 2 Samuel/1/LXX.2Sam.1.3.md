@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:3** 
 <small><sub>**LXX:**</sub></small>
 And David said to him, From what place do you come? And he said to him, From out of the camp of Israel I have come through safe. 
-<small><sub>**KJV:**</sub></small>
-And David said unto him, From whence comest thou? And he said unto him, Out of the camp of Israel am I escaped.
-<small><sub>**BSB:**</sub></small>
-“Where have you come from?” David asked. “I have escaped from the Israelite camp,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.2|<< 2 Samuel 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.4|2 Samuel 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

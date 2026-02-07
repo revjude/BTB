@@ -1,12 +1,12 @@
-**Mark 10:27
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:27**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus looking upon them saith, With men [it is] impossible, but not with God: for with God all things are possible.
 <small><sub>**BSB:**</sub></small>
 Jesus looked at them and said, “With man this is impossible, but not with God. For all things are possible with God.”
 <small><sub>**Literal:**</sub></small>
 Having looked now on them <the> Jesus says; With men [it is] impossible but not [is impossible] with <the> God; all things for [are] possible is with <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.26|<< Mark 10:26]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.28|Mark 10:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having looked |**<big>[[G1689\|ἐμβλέψας]]</big>**  |emblepsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

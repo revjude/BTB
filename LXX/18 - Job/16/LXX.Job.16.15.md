@@ -1,10 +1,7 @@
 **LXX Job 16:15** 
 <small><sub>**LXX:**</sub></small>
 they sewed sackcloth upon my hide;  and my strength was extinguished in \[the\] ground. 
-<small><sub>**KJV:**</sub></small>
-I have sewed sackcloth upon my skin, and defiled my horn in the dust.
-<small><sub>**BSB:**</sub></small>
-I have sewn sackcloth over my skin; I have buried my horn in the dust.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.16.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.16.14|<< Job 16:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.16.16|Job 16:16 >>]]</td></tr></table>
 
 | Translation | Greek |

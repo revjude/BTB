@@ -1,10 +1,7 @@
 **LXX Deuteronomy 27:2** 
 <small><sub>**LXX:**</sub></small>
 And it will be in which ever day you should pass over the Jordan into the land which \[the\] <span class="smallcaps">lord</span>  your God gives to you, that you shall set up to yourself great stones, and you shall whitewash them in lime. 
-<small><sub>**KJV:**</sub></small>
-And it shall be on the day when ye shall pass over Jordan unto the land which the LORD thy God giveth thee, that thou shalt set thee up great stones, and plaister them with plaister:
-<small><sub>**BSB:**</sub></small>
-And on the day you cross the Jordan into the land that the LORD your God is giving you, set up large stones and coat them with plaster.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.27.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.27.1|<< Deuteronomy 27:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.27.3|Deuteronomy 27:3 >>]]</td></tr></table>
 
 | Translation | Greek |

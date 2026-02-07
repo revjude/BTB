@@ -1,10 +1,7 @@
 **LXX Judges 16:8** 
 <small><sub>**LXX:**</sub></small>
 And the satraps of the Philistines brought to her seven wet strings of a bow not ruined. And she tied him with them. 
-<small><sub>**KJV:**</sub></small>
-Then the lords of the Philistines brought up to her seven green withs which had not been dried, and she bound him with them.
-<small><sub>**BSB:**</sub></small>
-So the lords of the Philistines brought her seven fresh bowstrings that had not been dried, and she tied him up with them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.7|<< Judges 16:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.9|Judges 16:9 >>]]</td></tr></table>
 
 | Translation | Greek |

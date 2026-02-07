@@ -1,5 +1,5 @@
-**Hebrews 11:30
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:30**<big><big>[[Heb.11.30 (Joshua–Malachi)|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By faith the walls of Jericho fell down, after they were compassed about seven days.
 <small><sub>**BSB:**</sub></small>
 By faith the walls of Jericho fell, after the people had marched around them for seven days.
@@ -10,7 +10,7 @@ By faith the walls of Jericho fell having been encircled for seven days.<br><tab
 > $\quad$ alluding to: [[LXX.Josh.6.20|Josh 6:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

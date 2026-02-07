@@ -1,12 +1,12 @@
-**Acts 5:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 5:31**<big><big>[[Acts.5.24 The Apostles before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Him hath God exalted with his right hand [to be] a Prince and a Saviour, for to give repentance to Israel, and forgiveness of sins.
 <small><sub>**BSB:**</sub></small>
 God exalted Him to His right hand as Prince and Savior, in order to grant repentance and forgiveness of sins to Israel.
 <small><sub>**Literal:**</sub></small>
 Him <the> God [as] Prince and Savior exalted by the right hand of Him <the> to give repentance <the> to Israel and forgiveness of sins.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.30|<< Acts 5:30]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.32|Acts 5:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Him |**<big>[[G3778\|τοῦτον]]</big>**  |touton <small><sup>[[D-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

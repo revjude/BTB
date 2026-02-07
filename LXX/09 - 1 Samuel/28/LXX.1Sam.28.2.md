@@ -1,10 +1,7 @@
 **LXX 1 Samuel 28:2** 
 <small><sub>**LXX:**</sub></small>
 And David said to Achish, Thus now you shall know what your servant will do. And Achish said to  David, Thus as chief of the body-guard I shall appoint you \[for\] all the days. 
-<small><sub>**KJV:**</sub></small>
-And David said to Achish, Surely thou shalt know what thy servant can do. And Achish said to David, Therefore will I make thee keeper of mine head for ever.
-<small><sub>**BSB:**</sub></small>
-David replied, “Then you will come to know what your servant can do.” “Very well,” said Achish. “I will make you my bodyguard for life.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.28.1|<< 1 Samuel 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.3|1 Samuel 28:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Luke 10:7
-**<small><sub>**KJV:**</sub></small>
+**Luke 10:7**<big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in the same house remain, eating and drinking such things as they give: for the labourer is worthy of his hire. Go not from house to house.
 <small><sub>**BSB:**</sub></small>
 Stay at the same house, eating and drinking whatever you are offered. For the worker is worthy of his wages. Do not move around from house to house.
@@ -11,7 +11,7 @@ In [the] same now <the> house do remain eating and drinking the [things supplied
 > $\quad$ referenced by: [[1Tim.5.18|1Tim 5:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] same |**<big>[[G0846\|αὐτῇ]]</big>**  |autēa <small><sup>[[P-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Colossians 3:4
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:4**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When Christ, [who is] our life, shall appear, then shall ye also appear with him in glory.
 <small><sub>**BSB:**</sub></small>
 When Christ, who is your life, appears, then you also will appear with Him in glory.
 <small><sub>**Literal:**</sub></small>
 When <the> Christ may be revealed, the life of you, then also you yourselves with Him will appear in glory.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.3|<< Colossians 3:3]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.5|Colossians 3:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

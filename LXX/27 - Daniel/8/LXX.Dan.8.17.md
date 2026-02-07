@@ -1,10 +1,7 @@
 **LXX Daniel 8:17** 
 <small><sub>**LXX:**</sub></small>
 And he came and stood next to  my position. And in  his coming I was distraught, and I fell upon my face. And he said to me, Take notice, O son of man! for the vision \[is\] still for end time. 
-<small><sub>**KJV:**</sub></small>
-So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end [shall be] the vision.
-<small><sub>**BSB:**</sub></small>
-As he came near to where I stood, I was terrified and fell facedown. “Son of man,” he said to me, “understand that the vision concerns the time of the end.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.16|<< Daniel 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.18|Daniel 8:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 8:17** is...

@@ -1,10 +1,7 @@
 **LXX Lamentations 3:57** 
 <small><sub>**LXX:**</sub></small>
 You approached for my help in \[the\] day in which I called upon you. You said to me, Do not fear! 
-<small><sub>**KJV:**</sub></small>
-Thou drewest near in the day [that] I called upon thee: thou saidst, Fear not.
-<small><sub>**BSB:**</sub></small>
-You drew near when I called on You; You said, “Do not be afraid.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.3.57|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.3.56|<< Lamentations 3:56]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.3.58|Lamentations 3:58 >>]]</td></tr></table>
 
 | Translation | Greek |

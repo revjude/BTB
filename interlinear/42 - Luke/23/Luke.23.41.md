@@ -1,12 +1,12 @@
-**Luke 23:41
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:41**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And we indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss.
 <small><sub>**BSB:**</sub></small>
 We are punished justly, for we are receiving what our actions deserve. But this man has done nothing wrong.”
 <small><sub>**Literal:**</sub></small>
 and we ourselves indeed justly, Worthy for of what we did we are receiving; [this] man however no [thing] wrong did.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.40|<< Luke 23:40]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.42|Luke 23:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | we ourselves |**<big>[[G3165\|ἡμεῖς]]</big>**  |hēmeis <small><sup>[[P-1NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

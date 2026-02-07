@@ -1,10 +1,7 @@
 **LXX Psalm 78:28** 
 <small><sub>**LXX:**</sub></small>
 And they fell in \[the\] midst  of their camp round about  their tents. 
-<small><sub>**KJV:**</sub></small>
-And he let [it] fall in the midst of their camp, round about their habitations.
-<small><sub>**BSB:**</sub></small>
-He felled them in the midst of their camp, all around their dwellings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.27|<< Psalm 78:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.29|Psalm 78:29 >>]]</td></tr></table>
 
 | Translation | Greek |

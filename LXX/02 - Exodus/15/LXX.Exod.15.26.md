@@ -1,10 +1,7 @@
 **LXX Exodus 15:26** 
 <small><sub>**LXX:**</sub></small>
 And he said, If you should hear the voice of \[the\] <span class="smallcaps">lord</span>  your God, and you should do the \[things\] pleasing before him, and you should give ear to  his commandments, and you should guard all  his ordinances, \[then\] every disease which was brought upon the Egyptians, I will not bring upon you. For I am \[the\] <span class="smallcaps">lord</span>  healing you. 
-<small><sub>**KJV:**</sub></small>
-And said, If thou wilt diligently hearken to the voice of the LORD thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I [am] the LORD that healeth thee.
-<small><sub>**BSB:**</sub></small>
-saying, “If you will listen carefully to the voice of the LORD your God, and do what is right in His eyes, and pay attention to His commands, and keep all His statutes, then I will not bring on you any of the diseases I inflicted on the Egyptians. For I am the LORD who heals you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.15.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.15.25|<< Exodus 15:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.15.27|Exodus 15:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 16:19** 
+**Numbers 16:19**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Korah gathered all the congregation against them unto the door of the tabernacle of the congregation: and the glory of the LORD appeared unto all the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Korah had gathered his whole assembly against them at the entrance to the T
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.18|<< Numbers 16:18]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.20|Numbers 16:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called together  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6950\|יַּקְהֵ֨ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yak.Hel<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֥ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

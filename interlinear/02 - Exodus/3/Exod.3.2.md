@@ -1,4 +1,4 @@
-**Exodus 3:2** 
+**Exodus 3:2**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of the LORD appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush [was] not consumed.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ There the angel of the LORD appeared to him in a blazing fire from within a bush
 > $\quad$ referenced by: [[Acts.7.30|Acts 7:30]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he appeared  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H7200G\|יֵּרָא]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ye.ra'<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] angel of  |**<big>&#8207;[[H4397H\|מַלְאַ֨ךְ]]&#8207; </big>**| mal.'Akh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

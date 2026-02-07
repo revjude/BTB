@@ -1,12 +1,12 @@
-**Revelation 21:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:11**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having the glory of God: and her light [was] like unto a stone most precious, even like a jasper stone, clear as crystal;
 <small><sub>**BSB:**</sub></small>
 shining with the glory of God. Its radiance was like a most precious jewel, like a jasper, as clear as crystal.
 <small><sub>**Literal:**</sub></small>
 having the glory <the> of God. and The radiance of it [was] like as a stone most precious like as a stone jasper being clear as crystal<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.10|<< Revelation 21:10]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.12|Revelation 21:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having |**<big>[[G2192\|ἔχουσαν]]</big>**  |echousan <small><sup>[[V-PAP-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

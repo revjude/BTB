@@ -1,4 +1,4 @@
-**Habakkuk 3:16** 
+**Habakkuk 3:16**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I heard, my belly trembled; my lips quivered at the voice: rottenness entered into my bones, and I trembled in myself, that I might rest in the day of trouble: when he cometh up unto the people, he will invade them with his troops.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I heard and trembled within; my lips quivered at the sound. Decay entered my bon
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.15|<< Habakkuk 3:15]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.17|Habakkuk 3:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I heard  |**<big>&#8207;[[H8085G\|שָׁמַ֣עְתִּי]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| sha.Ma'.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it trembled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7264\|תִּרְגַּ֣ז]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tir.Gaz<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

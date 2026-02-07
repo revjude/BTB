@@ -1,12 +1,12 @@
-**Luke 13:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:3**<big><big>[[Luke.13.1 A Call to Repentance|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I tell you, Nay: but, except ye repent, ye shall all likewise perish.
 <small><sub>**BSB:**</sub></small>
 No, I tell you. But unless you repent, you too will all perish.
 <small><sub>**Literal:**</sub></small>
 No, I say to you, but only unless you shall repent, all likewise you will perish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.2|<< Luke 13:2]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.4|Luke 13:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No, |**<big>[[G3780\|οὐχί,]]</big>**  |ouchi <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

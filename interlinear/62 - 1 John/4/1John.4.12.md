@@ -1,12 +1,12 @@
-**1 John 4:12
-**<small><sub>**KJV:**</sub></small>
+**1 John 4:12**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.
 <small><sub>**BSB:**</sub></small>
 No one has ever seen God; but if we love one another, God remains in us, and His love is perfected in us.
 <small><sub>**Literal:**</sub></small>
 God no [one] at any time has seen; if we shall love one another, <the> God in us abides and the love of Him in us perfected is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.11|<< 1 John 4:11]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.13|1 John 4:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | God |**<big>[[G2316\|θεὸν]]</big>**  |theon <small><sup>[[N-ASM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | no [one] |**<big>[[G3762\|οὐδεὶς]]</big>**  |oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

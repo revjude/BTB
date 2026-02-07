@@ -1,4 +1,4 @@
-**2 Samuel 2:10** 
+**2 Samuel 2:10**<big><big>[[2Sam.2.8 Ish-bosheth Made King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ishbosheth Saul’s son [was] forty years old when he began to reign over Israel, and reigned two years. But the house of Judah followed David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Saul’s son Ish-bosheth was forty years old when he began to reign over Israel,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.9|<< 2 Samuel 2:9]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.11|2 Samuel 2:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] a son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | forty  |**<big>&#8207;[[H0705\|אַרְבָּעִ֨ים]]&#8207; </big>**| 'ar.ba.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

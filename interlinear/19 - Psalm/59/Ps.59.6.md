@@ -1,4 +1,4 @@
-**Psalms 59:6** (59:7)
+**Psalms 59:6**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They return at evening: they make a noise like a dog, and go round about the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They return in the evening, snarling like dogs and prowling around the city.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.5|<< Psalms 59:5]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.7|Psalms 59:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they return  |**<big>&#8207;[[H7725G\|יָשׁ֣וּבוּ]]&#8207; </big>**| ya.Shu.vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> evening  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H6153\|עֶרֶב]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> 'e.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

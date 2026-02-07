@@ -1,4 +1,4 @@
-**Joel 1:8** 
+**Joel 1:8**<big><big>[[Joel.1.8 A Call to Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lament like a virgin girded with sackcloth for the husband of her youth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wail like a virgin dressed in sackcloth, grieving for the husband of her youth.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.7|<< Joel 1:7]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.9|Joel 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wail  |**<big>&#8207;[[H0421\|אֱלִ֕י]]&#8207; </big>**| 'e.Li<small><sup>[[HVqv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like a virgin  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H1330\|בְתוּלָ֥ה]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> v.tu.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 21:12** 
+**Isaiah 21:12**<big><big>[[Isa.21.11 The Burden against Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The watchman said, The morning cometh, and also the night: if ye will inquire, inquire ye: return, come.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The watchman replies, “Morning has come, but also the night. If you would inqu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.11|<< Isaiah 21:11]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.13|Isaiah 21:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] watchman  |**<big>&#8207;[[H8104H\|שֹׁמֵ֔ר]]&#8207; </big>**| sho.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

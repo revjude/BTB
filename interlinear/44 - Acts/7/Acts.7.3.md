@@ -1,5 +1,5 @@
-**Acts 7:3
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:3**<big><big>[[Acts.7.1 Stephen’s Address：The Call of Abraham|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And said unto him, Get thee out of thy country, and from thy kindred, and come into the land which I shall shew thee.
 <small><sub>**BSB:**</sub></small>
 and told him, ‘Leave your country and your kindred and go to the land I will show you.’
@@ -10,7 +10,7 @@ and He said to him; do go out from the country of you and from the kindred of yo
 > $\quad$ referencing: [[LXX.Gen.12.1|Gen 12:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 50:39** 
+**Jeremiah 50:39**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the wild beasts of the desert with the wild beasts of the islands shall dwell [there], and the owls shall dwell therein: and it shall be no more inhabited for ever; neither shall it be dwelt in from generation to generation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the desert creatures and hyenas will live there and ostriches will dwell ther
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.38|<< Jeremiah 50:38]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.40|Jeremiah 50:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֗ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will dwell  |**<big>&#8207;[[H3427\|יֵשְׁב֤וּ]]&#8207; </big>**| ye.she.Vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

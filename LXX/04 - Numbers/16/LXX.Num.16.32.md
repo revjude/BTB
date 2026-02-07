@@ -1,10 +1,7 @@
 **LXX Numbers 16:32** 
 <small><sub>**LXX:**</sub></small>
 And the earth was opened, and it swallowed them, and  their houses, and all the men of the ones being with Korah, and all  their cattle. 
-<small><sub>**KJV:**</sub></small>
-And the earth opened her mouth, and swallowed them up, and their houses, and all the men that [appertained] unto Korah, and all [their] goods.
-<small><sub>**BSB:**</sub></small>
-and the earth opened its mouth and swallowed them and their households—all Korah’s men and all their possessions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.31|<< Numbers 16:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.33|Numbers 16:33 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 16:32** is...

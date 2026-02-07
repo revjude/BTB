@@ -1,10 +1,7 @@
 **LXX Hosea 11:4** 
 <small><sub>**LXX:**</sub></small>
 In corruption of men I stretched them with \[the\] bonds of my affections. And I will be to them as a man slapping upon  his cheek; and I shall look to him; I will prevail to him. 
-<small><sub>**KJV:**</sub></small>
-I drew them with cords of a man, with bands of love: and I was to them as they that take off the yoke on their jaws, and I laid meat unto them.
-<small><sub>**BSB:**</sub></small>
-I led them with cords of kindness, with ropes of love; I lifted the yoke from their necks and bent down to feed them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.3|<< Hosea 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.5|Hosea 11:5 >>]]</td></tr></table>
 
 | Translation | Greek |

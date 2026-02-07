@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:34** 
 <small><sub>**LXX:**</sub></small>
 if God tested, entering to take to himself a nation from out of \[the\] midst of a nation, for a test; and in signs, and in miracles, and by war, and by a fortified hand, and with a high arm, and in great visions, according to all as much as \[the\] <span class="smallcaps">lord</span> our God did in Egypt, in the presence of your seeing; 
-<small><sub>**KJV:**</sub></small>
-Or hath God assayed to go [and] take him a nation from the midst of [another] nation, by temptations, by signs, and by wonders, and by war, and by a mighty hand, and by a stretched out arm, and by great terrors, according to all that the LORD your God did for you in Egypt before your eyes?
-<small><sub>**BSB:**</sub></small>
-Or has any god tried to take as his own a nation out of another nation—by trials, signs, wonders, and war, by a strong hand and an outstretched arm, and by great terrors—as the LORD your God did for you in Egypt, before your eyes?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.33|<< Deuteronomy 4:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.35|Deuteronomy 4:35 >>]]</td></tr></table>
 
 | Translation | Greek |

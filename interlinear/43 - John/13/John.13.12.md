@@ -1,12 +1,12 @@
-**John 13:12
-**<small><sub>**KJV:**</sub></small>
+**John 13:12**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So after he had washed their feet, and had taken his garments, and was set down again, he said unto them, Know ye what I have done to you?
 <small><sub>**BSB:**</sub></small>
 When Jesus had washed their feet and put on His outer garments, He reclined with them again and asked, “Do you know what I have done for you?
 <small><sub>**Literal:**</sub></small>
 When therefore He had washed the feet of them and taken the garments of Him and he reclined again, He said to them; Do you know what I have done to you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.11|<< John 13:11]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.13|John 13:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|Ὅτε]]</big>**  |Hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

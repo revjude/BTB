@@ -1,10 +1,7 @@
 **LXX Hosea 13:14** 
 <small><sub>**LXX:**</sub></small>
 From \[the\] hand of Hades I shall rescue them; from death I will ransom them. Where \[is\]  your punishment, O death? Where \[is\]  your sting, O Hades? Consolation is hidden from my eyes. 
-<small><sub>**KJV:**</sub></small>
-I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes.
-<small><sub>**BSB:**</sub></small>
-I will ransom them from the power of Sheol; I will redeem them from Death. Where, O Death, are your plagues? Where, O Sheol, is your sting? Compassion is hidden from My eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.13.13|<< Hosea 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.13.15|Hosea 13:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hosea 13:14** is...

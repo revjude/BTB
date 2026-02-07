@@ -1,10 +1,7 @@
 **LXX Isaiah 60:16** 
 <small><sub>**LXX:**</sub></small>
 And you shall nurse milk of nations, and you shall eat wealth of kings. And you shall know that I \[am\] \[the\] <span class="smallcaps">lord</span>, the one delivering you, and rescuing you -- \[the\] God of Jacob. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt also suck the milk of the Gentiles, and shalt suck the breast of kings: and thou shalt know that I the LORD [am] thy Saviour and thy Redeemer, the mighty One of Jacob.
-<small><sub>**BSB:**</sub></small>
-You will drink the milk of nations and nurse at the breasts of royalty; you will know that I, the LORD, am your Savior and your Redeemer, the Mighty One of Jacob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.60.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.60.15|<< Isaiah 60:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.60.17|Isaiah 60:17 >>]]</td></tr></table>
 
 | Translation | Greek |

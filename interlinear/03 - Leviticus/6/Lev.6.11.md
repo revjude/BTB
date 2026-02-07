@@ -1,4 +1,4 @@
-**Leviticus 6:11** (6:4)
+**Leviticus 6:11**<big><big>[[Lev.6.8 The Burnt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall put off his garments, and put on other garments, and carry forth the ashes without the camp unto a clean place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he must take off his garments, put on other clothes, and carry the ashes ou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.10|<< Leviticus 6:10]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.12|Leviticus 6:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will strip off  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6584\|פָשַׁט֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fa.Shat<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

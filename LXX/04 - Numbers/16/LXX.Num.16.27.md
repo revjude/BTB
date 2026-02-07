@@ -1,10 +1,7 @@
 **LXX Numbers 16:27** 
 <small><sub>**LXX:**</sub></small>
 And both Dathan and Abiram left from the tent of Korah round about. And Dathan and Abiram came forth and stood by the doors  of their tents, and  their wives, and  their children, and  their belongings. 
-<small><sub>**KJV:**</sub></small>
-So they gat up from the tabernacle of Korah, Dathan, and Abiram, on every side: and Dathan and Abiram came out, and stood in the door of their tents, and their wives, and their sons, and their little children.
-<small><sub>**BSB:**</sub></small>
-So they moved away from the dwellings of Korah, Dathan, and Abiram. Meanwhile, Dathan and Abiram had come out and stood at the entrances to their tents with their wives and children and infants.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.26|<< Numbers 16:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.28|Numbers 16:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 7:43
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:43**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Simon answered and said, I suppose that [he], to whom he forgave most. And he said unto him, Thou hast rightly judged.
 <small><sub>**BSB:**</sub></small>
 “I suppose the one who was forgiven more,” Simon replied. “You have judged correctly,” Jesus said.
 <small><sub>**Literal:**</sub></small>
 Answering now <the> Simon said; I take it that [he] to whom the most he forgave. <the> And He said to him; Rightly You have judged.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.42|<< Luke 7:42]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.44|Luke 7:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="Tyn+TR+Byz">ko</abbr> | |

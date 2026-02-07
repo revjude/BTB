@@ -1,12 +1,12 @@
-**Romans 12:2
-**<small><sub>**KJV:**</sub></small>
+**Romans 12:2**<big><big>[[Rom.12.1 Living Sacrifices|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what [is] that good, and acceptable, and perfect, will of God.
 <small><sub>**BSB:**</sub></small>
 Do not be conformed to this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what is the good, pleasing, and perfect will of God.
 <small><sub>**Literal:**</sub></small>
 And not do be conformed to the age this, but do be transformed by the renewing of the mind of you for <the> to prove by you what [is] the will <the> of God <the> good and well-pleasing and perfect.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.1|<< Romans 12:1]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.3|Romans 12:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

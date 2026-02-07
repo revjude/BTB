@@ -1,10 +1,7 @@
 **LXX Genesis 27:30** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after the ceasing of Isaac blessing Jacob  his son, that it happened as Jacob went forth from \[the\] face of Isaac  his father, that Esau  his brother came from the hunt. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.
-<small><sub>**BSB:**</sub></small>
-As soon as Isaac had finished blessing him and Jacob had left his father’s presence, his brother Esau returned from the hunt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.29|<< Genesis 27:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.31|Genesis 27:31 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Zechariah 8:9** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> almighty, Strengthen  your hands, O ones hearing in  these days  these words from \[the\] mouth of the prophets, from which day the house \[of the\] <span class="smallcaps">lord</span> almighty was founded, and  from which \[day\] \[the\] temple was built. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts; Let your hands be strong, ye that hear in these days these words by the mouth of the prophets, which [were] in the day [that] the foundation of the house of the LORD of hosts was laid, that the temple might be built.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD of Hosts says: “Let your hands be strong, you who now hear these words spoken by the prophets who were present when the foundations were laid to rebuild the temple, the house of the LORD of Hosts.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.8|<< Zechariah 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.10|Zechariah 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

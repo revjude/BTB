@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:21** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass, after  their going forth, they ascended from out of the cistern, and went, and reported  to king David. And they say to him, Rise up and pass over the water quickly! for thus Ahithophel has counseled against you. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, after they were departed, that they came up out of the well, and went and told king David, and said unto David, Arise, and pass quickly over the water: for thus hath Ahithophel counselled against you.
-<small><sub>**BSB:**</sub></small>
-After the men had gone, Ahimaaz and Jonathan climbed up out of the well and went to inform King David, saying, “Get up and cross over the river at once, for Ahithophel has given this advice against you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.20|<< 2 Samuel 17:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.22|2 Samuel 17:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Romans 16:1
-**<small><sub>**KJV:**</sub></small>
+**Romans 16:1**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:
 <small><sub>**BSB:**</sub></small>
 I commend to you our sister Phoebe, a servant of the church in Cenchrea.
 <small><sub>**Literal:**</sub></small>
 I commend now to you Phoebe the sister of us being also a servant of the church <the> in Cenchrea,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.33|<< Romans 15:33]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.2|Romans 16:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I commend |**<big>[[G4921\|Συνίστημι]]</big>**  |Sunistēmi <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

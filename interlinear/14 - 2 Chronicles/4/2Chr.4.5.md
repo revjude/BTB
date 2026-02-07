@@ -1,4 +1,4 @@
-**2 Chronicles 4:5** 
+**2 Chronicles 4:5**<big><big>[[2Chr.4.1 The Bronze Altar and Molten Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the thickness of it [was] an handbreadth, and the brim of it like the work of the brim of a cup, with flowers of lilies; [and] it received and held three thousand baths.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It was a handbreadth thick, and its rim was fashioned like the brim of a cup, li
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.4|<< 2 Chronicles 4:4]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.6|2 Chronicles 4:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and thickness its  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5672\|עָבְי֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.ve.Y<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] a hand breadth  |**<big>&#8207;[[H2947\|טֶ֔פַח]]&#8207; </big>**| Te.fach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 43:16** 
+**Ezekiel 43:16**<big><big>[[Ezek.43.13 The Altar of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the altar [shall be] twelve [cubits] long, twelve broad, square in the four squares thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The altar hearth shall be square at its four corners, twelve cubits long and twe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.15|<< Ezekiel 43:15]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.17|Ezekiel 43:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the altar hearth  [^3]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0741\|אֲרִיאֵ֗ל]]&#8207; </big>**[^4] | ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.ri.'eil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | [is] two [plus]  |**<big>&#8207;[[H8147\|שְׁתֵּ֤ים]]&#8207; </big>**| she.Teim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

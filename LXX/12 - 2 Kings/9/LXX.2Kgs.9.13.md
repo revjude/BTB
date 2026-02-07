@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:13** 
 <small><sub>**LXX:**</sub></small>
 And hearing, they hastened, and each took  his cloak, and put \[them\] under him upon the frame of the stairs. And they trumped with \[the\] horn, and said, Jehu reigns. 
-<small><sub>**KJV:**</sub></small>
-Then they hasted, and took every man his garment, and put [it] under him on the top of the stairs, and blew with trumpets, saying, Jehu is king.
-<small><sub>**BSB:**</sub></small>
-Quickly, each man took his garment and put it under Jehu on the bare steps. Then they blew the ram’s horn and proclaimed, “Jehu is king!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.12|<< 2 Kings 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.14|2 Kings 9:14 >>]]</td></tr></table>
 
 | Translation | Greek |

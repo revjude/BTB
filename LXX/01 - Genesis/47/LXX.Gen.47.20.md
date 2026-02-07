@@ -1,10 +1,7 @@
 **LXX Genesis 47:20** 
 <small><sub>**LXX:**</sub></small>
 And Joseph acquired all the land of the Egyptians  for Pharaoh. For the Egyptians gave  their land  to Pharaoh. For the famine prevailed \[over\] them, and the land came  to Pharaoh. 
-<small><sub>**KJV:**</sub></small>
-And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh’s.
-<small><sub>**BSB:**</sub></small>
-So Joseph acquired for Pharaoh all the land in Egypt; the Egyptians, one and all, sold their fields because the famine was so severe upon them. The land became Pharaoh’s,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.19|<< Genesis 47:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.21|Genesis 47:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 6:19** 
 <small><sub>**LXX:**</sub></small>
 to drive out all  your enemies before your face, as \[the\] <span class="smallcaps">lord</span> spoke. 
-<small><sub>**KJV:**</sub></small>
-To cast out all thine enemies from before thee, as the LORD hath spoken.
-<small><sub>**BSB:**</sub></small>
-driving out all your enemies before you, as the LORD has said.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.18|<< Deuteronomy 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.20|Deuteronomy 6:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:12** 
 <small><sub>**LXX:**</sub></small>
 Either three years of famine; or three months fleeing  from \[the\] face  of your enemies, with \[the\] sword of your enemies pursuing you; or three days of \[the\] broadsword of \[the\] <span class="smallcaps">lord</span>, and plague in the land, and \[the\] angel of \[the\] <span class="smallcaps">lord</span> utterly destroying among all \[the\] inheritance of Israel. And now, behold, what word should I answer to the one sending me? 
-<small><sub>**KJV:**</sub></small>
-Either three years’ famine; or three months to be destroyed before thy foes, while that the sword of thine enemies overtaketh [thee]; or else three days the sword of the LORD, even the pestilence, in the land, and the angel of the LORD destroying throughout all the coasts of Israel. Now therefore advise thyself what word I shall bring again to him that sent me.
-<small><sub>**BSB:**</sub></small>
-between three years of famine, three months of being swept away before your enemies and overtaken by their swords, or three days of the sword of the LORD—days of plague upon the land, with the angel of the LORD ravaging every part of Israel.’ Now then, decide how I should reply to Him who sent me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.11|<< 1 Chronicles 21:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.13|1 Chronicles 21:13 >>]]</td></tr></table>
 
 | Translation | Greek |

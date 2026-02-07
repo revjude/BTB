@@ -1,12 +1,12 @@
-**Luke 9:32
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:32**<big><big>[[Luke.9.28 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Peter and they that were with him were heavy with sleep: and when they were awake, they saw his glory, and the two men that stood with him.
 <small><sub>**BSB:**</sub></small>
 Meanwhile Peter and his companions were overcome by sleep, but when they awoke, they saw Jesus’ glory and the two men standing with Him.
 <small><sub>**Literal:**</sub></small>
 <the> And Peter and those with him were wearied with sleep. having awoken fully then they saw the glory of Him and the two men who already standing with Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.31|<< Luke 9:31]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.33|Luke 9:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

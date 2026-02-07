@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:8** 
 <small><sub>**LXX:**</sub></small>
 And the king said, Let there be a container, and let it be put at the gate of the house of \[the\] <span class="smallcaps">lord</span> outside! 
-<small><sub>**KJV:**</sub></small>
-And at the king’s commandment they made a chest, and set it without at the gate of the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-At the king’s command a chest was made and placed outside, at the gate of the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.7|<< 2 Chronicles 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.9|2 Chronicles 24:9 >>]]</td></tr></table>
 
 | Translation | Greek |

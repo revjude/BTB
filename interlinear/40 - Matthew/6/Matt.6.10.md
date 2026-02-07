@@ -1,12 +1,12 @@
-**Matthew 6:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:10**<big><big>[[Matt.6.5 The Lord’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thy kingdom come. Thy will be done in earth, as [it is] in heaven.
 <small><sub>**BSB:**</sub></small>
 Your kingdom come, Your will be done, on earth as it is in heaven.
 <small><sub>**Literal:**</sub></small>
 should come the kingdom of You; should be [done] the will of You, as in heaven [so] also upon the earth;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.9|<< Matthew 6:9]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.11|Matthew 6:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | should come |**<big>[[G2064\|ἐλθέτω]]</big>**  [^1] |elthetō <small><sup>[[V-2AAM-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

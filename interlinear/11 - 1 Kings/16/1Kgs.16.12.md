@@ -1,4 +1,4 @@
-**1 Kings 16:12** 
+**1 Kings 16:12**<big><big>[[1Kgs.16.8 Elah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus did Zimri destroy all the house of Baasha, according to the word of the LORD, which he spake against Baasha by Jehu the prophet,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Zimri destroyed the entire household of Baasha, according to the word that th
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.11|<< 1 Kings 16:11]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.13|1 Kings 16:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he destroyed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8045\|יַּשְׁמֵ֣ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Med<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zimri  |**<big>&#8207;[[H2174A\|זִמְרִ֔י]]&#8207; </big>**| zim.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

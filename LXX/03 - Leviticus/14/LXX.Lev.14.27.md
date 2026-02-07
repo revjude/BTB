@@ -1,10 +1,7 @@
 **LXX Leviticus 14:27** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall sprinkle with his finger -- the right from the olive oil, the \[oil\] in  his hand -- the left, seven times before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall sprinkle with his right finger [some] of the oil that [is] in his left hand seven times before the LORD:
-<small><sub>**BSB:**</sub></small>
-and sprinkle with his right forefinger some of the oil in his left palm seven times before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.26|<< Leviticus 14:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.28|Leviticus 14:28 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Zechariah 12:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> shall deliver the tents of Judah as at \[the\] beginning, so that \[the\] house of David should not magnify their boasting, and \[the\] haughtiness of the ones dwelling in Jerusalem over  Judah. 
-<small><sub>**KJV:**</sub></small>
-The LORD also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem do not magnify [themselves] against Judah.
-<small><sub>**BSB:**</sub></small>
-The LORD will save the tents of Judah first, so that the glory of the house of David and of the people of Jerusalem may not be greater than that of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.12.6|<< Zechariah 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.12.8|Zechariah 12:8 >>]]</td></tr></table>
 
 | Translation | Greek |

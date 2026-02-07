@@ -1,4 +1,4 @@
-**Deuteronomy 29:17** (29:16)
+**Deuteronomy 29:17**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye have seen their abominations, and their idols, wood and stone, silver and gold, which [were] among them:)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You saw the abominations and idols among them made of wood and stone, of silver 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.16|<< Deuteronomy 29:16]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.18|Deuteronomy 29:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|תִּרְאוּ֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tir.'U<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

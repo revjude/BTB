@@ -1,5 +1,5 @@
-**Revelation 10:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 10:5**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the angel which I saw stand upon the sea and upon the earth lifted up his hand to heaven,
 <small><sub>**BSB:**</sub></small>
 Then the angel I had seen standing on the sea and on the land lifted up his right hand to heaven.
@@ -10,7 +10,7 @@ And the angel whom I saw standing on the sea and on the land lifted up the hand 
 > $\quad$ alluding to: [[LXX.Dan.12.4|Dan 12:4]] ☩ [[LXX.Dan.8.26|Dan 8:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

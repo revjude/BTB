@@ -1,4 +1,4 @@
-**Proverbs 23:11** 
+**Proverbs 23:11**<big><big>[[Prov.23.10 Saying 11|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For their redeemer [is] mighty; he shall plead their cause with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for their Redeemer is strong; He will take up their case against you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.10|<< Proverbs 23:10]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.12|Proverbs 23:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | redeemer their  |**<big>&#8207;[[H1350A\|גֹאֲלָ֥]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| go.'a.La<small><sup>[[HVqrmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

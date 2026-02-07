@@ -1,12 +1,12 @@
-**1 Timothy 4:7
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 4:7**<big><big>[[1Tim.4.6 A Good Servant of Jesus Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But refuse profane and old wives’ fables, and exercise thyself [rather] unto godliness.
 <small><sub>**BSB:**</sub></small>
 But reject irreverent, silly myths. Instead, train yourself for godliness.
 <small><sub>**Literal:**</sub></small>
 <the> But profane and silly fables do refuse; do train rather yourself to godliness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.4.6|<< 1 Timothy 4:6]]</td><td align="center" style="border:none;">[[1Tim.4|1 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.4.8|1 Timothy 4:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | But |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

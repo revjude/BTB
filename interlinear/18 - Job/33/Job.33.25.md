@@ -1,4 +1,4 @@
-**Job 33:25** 
+**Job 33:25**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His flesh shall be fresher than a child’s: he shall return to the days of his youth:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then his flesh is refreshed like a child’s; he returns to the days of his yout
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.24|<< Job 33:24]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.26|Job 33:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it grows fresh  |**<big>&#8207;[[H7375\|רֻֽטֲפַ֣שׁ]]&#8207; </big>**| ru.ta.Fash<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | flesh his  |**<big>&#8207;[[H1320\|בְּשָׂר֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.sa.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

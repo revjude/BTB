@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:39** 
 <small><sub>**LXX:**</sub></small>
 And Ner engendered  Kish, and Kish engendered  Saul, and Saul engendered  Jonathan, and  Malchishua, and  Abinadab, and  Esh-baal. 
-<small><sub>**KJV:**</sub></small>
-And Ner begat Kish; and Kish begat Saul; and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.
-<small><sub>**BSB:**</sub></small>
-Ner was the father of Kish, Kish was the father of Saul, and Saul was the father of Jonathan, Malchishua, Abinadab, and Esh-baal.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.38|<< 1 Chronicles 9:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.40|1 Chronicles 9:40 >>]]</td></tr></table>
 
 | Translation | Greek |

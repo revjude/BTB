@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:62** 
 <small><sub>**LXX:**</sub></small>
 And I will reestablish  my covenant with you, and you shall realize that I \[am\] \[the\] <span class="smallcaps">lord</span>; 
-<small><sub>**KJV:**</sub></small>
-And I will establish my covenant with thee; and thou shalt know that I [am] the LORD:
-<small><sub>**BSB:**</sub></small>
-So I will establish My covenant with you, and you will know that I am the LORD,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.62|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.61|<< Ezekiel 16:61]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.63|Ezekiel 16:63 >>]]</td></tr></table>
 
 | Translation | Greek |

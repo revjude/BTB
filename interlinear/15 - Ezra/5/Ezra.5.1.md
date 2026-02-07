@@ -1,4 +1,4 @@
-**Ezra 5:1** 
+**Ezra 5:1**<big><big>[[Ezra.5.1 Temple Rebuilding Resumes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that [were] in Judah and Jerusalem in the name of the God of Israel, [even] unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Later, the prophets Haggai and Zechariah son of Iddo prophesied to the Jews in J
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.24|<< Ezra 4:24]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.2|Ezra 5:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he prophesied  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5013\|הִתְנַבִּ֞י]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> hit.na.Bi<small><sup>[[AVMp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Haggai  |**<big>&#8207;[[H2292B\|חַגַּ֣י]]&#8207; </big>**| cha.Gai<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 18:37** (18:38)
+**Psalms 18:37**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I pursued my enemies and overtook them; I did not turn back until they were cons
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.36|<< Psalms 18:36]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.38|Psalms 18:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I pursued  |**<big>&#8207;[[H7291\|אֶרְדּ֣וֹף]]&#8207; </big>**| 'er.Dof<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | enemies my  |**<big>&#8207;[[H0341\|א֭וֹיְבַ]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'oy.va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

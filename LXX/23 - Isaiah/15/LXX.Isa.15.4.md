@@ -1,10 +1,7 @@
 **LXX Isaiah 15:4** 
 <small><sub>**LXX:**</sub></small>
 For Heshbon and Elealeh have cried out. Unto Jahaz their sound was heard. On account of this the loin of the \[land of\] Moab yells.  Her soul shall know. 
-<small><sub>**KJV:**</sub></small>
-And Heshbon shall cry, and Elealeh: their voice shall be heard [even] unto Jahaz: therefore the armed soldiers of Moab shall cry out; his life shall be grievous unto him.
-<small><sub>**BSB:**</sub></small>
-Heshbon and Elealeh cry out; their voices are heard as far as Jahaz. Therefore the soldiers of Moab cry out; their souls tremble within.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.15.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.15.3|<< Isaiah 15:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.15.5|Isaiah 15:5 >>]]</td></tr></table>
 
 | Translation | Greek |

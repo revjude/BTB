@@ -1,4 +1,4 @@
-**Isaiah 6:10** 
+**Isaiah 6:10**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and convert, and be healed.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Make the hearts of this people calloused; deafen their ears and close their eyes
 > $\quad$ referenced by: [[Matt.13.14|Matt 13:14-15]] ☩ [[Mark.4.12|Mark 4:12]] ☩ [[John.12.40|John 12:40]] ☩ [[Acts.28.26|Acts 28:26-27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | make fat  |**<big>&#8207;[[H8080\|הַשְׁמֵן֙]]&#8207; </big>**| hash.Men<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heart of  |**<big>&#8207;[[H3820A\|לֵב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lev-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

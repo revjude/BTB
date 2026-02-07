@@ -1,12 +1,12 @@
-**Romans 8:29
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:29**<big><big>[[Rom.8.28 God Works in All Things|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For whom he did foreknow, he also did predestinate [to be] conformed to the image of his Son, that he might be the firstborn among many brethren.
 <small><sub>**BSB:**</sub></small>
 For those God foreknew, He also predestined to be conformed to the image of His Son, so that He would be the firstborn among many brothers.
 <small><sub>**Literal:**</sub></small>
 For those whom He foreknew, also He predestined [to be] conformed to the image of the Son of Him for <the> to be Him firstborn among many brothers;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.28|<< Romans 8:28]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.30|Romans 8:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those whom |**<big>[[G3739\|οὓς]]</big>**  |hous <small><sup>[[R-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

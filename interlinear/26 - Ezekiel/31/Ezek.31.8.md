@@ -1,4 +1,4 @@
-**Ezekiel 31:8** 
+**Ezekiel 31:8**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The cedars in the garden of God could not hide him: the fir trees were not like his boughs, and the chesnut trees were not like his branches; nor any tree in the garden of God was like unto him in his beauty.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The cedars in the garden of God could not rival it; the cypresses could not comp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.7|<< Ezekiel 31:7]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.9|Ezekiel 31:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | cedars  |**<big>&#8207;[[H0730\|אֲרָזִ֣ים]]&#8207; </big>**| 'a.ra.Zim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

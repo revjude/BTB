@@ -1,12 +1,12 @@
-**Matthew 23:37
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:37**<big><big>[[Matt.23.37 Lament over Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 O Jerusalem, Jerusalem, [thou] that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under [her] wings, and ye would not!
 <small><sub>**BSB:**</sub></small>
 O Jerusalem, Jerusalem, who kills the prophets and stones those sent to her, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, but you were unwilling!
 <small><sub>**Literal:**</sub></small>
 Jerusalem Jerusalem you who [are] killing the prophets and stoning those sent to her! How often I wanted to gathered together the children of you, in which way a hen gathers together the chicks of her under the wings, and not you were willing?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.36|<< Matthew 23:36]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.38|Matthew 23:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Jerusalem |**<big>[[G2419\|Ἰερουσαλὴμ]]</big>**  [^1] |Ierousalēm <small><sup>[[N-VSF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Jerusalem |**<big>[[G2419\|Ἰερουσαλὴμ]]</big>**  [^2] |Ierousalēm <small><sup>[[N-VSF-L]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

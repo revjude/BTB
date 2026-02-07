@@ -1,10 +1,7 @@
 **LXX Nehemiah 10:34** 
 <small><sub>**LXX:**</sub></small>
 And we cast lots for the gifts of bearing wood (the priests, and the Levites, and the people), to bring into \[the\] house of our God, according to houses of our families, at seasons, from times, year by year, to burn upon the altar of \[the\] <span class="smallcaps">lord</span>  our God, as is written in the law; 
-<small><sub>**KJV:**</sub></small>
-And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring [it] into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as [it is] written in the law:
-<small><sub>**BSB:**</sub></small>
-We have cast lots among the priests, Levites, and people for the donation of wood by our families at the appointed times each year. They are to bring it to the house of our God to burn on the altar of the LORD our God, as it is written in the Law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.10.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.10.33|<< Nehemiah 10:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.10.35|Nehemiah 10:35 >>]]</td></tr></table>
 
 | Translation | Greek |

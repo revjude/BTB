@@ -1,10 +1,7 @@
 **LXX Proverbs 10:12** 
 <small><sub>**LXX:**</sub></small>
 Hatred raises up altercation; but friendship shall cover all the ones not fond of altercations. 
-<small><sub>**KJV:**</sub></small>
-Hatred stirreth up strifes: but love covereth all sins.
-<small><sub>**BSB:**</sub></small>
-Hatred stirs up dissension, but love covers all transgressions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.11|<< Proverbs 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.13|Proverbs 10:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Proverbs 10:12** is...

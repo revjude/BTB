@@ -1,10 +1,7 @@
 **LXX Numbers 28:2** 
 <small><sub>**LXX:**</sub></small>
 Give charge to the sons of Israel! And you shall say to them, saying,  My gifts, my presents, my yield \[offerings\] for a scent of pleasant aroma you shall observe to bring near to me in  my holidays. 
-<small><sub>**KJV:**</sub></small>
-Command the children of Israel, and say unto them, My offering, [and] my bread for my sacrifices made by fire, [for] a sweet savour unto me, shall ye observe to offer unto me in their due season.
-<small><sub>**BSB:**</sub></small>
-“Command the Israelites and say to them: See that you present to Me at its appointed time the food for My food offerings, as a pleasing aroma to Me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.1|<< Numbers 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.3|Numbers 28:3 >>]]</td></tr></table>
 
 | Translation | Greek |

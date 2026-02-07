@@ -1,10 +1,7 @@
 **LXX Proverbs 26:25** 
 <small><sub>**LXX:**</sub></small>
 If the enemy should beseech you with a great  voice, do not yield to him; for there are seven wickednesses in  his heart. 
-<small><sub>**KJV:**</sub></small>
-When he speaketh fair, believe him not: for [there are] seven abominations in his heart.
-<small><sub>**BSB:**</sub></small>
-When he speaks graciously, do not believe him, for seven abominations fill his heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.26.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.26.24|<< Proverbs 26:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.26.26|Proverbs 26:26 >>]]</td></tr></table>
 
 | Translation | Greek |

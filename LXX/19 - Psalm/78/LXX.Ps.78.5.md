@@ -1,10 +1,7 @@
 **LXX Psalm 78:5** 
 <small><sub>**LXX:**</sub></small>
 For he raised up a testimony in Jacob, and he put a law in Israel, which he gave charge \[to\] our fathers,  to make them known \[to\] their sons; 
-<small><sub>**KJV:**</sub></small>
-For he established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:
-<small><sub>**BSB:**</sub></small>
-For He established a testimony in Jacob and appointed a law in Israel, which He commanded our fathers to teach to their children,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.4|<< Psalm 78:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.6|Psalm 78:6 >>]]</td></tr></table>
 
 | Translation | Greek |

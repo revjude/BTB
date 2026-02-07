@@ -1,10 +1,7 @@
 **LXX Ezekiel 41:18** 
 <small><sub>**LXX:**</sub></small>
 were carved cherubim, and palms between cherub and cherub, two faces to the cherub. 
-<small><sub>**KJV:**</sub></small>
-And [it was] made with cherubims and palm trees, so that a palm tree [was] between a cherub and a cherub; and [every] cherub had two faces;
-<small><sub>**BSB:**</sub></small>
-were alternating carved cherubim and palm trees. Each cherub had two faces:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.41.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.17|<< Ezekiel 41:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.19|Ezekiel 41:19 >>]]</td></tr></table>
 
 | Translation | Greek |

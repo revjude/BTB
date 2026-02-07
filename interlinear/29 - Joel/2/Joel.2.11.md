@@ -1,4 +1,4 @@
-**Joel 2:11** 
+**Joel 2:11**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall utter his voice before his army: for his camp [is] very great: for [he is] strong that executeth his word: for the day of the LORD [is] great and very terrible; and who can abide it?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD raises His voice in the presence of His army. Indeed, His camp is very 
 > $\quad$ referenced by: [[Rev.6.15|Rev 6:15-16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Yahweh  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֗ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he gives forth  |**<big>&#8207;[[H5414M\|נָתַ֤ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Romans 4:12
-**<small><sub>**KJV:**</sub></small>
+**Romans 4:12**<big><big>[[Rom.4.1 Abraham Justified by Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which [he had] being [yet] uncircumcised.
 <small><sub>**BSB:**</sub></small>
 And he is also the father of the circumcised who not only are circumcised, but who also walk in the footsteps of the faith that our father Abraham had before he was circumcised.
 <small><sub>**Literal:**</sub></small>
 and father of circumcision to those not of circumcision only but also to those walking in the steps <the> during the uncircumcision of the faith of the father of us Abraham.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.11|<< Romans 4:11]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.13|Romans 4:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | father |**<big>[[G3962\|πατέρα]]</big>**  |patera <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

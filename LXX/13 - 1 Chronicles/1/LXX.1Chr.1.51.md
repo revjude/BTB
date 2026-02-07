@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 1:51** 
 <small><sub>**LXX:**</sub></small>
 And Hadad died. And \[The\] governors of Edom were -- governor Timnah, governor Aliah, governor Jetheth, 
-<small><sub>**KJV:**</sub></small>
-Hadad died also. And the dukes of Edom were; duke Timnah, duke Aliah, duke Jetheth,
-<small><sub>**BSB:**</sub></small>
-Then Hadad died. Now the chiefs of Edom were Timna, Alvah, Jetheth,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.1.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.50|<< 1 Chronicles 1:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.52|1 Chronicles 1:52 >>]]</td></tr></table>
 
 | Translation | Greek |

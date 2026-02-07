@@ -1,10 +1,7 @@
 **LXX Isaiah 42:21** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span>  God willed that he should be justified, and should magnify praise. 
-<small><sub>**KJV:**</sub></small>
-The LORD is well pleased for his righteousness’ sake; he will magnify the law, and make [it] honourable.
-<small><sub>**BSB:**</sub></small>
-The LORD was pleased, for the sake of His righteousness, to magnify His law and make it glorious.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.20|<< Isaiah 42:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.22|Isaiah 42:22 >>]]</td></tr></table>
 
 | Translation | Greek |

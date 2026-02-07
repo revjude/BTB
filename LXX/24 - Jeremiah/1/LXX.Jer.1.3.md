@@ -1,10 +1,7 @@
 **LXX Jeremiah 1:3** 
 <small><sub>**LXX:**</sub></small>
 And it took place in the days of Jehoiakim son of Josiah, king of Judah, until \[the\] eleventh year of Zedekiah son of Josiah king of Judah, until the captivity of Jerusalem in the fifth month. 
-<small><sub>**KJV:**</sub></small>
-It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month.
-<small><sub>**BSB:**</sub></small>
-and through the days of Jehoiakim son of Josiah king of Judah, until the fifth month of the eleventh year of Zedekiah son of Josiah king of Judah, when the people of Jerusalem went into exile.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.1.2|<< Jeremiah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.4|Jeremiah 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

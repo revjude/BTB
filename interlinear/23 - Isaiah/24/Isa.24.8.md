@@ -1,4 +1,4 @@
-**Isaiah 24:8** 
+**Isaiah 24:8**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The mirth of tabrets ceaseth, the noise of them that rejoice endeth, the joy of the harp ceaseth.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The joyful tambourines have ceased; the noise of revelers has stopped; the joyfu
 > $\quad$ referenced by: [[Rev.18.22|Rev 18:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it has ceased  |**<big>&#8207;[[H7673A\|שָׁבַת֙]]&#8207; </big>**| sha.Vat<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] gaiety of  |**<big>&#8207;[[H4885\|מְשׂ֣וֹשׂ]]&#8207; </big>**| me.Sos<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

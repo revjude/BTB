@@ -1,10 +1,7 @@
 **LXX Psalm 65:8** 
 <small><sub>**LXX:**</sub></small>
 The nations shall be disturbed, and the ones dwelling at the ends shall fear from  your signs. \[The\] exitings of \[the\] morning and evening you shall make happy. 
-<small><sub>**KJV:**</sub></small>
-They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice.
-<small><sub>**BSB:**</sub></small>
-Those who live far away fear Your wonders; You make the dawn and sunset shout for joy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.65.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.65.7|<< Psalm 65:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.65.9|Psalm 65:9 >>]]</td></tr></table>
 
 | Translation | Greek |

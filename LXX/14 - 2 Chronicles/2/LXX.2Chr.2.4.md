@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 2:4** 
 <small><sub>**LXX:**</sub></small>
 then behold, I  his son am building a house to the name of \[the\] <span class="smallcaps">lord</span>  my God, to sanctify it to him,  to burn before him incense of aromatics, and \[for\] a place setting \[to be\] continually \[before him\], and  to offer whole burnt-offerings continually in the morning and the evening, and on the Sabbaths, and on the new moons, and on the holidays of the <span class="smallcaps">lord</span>  our God. Into the eon this \[is\] for  Israel. 
-<small><sub>**KJV:**</sub></small>
-Behold, I build an house to the name of the LORD my God, to dedicate [it] to him, [and] to burn before him sweet incense, and for the continual shewbread, and for the burnt offerings morning and evening, on the sabbaths, and on the new moons, and on the solemn feasts of the LORD our God. This [is an ordinance] for ever to Israel.
-<small><sub>**BSB:**</sub></small>
-Behold, I am about to build a house for the Name of the LORD my God to dedicate to Him for burning fragrant incense before Him, for displaying the showbread continuously, and for making burnt offerings every morning and evening as well as on the Sabbaths, New Moons, and appointed feasts of the LORD our God. This is ordained for Israel forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.2.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.2.3|<< 2 Chronicles 2:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.2.5|2 Chronicles 2:5 >>]]</td></tr></table>
 
 | Translation | Greek |

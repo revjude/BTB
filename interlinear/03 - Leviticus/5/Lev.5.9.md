@@ -1,4 +1,4 @@
-**Leviticus 5:9** 
+**Leviticus 5:9**<big><big>[[Lev.5.1 Sins Requiring a Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall sprinkle of the blood of the sin offering upon the side of the altar; and the rest of the blood shall be wrung out at the bottom of the altar: it [is] a sin offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then he is to sprinkle some of the blood of the sin offering on the side of the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.8|<< Leviticus 5:8]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.10|Leviticus 5:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will spatter  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5137A\|הִזָּ֞ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Zah<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of [the] blood of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1818\|דַּ֤ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Dam<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

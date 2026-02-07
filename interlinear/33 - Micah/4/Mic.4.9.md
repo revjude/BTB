@@ -1,4 +1,4 @@
-**Micah 4:9** 
+**Micah 4:9**<big><big>[[Mic.4.6 The Restoration of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now why dost thou cry out aloud? [is there] no king in thee? is thy counseller perished? for pangs have taken thee as a woman in travail.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Why do you now cry aloud? Is there no king among you? Has your counselor perishe
 > $\quad$ referenced by: [[Rev.12.1|Rev 12:1-2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H6258\|עַתָּ֕ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֥]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

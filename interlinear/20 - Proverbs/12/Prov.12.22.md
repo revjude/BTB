@@ -1,4 +1,4 @@
-**Proverbs 12:22** 
+**Proverbs 12:22**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lying lips [are] abomination to the LORD: but they that deal truly [are] his delight.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Lying lips are detestable to the LORD, but those who deal faithfully are His del
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.21|<< Proverbs 12:21]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.23|Proverbs 12:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] [the] abomination of  |**<big>&#8207;[[H8441\|תּוֹעֲבַ֣ת]]&#8207; </big>**| to.'a.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

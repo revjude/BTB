@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:28** 
 <small><sub>**LXX:**</sub></small>
 And he went with Jehoram son of Ahab to war against Hazael king of Syria in Ramoth Gilead. And the Syrians struck  Jehoram. 
-<small><sub>**KJV:**</sub></small>
-And he went with Joram the son of Ahab to the war against Hazael king of Syria in Ramothgilead; and the Syrians wounded Joram.
-<small><sub>**BSB:**</sub></small>
-Then Ahaziah went with Joram son of Ahab to fight against Hazael king of Aram at Ramoth-gilead, and the Arameans wounded Joram.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.27|<< 2 Kings 8:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.29|2 Kings 8:29 >>]]</td></tr></table>
 
 | Translation | Greek |

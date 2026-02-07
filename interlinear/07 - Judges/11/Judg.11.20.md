@@ -1,4 +1,4 @@
-**Judges 11:20** 
+**Judges 11:20**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Sihon trusted not Israel to pass through his coast: but Sihon gathered all his people together, and pitched in Jahaz, and fought against Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Sihon would not trust Israel to pass through his territory. So he gathered a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.19|<< Judges 11:19]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.21|Judges 11:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he trusted  |**<big>&#8207;[[H0539\|הֶאֱמִ֨ין]]&#8207; </big>**| he.'e.Min<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

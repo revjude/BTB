@@ -1,12 +1,12 @@
-**Ephesians 4:12
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:12**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:
 <small><sub>**BSB:**</sub></small>
 to equip the saints for works of ministry and to build up the body of Christ,
 <small><sub>**Literal:**</sub></small>
 toward the perfecting of the saints for [the] work of ministry, for [the] building up of the body <the> of Christ;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.11|<< Ephesians 4:11]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.13|Ephesians 4:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | toward |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

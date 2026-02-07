@@ -1,10 +1,7 @@
 **LXX Psalm 35:26** 
 <small><sub>**LXX:**</sub></small>
 May they be ashamed, and the ones rejoicing at my hurts feel remorse together. the ones speaking great words against me be clothed in shame and remorse! 
-<small><sub>**KJV:**</sub></small>
-Let them be ashamed and brought to confusion together that rejoice at mine hurt: let them be clothed with shame and dishonour that magnify [themselves] against me.
-<small><sub>**BSB:**</sub></small>
-May those who gloat in my distress be ashamed and confounded; may those who exalt themselves over me be clothed in shame and reproach.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.35.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.25|<< Psalm 35:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.27|Psalm 35:27 >>]]</td></tr></table>
 
 | Translation | Greek |

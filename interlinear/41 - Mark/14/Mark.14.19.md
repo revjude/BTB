@@ -1,12 +1,12 @@
-**Mark 14:19
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:19**<big><big>[[Mark.14.17 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they began to be sorrowful, and to say unto him one by one, [Is] it I? and another [said, Is] it I?
 <small><sub>**BSB:**</sub></small>
 They began to be grieved and to ask Him one after another, “Surely not I?”
 <small><sub>**Literal:**</sub></small>
 <the> now They began to be grieved and to say to Him one by one; surely not ever I myself and other surely not ever I myself?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.18|<< Mark 14:18]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.20|Mark 14:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="Treg+TR+Byz">ko</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 78:49** 
+**Psalms 78:49**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels [among them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He unleashed His fury against them, wrath, indignation, and calamity—a band of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.48|<< Psalms 78:48]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.50|Psalms 78:50 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he sent  |**<big>&#8207;[[H7971H\|יְשַׁלַּח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.sha.lach-<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on them  |**<big>&#8207;[[H9003\|בָּ֨]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ba<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

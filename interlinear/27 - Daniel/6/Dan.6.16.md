@@ -1,4 +1,4 @@
-**Daniel 6:16** (6:17)
+**Daniel 6:16**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king commanded, and they brought Daniel, and cast [him] into the den of lions. [Now] the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the king gave the order, and they brought Daniel and threw him into the den o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.15|<< Daniel 6:15]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.17|Daniel 6:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<in> then  |**<big>&#8207;[[H9003\|בֵּ]]&#8207;&#8207;[[H0116\|אדַ֜יִן]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Da.yin<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | king the  |**<big>&#8207;[[H4430\|מַלְכָּ֣]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

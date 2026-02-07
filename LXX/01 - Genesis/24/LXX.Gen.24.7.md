@@ -1,10 +1,7 @@
 **LXX Genesis 24:7** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span>  God of the heaven, and the God of the earth, who took me from  my father's house, and from the land of which I was born, who spoke to me, and who swore by an oath to me, saying, To you I will give  this land and  your seed -- he will send  his angel in front of you, and you shall take a wife,  \[for\] my son from there. 
-<small><sub>**KJV:**</sub></small>
-The LORD God of heaven, which took me from my father’s house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence.
-<small><sub>**BSB:**</sub></small>
-The LORD, the God of heaven, who brought me from my father’s house and my native land, who spoke to me and promised me on oath, saying, ‘To your offspring I will give this land’—He will send His angel before you so that you can take a wife for my son from there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.6|<< Genesis 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.8|Genesis 24:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**John 7:38
-**<small><sub>**KJV:**</sub></small>
+**John 7:38**<big><big>[[John.7.37 Living Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.
 <small><sub>**BSB:**</sub></small>
 Whoever believes in Me, as the Scripture has said: ‘Streams of living water will flow from within him.’”
@@ -10,7 +10,7 @@ The [one] believing in Me myself, even as has said the Scripture: Rivers out of 
 > $\quad$ alluding to: [[LXX.Prov.18.4|Prov 18:4]] ☩ [[LXX.Isa.12.3|Isa 12:3]] ☩ [[LXX.Isa.44.3|Isa 44:3]] ☩ [[LXX.Isa.55.1|Isa 55:1]] ☩ [[LXX.Isa.58.11|Isa 58:11]] ☩ [[LXX.Zech.13.1|Zech 13:1]] ☩ [[LXX.Zech.14.8|Zech 14:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | believing |**<big>[[G4100\|πιστεύων]]</big>**  |pisteuōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

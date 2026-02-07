@@ -1,4 +1,4 @@
-**Isaiah 35:7** 
+**Isaiah 35:7**<big><big>[[Isa.35.1 The Glory of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the parched ground shall become a pool, and the thirsty land springs of water: in the habitation of dragons, where each lay, [shall be] grass with reeds and rushes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The parched ground will become a pool, the thirsty land springs of water. In the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.35.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.35.6|<< Isaiah 35:6]]</td><td align="center" style="border:none;">[[Isa.35|Isaiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.35.8|Isaiah 35:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the parched ground  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8273\|שָּׁרָב֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Rav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 61:3** 
 <small><sub>**LXX:**</sub></small>
 For you became my hope; \[the\] tower of strength from in front of an enemy. 
-<small><sub>**KJV:**</sub></small>
-For thou hast been a shelter for me, [and] a strong tower from the enemy.
-<small><sub>**BSB:**</sub></small>
-For You have been my refuge, a tower of strength against the enemy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.61.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.61.2|<< Psalm 61:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.61.4|Psalm 61:4 >>]]</td></tr></table>
 
 | Translation | Greek |

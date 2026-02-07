@@ -1,4 +1,4 @@
-**Leviticus 25:22** 
+**Leviticus 25:22**<big><big>[[Lev.25.18 The Blessing of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall sow the eighth year, and eat [yet] of old fruit until the ninth year; until her fruits come in ye shall eat [of] the old [store].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While you are sowing in the eighth year, you will be eating from the previous ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.21|<< Leviticus 25:21]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.23|Leviticus 25:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will sow  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H2232\|זְרַעְתֶּ֗ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ze.ra'.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֚ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

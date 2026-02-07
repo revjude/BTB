@@ -1,4 +1,4 @@
-**Nehemiah 9:31** 
+**Nehemiah 9:31**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless for thy great mercies’ sake thou didst not utterly consume them, nor forsake them; for thou [art] a gracious and merciful God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But in Your great compassion, You did not put an end to them; nor did You forsak
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.30|<< Nehemiah 9:30]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.32|Nehemiah 9:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in compassion\<s> your  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H7356B\|רַחֲמֶ֧י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> ra.cha.Mei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> great  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7227A\|רַבִּ֛ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

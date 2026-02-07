@@ -1,10 +1,7 @@
 **LXX Psalm 97:2** 
 <small><sub>**LXX:**</sub></small>
 \[There is\] a cloud and dimness round about him; righteousness and judgment \[are the\] success  of his throne. 
-<small><sub>**KJV:**</sub></small>
-Clouds and darkness [are] round about him: righteousness and judgment [are] the habitation of his throne.
-<small><sub>**BSB:**</sub></small>
-Clouds and darkness surround Him; righteousness and justice are His throne’s foundation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.97.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.97.1|<< Psalm 97:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.97.3|Psalm 97:3 >>]]</td></tr></table>
 
 | Translation | Greek |

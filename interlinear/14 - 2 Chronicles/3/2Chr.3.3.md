@@ -1,4 +1,4 @@
-**2 Chronicles 3:3** 
+**2 Chronicles 3:3**<big><big>[[2Chr.3.1 Temple Construction Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are the things wherein] Solomon was instructed for the building of the house of God. The length by cubits after the first measure [was] threescore cubits, and the breadth twenty cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The foundation that Solomon laid for the house of God was sixty cubits long and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.2|<< 2 Chronicles 3:2]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.4|2 Chronicles 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֙לֶּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] [the] founding of  |**<big>&#8207;[[H3245\|הוּסַ֣ד]]&#8207; </big>**| hu.Sad<small><sup>[[HVHp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

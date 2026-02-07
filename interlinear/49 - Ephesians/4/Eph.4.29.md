@@ -1,12 +1,12 @@
-**Ephesians 4:29
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 4:29**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.
 <small><sub>**BSB:**</sub></small>
 Let no unwholesome talk come out of your mouths, but only what is helpful for building up the one in need and bringing grace to those who listen.
 <small><sub>**Literal:**</sub></small>
 Any word unwholesome out of the mouth of you not should go forth but if any good for edification of the need, so that it shall give grace to those hearing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.28|<< Ephesians 4:28]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.30|Ephesians 4:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Any |**<big>[[G3956\|Πᾶς]]</big>**  |Pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | word |**<big>[[G3056\|λόγος]]</big>**  |logos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

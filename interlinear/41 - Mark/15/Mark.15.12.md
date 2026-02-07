@@ -1,12 +1,12 @@
-**Mark 15:12
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:12**<big><big>[[Mark.15.12 Pilate Delivers Up Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Pilate answered and said again unto them, What will ye then that I shall do [unto him] whom ye call the King of the Jews?
 <small><sub>**BSB:**</sub></small>
 So Pilate asked them again, “What then do you want me to do with the One you call the King of the Jews?”
 <small><sub>**Literal:**</sub></small>
 <the> And Pilate again answering was saying to them; What then do you wish [that] I may do to Him you named the King of the Jews?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.11|<< Mark 15:11]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.13|Mark 15:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

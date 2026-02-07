@@ -1,10 +1,7 @@
 **LXX Psalm 104:30** 
 <small><sub>**LXX:**</sub></small>
 You shall send out  your spirit, and they shall be created; and you shall renew the face of the earth. 
-<small><sub>**KJV:**</sub></small>
-Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.
-<small><sub>**BSB:**</sub></small>
-When You send Your Spirit, they are created, and You renew the face of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.104.29|<< Psalm 104:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.31|Psalm 104:31 >>]]</td></tr></table>
 
 | Translation | Greek |

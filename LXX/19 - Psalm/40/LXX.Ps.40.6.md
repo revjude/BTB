@@ -1,10 +1,7 @@
 **LXX Psalm 40:6** 
 <small><sub>**LXX:**</sub></small>
 A sacrifice and offering you wanted not, but a body you readied to me; whole burnt-offerings and \[a sacrifice\] for sin you did not seek. 
-<small><sub>**KJV:**</sub></small>
-Sacrifice and offering thou didst not desire; mine ears hast thou opened: burnt offering and sin offering hast thou not required.
-<small><sub>**BSB:**</sub></small>
-Sacrifice and offering You did not desire, but my ears You have opened. Burnt offerings and sin offerings You did not require.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.40.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.5|<< Psalm 40:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.7|Psalm 40:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 40:6** is...

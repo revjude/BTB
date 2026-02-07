@@ -1,10 +1,7 @@
 **LXX Proverbs 11:6** 
 <small><sub>**LXX:**</sub></small>
 Righteousness of upright men shall rescue them; but by thoughtlessness lawbreakers \[are\] captured. 
-<small><sub>**KJV:**</sub></small>
-The righteousness of the upright shall deliver them: but transgressors shall be taken in [their own] naughtiness.
-<small><sub>**BSB:**</sub></small>
-The righteousness of the upright delivers them, but the faithless are trapped by their own desires.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.11.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.5|<< Proverbs 11:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.7|Proverbs 11:7 >>]]</td></tr></table>
 
 | Translation | Greek |

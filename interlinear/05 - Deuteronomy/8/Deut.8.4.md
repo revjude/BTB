@@ -1,4 +1,4 @@
-**Deuteronomy 8:4** 
+**Deuteronomy 8:4**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy raiment waxed not old upon thee, neither did thy foot swell, these forty years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your clothing did not wear out and your feet did not swell during these forty ye
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.3|<< Deuteronomy 8:3]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.5|Deuteronomy 8:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | clothing your  |**<big>&#8207;[[H8071\|שִׂמְלָ֨תְ]]&#8207;&#8207;[[H9021\|ךָ֜]]&#8207; </big>**| sim.La.te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**2 Corinthians 12:21
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 12:21**<big><big>[[2Cor.12.11 Paul’s Concern for the Corinthians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [And] lest, when I come again, my God will humble me among you, and [that] I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed.
 <small><sub>**BSB:**</sub></small>
 I am afraid that when I come again, my God will humble me before you, and I will be grieved over many who have sinned earlier and have not repented of their acts of impurity, sexual immorality, and debauchery.
 <small><sub>**Literal:**</sub></small>
 lest again when was coming I he may humble me the God, of mine before you, and I may mourn over many of those having sinned before and not having repented of the impurity and of sexual immorality and of sensuality that they have practiced.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.20|<< 2 Corinthians 12:20]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.1|2 Corinthians 13:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lest |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | again |**<big>[[G3825\|πάλιν]]</big>**  |palin <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

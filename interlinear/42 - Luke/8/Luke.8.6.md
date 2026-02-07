@@ -1,12 +1,12 @@
-**Luke 8:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:6**<big><big>[[Luke.8.4 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture.
 <small><sub>**BSB:**</sub></small>
 Some fell on rocky ground, and when it came up, the seedlings withered because they had no moisture.
 <small><sub>**Literal:**</sub></small>
 However other fell upon the rock, and having sprung up it withered through <the> not having moisture.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.5|<< Luke 8:5]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.7|Luke 8:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | However |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | other |**<big>[[G2087\|ἕτερον]]</big>**  |heteron <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

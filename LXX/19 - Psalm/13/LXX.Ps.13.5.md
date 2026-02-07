@@ -1,10 +1,7 @@
 **LXX Psalm 13:5** 
 <small><sub>**LXX:**</sub></small>
 But I hoped upon your mercy. My heart shall exult over  your deliverance. 
-<small><sub>**KJV:**</sub></small>
-But I have trusted in thy mercy; my heart shall rejoice in thy salvation.
-<small><sub>**BSB:**</sub></small>
-But I have trusted in Your loving devotion; my heart will rejoice in Your salvation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.13.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.13.4|<< Psalm 13:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.13.6|Psalm 13:6 >>]]</td></tr></table>
 
 | Translation | Greek |

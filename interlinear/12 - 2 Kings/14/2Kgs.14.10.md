@@ -1,4 +1,4 @@
-**2 Kings 14:10** 
+**2 Kings 14:10**<big><big>[[2Kgs.14.8 Jehoash Defeats Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast indeed smitten Edom, and thine heart hath lifted thee up: glory [of this], and tarry at home: for why shouldest thou meddle to [thy] hurt, that thou shouldest fall, [even] thou, and Judah with thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have indeed defeated Edom, and your heart has become proud. Glory in that an
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.9|<< 2 Kings 14:9]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.11|2 Kings 14:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | certainly \<to strike down>  |**<big>&#8207;[[H5221\|הַכֵּ֤ה]]&#8207; </big>**| ha.Keh<small><sup>[[HVhaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have struck down  |**<big>&#8207;[[H5221\|הִכִּ֙יתָ֙]]&#8207; </big>**| hi.Ki.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Song of Solomon 7:4** 
 <small><sub>**LXX:**</sub></small>
 Your neck \[is\] as a tower of ivory;  your eyes \[are\] as lakes in Heshbon, by \[the\] gates of \[the\] daughter of many. Your nose \[is\] as \[the\] tower  of Lebanon, watching in front of Damascus. 
-<small><sub>**KJV:**</sub></small>
-Thy neck [is] as a tower of ivory; thine eyes [like] the fishpools in Heshbon, by the gate of Bathrabbim: thy nose [is] as the tower of Lebanon which looketh toward Damascus.
-<small><sub>**BSB:**</sub></small>
-Your neck is like a tower made of ivory; your eyes are like the pools of Heshbon by the gate of Bath-rabbim; your nose is like the tower of Lebanon, facing toward Damascus.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.7.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.7.3|<< Song of Solomon 7:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.5|Song of Solomon 7:5 >>]]</td></tr></table>
 
 | Translation | Greek |

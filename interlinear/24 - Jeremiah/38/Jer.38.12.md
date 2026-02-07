@@ -1,4 +1,4 @@
-**Jeremiah 38:12** 
+**Jeremiah 38:12**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ebedmelech the Ethiopian said unto Jeremiah, Put now [these] old cast clouts and rotten rags under thine armholes under the cords. And Jeremiah did so.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ebed-melech the Cushite cried out to Jeremiah, “Put these worn-out rags and cl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.11|<< Jeremiah 38:11]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.13|Jeremiah 38:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֡אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ebed  |**<big>&#8207;[[H5663\|עֶבֶד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'e.ved-<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 20:17** 
 <small><sub>**LXX:**</sub></small>
 May he not behold \[the\] milking of grazing \[animals\], nor \[the\] pastures of honey and butter. 
-<small><sub>**KJV:**</sub></small>
-He shall not see the rivers, the floods, the brooks of honey and butter.
-<small><sub>**BSB:**</sub></small>
-He will not enjoy the streams, the rivers flowing with honey and cream.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.20.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.20.16|<< Job 20:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.20.18|Job 20:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:14** 
 <small><sub>**LXX:**</sub></small>
 And she added unto  her harlotry, and she saw men having been portrayed upon the wall, images of Chaldeans having been portrayed with a stylus; 
-<small><sub>**KJV:**</sub></small>
-And [that] she increased her whoredoms: for when she saw men pourtrayed upon the wall, the images of the Chaldeans pourtrayed with vermilion,
-<small><sub>**BSB:**</sub></small>
-But Oholibah carried her prostitution even further. She saw the men portrayed on the wall, images of the Chaldeans, engraved in vermilion,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.13|<< Ezekiel 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.15|Ezekiel 23:15 >>]]</td></tr></table>
 
 | Translation | Greek |

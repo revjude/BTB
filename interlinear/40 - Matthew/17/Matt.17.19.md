@@ -1,12 +1,12 @@
-**Matthew 17:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:19**<big><big>[[Matt.17.19 The Power of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then came the disciples to Jesus apart, and said, Why could not we cast him out?
 <small><sub>**BSB:**</sub></small>
 Afterward the disciples came to Jesus privately and asked, “Why couldn’t we drive it out?”
 <small><sub>**Literal:**</sub></small>
 Then having come the disciples <the> to Jesus in private they said; Because of why we ourselves not were able to cast out it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.18|<< Matthew 17:18]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.20|Matthew 17:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come |**<big>[[G4334\|προσελθόντες]]</big>**  |proselthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

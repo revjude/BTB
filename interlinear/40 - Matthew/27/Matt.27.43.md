@@ -1,5 +1,5 @@
-**Matthew 27:43
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:43**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God.
 <small><sub>**BSB:**</sub></small>
 He trusts in God. Let God deliver Him now if He wants Him. For He said, ‘I am the Son of God.’”
@@ -10,7 +10,7 @@ He has trusted on <the> God; he should deliver now him if He wants Him; He said 
 > $\quad$ alluding to: [[LXX.Ps.22.7|Ps 22:7-9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He has trusted |**<big>[[G3982\|πέποιθεν]]</big>**  |pepoithen <small><sup>[[V-2RAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | on |**<big>[[G1909\|ἐπὶ]]</big>**  |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

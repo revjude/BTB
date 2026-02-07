@@ -1,4 +1,4 @@
-**Ruth 4:7** 
+**Ruth 4:7**<big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now this [was the manner] in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off his shoe, and gave [it] to his neighbour: and this [was] a testimony in Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now in former times in Israel, concerning the redemption or exchange of property
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.6|<< Ruth 4:6]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.8|Ruth 4:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2063\|זֹאת֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> zoT<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנִ֨ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezra 4:15** 
+**Ezra 4:15**<big><big>[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That search may be made in the book of the records of thy fathers: so shalt thou find in the book of the records, and know that this city [is] a rebellious city, and hurtful unto kings and provinces, and that they have moved sedition within the same of old time: for which cause was this city destroyed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ that a search should be made of the record books of your fathers. In these books
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.14|<< Ezra 4:14]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.16|Ezra 4:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H1768\|דִּ֡י]]&#8207; </big>**| di<small><sup>[[AC]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will search  |**<big>&#8207;[[H1240\|יְבַקַּר֩]]&#8207; </big>**| ye.va.Kar<small><sup>[[AVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

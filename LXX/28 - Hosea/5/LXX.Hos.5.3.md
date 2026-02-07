@@ -1,10 +1,7 @@
 **LXX Hosea 5:3** 
 <small><sub>**LXX:**</sub></small>
 I knew  Ephraim, and Israel is not removed from me. For now Ephraim fornicated; Israel was defiled. 
-<small><sub>**KJV:**</sub></small>
-I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, [and] Israel is defiled.
-<small><sub>**BSB:**</sub></small>
-I know all about Ephraim, and Israel is not hidden from Me. For now, O Ephraim, you have turned to prostitution; Israel is defiled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.5.2|<< Hosea 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.5.4|Hosea 5:4 >>]]</td></tr></table>
 
 | Translation | Greek |

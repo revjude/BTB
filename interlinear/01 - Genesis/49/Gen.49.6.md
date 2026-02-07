@@ -1,4 +1,4 @@
-**Genesis 49:6** 
+**Genesis 49:6**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May I never enter their council; may I never join their assembly. For they kill 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.5|<< Genesis 49:5]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.7|Genesis 49:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in council their  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5475\|סֹדָ]]&#8207;&#8207;[[H9028\|ם֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> so.Da<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

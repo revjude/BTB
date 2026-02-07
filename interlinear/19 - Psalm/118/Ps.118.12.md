@@ -1,4 +1,4 @@
-**Psalms 118:12** 
+**Psalms 118:12**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They compassed me about like bees; they are quenched as the fire of thorns: for in the name of the LORD I will destroy them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They swarmed around me like bees, but they were extinguished like burning thorns
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.11|<< Psalms 118:11]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.13|Psalms 118:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they surrounded me  |**<big>&#8207;[[H5437H\|סַבּ֤וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| sa.Bu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like bees  |**<big>&#8207;[[H9004\|כִ]]&#8207;&#8207;[[H1682\|דְבוֹרִ֗ים]]&#8207; </big>**| khi<small><sup>[[HR]]</sup></small> d.vo.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

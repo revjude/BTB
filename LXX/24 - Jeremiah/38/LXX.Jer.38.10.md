@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the king gave charge \[to\] Ebed-melech, saying, Take with yourself from here thirty men, and lead him from out of the pit, that he should not die. 
-<small><sub>**KJV:**</sub></small>
-Then the king commanded Ebedmelech the Ethiopian, saying, Take from hence thirty men with thee, and take up Jeremiah the prophet out of the dungeon, before he die.
-<small><sub>**BSB:**</sub></small>
-So the king commanded Ebed-melech the Cushite, “Take thirty men from here with you and pull Jeremiah the prophet out of the cistern before he dies.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.9|<< Jeremiah 38:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.11|Jeremiah 38:11 >>]]</td></tr></table>
 
 | Translation | Greek |

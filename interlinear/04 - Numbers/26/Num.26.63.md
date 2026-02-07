@@ -1,4 +1,4 @@
-**Numbers 26:63** 
+**Numbers 26:63**<big><big>[[Num.26.63 Only Caleb and Joshua Remain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by Jordan [near] Jericho.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the ones numbered by Moses and Eleazar the priest when they counted t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.63|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.62|<< Numbers 26:62]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.64|Numbers 26:64 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֚לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] enrolled [men] of  |**<big>&#8207;[[H6485A\|פְּקוּדֵ֣י]]&#8207; </big>**| pe.ku.Dei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

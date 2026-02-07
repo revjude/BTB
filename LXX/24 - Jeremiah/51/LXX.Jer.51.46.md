@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:46** 
 <small><sub>**LXX:**</sub></small>
 Lest at any time your heart should be consumed, and you should be afraid on account of the report which shall be heard in the land, and \[the\] report shall come in a year, and after the year \[another\] report; misery and iniquity over the land, and one dominating over \[the\] one dominating. 
-<small><sub>**KJV:**</sub></small>
-And lest your heart faint, and ye fear for the rumour that shall be heard in the land; a rumour shall both come [one] year, and after that in [another] year [shall come] a rumour, and violence in the land, ruler against ruler.
-<small><sub>**BSB:**</sub></small>
-Do not let your heart grow faint, and do not be afraid when the rumor is heard in the land; for a rumor will come one year—and then another the next year—of violence in the land and of ruler against ruler.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.46|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.45|<< Jeremiah 51:45]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.47|Jeremiah 51:47 >>]]</td></tr></table>
 
 | Translation | Greek |

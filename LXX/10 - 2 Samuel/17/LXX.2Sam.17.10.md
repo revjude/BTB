@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:10** 
 <small><sub>**LXX:**</sub></small>
 And indeed any son of power whose  heart \[is\] as the heart  of a lion, in melting away he shall melt away, for all Israel knows that your father \[is\] mighty and \[the\] sons of power, all the ones with him. 
-<small><sub>**KJV:**</sub></small>
-And he also [that is] valiant, whose heart [is] as the heart of a lion, shall utterly melt: for all Israel knoweth that thy father [is] a mighty man, and [they] which [be] with him [are] valiant men.
-<small><sub>**BSB:**</sub></small>
-Then even the most valiant soldier with the heart of a lion will melt with fear, because all Israel knows that your father is a mighty man who has valiant men with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.9|<< 2 Samuel 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.11|2 Samuel 17:11 >>]]</td></tr></table>
 
 | Translation | Greek |

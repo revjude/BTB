@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:17** 
 <small><sub>**LXX:**</sub></small>
 And you shall join them to one another to yourself, to bind them into one rod; and they will be in  your hand. 
-<small><sub>**KJV:**</sub></small>
-And join them one to another into one stick; and they shall become one in thine hand.
-<small><sub>**BSB:**</sub></small>
-Then join them together into one stick, so that they become one in your hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.16|<< Ezekiel 37:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.18|Ezekiel 37:18 >>]]</td></tr></table>
 
 | Translation | Greek |

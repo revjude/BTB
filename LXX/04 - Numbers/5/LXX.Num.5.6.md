@@ -1,10 +1,7 @@
 **LXX Numbers 5:6** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! saying, A man or woman, who ever should commit of all the sins of mankind, and ignoring should ignore, and that soul should trespass, 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, to do a trespass against the LORD, and that person be guilty;
-<small><sub>**BSB:**</sub></small>
-“Tell the Israelites that when a man or woman acts unfaithfully against the LORD by committing any sin against another, that person is guilty<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.5|<< Numbers 5:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.7|Numbers 5:7 >>]]</td></tr></table>
 
 | Translation | Greek |

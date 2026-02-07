@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:31** 
 <small><sub>**LXX:**</sub></small>
 And Jehu entered into the city. And she said, Is it peace \[with\] Omri, the murderer  of his master? 
-<small><sub>**KJV:**</sub></small>
-And as Jehu entered in at the gate, she said, [Had] Zimri peace, who slew his master?
-<small><sub>**BSB:**</sub></small>
-And as Jehu entered the gate, she asked, “Have you come in peace, O Zimri, murderer of your master?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.30|<< 2 Kings 9:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.32|2 Kings 9:32 >>]]</td></tr></table>
 
 | Translation | Greek |

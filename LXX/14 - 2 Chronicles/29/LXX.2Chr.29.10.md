@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Because of this it became upon my heart  to ordain a covenant to the <span class="smallcaps">lord</span> God of Israel, and he shall turn from us the anger  of his rage. 
-<small><sub>**KJV:**</sub></small>
-Now [it is] in mine heart to make a covenant with the LORD God of Israel, that his fierce wrath may turn away from us.
-<small><sub>**BSB:**</sub></small>
-Now it is in my heart to make a covenant with the LORD, the God of Israel, so that His fierce anger will turn away from us.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.9|<< 2 Chronicles 29:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.11|2 Chronicles 29:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 19:4** 
+**Exodus 19:4**<big><big>[[Exod.19.1 Israel at Mount Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye have seen what I did unto the Egyptians, and [how] I bare you on eagles’ wings, and brought you unto myself.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ye have seen what I did unto the Egyptians, and [how] I bare you on eagles’ wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.3|<< Exodus 19:3]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.5|Exodus 19:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859D\|אַתֶּ֣ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have seen  |**<big>&#8207;[[H7200G\|רְאִיתֶ֔ם]]&#8207; </big>**| re.'i.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

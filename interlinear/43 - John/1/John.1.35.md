@@ -1,12 +1,12 @@
-**John 1:35
-**<small><sub>**KJV:**</sub></small>
+**John 1:35**<big><big>[[John.1.35 The First Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Again the next day after John stood, and two of his disciples;
 <small><sub>**BSB:**</sub></small>
 The next day John was there again with two of his disciples.
 <small><sub>**Literal:**</sub></small>
 On the next day again had stood <the> John and of the disciples of him two.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.34|<< John 1:34]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.36|John 1:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On the |**<big>[[G3588\|Τῇ]]</big>**  |Tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | next day |**<big>[[G1887\|ἐπαύριον]]</big>**  |epaurion <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

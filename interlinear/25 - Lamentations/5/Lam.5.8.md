@@ -1,4 +1,4 @@
-**Lamentations 5:8** 
+**Lamentations 5:8**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Servants have ruled over us: [there is] none that doth deliver [us] out of their hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Slaves rule over us; there is no one to deliver us from their hands.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.7|<< Lamentations 5:7]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.9|Lamentations 5:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | slaves  |**<big>&#8207;[[H5650\|עֲבָדִים֙]]&#8207; </big>**| 'a.va.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have ruled  |**<big>&#8207;[[H4910\|מָ֣שְׁלוּ]]&#8207; </big>**| Ma.she.lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

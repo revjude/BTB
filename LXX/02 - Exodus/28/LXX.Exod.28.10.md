@@ -1,10 +1,7 @@
 **LXX Exodus 28:10** 
 <small><sub>**LXX:**</sub></small>
 Six names upon the one stone, and the six names  remaining upon the second stone, according to  their births. 
-<small><sub>**KJV:**</sub></small>
-Six of their names on one stone, and [the other] six names of the rest on the other stone, according to their birth.
-<small><sub>**BSB:**</sub></small>
-six of their names on one stone and the remaining six on the other, in the order of their birth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.28.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.28.9|<< Exodus 28:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.28.11|Exodus 28:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Micah 2:3** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>, Behold, I devise against  this tribe bad \[things\], of which in no way should you lift  your necks, and in no way should you \[be able to\] go straight; for it is a wicked time. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the LORD; Behold, against this family do I devise an evil, from which ye shall not remove your necks; neither shall ye go haughtily: for this time [is] evil.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the LORD says: “I am planning against this nation a disaster from which you cannot free your necks. Then you will not walk so proudly, for it will be a time of calamity.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.2|<< Micah 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.2.4|Micah 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

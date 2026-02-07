@@ -1,10 +1,7 @@
 **LXX Exodus 14:18** 
 <small><sub>**LXX:**</sub></small>
 And all the Egyptians shall know that I \[am the\] <span class="smallcaps">lord</span> glorifying myself by Pharaoh, and by the chariots, and by  his horses. 
-<small><sub>**KJV:**</sub></small>
-And the Egyptians shall know that I [am] the LORD, when I have gotten me honour upon Pharaoh, upon his chariots, and upon his horsemen.
-<small><sub>**BSB:**</sub></small>
-The Egyptians will know that I am the LORD when I am honored through Pharaoh, his chariots, and his horsemen.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.17|<< Exodus 14:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.19|Exodus 14:19 >>]]</td></tr></table>
 
 | Translation | Greek |

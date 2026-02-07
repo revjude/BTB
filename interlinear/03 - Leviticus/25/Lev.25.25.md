@@ -1,4 +1,4 @@
-**Leviticus 25:25** 
+**Leviticus 25:25**<big><big>[[Lev.25.23 The Law of Redemption|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thy brother be waxen poor, and hath sold away [some] of his possession, and if any of his kin come to redeem it, then shall he redeem that which his brother sold.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If your brother becomes impoverished and sells some of his property, his nearest
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.24|<< Leviticus 25:24]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.26|Leviticus 25:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will become impoverished  |**<big>&#8207;[[H4134\|יָמ֣וּךְ]]&#8207; </big>**| ya.Mukh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

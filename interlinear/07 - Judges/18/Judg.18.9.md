@@ -1,4 +1,4 @@
-**Judges 18:9** 
+**Judges 18:9**<big><big>[[Judg.18.1 The Danites Settle in Laish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, Arise, that we may go up against them: for we have seen the land, and, behold, it [is] very good: and [are] ye still? be not slothful to go, [and] to enter to possess the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They answered, “Come on, let us go up against them, for we have seen the land,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.8|<< Judges 18:8]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.10|Judges 18:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | arise !  |**<big>&#8207;[[H6965B\|ק֚וּמָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| Ku.ma<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezra 3:5** 
+**Ezra 3:5**<big><big>[[Ezra.3.1 Sacrifices Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And afterward [offered] the continual burnt offering, both of the new moons, and of all the set feasts of the LORD that were consecrated, and of every one that willingly offered a freewill offering unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After that, they presented the regular burnt offerings and those for New Moons a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3.4|<< Ezra 3:4]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.6|Ezra 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and after this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחֲרֵי]]&#8207;&#8207;[[H3651C\|כֵ֞ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.cha.rei.<small><sup>[[HAcmpc]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a burnt offering of  |**<big>&#8207;[[H5930A\|עֹלַ֤ת]]&#8207; </big>**| 'o.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

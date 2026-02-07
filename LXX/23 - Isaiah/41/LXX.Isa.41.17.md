@@ -1,10 +1,7 @@
 **LXX Isaiah 41:17** 
 <small><sub>**LXX:**</sub></small>
 And the poor and the ones lacking will exult; for they shall seek water and none will be;  their tongue was dried up from the thirst. I \[the\] <span class="smallcaps">lord</span> shall heed, the God of Israel, and I will not abandon them. 
-<small><sub>**KJV:**</sub></small>
-[When] the poor and needy seek water, and [there is] none, [and] their tongue faileth for thirst, I the LORD will hear them, [I] the God of Israel will not forsake them.
-<small><sub>**BSB:**</sub></small>
-The poor and needy seek water, but there is none; their tongues are parched with thirst. I, the LORD, will answer them; I, the God of Israel, will not forsake them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.16|<< Isaiah 41:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.18|Isaiah 41:18 >>]]</td></tr></table>
 
 | Translation | Greek |

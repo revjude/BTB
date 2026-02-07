@@ -1,12 +1,12 @@
-**Matthew 13:16
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:16**<big><big>[[Matt.13.10 The Purpose of Jesus’ Parables|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But blessed [are] your eyes, for they see: and your ears, for they hear.
 <small><sub>**BSB:**</sub></small>
 But blessed are your eyes because they see, and your ears because they hear.
 <small><sub>**Literal:**</sub></small>
 Of you however blessed [are] the eyes because they see and the ears of you because they hear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.15|<< Matthew 13:15]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.17|Matthew 13:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of you |**<big>[[G4771\|ὑμῶν]]</big>**  |humōn <small><sup>[[P-2GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

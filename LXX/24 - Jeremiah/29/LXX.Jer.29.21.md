@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:21** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span> against Ahab son of Kolaiah, and against Zedekiah son of Maaseiah, the ones prophesying to you lies in my name. Behold, I give them into \[the\] hands of \[the\] king of Babylon. And he shall strike them before your eyes. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts, the God of Israel, of Ahab the son of Kolaiah, and of Zedekiah the son of Maaseiah, which prophesy a lie unto you in my name; Behold, I will deliver them into the hand of Nebuchadrezzar king of Babylon; and he shall slay them before your eyes;
-<small><sub>**BSB:**</sub></small>
-This is what the LORD of Hosts, the God of Israel, says about Ahab son of Kolaiah and Zedekiah son of Maaseiah, who are prophesying to you lies in My name: “I will deliver them to Nebuchadnezzar king of Babylon, and he will kill them before your very eyes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.20|<< Jeremiah 29:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.22|Jeremiah 29:22 >>]]</td></tr></table>
 
 | Translation | Greek |

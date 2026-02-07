@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:10** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> shall make his opponent weak. \[The\] <span class="smallcaps">lord</span> \[is\] holy. \[The\] <span class="smallcaps">lord</span> ascended into heavens, and he thundered. He shall judge \[the\] extremities of \[the\] earth being just; and he shall give strength \[to\] our kings, and he will raise up high \[the\] horn of his anointed one. 
-<small><sub>**KJV:**</sub></small>
-The adversaries of the LORD shall be broken to pieces; out of heaven shall he thunder upon them: the LORD shall judge the ends of the earth; and he shall give strength unto his king, and exalt the horn of his anointed.
-<small><sub>**BSB:**</sub></small>
-Those who oppose the LORD will be shattered. He will thunder from heaven against them. The LORD will judge the ends of the earth and will give power to His king. He will exalt the horn of His anointed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.9|<< 1 Samuel 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.11|1 Samuel 2:11 >>]]</td></tr></table>
 
 | Translation | Greek |

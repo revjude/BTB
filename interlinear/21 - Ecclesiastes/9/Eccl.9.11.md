@@ -1,4 +1,4 @@
-**Ecclesiastes 9:11** 
+**Ecclesiastes 9:11**<big><big>[[Eccl.9.7 Enjoy Your Portion in This Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I returned, and saw under the sun, that the race [is] not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I saw something else under the sun: The race is not to the swift, nor the battle
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.10|<< Ecclesiastes 9:10]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.12|Ecclesiastes 9:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I returned  |**<big>&#8207;[[H7725J\|שַׁ֜בְתִּי]]&#8207; </big>**| Shav.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I saw  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7200G\|רָאֹ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ra.'Oh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

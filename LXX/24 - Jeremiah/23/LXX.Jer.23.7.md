@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:7** 
 <small><sub>**LXX:**</sub></small>
 On account of this, behold, days come, says \[the\] <span class="smallcaps">lord</span>, and they will not say any longer, As \[the\] <span class="smallcaps">lord</span> lives, who led the house of Israel from out of \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-Therefore, behold, the days come, saith the LORD, that they shall no more say, The LORD liveth, which brought up the children of Israel out of the land of Egypt;
-<small><sub>**BSB:**</sub></small>
-So behold, the days are coming, declares the LORD, when they will no longer say, ‘As surely as the LORD lives, who brought the Israelites up out of the land of Egypt.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.6|<< Jeremiah 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.8|Jeremiah 23:8 >>]]</td></tr></table>
 
 | Translation | Greek |

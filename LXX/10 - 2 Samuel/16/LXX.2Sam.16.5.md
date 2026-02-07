@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And king David came until Bahurim. And behold, from there a man came forth from \[the\] family of \[the\] house of Saul, and \[the\] name to him \[was\] Shimei, son of Gera. He came forth coming and cursing, 
-<small><sub>**KJV:**</sub></small>
-And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name [was] Shimei, the son of Gera: he came forth, and cursed still as he came.
-<small><sub>**BSB:**</sub></small>
-As King David approached Bahurim, a man from the family of the house of Saul was just coming out. His name was Shimei son of Gera, and as he approached, he kept yelling out curses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.16.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.4|<< 2 Samuel 16:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.6|2 Samuel 16:6 >>]]</td></tr></table>
 
 | Translation | Greek |

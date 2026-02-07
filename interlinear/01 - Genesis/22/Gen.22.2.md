@@ -1,4 +1,4 @@
-**Genesis 22:2** 
+**Genesis 22:2**<big><big>[[Gen.22.1 The Offering of Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Take now thy son, thine only [son] Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And he said, Take now thy son, thine only [son] Isaac, whom thou lovest, and get
 > $\quad$ referenced by: [[Matt.3.17|Matt 3:17]] ☩ [[Matt.17.5|Matt 17:5]] ☩ [[Mark.1.11|Mark 1:11]] ☩ [[Mark.9.7|Mark 9:7]] ☩ [[Luke.3.22|Luke 3:22]] ☩ [[John.1.14|John 1:14]] ☩ [[2Pet.1.17|2Pet 1:17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֡אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | take  |**<big>&#8207;[[H3947G\|קַח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kach-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

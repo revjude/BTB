@@ -1,10 +1,7 @@
 **LXX Numbers 23:13** 
 <small><sub>**LXX:**</sub></small>
 And Balak said to him, Come yet with me to another place of which you shall not see it from there, but only a certain part of it shall you see, but in no way should you see all, and you curse it for me from there! 
-<small><sub>**KJV:**</sub></small>
-And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence.
-<small><sub>**BSB:**</sub></small>
-Then Balak said to him, “Please come with me to another place where you can see them. You will only see the outskirts of their camp—not all of them. And from there, curse them for me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.12|<< Numbers 23:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.14|Numbers 23:14 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Kings 2:13** 
+**2 Kings 2:13**<big><big>[[2Kgs.2.1 Elijah Taken Up to Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He took up also the mantle of Elijah that fell from him, and went back, and stood by the bank of Jordan;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Elisha also picked up the cloak that had fallen from Elijah, and he went back an
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.12|<< 2 Kings 2:12]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.14|2 Kings 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7311A\|יָּ֙רֶם֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.rem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

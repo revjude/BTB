@@ -1,12 +1,12 @@
-**1 Corinthians 11:4
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:4**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Every man praying or prophesying, having [his] head covered, dishonoureth his head.
 <small><sub>**BSB:**</sub></small>
 Every man who prays or prophesies with his head covered dishonors his head.
 <small><sub>**Literal:**</sub></small>
 Every man praying or prophesying [anything] on [his] head having he dishonors the head of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.3|<< 1 Corinthians 11:3]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.5|1 Corinthians 11:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Every |**<big>[[G3956\|Πᾶς]]</big>**  |Pas <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | man |**<big>[[G0435G\|ἀνὴρ]]</big>**  |anēr <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

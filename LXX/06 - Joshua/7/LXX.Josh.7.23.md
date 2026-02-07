@@ -1,10 +1,7 @@
 **LXX Joshua 7:23** 
 <small><sub>**LXX:**</sub></small>
 And they brought them from the tent, and brought them to Joshua, and to all elders of Israel. And they put them before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And they took them out of the midst of the tent, and brought them unto Joshua, and unto all the children of Israel, and laid them out before the LORD.
-<small><sub>**BSB:**</sub></small>
-They took the things from inside the tent, brought them to Joshua and all the Israelites, and spread them out before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.7.22|<< Joshua 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.24|Joshua 7:24 >>]]</td></tr></table>
 
 | Translation | Greek |

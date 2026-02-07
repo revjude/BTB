@@ -1,4 +1,4 @@
-**Exodus 30:20** 
+**Exodus 30:20**<big><big>[[Exod.30.17 The Bronze Basin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When they go into the tabernacle of the congregation, they shall wash with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the LORD:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Whenever they enter the Tent of Meeting or approach the altar to minister by pre
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.19|<< Exodus 30:19]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.21|Exodus 30:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when go they  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0935G\|בֹאָ֞]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> vo.'A<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | into  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

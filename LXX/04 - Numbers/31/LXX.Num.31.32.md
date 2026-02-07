@@ -1,10 +1,7 @@
 **LXX Numbers 31:32** 
 <small><sub>**LXX:**</sub></small>
 And came to pass the surplus of the plunder which the warrior men despoiled from the sheep -- six hundred thousand and seventy thousand and five thousand; 
-<small><sub>**KJV:**</sub></small>
-And the booty, [being] the rest of the prey which the men of war had caught, was six hundred thousand and seventy thousand and five thousand sheep,
-<small><sub>**BSB:**</sub></small>
-and this plunder remained from the spoils the soldiers had taken: 675,000 sheep,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.31|<< Numbers 31:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.33|Numbers 31:33 >>]]</td></tr></table>
 
 | Translation | Greek |

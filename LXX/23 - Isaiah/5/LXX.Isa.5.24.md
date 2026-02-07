@@ -1,10 +1,7 @@
 **LXX Isaiah 5:24** 
 <small><sub>**LXX:**</sub></small>
 On account of this, in which manner stubble shall be burnt by a coal of fire, and shall be burnt up by a flame being sent up,  their root will be as dust, and  their flower shall ascend as a cloud of dust; for they did not want the law of \[the\] <span class="smallcaps">lord</span> of Hosts; but the oracle of the holy one of Israel they provoked. 
-<small><sub>**KJV:**</sub></small>
-Therefore as the fire devoureth the stubble, and the flame consumeth the chaff, [so] their root shall be as rottenness, and their blossom shall go up as dust: because they have cast away the law of the LORD of hosts, and despised the word of the Holy One of Israel.
-<small><sub>**BSB:**</sub></small>
-Therefore, as a tongue of fire consumes the straw, and as dry grass shrivels in the flame, so their roots will decay and their blossoms will blow away like dust; for they have rejected the instruction of the LORD of Hosts and despised the word of the Holy One of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.5.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.5.23|<< Isaiah 5:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.5.25|Isaiah 5:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Joshua 1:11** 
 <small><sub>**LXX:**</sub></small>
 Enter in \[the\] midst of the camp of the people, and give charge to the people! saying, Prepare provisions! for yet \[in\] three days even you pass over  this Jordan, entering to take control \[of\] the land which \[the\] <span class="smallcaps">lord</span>  God  of your fathers gives to you. 
-<small><sub>**KJV:**</sub></small>
-Pass through the host, and command the people, saying, Prepare you victuals; for within three days ye shall pass over this Jordan, to go in to possess the land, which the LORD your God giveth you to possess it.
-<small><sub>**BSB:**</sub></small>
-“Go through the camp and tell the people, ‘Prepare your provisions, for within three days you will cross the Jordan to go in and take possession of the land that the LORD your God is giving you to possess.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.10|<< Joshua 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.12|Joshua 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

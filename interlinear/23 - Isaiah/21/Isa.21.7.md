@@ -1,4 +1,4 @@
-**Isaiah 21:7** 
+**Isaiah 21:7**<big><big>[[Isa.21.1 Babylon Is Fallen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he saw a chariot [with] a couple of horsemen, a chariot of asses, [and] a chariot of camels; and he hearkened diligently with much heed:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When he sees chariots with teams of horsemen, riders on donkeys, riders on camel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.6|<< Isaiah 21:6]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.8|Isaiah 21:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will see  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|רָ֣אָה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Ra.'ah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a rider  |**<big>&#8207;[[H7393G\|רֶ֗כֶב]]&#8207; </big>**| Re.khev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

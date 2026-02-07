@@ -1,12 +1,12 @@
-**1 Corinthians 16:17
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:17**<big><big>[[1Cor.16.13 Concluding Exhortations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on your part they have supplied.
 <small><sub>**BSB:**</sub></small>
 I am glad that Stephanas, Fortunatus, and Achaicus have arrived, because they have supplied what was lacking from you.
 <small><sub>**Literal:**</sub></small>
 I rejoice however at the coming of Stephanas and Fortunatus and Achaicus, because <the> your deficiency these filled up;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.16|<< 1 Corinthians 16:16]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.18|1 Corinthians 16:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I rejoice |**<big>[[G5463\|Χαίρω]]</big>**  |Chairō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

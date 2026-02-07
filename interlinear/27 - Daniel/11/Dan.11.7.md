@@ -1,4 +1,4 @@
-**Daniel 11:7** 
+**Daniel 11:7**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But out of a branch of her roots shall [one] stand up in his estate, which shall come with an army, and shall enter into the fortress of the king of the north, and shall deal against them, and shall prevail:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But one from her family line will rise up in his place, come against the army of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.6|<< Daniel 11:6]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.8|Daniel 11:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will arise  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5975I\|עָמַ֛ד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Mad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one of [the] shoot[s] of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5342\|נֵּ֥צֶר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ne.tzer<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

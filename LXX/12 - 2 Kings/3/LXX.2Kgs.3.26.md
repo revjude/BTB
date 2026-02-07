@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:26** 
 <small><sub>**LXX:**</sub></small>
 And the king of Moab beheld that the battle overpowered him; and he took with himself seven hundred men unsheathing \[the\] broadsword to cut through \[the\] king of Edom; but they were not able. 
-<small><sub>**KJV:**</sub></small>
-And when the king of Moab saw that the battle was too sore for him, he took with him seven hundred men that drew swords, to break through [even] unto the king of Edom: but they could not.
-<small><sub>**BSB:**</sub></small>
-When the king of Moab saw that the battle was too fierce for him, he took with him seven hundred swordsmen to break through to the king of Edom, but they could not prevail.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.25|<< 2 Kings 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.27|2 Kings 3:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 71:23** 
 <small><sub>**LXX:**</sub></small>
 My lips shall exult whenever I should strum to you, and  my soul which you ransomed. 
-<small><sub>**KJV:**</sub></small>
-My lips shall greatly rejoice when I sing unto thee; and my soul, which thou hast redeemed.
-<small><sub>**BSB:**</sub></small>
-When I sing praise to You my lips will shout for joy, along with my soul, which You have redeemed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.71.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.22|<< Psalm 71:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.71.24|Psalm 71:24 >>]]</td></tr></table>
 
 | Translation | Greek |

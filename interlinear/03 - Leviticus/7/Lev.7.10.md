@@ -1,4 +1,4 @@
-**Leviticus 7:10** 
+**Leviticus 7:10**<big><big>[[Lev.7.1 The Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every meat offering, mingled with oil, and dry, shall all the sons of Aaron have, one [as much] as another.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and every grain offering, whether dry or mixed with oil, belongs equally to all 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.9|<< Leviticus 7:9]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.11|Leviticus 7:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | grain offering  |**<big>&#8207;[[H4503G\|מִנְחָ֥ה]]&#8207; </big>**| min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

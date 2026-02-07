@@ -1,12 +1,12 @@
-**Acts 23:21
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:21**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But do not thou yield unto them: for there lie in wait for him of them more than forty men, which have bound themselves with an oath, that they will neither eat nor drink till they have killed him: and now are they ready, looking for a promise from thee.
 <small><sub>**BSB:**</sub></small>
 Do not let them persuade you, because more than forty men are waiting to ambush him. They have bound themselves with an oath not to eat or drink until they have killed him; they are ready now, awaiting your consent.”
 <small><sub>**Literal:**</sub></small>
 You yourself therefore not may be persuaded by them, Lie in wait indeed for him of them men more than forty, who was put under an oath themselves neither to eat nor to drink until that they may execute him and now they are ready awaiting the from you promise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.20|<< Acts 23:20]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.22|Acts 23:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourself |**<big>[[G4771\|σὺ]]</big>**  |su <small><sup>[[P-2NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

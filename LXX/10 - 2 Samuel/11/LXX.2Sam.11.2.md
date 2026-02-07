@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:2** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass towards evening, and David rose up from  his bed, and walked upon the roof of the house of the king. And he beheld from the roof a woman bathing; and the woman was good  in appearance -- exceedingly. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in an eveningtide, that David arose from off his bed, and walked upon the roof of the king’s house: and from the roof he saw a woman washing herself; and the woman [was] very beautiful to look upon.
-<small><sub>**BSB:**</sub></small>
-One evening David got up from his bed and strolled around on the roof of the palace. And from the roof he saw a woman bathing—a very beautiful woman.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.1|<< 2 Samuel 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.3|2 Samuel 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

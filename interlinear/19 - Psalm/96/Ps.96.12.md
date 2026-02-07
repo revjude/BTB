@@ -1,4 +1,4 @@
-**Psalms 96:12** 
+**Psalms 96:12**<big><big>[[Ps.96.1 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the field be joyful, and all that [is] therein: then shall all the trees of the wood rejoice
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the fields exult, and all that is in them. Then all the trees of the forest 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.96.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.96.11|<< Psalms 96:11]]</td><td align="center" style="border:none;">[[Ps.96|Psalms 96]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.96.13|Psalms 96:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let it exult  |**<big>&#8207;[[H5937\|יַעֲלֹ֣ז]]&#8207; </big>**| ya.'a.Loz<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] field[s]  |**<big>&#8207;[[H7704M\|שָׂ֭דַי]]&#8207; </big>**| Sa.dai<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

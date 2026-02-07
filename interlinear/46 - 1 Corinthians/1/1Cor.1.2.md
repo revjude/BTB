@@ -1,12 +1,12 @@
-**1 Corinthians 1:2
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:2**<big><big>[[1Cor.1.1 Greetings from Paul and Sosthenes|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called [to be] saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:
 <small><sub>**BSB:**</sub></small>
 To the church of God in Corinth, to those sanctified in Christ Jesus and called to be holy, together with all those everywhere who call on the name of our Lord Jesus Christ, their Lord and ours:
 <small><sub>**Literal:**</sub></small>
 To the church <the> of God which is being in Corinth, sanctified in Christ Jesus called holy, together with all those calling on the name of the Lord of us Jesus Christ in every place, both theirs then and ours:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.1|<< 1 Corinthians 1:1]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.3|1 Corinthians 1:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | To the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | church |**<big>[[G1577\|ἐκκλησίᾳ]]</big>**  |ekklēsia <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

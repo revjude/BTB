@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:11** 
 <small><sub>**LXX:**</sub></small>
 And on top \[were\] valuable stones according to the same measure -- hewn \[stones\] and cedars, 
-<small><sub>**KJV:**</sub></small>
-And above [were] costly stones, after the measures of hewed stones, and cedars.
-<small><sub>**BSB:**</sub></small>
-Above these were costly stones, cut to size, and cedar beams.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.10|<< 1 Kings 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.12|1 Kings 7:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 1:50** 
 <small><sub>**LXX:**</sub></small>
 And you set the Levites over the tent of the testimony, and over all the items of it, and over all as much as \[is\] in it! They shall lift the tent, and all the items for it. And they shall officiate in it, and they shall camp round about the tent. 
-<small><sub>**KJV:**</sub></small>
-But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that [belong] to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle.
-<small><sub>**BSB:**</sub></small>
-Instead, you are to appoint the Levites over the tabernacle of the Testimony, all its furnishings, and everything in it. They shall carry the tabernacle and all its articles, care for it, and camp around it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.1.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.49|<< Numbers 1:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.51|Numbers 1:51 >>]]</td></tr></table>
 
 | Translation | Greek |

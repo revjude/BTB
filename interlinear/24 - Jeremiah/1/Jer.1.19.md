@@ -1,4 +1,4 @@
-**Jeremiah 1:19** 
+**Jeremiah 1:19**<big><big>[[Jer.1.1 The Call of Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall fight against thee; but they shall not prevail against thee; for I [am] with thee, saith the LORD, to deliver thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will fight against you but will never overcome you, since I am with you to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1.18|<< Jeremiah 1:18]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.1|Jeremiah 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will fight  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3898A\|נִלְחֲמ֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nil.cha.Mu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | against you  |**<big>&#8207;[[H0413\|אֵלֶ֖י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'e.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

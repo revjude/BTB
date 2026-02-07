@@ -1,4 +1,4 @@
-**Genesis 21:15** 
+**Genesis 21:15**<big><big>[[Gen.21.9 Sarah Turns against Hagar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the water was spent in the bottle, and she cast the child under one of the shrubs.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the water in the skin was gone, she left the boy under one of the bushes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.14|<< Genesis 21:14]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.16|Genesis 21:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were finished  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3615J\|יִּכְל֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.Lu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the water\<s>  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4325G\|מַּ֖יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Leviticus 8:11** 
 <small><sub>**LXX:**</sub></small>
 and he sprinkled from it upon the altar seven times. And he anointed the altar, and sanctified it, and all  its utensils, and the bathing tub, and  its base. And he sanctified them, and he anointed the tent, and all  its items, and he sanctified it. 
-<small><sub>**KJV:**</sub></small>
-And he sprinkled thereof upon the altar seven times, and anointed the altar and all his vessels, both the laver and his foot, to sanctify them.
-<small><sub>**BSB:**</sub></small>
-He sprinkled some of the oil on the altar seven times, anointing the altar and all its utensils, and the basin with its stand, to consecrate them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.10|<< Leviticus 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.12|Leviticus 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

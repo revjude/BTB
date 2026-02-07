@@ -1,10 +1,7 @@
 **LXX Numbers 22:40** 
 <small><sub>**LXX:**</sub></small>
 And Balak sacrificed sheep and calves, and sent \[to\] Balaam and to the rulers, to the ones with him. 
-<small><sub>**KJV:**</sub></small>
-And Balak offered oxen and sheep, and sent to Balaam, and to the princes that [were] with him.
-<small><sub>**BSB:**</sub></small>
-Balak sacrificed cattle and sheep, and he gave portions to Balaam and the princes who were with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.39|<< Numbers 22:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.41|Numbers 22:41 >>]]</td></tr></table>
 
 | Translation | Greek |

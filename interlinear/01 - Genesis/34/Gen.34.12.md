@@ -1,4 +1,4 @@
-**Genesis 34:12** 
+**Genesis 34:12**<big><big>[[Gen.34.1 The Defiling of Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ask me never so much dowry and gift, and I will give according as ye shall say unto me: but give me the damsel to wife.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Demand a high dowry and an expensive gift, and I will give you whatever you ask.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.11|<< Genesis 34:11]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.13|Genesis 34:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | increase  |**<big>&#8207;[[H7235A\|הַרְבּ֨וּ]]&#8207; </big>**| har.Bu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on me  |**<big>&#8207;[[H5921A\|עָלַ֤]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

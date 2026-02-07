@@ -1,10 +1,7 @@
 **LXX Numbers 2:12** 
 <small><sub>**LXX:**</sub></small>
 And the ones camping being next to him \[was the\] tribe of Simeon. And the ruler of the sons of Simeon \[was\] Shelumiel son of Zurishaddai. 
-<small><sub>**KJV:**</sub></small>
-And those which pitch by him [shall be] the tribe of Simeon: and the captain of the children of Simeon [shall be] Shelumiel the son of Zurishaddai.
-<small><sub>**BSB:**</sub></small>
-The tribe of Simeon will camp next to it. The leader of the Simeonites is Shelumiel son of Zurishaddai,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.11|<< Numbers 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.13|Numbers 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

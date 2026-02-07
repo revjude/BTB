@@ -1,12 +1,12 @@
-**Mark 9:43
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:43**<big><big>[[Mark.9.42 Temptations and Trespasses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:
 <small><sub>**BSB:**</sub></small>
 If your hand causes you to sin, cut it off. It is better for you to enter life crippled than to have two hands and go into hell, into the unquenchable fire.
 <small><sub>**Literal:**</sub></small>
 And if shall cause to stumble you the hand of you, do cut off it; better it is for you crippled to enter into <the> life than <the> two hands having to go away into <the> hell into the fire <the> unquenchable.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.42|<< Mark 9:42]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.44|Mark 9:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

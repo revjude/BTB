@@ -1,4 +1,4 @@
-**Ezekiel 16:56** 
+**Ezekiel 16:56**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy sister Sodom was not mentioned by thy mouth in the day of thy pride,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Did you not treat your sister Sodom as an object of scorn in the day of your pri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.56|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.55|<< Ezekiel 16:55]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.57|Ezekiel 16:57 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|ל֤וֹא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | did she become?  |**<big>&#8207;[[H1961\|הָֽיְתָה֙]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

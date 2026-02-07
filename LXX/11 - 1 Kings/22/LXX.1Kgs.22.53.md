@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:53** 
 <small><sub>**LXX:**</sub></small>
 And he served to the Baalim, and did obeisance to them, and provoked to anger the <span class="smallcaps">lord</span> God of Israel, according to all what his father did. 
-<small><sub>**KJV:**</sub></small>
-For he served Baal, and worshipped him, and provoked to anger the LORD God of Israel, according to all that his father had done.
-<small><sub>**BSB:**</sub></small>
-Ahaziah served and worshiped Baal, provoking the LORD, the God of Israel, to anger, just as his father had done.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.53|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.52|<< 1 Kings 22:52]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.1|2 Kings 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

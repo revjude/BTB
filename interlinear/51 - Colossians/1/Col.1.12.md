@@ -1,12 +1,12 @@
-**Colossians 1:12
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:12**<big><big>[[Col.1.3 Thanksgiving and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Giving thanks unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light:
 <small><sub>**BSB:**</sub></small>
 giving thanks to the Father, who has qualified you to share in the inheritance of the saints in the light.
 <small><sub>**Literal:**</sub></small>
 giving thanks to the Father the [One] having qualified you for the share of the inheritance of the saints in the light,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.11|<< Colossians 1:11]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.13|Colossians 1:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | giving thanks |**<big>[[G2168\|εὐχαριστοῦντες]]</big>**  |eucharistountes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

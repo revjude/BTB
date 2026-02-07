@@ -1,4 +1,4 @@
-**Psalms 59:13** (59:14)
+**Psalms 59:13**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Consume [them] in wrath, consume [them], that they [may] not [be]: and let them know that God ruleth in Jacob unto the ends of the earth. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Consume them in wrath; consume them till they are no more, so it may be known to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.12|<< Psalms 59:12]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.14|Psalms 59:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | make an end  |**<big>&#8207;[[H3615H\|כַּלֵּ֥ה]]&#8207; </big>**| ka.Leh<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in anger  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H2534\|חֵמָה֮]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> che.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 16:6** 
 <small><sub>**LXX:**</sub></small>
 And Moses and Aaron said to all \[the\] gathering of \[the\] sons of Israel, \[At\] evening you will know that \[the\] <span class="smallcaps">lord</span> led you out of \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD hath brought you out from the land of Egypt:
-<small><sub>**BSB:**</sub></small>
-So Moses and Aaron said to all the Israelites, “This evening you will know that it was the LORD who brought you out of the land of Egypt,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.5|<< Exodus 16:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.7|Exodus 16:7 >>]]</td></tr></table>
 
 | Translation | Greek |

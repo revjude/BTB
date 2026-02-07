@@ -1,12 +1,12 @@
-**1 Corinthians 5:4
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 5:4**<big><big>[[1Cor.5.1 Immorality Rebuked|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ,
 <small><sub>**BSB:**</sub></small>
 When you are assembled in the name of our Lord Jesus and I am with you in spirit, along with the power of the Lord Jesus,
 <small><sub>**Literal:**</sub></small>
 in the name of the Lord our Jesus Christ having been gathered together you and <the> me in spirit with the power of the Lord of us Jesus Christ<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.3|<< 1 Corinthians 5:3]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.5|1 Corinthians 5:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

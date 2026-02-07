@@ -1,4 +1,4 @@
-**Deuteronomy 24:8** 
+**Deuteronomy 24:8**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take heed in the plague of leprosy, that thou observe diligently, and do according to all that the priests the Levites shall teach you: as I commanded them, [so] ye shall observe to do.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In cases of infectious skin diseases, be careful to diligently follow everything
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.7|<< Deuteronomy 24:7]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.9|Deuteronomy 24:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take heed  |**<big>&#8207;[[H8104J\|הִשָּׁ֧מֶר]]&#8207; </big>**| hi.Sha.mer<small><sup>[[HVNv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] plague of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5061\|נֶֽגַע]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ne.ga'-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

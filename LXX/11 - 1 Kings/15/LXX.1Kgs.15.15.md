@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:15** 
 <small><sub>**LXX:**</sub></small>
 And Asa carried into the house of \[the\] <span class="smallcaps">lord</span> the monumental pillars  of his father, and the monumental pillars  of silver and of gold, and he carried into the house of \[the\] <span class="smallcaps">lord</span> silver and gold and vessels. 
-<small><sub>**KJV:**</sub></small>
-And he brought in the things which his father had dedicated, and the things which himself had dedicated, into the house of the LORD, silver, and gold, and vessels.
-<small><sub>**BSB:**</sub></small>
-And he brought into the house of the LORD the silver and gold and the articles that he and his father had dedicated.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.14|<< 1 Kings 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.15.16|1 Kings 15:16 >>]]</td></tr></table>
 
 | Translation | Greek |

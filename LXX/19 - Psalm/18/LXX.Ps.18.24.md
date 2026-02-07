@@ -1,10 +1,7 @@
 **LXX Psalm 18:24** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> shall recompense to me according to  my righteousness, and according to the cleanliness  of my hands before  his eyes. 
-<small><sub>**KJV:**</sub></small>
-Therefore hath the LORD recompensed me according to my righteousness, according to the cleanness of my hands in his eyesight.
-<small><sub>**BSB:**</sub></small>
-So the LORD has repaid me according to my righteousness, according to the cleanness of my hands in His sight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.23|<< Psalm 18:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.25|Psalm 18:25 >>]]</td></tr></table>
 
 | Translation | Greek |

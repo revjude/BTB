@@ -1,4 +1,4 @@
-**Isaiah 26:12** 
+**Isaiah 26:12**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, thou wilt ordain peace for us: for thou also hast wrought all our works in us.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O LORD, You will establish peace for us. For all that we have accomplished, You 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.11|<< Isaiah 26:11]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.13|Isaiah 26:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֕ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will establish  |**<big>&#8207;[[H8239\|תִּשְׁפֹּ֥ת]]&#8207; </big>**| tish.Pot<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

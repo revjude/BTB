@@ -1,12 +1,12 @@
-**1 Corinthians 14:33
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:33**<big><big>[[1Cor.14.26 Orderly Worship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For God is not [the author] of confusion, but of peace, as in all churches of the saints.
 <small><sub>**BSB:**</sub></small>
 For God is not a God of disorder, but of peace—as in all the churches of the saints.
 <small><sub>**Literal:**</sub></small>
 Not for He is of disorder the God but of peace, as in all the churches of the saints.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.32|<< 1 Corinthians 14:32]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.34|1 Corinthians 14:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

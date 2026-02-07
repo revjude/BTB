@@ -1,12 +1,12 @@
-**Acts 4:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:28**<big><big>[[Acts.4.23 The Believers’ Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For to do whatsoever thy hand and thy counsel determined before to be done.
 <small><sub>**BSB:**</sub></small>
 They carried out what Your hand and will had decided beforehand would happen.
 <small><sub>**Literal:**</sub></small>
 to do as much as the hand of You and the purpose of You determined beforehand to happen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.27|<< Acts 4:27]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.29|Acts 4:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to do |**<big>[[G4160G\|ποιῆσαι]]</big>**  |poiēsai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as much as |**<big>[[G3745\|ὅσα]]</big>**  |hosa <small><sup>[[K-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

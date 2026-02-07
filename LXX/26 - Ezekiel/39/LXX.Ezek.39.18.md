@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:18** 
 <small><sub>**LXX:**</sub></small>
 You shall eat meats of giants, and you shall drink blood of rulers of the earth, rams, and calves, and he-goats, and the calves all growing fat. 
-<small><sub>**KJV:**</sub></small>
-Ye shall eat the flesh of the mighty, and drink the blood of the princes of the earth, of rams, of lambs, and of goats, of bullocks, all of them fatlings of Bashan.
-<small><sub>**BSB:**</sub></small>
-You will eat the flesh of the mighty and drink the blood of the princes of the earth as though they were rams, lambs, goats, and bulls—all the fattened animals of Bashan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.17|<< Ezekiel 39:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.19|Ezekiel 39:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 39:18** is...

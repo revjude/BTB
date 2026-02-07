@@ -1,4 +1,4 @@
-**Exodus 25:12** 
+**Exodus 25:12**<big><big>[[Exod.25.10 The Ark of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt cast four rings of gold for it, and put [them] in the four corners thereof; and two rings [shall be] in the one side of it, and two rings in the other side of it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cast four gold rings for it and fasten them to its four feet, two rings on one s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.11|<< Exodus 25:11]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.13|Exodus 25:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will cast  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3332H\|יָצַ֣קְתָּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Tzak.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> it  |**<big>&#8207;[[H9005\|לּ֗]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

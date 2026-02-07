@@ -1,4 +1,4 @@
-**Exodus 18:2** 
+**Exodus 18:2**<big><big>[[Exod.18.1 The Visit of Jethro|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jethro, Moses’ father in law, took Zipporah, Moses’ wife, after he had sent her back,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After Moses had sent back his wife Zipporah, his father-in-law Jethro had receiv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.1|<< Exodus 18:1]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.3|Exodus 18:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he had taken  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֗ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jethro  |**<big>&#8207;[[H3503\|יִתְרוֹ֙]]&#8207; </big>**| yit.Ro<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

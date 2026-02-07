@@ -1,10 +1,7 @@
 **LXX Proverbs 30:4** 
 <small><sub>**LXX:**</sub></small>
 Who ascended into the heaven, and came down? Who brought together \[the\] winds in \[his\] bosom? Who bundled up waters in \[his\] cloak? Who holds all the extremities of the earth? What name \[is given\] to him? or what name \[to\] his children that you should know? 
-<small><sub>**KJV:**</sub></small>
-Who hath ascended up into heaven, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what [is] his name, and what [is] his son’s name, if thou canst tell?
-<small><sub>**BSB:**</sub></small>
-Who has ascended to heaven and come down? Who has gathered the wind in His hands? Who has bound up the waters in His cloak? Who has established all the ends of the earth? What is His name, and what is the name of His Son—surely you know!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.30.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.30.3|<< Proverbs 30:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.30.5|Proverbs 30:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Corinthians 2:4
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 2:4**<big><big>[[1Cor.2.1 Paul’s Message by the Spirit’s Power|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And my speech and my preaching [was] not with enticing words of man’s wisdom, but in demonstration of the Spirit and of power:
 <small><sub>**BSB:**</sub></small>
 My message and my preaching were not with persuasive words of wisdom, but with a demonstration of the Spirit’s power,
 <small><sub>**Literal:**</sub></small>
 And the message of mine and the preaching of mine [were] not in persuasive of human of wisdom words but in demonstration of [the] Spirit and of power,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.3|<< 1 Corinthians 2:3]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.5|1 Corinthians 2:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

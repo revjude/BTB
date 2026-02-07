@@ -1,4 +1,4 @@
-**Psalms 115:13** 
+**Psalms 115:13**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He will bless them that fear the LORD, [both] small and great.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ He will bless those who fear the LORD—small and great alike.
 > $\quad$ referenced by: [[Rev.11.18|Rev 11:18]] ☩ [[Rev.19.5|Rev 19:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will bless  |**<big>&#8207;[[H1288\|יְ֭בָרֵךְ]]&#8207; </big>**| Ye.va.rekh<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those] fearing  |**<big>&#8207;[[H3373\|יִרְאֵ֣י]]&#8207; </big>**| yir.'Ei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

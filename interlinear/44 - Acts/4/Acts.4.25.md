@@ -1,5 +1,5 @@
-**Acts 4:25
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:25**<big><big>[[Acts.4.23 The Believers’ Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who by the mouth of thy servant David hast said, Why did the heathen rage, and the people imagine vain things?
 <small><sub>**BSB:**</sub></small>
 You spoke by the Holy Spirit through the mouth of Your servant, our father David: ‘Why do the nations rage and the peoples plot in vain?
@@ -10,7 +10,7 @@ who of the father of us through [the] Spirit Holy through [the] mouth of David t
 > $\quad$ referencing: [[LXX.Ps.2.1|Ps 2:1-2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |

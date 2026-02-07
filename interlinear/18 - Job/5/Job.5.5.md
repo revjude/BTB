@@ -1,4 +1,4 @@
-**Job 5:5** 
+**Job 5:5**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The hungry consume his harvest, taking it even from the thorns, and the thirsty 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.4|<< Job 5:4]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.6|Job 5:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the one] who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֤ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | harvest his  |**<big>&#8207;[[H7105A\|קְצִיר֨]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ke.tzi.R<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

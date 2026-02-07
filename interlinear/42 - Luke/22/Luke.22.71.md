@@ -1,12 +1,12 @@
-**Luke 22:71
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:71**<big><big>[[Luke.22.66 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they said, What need we any further witness? for we ourselves have heard of his own mouth.
 <small><sub>**BSB:**</sub></small>
 “Why do we need any more testimony?” they declared. “We have heard it for ourselves from His own lips.”
 <small><sub>**Literal:**</sub></small>
 <the> And they said; What any more have we of witness need We ourselves for heard [it] from the mouth of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.70|<< Luke 22:70]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.1|Luke 23:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

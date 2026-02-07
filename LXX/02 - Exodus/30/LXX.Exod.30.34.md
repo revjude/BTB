@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Take to yourself spices -- balsam, and onycha, and luscious galbanum, and transparent frankincense, equal to equal it will be. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Moses, Take unto thee sweet spices, stacte, and onycha, and galbanum; [these] sweet spices with pure frankincense: of each shall there be a like [weight]:
-<small><sub>**BSB:**</sub></small>
-The LORD also said to Moses, “Take fragrant spices—gum resin, onycha, galbanum, and pure frankincense—in equal measures,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.33|<< Exodus 30:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.35|Exodus 30:35 >>]]</td></tr></table>
 
 | Translation | Greek |

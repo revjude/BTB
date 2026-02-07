@@ -1,10 +1,7 @@
 **LXX Genesis 50:15** 
 <small><sub>**LXX:**</sub></small>
 And the brothers of Joseph knowing that their father died, said, Lest at any time Joseph should resent us, and with a recompense, recompense to us all the bad \[things\] which we demonstrated against him, 
-<small><sub>**KJV:**</sub></small>
-And when Joseph’s brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him.
-<small><sub>**BSB:**</sub></small>
-When Joseph’s brothers saw that their father was dead, they said, “What if Joseph bears a grudge? Then he will surely repay us for all the evil that we did to him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.50.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.14|<< Genesis 50:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.16|Genesis 50:16 >>]]</td></tr></table>
 
 | Translation | Greek |

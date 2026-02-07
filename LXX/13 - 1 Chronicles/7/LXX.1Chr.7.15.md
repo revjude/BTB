@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:15** 
 <small><sub>**LXX:**</sub></small>
 And Machir took a wife  for Huppim and  for Shuppim. And \[the\] name \[to\] their sister \[was\] Maachah. And \[the\] name to the second \[was\] Zelophehad. And daughters were born to Zelophehad. 
-<small><sub>**KJV:**</sub></small>
-And Machir took to wife [the sister] of Huppim and Shuppim, whose sister’s name [was] Maachah;) and the name of the second [was] Zelophehad: and Zelophehad had daughters.
-<small><sub>**BSB:**</sub></small>
-Machir took a wife from among the Huppites and Shuppites. The name of his sister was Maacah. Another descendant was named Zelophehad, who had only daughters.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.14|<< 1 Chronicles 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.16|1 Chronicles 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

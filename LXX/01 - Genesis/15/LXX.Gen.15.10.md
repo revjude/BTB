@@ -1,10 +1,7 @@
 **LXX Genesis 15:10** 
 <small><sub>**LXX:**</sub></small>
 And he took to himself all these, and he divided them in the middle, and put them facing one another; but the birds he did not divide. 
-<small><sub>**KJV:**</sub></small>
-And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not.
-<small><sub>**BSB:**</sub></small>
-So Abram brought all these to Him, split each of them down the middle, and laid the halves opposite each other. The birds, however, he did not cut in half.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.9|<< Genesis 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.11|Genesis 15:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 9:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:8**<big><big>[[Matt.9.1 Jesus Heals a Paralytic|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when the multitudes saw [it], they marvelled, and glorified God, which had given such power unto men.
 <small><sub>**BSB:**</sub></small>
 When the crowds saw this, they were filled with awe and glorified God, who had given such authority to men.
 <small><sub>**Literal:**</sub></small>
 Having seen now the crowds revered and glorified <the> God the [One] having given authority such <the> to men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.7|<< Matthew 9:7]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.9|Matthew 9:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|ἰδόντες]]</big>**  |idontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

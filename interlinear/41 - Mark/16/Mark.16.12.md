@@ -1,12 +1,12 @@
-**Mark 16:12
-**<small><sub>**KJV:**</sub></small>
+**Mark 16:12**<big><big>[[Mark.16.12 Jesus Appears to Two Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After that he appeared in another form unto two of them, as they walked, and went into the country.
 <small><sub>**BSB:**</sub></small>
 After this, Jesus appeared in a different form to two of them as they walked along in the country.
 <small><sub>**Literal:**</sub></small>
 After now these things to two of them walking He appeared in another form going into [the] country.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.11|<< Mark 16:11]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.13|Mark 16:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | After |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+Treg+TR+Byz">KO</abbr> | |

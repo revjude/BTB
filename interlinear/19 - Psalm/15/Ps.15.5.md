@@ -1,4 +1,4 @@
-**Psalms 15:5** 
+**Psalms 15:5**<big><big>[[Ps.15.1 Who May Dwell on Your Holy Mountain？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He that] putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these [things] shall never be moved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who lends his money without interest and refuses a bribe against the innocent. H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.15.4|<< Psalms 15:4]]</td><td align="center" style="border:none;">[[Ps.15|Psalms 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.16.0|Psalms 16:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | money his  |**<big>&#8207;[[H3701G\|כַּסְפּ֤]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| kas.P<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

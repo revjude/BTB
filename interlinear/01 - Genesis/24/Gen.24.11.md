@@ -1,4 +1,4 @@
-**Genesis 24:11** 
+**Genesis 24:11**<big><big>[[Gen.24.1 A Wife for Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made his camels to kneel down without the city by a well of water at the time of the evening, [even] the time that women go out to draw [water].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As evening approached, he made the camels kneel down near the well outside the t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.10|<< Genesis 24:10]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.12|Genesis 24:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made kneel  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1288\|יַּבְרֵ֧ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yav.Rekh<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the camels  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1581\|גְּמַלִּ֛ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.ma.Lim<small><sup>[[HNcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

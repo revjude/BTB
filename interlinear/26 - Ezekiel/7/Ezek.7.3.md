@@ -1,4 +1,4 @@
-**Ezekiel 7:3** 
+**Ezekiel 7:3**<big><big>[[Ezek.7.1 The Hour of Doom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now [is] the end [come] upon thee, and I will send mine anger upon thee, and will judge thee according to thy ways, and will recompense upon thee all thine abominations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The end is now upon you, and I will unleash My anger against you. I will judge y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.2|<< Ezekiel 7:2]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.4|Ezekiel 7:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H6258\|עַתָּה֙]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the end  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7093\|קֵּ֣ץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ketz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:15** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the next day, and he took  a rag, and he dipped it in  water, and put \[it\] upon  his face, and he died. And Hazael reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass on the morrow, that he took a thick cloth, and dipped [it] in water, and spread [it] on his face, so that he died: and Hazael reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-But the next day Hazael took a thick cloth, dipped it in water, and spread it over the king’s face. So Ben-hadad died, and Hazael reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.14|<< 2 Kings 8:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.16|2 Kings 8:16 >>]]</td></tr></table>
 
 | Translation | Greek |

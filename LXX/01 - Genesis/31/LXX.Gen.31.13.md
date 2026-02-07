@@ -1,10 +1,7 @@
 **LXX Genesis 31:13** 
 <small><sub>**LXX:**</sub></small>
 I am  God, the one appearing to you in \[the\] place of God, of which you anointed to me there a monument, and vowed to me there a vow. Now then, rise up and go forth from out of  this land! And go forth into the land  of your birth! 
-<small><sub>**KJV:**</sub></small>
-I [am] the God of Bethel, where thou anointedst the pillar, [and] where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred.
-<small><sub>**BSB:**</sub></small>
-I am the God of Bethel, where you anointed the pillar and made a solemn vow to Me. Now get up, leave this land at once, and return to your native land.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.12|<< Genesis 31:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.14|Genesis 31:14 >>]]</td></tr></table>
 
 | Translation | Greek |

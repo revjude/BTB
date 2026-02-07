@@ -1,12 +1,12 @@
-**Luke 19:13
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:13**<big><big>[[Luke.19.11 The Parable of the Ten Minas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he called his ten servants, and delivered them ten pounds, and said unto them, Occupy till I come.
 <small><sub>**BSB:**</sub></small>
 Beforehand, he called ten of his servants and gave them ten minas. ‘Conduct business with this until I return,’ he said.
 <small><sub>**Literal:**</sub></small>
 Having called then ten servants his own he gave to them ten minas and said to them; Do trade in that until I come back.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.12|<< Luke 19:12]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.14|Luke 19:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having called |**<big>[[G2564G\|καλέσας]]</big>**  |kalesas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

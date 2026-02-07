@@ -1,4 +1,4 @@
-**Genesis 43:20** 
+**Genesis 43:20**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, O sir, we came indeed down at the first time to buy food:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And said, O sir, we came indeed down at the first time to buy food:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.19|<< Genesis 43:19]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.21|Genesis 43:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | pardon us  |**<big>&#8207;[[H0994\|בִּ֣י]]&#8207; </big>**| bi<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

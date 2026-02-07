@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:23** 
 <small><sub>**LXX:**</sub></small>
 And Moses gave charge to Joshua son of Nun and said, Be manly and be strong! For you shall bring the sons of Israel into the land which \[the\] <span class="smallcaps">lord</span> swore by an oath to them, and he will be with you. 
-<small><sub>**KJV:**</sub></small>
-And he gave Joshua the son of Nun a charge, and said, Be strong and of a good courage: for thou shalt bring the children of Israel into the land which I sware unto them: and I will be with thee.
-<small><sub>**BSB:**</sub></small>
-Then the LORD commissioned Joshua son of Nun and said, “Be strong and courageous, for you will bring the Israelites into the land that I swore to give them, and I will be with you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.22|<< Deuteronomy 31:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.24|Deuteronomy 31:24 >>]]</td></tr></table>
 
 | Translation | Greek |

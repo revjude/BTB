@@ -1,12 +1,12 @@
-**Matthew 2:22
-**<small><sub>**KJV:**</sub></small>
+**Matthew 2:22**<big><big>[[Matt.2.19 The Return to Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:
 <small><sub>**BSB:**</sub></small>
 But when he learned that Archelaus was reigning in Judea in place of his father Herod, he was afraid to go there. And having been warned in a dream, he withdrew to the district of Galilee,
 <small><sub>**Literal:**</sub></small>
 Having heard now that Archelaus rules upon <the> Judea in place of the father of him Herod he was afraid there to go. having been divinely warned now in a dream he withdrew into the district <the> of Galilee,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.21|<< Matthew 2:21]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.23|Matthew 2:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|Ἀκούσας]]</big>**  |Akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

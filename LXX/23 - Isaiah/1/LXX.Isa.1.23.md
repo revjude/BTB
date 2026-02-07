@@ -1,10 +1,7 @@
 **LXX Isaiah 1:23** 
 <small><sub>**LXX:**</sub></small>
  Your rulers resist persuasion, \[they are\] partners of thieves, loving bribes, pursuing recompense, not arbitrating for orphans, and not heeding equity of widows. 
-<small><sub>**KJV:**</sub></small>
-Thy princes [are] rebellious, and companions of thieves: every one loveth gifts, and followeth after rewards: they judge not the fatherless, neither doth the cause of the widow come unto them.
-<small><sub>**BSB:**</sub></small>
-Your rulers are rebels, friends of thieves. They all love bribes and chasing after rewards. They do not defend the fatherless, and the plea of the widow never comes before them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.22|<< Isaiah 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.24|Isaiah 1:24 >>]]</td></tr></table>
 
 | Translation | Greek |

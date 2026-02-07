@@ -1,4 +1,4 @@
-**Isaiah 22:11** 
+**Isaiah 22:11**<big><big>[[Isa.22.1 The Valley of Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye made also a ditch between the two walls for the water of the old pool: but ye have not looked unto the maker thereof, neither had respect unto him that fashioned it long ago.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You built a reservoir between the walls for the waters of the ancient pool, but 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.10|<< Isaiah 22:10]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.12|Isaiah 22:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a reservoir  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4724\|מִקְוָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mik.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you made  |**<big>&#8207;[[H6213H\|עֲשִׂיתֶ֗ם]]&#8207; </big>**| 'a.si.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

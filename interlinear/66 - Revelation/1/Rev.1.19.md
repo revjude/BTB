@@ -1,12 +1,12 @@
-**Revelation 1:19
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:19**<big><big>[[Rev.1.9 John’s Vision on Patmos|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Write the things which thou hast seen, and the things which are, and the things which shall be hereafter;
 <small><sub>**BSB:**</sub></small>
 Therefore write down the things you have seen, the things that are, and the things that will happen after this.
 <small><sub>**Literal:**</sub></small>
 do write therefore [the things] that you have seen and [the things] that are and [the things] that are about to be after these,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.18|<< Revelation 1:18]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.20|Revelation 1:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do write |**<big>[[G1125\|γράψον]]</big>**  |grapson <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">NO</abbr> | |

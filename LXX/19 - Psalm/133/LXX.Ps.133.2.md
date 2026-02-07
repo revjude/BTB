@@ -1,10 +1,7 @@
 **LXX Psalm 133:2** 
 <small><sub>**LXX:**</sub></small>
 As perfumed liquid upon \[the\] head  going down upon \[the\] beard -- the beard  of Aaron; the going down upon the edge  of his garment; 
-<small><sub>**KJV:**</sub></small>
-[It is] like the precious ointment upon the head, that ran down upon the beard, [even] Aaron’s beard: that went down to the skirts of his garments;
-<small><sub>**BSB:**</sub></small>
-It is like fine oil on the head, running down on the beard, running down Aaron’s beard over the collar of his robes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.133.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.133.1|<< Psalm 133:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.133.3|Psalm 133:3 >>]]</td></tr></table>
 
 | Translation | Greek |

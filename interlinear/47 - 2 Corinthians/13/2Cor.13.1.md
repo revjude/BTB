@@ -1,5 +1,5 @@
-**2 Corinthians 13:1
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 13:1**<big><big>[[2Cor.13.1 Examine Yourselves|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 This [is] the third [time] I am coming to you. In the mouth of two or three witnesses shall every word be established.
 <small><sub>**BSB:**</sub></small>
 This is the third time I am coming to you. “Every matter must be established by the testimony of two or three witnesses.”
@@ -10,7 +10,7 @@ Third this [time] I am coming to you. In [the] mouth of two witnesses or three w
 > $\quad$ referencing: [[LXX.Deut.19.15|Deut 19:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Third |**<big>[[G5154\|Τρίτον]]</big>**  |Triton <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this [time] |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

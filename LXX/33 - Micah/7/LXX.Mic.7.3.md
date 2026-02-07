@@ -1,10 +1,7 @@
 **LXX Micah 7:3** 
 <small><sub>**LXX:**</sub></small>
 they prepare their hands for evil; the ruler asks \[for gifts\], and the judge speaks peaceable words \[for bribes\]. It is \[the\] wish of his soul. 
-<small><sub>**KJV:**</sub></small>
-That they may do evil with both hands earnestly, the prince asketh, and the judge [asketh] for a reward; and the great [man], he uttereth his mischievous desire: so they wrap it up.
-<small><sub>**BSB:**</sub></small>
-Both hands are skilled at evil; the prince and the judge demand a bribe. When the powerful utters his evil desire, they all conspire together.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.2|<< Micah 7:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.4|Micah 7:4 >>]]</td></tr></table>
 
 | Translation | Greek |

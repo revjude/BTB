@@ -1,10 +1,7 @@
 **LXX Isaiah 45:8** 
 <small><sub>**LXX:**</sub></small>
 the heaven above be glad, and let the clouds sprinkle righteousness! the earth arise, and burst forth mercy! And let righteousness burst forth together! I am \[the\] <span class="smallcaps">lord</span>, the one creating you. 
-<small><sub>**KJV:**</sub></small>
-Drop down, ye heavens, from above, and let the skies pour down righteousness: let the earth open, and let them bring forth salvation, and let righteousness spring up together; I the LORD have created it.
-<small><sub>**BSB:**</sub></small>
-Drip down, O heavens, from above, and let the skies pour down righteousness. Let the earth open up that salvation may sprout and righteousness spring up with it; I, the LORD, have created it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.45.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.45.7|<< Isaiah 45:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.45.9|Isaiah 45:9 >>]]</td></tr></table>
 
 | Translation | Greek |

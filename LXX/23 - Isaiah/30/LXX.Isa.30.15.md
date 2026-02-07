@@ -1,10 +1,7 @@
 **LXX Isaiah 30:15** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] Lord, \[the\] <span class="smallcaps">lord</span>, the holy one  of Israel, Whenever turning you should moan, then shall you be delivered. And you shall know where you were when you relied upon the vanities; your strength became vain, and you did not want to hear. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the Lord GOD, the Holy One of Israel; In returning and rest shall ye be saved; in quietness and in confidence shall be your strength: and ye would not.
-<small><sub>**BSB:**</sub></small>
-For the Lord GOD, the Holy One of Israel, has said: “By repentance and rest you would be saved; your strength would lie in quiet confidence—but you were not willing.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.30.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.14|<< Isaiah 30:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.16|Isaiah 30:16 >>]]</td></tr></table>
 
 | Translation | Greek |

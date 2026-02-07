@@ -1,4 +1,4 @@
-**Genesis 15:15** 
+**Genesis 15:15**<big><big>[[Gen.15.8 God Confirms His Promise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt go to thy fathers in peace; thou shalt be buried in a good old age.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You, however, will go to your fathers in peace and be buried at a ripe old age.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.14|<< Genesis 15:14]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.16|Genesis 15:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֛ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will go  |**<big>&#8207;[[H0935G\|תָּב֥וֹא]]&#8207; </big>**| ta.Vo'<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

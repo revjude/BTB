@@ -1,10 +1,7 @@
 **LXX Numbers 22:34** 
 <small><sub>**LXX:**</sub></small>
 And Balaam said to the angel of \[the\] <span class="smallcaps">lord</span>, I have sinned, for I did not have knowledge that you opposed me in the way to meet with me. And now, unless it not be sufficient to you, I shall return. 
-<small><sub>**KJV:**</sub></small>
-And Balaam said unto the angel of the LORD, I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again.
-<small><sub>**BSB:**</sub></small>
-“I have sinned,” Balaam said to the angel of the LORD, “for I did not realize that you were standing in the road to confront me. And now, if this is displeasing in your sight, I will go back home.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.33|<< Numbers 22:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.35|Numbers 22:35 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 45:5** 
+**Jeremiah 45:5**<big><big>[[Jer.45.1 Jeremiah’s Message to Baruch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And seekest thou great things for thyself? seek [them] not: for, behold, I will bring evil upon all flesh, saith the LORD: but thy life will I give unto thee for a prey in all places whither thou goest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But as for you, do you seek great things for yourself? Stop seeking! For I will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.45.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.45.4|<< Jeremiah 45:4]]</td><td align="center" style="border:none;">[[Jer.45|Jeremiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.1|Jeremiah 46:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֛ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you are seeking  |**<big>&#8207;[[H1245\|תְּבַקֶּשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.va.kesh-<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

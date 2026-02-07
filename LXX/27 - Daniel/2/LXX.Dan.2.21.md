@@ -1,10 +1,7 @@
 **LXX Daniel 2:21** 
 <small><sub>**LXX:**</sub></small>
 And he changes seasons and times; he ordains kings, and changes; giving wisdom to the wise, and intelligence to the ones knowing understanding. 
-<small><sub>**KJV:**</sub></small>
-And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding:
-<small><sub>**BSB:**</sub></small>
-He changes the times and seasons; He removes kings and establishes them. He gives wisdom to the wise and knowledge to the discerning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.20|<< Daniel 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.22|Daniel 2:22 >>]]</td></tr></table>
 
 | Translation | Greek |

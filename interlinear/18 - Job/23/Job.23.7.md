@@ -1,4 +1,4 @@
-**Job 23:7** 
+**Job 23:7**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There the righteous might dispute with him; so should I be delivered for ever from my judge.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then an upright man could reason with Him, and I would be delivered forever from
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.6|<< Job 23:6]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.8|Job 23:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֗ם]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | an upright [person]  |**<big>&#8207;[[H3477G\|יָ֭שָׁר]]&#8207; </big>**| Ya.shor<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

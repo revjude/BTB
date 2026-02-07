@@ -1,10 +1,7 @@
 **LXX 2 Samuel 23:9** 
 <small><sub>**LXX:**</sub></small>
 And with him \[is\] Eleazar son of Dodo, son of his uncle among the three  mighty ones, this one was with David in  his berating among the Philistines. And the Philistines gathered together there for war. And \[the\] men of Israel ascended before their face, 
-<small><sub>**KJV:**</sub></small>
-And after him [was] Eleazar the son of Dodo the Ahohite, [one] of the three mighty men with David, when they defied the Philistines [that] were there gathered together to battle, and the men of Israel were gone away:
-<small><sub>**BSB:**</sub></small>
-Next in command was Eleazar son of Dodo the Ahohite. As one of the three mighty men, he went with David to taunt the Philistines who had gathered for battle at Pas-dammim. The men of Israel retreated,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.8|<< 2 Samuel 23:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.10|2 Samuel 23:10 >>]]</td></tr></table>
 
 | Translation | Greek |

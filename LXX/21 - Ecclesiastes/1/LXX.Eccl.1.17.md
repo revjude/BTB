@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 1:17** 
 <small><sub>**LXX:**</sub></small>
 And my heart beheld much wisdom and knowledge, parables, and higher knowledge. For I knew even indeed this is resolve of spirit. 
-<small><sub>**KJV:**</sub></small>
-And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.
-<small><sub>**BSB:**</sub></small>
-So I set my mind to know wisdom and madness and folly; I learned that this, too, is a pursuit of the wind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.16|<< Ecclesiastes 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.18|Ecclesiastes 1:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 20:18** 
 <small><sub>**LXX:**</sub></small>
 And she said, saying, They spoke a word at first, saying, By asking they shall ask in Abel; and thus they ceased. 
-<small><sub>**KJV:**</sub></small>
-Then she spake, saying, They were wont to speak in old time, saying, They shall surely ask [counsel] at Abel: and so they ended [the matter].
-<small><sub>**BSB:**</sub></small>
-Then the woman said, “Long ago they used to say, ‘Seek counsel at Abel,’ and that is how disputes were settled.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.17|<< 2 Samuel 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.19|2 Samuel 20:19 >>]]</td></tr></table>
 
 | Translation | Greek |

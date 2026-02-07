@@ -1,10 +1,7 @@
 **LXX Genesis 32:30** 
 <small><sub>**LXX:**</sub></small>
 And Jacob called the name  of that place, Sight of God. For I saw  God face to face, and my life was delivered. 
-<small><sub>**KJV:**</sub></small>
-And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved.
-<small><sub>**BSB:**</sub></small>
-So Jacob named the place Peniel, saying, “Indeed, I have seen God face to face, and yet my life was spared.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.29|<< Genesis 32:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.31|Genesis 32:31 >>]]</td></tr></table>
 
 | Translation | Greek |

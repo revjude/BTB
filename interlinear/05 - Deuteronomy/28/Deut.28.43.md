@@ -1,4 +1,4 @@
-**Deuteronomy 28:43** 
+**Deuteronomy 28:43**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The stranger that [is] within thee shall get up above thee very high; and thou shalt come down very low.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The foreigner living among you will rise higher and higher above you, while you 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.42|<< Deuteronomy 28:42]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.44|Deuteronomy 28:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the sojourner  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1616\|גֵּר֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ger<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

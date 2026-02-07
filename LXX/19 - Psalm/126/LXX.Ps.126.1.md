@@ -6,10 +6,7 @@ An ode of the steps.
 
 <small><sub>**LXX:**</sub></small>
 In the <span class="smallcaps">lord</span> returning the captivity of Zion, we became as ones comforted. 
-<small><sub>**KJV:**</sub></small>
-A Song of degrees. When the LORD turned again the captivity of Zion, we were like them that dream.
-<small><sub>**BSB:**</sub></small>
-A song of ascents. When the LORD restored the captives of Zion, we were like dreamers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.126.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.125.5|<< Psalm 125:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.126.2|Psalm 126:2 >>]]</td></tr></table>
 
 | Translation | Greek |

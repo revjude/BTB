@@ -1,4 +1,4 @@
-**Zechariah 4:1** 
+**Zechariah 4:1**<big><big>[[Zech.4.1 The Vision of the Lampstand and Olive Trees|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the angel who was speaking with me returned and woke me, as a man is awaken
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.3.10|<< Zechariah 3:10]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.2|Zechariah 4:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּ֕שָׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shov<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the angel  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4397H\|מַּלְאָ֖ךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mal.'Akh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 5:40
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:40**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if any man will sue thee at the law, and take away thy coat, let him have [thy] cloke also.
 <small><sub>**BSB:**</sub></small>
 if someone wants to sue you and take your tunic, let him have your cloak as well;
 <small><sub>**Literal:**</sub></small>
 and to the [one] willing you to sue and the tunic of you to take, do yield to him also the cloak;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.39|<< Matthew 5:39]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.41|Matthew 5:41 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to the [one] |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

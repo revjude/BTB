@@ -1,12 +1,12 @@
-**Mark 6:10
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:10**<big><big>[[Mark.6.7 The Ministry of the Twelve|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, In what place soever ye enter into an house, there abide till ye depart from that place.
 <small><sub>**BSB:**</sub></small>
 And He told them, “When you enter a house, stay there until you leave that area.
 <small><sub>**Literal:**</sub></small>
 And He was saying to them; Wherever maybe you shall enter into a house, there do remain until maybe you may go out from there.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.9|<< Mark 6:9]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.11|Mark 6:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was saying |**<big>[[G3004G\|ἔλεγεν]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

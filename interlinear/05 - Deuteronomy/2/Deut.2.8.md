@@ -1,4 +1,4 @@
-**Deuteronomy 2:8** 
+**Deuteronomy 2:8**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when we passed by from our brethren the children of Esau, which dwelt in Seir, through the way of the plain from Elath, and from Eziongaber, we turned and passed by the way of the wilderness of Moab.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So we passed by our brothers, the descendants of Esau, who live in Seir. We turn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.7|<< Deuteronomy 2:7]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.9|Deuteronomy 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we passed away  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5674A\|נַּעֲבֹ֞ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> na.'a.Vor<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from with  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אֵ֧ת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Et<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

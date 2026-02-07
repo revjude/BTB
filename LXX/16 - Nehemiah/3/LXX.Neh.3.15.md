@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:15** 
 <small><sub>**LXX:**</sub></small>
 And the gate of the spring was safeguarded by Shallum son of Col-hozeh, ruler of part  of Mizpah; he built it, and roofed it, and set  its doors, and its bars, and the wall of the pool  of Siloah to the garden of the king, and unto the stairways of the ones going down from \[the\] city of David. 
-<small><sub>**KJV:**</sub></small>
-But the gate of the fountain repaired Shallun the son of Colhozeh, the ruler of part of Mizpah; he built it, and covered it, and set up the doors thereof, the locks thereof, and the bars thereof, and the wall of the pool of Siloah by the king’s garden, and unto the stairs that go down from the city of David.
-<small><sub>**BSB:**</sub></small>
-The Fountain Gate was repaired by Shallun son of Col-hozeh, ruler of the district of Mizpah. He rebuilt it, roofed it, and installed its doors, bolts, and bars. He also repaired the wall of the Pool of Shelah near the king’s garden, as far as the stairs that descend from the City of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.14|<< Nehemiah 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.16|Nehemiah 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

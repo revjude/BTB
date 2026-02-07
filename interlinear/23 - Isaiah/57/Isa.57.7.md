@@ -1,4 +1,4 @@
-**Isaiah 57:7** 
+**Isaiah 57:7**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Upon a lofty and high mountain hast thou set thy bed: even thither wentest thou up to offer sacrifice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On a high and lofty hill you have made your bed, and there you went up to offer 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.6|<< Isaiah 57:6]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.8|Isaiah 57:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַ֤ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a mountain  |**<big>&#8207;[[H2022G\|הַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| har-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

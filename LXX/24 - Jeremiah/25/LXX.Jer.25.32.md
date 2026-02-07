@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:32** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span> of the forces, Behold, evils come from nation upon nation, and a great tempest goes forth from end of the earth. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts, Behold, evil shall go forth from nation to nation, and a great whirlwind shall be raised up from the coasts of the earth.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD of Hosts says: “Behold! Disaster is spreading from nation to nation; a mighty storm is rising from the ends of the earth.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.31|<< Jeremiah 25:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.33|Jeremiah 25:33 >>]]</td></tr></table>
 
 | Translation | Greek |

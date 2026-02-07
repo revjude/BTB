@@ -1,10 +1,7 @@
 **LXX Ezekiel 27:16** 
 <small><sub>**LXX:**</sub></small>
 of men for your trading from \[the\] multitude  of your consolidation; balsam and purple and linen, and colored \[works\] from out of Tharsis; and Ramoth and Chohor gave  for your market. 
-<small><sub>**KJV:**</sub></small>
-Syria [was] thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate.
-<small><sub>**BSB:**</sub></small>
-Aram was your customer because of your many products; they exchanged turquoise, purple, embroidered work, fine linen, coral, and rubies for your wares.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.27.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.15|<< Ezekiel 27:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.17|Ezekiel 27:17 >>]]</td></tr></table>
 
 | Translation | Greek |

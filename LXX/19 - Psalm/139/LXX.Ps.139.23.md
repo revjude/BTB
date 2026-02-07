@@ -1,10 +1,7 @@
 **LXX Psalm 139:23** 
 <small><sub>**LXX:**</sub></small>
 Try me, O God, and know  my heart! Examine me, and know  my paths! 
-<small><sub>**KJV:**</sub></small>
-Search me, O God, and know my heart: try me, and know my thoughts:
-<small><sub>**BSB:**</sub></small>
-Search me, O God, and know my heart; test me and know my concerns.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.139.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.139.22|<< Psalm 139:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.139.24|Psalm 139:24 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Hebrews 7:14
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:14**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For [it is] evident that our Lord sprang out of Juda; of which tribe Moses spake nothing concerning priesthood.
 <small><sub>**BSB:**</sub></small>
 For it is clear that our Lord descended from Judah, a tribe as to which Moses said nothing about priests.
 <small><sub>**Literal:**</sub></small>
 [It is] evident for that out of Judah has sprung the Lord of us as to which a tribe concerning priests no [thing] Moses spoke.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.13|<< Hebrews 7:13]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.15|Hebrews 7:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [It is] evident |**<big>[[G4271\|πρόδηλον]]</big>**  |prodēlon <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

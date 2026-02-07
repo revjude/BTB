@@ -1,12 +1,12 @@
-**Mark 6:7
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:7**<big><big>[[Mark.6.7 The Ministry of the Twelve|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he called [unto him] the twelve, and began to send them forth by two and two; and gave them power over unclean spirits;
 <small><sub>**BSB:**</sub></small>
 Then Jesus called the Twelve to Him and began to send them out two by two, giving them authority over unclean spirits.
 <small><sub>**Literal:**</sub></small>
 And He calls near the Twelve and He began them to send forth two [by] two and He was gaving to them authority over the spirits <the> unclean<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.6|<< Mark 6:6]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.8|Mark 6:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He calls near |**<big>[[G4341\|προσκαλεῖται]]</big>**  |proskaleitai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

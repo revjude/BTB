@@ -1,4 +1,4 @@
-**Ezekiel 40:7** 
+**Ezekiel 40:7**<big><big>[[Ezek.40.5 The East Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [every] little chamber [was] one reed long, and one reed broad; and between the little chambers [were] five cubits; and the threshold of the gate by the porch of the gate within [was] one reed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each gate chamber was one rod long and one rod wide, and there were five cubits 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.6|<< Ezekiel 40:6]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.8|Ezekiel 40:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the chamber  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8372\|תָּ֗א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Ta'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a reed  |**<big>&#8207;[[H7070H\|קָנֶ֨ה]]&#8207; </big>**| ka.Neh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

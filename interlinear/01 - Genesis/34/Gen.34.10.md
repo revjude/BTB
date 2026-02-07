@@ -1,4 +1,4 @@
-**Genesis 34:10** 
+**Genesis 34:10**<big><big>[[Gen.34.1 The Defiling of Dinah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall dwell with us: and the land shall be before you; dwell and trade ye therein, and get you possessions therein.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You may settle among us, and the land will be open to you. Live here, move about
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.9|<< Genesis 34:9]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.11|Genesis 34:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and with us  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0854\|אִתָּ֖]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.Ta.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will dwell  |**<big>&#8207;[[H3427\|תֵּשֵׁ֑בוּ]]&#8207; </big>**| te.She.vu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

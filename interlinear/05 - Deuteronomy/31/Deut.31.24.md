@@ -1,4 +1,4 @@
-**Deuteronomy 31:24** 
+**Deuteronomy 31:24**<big><big>[[Deut.31.24 The Law Placed in the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Moses had made an end of writing the words of this law in a book, until they were finished,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Moses had finished writing in a book the words of this law from beginning t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.23|<< Deuteronomy 31:23]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.25|Deuteronomy 31:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when finished  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3615G\|כַלּ֣וֹת]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> kha.Lot<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

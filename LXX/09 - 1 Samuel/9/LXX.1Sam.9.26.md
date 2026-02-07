@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:26** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as the dawn ascended, that Samuel called to Saul upon the roof, saying, Rise up! and I shall send you out. And Saul rose up, and he and Samuel went forth unto outside. 
-<small><sub>**KJV:**</sub></small>
-And they arose early: and it came to pass about the spring of the day, that Samuel called Saul to the top of the house, saying, Up, that I may send thee away. And Saul arose, and they went out both of them, he and Samuel, abroad.
-<small><sub>**BSB:**</sub></small>
-They got up early in the morning, and just before dawn Samuel called to Saul on the roof, “Get ready, and I will send you on your way!” So Saul got ready, and both he and Samuel went outside together.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.25|<< 1 Samuel 9:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.27|1 Samuel 9:27 >>]]</td></tr></table>
 
 | Translation | Greek |

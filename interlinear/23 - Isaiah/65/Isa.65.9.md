@@ -1,4 +1,4 @@
-**Isaiah 65:9** 
+**Isaiah 65:9**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring forth a seed out of Jacob, and out of Judah an inheritor of my mountains: and mine elect shall inherit it, and my servants shall dwell there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will bring forth descendants from Jacob, and heirs from Judah; My elect wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.8|<< Isaiah 65:8]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.10|Isaiah 65:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will bring out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318H\|הוֹצֵאתִ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.tze.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Jacob  |**<big>&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H3290\|יַּעֲקֹב֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Revelation 3:18
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:18**<big><big>[[Rev.3.14 To the Church in Laodicea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and [that] the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see.
 <small><sub>**BSB:**</sub></small>
 I counsel you to buy from Me gold refined by fire so that you may become rich, white garments so that you may be clothed and your shameful nakedness not exposed, and salve to anoint your eyes so that you may see.
 <small><sub>**Literal:**</sub></small>
 I counsel you to buy from Me gold refined by fire so that you may be rich, and garments white so that you may be clothed and not may be made manifest the shame of the nakedness of you, and eye-salve so that to anoint the eyes of you so that you may see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.17|<< Revelation 3:17]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.19|Revelation 3:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I counsel |**<big>[[G4823\|συμβουλεύω]]</big>**  |sumbouleuō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|σοι]]</big>**  |soi <small><sup>[[P-2DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

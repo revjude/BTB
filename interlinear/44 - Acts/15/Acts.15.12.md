@@ -1,12 +1,12 @@
-**Acts 15:12
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:12**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then all the multitude kept silence, and gave audience to Barnabas and Paul, declaring what miracles and wonders God had wrought among the Gentiles by them.
 <small><sub>**BSB:**</sub></small>
 The whole assembly fell silent as they listened to Barnabas and Paul describing the signs and wonders God had done among the Gentiles through them.
 <small><sub>**Literal:**</sub></small>
 Kept silent now all the multitude and were listening to Barnabas and Paul relating how much did <the> God signs and wonders among the Gentiles through them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.11|<< Acts 15:11]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.13|Acts 15:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Kept silent |**<big>[[G4601\|ἐσίγησεν]]</big>**  |esigēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

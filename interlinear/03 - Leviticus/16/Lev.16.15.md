@@ -1,4 +1,4 @@
-**Leviticus 16:15** 
+**Leviticus 16:15**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall he kill the goat of the sin offering, that [is] for the people, and bring his blood within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat, and before the mercy seat:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Aaron shall then slaughter the goat for the sin offering for the people and brin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.14|<< Leviticus 16:14]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.16|Leviticus 16:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will cut [the] throat of  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7819A\|שָׁחַ֞ט]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Chat<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

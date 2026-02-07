@@ -1,4 +1,4 @@
-**Joshua 22:26** 
+**Joshua 22:26**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore we said, Let us now prepare to build us an altar, not for burnt offering, nor for sacrifice:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ That is why we said, ‘Let us take action and build an altar for ourselves, but
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.25|<< Joshua 22:25]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.27|Joshua 22:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and we said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|נֹּ֕אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> No.mer<small><sup>[[HVqw1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let us act  |**<big>&#8207;[[H6213H\|נַעֲשֶׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| na.'a.seh-<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

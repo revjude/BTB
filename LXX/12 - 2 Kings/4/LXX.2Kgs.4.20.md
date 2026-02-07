@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:20** 
 <small><sub>**LXX:**</sub></small>
 And he lifted him, and he carried him in to  his mother, and he laid him down to rest upon  her knees until midday, and he died. 
-<small><sub>**KJV:**</sub></small>
-And when he had taken him, and brought him to his mother, he sat on her knees till noon, and [then] died.
-<small><sub>**BSB:**</sub></small>
-After the servant had picked him up and carried him to his mother, the boy sat on her lap until noon, and then he died.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.19|<< 2 Kings 4:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.21|2 Kings 4:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Kings 4:20** is...

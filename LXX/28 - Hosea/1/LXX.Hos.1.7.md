@@ -1,10 +1,7 @@
 **LXX Hosea 1:7** 
 <small><sub>**LXX:**</sub></small>
 But the sons of Judah I will show mercy on, and I will deliver them by \[the\] <span class="smallcaps">lord</span> their God, and I will not deliver them by bow, nor by broadsword, nor by battle, nor by horses, nor by horsemen. 
-<small><sub>**KJV:**</sub></small>
-But I will have mercy upon the house of Judah, and will save them by the LORD their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.
-<small><sub>**BSB:**</sub></small>
-Yet I will have compassion on the house of Judah, and I will save them—not by bow or sword or war, not by horses and cavalry, but by the LORD their God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.1.6|<< Hosea 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.1.8|Hosea 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

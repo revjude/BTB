@@ -1,10 +1,7 @@
 **LXX Jeremiah 26:18** 
 <small><sub>**LXX:**</sub></small>
 Micah the Morasthite was a prophet in the days of Hezekiah king of Judah, and he spoke to all the people of Judah, saying, Thus said \[the\] <span class="smallcaps">lord</span> of the forces; Zion shall be plowed as a field, and Jerusalem will be for a storehouse of fruits, and the mountain of the house \[shall be turned\] into a sacred grove. 
-<small><sub>**KJV:**</sub></small>
-Micah the Morasthite prophesied in the days of Hezekiah king of Judah, and spake to all the people of Judah, saying, Thus saith the LORD of hosts; Zion shall be plowed [like] a field, and Jerusalem shall become heaps, and the mountain of the house as the high places of a forest.
-<small><sub>**BSB:**</sub></small>
-“Micah the Moreshite prophesied in the days of Hezekiah king of Judah and told all the people of Judah that this is what the LORD of Hosts says: ‘Zion will be plowed like a field, Jerusalem will become a heap of rubble, and the temple mount a wooded ridge.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.26.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.26.17|<< Jeremiah 26:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.26.19|Jeremiah 26:19 >>]]</td></tr></table>
 
 | Translation | Greek |

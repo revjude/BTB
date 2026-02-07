@@ -1,10 +1,7 @@
 **LXX Amos 5:25** 
 <small><sub>**LXX:**</sub></small>
 Did you bring near to me victims for slaughter and sacrifices, O house of Israel, for forty years in the wilderness? 
-<small><sub>**KJV:**</sub></small>
-Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel?
-<small><sub>**BSB:**</sub></small>
-Did you bring Me sacrifices and offerings forty years in the wilderness, O house of Israel?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.24|<< Amos 5:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.26|Amos 5:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Amos 5:25** is...

@@ -1,10 +1,7 @@
 **LXX Micah 6:16** 
 <small><sub>**LXX:**</sub></small>
 \[For\] you kept the ordinances of Omri, and all the works of \[the\] house of Ahab. And you went by  their plans, so that I should deliver you unto extinction, and the ones dwelling her for a hissing; and you shall receive scorn of peoples. 
-<small><sub>**KJV:**</sub></small>
-For the statutes of Omri are kept, and all the works of the house of Ahab, and ye walk in their counsels; that I should make thee a desolation, and the inhabitants thereof an hissing: therefore ye shall bear the reproach of my people.
-<small><sub>**BSB:**</sub></small>
-You have kept the statutes of Omri and all the practices of Ahab’s house; you have followed their counsel. Therefore I will make you a desolation, and your inhabitants an object of contempt; you will bear the scorn of the nations.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.15|<< Micah 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.1|Micah 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

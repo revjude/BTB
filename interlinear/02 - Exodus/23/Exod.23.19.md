@@ -1,4 +1,4 @@
-**Exodus 23:19** 
+**Exodus 23:19**<big><big>[[Exod.23.14 The Three Feasts of Pilgrimage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The first of the firstfruits of thy land thou shalt bring into the house of the LORD thy God. Thou shalt not seethe a kid in his mother’s milk.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bring the best of the firstfruits of your soil to the house of the LORD your God
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.18|<< Exodus 23:18]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.20|Exodus 23:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] beginning of  |**<big>&#8207;[[H7225H\|רֵאשִׁ֗ית]]&#8207; </big>**| re.Shit<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] first-fruits of  |**<big>&#8207;[[H1061\|בִּכּוּרֵי֙]]&#8207; </big>**| bi.ku.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

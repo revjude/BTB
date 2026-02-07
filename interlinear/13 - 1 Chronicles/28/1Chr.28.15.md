@@ -1,4 +1,4 @@
-**1 Chronicles 28:15** 
+**1 Chronicles 28:15**<big><big>[[1Chr.28.11 The Plans for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even the weight for the candlesticks of gold, and for their lamps of gold, by weight for every candlestick, and for the lamps thereof: and for the candlesticks of silver by weight, [both] for the candlestick, and [also] for the lamps thereof, according to the use of every candlestick.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the weight of the gold lampstands and their lamps, including the weight of each 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.14|<< 1 Chronicles 28:14]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.16|1 Chronicles 28:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] weight  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4948\|מִשְׁקָ֞ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.Kal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of [the] lampstands of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H4501\|מְנֹר֣וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> m.no.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

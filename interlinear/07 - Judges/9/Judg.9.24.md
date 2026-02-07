@@ -1,4 +1,4 @@
-**Judges 9:24** 
+**Judges 9:24**<big><big>[[Judg.9.22 Gaal Conspires with the Shechemites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the cruelty [done] to the threescore and ten sons of Jerubbaal might come, and their blood be laid upon Abimelech their brother, which slew them; and upon the men of Shechem, which aided him in the killing of his brethren.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ in order that the crime against the seventy sons of Jerubbaal might come to just
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.23|<< Judges 9:23]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.25|Judges 9:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to come  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0935G\|ב֕וֹא]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] violence of  |**<big>&#8207;[[H2555\|חֲמַ֖ס]]&#8207; </big>**| cha.Mas<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

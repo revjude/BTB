@@ -1,4 +1,4 @@
-**Deuteronomy 28:44** 
+**Deuteronomy 28:44**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will lend to you, but you will not lend to him. He will be the head, and you 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.43|<< Deuteronomy 28:43]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.45|Deuteronomy 28:45 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1931\|ה֣וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will lend to you  |**<big>&#8207;[[H3867B\|יַלְוְ]]&#8207;&#8207;[[H9031\|ךָ֔]]&#8207; </big>**| yal.ve.<small><sup>[[HVhi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

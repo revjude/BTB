@@ -1,10 +1,7 @@
 **LXX Judges 2:12** 
 <small><sub>**LXX:**</sub></small>
 And they abandoned \[the\] <span class="smallcaps">lord</span>  God  of their fathers, the one leading them out of \[the\] land of Egypt, and they went after other gods of the gods of the peoples  surrounding them; and they did obeisance to them, and the <span class="smallcaps">lord</span> to anger. 
-<small><sub>**KJV:**</sub></small>
-And they forsook the LORD God of their fathers, which brought them out of the land of Egypt, and followed other gods, of the gods of the people that [were] round about them, and bowed themselves unto them, and provoked the LORD to anger.
-<small><sub>**BSB:**</sub></small>
-Thus they forsook the LORD, the God of their fathers, who had brought them out of the land of Egypt, and they followed after various gods of the peoples around them. They bowed down to them and provoked the LORD to anger,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.11|<< Judges 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.13|Judges 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 20:4** 
+**Numbers 20:4**<big><big>[[Num.20.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And why have ye brought up the congregation of the LORD into this wilderness, that we and our cattle should die there?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why have you brought the LORD’s assembly into this wilderness for us and our l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.3|<< Numbers 20:3]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.5|Numbers 20:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<to> why?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H4100\|מָ֤ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> Mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | have you brought  |**<big>&#8207;[[H0935P\|הֲבֵאתֶם֙]]&#8207; </big>**| ha.ve.Tem<small><sup>[[HVhp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

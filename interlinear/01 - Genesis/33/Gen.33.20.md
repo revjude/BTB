@@ -1,4 +1,4 @@
-**Genesis 33:20** 
+**Genesis 33:20**<big><big>[[Gen.33.18 Jacob Settles in Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he erected there an altar, and called it EleloheIsrael.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There he set up an altar and called it El-Elohe-Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.19|<< Genesis 33:19]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.1|Genesis 34:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he set up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5324\|יַּצֶּב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.tzev-<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֖ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 18:3** 
+**Numbers 18:3**<big><big>[[Num.18.1 Duties of Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall keep thy charge, and the charge of all the tabernacle: only they shall not come nigh the vessels of the sanctuary and the altar, that neither they, nor ye also, die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they shall attend to your duties and to all the duties of the Tent; but they
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.2|<< Numbers 18:2]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.4|Numbers 18:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will keep  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8104H\|שָֽׁמְרוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.me.Ru<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | service your  |**<big>&#8207;[[H4931\|מִֽשְׁמַרְתְּ]]&#8207;&#8207;[[H9021\|ךָ֔]]&#8207; </big>**| mish.mar.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

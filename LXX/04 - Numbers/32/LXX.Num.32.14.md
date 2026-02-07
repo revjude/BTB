@@ -1,10 +1,7 @@
 **LXX Numbers 32:14** 
 <small><sub>**LXX:**</sub></small>
 Behold, you rose up in place of  your fathers, a confederation of men of sinners to add still unto the rage of the anger of \[the\] <span class="smallcaps">lord</span> against  Israel, 
-<small><sub>**KJV:**</sub></small>
-And, behold, ye are risen up in your fathers’ stead, an increase of sinful men, to augment yet the fierce anger of the LORD toward Israel.
-<small><sub>**BSB:**</sub></small>
-Now behold, you, a brood of sinners, have risen up in place of your fathers to further stoke the burning anger of the LORD against Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.13|<< Numbers 32:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.15|Numbers 32:15 >>]]</td></tr></table>
 
 | Translation | Greek |

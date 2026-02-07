@@ -1,4 +1,4 @@
-**Ezekiel 44:11** 
+**Ezekiel 44:11**<big><big>[[Ezek.44.6 Reproof of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet they shall be ministers in my sanctuary, [having] charge at the gates of the house, and ministering to the house: they shall slay the burnt offering and the sacrifice for the people, and they shall stand before them to minister unto them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet they shall be ministers in My sanctuary, having charge of the gates of the t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.10|<< Ezekiel 44:10]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.12|Ezekiel 44:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָי֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in sanctuary my  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H4720\|מִקְדָּשִׁ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> mik.da.Sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

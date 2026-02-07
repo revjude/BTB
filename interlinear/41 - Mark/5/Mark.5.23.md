@@ -1,12 +1,12 @@
-**Mark 5:23
-**<small><sub>**KJV:**</sub></small>
+**Mark 5:23**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And besought him greatly, saying, My little daughter lieth at the point of death: [I pray thee], come and lay thy hands on her, that she may be healed; and she shall live.
 <small><sub>**BSB:**</sub></small>
 and pleaded with Him urgently, “My little daughter is near death. Please come and place Your hands on her, so that she will be healed and live.”
 <small><sub>**Literal:**</sub></small>
 and he begs Him much saying that The little daughter of mine at the end is holding, that having come may you lay the hands on her so that she may be cured and she may live.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.22|<< Mark 5:22]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.24|Mark 5:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he begs [^1] |**<big>[[G3870\|παρακαλεῖ]]</big>**  |parakalei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+SBL+WH+Treg">N(k)O</abbr> | |

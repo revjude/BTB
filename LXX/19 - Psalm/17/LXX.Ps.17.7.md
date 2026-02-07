@@ -1,10 +1,7 @@
 **LXX Psalm 17:7** 
 <small><sub>**LXX:**</sub></small>
 Show the wonder  of your mercies! O one delivering the ones hoping upon you, from the ones opposing \[at\] your right. 
-<small><sub>**KJV:**</sub></small>
-Shew thy marvellous lovingkindness, O thou that savest by thy right hand them which put their trust [in thee] from those that rise up [against them].
-<small><sub>**BSB:**</sub></small>
-Show the wonders of Your loving devotion, You who save by Your right hand those who seek refuge from their foes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.17.6|<< Psalm 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.17.8|Psalm 17:8 >>]]</td></tr></table>
 
 | Translation | Greek |

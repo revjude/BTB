@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] king of Babylon gave reign to  Mattaniah brother  of his father instead of him. And he placed \[the\] name Zedekiah to him. 
-<small><sub>**KJV:**</sub></small>
-And the king of Babylon made Mattaniah his father’s brother king in his stead, and changed his name to Zedekiah.
-<small><sub>**BSB:**</sub></small>
-Then the king of Babylon made Mattaniah, Jehoiachin’s uncle, king in his place and changed his name to Zedekiah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.24.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.16|<< 2 Kings 24:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.24.18|2 Kings 24:18 >>]]</td></tr></table>
 
 | Translation | Greek |

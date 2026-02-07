@@ -1,4 +1,4 @@
-**2 Chronicles 6:11** 
+**2 Chronicles 6:11**<big><big>[[2Chr.6.1 Solomon Blesses the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in it have I put the ark, wherein [is] the covenant of the LORD, that he made with the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And there I have placed the ark, which contains the covenant of the LORD that He
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.10|<< 2 Chronicles 6:10]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.12|2 Chronicles 6:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I have put  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7760A\|אָשִׂ֥ים]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Sim<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there  |**<big>&#8207;[[H8033G\|שָׁם֙]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

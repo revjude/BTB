@@ -1,10 +1,7 @@
 **LXX Leviticus 23:18** 
 <small><sub>**LXX:**</sub></small>
 And you shall bring with the bread loaves seven unblemished lambs of a year \[old\], and one calf of \[the\] herd, and two unblemished rams. And they shall be a whole burnt-offering to the <span class="smallcaps">lord</span>, and  their sacrifice \[offerings\], and  their libations, a sacrifice scent of pleasant aroma to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And ye shall offer with the bread seven lambs without blemish of the first year, and one young bullock, and two rams: they shall be [for] a burnt offering unto the LORD, with their meat offering, and their drink offerings, [even] an offering made by fire, of sweet savour unto the LORD.
-<small><sub>**BSB:**</sub></small>
-Along with the bread you are to present seven unblemished male lambs a year old, one young bull, and two rams. They will be a burnt offering to the LORD, together with their grain offerings and drink offerings—a food offering, a pleasing aroma to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.17|<< Leviticus 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.19|Leviticus 23:19 >>]]</td></tr></table>
 
 | Translation | Greek |

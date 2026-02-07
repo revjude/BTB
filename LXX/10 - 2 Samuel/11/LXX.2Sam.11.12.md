@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:12** 
 <small><sub>**LXX:**</sub></small>
 And David said to  Uriah, Stay here also today! and tomorrow I will send you. And Uriah stayed in Jerusalem on  that day, and the next day. 
-<small><sub>**KJV:**</sub></small>
-And David said to Uriah, Tarry here to day also, and to morrow I will let thee depart. So Uriah abode in Jerusalem that day, and the morrow.
-<small><sub>**BSB:**</sub></small>
-“Stay here one more day,” David said to Uriah, “and tomorrow I will send you back.” So Uriah stayed in Jerusalem that day and the next.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.11|<< 2 Samuel 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.13|2 Samuel 11:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Leviticus 9:5** 
 <small><sub>**LXX:**</sub></small>
 And they took as Moses gave charge before the tent of the testimony. And came forward all \[the\] congregation, and they stood before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And they brought [that] which Moses commanded before the tabernacle of the congregation: and all the congregation drew near and stood before the LORD.
-<small><sub>**BSB:**</sub></small>
-So they took what Moses had commanded to the front of the Tent of Meeting, and the whole congregation drew near and stood before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.4|<< Leviticus 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.6|Leviticus 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

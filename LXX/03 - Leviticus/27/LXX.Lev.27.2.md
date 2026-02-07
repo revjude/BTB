@@ -1,10 +1,7 @@
 **LXX Leviticus 27:2** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! And you shall say unto them, A man who ever should vow a vow for a value  of his life to the <span class="smallcaps">lord</span>, 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, and say unto them, When a man shall make a singular vow, the persons [shall be] for the LORD by thy estimation.
-<small><sub>**BSB:**</sub></small>
-“Speak to the Israelites and say to them, ‘When someone makes a special vow to the LORD involving the value of persons,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.1|<< Leviticus 27:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.3|Leviticus 27:3 >>]]</td></tr></table>
 
 | Translation | Greek |

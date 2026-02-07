@@ -1,10 +1,7 @@
 **LXX Joshua 1:7** 
 <small><sub>**LXX:**</sub></small>
 Be strong then and manly! to guard and to do in so far as I gave charge  Moses  my servant. And do not turn aside from them to \[the\] right or to \[the\] left! that you should perceive in all what ever you should act on. 
-<small><sub>**KJV:**</sub></small>
-Only be thou strong and very courageous, that thou mayest observe to do according to all the law, which Moses my servant commanded thee: turn not from it [to] the right hand or [to] the left, that thou mayest prosper whithersoever thou goest.
-<small><sub>**BSB:**</sub></small>
-Above all, be strong and very courageous. Be careful to observe all the law that My servant Moses commanded you. Do not turn from it to the right or to the left, so that you may prosper wherever you go.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.6|<< Joshua 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.8|Joshua 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

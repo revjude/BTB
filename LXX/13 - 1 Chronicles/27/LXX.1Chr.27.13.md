@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 27:13** 
 <small><sub>**LXX:**</sub></small>
 The tenth \[ruler\] for the tenth month \[was\] Maharai the one of Netopha to the Zarhites; and in  his division \[were\] twenty and four thousand. 
-<small><sub>**KJV:**</sub></small>
-The tenth [captain] for the tenth month [was] Maharai the Netophathite, of the Zarhites: and in his course [were] twenty and four thousand.
-<small><sub>**BSB:**</sub></small>
-The tenth, for the tenth month, was Maharai the Netophathite, a Zerahite. There were 24,000 men in his division.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.27.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.27.12|<< 1 Chronicles 27:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.27.14|1 Chronicles 27:14 >>]]</td></tr></table>
 
 | Translation | Greek |

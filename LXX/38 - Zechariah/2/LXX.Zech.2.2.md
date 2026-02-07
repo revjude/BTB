@@ -1,10 +1,7 @@
 **LXX Zechariah 2:2** 
 <small><sub>**LXX:**</sub></small>
 And I said to him, Where do you go? And he said to me,  To measure out  Jerusalem, and to see how great the width of it is, and how great the length. 
-<small><sub>**KJV:**</sub></small>
-Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to see what [is] the breadth thereof, and what [is] the length thereof.
-<small><sub>**BSB:**</sub></small>
-“Where are you going?” I asked. “To measure Jerusalem,” he replied, “and to determine its width and length.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.2.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.2.1|<< Zechariah 2:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.3|Zechariah 2:3 >>]]</td></tr></table>
 
 | Translation | Greek |

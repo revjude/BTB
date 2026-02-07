@@ -1,4 +1,4 @@
-**Genesis 37:11** 
+**Genesis 37:11**<big><big>[[Gen.37.1 Joseph’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his brethren envied him; but his father observed the saying.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And his brothers were jealous of him, but his father kept in mind what he had sa
 > $\quad$ referenced by: [[Acts.7.9|Acts 7:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were jealous  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7065\|יְקַנְאוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.kan.'u-<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of him  |**<big>&#8207;[[H9003\|ב֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| v<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

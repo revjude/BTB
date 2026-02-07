@@ -1,12 +1,12 @@
-**Luke 1:74
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:74**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear,
 <small><sub>**BSB:**</sub></small>
 deliverance from hostile hands, that we may serve Him without fear,
 <small><sub>**Literal:**</sub></small>
 without fear from [the] hand of the enemies of us having been saved to serve Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.73|<< Luke 1:73]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.75|Luke 1:75 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | without fear |**<big>[[G0870\|ἀφόβως]]</big>**  |aphobōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

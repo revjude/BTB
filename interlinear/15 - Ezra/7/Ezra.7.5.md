@@ -1,4 +1,4 @@
-**Ezra 7:5** 
+**Ezra 7:5**<big><big>[[Ezra.7.1 Ezra Arrives in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.4|<< Ezra 7:4]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.6|Ezra 7:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abishua  |**<big>&#8207;[[H0050G\|אֲבִישׁ֗וּעַ]]&#8207; </big>**| 'a.vi.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

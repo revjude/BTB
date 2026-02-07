@@ -1,12 +1,12 @@
-**Philippians 2:7
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:7**<big><big>[[Phil.2.5 The Mind of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:
 <small><sub>**BSB:**</sub></small>
 but emptied Himself, taking the form of a servant, being made in human likeness.
 <small><sub>**Literal:**</sub></small>
 but Himself emptied [the] form of a servant having taken, in [the] likeness of men having been made, [8] And in appearance having been found as a man<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.6|<< Philippians 2:6]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.8|Philippians 2:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Himself |**<big>[[G1438\|ἑαυτὸν]]</big>**  |he'auton <small><sup>[[F-3ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

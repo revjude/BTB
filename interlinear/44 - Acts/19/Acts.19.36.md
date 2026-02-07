@@ -1,12 +1,12 @@
-**Acts 19:36
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:36**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Seeing then that these things cannot be spoken against, ye ought to be quiet, and to do nothing rashly.
 <small><sub>**BSB:**</sub></small>
 Since these things are undeniable, you ought to be calm and not do anything rash.
 <small><sub>**Literal:**</sub></small>
 Undeniable therefore are being these things necessary it is for you quietened to be and nothing rash to do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.35|<< Acts 19:35]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.37|Acts 19:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Undeniable |**<big>[[G0368\|ἀναντιρρήτων]]</big>**  [^1] |anantirrētōn <small><sup>[[A-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

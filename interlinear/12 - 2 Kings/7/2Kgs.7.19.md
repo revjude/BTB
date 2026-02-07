@@ -1,4 +1,4 @@
-**2 Kings 7:19** 
+**2 Kings 7:19**<big><big>[[2Kgs.7.16 Elisha’s Prophecy Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that lord answered the man of God, and said, Now, behold, [if] the LORD should make windows in heaven, might such a thing be? And he said, Behold, thou shalt see it with thine eyes, but shalt not eat thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the officer had answered the man of God, “Look, even if the LORD were to m
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.18|<< 2 Kings 7:18]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.20|2 Kings 7:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he had answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֨עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the officer  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7991C\|שָּׁלִ֜ישׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Lish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 23:17
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:17**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Paul called one of the centurions unto [him], and said, Bring this young man unto the chief captain: for he hath a certain thing to tell him.
 <small><sub>**BSB:**</sub></small>
 Then Paul called one of the centurions and said, “Take this young man to the commander; he has something to tell him.”
 <small><sub>**Literal:**</sub></small>
 Having called to [him] then <the> Paul one of the centurions he was saying; <the> young man this do take to the commander; he has for to report something to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.16|<< Acts 23:16]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.18|Acts 23:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having called to [him] |**<big>[[G4341\|προσκαλεσάμενος]]</big>**  |proskalesamenos <small><sup>[[V-ADP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

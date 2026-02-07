@@ -1,5 +1,5 @@
-**Matthew 28:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:18**<big><big>[[Matt.28.16 The Great Commission|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.
 <small><sub>**BSB:**</sub></small>
 Then Jesus came to them and said, “All authority in heaven and on earth has been given to Me.
@@ -10,7 +10,7 @@ And having come to [them] <the> Jesus spoke to them saying; Has been given to Me
 > $\quad$ alluding to: [[LXX.Dan.7.14|Dan 7:14]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having come to [them] |**<big>[[G4334\|προσελθὼν]]</big>**  |proselthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 50:20** 
 <small><sub>**LXX:**</sub></small>
 You planned concerning me for evil,  but God planned concerning me for good, that  it should be as \[it is\] today, that he might maintain many people. 
-<small><sub>**KJV:**</sub></small>
-But as for you, ye thought evil against me; [but] God meant it unto good, to bring to pass, as [it is] this day, to save much people alive.
-<small><sub>**BSB:**</sub></small>
-As for you, what you intended against me for evil, God intended for good, in order to accomplish a day like this—to preserve the lives of many people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.50.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.19|<< Genesis 50:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.21|Genesis 50:21 >>]]</td></tr></table>
 
 | Translation | Greek |

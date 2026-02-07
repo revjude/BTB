@@ -1,10 +1,7 @@
 **LXX Micah 6:10** 
 <small><sub>**LXX:**</sub></small>
 \[Is there\] not fire, and \[the\] house of the lawless one treasuring up treasures of lawless deeds, and with unrighteous insolence? 
-<small><sub>**KJV:**</sub></small>
-Are there yet the treasures of wickedness in the house of the wicked, and the scant measure [that is] abominable?
-<small><sub>**BSB:**</sub></small>
-Can I forget any longer, O house of the wicked, the treasures of wickedness and the short ephah, which is accursed?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.6.9|<< Micah 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.6.11|Micah 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

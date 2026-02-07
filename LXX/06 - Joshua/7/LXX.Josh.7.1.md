@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel trespassed a trespass, and pilfered from the offering for consumption. And Achan took (son of Carmi, son of Zabdi, son of Zerah, from the tribe of Judah) from the offering for consumption. And \[the\] anger of \[the\] <span class="smallcaps">lord</span> was enraged with the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the LORD was kindled against the children of Israel.
-<small><sub>**BSB:**</sub></small>
-The Israelites, however, acted unfaithfully regarding the things devoted to destruction. Achan son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took some of what was set apart. So the anger of the LORD burned against the Israelites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.27|<< Joshua 6:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.7.2|Joshua 7:2 >>]]</td></tr></table>
 
 | Translation | Greek |

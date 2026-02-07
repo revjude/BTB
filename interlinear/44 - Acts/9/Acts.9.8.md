@@ -1,12 +1,12 @@
-**Acts 9:8
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:8**<big><big>[[Acts.9.1 The Road to Damascus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Saul arose from the earth; and when his eyes were opened, he saw no man: but they led him by the hand, and brought [him] into Damascus.
 <small><sub>**BSB:**</sub></small>
 Saul got up from the ground, but when he opened his eyes he could not see a thing. So they led him by the hand into Damascus.
 <small><sub>**Literal:**</sub></small>
 Rose up then <the> Saul from the ground, opened however the eyes of him no [thing] he was seeing; Leading by the hand then him they brought [him] to Damascus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.7|<< Acts 9:7]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.9|Acts 9:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Rose up |**<big>[[G1453\|ἠγέρθη]]</big>**  |ēgerthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

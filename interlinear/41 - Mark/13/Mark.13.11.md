@@ -1,12 +1,12 @@
-**Mark 13:11
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:11**<big><big>[[Mark.13.9 Witnessing to All Nations|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when they shall lead [you], and deliver you up, take no thought beforehand what ye shall speak, neither do ye premeditate: but whatsoever shall be given you in that hour, that speak ye: for it is not ye that speak, but the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 But when they arrest you and hand you over, do not worry beforehand what to say. Instead, speak whatever you are given at that time, for it will not be you speaking, but the Holy Spirit.
 <small><sub>**Literal:**</sub></small>
 And when now they may lead away you delivering [you] up, not do be anxious beforehand what you may say nor do devise; but whatever if shall be given to you in that [very] <the> hour, that do speak; not for are you yourselves those speaking but the Spirit <the> Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.10|<< Mark 13:10]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.12|Mark 13:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |
 | when |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Numbers 32:16** 
 <small><sub>**LXX:**</sub></small>
 And they came forward to him, and said, Properties for flocks we shall build here for our cattle, and cities \[for\] our chattel. 
-<small><sub>**KJV:**</sub></small>
-And they came near unto him, and said, We will build sheepfolds here for our cattle, and cities for our little ones:
-<small><sub>**BSB:**</sub></small>
-Then the Gadites and Reubenites approached Moses and said, “We want to build sheepfolds here for our livestock and cities for our little ones.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.15|<< Numbers 32:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.17|Numbers 32:17 >>]]</td></tr></table>
 
 | Translation | Greek |

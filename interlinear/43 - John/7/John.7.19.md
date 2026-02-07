@@ -1,12 +1,12 @@
-**John 7:19
-**<small><sub>**KJV:**</sub></small>
+**John 7:19**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Did not Moses give you the law, and [yet] none of you keepeth the law? Why go ye about to kill me?
 <small><sub>**BSB:**</sub></small>
 Has not Moses given you the law? Yet not one of you keeps it. Why are you trying to kill Me?”
 <small><sub>**Literal:**</sub></small>
 Not Moses has given to you the law? and no [one] of you keeps the law! Why Me do you seek to kill?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.18|<< John 7:18]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.20|John 7:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Moses |**<big>[[G3475\|Μωϋσῆς]]</big>**  [^1] |Mōusēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

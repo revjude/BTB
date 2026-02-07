@@ -1,4 +1,4 @@
-**Psalms 10:10** 
+**Psalms 10:10**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He croucheth, [and] humbleth himself, that the poor may fall by his strong ones.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are crushed and beaten down; the helpless fall prey to his strength.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.9|<< Psalms 10:9]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.11|Psalms 10:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he is crushed  [^1]|**<big>&#8207;[[H1794\|יִדְכֶּ֥ה]]&#8207; </big>**[^2] | va.da.khah<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | he is bowed down  |**<big>&#8207;[[H7817\|יָשֹׁ֑חַ]]&#8207; </big>**| ya.Sho.ach<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

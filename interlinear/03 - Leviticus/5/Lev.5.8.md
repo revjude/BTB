@@ -1,4 +1,4 @@
-**Leviticus 5:8** 
+**Leviticus 5:8**<big><big>[[Lev.5.1 Sins Requiring a Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall bring them unto the priest, who shall offer [that] which [is] for the sin offering first, and wring off his head from his neck, but shall not divide [it] asunder:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is to bring them to the priest, who shall first present the one for the sin o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.7|<< Leviticus 5:7]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.9|Leviticus 5:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will bring  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0935P\|הֵבִ֤יא]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Vi'<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

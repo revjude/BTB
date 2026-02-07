@@ -1,10 +1,7 @@
 **LXX Leviticus 14:31** 
 <small><sub>**LXX:**</sub></small>
 the one for a sin \[offering\], and the one for a whole burnt-offering with the sacrifice \[offering\]. And the priest shall atone for the one being cleansed before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-[Even] such as he is able to get, the one [for] a sin offering, and the other [for] a burnt offering, with the meat offering: and the priest shall make an atonement for him that is to be cleansed before the LORD.
-<small><sub>**BSB:**</sub></small>
-one as a sin offering and the other as a burnt offering, together with the grain offering. In this way the priest will make atonement before the LORD for the one to be cleansed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.30|<< Leviticus 14:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.32|Leviticus 14:32 >>]]</td></tr></table>
 
 | Translation | Greek |

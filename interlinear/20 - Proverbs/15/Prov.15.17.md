@@ -1,4 +1,4 @@
-**Proverbs 15:17** 
+**Proverbs 15:17**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Better [is] a dinner of herbs where love is, than a stalled ox and hatred therewith.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Better a dish of vegetables where there is love than a fattened ox with hatred.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.16|<< Proverbs 15:16]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.18|Proverbs 15:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֤וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a portion of  |**<big>&#8207;[[H0737\|אֲרֻחַ֣ת]]&#8207; </big>**| 'a.ru.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

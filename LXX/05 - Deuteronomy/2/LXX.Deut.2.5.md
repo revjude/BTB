@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:5** 
 <small><sub>**LXX:**</sub></small>
 You shall not join against them \[for\] war, for not in any way will I give to you of  their land, nor a stool \[for your\] foot; for by lot I have given \[to\] Esau  mount  Seir. 
-<small><sub>**KJV:**</sub></small>
-Meddle not with them; for I will not give you of their land, no, not so much as a foot breadth; because I have given mount Seir unto Esau [for] a possession.
-<small><sub>**BSB:**</sub></small>
-Do not provoke them, for I will not give you any of their land, not even a footprint, because I have given Mount Seir to Esau as his possession.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.4|<< Deuteronomy 2:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.6|Deuteronomy 2:6 >>]]</td></tr></table>
 
 | Translation | Greek |

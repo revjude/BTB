@@ -1,10 +1,7 @@
 **LXX Jeremiah 35:14** 
 <small><sub>**LXX:**</sub></small>
 \[The\] sons of Jonadab son of Rechab established \[the\] word, the one given charge \[to\] his children to  not drink wine; and they drank not unto  this day, for they hearkened to the command  of their father. And I spoke to you early, and I spoke and you did not hearken. 
-<small><sub>**KJV:**</sub></small>
-The words of Jonadab the son of Rechab, that he commanded his sons not to drink wine, are performed; for unto this day they drink none, but obey their father’s commandment: notwithstanding I have spoken unto you, rising early and speaking; but ye hearkened not unto me.
-<small><sub>**BSB:**</sub></small>
-The words of Jonadab son of Rechab have been carried out. He commanded his sons not to drink wine, and they have not drunk it to this very day because they have obeyed the command of their forefather. But I have spoken to you again and again, and you have not obeyed Me!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.35.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.35.13|<< Jeremiah 35:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.35.15|Jeremiah 35:15 >>]]</td></tr></table>
 
 | Translation | Greek |

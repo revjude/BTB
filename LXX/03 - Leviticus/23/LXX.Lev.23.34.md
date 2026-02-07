@@ -1,10 +1,7 @@
 **LXX Leviticus 23:34** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! saying, The fifteenth of the seventh month, this \[is\] a holiday of tents seven days to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, saying, The fifteenth day of this seventh month [shall be] the feast of tabernacles [for] seven days unto the LORD.
-<small><sub>**BSB:**</sub></small>
-“Speak to the Israelites and say, ‘On the fifteenth day of the seventh month the Feast of Tabernacles to the LORD begins, and it continues for seven days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.33|<< Leviticus 23:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.35|Leviticus 23:35 >>]]</td></tr></table>
 
 | Translation | Greek |

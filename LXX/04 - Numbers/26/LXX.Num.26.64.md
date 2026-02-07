@@ -1,10 +1,7 @@
 **LXX Numbers 26:64** 
 <small><sub>**LXX:**</sub></small>
 And among these there was not a man of the ones being numbered by Moses and Aaron whom they numbered \[being\] of the sons of Israel in the wilderness of Sinai. 
-<small><sub>**KJV:**</sub></small>
-But among these there was not a man of them whom Moses and Aaron the priest numbered, when they numbered the children of Israel in the wilderness of Sinai.
-<small><sub>**BSB:**</sub></small>
-Among all these, however, there was not one who had been numbered by Moses and Aaron the priest when they counted the Israelites in the Wilderness of Sinai.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.64|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.63|<< Numbers 26:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.65|Numbers 26:65 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 26:64** is...

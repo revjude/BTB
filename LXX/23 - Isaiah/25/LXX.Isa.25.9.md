@@ -1,10 +1,7 @@
 **LXX Isaiah 25:9** 
 <small><sub>**LXX:**</sub></small>
 And they shall say  in that day, Behold,  our God upon whom we hoped, even he shall deliver us. This \[is\] \[the\] <span class="smallcaps">lord</span>. We waited for him, and we exulted and were glad over  our deliverance. 
-<small><sub>**KJV:**</sub></small>
-And it shall be said in that day, Lo, this [is] our God; we have waited for him, and he will save us: this [is] the LORD; we have waited for him, we will be glad and rejoice in his salvation.
-<small><sub>**BSB:**</sub></small>
-And in that day it will be said, “Surely this is our God; we have waited for Him, and He has saved us. This is the LORD for whom we have waited. Let us rejoice and be glad in His salvation.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.25.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.25.8|<< Isaiah 25:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.25.10|Isaiah 25:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 29:15** 
 <small><sub>**LXX:**</sub></small>
 Woe to the ones deeply making plans, and not according to \[the\] <span class="smallcaps">lord</span>. Woe to the ones making plans in secret. And their works shall be in darkness, and they shall say, Who has seen us, and who shall know us or what we do? 
-<small><sub>**KJV:**</sub></small>
-Woe unto them that seek deep to hide their counsel from the LORD, and their works are in the dark, and they say, Who seeth us? and who knoweth us?
-<small><sub>**BSB:**</sub></small>
-Woe to those who dig deep to hide their plans from the LORD. In darkness they do their works and say, “Who sees us, and who will know?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.14|<< Isaiah 29:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.16|Isaiah 29:16 >>]]</td></tr></table>
 
 | Translation | Greek |

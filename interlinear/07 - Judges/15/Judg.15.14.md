@@ -1,4 +1,4 @@
-**Judges 15:14** 
+**Judges 15:14**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] when he came unto Lehi, the Philistines shouted against him: and the Spirit of the LORD came mightily upon him, and the cords that [were] upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Samson arrived in Lehi, the Philistines came out shouting against him. And 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.13|<< Judges 15:13]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.15|Judges 15:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he  |**<big>&#8207;[[H1931\|הוּא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hu'-<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] coming  |**<big>&#8207;[[H0935G\|בָ֣א]]&#8207; </big>**| va'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

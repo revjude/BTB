@@ -1,10 +1,7 @@
 **LXX Nehemiah 8:16** 
 <small><sub>**LXX:**</sub></small>
 And the people went forth, and brought, and they made for themselves tents, \[each\] man upon  his roof, and in  their courtyards, and in the courtyards of \[the\] house  of God, and in \[the\] squares of the gate of the waters, and in the squares of the gate of Ephraim. 
-<small><sub>**KJV:**</sub></small>
-So the people went forth, and brought [them], and made themselves booths, every one upon the roof of his house, and in their courts, and in the courts of the house of God, and in the street of the water gate, and in the street of the gate of Ephraim.
-<small><sub>**BSB:**</sub></small>
-And the people went out, brought back branches, and made booths on their own rooftops, in their courtyards, in the courts of the house of God, and in the squares by the Water Gate and by the Gate of Ephraim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.8.15|<< Nehemiah 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.8.17|Nehemiah 8:17 >>]]</td></tr></table>
 
 | Translation | Greek |

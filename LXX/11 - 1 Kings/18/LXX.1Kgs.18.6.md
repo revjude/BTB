@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:6** 
 <small><sub>**LXX:**</sub></small>
 And they divided to themselves the way  to go by it; Ahab went by one way, and Obadiah went by another way alone. 
-<small><sub>**KJV:**</sub></small>
-So they divided the land between them to pass throughout it: Ahab went one way by himself, and Obadiah went another way by himself.
-<small><sub>**BSB:**</sub></small>
-So they divided the land to explore. Ahab went one way by himself, and Obadiah went the other way by himself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.5|<< 1 Kings 18:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.7|1 Kings 18:7 >>]]</td></tr></table>
 
 | Translation | Greek |

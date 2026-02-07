@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:44** 
 <small><sub>**LXX:**</sub></small>
 And you rescued me from disputes of people; you shall guard me as head of nations. A people whom not knowing, served to me. 
-<small><sub>**KJV:**</sub></small>
-Thou also hast delivered me from the strivings of my people, thou hast kept me [to be] head of the heathen: a people [which] I knew not shall serve me.
-<small><sub>**BSB:**</sub></small>
-You have delivered me from the strife of my people; You have preserved me as the head of nations; a people I had not known shall serve me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.43|<< 2 Samuel 22:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.45|2 Samuel 22:45 >>]]</td></tr></table>
 
 | Translation | Greek |

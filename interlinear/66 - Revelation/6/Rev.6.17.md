@@ -1,12 +1,12 @@
-**Revelation 6:17
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:17**<big><big>[[Rev.6.12 The Sixth Seal：Terror|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the great day of his wrath is come; and who shall be able to stand?
 <small><sub>**BSB:**</sub></small>
 For the great day of Their wrath has come, and who is able to withstand it?”
 <small><sub>**Literal:**</sub></small>
 because has come the day <the> great of the wrath of them, and who is able to stand?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.16|<< Revelation 6:16]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.1|Revelation 7:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | has come |**<big>[[G2064\|ἦλθεν]]</big>**  |ēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 18:21** 
 <small><sub>**LXX:**</sub></small>
 Behold, yourself relying upon  this fractured rod of reed -- upon Egypt? Thus if man should stay upon it, it will enter into  his hand and puncture it. Thus is Pharaoh king of Egypt to all the ones relying upon him. 
-<small><sub>**KJV:**</sub></small>
-Now, behold, thou trustest upon the staff of this bruised reed, [even] upon Egypt, on which if a man lean, it will go into his hand, and pierce it: so [is] Pharaoh king of Egypt unto all that trust on him.
-<small><sub>**BSB:**</sub></small>
-Look now, you are trusting in Egypt, that splintered reed of a staff that will pierce the hand of anyone who leans on it. Such is Pharaoh king of Egypt to all who trust in him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.18.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.18.20|<< 2 Kings 18:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.18.22|2 Kings 18:22 >>]]</td></tr></table>
 
 | Translation | Greek |

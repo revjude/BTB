@@ -1,12 +1,12 @@
-**John 14:28
-**<small><sub>**KJV:**</sub></small>
+**John 14:28**<big><big>[[John.14.27 Peace I Leave with You|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye have heard how I said unto you, I go away, and come [again] unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I.
 <small><sub>**BSB:**</sub></small>
 You heard Me say, ‘I am going away, and I am coming back to you.’ If you loved Me, you would rejoice that I am going to the Father, because the Father is greater than I.
 <small><sub>**Literal:**</sub></small>
 You heard that I myself said to you; I am going away and I am coming to you. If you were loving Me, you have rejoiced then would that I said I am going to the Father, because the Father of mine greater than I is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.27|<< John 14:27]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.29|John 14:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You heard |**<big>[[G0191\|ἠκούσατε]]</big>**  |ēkousate <small><sup>[[V-AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

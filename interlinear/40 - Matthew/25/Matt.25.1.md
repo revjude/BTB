@@ -1,12 +1,12 @@
-**Matthew 25:1
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:1**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.
 <small><sub>**BSB:**</sub></small>
 “At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom.
 <small><sub>**Literal:**</sub></small>
 Then will be likened the kingdom of the heavens to ten virgins who having taken the lamps their own went forth to meet the bridegroom.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.51|<< Matthew 24:51]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.2|Matthew 25:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will be likened |**<big>[[G3666\|ὁμοιωθήσεται]]</big>**  |homoiōthēsetai <small><sup>[[V-FPI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

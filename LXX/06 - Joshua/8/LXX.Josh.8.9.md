@@ -1,10 +1,7 @@
 **LXX Joshua 8:9** 
 <small><sub>**LXX:**</sub></small>
 And Joshua sent them, and they went to the ambush, and sat in place between Beth-el and between Ai, from \[the\] west  of Ai. And Joshua lodged  that night in \[the\] midst of the people. 
-<small><sub>**KJV:**</sub></small>
-Joshua therefore sent them forth: and they went to lie in ambush, and abode between Bethel and Ai, on the west side of Ai: but Joshua lodged that night among the people.
-<small><sub>**BSB:**</sub></small>
-So Joshua sent them out, and they went to the place of ambush and lay in wait between Bethel and Ai, to the west of Ai. But Joshua spent that night among the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.8|<< Joshua 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.10|Joshua 8:10 >>]]</td></tr></table>
 
 | Translation | Greek |

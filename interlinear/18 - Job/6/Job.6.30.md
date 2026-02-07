@@ -1,4 +1,4 @@
-**Job 6:30** 
+**Job 6:30**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Is there iniquity in my tongue? cannot my taste discern perverse things?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is there iniquity on my tongue? Can my mouth not discern malice?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.29|<< Job 6:29]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.1|Job 7:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ [is] there  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3426\|יֵשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> yesh-<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on tongue my  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3956G\|לְשׁוֹנִ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> l.sho.N<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

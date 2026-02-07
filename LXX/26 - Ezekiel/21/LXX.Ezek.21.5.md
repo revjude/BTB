@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:5** 
 <small><sub>**LXX:**</sub></small>
 And all flesh shall realize that I \[the\] <span class="smallcaps">lord</span> pulled out  my knife from out of  its sheath; and it shall not turn back any longer. 
-<small><sub>**KJV:**</sub></small>
-That all flesh may know that I the LORD have drawn forth my sword out of his sheath: it shall not return any more.
-<small><sub>**BSB:**</sub></small>
-Then all flesh will know that I, the LORD, have taken My sword from its sheath, not to return it again.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.4|<< Ezekiel 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.6|Ezekiel 21:6 >>]]</td></tr></table>
 
 | Translation | Greek |

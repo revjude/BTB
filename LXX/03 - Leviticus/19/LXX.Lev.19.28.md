@@ -1,10 +1,7 @@
 **LXX Leviticus 19:28** 
 <small><sub>**LXX:**</sub></small>
 And you shall not make cuts for a \[dead\] soul on  your body; and letter marks you shall not make upon you. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-You must not make any cuts in your bodies for the dead or put tattoo marks on yourselves. I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.27|<< Leviticus 19:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.29|Leviticus 19:29 >>]]</td></tr></table>
 
 | Translation | Greek |

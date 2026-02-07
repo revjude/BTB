@@ -1,10 +1,7 @@
 **LXX Leviticus 16:12** 
 <small><sub>**LXX:**</sub></small>
 And he shall take the censer full of coals of fire from the altar, of the one before \[the\] <span class="smallcaps">lord</span>, and he shall fill  his hands of fine incense composition, and he shall carry \[it\] inside the veil. 
-<small><sub>**KJV:**</sub></small>
-And he shall take a censer full of burning coals of fire from off the altar before the LORD, and his hands full of sweet incense beaten small, and bring [it] within the vail:
-<small><sub>**BSB:**</sub></small>
-Then he must take a censer full of burning coals from the altar before the LORD, and two handfuls of finely ground fragrant incense, and take them inside the veil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.16.11|<< Leviticus 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.16.13|Leviticus 16:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Leviticus 16:12** is...

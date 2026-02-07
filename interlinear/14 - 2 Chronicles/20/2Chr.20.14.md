@@ -1,4 +1,4 @@
-**2 Chronicles 20:14** 
+**2 Chronicles 20:14**<big><big>[[2Chr.20.14 The Prophecy of Jahaziel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the LORD in the midst of the congregation;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Spirit of the LORD came upon Jahaziel son of Zechariah, the son of Bena
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.13|<< 2 Chronicles 20:13]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.15|2 Chronicles 20:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jahaziel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3166J\|יַחֲזִיאֵ֡ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.cha.zi.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121G\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

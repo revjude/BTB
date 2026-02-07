@@ -1,10 +1,7 @@
 **LXX Exodus 7:19** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses, Say to Aaron  your brother, Take  your rod, and stretch out  your hand upon the waters of Egypt, and upon  their rivers, and upon  their aqueducts, and upon  their marshes, and upon all their standing water, and there will be blood in all the land of Egypt, in both the wood \[vessels\] and in the stone \[vessels\]. 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and [that] there may be blood throughout all the land of Egypt, both in [vessels of] wood, and in [vessels of] stone.
-<small><sub>**BSB:**</sub></small>
-And the LORD said to Moses, “Tell Aaron, ‘Take your staff and stretch out your hand over the waters of Egypt—over their rivers and canals and ponds and all the reservoirs—that they may become blood.’ There will be blood throughout the land of Egypt, even in the vessels of wood and stone.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.7.18|<< Exodus 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.7.20|Exodus 7:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 7:19** is...

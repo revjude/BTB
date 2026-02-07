@@ -1,10 +1,7 @@
 **LXX Ezekiel 23:39** 
 <small><sub>**LXX:**</sub></small>
 even in  their slaying  their children \[to\] their idols, and entering into  my holy places in  that day  to profane them. And behold, thus they did in \[the\] midst  of my house. 
-<small><sub>**KJV:**</sub></small>
-For when they had slain their children to their idols, then they came the same day into my sanctuary to profane it; and, lo, thus have they done in the midst of mine house.
-<small><sub>**BSB:**</sub></small>
-On the very day they slaughtered their children for their idols, they entered My sanctuary to profane it. Yes, they did this inside My house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.23.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.23.38|<< Ezekiel 23:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.23.40|Ezekiel 23:40 >>]]</td></tr></table>
 
 | Translation | Greek |

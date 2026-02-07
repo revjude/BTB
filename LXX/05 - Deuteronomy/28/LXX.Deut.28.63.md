@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:63** 
 <small><sub>**LXX:**</sub></small>
 And it will be in the manner \[the\] <span class="smallcaps">lord</span> was glad over you, to do good for you, and to multiply you; so \[the\] <span class="smallcaps">lord</span> will be glad over you to utterly destroy you, and to lift you away from the land into which you enter there to inherit it. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass, [that] as the LORD rejoiced over you to do you good, and to multiply you; so the LORD will rejoice over you to destroy you, and to bring you to nought; and ye shall be plucked from off the land whither thou goest to possess it.
-<small><sub>**BSB:**</sub></small>
-Just as it pleased the LORD to make you prosper and multiply, so also it will please Him to annihilate you and destroy you. And you will be uprooted from the land you are entering to possess.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.63|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.62|<< Deuteronomy 28:62]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.64|Deuteronomy 28:64 >>]]</td></tr></table>
 
 | Translation | Greek |

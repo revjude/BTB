@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:11** 
 <small><sub>**LXX:**</sub></small>
 And Zedekiah son of Chenaanah made for himself horns of iron. And he said, Thus says \[the\] <span class="smallcaps">lord</span>, By these you shall gore the Syrian until whenever you finish them off entirely. 
-<small><sub>**KJV:**</sub></small>
-And Zedekiah the son of Chenaanah made him horns of iron: and he said, Thus saith the LORD, With these shalt thou push the Syrians, until thou have consumed them.
-<small><sub>**BSB:**</sub></small>
-Now Zedekiah son of Chenaanah had made for himself iron horns and declared, “This is what the LORD says: ‘With these you shall gore the Arameans until they are finished off.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.10|<< 1 Kings 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.12|1 Kings 22:12 >>]]</td></tr></table>
 
 | Translation | Greek |

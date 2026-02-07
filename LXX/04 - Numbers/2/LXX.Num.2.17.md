@@ -1,10 +1,7 @@
 **LXX Numbers 2:17** 
 <small><sub>**LXX:**</sub></small>
 And the tent of the testimony shall lift away and the camp of the Levites between the camps; as they pitched so also they shall lift away, each next according to their governing. 
-<small><sub>**KJV:**</sub></small>
-Then the tabernacle of the congregation shall set forward with the camp of the Levites in the midst of the camp: as they encamp, so shall they set forward, every man in his place by their standards.
-<small><sub>**BSB:**</sub></small>
-In the middle of the camps, the Tent of Meeting is to travel with the camp of the Levites. They are to set out in the order they encamped, each in his own place under his standard.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.16|<< Numbers 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.18|Numbers 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

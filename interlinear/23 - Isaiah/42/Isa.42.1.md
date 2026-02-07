@@ -1,4 +1,4 @@
-**Isaiah 42:1** 
+**Isaiah 42:1**<big><big>[[Isa.42.1 Here Is My Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold my servant, whom I uphold; mine elect, [in whom] my soul delighteth; I have put my spirit upon him: he shall bring forth judgment to the Gentiles.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Behold my servant, whom I uphold; mine elect, [in whom] my soul delighteth; I ha
 > $\quad$ referenced by: [[Matt.3.17|Matt 3:17]] ☩ [[Matt.12.18|Matt 12:18-21]] ☩ [[Matt.17.5|Matt 17:5]] ☩ [[Luke.3.22|Luke 3:22]] ☩ [[Luke.9.35|Luke 9:35]] ☩ [[2Pet.1.17|2Pet 1:17]] ☩ [[Mark.1.11|Mark 1:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2005\|הֵ֤ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | servant my  |**<big>&#8207;[[H5650\|עַבְדִּ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| 'av.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

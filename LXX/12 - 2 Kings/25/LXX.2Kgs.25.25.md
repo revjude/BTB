@@ -1,10 +1,7 @@
 **LXX 2 Kings 25:25** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the seventh month, came Ishmael son of Nethaniah, son of Elishama, of the seed of the kingdom, and ten men with him. And he struck  Gedaliah and he died, even the Jews, and the Chaldeans who were with him in Mizpah. 
-<small><sub>**KJV:**</sub></small>
-But it came to pass in the seventh month, that Ishmael the son of Nethaniah, the son of Elishama, of the seed royal, came, and ten men with him, and smote Gedaliah, that he died, and the Jews and the Chaldees that were with him at Mizpah.
-<small><sub>**BSB:**</sub></small>
-In the seventh month, however, Ishmael son of Nethaniah, the son of Elishama, who was a member of the royal family, came with ten men and struck down and killed Gedaliah, along with the Judeans and Chaldeans who were with him at Mizpah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.24|<< 2 Kings 25:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.26|2 Kings 25:26 >>]]</td></tr></table>
 
 | Translation | Greek |

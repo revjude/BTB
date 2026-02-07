@@ -1,4 +1,4 @@
-**Psalms 35:5** 
+**Psalms 35:5**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be as chaff before the wind: and let the angel of the LORD chase [them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May they be like chaff in the wind, as the angel of the LORD drives them away.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.4|<< Psalms 35:4]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.6|Psalms 35:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they be  |**<big>&#8207;[[H1961\|יִֽהְי֗וּ]]&#8207; </big>**| yih.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like chaff  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4671\|מֹ֥ץ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Motz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

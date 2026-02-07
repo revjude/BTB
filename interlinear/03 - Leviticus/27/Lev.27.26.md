@@ -1,4 +1,4 @@
-**Leviticus 27:26** 
+**Leviticus 27:26**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only the firstling of the beasts, which should be the LORD’S firstling, no man shall sanctify it; whether [it be] ox, or sheep: it [is] the LORD’S.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But no one may consecrate a firstborn of the livestock, because a firstborn belo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.25|<< Leviticus 27:25]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.27|Leviticus 27:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0389\|אַךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'akh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a firstborn  |**<big>&#8207;[[H1060\|בְּכ֞וֹר]]&#8207; </big>**| be.Khor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

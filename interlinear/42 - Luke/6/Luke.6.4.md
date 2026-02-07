@@ -1,5 +1,5 @@
-**Luke 6:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:4**<big><big>[[Luke.6.1 The Lord of the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 How he went into the house of God, and did take and eat the shewbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone?
 <small><sub>**BSB:**</sub></small>
 He entered the house of God, took the consecrated bread and gave it to his companions, and ate what is lawful only for the priests to eat.”
@@ -10,7 +10,7 @@ how he entered into the house <the> of God, and the loaves of the presentation h
 > $\quad$ alluding to: [[LXX.1Sam.21.6|1Sam 21:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he entered |**<big>[[G1525\|εἰσῆλθεν]]</big>**  |eisēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

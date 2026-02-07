@@ -1,4 +1,4 @@
-**Ezekiel 14:10** 
+**Ezekiel 14:10**<big><big>[[Ezek.14.1 Idolatrous Elders Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall bear the punishment of their iniquity: the punishment of the prophet shall be even as the punishment of him that seeketh [unto him];
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will bear their punishment—the punishment of the inquirer will be the sam
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.9|<< Ezekiel 14:9]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.11|Ezekiel 14:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will bear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5375J\|נָשְׂא֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.se.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | iniquity their  |**<big>&#8207;[[H5771I\|עֲוֹנָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| 'a.vo.Na<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 32:6** 
+**Ezekiel 32:6**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will also water with thy blood the land wherein thou swimmest, [even] to the mountains; and the rivers shall be full of thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will drench the land with the flow of your blood, all the way to the mountains
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.5|<< Ezekiel 32:5]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.7|Ezekiel 32:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will make drink  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8248G\|הִשְׁקֵיתִ֨י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.kei.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] land  |**<big>&#8207;[[H0776G\|אֶ֧רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

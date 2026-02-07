@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:12** 
 <small><sub>**LXX:**</sub></small>
 Against \[the\] walls of Babylon lift up a sign! Set watches! Prepare shields! for \[the\] <span class="smallcaps">lord</span> took in hand and he will do what he spoke against the ones dwelling Babylon, 
-<small><sub>**KJV:**</sub></small>
-Set up the standard upon the walls of Babylon, make the watch strong, set up the watchmen, prepare the ambushes: for the LORD hath both devised and done that which he spake against the inhabitants of Babylon.
-<small><sub>**BSB:**</sub></small>
-Raise a banner against the walls of Babylon; post the guard; station the watchmen; prepare the ambush. For the LORD has both devised and accomplished what He spoke against the people of Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.11|<< Jeremiah 51:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.13|Jeremiah 51:13 >>]]</td></tr></table>
 
 | Translation | Greek |

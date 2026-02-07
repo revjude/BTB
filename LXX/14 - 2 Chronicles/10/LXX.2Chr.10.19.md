@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 10:19** 
 <small><sub>**LXX:**</sub></small>
 And Israel annulled \[allegiance\] to the house of David until  this day. 
-<small><sub>**KJV:**</sub></small>
-And Israel rebelled against the house of David unto this day.
-<small><sub>**BSB:**</sub></small>
-So to this day Israel has been in rebellion against the house of David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.10.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.18|<< 2 Chronicles 10:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.1|2 Chronicles 11:1 >>]]</td></tr></table>
 
 | Translation | Greek |

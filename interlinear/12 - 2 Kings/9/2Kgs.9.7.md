@@ -1,4 +1,4 @@
-**2 Kings 9:7** 
+**2 Kings 9:7**<big><big>[[2Kgs.9.1 Jehu Anointed King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt smite the house of Ahab thy master, that I may avenge the blood of my servants the prophets, and the blood of all the servants of the LORD, at the hand of Jezebel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you are to strike down the house of your master Ahab, so that I may avenge t
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.6|<< 2 Kings 9:6]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.8|2 Kings 9:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will strike down  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5221\|הִ֨כִּיתָ֔ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Hi.ki.Tah<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

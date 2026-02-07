@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:18** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> was enraged exceedingly with  Israel, and he removed them from  his face. He did not leave \[any\] behind except \[the\] tribe of Judah alone. 
-<small><sub>**KJV:**</sub></small>
-Therefore the LORD was very angry with Israel, and removed them out of his sight: there was none left but the tribe of Judah only.
-<small><sub>**BSB:**</sub></small>
-So the LORD was very angry with Israel, and He removed them from His presence. Only the tribe of Judah remained,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.17|<< 2 Kings 17:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.19|2 Kings 17:19 >>]]</td></tr></table>
 
 | Translation | Greek |

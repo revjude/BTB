@@ -1,10 +1,7 @@
 **LXX Joshua 18:13** 
 <small><sub>**LXX:**</sub></small>
 And the borders will go from there to Luz from \[the\] south -- this is Beth-el. And the borders will go down from Ataroth Adar upon the mountainous area which is towards \[the\] south of Beth-horon, the \[part\] below. 
-<small><sub>**KJV:**</sub></small>
-And the border went over from thence toward Luz, to the side of Luz, which [is] Bethel, southward; and the border descended to Atarothadar, near the hill that [lieth] on the south side of the nether Bethhoron.
-<small><sub>**BSB:**</sub></small>
-From there the border crossed over to the southern slope of Luz (that is, Bethel) and went down to Ataroth-addar on the hill south of Lower Beth-horon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.18.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.18.12|<< Joshua 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.18.14|Joshua 18:14 >>]]</td></tr></table>
 
 | Translation | Greek |

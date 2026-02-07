@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 \[The\] vision of Egypt. Behold, \[the\] <span class="smallcaps">lord</span> sits upon a nimble cloud, and shall come to Egypt. And the handmade \[idols\] of Egypt shall be shaken before his face, and  their heart shall be vanquished in them. 
-<small><sub>**KJV:**</sub></small>
-The burden of Egypt. Behold, the LORD rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.
-<small><sub>**BSB:**</sub></small>
-This is the burden against Egypt: Behold, the LORD rides on a swift cloud; He is coming to Egypt. The idols of Egypt will tremble before Him, and the hearts of the Egyptians will melt within them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.18.7|<< Isaiah 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.2|Isaiah 19:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 19:1** is...

@@ -1,12 +1,12 @@
-**Luke 12:31
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:31**<big><big>[[Luke.12.22 Do Not Worry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But rather seek ye the kingdom of God; and all these things shall be added unto you.
 <small><sub>**BSB:**</sub></small>
 But seek His kingdom, and these things will be added unto you.
 <small><sub>**Literal:**</sub></small>
 But do seek the kingdom <the> of Him and these things all things will be added to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.30|<< Luke 12:30]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.32|Luke 12:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G4133\|πλὴν]]</big>**  |plēn <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do seek |**<big>[[G2212\|ζητεῖτε]]</big>**  |zēteite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

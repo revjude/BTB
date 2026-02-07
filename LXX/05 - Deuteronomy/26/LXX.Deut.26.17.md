@@ -1,10 +1,7 @@
 **LXX Deuteronomy 26:17** 
 <small><sub>**LXX:**</sub></small>
  You took God today to be your God, and to go in all  his ways, and to guard the ordinances, and the commandments, and  his judgments, and to obey  his voice. 
-<small><sub>**KJV:**</sub></small>
-Thou hast avouched the LORD this day to be thy God, and to walk in his ways, and to keep his statutes, and his commandments, and his judgments, and to hearken unto his voice:
-<small><sub>**BSB:**</sub></small>
-Today you have proclaimed that the LORD is your God and that you will walk in His ways, keep His statutes and commandments and ordinances, and listen to His voice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.26.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.16|<< Deuteronomy 26:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.18|Deuteronomy 26:18 >>]]</td></tr></table>
 
 | Translation | Greek |

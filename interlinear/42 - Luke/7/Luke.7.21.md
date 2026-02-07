@@ -1,12 +1,12 @@
-**Luke 7:21
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:21**<big><big>[[Luke.7.18 John’s Inquiry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And in that same hour he cured many of [their] infirmities and plagues, and of evil spirits; and unto many [that were] blind he gave sight.
 <small><sub>**BSB:**</sub></small>
 At that very hour Jesus healed many people of their diseases, afflictions, and evil spirits, and He gave sight to many who were blind.
 <small><sub>**Literal:**</sub></small>
 At that very now <the> hour He healed many of diseases and afflictions and spirits evil and to blind many He granted <the> to see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.20|<< Luke 7:20]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.22|Luke 7:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | At |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that very [^1] |**<big>[[G1565\|ἐκείνῃ]]</big>**  |ekeinē <small><sup>[[D-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

@@ -1,12 +1,12 @@
-**Titus 3:15
-**<small><sub>**KJV:**</sub></small>
+**Titus 3:15**<big><big>[[Titus.3.12 Final Remarks and Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 All that are with me salute thee. Greet them that love us in the faith. Grace [be] with you all. Amen.
 <small><sub>**BSB:**</sub></small>
 All who are with me send you greetings. Greet those who love us in the faith. Grace be with all of you.
 <small><sub>**Literal:**</sub></small>
 Greet you those with me all. do greet those loving us in [the] faith. <the> Grace [be] with all of you Amen. to Titus of the Cretan church first overseer having been chosen It was written from Nicopolis <the> of Macedonia.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.14|<< Titus 3:14]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.1|Philemon 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Greet |**<big>[[G0782\|Ἀσπάζονταί]]</big>**  |Aspazontai <small><sup>[[V-PNI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|σε]]</big>**  |se <small><sup>[[P-2AS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

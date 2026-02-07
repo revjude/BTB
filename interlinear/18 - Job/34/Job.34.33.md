@@ -1,4 +1,4 @@
-**Job 34:33** 
+**Job 34:33**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Should it be] according to thy mind? he will recompense it, whether thou refuse, or whether thou choose; and not I: therefore speak what thou knowest.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Should God repay you on your own terms when you have disavowed Him? You must cho
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.32|<< Job 34:32]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.34|Job 34:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ from with \<the> you  |**<big>&#8207;[[H9008\|הַֽ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5973B\|עִמְּ]]&#8207;&#8207;[[H9031\|ךָ֬]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> me.<small><sup>[[HR]]</sup></small> 'i.me.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he repay it  |**<big>&#8207;[[H7999A\|יְשַׁלְמֶ֨]]&#8207;&#8207;[[H9034\|נָּה]]&#8207; </big>**| ye.shal.Me.<small><sup>[[HVpi3ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

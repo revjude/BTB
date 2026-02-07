@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 36:21** 
 <small><sub>**LXX:**</sub></small>
  to fulfill \[the\] word of \[the\] <span class="smallcaps">lord</span> through \[the\] mouth of Jeremiah, until  the land favorably receives  its Sabbaths; by observing the Sabbath all the days  of its desolation, to observe the Sabbath in \[the\] fulfillment of seventy years. 
-<small><sub>**KJV:**</sub></small>
-To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: [for] as long as she lay desolate she kept sabbath, to fulfil threescore and ten years.
-<small><sub>**BSB:**</sub></small>
-So the land enjoyed its Sabbath rest all the days of the desolation, until seventy years were completed, in fulfillment of the word of the LORD spoken through Jeremiah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.36.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.36.20|<< 2 Chronicles 36:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.22|2 Chronicles 36:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 130:6** 
 <small><sub>**LXX:**</sub></small>
 My soul hoped upon the <span class="smallcaps">lord</span> from \[the\] morning watch till night. 
-<small><sub>**KJV:**</sub></small>
-My soul [waiteth] for the Lord more than they that watch for the morning: [I say, more than] they that watch for the morning.
-<small><sub>**BSB:**</sub></small>
-My soul waits for the Lord more than watchmen wait for the morning—more than watchmen wait for the morning.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.130.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.130.5|<< Psalm 130:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.130.7|Psalm 130:7 >>]]</td></tr></table>
 
 | Translation | Greek |

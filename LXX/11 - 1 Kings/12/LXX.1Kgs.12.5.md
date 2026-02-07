@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:5** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, Go forth for three days, and return to me! And they went forth. 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, Depart yet [for] three days, then come again to me. And the people departed.
-<small><sub>**BSB:**</sub></small>
-Rehoboam answered, “Go away for three days and then return to me.” So the people departed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.4|<< 1 Kings 12:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.6|1 Kings 12:6 >>]]</td></tr></table>
 
 | Translation | Greek |

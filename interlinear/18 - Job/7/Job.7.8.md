@@ -1,4 +1,4 @@
-**Job 7:8** 
+**Job 7:8**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The eye of him that hath seen me shall see me no [more]: thine eyes [are] upon me, and I [am] not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The eye that beholds me will no longer see me. You will look for me, but I will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.7|<< Job 7:7]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.9|Job 7:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will observe me  |**<big>&#8207;[[H7789\|תְ֭שׁוּרֵ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Te.shu.re.<small><sup>[[HVqi3fs]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

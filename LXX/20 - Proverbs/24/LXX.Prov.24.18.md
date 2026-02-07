@@ -1,10 +1,7 @@
 **LXX Proverbs 24:18** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> shall see \[it\], and it will not please him; and he will return  his rage upon him. 
-<small><sub>**KJV:**</sub></small>
-Lest the LORD see [it], and it displease him, and he turn away his wrath from him.
-<small><sub>**BSB:**</sub></small>
-or the LORD will see and disapprove, and turn His wrath away from him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.24.17|<< Proverbs 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.24.19|Proverbs 24:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 103:6** 
+**Psalms 103:6**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD executeth righteousness and judgment for all that are oppressed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD executes righteousness and justice for all the oppressed.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.5|<< Psalms 103:5]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.7|Psalms 103:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] doing  |**<big>&#8207;[[H6213A\|עֹשֵׂ֣ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> righteousness\<es>  |**<big>&#8207;[[H6666\|צְדָק֣וֹת]]&#8207; </big>**| tze.da.Kot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

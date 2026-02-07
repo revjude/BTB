@@ -1,10 +1,7 @@
 **LXX Zechariah 8:4** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> almighty, Yet shall sit down older men and older women in the squares of Jerusalem, each  having his cane in  his hand because of a multitude of days. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts; There shall yet old men and old women dwell in the streets of Jerusalem, and every man with his staff in his hand for very age.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD of Hosts says: “Old men and old women will again sit along the streets of Jerusalem, each with a staff in hand because of great age.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.3|<< Zechariah 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.5|Zechariah 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

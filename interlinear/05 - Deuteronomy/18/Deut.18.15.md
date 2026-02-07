@@ -1,4 +1,4 @@
-**Deuteronomy 18:15** 
+**Deuteronomy 18:15**<big><big>[[Deut.18.15 A Prophet Like Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD thy God will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD your God will raise up for you a prophet like me from among your brothe
 > $\quad$ referenced by: [[Matt.17.5|Matt 17:5]] ☩ [[Mark.9.7|Mark 9:7]] ☩ [[Luke.9.35|Luke 9:35]] ☩ [[Acts.3.22|Acts 3:22]] ☩ [[Acts.7.37|Acts 7:37]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a prophet  |**<big>&#8207;[[H5030\|נָבִ֨יא]]&#8207; </big>**| na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from midst your  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7130G\|קִּרְבְּ]]&#8207;&#8207;[[H9021\|ךָ֤]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kir.be.<small><sup>[[HNcmsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

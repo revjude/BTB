@@ -1,10 +1,7 @@
 **LXX Proverbs 23:3** 
 <small><sub>**LXX:**</sub></small>
 do not desire  his food; for these have a false life. 
-<small><sub>**KJV:**</sub></small>
-Be not desirous of his dainties: for they [are] deceitful meat.
-<small><sub>**BSB:**</sub></small>
-Do not crave his delicacies, for that food is deceptive.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.2|<< Proverbs 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.4|Proverbs 23:4 >>]]</td></tr></table>
 
 | Translation | Greek |

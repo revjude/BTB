@@ -1,10 +1,7 @@
 **LXX Leviticus 14:13** 
 <small><sub>**LXX:**</sub></small>
 And he shall slay the lamb in \[the\] place where they slay the whole burnt-offerings, and the \[ones\] for a sin \[offering\], in \[the\] holy place. For it is the \[one\] for a sin \[offering\]; as the one of the trespass \[offering\] is for the priest -- it is a holy of holies. 
-<small><sub>**KJV:**</sub></small>
-And he shall slay the lamb in the place where he shall kill the sin offering and the burnt offering, in the holy place: for as the sin offering [is] the priest’s, [so is] the trespass offering: it [is] most holy:
-<small><sub>**BSB:**</sub></small>
-Then he is to slaughter the lamb in the sanctuary area where the sin offering and burnt offering are slaughtered. Like the sin offering, the guilt offering belongs to the priest; it is most holy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.12|<< Leviticus 14:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.14|Leviticus 14:14 >>]]</td></tr></table>
 
 | Translation | Greek |

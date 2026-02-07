@@ -1,10 +1,7 @@
 **LXX Isaiah 33:21** 
 <small><sub>**LXX:**</sub></small>
 For the name of \[the\] <span class="smallcaps">lord</span> will be great to you; with rivers and spacious and broad aqueducts. You shall not go this  way, nor a boat being rowed go. 
-<small><sub>**KJV:**</sub></small>
-But there the glorious LORD [will be] unto us a place of broad rivers [and] streams; wherein shall go no galley with oars, neither shall gallant ship pass thereby.
-<small><sub>**BSB:**</sub></small>
-But there the Majestic One, our LORD, will be for us a place of rivers and wide canals, where no galley with oars will row, and no majestic vessel will pass.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.33.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.20|<< Isaiah 33:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.22|Isaiah 33:22 >>]]</td></tr></table>
 
 | Translation | Greek |

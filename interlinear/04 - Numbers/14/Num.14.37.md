@@ -1,4 +1,4 @@
-**Numbers 14:37** 
+**Numbers 14:37**<big><big>[[Num.14.36 The Plague on the Ten Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even those men that did bring up the evil report upon the land, died by the plague before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ those men who had brought out the bad report about the land—were struck down b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.36|<< Numbers 14:36]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.38|Numbers 14:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּמֻ֙תוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Mu.tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the men  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezra 4:2** 
+**Ezra 4:2**<big><big>[[Ezra.4.1 Adversaries Hinder the Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they came to Zerubbabel, and to the chief of the fathers, and said unto them, Let us build with you: for we seek your God, as ye [do]; and we do sacrifice unto him since the days of Esarhaddon king of Assur, which brought us up hither.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ they approached Zerubbabel and the heads of the families, saying, “Let us buil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.1|<< Ezra 4:1]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.3|Ezra 4:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they approached  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5066G\|יִּגְּשׁ֨וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ge.Shu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to>  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

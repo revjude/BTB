@@ -1,12 +1,12 @@
-**Galatians 5:1
-**<small><sub>**KJV:**</sub></small>
+**Galatians 5:1**<big><big>[[Gal.5.1 Freedom in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Stand fast therefore in the liberty wherewith Christ hath made us free, and be not entangled again with the yoke of bondage.
 <small><sub>**BSB:**</sub></small>
 It is for freedom that Christ has set us free. Stand firm, then, and do not be encumbered once more by a yoke of slavery.
 <small><sub>**Literal:**</sub></small>
 <the> In freedom which us Christ has set free; do stand firm therefore and not again in a yoke of slavery do be entangled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.31|<< Galatians 4:31]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.2|Galatians 5:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | In freedom |**<big>[[G1657\|ἐλευθερίᾳ]]</big>**  |eleutheria <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

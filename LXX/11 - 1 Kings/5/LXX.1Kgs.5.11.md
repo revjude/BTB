@@ -1,10 +1,7 @@
 **LXX 1 Kings 5:11** 
 <small><sub>**LXX:**</sub></small>
 And Solomon gave  to Hiram twenty thousand cors of wheat, and food \[to\] his house, and twenty baths of olive oil being pounded. According to this Solomon gave  to Hiram yearly. 
-<small><sub>**KJV:**</sub></small>
-And Solomon gave Hiram twenty thousand measures of wheat [for] food to his household, and twenty measures of pure oil: thus gave Solomon to Hiram year by year.
-<small><sub>**BSB:**</sub></small>
-and year after year Solomon would provide Hiram with 20,000 cors of wheat as food for his household, as well as 20,000 baths of pure olive oil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.10|<< 1 Kings 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.12|1 Kings 5:12 >>]]</td></tr></table>
 
 | Translation | Greek |

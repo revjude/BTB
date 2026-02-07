@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:23** 
 <small><sub>**LXX:**</sub></small>
 the ones given  his graves in \[the\] sides of \[the\] pit, and his gathering existed surrounding  his tomb. All the slain  having fallen by \[the\] sword, the ones giving  them fear upon the land of life. 
-<small><sub>**KJV:**</sub></small>
-Whose graves are set in the sides of the pit, and her company is round about her grave: all of them slain, fallen by the sword, which caused terror in the land of the living.
-<small><sub>**BSB:**</sub></small>
-Her graves are set in the depths of the Pit, and her company is all around her grave. All of them are slain, fallen by the sword—those who once spread terror in the land of the living.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.22|<< Ezekiel 32:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.24|Ezekiel 32:24 >>]]</td></tr></table>
 
 | Translation | Greek |

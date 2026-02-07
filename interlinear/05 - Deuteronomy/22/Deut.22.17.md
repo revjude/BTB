@@ -1,4 +1,4 @@
-**Deuteronomy 22:17** 
+**Deuteronomy 22:17**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, lo, he hath given occasions of speech [against her], saying, I found not thy daughter a maid; and yet these [are the tokens of] my daughter’s virginity. And they shall spread the cloth before the elders of the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And now he has accused her of shameful conduct, saying, ‘I discovered that you
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.16|<< Deuteronomy 22:16]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.18|Deuteronomy 22:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he  |**<big>&#8207;[[H1931\|ה֡וּא]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

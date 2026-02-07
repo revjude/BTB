@@ -1,10 +1,7 @@
 **LXX Leviticus 24:14** 
 <small><sub>**LXX:**</sub></small>
 Lead the one cursing outside the camp, and all the ones hearing shall place  their hands upon  his head, and all the congregation shall stone him. 
-<small><sub>**KJV:**</sub></small>
-Bring forth him that hath cursed without the camp; and let all that heard [him] lay their hands upon his head, and let all the congregation stone him.
-<small><sub>**BSB:**</sub></small>
-“Take the blasphemer outside the camp, and have all who heard him lay their hands on his head; then have the whole assembly stone him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.24.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.24.13|<< Leviticus 24:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.24.15|Leviticus 24:15 >>]]</td></tr></table>
 
 | Translation | Greek |

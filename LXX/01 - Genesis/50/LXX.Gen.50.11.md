@@ -1,10 +1,7 @@
 **LXX Genesis 50:11** 
 <small><sub>**LXX:**</sub></small>
 And the inhabitants of the land of Canaan saw the mourning at \[the\] threshing-floor of Atad. And they said, This is a great mourning to the Egyptians. On account of this they called the name  of that place, Mourning of Egypt, which is on the other side of the Jordan. 
-<small><sub>**KJV:**</sub></small>
-And when the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said, This [is] a grievous mourning to the Egyptians: wherefore the name of it was called Abelmizraim, which [is] beyond Jordan.
-<small><sub>**BSB:**</sub></small>
-When the Canaanites of the land saw the mourning at the threshing floor of Atad, they said, “This is a solemn ceremony of mourning by the Egyptians.” Thus the place across the Jordan is called Abel-mizraim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.50.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.10|<< Genesis 50:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.12|Genesis 50:12 >>]]</td></tr></table>
 
 | Translation | Greek |

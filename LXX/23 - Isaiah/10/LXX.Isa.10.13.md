@@ -1,10 +1,7 @@
 **LXX Isaiah 10:13** 
 <small><sub>**LXX:**</sub></small>
 For he said, I will act in strength; and in the wisdom  of understanding I will remove boundaries of nations; and  I will despoil their strength; 
-<small><sub>**KJV:**</sub></small>
-For he saith, By the strength of my hand I have done [it], and by my wisdom; for I am prudent: and I have removed the bounds of the people, and have robbed their treasures, and I have put down the inhabitants like a valiant [man]:
-<small><sub>**BSB:**</sub></small>
-For he says: ‘By the strength of my hand I have done this, and by my wisdom, for I am clever. I have removed the boundaries of nations and plundered their treasures; like a mighty one I subdued their rulers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.12|<< Isaiah 10:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.14|Isaiah 10:14 >>]]</td></tr></table>
 
 | Translation | Greek |

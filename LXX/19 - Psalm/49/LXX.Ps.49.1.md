@@ -6,10 +6,7 @@ To the director; a psalm. to the sons of Korah
 
 <small><sub>**LXX:**</sub></small>
 Hear these \[things\] all  nations! Give ear all the ones dwelling in the inhabitable world -- 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm for the sons of Korah. Hear this, all [ye] people; give ear, all [ye] inhabitants of the world:
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. A Psalm of the sons of Korah. Hear this, all you peoples; listen, all inhabitants of the world,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.49.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.48.14|<< Psalm 48:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.49.2|Psalm 49:2 >>]]</td></tr></table>
 
 | Translation | Greek |

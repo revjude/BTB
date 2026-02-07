@@ -1,12 +1,12 @@
-**Mark 14:53
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:53**<big><big>[[Mark.14.53 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they led Jesus away to the high priest: and with him were assembled all the chief priests and the elders and the scribes.
 <small><sub>**BSB:**</sub></small>
 They led Jesus away to the high priest, and all the chief priests, elders, and scribes assembled.
 <small><sub>**Literal:**</sub></small>
 And they led away <the> Jesus to the high priest And come together to him all the chief priests and the elders and the scribes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.52|<< Mark 14:52]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.54|Mark 14:54 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they led away |**<big>[[G0520\|ἀπήγαγον]]</big>**  |apēgagon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Leviticus 4:4** 
 <small><sub>**LXX:**</sub></small>
 And he shall bring the calf by the door of the tent of the testimony before \[the\] <span class="smallcaps">lord</span>. And he shall place  his hand upon the head of the calf before \[the\] <span class="smallcaps">lord</span>, and he shall slay the calf in the presence of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And he shall bring the bullock unto the door of the tabernacle of the congregation before the LORD; and shall lay his hand upon the bullock’s head, and kill the bullock before the LORD.
-<small><sub>**BSB:**</sub></small>
-He must bring the bull to the entrance to the Tent of Meeting before the LORD, lay his hand on the bull’s head, and slaughter it before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.4.3|<< Leviticus 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.4.5|Leviticus 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joel 2:5** 
+**Joel 2:5**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Like the noise of chariots on the tops of mountains shall they leap, like the noise of a flame of fire that devoureth the stubble, as a strong people set in battle array.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ With a sound like that of chariots they bound over the mountaintops, like the cr
 > $\quad$ referenced by: [[Rev.9.7|Rev 9:7-9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like [the] sound of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H6963H\|ק֣וֹל]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | chariots  |**<big>&#8207;[[H4818\|מַרְכָּב֗וֹת]]&#8207; </big>**| mar.ka.Vot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

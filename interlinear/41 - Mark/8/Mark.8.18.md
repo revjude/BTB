@@ -1,5 +1,5 @@
-**Mark 8:18
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:18**<big><big>[[Mark.8.14 The Leaven of the Pharisees and of Herod|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having eyes, see ye not? and having ears, hear ye not? and do ye not remember?
 <small><sub>**BSB:**</sub></small>
 ‘Having eyes, do you not see? And having ears, do you not hear?’ And do you not remember?
@@ -11,7 +11,7 @@ Eyes having not do you see? And ears having not do you hear? And not do you reme
 > $\quad$ alluding to: [[LXX.Ezek.12.2|Ezek 12:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Eyes |**<big>[[G3788\|ὀφθαλμοὺς]]</big>**  |ophthalmous <small><sup>[[N-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having |**<big>[[G2192\|ἔχοντες]]</big>**  |echontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

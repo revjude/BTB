@@ -1,10 +1,7 @@
 **LXX 1 Samuel 12:3** 
 <small><sub>**LXX:**</sub></small>
 Behold, I \[am here\]. You should respond against me before \[the\] <span class="smallcaps">lord</span>, and before  his anointed one. Whose calf have I taken? or whose donkey have I taken? or who of you have I tyrannized over? or who have I pressured? or from out of whose hand have I taken an appeasement, or a sandal? Should you respond to me, then I will give \[it\] back to you. 
-<small><sub>**KJV:**</sub></small>
-Behold, here I [am]: witness against me before the LORD, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received [any] bribe to blind mine eyes therewith? and I will restore it you.
-<small><sub>**BSB:**</sub></small>
-Here I am. Bear witness against me before the LORD and before His anointed: Whose ox or donkey have I taken? Whom have I cheated or oppressed? From whose hand have I accepted a bribe and closed my eyes? Tell me, and I will restore it to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.2|<< 1 Samuel 12:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.4|1 Samuel 12:4 >>]]</td></tr></table>
 
 | Translation | Greek |

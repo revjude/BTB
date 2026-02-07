@@ -1,10 +1,7 @@
 **LXX Nehemiah 3:7** 
 <small><sub>**LXX:**</sub></small>
 And near their hand Melatiah repaired, the Gibeonite, and Jadon the Meronothite, \[the\] men  of Gibeon, and  of Mizpah, unto \[the\] throne of the ruler of the other side of the river. 
-<small><sub>**KJV:**</sub></small>
-And next unto them repaired Melatiah the Gibeonite, and Jadon the Meronothite, the men of Gibeon, and of Mizpah, unto the throne of the governor on this side the river.
-<small><sub>**BSB:**</sub></small>
-Next to them, repairs were made by Melatiah the Gibeonite, Jadon the Meronothite, and the men of Gibeon and Mizpah, who were under the authority of the governor of the region west of the Euphrates.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.6|<< Nehemiah 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.8|Nehemiah 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

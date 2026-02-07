@@ -1,12 +1,12 @@
-**Luke 9:36
-**<small><sub>**KJV:**</sub></small>
+**Luke 9:36**<big><big>[[Luke.9.28 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the voice was past, Jesus was found alone. And they kept [it] close, and told no man in those days any of those things which they had seen.
 <small><sub>**BSB:**</sub></small>
 After the voice had spoken, only Jesus was present with them. The disciples kept this to themselves, and in those days they did not tell anyone what they had seen.
 <small><sub>**Literal:**</sub></small>
 And as <the> happening the voice was found <the> Jesus alone. And they themselves were silent and to no [one] they told in those the days no [thing] of what they have seen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.35|<< Luke 9:35]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.37|Luke 9:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | as |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

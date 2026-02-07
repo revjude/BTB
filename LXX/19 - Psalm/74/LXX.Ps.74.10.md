@@ -1,10 +1,7 @@
 **LXX Psalm 74:10** 
 <small><sub>**LXX:**</sub></small>
 For how long, O God, the enemy berate? He provokes the opposition  of your name to \[the\] end. 
-<small><sub>**KJV:**</sub></small>
-O God, how long shall the adversary reproach? shall the enemy blaspheme thy name for ever?
-<small><sub>**BSB:**</sub></small>
-How long, O God, will the enemy taunt You? Will the foe revile Your name forever?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.74.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.9|<< Psalm 74:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.11|Psalm 74:11 >>]]</td></tr></table>
 
 | Translation | Greek |

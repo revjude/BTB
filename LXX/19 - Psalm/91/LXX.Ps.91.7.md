@@ -1,10 +1,7 @@
 **LXX Psalm 91:7** 
 <small><sub>**LXX:**</sub></small>
 A thousand shall fall at your side, and myriads at your right \[hand\]; but it shall not approach unto you. 
-<small><sub>**KJV:**</sub></small>
-A thousand shall fall at thy side, and ten thousand at thy right hand; [but] it shall not come nigh thee.
-<small><sub>**BSB:**</sub></small>
-Though a thousand may fall at your side, and ten thousand at your right hand, no harm will come near you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.91.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.6|<< Psalm 91:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.8|Psalm 91:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 4:45** 
+**Deuteronomy 4:45**<big><big>[[Deut.4.44 Introduction to the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the testimonies, and the statutes, and the judgments, which Moses spake unto the children of Israel, after they came forth out of Egypt,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are the testimonies, statutes, and ordinances that Moses proclaimed to the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.44|<< Deuteronomy 4:44]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.46|Deuteronomy 4:46 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֚לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] the testimonies  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H5713B\|עֵדֹ֔ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'e.Dot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Deuteronomy 30:12** 
+**Deuteronomy 30:12**<big><big>[[Deut.30.11 The Choice of Life or Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It [is] not in heaven, that thou shouldest say, Who shall go up for us to heaven, and bring it unto us, that we may hear it, and do it?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ It is not in heaven, that you should need to ask, ‘Who will ascend into heaven
 > $\quad$ referenced by: [[Rom.10.6|Rom 10:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] in the heavens  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֖יִם]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Daniel 4:37** (4:34)
+**Daniel 4:37**<big><big>[[Dan.4.34 Nebuchadnezzar Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works [are] truth, and his ways judgment: and those that walk in pride he is able to abase.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now I, Nebuchadnezzar, praise and exalt and glorify the King of heaven, for all 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.36|<< Daniel 4:36]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.1|Daniel 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H3705\|כְּעַ֞ן]]&#8207; </big>**| ke.'An<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0576B\|אֲנָ֣ה]]&#8207; </big>**| 'a.Nah<small><sup>[[APp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

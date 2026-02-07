@@ -1,4 +1,4 @@
-**Jeremiah 50:25** 
+**Jeremiah 50:25**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath opened his armoury, and hath brought forth the weapons of his indignation: for this [is] the work of the Lord GOD of hosts in the land of the Chaldeans.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD has opened His armory and brought out His weapons of wrath, for this is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.24|<< Jeremiah 50:24]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.26|Jeremiah 50:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has opened  |**<big>&#8207;[[H6605A\|פָּתַ֤ח]]&#8207; </big>**| pa.Tach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

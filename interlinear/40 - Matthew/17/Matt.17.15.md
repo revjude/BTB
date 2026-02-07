@@ -1,12 +1,12 @@
-**Matthew 17:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:15**<big><big>[[Matt.17.14 The Boy with a Demon|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Lord, have mercy on my son: for he is lunatick, and sore vexed: for ofttimes he falleth into the fire, and oft into the water.
 <small><sub>**BSB:**</sub></small>
 “Lord, have mercy on my son,” he said. “He has seizures and is suffering terribly. He often falls into the fire or into the water.
 <small><sub>**Literal:**</sub></small>
 and saying; [15] Lord, do have mercy on my <the> son, for he is epileptic and miserably suffers; often for he falls into the fire and often into the water.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.14|<< Matthew 17:14]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.16|Matthew 17:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^1] | |
 | saying; |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr>[^2] | |

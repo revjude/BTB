@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 5:7** 
 <small><sub>**LXX:**</sub></small>
 For in a multitude of dreams, and follies, and many words, that with  God you should fear. 
-<small><sub>**KJV:**</sub></small>
-For in the multitude of dreams and many words [there are] also [divers] vanities: but fear thou God.
-<small><sub>**BSB:**</sub></small>
-For as many dreams bring futility, so do many words. Therefore, fear God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.5.6|<< Ecclesiastes 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.5.8|Ecclesiastes 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

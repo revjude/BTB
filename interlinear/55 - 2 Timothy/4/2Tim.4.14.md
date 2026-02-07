@@ -1,5 +1,5 @@
-**2 Timothy 4:14
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 4:14**<big><big>[[2Tim.4.9 Personal Concerns|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Alexander the coppersmith did me much evil: the Lord reward him according to his works:
 <small><sub>**BSB:**</sub></small>
 Alexander the coppersmith did great harm to me. The Lord will repay him according to his deeds.
@@ -10,7 +10,7 @@ Alexander the coppersmith great to me harm did; Will render to him the Lord acco
 > $\quad$ alluding to: [[LXX.Ps.62.12|Ps 62:12]] ☩ [[LXX.Prov.24.12|Prov 24:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Alexander |**<big>[[G0223J\|Ἀλέξανδρος]]</big>**  |Alexandros <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

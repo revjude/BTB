@@ -1,12 +1,12 @@
-**Luke 17:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:8**<big><big>[[Luke.17.5 The Power of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink?
 <small><sub>**BSB:**</sub></small>
 Instead, won’t he tell him, ‘Prepare my meal and dress yourself to serve me while I eat and drink, and afterward you may eat and drink’?
 <small><sub>**Literal:**</sub></small>
 But surely he will say to him; do prepare what I may eat, and having girded yourself about do serve me while I may eat and I may drink, and after these things you will eat and will drink you yourself?’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.7|<< Luke 17:7]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.9|Luke 17:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | surely |**<big>[[G3780\|οὐχὶ]]</big>**  |ouchi <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

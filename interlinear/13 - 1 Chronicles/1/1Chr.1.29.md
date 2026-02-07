@@ -1,4 +1,4 @@
-**1 Chronicles 1:29** 
+**1 Chronicles 1:29**<big><big>[[1Chr.1.28 The Descendants of Abraham|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] their generations: The firstborn of Ishmael, Nebaioth; then Kedar, and Adbeel, and Mibsam,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These are their genealogies: Nebaioth the firstborn of Ishmael, then Kedar, Adbe
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.28|<< 1 Chronicles 1:28]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.30|1 Chronicles 1:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] generations their  |**<big>&#8207;[[H8435\|תֹּלְדוֹתָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| to.le.do.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

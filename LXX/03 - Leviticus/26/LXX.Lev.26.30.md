@@ -1,10 +1,7 @@
 **LXX Leviticus 26:30** 
 <small><sub>**LXX:**</sub></small>
 And I will make desolate  your monuments, and I will utterly destroy  your wooden \[images\] made by hands. And I will put  your carcasses upon the carcasses  of your idols. And my soul will loathe in you. 
-<small><sub>**KJV:**</sub></small>
-And I will destroy your high places, and cut down your images, and cast your carcases upon the carcases of your idols, and my soul shall abhor you.
-<small><sub>**BSB:**</sub></small>
-I will destroy your high places, cut down your incense altars, and heap your lifeless bodies on the lifeless remains of your idols; and My soul will despise you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.29|<< Leviticus 26:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.31|Leviticus 26:31 >>]]</td></tr></table>
 
 | Translation | Greek |

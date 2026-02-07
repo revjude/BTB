@@ -1,4 +1,4 @@
-**Genesis 41:5** 
+**Genesis 41:5**<big><big>[[Gen.41.1 The Dreams of Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he slept and dreamed the second time: and, behold, seven ears of corn came up upon one stalk, rank and good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but he fell back asleep and dreamed a second time: Seven heads of grain, plump a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.4|<< Genesis 41:4]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.6|Genesis 41:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he slept  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3462\|יִּישָׁ֕ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Shan<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he dreamed  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2492B\|יַּחֲלֹ֖ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.cha.Lom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

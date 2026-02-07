@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 3:17** 
 <small><sub>**LXX:**</sub></small>
 I said in my heart, With the just and with the impious, God will judge, for \[there is\] a season  for every thing, and for every  action there. 
-<small><sub>**KJV:**</sub></small>
-I said in mine heart, God shall judge the righteous and the wicked: for [there is] a time there for every purpose and for every work.
-<small><sub>**BSB:**</sub></small>
-I said in my heart, “God will judge the righteous and the wicked, since there is a time for every activity and every deed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.16|<< Ecclesiastes 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.18|Ecclesiastes 3:18 >>]]</td></tr></table>
 
 | Translation | Greek |

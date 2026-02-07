@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:15** 
 <small><sub>**LXX:**</sub></small>
 And I will throw you away from my face, as I threw away  your brethren, all the seed of Ephraim. 
-<small><sub>**KJV:**</sub></small>
-And I will cast you out of my sight, as I have cast out all your brethren, [even] the whole seed of Ephraim.
-<small><sub>**BSB:**</sub></small>
-And I will cast you out of My presence, just as I have cast out all your brothers, all the descendants of Ephraim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.14|<< Jeremiah 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.16|Jeremiah 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

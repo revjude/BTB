@@ -1,4 +1,4 @@
-**Exodus 7:4** 
+**Exodus 7:4**<big><big>[[Exod.7.1 God Commands Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Pharaoh shall not hearken unto you, that I may lay my hand upon Egypt, and bring forth mine armies, [and] my people the children of Israel, out of the land of Egypt by great judgments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pharaoh will not listen to you. Then I will lay My hand on Egypt, and by mighty 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.3|<< Exodus 7:3]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.5|Exodus 7:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will listen  |**<big>&#8207;[[H8085G\|יִשְׁמַ֤ע]]&#8207; </big>**| yish.Ma'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

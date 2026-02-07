@@ -1,4 +1,4 @@
-**Deuteronomy 19:18** 
+**Deuteronomy 19:18**<big><big>[[Deut.19.15 The Testimony of Two or Three Witnesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the judges shall make diligent inquisition: and, behold, [if] the witness [be] a false witness, [and] hath testified falsely against his brother;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The judges shall investigate thoroughly, and if the witness is proven to be a li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.17|<< Deuteronomy 19:17]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.19|Deuteronomy 19:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will investigate  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1875\|דָרְשׁ֥וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> da.re.Shu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the judges  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8199\|שֹּׁפְטִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sho.fe.Tim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

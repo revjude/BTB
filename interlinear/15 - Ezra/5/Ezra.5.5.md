@@ -1,4 +1,4 @@
-**Ezra 5:5** 
+**Ezra 5:5**<big><big>[[Ezra.5.1 Temple Rebuilding Resumes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the eye of their God was upon the elders of the Jews, that they could not cause them to cease, till the matter came to Darius: and then they returned answer by letter concerning this [matter].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the eye of their God was on the elders of the Jews, so that they were not st
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.4|<< Ezra 5:4]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.6|Ezra 5:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] eye of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5870\|עֵ֣ין]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> 'Ein<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God their  |**<big>&#8207;[[H0426\|אֱלָהֲ]]&#8207;&#8207;[[H9028\|הֹ֗ם]]&#8207; </big>**| 'e.la.ha.Ho<small><sup>[[ANcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

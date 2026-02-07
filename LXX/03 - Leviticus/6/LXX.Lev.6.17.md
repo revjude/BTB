@@ -1,10 +1,7 @@
 **LXX Leviticus 6:17** 
 <small><sub>**LXX:**</sub></small>
 It shall not be baked being leavened. I have given it as a portion to them of the yield \[offerings\] of \[the\] <span class="smallcaps">lord</span>. It is a holy of holies, as the one for the sin \[offering\], and as the one for the trespass \[offering\]. 
-<small><sub>**KJV:**</sub></small>
-It shall not be baken with leaven. I have given it [unto them for] their portion of my offerings made by fire; it [is] most holy, as [is] the sin offering, and as the trespass offering.
-<small><sub>**BSB:**</sub></small>
-It must not be baked with leaven; I have assigned it as their portion of My food offerings. It is most holy, like the sin offering and the guilt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.6.16|<< Leviticus 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.6.18|Leviticus 6:18 >>]]</td></tr></table>
 
 | Translation | Greek |

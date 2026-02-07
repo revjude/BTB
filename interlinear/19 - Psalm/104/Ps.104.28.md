@@ -1,4 +1,4 @@
-**Psalms 104:28** 
+**Psalms 104:28**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That] thou givest them they gather: thou openest thine hand, they are filled with good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When You give it to them, they gather it up; when You open Your hand, they are s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.27|<< Psalms 104:27]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.29|Psalms 104:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you give  |**<big>&#8207;[[H5414G\|תִּתֵּ֣ן]]&#8207; </big>**| ti.Ten<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ֭]]&#8207;&#8207;[[H9038\|הֶם]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

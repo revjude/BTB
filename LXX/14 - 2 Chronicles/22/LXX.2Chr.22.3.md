@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 22:3** 
 <small><sub>**LXX:**</sub></small>
 And also he went in \[the\] ways of \[the\] house of Ahab, for  his mother was his counselor to sin. 
-<small><sub>**KJV:**</sub></small>
-He also walked in the ways of the house of Ahab: for his mother was his counseller to do wickedly.
-<small><sub>**BSB:**</sub></small>
-Ahaziah also walked in the ways of the house of Ahab, for his mother was his counselor in wickedness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.22.2|<< 2 Chronicles 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.22.4|2 Chronicles 22:4 >>]]</td></tr></table>
 
 | Translation | Greek |

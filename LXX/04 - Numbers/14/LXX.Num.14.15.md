@@ -1,10 +1,7 @@
 **LXX Numbers 14:15** 
 <small><sub>**LXX:**</sub></small>
 And shall you obliterate  this people as one man? and the nations shall say, as many as heard  your name, saying, 
-<small><sub>**KJV:**</sub></small>
-Now [if] thou shalt kill [all] this people as one man, then the nations which have heard the fame of thee will speak, saying,
-<small><sub>**BSB:**</sub></small>
-If You kill this people as one man, the nations who have heard of Your fame will say,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.14|<< Numbers 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.16|Numbers 14:16 >>]]</td></tr></table>
 
 | Translation | Greek |

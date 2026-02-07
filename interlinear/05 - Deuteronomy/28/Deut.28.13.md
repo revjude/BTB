@@ -1,4 +1,4 @@
-**Deuteronomy 28:13** 
+**Deuteronomy 28:13**<big><big>[[Deut.28.1 The Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall make thee the head, and not the tail; and thou shalt be above only, and thou shalt not be beneath; if that thou hearken unto the commandments of the LORD thy God, which I command thee this day, to observe and to do [them]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will make you the head and not the tail; you will only move upward and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.12|<< Deuteronomy 28:12]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.14|Deuteronomy 28:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make you  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H5414I\|נְתָֽנְ]]&#8207;&#8207;[[H9031\|ךָ֨]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ne.ta.ne.<small><sup>[[HVqq3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֤ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

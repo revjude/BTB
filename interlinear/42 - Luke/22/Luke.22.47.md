@@ -1,12 +1,12 @@
-**Luke 22:47
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:47**<big><big>[[Luke.22.47 The Betrayal of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And while he yet spake, behold a multitude, and he that was called Judas, one of the twelve, went before them, and drew near unto Jesus to kiss him.
 <small><sub>**BSB:**</sub></small>
 While He was still speaking, a crowd arrived, led by the man called Judas, one of the Twelve. He approached Jesus to kiss Him.
 <small><sub>**Literal:**</sub></small>
 While still now when he is speaking behold a crowd, and the [one] named Judas one of the Twelve was going before them and he drew near <the> to Jesus to kiss Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.46|<< Luke 22:46]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.48|Luke 22:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | While still |**<big>[[G2089\|Ἔτι]]</big>**  |Eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

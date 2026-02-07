@@ -1,10 +1,7 @@
 **LXX 1 Samuel 7:7** 
 <small><sub>**LXX:**</sub></small>
 And the Philistines heard that all the sons of Israel were gathered together in Mizpeh. And the satraps of the Philistines ascended against Israel. and the sons of Israel heard, and they were fearful from \[the\] face of the Philistines. 
-<small><sub>**KJV:**</sub></small>
-And when the Philistines heard that the children of Israel were gathered together to Mizpeh, the lords of the Philistines went up against Israel. And when the children of Israel heard [it], they were afraid of the Philistines.
-<small><sub>**BSB:**</sub></small>
-When the Philistines heard that the Israelites had gathered at Mizpah, their rulers marched up toward Israel. And when the Israelites learned of this, they feared the Philistines<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.7.6|<< 1 Samuel 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.8|1 Samuel 7:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Samuel 7:7** is...

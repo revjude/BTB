@@ -1,10 +1,7 @@
 **LXX Ezekiel 3:19** 
 <small><sub>**LXX:**</sub></small>
 And if you should give orders to the lawless one, and he should not turn from  his lawlessness, nor  his unjust way;  that lawless one shall die in his iniquity, and you  shall rescue your soul. 
-<small><sub>**KJV:**</sub></small>
-Yet if thou warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but thou hast delivered thy soul.
-<small><sub>**BSB:**</sub></small>
-But if you warn a wicked man and he does not turn from his wickedness and his wicked way, he will die in his iniquity, but you will have saved yourself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.18|<< Ezekiel 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.20|Ezekiel 3:20 >>]]</td></tr></table>
 
 | Translation | Greek |

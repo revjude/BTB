@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:2** 
 <small><sub>**LXX:**</sub></small>
 Moab is not still prancing. In Heshbon he devised for her bad \[things\]. Come and we should cut her from \[being\] a nation, and by cessation she shall cease; a sword shall proceed behind you. 
-<small><sub>**KJV:**</sub></small>
-[There shall be] no more praise of Moab: in Heshbon they have devised evil against it; come, and let us cut it off from [being] a nation. Also thou shalt be cut down, O Madmen; the sword shall pursue thee.
-<small><sub>**BSB:**</sub></small>
-There is no longer praise for Moab; in Heshbon they devise evil against her: ‘Come, let us cut her off from nationhood.’ You too, O people of Madmen, will be silenced; the sword will pursue you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.1|<< Jeremiah 48:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.3|Jeremiah 48:3 >>]]</td></tr></table>
 
 | Translation | Greek |

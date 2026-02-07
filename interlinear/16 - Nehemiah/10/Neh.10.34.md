@@ -1,4 +1,4 @@
-**Nehemiah 10:34** (10:35)
+**Nehemiah 10:34**<big><big>[[Neh.10.28 The Vows of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring [it] into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as [it is] written in the law:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ We have cast lots among the priests, Levites, and people for the donation of woo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.33|<< Nehemiah 10:33]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.35|Nehemiah 10:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the lots  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1486\|גּוֹרָל֨וֹת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> go.ra.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we have cast  |**<big>&#8207;[[H5307I\|הִפַּ֜לְנוּ]]&#8207; </big>**| hi.Pal.nu<small><sup>[[HVhp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

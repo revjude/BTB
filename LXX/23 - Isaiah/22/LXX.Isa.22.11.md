@@ -1,10 +1,7 @@
 **LXX Isaiah 22:11** 
 <small><sub>**LXX:**</sub></small>
 And you produced for yourselves water between the two walls inside the ancient pool, but you did not look to the one making it in \[the\] beginning; and the one creating it you did not behold. 
-<small><sub>**KJV:**</sub></small>
-Ye made also a ditch between the two walls for the water of the old pool: but ye have not looked unto the maker thereof, neither had respect unto him that fashioned it long ago.
-<small><sub>**BSB:**</sub></small>
-You built a reservoir between the walls for the waters of the ancient pool, but you did not look to the One who made it, or consider Him who planned it long ago.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.22.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.22.10|<< Isaiah 22:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.22.12|Isaiah 22:12 >>]]</td></tr></table>
 
 | Translation | Greek |

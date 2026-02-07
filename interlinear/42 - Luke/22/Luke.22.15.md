@@ -1,12 +1,12 @@
-**Luke 22:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:15**<big><big>[[Luke.22.14 The Last Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, With desire I have desired to eat this passover with you before I suffer:
 <small><sub>**BSB:**</sub></small>
 And He said to them, “I have eagerly desired to eat this Passover with you before My suffering.
 <small><sub>**Literal:**</sub></small>
 And He said to them; With desire I have desired this <the> Passover to eat with you before <the> I to suffe;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.14|<< Luke 22:14]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.16|Luke 22:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:2** 
 <small><sub>**LXX:**</sub></small>
 And the deliverance in that day became for mourning to all the people. For the people heard   in that day, saying that, The king frets for  his son. 
-<small><sub>**KJV:**</sub></small>
-And the victory that day was [turned] into mourning unto all the people: for the people heard say that day how the king was grieved for his son.
-<small><sub>**BSB:**</sub></small>
-And that day’s victory was turned into mourning for all the people, because on that day they were told, “The king is grieving over his son.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.1|<< 2 Samuel 19:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.3|2 Samuel 19:3 >>]]</td></tr></table>
 
 | Translation | Greek |

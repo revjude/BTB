@@ -1,5 +1,5 @@
-**2 Timothy 2:19
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:19**<big><big>[[2Tim.2.14 The Lord’s Approved Workman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, God’s firm foundation stands, bearing this seal: “The Lord knows those who are His,” and, “Everyone who calls on the name of the Lord must turn away from iniquity.”
@@ -10,7 +10,7 @@ Nevertheless, God’s firm foundation stands, bearing this seal: “The Lord kno
 > $\quad$ referencing: [[LXX.Num.16.5|Num 16:5]] ☩ [[LXX.Isa.26.13|Isa 26:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Nevertheless |**<big>[[G3305\|μέντοι]]</big>**  |mentoi <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

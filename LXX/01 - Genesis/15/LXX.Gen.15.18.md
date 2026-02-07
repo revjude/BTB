@@ -1,10 +1,7 @@
 **LXX Genesis 15:18** 
 <small><sub>**LXX:**</sub></small>
 In  that day \[the\] <span class="smallcaps">lord</span> ordained a covenant  with Abram, saying, \[To\] your seed I will give  this land, from the river of Egypt unto the river of the great Euphrates, 
-<small><sub>**KJV:**</sub></small>
-In the same day the LORD made a covenant with Abram, saying, Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates:
-<small><sub>**BSB:**</sub></small>
-On that day the LORD made a covenant with Abram, saying, “To your descendants I have given this land—from the river of Egypt to the great River Euphrates—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.15.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.15.17|<< Genesis 15:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.15.19|Genesis 15:19 >>]]</td></tr></table>
 
 | Translation | Greek |

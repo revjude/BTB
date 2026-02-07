@@ -1,12 +1,12 @@
-**Romans 8:18
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:18**<big><big>[[Rom.8.18 Future Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I reckon that the sufferings of this present time [are] not worthy [to be compared] with the glory which shall be revealed in us.
 <small><sub>**BSB:**</sub></small>
 I consider that our present sufferings are not comparable to the glory that will be revealed in us.
 <small><sub>**Literal:**</sub></small>
 I reckon for that not comparable the sufferings of the present time [are] to the coming glory to be revealed to us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.17|<< Romans 8:17]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.19|Romans 8:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I reckon |**<big>[[G3049\|Λογίζομαι]]</big>**  |Logizomai <small><sup>[[V-PNI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

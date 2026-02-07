@@ -1,4 +1,4 @@
-**Proverbs 6:28** 
+**Proverbs 6:28**<big><big>[[Prov.6.20 Warnings against Adultery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can one go upon hot coals, and his feet not be burned?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Can a man walk on hot coals without scorching his feet?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.27|<< Proverbs 6:27]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.29|Proverbs 6:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | or?  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he walk?  |**<big>&#8207;[[H1980I\|יְהַלֵּ֣ךְ]]&#8207; </big>**| ye.ha.Lekh<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

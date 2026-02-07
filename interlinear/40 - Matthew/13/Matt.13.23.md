@@ -1,12 +1,12 @@
-**Matthew 13:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:23**<big><big>[[Matt.13.18 The Parable of the Sower Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he that received seed into the good ground is he that heareth the word, and understandeth [it]; which also beareth fruit, and bringeth forth, some an hundredfold, some sixty, some thirty.
 <small><sub>**BSB:**</sub></small>
 But the seed sown on good soil is the one who hears the word and understands it. He indeed bears fruit and produces a crop—a hundredfold, sixtyfold, or thirtyfold.”
 <small><sub>**Literal:**</sub></small>
 That however on the good <the> soil having been sown, this is the [one] the word hearing and understanding, who indeed brings forth fruit and produces — some indeed a hundredfold, some however sixty, some however thirty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.22|<< Matthew 13:22]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.24|Matthew 13:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | That |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

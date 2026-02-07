@@ -1,10 +1,7 @@
 **LXX Psalm 44:2** 
 <small><sub>**LXX:**</sub></small>
  Your hand utterly destroyed nations, and planted them. You afflicted peoples and cast them out. 
-<small><sub>**KJV:**</sub></small>
-[How] thou didst drive out the heathen with thy hand, and plantedst them; [how] thou didst afflict the people, and cast them out.
-<small><sub>**BSB:**</sub></small>
-With Your hand You drove out the nations and planted our fathers there; You crushed the peoples and cast them out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.44.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.44.1|<< Psalm 44:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.44.3|Psalm 44:3 >>]]</td></tr></table>
 
 | Translation | Greek |

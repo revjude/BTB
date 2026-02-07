@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:28** 
 <small><sub>**LXX:**</sub></small>
 And she said, \[Did\] I ask a son from  my master? Did I not say, Do not mislead with me? 
-<small><sub>**KJV:**</sub></small>
-Then she said, Did I desire a son of my lord? did I not say, Do not deceive me?
-<small><sub>**BSB:**</sub></small>
-Then she said, “Did I ask you for a son, my lord? Didn’t I say, ‘Do not deceive me?’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.27|<< 2 Kings 4:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.29|2 Kings 4:29 >>]]</td></tr></table>
 
 | Translation | Greek |

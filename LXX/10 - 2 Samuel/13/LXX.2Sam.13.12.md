@@ -1,10 +1,7 @@
 **LXX 2 Samuel 13:12** 
 <small><sub>**LXX:**</sub></small>
 And she said to him, No, O my brother, you should not abase me, for it shall not be done so in Israel. You should not do  this folly. 
-<small><sub>**KJV:**</sub></small>
-And she answered him, Nay, my brother, do not force me; for no such thing ought to be done in Israel: do not thou this folly.
-<small><sub>**BSB:**</sub></small>
-“No, my brother!” she cried. “Do not violate me, for such a thing should never be done in Israel. Do not do this disgraceful thing!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.11|<< 2 Samuel 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.13|2 Samuel 13:13 >>]]</td></tr></table>
 
 | Translation | Greek |

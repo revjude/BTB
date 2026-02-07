@@ -1,4 +1,4 @@
-**1 Kings 19:12** 
+**1 Kings 19:12**<big><big>[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after the earthquake a fire; [but] the LORD [was] not in the fire: and after the fire a still small voice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After the earthquake there was a fire, but the LORD was not in the fire. And aft
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.11|<< 1 Kings 19:11]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.13|1 Kings 19:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] after  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחַ֤ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Char<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the earthquake  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7494\|רַ֙עַשׁ֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ra.'ash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

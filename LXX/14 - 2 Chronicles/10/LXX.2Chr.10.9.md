@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 10:9** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, What word \[do\] you counsel that I shall answer \[to\] this people who spoke to me, saying, Spare \[us\] from the yoke of which your father put upon us? 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, What advice give ye that we may return answer to this people, which have spoken to me, saying, Ease somewhat the yoke that thy father did put upon us?
-<small><sub>**BSB:**</sub></small>
-He asked them, “What message do you advise that we send back to these people who have spoken to me, saying, ‘Lighten the yoke your father put on us’?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.8|<< 2 Chronicles 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.10|2 Chronicles 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 30:15** (30:16)
+**Numbers 30:15**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if he shall any ways make them void after that he hath heard [them]; then he shall bear her iniquity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if he nullifies them after he hears of them, then he will bear her iniquity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.14|<< Numbers 30:14]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.16|Numbers 30:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | actually \<break>  |**<big>&#8207;[[H6565A\|הָפֵ֥ר]]&#8207; </big>**| ha.Fer<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

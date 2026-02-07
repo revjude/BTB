@@ -1,5 +1,5 @@
-**Revelation 16:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 16:12**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared.
 <small><sub>**BSB:**</sub></small>
 And the sixth angel poured out his bowl on the great river Euphrates, and its water was dried up to prepare the way for the kings of the East.
@@ -10,7 +10,7 @@ And the sixth angel poured out the bowl of him upon the river <the> great <the> 
 > $\quad$ possibly alluding to: [[LXX.Isa.11.15|Isa 11:15-16]] ☩ [[LXX.Jer.50.38|Jer 50:38]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

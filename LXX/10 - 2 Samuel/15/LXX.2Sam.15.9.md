@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:9** 
 <small><sub>**LXX:**</sub></small>
 And the king said to him, Proceed in peace! And rising up he went unto Hebron. 
-<small><sub>**KJV:**</sub></small>
-And the king said unto him, Go in peace. So he arose, and went to Hebron.
-<small><sub>**BSB:**</sub></small>
-“Go in peace,” said the king. So Absalom got up and went to Hebron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.8|<< 2 Samuel 15:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.10|2 Samuel 15:10 >>]]</td></tr></table>
 
 | Translation | Greek |

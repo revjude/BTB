@@ -1,12 +1,12 @@
-**Acts 4:34
-**<small><sub>**KJV:**</sub></small>
+**Acts 4:34**<big><big>[[Acts.4.32 Sharing among Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,
 <small><sub>**BSB:**</sub></small>
 There were no needy ones among them, because those who owned lands or houses would sell their property, bring the proceeds from the sales,
 <small><sub>**Literal:**</sub></small>
 Not even for in need anyone there was among them; as many as for [were] owners of lands or houses were selling [them] they were bringing the proceeds of what is sold<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.33|<< Acts 4:33]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.35|Acts 4:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not even |**<big>[[G3761\|οὐδὲ]]</big>**  |oude <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

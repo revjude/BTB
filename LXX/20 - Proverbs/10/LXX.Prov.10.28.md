@@ -1,10 +1,7 @@
 **LXX Proverbs 10:28** 
 <small><sub>**LXX:**</sub></small>
 Gladness lingers with \[the\] just; but \[the\] hope of \[the\] impious shall be destroyed. 
-<small><sub>**KJV:**</sub></small>
-The hope of the righteous [shall be] gladness: but the expectation of the wicked shall perish.
-<small><sub>**BSB:**</sub></small>
-The hope of the righteous is joy, but the expectations of the wicked will perish.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.10.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.10.27|<< Proverbs 10:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.10.29|Proverbs 10:29 >>]]</td></tr></table>
 
 | Translation | Greek |

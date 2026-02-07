@@ -1,10 +1,7 @@
 **LXX Exodus 34:16** 
 <small><sub>**LXX:**</sub></small>
 and you should take  of their daughters to your sons, and  of your daughters you should give to their sons; and your daughters should fornicate after  their gods, and your sons will fornicate after  their gods. 
-<small><sub>**KJV:**</sub></small>
-And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods.
-<small><sub>**BSB:**</sub></small>
-And when you take some of their daughters as brides for your sons, their daughters will prostitute themselves to their gods and cause your sons to do the same.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.15|<< Exodus 34:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.17|Exodus 34:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 14:2
-**<small><sub>**KJV:**</sub></small>
+**John 14:2**<big><big>[[John.14.1 In My Father’s House Are Many Rooms|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In my Father’s house are many mansions: if [it were] not [so], I would have told you. I go to prepare a place for you.
 <small><sub>**BSB:**</sub></small>
 In My Father’s house are many rooms. If it were not so, would I have told you that I am going there to prepare a place for you?
 <small><sub>**Literal:**</sub></small>
 In the house of the Father of Mine mansions many there are — lest then surely I have told then would you — that I go to prepare a place for you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.1|<< John 14:1]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.3|John 14:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

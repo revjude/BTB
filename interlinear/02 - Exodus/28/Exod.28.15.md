@@ -1,4 +1,4 @@
-**Exodus 28:15** 
+**Exodus 28:15**<big><big>[[Exod.28.15 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make the breastplate of judgment with cunning work; after the work of the ephod thou shalt make it; [of] gold, [of] blue, and [of] purple, and [of] scarlet, and [of] fine twined linen, shalt thou make it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are also to make a breastpiece of judgment with the same workmanship as the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.14|<< Exodus 28:14]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.16|Exodus 28:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will make  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213H\|עָשִׂ֜יתָ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a breastpiece of  |**<big>&#8207;[[H2833\|חֹ֤שֶׁן]]&#8207; </big>**| Cho.shen<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

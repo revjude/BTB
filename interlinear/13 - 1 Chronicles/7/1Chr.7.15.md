@@ -1,4 +1,4 @@
-**1 Chronicles 7:15** 
+**1 Chronicles 7:15**<big><big>[[1Chr.7.14 The Descendants of Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Machir took to wife [the sister] of Huppim and Shuppim, whose sister’s name [was] Maachah;) and the name of the second [was] Zelophehad: and Zelophehad had daughters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Machir took a wife from among the Huppites and Shuppites. The name of his sister
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.14|<< 1 Chronicles 7:14]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.16|1 Chronicles 7:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Makir  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4353G\|מָכִ֞יר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.Khir<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he took  |**<big>&#8207;[[H3947G\|לָקַ֤ח]]&#8207; </big>**| la.Kach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 107:9** 
+**Psalms 107:9**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he satisfieth the longing soul, and filleth the hungry soul with goodness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For He satisfies the thirsty and fills the hungry with good things.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.8|<< Psalms 107:8]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.10|Psalms 107:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he satisfies  |**<big>&#8207;[[H7646\|הִ֭שְׂבִּיעַ]]&#8207; </big>**| His.bi.a'<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

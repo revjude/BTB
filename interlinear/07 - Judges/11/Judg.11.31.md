@@ -1,4 +1,4 @@
-**Judges 11:31** 
+**Judges 11:31**<big><big>[[Judg.11.29 Jephthah’s Tragic Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then it shall be, that whatsoever cometh forth of the doors of my house to meet me, when I return in peace from the children of Ammon, shall surely be the LORD’S, and I will offer it up for a burnt offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then whatever comes out the door of my house to greet me on my triumphant return
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.30|<< Judges 11:30]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.32|Judges 11:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whatever comes out  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3318G\|יּוֹצֵ֗א]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yo.Tze'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

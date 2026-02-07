@@ -1,10 +1,7 @@
 **LXX Isaiah 43:10** 
 <small><sub>**LXX:**</sub></small>
 Be witnesses to me! and I witness, says \[the\] <span class="smallcaps">lord</span>  God, and  my servant whom I chose. That you should know, and should trust, and should perceive that I am. Before me another God did not exist, and after me it will not be. 
-<small><sub>**KJV:**</sub></small>
-Ye [are] my witnesses, saith the LORD, and my servant whom I have chosen: that ye may know and believe me, and understand that I [am] he: before me there was no God formed, neither shall there be after me.
-<small><sub>**BSB:**</sub></small>
-“You are My witnesses,” declares the LORD, “and My servant whom I have chosen, so that you may consider and believe Me and understand that I am He. Before Me no god was formed, and after Me none will come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.43.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.43.9|<< Isaiah 43:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.43.11|Isaiah 43:11 >>]]</td></tr></table>
 
 | Translation | Greek |

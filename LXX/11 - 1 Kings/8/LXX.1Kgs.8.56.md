@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:56** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[be\] \[the\] <span class="smallcaps">lord</span> who gave today rest \[to\] his people Israel, according to all as many \[things\] as he spoke. Not one word perished in all  of his good words which he spoke by \[the\] hand of Moses  his servant. 
-<small><sub>**KJV:**</sub></small>
-Blessed [be] the LORD, that hath given rest unto his people Israel, according to all that he promised: there hath not failed one word of all his good promise, which he promised by the hand of Moses his servant.
-<small><sub>**BSB:**</sub></small>
-“Blessed be the LORD, who has given rest to His people Israel according to all that He promised. Not one word has failed of all the good promises He made through His servant Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.55|<< 1 Kings 8:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.57|1 Kings 8:57 >>]]</td></tr></table>
 
 | Translation | Greek |

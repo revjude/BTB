@@ -1,10 +1,7 @@
 **LXX Judges 20:25** 
 <small><sub>**LXX:**</sub></small>
 And Benjamin came forth to meet them from  Gibeah on the second day. And they utterly destroyed yet of the people of Israel eighteen thousand men upon the ground, all these unsheathing \[the\] broadsword. 
-<small><sub>**KJV:**</sub></small>
-And Benjamin went forth against them out of Gibeah the second day, and destroyed down to the ground of the children of Israel again eighteen thousand men; all these drew the sword.
-<small><sub>**BSB:**</sub></small>
-That same day the Benjamites came out against them from Gibeah and cut down another 18,000 Israelites, all of them armed with swords.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.20.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.20.24|<< Judges 20:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.20.26|Judges 20:26 >>]]</td></tr></table>
 
 | Translation | Greek |

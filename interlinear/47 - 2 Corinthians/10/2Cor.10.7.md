@@ -1,12 +1,12 @@
-**2 Corinthians 10:7
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 10:7**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Do ye look on things after the outward appearance? If any man trust to himself that he is Christ’s, let him of himself think this again, that, as he [is] Christ’s, even so [are] we Christ’s.
 <small><sub>**BSB:**</sub></small>
 You are looking at outward appearances. If anyone is confident that he belongs to Christ, he should remind himself that we belong to Christ just as much as he does.
 <small><sub>**Literal:**</sub></small>
 The [things] according to appearance are you looking. If anyone is persuaded in himself of Christ to be, this he should reckon again within himself that even as he [is] of Christ, so also [are] we ourselves of Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.6|<< 2 Corinthians 10:6]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.8|2 Corinthians 10:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [things] |**<big>[[G3588\|Τὰ]]</big>**  |Ta <small><sup>[[T-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | according to |**<big>[[G2596\|κατὰ]]</big>**  |kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

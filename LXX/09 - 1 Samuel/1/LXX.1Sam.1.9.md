@@ -1,10 +1,7 @@
 **LXX 1 Samuel 1:9** 
 <small><sub>**LXX:**</sub></small>
 And Hannah rose up after  their eating in Shiloh, and after  drinking. And Eli the priest sat upon the chair at the doorposts of \[the\] temple of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest sat upon a seat by a post of the temple of the LORD.
-<small><sub>**BSB:**</sub></small>
-So after they had finished eating and drinking in Shiloh, Hannah stood up. Now Eli the priest was sitting on a chair by the doorpost of the temple of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.1.8|<< 1 Samuel 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.1.10|1 Samuel 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

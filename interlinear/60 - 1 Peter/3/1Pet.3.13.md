@@ -1,12 +1,12 @@
-**1 Peter 3:13
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:13**<big><big>[[1Pet.3.8 Turning from Evil|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And who [is] he that will harm you, if ye be followers of that which is good?
 <small><sub>**BSB:**</sub></small>
 Who can harm you if you are zealous for what is good?
 <small><sub>**Literal:**</sub></small>
 And who [is] he who will harm you, if for that which [is] good zealous you shall be?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.12|<< 1 Peter 3:12]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.14|1 Peter 3:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who [is] |**<big>[[G5101\|τίς]]</big>**  |tis <small><sup>[[I-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

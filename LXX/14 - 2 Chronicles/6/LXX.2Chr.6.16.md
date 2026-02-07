@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:16** 
 <small><sub>**LXX:**</sub></small>
 And now, O <span class="smallcaps">lord</span> the God of Israel, keep \[with\] your servant David,  my father, what you spoke to him, saying, There shall not fail to you a man from \[before\] my face sitting upon \[the\] throne of Israel, if only your sons should guard  their way  to go by  my law, as you went before me. 
-<small><sub>**KJV:**</sub></small>
-Now therefore, O LORD God of Israel, keep with thy servant David my father that which thou hast promised him, saying, There shall not fail thee a man in my sight to sit upon the throne of Israel; yet so that thy children take heed to their way to walk in my law, as thou hast walked before me.
-<small><sub>**BSB:**</sub></small>
-Therefore now, O LORD, God of Israel, keep for Your servant, my father David, what You promised when You said: ‘You will never fail to have a man to sit before Me on the throne of Israel, if only your descendants guard their way to walk in My law as you have walked before Me.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.15|<< 2 Chronicles 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.17|2 Chronicles 6:17 >>]]</td></tr></table>
 
 | Translation | Greek |

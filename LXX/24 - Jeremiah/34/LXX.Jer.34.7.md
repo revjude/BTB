@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:7** 
 <small><sub>**LXX:**</sub></small>
 And the force of \[the\] king of Babylon waged war against Jerusalem, and against the cities of Judah, the ones remaining, and against Lachish, and against Azekah, for these were left among \[the\] cities of Judah -- fortified cities. 
-<small><sub>**KJV:**</sub></small>
-When the king of Babylon’s army fought against Jerusalem, and against all the cities of Judah that were left, against Lachish, and against Azekah: for these defenced cities remained of the cities of Judah.
-<small><sub>**BSB:**</sub></small>
-as the army of the king of Babylon was fighting against Jerusalem and the remaining cities of Judah—against Lachish and Azekah. For these were the only fortified cities remaining in Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.6|<< Jeremiah 34:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.8|Jeremiah 34:8 >>]]</td></tr></table>
 
 | Translation | Greek |

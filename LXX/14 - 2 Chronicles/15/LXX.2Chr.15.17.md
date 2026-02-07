@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 15:17** 
 <small><sub>**LXX:**</sub></small>
 Except the high \[places\] were not removed, for \[they\] existed in  Israel. Only the heart of Asa was perfect all  his days. 
-<small><sub>**KJV:**</sub></small>
-But the high places were not taken away out of Israel: nevertheless the heart of Asa was perfect all his days.
-<small><sub>**BSB:**</sub></small>
-The high places were not removed from Israel, but Asa’s heart was fully devoted all his days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.15.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.15.16|<< 2 Chronicles 15:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.15.18|2 Chronicles 15:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Hebrews 6:4
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 6:4**<big><big>[[Heb.6.1 A Call to Maturity|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For [it is] impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,
 <small><sub>**BSB:**</sub></small>
 It is impossible for those who have once been enlightened, who have tasted the heavenly gift, who have shared in the Holy Spirit,
 <small><sub>**Literal:**</sub></small>
 [It is] impossible for to those once having been enlightened, having tasted then of the gift <the> heavenly and partakers having become of [the] Spirit Holy<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.3|<< Hebrews 6:3]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.5|Hebrews 6:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [It is] impossible |**<big>[[G0102\|ἀδύνατον]]</big>**  |adunaton <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

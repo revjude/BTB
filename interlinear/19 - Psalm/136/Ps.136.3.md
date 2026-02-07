@@ -1,4 +1,4 @@
-**Psalms 136:3** 
+**Psalms 136:3**<big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O give thanks to the Lord of lords: for his mercy [endureth] for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Give thanks to the Lord of lords. His loving devotion endures forever.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.136.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.2|<< Psalms 136:2]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.4|Psalms 136:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give thanks  |**<big>&#8207;[[H3034\|ה֭וֹדוּ]]&#8207; </big>**| Ho.du<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] lord\<s> of  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H0113\|אֲדֹנֵ֣י]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.do.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

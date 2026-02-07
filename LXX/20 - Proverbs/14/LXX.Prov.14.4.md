@@ -1,10 +1,7 @@
 **LXX Proverbs 14:4** 
 <small><sub>**LXX:**</sub></small>
 Where there are no oxen, \[the\] stables \[are\] clean; and where \[there is\] much produce, \[the\] strength of \[the\] ox \[is\] apparent. 
-<small><sub>**KJV:**</sub></small>
-Where no oxen [are], the crib [is] clean: but much increase [is] by the strength of the ox.
-<small><sub>**BSB:**</sub></small>
-Where there are no oxen, the manger is empty, but an abundant harvest comes through the strength of the ox.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.3|<< Proverbs 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.5|Proverbs 14:5 >>]]</td></tr></table>
 
 | Translation | Greek |

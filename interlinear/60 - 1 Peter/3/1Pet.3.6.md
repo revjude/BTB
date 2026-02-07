@@ -1,5 +1,5 @@
-**1 Peter 3:6
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:6**<big><big>[[1Pet.3.1 Wives and Husbands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.
 <small><sub>**BSB:**</sub></small>
 just as Sarah obeyed Abraham and called him lord. And you are her children if you do what is right and refuse to give way to fear.
@@ -10,7 +10,7 @@ as Sarah obeyed <the> Abraham lord him calling, of whom you have become children
 > $\quad$ alluding to: [[LXX.Gen.18.12|Gen 18:12]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | as |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Sarah |**<big>[[G4564\|Σάρρα]]</big>**  |Sarra <small><sup>[[N-NSF-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

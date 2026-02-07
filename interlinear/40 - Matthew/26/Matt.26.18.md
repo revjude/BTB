@@ -1,12 +1,12 @@
-**Matthew 26:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:18**<big><big>[[Matt.26.17 Preparing the Passover|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at thy house with my disciples.
 <small><sub>**BSB:**</sub></small>
 He answered, “Go into the city to a certain man and tell him that the Teacher says, ‘My time is near. I will keep the Passover with My disciples at your house.’”
 <small><sub>**Literal:**</sub></small>
 <the> And He said; do go into the city unto <the> a certain man and do tell him: the Teacher says; The time for Me near is, with you I keep the Passover with the disciples of Mine.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.17|<< Matthew 26:17]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.19|Matthew 26:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

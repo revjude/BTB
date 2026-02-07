@@ -1,10 +1,7 @@
 **LXX Exodus 23:33** 
 <small><sub>**LXX:**</sub></small>
 And they shall not lie in wait in  your land, lest they should cause you to sin against me; for if you should be a slave \[to\] their gods, these will be to you an occasion for stumbling. 
-<small><sub>**KJV:**</sub></small>
-They shall not dwell in thy land, lest they make thee sin against me: for if thou serve their gods, it will surely be a snare unto thee.
-<small><sub>**BSB:**</sub></small>
-They must not remain in your land, lest they cause you to sin against Me. For if you serve their gods, it will surely be a snare to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.32|<< Exodus 23:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.24.1|Exodus 24:1 >>]]</td></tr></table>
 
 | Translation | Greek |

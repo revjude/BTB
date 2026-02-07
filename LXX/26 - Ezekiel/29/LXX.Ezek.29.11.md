@@ -1,10 +1,7 @@
 **LXX Ezekiel 29:11** 
 <small><sub>**LXX:**</sub></small>
 In no way shall there go through by it \[the\] foot of a man; and \[the\] foot of a beast in no way shall go through it, and it shall not be inhabited forty years. 
-<small><sub>**KJV:**</sub></small>
-No foot of man shall pass through it, nor foot of beast shall pass through it, neither shall it be inhabited forty years.
-<small><sub>**BSB:**</sub></small>
-No foot of man or beast will pass through, and it will be uninhabited for forty years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.29.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.10|<< Ezekiel 29:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.12|Ezekiel 29:12 >>]]</td></tr></table>
 
 | Translation | Greek |

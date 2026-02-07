@@ -1,4 +1,4 @@
-**2 Kings 15:20** 
+**2 Kings 15:20**<big><big>[[2Kgs.15.17 Menahem Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Menahem exacted the money of Israel, [even] of all the mighty men of wealth, of each man fifty shekels of silver, to give to the king of Assyria. So the king of Assyria turned back, and stayed not there in the land.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Menahem exacted this money from each of the wealthy men of Israel—fifty shekel
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.19|<< 2 Kings 15:19]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.21|2 Kings 15:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318H\|יֹּצֵא֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Tze'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Menahem  |**<big>&#8207;[[H4505\|מְנַחֵ֨ם]]&#8207; </big>**| me.na.Chem<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

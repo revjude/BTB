@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:26** 
 <small><sub>**LXX:**</sub></small>
 As shame of a thief whenever he should be captured, so the sons of Israel be ashamed; they, and  their kings, and  their rulers, and  their priests, and  their prophets. 
-<small><sub>**KJV:**</sub></small>
-As the thief is ashamed when he is found, so is the house of Israel ashamed; they, their kings, their princes, and their priests, and their prophets,
-<small><sub>**BSB:**</sub></small>
-As the thief is ashamed when he is caught, so the house of Israel is disgraced. They, their kings, their officials, their priests, and their prophets<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.25|<< Jeremiah 2:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.27|Jeremiah 2:27 >>]]</td></tr></table>
 
 | Translation | Greek |

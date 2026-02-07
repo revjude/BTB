@@ -1,10 +1,7 @@
 **LXX Job 1:17** 
 <small><sub>**LXX:**</sub></small>
 While speaking this, there came another messenger, and said to Job, The Chaldeans put three companies, and encircled the camels, and captured them; and the servants they killed by swords, and I alone escaped, and I came  to report to you. 
-<small><sub>**KJV:**</sub></small>
-While he [was] yet speaking, there came also another, and said, The Chaldeans made out three bands, and fell upon the camels, and have carried them away, yea, and slain the servants with the edge of the sword; and I only am escaped alone to tell thee.
-<small><sub>**BSB:**</sub></small>
-While he was still speaking, another messenger came and reported: “The Chaldeans formed three bands, raided the camels, and took them away. They put the servants to the sword, and I alone have escaped to tell you!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.1.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.1.16|<< Job 1:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.1.18|Job 1:18 >>]]</td></tr></table>
 
 | Translation | Greek |

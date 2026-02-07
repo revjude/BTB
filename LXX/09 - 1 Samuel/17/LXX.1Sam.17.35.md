@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:35** 
 <small><sub>**LXX:**</sub></small>
 that I went forth after him, and struck him, and pulled it out of  his mouth; and if he rose up against me,  I held  his throat and struck \[him\], and I put him to death. 
-<small><sub>**KJV:**</sub></small>
-And I went out after him, and smote him, and delivered [it] out of his mouth: and when he arose against me, I caught [him] by his beard, and smote him, and slew him.
-<small><sub>**BSB:**</sub></small>
-I went after it, struck it down, and delivered the lamb from its mouth. If it reared up against me, I would grab it by its fur, strike it down, and kill it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.34|<< 1 Samuel 17:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.36|1 Samuel 17:36 >>]]</td></tr></table>
 
 | Translation | Greek |

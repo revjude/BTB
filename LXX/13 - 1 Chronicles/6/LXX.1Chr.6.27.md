@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:27** 
 <small><sub>**LXX:**</sub></small>
 Eliab his son, Jeroham his son, Elkanah his son, Samuel his son. 
-<small><sub>**KJV:**</sub></small>
-Eliab his son, Jeroham his son, Elkanah his son.
-<small><sub>**BSB:**</sub></small>
-Eliab his son, Jeroham his son, and Elkanah his son.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.26|<< 1 Chronicles 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.28|1 Chronicles 6:28 >>]]</td></tr></table>
 
 | Translation | Greek |

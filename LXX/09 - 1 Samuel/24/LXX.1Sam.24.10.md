@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:10** 
 <small><sub>**LXX:**</sub></small>
 Behold, in  this day your eyes have seen how \[the\] <span class="smallcaps">lord</span> delivered you today into my hands in the cave, and I did not want to kill you, and I spared you. And I said, I will not bear my hand against  my master, for this one is \[the\] anointed one \[of the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Behold, this day thine eyes have seen how that the LORD had delivered thee to day into mine hand in the cave: and [some] bade [me] kill thee: but [mine eye] spared thee; and I said, I will not put forth mine hand against my lord; for he [is] the LORD’S anointed.
-<small><sub>**BSB:**</sub></small>
-Behold, this day you have seen with your own eyes that the LORD delivered you into my hand in the cave. I was told to kill you, but I spared you and said, ‘I will not lift my hand against my lord, since he is the LORD’s anointed.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.9|<< 1 Samuel 24:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.11|1 Samuel 24:11 >>]]</td></tr></table>
 
 | Translation | Greek |

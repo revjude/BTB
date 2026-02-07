@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Saul went and  his men to seek  David. And they reported  to David. And he went down into the rock, the one in the wilderness of Maon. And Saul heard, and he pursued unto the wilderness  of Maon after David. 
-<small><sub>**KJV:**</sub></small>
-Saul also and his men went to seek [him]. And they told David: wherefore he came down into a rock, and abode in the wilderness of Maon. And when Saul heard [that], he pursued after David in the wilderness of Maon.
-<small><sub>**BSB:**</sub></small>
-and Saul and his men went to seek him. When David was told about it, he went down to the rock and stayed in the Wilderness of Maon. And when Saul heard of this, he pursued David there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.24|<< 1 Samuel 23:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.26|1 Samuel 23:26 >>]]</td></tr></table>
 
 | Translation | Greek |

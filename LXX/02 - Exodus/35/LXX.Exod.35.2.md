@@ -1,10 +1,7 @@
 **LXX Exodus 35:2** 
 <small><sub>**LXX:**</sub></small>
 Six days you shall do works, but on the seventh day you shall rest a holy Sabbath rest to the <span class="smallcaps">lord</span>; every one  doing work on it -- let him come to an end. 
-<small><sub>**KJV:**</sub></small>
-Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the LORD: whosoever doeth work therein shall be put to death.
-<small><sub>**BSB:**</sub></small>
-For six days work may be done, but the seventh day shall be your holy day, a Sabbath of complete rest to the LORD. Whoever does any work on that day must be put to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.1|<< Exodus 35:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.3|Exodus 35:3 >>]]</td></tr></table>
 
 | Translation | Greek |

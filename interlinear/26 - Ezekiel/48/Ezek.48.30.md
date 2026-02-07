@@ -1,4 +1,4 @@
-**Ezekiel 48:30** 
+**Ezekiel 48:30**<big><big>[[Ezek.48.30 The City Gates and Dimensions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the goings out of the city on the north side, four thousand and five hundred measures.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And these [are] the goings out of the city on the north side, four thousand and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.29|<< Ezekiel 48:29]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.31|Ezekiel 48:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and these  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] [the] exits of  |**<big>&#8207;[[H8444\|תּוֹצְאֹ֣ת]]&#8207; </big>**| totz.'Ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

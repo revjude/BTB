@@ -1,10 +1,7 @@
 **LXX Joshua 19:8** 
 <small><sub>**LXX:**</sub></small>
 and all the properties round about  these cities unto Baalath Beer Ramoth going towards \[the\] south. This \[is\] the inheritance of \[the\] tribe of \[the\] sons of Simeon according to their peoples. 
-<small><sub>**KJV:**</sub></small>
-And all the villages that [were] round about these cities to Baalathbeer, Ramath of the south. This [is] the inheritance of the tribe of the children of Simeon according to their families.
-<small><sub>**BSB:**</sub></small>
-and all the villages surrounding these cities as far as Baalath-beer (Ramah of the Negev). This was the inheritance of the clans of the tribe of Simeon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.19.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.7|<< Joshua 19:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.9|Joshua 19:9 >>]]</td></tr></table>
 
 | Translation | Greek |

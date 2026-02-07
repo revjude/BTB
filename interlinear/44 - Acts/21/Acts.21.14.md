@@ -1,12 +1,12 @@
-**Acts 21:14
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:14**<big><big>[[Acts.21.8 Paul Visits Philip the Evangelist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he would not be persuaded, we ceased, saying, The will of the Lord be done.
 <small><sub>**BSB:**</sub></small>
 When he would not be dissuaded, we quieted down and said, “The Lord’s will be done.”
 <small><sub>**Literal:**</sub></small>
 Not is being persuaded then he we were silent having said; Of the Lord the will should be [done].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.13|<< Acts 21:13]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.15|Acts 21:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is being persuaded |**<big>[[G3982\|πειθομένου]]</big>**  |peithomenou <small><sup>[[V-PPP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

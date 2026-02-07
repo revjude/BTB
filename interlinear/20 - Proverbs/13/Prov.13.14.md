@@ -1,4 +1,4 @@
-**Proverbs 13:14** 
+**Proverbs 13:14**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The law of the wise [is] a fountain of life, to depart from the snares of death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The teaching of the wise is a fountain of life, turning one from the snares of d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.13|<< Proverbs 13:13]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.15|Proverbs 13:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] instruction of  |**<big>&#8207;[[H8451\|תּוֹרַ֣ת]]&#8207; </big>**| to.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a wise [person]  |**<big>&#8207;[[H2450\|חָ֭כָם]]&#8207; </big>**| Cha.khom<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 31:20** 
 <small><sub>**LXX:**</sub></small>
 And thus Hezekiah did in all Judah, and he did the good and the upright, and the true before the <span class="smallcaps">lord</span>  his God. 
-<small><sub>**KJV:**</sub></small>
-And thus did Hezekiah throughout all Judah, and wrought [that which was] good and right and truth before the LORD his God.
-<small><sub>**BSB:**</sub></small>
-So this is what Hezekiah did throughout Judah. He did what was good and upright and true before the LORD his God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.31.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.19|<< 2 Chronicles 31:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.21|2 Chronicles 31:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:19** 
 <small><sub>**LXX:**</sub></small>
 And he measured the width of the courtyard from the open \[space\] of the outer gate unto \[the\] inner; unto the open \[space\] of the gate inner  looking outside -- a hundred cubits of the one looking according to \[the\] east; and he led me unto \[the\] north. 
-<small><sub>**KJV:**</sub></small>
-Then he measured the breadth from the forefront of the lower gate unto the forefront of the inner court without, an hundred cubits eastward and northward.
-<small><sub>**BSB:**</sub></small>
-Then he measured the distance from the front of the lower gateway to the outside of the inner court; it was a hundred cubits on the east side as well as on the north.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.18|<< Ezekiel 40:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.20|Ezekiel 40:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 43:11** 
+**Jeremiah 43:11**<big><big>[[Jer.43.1 Jeremiah Taken to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he cometh, he shall smite the land of Egypt, [and deliver] such [as are] for death to death; and such [as are] for captivity to captivity; and such [as are] for the sword to the sword.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will come and strike down the land of Egypt, bringing death to those destined
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.43.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.43.10|<< Jeremiah 43:10]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.12|Jeremiah 43:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will come  [^2]|**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֕א]]&#8207; </big>**[^3] | u.<small><sup>[[Hc]]</sup></small> va.'ah'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | and he will attack  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5221\|הִכָּ֖ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Kah<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

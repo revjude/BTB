@@ -1,4 +1,4 @@
-**Ecclesiastes 5:14** (5:13)
+**Ecclesiastes 5:14**<big><big>[[Eccl.5.8 The Futility of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But those riches perish by evil travail: and he begetteth a son, and [there is] nothing in his hand.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ or wealth lost in a failed venture, so when that man has a son there is nothing 
 > $\quad$ referenced by: [[1Tim.6.7|1Tim 6:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was lost  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0006\|אָבַ֛ד]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Vad<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the wealth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6239\|עֹ֥שֶׁר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'O.sher<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

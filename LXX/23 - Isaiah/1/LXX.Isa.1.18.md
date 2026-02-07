@@ -1,10 +1,7 @@
 **LXX Isaiah 1:18** 
 <small><sub>**LXX:**</sub></small>
 And come, we should plead, says \[the\] <span class="smallcaps">lord</span>. And if your sins should be as crimson, I shall whiten as snow; and if they should be as scarlet, I shall whiten as wool. 
-<small><sub>**KJV:**</sub></small>
-Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.
-<small><sub>**BSB:**</sub></small>
-“Come now, let us reason together,” says the LORD. “Though your sins are like scarlet, they will be as white as snow; though they are as red as crimson, they will become like wool.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.1.17|<< Isaiah 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.1.19|Isaiah 1:19 >>]]</td></tr></table>
 
 | Translation | Greek |

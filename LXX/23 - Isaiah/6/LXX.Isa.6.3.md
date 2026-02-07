@@ -1,10 +1,7 @@
 **LXX Isaiah 6:3** 
 <small><sub>**LXX:**</sub></small>
 And they cried out another to  another, and said, Holy, holy, holy \[is the\] <span class="smallcaps">lord</span> of Hosts; all the earth \[is\] full  of his glory. 
-<small><sub>**KJV:**</sub></small>
-And one cried unto another, and said, Holy, holy, holy, [is] the LORD of hosts: the whole earth [is] full of his glory.
-<small><sub>**BSB:**</sub></small>
-And they were calling out to one another: “Holy, holy, holy is the LORD of Hosts; all the earth is full of His glory.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.2|<< Isaiah 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.4|Isaiah 6:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 6:3** is...

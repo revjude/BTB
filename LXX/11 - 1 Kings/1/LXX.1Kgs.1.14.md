@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:14** 
 <small><sub>**LXX:**</sub></small>
 And behold, while you \[are\] speaking there with the king, that I shall enter after you, and I will fulfill  your words. 
-<small><sub>**KJV:**</sub></small>
-Behold, while thou yet talkest there with the king, I also will come in after thee, and confirm thy words.
-<small><sub>**BSB:**</sub></small>
-Then, while you are still there speaking with the king, I will come in after you and confirm your words.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.13|<< 1 Kings 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.15|1 Kings 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

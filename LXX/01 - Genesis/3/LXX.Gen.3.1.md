@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 But the serpent was most skilled of all the wild beasts, of the ones upon the earth whom \[the\] <span class="smallcaps">lord</span> God made. And the serpent said to the woman, For why said  God, No way should you eat from all of a tree of the paradise? 
-<small><sub>**KJV:**</sub></small>
-Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
-<small><sub>**BSB:**</sub></small>
-Now the serpent was more crafty than any beast of the field that the LORD God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree in the garden?’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.25|<< Genesis 2:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.2|Genesis 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

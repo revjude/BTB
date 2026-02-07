@@ -1,10 +1,7 @@
 **LXX Isaiah 33:15** 
 <small><sub>**LXX:**</sub></small>
 \[The\] one going in righteousness, speaking \[the\] straight way, detesting lawlessness and injustice, and shaking off bribes with the hands, weighing down the ears that he should not hear a judgment of blood, closing the eyelids of the eyes that he should not behold injustice. 
-<small><sub>**KJV:**</sub></small>
-He that walketh righteously, and speaketh uprightly; he that despiseth the gain of oppressions, that shaketh his hands from holding of bribes, that stoppeth his ears from hearing of blood, and shutteth his eyes from seeing evil;
-<small><sub>**BSB:**</sub></small>
-He who walks righteously and speaks with sincerity, who refuses gain from extortion, whose hand never takes a bribe, who stops his ears against murderous plots and shuts his eyes tightly against evil—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.33.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.14|<< Isaiah 33:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.16|Isaiah 33:16 >>]]</td></tr></table>
 
 | Translation | Greek |

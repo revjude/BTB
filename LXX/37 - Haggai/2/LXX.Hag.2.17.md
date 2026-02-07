@@ -1,10 +1,7 @@
 **LXX Haggai 2:17** 
 <small><sub>**LXX:**</sub></small>
 I struck you with being non-productive, and with being wind-blown, and with hail \[upon\] all the works  of your hands; and you did not turn to me, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-I smote you with blasting and with mildew and with hail in all the labours of your hands; yet ye [turned] not to me, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-I struck you—all the work of your hands—with blight, mildew, and hail, but you did not turn to Me, declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.16|<< Haggai 2:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.18|Haggai 2:18 >>]]</td></tr></table>
 
 | Translation | Greek |

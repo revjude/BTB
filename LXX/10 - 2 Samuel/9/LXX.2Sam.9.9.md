@@ -1,10 +1,7 @@
 **LXX 2 Samuel 9:9** 
 <small><sub>**LXX:**</sub></small>
 And the king called  Ziba, the servant of Saul, and said to him, All as much as is to Saul, and his entire house, I have given to the son  of your master. 
-<small><sub>**KJV:**</sub></small>
-Then the king called to Ziba, Saul’s servant, and said unto him, I have given unto thy master’s son all that pertained to Saul and to all his house.
-<small><sub>**BSB:**</sub></small>
-Then the king summoned Saul’s servant Ziba and said to him, “I have given to your master’s grandson all that belonged to Saul and to all his house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.9.8|<< 2 Samuel 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.9.10|2 Samuel 9:10 >>]]</td></tr></table>
 
 | Translation | Greek |

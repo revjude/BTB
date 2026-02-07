@@ -1,12 +1,12 @@
-**Matthew 27:55
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:55**<big><big>[[Matt.27.45 The Death of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And many women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:
 <small><sub>**BSB:**</sub></small>
 And many women were there, watching from a distance. They had followed Jesus from Galilee to minister to Him.
 <small><sub>**Literal:**</sub></small>
 They were now there women many from afar off looking on who followed <the> Jesus from <the> Galilee ministering to Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.54|<< Matthew 27:54]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.56|Matthew 27:56 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were |**<big>[[G1510\|Ἦσαν]]</big>**  |Ēsan <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

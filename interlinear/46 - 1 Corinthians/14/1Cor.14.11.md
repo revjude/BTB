@@ -1,12 +1,12 @@
-**1 Corinthians 14:11
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:11**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore if I know not the meaning of the voice, I shall be unto him that speaketh a barbarian, and he that speaketh [shall be] a barbarian unto me.
 <small><sub>**BSB:**</sub></small>
 If, then, I do not know the meaning of someone’s language, I am a foreigner to the speaker, and he is a foreigner to me.
 <small><sub>**Literal:**</sub></small>
 If therefore not I shall know the power of the sound, I will be to the [one] speaking a foreigner and the [one] speaking to me myself a foreigner;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.10|<< 1 Corinthians 14:10]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.12|1 Corinthians 14:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

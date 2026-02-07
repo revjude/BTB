@@ -1,10 +1,7 @@
 **LXX Joshua 22:2** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, You have heard the whole, as much as Moses the servant \[of the\] <span class="smallcaps">lord</span> gave charge to you, and you heeded  my voice according to all as much as I gave charge to you. 
-<small><sub>**KJV:**</sub></small>
-And said unto them, Ye have kept all that Moses the servant of the LORD commanded you, and have obeyed my voice in all that I commanded you:
-<small><sub>**BSB:**</sub></small>
-and told them, “You have done all that Moses the servant of the LORD commanded you, and you have obeyed my voice in all that I commanded you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.1|<< Joshua 22:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.3|Joshua 22:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,34 +1,34 @@
 (KJV) **Song of Solomon 8**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7|<< Song of Solomon 7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1|Isaiah 1 >>]]</td></tr></table>
 
-***Longing for Her Beloved*** ^bsb1568
+<big><big>[[Song.8.1 Longing for Her Beloved|⥃]]</big></big>***Longing for Her Beloved***
 
  $\quad$ <span class="startversemarker">[</span>**[[Song.8.1|1]]**<span class="endversemarker">]</span> O that thou<small><small>[^2]</small></small> \[wert\] as my brother, that sucked<small><small>[^3]</small></small> the breasts of my mother! \[when\] I should find thee<small><small>[^4]</small></small> without, I would<small><small>[^5]</small></small> kiss thee; yea<small><small>[^6]</small></small>, I should not be despised<small><small>[^7]</small></small>. <span class="startversemarker">[</span>**[[Song.8.2|2]]**<span class="endversemarker">]</span> I would lead thee, \[and\] bring<small><small>[^8]</small></small> thee into my mother’s house, \[who<small><small>[^9]</small></small>\] would instruct me: I would cause<small><small>[^10]</small></small> thee to drink of spiced<small><small>[^11]</small></small> wine of the juice of my pomegranate. <span class="startversemarker">[</span>**[[Song.8.3|3]]**<span class="endversemarker">]</span> His left hand \[should be\] under my head, and his right hand should embrace me.<small><small>[^12]</small></small> <span class="startversemarker">[</span>**[[Song.8.4|4]]**<span class="endversemarker">]</span> I charge<small><small>[^13]</small></small> you, O daughters of Jerusalem, that ye stir not up, nor awake<small><small>[^14]</small></small> \[my\] love, until he please.
 
-*The Friends* ^bsb1569
+<big><big>[[Song.8.5 The Friends|⥃]]</big></big>*The Friends*
 
  <span class="startversemarker">[</span>**[[Song.8.5|5]]**<span class="endversemarker">]</span> Who \[is\] this<small><small>[^15]</small></small> that cometh up from the<small><small>[^16]</small></small> wilderness, leaning<small><small>[^17]</small></small> upon her beloved? I raised<small><small>[^18]</small></small> thee up under the apple tree: there thy mother brought thee forth: there she<small><small>[^19]</small></small> brought thee forth \[that\] bare thee.
 
-*The Bride* ^bsb1570
+<big><big>[[Song.8.6 The Bride|⥃]]</big></big>*The Bride*
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Song.8.6|6]]**<span class="endversemarker">]</span> [¶]Set me as a seal<small><small>[^20]</small></small> upon thine heart, as a seal upon thine arm: for love<small><small>[^21]</small></small> \[is\] strong as death; jealousy<small><small>[^22]</small></small> \[is\] cruel<small><small>[^23]</small></small> as the grave: the coals<small><small>[^24]</small></small> thereof \[are\] coals of fire, \[which hath\] a most vehement flame. <span class="startversemarker">[</span>**[[Song.8.7|7]]**<span class="endversemarker">]</span> Many waters<small><small>[^25]</small></small> cannot quench love, neither can the floods drown it: if a man<small><small>[^26]</small></small> would give all the substance of his house for love, it would utterly be contemned.
 
-*The Friends* ^bsb1571
+<big><big>[[Song.8.8 The Friends|⥃]]</big></big>*The Friends*
 
  
 
 $\quad$ <span class="startversemarker">[</span>**[[Song.8.8|8]]**<span class="endversemarker">]</span> We have a little<small><small>[^27]</small></small> sister, and she hath<small><small>[^28]</small></small> no breasts: what<small><small>[^29]</small></small> shall we do for our sister in the day<small><small>[^30]</small></small> when she shall be spoken for? <span class="startversemarker">[</span>**[[Song.8.9|9]]**<span class="endversemarker">]</span> If she \[be\] a wall<small><small>[^31]</small></small>, we will<small><small>[^32]</small></small> build upon her a palace of silver: and if she \[be\] a door<small><small>[^33]</small></small>, we will inclose her with boards of cedar.
 
-*The Bride* ^bsb1572
+<big><big>[[Song.8.10 The Bride|⥃]]</big></big>*The Bride*
 
  <span class="startversemarker">[</span>**[[Song.8.10|10]]**<span class="endversemarker">]</span> I \[am\] a wall<small><small>[^34]</small></small>, and my<small><small>[^35]</small></small> breasts like towers: then<small><small>[^36]</small></small> was I in his eyes as one that found favour<small><small>[^37]</small></small>. <span class="startversemarker">[</span>**[[Song.8.11|11]]**<span class="endversemarker">]</span> Solomon<small><small>[^38]</small></small> had a<small><small>[^39]</small></small> vineyard at Baal–hamon; he let<small><small>[^40]</small></small> out the vineyard unto keepers; every one for the fruit thereof was to bring a thousand<small><small>[^41]</small></small> \[pieces\] of silver. <span class="startversemarker">[</span>**[[Song.8.12|12]]**<span class="endversemarker">]</span> My vineyard<small><small>[^42]</small></small>, which \[is\] mine, \[is\] before me: thou<small><small>[^43]</small></small>, O Solomon, \[must have\] a thousand, and those<small><small>[^44]</small></small> that keep the fruit thereof two hundred.
 
-*The Bridegroom* ^bsb1573
+<big><big>[[Song.8.13 The Bridegroom|⥃]]</big></big>*The Bridegroom*
 
  <span class="startversemarker">[</span>**[[Song.8.13|13]]**<span class="endversemarker">]</span> Thou that dwellest<small><small>[^45]</small></small> in the gardens, the companions<small><small>[^46]</small></small> hearken to thy voice: cause<small><small>[^47]</small></small> me to hear \[it\].
 
-*The Bride* ^bsb1574
+<big><big>[[Song.8.14 The Bride|⥃]]</big></big>*The Bride*
 
  
 

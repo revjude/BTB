@@ -6,10 +6,7 @@ For the director; a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 The heavens describe \[the\] glory of God, and the firmament announces \[the\] making of his hands. 
-<small><sub>**KJV:**</sub></small>
-To the chief Musician, A Psalm of David. The heavens declare the glory of God; and the firmament sheweth his handywork.
-<small><sub>**BSB:**</sub></small>
-For the choirmaster. A Psalm of David. The heavens declare the glory of God; the skies proclaim the work of His hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.50|<< Psalm 18:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.19.2|Psalm 19:2 >>]]</td></tr></table>
 
 | Translation | Greek |

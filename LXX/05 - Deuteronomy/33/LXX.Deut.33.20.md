@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:20** 
 <small><sub>**LXX:**</sub></small>
 And  to Gad he said, One being blessed, widening Gad. As a lion he rested, having broken \[the\] arm, and \[the\] ruler. 
-<small><sub>**KJV:**</sub></small>
-And of Gad he said, Blessed [be] he that enlargeth Gad: he dwelleth as a lion, and teareth the arm with the crown of the head.
-<small><sub>**BSB:**</sub></small>
-Concerning Gad he said: “Blessed is he who enlarges the domain of Gad! He lies down like a lion and tears off an arm or a head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.19|<< Deuteronomy 33:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.21|Deuteronomy 33:21 >>]]</td></tr></table>
 
 | Translation | Greek |

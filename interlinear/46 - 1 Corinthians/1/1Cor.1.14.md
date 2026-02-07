@@ -1,12 +1,12 @@
-**1 Corinthians 1:14
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:14**<big><big>[[1Cor.1.10 Unity in the Church|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I thank God that I baptized none of you, but Crispus and Gaius;
 <small><sub>**BSB:**</sub></small>
 I thank God that I did not baptize any of you except Crispus and Gaius,
 <small><sub>**Literal:**</sub></small>
 I thank <the> God that no [one] of you I baptized only except Crispus and Gaius,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.13|<< 1 Corinthians 1:13]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.15|1 Corinthians 1:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I thank |**<big>[[G2168\|εὐχαριστῶ]]</big>**  |eucharistō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Treg+TR+Byz">NKO</abbr> | |

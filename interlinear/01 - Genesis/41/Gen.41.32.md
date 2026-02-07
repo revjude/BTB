@@ -1,4 +1,4 @@
-**Genesis 41:32** 
+**Genesis 41:32**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for that the dream was doubled unto Pharaoh twice; [it is] because the thing [is] established by God, and God will shortly bring it to pass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moreover, because the dream was given to Pharaoh in two versions, the matter has
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.31|<< Genesis 41:31]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.33|Genesis 41:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַ֨ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] being repeated of  |**<big>&#8207;[[H8138B\|הִשָּׁנ֧וֹת]]&#8207; </big>**| hi.sha.Not<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

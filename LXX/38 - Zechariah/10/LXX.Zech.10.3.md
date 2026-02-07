@@ -1,10 +1,7 @@
 **LXX Zechariah 10:3** 
 <small><sub>**LXX:**</sub></small>
 My rage was provoked over the shepherds, and over the lambs I visit]. And \[the\] <span class="smallcaps">lord</span> God almighty will visit  his flock, the house  of Judah. And he shall order them as his good-looking horse in battle. 
-<small><sub>**KJV:**</sub></small>
-Mine anger was kindled against the shepherds, and I punished the goats: for the LORD of hosts hath visited his flock the house of Judah, and hath made them as his goodly horse in the battle.
-<small><sub>**BSB:**</sub></small>
-“My anger burns against the shepherds, and I will punish the leaders. For the LORD of Hosts attends to His flock, the house of Judah; He will make them like His royal steed in battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.10.2|<< Zechariah 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.10.4|Zechariah 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Corinthians 15:15
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:15**<big><big>[[1Cor.15.12 The Resurrection of the Dead|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not.
 <small><sub>**BSB:**</sub></small>
 In that case, we are also exposed as false witnesses about God. For we have testified about God that He raised Christ from the dead, but He did not raise Him if in fact the dead are not raised.
 <small><sub>**Literal:**</sub></small>
 We are found then also false witnesses <the> of God, because we have witnessed concerning <the> God that He raised up <the> Christ whom not He has raised if indeed then [the] dead not are raised;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.14|<< 1 Corinthians 15:14]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.16|1 Corinthians 15:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We are found |**<big>[[G2147\|εὑρισκόμεθα]]</big>**  |heuriskometha <small><sup>[[V-PPI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

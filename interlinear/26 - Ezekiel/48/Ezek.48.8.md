@@ -1,4 +1,4 @@
-**Ezekiel 48:8** 
+**Ezekiel 48:8**<big><big>[[Ezek.48.8 The Portions for the Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And by the border of Judah, from the east side unto the west side, shall be the offering which ye shall offer of five and twenty thousand [reeds in] breadth, and [in] length as one of the [other] parts, from the east side unto the west side: and the sanctuary shall be in the midst of it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bordering the territory of Judah, from east to west, will be the portion you are
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.7|<< Ezekiel 48:7]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.9|Ezekiel 48:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and at  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] border of  |**<big>&#8207;[[H1366H\|גְּב֣וּל]]&#8207; </big>**| ge.Vul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

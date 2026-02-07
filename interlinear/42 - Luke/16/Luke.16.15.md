@@ -1,12 +1,12 @@
-**Luke 16:15
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:15**<big><big>[[Luke.16.14 The Law and the Prophets|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Ye are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.
 <small><sub>**BSB:**</sub></small>
 So He said to them, “You are the ones who justify yourselves before men, but God knows your hearts. For what is prized among men is detestable before God.
 <small><sub>**Literal:**</sub></small>
 And He said to them; You yourselves are those justifying themselves before <the> men, <the> but God knows the hearts of you for that which among men [is] exalted an abomination before <the> God is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.14|<< Luke 16:14]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.16|Luke 16:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

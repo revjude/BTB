@@ -1,4 +1,4 @@
-**Esther 9:32** 
+**Esther 9:32**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the decree of Esther confirmed these matters of Purim; and it was written in the book.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Esther’s decree confirmed these regulations about Purim, which were written
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.31|<< Esther 9:31]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.10.1|Esther 10:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] command of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3982\|מַאֲמַ֣ר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.'a.Mar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Esther  |**<big>&#8207;[[H0635\|אֶסְתֵּ֔ר]]&#8207; </big>**| 'es.Ter<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

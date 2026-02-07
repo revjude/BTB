@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:28** 
 <small><sub>**LXX:**</sub></small>
 And from the borders of the ones of Gad, from the \[borders\] towards \[the\] southwest; and his borders will be from Teman and \[the\] water of Mariboth Kadesh, an inheritance unto the great sea. 
-<small><sub>**KJV:**</sub></small>
-And by the border of Gad, at the south side southward, the border shall be even from Tamar [unto] the waters of strife [in] Kadesh, [and] to the river toward the great sea.
-<small><sub>**BSB:**</sub></small>
-The southern border of Gad will run from Tamar to the waters of Meribath-kadesh, then along the Brook of Egypt and out to the Great Sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.27|<< Ezekiel 48:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.29|Ezekiel 48:29 >>]]</td></tr></table>
 
 | Translation | Greek |

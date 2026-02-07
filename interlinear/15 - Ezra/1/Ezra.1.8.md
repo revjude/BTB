@@ -1,4 +1,4 @@
-**Ezra 1:8** 
+**Ezra 1:8**<big><big>[[Ezra.1.7 Cyrus Restores the Holy Vessels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even those did Cyrus king of Persia bring forth by the hand of Mithredath the treasurer, and numbered them unto Sheshbazzar, the prince of Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Cyrus king of Persia had them brought out by the hand of Mithredath the treasure
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.1.7|<< Ezra 1:7]]</td><td align="center" style="border:none;">[[Ezra.1|Ezra 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.1.9|Ezra 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought out them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318H\|יּֽוֹצִיאֵ֗]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.tzi.'E<small><sup>[[HVhw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Cyrus  |**<big>&#8207;[[H3566\|כּ֚וֹרֶשׁ]]&#8207; </big>**| Ko.resh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

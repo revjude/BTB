@@ -1,4 +1,4 @@
-**Isaiah 66:16** 
+**Isaiah 66:16**<big><big>[[Isa.66.15 Final Judgments against the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For by fire and by his sword will the LORD plead with all flesh: and the slain of the LORD shall be many.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For by fire and by His sword, the LORD will execute judgment on all flesh, and m
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.15|<< Isaiah 66:15]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.17|Isaiah 66:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by \<the> fire  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H0784\|אֵשׁ֙]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

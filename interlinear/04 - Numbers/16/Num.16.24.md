@@ -1,4 +1,4 @@
-**Numbers 16:24** 
+**Numbers 16:24**<big><big>[[Num.16.23 Moses Separates the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the congregation, saying, Get you up from about the tabernacle of Korah, Dathan, and Abiram.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Speak unto the congregation, saying, Get you up from about the tabernacle of Kor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.23|<< Numbers 16:23]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.25|Numbers 16:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | speak  |**<big>&#8207;[[H1696G\|דַּבֵּ֥ר]]&#8207; </big>**| da.Ber<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Job 14:2** 
+**Job 14:2**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Like a flower, he comes forth, then withers away; like a fleeting shadow, he doe
 > $\quad$ referenced by: [[Jas.1.10|Jas 1:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like a flower  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H6731A\|צִ֣יץ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Tzitz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he comes forth  |**<big>&#8207;[[H3318L\|יָ֭צָא]]&#8207; </big>**| Ya.tza'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

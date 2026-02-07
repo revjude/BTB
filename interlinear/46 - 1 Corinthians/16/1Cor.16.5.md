@@ -1,12 +1,12 @@
-**1 Corinthians 16:5
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:5**<big><big>[[1Cor.16.5 Paul’s Travel Plans|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now I will come unto you, when I shall pass through Macedonia: for I do pass through Macedonia.
 <small><sub>**BSB:**</sub></small>
 After I go through Macedonia, however, I will come to you; for I will be going through Macedonia.
 <small><sub>**Literal:**</sub></small>
 I will come however to you when Macedonia I may have gone through; Macedonia for I am going through,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.4|<< 1 Corinthians 16:4]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.6|1 Corinthians 16:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will come |**<big>[[G2064\|ἐλεύσομαι]]</big>**  |eleusomai <small><sup>[[V-FDI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

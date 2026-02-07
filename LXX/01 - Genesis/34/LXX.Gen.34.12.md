@@ -1,10 +1,7 @@
 **LXX Genesis 34:12** 
 <small><sub>**LXX:**</sub></small>
 You multiply the dowry exceedingly! and I will give in so far as whatever you should have said to me. And you shall give to me  this child as wife. 
-<small><sub>**KJV:**</sub></small>
-Ask me never so much dowry and gift, and I will give according as ye shall say unto me: but give me the damsel to wife.
-<small><sub>**BSB:**</sub></small>
-Demand a high dowry and an expensive gift, and I will give you whatever you ask. Only give me the girl as my wife!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.11|<< Genesis 34:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.13|Genesis 34:13 >>]]</td></tr></table>
 
 | Translation | Greek |

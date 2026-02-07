@@ -1,10 +1,7 @@
 **LXX Ezra 3:7** 
 <small><sub>**LXX:**</sub></small>
 And they gave money to the quarriers, and to the fabricators; and food, and drink, and olive oil to the Sidonians, and to the Tyrians,  to bring forth wood of cedars from  Lebanon by sea to Joppa, by \[the\] decree of Cyrus king of \[the\] Persians, concerning this. 
-<small><sub>**KJV:**</sub></small>
-They gave money also unto the masons, and to the carpenters; and meat, and drink, and oil, unto them of Zidon, and to them of Tyre, to bring cedar trees from Lebanon to the sea of Joppa, according to the grant that they had of Cyrus king of Persia.
-<small><sub>**BSB:**</sub></small>
-They gave money to the masons and carpenters, and food and drink and oil to the people of Sidon and Tyre to bring cedar logs from Lebanon to Joppa by sea, as authorized by Cyrus king of Persia.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.3.6|<< Ezra 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.3.8|Ezra 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

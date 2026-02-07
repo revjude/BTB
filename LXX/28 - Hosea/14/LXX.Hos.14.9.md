@@ -1,10 +1,7 @@
 **LXX Hosea 14:9** 
 <small><sub>**LXX:**</sub></small>
 Who \[is\] wise, and perceives these \[things\]? discerning, and recognizes them? For straight \[are\] the ways of the <span class="smallcaps">lord</span>, and \[the\] just shall go by them; but the impious shall weaken in them. 
-<small><sub>**KJV:**</sub></small>
-Who [is] wise, and he shall understand these [things]? prudent, and he shall know them? for the ways of the LORD [are] right, and the just shall walk in them: but the transgressors shall fall therein.
-<small><sub>**BSB:**</sub></small>
-Whoever is wise, let him understand these things; whoever is discerning, let him know them. For the ways of the LORD are right, and the righteous walk in them but the rebellious stumble in them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.14.8|<< Hosea 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.1|Joel 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

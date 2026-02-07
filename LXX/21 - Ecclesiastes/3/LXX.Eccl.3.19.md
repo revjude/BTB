@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 3:19** 
 <small><sub>**LXX:**</sub></small>
 And indeed to them \[the\] event of \[the\] sons  of man, and \[the\] event of the beast one event to them; as the death of this \[one\], so also the death of this \[other one\]; and one breath  to all. And what abounded the man more than the cattle? Nothing. For all \[things\] \[are\] folly. 
-<small><sub>**KJV:**</sub></small>
-For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all [is] vanity.
-<small><sub>**BSB:**</sub></small>
-For the fates of both men and beasts are the same: As one dies, so dies the other—they all have the same breath. Man has no advantage over the animals, since everything is futile.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.18|<< Ecclesiastes 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.20|Ecclesiastes 3:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Samuel 7:14** 
+**1 Samuel 7:14**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the cities which the Philistines had taken from Israel were restored to Israel, from Ekron even unto Gath; and the coasts thereof did Israel deliver out of the hands of the Philistines. And there was peace between Israel and the Amorites.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The cities from Ekron to Gath, which the Philistines had taken, were restored to
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725H\|תָּשֹׁ֣בְנָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Shoe.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cities  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H5892B\|עָרִ֡ים]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

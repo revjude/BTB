@@ -1,5 +1,5 @@
-**Revelation 14:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:8**<big><big>[[Rev.14.6 The Three Angels and Babylon’s Fall|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there followed another angel, saying, Babylon is fallen, is fallen, that great city, because she made all nations drink of the wine of the wrath of her fornication.
 <small><sub>**BSB:**</sub></small>
 Then a second angel followed, saying, “Fallen, fallen is Babylon the great, who has made all the nations drink the wine of the passion of her immorality.”
@@ -11,7 +11,7 @@ And another angel a second followed saying; Fallen Fallen is Babylon the city th
 > $\quad$ possibly alluding to: [[LXX.Dan.4.27|Dan 4:27]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | another |**<big>[[G0243\|ἄλλος]]</big>**  |allos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Jeremiah 5:22** 
+**Jeremiah 5:22**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear ye not me? saith the LORD: will ye not tremble at my presence, which have placed the sand [for] the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof toss themselves, yet can they not prevail; though they roar, yet can they not pass over it?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do you not fear Me?” declares the LORD. “Do you not tremble before Me, the O
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.21|<< Jeremiah 5:21]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.23|Jeremiah 5:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ \<obj.> me  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H0853\|אוֹתִ֨]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 34:9** 
 <small><sub>**LXX:**</sub></small>
 And be allied by marriage to us!  You give us your daughters, and  you take our daughters  for your sons! 
-<small><sub>**KJV:**</sub></small>
-And make ye marriages with us, [and] give your daughters unto us, and take our daughters unto you.
-<small><sub>**BSB:**</sub></small>
-Intermarry with us; give us your daughters and take our daughters for yourselves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.8|<< Genesis 34:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.10|Genesis 34:10 >>]]</td></tr></table>
 
 | Translation | Greek |

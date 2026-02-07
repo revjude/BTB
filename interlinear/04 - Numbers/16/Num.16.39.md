@@ -1,4 +1,4 @@
-**Numbers 16:39** (17:4)
+**Numbers 16:39**<big><big>[[Num.16.36 The Censers Reserved for Holy Use|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Eleazar the priest took the brasen censers, wherewith they that were burnt had offered; and they were made broad [plates for] a covering of the altar:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Eleazar the priest took the bronze censers brought by those who had been burn
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.38|<< Numbers 16:38]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.40|Numbers 16:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֞ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eleazar  |**<big>&#8207;[[H0499G\|אֶלְעָזָ֣ר]]&#8207; </big>**| 'el.'a.Zar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

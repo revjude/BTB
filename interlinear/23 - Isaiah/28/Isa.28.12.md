@@ -1,4 +1,4 @@
-**Isaiah 28:12** 
+**Isaiah 28:12**<big><big>[[Isa.28.1 The Captivity of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To whom he said, This [is] the rest [wherewith] ye may cause the weary to rest; and this [is] the refreshing: yet they would not hear.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ to whom He has said: “This is the place of rest, let the weary rest; this is t
 > $\quad$ referenced by: [[1Cor.14.21|1Cor 14:21]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whom  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he said  |**<big>&#8207;[[H0559\|אָמַ֣ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Acts 16:38
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:38**<big><big>[[Acts.16.35 An Official Apology|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the serjeants told these words unto the magistrates: and they feared, when they heard that they were Romans.
 <small><sub>**BSB:**</sub></small>
 So the officers relayed this message to the magistrates, who were alarmed to hear that Paul and Silas were Roman citizens.
 <small><sub>**Literal:**</sub></small>
 Reported then to the magistrates the officers <the> declarations these; and They were afraid then having heard that Romans they are,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.37|<< Acts 16:37]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.39|Acts 16:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Reported [^1] |**<big>[[G0518\|ἀπήγγειλαν]]</big>**  |apēngeilan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

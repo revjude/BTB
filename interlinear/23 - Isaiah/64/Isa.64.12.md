@@ -1,4 +1,4 @@
-**Isaiah 64:12** (64:11)
+**Isaiah 64:12**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wilt thou refrain thyself for these [things], O LORD? wilt thou hold thy peace, and afflict us very sore?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After all this, O LORD, will You restrain Yourself? Will You keep silent and aff
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.11|<< Isaiah 64:11]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.1|Isaiah 65:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ on  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these [things]  |**<big>&#8207;[[H0428\|אֵ֥לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

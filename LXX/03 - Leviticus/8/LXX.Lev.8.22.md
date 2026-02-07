@@ -1,10 +1,7 @@
 **LXX Leviticus 8:22** 
 <small><sub>**LXX:**</sub></small>
 And Moses brought the second ram, \[the\] ram of consecration. And Aaron and his sons placed  their hands upon the head of the ram. 
-<small><sub>**KJV:**</sub></small>
-And he brought the other ram, the ram of consecration: and Aaron and his sons laid their hands upon the head of the ram.
-<small><sub>**BSB:**</sub></small>
-After that, Moses presented the other ram, the ram of ordination, and Aaron and his sons laid their hands on its head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.21|<< Leviticus 8:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.23|Leviticus 8:23 >>]]</td></tr></table>
 
 | Translation | Greek |

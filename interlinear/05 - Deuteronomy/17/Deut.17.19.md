@@ -1,4 +1,4 @@
-**Deuteronomy 17:19** 
+**Deuteronomy 17:19**<big><big>[[Deut.17.14 Guidelines for a King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be with him, and he shall read therein all the days of his life: that he may learn to fear the LORD his God, to keep all the words of this law and these statutes, to do them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is to remain with him, and he is to read from it all the days of his life, so
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.18|<< Deuteronomy 17:18]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.20|Deuteronomy 17:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיְתָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with him  |**<big>&#8207;[[H5973A\|עִמּ֔]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| i.M<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

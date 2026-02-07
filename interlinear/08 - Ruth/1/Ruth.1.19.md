@@ -1,4 +1,4 @@
-**Ruth 1:19** 
+**Ruth 1:19**<big><big>[[Ruth.1.19 The Return to Bethlehem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they two went until they came to Bethlehem. And it came to pass, when they were come to Bethlehem, that all the city was moved about them, and they said, [Is] this Naomi?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Naomi and Ruth traveled until they came to Bethlehem. When they entered Bethl
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.18|<< Ruth 1:18]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.20|Ruth 1:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|תֵּלַ֣כְנָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Lakh.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] two of them  |**<big>&#8207;[[H8147\|שְׁתֵּי]]&#8207;&#8207;[[H9028\|הֶ֔ם]]&#8207; </big>**| she.tei.<small><sup>[[HNcfdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

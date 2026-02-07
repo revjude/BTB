@@ -1,4 +1,4 @@
-**Ezekiel 14:5** 
+**Ezekiel 14:5**<big><big>[[Ezek.14.1 Idolatrous Elders Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I may take the house of Israel in their own heart, because they are all estranged from me through their idols.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ so that I may take hold of the hearts of the people of Israel. For because of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.4|<< Ezekiel 14:4]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.6|Ezekiel 14:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so as  |**<big>&#8207;[[H4616\|לְמַ֛עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to capture  |**<big>&#8207;[[H8610\|תְּפֹ֥שׂ]]&#8207; </big>**| te.Fos<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

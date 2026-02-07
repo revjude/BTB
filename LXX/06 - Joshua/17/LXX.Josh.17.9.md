@@ -1,10 +1,7 @@
 **LXX Joshua 17:9** 
 <small><sub>**LXX:**</sub></small>
 And the borders will go down to \[the\] ravine to the south by \[the\] ravine of Jariel -- \[the\] terebinth  of Ephraim, in the midst \[of the\] city of Manasseh. And \[the\] borders of Manasseh towards north \[were\] to the rushing stream, and its outer reaches will be \[the\] sea. 
-<small><sub>**KJV:**</sub></small>
-And the coast descended unto the river Kanah, southward of the river: these cities of Ephraim [are] among the cities of Manasseh: the coast of Manasseh also [was] on the north side of the river, and the outgoings of it were at the sea:
-<small><sub>**BSB:**</sub></small>
-From there the border continued southward to the Brook of Kanah. There were cities belonging to Ephraim among the cities of Manasseh, but the border of Manasseh was on the north side of the brook and ended at the Sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.17.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.8|<< Joshua 17:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.10|Joshua 17:10 >>]]</td></tr></table>
 
 | Translation | Greek |

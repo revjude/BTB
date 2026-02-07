@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Solomon constructed  his own house for thirteen years. And wholly completed  his house. 
-<small><sub>**KJV:**</sub></small>
-But Solomon was building his own house thirteen years, and he finished all his house.
-<small><sub>**BSB:**</sub></small>
-Solomon, however, took thirteen years to complete the construction of his entire palace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.38|<< 1 Kings 6:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.2|1 Kings 7:2 >>]]</td></tr></table>
 
 | Translation | Greek |

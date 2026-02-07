@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 1:10** 
 <small><sub>**LXX:**</sub></small>
 And Cush procreated  Nimrod -- this one began  to be a giant on the earth. 
-<small><sub>**KJV:**</sub></small>
-And Cush begat Nimrod: he began to be mighty upon the earth.
-<small><sub>**BSB:**</sub></small>
-Cush was the father of Nimrod, who began to be a mighty one on the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.1.9|<< 1 Chronicles 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.1.11|1 Chronicles 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 20:5** 
+**Deuteronomy 20:5**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the officers shall speak unto the people, saying, What man [is there] that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Furthermore, the officers are to address the army, saying, “Has any man built 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.4|<< Deuteronomy 20:4]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.6|Deuteronomy 20:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will say  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1696G\|דִבְּר֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> di.be.Ru<small><sup>[[HVpq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the officials  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7860\|שֹּֽׁטְרִים֮]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sho.te.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

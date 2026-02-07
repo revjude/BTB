@@ -1,10 +1,7 @@
 **LXX Leviticus 11:41** 
 <small><sub>**LXX:**</sub></small>
 And every crawling thing which crawls upon the earth, this is an abomination to you, you shall not eat. 
-<small><sub>**KJV:**</sub></small>
-And every creeping thing that creepeth upon the earth [shall be] an abomination; it shall not be eaten.
-<small><sub>**BSB:**</sub></small>
-Every creature that moves along the ground is detestable; it must not be eaten.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.11.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.11.40|<< Leviticus 11:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.11.42|Leviticus 11:42 >>]]</td></tr></table>
 
 | Translation | Greek |

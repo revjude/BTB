@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:32** 
 <small><sub>**LXX:**</sub></small>
 And four  wheels \[were\] underneath the small pillars. And hands \[were\] in the wheels in the base. And the height of the one wheel \[was\] a cubit and a half. 
-<small><sub>**KJV:**</sub></small>
-And under the borders [were] four wheels; and the axletrees of the wheels [were joined] to the base: and the height of a wheel [was] a cubit and half a cubit.
-<small><sub>**BSB:**</sub></small>
-There were four wheels under the panels, and the axles of the wheels were attached to the stand; each wheel was a cubit and a half in diameter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.31|<< 1 Kings 7:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.33|1 Kings 7:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 70:3** (70:4)
+**Psalms 70:3**<big><big>[[Ps.70.1 Hurry, O LORD, to Help Me!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be turned back for a reward of their shame that say, Aha, aha.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May those who say, “Aha, aha!” retreat because of their shame.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.70.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.70.2|<< Psalms 70:2]]</td><td align="center" style="border:none;">[[Ps.70|Psalms 70]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.70.4|Psalms 70:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they turn back  |**<big>&#8207;[[H7725G\|יָ֭שׁוּבוּ]]&#8207; </big>**| Ya.shu.vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

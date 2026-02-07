@@ -1,10 +1,7 @@
 **LXX Isaiah 29:8** 
 <small><sub>**LXX:**</sub></small>
 And it shall be as the ones in sleep drinking and eating and rising up. the dream of them \[is\] vain, and in which manner the one thirsting and drinking shall dream, and rising up they still thirst,  and his soul hoped in vain, so will be the riches of all the nations, as many as marched against  mount Zion. 
-<small><sub>**KJV:**</sub></small>
-It shall even be as when an hungry [man] dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, [he is] faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion.
-<small><sub>**BSB:**</sub></small>
-as when a hungry man dreams he is eating, then awakens still hungry; as when a thirsty man dreams he is drinking, then awakens faint and parched. So will it be for all the many nations who go to battle against Mount Zion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.29.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.29.7|<< Isaiah 29:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.29.9|Isaiah 29:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,10 @@
 (KJV) **Nehemiah 7**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6|<< Nehemiah 6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8|Nehemiah 8 >>]]</td></tr></table>
 
-***Securing the City*** ^bsb1206
+<big><big>[[Neh.7.1 Securing the City|⥃]]</big></big>***Securing the City***
 
  $\quad$ <span class="startversemarker">[</span>**[[Neh.7.1|1]]**<span class="endversemarker">]</span> Now it came to pass, when the wall<small><small>[^2]</small></small> was built, and I had set up<small><small>[^3]</small></small> the doors, and the porters<small><small>[^4]</small></small> and the singers and the Levites were appointed, <span class="startversemarker">[</span>**[[Neh.7.2|2]]**<span class="endversemarker">]</span> That I gave my brother<small><small>[^5]</small></small> Hanani, and Hananiah<small><small>[^6]</small></small> the ruler<small><small>[^7]</small></small> of the palace, charge over Jerusalem: for he \[was\] a faithful man<small><small>[^8]</small></small>, and feared God<small><small>[^9]</small></small> above many. <span class="startversemarker">[</span>**[[Neh.7.3|3]]**<span class="endversemarker">]</span> And I said unto them, Let not the gates<small><small>[^10]</small></small> of Jerusalem be opened until the sun be hot; and while they stand by, let them shut the doors, and bar \[them\]: and appoint watches of the inhabitants of Jerusalem, every one in his watch, and every one \[to be<small><small>[^11]</small></small>\] over against his house.
 
-***The List of Returning Exiles***&emsp;<small><sup>\[ [[Ezra.2|Ezra 2:1–67]] ]</sup></small> ^bsb1207
+<big><big>[[Neh.7.4 The List of Returning Exiles|⥃]]</big></big>***The List of Returning Exiles***&emsp;<small><sup>\[ [[Ezra.2|Ezra 2:1–67]] ]</sup></small>
 
  <span class="startversemarker">[</span>**[[Neh.7.4|4]]**<span class="endversemarker">]</span> Now the city \[was\] large and great<small><small>[^12]</small></small>: but the people \[were\] few therein, and the houses<small><small>[^13]</small></small> \[were\] not builded. 
 
@@ -26,7 +26,7 @@ $\quad$ <span class="startversemarker">[</span>**[[Neh.7.63|63]]**<span class="e
 
 $\quad$ <span class="startversemarker">[</span>**[[Neh.7.66|66]]**<span class="endversemarker">]</span> [¶]The whole congregation together \[was\] forty and two thousand three hundred and threescore,<small><small>[^93]</small></small> <span class="startversemarker">[</span>**[[Neh.7.67|67]]**<span class="endversemarker">]</span> Beside their manservants<small><small>[^94]</small></small> and their maidservants, of whom \[there were\] seven thousand three hundred thirty and seven: and they had two hundred<small><small>[^95]</small></small> forty and five singing men and singing women. <span class="startversemarker">[</span>**[[Neh.7.68|68]]**<span class="endversemarker">]</span> Their horses, seven hundred thirty and six: their mules, two hundred forty and five:<small><small>[^96]</small></small> <span class="startversemarker">[</span>**[[Neh.7.69|69]]**<span class="endversemarker">]</span> \[Their\] camels, four hundred thirty and five: six thousand seven hundred and twenty asses.<small><small>[^97]</small></small>
 
-***Offerings by the Exiles***&emsp;<small><sup>\[ [[Exod.38|Exodus 38:21–31]] <big>†</big> [[Ezra.2|Ezra 2:68–70]] ]</sup></small> ^bsb1208
+<big><big>[[Neh.7.70 Offerings by the Exiles|⥃]]</big></big>***Offerings by the Exiles***&emsp;<small><sup>\[ [[Exod.38|Exodus 38:21–31]] <big>†</big> [[Ezra.2|Ezra 2:68–70]] ]</sup></small>
 
  
 

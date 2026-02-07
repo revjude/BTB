@@ -1,12 +1,12 @@
-**2 Corinthians 12:14
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 12:14**<big><big>[[2Cor.12.11 Paul’s Concern for the Corinthians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, the third time I am ready to come to you; and I will not be burdensome to you: for I seek not yours, but you: for the children ought not to lay up for the parents, but the parents for the children.
 <small><sub>**BSB:**</sub></small>
 See, I am ready to come to you a third time, and I will not be a burden, because I am not seeking your possessions, but you. For children should not have to save up for their parents, but parents for their children.
 <small><sub>**Literal:**</sub></small>
 Behold third time this ready I am to come to you and not I will burden you; not for I seek what [is] yours but you. Not for ought the children for the parents to treasure up but the parents for the children;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.13|<< 2 Corinthians 12:13]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.15|2 Corinthians 12:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Behold |**<big>[[G2400\|Ἰδοὺ]]</big>**  |Idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | third time |**<big>[[G5154\|τρίτον]]</big>**  |triton <small><sup>[[A-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Isaiah 54:5** 
+**Isaiah 54:5**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy Maker [is] thine husband; the LORD of hosts [is] his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For your husband is your Maker—the LORD of Hosts is His name—the Holy One of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.4|<< Isaiah 54:4]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.6|Isaiah 54:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | husband\<s> your  |**<big>&#8207;[[H1166I\|בֹעֲלַ֙יִ]]&#8207;&#8207;[[H9032\|ךְ֙]]&#8207; </big>**| vo.'a.La.yi<small><sup>[[HVqrmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

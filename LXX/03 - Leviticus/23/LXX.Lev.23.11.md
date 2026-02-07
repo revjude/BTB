@@ -1,10 +1,7 @@
 **LXX Leviticus 23:11** 
 <small><sub>**LXX:**</sub></small>
 And he shall offer the sheaf before \[the\] <span class="smallcaps">lord</span> accepted for you. On the next day of the first the priest shall offer it. 
-<small><sub>**KJV:**</sub></small>
-And he shall wave the sheaf before the LORD, to be accepted for you: on the morrow after the sabbath the priest shall wave it.
-<small><sub>**BSB:**</sub></small>
-And he shall wave the sheaf before the LORD so that it may be accepted on your behalf; the priest is to wave it on the day after the Sabbath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.23.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.23.10|<< Leviticus 23:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.23.12|Leviticus 23:12 >>]]</td></tr></table>
 
 | Translation | Greek |

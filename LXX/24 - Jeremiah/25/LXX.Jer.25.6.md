@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:6** 
 <small><sub>**LXX:**</sub></small>
 Go not after strange gods  to serve them! and  to do obeisance to them, so that you should not provoke me to anger by the works  of your hands \[so as for me\] to afflict you. 
-<small><sub>**KJV:**</sub></small>
-And go not after other gods to serve them, and to worship them, and provoke me not to anger with the works of your hands; and I will do you no hurt.
-<small><sub>**BSB:**</sub></small>
-Do not follow other gods to serve and worship them, and do not provoke Me to anger with the works of your hands. Then I will do you no harm.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.5|<< Jeremiah 25:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.7|Jeremiah 25:7 >>]]</td></tr></table>
 
 | Translation | Greek |

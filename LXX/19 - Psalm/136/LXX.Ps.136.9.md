@@ -1,10 +1,7 @@
 **LXX Psalm 136:9** 
 <small><sub>**LXX:**</sub></small>
 The moon and the stars for authority of the night, for into the eon  \[is\] his mercy. 
-<small><sub>**KJV:**</sub></small>
-The moon and stars to rule by night: for his mercy [endureth] for ever.
-<small><sub>**BSB:**</sub></small>
-the moon and stars to govern the night. His loving devotion endures forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.136.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.136.8|<< Psalm 136:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.136.10|Psalm 136:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Deuteronomy 29:28** (29:27)
+**Deuteronomy 29:28**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD rooted them out of their land in anger, and in wrath, and in great indignation, and cast them into another land, as [it is] this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD uprooted them from their land in His anger, rage, and great wrath, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.27|<< Deuteronomy 29:27]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.29|Deuteronomy 29:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he plucked up them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5428\|יִּתְּשֵׁ֤]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.She<small><sup>[[HVqw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

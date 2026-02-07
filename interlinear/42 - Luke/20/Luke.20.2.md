@@ -1,12 +1,12 @@
-**Luke 20:2
-**<small><sub>**KJV:**</sub></small>
+**Luke 20:2**<big><big>[[Luke.20.1 Jesus’ Authority Challenged|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And spake unto him, saying, Tell us, by what authority doest thou these things? or who is he that gave thee this authority?
 <small><sub>**BSB:**</sub></small>
 “Tell us,” they said, “by what authority are You doing these things, and who gave You this authority?”
 <small><sub>**Literal:**</sub></small>
 and spoke saying to Him: do tell us by what authority these things You do or who is the [one] having given to You <the> authority this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.1|<< Luke 20:1]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.3|Luke 20:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | spoke |**<big>[[G2036\|εἶπαν]]</big>**  [^1] |eipan <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

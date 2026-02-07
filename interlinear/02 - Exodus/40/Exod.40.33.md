@@ -1,4 +1,4 @@
-**Exodus 40:33** 
+**Exodus 40:33**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he reared up the court round about the tabernacle and the altar, and set up the hanging of the court gate. So Moses finished the work.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Moses set up the courtyard around the tabernacle and the altar, and he hung 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.32|<< Exodus 40:32]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.34|Exodus 40:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he set up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965H\|יָּ֣קֶם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kem<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

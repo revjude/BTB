@@ -1,10 +1,7 @@
 **LXX Psalm 39:6** 
 <small><sub>**LXX:**</sub></small>
 However, a man travels with an image, except, he is disturbed in folly. He treasures up, but does not know why he shall gather them. 
-<small><sub>**KJV:**</sub></small>
-Surely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up [riches], and knoweth not who shall gather them.
-<small><sub>**BSB:**</sub></small>
-Surely every man goes about like a phantom; surely he bustles in vain; he heaps up riches not knowing who will haul them away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.39.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.5|<< Psalm 39:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.39.7|Psalm 39:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Genesis 31:29** 
+**Genesis 31:29**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It is in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take thou heed that thou speak not to Jacob either good or bad.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have power to do you great harm, but last night the God of your father said to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.28|<< Genesis 31:28]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.30|Genesis 31:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there  |**<big>&#8207;[[H3426\|יֶשׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yesh-<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] to [the] power of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0410L\|אֵ֣ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'El<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

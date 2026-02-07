@@ -1,4 +1,4 @@
-**Song of Solomon 5:3** 
+**Song of Solomon 5:3**<big><big>[[Song.5.2 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have taken off my robe—must I put it back on? I have washed my feet—must I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.2|<< Song of Solomon 5:2]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.4|Song of Solomon 5:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have taken off  |**<big>&#8207;[[H6584\|פָּשַׁ֙טְתִּי֙]]&#8207; </big>**| pa.Sha.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

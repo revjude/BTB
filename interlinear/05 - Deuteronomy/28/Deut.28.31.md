@@ -1,4 +1,4 @@
-**Deuteronomy 28:31** 
+**Deuteronomy 28:31**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine ox [shall be] slain before thine eyes, and thou shalt not eat thereof: thine ass [shall be] violently taken away from before thy face, and shall not be restored to thee: thy sheep [shall be] given unto thine enemies, and thou shalt have none to rescue [them].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your ox will be slaughtered before your eyes, but you will not eat any of it. Yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.30|<< Deuteronomy 28:30]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.32|Deuteronomy 28:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ox your  |**<big>&#8207;[[H7794\|שׁוֹרְ]]&#8207;&#8207;[[H9021\|ךָ֞]]&#8207; </big>**| shor.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] slaughtered  |**<big>&#8207;[[H2873\|טָב֣וּחַ]]&#8207; </big>**| ta.Vu.ach<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

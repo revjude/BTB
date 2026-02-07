@@ -1,12 +1,12 @@
-**Hebrews 11:10
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:10**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he looked for a city which hath foundations, whose builder and maker [is] God.
 <small><sub>**BSB:**</sub></small>
 For he was looking forward to the city with foundations, whose architect and builder is God.
 <small><sub>**Literal:**</sub></small>
 He was awaiting for the <the> foundations having city of which [the] architect and builder [is] <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.9|<< Hebrews 11:9]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.11|Hebrews 11:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He was awaiting |**<big>[[G1551\|ἐξεδέχετο]]</big>**  |exedecheto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

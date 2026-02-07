@@ -1,6 +1,6 @@
 (KJV) **Esther 6**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.5|<< Esther 5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.7|Esther 7 >>]]</td></tr></table>
 
-***Mordecai Is Honored*** ^bsb1235
+<big><big>[[Esth.6.1 Mordecai Is Honored|⥃]]</big></big>***Mordecai Is Honored***
 
  $\quad$ <span class="startversemarker">[</span>**[[Esth.6.1|1]]**<span class="endversemarker">]</span> On that night<small><small>[^2]</small></small> could not the king sleep<small><small>[^3]</small></small>, and he commanded to bring the book of records<small><small>[^4]</small></small> of the chronicles; and they were read before the king. <span class="startversemarker">[</span>**[[Esth.6.2|2]]**<span class="endversemarker">]</span> And it was found written, that Mordecai had told of Bigthana<small><small>[^5]</small></small> and Teresh, two of the king’s chamberlains, the keepers of the door<small><small>[^6]</small></small>, who sought to lay hand on the king Ahasuerus. <span class="startversemarker">[</span>**[[Esth.6.3|3]]**<span class="endversemarker">]</span> And the king said, What honour<small><small>[^7]</small></small> and dignity hath been done to Mordecai for this? Then said the king’s servants that ministered unto him, There is nothing<small><small>[^8]</small></small> done for him. 
 

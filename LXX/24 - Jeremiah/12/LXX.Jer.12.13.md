@@ -1,10 +1,7 @@
 **LXX Jeremiah 12:13** 
 <small><sub>**LXX:**</sub></small>
 You sowed wheat, and harvested thorn-bushes.  Their lots shall not benefit them. Be ashamed of your boasting, because of scorn before \[the\] <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-They have sown wheat, but shall reap thorns: they have put themselves to pain, [but] shall not profit: and they shall be ashamed of your revenues because of the fierce anger of the LORD.
-<small><sub>**BSB:**</sub></small>
-They have sown wheat but harvested thorns. They have exhausted themselves to no avail. Bear the shame of your harvest because of the fierce anger of the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.12.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.12.12|<< Jeremiah 12:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.12.14|Jeremiah 12:14 >>]]</td></tr></table>
 
 | Translation | Greek |

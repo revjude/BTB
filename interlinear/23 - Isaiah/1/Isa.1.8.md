@@ -1,4 +1,4 @@
-**Isaiah 1:8** 
+**Isaiah 1:8**<big><big>[[Isa.1.1 Judah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the daughter of Zion is left as a cottage in a vineyard, as a lodge in a garden of cucumbers, as a besieged city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the Daughter of Zion is abandoned like a shelter in a vineyard, like a shack
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.7|<< Isaiah 1:7]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.9|Isaiah 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she has been left  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3498\|נוֹתְרָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> not.Rah<small><sup>[[HVNq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] daughter of  |**<big>&#8207;[[H1323G\|בַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| vat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

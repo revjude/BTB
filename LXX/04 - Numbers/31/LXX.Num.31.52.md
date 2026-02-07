@@ -1,10 +1,7 @@
 **LXX Numbers 31:52** 
 <small><sub>**LXX:**</sub></small>
 And came to pass all the gold for the cut-away portion which they removed \[to the\] <span class="smallcaps">lord</span> -- sixteen thousand and seven hundred and fifty shekels from the commanders of thousands, and from the commanders of hundreds. 
-<small><sub>**KJV:**</sub></small>
-And all the gold of the offering that they offered up to the LORD, of the captains of thousands, and of the captains of hundreds, was sixteen thousand seven hundred and fifty shekels.
-<small><sub>**BSB:**</sub></small>
-All the gold that the commanders of thousands and of hundreds presented as an offering to the LORD weighed 16,750 shekels.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.31.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.31.51|<< Numbers 31:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.31.53|Numbers 31:53 >>]]</td></tr></table>
 
 | Translation | Greek |

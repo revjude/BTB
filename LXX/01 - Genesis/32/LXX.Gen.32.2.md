@@ -1,10 +1,7 @@
 **LXX Genesis 32:2** 
 <small><sub>**LXX:**</sub></small>
 And Jacob said, when he saw them, This \[is\] \[the\] camp of God. And he called the name  of that place, Camps. 
-<small><sub>**KJV:**</sub></small>
-And when Jacob saw them, he said, This [is] God’s host: and he called the name of that place Mahanaim.
-<small><sub>**BSB:**</sub></small>
-When Jacob saw them, he said, “This is the camp of God.” So he named that place Mahanaim.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.1|<< Genesis 32:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.3|Genesis 32:3 >>]]</td></tr></table>
 
 | Translation | Greek |

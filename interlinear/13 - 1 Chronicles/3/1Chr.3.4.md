@@ -1,4 +1,4 @@
-**1 Chronicles 3:4** 
+**1 Chronicles 3:4**<big><big>[[1Chr.3.1 The Descendants of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [These] six were born unto him in Hebron; and there he reigned seven years and six months: and in Jerusalem he reigned thirty and three years.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These six sons were born to David in Hebron, where he reigned seven years and si
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.3|<< 1 Chronicles 3:3]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.5|1 Chronicles 3:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | six [sons]  |**<big>&#8207;[[H8337\|שִׁשָּׁה֙]]&#8207; </big>**| shi.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was born  |**<big>&#8207;[[H3205\|נֽוֹלַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| no.lad-<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

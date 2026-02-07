@@ -1,10 +1,7 @@
 **LXX Micah 1:11** 
 <small><sub>**LXX:**</sub></small>
 Her inhabiting well  her cities did not come forth. Her inhabiting Zaanan to beat her chest \[for the\] house next to her; she shall receive from your calamity of grief. 
-<small><sub>**KJV:**</sub></small>
-Pass ye away, thou inhabitant of Saphir, having thy shame naked: the inhabitant of Zaanan came not forth in the mourning of Bethezel; he shall receive of you his standing.
-<small><sub>**BSB:**</sub></small>
-Depart in shameful nakedness, O dwellers of Shaphir. The dwellers of Zaanan will not come out. Beth-ezel is in mourning; its support is taken from you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.10|<< Micah 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.12|Micah 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 1:29** 
 <small><sub>**LXX:**</sub></small>
 And Ephraim did not remove the Canaanite  dwelling in Gezer; and the Canaanite dwelt in \[the\] midst of him in Gezer. 
-<small><sub>**KJV:**</sub></small>
-Neither did Ephraim drive out the Canaanites that dwelt in Gezer; but the Canaanites dwelt in Gezer among them.
-<small><sub>**BSB:**</sub></small>
-Ephraim also failed to drive out the Canaanites living in Gezer; so the Canaanites continued to dwell among them in Gezer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.28|<< Judges 1:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.30|Judges 1:30 >>]]</td></tr></table>
 
 | Translation | Greek |

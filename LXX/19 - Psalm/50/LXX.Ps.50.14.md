@@ -1,10 +1,7 @@
 **LXX Psalm 50:14** 
 <small><sub>**LXX:**</sub></small>
 Sacrifice  to God a sacrifice of praise! and render to the highest  your vows! 
-<small><sub>**KJV:**</sub></small>
-Offer unto God thanksgiving; and pay thy vows unto the most High:
-<small><sub>**BSB:**</sub></small>
-Sacrifice a thank offering to God, and fulfill your vows to the Most High.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.50.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.13|<< Psalm 50:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.15|Psalm 50:15 >>]]</td></tr></table>
 
 | Translation | Greek |

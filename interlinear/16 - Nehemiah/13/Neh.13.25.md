@@ -1,4 +1,4 @@
-**Nehemiah 13:25** 
+**Nehemiah 13:25**<big><big>[[Neh.13.23 Intermarriage Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, [saying], Ye shall not give your daughters unto their sons, nor take their daughters unto your sons, or for yourselves.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I rebuked them and called down curses on them. I beat some of these men and pull
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.24|<< Nehemiah 13:24]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.26|Nehemiah 13:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I contended  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7378\|אָרִ֤יב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Riv<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with them  |**<big>&#8207;[[H5973A\|עִמָּ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| 'i.Ma<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

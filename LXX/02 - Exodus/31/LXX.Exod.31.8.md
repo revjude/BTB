@@ -1,10 +1,7 @@
 **LXX Exodus 31:8** 
 <small><sub>**LXX:**</sub></small>
 and the altars, and the table, and all the utensils for it, and the pure lamp-stand, and all the utensils for it, 
-<small><sub>**KJV:**</sub></small>
-And the table and his furniture, and the pure candlestick with all his furniture, and the altar of incense,
-<small><sub>**BSB:**</sub></small>
-the table with its utensils, the pure gold lampstand with all its utensils, the altar of incense,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.31.7|<< Exodus 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.31.9|Exodus 31:9 >>]]</td></tr></table>
 
 | Translation | Greek |

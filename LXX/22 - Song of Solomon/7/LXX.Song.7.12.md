@@ -1,10 +1,7 @@
 **LXX Song of Solomon 7:12** 
 <small><sub>**LXX:**</sub></small>
 We should rise early to \[the\] vineyards; we should see if the grapevine bloomed; \[the\] blossoms bloomed; the pomegranates bloomed. There I will give  my breasts to you. 
-<small><sub>**KJV:**</sub></small>
-Let us get up early to the vineyards; let us see if the vine flourish, [whether] the tender grape appear, [and] the pomegranates bud forth: there will I give thee my loves.
-<small><sub>**BSB:**</sub></small>
-Let us go early to the vineyards to see if the vine has budded, if the blossom has opened, if the pomegranates are in bloom—there I will give you my love.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.7.11|<< Song of Solomon 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.13|Song of Solomon 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

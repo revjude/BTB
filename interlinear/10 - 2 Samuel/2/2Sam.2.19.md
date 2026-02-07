@@ -1,4 +1,4 @@
-**2 Samuel 2:19** 
+**2 Samuel 2:19**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Asahel pursued after Abner; and in going he turned not to the right hand nor to the left from following Abner.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he chased Abner, not turning to the right or to the left in his pursuit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.18|<< 2 Samuel 2:18]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.20|2 Samuel 2:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he pursued  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7291\|יִּרְדֹּ֥ף]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yir.Dof<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Asahel  |**<big>&#8207;[[H6214G\|עֲשָׂהאֵ֖ל]]&#8207; </big>**| 'a.sa.h.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

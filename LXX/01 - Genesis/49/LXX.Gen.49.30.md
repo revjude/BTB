@@ -1,10 +1,7 @@
 **LXX Genesis 49:30** 
 <small><sub>**LXX:**</sub></small>
 in the double cave, in the one before Mamre, in \[the\] land of Canaan, which Abraham acquired; the cave of Ephron the Hittite, for possession of a memorial. 
-<small><sub>**KJV:**</sub></small>
-In the cave that [is] in the field of Machpelah, which [is] before Mamre, in the land of Canaan, which Abraham bought with the field of Ephron the Hittite for a possession of a buryingplace.
-<small><sub>**BSB:**</sub></small>
-The cave is in the field of Machpelah near Mamre, in the land of Canaan. This is the field Abraham purchased from Ephron the Hittite as a burial site.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.29|<< Genesis 49:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.31|Genesis 49:31 >>]]</td></tr></table>
 
 | Translation | Greek |

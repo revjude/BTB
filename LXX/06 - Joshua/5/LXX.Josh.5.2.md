@@ -1,10 +1,7 @@
 **LXX Joshua 5:2** 
 <small><sub>**LXX:**</sub></small>
 And about this  time \[the\] <span class="smallcaps">lord</span> said  to Joshua, Make for yourself \[flint\] rock knives, and sitting down circumcise the sons of Israel  a second \[time\]! 
-<small><sub>**KJV:**</sub></small>
-At that time the LORD said unto Joshua, Make thee sharp knives, and circumcise again the children of Israel the second time.
-<small><sub>**BSB:**</sub></small>
-At that time the LORD said to Joshua, “Make flint knives and circumcise the sons of Israel once again.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.5.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.5.1|<< Joshua 5:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.5.3|Joshua 5:3 >>]]</td></tr></table>
 
 | Translation | Greek |

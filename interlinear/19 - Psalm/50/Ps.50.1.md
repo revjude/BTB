@@ -1,12 +1,12 @@
-**Psalms 50:1** 
+**Psalms 50:1**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Psalm of Asaph. The mighty God, [even] the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof.
+The mighty God, [even] the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof.
 <small><sub>**BSB:**</sub></small>
 A Psalm of Asaph. The Mighty One, God the LORD, speaks and summons the earth from where the sun rises to where it sets.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.0|<< Psalms 50:0]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.2|Psalms 50:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | God  |**<big>&#8207;[[H0410G\|אֵ֤ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'el<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱֽלֹהִ֡ים]]&#8207; </big>**| 'elo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

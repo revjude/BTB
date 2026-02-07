@@ -1,4 +1,4 @@
-**Psalms 139:21** 
+**Psalms 139:21**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Do not I hate them, O LORD, that hate thee? and am not I grieved with those that rise up against thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do I not hate those who hate You, O LORD, and detest those who rise against You?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.20|<< Psalms 139:20]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.22|Psalms 139:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|לֽוֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] hate you  |**<big>&#8207;[[H8130\|מְשַׂנְאֶ֖י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| me.san.'Ei.<small><sup>[[HVprmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

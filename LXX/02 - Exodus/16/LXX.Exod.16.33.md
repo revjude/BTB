@@ -1,10 +1,7 @@
 **LXX Exodus 16:33** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to Aaron, Take one golden jar, and put in it a full  homer  of manna, and put it aside before  God for preservation into  your generations! 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the LORD, to be kept for your generations.
-<small><sub>**BSB:**</sub></small>
-So Moses told Aaron, “Take a jar and fill it with an omer of manna. Then place it before the LORD to be preserved for the generations to come.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.16.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.32|<< Exodus 16:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.34|Exodus 16:34 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Luke 14:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:26**<big><big>[[Luke.14.25 The Cost of Discipleship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If any [man] come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
 <small><sub>**BSB:**</sub></small>
 “If anyone comes to Me and does not hate his father and mother and wife and children and brothers and sisters—yes, even his own life—he cannot be My disciple.
@@ -10,7 +10,7 @@ If anyone comes to Me and not he hates the father of himself and the mother and 
 > $\quad$ alluding to: [[LXX.Mic.7.6|Mic 7:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἴ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

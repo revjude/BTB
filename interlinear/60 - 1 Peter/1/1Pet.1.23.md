@@ -1,12 +1,12 @@
-**1 Peter 1:23
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 1:23**<big><big>[[1Pet.1.22 The Enduring Word|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.
 <small><sub>**BSB:**</sub></small>
 For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God.
 <small><sub>**Literal:**</sub></small>
 born again not of seed perishable but of imperishable through [the] word living of God and abiding into the age;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.22|<< 1 Peter 1:22]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.24|1 Peter 1:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | born again |**<big>[[G0313\|ἀναγεγεννημένοι]]</big>**  |anagegennēmenoi <small><sup>[[V-RPP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Daniel 2:6** 
 <small><sub>**LXX:**</sub></small>
 But if the dream and the interpretation of it you should make known to me, gifts and \[favors\] without charge, and much honor you shall receive from me. Except the dream and the interpretation of it report to me! 
-<small><sub>**KJV:**</sub></small>
-But if ye shew the dream, and the interpretation thereof, ye shall receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation thereof.
-<small><sub>**BSB:**</sub></small>
-But if you tell me the dream and its interpretation, you will receive from me gifts and rewards and great honor. So tell me the dream and its interpretation.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.5|<< Daniel 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.7|Daniel 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

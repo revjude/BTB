@@ -1,10 +1,7 @@
 **LXX Nehemiah 4:7** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Sanballat heard, (and Tobiah, and the Arabians, and the Ammonites, and the Ashdodites, that the development of the walls of Jerusalem ascended,) that they began to block up the gaps, that it appeared exceedingly wicked to them. 
-<small><sub>**KJV:**</sub></small>
-But it came to pass, [that] when Sanballat, and Tobiah, and the Arabians, and the Ammonites, and the Ashdodites, heard that the walls of Jerusalem were made up, [and] that the breaches began to be stopped, then they were very wroth,
-<small><sub>**BSB:**</sub></small>
-When Sanballat and Tobiah, together with the Arabs, Ammonites, and Ashdodites, heard that the repair to the walls of Jerusalem was progressing and that the gaps were being closed, they were furious,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.4.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.4.6|<< Nehemiah 4:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.4.8|Nehemiah 4:8 >>]]</td></tr></table>
 
 | Translation | Greek |

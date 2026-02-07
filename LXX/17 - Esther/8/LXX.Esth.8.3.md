@@ -1,10 +1,7 @@
 **LXX Esther 8:3** 
 <small><sub>**LXX:**</sub></small>
 And proceeding, she spoke to the king, and fell unto  his feet, and petitioned him to remove the evil of Haman, and as much as he did to the Jews. 
-<small><sub>**KJV:**</sub></small>
-And Esther spake yet again before the king, and fell down at his feet, and besought him with tears to put away the mischief of Haman the Agagite, and his device that he had devised against the Jews.
-<small><sub>**BSB:**</sub></small>
-And once again, Esther addressed the king. She fell at his feet weeping and begged him to revoke the evil scheme of Haman the Agagite, which he had devised against the Jews.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.2|<< Esther 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.4|Esther 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

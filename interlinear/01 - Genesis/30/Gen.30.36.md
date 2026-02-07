@@ -1,4 +1,4 @@
-**Genesis 30:36** 
+**Genesis 30:36**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set three days’ journey betwixt himself and Jacob: and Jacob fed the rest of Laban’s flocks.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he put a three-day journey between himself and Jacob, while Jacob was sheph
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.35|<< Genesis 30:35]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.37|Genesis 30:37 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he put  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760A\|יָּ֗שֶׂם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.sem<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a journey of  |**<big>&#8207;[[H1870L\|דֶּ֚רֶךְ]]&#8207; </big>**| De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

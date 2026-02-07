@@ -1,10 +1,7 @@
 **LXX Genesis 50:10** 
 <small><sub>**LXX:**</sub></small>
 And they came upon \[the\] threshing-floor of Atad, which is on the other side of the Jordan. And they lamented him \[by\] beating the breast, great and strong, exceedingly. And he made the mourning  of his father seven days. 
-<small><sub>**KJV:**</sub></small>
-And they came to the threshingfloor of Atad, which [is] beyond Jordan, and there they mourned with a great and very sore lamentation: and he made a mourning for his father seven days.
-<small><sub>**BSB:**</sub></small>
-When they reached the threshing floor of Atad, which is across the Jordan, they lamented and wailed loudly, and Joseph mourned for his father seven days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.50.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.50.9|<< Genesis 50:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.50.11|Genesis 50:11 >>]]</td></tr></table>
 
 | Translation | Greek |

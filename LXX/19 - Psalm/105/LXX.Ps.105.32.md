@@ -1,10 +1,7 @@
 **LXX Psalm 105:32** 
 <small><sub>**LXX:**</sub></small>
 He made  their rains \[into\] hail, \[and\] fire burning up in  their land. 
-<small><sub>**KJV:**</sub></small>
-He gave them hail for rain, [and] flaming fire in their land.
-<small><sub>**BSB:**</sub></small>
-He gave them hail for rain, with lightning throughout their land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.105.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.105.31|<< Psalm 105:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.105.33|Psalm 105:33 >>]]</td></tr></table>
 
 | Translation | Greek |

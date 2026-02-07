@@ -1,12 +1,12 @@
-**John 6:65
-**<small><sub>**KJV:**</sub></small>
+**John 6:65**<big><big>[[John.6.59 Many Disciples Turn Back|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said, Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said, “This is why I told you that no one can come to Me unless the Father has granted it to him.”
 <small><sub>**Literal:**</sub></small>
 And He was saying; Because of this have I said to you that no [one] is able to come to Me only unless it shall granted to him from the Father of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.64|<< John 6:64]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.66|John 6:66 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was saying; |**<big>[[G3004G\|ἔλεγεν·]]</big>**  |elegen <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

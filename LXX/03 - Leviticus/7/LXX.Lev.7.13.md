@@ -1,10 +1,7 @@
 **LXX Leviticus 7:13** 
 <small><sub>**LXX:**</sub></small>
 With leavened breads he shall offer  his gift with a sacrifice of praise of his deliverance. 
-<small><sub>**KJV:**</sub></small>
-Besides the cakes, he shall offer [for] his offering leavened bread with the sacrifice of thanksgiving of his peace offerings.
-<small><sub>**BSB:**</sub></small>
-Along with his peace offering of thanksgiving he is to present an offering with cakes of leavened bread.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.12|<< Leviticus 7:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.14|Leviticus 7:14 >>]]</td></tr></table>
 
 | Translation | Greek |

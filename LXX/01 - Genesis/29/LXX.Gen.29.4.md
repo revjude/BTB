@@ -1,10 +1,7 @@
 **LXX Genesis 29:4** 
 <small><sub>**LXX:**</sub></small>
 And Jacob said to them, Brethren, from what place are you?  And they said, We are from Haran. 
-<small><sub>**KJV:**</sub></small>
-And Jacob said unto them, My brethren, whence [be] ye? And they said, Of Haran [are] we.
-<small><sub>**BSB:**</sub></small>
-“My brothers,” Jacob asked the shepherds, “where are you from?” “We are from Haran,” they answered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.3|<< Genesis 29:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.5|Genesis 29:5 >>]]</td></tr></table>
 
 | Translation | Greek |

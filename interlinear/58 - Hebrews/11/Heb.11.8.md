@@ -1,5 +1,5 @@
-**Hebrews 11:8
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:8**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance, obeyed; and he went out, not knowing whither he went.
 <small><sub>**BSB:**</sub></small>
 By faith Abraham, when called to go to a place he would later receive as his inheritance, obeyed and went, without knowing where he was going.
@@ -10,7 +10,7 @@ By faith the [one] being called Abraham obeyed to go out into <the> a place that
 > $\quad$ alluding to: [[LXX.Gen.12.1|Gen 12:1-2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="Treg">o</abbr> | |

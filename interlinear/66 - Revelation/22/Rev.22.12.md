@@ -1,5 +1,5 @@
-**Revelation 22:12
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:12**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And, behold, I come quickly; and my reward [is] with me, to give every man according as his work shall be.
 <small><sub>**BSB:**</sub></small>
 “Behold, I am coming soon, and My reward is with Me, to give to each one according to what he has done.
@@ -10,7 +10,7 @@ and Behold I am coming quickly, and the reward of Mine [is] with Me to give to e
 > $\quad$ alluding to: [[LXX.Isa.40.10|Isa 40:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">k</abbr> | |
 | Behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 1:27** 
 <small><sub>**LXX:**</sub></small>
 And I beheld as an appearance of molten bronze, as a vision of fire within it round about from \[the\] vision of \[the\] loin and up; and from \[the\] vision of \[the\] loin unto below I beheld as a vision as of fire, and  its brightness round about. 
-<small><sub>**KJV:**</sub></small>
-And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about.
-<small><sub>**BSB:**</sub></small>
-From what seemed to be His waist up, I saw a gleam like amber, with what looked like fire within it all around. And from what seemed to be His waist down, I saw what looked like fire; and brilliant light surrounded Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.1.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.1.26|<< Ezekiel 1:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.1.28|Ezekiel 1:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 1:27** is...

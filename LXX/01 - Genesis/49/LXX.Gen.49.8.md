@@ -1,10 +1,7 @@
 **LXX Genesis 49:8** 
 <small><sub>**LXX:**</sub></small>
 Judah, your brothers have praised you.  Your hands \[are\] upon \[the\] back  of your enemies. The sons of your father will do obeisance to you; 
-<small><sub>**KJV:**</sub></small>
-Judah, thou [art he] whom thy brethren shall praise: thy hand [shall be] in the neck of thine enemies; thy father’s children shall bow down before thee.
-<small><sub>**BSB:**</sub></small>
-Judah, your brothers shall praise you. Your hand shall be on the necks of your enemies; your father’s sons shall bow down to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.49.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.49.7|<< Genesis 49:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.49.9|Genesis 49:9 >>]]</td></tr></table>
 
 | Translation | Greek |

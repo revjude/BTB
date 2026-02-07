@@ -1,4 +1,4 @@
-**Proverbs 23:7** 
+**Proverbs 23:7**<big><big>[[Prov.23.6 Saying 9|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For as he thinketh in his heart, so [is] he: Eat and drink, saith he to thee; but his heart [is] not with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for he is keeping track, inwardly counting the cost. “Eat and drink,” he say
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.6|<< Proverbs 23:6]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.8|Proverbs 23:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | as  |**<big>&#8207;[[H3644G\|כְּמוֹ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.mov-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

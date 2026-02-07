@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:24** 
 <small><sub>**LXX:**</sub></small>
 There is not a good \[thing\] to man unless  to eat and  to drink, and  to show  his soul good in his effort. And indeed this I knew, that it is from \[the\] hand of God. 
-<small><sub>**KJV:**</sub></small>
-[There is] nothing better for a man, [than] that he should eat and drink, and [that] he should make his soul enjoy good in his labour. This also I saw, that it [was] from the hand of God.
-<small><sub>**BSB:**</sub></small>
-Nothing is better for a man than to eat and drink and enjoy his work. I have also seen that this is from the hand of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.23|<< Ecclesiastes 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.25|Ecclesiastes 2:25 >>]]</td></tr></table>
 
 | Translation | Greek |

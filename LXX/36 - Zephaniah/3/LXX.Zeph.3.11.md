@@ -1,10 +1,7 @@
 **LXX Zephaniah 3:11** 
 <small><sub>**LXX:**</sub></small>
 In  that day in no way shall you be disgraced from all  of your practices which you were impious against me. For then I shall remove from you the careless attitudes  of your insolence, and no longer should you proceed  to make great brag over  my holy mountain. 
-<small><sub>**KJV:**</sub></small>
-In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain.
-<small><sub>**BSB:**</sub></small>
-On that day you will not be put to shame for any of the deeds by which you have transgressed against Me. For then I will remove from among you those who rejoice in their pride, and you will never again be haughty on My holy mountain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.10|<< Zephaniah 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.12|Zephaniah 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

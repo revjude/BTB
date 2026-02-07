@@ -1,10 +1,7 @@
 **LXX Zechariah 12:10** 
 <small><sub>**LXX:**</sub></small>
 And I will pour out upon the house of David, and upon the ones dwelling Jerusalem a spirit of favor and compassion. And they shall look to me, because they treated \[me\] despitefully; and they shall beat over him with a beating of the breast, as over a beloved one; and they shall grieve with grief as over the first-born. 
-<small><sub>**KJV:**</sub></small>
-And I will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit of grace and of supplications: and they shall look upon me whom they have pierced, and they shall mourn for him, as one mourneth for [his] only [son], and shall be in bitterness for him, as one that is in bitterness for [his] firstborn.
-<small><sub>**BSB:**</sub></small>
-Then I will pour out on the house of David and on the people of Jerusalem a spirit of grace and prayer, and they will look on Me, the One they have pierced. They will mourn for Him as one mourns for an only child, and grieve bitterly for Him as one grieves for a firstborn son.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.12.9|<< Zechariah 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.12.11|Zechariah 12:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zechariah 12:10** is...

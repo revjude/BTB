@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 24:15** 
 <small><sub>**LXX:**</sub></small>
 And Jehoiada grew old, and was full of days. And he came to an end being a son a hundred and thirty years at  his coming to an end. 
-<small><sub>**KJV:**</sub></small>
-But Jehoiada waxed old, and was full of days when he died; an hundred and thirty years old [was he] when he died.
-<small><sub>**BSB:**</sub></small>
-When Jehoiada was old and full of years, he died at the age of 130.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.14|<< 2 Chronicles 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.16|2 Chronicles 24:16 >>]]</td></tr></table>
 
 | Translation | Greek |

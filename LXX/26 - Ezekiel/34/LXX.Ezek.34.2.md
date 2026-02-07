@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:2** 
 <small><sub>**LXX:**</sub></small>
 O son of man, prophesy against the shepherds  of Israel! Prophesy, and say to the shepherds! Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; O shepherds of Israel, the shepherds graze themselves? Do not the shepherds graze the sheep? 
-<small><sub>**KJV:**</sub></small>
-Son of man, prophesy against the shepherds of Israel, prophesy, and say unto them, Thus saith the Lord GOD unto the shepherds; Woe [be] to the shepherds of Israel that do feed themselves! should not the shepherds feed the flocks?
-<small><sub>**BSB:**</sub></small>
-“Son of man, prophesy against the shepherds of Israel. Prophesy and tell them that this is what the Lord GOD says: ‘Woe to the shepherds of Israel, who only feed themselves! Should not the shepherds feed their flock?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.1|<< Ezekiel 34:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.3|Ezekiel 34:3 >>]]</td></tr></table>
 
 | Translation | Greek |

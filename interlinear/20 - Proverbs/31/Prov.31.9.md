@@ -1,4 +1,4 @@
-**Proverbs 31:9** 
+**Proverbs 31:9**<big><big>[[Prov.31.1 The Sayings for King Lemuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Open thy mouth, judge righteously, and plead the cause of the poor and needy.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Open your mouth, judge righteously, and defend the cause of the poor and needy.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.8|<< Proverbs 31:8]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.10|Proverbs 31:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | open  |**<big>&#8207;[[H6605A\|פְּתַח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pe.tach-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mouth your  |**<big>&#8207;[[H6310G\|פִּ֥י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Pi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

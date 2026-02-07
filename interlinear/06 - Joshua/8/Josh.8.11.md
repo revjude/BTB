@@ -1,4 +1,4 @@
-**Joshua 8:11** 
+**Joshua 8:11**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people, [even the people] of war that [were] with him, went up, and drew nigh, and came before the city, and pitched on the north side of Ai: now [there was] a valley between them and Ai.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then all the troops who were with him marched up and approached the city. They a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.10|<< Joshua 8:10]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.12|Joshua 8:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people of  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971K\|עָ֨ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

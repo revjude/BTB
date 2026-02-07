@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:35** 
 <small><sub>**LXX:**</sub></small>
 And Samuel did not proceed to see  Saul until \[the\] day of his death, for Samuel mourned over Saul. And \[the\] <span class="smallcaps">lord</span> repented that Saul reigned over Israel. 
-<small><sub>**KJV:**</sub></small>
-And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the LORD repented that he had made Saul king over Israel.
-<small><sub>**BSB:**</sub></small>
-And to the day of his death, Samuel never again visited Saul. Samuel mourned for Saul, and the LORD regretted that He had made Saul king over Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.34|<< 1 Samuel 15:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.16.1|1 Samuel 16:1 >>]]</td></tr></table>
 
 | Translation | Greek |

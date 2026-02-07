@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:24** 
 <small><sub>**LXX:**</sub></small>
 And the daughter  of Pharaoh ascended from the city of David to  her house, which he built to her. Then he built Millo. 
-<small><sub>**KJV:**</sub></small>
-But Pharaoh’s daughter came up out of the city of David unto her house which [Solomon] had built for her: then did he build Millo.
-<small><sub>**BSB:**</sub></small>
-As soon as Pharaoh’s daughter had come up from the City of David to the palace that Solomon had built for her, he built the supporting terraces.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.23|<< 1 Kings 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.25|1 Kings 9:25 >>]]</td></tr></table>
 
 | Translation | Greek |

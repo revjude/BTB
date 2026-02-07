@@ -1,4 +1,4 @@
-**2 Chronicles 6:40** 
+**2 Chronicles 6:40**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now, my God, let, I beseech thee, thine eyes be open, and [let] thine ears [be] attent unto the prayer [that is made] in this place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now, my God, may Your eyes be open and Your ears attentive to the prayer offered
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.39|<< 2 Chronicles 6:39]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.41|2 Chronicles 6:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H6258\|עַתָּ֣ה]]&#8207; </big>**| 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God my  |**<big>&#8207;[[H0430G\|אֱלֹהַ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

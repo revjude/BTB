@@ -1,4 +1,4 @@
-**Ezekiel 16:53** 
+**Ezekiel 16:53**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I shall bring again their captivity, the captivity of Sodom and her daughters, and the captivity of Samaria and her daughters, then [will I bring again] the captivity of thy captives in the midst of them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I will restore Sodom and her daughters from captivity, as well as Samaria an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.52|<< Ezekiel 16:52]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.54|Ezekiel 16:54 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will turn back  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725H\|שַׁבְתִּי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shav.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

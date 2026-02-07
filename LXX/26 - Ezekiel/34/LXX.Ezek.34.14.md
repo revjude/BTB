@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:14** 
 <small><sub>**LXX:**</sub></small>
 I will graze them in good pasture on the high mountain of Israel, and their havens will be there. And they shall sleep there, and they shall rest in good luxury; and they shall graze in a plentiful pasture upon the mountains of Israel. 
-<small><sub>**KJV:**</sub></small>
-I will feed them in a good pasture, and upon the high mountains of Israel shall their fold be: there shall they lie in a good fold, and [in] a fat pasture shall they feed upon the mountains of Israel.
-<small><sub>**BSB:**</sub></small>
-I will feed them in good pasture, and the lofty mountains of Israel will be their grazing land. There they will lie down in a good grazing land; they will feed in rich pasture on the mountains of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.13|<< Ezekiel 34:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.15|Ezekiel 34:15 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 119:34** 
 <small><sub>**LXX:**</sub></small>
 Bring understanding to me! and I will search out  your law, and I will guard it with my whole heart. 
-<small><sub>**KJV:**</sub></small>
-Give me understanding, and I shall keep thy law; yea, I shall observe it with [my] whole heart.
-<small><sub>**BSB:**</sub></small>
-Give me understanding that I may obey Your law, and follow it with all my heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.33|<< Psalm 119:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.35|Psalm 119:35 >>]]</td></tr></table>
 
 | Translation | Greek |

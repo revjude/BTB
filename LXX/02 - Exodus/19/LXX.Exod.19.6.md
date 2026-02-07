@@ -1,10 +1,7 @@
 **LXX Exodus 19:6** 
 <small><sub>**LXX:**</sub></small>
 And you shall be to me a royal priesthood, and a holy nation. These  words you shall say to the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And ye shall be unto me a kingdom of priests, and an holy nation. These [are] the words which thou shalt speak unto the children of Israel.
-<small><sub>**BSB:**</sub></small>
-And unto Me you shall be a kingdom of priests and a holy nation.’ These are the words that you are to speak to the Israelites.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.19.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.19.5|<< Exodus 19:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.19.7|Exodus 19:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 19:6** is...

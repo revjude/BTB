@@ -1,5 +1,5 @@
-**Mark 4:12
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:12**<big><big>[[Mark.4.10 The Purpose of Jesus’ Parables|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and [their] sins should be forgiven them.
 <small><sub>**BSB:**</sub></small>
 so that, ‘they may be ever seeing but never perceiving, and ever hearing but never understanding; otherwise they might turn and be forgiven.’”
@@ -10,7 +10,7 @@ so that Looking they may look and not they may perceive and hearing they may hea
 > $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9-10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Looking |**<big>[[G0991\|βλέποντες]]</big>**  |blepontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

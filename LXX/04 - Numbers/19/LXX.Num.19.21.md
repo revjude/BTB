@@ -1,10 +1,7 @@
 **LXX Numbers 19:21** 
 <small><sub>**LXX:**</sub></small>
 And it shall be to you an eternal law. And the one sprinkling about \[the\] water of sprinkling, he shall wash  his garments; and the one touching the water  of sprinkling, he will be unclean until evening. 
-<small><sub>**KJV:**</sub></small>
-And it shall be a perpetual statute unto them, that he that sprinkleth the water of separation shall wash his clothes; and he that toucheth the water of separation shall be unclean until even.
-<small><sub>**BSB:**</sub></small>
-This is a permanent statute for the people: The one who sprinkles the water of purification must wash his clothes, and whoever touches the water of purification will be unclean until evening.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.20|<< Numbers 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.22|Numbers 19:22 >>]]</td></tr></table>
 
 | Translation | Greek |

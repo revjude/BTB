@@ -1,4 +1,4 @@
-**Zephaniah 1:11** 
+**Zephaniah 1:11**<big><big>[[Zeph.1.7 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howl, ye inhabitants of Maktesh, for all the merchant people are cut down; all they that bear silver are cut off.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wail, O dwellers of the Hollow, for all your merchants will be silenced; all who
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.10|<< Zephaniah 1:10]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.12|Zephaniah 1:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wail  |**<big>&#8207;[[H3213\|הֵילִ֖ילוּ]]&#8207; </big>**| hei.Li.lu<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O inhabitants of  |**<big>&#8207;[[H3427\|יֹשְׁבֵ֣י]]&#8207; </big>**| yo.she.Vei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 29:10** 
+**Isaiah 29:10**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD hath poured out upon you the spirit of deep sleep, and hath closed your eyes: the prophets and your rulers, the seers hath he covered.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For the LORD has poured out on you a spirit of deep sleep. He has shut your eyes
 > $\quad$ referenced by: [[Rom.11.8|Rom 11:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has poured out  |**<big>&#8207;[[H5258A\|נָסַ֨ךְ]]&#8207; </big>**| na.Sakh<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

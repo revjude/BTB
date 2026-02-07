@@ -1,10 +1,7 @@
 **LXX Deuteronomy 6:2** 
 <small><sub>**LXX:**</sub></small>
 That you should fear \[the\] <span class="smallcaps">lord</span>  our God, to guard all  his ordinances and  his commandments which I give charge to you today, you and  your sons, and the sons  of your sons, all the days  of your life, that you should prolong your days. 
-<small><sub>**KJV:**</sub></small>
-That thou mightest fear the LORD thy God, to keep all his statutes and his commandments, which I command thee, thou, and thy son, and thy son’s son, all the days of thy life; and that thy days may be prolonged.
-<small><sub>**BSB:**</sub></small>
-so that you and your children and grandchildren may fear the LORD your God all the days of your lives by keeping all His statutes and commandments that I give you, and so that your days may be prolonged.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.6.1|<< Deuteronomy 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.6.3|Deuteronomy 6:3 >>]]</td></tr></table>
 
 | Translation | Greek |

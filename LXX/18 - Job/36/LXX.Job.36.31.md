@@ -1,10 +1,7 @@
 **LXX Job 36:31** 
 <small><sub>**LXX:**</sub></small>
 For in them he shall judge peoples; he shall give nourishment to the one being strong. 
-<small><sub>**KJV:**</sub></small>
-For by them judgeth he the people; he giveth meat in abundance.
-<small><sub>**BSB:**</sub></small>
-For by these He judges the nations and provides food in abundance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.30|<< Job 36:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.32|Job 36:32 >>]]</td></tr></table>
 
 | Translation | Greek |

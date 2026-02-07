@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:2** 
 <small><sub>**LXX:**</sub></small>
 And his servants said to him, Let them seek  for our master the king a young virgin, and she shall stand beside the king, and will be warming him, and she shall recline in  his bosom, and our master the king shall be heated. 
-<small><sub>**KJV:**</sub></small>
-Wherefore his servants said unto him, Let there be sought for my lord the king a young virgin: and let her stand before the king, and let her cherish him, and let her lie in thy bosom, that my lord the king may get heat.
-<small><sub>**BSB:**</sub></small>
-So his servants said to him, “Let us search for a young virgin for our lord the king, to attend to him and care for him and lie by his side to keep him warm.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.1|<< 1 Kings 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.3|1 Kings 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezra 10:17** 
 <small><sub>**LXX:**</sub></small>
 And they finished with \[questioning\] all \[the\] men  settling with alien wives until day one of the first month. 
-<small><sub>**KJV:**</sub></small>
-And they made an end with all the men that had taken strange wives by the first day of the first month.
-<small><sub>**BSB:**</sub></small>
-and by the first day of the first month they had dealt with all the men who had married foreign women.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.16|<< Ezra 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.18|Ezra 10:18 >>]]</td></tr></table>
 
 | Translation | Greek |

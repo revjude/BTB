@@ -1,10 +1,7 @@
 **LXX Psalm 123:4** 
 <small><sub>**LXX:**</sub></small>
 Our soul filled more greatly; \[let\] scorn be \[against\] they \[that\] prosper; and  contempt \[against\] the proud. 
-<small><sub>**KJV:**</sub></small>
-Our soul is exceedingly filled with the scorning of those that are at ease, [and] with the contempt of the proud.
-<small><sub>**BSB:**</sub></small>
-We have endured much scorn from the arrogant, much contempt from the proud.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.123.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.123.3|<< Psalm 123:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.124.1|Psalm 124:1 >>]]</td></tr></table>
 
 | Translation | Greek |

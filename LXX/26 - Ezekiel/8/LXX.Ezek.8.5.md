@@ -1,10 +1,7 @@
 **LXX Ezekiel 8:5** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, O son of man, look up \[with\] your eyes towards \[the\] north. And I looked up  with my eyes towards \[the\] north. And behold, from \[the\] north at the gate, the one towards \[the\] east of the altar, \[was\] the image  of jealousy; this \[was\] in the entering it. 
-<small><sub>**KJV:**</sub></small>
-Then said he unto me, Son of man, lift up thine eyes now the way toward the north. So I lifted up mine eyes the way toward the north, and behold northward at the gate of the altar this image of jealousy in the entry.
-<small><sub>**BSB:**</sub></small>
-“Son of man,” He said to me, “now lift up your eyes to the north.” So I lifted up my eyes to the north, and in the entrance north of the Altar Gate I saw this idol of jealousy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.4|<< Ezekiel 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.6|Ezekiel 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

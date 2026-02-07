@@ -1,12 +1,12 @@
-**Mark 12:18
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:18**<big><big>[[Mark.12.18 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then come unto him the Sadducees, which say there is no resurrection; and they asked him, saying,
 <small><sub>**BSB:**</sub></small>
 Then the Sadducees, who say there is no resurrection, came to Jesus and questioned Him:
 <small><sub>**Literal:**</sub></small>
 And come Sadducees to Him who say a resurrection not being and they were questioning Him saying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.17|<< Mark 12:17]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.19|Mark 12:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | come |**<big>[[G2064\|ἔρχονται]]</big>**  |erchontai <small><sup>[[V-PNI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 106:47** 
 <small><sub>**LXX:**</sub></small>
 Deliver us, O <span class="smallcaps">lord</span>  our God, and assemble us from out of the nations!  to acknowledge  your holy name;  to boast in  your praise. 
-<small><sub>**KJV:**</sub></small>
-Save us, O LORD our God, and gather us from among the heathen, to give thanks unto thy holy name, [and] to triumph in thy praise.
-<small><sub>**BSB:**</sub></small>
-Save us, O LORD our God, and gather us from the nations, that we may give thanks to Your holy name, that we may glory in Your praise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.46|<< Psalm 106:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.48|Psalm 106:48 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 3:7** 
+**Exodus 3:7**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said, I have surely seen the affliction of my people which [are] in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ The LORD said, “I have indeed seen the affliction of My people in Egypt. I hav
 > $\quad$ referenced by: [[Acts.7.34|Acts 7:34]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

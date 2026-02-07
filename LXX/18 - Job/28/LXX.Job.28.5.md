@@ -1,10 +1,7 @@
 **LXX Job 28:5** 
 <small><sub>**LXX:**</sub></small>
 \[As for the\] earth, out of it shall come forth bread; underneath it, it was turned as fire. 
-<small><sub>**KJV:**</sub></small>
-[As for] the earth, out of it cometh bread: and under it is turned up as it were fire.
-<small><sub>**BSB:**</sub></small>
-Food may come from the earth, but from below it is transformed as by fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.28.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.4|<< Job 28:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.6|Job 28:6 >>]]</td></tr></table>
 
 | Translation | Greek |

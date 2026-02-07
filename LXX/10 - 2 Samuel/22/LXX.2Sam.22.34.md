@@ -1,10 +1,7 @@
 **LXX 2 Samuel 22:34** 
 <small><sub>**LXX:**</sub></small>
 setting  my feet as a stag, and standing me upon the heights; 
-<small><sub>**KJV:**</sub></small>
-He maketh my feet like hinds’ [feet]: and setteth me upon my high places.
-<small><sub>**BSB:**</sub></small>
-He makes my feet like those of a deer and stations me upon the heights.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.22.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.22.33|<< 2 Samuel 22:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.22.35|2 Samuel 22:35 >>]]</td></tr></table>
 
 | Translation | Greek |

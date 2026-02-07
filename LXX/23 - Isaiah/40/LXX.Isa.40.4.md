@@ -1,10 +1,7 @@
 **LXX Isaiah 40:4** 
 <small><sub>**LXX:**</sub></small>
 Every ravine shall be filled, and every mountain and hill shall be lowered; and all the crooked \[paths\] shall be for straight, and the rough into smooth plains. 
-<small><sub>**KJV:**</sub></small>
-Every valley shall be exalted, and every mountain and hill shall be made low: and the crooked shall be made straight, and the rough places plain:
-<small><sub>**BSB:**</sub></small>
-Every valley shall be lifted up, and every mountain and hill made low; the uneven ground will become smooth, and the rugged land a plain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.3|<< Isaiah 40:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.5|Isaiah 40:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 40:4** is...

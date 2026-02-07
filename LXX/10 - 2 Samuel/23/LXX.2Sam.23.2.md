@@ -1,10 +1,7 @@
 **LXX 2 Samuel 23:2** 
 <small><sub>**LXX:**</sub></small>
 Spirit of \[the\] <span class="smallcaps">lord</span> spoke by me, and his word \[was\] upon my tongue. 
-<small><sub>**KJV:**</sub></small>
-The Spirit of the LORD spake by me, and his word [was] in my tongue.
-<small><sub>**BSB:**</sub></small>
-The Spirit of the LORD spoke through me; His word was on my tongue.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.23.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.1|<< 2 Samuel 23:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.3|2 Samuel 23:3 >>]]</td></tr></table>
 
 | Translation | Greek |

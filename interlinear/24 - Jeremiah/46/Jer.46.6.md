@@ -1,4 +1,4 @@
-**Jeremiah 46:6** 
+**Jeremiah 46:6**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let not the swift flee away, nor the mighty man escape; they shall stumble, and fall toward the north by the river Euphrates.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let not the swift flee away, nor the mighty man escape; they shall stumble, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.5|<< Jeremiah 46:5]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.7|Jeremiah 46:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he flee  |**<big>&#8207;[[H5127\|יָנ֣וּס]]&#8207; </big>**| ya.Nus<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

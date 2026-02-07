@@ -1,4 +1,4 @@
-**1 Samuel 14:30** 
+**1 Samuel 14:30**<big><big>[[1Sam.14.24 Jonathan Eats the Honey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How much more, if haply the people had eaten freely to day of the spoil of their enemies which they found? for had there not been now a much greater slaughter among the Philistines?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How much better it would have been if the troops had eaten freely today from the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.29|<< 1 Samuel 14:29]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.31|1 Samuel 14:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | indeed?  |**<big>&#8207;[[H0637\|אַ֗ף]]&#8207; </big>**| 'Af<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֡י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 28:2** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel, I broke the yoke of the king of Babylon. 
-<small><sub>**KJV:**</sub></small>
-Thus speaketh the LORD of hosts, the God of Israel, saying, I have broken the yoke of the king of Babylon.
-<small><sub>**BSB:**</sub></small>
-“This is what the LORD of Hosts, the God of Israel, says: ‘I have broken the yoke of the king of Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.28.1|<< Jeremiah 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.3|Jeremiah 28:3 >>]]</td></tr></table>
 
 | Translation | Greek |

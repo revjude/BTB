@@ -1,12 +1,12 @@
-**Luke 19:16
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:16**<big><big>[[Luke.19.11 The Parable of the Ten Minas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then came the first, saying, Lord, thy pound hath gained ten pounds.
 <small><sub>**BSB:**</sub></small>
 The first servant came forward and said, ‘Master, your mina has produced ten more minas.’
 <small><sub>**Literal:**</sub></small>
 Came up then the first saying; lord, the mina of you ten has produced more minas.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.15|<< Luke 19:15]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.17|Luke 19:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Came up |**<big>[[G3854\|Παρεγένετο]]</big>**  |Paregeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

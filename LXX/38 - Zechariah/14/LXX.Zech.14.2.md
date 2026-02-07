@@ -1,10 +1,7 @@
 **LXX Zechariah 14:2** 
 <small><sub>**LXX:**</sub></small>
 And I will assemble all the nations against Jerusalem for battle; and the city shall be captured, and the houses shall be plundered, and the women shall be tainted. And shall come forth  half the city into captivity, and the rest  of my people in no way shall be utterly destroyed from the city. 
-<small><sub>**KJV:**</sub></small>
-For I will gather all nations against Jerusalem to battle; and the city shall be taken, and the houses rifled, and the women ravished; and half of the city shall go forth into captivity, and the residue of the people shall not be cut off from the city.
-<small><sub>**BSB:**</sub></small>
-For I will gather all the nations for battle against Jerusalem, and the city will be captured, the houses looted, and the women ravished. Half of the city will go into exile, but the rest of the people will not be removed from the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.14.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.1|<< Zechariah 14:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.3|Zechariah 14:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zechariah 14:2** is...

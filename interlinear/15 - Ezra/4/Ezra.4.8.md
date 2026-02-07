@@ -1,4 +1,4 @@
-**Ezra 4:8** 
+**Ezra 4:8**<big><big>[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rehum the chancellor and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king in this sort:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Rehum the commander and Shimshai the scribe wrote the letter against Jerusalem t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.7|<< Ezra 4:7]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.9|Ezra 4:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Rehum  |**<big>&#8207;[[H7348B\|רְח֣וּם]]&#8207; </big>**| re.Chum<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lord of  |**<big>&#8207;[[H1169\|בְּעֵל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.'el-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

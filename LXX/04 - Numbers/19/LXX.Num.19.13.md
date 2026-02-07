@@ -1,10 +1,7 @@
 **LXX Numbers 19:13** 
 <small><sub>**LXX:**</sub></small>
 Every  one touching the one having died of \[the departed\] soul of a man, if he should die, and \[the other\] should not have been purified, the tent of \[the\] <span class="smallcaps">lord</span> is defiled; and that soul shall be obliterated from Israel, for water of sprinkling was not sprinkled about upon him; he is unclean; his uncleanness is still with him. 
-<small><sub>**KJV:**</sub></small>
-Whosoever toucheth the dead body of any man that is dead, and purifieth not himself, defileth the tabernacle of the LORD; and that soul shall be cut off from Israel: because the water of separation was not sprinkled upon him, he shall be unclean; his uncleanness [is] yet upon him.
-<small><sub>**BSB:**</sub></small>
-Anyone who touches a human corpse and fails to purify himself defiles the tabernacle of the LORD. That person must be cut off from Israel. He remains unclean, because the water of purification has not been sprinkled on him, and his uncleanness is still on him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.19.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.12|<< Numbers 19:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.14|Numbers 19:14 >>]]</td></tr></table>
 
 | Translation | Greek |

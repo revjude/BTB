@@ -1,10 +1,7 @@
 **LXX Leviticus 13:52** 
 <small><sub>**LXX:**</sub></small>
 He shall incinerate the garment, or the warp, or the woof which \[is\] in the woolen \[garments\], or in the flaxen linens, or in every item made of skin, in which ever there might be in it the infection; for it is a permanent leprosy; by fire it shall be incinerated. 
-<small><sub>**KJV:**</sub></small>
-He shall therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, wherein the plague is: for it [is] a fretting leprosy; it shall be burnt in the fire.
-<small><sub>**BSB:**</sub></small>
-He is to burn the fabric, weave, or knit, whether the contaminated item is wool or linen or leather. Since the mildew is harmful, the article must be burned up.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.52|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.51|<< Leviticus 13:51]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.53|Leviticus 13:53 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**1 Corinthians 6:18
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 6:18**<big><big>[[1Cor.6.18 The Temple of the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body.
 <small><sub>**BSB:**</sub></small>
 Flee from sexual immorality. Every other sin a man can commit is outside his body, but he who sins sexually sins against his own body.
 <small><sub>**Literal:**</sub></small>
 do flee <the> sexual immorality. Every sin whatever if shall do a man, outside the body is; the [one] however sinning sexually against <the> [their] own body sins.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.17|<< 1 Corinthians 6:17]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.19|1 Corinthians 6:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do flee |**<big>[[G5343\|Φεύγετε]]</big>**  |Pheugete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

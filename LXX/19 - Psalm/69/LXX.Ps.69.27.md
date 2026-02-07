@@ -1,10 +1,7 @@
 **LXX Psalm 69:27** 
 <small><sub>**LXX:**</sub></small>
 Add lawlessness upon  their lawlessness! and let not your righteousness enter in! 
-<small><sub>**KJV:**</sub></small>
-Add iniquity unto their iniquity: and let them not come into thy righteousness.
-<small><sub>**BSB:**</sub></small>
-Add iniquity to their iniquity; let them not share in Your righteousness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.26|<< Psalm 69:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.28|Psalm 69:28 >>]]</td></tr></table>
 
 | Translation | Greek |

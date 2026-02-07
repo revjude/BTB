@@ -1,4 +1,4 @@
-**Leviticus 14:2** 
+**Leviticus 14:2**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This shall be the law of the leper in the day of his cleansing: He shall be brought unto the priest:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ This shall be the law of the leper in the day of his cleansing: He shall be brou
 > $\quad$ referenced by: [[Matt.8.4|Matt 8:4]] ☩ [[Mark.1.44|Mark 1:44]] ☩ [[Luke.5.14|Luke 5:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2063\|זֹ֤את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be  |**<big>&#8207;[[H1961\|תִּֽהְיֶה֙]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

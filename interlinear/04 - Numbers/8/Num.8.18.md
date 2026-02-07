@@ -1,4 +1,4 @@
-**Numbers 8:18** 
+**Numbers 8:18**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have taken the Levites for all the firstborn of the children of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I have taken the Levites in place of all the firstborn among the sons of Isr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.17|<< Numbers 8:17]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.19|Numbers 8:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I have taken  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H3947G\|אֶקַּח֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Kach<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

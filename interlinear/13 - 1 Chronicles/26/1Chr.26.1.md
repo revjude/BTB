@@ -1,4 +1,4 @@
-**1 Chronicles 26:1** 
+**1 Chronicles 26:1**<big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Concerning the divisions of the porters: Of the Korhites [was] Meshelemiah the son of Kore, of the sons of Asaph.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the divisions of the gatekeepers: From the Korahites: Meshelemiah son
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.25.31|<< 1 Chronicles 25:31]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.2|1 Chronicles 26:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to divisions  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4256\|מַחְלְק֖וֹת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mach.le.Kot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of gatekeepers  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7778\|שֹׁעֲרִ֑ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sho.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

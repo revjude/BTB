@@ -1,4 +1,4 @@
-**Psalms 142:4** (142:5)
+**Psalms 142:4**<big><big>[[Ps.142.1 I Lift My Voice to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I looked on [my] right hand, and beheld, but [there was] no man that would know me: refuge failed me; no man cared for my soul.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Look to my right and see; no one attends to me. There is no refuge for me; no on
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.142.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.142.3|<< Psalms 142:3]]</td><td align="center" style="border:none;">[[Ps.142|Psalms 142]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.142.5|Psalms 142:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | look  |**<big>&#8207;[[H5027\|הַבֵּ֤יט]]&#8207; </big>**| ha.Beit<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | right  |**<big>&#8207;[[H3225G\|יָמִ֨ין]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ya.Min<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

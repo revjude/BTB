@@ -1,12 +1,12 @@
-**John 3:27
-**<small><sub>**KJV:**</sub></small>
+**John 3:27**<big><big>[[John.3.22 John’s Testimony about Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 John answered and said, A man can receive nothing, except it be given him from heaven.
 <small><sub>**BSB:**</sub></small>
 John replied, “A man can receive only what is given him from heaven.
 <small><sub>**Literal:**</sub></small>
 Answered John and said; Nothing is able a man to receive and not one only unless it shall be given to him from <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.26|<< John 3:26]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.28|John 3:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | John |**<big>[[G2491G\|Ἰωάννης]]</big>**  [^1] |Iōannēs <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

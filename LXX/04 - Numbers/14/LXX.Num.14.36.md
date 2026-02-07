@@ -1,10 +1,7 @@
 **LXX Numbers 14:36** 
 <small><sub>**LXX:**</sub></small>
 And the men whom Moses sent to survey the land, and coming, complained concerning this to the congregation, to bring forth bad words concerning the land, 
-<small><sub>**KJV:**</sub></small>
-And the men, which Moses sent to search the land, who returned, and made all the congregation to murmur against him, by bringing up a slander upon the land,
-<small><sub>**BSB:**</sub></small>
-So the men Moses had sent to spy out the land, who had returned and made the whole congregation grumble against him by bringing out a bad report about the land—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.35|<< Numbers 14:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.37|Numbers 14:37 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 14:36** is...

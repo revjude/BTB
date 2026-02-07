@@ -1,10 +1,7 @@
 **LXX Leviticus 14:8** 
 <small><sub>**LXX:**</sub></small>
 And the \[man\] being cleansed shall wash  his garments, and he shall shave all  his hair, and shall bathe in water, and shall be clean. And after these \[things\] he shall enter into the camp, and shall spend time outside  of his house seven days. 
-<small><sub>**KJV:**</sub></small>
-And he that is to be cleansed shall wash his clothes, and shave off all his hair, and wash himself in water, that he may be clean: and after that he shall come into the camp, and shall tarry abroad out of his tent seven days.
-<small><sub>**BSB:**</sub></small>
-The one being cleansed must wash his clothes, shave off all his hair, and bathe with water; then he will be ceremonially clean. Afterward, he may enter the camp, but he must remain outside his tent for seven days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.7|<< Leviticus 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.9|Leviticus 14:9 >>]]</td></tr></table>
 
 | Translation | Greek |

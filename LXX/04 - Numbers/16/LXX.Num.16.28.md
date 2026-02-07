@@ -1,10 +1,7 @@
 **LXX Numbers 16:28** 
 <small><sub>**LXX:**</sub></small>
 And Moses said, By this you shall know that \[the\] <span class="smallcaps">lord</span> sent me to execute all  these works, that \[they are\] not of myself. 
-<small><sub>**KJV:**</sub></small>
-And Moses said, Hereby ye shall know that the LORD hath sent me to do all these works; for [I have] not [done them] of mine own mind.
-<small><sub>**BSB:**</sub></small>
-Then Moses said, “This is how you will know that the LORD has sent me to do all these things, for it was not my own doing:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.27|<< Numbers 16:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.29|Numbers 16:29 >>]]</td></tr></table>
 
 | Translation | Greek |

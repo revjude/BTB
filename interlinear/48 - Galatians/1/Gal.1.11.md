@@ -1,12 +1,12 @@
-**Galatians 1:11
-**<small><sub>**KJV:**</sub></small>
+**Galatians 1:11**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I certify you, brethren, that the gospel which was preached of me is not after man.
 <small><sub>**BSB:**</sub></small>
 For I want you to know, brothers, that the gospel I preached was not devised by man.
 <small><sub>**Literal:**</sub></small>
 I make known for to you, brothers, the gospel which having been evangelised by me that not it is according to man;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.10|<< Galatians 1:10]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.12|Galatians 1:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I make known |**<big>[[G1107\|Γνωρίζω]]</big>**  |Gnōrizō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for [^1] |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+SBL+WH+Treg">N(k)O</abbr> | |

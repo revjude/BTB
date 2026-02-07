@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:26** 
 <small><sub>**LXX:**</sub></small>
 And Saul went forth unto  his house in Gibeah. And the sons of power went (whom \[the\] <span class="smallcaps">lord</span> touched their hearts) with Saul. 
-<small><sub>**KJV:**</sub></small>
-And Saul also went home to Gibeah; and there went with him a band of men, whose hearts God had touched.
-<small><sub>**BSB:**</sub></small>
-Saul also went to his home in Gibeah, and the men of valor whose hearts God had touched went with him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.25|<< 1 Samuel 10:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.27|1 Samuel 10:27 >>]]</td></tr></table>
 
 | Translation | Greek |

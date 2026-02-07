@@ -1,10 +1,7 @@
 **LXX 1 Samuel 12:21** 
 <small><sub>**LXX:**</sub></small>
 And you should not turn aside after the \[things\] being nothing, which achieve nothing, and which shall not rescue, for they are nothing. 
-<small><sub>**KJV:**</sub></small>
-And turn ye not aside: for [then should ye go] after vain [things], which cannot profit nor deliver; for they [are] vain.
-<small><sub>**BSB:**</sub></small>
-Do not turn aside after worthless things that cannot profit you or deliver you, for they are empty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.12.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.12.20|<< 1 Samuel 12:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.12.22|1 Samuel 12:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 31:29** 
 <small><sub>**LXX:**</sub></small>
 And now my hand is strong to do evil \[against\] you. But the God  of your father yesterday said to me, saying, Guard yourself! lest at any time you should speak evil against Jacob. 
-<small><sub>**KJV:**</sub></small>
-It is in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take thou heed that thou speak not to Jacob either good or bad.
-<small><sub>**BSB:**</sub></small>
-I have power to do you great harm, but last night the God of your father said to me, ‘Be careful not to say anything to Jacob, either good or bad.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.28|<< Genesis 31:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.30|Genesis 31:30 >>]]</td></tr></table>
 
 | Translation | Greek |

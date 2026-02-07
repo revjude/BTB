@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:4** 
 <small><sub>**LXX:**</sub></small>
 And \[concerning\] your birth in which day you were born, your naval was not severed, and you were not bathed in water for safety, nor were you salted with salt, and you were not swaddled with swaddling-cloths, 
-<small><sub>**KJV:**</sub></small>
-And [as for] thy nativity, in the day thou wast born thy navel was not cut, neither wast thou washed in water to supple [thee]; thou wast not salted at all, nor swaddled at all.
-<small><sub>**BSB:**</sub></small>
-On the day of your birth your cord was not cut, nor were you washed with water for cleansing. You were not rubbed with salt or wrapped in cloths.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.3|<< Ezekiel 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.5|Ezekiel 16:5 >>]]</td></tr></table>
 
 | Translation | Greek |

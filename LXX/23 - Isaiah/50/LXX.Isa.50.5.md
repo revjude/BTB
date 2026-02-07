@@ -1,10 +1,7 @@
 **LXX Isaiah 50:5** 
 <small><sub>**LXX:**</sub></small>
 And the instruction of \[the\] <span class="smallcaps">lord</span> opens my  ears, and I do not resist persuasion, nor do I dispute. 
-<small><sub>**KJV:**</sub></small>
-The Lord GOD hath opened mine ear, and I was not rebellious, neither turned away back.
-<small><sub>**BSB:**</sub></small>
-The Lord GOD has opened My ears, and I have not been rebellious, nor have I turned back.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.50.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.50.4|<< Isaiah 50:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.50.6|Isaiah 50:6 >>]]</td></tr></table>
 
 | Translation | Greek |

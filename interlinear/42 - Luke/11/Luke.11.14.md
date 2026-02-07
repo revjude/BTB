@@ -1,12 +1,12 @@
-**Luke 11:14
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:14**<big><big>[[Luke.11.14 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he was casting out a devil, and it was dumb. And it came to pass, when the devil was gone out, the dumb spake; and the people wondered.
 <small><sub>**BSB:**</sub></small>
 One day Jesus was driving out a demon that was mute. And when the demon was gone, the man who had been mute spoke. The crowds were amazed,
 <small><sub>**Literal:**</sub></small>
 And He was casting out a demon and it was mute. it came to pass then from the demon having gone out spoke the mute And marveled the crowds.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.13|<< Luke 11:13]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.15|Luke 11:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

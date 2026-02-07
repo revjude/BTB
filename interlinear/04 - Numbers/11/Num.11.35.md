@@ -1,4 +1,4 @@
-**Numbers 11:35** 
+**Numbers 11:35**<big><big>[[Num.11.31 The Quail and the Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] the people journeyed from Kibrothhattaavah unto Hazeroth; and abode at Hazeroth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From Kibroth-hattaavah the people moved on to Hazeroth, where they remained for 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.34|<< Numbers 11:34]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.1|Numbers 12:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from Kibroth  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6914\|קִּבְר֧וֹת]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kiv.Rot<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hattaavah  |**<big>&#8207;[[H6914\|הַֽתַּאֲוָ֛ה]]&#8207; </big>**| ha.ta.'a.Vah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

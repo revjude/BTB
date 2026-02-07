@@ -1,10 +1,7 @@
 **LXX 1 Samuel 22:9** 
 <small><sub>**LXX:**</sub></small>
 And Doeg the Edomite answered, the one placed over the mules of Saul. And he said, I saw the son of Jesse coming into Nob, to Ahimelech son of Ahitub the priest. 
-<small><sub>**KJV:**</sub></small>
-Then answered Doeg the Edomite, which was set over the servants of Saul, and said, I saw the son of Jesse coming to Nob, to Ahimelech the son of Ahitub.
-<small><sub>**BSB:**</sub></small>
-But Doeg the Edomite, who had stationed himself with Saul’s servants, answered: “I saw the son of Jesse come to Ahimelech son of Ahitub at Nob.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.8|<< 1 Samuel 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.10|1 Samuel 22:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 2:32** 
 <small><sub>**LXX:**</sub></small>
 This \[is\] the numbering of the sons of Israel according to \[the\] houses of their patrimony. All the numbering of the camps with  their forces -- six hundred thousand and three thousand and five hundred and fifty. 
-<small><sub>**KJV:**</sub></small>
-These [are] those which were numbered of the children of Israel by the house of their fathers: all those that were numbered of the camps throughout their hosts [were] six hundred thousand and three thousand and five hundred and fifty.
-<small><sub>**BSB:**</sub></small>
-These are the Israelites, numbered according to their families. The total of those counted in the camps, by their divisions, was 603,550.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.2.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.31|<< Numbers 2:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.33|Numbers 2:33 >>]]</td></tr></table>
 
 | Translation | Greek |

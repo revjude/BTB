@@ -1,10 +1,7 @@
 **LXX Isaiah 33:19** 
 <small><sub>**LXX:**</sub></small>
 A small and great people which did not take advice, nor had beheld a deep voice, so that a people being treated as worthless should not hear, and there is no understanding to the one hearing. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not see a fierce people, a people of a deeper speech than thou canst perceive; of a stammering tongue, [that thou canst] not understand.
-<small><sub>**BSB:**</sub></small>
-You will no longer see the insolent, a people whose speech is unintelligible, who stammer in a language you cannot understand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.33.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.33.18|<< Isaiah 33:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.33.20|Isaiah 33:20 >>]]</td></tr></table>
 
 | Translation | Greek |

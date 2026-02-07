@@ -1,12 +1,12 @@
-**Luke 23:25
-**<small><sub>**KJV:**</sub></small>
+**Luke 23:25**<big><big>[[Luke.23.13 The Crowd Chooses Barabbas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he released unto them him that for sedition and murder was cast into prison, whom they had desired; but he delivered Jesus to their will.
 <small><sub>**BSB:**</sub></small>
 As they had requested, he released the one imprisoned for insurrection and murder, and he handed Jesus over to their will.
 <small><sub>**Literal:**</sub></small>
 He released then to them the [one] on account of insurrection and murder cast into <the> prison whom they were asking for; <the> and Jesus he delivered to the will of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.24|<< Luke 23:24]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.26|Luke 23:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He released |**<big>[[G0630G\|ἀπέλυσεν]]</big>**  |apelusen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

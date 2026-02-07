@@ -1,4 +1,4 @@
-**Leviticus 16:31** 
+**Leviticus 16:31**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It [shall be] a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is a Sabbath of complete rest for you, that you may humble yourselves; it is 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.30|<< Leviticus 16:30]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.32|Leviticus 16:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] a sabbath of  |**<big>&#8207;[[H7676\|שַׁבַּ֨ת]]&#8207; </big>**| sha.Bat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sabbath observance  |**<big>&#8207;[[H7677\|שַׁבָּת֥וֹן]]&#8207; </big>**| sha.ba.Ton<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

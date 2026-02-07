@@ -1,10 +1,7 @@
 **LXX 1 Samuel 9:23** 
 <small><sub>**LXX:**</sub></small>
 And Samuel said to the cook, Give to me the portion which I gave to you, which I told you to put it by you. 
-<small><sub>**KJV:**</sub></small>
-And Samuel said unto the cook, Bring the portion which I gave thee, of which I said unto thee, Set it by thee.
-<small><sub>**BSB:**</sub></small>
-And Samuel said to the cook, “Bring the portion I gave you and told you to set aside.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.9.22|<< 1 Samuel 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.9.24|1 Samuel 9:24 >>]]</td></tr></table>
 
 | Translation | Greek |

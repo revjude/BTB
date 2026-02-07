@@ -1,4 +1,4 @@
-**Job 12:5** 
+**Job 12:5**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that is ready to slip with [his] feet [is as] a lamp despised in the thought of him that is at ease.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The one at ease scorns misfortune as the fate of those whose feet are slipping.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.4|<< Job 12:4]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.6|Job 12:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [belongs] to \<the> disaster  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6365\|פִּ֣יד]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Pid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | contempt  |**<big>&#8207;[[H0937\|בּ֭וּז]]&#8207; </big>**| buz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

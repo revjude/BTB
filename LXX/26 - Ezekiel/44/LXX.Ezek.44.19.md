@@ -1,10 +1,7 @@
 **LXX Ezekiel 44:19** 
 <small><sub>**LXX:**</sub></small>
 And in  their going forth into the outer courtyard to the people, they shall take off  their apparels in which they ministered in them. And they shall put them in the inner chambers of the holies, and shall put on other apparels; and in no way shall they sanctify the people in  their \[own\] apparels. 
-<small><sub>**KJV:**</sub></small>
-And when they go forth into the utter court, [even] into the utter court to the people, they shall put off their garments wherein they ministered, and lay them in the holy chambers, and they shall put on other garments; and they shall not sanctify the people with their garments.
-<small><sub>**BSB:**</sub></small>
-When they go out to the outer court, to the people, they are to take off the garments in which they have ministered, leave them in the holy chambers, and dress in other clothes so that they do not transmit holiness to the people with their garments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.44.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.44.18|<< Ezekiel 44:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.44.20|Ezekiel 44:20 >>]]</td></tr></table>
 
 | Translation | Greek |

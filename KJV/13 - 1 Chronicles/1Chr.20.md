@@ -1,10 +1,10 @@
 (KJV) **1 Chronicles 20**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19|<< 1 Chronicles 19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21|1 Chronicles 21 >>]]</td></tr></table>
 
-***The Capture of Rabbah***&emsp;<small><sup>\[ [[2Sam.12|2 Samuel 12:26–31]] ]</sup></small> ^bsb1034
+<big><big>[[1Chr.20.1 The Capture of Rabbah|⥃]]</big></big>***The Capture of Rabbah***&emsp;<small><sup>\[ [[2Sam.12|2 Samuel 12:26–31]] ]</sup></small>
 
  $\quad$ <span class="startversemarker">[</span>**[[1Chr.20.1|1]]**<span class="endversemarker">]</span> And it came<small><small>[^2]</small></small> to pass, that after the year was expired<small><small>[^3]</small></small>, at the time that kings go out \[to battle\], Joab led forth the power of the army, and wasted<small><small>[^4]</small></small> the country of the children of Ammon, and came and besieged Rabbah<small><small>[^5]</small></small>. But David tarried at Jerusalem. And Joab smote<small><small>[^6]</small></small> Rabbah, and destroyed it.<small><small>[^7]</small></small> <span class="startversemarker">[</span>**[[1Chr.20.2|2]]**<span class="endversemarker">]</span> And David took the crown of their king from off his head, and found it<small><small>[^8]</small></small> to weigh a talent of gold, and \[there were\] precious stones in it; and it was set upon David’s head: and he brought<small><small>[^9]</small></small> also exceeding much spoil out of the city. <span class="startversemarker">[</span>**[[1Chr.20.3|3]]**<span class="endversemarker">]</span> And he<small><small>[^10]</small></small> brought out the people that \[were\] in it, and cut<small><small>[^11]</small></small> \[them\] with saws<small><small>[^12]</small></small>, and with harrows of iron, and with axes. Even so dealt David with all the cities of the children of Ammon. And David and all the people returned to Jerusalem.
 
-***Battles against the Philistines***&emsp;<small><sup>\[ [[2Sam.21|2 Samuel 21:15–22]] ]</sup></small> ^bsb1035
+<big><big>[[1Chr.20.4 Battles against the Philistines|⥃]]</big></big>***Battles against the Philistines***&emsp;<small><sup>\[ [[2Sam.21|2 Samuel 21:15–22]] ]</sup></small>
 
  
 

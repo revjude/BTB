@@ -1,4 +1,4 @@
-**1 Samuel 6:18** 
+**1 Samuel 6:18**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the golden mice, [according to] the number of all the cities of the Philistines [belonging] to the five lords, [both] of fenced cities, and of country villages, even unto the great [stone of] Abel, whereon they set down the ark of the LORD: [which stone remaineth] unto this day in the field of Joshua, the Bethshemite.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The number of gold rats also corresponded to the number of Philistine cities bel
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.17|<< 1 Samuel 6:17]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.19|1 Samuel 6:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] mice of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5909\|עַכְבְּרֵ֣י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'akh.be.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> gold  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2091\|זָּהָ֗ב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

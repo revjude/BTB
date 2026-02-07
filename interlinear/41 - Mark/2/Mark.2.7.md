@@ -1,12 +1,12 @@
-**Mark 2:7
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:7**<big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Why doth this [man] thus speak blasphemies? who can forgive sins but God only?
 <small><sub>**BSB:**</sub></small>
 “Why does this man speak like this? He is blaspheming! Who can forgive sins but God alone?”
 <small><sub>**Literal:**</sub></small>
 Why this [man] thus does speak? He blasphemes! Who is able to forgive sins only except one <the> God?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.6|<< Mark 2:6]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.8|Mark 2:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Why |**<big>[[G5101\|τί]]</big>**  |ti <small><sup>[[I-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this [man] |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

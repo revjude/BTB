@@ -1,10 +1,7 @@
 **LXX Leviticus 1:3** 
 <small><sub>**LXX:**</sub></small>
 If his gift \[offering\] \[be\] a whole burnt-offering of the oxen, he shall bring it as an unblemished male to the door of the tent of the testimony. He shall bring it as acceptable before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-If his offering [be] a burnt sacrifice of the herd, let him offer a male without blemish: he shall offer it of his own voluntary will at the door of the tabernacle of the congregation before the LORD.
-<small><sub>**BSB:**</sub></small>
-If his offering is a burnt offering from the herd, he is to present an unblemished male. He must bring it to the entrance to the Tent of Meeting for its acceptance before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.1.2|<< Leviticus 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.1.4|Leviticus 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

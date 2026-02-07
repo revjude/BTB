@@ -1,10 +1,7 @@
 **LXX Job 33:30** 
 <small><sub>**LXX:**</sub></small>
 And he rescued  my soul from death, that  my life in light should praise him. 
-<small><sub>**KJV:**</sub></small>
-To bring back his soul from the pit, to be enlightened with the light of the living.
-<small><sub>**BSB:**</sub></small>
-to bring back his soul from the Pit, that he may be enlightened with the light of life.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.29|<< Job 33:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.31|Job 33:31 >>]]</td></tr></table>
 
 | Translation | Greek |

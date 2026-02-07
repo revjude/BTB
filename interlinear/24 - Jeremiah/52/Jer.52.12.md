@@ -1,4 +1,4 @@
-**Jeremiah 52:12** 
+**Jeremiah 52:12**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now in the fifth month, in the tenth [day] of the month, which [was] the nineteenth year of Nebuchadrezzar king of Babylon, came Nebuzaradan, captain of the guard, [which] served the king of Babylon, into Jerusalem,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On the tenth day of the fifth month, in the nineteenth year of Nebuchadnezzar’
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.11|<< Jeremiah 52:11]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.13|Jeremiah 52:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and in the month  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H2320G\|חֹ֤דֶשׁ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> fifth  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2549\|חֲמִישִׁי֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.mi.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

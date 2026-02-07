@@ -1,10 +1,7 @@
 **LXX Isaiah 28:24** 
 <small><sub>**LXX:**</sub></small>
 Shall not the one plowing be about to plow \[the\] entire day? or \[the one\] sowing, will he \[not\] prepare beforehand to work the ground? 
-<small><sub>**KJV:**</sub></small>
-Doth the plowman plow all day to sow? doth he open and break the clods of his ground?
-<small><sub>**BSB:**</sub></small>
-Does the plowman plow for planting every day? Does he continuously loosen and harrow the soil?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.23|<< Isaiah 28:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.25|Isaiah 28:25 >>]]</td></tr></table>
 
 | Translation | Greek |

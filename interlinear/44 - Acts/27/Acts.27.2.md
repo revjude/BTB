@@ -1,12 +1,12 @@
-**Acts 27:2
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:2**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And entering into a ship of Adramyttium, we launched, meaning to sail by the coasts of Asia; [one] Aristarchus, a Macedonian of Thessalonica, being with us.
 <small><sub>**BSB:**</sub></small>
 We boarded an Adramyttian ship about to sail for ports along the coast of Asia, and we put out to sea. Aristarchus, a Macedonian from Thessalonica, was with us.
 <small><sub>**Literal:**</sub></small>
 Having boarded then on a ship of Adramyttium being about to sail to the along <the> Asia places we set sail — while was being with us Aristarchus a Macedonian of Thessalonica.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.1|<< Acts 27:1]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.3|Acts 27:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having boarded |**<big>[[G1910\|ἐπιβάντες]]</big>**  |epibantes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

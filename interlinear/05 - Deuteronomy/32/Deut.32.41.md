@@ -1,4 +1,4 @@
-**Deuteronomy 32:41** 
+**Deuteronomy 32:41**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I whet my glittering sword, and mine hand take hold on judgment; I will render vengeance to mine enemies, and will reward them that hate me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ when I sharpen My flashing sword, and My hand grasps it in judgment, I will take
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.40|<< Deuteronomy 32:40]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.42|Deuteronomy 32:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I sharpen  |**<big>&#8207;[[H8150\|שַׁנּוֹתִי֙]]&#8207; </big>**| sha.no.Ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

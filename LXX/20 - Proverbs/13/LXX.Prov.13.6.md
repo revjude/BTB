@@ -1,10 +1,7 @@
 **LXX Proverbs 13:6** 
 <small><sub>**LXX:**</sub></small>
 Righteousness guards \[the\] guileless in \[the\] way; but the vile impious ones produce sin. 
-<small><sub>**KJV:**</sub></small>
-Righteousness keepeth [him that is] upright in the way: but wickedness overthroweth the sinner.
-<small><sub>**BSB:**</sub></small>
-Righteousness guards the man of integrity, but wickedness undermines the sinner.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.13.5|<< Proverbs 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.13.7|Proverbs 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

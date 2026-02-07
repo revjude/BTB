@@ -1,10 +1,7 @@
 **LXX Exodus 26:28** 
 <small><sub>**LXX:**</sub></small>
 And the middle bar in between the posts -- let it penetrate from the one side unto the other side! 
-<small><sub>**KJV:**</sub></small>
-And the middle bar in the midst of the boards shall reach from end to end.
-<small><sub>**BSB:**</sub></small>
-The central crossbar in the middle of the frames shall extend from one end to the other.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.27|<< Exodus 26:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.29|Exodus 26:29 >>]]</td></tr></table>
 
 | Translation | Greek |

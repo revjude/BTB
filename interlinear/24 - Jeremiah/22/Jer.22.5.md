@@ -1,4 +1,4 @@
-**Jeremiah 22:5** 
+**Jeremiah 22:5**<big><big>[[Jer.22.1 A Warning to Judah’s Kings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if ye will not hear these words, I swear by myself, saith the LORD, that this house shall become a desolation.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But if you do not obey these words, then I swear by Myself, declares the LORD, t
 > $\quad$ referenced by: [[Matt.23.38|Matt 23:38]] ☩ [[Luke.13.35|Luke 13:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Im<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

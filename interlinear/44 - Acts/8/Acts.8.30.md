@@ -1,12 +1,12 @@
-**Acts 8:30
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:30**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Philip ran thither to [him], and heard him read the prophet Esaias, and said, Understandest thou what thou readest?
 <small><sub>**BSB:**</sub></small>
 So Philip ran up and heard the man reading Isaiah the prophet. “Do you understand what you are reading?” Philip asked.
 <small><sub>**Literal:**</sub></small>
 Having run up then <the> Philip heard when he is reading Isaiah the prophet and said; Surely not also understand you what you are reading?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.29|<< Acts 8:29]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.31|Acts 8:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having run up |**<big>[[G4370\|προσδραμὼν]]</big>**  |prosdramōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

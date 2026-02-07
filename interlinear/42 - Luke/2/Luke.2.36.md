@@ -1,12 +1,12 @@
-**Luke 2:36
-**<small><sub>**KJV:**</sub></small>
+**Luke 2:36**<big><big>[[Luke.2.36 The Prophecy of Anna|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;
 <small><sub>**BSB:**</sub></small>
 There was also a prophetess named Anna, the daughter of Phanuel, of the tribe of Asher, who was well along in years. She had been married for seven years,
 <small><sub>**Literal:**</sub></small>
 And there was Anna a prophetess, daughter of Phanuel, of [the] tribe of Asher; she having advanced in years great, having lived with a husband years seven from the marriage of herself;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.35|<< Luke 2:35]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.37|Luke 2:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | there was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

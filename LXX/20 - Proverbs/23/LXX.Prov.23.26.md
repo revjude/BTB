@@ -1,10 +1,7 @@
 **LXX Proverbs 23:26** 
 <small><sub>**LXX:**</sub></small>
 Give to me, O son, your heart,  and let your eyes give heed to my ways! 
-<small><sub>**KJV:**</sub></small>
-My son, give me thine heart, and let thine eyes observe my ways.
-<small><sub>**BSB:**</sub></small>
-My son, give me your heart, and let your eyes delight in my ways.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.25|<< Proverbs 23:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.27|Proverbs 23:27 >>]]</td></tr></table>
 
 | Translation | Greek |

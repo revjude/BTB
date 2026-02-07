@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:4** 
 <small><sub>**LXX:**</sub></small>
 And there came forth a mighty man from out of the battle array of the Philistines, Goliath was \[the\] name to him, from Gath. His height \[was\] four cubits and a span. 
-<small><sub>**KJV:**</sub></small>
-And there went out a champion out of the camp of the Philistines, named Goliath, of Gath, whose height [was] six cubits and a span.
-<small><sub>**BSB:**</sub></small>
-Then a champion named Goliath, who was from Gath, came out from the Philistine camp. He was six cubits and a span in height,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.3|<< 1 Samuel 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.5|1 Samuel 17:5 >>]]</td></tr></table>
 
 | Translation | Greek |

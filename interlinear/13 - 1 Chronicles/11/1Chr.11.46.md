@@ -1,4 +1,4 @@
-**1 Chronicles 11:46** 
+**1 Chronicles 11:46**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Eliel the Mahavite, Jeribai and Joshaviah, the sons of Elnaam, Ithmah the Moabit
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.45|<< 1 Chronicles 11:45]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.47|1 Chronicles 11:47 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Eliel  |**<big>&#8207;[[H0447J\|אֱלִיאֵל֙]]&#8207; </big>**| 'e.li.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Mahavite  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H4233\|מַּחֲוִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.cha.Vim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

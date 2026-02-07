@@ -1,10 +1,7 @@
 **LXX Jeremiah 45:3** 
 <small><sub>**LXX:**</sub></small>
 For you said, Alas, for \[the\] <span class="smallcaps">lord</span> added toil upon my misery. I went to bed in my moanings, I did not find rest. 
-<small><sub>**KJV:**</sub></small>
-Thou didst say, Woe is me now! for the LORD hath added grief to my sorrow; I fainted in my sighing, and I find no rest.
-<small><sub>**BSB:**</sub></small>
-You have said, ‘Woe is me because the LORD has added sorrow to my pain! I am worn out with groaning and have found no rest.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.45.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.45.2|<< Jeremiah 45:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.45.4|Jeremiah 45:4 >>]]</td></tr></table>
 
 | Translation | Greek |

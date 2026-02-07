@@ -1,4 +1,4 @@
-**Ezekiel 21:25** (21:30)
+**Ezekiel 21:25**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou, profane wicked prince of Israel, whose day is come, when iniquity [shall have] an end,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you, O profane and wicked prince of Israel, the day has come for your final 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.24|<< Ezekiel 21:24]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.26|Ezekiel 21:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O profane [one]  |**<big>&#8207;[[H2491B\|חָלָ֣ל]]&#8207; </big>**| cha.Lal<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

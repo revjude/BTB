@@ -1,4 +1,4 @@
-**2 Samuel 14:20** 
+**2 Samuel 14:20**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To fetch about this form of speech hath thy servant Joab done this thing: and my lord [is] wise, according to the wisdom of an angel of God, to know all [things] that [are] in the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Joab your servant has done this to bring about this change of affairs, but my lo
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.19|<< 2 Samuel 14:19]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.21|2 Samuel 14:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> in order  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H5668\|עֲב֤וּר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> va.<small><sup>[[HR]]</sup></small> 'a.Vur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to change  |**<big>&#8207;[[H5437K\|סַבֵּב֙]]&#8207; </big>**| sa.Bev<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

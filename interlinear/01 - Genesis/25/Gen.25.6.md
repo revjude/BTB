@@ -1,4 +1,4 @@
-**Genesis 25:6** 
+**Genesis 25:6**<big><big>[[Gen.25.1 Abraham and Keturah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But while he was still alive, Abraham gave gifts to the sons of his concubines a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.5|<< Genesis 25:5]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.7|Genesis 25:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to [the] sons of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121A\|בְנֵ֤י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the concubines  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6370\|פִּֽילַגְשִׁים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pi.lag.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

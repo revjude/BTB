@@ -1,4 +1,4 @@
-**Numbers 34:9** 
+**Numbers 34:9**<big><big>[[Num.34.1 The Boundaries of Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border shall go on to Ziphron, and the goings out of it shall be at Hazarenan: this shall be your north border.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ continue to Ziphron, and end at Hazar-enan. This will be your boundary on the no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.8|<< Numbers 34:8]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.10|Numbers 34:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will go out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318I\|יָצָ֤א]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.Tza'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the border  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1366G\|גְּבֻל֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

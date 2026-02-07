@@ -1,10 +1,7 @@
 **LXX Leviticus 14:20** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall offer the whole burnt-offering, and the sacrifice upon the altar before \[the\] <span class="smallcaps">lord</span>; and the priest shall atone for him, and he shall be cleansed. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall offer the burnt offering and the meat offering upon the altar: and the priest shall make an atonement for him, and he shall be clean.
-<small><sub>**BSB:**</sub></small>
-and offer it on the altar, with the grain offering, to make atonement for him, and he will be clean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.19|<< Leviticus 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.21|Leviticus 14:21 >>]]</td></tr></table>
 
 | Translation | Greek |

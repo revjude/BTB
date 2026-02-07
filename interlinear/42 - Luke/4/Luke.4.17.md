@@ -1,12 +1,12 @@
-**Luke 4:17
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:17**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there was delivered unto him the book of the prophet Esaias. And when he had opened the book, he found the place where it was written,
 <small><sub>**BSB:**</sub></small>
 the scroll of the prophet Isaiah was handed to Him. Unrolling it, He found the place where it was written:
 <small><sub>**Literal:**</sub></small>
 And there was given to Him [the] scroll of the prophet Isaiah; and having unrolled the scroll He found the place where it was written<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.16|<< Luke 4:16]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.18|Luke 4:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | there was given |**<big>[[G1929\|ἐπεδόθη]]</big>**  |epedothē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

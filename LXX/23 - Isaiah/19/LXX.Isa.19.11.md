@@ -1,10 +1,7 @@
 **LXX Isaiah 19:11** 
 <small><sub>**LXX:**</sub></small>
 And the rulers of Tanis will be morons; \[and\] the wise counselors of the king,  their counsel will be moronish. How shall you say to the king, We are sons of discerning \[men\], sons of kings  from \[the\] beginning? 
-<small><sub>**KJV:**</sub></small>
-Surely the princes of Zoan [are] fools, the counsel of the wise counsellers of Pharaoh is become brutish: how say ye unto Pharaoh, I [am] the son of the wise, the son of ancient kings?
-<small><sub>**BSB:**</sub></small>
-The princes of Zoan are mere fools; Pharaoh’s wise counselors give senseless advice. How can you say to Pharaoh, “I am one of the wise, a son of eastern kings”?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.19.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.19.10|<< Isaiah 19:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.12|Isaiah 19:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:20** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, If you should make my covenant \[as\] being annuled, the \[covenant\] with the day and  my covenant  with the night, so as for there to not be a day and a night in  their time, 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD; If ye can break my covenant of the day, and my covenant of the night, and that there should not be day and night in their season;
-<small><sub>**BSB:**</sub></small>
-“This is what the LORD says: If you can break My covenant with the day and My covenant with the night, so that day and night cease to occupy their appointed time,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.19|<< Jeremiah 33:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.21|Jeremiah 33:21 >>]]</td></tr></table>
 
 | Translation | Greek |

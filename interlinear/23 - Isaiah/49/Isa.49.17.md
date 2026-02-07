@@ -1,4 +1,4 @@
-**Isaiah 49:17** 
+**Isaiah 49:17**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy children shall make haste; thy destroyers and they that made thee waste shall go forth of thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your builders hasten back; your destroyers and wreckers depart from you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.16|<< Isaiah 49:16]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.18|Isaiah 49:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they have made haste  |**<big>&#8207;[[H4116A\|מִֽהֲר֖וּ]]&#8207; </big>**| mi.ha.Ru<small><sup>[[HVpp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | children your  |**<big>&#8207;[[H1121A\|בָּנָ֑יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ba.Na.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

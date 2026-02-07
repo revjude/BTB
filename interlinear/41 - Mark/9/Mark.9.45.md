@@ -1,12 +1,12 @@
-**Mark 9:45
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:45**<big><big>[[Mark.9.42 Temptations and Trespasses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched:
 <small><sub>**BSB:**</sub></small>
 If your foot causes you to sin, cut it off. It is better for you to enter life lame than to have two feet and be thrown into hell.
 <small><sub>**Literal:**</sub></small>
 And if the foot of you shall cause to stumble you, do cut off it; better it is for you to enter into <the> life lame than the two feet having to be cast into <the> hell into <the> fire <the> unquenchable.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.44|<< Mark 9:44]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.46|Mark 9:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

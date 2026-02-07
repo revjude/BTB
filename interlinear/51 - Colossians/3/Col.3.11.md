@@ -1,12 +1,12 @@
-**Colossians 3:11
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:11**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Where there is neither Greek nor Jew, circumcision nor uncircumcision, Barbarian, Scythian, bond [nor] free: but Christ [is] all, and in all.
 <small><sub>**BSB:**</sub></small>
 Here there is no Greek or Jew, circumcised or uncircumcised, barbarian, Scythian, slave, or free, but Christ is all and is in all.
 <small><sub>**Literal:**</sub></small>
 where not there is Greek and Jew, circumcision and uncircumcision, Barbarian, Scythian, slave, free, but <the> all and in all Christ [is].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.10|<< Colossians 3:10]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.12|Colossians 3:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | where |**<big>[[G3699\|ὅπου]]</big>**  |hopou <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

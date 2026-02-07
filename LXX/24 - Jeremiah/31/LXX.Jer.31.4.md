@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:4** 
 <small><sub>**LXX:**</sub></small>
 For I will build you, and you shall be built, O virgin Israel. You shall still take your tambourine, and go forth with a congregation playing. 
-<small><sub>**KJV:**</sub></small>
-Again I will build thee, and thou shalt be built, O virgin of Israel: thou shalt again be adorned with thy tabrets, and shalt go forth in the dances of them that make merry.
-<small><sub>**BSB:**</sub></small>
-Again I will build you, and you will be rebuilt, O Virgin Israel. Again you will take up your tambourines and go out in joyful dancing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.3|<< Jeremiah 31:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.5|Jeremiah 31:5 >>]]</td></tr></table>
 
 | Translation | Greek |

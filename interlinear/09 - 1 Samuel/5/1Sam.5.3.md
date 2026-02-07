@@ -1,4 +1,4 @@
-**1 Samuel 5:3** 
+**1 Samuel 5:3**<big><big>[[1Sam.5.1 The Ark Afflicts the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they of Ashdod arose early on the morrow, behold, Dagon [was] fallen upon his face to the earth before the ark of the LORD. And they took Dagon, and set him in his place again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When the people of Ashdod got up early the next morning, there was Dagon, fallen
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.2|<< 1 Samuel 5:2]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.4|1 Samuel 5:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they rose early  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7925\|יַּשְׁכִּ֤מוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Ki.mu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Ashdodites  |**<big>&#8207;[[H0796\|אַשְׁדּוֹדִים֙]]&#8207; </big>**| 'ash.do.Dim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

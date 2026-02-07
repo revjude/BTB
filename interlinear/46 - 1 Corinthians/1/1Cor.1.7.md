@@ -1,12 +1,12 @@
-**1 Corinthians 1:7
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:7**<big><big>[[1Cor.1.4 Thanksgiving|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 Therefore you do not lack any spiritual gift as you eagerly await the revelation of our Lord Jesus Christ.
 <small><sub>**Literal:**</sub></small>
 so as for you not to be lacking in not one gift eagerly awaiting the revelation of the Lord of us Jesus Christ;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.6|<< 1 Corinthians 1:6]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.8|1 Corinthians 1:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so as for |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you |**<big>[[G4771\|ὑμᾶς]]</big>**  |humas <small><sup>[[P-2AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

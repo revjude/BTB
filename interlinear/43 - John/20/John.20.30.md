@@ -1,12 +1,12 @@
-**John 20:30
-**<small><sub>**KJV:**</sub></small>
+**John 20:30**<big><big>[[John.20.30 The Purpose of John’s Book|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:
 <small><sub>**BSB:**</sub></small>
 Jesus performed many other signs in the presence of His disciples, which are not written in this book.
 <small><sub>**Literal:**</sub></small>
 Many indeed therefore also other signs did <the> Jesus in the presence of the disciples of Him which not are written in <the> book this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.29|<< John 20:29]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.31|John 20:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Many |**<big>[[G4183\|Πολλὰ]]</big>**  |Polla <small><sup>[[A-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

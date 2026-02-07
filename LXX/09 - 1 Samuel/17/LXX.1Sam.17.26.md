@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:26** 
 <small><sub>**LXX:**</sub></small>
 And David said to the men, the ones standing with him, saying, What shall be done to the man who ever should strike  that Philistine, and should remove scorn from Israel? For who is  this uncircumcised Philistine who berates \[the\] battle array of \[the\] living God? 
-<small><sub>**KJV:**</sub></small>
-And David spake to the men that stood by him, saying, What shall be done to the man that killeth this Philistine, and taketh away the reproach from Israel? for who [is] this uncircumcised Philistine, that he should defy the armies of the living God?
-<small><sub>**BSB:**</sub></small>
-David asked the men who were standing with him, “What will be done for the man who kills this Philistine and removes this disgrace from Israel? Just who is this uncircumcised Philistine, that he should defy the armies of the living God?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.25|<< 1 Samuel 17:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.27|1 Samuel 17:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -6,10 +6,7 @@ A psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, I cried out to you. Listen to me! Take heed to the voice  of my supplication in  my crying to you! 
-<small><sub>**KJV:**</sub></small>
-A Psalm of David. LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.
-<small><sub>**BSB:**</sub></small>
-A Psalm of David. I call upon You, O LORD; come quickly to me. Hear my voice when I call to You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.141.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.13|<< Psalm 140:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.141.2|Psalm 141:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 141:1** is...

@@ -1,4 +1,4 @@
-**Genesis 31:14** 
+**Genesis 31:14**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rachel and Leah answered and said unto him, [Is there] yet any portion or inheritance for us in our father’s house?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Rachel and Leah replied, “Do we have any portion or inheritance left in ou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.13|<< Genesis 31:13]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.15|Genesis 31:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|תַּ֤עַן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.'an<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Rachel  |**<big>&#8207;[[H7354\|רָחֵל֙]]&#8207; </big>**| ra.Chel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

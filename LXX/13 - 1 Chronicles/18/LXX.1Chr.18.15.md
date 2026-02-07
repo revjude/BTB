@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 18:15** 
 <small><sub>**LXX:**</sub></small>
 And Joab son of Zeruiah \[was\] over the military; and Jehoshaphat son of Ahilud \[was the\] recorder; 
-<small><sub>**KJV:**</sub></small>
-And Joab the son of Zeruiah [was] over the host; and Jehoshaphat the son of Ahilud, recorder.
-<small><sub>**BSB:**</sub></small>
-Joab son of Zeruiah was over the army; Jehoshaphat son of Ahilud was the recorder;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.18.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.14|<< 1 Chronicles 18:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.16|1 Chronicles 18:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 21:11** 
 <small><sub>**LXX:**</sub></small>
 With \[the\] penalizing of an unrestrained man, the guileless man becomes more clever; but by perceiving, a wise man will receive knowledge. 
-<small><sub>**KJV:**</sub></small>
-When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.
-<small><sub>**BSB:**</sub></small>
-When a mocker is punished, the simple gain wisdom; and when a wise man is instructed, he acquires knowledge.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.10|<< Proverbs 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.12|Proverbs 21:12 >>]]</td></tr></table>
 
 | Translation | Greek |

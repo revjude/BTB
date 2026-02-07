@@ -1,4 +1,4 @@
-**Psalms 27:11** 
+**Psalms 27:11**<big><big>[[Ps.27.1 The LORD Is My Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Teach me thy way, O LORD, and lead me in a plain path, because of mine enemies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Teach me Your way, O LORD, and lead me on a level path, because of my oppressors
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.27.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.27.10|<< Psalms 27:10]]</td><td align="center" style="border:none;">[[Ps.27|Psalms 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.27.12|Psalms 27:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | teach me  |**<big>&#8207;[[H3384B\|ה֤וֹרֵ֥]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ho.Re.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

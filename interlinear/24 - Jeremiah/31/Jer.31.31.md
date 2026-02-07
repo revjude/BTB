@@ -1,4 +1,4 @@
-**Jeremiah 31:31** 
+**Jeremiah 31:31**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the days come, saith the LORD, that I will make a new covenant with the house of Israel, and with the house of Judah:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Behold, the days are coming, declares the LORD, when I will make a new covenant 
 > $\quad$ referenced by: [[Heb.8.8|Heb 8:8-12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֛ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | days  |**<big>&#8207;[[H3117G\|יָמִ֥ים]]&#8207; </big>**| ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

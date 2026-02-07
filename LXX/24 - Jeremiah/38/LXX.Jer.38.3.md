@@ -1,10 +1,7 @@
 **LXX Jeremiah 38:3** 
 <small><sub>**LXX:**</sub></small>
 For thus said \[the\] <span class="smallcaps">lord</span>, In being delivered up, this city shall be delivered up into \[the\] hands of \[the\] force of \[the\] king of Babylon, and he shall seize it. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, This city shall surely be given into the hand of the king of Babylon’s army, which shall take it.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: This city will surely be delivered into the hands of the army of the king of Babylon, and he will capture it.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.38.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.38.2|<< Jeremiah 38:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.38.4|Jeremiah 38:4 >>]]</td></tr></table>
 
 | Translation | Greek |

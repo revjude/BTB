@@ -1,12 +1,12 @@
-**Matthew 27:34
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:34**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They gave him vinegar to drink mingled with gall: and when he had tasted [thereof], he would not drink.
 <small><sub>**BSB:**</sub></small>
 they offered Him wine to drink, mixed with gall; but after tasting it, He refused to drink it.
 <small><sub>**Literal:**</sub></small>
 they gave Him to drink wine with gall mingled, and having tasted not He wished to drink [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.33|<< Matthew 27:33]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.35|Matthew 27:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they gave |**<big>[[G1325\|ἔδωκαν]]</big>**  |edōkan <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Him |**<big>[[G0846\|αὐτῷ]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

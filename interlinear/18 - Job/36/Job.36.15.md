@@ -1,4 +1,4 @@
-**Job 36:15** 
+**Job 36:15**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He delivereth the poor in his affliction, and openeth their ears in oppression.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ God rescues the afflicted by their affliction and opens their ears in oppression
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.14|<< Job 36:14]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.16|Job 36:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he rescues  |**<big>&#8207;[[H2502A\|יְחַלֵּ֣ץ]]&#8207; </big>**| ye.cha.Letz<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] afflicted  |**<big>&#8207;[[H6041\|עָנִ֣י]]&#8207; </big>**| 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

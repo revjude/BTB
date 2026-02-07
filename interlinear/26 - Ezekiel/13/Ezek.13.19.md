@@ -1,4 +1,4 @@
-**Ezekiel 13:19** 
+**Ezekiel 13:19**<big><big>[[Ezek.13.17 Reproof of False Prophetesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And will ye pollute me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hear [your] lies?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have profaned Me among My people for handfuls of barley and scraps of bread.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.18|<< Ezekiel 13:18]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.20|Ezekiel 13:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you have profaned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2490H\|תְּחַלֶּלְ֨נָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.cha.leL.nah<small><sup>[[HVpw2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> me  |**<big>&#8207;[[H0853\|אֹתִ֜]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 20:6** 
 <small><sub>**LXX:**</sub></small>
 And you and all the ones dwelling in  your house shall go into captivity; and in Babylon you shall die, and there you shall be entombed, you and all  your friends to whom you prophesied lies to them. 
-<small><sub>**KJV:**</sub></small>
-And thou, Pashur, and all that dwell in thine house shall go into captivity: and thou shalt come to Babylon, and there thou shalt die, and shalt be buried there, thou, and all thy friends, to whom thou hast prophesied lies.
-<small><sub>**BSB:**</sub></small>
-And you, Pashhur, and all who live in your house, will go into captivity. You will go to Babylon, and there you will die and be buried—you and all your friends to whom you have prophesied these lies.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.20.5|<< Jeremiah 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.20.7|Jeremiah 20:7 >>]]</td></tr></table>
 
 | Translation | Greek |

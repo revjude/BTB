@@ -1,10 +1,7 @@
 **LXX Judges 4:9** 
 <small><sub>**LXX:**</sub></small>
 And Deborah said to him, In going I will go with you. Except know that the honor will not be yours in the way which you go; for by \[the\] hand of a woman \[the\] <span class="smallcaps">lord</span> will deliver up  Sisera. And Deborah rose up and went with  Barak from out of Kedesh. 
-<small><sub>**KJV:**</sub></small>
-And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for the LORD shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh.
-<small><sub>**BSB:**</sub></small>
-“I will certainly go with you,” Deborah replied, “but the road you are taking will bring you no honor, because the LORD will be selling Sisera into the hand of a woman.” So Deborah got up and went with Barak to Kedesh,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.4.8|<< Judges 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.4.10|Judges 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

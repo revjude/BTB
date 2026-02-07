@@ -1,4 +1,4 @@
-**Deuteronomy 2:11** 
+**Deuteronomy 2:11**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which also were accounted giants, as the Anakims; but the Moabites call them Emims.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Like the Anakites, they were also regarded as Rephaim, though the Moabites calle
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.10|<< Deuteronomy 2:10]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.12|Deuteronomy 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Rephaites  |**<big>&#8207;[[H7497B\|רְפָאִ֛ים]]&#8207; </big>**| re.fa.'Im<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were regarded  |**<big>&#8207;[[H2803J\|יֵחָשְׁב֥וּ]]&#8207; </big>**| ye.cha.she.Vu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

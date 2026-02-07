@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Assyria shall fall; not \[by the\] sword of man, nor shall \[the\] sword of man devour him; and he will not flee from in front \[of the\] sword; but the young men shall be for vanquishing; 
-<small><sub>**KJV:**</sub></small>
-Then shall the Assyrian fall with the sword, not of a mighty man; and the sword, not of a mean man, shall devour him: but he shall flee from the sword, and his young men shall be discomfited.
-<small><sub>**BSB:**</sub></small>
-“Then Assyria will fall, but not by the sword of man; a sword will devour them, but not one made by mortals. They will flee before the sword, and their young men will be put to forced labor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.31.7|<< Isaiah 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.31.9|Isaiah 31:9 >>]]</td></tr></table>
 
 | Translation | Greek |

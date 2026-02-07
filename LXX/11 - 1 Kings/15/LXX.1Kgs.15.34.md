@@ -1,10 +1,7 @@
 **LXX 1 Kings 15:34** 
 <small><sub>**LXX:**</sub></small>
 And he did the wicked \[thing\] before \[the\] <span class="smallcaps">lord</span>, and he went in \[the\] way of Jeroboam son of Nebat, and in  his sins in which he led Israel into sin. 
-<small><sub>**KJV:**</sub></small>
-And he did evil in the sight of the LORD, and walked in the way of Jeroboam, and in his sin wherewith he made Israel to sin.
-<small><sub>**BSB:**</sub></small>
-And Baasha did evil in the sight of the LORD and walked in the way of Jeroboam and in his sin, which he had caused Israel to commit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.15.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.15.33|<< 1 Kings 15:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.16.1|1 Kings 16:1 >>]]</td></tr></table>
 
 | Translation | Greek |

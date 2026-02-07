@@ -1,4 +1,4 @@
-**Psalms 38:8** (38:9)
+**Psalms 38:8**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am feeble and sore broken: I have roared by reason of the disquietness of my heart.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I am numb and badly crushed; I groan in anguish of heart.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.7|<< Psalms 38:7]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.9|Psalms 38:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I am numb  |**<big>&#8207;[[H6313\|נְפוּג֣וֹתִי]]&#8207; </big>**| ne.fu.Go.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I am crushed  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1794\|נִדְכֵּ֣יתִי]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> nid.Kei.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

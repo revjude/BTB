@@ -1,10 +1,7 @@
 **LXX Deuteronomy 26:16** 
 <small><sub>**LXX:**</sub></small>
 On  this day \[the\] <span class="smallcaps">lord</span>  your God gave charge to you to do all  these ordinances and  judgments. And you shall guard and observe them from your entire heart, and from your entire soul. 
-<small><sub>**KJV:**</sub></small>
-This day the LORD thy God hath commanded thee to do these statutes and judgments: thou shalt therefore keep and do them with all thine heart, and with all thy soul.
-<small><sub>**BSB:**</sub></small>
-The LORD your God commands you this day to follow these statutes and ordinances. You must be careful to follow them with all your heart and with all your soul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.15|<< Deuteronomy 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.26.17|Deuteronomy 26:17 >>]]</td></tr></table>
 
 | Translation | Greek |

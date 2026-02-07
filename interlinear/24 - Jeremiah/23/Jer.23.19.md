@@ -1,4 +1,4 @@
-**Jeremiah 23:19** 
+**Jeremiah 23:19**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, a whirlwind of the LORD is gone forth in fury, even a grievous whirlwind: it shall fall grievously upon the head of the wicked.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, the storm of the LORD has gone out with fury, a whirlwind swirling down 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.18|<< Jeremiah 23:18]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.20|Jeremiah 23:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] storm of  |**<big>&#8207;[[H5591B\|סַעֲרַ֣ת]]&#8207; </big>**| sa.'a.Rat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

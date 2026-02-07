@@ -1,10 +1,7 @@
 **LXX Nehemiah 1:7** 
 <small><sub>**LXX:**</sub></small>
 In parting, we parted from you, and we guarded not the commandments, and the orders, and the judgments, which you gave charge \[to\] Moses your servant. 
-<small><sub>**KJV:**</sub></small>
-We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses.
-<small><sub>**BSB:**</sub></small>
-We have behaved corruptly against You and have not kept the commandments, statutes, and ordinances that You gave Your servant Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.1.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.1.6|<< Nehemiah 1:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.1.8|Nehemiah 1:8 >>]]</td></tr></table>
 
 | Translation | Greek |

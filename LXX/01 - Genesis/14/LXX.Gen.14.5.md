@@ -1,10 +1,7 @@
 **LXX Genesis 14:5** 
 <small><sub>**LXX:**</sub></small>
 And in the fourteenth year Chedorlaomer came and the kings with him. And they cut in pieces the giants, of the \[ones\] in Astaroth Karnaim, and \[the\] strong nations together with them, and the Emim in Shaveh the city, 
-<small><sub>**KJV:**</sub></small>
-And in the fourteenth year came Chedorlaomer, and the kings that [were] with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emims in Shaveh Kiriathaim,
-<small><sub>**BSB:**</sub></small>
-In the fourteenth year, Chedorlaomer and the kings allied with him went out and defeated the Rephaites in Ashteroth-karnaim, the Zuzites in Ham, the Emites in Shaveh-kiriathaim,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.14.4|<< Genesis 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.14.6|Genesis 14:6 >>]]</td></tr></table>
 
 | Translation | Greek |

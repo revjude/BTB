@@ -1,10 +1,7 @@
 **LXX Isaiah 44:17** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] rest he makes into a carved god; he bends to it and does obeisance, and prays \[to it\], saying, Deliver me, for your are my god! 
-<small><sub>**KJV:**</sub></small>
-And the residue thereof he maketh a god, [even] his graven image: he falleth down unto it, and worshippeth [it], and prayeth unto it, and saith, Deliver me; for thou [art] my god.
-<small><sub>**BSB:**</sub></small>
-From the rest he makes a god, his graven image. He bows down to it and worships; he prays to it and says, “Save me, for you are my god.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.16|<< Isaiah 44:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.18|Isaiah 44:18 >>]]</td></tr></table>
 
 | Translation | Greek |

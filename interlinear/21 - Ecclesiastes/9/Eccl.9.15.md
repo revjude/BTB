@@ -1,4 +1,4 @@
-**Ecclesiastes 9:15** 
+**Ecclesiastes 9:15**<big><big>[[Eccl.9.13 Wisdom Is Better than Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now there was found in it a poor wise man, and he by his wisdom delivered the city; yet no man remembered that same poor man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now a poor wise man was found in the city, and he saved the city by his wisdom. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.14|<< Ecclesiastes 9:14]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.16|Ecclesiastes 9:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and someone found  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4672\|מָ֣צָא]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Ma.tza'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> it  |**<big>&#8207;[[H9003\|בָ֗]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| Va<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 30:7** 
+**Exodus 30:7**<big><big>[[Exod.30.1 The Altar of Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron shall burn thereon sweet incense every morning: when he dresseth the lamps, he shall burn incense upon it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Aaron is to burn fragrant incense on it every morning when he tends the lamp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.6|<< Exodus 30:6]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.8|Exodus 30:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make smoke  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6999A\|הִקְטִ֥יר]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hik.Tir<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on it  |**<big>&#8207;[[H5921A\|עָלָ֛י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

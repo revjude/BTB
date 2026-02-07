@@ -1,4 +1,4 @@
-**Psalms 37:17** 
+**Psalms 37:17**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the arms of the wicked shall be broken: but the LORD upholdeth the righteous.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the arms of the wicked will be broken, but the LORD upholds the righteous.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.16|<< Psalms 37:16]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.18|Psalms 37:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] arms of  |**<big>&#8207;[[H2220\|זְרוֹע֣וֹת]]&#8207; </big>**| ze.ro.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

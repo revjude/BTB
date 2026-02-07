@@ -1,10 +1,7 @@
 **LXX Numbers 26:23** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Issachar according to their peoples -- \[to\] Tola, \[the\] people the Tolaites; \[to\] Pua, \[the\] people the Punites; 
-<small><sub>**KJV:**</sub></small>
-[Of] the sons of Issachar after their families: [of] Tola, the family of the Tolaites: of Pua, the family of the Punites:
-<small><sub>**BSB:**</sub></small>
-These were the descendants of Issachar by their clans: The Tolaite clan from Tola, the Punite clan from Puvah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.22|<< Numbers 26:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.24|Numbers 26:24 >>]]</td></tr></table>
 
 | Translation | Greek |

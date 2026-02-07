@@ -1,10 +1,7 @@
 **LXX 2 Samuel 6:19** 
 <small><sub>**LXX:**</sub></small>
 And he portioned to all the people among all the force  of Israel, from man unto woman, to each a biscuit of bread, and broiled \[meat\], and a pancake from \[the\] frying pan. And all the people went forth each to  his house. 
-<small><sub>**KJV:**</sub></small>
-And he dealt among all the people, [even] among the whole multitude of Israel, as well to the women as men, to every one a cake of bread, and a good piece [of flesh], and a flagon [of wine]. So all the people departed every one to his house.
-<small><sub>**BSB:**</sub></small>
-Then he distributed to every man and woman among the multitude of Israel a loaf of bread, a date cake, and a raisin cake. And all the people departed, each to his own home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.18|<< 2 Samuel 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.20|2 Samuel 6:20 >>]]</td></tr></table>
 
 | Translation | Greek |

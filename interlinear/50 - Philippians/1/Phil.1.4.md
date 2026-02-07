@@ -1,12 +1,12 @@
-**Philippians 1:4
-**<small><sub>**KJV:**</sub></small>
+**Philippians 1:4**<big><big>[[Phil.1.3 Thanksgiving and Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Always in every prayer of mine for you all making request with joy,
 <small><sub>**BSB:**</sub></small>
 In every prayer for all of you, I always pray with joy,
 <small><sub>**Literal:**</sub></small>
 always in every supplication of mine for all of you with joy the supplication making<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.3|<< Philippians 1:3]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.5|Philippians 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | always |**<big>[[G3842\|πάντοτε]]</big>**  |pantote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

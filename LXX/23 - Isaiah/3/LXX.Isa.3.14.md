@@ -1,10 +1,7 @@
 **LXX Isaiah 3:14** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> himself shall come for judgment with the elders of the people, and with  his rulers. But you, why did you set on fire  my vineyard, and the seizure of the poor \[is\] in  your houses? 
-<small><sub>**KJV:**</sub></small>
-The LORD will enter into judgment with the ancients of his people, and the princes thereof: for ye have eaten up the vineyard; the spoil of the poor [is] in your houses.
-<small><sub>**BSB:**</sub></small>
-The LORD brings this charge against the elders and leaders of His people: “You have devoured the vineyard; the plunder of the poor is in your houses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.13|<< Isaiah 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.15|Isaiah 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

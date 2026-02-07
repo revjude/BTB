@@ -1,4 +1,4 @@
-**Numbers 11:32** 
+**Numbers 11:32**<big><big>[[Num.11.31 The Quail and the Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people stood up all that day, and all [that] night, and all the next day, and they gathered the quails: he that gathered least gathered ten homers: and they spread [them] all abroad for themselves round about the camp.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All that day and night, and all the next day, the people stayed up gathering the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.31|<< Numbers 11:31]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.33|Numbers 11:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֣קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֡ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

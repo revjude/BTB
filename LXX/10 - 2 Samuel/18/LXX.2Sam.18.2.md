@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:2** 
 <small><sub>**LXX:**</sub></small>
 And David sent away the people,  a third under \[the\] hand of Joab, and  \[another\] third under \[the\] hand of Abishai son of Zeruiah, brother of Joab, and  \[other\] third under \[the\] hand of Ittai the Gittite. And the king said to the people, In going forth, I shall go forth even indeed I myself with you. 
-<small><sub>**KJV:**</sub></small>
-And David sent forth a third part of the people under the hand of Joab, and a third part under the hand of Abishai the son of Zeruiah, Joab’s brother, and a third part under the hand of Ittai the Gittite. And the king said unto the people, I will surely go forth with you myself also.
-<small><sub>**BSB:**</sub></small>
-He sent out the troops, a third under Joab, a third under Joab’s brother Abishai son of Zeruiah, and a third under Ittai the Gittite. And the king said to the troops, “I will surely march out with you as well.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.1|<< 2 Samuel 18:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.3|2 Samuel 18:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Psalms 56:1** (56:2)
+**Psalms 56:1**<big><big>[[Ps.56.1 Be Merciful to Me, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician upon Jonathelemrechokim, Michtam of David, when the Philistines took him in Gath. Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.
+Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. To the tune of “A Dove on Distant Oaks.” A Miktam of David, when the Philistines seized him in Gath. Be merciful to me, O God, for men are hounding me; all day they press their attack.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.0|<< Psalms 56:0]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.2|Psalms 56:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | show favor to me  |**<big>&#8207;[[H2603A\|חָנֵּ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| cho.ne.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God  |**<big>&#8207;[[H0430G\|אֱ֭לֹהִים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Romans 1:19
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:19**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Because that which may be known of God is manifest in them; for God hath shewed [it] unto them.
 <small><sub>**BSB:**</sub></small>
 For what may be known about God is plain to them, because God has made it plain to them.
 <small><sub>**Literal:**</sub></small>
 because the known <the> of God manifest is among them; <the> God for to them has revealed [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.18|<< Romans 1:18]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.20|Romans 1:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because |**<big>[[G1360\|διότι]]</big>**  |dioti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

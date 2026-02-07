@@ -1,10 +1,7 @@
 **LXX Judges 1:21** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Benjamin did not remove the Jebusite dwelling Jerusalem. And the Jebusite dwelt with the sons of Benjamin in Jerusalem until  this day. 
-<small><sub>**KJV:**</sub></small>
-And the children of Benjamin did not drive out the Jebusites that inhabited Jerusalem; but the Jebusites dwell with the children of Benjamin in Jerusalem unto this day.
-<small><sub>**BSB:**</sub></small>
-The Benjamites, however, failed to drive out the Jebusites living in Jerusalem. So to this day the Jebusites live there among the Benjamites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.20|<< Judges 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.22|Judges 1:22 >>]]</td></tr></table>
 
 | Translation | Greek |

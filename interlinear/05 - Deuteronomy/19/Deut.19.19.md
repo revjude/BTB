@@ -1,4 +1,4 @@
-**Deuteronomy 19:19** 
+**Deuteronomy 19:19**<big><big>[[Deut.19.15 The Testimony of Two or Three Witnesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ you must do to him as he intended to do to his brother. So you must purge the ev
 > $\quad$ referenced by: [[1Cor.5.13|1Cor 5:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will do  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|עֲשִׂ֣יתֶם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Si.tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> him  |**<big>&#8207;[[H9005\|ל֔]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

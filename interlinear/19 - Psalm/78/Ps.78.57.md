@@ -1,4 +1,4 @@
-**Psalms 78:57** 
+**Psalms 78:57**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They turned back and were faithless like their fathers, twisted like a faulty bo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.56|<< Psalms 78:56]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.58|Psalms 78:58 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they turned back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5472\|יִּסֹּ֣גוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.So.gu<small><sup>[[HVNw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they acted treacherously  |**<big>&#8207;[[H9001\|וַֽ֭]]&#8207;&#8207;[[H0898\|יִּבְגְּדוּ]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.yiv.ge.du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 40:23** 
 <small><sub>**LXX:**</sub></small>
 If there becomes an inundation, in no way shall it be perceived; he relies that the Jordan will rush up into  his mouth. 
-<small><sub>**KJV:**</sub></small>
-Behold, he drinketh up a river, [and] hasteth not: he trusteth that he can draw up Jordan into his mouth.
-<small><sub>**BSB:**</sub></small>
-Though the river rages, Behemoth is unafraid; he remains secure, though the Jordan surges to his mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.40.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.22|<< Job 40:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.24|Job 40:24 >>]]</td></tr></table>
 
 | Translation | Greek |

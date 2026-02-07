@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they abandoned the house of \[the\] <span class="smallcaps">lord</span> the God  of their fathers, and they served \[to\] Ashtoreth and the idols. And there came anger against Judah and against Jerusalem in  their trespass. 
-<small><sub>**KJV:**</sub></small>
-And they left the house of the LORD God of their fathers, and served groves and idols: and wrath came upon Judah and Jerusalem for this their trespass.
-<small><sub>**BSB:**</sub></small>
-They abandoned the house of the LORD, the God of their fathers, and served the Asherah poles and idols. So wrath came upon Judah and Jerusalem for this guilt of theirs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.24.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.24.17|<< 2 Chronicles 24:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.24.19|2 Chronicles 24:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 10:35
-**<small><sub>**KJV:**</sub></small>
+**John 10:35**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If he called them gods, unto whom the word of God came, and the scripture cannot be broken;
 <small><sub>**BSB:**</sub></small>
 If he called them gods to whom the word of God came—and the Scripture cannot be broken—
 <small><sub>**Literal:**</sub></small>
 If them he called gods to whom the word <the> of God came, and not is able to be broken the Scripture,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.34|<< John 10:34]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.36|John 10:36 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | them |**<big>[[G1565\|ἐκείνους]]</big>**  |ekeinous <small><sup>[[D-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

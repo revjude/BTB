@@ -1,4 +1,4 @@
-**Proverbs 16:12** 
+**Proverbs 16:12**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] an abomination to kings to commit wickedness: for the throne is established by righteousness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wicked behavior is detestable for kings, for a throne is established through rig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.11|<< Proverbs 16:11]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.13|Proverbs 16:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] an abomination of  |**<big>&#8207;[[H8441\|תּוֹעֲבַ֣ת]]&#8207; </big>**| to.'a.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | kings  |**<big>&#8207;[[H4428G\|מְ֭לָכִים]]&#8207; </big>**| Me.la.khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

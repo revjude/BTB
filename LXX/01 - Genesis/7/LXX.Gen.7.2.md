@@ -1,10 +1,7 @@
 **LXX Genesis 7:2** 
 <small><sub>**LXX:**</sub></small>
 And of the clean cattle, bring in for yourself seven \[by\] seven, male and female! but from the cattle of the ones not clean, two by two, male and female. 
-<small><sub>**KJV:**</sub></small>
-Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that [are] not clean by two, the male and his female.
-<small><sub>**BSB:**</sub></small>
-You are to take with you seven pairs of every kind of clean animal, a male and its mate; a pair of every kind of unclean animal, a male and its mate;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.1|<< Genesis 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.3|Genesis 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

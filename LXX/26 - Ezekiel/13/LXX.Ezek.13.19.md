@@ -1,10 +1,7 @@
 **LXX Ezekiel 13:19** 
 <small><sub>**LXX:**</sub></small>
 And they profaned me before  my people for a handful of barley, and for pieces of bread loaves,  to kill \[the\] souls who must not die, and  to protect souls who must not live, in  you declaring to a people listening to vain maxims. 
-<small><sub>**KJV:**</sub></small>
-And will ye pollute me among my people for handfuls of barley and for pieces of bread, to slay the souls that should not die, and to save the souls alive that should not live, by your lying to my people that hear [your] lies?
-<small><sub>**BSB:**</sub></small>
-You have profaned Me among My people for handfuls of barley and scraps of bread. By lying to My people who would listen, you have killed those who should not have died and spared those who should not have lived.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.18|<< Ezekiel 13:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.20|Ezekiel 13:20 >>]]</td></tr></table>
 
 | Translation | Greek |

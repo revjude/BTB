@@ -1,12 +1,12 @@
-**1 Corinthians 14:10
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:10**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There are, it may be, so many kinds of voices in the world, and none of them [is] without signification.
 <small><sub>**BSB:**</sub></small>
 Assuredly, there are many different languages in the world, yet none of them is without meaning.
 <small><sub>**Literal:**</sub></small>
 So many if it would be kinds of languages there are in [the] world, and none of them without meaning;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.9|<< 1 Corinthians 14:9]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.11|1 Corinthians 14:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So many |**<big>[[G5118\|τοσαῦτα,]]</big>**  |tosauta <small><sup>[[K-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1487J\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

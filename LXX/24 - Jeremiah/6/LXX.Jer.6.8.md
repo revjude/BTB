@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:8** 
 <small><sub>**LXX:**</sub></small>
 In misery and \[with\] a whip you shall be corrected, O Jerusalem, lest my soul should depart from you; lest I should make you an untrodden land, which shall not be settled in. 
-<small><sub>**KJV:**</sub></small>
-Be thou instructed, O Jerusalem, lest my soul depart from thee; lest I make thee desolate, a land not inhabited.
-<small><sub>**BSB:**</sub></small>
-Be forewarned, O Jerusalem, or I will turn away from you; I will make you a desolation, a land without inhabitant.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.7|<< Jeremiah 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.9|Jeremiah 6:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Job 28:12** 
 <small><sub>**LXX:**</sub></small>
  But from what place \[is\] wisdom found? and of what place is  higher knowledge? 
-<small><sub>**KJV:**</sub></small>
-But where shall wisdom be found? and where [is] the place of understanding?
-<small><sub>**BSB:**</sub></small>
-But where can wisdom be found, and where does understanding dwell?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.11|<< Job 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.13|Job 28:13 >>]]</td></tr></table>
 
 | Translation | Greek |

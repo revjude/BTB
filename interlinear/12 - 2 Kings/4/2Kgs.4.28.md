@@ -1,4 +1,4 @@
-**2 Kings 4:28** 
+**2 Kings 4:28**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then she said, Did I desire a son of my lord? did I not say, Do not deceive me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then she said, “Did I ask you for a son, my lord? Didn’t I say, ‘Do not de
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.27|<< 2 Kings 4:27]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.29|2 Kings 4:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|תֹּ֕אמֶר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> To.mer<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ did I ask for  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H7592\|שָׁאַ֥לְתִּי]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> sha.'Al.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

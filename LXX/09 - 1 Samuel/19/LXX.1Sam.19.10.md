@@ -1,10 +1,7 @@
 **LXX 1 Samuel 19:10** 
 <small><sub>**LXX:**</sub></small>
 And Saul sought to strike David with a wooden spear. And David departed from \[the\] face of Saul, and he struck \[with\] the spear into the wall. And David withdrew and was delivered in that night. 
-<small><sub>**KJV:**</sub></small>
-And Saul sought to smite David even to the wall with the javelin; but he slipped away out of Saul’s presence, and he smote the javelin into the wall: and David fled, and escaped that night.
-<small><sub>**BSB:**</sub></small>
-Saul tried to pin him to the wall with his spear. But David eluded him and the spear struck the wall. And David fled and escaped that night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.19.9|<< 1 Samuel 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.19.11|1 Samuel 19:11 >>]]</td></tr></table>
 
 | Translation | Greek |

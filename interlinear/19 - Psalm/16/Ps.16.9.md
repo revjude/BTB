@@ -1,4 +1,4 @@
-**Psalms 16:9** 
+**Psalms 16:9**<big><big>[[Ps.16.1 The Presence of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Therefore my heart is glad and my tongue rejoices; my body also will dwell secur
 > $\quad$ referenced by: [[Luke.24.46|Luke 24:46]] ☩ [[Acts.2.25|Acts 2:25-28]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֤ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is glad  |**<big>&#8207;[[H8055\|שָׂמַ֣ח]]&#8207; </big>**| sa.Mach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

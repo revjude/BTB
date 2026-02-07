@@ -1,4 +1,4 @@
-**Ecclesiastes 10:3** 
+**Ecclesiastes 10:3**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea also, when he that is a fool walketh by the way, his wisdom faileth [him], and he saith to every one [that] he [is] a fool.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Even as the fool walks along the road, his sense is lacking, and he shows everyo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.2|<< Ecclesiastes 10:2]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.4|Ecclesiastes 10:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the way  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1870K\|דֶּ֛רֶךְ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> De.rekh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And when all the people completed passing over the Jordan, that \[the\] <span class="smallcaps">lord</span> spoke to Joshua, saying, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when all the people were clean passed over Jordan, that the LORD spake unto Joshua, saying,
-<small><sub>**BSB:**</sub></small>
-When the whole nation had finished crossing the Jordan, the LORD said to Joshua,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.17|<< Joshua 3:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.2|Joshua 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

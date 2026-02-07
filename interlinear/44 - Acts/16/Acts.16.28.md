@@ -1,12 +1,12 @@
-**Acts 16:28
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:28**<big><big>[[Acts.16.25 The Conversion of the Jailer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Paul cried with a loud voice, saying, Do thyself no harm: for we are all here.
 <small><sub>**BSB:**</sub></small>
 But Paul called out in a loud voice, “Do not harm yourself! We are all here!”
 <small><sub>**Literal:**</sub></small>
 Called out however in a loud voice <the> Paul saying; Not may do to yourself harm; all for we are here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.27|<< Acts 16:27]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.29|Acts 16:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Called out |**<big>[[G5455\|Ἐφώνησεν]]</big>**  |Ephōnēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

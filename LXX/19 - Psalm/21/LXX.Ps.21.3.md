@@ -1,10 +1,7 @@
 **LXX Psalm 21:3** 
 <small><sub>**LXX:**</sub></small>
 For him with in blessings of graciousness. You put upon  his head a crown of precious stone. 
-<small><sub>**KJV:**</sub></small>
-For thou preventest him with the blessings of goodness: thou settest a crown of pure gold on his head.
-<small><sub>**BSB:**</sub></small>
-For You welcomed him with rich blessings; You placed on his head a crown of pure gold.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.21.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.21.2|<< Psalm 21:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.21.4|Psalm 21:4 >>]]</td></tr></table>
 
 | Translation | Greek |

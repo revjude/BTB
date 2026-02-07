@@ -1,4 +1,4 @@
-**Isaiah 59:20** 
+**Isaiah 59:20**<big><big>[[Isa.59.18 The Covenant of the Redeemer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Redeemer shall come to Zion, and unto them that turn from transgression in Jacob, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And the Redeemer shall come to Zion, and unto them that turn from transgression 
 > $\quad$ referenced by: [[Rom.11.26|Rom 11:26-27]] ☩ [[Rev.14.1|Rev 14:1]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֤א]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Zion  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6726\|צִיּוֹן֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> tzi.yOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

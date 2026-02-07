@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 29:15** 
 <small><sub>**LXX:**</sub></small>
 For we are sojourners before you, and sojourners as all  our fathers, and our days are as shadows upon the earth, and there is no waiting. 
-<small><sub>**KJV:**</sub></small>
-For we [are] strangers before thee, and sojourners, as [were] all our fathers: our days on the earth [are] as a shadow, and [there is] none abiding.
-<small><sub>**BSB:**</sub></small>
-For we are foreigners and strangers in Your presence, as were all our forefathers. Our days on earth are like a shadow, without hope.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.29.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.14|<< 1 Chronicles 29:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.29.16|1 Chronicles 29:16 >>]]</td></tr></table>
 
 | Translation | Greek |

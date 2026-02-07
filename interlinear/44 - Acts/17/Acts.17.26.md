@@ -1,12 +1,12 @@
-**Acts 17:26
-**<small><sub>**KJV:**</sub></small>
+**Acts 17:26**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation;
 <small><sub>**BSB:**</sub></small>
 From one man He made every nation of men, that they should inhabit the whole earth; and He determined their appointed times and the boundaries of their lands.
 <small><sub>**Literal:**</sub></small>
 He made then of one blood every nation of men to dwell upon all [the] face of the earth, determining ordered times and the boundaries of the habitation of them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.25|<< Acts 17:25]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.27|Acts 17:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He made |**<big>[[G4160G\|ἐποίησέν]]</big>**  |epoiēsen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

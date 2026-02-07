@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the names of the tribes from the top  towards \[the\] north, according to the part of the descent of the splitting unto the entrance  of Hamath, \[the\] courtyard  of Enan, \[the\] border of Damascus to \[the\] north according to \[the\] part of Hamath's courtyard; and the \[parts\] towards \[the\] east will be theirs unto towards \[the\] west -- for Dan, one \[portion\]. 
-<small><sub>**KJV:**</sub></small>
-Now these [are] the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazarenan, the border of Damascus northward, to the coast of Hamath; for these are his sides east [and] west; a [portion for] Dan.
-<small><sub>**BSB:**</sub></small>
-“Now these are the names of the tribes: At the northern frontier, Dan will have one portion bordering the road of Hethlon to Lebo-hamath and running on to Hazar-enan on the border of Damascus with Hamath to the north, and extending from the east side to the west side.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.47.23|<< Ezekiel 47:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.2|Ezekiel 48:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 48:1** is...

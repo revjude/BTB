@@ -1,4 +1,4 @@
-**Proverbs 6:4** 
+**Proverbs 6:4**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give not sleep to thine eyes, nor slumber to thine eyelids.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Allow no sleep to your eyes or slumber to your eyelids.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.3|<< Proverbs 6:3]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.5|Proverbs 6:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you give  |**<big>&#8207;[[H5414G\|תִּתֵּ֣ן]]&#8207; </big>**| ti.Ten<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

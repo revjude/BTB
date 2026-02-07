@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And after the end of the days which the king told to bring them in, that the chief eunuch brought them in before Nebuchadnezzar. 
-<small><sub>**KJV:**</sub></small>
-Now at the end of the days that the king had said he should bring them in, then the prince of the eunuchs brought them in before Nebuchadnezzar.
-<small><sub>**BSB:**</sub></small>
-Now at the end of the time specified by the king, the chief official presented them to Nebuchadnezzar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.17|<< Daniel 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.19|Daniel 1:19 >>]]</td></tr></table>
 
 | Translation | Greek |

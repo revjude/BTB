@@ -1,12 +1,12 @@
-**2 Peter 1:6
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 1:6**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to knowledge temperance; and to temperance patience; and to patience godliness;
 <small><sub>**BSB:**</sub></small>
 and to knowledge, self-control; and to self-control, perseverance; and to perseverance, godliness;
 <small><sub>**Literal:**</sub></small>
 into then <the> knowledge <the> self-control, into then <the> self-control <the> endurance, into then <the> endurance <the> godliness,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.5|<< 2 Peter 1:5]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.7|2 Peter 1:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | into |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

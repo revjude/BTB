@@ -1,10 +1,7 @@
 **LXX Ezra 7:19** 
 <small><sub>**LXX:**</sub></small>
 And the items, the ones given to you for \[the\] ministration of \[the\] house of God, you deliver before God in Jerusalem! 
-<small><sub>**KJV:**</sub></small>
-The vessels also that are given thee for the service of the house of thy God, [those] deliver thou before the God of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-You must deliver to the God of Jerusalem all the articles given to you for the service of the house of your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.7.18|<< Ezra 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.7.20|Ezra 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

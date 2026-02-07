@@ -1,10 +1,7 @@
 **LXX Psalm 132:12** 
 <small><sub>**LXX:**</sub></small>
 If your sons shall guard  my covenant, and  these my testimonies which I shall teach them, then  their sons shall sit upon your throne unto the eon. 
-<small><sub>**KJV:**</sub></small>
-If thy children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon thy throne for evermore.
-<small><sub>**BSB:**</sub></small>
-If your sons keep My covenant and the testimony I will teach them, then their sons will also sit on your throne forever and ever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.132.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.132.11|<< Psalm 132:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.132.13|Psalm 132:13 >>]]</td></tr></table>
 
 | Translation | Greek |

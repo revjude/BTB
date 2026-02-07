@@ -1,10 +1,7 @@
 **LXX Genesis 33:3** 
 <small><sub>**LXX:**</sub></small>
 But he went forth in front of them, and did obeisance on the ground seven times, while approaching \[to\] his brother. 
-<small><sub>**KJV:**</sub></small>
-And he passed over before them, and bowed himself to the ground seven times, until he came near to his brother.
-<small><sub>**BSB:**</sub></small>
-But Jacob himself went on ahead and bowed to the ground seven times as he approached his brother.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.33.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.33.2|<< Genesis 33:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.4|Genesis 33:4 >>]]</td></tr></table>
 
 | Translation | Greek |

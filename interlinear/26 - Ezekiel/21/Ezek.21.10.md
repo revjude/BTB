@@ -1,4 +1,4 @@
-**Ezekiel 21:10** (21:15)
+**Ezekiel 21:10**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It is sharpened to make a sore slaughter; it is furbished that it may glitter: should we then make mirth? it contemneth the rod of my son, [as] every tree.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ it is sharpened for the slaughter, polished to flash like lightning! Should we r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.9|<< Ezekiel 21:9]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.11|Ezekiel 21:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so as  |**<big>&#8207;[[H4616\|לְמַ֨עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to slaughter  |**<big>&#8207;[[H2873\|טְבֹ֤חַ]]&#8207; </big>**| te.Vo.ach<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

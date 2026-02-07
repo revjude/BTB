@@ -1,12 +1,12 @@
-**1 Corinthians 14:12
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:12**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Even so ye, forasmuch as ye are zealous of spiritual [gifts], seek that ye may excel to the edifying of the church.
 <small><sub>**BSB:**</sub></small>
 It is the same with you. Since you are eager to have spiritual gifts, strive to excel in gifts that build up the church.
 <small><sub>**Literal:**</sub></small>
 So also you yourselves, since zealous you are of spiritual gifts, for the edification of the church do seek that you may exceed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.11|<< 1 Corinthians 14:11]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.13|1 Corinthians 14:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

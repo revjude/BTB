@@ -1,4 +1,4 @@
-**Isaiah 10:23** 
+**Isaiah 10:23**<big><big>[[Isa.10.20 A Remnant Shall Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the Lord GOD of hosts shall make a consumption, even determined, in the midst of all the land.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For the Lord GOD of Hosts will carry out the destruction decreed upon the whole 
 > $\quad$ referenced by: [[Rom.9.27|Rom 9:27-28]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | complete destruction  |**<big>&#8207;[[H3617\|כָלָ֖ה]]&#8207; </big>**| kha.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

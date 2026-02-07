@@ -1,12 +1,12 @@
-**Acts 20:38
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:38**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship.
 <small><sub>**BSB:**</sub></small>
 They were especially grieved by his statement that they would never see his face again. Then they accompanied him to the ship.
 <small><sub>**Literal:**</sub></small>
 sorrowing especially over the word that he had spoken that no longer they are about the face of him to see. They were accompanying then him to the ship.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.37|<< Acts 20:37]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.1|Acts 21:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sorrowing |**<big>[[G3600\|ὀδυνώμενοι]]</big>**  |odunōmenoi <small><sup>[[V-PMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | especially |**<big>[[G3122\|μάλιστα]]</big>**  |malista <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

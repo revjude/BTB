@@ -1,12 +1,12 @@
-**Luke 8:25
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:25**<big><big>[[Luke.8.22 Jesus Calms the Storm|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him.
 <small><sub>**BSB:**</sub></small>
 “Where is your faith?” He asked. Frightened and amazed, they asked one another, “Who is this? He commands even the winds and the water, and they obey Him!”
 <small><sub>**Literal:**</sub></small>
 He said then to them; Where is the faith of you? Having been afraid then they marveled saying to one another; Who then this is for even to the winds He commands and to the water, and they obey Him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.24|<< Luke 8:24]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.26|Luke 8:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

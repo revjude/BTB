@@ -1,4 +1,4 @@
-**Daniel 7:20** 
+**Daniel 7:20**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the ten horns that [were] in his head, and [of] the other which came up, and before whom three fell; even [of] that horn that had eyes, and a mouth that spake very great things, whose look [was] more stout than his fellows.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I also wanted to know about the ten horns on its head and the other horn that ca
 > $\quad$ referenced by: [[Rev.17.12|Rev 17:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and concerning  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5922\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> 'al-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | horns the  |**<big>&#8207;[[H7162\|קַרְנַיָּ֤]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| kar.nai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

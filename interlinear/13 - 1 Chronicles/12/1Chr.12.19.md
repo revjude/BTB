@@ -1,4 +1,4 @@
-**1 Chronicles 12:19** (12:20)
+**1 Chronicles 12:19**<big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there fell [some] of Manasseh to David, when he came with the Philistines against Saul to battle: but they helped them not: for the lords of the Philistines upon advisement sent him away, saying, He will fall to his master Saul to [the jeopardy of] our heads.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Some from Manasseh defected to David when he went with the Philistines to fight 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.18|<< 1 Chronicles 12:18]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.20|1 Chronicles 12:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and some of Manasseh  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H4519G\|מְּנַשֶּׁ֞ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they fell  |**<big>&#8207;[[H5307H\|נָפְל֣וּ]]&#8207; </big>**| na.fe.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

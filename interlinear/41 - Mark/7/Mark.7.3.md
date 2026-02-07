@@ -1,12 +1,12 @@
-**Mark 7:3
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:3**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the Pharisees, and all the Jews, except they wash [their] hands oft, eat not, holding the tradition of the elders.
 <small><sub>**BSB:**</sub></small>
 Now in holding to the tradition of the elders, the Pharisees and all the Jews do not eat until they wash their hands ceremonially.
 <small><sub>**Literal:**</sub></small>
 <the> For the Pharisees and all the Jews only unless with a fist they shall wash the hands, not eat holding the tradition of the elders;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.2|<< Mark 7:2]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.4|Mark 7:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 29:4** 
 <small><sub>**LXX:**</sub></small>
 Thus said \[the\] <span class="smallcaps">lord</span> of the forces, the God of Israel, unto the resettlement which he resettled from Jerusalem to Babylon; 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts, the God of Israel, unto all that are carried away captives, whom I have caused to be carried away from Jerusalem unto Babylon;
-<small><sub>**BSB:**</sub></small>
-This is what the LORD of Hosts, the God of Israel, says to all the exiles who were carried away from Jerusalem to Babylon:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.29.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.29.3|<< Jeremiah 29:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.29.5|Jeremiah 29:5 >>]]</td></tr></table>
 
 | Translation | Greek |

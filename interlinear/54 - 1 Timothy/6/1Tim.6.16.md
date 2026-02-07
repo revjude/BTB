@@ -1,12 +1,12 @@
-**1 Timothy 6:16
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:16**<big><big>[[1Tim.6.11 Fight the Good Fight|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who only hath immortality, dwelling in the light which no man can approach unto; whom no man hath seen, nor can see: to whom [be] honour and power everlasting. Amen.
 <small><sub>**BSB:**</sub></small>
 He alone is immortal and dwells in unapproachable light. No one has ever seen Him, nor can anyone see Him. To Him be honor and eternal dominion! Amen.
 <small><sub>**Literal:**</sub></small>
 <the> alone having immortality, in light dwelling unapproachable, whom has seen no [one] of men nor to see is able, to whom [be] honor and dominion eternal, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.15|<< 1 Timothy 6:15]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.17|1 Timothy 6:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | alone |**<big>[[G3441\|μόνος]]</big>**  |monos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**1 John 2:26
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:26**<big><big>[[1John.2.24 Remain in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These [things] have I written unto you concerning them that seduce you.
 <small><sub>**BSB:**</sub></small>
 I have written these things to you about those who are trying to deceive you.
 <small><sub>**Literal:**</sub></small>
 These things I have written to you concerning those leading astray you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.25|<< 1 John 2:25]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.27|1 John 2:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|Ταῦτα]]</big>**  |Tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have written |**<big>[[G1125\|ἔγραψα]]</big>**  |egrapsa <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

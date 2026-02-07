@@ -1,10 +1,7 @@
 **LXX Judges 1:14** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  her entering, that he stirred her  to ask for a field from her father. And she grumbled upon  \[her\] beast of burden. And Caleb said to her, What is it with you? 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when she came [to him], that she moved him to ask of her father a field: and she lighted from off [her] ass; and Caleb said unto her, What wilt thou?
-<small><sub>**BSB:**</sub></small>
-One day Acsah came to Othniel and urged him to ask her father for a field. When she got off her donkey, Caleb asked her, “What do you desire?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.13|<< Judges 1:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.15|Judges 1:15 >>]]</td></tr></table>
 
 | Translation | Greek |

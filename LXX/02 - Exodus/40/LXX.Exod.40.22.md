@@ -1,10 +1,7 @@
 **LXX Exodus 40:22** 
 <small><sub>**LXX:**</sub></small>
 And he placed the table in the tent of the testimony, upon the side of the tent of the testimony, the \[one\] towards \[the\] north, from outside the veil of the tent. 
-<small><sub>**KJV:**</sub></small>
-And he put the table in the tent of the congregation, upon the side of the tabernacle northward, without the vail.
-<small><sub>**BSB:**</sub></small>
-Moses placed the table in the Tent of Meeting on the north side of the tabernacle, outside the veil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.21|<< Exodus 40:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.23|Exodus 40:23 >>]]</td></tr></table>
 
 | Translation | Greek |

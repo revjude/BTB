@@ -1,12 +1,12 @@
-**Romans 7:21
-**<small><sub>**KJV:**</sub></small>
+**Romans 7:21**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I find then a law, that, when I would do good, evil is present with me.
 <small><sub>**BSB:**</sub></small>
 So this is the principle I have discovered: When I want to do good, evil is right there with me.
 <small><sub>**Literal:**</sub></small>
 I find so the principle that which is desiring me myself to do <the> good that me myself <the> evil is present with.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.20|<< Romans 7:20]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.22|Romans 7:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I find |**<big>[[G2147\|εὑρίσκω]]</big>**  |heuriskō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | so |**<big>[[G0686\|ἄρα]]</big>**  |ara <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

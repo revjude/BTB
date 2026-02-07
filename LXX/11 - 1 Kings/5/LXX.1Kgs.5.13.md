@@ -1,10 +1,7 @@
 **LXX 1 Kings 5:13** 
 <small><sub>**LXX:**</sub></small>
 And king Solomon brought tribute from all Israel. And the tribute was thirty thousand men. 
-<small><sub>**KJV:**</sub></small>
-And king Solomon raised a levy out of all Israel; and the levy was thirty thousand men.
-<small><sub>**BSB:**</sub></small>
-Then King Solomon conscripted a labor force of 30,000 men from all Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.12|<< 1 Kings 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.14|1 Kings 5:14 >>]]</td></tr></table>
 
 | Translation | Greek |

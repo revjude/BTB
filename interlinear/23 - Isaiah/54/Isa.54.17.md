@@ -1,4 +1,4 @@
-**Isaiah 54:17** 
+**Isaiah 54:17**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 No weapon that is formed against thee shall prosper; and every tongue [that] shall rise against thee in judgment thou shalt condemn. This [is] the heritage of the servants of the LORD, and their righteousness [is] of me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ No weapon formed against you shall prosper, and you will refute every tongue tha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.16|<< Isaiah 54:16]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.1|Isaiah 55:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | any  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | weapon  |**<big>&#8207;[[H3627\|כְּלִ֞י]]&#8207; </big>**| ke.Li<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Revelation 11:11
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:11**<big><big>[[Rev.11.7 The Witnesses Killed and Raised|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after three days and an half the Spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them.
 <small><sub>**BSB:**</sub></small>
 But after the three and a half days, the breath of life from God entered the two witnesses, and they stood on their feet, and great fear fell upon those who saw them.
@@ -10,7 +10,7 @@ And after the three days and a half [the] spirit of life from <the> God entered 
 > $\quad$ referencing: [[LXX.Ezek.37.5|Ezek 37:5]] ☩ [[LXX.Ezek.37.10|Ezek 37:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | after |**<big>[[G3326\|μετὰ]]</big>**  |meta <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

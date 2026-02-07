@@ -1,12 +1,12 @@
-**Matthew 20:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 20:8**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So when even was come, the lord of the vineyard saith unto his steward, Call the labourers, and give them [their] hire, beginning from the last unto the first.
 <small><sub>**BSB:**</sub></small>
 When evening came, the owner of the vineyard said to his foreman, ‘Call the workers and pay them their wages, starting with the last ones hired and moving on to the first.’
 <small><sub>**Literal:**</sub></small>
 Evening then having arrived says the master of the vineyard to the foreman of him; do call the workmen and do pay to them the wages having begun from the last until the first.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.7|<< Matthew 20:7]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.9|Matthew 20:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Evening |**<big>[[G3798\|Ὀψίας]]</big>**  |Opsias <small><sup>[[A-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

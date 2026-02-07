@@ -1,4 +1,4 @@
-**Ecclesiastes 2:11** 
+**Ecclesiastes 2:11**<big><big>[[Eccl.2.1 The Futility of Pleasure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I looked on all the works that my hands had wrought, and on the labour that I had laboured to do: and, behold, all [was] vanity and vexation of spirit, and [there was] no profit under the sun.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet when I considered all the works that my hands had accomplished and what I ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.10|<< Ecclesiastes 2:10]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.12|Ecclesiastes 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I turned  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H6437G\|פָנִ֣יתִֽי]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> fa.Ni.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֗י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

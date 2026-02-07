@@ -1,10 +1,7 @@
 **LXX Judges 21:11** 
 <small><sub>**LXX:**</sub></small>
 And this \[is\] the word which you shall do. Every male and every woman knowing \[the\] marriage-bed of a man you shall devote to consumption. 
-<small><sub>**KJV:**</sub></small>
-And this [is] the thing that ye shall do, Ye shall utterly destroy every male, and every woman that hath lain by man.
-<small><sub>**BSB:**</sub></small>
-This is what you are to do: Devote to destruction every male, as well as every female who has had relations with a man.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.21.10|<< Judges 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.21.12|Judges 21:12 >>]]</td></tr></table>
 
 | Translation | Greek |

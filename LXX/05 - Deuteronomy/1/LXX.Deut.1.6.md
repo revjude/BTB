@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:6** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span>  your God spoke to you in Horeb, saying, Let it be enough for you to dwell in  this mountain! 
-<small><sub>**KJV:**</sub></small>
-The LORD our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mount:
-<small><sub>**BSB:**</sub></small>
-The LORD our God said to us at Horeb: “You have stayed at this mountain long enough.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.5|<< Deuteronomy 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.7|Deuteronomy 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

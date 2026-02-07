@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:13** 
 <small><sub>**LXX:**</sub></small>
 And many people gathered in Jerusalem  to observe the holiday of the unleavened \[breads\] in the second month -- an exceedingly vast assembly. 
-<small><sub>**KJV:**</sub></small>
-And there assembled at Jerusalem much people to keep the feast of unleavened bread in the second month, a very great congregation.
-<small><sub>**BSB:**</sub></small>
-In the second month, a very great assembly gathered in Jerusalem to celebrate the Feast of Unleavened Bread.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.12|<< 2 Chronicles 30:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.30.14|2 Chronicles 30:14 >>]]</td></tr></table>
 
 | Translation | Greek |

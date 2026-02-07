@@ -1,10 +1,7 @@
 **LXX Leviticus 14:16** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall dip  his right finger from the olive oil  being in  his left hand. And he shall sprinkle from the olive oil \[with\] his finger seven times before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall dip his right finger in the oil that [is] in his left hand, and shall sprinkle of the oil with his finger seven times before the LORD:
-<small><sub>**BSB:**</sub></small>
-dip his right forefinger into the oil in his left palm, and sprinkle some of the oil with his finger seven times before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.14.15|<< Leviticus 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.14.17|Leviticus 14:17 >>]]</td></tr></table>
 
 | Translation | Greek |

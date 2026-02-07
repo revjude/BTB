@@ -1,12 +1,12 @@
-**Ephesians 6:20
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:20**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.
 <small><sub>**BSB:**</sub></small>
 for which I am an ambassador in chains. Pray that I may proclaim it fearlessly, as I should.
 <small><sub>**Literal:**</sub></small>
 for which I am an ambassador in a chain, that in it I may be bold as it behooves me to speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.19|<< Ephesians 6:19]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.21|Ephesians 6:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for |**<big>[[G5228\|ὑπὲρ]]</big>**  |huper <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | which |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

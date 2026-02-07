@@ -1,12 +1,12 @@
-**Acts 16:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:11**<big><big>[[Acts.16.11 Lydia’s Conversion in Philippi|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore loosing from Troas, we came with a straight course to Samothracia, and the next [day] to Neapolis;
 <small><sub>**BSB:**</sub></small>
 We sailed from Troas straight to Samothrace, and the following day on to Neapolis.
 <small><sub>**Literal:**</sub></small>
 Having sailed then from <the> Troas we made a straight course to Samothrace, <the> and the following day to Nea Polis,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.10|<< Acts 16:10]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.12|Acts 16:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having sailed |**<big>[[G0321\|Ἀναχθέντες]]</big>**  |Anachthentes <small><sup>[[V-APP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then [^1] [^2] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA27">N(K)O</abbr> | |

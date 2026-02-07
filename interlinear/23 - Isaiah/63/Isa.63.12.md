@@ -1,4 +1,4 @@
-**Isaiah 63:12** 
+**Isaiah 63:12**<big><big>[[Isa.63.7 God’s Mercies Recalled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That led [them] by the right hand of Moses with his glorious arm, dividing the water before them, to make himself an everlasting name?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ who sent His glorious arm to lead them by the right hand of Moses, who divided t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.11|<< Isaiah 63:11]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.13|Isaiah 63:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [who] caused to go  |**<big>&#8207;[[H1980G\|מוֹלִיךְ֙]]&#8207; </big>**| mo.liKh<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] right [hand] of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H3225G\|ימִ֣ין]]&#8207; </big>**| li.<small><sup>[[HR]]</sup></small> Min<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 11:4** 
 <small><sub>**LXX:**</sub></small>
 And David sent messengers, and he took her; and he entered to her, and went to bed with her, and she was being set apart from her uncleanness. And she returned to  her house. 
-<small><sub>**KJV:**</sub></small>
-And David sent messengers, and took her; and she came in unto him, and he lay with her; for she was purified from her uncleanness: and she returned unto her house.
-<small><sub>**BSB:**</sub></small>
-Then David sent messengers to get her, and when she came to him, he slept with her. (Now she had just purified herself from her uncleanness.) Then she returned home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.11.3|<< 2 Samuel 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.11.5|2 Samuel 11:5 >>]]</td></tr></table>
 
 | Translation | Greek |

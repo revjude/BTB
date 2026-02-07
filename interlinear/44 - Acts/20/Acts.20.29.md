@@ -1,12 +1,12 @@
-**Acts 20:29
-**<small><sub>**KJV:**</sub></small>
+**Acts 20:29**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock.
 <small><sub>**BSB:**</sub></small>
 I know that after my departure, savage wolves will come in among you and will not spare the flock.
 <small><sub>**Literal:**</sub></small>
 I myself for know this that will come in after the departure of mine wolves grievous among you not sparing the flock,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.28|<< Acts 20:28]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.30|Acts 20:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|Ἐγὼ]]</big>**  |Egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

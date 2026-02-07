@@ -1,4 +1,4 @@
-**Deuteronomy 12:12** 
+**Deuteronomy 12:12**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall rejoice before the LORD your God, ye, and your sons, and your daughters, and your menservants, and your maidservants, and the Levite that [is] within your gates; forasmuch as he hath no part nor inheritance with you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you shall rejoice before the LORD your God—you, your sons and daughters, y
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.11|<< Deuteronomy 12:11]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.13|Deuteronomy 12:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will rejoice  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H8055\|שְׂמַחְתֶּ֗ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> se.mach.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי֮]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

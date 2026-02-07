@@ -1,10 +1,7 @@
 **LXX Numbers 32:39** 
 <small><sub>**LXX:**</sub></small>
 And a son of Machir son of Manasseh went into Gilead, and took it, and destroyed the Amorite  dwelling in it. 
-<small><sub>**KJV:**</sub></small>
-And the children of Machir the son of Manasseh went to Gilead, and took it, and dispossessed the Amorite which [was] in it.
-<small><sub>**BSB:**</sub></small>
-The descendants of Machir son of Manasseh went to Gilead, captured it, and drove out the Amorites who were there.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.38|<< Numbers 32:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.40|Numbers 32:40 >>]]</td></tr></table>
 
 | Translation | Greek |

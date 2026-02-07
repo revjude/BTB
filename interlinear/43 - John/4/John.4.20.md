@@ -1,12 +1,12 @@
-**John 4:20
-**<small><sub>**KJV:**</sub></small>
+**John 4:20**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship.
 <small><sub>**BSB:**</sub></small>
 Our fathers worshiped on this mountain, but you Jews say that the place where one must worship is in Jerusalem.”
 <small><sub>**Literal:**</sub></small>
 The fathers of us on <the> mountain this worshiped, and you yourselves say that in Jerusalem is the place where to worship it is necessary.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.19|<< John 4:19]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.21|John 4:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | fathers |**<big>[[G3962\|πατέρες]]</big>**  |pateres <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

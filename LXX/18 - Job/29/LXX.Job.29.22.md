@@ -1,10 +1,7 @@
 **LXX Job 29:22** 
 <small><sub>**LXX:**</sub></small>
 At  my word they proceeded not; but they became overjoyed when I spoke to them. 
-<small><sub>**KJV:**</sub></small>
-After my words they spake not again; and my speech dropped upon them.
-<small><sub>**BSB:**</sub></small>
-After my words, they spoke no more; my speech settled on them like dew.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.29.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.29.21|<< Job 29:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.29.23|Job 29:23 >>]]</td></tr></table>
 
 | Translation | Greek |

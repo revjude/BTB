@@ -1,4 +1,4 @@
-**Deuteronomy 33:29** 
+**Deuteronomy 33:29**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Happy [art] thou, O Israel: who [is] like unto thee, O people saved by the LORD, the shield of thy help, and who [is] the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed are you, O Israel! Who is like you, a people saved by the LORD? He is th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.28|<< Deuteronomy 33:28]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.1|Deuteronomy 34:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed [are]! you  |**<big>&#8207;[[H0835\|אַשְׁרֶ֨י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'ash.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֜ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

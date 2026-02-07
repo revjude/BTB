@@ -1,10 +1,7 @@
 **LXX Proverbs 14:31** 
 <small><sub>**LXX:**</sub></small>
 The one extorting \[the\] needy provokes the one making him; but the one esteeming him shows mercy on \[the\] poor. 
-<small><sub>**KJV:**</sub></small>
-He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor.
-<small><sub>**BSB:**</sub></small>
-Whoever oppresses the poor taunts their Maker, but whoever is kind to the needy honors Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.14.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.30|<< Proverbs 14:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.32|Proverbs 14:32 >>]]</td></tr></table>
 
 | Translation | Greek |

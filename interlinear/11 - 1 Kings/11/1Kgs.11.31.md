@@ -1,4 +1,4 @@
-**1 Kings 11:31** 
+**1 Kings 11:31**<big><big>[[1Kgs.11.26 Jeroboam’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said to Jeroboam, Take thee ten pieces: for thus saith the LORD, the God of Israel, Behold, I will rend the kingdom out of the hand of Solomon, and will give ten tribes to thee:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and said to Jeroboam, “Take ten pieces for yourself, for this is what the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.30|<< 1 Kings 11:30]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.32|1 Kings 11:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֙אמֶר֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Jeroboam  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3379G\|יָֽרָבְעָ֔ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ya.ra.ve.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

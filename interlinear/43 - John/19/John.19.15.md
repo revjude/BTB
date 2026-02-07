@@ -1,12 +1,12 @@
-**John 19:15
-**<small><sub>**KJV:**</sub></small>
+**John 19:15**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But they cried out, Away with [him], away with [him], crucify him. Pilate saith unto them, Shall I crucify your King? The chief priests answered, We have no king but Caesar.
 <small><sub>**BSB:**</sub></small>
 At this, they shouted, “Away with Him! Away with Him! Crucify Him!” “Shall I crucify your King?” Pilate asked. “We have no king but Caesar,” replied the chief priests.
 <small><sub>**Literal:**</sub></small>
 <the> now They cried out therefore concerning Him: away away! do crucify Him! Says to them <the> Pilate; The King of you shall I crucify? Answered the chief priests; Not we have a king only except Caesar.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.14|<< John 19:14]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.16|John 19:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

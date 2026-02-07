@@ -1,10 +1,7 @@
 **LXX Psalm 68:6** 
 <small><sub>**LXX:**</sub></small>
  God settles simple \[people\] in a house; leading out \[the prisoners\] being shackled in courage; in like manner the ones being greatly embittered,  dwelling in tombs. 
-<small><sub>**KJV:**</sub></small>
-God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry [land].
-<small><sub>**BSB:**</sub></small>
-God settles the lonely in families; He leads the prisoners out to prosperity, but the rebellious dwell in a sun-scorched land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.68.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.68.5|<< Psalm 68:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.68.7|Psalm 68:7 >>]]</td></tr></table>
 
 | Translation | Greek |

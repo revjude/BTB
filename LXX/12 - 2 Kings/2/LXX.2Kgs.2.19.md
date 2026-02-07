@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the men of the city said to Elisha, Behold now, the site of the city \[is\] good, as you, O master, see; but the waters \[are\] bad, and the ground being barren. 
-<small><sub>**KJV:**</sub></small>
-And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city [is] pleasant, as my lord seeth: but the water [is] naught, and the ground barren.
-<small><sub>**BSB:**</sub></small>
-Then the men of the city said to Elisha, “Please note, our lord, that the city’s location is good, as you can see. But the water is bad and the land is unfruitful.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.2.18|<< 2 Kings 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.2.20|2 Kings 2:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 12:1** 
+**Jeremiah 12:1**<big><big>[[Jer.12.1 The Prosperity of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Righteous [art] thou, O LORD, when I plead with thee: yet let me talk with thee of [thy] judgments: Wherefore doth the way of the wicked prosper? [wherefore] are all they happy that deal very treacherously?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Righteous are You, O LORD, when I plead before You. Yet about Your judgments I w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.23|<< Jeremiah 11:23]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.2|Jeremiah 12:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] righteous  |**<big>&#8207;[[H6662\|צַדִּ֤יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you  |**<big>&#8207;[[H0859A\|אַתָּה֙]]&#8207; </big>**| 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

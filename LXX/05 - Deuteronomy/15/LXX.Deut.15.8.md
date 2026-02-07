@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:8** 
 <small><sub>**LXX:**</sub></small>
 In opening, you shall open  your hands to him, and you shall lend a loan to him as much as he wants, and according to as much as he lacks. 
-<small><sub>**KJV:**</sub></small>
-But thou shalt open thine hand wide unto him, and shalt surely lend him sufficient for his need, [in that] which he wanteth.
-<small><sub>**BSB:**</sub></small>
-Instead, you are to open your hand to him and freely loan him whatever he needs.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.7|<< Deuteronomy 15:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.9|Deuteronomy 15:9 >>]]</td></tr></table>
 
 | Translation | Greek |

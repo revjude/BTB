@@ -1,12 +1,12 @@
-**2 John 1:1
-**<small><sub>**KJV:**</sub></small>
+**2 John 1:1**<big><big>[[2John.1.1 A Greeting from the Elder|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;
 <small><sub>**BSB:**</sub></small>
 The elder, To the chosen lady and her children, whom I love in the truth—and not I alone, but also all who know the truth—
 <small><sub>**Literal:**</sub></small>
 The elder To [the] elect lady and to the children of her whom I myself love in truth, and not I myself only, but also all those already knowing the truth —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.21|<< 1 John 5:21]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.2|2 John 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | elder |**<big>[[G4245G\|πρεσβύτερος]]</big>**  |presbuteros <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

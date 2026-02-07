@@ -1,10 +1,7 @@
 **LXX Nahum 1:3** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> \[is\] lenient, and great \[is\]  his strength; and \[the\] <span class="smallcaps">lord</span> will not acquit \[one as\] innocent; his way \[is\] by consummation and by a rumbling, and \[the\] clouds \[are the\] dust of his feet; 
-<small><sub>**KJV:**</sub></small>
-The LORD [is] slow to anger, and great in power, and will not at all acquit [the wicked]: the LORD [hath] his way in the whirlwind and in the storm, and the clouds [are] the dust of his feet.
-<small><sub>**BSB:**</sub></small>
-The LORD is slow to anger and great in power; the LORD will by no means leave the guilty unpunished. His path is in the whirlwind and storm, and clouds are the dust beneath His feet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.2|<< Nahum 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.4|Nahum 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

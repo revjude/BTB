@@ -1,10 +1,7 @@
 **LXX Daniel 3:28** 
 <small><sub>**LXX:**</sub></small>
 And the king did obeisance before them to the <span class="smallcaps">lord</span>. And Nebuchadnezzar the king responded, and he said, Blessed be the God  of Shadrach, Meshach, and Abed-nego, who sent  his angel, and rescued  his servants, for they relied upon him. And the word of the king they changed, and they delivered up  their bodies unto fire so that they should not serve nor do obeisance to any god except  their God. 
-<small><sub>**KJV:**</sub></small>
-[Then] Nebuchadnezzar spake, and said, Blessed [be] the God of Shadrach, Meshach, and Abednego, who hath sent his angel, and delivered his servants that trusted in him, and have changed the king’s word, and yielded their bodies, that they might not serve nor worship any god, except their own God.
-<small><sub>**BSB:**</sub></small>
-Nebuchadnezzar declared, “Blessed be the God of Shadrach, Meshach, and Abednego, who has sent His angel and delivered His servants who trusted in Him. They violated the king’s command and risked their lives rather than serve or worship any god except their own God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.27|<< Daniel 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.29|Daniel 3:29 >>]]</td></tr></table>
 
 | Translation | Greek |

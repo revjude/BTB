@@ -1,4 +1,4 @@
-**Proverbs 16:33** 
+**Proverbs 16:33**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The lot is cast into the lap; but the whole disposing thereof [is] of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The lot is cast into the lap, but its every decision is from the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.32|<< Proverbs 16:32]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.1|Proverbs 17:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in the bosom  |**<big>&#8207;[[H9003\|בַּ֭]]&#8207;&#8207;[[H2436I\|חֵיק]]&#8207; </big>**| Ba.<small><sup>[[HRd]]</sup></small> cheik<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is thrown  |**<big>&#8207;[[H2904\|יוּטַ֣ל]]&#8207; </big>**| yu.Tal<small><sup>[[HVHi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

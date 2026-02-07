@@ -1,10 +1,7 @@
 **LXX Ezekiel 39:4** 
 <small><sub>**LXX:**</sub></small>
 And I will throw you down upon the mountains of Israel; and you shall fall, you and all the ones around you. And the nations, the ones with you shall be given to a multitude of birds, to every winged creature; and I have given you to all the wild beasts of the plain to be devoured. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt fall upon the mountains of Israel, thou, and all thy bands, and the people that [is] with thee: I will give thee unto the ravenous birds of every sort, and [to] the beasts of the field to be devoured.
-<small><sub>**BSB:**</sub></small>
-On the mountains of Israel you will fall—you and all your troops and the nations with you. I will give you as food to every kind of ravenous bird and wild beast.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.39.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.39.3|<< Ezekiel 39:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.39.5|Ezekiel 39:5 >>]]</td></tr></table>
 
 | Translation | Greek |

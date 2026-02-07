@@ -1,10 +1,7 @@
 **LXX Proverbs 21:25** 
 <small><sub>**LXX:**</sub></small>
 Desires kill \[the\] lazy, for his hands resolve to not do anything. 
-<small><sub>**KJV:**</sub></small>
-The desire of the slothful killeth him; for his hands refuse to labour.
-<small><sub>**BSB:**</sub></small>
-The craving of the slacker kills him because his hands refuse to work.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.21.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.21.24|<< Proverbs 21:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.21.26|Proverbs 21:26 >>]]</td></tr></table>
 
 | Translation | Greek |

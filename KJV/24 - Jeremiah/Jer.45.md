@@ -1,6 +1,6 @@
 (KJV) **Jeremiah 45**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44|<< Jeremiah 44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46|Jeremiah 46 >>]]</td></tr></table>
 
-***Jeremiah’s Message to Baruch*** ^bsb1795
+<big><big>[[Jer.45.1 Jeremiah’s Message to Baruch|⥃]]</big></big>***Jeremiah’s Message to Baruch***
 
  $\quad$ <span class="startversemarker">[</span>**[[Jer.45.1|1]]**<span class="endversemarker">]</span> The word that Jeremiah the prophet spake unto Baruch<small><small>[^2]</small></small> the son of Neriah, when<small><small>[^3]</small></small> he had written these words in a book at the mouth of Jeremiah, in the<small><small>[^4]</small></small> fourth year of Jehoiakim the son of Josiah king of Judah, saying,<small><small>[^5]</small></small> <span class="startversemarker">[</span>**[[Jer.45.2|2]]**<span class="endversemarker">]</span> Thus saith the <span class="smallcaps">Lord</span>, the God of Israel, unto<small><small>[^6]</small></small> thee, O Baruch; <span class="startversemarker">[</span>**[[Jer.45.3|3]]**<span class="endversemarker">]</span> Thou didst say, Woe<small><small>[^7]</small></small> is me now! for the <span class="smallcaps">Lord</span> hath added<small><small>[^8]</small></small> grief to my sorrow; I fainted<small><small>[^9]</small></small> in my sighing, and I find no rest. 
 

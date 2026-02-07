@@ -1,4 +1,4 @@
-**Leviticus 4:18** 
+**Leviticus 4:18**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall put [some] of the blood upon the horns of the altar which [is] before the LORD, that [is] in the tabernacle of the congregation, and shall pour out all the blood at the bottom of the altar of the burnt offering, which [is at] the door of the tabernacle of the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He is also to put some of the blood on the horns of the altar that is before the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.17|<< Leviticus 4:17]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.19|Leviticus 4:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and some of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4480A\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the blood  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1818\|דָּ֞ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

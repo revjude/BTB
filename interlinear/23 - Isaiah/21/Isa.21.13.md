@@ -1,4 +1,4 @@
-**Isaiah 21:13** 
+**Isaiah 21:13**<big><big>[[Isa.21.13 The Burden against Arabia|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden upon Arabia. In the forest in Arabia shall ye lodge, O ye travelling companies of Dedanim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the burden against Arabia: In the thickets of Arabia you must lodge, O c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.12|<< Isaiah 21:12]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.14|Isaiah 21:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] oracle  |**<big>&#8207;[[H4853B\|מַשָּׂ֖א]]&#8207; </big>**| ma.Sa'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on Arabia  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6152A\|עְרָ֑ב]]&#8207; </big>**| ba<small><sup>[[HR]]</sup></small> '.Rav<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

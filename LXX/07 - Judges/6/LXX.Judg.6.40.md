@@ -1,10 +1,7 @@
 **LXX Judges 6:40** 
 <small><sub>**LXX:**</sub></small>
 And God did so in  that night. And there was dryness upon the fleece only, and upon all the ground became dew. 
-<small><sub>**KJV:**</sub></small>
-And God did so that night: for it was dry upon the fleece only, and there was dew on all the ground.
-<small><sub>**BSB:**</sub></small>
-And that night God did so. Only the fleece was dry, and dew covered the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.6.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.6.39|<< Judges 6:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.1|Judges 7:1 >>]]</td></tr></table>
 
 | Translation | Greek |

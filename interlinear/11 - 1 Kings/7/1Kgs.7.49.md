@@ -1,4 +1,4 @@
-**1 Kings 7:49** 
+**1 Kings 7:49**<big><big>[[1Kgs.7.48 Completion of the Gold Furnishings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the candlesticks of pure gold, five on the right [side], and five on the left, before the oracle, with the flowers, and the lamps, and the tongs [of] gold,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the lampstands of pure gold in front of the inner sanctuary, five on the right s
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.48|<< 1 Kings 7:48]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.50|1 Kings 7:50 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lampstands  |**<big>&#8207;[[H9009\|הַ֠]]&#8207;&#8207;[[H4501\|מְּנֹרוֹת]]&#8207; </big>**| Ha.<small><sup>[[HTd]]</sup></small> me.no.rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 39:20** 
+**Genesis 39:20**<big><big>[[Gen.39.13 Joseph Falsely Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph’s master took him, and put him into the prison, a place where the king’s prisoners [were] bound: and he was there in the prison.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Joseph’s master took him and had him thrown into the prison where the king�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.19|<< Genesis 39:19]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.21|Genesis 39:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּח֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] master\<s> of  |**<big>&#8207;[[H0113\|אֲדֹנֵ֨י]]&#8207; </big>**| 'a.do.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

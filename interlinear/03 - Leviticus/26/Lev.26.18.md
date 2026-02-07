@@ -1,4 +1,4 @@
-**Leviticus 26:18** 
+**Leviticus 26:18**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye will not yet for all this hearken unto me, then I will punish you seven times more for your sins.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And if after all this you will not obey Me, I will proceed to punish you sevenfo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.17|<< Leviticus 26:17]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.19|Leviticus 26:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִ֨ם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | up to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

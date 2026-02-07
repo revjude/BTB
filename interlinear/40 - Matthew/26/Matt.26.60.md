@@ -1,5 +1,5 @@
-**Matthew 26:60
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:60**<big><big>[[Matt.26.57 Jesus before the Sanhedrin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But found none: yea, though many false witnesses came, [yet] found they none. At the last came two false witnesses,
 <small><sub>**BSB:**</sub></small>
 But they did not find any, though many false witnesses came forward. Finally two came forward
@@ -10,7 +10,7 @@ but not any they found and of many having come forward as false witnesses not th
 > $\quad$ alluding to: [[LXX.Ps.35.11|Ps 35:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | but |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not any |**<big>[[G3756\|οὐχ]]</big>**  |ouch <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

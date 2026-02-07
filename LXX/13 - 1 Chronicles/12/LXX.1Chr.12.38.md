@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 12:38** 
 <small><sub>**LXX:**</sub></small>
 All these men \[were\] warriors being deployed in battle array. they came with a peaceful soul unto Hebron  to give reign  to David over all Israel. And the rest of Israel \[was\] one soul  to give reign  to David. 
-<small><sub>**KJV:**</sub></small>
-All these men of war, that could keep rank, came with a perfect heart to Hebron, to make David king over all Israel: and all the rest also of Israel [were] of one heart to make David king.
-<small><sub>**BSB:**</sub></small>
-All these men of war, arrayed for battle, came to Hebron fully determined to make David king over all Israel. And all the rest of the Israelites were of one mind to make David king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.12.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.37|<< 1 Chronicles 12:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.39|1 Chronicles 12:39 >>]]</td></tr></table>
 
 | Translation | Greek |

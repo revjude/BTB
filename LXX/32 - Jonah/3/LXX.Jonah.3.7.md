@@ -1,10 +1,7 @@
 **LXX Jonah 3:7** 
 <small><sub>**LXX:**</sub></small>
 And it was proclaimed and was spoken in  Nineveh by the king, and by  his great men, saying, The men, and the cattle, and the oxen, and the sheep -- let them not taste, nor feed, and let them not drink water! 
-<small><sub>**KJV:**</sub></small>
-And he caused [it] to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:
-<small><sub>**BSB:**</sub></small>
-Then he issued a proclamation in Nineveh: “By the decree of the king and his nobles: Let no man or beast, herd or flock, taste anything at all. They must not eat or drink.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.3.6|<< Jonah 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.3.8|Jonah 3:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jonah 3:7** is...

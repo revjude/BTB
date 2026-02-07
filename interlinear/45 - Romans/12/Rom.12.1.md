@@ -1,12 +1,12 @@
-**Romans 12:1
-**<small><sub>**KJV:**</sub></small>
+**Romans 12:1**<big><big>[[Rom.12.1 Living Sacrifices|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, [which is] your reasonable service.
 <small><sub>**BSB:**</sub></small>
 Therefore I urge you, brothers, on account of God’s mercy, to offer your bodies as living sacrifices, holy and pleasing to God, which is your spiritual service of worship.
 <small><sub>**Literal:**</sub></small>
 I exhort therefore you, brothers, through the compassions <the> of God, to present the bodies of you a sacrifice living holy well-pleasing <the> to God which is the reasonable service of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.36|<< Romans 11:36]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.2|Romans 12:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I exhort |**<big>[[G3870\|Παρακαλῶ]]</big>**  |Parakalō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

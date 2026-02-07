@@ -1,4 +1,4 @@
-**Psalms 92:11** (92:12)
+**Psalms 92:11**<big><big>[[Ps.92.1 How Great Are Your Works!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine eye also shall see [my desire] on mine enemies, [and] mine ears shall hear [my desire] of the wicked that rise up against me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My eyes see the downfall of my enemies; my ears hear the wailing of my wicked fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.92.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.10|<< Psalms 92:10]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92.12|Psalms 92:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it has looked  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5027\|תַּבֵּ֥ט]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.Bet<small><sup>[[HVhw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eye my  |**<big>&#8207;[[H5869A\|עֵינִ֗]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'ei.N<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

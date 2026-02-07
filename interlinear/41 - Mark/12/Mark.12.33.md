@@ -1,5 +1,5 @@
-**Mark 12:33
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:33**<big><big>[[Mark.12.28 The Greatest Commandment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to love him with all the heart, and with all the understanding, and with all the soul, and with all the strength, and to love [his] neighbour as himself, is more than all whole burnt offerings and sacrifices.
 <small><sub>**BSB:**</sub></small>
 and to love Him with all your heart and with all your understanding and with all your strength, and to love your neighbor as yourself. This is more important than all burnt offerings and sacrifices.”
@@ -11,7 +11,7 @@ and <the> to love Him with all the heart and with all the understanding and from
 > $\quad$ alluding to: [[LXX.1Sam.15.22|1Sam 15:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

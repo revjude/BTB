@@ -1,10 +1,7 @@
 **LXX 1 Samuel 23:6** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the fleeing of Abiathar the son of Ahimelech to David in Keilah, he came down having an ephod in  his hand. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when Abiathar the son of Ahimelech fled to David to Keilah, [that] he came down [with] an ephod in his hand.
-<small><sub>**BSB:**</sub></small>
-(Now Abiathar son of Ahimelech had brought the ephod with him when he fled to David at Keilah.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.23.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.23.5|<< 1 Samuel 23:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.7|1 Samuel 23:7 >>]]</td></tr></table>
 
 | Translation | Greek |

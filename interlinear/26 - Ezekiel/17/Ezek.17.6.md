@@ -1,4 +1,4 @@
-**Ezekiel 17:6** 
+**Ezekiel 17:6**<big><big>[[Ezek.17.1 The Parable of Two Eagles and a Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it grew, and became a spreading vine of low stature, whose branches turned toward him, and the roots thereof were under him: so it became a vine, and brought forth branches, and shot forth sprigs.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It sprouted and became a spreading vine, low in height, with branches turned tow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.5|<< Ezekiel 17:5]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.7|Ezekiel 17:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it sprouted  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6779\|יִּצְמַ֡ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yitz.Mach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it became  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

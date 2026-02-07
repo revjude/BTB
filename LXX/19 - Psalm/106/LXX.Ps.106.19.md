@@ -1,10 +1,7 @@
 **LXX Psalm 106:19** 
 <small><sub>**LXX:**</sub></small>
 And they made a calf in Horeb, and they did obeisance to the carving. 
-<small><sub>**KJV:**</sub></small>
-They made a calf in Horeb, and worshipped the molten image.
-<small><sub>**BSB:**</sub></small>
-At Horeb they made a calf and worshiped a molten image.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.106.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.18|<< Psalm 106:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.20|Psalm 106:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 106:19** is...

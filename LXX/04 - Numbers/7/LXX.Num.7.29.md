@@ -1,10 +1,7 @@
 **LXX Numbers 7:29** 
 <small><sub>**LXX:**</sub></small>
 and for a sacrifice of deliverance, two heifers, five rams, five he-goats, five ewe-lambs of a year \[old\]; this \[is\] the gift of Eliab son of Helon. 
-<small><sub>**KJV:**</sub></small>
-And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this [was] the offering of Eliab the son of Helon.
-<small><sub>**BSB:**</sub></small>
-and a peace offering of two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliab son of Helon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.7.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.7.28|<< Numbers 7:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.7.30|Numbers 7:30 >>]]</td></tr></table>
 
 | Translation | Greek |

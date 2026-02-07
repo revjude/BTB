@@ -1,10 +1,7 @@
 **LXX Isaiah 54:11** 
 <small><sub>**LXX:**</sub></small>
 Humble and confused, you were not comforted. Behold, I prepare for you carbuncle  for your stone, and \[for\]  your foundations sapphire. 
-<small><sub>**KJV:**</sub></small>
-O thou afflicted, tossed with tempest, [and] not comforted, behold, I will lay thy stones with fair colours, and lay thy foundations with sapphires.
-<small><sub>**BSB:**</sub></small>
-“O afflicted city, lashed by storms, without solace, surely I will set your stones in antimony and lay your foundations with sapphires.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.54.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.54.10|<< Isaiah 54:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.54.12|Isaiah 54:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 54:11** is...

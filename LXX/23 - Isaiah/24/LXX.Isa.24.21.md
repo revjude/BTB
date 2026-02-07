@@ -1,10 +1,7 @@
 **LXX Isaiah 24:21** 
 <small><sub>**LXX:**</sub></small>
 And it will be in  that day God shall bring the hand against the cosmos of the heaven, and against the kings of the earth. 
-<small><sub>**KJV:**</sub></small>
-And it shall come to pass in that day, [that] the LORD shall punish the host of the high ones [that are] on high, and the kings of the earth upon the earth.
-<small><sub>**BSB:**</sub></small>
-In that day the LORD will punish the host of heaven above and the kings of the earth below.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.24.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.20|<< Isaiah 24:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.22|Isaiah 24:22 >>]]</td></tr></table>
 
 | Translation | Greek |

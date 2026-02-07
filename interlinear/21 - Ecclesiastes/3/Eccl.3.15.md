@@ -1,4 +1,4 @@
-**Ecclesiastes 3:15** 
+**Ecclesiastes 3:15**<big><big>[[Eccl.3.9 God’s Works Remain Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That which hath been is now; and that which is to be hath already been; and God requireth that which is past.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What exists has already been, and what will be has already been, for God will ca
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.14|<< Ecclesiastes 3:14]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.16|Ecclesiastes 3:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whatever  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that \<it> is  |**<big>&#8207;[[H9007\|שֶּֽׁ]]&#8207;&#8207;[[H1961\|הָיָה֙]]&#8207; </big>**| she.<small><sup>[[HTr]]</sup></small> ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:12** 
 <small><sub>**LXX:**</sub></small>
 And Jeroboam came, and all Israel to  king Rehoboam on the third day as the king spoke to them, saying, Return to me  the third day! 
-<small><sub>**KJV:**</sub></small>
-So Jeroboam and all the people came to Rehoboam the third day, as the king had appointed, saying, Come to me again the third day.
-<small><sub>**BSB:**</sub></small>
-After three days, Jeroboam and all the people returned to Rehoboam, since the king had said, “Come back to me on the third day.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.11|<< 1 Kings 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.13|1 Kings 12:13 >>]]</td></tr></table>
 
 | Translation | Greek |

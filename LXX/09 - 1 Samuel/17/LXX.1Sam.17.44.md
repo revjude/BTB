@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:44** 
 <small><sub>**LXX:**</sub></small>
 And the Philistine said to David, Come here to me! and I will give  your flesh to \[the\] birds  of heaven, and to the wild beasts of the earth. 
-<small><sub>**KJV:**</sub></small>
-And the Philistine said to David, Come to me, and I will give thy flesh unto the fowls of the air, and to the beasts of the field.
-<small><sub>**BSB:**</sub></small>
-“Come here,” he called to David, “and I will give your flesh to the birds of the air and the beasts of the field!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.44|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.43|<< 1 Samuel 17:43]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.45|1 Samuel 17:45 >>]]</td></tr></table>
 
 | Translation | Greek |

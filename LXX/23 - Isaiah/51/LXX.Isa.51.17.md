@@ -1,10 +1,7 @@
 **LXX Isaiah 51:17** 
 <small><sub>**LXX:**</sub></small>
 Awaken! Awaken! Rise up, O Jerusalem! the one drinking from \[the\] hand of \[the\] <span class="smallcaps">lord</span> the cup  of his rage. For the cup of the blow, the drinking cup  of rage you drank and emptied out. 
-<small><sub>**KJV:**</sub></small>
-Awake, awake, stand up, O Jerusalem, which hast drunk at the hand of the LORD the cup of his fury; thou hast drunken the dregs of the cup of trembling, [and] wrung [them] out.
-<small><sub>**BSB:**</sub></small>
-Awake, awake! Rise up, O Jerusalem, you who have drunk from the hand of the LORD the cup of His fury; you who have drained the goblet to the dregs—the cup that makes men stagger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.51.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.16|<< Isaiah 51:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.18|Isaiah 51:18 >>]]</td></tr></table>
 
 | Translation | Greek |

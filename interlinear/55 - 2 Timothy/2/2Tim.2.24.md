@@ -1,12 +1,12 @@
-**2 Timothy 2:24
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:24**<big><big>[[2Tim.2.14 The Lord’s Approved Workman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the servant of the Lord must not strive; but be gentle unto all [men], apt to teach, patient,
 <small><sub>**BSB:**</sub></small>
 And a servant of the Lord must not be quarrelsome, but must be kind to everyone, able to teach, and forbearing.
 <small><sub>**Literal:**</sub></small>
 [The] bond-servant now of [the] Lord not it behooves to quarrel but gentle to be toward all, able to teach, forbearing,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.23|<< 2 Timothy 2:23]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.25|2 Timothy 2:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] bond-servant |**<big>[[G1401\|δοῦλον]]</big>**  |doulon <small><sup>[[N-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

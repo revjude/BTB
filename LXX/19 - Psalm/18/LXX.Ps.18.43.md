@@ -1,10 +1,7 @@
 **LXX Psalm 18:43** 
 <small><sub>**LXX:**</sub></small>
 You shall rescue me from a dispute of people; you shall place me at \[the\] head of nations; a people whom I knew not shall serve to me; 
-<small><sub>**KJV:**</sub></small>
-Thou hast delivered me from the strivings of the people; [and] thou hast made me the head of the heathen: a people [whom] I have not known shall serve me.
-<small><sub>**BSB:**</sub></small>
-You have delivered me from the strife of the people; You have made me the head of nations; a people I had not known shall serve me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.42|<< Psalm 18:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.44|Psalm 18:44 >>]]</td></tr></table>
 
 | Translation | Greek |

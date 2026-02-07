@@ -1,4 +1,4 @@
-**Psalms 118:8** 
+**Psalms 118:8**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] better to trust in the LORD than to put confidence in man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is better to take refuge in the LORD than to trust in man.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.7|<< Psalms 118:7]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.9|Psalms 118:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|ט֗וֹב]]&#8207; </big>**| Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to take refuge  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2620\|חֲס֥וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> cha.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

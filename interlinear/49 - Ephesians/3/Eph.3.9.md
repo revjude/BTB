@@ -1,12 +1,12 @@
-**Ephesians 3:9
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 3:9**<big><big>[[Eph.3.1 The Mystery of the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to make all [men] see what [is] the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 and to illuminate for everyone the stewardship of this mystery, which for ages past was kept hidden in God, who created all things.
 <small><sub>**Literal:**</sub></small>
 and to enlighten all what [is] the administration of the mystery which hidden from the ages in <the> God the [One] who all things having created through Jesus Christ<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.8|<< Ephesians 3:8]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.10|Ephesians 3:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to enlighten |**<big>[[G5461\|φωτίσαι]]</big>**  |phōtisai <small><sup>[[V-AAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

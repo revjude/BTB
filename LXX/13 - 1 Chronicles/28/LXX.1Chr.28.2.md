@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 28:2** 
 <small><sub>**LXX:**</sub></small>
 And David the king stood in \[the\] midst of the assembly, and he said, Hear me my brethren, and my people! It came to me in heart to build a house for a rest for the ark of \[the\] covenant of \[the\] <span class="smallcaps">lord</span>, and a station to \[be\] the footstool of the feet  of God. And I prepared the \[things\] needful for the construction. 
-<small><sub>**KJV:**</sub></small>
-Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: [As for me], I [had] in mine heart to build an house of rest for the ark of the covenant of the LORD, and for the footstool of our God, and had made ready for the building:
-<small><sub>**BSB:**</sub></small>
-Then King David rose to his feet and said, “Listen to me, my brothers and my people. It was in my heart to build a house as a resting place for the ark of the covenant of the LORD and as a footstool for our God. I had made preparations to build it,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.1|<< 1 Chronicles 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.3|1 Chronicles 28:3 >>]]</td></tr></table>
 
 | Translation | Greek |

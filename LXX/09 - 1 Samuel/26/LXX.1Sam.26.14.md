@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:14** 
 <small><sub>**LXX:**</sub></small>
 And David called the people, and  he spoke to Abner son of Ner, saying, Will you not answer, Abner? And Abner answered and said, Who are you,  calling me? 
-<small><sub>**KJV:**</sub></small>
-And David cried to the people, and to Abner the son of Ner, saying, Answerest thou not, Abner? Then Abner answered and said, Who [art] thou [that] criest to the king?
-<small><sub>**BSB:**</sub></small>
-And David shouted to the troops and to Abner son of Ner, “Will you not answer me, Abner?” “Who are you who calls to the king?” Abner replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.13|<< 1 Samuel 26:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.15|1 Samuel 26:15 >>]]</td></tr></table>
 
 | Translation | Greek |

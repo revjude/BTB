@@ -1,4 +1,4 @@
-**Numbers 23:24** 
+**Numbers 23:24**<big><big>[[Num.23.13 Balaam’s Second Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat [of] the prey, and drink the blood of the slain.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, the people rise like a lioness; they rouse themselves like a lion, not r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.23|<< Numbers 23:23]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.25|Numbers 23:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֶן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hen-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a people  |**<big>&#8207;[[H5971A\|עָם֙]]&#8207; </big>**| 'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

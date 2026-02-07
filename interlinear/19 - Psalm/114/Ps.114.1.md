@@ -1,4 +1,4 @@
-**Psalms 114:1** 
+**Psalms 114:1**<big><big>[[Ps.114.1 A Psalm of Exodus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Israel went out of Egypt, the house of Jacob from a people of strange language;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Israel departed from Egypt, the house of Jacob from a people of foreign ton
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.114.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.113.9|<< Psalms 113:9]]</td><td align="center" style="border:none;">[[Ps.114|Psalms 114]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.114.2|Psalms 114:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when went out  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3318G\|צֵ֣את]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tzet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִ֭שְׂרָאֵל]]&#8207; </big>**| Yis.ra.'el<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

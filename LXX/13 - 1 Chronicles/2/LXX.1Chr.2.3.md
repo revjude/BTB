@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:3** 
 <small><sub>**LXX:**</sub></small>
 Sons of Judah -- Er, and Onan, and Shelah. These three were born to him from the daughter of Shua the Canaanitess. And Er the first-born of Judah was wicked before \[the\] <span class="smallcaps">lord</span>, and he killed him. 
-<small><sub>**KJV:**</sub></small>
-The sons of Judah; Er, and Onan, and Shelah: [which] three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the LORD; and he slew him.
-<small><sub>**BSB:**</sub></small>
-The sons of Judah: Er, Onan, and Shelah. These three were born to him by Bath-shua the Canaanite. Er, Judah’s firstborn, was wicked in the sight of the LORD. So the LORD put him to death.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.2|<< 1 Chronicles 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.4|1 Chronicles 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

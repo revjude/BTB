@@ -1,12 +1,12 @@
-**Ephesians 6:24
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:24**<big><big>[[Eph.6.21 Final Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Grace [be] with all them that love our Lord Jesus Christ in sincerity. Amen.
 <small><sub>**BSB:**</sub></small>
 Grace to all who love our Lord Jesus Christ with an undying love.
 <small><sub>**Literal:**</sub></small>
 <the> Grace [be] with all those loving the Lord of us Jesus Christ in incorruptibility Amen. to Ephesian it was written from Rome through Tychicus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.23|<< Ephesians 6:23]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.1|Philippians 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ἡ]]</big>**  |Hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Grace |**<big>[[G5485\|χάρις]]</big>**  |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Psalms 40:6** (40:7)
+**Psalms 40:6**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sacrifice and offering thou didst not desire; mine ears hast thou opened: burnt offering and sin offering hast thou not required.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Sacrifice and offering You did not desire, but my ears You have opened. Burnt of
 > $\quad$ referenced by: [[1Cor.15.3|1Cor 15:3]] ☩ [[Heb.10.5|Heb 10:5-7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sacrifice  |**<big>&#8207;[[H2077\|זֶ֤בַח]]&#8207; </big>**| Ze.vach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and offering  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4503G\|מִנְחָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

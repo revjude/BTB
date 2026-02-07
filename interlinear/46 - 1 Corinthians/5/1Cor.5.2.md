@@ -1,12 +1,12 @@
-**1 Corinthians 5:2
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 5:2**<big><big>[[1Cor.5.1 Immorality Rebuked|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you.
 <small><sub>**BSB:**</sub></small>
 And you are proud! Shouldn’t you rather have been stricken with grief and have removed from your fellowship the man who did this?
 <small><sub>**Literal:**</sub></small>
 And you yourselves puffed up are and not rather mourned so that may be taken out of midst of you the [one] the deed this having performed?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.1|<< 1 Corinthians 5:1]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.3|1 Corinthians 5:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 66:7** 
 <small><sub>**LXX:**</sub></small>
 to the one being master in  his domination of the eon.  His eyes look upon the nations. Let not the ones greatly embittering him themselves up high! PAUSE. 
-<small><sub>**KJV:**</sub></small>
-He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah.
-<small><sub>**BSB:**</sub></small>
-He rules forever by His power; His eyes watch the nations. Do not let the rebellious exalt themselves. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.66.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.66.6|<< Psalm 66:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.66.8|Psalm 66:8 >>]]</td></tr></table>
 
 | Translation | Greek |

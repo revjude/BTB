@@ -1,4 +1,4 @@
-**Ezekiel 23:5** 
+**Ezekiel 23:5**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aholah played the harlot when she was mine; and she doted on her lovers, on the Assyrians [her] neighbours,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Oholah prostituted herself while she was still Mine. She lusted after her lovers
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.4|<< Ezekiel 23:4]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.6|Ezekiel 23:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she acted as a prostitute  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2181\|תִּ֥זֶן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ti.zen<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Oholah  |**<big>&#8207;[[H0170\|אָהֳלָ֖ה]]&#8207; </big>**| 'o.ho.Lah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

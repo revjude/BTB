@@ -1,10 +1,7 @@
 **LXX Micah 4:8** 
 <small><sub>**LXX:**</sub></small>
 And you, O tower of \[the\] flock, austere daughter of Zion, unto you shall come, and shall enter in the head of the foremost kingdom  of Babylon to the daughter of Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And thou, O tower of the flock, the strong hold of the daughter of Zion, unto thee shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-And you, O watchtower of the flock, O stronghold of the Daughter of Zion—the former dominion will be restored to you; sovereignty will come to the Daughter of Jerusalem.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.7|<< Micah 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.9|Micah 4:9 >>]]</td></tr></table>
 
 | Translation | Greek |

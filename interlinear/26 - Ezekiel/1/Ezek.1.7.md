@@ -1,4 +1,4 @@
-**Ezekiel 1:7** 
+**Ezekiel 1:7**<big><big>[[Ezek.1.4 The Four Living Creatures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their feet [were] straight feet; and the sole of their feet [was] like the sole of a calf’s foot: and they sparkled like the colour of burnished brass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their legs were straight, and the soles of their feet were like the hooves of a 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.6|<< Ezekiel 1:6]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.8|Ezekiel 1:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and feet their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7272\|רַגְלֵי]]&#8207;&#8207;[[H9028\|הֶ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> rag.lei.<small><sup>[[HNcfdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] a foot  |**<big>&#8207;[[H7272\|רֶ֣גֶל]]&#8207; </big>**| Re.gel<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

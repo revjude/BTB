@@ -1,4 +1,4 @@
-**Psalms 148:10** 
+**Psalms 148:10**<big><big>[[Ps.148.1 Praise the LORD from the Heavens|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beasts, and all cattle; creeping things, and flying fowl:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ wild animals and all cattle, crawling creatures and flying birds,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.148.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.148.9|<< Psalms 148:9]]</td><td align="center" style="border:none;">[[Ps.148|Psalms 148]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.11|Psalms 148:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O animal[s]  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2416C\|חַיָּ֥ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chai.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and all  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

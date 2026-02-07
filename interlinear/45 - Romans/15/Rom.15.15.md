@@ -1,12 +1,12 @@
-**Romans 15:15
-**<small><sub>**KJV:**</sub></small>
+**Romans 15:15**<big><big>[[Rom.15.14 Paul the Minister to the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Nevertheless, brethren, I have written the more boldly unto you in some sort, as putting you in mind, because of the grace that is given to me of God,
 <small><sub>**BSB:**</sub></small>
 However, I have written you a bold reminder on some points, because of the grace God has given me
 <small><sub>**Literal:**</sub></small>
 More boldly however I have written to you brothers in part as reminding you because of the grace which having been given to me by <the> God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.14|<< Romans 15:14]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.16|Romans 15:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | More boldly |**<big>[[G5112\|Τολμηρότερον]]</big>**  [^1] |Tolmēroteron <small><sup>[[ADV-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

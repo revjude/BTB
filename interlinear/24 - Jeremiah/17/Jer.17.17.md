@@ -1,4 +1,4 @@
-**Jeremiah 17:17** 
+**Jeremiah 17:17**<big><big>[[Jer.17.12 Jeremiah’s Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not a terror unto me: thou [art] my hope in the day of evil.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not become a terror to me; You are my refuge in the day of disaster.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.16|<< Jeremiah 17:16]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.18|Jeremiah 17:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you become  |**<big>&#8207;[[H1961\|תִּֽהְיֵה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tih.yeh-<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

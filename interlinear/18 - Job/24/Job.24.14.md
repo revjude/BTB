@@ -1,4 +1,4 @@
-**Job 24:14** 
+**Job 24:14**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The murderer rising with the light killeth the poor and needy, and in the night is as a thief.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When daylight is gone, the murderer rises to kill the poor and needy; in the nig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.13|<< Job 24:13]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.15|Job 24:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the light  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0216\|א֡וֹר]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'or<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he rises  |**<big>&#8207;[[H6965B\|יָ֘ק֤וּם]]&#8207; </big>**| ya.Kum<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

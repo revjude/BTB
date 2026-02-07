@@ -1,10 +1,7 @@
 **LXX Isaiah 16:3** 
 <small><sub>**LXX:**</sub></small>
 Much counsel, and also always make a protection for her mourning; they flee darkness at midday; they are startled; do not celebrate. 
-<small><sub>**KJV:**</sub></small>
-Take counsel, execute judgment; make thy shadow as the night in the midst of the noonday; hide the outcasts; bewray not him that wandereth.
-<small><sub>**BSB:**</sub></small>
-“Give us counsel; render a decision. Shelter us at noonday with shade as dark as night. Hide the refugees; do not betray the one who flees.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.16.2|<< Isaiah 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.16.4|Isaiah 16:4 >>]]</td></tr></table>
 
 | Translation | Greek |

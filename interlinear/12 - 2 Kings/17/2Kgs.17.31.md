@@ -1,4 +1,4 @@
-**2 Kings 17:31** 
+**2 Kings 17:31**<big><big>[[2Kgs.17.24 Samaria Resettled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Avites made Nibhaz and Tartak, and the Sepharvites burnt their children in fire to Adrammelech and Anammelech, the gods of Sepharvaim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the Avvites made Nibhaz and Tartak, and the Sepharvites burned their children in
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.30|<< 2 Kings 17:30]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.32|2 Kings 17:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the Avvites  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5761I\|עַוִּ֛ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.Vim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they made  |**<big>&#8207;[[H6213H\|עָשׂ֥וּ]]&#8207; </big>**| 'a.Su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

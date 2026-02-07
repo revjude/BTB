@@ -1,4 +1,4 @@
-**Amos 2:11** 
+**Amos 2:11**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I raised up of your sons for prophets, and of your young men for Nazarites. [Is it] not even thus, O ye children of Israel? saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I raised up prophets from your sons and Nazirites from your young men. Is this n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.10|<< Amos 2:10]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.12|Amos 2:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I raised up  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6965I\|אָקִ֤ים]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Kim<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | some of sons your  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1121A\|בְּנֵי]]&#8207;&#8207;[[H9026\|כֶם֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> be.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

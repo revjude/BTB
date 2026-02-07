@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:15** 
 <small><sub>**LXX:**</sub></small>
 But \[concerning\] the five thousand  extra in the width upon the five and twenty thousand, it will be an area around the wall to the city for the dwelling in, and for its space. And the city will be in \[the\] midst of it. 
-<small><sub>**KJV:**</sub></small>
-And the five thousand, that are left in the breadth over against the five and twenty thousand, shall be a profane [place] for the city, for dwelling, and for suburbs: and the city shall be in the midst thereof.
-<small><sub>**BSB:**</sub></small>
-The remaining area, 5,000 cubits wide and 25,000 cubits long, will be for common use by the city, for houses, and for pastureland. The city will be in the center of it<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.14|<< Ezekiel 48:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.16|Ezekiel 48:16 >>]]</td></tr></table>
 
 | Translation | Greek |

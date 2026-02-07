@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:37** 
 <small><sub>**LXX:**</sub></small>
 Except in the land \[of the\] sons of Ammon we did not draw near, all the \[parts\] falling in with \[the\] stream Jabbok, and the cities, the ones in the mountainous area, in so far as \[the\] <span class="smallcaps">lord</span> our God gave charge to us. 
-<small><sub>**KJV:**</sub></small>
-Only unto the land of the children of Ammon thou camest not, [nor] unto any place of the river Jabbok, nor unto the cities in the mountains, nor unto whatsoever the LORD our God forbad us.
-<small><sub>**BSB:**</sub></small>
-But you did not go near the land of the Ammonites, or the land along the banks of the Jabbok River, or the cities of the hill country, or any place that the LORD our God had forbidden.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.36|<< Deuteronomy 2:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.1|Deuteronomy 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

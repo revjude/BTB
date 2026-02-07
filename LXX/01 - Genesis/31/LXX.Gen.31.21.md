@@ -1,10 +1,7 @@
 **LXX Genesis 31:21** 
 <small><sub>**LXX:**</sub></small>
 And he ran away, himself and  all of his. And he passed over the river, and he advanced unto the mountain of Gilead. 
-<small><sub>**KJV:**</sub></small>
-So he fled with all that he had; and he rose up, and passed over the river, and set his face [toward] the mount Gilead.
-<small><sub>**BSB:**</sub></small>
-So he fled with all his possessions, crossed the Euphrates, and headed for the hill country of Gilead.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.20|<< Genesis 31:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.22|Genesis 31:22 >>]]</td></tr></table>
 
 | Translation | Greek |

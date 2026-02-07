@@ -1,10 +1,7 @@
 **LXX Numbers 18:18** 
 <small><sub>**LXX:**</sub></small>
 And the meats will be yours, as also the breast of the increase \[offering\]. And accordingly the right shoulder will be yours. 
-<small><sub>**KJV:**</sub></small>
-And the flesh of them shall be thine, as the wave breast and as the right shoulder are thine.
-<small><sub>**BSB:**</sub></small>
-And their meat belongs to you, just as the breast and right thigh of the wave offering belong to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.17|<< Numbers 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.19|Numbers 18:19 >>]]</td></tr></table>
 
 | Translation | Greek |

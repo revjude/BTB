@@ -1,4 +1,4 @@
-**2 Chronicles 26:14** 
+**2 Chronicles 26:14**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and slings [to cast] stones.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Uzziah supplied the entire army with shields, spears, helmets, armor, bows, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.13|<< 2 Chronicles 26:13]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.15|2 Chronicles 26:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he prepared  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3559A\|יָּכֶן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Khen<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֨ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

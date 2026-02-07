@@ -1,12 +1,12 @@
-**1 John 2:19
-**<small><sub>**KJV:**</sub></small>
+**1 John 2:19**<big><big>[[1John.2.18 Beware of Antichrists|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They went out from us, but they were not of us; for if they had been of us, they would [no doubt] have continued with us: but [they went out], that they might be made manifest that they were not all of us.
 <small><sub>**BSB:**</sub></small>
 They went out from us, but they did not belong to us. For if they had belonged to us, they would have remained with us. But their departure made it clear that none of them belonged to us.
 <small><sub>**Literal:**</sub></small>
 From among us they went out but not they were of us; if for of us they were being they had remained then would with us; But [it is] so that it may be made manifest that not they are all of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.18|<< 1 John 2:18]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.20|1 John 2:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | From among |**<big>[[G1537\|ἐξ]]</big>**  |ex <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | us |**<big>[[G3165\|ἡμῶν]]</big>**  |hēmōn <small><sup>[[P-1GP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

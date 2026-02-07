@@ -1,10 +1,7 @@
 **LXX Deuteronomy 31:2** 
 <small><sub>**LXX:**</sub></small>
 And he said to them, A hundred and twenty years I am today. I shall not be able still to enter and go forth. For \[the\] <span class="smallcaps">lord</span> said to me, You shall not pass over  this Jordan. 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, I [am] an hundred and twenty years old this day; I can no more go out and come in: also the LORD hath said unto me, Thou shalt not go over this Jordan.
-<small><sub>**BSB:**</sub></small>
-he said to them, “I am now a hundred and twenty years old; I am no longer able to come and go, and the LORD has said to me, ‘You shall not cross the Jordan.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.31.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.31.1|<< Deuteronomy 31:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.31.3|Deuteronomy 31:3 >>]]</td></tr></table>
 
 | Translation | Greek |

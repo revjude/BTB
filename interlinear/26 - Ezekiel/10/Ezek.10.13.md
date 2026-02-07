@@ -1,4 +1,4 @@
-**Ezekiel 10:13** 
+**Ezekiel 10:13**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for the wheels, it was cried unto them in my hearing, O wheel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I heard the wheels being called “the whirling wheels.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.12|<< Ezekiel 10:12]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.14|Ezekiel 10:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to the wheels  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0212\|א֖וֹפַנִּ֑ים]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'o.fa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֛ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Kings 3:11** 
+**2 Kings 3:11**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Jehoshaphat said, [Is there] not here a prophet of the LORD, that we may inquire of the LORD by him? And one of the king of Israel’s servants answered and said, Here [is] Elisha the son of Shaphat, which poured water on the hands of Elijah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Jehoshaphat asked, “Is there no prophet of the LORD here? Let us inquire o
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.10|<< 2 Kings 3:10]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.12|2 Kings 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jehoshaphat  |**<big>&#8207;[[H3092I\|יְהוֹשָׁפָ֗ט]]&#8207; </big>**| ye.ho.sha.Fat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Zechariah 1:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall say to them, Thus says \[the\] <span class="smallcaps">lord</span> of the forces, Turn to me, says \[the\] <span class="smallcaps">lord</span> of the forces! and I shall be turned towards you, says \[the\] <span class="smallcaps">lord</span> of the forces. 
-<small><sub>**KJV:**</sub></small>
-Therefore say thou unto them, Thus saith the LORD of hosts; Turn ye unto me, saith the LORD of hosts, and I will turn unto you, saith the LORD of hosts.
-<small><sub>**BSB:**</sub></small>
-So tell the people that this is what the LORD of Hosts says: ‘Return to Me, declares the LORD of Hosts, and I will return to you, says the LORD of Hosts.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.2|<< Zechariah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.4|Zechariah 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

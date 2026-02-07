@@ -1,4 +1,4 @@
-**Ecclesiastes 8:12** 
+**Ecclesiastes 8:12**<big><big>[[Eccl.8.10 Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though a sinner do evil an hundred times, and his [days] be prolonged, yet surely I know that it shall be well with them that fear God, which fear before him:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Although a sinner does evil a hundred times and still lives long, yet I also kno
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.11|<< Ecclesiastes 8:11]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.13|Ecclesiastes 8:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a sinner  |**<big>&#8207;[[H2398\|חֹטֶ֗א]]&#8207; </big>**| cho.Te'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

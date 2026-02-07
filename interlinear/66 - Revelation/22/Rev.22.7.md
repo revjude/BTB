@@ -1,12 +1,12 @@
-**Revelation 22:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:7**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Behold, I come quickly: blessed [is] he that keepeth the sayings of the prophecy of this book.
 <small><sub>**BSB:**</sub></small>
 “Behold, I am coming soon. Blessed is the one who keeps the words of prophecy in this book.”
 <small><sub>**Literal:**</sub></small>
 And behold I am coming quickly. Blessed [is] the [one] keeping the words of the prophecy of the book this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.6|<< Revelation 22:6]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.8|Revelation 22:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">no</abbr> | |
 | behold |**<big>[[G2400\|ἰδοὺ]]</big>**  |idou <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

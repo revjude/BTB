@@ -1,12 +1,12 @@
-**Ephesians 1:3
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 1:3**<big><big>[[Eph.1.3 Spiritual Blessings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Blessed [be] the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly [places] in Christ:
 <small><sub>**BSB:**</sub></small>
 Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly realms.
 <small><sub>**Literal:**</sub></small>
 Blessed [be] the God and Father of the Lord of us Jesus Christ, the [One] having blessed us with every blessing spiritual in the heavenly realms in Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.2|<< Ephesians 1:2]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.4|Ephesians 1:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Blessed [be] |**<big>[[G2128\|Εὐλογητὸς]]</big>**  |Eulogētos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

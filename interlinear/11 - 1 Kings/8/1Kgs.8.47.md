@@ -1,4 +1,4 @@
-**1 Kings 8:47** 
+**1 Kings 8:47**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Yet] if they shall bethink themselves in the land whither they were carried captives, and repent, and make supplication unto thee in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and when they come to their senses in the land to which they were taken, and the
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.46|<< 1 Kings 8:46]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.48|1 Kings 8:48 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will bring back  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725N\|הֵשִׁ֙יבוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Shi.vu<small><sup>[[HVhq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

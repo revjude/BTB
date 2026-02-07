@@ -1,10 +1,7 @@
 **LXX Hosea 11:3** 
 <small><sub>**LXX:**</sub></small>
 And I bound  Ephraim; I took him upon  my arm; and they knew not that I have healed them. 
-<small><sub>**KJV:**</sub></small>
-I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them.
-<small><sub>**BSB:**</sub></small>
-It was I who taught Ephraim to walk, taking them by the arms, but they never realized that it was I who healed them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.11.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.2|<< Hosea 11:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.4|Hosea 11:4 >>]]</td></tr></table>
 
 | Translation | Greek |

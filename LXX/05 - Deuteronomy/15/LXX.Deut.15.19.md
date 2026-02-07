@@ -1,10 +1,7 @@
 **LXX Deuteronomy 15:19** 
 <small><sub>**LXX:**</sub></small>
 Every first-born which ever should give birth among  your oxen, and among  your sheep, you shall sanctify the males \[to the\] <span class="smallcaps">lord</span>  your God. You shall not work with  your first-born calf, and in no way should you shear the first-born  of your sheep. 
-<small><sub>**KJV:**</sub></small>
-All the firstling males that come of thy herd and of thy flock thou shalt sanctify unto the LORD thy God: thou shalt do no work with the firstling of thy bullock, nor shear the firstling of thy sheep.
-<small><sub>**BSB:**</sub></small>
-You must set apart to the LORD your God every firstborn male produced by your herds and flocks. You are not to put the firstborn of your oxen to work, nor are you to shear the firstborn of your flock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.18|<< Deuteronomy 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.20|Deuteronomy 15:20 >>]]</td></tr></table>
 
 | Translation | Greek |

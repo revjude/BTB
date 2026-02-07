@@ -1,4 +1,4 @@
-**Joshua 21:9** 
+**Joshua 21:9**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are [here] mentioned by name,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ From the tribes of Judah and Simeon, they designated these cities by name
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.8|<< Joshua 21:8]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.10|Joshua 21:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they gave  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5414G\|יִּתְּנ֗וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.te.Nu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] tribe of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4294H\|מַּטֵּה֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ma.Teh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

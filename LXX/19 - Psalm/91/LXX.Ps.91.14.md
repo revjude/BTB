@@ -1,10 +1,7 @@
 **LXX Psalm 91:14** 
 <small><sub>**LXX:**</sub></small>
 For he hoped upon me, and I shall rescue him. I will shelter him, for he knew  my name. 
-<small><sub>**KJV:**</sub></small>
-Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.
-<small><sub>**BSB:**</sub></small>
-“Because he loves Me, I will deliver him; because he knows My name, I will protect him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.91.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.13|<< Psalm 91:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.15|Psalm 91:15 >>]]</td></tr></table>
 
 | Translation | Greek |

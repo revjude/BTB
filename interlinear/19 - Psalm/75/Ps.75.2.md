@@ -1,4 +1,4 @@
-**Psalms 75:2** (75:3)
+**Psalms 75:2**<big><big>[[Ps.75.1 God’s Righteous Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I shall receive the congregation I will judge uprightly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When I shall receive the congregation I will judge uprightly.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.75.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.75.1|<< Psalms 75:1]]</td><td align="center" style="border:none;">[[Ps.75|Psalms 75]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.75.3|Psalms 75:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּ֭י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will take  |**<big>&#8207;[[H3947H\|אֶקַּ֣ח]]&#8207; </big>**| 'e.Kach<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

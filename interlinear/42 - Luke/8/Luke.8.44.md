@@ -1,12 +1,12 @@
-**Luke 8:44
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:44**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Came behind [him], and touched the border of his garment: and immediately her issue of blood stanched.
 <small><sub>**BSB:**</sub></small>
 She came up behind Jesus and touched the fringe of His cloak, and immediately her bleeding stopped.
 <small><sub>**Literal:**</sub></small>
 having come behind [Him] she touched the fringe the of cloak of Him, and immediately stopped the flux of the blood of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.43|<< Luke 8:43]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.45|Luke 8:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having come |**<big>[[G4334\|προσελθοῦσα]]</big>**  |proselthousa <small><sup>[[V-2AAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | behind [Him] |**<big>[[G3693\|ὄπισθεν]]</big>**  |opisthen <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

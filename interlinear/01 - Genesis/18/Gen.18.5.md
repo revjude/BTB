@@ -1,4 +1,4 @@
-**Genesis 18:5** 
+**Genesis 18:5**<big><big>[[Gen.18.1 The Three Visitors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will fetch a morsel of bread, and comfort ye your hearts; after that ye shall pass on: for therefore are ye come to your servant. And they said, So do, as thou hast said.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will bring a bit of bread so that you may refresh yourselves. This is why 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.4|<< Genesis 18:4]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.6|Genesis 18:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so let me bring  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3947J\|אֶקְחָ֨ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ek.Chah<small><sup>[[HVqc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a piece of  |**<big>&#8207;[[H6595A\|פַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| fat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

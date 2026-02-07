@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after this, that he loved a woman by the rushing stream Sorek, and her name \[was\] Delilah. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass afterward, that he loved a woman in the valley of Sorek, whose name [was] Delilah.
-<small><sub>**BSB:**</sub></small>
-Some time later, Samson fell in love with a woman in the Valley of Sorek, whose name was Delilah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.3|<< Judges 16:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.5|Judges 16:5 >>]]</td></tr></table>
 
 | Translation | Greek |

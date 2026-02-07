@@ -1,10 +1,7 @@
 **LXX Daniel 2:29** 
 <small><sub>**LXX:**</sub></small>
 You, O king,  your thoughts upon  your bed ascended to what must take place after these \[things\]. And the one uncovering mysteries made known to you what must take place. 
-<small><sub>**KJV:**</sub></small>
-As for thee, O king, thy thoughts came [into thy mind] upon thy bed, what should come to pass hereafter: and he that revealeth secrets maketh known to thee what shall come to pass.
-<small><sub>**BSB:**</sub></small>
-As you lay on your bed, O king, your thoughts turned to the future, and the Revealer of Mysteries made known to you what will happen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.28|<< Daniel 2:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.30|Daniel 2:30 >>]]</td></tr></table>
 
 | Translation | Greek |

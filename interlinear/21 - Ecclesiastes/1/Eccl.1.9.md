@@ -1,4 +1,4 @@
-**Ecclesiastes 1:9** 
+**Ecclesiastes 1:9**<big><big>[[Eccl.1.1 Everything Is Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The thing that hath been, it [is that] which shall be; and that which is done [is] that which shall be done: and [there is] no new [thing] under the sun.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What has been will be again, and what has been done will be done again; there is
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.8|<< Ecclesiastes 1:8]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.10|Ecclesiastes 1:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whatever  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<that> it has been  |**<big>&#8207;[[H9007\|שֶּֽׁ]]&#8207;&#8207;[[H1961\|הָיָה֙]]&#8207; </big>**| she.<small><sup>[[HTr]]</sup></small> ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

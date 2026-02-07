@@ -1,4 +1,4 @@
-**2 Kings 11:20** 
+**2 Kings 11:20**<big><big>[[2Kgs.11.17 Jehoiada Restores the Worship of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people of the land rejoiced, and the city was in quiet: and they slew Athaliah with the sword [beside] the king’s house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and all the people of the land rejoiced. And the city was quiet, because Athalia
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.19|<< 2 Kings 11:19]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.21|2 Kings 11:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it rejoiced  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8055\|יִּשְׂמַ֥ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.Mach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

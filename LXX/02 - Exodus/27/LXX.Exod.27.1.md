@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall make an altar from out of incorruptible woods, of five cubits the length, and five cubits the breadth. The altar will be four-cornered, and \[its\] height three cubits. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt make an altar [of] shittim wood, five cubits long, and five cubits broad; the altar shall be foursquare: and the height thereof [shall be] three cubits.
-<small><sub>**BSB:**</sub></small>
-“You are to build an altar of acacia wood. The altar must be square, five cubits long, five cubits wide, and three cubits high.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.37|<< Exodus 26:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.27.2|Exodus 27:2 >>]]</td></tr></table>
 
 | Translation | Greek |

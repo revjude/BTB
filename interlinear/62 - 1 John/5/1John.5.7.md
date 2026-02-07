@@ -1,12 +1,12 @@
-**1 John 5:7
-**<small><sub>**KJV:**</sub></small>
+**1 John 5:7**<big><big>[[1John.5.1 Overcoming the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
 <small><sub>**BSB:**</sub></small>
 For there are three that testify:
 <small><sub>**Literal:**</sub></small>
 For three there are those bearing testimony: in the heaven the Father the Word and the Holy Spirit and these <the> three one are<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.6|<< 1 John 5:6]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.8|1 John 5:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | three |**<big>[[G5140\|τρεῖς]]</big>**  |treis <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

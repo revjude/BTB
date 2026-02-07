@@ -1,4 +1,4 @@
-**Nehemiah 12:42** 
+**Nehemiah 12:42**<big><big>[[Neh.12.27 The Dedication of the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah [their] overseer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and also Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malchijah, Elam, and Ezer
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.41|<< Nehemiah 12:41]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.43|Nehemiah 12:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Maaseiah  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4641W\|מַעֲשֵׂיָ֨ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.'a.se.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Shemaiah  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H8098W\|שְׁמַֽעְיָ֜ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.ma'.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

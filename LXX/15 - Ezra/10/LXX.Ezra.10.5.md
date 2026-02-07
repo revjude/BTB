@@ -1,10 +1,7 @@
 **LXX Ezra 10:5** 
 <small><sub>**LXX:**</sub></small>
 And Ezra rose up, and bound by an oath the rulers of the priests, and Levites, and all Israel,  to do according to  this word. And they swore by an oath. 
-<small><sub>**KJV:**</sub></small>
-Then arose Ezra, and made the chief priests, the Levites, and all Israel, to swear that they should do according to this word. And they sware.
-<small><sub>**BSB:**</sub></small>
-So Ezra got up and made the leading priests, Levites, and all Israel take an oath to do what had been said. And they took the oath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.10.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.10.4|<< Ezra 10:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.10.6|Ezra 10:6 >>]]</td></tr></table>
 
 | Translation | Greek |

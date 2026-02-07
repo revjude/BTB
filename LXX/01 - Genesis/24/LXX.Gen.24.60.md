@@ -1,10 +1,7 @@
 **LXX Genesis 24:60** 
 <small><sub>**LXX:**</sub></small>
 And they blessed Rebekah, and said to her, You are our sister, become for a thousand myriads, and \[let\] your seed inherit the cities of \[your\] opponents! 
-<small><sub>**KJV:**</sub></small>
-And they blessed Rebekah, and said unto her, Thou [art] our sister, be thou [the mother] of thousands of millions, and let thy seed possess the gate of those which hate them.
-<small><sub>**BSB:**</sub></small>
-And they blessed Rebekah and said to her, “Our sister, may you become the mother of thousands upon thousands. May your offspring possess the gates of their enemies.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.60|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.59|<< Genesis 24:59]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.61|Genesis 24:61 >>]]</td></tr></table>
 
 | Translation | Greek |

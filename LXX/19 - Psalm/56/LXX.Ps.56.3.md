@@ -1,10 +1,7 @@
 **LXX Psalm 56:3** 
 <small><sub>**LXX:**</sub></small>
 I do not fear \[the\] day, and I shall hope upon you. 
-<small><sub>**KJV:**</sub></small>
-What time I am afraid, I will trust in thee.
-<small><sub>**BSB:**</sub></small>
-When I am afraid, I put my trust in You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.56.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.56.2|<< Psalm 56:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.56.4|Psalm 56:4 >>]]</td></tr></table>
 
 | Translation | Greek |

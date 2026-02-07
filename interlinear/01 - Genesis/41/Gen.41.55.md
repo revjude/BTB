@@ -1,4 +1,4 @@
-**Genesis 41:55** 
+**Genesis 41:55**<big><big>[[Gen.41.53 The Famine Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When extreme hunger came to all the land of Egypt and the people cried out to Ph
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.54|<< Genesis 41:54]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.56|Genesis 41:56 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was hungry  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7456\|תִּרְעַב֙]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tir.'Av<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

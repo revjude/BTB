@@ -1,10 +1,7 @@
 **LXX Deuteronomy 14:5** 
 <small><sub>**LXX:**</sub></small>
 \[the\] stag, and doe, and roebuck, and antelope, and white-tailed hart, and gazelle, and cameleopard. 
-<small><sub>**KJV:**</sub></small>
-The hart, and the roebuck, and the fallow deer, and the wild goat, and the pygarg, and the wild ox, and the chamois.
-<small><sub>**BSB:**</sub></small>
-the deer, the gazelle, the roe deer, the wild goat, the ibex, the antelope, and the mountain sheep.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.14.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.14.4|<< Deuteronomy 14:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.14.6|Deuteronomy 14:6 >>]]</td></tr></table>
 
 | Translation | Greek |

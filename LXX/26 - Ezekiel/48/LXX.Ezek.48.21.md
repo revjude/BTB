@@ -1,10 +1,7 @@
 **LXX Ezekiel 48:21** 
 <small><sub>**LXX:**</sub></small>
 And the extra to the one guiding on this \[side\] and on \[that side\], from the first-fruits of the holy place; and for the possession of the city, \[there shall be a space\] unto five and twenty thousand in length, unto the borders of the ones towards \[the\] east, and towards \[the\] west, unto five and twenty thousand unto the borders  towards \[the\] west, next to the portions of the one guiding; and the will be first-fruit of the holy \[places\] and the sanctuary of the house in \[the\] midst of it. 
-<small><sub>**KJV:**</sub></small>
-And the residue [shall be] for the prince, on the one side and on the other of the holy oblation, and of the possession of the city, over against the five and twenty thousand of the oblation toward the east border, and westward over against the five and twenty thousand toward the west border, over against the portions for the prince: and it shall be the holy oblation; and the sanctuary of the house [shall be] in the midst thereof.
-<small><sub>**BSB:**</sub></small>
-The remaining area on both sides of the holy portion and of the property of the city will belong to the prince. He will own the land adjacent to the tribal portions, extending eastward from the 25,000 cubits of the holy district toward the eastern border, and westward from the 25,000 cubits to the western border. And in the center of them will be the holy portion and the sanctuary of the temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.48.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.48.20|<< Ezekiel 48:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.48.22|Ezekiel 48:22 >>]]</td></tr></table>
 
 | Translation | Greek |

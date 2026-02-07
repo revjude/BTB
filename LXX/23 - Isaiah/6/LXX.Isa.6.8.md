@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And I heard the voice of \[the\] <span class="smallcaps">lord</span>, saying, Whom shall I send, and who shall go to  this people? And I said, Behold, I am, send me! 
-<small><sub>**KJV:**</sub></small>
-Also I heard the voice of the Lord, saying, Whom shall I send, and who will go for us? Then said I, Here [am] I; send me.
-<small><sub>**BSB:**</sub></small>
-Then I heard the voice of the Lord saying: “Whom shall I send? Who will go for Us?” And I said: “Here am I. Send me!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.7|<< Isaiah 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.6.9|Isaiah 6:9 >>]]</td></tr></table>
 
 | Translation | Greek |

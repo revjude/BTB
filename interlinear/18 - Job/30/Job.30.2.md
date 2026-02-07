@@ -1,4 +1,4 @@
-**Job 30:2** 
+**Job 30:2**<big><big>[[Job.30.1 Job’s Honor Turned to Contempt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, whereto [might] the strength of their hands [profit] me, in whom old age was perished?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What use to me was the strength of their hands, since their vigor had left them?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.1|<< Job 30:1]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.3|Job 30:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] strength of  |**<big>&#8207;[[H3581B\|כֹּ֣חַ]]&#8207; </big>**| Ko.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

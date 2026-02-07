@@ -1,4 +1,4 @@
-**Genesis 37:12** 
+**Genesis 37:12**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his brethren went to feed their father’s flock in Shechem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Some time later, Joseph’s brothers had gone to pasture their father’s flocks
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.11|<< Genesis 37:11]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.13|Genesis 37:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּלְכ֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.le.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | brothers his  |**<big>&#8207;[[H0251G\|אֶחָ֑י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'e.Cha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

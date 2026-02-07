@@ -1,4 +1,4 @@
-**2 Chronicles 32:20** 
+**2 Chronicles 32:20**<big><big>[[2Chr.32.20 Jerusalem Delivered from the Assyrians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for this [cause] Hezekiah the king, and the prophet Isaiah the son of Amoz, prayed and cried to heaven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In response, King Hezekiah and the prophet Isaiah son of Amoz cried out to heave
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.19|<< 2 Chronicles 32:19]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.21|2 Chronicles 32:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he prayed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6419\|יִּתְפַּלֵּ֞ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.pa.Lel<small><sup>[[HVtw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hezekiah  |**<big>&#8207;[[H2396G\|יְחִזְקִיָּ֣הוּ]]&#8207; </big>**| ye.chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

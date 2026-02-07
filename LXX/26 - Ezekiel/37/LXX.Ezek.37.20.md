@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:20** 
 <small><sub>**LXX:**</sub></small>
 And the rods upon which you wrote upon them shall be in  your hand before them. 
-<small><sub>**KJV:**</sub></small>
-And the sticks whereon thou writest shall be in thine hand before their eyes.
-<small><sub>**BSB:**</sub></small>
-When the sticks on which you write are in your hand and in full view of the people,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.19|<< Ezekiel 37:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.21|Ezekiel 37:21 >>]]</td></tr></table>
 
 | Translation | Greek |

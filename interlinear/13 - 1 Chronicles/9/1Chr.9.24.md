@@ -1,4 +1,4 @@
-**1 Chronicles 9:24** 
+**1 Chronicles 9:24**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In four quarters were the porters, toward the east, west, north, and south.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The gatekeepers were stationed on the four sides: east, west, north, and south.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.23|<< 1 Chronicles 9:23]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.25|1 Chronicles 9:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to four  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0702\|אַרְבַּ֣ע]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'ar.Ba'<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sides  |**<big>&#8207;[[H7307I\|רוּח֔וֹת]]&#8207; </big>**| ru.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 17:36
-**<small><sub>**KJV:**</sub></small>
+**Luke 17:36**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Two [men] shall be in the field; the one shall be taken, and the other left.
 <small><sub>**BSB:**</sub></small>
 
 <small><sub>**Literal:**</sub></small>
 two in field; one will be taken and <the> another it will be left<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.35|<< Luke 17:35]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.37|Luke 17:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | two |**<big>[[G1417\|δύο]]</big>**  |duo <small><sup>[[A-NUI]]</sup></small> | <abbr title="TR">K</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="TR">K</abbr> | |

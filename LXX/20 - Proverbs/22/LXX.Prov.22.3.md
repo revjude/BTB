@@ -1,10 +1,7 @@
 **LXX Proverbs 22:3** 
 <small><sub>**LXX:**</sub></small>
 A clever man seeing \[the\] wicked forcefully being punished \[is\] himself corrected; but the fools passing by are penalized. 
-<small><sub>**KJV:**</sub></small>
-A prudent [man] foreseeth the evil, and hideth himself: but the simple pass on, and are punished.
-<small><sub>**BSB:**</sub></small>
-The prudent see danger and take cover, but the simple keep going and suffer the consequences.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.22.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.22.2|<< Proverbs 22:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.22.4|Proverbs 22:4 >>]]</td></tr></table>
 
 | Translation | Greek |

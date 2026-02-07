@@ -1,10 +1,7 @@
 **LXX Job 34:28** 
 <small><sub>**LXX:**</sub></small>
 \[so as\] to bring unto him \[the\] cry of \[the\] needy; for he will listen to \[the\] cry of \[the\] poor; 
-<small><sub>**KJV:**</sub></small>
-So that they cause the cry of the poor to come unto him, and he heareth the cry of the afflicted.
-<small><sub>**BSB:**</sub></small>
-They caused the cry of the poor to come before Him, and He heard the outcry of the afflicted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.27|<< Job 34:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.29|Job 34:29 >>]]</td></tr></table>
 
 | Translation | Greek |

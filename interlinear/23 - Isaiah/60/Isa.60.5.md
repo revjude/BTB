@@ -1,4 +1,4 @@
-**Isaiah 60:5** 
+**Isaiah 60:5**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then thou shalt see, and flow together, and thine heart shall fear, and be enlarged; because the abundance of the sea shall be converted unto thee, the forces of the Gentiles shall come unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will look and be radiant, and your heart will tremble and swell with jo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.4|<< Isaiah 60:4]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.6|Isaiah 60:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֤ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will see  |**<big>&#8207;[[H7200G\|תִּרְאִי֙]]&#8207; </big>**| tir.'I<small><sup>[[HVqi2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

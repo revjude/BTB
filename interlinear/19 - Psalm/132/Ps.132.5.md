@@ -1,4 +1,4 @@
-**Psalms 132:5** 
+**Psalms 132:5**<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Until I find out a place for the LORD, an habitation for the mighty [God] of Jacob.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ until I find a place for the LORD, a dwelling for the Mighty One of Jacob.”
 > $\quad$ referenced by: [[Acts.7.46|Acts 7:46]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will find  |**<big>&#8207;[[H4672\|אֶמְצָ֣א]]&#8207; </big>**| 'em.Tza'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

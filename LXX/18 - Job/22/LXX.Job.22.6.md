@@ -1,10 +1,7 @@
 **LXX Job 22:6** 
 <small><sub>**LXX:**</sub></small>
 And you took security  of your brethren without cause, and you removed clothing of \[the\] naked. 
-<small><sub>**KJV:**</sub></small>
-For thou hast taken a pledge from thy brother for nought, and stripped the naked of their clothing.
-<small><sub>**BSB:**</sub></small>
-For you needlessly demanded security from your brothers and deprived the naked of their clothing.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.22.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.5|<< Job 22:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.7|Job 22:7 >>]]</td></tr></table>
 
 | Translation | Greek |

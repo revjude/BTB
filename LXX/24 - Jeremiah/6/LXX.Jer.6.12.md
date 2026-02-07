@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:12** 
 <small><sub>**LXX:**</sub></small>
 And their houses shall be transferred to others, with fields and  their wives together. For I will stretch out  my hand against the ones dwelling  this land, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And their houses shall be turned unto others, [with their] fields and wives together: for I will stretch out my hand upon the inhabitants of the land, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Their houses will be turned over to others, their fields and wives as well, for I will stretch out My hand against the inhabitants of the land,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.11|<< Jeremiah 6:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.13|Jeremiah 6:13 >>]]</td></tr></table>
 
 | Translation | Greek |

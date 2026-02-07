@@ -1,4 +1,4 @@
-**Exodus 4:31** 
+**Exodus 4:31**<big><big>[[Exod.4.27 The People Believe Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people believed: and when they heard that the LORD had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and they believed. And when they heard that the LORD had attended to the Israeli
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.30|<< Exodus 4:30]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.1|Exodus 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it believed  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H0539\|יַּאֲמֵ֖ן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Men<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֑ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

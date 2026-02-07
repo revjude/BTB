@@ -1,10 +1,7 @@
 **LXX Judges 10:3** 
 <small><sub>**LXX:**</sub></small>
 And rose up after him Jair the Gileadite; and he judged  Israel twenty and two years. 
-<small><sub>**KJV:**</sub></small>
-And after him arose Jair, a Gileadite, and judged Israel twenty and two years.
-<small><sub>**BSB:**</sub></small>
-Tola was followed by Jair the Gileadite, who judged Israel twenty-two years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.2|<< Judges 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.4|Judges 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

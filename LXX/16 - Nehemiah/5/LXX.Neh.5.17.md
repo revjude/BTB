@@ -1,10 +1,7 @@
 **LXX Nehemiah 5:17** 
 <small><sub>**LXX:**</sub></small>
 And the Jews, and the rulers \[were\] a hundred fifty men, and \[the ones\] coming to us from the nations  round about us \[were\] at my table. 
-<small><sub>**KJV:**</sub></small>
-Moreover [there were] at my table an hundred and fifty of the Jews and rulers, beside those that came unto us from among the heathen that [are] about us.
-<small><sub>**BSB:**</sub></small>
-There were 150 Jews and officials at my table, besides the guests from the surrounding nations.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.5.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.16|<< Nehemiah 5:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.5.18|Nehemiah 5:18 >>]]</td></tr></table>
 
 | Translation | Greek |

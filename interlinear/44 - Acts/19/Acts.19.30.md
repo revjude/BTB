@@ -1,12 +1,12 @@
-**Acts 19:30
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:30**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Paul would have entered in unto the people, the disciples suffered him not.
 <small><sub>**BSB:**</sub></small>
 Paul wanted to go before the assembly, but the disciples would not allow him.
 <small><sub>**Literal:**</sub></small>
 <the> Paul however intending to go in to the people not were allowing him the disciples;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.29|<< Acts 19:29]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.31|Acts 19:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Τοῦ]]</big>**  |Tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | Paul |**<big>[[G3972G\|Παύλου]]</big>**  |Paulou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |

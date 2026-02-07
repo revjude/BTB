@@ -1,4 +1,4 @@
-**Psalms 140:11** (140:12)
+**Psalms 140:11**<big><big>[[Ps.140.1 Rescue Me from Evil Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let not an evil speaker be established in the earth: evil shall hunt the violent man to overthrow [him].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May no slanderer be established in the land; may calamity hunt down the man of v
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.10|<< Psalms 140:10]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.12|Psalms 140:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a person of  |**<big>&#8207;[[H0376G\|אִ֥ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | tongue  |**<big>&#8207;[[H3956G\|לָשׁוֹן֮]]&#8207; </big>**| la.shOn<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

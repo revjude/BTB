@@ -1,10 +1,7 @@
 **LXX Job 34:15** 
 <small><sub>**LXX:**</sub></small>
 all flesh would come to an end with one accord. Every mortal shall go forth into \[the\] earth from where even he was shaped. 
-<small><sub>**KJV:**</sub></small>
-All flesh shall perish together, and man shall turn again unto dust.
-<small><sub>**BSB:**</sub></small>
-all flesh would perish together and mankind would return to the dust.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.34.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.34.14|<< Job 34:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.34.16|Job 34:16 >>]]</td></tr></table>
 
 | Translation | Greek |

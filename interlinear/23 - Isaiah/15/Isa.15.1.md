@@ -1,4 +1,4 @@
-**Isaiah 15:1** 
+**Isaiah 15:1**<big><big>[[Isa.15.1 The Burden against Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of Moab. Because in the night Ar of Moab is laid waste, [and] brought to silence; because in the night Kir of Moab is laid waste, [and] brought to silence;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the burden against Moab: Ar in Moab is ruined, destroyed in a night! Kir
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.32|<< Isaiah 14:32]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.2|Isaiah 15:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] oracle of  |**<big>&#8207;[[H4853B\|מַשָּׂ֖א]]&#8207; </big>**| ma.Sa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moab  |**<big>&#8207;[[H4124G\|מוֹאָ֑ב]]&#8207; </big>**| mo.'Av<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 44:18** 
+**Ezekiel 44:18**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall have linen bonnets upon their heads, and shall have linen breeches upon their loins; they shall not gird [themselves] with any thing that causeth sweat.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are to wear linen turbans on their heads and linen undergarments around the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.17|<< Ezekiel 44:17]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.19|Ezekiel 44:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | head-dresses of  |**<big>&#8207;[[H6287\|פַּאֲרֵ֤י]]&#8207; </big>**| pa.'a.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | linen\<s>  |**<big>&#8207;[[H6593\|פִשְׁתִּים֙]]&#8207; </big>**| fish.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

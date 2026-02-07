@@ -1,4 +1,4 @@
-**Genesis 17:8** 
+**Genesis 17:8**<big><big>[[Gen.17.1 Abraham to Father Many Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will give unto thee, and to thy seed after thee, the land wherein thou art a stranger, all the land of Canaan, for an everlasting possession; and I will be their God.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And to you and your descendants I will give the land where you are residing—al
 > $\quad$ referenced by: [[Acts.7.5|Acts 7:5]] ☩ [[Gal.3.16|Gal 3:16-17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will give  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתַתִּ֣י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H9005\|לְ֠]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

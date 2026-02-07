@@ -1,4 +1,4 @@
-**Genesis 2:22** 
+**Genesis 2:22**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And from the rib that the LORD God had taken from the man, He made a woman and b
 > $\quad$ referenced by: [[1Tim.2.13|1Tim 2:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he built  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|יִּבֶן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ven<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

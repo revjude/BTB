@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:14** 
 <small><sub>**LXX:**</sub></small>
 And among the prophets of Jerusalem I have seen causes for shuddering -- committing adultery and going by lies, and taking hold of hands of wicked ones  \[for\] each to not be turned from  his wicked way. all became to me as Sodom, and the ones dwelling in it as Gomorrah. 
-<small><sub>**KJV:**</sub></small>
-I have seen also in the prophets of Jerusalem an horrible thing: they commit adultery, and walk in lies: they strengthen also the hands of evildoers, that none doth return from his wickedness: they are all of them unto me as Sodom, and the inhabitants thereof as Gomorrah.
-<small><sub>**BSB:**</sub></small>
-And among the prophets of Jerusalem I have seen a horrible thing: They commit adultery and walk in lies. They strengthen the hands of evildoers, so that no one turns his back on wickedness. They are all like Sodom to Me; the people of Jerusalem are like Gomorrah.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.13|<< Jeremiah 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.15|Jeremiah 23:15 >>]]</td></tr></table>
 
 | Translation | Greek |

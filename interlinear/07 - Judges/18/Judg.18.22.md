@@ -1,4 +1,4 @@
-**Judges 18:22** 
+**Judges 18:22**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] when they were a good way from the house of Micah, the men that [were] in the houses near to Micah’s house were gathered together, and overtook the children of Dan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After they were some distance from Micah’s house, the men in the houses near M
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.21|<< Judges 18:21]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.23|Judges 18:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they  |**<big>&#8207;[[H1992\|הֵ֥מָּה]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they had gone far away  |**<big>&#8207;[[H7368\|הִרְחִ֖יקוּ]]&#8207; </big>**| hir.Chi.ku<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

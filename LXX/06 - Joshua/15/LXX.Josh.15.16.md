@@ -1,10 +1,7 @@
 **LXX Joshua 15:16** 
 <small><sub>**LXX:**</sub></small>
 And Caleb said, Who ever should take the City  of Letters, and should dominate it, I will give to him  Achsah my daughter for a wife. 
-<small><sub>**KJV:**</sub></small>
-And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife.
-<small><sub>**BSB:**</sub></small>
-And Caleb said, “To the man who strikes down Kiriath-sepher and captures it, I will give my daughter Acsah in marriage.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.15.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.15|<< Joshua 15:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.17|Joshua 15:17 >>]]</td></tr></table>
 
 | Translation | Greek |

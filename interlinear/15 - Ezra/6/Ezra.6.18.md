@@ -1,4 +1,4 @@
-**Ezra 6:18** 
+**Ezra 6:18**<big><big>[[Ezra.6.16 Dedication of the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they set the priests in their divisions, and the Levites in their courses, for the service of God, which [is] at Jerusalem; as it is written in the book of Moses.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They also appointed the priests by their divisions and the Levites by their grou
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.17|<< Ezra 6:17]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.19|Ezra 6:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they appointed  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6966I\|הֲקִ֨ימוּ]]&#8207; </big>**| va.<small><sup>[[AC]]</sup></small> ha.Ki.mu<small><sup>[[AVhp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | priests the  |**<big>&#8207;[[H3549\|כָהֲנַיָּ֜]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| kha.ha.nai.Ya<small><sup>[[ANcmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

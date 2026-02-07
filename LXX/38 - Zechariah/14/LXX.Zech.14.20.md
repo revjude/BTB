@@ -1,10 +1,7 @@
 **LXX Zechariah 14:20** 
 <small><sub>**LXX:**</sub></small>
 In  that day there will be  upon the bridle of the horse, Holy to the <span class="smallcaps">lord</span> Almighty. And the kettles in the house \[of the\] <span class="smallcaps">lord</span> will be as bowls before \[the\] face of the altar. 
-<small><sub>**KJV:**</sub></small>
-In that day shall there be upon the bells of the horses, HOLINESS UNTO THE LORD; and the pots in the LORD’S house shall be like the bowls before the altar.
-<small><sub>**BSB:**</sub></small>
-On that day, HOLY TO THE LORD will be inscribed on the bells of the horses, and the cooking pots in the house of the LORD will be like the sprinkling bowls before the altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.14.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.19|<< Zechariah 14:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.21|Zechariah 14:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 14:16** 
 <small><sub>**LXX:**</sub></small>
 And David did as God gave charge to him. And he struck the camp of the Philistines from Gibeon unto Gezer. 
-<small><sub>**KJV:**</sub></small>
-David therefore did as God commanded him: and they smote the host of the Philistines from Gibeon even to Gazer.
-<small><sub>**BSB:**</sub></small>
-So David did as God had commanded him, and they struck down the army of the Philistines all the way from Gibeon to Gezer.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.14.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.14.15|<< 1 Chronicles 14:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.14.17|1 Chronicles 14:17 >>]]</td></tr></table>
 
 | Translation | Greek |

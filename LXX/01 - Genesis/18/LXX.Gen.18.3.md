@@ -1,10 +1,7 @@
 **LXX Genesis 18:3** 
 <small><sub>**LXX:**</sub></small>
 And he said, O Lord, if surely I found favor before you, you should not go by  your servant. 
-<small><sub>**KJV:**</sub></small>
-And said, My Lord, if now I have found favour in thy sight, pass not away, I pray thee, from thy servant:
-<small><sub>**BSB:**</sub></small>
-“My lord,” said Abraham, “if I have found favor in your sight, please do not pass your servant by.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.2|<< Genesis 18:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.18.4|Genesis 18:4 >>]]</td></tr></table>
 
 | Translation | Greek |

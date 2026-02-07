@@ -1,4 +1,4 @@
-**Job 34:26** 
+**Job 34:26**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He striketh them as wicked men in the open sight of others;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He strikes them for their wickedness in full view,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.25|<< Job 34:25]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.27|Job 34:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in place of  |**<big>&#8207;[[H8478J\|תַּֽחַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ta.chat-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wicked [people]  |**<big>&#8207;[[H7563\|רְשָׁעִ֥ים]]&#8207; </big>**| re.sha.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

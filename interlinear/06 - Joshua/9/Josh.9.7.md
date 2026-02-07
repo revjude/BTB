@@ -1,4 +1,4 @@
-**Joshua 9:7** 
+**Joshua 9:7**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Israel said unto the Hivites, Peradventure ye dwell among us; and how shall we make a league with you?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But the men of Israel said to the Hivites, “Perhaps you dwell near us. How can
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.6|<< Joshua 9:6]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.8|Joshua 9:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  [^2]|**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**[^3] | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | [the] man of  |**<big>&#8207;[[H0376G\|אִֽישׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ish-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

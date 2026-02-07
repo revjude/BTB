@@ -1,10 +1,7 @@
 **LXX Exodus 13:14** 
 <small><sub>**LXX:**</sub></small>
 And if your son should ask you about these, saying, What \[is\] this? And you shall say to him, that, With a fortified hand \[the\] <span class="smallcaps">lord</span> led you out of \[the\] land of Egypt, from out of \[the\] house of slavery. 
-<small><sub>**KJV:**</sub></small>
-And it shall be when thy son asketh thee in time to come, saying, What [is] this? that thou shalt say unto him, By strength of hand the LORD brought us out from Egypt, from the house of bondage:
-<small><sub>**BSB:**</sub></small>
-In the future, when your son asks you, ‘What does this mean?’ you are to tell him, ‘With a mighty hand the LORD brought us out of Egypt, out of the house of slavery.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.13|<< Exodus 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.15|Exodus 13:15 >>]]</td></tr></table>
 
 | Translation | Greek |

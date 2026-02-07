@@ -1,10 +1,7 @@
 **LXX Exodus 13:8** 
 <small><sub>**LXX:**</sub></small>
 And you shall announce \[to\] your son in  that day, saying, Concerning this \[the\] <span class="smallcaps">lord</span> God did to me as I went forth from out of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt shew thy son in that day, saying, [This is done] because of that [which] the LORD did unto me when I came forth out of Egypt.
-<small><sub>**BSB:**</sub></small>
-And on that day you are to explain to your son, ‘This is because of what the LORD did for me when I came out of Egypt.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.13.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.7|<< Exodus 13:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.13.9|Exodus 13:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 27:33** 
 <small><sub>**LXX:**</sub></small>
 And Isaac was amazed \[with an\] exceedingly great change of state. And he said, Who then \[is\] the \[one\] hunting game for me, and carrying it in to me? And I ate from all before  your coming, and blessed him, and a blessing let it be! 
-<small><sub>**KJV:**</sub></small>
-And Isaac trembled very exceedingly, and said, Who? where [is] he that hath taken venison, and brought [it] me, and I have eaten of all before thou camest, and have blessed him? yea, [and] he shall be blessed.
-<small><sub>**BSB:**</sub></small>
-Isaac began to tremble violently and said, “Who was it, then, who hunted the game and brought it to me? Before you came in, I ate it all and blessed him—and indeed, he will be blessed!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.27.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.27.32|<< Genesis 27:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.27.34|Genesis 27:34 >>]]</td></tr></table>
 
 | Translation | Greek |

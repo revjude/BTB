@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:26** 
 <small><sub>**LXX:**</sub></small>
 And now, O <span class="smallcaps">lord</span>  God of Israel, trustworthy indeed  \[is\] your word \[to\] David  my father. 
-<small><sub>**KJV:**</sub></small>
-And now, O God of Israel, let thy word, I pray thee, be verified, which thou spakest unto thy servant David my father.
-<small><sub>**BSB:**</sub></small>
-And now, O God of Israel, please confirm what You promised to Your servant, my father David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.25|<< 1 Kings 8:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.27|1 Kings 8:27 >>]]</td></tr></table>
 
 | Translation | Greek |

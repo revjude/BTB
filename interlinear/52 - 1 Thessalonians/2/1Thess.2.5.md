@@ -1,12 +1,12 @@
-**1 Thessalonians 2:5
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 2:5**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For neither at any time used we flattering words, as ye know, nor a cloke of covetousness; God [is] witness:
 <small><sub>**BSB:**</sub></small>
 As you know, we never used words of flattery or any pretext for greed. God is our witness!
 <small><sub>**Literal:**</sub></small>
 Never for at any time with word of flattery were we, even as you know, nor with a pretext for greed — God [is] witness —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.4|<< 1 Thessalonians 2:4]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.6|1 Thessalonians 2:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Never |**<big>[[G3777\|οὔτε]]</big>**  |oute <small><sup>[[CONJ-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γάρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

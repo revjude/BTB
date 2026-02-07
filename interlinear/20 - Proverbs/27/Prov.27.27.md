@@ -1,4 +1,4 @@
-**Proverbs 27:27** 
+**Proverbs 27:27**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [thou shalt have] goats’ milk enough for thy food, for the food of thy household, and [for] the maintenance for thy maidens.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You will have plenty of goats’ milk to feed you—food for your household and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.26|<< Proverbs 27:26]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.1|Proverbs 28:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a sufficiency of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1767\|דֵ֤י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Dei<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] milk of  |**<big>&#8207;[[H2461\|חֲלֵ֬ב]]&#8207; </big>**| cha.Lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

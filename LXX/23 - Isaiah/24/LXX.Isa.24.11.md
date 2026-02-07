@@ -1,10 +1,7 @@
 **LXX Isaiah 24:11** 
 <small><sub>**LXX:**</sub></small>
 Shriek for the wine everywhere! All gladness of the earth has ceased; all gladness of the earth departed; 
-<small><sub>**KJV:**</sub></small>
-[There is] a crying for wine in the streets; all joy is darkened, the mirth of the land is gone.
-<small><sub>**BSB:**</sub></small>
-In the streets they cry out for wine. All joy turns to gloom; rejoicing is exiled from the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.24.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.10|<< Isaiah 24:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.12|Isaiah 24:12 >>]]</td></tr></table>
 
 | Translation | Greek |

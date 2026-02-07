@@ -1,4 +1,4 @@
-**Habakkuk 2:12** 
+**Habakkuk 2:12**<big><big>[[Hab.2.6 Woe to the Chaldeans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to him who builds a city with bloodshed and establishes a town by iniquity!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.11|<< Habakkuk 2:11]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.13|Habakkuk 2:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֛וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] builds  |**<big>&#8207;[[H1129\|בֹּנֶ֥ה]]&#8207; </big>**| bo.Neh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

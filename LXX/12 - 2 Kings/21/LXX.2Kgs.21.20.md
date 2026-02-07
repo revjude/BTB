@@ -1,10 +1,7 @@
 **LXX 2 Kings 21:20** 
 <small><sub>**LXX:**</sub></small>
 And he did the wicked \[thing\] in \[the\] eyes of \[the\] <span class="smallcaps">lord</span>, as Manasseh his father did. 
-<small><sub>**KJV:**</sub></small>
-And he did [that which was] evil in the sight of the LORD, as his father Manasseh did.
-<small><sub>**BSB:**</sub></small>
-And he did evil in the sight of the LORD, as his father Manasseh had done.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.21.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.21.19|<< 2 Kings 21:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.21.21|2 Kings 21:21 >>]]</td></tr></table>
 
 | Translation | Greek |

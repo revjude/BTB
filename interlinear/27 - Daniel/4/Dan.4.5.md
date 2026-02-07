@@ -1,4 +1,4 @@
-**Daniel 4:5** (4:2)
+**Daniel 4:5**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I saw a dream which made me afraid, and the thoughts upon my bed and the visions of my head troubled me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I had a dream, and it frightened me; while I was in my bed, the images and visio
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.4|<< Daniel 4:4]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.6|Daniel 4:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a dream  |**<big>&#8207;[[H2493\|חֵ֥לֶם]]&#8207; </big>**| Che.lem<small><sup>[[ANcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I saw  |**<big>&#8207;[[H2370\|חֲזֵ֖ית]]&#8207; </big>**| cha.Zeit<small><sup>[[AVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Zechariah 1:6** 
 <small><sub>**LXX:**</sub></small>
 Furthermore  do you receive my words and my laws, as many as I give charge by my spirit \[to\] my servants the prophets, the ones overtaking  your fathers? And they answered and said, As \[the\] <span class="smallcaps">lord</span> of the forces deployed  to do to us according to  our ways, and according to  our practices, so he did to us. 
-<small><sub>**KJV:**</sub></small>
-But my words and my statutes, which I commanded my servants the prophets, did they not take hold of your fathers? and they returned and said, Like as the LORD of hosts thought to do unto us, according to our ways, and according to our doings, so hath he dealt with us.
-<small><sub>**BSB:**</sub></small>
-But did not My words and My statutes, which I commanded My servants the prophets, overtake your fathers? They repented and said, ‘Just as the LORD of Hosts purposed to do to us according to our ways and deeds, so He has done to us.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.1.5|<< Zechariah 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.1.7|Zechariah 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

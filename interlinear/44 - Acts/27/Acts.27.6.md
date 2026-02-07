@@ -1,12 +1,12 @@
-**Acts 27:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:6**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there the centurion found a ship of Alexandria sailing into Italy; and he put us therein.
 <small><sub>**BSB:**</sub></small>
 There the centurion found an Alexandrian ship sailing for Italy and put us on board.
 <small><sub>**Literal:**</sub></small>
 And there having found the centurion a ship of Alexandria sailing to <the> Italy he placed us into it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.5|<< Acts 27:5]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.7|Acts 27:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And there |**<big>[[G2532\|κἀκεῖ]]</big>**  |kakei <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having found |**<big>[[G2147\|εὑρὼν]]</big>**  |heurōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

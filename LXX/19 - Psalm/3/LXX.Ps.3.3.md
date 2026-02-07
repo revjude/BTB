@@ -1,10 +1,7 @@
 **LXX Psalm 3:3** 
 <small><sub>**LXX:**</sub></small>
 But you, O <span class="smallcaps">lord</span>, are my shielder, my glory, and \[the\] one raising up  my head. 
-<small><sub>**KJV:**</sub></small>
-But thou, O LORD, [art] a shield for me; my glory, and the lifter up of mine head.
-<small><sub>**BSB:**</sub></small>
-But You, O LORD, are a shield around me, my glory, and the One who lifts my head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.3.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.3.2|<< Psalm 3:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.3.4|Psalm 3:4 >>]]</td></tr></table>
 
 | Translation | Greek |

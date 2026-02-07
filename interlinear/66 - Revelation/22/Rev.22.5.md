@@ -1,5 +1,5 @@
-**Revelation 22:5
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:5**<big><big>[[Rev.22.1 The River of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.
 <small><sub>**BSB:**</sub></small>
 There will be no more night in the city, and they will have no need for the light of a lamp or of the sun. For the Lord God will shine on them, and they will reign forever and ever.
@@ -10,7 +10,7 @@ And night not there will be still, and not they have need of [the] light of a la
 > $\quad$ alluding to: [[LXX.Isa.24.23|Isa 24:23]] ☩ [[LXX.Isa.60.19|Isa 60:19]] ☩ [[LXX.Ezek.48.35|Ezek 48:35]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | night |**<big>[[G3571\|νὺξ]]</big>**  |nux <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Luke 6:6
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:6**<big><big>[[Luke.6.6 Jesus Heals on the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it came to pass also on another sabbath, that he entered into the synagogue and taught: and there was a man whose right hand was withered.
 <small><sub>**BSB:**</sub></small>
 On another Sabbath Jesus entered the synagogue and was teaching, and a man was there whose right hand was withered.
 <small><sub>**Literal:**</sub></small>
 It came to pass then and on another Sabbath entering He into the synagogue and teaching; and there was a man there and the hand of him the right was withered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.5|<< Luke 6:5]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.7|Luke 6:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It came to pass |**<big>[[G1096\|Ἐγένετο]]</big>**  |Egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

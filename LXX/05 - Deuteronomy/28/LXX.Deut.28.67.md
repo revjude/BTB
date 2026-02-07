@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:67** 
 <small><sub>**LXX:**</sub></small>
 In the morning you shall say, O how that it might become evening. And in the evening you shall say, O how that it might become morning; from the fear  of your heart of which you shall have fear, and from the visions  of your eyes which you shall see. 
-<small><sub>**KJV:**</sub></small>
-In the morning thou shalt say, Would God it were even! and at even thou shalt say, Would God it were morning! for the fear of thine heart wherewith thou shalt fear, and for the sight of thine eyes which thou shalt see.
-<small><sub>**BSB:**</sub></small>
-In the morning you will say, ‘If only it were evening!’ and in the evening you will say, ‘If only it were morning!’—because of the dread in your hearts of the terrifying sights you will see.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.67|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.66|<< Deuteronomy 28:66]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.68|Deuteronomy 28:68 >>]]</td></tr></table>
 
 | Translation | Greek |

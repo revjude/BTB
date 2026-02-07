@@ -1,12 +1,12 @@
-**Luke 15:25
-**<small><sub>**KJV:**</sub></small>
+**Luke 15:25**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing.
 <small><sub>**BSB:**</sub></small>
 Meanwhile the older son was in the field, and as he approached the house, he heard music and dancing.
 <small><sub>**Literal:**</sub></small>
 Was now the son of him the elder in [the] field. and while coming [up] he drew near to the house, he heard music and dancing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.24|<< Luke 15:24]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.26|Luke 15:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was |**<big>[[G1510\|Ἦν]]</big>**  |Ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

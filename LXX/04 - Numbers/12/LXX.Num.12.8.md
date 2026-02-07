@@ -1,10 +1,7 @@
 **LXX Numbers 12:8** 
 <small><sub>**LXX:**</sub></small>
 Mouth to mouth I will speak to him in sight, and not through enigmas; even he saw the glory \[of the\] <span class="smallcaps">lord</span>. And why were you not afraid to speak ill against  my attendant Moses? 
-<small><sub>**KJV:**</sub></small>
-With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the LORD shall he behold: wherefore then were ye not afraid to speak against my servant Moses?
-<small><sub>**BSB:**</sub></small>
-I speak with him face to face, clearly and not in riddles; he sees the form of the LORD. Why then were you unafraid to speak against My servant Moses?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.12.7|<< Numbers 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.9|Numbers 12:9 >>]]</td></tr></table>
 
 | Translation | Greek |

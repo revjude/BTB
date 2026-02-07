@@ -1,5 +1,5 @@
-**Luke 4:4
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:4**<big><big>[[Luke.4.1 The Temptation of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answered him, saying, It is written, That man shall not live by bread alone, but by every word of God.
 <small><sub>**BSB:**</sub></small>
 But Jesus answered, “It is written: ‘Man shall not live on bread alone.’”
@@ -10,7 +10,7 @@ And answered to him <the> Jesus saying: It has been written that Not on bread al
 > $\quad$ referencing: [[LXX.Deut.8.3|Deut 8:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answered |**<big>[[G0611\|ἀπεκρίθη]]</big>**  |apekrithē <small><sup>[[V-ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

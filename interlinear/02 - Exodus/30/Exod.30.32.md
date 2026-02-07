@@ -1,4 +1,4 @@
-**Exodus 30:32** 
+**Exodus 30:32**<big><big>[[Exod.30.22 The Anointing Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Upon man’s flesh shall it not be poured, neither shall ye make [any other] like it, after the composition of it: it [is] holy, [and] it shall be holy unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It must not be used to anoint an ordinary man, and you must not make anything li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.31|<< Exodus 30:31]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.33|Exodus 30:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] body of  |**<big>&#8207;[[H1320\|בְּשַׂ֤ר]]&#8207; </big>**| be.Sar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

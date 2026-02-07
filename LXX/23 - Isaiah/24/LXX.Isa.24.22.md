@@ -1,10 +1,7 @@
 **LXX Isaiah 24:22** 
 <small><sub>**LXX:**</sub></small>
 And they shall gather its congregation, and shall lock \[them\] into a fortress and in a jail; through many generations they will be visited. 
-<small><sub>**KJV:**</sub></small>
-And they shall be gathered together, [as] prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited.
-<small><sub>**BSB:**</sub></small>
-They will be gathered together like prisoners in a pit. They will be confined to a dungeon and punished after many days.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.24.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.21|<< Isaiah 24:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.23|Isaiah 24:23 >>]]</td></tr></table>
 
 | Translation | Greek |

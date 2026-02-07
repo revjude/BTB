@@ -1,4 +1,4 @@
-**Ezekiel 48:15** 
+**Ezekiel 48:15**<big><big>[[Ezek.48.15 The Common Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the five thousand, that are left in the breadth over against the five and twenty thousand, shall be a profane [place] for the city, for dwelling, and for suburbs: and the city shall be in the midst thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The remaining area, 5,000 cubits wide and 25,000 cubits long, will be for common
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.14|<< Ezekiel 48:14]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.16|Ezekiel 48:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and five  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמֵ֨שֶׁת]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.Me.shet<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand [cubits]  |**<big>&#8207;[[H0505G\|אֲלָפִ֜ים]]&#8207; </big>**| 'a.la.Fim<small><sup>[[HAcbpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

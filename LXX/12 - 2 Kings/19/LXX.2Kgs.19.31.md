@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:31** 
 <small><sub>**LXX:**</sub></small>
 For from out of Jerusalem shall come forth a vestige, and \[the\] one rescuing from out of mount Zion. The zeal of \[the\] <span class="smallcaps">lord</span> of the forces shall do this. 
-<small><sub>**KJV:**</sub></small>
-For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the LORD [of hosts] shall do this.
-<small><sub>**BSB:**</sub></small>
-For a remnant will go forth from Jerusalem, and survivors from Mount Zion. The zeal of the LORD of Hosts will accomplish this.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.30|<< 2 Kings 19:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.32|2 Kings 19:32 >>]]</td></tr></table>
 
 | Translation | Greek |

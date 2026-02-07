@@ -1,10 +1,7 @@
 **LXX Isaiah 57:13** 
 <small><sub>**LXX:**</sub></small>
 Whenever you should yell out, \[then\] let them rescue you in  your affliction! For all these \[things\] \[the\] wind shall take, and \[the\] gale shall carry away. But the ones holding on in me shall acquire \[the\] earth, and they shall inherit  my holy mountain. 
-<small><sub>**KJV:**</sub></small>
-When thou criest, let thy companies deliver thee; but the wind shall carry them all away; vanity shall take [them]: but he that putteth his trust in me shall possess the land, and shall inherit my holy mountain;
-<small><sub>**BSB:**</sub></small>
-When you cry out, let your companies of idols deliver you! Yet the wind will carry off all of them, a breath will take them away. But he who seeks refuge in Me will inherit the land and possess My holy mountain.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.57.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.57.12|<< Isaiah 57:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.57.14|Isaiah 57:14 >>]]</td></tr></table>
 
 | Translation | Greek |

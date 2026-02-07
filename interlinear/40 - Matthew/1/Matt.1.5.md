@@ -1,5 +1,5 @@
-**Matthew 1:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 1:5**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;
 <small><sub>**BSB:**</sub></small>
 Salmon was the father of Boaz by Rahab, Boaz the father of Obed by Ruth, Obed the father of Jesse,
@@ -10,7 +10,7 @@ Salmon then begat <the> Boaz out of <the> Rahab; Boaz then begat <the> Obed out 
 > $\quad$ referencing: [[LXX.Ruth.4.18|Ruth 4:18-22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Salmon |**<big>[[G4533\|Σαλμὼν]]</big>**  |Salmōn <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**John 10:23
-**<small><sub>**KJV:**</sub></small>
+**John 10:23**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus walked in the temple in Solomon’s porch.
 <small><sub>**BSB:**</sub></small>
 and Jesus was walking in the temple courts in Solomon’s Colonnade.
 <small><sub>**Literal:**</sub></small>
 and was walking <the> Jesus in the temple in the porch <the> of Solomon.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.22|<< John 10:22]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.24|John 10:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was walking |**<big>[[G4043\|περιεπάτει]]</big>**  |periepatei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

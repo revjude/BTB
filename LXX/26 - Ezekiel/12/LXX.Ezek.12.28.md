@@ -1,10 +1,7 @@
 **LXX Ezekiel 12:28** 
 <small><sub>**LXX:**</sub></small>
 On account of this, say to them! Thus says Adonai \[the\] <span class="smallcaps">lord</span>; I shall not lengthen any longer all  my words which ever I should speak, for I shall speak a word, and I shall act, says Adonai \[the\] <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-Therefore say unto them, Thus saith the Lord GOD; There shall none of my words be prolonged any more, but the word which I have spoken shall be done, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-Therefore tell them that this is what the Lord GOD says: ‘None of My words will be delayed any longer. The message I speak will be fulfilled, declares the Lord GOD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.12.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.27|<< Ezekiel 12:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.1|Ezekiel 13:1 >>]]</td></tr></table>
 
 | Translation | Greek |

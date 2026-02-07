@@ -1,10 +1,7 @@
 **LXX Proverbs 6:31** 
 <small><sub>**LXX:**</sub></small>
 but if he should be captured he shall pay seven-fold, and shall rescue himself \[by\] giving all his possessions. 
-<small><sub>**KJV:**</sub></small>
-But [if] he be found, he shall restore sevenfold; he shall give all the substance of his house.
-<small><sub>**BSB:**</sub></small>
-Yet if caught, he must pay sevenfold; he must give up all the wealth of his house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.6.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.30|<< Proverbs 6:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.32|Proverbs 6:32 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 25:14** 
+**Exodus 25:14**<big><big>[[Exod.25.10 The Ark of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put the staves into the rings by the sides of the ark, that the ark may be borne with them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Insert the poles into the rings on the sides of the ark, in order to carry it.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.13|<< Exodus 25:13]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.15|Exodus 25:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0935P\|הֵֽבֵאתָ֤]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.ve.Ta<small><sup>[[HVhq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

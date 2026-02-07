@@ -1,12 +1,12 @@
-**1 Thessalonians 5:18
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 5:18**<big><big>[[1Thess.5.12 Christian Living|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In every thing give thanks: for this is the will of God in Christ Jesus concerning you.
 <small><sub>**BSB:**</sub></small>
 Give thanks in every circumstance, for this is God’s will for you in Christ Jesus.
 <small><sub>**Literal:**</sub></small>
 In everything do give thanks; this for [is the] will of God in Christ Jesus toward you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.17|<< 1 Thessalonians 5:17]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.19|1 Thessalonians 5:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | everything |**<big>[[G3956\|παντὶ]]</big>**  |panti <small><sup>[[A-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

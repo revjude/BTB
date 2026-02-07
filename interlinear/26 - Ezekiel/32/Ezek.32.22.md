@@ -1,4 +1,4 @@
-**Ezekiel 32:22** 
+**Ezekiel 32:22**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Asshur [is] there and all her company: his graves [are] about him: all of them slain, fallen by the sword:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Assyria is there with her whole company; her graves are all around her. All of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.21|<< Ezekiel 32:21]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.23|Ezekiel 32:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] there  |**<big>&#8207;[[H8033G\|שָׁ֤ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Assyria  |**<big>&#8207;[[H0804G\|אַשּׁוּר֙]]&#8207; </big>**| 'a.Shur<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

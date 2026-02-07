@@ -1,10 +1,7 @@
 **LXX Proverbs 28:2** 
 <small><sub>**LXX:**</sub></small>
 Because of \[the\] sins of \[the\] impious, litigations arise; but a clever man extinguishes them. 
-<small><sub>**KJV:**</sub></small>
-For the transgression of a land many [are] the princes thereof: but by a man of understanding [and] knowledge the state [thereof] shall be prolonged.
-<small><sub>**BSB:**</sub></small>
-A land in rebellion has many rulers, but a man of understanding and knowledge maintains order.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.1|<< Proverbs 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.3|Proverbs 28:3 >>]]</td></tr></table>
 
 | Translation | Greek |

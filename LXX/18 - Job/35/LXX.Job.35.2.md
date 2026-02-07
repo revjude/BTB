@@ -1,10 +1,7 @@
 **LXX Job 35:2** 
 <small><sub>**LXX:**</sub></small>
 What \[is\] this you esteem in equity? You, who are you, that you said, I am righteous before \[the\] <span class="smallcaps">lord</span>? 
-<small><sub>**KJV:**</sub></small>
-Thinkest thou this to be right, [that] thou saidst, My righteousness [is] more than God’s?
-<small><sub>**BSB:**</sub></small>
-“Do you think this is just? You say, ‘I am more righteous than God.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.35.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.35.1|<< Job 35:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.35.3|Job 35:3 >>]]</td></tr></table>
 
 | Translation | Greek |

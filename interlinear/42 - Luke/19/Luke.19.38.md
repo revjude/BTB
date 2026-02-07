@@ -1,5 +1,5 @@
-**Luke 19:38
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:38**<big><big>[[Luke.19.28 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Saying, Blessed [be] the King that cometh in the name of the Lord: peace in heaven, and glory in the highest.
 <small><sub>**BSB:**</sub></small>
 “Blessed is the King who comes in the name of the Lord!” “Peace in heaven and glory in the highest!”
@@ -10,7 +10,7 @@ saying: Blessed [is] the coming <the> King in [the] name of [the] Lord; In heave
 > $\quad$ referencing: [[LXX.Ps.118.26|Ps 118:26]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | saying: |**<big>[[G3004G\|λέγοντες·]]</big>**  |legontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Blessed [is] |**<big>[[G2127\|εὐλογημένος]]</big>**  |eulogēmenos <small><sup>[[V-RPP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

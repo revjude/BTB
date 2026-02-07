@@ -1,10 +1,7 @@
 **LXX Deuteronomy 23:4** 
 <small><sub>**LXX:**</sub></small>
 for reason  of their not meeting with you with bread loaves and water in the way, of your going forth from Egypt; and that they hired against you  Balaam son of Beor from out of  Mesopotamia to curse you. 
-<small><sub>**KJV:**</sub></small>
-Because they met you not with bread and with water in the way, when ye came forth out of Egypt; and because they hired against thee Balaam the son of Beor of Pethor of Mesopotamia, to curse thee.
-<small><sub>**BSB:**</sub></small>
-For they did not meet you with food and water on your way out of Egypt, and they hired Balaam son of Beor from Pethor in Aram-naharaim to curse you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.23.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.23.3|<< Deuteronomy 23:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.23.5|Deuteronomy 23:5 >>]]</td></tr></table>
 
 | Translation | Greek |

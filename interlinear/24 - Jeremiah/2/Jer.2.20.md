@@ -1,4 +1,4 @@
-**Jeremiah 2:20** 
+**Jeremiah 2:20**<big><big>[[Jer.2.14 The Consequence of Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For of old time I have broken thy yoke, [and] burst thy bands; and thou saidst, I will not transgress; when upon every high hill and under every green tree thou wanderest, playing the harlot.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For of old time I have broken thy yoke, [and] burst thy bands; and thou saidst, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.19|<< Jeremiah 2:19]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.21|Jeremiah 2:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from long ago  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5769J\|עוֹלָ֞ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

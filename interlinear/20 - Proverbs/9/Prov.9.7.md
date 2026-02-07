@@ -1,4 +1,4 @@
-**Proverbs 9:7** 
+**Proverbs 9:7**<big><big>[[Prov.9.1 The Way of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked [man getteth] himself a blot.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who corrects a mocker brings shame on himself; he who rebukes a wicked man ta
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.6|<< Proverbs 9:6]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.8|Proverbs 9:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] admonishes  |**<big>&#8207;[[H3256\|יֹ֤סֵ֨ר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| yo.Ser<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a mocker  |**<big>&#8207;[[H3887\|לֵ֗ץ]]&#8207; </big>**| Letz<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 14:8** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> hardened the heart of Pharaoh king of Egypt. And he pursued after the sons of Israel. But the sons of Israel went with a high hand. 
-<small><sub>**KJV:**</sub></small>
-And the LORD hardened the heart of Pharaoh king of Egypt, and he pursued after the children of Israel: and the children of Israel went out with an high hand.
-<small><sub>**BSB:**</sub></small>
-And the LORD hardened the heart of Pharaoh king of Egypt so that he pursued the Israelites, who were marching out defiantly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.7|<< Exodus 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.9|Exodus 14:9 >>]]</td></tr></table>
 
 | Translation | Greek |

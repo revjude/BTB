@@ -1,12 +1,12 @@
-**Mark 9:28
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:28**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he was come into the house, his disciples asked him privately, Why could not we cast him out?
 <small><sub>**BSB:**</sub></small>
 After Jesus had gone into the house, His disciples asked Him privately, “Why couldn’t we drive it out?”
 <small><sub>**Literal:**</sub></small>
 And when was entering He into a house the disciples of Him in private were asking Him; Why we ourselves not were able to cast out it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.27|<< Mark 9:27]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.29|Mark 9:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when was entering [^1] |**<big>[[G1525\|εἰσελθόντος]]</big>**  |eiselthontos <small><sup>[[V-2AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

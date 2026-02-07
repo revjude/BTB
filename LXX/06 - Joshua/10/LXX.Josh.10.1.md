@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And as Adoni-zedec \[the\] king of Jerusalem heard that Joshua took  Ai, and utterly destroyed it, in which manner he did  to Jericho and  her king, and thus they did also  to Ai and  her king, and that the ones dwelling in Gibeon deserted to Joshua and to Israel, and were in \[the\] midst of them; 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass, when Adonizedek king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them;
-<small><sub>**BSB:**</sub></small>
-Now Adoni-zedek king of Jerusalem heard that Joshua had captured Ai and devoted it to destruction—doing to Ai and its king as he had done to Jericho and its king—and that the people of Gibeon had made peace with Israel and were living near them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.27|<< Joshua 9:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.2|Joshua 10:2 >>]]</td></tr></table>
 
 | Translation | Greek |

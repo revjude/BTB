@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:15** 
 <small><sub>**LXX:**</sub></small>
 And he said to her, You know that to me was the kingdom, and upon me all Israel set  their face for king. And the kingdom was turned, and came to my brother; for by \[the\] <span class="smallcaps">lord</span> it was to him. 
-<small><sub>**KJV:**</sub></small>
-And he said, Thou knowest that the kingdom was mine, and [that] all Israel set their faces on me, that I should reign: howbeit the kingdom is turned about, and is become my brother’s: for it was his from the LORD.
-<small><sub>**BSB:**</sub></small>
-“You know that the kingship was mine,” he said. “All Israel expected that I should reign, but the kingship has turned to my brother, for it has come to him from the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.14|<< 1 Kings 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.16|1 Kings 2:16 >>]]</td></tr></table>
 
 | Translation | Greek |

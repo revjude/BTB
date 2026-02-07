@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:5** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when the man approached  to do obeisance to him, that he stretched out  his hand, and took hold of him, and kissed him. 
-<small><sub>**KJV:**</sub></small>
-And it was [so], that when any man came nigh [to him] to do him obeisance, he put forth his hand, and took him, and kissed him.
-<small><sub>**BSB:**</sub></small>
-Also, when anyone approached to bow down to him, Absalom would reach out his hand, take hold of him, and kiss him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.4|<< 2 Samuel 15:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.6|2 Samuel 15:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 6:55
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:55**<big><big>[[Mark.6.53 Jesus Heals at Gennesaret|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And ran through that whole region round about, and began to carry about in beds those that were sick, where they heard he was.
 <small><sub>**BSB:**</sub></small>
 and ran through that whole region, carrying the sick on mats to wherever they heard He was.
 <small><sub>**Literal:**</sub></small>
 they ran around all the region that and they began on the mats those sick being to carry about to wherever they were hearing that there He is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.54|<< Mark 6:54]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.56|Mark 6:56 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they ran around [^1] |**<big>[[G4063\|περιέδραμον]]</big>**  |periedramon <small><sup>[[V-AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | all |**<big>[[G3650\|ὅλην]]</big>**  |holēn <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

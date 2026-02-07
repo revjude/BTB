@@ -1,12 +1,12 @@
-**Luke 7:45
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:45**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet.
 <small><sub>**BSB:**</sub></small>
 You did not greet Me with a kiss, but she has not stopped kissing My feet since I arrived.
 <small><sub>**Literal:**</sub></small>
 A kiss to Me not you gave; she herself however from which [time] I came in not she has ceased kissing My <the> feet.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.44|<< Luke 7:44]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.46|Luke 7:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | A kiss |**<big>[[G5370\|φίλημά]]</big>**  |philēma <small><sup>[[N-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to Me |**<big>[[G3165\|μοι]]</big>**  |moi <small><sup>[[P-1DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

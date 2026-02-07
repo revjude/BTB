@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Moses spoke to the rulers of the tribes of \[the\] sons of Israel, saying, This is the saying which \[the\] <span class="smallcaps">lord</span> ordered. 
-<small><sub>**KJV:**</sub></small>
-And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This [is] the thing which the LORD hath commanded.
-<small><sub>**BSB:**</sub></small>
-Then Moses said to the heads of the tribes of Israel, “This is what the LORD has commanded:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.30.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.29.40|<< Numbers 29:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.2|Numbers 30:2 >>]]</td></tr></table>
 
 | Translation | Greek |

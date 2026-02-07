@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it shall be if you should not listen to the voice of \[the\] <span class="smallcaps">lord</span>  your God, to guard and to observe all  his commandments, as many as I give charge to you today, then shall come upon you all  these curses, and they shall overtake you. 
-<small><sub>**KJV:**</sub></small>
-But it shall come to pass, if thou wilt not hearken unto the voice of the LORD thy God, to observe to do all his commandments and his statutes which I command thee this day; that all these curses shall come upon thee, and overtake thee:
-<small><sub>**BSB:**</sub></small>
-If, however, you do not obey the LORD your God by carefully following all His commandments and statutes I am giving you today, all these curses will come upon you and overtake you:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.14|<< Deuteronomy 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.16|Deuteronomy 28:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 3:26
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:26**<big><big>[[Mark.3.20 A House Divided|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if Satan rise up against himself, and be divided, he cannot stand, but hath an end.
 <small><sub>**BSB:**</sub></small>
 And if Satan is divided and rises against himself, he cannot stand; his end has come.
 <small><sub>**Literal:**</sub></small>
 And if <the> Satan has risen up against himself and was divided, not he is able to stand but an end is coming to.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.25|<< Mark 3:25]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.27|Mark 3:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

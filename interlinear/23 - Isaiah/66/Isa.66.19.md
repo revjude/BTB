@@ -1,4 +1,4 @@
-**Isaiah 66:19** 
+**Isaiah 66:19**<big><big>[[Isa.66.15 Final Judgments against the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will set a sign among them, and I will send those that escape of them unto the nations, [to] Tarshish, Pul, and Lud, that draw the bow, [to] Tubal, and Javan, [to] the isles afar off, that have not heard my fame, neither have seen my glory; and they shall declare my glory among the Gentiles.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will establish a sign among them, and I will send survivors from among them to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.18|<< Isaiah 66:18]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.20|Isaiah 66:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will perform  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7760A\|שַׂמְתִּ֨י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sam.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among them  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H9038\|הֶ֜ם]]&#8207; </big>**| va.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

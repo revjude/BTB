@@ -1,10 +1,7 @@
 **LXX Isaiah 7:15** 
 <small><sub>**LXX:**</sub></small>
 Butter and honey he shall eat, before  he knows to prefer wicked or to choose the good. 
-<small><sub>**KJV:**</sub></small>
-Butter and honey shall he eat, that he may know to refuse the evil, and choose the good.
-<small><sub>**BSB:**</sub></small>
-By the time He knows enough to reject evil and choose good, He will be eating curds and honey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.7.14|<< Isaiah 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.16|Isaiah 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

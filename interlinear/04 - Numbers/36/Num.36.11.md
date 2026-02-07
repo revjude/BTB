@@ -1,4 +1,4 @@
-**Numbers 36:11** 
+**Numbers 36:11**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father’s brothers’ sons:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, were marr
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.10|<< Numbers 36:10]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.12|Numbers 36:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they belonged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|תִּהְיֶ֜ינָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tih.Yei.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Mahlah  |**<big>&#8207;[[H4244G\|מַחְלָ֣ה]]&#8207; </big>**| mach.Lah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 28:21** 
 <small><sub>**LXX:**</sub></small>
 As if a mountain of impious \[men\] \[the\] <span class="smallcaps">lord</span> shall rise up; and it shall be in the ravine of Gibeon; with rage he shall execute  his works -- a work of bitterness;  but his rage he shall treat strangely, and  his rottenness in strangeness. 
-<small><sub>**KJV:**</sub></small>
-For the LORD shall rise up as [in] mount Perazim, he shall be wroth as [in] the valley of Gibeon, that he may do his work, his strange work; and bring to pass his act, his strange act.
-<small><sub>**BSB:**</sub></small>
-For the LORD will rise up as at Mount Perazim. He will rouse Himself as in the Valley of Gibeon, to do His work, His strange work, and to perform His task, His disturbing task.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.20|<< Isaiah 28:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.22|Isaiah 28:22 >>]]</td></tr></table>
 
 | Translation | Greek |

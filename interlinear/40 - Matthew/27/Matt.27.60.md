@@ -1,12 +1,12 @@
-**Matthew 27:60
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:60**<big><big>[[Matt.27.57 The Burial of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And laid it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed.
 <small><sub>**BSB:**</sub></small>
 and placed it in his own new tomb that he had cut into the rock. Then he rolled a great stone across the entrance to the tomb and went away.
 <small><sub>**Literal:**</sub></small>
 and placed it in the new of him tomb which he had cut in the rock, and having rolled a stone great to the door of the tomb he went away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.59|<< Matthew 27:59]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.61|Matthew 27:61 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | placed |**<big>[[G5087\|ἔθηκεν]]</big>**  |ethēken <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

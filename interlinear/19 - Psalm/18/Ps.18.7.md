@@ -1,4 +1,4 @@
-**Psalms 18:7** (18:8)
+**Psalms 18:7**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the earth shook and trembled; the foundations also of the hills moved and were shaken, because he was wroth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the earth shook and quaked, and the foundations of the mountains trembled; 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.6|<< Psalms 18:6]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.8|Psalms 18:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it shook  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1607\|תִּגְעַ֬שׁ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tig.'Ash<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it quaked  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7493\|תִּרְעַ֨שׁ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tir.'Ash<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

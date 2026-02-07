@@ -1,12 +1,12 @@
-**Romans 14:13
-**<small><sub>**KJV:**</sub></small>
+**Romans 14:13**<big><big>[[Rom.14.13 The Law of Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Let us not therefore judge one another any more: but judge this rather, that no man put a stumblingblock or an occasion to fall in [his] brother’s way.
 <small><sub>**BSB:**</sub></small>
 Therefore let us stop judging one another. Instead, make up your mind not to put any stumbling block or obstacle in your brother’s way.
 <small><sub>**Literal:**</sub></small>
 No longer therefore one another shall we judge, but this do determine rather, <the> not to put [any] stumbling block <the> before [your] brother or snare.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.12|<< Romans 14:12]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.14|Romans 14:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No longer |**<big>[[G3371\|μηκέτι]]</big>**  |mēketi <small><sup>[[ADV-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Job 7:11** 
 <small><sub>**LXX:**</sub></small>
 Nevertheless then, nor will I spare  my mouth; I will speak being in distress  of my spirit; I will open \[the\] bitterness of my soul being held in. 
-<small><sub>**KJV:**</sub></small>
-Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.
-<small><sub>**BSB:**</sub></small>
-Therefore I will not restrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.7.10|<< Job 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.7.12|Job 7:12 >>]]</td></tr></table>
 
 | Translation | Greek |

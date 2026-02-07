@@ -1,4 +1,4 @@
-**Job 37:4** 
+**Job 37:4**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After it a voice roareth: he thundereth with the voice of his excellency; and he will not stay them when his voice is heard.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then there comes a roaring sound; He thunders with His majestic voice. He does n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.3|<< Job 37:3]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.5|Job 37:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | after it  |**<big>&#8207;[[H0310A\|אַחֲרָ֤י]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it roars  |**<big>&#8207;[[H7580\|יִשְׁאַג]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yish.'ag-<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

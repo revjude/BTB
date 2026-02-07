@@ -1,4 +1,4 @@
-**Isaiah 22:14** 
+**Isaiah 22:14**<big><big>[[Isa.22.1 The Valley of Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was revealed in mine ears by the LORD of hosts, Surely this iniquity shall not be purged from you till ye die, saith the Lord GOD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD of Hosts has revealed in my hearing: “Until your dying day, this sin 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.13|<< Isaiah 22:13]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.15|Isaiah 22:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has revealed himself  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1540H\|נִגְלָ֥ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nig.Lah<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in ears my  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0241G\|אָזְנָ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'a.ze.Na<small><sup>[[HNcfdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

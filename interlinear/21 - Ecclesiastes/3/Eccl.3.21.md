@@ -1,4 +1,4 @@
-**Ecclesiastes 3:21** 
+**Ecclesiastes 3:21**<big><big>[[Eccl.3.16 From Dust to Dust|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who knows if the spirit of man rises upward and the spirit of the animal descend
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.20|<< Ecclesiastes 3:20]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.22|Ecclesiastes 3:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֣י]]&#8207; </big>**| mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] knowing  |**<big>&#8207;[[H3045\|יוֹדֵ֗עַ]]&#8207; </big>**| yo.De.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> to Jeremiah the prophet against  Elam, in \[the\] beginning of \[the\] reign of Zedekiah king of Judah, saying, 
-<small><sub>**KJV:**</sub></small>
-The word of the LORD that came to Jeremiah the prophet against Elam in the beginning of the reign of Zedekiah king of Judah, saying,
-<small><sub>**BSB:**</sub></small>
-This is the word of the LORD that came to Jeremiah the prophet concerning Elam at the beginning of the reign of Zedekiah king of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.33|<< Jeremiah 49:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.35|Jeremiah 49:35 >>]]</td></tr></table>
 
 | Translation | Greek |

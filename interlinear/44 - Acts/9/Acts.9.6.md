@@ -1,12 +1,12 @@
-**Acts 9:6
-**<small><sub>**KJV:**</sub></small>
+**Acts 9:6**<big><big>[[Acts.9.1 The Road to Damascus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he trembling and astonished said, Lord, what wilt thou have me to do? And the Lord [said] unto him, Arise, and go into the city, and it shall be told thee what thou must do.
 <small><sub>**BSB:**</sub></small>
 “Now get up and go into the city, and you will be told what you must do.”
 <small><sub>**Literal:**</sub></small>
 they tremble then and were astonished he said Lord what me you desire to do and the Lord [said] to him But do rise up and do enter into the city, and it will be told you that what you it behooves to do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.5|<< Acts 9:5]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.7|Acts 9:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they tremble |**<big>[[G5141\|τρέμων]]</big>**  |tremōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="TR">K</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="TR">K</abbr> | |

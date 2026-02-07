@@ -1,10 +1,7 @@
 **LXX Exodus 30:7** 
 <small><sub>**LXX:**</sub></small>
 And Aaron will burn incense upon it; incense compounded fine -- in the morning \[by\] morning. Whenever he should trim the lamps, he shall burn incense upon it. 
-<small><sub>**KJV:**</sub></small>
-And Aaron shall burn thereon sweet incense every morning: when he dresseth the lamps, he shall burn incense upon it.
-<small><sub>**BSB:**</sub></small>
-And Aaron is to burn fragrant incense on it every morning when he tends the lamps.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.6|<< Exodus 30:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.8|Exodus 30:8 >>]]</td></tr></table>
 
 | Translation | Greek |

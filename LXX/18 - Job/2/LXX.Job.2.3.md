@@ -1,10 +1,7 @@
 **LXX Job 2:3** 
 <small><sub>**LXX:**</sub></small>
 And the <span class="smallcaps">lord</span> said to the devil, \[Have\] you taken heed then \[to\] my attendant Job, that there is not according to him of the \[ones\] upon the earth, a man not wicked, true, blameless, godly, \[and\] at a distance from all evil? But still he has innocence, but you spoke  to destroy his substance without cause. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Satan, Hast thou considered my servant Job, that [there is] none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Satan, “Have you considered My servant Job? For there is no one on earth like him, a man who is blameless and upright, who fears God and shuns evil. He still retains his integrity, even though you incited Me against him to ruin him without cause.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.2|<< Job 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.4|Job 2:4 >>]]</td></tr></table>
 
 | Translation | Greek |

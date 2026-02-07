@@ -1,10 +1,7 @@
 **LXX Judges 17:10** 
 <small><sub>**LXX:**</sub></small>
 And Micah said to him, Sit down with me, and become to me as a father and as priest, and I will give to you ten silver \[pieces\] for days, and a pair of clothes, and the \[things\] for your \[means of\] life. 
-<small><sub>**KJV:**</sub></small>
-And Micah said unto him, Dwell with me, and be unto me a father and a priest, and I will give thee ten [shekels] of silver by the year, and a suit of apparel, and thy victuals. So the Levite went in.
-<small><sub>**BSB:**</sub></small>
-“Stay with me,” Micah said to him, “and be my father and priest, and I will give you ten shekels of silver per year, a suit of clothes, and your provisions.” So the Levite went in<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.17.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.17.9|<< Judges 17:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.17.11|Judges 17:11 >>]]</td></tr></table>
 
 | Translation | Greek |

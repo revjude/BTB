@@ -1,4 +1,4 @@
-**Isaiah 9:1** (8:23)
+**Isaiah 9:1**<big><big>[[Isa.9.1 Unto Us a Child Is Born|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless the dimness [shall] not [be] such as [was] in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict [her by] the way of the sea, beyond Jordan, in Galilee of the nations.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Nevertheless, there will be no more gloom for those in distress. In the past He 
 > $\quad$ referenced by: [[Matt.4.15|Matt 4:15-16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

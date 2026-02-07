@@ -1,10 +1,7 @@
 **LXX 2 Kings 12:2** 
 <small><sub>**LXX:**</sub></small>
 And Joash did the upright \[thing\] before \[the\] <span class="smallcaps">lord</span> all the days which Jehoiada the priest enlightened him. 
-<small><sub>**KJV:**</sub></small>
-And Jehoash did [that which was] right in the sight of the LORD all his days wherein Jehoiada the priest instructed him.
-<small><sub>**BSB:**</sub></small>
-And Joash did what was right in the eyes of the LORD all the days he was instructed by Jehoiada the priest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.12.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.12.1|<< 2 Kings 12:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.12.3|2 Kings 12:3 >>]]</td></tr></table>
 
 | Translation | Greek |

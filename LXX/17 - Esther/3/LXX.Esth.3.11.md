@@ -1,10 +1,7 @@
 **LXX Esther 3:11** 
 <small><sub>**LXX:**</sub></small>
 And the king said  to Haman, As for the silver, you have \[it\]! and for the nation, you treat \[it\] as you want! 
-<small><sub>**KJV:**</sub></small>
-And the king said unto Haman, The silver [is] given to thee, the people also, to do with them as it seemeth good to thee.
-<small><sub>**BSB:**</sub></small>
-“Keep your money,” said the king to Haman. “These people are given to you to do with them as you please.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.10|<< Esther 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.12|Esther 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

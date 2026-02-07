@@ -1,4 +1,4 @@
-**Psalms 78:3** 
+**Psalms 78:3**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which we have heard and known, and our fathers have told us.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ that we have heard and known and our fathers have relayed to us.
 > $\quad$ referenced by: [[Matt.13.35|Matt 13:35]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֣ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we have heard  |**<big>&#8207;[[H8085G\|שָׁ֭מַעְנוּ]]&#8207; </big>**| Sha.ma'.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

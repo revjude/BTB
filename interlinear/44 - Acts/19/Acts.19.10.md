@@ -1,12 +1,12 @@
-**Acts 19:10
-**<small><sub>**KJV:**</sub></small>
+**Acts 19:10**<big><big>[[Acts.19.8 Paul Ministers in Ephesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And this continued by the space of two years; so that all they which dwelt in Asia heard the word of the Lord Jesus, both Jews and Greeks.
 <small><sub>**BSB:**</sub></small>
 This continued for two years, so that everyone who lived in the province of Asia, Jews and Greeks alike, heard the word of the Lord.
 <small><sub>**Literal:**</sub></small>
 This then continued for years two, so that all those inhabiting <the> Asia hearing the word of the Lord Jesus Jews both and Greeks.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.9|<< Acts 19:9]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.11|Acts 19:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|τοῦτο]]</big>**  |touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

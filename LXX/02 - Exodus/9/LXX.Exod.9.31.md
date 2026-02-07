@@ -1,10 +1,7 @@
 **LXX Exodus 9:31** 
 <small><sub>**LXX:**</sub></small>
 And the flax and the barley were struck. For the barley was standing, and the flax was seeding. 
-<small><sub>**KJV:**</sub></small>
-And the flax and the barley was smitten: for the barley [was] in the ear, and the flax [was] bolled.
-<small><sub>**BSB:**</sub></small>
-(Now the flax and barley were destroyed, since the barley was ripe and the flax was in bloom;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.30|<< Exodus 9:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.32|Exodus 9:32 >>]]</td></tr></table>
 
 | Translation | Greek |

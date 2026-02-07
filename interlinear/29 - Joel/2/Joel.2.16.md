@@ -1,4 +1,4 @@
-**Joel 2:16** 
+**Joel 2:16**<big><big>[[Joel.2.12 Return with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gather the people, sanctify the congregation, assemble the elders, gather the children, and those that suck the breasts: let the bridegroom go forth of his chamber, and the bride out of her closet.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Gather the people, sanctify the congregation, assemble the aged, gather the chil
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.15|<< Joel 2:15]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.17|Joel 2:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | gather  |**<big>&#8207;[[H0622\|אִסְפוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'is.fu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people  |**<big>&#8207;[[H5971A\|עָ֞ם]]&#8207; </big>**| 'am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

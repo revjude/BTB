@@ -1,12 +1,12 @@
-**Matthew 21:46
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:46**<big><big>[[Matt.21.33 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when they sought to lay hands on him, they feared the multitude, because they took him for a prophet.
 <small><sub>**BSB:**</sub></small>
 Although they wanted to arrest Him, they were afraid of the crowds, because the people regarded Him as a prophet.
 <small><sub>**Literal:**</sub></small>
 And seeking Him to lay hold of they feared the crowds, because to a prophet Him they were holding.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.45|<< Matthew 21:45]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.1|Matthew 22:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | seeking |**<big>[[G2212\|ζητοῦντες]]</big>**  |zētountes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

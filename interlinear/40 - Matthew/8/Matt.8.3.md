@@ -1,12 +1,12 @@
-**Matthew 8:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:3**<big><big>[[Matt.8.1 The Leper’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus put forth [his] hand, and touched him, saying, I will; be thou clean. And immediately his leprosy was cleansed.
 <small><sub>**BSB:**</sub></small>
 Jesus reached out His hand and touched the man. “I am willing,” He said. “Be clean!” And immediately his leprosy was cleansed.
 <small><sub>**Literal:**</sub></small>
 And having stretched out the hand He touched of him <the> Jesus saying; I am willing, do be cleansed. And immediately was cleansed his <the> leprosy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.2|<< Matthew 8:2]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.4|Matthew 8:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having stretched out |**<big>[[G1614\|ἐκτείνας]]</big>**  |ekteinas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Leviticus 18:28** 
 <small><sub>**LXX:**</sub></small>
 And lest the land should loathe you in  your defiling it, in which manner it loathed the nations  before you, 
-<small><sub>**KJV:**</sub></small>
-That the land spue not you out also, when ye defile it, as it spued out the nations that [were] before you.
-<small><sub>**BSB:**</sub></small>
-So if you defile the land, it will vomit you out as it spewed out the nations before you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.18.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.18.27|<< Leviticus 18:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.18.29|Leviticus 18:29 >>]]</td></tr></table>
 
 | Translation | Greek |

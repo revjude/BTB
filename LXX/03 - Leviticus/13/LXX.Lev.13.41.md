@@ -1,10 +1,7 @@
 **LXX Leviticus 13:41** 
 <small><sub>**LXX:**</sub></small>
 But if his head \[is\] loose of hair by his face, he is forehead bald; he is clean. 
-<small><sub>**KJV:**</sub></small>
-And he that hath his hair fallen off from the part of his head toward his face, he [is] forehead bald: [yet is] he clean.
-<small><sub>**BSB:**</sub></small>
-Or if his hairline recedes and he is bald on his forehead, he is still clean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.40|<< Leviticus 13:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.42|Leviticus 13:42 >>]]</td></tr></table>
 
 | Translation | Greek |

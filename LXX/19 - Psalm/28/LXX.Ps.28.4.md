@@ -1,10 +1,7 @@
 **LXX Psalm 28:4** 
 <small><sub>**LXX:**</sub></small>
 Give to them, O <span class="smallcaps">lord</span>, according to  their works, and according to the wickedness  of their practices! Give to them according to the works of their hands! Render  their recompense unto them! 
-<small><sub>**KJV:**</sub></small>
-Give them according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.
-<small><sub>**BSB:**</sub></small>
-Repay them according to their deeds and for their works of evil. Repay them for what their hands have done; bring back on them what they deserve.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.28.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.28.3|<< Psalm 28:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.28.5|Psalm 28:5 >>]]</td></tr></table>
 
 | Translation | Greek |

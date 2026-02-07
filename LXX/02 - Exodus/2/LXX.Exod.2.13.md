@@ -1,10 +1,7 @@
 **LXX Exodus 2:13** 
 <small><sub>**LXX:**</sub></small>
 And coming forth the second day, he saw two men, Hebrews skirmishing. And he says to the \[one in the\] wrong, Why do you beat  \[your\] neighbor? 
-<small><sub>**KJV:**</sub></small>
-And when he went out the second day, behold, two men of the Hebrews strove together: and he said to him that did the wrong, Wherefore smitest thou thy fellow?
-<small><sub>**BSB:**</sub></small>
-The next day Moses went out and saw two Hebrews fighting. He asked the one in the wrong, “Why are you attacking your companion?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.2.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.12|<< Exodus 2:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.14|Exodus 2:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 2:13** is...

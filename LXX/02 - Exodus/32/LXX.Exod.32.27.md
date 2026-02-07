@@ -1,10 +1,7 @@
 **LXX Exodus 32:27** 
 <small><sub>**LXX:**</sub></small>
 And he says to them, Thus says \[the\] <span class="smallcaps">lord</span>  God of Israel, each put  \[on\] himself a broadsword upon his thigh! And let him go through and return from gate to gate through the camp! and each kill  his brethren, and each  his neighbor, and each the one nearest him! 
-<small><sub>**KJV:**</sub></small>
-And he said unto them, Thus saith the LORD God of Israel, Put every man his sword by his side, [and] go in and out from gate to gate throughout the camp, and slay every man his brother, and every man his companion, and every man his neighbour.
-<small><sub>**BSB:**</sub></small>
-He told them, “This is what the LORD, the God of Israel, says: ‘Each of you men is to fasten his sword to his side, go back and forth through the camp from gate to gate, and slay his brother, his friend, and his neighbor.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.26|<< Exodus 32:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.28|Exodus 32:28 >>]]</td></tr></table>
 
 | Translation | Greek |

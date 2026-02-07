@@ -1,10 +1,7 @@
 **LXX Numbers 28:6** 
 <small><sub>**LXX:**</sub></small>
 perpetual whole burnt-offering, the one taking place in  mount Sinai, for a scent of pleasant aroma \[to the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-[It is] a continual burnt offering, which was ordained in mount Sinai for a sweet savour, a sacrifice made by fire unto the LORD.
-<small><sub>**BSB:**</sub></small>
-This is a regular burnt offering established at Mount Sinai as a pleasing aroma, a food offering to the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.28.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.28.5|<< Numbers 28:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.28.7|Numbers 28:7 >>]]</td></tr></table>
 
 | Translation | Greek |

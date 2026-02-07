@@ -1,4 +1,4 @@
-**Obadiah 1:21** 
+**Obadiah 1:21**<big><big>[[Obad.1.15 The Deliverance of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the LORD’S.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The deliverers will ascend Mount Zion to rule over the mountains of Esau. And th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.20|<< Obadiah 1:20]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.1.1|Jonah 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will go up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5927G\|עָל֤וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Lu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | deliverers  |**<big>&#8207;[[H3467\|מֽוֹשִׁעִים֙]]&#8207; </big>**| mo.shi.'Im<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

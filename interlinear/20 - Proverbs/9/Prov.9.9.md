@@ -1,4 +1,4 @@
-**Proverbs 9:9** 
+**Proverbs 9:9**<big><big>[[Prov.9.1 The Way of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give [instruction] to a wise [man], and he will be yet wiser: teach a just [man], and he will increase in learning.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Instruct a wise man, and he will be wiser still; teach a righteous man, and he w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.8|<< Proverbs 9:8]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.10|Proverbs 9:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | give  |**<big>&#8207;[[H5414G\|תֵּ֣ן]]&#8207; </big>**| ten<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to a wise [person]  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H2450\|חָכָם]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> cha.khom<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 1:62
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:62**<big><big>[[Luke.1.57 The Birth of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they made signs to his father, how he would have him called.
 <small><sub>**BSB:**</sub></small>
 So they made signs to his father to find out what he wanted to name the child.
 <small><sub>**Literal:**</sub></small>
 They were making signs then to the father of him the what maybe he would wish to be called him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.61|<< Luke 1:61]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.63|Luke 1:63 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They were making signs |**<big>[[G1770\|ἐνένευον]]</big>**  |eneneuon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

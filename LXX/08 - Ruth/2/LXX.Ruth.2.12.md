@@ -1,10 +1,7 @@
 **LXX Ruth 2:12** 
 <small><sub>**LXX:**</sub></small>
 \[May the\] <span class="smallcaps">lord</span> repay  your work, and your wage be full from \[the\] <span class="smallcaps">lord</span> God of Israel, to whom you came to yield under  his wings. 
-<small><sub>**KJV:**</sub></small>
-The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust.
-<small><sub>**BSB:**</sub></small>
-May the LORD repay your work, and may you receive a rich reward from the LORD, the God of Israel, under whose wings you have taken refuge.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.11|<< Ruth 2:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.13|Ruth 2:13 >>]]</td></tr></table>
 
 | Translation | Greek |

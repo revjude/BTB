@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 All the commandments which I give charge to you today you shall guard to do, that you should live and manifoldly multiply, and should enter and should inherit the land which \[the\] <span class="smallcaps">lord</span> swore by an oath \[to\] your fathers. 
-<small><sub>**KJV:**</sub></small>
-All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the LORD sware unto your fathers.
-<small><sub>**BSB:**</sub></small>
-You must carefully follow every commandment I am giving you today, so that you may live and multiply, and enter and possess the land that the LORD swore to give your fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.8.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.26|<< Deuteronomy 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.8.2|Deuteronomy 8:2 >>]]</td></tr></table>
 
 | Translation | Greek |

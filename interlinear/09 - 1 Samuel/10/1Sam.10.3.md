@@ -1,4 +1,4 @@
-**1 Samuel 10:3** 
+**1 Samuel 10:3**<big><big>[[1Sam.10.1 Samuel Anoints Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou go on forward from thence, and thou shalt come to the plain of Tabor, and there shall meet thee three men going up to God to Bethel, one carrying three kids, and another carrying three loaves of bread, and another carrying a bottle of wine:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then you will go on from there until you come to the Oak of Tabor. Three men goi
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.2|<< 1 Samuel 10:2]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.4|1 Samuel 10:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will pass on  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2498\|חָלַפְתָּ֨]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.laf.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from there  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8033G\|שָּׁ֜ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

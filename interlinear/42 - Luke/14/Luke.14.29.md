@@ -1,12 +1,12 @@
-**Luke 14:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 14:29**<big><big>[[Luke.14.25 The Cost of Discipleship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Lest haply, after he hath laid the foundation, and is not able to finish [it], all that behold [it] begin to mock him,
 <small><sub>**BSB:**</sub></small>
 Otherwise, if he lays the foundation and is unable to finish the work, everyone who sees it will ridicule him,
 <small><sub>**Literal:**</sub></small>
 Thus otherwise [when] laying of it a foundation and not being able to finish all those seeing [it] may begin him to mock<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.28|<< Luke 14:28]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.30|Luke 14:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | otherwise |**<big>[[G3361\|μήποτε]]</big>**  |mēpote <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

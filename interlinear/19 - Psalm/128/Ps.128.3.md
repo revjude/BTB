@@ -1,4 +1,4 @@
-**Psalms 128:3** 
+**Psalms 128:3**<big><big>[[Ps.128.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy wife [shall be] as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your wife will be like a fruitful vine flourishing within your house, your sons 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.128.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.128.2|<< Psalms 128:2]]</td><td align="center" style="border:none;">[[Ps.128|Psalms 128]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.128.4|Psalms 128:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wife your  |**<big>&#8207;[[H0802H\|אֶשְׁתְּ]]&#8207;&#8207;[[H9021\|ךָ֤]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'esh.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] like a vine  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1612\|גֶ֥פֶן]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Ge.fen<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

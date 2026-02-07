@@ -1,10 +1,7 @@
 **LXX 2 Kings 16:15** 
 <small><sub>**LXX:**</sub></small>
 And king Ahaz gave charge \[to\] Uriah the priest, saying, Upon the great altar offer the whole burnt-offering, the early morning \[sacrifice\], and the the evening sacrifice \[offering\], and the whole burnt-offerings of the king, and  his sacrifice \[offerings\], and the whole burnt-offering of all the people, and  their sacrifice \[offerings\], and  their libation \[offerings\]! And all \[the\] blood of \[the\] whole burnt-offering, and all \[the\] blood of \[the\] sacrifice \[offering\] you shall pour out upon it! And the altar  of brass will be for me in the morning. 
-<small><sub>**KJV:**</sub></small>
-And king Ahaz commanded Urijah the priest, saying, Upon the great altar burn the morning burnt offering, and the evening meat offering, and the king’s burnt sacrifice, and his meat offering, with the burnt offering of all the people of the land, and their meat offering, and their drink offerings; and sprinkle upon it all the blood of the burnt offering, and all the blood of the sacrifice: and the brasen altar shall be for me to inquire [by].
-<small><sub>**BSB:**</sub></small>
-Then King Ahaz commanded Uriah the priest, “Offer on the great altar the morning burnt offering, the evening grain offering, and the king’s burnt offering and grain offering, as well as the burnt offerings, grain offerings, and drink offerings of all the people of the land. Splatter on the altar all the blood of the burnt offerings and sacrifices. But I will use the bronze altar to seek guidance.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.16.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.16.14|<< 2 Kings 16:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.16.16|2 Kings 16:16 >>]]</td></tr></table>
 
 | Translation | Greek |

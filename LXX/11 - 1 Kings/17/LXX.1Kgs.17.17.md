@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:17** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after these \[things\] that the son of the woman \[who was\] the lady of the house became ill, and his illness was fortified very much, until  there was not left behind in him a breath. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after these things, [that] the son of the woman, the mistress of the house, fell sick; and his sickness was so sore, that there was no breath left in him.
-<small><sub>**BSB:**</sub></small>
-Later, the son of the woman who owned the house became ill, and his sickness grew worse and worse, until no breath remained in him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.16|<< 1 Kings 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.18|1 Kings 17:18 >>]]</td></tr></table>
 
 | Translation | Greek |

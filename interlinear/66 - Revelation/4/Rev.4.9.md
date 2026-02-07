@@ -1,12 +1,12 @@
-**Revelation 4:9
-**<small><sub>**KJV:**</sub></small>
+**Revelation 4:9**<big><big>[[Rev.4.5 Worship of the Creator|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when those beasts give glory and honour and thanks to him that sat on the throne, who liveth for ever and ever,
 <small><sub>**BSB:**</sub></small>
 And whenever the living creatures give glory, honor, and thanks to the One seated on the throne, who lives forever and ever,
 <small><sub>**Literal:**</sub></small>
 And whenever will give the living creatures glory and honor and thanksgiving to the [One] sitting upon the throne, who is living to the ages of the ages,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.8|<< Revelation 4:8]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.10|Revelation 4:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | whenever |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

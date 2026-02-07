@@ -1,10 +1,7 @@
 **LXX Job 22:10** 
 <small><sub>**LXX:**</sub></small>
 Accordingly snares encircled you, and an extraordinary war hurried you. 
-<small><sub>**KJV:**</sub></small>
-Therefore snares [are] round about thee, and sudden fear troubleth thee;
-<small><sub>**BSB:**</sub></small>
-Therefore snares surround you, and sudden peril terrifies you;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.22.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.22.9|<< Job 22:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.22.11|Job 22:11 >>]]</td></tr></table>
 
 | Translation | Greek |

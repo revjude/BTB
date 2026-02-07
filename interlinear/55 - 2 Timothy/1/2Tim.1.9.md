@@ -1,12 +1,12 @@
-**2 Timothy 1:9
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 1:9**<big><big>[[2Tim.1.3 Faithfulness under Persecution|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who hath saved us, and called [us] with an holy calling, not according to our works, but according to his own purpose and grace, which was given us in Christ Jesus before the world began,
 <small><sub>**BSB:**</sub></small>
 He has saved us and called us to a holy calling, not because of our works, but by His own purpose and by the grace He granted us in Christ Jesus before time began.
 <small><sub>**Literal:**</sub></small>
 the [One who] having saved us and having called [us] with a calling holy, not according to the works of us but according to [His] own purpose and grace which having been given us in Christ Jesus before time eternal,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.8|<< 2 Timothy 1:8]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.10|2 Timothy 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [One who] |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having saved |**<big>[[G4982\|σώσαντος]]</big>**  |sōsantos <small><sup>[[V-AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

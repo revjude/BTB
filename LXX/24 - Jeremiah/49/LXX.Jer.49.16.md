@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:16** 
 <small><sub>**LXX:**</sub></small>
  Your play took in hand against you; audacity of your heart deposed holes of rocks, it seized \[the\] strength of a high hill. For if you should raise up high your nest as an eagle, says \[the\] <span class="smallcaps">lord</span>, from there I will lower you. 
-<small><sub>**KJV:**</sub></small>
-Thy terribleness hath deceived thee, [and] the pride of thine heart, O thou that dwellest in the clefts of the rock, that holdest the height of the hill: though thou shouldest make thy nest as high as the eagle, I will bring thee down from thence, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-The terror you cause and the pride of your heart have deceived you, O dwellers in the clefts of the rocks, O occupiers of the mountain summit. Though you elevate your nest like the eagle, even from there I will bring you down,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.15|<< Jeremiah 49:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.17|Jeremiah 49:17 >>]]</td></tr></table>
 
 | Translation | Greek |

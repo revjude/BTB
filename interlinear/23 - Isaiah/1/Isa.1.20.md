@@ -1,4 +1,4 @@
-**Isaiah 1:20** 
+**Isaiah 1:20**<big><big>[[Isa.1.10 Meaningless Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if ye refuse and rebel, ye shall be devoured with the sword: for the mouth of the LORD hath spoken [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if you resist and rebel, you will be devoured by the sword.” For the mouth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.19|<< Isaiah 1:19]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.21|Isaiah 1:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will refuse  |**<big>&#8207;[[H3985\|תְּמָאֲנ֖וּ]]&#8207; </big>**| te.ma.'a.Nu<small><sup>[[HVpi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

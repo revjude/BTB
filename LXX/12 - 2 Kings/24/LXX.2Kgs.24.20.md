@@ -1,10 +1,7 @@
 **LXX 2 Kings 24:20** 
 <small><sub>**LXX:**</sub></small>
 For by the rage of \[the\] <span class="smallcaps">lord</span> \[the rage\] was on Jerusalem and on  Judah, until he threw them from his face. And Zedekiah annulled \[allegiance\] to the king of Babylon. 
-<small><sub>**KJV:**</sub></small>
-For through the anger of the LORD it came to pass in Jerusalem and Judah, until he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon.
-<small><sub>**BSB:**</sub></small>
-For because of the anger of the LORD, all this happened in Jerusalem and Judah, until He finally banished them from His presence. And Zedekiah also rebelled against the king of Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.24.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.24.19|<< 2 Kings 24:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.1|2 Kings 25:1 >>]]</td></tr></table>
 
 | Translation | Greek |

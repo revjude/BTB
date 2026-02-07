@@ -1,4 +1,4 @@
-**Leviticus 13:14** 
+**Leviticus 13:14**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when raw flesh appeareth in him, he shall be unclean.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But whenever raw flesh appears on someone, he will be unclean.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.13|<< Leviticus 13:13]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.15|Leviticus 13:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and on [the] day  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3117G\|י֨וֹם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | appears  |**<big>&#8207;[[H7200G\|הֵרָא֥וֹת]]&#8207; </big>**| he.ra.'ot<small><sup>[[HVNcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[the\] hand \[of the\] <span class="smallcaps">lord</span> came upon me, and it led me by spirit of \[the\] <span class="smallcaps">lord</span>, and put me in \[the\] midst of the plain, and this was full of bones of humans. 
-<small><sub>**KJV:**</sub></small>
-The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which [was] full of bones,
-<small><sub>**BSB:**</sub></small>
-The hand of the LORD was upon me, and He brought me out by His Spirit and set me down in the middle of the valley, and it was full of bones.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.38|<< Ezekiel 36:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.2|Ezekiel 37:2 >>]]</td></tr></table>
 
 | Translation | Greek |

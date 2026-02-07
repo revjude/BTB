@@ -1,4 +1,4 @@
-**Ecclesiastes 7:15** 
+**Ecclesiastes 7:15**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All [things] have I seen in the days of my vanity: there is a just [man] that perisheth in his righteousness, and there is a wicked [man] that prolongeth [his life] in his wickedness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In my futile life I have seen both of these: A righteous man perishing in his ri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.14|<< Ecclesiastes 7:14]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.16|Ecclesiastes 7:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> everything  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3605\|כֹּ֥ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

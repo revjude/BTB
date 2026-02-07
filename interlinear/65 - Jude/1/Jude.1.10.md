@@ -1,12 +1,12 @@
-**Jude 1:10
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:10**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But these speak evil of those things which they know not: but what they know naturally, as brute beasts, in those things they corrupt themselves.
 <small><sub>**BSB:**</sub></small>
 These men, however, slander what they do not understand, and like irrational animals, they will be destroyed by the things they do instinctively.
 <small><sub>**Literal:**</sub></small>
 These however as much as indeed not they understood they denigrate; as much as however naturally as the irrational animals they understand, in these things they corrupt themselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.9|<< Jude 1:9]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.11|Jude 1:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These |**<big>[[G3778\|οὗτοι]]</big>**  |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

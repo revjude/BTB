@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:55** 
 <small><sub>**LXX:**</sub></small>
 And as Saul saw  David going forth for meeting the Philistine, he said to Abner the ruler of the force, Whose son  \[is\] this young man, Abner? And Abner responded and said, your soul should live, O my lord king, I do not know. 
-<small><sub>**KJV:**</sub></small>
-And when Saul saw David go forth against the Philistine, he said unto Abner, the captain of the host, Abner, whose son [is] this youth? And Abner said, [As] thy soul liveth, O king, I cannot tell.
-<small><sub>**BSB:**</sub></small>
-As Saul had watched David going out to confront the Philistine, he said to Abner the commander of the army, “Abner, whose son is this young man?” “As surely as you live, O king,” Abner replied, “I do not know.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.55|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.54|<< 1 Samuel 17:54]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.56|1 Samuel 17:56 >>]]</td></tr></table>
 
 | Translation | Greek |

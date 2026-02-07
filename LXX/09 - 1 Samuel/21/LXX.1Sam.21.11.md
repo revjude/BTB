@@ -1,10 +1,7 @@
 **LXX 1 Samuel 21:11** 
 <small><sub>**LXX:**</sub></small>
 And the servants of Achish said to him, this not David the king of the land? Did not the women joining in a dance to this one taking the lead, saying, Saul struck  his thousands, and David  his ten thousands? 
-<small><sub>**KJV:**</sub></small>
-And the servants of Achish said unto him, [Is] not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, and David his ten thousands?
-<small><sub>**BSB:**</sub></small>
-But the servants of Achish said to him, “Is this not David, the king of the land? Did they not sing about him in their dances, saying: ‘Saul has slain his thousands, and David his tens of thousands’?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.21.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.21.10|<< 1 Samuel 21:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.12|1 Samuel 21:12 >>]]</td></tr></table>
 
 | Translation | Greek |

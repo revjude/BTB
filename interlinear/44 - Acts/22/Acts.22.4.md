@@ -1,12 +1,12 @@
-**Acts 22:4
-**<small><sub>**KJV:**</sub></small>
+**Acts 22:4**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I persecuted this way unto the death, binding and delivering into prisons both men and women.
 <small><sub>**BSB:**</sub></small>
 I persecuted this Way even to the death, detaining both men and women and throwing them into prison,
 <small><sub>**Literal:**</sub></small>
 who this <the> Way persecuted as far as death binding and betraying to prisons men both and women,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.3|<< Acts 22:3]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.5|Acts 22:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | this |**<big>[[G3778\|ταύτην]]</big>**  |tautēn <small><sup>[[D-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 28:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 28:10**<big><big>[[Matt.28.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Jesus unto them, Be not afraid: go tell my brethren that they go into Galilee, and there shall they see me.
 <small><sub>**BSB:**</sub></small>
 “Do not be afraid,” said Jesus. “Go and tell My brothers to go to Galilee. There they will see Me.”
 <small><sub>**Literal:**</sub></small>
 Then says to them <the> Jesus; Not do fear; do go do tell to the brothers of Mine so that they may go into <the> Galilee and there Me will they behold.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.9|<< Matthew 28:9]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.11|Matthew 28:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**Galatians 1:15
-**<small><sub>**KJV:**</sub></small>
+**Galatians 1:15**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when it pleased God, who separated me from my mother’s womb, and called [me] by his grace,
 <small><sub>**BSB:**</sub></small>
 But when God, who set me apart from my mother’s womb and called me by His grace, was pleased
@@ -10,7 +10,7 @@ When however was pleased <the> God the [One] having selected me from [the] womb 
 > $\quad$ alluding to: [[LXX.Isa.49.1|Isa 49:1]] ☩ [[LXX.Jer.1.5|Jer 1:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

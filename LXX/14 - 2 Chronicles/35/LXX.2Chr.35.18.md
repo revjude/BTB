@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:18** 
 <small><sub>**LXX:**</sub></small>
 And there was not a passover likened to it in Israel from \[the\] days of Samuel the prophet; for all kings of Israel did not do the passover which Josiah did, and the priests, and the Levites, and all Judah and Israel, the ones being found, and the ones dwelling in Jerusalem, to the <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And there was no passover like to that kept in Israel from the days of Samuel the prophet; neither did all the kings of Israel keep such a passover as Josiah kept, and the priests, and the Levites, and all Judah and Israel that were present, and the inhabitants of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-No such Passover had been observed in Israel since the days of Samuel the prophet. None of the kings of Israel ever observed a Passover like the one that Josiah observed with the priests, the Levites, all Judah, the Israelites who were present, and the people of Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.17|<< 2 Chronicles 35:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.19|2 Chronicles 35:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Leviticus 16:22** 
+**Leviticus 16:22**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The goat will carry on itself all their iniquities into a solitary place, and th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.21|<< Leviticus 16:21]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.23|Leviticus 16:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will bear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5375J\|נָשָׂ֨א]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.Sa'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the male goat  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8163B\|שָּׂעִ֥יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.'Ir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 100:3** 
 <small><sub>**LXX:**</sub></small>
 Know that \[the\] <span class="smallcaps">lord</span>, he is  our God! He made us, and not we. But we \[are\] his people, and \[the\] sheep  of his pasture. 
-<small><sub>**KJV:**</sub></small>
-Know ye that the LORD he [is] God: [it is] he [that] hath made us, and not we ourselves; [we are] his people, and the sheep of his pasture.
-<small><sub>**BSB:**</sub></small>
-Know that the LORD is God. It is He who made us, and we are His; we are His people, and the sheep of His pasture.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.100.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.100.2|<< Psalm 100:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.100.4|Psalm 100:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:2** 
 <small><sub>**LXX:**</sub></small>
 And I shall send against Babylon arrogant ones. And they shall insult her, and lay waste  her land. Woe upon Babylon round about in \[the\] day of her affliction. 
-<small><sub>**KJV:**</sub></small>
-And will send unto Babylon fanners, that shall fan her, and shall empty her land: for in the day of trouble they shall be against her round about.
-<small><sub>**BSB:**</sub></small>
-I will send strangers to Babylon to winnow her and empty her land; for they will come against her from every side in her day of disaster.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.1|<< Jeremiah 51:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.3|Jeremiah 51:3 >>]]</td></tr></table>
 
 | Translation | Greek |

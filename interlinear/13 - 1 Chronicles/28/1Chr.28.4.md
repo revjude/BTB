@@ -1,4 +1,4 @@
-**1 Chronicles 28:4** 
+**1 Chronicles 28:4**<big><big>[[1Chr.28.1 David Commissions Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit the LORD God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah [to be] the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make [me] king over all Israel:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet the LORD, the God of Israel, chose me out of all my father’s house to be k
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.3|<< 1 Chronicles 28:3]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.5|1 Chronicles 28:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he chose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0977\|יִּבְחַ֡ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yiv.Char<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

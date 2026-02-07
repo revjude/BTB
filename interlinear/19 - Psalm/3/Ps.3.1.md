@@ -1,12 +1,12 @@
-**Psalms 3:1** (3:2)
+**Psalms 3:1**<big><big>[[Ps.3.1 Deliver Me, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Psalm of David, when he fled from Absalom his son. LORD, how are they increased that trouble me! many [are] they that rise up against me.
+LORD, how are they increased that trouble me! many [are] they that rise up against me.
 <small><sub>**BSB:**</sub></small>
 A Psalm of David, when he fled from his son Absalom. O LORD, how my foes have increased! How many rise up against me!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.3.0|<< Psalms 3:0]]</td><td align="center" style="border:none;">[[Ps.3|Psalms 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.3.2|Psalms 3:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | how!  |**<big>&#8207;[[H4100\|מָֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

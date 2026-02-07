@@ -1,4 +1,4 @@
-**2 Samuel 19:43** (19:44)
+**2 Samuel 19:43**<big><big>[[2Sam.19.41 Contention over the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Israel answered the men of Judah, and said, We have ten parts in the king, and we have also more [right] in David than ye: why then did ye despise us, that our advice should not be first had in bringing back our king? And the words of the men of Judah were fiercer than the words of the men of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the men of Israel answered the men of Judah, and said, We have ten parts in 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.42|<< 2 Samuel 19:42]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.1|2 Samuel 20:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֣עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] man of  |**<big>&#8207;[[H0376G\|אִֽישׁ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ish-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

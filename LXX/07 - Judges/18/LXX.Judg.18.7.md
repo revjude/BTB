@@ -1,10 +1,7 @@
 **LXX Judges 18:7** 
 <small><sub>**LXX:**</sub></small>
 And the five men went and came into Laish. And they saw the people  in it dwelling in hope as the amalgamation of the Sidonians, being tranquil in hope, and not being able to speak a word in the land, for they are far from Sidon, and there was no word to them with Syria. 
-<small><sub>**KJV:**</sub></small>
-Then the five men departed, and came to Laish, and saw the people that [were] therein, how they dwelt careless, after the manner of the Zidonians, quiet and secure; and [there was] no magistrate in the land, that might put [them] to shame in [any] thing; and they [were] far from the Zidonians, and had no business with [any] man.
-<small><sub>**BSB:**</sub></small>
-So the five men departed and came to Laish, where they saw that the people were living securely, like the Sidonians, quiet and unsuspecting. There was nothing lacking in the land and no oppressive ruler. And they were far away from the Sidonians and had no alliance with anyone.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.18.6|<< Judges 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.8|Judges 18:8 >>]]</td></tr></table>
 
 | Translation | Greek |

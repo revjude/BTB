@@ -1,4 +1,4 @@
-**Isaiah 5:29** 
+**Isaiah 5:29**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their roaring [shall be] like a lion, they shall roar like young lions: yea, they shall roar, and lay hold of the prey, and shall carry [it] away safe, and none shall deliver [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their roaring is like that of a lion; they roar like young lions. They growl and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.28|<< Isaiah 5:28]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.30|Isaiah 5:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | roaring  |**<big>&#8207;[[H7581\|שְׁאָגָ֥ה]]&#8207; </big>**| she.'a.Gah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of it  |**<big>&#8207;[[H9005\|ל֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

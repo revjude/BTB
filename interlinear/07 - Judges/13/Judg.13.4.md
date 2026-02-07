@@ -1,4 +1,4 @@
-**Judges 13:4** 
+**Judges 13:4**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore beware, I pray thee, and drink not wine nor strong drink, and eat not any unclean [thing]:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now please be careful not to drink wine or strong drink, and not to eat anything
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.3|<< Judges 13:3]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.5|Judges 13:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | take care  |**<big>&#8207;[[H8104J\|הִשָּׁ֣מְרִי]]&#8207; </big>**| hi.Sha.me.ri<small><sup>[[HVNv2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

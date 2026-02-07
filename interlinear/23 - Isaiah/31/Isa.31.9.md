@@ -1,4 +1,4 @@
-**Isaiah 31:9** 
+**Isaiah 31:9**<big><big>[[Isa.31.1 Woe to Those Who Rely on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall pass over to his strong hold for fear, and his princes shall be afraid of the ensign, saith the LORD, whose fire [is] in Zion, and his furnace in Jerusalem.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their rock will pass away for fear, and their princes will panic at the sight of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.31.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.31.8|<< Isaiah 31:8]]</td><td align="center" style="border:none;">[[Isa.31|Isaiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.1|Isaiah 32:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and rock its  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5553H\|סַלְע]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sal.'<small><sup>[[HNcmsc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from terror  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4032\|מָּג֣וֹר]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ma.Gor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

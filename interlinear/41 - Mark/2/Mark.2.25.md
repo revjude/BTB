@@ -1,5 +1,5 @@
-**Mark 2:25
-**<small><sub>**KJV:**</sub></small>
+**Mark 2:25**<big><big>[[Mark.2.23 The Lord of the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Have ye never read what David did, when he had need, and was an hungred, he, and they that were with him?
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Have you never read what David did when he and his companions were hungry and in need?
@@ -10,7 +10,7 @@ And he himself says to them; Surely you did read what did David when need he had
 > $\quad$ alluding to: [[LXX.1Sam.21.6|1Sam 21:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

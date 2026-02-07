@@ -1,4 +1,4 @@
-**Exodus 22:6** (22:5)
+**Exodus 22:6**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If fire break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field, be consumed [therewith]; he that kindled the fire shall surely make restitution.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a fire breaks out and spreads to thornbushes so that it consumes stacked or s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.5|<< Exodus 22:5]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.7|Exodus 22:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will go forth  |**<big>&#8207;[[H3318L\|תֵצֵ֨א]]&#8207; </big>**| te.Tze'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

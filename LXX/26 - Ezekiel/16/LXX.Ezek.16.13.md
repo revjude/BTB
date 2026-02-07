@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:13** 
 <small><sub>**LXX:**</sub></small>
 And you were adorned in gold and silver, and  your wraps \[were\] fine linen, and braids, and colored garments. You ate fine flour and olive oil and honey, and you became very vehemently good. And you prospered for royalty. 
-<small><sub>**KJV:**</sub></small>
-Thus wast thou decked with gold and silver; and thy raiment [was of] fine linen, and silk, and broidered work; thou didst eat fine flour, and honey, and oil: and thou wast exceeding beautiful, and thou didst prosper into a kingdom.
-<small><sub>**BSB:**</sub></small>
-So you were adorned with gold and silver, and your clothing was made of fine linen, silk, and embroidered cloth. You ate fine flour, honey, and oil. You became very beautiful and rose to be queen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.12|<< Ezekiel 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.14|Ezekiel 16:14 >>]]</td></tr></table>
 
 | Translation | Greek |

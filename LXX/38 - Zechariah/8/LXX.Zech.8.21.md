@@ -1,10 +1,7 @@
 **LXX Zechariah 8:21** 
 <small><sub>**LXX:**</sub></small>
 And shall come together ones dwelling cities to one city, saying, We should go to beseech the face of \[the\] <span class="smallcaps">lord</span>, and to seek after the face of \[the\] <span class="smallcaps">lord</span> almighty -- even I shall go. 
-<small><sub>**KJV:**</sub></small>
-And the inhabitants of one [city] shall go to another, saying, Let us go speedily to pray before the LORD, and to seek the LORD of hosts: I will go also.
-<small><sub>**BSB:**</sub></small>
-and the residents of one city will go to another, saying: ‘Let us go at once to plead before the LORD and to seek the LORD of Hosts. I myself am going.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.20|<< Zechariah 8:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.22|Zechariah 8:22 >>]]</td></tr></table>
 
 | Translation | Greek |

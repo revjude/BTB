@@ -1,4 +1,4 @@
-**Jeremiah 2:30** 
+**Jeremiah 2:30**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In vain have I smitten your children; they received no correction: your own sword hath devoured your prophets, like a destroying lion.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In vain have I smitten your children; they received no correction: your own swor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.29|<< Jeremiah 2:29]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.31|Jeremiah 2:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for \<the> vanity  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H7723H\|שָּׁוְא֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> shaV'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I struck  |**<big>&#8207;[[H5221\|הִכֵּ֣יתִי]]&#8207; </big>**| hi.Kei.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

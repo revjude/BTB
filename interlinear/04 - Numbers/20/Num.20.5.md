@@ -1,4 +1,4 @@
-**Numbers 20:5** 
+**Numbers 20:5**<big><big>[[Num.20.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And wherefore have ye made us to come up out of Egypt, to bring us in unto this evil place? it [is] no place of seed, or of figs, or of vines, or of pomegranates; neither [is] there any water to drink.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why have you led us up out of Egypt to bring us to this wretched place? It is no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.4|<< Numbers 20:4]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.6|Numbers 20:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<to> why?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H4100\|מָ֤ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> Mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | have you brought up us  |**<big>&#8207;[[H5927G\|הֶֽעֱלִיתֻ֙]]&#8207;&#8207;[[H9035\|נוּ֙]]&#8207; </big>**| he.'e.li.Tu.<small><sup>[[HVhp2mp]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

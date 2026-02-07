@@ -1,5 +1,5 @@
-**1 Peter 2:6
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:6**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore also it is contained in the scripture, Behold, I lay in Sion a chief corner stone, elect, precious: and he that believeth on him shall not be confounded.
 <small><sub>**BSB:**</sub></small>
 For it stands in Scripture: “See, I lay in Zion a stone, a chosen and precious cornerstone; and the one who believes in Him will never be put to shame.”
@@ -10,7 +10,7 @@ Therefore it is contained in <the> Scripture: Behold I lay in Zion a stone corne
 > $\quad$ referencing: [[LXX.Isa.28.16|Isa 28:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore [^1] |**<big>[[G1360\|διότι]]</big>**  |dioti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+Byz">N(k)O</abbr> | |
 | it is contained |**<big>[[G4023\|περιέχει]]</big>**  |periechei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

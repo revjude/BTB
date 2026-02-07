@@ -1,4 +1,4 @@
-**Zephaniah 3:2** 
+**Zephaniah 3:2**<big><big>[[Zeph.3.1 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She obeyed not the voice; she received not correction; she trusted not in the LORD; she drew not near to her God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ She heeded no voice; she accepted no correction. She does not trust in the LORD;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.1|<< Zephaniah 3:1]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.3|Zephaniah 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has listened  |**<big>&#8207;[[H8085G\|שָֽׁמְעָה֙]]&#8207; </big>**| sha.me.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

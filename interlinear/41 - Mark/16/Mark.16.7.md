@@ -1,12 +1,12 @@
-**Mark 16:7
-**<small><sub>**KJV:**</sub></small>
+**Mark 16:7**<big><big>[[Mark.16.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But go your way, tell his disciples and Peter that he goeth before you into Galilee: there shall ye see him, as he said unto you.
 <small><sub>**BSB:**</sub></small>
 But go, tell His disciples and Peter, ‘He is going ahead of you into Galilee. There you will see Him, just as He told you.’”
 <small><sub>**Literal:**</sub></small>
 But do go, do say to the disciples of Him and <the> to Peter that He goes before you into <the> Galilee; there Him will you behold even as He said to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.6|<< Mark 16:6]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.8|Mark 16:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do go, |**<big>[[G5217\|ὑπάγετε,]]</big>**  |hupagete <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

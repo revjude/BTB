@@ -1,12 +1,12 @@
-**Jude 1:12
-**<small><sub>**KJV:**</sub></small>
+**Jude 1:12**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds [they are] without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots;
 <small><sub>**BSB:**</sub></small>
 These men are hidden reefs in your love feasts, shamelessly feasting with you but shepherding only themselves. They are clouds without water, carried along by the wind; fruitless trees in autumn, twice dead after being uprooted.
 <small><sub>**Literal:**</sub></small>
 These are the ones in the love feasts of you hidden reefs, feasting together [with you] fearlessly themselves shepherding; clouds without water, by winds being carried away, trees autumnal without fruit, twice having died, having been uprooted;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.11|<< Jude 1:11]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.13|Jude 1:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These |**<big>[[G3778\|Οὗτοί]]</big>**  |Houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are |**<big>[[G1510\|εἰσιν]]</big>**  |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

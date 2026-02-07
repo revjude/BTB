@@ -1,12 +1,12 @@
-**Matthew 11:28
-**<small><sub>**KJV:**</sub></small>
+**Matthew 11:28**<big><big>[[Matt.11.25 Rest for the Weary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Come unto me, all [ye] that labour and are heavy laden, and I will give you rest.
 <small><sub>**BSB:**</sub></small>
 Come to Me, all you who are weary and burdened, and I will give you rest.
 <small><sub>**Literal:**</sub></small>
 Come to Me all you who [are] toiling and burdened, and I myself will give rest to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.27|<< Matthew 11:27]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.29|Matthew 11:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Come |**<big>[[G1205\|Δεῦτε]]</big>**  |Deute <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to |**<big>[[G4314\|πρός]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

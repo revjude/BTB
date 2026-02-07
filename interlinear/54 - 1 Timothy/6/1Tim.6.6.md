@@ -1,12 +1,12 @@
-**1 Timothy 6:6
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 6:6**<big><big>[[1Tim.6.6 Godliness with Contentment|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But godliness with contentment is great gain.
 <small><sub>**BSB:**</sub></small>
 Of course, godliness with contentment is great gain.
 <small><sub>**Literal:**</sub></small>
 Is however gain great <the> godliness with contentment.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.5|<< 1 Timothy 6:5]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.7|1 Timothy 6:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Is |**<big>[[G1510\|Ἔστιν]]</big>**  |Estin <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

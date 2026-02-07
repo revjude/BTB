@@ -1,4 +1,4 @@
-**Jeremiah 51:2** 
+**Jeremiah 51:2**<big><big>[[Jer.51.1 Judgment on Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And will send unto Babylon fanners, that shall fan her, and shall empty her land: for in the day of trouble they shall be against her round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will send strangers to Babylon to winnow her and empty her land; for they will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.1|<< Jeremiah 51:1]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.3|Jeremiah 51:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will send  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7971G\|שִׁלַּחְתִּ֨י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> shi.lach.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Babylon  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0894\|בָבֶ֤ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> va.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

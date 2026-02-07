@@ -1,10 +1,7 @@
 **LXX Numbers 18:29** 
 <small><sub>**LXX:**</sub></small>
 From all  your gifts you shall remove a cut-away portion \[to the\] <span class="smallcaps">lord</span>, from all the first-fruits  having been sanctified of it. 
-<small><sub>**KJV:**</sub></small>
-Out of all your gifts ye shall offer every heave offering of the LORD, of all the best thereof, [even] the hallowed part thereof out of it.
-<small><sub>**BSB:**</sub></small>
-You must present the offering due the LORD from all the best of every gift, the holiest part of it.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.28|<< Numbers 18:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.30|Numbers 18:30 >>]]</td></tr></table>
 
 | Translation | Greek |

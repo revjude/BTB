@@ -1,12 +1,12 @@
-**Colossians 3:3
-**<small><sub>**KJV:**</sub></small>
+**Colossians 3:3**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For ye are dead, and your life is hid with Christ in God.
 <small><sub>**BSB:**</sub></small>
 For you died, and your life is now hidden with Christ in God.
 <small><sub>**Literal:**</sub></small>
 You have died for and the life of you has been hidden with <the> Christ in <the> God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.2|<< Colossians 3:2]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.4|Colossians 3:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You have died |**<big>[[G0599\|ἀπεθάνετε]]</big>**  |apethanete <small><sup>[[V-2AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

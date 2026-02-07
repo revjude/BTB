@@ -1,10 +1,7 @@
 **LXX Genesis 45:4** 
 <small><sub>**LXX:**</sub></small>
 And Joseph said to  his brothers, Approach to me! And they approached. And he said, I am Joseph  your brother, whom you delivered into Egypt. 
-<small><sub>**KJV:**</sub></small>
-And Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I [am] Joseph your brother, whom ye sold into Egypt.
-<small><sub>**BSB:**</sub></small>
-Then Joseph said to his brothers, “Please come near me.” And they did so. “I am Joseph, your brother,” he said, “the one you sold into Egypt!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.45.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.45.3|<< Genesis 45:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.45.5|Genesis 45:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 16:41** 
+**1 Chronicles 16:41**<big><big>[[1Chr.16.37 Worship before the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to the LORD, because his mercy [endureth] for ever;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ With them were Heman, Jeduthun, and the rest of those chosen and designated by n
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.40|<< 1 Chronicles 16:40]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.42|1 Chronicles 16:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [were] with them  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5973A\|עִמָּ]]&#8207;&#8207;[[H9038\|הֶם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.ma.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Heman  |**<big>&#8207;[[H1968I\|הֵימָ֣ן]]&#8207; </big>**| hei.Man<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

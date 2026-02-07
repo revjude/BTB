@@ -1,12 +1,12 @@
-**Mark 8:3
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:3**<big><big>[[Mark.8.1 The Feeding of the Four Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if I send them away fasting to their own houses, they will faint by the way: for divers of them came from far.
 <small><sub>**BSB:**</sub></small>
 If I send them home hungry, they will faint along the way. For some of them have come a great distance.”
 <small><sub>**Literal:**</sub></small>
 And if I shall send away them hungry to [the] homes of them, they will faint on the way; And some of them from afar have come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.2|<< Mark 8:2]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.4|Mark 8:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

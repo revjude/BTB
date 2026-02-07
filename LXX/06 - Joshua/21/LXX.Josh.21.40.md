@@ -1,10 +1,7 @@
 **LXX Joshua 21:40** 
 <small><sub>**LXX:**</sub></small>
 All the cities to the sons of Merari, according to their peoples of the ones left from the tribe  of Levi, and were  from their borders -- twelve cities. 
-<small><sub>**KJV:**</sub></small>
-So all the cities for the children of Merari by their families, which were remaining of the families of the Levites, were [by] their lot twelve cities.
-<small><sub>**BSB:**</sub></small>
-In all, twelve cities were allotted to the clans of Merari, the remaining Levite clans.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.21.40|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.21.39|<< Joshua 21:39]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.21.41|Joshua 21:41 >>]]</td></tr></table>
 
 | Translation | Greek |

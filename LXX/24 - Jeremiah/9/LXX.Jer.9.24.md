@@ -1,10 +1,7 @@
 **LXX Jeremiah 9:24** 
 <small><sub>**LXX:**</sub></small>
 But in this boasting let him boast! To perceive and to know me, that I am \[the\] <span class="smallcaps">lord</span>, the one having mercy, and judgment, and righteousness upon the earth. For my will \[is\] in these \[things\], says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-But let him that glorieth glory in this, that he understandeth and knoweth me, that I [am] the LORD which exercise lovingkindness, judgment, and righteousness, in the earth: for in these [things] I delight, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-But let him who boasts boast in this, that he understands and knows Me, that I am the LORD, who exercises loving devotion, justice and righteousness on the earth—for I delight in these things,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.23|<< Jeremiah 9:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.25|Jeremiah 9:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jeremiah 9:24** is...

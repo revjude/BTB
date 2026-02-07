@@ -1,10 +1,7 @@
 **LXX Joshua 6:24** 
 <small><sub>**LXX:**</sub></small>
 And the city was burned by fire with all the \[things\] in it. Except silver and gold and all brass and iron they yielded up unto \[the\] treasury to be carried in. 
-<small><sub>**KJV:**</sub></small>
-And they burnt the city with fire, and all that [was] therein: only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-Then the Israelites burned up the city and everything in it. However, they put the silver and gold and articles of bronze and iron into the treasury of the LORD’s house.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.23|<< Joshua 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.25|Joshua 6:25 >>]]</td></tr></table>
 
 | Translation | Greek |

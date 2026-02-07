@@ -1,4 +1,4 @@
-**Deuteronomy 9:14** 
+**Deuteronomy 9:14**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let me alone, that I may destroy them, and blot out their name from under heaven: and I will make of thee a nation mightier and greater than they.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Leave Me alone, so that I may destroy them and blot out their name from under he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.13|<< Deuteronomy 9:13]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.15|Deuteronomy 9:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | refrain  |**<big>&#8207;[[H7503\|הֶ֤רֶף]]&#8207; </big>**| He.ref<small><sup>[[HVhv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from me  |**<big>&#8207;[[H4480A\|מִמֶּ֙]]&#8207;&#8207;[[H9030\|נִּי֙]]&#8207; </big>**| mi.Me.<small><sup>[[HRd]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 16:36** 
+**Exodus 16:36**<big><big>[[Exod.16.31 The Jar of Manna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now an omer [is] the tenth [part] of an ephah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now an omer [is] the tenth [part] of an ephah.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.35|<< Exodus 16:35]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.1|Exodus 17:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the omer  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H6016B\|עֹ֕מֶר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'O.mer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] tenth [part] of  |**<big>&#8207;[[H6224\|עֲשִׂרִ֥ית]]&#8207; </big>**| 'a.si.Rit<small><sup>[[HAofsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

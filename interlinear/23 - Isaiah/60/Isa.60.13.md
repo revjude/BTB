@@ -1,4 +1,4 @@
-**Isaiah 60:13** 
+**Isaiah 60:13**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The glory of Lebanon shall come unto thee, the fir tree, the pine tree, and the box together, to beautify the place of my sanctuary; and I will make the place of my feet glorious.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The glory of Lebanon will come to you—its cypress, elm, and boxwood together�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.12|<< Isaiah 60:12]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.14|Isaiah 60:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] splendor of  |**<big>&#8207;[[H3519\|כְּב֤וֹד]]&#8207; </big>**| ke.Vod<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> Lebanon  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3844G\|לְּבָנוֹן֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> le.va.nOn<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

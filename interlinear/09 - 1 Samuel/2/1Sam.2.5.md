@@ -1,4 +1,4 @@
-**1 Samuel 2:5** 
+**1 Samuel 2:5**<big><big>[[1Sam.2.1 Hannah’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [They that were] full have hired out themselves for bread; and [they that were] hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The well-fed hire themselves out for food, but the starving hunger no more. The 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.4|<< 1 Samuel 2:4]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.6|1 Samuel 2:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | satisfied [people]  |**<big>&#8207;[[H7649\|שְׂבֵעִ֤ים]]&#8207; </big>**| se.ve.'Im<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> food  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3899H\|לֶּ֙חֶם֙]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Le.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

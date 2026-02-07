@@ -1,4 +1,4 @@
-**2 Chronicles 20:6** 
+**2 Chronicles 20:6**<big><big>[[2Chr.20.5 Jehoshaphat’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, O LORD God of our fathers, [art] not thou God in heaven? and rulest [not] thou over all the kingdoms of the heathen? and in thine hand [is there not] power and might, so that none is able to withstand thee?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and said, “O LORD, God of our fathers, are You not the God who is in heaven, a
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.5|<< 2 Chronicles 20:5]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.7|2 Chronicles 20:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמַ֗ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.Mar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֞ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

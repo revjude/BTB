@@ -1,12 +1,12 @@
-**John 12:47
-**<small><sub>**KJV:**</sub></small>
+**John 12:47**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if any man hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world.
 <small><sub>**BSB:**</sub></small>
 As for anyone who hears My words and does not keep them, I do not judge him. For I have not come to judge the world, but to save the world.
 <small><sub>**Literal:**</sub></small>
 And if anyone My shall hear <the> declarations and not shall keep [them], I myself not do judge him; not for I came that I may judge the world but that I may save the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.46|<< John 12:46]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.48|John 12:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐάν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

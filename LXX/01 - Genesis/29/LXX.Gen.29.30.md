@@ -1,10 +1,7 @@
 **LXX Genesis 29:30** 
 <small><sub>**LXX:**</sub></small>
 And he entered to Rachel. And he loved Rachel rather than Leah. And he served him another seven years. 
-<small><sub>**KJV:**</sub></small>
-And he went in also unto Rachel, and he loved also Rachel more than Leah, and served with him yet seven other years.
-<small><sub>**BSB:**</sub></small>
-Jacob slept with Rachel as well, and indeed, he loved Rachel more than Leah. So he worked for Laban another seven years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.29|<< Genesis 29:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.31|Genesis 29:31 >>]]</td></tr></table>
 
 | Translation | Greek |

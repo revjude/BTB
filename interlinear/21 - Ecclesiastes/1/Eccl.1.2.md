@@ -1,4 +1,4 @@
-**Ecclesiastes 1:2** 
+**Ecclesiastes 1:2**<big><big>[[Eccl.1.1 Everything Is Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Vanity of vanities, saith the Preacher, vanity of vanities; all [is] vanity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Vanity of vanities, saith the Preacher, vanity of vanities; all [is] vanity.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.1|<< Ecclesiastes 1:1]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.3|Ecclesiastes 1:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | futility of  |**<big>&#8207;[[H1892\|הֲבֵ֤ל]]&#8207; </big>**| ha.Vel<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | futilities  |**<big>&#8207;[[H1892\|הֲבָלִים֙]]&#8207; </big>**| ha.va.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

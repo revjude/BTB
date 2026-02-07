@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:13** 
 <small><sub>**LXX:**</sub></small>
 And he came. And behold, Eli sat upon  his chair by the gate watching the way, for his heart was receded on account of the ark  of God. And the man entered into the city to report. And the whole city yelled out. 
-<small><sub>**KJV:**</sub></small>
-And when he came, lo, Eli sat upon a seat by the wayside watching: for his heart trembled for the ark of God. And when the man came into the city, and told [it], all the city cried out.
-<small><sub>**BSB:**</sub></small>
-When he arrived, there was Eli, sitting on his chair beside the road and watching, because his heart trembled for the ark of God. When the man entered the city to give a report, the whole city cried out.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.12|<< 1 Samuel 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.14|1 Samuel 4:14 >>]]</td></tr></table>
 
 | Translation | Greek |

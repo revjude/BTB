@@ -1,4 +1,4 @@
-**Job 20:5** 
+**Job 20:5**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the triumphing of the wicked [is] short, and the joy of the hypocrite [but] for a moment?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the triumph of the wicked has been brief and the joy of the godless momentary?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.4|<< Job 20:4]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.6|Job 20:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] cry of joy of  |**<big>&#8207;[[H7445\|רִנְנַ֣ת]]&#8207; </big>**| ri.Nat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 88:13** 
 <small><sub>**LXX:**</sub></small>
 But I cried out to you O <span class="smallcaps">lord</span>; and in the morning  my prayer shall be with you beforehand. 
-<small><sub>**KJV:**</sub></small>
-But unto thee have I cried, O LORD; and in the morning shall my prayer prevent thee.
-<small><sub>**BSB:**</sub></small>
-But to You, O LORD, I cry for help; in the morning my prayer comes before You.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.88.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.12|<< Psalm 88:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.14|Psalm 88:14 >>]]</td></tr></table>
 
 | Translation | Greek |

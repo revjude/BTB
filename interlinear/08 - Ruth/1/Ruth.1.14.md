@@ -1,4 +1,4 @@
-**Ruth 1:14** 
+**Ruth 1:14**<big><big>[[Ruth.1.6 Ruth’s Loyalty to Naomi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave unto her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Again they wept aloud, and Orpah kissed her mother-in-law goodbye, but Ruth clun
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.13|<< Ruth 1:13]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.15|Ruth 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they raised  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375N\|תִּשֶּׂ֣נָה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Se.nah<small><sup>[[HVqw3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | voice their  |**<big>&#8207;[[H6963A\|קוֹלָ֔]]&#8207;&#8207;[[H9029\|ן]]&#8207; </big>**| ko.La<small><sup>[[HNcmsc]]</sup></small> n<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

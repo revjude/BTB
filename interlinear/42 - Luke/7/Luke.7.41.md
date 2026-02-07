@@ -1,12 +1,12 @@
-**Luke 7:41
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:41**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty.
 <small><sub>**BSB:**</sub></small>
 “Two men were debtors to a certain moneylender. One owed him five hundred denarii, and the other fifty.
 <small><sub>**Literal:**</sub></small>
 Two debtors there were to a creditor certain. the one was owing denarii five hundred, <the> and the other fifty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.40|<< Luke 7:40]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.42|Luke 7:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Two |**<big>[[G1417\|δύο]]</big>**  |duo <small><sup>[[A-NUI]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | debtors |**<big>[[G5533\|χρεοφειλέται]]</big>**  [^1] [^2] |chreopheiletai <small><sup>[[N-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

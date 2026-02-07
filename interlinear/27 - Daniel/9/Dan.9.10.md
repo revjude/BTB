@@ -1,4 +1,4 @@
-**Daniel 9:10** 
+**Daniel 9:10**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither have we obeyed the voice of the LORD our God, to walk in his laws, which he set before us by his servants the prophets.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and have not obeyed the voice of the LORD our God to walk in His laws, which He 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.9|<< Daniel 9:9]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.11|Daniel 9:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we have listened  |**<big>&#8207;[[H8085H\|שָׁמַ֔עְנוּ]]&#8207; </big>**| sha.Ma'.nu<small><sup>[[HVqp1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

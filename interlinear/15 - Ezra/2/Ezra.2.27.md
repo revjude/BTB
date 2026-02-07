@@ -1,4 +1,4 @@
-**Ezra 2:27** 
+**Ezra 2:27**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The men of Michmas, an hundred twenty and two.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the men of Michmash, 122;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.26|<< Ezra 2:26]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.28|Ezra 2:28 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] men of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֣י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Micmash  |**<big>&#8207;[[H4363\|מִכְמָ֔ס]]&#8207; </big>**| mikh.Mas<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

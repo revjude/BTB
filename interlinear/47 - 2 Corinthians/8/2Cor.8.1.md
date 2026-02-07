@@ -1,12 +1,12 @@
-**2 Corinthians 8:1
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:1**<big><big>[[2Cor.8.1 Generosity Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Moreover, brethren, we do you to wit of the grace of God bestowed on the churches of Macedonia;
 <small><sub>**BSB:**</sub></small>
 Now, brothers, we want you to know about the grace that God has given the churches of Macedonia.
 <small><sub>**Literal:**</sub></small>
 We make known now to you, brothers, the grace <the> of God which bestowed among the churches <the> of Macedonia<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.16|<< 2 Corinthians 7:16]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.2|2 Corinthians 8:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We make known |**<big>[[G1107\|Γνωρίζομεν]]</big>**  |Gnōrizomen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Song of Solomon 8:13** 
 <small><sub>**LXX:**</sub></small>
 O one sitting down in \[the\] gardens, \[the\] companions are taking heed \[to\] your voice. You caused me to hear! 
-<small><sub>**KJV:**</sub></small>
-Thou that dwellest in the gardens, the companions hearken to thy voice: cause me to hear [it].
-<small><sub>**BSB:**</sub></small>
-You who dwell in the gardens, my companions are listening for your voice. Let me hear it!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.12|<< Song of Solomon 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.14|Song of Solomon 8:14 >>]]</td></tr></table>
 
 | Translation | Greek |

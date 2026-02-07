@@ -1,12 +1,12 @@
-**1 Corinthians 15:16
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:16**<big><big>[[1Cor.15.12 The Resurrection of the Dead|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if the dead rise not, then is not Christ raised:
 <small><sub>**BSB:**</sub></small>
 For if the dead are not raised, then not even Christ has been raised.
 <small><sub>**Literal:**</sub></small>
 If for [the] dead not are raised, neither Christ has been raised;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.15|<< 1 Corinthians 15:15]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.17|1 Corinthians 15:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

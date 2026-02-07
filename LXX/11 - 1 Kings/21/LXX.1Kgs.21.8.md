@@ -1,10 +1,7 @@
 **LXX 1 Kings 21:8** 
 <small><sub>**LXX:**</sub></small>
 And she wrote upon a scroll the name of Ahab, and set seal  with his seal, and sent the scroll to the elders and to the free men of the ones dwelling with Naboth. 
-<small><sub>**KJV:**</sub></small>
-So she wrote letters in Ahab’s name, and sealed [them] with his seal, and sent the letters unto the elders and to the nobles that [were] in his city, dwelling with Naboth.
-<small><sub>**BSB:**</sub></small>
-Then Jezebel wrote letters in Ahab’s name, sealed them with his seal, and sent them to the elders and nobles who lived with Naboth in his city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.7|<< 1 Kings 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.9|1 Kings 21:9 >>]]</td></tr></table>
 
 | Translation | Greek |

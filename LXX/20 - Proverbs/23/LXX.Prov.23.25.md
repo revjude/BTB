@@ -1,10 +1,7 @@
 **LXX Proverbs 23:25** 
 <small><sub>**LXX:**</sub></small>
 father and mother be glad over you, and the one who gave birth to you rejoice! 
-<small><sub>**KJV:**</sub></small>
-Thy father and thy mother shall be glad, and she that bare thee shall rejoice.
-<small><sub>**BSB:**</sub></small>
-May your father and mother be glad, and may she who gave you birth rejoice!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.23.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.24|<< Proverbs 23:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.26|Proverbs 23:26 >>]]</td></tr></table>
 
 | Translation | Greek |

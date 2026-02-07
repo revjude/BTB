@@ -1,10 +1,7 @@
 **LXX Esther 4:11** 
 <small><sub>**LXX:**</sub></small>
 that, All the nations of the kingdom know that every man or woman, who shall enter to the king, into the inner courtyard uncalled, there is no deliverance to him, except to whomever the king stretches out the golden rod, this one shall be delivered; and I have not been called to enter to the king -- they are these thirty days. 
-<small><sub>**KJV:**</sub></small>
-All the king’s servants, and the people of the king’s provinces, do know, that whosoever, whether man or woman, shall come unto the king into the inner court, who is not called, [there is] one law of his to put [him] to death, except such to whom the king shall hold out the golden sceptre, that he may live: but I have not been called to come in unto the king these thirty days.
-<small><sub>**BSB:**</sub></small>
-“All the royal officials and the people of the king’s provinces know that one law applies to every man or woman who approaches the king in the inner court without being summoned—that he be put to death. Only if the king extends the gold scepter may that person live. But I have not been summoned to appear before the king for the past thirty days.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.4.10|<< Esther 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.4.12|Esther 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

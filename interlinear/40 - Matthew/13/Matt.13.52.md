@@ -1,12 +1,12 @@
-**Matthew 13:52
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:52**<big><big>[[Matt.13.47 The Parable of the Net|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said he unto them, Therefore every scribe [which is] instructed unto the kingdom of heaven is like unto a man [that is] an householder, which bringeth forth out of his treasure [things] new and old.
 <small><sub>**BSB:**</sub></small>
 Then He told them, “For this reason, every scribe who has been discipled in the kingdom of heaven is like a homeowner who brings out of his storeroom new treasures as well as old.”
 <small><sub>**Literal:**</sub></small>
 He then said to them; Because of this every scribe having been discipled into [in] the kingdom of the heavens like is to a man a master of a house who puts forth out of the treasure of him [things] new and old.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.51|<< Matthew 13:51]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.53|Matthew 13:53 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | He |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 9:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:6**<big><big>[[Matt.9.1 Jesus Heals a Paralytic|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But that ye may know that the Son of man hath power on earth to forgive sins, (then saith he to the sick of the palsy,) Arise, take up thy bed, and go unto thine house.
 <small><sub>**BSB:**</sub></small>
 But so that you may know that the Son of Man has authority on earth to forgive sins...” Then He said to the paralytic, “Get up, pick up your mat, and go home.”
 <small><sub>**Literal:**</sub></small>
 So that however you may know that authority has the Son <the> of Man on the earth to forgive sins.., Then He says to the paralytic; Having arisen do take up your <the> mat and do go to the house of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.5|<< Matthew 9:5]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.7|Matthew 9:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

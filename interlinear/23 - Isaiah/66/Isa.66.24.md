@@ -1,4 +1,4 @@
-**Isaiah 66:24** 
+**Isaiah 66:24**<big><big>[[Isa.66.15 Final Judgments against the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And they shall go forth, and look upon the carcases of the men that have transgr
 > $\quad$ referenced by: [[Mark.9.44|Mark 9:44]] ☩ [[Mark.9.46|Mark 9:46]] ☩ [[Mark.9.48|Mark 9:48]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will go out  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3318G\|יָצְא֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.tze.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they will look  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|רָא֔וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

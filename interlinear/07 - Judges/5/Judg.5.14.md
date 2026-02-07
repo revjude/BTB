@@ -1,4 +1,4 @@
-**Judges 5:14** 
+**Judges 5:14**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of Ephraim [was there] a root of them against Amalek; after thee, Benjamin, among thy people; out of Machir came down governors, and out of Zebulun they that handle the pen of the writer.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Some came from Ephraim, with their roots in Amalek; Benjamin came with your peop
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.13|<< Judges 5:13]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.15|Judges 5:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | some of  |**<big>&#8207;[[H4480A\|מִנִּ֣י]]&#8207; </big>**| mi.Ni<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ephraim  |**<big>&#8207;[[H0669G\|אֶפְרַ֗יִם]]&#8207; </big>**| 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

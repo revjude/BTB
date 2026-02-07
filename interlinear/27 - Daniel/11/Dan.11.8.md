@@ -1,4 +1,4 @@
-**Daniel 11:8** 
+**Daniel 11:8**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shall also carry captives into Egypt their gods, with their princes, [and] with their precious vessels of silver and of gold; and he shall continue [more] years than the king of the north.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will take even their gods captive to Egypt, with their metal images and their
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.7|<< Daniel 11:7]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.9|Daniel 11:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gods their  |**<big>&#8207;[[H0430J\|אֱֽלֹהֵי]]&#8207;&#8207;[[H9028\|הֶ֡ם]]&#8207; </big>**| 'elo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

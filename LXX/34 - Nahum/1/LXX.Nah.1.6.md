@@ -1,10 +1,7 @@
 **LXX Nahum 1:6** 
 <small><sub>**LXX:**</sub></small>
 From in front of his anger who shall stand, and who shall withstand in \[the\] anger of his rage?  His rage melts away sovereignties, and the rocks are broken because of him. 
-<small><sub>**KJV:**</sub></small>
-Who can stand before his indignation? and who can abide in the fierceness of his anger? his fury is poured out like fire, and the rocks are thrown down by him.
-<small><sub>**BSB:**</sub></small>
-Who can withstand His indignation? Who can endure His burning anger? His wrath is poured out like fire; even rocks are shattered before Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Nah.1.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.1.5|<< Nahum 1:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.1.7|Nahum 1:7 >>]]</td></tr></table>
 
 | Translation | Greek |

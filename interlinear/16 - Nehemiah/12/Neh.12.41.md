@@ -1,4 +1,4 @@
-**Nehemiah 12:41** 
+**Nehemiah 12:41**<big><big>[[Neh.12.27 The Dedication of the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, [and] Hananiah, with trumpets;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ as well as the priests with their trumpets—Eliakim, Maaseiah, Miniamin, Micaia
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.40|<< Nehemiah 12:40]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.42|Nehemiah 12:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the priests  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֲנִ֡ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Eliakim  |**<big>&#8207;[[H0471H\|אֶלְיָקִ֡ים]]&#8207; </big>**| 'el.ya.Kim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

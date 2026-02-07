@@ -1,10 +1,7 @@
 **LXX Daniel 2:30** 
 <small><sub>**LXX:**</sub></small>
 And to me \[there is\] not a wisdom  being in me more than all the living;  but this mystery was uncovered because of the  interpretation to be made known to the king, that you should know the thoughts of your heart. 
-<small><sub>**KJV:**</sub></small>
-But as for me, this secret is not revealed to me for [any] wisdom that I have more than any living, but for [their] sakes that shall make known the interpretation to the king, and that thou mightest know the thoughts of thy heart.
-<small><sub>**BSB:**</sub></small>
-And to me this mystery has been revealed, not because I have more wisdom than any man alive, but in order that the interpretation might be made known to the king, and that you may understand the thoughts of your mind.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.2.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.29|<< Daniel 2:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.31|Daniel 2:31 >>]]</td></tr></table>
 
 | Translation | Greek |

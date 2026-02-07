@@ -1,4 +1,4 @@
-**Leviticus 13:57** 
+**Leviticus 13:57**<big><big>[[Lev.13.47 Laws about Mildew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if it appear still in the garment, either in the warp, or in the woof, or in any thing of skin; it [is] a spreading [plague]: thou shalt burn that wherein the plague [is] with fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if it reappears in the fabric, weave, or knit, or on any leather article, it
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.56|<< Leviticus 13:56]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.58|Leviticus 13:58 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will appear  |**<big>&#8207;[[H7200G\|תֵּרָאֶ֨ה]]&#8207; </big>**| te.ra.'Eh<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

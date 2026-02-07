@@ -1,4 +1,4 @@
-**1 Samuel 8:19** 
+**1 Samuel 8:19**<big><big>[[1Sam.8.19 God Grants the Request|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless the people refused to obey the voice of Samuel; and they said, Nay; but we will have a king over us;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nevertheless, the people refused to listen to Samuel. “No!” they said. “We
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.18|<< 1 Samuel 8:18]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.20|1 Samuel 8:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they refused  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3985\|יְמָאֲנ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ma.'a.Nu<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֔ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

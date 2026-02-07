@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:31** 
 <small><sub>**LXX:**</sub></small>
 On account of this shriek for Moab on all sides! Yell over men of Keir Heres of squalid \[conditions\]! 
-<small><sub>**KJV:**</sub></small>
-Therefore will I howl for Moab, and I will cry out for all Moab; [mine heart] shall mourn for the men of Kirheres.
-<small><sub>**BSB:**</sub></small>
-Therefore I will wail for Moab; I will cry out for all of Moab; I will moan for the men of Kir-heres.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.30|<< Jeremiah 48:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.32|Jeremiah 48:32 >>]]</td></tr></table>
 
 | Translation | Greek |

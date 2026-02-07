@@ -1,10 +1,7 @@
 **LXX Psalm 36:7** 
 <small><sub>**LXX:**</sub></small>
 How you multiplied  your mercy, O God; and the sons  of men shall hope in \[the\] protection of your wings. 
-<small><sub>**KJV:**</sub></small>
-How excellent [is] thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.
-<small><sub>**BSB:**</sub></small>
-How precious is Your loving devotion, O God, that the children of men take refuge in the shadow of Your wings!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.36.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.36.6|<< Psalm 36:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.36.8|Psalm 36:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 8:12
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:12**<big><big>[[Luke.8.4 The Parable of the Sower|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved.
 <small><sub>**BSB:**</sub></small>
 The seeds along the path are those who hear, but the devil comes and takes away the word from their hearts, so that they may not believe and be saved.
 <small><sub>**Literal:**</sub></small>
 Those now along the road are which [are] having heard, then comes the devil and takes away the word from the heart of them that not having believed they may be saved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.11|<< Luke 8:11]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.13|Luke 8:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

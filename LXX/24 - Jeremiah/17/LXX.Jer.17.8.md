@@ -1,10 +1,7 @@
 **LXX Jeremiah 17:8** 
 <small><sub>**LXX:**</sub></small>
 And he shall be as a tree prospering by waters; and upon a moist \[place\] he shall shoot his roots; and he will not be fearful whenever sweltering heat comes; and there will be for him \[tree\] trunks of \[the\] woods. In \[the\] year of drought he shall not be fearful, and he shall not stop producing fruit. 
-<small><sub>**KJV:**</sub></small>
-For he shall be as a tree planted by the waters, and [that] spreadeth out her roots by the river, and shall not see when heat cometh, but her leaf shall be green; and shall not be careful in the year of drought, neither shall cease from yielding fruit.
-<small><sub>**BSB:**</sub></small>
-He is like a tree planted by the waters that sends out its roots toward the stream. It does not fear when the heat comes, and its leaves are always green. It does not worry in a year of drought, nor does it cease to produce fruit.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.7|<< Jeremiah 17:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.9|Jeremiah 17:9 >>]]</td></tr></table>
 
 | Translation | Greek |

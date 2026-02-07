@@ -1,10 +1,7 @@
 **LXX Daniel 1:5** 
 <small><sub>**LXX:**</sub></small>
 And the king set in order to them   day by day from the table of the king, and from the wine  of his banquet; and to maintain them for three years, and after these \[things\] to stand \[them\] before the king. 
-<small><sub>**KJV:**</sub></small>
-And the king appointed them a daily provision of the king’s meat, and of the wine which he drank: so nourishing them three years, that at the end thereof they might stand before the king.
-<small><sub>**BSB:**</sub></small>
-The king assigned them daily provisions of the royal food and wine. They were to be trained for three years, after which they were to enter the king’s service.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.4|<< Daniel 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.6|Daniel 1:6 >>]]</td></tr></table>
 
 | Translation | Greek |

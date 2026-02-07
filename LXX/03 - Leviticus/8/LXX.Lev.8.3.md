@@ -1,10 +1,7 @@
 **LXX Leviticus 8:3** 
 <small><sub>**LXX:**</sub></small>
 And let all the congregation hold an assembly at the door of the tent of the testimony! 
-<small><sub>**KJV:**</sub></small>
-And gather thou all the congregation together unto the door of the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-and assemble the whole congregation at the entrance to the Tent of Meeting.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.2|<< Leviticus 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.4|Leviticus 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

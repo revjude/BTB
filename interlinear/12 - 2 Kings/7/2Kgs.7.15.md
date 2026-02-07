@@ -1,4 +1,4 @@
-**2 Kings 7:15** 
+**2 Kings 7:15**<big><big>[[2Kgs.7.3 The Syrians Flee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went after them unto Jordan: and, lo, all the way [was] full of garments and vessels, which the Syrians had cast away in their haste. And the messengers returned, and told the king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they tracked them as far as the Jordan, and indeed, the whole way was litter
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.14|<< 2 Kings 7:14]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.16|2 Kings 7:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980N\|יֵּלְכ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.le.Khu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | after them  |**<big>&#8207;[[H0310A\|אַחֲרֵי]]&#8207;&#8207;[[H9038\|הֶם֮]]&#8207; </big>**| 'a.cha.rei.<small><sup>[[HAcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

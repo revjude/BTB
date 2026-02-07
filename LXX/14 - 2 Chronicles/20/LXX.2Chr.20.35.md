@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:35** 
 <small><sub>**LXX:**</sub></small>
 And after these \[things\], Jehoshaphat king of Judah participated with Ahaziah king of Israel. And he acted lawlessly  to do. 
-<small><sub>**KJV:**</sub></small>
-And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel, who did very wickedly:
-<small><sub>**BSB:**</sub></small>
-Later, Jehoshaphat king of Judah made an alliance with Ahaziah king of Israel, who acted wickedly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.34|<< 2 Chronicles 20:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.36|2 Chronicles 20:36 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Exodus 9:10** 
+**Exodus 9:10**<big><big>[[Exod.9.8 The Sixth Plague：Boils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth [with] blains upon man, and upon beast.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So they took soot from the furnace and stood before Pharaoh. Moses tossed it int
 > $\quad$ referenced by: [[Rev.16.2|Rev 16:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקְח֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yik.Chu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

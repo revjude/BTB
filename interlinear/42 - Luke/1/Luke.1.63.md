@@ -1,12 +1,12 @@
-**Luke 1:63
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:63**<big><big>[[Luke.1.57 The Birth of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he asked for a writing table, and wrote, saying, His name is John. And they marvelled all.
 <small><sub>**BSB:**</sub></small>
 Zechariah asked for a tablet and wrote, “His name is John.” And they were all amazed.
 <small><sub>**Literal:**</sub></small>
 And having asked for a writing tablet he wrote saying; John is the name of him. And they marveled all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.62|<< Luke 1:62]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.64|Luke 1:64 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having asked for |**<big>[[G0154\|αἰτήσας]]</big>**  |aitēsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Genesis 41:26** 
+**Genesis 41:26**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The seven good kine [are] seven years; and the seven good ears [are] seven years: the dream [is] one.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The seven good cows are seven years, and the seven ripe heads of grain are seven
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.25|<< Genesis 41:25]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.27|Genesis 41:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | seven  |**<big>&#8207;[[H7651\|שֶׁ֧בַע]]&#8207; </big>**| She.va'<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cows  |**<big>&#8207;[[H6510\|פָּרֹ֣ת]]&#8207; </big>**| pa.Rot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

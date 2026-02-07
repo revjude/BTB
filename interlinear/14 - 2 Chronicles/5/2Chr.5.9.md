@@ -1,4 +1,4 @@
-**2 Chronicles 5:9** 
+**2 Chronicles 5:9**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they drew out the staves [of the ark], that the ends of the staves were seen from the ark before the oracle; but they were not seen without. And there it is unto this day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The poles of the ark extended far enough that their ends were visible from in fr
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.8|<< 2 Chronicles 5:8]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.10|2 Chronicles 5:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were long  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H0748\|יַּאֲרִיכוּ֮]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.ri.Khu<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the poles  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0905G\|בַּדִּים֒]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

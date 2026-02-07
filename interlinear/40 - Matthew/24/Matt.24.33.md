@@ -1,12 +1,12 @@
-**Matthew 24:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:33**<big><big>[[Matt.24.32 The Lesson of the Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So likewise ye, when ye shall see all these things, know that it is near, [even] at the doors.
 <small><sub>**BSB:**</sub></small>
 So also, when you see all these things, you will know that He is near, right at the door.
 <small><sub>**Literal:**</sub></small>
 Thus also you yourselves when you may see all these things know that near He is at [the] doors.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.32|<< Matthew 24:32]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.34|Matthew 24:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Thus |**<big>[[G3779\|οὕτως]]</big>**  |houtōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

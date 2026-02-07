@@ -1,4 +1,4 @@
-**Psalms 30:3** (30:4)
+**Psalms 30:3**<big><big>[[Ps.30.1 You Turned My Mourning into Dancing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O LORD, You pulled me up from Sheol; You spared me from descending into the Pit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.30.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.2|<< Psalms 30:2]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30.4|Psalms 30:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְֽהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you brought up  |**<big>&#8207;[[H5927H\|הֶֽעֱלִ֣יתָ]]&#8207; </big>**| he.'e.Li.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

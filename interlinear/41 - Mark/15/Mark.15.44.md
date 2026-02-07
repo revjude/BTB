@@ -1,12 +1,12 @@
-**Mark 15:44
-**<small><sub>**KJV:**</sub></small>
+**Mark 15:44**<big><big>[[Mark.15.42 The Burial of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Pilate marvelled if he were already dead: and calling [unto him] the centurion, he asked him whether he had been any while dead.
 <small><sub>**BSB:**</sub></small>
 Pilate was surprised to hear that Jesus was already dead, so he summoned the centurion to ask if this was so.
 <small><sub>**Literal:**</sub></small>
 <the> And Pilate wondered if already He has died, And having called to [him] the centurion he questioned him whether of old He had died.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.43|<< Mark 15:43]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.45|Mark 15:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

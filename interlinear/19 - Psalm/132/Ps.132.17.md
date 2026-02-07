@@ -1,4 +1,4 @@
-**Psalms 132:17** 
+**Psalms 132:17**<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There will I make the horn of David to bud: I have ordained a lamp for mine anointed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There I will make a horn grow for David; I have prepared a lamp for My anointed 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.16|<< Psalms 132:16]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.18|Psalms 132:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֤ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will make grow  |**<big>&#8207;[[H6779\|אַצְמִ֣יחַ]]&#8207; </big>**| 'atz.Mi.ach<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

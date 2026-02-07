@@ -1,10 +1,7 @@
 **LXX Genesis 24:15** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass before  completing his speaking in  his mind, that behold, Rebekah came forth -- the \[one\] born to Bethuel, son of Milcah, the wife of Nahor, and brother of Abraham, having the water-pitcher upon  her shoulders. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham’s brother, with her pitcher upon her shoulder.
-<small><sub>**BSB:**</sub></small>
-Before the servant had finished praying, Rebekah came out with her jar on her shoulder. She was the daughter of Bethuel son of Milcah, the wife of Abraham’s brother Nahor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.14|<< Genesis 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.16|Genesis 24:16 >>]]</td></tr></table>
 
 | Translation | Greek |

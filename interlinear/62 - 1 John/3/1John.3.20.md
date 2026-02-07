@@ -1,12 +1,12 @@
-**1 John 3:20
-**<small><sub>**KJV:**</sub></small>
+**1 John 3:20**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For if our heart condemn us, God is greater than our heart, and knoweth all things.
 <small><sub>**BSB:**</sub></small>
 Even if our hearts condemn us, God is greater than our hearts, and He knows all things.
 <small><sub>**Literal:**</sub></small>
 that if shall condemn [us] our <the> heart, that greater than is the God of the heart of us and He knows all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.19|<< 1 John 3:19]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.21|1 John 3:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

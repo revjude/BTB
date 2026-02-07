@@ -1,4 +1,4 @@
-**Ecclesiastes 4:3** 
+**Ecclesiastes 4:3**<big><big>[[Eccl.4.1 The Evil of Oppression|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, better [is he] than both they, which hath not yet been, who hath not seen the evil work that is done under the sun.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But better than both is he who has not yet existed, who has not seen the evil th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.2|<< Ecclesiastes 4:2]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.4|Ecclesiastes 4:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [is] good  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2896A\|טוֹב֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tOv<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | more than both of them  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8147\|שְּׁנֵי]]&#8207;&#8207;[[H9028\|הֶ֔ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> she.nei.<small><sup>[[HAcbdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

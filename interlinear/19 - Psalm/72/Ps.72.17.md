@@ -1,4 +1,4 @@
-**Psalms 72:17** 
+**Psalms 72:17**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His name shall endure for ever: his name shall be continued as long as the sun: and [men] shall be blessed in him: all nations shall call him blessed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May his name endure forever; may his name continue as long as the sun shines. In
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.16|<< Psalms 72:16]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.18|Psalms 72:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it be  |**<big>&#8207;[[H1961\|יְהִ֤י]]&#8207; </big>**| ye.Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | name his  |**<big>&#8207;[[H8034\|שְׁמ֨]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

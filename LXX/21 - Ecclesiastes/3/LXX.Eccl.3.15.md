@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 3:15** 
 <small><sub>**LXX:**</sub></small>
 The \[thing\] becoming, already is; and as much as  there is to be, already has become; and  God shall seek the \[thing\] pursuing. 
-<small><sub>**KJV:**</sub></small>
-That which hath been is now; and that which is to be hath already been; and God requireth that which is past.
-<small><sub>**BSB:**</sub></small>
-What exists has already been, and what will be has already been, for God will call to account what has passed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.3.14|<< Ecclesiastes 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.3.16|Ecclesiastes 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

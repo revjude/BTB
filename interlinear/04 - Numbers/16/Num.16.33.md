@@ -1,4 +1,4 @@
-**Numbers 16:33** 
+**Numbers 16:33**<big><big>[[Num.16.28 The Earth Swallows Korah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They, and all that [appertained] to them, went down alive into the pit, and the earth closed upon them: and they perished from among the congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They went down alive into Sheol with all they owned. The earth closed over them,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.32|<< Numbers 16:32]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.34|Numbers 16:34 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they went down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3381\|יֵּ֨רְד֜וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.re.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they  |**<big>&#8207;[[H1992\|הֵ֣ם]]&#8207; </big>**| hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

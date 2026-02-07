@@ -1,10 +1,7 @@
 **LXX Psalm 38:5** 
 <small><sub>**LXX:**</sub></small>
 My stripes give out an odor and fester from \[the\] face  of my folly. 
-<small><sub>**KJV:**</sub></small>
-My wounds stink [and] are corrupt because of my foolishness.
-<small><sub>**BSB:**</sub></small>
-My wounds are foul and festering because of my sinful folly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.38.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.38.4|<< Psalm 38:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.38.6|Psalm 38:6 >>]]</td></tr></table>
 
 | Translation | Greek |

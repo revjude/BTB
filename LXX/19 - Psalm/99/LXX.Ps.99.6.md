@@ -1,10 +1,7 @@
 **LXX Psalm 99:6** 
 <small><sub>**LXX:**</sub></small>
 Moses and Aaron \[are\] among  his priests, and Samuel \[is\] among the ones calling upon  his name. They called upon the <span class="smallcaps">lord</span>, and he listened to them. 
-<small><sub>**KJV:**</sub></small>
-Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.
-<small><sub>**BSB:**</sub></small>
-Moses and Aaron were among His priests; Samuel was among those who called on His name. They called to the LORD and He answered.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.99.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.99.5|<< Psalm 99:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.99.7|Psalm 99:7 >>]]</td></tr></table>
 
 | Translation | Greek |

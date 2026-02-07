@@ -1,4 +1,4 @@
-**Psalms 37:14** 
+**Psalms 37:14**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, [and] to slay such as be of upright conversation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The wicked have drawn the sword and bent the bow to bring down the poor and need
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.13|<< Psalms 37:13]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.15|Psalms 37:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a sword  |**<big>&#8207;[[H2719\|חֶ֤רֶב]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have drawn  |**<big>&#8207;[[H6605A\|פָּֽתְח֣וּ]]&#8207; </big>**| pa.te.Chu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

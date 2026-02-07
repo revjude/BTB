@@ -1,4 +1,4 @@
-**Jeremiah 4:30** 
+**Jeremiah 4:30**<big><big>[[Jer.4.19 Lamentation for Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [when] thou [art] spoiled, what wilt thou do? Though thou clothest thyself with crimson, though thou deckest thee with ornaments of gold, though thou rentest thy face with painting, in vain shalt thou make thyself fair; [thy] lovers will despise thee, they will seek thy life.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you, O devastated one, what will you do, though you dress yourself in scarle
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.29|<< Jeremiah 4:29]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.31|Jeremiah 4:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  [^2]|**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859C\|אַ֨תְּ]]&#8207; </big>**[^3] | ve.<small><sup>[[HC]]</sup></small> 'a.ti<small><sup>[[HPp2fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | O devastated [one]  |**<big>&#8207;[[H7703\|שָׁד֜וּד]]&#8207; </big>**| sha.Dud<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

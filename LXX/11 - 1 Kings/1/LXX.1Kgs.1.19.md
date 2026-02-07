@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:19** 
 <small><sub>**LXX:**</sub></small>
 And he sacrificed calves and lambs and sheep in multitude, and he called all the sons of the king, and Abiathar the priest, and Joab the ruler of the force; and  Solomon  your servant he did not call. 
-<small><sub>**KJV:**</sub></small>
-And he hath slain oxen and fat cattle and sheep in abundance, and hath called all the sons of the king, and Abiathar the priest, and Joab the captain of the host: but Solomon thy servant hath he not called.
-<small><sub>**BSB:**</sub></small>
-And he has sacrificed an abundance of oxen, fattened calves, and sheep, and has invited all the other sons of the king, as well as Abiathar the priest and Joab the commander of the army. But he has not invited your servant Solomon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.18|<< 1 Kings 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.20|1 Kings 1:20 >>]]</td></tr></table>
 
 | Translation | Greek |

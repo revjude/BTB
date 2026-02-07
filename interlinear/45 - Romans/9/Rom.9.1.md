@@ -1,12 +1,12 @@
-**Romans 9:1
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:1**<big><big>[[Rom.9.1 Paul’s Concern for the Jews|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I say the truth in Christ, I lie not, my conscience also bearing me witness in the Holy Ghost,
 <small><sub>**BSB:**</sub></small>
 I speak the truth in Christ; I am not lying, as confirmed by my conscience in the Holy Spirit.
 <small><sub>**Literal:**</sub></small>
 [The] truth I speak in Christ, Not I am lying, while is bearing witness  with me the conscience of mine in [the] Spirit Holy,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.39|<< Romans 8:39]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.2|Romans 9:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] truth |**<big>[[G0225\|Ἀλήθειαν]]</big>**  |Alētheian <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I speak |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

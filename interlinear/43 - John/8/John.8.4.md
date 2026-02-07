@@ -1,12 +1,12 @@
-**John 8:4
-**<small><sub>**KJV:**</sub></small>
+**John 8:4**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They say unto him, Master, this woman was taken in adultery, in the very act.
 <small><sub>**BSB:**</sub></small>
 and said, “Teacher, this woman was caught in the act of adultery.
 <small><sub>**Literal:**</sub></small>
 they say to Him, testing Teacher, this <the> woman was grasped in [the] very act committing adultery;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.3|<< John 8:3]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.5|John 8:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they say |**<big>[[G3004G\|λέγουσιν]]</big>**  |legousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |
 | to Him, |**<big>[[G0846\|αὐτῷ,]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+WH+TR+Byz">KO</abbr> | |

@@ -1,5 +1,5 @@
-**Revelation 10:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 10:8**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the voice which I heard from heaven spake unto me again, and said, Go [and] take the little book which is open in the hand of the angel which standeth upon the sea and upon the earth.
 <small><sub>**BSB:**</sub></small>
 Then the voice that I had heard from heaven spoke to me again, saying, “Go, take the small scroll that lies open in the hand of the angel standing on the sea and on the land.”
@@ -10,7 +10,7 @@ And the voice that I heard out of <the> heaven again was speaking with me and sa
 > $\quad$ alluding to: [[LXX.Ezek.2.8|Ezek 2:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

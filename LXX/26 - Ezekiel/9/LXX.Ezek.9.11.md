@@ -1,10 +1,7 @@
 **LXX Ezekiel 9:11** 
 <small><sub>**LXX:**</sub></small>
 And behold, the man, the one being clothed \[with\] the foot length robe, and the belt tied around  his loin, even answered saying, I have done as you gave charge to me. 
-<small><sub>**KJV:**</sub></small>
-And, behold, the man clothed with linen, which [had] the inkhorn by his side, reported the matter, saying, I have done as thou hast commanded me.
-<small><sub>**BSB:**</sub></small>
-Then the man clothed in linen with the writing kit at his side reported back, “I have done as You commanded.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.9.10|<< Ezekiel 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.10.1|Ezekiel 10:1 >>]]</td></tr></table>
 
 | Translation | Greek |

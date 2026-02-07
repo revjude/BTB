@@ -1,4 +1,4 @@
-**Psalms 39:4** (39:5)
+**Psalms 39:4**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, make me to know mine end, and the measure of my days, what it [is; that] I may know how frail I [am].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ LORD, make me to know mine end, and the measure of my days, what it [is; that] I
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.3|<< Psalms 39:3]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.5|Psalms 39:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | make known to me  |**<big>&#8207;[[H3045\|הוֹדִ֘יעֵ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ho.Di.'E.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

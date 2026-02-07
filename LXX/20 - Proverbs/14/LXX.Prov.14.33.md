@@ -1,10 +1,7 @@
 **LXX Proverbs 14:33** 
 <small><sub>**LXX:**</sub></small>
 Wisdom rests in \[the\] heart of a good man; but in \[the\] heart of fools it is not determined. 
-<small><sub>**KJV:**</sub></small>
-Wisdom resteth in the heart of him that hath understanding: but [that which is] in the midst of fools is made known.
-<small><sub>**BSB:**</sub></small>
-Wisdom rests in the heart of the discerning; even among fools she is known.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.14.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.14.32|<< Proverbs 14:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.14.34|Proverbs 14:34 >>]]</td></tr></table>
 
 | Translation | Greek |

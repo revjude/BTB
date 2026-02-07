@@ -1,10 +1,7 @@
 **LXX Job 12:8** 
 <small><sub>**LXX:**</sub></small>
 And tell in detail \[the\] earth! if it should expound to you; and the fishes of the sea shall describe to you. 
-<small><sub>**KJV:**</sub></small>
-Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee.
-<small><sub>**BSB:**</sub></small>
-Or speak to the earth, and it will teach you; let the fish of the sea inform you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.12.7|<< Job 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.12.9|Job 12:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 18:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:33**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Shouldest not thou also have had compassion on thy fellowservant, even as I had pity on thee?
 <small><sub>**BSB:**</sub></small>
 Shouldn’t you have had mercy on your fellow servant, just as I had on you?’
 <small><sub>**Literal:**</sub></small>
 Surely it was necessary also you to have pitied the fellow servant of you as also I myself you pitied?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.32|<< Matthew 18:32]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.34|Matthew 18:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Surely |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | it was necessary |**<big>[[G1163\|ἔδει]]</big>**  |edei <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

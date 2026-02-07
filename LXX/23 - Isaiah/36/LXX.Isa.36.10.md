@@ -1,10 +1,7 @@
 **LXX Isaiah 36:10** 
 <small><sub>**LXX:**</sub></small>
 And now, \[have\] we ascended without \[the\] <span class="smallcaps">lord</span> upon  this place to wage war with it? \[The\] <span class="smallcaps">lord</span> said to me, Ascend upon  this land, and utterly destroy it! 
-<small><sub>**KJV:**</sub></small>
-And am I now come up without the LORD against this land to destroy it? the LORD said unto me, Go up against this land, and destroy it.
-<small><sub>**BSB:**</sub></small>
-So now, was it apart from the LORD that I have come up against this land to destroy it? The LORD Himself said to me, ‘Go up against this land and destroy it.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.36.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.36.9|<< Isaiah 36:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.11|Isaiah 36:11 >>]]</td></tr></table>
 
 | Translation | Greek |

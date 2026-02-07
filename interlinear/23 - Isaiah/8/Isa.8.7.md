@@ -1,4 +1,4 @@
-**Isaiah 8:7** 
+**Isaiah 8:7**<big><big>[[Isa.8.1 Assyrian Invasion Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, behold, the Lord bringeth up upon them the waters of the river, strong and many, [even] the king of Assyria, and all his glory: and he shall come up over all his channels, and go over all his banks:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ the Lord will surely bring against them the mighty floodwaters of the Euphrates�
 > $\quad$ referenced by: [[Rev.17.15|Rev 17:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<to> therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֡ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

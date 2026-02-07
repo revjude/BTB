@@ -1,12 +1,12 @@
-**John 12:48
-**<small><sub>**KJV:**</sub></small>
+**John 12:48**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.
 <small><sub>**BSB:**</sub></small>
 There is a judge for the one who rejects Me and does not receive My words: The word that I have spoken will judge him on the last day.
 <small><sub>**Literal:**</sub></small>
 The [one] rejecting Me myself and not receiving the declarations of Mine has [one] judging him: The word which I spoke, that [one] will judge him in the last day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.47|<< John 12:47]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.49|John 12:49 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | rejecting |**<big>[[G0114\|ἀθετῶν]]</big>**  |athetōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

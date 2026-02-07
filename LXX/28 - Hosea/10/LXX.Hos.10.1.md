@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Israel \[is\] a grapevine having good vine branches  her fruit prospering. According to the multitude  of her fruits he multiplied the altars. According to the good \[things\]  of his land he built monuments. 
-<small><sub>**KJV:**</sub></small>
-Israel [is] an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images.
-<small><sub>**BSB:**</sub></small>
-Israel was a luxuriant vine, yielding fruit for himself. The more his fruit increased, the more he increased the altars. The better his land produced, the better he made the sacred pillars.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.10.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.9.17|<< Hosea 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.10.2|Hosea 10:2 >>]]</td></tr></table>
 
 | Translation | Greek |

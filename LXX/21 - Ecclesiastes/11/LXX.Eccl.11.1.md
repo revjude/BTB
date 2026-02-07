@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Send  your bread upon \[the\] face of the water! for in a multitude  of days you will find it. 
-<small><sub>**KJV:**</sub></small>
-Cast thy bread upon the waters: for thou shalt find it after many days.
-<small><sub>**BSB:**</sub></small>
-Cast your bread upon the waters, for after many days you will find it again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.11.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.10.20|<< Ecclesiastes 10:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.11.2|Ecclesiastes 11:2 >>]]</td></tr></table>
 
 | Translation | Greek |

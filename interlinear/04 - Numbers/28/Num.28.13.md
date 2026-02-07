@@ -1,4 +1,4 @@
-**Numbers 28:13** 
+**Numbers 28:13**<big><big>[[Num.28.11 The Monthly Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a several tenth deal of flour mingled with oil [for] a meat offering unto one lamb; [for] a burnt offering of a sweet savour, a sacrifice made by fire unto the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and a tenth of an ephah of fine flour mixed with oil as a grain offering with ea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.12|<< Numbers 28:12]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.14|Numbers 28:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a tenth [of an ephah]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6241\|עִשָּׂרֹ֣ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.sa.Ron<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a tenth [of an ephah]  |**<big>&#8207;[[H6241\|עִשָּׂר֗וֹן]]&#8207; </big>**| i.sa.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Exodus 37:16** 
 <small><sub>**LXX:**</sub></small>
 And he made the utensils for the table, both \[its\] saucers, and the incense pans, and the cups, and the libation bowls in which \[the priest\] will offer libations in them, \[made\] of pure gold. 
-<small><sub>**KJV:**</sub></small>
-And he made the vessels which [were] upon the table, his dishes, and his spoons, and his bowls, and his covers to cover withal, [of] pure gold.
-<small><sub>**BSB:**</sub></small>
-He also made the utensils for the table out of pure gold: its plates and dishes, as well as its bowls and pitchers for pouring drink offerings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.37.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.15|<< Exodus 37:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.17|Exodus 37:17 >>]]</td></tr></table>
 
 | Translation | Greek |

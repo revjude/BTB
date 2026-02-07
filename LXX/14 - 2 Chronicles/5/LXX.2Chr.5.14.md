@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 5:14** 
 <small><sub>**LXX:**</sub></small>
 And the priests were not able  to stand to officiate before \[the\] face of the cloud, for \[the\] glory \[of the\] <span class="smallcaps">lord</span> filled up the house  of God. 
-<small><sub>**KJV:**</sub></small>
-So that the priests could not stand to minister by reason of the cloud: for the glory of the LORD had filled the house of God.
-<small><sub>**BSB:**</sub></small>
-so that the priests could not stand there to minister because of the cloud. For the glory of the LORD filled the house of God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.5.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.5.13|<< 2 Chronicles 5:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.1|2 Chronicles 6:1 >>]]</td></tr></table>
 
 | Translation | Greek |

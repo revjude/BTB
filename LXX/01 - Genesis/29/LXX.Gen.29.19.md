@@ -1,10 +1,7 @@
 **LXX Genesis 29:19** 
 <small><sub>**LXX:**</sub></small>
 And Laban said to him, Better for me to give her to you, than for me to give her to another man. You live with me! 
-<small><sub>**KJV:**</sub></small>
-And Laban said, [It is] better that I give her to thee, than that I should give her to another man: abide with me.
-<small><sub>**BSB:**</sub></small>
-Laban replied, “Better that I give her to you than to another. Stay here with me.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.18|<< Genesis 29:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.20|Genesis 29:20 >>]]</td></tr></table>
 
 | Translation | Greek |

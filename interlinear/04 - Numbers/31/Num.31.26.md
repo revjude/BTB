@@ -1,4 +1,4 @@
-**Numbers 31:26** 
+**Numbers 31:26**<big><big>[[Num.31.25 Division of the Spoils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take the sum of the prey that was taken, [both] of man and of beast, thou, and Eleazar the priest, and the chief fathers of the congregation:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take the sum of the prey that was taken, [both] of man and of beast, thou, and E
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.25|<< Numbers 31:25]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.27|Numbers 31:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lift up  |**<big>&#8207;[[H5375V\|שָׂ֗א]]&#8207; </big>**| Sa'<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֣ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

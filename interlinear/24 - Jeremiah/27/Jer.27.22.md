@@ -1,4 +1,4 @@
-**Jeremiah 27:22** 
+**Jeremiah 27:22**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall be carried to Babylon, and there shall they be until the day that I visit them, saith the LORD; then will I bring them up, and restore them to this place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They shall be carried to Babylon, and there shall they be until the day that I v
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.21|<< Jeremiah 27:21]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28.1|Jeremiah 28:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Babylon towards  |**<big>&#8207;[[H0894\|בָּבֶ֥לָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| ba.Ve.la<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be taken  |**<big>&#8207;[[H0935P\|יוּבָ֖אוּ]]&#8207; </big>**| yu.Va.'u<small><sup>[[HVHi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

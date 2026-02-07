@@ -1,4 +1,4 @@
-**Psalms 72:2** 
+**Psalms 72:2**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall judge thy people with righteousness, and thy poor with judgment.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ May he judge Your people with righteousness and Your afflicted with justice.
 > $\quad$ referenced by: [[Rev.19.11|Rev 19:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will judge  |**<big>&#8207;[[H1777\|יָדִ֣ין]]&#8207; </big>**| ya.Din<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people your  |**<big>&#8207;[[H5971A\|עַמְּ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| 'a.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

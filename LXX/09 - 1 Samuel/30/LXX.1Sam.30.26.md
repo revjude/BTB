@@ -1,10 +1,7 @@
 **LXX 1 Samuel 30:26** 
 <small><sub>**LXX:**</sub></small>
 And David came to Ziklag, and he sent to the elders of Judah, and to his neighbors of the spoils, saying, Behold, a blessing to you from the spoils of the enemies of \[the\] <span class="smallcaps">lord</span>; 
-<small><sub>**KJV:**</sub></small>
-And when David came to Ziklag, he sent of the spoil unto the elders of Judah, [even] to his friends, saying, Behold a present for you of the spoil of the enemies of the LORD;
-<small><sub>**BSB:**</sub></small>
-When David arrived in Ziklag, he sent some of the plunder to his friends, the elders of Judah, saying, “Here is a gift for you from the plunder of the LORD’s enemies.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.30.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.25|<< 1 Samuel 30:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.27|1 Samuel 30:27 >>]]</td></tr></table>
 
 | Translation | Greek |

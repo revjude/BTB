@@ -1,4 +1,4 @@
-**Psalms 94:16** 
+**Psalms 94:16**<big><big>[[Ps.94.1 The LORD Will Not Forget His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who will rise up for me against the evildoers? [or] who will stand up for me against the workers of iniquity?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who will rise up for me against the wicked? Who will stand for me against the wo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.94.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.94.15|<< Psalms 94:15]]</td><td align="center" style="border:none;">[[Ps.94|Psalms 94]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.94.17|Psalms 94:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he rise up  |**<big>&#8207;[[H6965B\|יָק֣וּם]]&#8207; </big>**| ya.Kum<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

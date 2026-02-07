@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 12:6** 
 <small><sub>**LXX:**</sub></small>
 until whenever should be prostrated the line  of silver; and the flower ornament of gold should be broken, and the water-pitcher should be broken at the spring, and the wheel should have rolled unto the pit; 
-<small><sub>**KJV:**</sub></small>
-Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern.
-<small><sub>**BSB:**</sub></small>
-Remember Him before the silver cord is snapped and the golden bowl is crushed, before the pitcher is shattered at the spring and the wheel is broken at the well,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.12.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.12.5|<< Ecclesiastes 12:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.12.7|Ecclesiastes 12:7 >>]]</td></tr></table>
 
 | Translation | Greek |

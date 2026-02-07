@@ -1,4 +1,4 @@
-**Job 33:16** 
+**Job 33:16**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he openeth the ears of men, and sealeth their instruction,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He opens their ears and terrifies them with warnings
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.15|<< Job 33:15]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.17|Job 33:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֣ז]]&#8207; </big>**| 'az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will uncover  |**<big>&#8207;[[H1540I\|יִ֭גְלֶה]]&#8207; </big>**| Yig.leh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezra 6:3** 
+**Ezra 6:3**<big><big>[[Ezra.6.1 The Decree of Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the first year of Cyrus the king [the same] Cyrus the king made a decree [concerning] the house of God at Jerusalem, Let the house be builded, the place where they offered sacrifices, and let the foundations thereof be strongly laid; the height thereof threescore cubits, [and] the breadth thereof threescore cubits;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the first year of King Cyrus, he issued a decree concerning the house of God 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.2|<< Ezra 6:2]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.4|Ezra 6:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in year  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H8140\|שְׁנַ֨ת]]&#8207; </big>**| bi<small><sup>[[AR]]</sup></small> sh.Nat<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | one  |**<big>&#8207;[[H2298\|חֲדָ֜ה]]&#8207; </big>**| cha.Dah<small><sup>[[AAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

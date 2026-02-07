@@ -1,10 +1,7 @@
 **LXX Numbers 5:13** 
 <small><sub>**LXX:**</sub></small>
 and anyone should go to bed with her in \[the\] marriage-bed of semen, and it should be unaware from \[the\] eyes  of her husband, and she should hide \[it\], and herself should be defiled, and there should be no witness against her, and she should not be conceived; 
-<small><sub>**KJV:**</sub></small>
-And a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and [there be] no witness against her, neither she be taken [with the manner];
-<small><sub>**BSB:**</sub></small>
-by sleeping with another man, and it is concealed from her husband and her impurity is undetected (since there is no witness against her and she was not caught in the act),<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.12|<< Numbers 5:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.14|Numbers 5:14 >>]]</td></tr></table>
 
 | Translation | Greek |

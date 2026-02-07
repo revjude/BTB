@@ -1,4 +1,4 @@
-**Ezekiel 33:18** 
+**Ezekiel 33:18**<big><big>[[Ezek.33.10 The Message of the Watchman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the righteous turneth from his righteousness, and committeth iniquity, he shall even die thereby.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a righteous man turns from his righteousness and commits iniquity, he will di
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.17|<< Ezekiel 33:17]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.19|Ezekiel 33:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when turns back  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7725O\|שׁוּב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shuv-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a righteous [person]  |**<big>&#8207;[[H6662\|צַדִּ֥יק]]&#8207; </big>**| tza.Dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

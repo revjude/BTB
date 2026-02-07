@@ -1,4 +1,4 @@
-**Numbers 16:6** 
+**Numbers 16:6**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This do; Take you censers, Korah, and all his company;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You, Korah, and all your followers are to do as follows: Take censers,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.5|<< Numbers 16:5]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.7|Numbers 16:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | this  |**<big>&#8207;[[H2063\|זֹ֖את]]&#8207; </big>**| zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do  |**<big>&#8207;[[H6213A\|עֲשׂ֑וּ]]&#8207; </big>**| 'a.Su<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 25:8** 
+**Psalms 25:8**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Good and upright [is] the LORD: therefore will he teach sinners in the way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Good and upright is the LORD; therefore He shows sinners the way.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.7|<< Psalms 25:7]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.9|Psalms 25:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|טוֹב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tov-<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and upright  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3477G\|יָשָׁ֥ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.Shar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

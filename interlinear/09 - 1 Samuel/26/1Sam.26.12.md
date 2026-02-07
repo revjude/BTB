@@ -1,4 +1,4 @@
-**1 Samuel 26:12** 
+**1 Samuel 26:12**<big><big>[[1Sam.26.1 David Again Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David took the spear and the cruse of water from Saul’s bolster; and they gat them away, and no man saw [it], nor knew [it], neither awaked: for they [were] all asleep; because a deep sleep from the LORD was fallen upon them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So David took the spear and water jug by Saul’s head, and they departed. No on
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.11|<< 1 Samuel 26:11]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.13|1 Samuel 26:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּח֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֨ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

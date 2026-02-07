@@ -1,4 +1,4 @@
-**Leviticus 26:12** 
+**Leviticus 26:12**<big><big>[[Lev.26.1 Additional Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will walk among you, and will be your God, and ye shall be my people.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will walk among you and be your God, and you will be My people.
 > $\quad$ referenced by: [[2Cor.6.16|2Cor 6:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will walk about  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1980I\|הִתְהַלַּכְתִּי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hit.ha.lakh.Ti<small><sup>[[HVtq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in midst of you  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|ת֣וֹכְ]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tokh.<small><sup>[[HNcmsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

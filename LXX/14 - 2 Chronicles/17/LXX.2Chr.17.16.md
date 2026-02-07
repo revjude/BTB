@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 17:16** 
 <small><sub>**LXX:**</sub></small>
 And after him, Amasiah the \[son of\] Zichri, the one feeling eager to the <span class="smallcaps">lord</span>; and with him two hundred thousand mighty \[men\] of power. 
-<small><sub>**KJV:**</sub></small>
-And next him [was] Amasiah the son of Zichri, who willingly offered himself unto the LORD; and with him two hundred thousand mighty men of valour.
-<small><sub>**BSB:**</sub></small>
-and next to him, Amasiah son of Zichri, the volunteer for the LORD, and with him 200,000 mighty men of valor.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.17.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.17.15|<< 2 Chronicles 17:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.17.17|2 Chronicles 17:17 >>]]</td></tr></table>
 
 | Translation | Greek |

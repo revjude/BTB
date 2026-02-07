@@ -1,10 +1,7 @@
 **LXX Judges 14:15** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the seventh day, and they spoke to the wife of Samson, \[saying\], Deceive indeed  your husband! and let him explain to you the riddle, lest at any time we should burn you and the house  of your father by fire; or did you call us to make us poor? 
-<small><sub>**KJV:**</sub></small>
-And it came to pass on the seventh day, that they said unto Samson’s wife, Entice thy husband, that he may declare unto us the riddle, lest we burn thee and thy father’s house with fire: have ye called us to take that we have? [is it] not [so]?
-<small><sub>**BSB:**</sub></small>
-So on the fourth day they said to Samson’s wife, “Entice your husband to explain the riddle to us, or we will burn you and your father’s household to death. Did you invite us here to rob us?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.14|<< Judges 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.16|Judges 14:16 >>]]</td></tr></table>
 
 | Translation | Greek |

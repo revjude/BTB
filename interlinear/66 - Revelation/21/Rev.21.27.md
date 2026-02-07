@@ -1,5 +1,5 @@
-**Revelation 21:27
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:27**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there shall in no wise enter into it any thing that defileth, neither [whatsoever] worketh abomination, or [maketh] a lie: but they which are written in the Lamb’s book of life.
 <small><sub>**BSB:**</sub></small>
 But nothing unclean will ever enter it, nor anyone who practices an abomination or a lie, but only those whose names are written in the Lamb’s Book of Life.
@@ -10,7 +10,7 @@ And certainly not may enter into it anything unsanctified and the [one] practici
 > $\quad$ alluding to: [[LXX.Isa.52.1|Isa 52:1]] ☩ [[LXX.Ezek.44.9|Ezek 44:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | certainly |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

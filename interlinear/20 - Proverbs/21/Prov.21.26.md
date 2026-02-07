@@ -1,4 +1,4 @@
-**Proverbs 21:26** 
+**Proverbs 21:26**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He coveteth greedily all the day long: but the righteous giveth and spareth not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All day long he covets more, but the righteous give without restraint.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.25|<< Proverbs 21:25]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.27|Proverbs 21:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the day  |**<big>&#8207;[[H9009\|הַ֭]]&#8207;&#8207;[[H3117G\|יּוֹם]]&#8207; </big>**| Hai.<small><sup>[[HTd]]</sup></small> yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

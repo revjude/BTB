@@ -1,4 +1,4 @@
-**Job 29:9** 
+**Job 29:9**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The princes refrained talking, and laid [their] hand on their mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The princes refrained from speaking and covered their mouths with their hands.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.8|<< Job 29:8]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.10|Job 29:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | chiefs  |**<big>&#8207;[[H8269\|שָׂ֭רִים]]&#8207; </big>**| Sa.rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they restrained  |**<big>&#8207;[[H6113\|עָצְר֣וּ]]&#8207; </big>**| 'a.tze.Ru<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

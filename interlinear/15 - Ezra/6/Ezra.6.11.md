@@ -1,4 +1,4 @@
-**Ezra 6:11** 
+**Ezra 6:11**<big><big>[[Ezra.6.1 The Decree of Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also I have made a decree, that whosoever shall alter this word, let timber be pulled down from his house, and being set up, let him be hanged thereon; and let his house be made a dunghill for this.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I also decree that if any man interferes with this directive, a beam is to be to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.10|<< Ezra 6:10]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.12|Ezra 6:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from me  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4481\|מִנִּ]]&#8207;&#8207;[[H9030\|י֮]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> mi.N<small><sup>[[AR]]</sup></small> i<small><sup>[[ASp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is made  |**<big>&#8207;[[H7761G\|שִׂ֣ים]]&#8207; </big>**| sim<small><sup>[[AVQp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

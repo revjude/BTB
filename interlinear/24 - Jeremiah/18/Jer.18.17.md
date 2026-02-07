@@ -1,4 +1,4 @@
-**Jeremiah 18:17** 
+**Jeremiah 18:17**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will scatter them as with an east wind before the enemy; I will shew them the back, and not the face, in the day of their calamity.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will scatter them before the enemy like the east wind. I will show them My bac
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.16|<< Jeremiah 18:16]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.18|Jeremiah 18:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | like a wind of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H7307H\|רֽוּחַ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Ru.ach-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] east  |**<big>&#8207;[[H6921\|קָדִ֥ים]]&#8207; </big>**| ka.Dim<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

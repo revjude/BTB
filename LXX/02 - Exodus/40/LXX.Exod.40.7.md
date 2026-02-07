@@ -1,10 +1,7 @@
 **LXX Exodus 40:7** 
 <small><sub>**LXX:**</sub></small>
 And you shall place the bathing tub between the tent of the testimony and between the altar. And you shall put water in it. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt set the laver between the tent of the congregation and the altar, and shalt put water therein.
-<small><sub>**BSB:**</sub></small>
-And place the basin between the Tent of Meeting and the altar, and put water in it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.6|<< Exodus 40:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.8|Exodus 40:8 >>]]</td></tr></table>
 
 | Translation | Greek |

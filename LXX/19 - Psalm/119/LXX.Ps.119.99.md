@@ -1,10 +1,7 @@
 **LXX Psalm 119:99** 
 <small><sub>**LXX:**</sub></small>
 Above all the ones teaching me I perceived; for  your testimonies are my meditation. 
-<small><sub>**KJV:**</sub></small>
-I have more understanding than all my teachers: for thy testimonies [are] my meditation.
-<small><sub>**BSB:**</sub></small>
-I have more insight than all my teachers, for Your testimonies are my meditation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.99|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.98|<< Psalm 119:98]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.100|Psalm 119:100 >>]]</td></tr></table>
 
 | Translation | Greek |

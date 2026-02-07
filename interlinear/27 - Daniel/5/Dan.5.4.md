@@ -1,4 +1,4 @@
-**Daniel 5:4** 
+**Daniel 5:4**<big><big>[[Dan.5.1 Belshazzar’s Feast|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They drank wine, and praised the gods of gold, and of silver, of brass, of iron, of wood, and of stone.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As they drank the wine, they praised their gods of gold and silver, bronze and i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.3|<< Daniel 5:3]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.5|Daniel 5:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they drank  |**<big>&#8207;[[H8355\|אִשְׁתִּ֖יו]]&#8207; </big>**| 'ish.Tiv<small><sup>[[AVqp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wine the  |**<big>&#8207;[[H2562\|חַמְרָ֑]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| cham.Ra<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

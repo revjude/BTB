@@ -1,12 +1,12 @@
-**Philemon 1:25
-**<small><sub>**KJV:**</sub></small>
+**Philemon 1:25**<big><big>[[Phlm.1.23 Additional Greetings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The grace of our Lord Jesus Christ [be] with your spirit. Amen.
 <small><sub>**BSB:**</sub></small>
 The grace of the Lord Jesus Christ be with your spirit.
 <small><sub>**Literal:**</sub></small>
 The grace of the Lord of us Jesus Christ [be] with the spirit of you. Amen. to To Philemon it was written from Rome through Onesimus servant.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.24|<< Philemon 1:24]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.1|Hebrews 1:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | grace |**<big>[[G5485\|χάρις]]</big>**  |charis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

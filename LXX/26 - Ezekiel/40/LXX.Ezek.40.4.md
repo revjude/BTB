@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:4** 
 <small><sub>**LXX:**</sub></small>
 And the man said to me, You see, O son of man! With  your eyes behold, and with  your ears hear, and arrange in  your heart all as much as I show to you! For on account of  showing to you you entered here. And I will show all \[things\], as much as you see in the house  of Israel. 
-<small><sub>**KJV:**</sub></small>
-And the man said unto me, Son of man, behold with thine eyes, and hear with thine ears, and set thine heart upon all that I shall shew thee; for to the intent that I might shew [them] unto thee [art] thou brought hither: declare all that thou seest to the house of Israel.
-<small><sub>**BSB:**</sub></small>
-“Son of man,” he said to me, “look with your eyes, hear with your ears, and pay attention to everything I am going to show you, for that is why you have been brought here. Report to the house of Israel everything you see.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.3|<< Ezekiel 40:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.5|Ezekiel 40:5 >>]]</td></tr></table>
 
 | Translation | Greek |

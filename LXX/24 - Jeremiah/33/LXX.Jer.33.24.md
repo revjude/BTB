@@ -1,10 +1,7 @@
 **LXX Jeremiah 33:24** 
 <small><sub>**LXX:**</sub></small>
 Do you not know what  this people spoke, saying, Two kin which the <span class="smallcaps">lord</span> chose, he pushed them out? And  they provoked my people that you should not be a nation before them. 
-<small><sub>**KJV:**</sub></small>
-Considerest thou not what this people have spoken, saying, The two families which the LORD hath chosen, he hath even cast them off? thus they have despised my people, that they should be no more a nation before them.
-<small><sub>**BSB:**</sub></small>
-“Have you not noticed what these people are saying: ‘The LORD has rejected the two families He had chosen’? So they despise My people and no longer regard them as a nation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.33.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.23|<< Jeremiah 33:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.33.25|Jeremiah 33:25 >>]]</td></tr></table>
 
 | Translation | Greek |

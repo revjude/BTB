@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall say, Thus says Adonai \[the\] <span class="smallcaps">lord</span>  to Jerusalem;  Your root and  your birth are of \[the\] land of Canaan.  Your father \[was an\] Amorite, and  your mother a Hittite. 
-<small><sub>**KJV:**</sub></small>
-And say, Thus saith the Lord GOD unto Jerusalem; Thy birth and thy nativity [is] of the land of Canaan; thy father [was] an Amorite, and thy mother an Hittite.
-<small><sub>**BSB:**</sub></small>
-and tell her that this is what the Lord GOD says to Jerusalem: Your origin and your birth were in the land of the Canaanites. Your father was an Amorite and your mother a Hittite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.2|<< Ezekiel 16:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.4|Ezekiel 16:4 >>]]</td></tr></table>
 
 | Translation | Greek |

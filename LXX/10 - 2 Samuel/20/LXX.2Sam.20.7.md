@@ -1,10 +1,7 @@
 **LXX 2 Samuel 20:7** 
 <small><sub>**LXX:**</sub></small>
 And the men of Joab went forth after him, and the Cherethites, and the Pelethites, and all the mighty ones. And they went forth from Jerusalem, to pursue after Sheba son of Bichri. 
-<small><sub>**KJV:**</sub></small>
-And there went out after him Joab’s men, and the Cherethites, and the Pelethites, and all the mighty men: and they went out of Jerusalem, to pursue after Sheba the son of Bichri.
-<small><sub>**BSB:**</sub></small>
-So Joab’s men, along with the Cherethites, the Pelethites, and all the mighty men, marched out of Jerusalem in pursuit of Sheba son of Bichri.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.20.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.6|<< 2 Samuel 20:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.8|2 Samuel 20:8 >>]]</td></tr></table>
 
 | Translation | Greek |

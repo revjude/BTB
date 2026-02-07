@@ -1,12 +1,12 @@
-**Mark 12:22
-**<small><sub>**KJV:**</sub></small>
+**Mark 12:22**<big><big>[[Mark.12.18 The Sadducees and the Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the seven had her, and left no seed: last of all the woman died also.
 <small><sub>**BSB:**</sub></small>
 In this way, none of the seven left any children. And last of all, the woman died.
 <small><sub>**Literal:**</sub></small>
 And took her the seven and not left offspring. Last of all also the woman died.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.21|<< Mark 12:21]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.23|Mark 12:23 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | took |**<big>[[G2983\|ἔλαβον]]</big>**  |elabon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |

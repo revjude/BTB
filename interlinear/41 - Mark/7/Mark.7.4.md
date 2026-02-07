@@ -1,12 +1,12 @@
-**Mark 7:4
-**<small><sub>**KJV:**</sub></small>
+**Mark 7:4**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And [when they come] from the market, except they wash, they eat not. And many other things there be, which they have received to hold, [as] the washing of cups, and pots, brasen vessels, and of tables.
 <small><sub>**BSB:**</sub></small>
 And on returning from the market, they do not eat unless they wash. And there are many other traditions for them to observe, including the washing of cups, pitchers, kettles, and couches for dining.
 <small><sub>**Literal:**</sub></small>
 and [on coming] from [the] market now when may come only unless they shall wash not they eat; and other things many there are which they received to keep washings of cups and vessels and utensils and couches for dining.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.3|<< Mark 7:3]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.5|Mark 7:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [on coming] from |**<big>[[G0575\|ἀπ᾽]]</big>**  [^1] |ap᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

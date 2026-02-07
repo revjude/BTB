@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:37** 
 <small><sub>**LXX:**</sub></small>
 Return indeed  your servant! and I shall die in  my city, by the burying-place  of my father and  of my mother. And behold,  your servant Chimham  my son shall pass over with  my master the king; and you shall do for him the pleasing \[thing\] before you. 
-<small><sub>**KJV:**</sub></small>
-Let thy servant, I pray thee, turn back again, that I may die in mine own city, [and be buried] by the grave of my father and of my mother. But behold thy servant Chimham; let him go over with my lord the king; and do to him what shall seem good unto thee.
-<small><sub>**BSB:**</sub></small>
-Please let your servant return, that I may die in my own city near the tomb of my father and mother. But here is your servant Chimham. Let him cross over with my lord the king, and do for him what is good in your sight.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.36|<< 2 Samuel 19:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.38|2 Samuel 19:38 >>]]</td></tr></table>
 
 | Translation | Greek |

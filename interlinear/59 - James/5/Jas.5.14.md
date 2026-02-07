@@ -1,12 +1,12 @@
-**James 5:14
-**<small><sub>**KJV:**</sub></small>
+**James 5:14**<big><big>[[Jas.5.13 The Prayer of Faith|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Is any sick among you? let him call for the elders of the church; and let them pray over him, anointing him with oil in the name of the Lord:
 <small><sub>**BSB:**</sub></small>
 Is any one of you sick? He should call the elders of the church to pray over him and anoint him with oil in the name of the Lord.
 <small><sub>**Literal:**</sub></small>
 Is sick anyone among you? he should call near the elders of the church and they should pray over him having anointed him with oil in the name of the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.13|<< James 5:13]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.15|James 5:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Is sick |**<big>[[G0770H\|ἀσθενεῖ]]</big>**  |asthenei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

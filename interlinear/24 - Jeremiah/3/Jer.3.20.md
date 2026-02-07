@@ -1,4 +1,4 @@
-**Jeremiah 3:20** 
+**Jeremiah 3:20**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely [as] a wife treacherously departeth from her husband, so have ye dealt treacherously with me, O house of Israel, saith the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But as a woman may betray her husband, so you have betrayed Me, O house of Israe
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.19|<< Jeremiah 3:19]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.21|Jeremiah 3:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | nevertheless  |**<big>&#8207;[[H0403\|אָכֵ֛ן]]&#8207; </big>**| 'a.Khen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she deals treacherously  |**<big>&#8207;[[H0898\|בָּגְדָ֥ה]]&#8207; </big>**| ba.ge.Dah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 17:17** 
 <small><sub>**LXX:**</sub></small>
 And not by great power nor by a great multitude Pharaoh make war with him, in throwing up a palisade and with construction of a range of weapons  to remove many souls. 
-<small><sub>**KJV:**</sub></small>
-Neither shall Pharaoh with [his] mighty army and great company make for him in the war, by casting up mounts, and building forts, to cut off many persons:
-<small><sub>**BSB:**</sub></small>
-Pharaoh with his mighty army and vast horde will not help him in battle, when ramps are built and siege walls constructed to destroy many lives.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.17.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.17.16|<< Ezekiel 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.17.18|Ezekiel 17:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Jeremiah 46:23** 
+**Jeremiah 46:23**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall cut down her forest, saith the LORD, though it cannot be searched; because they are more than the grasshoppers, and [are] innumerable.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will chop down her forest, declares the LORD, dense though it may be, for t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.22|<< Jeremiah 46:22]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.24|Jeremiah 46:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will cut down  |**<big>&#8207;[[H3772G\|כָּרְת֤וּ]]&#8207; </big>**| ka.re.Tu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | forest its  |**<big>&#8207;[[H3293A\|יַעְרָ]]&#8207;&#8207;[[H9024\|הּ֙]]&#8207; </big>**| ya'.Ra<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

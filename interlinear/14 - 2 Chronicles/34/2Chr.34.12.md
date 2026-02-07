@@ -1,4 +1,4 @@
-**2 Chronicles 34:12** 
+**2 Chronicles 34:12**<big><big>[[2Chr.34.8 Josiah Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men did the work faithfully: and the overseers of them [were] Jahath and Obadiah, the Levites, of the sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, to set [it] forward; and [other of] the Levites, all that could skill of instruments of musick.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the men did the work faithfully. The Levites overseeing them were Jahath and
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.11|<< 2 Chronicles 34:11]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.13|2 Chronicles 34:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the men  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0582\|אֲנָשִׁים֩]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] working  |**<big>&#8207;[[H6213A\|עֹשִׂ֨ים]]&#8207; </big>**| 'o.Sim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

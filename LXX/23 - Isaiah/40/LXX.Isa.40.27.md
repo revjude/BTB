@@ -1,10 +1,7 @@
 **LXX Isaiah 40:27** 
 <small><sub>**LXX:**</sub></small>
 For you should not say, O Jacob, and why did you speak, O Israel, \[saying\], My way was concealed from  God, and  my God  removed judgment, and departed. 
-<small><sub>**KJV:**</sub></small>
-Why sayest thou, O Jacob, and speakest, O Israel, My way is hid from the LORD, and my judgment is passed over from my God?
-<small><sub>**BSB:**</sub></small>
-Why do you say, O Jacob, and why do you assert, O Israel, “My way is hidden from the LORD, and my claim is ignored by my God”?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.40.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.26|<< Isaiah 40:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.28|Isaiah 40:28 >>]]</td></tr></table>
 
 | Translation | Greek |

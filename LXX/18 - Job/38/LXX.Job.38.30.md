@@ -1,10 +1,7 @@
 **LXX Job 38:30** 
 <small><sub>**LXX:**</sub></small>
 which comes down as if water flowing? And who alarmed \[the\] face of \[the\] abyss? 
-<small><sub>**KJV:**</sub></small>
-The waters are hid as [with] a stone, and the face of the deep is frozen.
-<small><sub>**BSB:**</sub></small>
-when the waters become hard as stone and the surface of the deep is frozen?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.38.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.38.29|<< Job 38:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.38.31|Job 38:31 >>]]</td></tr></table>
 
 | Translation | Greek |

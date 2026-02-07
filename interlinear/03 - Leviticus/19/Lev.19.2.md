@@ -1,4 +1,4 @@
-**Leviticus 19:2** 
+**Leviticus 19:2**<big><big>[[Lev.19.1 Commandments for Holiness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the LORD your God [am] holy.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Speak unto all the congregation of the children of Israel, and say unto them, Ye
 > $\quad$ referenced by: [[1Pet.1.16|1Pet 1:16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | speak  |**<big>&#8207;[[H1696G\|דַּבֵּ֞ר]]&#8207; </big>**| da.Ber<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

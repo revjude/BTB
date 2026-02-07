@@ -1,12 +1,12 @@
-**John 17:24
-**<small><sub>**KJV:**</sub></small>
+**John 17:24**<big><big>[[John.17.20 Prayer for All Believers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me: for thou lovedst me before the foundation of the world.
 <small><sub>**BSB:**</sub></small>
 Father, I want those You have given Me to be with Me where I am, that they may see the glory You gave Me because You loved Me before the foundation of the world.
 <small><sub>**Literal:**</sub></small>
 Father, that [one] You have given Me I desire that where am I myself they also may be with Me, that they may behold <the> glory <the> of Mine that You have given Me because You loved Me before [the] foundation of [the] world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.23|<< John 17:23]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.25|John 17:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Father, [^1] |**<big>[[G3962\|Πάτερ,]]</big>**  |Pater <small><sup>[[N-VSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR+Byz">NK(o)</abbr> | |
 | that [one] [^2] |**<big>[[G3739\|ὃ]]</big>**  |ho <small><sup>[[R-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

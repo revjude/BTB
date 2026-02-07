@@ -1,10 +1,7 @@
 **LXX Judges 12:15** 
 <small><sub>**LXX:**</sub></small>
 And Abdon \[the\] son of Hillel the Pirathonite died, and he was entombed in Pirathon in \[the\] land of Ephraim, in \[the\] mountain \[of\] Amalek. 
-<small><sub>**KJV:**</sub></small>
-And Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the mount of the Amalekites.
-<small><sub>**BSB:**</sub></small>
-Then Abdon son of Hillel, from Pirathon, died, and he was buried at Pirathon in Ephraim, in the hill country of the Amalekites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.12.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.12.14|<< Judges 12:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.13.1|Judges 13:1 >>]]</td></tr></table>
 
 | Translation | Greek |

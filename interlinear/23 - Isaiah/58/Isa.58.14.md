@@ -1,4 +1,4 @@
-**Isaiah 58:14** 
+**Isaiah 58:14**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou delight thyself in the LORD; and I will cause thee to ride upon the high places of the earth, and feed thee with the heritage of Jacob thy father: for the mouth of the LORD hath spoken [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then you will delight yourself in the LORD, and I will make you ride on the heig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.13|<< Isaiah 58:13]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.1|Isaiah 59:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | then  |**<big>&#8207;[[H0227A\|אָ֗ז]]&#8207; </big>**| 'Az<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will take delight  |**<big>&#8207;[[H6026\|תִּתְעַנַּג֙]]&#8207; </big>**| tit.'a.Nag<small><sup>[[HVti2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

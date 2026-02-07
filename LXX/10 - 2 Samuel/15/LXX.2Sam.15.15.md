@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:15** 
 <small><sub>**LXX:**</sub></small>
 And the servants of the king said to the king, According to all as much as seems good  to our master the king, behold,  \[we are\] your servants. 
-<small><sub>**KJV:**</sub></small>
-And the king’s servants said unto the king, Behold, thy servants [are ready to do] whatsoever my lord the king shall appoint.
-<small><sub>**BSB:**</sub></small>
-The king’s servants replied, “Whatever our lord the king decides, we are your servants.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.14|<< 2 Samuel 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.16|2 Samuel 15:16 >>]]</td></tr></table>
 
 | Translation | Greek |

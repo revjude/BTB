@@ -1,12 +1,12 @@
-**Mark 10:47
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:47**<big><big>[[Mark.10.46 Jesus Heals Bartimaeus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, [thou] Son of David, have mercy on me.
 <small><sub>**BSB:**</sub></small>
 When he heard that it was Jesus of Nazareth, he began to cry out, “Jesus, Son of David, have mercy on me!”
 <small><sub>**Literal:**</sub></small>
 And having heard that Jesus <the> of Nazareth it is, he began to cry out and to say; O Son of David Jesus, do have mercy on me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.46|<< Mark 10:46]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.48|Mark 10:48 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having heard |**<big>[[G0191\|ἀκούσας]]</big>**  |akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

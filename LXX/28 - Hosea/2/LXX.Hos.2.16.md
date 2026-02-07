@@ -1,10 +1,7 @@
 **LXX Hosea 2:16** 
 <small><sub>**LXX:**</sub></small>
 And it will be in that  day, says \[the\] <span class="smallcaps">lord</span>, she shall call me,  My husband, and shall not call me any longer, Baalim. 
-<small><sub>**KJV:**</sub></small>
-And it shall be at that day, saith the LORD, [that] thou shalt call me Ishi; and shalt call me no more Baali.
-<small><sub>**BSB:**</sub></small>
-In that day,” declares the LORD, “you will call Me ‘my Husband,’ and no longer call Me ‘my Master.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.15|<< Hosea 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.17|Hosea 2:17 >>]]</td></tr></table>
 
 | Translation | Greek |

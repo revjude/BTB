@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 I am, I am he, the one comforting you. Know who is being! that you should be fearful from mortal man, and from a son of man -- the ones who as grass were dried up. 
-<small><sub>**KJV:**</sub></small>
-I, [even] I, [am] he that comforteth you: who [art] thou, that thou shouldest be afraid of a man [that] shall die, and of the son of man [which] shall be made [as] grass;
-<small><sub>**BSB:**</sub></small>
-“I, even I, am He who comforts you. Why should you be afraid of mortal man, of a son of man who withers like grass?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.51.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.11|<< Isaiah 51:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.13|Isaiah 51:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:31** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the thirtieth and seventh year of the resettling  of Jehoiakim king of Judah, in the twelfth month, on the fifth and twentieth day of the month, Evil-merodach king of Babylon took, in the year in which he took reign, the head of Jehoiakim king Judah, and led him from out of \[the\] house of which he was guarded. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, in the five and twentieth [day] of the month, [that] Evilmerodach king of Babylon in the [first] year of his reign lifted up the head of Jehoiachin king of Judah, and brought him forth out of prison,
-<small><sub>**BSB:**</sub></small>
-On the twenty-fifth day of the twelfth month of the thirty-seventh year of the exile of Jehoiachin king of Judah, in the first year of the reign of Evil-merodach king of Babylon, he pardoned Jehoiachin king of Judah and released him from prison.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.30|<< Jeremiah 52:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.32|Jeremiah 52:32 >>]]</td></tr></table>
 
 | Translation | Greek |

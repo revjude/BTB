@@ -1,10 +1,7 @@
 **LXX Psalm 54:3** 
 <small><sub>**LXX:**</sub></small>
 For strangers rose up against me; and strong \[men\] seek  my life; and they did not set  God before them. 
-<small><sub>**KJV:**</sub></small>
-For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.
-<small><sub>**BSB:**</sub></small>
-For strangers rise up against me, and ruthless men seek my life—men with no regard for God. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.54.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.54.2|<< Psalm 54:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.54.4|Psalm 54:4 >>]]</td></tr></table>
 
 | Translation | Greek |

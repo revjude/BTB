@@ -1,12 +1,12 @@
-**Luke 4:20
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:20**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he closed the book, and he gave [it] again to the minister, and sat down. And the eyes of all them that were in the synagogue were fastened on him.
 <small><sub>**BSB:**</sub></small>
 Then He rolled up the scroll, returned it to the attendant, and sat down. The eyes of everyone in the synagogue were fixed on Him,
 <small><sub>**Literal:**</sub></small>
 And having rolled up the scroll having delivered [it] to the attendant He sat down, and of all the eyes in the synagogue were fixed upon Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.19|<< Luke 4:19]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.21|Luke 4:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having rolled up |**<big>[[G4428\|πτύξας]]</big>**  |ptuxas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

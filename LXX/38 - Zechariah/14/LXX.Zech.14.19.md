@@ -1,10 +1,7 @@
 **LXX Zechariah 14:19** 
 <small><sub>**LXX:**</sub></small>
 This will be the sin of Egypt, and the sin of all the nations which ever should not ascend to solemnize the holiday of the pitching of tents. 
-<small><sub>**KJV:**</sub></small>
-This shall be the punishment of Egypt, and the punishment of all nations that come not up to keep the feast of tabernacles.
-<small><sub>**BSB:**</sub></small>
-This will be the punishment of Egypt and of all the nations that do not go up to celebrate the Feast of Tabernacles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.18|<< Zechariah 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.20|Zechariah 14:20 >>]]</td></tr></table>
 
 | Translation | Greek |

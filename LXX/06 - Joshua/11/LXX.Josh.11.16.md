@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Joshua took all  this land -- the mountainous area, and the whole land of Negev, and all the land of Goshen, and the plain, and the \[land\] towards \[the\] west, and the mountain of Israel, and the low \[lands\], the ones towards the mountain; 
-<small><sub>**KJV:**</sub></small>
-So Joshua took all that land, the hills, and all the south country, and all the land of Goshen, and the valley, and the plain, and the mountain of Israel, and the valley of the same;
-<small><sub>**BSB:**</sub></small>
-So Joshua took this entire region: the hill country, all the Negev, all the land of Goshen, the western foothills, the Arabah, and the mountains of Israel and their foothills,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.15|<< Joshua 11:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.17|Joshua 11:17 >>]]</td></tr></table>
 
 | Translation | Greek |

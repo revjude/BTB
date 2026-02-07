@@ -1,10 +1,7 @@
 **LXX Genesis 41:19** 
 <small><sub>**LXX:**</sub></small>
 And behold, another seven oxen ascended after them from the river, \[in a\] sorry state and shameful to the sight, and thin in the flesh, what thing such as I saw not a shameful \[thing\] in \[the\] entire land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-And, behold, seven other kine came up after them, poor and very ill favoured and leanfleshed, such as I never saw in all the land of Egypt for badness:
-<small><sub>**BSB:**</sub></small>
-After them, seven other cows—sickly, ugly, and thin—came up. I have never seen such ugly cows in all the land of Egypt!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.18|<< Genesis 41:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.20|Genesis 41:20 >>]]</td></tr></table>
 
 | Translation | Greek |

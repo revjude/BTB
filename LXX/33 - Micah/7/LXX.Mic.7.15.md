@@ -1,10 +1,7 @@
 **LXX Micah 7:15** 
 <small><sub>**LXX:**</sub></small>
 And according to the days  of your departure from \[the\] land of Egypt, I will show to them wonderful \[things\]. 
-<small><sub>**KJV:**</sub></small>
-According to the days of thy coming out of the land of Egypt will I shew unto him marvellous [things].
-<small><sub>**BSB:**</sub></small>
-As in the days when you came out of Egypt, I will show My wonders.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.14|<< Micah 7:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.16|Micah 7:16 >>]]</td></tr></table>
 
 | Translation | Greek |

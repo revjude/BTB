@@ -1,12 +1,12 @@
-**Acts 13:44
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:44**<big><big>[[Acts.13.42 A Light for the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the next sabbath day came almost the whole city together to hear the word of God.
 <small><sub>**BSB:**</sub></small>
 On the following Sabbath, nearly the whole city gathered to hear the word of the Lord.
 <small><sub>**Literal:**</sub></small>
 On the now coming Sabbath almost all the city was gathered together to hear the word <the> of the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.43|<< Acts 13:43]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.45|Acts 13:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now [^1] |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NK(o)</abbr> | |

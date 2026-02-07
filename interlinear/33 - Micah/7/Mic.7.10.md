@@ -1,4 +1,4 @@
-**Micah 7:10** 
+**Micah 7:10**<big><big>[[Mic.7.7 Israel’s Confession and Comfort|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then [she that is] mine enemy shall see [it], and shame shall cover her which said unto me, Where is the LORD thy God? mine eyes shall behold her: now shall she be trodden down as the mire of the streets.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then my enemy will see and will be covered with shame—she who said to me, “W
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.9|<< Micah 7:9]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.11|Micah 7:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she will see  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7200G\|תֵרֶ֤א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> te.Re'<small><sup>[[HVqj3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | enemy my  |**<big>&#8207;[[H0341\|אֹיַ֙בְתִּ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| 'o.Yav.t<small><sup>[[HVqrfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

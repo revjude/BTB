@@ -1,12 +1,12 @@
-**Psalms 124:1** 
+**Psalms 124:1**<big><big>[[Ps.124.1 Our Help Is in the Name of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-A Song of degrees of David. If [it had] not [been] the LORD who was on our side, now may Israel say;
+If [it had] not [been] the LORD who was on our side, now may Israel say;
 <small><sub>**BSB:**</sub></small>
 A song of ascents. Of David. If the LORD had not been on our side—let Israel now declare—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.124.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.124.0|<< Psalms 124:0]]</td><td align="center" style="border:none;">[[Ps.124|Psalms 124]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.124.2|Psalms 124:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if not  |**<big>&#8207;[[H3884\|לוּלֵ֣י]]&#8207; </big>**| lu.Lei<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֭הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

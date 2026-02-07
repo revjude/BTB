@@ -1,5 +1,5 @@
-**Ephesians 6:14
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 6:14**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;
 <small><sub>**BSB:**</sub></small>
 Stand firm then, with the belt of truth buckled around your waist, with the breastplate of righteousness arrayed,
@@ -10,7 +10,7 @@ do stand therefore having girded the loins of you with truth and having put on t
 > $\quad$ alluding to: [[LXX.Isa.11.5|Isa 11:5]] ☩ [[LXX.Isa.59.17|Isa 59:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do stand |**<big>[[G2476\|στῆτε]]</big>**  |stēte <small><sup>[[V-2AAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

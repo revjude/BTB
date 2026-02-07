@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:28** 
 <small><sub>**LXX:**</sub></small>
 And Ahimaaz yelled and said to the king, Peace. And he did obeisance to the king upon his face upon the ground. And he said, Blessed \[be\] \[the\] <span class="smallcaps">lord</span>  your God, who shut up the men, the ones lifting  their hand against  my master the king. 
-<small><sub>**KJV:**</sub></small>
-And Ahimaaz called, and said unto the king, All is well. And he fell down to the earth upon his face before the king, and said, Blessed [be] the LORD thy God, which hath delivered up the men that lifted up their hand against my lord the king.
-<small><sub>**BSB:**</sub></small>
-Then Ahimaaz called out to the king, “All is well!” And he bowed facedown before the king. He continued, “Blessed be the LORD your God! He has delivered up the men who raised their hands against my lord the king.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.27|<< 2 Samuel 18:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.29|2 Samuel 18:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:8** 
 <small><sub>**LXX:**</sub></small>
  he shall not give his money with interest, and shall not take \[money\] by usury; he shall turn his hand from injustice; he shall execute a just judgment between a man and  his neighbor; 
-<small><sub>**KJV:**</sub></small>
-He [that] hath not given forth upon usury, neither hath taken any increase, [that] hath withdrawn his hand from iniquity, hath executed true judgment between man and man,
-<small><sub>**BSB:**</sub></small>
-He does not engage in usury or take excess interest, but he withholds his hand from iniquity and executes true justice between men.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.7|<< Ezekiel 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.9|Ezekiel 18:9 >>]]</td></tr></table>
 
 | Translation | Greek |

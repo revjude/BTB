@@ -1,10 +1,7 @@
 **LXX Isaiah 42:23** 
 <small><sub>**LXX:**</sub></small>
 Who among you shall give ear to these \[things\] which shall be heard for the \[things\] coming about? 
-<small><sub>**KJV:**</sub></small>
-Who among you will give ear to this? [who] will hearken and hear for the time to come?
-<small><sub>**BSB:**</sub></small>
-Who among you will pay attention to this? Who will listen and obey hereafter?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.22|<< Isaiah 42:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.24|Isaiah 42:24 >>]]</td></tr></table>
 
 | Translation | Greek |

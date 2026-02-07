@@ -1,4 +1,4 @@
-**Hosea 12:10** (12:11)
+**Hosea 12:10**<big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have also spoken by the prophets, and I have multiplied visions, and used similitudes, by the ministry of the prophets.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I spoke through the prophets and multiplied their visions; I gave parables throu
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.9|<< Hosea 12:9]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.11|Hosea 12:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I spoke  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1696G\|דִבַּ֙רְתִּי֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> di.Bar.ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

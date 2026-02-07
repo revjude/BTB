@@ -1,10 +1,7 @@
 **LXX Genesis 30:16** 
 <small><sub>**LXX:**</sub></small>
 And Jacob entered from out of \[the\] field \[at\] evening. And came forth Leah to meet him. And she said, You shall enter to me today, for I have hired you in return for the mandrakes  of my son. And he went to bed with her  that night. 
-<small><sub>**KJV:**</sub></small>
-And Jacob came out of the field in the evening, and Leah went out to meet him, and said, Thou must come in unto me; for surely I have hired thee with my son’s mandrakes. And he lay with her that night.
-<small><sub>**BSB:**</sub></small>
-When Jacob came in from the field that evening, Leah went out to meet him and said, “You must come with me, for I have hired you with my son’s mandrakes.” So he slept with her that night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.30.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.15|<< Genesis 30:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.17|Genesis 30:17 >>]]</td></tr></table>
 
 | Translation | Greek |

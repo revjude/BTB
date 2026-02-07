@@ -1,4 +1,4 @@
-**2 Samuel 1:27** 
+**2 Samuel 1:27**<big><big>[[2Sam.1.17 David’s Song for Saul and Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How are the mighty fallen, and the weapons of war perished!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ How the mighty have fallen, and the weapons of war have perished!”
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.26|<< 2 Samuel 1:26]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.1|2 Samuel 2:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how!  |**<big>&#8207;[[H0349A\|אֵ֚יךְ]]&#8207; </big>**| 'eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have fallen  |**<big>&#8207;[[H5307G\|נָפְל֣וּ]]&#8207; </big>**| na.fe.Lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

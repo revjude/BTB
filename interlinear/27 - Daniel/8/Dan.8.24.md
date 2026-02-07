@@ -1,4 +1,4 @@
-**Daniel 8:24** 
+**Daniel 8:24**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his power shall be mighty, but not by his own power: and he shall destroy wonderfully, and shall prosper, and practise, and shall destroy the mighty and the holy people.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ His power will be great, but it will not be his own. He will cause terrible dest
 > $\quad$ referenced by: [[Rev.13.7|Rev 13:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be mighty  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6105A\|עָצַ֤ם]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Tzam<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | power his  |**<big>&#8207;[[H3581B\|כֹּח]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| ko.Ch<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

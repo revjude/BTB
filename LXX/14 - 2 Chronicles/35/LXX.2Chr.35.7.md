@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 35:7** 
 <small><sub>**LXX:**</sub></small>
 And Josiah dedicated \[for\] the sons of the people -- sheep, and lambs, and kids from the sons of the goats, all for the passover, to everyone  being found -- in number thirty thousand, and three thousand calves. These \[were\] of the substance of the king. 
-<small><sub>**KJV:**</sub></small>
-And Josiah gave to the people, of the flock, lambs and kids, all for the passover offerings, for all that were present, to the number of thirty thousand, and three thousand bullocks: these [were] of the king’s substance.
-<small><sub>**BSB:**</sub></small>
-From his own flocks and herds Josiah contributed 30,000 lambs and goats plus 3,000 bulls for the Passover offerings for all the people who were present.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.35.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.6|<< 2 Chronicles 35:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.35.8|2 Chronicles 35:8 >>]]</td></tr></table>
 
 | Translation | Greek |

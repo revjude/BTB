@@ -1,12 +1,12 @@
-**1 Corinthians 11:29
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:29**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body.
 <small><sub>**BSB:**</sub></small>
 For anyone who eats and drinks without recognizing the body eats and drinks judgment on himself.
 <small><sub>**Literal:**</sub></small>
 The [one] for eating and drinking unworthily judgment on himself he eats and he drinks not discerning the body of the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.28|<< 1 Corinthians 11:28]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.30|1 Corinthians 11:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

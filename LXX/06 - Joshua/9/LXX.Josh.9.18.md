@@ -1,10 +1,7 @@
 **LXX Joshua 9:18** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel did not wage war with them, for all the rulers of the congregation swore by an oath to them by \[the\] <span class="smallcaps">lord</span>  God of Israel. And all the congregation complained about the rulers. 
-<small><sub>**KJV:**</sub></small>
-And the children of Israel smote them not, because the princes of the congregation had sworn unto them by the LORD God of Israel. And all the congregation murmured against the princes.
-<small><sub>**BSB:**</sub></small>
-But the Israelites did not attack them, because the leaders of the congregation had sworn an oath to them by the LORD, the God of Israel. And the whole congregation grumbled against the leaders.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.17|<< Joshua 9:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.19|Joshua 9:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 7:2** 
 <small><sub>**LXX:**</sub></small>
 O son, esteem the <span class="smallcaps">lord</span>! and you shall strengthen; and besides him, do not fear another! Keep my commandments! and you shall spend life;  and my words as if \[the\] pupil of \[your\] eyes. 
-<small><sub>**KJV:**</sub></small>
-Keep my commandments, and live; and my law as the apple of thine eye.
-<small><sub>**BSB:**</sub></small>
-Keep my commandments and live; guard my teachings as the apple of your eye.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.7.1|<< Proverbs 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.7.3|Proverbs 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

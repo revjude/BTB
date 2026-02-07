@@ -1,4 +1,4 @@
-**Lamentations 1:8** 
+**Lamentations 1:8**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Jerusalem hath grievously sinned; therefore she is removed: all that honoured her despise her, because they have seen her nakedness: yea, she sigheth, and turneth backward.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Jerusalem has sinned greatly; therefore she has become an object of scorn. All w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.7|<< Lamentations 1:7]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.9|Lamentations 1:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sin  |**<big>&#8207;[[H2399\|חֵ֤טְא]]&#8207; </big>**| chet'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she has sinned  |**<big>&#8207;[[H2398\|חָֽטְאָה֙]]&#8207; </big>**| cha.te.'Ah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

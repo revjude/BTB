@@ -1,10 +1,7 @@
 **LXX Genesis 47:16** 
 <small><sub>**LXX:**</sub></small>
 And Joseph said to them, Bring  your cattle, and I will give to you bread loaves \[in exchange\] for  your cattle, if the silver has dissipated. 
-<small><sub>**KJV:**</sub></small>
-And Joseph said, Give your cattle; and I will give you for your cattle, if money fail.
-<small><sub>**BSB:**</sub></small>
-“Then bring me your livestock,” said Joseph. “Since the money is gone, I will sell you food in exchange for your livestock.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.47.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.47.15|<< Genesis 47:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.47.17|Genesis 47:17 >>]]</td></tr></table>
 
 | Translation | Greek |

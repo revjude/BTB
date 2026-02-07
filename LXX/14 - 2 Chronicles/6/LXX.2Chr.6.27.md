@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:27** 
 <small><sub>**LXX:**</sub></small>
 then you shall listen from  heaven, and shall be propitious to the sins  of your servants, and  your people Israel, that you shall make manifest to them the good way, in which they shall go by it. And you shall put rain upon  your land, which you gave \[to\] your people for an inheritance. 
-<small><sub>**KJV:**</sub></small>
-Then hear thou from heaven, and forgive the sin of thy servants, and of thy people Israel, when thou hast taught them the good way, wherein they should walk; and send rain upon thy land, which thou hast given unto thy people for an inheritance.
-<small><sub>**BSB:**</sub></small>
-then may You hear from heaven and forgive the sin of Your servants, Your people Israel, so that You may teach them the good way in which they should walk. May You send rain on the land that You gave Your people as an inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.26|<< 2 Chronicles 6:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.28|2 Chronicles 6:28 >>]]</td></tr></table>
 
 | Translation | Greek |

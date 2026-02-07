@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 23:26** 
 <small><sub>**LXX:**</sub></small>
 And also to the Levites it is not to lift the tent, nor any  of its items for  its ministration. 
-<small><sub>**KJV:**</sub></small>
-And also unto the Levites; they shall no [more] carry the tabernacle, nor any vessels of it for the service thereof.
-<small><sub>**BSB:**</sub></small>
-So now the Levites no longer need to carry the tabernacle or any of the articles for its service.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.23.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.23.25|<< 1 Chronicles 23:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.23.27|1 Chronicles 23:27 >>]]</td></tr></table>
 
 | Translation | Greek |

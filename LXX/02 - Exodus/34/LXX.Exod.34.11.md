@@ -1,10 +1,7 @@
 **LXX Exodus 34:11** 
 <small><sub>**LXX:**</sub></small>
 You heed all as much as I give charge to you! Behold, I cast out before your face the Amorite, and the Canaanite, and the Hittite, and the Perizzite, and the Hivite, and the Gergesite, and the Jebusite. 
-<small><sub>**KJV:**</sub></small>
-Observe thou that which I command thee this day: behold, I drive out before thee the Amorite, and the Canaanite, and the Hittite, and the Perizzite, and the Hivite, and the Jebusite.
-<small><sub>**BSB:**</sub></small>
-Observe what I command you this day. I will drive out before you the Amorites, Canaanites, Hittites, Perizzites, Hivites, and Jebusites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.34.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.34.10|<< Exodus 34:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.34.12|Exodus 34:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 1 Samuel 15:10** 
 <small><sub>**LXX:**</sub></small>
 And came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> to Samuel, saying, 
-<small><sub>**KJV:**</sub></small>
-Then came the word of the LORD unto Samuel, saying,
-<small><sub>**BSB:**</sub></small>
-Then the word of the LORD came to Samuel, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.15.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.15.9|<< 1 Samuel 15:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.15.11|1 Samuel 15:11 >>]]</td></tr></table>
 
 | Translation | Greek |

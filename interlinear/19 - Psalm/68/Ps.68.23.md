@@ -1,4 +1,4 @@
-**Psalms 68:23** (68:24)
+**Psalms 68:23**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thy foot may be dipped in the blood of [thine] enemies, [and] the tongue of thy dogs in the same.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ that your foot may be dipped in the blood of your foes—the tongues of your dog
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.22|<< Psalms 68:22]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.24|Psalms 68:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֤עַן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it may smash  |**<big>&#8207;[[H4272\|תִּֽמְחַ֥ץ]]&#8207; </big>**| tim.Chatz<small><sup>[[HVqj2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

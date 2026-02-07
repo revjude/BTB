@@ -1,12 +1,12 @@
-**Luke 22:55
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:55**<big><big>[[Luke.22.54 Peter Denies Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them.
 <small><sub>**BSB:**</sub></small>
 When those present had kindled a fire in the middle of the courtyard and sat down together, Peter sat down among them.
 <small><sub>**Literal:**</sub></small>
 They having kindled around then a fire in [the] midst of the courtyard and when having sat down together they was sitting <the> Peter in midst of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.54|<< Luke 22:54]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.56|Luke 22:56 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They having kindled around [^1] |**<big>[[G6072\|περιαψάντων]]</big>**  |periapsantōn <small><sup>[[V-AAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

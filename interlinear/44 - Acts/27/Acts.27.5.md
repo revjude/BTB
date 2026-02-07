@@ -1,12 +1,12 @@
-**Acts 27:5
-**<small><sub>**KJV:**</sub></small>
+**Acts 27:5**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when we had sailed over the sea of Cilicia and Pamphylia, we came to Myra, [a city] of Lycia.
 <small><sub>**BSB:**</sub></small>
 And when we had sailed across the open sea off the coast of Cilicia and Pamphylia, we came to Myra in Lycia.
 <small><sub>**Literal:**</sub></small>
 <the> And then <the> along <the> Cilicia and Pamphylia having sailed across [the sea] we came to Myra <the> of Lycia.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.4|<< Acts 27:4]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.6|Acts 27:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τό]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

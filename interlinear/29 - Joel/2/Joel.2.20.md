@@ -1,4 +1,4 @@
-**Joel 2:20** 
+**Joel 2:20**<big><big>[[Joel.2.18 Restoration Promised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will remove far off from you the northern [army], and will drive him into a land barren and desolate, with his face toward the east sea, and his hinder part toward the utmost sea, and his stink shall come up, and his ill savour shall come up, because he hath done great things.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The northern army I will drive away from you, banishing it to a barren and desol
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.19|<< Joel 2:19]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.21|Joel 2:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְֽ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the northerner[s]  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6830\|צְּפוֹנִ֞י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tze.fo.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

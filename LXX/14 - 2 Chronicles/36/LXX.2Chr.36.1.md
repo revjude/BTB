@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And the people of the land took  Jehoahaz son of Josiah, and they anointed him, and placed him as king instead of  his father in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s stead in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Then the people of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.36.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.35.27|<< 2 Chronicles 35:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.36.2|2 Chronicles 36:2 >>]]</td></tr></table>
 
 | Translation | Greek |

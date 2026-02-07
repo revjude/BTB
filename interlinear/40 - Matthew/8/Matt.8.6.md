@@ -1,12 +1,12 @@
-**Matthew 8:6
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:6**<big><big>[[Matt.8.5 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented.
 <small><sub>**BSB:**</sub></small>
 “Lord, my servant lies at home, paralyzed and in terrible agony.”
 <small><sub>**Literal:**</sub></small>
 and saying; Lord, the servant of mine has been laid in the house paralyzed grievously being tormented.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.5|<< Matthew 8:5]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.7|Matthew 8:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | saying; |**<big>[[G3004G\|λέγων·]]</big>**  |legōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

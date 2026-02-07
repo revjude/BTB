@@ -1,10 +1,7 @@
 **LXX Deuteronomy 12:7** 
 <small><sub>**LXX:**</sub></small>
 And you shall eat there before \[the\] <span class="smallcaps">lord</span>  your God, and you shall be glad in all \[the things\] of which ever you should put  your hands, you and  your houses, in so far as \[the\] <span class="smallcaps">lord</span> your God blessed you. 
-<small><sub>**KJV:**</sub></small>
-And there ye shall eat before the LORD your God, and ye shall rejoice in all that ye put your hand unto, ye and your households, wherein the LORD thy God hath blessed thee.
-<small><sub>**BSB:**</sub></small>
-There, in the presence of the LORD your God, you and your households shall eat and rejoice in all you do, because the LORD your God has blessed you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.12.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.12.6|<< Deuteronomy 12:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.12.8|Deuteronomy 12:8 >>]]</td></tr></table>
 
 | Translation | Greek |

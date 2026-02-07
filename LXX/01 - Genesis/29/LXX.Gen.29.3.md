@@ -1,10 +1,7 @@
 **LXX Genesis 29:3** 
 <small><sub>**LXX:**</sub></small>
 And all the flocks came together there. And they rolled away the stone from the mouth of the well, and they watered the sheep, and restored the stone upon the mouth of the well into  \[its\] place. 
-<small><sub>**KJV:**</sub></small>
-And thither were all the flocks gathered: and they rolled the stone from the well’s mouth, and watered the sheep, and put the stone again upon the well’s mouth in his place.
-<small><sub>**BSB:**</sub></small>
-When all the flocks had been gathered there, the shepherds would roll away the stone from the mouth of the well and water the sheep. Then they would return the stone to its place over the mouth of the well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.2|<< Genesis 29:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.4|Genesis 29:4 >>]]</td></tr></table>
 
 | Translation | Greek |

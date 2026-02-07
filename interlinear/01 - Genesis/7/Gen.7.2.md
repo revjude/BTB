@@ -1,4 +1,4 @@
-**Genesis 7:2** 
+**Genesis 7:2**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that [are] not clean by two, the male and his female.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to take with you seven pairs of every kind of clean animal, a male and i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.1|<< Genesis 7:1]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.3|Genesis 7:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of all  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כֹּ֣ל]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the livestock  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0929\|בְּהֵמָ֣ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> be.he.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 17:11** 
 <small><sub>**LXX:**</sub></small>
 Thus advising, I advised. And all Israel in gathering together shall gather together unto you, from Dan and unto Beer-sheba, as the sand  upon the sea in multitude. And  your presence shall be going in \[the\] midst of them. 
-<small><sub>**KJV:**</sub></small>
-Therefore I counsel that all Israel be generally gathered unto thee, from Dan even to Beersheba, as the sand that [is] by the sea for multitude; and that thou go to battle in thine own person.
-<small><sub>**BSB:**</sub></small>
-Instead, I advise that all Israel from Dan to Beersheba—a multitude like the sand on the seashore—be gathered to you, and that you yourself lead them into battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.17.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.10|<< 2 Samuel 17:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.17.12|2 Samuel 17:12 >>]]</td></tr></table>
 
 | Translation | Greek |

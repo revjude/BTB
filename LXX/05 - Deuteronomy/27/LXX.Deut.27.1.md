@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Moses and the council of elders of Israel assigned, saying, Guard all the commandments! as many as I give charge to you today. 
-<small><sub>**KJV:**</sub></small>
-And Moses with the elders of Israel commanded the people, saying, Keep all the commandments which I command you this day.
-<small><sub>**BSB:**</sub></small>
-Then Moses and the elders of Israel commanded the people: “Keep all the commandments I am giving you today.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.27.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.26.19|<< Deuteronomy 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.27.2|Deuteronomy 27:2 >>]]</td></tr></table>
 
 | Translation | Greek |

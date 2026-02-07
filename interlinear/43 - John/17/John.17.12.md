@@ -1,5 +1,5 @@
-**John 17:12
-**<small><sub>**KJV:**</sub></small>
+**John 17:12**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.
 <small><sub>**BSB:**</sub></small>
 While I was with them, I protected and preserved them by Your name, the name You gave Me. Not one of them has been lost, except the son of destruction, so that the Scripture would be fulfilled.
@@ -10,7 +10,7 @@ When I was with them in <the> world I myself was keeping them in the name of You
 > $\quad$ alluding to: [[LXX.Ps.41.10|Ps 41:10]] ☩ [[LXX.Ps.109.8|Ps 109:8]] ☩ [[LXX.Ps.109.17|Ps 109:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I was |**<big>[[G1510\|ἤμην]]</big>**  |ēmēn <small><sup>[[V-IMI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

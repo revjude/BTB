@@ -1,10 +1,7 @@
 **LXX Psalm 84:4** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[are\] the ones dwelling in  your house; into the eons of the eons they shall praise you. PAUSE. 
-<small><sub>**KJV:**</sub></small>
-Blessed [are] they that dwell in thy house: they will be still praising thee. Selah.
-<small><sub>**BSB:**</sub></small>
-How blessed are those who dwell in Your house! They are ever praising You. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.84.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.3|<< Psalm 84:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.5|Psalm 84:5 >>]]</td></tr></table>
 
 | Translation | Greek |

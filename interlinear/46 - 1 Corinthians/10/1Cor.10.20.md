@@ -1,5 +1,5 @@
-**1 Corinthians 10:20
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 10:20**<big><big>[[1Cor.10.14 Flee from Idolatry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But [I say], that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils.
 <small><sub>**BSB:**</sub></small>
 No, but the sacrifices of pagans are offered to demons, not to God. And I do not want you to be participants with demons.
@@ -10,7 +10,7 @@ Rather that what they sacrifice the gentiles to demons and not to God they sacri
 > $\quad$ referencing: [[LXX.Deut.32.17|Deut 32:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Rather |**<big>[[G0235\|ἀλλ᾽]]</big>**  |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

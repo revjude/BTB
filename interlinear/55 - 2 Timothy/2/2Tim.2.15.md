@@ -1,12 +1,12 @@
-**2 Timothy 2:15
-**<small><sub>**KJV:**</sub></small>
+**2 Timothy 2:15**<big><big>[[2Tim.2.14 The Lord’s Approved Workman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.
 <small><sub>**BSB:**</sub></small>
 Make every effort to present yourself approved to God, an unashamed workman who accurately handles the word of truth.
 <small><sub>**Literal:**</sub></small>
 do hasten yourself approved to present <the> to God a workman not ashamed, accurately handling the word <the> of truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.14|<< 2 Timothy 2:14]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.16|2 Timothy 2:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do hasten |**<big>[[G4704\|σπούδασον]]</big>**  |spoudason <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | yourself |**<big>[[G4771\|σεαυτὸν]]</big>**  |seauton <small><sup>[[F-2ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**John 6:57
-**<small><sub>**KJV:**</sub></small>
+**John 6:57**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me.
 <small><sub>**BSB:**</sub></small>
 Just as the living Father sent Me and I live because of the Father, so also the one who feeds on Me will live because of Me.
 <small><sub>**Literal:**</sub></small>
 Even as sent Me the living Father and I myself live because of the Father, also the [one] feeding on Me he also will live because of Me myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.56|<< John 6:56]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.58|John 6:58 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | sent |**<big>[[G0649\|ἀπέστειλέν]]</big>**  |apesteilen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

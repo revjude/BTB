@@ -1,10 +1,7 @@
 **LXX Ezekiel 24:4** 
 <small><sub>**LXX:**</sub></small>
 And put into it  its pieces! every good piece -- \[the\] leg, and shoulder, tearing off the flesh from the bones, 
-<small><sub>**KJV:**</sub></small>
-Gather the pieces thereof into it, [even] every good piece, the thigh, and the shoulder; fill [it] with the choice bones.
-<small><sub>**BSB:**</sub></small>
-Put in the pieces of meat, every good piece—thigh and shoulder—fill it with choice bones.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.3|<< Ezekiel 24:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.5|Ezekiel 24:5 >>]]</td></tr></table>
 
 | Translation | Greek |

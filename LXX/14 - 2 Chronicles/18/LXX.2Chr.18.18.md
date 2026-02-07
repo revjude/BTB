@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 18:18** 
 <small><sub>**LXX:**</sub></small>
 And Michaiah said, It is not so. Hear \[the\] word of \[the\] <span class="smallcaps">lord</span>! I beheld the <span class="smallcaps">lord</span> sitting upon his throne, and all \[the\] force of the heaven stood beside at his right and at his left. 
-<small><sub>**KJV:**</sub></small>
-Again he said, Therefore hear the word of the LORD; I saw the LORD sitting upon his throne, and all the host of heaven standing on his right hand and [on] his left.
-<small><sub>**BSB:**</sub></small>
-Micaiah continued, “Therefore hear the word of the LORD: I saw the LORD sitting on His throne, and all the host of heaven standing on His right and on His left.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.18.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.17|<< 2 Chronicles 18:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.19|2 Chronicles 18:19 >>]]</td></tr></table>
 
 | Translation | Greek |

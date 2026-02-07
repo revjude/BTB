@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 3:19** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Pedaiah -- Zerubbabel, and Shimei. And \[the\] sons of Zerubbabel -- Meshullam, and Hananiah, and Shelomith their sister, 
-<small><sub>**KJV:**</sub></small>
-And the sons of Pedaiah [were], Zerubbabel, and Shimei: and the sons of Zerubbabel; Meshullam, and Hananiah, and Shelomith their sister:
-<small><sub>**BSB:**</sub></small>
-The sons of Pedaiah: Zerubbabel and Shimei. The children of Zerubbabel: Meshullam and Hananiah, their sister Shelomith,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.3.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.3.18|<< 1 Chronicles 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.3.20|1 Chronicles 3:20 >>]]</td></tr></table>
 
 | Translation | Greek |

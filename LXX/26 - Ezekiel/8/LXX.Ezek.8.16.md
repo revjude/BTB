@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he brought me into the courtyard of \[the\] house of \[the\] <span class="smallcaps">lord</span>, the inner \[courtyard\]. And upon the thresholds of the temple of \[the\] <span class="smallcaps">lord</span> between the columned porch and between the altar \[were\] about twenty and five men  \[with\] their posteriors towards the temple of the <span class="smallcaps">lord</span>, and  their faces before \[the\] east. And these did obeisance according to \[the\] east to the sun. 
-<small><sub>**KJV:**</sub></small>
-And he brought me into the inner court of the LORD’S house, and, behold, at the door of the temple of the LORD, between the porch and the altar, [were] about five and twenty men, with their backs toward the temple of the LORD, and their faces toward the east; and they worshipped the sun toward the east.
-<small><sub>**BSB:**</sub></small>
-So He brought me to the inner court of the house of the LORD, and there at the entrance to the temple of the LORD, between the portico and the altar, were about twenty-five men with their backs to the temple of the LORD and their faces toward the east; and they were bowing to the east in worship of the sun.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.8.15|<< Ezekiel 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.8.17|Ezekiel 8:17 >>]]</td></tr></table>
 
 | Translation | Greek |

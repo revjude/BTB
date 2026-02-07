@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:2** 
 <small><sub>**LXX:**</sub></small>
 And you shall enter there, and you shall see there Jehu son of Jehoshaphat son of Nimshi. And you shall enter, and you shall raise him from \[the\] midst  of his brethren. And you shall bring him into the closet of a storeroom. 
-<small><sub>**KJV:**</sub></small>
-And when thou comest thither, look out there Jehu the son of Jehoshaphat the son of Nimshi, and go in, and make him arise up from among his brethren, and carry him to an inner chamber;
-<small><sub>**BSB:**</sub></small>
-When you arrive, look for Jehu son of Jehoshaphat, the son of Nimshi. Go in, get him away from his companions, and take him to an inner room.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.1|<< 2 Kings 9:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.3|2 Kings 9:3 >>]]</td></tr></table>
 
 | Translation | Greek |

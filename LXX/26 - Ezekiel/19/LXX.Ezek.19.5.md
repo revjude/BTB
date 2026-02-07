@@ -1,10 +1,7 @@
 **LXX Ezekiel 19:5** 
 <small><sub>**LXX:**</sub></small>
 And she beheld that he was thrust away from her, and her support perished, and she took another from  her cubs; she ordered him \[to be\] a lion. 
-<small><sub>**KJV:**</sub></small>
-Now when she saw that she had waited, [and] her hope was lost, then she took another of her whelps, [and] made him a young lion.
-<small><sub>**BSB:**</sub></small>
-When she saw that she had waited in vain, that her hope was lost, she took another of her cubs and made him a young lion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.19.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.4|<< Ezekiel 19:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.6|Ezekiel 19:6 >>]]</td></tr></table>
 
 | Translation | Greek |

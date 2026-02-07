@@ -1,4 +1,4 @@
-**Joshua 11:14** 
+**Joshua 11:14**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the spoil of these cities, and the cattle, the children of Israel took for a prey unto themselves; but every man they smote with the edge of the sword, until they had destroyed them, neither left they any to breathe.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The Israelites took for themselves all the plunder and livestock of these cities
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.13|<< Joshua 11:13]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.15|Joshua 11:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and all  |**<big>&#8207;[[H9002\|וְ֠]]&#8207;&#8207;[[H3605\|כֹל]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] booty of  |**<big>&#8207;[[H7998\|שְׁלַ֞ל]]&#8207; </big>**| she.Lal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

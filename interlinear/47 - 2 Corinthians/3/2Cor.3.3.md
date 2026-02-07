@@ -1,12 +1,12 @@
-**2 Corinthians 3:3
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:3**<big><big>[[2Cor.3.1 Ministers of a New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Forasmuch as ye are] manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.
 <small><sub>**BSB:**</sub></small>
 It is clear that you are a letter from Christ, the result of our ministry, written not with ink but with the Spirit of the living God, not on tablets of stone but on tablets of human hearts.
 <small><sub>**Literal:**</sub></small>
 being revealed that you are a letter of Christ having been ministered to by us inscribed not in ink but with [the] Spirit of God [the] living, not on tablets of stone but on tablets of hearts human.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.2|<< 2 Corinthians 3:2]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.4|2 Corinthians 3:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | being revealed |**<big>[[G5319\|φανερούμενοι]]</big>**  |phaneroumenoi <small><sup>[[V-PPP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

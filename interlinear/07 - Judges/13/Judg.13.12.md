@@ -1,4 +1,4 @@
-**Judges 13:12** 
+**Judges 13:12**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Manoah said, Now let thy words come to pass. How shall we order the child, and [how] shall we do unto him?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Manoah asked, “When your words come to pass, what will be the boy’s rul
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.11|<< Judges 13:11]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.13|Judges 13:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Manoah  |**<big>&#8207;[[H4495\|מָנ֔וֹחַ]]&#8207; </big>**| ma.No.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

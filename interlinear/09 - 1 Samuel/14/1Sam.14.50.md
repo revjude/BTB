@@ -1,4 +1,4 @@
-**1 Samuel 14:50** 
+**1 Samuel 14:50**<big><big>[[1Sam.14.47 Saul’s Victories|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the name of Saul’s wife [was] Ahinoam, the daughter of Ahimaaz: and the name of the captain of his host [was] Abner, the son of Ner, Saul’s uncle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ His wife’s name was Ahinoam daughter of Ahimaaz. The name of the commander of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.49|<< 1 Samuel 14:49]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.51|1 Samuel 14:51 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] name of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8034\|שֵׁם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Shem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] wife of  |**<big>&#8207;[[H0802H\|אֵ֣שֶׁת]]&#8207; </big>**| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

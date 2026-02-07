@@ -1,10 +1,7 @@
 **LXX Leviticus 10:9** 
 <small><sub>**LXX:**</sub></small>
 Wine and liquor you are not to drink, you and  your sons with you, when ever you should enter into the tent of the testimony, or in your going to the altar, that no way you should die -- an eternal law unto  your generations; 
-<small><sub>**KJV:**</sub></small>
-Do not drink wine nor strong drink, thou, nor thy sons with thee, when ye go into the tabernacle of the congregation, lest ye die: [it shall be] a statute for ever throughout your generations:
-<small><sub>**BSB:**</sub></small>
-“You and your sons are not to drink wine or strong drink when you enter the Tent of Meeting, or else you will die; this is a permanent statute for the generations to come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.10.8|<< Leviticus 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.10.10|Leviticus 10:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Leviticus 10:9** is...

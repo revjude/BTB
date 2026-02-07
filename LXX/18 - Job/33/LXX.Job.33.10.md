@@ -1,10 +1,7 @@
 **LXX Job 33:10** 
 <small><sub>**LXX:**</sub></small>
 But he found a complaint against me, and he has esteemed me as if an opponent. 
-<small><sub>**KJV:**</sub></small>
-Behold, he findeth occasions against me, he counteth me for his enemy,
-<small><sub>**BSB:**</sub></small>
-Yet God finds occasions against me; He counts me as His enemy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.33.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.33.9|<< Job 33:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.33.11|Job 33:11 >>]]</td></tr></table>
 
 | Translation | Greek |

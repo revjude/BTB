@@ -1,4 +1,4 @@
-**Numbers 33:2** 
+**Numbers 33:2**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses wrote their goings out according to their journeys by the commandment of the LORD: and these [are] their journeys according to their goings out.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the LORD’s command, Moses recorded the stages of their journey. These are t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.1|<< Numbers 33:1]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.3|Numbers 33:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he wrote down  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3789\|יִּכְתֹּ֨ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.To<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֜ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

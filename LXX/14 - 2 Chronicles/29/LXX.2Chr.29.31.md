@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 29:31** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah answered and said, Now you filled  your hands \[to the\] <span class="smallcaps">lord</span>, come forward and bring sacrifices of praise into \[the\] house of \[the\] <span class="smallcaps">lord</span>! And the assembly brought sacrifices and praise into \[the\] house of \[the\] <span class="smallcaps">lord</span>, and all eager in heart \[brought\] whole burnt-offerings. 
-<small><sub>**KJV:**</sub></small>
-Then Hezekiah answered and said, Now ye have consecrated yourselves unto the LORD, come near and bring sacrifices and thank offerings into the house of the LORD. And the congregation brought in sacrifices and thank offerings; and as many as were of a free heart burnt offerings.
-<small><sub>**BSB:**</sub></small>
-Then Hezekiah said, “Now that you have consecrated yourselves to the LORD, come near and bring sacrifices and thank offerings to the house of the LORD.” So the assembly brought sacrifices and thank offerings, and all whose hearts were willing brought burnt offerings.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.29.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.29.30|<< 2 Chronicles 29:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.32|2 Chronicles 29:32 >>]]</td></tr></table>
 
 | Translation | Greek |

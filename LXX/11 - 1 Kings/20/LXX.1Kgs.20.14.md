@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:14** 
 <small><sub>**LXX:**</sub></small>
 And Ahab said, By whom? And he said, Thus says \[the\] <span class="smallcaps">lord</span>, By the young men of the rulers of the regions. And Ahab said, Who shall join together for the war? And he said, You. 
-<small><sub>**KJV:**</sub></small>
-And Ahab said, By whom? And he said, Thus saith the LORD, [Even] by the young men of the princes of the provinces. Then he said, Who shall order the battle? And he answered, Thou.
-<small><sub>**BSB:**</sub></small>
-“By whom?” Ahab asked. And the prophet replied, “This is what the LORD says: ‘By the young officers of the district governors.’” “Who will start the battle?” asked Ahab. “You will,” answered the prophet.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.13|<< 1 Kings 20:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.15|1 Kings 20:15 >>]]</td></tr></table>
 
 | Translation | Greek |

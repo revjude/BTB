@@ -1,4 +1,4 @@
-**Ezekiel 31:12** 
+**Ezekiel 31:12**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And strangers, the terrible of the nations, have cut him off, and have left him: upon the mountains and in all the valleys his branches are fallen, and his boughs are broken by all the rivers of the land; and all the people of the earth are gone down from his shadow, and have left him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Foreigners, the most ruthless of the nations, cut it down and left it. Its branc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.11|<< Ezekiel 31:11]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.13|Ezekiel 31:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they cut down it  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3772G\|יִּכְרְתֻ֧]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.re.Tu.<small><sup>[[HVqw3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | strangers  |**<big>&#8207;[[H2114A\|זָרִ֛ים]]&#8207; </big>**| za.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

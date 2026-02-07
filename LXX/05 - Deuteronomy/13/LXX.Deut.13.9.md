@@ -1,10 +1,7 @@
 **LXX Deuteronomy 13:9** 
 <small><sub>**LXX:**</sub></small>
 Announcing, you shall announce concerning him, and  your hand shall be upon him as first to kill him, and the hand of all the people upon \[him\] last. 
-<small><sub>**KJV:**</sub></small>
-But thou shalt surely kill him; thine hand shall be first upon him to put him to death, and afterwards the hand of all the people.
-<small><sub>**BSB:**</sub></small>
-Instead, you must surely kill him. Your hand must be the first against him to put him to death, and then the hands of all the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.13.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.13.8|<< Deuteronomy 13:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.13.10|Deuteronomy 13:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 47:13** 
+**Isaiah 47:13**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou art wearied in the multitude of thy counsels. Let now the astrologers, the stargazers, the monthly prognosticators, stand up, and save thee from [these things] that shall come upon thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are wearied by your many counselors; let them come forward now and save you�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.12|<< Isaiah 47:12]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.14|Isaiah 47:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you have become weary  |**<big>&#8207;[[H3811\|נִלְאֵ֖ית]]&#8207; </big>**| nil.'Eit<small><sup>[[HVNp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with [the] abundance of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7230\|רֹ֣ב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ro<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

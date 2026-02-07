@@ -1,4 +1,4 @@
-**2 Samuel 8:4** 
+**2 Samuel 8:4**<big><big>[[2Sam.8.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David took from him a thousand [chariots], and seven hundred horsemen, and twenty thousand footmen: and David houghed all the chariot [horses], but reserved of them [for] an hundred chariots.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ David captured from him a thousand chariots, seven thousand charioteers, and twe
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.3|<< 2 Samuel 8:3]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.5|2 Samuel 8:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he captured  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3920\|יִּלְכֹּ֨ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yil.Kod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֜ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

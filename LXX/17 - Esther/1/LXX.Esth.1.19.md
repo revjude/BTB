@@ -1,10 +1,7 @@
 **LXX Esther 1:19** 
 <small><sub>**LXX:**</sub></small>
 If then it seems \[good\] to the king, let him assign a royal \[decree\], and let him write \[it\] according to the laws of \[the\] Medes and Persians! and not otherwise treat nor the queen any longer enter to him, and  give the king her royalty to a woman better than her! 
-<small><sub>**KJV:**</sub></small>
-If it please the king, let there go a royal commandment from him, and let it be written among the laws of the Persians and the Medes, that it be not altered, That Vashti come no more before king Ahasuerus; and let the king give her royal estate unto another that is better than she.
-<small><sub>**BSB:**</sub></small>
-So if it pleases the king, let him issue a royal decree, and let it be recorded in the laws of Persia and Media so that it cannot be repealed, that Vashti shall never again enter the presence of King Xerxes, and that her royal position shall be given to a woman better than she.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.18|<< Esther 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.20|Esther 1:20 >>]]</td></tr></table>
 
 | Translation | Greek |

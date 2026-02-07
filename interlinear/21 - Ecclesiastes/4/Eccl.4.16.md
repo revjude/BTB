@@ -1,4 +1,4 @@
-**Ecclesiastes 4:16** 
+**Ecclesiastes 4:16**<big><big>[[Eccl.4.13 The Futility of Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There is] no end of all the people, [even] of all that have been before them: they also that come after shall not rejoice in him. Surely this also [is] vanity and vexation of spirit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There is no limit to all the people who were before them. Yet the successor will
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.15|<< Ecclesiastes 4:15]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.1|Ecclesiastes 5:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there not  |**<big>&#8207;[[H0369\|אֵֽין]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ein-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] an end  |**<big>&#8207;[[H7093\|קֵ֣ץ]]&#8207; </big>**| ketz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

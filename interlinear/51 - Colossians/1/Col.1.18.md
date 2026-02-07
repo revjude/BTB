@@ -1,12 +1,12 @@
-**Colossians 1:18
-**<small><sub>**KJV:**</sub></small>
+**Colossians 1:18**<big><big>[[Col.1.15 The Supremacy of the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all [things] he might have the preeminence.
 <small><sub>**BSB:**</sub></small>
 And He is the head of the body, the church; He is the beginning and firstborn from among the dead, so that in all things He may have preeminence.
 <small><sub>**Literal:**</sub></small>
 And He himself is the head of the body the church; who is the beginning, firstborn out from the dead, so that may be in all things He himself holding preeminence;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.17|<< Colossians 1:17]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.19|Colossians 1:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He himself |**<big>[[G0846\|αὐτός]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

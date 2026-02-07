@@ -1,4 +1,4 @@
-**Psalms 105:40** 
+**Psalms 105:40**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [The people] asked, and he brought quails, and satisfied them with the bread of heaven.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They asked, and He brought quail and satisfied them with the bread of heaven.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.39|<< Psalms 105:39]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.41|Psalms 105:41 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he asked  |**<big>&#8207;[[H7592\|שָׁאַ֣ל]]&#8207; </big>**| sha.'Al<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he brought  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יָּבֵ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ve'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

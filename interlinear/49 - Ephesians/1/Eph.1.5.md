@@ -1,12 +1,12 @@
-**Ephesians 1:5
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 1:5**<big><big>[[Eph.1.3 Spiritual Blessings|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,
 <small><sub>**BSB:**</sub></small>
 He predestined us for adoption as His sons through Jesus Christ, according to the good pleasure of His will,
 <small><sub>**Literal:**</sub></small>
 having predestined us for divine adoption as sons through Jesus Christ to Himself according to the good pleasure of the will of Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.4|<< Ephesians 1:4]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.6|Ephesians 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having predestined |**<big>[[G4309\|προορίσας]]</big>**  |proorisas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | us |**<big>[[G3165\|ἡμᾶς]]</big>**  |hēmas <small><sup>[[P-1AP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

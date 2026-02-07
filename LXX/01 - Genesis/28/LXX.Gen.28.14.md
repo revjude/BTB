@@ -1,10 +1,7 @@
 **LXX Genesis 28:14** 
 <small><sub>**LXX:**</sub></small>
 And your seed will be as sand of the earth. And it will be widened unto \[the\] west, and south, and north, and unto \[the\] east. And shall be blessed by you all the tribes of the earth, and by  your seed. 
-<small><sub>**KJV:**</sub></small>
-And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed.
-<small><sub>**BSB:**</sub></small>
-Your descendants will be like the dust of the earth, and you will spread out to the west and east and north and south. All the families of the earth will be blessed through you and your offspring.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.28.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.13|<< Genesis 28:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.15|Genesis 28:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 28:14** is...

@@ -1,4 +1,4 @@
-**Proverbs 25:22** 
+**Proverbs 25:22**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou shalt heap coals of fire upon his head, and the LORD shall reward thee.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For in so doing, you will heap burning coals on his head, and the LORD will rewa
 > $\quad$ referenced by: [[Rom.12.20|Rom 12:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | burning coals  |**<big>&#8207;[[H1513\|גֶֽחָלִ֗ים]]&#8207; </big>**| ge.cha.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

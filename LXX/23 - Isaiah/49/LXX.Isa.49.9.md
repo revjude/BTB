@@ -1,10 +1,7 @@
 **LXX Isaiah 49:9** 
 <small><sub>**LXX:**</sub></small>
 Saying to the ones in bonds, Come forth! and to the ones in the darkness to be uncovered. In all the ways they shall be grazing, even in all the roads  of their pasture. 
-<small><sub>**KJV:**</sub></small>
-That thou mayest say to the prisoners, Go forth; to them that [are] in darkness, Shew yourselves. They shall feed in the ways, and their pastures [shall be] in all high places.
-<small><sub>**BSB:**</sub></small>
-to say to the prisoners, ‘Come out,’ and to those in darkness, ‘Show yourselves.’ They will feed along the pathways, and find pasture on every barren hill.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.8|<< Isaiah 49:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.10|Isaiah 49:10 >>]]</td></tr></table>
 
 | Translation | Greek |

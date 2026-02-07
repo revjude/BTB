@@ -1,4 +1,4 @@
-**Psalms 109:8** 
+**Psalms 109:8**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let his days be few; [and] let another take his office.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ May his days be few; may another take his position.
 > $\quad$ referenced by: [[John.17.12|John 17:12]] ☩ [[Acts.1.20|Acts 1:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they be  |**<big>&#8207;[[H1961\|יִֽהְיֽוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| yih.yu-<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | days his  |**<big>&#8207;[[H3117G\|יָמָ֥י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ya.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:11** 
 <small><sub>**LXX:**</sub></small>
 All Nephador \[belonged to the\] son of Abinadab, Taphath daughter of Solomon was to him for wife. 
-<small><sub>**KJV:**</sub></small>
-The son of Abinadab, in all the region of Dor; which had Taphath the daughter of Solomon to wife:
-<small><sub>**BSB:**</sub></small>
-Ben-abinadab in Naphath-dor (Taphath, a daughter of Solomon, was his wife);<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.10|<< 1 Kings 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.12|1 Kings 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

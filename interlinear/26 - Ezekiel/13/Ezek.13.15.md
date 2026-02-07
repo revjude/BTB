@@ -1,4 +1,4 @@
-**Ezekiel 13:15** 
+**Ezekiel 13:15**<big><big>[[Ezek.13.1 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus will I accomplish my wrath upon the wall, and upon them that have daubed it with untempered [morter], and will say unto you, The wall [is] no [more], neither they that daubed it;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And after I have vented My wrath against the wall and against those who whitewas
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.14|<< Ezekiel 13:14]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.16|Ezekiel 13:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will complete  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3615J\|כִלֵּיתִ֤י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khi.lei.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

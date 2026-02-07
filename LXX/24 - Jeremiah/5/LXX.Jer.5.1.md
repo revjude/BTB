@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Run about in the streets of Jerusalem, and see! And know, and seek in  her squares! if there should be found a man; if there is one having equity, and seeking trust -- and I will be kind to them, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be [any] that executeth judgment, that seeketh the truth; and I will pardon it.
-<small><sub>**BSB:**</sub></small>
-“Go up and down the streets of Jerusalem. Look now and take note; search her squares. If you can find a single person, anyone who acts justly, anyone who seeks the truth, then I will forgive the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.31|<< Jeremiah 4:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.2|Jeremiah 5:2 >>]]</td></tr></table>
 
 | Translation | Greek |

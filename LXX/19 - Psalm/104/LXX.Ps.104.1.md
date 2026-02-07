@@ -6,10 +6,7 @@ A psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 Bless  the <span class="smallcaps">lord</span> O my soul! O <span class="smallcaps">lord</span>  my God, you are magnified exceedingly. You clothed yourself with acknowledgment and majesty; 
-<small><sub>**KJV:**</sub></small>
-Bless the LORD, O my soul. O LORD my God, thou art very great; thou art clothed with honour and majesty.
-<small><sub>**BSB:**</sub></small>
-Bless the LORD, O my soul! O LORD my God, You are very great; You are clothed with splendor and majesty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.104.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.103.22|<< Psalm 103:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.104.2|Psalm 104:2 >>]]</td></tr></table>
 
 | Translation | Greek |

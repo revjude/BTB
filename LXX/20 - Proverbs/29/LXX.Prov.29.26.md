@@ -1,10 +1,7 @@
 **LXX Proverbs 29:26** 
 <small><sub>**LXX:**</sub></small>
 Many attend to \[the\] persons of leaders; but by \[the\] <span class="smallcaps">lord</span> justice happens to a man. 
-<small><sub>**KJV:**</sub></small>
-Many seek the ruler’s favour; but [every] man’s judgment [cometh] from the LORD.
-<small><sub>**BSB:**</sub></small>
-Many seek the ruler’s favor, but a man receives justice from the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.29.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.25|<< Proverbs 29:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.27|Proverbs 29:27 >>]]</td></tr></table>
 
 | Translation | Greek |

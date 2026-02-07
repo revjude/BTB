@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And if there should be among you one lacking from  your brethren in one  of your cities in the land which \[the\] <span class="smallcaps">lord</span>  your God gives to you, you shall not disregard  your heart, nor in any way close  your hand from  your brother -- the one wanting. 
-<small><sub>**KJV:**</sub></small>
-If there be among you a poor man of one of thy brethren within any of thy gates in thy land which the LORD thy God giveth thee, thou shalt not harden thine heart, nor shut thine hand from thy poor brother:
-<small><sub>**BSB:**</sub></small>
-If there is a poor man among your brothers within any of the gates in the land that the LORD your God is giving you, then you are not to harden your heart or shut your hand from your poor brother.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.15.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.6|<< Deuteronomy 15:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.8|Deuteronomy 15:8 >>]]</td></tr></table>
 
 | Translation | Greek |

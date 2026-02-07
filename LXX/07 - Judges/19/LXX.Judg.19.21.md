@@ -1,10 +1,7 @@
 **LXX Judges 19:21** 
 <small><sub>**LXX:**</sub></small>
 And he brought him into  his house, and camped  his beasts of burden. And they washed  their feet, and they ate and drank. 
-<small><sub>**KJV:**</sub></small>
-So he brought him into his house, and gave provender unto the asses: and they washed their feet, and did eat and drink.
-<small><sub>**BSB:**</sub></small>
-So he brought him to his house and fed his donkeys. And they washed their feet and ate and drank.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.20|<< Judges 19:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.22|Judges 19:22 >>]]</td></tr></table>
 
 | Translation | Greek |

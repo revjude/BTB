@@ -1,10 +1,7 @@
 **LXX 1 Samuel 5:11** 
 <small><sub>**LXX:**</sub></small>
 And they sent, and they brought together all the satraps of the Philistines. And they said, Send out the ark of the God of Israel, and let it sit in  its place, so that in no way shall we be put to death -- us and  our people. 
-<small><sub>**KJV:**</sub></small>
-So they sent and gathered together all the lords of the Philistines, and said, Send away the ark of the God of Israel, and let it go again to his own place, that it slay us not, and our people: for there was a deadly destruction throughout all the city; the hand of God was very heavy there.
-<small><sub>**BSB:**</sub></small>
-Then the Ekronites called together all the rulers of the Philistines and said, “Send away the ark of the God of Israel. It must return to its place, so that it will not kill us and our people!” For a deadly confusion had pervaded the city; the hand of God was very heavy upon it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.5.10|<< 1 Samuel 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.5.12|1 Samuel 5:12 >>]]</td></tr></table>
 
 | Translation | Greek |

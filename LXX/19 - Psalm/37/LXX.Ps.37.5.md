@@ -1,10 +1,7 @@
 **LXX Psalm 37:5** 
 <small><sub>**LXX:**</sub></small>
 Reveal to \[the\] <span class="smallcaps">lord</span>  your way, and hope upon him! and he will act. 
-<small><sub>**KJV:**</sub></small>
-Commit thy way unto the LORD; trust also in him; and he shall bring [it] to pass.
-<small><sub>**BSB:**</sub></small>
-Commit your way to the LORD; trust in Him, and He will do it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.37.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.37.4|<< Psalm 37:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.37.6|Psalm 37:6 >>]]</td></tr></table>
 
 | Translation | Greek |

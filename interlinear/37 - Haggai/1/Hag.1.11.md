@@ -1,4 +1,4 @@
-**Haggai 1:11** 
+**Haggai 1:11**<big><big>[[Hag.1.1 A Call to Rebuild the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon [that] which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I have summoned a drought on the fields and on the mountains, on the grain, new 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.1.10|<< Haggai 1:10]]</td><td align="center" style="border:none;">[[Hag.1|Haggai 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.1.12|Haggai 1:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I have summoned  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7121G\|אֶקְרָ֨א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'ek.Ra'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a drought  |**<big>&#8207;[[H2721A\|חֹ֜רֶב]]&#8207; </big>**| Cho.rev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

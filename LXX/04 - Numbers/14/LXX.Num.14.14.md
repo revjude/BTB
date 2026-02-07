@@ -1,10 +1,7 @@
 **LXX Numbers 14:14** 
 <small><sub>**LXX:**</sub></small>
 but also all the ones dwelling upon  this land have heard, that you are \[the\] <span class="smallcaps">lord</span> among  this people, who eyes to eyes you behold, O <span class="smallcaps">lord</span>, and  your cloud stands over them, and in a column of cloud you go in front of them by the day, and in a column of fire by the night. 
-<small><sub>**KJV:**</sub></small>
-And they will tell [it] to the inhabitants of this land: [for] they have heard that thou LORD [art] among this people, that thou LORD art seen face to face, and [that] thy cloud standeth over them, and [that] thou goest before them, by day time in a pillar of a cloud, and in a pillar of fire by night.
-<small><sub>**BSB:**</sub></small>
-And they will tell it to the inhabitants of this land. They have already heard that You, O LORD, are in the midst of this people, that You, O LORD, have been seen face to face, that Your cloud stands over them, and that You go before them in a pillar of cloud by day and a pillar of fire by night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.13|<< Numbers 14:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.15|Numbers 14:15 >>]]</td></tr></table>
 
 | Translation | Greek |

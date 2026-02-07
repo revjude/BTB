@@ -1,10 +1,7 @@
 **LXX Job 6:7** 
 <small><sub>**LXX:**</sub></small>
 For my soul is not able to cease; for groaning I see  my grain as \[the\] scent of a lion. 
-<small><sub>**KJV:**</sub></small>
-The things [that] my soul refused to touch [are] as my sorrowful meat.
-<small><sub>**BSB:**</sub></small>
-My soul refuses to touch them; they are loathsome food to me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.6.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.6|<< Job 6:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.8|Job 6:8 >>]]</td></tr></table>
 
 | Translation | Greek |

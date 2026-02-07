@@ -1,4 +1,4 @@
-**2 Chronicles 18:21** 
+**2 Chronicles 18:21**<big><big>[[2Chr.18.12 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, I will go out, and be a lying spirit in the mouth of all his prophets. And [the LORD] said, Thou shalt entice [him], and thou shalt also prevail: go out, and do [even] so.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he replied, ‘I will go out and be a lying spirit in the mouths of all his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.20|<< 2 Chronicles 18:20]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.22|2 Chronicles 18:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will go out  |**<big>&#8207;[[H3318G\|אֵצֵא֙]]&#8207; </big>**| 'e.Tze'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

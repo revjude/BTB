@@ -1,4 +1,4 @@
-**Deuteronomy 28:26** 
+**Deuteronomy 28:26**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thy carcase shall be meat unto all fowls of the air, and unto the beasts of the earth, and no man shall fray [them] away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your corpses will be food for all the birds of the air and beasts of the earth, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.25|<< Deuteronomy 28:25]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.27|Deuteronomy 28:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיְתָ֤ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.ye.Tah<small><sup>[[HVqq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | corpse your  |**<big>&#8207;[[H5038\|נִבְלָֽתְ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| niv.la.te.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

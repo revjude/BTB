@@ -1,5 +1,5 @@
-**1 Peter 5:7
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 5:7**<big><big>[[1Pet.5.5 Cast Your Cares on Him|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Casting all your care upon him; for he careth for you.
 <small><sub>**BSB:**</sub></small>
 Cast all your anxiety on Him, because He cares for you.
@@ -10,7 +10,7 @@ all the anxiety of you having cast upon Him, because with Him there is care abou
 > $\quad$ referencing: [[LXX.Ps.55.22|Ps 55:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all |**<big>[[G3956\|πᾶσαν]]</big>**  |pasan <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

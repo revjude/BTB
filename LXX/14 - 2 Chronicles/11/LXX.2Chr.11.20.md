@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 11:20** 
 <small><sub>**LXX:**</sub></small>
 And after these he took  Maachah to himself, the daughter of Absalom; and she bore to him  Abijah, and  Attai, and  Ziza, and  Shelomith. 
-<small><sub>**KJV:**</sub></small>
-And after her he took Maachah the daughter of Absalom; which bare him Abijah, and Attai, and Ziza, and Shelomith.
-<small><sub>**BSB:**</sub></small>
-After her, he married Maacah daughter of Absalom, and she bore to him Abijah, Attai, Ziza, and Shelomith.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.11.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.11.19|<< 2 Chronicles 11:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.11.21|2 Chronicles 11:21 >>]]</td></tr></table>
 
 | Translation | Greek |

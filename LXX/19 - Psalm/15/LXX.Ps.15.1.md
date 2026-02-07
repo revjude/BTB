@@ -6,10 +6,7 @@ A psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, who shall sojourn in  your tent, or who shall encamp in your holy mountain? 
-<small><sub>**KJV:**</sub></small>
-A Psalm of David. LORD, who shall abide in thy tabernacle? who shall dwell in thy holy hill?
-<small><sub>**BSB:**</sub></small>
-A Psalm of David. O LORD, who may abide in Your tent? Who may dwell on Your holy mountain?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.15.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.14.7|<< Psalm 14:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.15.2|Psalm 15:2 >>]]</td></tr></table>
 
 | Translation | Greek |

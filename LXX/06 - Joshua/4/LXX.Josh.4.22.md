@@ -1,10 +1,7 @@
 **LXX Joshua 4:22** 
 <small><sub>**LXX:**</sub></small>
 You announce \[to\] your sons! saying that, Israel passed over this Jordan upon dry \[ground\]. 
-<small><sub>**KJV:**</sub></small>
-Then ye shall let your children know, saying, Israel came over this Jordan on dry land.
-<small><sub>**BSB:**</sub></small>
-you are to tell them, ‘Israel crossed the Jordan on dry ground.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.21|<< Joshua 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.23|Joshua 4:23 >>]]</td></tr></table>
 
 | Translation | Greek |

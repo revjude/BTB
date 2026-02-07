@@ -1,12 +1,12 @@
-**Matthew 16:23
-**<small><sub>**KJV:**</sub></small>
+**Matthew 16:23**<big><big>[[Matt.16.21 Christ’s Passion Foretold|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men.
 <small><sub>**BSB:**</sub></small>
 But Jesus turned and said to Peter, “Get behind Me, Satan! You are a stumbling block to Me. For you do not have in mind the things of God, but the things of men.”
 <small><sub>**Literal:**</sub></small>
 <the> And having turned He said <the> to Peter; do go behind Me Satan! A stumbling block you are to me, For not your thoughts are of those <the> of God but [of] the [things] <the> of men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.22|<< Matthew 16:22]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.24|Matthew 16:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

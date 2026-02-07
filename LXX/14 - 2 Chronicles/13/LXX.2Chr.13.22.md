@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 13:22** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the words of Abijah, and  his actions, and  his words, are written upon \[the\] scroll in the inquiry of Iddo the prophet. 
-<small><sub>**KJV:**</sub></small>
-And the rest of the acts of Abijah, and his ways, and his sayings, [are] written in the story of the prophet Iddo.
-<small><sub>**BSB:**</sub></small>
-Now the rest of the acts of Abijah, along with his ways and his words, are written in the Treatise of the Prophet Iddo.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.21|<< 2 Chronicles 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.14.1|2 Chronicles 14:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 37:30** 
+**Psalms 37:30**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The mouth of the righteous speaketh wisdom, and his tongue talketh of judgment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The mouth of the righteous man utters wisdom, and his tongue speaks justice.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.29|<< Psalms 37:29]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.31|Psalms 37:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] mouth of  |**<big>&#8207;[[H6310G\|פִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| pi-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] righteous  |**<big>&#8207;[[H6662\|צַ֭דִּיק]]&#8207; </big>**| Tza.dik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 49:1** 
+**Isaiah 49:1**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Listen, O isles, unto me; and hearken, ye people, from far; The LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Listen to Me, O islands; pay attention, O distant peoples: The LORD called Me fr
 > $\quad$ referenced by: [[Gal.1.15|Gal 1:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | listen  |**<big>&#8207;[[H8085G\|שִׁמְע֤וּ]]&#8207; </big>**| shim.'U<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O islands  |**<big>&#8207;[[H0339\|אִיִּים֙]]&#8207; </big>**| 'i.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

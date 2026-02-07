@@ -1,10 +1,7 @@
 **LXX Leviticus 26:16** 
 <small><sub>**LXX:**</sub></small>
 then I will do thus to you; and I will to set upon you  perplexity,  and also \[the\] mange, and  jaundice, inflaming  of your eyes, and  of your life wasting away. And you shall sow ineffectually  of your seeds, and your opponents shall eat them. 
-<small><sub>**KJV:**</sub></small>
-I also will do this unto you; I will even appoint over you terror, consumption, and the burning ague, that shall consume the eyes, and cause sorrow of heart: and ye shall sow your seed in vain, for your enemies shall eat it.
-<small><sub>**BSB:**</sub></small>
-then this is what I will do to you: I will bring upon you sudden terror, wasting disease, and fever that will destroy your sight and drain your life. You will sow your seed in vain, because your enemies will eat it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.26.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.26.15|<< Leviticus 26:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.26.17|Leviticus 26:17 >>]]</td></tr></table>
 
 | Translation | Greek |

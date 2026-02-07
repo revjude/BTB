@@ -1,12 +1,12 @@
-**Galatians 2:9
-**<small><sub>**KJV:**</sub></small>
+**Galatians 2:9**<big><big>[[Gal.2.1 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we [should go] unto the heathen, and they unto the circumcision.
 <small><sub>**BSB:**</sub></small>
 And recognizing the grace that I had been given, James, Cephas, and John—those reputed to be pillars—gave me and Barnabas the right hand of fellowship, so that we should go to the Gentiles, and they to the circumcised.
 <small><sub>**Literal:**</sub></small>
 and having known the grace which having been given to me, James and Cephas and John, those esteemed pillars to be, [the] right hands gave to me myself and to Barnabas of fellowship, that we ourselves [should go] indeed to the Gentiles, they however to the circumcision,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.8|<< Galatians 2:8]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.10|Galatians 2:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having known |**<big>[[G1097\|γνόντες]]</big>**  |gnontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

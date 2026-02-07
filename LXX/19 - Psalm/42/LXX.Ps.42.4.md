@@ -1,10 +1,7 @@
 **LXX Psalm 42:4** 
 <small><sub>**LXX:**</sub></small>
 These \[things\] I remembered, and my soul poured out upon me, for I shall go through to \[the\] place of \[the\] wonderful tent, unto the house  of God, with a voice of exultation, and acknowledgment of \[the\] sound of the solemnizing a holiday. 
-<small><sub>**KJV:**</sub></small>
-When I remember these [things], I pour out my soul in me: for I had gone with the multitude, I went with them to the house of God, with the voice of joy and praise, with a multitude that kept holyday.
-<small><sub>**BSB:**</sub></small>
-These things come to mind as I pour out my soul: how I walked with the multitude, leading the festive procession to the house of God with shouts of joy and praise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.42.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.42.3|<< Psalm 42:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.42.5|Psalm 42:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Leviticus 11:23** 
+**Leviticus 11:23**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But all [other] flying creeping things, which have four feet, [shall be] an abomination unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All other flying insects that have four legs are detestable to you.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.22|<< Leviticus 11:22]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.24|Leviticus 11:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כֹל֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> swarming thing of  |**<big>&#8207;[[H8318\|שֶׁ֣רֶץ]]&#8207; </big>**| She.retz<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

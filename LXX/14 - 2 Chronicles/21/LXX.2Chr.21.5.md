@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 21:5** 
 <small><sub>**LXX:**</sub></small>
 His being thirty and two years \[old\] \[was\] Jehoram in  his reigning, and eight years he reigned in Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Jehoram [was] thirty and two years old when he began to reign, and he reigned eight years in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.4|<< 2 Chronicles 21:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.6|2 Chronicles 21:6 >>]]</td></tr></table>
 
 | Translation | Greek |

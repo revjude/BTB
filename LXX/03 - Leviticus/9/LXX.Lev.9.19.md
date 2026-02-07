@@ -1,10 +1,7 @@
 **LXX Leviticus 9:19** 
 <small><sub>**LXX:**</sub></small>
 and the fat, the \[fat\] from the calf, and from the loin of the ram, and the fat  covering up the belly, and the two kidneys, and the fat  upon them, and the lobe  upon the liver. 
-<small><sub>**KJV:**</sub></small>
-And the fat of the bullock and of the ram, the rump, and that which covereth [the inwards], and the kidneys, and the caul [above] the liver:
-<small><sub>**BSB:**</sub></small>
-They also brought the fat portions from the ox and the ram—the fat tail, the fat covering the entrails, the kidneys, and the lobe of the liver—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.9.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.9.18|<< Leviticus 9:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.9.20|Leviticus 9:20 >>]]</td></tr></table>
 
 | Translation | Greek |

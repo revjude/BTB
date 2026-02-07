@@ -1,10 +1,7 @@
 **LXX Ezekiel 19:7** 
 <small><sub>**LXX:**</sub></small>
 And he fed in  his boldness, and  made their cities quite desolate; and he obliterated \[the\] land and the fullness of it by \[the\] voice of his roaring. 
-<small><sub>**KJV:**</sub></small>
-And he knew their desolate palaces, and he laid waste their cities; and the land was desolate, and the fulness thereof, by the noise of his roaring.
-<small><sub>**BSB:**</sub></small>
-He broke down their strongholds and devastated their cities. The land and everything in it shuddered at the sound of his roaring.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.19.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.19.6|<< Ezekiel 19:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.19.8|Ezekiel 19:8 >>]]</td></tr></table>
 
 | Translation | Greek |

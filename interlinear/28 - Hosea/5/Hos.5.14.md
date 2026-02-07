@@ -1,4 +1,4 @@
-**Hosea 5:14** 
+**Hosea 5:14**<big><big>[[Hos.5.1 Judgment on Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I [will be] unto Ephraim as a lion, and as a young lion to the house of Judah: I, [even] I, will tear and go away; I will take away, and none shall rescue [him].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I am like a lion to Ephraim and like a young lion to the house of Judah. I, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.13|<< Hosea 5:13]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.15|Hosea 5:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֤י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

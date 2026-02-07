@@ -1,4 +1,4 @@
-**Psalms 69:10** (69:11)
+**Psalms 69:10**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I wept, [and chastened] my soul with fasting, that was to my reproach.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I wept and fasted, but it brought me reproach.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.9|<< Psalms 69:9]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.11|Psalms 69:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I wept  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H1058\|אֶבְכֶּ֣ה]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'ev.Keh<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with \<the> fasting  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H6685\|צּ֣וֹם]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> Tzom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Zechariah 11:13** 
+**Zechariah 11:13**<big><big>[[Zech.11.10 Thirty Pieces of Silver|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto me, Cast it unto the potter: a goodly price that I was prised at of them. And I took the thirty [pieces] of silver, and cast them to the potter in the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And the LORD said to me, “Throw it to the potter”—this magnificent price a
 > $\quad$ referenced by: [[Matt.26.15|Matt 26:15]] ☩ [[Matt.27.9|Matt 27:9-10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

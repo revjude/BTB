@@ -1,4 +1,4 @@
-**Isaiah 35:10** 
+**Isaiah 35:10**<big><big>[[Isa.35.1 The Glory of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ransomed of the LORD shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the redeemed of the LORD will return and enter Zion with singing, crowned wit
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.35.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.35.9|<< Isaiah 35:9]]</td><td align="center" style="border:none;">[[Isa.35|Isaiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.1|Isaiah 36:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] [people] ransomed of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6299\|פְדוּיֵ֨י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fe.du.Yei<small><sup>[[HVqsmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

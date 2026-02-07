@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:7** 
 <small><sub>**LXX:**</sub></small>
 For the cherubim were being opened and spread out in the wings over the place of the ark. And the cherubim covered all over the ark, and over  its holy \[things\] from above. 
-<small><sub>**KJV:**</sub></small>
-For the cherubims spread forth [their] two wings over the place of the ark, and the cherubims covered the ark and the staves thereof above.
-<small><sub>**BSB:**</sub></small>
-For the cherubim spread their wings over the place of the ark and overshadowed the ark and its poles.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.6|<< 1 Kings 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.8|1 Kings 8:8 >>]]</td></tr></table>
 
 | Translation | Greek |

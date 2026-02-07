@@ -1,4 +1,4 @@
-**Psalms 145:7** 
+**Psalms 145:7**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall abundantly utter the memory of thy great goodness, and shall sing of thy righteousness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will extol the fame of Your abundant goodness and sing joyfully of Your rig
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.6|<< Psalms 145:6]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.8|Psalms 145:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] remembrance of  |**<big>&#8207;[[H2143\|זֵ֣כֶר]]&#8207; </big>**| Ze.kher<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] greatness of  |**<big>&#8207;[[H7227A\|רַב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| rav-<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

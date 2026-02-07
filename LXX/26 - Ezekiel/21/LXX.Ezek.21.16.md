@@ -1,10 +1,7 @@
 **LXX Ezekiel 21:16** 
 <small><sub>**LXX:**</sub></small>
 Sharpen from \[the\] right and from \[the\] left! wherever  your face should be aroused. 
-<small><sub>**KJV:**</sub></small>
-Go thee one way or other, [either] on the right hand, [or] on the left, whithersoever thy face [is] set.
-<small><sub>**BSB:**</sub></small>
-Slash to the right; set your blade to the left—wherever your blade is directed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.15|<< Ezekiel 21:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.17|Ezekiel 21:17 >>]]</td></tr></table>
 
 | Translation | Greek |

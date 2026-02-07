@@ -1,4 +1,4 @@
-**2 Samuel 6:9** 
+**2 Samuel 6:9**<big><big>[[2Sam.6.5 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David was afraid of the LORD that day, and said, How shall the ark of the LORD come to me?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ That day David feared the LORD and asked, “How can the ark of the LORD ever co
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.8|<< 2 Samuel 6:8]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.10|2 Samuel 6:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he feared  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3372G\|יִּרָ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Ra'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָוִ֛ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

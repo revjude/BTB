@@ -1,4 +1,4 @@
-**Zechariah 5:4** 
+**Zechariah 5:4**<big><big>[[Zech.5.1 The Vision of the Flying Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will bring it forth, saith the LORD of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: and it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will send it out, declares the LORD of Hosts, and it will enter the house of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.5.3|<< Zechariah 5:3]]</td><td align="center" style="border:none;">[[Zech.5|Zechariah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.5.5|Zechariah 5:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will send forth it  |**<big>&#8207;[[H3318H\|הוֹצֵאתִ֗י]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| ho.tze.Ti.<small><sup>[[HVhp1cs]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם֙]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Isaiah 11:3** 
+**Isaiah 11:3**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shall make him of quick understanding in the fear of the LORD: and he shall not judge after the sight of his eyes, neither reprove after the hearing of his ears:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And He will delight in the fear of the LORD. He will not judge by what His eyes 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.2|<< Isaiah 11:2]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.4|Isaiah 11:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and delighting he  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H7306\|הֲרִיח֖]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> ha.ri.Ch<small><sup>[[HVhcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] in [the] fear of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3374\|יִרְאַ֣ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> yir.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

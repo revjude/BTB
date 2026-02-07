@@ -1,10 +1,7 @@
 **LXX Numbers 23:14** 
 <small><sub>**LXX:**</sub></small>
 And he took him into a field -- a height upon \[the\] top of a place for dressing stone; and he built there seven shrines, and brought a calf and ram unto the shrine. 
-<small><sub>**KJV:**</sub></small>
-And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on [every] altar.
-<small><sub>**BSB:**</sub></small>
-So Balak took him to the field of Zophim, to the top of Pisgah, where he built seven altars and offered a bull and a ram on each altar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.23.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.13|<< Numbers 23:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.15|Numbers 23:15 >>]]</td></tr></table>
 
 | Translation | Greek |

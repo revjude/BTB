@@ -1,10 +1,7 @@
 **LXX Ezekiel 25:9** 
 <small><sub>**LXX:**</sub></small>
 On account of this, behold, I will disable the shoulder of Moab from \[the\] cities of his extremities, \[the\] choice land, \[the\] house of Beth-jeshimoth above \[the\] spring of \[the\] city by the sea. 
-<small><sub>**KJV:**</sub></small>
-Therefore, behold, I will open the side of Moab from the cities, from his cities [which are] on his frontiers, the glory of the country, Bethjeshimoth, Baalmeon, and Kiriathaim,
-<small><sub>**BSB:**</sub></small>
-therefore I will indeed expose the flank of Moab beginning with its frontier cities—Beth-jeshimoth, Baal-meon, and Kiriathaim—the glory of the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.25.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.25.8|<< Ezekiel 25:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.25.10|Ezekiel 25:10 >>]]</td></tr></table>
 
 | Translation | Greek |

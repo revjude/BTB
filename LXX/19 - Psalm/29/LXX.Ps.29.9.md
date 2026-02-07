@@ -1,10 +1,7 @@
 **LXX Psalm 29:9** 
 <small><sub>**LXX:**</sub></small>
 \[The\] voice of \[the\] <span class="smallcaps">lord</span> fashioning \[the\] hinds; and he shall uncover \[the\] groves; and in  his temple all who say, Glory. 
-<small><sub>**KJV:**</sub></small>
-The voice of the LORD maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of [his] glory.
-<small><sub>**BSB:**</sub></small>
-The voice of the LORD twists the oaks and strips the forests bare. And in His temple all cry, “Glory!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.29.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.29.8|<< Psalm 29:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.29.10|Psalm 29:10 >>]]</td></tr></table>
 
 | Translation | Greek |

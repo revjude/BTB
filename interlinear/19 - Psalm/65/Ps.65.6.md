@@ -1,4 +1,4 @@
-**Psalms 65:6** (65:7)
+**Psalms 65:6**<big><big>[[Ps.65.1 Praise Awaits God in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which by his strength setteth fast the mountains; [being] girded with power:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You formed the mountains by Your power, having girded Yourself with might.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.65.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.5|<< Psalms 65:5]]</td><td align="center" style="border:none;">[[Ps.65|Psalms 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.65.7|Psalms 65:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [who] established  |**<big>&#8207;[[H3559I\|מֵכִ֣ין]]&#8207; </big>**| me.Khin<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mountains  |**<big>&#8207;[[H2022G\|הָרִ֣ים]]&#8207; </big>**| ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

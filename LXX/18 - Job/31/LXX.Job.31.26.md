@@ -1,10 +1,7 @@
 **LXX Job 31:26** 
 <small><sub>**LXX:**</sub></small>
 (or do we not see the shining sun subsiding, and \[the\] moon waning? For there is no \[power\] to them). 
-<small><sub>**KJV:**</sub></small>
-If I beheld the sun when it shined, or the moon walking [in] brightness;
-<small><sub>**BSB:**</sub></small>
-if I have beheld the sun in its radiance or the moon moving in splendor,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.25|<< Job 31:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.27|Job 31:27 >>]]</td></tr></table>
 
 | Translation | Greek |

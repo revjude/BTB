@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:30** 
 <small><sub>**LXX:**</sub></small>
 For Joab and Abishai  his brother observed  Abner, because he killed  Asahel  their brother in Gibeon in the battle. 
-<small><sub>**KJV:**</sub></small>
-So Joab and Abishai his brother slew Abner, because he had slain their brother Asahel at Gibeon in the battle.
-<small><sub>**BSB:**</sub></small>
-(Joab and his brother Abishai murdered Abner because he had killed their brother Asahel in the battle at Gibeon.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.29|<< 2 Samuel 3:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.31|2 Samuel 3:31 >>]]</td></tr></table>
 
 | Translation | Greek |

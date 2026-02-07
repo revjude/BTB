@@ -1,10 +1,7 @@
 **LXX Job 2:6** 
 <small><sub>**LXX:**</sub></small>
 And the <span class="smallcaps">lord</span> said to the devil, Behold, I deliver him to you, only  you guard his life! 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Satan, Behold, he [is] in thine hand; but save his life.
-<small><sub>**BSB:**</sub></small>
-“Very well,” said the LORD to Satan. “He is in your hands, but you must spare his life.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.2.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.5|<< Job 2:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.7|Job 2:7 >>]]</td></tr></table>
 
 | Translation | Greek |

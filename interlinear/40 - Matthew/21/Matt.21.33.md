@@ -1,5 +1,5 @@
-**Matthew 21:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:33**<big><big>[[Matt.21.33 The Parable of the Wicked Tenants|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Hear another parable: There was a certain householder, which planted a vineyard, and hedged it round about, and digged a winepress in it, and built a tower, and let it out to husbandmen, and went into a far country:
 <small><sub>**BSB:**</sub></small>
 Listen to another parable: There was a landowner who planted a vineyard. He put a wall around it, dug a winepress in it, and built a tower. Then he rented it out to some tenants and went away on a journey.
@@ -11,7 +11,7 @@ Another parable do hear: A man who there was a master of a house who planted a v
 > $\quad$ referencing: [[LXX.Isa.5.2|Isa 5:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Another |**<big>[[G0243\|Ἄλλην]]</big>**  |Allēn <small><sup>[[A-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | parable |**<big>[[G3850\|παραβολὴν]]</big>**  |parabolēn <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

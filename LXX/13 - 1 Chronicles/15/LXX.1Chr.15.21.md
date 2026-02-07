@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:21** 
 <small><sub>**LXX:**</sub></small>
 And Mattithiah, and Elipheleh, and Mikneiah, and Obed Edom, and Jeiel, and Azaziah, with lutes \[with\] octaves  growing in strength. 
-<small><sub>**KJV:**</sub></small>
-And Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, and Azaziah, with harps on the Sheminith to excel.
-<small><sub>**BSB:**</sub></small>
-And Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah were to lead the music with lyres according to Sheminith.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.20|<< 1 Chronicles 15:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.22|1 Chronicles 15:22 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 4:9** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> God said to Cain, Where is Abel  your brother? And he said, I do not know, I am not \[the\] keeper of my brother. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Cain, Where [is] Abel thy brother? And he said, I know not: [Am] I my brother’s keeper?
-<small><sub>**BSB:**</sub></small>
-And the LORD said to Cain, “Where is your brother Abel?” “I do not know!” he answered. “Am I my brother’s keeper?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.8|<< Genesis 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.10|Genesis 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

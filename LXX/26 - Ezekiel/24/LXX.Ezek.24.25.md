@@ -1,10 +1,7 @@
 **LXX Ezekiel 24:25** 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, \[shall it\] not \[be\] in the day whenever I take  their strength from them, the haughtiness  of their boasting, the desirable \[things\]  of their eyes, and the haughtiness  of their soul, their sons, and their daughters, 
-<small><sub>**KJV:**</sub></small>
-Also, thou son of man, [shall it] not [be] in the day when I take from them their strength, the joy of their glory, the desire of their eyes, and that whereupon they set their minds, their sons and their daughters,
-<small><sub>**BSB:**</sub></small>
-And you, son of man, know that on the day I take away their stronghold, their pride and joy—the desire of their eyes which uplifted their souls—and their sons and daughters as well,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.24.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.24.24|<< Ezekiel 24:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.24.26|Ezekiel 24:26 >>]]</td></tr></table>
 
 | Translation | Greek |

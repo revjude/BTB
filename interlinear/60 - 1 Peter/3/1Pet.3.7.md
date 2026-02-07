@@ -1,5 +1,5 @@
-**1 Peter 3:7
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:7**<big><big>[[1Pet.3.1 Wives and Husbands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Likewise, ye husbands, dwell with [them] according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered.
 <small><sub>**BSB:**</sub></small>
 Husbands, in the same way, treat your wives with consideration as a delicate vessel, and with honor as fellow heirs of the gracious gift of life, so that your prayers will not be hindered.
@@ -10,7 +10,7 @@ you who [are] Husbands likewise, dwelling with [them] according to knowledge as 
 > $\quad$ possibly alluding to: [[LXX.Prov.17.13|Prov 17:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you who [are] |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Husbands |**<big>[[G0435H\|ἄνδρες]]</big>**  |andres <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

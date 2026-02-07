@@ -1,10 +1,7 @@
 **LXX Judges 19:5** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass on the fourth day, that they rose early in the morning, and he rose up  to depart. And the father of the young woman said to  his son-in-law, Support  your heart with a piece of bread, and after this go! 
-<small><sub>**KJV:**</sub></small>
-And it came to pass on the fourth day, when they arose early in the morning, that he rose up to depart: and the damsel’s father said unto his son in law, Comfort thine heart with a morsel of bread, and afterward go your way.
-<small><sub>**BSB:**</sub></small>
-On the fourth day, they got up early in the morning and prepared to depart, but the girl’s father said to his son-in-law, “Refresh your heart with a morsel of bread, and then you can go.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.4|<< Judges 19:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.6|Judges 19:6 >>]]</td></tr></table>
 
 | Translation | Greek |

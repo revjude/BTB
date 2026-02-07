@@ -1,12 +1,12 @@
-**Luke 13:14
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:14**<big><big>[[Luke.13.10 Jesus Heals a Disabled Woman|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day, and said unto the people, There are six days in which men ought to work: in them therefore come and be healed, and not on the sabbath day.
 <small><sub>**BSB:**</sub></small>
 But the synagogue leader was indignant that Jesus had healed on the Sabbath. “There are six days for work,” he told the crowd. “So come and be healed on those days and not on the Sabbath.”
 <small><sub>**Literal:**</sub></small>
 Answering now the ruler of the synagogue, indignant because on the Sabbath healed <the> Jesus, he was saying to the crowd that Six days there are in which it behooves to work; in these therefore coming do be healed and not on the day of the Sabbath.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.13|<< Luke 13:13]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.15|Luke 13:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Answering |**<big>[[G0611\|Ἀποκριθεὶς]]</big>**  |Apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

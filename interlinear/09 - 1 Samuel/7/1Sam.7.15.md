@@ -1,4 +1,4 @@
-**1 Samuel 7:15** 
+**1 Samuel 7:15**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel judged Israel all the days of his life.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So Samuel judged Israel all the days of his life.
 > $\quad$ referenced by: [[Heb.11.32|Heb 11:32]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he judged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8199\|יִּשְׁפֹּ֤ט]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Pot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Samuel  |**<big>&#8207;[[H8050G\|שְׁמוּאֵל֙]]&#8207; </big>**| she.mu.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

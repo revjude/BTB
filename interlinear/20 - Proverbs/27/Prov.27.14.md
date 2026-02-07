@@ -1,4 +1,4 @@
-**Proverbs 27:14** 
+**Proverbs 27:14**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If one blesses his neighbor with a loud voice early in the morning, it will be c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.13|<< Proverbs 27:13]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.15|Proverbs 27:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] blesses  |**<big>&#8207;[[H1288\|מְבָ֘רֵ֤ךְ]]&#8207; </big>**| me.Va.Rekh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | neighbor his  |**<big>&#8207;[[H7453\|רֵעֵ֨]]&#8207;&#8207;[[H9023\|הוּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

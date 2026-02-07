@@ -1,4 +1,4 @@
-**Psalms 3:5** (3:6)
+**Psalms 3:5**<big><big>[[Ps.3.1 Deliver Me, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I laid me down and slept; I awaked; for the LORD sustained me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I lie down and sleep; I wake again, for the LORD sustains me.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.3.4|<< Psalms 3:4]]</td><td align="center" style="border:none;">[[Ps.3|Psalms 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.3.6|Psalms 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I lay down  |**<big>&#8207;[[H7901G\|שָׁכַ֗בְתִּי]]&#8207; </big>**| sha.Khav.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

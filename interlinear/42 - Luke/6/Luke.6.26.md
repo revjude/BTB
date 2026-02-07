@@ -1,12 +1,12 @@
-**Luke 6:26
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:26**<big><big>[[Luke.6.24 Woes to the Satisfied|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Woe unto you, when all men shall speak well of you! for so did their fathers to the false prophets.
 <small><sub>**BSB:**</sub></small>
 Woe to you when all men speak well of you, for their fathers treated the false prophets in the same way.
 <small><sub>**Literal:**</sub></small>
 Woe to you to you when of you well speak all <the> men; according to the [things] of them for were treating the false prophets the fathers of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.25|<< Luke 6:25]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.27|Luke 6:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Woe to you |**<big>[[G3759\|Οὐαὶ]]</big>**  |Ouai <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to you |**<big>[[G4771\|ὑμῖν]]</big>**  |humin <small><sup>[[P-2DP]]</sup></small> | <abbr title="TR">k</abbr> | |

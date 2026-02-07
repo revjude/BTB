@@ -1,4 +1,4 @@
-**Genesis 25:34** 
+**Genesis 25:34**<big><big>[[Gen.25.29 Esau Sells His Birthright|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised [his] birthright.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jacob gave some bread and lentil stew to Esau, who ate and drank and then g
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.33|<< Genesis 25:33]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.1|Genesis 26:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Jacob  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3290\|יַעֲקֹ֞ב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.'a.Ko<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he gave  |**<big>&#8207;[[H5414G\|נָתַ֣ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

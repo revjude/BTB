@@ -1,4 +1,4 @@
-**Psalms 149:8** 
+**Psalms 149:8**<big><big>[[Ps.149.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To bind their kings with chains, and their nobles with fetters of iron;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ to bind their kings with chains and their nobles with shackles of iron,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.149.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.149.7|<< Psalms 149:7]]</td><td align="center" style="border:none;">[[Ps.149|Psalms 149]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.149.9|Psalms 149:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to bind  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H0631\|אְסֹ֣ר]]&#8207; </big>**| le<small><sup>[[HR]]</sup></small> '.Sor<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | kings their  |**<big>&#8207;[[H4428G\|מַלְכֵי]]&#8207;&#8207;[[H9028\|הֶ֣ם]]&#8207; </big>**| mal.khei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

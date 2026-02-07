@@ -1,10 +1,7 @@
 **LXX 2 Samuel 19:24** 
 <small><sub>**LXX:**</sub></small>
 And Mephibosheth son of Jonathan, son of Saul went down for a meeting with the king, and attended not to  his feet, nor prepared  his mustache, and  his garments he did not wash from the day which the king went forth until the day which he came in peace. 
-<small><sub>**KJV:**</sub></small>
-And Mephibosheth the son of Saul came down to meet the king, and had neither dressed his feet, nor trimmed his beard, nor washed his clothes, from the day the king departed until the day he came [again] in peace.
-<small><sub>**BSB:**</sub></small>
-Then Mephibosheth, Saul’s grandson, went down to meet the king. He had not cared for his feet or trimmed his mustache or washed his clothes from the day the king had left until the day he returned safely.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.19.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.19.23|<< 2 Samuel 19:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.19.25|2 Samuel 19:25 >>]]</td></tr></table>
 
 | Translation | Greek |

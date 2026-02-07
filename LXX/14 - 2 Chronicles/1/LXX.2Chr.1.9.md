@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 1:9** 
 <small><sub>**LXX:**</sub></small>
 And now, O <span class="smallcaps">lord</span>  God, your word be trustworthy with David  my father! For you gave me reign over a people vast as the dust of the earth. 
-<small><sub>**KJV:**</sub></small>
-Now, O LORD God, let thy promise unto David my father be established: for thou hast made me king over a people like the dust of the earth in multitude.
-<small><sub>**BSB:**</sub></small>
-Now, O LORD God, let Your promise to my father David be fulfilled. For You have made me king over a people as numerous as the dust of the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.1.8|<< 2 Chronicles 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.10|2 Chronicles 1:10 >>]]</td></tr></table>
 
 | Translation | Greek |

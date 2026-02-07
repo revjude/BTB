@@ -1,10 +1,7 @@
 **LXX Numbers 4:12** 
 <small><sub>**LXX:**</sub></small>
 And they shall take all the items of the ministry, as many as they officiate with them in the holy \[places\], and they shall put them into a garment of blue. And shall cover them with a covering made of a skin of blue. And they shall place \[them\] upon bearing poles. 
-<small><sub>**KJV:**</sub></small>
-And they shall take all the instruments of ministry, wherewith they minister in the sanctuary, and put [them] in a cloth of blue, and cover them with a covering of badgers’ skins, and shall put [them] on a bar:
-<small><sub>**BSB:**</sub></small>
-They are to take all the utensils for serving in the sanctuary, place them in a blue cloth, cover them with fine leather, and put them on the carrying frame.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.11|<< Numbers 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.13|Numbers 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 30:4** (30:5)
+**Numbers 30:4**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And her father hear her vow, and her bond wherewith she hath bound her soul, and her father shall hold his peace at her: then all her vows shall stand, and every bond wherewith she hath bound her soul shall stand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and her father hears about her vow or pledge but says nothing to her, then all t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.3|<< Numbers 30:3]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.5|Numbers 30:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will hear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H8085G\|שָׁמַ֨ע]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Ma'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | father her  |**<big>&#8207;[[H0001G\|אָבִ֜י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

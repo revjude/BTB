@@ -1,10 +1,7 @@
 **LXX Zechariah 14:9** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> will be for king over all the earth. In  that day there shall be one <span class="smallcaps">lord</span>, and  his name one, 
-<small><sub>**KJV:**</sub></small>
-And the LORD shall be king over all the earth: in that day shall there be one LORD, and his name one.
-<small><sub>**BSB:**</sub></small>
-On that day the LORD will become King over all the earth—the LORD alone, and His name alone.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.14.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.8|<< Zechariah 14:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.10|Zechariah 14:10 >>]]</td></tr></table>
 
 | Translation | Greek |

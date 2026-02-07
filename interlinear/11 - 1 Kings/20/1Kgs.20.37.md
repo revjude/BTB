@@ -1,4 +1,4 @@
-**1 Kings 20:37** 
+**1 Kings 20:37**<big><big>[[1Kgs.20.35 A Prophet Reproves Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he found another man, and said, Smite me, I pray thee. And the man smote him, so that in smiting he wounded [him].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the prophet found another man and said, “Strike me, please!” So the man
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.36|<< 1 Kings 20:36]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.38|1 Kings 20:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he found  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4672\|יִּמְצָא֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.Tza'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a man  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

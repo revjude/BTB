@@ -1,10 +1,7 @@
 **LXX Proverbs 27:15** 
 <small><sub>**LXX:**</sub></small>
 Drops \[of rain\] on a day of winter shall cast a man from out of  his house; likewise also a reviling wife \[drives a man\] from out of  \[his\] own house. 
-<small><sub>**KJV:**</sub></small>
-A continual dropping in a very rainy day and a contentious woman are alike.
-<small><sub>**BSB:**</sub></small>
-A constant dripping on a rainy day and a contentious woman are alike—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.27.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.27.14|<< Proverbs 27:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.27.16|Proverbs 27:16 >>]]</td></tr></table>
 
 | Translation | Greek |

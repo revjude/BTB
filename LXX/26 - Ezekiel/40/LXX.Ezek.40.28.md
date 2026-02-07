@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:28** 
 <small><sub>**LXX:**</sub></small>
 And he brought me into the inner courtyard of the gate, of the one towards \[the\] south. And he measured the gate according to  these measures; 
-<small><sub>**KJV:**</sub></small>
-And he brought me to the inner court by the south gate: and he measured the south gate according to these measures;
-<small><sub>**BSB:**</sub></small>
-Next he brought me into the inner court through the south gate, and he measured the south gate; it had the same measurements as the others.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.27|<< Ezekiel 40:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.29|Ezekiel 40:29 >>]]</td></tr></table>
 
 | Translation | Greek |

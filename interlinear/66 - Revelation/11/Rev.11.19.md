@@ -1,12 +1,12 @@
-**Revelation 11:19
-**<small><sub>**KJV:**</sub></small>
+**Revelation 11:19**<big><big>[[Rev.11.15 The Seventh Trumpet|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the temple of God was opened in heaven, and there was seen in his temple the ark of his testament: and there were lightnings, and voices, and thunderings, and an earthquake, and great hail.
 <small><sub>**BSB:**</sub></small>
 Then the temple of God in heaven was opened, and the ark of His covenant appeared in His temple. And there were flashes of lightning, rumblings, peals of thunder, an earthquake, and a great hailstorm.
 <small><sub>**Literal:**</sub></small>
 And was opened the temple <the> of God <the> in <the> heaven, and appeared the ark of the covenant of Him in the temple of Him, And there were flashes of lightning and voices and thunders and an earthquake and hail great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.18|<< Revelation 11:18]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.1|Revelation 12:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was opened |**<big>[[G0455\|ἠνοίγη]]</big>**  |ēnoigē <small><sup>[[V-2API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

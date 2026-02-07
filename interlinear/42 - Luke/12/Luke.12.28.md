@@ -1,12 +1,12 @@
-**Luke 12:28
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:28**<big><big>[[Luke.12.22 Do Not Worry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If then God so clothe the grass, which is to day in the field, and to morrow is cast into the oven; how much more [will he clothe] you, O ye of little faith?
 <small><sub>**BSB:**</sub></small>
 If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the furnace, how much more will He clothe you, O you of little faith!
 <small><sub>**Literal:**</sub></small>
 If however in [the] <the> field the grass being [here] today and tomorrow into [the] furnace being thrown <the> God thus dresses, how much more you, O [you] of little faith?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.27|<< Luke 12:27]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.29|Luke 12:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

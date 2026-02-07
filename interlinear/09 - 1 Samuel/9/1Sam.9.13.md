@@ -1,4 +1,4 @@
-**1 Samuel 9:13** 
+**1 Samuel 9:13**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As soon as ye be come into the city, ye shall straightway find him, before he go up to the high place to eat: for the people will not eat until he come, because he doth bless the sacrifice; [and] afterwards they eat that be bidden. Now therefore get you up; for about this time ye shall find him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ As soon as you enter the city, you will find him before he goes up to the high p
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.12|<< 1 Samuel 9:12]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.14|1 Samuel 9:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when come you  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0935G\|בֹאֲ]]&#8207;&#8207;[[H9046\|כֶ֣ם]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> vo.'a.<small><sup>[[HVqcc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֣יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

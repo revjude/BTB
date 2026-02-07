@@ -1,4 +1,4 @@
-**Job 35:3** 
+**Job 35:3**<big><big>[[Job.35.1 Elihu Recalls God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou saidst, What advantage will it be unto thee? [and], What profit shall I have, [if I be cleansed] from my sin?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For you ask, ‘What does it profit me, and what benefit do I gain apart from si
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.35.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.35.2|<< Job 35:2]]</td><td align="center" style="border:none;">[[Job.35|Job 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.4|Job 35:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you say  |**<big>&#8207;[[H0559\|תֹ֭אמַר]]&#8207; </big>**| To.mar<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

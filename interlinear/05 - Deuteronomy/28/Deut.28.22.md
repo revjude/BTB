@@ -1,4 +1,4 @@
-**Deuteronomy 28:22** 
+**Deuteronomy 28:22**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall smite thee with a consumption, and with a fever, and with an inflammation, and with an extreme burning, and with the sword, and with blasting, and with mildew; and they shall pursue thee until thou perish.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will strike you with wasting disease, with fever and inflammation, with
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.21|<< Deuteronomy 28:21]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.23|Deuteronomy 28:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will strike you  |**<big>&#8207;[[H5221\|יַכְּ]]&#8207;&#8207;[[H9031\|כָ֣ה]]&#8207; </big>**| ya.ke.<small><sup>[[HVhi3ms]]</sup></small> Khah<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְ֠הוָה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

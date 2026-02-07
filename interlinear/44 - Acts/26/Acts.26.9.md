@@ -1,12 +1,12 @@
-**Acts 26:9
-**<small><sub>**KJV:**</sub></small>
+**Acts 26:9**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I verily thought with myself, that I ought to do many things contrary to the name of Jesus of Nazareth.
 <small><sub>**BSB:**</sub></small>
 So then, I too was convinced that I ought to do all I could to oppose the name of Jesus of Nazareth.
 <small><sub>**Literal:**</sub></small>
 I myself indeed therefore thought in myself to the name of Jesus <the> of Nazareth needing many things contrary to do,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.8|<< Acts 26:8]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.10|Acts 26:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|Ἐγὼ]]</big>**  |Egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

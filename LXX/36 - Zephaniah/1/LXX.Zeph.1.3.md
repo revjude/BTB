@@ -1,10 +1,7 @@
 **LXX Zephaniah 1:3** 
 <small><sub>**LXX:**</sub></small>
 man and cattle be wanting; the birds of the heaven be wanting, and the fishes of the sea. And the impious shall be sickened. And I will lift away the lawless deeds from \[the\] face of the land, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-I will consume man and beast; I will consume the fowls of the heaven, and the fishes of the sea, and the stumblingblocks with the wicked; and I will cut off man from off the land, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“I will sweep away man and beast; I will sweep away the birds of the air, and the fish of the sea, and the idols with their wicked worshipers. I will cut off mankind from the face of the earth,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.1.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.1.2|<< Zephaniah 1:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.1.4|Zephaniah 1:4 >>]]</td></tr></table>
 
 | Translation | Greek |

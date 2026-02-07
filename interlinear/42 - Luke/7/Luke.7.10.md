@@ -1,12 +1,12 @@
-**Luke 7:10
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:10**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they that were sent, returning to the house, found the servant whole that had been sick.
 <small><sub>**BSB:**</sub></small>
 And when the messengers returned to the house, they found the servant in good health.
 <small><sub>**Literal:**</sub></small>
 And having returned to the house the [ones] having been sent found the ailing servant in good health.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.9|<< Luke 7:9]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.11|Luke 7:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having returned |**<big>[[G5290\|ὑποστρέψαντες]]</big>**  |hupostrepsantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

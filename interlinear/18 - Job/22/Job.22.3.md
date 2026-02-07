@@ -1,4 +1,4 @@
-**Job 22:3** 
+**Job 22:3**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is it] any pleasure to the Almighty, that thou art righteous? or [is it] gain [to him], that thou makest thy ways perfect?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Does it delight the Almighty that you are righteous? Does He profit if your ways
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.2|<< Job 22:2]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.4|Job 22:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ [does] pleasure  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H2656\|חֵ֣פֶץ]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Che.fetz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belong] to [the] Almighty  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H7706\|שַׁדַּי]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> sha.dai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -6,10 +6,7 @@ For Solomon; a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 O God,  give your judgment to the king, and  your righteousness to the son of the king! 
-<small><sub>**KJV:**</sub></small>
-[A Psalm] for Solomon. Give the king thy judgments, O God, and thy righteousness unto the king’s son.
-<small><sub>**BSB:**</sub></small>
-Of Solomon. Endow the king with Your justice, O God, and the son of the king with Your righteousness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.72.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.71.24|<< Psalm 71:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.72.2|Psalm 72:2 >>]]</td></tr></table>
 
 | Translation | Greek |

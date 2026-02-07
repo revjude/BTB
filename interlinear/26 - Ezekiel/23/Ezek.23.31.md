@@ -1,4 +1,4 @@
-**Ezekiel 23:31** 
+**Ezekiel 23:31**<big><big>[[Ezek.23.22 Oholibah to Be Plagued|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast walked in the way of thy sister; therefore will I give her cup into thine hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because you have followed the path of your sister, I will put her cup into your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.30|<< Ezekiel 23:30]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.32|Ezekiel 23:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in [the] way of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1870G\|דֶ֥רֶךְ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> De.rekh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sister your  |**<big>&#8207;[[H0269\|אֲחוֹתֵ֖]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| 'a.cho.Te<small><sup>[[HNcfsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

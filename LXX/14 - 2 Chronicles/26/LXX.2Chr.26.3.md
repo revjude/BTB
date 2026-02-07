@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 26:3** 
 <small><sub>**LXX:**</sub></small>
 Uzziah \[was\] a son \[being\] sixteen years \[old\] in  his taking reign. And fifty and two years he reigned in Jerusalem. And \[the\] name  of his mother \[was\] Jecoliah, from Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-Sixteen years old [was] Uzziah when he began to reign, and he reigned fifty and two years in Jerusalem. His mother’s name also [was] Jecoliah of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Uzziah was sixteen years old when he became king, and he reigned in Jerusalem fifty-two years. His mother’s name was Jecoliah; she was from Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.26.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.2|<< 2 Chronicles 26:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.4|2 Chronicles 26:4 >>]]</td></tr></table>
 
 | Translation | Greek |

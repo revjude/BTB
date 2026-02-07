@@ -1,10 +1,7 @@
 **LXX Amos 9:4** 
 <small><sub>**LXX:**</sub></small>
 And if they go into captivity in front  of their enemies, there I will give charge to the broadsword, and it shall kill them. And I will firmly fix  my eyes against them for bad, and not for good. 
-<small><sub>**KJV:**</sub></small>
-And though they go into captivity before their enemies, thence will I command the sword, and it shall slay them: and I will set mine eyes upon them for evil, and not for good.
-<small><sub>**BSB:**</sub></small>
-Though they are driven by their enemies into captivity, there I will command the sword to slay them. I will fix My eyes upon them for harm and not for good.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.9.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.9.3|<< Amos 9:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.9.5|Amos 9:5 >>]]</td></tr></table>
 
 | Translation | Greek |

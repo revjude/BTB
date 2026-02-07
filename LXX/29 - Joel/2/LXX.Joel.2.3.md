@@ -1,10 +1,7 @@
 **LXX Joel 2:3** 
 <small><sub>**LXX:**</sub></small>
 The \[things\] before him a consuming fire; and behind him a flame being lighted. As a paradise of delicacy \[is\] the earth before his face, and the \[things\] behind him a plain of extinction; and ones escaping will not be to him. 
-<small><sub>**KJV:**</sub></small>
-A fire devoureth before them; and behind them a flame burneth: the land [is] as the garden of Eden before them, and behind them a desolate wilderness; yea, and nothing shall escape them.
-<small><sub>**BSB:**</sub></small>
-Before them a fire devours, and behind them a flame scorches. The land before them is like the Garden of Eden, but behind them, it is like a desert wasteland—surely nothing will escape them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.2.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.2.2|<< Joel 2:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.2.4|Joel 2:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Joel 2:3** is...

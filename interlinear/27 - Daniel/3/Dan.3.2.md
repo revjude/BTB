@@ -1,4 +1,4 @@
-**Daniel 3:2** 
+**Daniel 3:2**<big><big>[[Dan.3.1 Nebuchadnezzar’s Golden Statue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Nebuchadnezzar the king sent to gather together the princes, the governors, and the captains, the judges, the treasurers, the counsellers, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then King Nebuchadnezzar sent word to assemble the satraps, prefects, governors,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.1|<< Daniel 3:1]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.3|Daniel 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Nebuchadnezzar  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H5020\|נְבוּכַדְנֶצַּ֣ר]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> ne.vu.khad.ne.Tzar<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | king the  |**<big>&#8207;[[H4430\|מַלְכָּ֡]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

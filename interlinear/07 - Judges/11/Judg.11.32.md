@@ -1,4 +1,4 @@
-**Judges 11:32** 
+**Judges 11:32**<big><big>[[Judg.11.29 Jephthah’s Tragic Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jephthah passed over unto the children of Ammon to fight against them; and the LORD delivered them into his hands.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Jephthah crossed over to the Ammonites to fight against them, and the LORD de
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.31|<< Judges 11:31]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.33|Judges 11:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he passed on  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|יַּעֲבֹ֥ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'a.Vor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jephthah  |**<big>&#8207;[[H3316H\|יִפְתָּ֛ח]]&#8207; </big>**| yif.Tach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

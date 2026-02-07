@@ -1,12 +1,12 @@
-**Galatians 5:6
-**<small><sub>**KJV:**</sub></small>
+**Galatians 5:6**<big><big>[[Gal.5.1 Freedom in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.
 <small><sub>**BSB:**</sub></small>
 For in Christ Jesus neither circumcision nor uncircumcision has any value. What matters is faith expressing itself through love.
 <small><sub>**Literal:**</sub></small>
 In for Christ Jesus neither circumcision any has power nor uncircumcision but only faith through love working.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.5|<< Galatians 5:5]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.7|Galatians 5:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

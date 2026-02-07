@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:24** 
 <small><sub>**LXX:**</sub></small>
 And Judah came upon the height in the wilderness, and looked. And they beheld the multitude, and behold, all \[were\] dead having fallen upon the ground; there was not one surviving. 
-<small><sub>**KJV:**</sub></small>
-And when Judah came toward the watch tower in the wilderness, they looked unto the multitude, and, behold, they [were] dead bodies fallen to the earth, and none escaped.
-<small><sub>**BSB:**</sub></small>
-When the men of Judah came to a place overlooking the wilderness, they looked for the vast army, but there were only corpses lying on the ground; no one had escaped.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.23|<< 2 Chronicles 20:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.25|2 Chronicles 20:25 >>]]</td></tr></table>
 
 | Translation | Greek |

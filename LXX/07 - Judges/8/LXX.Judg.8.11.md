@@ -1,10 +1,7 @@
 **LXX Judges 8:11** 
 <small><sub>**LXX:**</sub></small>
 And Gideon ascended \[the\] way of the ones dwelling in tents from \[the\] east  of Nobah and Jogbehah, and he struck the camp. And the camp was secure. 
-<small><sub>**KJV:**</sub></small>
-And Gideon went up by the way of them that dwelt in tents on the east of Nobah and Jogbehah, and smote the host: for the host was secure.
-<small><sub>**BSB:**</sub></small>
-And Gideon went up by way of the caravan route east of Nobah and Jogbehah, and he attacked their army, taking them by surprise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.10|<< Judges 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.12|Judges 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

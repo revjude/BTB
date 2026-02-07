@@ -1,10 +1,7 @@
 **LXX Numbers 30:2** 
 <small><sub>**LXX:**</sub></small>
 A man, a man who ever should vow a vow \[to the\] <span class="smallcaps">lord</span>, or should swear by an oath, or should confirm a set of limits upon  his life, he shall not profane  his word; all as many \[things\] as should come forth from out of  his mouth he shall do. 
-<small><sub>**KJV:**</sub></small>
-If a man vow a vow unto the LORD, or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth.
-<small><sub>**BSB:**</sub></small>
-If a man makes a vow to the LORD or swears an oath to obligate himself by a pledge, he must not break his word; he must do everything he has promised.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.30.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.1|<< Numbers 30:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.3|Numbers 30:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Numbers 30:2** is...

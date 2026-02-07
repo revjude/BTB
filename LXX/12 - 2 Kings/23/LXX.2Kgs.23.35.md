@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:35** 
 <small><sub>**LXX:**</sub></small>
 And the silver and the gold Jehoiakim gave  to Pharaoh, but he assessed the land  to give the money by \[the\] mouth of Pharaoh; \[from each\] man according to  his \[assessed\] value; they gave the silver and the gold with the people of the land  to give \[to\] Pharaoh Necho. 
-<small><sub>**KJV:**</sub></small>
-And Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh: he exacted the silver and the gold of the people of the land, of every one according to his taxation, to give [it] unto Pharaohnechoh.
-<small><sub>**BSB:**</sub></small>
-So Jehoiakim paid the silver and gold to Pharaoh Neco, but to meet Pharaoh’s demand he taxed the land and exacted the silver and the gold from the people, each according to his wealth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.34|<< 2 Kings 23:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.36|2 Kings 23:36 >>]]</td></tr></table>
 
 | Translation | Greek |

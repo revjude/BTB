@@ -1,12 +1,12 @@
-**Ephesians 2:18
-**<small><sub>**KJV:**</sub></small>
+**Ephesians 2:18**<big><big>[[Eph.2.11 One in Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For through him we both have access by one Spirit unto the Father.
 <small><sub>**BSB:**</sub></small>
 For through Him we both have access to the Father by one Spirit.
 <small><sub>**Literal:**</sub></small>
 For through Him we have the access <the> both by one Spirit to the Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.17|<< Ephesians 2:17]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.19|Ephesians 2:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | through |**<big>[[G1223\|δι᾽]]</big>**  |di᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**1 Kings 1:16** 
+**1 Kings 1:16**<big><big>[[1Kgs.1.11 Nathan and Bathsheba before David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Bathsheba bowed, and did obeisance unto the king. And the king said, What wouldest thou?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Bathsheba bowed down in homage to the king, who asked, “What is your desir
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.15|<< 1 Kings 1:15]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.17|1 Kings 1:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she bowed low  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6915\|תִּקֹּ֣ד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ti.Kod<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Bath-  |**<big>&#8207;[[H1339\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

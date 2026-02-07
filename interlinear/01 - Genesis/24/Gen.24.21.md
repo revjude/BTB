@@ -1,4 +1,4 @@
-**Genesis 24:21** 
+**Genesis 24:21**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man wondering at her held his peace, to wit whether the LORD had made his journey prosperous or not.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Meanwhile, the man watched her silently to see whether or not the LORD had made 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.20|<< Genesis 24:20]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.22|Genesis 24:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and the man  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0376G\|אִ֥ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] gazing  |**<big>&#8207;[[H7583\|מִשְׁתָּאֵ֖ה]]&#8207; </big>**| mish.ta.'Eh<small><sup>[[HVtrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

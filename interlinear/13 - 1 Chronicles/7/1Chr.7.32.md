@@ -1,4 +1,4 @@
-**1 Chronicles 7:32** 
+**1 Chronicles 7:32**<big><big>[[1Chr.7.30 The Descendants of Asher|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Heber begat Japhlet, and Shomer, and Hotham, and Shua their sister.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Heber was the father of Japhlet, Shomer, and Hotham, and of their sister Shua.
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.31|<< 1 Chronicles 7:31]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.33|1 Chronicles 7:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Heber  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2268G\|חֶ֙בֶר֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Che.ver<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he fathered  |**<big>&#8207;[[H3205\|הוֹלִ֣יד]]&#8207; </big>**| ho.Lid<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 38:15** 
+**Ezekiel 38:15**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt come from thy place out of the north parts, thou, and many people with thee, all of them riding upon horses, a great company, and a mighty army:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you will come from your place out of the far north—you and many peoples wi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.14|<< Ezekiel 38:14]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.16|Ezekiel 38:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will come  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H0935G\|בָ֤אתָ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Va.ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from place your  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4725\|מְּקֽוֹמְ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> me.kom.<small><sup>[[HNcmsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

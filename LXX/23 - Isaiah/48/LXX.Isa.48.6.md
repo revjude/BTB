@@ -1,10 +1,7 @@
 **LXX Isaiah 48:6** 
 <small><sub>**LXX:**</sub></small>
 You heard all, and you knew not. But even audibly I committed to you the new \[things\] from the present which are about to take place, and you spoke not. 
-<small><sub>**KJV:**</sub></small>
-Thou hast heard, see all this; and will not ye declare [it]? I have shewed thee new things from this time, even hidden things, and thou didst not know them.
-<small><sub>**BSB:**</sub></small>
-You have heard these things; look at them all. Will you not acknowledge them? From now on I will tell you of new things, hidden things unknown to you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.5|<< Isaiah 48:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.7|Isaiah 48:7 >>]]</td></tr></table>
 
 | Translation | Greek |

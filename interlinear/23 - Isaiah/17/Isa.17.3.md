@@ -1,4 +1,4 @@
-**Isaiah 17:3** 
+**Isaiah 17:3**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fortress also shall cease from Ephraim, and the kingdom from Damascus, and the remnant of Syria: they shall be as the glory of the children of Israel, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The fortress will disappear from Ephraim, and the sovereignty from Damascus. The
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.17.2|<< Isaiah 17:2]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.4|Isaiah 17:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will cease  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7673A\|נִשְׁבַּ֤ת]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nish.Bat<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fortress  |**<big>&#8207;[[H4013\|מִבְצָר֙]]&#8207; </big>**| miv.Tzar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

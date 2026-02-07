@@ -1,10 +1,7 @@
 **LXX Jeremiah 46:5** 
 <small><sub>**LXX:**</sub></small>
 Why \[is it\] that they are terrified and retreat to the rear? because  their strong ones shall be beaten; they fled a flight into exile, and they shall not return compassing round about, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Wherefore have I seen them dismayed [and] turned away back? and their mighty ones are beaten down, and are fled apace, and look not back: [for] fear [was] round about, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-Why am I seeing this? They are terrified, they are retreating; their warriors are defeated, they flee in haste without looking back; terror is on every side!” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.46.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.46.4|<< Jeremiah 46:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.46.6|Jeremiah 46:6 >>]]</td></tr></table>
 
 | Translation | Greek |

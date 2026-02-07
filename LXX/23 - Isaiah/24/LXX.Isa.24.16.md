@@ -1,10 +1,7 @@
 **LXX Isaiah 24:16** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>  God of Israel, from the wings of the earth we heard miracles -- hope to the pious; but they shall say, Woe to the ones annulling -- the ones annulling the law. 
-<small><sub>**KJV:**</sub></small>
-From the uttermost part of the earth have we heard songs, [even] glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously.
-<small><sub>**BSB:**</sub></small>
-From the ends of the earth we hear singing: “Glory to the Righteous One.” But I said, “I am wasting away! I am wasting away! Woe is me.” The treacherous betray; the treacherous deal in treachery.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.24.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.15|<< Isaiah 24:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.17|Isaiah 24:17 >>]]</td></tr></table>
 
 | Translation | Greek |

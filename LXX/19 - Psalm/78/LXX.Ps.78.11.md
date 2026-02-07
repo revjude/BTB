@@ -1,10 +1,7 @@
 **LXX Psalm 78:11** 
 <small><sub>**LXX:**</sub></small>
 And they forgot  his good works, and  his wonders which he showed to them, 
-<small><sub>**KJV:**</sub></small>
-And forgat his works, and his wonders that he had shewed them.
-<small><sub>**BSB:**</sub></small>
-They forgot what He had done, the wonders He had shown them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.78.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.10|<< Psalm 78:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.12|Psalm 78:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:5** 
 <small><sub>**LXX:**</sub></small>
 In peace you shall die, and as they burned odors  for your fathers  reigning prior of you, \[so\] they shall burn also for you, \[saying\], O Lord. And they shall lament you, for I spoke \[the\] word, said \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-[But] thou shalt die in peace: and with the burnings of thy fathers, the former kings which were before thee, so shall they burn [odours] for thee; and they will lament thee, [saying], Ah lord! for I have pronounced the word, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-you will die in peace. As spices were burned for your fathers, the former kings who preceded you, so people will burn spices for you and lament, ‘Alas, O master!’ For I Myself have spoken this word, declares the LORD.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.4|<< Jeremiah 34:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.6|Jeremiah 34:6 >>]]</td></tr></table>
 
 | Translation | Greek |

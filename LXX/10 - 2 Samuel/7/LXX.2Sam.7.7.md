@@ -1,10 +1,7 @@
 **LXX 2 Samuel 7:7** 
 <small><sub>**LXX:**</sub></small>
 In all \[the places\] which all Israel went by, \[have I\] in speaking spoke to one tribe  of Israel in which I gave charge to tend  my people Israel, saying, Why do you not build for me a house of cedar? 
-<small><sub>**KJV:**</sub></small>
-In all [the places] wherein I have walked with all the children of Israel spake I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build ye not me an house of cedar?
-<small><sub>**BSB:**</sub></small>
-In all My journeys with all the Israelites, have I ever asked any of the leaders I appointed to shepherd My people Israel, ‘Why haven’t you built Me a house of cedar?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.6|<< 2 Samuel 7:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.8|2 Samuel 7:8 >>]]</td></tr></table>
 
 | Translation | Greek |

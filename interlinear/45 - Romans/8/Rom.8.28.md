@@ -1,12 +1,12 @@
-**Romans 8:28
-**<small><sub>**KJV:**</sub></small>
+**Romans 8:28**<big><big>[[Rom.8.28 God Works in All Things|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And we know that all things work together for good to them that love God, to them who are the called according to [his] purpose.
 <small><sub>**BSB:**</sub></small>
 And we know that God works all things together for the good of those who love Him, who are called according to His purpose.
 <small><sub>**Literal:**</sub></small>
 We know now that to those loving <the> God all things works together <the> God for good, to those according to [His] purpose called being.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.27|<< Romans 8:27]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.29|Romans 8:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We know |**<big>[[G6063\|Οἴδαμεν]]</big>**  |Oidamen <small><sup>[[V-RAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

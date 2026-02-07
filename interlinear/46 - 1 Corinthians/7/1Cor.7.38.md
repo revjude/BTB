@@ -1,12 +1,12 @@
-**1 Corinthians 7:38
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:38**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So then he that giveth [her] in marriage doeth well; but he that giveth [her] not in marriage doeth better.
 <small><sub>**BSB:**</sub></small>
 So then, he who marries the virgin does well, but he who does not marry her does even better.
 <small><sub>**Literal:**</sub></small>
 So then also the [one] now giving in marriage <the> his own virgin well does, and the [one] not giving in marriage better will do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.37|<< 1 Corinthians 7:37]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.39|1 Corinthians 7:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | So then |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |

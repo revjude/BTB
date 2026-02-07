@@ -1,4 +1,4 @@
-**Jeremiah 7:2** 
+**Jeremiah 7:2**<big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Stand in the gate of the LORD’S house, and proclaim there this word, and say, Hear the word of the LORD, all [ye of] Judah, that enter in at these gates to worship the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Stand in the gate of the LORD’S house, and proclaim there this word, and say, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.1|<< Jeremiah 7:1]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.3|Jeremiah 7:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | stand  |**<big>&#8207;[[H5975G\|עֲמֹ֗ד]]&#8207; </big>**| 'a.Mod<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] gate of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8179G\|שַׁ֙עַר֙]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Sha.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

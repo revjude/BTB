@@ -1,4 +1,4 @@
-**Exodus 28:8** 
+**Exodus 28:8**<big><big>[[Exod.28.6 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the curious girdle of the ephod, which [is] upon it, shall be of the same, according to the work thereof; [even of] gold, [of] blue, and purple, and scarlet, and fine twined linen.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the skillfully woven waistband of the ephod must be of one piece, of the sam
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.7|<< Exodus 28:7]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.9|Exodus 28:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] girdle of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2805\|חֵ֤שֶׁב]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Che.shev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ephod its  |**<big>&#8207;[[H0642\|אֲפֻדָּת]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| 'a.fu.da.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

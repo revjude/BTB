@@ -1,4 +1,4 @@
-**Psalms 2:6** 
+**Psalms 2:6**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet have I set my king upon my holy hill of Zion.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Yet have I set my king upon my holy hill of Zion.
 > $\quad$ referenced by: [[Rev.14.1|Rev 14:1]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I  |**<big>&#8207;[[H9002\|וַ֭]]&#8207;&#8207;[[H0589\|אֲנִי]]&#8207; </big>**| Va.<small><sup>[[HC]]</sup></small> 'a.ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have installed  |**<big>&#8207;[[H5258B\|נָסַ֣כְתִּי]]&#8207; </big>**| na.Sakh.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

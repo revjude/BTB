@@ -1,12 +1,12 @@
-**James 4:15
-**<small><sub>**KJV:**</sub></small>
+**James 4:15**<big><big>[[Jas.4.13 Do Not Boast about Tomorrow|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For that ye [ought] to say, If the Lord will, we shall live, and do this, or that.
 <small><sub>**BSB:**</sub></small>
 Instead, you ought to say, “If the Lord is willing, we will live and do this or that.”
 <small><sub>**Literal:**</sub></small>
 Instead [ought] <the> to say you; If the Lord shall wish both we will live and we will do this or that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.14|<< James 4:14]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.16|James 4:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Instead [ought] |**<big>[[G0473\|ἀντὶ]]</big>**  |anti <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Numbers 20:6** 
 <small><sub>**LXX:**</sub></small>
 And Moses and Aaron came from in front of the congregation, unto the door of the tent of the testimony, and they fell upon their face. And the glory \[of the\] <span class="smallcaps">lord</span> appeared to them. 
-<small><sub>**KJV:**</sub></small>
-And Moses and Aaron went from the presence of the assembly unto the door of the tabernacle of the congregation, and they fell upon their faces: and the glory of the LORD appeared unto them.
-<small><sub>**BSB:**</sub></small>
-Then Moses and Aaron went from the presence of the assembly to the entrance to the Tent of Meeting. They fell facedown, and the glory of the LORD appeared to them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.5|<< Numbers 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.7|Numbers 20:7 >>]]</td></tr></table>
 
 | Translation | Greek |

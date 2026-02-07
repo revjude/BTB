@@ -1,4 +1,4 @@
-**Jeremiah 40:15** 
+**Jeremiah 40:15**<big><big>[[Jer.40.13 The Plot against Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Johanan the son of Kareah spake to Gedaliah in Mizpah secretly, saying, Let me go, I pray thee, and I will slay Ishmael the son of Nethaniah, and no man shall know [it]: wherefore should he slay thee, that all the Jews which are gathered unto thee should be scattered, and the remnant in Judah perish?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Johanan son of Kareah spoke privately to Gedaliah at Mizpah. “Let me go a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.40.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40.14|<< Jeremiah 40:14]]</td><td align="center" style="border:none;">[[Jer.40|Jeremiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.40.16|Jeremiah 40:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Johanan  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3110G\|יוֹחָנָ֣ן]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.cha.Nan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

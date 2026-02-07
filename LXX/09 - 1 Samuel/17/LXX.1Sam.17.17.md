@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:17** 
 <small><sub>**LXX:**</sub></small>
 And Jesse said to David  his son, Take indeed \[to\] your brothers the ephah  of this toasted grain, and  these ten bread \[loaves\], and run unto the camp to  your brothers. 
-<small><sub>**KJV:**</sub></small>
-And Jesse said unto David his son, Take now for thy brethren an ephah of this parched [corn], and these ten loaves, and run to the camp to thy brethren;
-<small><sub>**BSB:**</sub></small>
-One day Jesse said to his son David, “Take this ephah of roasted grain and these ten loaves of bread for your brothers and hurry to their camp.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.16|<< 1 Samuel 17:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.18|1 Samuel 17:18 >>]]</td></tr></table>
 
 | Translation | Greek |

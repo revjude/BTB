@@ -1,4 +1,4 @@
-**Genesis 9:1** 
+**Genesis 9:1**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And God blessed Noah and his sons and said to them, “Be fruitful and multiply 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.22|<< Genesis 8:22]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.2|Genesis 9:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he blessed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1288\|יְבָ֣רֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Va.rekh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֔ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Exodus 20:11** 
+**Exodus 20:11**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [in] six days the LORD made heaven and earth, the sea, and all that in them [is], and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ For in six days the LORD made the heavens and the earth and the sea and all that
 > $\quad$ referenced by: [[Acts.4.24|Acts 4:24]] ☩ [[Acts.14.15|Acts 14:15]] ☩ [[Rev.10.6|Rev 10:6]] ☩ [[Rev.14.7|Rev 14:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | six  |**<big>&#8207;[[H8337\|שֵֽׁשֶׁת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.shet-<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

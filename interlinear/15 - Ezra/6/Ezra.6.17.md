@@ -1,4 +1,4 @@
-**Ezra 6:17** 
+**Ezra 6:17**<big><big>[[Ezra.6.16 Dedication of the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And offered at the dedication of this house of God an hundred bullocks, two hundred rams, four hundred lambs; and for a sin offering for all Israel, twelve he goats, according to the number of the tribes of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the dedication of the house of God they offered a hundred bulls, two hundred
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.16|<< Ezra 6:16]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.18|Ezra 6:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they offered  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7127\|הַקְרִ֗בוּ]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> hak.Ri.vu<small><sup>[[AVhp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for [the] dedication of  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2597\|חֲנֻכַּת֮]]&#8207; </big>**| la.<small><sup>[[AR]]</sup></small> cha.nu.Kat<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Genesis 1:24** 
 <small><sub>**LXX:**</sub></small>
 And God said, the earth bring forth living life according to \[its\] type -- four-footed, and reptiles, and wild beasts of the earth according to type! And it was so. 
-<small><sub>**KJV:**</sub></small>
-And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.
-<small><sub>**BSB:**</sub></small>
-And God said, “Let the earth bring forth living creatures according to their kinds: livestock, land crawlers, and beasts of the earth according to their kinds.” And it was so.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.1.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.1.23|<< Genesis 1:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.1.25|Genesis 1:25 >>]]</td></tr></table>
 
 | Translation | Greek |

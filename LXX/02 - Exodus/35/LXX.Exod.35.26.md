@@ -1,10 +1,7 @@
 **LXX Exodus 35:26** 
 <small><sub>**LXX:**</sub></small>
 And all the women to whom it seemed \[good\] in their consideration with wisdom, spun the hair of the goats. 
-<small><sub>**KJV:**</sub></small>
-And all the women whose heart stirred them up in wisdom spun goats’ [hair].
-<small><sub>**BSB:**</sub></small>
-And all the skilled women whose hearts were stirred spun the goat hair.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.35.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.35.25|<< Exodus 35:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.35.27|Exodus 35:27 >>]]</td></tr></table>
 
 | Translation | Greek |

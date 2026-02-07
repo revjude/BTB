@@ -1,4 +1,4 @@
-**Deuteronomy 5:4** 
+**Deuteronomy 5:4**<big><big>[[Deut.5.1 The Covenant at Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD talked with you face to face in the mount out of the midst of the fire,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD spoke with you face to face out of the fire on the mountain.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.3|<< Deuteronomy 5:3]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.5|Deuteronomy 5:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | face  |**<big>&#8207;[[H6440H\|פָּנִ֣ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| pa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on face  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6440H\|פָנִ֗ים]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> fa.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

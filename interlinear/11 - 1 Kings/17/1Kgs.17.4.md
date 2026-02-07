@@ -1,4 +1,4 @@
-**1 Kings 17:4** 
+**1 Kings 17:4**<big><big>[[1Kgs.17.1 The Ravens Feed Elijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, [that] thou shalt drink of the brook; and I have commanded the ravens to feed thee there.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And you are to drink from the brook, and I have commanded the ravens to feed you
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.3|<< 1 Kings 17:3]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.5|1 Kings 17:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֖ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from the wadi  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5158A\|נַּ֣חַל]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Na.chal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

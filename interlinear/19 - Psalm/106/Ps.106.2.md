@@ -1,4 +1,4 @@
-**Psalms 106:2** 
+**Psalms 106:2**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who can utter the mighty acts of the LORD? [who] can shew forth all his praise?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Who can describe the mighty acts of the LORD or fully proclaim His praise?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.1|<< Psalms 106:1]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.3|Psalms 106:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who?  |**<big>&#8207;[[H4310\|מִ֗י]]&#8207; </big>**| Mi<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he tell  |**<big>&#8207;[[H4448A\|יְ֭מַלֵּל]]&#8207; </big>**| Ye.ma.lel<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

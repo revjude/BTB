@@ -1,10 +1,7 @@
 **LXX Exodus 3:14** 
 <small><sub>**LXX:**</sub></small>
 And God said to Moses, I am the one being. And he said, Thus you shall say to the sons of Israel, The one being has sent me to you. 
-<small><sub>**KJV:**</sub></small>
-And God said unto Moses, I AM THAT I AM: and he said, Thus shalt thou say unto the children of Israel, I AM hath sent me unto you.
-<small><sub>**BSB:**</sub></small>
-God said to Moses, “I AM WHO I AM. This is what you are to say to the Israelites: ‘I AM has sent me to you.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.13|<< Exodus 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.15|Exodus 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

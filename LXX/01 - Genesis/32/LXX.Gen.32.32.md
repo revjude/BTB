@@ -1,10 +1,7 @@
 **LXX Genesis 32:32** 
 <small><sub>**LXX:**</sub></small>
 Because of this, no way \[do\] the sons of Israel eat the nerve \[by\] which he was paralyzed, which is upon the wide \[part\] of the thigh, until  this day. For he touched the wide \[part\] of the thigh of Jacob, of the nerve, in which he was paralyzed. 
-<small><sub>**KJV:**</sub></small>
-Therefore the children of Israel eat not [of] the sinew which shrank, which [is] upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob’s thigh in the sinew that shrank.
-<small><sub>**BSB:**</sub></small>
-Therefore to this day the Israelites do not eat the tendon attached to the socket of the hip, because the socket of Jacob’s hip was struck near that tendon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.32.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.31|<< Genesis 32:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.33.1|Genesis 33:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**2 Corinthians 8:17
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 8:17**<big><big>[[2Cor.8.16 Titus Commended|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you.
 <small><sub>**BSB:**</sub></small>
 For not only did he welcome our appeal, but he is eagerly coming to you of his own volition.
 <small><sub>**Literal:**</sub></small>
 For <the> indeed [our] appeal he accepted, very earnest however being of his own accord he has gone out to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.16|<< 2 Corinthians 8:16]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.18|2 Corinthians 8:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὴν]]</big>**  |tēn <small><sup>[[T-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

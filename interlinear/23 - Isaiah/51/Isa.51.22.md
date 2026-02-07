@@ -1,4 +1,4 @@
-**Isaiah 51:22** 
+**Isaiah 51:22**<big><big>[[Isa.51.17 God’s Fury Removed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith thy Lord the LORD, and thy God [that] pleadeth the cause of his people, Behold, I have taken out of thine hand the cup of trembling, [even] the dregs of the cup of my fury; thou shalt no more drink it again:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Thus says your Lord, the LORD, even your God, who defends His people: “See, I 
 > $\quad$ referenced by: [[Rev.14.10|Rev 14:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | thus  |**<big>&#8207;[[H3541\|כֹּֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| koh-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֞ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

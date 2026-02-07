@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:42** 
 <small><sub>**LXX:**</sub></small>
 And Jonathan said to David, Go in peace! And as we swore by an oath, both of us in \[the\] name of \[the\] <span class="smallcaps">lord</span>, saying, \[The\] <span class="smallcaps">lord</span> will be witness between me and you, and between  my seed and  your seed, unto \[the\] eon. And David rose up and went forth. And Jonathan entered into the city. 
-<small><sub>**KJV:**</sub></small>
-And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of the LORD, saying, The LORD be between me and thee, and between my seed and thy seed for ever. And he arose and departed: and Jonathan went into the city.
-<small><sub>**BSB:**</sub></small>
-And Jonathan said to David, “Go in peace, for the two of us have sworn in the name of the LORD, saying, ‘May the LORD be a witness between you and me, and between your descendants and mine forever.’” Then David got up and departed, and Jonathan went back into the city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.41|<< 1 Samuel 20:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.21.1|1 Samuel 21:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 25:4** 
 <small><sub>**LXX:**</sub></small>
 And  their sons \[were\] not killed according to the covenant of the law of \[the\] <span class="smallcaps">lord</span>, as is written in \[the\] law of Moses, as \[the\] <span class="smallcaps">lord</span> gave charge, saying, fathers shall not die for \[the\] children, and the sons shall not die for \[the\] fathers, but only each  for his own sin shall die. 
-<small><sub>**KJV:**</sub></small>
-But he slew not their children, but [did] as [it is] written in the law in the book of Moses, where the LORD commanded, saying, The fathers shall not die for the children, neither shall the children die for the fathers, but every man shall die for his own sin.
-<small><sub>**BSB:**</sub></small>
-Yet he did not put their sons to death, but acted according to what is written in the Law, in the Book of Moses, where the LORD commanded: “Fathers must not be put to death for their children, and children must not be put to death for their fathers; each is to die for his own sin.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.25.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.25.3|<< 2 Chronicles 25:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.25.5|2 Chronicles 25:5 >>]]</td></tr></table>
 
 | Translation | Greek |

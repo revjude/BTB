@@ -1,10 +1,7 @@
 **LXX 2 Kings 15:20** 
 <small><sub>**LXX:**</sub></small>
 And Menahem brought forth the silver for  Israel, \[excised\] upon every mighty \[man\] in strength, to give to the king of the Assyrians -- fifty shekels for the one man. And the king of \[the\] Assyrians returned and did not station there in the land. 
-<small><sub>**KJV:**</sub></small>
-And Menahem exacted the money of Israel, [even] of all the mighty men of wealth, of each man fifty shekels of silver, to give to the king of Assyria. So the king of Assyria turned back, and stayed not there in the land.
-<small><sub>**BSB:**</sub></small>
-Menahem exacted this money from each of the wealthy men of Israel—fifty shekels of silver from each man—to give to the king of Assyria. So the king of Assyria withdrew and did not remain in the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.19|<< 2 Kings 15:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.21|2 Kings 15:21 >>]]</td></tr></table>
 
 | Translation | Greek |

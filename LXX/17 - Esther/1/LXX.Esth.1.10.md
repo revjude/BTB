@@ -1,10 +1,7 @@
 **LXX Esther 1:10** 
 <small><sub>**LXX:**</sub></small>
 And on the seventh day the king being with pleasure, said \[to\] Mehuman, and Biztha, and Harbona, and Bigtha, and Abagtha, and Zethar, and Carcas, the seven eunuchs  of king Artaxerxes, 
-<small><sub>**KJV:**</sub></small>
-On the seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven chamberlains that served in the presence of Ahasuerus the king,
-<small><sub>**BSB:**</sub></small>
-On the seventh day, when the king’s heart was merry with wine, he ordered the seven eunuchs who served him—Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar, and Carkas—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.1.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.9|<< Esther 1:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.11|Esther 1:11 >>]]</td></tr></table>
 
 | Translation | Greek |

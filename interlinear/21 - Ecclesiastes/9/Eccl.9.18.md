@@ -1,4 +1,4 @@
-**Ecclesiastes 9:18** 
+**Ecclesiastes 9:18**<big><big>[[Eccl.9.13 Wisdom Is Better than Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wisdom [is] better than weapons of war: but one sinner destroyeth much good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wisdom is better than weapons of war, but one sinner destroys much good.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.17|<< Ecclesiastes 9:17]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.1|Ecclesiastes 10:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] good  |**<big>&#8207;[[H2896A\|טוֹבָ֥ה]]&#8207; </big>**| to.Vah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wisdom  |**<big>&#8207;[[H2451\|חָכְמָ֖ה]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Ezekiel 1:3** 
+**Ezekiel 1:3**<big><big>[[Ezek.1.1 Ezekiel’s Vision by the River Kebar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the word of the LORD came directly to Ezekiel the priest, the son of Buzi, in th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.2|<< Ezekiel 1:2]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.4|Ezekiel 1:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | expressly \<come>  |**<big>&#8207;[[H1961\|הָיֹ֣ה]]&#8207; </big>**| ha.Yoh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it came  |**<big>&#8207;[[H1961\|הָיָ֣ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

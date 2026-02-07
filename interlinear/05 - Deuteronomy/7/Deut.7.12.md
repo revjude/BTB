@@ -1,4 +1,4 @@
-**Deuteronomy 7:12** 
+**Deuteronomy 7:12**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore it shall come to pass, if ye hearken to these judgments, and keep, and do them, that the LORD thy God shall keep unto thee the covenant and the mercy which he sware unto thy fathers:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you listen to these ordinances and keep them carefully, then the LORD your Go
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.11|<< Deuteronomy 7:11]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.13|Deuteronomy 7:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | consequence  |**<big>&#8207;[[H6118\|עֵ֣קֶב]]&#8207; </big>**| 'E.kev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

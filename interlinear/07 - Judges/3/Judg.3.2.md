@@ -1,4 +1,4 @@
-**Judges 3:2** 
+**Judges 3:2**<big><big>[[Judg.3.1 Nations Left to Test Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only that the generations of the children of Israel might know, to teach them war, at the least such as before knew nothing thereof;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ if only to teach warfare to the subsequent generations of Israel, especially to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.1|<< Judges 3:1]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.3|Judges 3:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַ֗ק]]&#8207; </big>**| Rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so as  |**<big>&#8207;[[H4616\|לְמַ֙עַן֙]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

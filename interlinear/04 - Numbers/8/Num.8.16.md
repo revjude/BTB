@@ -1,4 +1,4 @@
-**Numbers 8:16** 
+**Numbers 8:16**<big><big>[[Num.8.5 Cleansing the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they [are] wholly given unto me from among the children of Israel; instead of such as open every womb, [even instead of] the firstborn of all the children of Israel, have I taken them unto me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the Levites have been wholly given to Me from among the sons of Israel. I ha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.15|<< Numbers 8:15]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.17|Numbers 8:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּי֩]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] assigned  |**<big>&#8207;[[H5414G\|נְתֻנִ֨ים]]&#8207; </big>**| ne.tu.Nim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Samuel 18:16** 
+**2 Samuel 18:16**<big><big>[[2Sam.18.1 Absalom Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joab blew the trumpet, and the people returned from pursuing after Israel: for Joab held back the people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Joab blew the ram’s horn, and the troops broke off their pursuit of Israe
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.15|<< 2 Samuel 18:15]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.17|2 Samuel 18:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he gave a blast  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8628\|יִּתְקַ֤ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yit.Ka'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joab  |**<big>&#8207;[[H3097G\|יוֹאָב֙]]&#8207; </big>**| yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

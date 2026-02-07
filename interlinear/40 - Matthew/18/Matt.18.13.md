@@ -1,12 +1,12 @@
-**Matthew 18:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:13**<big><big>[[Matt.18.10 The Parable of the Lost Sheep|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And if so be that he find it, verily I say unto you, he rejoiceth more of that [sheep], than of the ninety and nine which went not astray.
 <small><sub>**BSB:**</sub></small>
 And if he finds it, truly I tell you, he rejoices more over that one sheep than over the ninety-nine that did not go astray.
 <small><sub>**Literal:**</sub></small>
 And if he may happen to find it, Amen I say to you that he rejoices over it more than over the ninety nine which not gone astray.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.12|<< Matthew 18:12]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.14|Matthew 18:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

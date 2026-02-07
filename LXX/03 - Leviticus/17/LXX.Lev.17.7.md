@@ -1,10 +1,7 @@
 **LXX Leviticus 17:7** 
 <small><sub>**LXX:**</sub></small>
 And they shall not sacrifice still  their sacrifices to the vain \[gods\] in which they fornicate after them; it will be an eternal law to you unto  your generations. 
-<small><sub>**KJV:**</sub></small>
-And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations.
-<small><sub>**BSB:**</sub></small>
-They must no longer offer their sacrifices to the goat demons to which they have prostituted themselves. This will be a permanent statute for them for the generations to come.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.17.6|<< Leviticus 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.17.8|Leviticus 17:8 >>]]</td></tr></table>
 
 | Translation | Greek |

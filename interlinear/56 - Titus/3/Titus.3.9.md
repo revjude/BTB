@@ -1,12 +1,12 @@
-**Titus 3:9
-**<small><sub>**KJV:**</sub></small>
+**Titus 3:9**<big><big>[[Titus.3.9 Avoid Divisions|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.
 <small><sub>**BSB:**</sub></small>
 But avoid foolish controversies, genealogies, arguments, and quarrels about the law, because these things are pointless and worthless.
 <small><sub>**Literal:**</sub></small>
 Foolish however controversies and genealogies and arguments and quarrels about [the] Law do yourself avoid; they are for unprofitable and worthless.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.8|<< Titus 3:8]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.10|Titus 3:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Foolish |**<big>[[G3474\|μωρὰς]]</big>**  |mōras <small><sup>[[A-APF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 13:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 13:18**<big><big>[[Matt.13.18 The Parable of the Sower Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Hear ye therefore the parable of the sower.
 <small><sub>**BSB:**</sub></small>
 Consider, then, the parable of the sower:
 <small><sub>**Literal:**</sub></small>
 You yourselves therefore do hear the parable of the [one] having sown:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.17|<< Matthew 13:17]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.19|Matthew 13:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You yourselves |**<big>[[G4771\|Ὑμεῖς]]</big>**  |Humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And they felled \[wood\]. And indeed to them all each \[was\] a load. And they lifted, and they went after Abimelech. And they placed \[the wood\] at the fortress, and they set fire to them at the fortress with fire. And all died, the men of \[the\] tower of Shechem, about a thousand men and women. 
-<small><sub>**KJV:**</sub></small>
-And all the people likewise cut down every man his bough, and followed Abimelech, and put [them] to the hold, and set the hold on fire upon them; so that all the men of the tower of Shechem died also, about a thousand men and women.
-<small><sub>**BSB:**</sub></small>
-So each man also cut his own branch and followed Abimelech. Then they piled the branches against the inner chamber and set it on fire above them, killing everyone in the tower of Shechem, about a thousand men and women.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.49|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.48|<< Judges 9:48]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.50|Judges 9:50 >>]]</td></tr></table>
 
 | Translation | Greek |

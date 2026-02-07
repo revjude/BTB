@@ -1,10 +1,7 @@
 **LXX 1 Samuel 22:15** 
 <small><sub>**LXX:**</sub></small>
 Or today have I begun to ask for him through  God? By no means. Let not the king impute concerning  \[the\] word of his servant, and against \[the\] entire  house  of my father, for your servant knew not in any of these \[things\], a matter small or great. 
-<small><sub>**KJV:**</sub></small>
-Did I then begin to inquire of God for him? be it far from me: let not the king impute [any] thing unto his servant, [nor] to all the house of my father: for thy servant knew nothing of all this, less or more.
-<small><sub>**BSB:**</sub></small>
-Was that day the first time I inquired of God for him? Far be it from me! Let not the king accuse your servant or any of my father’s household, for your servant knew nothing of this whole affair—not in part or in whole.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.22.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.14|<< 1 Samuel 22:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.22.16|1 Samuel 22:16 >>]]</td></tr></table>
 
 | Translation | Greek |

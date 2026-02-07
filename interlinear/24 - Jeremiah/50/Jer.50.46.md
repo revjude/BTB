@@ -1,4 +1,4 @@
-**Jeremiah 50:46** 
+**Jeremiah 50:46**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the noise of the taking of Babylon the earth is moved, and the cry is heard among the nations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the sound of Babylon’s capture the earth will quake; a cry will be heard am
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.45|<< Jeremiah 50:45]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.1|Jeremiah 51:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] sound  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6963H\|קּוֹל֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kOl<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has been captured  |**<big>&#8207;[[H8610\|נִתְפְּשָׂ֣ה]]&#8207; </big>**| nit.pe.Sah<small><sup>[[HVNp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

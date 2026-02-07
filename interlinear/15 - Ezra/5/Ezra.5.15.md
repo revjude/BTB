@@ -1,4 +1,4 @@
-**Ezra 5:15** 
+**Ezra 5:15**<big><big>[[Ezra.5.6 Tattenai’s Letter to Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto him, Take these vessels, go, carry them into the temple that [is] in Jerusalem, and let the house of God be builded in his place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and instructed, ‘Take these articles, put them in the temple in Jerusalem, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.14|<< Ezra 5:14]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.16|Ezra 5:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0560\|אֲמַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va.<small><sup>[[AC]]</sup></small> 'a.mar-<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H9005\|לֵ֓]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| le<small><sup>[[AR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

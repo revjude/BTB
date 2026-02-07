@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:8** 
 <small><sub>**LXX:**</sub></small>
 I brought together to myself also indeed silver, and indeed gold, and prized possessions of kings and of the places. I prepared to myself \[male\] singers and \[female\] singers, and amusements of \[the\] sons  of man; \[and\] male wine servers and female wine servers. 
-<small><sub>**KJV:**</sub></small>
-I gathered me also silver and gold, and the peculiar treasure of kings and of the provinces: I gat me men singers and women singers, and the delights of the sons of men, [as] musical instruments, and that of all sorts.
-<small><sub>**BSB:**</sub></small>
-and I accumulated for myself silver and gold and the treasure of kings and provinces. I gathered to myself male and female singers, and the delights of the sons of men—many concubines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.7|<< Ecclesiastes 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.9|Ecclesiastes 2:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Exodus 36:2** 
 <small><sub>**LXX:**</sub></small>
 And Moses called  Bezaleel and Aholiab, and all the ones having the wisdom, to whom God gave higher knowledge in the heart, and all of the \[ones\] voluntarily willing to go to the works so as to complete them. 
-<small><sub>**KJV:**</sub></small>
-And Moses called Bezaleel and Aholiab, and every wise hearted man, in whose heart the LORD had put wisdom, [even] every one whose heart stirred him up to come unto the work to do it:
-<small><sub>**BSB:**</sub></small>
-Then Moses summoned Bezalel, Oholiab, and every skilled person whom the LORD had gifted—everyone whose heart stirred him to come and do the work.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.36.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.36.1|<< Exodus 36:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.36.3|Exodus 36:3 >>]]</td></tr></table>
 
 | Translation | Greek |

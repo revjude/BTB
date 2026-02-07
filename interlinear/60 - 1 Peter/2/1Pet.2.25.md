@@ -1,5 +1,5 @@
-**1 Peter 2:25
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 2:25**<big><big>[[1Pet.2.21 Christ’s Example of Suffering|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For ye were as sheep going astray; but are now returned unto the Shepherd and Bishop of your souls.
 <small><sub>**BSB:**</sub></small>
 For “you were like sheep going astray,” but now you have returned to the Shepherd and Overseer of your souls.
@@ -10,7 +10,7 @@ You were for like sheep going astray but you have returned now to the Shepherd a
 > $\quad$ referencing: [[LXX.Isa.53.6|Isa 53:6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You were |**<big>[[G1510\|ἦτε]]</big>**  |ēte <small><sup>[[V-IAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

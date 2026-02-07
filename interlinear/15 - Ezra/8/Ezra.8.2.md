@@ -1,4 +1,4 @@
-**Ezra 8:2** 
+**Ezra 8:2**<big><big>[[Ezra.8.1 The Exiles Who Returned with Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the sons of Phinehas; Gershom: of the sons of Ithamar; Daniel: of the sons of David; Hattush.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ from the descendants of Phinehas, Gershom; from the descendants of Ithamar, Dani
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.1|<< Ezra 8:1]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.3|Ezra 8:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of [the] descendants of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1121G\|בְּנֵ֤י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Phinehas  |**<big>&#8207;[[H6372G\|פִֽינְחָס֙]]&#8207; </big>**| fi.ne.Chas<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

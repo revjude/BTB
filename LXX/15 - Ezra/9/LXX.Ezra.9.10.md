@@ -1,10 +1,7 @@
 **LXX Ezra 9:10** 
 <small><sub>**LXX:**</sub></small>
 And now, what should we say, O our God, after this? For we abandoned  your commandments, 
-<small><sub>**KJV:**</sub></small>
-And now, O our God, what shall we say after this? for we have forsaken thy commandments,
-<small><sub>**BSB:**</sub></small>
-And now, our God, what can we say after this? For we have forsaken the commandments<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.9.9|<< Ezra 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.9.11|Ezra 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

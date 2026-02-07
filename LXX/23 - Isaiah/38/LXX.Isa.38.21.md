@@ -1,10 +1,7 @@
 **LXX Isaiah 38:21** 
 <small><sub>**LXX:**</sub></small>
 And Isaiah said to Hezekiah, Take a dried cluster of figs, and grind \[them\], and plaster \[with it\], and you will be in health. 
-<small><sub>**KJV:**</sub></small>
-For Isaiah had said, Let them take a lump of figs, and lay [it] for a plaister upon the boil, and he shall recover.
-<small><sub>**BSB:**</sub></small>
-Now Isaiah had said, “Prepare a lump of pressed figs and apply it to the boil, and he will recover.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.38.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.20|<< Isaiah 38:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.22|Isaiah 38:22 >>]]</td></tr></table>
 
 | Translation | Greek |

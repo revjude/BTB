@@ -1,10 +1,7 @@
 **LXX 2 Samuel 15:26** 
 <small><sub>**LXX:**</sub></small>
 And if he should say thus, I have no want in you; behold, I, I let him do to me the pleasing \[thing\] before him. 
-<small><sub>**KJV:**</sub></small>
-But if he thus say, I have no delight in thee; behold, [here am] I, let him do to me as seemeth good unto him.
-<small><sub>**BSB:**</sub></small>
-But if He should say, ‘I do not delight in you,’ then here I am; let Him do to me whatever seems good to Him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.15.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.25|<< 2 Samuel 15:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.15.27|2 Samuel 15:27 >>]]</td></tr></table>
 
 | Translation | Greek |

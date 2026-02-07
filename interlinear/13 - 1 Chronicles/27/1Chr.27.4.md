@@ -1,4 +1,4 @@
-**1 Chronicles 27:4** 
+**1 Chronicles 27:4**<big><big>[[1Chr.27.1 Twelve Captains for Twelve Months|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And over the course of the second month [was] Dodai an Ahohite, and of his course [was] Mikloth also the ruler: in his course likewise [were] twenty and four thousand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Dodai the Ahohite was in charge of the division for the second month, and Miklot
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.3|<< 1 Chronicles 27:3]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.5|1 Chronicles 27:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [was] over  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַ֞ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] division of  |**<big>&#8207;[[H4256\|מַחֲלֹ֣קֶת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ma.cha.Lo.ket<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezra 5:12** 
 <small><sub>**LXX:**</sub></small>
 But from when our fathers provoked to anger the God  of heaven, he gave them into \[the\] hands of Nebuchadnezzar king of Babylon, the Chaldean, and  this house he caused to rest, and the people he resettled in Babylon. 
-<small><sub>**KJV:**</sub></small>
-But after that our fathers had provoked the God of heaven unto wrath, he gave them into the hand of Nebuchadnezzar the king of Babylon, the Chaldean, who destroyed this house, and carried the people away into Babylon.
-<small><sub>**BSB:**</sub></small>
-But since our fathers angered the God of heaven, He delivered them into the hand of Nebuchadnezzar king of Babylon, the Chaldean who destroyed this temple and carried away the people to Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.5.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.11|<< Ezra 5:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.13|Ezra 5:13 >>]]</td></tr></table>
 
 | Translation | Greek |

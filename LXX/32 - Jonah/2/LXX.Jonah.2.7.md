@@ -1,10 +1,7 @@
 **LXX Jonah 2:7** 
 <small><sub>**LXX:**</sub></small>
 In the faltering of my soul from me  I remembered \[the\] <span class="smallcaps">lord</span>; and my prayer come to you in your holy temple. 
-<small><sub>**KJV:**</sub></small>
-When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple.
-<small><sub>**BSB:**</sub></small>
-As my life was fading away, I remembered the LORD. My prayer went up to You, to Your holy temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jonah.2.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jonah.2.6|<< Jonah 2:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jonah.2.8|Jonah 2:8 >>]]</td></tr></table>
 
 | Translation | Greek |

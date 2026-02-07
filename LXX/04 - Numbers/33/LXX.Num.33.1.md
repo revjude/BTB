@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And these are the posts of the sons of Israel, as they came forth from \[the\] land of Egypt with their force by \[the\] hand of Moses and Aaron. 
-<small><sub>**KJV:**</sub></small>
-These [are] the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.
-<small><sub>**BSB:**</sub></small>
-These are the journeys of the Israelites when they came out of the land of Egypt by their divisions under the leadership of Moses and Aaron.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.33.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.42|<< Numbers 32:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.33.2|Numbers 33:2 >>]]</td></tr></table>
 
 | Translation | Greek |

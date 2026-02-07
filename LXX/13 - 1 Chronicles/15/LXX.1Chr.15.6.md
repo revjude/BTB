@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 15:6** 
 <small><sub>**LXX:**</sub></small>
 Of the sons of Merari; Asiah the ruler, and  his brethren -- two hundred \[and\] twenty. 
-<small><sub>**KJV:**</sub></small>
-Of the sons of Merari; Asaiah the chief, and his brethren two hundred and twenty:
-<small><sub>**BSB:**</sub></small>
-from the Merarites, Asaiah the chief and 220 of his relatives;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.15.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.5|<< 1 Chronicles 15:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.7|1 Chronicles 15:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:32** 
 <small><sub>**LXX:**</sub></small>
 Ask former days! the ones having taken place prior of you, from the day of which God created man upon the earth, and upon the \[one\] extremity of the heaven unto the \[other\] extremity of the heaven, if \[anything\] has taken place according to  this great thing, if such was heard; 
-<small><sub>**KJV:**</sub></small>
-For ask now of the days that are past, which were before thee, since the day that God created man upon the earth, and [ask] from the one side of heaven unto the other, whether there hath been [any such thing] as this great thing [is], or hath been heard like it?
-<small><sub>**BSB:**</sub></small>
-Indeed, ask now from one end of the heavens to the other about the days that long preceded you, from the day that God created man on earth: Has anything as great as this ever happened or been reported?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.31|<< Deuteronomy 4:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.33|Deuteronomy 4:33 >>]]</td></tr></table>
 
 | Translation | Greek |

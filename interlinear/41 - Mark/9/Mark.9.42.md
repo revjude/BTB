@@ -1,12 +1,12 @@
-**Mark 9:42
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:42**<big><big>[[Mark.9.42 Temptations and Trespasses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whosoever shall offend one of [these] little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.
 <small><sub>**BSB:**</sub></small>
 But if anyone causes one of these little ones who believe in Me to stumble, it would be better for him to have a large millstone hung around his neck and to be thrown into the sea.
 <small><sub>**Literal:**</sub></small>
 And who[ever] maybe shall cause to stumble one of the little ones these who are believing in Me myself, better it is for him rather if is put a millstone heavy around the neck of him and he has been cast into the sea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.41|<< Mark 9:41]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.43|Mark 9:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | who[ever] |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 11:4** 
 <small><sub>**LXX:**</sub></small>
 And king David and all Israel went into Jerusalem -- this is Jebus. And the Jebusites \[were\] there, the ones dwelling the land 
-<small><sub>**KJV:**</sub></small>
-And David and all Israel went to Jerusalem, which [is] Jebus; where the Jebusites [were], the inhabitants of the land.
-<small><sub>**BSB:**</sub></small>
-Then David and all the Israelites marched to Jerusalem (that is, Jebus), where the Jebusites inhabited the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.3|<< 1 Chronicles 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.5|1 Chronicles 11:5 >>]]</td></tr></table>
 
 | Translation | Greek |

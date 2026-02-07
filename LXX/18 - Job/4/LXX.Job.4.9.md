@@ -1,10 +1,7 @@
 **LXX Job 4:9** 
 <small><sub>**LXX:**</sub></small>
 By \[the\] order of \[the\] <span class="smallcaps">lord</span> they shall perish, and by \[the\] breath of his anger they shall be obliterated. 
-<small><sub>**KJV:**</sub></small>
-By the blast of God they perish, and by the breath of his nostrils are they consumed.
-<small><sub>**BSB:**</sub></small>
-By the breath of God they perish, and by the blast of His anger they are consumed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.4.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.4.8|<< Job 4:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.4.10|Job 4:10 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Romans 9:2
-**<small><sub>**KJV:**</sub></small>
+**Romans 9:2**<big><big>[[Rom.9.1 Paul’s Concern for the Jews|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That I have great heaviness and continual sorrow in my heart.
 <small><sub>**BSB:**</sub></small>
 I have deep sorrow and unceasing anguish in my heart.
 <small><sub>**Literal:**</sub></small>
 that grief to me is great and unceasing sorrow in the heart of me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.1|<< Romans 9:1]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.3|Romans 9:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | grief |**<big>[[G3077\|λύπη]]</big>**  |lupē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

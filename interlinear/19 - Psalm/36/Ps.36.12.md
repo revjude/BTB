@@ -1,4 +1,4 @@
-**Psalms 36:12** (36:13)
+**Psalms 36:12**<big><big>[[Ps.36.1 The Transgression of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There are the workers of iniquity fallen: they are cast down, and shall not be able to rise.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There the evildoers lie fallen, thrown down and unable to rise.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.36.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.11|<< Psalms 36:11]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.0|Psalms 37:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there  |**<big>&#8207;[[H8033G\|שָׁ֣ם]]&#8207; </big>**| sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have fallen  |**<big>&#8207;[[H5307G\|נָ֭פְלוּ]]&#8207; </big>**| Na.fe.lu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

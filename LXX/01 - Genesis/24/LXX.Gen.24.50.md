@@ -1,10 +1,7 @@
 **LXX Genesis 24:50** 
 <small><sub>**LXX:**</sub></small>
 And answering Laban and Bethuel said, From \[the\] <span class="smallcaps">lord</span> came forth  this thing, we will not be able  to contradict bad or good. 
-<small><sub>**KJV:**</sub></small>
-Then Laban and Bethuel answered and said, The thing proceedeth from the LORD: we cannot speak unto thee bad or good.
-<small><sub>**BSB:**</sub></small>
-Laban and Bethuel answered, “This is from the LORD; we have no choice in the matter.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.24.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.24.49|<< Genesis 24:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.24.51|Genesis 24:51 >>]]</td></tr></table>
 
 | Translation | Greek |

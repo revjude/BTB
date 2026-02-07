@@ -1,10 +1,7 @@
 **LXX Psalm 88:15** 
 <small><sub>**LXX:**</sub></small>
 I am poor and in troubles from my youth. But being raised up high I was humbled and left destitute. 
-<small><sub>**KJV:**</sub></small>
-I [am] afflicted and ready to die from [my] youth up: [while] I suffer thy terrors I am distracted.
-<small><sub>**BSB:**</sub></small>
-From my youth I was afflicted and near death. I have borne Your terrors; I am in despair.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.88.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.14|<< Psalm 88:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.16|Psalm 88:16 >>]]</td></tr></table>
 
 | Translation | Greek |

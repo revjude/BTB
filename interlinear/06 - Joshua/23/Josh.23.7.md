@@ -1,4 +1,4 @@
-**Joshua 23:7** 
+**Joshua 23:7**<big><big>[[Josh.23.1 Joshua’s Charge to Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That ye come not among these nations, these that remain among you; neither make mention of the name of their gods, nor cause to swear [by them], neither serve them, nor bow yourselves unto them:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So you are not to associate with these nations that remain among you. You must n
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.6|<< Joshua 23:6]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.8|Joshua 23:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to not  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1115\|בִלְתִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vil.ti-<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to go  |**<big>&#8207;[[H0935G\|בוֹא֙]]&#8207; </big>**| Vo'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

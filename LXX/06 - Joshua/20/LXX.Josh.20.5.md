@@ -1,10 +1,7 @@
 **LXX Joshua 20:5** 
 <small><sub>**LXX:**</sub></small>
 And when the one acting as next of kin for blood should pursue after him, that they shall not consign the one manslaying into his hand, for not knowing he struck  his neighbor, and he himself \[was\] not disliking him from yesterday, and \[the\] third \[day before\]. 
-<small><sub>**KJV:**</sub></small>
-And if the avenger of blood pursue after him, then they shall not deliver the slayer up into his hand; because he smote his neighbour unwittingly, and hated him not beforetime.
-<small><sub>**BSB:**</sub></small>
-Now if the avenger of blood pursues him, they must not surrender the manslayer into his hand, because that man killed his neighbor accidentally without prior malice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.20.4|<< Joshua 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.20.6|Joshua 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

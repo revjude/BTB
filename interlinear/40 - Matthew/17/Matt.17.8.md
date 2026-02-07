@@ -1,12 +1,12 @@
-**Matthew 17:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 17:8**<big><big>[[Matt.17.1 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when they had lifted up their eyes, they saw no man, save Jesus only.
 <small><sub>**BSB:**</sub></small>
 And when they looked up, they saw no one except Jesus.
 <small><sub>**Literal:**</sub></small>
 Having lifted up and the eyes of them no [one] they saw only except Himself Jesus alone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.7|<< Matthew 17:7]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.9|Matthew 17:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having lifted up |**<big>[[G1869\|ἐπάραντες]]</big>**  |eparantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | and |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

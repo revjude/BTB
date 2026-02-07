@@ -1,4 +1,4 @@
-**Ezekiel 1:20** 
+**Ezekiel 1:20**<big><big>[[Ezek.1.15 The Four Wheels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whithersoever the spirit was to go, they went, thither [was their] spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature [was] in the wheels.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Wherever the spirit would go, they would go, and the wheels would rise alongside
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.19|<< Ezekiel 1:19]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.21|Ezekiel 1:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to  |**<big>&#8207;[[H5921A\|עַ֣ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | where  |**<big>&#8207;[[H0834A\|אֲשֶׁר֩]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

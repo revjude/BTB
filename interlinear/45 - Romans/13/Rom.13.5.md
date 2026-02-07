@@ -1,12 +1,12 @@
-**Romans 13:5
-**<small><sub>**KJV:**</sub></small>
+**Romans 13:5**<big><big>[[Rom.13.1 Submission to Authorities|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore [ye] must needs be subject, not only for wrath, but also for conscience sake.
 <small><sub>**BSB:**</sub></small>
 Therefore it is necessary to submit to authority, not only to avoid punishment, but also as a matter of conscience.
 <small><sub>**Literal:**</sub></small>
 Therefore necessary [it is] to be subject, not only on account of the wrath but also on account of the conscience.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.4|<< Romans 13:4]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.6|Romans 13:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | necessary [it is] |**<big>[[G0318\|ἀνάγκη]]</big>**  |anagkē <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

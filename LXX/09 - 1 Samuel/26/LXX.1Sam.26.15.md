@@ -1,10 +1,7 @@
 **LXX 1 Samuel 26:15** 
 <small><sub>**LXX:**</sub></small>
 And David said to Abner, you not a man? And who is as you in Israel? And why do you not guard  your master the king? For one of the people entered to destroy  your master the king. 
-<small><sub>**KJV:**</sub></small>
-And David said to Abner, [Art] not thou a [valiant] man? and who [is] like to thee in Israel? wherefore then hast thou not kept thy lord the king? for there came one of the people in to destroy the king thy lord.
-<small><sub>**BSB:**</sub></small>
-So David said to Abner, “You are a man, aren’t you? And who in Israel is your equal? Why then did you not protect your lord the king when one of the people came to destroy him?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.26.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.26.14|<< 1 Samuel 26:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.26.16|1 Samuel 26:16 >>]]</td></tr></table>
 
 | Translation | Greek |

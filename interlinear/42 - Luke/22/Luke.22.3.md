@@ -1,12 +1,12 @@
-**Luke 22:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 22:3**<big><big>[[Luke.22.3 Judas Agrees to Betray Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve.
 <small><sub>**BSB:**</sub></small>
 Then Satan entered Judas Iscariot, who was one of the Twelve.
 <small><sub>**Literal:**</sub></small>
 Entered then <the> Satan into Judas who is being called Iscariot being of the number of the Twelve.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.2|<< Luke 22:2]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.4|Luke 22:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Entered |**<big>[[G1525\|εἰσῆλθεν]]</big>**  |eisēlthen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

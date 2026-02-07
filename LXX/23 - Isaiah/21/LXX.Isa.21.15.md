@@ -1,10 +1,7 @@
 **LXX Isaiah 21:15** 
 <small><sub>**LXX:**</sub></small>
 because of the multitude of the ones being slain, and because of the multitude of the ones wandering, and because of the multitude of the swords, and because of the multitude of the bows of the ones being extended, and because of the multitude of the ones fallen in the battle. 
-<small><sub>**KJV:**</sub></small>
-For they fled from the swords, from the drawn sword, and from the bent bow, and from the grievousness of war.
-<small><sub>**BSB:**</sub></small>
-For they flee from the sword—the sword that is drawn—from the bow that is bent, and from the stress of battle.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.14|<< Isaiah 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.16|Isaiah 21:16 >>]]</td></tr></table>
 
 | Translation | Greek |

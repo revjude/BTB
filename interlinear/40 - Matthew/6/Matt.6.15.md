@@ -1,12 +1,12 @@
-**Matthew 6:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:15**<big><big>[[Matt.6.5 The Lord’s Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if ye forgive not men their trespasses, neither will your Father forgive your trespasses.
 <small><sub>**BSB:**</sub></small>
 But if you do not forgive men their trespasses, neither will your Father forgive yours.
 <small><sub>**Literal:**</sub></small>
 only however unless you shall forgive <the> men the trespasses of them neither the Father of you will forgive the trespasses of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.14|<< Matthew 6:14]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.16|Matthew 6:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

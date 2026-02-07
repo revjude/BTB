@@ -1,5 +1,5 @@
-**Matthew 19:26
-**<small><sub>**KJV:**</sub></small>
+**Matthew 19:26**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But Jesus beheld [them], and said unto them, With men this is impossible; but with God all things are possible.
 <small><sub>**BSB:**</sub></small>
 Jesus looked at them and said, “With man this is impossible, but with God all things are possible.”
@@ -10,7 +10,7 @@ Having looked on [them] now <the> Jesus said to them; With men this impossible i
 > $\quad$ alluding to: [[LXX.Jer.32.17|Jer 32:17]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having looked on [them] |**<big>[[G1689\|ἐμβλέψας]]</big>**  |emblepsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

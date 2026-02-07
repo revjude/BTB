@@ -1,12 +1,12 @@
-**Luke 12:8
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:8**<big><big>[[Luke.12.8 Confessing Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:
 <small><sub>**BSB:**</sub></small>
 I tell you, everyone who confesses Me before men, the Son of Man will also confess him before the angels of God.
 <small><sub>**Literal:**</sub></small>
 I say now to you; everyone who maybe may confess in Me myself before the men, also the Son <the> of Man will confess in him before the angels <the> of God;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.7|<< Luke 12:7]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.9|Luke 12:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I say |**<big>[[G3004G\|Λέγω]]</big>**  |Legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

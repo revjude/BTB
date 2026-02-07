@@ -1,4 +1,4 @@
-**1 Kings 16:31** 
+**1 Kings 16:31**<big><big>[[1Kgs.16.29 Ahab Reigns in Israel, Marries Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as if it had been a light thing for him to walk in the sins of Jeroboam the son of Nebat, that he took to wife Jezebel the daughter of Ethbaal king of the Zidonians, and went and served Baal, and worshipped him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And as if it were not enough for him to walk in the sins of Jeroboam son of Neba
 > $\quad$ referenced by: [[Rev.2.20|Rev 2:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ was it trifling  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H7043\|נָקֵ֣ל]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> na.Kel<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 26:41** 
+**Numbers 26:41**<big><big>[[Num.26.38 The Tribe of Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the sons of Benjamin after their families: and they that were numbered of them [were] forty and five thousand and six hundred.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the clans of Benjamin, and their registration numbered 45,600.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.40|<< Numbers 26:40]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.42|Numbers 26:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֥לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] descendants of  |**<big>&#8207;[[H1121G\|בְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

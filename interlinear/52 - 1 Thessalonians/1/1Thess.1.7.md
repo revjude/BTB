@@ -1,12 +1,12 @@
-**1 Thessalonians 1:7
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 1:7**<big><big>[[1Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So that ye were ensamples to all that believe in Macedonia and Achaia.
 <small><sub>**BSB:**</sub></small>
 As a result, you have become an example to all the believers in Macedonia and Achaia.
 <small><sub>**Literal:**</sub></small>
 so as for to became you an example to all the believing [ones] in <the> Macedonia and in <the> Achaia.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.6|<< 1 Thessalonians 1:6]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.8|1 Thessalonians 1:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so as for |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to became |**<big>[[G1096\|γενέσθαι]]</big>**  |genesthai <small><sup>[[V-2ADN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

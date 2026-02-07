@@ -1,12 +1,12 @@
-**Matthew 21:19
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:19**<big><big>[[Matt.21.18 The Barren Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, Let no fruit grow on thee henceforward for ever. And presently the fig tree withered away.
 <small><sub>**BSB:**</sub></small>
 Seeing a fig tree by the road, He went up to it but found nothing on it except leaves. “May you never bear fruit again!” He said. And immediately the tree withered.
 <small><sub>**Literal:**</sub></small>
 And having seen fig tree one along the road He came to it and no [thing] found on it only except leaves alone And He says to it; certainly no more from you fruit there may be to the age. And withered immediately the fig tree.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.18|<< Matthew 21:18]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.20|Matthew 21:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having seen |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

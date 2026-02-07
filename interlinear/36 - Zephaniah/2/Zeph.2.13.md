@@ -1,4 +1,4 @@
-**Zephaniah 2:13** 
+**Zephaniah 2:13**<big><big>[[Zeph.2.12 Judgment on Cush and Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he will stretch out his hand against the north, and destroy Assyria; and will make Nineveh a desolation, [and] dry like a wilderness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And He will stretch out His hand against the north and destroy Assyria; He will 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.12|<< Zephaniah 2:12]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.14|Zephaniah 2:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he may stretch out  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5186\|יֵ֤ט]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yet<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hand his  |**<big>&#8207;[[H3027G\|יָד]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

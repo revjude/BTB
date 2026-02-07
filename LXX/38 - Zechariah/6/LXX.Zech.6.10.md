@@ -1,10 +1,7 @@
 **LXX Zechariah 6:10** 
 <small><sub>**LXX:**</sub></small>
 Take the \[ones\] of the captivity from the rulers, and from  its profitable ones, and from the ones recognizing it! And you shall enter in  that day, into the house of Josiah the \[son of\] Zephaniah, the one having come from out of Babylon. 
-<small><sub>**KJV:**</sub></small>
-Take of [them of] the captivity, [even] of Heldai, of Tobijah, and of Jedaiah, which are come from Babylon, and come thou the same day, and go into the house of Josiah the son of Zephaniah;
-<small><sub>**BSB:**</sub></small>
-“Take an offering from the exiles—from Heldai, Tobijah, and Jedaiah, who have arrived from Babylon—and go that same day to the house of Josiah son of Zephaniah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.6.9|<< Zechariah 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.6.11|Zechariah 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

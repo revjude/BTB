@@ -1,4 +1,4 @@
-**Habakkuk 1:4** 
+**Habakkuk 1:4**<big><big>[[Hab.1.1 Habakkuk’s First Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore the law is paralyzed, and justice never goes forth. For the wicked hem
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.3|<< Habakkuk 1:3]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.5|Habakkuk 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there-  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | -fore  |**<big>&#8207;[[H3651C\|כֵּן֙]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

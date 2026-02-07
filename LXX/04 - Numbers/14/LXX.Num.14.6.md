@@ -1,10 +1,7 @@
 **LXX Numbers 14:6** 
 <small><sub>**LXX:**</sub></small>
 And Joshua the \[son of\] Nun, and Caleb the \[son of\] Jephunneh, of the ones surveying the land, tore  their cloaks. 
-<small><sub>**KJV:**</sub></small>
-And Joshua the son of Nun, and Caleb the son of Jephunneh, [which were] of them that searched the land, rent their clothes:
-<small><sub>**BSB:**</sub></small>
-Joshua son of Nun and Caleb son of Jephunneh, who were among those who had spied out the land, tore their clothes<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.14.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.14.5|<< Numbers 14:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.14.7|Numbers 14:7 >>]]</td></tr></table>
 
 | Translation | Greek |

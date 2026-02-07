@@ -1,10 +1,7 @@
 **LXX 1 Samuel 13:22** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the days of the war, that there was not found broadsword and spear in \[the\] hand of all the people, of the one with Saul and Jonathan. But it was found \[with\] Saul and  Jonathan his son. 
-<small><sub>**KJV:**</sub></small>
-So it came to pass in the day of battle, that there was neither sword nor spear found in the hand of any of the people that [were] with Saul and Jonathan: but with Saul and with Jonathan his son was there found.
-<small><sub>**BSB:**</sub></small>
-So on the day of battle not a sword or spear could be found in the hands of the troops with Saul and Jonathan; only Saul and his son Jonathan had weapons.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.13.21|<< 1 Samuel 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.13.23|1 Samuel 13:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:29** 
 <small><sub>**LXX:**</sub></small>
 I heard the insolence of Moab (he insulted exceedingly) and his insult and his pride; and his heart was raised up high. 
-<small><sub>**KJV:**</sub></small>
-We have heard the pride of Moab, (he is exceeding proud) his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart.
-<small><sub>**BSB:**</sub></small>
-We have heard of Moab’s pomposity, his exceeding pride and conceit, his proud arrogance and haughtiness of heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.28|<< Jeremiah 48:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.30|Jeremiah 48:30 >>]]</td></tr></table>
 
 | Translation | Greek |

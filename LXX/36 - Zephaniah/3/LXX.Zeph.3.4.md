@@ -1,10 +1,7 @@
 **LXX Zephaniah 3:4** 
 <small><sub>**LXX:**</sub></small>
  Her prophets \[are\] men carried by the wind -- despisers. Her priests profane the holy \[things\], and they are impious against the law. 
-<small><sub>**KJV:**</sub></small>
-Her prophets [are] light [and] treacherous persons: her priests have polluted the sanctuary, they have done violence to the law.
-<small><sub>**BSB:**</sub></small>
-Her prophets are reckless, faithless men. Her priests profane the sanctuary; they do violence to the law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.3|<< Zephaniah 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.5|Zephaniah 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

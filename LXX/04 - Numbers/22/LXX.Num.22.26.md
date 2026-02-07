@@ -1,10 +1,7 @@
 **LXX Numbers 22:26** 
 <small><sub>**LXX:**</sub></small>
 And the angel of God proceeded going forth. And he stood in a narrow place for which there was no turning aside right or left. 
-<small><sub>**KJV:**</sub></small>
-And the angel of the LORD went further, and stood in a narrow place, where [was] no way to turn either to the right hand or to the left.
-<small><sub>**BSB:**</sub></small>
-And the angel of the LORD moved on ahead and stood in a narrow place where there was no room to turn to the right or left.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.22.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.22.25|<< Numbers 22:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.27|Numbers 22:27 >>]]</td></tr></table>
 
 | Translation | Greek |

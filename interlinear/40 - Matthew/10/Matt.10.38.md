@@ -1,12 +1,12 @@
-**Matthew 10:38
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:38**<big><big>[[Matt.10.34 Not Peace but a Sword|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he that taketh not his cross, and followeth after me, is not worthy of me.
 <small><sub>**BSB:**</sub></small>
 and anyone who does not take up his cross and follow Me is not worthy of Me.
 <small><sub>**Literal:**</sub></small>
 And he who not takes the cross of him and follows after Me, not is of Me worthy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.37|<< Matthew 10:37]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.39|Matthew 10:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

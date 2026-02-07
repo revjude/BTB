@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 23:5** 
 <small><sub>**LXX:**</sub></small>
 and the third unto \[the\] house of the king; and the third unto the gate the one in the middle! And all the people \[will be\] in \[the\] courtyards of \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And a third part [shall be] at the king’s house; and a third part at the gate of the foundation: and all the people [shall be] in the courts of the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-a third shall be at the royal palace, and a third at the Foundation Gate, while all the others are to be in the courtyards of the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.4|<< 2 Chronicles 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.6|2 Chronicles 23:6 >>]]</td></tr></table>
 
 | Translation | Greek |

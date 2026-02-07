@@ -1,4 +1,4 @@
-**Proverbs 18:2** 
+**Proverbs 18:2**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A fool hath no delight in understanding, but that his heart may discover itself.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A fool does not delight in understanding, but only in airing his opinions.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.1|<< Proverbs 18:1]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.3|Proverbs 18:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he delights  |**<big>&#8207;[[H2654A\|יַחְפֹּ֣ץ]]&#8207; </big>**| yach.Potz<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 49:19** 
 <small><sub>**LXX:**</sub></small>
 For  your desolate places, and the \[places\] utterly destroyed, and the places having fallen down, that now they shall be confining because of the ones dwelling, and the ones swallowing you down will be far from you. 
-<small><sub>**KJV:**</sub></small>
-For thy waste and thy desolate places, and the land of thy destruction, shall even now be too narrow by reason of the inhabitants, and they that swallowed thee up shall be far away.
-<small><sub>**BSB:**</sub></small>
-For your ruined and desolate places and your ravaged land will now indeed be too small for your people, and those who devoured you will be far away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.49.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.49.18|<< Isaiah 49:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.49.20|Isaiah 49:20 >>]]</td></tr></table>
 
 | Translation | Greek |

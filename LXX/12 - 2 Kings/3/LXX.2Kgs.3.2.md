@@ -1,10 +1,7 @@
 **LXX 2 Kings 3:2** 
 <small><sub>**LXX:**</sub></small>
 And he did the wicked \[thing\] in \[the\] eyes of \[the\] <span class="smallcaps">lord</span>, only not as  his father and  his mother. And he removed the monuments  of Baal which his father made. 
-<small><sub>**KJV:**</sub></small>
-And he wrought evil in the sight of the LORD; but not like his father, and like his mother: for he put away the image of Baal that his father had made.
-<small><sub>**BSB:**</sub></small>
-And he did evil in the sight of the LORD, but not as his father and mother had done. He removed the sacred pillar of Baal that his father had made.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.3.1|<< 2 Kings 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.3.3|2 Kings 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

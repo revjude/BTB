@@ -1,10 +1,7 @@
 **LXX Genesis 22:9** 
 <small><sub>**LXX:**</sub></small>
 they came upon the place which God spoke to him. And Abraham built there the altar. And he placed upon \[it\] the wood. And Isaac his son hand and foot, he placed him upon the altar upon the wood. 
-<small><sub>**KJV:**</sub></small>
-And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood.
-<small><sub>**BSB:**</sub></small>
-When they arrived at the place God had designated, Abraham built the altar there and arranged the wood. He bound his son Isaac and placed him on the altar, atop the wood.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.22.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.22.8|<< Genesis 22:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.22.10|Genesis 22:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 22:9** is...

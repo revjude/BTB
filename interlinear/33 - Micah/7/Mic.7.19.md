@@ -1,4 +1,4 @@
-**Micah 7:19** 
+**Micah 7:19**<big><big>[[Mic.7.14 God’s Compassion on Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He will again have compassion on us; He will vanquish our iniquities. You will c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.18|<< Micah 7:18]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.20|Micah 7:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he will return  |**<big>&#8207;[[H7725J\|יָשׁ֣וּב]]&#8207; </big>**| ya.Shuv<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will have compassion on us  |**<big>&#8207;[[H7355\|יְרַֽחֲמֵ֔]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| ye.ra.cha.Me.<small><sup>[[HVpi3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

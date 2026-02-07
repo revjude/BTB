@@ -1,10 +1,7 @@
 **LXX 2 Samuel 24:25** 
 <small><sub>**LXX:**</sub></small>
 And David built there an altar to the <span class="smallcaps">lord</span>, and he offered whole burnt-offerings, and peace \[offerings\]. And \[the\] <span class="smallcaps">lord</span> heeded the land, and held up the devastation on top of Israel. 
-<small><sub>**KJV:**</sub></small>
-And David built there an altar unto the LORD, and offered burnt offerings and peace offerings. So the LORD was intreated for the land, and the plague was stayed from Israel.
-<small><sub>**BSB:**</sub></small>
-And there he built an altar to the LORD and offered burnt offerings and peace offerings. Then the LORD answered the prayers on behalf of the land, and the plague upon Israel was halted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.24.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.24|<< 2 Samuel 24:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.1|1 Kings 1:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Proverbs 9:12** 
+**Proverbs 9:12**<big><big>[[Prov.9.1 The Way of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou be wise, thou shalt be wise for thyself: but [if] thou scornest, thou alone shalt bear [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you are wise, you are wise to your own advantage; but if you scoff, you alone
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.11|<< Proverbs 9:11]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.13|Proverbs 9:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you are wise  |**<big>&#8207;[[H2449\|חָ֭כַמְתָּ]]&#8207; </big>**| Cha.kham.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

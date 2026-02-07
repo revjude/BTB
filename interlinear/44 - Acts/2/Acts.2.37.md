@@ -1,12 +1,12 @@
-**Acts 2:37
-**<small><sub>**KJV:**</sub></small>
+**Acts 2:37**<big><big>[[Acts.2.37 Three Thousand Believe|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now when they heard [this], they were pricked in their heart, and said unto Peter and to the rest of the apostles, Men [and] brethren, what shall we do?
 <small><sub>**BSB:**</sub></small>
 When the people heard this, they were cut to the heart and asked Peter and the other apostles, “Brothers, what shall we do?”
 <small><sub>**Literal:**</sub></small>
 Having heard then they were pierced to the heart, they said then to <the> Peter and the other apostles; What shall we do, men brothers?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.36|<< Acts 2:36]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.38|Acts 2:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|Ἀκούσαντες]]</big>**  |Akousantes <small><sup>[[V-AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

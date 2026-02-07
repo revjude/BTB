@@ -1,4 +1,4 @@
-**Leviticus 24:4** 
+**Leviticus 24:4**<big><big>[[Lev.24.1 The Oil for the Lamps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall order the lamps upon the pure candlestick before the LORD continually.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He shall tend the lamps on the pure gold lampstand before the LORD continually.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.3|<< Leviticus 24:3]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.5|Leviticus 24:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַ֚ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the lampstand  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4501\|מְּנֹרָ֣ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.no.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

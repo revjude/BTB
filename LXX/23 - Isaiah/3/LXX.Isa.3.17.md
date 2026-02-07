@@ -1,10 +1,7 @@
 **LXX Isaiah 3:17** 
 <small><sub>**LXX:**</sub></small>
 therefore \[the\] <span class="smallcaps">lord</span> will abase \[the\] ruling daughters of Zion; and \[the\] <span class="smallcaps">lord</span> will uncover  their condition. 
-<small><sub>**KJV:**</sub></small>
-Therefore the Lord will smite with a scab the crown of the head of the daughters of Zion, and the LORD will discover their secret parts.
-<small><sub>**BSB:**</sub></small>
-the Lord will bring sores on the heads of the daughters of Zion, and the LORD will make their foreheads bare.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.3.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.16|<< Isaiah 3:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.18|Isaiah 3:18 >>]]</td></tr></table>
 
 | Translation | Greek |

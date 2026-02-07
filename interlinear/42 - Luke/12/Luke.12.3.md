@@ -1,12 +1,12 @@
-**Luke 12:3
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:3**<big><big>[[Luke.12.1 The Leaven of the Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops.
 <small><sub>**BSB:**</sub></small>
 What you have spoken in the dark will be heard in the daylight, and what you have whispered in the inner rooms will be proclaimed from the housetops.
 <small><sub>**Literal:**</sub></small>
 Instead that as much as in the darkness you have said in the light will be heard, and what into the ear you have spoken in the inner rooms will be proclaimed upon the housetops.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.2|<< Luke 12:2]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.4|Luke 12:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Instead |**<big>[[G0473\|ἀνθ᾽]]</big>**  |anth᾽ <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3739\|ὧν]]</big>**  |hōn <small><sup>[[R-GPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

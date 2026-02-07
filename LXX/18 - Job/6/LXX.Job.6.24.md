@@ -1,10 +1,7 @@
 **LXX Job 6:24** 
 <small><sub>**LXX:**</sub></small>
 Teach me, and I will be silent! If in anything I have wandered, expound to me! 
-<small><sub>**KJV:**</sub></small>
-Teach me, and I will hold my tongue: and cause me to understand wherein I have erred.
-<small><sub>**BSB:**</sub></small>
-Teach me, and I will be silent. Help me understand how I have erred.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.6.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.23|<< Job 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.25|Job 6:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:19** 
 <small><sub>**LXX:**</sub></small>
 even  Pharaoh king of Egypt, and  his children, and  his great men, and all  his people, 
-<small><sub>**KJV:**</sub></small>
-Pharaoh king of Egypt, and his servants, and his princes, and all his people;
-<small><sub>**BSB:**</sub></small>
-Pharaoh king of Egypt, his officials, his leaders, and all his people;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.18|<< Jeremiah 25:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.20|Jeremiah 25:20 >>]]</td></tr></table>
 
 | Translation | Greek |

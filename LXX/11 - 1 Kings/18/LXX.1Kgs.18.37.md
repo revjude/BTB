@@ -1,10 +1,7 @@
 **LXX 1 Kings 18:37** 
 <small><sub>**LXX:**</sub></small>
 Heed me, O <span class="smallcaps">lord</span>, heed me! And this people know that you \[are\] \[the\] <span class="smallcaps">lord</span>  God! and you turned the heart  of this people back. 
-<small><sub>**KJV:**</sub></small>
-Hear me, O LORD, hear me, that this people may know that thou [art] the LORD God, and [that] thou hast turned their heart back again.
-<small><sub>**BSB:**</sub></small>
-Answer me, O LORD! Answer me, so that this people will know that You, the LORD, are God, and that You have turned their hearts back again.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.18.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.18.36|<< 1 Kings 18:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.18.38|1 Kings 18:38 >>]]</td></tr></table>
 
 | Translation | Greek |

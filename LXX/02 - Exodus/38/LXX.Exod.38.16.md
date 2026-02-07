@@ -1,10 +1,7 @@
 **LXX Exodus 38:16** 
 <small><sub>**LXX:**</sub></small>
 All the curtains for the tent \[were\] of linen being twined. 
-<small><sub>**KJV:**</sub></small>
-All the hangings of the court round about [were] of fine twined linen.
-<small><sub>**BSB:**</sub></small>
-All the curtains around the courtyard were made of finely spun linen.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.38.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.38.15|<< Exodus 38:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.38.17|Exodus 38:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 28:13** 
+**Ezekiel 28:13**<big><big>[[Ezek.28.11 A Lament for the King of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast been in Eden the garden of God; every precious stone [was] thy covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of thy tabrets and of thy pipes was prepared in thee in the day that thou wast created.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You were in Eden, the garden of God. Every kind of precious stone adorned you: r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.12|<< Ezekiel 28:12]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.14|Ezekiel 28:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in Eden  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5731B\|עֵ֨דֶן]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.den<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] garden of  |**<big>&#8207;[[H1588M\|גַּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gan-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 11:12
-**<small><sub>**KJV:**</sub></small>
+**Mark 11:12**<big><big>[[Mark.11.12 Jesus Curses the Fig Tree|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And on the morrow, when they were come from Bethany, he was hungry:
 <small><sub>**BSB:**</sub></small>
 The next day, when they had left Bethany, Jesus was hungry.
 <small><sub>**Literal:**</sub></small>
 And on the next day when were exiting they from Bethany He was hungry.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.11|<< Mark 11:11]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.13|Mark 11:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | on the |**<big>[[G3588\|τῇ]]</big>**  |tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 29:32** 
 <small><sub>**LXX:**</sub></small>
 And Leah conceived and bore a son  to Jacob. And she called  his name, Reuben, saying, Because \[the\] <span class="smallcaps">lord</span> saw my the humiliation, and he gave to me a son; now then my husband will love me. 
-<small><sub>**KJV:**</sub></small>
-And Leah conceived, and bare a son, and she called his name Reuben: for she said, Surely the LORD hath looked upon my affliction; now therefore my husband will love me.
-<small><sub>**BSB:**</sub></small>
-And Leah conceived and gave birth to a son, and she named him Reuben, for she said, “The LORD has seen my affliction. Surely my husband will love me now.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.29.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.29.31|<< Genesis 29:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.29.33|Genesis 29:33 >>]]</td></tr></table>
 
 | Translation | Greek |

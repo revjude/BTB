@@ -1,12 +1,12 @@
-**John 20:21
-**<small><sub>**KJV:**</sub></small>
+**John 20:21**<big><big>[[John.20.19 Jesus Appears to the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then said Jesus to them again, Peace [be] unto you: as [my] Father hath sent me, even so send I you.
 <small><sub>**BSB:**</sub></small>
 Again Jesus said to them, “Peace be with you. As the Father has sent Me, so also I am sending you.”
 <small><sub>**Literal:**</sub></small>
 Said therefore to them <the> Jesus again; Peace to you; even as has has sent forth me the Father I myself also send you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.20|<< John 20:20]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.22|John 20:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

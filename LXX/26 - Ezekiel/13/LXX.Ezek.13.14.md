@@ -1,10 +1,7 @@
 **LXX Ezekiel 13:14** 
 <small><sub>**LXX:**</sub></small>
 And I will raze the wall which you plastered, and it shall fall. And I will put it upon the ground, and its foundations shall be uncovered, and it shall fall. And you shall be exhausted with reproofs; and you shall realize that I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-So will I break down the wall that ye have daubed with untempered [morter], and bring it down to the ground, so that the foundation thereof shall be discovered, and it shall fall, and ye shall be consumed in the midst thereof: and ye shall know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-I will tear down the wall you whitewashed and level it to the ground, so that its foundation is exposed. The city will fall, and you will be destroyed within it. Then you will know that I am the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.13|<< Ezekiel 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.15|Ezekiel 13:15 >>]]</td></tr></table>
 
 | Translation | Greek |

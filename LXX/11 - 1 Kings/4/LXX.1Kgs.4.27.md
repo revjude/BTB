@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:27** 
 <small><sub>**LXX:**</sub></small>
 And the ones being placed \[in charge\] conducted thus \[to\] king Solomon, and all the declarations upon the table of the king, each \[one in charge\]  of his month -- they did not alter a word. 
-<small><sub>**KJV:**</sub></small>
-And those officers provided victual for king Solomon, and for all that came unto king Solomon’s table, every man in his month: they lacked nothing.
-<small><sub>**BSB:**</sub></small>
-Each month the governors in turn provided food for King Solomon and all who came to his table. They saw to it that nothing was lacking.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.26|<< 1 Kings 4:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.28|1 Kings 4:28 >>]]</td></tr></table>
 
 | Translation | Greek |

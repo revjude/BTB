@@ -1,4 +1,4 @@
-**Exodus 22:3** (22:2)
+**Exodus 22:3**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If the sun be risen upon him, [there shall be] blood [shed] for him; [for] he should make full restitution; if he have nothing, then he shall be sold for his theft.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But if it happens after sunrise, there is guilt for his bloodshed. A thief must 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.2|<< Exodus 22:2]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.4|Exodus 22:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has risen  |**<big>&#8207;[[H2224\|זָרְחָ֥ה]]&#8207; </big>**| za.re.Chah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

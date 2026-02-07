@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 33:12** 
 <small><sub>**LXX:**</sub></small>
 And as he was afflicted, he sought the face of \[the\] <span class="smallcaps">lord</span>  his God, and was humbled exceedingly from in front of the God of his fathers. 
-<small><sub>**KJV:**</sub></small>
-And when he was in affliction, he besought the LORD his God, and humbled himself greatly before the God of his fathers,
-<small><sub>**BSB:**</sub></small>
-And in his distress, Manasseh sought the favor of the LORD his God and earnestly humbled himself before the God of his fathers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.33.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.33.11|<< 2 Chronicles 33:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.33.13|2 Chronicles 33:13 >>]]</td></tr></table>
 
 | Translation | Greek |

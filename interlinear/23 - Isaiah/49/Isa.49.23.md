@@ -1,4 +1,4 @@
-**Isaiah 49:23** 
+**Isaiah 49:23**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with [their] face toward the earth, and lick up the dust of thy feet; and thou shalt know that I [am] the LORD: for they shall not be ashamed that wait for me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Kings will be your foster fathers, and their queens your nursing mothers. They w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.22|<< Isaiah 49:22]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.24|Isaiah 49:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָי֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | kings  |**<big>&#8207;[[H4428G\|מְלָכִ֜ים]]&#8207; </big>**| me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

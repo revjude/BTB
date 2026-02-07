@@ -1,12 +1,12 @@
-**John 4:53
-**<small><sub>**KJV:**</sub></small>
+**John 4:53**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So the father knew that [it was] at the same hour, in the which Jesus said unto him, Thy son liveth: and himself believed, and his whole house.
 <small><sub>**BSB:**</sub></small>
 Then the father realized that this was the very hour in which Jesus had told him, “Your son will live.” And he and all his household believed.
 <small><sub>**Literal:**</sub></small>
 Knew therefore the father that [it was] in that [very] <the> hour at which said to him <the> Jesus that: The son of You lives. And he believed himself and the household of him all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.52|<< John 4:52]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.54|John 4:54 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Knew |**<big>[[G1097\|Ἔγνω]]</big>**  |Egnō <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

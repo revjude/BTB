@@ -1,4 +1,4 @@
-**Deuteronomy 19:12** 
+**Deuteronomy 19:12**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the elders of his city must send for him, bring him back, and hand him over to t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.11|<< Deuteronomy 19:11]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.13|Deuteronomy 19:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will send  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7971G\|שָֽׁלְחוּ֙]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.le.Chu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] elders of  |**<big>&#8207;[[H2205G\|זִקְנֵ֣י]]&#8207; </big>**| zik.Nei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

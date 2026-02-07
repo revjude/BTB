@@ -1,10 +1,7 @@
 **LXX Exodus 9:16** 
 <small><sub>**LXX:**</sub></small>
 And because of this you were carefully kept, that I might demonstrate in you  my strength, and how my name should be declared in all the earth. 
-<small><sub>**KJV:**</sub></small>
-And in very deed for this [cause] have I raised thee up, for to shew [in] thee my power; and that my name may be declared throughout all the earth.
-<small><sub>**BSB:**</sub></small>
-But I have raised you up for this very purpose, that I might display My power to you, and that My name might be proclaimed in all the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.15|<< Exodus 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.17|Exodus 9:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 9:16** is...

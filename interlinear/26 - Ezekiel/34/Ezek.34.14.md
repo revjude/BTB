@@ -1,4 +1,4 @@
-**Ezekiel 34:14** 
+**Ezekiel 34:14**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will feed them in a good pasture, and upon the high mountains of Israel shall their fold be: there shall they lie in a good fold, and [in] a fat pasture shall they feed upon the mountains of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will feed them in good pasture, and the lofty mountains of Israel will be thei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.13|<< Ezekiel 34:13]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.15|Ezekiel 34:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in pasture  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4829\|מִרְעֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mir.'eh-<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | good  |**<big>&#8207;[[H2896A\|טּוֹב֙]]&#8207; </big>**| tOv<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

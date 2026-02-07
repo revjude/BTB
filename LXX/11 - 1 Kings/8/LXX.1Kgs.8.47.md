@@ -1,10 +1,7 @@
 **LXX 1 Kings 8:47** 
 <small><sub>**LXX:**</sub></small>
 and they shall turn  their hearts in the land which they were led away there, and they shall turn and beseech you in the land  of their displacement, saying, We sinned, we acted lawlessly, we did wrong; 
-<small><sub>**KJV:**</sub></small>
-[Yet] if they shall bethink themselves in the land whither they were carried captives, and repent, and make supplication unto thee in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;
-<small><sub>**BSB:**</sub></small>
-and when they come to their senses in the land to which they were taken, and they repent and plead with You in the land of their captors, saying, ‘We have sinned and done wrong; we have acted wickedly,’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.8.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.8.46|<< 1 Kings 8:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.8.48|1 Kings 8:48 >>]]</td></tr></table>
 
 | Translation | Greek |

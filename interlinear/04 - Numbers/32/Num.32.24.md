@@ -1,4 +1,4 @@
-**Numbers 32:24** 
+**Numbers 32:24**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Build cities for your little ones and folds for your flocks, but do what you hav
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.23|<< Numbers 32:23]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.25|Numbers 32:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | build  |**<big>&#8207;[[H1129\|בְּנֽוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nu-<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> yourselves  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֤ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

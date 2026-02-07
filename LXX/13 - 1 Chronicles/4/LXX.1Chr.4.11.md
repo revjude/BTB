@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 4:11** 
 <small><sub>**LXX:**</sub></small>
 And Chelub  brother of Shuah engendered  Mehir, this one \[was\] father of Eshton. 
-<small><sub>**KJV:**</sub></small>
-And Chelub the brother of Shuah begat Mehir, which [was] the father of Eshton.
-<small><sub>**BSB:**</sub></small>
-Chelub the brother of Shuhah was the father of Mehir, who was the father of Eshton.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.4.10|<< 1 Chronicles 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.4.12|1 Chronicles 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

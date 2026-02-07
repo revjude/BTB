@@ -1,12 +1,12 @@
-**1 Timothy 3:2
-**<small><sub>**KJV:**</sub></small>
+**1 Timothy 3:2**<big><big>[[1Tim.3.1 Qualifications for Overseers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;
 <small><sub>**BSB:**</sub></small>
 An overseer, then, must be above reproach, the husband of but one wife, temperate, self-controlled, respectable, hospitable, able to teach,
 <small><sub>**Literal:**</sub></small>
 It behooves therefore the overseer above reproach to be, of one wife [the] husband, sober, self-controlled, respectable, hospitable, able to teach,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.1|<< 1 Timothy 3:1]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.3|1 Timothy 3:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | It behooves |**<big>[[G1163\|δεῖ]]</big>**  |dei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 2:21** 
 <small><sub>**LXX:**</sub></small>
 For there is a man that \[made\] his effort in wisdom, and in knowledge, and in courage; and a man in whom did not make an effort -- in him he will give to him his portion. And indeed this \[is\] folly and great wickedness 
-<small><sub>**KJV:**</sub></small>
-For there is a man whose labour [is] in wisdom, and in knowledge, and in equity; yet to a man that hath not laboured therein shall he leave it [for] his portion. This also [is] vanity and a great evil.
-<small><sub>**BSB:**</sub></small>
-When there is a man who has labored with wisdom, knowledge, and skill, and he must give his portion to a man who has not worked for it, this too is futile and a great evil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.2.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.2.20|<< Ecclesiastes 2:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.2.22|Ecclesiastes 2:22 >>]]</td></tr></table>
 
 | Translation | Greek |

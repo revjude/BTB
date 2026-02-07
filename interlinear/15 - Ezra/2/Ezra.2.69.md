@@ -1,4 +1,4 @@
-**Ezra 2:69** 
+**Ezra 2:69**<big><big>[[Ezra.2.68 Offerings by the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They gave after their ability unto the treasure of the work threescore and one thousand drams of gold, and five thousand pound of silver, and one hundred priests’ garments.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ According to their ability, they gave to the treasury for this work 61,000 daric
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.69|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.68|<< Ezra 2:68]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.70|Ezra 2:70 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | according to ability their  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3581B\|כֹחָ֗]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> kho.Cha<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they gave  |**<big>&#8207;[[H5414G\|נָתְנוּ֮]]&#8207; </big>**| na.te.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

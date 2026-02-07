@@ -1,10 +1,7 @@
 **LXX Exodus 23:23** 
 <small><sub>**LXX:**</sub></small>
 For my messenger shall go leading you; and he will bring you to the Amorite, and Hittite, and Perizzite, and Canaanite, and Gergesite, and Hivite, and Jebusite; and I will obliterate them. 
-<small><sub>**KJV:**</sub></small>
-For mine Angel shall go before thee, and bring thee in unto the Amorites, and the Hittites, and the Perizzites, and the Canaanites, [and] the Hivites, and the Jebusites: and I will cut them off.
-<small><sub>**BSB:**</sub></small>
-For My angel will go before you and bring you into the land of the Amorites, Hittites, Perizzites, Canaanites, Hivites, and Jebusites, and I will annihilate them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.22|<< Exodus 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.24|Exodus 23:24 >>]]</td></tr></table>
 
 | Translation | Greek |

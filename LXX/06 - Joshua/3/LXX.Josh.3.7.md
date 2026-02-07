@@ -1,10 +1,7 @@
 **LXX Joshua 3:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Joshua, On  this day I begin  to raise you up high in front of all \[the\] sons of Israel, that they should know in so far as I was with Moses, so shall I also be with you. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Joshua, This day will I begin to magnify thee in the sight of all Israel, that they may know that, as I was with Moses, [so] I will be with thee.
-<small><sub>**BSB:**</sub></small>
-Now the LORD said to Joshua, “Today I will begin to exalt you in the sight of all Israel, so they may know that I am with you just as I was with Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.6|<< Joshua 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.8|Joshua 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

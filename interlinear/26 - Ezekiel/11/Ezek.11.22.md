@@ -1,4 +1,4 @@
-**Ezekiel 11:22** 
+**Ezekiel 11:22**<big><big>[[Ezek.11.22 God’s Glory Leaves Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then did the cherubims lift up their wings, and the wheels beside them; and the glory of the God of Israel [was] over them above.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then the cherubim, with the wheels beside them, spread their wings, and the glor
 > $\quad$ referenced by: [[Rev.4.5|Rev 4:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they lifted up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5375G\|יִּשְׂא֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.'U<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cherubim  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3742\|כְּרוּבִים֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.ru.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

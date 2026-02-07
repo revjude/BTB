@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:34** 
 <small><sub>**LXX:**</sub></small>
 And he said to him, The cities which my father took from  your father, I give back to you. And you shall establish streets in Damascus for yourself, as my father established in Samaria. And I by covenant shall send you out. And he ordained with him a covenant, and sent him out. 
-<small><sub>**KJV:**</sub></small>
-And [Benhadad] said unto him, The cities, which my father took from thy father, I will restore; and thou shalt make streets for thee in Damascus, as my father made in Samaria. Then [said Ahab], I will send thee away with this covenant. So he made a covenant with him, and sent him away.
-<small><sub>**BSB:**</sub></small>
-Ben-hadad said to him, “I will restore the cities my father took from your father; you may set up your own marketplaces in Damascus, as my father did in Samaria.” “By this treaty I release you,” Ahab replied. So he made a treaty with him and sent him away.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.33|<< 1 Kings 20:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.35|1 Kings 20:35 >>]]</td></tr></table>
 
 | Translation | Greek |

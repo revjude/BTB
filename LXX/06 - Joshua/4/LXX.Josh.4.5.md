@@ -1,10 +1,7 @@
 **LXX Joshua 4:5** 
 <small><sub>**LXX:**</sub></small>
 Joshua said to them, Lead forward before \[the\] presence of \[the\] <span class="smallcaps">lord</span>  your God into \[the\] midst of the Jordan! And by taking up, lift away from there each one stone upon  his shoulders, according to the number of the tribes  of Israel! 
-<small><sub>**KJV:**</sub></small>
-And Joshua said unto them, Pass over before the ark of the LORD your God into the midst of Jordan, and take ye up every man of you a stone upon his shoulder, according unto the number of the tribes of the children of Israel:
-<small><sub>**BSB:**</sub></small>
-and said to them, “Cross over before the ark of the LORD your God into the middle of the Jordan. Each of you is to take a stone upon his shoulder, according to the number of the tribes of Israel,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.4.4|<< Joshua 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.4.6|Joshua 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

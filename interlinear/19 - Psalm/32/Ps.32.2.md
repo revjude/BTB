@@ -1,4 +1,4 @@
-**Psalms 32:2** 
+**Psalms 32:2**<big><big>[[Ps.32.1 The Joy of Forgiveness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [is] the man unto whom the LORD imputeth not iniquity, and in whose spirit [there is] no guile.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Blessed is the man whose iniquity the LORD does not count against him, in whose 
 > $\quad$ referenced by: [[Rom.4.7|Rom 4:7-8]] ☩ [[Rev.14.5|Rev 14:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed!  |**<big>&#8207;[[H0835\|אַ֥שְֽׁרֵי]]&#8207; </big>**| 'Ash.rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] a person  |**<big>&#8207;[[H0120G\|אָדָ֗ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

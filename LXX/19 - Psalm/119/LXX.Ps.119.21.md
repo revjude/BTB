@@ -1,10 +1,7 @@
 **LXX Psalm 119:21** 
 <small><sub>**LXX:**</sub></small>
 You reproached \[the\] proud; accursed \[are\] the ones turning aside from  your commandments. 
-<small><sub>**KJV:**</sub></small>
-Thou hast rebuked the proud [that are] cursed, which do err from thy commandments.
-<small><sub>**BSB:**</sub></small>
-You rebuke the arrogant—the cursed who stray from Your commandments.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.20|<< Psalm 119:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.22|Psalm 119:22 >>]]</td></tr></table>
 
 | Translation | Greek |

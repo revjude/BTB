@@ -1,12 +1,12 @@
-**Romans 12:6
-**<small><sub>**KJV:**</sub></small>
+**Romans 12:6**<big><big>[[Rom.12.1 Living Sacrifices|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Having then gifts differing according to the grace that is given to us, whether prophecy, [let us prophesy] according to the proportion of faith;
 <small><sub>**BSB:**</sub></small>
 We have different gifts according to the grace given us. If one’s gift is prophecy, let him use it in proportion to his faith;
 <small><sub>**Literal:**</sub></small>
 We are having however gifts according to the grace which having been given to us different, if prophecy according to the proportion of the faith,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.5|<< Romans 12:5]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.7|Romans 12:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We are having |**<big>[[G2192\|Ἔχοντες]]</big>**  |Echontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

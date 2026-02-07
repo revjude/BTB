@@ -1,4 +1,4 @@
-**Genesis 32:20** (32:21)
+**Genesis 32:20**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say ye moreover, Behold, thy servant Jacob [is] behind us. For he said, I will appease him with the present that goeth before me, and afterward I will see his face; peradventure he will accept of me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are also to say, ‘Look, your servant Jacob is right behind us.’” For h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.19|<< Genesis 32:19]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.21|Genesis 32:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will say  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|אֲמַרְתֶּ֕ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H1571\|גַּ֗ם]]&#8207; </big>**| Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

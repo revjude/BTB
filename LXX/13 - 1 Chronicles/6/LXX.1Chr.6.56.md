@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:56** 
 <small><sub>**LXX:**</sub></small>
 But the field of the city, and  her properties they gave  to Caleb son of Jephunneh. 
-<small><sub>**KJV:**</sub></small>
-But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh.
-<small><sub>**BSB:**</sub></small>
-But the fields and villages around the city were given to Caleb son of Jephunneh.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.55|<< 1 Chronicles 6:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.57|1 Chronicles 6:57 >>]]</td></tr></table>
 
 | Translation | Greek |

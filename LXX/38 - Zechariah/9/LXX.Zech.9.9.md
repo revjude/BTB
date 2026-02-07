@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Rejoice exceedingly, O daughter of Zion! Proclaim, O daughter of Jerusalem! Behold,  your king comes to you, righteous and delivering. He \[is\] gentle and mounted upon a beast of burden, even a young foal. 
-<small><sub>**KJV:**</sub></small>
-Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he [is] just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
-<small><sub>**BSB:**</sub></small>
-Rejoice greatly, O Daughter of Zion! Shout in triumph, O Daughter of Jerusalem! See, your King comes to you, righteous and victorious, humble and riding on a donkey, on a colt, the foal of a donkey.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.9.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.9.8|<< Zechariah 9:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.10|Zechariah 9:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zechariah 9:9** is...

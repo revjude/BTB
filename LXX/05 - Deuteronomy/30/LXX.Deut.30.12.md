@@ -1,10 +1,7 @@
 **LXX Deuteronomy 30:12** 
 <small><sub>**LXX:**</sub></small>
 It is not in the heaven, saying, Who shall ascend of us into the heaven, and shall take it to us, and hearing it we will do it? 
-<small><sub>**KJV:**</sub></small>
-It [is] not in heaven, that thou shouldest say, Who shall go up for us to heaven, and bring it unto us, that we may hear it, and do it?
-<small><sub>**BSB:**</sub></small>
-It is not in heaven, that you should need to ask, ‘Who will ascend into heaven to get it for us and proclaim it, that we may obey it?’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.30.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.11|<< Deuteronomy 30:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.13|Deuteronomy 30:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Deuteronomy 30:12** is...

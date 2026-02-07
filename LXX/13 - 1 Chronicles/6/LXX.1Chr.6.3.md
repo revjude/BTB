@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:3** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Amram -- Aaron, and Moses, also Miriam. And \[the\] sons of Aaron -- Nadab, and Abihu, Eleazar, and Ithamar. 
-<small><sub>**KJV:**</sub></small>
-And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.
-<small><sub>**BSB:**</sub></small>
-The children of Amram: Aaron, Moses, and Miriam. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.2|<< 1 Chronicles 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.4|1 Chronicles 6:4 >>]]</td></tr></table>
 
 | Translation | Greek |

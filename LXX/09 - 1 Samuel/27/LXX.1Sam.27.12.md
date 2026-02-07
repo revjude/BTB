@@ -1,10 +1,7 @@
 **LXX 1 Samuel 27:12** 
 <small><sub>**LXX:**</sub></small>
 And David was trusted by  Achish, saying, With shame he is being shamed by  his people in  Israel, and he will be my a servant into the eon. 
-<small><sub>**KJV:**</sub></small>
-And Achish believed David, saying, He hath made his people Israel utterly to abhor him; therefore he shall be my servant for ever.
-<small><sub>**BSB:**</sub></small>
-So Achish trusted David, thinking, “Since he has made himself an utter stench to his people Israel, he will be my servant forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.27.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.11|<< 1 Samuel 27:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.28.1|1 Samuel 28:1 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**1 Corinthians 15:4
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 15:4**<big><big>[[1Cor.15.1 The Resurrection of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And that he was buried, and that he rose again the third day according to the scriptures:
 <small><sub>**BSB:**</sub></small>
 that He was buried, that He was raised on the third day according to the Scriptures,
@@ -10,7 +10,7 @@ and that He was buried and that He has been raised on the day the third accordin
 > $\quad$ alluding to: [[LXX.Ps.16.10|Ps 16:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

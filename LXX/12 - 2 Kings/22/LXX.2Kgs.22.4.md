@@ -1,10 +1,7 @@
 **LXX 2 Kings 22:4** 
 <small><sub>**LXX:**</sub></small>
 Ascend to Hilkiah the great priest, and set a seal upon the money! the \[money\] being carried into the house of \[the\] <span class="smallcaps">lord</span>, which the ones guarding the money gathered together from the people. 
-<small><sub>**KJV:**</sub></small>
-Go up to Hilkiah the high priest, that he may sum the silver which is brought into the house of the LORD, which the keepers of the door have gathered of the people:
-<small><sub>**BSB:**</sub></small>
-“Go up to Hilkiah the high priest and have him count the money that has been brought into the house of the LORD, which the doorkeepers have collected from the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.22.3|<< 2 Kings 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.22.5|2 Kings 22:5 >>]]</td></tr></table>
 
 | Translation | Greek |

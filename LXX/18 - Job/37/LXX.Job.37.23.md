@@ -1,10 +1,7 @@
 **LXX Job 37:23** 
 <small><sub>**LXX:**</sub></small>
 and we do not find another likened \[to\] his strength. The one  judging justly, do you not imagine that he listens? 
-<small><sub>**KJV:**</sub></small>
-[Touching] the Almighty, we cannot find him out: [he is] excellent in power, and in judgment, and in plenty of justice: he will not afflict.
-<small><sub>**BSB:**</sub></small>
-The Almighty is beyond our reach; He is exalted in power! In His justice and great righteousness He does not oppress.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.37.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.22|<< Job 37:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.24|Job 37:24 >>]]</td></tr></table>
 
 | Translation | Greek |

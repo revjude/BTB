@@ -1,10 +1,7 @@
 **LXX Ezekiel 43:3** 
 <small><sub>**LXX:**</sub></small>
 And the vision which I beheld \[was\] according to the vision which I beheld when I entered  to anoint the city; and the vision of the chariot which I beheld \[was\] according to the vision which I beheld upon the river  Chebar, and I fell upon my face. 
-<small><sub>**KJV:**</sub></small>
-And [it was] according to the appearance of the vision which I saw, [even] according to the vision that I saw when I came to destroy the city: and the visions [were] like the vision that I saw by the river Chebar; and I fell upon my face.
-<small><sub>**BSB:**</sub></small>
-The vision I saw was like the vision I had seen when He came to destroy the city and like the visions I had seen by the River Kebar. I fell facedown,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.43.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.43.2|<< Ezekiel 43:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.43.4|Ezekiel 43:4 >>]]</td></tr></table>
 
 | Translation | Greek |

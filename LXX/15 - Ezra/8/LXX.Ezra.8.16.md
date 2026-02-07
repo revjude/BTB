@@ -1,10 +1,7 @@
 **LXX Ezra 8:16** 
 <small><sub>**LXX:**</sub></small>
 And I sent \[to\] Eleazar, \[to\] Ariel, \[to\] Shemaiah, and \[to\] Elnathan, and \[to\] Jarib \[to\] Elnatham, \[to\] Nathan, \[to\] Zechariah, \[to\] Meshullam, rulers; \[to\] Joiarib, and \[to\] Elnathan, ones perceiving. 
-<small><sub>**KJV:**</sub></small>
-Then sent I for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, chief men; also for Joiarib, and for Elnathan, men of understanding.
-<small><sub>**BSB:**</sub></small>
-Then I summoned the leaders: Eliezer, Ariel, Shemaiah, Elnathan, Jarib, Elnathan, Nathan, Zechariah, and Meshullam, as well as the teachers Joiarib and Elnathan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.15|<< Ezra 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.17|Ezra 8:17 >>]]</td></tr></table>
 
 | Translation | Greek |

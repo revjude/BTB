@@ -1,12 +1,12 @@
-**Revelation 8:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 8:1**<big><big>[[Rev.8.1 The Seventh Seal|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.
 <small><sub>**BSB:**</sub></small>
 When the Lamb opened the seventh seal, there was silence in heaven for about half an hour.
 <small><sub>**Literal:**</sub></small>
 And when He opened the seal <the> seventh, there was silence in <the> heaven for about half an hour.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.17|<< Revelation 7:17]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.2|Revelation 8:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when [^1] |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |

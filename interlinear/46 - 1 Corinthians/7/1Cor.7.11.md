@@ -1,12 +1,12 @@
-**1 Corinthians 7:11
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:11**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But and if she depart, let her remain unmarried, or be reconciled to [her] husband: and let not the husband put away [his] wife.
 <small><sub>**BSB:**</sub></small>
 But if she does, she must remain unmarried or else be reconciled to her husband. And a husband must not divorce his wife.
 <small><sub>**Literal:**</sub></small>
 if however indeed she shall be separated, she should remain unmarried or to the husband she should be reconciled; and a husband a wife not is to send away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.10|<< 1 Corinthians 7:10]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.12|1 Corinthians 7:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if |**<big>[[G1437\|ἐὰν]]</big>**  |ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

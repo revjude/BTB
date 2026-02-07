@@ -1,10 +1,7 @@
 **LXX Jeremiah 41:5** 
 <small><sub>**LXX:**</sub></small>
 And there came men of Shechem from Shiloh, and from Samaria -- eighty men, being shaven of beards, and the garments being torn, and beating their chests, and gifts and frankincense \[was\] in  their hands  to carry into \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-That there came certain from Shechem, from Shiloh, and from Samaria, [even] fourscore men, having their beards shaven, and their clothes rent, and having cut themselves, with offerings and incense in their hand, to bring [them] to the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-eighty men who had shaved off their beards, torn their garments, and cut themselves came from Shechem, Shiloh, and Samaria, carrying grain offerings and frankincense for the house of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.41.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.4|<< Jeremiah 41:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.6|Jeremiah 41:6 >>]]</td></tr></table>
 
 | Translation | Greek |

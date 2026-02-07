@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And came to pass \[the\] word of Samuel to all Israel. And the Philistines gathered together for war against Israel; and Israel went forth to meet them for war. And they camped at Ebenezer. And the Philistines camped in Aphek. 
-<small><sub>**KJV:**</sub></small>
-And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Ebenezer: and the Philistines pitched in Aphek.
-<small><sub>**BSB:**</sub></small>
-Thus the word of Samuel came to all Israel. Now the Israelites went out to meet the Philistines in battle and camped at Ebenezer, while the Philistines camped at Aphek.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.21|<< 1 Samuel 3:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.2|1 Samuel 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

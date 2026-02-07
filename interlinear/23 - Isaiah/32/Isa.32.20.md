@@ -1,4 +1,4 @@
-**Isaiah 32:20** 
+**Isaiah 32:20**<big><big>[[Isa.32.9 The Women of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [are] ye that sow beside all waters, that send forth [thither] the feet of the ox and the ass.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Blessed are those who sow beside abundant waters, who let the ox and donkey rang
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.19|<< Isaiah 32:19]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.1|Isaiah 33:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | how blessed [are]! you  |**<big>&#8207;[[H0835\|אַשְׁרֵי]]&#8207;&#8207;[[H9036\|כֶ֕ם]]&#8207; </big>**| 'ash.rei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O [those who] sow  |**<big>&#8207;[[H2232\|זֹרְעֵ֖י]]&#8207; </big>**| zo.re.'Ei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

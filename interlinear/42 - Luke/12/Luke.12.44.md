@@ -1,12 +1,12 @@
-**Luke 12:44
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:44**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Of a truth I say unto you, that he will make him ruler over all that he hath.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, he will put him in charge of all his possessions.
 <small><sub>**Literal:**</sub></small>
 Of a truth I say to you that over all the possessions of him he will set him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.43|<< Luke 12:43]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.45|Luke 12:45 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Of a truth |**<big>[[G0230\|ἀληθῶς]]</big>**  |alēthōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

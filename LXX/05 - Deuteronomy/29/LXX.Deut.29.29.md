@@ -1,10 +1,7 @@
 **LXX Deuteronomy 29:29** 
 <small><sub>**LXX:**</sub></small>
 The secret \[things belong\] \[to the\] <span class="smallcaps">lord</span>  your God. But the open \[things are\] to you, and \[to\] your children into the eon, to do all the words  of this law. 
-<small><sub>**KJV:**</sub></small>
-The secret [things belong] unto the LORD our God: but those [things which are] revealed [belong] unto us and to our children for ever, that [we] may do all the words of this law.
-<small><sub>**BSB:**</sub></small>
-The secret things belong to the LORD our God, but the things revealed belong to us and to our children forever, so that we may follow all the words of this law.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.29.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.29.28|<< Deuteronomy 29:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.1|Deuteronomy 30:1 >>]]</td></tr></table>
 
 | Translation | Greek |

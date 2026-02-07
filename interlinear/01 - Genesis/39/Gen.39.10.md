@@ -1,4 +1,4 @@
-**Genesis 39:10** 
+**Genesis 39:10**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as she spake to Joseph day by day, that he hearkened not unto her, to lie by her, [or] to be with her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Although Potiphar’s wife spoke to Joseph day after day, he refused to go to be
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.9|<< Genesis 39:9]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.11|Genesis 39:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֕י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when spoke she  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H1696G\|דַבְּרָ֥]]&#8207;&#8207;[[H9044\|הּ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> da.be.Ra<small><sup>[[HVpcc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

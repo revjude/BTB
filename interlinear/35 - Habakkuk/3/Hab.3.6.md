@@ -1,4 +1,4 @@
-**Habakkuk 3:6** 
+**Habakkuk 3:6**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways [are] everlasting.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He stood and measured the earth; He looked and startled the nations; the ancient
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.5|<< Habakkuk 3:5]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.7|Habakkuk 3:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he stood  |**<big>&#8207;[[H5975G\|עָמַ֣ד]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Mad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he shook  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4128\|יְמֹ֣דֶד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Mo.ded<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

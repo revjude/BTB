@@ -1,4 +1,4 @@
-**Proverbs 9:13** 
+**Proverbs 9:13**<big><big>[[Prov.9.13 The Way of Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A foolish woman [is] clamorous: [she is] simple, and knoweth nothing.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The woman named Folly is loud; she is naive and knows nothing.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.12|<< Proverbs 9:12]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.14|Proverbs 9:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a woman of  |**<big>&#8207;[[H0802G\|אֵ֣שֶׁת]]&#8207; </big>**| 'E.shet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | folly  |**<big>&#8207;[[H3687\|כְּ֭סִילוּת]]&#8207; </big>**| Ke.si.lut<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

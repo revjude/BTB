@@ -1,10 +1,7 @@
 **LXX Jeremiah 8:2** 
 <small><sub>**LXX:**</sub></small>
 And they shall freshen them to the sun, and to the moon, and to all the stars, and to all the military of the heaven, which they loved, and which they served, and whom they went after them, and whom they held to, and to whom they did obeisance to them. They shall not be lamented, and they shall not be entombed. And they will be for an example on \[the\] face of the earth. 
-<small><sub>**KJV:**</sub></small>
-And they shall spread them before the sun, and the moon, and all the host of heaven, whom they have loved, and whom they have served, and after whom they have walked, and whom they have sought, and whom they have worshipped: they shall not be gathered, nor be buried; they shall be for dung upon the face of the earth.
-<small><sub>**BSB:**</sub></small>
-They will be exposed to the sun and moon, and to all the host of heaven which they have loved, served, followed, consulted, and worshiped. Their bones will not be gathered up or buried, but will become like dung lying on the ground.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.8.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.1|<< Jeremiah 8:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.3|Jeremiah 8:3 >>]]</td></tr></table>
 
 | Translation | Greek |

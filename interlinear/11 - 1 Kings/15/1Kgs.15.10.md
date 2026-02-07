@@ -1,4 +1,4 @@
-**1 Kings 15:10** 
+**1 Kings 15:10**<big><big>[[1Kgs.15.9 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And forty and one years reigned he in Jerusalem. And his mother’s name [was] Maachah, the daughter of Abishalom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and he reigned in Jerusalem forty-one years. His grandmother’s name was Maacah
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.9|<< 1 Kings 15:9]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.11|1 Kings 15:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and forty  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0705\|אַרְבָּעִ֤ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and one  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0259\|אַחַת֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Chat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

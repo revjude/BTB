@@ -1,5 +1,5 @@
-**James 2:8
-**<small><sub>**KJV:**</sub></small>
+**James 2:8**<big><big>[[Jas.2.1 A Warning against Favoritism|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:
 <small><sub>**BSB:**</sub></small>
 If you really fulfill the royal law stated in Scripture, “Love your neighbor as yourself,” you are doing well.
@@ -10,7 +10,7 @@ If indeed [the] law you keep royal according to the Scripture; You will love the
 > $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | indeed |**<big>[[G3305\|μέντοι]]</big>**  |mentoi <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

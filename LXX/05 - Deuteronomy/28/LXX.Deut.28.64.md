@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:64** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> your God will disperse you into all the nations, from \[the\] tip of the earth, unto \[the other\] tip of the earth. And you shall slave there to other gods of wood and stone, which you have no knowledge of, \[nor\]  your fathers. 
-<small><sub>**KJV:**</sub></small>
-And the LORD shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, [even] wood and stone.
-<small><sub>**BSB:**</sub></small>
-Then the LORD will scatter you among all the nations, from one end of the earth to the other, and there you will worship other gods, gods of wood and stone, which neither you nor your fathers have known.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.64|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.63|<< Deuteronomy 28:63]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.65|Deuteronomy 28:65 >>]]</td></tr></table>
 
 | Translation | Greek |

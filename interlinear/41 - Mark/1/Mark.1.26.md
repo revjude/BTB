@@ -1,12 +1,12 @@
-**Mark 1:26
-**<small><sub>**KJV:**</sub></small>
+**Mark 1:26**<big><big>[[Mark.1.21 Jesus Expels an Unclean Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the unclean spirit had torn him, and cried with a loud voice, he came out of him.
 <small><sub>**BSB:**</sub></small>
 At this, the unclean spirit threw the man into convulsions and came out with a loud shriek.
 <small><sub>**Literal:**</sub></small>
 And having thrown into convulsions him the spirit <the> unclean and having shouted in a voice loud it came forth out of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.25|<< Mark 1:25]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.27|Mark 1:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having thrown into convulsions |**<big>[[G4682\|σπαράξαν]]</big>**  |sparaxan <small><sup>[[V-AAP-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Isaiah 35:5** 
 <small><sub>**LXX:**</sub></small>
 Then \[the\] eyes of \[the\] blind be opened, and \[the\] ears of \[the\] deaf shall hear. 
-<small><sub>**KJV:**</sub></small>
-Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped.
-<small><sub>**BSB:**</sub></small>
-Then the eyes of the blind will be opened and the ears of the deaf unstopped.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.35.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.35.4|<< Isaiah 35:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.6|Isaiah 35:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 35:5** is...

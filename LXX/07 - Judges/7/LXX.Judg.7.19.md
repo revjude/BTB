@@ -1,10 +1,7 @@
 **LXX Judges 7:19** 
 <small><sub>**LXX:**</sub></small>
 And Gideon entered, and the hundred men, the ones with him, into \[the\] rank of the camp command of the guard of the middle \[watch\]; furthermore rising they roused the ones guarding. And they trumped the horns, and shook off the water-pitchers, the ones in  their hands. 
-<small><sub>**KJV:**</sub></small>
-So Gideon, and the hundred men that [were] with him, came unto the outside of the camp in the beginning of the middle watch; and they had but newly set the watch: and they blew the trumpets, and brake the pitchers that [were] in their hands.
-<small><sub>**BSB:**</sub></small>
-Gideon and the hundred men with him reached the outskirts of the camp at the beginning of the middle watch, just after the changing of the guard. They blew their horns and broke the jars that were in their hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.18|<< Judges 7:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.20|Judges 7:20 >>]]</td></tr></table>
 
 | Translation | Greek |

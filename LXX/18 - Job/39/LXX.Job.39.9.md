@@ -1,10 +1,7 @@
 **LXX Job 39:9** 
 <small><sub>**LXX:**</sub></small>
 And be willing \[the\] unicorn to serve to you, or to sleep at your stable? 
-<small><sub>**KJV:**</sub></small>
-Will the unicorn be willing to serve thee, or abide by thy crib?
-<small><sub>**BSB:**</sub></small>
-Will the wild ox consent to serve you? Will he stay by your manger at night?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.39.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.39.8|<< Job 39:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.39.10|Job 39:10 >>]]</td></tr></table>
 
 | Translation | Greek |

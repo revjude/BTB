@@ -1,4 +1,4 @@
-**Job 15:31** 
+**Job 15:31**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let not him that is deceived trust in vanity: for vanity shall be his recompence.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let him not deceive himself with trust in emptiness, for emptiness will be his r
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.30|<< Job 15:30]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.32|Job 15:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he trust  |**<big>&#8207;[[H0539\|יַאֲמֵ֣ן]]&#8207; </big>**| ya.'a.Men<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

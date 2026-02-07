@@ -1,4 +1,4 @@
-**Hosea 2:1** (2:3)
+**Hosea 2:1**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Say ye unto your brethren, Ammi; and to your sisters, Ruhamah.
 > $\quad$ referenced by: [[Rom.9.26|Rom 9:26-27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | say  |**<big>&#8207;[[H0559\|אִמְר֥וּ]]&#8207; </big>**| 'im.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to brothers your  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H0251I\|אֲחֵי]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.chei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

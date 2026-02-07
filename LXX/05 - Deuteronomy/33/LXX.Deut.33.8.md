@@ -1,10 +1,7 @@
 **LXX Deuteronomy 33:8** 
 <small><sub>**LXX:**</sub></small>
 And  to Levi he said, Give to Levi his manifestations and his truth to the sacred man, whom they tested him in Trial; they reviled him at Water of Dispute; 
-<small><sub>**KJV:**</sub></small>
-And of Levi he said, [Let] thy Thummim and thy Urim [be] with thy holy one, whom thou didst prove at Massah, [and with] whom thou didst strive at the waters of Meribah;
-<small><sub>**BSB:**</sub></small>
-Concerning Levi he said: “Give Your Thummim to Levi and Your Urim to Your godly one, whom You tested at Massah and contested at the waters of Meribah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.33.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.33.7|<< Deuteronomy 33:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.33.9|Deuteronomy 33:9 >>]]</td></tr></table>
 
 | Translation | Greek |

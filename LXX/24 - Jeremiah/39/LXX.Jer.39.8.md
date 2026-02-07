@@ -1,10 +1,7 @@
 **LXX Jeremiah 39:8** 
 <small><sub>**LXX:**</sub></small>
 And the house of the king, and the houses of the people the Chaldeans set on fire with fire, and the wall of Jerusalem they demolished. 
-<small><sub>**KJV:**</sub></small>
-And the Chaldeans burned the king’s house, and the houses of the people, with fire, and brake down the walls of Jerusalem.
-<small><sub>**BSB:**</sub></small>
-The Chaldeans set fire to the palace of the king and to the houses of the people, and they broke down the walls of Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.39.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.7|<< Jeremiah 39:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.9|Jeremiah 39:9 >>]]</td></tr></table>
 
 | Translation | Greek |

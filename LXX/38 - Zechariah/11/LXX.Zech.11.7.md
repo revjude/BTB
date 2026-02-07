@@ -1,10 +1,7 @@
 **LXX Zechariah 11:7** 
 <small><sub>**LXX:**</sub></small>
 And I will tend the sheep of the slaughter in the \[land of the\] Canaanites. And I will take for myself two rods; the one I called Beauty, and the other I called, A piece of measured out land; and I will tend the sheep. 
-<small><sub>**KJV:**</sub></small>
-And I will feed the flock of slaughter, [even] you, O poor of the flock. And I took unto me two staves; the one I called Beauty, and the other I called Bands; and I fed the flock.
-<small><sub>**BSB:**</sub></small>
-So I pastured the flock marked for slaughter, especially the afflicted of the flock. Then I took for myself two staffs, calling one Favor and the other Union, and I pastured the flock.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.11.6|<< Zechariah 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.11.8|Zechariah 11:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zechariah 11:7** is...

@@ -1,5 +1,5 @@
-**Acts 10:34
-**<small><sub>**KJV:**</sub></small>
+**Acts 10:34**<big><big>[[Acts.10.34 Good News for the Gentiles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Peter opened [his] mouth, and said, Of a truth I perceive that God is no respecter of persons:
 <small><sub>**BSB:**</sub></small>
 Then Peter began to speak: “I now truly understand that God does not show favoritism,
@@ -10,7 +10,7 @@ Having opened then Peter the mouth he said; Of a truth I grasped that not is One
 > $\quad$ alluding to: [[LXX.Deut.10.17|Deut 10:17]] ☩ [[LXX.Job.34.19|Job 34:19]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having opened |**<big>[[G0455\|Ἀνοίξας]]</big>**  |Anoixas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

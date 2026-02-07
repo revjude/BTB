@@ -1,4 +1,4 @@
-**Psalms 120:4** 
+**Psalms 120:4**<big><big>[[Ps.120.1 In My Distress I Cried to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sharp arrows of the mighty, with coals of juniper.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Sharp arrows will come from the warrior, with burning coals of the broom tree!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.120.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.120.3|<< Psalms 120:3]]</td><td align="center" style="border:none;">[[Ps.120|Psalms 120]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.120.5|Psalms 120:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | arrows of  |**<big>&#8207;[[H2671\|חִצֵּ֣י]]&#8207; </big>**| chi.Tzei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a warrior  |**<big>&#8207;[[H1368\|גִבּ֣וֹר]]&#8207; </big>**| gi.Bor<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

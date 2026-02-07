@@ -1,4 +1,4 @@
-**Psalms 49:5** (49:6)
+**Psalms 49:5**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore should I fear in the days of evil, [when] the iniquity of my heels shall compass me about?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why should I fear in times of trouble, when wicked usurpers surround me?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.4|<< Psalms 49:4]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.6|Psalms 49:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֣]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will I fear  |**<big>&#8207;[[H3372G\|אִ֭ירָא]]&#8207; </big>**| 'I.ra'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

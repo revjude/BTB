@@ -1,10 +1,7 @@
 **LXX Deuteronomy 1:38** 
 <small><sub>**LXX:**</sub></small>
 Joshua son of Nun, the one standing beside you, this one shall enter there; you strengthen him! for he shall allot it  to Israel and  your children, which you said to be for ravaging. 
-<small><sub>**KJV:**</sub></small>
-[But] Joshua the son of Nun, which standeth before thee, he shall go in thither: encourage him: for he shall cause Israel to inherit it.
-<small><sub>**BSB:**</sub></small>
-Joshua son of Nun, who stands before you, will enter it. Encourage him, for he will enable Israel to inherit the land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.1.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.1.37|<< Deuteronomy 1:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.1.39|Deuteronomy 1:39 >>]]</td></tr></table>
 
 | Translation | Greek |

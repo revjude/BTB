@@ -1,10 +1,7 @@
 **LXX Numbers 21:35** 
 <small><sub>**LXX:**</sub></small>
 And he struck him and  his sons, and all  his people, until there was not \[any\] of his being left behind for taking alive; and they inherited  his land. 
-<small><sub>**KJV:**</sub></small>
-So they smote him, and his sons, and all his people, until there was none left him alive: and they possessed his land.
-<small><sub>**BSB:**</sub></small>
-So they struck down Og, along with his sons and his whole army, until no remnant was left. And they took possession of his land.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.34|<< Numbers 21:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.22.1|Numbers 22:1 >>]]</td></tr></table>
 
 | Translation | Greek |

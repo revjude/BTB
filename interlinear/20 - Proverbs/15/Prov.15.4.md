@@ -1,4 +1,4 @@
-**Proverbs 15:4** 
+**Proverbs 15:4**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wholesome tongue [is] a tree of life: but perverseness therein [is] a breach in the spirit.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A soothing tongue is a tree of life, but a perverse tongue crushes the spirit.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.3|<< Proverbs 15:3]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.5|Proverbs 15:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | healing of  |**<big>&#8207;[[H4832\|מַרְפֵּ֣א]]&#8207; </big>**| mar.Pe'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | tongue  |**<big>&#8207;[[H3956G\|לָ֭שׁוֹן]]&#8207; </big>**| La.shon<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

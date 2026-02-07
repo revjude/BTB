@@ -1,10 +1,7 @@
 **LXX 2 Kings 25:16** 
 <small><sub>**LXX:**</sub></small>
 \[The\] two columns, and the one sea, and the bases which Solomon made for the house of \[the\] <span class="smallcaps">lord</span>. There was no \[measuring\] \[the\] weight of the brass of all the items. 
-<small><sub>**KJV:**</sub></small>
-The two pillars, one sea, and the bases which Solomon had made for the house of the LORD; the brass of all these vessels was without weight.
-<small><sub>**BSB:**</sub></small>
-As for the two pillars, the Sea, and the movable stands that Solomon had made for the house of the LORD, the weight of the bronze from all these articles was beyond measure.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.25.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.25.15|<< 2 Kings 25:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.25.17|2 Kings 25:17 >>]]</td></tr></table>
 
 | Translation | Greek |

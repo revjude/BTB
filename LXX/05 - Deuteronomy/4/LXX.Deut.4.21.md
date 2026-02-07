@@ -1,10 +1,7 @@
 **LXX Deuteronomy 4:21** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span>  God was enraged with me on account of the \[things\] having been said by you. And he swore by an oath that I should not pass over  this Jordan, and that I should not enter into the good land which \[the\] <span class="smallcaps">lord</span>  your God gives to you by lot. 
-<small><sub>**KJV:**</sub></small>
-Furthermore the LORD was angry with me for your sakes, and sware that I should not go over Jordan, and that I should not go in unto that good land, which the LORD thy God giveth thee [for] an inheritance:
-<small><sub>**BSB:**</sub></small>
-The LORD, however, was angry with me on account of you, and He swore that I would not cross the Jordan to enter the good land that the LORD your God is giving you as an inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.4.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.20|<< Deuteronomy 4:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.22|Deuteronomy 4:22 >>]]</td></tr></table>
 
 | Translation | Greek |

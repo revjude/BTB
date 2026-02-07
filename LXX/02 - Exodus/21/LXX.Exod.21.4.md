@@ -1,10 +1,7 @@
 **LXX Exodus 21:4** 
 <small><sub>**LXX:**</sub></small>
 And if the master should give to him a wife, and she should bear to him, sons and daughters, the wife and the children shall be  his masters, and he alone shall go forth by himself. 
-<small><sub>**KJV:**</sub></small>
-If his master have given him a wife, and she have born him sons or daughters; the wife and her children shall be her master’s, and he shall go out by himself.
-<small><sub>**BSB:**</sub></small>
-If his master gives him a wife and she bears him sons or daughters, the woman and her children shall belong to her master, and only the man shall go free.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.3|<< Exodus 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.5|Exodus 21:5 >>]]</td></tr></table>
 
 | Translation | Greek |

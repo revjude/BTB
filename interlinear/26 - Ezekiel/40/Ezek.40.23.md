@@ -1,4 +1,4 @@
-**Ezekiel 40:23** 
+**Ezekiel 40:23**<big><big>[[Ezek.40.20 The North Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the gate of the inner court [was] over against the gate toward the north, and toward the east; and he measured from gate to gate an hundred cubits.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There was a gate to the inner court facing the north gate, just as there was on 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.22|<< Ezekiel 40:22]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.24|Ezekiel 40:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a gate  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8179G\|שַׁ֙עַר֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Sha.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the courtyard  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H2691A\|חָצֵ֣ר]]&#8207; </big>**| le.<small><sup>[[HRd]]</sup></small> cha.Tzer<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

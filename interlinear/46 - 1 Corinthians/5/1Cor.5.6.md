@@ -1,12 +1,12 @@
-**1 Corinthians 5:6
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 5:6**<big><big>[[1Cor.5.1 Immorality Rebuked|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Your glorying [is] not good. Know ye not that a little leaven leaveneth the whole lump?
 <small><sub>**BSB:**</sub></small>
 Your boasting is not good. Do you not know that a little leaven works through the whole batch of dough?
 <small><sub>**Literal:**</sub></small>
 Not good [is] the boasting of you. Not know you that a little leaven all the lump leavens?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.5|<< 1 Corinthians 5:5]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.7|1 Corinthians 5:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|Οὐ]]</big>**  |Ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | good [is] |**<big>[[G2570G\|καλὸν]]</big>**  |kalon <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

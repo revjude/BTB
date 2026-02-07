@@ -1,4 +1,4 @@
-**Daniel 12:6** 
+**Daniel 12:6**<big><big>[[Dan.12.1 The End Times|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [one] said to the man clothed in linen, which [was] upon the waters of the river, How long [shall it be to] the end of these wonders?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ One of them said to the man dressed in linen, who was above the waters of the ri
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.12.5|<< Daniel 12:5]]</td><td align="center" style="border:none;">[[Dan.12|Daniel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.12.7|Daniel 12:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and someone said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֗אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the man  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0376G\|אִישׁ֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 147:6** 
+**Psalms 147:6**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD lifteth up the meek: he casteth the wicked down to the ground.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD sustains the humble, but casts the wicked to the ground.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.5|<< Psalms 147:5]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.7|Psalms 147:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [is] relieving  |**<big>&#8207;[[H5749A\|מְעוֹדֵ֣ד]]&#8207; </big>**| me.'o.Ded<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | humble [people]  |**<big>&#8207;[[H6035\|עֲנָוִ֣ים]]&#8207; </big>**| 'a.na.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

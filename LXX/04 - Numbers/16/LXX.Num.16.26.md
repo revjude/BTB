@@ -1,10 +1,7 @@
 **LXX Numbers 16:26** 
 <small><sub>**LXX:**</sub></small>
 And he spoke to the congregation, saying, Sever from the tents  of these recalcitrant men, and do not touch of all as much as is to them. You should not be destroyed together in all  their sin. 
-<small><sub>**KJV:**</sub></small>
-And he spake unto the congregation, saying, Depart, I pray you, from the tents of these wicked men, and touch nothing of theirs, lest ye be consumed in all their sins.
-<small><sub>**BSB:**</sub></small>
-And he warned the congregation, “Move away now from the tents of these wicked men. Do not touch anything that belongs to them, or you will be swept away because of all their sins.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.25|<< Numbers 16:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.27|Numbers 16:27 >>]]</td></tr></table>
 
 | Translation | Greek |

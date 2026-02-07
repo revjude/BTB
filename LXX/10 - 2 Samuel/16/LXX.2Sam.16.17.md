@@ -1,10 +1,7 @@
 **LXX 2 Samuel 16:17** 
 <small><sub>**LXX:**</sub></small>
 And Absalom said \[to\] Hushai, Is this  your act of kindness with  your companion? Why did you not go with  your companion? 
-<small><sub>**KJV:**</sub></small>
-And Absalom said to Hushai, [Is] this thy kindness to thy friend? why wentest thou not with thy friend?
-<small><sub>**BSB:**</sub></small>
-“Is this the loyalty you show your friend?” Absalom replied. “Why did you not go with your friend?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.16.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.16.16|<< 2 Samuel 16:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.18|2 Samuel 16:18 >>]]</td></tr></table>
 
 | Translation | Greek |

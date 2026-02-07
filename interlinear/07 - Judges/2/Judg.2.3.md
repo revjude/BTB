@@ -1,4 +1,4 @@
-**Judges 2:3** 
+**Judges 2:3**<big><big>[[Judg.2.1 Israel Rebuked at Bochim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore I also said, I will not drive them out from before you; but they shall be [as thorns] in your sides, and their gods shall be a snare unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So now I tell you that I will not drive out these people before you; they will b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.2|<< Judges 2:2]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.4|Judges 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1571\|גַ֣ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Gam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I say  |**<big>&#8207;[[H0559\|אָמַ֔רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

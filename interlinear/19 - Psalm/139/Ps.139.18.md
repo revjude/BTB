@@ -1,4 +1,4 @@
-**Psalms 139:18** 
+**Psalms 139:18**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [If] I should count them, they are more in number than the sand: when I awake, I am still with thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If I were to count them, they would outnumber the grains of sand; and when I awa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.17|<< Psalms 139:17]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.19|Psalms 139:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will count them  |**<big>&#8207;[[H5608A\|אֶ֭סְפְּרֵ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'Es.pe.re<small><sup>[[HVqi1cs]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | more than sand  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2344\|ח֣וֹל]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Chol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

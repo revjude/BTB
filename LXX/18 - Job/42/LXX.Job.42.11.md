@@ -1,10 +1,7 @@
 **LXX Job 42:11** 
 <small><sub>**LXX:**</sub></small>
 And all his brothers and his sisters heard all the \[things\] coming to pass to him. And came to him even all as many as knew him at first. And eating and drinking with him, they comforted him. And they wondered upon all which the <span class="smallcaps">lord</span> brought upon him. And gave each to him one ewe-lamb, and a four-drachma \[piece\] of unmarked gold. 
-<small><sub>**KJV:**</sub></small>
-Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the LORD had brought upon him: every man also gave him a piece of money, and every one an earring of gold.
-<small><sub>**BSB:**</sub></small>
-All his brothers and sisters and prior acquaintances came and dined with him in his house. They consoled him and comforted him over all the adversity that the LORD had brought upon him. And each one gave him a piece of silver and a gold ring.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.42.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.42.10|<< Job 42:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.42.12|Job 42:12 >>]]</td></tr></table>
 
 | Translation | Greek |

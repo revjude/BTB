@@ -1,10 +1,7 @@
 **LXX Isaiah 59:8** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] way of peace they do not know, and there is no equity in  their ways.  For their roads which they travel through are perverted, and they do not know peace. 
-<small><sub>**KJV:**</sub></small>
-The way of peace they know not; and [there is] no judgment in their goings: they have made them crooked paths: whosoever goeth therein shall not know peace.
-<small><sub>**BSB:**</sub></small>
-The way of peace they have not known, and there is no justice in their tracks. They have turned them into crooked paths; no one who treads on them will know peace.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.59.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.59.7|<< Isaiah 59:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.59.9|Isaiah 59:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 59:8** is...

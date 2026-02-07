@@ -1,4 +1,4 @@
-**Joshua 24:11** 
+**Joshua 24:11**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye went over Jordan, and came unto Jericho: and the men of Jericho fought against you, the Amorites, and the Perizzites, and the Canaanites, and the Hittites, and the Girgashites, the Hivites, and the Jebusites; and I delivered them into your hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After this, you crossed the Jordan and came to Jericho. The people of Jericho fo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.10|<< Joshua 24:10]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.12|Joshua 24:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you passed over  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5674A\|תַּעַבְר֣וּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.'av.Ru<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 19:28** 
 <small><sub>**LXX:**</sub></small>
 On account of  your being provoked to anger against me, that  your indulgence ascended to  my ears, and I shall put  my hook in  your nostrils, and bits in  your lips, and I will return you in the way which you came by it. 
-<small><sub>**KJV:**</sub></small>
-Because thy rage against me and thy tumult is come up into mine ears, therefore I will put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest.
-<small><sub>**BSB:**</sub></small>
-Because your rage and arrogance against Me have reached My ears, I will put My hook in your nose and My bit in your mouth; I will send you back the way you came.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.19.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.19.27|<< 2 Kings 19:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.19.29|2 Kings 19:29 >>]]</td></tr></table>
 
 | Translation | Greek |

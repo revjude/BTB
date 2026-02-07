@@ -1,5 +1,5 @@
-**James 5:3
-**<small><sub>**KJV:**</sub></small>
+**James 5:3**<big><big>[[Jas.5.1 A Warning to the Rich|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Your gold and silver is cankered; and the rust of them shall be a witness against you, and shall eat your flesh as it were fire. Ye have heaped treasure together for the last days.
 <small><sub>**BSB:**</sub></small>
 Your gold and silver are corroded. Their corrosion will testify against you and consume your flesh like fire. You have hoarded treasure in the last days.
@@ -10,7 +10,7 @@ The gold of you and the silver have corroded and the rust of them for a testimon
 > $\quad$ possibly alluding to: [[LXX.Prov.16.27|Prov 16:27]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | gold |**<big>[[G5557\|χρυσὸς]]</big>**  |chrusos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

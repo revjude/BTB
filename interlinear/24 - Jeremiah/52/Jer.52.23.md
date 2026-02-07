@@ -1,4 +1,4 @@
-**Jeremiah 52:23** 
+**Jeremiah 52:23**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there were ninety and six pomegranates on a side; [and] all the pomegranates upon the network [were] an hundred round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each capital had ninety-six pomegranates on the sides, and a total of a hundred 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.22|<< Jeremiah 52:22]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.24|Jeremiah 52:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יִּֽהְיוּ֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yih.Yu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the pomegranates  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H7416\|רִמֹּנִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ri.mo.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

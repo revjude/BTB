@@ -1,10 +1,7 @@
 **LXX Jeremiah 23:32** 
 <small><sub>**LXX:**</sub></small>
 Behold, I \[am\] against the prophets  prophesying false dreams, and of whom described them, and misled  my people by  their lies, and in  their delusions; and I sent them not, and I did not give charge to them, and they derived not a benefit  for this people, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Behold, I [am] against them that prophesy false dreams, saith the LORD, and do tell them, and cause my people to err by their lies, and by their lightness; yet I sent them not, nor commanded them: therefore they shall not profit this people at all, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-“Indeed,” declares the LORD, “I am against those who prophesy false dreams and retell them to lead My people astray with their reckless lies. It was not I who sent them or commanded them, and they are of no benefit at all to these people,” declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.23.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.31|<< Jeremiah 23:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.33|Jeremiah 23:33 >>]]</td></tr></table>
 
 | Translation | Greek |

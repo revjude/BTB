@@ -1,5 +1,5 @@
-**James 5:5
-**<small><sub>**KJV:**</sub></small>
+**James 5:5**<big><big>[[Jas.5.1 A Warning to the Rich|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye have lived in pleasure on the earth, and been wanton; ye have nourished your hearts, as in a day of slaughter.
 <small><sub>**BSB:**</sub></small>
 You have lived on earth in luxury and self-indulgence. You have fattened your hearts in the day of slaughter.
@@ -10,7 +10,7 @@ You lived in luxury upon the earth and lived in self-indulgence, You have fatten
 > $\quad$ referencing: [[LXX.Jer.12.3|Jer 12:3]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You lived in luxury |**<big>[[G5171\|ἐτρυφήσατε]]</big>**  |etruphēsate <small><sup>[[V-AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | upon |**<big>[[G1909\|ἐπὶ]]</big>**  |epi <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Esther 7:2** 
 <small><sub>**LXX:**</sub></small>
 And the king said \[to\] Esther on the second day at the banquet, What is it queen Esther? And what \[is\]  your request? And what \[is\]  your petition? And it will be yours unto half  of my kingdom! 
-<small><sub>**KJV:**</sub></small>
-And the king said again unto Esther on the second day at the banquet of wine, What [is] thy petition, queen Esther? and it shall be granted thee: and what [is] thy request? and it shall be performed, [even] to the half of the kingdom.
-<small><sub>**BSB:**</sub></small>
-and as they drank their wine on that second day, the king asked once more, “Queen Esther, what is your petition? It will be given to you. What is your request? Even up to half the kingdom, it will be fulfilled.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.7.1|<< Esther 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.7.3|Esther 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 31:8** 
 <small><sub>**LXX:**</sub></small>
 And Hezekiah and the rulers came and saw the heaps, and they blessed the <span class="smallcaps">lord</span>, and  his people Israel. 
-<small><sub>**KJV:**</sub></small>
-And when Hezekiah and the princes came and saw the heaps, they blessed the LORD, and his people Israel.
-<small><sub>**BSB:**</sub></small>
-When Hezekiah and his officials came and viewed the heaps, they blessed the LORD and His people Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.31.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.31.7|<< 2 Chronicles 31:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.9|2 Chronicles 31:9 >>]]</td></tr></table>
 
 | Translation | Greek |

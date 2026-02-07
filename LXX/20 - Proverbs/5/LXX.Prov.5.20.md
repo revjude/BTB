@@ -1,10 +1,7 @@
 **LXX Proverbs 5:20** 
 <small><sub>**LXX:**</sub></small>
 Be not much with \[the\] strange \[woman\], nor hold the one not your own in embraces! 
-<small><sub>**KJV:**</sub></small>
-And why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?
-<small><sub>**BSB:**</sub></small>
-Why be captivated, my son, by an adulteress, or embrace the bosom of a stranger?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.19|<< Proverbs 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.21|Proverbs 5:21 >>]]</td></tr></table>
 
 | Translation | Greek |

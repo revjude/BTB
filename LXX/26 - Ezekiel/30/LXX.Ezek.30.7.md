@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:7** 
 <small><sub>**LXX:**</sub></small>
 And it shall be made desolate in \[the\] midst of places being obliterated; and  her cities will be in \[the\] midst of cities being made desolate. 
-<small><sub>**KJV:**</sub></small>
-And they shall be desolate in the midst of the countries [that are] desolate, and her cities shall be in the midst of the cities [that are] wasted.
-<small><sub>**BSB:**</sub></small>
-They will be desolate among desolate lands, and their cities will lie among ruined cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.6|<< Ezekiel 30:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.8|Ezekiel 30:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 44:16** 
 <small><sub>**LXX:**</sub></small>
 And Judah said, How shall we contradict the master, or what shall we speak, or how shall we be justified?  For God found the injustice  of your servants. Behold, we are servants to our master, both we and by whom was found \[with\] the drinking cup. 
-<small><sub>**KJV:**</sub></small>
-And Judah said, What shall we say unto my lord? what shall we speak? or how shall we clear ourselves? God hath found out the iniquity of thy servants: behold, we [are] my lord’s servants, both we, and [he] also with whom the cup is found.
-<small><sub>**BSB:**</sub></small>
-“What can we say to my lord?” Judah replied. “How can we plead? How can we justify ourselves? God has exposed the iniquity of your servants. We are now my lord’s slaves—both we and the one who was found with the cup.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.44.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.44.15|<< Genesis 44:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.44.17|Genesis 44:17 >>]]</td></tr></table>
 
 | Translation | Greek |

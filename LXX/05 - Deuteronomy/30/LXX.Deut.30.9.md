@@ -1,10 +1,7 @@
 **LXX Deuteronomy 30:9** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> your God shall take great care of you in every work  of your hands, in the progeny  of your belly, and in the progeny  of your cattle, and in the produce  of your land, because \[the\] <span class="smallcaps">lord</span> your God shall turn to be glad over you for good \[things\], as he was glad over  your fathers. 
-<small><sub>**KJV:**</sub></small>
-And the LORD thy God will make thee plenteous in every work of thine hand, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy land, for good: for the LORD will again rejoice over thee for good, as he rejoiced over thy fathers:
-<small><sub>**BSB:**</sub></small>
-So the LORD your God will make you abound in all the work of your hands and in the fruit of your womb, the offspring of your livestock, and the produce of your land. Indeed, the LORD will again delight in your prosperity, as He delighted in that of your fathers,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.30.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.30.8|<< Deuteronomy 30:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.30.10|Deuteronomy 30:10 >>]]</td></tr></table>
 
 | Translation | Greek |

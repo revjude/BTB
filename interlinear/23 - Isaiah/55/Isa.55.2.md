@@ -1,4 +1,4 @@
-**Isaiah 55:2** 
+**Isaiah 55:2**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore do ye spend money for [that which is] not bread? and your labour for [that which] satisfieth not? hearken diligently unto me, and eat ye [that which is] good, and let your soul delight itself in fatness.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why spend money on that which is not bread, and your labor on that which does no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.1|<< Isaiah 55:1]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.3|Isaiah 55:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֤]]&#8207;&#8207;[[H4100\|מָּה]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do you weigh out  |**<big>&#8207;[[H8254\|תִשְׁקְלוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tish.ke.lu-<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

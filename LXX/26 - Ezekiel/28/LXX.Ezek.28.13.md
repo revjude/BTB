@@ -1,10 +1,7 @@
 **LXX Ezekiel 28:13** 
 <small><sub>**LXX:**</sub></small>
 You were in the luxury of \[the\] paradise of God; you bound on every precious stone -- sardius, and topaz, and emerald, and carbuncle, and sapphire, and jasper, and silver, and gold, and amber, and agate, and amethyst, and chrysolite, and beryl, and onyx. And with gold you filled up  your treasuries and  your storehouses among you. 
-<small><sub>**KJV:**</sub></small>
-Thou hast been in Eden the garden of God; every precious stone [was] thy covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of thy tabrets and of thy pipes was prepared in thee in the day that thou wast created.
-<small><sub>**BSB:**</sub></small>
-You were in Eden, the garden of God. Every kind of precious stone adorned you: ruby, topaz, and diamond, beryl, onyx, and jasper, sapphire, turquoise, and emerald. Your mountings and settings were crafted in gold, prepared on the day of your creation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.28.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.12|<< Ezekiel 28:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.14|Ezekiel 28:14 >>]]</td></tr></table>
 
 | Translation | Greek |

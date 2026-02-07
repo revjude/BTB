@@ -1,4 +1,4 @@
-**Nehemiah 9:7** 
+**Nehemiah 9:7**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou [art] the LORD the God, who didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ You are the LORD, the God who chose Abram, who brought him out of Ur of the Chal
 > $\quad$ referenced by: [[Acts.7.2|Acts 7:2]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you  |**<big>&#8207;[[H0859A\|אַתָּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.tah-<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he  |**<big>&#8207;[[H1931\|הוּא֙]]&#8207; </big>**| hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

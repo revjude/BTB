@@ -1,12 +1,12 @@
-**Colossians 4:11
-**<small><sub>**KJV:**</sub></small>
+**Colossians 4:11**<big><big>[[Col.4.7 Greetings from Paul’s Fellow Workers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus, which is called Justus, who are of the circumcision. These only [are my] fellowworkers unto the kingdom of God, which have been a comfort unto me.
 <small><sub>**BSB:**</sub></small>
 Jesus, who is called Justus, also sends greetings. These are the only Jews among my fellow workers for the kingdom of God, and they have been a comfort to me.
 <small><sub>**Literal:**</sub></small>
 and also Jesus who is being named Justus, those being among [the] circumcision these only fellow workers for the kingdom <the> of God, who have been to me a comfort.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.10|<< Colossians 4:10]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.12|Colossians 4:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Jesus |**<big>[[G2424J\|Ἰησοῦς]]</big>**  |Iēsous <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

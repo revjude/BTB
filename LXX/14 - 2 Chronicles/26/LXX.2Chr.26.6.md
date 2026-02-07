@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he went forth and waged war against the Philistines, and tore down the walls of Gath, and the walls of Jabneh, and the walls of Ashdod. And he built cities in Ashdod, and among the Philistines. 
-<small><sub>**KJV:**</sub></small>
-And he went forth and warred against the Philistines, and brake down the wall of Gath, and the wall of Jabneh, and the wall of Ashdod, and built cities about Ashdod, and among the Philistines.
-<small><sub>**BSB:**</sub></small>
-Uzziah went out to wage war against the Philistines, and he tore down the walls of Gath, Jabneh, and Ashdod. Then he built cities near Ashdod and among the Philistines.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.26.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.26.5|<< 2 Chronicles 26:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.26.7|2 Chronicles 26:7 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:17** 
 <small><sub>**LXX:**</sub></small>
 I have placed over you watchmen; hearken to the sound of \[the\] trumpet! But they said, We will not hearken. 
-<small><sub>**KJV:**</sub></small>
-Also I set watchmen over you, [saying], Hearken to the sound of the trumpet. But they said, We will not hearken.
-<small><sub>**BSB:**</sub></small>
-I appointed watchmen over you and said, ‘Listen for the sound of the ram’s horn.’ But they answered, ‘We will not listen!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.16|<< Jeremiah 6:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.18|Jeremiah 6:18 >>]]</td></tr></table>
 
 | Translation | Greek |

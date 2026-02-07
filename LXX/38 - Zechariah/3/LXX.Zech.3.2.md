@@ -1,10 +1,7 @@
 **LXX Zechariah 3:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to the devil, May \[the\] <span class="smallcaps">lord</span> reproach against you, O devil, and may \[the\] <span class="smallcaps">lord</span> reproach against you, the one choosing  Jerusalem. Is this not a firebrand being pulled out of \[the\] fire? 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Satan, The LORD rebuke thee, O Satan; even the LORD that hath chosen Jerusalem rebuke thee: [is] not this a brand plucked out of the fire?
-<small><sub>**BSB:**</sub></small>
-And the LORD said to Satan: “The LORD rebukes you, Satan! Indeed, the LORD, who has chosen Jerusalem, rebukes you! Is not this man a firebrand snatched from the fire?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.3.1|<< Zechariah 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.3.3|Zechariah 3:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Zechariah 3:2** is...

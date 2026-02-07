@@ -1,10 +1,7 @@
 **LXX Numbers 15:41** 
 <small><sub>**LXX:**</sub></small>
 I \[am\] \[the\] <span class="smallcaps">lord</span>  your God, the one leading you from out of \[the\] land of Egypt, to be your God. I \[am\] \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-I [am] the LORD your God, which brought you out of the land of Egypt, to be your God: I [am] the LORD your God.
-<small><sub>**BSB:**</sub></small>
-I am the LORD your God who brought you out of the land of Egypt to be your God. I am the LORD your God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.40|<< Numbers 15:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.1|Numbers 16:1 >>]]</td></tr></table>
 
 | Translation | Greek |

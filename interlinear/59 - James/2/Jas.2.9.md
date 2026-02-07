@@ -1,12 +1,12 @@
-**James 2:9
-**<small><sub>**KJV:**</sub></small>
+**James 2:9**<big><big>[[Jas.2.1 A Warning against Favoritism|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors.
 <small><sub>**BSB:**</sub></small>
 But if you show favoritism, you sin and are convicted by the law as transgressors.
 <small><sub>**Literal:**</sub></small>
 If however you show partiality, sin you are committing being convicted by the law as transgressors.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.8|<< James 2:8]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.10|James 2:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

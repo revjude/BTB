@@ -1,4 +1,4 @@
-**Psalms 8:8** (8:9)
+**Psalms 8:8**<big><big>[[Ps.8.1 How Majestic Is Your Name!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fowl of the air, and the fish of the sea, [and whatsoever] passeth through the paths of the seas.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the birds of the air and the fish of the sea, all that swim the paths of the sea
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.8.7|<< Psalms 8:7]]</td><td align="center" style="border:none;">[[Ps.8|Psalms 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.8.9|Psalms 8:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] bird[s] of  |**<big>&#8207;[[H6833\|צִפּ֣וֹר]]&#8207; </big>**| tzi.Por<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] heavens  |**<big>&#8207;[[H8064\|שָׁ֭מַיִם]]&#8207; </big>**| Sha.ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

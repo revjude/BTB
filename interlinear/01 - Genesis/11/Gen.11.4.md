@@ -1,4 +1,4 @@
-**Genesis 11:4** 
+**Genesis 11:4**<big><big>[[Gen.11.1 The Tower of Babel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, Go to, let us build us a city and a tower, whose top [may reach] unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And they said, Go to, let us build us a city and a tower, whose top [may reach] 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.3|<< Genesis 11:3]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.5|Genesis 11:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֞וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | give !  |**<big>&#8207;[[H3051\|הָ֣בָ]]&#8207;&#8207;[[H9012\|ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Ha.va<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |

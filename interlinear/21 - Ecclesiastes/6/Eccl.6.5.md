@@ -1,4 +1,4 @@
-**Ecclesiastes 6:5** 
+**Ecclesiastes 6:5**<big><big>[[Eccl.6.1 The Futility of Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he hath not seen the sun, nor known [any thing]: this hath more rest than the other.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The child, though neither seeing the sun nor knowing anything, has more rest tha
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.4|<< Ecclesiastes 6:4]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.6|Ecclesiastes 6:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] sun  |**<big>&#8207;[[H8121\|שֶׁ֥מֶשׁ]]&#8207; </big>**| She.mesh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

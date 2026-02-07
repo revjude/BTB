@@ -1,4 +1,4 @@
-**Psalms 79:10** 
+**Psalms 79:10**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore should the heathen say, Where [is] their God? let him be known among the heathen in our sight [by] the revenging of the blood of thy servants [which is] shed.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why should the nations ask, “Where is their God?” Before our eyes, make know
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.9|<< Psalms 79:9]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.11|Psalms 79:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ֤]]&#8207;&#8207;[[H4100\|מָּה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| La.<small><sup>[[HR]]</sup></small> mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will they say  |**<big>&#8207;[[H0559\|יֹאמְר֣וּ]]&#8207; </big>**| yo.me.Ru<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

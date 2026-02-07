@@ -1,10 +1,7 @@
 **LXX Genesis 7:10** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after the seven days, and the water of the flood came upon the earth. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass after seven days, that the waters of the flood were upon the earth.
-<small><sub>**BSB:**</sub></small>
-And after seven days the floodwaters came upon the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.7.9|<< Genesis 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.7.11|Genesis 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

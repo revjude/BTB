@@ -1,12 +1,12 @@
-**Hebrews 12:17
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:17**<big><big>[[Heb.12.14 A Call to Holiness|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For ye know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears.
 <small><sub>**BSB:**</sub></small>
 For you know that afterward, when he wanted to inherit the blessing, he was rejected. He could find no ground for repentance, though he sought the blessing with tears.
 <small><sub>**Literal:**</sub></small>
 You know for that even afterward wishing to inherit the blessing he was rejected; of repentance for place not he found although with tears having earnestly sought it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.16|<< Hebrews 12:16]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.18|Hebrews 12:18 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You know |**<big>[[G6063\|ἴστε]]</big>**  |iste <small><sup>[[V-RAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Numbers 5:16** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall bring her, and stand her before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall bring her near, and set her before the LORD:
-<small><sub>**BSB:**</sub></small>
-The priest is to bring the wife forward and have her stand before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.5.15|<< Numbers 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.5.17|Numbers 5:17 >>]]</td></tr></table>
 
 | Translation | Greek |

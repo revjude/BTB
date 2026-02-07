@@ -1,4 +1,4 @@
-**Psalms 18:43** (18:44)
+**Psalms 18:43**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast delivered me from the strivings of the people; [and] thou hast made me the head of the heathen: a people [whom] I have not known shall serve me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have delivered me from the strife of the people; You have made me the head o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.42|<< Psalms 18:42]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.44|Psalms 18:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you delivered me  |**<big>&#8207;[[H6403\|תְּפַלְּטֵ]]&#8207;&#8207;[[H9030\|נִי֮]]&#8207; </big>**| te.fa.le.te.<small><sup>[[HVpi2ms]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] strivings of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7379\|רִ֪יבֵ֫י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Ri.Vei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 11:5** 
 <small><sub>**LXX:**</sub></small>
 Among the ones in whom there is no knowing what the way of the wind \[is\], as \[the\] bones in \[the\] womb  \[of one\] being with child, so you shall not know the actions  of God, as much as he shall do  \[in\] all things. 
-<small><sub>**KJV:**</sub></small>
-As thou knowest not what [is] the way of the spirit, [nor] how the bones [do grow] in the womb of her that is with child: even so thou knowest not the works of God who maketh all.
-<small><sub>**BSB:**</sub></small>
-As you do not know the path of the wind, or how the bones are formed in a mother’s womb, so you cannot understand the work of God, the Maker of all things.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.11.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.11.4|<< Ecclesiastes 11:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.11.6|Ecclesiastes 11:6 >>]]</td></tr></table>
 
 | Translation | Greek |

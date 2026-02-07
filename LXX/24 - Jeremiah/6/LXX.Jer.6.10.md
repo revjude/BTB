@@ -1,10 +1,7 @@
 **LXX Jeremiah 6:10** 
 <small><sub>**LXX:**</sub></small>
 To whom should I speak, and testify, and he shall hearken? Behold, their ears \[are\] uncircumcised, and they are not able to hear. Behold, the word of \[the\] <span class="smallcaps">lord</span> became to them as a scorning; in no way shall they be willing to hear it. 
-<small><sub>**KJV:**</sub></small>
-To whom shall I speak, and give warning, that they may hear? behold, their ear [is] uncircumcised, and they cannot hearken: behold, the word of the LORD is unto them a reproach; they have no delight in it.
-<small><sub>**BSB:**</sub></small>
-To whom can I give this warning? Who will listen to me? Look, their ears are closed, so they cannot hear. See, the word of the LORD has become offensive to them; they find no pleasure in it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.6.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.9|<< Jeremiah 6:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.11|Jeremiah 6:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 28:8** 
+**2 Chronicles 28:8**<big><big>[[2Chr.28.5 Aram Defeats Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel carried away captive of their brethren two hundred thousand, women, sons, and daughters, and took also away much spoil from them, and brought the spoil to Samaria.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the Israelites took 200,000 captives from their kinsmen—women, sons, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.7|<< 2 Chronicles 28:7]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.9|2 Chronicles 28:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they took captive  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7617\|יִּשְׁבּוּ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Bu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H1121G\|בְנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

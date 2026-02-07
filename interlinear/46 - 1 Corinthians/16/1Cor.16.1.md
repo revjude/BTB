@@ -1,12 +1,12 @@
-**1 Corinthians 16:1
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 16:1**<big><big>[[1Cor.16.1 The Collection for the Saints|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now concerning the collection for the saints, as I have given order to the churches of Galatia, even so do ye.
 <small><sub>**BSB:**</sub></small>
 Now about the collection for the saints, you are to do as I directed the churches of Galatia:
 <small><sub>**Literal:**</sub></small>
 Concerning now the collection which [is] for the saints as I have directed the churches <the> of Galatia, so also you yourselves do perform.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.58|<< 1 Corinthians 15:58]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.2|1 Corinthians 16:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Concerning |**<big>[[G4012\|Περὶ]]</big>**  |Peri <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

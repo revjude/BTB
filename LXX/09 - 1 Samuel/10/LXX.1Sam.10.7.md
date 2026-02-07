@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:7** 
 <small><sub>**LXX:**</sub></small>
 And it will be whenever these signs shall come upon you, do all as much as your hand should find, for God \[is\] with you! 
-<small><sub>**KJV:**</sub></small>
-And let it be, when these signs are come unto thee, [that] thou do as occasion serve thee; for God [is] with thee.
-<small><sub>**BSB:**</sub></small>
-When these signs have come, do as the occasion demands, for God is with you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.6|<< 1 Samuel 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.8|1 Samuel 10:8 >>]]</td></tr></table>
 
 | Translation | Greek |

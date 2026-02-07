@@ -1,5 +1,5 @@
-**Acts 7:46
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:46**<big><big>[[Acts.7.44 The Tabernacle of the Testimony|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who found favour before God, and desired to find a tabernacle for the God of Jacob.
 <small><sub>**BSB:**</sub></small>
 who found favor in the sight of God and asked to provide a dwelling place for the God of Jacob.
@@ -10,7 +10,7 @@ who found favor before <the> God and asked to find a dwelling place for the hous
 > $\quad$ alluding to: [[LXX.2Sam.7.2|2Sam 7:2]] ☩ [[LXX.Ps.132.5|Ps 132:5]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who |**<big>[[G3739\|ὃς]]</big>**  |hos <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | found |**<big>[[G2147\|εὗρεν]]</big>**  |heuren <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Daniel 9:14** 
+**Daniel 9:14**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore hath the LORD watched upon the evil, and brought it upon us: for the LORD our God [is] righteous in all his works which he doeth: for we obeyed not his voice.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore the LORD has kept the calamity in store and brought it upon us. For th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.13|<< Daniel 9:13]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.15|Daniel 9:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he kept watch  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8245\|יִּשְׁקֹ֤ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Kod<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָה֙]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 69:15** 
 <small><sub>**LXX:**</sub></small>
 sink not \[the\] gale of water me, nor \[the\] deep swallow me, nor \[the\] well constrain its mouth over me! 
-<small><sub>**KJV:**</sub></small>
-Let not the waterflood overflow me, neither let the deep swallow me up, and let not the pit shut her mouth upon me.
-<small><sub>**BSB:**</sub></small>
-Do not let the floods engulf me or the depths swallow me up; let not the Pit close its mouth over me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.69.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.69.14|<< Psalm 69:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.69.16|Psalm 69:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 If Israel should return, says \[the\] <span class="smallcaps">lord</span>, to me, he shall be returned. And if he should remove  his abominations from  his mouth, and should show reverence from in front of me, 
-<small><sub>**KJV:**</sub></small>
-If thou wilt return, O Israel, saith the LORD, return unto me: and if thou wilt put away thine abominations out of my sight, then shalt thou not remove.
-<small><sub>**BSB:**</sub></small>
-“If you will return, O Israel, return to Me,” declares the LORD. “If you will remove your detestable idols from My sight and no longer waver,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.3.25|<< Jeremiah 3:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.2|Jeremiah 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Judges 15:14** 
 <small><sub>**LXX:**</sub></small>
 And he came unto Jaw, and the Philistines shouted and ran to meet him. And spirit \[of the\] <span class="smallcaps">lord</span> straightened upon him, and the ropes in his arms became as hemp when  fire smells, and the bonds melted away from  his arms. 
-<small><sub>**KJV:**</sub></small>
-[And] when he came unto Lehi, the Philistines shouted against him: and the Spirit of the LORD came mightily upon him, and the cords that [were] upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands.
-<small><sub>**BSB:**</sub></small>
-When Samson arrived in Lehi, the Philistines came out shouting against him. And the Spirit of the LORD came mightily upon him. The ropes on his arms became like burnt flax, and the bonds broke loose from his hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.15.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.15.13|<< Judges 15:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.15.15|Judges 15:15 >>]]</td></tr></table>
 
 | Translation | Greek |

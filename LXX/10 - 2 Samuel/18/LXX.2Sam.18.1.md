@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David numbered all the people  with him. And he placed over them commanders of thousands, and commanders of hundreds. 
-<small><sub>**KJV:**</sub></small>
-And David numbered the people that [were] with him, and set captains of thousands and captains of hundreds over them.
-<small><sub>**BSB:**</sub></small>
-Then David reviewed his troops and appointed over them commanders of thousands and of hundreds.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.17.29|<< 2 Samuel 17:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.2|2 Samuel 18:2 >>]]</td></tr></table>
 
 | Translation | Greek |

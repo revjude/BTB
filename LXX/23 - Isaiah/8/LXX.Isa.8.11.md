@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, \[With\] the strong hand they resist persuasion in the going of the way  of this people, saying, 
-<small><sub>**KJV:**</sub></small>
-For the LORD spake thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD has spoken to me with a strong hand, instructing me not to walk in the way of this people:<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.8.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.10|<< Isaiah 8:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.12|Isaiah 8:12 >>]]</td></tr></table>
 
 | Translation | Greek |

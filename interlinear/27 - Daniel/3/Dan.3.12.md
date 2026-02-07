@@ -1,4 +1,4 @@
-**Daniel 3:12** 
+**Daniel 3:12**<big><big>[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There are certain Jews whom thou hast set over the affairs of the province of Babylon, Shadrach, Meshach, and Abednego; these men, O king, have not regarded thee: they serve not thy gods, nor worship the golden image which thou hast set up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But there are some Jews you have appointed to manage the province of Babylon—S
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.11|<< Daniel 3:11]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.13|Daniel 3:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there  |**<big>&#8207;[[H0383\|אִיתַ֞י]]&#8207; </big>**| 'i.Tai<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] men  |**<big>&#8207;[[H1400\|גֻּבְרִ֣ין]]&#8207; </big>**| guv.Rin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

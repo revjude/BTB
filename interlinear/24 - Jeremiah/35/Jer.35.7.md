@@ -1,4 +1,4 @@
-**Jeremiah 35:7** 
+**Jeremiah 35:7**<big><big>[[Jer.35.1 The Obedience of the Rechabites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall ye build house, nor sow seed, nor plant vineyard, nor have [any]: but all your days ye shall dwell in tents; that ye may live many days in the land where ye [be] strangers.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nor are you ever to build a house or sow seed or plant a vineyard. Those things 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.6|<< Jeremiah 35:6]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.8|Jeremiah 35:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a house  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1004M\|בַ֣יִת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Va.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

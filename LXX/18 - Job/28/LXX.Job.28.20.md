@@ -1,10 +1,7 @@
 **LXX Job 28:20** 
 <small><sub>**LXX:**</sub></small>
 But concerning wisdom, from what place shall she be found? and of what kind of place is  understanding? 
-<small><sub>**KJV:**</sub></small>
-Whence then cometh wisdom? and where [is] the place of understanding?
-<small><sub>**BSB:**</sub></small>
-From where, then, does wisdom come, and where does understanding dwell?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.28.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.28.19|<< Job 28:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.28.21|Job 28:21 >>]]</td></tr></table>
 
 | Translation | Greek |

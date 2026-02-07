@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:21** 
 <small><sub>**LXX:**</sub></small>
 And it will be in the sleeping  of my master the king with  his fathers, that I will be myself and Solomon  your son as sinners. 
-<small><sub>**KJV:**</sub></small>
-Otherwise it shall come to pass, when my lord the king shall sleep with his fathers, that I and my son Solomon shall be counted offenders.
-<small><sub>**BSB:**</sub></small>
-Otherwise, when my lord the king rests with his fathers, I and my son Solomon will be counted as criminals.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.20|<< 1 Kings 1:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.22|1 Kings 1:22 >>]]</td></tr></table>
 
 | Translation | Greek |

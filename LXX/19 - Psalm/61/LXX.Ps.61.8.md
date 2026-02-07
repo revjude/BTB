@@ -1,10 +1,7 @@
 **LXX Psalm 61:8** 
 <small><sub>**LXX:**</sub></small>
 Thus I shall strum \[to\] your name into the eons,  for me to render  my vows day by day. 
-<small><sub>**KJV:**</sub></small>
-So will I sing praise unto thy name for ever, that I may daily perform my vows.
-<small><sub>**BSB:**</sub></small>
-Then I will ever sing praise to Your name and fulfill my vows day by day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.61.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.61.7|<< Psalm 61:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.62.1|Psalm 62:1 >>]]</td></tr></table>
 
 | Translation | Greek |

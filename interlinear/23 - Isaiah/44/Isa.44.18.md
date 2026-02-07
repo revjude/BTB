@@ -1,4 +1,4 @@
-**Isaiah 44:18** 
+**Isaiah 44:18**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have not known nor understood: for he hath shut their eyes, that they cannot see; [and] their hearts, that they cannot understand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They do not comprehend or discern, for He has shut their eyes so they cannot see
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.17|<< Isaiah 44:17]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.19|Isaiah 44:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they know  |**<big>&#8207;[[H3045\|יָדְע֖וּ]]&#8207; </big>**| ya.de.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

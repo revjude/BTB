@@ -1,4 +1,4 @@
-**2 Chronicles 19:7** 
+**2 Chronicles 19:7**<big><big>[[2Chr.19.4 Jehoshaphat’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore now let the fear of the LORD be upon you; take heed and do [it]: for [there is] no iniquity with the LORD our God, nor respect of persons, nor taking of gifts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And now, may the fear of the LORD be upon you. Be careful what you do, for with 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.6|<< 2 Chronicles 19:6]]</td><td align="center" style="border:none;">[[2Chr.19|2 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19.8|2 Chronicles 19:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֕ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let it be  |**<big>&#8207;[[H1961\|יְהִ֥י]]&#8207; </big>**| ye.Hi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

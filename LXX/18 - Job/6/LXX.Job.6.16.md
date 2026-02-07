@@ -1,10 +1,7 @@
 **LXX Job 6:16** 
 <small><sub>**LXX:**</sub></small>
 The ones who revered me, now fall upon me as if snow or ice banked up, 
-<small><sub>**KJV:**</sub></small>
-Which are blackish by reason of the ice, [and] wherein the snow is hid:
-<small><sub>**BSB:**</sub></small>
-darkened because of the ice and the inflow of melting snow,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.6.15|<< Job 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.6.17|Job 6:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Judges 3:3** 
+**Judges 3:3**<big><big>[[Judg.3.1 Nations Left to Test Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Namely], five lords of the Philistines, and all the Canaanites, and the Sidonians, and the Hivites that dwelt in mount Lebanon, from mount Baalhermon unto the entering in of Hamath.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the five rulers of the Philistines, all the Canaanites, the Sidonians, and the H
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.2|<< Judges 3:2]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.4|Judges 3:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] five  |**<big>&#8207;[[H2568\|חֲמֵ֣שֶׁת]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| cha.Me.shet<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] rulers of  |**<big>&#8207;[[H5633A\|סַרְנֵ֣י]]&#8207; </big>**| sar.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

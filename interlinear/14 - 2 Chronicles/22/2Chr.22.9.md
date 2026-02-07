@@ -1,4 +1,4 @@
-**2 Chronicles 22:9** 
+**2 Chronicles 22:9**<big><big>[[2Chr.22.8 Jehu Kills the Princes of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he [is] the son of Jehoshaphat, who sought the LORD with all his heart. So the house of Ahaziah had no power to keep still the kingdom.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Jehu looked for Ahaziah, and Jehu’s soldiers captured him while he was hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.22.8|<< 2 Chronicles 22:8]]</td><td align="center" style="border:none;">[[2Chr.22|2 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22.10|2 Chronicles 22:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sought to find  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1245\|יְבַקֵּשׁ֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.va.Kesh<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

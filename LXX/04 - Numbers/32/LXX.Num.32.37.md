@@ -1,10 +1,7 @@
 **LXX Numbers 32:37** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Reuben built  Heshbon, and  Elealeh, and  Kirjathaim, 
-<small><sub>**KJV:**</sub></small>
-And the children of Reuben built Heshbon, and Elealeh, and Kirjathaim,
-<small><sub>**BSB:**</sub></small>
-The Reubenites built up Heshbon, Elealeh, Kiriathaim,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.36|<< Numbers 32:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.38|Numbers 32:38 >>]]</td></tr></table>
 
 | Translation | Greek |

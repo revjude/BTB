@@ -1,4 +1,4 @@
-**Psalms 8:7** (8:8)
+**Psalms 8:7**<big><big>[[Ps.8.1 How Majestic Is Your Name!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All sheep and oxen, yea, and the beasts of the field;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ all sheep and oxen, and even the beasts of the field,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.8.6|<< Psalms 8:6]]</td><td align="center" style="border:none;">[[Ps.8|Psalms 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.8.8|Psalms 8:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | sheep  |**<big>&#8207;[[H6792\|צֹנֶ֣ה]]&#8207; </big>**| tzo.Neh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and cattle\<s>  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0504\|אֲלָפִ֣ים]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.la.Fim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

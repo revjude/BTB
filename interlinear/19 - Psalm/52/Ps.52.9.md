@@ -1,4 +1,4 @@
-**Psalms 52:9** (52:11)
+**Psalms 52:9**<big><big>[[Ps.52.1 Why Do You Boast of Evil？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will praise thee for ever, because thou hast done [it]: and I will wait on thy name; for [it is] good before thy saints.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will praise You forever, because You have done it. I will wait on Your name—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.52.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.52.8|<< Psalms 52:8]]</td><td align="center" style="border:none;">[[Ps.52|Psalms 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.53.0|Psalms 53:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will give thanks to you  |**<big>&#8207;[[H3034\|אוֹדְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| 'od.<small><sup>[[HVhi1cs]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for ever  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H5769G\|עוֹלָם]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> 'o.lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

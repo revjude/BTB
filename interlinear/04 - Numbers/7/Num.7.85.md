@@ -1,4 +1,4 @@
-**Numbers 7:85** 
+**Numbers 7:85**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Each charger of silver [weighing] an hundred and thirty [shekels], each bowl seventy: all the silver vessels [weighed] two thousand and four hundred [shekels], after the shekel of the sanctuary:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each silver platter weighed a hundred and thirty shekels, and each silver bowl s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.85|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.84|<< Numbers 7:84]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.86|Numbers 7:86 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [was] thirty  |**<big>&#8207;[[H7970\|שְׁלֹשִׁ֣ים]]&#8207; </big>**| she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and one hundred  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H3967\|מֵאָ֗ה]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.'Ah<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

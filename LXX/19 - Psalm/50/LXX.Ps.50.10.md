@@ -1,10 +1,7 @@
 **LXX Psalm 50:10** 
 <small><sub>**LXX:**</sub></small>
 For it is all mine -- the wild beasts of the field, \[the\] cattle on the mountains, and oxen. 
-<small><sub>**KJV:**</sub></small>
-For every beast of the forest [is] mine, [and] the cattle upon a thousand hills.
-<small><sub>**BSB:**</sub></small>
-for every beast of the forest is Mine—the cattle on a thousand hills.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.50.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.9|<< Psalm 50:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.11|Psalm 50:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Isaiah 35:10** 
 <small><sub>**LXX:**</sub></small>
 even ones being gathered together by \[the\] <span class="smallcaps">lord</span>. And they shall return, and shall come to Zion with gladness; even eternal gladness \[is\] upon their head. For upon  their head \[is\] praise and a leap for joy. And gladness shall overtake them; grief and distress and moaning ran away. 
-<small><sub>**KJV:**</sub></small>
-And the ransomed of the LORD shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away.
-<small><sub>**BSB:**</sub></small>
-So the redeemed of the LORD will return and enter Zion with singing, crowned with everlasting joy. Gladness and joy will overtake them, and sorrow and sighing will flee.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.35.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.35.9|<< Isaiah 35:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.36.1|Isaiah 36:1 >>]]</td></tr></table>
 
 | Translation | Greek |

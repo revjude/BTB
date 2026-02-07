@@ -1,10 +1,7 @@
 **LXX Esther 3:4** 
 <small><sub>**LXX:**</sub></small>
 Accordingly each day they spoke to him, and he did not hearken to them; and they indicated  to Haman \[that\] Mordecai was rebelling against \[the\] words of the king; and Mordecai indicated to them that he is a Jew. 
-<small><sub>**KJV:**</sub></small>
-Now it came to pass, when they spake daily unto him, and he hearkened not unto them, that they told Haman, to see whether Mordecai’s matters would stand: for he had told them that he [was] a Jew.
-<small><sub>**BSB:**</sub></small>
-Day after day they warned him, but he would not comply. So they reported it to Haman to see whether Mordecai’s behavior would be tolerated, since he had told them he was a Jew.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.3.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.3.3|<< Esther 3:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.5|Esther 3:5 >>]]</td></tr></table>
 
 | Translation | Greek |

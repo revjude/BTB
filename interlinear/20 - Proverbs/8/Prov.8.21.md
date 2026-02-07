@@ -1,4 +1,4 @@
-**Proverbs 8:21** 
+**Proverbs 8:21**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I may cause those that love me to inherit substance; and I will fill their treasures.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ bestowing wealth on those who love me and making their treasuries full.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.20|<< Proverbs 8:20]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.22|Proverbs 8:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to give as an inheritance  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5157\|הַנְחִ֖יל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> han.Chil<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [those who] love me  |**<big>&#8207;[[H0157G\|אֹהֲבַ֥]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'o.ha.Va<small><sup>[[HVqrmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

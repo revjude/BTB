@@ -1,12 +1,12 @@
-**Luke 6:45
-**<small><sub>**KJV:**</sub></small>
+**Luke 6:45**<big><big>[[Luke.6.43 A Tree and Its Fruit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 A good man out of the good treasure of his heart bringeth forth that which is good; and an evil man out of the evil treasure of his heart bringeth forth that which is evil: for of the abundance of the heart his mouth speaketh.
 <small><sub>**BSB:**</sub></small>
 The good man brings good things out of the good treasure of his heart, and the evil man brings evil things out of the evil treasure of his heart. For out of the overflow of the heart the mouth speaks.
 <small><sub>**Literal:**</sub></small>
 The good man out of the good treasure of the [his] heart of him brings forth that which [is] good, and the evil man out of the evil treasure the heart his own brings forth that which [is] evil; Out of for of the overflow <the> of his heart speaks the mouth of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.44|<< Luke 6:44]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.46|Luke 6:46 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | good |**<big>[[G0018\|ἀγαθὸς]]</big>**  |agathos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ecclesiastes 1:16** 
 <small><sub>**LXX:**</sub></small>
 I spoke in my heart  to say, Behold, I was magnified, and was added wisdom over all who came before me in Jerusalem. And I give my heart  to know wisdom and knowledge. 
-<small><sub>**KJV:**</sub></small>
-I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all [they] that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.
-<small><sub>**BSB:**</sub></small>
-I said to myself, “Behold, I have grown and increased in wisdom beyond all those before me who were over Jerusalem, and my mind has observed a wealth of wisdom and knowledge.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Eccl.1.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.1.15|<< Ecclesiastes 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.1.17|Ecclesiastes 1:17 >>]]</td></tr></table>
 
 | Translation | Greek |

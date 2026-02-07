@@ -1,4 +1,4 @@
-**Psalms 22:17** (22:18)
+**Psalms 22:17**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I may tell all my bones: they look [and] stare upon me.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I can count all my bones; they stare and gloat over me.
 > $\quad$ referenced by: [[Matt.26.24|Matt 26:24]] ☩ [[1Cor.15.3|1Cor 15:3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I count  |**<big>&#8207;[[H5608A\|אֲסַפֵּ֥ר]]&#8207; </big>**| 'a.sa.Per<small><sup>[[HVpi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

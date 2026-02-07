@@ -1,10 +1,7 @@
 **LXX Job 30:18** 
 <small><sub>**LXX:**</sub></small>
 With great strength it took hold of my  robe; as the cleft  of my garment it compassed me. 
-<small><sub>**KJV:**</sub></small>
-By the great force [of my disease] is my garment changed: it bindeth me about as the collar of my coat.
-<small><sub>**BSB:**</sub></small>
-With great force He grasps my garment; He seizes me by the collar of my tunic.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.17|<< Job 30:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.19|Job 30:19 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 41:11** 
+**Ezekiel 41:11**<big><big>[[Ezek.41.5 Outside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the doors of the side chambers [were] toward [the place that was] left, one door toward the north, and another door toward the south: and the breadth of the place that was left [was] five cubits round about.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The side rooms opened into this area, with one entrance on the north and another
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.10|<< Ezekiel 41:10]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.12|Ezekiel 41:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] entrance of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6607\|פֶ֤תַח]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Fe.tach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the side-chamber  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6763\|צֵּלָע֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tze.La'<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

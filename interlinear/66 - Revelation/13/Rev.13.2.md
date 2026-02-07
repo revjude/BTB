@@ -1,5 +1,5 @@
-**Revelation 13:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 13:2**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the beast which I saw was like unto a leopard, and his feet were as [the feet] of a bear, and his mouth as the mouth of a lion: and the dragon gave him his power, and his seat, and great authority.
 <small><sub>**BSB:**</sub></small>
 The beast I saw was like a leopard, with the feet of a bear and the mouth of a lion. And the dragon gave the beast his power and his throne and great authority.
@@ -10,7 +10,7 @@ And the beast that I saw was like as a leopard and the feet of it like a bear’
 > $\quad$ alluding to: [[LXX.Dan.7.5|Dan 7:5-6]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

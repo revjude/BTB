@@ -1,10 +1,7 @@
 **LXX Nehemiah 13:26** 
 <small><sub>**LXX:**</sub></small>
 Did not Solomon king of Israel thus sin? and among many nations there was not a king likened to him, and he was one being loved by God, and God appointed him as king over all Israel, and in this the alien wives turned \[him\] aside. 
-<small><sub>**KJV:**</sub></small>
-Did not Solomon king of Israel sin by these things? yet among many nations was there no king like him, who was beloved of his God, and God made him king over all Israel: nevertheless even him did outlandish women cause to sin.
-<small><sub>**BSB:**</sub></small>
-Did not King Solomon of Israel sin in matters like this? There was not a king like him among many nations, and he was loved by his God, who made him king over all Israel—yet foreign women drew him into sin.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.13.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.25|<< Nehemiah 13:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.27|Nehemiah 13:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Zechariah 2:13** (2:17)
+**Zechariah 2:13**<big><big>[[Zech.2.6 The Redemption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be silent, O all flesh, before the LORD: for he is raised up out of his holy habitation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be silent before the LORD, all people, for He has roused Himself from His holy d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.12|<< Zechariah 2:12]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.3.1|Zechariah 3:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hush!  |**<big>&#8207;[[H2013\|הַ֥ס]]&#8207; </big>**| has<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

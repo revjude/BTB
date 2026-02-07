@@ -1,4 +1,4 @@
-**Nehemiah 1:10** 
+**Nehemiah 1:10**<big><big>[[Neh.1.1 Nehemiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are Your servants and Your people. You redeemed them by Your great power an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.9|<< Nehemiah 1:9]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.11|Nehemiah 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1992\|הֵ֥ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] servants your  |**<big>&#8207;[[H5650\|עֲבָדֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'a.va.Dei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

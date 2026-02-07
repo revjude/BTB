@@ -1,4 +1,4 @@
-**Deuteronomy 30:6** 
+**Deuteronomy 30:6**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD thy God will circumcise thine heart, and the heart of thy seed, to love the LORD thy God with all thine heart, and with all thy soul, that thou mayest live.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD your God will circumcise your hearts and the hearts of your descendants
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.5|<< Deuteronomy 30:5]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.7|Deuteronomy 30:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will circumcise  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4135A\|מָ֨ל]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> Mal<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֧ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

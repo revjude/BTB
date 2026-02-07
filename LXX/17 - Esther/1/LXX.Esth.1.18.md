@@ -1,10 +1,7 @@
 **LXX Esther 1:18** 
 <small><sub>**LXX:**</sub></small>
 so today, the wives of the sovereigns of the rest of the rulers of \[the\] Persians and Medes hearing the \[things\] having been said against the king by her, they shall dare in like manner to dishonor  their husbands. 
-<small><sub>**KJV:**</sub></small>
-[Likewise] shall the ladies of Persia and Media say this day unto all the king’s princes, which have heard of the deed of the queen. Thus [shall there arise] too much contempt and wrath.
-<small><sub>**BSB:**</sub></small>
-This very day the noble women of Persia and Media who have heard about the queen’s conduct will say the same thing to all the king’s officials, resulting in much contempt and wrath.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.1.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.1.17|<< Esther 1:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.1.19|Esther 1:19 >>]]</td></tr></table>
 
 | Translation | Greek |

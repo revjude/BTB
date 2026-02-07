@@ -1,10 +1,7 @@
 **LXX Numbers 18:3** 
 <small><sub>**LXX:**</sub></small>
 And they shall guard  your watches, and the watches of the tent; except for the items of the holies and for the altar they shall not draw near, so that they shall not die, even these and you. 
-<small><sub>**KJV:**</sub></small>
-And they shall keep thy charge, and the charge of all the tabernacle: only they shall not come nigh the vessels of the sanctuary and the altar, that neither they, nor ye also, die.
-<small><sub>**BSB:**</sub></small>
-And they shall attend to your duties and to all the duties of the Tent; but they must not come near to the furnishings of the sanctuary or the altar, or both they and you will die.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.18.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.18.2|<< Numbers 18:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.18.4|Numbers 18:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezekiel 26:16** 
+**Ezekiel 26:16**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then all the princes of the sea shall come down from their thrones, and lay away their robes, and put off their broidered garments: they shall clothe themselves with trembling; they shall sit upon the ground, and shall tremble at [every] moment, and be astonished at thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the princes of the sea will descend from their thrones, remove their robes, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.15|<< Ezekiel 26:15]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.17|Ezekiel 26:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will go down  |**<big>&#8207;[[H9001\|וְֽ]]&#8207;&#8207;[[H3381\|יָרְד֞וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ya.re.Du<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from on  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עַ֣ל]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'Al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

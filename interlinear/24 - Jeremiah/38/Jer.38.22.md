@@ -1,4 +1,4 @@
-**Jeremiah 38:22** 
+**Jeremiah 38:22**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, all the women that are left in the king of Judah’s house [shall be] brought forth to the king of Babylon’s princes, and those [women] shall say, Thy friends have set thee on, and have prevailed against thee: thy feet are sunk in the mire, [and] they are turned away back.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the women who remain in the palace of the king of Judah will be brought out 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.21|<< Jeremiah 38:21]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.23|Jeremiah 38:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Proverbs 11:21** 
 <small><sub>**LXX:**</sub></small>
 \[The\] one putting hands unjustly against a hand be not unpunished of evils; but the one sowing righteousness shall receive a trustworthy wage. 
-<small><sub>**KJV:**</sub></small>
-[Though] hand [join] in hand, the wicked shall not be unpunished: but the seed of the righteous shall be delivered.
-<small><sub>**BSB:**</sub></small>
-Be assured that the wicked will not go unpunished, but the offspring of the righteous will escape.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.11.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.11.20|<< Proverbs 11:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.11.22|Proverbs 11:22 >>]]</td></tr></table>
 
 | Translation | Greek |

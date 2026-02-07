@@ -1,10 +1,7 @@
 **LXX Jeremiah 28:6** 
 <small><sub>**LXX:**</sub></small>
 and Jeremiah said, Truly, thus may \[the\] <span class="smallcaps">lord</span> do, \[the\] <span class="smallcaps">lord</span> establish  your word which you prophesy  to return the items of \[the\] house of \[the\] <span class="smallcaps">lord</span>, and all the resettlement from out of Babylon to  this place. 
-<small><sub>**KJV:**</sub></small>
-Even the prophet Jeremiah said, Amen: the LORD do so: the LORD perform thy words which thou hast prophesied, to bring again the vessels of the LORD’S house, and all that is carried away captive, from Babylon into this place.
-<small><sub>**BSB:**</sub></small>
-“Amen!” Jeremiah said. “May the LORD do so! May the LORD fulfill the words you have prophesied, and may He restore the articles of His house and all the exiles back to this place from Babylon.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.28.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.28.5|<< Jeremiah 28:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.7|Jeremiah 28:7 >>]]</td></tr></table>
 
 | Translation | Greek |

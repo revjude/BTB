@@ -1,10 +1,7 @@
 **LXX Job 9:29** 
 <small><sub>**LXX:**</sub></small>
 But since I am impious, for why \[is\] this I labor in vain? 
-<small><sub>**KJV:**</sub></small>
-[If] I be wicked, why then labour I in vain?
-<small><sub>**BSB:**</sub></small>
-Since I am already found guilty, why should I labor in vain?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.28|<< Job 9:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.30|Job 9:30 >>]]</td></tr></table>
 
 | Translation | Greek |

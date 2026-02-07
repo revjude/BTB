@@ -1,10 +1,7 @@
 **LXX Daniel 7:23** 
 <small><sub>**LXX:**</sub></small>
 And he said, The fourth wild beast will be a fourth kingdom on the earth, which shall excel all the kingdoms, and shall devour all the earth, and shall trample upon it and cut it in pieces. 
-<small><sub>**KJV:**</sub></small>
-Thus he said, The fourth beast shall be the fourth kingdom upon earth, which shall be diverse from all kingdoms, and shall devour the whole earth, and shall tread it down, and break it in pieces.
-<small><sub>**BSB:**</sub></small>
-This is what he said: ‘The fourth beast is a fourth kingdom that will appear on the earth, different from all the other kingdoms, and it will devour the whole earth, trample it down, and crush it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.22|<< Daniel 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.24|Daniel 7:24 >>]]</td></tr></table>
 
 | Translation | Greek |

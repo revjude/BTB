@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Announce in  Judah, and hearken in Jerusalem! Say! Signify with a trumpet unto the land! Cry out great! Say! Be gathered together! and, We should enter into the walled cities. 
-<small><sub>**KJV:**</sub></small>
-Declare ye in Judah, and publish in Jerusalem; and say, Blow ye the trumpet in the land: cry, gather together, and say, Assemble yourselves, and let us go into the defenced cities.
-<small><sub>**BSB:**</sub></small>
-Announce in Judah, proclaim in Jerusalem, and say: “Blow the ram’s horn throughout the land. Cry aloud and say, ‘Assemble yourselves and let us flee to the fortified cities.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.4|<< Jeremiah 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.6|Jeremiah 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

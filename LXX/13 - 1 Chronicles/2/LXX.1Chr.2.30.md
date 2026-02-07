@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 2:30** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Nadab -- Seled and Appaim. And Seled died not having children. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Nadab; Seled, and Appaim: but Seled died without children.
-<small><sub>**BSB:**</sub></small>
-The sons of Nadab: Seled and Appaim. Seled died without children.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.2.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.2.29|<< 1 Chronicles 2:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.2.31|1 Chronicles 2:31 >>]]</td></tr></table>
 
 | Translation | Greek |

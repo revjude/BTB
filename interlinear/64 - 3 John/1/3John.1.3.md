@@ -1,12 +1,12 @@
-**3 John 1:3
-**<small><sub>**KJV:**</sub></small>
+**3 John 1:3**<big><big>[[3John.1.1 A Greeting from the Elder|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For I rejoiced greatly, when the brethren came and testified of the truth that is in thee, even as thou walkest in the truth.
 <small><sub>**BSB:**</sub></small>
 For I was overjoyed when the brothers came and testified about your devotion to the truth, in which you continue to walk.
 <small><sub>**Literal:**</sub></small>
 I rejoiced for exceedingly when were coming [the] brothers and those bearing witness from you to the to truth, even as you yourself in truth are walking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.2|<< 3 John 1:2]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.4|3 John 1:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I rejoiced |**<big>[[G5463\|ἐχάρην]]</big>**  |echarēn <small><sup>[[V-2AOI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

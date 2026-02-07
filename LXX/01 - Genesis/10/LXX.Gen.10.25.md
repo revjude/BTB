@@ -1,10 +1,7 @@
 **LXX Genesis 10:25** 
 <small><sub>**LXX:**</sub></small>
 And  to Eber were born two sons, \[the\] name \[given\] to the one \[was\] Peleg; for in  his days the earth was divided into parts; and \[the\] name  of his brother \[was\] Joktan. 
-<small><sub>**KJV:**</sub></small>
-And unto Eber were born two sons: the name of one [was] Peleg; for in his days was the earth divided; and his brother’s name [was] Joktan.
-<small><sub>**BSB:**</sub></small>
-Two sons were born to Eber: One was named Peleg, because in his days the earth was divided, and his brother was named Joktan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.10.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.10.24|<< Genesis 10:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.26|Genesis 10:26 >>]]</td></tr></table>
 
 | Translation | Greek |

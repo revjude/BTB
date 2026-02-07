@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 20:37** 
 <small><sub>**LXX:**</sub></small>
 And Eliezer the \[son of\] Dodavah from Mareshah prophesied against Jehoshaphat, saying, As you participated with  Ahaziah, \[the\] <span class="smallcaps">lord</span> cut through  your works, and your boats were broken, and they were not able  to go into Tarshish. 
-<small><sub>**KJV:**</sub></small>
-Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the LORD hath broken thy works. And the ships were broken, that they were not able to go to Tarshish.
-<small><sub>**BSB:**</sub></small>
-Then Eliezer son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying, “Because you have allied yourself with Ahaziah, the LORD has destroyed your works.” So the ships were wrecked and were unable to sail to Tarshish.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.20.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.36|<< 2 Chronicles 20:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.1|2 Chronicles 21:1 >>]]</td></tr></table>
 
 | Translation | Greek |

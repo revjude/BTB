@@ -1,4 +1,4 @@
-**Jeremiah 49:21** 
+**Jeremiah 49:21**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth is moved at the noise of their fall, at the cry the noise thereof was heard in the Red sea.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the sound of their fall the earth will quake; their cry will resound to the R
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.20|<< Jeremiah 49:20]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.22|Jeremiah 49:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] sound of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6963H\|קּ֣וֹל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | falling they  |**<big>&#8207;[[H5307J\|נִפְלָ֔]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| nif.La<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

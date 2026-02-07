@@ -1,12 +1,12 @@
-**1 Thessalonians 1:2
-**<small><sub>**KJV:**</sub></small>
+**1 Thessalonians 1:2**<big><big>[[1Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We give thanks to God always for you all, making mention of you in our prayers;
 <small><sub>**BSB:**</sub></small>
 We always thank God for all of you, remembering you in our prayers
 <small><sub>**Literal:**</sub></small>
 We give thanks <the> to God always concerning all of you mention of you making in the prayers of us, [3] unceasingly<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.1|<< 1 Thessalonians 1:1]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.3|1 Thessalonians 1:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | We give thanks |**<big>[[G2168\|Εὐχαριστοῦμεν]]</big>**  |Eucharistoumen <small><sup>[[V-PAI-1P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

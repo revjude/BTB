@@ -1,10 +1,7 @@
 **LXX Judges 19:28** 
 <small><sub>**LXX:**</sub></small>
 And he said to her, Rise up, for we should go forth! And she did not answer to him for she had died. And he lifted her upon the beast of burden, and the man rose up and went forth to  his place. 
-<small><sub>**KJV:**</sub></small>
-And he said unto her, Up, and let us be going. But none answered. Then the man took her [up] upon an ass, and the man rose up, and gat him unto his place.
-<small><sub>**BSB:**</sub></small>
-“Get up,” he told her. “Let us go.” But there was no response. So the man put her on his donkey and set out for home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.19.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.19.27|<< Judges 19:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.19.29|Judges 19:29 >>]]</td></tr></table>
 
 | Translation | Greek |

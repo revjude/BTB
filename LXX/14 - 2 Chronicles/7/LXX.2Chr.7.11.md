@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 7:11** 
 <small><sub>**LXX:**</sub></small>
 And Solomon completed the house of \[the\] <span class="smallcaps">lord</span>, and the house of the king. And all as much as Solomon wanted in  his soul to do with \[the\] house of \[the\] <span class="smallcaps">lord</span>, and in  his house, he was prospered. 
-<small><sub>**KJV:**</sub></small>
-Thus Solomon finished the house of the LORD, and the king’s house: and all that came into Solomon’s heart to make in the house of the LORD, and in his own house, he prosperously effected.
-<small><sub>**BSB:**</sub></small>
-When Solomon had finished the house of the LORD and the royal palace, successfully carrying out all that was in his heart to do for the house of the LORD and for his own palace,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.10|<< 2 Chronicles 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.12|2 Chronicles 7:12 >>]]</td></tr></table>
 
 | Translation | Greek |

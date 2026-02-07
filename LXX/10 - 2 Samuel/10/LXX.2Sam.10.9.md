@@ -1,10 +1,7 @@
 **LXX 2 Samuel 10:9** 
 <small><sub>**LXX:**</sub></small>
 And Joab beheld that it came to pass that the war \[was\] facing him from the face right opposite, and from the rear. And he chose from out of all the young men of Israel, and deployed right opposite Syria. 
-<small><sub>**KJV:**</sub></small>
-When Joab saw that the front of the battle was against him before and behind, he chose of all the choice [men] of Israel, and put [them] in array against the Syrians:
-<small><sub>**BSB:**</sub></small>
-When Joab saw the battle lines before him and behind him, he selected some of the best men of Israel and arrayed them against the Arameans.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.10.8|<< 2 Samuel 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.10.10|2 Samuel 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

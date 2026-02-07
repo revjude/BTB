@@ -1,10 +1,7 @@
 **LXX Genesis 2:9** 
 <small><sub>**LXX:**</sub></small>
 And God caused to rise up yet from the earth every beautiful tree to \[the\] sight, and good for food, and the tree  of life in \[the\] midst of the paradise, and the tree, the one to know knowing good and evil. 
-<small><sub>**KJV:**</sub></small>
-And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil.
-<small><sub>**BSB:**</sub></small>
-Out of the ground the LORD God gave growth to every tree that is pleasing to the eye and good for food. And in the middle of the garden were the tree of life and the tree of the knowledge of good and evil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.2.8|<< Genesis 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.2.10|Genesis 2:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Genesis 2:9** is...

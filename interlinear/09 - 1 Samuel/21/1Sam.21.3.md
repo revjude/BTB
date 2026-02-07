@@ -1,4 +1,4 @@
-**1 Samuel 21:3** (21:4)
+**1 Samuel 21:3**<big><big>[[1Sam.21.1 David Takes the Consecrated Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore what is under thine hand? give [me] five [loaves of] bread in mine hand, or what there is present.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now then, what do you have on hand? Give me five loaves of bread, or whatever ca
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.21.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.2|<< 1 Samuel 21:2]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.4|1 Samuel 21:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

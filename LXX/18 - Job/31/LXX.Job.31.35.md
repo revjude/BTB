@@ -1,10 +1,7 @@
 **LXX Job 31:35** 
 <small><sub>**LXX:**</sub></small>
 (oh that there might be given one to hear me), but unless I was in awe of \[the\] hand \[of the\] <span class="smallcaps">lord</span>; and as to a writ which I had against anyone, 
-<small><sub>**KJV:**</sub></small>
-Oh that one would hear me! behold, my desire [is, that] the Almighty would answer me, and [that] mine adversary had written a book.
-<small><sub>**BSB:**</sub></small>
-(Oh, that I had one to hear me! Here is my signature. Let the Almighty answer me; let my accuser compose an indictment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.31.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.31.34|<< Job 31:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.31.36|Job 31:36 >>]]</td></tr></table>
 
 | Translation | Greek |

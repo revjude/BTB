@@ -1,4 +1,4 @@
-**2 Samuel 19:37** (19:38)
+**2 Samuel 19:37**<big><big>[[2Sam.19.31 David’s Kindness to Barzillai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let thy servant, I pray thee, turn back again, that I may die in mine own city, [and be buried] by the grave of my father and of my mother. But behold thy servant Chimham; let him go over with my lord the king; and do to him what shall seem good unto thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Please let your servant return, that I may die in my own city near the tomb of m
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.36|<< 2 Samuel 19:36]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.38|2 Samuel 19:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let him return  |**<big>&#8207;[[H7725G\|יָֽשָׁב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ya.shov-<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֤א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

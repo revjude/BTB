@@ -1,5 +1,5 @@
-**Hebrews 12:26
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:26**<big><big>[[Heb.12.18 An Unshakable Kingdom|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Whose voice then shook the earth: but now he hath promised, saying, Yet once more I shake not the earth only, but also heaven.
 <small><sub>**BSB:**</sub></small>
 At that time His voice shook the earth, but now He has promised, “Once more I will shake not only the earth, but heaven as well.”
@@ -10,7 +10,7 @@ whose <the> voice the earth shook at that time, now however He has promised sayi
 > $\quad$ referencing: [[LXX.Hag.2.6|Hag 2:6]] ☩ [[LXX.Hag.2.21|Hag 2:21]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | whose |**<big>[[G3739\|οὗ]]</big>**  |hou <small><sup>[[R-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ἡ]]</big>**  |hē <small><sup>[[T-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

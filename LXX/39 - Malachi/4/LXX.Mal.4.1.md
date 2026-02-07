@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 For behold, a day comes burning as an oven; and it shall blaze against them, and all the foreigners will be, and all \[the\] ones doing lawless deeds, as stubble. And the day coming shall light them, says \[the\] <span class="smallcaps">lord</span> of \[the\] forces; and in no way shall there be left of them root nor vine branch. 
-<small><sub>**KJV:**</sub></small>
-For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the LORD of hosts, that it shall leave them neither root nor branch.
-<small><sub>**BSB:**</sub></small>
-“For behold, the day is coming, burning like a furnace, when all the arrogant and every evildoer will be stubble; the day is coming when I will set them ablaze,” says the LORD of Hosts. “Not a root or branch will be left to them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.4.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.18|<< Malachi 3:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.4.2|Malachi 4:2 >>]]</td></tr></table>
 
 | Translation | Greek |

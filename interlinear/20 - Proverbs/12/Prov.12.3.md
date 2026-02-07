@@ -1,4 +1,4 @@
-**Proverbs 12:3** 
+**Proverbs 12:3**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man shall not be established by wickedness: but the root of the righteous shall not be moved.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ A man cannot be established through wickedness, but the righteous cannot be upro
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.2|<< Proverbs 12:2]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.4|Proverbs 12:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he is established  |**<big>&#8207;[[H3559H\|יִכּ֣וֹן]]&#8207; </big>**| yi.Kon<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

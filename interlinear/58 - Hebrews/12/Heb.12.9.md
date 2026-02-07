@@ -1,5 +1,5 @@
-**Hebrews 12:9
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 12:9**<big><big>[[Heb.12.4 God Disciplines His Sons|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Furthermore we have had fathers of our flesh which corrected [us], and we gave [them] reverence: shall we not much rather be in subjection unto the Father of spirits, and live?
 <small><sub>**BSB:**</sub></small>
 Furthermore, we have all had earthly fathers who disciplined us, and we respected them. Should we not much more submit to the Father of our spirits and live?
@@ -10,7 +10,7 @@ Furthermore <the> indeed of the flesh of us fathers we were having correctors an
 > $\quad$ possibly alluding to: [[LXX.Num.27.16|Num 27:16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Furthermore |**<big>[[G1534\|εἶτα]]</big>**  |eita <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τοὺς]]</big>**  |tous <small><sup>[[T-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it was reported  to Solomon, saying that, Joab has fled into the tent of the <span class="smallcaps">lord</span>, and behold, he holds the horns of the altar. And Solomon sent  Benaiah son of Jehoiada, saying, Go, and do away with him! 
-<small><sub>**KJV:**</sub></small>
-And it was told king Solomon that Joab was fled unto the tabernacle of the LORD; and, behold, [he is] by the altar. Then Solomon sent Benaiah the son of Jehoiada, saying, Go, fall upon him.
-<small><sub>**BSB:**</sub></small>
-It was reported to King Solomon: “Joab has fled to the tent of the LORD and is now beside the altar.” So Solomon sent Benaiah son of Jehoiada, saying, “Go, strike him down!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.28|<< 1 Kings 2:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.30|1 Kings 2:30 >>]]</td></tr></table>
 
 | Translation | Greek |

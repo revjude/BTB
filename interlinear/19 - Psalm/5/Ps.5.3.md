@@ -1,4 +1,4 @@
-**Psalms 5:3** (5:4)
+**Psalms 5:3**<big><big>[[Ps.5.1 Give Ear to My Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My voice shalt thou hear in the morning, O LORD; in the morning will I direct [my prayer] unto thee, and will look up.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the morning, O LORD, You hear my voice; at daybreak I lay my plea before You 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.2|<< Psalms 5:2]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.4|Psalms 5:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְֽהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | morning  |**<big>&#8207;[[H1242\|בֹּ֭קֶר]]&#8207; </big>**| Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

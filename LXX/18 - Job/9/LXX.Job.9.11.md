@@ -1,10 +1,7 @@
 **LXX Job 9:11** 
 <small><sub>**LXX:**</sub></small>
 If he should pass over me, in no way shall I behold \[it\]; and if he should go by me, neither \[thus\] I knew \[it\]. 
-<small><sub>**KJV:**</sub></small>
-Lo, he goeth by me, and I see [him] not: he passeth on also, but I perceive him not.
-<small><sub>**BSB:**</sub></small>
-Were He to pass by me, I would not see Him; were He to move, I would not recognize Him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.9.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.9.10|<< Job 9:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.9.12|Job 9:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And \[to\] Naomi \[was\] a male acquaintance \[to\] her husband, and the man was mighty in strength of the kin of Elimelech; and \[the\] name to him \[was\] Boaz. 
-<small><sub>**KJV:**</sub></small>
-And Naomi had a kinsman of her husband’s, a mighty man of wealth, of the family of Elimelech; and his name [was] Boaz.
-<small><sub>**BSB:**</sub></small>
-Now Naomi had a relative on her husband’s side, a prominent man of noble character from the clan of Elimelech, whose name was Boaz.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.1.22|<< Ruth 1:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.2.2|Ruth 2:2 >>]]</td></tr></table>
 
 | Translation | Greek |

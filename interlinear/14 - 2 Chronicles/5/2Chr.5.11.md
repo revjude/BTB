@@ -1,4 +1,4 @@
-**2 Chronicles 5:11** 
+**2 Chronicles 5:11**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the priests were come out of the holy [place]: (for all the priests [that were] present were sanctified, [and] did not [then] wait by course:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now all the priests who were present had consecrated themselves regardless of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.10|<< 2 Chronicles 5:10]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.12|2 Chronicles 5:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֕י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when came out  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3318G\|צֵ֥את]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Tzet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

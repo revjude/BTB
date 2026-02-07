@@ -1,4 +1,4 @@
-**1 Samuel 23:6** 
+**1 Samuel 23:6**<big><big>[[1Sam.23.1 David Delivers Keilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Abiathar the son of Ahimelech fled to David to Keilah, [that] he came down [with] an ephod in his hand.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And it came to pass, when Abiathar the son of Ahimelech fled to David to Keilah,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.5|<< 1 Samuel 23:5]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.7|1 Samuel 23:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when fled  |**<big>&#8207;[[H9003\|בִּ֠]]&#8207;&#8207;[[H1272\|בְרֹחַ]]&#8207; </big>**| Bi<small><sup>[[HR]]</sup></small> v.ro.ach<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**John 1:9
-**<small><sub>**KJV:**</sub></small>
+**John 1:9**<big><big>[[John.1.6 The Witness of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [That] was the true Light, which lighteth every man that cometh into the world.
 <small><sub>**BSB:**</sub></small>
 The true Light, who gives light to everyone, was coming into the world.
 <small><sub>**Literal:**</sub></small>
 Was the Light <the> true who enlightens every man coming into the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.8|<< John 1:8]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.10|John 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was |**<big>[[G1510\|ἦν]]</big>**  |ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

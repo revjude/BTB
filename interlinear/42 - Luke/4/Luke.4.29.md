@@ -1,12 +1,12 @@
-**Luke 4:29
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:29**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And rose up, and thrust him out of the city, and led him unto the brow of the hill whereon their city was built, that they might cast him down headlong.
 <small><sub>**BSB:**</sub></small>
 They got up, drove Him out of the town, and led Him to the brow of the hill on which the town was built, in order to throw Him over the cliff.
 <small><sub>**Literal:**</sub></small>
 and having risen up they cast Him out of the city and led Him unto the brow of the hill upon which the town had been built of them in order to throw over him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.28|<< Luke 4:28]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.30|Luke 4:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having risen up |**<big>[[G0450\|ἀναστάντες]]</big>**  |anastantes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

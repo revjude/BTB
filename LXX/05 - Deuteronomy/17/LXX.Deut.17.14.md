@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And whenever you should enter into the land which \[the\] <span class="smallcaps">lord</span>  your God gives to you by lot, and you should inherit it, and should dwell upon it, and you should say, I shall place over myself a ruler, as also the rest of \[the\] nations  round about me; 
-<small><sub>**KJV:**</sub></small>
-When thou art come unto the land which the LORD thy God giveth thee, and shalt possess it, and shalt dwell therein, and shalt say, I will set a king over me, like as all the nations that [are] about me;
-<small><sub>**BSB:**</sub></small>
-When you enter the land that the LORD your God is giving you and have taken possession of it and settled in it, and you say, “Let us set a king over us like all the nations around us,”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.17.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.13|<< Deuteronomy 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.17.15|Deuteronomy 17:15 >>]]</td></tr></table>
 
 | Translation | Greek |

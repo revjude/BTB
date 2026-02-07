@@ -1,12 +1,12 @@
-**1 Corinthians 1:9
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:9**<big><big>[[1Cor.1.4 Thanksgiving|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 God [is] faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord.
 <small><sub>**BSB:**</sub></small>
 God, who has called you into fellowship with His Son Jesus Christ our Lord, is faithful.
 <small><sub>**Literal:**</sub></small>
 Faithful [is] <the> God, through whom you were called into fellowship with the Son of Him Jesus Christ the Lord of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.8|<< 1 Corinthians 1:8]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.10|1 Corinthians 1:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Faithful [is] |**<big>[[G4103\|Πιστὸς]]</big>**  |Pistos <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

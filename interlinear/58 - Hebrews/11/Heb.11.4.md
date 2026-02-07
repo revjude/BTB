@@ -1,5 +1,5 @@
-**Hebrews 11:4
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:4**<big><big>[[Heb.11.4 The Faith of Abel, Enoch, Noah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By faith Abel offered unto God a more excellent sacrifice than Cain, by which he obtained witness that he was righteous, God testifying of his gifts: and by it he being dead yet speaketh.
 <small><sub>**BSB:**</sub></small>
 By faith Abel offered God a better sacrifice than Cain did. By faith he was commended as righteous when God gave approval to his gifts. And by faith he still speaks, even though he is dead.
@@ -10,7 +10,7 @@ By faith a more excellent sacrifice Abel than Cain offered <the> to God, through
 > $\quad$ alluding to: [[LXX.Gen.4.4|Gen 4:4]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | a more excellent |**<big>[[G4119\|πλείονα]]</big>**  |pleiona <small><sup>[[A-ASF-C]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

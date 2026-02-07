@@ -1,10 +1,7 @@
 **LXX Exodus 3:11** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to  God, Who am I that I shall go to Pharaoh king of Egypt, and that I shall lead out the sons of Israel from \[the\] land of Egypt? 
-<small><sub>**KJV:**</sub></small>
-And Moses said unto God, Who [am] I, that I should go unto Pharaoh, and that I should bring forth the children of Israel out of Egypt?
-<small><sub>**BSB:**</sub></small>
-But Moses asked God, “Who am I, that I should go to Pharaoh and bring the Israelites out of Egypt?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.10|<< Exodus 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.12|Exodus 3:12 >>]]</td></tr></table>
 
 | Translation | Greek |

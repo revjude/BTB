@@ -1,10 +1,7 @@
 **LXX 1 Samuel 17:50** 
 <small><sub>**LXX:**</sub></small>
 And David powered over the Philistine with the sling, and with the stone in  that day. And he struck the Philistine, and he killed him; and a broadsword was not in the hand of David. 
-<small><sub>**KJV:**</sub></small>
-So David prevailed over the Philistine with a sling and with a stone, and smote the Philistine, and slew him; but [there was] no sword in the hand of David.
-<small><sub>**BSB:**</sub></small>
-Thus David prevailed over the Philistine with a sling and a stone; without a sword in his hand he struck down the Philistine and killed him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.17.50|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.17.49|<< 1 Samuel 17:49]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.17.51|1 Samuel 17:51 >>]]</td></tr></table>
 
 | Translation | Greek |

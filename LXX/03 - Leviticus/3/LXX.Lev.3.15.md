@@ -1,10 +1,7 @@
 **LXX Leviticus 3:15** 
 <small><sub>**LXX:**</sub></small>
 and the two kidneys, and all the fat  upon them, the \[fat\] upon the thighs; and the lobe  upon the liver with the kidneys he shall remove. 
-<small><sub>**KJV:**</sub></small>
-And the two kidneys, and the fat that [is] upon them, which [is] by the flanks, and the caul above the liver, with the kidneys, it shall he take away.
-<small><sub>**BSB:**</sub></small>
-both kidneys with the fat on them near the loins, and the lobe of the liver, which he is to remove with the kidneys.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.3.14|<< Leviticus 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.3.16|Leviticus 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

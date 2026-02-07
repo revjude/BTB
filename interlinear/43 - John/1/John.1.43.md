@@ -1,12 +1,12 @@
-**John 1:43
-**<small><sub>**KJV:**</sub></small>
+**John 1:43**<big><big>[[John.1.43 Jesus Calls Philip and Nathanael|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.
 <small><sub>**BSB:**</sub></small>
 The next day Jesus decided to set out for Galilee. Finding Philip, He told him, “Follow Me.”
 <small><sub>**Literal:**</sub></small>
 On the next day He desired to go forth into <the> Galilee And He finds Philip And says to him <the> Jesus; do follow Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.42|<< John 1:42]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.44|John 1:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | On the |**<big>[[G3588\|Τῇ]]</big>**  |Tēa <small><sup>[[T-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | next day |**<big>[[G1887\|ἐπαύριον]]</big>**  |epaurion <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

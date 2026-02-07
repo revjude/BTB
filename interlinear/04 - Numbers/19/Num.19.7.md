@@ -1,4 +1,4 @@
-**Numbers 19:7** 
+**Numbers 19:7**<big><big>[[Num.19.1 The Red Heifer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the priest shall wash his clothes, and he shall bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the even.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then the priest must wash his clothes and bathe his body in water; after that he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.6|<< Numbers 19:6]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.8|Numbers 19:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will wash  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3526H\|כִבֶּ֨ס]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> khi.Bes<small><sup>[[HVpq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | clothes his  |**<big>&#8207;[[H0899B\|בְּגָדָ֜י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| be.ga.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

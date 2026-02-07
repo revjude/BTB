@@ -1,4 +1,4 @@
-**Isaiah 6:7** 
+**Isaiah 6:7**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he laid [it] upon my mouth, and said, Lo, this hath touched thy lips; and thine iniquity is taken away, and thy sin purged.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And with it he touched my mouth and said: “Now that this has touched your lips
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.6|<< Isaiah 6:6]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.8|Isaiah 6:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made [it] touch  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5060\|יַּגַּ֣ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Ga'<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<on>  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

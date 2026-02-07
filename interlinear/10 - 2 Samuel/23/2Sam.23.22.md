@@ -1,4 +1,4 @@
-**2 Samuel 23:22** 
+**2 Samuel 23:22**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [things] did Benaiah the son of Jehoiada, and had the name among three mighty men.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the exploits of Benaiah son of Jehoiada, who won a name along with th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.21|<< 2 Samuel 23:21]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.23|2 Samuel 23:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these [things]  |**<big>&#8207;[[H0428\|אֵ֣לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he did  |**<big>&#8207;[[H6213A\|עָשָׂ֔ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

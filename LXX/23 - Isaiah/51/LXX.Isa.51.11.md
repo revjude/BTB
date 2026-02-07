@@ -1,10 +1,7 @@
 **LXX Isaiah 51:11** 
 <small><sub>**LXX:**</sub></small>
 and \[the\] ones being ransomed? For by \[the\] <span class="smallcaps">lord</span> they shall be returned, and shall come unto Zion with gladness, and an everlasting leap for joy. For upon their head praise and gladness shall overtake them. Grief and distress and moaning ran away. 
-<small><sub>**KJV:**</sub></small>
-Therefore the redeemed of the LORD shall return, and come with singing unto Zion; and everlasting joy [shall be] upon their head: they shall obtain gladness and joy; [and] sorrow and mourning shall flee away.
-<small><sub>**BSB:**</sub></small>
-So the redeemed of the LORD will return and enter Zion with singing, crowned with everlasting joy. Gladness and joy will overtake them, and sorrow and sighing will flee.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.51.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.10|<< Isaiah 51:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.12|Isaiah 51:12 >>]]</td></tr></table>
 
 | Translation | Greek |

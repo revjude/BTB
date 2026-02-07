@@ -1,10 +1,7 @@
 **LXX Exodus 29:5** 
 <small><sub>**LXX:**</sub></small>
 And taking the apparels, you shall put on Aaron  your brother both the inner garment, the foot length robe, and the shoulder-piece, and the oracle; and you shall join it -- the oracle to the shoulder-piece. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt take the garments, and put upon Aaron the coat, and the robe of the ephod, and the ephod, and the breastplate, and gird him with the curious girdle of the ephod:
-<small><sub>**BSB:**</sub></small>
-Take the garments and clothe Aaron with the tunic, the robe of the ephod, the ephod itself, and the breastplate. Fasten the ephod on him with its woven waistband.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.4|<< Exodus 29:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.6|Exodus 29:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Mark 4:16
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:16**<big><big>[[Mark.4.13 The Parable of the Sower Explained|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And these are they likewise which are sown on stony ground; who, when they have heard the word, immediately receive it with gladness;
 <small><sub>**BSB:**</sub></small>
 Some are like the seeds sown on rocky ground. They hear the word and at once receive it with joy.
 <small><sub>**Literal:**</sub></small>
 And these are likewise those upon the rocky places sown, who when they may hear the word, immediately with joy receive it<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.15|<< Mark 4:15]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.17|Mark 4:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | these |**<big>[[G3778\|οὗτοί]]</big>**  |houtoi <small><sup>[[D-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

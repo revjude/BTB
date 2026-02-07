@@ -1,4 +1,4 @@
-**Isaiah 42:12** 
+**Isaiah 42:12**<big><big>[[Isa.42.10 A New Song of Praise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them give glory unto the LORD, and declare his praise in the islands.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Let them give glory to the LORD and declare His praise in the islands.
 > $\quad$ referenced by: [[1Pet.2.9|1Pet 2:9]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | let them give  |**<big>&#8207;[[H7760H\|יָשִׂ֥ימוּ]]&#8207; </big>**| ya.Si.mu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֖ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

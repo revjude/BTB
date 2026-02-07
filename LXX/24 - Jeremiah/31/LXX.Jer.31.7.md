@@ -1,10 +1,7 @@
 **LXX Jeremiah 31:7** 
 <small><sub>**LXX:**</sub></small>
 For thus said \[the\] <span class="smallcaps">lord</span>  to Jacob, Be glad and snort over \[the\] head of nations! Do it audibly, and praise! Say! \[The\] <span class="smallcaps">lord</span> delivered  his people, the remnant of Israel. 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD; Sing with gladness for Jacob, and shout among the chief of the nations: publish ye, praise ye, and say, O LORD, save thy people, the remnant of Israel.
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD says: “Sing with joy for Jacob; shout for the foremost of the nations! Make your praises heard, and say, ‘O LORD, save Your people, the remnant of Israel!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.31.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.6|<< Jeremiah 31:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.8|Jeremiah 31:8 >>]]</td></tr></table>
 
 | Translation | Greek |

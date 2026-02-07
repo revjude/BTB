@@ -1,10 +1,7 @@
 **LXX Leviticus 19:26** 
 <small><sub>**LXX:**</sub></small>
 Eat not upon the mountains! And you shall not foretell, nor use augury. 
-<small><sub>**KJV:**</sub></small>
-Ye shall not eat [any thing] with the blood: neither shall ye use enchantment, nor observe times.
-<small><sub>**BSB:**</sub></small>
-You must not eat anything with blood still in it. You must not practice divination or sorcery.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.19.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.19.25|<< Leviticus 19:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.19.27|Leviticus 19:27 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 12:2
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:2**<big><big>[[Matt.12.1 The Lord of the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when the Pharisees saw [it], they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day.
 <small><sub>**BSB:**</sub></small>
 When the Pharisees saw this, they said to Him, “Look, Your disciples are doing what is unlawful on the Sabbath.”
 <small><sub>**Literal:**</sub></small>
 <the> And the Pharisees having seen they said to Him; Behold the disciples of You are doing what not it is lawful to do on Sabbath.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.1|<< Matthew 12:1]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.3|Matthew 12:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

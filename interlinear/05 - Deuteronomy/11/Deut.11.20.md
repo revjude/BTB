@@ -1,4 +1,4 @@
-**Deuteronomy 11:20** 
+**Deuteronomy 11:20**<big><big>[[Deut.11.18 Remember God’s Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt write them upon the door posts of thine house, and upon thy gates:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Write them on the doorposts of your houses and on your gates,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.19|<< Deuteronomy 11:19]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.21|Deuteronomy 11:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will write them  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H3789\|כְתַבְתָּ֛]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> khe.tav.Ta<small><sup>[[HVqq2ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

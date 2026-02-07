@@ -1,10 +1,7 @@
 **LXX Ezekiel 3:10** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, O son of man, all the words which I have spoken with you, take into  your heart, and hearken \[with\] your ears! 
-<small><sub>**KJV:**</sub></small>
-Moreover he said unto me, Son of man, all my words that I shall speak unto thee receive in thine heart, and hear with thine ears.
-<small><sub>**BSB:**</sub></small>
-“Son of man,” He added, “listen carefully to all the words I speak to you, and take them to heart.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.3.9|<< Ezekiel 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.3.11|Ezekiel 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

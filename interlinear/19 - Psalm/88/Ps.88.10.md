@@ -1,4 +1,4 @@
-**Psalms 88:10** (88:11)
+**Psalms 88:10**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wilt thou shew wonders to the dead? shall the dead arise [and] praise thee? Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do You work wonders for the dead? Do departed spirits rise up to praise You? Sel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.9|<< Psalms 88:9]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.11|Psalms 88:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ for the dead  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H4191\|מֵּתִ֥ים]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> la.<small><sup>[[HRd]]</sup></small> me.Tim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will you do  |**<big>&#8207;[[H6213A\|תַּעֲשֶׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ta.'a.seh-<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

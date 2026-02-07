@@ -1,10 +1,7 @@
 **LXX Jeremiah 27:19** 
 <small><sub>**LXX:**</sub></small>
 For thus said \[the\] <span class="smallcaps">lord</span> concerning the pillars, and concerning the sea, and concerning the bases, and for the remaining items, the ones being left behind in  this city, 
-<small><sub>**KJV:**</sub></small>
-For thus saith the LORD of hosts concerning the pillars, and concerning the sea, and concerning the bases, and concerning the residue of the vessels that remain in this city,
-<small><sub>**BSB:**</sub></small>
-For this is what the LORD of Hosts says about the pillars, the sea, the bases, and the rest of the articles that remain in this city,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.27.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.27.18|<< Jeremiah 27:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.27.20|Jeremiah 27:20 >>]]</td></tr></table>
 
 | Translation | Greek |

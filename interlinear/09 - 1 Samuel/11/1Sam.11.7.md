@@ -1,4 +1,4 @@
-**1 Samuel 11:7** 
+**1 Samuel 11:7**<big><big>[[1Sam.11.1 Saul Defeats the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took a yoke of oxen, and hewed them in pieces, and sent [them] throughout all the coasts of Israel by the hands of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And the fear of the LORD fell on the people, and they came out with one consent.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He took a pair of oxen, cut them into pieces, and sent them by messengers throug
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.6|<< 1 Samuel 11:6]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.8|1 Samuel 11:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּח֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a pair of  |**<big>&#8207;[[H6776\|צֶ֨מֶד]]&#8207; </big>**| Tze.med<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

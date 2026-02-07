@@ -1,4 +1,4 @@
-**2 Samuel 12:21** 
+**2 Samuel 12:21**<big><big>[[2Sam.12.13 David’s Loss and Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said his servants unto him, What thing [is] this that thou hast done? thou didst fast and weep for the child, [while it was] alive; but when the child was dead, thou didst rise and eat bread.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then said his servants unto him, What thing [is] this that thou hast done? thou 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.20|<< 2 Samuel 12:20]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.22|2 Samuel 12:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֤וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | servants his  |**<big>&#8207;[[H5650\|עֲבָדָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| 'a.va.Da<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

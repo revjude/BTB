@@ -1,4 +1,4 @@
-**Job 21:8** 
+**Job 21:8**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their seed is established in their sight with them, and their offspring before their eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Their descendants are established around them, and their offspring before their 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.7|<< Job 21:7]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.9|Job 21:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | offspring their  |**<big>&#8207;[[H2233H\|זַרְעָ֤]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| zar.'A<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] established  |**<big>&#8207;[[H3559H\|נָכ֣וֹן]]&#8207; </big>**| na.Khon<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

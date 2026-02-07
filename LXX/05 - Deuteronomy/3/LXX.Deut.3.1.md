@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And turning we ascended \[the\] way  into Bashan. And came forth Og king  of Bashan to meet us, he and all  his people for war, in Edrei. 
-<small><sub>**KJV:**</sub></small>
-Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, to battle at Edrei.
-<small><sub>**BSB:**</sub></small>
-Then we turned and went up the road to Bashan, and Og king of Bashan and his whole army came out to meet us in battle at Edrei.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.37|<< Deuteronomy 2:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.2|Deuteronomy 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

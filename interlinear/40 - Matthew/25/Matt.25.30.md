@@ -1,12 +1,12 @@
-**Matthew 25:30
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:30**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth.
 <small><sub>**BSB:**</sub></small>
 And throw that worthless servant into the outer darkness, where there will be weeping and gnashing of teeth.’
 <small><sub>**Literal:**</sub></small>
 And the worthless servant do cast out into the darkness <the> outer; there will be the weeping and the gnashing of the teeth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.29|<< Matthew 25:29]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.31|Matthew 25:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸν]]</big>**  |ton <small><sup>[[T-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

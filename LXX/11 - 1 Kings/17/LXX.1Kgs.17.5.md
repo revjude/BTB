@@ -1,10 +1,7 @@
 **LXX 1 Kings 17:5** 
 <small><sub>**LXX:**</sub></small>
 And Elijah went and did according to the saying of \[the\] <span class="smallcaps">lord</span>. And he settled by the rushing stream Cherith upon \[the\] face of the Jordan. 
-<small><sub>**KJV:**</sub></small>
-So he went and did according unto the word of the LORD: for he went and dwelt by the brook Cherith, that [is] before Jordan.
-<small><sub>**BSB:**</sub></small>
-So Elijah did what the LORD had told him, and he went and lived by the Brook of Cherith, east of the Jordan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.17.4|<< 1 Kings 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.17.6|1 Kings 17:6 >>]]</td></tr></table>
 
 | Translation | Greek |

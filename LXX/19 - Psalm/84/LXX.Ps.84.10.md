@@ -1,10 +1,7 @@
 **LXX Psalm 84:10** 
 <small><sub>**LXX:**</sub></small>
 For better \[is\] one day in  your courtyards than thousands. I would choose to be thrown aside in the house  of my God, rather than for me to live among \[the\] tents of sinners. 
-<small><sub>**KJV:**</sub></small>
-For a day in thy courts [is] better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness.
-<small><sub>**BSB:**</sub></small>
-For better is one day in Your courts than a thousand elsewhere. I would rather be a doorkeeper in the house of my God than dwell in the tents of the wicked.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.84.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.9|<< Psalm 84:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.11|Psalm 84:11 >>]]</td></tr></table>
 
 | Translation | Greek |

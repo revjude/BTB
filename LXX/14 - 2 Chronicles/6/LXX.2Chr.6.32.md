@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 6:32** 
 <small><sub>**LXX:**</sub></small>
 And also every alien who is not of  your people Israel, and he should come from out of a land far off because of  your great name, and  your fortified hand, and  your high arm; and should come and should pray in  this place; 
-<small><sub>**KJV:**</sub></small>
-Moreover concerning the stranger, which is not of thy people Israel, but is come from a far country for thy great name’s sake, and thy mighty hand, and thy stretched out arm; if they come and pray in this house;
-<small><sub>**BSB:**</sub></small>
-And as for the foreigner who is not of Your people Israel but has come from a distant land because of Your great name and Your mighty hand and outstretched arm—when he comes and prays toward this temple,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.6.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.6.31|<< 2 Chronicles 6:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.6.33|2 Chronicles 6:33 >>]]</td></tr></table>
 
 | Translation | Greek |

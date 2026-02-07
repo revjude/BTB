@@ -1,4 +1,4 @@
-**2 Kings 9:10** 
+**2 Kings 9:10**<big><big>[[2Kgs.9.1 Jehu Anointed King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the dogs shall eat Jezebel in the portion of Jezreel, and [there shall be] none to bury [her]. And he opened the door, and fled.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And on the plot of ground at Jezreel the dogs will devour Jezebel, and there wil
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.9|<< 2 Kings 9:9]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.11|2 Kings 9:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jezebel  |**<big>&#8207;[[H0348\|אִיזֶ֜בֶל]]&#8207; </big>**| 'i.Ze.vel<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

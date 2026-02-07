@@ -1,12 +1,12 @@
-**Matthew 14:10
-**<small><sub>**KJV:**</sub></small>
+**Matthew 14:10**<big><big>[[Matt.14.1 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he sent, and beheaded John in the prison.
 <small><sub>**BSB:**</sub></small>
 and sent to have John beheaded in the prison.
 <small><sub>**Literal:**</sub></small>
 And he having sent beheaded <the> John in the prison.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.9|<< Matthew 14:9]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.11|Matthew 14:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he having sent |**<big>[[G3992\|πέμψας]]</big>**  |pempsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

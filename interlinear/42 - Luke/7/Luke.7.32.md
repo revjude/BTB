@@ -1,12 +1,12 @@
-**Luke 7:32
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:32**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept.
 <small><sub>**BSB:**</sub></small>
 They are like children sitting in the marketplace and calling out to one another: ‘We played the flute for you, and you did not dance; we sang a dirge, and you did not weep.’
 <small><sub>**Literal:**</sub></small>
 Like are they to little children <the> in the marketplace sitting and calling to each other one and says: We piped to you, and not you did dance; we sang a dirge to you and not you did weep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.31|<< Luke 7:31]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.33|Luke 7:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Like |**<big>[[G3664\|ὅμοιοί]]</big>**  |homoioi <small><sup>[[A-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | are they |**<big>[[G1510\|εἰσιν]]</big>**  |eisin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

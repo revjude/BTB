@@ -1,10 +1,7 @@
 **LXX Proverbs 5:7** 
 <small><sub>**LXX:**</sub></small>
 Now then, O son, hear me! and you should not do void \[works\] of my words. 
-<small><sub>**KJV:**</sub></small>
-Hear me now therefore, O ye children, and depart not from the words of my mouth.
-<small><sub>**BSB:**</sub></small>
-So now, my sons, listen to me, and do not turn aside from the words of my mouth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.5.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.6|<< Proverbs 5:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.8|Proverbs 5:8 >>]]</td></tr></table>
 
 | Translation | Greek |

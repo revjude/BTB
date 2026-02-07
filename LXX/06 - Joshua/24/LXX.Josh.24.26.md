@@ -1,10 +1,7 @@
 **LXX Joshua 24:26** 
 <small><sub>**LXX:**</sub></small>
 And Joshua wrote  these things in a scroll of \[the\] law  of God. And Joshua took a great stone and set it there under the terebinth tree  before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And Joshua wrote these words in the book of the law of God, and took a great stone, and set it up there under an oak, that [was] by the sanctuary of the LORD.
-<small><sub>**BSB:**</sub></small>
-Joshua recorded these things in the Book of the Law of God. Then he took a large stone and set it up there under the oak that was near the sanctuary of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.25|<< Joshua 24:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.27|Joshua 24:27 >>]]</td></tr></table>
 
 | Translation | Greek |

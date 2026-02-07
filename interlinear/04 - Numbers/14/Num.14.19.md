@@ -1,4 +1,4 @@
-**Numbers 14:19** 
+**Numbers 14:19**<big><big>[[Num.14.13 Moses Intercedes for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pardon, I beseech thee, the iniquity of this people according unto the greatness of thy mercy, and as thou hast forgiven this people, from Egypt even until now.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pardon, I pray, the iniquity of this people, in keeping with the greatness of Yo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.18|<< Numbers 14:18]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.20|Numbers 14:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | forgive  |**<big>&#8207;[[H5545\|סְלַֽח]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| se.lach-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | please  |**<big>&#8207;[[H4994\|נָ֗א]]&#8207; </big>**| Na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

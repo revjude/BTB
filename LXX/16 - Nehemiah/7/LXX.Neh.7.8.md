@@ -1,10 +1,7 @@
 **LXX Nehemiah 7:8** 
 <small><sub>**LXX:**</sub></small>
 sons of Parosh, two thousand \[one\] hundred seventy-two; 
-<small><sub>**KJV:**</sub></small>
-The children of Parosh, two thousand an hundred seventy and two.
-<small><sub>**BSB:**</sub></small>
-the descendants of Parosh, 2,172;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.7|<< Nehemiah 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.9|Nehemiah 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

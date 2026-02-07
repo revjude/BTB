@@ -1,4 +1,4 @@
-**Psalms 50:21** 
+**Psalms 50:21**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [things] hast thou done, and I kept silence; thou thoughtest that I was altogether [such an one] as thyself: [but] I will reprove thee, and set [them] in order before thine eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You have done these things, and I kept silent; you thought I was just like you. 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.20|<< Psalms 50:20]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.22|Psalms 50:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these [things]  |**<big>&#8207;[[H0428\|אֵ֤לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have done  |**<big>&#8207;[[H6213A\|עָשִׂ֨יתָ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Si.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

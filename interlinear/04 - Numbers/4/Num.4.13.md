@@ -1,4 +1,4 @@
-**Numbers 4:13** 
+**Numbers 4:13**<big><big>[[Num.4.1 The Duties of the Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall take away the ashes from the altar, and spread a purple cloth thereon:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they shall remove the ashes from the bronze altar, spread a purple cloth ov
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.12|<< Numbers 4:12]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.14|Numbers 4:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will take away [the] ashes from  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1878\|דִשְּׁנ֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> di.she.Nu<small><sup>[[HVpq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 18:27
-**<small><sub>**KJV:**</sub></small>
+**Matthew 18:27**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the lord of that servant was moved with compassion, and loosed him, and forgave him the debt.
 <small><sub>**BSB:**</sub></small>
 His master had compassion on him, forgave his debt, and released him.
 <small><sub>**Literal:**</sub></small>
 Having been moved with compassion now the master of the servant,  that [one] released him and the debt forgave him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.26|<< Matthew 18:26]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.28|Matthew 18:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having been moved with compassion |**<big>[[G4697\|Σπλαγχνισθεὶς]]</big>**  |Splagchnistheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

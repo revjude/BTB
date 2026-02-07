@@ -1,10 +1,7 @@
 **LXX 2 Kings 23:30** 
 <small><sub>**LXX:**</sub></small>
 And his servants conducted him dead in Megiddo. And they led him into Jerusalem, and they entombed him in  his tomb in \[the\] city of David. And the people of the land took  Jehoahaz son of Josiah, and anointed him and gave him reign instead of  his father. 
-<small><sub>**KJV:**</sub></small>
-And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own sepulchre. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father’s stead.
-<small><sub>**BSB:**</sub></small>
-From Megiddo his servants carried his body in a chariot, brought him to Jerusalem, and buried him in his own tomb. Then the people of the land took Jehoahaz son of Josiah, anointed him, and made him king in place of his father.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.23.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.23.29|<< 2 Kings 23:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.23.31|2 Kings 23:31 >>]]</td></tr></table>
 
 | Translation | Greek |

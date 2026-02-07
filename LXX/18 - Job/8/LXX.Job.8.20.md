@@ -1,10 +1,7 @@
 **LXX Job 8:20** 
 <small><sub>**LXX:**</sub></small>
  For \[the\] <span class="smallcaps">lord</span> in no way will undo the guileless, and every gift of \[the\] impious he will not receive. 
-<small><sub>**KJV:**</sub></small>
-Behold, God will not cast away a perfect [man], neither will he help the evil doers:
-<small><sub>**BSB:**</sub></small>
-Behold, God does not reject the blameless, nor will He strengthen the hand of evildoers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.8.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.19|<< Job 8:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.21|Job 8:21 >>]]</td></tr></table>
 
 | Translation | Greek |

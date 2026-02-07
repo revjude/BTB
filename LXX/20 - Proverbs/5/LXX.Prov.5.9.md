@@ -1,10 +1,7 @@
 **LXX Proverbs 5:9** 
 <small><sub>**LXX:**</sub></small>
 that you should not your \[means of\] life go to others, and your livelihood to \[the\] unmerciful; 
-<small><sub>**KJV:**</sub></small>
-Lest thou give thine honour unto others, and thy years unto the cruel:
-<small><sub>**BSB:**</sub></small>
-lest you concede your vigor to others, and your years to one who is cruel;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.5.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.5.8|<< Proverbs 5:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.10|Proverbs 5:10 >>]]</td></tr></table>
 
 | Translation | Greek |

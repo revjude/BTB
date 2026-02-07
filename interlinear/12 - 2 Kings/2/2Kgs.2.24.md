@@ -1,4 +1,4 @@
-**2 Kings 2:24** 
+**2 Kings 2:24**<big><big>[[2Kgs.2.23 Elisha Mocked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he turned back, and looked on them, and cursed them in the name of the LORD. And there came forth two she bears out of the wood, and tare forty and two children of them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then he turned around, looked at them, and called down a curse on them in the na
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.23|<< 2 Kings 2:23]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.25|2 Kings 2:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he turned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6437G\|יִּ֤פֶן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yi.fen<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | behind him  |**<big>&#8207;[[H0310A\|אַֽחֲרָי]]&#8207;&#8207;[[H9033\|ו֙]]&#8207; </big>**| 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

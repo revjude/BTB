@@ -1,12 +1,12 @@
-**Luke 8:49
-**<small><sub>**KJV:**</sub></small>
+**Luke 8:49**<big><big>[[Luke.8.40 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 While he yet spake, there cometh one from the ruler of the synagogue’s [house], saying to him, Thy daughter is dead; trouble not the Master.
 <small><sub>**BSB:**</sub></small>
 While He was still speaking, someone arrived from the house of the synagogue leader. “Your daughter is dead,” he told Jairus. “Do not bother the Teacher anymore.”
 <small><sub>**Literal:**</sub></small>
 Still when he is speaking comes one from the synagogue ruler saying to him that Has died the daughter of You; no longer do trouble the Teacher.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.48|<< Luke 8:48]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.50|Luke 8:50 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Still |**<big>[[G2089\|Ἔτι]]</big>**  |Eti <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when he |**<big>[[G0846\|αὐτοῦ]]</big>**  |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

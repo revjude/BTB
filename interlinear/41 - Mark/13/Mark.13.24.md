@@ -1,5 +1,5 @@
-**Mark 13:24
-**<small><sub>**KJV:**</sub></small>
+**Mark 13:24**<big><big>[[Mark.13.24 The Return of the Son of Man|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,
 <small><sub>**BSB:**</sub></small>
 But in those days, after that tribulation: ‘The sun will be darkened, and the moon will not give its light;
@@ -11,7 +11,7 @@ But in those <the> days after the tribulation those The sun will be darkened, an
 > $\quad$ alluding to: [[LXX.Joel.3.15|Joel 3:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|Ἀλλ᾽]]</big>**  [^1] |All᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | in |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

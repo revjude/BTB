@@ -1,4 +1,4 @@
-**Jeremiah 17:1** 
+**Jeremiah 17:1**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sin of Judah [is] written with a pen of iron, [and] with the point of a diamond: [it is] graven upon the table of their heart, and upon the horns of your altars;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sin of Judah [is] written with a pen of iron, [and] with the point of a diam
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.21|<< Jeremiah 16:21]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.2|Jeremiah 17:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sin of  |**<big>&#8207;[[H2403B\|חַטַּ֣את]]&#8207; </big>**| cha.Tat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֗ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

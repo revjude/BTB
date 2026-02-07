@@ -1,10 +1,7 @@
 **LXX Numbers 20:12** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to Moses and Aaron, Because you did not trust in me to sanctify me before the sons of Israel, because of this you yourselves shall not bring  this congregation into the land which I have given to them. 
-<small><sub>**KJV:**</sub></small>
-And the LORD spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land which I have given them.
-<small><sub>**BSB:**</sub></small>
-But the LORD said to Moses and Aaron, “Because you did not trust Me to show My holiness in the sight of the Israelites, you will not bring this assembly into the land that I have given them.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.20.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.20.11|<< Numbers 20:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.20.13|Numbers 20:13 >>]]</td></tr></table>
 
 | Translation | Greek |

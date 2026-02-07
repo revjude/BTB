@@ -1,12 +1,12 @@
-**2 Thessalonians 2:16
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 2:16**<big><big>[[2Thess.2.13 Stand Firm|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now our Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given [us] everlasting consolation and good hope through grace,
 <small><sub>**BSB:**</sub></small>
 Now may our Lord Jesus Christ Himself and God our Father, who by grace has loved us and given us eternal comfort and good hope,
 <small><sub>**Literal:**</sub></small>
 Himself now the Lord of us Jesus Christ and <the> God the Father of us, the [One] having loved us and having given [us] comfort eternal and hope good by grace,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.15|<< 2 Thessalonians 2:15]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.17|2 Thessalonians 2:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Himself |**<big>[[G0846\|αὐτὸς]]</big>**  |autos <small><sup>[[P-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

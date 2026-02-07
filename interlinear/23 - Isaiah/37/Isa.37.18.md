@@ -1,4 +1,4 @@
-**Isaiah 37:18** 
+**Isaiah 37:18**<big><big>[[Isa.37.14 Hezekiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of a truth, LORD, the kings of Assyria have laid waste all the nations, and their countries,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Truly, O LORD, the kings of Assyria have laid waste all these countries and thei
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.17|<< Isaiah 37:17]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.19|Isaiah 37:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | truly  |**<big>&#8207;[[H0551\|אָמְנָ֖ם]]&#8207; </big>**| 'a.me.Nam<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

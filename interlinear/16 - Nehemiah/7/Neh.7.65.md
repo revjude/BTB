@@ -1,4 +1,4 @@
-**Nehemiah 7:65** 
+**Nehemiah 7:65**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood [up] a priest with Urim and Thummim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The governor ordered them not to eat the most holy things until there was a prie
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.65|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.64|<< Nehemiah 7:64]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.66|Nehemiah 7:66 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֤אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the governor  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8660\|תִּרְשָׁ֙תָא֙]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> tir.Sha.ta'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

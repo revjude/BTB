@@ -1,10 +1,7 @@
 **LXX 1 Kings 11:34** 
 <small><sub>**LXX:**</sub></small>
 And in no way will I take the kingdom entirely from his hand (for by resisting I shall resist him all the days  of his life) because of David  my servant -- whom I chose him, who guarded the commandments and  my ordinances. 
-<small><sub>**KJV:**</sub></small>
-Howbeit I will not take the whole kingdom out of his hand: but I will make him prince all the days of his life for David my servant’s sake, whom I chose, because he kept my commandments and my statutes:
-<small><sub>**BSB:**</sub></small>
-Nevertheless, I will not take the whole kingdom out of Solomon’s hand, because I have made him ruler all the days of his life for the sake of David My servant, whom I chose because he kept My commandments and statutes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.11.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.11.33|<< 1 Kings 11:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.11.35|1 Kings 11:35 >>]]</td></tr></table>
 
 | Translation | Greek |

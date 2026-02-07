@@ -1,10 +1,7 @@
 **LXX Leviticus 13:6** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall look at him on the seventh day the second \[time\]. And behold, \[if\] the infection is faint, \[and\] the infection did not degenerate in the skin, then the priest will cleanse him -- for it is a spot. And washing  his garments he will be clean. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall look on him again the seventh day: and, behold, [if] the plague [be] somewhat dark, [and] the plague spread not in the skin, the priest shall pronounce him clean: it [is but] a scab: and he shall wash his clothes, and be clean.
-<small><sub>**BSB:**</sub></small>
-The priest will examine him again on the seventh day, and if the sore has faded and has not spread on the skin, the priest shall pronounce him clean; it is a rash. The person must wash his clothes and be clean.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.13.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.13.5|<< Leviticus 13:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.13.7|Leviticus 13:7 >>]]</td></tr></table>
 
 | Translation | Greek |

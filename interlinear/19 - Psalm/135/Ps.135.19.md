@@ -1,4 +1,4 @@
-**Psalms 135:19** 
+**Psalms 135:19**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bless the LORD, O house of Israel: bless the LORD, O house of Aaron:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O house of Israel, bless the LORD; O house of Aaron, bless the LORD;
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.18|<< Psalms 135:18]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.20|Psalms 135:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O house of  |**<big>&#8207;[[H1004M\|בֵּ֣ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִ֭שְׂרָאֵל]]&#8207; </big>**| Yis.ra.'el<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

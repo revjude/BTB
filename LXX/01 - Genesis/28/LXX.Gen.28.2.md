@@ -1,10 +1,7 @@
 **LXX Genesis 28:2** 
 <small><sub>**LXX:**</sub></small>
 Having risen up, you run away unto  Mesopotamia to the house of Bethuel the father  of your mother! and take to yourself from there a wife from the daughters of Laban the brother  of your mother! 
-<small><sub>**KJV:**</sub></small>
-Arise, go to Padanaram, to the house of Bethuel thy mother’s father; and take thee a wife from thence of the daughters of Laban thy mother’s brother.
-<small><sub>**BSB:**</sub></small>
-“Go at once to Paddan-aram, to the house of your mother’s father Bethuel, and take a wife from among the daughters of Laban, your mother’s brother.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.28.1|<< Genesis 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.28.3|Genesis 28:3 >>]]</td></tr></table>
 
 | Translation | Greek |

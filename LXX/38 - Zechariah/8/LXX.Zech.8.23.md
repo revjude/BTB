@@ -1,10 +1,7 @@
 **LXX Zechariah 8:23** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> almighty, In  those days ten men shall take hold of ones of all the languages of nations. And they shall take hold of the decorative hem of a Jewish man, saying, We shall go with you, because we have heard that  God is with you. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD of hosts; In those days [it shall come to pass], that ten men shall take hold out of all languages of the nations, even shall take hold of the skirt of him that is a Jew, saying, We will go with you: for we have heard [that] God [is] with you.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD of Hosts says: “In those days ten men from the nations of every tongue will tightly grasp the robe of a Jew, saying, ‘Let us go with you, for we have heard that God is with you.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.22|<< Zechariah 8:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.9.1|Zechariah 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

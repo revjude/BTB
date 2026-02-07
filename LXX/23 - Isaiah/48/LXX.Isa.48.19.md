@@ -1,10 +1,7 @@
 **LXX Isaiah 48:19** 
 <small><sub>**LXX:**</sub></small>
 and your seed would have become even as sand, and the progeny  of your belly as dust of the earth; nor now in any way shall you be utterly destroyed, nor your name be destroyed before me. 
-<small><sub>**KJV:**</sub></small>
-Thy seed also had been as the sand, and the offspring of thy bowels like the gravel thereof; his name should not have been cut off nor destroyed from before me.
-<small><sub>**BSB:**</sub></small>
-Your descendants would have been as countless as the sand, and your offspring as numerous as its grains; their name would never be cut off or eliminated from My presence.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.48.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.48.18|<< Isaiah 48:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.48.20|Isaiah 48:20 >>]]</td></tr></table>
 
 | Translation | Greek |

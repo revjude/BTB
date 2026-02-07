@@ -1,4 +1,4 @@
-**Daniel 6:24** (6:25)
+**Daniel 6:24**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king commanded, and they brought those men which had accused Daniel, and they cast [them] into the den of lions, them, their children, and their wives; and the lions had the mastery of them, and brake all their bones in pieces or ever they came at the bottom of the den.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ At the command of the king, the men who had falsely accused Daniel were brought 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.23|<< Daniel 6:23]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.25|Daniel 6:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0560\|אֲמַ֣ר]]&#8207; </big>**| va.<small><sup>[[AC]]</sup></small> 'a.Mar<small><sup>[[AVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | king the  |**<big>&#8207;[[H4430\|מַלְכָּ֗]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| mal.Ka<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

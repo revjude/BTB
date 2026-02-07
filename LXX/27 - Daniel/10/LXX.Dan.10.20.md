@@ -1,10 +1,7 @@
 **LXX Daniel 10:20** 
 <small><sub>**LXX:**</sub></small>
 And he said, Do you know why I came to you? And now, I shall return  to wage war with the ruler of \[the\] Persians. And I coming forth, and the ruler of the Greeks came. 
-<small><sub>**KJV:**</sub></small>
-Then said he, Knowest thou wherefore I come unto thee? and now will I return to fight with the prince of Persia: and when I am gone forth, lo, the prince of Grecia shall come.
-<small><sub>**BSB:**</sub></small>
-“Do you know why I have come to you?” he said. “I must return at once to fight against the prince of Persia, and when I have gone forth, behold, the prince of Greece will come.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.10.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.10.19|<< Daniel 10:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.10.21|Daniel 10:21 >>]]</td></tr></table>
 
 | Translation | Greek |

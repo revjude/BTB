@@ -1,12 +1,12 @@
-**1 Corinthians 1:29
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 1:29**<big><big>[[1Cor.1.26 Wisdom from God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That no flesh should glory in his presence.
 <small><sub>**BSB:**</sub></small>
 so that no one may boast in His presence.
 <small><sub>**Literal:**</sub></small>
 so that not may boast all flesh before <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.28|<< 1 Corinthians 1:28]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.30|1 Corinthians 1:30 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G3704\|ὅπως]]</big>**  |hopōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

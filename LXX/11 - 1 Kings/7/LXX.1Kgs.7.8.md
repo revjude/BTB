@@ -1,10 +1,7 @@
 **LXX 1 Kings 7:8** 
 <small><sub>**LXX:**</sub></small>
 And  his house in which he shall sit there, one courtyard \[is\] expanding to these according to  this work. And Solomon built a house (for the daughter of Pharaoh whom Solomon took) according to  this columned porch. 
-<small><sub>**KJV:**</sub></small>
-And his house where he dwelt [had] another court within the porch, [which] was of the like work. Solomon made also an house for Pharaoh’s daughter, whom he had taken [to wife], like unto this porch.
-<small><sub>**BSB:**</sub></small>
-And the palace where Solomon would live, set further back, was of similar construction. He also made a palace like this hall for Pharaoh’s daughter, whom he had married.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.7.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.7.7|<< 1 Kings 7:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.9|1 Kings 7:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 31:32** 
 <small><sub>**LXX:**</sub></small>
 And Jacob said, By whomsoever you should find  your gods, he shall not live before  our brethren. Recognize what is from me of the \[things\] of yours, and take \[them\]! And he did not recognize among \[what was\] his -- not one \[thing\]. But Jacob did not know that Rachel  his wife stole them. 
-<small><sub>**KJV:**</sub></small>
-With whomsoever thou findest thy gods, let him not live: before our brethren discern thou what [is] thine with me, and take [it] to thee. For Jacob knew not that Rachel had stolen them.
-<small><sub>**BSB:**</sub></small>
-If you find your gods with anyone here, he shall not live! In the presence of our relatives, see for yourself if anything is yours, and take it back.” For Jacob did not know that Rachel had stolen the idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.31.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.31.31|<< Genesis 31:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.31.33|Genesis 31:33 >>]]</td></tr></table>
 
 | Translation | Greek |

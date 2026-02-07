@@ -1,4 +1,4 @@
-**Numbers 7:87** 
+**Numbers 7:87**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the oxen for the burnt offering [were] twelve bullocks, the rams twelve, the lambs of the first year twelve, with their meat offering: and the kids of the goats for sin offering twelve.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All the livestock for the burnt offering totaled twelve bulls, twelve rams, and 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.87|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.86|<< Numbers 7:86]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.88|Numbers 7:88 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the cattle  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1241\|בָּקָ֨ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

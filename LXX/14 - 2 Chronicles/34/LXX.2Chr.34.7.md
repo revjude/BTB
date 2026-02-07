@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 34:7** 
 <small><sub>**LXX:**</sub></small>
 And he tore down the altars, and the sacred groves; and the idols he cut in fine pieces, and all the high \[places\] he cut in pieces from all the land of Israel, and he returned to Jerusalem. 
-<small><sub>**KJV:**</sub></small>
-And when he had broken down the altars and the groves, and had beaten the graven images into powder, and cut down all the idols throughout all the land of Israel, he returned to Jerusalem.
-<small><sub>**BSB:**</sub></small>
-He tore down the altars and Asherah poles, crushed the idols to powder, and cut to pieces all the incense altars throughout the land of Israel. Then he returned to Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.34.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.6|<< 2 Chronicles 34:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.8|2 Chronicles 34:8 >>]]</td></tr></table>
 
 | Translation | Greek |

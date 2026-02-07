@@ -1,10 +1,7 @@
 **LXX Jeremiah 18:15** 
 <small><sub>**LXX:**</sub></small>
 For my people forgot me. They burned incense in vain, and they shall weaken in  their ways -- eternal roads;  to mount roads not having a way for going; 
-<small><sub>**KJV:**</sub></small>
-Because my people hath forgotten me, they have burned incense to vanity, and they have caused them to stumble in their ways [from] the ancient paths, to walk in paths, [in] a way not cast up;
-<small><sub>**BSB:**</sub></small>
-Yet My people have forgotten Me. They burn incense to worthless idols that make them stumble in their ways, leaving the ancient roads to walk on rutted bypaths instead of on the highway.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.14|<< Jeremiah 18:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.16|Jeremiah 18:16 >>]]</td></tr></table>
 
 | Translation | Greek |

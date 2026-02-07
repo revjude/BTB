@@ -1,4 +1,4 @@
-**Ecclesiastes 9:5** 
+**Ecclesiastes 9:5**<big><big>[[Eccl.9.1 Death Comes to Good and Bad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For the living know that they will die, but the dead know nothing. They have no 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.4|<< Ecclesiastes 9:4]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.6|Ecclesiastes 9:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֧י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the living  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H2416A\|חַיִּ֛ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chai.Yim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

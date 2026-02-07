@@ -1,10 +1,7 @@
 **LXX Judges 7:24** 
 <small><sub>**LXX:**</sub></small>
 And Gideon sent out messengers to every mountain of Ephraim, saying, Go down to meet Midian, and overtake for yourselves the water unto Beth-barah and the Jordan! And every man of Ephraim yelled out and were first to take the water unto Beth-barah and the Jordan. 
-<small><sub>**KJV:**</sub></small>
-And Gideon sent messengers throughout all mount Ephraim, saying, Come down against the Midianites, and take before them the waters unto Bethbarah and Jordan. Then all the men of Ephraim gathered themselves together, and took the waters unto Bethbarah and Jordan.
-<small><sub>**BSB:**</sub></small>
-Gideon sent messengers throughout the hill country of Ephraim to say, “Come down against the Midianites and seize the waters of the Jordan ahead of them as far as Beth-barah.” So all the men of Ephraim were called out, and they captured the waters of the Jordan as far as Beth-barah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.23|<< Judges 7:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.25|Judges 7:25 >>]]</td></tr></table>
 
 | Translation | Greek |

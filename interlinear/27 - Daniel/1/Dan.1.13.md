@@ -1,4 +1,4 @@
-**Daniel 1:13** 
+**Daniel 1:13**<big><big>[[Dan.1.8 Daniel’s Faithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then let our countenances be looked upon before thee, and the countenance of the children that eat of the portion of the king’s meat: and as thou seest, deal with thy servants.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then compare our appearances with those of the young men who are eating the roya
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.12|<< Daniel 1:12]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.14|Daniel 1:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they may appear  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7200G\|יֵרָא֤וּ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ye.ra.'U<small><sup>[[HVNu3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440L\|פָנֶ֙י]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Nei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

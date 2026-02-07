@@ -1,10 +1,7 @@
 **LXX Psalm 128:5** 
 <small><sub>**LXX:**</sub></small>
 \[the\] <span class="smallcaps">lord</span> bless you from out of Zion; and may you behold the good \[things\] of Jerusalem all the days  of your life. 
-<small><sub>**KJV:**</sub></small>
-The LORD shall bless thee out of Zion: and thou shalt see the good of Jerusalem all the days of thy life.
-<small><sub>**BSB:**</sub></small>
-May the LORD bless you from Zion, that you may see the prosperity of Jerusalem all the days of your life,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.128.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.128.4|<< Psalm 128:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.128.6|Psalm 128:6 >>]]</td></tr></table>
 
 | Translation | Greek |

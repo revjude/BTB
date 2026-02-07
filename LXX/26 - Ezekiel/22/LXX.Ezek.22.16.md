@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:16** 
 <small><sub>**LXX:**</sub></small>
 And I will allot among you before \[the\] eyes of the nations, and you shall know that I \[am\] \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt take thine inheritance in thyself in the sight of the heathen, and thou shalt know that I [am] the LORD.
-<small><sub>**BSB:**</sub></small>
-And when you have defiled yourself in the eyes of the nations, then you will know that I am the LORD.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.15|<< Ezekiel 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.17|Ezekiel 22:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Nehemiah 7:71** 
 <small><sub>**LXX:**</sub></small>
 And from \[the\] heads of the families they gave into \[the\] treasuries of the work money of gold -- two ten thousands, and two thousand two hundred silver minas. 
-<small><sub>**KJV:**</sub></small>
-And [some] of the chief of the fathers gave to the treasure of the work twenty thousand drams of gold, and two thousand and two hundred pound of silver.
-<small><sub>**BSB:**</sub></small>
-And some of the heads of the families gave to the treasury for the project 20,000 darics of gold and 2,200 minas of silver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.7.71|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.7.70|<< Nehemiah 7:70]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.7.72|Nehemiah 7:72 >>]]</td></tr></table>
 
 | Translation | Greek |

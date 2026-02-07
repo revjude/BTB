@@ -1,4 +1,4 @@
-**Psalms 116:10** 
+**Psalms 116:10**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I believed, therefore have I spoken: I was greatly afflicted:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I believed, therefore I said, “I am greatly afflicted.”
 > $\quad$ referenced by: [[2Cor.4.13|2Cor 4:13]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I believed  |**<big>&#8207;[[H0539\|הֶ֭אֱמַנְתִּי]]&#8207; </big>**| He.'e.man.ti<small><sup>[[HVhp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

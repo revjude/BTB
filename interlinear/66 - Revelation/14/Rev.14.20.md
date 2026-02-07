@@ -1,5 +1,5 @@
-**Revelation 14:20
-**<small><sub>**KJV:**</sub></small>
+**Revelation 14:20**<big><big>[[Rev.14.14 The Harvest of the Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand [and] six hundred furlongs.
 <small><sub>**BSB:**</sub></small>
 And the winepress was trodden outside the city, and the blood that flowed from it rose as high as the bridles of the horses for a distance of 1,600 stadia.
@@ -10,7 +10,7 @@ And was trodden the winepress outside the city, and flowed blood out of the wine
 > $\quad$ alluding to: [[LXX.Isa.63.3|Isa 63:3]] ☩ [[LXX.Lam.1.15|Lam 1:15]] ☩ [[LXX.Joel.3.13|Joel 3:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | was trodden |**<big>[[G3961\|ἐπατήθη]]</big>**  |epatēthē <small><sup>[[V-API-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

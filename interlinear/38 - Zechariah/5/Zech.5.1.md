@@ -1,4 +1,4 @@
-**Zechariah 5:1** 
+**Zechariah 5:1**<big><big>[[Zech.5.1 The Vision of the Flying Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I turned, and lifted up mine eyes, and looked, and behold a flying roll.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Again I lifted up my eyes and saw before me a flying scroll.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4.14|<< Zechariah 4:14]]</td><td align="center" style="border:none;">[[Zech.5|Zechariah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.5.2|Zechariah 5:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I returned  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H7725J\|אָשׁ֕וּב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Shuv<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I lifted up  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5375M\|אֶשָּׂ֥א]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Sa'<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

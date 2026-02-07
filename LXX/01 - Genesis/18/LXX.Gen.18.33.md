@@ -1,10 +1,7 @@
 **LXX Genesis 18:33** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> went forth as he ceased speaking  to Abraham, and Abraham returned to  his place. 
-<small><sub>**KJV:**</sub></small>
-And the LORD went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place.
-<small><sub>**BSB:**</sub></small>
-When the LORD had finished speaking with Abraham, He departed, and Abraham returned home.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.18.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.18.32|<< Genesis 18:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.1|Genesis 19:1 >>]]</td></tr></table>
 
 | Translation | Greek |

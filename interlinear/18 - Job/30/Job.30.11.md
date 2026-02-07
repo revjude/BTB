@@ -1,4 +1,4 @@
-**Job 30:11** 
+**Job 30:11**<big><big>[[Job.30.1 Job’s Honor Turned to Contempt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because he hath loosed my cord, and afflicted me, they have also let loose the bridle before me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because God has unstrung my bow and afflicted me, they have cast off restraint i
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.10|<< Job 30:10]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.12|Job 30:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | string my  [^2]|**<big>&#8207;[[H3499B\|יִתְרִ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**[^3] | yit.r<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

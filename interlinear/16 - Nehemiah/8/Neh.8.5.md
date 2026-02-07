@@ -1,4 +1,4 @@
-**Nehemiah 8:5** 
+**Nehemiah 8:5**<big><big>[[Neh.8.1 Ezra Reads the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ezra opened the book in the sight of all the people; (for he was above all the people;) and when he opened it, all the people stood up:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ezra opened the book in full view of all the people, since he was standing above
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.4|<< Nehemiah 8:4]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.6|Nehemiah 8:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he opened  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6605A\|יִּפְתַּ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Tach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ezra  |**<big>&#8207;[[H5830G\|עֶזְרָ֤א]]&#8207; </big>**| 'ez.Ra'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

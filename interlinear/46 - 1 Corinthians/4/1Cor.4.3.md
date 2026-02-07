@@ -1,12 +1,12 @@
-**1 Corinthians 4:3
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 4:3**<big><big>[[1Cor.4.1 Servants of Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But with me it is a very small thing that I should be judged of you, or of man’s judgment: yea, I judge not mine own self.
 <small><sub>**BSB:**</sub></small>
 I care very little, however, if I am judged by you or by any human court. In fact, I do not even judge myself.
 <small><sub>**Literal:**</sub></small>
 Me myself however to [the] smallest matter it is that by you I may be examined or by a human court; In fact neither myself do I examine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.2|<< 1 Corinthians 4:2]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.4|1 Corinthians 4:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Me myself |**<big>[[G1473\|ἐμοὶ]]</big>**  |emoi <small><sup>[[P-1DS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

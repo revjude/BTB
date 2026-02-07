@@ -1,4 +1,4 @@
-**Psalms 39:12** (39:13)
+**Psalms 39:12**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear my prayer, O LORD, and give ear unto my cry; hold not thy peace at my tears: for I [am] a stranger with thee, [and] a sojourner, as all my fathers [were].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Hear my prayer, O LORD, and give ear to my cry for help; do not be deaf to my we
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.11|<< Psalms 39:11]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.13|Psalms 39:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hear !  |**<big>&#8207;[[H8085G\|שִֽׁמְעָ֥]]&#8207;&#8207;[[H9012\|ה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shim.'A<small><sup>[[HVqv2ms]]</sup></small> h-<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | prayer my  |**<big>&#8207;[[H8605\|תְפִלָּתִ֨]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| te.fi.la.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

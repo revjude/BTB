@@ -1,10 +1,7 @@
 **LXX Genesis 4:15** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> God said to him, Not so, all  killing Cain will be disabled \[by\] punishing seven \[times\]. And \[the\] <span class="smallcaps">lord</span> God put a sign \[to\] Cain  \[for\] all finding him to not do away with him. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a mark upon Cain, lest any finding him should kill him.
-<small><sub>**BSB:**</sub></small>
-“Not so!” replied the LORD. “If anyone slays Cain, then Cain will be avenged sevenfold.” And the LORD placed a mark on Cain, so that no one who found him would kill him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.14|<< Genesis 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.16|Genesis 4:16 >>]]</td></tr></table>
 
 | Translation | Greek |

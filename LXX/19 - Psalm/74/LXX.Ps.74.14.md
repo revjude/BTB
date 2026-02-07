@@ -1,10 +1,7 @@
 **LXX Psalm 74:14** 
 <small><sub>**LXX:**</sub></small>
 You fractured the heads of the dragon; you gave him for food to the Ethiopian peoples. 
-<small><sub>**KJV:**</sub></small>
-Thou brakest the heads of leviathan in pieces, [and] gavest him [to be] meat to the people inhabiting the wilderness.
-<small><sub>**BSB:**</sub></small>
-You crushed the heads of Leviathan; You fed him to the creatures of the desert.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.74.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.74.13|<< Psalm 74:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.74.15|Psalm 74:15 >>]]</td></tr></table>
 
 | Translation | Greek |

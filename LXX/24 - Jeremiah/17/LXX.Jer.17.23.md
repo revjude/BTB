@@ -1,10 +1,7 @@
 **LXX Jeremiah 17:23** 
 <small><sub>**LXX:**</sub></small>
 And they hearkened not, and leaned not  their ear. And they hardened  their neck over  their fathers  to not hear me, and  to not take instruction. 
-<small><sub>**KJV:**</sub></small>
-But they obeyed not, neither inclined their ear, but made their neck stiff, that they might not hear, nor receive instruction.
-<small><sub>**BSB:**</sub></small>
-Yet they would not listen or incline their ear, but they stiffened their necks and would not listen or receive My discipline.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.22|<< Jeremiah 17:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.17.24|Jeremiah 17:24 >>]]</td></tr></table>
 
 | Translation | Greek |

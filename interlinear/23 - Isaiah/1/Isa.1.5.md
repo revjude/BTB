@@ -1,4 +1,4 @@
-**Isaiah 1:5** 
+**Isaiah 1:5**<big><big>[[Isa.1.1 Judah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why do you want more beatings? Why do you keep rebelling? Your head has a massiv
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.4|<< Isaiah 1:4]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.6|Isaiah 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | concerning  |**<big>&#8207;[[H5921A\|עַ֣ל]]&#8207; </big>**| 'al<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | what?  |**<big>&#8207;[[H4100\|מֶ֥ה]]&#8207; </big>**| meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

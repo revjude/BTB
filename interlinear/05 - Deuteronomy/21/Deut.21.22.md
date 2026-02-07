@@ -1,4 +1,4 @@
-**Deuteronomy 21:22** 
+**Deuteronomy 21:22**<big><big>[[Deut.21.22 Cursed Is Anyone Hung on a Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man have committed a sin worthy of death, and he be to be put to death, and thou hang him on a tree:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a man has committed a sin worthy of death, and he is executed, and you hang h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.21|<< Deuteronomy 21:21]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.23|Deuteronomy 21:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3588A\|כִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will be  |**<big>&#8207;[[H1961\|יִהְיֶ֣ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

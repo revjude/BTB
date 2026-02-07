@@ -1,4 +1,4 @@
-**2 Chronicles 28:4** 
+**2 Chronicles 28:4**<big><big>[[2Chr.28.1 Ahaz Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sacrificed also and burnt incense in the high places, and on the hills, and under every green tree.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he sacrificed and burned incense on the high places, on the hills, and under
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.3|<< 2 Chronicles 28:3]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.5|2 Chronicles 28:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sacrificed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2076\|יְזַבֵּ֧חַ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.za.Be.ach<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he made smoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6999H\|יְקַטֵּ֛ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.ka.Ter<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

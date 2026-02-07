@@ -1,10 +1,7 @@
 **LXX Ezekiel 40:8** 
 <small><sub>**LXX:**</sub></small>
 And the third vestibule equal to the reed \[in\] length, and equal to the reed \[in\] width. 
-<small><sub>**KJV:**</sub></small>
-He measured also the porch of the gate within, one reed.
-<small><sub>**BSB:**</sub></small>
-Then he measured the portico of the gateway inside;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.40.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.40.7|<< Ezekiel 40:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.40.9|Ezekiel 40:9 >>]]</td></tr></table>
 
 | Translation | Greek |

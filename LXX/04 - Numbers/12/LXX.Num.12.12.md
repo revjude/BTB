@@ -1,10 +1,7 @@
 **LXX Numbers 12:12** 
 <small><sub>**LXX:**</sub></small>
 Do not let her become as equal to death, as a miscarriage going forth from a womb of his mother, and it eats up  half  of her flesh. 
-<small><sub>**KJV:**</sub></small>
-Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb.
-<small><sub>**BSB:**</sub></small>
-Please do not let her be like a stillborn infant whose flesh is half consumed when he comes out of his mother’s womb.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.12.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.12.11|<< Numbers 12:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.12.13|Numbers 12:13 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 12:46
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:46**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The lord of that servant will come in a day when he looketh not for [him], and at an hour when he is not aware, and will cut him in sunder, and will appoint him his portion with the unbelievers.
 <small><sub>**BSB:**</sub></small>
 The master of that servant will come on a day he does not expect and at an hour he does not anticipate. Then he will cut him to pieces and assign him a place with the unbelievers.
 <small><sub>**Literal:**</sub></small>
 will come the master of the servant that [one] in a day in which not he does expect and in an hour that not he knows and he will cut in two him and the place of him with the unbelievers will appoint.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.45|<< Luke 12:45]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.47|Luke 12:47 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | will come |**<big>[[G2240\|ἥξει]]</big>**  |hēxei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

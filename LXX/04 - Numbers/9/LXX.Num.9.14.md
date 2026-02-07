@@ -1,10 +1,7 @@
 **LXX Numbers 9:14** 
 <small><sub>**LXX:**</sub></small>
 But if a foreigner should come forward to you in  your land, and would observe the passover \[to the\] <span class="smallcaps">lord</span>, \[then\] according to the law of the passover, and according to  its arrangement, thus he shall observe it. There will be one law to you, both to the foreigner, and to the native born of the land. 
-<small><sub>**KJV:**</sub></small>
-And if a stranger shall sojourn among you, and will keep the passover unto the LORD; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land.
-<small><sub>**BSB:**</sub></small>
-If a foreigner dwelling among you wants to observe the Passover to the LORD, he is to do so according to the Passover statute and its ordinances. You are to apply the same statute to both the foreigner and the native of the land.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.13|<< Numbers 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.15|Numbers 9:15 >>]]</td></tr></table>
 
 | Translation | Greek |

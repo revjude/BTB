@@ -1,10 +1,7 @@
 **LXX Exodus 29:39** 
 <small><sub>**LXX:**</sub></small>
 The lamb -- the \[first\] one you shall offer in the morning, and the second lamb, you shall offer  at dusk. 
-<small><sub>**KJV:**</sub></small>
-The one lamb thou shalt offer in the morning; and the other lamb thou shalt offer at even:
-<small><sub>**BSB:**</sub></small>
-Offer one lamb in the morning and the other at twilight.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.38|<< Exodus 29:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.40|Exodus 29:40 >>]]</td></tr></table>
 
 | Translation | Greek |

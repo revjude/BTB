@@ -1,4 +1,4 @@
-**Isaiah 2:9** 
+**Isaiah 2:9**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the mean man boweth down, and the great man humbleth himself: therefore forgive them not.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ So mankind is brought low, and man is humbled—do not forgive them!
 > $\quad$ referenced by: [[Rev.6.15|Rev 6:15-16]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has been humbled  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7817\|יִּשַּׁ֥ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Shach<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | everyone  |**<big>&#8207;[[H0120G\|אָדָ֖ם]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

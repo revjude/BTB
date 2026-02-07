@@ -1,4 +1,4 @@
-**Jeremiah 39:13** 
+**Jeremiah 39:13**<big><big>[[Jer.39.11 Jeremiah Delivered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Nebuzaradan the captain of the guard sent, and Nebushasban, Rabsaris, and Nergalsharezer, Rabmag, and all the king of Babylon’s princes;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Nebuzaradan captain of the guard, Nebushazban the Rabsaris, Nergal-sharezer t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.39.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.12|<< Jeremiah 39:12]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.14|Jeremiah 39:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he sent  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7971G\|יִּשְׁלַ֞ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.Lach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Nebuzaradan  |**<big>&#8207;[[H5018\|נְבֽוּזַרְאֲדָ֣ן]]&#8207; </big>**| ne.vu.zar.'a.Dan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

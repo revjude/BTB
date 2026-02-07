@@ -1,10 +1,7 @@
 **LXX Daniel 7:26** 
 <small><sub>**LXX:**</sub></small>
 And the judgment seat he shall set, and the rule shall change over  to remove it from view, and  to destroy \[it\] until \[the\] end. 
-<small><sub>**KJV:**</sub></small>
-But the judgment shall sit, and they shall take away his dominion, to consume and to destroy [it] unto the end.
-<small><sub>**BSB:**</sub></small>
-But the court will convene, and his dominion will be taken away and completely destroyed forever.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.7.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.7.25|<< Daniel 7:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.7.27|Daniel 7:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Daniel 7:26** is...

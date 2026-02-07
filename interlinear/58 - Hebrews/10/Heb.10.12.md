@@ -1,5 +1,5 @@
-**Hebrews 10:12
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 10:12**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But this man, after he had offered one sacrifice for sins for ever, sat down on the right hand of God;
 <small><sub>**BSB:**</sub></small>
 But when this Priest had offered for all time one sacrifice for sins, He sat down at the right hand of God.
@@ -10,7 +10,7 @@ This [One] however one for sins having offered sacrifice in <the> perpetuity sat
 > $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This [One] [^1] |**<big>[[G3778\|οὗτος]]</big>**  |houtos <small><sup>[[D-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

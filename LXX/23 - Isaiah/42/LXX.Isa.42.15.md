@@ -1,10 +1,7 @@
 **LXX Isaiah 42:15** 
 <small><sub>**LXX:**</sub></small>
 mountains and hills desolate, and will dry out all their grass. And I will make rivers into islands, and marshes to dry \[land\]. 
-<small><sub>**KJV:**</sub></small>
-I will make waste mountains and hills, and dry up all their herbs; and I will make the rivers islands, and I will dry up the pools.
-<small><sub>**BSB:**</sub></small>
-I will lay waste the mountains and hills and dry up all their vegetation. I will turn the rivers into dry land and drain the marshes.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.42.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.42.14|<< Isaiah 42:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.42.16|Isaiah 42:16 >>]]</td></tr></table>
 
 | Translation | Greek |

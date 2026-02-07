@@ -1,12 +1,12 @@
-**Philippians 2:15
-**<small><sub>**KJV:**</sub></small>
+**Philippians 2:15**<big><big>[[Phil.2.12 Lights in the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;
 <small><sub>**BSB:**</sub></small>
 so that you may be blameless and pure, children of God without fault in a crooked and perverse generation, in which you shine as lights in the world
 <small><sub>**Literal:**</sub></small>
 so that you may be blameless and innocent, children of God blameless in [the] midst of a generation crooked and perverted among whom you shine as lights in [the] world,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.14|<< Philippians 2:14]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.16|Philippians 2:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so that |**<big>[[G2443\|ἵνα]]</big>**  |ina <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you may be |**<big>[[G1096\|γένησθε]]</big>**  |genēsthe <small><sup>[[V-2ADS-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

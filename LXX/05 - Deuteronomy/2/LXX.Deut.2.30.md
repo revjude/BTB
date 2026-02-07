@@ -1,10 +1,7 @@
 **LXX Deuteronomy 2:30** 
 <small><sub>**LXX:**</sub></small>
 And Sihon king of Heshbon did not want us to go by through his \[land\], for \[the\] <span class="smallcaps">lord</span> our God hardened  his spirit, and strengthened  his heart, that he should be delivered up into  your hands, as in  this day. 
-<small><sub>**KJV:**</sub></small>
-But Sihon king of Heshbon would not let us pass by him: for the LORD thy God hardened his spirit, and made his heart obstinate, that he might deliver him into thy hand, as [appeareth] this day.
-<small><sub>**BSB:**</sub></small>
-But Sihon king of Heshbon would not let us pass through, for the LORD your God had made his spirit stubborn and his heart obstinate, that He might deliver him into your hand, as is the case this day.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.2.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.2.29|<< Deuteronomy 2:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.2.31|Deuteronomy 2:31 >>]]</td></tr></table>
 
 | Translation | Greek |

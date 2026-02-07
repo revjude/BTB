@@ -1,10 +1,7 @@
 **LXX Jeremiah 40:10** 
 <small><sub>**LXX:**</sub></small>
 And behold, I sit in Mizpah to stand against \[the\] face of the Chaldeans, to whom ever should come against us. And you bring together wine, and autumn fruits, and olive oil, and lay them in  your receptacles, and dwell in the cities which you held! 
-<small><sub>**KJV:**</sub></small>
-As for me, behold, I will dwell at Mizpah to serve the Chaldeans, which will come unto us: but ye, gather ye wine, and summer fruits, and oil, and put [them] in your vessels, and dwell in your cities that ye have taken.
-<small><sub>**BSB:**</sub></small>
-As for me, I will stay in Mizpah to represent you before the Chaldeans who come to us. As for you, gather wine grapes, summer fruit, and oil, place them in your storage jars, and live in the cities you have taken.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.40.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.40.9|<< Jeremiah 40:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.40.11|Jeremiah 40:11 >>]]</td></tr></table>
 
 | Translation | Greek |

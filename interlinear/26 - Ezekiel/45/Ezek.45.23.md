@@ -1,4 +1,4 @@
-**Ezekiel 45:23** 
+**Ezekiel 45:23**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And seven days of the feast he shall prepare a burnt offering to the LORD, seven bullocks and seven rams without blemish daily the seven days; and a kid of the goats daily [for] a sin offering.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each day during the seven days of the feast, he shall provide seven bulls and se
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.22|<< Ezekiel 45:22]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.24|Ezekiel 45:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] seven  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7651\|שִׁבְעַ֨ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shiv.'At<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] days of  |**<big>&#8207;[[H3117G\|יְמֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.mei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

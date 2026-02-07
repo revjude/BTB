@@ -1,10 +1,7 @@
 **LXX 1 Kings 20:20** 
 <small><sub>**LXX:**</sub></small>
 And each \[man\] struck the one by him. And Syria fled, and Israel pursued them. And \[the\] son of Hadad king of Syria escaped upon a horse of a horseman. 
-<small><sub>**KJV:**</sub></small>
-And they slew every one his man: and the Syrians fled; and Israel pursued them: and Benhadad the king of Syria escaped on an horse with the horsemen.
-<small><sub>**BSB:**</sub></small>
-and each one struck down his opponent. So the Arameans fled, with the Israelites in pursuit. But Ben-hadad king of Aram escaped on horseback with the cavalry.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.19|<< 1 Kings 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.21|1 Kings 20:21 >>]]</td></tr></table>
 
 | Translation | Greek |

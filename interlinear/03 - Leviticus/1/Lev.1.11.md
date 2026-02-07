@@ -1,4 +1,4 @@
-**Leviticus 1:11** 
+**Leviticus 1:11**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall kill it on the side of the altar northward before the LORD: and the priests, Aaron’s sons, shall sprinkle his blood round about upon the altar.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He shall slaughter it on the north side of the altar before the LORD, and Aaron�
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.10|<< Leviticus 1:10]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.12|Leviticus 1:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will cut [the] throat of  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7819A\|שָׁחַ֨ט]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> sha.Chat<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹת֜]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Numbers 11:12** 
+**Numbers 11:12**<big><big>[[Num.11.10 The Complaint of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have I conceived all this people? have I begotten them, that thou shouldest say unto me, Carry them in thy bosom, as a nursing father beareth the sucking child, unto the land which thou swarest unto their fathers?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Did I conceive all these people? Did I give them birth, so that You should tell 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.11|<< Numbers 11:11]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.13|Numbers 11:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ I  |**<big>&#8207;[[H9008\|הֶ]]&#8207;&#8207;[[H0595\|אָנֹכִ֣י]]&#8207; </big>**| he.<small><sup>[[HTi]]</sup></small> 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | did I conceive  |**<big>&#8207;[[H2029\|הָרִ֗יתִי]]&#8207; </big>**| ha.Ri.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

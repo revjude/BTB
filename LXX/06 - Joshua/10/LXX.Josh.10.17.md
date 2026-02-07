@@ -1,10 +1,7 @@
 **LXX Joshua 10:17** 
 <small><sub>**LXX:**</sub></small>
 And it was reported  to Joshua, saying, The five kings have been found hiding in the cave, the one in Makkedah. 
-<small><sub>**KJV:**</sub></small>
-And it was told Joshua, saying, The five kings are found hid in a cave at Makkedah.
-<small><sub>**BSB:**</sub></small>
-And Joshua was informed: “The five kings have been found; they are hiding in the cave at Makkedah.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.10.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.10.16|<< Joshua 10:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.10.18|Joshua 10:18 >>]]</td></tr></table>
 
 | Translation | Greek |

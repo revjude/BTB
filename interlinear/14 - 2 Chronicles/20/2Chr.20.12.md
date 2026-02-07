@@ -1,4 +1,4 @@
-**2 Chronicles 20:12** 
+**2 Chronicles 20:12**<big><big>[[2Chr.20.5 Jehoshaphat’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O our God, wilt thou not judge them? for we have no might against this great company that cometh against us; neither know we what to do: but our eyes [are] upon thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Our God, will You not judge them? For we are powerless before this vast army tha
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.11|<< 2 Chronicles 20:11]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.13|2 Chronicles 20:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | O God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵ֙י]]&#8207;&#8207;[[H9025\|נוּ֙]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 37:10** 
 <small><sub>**LXX:**</sub></small>
 And I prophesied in so far as he gave charge to me, and the wind entered into them, and they lived; and they stood upon  their feet, a very exceedingly great gathering. 
-<small><sub>**KJV:**</sub></small>
-So I prophesied as he commanded me, and the breath came into them, and they lived, and stood up upon their feet, an exceeding great army.
-<small><sub>**BSB:**</sub></small>
-So I prophesied as He had commanded me, and the breath entered them, and they came to life and stood on their feet—a vast army.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.37.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.37.9|<< Ezekiel 37:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.37.11|Ezekiel 37:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ezekiel 37:10** is...

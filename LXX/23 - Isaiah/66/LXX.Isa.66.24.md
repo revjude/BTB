@@ -1,10 +1,7 @@
 **LXX Isaiah 66:24** 
 <small><sub>**LXX:**</sub></small>
 And they shall go forth, and shall see the carcasses  of men, the ones violating against me.  For their worm shall not come to an end, and  their fire shall not be extinguished. And they will be for a sight to all flesh. 
-<small><sub>**KJV:**</sub></small>
-And they shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh.
-<small><sub>**BSB:**</sub></small>
-“As they go forth, they will see the corpses of the men who have rebelled against Me; for their worm will never die, their fire will never be quenched, and they will be a horror to all mankind.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.66.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.66.23|<< Isaiah 66:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.1.1|Jeremiah 1:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 66:24** is...

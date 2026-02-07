@@ -1,4 +1,4 @@
-**2 Kings 24:11** 
+**2 Kings 24:11**<big><big>[[2Kgs.24.10 The Captivity of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Nebuchadnezzar king of Babylon came against the city, and his servants did besiege it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Nebuchadnezzar king of Babylon came to the city while his servants were besi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.10|<< 2 Kings 24:10]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.12|2 Kings 24:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּבֹ֛א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vo'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Nebuchadnezzar  |**<big>&#8207;[[H5019\|נְבוּכַדְנֶאצַּ֥ר]]&#8207; </big>**| ne.vu.khad.ne.Tzar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

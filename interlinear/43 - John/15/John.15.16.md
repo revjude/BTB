@@ -1,12 +1,12 @@
-**John 15:16
-**<small><sub>**KJV:**</sub></small>
+**John 15:16**<big><big>[[John.15.9 No Greater Love|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and [that] your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.
 <small><sub>**BSB:**</sub></small>
 You did not choose Me, but I chose you. And I appointed you to go and bear fruit—fruit that will remain—so that whatever you ask the Father in My name, He will give you.
 <small><sub>**Literal:**</sub></small>
 Not you yourselves Me chose, but I myself chose you and appointed you that you yourselves may go and fruit you may bear, and the fruit of you may remain; so that which one maybe you may ask the Father in the name of Me, He may give you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.15|<< John 15:15]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.17|John 15:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|Οὐχ]]</big>**  |Ouch <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | you yourselves |**<big>[[G4771\|ὑμεῖς]]</big>**  |humeis <small><sup>[[P-2NP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

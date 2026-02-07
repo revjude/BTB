@@ -1,4 +1,4 @@
-**Psalms 119:32** 
+**Psalms 119:32**<big><big>[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will run the way of thy commandments, when thou shalt enlarge my heart.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I run in the path of Your commandments, for You will enlarge my heart.
 > $\quad$ referenced by: [[2Cor.6.11|2Cor 6:11]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] way of  |**<big>&#8207;[[H1870G\|דֶּֽרֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.rekh-<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | commandments your  |**<big>&#8207;[[H4687\|מִצְוֹתֶ֥י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| mitz.vo.Tei.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

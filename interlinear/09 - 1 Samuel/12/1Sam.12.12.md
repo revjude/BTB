@@ -1,4 +1,4 @@
-**1 Samuel 12:12** 
+**1 Samuel 12:12**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when ye saw that Nahash the king of the children of Ammon came against you, ye said unto me, Nay; but a king shall reign over us: when the LORD your God [was] your king.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But when you saw that Nahash king of the Ammonites was moving against you, you s
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.11|<< 1 Samuel 12:11]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.13|1 Samuel 12:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you saw  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7200G\|תִּרְא֗וּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tir.'U<small><sup>[[HVqw2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

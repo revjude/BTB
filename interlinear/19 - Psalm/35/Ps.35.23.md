@@ -1,4 +1,4 @@
-**Psalms 35:23** 
+**Psalms 35:23**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Stir up thyself, and awake to my judgment, [even] unto my cause, my God and my Lord.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Awake and rise to my defense, to my cause, my God and my Lord!
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.22|<< Psalms 35:22]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.24|Psalms 35:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | wake up !  |**<big>&#8207;[[H5782\|הָעִ֣ירָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ha.'I.ra<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and awake !  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H6974\|הָקִיצָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> ha.ki.tza<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |

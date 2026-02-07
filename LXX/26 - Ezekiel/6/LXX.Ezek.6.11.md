@@ -1,10 +1,7 @@
 **LXX Ezekiel 6:11** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>; Clap with the hand, and stamp with the foot, and say, Well done, over all the abominations of \[the\] house of Israel! By \[the\] broadsword, and by plague, and by famine they shall fall. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the Lord GOD; Smite with thine hand, and stamp with thy foot, and say, Alas for all the evil abominations of the house of Israel! for they shall fall by the sword, by the famine, and by the pestilence.
-<small><sub>**BSB:**</sub></small>
-This is what the Lord GOD says: Clap your hands, stomp your feet, and cry out “Alas!” because of all the wicked abominations of the house of Israel, who will fall by sword and famine and plague.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.6.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.6.10|<< Ezekiel 6:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.6.12|Ezekiel 6:12 >>]]</td></tr></table>
 
 | Translation | Greek |

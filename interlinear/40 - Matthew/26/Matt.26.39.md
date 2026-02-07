@@ -1,12 +1,12 @@
-**Matthew 26:39
-**<small><sub>**KJV:**</sub></small>
+**Matthew 26:39**<big><big>[[Matt.26.36 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he went a little further, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as thou [wilt].
 <small><sub>**BSB:**</sub></small>
 Going a little farther, He fell facedown and prayed, “My Father, if it is possible, let this cup pass from Me. Yet not as I will, but as You will.”
 <small><sub>**Literal:**</sub></small>
 And having gone forward a little He fell upon face of Him praying and saying; Father of Mine, if possible it is, should pass from Me <the> cup this; Nevertheless not [it is] as I myself wish but as You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.38|<< Matthew 26:38]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.40|Matthew 26:40 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having gone forward [^1] |**<big>[[G4281\|προελθὼν]]</big>**  |proelthōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+SBL+WH+TR">NK(o)</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Numbers 6:16** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall bring \[them\] before \[the\] <span class="smallcaps">lord</span>, and shall offer the \[sacrifice\] for his sin \[offering\], and  his whole burnt-offering. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall bring [them] before the LORD, and shall offer his sin offering, and his burnt offering:
-<small><sub>**BSB:**</sub></small>
-The priest is to present all these before the LORD and make the sin offering and the burnt offering.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.15|<< Numbers 6:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.17|Numbers 6:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Colossians 2:5
-**<small><sub>**KJV:**</sub></small>
+**Colossians 2:5**<big><big>[[Col.2.1 Absent in Body, Present in Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.
 <small><sub>**BSB:**</sub></small>
 For although I am absent from you in body, I am present with you in spirit, and I delight to see your orderly condition and firm faith in Christ.
 <small><sub>**Literal:**</sub></small>
 If truly even in the flesh I am absent, yet <the> in spirit with you I am, rejoicing and seeing your <the> good order and the firmness of the in Christ faith of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.4|<< Colossians 2:4]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.6|Colossians 2:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487M\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | truly |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

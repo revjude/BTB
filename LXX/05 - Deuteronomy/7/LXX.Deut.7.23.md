@@ -1,10 +1,7 @@
 **LXX Deuteronomy 7:23** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> your God delivered them into  your hands, and you shall destroy them in a great destruction, until whenever you should utterly destroy them. 
-<small><sub>**KJV:**</sub></small>
-But the LORD thy God shall deliver them unto thee, and shall destroy them with a mighty destruction, until they be destroyed.
-<small><sub>**BSB:**</sub></small>
-But the LORD your God will give them over to you and throw them into great confusion, until they are destroyed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.7.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.7.22|<< Deuteronomy 7:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.7.24|Deuteronomy 7:24 >>]]</td></tr></table>
 
 | Translation | Greek |

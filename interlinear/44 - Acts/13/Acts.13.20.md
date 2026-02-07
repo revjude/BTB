@@ -1,5 +1,5 @@
-**Acts 13:20
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:20**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And after that he gave [unto them] judges about the space of four hundred and fifty years, until Samuel the prophet.
 <small><sub>**BSB:**</sub></small>
 All this took about 450 years. After this, God gave them judges until the time of Samuel the prophet.
@@ -10,7 +10,7 @@ during years four hundred and fifty; And after these things He gave [them] judge
 > $\quad$ alluding to: [[LXX.Judg.2.16|Judg 2:16]] ☩ [[LXX.1Sam.3.20|1Sam 3:20]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | during |**<big>[[G5613\|ὡς]]</big>**  |hōs <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | years |**<big>[[G2094\|ἔτεσιν]]</big>**  |etesin <small><sup>[[N-DPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

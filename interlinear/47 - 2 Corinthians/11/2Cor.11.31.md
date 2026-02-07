@@ -1,12 +1,12 @@
-**2 Corinthians 11:31
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 11:31**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The God and Father of our Lord Jesus Christ, which is blessed for evermore, knoweth that I lie not.
 <small><sub>**BSB:**</sub></small>
 The God and Father of the Lord Jesus, who is forever worthy of praise, knows that I am not lying.
 <small><sub>**Literal:**</sub></small>
 The God and Father of the Lord of us Jesus Christ knows, who is being blessed to the ages, that not I am lying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.30|<< 2 Corinthians 11:30]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.32|2 Corinthians 11:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | God |**<big>[[G2316\|θεὸς]]</big>**  |theos <small><sup>[[N-NSM-T]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

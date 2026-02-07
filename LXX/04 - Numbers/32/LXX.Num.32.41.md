@@ -1,10 +1,7 @@
 **LXX Numbers 32:41** 
 <small><sub>**LXX:**</sub></small>
 And Jair the \[son\] of Manasseh went, and he took  their properties, and named them Properties of Jair. 
-<small><sub>**KJV:**</sub></small>
-And Jair the son of Manasseh went and took the small towns thereof, and called them Havothjair.
-<small><sub>**BSB:**</sub></small>
-Jair, a descendant of Manasseh, went and captured their villages and called them Havvoth-jair.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.41|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.40|<< Numbers 32:40]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.42|Numbers 32:42 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 30:10** 
+**Job 30:10**<big><big>[[Job.30.1 Job’s Honor Turned to Contempt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They abhor me, they flee far from me, and spare not to spit in my face.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They abhor me and keep far from me; they do not hesitate to spit in my face.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.9|<< Job 30:9]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.11|Job 30:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they abhor me  |**<big>&#8207;[[H8581\|תִּֽ֭עֲבוּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Ti.'a.vu.<small><sup>[[HVpp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are distant  |**<big>&#8207;[[H7368\|רָ֣חֲקוּ]]&#8207; </big>**| Ra.cha.ku<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

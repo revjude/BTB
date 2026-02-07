@@ -1,4 +1,4 @@
-**Ezekiel 44:1** 
+**Ezekiel 44:1**<big><big>[[Ezek.44.1 The East Gate Assigned to the Prince|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he brought me back the way of the gate of the outward sanctuary which looketh toward the east; and it [was] shut.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The man then brought me back to the outer gate of the sanctuary that faced east,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.27|<< Ezekiel 43:27]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.2|Ezekiel 44:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought back  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּ֣שֶׁב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.shev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> me  |**<big>&#8207;[[H0853\|אֹתִ֗]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

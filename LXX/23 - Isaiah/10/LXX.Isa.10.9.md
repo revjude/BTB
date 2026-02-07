@@ -1,10 +1,7 @@
 **LXX Isaiah 10:9** 
 <small><sub>**LXX:**</sub></small>
 then he shall say, \[Did\] I not take the place  above Babylon and Chalanes, where the tower was built? and I took Arabia, and Damascus, and Samaria? 
-<small><sub>**KJV:**</sub></small>
-[Is] not Calno as Carchemish? [is] not Hamath as Arpad? [is] not Samaria as Damascus?
-<small><sub>**BSB:**</sub></small>
-“Is not Calno like Carchemish? Is not Hamath like Arpad? Is not Samaria like Damascus?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.8|<< Isaiah 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.10|Isaiah 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

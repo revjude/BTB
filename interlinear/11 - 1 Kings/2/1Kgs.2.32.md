@@ -1,4 +1,4 @@
-**1 Kings 2:32** 
+**1 Kings 2:32**<big><big>[[1Kgs.2.28 The Execution of Joab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall return his blood upon his own head, who fell upon two men more righteous and better than he, and slew them with the sword, my father David not knowing [thereof, to wit], Abner the son of Ner, captain of the host of Israel, and Amasa the son of Jether, captain of the host of Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD will bring his bloodshed back upon his own head, for without the knowle
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.31|<< 1 Kings 2:31]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.33|1 Kings 2:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will bring back  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725G\|הֵשִׁיב֩]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> he.Shiv<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

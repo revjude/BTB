@@ -1,10 +1,7 @@
 **LXX Joshua 22:7** 
 <small><sub>**LXX:**</sub></small>
 And to the halves of \[the\] tribe Moses gave \[a portion\] in the Bashan \[area\]; and to the halves Joshua gave \[a portion\] with  his brethren on the other side of the Jordan towards \[the\] west. And when Joshua sent them unto  their houses, then he blessed them saying, 
-<small><sub>**KJV:**</sub></small>
-Now to the [one] half of the tribe of Manasseh Moses had given [possession] in Bashan: but unto the [other] half thereof gave Joshua among their brethren on this side Jordan westward. And when Joshua sent them away also unto their tents, then he blessed them,
-<small><sub>**BSB:**</sub></small>
-(To the half-tribe of Manasseh Moses had given land in Bashan, and to the other half Joshua gave land on the west side of the Jordan among their brothers.) When Joshua sent them to their homes he blessed them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.22.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.6|<< Joshua 22:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.8|Joshua 22:8 >>]]</td></tr></table>
 
 | Translation | Greek |

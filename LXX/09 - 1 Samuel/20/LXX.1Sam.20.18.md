@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Jonathan said to him, Tomorrow \[is a\] new moon, and overseeing your chair shall be watched. 
-<small><sub>**KJV:**</sub></small>
-Then Jonathan said to David, To morrow [is] the new moon: and thou shalt be missed, because thy seat will be empty.
-<small><sub>**BSB:**</sub></small>
-Then Jonathan said to David, “Tomorrow is the New Moon, and you will be missed, because your seat will be empty.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.17|<< 1 Samuel 20:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.19|1 Samuel 20:19 >>]]</td></tr></table>
 
 | Translation | Greek |

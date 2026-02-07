@@ -1,4 +1,4 @@
-**Hosea 13:13** 
+**Hosea 13:13**<big><big>[[Hos.13.9 Death and Resurrection|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sorrows of a travailing woman shall come upon him: he [is] an unwise son; for he should not stay long in [the place of] the breaking forth of children.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Labor pains come upon him, but he is an unwise son. When the time arrives, he fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.12|<< Hosea 13:12]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.14|Hosea 13:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] pains of  |**<big>&#8207;[[H2256B\|חֶבְלֵ֥י]]&#8207; </big>**| chev.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [one who] gives birth  |**<big>&#8207;[[H3205\|יֽוֹלֵדָ֖ה]]&#8207; </big>**| yo.le.Dah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

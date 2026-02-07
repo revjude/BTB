@@ -1,10 +1,7 @@
 **LXX Micah 3:7** 
 <small><sub>**LXX:**</sub></small>
 And the ones seeing the dreams shall be disgraced; and the clairvoyants shall be ridiculed; and all these shall speak ill against them; because there is not one heeding them. 
-<small><sub>**KJV:**</sub></small>
-Then shall the seers be ashamed, and the diviners confounded: yea, they shall all cover their lips; for [there is] no answer of God.
-<small><sub>**BSB:**</sub></small>
-Then the seers will be ashamed and the diviners will be disgraced. They will all cover their mouths because there is no answer from God.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.3.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.3.6|<< Micah 3:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.3.8|Micah 3:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Daniel 5:15** 
 <small><sub>**LXX:**</sub></small>
 And now there entered before me the wise \[men\], magi, \[and\] astrologers, that  they should read this writing, and the interpretation they should make known to me. But they were not able to announce to me. 
-<small><sub>**KJV:**</sub></small>
-And now the wise [men], the astrologers, have been brought in before me, that they should read this writing, and make known unto me the interpretation thereof: but they could not shew the interpretation of the thing:
-<small><sub>**BSB:**</sub></small>
-Now the wise men and enchanters were brought before me to read this inscription and interpret it for me, but they could not give its interpretation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.5.14|<< Daniel 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.5.16|Daniel 5:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Psalm 76:10** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] inner thought of man shall make acknowledgment to you; and \[what is\] left of \[the\] inner thought shall solemnize a holiday to you. 
-<small><sub>**KJV:**</sub></small>
-Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain.
-<small><sub>**BSB:**</sub></small>
-Even the wrath of man shall praise You; with the survivors of wrath You will clothe Yourself.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.76.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.76.9|<< Psalm 76:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.76.11|Psalm 76:11 >>]]</td></tr></table>
 
 | Translation | Greek |

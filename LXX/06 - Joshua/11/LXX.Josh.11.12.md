@@ -1,10 +1,7 @@
 **LXX Joshua 11:12** 
 <small><sub>**LXX:**</sub></small>
 And all the cities  of these kingdoms, and all  their kings, Joshua took and did away with them by \[the\] mouth of \[the\] sword. And he utterly destroyed them in which manner Moses the servant \[of the\] <span class="smallcaps">lord</span> ordered. 
-<small><sub>**KJV:**</sub></small>
-And all the cities of those kings, and all the kings of them, did Joshua take, and smote them with the edge of the sword, [and] he utterly destroyed them, as Moses the servant of the LORD commanded.
-<small><sub>**BSB:**</sub></small>
-Joshua captured all these kings and their cities and put them to the sword. He devoted them to destruction, as Moses the LORD’s servant had commanded.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.11.11|<< Joshua 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.11.13|Joshua 11:13 >>]]</td></tr></table>
 
 | Translation | Greek |

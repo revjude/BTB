@@ -1,4 +1,4 @@
-**Genesis 24:67** 
+**Genesis 24:67**<big><big>[[Gen.24.62 Isaac Marries Rebekah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaac brought her into his mother Sarah’s tent, and took Rebekah, and she became his wife; and he loved her: and Isaac was comforted after his mother’s [death].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And Isaac brought her into the tent of his mother Sarah and took Rebekah as his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.67|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.66|<< Genesis 24:66]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.1|Genesis 25:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he brought her  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יְבִאֶ֣]]&#8207;&#8207;[[H9034\|הָ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.vi.'E.<small><sup>[[HVhw3ms]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Isaac  |**<big>&#8207;[[H3327\|יִצְחָ֗ק]]&#8207; </big>**| yitz.Chak<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

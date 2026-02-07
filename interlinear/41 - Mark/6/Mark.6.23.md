@@ -1,12 +1,12 @@
-**Mark 6:23
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:23**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he sware unto her, Whatsoever thou shalt ask of me, I will give [it] thee, unto the half of my kingdom.
 <small><sub>**BSB:**</sub></small>
 And he swore to her, “Whatever you ask of me, I will give you, up to half my kingdom!”
 <small><sub>**Literal:**</sub></small>
 And he swore to her greatly whatever thing if me you shall ask I will give you until half of the kingdom of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.22|<< Mark 6:22]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.24|Mark 6:24 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he swore |**<big>[[G3660\|ὤμοσεν]]</big>**  |ōmosen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

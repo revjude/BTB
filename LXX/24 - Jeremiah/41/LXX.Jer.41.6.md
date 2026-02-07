@@ -1,10 +1,7 @@
 **LXX Jeremiah 41:6** 
 <small><sub>**LXX:**</sub></small>
 And Ishmael son of Nethaniah came forth to meet them from Mizpah, \[and\] they went and wept. And he said to them, Enter to Gedaliah! 
-<small><sub>**KJV:**</sub></small>
-And Ishmael the son of Nethaniah went forth from Mizpah to meet them, weeping all along as he went: and it came to pass, as he met them, he said unto them, Come to Gedaliah the son of Ahikam.
-<small><sub>**BSB:**</sub></small>
-And Ishmael son of Nethaniah went out from Mizpah to meet them, weeping as he went. When Ishmael encountered the men, he said, “Come to Gedaliah son of Ahikam.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.41.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.41.5|<< Jeremiah 41:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.41.7|Jeremiah 41:7 >>]]</td></tr></table>
 
 | Translation | Greek |

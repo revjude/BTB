@@ -1,10 +1,7 @@
 **LXX Jeremiah 25:25** 
 <small><sub>**LXX:**</sub></small>
 and all the kings of Zimri, and all \[the\] kings of Elam, and all \[the\] kings of \[the\] Medes, 
-<small><sub>**KJV:**</sub></small>
-And all the kings of Zimri, and all the kings of Elam, and all the kings of the Medes,
-<small><sub>**BSB:**</sub></small>
-all the kings of Zimri, Elam, and Media;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.25.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.25.24|<< Jeremiah 25:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.25.26|Jeremiah 25:26 >>]]</td></tr></table>
 
 | Translation | Greek |

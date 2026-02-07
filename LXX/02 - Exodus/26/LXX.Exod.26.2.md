@@ -1,10 +1,7 @@
 **LXX Exodus 26:2** 
 <small><sub>**LXX:**</sub></small>
 \[The\] length of the one curtain \[shall be\] eight and twenty cubits; and a breadth of four cubits shall be to the one curtain. The same measure shall be to all the curtains. 
-<small><sub>**KJV:**</sub></small>
-The length of one curtain [shall be] eight and twenty cubits, and the breadth of one curtain four cubits: and every one of the curtains shall have one measure.
-<small><sub>**BSB:**</sub></small>
-Each curtain shall be twenty-eight cubits long and four cubits wide—all curtains the same size.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.26.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.26.1|<< Exodus 26:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.26.3|Exodus 26:3 >>]]</td></tr></table>
 
 | Translation | Greek |

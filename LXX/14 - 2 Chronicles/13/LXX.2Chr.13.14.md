@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 13:14** 
 <small><sub>**LXX:**</sub></small>
 And Judah turned, and behold, the battle \[was\] against them from the \[places\] in front and from the \[places\] posterior. And they yelled to \[the\] <span class="smallcaps">lord</span>, and the priests trumped the trumpets. 
-<small><sub>**KJV:**</sub></small>
-And when Judah looked back, behold, the battle [was] before and behind: and they cried unto the LORD, and the priests sounded with the trumpets.
-<small><sub>**BSB:**</sub></small>
-When Judah turned and discovered that the battle was both before and behind them, they cried out to the LORD. Then the priests blew the trumpets,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.13.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.13.13|<< 2 Chronicles 13:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.13.15|2 Chronicles 13:15 >>]]</td></tr></table>
 
 | Translation | Greek |

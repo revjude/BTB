@@ -1,4 +1,4 @@
-**Psalms 7:4** (7:5)
+**Psalms 7:4**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I have rewarded evil unto him that was at peace with me; (yea, I have delivered him that without cause is mine enemy:)
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ if I have rewarded my ally with evil, if I have plundered my foe without cause,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.3|<< Psalms 7:3]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.5|Psalms 7:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have repaid  |**<big>&#8207;[[H1580\|גָּ֭מַלְתִּי]]&#8207; </big>**| Ga.mal.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

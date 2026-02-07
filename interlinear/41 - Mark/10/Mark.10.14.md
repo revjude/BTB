@@ -1,12 +1,12 @@
-**Mark 10:14
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:14**<big><big>[[Mark.10.13 Jesus Blesses the Children|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when Jesus saw [it], he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 But when Jesus saw this, He was indignant and told them, “Let the little children come to Me, and do not hinder them! For the kingdom of God belongs to such as these.
 <small><sub>**Literal:**</sub></small>
 Having seen now <the> Jesus was indignant and He said to them; do permit the little children to come to Me, and not do hinder them! To the for sof uch belongs the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.13|<< Mark 10:13]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.15|Mark 10:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|ἰδὼν]]</big>**  |idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

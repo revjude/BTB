@@ -1,12 +1,12 @@
-**Luke 12:55
-**<small><sub>**KJV:**</sub></small>
+**Luke 12:55**<big><big>[[Luke.12.54 Interpreting the Present Time|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when [ye see] the south wind blow, ye say, There will be heat; and it cometh to pass.
 <small><sub>**BSB:**</sub></small>
 And when the south wind blows, you say, ‘It will be hot,’ and it is.
 <small><sub>**Literal:**</sub></small>
 And when a south wind is blowing, you say that Heat there will be, and it happens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.54|<< Luke 12:54]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.56|Luke 12:56 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

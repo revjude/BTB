@@ -1,4 +1,4 @@
-**Amos 3:5** 
+**Amos 3:5**<big><big>[[Amos.3.1 Witnesses against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can a bird fall in a snare upon the earth, where no gin [is] for him? shall [one] take up a snare from the earth, and have taken nothing at all?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Does a bird land in a snare where no bait has been set? Does a trap spring from 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.3.4|<< Amos 3:4]]</td><td align="center" style="border:none;">[[Amos.3|Amos 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.3.6|Amos 3:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ does it fall  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H5307G\|תִפֹּ֤ל]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> ti.Pol<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a bird  |**<big>&#8207;[[H6833\|צִפּוֹר֙]]&#8207; </big>**| tzi.pOr<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

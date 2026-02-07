@@ -1,10 +1,7 @@
 **LXX Exodus 23:5** 
 <small><sub>**LXX:**</sub></small>
 And if you should see the beast of burden  of your enemy falling under  \[its\] \[load of\] merchandise, you shall not go by it, but you shall raise it with him. 
-<small><sub>**KJV:**</sub></small>
-If thou see the ass of him that hateth thee lying under his burden, and wouldest forbear to help him, thou shalt surely help with him.
-<small><sub>**BSB:**</sub></small>
-If you see the donkey of one who hates you fallen under its load, do not leave it there; you must help him with it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.23.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.23.4|<< Exodus 23:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.23.6|Exodus 23:6 >>]]</td></tr></table>
 
 | Translation | Greek |

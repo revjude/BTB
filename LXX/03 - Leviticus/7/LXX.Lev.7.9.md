@@ -1,10 +1,7 @@
 **LXX Leviticus 7:9** 
 <small><sub>**LXX:**</sub></small>
 And every sacrifice \[offering\] which should be prepared in the oven, and all which shall be prepared upon a grate or upon a frying pan, of the priest  offering it, it shall be his. 
-<small><sub>**KJV:**</sub></small>
-And all the meat offering that is baken in the oven, and all that is dressed in the fryingpan, and in the pan, shall be the priest’s that offereth it.
-<small><sub>**BSB:**</sub></small>
-Likewise, every grain offering that is baked in an oven or cooked in a pan or on a griddle belongs to the priest who presents it,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.7.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.7.8|<< Leviticus 7:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.7.10|Leviticus 7:10 >>]]</td></tr></table>
 
 | Translation | Greek |

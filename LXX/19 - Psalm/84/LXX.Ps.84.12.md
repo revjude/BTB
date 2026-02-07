@@ -1,10 +1,7 @@
 **LXX Psalm 84:12** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, the God of the forces, blessed \[is\] \[the\] man  hoping upon you. 
-<small><sub>**KJV:**</sub></small>
-O LORD of hosts, blessed [is] the man that trusteth in thee.
-<small><sub>**BSB:**</sub></small>
-O LORD of Hosts, how blessed is the man who trusts in You!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.84.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.11|<< Psalm 84:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.85.1|Psalm 85:1 >>]]</td></tr></table>
 
 | Translation | Greek |

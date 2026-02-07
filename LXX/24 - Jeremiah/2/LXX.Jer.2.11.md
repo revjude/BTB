@@ -1,10 +1,7 @@
 **LXX Jeremiah 2:11** 
 <small><sub>**LXX:**</sub></small>
 if nations changed their gods, and these are not gods!  But my people changed  their glory by which they do not derive benefit. 
-<small><sub>**KJV:**</sub></small>
-Hath a nation changed [their] gods, which [are] yet no gods? but my people have changed their glory for [that which] doth not profit.
-<small><sub>**BSB:**</sub></small>
-Has a nation ever changed its gods? (Yet they are not gods at all.) But My people have exchanged their Glory for useless idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.2.10|<< Jeremiah 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.2.12|Jeremiah 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

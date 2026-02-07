@@ -1,12 +1,12 @@
-**Matthew 27:1
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:1**<big><big>[[Matt.27.1 Jesus Delivered to Pilate|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When the morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:
 <small><sub>**BSB:**</sub></small>
 When morning came, all the chief priests and elders of the people conspired against Jesus to put Him to death.
 <small><sub>**Literal:**</sub></small>
 As morning then having arrived counsel took all the chief priests and the elders of the people against <the> Jesus so that they might put to death him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.75|<< Matthew 26:75]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.2|Matthew 27:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | As morning |**<big>[[G4405\|Πρωΐας]]</big>**  |Prōias <small><sup>[[N-GSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

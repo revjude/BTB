@@ -1,10 +1,7 @@
 **LXX Ezekiel 6:4** 
 <small><sub>**LXX:**</sub></small>
 And your altars and your sacred precincts will be broken down. And I will throw down your slain before  your idols. And I shall offer the corpses of the sons of Israel in front  of their idols. 
-<small><sub>**KJV:**</sub></small>
-And your altars shall be desolate, and your images shall be broken: and I will cast down your slain [men] before your idols.
-<small><sub>**BSB:**</sub></small>
-Your altars will be demolished and your incense altars will be smashed; and I will cast down your slain before your idols.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.6.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.6.3|<< Ezekiel 6:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.6.5|Ezekiel 6:5 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 13:12** 
+**Job 13:12**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your remembrances [are] like unto ashes, your bodies to bodies of clay.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your maxims are proverbs of ashes; your defenses are defenses of clay.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.11|<< Job 13:11]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.13|Job 13:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | memorials your  |**<big>&#8207;[[H2146\|זִֽ֭כְרֹנֵי]]&#8207;&#8207;[[H9026\|כֶם]]&#8207; </big>**| Zikh.ro.nei.<small><sup>[[HNcmpc]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] proverbs of  |**<big>&#8207;[[H4912\|מִשְׁלֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mish.lei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

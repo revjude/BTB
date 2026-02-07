@@ -1,10 +1,7 @@
 **LXX Isaiah 52:5** 
 <small><sub>**LXX:**</sub></small>
 And now, why shall you be here? Thus says \[the\] <span class="smallcaps">lord</span>, Because my people were taken without charge, wonder and shriek! Thus says \[the\] <span class="smallcaps">lord</span>, On account of you, my name always is being blasphemed among the nations. 
-<small><sub>**KJV:**</sub></small>
-Now therefore, what have I here, saith the LORD, that my people is taken away for nought? they that rule over them make them to howl, saith the LORD; and my name continually every day [is] blasphemed.
-<small><sub>**BSB:**</sub></small>
-And now what have I here? declares the LORD. For My people have been taken without cause; those who rule them taunt, declares the LORD, and My name is blasphemed continually all day long.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.52.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.52.4|<< Isaiah 52:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.52.6|Isaiah 52:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 52:5** is...

@@ -1,10 +1,7 @@
 **LXX Ezra 8:30** 
 <small><sub>**LXX:**</sub></small>
 And the priests and the Levites took the weight of the silver, and the gold, and the vessels,  to bring them into Jerusalem into \[the\] house  of our God. 
-<small><sub>**KJV:**</sub></small>
-So took the priests and the Levites the weight of the silver, and the gold, and the vessels, to bring [them] to Jerusalem unto the house of our God.
-<small><sub>**BSB:**</sub></small>
-So the priests and Levites took charge of the silver and gold and sacred articles that had been weighed out to be taken to the house of our God in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.8.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.8.29|<< Ezra 8:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.8.31|Ezra 8:31 >>]]</td></tr></table>
 
 | Translation | Greek |

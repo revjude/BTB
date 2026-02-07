@@ -1,10 +1,7 @@
 **LXX 1 Samuel 24:13** 
 <small><sub>**LXX:**</sub></small>
 As the ancient parable says, Trespass shall come forth from \[the\] lawless. But  my hand will not be against you. 
-<small><sub>**KJV:**</sub></small>
-As saith the proverb of the ancients, Wickedness proceedeth from the wicked: but mine hand shall not be upon thee.
-<small><sub>**BSB:**</sub></small>
-As the old proverb says, ‘Wickedness proceeds from the wicked.’ But my hand will never be against you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.24.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.24.12|<< 1 Samuel 24:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.24.14|1 Samuel 24:14 >>]]</td></tr></table>
 
 | Translation | Greek |

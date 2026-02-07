@@ -1,10 +1,7 @@
 **LXX Joel 1:11** 
 <small><sub>**LXX:**</sub></small>
 \[The\] farmers were withered. Wail \[for your\] possessions, for \[the\] wheat and barley; for \[the\] gathering of crops he has destroyed from out of \[the\] field! 
-<small><sub>**KJV:**</sub></small>
-Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.
-<small><sub>**BSB:**</sub></small>
-Be dismayed, O farmers, wail, O vinedressers, over the wheat and barley, because the harvest of the field has perished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Joel.1.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Joel.1.10|<< Joel 1:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Joel.1.12|Joel 1:12 >>]]</td></tr></table>
 
 | Translation | Greek |

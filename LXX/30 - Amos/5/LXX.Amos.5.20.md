@@ -1,10 +1,7 @@
 **LXX Amos 5:20** 
 <small><sub>**LXX:**</sub></small>
 Is not darkness the day of the <span class="smallcaps">lord</span>, and not light? and dimness, not having brightness in it? 
-<small><sub>**KJV:**</sub></small>
-[Shall] not the day of the LORD [be] darkness, and not light? even very dark, and no brightness in it?
-<small><sub>**BSB:**</sub></small>
-Will not the Day of the LORD be darkness and not light, even gloom with no brightness in it?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.19|<< Amos 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.21|Amos 5:21 >>]]</td></tr></table>
 
 | Translation | Greek |

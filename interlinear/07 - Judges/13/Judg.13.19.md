@@ -1,4 +1,4 @@
-**Judges 13:19** 
+**Judges 13:19**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Manoah took a kid with a meat offering, and offered [it] upon a rock unto the LORD: and [the angel] did wondrously; and Manoah and his wife looked on.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Manoah took a young goat and a grain offering and offered them on a rock to
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.18|<< Judges 13:18]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.20|Judges 13:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Manoah  |**<big>&#8207;[[H4495\|מָנ֜וֹחַ]]&#8207; </big>**| ma.No.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

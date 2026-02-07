@@ -1,4 +1,4 @@
-**Genesis 17:16** 
+**Genesis 17:16**<big><big>[[Gen.17.9 The Covenant of Circumcision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bless her, and give thee a son also of her: yea, I will bless her, and she shall be [a mother] of nations; kings of people shall be of her.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And I will bless her and will surely give you a son by her. I will bless her, an
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.17.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.17.15|<< Genesis 17:15]]</td><td align="center" style="border:none;">[[Gen.17|Genesis 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.17.17|Genesis 17:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will bless  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1288\|בֵרַכְתִּ֣י]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ve.rakh.Ti<small><sup>[[HVpq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> her  |**<big>&#8207;[[H0853\|אֹתָ֔]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

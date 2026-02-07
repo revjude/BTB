@@ -1,10 +1,7 @@
 **LXX Jeremiah 32:3** 
 <small><sub>**LXX:**</sub></small>
 By which king Zedekiah imprisoned him, saying, Why do you prophesy, saying, Thus said \[the\] <span class="smallcaps">lord</span>, Behold, I give  this city into \[the\] hand of \[the\] king of Babylon, and he shall take it; 
-<small><sub>**KJV:**</sub></small>
-For Zedekiah king of Judah had shut him up, saying, Wherefore dost thou prophesy, and say, Thus saith the LORD, Behold, I will give this city into the hand of the king of Babylon, and he shall take it;
-<small><sub>**BSB:**</sub></small>
-For Zedekiah king of Judah had imprisoned him, saying: “Why are you prophesying like this? You claim that the LORD says, ‘Behold, I am about to deliver this city into the hand of the king of Babylon, and he will capture it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.32.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.32.2|<< Jeremiah 32:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.32.4|Jeremiah 32:4 >>]]</td></tr></table>
 
 | Translation | Greek |

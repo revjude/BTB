@@ -1,12 +1,12 @@
-**Matthew 9:18
-**<small><sub>**KJV:**</sub></small>
+**Matthew 9:18**<big><big>[[Matt.9.18 The Healing Touch of Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 While he spake these things unto them, behold, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay thy hand upon her, and she shall live.
 <small><sub>**BSB:**</sub></small>
 While Jesus was saying these things, a synagogue leader came and knelt before Him. “My daughter has just died,” he said. “But come and place Your hand on her, and she will live.”
 <small><sub>**Literal:**</sub></small>
 These things when he is speaking to them behold a ruler certain having come was kneeling down to Him saying that The daughter of Mine presently has died; but having come do lay the hand of You upon her, and she will live.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.17|<< Matthew 9:17]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.19|Matthew 9:19 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | These things |**<big>[[G3778\|Ταῦτα]]</big>**  |Tauta <small><sup>[[D-APN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when he |**<big>[[G0846\|αὐτοῦ]]</big>**  |autou <small><sup>[[P-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

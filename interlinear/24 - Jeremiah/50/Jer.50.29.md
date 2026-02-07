@@ -1,4 +1,4 @@
-**Jeremiah 50:29** 
+**Jeremiah 50:29**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Call together the archers against Babylon: all ye that bend the bow, camp against it round about; let none thereof escape: recompense her according to her work; according to all that she hath done, do unto her: for she hath been proud against the LORD, against the Holy One of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Summon the archers against Babylon, all who string the bow. Encamp all around he
 > $\quad$ referenced by: [[Rev.18.6|Rev 18:6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | summon  |**<big>&#8207;[[H8085I\|הַשְׁמִ֣יעוּ]]&#8207; </big>**| hash.Mi.'u<small><sup>[[HVhv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | against  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

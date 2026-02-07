@@ -1,10 +1,7 @@
 **LXX Esther 2:15** 
 <small><sub>**LXX:**</sub></small>
 And in the fulfilling the time, Esther the daughter of Abihail, brother of \[the\] father of Mordecai, entered to the king. Not one \[thing\] she disregarded which the eunuch keeper of the women gave charge to her. For Esther was found in favor by all the ones seeing her. 
-<small><sub>**KJV:**</sub></small>
-Now when the turn of Esther, the daughter of Abihail the uncle of Mordecai, who had taken her for his daughter, was come to go in unto the king, she required nothing but what Hegai the king’s chamberlain, the keeper of the women, appointed. And Esther obtained favour in the sight of all them that looked upon her.
-<small><sub>**BSB:**</sub></small>
-Now Esther was the daughter of Abihail, the uncle from whom Mordecai had adopted her as his own daughter. And when it was her turn to go to the king, she did not ask for anything except what Hegai, the king’s trusted official in charge of the harem, had advised. And Esther found favor in the eyes of everyone who saw her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.14|<< Esther 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.16|Esther 2:16 >>]]</td></tr></table>
 
 | Translation | Greek |

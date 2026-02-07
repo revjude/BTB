@@ -1,12 +1,12 @@
-**Revelation 21:14
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:14**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.
 <small><sub>**BSB:**</sub></small>
 The wall of the city had twelve foundations bearing the names of the twelve apostles of the Lamb.
 <small><sub>**Literal:**</sub></small>
 And the wall of the city had foundations twelve and on them twelve names of the twelve apostles of the Lamb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.13|<< Revelation 21:13]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.15|Revelation 21:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

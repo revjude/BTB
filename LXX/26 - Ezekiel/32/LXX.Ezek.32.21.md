@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:21** 
 <small><sub>**LXX:**</sub></small>
 And the giants shall say to you, into \[the\] depth of \[the\] pit you are not best; you go down and sleep with  uncircumcised! in \[the\] midst of the ones slain by \[the\] sword. 
-<small><sub>**KJV:**</sub></small>
-The strong among the mighty shall speak to him out of the midst of hell with them that help him: they are gone down, they lie uncircumcised, slain by the sword.
-<small><sub>**BSB:**</sub></small>
-Mighty chiefs will speak from the midst of Sheol about Egypt and her allies: ‘They have come down and lie with the uncircumcised, with those slain by the sword.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.20|<< Ezekiel 32:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.22|Ezekiel 32:22 >>]]</td></tr></table>
 
 | Translation | Greek |

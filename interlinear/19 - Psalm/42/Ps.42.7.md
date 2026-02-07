@@ -1,4 +1,4 @@
-**Psalms 42:7** (42:8)
+**Psalms 42:7**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Deep calls to deep in the roar of Your waterfalls; all Your breakers and waves h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.6|<< Psalms 42:6]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.8|Psalms 42:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | deep  |**<big>&#8207;[[H8415\|תְּהֽוֹם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.hom-<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

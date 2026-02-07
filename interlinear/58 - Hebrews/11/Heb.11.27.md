@@ -1,5 +1,5 @@
-**Hebrews 11:27
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:27**<big><big>[[Heb.11.23 The Faith of Moses|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.
 <small><sub>**BSB:**</sub></small>
 By faith Moses left Egypt, not fearing the king’s anger; he persevered because he saw Him who is invisible.
@@ -10,7 +10,7 @@ By faith he left Egypt not having feared the anger of the king; the for Invisibl
 > $\quad$ alluding to: [[LXX.Exod.2.15|Exod 2:15]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | By faith |**<big>[[G4102G\|Πίστει]]</big>**  |Pistei <small><sup>[[N-DSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he left |**<big>[[G2641\|κατέλιπεν]]</big>**  |katelipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

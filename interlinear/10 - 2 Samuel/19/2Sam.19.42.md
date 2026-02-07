@@ -1,4 +1,4 @@
-**2 Samuel 19:42** (19:43)
+**2 Samuel 19:42**<big><big>[[2Sam.19.41 Contention over the King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the men of Judah answered the men of Israel, Because the king [is] near of kin to us: wherefore then be ye angry for this matter? have we eaten at all of the king’s [cost]? or hath he given us any gift?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And all the men of Judah replied to the men of Israel, “We did this because th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.41|<< 2 Samuel 19:41]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.43|2 Samuel 19:43 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּעַן֩]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.'An<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

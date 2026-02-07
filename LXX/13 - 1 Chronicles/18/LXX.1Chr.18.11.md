@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 18:11** 
 <small><sub>**LXX:**</sub></small>
 And these king David sanctified to the <span class="smallcaps">lord</span>, with the silver and the gold which he took from all the nations -- from Edom, and Moab, and from \[the\] sons of Ammon, and from the Philistines, and from Amalek. 
-<small><sub>**KJV:**</sub></small>
-Them also king David dedicated unto the LORD, with the silver and the gold that he brought from all [these] nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek.
-<small><sub>**BSB:**</sub></small>
-and King David dedicated these to the LORD, along with the silver and gold he had carried off from all these nations—from Edom and Moab, and from the Ammonites, Philistines, and Amalekites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.18.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.18.10|<< 1 Chronicles 18:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.18.12|1 Chronicles 18:12 >>]]</td></tr></table>
 
 | Translation | Greek |

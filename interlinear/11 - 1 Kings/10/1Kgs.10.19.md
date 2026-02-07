@@ -1,4 +1,4 @@
-**1 Kings 10:19** 
+**1 Kings 10:19**<big><big>[[1Kgs.10.14 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The throne had six steps, and the top of the throne [was] round behind: and [there were] stays on either side on the place of the seat, and two lions stood beside the stays.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The throne had six steps, and its back had a rounded top. There were armrests on
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.18|<< 1 Kings 10:18]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.20|1 Kings 10:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | six  |**<big>&#8207;[[H8337\|שֵׁ֧שׁ]]&#8207; </big>**| shesh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | steps  |**<big>&#8207;[[H4609B\|מַעֲל֣וֹת]]&#8207; </big>**| ma.'a.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

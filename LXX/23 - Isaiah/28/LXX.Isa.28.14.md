@@ -1,10 +1,7 @@
 **LXX Isaiah 28:14** 
 <small><sub>**LXX:**</sub></small>
 On account of this hear \[the\] word of \[the\] <span class="smallcaps">lord</span>, O men being afflicted, and  rulers  of this people  in Jerusalem! 
-<small><sub>**KJV:**</sub></small>
-Wherefore hear the word of the LORD, ye scornful men, that rule this people which [is] in Jerusalem.
-<small><sub>**BSB:**</sub></small>
-Therefore hear the word of the LORD, O scoffers who rule this people in Jerusalem.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.28.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.13|<< Isaiah 28:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.15|Isaiah 28:15 >>]]</td></tr></table>
 
 | Translation | Greek |

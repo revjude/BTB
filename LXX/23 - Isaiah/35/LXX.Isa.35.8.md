@@ -1,10 +1,7 @@
 **LXX Isaiah 35:8** 
 <small><sub>**LXX:**</sub></small>
 There will be there a pure way, and it shall be called a holy way; and in no way \[anything\] unclean pass by there; nor shall there be there an unclean way. But the ones having been scattered shall go upon it, and in no way shall they wander. 
-<small><sub>**KJV:**</sub></small>
-And an highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but it [shall be] for those: the wayfaring men, though fools, shall not err [therein].
-<small><sub>**BSB:**</sub></small>
-And there will be a highway called the Way of Holiness. The unclean will not travel it—only those who walk in the Way—and fools will not stray onto it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.35.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.35.7|<< Isaiah 35:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.35.9|Isaiah 35:9 >>]]</td></tr></table>
 
 | Translation | Greek |

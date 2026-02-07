@@ -1,4 +1,4 @@
-**Esther 1:4** 
+**Esther 1:4**<big><big>[[Esth.1.1 Xerxes’ Royal Feast|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When he shewed the riches of his glorious kingdom and the honour of his excellent majesty many days, [even] an hundred and fourscore days.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And for a full 180 days he displayed the glorious riches of his kingdom and the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.3|<< Esther 1:3]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.5|Esther 1:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | when showed he  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7200G\|הַרְאֹת֗]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> har.'o.T<small><sup>[[HVhcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

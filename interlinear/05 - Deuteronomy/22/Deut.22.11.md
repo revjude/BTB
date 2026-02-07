@@ -1,4 +1,4 @@
-**Deuteronomy 22:11** 
+**Deuteronomy 22:11**<big><big>[[Deut.22.1 Various Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not wear a garment of divers sorts, [as] of woollen and linen together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not wear clothes of wool and linen woven together.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.10|<< Deuteronomy 22:10]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.12|Deuteronomy 22:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will wear  |**<big>&#8207;[[H3847\|תִלְבַּשׁ֙]]&#8207; </big>**| til.Bash<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

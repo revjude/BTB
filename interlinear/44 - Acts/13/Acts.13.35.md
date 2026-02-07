@@ -1,5 +1,5 @@
-**Acts 13:35
-**<small><sub>**KJV:**</sub></small>
+**Acts 13:35**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore he saith also in another [psalm], Thou shalt not suffer thine Holy One to see corruption.
 <small><sub>**BSB:**</sub></small>
 So also, He says in another Psalm: ‘You will not let Your Holy One see decay.’
@@ -10,7 +10,7 @@ therefore also in another He says: Not You will allow the Holy One of you to see
 > $\quad$ referencing: [[LXX.Ps.16.10|Ps 16:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | therefore [^1] |**<big>[[G1360\|διότι]]</big>**  |dioti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | also |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

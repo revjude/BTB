@@ -1,4 +1,4 @@
-**Isaiah 53:2** 
+**Isaiah 53:2**<big><big>[[Isa.53.1 The Suffering Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he shall grow up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; and when we shall see him, [there is] no beauty that we should desire him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He grew up before Him like a tender shoot, and like a root out of dry ground. He
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.53.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53.1|<< Isaiah 53:1]]</td><td align="center" style="border:none;">[[Isa.53|Isaiah 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.53.3|Isaiah 53:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he grew up  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|יַּ֨עַל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'al<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like \<the> shoot  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H3126\|יּוֹנֵ֜ק]]&#8207; </big>**| ka<small><sup>[[HRd]]</sup></small> i.yo.Nek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

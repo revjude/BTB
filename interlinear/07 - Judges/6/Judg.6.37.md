@@ -1,4 +1,4 @@
-**Judges 6:37** 
+**Judges 6:37**<big><big>[[Judg.6.33 The Sign of the Fleece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will put a fleece of wool in the floor; [and] if the dew be on the fleece only, and [it be] dry upon all the earth [beside], then shall I know that thou wilt save Israel by mine hand, as thou hast said.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ then behold, I will place a fleece of wool on the threshing floor. If there is d
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.36|<< Judges 6:36]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.38|Judges 6:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֗י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

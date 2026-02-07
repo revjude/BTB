@@ -1,4 +1,4 @@
-**Ezekiel 36:25** 
+**Ezekiel 36:25**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will also sprinkle clean water on you, and you will be clean. I will cleanse y
 > $\quad$ related to: [[John.3.5|John 3:5]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will sprinkle  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2236\|זָרַקְתִּ֧י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> za.rak.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9036\|כֶ֛ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

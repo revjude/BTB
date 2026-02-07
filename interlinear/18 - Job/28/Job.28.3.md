@@ -1,4 +1,4 @@
-**Job 28:3** 
+**Job 28:3**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Man puts an end to the darkness; he probes the farthest recesses for ore in deep
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.2|<< Job 28:2]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.4|Job 28:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | an end  |**<big>&#8207;[[H7093\|קֵ֤ץ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ketz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | someone puts  |**<big>&#8207;[[H7760H\|שָׂ֤ם]]&#8207; </big>**| sam<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

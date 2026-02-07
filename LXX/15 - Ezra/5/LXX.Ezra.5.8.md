@@ -1,10 +1,7 @@
 **LXX Ezra 5:8** 
 <small><sub>**LXX:**</sub></small>
 Let it be known to the king! that we went into  Judea, \[the\] place for \[the\] house of the great God, and it is being built with the choice stones; and timber is inserted in the walls, and  that work \[is\] fittingly done, and the way is prospering in  their hands. 
-<small><sub>**KJV:**</sub></small>
-Be it known unto the king, that we went into the province of Judea, to the house of the great God, which is builded with great stones, and timber is laid in the walls, and this work goeth fast on, and prospereth in their hands.
-<small><sub>**BSB:**</sub></small>
-Let it be known to the king that we went into the province of Judah, to the house of the great God. The people are rebuilding it with large stones and placing timbers in the walls. This work is being carried out diligently and is prospering in their hands.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezra.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.5.7|<< Ezra 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.5.9|Ezra 5:9 >>]]</td></tr></table>
 
 | Translation | Greek |

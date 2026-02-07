@@ -1,4 +1,4 @@
-**Jeremiah 12:9** 
+**Jeremiah 12:9**<big><big>[[Jer.12.5 God’s Answer to Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine heritage [is] unto me [as] a speckled bird, the birds round about [are] against her; come ye, assemble all the beasts of the field, come to devour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Is not My inheritance to Me like a speckled bird of prey with other birds of pre
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.8|<< Jeremiah 12:8]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.10|Jeremiah 12:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ a bird of prey  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H5861\|עַ֨יִט]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> 'A.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | speckled  |**<big>&#8207;[[H6641\|צָב֤וּעַ]]&#8207; </big>**| tza.Vu.a'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

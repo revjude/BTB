@@ -1,4 +1,4 @@
-**1 Kings 11:37** 
+**1 Kings 11:37**<big><big>[[1Kgs.11.26 Jeroboam’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will take thee, and thou shalt reign according to all that thy soul desireth, and shalt be king over Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But as for you, I will take you, and you shall reign over all that your heart de
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.36|<< 1 Kings 11:36]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.38|1 Kings 11:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.> you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֹתְ]]&#8207;&#8207;[[H9031\|ךָ֣]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'o.te.<small><sup>[[HTo]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will take  |**<big>&#8207;[[H3947G\|אֶקַּ֔ח]]&#8207; </big>**| 'e.Kach<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

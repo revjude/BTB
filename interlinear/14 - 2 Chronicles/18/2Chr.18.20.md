@@ -1,4 +1,4 @@
-**2 Chronicles 18:20** 
+**2 Chronicles 18:20**<big><big>[[2Chr.18.12 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then there came out a spirit, and stood before the LORD, and said, I will entice him. And the LORD said unto him, Wherewith?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then a spirit came forward, stood before the LORD, and said, ‘I will entice hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.19|<< 2 Chronicles 18:19]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.21|2 Chronicles 18:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it came forth  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֣א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the spirit  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7307G\|ר֗וּחַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

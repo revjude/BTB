@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Now \[the\] daughter shall be obstructed by an obstruction. He ordered conflict for us. They shall strike with a rod upon \[the\] jaw the tribes  of Israel. 
-<small><sub>**KJV:**</sub></small>
-Now gather thyself in troops, O daughter of troops: he hath laid siege against us: they shall smite the judge of Israel with a rod upon the cheek.
-<small><sub>**BSB:**</sub></small>
-Now, O daughter of troops, mobilize your troops; for a siege is laid against us! With a rod they will strike the cheek of the judge of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.5.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.13|<< Micah 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.2|Micah 5:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Micah 5:1** is...

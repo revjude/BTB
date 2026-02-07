@@ -1,12 +1,12 @@
-**Matthew 12:13
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:13**<big><big>[[Matt.12.9 Jesus Heals on the Sabbath|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then saith he to the man, Stretch forth thine hand. And he stretched [it] forth; and it was restored whole, like as the other.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to the man, “Stretch out your hand.” So he stretched it out, and it was restored to full use, just like the other.
 <small><sub>**Literal:**</sub></small>
 Then He says to the man; do stretch out your <the> hand. And he stretched [it] out, and it was restored sound as the other.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.12|<< Matthew 12:12]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.14|Matthew 12:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

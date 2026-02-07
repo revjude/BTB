@@ -1,5 +1,5 @@
-**Galatians 3:8
-**<small><sub>**KJV:**</sub></small>
+**Galatians 3:8**<big><big>[[Gal.3.1 Faith and Belief|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And the scripture, foreseeing that God would justify the heathen through faith, preached before the gospel unto Abraham, [saying], In thee shall all nations be blessed.
 <small><sub>**BSB:**</sub></small>
 The Scripture foresaw that God would justify the Gentiles by faith, and foretold the gospel to Abraham: “All nations will be blessed through you.”
@@ -10,7 +10,7 @@ Having foreseen then the Scripture that by faith justifies the Gentiles <the> Go
 > $\quad$ referencing: [[LXX.Gen.12.3|Gen 12:3]] ☩ [[LXX.Gen.18.18|Gen 18:18]] ☩ [[LXX.Gen.22.18|Gen 22:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having foreseen |**<big>[[G4308\|προϊδοῦσα]]</big>**  |proidousa <small><sup>[[V-2AAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

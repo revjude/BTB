@@ -1,10 +1,7 @@
 **LXX Job 15:26** 
 <small><sub>**LXX:**</sub></small>
 And he ran against his insolence with \[the\] thickness of the back of his shield. 
-<small><sub>**KJV:**</sub></small>
-He runneth upon him, [even] on [his] neck, upon the thick bosses of his bucklers:
-<small><sub>**BSB:**</sub></small>
-rushing headlong at Him with a thick, studded shield.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.15.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.15.25|<< Job 15:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.15.27|Job 15:27 >>]]</td></tr></table>
 
 | Translation | Greek |

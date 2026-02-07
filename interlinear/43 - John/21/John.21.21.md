@@ -1,12 +1,12 @@
-**John 21:21
-**<small><sub>**KJV:**</sub></small>
+**John 21:21**<big><big>[[John.21.20 Jesus and the Beloved Disciple|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Peter seeing him saith to Jesus, Lord, and what [shall] this man [do]?
 <small><sub>**BSB:**</sub></small>
 When Peter saw him, he asked, “Lord, what about him?”
 <small><sub>**Literal:**</sub></small>
 Him therefore having seen <the> Peter says <the> to Jesus; Lord, this man and what about?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.20|<< John 21:20]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.22|John 21:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Him |**<big>[[G3778\|τοῦτον]]</big>**  |touton <small><sup>[[D-ASM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore [^1] |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">NO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:11** 
 <small><sub>**LXX:**</sub></small>
 and adorned you with ornamentation, and put bracelets around  your hands, and a necklace around  your neck. 
-<small><sub>**KJV:**</sub></small>
-I decked thee also with ornaments, and I put bracelets upon thy hands, and a chain on thy neck.
-<small><sub>**BSB:**</sub></small>
-I adorned you with jewelry, and I put bracelets on your wrists and a chain around your neck.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.10|<< Ezekiel 16:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.12|Ezekiel 16:12 >>]]</td></tr></table>
 
 | Translation | Greek |

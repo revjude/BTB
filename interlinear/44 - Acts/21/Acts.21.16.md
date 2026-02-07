@@ -1,12 +1,12 @@
-**Acts 21:16
-**<small><sub>**KJV:**</sub></small>
+**Acts 21:16**<big><big>[[Acts.21.8 Paul Visits Philip the Evangelist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 There went with us also [certain] of the disciples of Caesarea, and brought with them one Mnason of Cyprus, an old disciple, with whom we should lodge.
 <small><sub>**BSB:**</sub></small>
 Some of the disciples from Caesarea accompanied us, and they took us to stay at the home of Mnason the Cypriot, an early disciple.
 <small><sub>**Literal:**</sub></small>
 Went then also [some] of the disciples from Caesarea with us, bringing [one] with whom we may lodge, Mnason a certain Cypriot, an early disciple.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.15|<< Acts 21:15]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.17|Acts 21:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Went |**<big>[[G4905\|συνῆλθον]]</big>**  |sunēlthon <small><sup>[[V-2AAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

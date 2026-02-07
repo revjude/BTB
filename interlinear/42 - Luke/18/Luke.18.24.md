@@ -1,12 +1,12 @@
-**Luke 18:24
-**<small><sub>**KJV:**</sub></small>
+**Luke 18:24**<big><big>[[Luke.18.18 The Rich Young Ruler|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when Jesus saw that he was very sorrowful, he said, How hardly shall they that have riches enter into the kingdom of God!
 <small><sub>**BSB:**</sub></small>
 Seeing the man’s sadness, Jesus said, “How hard it is for the rich to enter the kingdom of God!
 <small><sub>**Literal:**</sub></small>
 Having seen then him <the> Jesus sorrowful became saying; How difficult [for] those <the> riches having [when] into the kingdom <the> of God they enter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.23|<< Luke 18:23]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.25|Luke 18:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having seen |**<big>[[G1492H\|Ἰδὼν]]</big>**  |Idōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

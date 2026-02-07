@@ -1,4 +1,4 @@
-**Joshua 24:3** 
+**Joshua 24:3**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I took your father Abraham from the other side of the flood, and led him throughout all the land of Canaan, and multiplied his seed, and gave him Isaac.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But I took your father Abraham from beyond the Euphrates and led him through all
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.2|<< Joshua 24:2]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.4|Joshua 24:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I took  |**<big>&#8207;[[H9001\|וָ֠]]&#8207;&#8207;[[H3947G\|אֶקַּח]]&#8207; </big>**| Va.<small><sup>[[Hc]]</sup></small> 'e.kach<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Numbers 30:5** 
 <small><sub>**LXX:**</sub></small>
 But if in shaking his head in dissent her father should dissent in which ever day he should hear  her vows, and  her sets of limits which she confirmed on  her life, \[then\] they shall not stand; and \[the\] <span class="smallcaps">lord</span> shall clear her for her father shook his head in dissent. 
-<small><sub>**KJV:**</sub></small>
-But if her father disallow her in the day that he heareth; not any of her vows, or of her bonds wherewith she hath bound her soul, shall stand: and the LORD shall forgive her, because her father disallowed her.
-<small><sub>**BSB:**</sub></small>
-But if her father prohibits her on the day he hears about it, then none of the vows or pledges by which she has bound herself shall stand. The LORD will absolve her because her father has prohibited her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.30.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.4|<< Numbers 30:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.6|Numbers 30:6 >>]]</td></tr></table>
 
 | Translation | Greek |

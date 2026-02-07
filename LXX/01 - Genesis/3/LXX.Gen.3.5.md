@@ -1,10 +1,7 @@
 **LXX Genesis 3:5** 
 <small><sub>**LXX:**</sub></small>
 For God knows that in which ever day you should eat of it, your eyes will be opened wide, and you will be as gods, knowing good and evil. 
-<small><sub>**KJV:**</sub></small>
-For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.
-<small><sub>**BSB:**</sub></small>
-“For God knows that in the day you eat of it, your eyes will be opened and you will be like God, knowing good and evil.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.3.4|<< Genesis 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.3.6|Genesis 3:6 >>]]</td></tr></table>
 
 | Translation | Greek |

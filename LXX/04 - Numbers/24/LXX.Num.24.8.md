@@ -1,10 +1,7 @@
 **LXX Numbers 24:8** 
 <small><sub>**LXX:**</sub></small>
  God guided him from out of Egypt; as \[the\] glory of a unicorn to him. He shall eat \[the\] nations of his enemies, and  he will extract the marrow of their thickness, and \[with\] his arrows he shall shoot an enemy. 
-<small><sub>**KJV:**</sub></small>
-God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce [them] through with his arrows.
-<small><sub>**BSB:**</sub></small>
-God brought him out of Egypt with strength like a wild ox, to devour hostile nations and crush their bones, to pierce them with arrows.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.7|<< Numbers 24:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.9|Numbers 24:9 >>]]</td></tr></table>
 
 | Translation | Greek |

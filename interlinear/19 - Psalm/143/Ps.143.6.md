@@ -1,4 +1,4 @@
-**Psalms 143:6** 
+**Psalms 143:6**<big><big>[[Ps.143.1 I Stretch Out My Hands to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I stretch forth my hands unto thee: my soul [thirsteth] after thee, as a thirsty land. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I stretch out my hands to You; my soul thirsts for You like a parched land. Sela
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.143.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.143.5|<< Psalms 143:5]]</td><td align="center" style="border:none;">[[Ps.143|Psalms 143]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.143.7|Psalms 143:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I have spread out  |**<big>&#8207;[[H6566\|פֵּרַ֣שְׂתִּי]]&#8207; </big>**| pe.Ras.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hands my  |**<big>&#8207;[[H3027G\|יָדַ֣]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ya.Da<small><sup>[[HNcbdc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

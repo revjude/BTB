@@ -1,12 +1,12 @@
-**Luke 7:24
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:24**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when the messengers of John were departed, he began to speak unto the people concerning John, What went ye out into the wilderness for to see? A reed shaken with the wind?
 <small><sub>**BSB:**</sub></small>
 After John’s messengers had left, Jesus began to speak to the crowds about John: “What did you go out into the wilderness to see? A reed swaying in the wind?
 <small><sub>**Literal:**</sub></small>
 When were departing then the messengers of John He began to speak to the crowds concerning John: What did you go out into the wilderness to see? A reed by [the] wind shaken?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.23|<< Luke 7:23]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.25|Luke 7:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When were departing |**<big>[[G0565\|Ἀπελθόντων]]</big>**  |Apelthontōn <small><sup>[[V-2AAP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

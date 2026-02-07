@@ -1,10 +1,7 @@
 **LXX Isaiah 41:9** 
 <small><sub>**LXX:**</sub></small>
 whom I took hold of from \[the\] uttermost parts of the earth; and from out of  its heights I called you; and I said to you, You are my servant; I chose you, and I did not abandon you. 
-<small><sub>**KJV:**</sub></small>
-[Thou] whom I have taken from the ends of the earth, and called thee from the chief men thereof, and said unto thee, Thou [art] my servant; I have chosen thee, and not cast thee away.
-<small><sub>**BSB:**</sub></small>
-I brought you from the ends of the earth and called you from its farthest corners. I said, ‘You are My servant.’ I have chosen and not rejected you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.41.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.41.8|<< Isaiah 41:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.41.10|Isaiah 41:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 41:9** is...

@@ -1,10 +1,7 @@
 **LXX Joshua 12:8** 
 <small><sub>**LXX:**</sub></small>
 in the mountain, and in the plain, and in Araba, and in Ashdod, and in the wilderness, and Negev -- the Hittite, and the Amorite, and the Canaanite, and the Perizzite, and the Hivite, and the Jebusite -- 
-<small><sub>**KJV:**</sub></small>
-In the mountains, and in the valleys, and in the plains, and in the springs, and in the wilderness, and in the south country; the Hittites, the Amorites, and the Canaanites, the Perizzites, the Hivites, and the Jebusites:
-<small><sub>**BSB:**</sub></small>
-the hill country, the foothills, the Arabah, the slopes, the wilderness, and the Negev—the lands of the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites):<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.12.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.12.7|<< Joshua 12:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.12.9|Joshua 12:9 >>]]</td></tr></table>
 
 | Translation | Greek |

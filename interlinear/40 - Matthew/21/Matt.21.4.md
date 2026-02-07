@@ -1,12 +1,12 @@
-**Matthew 21:4
-**<small><sub>**KJV:**</sub></small>
+**Matthew 21:4**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 All this was done, that it might be fulfilled which was spoken by the prophet, saying,
 <small><sub>**BSB:**</sub></small>
 This took place to fulfill what was spoken through the prophet:
 <small><sub>**Literal:**</sub></small>
 This then all has come to pass that it may be fulfilled that having been spoken through the prophet saying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.3|<< Matthew 21:3]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.5|Matthew 21:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | This |**<big>[[G3778\|Τοῦτο]]</big>**  |Touto <small><sup>[[D-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Kings 9:14** 
 <small><sub>**LXX:**</sub></small>
 And Jehu son of Jehoshaphat son of Nimshi confederated against Jehoram. And Jehoram guarded in Ramoth Gilead, he and all Israel before Hazael king of Syria. 
-<small><sub>**KJV:**</sub></small>
-So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. (Now Joram had kept Ramothgilead, he and all Israel, because of Hazael king of Syria.
-<small><sub>**BSB:**</sub></small>
-Thus Jehu son of Jehoshaphat, the son of Nimshi, conspired against Joram. (Now Joram and all Israel had been defending Ramoth-gilead against Hazael king of Aram,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.9.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.9.13|<< 2 Kings 9:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.15|2 Kings 9:15 >>]]</td></tr></table>
 
 | Translation | Greek |

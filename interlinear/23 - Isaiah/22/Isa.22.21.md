@@ -1,4 +1,4 @@
-**Isaiah 22:21** 
+**Isaiah 22:21**<big><big>[[Isa.22.15 A Message for Shebna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will clothe him with thy robe, and strengthen him with thy girdle, and I will commit thy government into his hand: and he shall be a father to the inhabitants of Jerusalem, and to the house of Judah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will clothe him with your robe and tie your sash around him. I will put your a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.20|<< Isaiah 22:20]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.22|Isaiah 22:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will clothe him  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3847\|הִלְבַּשְׁתִּ֣י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hil.bash.Ti<small><sup>[[HVhq1cs]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | tunic your  |**<big>&#8207;[[H3801\|כֻּתָּנְתֶּ֗]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ku.ta.ne.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

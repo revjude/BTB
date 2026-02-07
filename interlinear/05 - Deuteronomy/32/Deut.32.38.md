@@ -1,4 +1,4 @@
-**Deuteronomy 32:38** 
+**Deuteronomy 32:38**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which did eat the fat of their sacrifices, [and] drank the wine of their drink offerings? let them rise up and help you, [and] be your protection.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ which ate the fat of their sacrifices and drank the wine of their drink offering
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.37|<< Deuteronomy 32:37]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.39|Deuteronomy 32:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] fat of  |**<big>&#8207;[[H2459\|חֵ֤לֶב]]&#8207; </big>**| Che.lev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

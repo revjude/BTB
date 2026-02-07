@@ -1,4 +1,4 @@
-**2 Samuel 12:23** 
+**2 Samuel 12:23**<big><big>[[2Sam.12.13 David’s Loss and Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But now he is dead, wherefore should I fast? can I bring him back again? I shall go to him, but he shall not return to me.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But now that he is dead, why should I fast? Can I bring him back again? I will g
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.22|<< 2 Samuel 12:22]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.24|2 Samuel 12:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and now  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֣ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has died  |**<big>&#8207;[[H4191\|מֵ֗ת]]&#8207; </big>**| Met<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

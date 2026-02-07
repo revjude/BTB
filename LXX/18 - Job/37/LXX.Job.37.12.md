@@ -1,10 +1,7 @@
 **LXX Job 37:12** 
 <small><sub>**LXX:**</sub></small>
 and he shall turn aside \[the\] swirls by \[his\] rule for \[performing\] their works -- all as much as he should give charge to them. 
-<small><sub>**KJV:**</sub></small>
-And it is turned round about by his counsels: that they may do whatsoever he commandeth them upon the face of the world in the earth.
-<small><sub>**BSB:**</sub></small>
-They swirl about, whirling at His direction, accomplishing all that He commands over the face of all the earth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.37.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.37.11|<< Job 37:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.37.13|Job 37:13 >>]]</td></tr></table>
 
 | Translation | Greek |

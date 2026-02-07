@@ -1,4 +1,4 @@
-**Judges 13:8** 
+**Judges 13:8**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Manoah intreated the LORD, and said, O my Lord, let the man of God which thou didst send come again unto us, and teach us what we shall do unto the child that shall be born.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Manoah prayed to the LORD, “Please, O Lord, let the man of God You sent u
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.7|<< Judges 13:7]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.9|Judges 13:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he prayed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6279\|יֶּעְתַּ֥ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye'.Tar<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Manoah  |**<big>&#8207;[[H4495\|מָנ֛וֹחַ]]&#8207; </big>**| ma.No.ach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

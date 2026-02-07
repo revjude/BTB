@@ -1,4 +1,4 @@
-**Genesis 3:18** 
+**Genesis 3:18**<big><big>[[Gen.3.16 The Punishment of Mankind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field;
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Both thorns and thistles it will yield for you, and you will eat the plants of t
 > $\quad$ referenced by: [[Heb.6.8|Heb 6:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and thorn[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6975\|ק֥וֹץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Kotz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and thistle[s]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1863\|דַרְדַּ֖ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> dar.Dar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

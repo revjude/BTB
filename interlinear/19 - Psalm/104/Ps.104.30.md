@@ -1,4 +1,4 @@
-**Psalms 104:30** 
+**Psalms 104:30**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When You send Your Spirit, they are created, and You renew the face of the earth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.29|<< Psalms 104:29]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.31|Psalms 104:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | you send forth  |**<big>&#8207;[[H7971G\|תְּשַׁלַּ֣ח]]&#8207; </big>**| te.sha.Lach<small><sup>[[HVpi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | spirit your  |**<big>&#8207;[[H7307G\|ר֭וּחֲ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| Ru.cha.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Romans 6:2
-**<small><sub>**KJV:**</sub></small>
+**Romans 6:2**<big><big>[[Rom.6.1 Dead to Sin, Alive to God|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 God forbid. How shall we, that are dead to sin, live any longer therein?
 <small><sub>**BSB:**</sub></small>
 Certainly not! How can we who died to sin live in it any longer?
 <small><sub>**Literal:**</sub></small>
 Never would it be! Who we died <the> to sin, how still will we live in it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.1|<< Romans 6:1]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.3|Romans 6:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Never |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | would it be! |**<big>[[G1096\|γένοιτο.]]</big>**  |genoito <small><sup>[[V-2ADO-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

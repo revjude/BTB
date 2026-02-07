@@ -1,4 +1,4 @@
-**1 Kings 11:39** 
+**1 Kings 11:39**<big><big>[[1Kgs.11.26 Jeroboam’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will for this afflict the seed of David, but not for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Because of this, I will humble David’s descendants—but not forever.’”
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.38|<< 1 Kings 11:38]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.40|1 Kings 11:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so I may afflicted  |**<big>&#8207;[[H9002\|וַֽ]]&#8207;&#8207;[[H6031B\|אעַנֶּ֛ה]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.Neh<small><sup>[[HVpu1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,5 +1,5 @@
-**Acts 7:49
-**<small><sub>**KJV:**</sub></small>
+**Acts 7:49**<big><big>[[Acts.7.44 The Tabernacle of the Testimony|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Heaven [is] my throne, and earth [is] my footstool: what house will ye build me? saith the Lord: or what [is] the place of my rest?
 <small><sub>**BSB:**</sub></small>
 ‘Heaven is My throne and the earth is My footstool. What kind of house will you build for Me, says the Lord, or where will My place of repose be?
@@ -10,7 +10,7 @@ Heaven [is] my throne, and earth [is] my footstool: what house will ye build me?
 > $\quad$ referencing: [[LXX.Isa.66.1|Isa 66:1-2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Heaven [is] |**<big>[[G3772\|οὐρανός]]</big>**  |ouranos <small><sup>[[N-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

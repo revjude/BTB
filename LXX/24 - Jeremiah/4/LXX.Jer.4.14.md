@@ -1,10 +1,7 @@
 **LXX Jeremiah 4:14** 
 <small><sub>**LXX:**</sub></small>
 Wash your heart from evils, O Jerusalem! that you should be delivered. For how long \[the\] devices of your miseries exist in you? 
-<small><sub>**KJV:**</sub></small>
-O Jerusalem, wash thine heart from wickedness, that thou mayest be saved. How long shall thy vain thoughts lodge within thee?
-<small><sub>**BSB:**</sub></small>
-Wash the evil from your heart, O Jerusalem, so that you may be saved. How long will you harbor wicked thoughts within you?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.4.13|<< Jeremiah 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.4.15|Jeremiah 4:15 >>]]</td></tr></table>
 
 | Translation | Greek |

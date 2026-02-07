@@ -1,4 +1,4 @@
-**Exodus 22:25** (22:24)
+**Exodus 22:25**<big><big>[[Exod.22.16 Laws of Social Responsibility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou lend money to [any of] my people [that is] poor by thee, thou shalt not be to him as an usurer, neither shalt thou lay upon him usury.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If you lend money to one of My people among you who is poor, you must not act as
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.24|<< Exodus 22:24]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.26|Exodus 22:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | money  |**<big>&#8207;[[H3701G\|כֶּ֣סֶף]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

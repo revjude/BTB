@@ -1,10 +1,7 @@
 **LXX Numbers 16:19** 
 <small><sub>**LXX:**</sub></small>
 And Korah rose up together against them, the whole of his congregation, by the door of the tent of the testimony. And appeared the glory of \[the\] <span class="smallcaps">lord</span> to all the congregation. 
-<small><sub>**KJV:**</sub></small>
-And Korah gathered all the congregation against them unto the door of the tabernacle of the congregation: and the glory of the LORD appeared unto all the congregation.
-<small><sub>**BSB:**</sub></small>
-When Korah had gathered his whole assembly against them at the entrance to the Tent of Meeting, the glory of the LORD appeared to the whole congregation.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.18|<< Numbers 16:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.20|Numbers 16:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 51:13** 
+**Isaiah 51:13**<big><big>[[Isa.51.1 Salvation for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And forgettest the LORD thy maker, that hath stretched forth the heavens, and laid the foundations of the earth; and hast feared continually every day because of the fury of the oppressor, as if he were ready to destroy? and where [is] the fury of the oppressor?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But you have forgotten the LORD, your Maker, who stretched out the heavens and l
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.12|<< Isaiah 51:12]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.14|Isaiah 51:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you have forgotten  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7911\|תִּשְׁכַּ֞ח]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tish.Kach<small><sup>[[HVqw2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

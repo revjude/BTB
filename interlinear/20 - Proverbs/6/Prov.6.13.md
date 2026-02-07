@@ -1,4 +1,4 @@
-**Proverbs 6:13** 
+**Proverbs 6:13**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He winketh with his eyes, he speaketh with his feet, he teacheth with his fingers;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ winking his eyes, speaking with his feet, and pointing with his fingers.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.12|<< Proverbs 6:12]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.14|Proverbs 6:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he is] winking  |**<big>&#8207;[[H7169\|קֹרֵ֣ץ]]&#8207; </big>**| ko.Retz<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with eyes his  [^3]|**<big>&#8207;[[H9003\|בְּ֭]]&#8207;&#8207;[[H5869A\|עֵינָי]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**[^4] | Be.<small><sup>[[HR]]</sup></small> 'ei.na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

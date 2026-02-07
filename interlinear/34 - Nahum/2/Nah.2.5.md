@@ -1,4 +1,4 @@
-**Nahum 2:5** (2:6)
+**Nahum 2:5**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall recount his worthies: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He summons his nobles; they stumble as they advance. They race to its wall; the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.4|<< Nahum 2:4]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.6|Nahum 2:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he remembers  |**<big>&#8207;[[H2142\|יִזְכֹּר֙]]&#8207; </big>**| yiz.Kor<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nobles his  |**<big>&#8207;[[H0117\|אַדִּירָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.di.Ra<small><sup>[[HAampc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

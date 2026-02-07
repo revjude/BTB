@@ -1,12 +1,12 @@
-**John 8:24
-**<small><sub>**KJV:**</sub></small>
+**John 8:24**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I said therefore unto you, that ye shall die in your sins: for if ye believe not that I am [he], ye shall die in your sins.
 <small><sub>**BSB:**</sub></small>
 That is why I told you that you would die in your sins. For unless you believe that I am He, you will die in your sins.”
 <small><sub>**Literal:**</sub></small>
 I said therefore to you that you will die in the sins of you; only for unless you shall believe that I myself am [He], you will die in the sins of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.23|<< John 8:23]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.25|John 8:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I said |**<big>[[G2036\|εἶπον]]</big>**  |eipon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,5 +1,5 @@
-**John 12:15
-**<small><sub>**KJV:**</sub></small>
+**John 12:15**<big><big>[[John.12.12 The Triumphal Entry|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Fear not, daughter of Sion: behold, thy King cometh, sitting on an ass’s colt.
 <small><sub>**BSB:**</sub></small>
 “Do not be afraid, O Daughter of Zion. See, your King is coming, seated on the colt of a donkey.”
@@ -10,7 +10,7 @@ Not do fear daughter of Zion; Behold the King of you comes sitting on a colt of 
 > $\quad$ referencing: [[LXX.Isa.35.4|Isa 35:4]] ☩ [[LXX.Isa.40.9|Isa 40:9]] ☩ [[LXX.Zech.9.9|Zech 9:9]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3361\|μὴ]]</big>**  |mē <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | do fear |**<big>[[G5399\|φοβοῦ]]</big>**  |phobou <small><sup>[[V-PNM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

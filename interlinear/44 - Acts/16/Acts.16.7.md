@@ -1,12 +1,12 @@
-**Acts 16:7
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:7**<big><big>[[Acts.16.6 Paul’s Vision of the Macedonian|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 After they were come to Mysia, they assayed to go into Bithynia: but the Spirit suffered them not.
 <small><sub>**BSB:**</sub></small>
 And when they came to the border of Mysia, they tried to enter Bithynia, but the Spirit of Jesus would not permit them.
 <small><sub>**Literal:**</sub></small>
 having come then down to <the> Mysia they were attempting into <the> Bithynia to go, and not did allow them the Spirit of Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.6|<< Acts 16:6]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.8|Acts 16:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | having come |**<big>[[G2064\|ἐλθόντες]]</big>**  |elthontes <small><sup>[[V-2AAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">no</abbr> | |

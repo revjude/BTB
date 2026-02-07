@@ -1,10 +1,7 @@
 **LXX Jeremiah 17:27** 
 <small><sub>**LXX:**</sub></small>
 And it will be if you should not hearken to me  to sanctify the day of the Sabbaths,  to lift no burdens, and to not enter through the gates of Jerusalem in the day of the Sabbaths; then I will kindle a fire in  her gates; and it shall devour \[the\] plazas of Jerusalem, and it shall not be extinguished. 
-<small><sub>**KJV:**</sub></small>
-But if ye will not hearken unto me to hallow the sabbath day, and not to bear a burden, even entering in at the gates of Jerusalem on the sabbath day; then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched.
-<small><sub>**BSB:**</sub></small>
-But if you do not listen to Me to keep the Sabbath day holy by not carrying a load while entering the gates of Jerusalem on the Sabbath day, then I will kindle an unquenchable fire in its gates to consume the citadels of Jerusalem.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.17.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.17.26|<< Jeremiah 17:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.1|Jeremiah 18:1 >>]]</td></tr></table>
 
 | Translation | Greek |

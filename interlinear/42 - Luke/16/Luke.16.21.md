@@ -1,12 +1,12 @@
-**Luke 16:21
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:21**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And desiring to be fed with the crumbs which fell from the rich man’s table: moreover the dogs came and licked his sores.
 <small><sub>**BSB:**</sub></small>
 and longing to be fed with the crumbs that fell from the rich man’s table. Even the dogs came and licked his sores.
 <small><sub>**Literal:**</sub></small>
 and desiring to be fed from <the> crumbs that falling from the table of the rich man; but even the dogs coming were licking the sores of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.20|<< Luke 16:20]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.22|Luke 16:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | desiring |**<big>[[G1937\|ἐπιθυμῶν]]</big>**  |epithumōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

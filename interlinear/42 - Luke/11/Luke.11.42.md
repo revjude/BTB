@@ -1,12 +1,12 @@
-**Luke 11:42
-**<small><sub>**KJV:**</sub></small>
+**Luke 11:42**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone.
 <small><sub>**BSB:**</sub></small>
 Woe to you Pharisees! For you pay tithes of mint, rue, and every herb, but you disregard justice and the love of God. You should have practiced the latter without neglecting the former.
 <small><sub>**Literal:**</sub></small>
 But woe to you <the> Pharisees, for you pay tithes of <the> mint and <the> rue and every herb and you pass by the justice and the love <the> of God; These things also it was necessary for [you] to do, and those not to neglect.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.41|<< Luke 11:41]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.43|Luke 11:43 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|Ἀλλ᾽]]</big>**  [^1] |All᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | woe |**<big>[[G3759\|οὐαὶ]]</big>**  |ouai <small><sup>[[INJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

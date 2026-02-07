@@ -1,4 +1,4 @@
-**Psalms 109:26** 
+**Psalms 109:26**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Help me, O LORD my God: O save me according to thy mercy:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Help me, O LORD my God; save me according to Your loving devotion.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.25|<< Psalms 109:25]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.27|Psalms 109:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | help me  |**<big>&#8207;[[H5826\|עָ֭זְרֵ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| 'A.ze.re.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֣ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

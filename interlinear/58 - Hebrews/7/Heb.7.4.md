@@ -1,12 +1,12 @@
-**Hebrews 7:4
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 7:4**<big><big>[[Heb.7.1 Melchizedek and Abraham|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now consider how great this man [was], unto whom even the patriarch Abraham gave the tenth of the spoils.
 <small><sub>**BSB:**</sub></small>
 Consider how great Melchizedek was: Even the patriarch Abraham gave him a tenth of the plunder.
 <small><sub>**Literal:**</sub></small>
 do consider now how great this one [was], to whom even a tenth Abraham gave out of the best spoils the patriarch.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.3|<< Hebrews 7:3]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.5|Hebrews 7:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do consider |**<big>[[G2334\|Θεωρεῖτε]]</big>**  |Theōreite <small><sup>[[V-PAM-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

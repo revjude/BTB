@@ -1,12 +1,12 @@
-**Mark 6:16
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:16**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when Herod heard [thereof], he said, It is John, whom I beheaded: he is risen from the dead.
 <small><sub>**BSB:**</sub></small>
 But when Herod heard this, he said, “John, whom I beheaded, has risen from the dead!”
 <small><sub>**Literal:**</sub></small>
 Having heard now <the> Herod was saying that: Whom I myself beheaded John — he [it] is he himself is risen from dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.15|<< Mark 6:15]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.17|Mark 6:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having heard |**<big>[[G0191\|ἀκούσας]]</big>**  |akousas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

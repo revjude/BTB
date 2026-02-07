@@ -1,10 +1,7 @@
 **LXX Joshua 9:25** 
 <small><sub>**LXX:**</sub></small>
 And now, behold, we \[are\] under your hands as it pleases you. And as it seems \[good\] to do to us, you do it! 
-<small><sub>**KJV:**</sub></small>
-And now, behold, we [are] in thine hand: as it seemeth good and right unto thee to do unto us, do.
-<small><sub>**BSB:**</sub></small>
-Now we are in your hands. Do to us whatever seems good and right to you.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.24|<< Joshua 9:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.26|Joshua 9:26 >>]]</td></tr></table>
 
 | Translation | Greek |

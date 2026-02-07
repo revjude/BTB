@@ -1,4 +1,4 @@
-**Genesis 24:14** 
+**Genesis 24:14**<big><big>[[Gen.24.1 A Wife for Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let it come to pass, that the damsel to whom I shall say, Let down thy pitcher, I pray thee, that I may drink; and she shall say, Drink, and I will give thy camels drink also: [let the same be] she [that] thou hast appointed for thy servant Isaac; and thereby shall I know that thou hast shewed kindness unto my master.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now may it happen that the girl to whom I say, ‘Please let down your jar that 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.13|<< Genesis 24:13]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.15|Genesis 24:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֣ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the young woman  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H5291\|נַּעֲרָ֗]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.'a.Ra<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

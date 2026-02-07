@@ -1,4 +1,4 @@
-**Isaiah 13:1** 
+**Isaiah 13:1**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of Babylon, which Isaiah the son of Amoz did see.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is the burden against Babylon that Isaiah son of Amoz received:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.12.6|<< Isaiah 12:6]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.2|Isaiah 13:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] oracle of  |**<big>&#8207;[[H4853B\|מַשָּׂ֖א]]&#8207; </big>**| ma.Sa'<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Babylon  |**<big>&#8207;[[H0894\|בָּבֶ֑ל]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

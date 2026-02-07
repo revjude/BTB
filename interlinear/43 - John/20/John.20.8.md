@@ -1,12 +1,12 @@
-**John 20:8
-**<small><sub>**KJV:**</sub></small>
+**John 20:8**<big><big>[[John.20.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed.
 <small><sub>**BSB:**</sub></small>
 Then the other disciple, who had reached the tomb first, also went in. And he saw and believed.
 <small><sub>**Literal:**</sub></small>
 Then therefore entered also the other disciple <the> having come first to the tomb and he saw and believed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.7|<< John 20:7]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.9|John 20:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

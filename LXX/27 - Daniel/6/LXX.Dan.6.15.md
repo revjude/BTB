@@ -1,10 +1,7 @@
 **LXX Daniel 6:15** 
 <small><sub>**LXX:**</sub></small>
 Then  those men say to the king, Know, O king! that the decree of \[the\] Medes and Persians,  every enactment and position which the king shall establish must not be altered. 
-<small><sub>**KJV:**</sub></small>
-Then these men assembled unto the king, and said unto the king, Know, O king, that the law of the Medes and Persians [is], That no decree nor statute which the king establisheth may be changed.
-<small><sub>**BSB:**</sub></small>
-Then the men approached the king together and said to him, “Remember, O king, that by the law of the Medes and Persians no decree or ordinance established by the king can be changed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.6.14|<< Daniel 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.6.16|Daniel 6:16 >>]]</td></tr></table>
 
 | Translation | Greek |

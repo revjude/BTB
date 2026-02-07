@@ -1,10 +1,7 @@
 **LXX Joshua 6:18** 
 <small><sub>**LXX:**</sub></small>
 But you guard from the offering for consumption! lest at any time pondering, you should take of the offering for consumption, and should make the camp of the sons of Israel an offering for consumption, and he should obliterate us. 
-<small><sub>**KJV:**</sub></small>
-And ye, in any wise keep [yourselves] from the accursed thing, lest ye make [yourselves] accursed, when ye take of the accursed thing, and make the camp of Israel a curse, and trouble it.
-<small><sub>**BSB:**</sub></small>
-But keep away from the things devoted to destruction, lest you yourself be set apart for destruction. If you take any of these, you will set apart the camp of Israel for destruction and bring disaster upon it.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.17|<< Joshua 6:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.19|Joshua 6:19 >>]]</td></tr></table>
 
 | Translation | Greek |

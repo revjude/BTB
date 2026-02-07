@@ -1,12 +1,12 @@
-**Mark 8:7
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:7**<big><big>[[Mark.8.1 The Feeding of the Four Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they had a few small fishes: and he blessed, and commanded to set them also before [them].
 <small><sub>**BSB:**</sub></small>
 They also had a few small fish, and Jesus blessed them and ordered that these be set before them as well.
 <small><sub>**Literal:**</sub></small>
 And they had small fish a few; And having blessed them He ordered also these to be set before [them].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.6|<< Mark 8:6]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.8|Mark 8:8 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they had |**<big>[[G2192\|εἶχον]]</big>**  [^1] |eichon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

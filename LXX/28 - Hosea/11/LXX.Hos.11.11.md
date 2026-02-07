@@ -1,10 +1,7 @@
 **LXX Hosea 11:11** 
 <small><sub>**LXX:**</sub></small>
 They shall be startled as a bird from out of Egypt, and as a dove from out of \[the\] land of \[the\] Assyrians; and I will restore them unto  their houses, says \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the LORD.
-<small><sub>**BSB:**</sub></small>
-They will come trembling like birds from Egypt and like doves from the land of Assyria. Then I will settle them in their homes, declares the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.11.10|<< Hosea 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.11.12|Hosea 11:12 >>]]</td></tr></table>
 
 | Translation | Greek |

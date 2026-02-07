@@ -1,10 +1,7 @@
 **LXX Hosea 2:9** 
 <small><sub>**LXX:**</sub></small>
 On account of this I will return and carry \[away\]  my grain according to its season, and  my wine in its time; and I will remove  my garments and  my linen bands \[so as\] to not cover  her indecency. 
-<small><sub>**KJV:**</sub></small>
-Therefore will I return, and take away my corn in the time thereof, and my wine in the season thereof, and will recover my wool and my flax [given] to cover her nakedness.
-<small><sub>**BSB:**</sub></small>
-Therefore I will take back My grain in its time and My new wine in its season; I will take away My wool and linen, which were given to cover her nakedness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.2.8|<< Hosea 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.2.10|Hosea 2:10 >>]]</td></tr></table>
 
 | Translation | Greek |

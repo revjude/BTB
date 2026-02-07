@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 7:12** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> appeared \[to\] Solomon in the night, and said to him, I heard  your prayer, and I chose in  this place to myself for a house of sacrifice. 
-<small><sub>**KJV:**</sub></small>
-And the LORD appeared to Solomon by night, and said unto him, I have heard thy prayer, and have chosen this place to myself for an house of sacrifice.
-<small><sub>**BSB:**</sub></small>
-the LORD appeared to him at night and said to him: “I have heard your prayer and have chosen this place for Myself as a house of sacrifice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.11|<< 2 Chronicles 7:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.13|2 Chronicles 7:13 >>]]</td></tr></table>
 
 | Translation | Greek |

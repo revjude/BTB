@@ -1,4 +1,4 @@
-**Judges 21:7** 
+**Judges 21:7**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How shall we do for wives for them that remain, seeing we have sworn by the LORD that we will not give them of our daughters to wives?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ What should we do about wives for the survivors, since we have sworn by the LORD
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.6|<< Judges 21:6]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.8|Judges 21:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will we do  |**<big>&#8207;[[H6213A\|נַּעֲשֶׂ֥ה]]&#8207; </big>**| na.'a.Seh<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

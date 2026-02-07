@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:14** 
 <small><sub>**LXX:**</sub></small>
 In hearing, I heard from \[the\] <span class="smallcaps">lord</span>, and he sent messengers unto nations, \[saying\], Gather together, and come to her! Rise up for war! 
-<small><sub>**KJV:**</sub></small>
-I have heard a rumour from the LORD, and an ambassador is sent unto the heathen, [saying], Gather ye together, and come against her, and rise up to the battle.
-<small><sub>**BSB:**</sub></small>
-I have heard a message from the LORD; an envoy has been sent to the nations: “Assemble yourselves to march against her! Rise up for battle!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.13|<< Jeremiah 49:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.15|Jeremiah 49:15 >>]]</td></tr></table>
 
 | Translation | Greek |

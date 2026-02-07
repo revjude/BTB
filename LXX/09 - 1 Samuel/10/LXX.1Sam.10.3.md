@@ -1,10 +1,7 @@
 **LXX 1 Samuel 10:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall go forth from there, and beyond. And you shall come unto the oak of Tabor, and you shall find there three men ascending to  God unto Beth-el, one taking three kids, and one taking three containers of bread \[loaves\], and one taking a leather bag of wine. 
-<small><sub>**KJV:**</sub></small>
-Then shalt thou go on forward from thence, and thou shalt come to the plain of Tabor, and there shall meet thee three men going up to God to Bethel, one carrying three kids, and another carrying three loaves of bread, and another carrying a bottle of wine:
-<small><sub>**BSB:**</sub></small>
-Then you will go on from there until you come to the Oak of Tabor. Three men going up to God at Bethel will meet you there, one carrying three young goats, another carrying three loaves of bread, and another carrying a skin of wine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.10.2|<< 1 Samuel 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.10.4|1 Samuel 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

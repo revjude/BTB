@@ -1,12 +1,12 @@
-**1 Corinthians 7:31
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 7:31**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they that use this world, as not abusing [it]: for the fashion of this world passeth away.
 <small><sub>**BSB:**</sub></small>
 and those who use the things of this world, as if not dependent on them. For this world in its present form is passing away.
 <small><sub>**Literal:**</sub></small>
 and those using <the> world this as not using [it] as their own. Is passing away for the present form of the world this;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.30|<< 1 Corinthians 7:30]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.32|1 Corinthians 7:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | those |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

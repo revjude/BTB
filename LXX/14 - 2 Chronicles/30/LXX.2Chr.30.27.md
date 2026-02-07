@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 30:27** 
 <small><sub>**LXX:**</sub></small>
 And the priests the Levites rose up and blessed the people, and their voice was heeded, and their prayer came into  his sacred home in the heaven. 
-<small><sub>**KJV:**</sub></small>
-Then the priests the Levites arose and blessed the people: and their voice was heard, and their prayer came [up] to his holy dwelling place, [even] unto heaven.
-<small><sub>**BSB:**</sub></small>
-Then the priests and the Levites stood to bless the people, and God heard their voice, and their prayer came into His holy dwelling place in heaven.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.30.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.30.26|<< 2 Chronicles 30:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.31.1|2 Chronicles 31:1 >>]]</td></tr></table>
 
 | Translation | Greek |

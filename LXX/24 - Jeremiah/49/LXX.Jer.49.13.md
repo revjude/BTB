@@ -1,10 +1,7 @@
 **LXX Jeremiah 49:13** 
 <small><sub>**LXX:**</sub></small>
 For according to myself I swear by an oath, says \[the\] <span class="smallcaps">lord</span>, that for an untrodden \[land\], and for scorning, and for a curse, you will be in \[the\] midst of her; and all  her cities shall be wildernesses into eon. 
-<small><sub>**KJV:**</sub></small>
-For I have sworn by myself, saith the LORD, that Bozrah shall become a desolation, a reproach, a waste, and a curse; and all the cities thereof shall be perpetual wastes.
-<small><sub>**BSB:**</sub></small>
-For by Myself I have sworn, declares the LORD, that Bozrah will become a desolation, a disgrace, a ruin, and a curse, and all her cities will be in ruins forever.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.49.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.49.12|<< Jeremiah 49:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.49.14|Jeremiah 49:14 >>]]</td></tr></table>
 
 | Translation | Greek |

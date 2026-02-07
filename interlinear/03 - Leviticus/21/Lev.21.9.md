@@ -1,4 +1,4 @@
-**Leviticus 21:9** 
+**Leviticus 21:9**<big><big>[[Lev.21.1 Holiness Required of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ If a priest’s daughter defiles herself by prostituting herself, she profanes h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.8|<< Leviticus 21:8]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.10|Leviticus 21:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and a daughter of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1323G\|בַת֙]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a man  |**<big>&#8207;[[H0376G\|אִ֣ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

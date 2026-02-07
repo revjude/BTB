@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 8:17** 
 <small><sub>**LXX:**</sub></small>
 Then Solomon set out unto Ezion-geber, and unto  Eloth, the one by the sea in \[the\] land of Edom. 
-<small><sub>**KJV:**</sub></small>
-Then went Solomon to Eziongeber, and to Eloth, at the sea side in the land of Edom.
-<small><sub>**BSB:**</sub></small>
-Then Solomon went to Ezion-geber and to Eloth on the coast of Edom.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.8.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.8.16|<< 2 Chronicles 8:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.8.18|2 Chronicles 8:18 >>]]</td></tr></table>
 
 | Translation | Greek |

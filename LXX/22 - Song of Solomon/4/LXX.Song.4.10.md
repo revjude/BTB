@@ -1,10 +1,7 @@
 **LXX Song of Solomon 4:10** 
 <small><sub>**LXX:**</sub></small>
 How your breasts were beautified my sister, O bride. How your breasts were beautified above wine, and \[the\] scent of your garments above all aromatics. 
-<small><sub>**KJV:**</sub></small>
-How fair is thy love, my sister, [my] spouse! how much better is thy love than wine! and the smell of thine ointments than all spices!
-<small><sub>**BSB:**</sub></small>
-How delightful is your love, my sister, my bride! Your love is much better than wine, and the fragrance of your perfume than all spices.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Song.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.9|<< Song of Solomon 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.11|Song of Solomon 4:11 >>]]</td></tr></table>
 
 | Translation | Greek |

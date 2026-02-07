@@ -1,5 +1,5 @@
-**Matthew 24:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 24:15**<big><big>[[Matt.24.15 The Abomination of Desolation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)
 <small><sub>**BSB:**</sub></small>
 So when you see standing in the holy place ‘the abomination of desolation,’ spoken of by the prophet Daniel (let the reader understand),
@@ -11,7 +11,7 @@ When therefore you may see the abomination <the> of desolation’ which having b
 > $\quad$ referencing: [[LXX.Dan.9.27|Dan 9:27]] ☩ [[LXX.Dan.11.31|Dan 11:31]] ☩ [[LXX.Dan.12.11|Dan 12:11]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|Ὅταν]]</big>**  |Hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

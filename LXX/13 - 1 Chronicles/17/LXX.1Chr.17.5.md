@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 17:5** 
 <small><sub>**LXX:**</sub></small>
 for I did not dwell in a house from the day which I led up  Israel until  this day; for I was in a tent for protection and \[inside\] \[the\] covering. 
-<small><sub>**KJV:**</sub></small>
-For I have not dwelt in an house since the day that I brought up Israel unto this day; but have gone from tent to tent, and from [one] tabernacle [to another].
-<small><sub>**BSB:**</sub></small>
-For I have not dwelt in a house from the day I brought Israel up out of Egypt until this day, but I have moved from tent to tent and dwelling to dwelling.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.17.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.17.4|<< 1 Chronicles 17:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.17.6|1 Chronicles 17:6 >>]]</td></tr></table>
 
 | Translation | Greek |

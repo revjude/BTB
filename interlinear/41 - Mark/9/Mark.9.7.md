@@ -1,5 +1,5 @@
-**Mark 9:7
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:7**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And there was a cloud that overshadowed them: and a voice came out of the cloud, saying, This is my beloved Son: hear him.
 <small><sub>**BSB:**</sub></small>
 Then a cloud appeared and enveloped them, and a voice came from the cloud: “This is My beloved Son. Listen to Him!”
@@ -10,7 +10,7 @@ And there came a cloud overshadowing them, and there was a voice out of the clou
 > $\quad$ alluding to: [[LXX.Gen.22.2|Gen 22:2]] ☩ [[LXX.Deut.18.15|Deut 18:15]] ☩ [[LXX.Ps.2.7|Ps 2:7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | there came |**<big>[[G1096\|ἐγένετο]]</big>**  |egeneto <small><sup>[[V-2ADI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

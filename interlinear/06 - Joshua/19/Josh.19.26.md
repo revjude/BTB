@@ -1,4 +1,4 @@
-**Joshua 19:26** 
+**Joshua 19:26**<big><big>[[Josh.19.24 Asher’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Alammelech, and Amad, and Misheal; and reacheth to Carmel westward, and to Shihorlibnath;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Allammelech, Amad, and Mishal. On the west the border touched Carmel and Shihor-
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.25|<< Joshua 19:25]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.27|Joshua 19:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Alammelech  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0487\|אַֽלַמֶּ֥לֶךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.la.Me.lekh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Amad  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6008\|עַמְעָ֖ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'am.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |

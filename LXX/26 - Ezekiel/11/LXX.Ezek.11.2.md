@@ -1,10 +1,7 @@
 **LXX Ezekiel 11:2** 
 <small><sub>**LXX:**</sub></small>
 And he said to me, O son of man, these \[are\] the men  considering vain \[things\], and deliberating evil counsel in  this city. 
-<small><sub>**KJV:**</sub></small>
-Then said he unto me, Son of man, these [are] the men that devise mischief, and give wicked counsel in this city:
-<small><sub>**BSB:**</sub></small>
-And the LORD said to me, “Son of man, these are the men who plot evil and give wicked counsel in this city.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.1|<< Ezekiel 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.11.3|Ezekiel 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

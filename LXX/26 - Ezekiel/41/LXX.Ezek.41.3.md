@@ -1,10 +1,7 @@
 **LXX Ezekiel 41:3** 
 <small><sub>**LXX:**</sub></small>
 And he entered into the inner courtyard, and he measured the portal of the doorway -- two cubits; and the doorway -- six cubits; and the side-pieces of the doorway -- seven cubits on this side. 
-<small><sub>**KJV:**</sub></small>
-Then went he inward, and measured the post of the door, two cubits; and the door, six cubits; and the breadth of the door, seven cubits.
-<small><sub>**BSB:**</sub></small>
-And he went into the inner sanctuary and measured the side pillars at the entrance to be two cubits wide. The entrance was six cubits wide, and the walls on each side were seven cubits wide.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.41.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.2|<< Ezekiel 41:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.4|Ezekiel 41:4 >>]]</td></tr></table>
 
 | Translation | Greek |

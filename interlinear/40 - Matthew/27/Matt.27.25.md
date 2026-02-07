@@ -1,12 +1,12 @@
-**Matthew 27:25
-**<small><sub>**KJV:**</sub></small>
+**Matthew 27:25**<big><big>[[Matt.27.24 Pilate Washes His Hands|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then answered all the people, and said, His blood [be] on us, and on our children.
 <small><sub>**BSB:**</sub></small>
 All the people answered, “His blood be on us and on our children!”
 <small><sub>**Literal:**</sub></small>
 And answering all the people said; The blood of Him [be] on us and on the children of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.24|<< Matthew 27:24]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.26|Matthew 27:26 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 23:7** 
 <small><sub>**LXX:**</sub></small>
 And the Levites shall encircle the king round about, \[each\] man and  his weapon in his hand, and the one entering into the house shall die. And they will be with the king for his entering and exiting. 
-<small><sub>**KJV:**</sub></small>
-And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever [else] cometh into the house, he shall be put to death: but be ye with the king when he cometh in, and when he goeth out.
-<small><sub>**BSB:**</sub></small>
-The Levites must surround the king with weapons in hand, and anyone who enters the temple must be put to death. You must stay close to the king wherever he goes.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.23.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.23.6|<< 2 Chronicles 23:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.23.8|2 Chronicles 23:8 >>]]</td></tr></table>
 
 | Translation | Greek |

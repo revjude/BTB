@@ -1,10 +1,7 @@
 **LXX Exodus 20:5** 
 <small><sub>**LXX:**</sub></small>
 You shall not do obeisance to them, nor shall you serve to them. For I am \[the\] <span class="smallcaps">lord</span>  your God, a jealous God, rendering sins of fathers upon children unto \[the\] third and fourth generation to the \[ones\] detesting me; 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God [am] a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth [generation] of them that hate me;
-<small><sub>**BSB:**</sub></small>
-You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on their children to the third and fourth generations of those who hate Me,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.20.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.20.4|<< Exodus 20:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.20.6|Exodus 20:6 >>]]</td></tr></table>
 
 | Translation | Greek |

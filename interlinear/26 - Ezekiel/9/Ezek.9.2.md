@@ -1,4 +1,4 @@
-**Ezekiel 9:2** 
+**Ezekiel 9:2**<big><big>[[Ezek.9.1 Execution of the Idolaters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, six men came from the way of the higher gate, which lieth toward the north, and every man a slaughter weapon in his hand; and one man among them [was] clothed with linen, with a writer’s inkhorn by his side: and they went in, and stood beside the brasen altar.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And I saw six men coming from the direction of the Upper Gate, which faces north
 > $\quad$ referenced by: [[Rev.7.2|Rev 7:2-3]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and there!  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2009\|הִנֵּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | six  |**<big>&#8207;[[H8337\|שִׁשָּׁ֣ה]]&#8207; </big>**| shi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

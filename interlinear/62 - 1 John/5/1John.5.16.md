@@ -1,12 +1,12 @@
-**1 John 5:16
-**<small><sub>**KJV:**</sub></small>
+**1 John 5:16**<big><big>[[1John.5.13 Effective Prayer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 If any man see his brother sin a sin [which is] not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it.
 <small><sub>**BSB:**</sub></small>
 If anyone sees his brother committing a sin not leading to death, he should ask God, who will give life to those who commit this kind of sin. There is a sin that leads to death; I am not saying he should ask regarding that sin.
 <small><sub>**Literal:**</sub></small>
 If anyone shall see the brother of him sinning a sin not unto death, he will ask and He will give to him life, to those sinning not unto death. There is a sin unto death; not concerning that [one] do I say that he may implore.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.15|<< 1 John 5:15]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.17|1 John 5:17 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1437\|Ἐάν]]</big>**  |Ean <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | anyone |**<big>[[G5100\|τις]]</big>**  |tis <small><sup>[[X-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

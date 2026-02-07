@@ -1,10 +1,7 @@
 **LXX Judges 7:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> said to  Gideon, The people with you are many so as for me to not deliver up  Midian into their hand, lest at any time Israel should boast instead of me, saying,  My hand delivered me. 
-<small><sub>**KJV:**</sub></small>
-And the LORD said unto Gideon, The people that [are] with thee [are] too many for me to give the Midianites into their hands, lest Israel vaunt themselves against me, saying, Mine own hand hath saved me.
-<small><sub>**BSB:**</sub></small>
-Then the LORD said to Gideon, “You have too many men for Me to deliver Midian into their hands, lest Israel glorify themselves over Me, saying, ‘My own hand has saved me.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.1|<< Judges 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.3|Judges 7:3 >>]]</td></tr></table>
 
 | Translation | Greek |

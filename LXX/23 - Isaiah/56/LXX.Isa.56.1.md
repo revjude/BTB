@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, Guard equity, and do righteousness! for my deliverance is near to come, and  my mercy to be uncovered. 
-<small><sub>**KJV:**</sub></small>
-Thus saith the LORD, Keep ye judgment, and do justice: for my salvation [is] near to come, and my righteousness to be revealed.
-<small><sub>**BSB:**</sub></small>
-This is what the LORD says: “Maintain justice and do what is right, for My salvation is coming soon, and My righteousness will be revealed.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.56.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.55.13|<< Isaiah 55:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.56.2|Isaiah 56:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Chronicles 9:26** 
+**2 Chronicles 9:26**<big><big>[[2Chr.9.13 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he reigned over all the kings from the river even unto the land of the Philistines, and to the border of Egypt.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He reigned over all the kings from the Euphrates to the land of the Philistines,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.25|<< 2 Chronicles 9:25]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.27|2 Chronicles 9:27 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֥י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ruling  |**<big>&#8207;[[H4910\|מוֹשֵׁ֖ל]]&#8207; </big>**| mo.Shel<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

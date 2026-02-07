@@ -1,5 +1,5 @@
-**Revelation 21:6
-**<small><sub>**KJV:**</sub></small>
+**Revelation 21:6**<big><big>[[Rev.21.1 A New Heaven and a New Earth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely.
 <small><sub>**BSB:**</sub></small>
 And He told me, “It is done! I am the Alpha and the Omega, the Beginning and the End. To the thirsty I will give freely from the spring of the water of life.
@@ -10,7 +10,7 @@ And He said to me; It has been done! I myself am the Alpha and the Omega, the be
 > $\quad$ alluding to: [[LXX.Isa.55.1|Isa 55:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπέν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

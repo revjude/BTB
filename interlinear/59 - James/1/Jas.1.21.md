@@ -1,12 +1,12 @@
-**James 1:21
-**<small><sub>**KJV:**</sub></small>
+**James 1:21**<big><big>[[Jas.1.19 Hearing and Doing|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.
 <small><sub>**BSB:**</sub></small>
 Therefore, get rid of all moral filth and every expression of evil, and humbly accept the word planted in you, which can save your souls.
 <small><sub>**Literal:**</sub></small>
 Therefore having put aside all filthiness and excess of wickedness in humility do receive the implanted word which is being able to save the souls of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.20|<< James 1:20]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.22|James 1:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Therefore |**<big>[[G1352\|διὸ]]</big>**  |dio <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having put aside |**<big>[[G0659\|ἀποθέμενοι]]</big>**  |apothemenoi <small><sup>[[V-2AMP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

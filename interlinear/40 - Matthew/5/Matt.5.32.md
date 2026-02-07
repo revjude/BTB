@@ -1,12 +1,12 @@
-**Matthew 5:32
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:32**<big><big>[[Matt.5.31 Divorce|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.
 <small><sub>**BSB:**</sub></small>
 But I tell you that anyone who divorces his wife, except for sexual immorality, brings adultery upon her. And he who marries a divorced woman commits adultery.
 <small><sub>**Literal:**</sub></small>
 I myself however say to you that everyone who is divorcing the wife of him except on account of sexual immorality causes her to be adulterated; And who[ever] if divorced shall marry, commits adultery.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.31|<< Matthew 5:31]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.33|Matthew 5:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

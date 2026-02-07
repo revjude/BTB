@@ -1,10 +1,7 @@
 **LXX Numbers 36:12** 
 <small><sub>**LXX:**</sub></small>
 of the people  of Manasseh of \[the\] sons of Joseph they became wives. And their inheritance came to the tribe of \[the\] people  of their father. 
-<small><sub>**KJV:**</sub></small>
-[And] they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father.
-<small><sub>**BSB:**</sub></small>
-They married within the clans of the descendants of Manasseh son of Joseph, and their inheritance remained within the tribe of their father’s clan.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.36.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.36.11|<< Numbers 36:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.36.13|Numbers 36:13 >>]]</td></tr></table>
 
 | Translation | Greek |

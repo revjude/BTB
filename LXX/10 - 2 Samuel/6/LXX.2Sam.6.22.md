@@ -1,10 +1,7 @@
 **LXX 2 Samuel 6:22** 
 <small><sub>**LXX:**</sub></small>
 And I will be uncovered again thus, and I will be useless in your eyes, and with the girls of whom you said of me, I was not extolled. 
-<small><sub>**KJV:**</sub></small>
-And I will yet be more vile than thus, and will be base in mine own sight: and of the maidservants which thou hast spoken of, of them shall I be had in honour.
-<small><sub>**BSB:**</sub></small>
-and I will humiliate and humble myself even more than this. Yet I will be honored by the maidservants of whom you have spoken.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.6.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.21|<< 2 Samuel 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.6.23|2 Samuel 6:23 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Joshua 22:5** 
+**Joshua 22:5**<big><big>[[Josh.22.1 The Eastern Tribes Return Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But take diligent heed to do the commandment and the law, which Moses the servant of the LORD charged you, to love the LORD your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ But be very careful to observe the commandment and the law that Moses the servan
 > $\quad$ referenced by: [[Matt.22.37|Matt 22:37]] ☩ [[Mark.12.30|Mark 12:30]][[Mark.12.33|, 33]] ☩ [[Luke.10.27|Luke 10:27]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | only  |**<big>&#8207;[[H7535\|רַ֣ק]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| rak<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | take care  |**<big>&#8207;[[H8104J\|שִׁמְר֣וּ]]&#8207; </big>**| shim.Ru<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

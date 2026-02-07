@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:20** 
 <small><sub>**LXX:**</sub></small>
 But the soul  sinning, it shall die. And the son shall not take the iniquity of the father. And the father shall not take the iniquity of the son. \[The\] righteousness of \[the\] just one shall be upon him, and \[the\] lawlessness of \[the\] lawless one shall be upon him. 
-<small><sub>**KJV:**</sub></small>
-The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him.
-<small><sub>**BSB:**</sub></small>
-The soul who sins is the one who will die. A son will not bear the iniquity of his father, and a father will not bear the iniquity of his son. The righteousness of the righteous man will fall upon him, and the wickedness of the wicked man will fall upon him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.19|<< Ezekiel 18:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.21|Ezekiel 18:21 >>]]</td></tr></table>
 
 | Translation | Greek |

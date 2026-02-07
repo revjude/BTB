@@ -1,4 +1,4 @@
-**Isaiah 31:1** 
+**Isaiah 31:1**<big><big>[[Isa.31.1 Woe to Those Who Rely on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because [they are] many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the LORD!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Woe to those who go down to Egypt for help, who rely on horses, who trust in the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.31.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.33|<< Isaiah 30:33]]</td><td align="center" style="border:none;">[[Isa.31|Isaiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.31.2|Isaiah 31:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | woe to!  |**<big>&#8207;[[H1945\|ה֣וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | those [who] go down  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3381\|יֹּרְדִ֤ים]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yo.re.Dim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

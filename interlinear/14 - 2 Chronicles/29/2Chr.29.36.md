@@ -1,4 +1,4 @@
-**2 Chronicles 29:36** 
+**2 Chronicles 29:36**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah rejoiced, and all the people, that God had prepared the people: for the thing was [done] suddenly.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Hezekiah and all the people rejoiced at what God had prepared for the peopl
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.35|<< 2 Chronicles 29:35]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.1|2 Chronicles 30:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he rejoiced  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H8055\|יִּשְׂמַ֤ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yis.Mach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hezekiah  |**<big>&#8207;[[H2396G\|יְחִזְקִיָּ֙הוּ֙]]&#8207; </big>**| ye.chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Psalm 140:10** 
 <small><sub>**LXX:**</sub></small>
 Coals with fire shall fall upon them; you shall throw them down in miseries, and in no way should they stand. 
-<small><sub>**KJV:**</sub></small>
-Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again.
-<small><sub>**BSB:**</sub></small>
-May burning coals fall on them; may they be thrown into the fire, into the miry pits, never to rise again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.140.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.140.9|<< Psalm 140:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.140.11|Psalm 140:11 >>]]</td></tr></table>
 
 | Translation | Greek |

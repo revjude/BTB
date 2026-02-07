@@ -1,4 +1,4 @@
-**Numbers 16:10** 
+**Numbers 16:10**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he hath brought thee near [to him], and all thy brethren the sons of Levi with thee: and seek ye the priesthood also?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He has brought you near, you and all your fellow Levites, but you are seeking th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.9|<< Numbers 16:9]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.11|Numbers 16:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he has brought near  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7126H\|יַּקְרֵב֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yak.Rev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֹֽתְ]]&#8207;&#8207;[[H9031\|ךָ֔]]&#8207; </big>**| 'o.te.<small><sup>[[HTo]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

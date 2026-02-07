@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And now as \[the\] <span class="smallcaps">lord</span> lives, who prepared me, and put me upon the throne of David  my father, and he made to me a house as \[the\] <span class="smallcaps">lord</span> said, that today Adonijah shall be put to death. 
-<small><sub>**KJV:**</sub></small>
-Now therefore, [as] the LORD liveth, which hath established me, and set me on the throne of David my father, and who hath made me an house, as he promised, Adonijah shall be put to death this day.
-<small><sub>**BSB:**</sub></small>
-And now, as surely as the LORD lives—the One who established me, who set me on the throne of my father David, and who founded for me a dynasty as He promised—surely Adonijah shall be put to death today!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.23|<< 1 Kings 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.25|1 Kings 2:25 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Psalms 41:6** (41:7)
+**Psalms 41:6**<big><big>[[Ps.41.1 Victory over Betrayal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he come to see [me], he speaketh vanity: his heart gathereth iniquity to itself; [when] he goeth abroad, he telleth [it].
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My visitor speaks falsehood; he gathers slander in his heart; he goes out and sp
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.41.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.41.5|<< Psalms 41:5]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.7|Psalms 41:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and if  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | someone came  |**<big>&#8207;[[H0935G\|בָּ֤א]]&#8207; </big>**| ba'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

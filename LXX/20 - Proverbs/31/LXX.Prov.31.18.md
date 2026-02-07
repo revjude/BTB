@@ -1,10 +1,7 @@
 **LXX Proverbs 31:18** 
 <small><sub>**LXX:**</sub></small>
 She tastes that it is good  to work; and her lamp is not extinguished all the night. 
-<small><sub>**KJV:**</sub></small>
-She perceiveth that her merchandise [is] good: her candle goeth not out by night.
-<small><sub>**BSB:**</sub></small>
-She sees that her gain is good, and her lamp is not extinguished at night.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.31.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.31.17|<< Proverbs 31:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.31.19|Proverbs 31:19 >>]]</td></tr></table>
 
 | Translation | Greek |

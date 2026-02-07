@@ -1,10 +1,7 @@
 **LXX Amos 4:13** 
 <small><sub>**LXX:**</sub></small>
 For behold, \[the\] one stiffening thunder, and creating wind, and reporting unto men  his graciousness, producing \[the\] dawn and fog, and mounting upon the heights of the earth -- \[the\] <span class="smallcaps">lord</span>  God  almighty \[is\] his name. 
-<small><sub>**KJV:**</sub></small>
-For, lo, he that formeth the mountains, and createth the wind, and declareth unto man what [is] his thought, that maketh the morning darkness, and treadeth upon the high places of the earth, The LORD, The God of hosts, [is] his name.
-<small><sub>**BSB:**</sub></small>
-For behold, He who forms the mountains, who creates the wind and reveals His thoughts to man, who turns the dawn to darkness and strides on the heights of the earth—the LORD, the God of Hosts, is His name.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.4.12|<< Amos 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.1|Amos 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

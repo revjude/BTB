@@ -1,4 +1,4 @@
-**Jeremiah 47:6** 
+**Jeremiah 47:6**<big><big>[[Jer.47.1 Judgment on the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O thou sword of the LORD, how long [will it be] ere thou be quiet? put up thyself into thy scabbard, rest, and be still.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ O thou sword of the LORD, how long [will it be] ere thou be quiet? put up thysel
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.47.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.47.5|<< Jeremiah 47:5]]</td><td align="center" style="border:none;">[[Jer.47|Jeremiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.7|Jeremiah 47:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | alas!  |**<big>&#8207;[[H1945\|ה֗וֹי]]&#8207; </big>**| Ho<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O sword  |**<big>&#8207;[[H2719\|חֶ֚רֶב]]&#8207; </big>**| Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

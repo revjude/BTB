@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 7:20** 
 <small><sub>**LXX:**</sub></small>
 then I will remove you from the land of which I gave to you; and  this house which I sanctified \[to\] my name I will disown it from my face, and I will appoint it for a parable, and for a tale among all the nations. 
-<small><sub>**KJV:**</sub></small>
-Then will I pluck them up by the roots out of my land which I have given them; and this house, which I have sanctified for my name, will I cast out of my sight, and will make it [to be] a proverb and a byword among all nations.
-<small><sub>**BSB:**</sub></small>
-then I will uproot Israel from the soil I have given them, and I will banish from My presence this temple I have sanctified for My Name. I will make it an object of scorn and ridicule among all the peoples.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.7.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.7.19|<< 2 Chronicles 7:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.7.21|2 Chronicles 7:21 >>]]</td></tr></table>
 
 | Translation | Greek |

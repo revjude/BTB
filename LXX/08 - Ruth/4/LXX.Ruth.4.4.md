@@ -1,10 +1,7 @@
 **LXX Ruth 4:4** 
 <small><sub>**LXX:**</sub></small>
 that I said \[to myself\], I will uncover  your ear, saying, You acquire it before the ones sitting down, and before the elders  of my people! If you are a acting as next of kin, \[then\] act as next of kin! But if not acting as next of kin, announce it to me! and I shall know. For there is no one besides you  to act as next of kin, and I am after you.  And he said, I am. I shall act as next of kin. 
-<small><sub>**KJV:**</sub></small>
-And I thought to advertise thee, saying, Buy [it] before the inhabitants, and before the elders of my people. If thou wilt redeem [it], redeem [it]: but if thou wilt not redeem [it, then] tell me, that I may know: for [there is] none to redeem [it] beside thee; and I [am] after thee. And he said, I will redeem [it].
-<small><sub>**BSB:**</sub></small>
-I thought I should inform you that you may buy it back in the presence of those seated here and in the presence of the elders of my people. If you want to redeem it, do so. But if you will not redeem it, tell me so I may know, because there is no one but you to redeem it, and I am next after you.” “I will redeem it,” he replied.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.4.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.4.3|<< Ruth 4:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.4.5|Ruth 4:5 >>]]</td></tr></table>
 
 | Translation | Greek |

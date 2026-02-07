@@ -1,10 +1,7 @@
 **LXX 2 Samuel 3:36** 
 <small><sub>**LXX:**</sub></small>
 And all the people knew. And it was pleasing before them, all as much as the king did in the presence of all the people. 
-<small><sub>**KJV:**</sub></small>
-And all the people took notice [of it], and it pleased them: as whatsoever the king did pleased all the people.
-<small><sub>**BSB:**</sub></small>
-All the people took note and were pleased. In fact, everything the king did pleased them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.3.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.3.35|<< 2 Samuel 3:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.3.37|2 Samuel 3:37 >>]]</td></tr></table>
 
 | Translation | Greek |

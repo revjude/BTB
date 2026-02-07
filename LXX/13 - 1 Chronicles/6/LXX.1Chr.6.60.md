@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 6:60** 
 <small><sub>**LXX:**</sub></small>
 And from out of the tribe of Benjamin --  Geba and  her outskirts, and  Alemeth and  her outskirts, and  Anathoth and  her outskirts. All  their cities -- thirteen cities with  their kin. 
-<small><sub>**KJV:**</sub></small>
-And out of the tribe of Benjamin; Geba with her suburbs, and Alemeth with her suburbs, and Anathoth with her suburbs. All their cities throughout their families [were] thirteen cities.
-<small><sub>**BSB:**</sub></small>
-And from the tribe of Benjamin they were given Gibeon, Geba, Alemeth, and Anathoth, together with their pasturelands. So they had thirteen cities in all among their families.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.6.60|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.6.59|<< 1 Chronicles 6:59]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.6.61|1 Chronicles 6:61 >>]]</td></tr></table>
 
 | Translation | Greek |

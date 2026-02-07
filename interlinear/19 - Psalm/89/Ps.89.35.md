@@ -1,4 +1,4 @@
-**Psalms 89:35** (89:36)
+**Psalms 89:35**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Once have I sworn by my holiness that I will not lie unto David.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Once and for all I have sworn by My holiness—I will not lie to David—
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.34|<< Psalms 89:34]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.36|Psalms 89:36 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | one [time]  |**<big>&#8207;[[H0259\|אַ֭חַת]]&#8207; </big>**| 'A.chat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have sworn an oath  |**<big>&#8207;[[H7650\|נִשְׁבַּ֣עְתִּי]]&#8207; </big>**| nish.Ba'.ti<small><sup>[[HVNp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

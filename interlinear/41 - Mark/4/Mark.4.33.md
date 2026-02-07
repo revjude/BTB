@@ -1,12 +1,12 @@
-**Mark 4:33
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:33**<big><big>[[Mark.4.30 The Parable of the Mustard Seed|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And with many such parables spake he the word unto them, as they were able to hear [it].
 <small><sub>**BSB:**</sub></small>
 With many such parables Jesus spoke the word to them, to the extent that they could understand.
 <small><sub>**Literal:**</sub></small>
 And with such parables many He was speaking to them the word even as they were able to hear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.32|<< Mark 4:32]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.34|Mark 4:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | with such |**<big>[[G5108\|τοιαύταις]]</big>**  |toiautais <small><sup>[[D-DPF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

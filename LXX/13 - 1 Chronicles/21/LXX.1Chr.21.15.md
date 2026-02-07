@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 21:15** 
 <small><sub>**LXX:**</sub></small>
 And God sent an angel into Jerusalem  to utterly destroy it. And as he was utterly destroying, \[the\] <span class="smallcaps">lord</span> beheld and repented concerning the evil. And he said to the angel, to the one utterly destroying, Let it be enough to you, spare  your hand! And the angel of \[the\] <span class="smallcaps">lord</span> stood at the threshing-floor of Ornan the Jebusite. 
-<small><sub>**KJV:**</sub></small>
-And God sent an angel unto Jerusalem to destroy it: and as he was destroying, the LORD beheld, and he repented him of the evil, and said to the angel that destroyed, It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite.
-<small><sub>**BSB:**</sub></small>
-Then God sent an angel to destroy Jerusalem, but as the angel was doing so, the LORD saw it and relented from the calamity, and He said to the angel who was destroying the people, “Enough! Withdraw your hand now!” At that time the angel of the LORD was standing by the threshing floor of Ornan the Jebusite.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.21.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.21.14|<< 1 Chronicles 21:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.21.16|1 Chronicles 21:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Matthew 22:21
-**<small><sub>**KJV:**</sub></small>
+**Matthew 22:21**<big><big>[[Matt.22.15 Paying Taxes to Caesar|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 They say unto him, Caesar’s. Then saith he unto them, Render therefore unto Caesar the things which are Caesar’s; and unto God the things that are God’s.
 <small><sub>**BSB:**</sub></small>
 “Caesar’s,” they answered. So Jesus told them, “Give to Caesar what is Caesar’s, and to God what is God’s.”
 <small><sub>**Literal:**</sub></small>
 They say to Him; Of Caesar. Then He says to them; do give back therefore the [things] of Caesar to Caesar and the [things] <the> of God <the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.20|<< Matthew 22:20]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.22|Matthew 22:22 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | They say |**<big>[[G3004G\|λέγουσιν]]</big>**  |legousin <small><sup>[[V-PAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to Him; |**<big>[[G0846\|αὐτῷ·]]</big>**  |autō <small><sup>[[P-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NKO</abbr> | |

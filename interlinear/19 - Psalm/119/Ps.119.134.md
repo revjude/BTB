@@ -1,4 +1,4 @@
-**Psalms 119:134** 
+**Psalms 119:134**<big><big>[[Ps.119.129 Your Word Is a Lamp to My Feet - PE|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deliver me from the oppression of man: so will I keep thy precepts.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Redeem me from the oppression of man, that I may keep Your precepts.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.134|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.133|<< Psalms 119:133]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.135|Psalms 119:135 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | redeem me  |**<big>&#8207;[[H6299\|פְּ֭דֵ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| Pe.de.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from oppression of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H6233\|עֹ֣שֶׁק]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'O.shek<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

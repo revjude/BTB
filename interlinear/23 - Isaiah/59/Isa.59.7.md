@@ -1,4 +1,4 @@
-**Isaiah 59:7** 
+**Isaiah 59:7**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their feet run to evil, and they make haste to shed innocent blood: their thoughts [are] thoughts of iniquity; wasting and destruction [are] in their paths.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Their feet run to evil; they are swift to shed innocent blood. Their thoughts ar
 > $\quad$ referenced by: [[Rom.3.15|Rom 3:15-17]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | feet their  |**<big>&#8207;[[H7272\|רַגְלֵי]]&#8207;&#8207;[[H9028\|הֶם֙]]&#8207; </big>**| rag.lei.<small><sup>[[HNcfdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> evil  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H7451B\|רַ֣ע]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

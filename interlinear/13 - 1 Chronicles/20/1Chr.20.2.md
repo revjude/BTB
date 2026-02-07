@@ -1,4 +1,4 @@
-**1 Chronicles 20:2** 
+**1 Chronicles 20:2**<big><big>[[1Chr.20.1 The Capture of Rabbah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David took the crown of their king from off his head, and found it to weigh a talent of gold, and [there were] precious stones in it; and it was set upon David’s head: and he brought also exceeding much spoil out of the city.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then David took the crown from the head of their king. It was found to weigh a t
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.20.1|<< 1 Chronicles 20:1]]</td><td align="center" style="border:none;">[[1Chr.20|1 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.20.3|1 Chronicles 20:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֣ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֣יד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

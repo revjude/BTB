@@ -1,10 +1,7 @@
 **LXX Genesis 36:24** 
 <small><sub>**LXX:**</sub></small>
 And these \[were\] \[the\] sons of Zibeon -- Ajah and Anah; this Anah \[is\] who found the mules in the wilderness when he was feeding the beasts of burden of Zibeon  his father. 
-<small><sub>**KJV:**</sub></small>
-And these [are] the children of Zibeon; both Ajah, and Anah: this [was that] Anah that found the mules in the wilderness, as he fed the asses of Zibeon his father.
-<small><sub>**BSB:**</sub></small>
-These are the sons of Zibeon: Aiah and Anah. (This is the Anah who found the hot springs in the wilderness as he was pasturing the donkeys of his father Zibeon.)<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.36.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.36.23|<< Genesis 36:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.36.25|Genesis 36:25 >>]]</td></tr></table>
 
 | Translation | Greek |

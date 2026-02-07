@@ -1,4 +1,4 @@
-**Isaiah 26:19** 
+**Isaiah 26:19**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy dead [men] shall live, [together with] my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew [is as] the dew of herbs, and the earth shall cast out the dead.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Your dead will live; their bodies will rise. Awake and sing, you who dwell in th
 > $\quad$ referenced by: [[Matt.11.5|Matt 11:5]] ☩ [[Luke.7.22|Luke 7:22]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will live  |**<big>&#8207;[[H2421\|יִֽחְי֣וּ]]&#8207; </big>**| yich.Yu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | dead [ones] your  |**<big>&#8207;[[H4191\|מֵתֶ֔י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| me.Tei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

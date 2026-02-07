@@ -1,10 +1,7 @@
 **LXX Joshua 24:15** 
 <small><sub>**LXX:**</sub></small>
 But if it \[is\] not pleasing to you to serve to the <span class="smallcaps">lord</span>, choose to yourselves today whom you should serve! whether to the gods  of your fathers, to the ones on the other side of the river, or whether to the gods of the Amorites, in which you dwell upon  their land. But I and  my house, will serve to the <span class="smallcaps">lord</span>! 
-<small><sub>**KJV:**</sub></small>
-And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that [were] on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD.
-<small><sub>**BSB:**</sub></small>
-But if it is unpleasing in your sight to serve the LORD, then choose for yourselves this day whom you will serve, whether the gods your fathers served beyond the Euphrates, or the gods of the Amorites in whose land you are living. As for me and my house, we will serve the LORD!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.14|<< Joshua 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.16|Joshua 24:16 >>]]</td></tr></table>
 
 | Translation | Greek |

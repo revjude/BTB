@@ -1,10 +1,7 @@
 **LXX Daniel 3:14** 
 <small><sub>**LXX:**</sub></small>
 And Nebuchadnezzar responded and said to them, Is it truly, Shadrach, Meshach, Abed-nego, to my gods you serve not, and to the image  in gold which I stationed, you do not do obeisance to? 
-<small><sub>**KJV:**</sub></small>
-Nebuchadnezzar spake and said unto them, [Is it] true, O Shadrach, Meshach, and Abednego, do not ye serve my gods, nor worship the golden image which I have set up?
-<small><sub>**BSB:**</sub></small>
-and Nebuchadnezzar said to them, “Shadrach, Meshach, and Abednego, is it true that you do not serve my gods or worship the golden statue I have set up?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.3.13|<< Daniel 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.3.15|Daniel 3:15 >>]]</td></tr></table>
 
 | Translation | Greek |

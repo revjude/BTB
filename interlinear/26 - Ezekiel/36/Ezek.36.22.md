@@ -1,4 +1,4 @@
-**Ezekiel 36:22** 
+**Ezekiel 36:22**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore say unto the house of Israel, Thus saith the Lord GOD; I do not [this] for your sakes, O house of Israel, but for mine holy name’s sake, which ye have profaned among the heathen, whither ye went.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore tell the house of Israel that this is what the Lord GOD says: It is no
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.21|<< Ezekiel 36:21]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.23|Ezekiel 36:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֞ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | say  |**<big>&#8207;[[H0559\|אֱמֹ֣ר]]&#8207; </big>**| 'e.Mor<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

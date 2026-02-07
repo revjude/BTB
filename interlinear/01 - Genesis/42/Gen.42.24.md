@@ -1,4 +1,4 @@
-**Genesis 42:24** 
+**Genesis 42:24**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he turned himself about from them, and wept; and returned to them again, and communed with them, and took from them Simeon, and bound him before their eyes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he turned away from them and wept. When he turned back and spoke to them, he
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.23|<< Genesis 42:23]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.25|Genesis 42:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he turned away  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5437G\|יִּסֹּ֥ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.So<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from with \<the> them  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

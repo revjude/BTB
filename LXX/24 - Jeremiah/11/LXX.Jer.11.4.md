@@ -1,10 +1,7 @@
 **LXX Jeremiah 11:4** 
 <small><sub>**LXX:**</sub></small>
 of which I gave charge \[to\] your fathers in the day I led them from out of \[the\] land of Egypt, from out of \[the\] furnace  of iron, saying, Hearken to  my voice, and do all as much as I give charge to you! And you will be to me for a people, and I will be to you for God. 
-<small><sub>**KJV:**</sub></small>
-Which I commanded your fathers in the day [that] I brought them forth out of the land of Egypt, from the iron furnace, saying, Obey my voice, and do them, according to all which I command you: so shall ye be my people, and I will be your God:
-<small><sub>**BSB:**</sub></small>
-which I commanded your forefathers when I brought them out of the land of Egypt, out of the iron furnace, saying, ‘Obey Me, and do everything I command you, and you will be My people, and I will be your God.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.11.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.11.3|<< Jeremiah 11:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.11.5|Jeremiah 11:5 >>]]</td></tr></table>
 
 | Translation | Greek |

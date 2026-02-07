@@ -1,4 +1,4 @@
-**Nahum 2:8** (2:9)
+**Nahum 2:8**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Nineveh [is] of old like a pool of water: yet they shall flee away. Stand, stand, [shall they cry]; but none shall look back.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Nineveh has been like a pool of water throughout her days, but now it is drainin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.7|<< Nahum 2:7]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.9|Nahum 2:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Nineveh  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5210\|נִינְוֵ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ni.ne.Veh<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] like a pool of  |**<big>&#8207;[[H9004\|כִ]]&#8207;&#8207;[[H1295H\|בְרֵֽכַת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khi<small><sup>[[HR]]</sup></small> v.re.khat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

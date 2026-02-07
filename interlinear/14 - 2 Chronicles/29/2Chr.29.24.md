@@ -1,4 +1,4 @@
-**2 Chronicles 29:24** 
+**2 Chronicles 29:24**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priests killed them, and they made reconciliation with their blood upon the altar, to make an atonement for all Israel: for the king commanded [that] the burnt offering and the sin offering [should be made] for all Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And the priests slaughtered the goats and put their blood on the altar for a sin
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.23|<< 2 Chronicles 29:23]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.25|2 Chronicles 29:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they slaughtered them  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7819A\|יִּשְׁחָטוּ]]&#8207;&#8207;[[H9038\|ם֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.cha.Tu<small><sup>[[HVqw3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priests  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּ֣הֲנִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

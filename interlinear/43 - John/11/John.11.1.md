@@ -1,12 +1,12 @@
-**John 11:1
-**<small><sub>**KJV:**</sub></small>
+**John 11:1**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now a certain [man] was sick, [named] Lazarus, of Bethany, the town of Mary and her sister Martha.
 <small><sub>**BSB:**</sub></small>
 At this time a man named Lazarus was sick. He lived in Bethany, the village of Mary and her sister Martha.
 <small><sub>**Literal:**</sub></small>
 Was now a certain [man] ailing, Lazarus of Bethany of the village of Mary and Martha the sister of her;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.42|<< John 10:42]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.2|John 11:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Was |**<big>[[G1510\|Ἦν]]</big>**  |Ēn <small><sup>[[V-IAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

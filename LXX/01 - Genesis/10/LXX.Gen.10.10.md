@@ -1,10 +1,7 @@
 **LXX Genesis 10:10** 
 <small><sub>**LXX:**</sub></small>
 And came to pass \[the\] beginning  of his kingdom -- Babel, and Erech, and Accad, and Calneh, in the land of Shinar. 
-<small><sub>**KJV:**</sub></small>
-And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.
-<small><sub>**BSB:**</sub></small>
-His kingdom began in Babylon, Erech, Accad, and Calneh, in the land of Shinar.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.10.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.10.9|<< Genesis 10:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.10.11|Genesis 10:11 >>]]</td></tr></table>
 
 | Translation | Greek |

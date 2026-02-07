@@ -1,4 +1,4 @@
-**Exodus 31:14** 
+**Exodus 31:14**<big><big>[[Exod.31.12 The Sign of the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall keep the sabbath therefore; for it [is] holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth [any] work therein, that soul shall be cut off from among his people.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Keep the Sabbath, for it is holy to you. Anyone who profanes it must surely be p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.31.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.13|<< Exodus 31:13]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.15|Exodus 31:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will observe  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H8104G\|שְׁמַרְתֶּם֙]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> she.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |

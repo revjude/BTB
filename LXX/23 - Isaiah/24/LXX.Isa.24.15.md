@@ -1,10 +1,7 @@
 **LXX Isaiah 24:15** 
 <small><sub>**LXX:**</sub></small>
 On account of this the glory of \[the\] <span class="smallcaps">lord</span> will be among the islands of the sea; the name of \[the\] <span class="smallcaps">lord</span> will be honored. 
-<small><sub>**KJV:**</sub></small>
-Wherefore glorify ye the LORD in the fires, [even] the name of the LORD God of Israel in the isles of the sea.
-<small><sub>**BSB:**</sub></small>
-Therefore glorify the LORD in the east. Extol the name of the LORD, the God of Israel in the islands of the sea.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.24.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.24.14|<< Isaiah 24:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.24.16|Isaiah 24:16 >>]]</td></tr></table>
 
 | Translation | Greek |

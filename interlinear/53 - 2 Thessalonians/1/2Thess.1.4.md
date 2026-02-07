@@ -1,12 +1,12 @@
-**2 Thessalonians 1:4
-**<small><sub>**KJV:**</sub></small>
+**2 Thessalonians 1:4**<big><big>[[2Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:
 <small><sub>**BSB:**</sub></small>
 That is why we boast among God’s churches about your perseverance and faith in the face of all the persecution and affliction you are enduring.
 <small><sub>**Literal:**</sub></small>
 so as for ourselves us in you to greatly boast in the churches <the> of God about the perseverance of you and faith in all the persecutions of you and in the tribulations that you are bearing,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.3|<< 2 Thessalonians 1:3]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.5|2 Thessalonians 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so as for |**<big>[[G5620\|ὥστε]]</big>**  |hōste <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | ourselves |**<big>[[G0846\|αὐτοὺς]]</big>**  |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR»1+Byz»1">NKO</abbr> | |

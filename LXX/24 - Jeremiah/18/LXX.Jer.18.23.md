@@ -1,10 +1,7 @@
 **LXX Jeremiah 18:23** 
 <small><sub>**LXX:**</sub></small>
 And you, O <span class="smallcaps">lord</span>, knew all together  their plan against me for death. You should not acquit  their iniquities; and  you should not wipe away their sins from in front of you. their weakness come before you! In \[the\] time of your rage deal with them! 
-<small><sub>**KJV:**</sub></small>
-Yet, LORD, thou knowest all their counsel against me to slay [me]: forgive not their iniquity, neither blot out their sin from thy sight, but let them be overthrown before thee; deal [thus] with them in the time of thine anger.
-<small><sub>**BSB:**</sub></small>
-But You, O LORD, know all their deadly plots against me. Do not wipe out their guilt or blot out their sin from Your sight. Let them be overthrown before You; deal with them in the time of Your anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.18.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.22|<< Jeremiah 18:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.19.1|Jeremiah 19:1 >>]]</td></tr></table>
 
 | Translation | Greek |

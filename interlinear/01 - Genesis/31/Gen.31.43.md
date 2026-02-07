@@ -1,4 +1,4 @@
-**Genesis 31:43** 
+**Genesis 31:43**<big><big>[[Gen.31.43 Jacob’s Covenant with Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Laban answered and said unto Jacob, [These] daughters [are] my daughters, and [these] children [are] my children, and [these] cattle [are] my cattle, and all that thou seest [is] mine: and what can I do this day unto these my daughters, or unto their children which they have born?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But Laban answered Jacob, “These daughters are my daughters, these sons are my
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.42|<< Genesis 31:42]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.44|Genesis 31:44 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he answered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6030B\|יַּ֨עַן]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'an<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Laban  |**<big>&#8207;[[H3837A\|לָבָ֜ן]]&#8207; </big>**| la.Van<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

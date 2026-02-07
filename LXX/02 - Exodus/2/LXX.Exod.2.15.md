@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Pharaoh heard about  this thing, and he sought to do away with Moses. But Moses withdrew from \[the\] face of Pharaoh, and he dwelt in \[the\] land of Midian. And coming into \[the\] land of Midian, he sat at the well. 
-<small><sub>**KJV:**</sub></small>
-Now when Pharaoh heard this thing, he sought to slay Moses. But Moses fled from the face of Pharaoh, and dwelt in the land of Midian: and he sat down by a well.
-<small><sub>**BSB:**</sub></small>
-When Pharaoh heard about this matter, he sought to kill Moses. But Moses fled from Pharaoh and settled in the land of Midian, where he sat down beside a well.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.2.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.14|<< Exodus 2:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.16|Exodus 2:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 2:15** is...

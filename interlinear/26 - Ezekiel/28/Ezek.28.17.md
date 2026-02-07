@@ -1,4 +1,4 @@
-**Ezekiel 28:17** 
+**Ezekiel 28:17**<big><big>[[Ezek.28.11 A Lament for the King of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine heart was lifted up because of thy beauty, thou hast corrupted thy wisdom by reason of thy brightness: I will cast thee to the ground, I will lay thee before kings, that they may behold thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your heart grew proud of your beauty; you corrupted your wisdom because of your 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.16|<< Ezekiel 28:16]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.18|Ezekiel 28:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | it was haughty  |**<big>&#8207;[[H1361\|גָּבַ֤הּ]]&#8207; </big>**| ga.Vah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | heart your  |**<big>&#8207;[[H3820A\|לִבְּ]]&#8207;&#8207;[[H9021\|ךָ֙]]&#8207; </big>**| li.be.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

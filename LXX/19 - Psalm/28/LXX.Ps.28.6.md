@@ -1,10 +1,7 @@
 **LXX Psalm 28:6** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[be\] \[the\] <span class="smallcaps">lord</span>, for he heard the voice  of my supplication. 
-<small><sub>**KJV:**</sub></small>
-Blessed [be] the LORD, because he hath heard the voice of my supplications.
-<small><sub>**BSB:**</sub></small>
-Blessed be the LORD, for He has heard my cry for mercy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.28.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.28.5|<< Psalm 28:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.28.7|Psalm 28:7 >>]]</td></tr></table>
 
 | Translation | Greek |

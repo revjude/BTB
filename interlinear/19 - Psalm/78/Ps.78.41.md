@@ -1,4 +1,4 @@
-**Psalms 78:41** 
+**Psalms 78:41**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, they turned back and tempted God, and limited the Holy One of Israel.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Again and again they tested God and provoked the Holy One of Israel.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.40|<< Psalms 78:40]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.42|Psalms 78:42 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725J\|יָּשׁ֣וּבוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Shu.vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they put to [the] test  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5254G\|יְנַסּ֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.na.Su<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

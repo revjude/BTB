@@ -1,4 +1,4 @@
-**Leviticus 18:24** 
+**Leviticus 18:24**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before you:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not defile yourselves by any of these practices, for by all these things the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.23|<< Leviticus 18:23]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.25|Leviticus 18:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you defile yourselves  |**<big>&#8207;[[H2930A\|תִּֽטַּמְּא֖וּ]]&#8207; </big>**| ti.ta.me.'U<small><sup>[[HVtj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

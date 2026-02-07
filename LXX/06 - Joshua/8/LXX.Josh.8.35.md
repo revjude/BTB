@@ -1,10 +1,7 @@
 **LXX Joshua 8:35** 
 <small><sub>**LXX:**</sub></small>
 There was not a word from all which Moses gave charge \[to\] Joshua, which Joshua did not read into the ears of all \[the\] assembly of Israel, to the men, and to the women, and to the servants, and to the foreigners  going  with Israel. 
-<small><sub>**KJV:**</sub></small>
-There was not a word of all that Moses commanded, which Joshua read not before all the congregation of Israel, with the women, and the little ones, and the strangers that were conversant among them.
-<small><sub>**BSB:**</sub></small>
-There was not a word of all that Moses had commanded that Joshua failed to read before the whole assembly of Israel, including the women, the little ones, and the foreigners who lived among them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.34|<< Joshua 8:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.1|Joshua 9:1 >>]]</td></tr></table>
 
 | Translation | Greek |

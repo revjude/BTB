@@ -1,10 +1,7 @@
 **LXX 1 Kings 5:16** 
 <small><sub>**LXX:**</sub></small>
 separate from the rulers  being placed over the works  of Solomon -- three thousand and three hundred supervisors over the people of the ones doing the works. 
-<small><sub>**KJV:**</sub></small>
-Beside the chief of Solomon’s officers which [were] over the work, three thousand and three hundred, which ruled over the people that wrought in the work.
-<small><sub>**BSB:**</sub></small>
-not including his 3,300 foremen who supervised the workers.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.5.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.5.15|<< 1 Kings 5:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.5.17|1 Kings 5:17 >>]]</td></tr></table>
 
 | Translation | Greek |

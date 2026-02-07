@@ -1,12 +1,12 @@
-**Revelation 6:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:2**<big><big>[[Rev.6.1 The First Seal：The White Horse|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer.
 <small><sub>**BSB:**</sub></small>
 So I looked and saw a white horse, and its rider held a bow. And he was given a crown, and he rode out to overcome and conquer.
 <small><sub>**Literal:**</sub></small>
 And I looked and behold a horse white and the [one] sitting on it having a bow. and was given to him a crown, and he went forth overcoming and that he may conquer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.1|<< Revelation 6:1]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.3|Revelation 6:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I looked |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR">NKO</abbr> | |

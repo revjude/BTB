@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And God sent a bad spirit between Abimelech and between the men of Shechem; and the men of Shechem annulled \[allegiance\] with the house of Abimelech; 
-<small><sub>**KJV:**</sub></small>
-Then God sent an evil spirit between Abimelech and the men of Shechem; and the men of Shechem dealt treacherously with Abimelech:
-<small><sub>**BSB:**</sub></small>
-God sent a spirit of animosity between Abimelech and the leaders of Shechem and caused them to treat Abimelech deceitfully,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.9.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.9.22|<< Judges 9:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.9.24|Judges 9:24 >>]]</td></tr></table>
 
 | Translation | Greek |

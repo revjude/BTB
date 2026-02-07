@@ -1,4 +1,4 @@
-**Jeremiah 50:32** 
+**Jeremiah 50:32**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the most proud shall stumble and fall, and none shall raise him up: and I will kindle a fire in his cities, and it shall devour all round about him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The arrogant one will stumble and fall with no one to pick him up. And I will ki
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.31|<< Jeremiah 50:31]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.33|Jeremiah 50:33 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will stumble  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3782\|כָשַׁ֤ל]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> kha.Shal<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | arrogance  |**<big>&#8207;[[H2087\|זָדוֹן֙]]&#8207; </big>**| za.dOn<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

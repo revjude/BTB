@@ -1,10 +1,7 @@
 **LXX Deuteronomy 28:62** 
 <small><sub>**LXX:**</sub></small>
 And you shall be left behind few in number for you were as the stars of the heaven in multitude, for you did not hearken to the voice of \[the\] <span class="smallcaps">lord</span>  your God. 
-<small><sub>**KJV:**</sub></small>
-And ye shall be left few in number, whereas ye were as the stars of heaven for multitude; because thou wouldest not obey the voice of the LORD thy God.
-<small><sub>**BSB:**</sub></small>
-You who were as numerous as the stars in the sky will be left few in number, because you would not obey the voice of the LORD your God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.28.62|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.61|<< Deuteronomy 28:61]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.63|Deuteronomy 28:63 >>]]</td></tr></table>
 
 | Translation | Greek |

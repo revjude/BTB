@@ -1,4 +1,4 @@
-**Deuteronomy 5:14** 
+**Deuteronomy 5:14**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the seventh day [is] the sabbath of the LORD thy God: [in it] thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that [is] within thy gates; that thy manservant and thy maidservant may rest as well as thou.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but the seventh day is a Sabbath to the LORD your God, on which you must not do 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.13|<< Deuteronomy 5:13]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.15|Deuteronomy 5:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] day  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3117G\|י֙וֹם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> seventh  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7637\|שְּׁבִיעִ֜֔י]]&#8207; </big>**[^1] | ha.<small><sup>[[HTd]]</sup></small> she.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |

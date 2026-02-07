@@ -1,4 +1,4 @@
-**Joshua 15:3** 
+**Joshua 15:3**<big><big>[[Josh.15.1 Judah’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it went out to the south side to Maalehacrabbim, and passed along to Zin, and ascended up on the south side unto Kadeshbarnea, and passed along to Hezron, and went up to Adar, and fetched a compass to Karkaa:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ proceeded south of the Ascent of Akrabbim, continued on to Zin, went over to the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.2|<< Joshua 15:2]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.4|Joshua 15:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it goes out  |**<big>&#8207;[[H9001\|וְ֠]]&#8207;&#8207;[[H3318I\|יָצָא]]&#8207; </big>**| Ve.<small><sup>[[Hc]]</sup></small> ya.tza'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

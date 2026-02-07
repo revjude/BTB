@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:5** 
 <small><sub>**LXX:**</sub></small>
 then I will raise up the throne  of your kingdom over Israel into the eon, as I spoke \[to\] your father David, saying, There shall not be removed from you a man leading in Israel. 
-<small><sub>**KJV:**</sub></small>
-Then I will establish the throne of thy kingdom upon Israel for ever, as I promised to David thy father, saying, There shall not fail thee a man upon the throne of Israel.
-<small><sub>**BSB:**</sub></small>
-then I will establish your royal throne over Israel forever, as I promised your father David when I said, ‘You will never fail to have a man on the throne of Israel.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.4|<< 1 Kings 9:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.6|1 Kings 9:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**Luke 19:9
-**<small><sub>**KJV:**</sub></small>
+**Luke 19:9**<big><big>[[Luke.19.1 Jesus and Zacchaeus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus said unto him, This day is salvation come to this house, forsomuch as he also is a son of Abraham.
 <small><sub>**BSB:**</sub></small>
 Jesus said to him, “Today salvation has come to this house, because this man too is a son of Abraham.
 <small><sub>**Literal:**</sub></small>
 Said then to him <the> Jesus that Today salvation to the house this has come, because also he himself a son of Abraham is;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.8|<< Luke 19:8]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.10|Luke 19:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Said |**<big>[[G2036\|Εἶπεν]]</big>**  |Eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Hosea 10:3** 
 <small><sub>**LXX:**</sub></small>
 Because now they shall say, There is no king for us, for we feared not the <span class="smallcaps">lord</span>; but the king, what shall he do to us? 
-<small><sub>**KJV:**</sub></small>
-For now they shall say, We have no king, because we feared not the LORD; what then should a king do to us?
-<small><sub>**BSB:**</sub></small>
-Surely now they will say, “We have no king, for we do not revere the LORD. What can a king do for us?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.10.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.10.2|<< Hosea 10:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.10.4|Hosea 10:4 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**2 Samuel 3:34** 
+**2 Samuel 3:34**<big><big>[[2Sam.3.31 David Mourns for Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy hands [were] not bound, nor thy feet put into fetters: as a man falleth before wicked men, [so] fellest thou. And all the people wept again over him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your hands were not bound, your feet were not fettered. As a man falls before th
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.33|<< 2 Samuel 3:33]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.35|2 Samuel 3:35 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hand your  |**<big>&#8207;[[H3027G\|יָדֶ֣]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ya.De.<small><sup>[[HNcbdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

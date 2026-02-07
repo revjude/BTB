@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 28:27** 
 <small><sub>**LXX:**</sub></small>
 And Ahaz slept with  his fathers, and they entombed \[him\] in \[the\] city of David; for they did not bring him into the tombs of the kings of Israel. And Hezekiah his son reigned instead of him. 
-<small><sub>**KJV:**</sub></small>
-And Ahaz slept with his fathers, and they buried him in the city, [even] in Jerusalem: but they brought him not into the sepulchres of the kings of Israel: and Hezekiah his son reigned in his stead.
-<small><sub>**BSB:**</sub></small>
-And Ahaz rested with his fathers and was buried in the city of Jerusalem, but he was not placed in the tombs of the kings of Israel. And his son Hezekiah reigned in his place.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.28.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.28.26|<< 2 Chronicles 28:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.29.1|2 Chronicles 29:1 >>]]</td></tr></table>
 
 | Translation | Greek |

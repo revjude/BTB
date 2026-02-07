@@ -1,4 +1,4 @@
-**Genesis 7:21** 
+**Genesis 7:21**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creepeth upon the earth, and every man:
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And every living thing that moved upon the earth perished—birds, livestock, an
 > $\quad$ referenced by: [[2Pet.3.5|2Pet 3:5-6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1478\|יִּגְוַ֞ע]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yig.Va'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

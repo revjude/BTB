@@ -1,12 +1,12 @@
-**Luke 7:38
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:38**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And stood at his feet behind [him] weeping, and began to wash his feet with tears, and did wipe [them] with the hairs of her head, and kissed his feet, and anointed [them] with the ointment.
 <small><sub>**BSB:**</sub></small>
 As she stood behind Him at His feet weeping, she began to wet His feet with her tears and wipe them with her hair. Then she kissed His feet and anointed them with the perfume.
 <small><sub>**Literal:**</sub></small>
 and having stood behind at the feet of Him weeping with the tears she began to wet the feet of Him and with the hairs of the head of her she was wiping [them] and was kissing the feet of Him and was anointing [them] with the fragrant oil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.37|<< Luke 7:37]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.39|Luke 7:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having stood |**<big>[[G2476\|στᾶσα]]</big>**  |stasa <small><sup>[[V-2AAP-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

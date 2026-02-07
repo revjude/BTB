@@ -1,4 +1,4 @@
-**Joshua 14:12** 
+**Joshua 14:12**<big><big>[[Josh.14.6 Caleb Requests Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore give me this mountain, whereof the LORD spake in that day; for thou heardest in that day how the Anakims [were] there, and [that] the cities [were] great [and] fenced: if so be the LORD [will be] with me, then I shall be able to drive them out, as the LORD said.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now therefore give me this hill country that the LORD promised me on that day, f
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.11|<< Joshua 14:11]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.13|Joshua 14:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | give !  |**<big>&#8207;[[H5414G\|תְּנָ]]&#8207;&#8207;[[H9012\|ה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.na<small><sup>[[HVqv2ms]]</sup></small> h-<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |

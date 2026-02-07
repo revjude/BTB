@@ -1,4 +1,4 @@
-**Deuteronomy 3:11** 
+**Deuteronomy 3:11**<big><big>[[Deut.3.1 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For only Og king of Bashan remained of the remnant of giants; behold, his bedstead [was] a bedstead of iron; [is] it not in Rabbath of the children of Ammon? nine cubits [was] the length thereof, and four cubits the breadth of it, after the cubit of a man.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For only Og king of Bashan remained of the remnant of giants; behold, his bedste
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.10|<< Deuteronomy 3:10]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.12|Deuteronomy 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | only  |**<big>&#8207;[[H7535\|רַק]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| rak-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

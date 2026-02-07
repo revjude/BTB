@@ -1,4 +1,4 @@
-**Hosea 10:11** 
+**Hosea 10:11**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ephraim [is as] an heifer [that is] taught, [and] loveth to tread out [the corn]; but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, [and] Jacob shall break his clods.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Ephraim is a well-trained heifer that loves to thresh; but I will place a yoke o
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.10|<< Hosea 10:10]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.12|Hosea 10:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Ephraim  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0669G\|אֶפְרַ֜יִם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ef.Ra.yim<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] a heifer  |**<big>&#8207;[[H5697A\|עֶגְלָ֤ה]]&#8207; </big>**| 'eg.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

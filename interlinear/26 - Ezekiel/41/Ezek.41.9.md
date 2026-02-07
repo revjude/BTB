@@ -1,4 +1,4 @@
-**Ezekiel 41:9** 
+**Ezekiel 41:9**<big><big>[[Ezek.41.5 Outside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The thickness of the wall, which [was] for the side chamber without, [was] five cubits: and [that] which [was] left [was] the place of the side chambers that [were] within.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The outer wall of the side rooms was five cubits thick, and the open area betwee
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.8|<< Ezekiel 41:8]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.10|Ezekiel 41:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] breadth of  |**<big>&#8207;[[H7341\|רֹ֣חַב]]&#8207; </big>**| Ro.chav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the wall  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7023\|קִּ֧יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Kir<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

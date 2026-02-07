@@ -1,4 +1,4 @@
-**Psalms 56:7** (56:8)
+**Psalms 56:7**<big><big>[[Ps.56.1 Be Merciful to Me, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall they escape by iniquity? in [thine] anger cast down the people, O God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In spite of such sin, will they escape? In Your anger, O God, cast down the nati
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.6|<< Psalms 56:6]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.8|Psalms 56:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | because of  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wickedness  |**<big>&#8207;[[H0205G\|אָ֥וֶן]]&#8207; </big>**| 'A.ven<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

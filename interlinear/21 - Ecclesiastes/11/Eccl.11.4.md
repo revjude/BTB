@@ -1,4 +1,4 @@
-**Ecclesiastes 11:4** 
+**Ecclesiastes 11:4**<big><big>[[Eccl.11.1 Cast Your Bread upon the Waters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He who watches the wind will fail to sow, and he who observes the clouds will fa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11.3|<< Ecclesiastes 11:3]]</td><td align="center" style="border:none;">[[Eccl.11|Ecclesiastes 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.5|Ecclesiastes 11:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] watches for  |**<big>&#8207;[[H8104I\|שֹׁמֵ֥ר]]&#8207; </big>**| sho.Mer<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a wind  |**<big>&#8207;[[H7307H\|ר֖וּחַ]]&#8207; </big>**| Ru.ach<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

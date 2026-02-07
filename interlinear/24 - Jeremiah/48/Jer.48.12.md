@@ -1,4 +1,4 @@
-**Jeremiah 48:12** 
+**Jeremiah 48:12**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, behold, the days come, saith the LORD, that I will send unto him wanderers, that shall cause him to wander, and shall empty his vessels, and break their bottles.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore behold, the days are coming, declares the LORD, when I will send to hi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.11|<< Jeremiah 48:11]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.13|Jeremiah 48:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> therefore  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3651C\|כֵ֞ן]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khen<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּ֖ה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hi.Neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

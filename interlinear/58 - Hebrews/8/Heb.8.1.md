@@ -1,5 +1,5 @@
-**Hebrews 8:1
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 8:1**<big><big>[[Heb.8.1 Christ’s Eternal Priesthood|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now of the things which we have spoken [this is] the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;
 <small><sub>**BSB:**</sub></small>
 The point of what we are saying is this: We do have such a high priest, who sat down at the right hand of the throne of the Majesty in heaven,
@@ -10,7 +10,7 @@ The point of what we are saying is this: We do have such a high priest, who sat 
 > $\quad$ alluding to: [[LXX.Ps.110.1|Ps 110:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] sum |**<big>[[G2774\|Κεφάλαιον]]</big>**  |Kephalaion <small><sup>[[N-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

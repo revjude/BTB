@@ -1,12 +1,12 @@
-**Matthew 8:20
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:20**<big><big>[[Matt.8.18 The Cost of Discipleship|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus saith unto him, The foxes have holes, and the birds of the air [have] nests; but the Son of man hath not where to lay [his] head.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Foxes have dens and birds of the air have nests, but the Son of Man has no place to lay His head.”
 <small><sub>**Literal:**</sub></small>
 And says to him <the> Jesus; <the> Foxes holes have and the birds of the air nests, <the> but the Son <the> of Man no has [place] where the head He may lay.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.19|<< Matthew 8:19]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.21|Matthew 8:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 34:11** 
 <small><sub>**LXX:**</sub></small>
 And they were turned after these \[things\], and they led the bondmen and the maidservants whom they sent free, and they subjected them \[again\] as manservants and maidservants. 
-<small><sub>**KJV:**</sub></small>
-But afterward they turned, and caused the servants and the handmaids, whom they had let go free, to return, and brought them into subjection for servants and for handmaids.
-<small><sub>**BSB:**</sub></small>
-but later they changed their minds and took back the menservants and maidservants they had freed, and they forced them to become slaves again.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.34.10|<< Jeremiah 34:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.12|Jeremiah 34:12 >>]]</td></tr></table>
 
 | Translation | Greek |

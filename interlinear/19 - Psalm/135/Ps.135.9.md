@@ -1,4 +1,4 @@
-**Psalms 135:9** 
+**Psalms 135:9**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Who] sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He sent signs and wonders into your midst, O Egypt, against Pharaoh and all his 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.8|<< Psalms 135:8]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.10|Psalms 135:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he sent  |**<big>&#8207;[[H7971G\|שָׁלַ֤ח]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| sha.Lach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | signs  |**<big>&#8207;[[H0226G\|אֹת֣וֹת]]&#8207; </big>**| 'o.Tot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

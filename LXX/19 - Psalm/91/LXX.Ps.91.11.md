@@ -1,10 +1,7 @@
 **LXX Psalm 91:11** 
 <small><sub>**LXX:**</sub></small>
 For \[to\] his angels he gives charge concerning you,  to guard you in all  your ways. 
-<small><sub>**KJV:**</sub></small>
-For he shall give his angels charge over thee, to keep thee in all thy ways.
-<small><sub>**BSB:**</sub></small>
-For He will command His angels concerning you to guard you in all your ways.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.91.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.91.10|<< Psalm 91:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.91.12|Psalm 91:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Psalm 91:11** is...

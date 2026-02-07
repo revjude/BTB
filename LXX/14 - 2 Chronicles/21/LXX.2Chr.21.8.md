@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In  those days Edom revolted from under \[the\] hand of Judah, and a king reign over themselves. 
-<small><sub>**KJV:**</sub></small>
-In his days the Edomites revolted from under the dominion of Judah, and made themselves a king.
-<small><sub>**BSB:**</sub></small>
-In the days of Jehoram, Edom rebelled against the hand of Judah and appointed their own king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.21.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.21.7|<< 2 Chronicles 21:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.21.9|2 Chronicles 21:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Numbers 16:5** 
+**Numbers 16:5**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he spake unto Korah and unto all his company, saying, Even to morrow the LORD will shew who [are] his, and [who is] holy; and will cause [him] to come near unto him: even [him] whom he hath chosen will he cause to come near unto him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Then he said to Korah and all his followers, “Tomorrow morning the LORD will r
 > $\quad$ referenced by: [[2Tim.2.19|2Tim 2:19]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he spoke  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1696G\|יְדַבֵּ֨ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.da.Ber<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

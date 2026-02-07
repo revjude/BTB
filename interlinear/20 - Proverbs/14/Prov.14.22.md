@@ -1,4 +1,4 @@
-**Proverbs 14:22** 
+**Proverbs 14:22**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Do they not err that devise evil? but mercy and truth [shall be] to them that devise good.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Do not those who contrive evil go astray? But those who plan goodness find lovin
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.21|<< Proverbs 14:21]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.23|Proverbs 14:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ not  |**<big>&#8207;[[H9008\|הֲֽ]]&#8207;&#8207;[[H3808\|לוֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | do they go astray  |**<big>&#8207;[[H8582\|יִ֭תְעוּ]]&#8207; </big>**| Yit.'u<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

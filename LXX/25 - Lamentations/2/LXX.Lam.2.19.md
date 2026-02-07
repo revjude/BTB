@@ -3,10 +3,7 @@
 <p style="text-align:center;font-weight:600;">ΚΩΦ</p>
 
 Rise up to meditate in \[the\] night! At \[the\] beginnings of your watch pour out your heart as water before \[the\] face of \[the\] <span class="smallcaps">lord</span>! Lift to him your hands for \[the\] lives of your infants, of the ones fainting from hunger at \[the\] corner of all \[the\] streets! 
-<small><sub>**KJV:**</sub></small>
-Arise, cry out in the night: in the beginning of the watches pour out thine heart like water before the face of the Lord: lift up thy hands toward him for the life of thy young children, that faint for hunger in the top of every street.
-<small><sub>**BSB:**</sub></small>
-Arise, cry out in the night from the first watch of the night. Pour out your heart like water in the presence of the Lord. Lift up your hands to Him for the lives of your children who are fainting from hunger on the corner of every street.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lam.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lam.2.18|<< Lamentations 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lam.2.20|Lamentations 2:20 >>]]</td></tr></table>
 
 | Translation | Greek |

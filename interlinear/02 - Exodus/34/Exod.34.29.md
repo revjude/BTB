@@ -1,4 +1,4 @@
-**Exodus 34:29** 
+**Exodus 34:29**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Moses came down from mount Sinai with the two tables of testimony in Moses’ hand, when he came down from the mount, that Moses wist not that the skin of his face shone while he talked with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And when Moses came down from Mount Sinai with the two tablets of the Testimony 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.28|<< Exodus 34:28]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.30|Exodus 34:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֗י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when came down  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3381\|רֶ֤דֶת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Re.det<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

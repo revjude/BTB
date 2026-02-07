@@ -1,4 +1,4 @@
-**Esther 9:29** 
+**Esther 9:29**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Esther the queen, the daughter of Abihail, and Mordecai the Jew, wrote with all authority, to confirm this second letter of Purim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Queen Esther daughter of Abihail, along with Mordecai the Jew, wrote with ful
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.28|<< Esther 9:28]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.30|Esther 9:30 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she wrote  |**<big>&#8207;[[H9001\|וַ֠]]&#8207;&#8207;[[H3789\|תִּכְתֹּב]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tikh.to<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Esther  |**<big>&#8207;[[H0635\|אֶסְתֵּ֨ר]]&#8207; </big>**| 'es.Ter<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

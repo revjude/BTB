@@ -1,10 +1,7 @@
 **LXX Joshua 3:15** 
 <small><sub>**LXX:**</sub></small>
 And as the priests entered  lifting the ark of the covenant unto the Jordan, that the feet of the priests  lifting the ark were dipped into a part of the water of the Jordan, and the Jordan filled up its entire bank as in days of harvest, 
-<small><sub>**KJV:**</sub></small>
-And as they that bare the ark were come unto Jordan, and the feet of the priests that bare the ark were dipped in the brim of the water, (for Jordan overfloweth all his banks all the time of harvest,)
-<small><sub>**BSB:**</sub></small>
-Now the Jordan overflows its banks throughout the harvest season. But as soon as the priests carrying the ark reached the Jordan and their feet touched the water’s edge,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.3.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.3.14|<< Joshua 3:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.3.16|Joshua 3:16 >>]]</td></tr></table>
 
 | Translation | Greek |

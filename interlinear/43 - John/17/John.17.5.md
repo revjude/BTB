@@ -1,12 +1,12 @@
-**John 17:5
-**<small><sub>**KJV:**</sub></small>
+**John 17:5**<big><big>[[John.17.1 Prayer for the Son|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And now, O Father, glorify thou me with thine own self with the glory which I had with thee before the world was.
 <small><sub>**BSB:**</sub></small>
 And now, Father, glorify Me in Your presence with the glory I had with You before the world existed.
 <small><sub>**Literal:**</sub></small>
 And now do glorify Me You yourself, Father, with Yourself with the glory that I had before <the> the world existing with You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.4|<< John 17:4]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.6|John 17:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G3568\|νῦν]]</big>**  |nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

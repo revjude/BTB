@@ -1,12 +1,12 @@
-**James 3:10
-**<small><sub>**KJV:**</sub></small>
+**James 3:10**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be.
 <small><sub>**BSB:**</sub></small>
 Out of the same mouth come blessing and cursing. My brothers, this should not be!
 <small><sub>**Literal:**</sub></small>
 Out of the same mouth proceed forth blessing and cursing. Not ought, brothers of Mine, these things so to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.9|<< James 3:9]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.11|James 3:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Out of |**<big>[[G1537\|ἐκ]]</big>**  |ek <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

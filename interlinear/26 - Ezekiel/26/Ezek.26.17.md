@@ -1,4 +1,4 @@
-**Ezekiel 26:17** 
+**Ezekiel 26:17**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall take up a lamentation for thee, and say to thee, How art thou destroyed, [that wast] inhabited of seafaring men, the renowned city, which wast strong in the sea, she and her inhabitants, which cause their terror [to be] on all that haunt it!
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then they will lament for you, saying, “How you have perished, O city of renow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.16|<< Ezekiel 26:16]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.18|Ezekiel 26:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will take up  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5375G\|נָשְׂא֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.se.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on you  |**<big>&#8207;[[H5921A\|עָלַ֤יִ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| 'a.La.yi<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

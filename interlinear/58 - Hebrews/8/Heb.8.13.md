@@ -1,12 +1,12 @@
-**Hebrews 8:13
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 8:13**<big><big>[[Heb.8.6 The New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In that he saith, A new [covenant], he hath made the first old. Now that which decayeth and waxeth old [is] ready to vanish away.
 <small><sub>**BSB:**</sub></small>
 By speaking of a new covenant, He has made the first one obsolete; and what is obsolete and aging will soon disappear.
 <small><sub>**Literal:**</sub></small>
 In <the> saying new He has made obsolete the first; that then growing old and aging [is] near vanishing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.12|<< Hebrews 8:12]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.1|Hebrews 9:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

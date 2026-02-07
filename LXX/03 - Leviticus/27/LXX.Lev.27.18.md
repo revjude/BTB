@@ -1,10 +1,7 @@
 **LXX Leviticus 27:18** 
 <small><sub>**LXX:**</sub></small>
 But if he should sanctify his field last after the release, the priest shall count in addition to it the money for the years  remaining, until unto the \[next\] year of the release, and it shall be deducted from  his valuation. 
-<small><sub>**KJV:**</sub></small>
-But if he sanctify his field after the jubile, then the priest shall reckon unto him the money according to the years that remain, even unto the year of the jubile, and it shall be abated from thy estimation.
-<small><sub>**BSB:**</sub></small>
-But if he consecrates his field after the Jubilee, the priest is to calculate the price in proportion to the years left until the next Year of Jubilee, so that your valuation will be reduced.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.27.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.27.17|<< Leviticus 27:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.27.19|Leviticus 27:19 >>]]</td></tr></table>
 
 | Translation | Greek |

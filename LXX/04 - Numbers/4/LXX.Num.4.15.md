@@ -1,10 +1,7 @@
 **LXX Numbers 4:15** 
 <small><sub>**LXX:**</sub></small>
 And Aaron and his sons shall complete covering the holy \[things\], and all the holy items in the lifting away the camp. And after these \[things\] \[the\] sons of Kohath shall enter to lift. And they shall not touch of the holy \[things\], that they should not die. These \[things\] the sons of Kohath shall lift in the tent of the testimony, 
-<small><sub>**KJV:**</sub></small>
-And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath shall come to bear [it]: but they shall not touch [any] holy thing, lest they die. These [things are] the burden of the sons of Kohath in the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-When Aaron and his sons have finished covering the holy objects and all their equipment, as soon as the camp is ready to move, the Kohathites shall come and do the carrying. But they must not touch the holy objects, or they will die. These are the transportation duties of the Kohathites regarding the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.4.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.4.14|<< Numbers 4:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.4.16|Numbers 4:16 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 26:5** 
 <small><sub>**LXX:**</sub></small>
 because Abraham your father obeyed  my voice, and guarded  my orders, and  my commandments, and  my ordinances, and  my laws. 
-<small><sub>**KJV:**</sub></small>
-Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.
-<small><sub>**BSB:**</sub></small>
-because Abraham listened to My voice and kept My charge, My commandments, My statutes, and My laws.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.26.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.26.4|<< Genesis 26:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.26.6|Genesis 26:6 >>]]</td></tr></table>
 
 | Translation | Greek |

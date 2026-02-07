@@ -1,4 +1,4 @@
-**Genesis 1:6** 
+**Genesis 1:6**<big><big>[[Gen.1.6 The Second Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And God said, “Let there be an expanse between the waters, to separate the wat
 > $\quad$ referenced by: [[2Pet.3.5|2Pet 3:5-6]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֔ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

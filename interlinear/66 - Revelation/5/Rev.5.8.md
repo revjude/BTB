@@ -1,5 +1,5 @@
-**Revelation 5:8
-**<small><sub>**KJV:**</sub></small>
+**Revelation 5:8**<big><big>[[Rev.5.1 The Lamb Takes the Scroll|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had taken the book, the four beasts and four [and] twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints.
 <small><sub>**BSB:**</sub></small>
 When He had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb. Each one had a harp, and they were holding golden bowls full of incense, which are the prayers of the saints.
@@ -10,7 +10,7 @@ And when He had taken the scroll, the four living creatures and the twenty four 
 > $\quad$ possibly alluding to: [[LXX.Ps.141.2|Ps 141:2]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | when |**<big>[[G3753\|ὅτε]]</big>**  |hote <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

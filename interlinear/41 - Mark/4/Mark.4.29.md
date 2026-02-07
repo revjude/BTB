@@ -1,5 +1,5 @@
-**Mark 4:29
-**<small><sub>**KJV:**</sub></small>
+**Mark 4:29**<big><big>[[Mark.4.26 The Seed Growing Secretly|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come.
 <small><sub>**BSB:**</sub></small>
 And as soon as the grain is ripe, he swings the sickle, because the harvest has come.”
@@ -10,7 +10,7 @@ When then it may produce the fruit, immediately he sends the sickle for has come
 > $\quad$ referencing: [[LXX.Joel.3.13|Joel 3:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | When |**<big>[[G3752\|ὅταν]]</big>**  |hotan <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

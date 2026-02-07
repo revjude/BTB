@@ -1,4 +1,4 @@
-**Exodus 20:10** 
+**Exodus 20:10**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the seventh day [is] the sabbath of the LORD thy God: [in it] thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that [is] within thy gates:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ but the seventh day is a Sabbath to the LORD your God, on which you must not do 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.9|<< Exodus 20:9]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.11|Exodus 20:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and [the] day  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3117G\|י֙וֹם֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Yom<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> seventh  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7637\|שְּׁבִיעִ֔֜י]]&#8207; </big>**[^1] | ha.<small><sup>[[HTd]]</sup></small> she.vi.'I<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad (alt.puncuation)">L(p)</abbr> |

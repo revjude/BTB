@@ -1,4 +1,4 @@
-**Ezekiel 6:8** 
+**Ezekiel 6:8**<big><big>[[Ezek.6.8 A Remnant to Be Blessed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet will I leave a remnant, that ye may have [some] that shall escape the sword among the nations, when ye shall be scattered through the countries.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Yet I will leave a remnant, for some of you will escape the sword when you are s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.7|<< Ezekiel 6:7]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.9|Ezekiel 6:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will leave over  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3498\|הוֹתַרְתִּ֗י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ho.tar.Ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when belong  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1961\|הְי֥וֹת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

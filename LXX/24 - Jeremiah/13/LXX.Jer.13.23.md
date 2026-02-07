@@ -1,10 +1,7 @@
 **LXX Jeremiah 13:23** 
 <small><sub>**LXX:**</sub></small>
 If \[the\] Ethiopian shall change  his skin, and \[the\] leopard  her colors, then you shall be able to do good \[while\] learning the bad. 
-<small><sub>**KJV:**</sub></small>
-Can the Ethiopian change his skin, or the leopard his spots? [then] may ye also do good, that are accustomed to do evil.
-<small><sub>**BSB:**</sub></small>
-Can the Ethiopian change his skin, or the leopard his spots? Neither are you able to do good—you who are accustomed to doing evil.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.13.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.22|<< Jeremiah 13:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.24|Jeremiah 13:24 >>]]</td></tr></table>
 
 | Translation | Greek |

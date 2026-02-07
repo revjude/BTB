@@ -1,10 +1,7 @@
 **LXX Jeremiah 8:7** 
 <small><sub>**LXX:**</sub></small>
 Even the stork in the heaven knew  her time, \[and the\] turtle-dove and \[the\] swallow of \[the\] field. \[The\] sparrows guard \[the\] times of their entrances.  But my people knew not the judgments of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Yea, the stork in the heaven knoweth her appointed times; and the turtle and the crane and the swallow observe the time of their coming; but my people know not the judgment of the LORD.
-<small><sub>**BSB:**</sub></small>
-Even the stork in the sky knows her appointed seasons. The turtledove, the swift, and the thrush keep their time of migration, but My people do not know the requirements of the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.8.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.8.6|<< Jeremiah 8:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.8.8|Jeremiah 8:8 >>]]</td></tr></table>
 
 | Translation | Greek |

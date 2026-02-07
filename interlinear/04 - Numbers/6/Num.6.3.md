@@ -1,4 +1,4 @@
-**Numbers 6:3** 
+**Numbers 6:3**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall separate [himself] from wine and strong drink, and shall drink no vinegar of wine, or vinegar of strong drink, neither shall he drink any liquor of grapes, nor eat moist grapes, or dried.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ he is to abstain from wine and strong drink. He must not drink vinegar made from
 > $\quad$ referenced by: [[Luke.1.15|Luke 1:15]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from wine  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3196\|יַּ֤יִן]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ya.yin<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and strong drink  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7941\|שֵׁכָר֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> she.Khar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Micah 7:10** 
 <small><sub>**LXX:**</sub></small>
 And my enemy shall see and shall wear shame, saying to me, Where \[is\] \[the\] <span class="smallcaps">lord</span>  your God?  My eyes shall scrutinize her, now she will be for trampling upon as mud in the ways. 
-<small><sub>**KJV:**</sub></small>
-Then [she that is] mine enemy shall see [it], and shame shall cover her which said unto me, Where is the LORD thy God? mine eyes shall behold her: now shall she be trodden down as the mire of the streets.
-<small><sub>**BSB:**</sub></small>
-Then my enemy will see and will be covered with shame—she who said to me, “Where is the LORD your God?” My eyes will see her; at that time she will be trampled like mud in the streets.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.7.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.7.9|<< Micah 7:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.7.11|Micah 7:11 >>]]</td></tr></table>
 
 | Translation | Greek |

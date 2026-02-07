@@ -1,4 +1,4 @@
-**Hosea 9:15** 
+**Hosea 9:15**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All their wickedness [is] in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes [are] revolters.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ All their evil appears at Gilgal, for there I hated them. I will drive them from
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.14|<< Hosea 9:14]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.16|Hosea 9:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wickedness their  |**<big>&#8207;[[H7451I\|רָעָתָ֤]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ra.'a.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

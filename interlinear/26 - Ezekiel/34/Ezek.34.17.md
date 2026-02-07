@@ -1,4 +1,4 @@
-**Ezekiel 34:17** 
+**Ezekiel 34:17**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [as for] you, O my flock, thus saith the Lord GOD; Behold, I judge between cattle and cattle, between the rams and the he goats.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ This is what the Lord GOD says to you, My flock: ‘I will judge between one she
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.16|<< Ezekiel 34:16]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.18|Ezekiel 34:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859E\|אַתֵּ֣נָה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Te.nah<small><sup>[[HPp2fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O flock my  |**<big>&#8207;[[H6629G\|צֹאנִ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| tzo.N<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

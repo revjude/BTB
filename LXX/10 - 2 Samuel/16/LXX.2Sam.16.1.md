@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And David went through a little \[way\] from  Ros. And behold, Ziba the servant of Mephibosheth arrived for meeting him, and a pair of donkeys being saddled, and upon them two hundred bread loaves, and an ephah of dried grape \[clusters\], and a hundred dried \[fruit\] clusters, and a skin flask of wine. 
-<small><sub>**KJV:**</sub></small>
-And when David was a little past the top [of the hill], behold, Ziba the servant of Mephibosheth met him, with a couple of asses saddled, and upon them two hundred [loaves] of bread, and an hundred bunches of raisins, and an hundred of summer fruits, and a bottle of wine.
-<small><sub>**BSB:**</sub></small>
-When David had gone a little beyond the summit, Ziba the servant of Mephibosheth was there to meet him. He had a pair of saddled donkeys loaded with two hundred loaves of bread, a hundred clusters of raisins, a hundred summer fruits, and a skin of wine.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.16.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.15.37|<< 2 Samuel 15:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.16.2|2 Samuel 16:2 >>]]</td></tr></table>
 
 | Translation | Greek |

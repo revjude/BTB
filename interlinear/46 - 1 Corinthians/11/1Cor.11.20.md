@@ -1,12 +1,12 @@
-**1 Corinthians 11:20
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 11:20**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 When ye come together therefore into one place, [this] is not to eat the Lord’s supper.
 <small><sub>**BSB:**</sub></small>
 Now then, when you come together, it is not the Lord’s Supper you eat.
 <small><sub>**Literal:**</sub></small>
 Coming therefore of you together in one place not it is [the] Lord’s supper to eat;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.19|<< 1 Corinthians 11:19]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.21|1 Corinthians 11:21 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Coming |**<big>[[G4905\|συνερχομένων]]</big>**  |sunerchomenōn <small><sup>[[V-PNP-GPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

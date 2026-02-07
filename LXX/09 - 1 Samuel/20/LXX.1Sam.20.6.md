@@ -1,10 +1,7 @@
 **LXX 1 Samuel 20:6** 
 <small><sub>**LXX:**</sub></small>
 If in numbering your father should number me \[missing\], then you shall say, In asking pardon David asks pardon of me to run unto  Beth-lehem  his city, for \[the\] sacrifice of the \[feast\] days \[is\] there \[for the\] entire  tribe. 
-<small><sub>**KJV:**</sub></small>
-If thy father at all miss me, then say, David earnestly asked [leave] of me that he might run to Bethlehem his city: for [there is] a yearly sacrifice there for all the family.
-<small><sub>**BSB:**</sub></small>
-If your father misses me at all, tell him, ‘David urgently requested my permission to hurry to Bethlehem, his hometown, because there is an annual sacrifice for his whole clan.’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.20.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.20.5|<< 1 Samuel 20:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.20.7|1 Samuel 20:7 >>]]</td></tr></table>
 
 | Translation | Greek |

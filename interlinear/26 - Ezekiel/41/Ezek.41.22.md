@@ -1,4 +1,4 @@
-**Ezekiel 41:22** 
+**Ezekiel 41:22**<big><big>[[Ezek.41.15 The Interior Structures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The altar of wood [was] three cubits high, and the length thereof two cubits; and the corners thereof, and the length thereof, and the walls thereof, [were] of wood: and he said unto me, This [is] the table that [is] before the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ There was an altar of wood three cubits high and two cubits square. Its corners,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.21|<< Ezekiel 41:21]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.23|Ezekiel 41:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the altar  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4196\|מִּזְבֵּ֡חַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] wood  |**<big>&#8207;[[H6086G\|עֵ֣ץ]]&#8207; </big>**| 'etz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

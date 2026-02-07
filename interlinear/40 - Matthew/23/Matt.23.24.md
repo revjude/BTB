@@ -1,12 +1,12 @@
-**Matthew 23:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 23:24**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 [Ye] blind guides, which strain at a gnat, and swallow a camel.
 <small><sub>**BSB:**</sub></small>
 You blind guides! You strain out a gnat but swallow a camel.
 <small><sub>**Literal:**</sub></small>
 Guides blind! you who [are] straining out the gnat, the however camel swallowing!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.23|<< Matthew 23:23]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.25|Matthew 23:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Guides |**<big>[[G3595\|ὁδηγοὶ]]</big>**  |hodēgoi <small><sup>[[N-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | blind! |**<big>[[G5185\|τυφλοί,]]</big>**  |tuphloi <small><sup>[[A-VPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

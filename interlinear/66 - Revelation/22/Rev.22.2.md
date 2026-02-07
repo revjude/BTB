@@ -1,5 +1,5 @@
-**Revelation 22:2
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:2**<big><big>[[Rev.22.1 The River of Life|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 In the midst of the street of it, and on either side of the river, [was there] the tree of life, which bare twelve [manner of] fruits, [and] yielded her fruit every month: and the leaves of the tree [were] for the healing of the nations.
 <small><sub>**BSB:**</sub></small>
 down the middle of the main street of the city. On either side of the river stood a tree of life, bearing twelve kinds of fruit and yielding a fresh crop for each month. And the leaves of the tree are for the healing of the nations.
@@ -10,7 +10,7 @@ In [the] middle of the street of it and of the river, from here and from there, 
 > $\quad$ alluding to: [[LXX.Ezek.47.1|Ezek 47:1]] ☩ [[LXX.Ezek.47.7|Ezek 47:7]] ☩ [[LXX.Ezek.47.12|Ezek 47:12]] ☩ [[LXX.Zech.14.8|Zech 14:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G1722\|ἐν]]</big>**  |en <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | [the] middle |**<big>[[G3319\|μέσῳ]]</big>**  |mesō <small><sup>[[A-DSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

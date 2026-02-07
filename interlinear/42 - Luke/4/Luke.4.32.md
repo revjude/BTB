@@ -1,12 +1,12 @@
-**Luke 4:32
-**<small><sub>**KJV:**</sub></small>
+**Luke 4:32**<big><big>[[Luke.4.31 Jesus Expels an Unclean Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And they were astonished at his doctrine: for his word was with power.
 <small><sub>**BSB:**</sub></small>
 They were astonished at His teaching, because His message had authority.
 <small><sub>**Literal:**</sub></small>
 and they were astonished at the teaching of Him for with authority was the message of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.31|<< Luke 4:31]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.33|Luke 4:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | they were astonished |**<big>[[G1605\|ἐξεπλήσσοντο]]</big>**  |exeplēssonto <small><sup>[[V-IPI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Genesis 21:4** 
+**Genesis 21:4**<big><big>[[Gen.21.1 The Birth of Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham circumcised his son Isaac being eight days old, as God had commanded him.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ When his son Isaac was eight days old, Abraham circumcised him, as God had comma
 > $\quad$ referenced by: [[Acts.7.8|Acts 7:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he circumcised  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4135A\|יָּ֤מָל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mol<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abraham  |**<big>&#8207;[[H0085\|אַבְרָהָם֙]]&#8207; </big>**| 'av.ra.Ham<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 13:13** 
 <small><sub>**LXX:**</sub></small>
 On account of this, Thus says Adonai \[the\] <span class="smallcaps">lord</span>, that, I will tear \[forth\] a removing breath with rage, and there will be a flooding rain in my anger, and the stones  for rock throwing in rage I will bring unto completion. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; I will even rend [it] with a stormy wind in my fury; and there shall be an overflowing shower in mine anger, and great hailstones in [my] fury to consume [it].
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: In My wrath I will release a windstorm, and in My anger torrents of rain and hail will fall with destructive fury.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.12|<< Ezekiel 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.14|Ezekiel 13:14 >>]]</td></tr></table>
 
 | Translation | Greek |

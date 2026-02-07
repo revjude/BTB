@@ -1,4 +1,4 @@
-**Ruth 3:11** 
+**Ruth 3:11**<big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, my daughter, fear not; I will do to thee all that thou requirest: for all the city of my people doth know that thou [art] a virtuous woman.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And now do not be afraid, my daughter. I will do for you whatever you request, s
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.10|<< Ruth 3:10]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.12|Ruth 3:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֗ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O daughter my  |**<big>&#8207;[[H1323G\|בִּתִּ]]&#8207;&#8207;[[H9020\|י֙]]&#8207; </big>**| bi.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

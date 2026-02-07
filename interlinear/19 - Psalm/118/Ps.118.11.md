@@ -1,4 +1,4 @@
-**Psalms 118:11** 
+**Psalms 118:11**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They compassed me about; yea, they compassed me about: but in the name of the LORD I will destroy them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They surrounded me on every side, but in the name of the LORD I cut them off.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.10|<< Psalms 118:10]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.12|Psalms 118:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they surrounded me  |**<big>&#8207;[[H5437H\|סַבּ֥וּ]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| sa.Bu.<small><sup>[[HVqp3cp]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | also  |**<big>&#8207;[[H1571\|גַם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Romans 1:28
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:28**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And even as they did not like to retain God in [their] knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;
 <small><sub>**BSB:**</sub></small>
 Furthermore, since they did not see fit to acknowledge God, He gave them up to a depraved mind, to do what ought not to be done.
 <small><sub>**Literal:**</sub></small>
 And even as not they did see fit <the> God to have in [their] knowledge, gave up them <the> God to a depraved mind to do the [things] not being proper,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.27|<< Romans 1:27]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.29|Romans 1:29 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | even as |**<big>[[G2531\|καθὼς]]</big>**  |kathōs <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

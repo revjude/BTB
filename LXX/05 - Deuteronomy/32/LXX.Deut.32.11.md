@@ -1,10 +1,7 @@
 **LXX Deuteronomy 32:11** 
 <small><sub>**LXX:**</sub></small>
 As an eagle sheltering his nest, he longs after and over his young. Thrusting out  his wings he receives them; and he takes them upon  his upper back. 
-<small><sub>**KJV:**</sub></small>
-As an eagle stirreth up her nest, fluttereth over her young, spreadeth abroad her wings, taketh them, beareth them on her wings:
-<small><sub>**BSB:**</sub></small>
-As an eagle stirs up its nest and hovers over its young, He spread His wings to catch them and carried them on His pinions.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.32.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.32.10|<< Deuteronomy 32:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.32.12|Deuteronomy 32:12 >>]]</td></tr></table>
 
 | Translation | Greek |

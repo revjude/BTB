@@ -1,10 +1,7 @@
 **LXX Numbers 2:33** 
 <small><sub>**LXX:**</sub></small>
 But the Levites were not considered with the sons of Israel as \[the\] <span class="smallcaps">lord</span> gave charge  to Moses. 
-<small><sub>**KJV:**</sub></small>
-But the Levites were not numbered among the children of Israel; as the LORD commanded Moses.
-<small><sub>**BSB:**</sub></small>
-But the Levites were not counted among the other Israelites, as the LORD had commanded Moses.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.2.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.32|<< Numbers 2:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.34|Numbers 2:34 >>]]</td></tr></table>
 
 | Translation | Greek |

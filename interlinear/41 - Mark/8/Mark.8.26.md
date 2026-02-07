@@ -1,12 +1,12 @@
-**Mark 8:26
-**<small><sub>**KJV:**</sub></small>
+**Mark 8:26**<big><big>[[Mark.8.22 The Blind Man at Bethsaida|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he sent him away to his house, saying, Neither go into the town, nor tell [it] to any in the town.
 <small><sub>**BSB:**</sub></small>
 Jesus sent him home and said, “Do not go back into the village.”
 <small><sub>**Literal:**</sub></small>
 And He sent him to the home of him saying; Not into the village shall you enter nor may you speak to anyone in <the> village.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.25|<< Mark 8:25]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.27|Mark 8:27 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He sent |**<big>[[G0649\|ἀπέστειλεν]]</big>**  |apesteilen <small><sup>[[V-AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

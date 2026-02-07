@@ -1,12 +1,12 @@
-**Matthew 12:38
-**<small><sub>**KJV:**</sub></small>
+**Matthew 12:38**<big><big>[[Matt.12.38 The Sign of Jonah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee.
 <small><sub>**BSB:**</sub></small>
 Then some of the scribes and Pharisees said to Him, “Teacher, we want to see a sign from You.”
 <small><sub>**Literal:**</sub></small>
 Then answered to him some of the scribes and Pharisees saying; Teacher, we wish from You a sign to see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.37|<< Matthew 12:37]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.39|Matthew 12:39 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answered |**<big>[[G0611\|ἀπεκρίθησαν]]</big>**  |apekrithēsan <small><sup>[[V-ADI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

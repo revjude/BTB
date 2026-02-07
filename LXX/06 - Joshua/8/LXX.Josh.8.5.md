@@ -1,10 +1,7 @@
 **LXX Joshua 8:5** 
 <small><sub>**LXX:**</sub></small>
 And I, and all the ones with me, will lead forward to the city. And it will be as whenever the ones dwelling in Ai should come forth to meet you, just as also the day before, and we fled from their face, 
-<small><sub>**KJV:**</sub></small>
-And I, and all the people that [are] with me, will approach unto the city: and it shall come to pass, when they come out against us, as at the first, that we will flee before them,
-<small><sub>**BSB:**</sub></small>
-Then I and all the troops with me will advance on the city. When they come out against us as they did the first time, we will flee from them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.4|<< Joshua 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.6|Joshua 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

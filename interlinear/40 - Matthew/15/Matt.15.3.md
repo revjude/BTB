@@ -1,12 +1,12 @@
-**Matthew 15:3
-**<small><sub>**KJV:**</sub></small>
+**Matthew 15:3**<big><big>[[Matt.15.1 The Tradition of the Elders|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But he answered and said unto them, Why do ye also transgress the commandment of God by your tradition?
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “And why do you break the command of God for the sake of your tradition?
 <small><sub>**Literal:**</sub></small>
 <the> And answering He said to them; Because of why also you yourselves break the commandment <the> of God on account of the tradition of you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.2|<< Matthew 15:2]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.4|Matthew 15:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Ὁ]]</big>**  |Ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | And |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

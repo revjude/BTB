@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in  those many days, Moses becoming older, he went forth to  his brethren of the sons of Israel. And contemplating  their misery, he saw an Egyptian man beating a certain Hebrew  of his own brethren of the sons of Israel. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass in those days, when Moses was grown, that he went out unto his brethren, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brethren.
-<small><sub>**BSB:**</sub></small>
-One day, after Moses had grown up, he went out to his own people and observed their hard labor. He saw an Egyptian beating a Hebrew, one of his own people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.2.10|<< Exodus 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.2.12|Exodus 2:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 2:11** is...

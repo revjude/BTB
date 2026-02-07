@@ -1,10 +1,7 @@
 **LXX Leviticus 21:7** 
 <small><sub>**LXX:**</sub></small>
 A woman harlot and being profaned they shall not take; and a woman being cast out from her husband they shall not take; for he is holy \[to\] the <span class="smallcaps">lord</span>  his God. 
-<small><sub>**KJV:**</sub></small>
-They shall not take a wife [that is] a whore, or profane; neither shall they take a woman put away from her husband: for he [is] holy unto his God.
-<small><sub>**BSB:**</sub></small>
-A priest must not marry a woman defiled by prostitution or divorced by her husband, for the priest is holy to his God.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Lev.21.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.21.6|<< Leviticus 21:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.21.8|Leviticus 21:8 >>]]</td></tr></table>
 
 | Translation | Greek |

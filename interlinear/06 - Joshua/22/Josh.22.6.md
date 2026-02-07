@@ -1,4 +1,4 @@
-**Joshua 22:6** 
+**Joshua 22:6**<big><big>[[Josh.22.1 The Eastern Tribes Return Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joshua blessed them, and sent them away: and they went unto their tents.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Joshua blessed them and sent them on their way, and they went to their homes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.5|<< Joshua 22:5]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.7|Joshua 22:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he blessed them  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1288\|יְבָרְכֵ֖]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.va.re.Khe<small><sup>[[HVpw3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻׁ֑עַ]]&#8207; </big>**| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Judges 7:5** 
 <small><sub>**LXX:**</sub></small>
 And the people went down to the water. And \[the\] <span class="smallcaps">lord</span> said to Gideon, All who ever laps \[with\] his tongue of the water as if the dog should lap, you shall stand him alone. And all who ever bends upon  his knees  to drink, you shall remove him by himself. 
-<small><sub>**KJV:**</sub></small>
-So he brought down the people unto the water: and the LORD said unto Gideon, Every one that lappeth of the water with his tongue, as a dog lappeth, him shalt thou set by himself; likewise every one that boweth down upon his knees to drink.
-<small><sub>**BSB:**</sub></small>
-So Gideon brought the men down to the water, and the LORD said to him, “Separate those who lap the water with their tongues like a dog from those who kneel to drink.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.7.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.7.4|<< Judges 7:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.7.6|Judges 7:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Daniel 8:4** 
 <small><sub>**LXX:**</sub></small>
 And I beheld the ram butting towards \[the\] west, and \[the\] north, and \[the\] south; and all the wild beasts shall not stand before him, and there was no one  rescuing from out of his hand; and he did according to  his will, and he was magnified. 
-<small><sub>**KJV:**</sub></small>
-I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither [was there any] that could deliver out of his hand; but he did according to his will, and became great.
-<small><sub>**BSB:**</sub></small>
-I saw the ram charging toward the west and the north and the south. No animal could stand against him, and there was no deliverance from his power. He did as he pleased and became great.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Dan.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.8.3|<< Daniel 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.8.5|Daniel 8:5 >>]]</td></tr></table>
 
 | Translation | Greek |

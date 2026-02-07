@@ -1,4 +1,4 @@
-**Proverbs 19:25** 
+**Proverbs 19:25**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Smite a scorner, and the simple will beware: and reprove one that hath understanding, [and] he will understand knowledge.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Strike a mocker, and the simple will beware; rebuke the discerning man, and he w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.24|<< Proverbs 19:24]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.26|Proverbs 19:26 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | a mocker  |**<big>&#8207;[[H3887\|לֵ֣ץ]]&#8207; </big>**| letz<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will strike  |**<big>&#8207;[[H5221\|תַּ֭כֶּה]]&#8207; </big>**| Ta.keh<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

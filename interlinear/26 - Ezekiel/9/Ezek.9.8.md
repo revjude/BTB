@@ -1,4 +1,4 @@
-**Ezekiel 9:8** 
+**Ezekiel 9:8**<big><big>[[Ezek.9.1 Execution of the Idolaters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, while they were slaying them, and I was left, that I fell upon my face, and cried, and said, Ah Lord GOD! wilt thou destroy all the residue of Israel in thy pouring out of thy fury upon Jerusalem?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While they were killing, I was left alone. And I fell facedown and cried out, �
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9.7|<< Ezekiel 9:7]]</td><td align="center" style="border:none;">[[Ezek.9|Ezekiel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9.9|Ezekiel 9:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when were striking they  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H5221\|הַכּוֹתָ֔]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> ha.ko.Ta<small><sup>[[HVhcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Genesis 27:7** 
+**Genesis 27:7**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bring me venison, and make me savoury meat, that I may eat, and bless thee before the LORD before my death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Bring me venison, and make me savoury meat, that I may eat, and bless thee befor
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.6|<< Genesis 27:6]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.8|Genesis 27:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bring !  |**<big>&#8207;[[H0935P\|הָבִ֨יאָ]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| ha.Vi.'a<small><sup>[[HVhv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> me  |**<big>&#8207;[[H9005\|לִּ֥]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

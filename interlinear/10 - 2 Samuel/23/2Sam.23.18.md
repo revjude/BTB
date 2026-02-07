@@ -1,4 +1,4 @@
-**2 Samuel 23:18** 
+**2 Samuel 23:18**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abishai, the brother of Joab, the son of Zeruiah, was chief among three. And he lifted up his spear against three hundred, [and] slew [them], and had the name among three.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Now Abishai, the brother of Joab and son of Zeruiah, was chief of the Three, and
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.17|<< 2 Samuel 23:17]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.19|2 Samuel 23:19 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Abishai  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0052\|אֲבִישַׁ֞י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vi.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] brother of  |**<big>&#8207;[[H0251G\|אֲחִ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Chi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

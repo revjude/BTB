@@ -6,10 +6,7 @@ Alleluiah.
 
 <small><sub>**LXX:**</sub></small>
 I shall make acknowledgment to you, O <span class="smallcaps">lord</span>, with my entire heart, in \[the\] counsel of \[the\] upright, and \[in the\] congregation. 
-<small><sub>**KJV:**</sub></small>
-Praise ye the LORD. I will praise the LORD with [my] whole heart, in the assembly of the upright, and [in] the congregation.
-<small><sub>**BSB:**</sub></small>
-Hallelujah! I will give thanks to the LORD with all my heart in the council of the upright and in the assembly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.111.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.110.7|<< Psalm 110:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.111.2|Psalm 111:2 >>]]</td></tr></table>
 
 | Translation | Greek |

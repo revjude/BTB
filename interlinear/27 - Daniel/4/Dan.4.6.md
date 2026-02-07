@@ -1,4 +1,4 @@
-**Daniel 4:6** (4:3)
+**Daniel 4:6**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore made I a decree to bring in all the wise [men] of Babylon before me, that they might make known unto me the interpretation of the dream.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So I issued a decree that all the wise men of Babylon be brought before me to in
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.5|<< Daniel 4:5]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.7|Daniel 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and from me  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4481\|מִנִּ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| u.<small><sup>[[AC]]</sup></small> mi.N<small><sup>[[AR]]</sup></small> i<small><sup>[[ASp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was made  |**<big>&#8207;[[H7761G\|שִׂ֣ים]]&#8207; </big>**| sim<small><sup>[[AVQp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Mark 6:36
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:36**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Send them away, that they may go into the country round about, and into the villages, and buy themselves bread: for they have nothing to eat.
 <small><sub>**BSB:**</sub></small>
 Dismiss the crowd so they can go to the surrounding countryside and villages and buy themselves something to eat.”
 <small><sub>**Literal:**</sub></small>
 do dismiss them that having gone to the surrounding region and villages they may buy for themselves something loaves for may eat not they have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.35|<< Mark 6:35]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.37|Mark 6:37 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | do dismiss |**<big>[[G0630G\|ἀπόλυσον]]</big>**  |apoluson <small><sup>[[V-AAM-2S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | them |**<big>[[G0846\|αὐτοὺς]]</big>**  |autous <small><sup>[[P-APM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

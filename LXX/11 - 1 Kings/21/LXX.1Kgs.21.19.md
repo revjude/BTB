@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you shall speak to him, saying, Thus says \[the\] <span class="smallcaps">lord</span>, You murdered and inherited. Therefore thus says \[the\] <span class="smallcaps">lord</span>, In the place where the dogs licked the blood of Naboth, there the dogs shall lick  your blood. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt speak unto him, saying, Thus saith the LORD, Hast thou killed, and also taken possession? And thou shalt speak unto him, saying, Thus saith the LORD, In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine.
-<small><sub>**BSB:**</sub></small>
-Tell him that this is what the LORD says: ‘Have you not murdered a man and seized his land?’ Then tell him that this is also what the LORD says: ‘In the place where the dogs licked up the blood of Naboth, there also the dogs will lick up your blood—yes, yours!’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.21.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.21.18|<< 1 Kings 21:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.21.20|1 Kings 21:20 >>]]</td></tr></table>
 
 | Translation | Greek |

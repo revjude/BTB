@@ -1,5 +1,5 @@
-**2 Corinthians 4:13
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 4:13**<big><big>[[2Cor.4.7 Treasure in Jars of Clay|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 We having the same spirit of faith, according as it is written, I believed, and therefore have I spoken; we also believe, and therefore speak;
 <small><sub>**BSB:**</sub></small>
 And in keeping with what is written, “I believed, therefore I have spoken,” we who have the same spirit of faith also believe and therefore speak,
@@ -10,7 +10,7 @@ Having however the same spirit <the> of faith according to that written: I belie
 > $\quad$ referencing: [[LXX.Ps.116.10|Ps 116:10]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having |**<big>[[G2192\|Ἔχοντες]]</big>**  |Echontes <small><sup>[[V-PAP-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

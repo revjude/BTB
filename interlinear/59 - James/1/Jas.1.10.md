@@ -1,5 +1,5 @@
-**James 1:10
-**<small><sub>**KJV:**</sub></small>
+**James 1:10**<big><big>[[Jas.1.2 Rejoicing in Trials|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the rich, in that he is made low: because as the flower of the grass he shall pass away.
 <small><sub>**BSB:**</sub></small>
 But the one who is rich should exult in his low position, because he will pass away like a flower of the field.
@@ -10,7 +10,7 @@ he who [is] then rich in the humiliation of him because like a flower of grass h
 > $\quad$ alluding to: [[LXX.Job.14.2|Job 14:2]] ☩ [[LXX.Isa.40.6|Isa 40:6-7]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he who [is] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

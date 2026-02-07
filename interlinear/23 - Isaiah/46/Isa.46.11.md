@@ -1,4 +1,4 @@
-**Isaiah 46:11** 
+**Isaiah 46:11**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Calling a ravenous bird from the east, the man that executeth my counsel from a far country: yea, I have spoken [it], I will also bring it to pass; I have purposed [it], I will also do it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I summon a bird of prey from the east, a man for My purpose from a far-off land.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.10|<< Isaiah 46:10]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.12|Isaiah 46:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [one who] calls  |**<big>&#8207;[[H7121G\|קֹרֵ֤א]]&#8207; </big>**| ko.Re'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] east  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4217H\|מִּזְרָח֙]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> miz.Rach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

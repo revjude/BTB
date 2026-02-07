@@ -1,12 +1,12 @@
-**Acts 8:1
-**<small><sub>**KJV:**</sub></small>
+**Acts 8:1**<big><big>[[Acts.8.1 Saul Persecutes the Church|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles.
 <small><sub>**BSB:**</sub></small>
 And Saul was there, giving approval to Stephen’s death. On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria.
 <small><sub>**Literal:**</sub></small>
 Saul now was there consenting to the killing of him. Arose then on that [very] <the> day a persecution great against the church which [was] in Jerusalem; All then were scattered throughout the regions <the> of Judea and Samaria except the apostles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.60|<< Acts 7:60]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.2|Acts 8:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Saul |**<big>[[G4569G\|Σαῦλος]]</big>**  |Saulos <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Genesis 34:30** 
 <small><sub>**LXX:**</sub></small>
 And Jacob said to Simeon and Levi, You have made me detested, so as for me to be wicked to all the \[ones\] dwelling the land, among both the Canaanites and among the Perizzites. And I am very few in number. And gathering against me, they shall cut me down, and I shall be obliterated, I and  my house. 
-<small><sub>**KJV:**</sub></small>
-And Jacob said to Simeon and Levi, Ye have troubled me to make me to stink among the inhabitants of the land, among the Canaanites and the Perizzites: and I [being] few in number, they shall gather themselves together against me, and slay me; and I shall be destroyed, I and my house.
-<small><sub>**BSB:**</sub></small>
-Then Jacob said to Simeon and Levi, “You have brought trouble upon me by making me a stench to the Canaanites and Perizzites, the people of this land. We are few in number; if they unite against me and attack me, I and my household will be destroyed.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.34.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.34.29|<< Genesis 34:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.34.31|Genesis 34:31 >>]]</td></tr></table>
 
 | Translation | Greek |

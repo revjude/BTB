@@ -1,4 +1,4 @@
-**Jeremiah 42:3** 
+**Jeremiah 42:3**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the LORD thy God may shew us the way wherein we may walk, and the thing that we may do.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Pray that the LORD your God will tell us the way we should walk and the thing we
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.2|<< Jeremiah 42:2]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.4|Jeremiah 42:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so he may declare  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5046\|יַגֶּד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.ged-<small><sup>[[HVhj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> us  |**<big>&#8207;[[H9005\|לָ֙]]&#8207;&#8207;[[H9035\|נוּ֙]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

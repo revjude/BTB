@@ -1,10 +1,7 @@
 **LXX Exodus 40:24** 
 <small><sub>**LXX:**</sub></small>
 And he put the lamp-stand in the tent of the testimony before the table, to the side of the tent  towards \[the\] south. 
-<small><sub>**KJV:**</sub></small>
-And he put the candlestick in the tent of the congregation, over against the table, on the side of the tabernacle southward.
-<small><sub>**BSB:**</sub></small>
-He also placed the lampstand in the Tent of Meeting opposite the table on the south side of the tabernacle<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.40.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.40.23|<< Exodus 40:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.40.25|Exodus 40:25 >>]]</td></tr></table>
 
 | Translation | Greek |

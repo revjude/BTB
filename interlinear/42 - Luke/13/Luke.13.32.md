@@ -1,12 +1,12 @@
-**Luke 13:32
-**<small><sub>**KJV:**</sub></small>
+**Luke 13:32**<big><big>[[Luke.13.31 Lament over Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he said unto them, Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third [day] I shall be perfected.
 <small><sub>**BSB:**</sub></small>
 But Jesus replied, “Go tell that fox, ‘Look, I will keep driving out demons and healing people today and tomorrow, and on the third day I will reach My goal.’
 <small><sub>**Literal:**</sub></small>
 And He said to them; Having gone do say to the fox that; Behold I cast out demons and cures I complete today and tomorrow and on the third [day] I am perfected.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.31|<< Luke 13:31]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.33|Luke 13:33 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He said |**<big>[[G2036\|εἶπεν]]</big>**  |eipen <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

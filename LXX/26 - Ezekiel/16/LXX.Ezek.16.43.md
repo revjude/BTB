@@ -1,10 +1,7 @@
 **LXX Ezekiel 16:43** 
 <small><sub>**LXX:**</sub></small>
 Because you did not remember the day  of your infancy, and you caused me to fret in all these \[things\]; and behold, I  have imputed your ways upon your head, says Adonai \[the\] <span class="smallcaps">lord</span>; and so you shall not commit  impiety above all  your lawless deeds. 
-<small><sub>**KJV:**</sub></small>
-Because thou hast not remembered the days of thy youth, but hast fretted me in all these [things]; behold, therefore I also will recompense thy way upon [thine] head, saith the Lord GOD: and thou shalt not commit this lewdness above all thine abominations.
-<small><sub>**BSB:**</sub></small>
-Because you did not remember the days of your youth, but enraged Me with all these things, I will surely bring your deeds down upon your own head, declares the Lord GOD. Have you not committed this lewdness on top of all your other abominations?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.16.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.42|<< Ezekiel 16:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.44|Ezekiel 16:44 >>]]</td></tr></table>
 
 | Translation | Greek |

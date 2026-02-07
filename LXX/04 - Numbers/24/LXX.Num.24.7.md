@@ -1,10 +1,7 @@
 **LXX Numbers 24:7** 
 <small><sub>**LXX:**</sub></small>
 A man came forth from out of  his seed, and he shall dominate many nations. And Gog his kingdom shall be raised up high, and his kingdom shall be increased. 
-<small><sub>**KJV:**</sub></small>
-He shall pour the water out of his buckets, and his seed [shall be] in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted.
-<small><sub>**BSB:**</sub></small>
-Water will flow from his buckets, and his seed will have abundant water. His king will be greater than Agag, and his kingdom will be exalted.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.24.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.24.6|<< Numbers 24:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.24.8|Numbers 24:8 >>]]</td></tr></table>
 
 | Translation | Greek |

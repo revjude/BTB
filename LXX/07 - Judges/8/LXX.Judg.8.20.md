@@ -1,10 +1,7 @@
 **LXX Judges 8:20** 
 <small><sub>**LXX:**</sub></small>
 And he said \[to\] Jether  his first-born, In rising up, you kill them! And the boy did not unsheathe  his sword, for he feared, for he was younger. 
-<small><sub>**KJV:**</sub></small>
-And he said unto Jether his firstborn, Up, [and] slay them. But the youth drew not his sword: for he feared, because he [was] yet a youth.
-<small><sub>**BSB:**</sub></small>
-So he said to Jether, his firstborn, “Get up and kill them.” But the young man did not draw his sword; he was fearful because he was still a youth.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.8.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.8.19|<< Judges 8:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.8.21|Judges 8:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Ezra 6:6** 
+**Ezra 6:6**<big><big>[[Ezra.6.1 The Decree of Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now [therefore], Tatnai, governor beyond the river, Shetharboznai, and your companions the Apharsachites, which [are] beyond the river, be ye far from thence:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore Darius decreed: To Tattenai governor of the region west of the Euphrat
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.5|<< Ezra 6:5]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.7|Ezra 6:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now  |**<big>&#8207;[[H3705\|כְּעַ֡ן]]&#8207; </big>**| ke.'An<small><sup>[[AD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Tattenai  |**<big>&#8207;[[H8674\|תַּ֠תְּנַי]]&#8207; </big>**| Ta.te.nai<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

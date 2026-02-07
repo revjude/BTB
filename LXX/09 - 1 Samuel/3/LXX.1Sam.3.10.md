@@ -1,10 +1,7 @@
 **LXX 1 Samuel 3:10** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> came, and stood, and called him as once \[before\], and once \[before that\], Samuel, Samuel. And Samuel said, Speak, O <span class="smallcaps">lord</span>, for your servant hears! 
-<small><sub>**KJV:**</sub></small>
-And the LORD came, and stood, and called as at other times, Samuel, Samuel. Then Samuel answered, Speak; for thy servant heareth.
-<small><sub>**BSB:**</sub></small>
-Then the LORD came and stood there, calling as before, “Samuel! Samuel!” And Samuel answered, “Speak, for Your servant is listening.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.9|<< 1 Samuel 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.11|1 Samuel 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

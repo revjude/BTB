@@ -1,4 +1,4 @@
-**1 Chronicles 17:10** 
+**1 Chronicles 17:10**<big><big>[[1Chr.17.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And since the time that I commanded judges [to be] over my people Israel. Moreover I will subdue all thine enemies. Furthermore I tell thee that the LORD will build thee an house.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and have done since the day I appointed judges over My people Israel. And I will
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.9|<< 1 Chronicles 17:9]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.11|1 Chronicles 17:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<to> from days  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3117G\|יָּמִ֗ים]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> mi.<small><sup>[[HR]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when  |**<big>&#8207;[[H0834A\|אֲשֶׁ֨ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

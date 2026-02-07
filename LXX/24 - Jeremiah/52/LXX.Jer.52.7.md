@@ -1,10 +1,7 @@
 **LXX Jeremiah 52:7** 
 <small><sub>**LXX:**</sub></small>
 And the city was cut through, and all the men  warriors fled and went forth \[by\] night according to the way of the gate in the middle of the wall, and the area around the wall, which was next to the garden of the king; (and the Chaldeans \[were\] upon the city round about) and they went by \[the\] way into \[the\] wilderness. 
-<small><sub>**KJV:**</sub></small>
-Then the city was broken up, and all the men of war fled, and went forth out of the city by night by the way of the gate between the two walls, which [was] by the king’s garden; (now the Chaldeans [were] by the city round about:) and they went by the way of the plain.
-<small><sub>**BSB:**</sub></small>
-Then the city was breached; and though the Chaldeans had surrounded the city, all the men of war fled the city by night by way of the gate between the two walls near the king’s garden. They headed toward the Arabah,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.52.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.52.6|<< Jeremiah 52:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.52.8|Jeremiah 52:8 >>]]</td></tr></table>
 
 | Translation | Greek |

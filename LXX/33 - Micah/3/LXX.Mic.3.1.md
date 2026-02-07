@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And he shall say, Hear indeed, O heads  of Jacob, and O remnant of \[the\] house of Israel! Is it not for you  to know  equity? 
-<small><sub>**KJV:**</sub></small>
-And I said, Hear, I pray you, O heads of Jacob, and ye princes of the house of Israel; [Is it] not for you to know judgment?
-<small><sub>**BSB:**</sub></small>
-Then I said: “Hear now, O leaders of Jacob, you rulers of the house of Israel. Should you not know justice?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.2.13|<< Micah 2:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.3.2|Micah 3:2 >>]]</td></tr></table>
 
 | Translation | Greek |

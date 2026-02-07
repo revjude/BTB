@@ -1,4 +1,4 @@
-**1 Kings 12:12** 
+**1 Kings 12:12**<big><big>[[1Kgs.12.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jeroboam and all the people came to Rehoboam the third day, as the king had appointed, saying, Come to me again the third day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ After three days, Jeroboam and all the people returned to Rehoboam, since the ki
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.11|<< 1 Kings 12:11]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.13|1 Kings 12:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he came  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935G\|יָּב֨וֹא]]&#8207; </big>**[^1] [^2] | va<small><sup>[[Hc]]</sup></small> i.ya.vov'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | Jeroboam  |**<big>&#8207;[[H3379G\|יָרָבְעָ֧ם]]&#8207; </big>**| ya.ra.ve.'Am<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

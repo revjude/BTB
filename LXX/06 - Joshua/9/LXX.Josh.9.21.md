@@ -1,10 +1,7 @@
 **LXX Joshua 9:21** 
 <small><sub>**LXX:**</sub></small>
 And the rulers said to them, They shall live, and they shall be woodcutters and water-carriers to all the congregation, just as the rulers said to them. 
-<small><sub>**KJV:**</sub></small>
-And the princes said unto them, Let them live; but let them be hewers of wood and drawers of water unto all the congregation; as the princes had promised them.
-<small><sub>**BSB:**</sub></small>
-They continued, “Let them live, but let them be woodcutters and water carriers for the whole congregation.” So the leaders kept their promise.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.20|<< Joshua 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.22|Joshua 9:22 >>]]</td></tr></table>
 
 | Translation | Greek |

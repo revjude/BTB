@@ -1,10 +1,7 @@
 **LXX 1 Kings 22:24** 
 <small><sub>**LXX:**</sub></small>
 And Zedekiah son of Chenaanah came forward, and he struck  Micaiah upon the jaw, and he said, What kind of spirit of \[the\] <span class="smallcaps">lord</span> departed from me  to speak with you? 
-<small><sub>**KJV:**</sub></small>
-But Zedekiah the son of Chenaanah went near, and smote Micaiah on the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee?
-<small><sub>**BSB:**</sub></small>
-Then Zedekiah son of Chenaanah went up, struck Micaiah in the face, and demanded, “Which way did the Spirit of the LORD go when He departed from me to speak with you?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.22.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.23|<< 1 Kings 22:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.25|1 Kings 22:25 >>]]</td></tr></table>
 
 | Translation | Greek |

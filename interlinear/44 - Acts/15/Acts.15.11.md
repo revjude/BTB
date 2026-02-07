@@ -1,12 +1,12 @@
-**Acts 15:11
-**<small><sub>**KJV:**</sub></small>
+**Acts 15:11**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But we believe that through the grace of the Lord Jesus Christ we shall be saved, even as they.
 <small><sub>**BSB:**</sub></small>
 On the contrary, we believe it is through the grace of the Lord Jesus that we are saved, just as they are.”
 <small><sub>**Literal:**</sub></small>
 But through the grace of the Lord Jesus Christ we believe to be saved in [the] same manner [as] they also.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.10|<< Acts 15:10]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.12|Acts 15:12 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | through |**<big>[[G1223\|διὰ]]</big>**  |dia <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

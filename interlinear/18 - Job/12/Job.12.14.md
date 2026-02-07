@@ -1,4 +1,4 @@
-**Job 12:14** 
+**Job 12:14**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he breaketh down, and it cannot be built again: he shutteth up a man, and there can be no opening.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ What He tears down cannot be rebuilt; the man He imprisons cannot be released.
 > $\quad$ referenced by: [[Rev.3.7|Rev 3:7]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2005\|הֵ֣ן]]&#8207; </big>**| hen<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he tears down  |**<big>&#8207;[[H2040\|יַ֭הֲרוֹס]]&#8207; </big>**| Ya.ha.ros<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

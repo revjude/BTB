@@ -1,12 +1,12 @@
-**1 Peter 4:2
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 4:2**<big><big>[[1Pet.4.1 Living for God’s Glory|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 That he no longer should live the rest of [his] time in the flesh to the lusts of men, but to the will of God.
 <small><sub>**BSB:**</sub></small>
 Consequently, he does not live out his remaining time on earth for human passions, but for the will of God.
 <small><sub>**Literal:**</sub></small>
 so as <the> no longer to men’s desires but to [the] will of God the remaining in [the] flesh to live time.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.1|<< 1 Peter 4:1]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.3|1 Peter 4:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | so as |**<big>[[G1519\|εἰς]]</big>**  |eis <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | \<the> |**<big>[[G3588\|τὸ]]</big>**  |to <small><sup>[[T-ASN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

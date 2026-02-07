@@ -1,10 +1,7 @@
 **LXX 2 Kings 20:3** 
 <small><sub>**LXX:**</sub></small>
 O <span class="smallcaps">lord</span>, remember indeed as much as I walked before you in truth, and in a perfect heart! and  I did good in your eyes. And Hezekiah wept in a great weeping. 
-<small><sub>**KJV:**</sub></small>
-I beseech thee, O LORD, remember now how I have walked before thee in truth and with a perfect heart, and have done [that which is] good in thy sight. And Hezekiah wept sore.
-<small><sub>**BSB:**</sub></small>
-“Please, O LORD, remember how I have walked before You faithfully and with wholehearted devotion; I have done what is good in Your sight.” And Hezekiah wept bitterly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.20.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.2|<< 2 Kings 20:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.4|2 Kings 20:4 >>]]</td></tr></table>
 
 | Translation | Greek |

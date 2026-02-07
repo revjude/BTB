@@ -1,12 +1,12 @@
-**Acts 23:31
-**<small><sub>**KJV:**</sub></small>
+**Acts 23:31**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then the soldiers, as it was commanded them, took Paul, and brought [him] by night to Antipatris.
 <small><sub>**BSB:**</sub></small>
 So the soldiers followed their orders and brought Paul by night to Antipatris.
 <small><sub>**Literal:**</sub></small>
 <the> Indeed therefore [the] soldiers according to that ordered them having taken <the> Paul brought [him] through <the> night to <the> Antipatris.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.30|<< Acts 23:30]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.32|Acts 23:32 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|Οἱ]]</big>**  |Hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Indeed |**<big>[[G3303\|μὲν]]</big>**  |men <small><sup>[[PRT]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

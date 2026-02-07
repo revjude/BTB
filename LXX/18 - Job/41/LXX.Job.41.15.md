@@ -1,10 +1,7 @@
 **LXX Job 41:15** 
 <small><sub>**LXX:**</sub></small>
  His insides are \[as\] shields of brass, and his sinews \[are\] as emery stone. 
-<small><sub>**KJV:**</sub></small>
-[His] scales [are his] pride, shut up together [as with] a close seal.
-<small><sub>**BSB:**</sub></small>
-His rows of scales are his pride, tightly sealed together.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.41.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.41.14|<< Job 41:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.41.16|Job 41:16 >>]]</td></tr></table>
 
 | Translation | Greek |

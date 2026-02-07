@@ -1,4 +1,4 @@
-**Joshua 5:14** 
+**Joshua 5:14**<big><big>[[Josh.5.13 The Commander of the LORD’s Army|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Nay; but [as] captain of the host of the LORD am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my lord unto his servant?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And he said, Nay; but [as] captain of the host of the LORD am I now come. And Jo
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.13|<< Joshua 5:13]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.15|Joshua 5:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | In-  |**<big>&#8207;[[H3808\|לֹ֗א]]&#8207; </big>**| Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

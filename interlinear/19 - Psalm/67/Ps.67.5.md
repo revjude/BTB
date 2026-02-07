@@ -1,4 +1,4 @@
-**Psalms 67:5** (67:6)
+**Psalms 67:5**<big><big>[[Ps.67.1 May God Cause His Face to Shine upon Us|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the people praise thee, O God; let all the people praise thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Let the peoples praise You, O God; let all the peoples praise You.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.67.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.67.4|<< Psalms 67:4]]</td><td align="center" style="border:none;">[[Ps.67|Psalms 67]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.67.6|Psalms 67:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may they praise you  |**<big>&#8207;[[H3034\|יוֹד֖וּ]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| yo.Du.<small><sup>[[HVhi3mp]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | peoples  |**<big>&#8207;[[H5971A\|עַמִּ֥ים]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

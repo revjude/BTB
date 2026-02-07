@@ -1,4 +1,4 @@
-**Ezra 10:1** 
+**Ezra 10:1**<big><big>[[Ezra.10.1 Shecaniah’s Encouragement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when Ezra had prayed, and when he had confessed, weeping and casting himself down before the house of God, there assembled unto him out of Israel a very great congregation of men and women and children: for the people wept very sore.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ While Ezra prayed and made this confession, weeping and falling facedown before 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.15|<< Ezra 9:15]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.10.2|Ezra 10:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and just as was praying  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H6419\|הִתְפַּלֵּ֤ל]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> khe.<small><sup>[[HR]]</sup></small> hit.pa.Lel<small><sup>[[HVtcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Ezra  |**<big>&#8207;[[H5830G\|עֶזְרָא֙]]&#8207; </big>**| 'ez.Ra'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 5:20** 
 <small><sub>**LXX:**</sub></small>
 In famine, he will rescue you from death, and in war he will untie you from out of \[the\] hand of iron. 
-<small><sub>**KJV:**</sub></small>
-In famine he shall redeem thee from death: and in war from the power of the sword.
-<small><sub>**BSB:**</sub></small>
-In famine He will redeem you from death, and in battle from the stroke of the sword.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.5.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.5.19|<< Job 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.5.21|Job 5:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 32:22** 
 <small><sub>**LXX:**</sub></small>
 and the land shall be dominated before \[the\] <span class="smallcaps">lord</span>, then after these \[things\] you shall return, and you will be innocent before \[the\] <span class="smallcaps">lord</span>, and from Israel. And this land shall be to you for a possession before \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And the land be subdued before the LORD: then afterward ye shall return, and be guiltless before the LORD, and before Israel; and this land shall be your possession before the LORD.
-<small><sub>**BSB:**</sub></small>
-then when the land is subdued before the LORD, you may return and be free of obligation to the LORD and to Israel. And this land will belong to you as a possession before the LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.32.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.32.21|<< Numbers 32:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.32.23|Numbers 32:23 >>]]</td></tr></table>
 
 | Translation | Greek |

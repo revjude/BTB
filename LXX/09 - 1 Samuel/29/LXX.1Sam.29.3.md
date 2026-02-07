@@ -1,10 +1,7 @@
 **LXX 1 Samuel 29:3** 
 <small><sub>**LXX:**</sub></small>
 And the satraps of the Philistines said, Who are  these traveling? And Achish said to the satraps of the Philistines, \[Is\] not this David, the servant of Saul king of Israel, who has been with me \[some\] days this second year. And I have not found in him any \[fault\] from which days he fell in with me until  this day. 
-<small><sub>**KJV:**</sub></small>
-Then said the princes of the Philistines, What [do] these Hebrews [here]? And Achish said unto the princes of the Philistines, [Is] not this David, the servant of Saul the king of Israel, which hath been with me these days, or these years, and I have found no fault in him since he fell [unto me] unto this day?
-<small><sub>**BSB:**</sub></small>
-Then the commanders of the Philistines asked, “What about these Hebrews?” Achish replied, “Is this not David, the servant of King Saul of Israel? He has been with me all these days, even years, and from the day he defected until today I have found no fault in him.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.29.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.29.2|<< 1 Samuel 29:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.29.4|1 Samuel 29:4 >>]]</td></tr></table>
 
 | Translation | Greek |

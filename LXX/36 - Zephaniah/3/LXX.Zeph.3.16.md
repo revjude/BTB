@@ -1,10 +1,7 @@
 **LXX Zephaniah 3:16** 
 <small><sub>**LXX:**</sub></small>
 In  that time \[the\] <span class="smallcaps">lord</span> shall say \[to\] Jerusalem, Be of courage, O Zion, do not neglect  your hands! 
-<small><sub>**KJV:**</sub></small>
-In that day it shall be said to Jerusalem, Fear thou not: [and to] Zion, Let not thine hands be slack.
-<small><sub>**BSB:**</sub></small>
-On that day they will say to Jerusalem: “Do not fear, O Zion; do not let your hands fall limp.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zeph.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zeph.3.15|<< Zephaniah 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zeph.3.17|Zephaniah 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

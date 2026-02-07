@@ -1,4 +1,4 @@
-**Psalms 140:4** (140:5)
+**Psalms 140:4**<big><big>[[Ps.140.1 Rescue Me from Evil Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep me, O LORD, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Guard me, O LORD, from the hands of the wicked. Keep me safe from men of violenc
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.3|<< Psalms 140:3]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.5|Psalms 140:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | keep me  |**<big>&#8207;[[H8104H\|שָׁמְרֵ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| sha.me.Re.<small><sup>[[HVqv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֨ה]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |

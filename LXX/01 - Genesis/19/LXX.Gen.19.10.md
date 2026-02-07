@@ -1,10 +1,7 @@
 **LXX Genesis 19:10** 
 <small><sub>**LXX:**</sub></small>
 And the men stretching out the hands, drew  Lot towards themselves into the house, and the door of the house they locked. 
-<small><sub>**KJV:**</sub></small>
-But the men put forth their hand, and pulled Lot into the house to them, and shut to the door.
-<small><sub>**BSB:**</sub></small>
-But the men inside reached out, pulled Lot into the house with them, and shut the door.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.19.9|<< Genesis 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.19.11|Genesis 19:11 >>]]</td></tr></table>
 
 | Translation | Greek |

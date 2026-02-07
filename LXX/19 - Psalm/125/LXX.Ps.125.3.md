@@ -1,10 +1,7 @@
 **LXX Psalm 125:3** 
 <small><sub>**LXX:**</sub></small>
 For \[the\] <span class="smallcaps">lord</span> will not allow the rod of the sinners upon the lot of the just; so that the just might not stretch out in lawless deeds with their hands. 
-<small><sub>**KJV:**</sub></small>
-For the rod of the wicked shall not rest upon the lot of the righteous; lest the righteous put forth their hands unto iniquity.
-<small><sub>**BSB:**</sub></small>
-For the scepter of the wicked will not rest upon the land allotted to the righteous, so that the righteous will not put forth their hands to injustice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.125.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.125.2|<< Psalm 125:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.125.4|Psalm 125:4 >>]]</td></tr></table>
 
 | Translation | Greek |

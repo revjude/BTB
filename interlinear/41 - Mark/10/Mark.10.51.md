@@ -1,12 +1,12 @@
-**Mark 10:51
-**<small><sub>**KJV:**</sub></small>
+**Mark 10:51**<big><big>[[Mark.10.46 Jesus Heals Bartimaeus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And Jesus answered and said unto him, What wilt thou that I should do unto thee? The blind man said unto him, Lord, that I might receive my sight.
 <small><sub>**BSB:**</sub></small>
 “What do you want Me to do for you?” Jesus asked. “Rabboni,” said the blind man, “let me see again.”
 <small><sub>**Literal:**</sub></small>
 And answering to him <the> Jesus said; What to you do you desire I may do <the> And the blind [man] said to Him; Rabboni, that I may receive sight.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.50|<< Mark 10:50]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.52|Mark 10:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

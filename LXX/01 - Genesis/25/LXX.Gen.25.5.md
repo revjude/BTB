@@ -1,10 +1,7 @@
 **LXX Genesis 25:5** 
 <small><sub>**LXX:**</sub></small>
 And Abraham gave all  his possessions to Isaac  his son. 
-<small><sub>**KJV:**</sub></small>
-And Abraham gave all that he had unto Isaac.
-<small><sub>**BSB:**</sub></small>
-Abraham left everything he owned to Isaac.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.25.4|<< Genesis 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.25.6|Genesis 25:6 >>]]</td></tr></table>
 
 | Translation | Greek |

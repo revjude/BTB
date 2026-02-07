@@ -1,10 +1,7 @@
 **LXX Ezekiel 22:18** 
 <small><sub>**LXX:**</sub></small>
 O son of man, behold, the house of Israel has become to me an intermingling of all brass, and iron, and tin, and lead; they are in \[the\] midst of a furnace of silver being intermingled. 
-<small><sub>**KJV:**</sub></small>
-Son of man, the house of Israel is to me become dross: all they [are] brass, and tin, and iron, and lead, in the midst of the furnace; they are [even] the dross of silver.
-<small><sub>**BSB:**</sub></small>
-“Son of man, the house of Israel has become dross to Me. All of them are copper, tin, iron, and lead inside the furnace; they are but the dross of silver.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.22.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.17|<< Ezekiel 22:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.19|Ezekiel 22:19 >>]]</td></tr></table>
 
 | Translation | Greek |

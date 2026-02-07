@@ -1,10 +1,7 @@
 **LXX Genesis 35:10** 
 <small><sub>**LXX:**</sub></small>
 And God said to him,  Your name shall not be called any longer Jacob, but Israel will be  your name. And he called  his name Israel. 
-<small><sub>**KJV:**</sub></small>
-And God said unto him, Thy name [is] Jacob: thy name shall not be called any more Jacob, but Israel shall be thy name: and he called his name Israel.
-<small><sub>**BSB:**</sub></small>
-And God said to him, “Though your name is Jacob, you will no longer be called Jacob. Instead, your name will be Israel.” So God named him Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.35.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.35.9|<< Genesis 35:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.35.11|Genesis 35:11 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,12 +1,12 @@
-**John 3:36
-**<small><sub>**KJV:**</sub></small>
+**John 3:36**<big><big>[[John.3.22 John’s Testimony about Jesus|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.
 <small><sub>**BSB:**</sub></small>
 Whoever believes in the Son has eternal life. Whoever rejects the Son will not see life. Instead, the wrath of God remains on him.”
 <small><sub>**Literal:**</sub></small>
 The [one] believing in the Son has life eternal; the [one] however not obeying the Son not will behold life, but the wrath <the> of God abides on him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.35|<< John 3:35]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.1|John 4:1 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | The [one] |**<big>[[G3588\|ὁ]]</big>**  |ho <small><sup>[[T-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | believing |**<big>[[G4100\|πιστεύων]]</big>**  |pisteuōn <small><sup>[[V-PAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

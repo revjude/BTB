@@ -1,10 +1,7 @@
 **LXX 1 Kings 1:8** 
 <small><sub>**LXX:**</sub></small>
 And Zadok the priest, and Benaiah son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the ones being mighty \[to\] David were not with Adonijah. 
-<small><sub>**KJV:**</sub></small>
-But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which [belonged] to David, were not with Adonijah.
-<small><sub>**BSB:**</sub></small>
-But Zadok the priest, Benaiah son of Jehoiada, Nathan the prophet, Shimei, Rei, and David’s mighty men would not join Adonijah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.1.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.7|<< 1 Kings 1:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.9|1 Kings 1:9 >>]]</td></tr></table>
 
 | Translation | Greek |

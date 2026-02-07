@@ -1,12 +1,12 @@
-**Acts 1:19
-**<small><sub>**KJV:**</sub></small>
+**Acts 1:19**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And it was known unto all the dwellers at Jerusalem; insomuch as that field is called in their proper tongue, Aceldama, that is to say, The field of blood.
 <small><sub>**BSB:**</sub></small>
 This became known to all who lived in Jerusalem, so they called that field in their own language Akeldama, that is, Field of Blood.)
 <small><sub>**Literal:**</sub></small>
 And known it became to all those dwelling in Jerusalem, so that to call the field that [one] <the> in [their] own language of them Akeldama That is Field of Blood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.18|<< Acts 1:18]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.20|Acts 1:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | known |**<big>[[G1110\|γνωστὸν]]</big>**  |gnōston <small><sup>[[A-NSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

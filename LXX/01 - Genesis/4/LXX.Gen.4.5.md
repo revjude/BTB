@@ -1,10 +1,7 @@
 **LXX Genesis 4:5** 
 <small><sub>**LXX:**</sub></small>
 But upon Cain and upon  his sacrifices, he did not take heed. And Cain fretted exceedingly, and became downcast in the face. 
-<small><sub>**KJV:**</sub></small>
-But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.
-<small><sub>**BSB:**</sub></small>
-but He had no regard for Cain and his offering. So Cain became very angry, and his countenance fell.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.4.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.4.4|<< Genesis 4:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.4.6|Genesis 4:6 >>]]</td></tr></table>
 
 | Translation | Greek |

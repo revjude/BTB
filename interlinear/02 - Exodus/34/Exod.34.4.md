@@ -1,4 +1,4 @@
-**Exodus 34:4** 
+**Exodus 34:4**<big><big>[[Exod.34.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he hewed two tables of stone like unto the first; and Moses rose up early in the morning, and went up unto mount Sinai, as the LORD had commanded him, and took in his hand the two tables of stone.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So Moses chiseled out two stone tablets like the originals. He rose early in the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.3|<< Exodus 34:3]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.5|Exodus 34:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he cut out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6458\|יִּפְסֹ֡ל]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yif.Sol<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two  |**<big>&#8207;[[H8147\|שְׁנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.nei-<small><sup>[[HAcbdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 44:22** 
 <small><sub>**LXX:**</sub></small>
 Behold, I wiped away your lawless deeds as a cloud, and your sin as dimness. Turn to me! and I shall ransom you. 
-<small><sub>**KJV:**</sub></small>
-I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee.
-<small><sub>**BSB:**</sub></small>
-I have blotted out your transgressions like a cloud, and your sins like a mist. Return to Me, for I have redeemed you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.44.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.44.21|<< Isaiah 44:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.44.23|Isaiah 44:23 >>]]</td></tr></table>
 
 | Translation | Greek |

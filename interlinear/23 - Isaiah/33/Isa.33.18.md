@@ -1,4 +1,4 @@
-**Isaiah 33:18** 
+**Isaiah 33:18**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine heart shall meditate terror. Where [is] the scribe? where [is] the receiver? where [is] he that counted the towers?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Your mind will ponder the former terror: “Where is he who tallies? Where is he
 > $\quad$ referenced by: [[1Cor.1.20|1Cor 1:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | heart your  |**<big>&#8207;[[H3820A\|לִבְּ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| li.be.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will meditate on  |**<big>&#8207;[[H1897\|יֶהְגֶּ֣ה]]&#8207; </big>**| yeh.Geh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

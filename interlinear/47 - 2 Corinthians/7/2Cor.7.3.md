@@ -1,12 +1,12 @@
-**2 Corinthians 7:3
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 7:3**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I speak not [this] to condemn [you]: for I have said before, that ye are in our hearts to die and live with [you].
 <small><sub>**BSB:**</sub></small>
 I do not say this to condemn you. I have said before that you so occupy our hearts that we live and die together with you.
 <small><sub>**Literal:**</sub></small>
 For condemnation not I speak; I have before said for that in the hearts of us you are for [us] <the> to die together and to live together.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.2|<< 2 Corinthians 7:2]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.4|2 Corinthians 7:4 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | For |**<big>[[G4314\|πρὸς]]</big>**  |pros <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | condemnation |**<big>[[G2633\|κατάκρισιν]]</big>**  |katakrisin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

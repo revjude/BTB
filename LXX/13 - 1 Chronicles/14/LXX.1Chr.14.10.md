@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 14:10** 
 <small><sub>**LXX:**</sub></small>
 And David asked through  God, saying, Shall I ascend against the Philistines? and will you give them into  my hands? And \[the\] <span class="smallcaps">lord</span> said to him, Ascend! and I will give them into  your hands. 
-<small><sub>**KJV:**</sub></small>
-And David inquired of God, saying, Shall I go up against the Philistines? and wilt thou deliver them into mine hand? And the LORD said unto him, Go up; for I will deliver them into thine hand.
-<small><sub>**BSB:**</sub></small>
-So David inquired of God, “Should I go up against the Philistines? Will You deliver them into my hand?” “Go,” replied the LORD, “for I will deliver them into your hand.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.14.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.14.9|<< 1 Chronicles 14:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.14.11|1 Chronicles 14:11 >>]]</td></tr></table>
 
 | Translation | Greek |

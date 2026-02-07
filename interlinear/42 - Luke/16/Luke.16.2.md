@@ -1,12 +1,12 @@
-**Luke 16:2
-**<small><sub>**KJV:**</sub></small>
+**Luke 16:2**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward.
 <small><sub>**BSB:**</sub></small>
 So he called him in to ask, ‘What is this I hear about you? Turn in an account of your management, for you cannot be manager any longer.’
 <small><sub>**Literal:**</sub></small>
 And having called him he said to him; What [is] this I hear concerning you? do give the account of the stewardship of you; not for you are able any longer to manage.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.1|<< Luke 16:1]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.3|Luke 16:3 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having called |**<big>[[G5455\|φωνήσας]]</big>**  |phōnēsas <small><sup>[[V-AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

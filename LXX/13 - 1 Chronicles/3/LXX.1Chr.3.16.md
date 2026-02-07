@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 3:16** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] sons of Jehoiakim -- Jeconiah his son, Zedekiah his son. 
-<small><sub>**KJV:**</sub></small>
-And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son.
-<small><sub>**BSB:**</sub></small>
-The successors of Jehoiakim: Jeconiah his son, and Zedekiah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.3.15|<< 1 Chronicles 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.3.17|1 Chronicles 3:17 >>]]</td></tr></table>
 
 | Translation | Greek |

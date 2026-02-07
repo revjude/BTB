@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 28:20** 
 <small><sub>**LXX:**</sub></small>
 And David said to Solomon  his son, Be strong and manly, and act! Do not fear nor be terrified! for \[the\] <span class="smallcaps">lord</span>  my God \[is\] with you. He will not send you \[away\], and in no way will he abandon you until  you complete every ministration of work of \[the\] house of \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-And David said to Solomon his son, Be strong and of good courage, and do [it]: fear not, nor be dismayed: for the LORD God, [even] my God, [will be] with thee; he will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of the LORD.
-<small><sub>**BSB:**</sub></small>
-David also said to Solomon his son, “Be strong and courageous, and do it. Do not be afraid or discouraged, for the LORD God, my God, is with you. He will neither fail you nor forsake you before all the work for the service of the house of the LORD is finished.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.28.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.28.19|<< 1 Chronicles 28:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.28.21|1 Chronicles 28:21 >>]]</td></tr></table>
 
 | Translation | Greek |

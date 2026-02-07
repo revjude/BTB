@@ -1,4 +1,4 @@
-**2 Samuel 17:28** 
+**2 Samuel 17:28**<big><big>[[2Sam.17.15 Hushai’s Warning Saves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Brought beds, and basons, and earthen vessels, and wheat, and barley, and flour, and parched [corn], and beans, and lentiles, and parched [pulse],
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They brought beds, basins, and earthen vessels, as well as wheat, barley, flour,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.27|<< 2 Samuel 17:27]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.29|2 Samuel 17:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | bed[s]  |**<big>&#8207;[[H4904\|מִשְׁכָּ֤ב]]&#8207; </big>**| mish.Kav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and basins  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5592A\|סַפּוֹת֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.pOt<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

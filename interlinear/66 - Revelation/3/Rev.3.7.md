@@ -1,5 +1,5 @@
-**Revelation 3:7
-**<small><sub>**KJV:**</sub></small>
+**Revelation 3:7**<big><big>[[Rev.3.7 To the Church in Philadelphia|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to the angel of the church in Philadelphia write; These things saith he that is holy, he that is true, he that hath the key of David, he that openeth, and no man shutteth; and shutteth, and no man openeth;
 <small><sub>**BSB:**</sub></small>
 To the angel of the church in Philadelphia write: These are the words of the One who is holy and true, who holds the key of David. What He opens no one can shut, and what He shuts no one can open.
@@ -11,7 +11,7 @@ And to the angel of the in Philadelphia church do write: These things says the H
 > $\quad$ alluding to: [[LXX.Isa.22.22|Isa 22:22]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to the |**<big>[[G3588\|τῷ]]</big>**  |tō <small><sup>[[T-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

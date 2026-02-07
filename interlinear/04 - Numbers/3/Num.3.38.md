@@ -1,4 +1,4 @@
-**Numbers 3:38** 
+**Numbers 3:38**<big><big>[[Num.3.38 Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But those that encamp before the tabernacle toward the east, [even] before the tabernacle of the congregation eastward, [shall be] Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Moses, Aaron, and Aaron’s sons were to camp to the east of the tabernacle, tow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.37|<< Numbers 3:37]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.39|Numbers 3:39 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and those [who] encamp  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2583\|חֹנִ֣ים]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> cho.Nim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֣י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

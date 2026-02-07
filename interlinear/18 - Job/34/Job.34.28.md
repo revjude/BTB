@@ -1,4 +1,4 @@
-**Job 34:28** 
+**Job 34:28**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that they cause the cry of the poor to come unto him, and he heareth the cry of the afflicted.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They caused the cry of the poor to come before Him, and He heard the outcry of t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.27|<< Job 34:27]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.29|Job 34:29 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to cause to come  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0935G\|הָבִ֣יא]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ha.Vi'<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H5921A\|עָ֭לָי]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'A.la<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

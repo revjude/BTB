@@ -1,10 +1,7 @@
 **LXX Joshua 24:24** 
 <small><sub>**LXX:**</sub></small>
 And the people said to Joshua, To \[the\] <span class="smallcaps">lord</span>  our God we shall serve, and  of his voice we shall hearken. 
-<small><sub>**KJV:**</sub></small>
-And the people said unto Joshua, The LORD our God will we serve, and his voice will we obey.
-<small><sub>**BSB:**</sub></small>
-So the people said to Joshua, “We will serve the LORD our God and obey His voice.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.23|<< Joshua 24:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.25|Joshua 24:25 >>]]</td></tr></table>
 
 | Translation | Greek |

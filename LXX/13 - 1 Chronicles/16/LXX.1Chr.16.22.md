@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 16:22** 
 <small><sub>**LXX:**</sub></small>
 \[Saying\], Touch not  my anointed ones! and among  my prophets do not do wickedly. 
-<small><sub>**KJV:**</sub></small>
-[Saying], Touch not mine anointed, and do my prophets no harm.
-<small><sub>**BSB:**</sub></small>
-‘Do not touch My anointed ones! Do no harm to My prophets!’<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.16.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.16.21|<< 1 Chronicles 16:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.16.23|1 Chronicles 16:23 >>]]</td></tr></table>
 
 | Translation | Greek |

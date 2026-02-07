@@ -1,10 +1,7 @@
 **LXX Psalm 18:13** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> thundered from out of heaven, and the highest uttered his voice. 
-<small><sub>**KJV:**</sub></small>
-The LORD also thundered in the heavens, and the Highest gave his voice; hail [stones] and coals of fire.
-<small><sub>**BSB:**</sub></small>
-The LORD thundered from heaven; the voice of the Most High resounded—hailstones and coals of fire.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.18.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.12|<< Psalm 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.14|Psalm 18:14 >>]]</td></tr></table>
 
 | Translation | Greek |

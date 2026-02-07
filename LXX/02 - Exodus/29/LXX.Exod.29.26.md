@@ -1,10 +1,7 @@
 **LXX Exodus 29:26** 
 <small><sub>**LXX:**</sub></small>
 And you shall take the breast from the ram of the consecration, which is Aaron's, and you shall separate it \[as a\] separation \[offering\] before \[the\] <span class="smallcaps">lord</span> -- and it will be to you for a portion. 
-<small><sub>**KJV:**</sub></small>
-And thou shalt take the breast of the ram of Aaron’s consecration, and wave it [for] a wave offering before the LORD: and it shall be thy part.
-<small><sub>**BSB:**</sub></small>
-Take the breast of the ram of Aaron’s ordination and wave it before the LORD as a wave offering, and it will be your portion.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.29.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.25|<< Exodus 29:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.27|Exodus 29:27 >>]]</td></tr></table>
 
 | Translation | Greek |

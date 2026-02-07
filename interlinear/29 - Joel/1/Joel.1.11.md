@@ -1,4 +1,4 @@
-**Joel 1:11** 
+**Joel 1:11**<big><big>[[Joel.1.8 A Call to Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Be dismayed, O farmers, wail, O vinedressers, over the wheat and barley, because
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.10|<< Joel 1:10]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.12|Joel 1:12 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | be ashamed  |**<big>&#8207;[[H0954\|הֹבִ֣ישׁוּ]]&#8207; </big>**| ho.Vi.shu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O farmers  |**<big>&#8207;[[H0406\|אִכָּרִ֗ים]]&#8207; </big>**| 'i.ka.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

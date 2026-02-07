@@ -1,10 +1,7 @@
 **LXX Numbers 35:24** 
 <small><sub>**LXX:**</sub></small>
 then the congregation shall judge between the one striking and between the one acting as next of kin  for blood, according to  these cases. 
-<small><sub>**KJV:**</sub></small>
-Then the congregation shall judge between the slayer and the revenger of blood according to these judgments:
-<small><sub>**BSB:**</sub></small>
-then the congregation must judge between the slayer and the avenger of blood according to these ordinances.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.35.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.35.23|<< Numbers 35:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.35.25|Numbers 35:25 >>]]</td></tr></table>
 
 | Translation | Greek |

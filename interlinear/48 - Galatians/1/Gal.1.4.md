@@ -1,12 +1,12 @@
-**Galatians 1:4
-**<small><sub>**KJV:**</sub></small>
+**Galatians 1:4**<big><big>[[Gal.1.1 Paul’s Greeting to the Galatians|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:
 <small><sub>**BSB:**</sub></small>
 who gave Himself for our sins to rescue us from the present evil age, according to the will of our God and Father,
 <small><sub>**Literal:**</sub></small>
 the [One who] having given Himself for the sins of us, so that He may deliver us out of the age of which having come presently evil according to the will of the God and Father of us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.3|<< Galatians 1:3]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.5|Galatians 1:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the [One who] |**<big>[[G3588\|τοῦ]]</big>**  |tou <small><sup>[[T-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having given |**<big>[[G1325\|δόντος]]</big>**  |dontos <small><sup>[[V-2AAP-GSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 8:8
-**<small><sub>**KJV:**</sub></small>
+**Matthew 8:8**<big><big>[[Matt.8.5 The Faith of the Centurion|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The centurion answered and said, Lord, I am not worthy that thou shouldest come under my roof: but speak the word only, and my servant shall be healed.
 <small><sub>**BSB:**</sub></small>
 The centurion answered, “Lord, I am not worthy to have You come under my roof. But just say the word, and my servant will be healed.
 <small><sub>**Literal:**</sub></small>
 And answering now the centurion was saying; Lord, not I am worthy that my under the roof You may come, but only do speak a word, and will be healed the servant of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.7|<< Matthew 8:7]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.9|Matthew 8:9 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+TR+Byz">NKO</abbr> | |
 | answering |**<big>[[G0611\|ἀποκριθεὶς]]</big>**  |apokritheis <small><sup>[[V-AOP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

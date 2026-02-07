@@ -1,5 +1,5 @@
-**Revelation 2:20
-**<small><sub>**KJV:**</sub></small>
+**Revelation 2:20**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Notwithstanding I have a few things against thee, because thou sufferest that woman Jezebel, which calleth herself a prophetess, to teach and to seduce my servants to commit fornication, and to eat things sacrificed unto idols.
 <small><sub>**BSB:**</sub></small>
 But I have this against you: You tolerate that woman Jezebel, who calls herself a prophetess. By her teaching she misleads My servants to be sexually immoral and to eat food sacrificed to idols.
@@ -10,7 +10,7 @@ But I have against you few things that you permit the woman of you Jezebel, the 
 > $\quad$ possibly alluding to: [[LXX.1Kgs.16.31|1Kgs 16:31]] ☩ [[LXX.1Kgs.21.23|1Kgs 21:23]] ☩ [[LXX.2Kgs.9.33|2Kgs 9:33]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλ᾽]]</big>**  [^1] |all᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I have |**<big>[[G2192\|ἔχω]]</big>**  |echō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

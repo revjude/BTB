@@ -1,12 +1,12 @@
-**Revelation 22:9
-**<small><sub>**KJV:**</sub></small>
+**Revelation 22:9**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then saith he unto me, See [thou do it] not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God.
 <small><sub>**BSB:**</sub></small>
 But he said to me, “Do not do that! I am a fellow servant with you and your brothers the prophets, and with those who keep the words of this book. Worship God!”
 <small><sub>**Literal:**</sub></small>
 And he says to me; do see that you [do] not, Fellow servant of you for I am and with the brothers of you the prophets and with those keeping the words of the book this; <the> God do worship.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.8|<< Revelation 22:8]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.10|Revelation 22:10 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | he says |**<big>[[G3004G\|λέγει]]</big>**  |legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

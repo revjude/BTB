@@ -1,10 +1,7 @@
 **LXX 1 Samuel 4:12** 
 <small><sub>**LXX:**</sub></small>
 And there ran a man of Benjamin from out of the battle array, and he came into Shiloh on  that day; and  his garments were torn up, and earth \[was\] upon  his head. 
-<small><sub>**KJV:**</sub></small>
-And there ran a man of Benjamin out of the army, and came to Shiloh the same day with his clothes rent, and with earth upon his head.
-<small><sub>**BSB:**</sub></small>
-That same day a Benjamite ran from the battle line all the way to Shiloh, with his clothes torn and dirt on his head.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.4.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.11|<< 1 Samuel 4:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.13|1 Samuel 4:13 >>]]</td></tr></table>
 
 | Translation | Greek |

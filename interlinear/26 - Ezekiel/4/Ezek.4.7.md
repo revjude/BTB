@@ -1,4 +1,4 @@
-**Ezekiel 4:7** 
+**Ezekiel 4:7**<big><big>[[Ezek.4.1 A Sign of Jerusalem’s Siege|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thou shalt set thy face toward the siege of Jerusalem, and thine arm [shall be] uncovered, and thou shalt prophesy against it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You must turn your face toward the siege of Jerusalem with your arm bared, and p
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.6|<< Ezekiel 4:6]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.8|Ezekiel 4:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] siege of  |**<big>&#8207;[[H4692\|מְצ֤וֹר]]&#8207; </big>**| me.Tzor<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

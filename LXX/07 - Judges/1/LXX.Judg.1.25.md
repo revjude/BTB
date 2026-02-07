@@ -1,10 +1,7 @@
 **LXX Judges 1:25** 
 <small><sub>**LXX:**</sub></small>
 And he showed to them the entrance of the city; and they struck the city by \[the\] mouth of \[the\] broadsword; but the man and  his kin they sent out. 
-<small><sub>**KJV:**</sub></small>
-And when he shewed them the entrance into the city, they smote the city with the edge of the sword; but they let go the man and all his family.
-<small><sub>**BSB:**</sub></small>
-So the man showed them the entrance to the city, and they put the city to the sword but released that man and all his family.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.1.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.1.24|<< Judges 1:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.1.26|Judges 1:26 >>]]</td></tr></table>
 
 | Translation | Greek |

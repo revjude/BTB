@@ -1,10 +1,7 @@
 **LXX 2 Kings 8:5** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass, of his describing to the king of how he enlivened \[the\] son having died, that behold, the woman of whom he enlivened  her son \[came\] yelling to the king concerning  her house and concerning  her fields. And Gehazi said, O master, O king, this \[is\] the woman, and this \[is\]  her son whom Elisha enlivened. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, as he was telling the king how he had restored a dead body to life, that, behold, the woman, whose son he had restored to life, cried to the king for her house and for her land. And Gehazi said, My lord, O king, this [is] the woman, and this [is] her son, whom Elisha restored to life.
-<small><sub>**BSB:**</sub></small>
-And Gehazi was telling the king how Elisha had brought the dead back to life. Just then the woman whose son Elisha had revived came to appeal to the king for her house and her land. So Gehazi said, “My lord the king, this is the woman, and this is the son Elisha restored to life.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.8.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.4|<< 2 Kings 8:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.6|2 Kings 8:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**1 Chronicles 15:9** 
+**1 Chronicles 15:9**<big><big>[[1Chr.15.1 Preparing to Move the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the sons of Hebron; Eliel the chief, and his brethren fourscore:
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ from the Hebronites, Eliel the chief and 80 of his relatives;
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.8|<< 1 Chronicles 15:8]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.10|1 Chronicles 15:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of [the] descendants of  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1121G\|בְנֵ֖י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> v.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hebron  |**<big>&#8207;[[H2275B\|חֶבְר֑וֹן]]&#8207; </big>**| chev.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

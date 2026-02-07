@@ -1,12 +1,12 @@
-**Mark 3:15
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:15**<big><big>[[Mark.3.13 The Twelve Apostles|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And to have power to heal sicknesses, and to cast out devils:
 <small><sub>**BSB:**</sub></small>
 and to have authority to drive out demons.
 <small><sub>**Literal:**</sub></small>
 and to have authority to heal <the> diseases and to cast out <the> demons.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.14|<< Mark 3:14]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.16|Mark 3:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to have |**<big>[[G2192\|ἔχειν]]</big>**  |echein <small><sup>[[V-PAN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

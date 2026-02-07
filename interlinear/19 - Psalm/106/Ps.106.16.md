@@ -1,4 +1,4 @@
-**Psalms 106:16** 
+**Psalms 106:16**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They envied Moses also in the camp, [and] Aaron the saint of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In the camp they envied Moses, as well as Aaron, the holy one of the LORD.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.15|<< Psalms 106:15]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.17|Psalms 106:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they were envious  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7065\|יְקַנְא֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.kan.'U<small><sup>[[HVpw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of Moses  |**<big>&#8207;[[H9005\|לְ֭]]&#8207;&#8207;[[H4872\|מֹשֶׁה]]&#8207; </big>**| Le.<small><sup>[[HR]]</sup></small> mo.sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

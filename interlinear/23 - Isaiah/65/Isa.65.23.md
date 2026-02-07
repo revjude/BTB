@@ -1,4 +1,4 @@
-**Isaiah 65:23** 
+**Isaiah 65:23**<big><big>[[Isa.65.17 A New Heaven and a New Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall not labour in vain, nor bring forth for trouble; for they [are] the seed of the blessed of the LORD, and their offspring with them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They will not labor in vain or bear children doomed to disaster; for they will b
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.22|<< Isaiah 65:22]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.24|Isaiah 65:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | not  |**<big>&#8207;[[H3808\|לֹ֤א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will labor  |**<big>&#8207;[[H3021\|יִֽיגְעוּ֙]]&#8207; </big>**| yi.ge.'U<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

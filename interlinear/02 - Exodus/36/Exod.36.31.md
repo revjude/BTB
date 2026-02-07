@@ -1,4 +1,4 @@
-**Exodus 36:31** 
+**Exodus 36:31**<big><big>[[Exod.36.20 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made bars of shittim wood; five for the boards of the one side of the tabernacle,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He also made five crossbars of acacia wood for the frames on one side of the tab
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.30|<< Exodus 36:30]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.32|Exodus 36:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213H\|יַּ֥עַשׂ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.'as<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | bars of  |**<big>&#8207;[[H1280\|בְּרִיחֵ֖י]]&#8207; </big>**| be.ri.Chei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

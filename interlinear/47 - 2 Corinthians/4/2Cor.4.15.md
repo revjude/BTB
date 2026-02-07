@@ -1,12 +1,12 @@
-**2 Corinthians 4:15
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 4:15**<big><big>[[2Cor.4.7 Treasure in Jars of Clay|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For all things [are] for your sakes, that the abundant grace might through the thanksgiving of many redound to the glory of God.
 <small><sub>**BSB:**</sub></small>
 All this is for your benefit, so that the grace that is extending to more and more people may cause thanksgiving to overflow, to the glory of God.
 <small><sub>**Literal:**</sub></small>
 <the> For all things [are] for the sake of you, so that the grace having abounded through <the> more and more the thanksgiving may increase to the glory <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.14|<< 2 Corinthians 4:14]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.16|2 Corinthians 4:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|τὰ]]</big>**  |ta <small><sup>[[T-NPN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | For |**<big>[[G1063\|γὰρ]]</big>**  |gar <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

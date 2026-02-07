@@ -1,10 +1,7 @@
 **LXX Exodus 9:10** 
 <small><sub>**LXX:**</sub></small>
 And they took the soot of the furnace before Pharaoh; and Moses strew it into the heaven; and there became sores of boils breaking out among both  men, and among the four-footed \[creatures\]. 
-<small><sub>**KJV:**</sub></small>
-And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth [with] blains upon man, and upon beast.
-<small><sub>**BSB:**</sub></small>
-So they took soot from the furnace and stood before Pharaoh. Moses tossed it into the air, and festering boils broke out on man and beast.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.9.9|<< Exodus 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.9.11|Exodus 9:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Exodus 9:10** is...

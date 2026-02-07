@@ -1,10 +1,7 @@
 **LXX Micah 4:10** 
 <small><sub>**LXX:**</sub></small>
 Travail, and take courage, O daughter of Zion, as the one giving birth! For now you shall come forth from \[the\] city, and shall encamp in \[the\] plain, and shall come unto Babylon. From there he shall rescue you, and from there he shall ransom you, \[the\] <span class="smallcaps">lord</span>  your God, from \[the\] hand  of your enemies. 
-<small><sub>**KJV:**</sub></small>
-Be in pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go [even] to Babylon; there shalt thou be delivered; there the LORD shall redeem thee from the hand of thine enemies.
-<small><sub>**BSB:**</sub></small>
-Writhe in agony, O Daughter of Zion, like a woman in labor. For now you will leave the city and camp in the open fields. You will go to Babylon; there you will be rescued; there the LORD will redeem you from the hand of your enemies!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.4.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.4.9|<< Micah 4:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.4.11|Micah 4:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Micah 4:10** is...

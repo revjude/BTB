@@ -1,10 +1,7 @@
 **LXX Hosea 10:12** 
 <small><sub>**LXX:**</sub></small>
 Sow to yourselves for righteousness! Gather the vintage for \[the\] fruit of life! Light for yourselves \[the\] light of knowledge! Inquire of the <span class="smallcaps">lord</span> until  \[the\] offspring of righteousness comes to you! 
-<small><sub>**KJV:**</sub></small>
-Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for [it is] time to seek the LORD, till he come and rain righteousness upon you.
-<small><sub>**BSB:**</sub></small>
-Sow for yourselves righteousness and reap the fruit of loving devotion; break up your unplowed ground. For it is time to seek the LORD until He comes and sends righteousness upon you like rain.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.10.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.10.11|<< Hosea 10:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.10.13|Hosea 10:13 >>]]</td></tr></table>
 
 | Translation | Greek |

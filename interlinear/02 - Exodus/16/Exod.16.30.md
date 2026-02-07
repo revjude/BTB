@@ -1,4 +1,4 @@
-**Exodus 16:30** 
+**Exodus 16:30**<big><big>[[Exod.16.22 The Sabbath Observed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the people rested on the seventh day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the people rested on the seventh day.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.29|<< Exodus 16:29]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.31|Exodus 16:31 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they rested  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7673A\|יִּשְׁבְּת֥וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.be.Tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֖ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

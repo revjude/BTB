@@ -1,10 +1,7 @@
 **LXX Psalm 7:6** 
 <small><sub>**LXX:**</sub></small>
 Rise up, O <span class="smallcaps">lord</span>, in your anger! Be raised up high in the limits  of your enemies! And awaken, O <span class="smallcaps">lord</span>  my God! in \[the\] order in which you gave charge. 
-<small><sub>**KJV:**</sub></small>
-Arise, O LORD, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me [to] the judgment [that] thou hast commanded.
-<small><sub>**BSB:**</sub></small>
-Arise, O LORD, in Your anger; rise up against the fury of my enemies. Awake, my God, and ordain judgment.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.7.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.7.5|<< Psalm 7:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.7.7|Psalm 7:7 >>]]</td></tr></table>
 
 | Translation | Greek |

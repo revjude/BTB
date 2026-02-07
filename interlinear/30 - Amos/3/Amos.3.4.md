@@ -1,4 +1,4 @@
-**Amos 3:4** 
+**Amos 3:4**<big><big>[[Amos.3.1 Witnesses against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Does a lion roar in the forest when he has no prey? Does a young lion growl in h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.3.3|<< Amos 3:3]]</td><td align="center" style="border:none;">[[Amos.3|Amos 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.3.5|Amos 3:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ¿ does it roar  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H7580\|יִשְׁאַ֤ג]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> yish.'Ag<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a lion  |**<big>&#8207;[[H0738B\|אַרְיֵה֙]]&#8207; </big>**| 'ar.Yeh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

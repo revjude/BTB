@@ -1,4 +1,4 @@
-**Genesis 48:16** 
+**Genesis 48:16**<big><big>[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Angel which redeemed me from all evil, bless the lads; and let my name be named on them, and the name of my fathers Abraham and Isaac; and let them grow into a multitude in the midst of the earth.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ the angel who has redeemed me from all harm—may He bless these boys. And may t
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.48.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.15|<< Genesis 48:15]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.17|Genesis 48:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the angel  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4397H\|מַּלְאָךְ֩]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mal.'oKh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who has redeemed  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1350A\|גֹּאֵ֨ל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> go.'El<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

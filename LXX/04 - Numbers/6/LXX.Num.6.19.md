@@ -1,10 +1,7 @@
 **LXX Numbers 6:19** 
 <small><sub>**LXX:**</sub></small>
 And the priest shall take the shoulder cooked from the ram, and one unleavened bread from the bin, and one unleavened pancake; and he shall place \[them\] upon the hands of the one making a vow, after  his shaving  of his head. 
-<small><sub>**KJV:**</sub></small>
-And the priest shall take the sodden shoulder of the ram, and one unleavened cake out of the basket, and one unleavened wafer, and shall put [them] upon the hands of the Nazarite, after [the hair of] his separation is shaven:
-<small><sub>**BSB:**</sub></small>
-And the priest is to take the boiled shoulder from the ram, one unleavened cake from the basket, and one unleavened wafer, and put them into the hands of the Nazirite who has just shaved the hair of his consecration.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.6.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.6.18|<< Numbers 6:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.6.20|Numbers 6:20 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Genesis 41:32** 
 <small><sub>**LXX:**</sub></small>
 And concerning the repetition of the dream to Pharaoh twice, \[it is\] because the saying by God will be true, and God will hasten  to do it. 
-<small><sub>**KJV:**</sub></small>
-And for that the dream was doubled unto Pharaoh twice; [it is] because the thing [is] established by God, and God will shortly bring it to pass.
-<small><sub>**BSB:**</sub></small>
-Moreover, because the dream was given to Pharaoh in two versions, the matter has been decreed by God, and He will carry it out shortly.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.41.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.31|<< Genesis 41:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.33|Genesis 41:33 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Job 15:24** 
+**Job 15:24**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Trouble and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Distress and anguish terrify him, overwhelming him like a king poised to attack.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.23|<< Job 15:23]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.25|Job 15:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they terrify him  |**<big>&#8207;[[H1204\|יְֽ֭בַעֲתֻ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| Ye.va.'a.tu.<small><sup>[[HVpi3mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | anxiety  |**<big>&#8207;[[H6862B\|צַ֣ר]]&#8207; </big>**| tzar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

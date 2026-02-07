@@ -1,10 +1,7 @@
 **LXX Joshua 6:15** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass on the seventh day the expedition rose up  at dawn and went around the city according to  this practice seven times, only on  that day they circled the city seven times. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass on the seventh day, that they rose early about the dawning of the day, and compassed the city after the same manner seven times: only on that day they compassed the city seven times.
-<small><sub>**BSB:**</sub></small>
-Then on the seventh day, they got up at dawn and marched around the city seven times in the same manner. That was the only day they circled the city seven times.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.6.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.6.14|<< Joshua 6:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.6.16|Joshua 6:16 >>]]</td></tr></table>
 
 | Translation | Greek |

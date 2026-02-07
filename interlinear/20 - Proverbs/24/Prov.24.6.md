@@ -1,4 +1,4 @@
-**Proverbs 24:6** 
+**Proverbs 24:6**<big><big>[[Prov.24.5 Saying 22|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For by wise counsel thou shalt make thy war: and in multitude of counsellers [there is] safety.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Only with sound guidance should you wage war, and victory lies in a multitude of
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.5|<< Proverbs 24:5]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.7|Proverbs 24:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by wise directions  |**<big>&#8207;[[H9003\|בְ֭]]&#8207;&#8207;[[H8458\|תַחְבֻּלוֹת]]&#8207; </big>**| Ve.<small><sup>[[HR]]</sup></small> tach.bu.lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

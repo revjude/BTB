@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, prophesy! And you shall say, Thus says Adonai \[the\] <span class="smallcaps">lord</span> to the sons of Ammon, and concerning  their scorning. And you shall say, O broadsword, O broadsword, being unsheathed for victims for slaughter, and being unsheathed for consummation, arise so as to shine! 
-<small><sub>**KJV:**</sub></small>
-And thou, son of man, prophesy and say, Thus saith the Lord GOD concerning the Ammonites, and concerning their reproach; even say thou, The sword, the sword [is] drawn: for the slaughter [it is] furbished, to consume because of the glittering:
-<small><sub>**BSB:**</sub></small>
-Now prophesy, son of man, and declare that this is what the Lord GOD says concerning the Ammonites and their contempt: ‘A sword! A sword is drawn for slaughter, polished to consume, to flash like lightning—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.21.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.21.27|<< Ezekiel 21:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.21.29|Ezekiel 21:29 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,5 +1,5 @@
-**Matthew 25:41
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:41**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:
 <small><sub>**BSB:**</sub></small>
 Then He will say to those on His left, ‘Depart from Me, you who are cursed, into the eternal fire prepared for the devil and his angels.
@@ -10,7 +10,7 @@ Then will He say also to those on [the] left; do depart from Me you who [are] cu
 > $\quad$ referencing: [[LXX.Ps.6.8|Ps 6:8]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Then |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | will He say |**<big>[[G4483\|ἐρεῖ]]</big>**  |erei <small><sup>[[V-FAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

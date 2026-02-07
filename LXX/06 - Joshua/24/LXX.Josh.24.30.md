@@ -1,10 +1,7 @@
 **LXX Joshua 24:30** 
 <small><sub>**LXX:**</sub></small>
 And they entombed him by the borders  of his inheritance in Timmnath-serah, in  mount  Ephraim, from \[the\] north of the mountain of Gaash. 
-<small><sub>**KJV:**</sub></small>
-And they buried him in the border of his inheritance in Timnathserah, which [is] in mount Ephraim, on the north side of the hill of Gaash.
-<small><sub>**BSB:**</sub></small>
-And they buried him in the land of his inheritance, at Timnath-serah in the hill country of Ephraim, north of Mount Gaash.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Josh.24.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.29|<< Joshua 24:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.31|Joshua 24:31 >>]]</td></tr></table>
 
 | Translation | Greek |

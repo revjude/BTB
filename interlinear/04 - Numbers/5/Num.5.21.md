@@ -1,4 +1,4 @@
-**Numbers 5:21** 
+**Numbers 5:21**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the priest shall charge the woman with an oath of cursing, and the priest shall say unto the woman, The LORD make thee a curse and an oath among thy people, when the LORD doth make thy thigh to rot, and thy belly to swell;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and the priest shall have the woman swear under the oath of the curse—‘then 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.20|<< Numbers 5:20]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.22|Numbers 5:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will make swear  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7650\|הִשְׁבִּ֨יעַ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hish.Bi.a'<small><sup>[[HVhq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֥ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

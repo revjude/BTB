@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 22:4** 
 <small><sub>**LXX:**</sub></small>
 And there was no number \[for the\] wood of cedars; for the Sidonians and the Tyrians brought wood of cedars in multitude \[to\] David. 
-<small><sub>**KJV:**</sub></small>
-Also cedar trees in abundance: for the Zidonians and they of Tyre brought much cedar wood to David.
-<small><sub>**BSB:**</sub></small>
-and more cedar logs than could be counted; for the Sidonians and Tyrians had brought a large quantity of cedar logs to David.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.22.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.22.3|<< 1 Chronicles 22:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.22.5|1 Chronicles 22:5 >>]]</td></tr></table>
 
 | Translation | Greek |

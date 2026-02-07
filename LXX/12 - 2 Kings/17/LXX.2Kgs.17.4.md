@@ -1,10 +1,7 @@
 **LXX 2 Kings 17:4** 
 <small><sub>**LXX:**</sub></small>
 And the king of \[the\] Assyrians found a plot by Hoshea, for \[Hoshea\] sent messengers to So king of Egypt, and did not bring gifts to the king of \[the\] Assyrians year by year. And the king of \[the\] Assyrians assaulted him, and tied him \[up\] in \[the\] house of \[the\] prison. 
-<small><sub>**KJV:**</sub></small>
-And the king of Assyria found conspiracy in Hoshea: for he had sent messengers to So king of Egypt, and brought no present to the king of Assyria, as [he had done] year by year: therefore the king of Assyria shut him up, and bound him in prison.
-<small><sub>**BSB:**</sub></small>
-But the king of Assyria discovered that Hoshea had conspired to send envoys to King So of Egypt, and that he had not paid tribute to the king of Assyria as in previous years. Therefore the king of Assyria arrested Hoshea and put him in prison.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.17.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.17.3|<< 2 Kings 17:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.17.5|2 Kings 17:5 >>]]</td></tr></table>
 
 | Translation | Greek |

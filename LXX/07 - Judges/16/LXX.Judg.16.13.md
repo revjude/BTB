@@ -1,10 +1,7 @@
 **LXX Judges 16:13** 
 <small><sub>**LXX:**</sub></small>
 And Delilah said to Samson, Until now you misled me, and spoke to me lying. Announce indeed to me! by what \[means\] you shall be tied. And he said to her, If you should weave the seven strands \[of hair\]  of my head with the warp, and hammer with the peg into the wall, then I will be weak as one of the men. 
-<small><sub>**KJV:**</sub></small>
-And Delilah said unto Samson, Hitherto thou hast mocked me, and told me lies: tell me wherewith thou mightest be bound. And he said unto her, If thou weavest the seven locks of my head with the web.
-<small><sub>**BSB:**</sub></small>
-Then Delilah said to Samson, “You have mocked me and lied to me all along! Tell me how you can be tied up.” He told her, “If you weave the seven braids of my head into the web of a loom and tighten it with a pin, I will become as weak as any other man.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.16.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.12|<< Judges 16:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.14|Judges 16:14 >>]]</td></tr></table>
 
 | Translation | Greek |

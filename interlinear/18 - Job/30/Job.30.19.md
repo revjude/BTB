@@ -1,4 +1,4 @@
-**Job 30:19** 
+**Job 30:19**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath cast me into the mire, and I am become like dust and ashes.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He throws me into the mud, and I have become like dust and ashes.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.18|<< Job 30:18]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.20|Job 30:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | he has thrown me  |**<big>&#8207;[[H3384A\|הֹרָ֥]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ho.Ra.<small><sup>[[HVhp3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the mud  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H2563A\|חֹ֑מֶר]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Cho.mer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Luke 1:43
-**<small><sub>**KJV:**</sub></small>
+**Luke 1:43**<big><big>[[Luke.1.39 Mary Visits Elizabeth|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And whence [is] this to me, that the mother of my Lord should come to me?
 <small><sub>**BSB:**</sub></small>
 And why am I so honored, that the mother of my Lord should come to me?
 <small><sub>**Literal:**</sub></small>
 And from where to me this that may come the mother of the Lord of mine to me myself?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.42|<< Luke 1:42]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.44|Luke 1:44 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | from where |**<big>[[G4159\|πόθεν]]</big>**  |pothen <small><sup>[[ADV-I]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,12 +1,12 @@
-**Matthew 6:24
-**<small><sub>**KJV:**</sub></small>
+**Matthew 6:24**<big><big>[[Matt.6.22 The Lamp of the Body|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.
 <small><sub>**BSB:**</sub></small>
 No one can serve two masters: Either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve both God and money.
 <small><sub>**Literal:**</sub></small>
 No [one] is able two masters to serve; either for the one he will hate and the other he will love or to [the] one he will be devoted and the other he will despise. Not you are able God to serve and money.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.23|<< Matthew 6:23]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.25|Matthew 6:25 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | No [one] |**<big>[[G3762\|Οὐδεὶς]]</big>**  |Oudeis <small><sup>[[A-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | is able |**<big>[[G1410\|δύναται]]</big>**  |dunatai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

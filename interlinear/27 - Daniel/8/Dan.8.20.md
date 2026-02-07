@@ -1,4 +1,4 @@
-**Daniel 8:20** 
+**Daniel 8:20**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The ram which thou sawest having [two] horns [are] the kings of Media and Persia.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The two-horned ram that you saw represents the kings of Media and Persia.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.19|<< Daniel 8:19]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.21|Daniel 8:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | the ram  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0352A\|אַ֥יִל]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.yil<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Ezekiel 30:25** 
 <small><sub>**LXX:**</sub></small>
 And I will strengthen the arms of \[the\] king of Babylon, and the arms of Pharaoh shall fall; and they shall know that I am \[the\] <span class="smallcaps">lord</span>, in  my putting the broadsword into \[the\] hands of \[the\] king of Babylon, and he shall stretch it against \[the\] land of Egypt. 
-<small><sub>**KJV:**</sub></small>
-But I will strengthen the arms of the king of Babylon, and the arms of Pharaoh shall fall down; and they shall know that I [am] the LORD, when I shall put my sword into the hand of the king of Babylon, and he shall stretch it out upon the land of Egypt.
-<small><sub>**BSB:**</sub></small>
-I will strengthen the arms of Babylon’s king, but Pharaoh’s arms will fall limp. Then they will know that I am the LORD, when I place My sword in the hand of Babylon’s king, and he wields it against the land of Egypt.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.30.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.30.24|<< Ezekiel 30:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.30.26|Ezekiel 30:26 >>]]</td></tr></table>
 
 | Translation | Greek |

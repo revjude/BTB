@@ -1,10 +1,7 @@
 **LXX Esther 9:13** 
 <small><sub>**LXX:**</sub></small>
 And Esther said to the king, Let it be given for the Jews to deal likewise  tomorrow, so as far the ten sons of Haman to hang. 
-<small><sub>**KJV:**</sub></small>
-Then said Esther, If it please the king, let it be granted to the Jews which [are] in Shushan to do to morrow also according unto this day’s decree, and let Haman’s ten sons be hanged upon the gallows.
-<small><sub>**BSB:**</sub></small>
-Esther replied, “If it pleases the king, may the Jews in Susa also have tomorrow to carry out today’s edict, and may the bodies of Haman’s ten sons be hanged on the gallows.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.9.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.9.12|<< Esther 9:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.9.14|Esther 9:14 >>]]</td></tr></table>
 
 | Translation | Greek |

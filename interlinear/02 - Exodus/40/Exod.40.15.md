@@ -1,4 +1,4 @@
-**Exodus 40:15** 
+**Exodus 40:15**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt anoint them, as thou didst anoint their father, that they may minister unto me in the priest’s office: for their anointing shall surely be an everlasting priesthood throughout their generations.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Anoint them just as you anointed their father, so that they may also serve Me as
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.14|<< Exodus 40:14]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.16|Exodus 40:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you will anoint  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4886\|מָשַׁחְתָּ֣]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> ma.shach.Ta<small><sup>[[HVqq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ֗]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

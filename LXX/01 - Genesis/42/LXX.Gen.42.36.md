@@ -1,10 +1,7 @@
 **LXX Genesis 42:36** 
 <small><sub>**LXX:**</sub></small>
 And Jacob their father said to them, You are making me childless; Joseph is not, Simeon is not, and  will you take Benjamin? Upon me all these \[things\] happened. 
-<small><sub>**KJV:**</sub></small>
-And Jacob their father said unto them, Me have ye bereaved [of my children]: Joseph [is] not, and Simeon [is] not, and ye will take Benjamin [away]: all these things are against me.
-<small><sub>**BSB:**</sub></small>
-Their father Jacob said to them, “You have deprived me of my sons. Joseph is gone and Simeon is no more. Now you want to take Benjamin. Everything is going against me!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Gen.42.36|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.42.35|<< Genesis 42:35]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.42.37|Genesis 42:37 >>]]</td></tr></table>
 
 | Translation | Greek |

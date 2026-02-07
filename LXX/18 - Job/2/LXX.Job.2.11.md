@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And his three friends hearing all the bad \[things\]  coming upon him, came each from their own place to him. Eliphaz the Temanite -- a king, Baldad the Shuhite -- a sovereign, Zophar the Minaean -- a king. And they came to him with one accord  to comfort and visit him. 
-<small><sub>**KJV:**</sub></small>
-Now when Job’s three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.
-<small><sub>**BSB:**</sub></small>
-Now when Job’s three friends—Eliphaz the Temanite, Bildad the Shuhite, and Zophar the Naamathite—heard about all this adversity that had come upon him, each of them came from his home, and they met together to go and sympathize with Job and comfort him.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.2.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.2.10|<< Job 2:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.2.12|Job 2:12 >>]]</td></tr></table>
 
 | Translation | Greek |

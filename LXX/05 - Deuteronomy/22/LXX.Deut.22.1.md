@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In beholding the calf  of your brother or  of his sheep wandering in the way, do not overlook them; by returning you shall return them \[to\] your brother, and you shall give them back to him. 
-<small><sub>**KJV:**</sub></small>
-Thou shalt not see thy brother’s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother.
-<small><sub>**BSB:**</sub></small>
-If you see your brother’s ox or sheep straying, you must not ignore it; be sure to return it to your brother.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.22.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.21.23|<< Deuteronomy 21:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.22.2|Deuteronomy 22:2 >>]]</td></tr></table>
 
 | Translation | Greek |

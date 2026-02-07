@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass when the king sat in  his house, and \[the\] <span class="smallcaps">lord</span> rested him round about from all  of his enemies; 
-<small><sub>**KJV:**</sub></small>
-And it came to pass, when the king sat in his house, and the LORD had given him rest round about from all his enemies;
-<small><sub>**BSB:**</sub></small>
-After the king had settled into his palace and the LORD had given him rest from all his enemies around him,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.6.23|<< 2 Samuel 6:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.2|2 Samuel 7:2 >>]]</td></tr></table>
 
 | Translation | Greek |

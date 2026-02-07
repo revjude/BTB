@@ -1,4 +1,4 @@
-**Genesis 11:31** 
+**Genesis 11:31**<big><big>[[Gen.11.27 Terah’s Descendants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Terah took Abram his son, and Lot the son of Haran his son’s son, and Sarai his daughter in law, his son Abram’s wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And Terah took his son Abram, his grandson Lot son of Haran, and his daughter-in
 > $\quad$ referenced by: [[Acts.7.4|Acts 7:4]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he took  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3947G\|יִּקַּ֨ח]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.Kach<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Terah  |**<big>&#8207;[[H8646G\|תֶּ֜רַח]]&#8207; </big>**| Te.rach<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**1 Kings 1:14** 
+**1 Kings 1:14**<big><big>[[1Kgs.1.11 Nathan and Bathsheba before David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, while thou yet talkest there with the king, I also will come in after thee, and confirm thy words.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then, while you are still there speaking with the king, I will come in after you
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.13|<< 1 Kings 1:13]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.15|1 Kings 1:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | there!  |**<big>&#8207;[[H2009\|הִנֵּ֗ה]]&#8207; </big>**| hi.Neh<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | still you  |**<big>&#8207;[[H5750\|עוֹדָ֛]]&#8207;&#8207;[[H9042\|ךְ]]&#8207; </big>**| o.Da<small><sup>[[HAcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

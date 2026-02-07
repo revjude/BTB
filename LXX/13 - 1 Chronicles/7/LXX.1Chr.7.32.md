@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 7:32** 
 <small><sub>**LXX:**</sub></small>
 And Heber engendered  Japhlet, and  Shomer, and  Hotham, and  Shua their sister. 
-<small><sub>**KJV:**</sub></small>
-And Heber begat Japhlet, and Shomer, and Hotham, and Shua their sister.
-<small><sub>**BSB:**</sub></small>
-Heber was the father of Japhlet, Shomer, and Hotham, and of their sister Shua.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.7.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.7.31|<< 1 Chronicles 7:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.7.33|1 Chronicles 7:33 >>]]</td></tr></table>
 
 | Translation | Greek |

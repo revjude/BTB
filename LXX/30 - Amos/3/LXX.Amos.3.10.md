@@ -1,10 +1,7 @@
 **LXX Amos 3:10** 
 <small><sub>**LXX:**</sub></small>
 And he knew not what will be before her, says \[the\] <span class="smallcaps">lord</span>, the ones treasuring up injustice and misery in  their regions. 
-<small><sub>**KJV:**</sub></small>
-For they know not to do right, saith the LORD, who store up violence and robbery in their palaces.
-<small><sub>**BSB:**</sub></small>
-“For they know not how to do right,” declares the LORD. “They store up violence and destruction in their citadels.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Amos.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.3.9|<< Amos 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.3.11|Amos 3:11 >>]]</td></tr></table>
 
 | Translation | Greek |

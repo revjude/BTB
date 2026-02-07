@@ -1,4 +1,4 @@
-**Micah 5:15** (5:14)
+**Micah 5:15**<big><big>[[Mic.5.7 The Remnant of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will execute vengeance in anger and fury upon the heathen, such as they have not heard.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will take vengeance in anger and wrath upon the nations that have not obeyed M
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.5.14|<< Micah 5:14]]</td><td align="center" style="border:none;">[[Mic.5|Micah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.1|Micah 6:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I will do  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6213A\|עָשִׂ֜יתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Si.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in anger  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0639G\|אַ֧ף]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'Af<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

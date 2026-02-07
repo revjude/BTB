@@ -1,4 +1,4 @@
-**1 Samuel 1:24** 
+**1 Samuel 1:24**<big><big>[[1Sam.1.19 The Birth of Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when she had weaned him, she took him up with her, with three bullocks, and one ephah of flour, and a bottle of wine, and brought him unto the house of the LORD in Shiloh: and the child [was] young.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Once she had weaned him, Hannah took the boy with her, along with a three-year-o
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.23|<< 1 Samuel 1:23]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.25|1 Samuel 1:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she brought up him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5927G\|תַּעֲלֵ֨]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ta.'a.Le.<small><sup>[[HVhw3fs]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with her  |**<big>&#8207;[[H5973A\|עִמָּ֜]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| 'i.Ma<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 51:56** 
 <small><sub>**LXX:**</sub></small>
 For misery came upon Babylon; her warriors captured; their bow was terrified; for  God recompenses to them. 
-<small><sub>**KJV:**</sub></small>
-Because the spoiler is come upon her, [even] upon Babylon, and her mighty men are taken, every one of their bows is broken: for the LORD God of recompences shall surely requite.
-<small><sub>**BSB:**</sub></small>
-For a destroyer is coming against her—against Babylon. Her warriors will be captured, and their bows will be broken, for the LORD is a God of retribution; He will repay in full.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.51.56|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.55|<< Jeremiah 51:55]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.57|Jeremiah 51:57 >>]]</td></tr></table>
 
 | Translation | Greek |

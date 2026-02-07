@@ -1,4 +1,4 @@
-**1 Chronicles 23:9** 
+**1 Chronicles 23:9**<big><big>[[1Chr.23.7 The Gershonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Shimei; Shelomith, and Haziel, and Haran, three. These [were] the chief of the fathers of Laadan.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The sons of Shimei: Shelomoth, Haziel, and Haran—three in all. These were the 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.8|<< 1 Chronicles 23:8]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.10|1 Chronicles 23:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sons of  |**<big>&#8207;[[H1121A\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shimei  |**<big>&#8207;[[H8096V\|שִׁמְעִ֗י]]&#8207; </big>**| shim.'I<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

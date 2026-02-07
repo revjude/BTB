@@ -1,4 +1,4 @@
-**Psalms 130:8** 
+**Psalms 130:8**<big><big>[[Ps.130.1 Out of the Depths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall redeem Israel from all his iniquities.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And He will redeem Israel from all iniquity.
 > $\quad$ referenced by: [[Titus.2.14|Titus 2:14]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he  |**<big>&#8207;[[H9002\|וְ֭]]&#8207;&#8207;[[H1931\|הוּא]]&#8207; </big>**| Ve.<small><sup>[[HC]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will redeem  |**<big>&#8207;[[H6299\|יִפְדֶּ֣ה]]&#8207; </big>**| yif.Deh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

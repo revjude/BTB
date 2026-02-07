@@ -1,4 +1,4 @@
-**Leviticus 4:6** 
+**Leviticus 4:6**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the LORD, before the vail of the sanctuary.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The priest is to dip his finger in the blood and sprinkle some of it seven times
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.5|<< Leviticus 4:5]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.7|Leviticus 4:7 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he will dip  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2881\|טָבַ֧ל]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ta.Val<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֛ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

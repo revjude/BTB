@@ -1,10 +1,7 @@
 **LXX Ezekiel 34:30** 
 <small><sub>**LXX:**</sub></small>
 And they shall know that I am \[the\] <span class="smallcaps">lord</span>  their God with them, and they \[are\] my people, O house of Israel, says \[the\] Lord \[the\] <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Thus shall they know that I the LORD their God [am] with them, and [that] they, [even] the house of Israel, [are] my people, saith the Lord GOD.
-<small><sub>**BSB:**</sub></small>
-Then they will know that I, the LORD their God, am with them, and that they, the house of Israel, are My people,’ declares the Lord GOD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.34.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.34.29|<< Ezekiel 34:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.34.31|Ezekiel 34:31 >>]]</td></tr></table>
 
 | Translation | Greek |

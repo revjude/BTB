@@ -1,4 +1,4 @@
-**Proverbs 1:2** 
+**Proverbs 1:2**<big><big>[[Prov.1.1 The Beginning of Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To know wisdom and instruction; to perceive the words of understanding;
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ for gaining wisdom and discipline, for comprehending words of insight,
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.1|<< Proverbs 1:1]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.3|Proverbs 1:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | to learn  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3045\|דַ֣עַת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Da.'at<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wisdom  |**<big>&#8207;[[H2451\|חָכְמָ֣ה]]&#8207; </big>**| chokh.mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

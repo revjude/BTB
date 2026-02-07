@@ -1,4 +1,4 @@
-**Jeremiah 10:22** 
+**Jeremiah 10:22**<big><big>[[Jer.10.17 The Coming Captivity of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the noise of the bruit is come, and a great commotion out of the north country, to make the cities of Judah desolate, [and] a den of dragons.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Listen! The sound of a report is coming—a great commotion from the land to the
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.21|<< Jeremiah 10:21]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.23|Jeremiah 10:23 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] sound of  |**<big>&#8207;[[H6963A\|ק֤וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a report  |**<big>&#8207;[[H8052\|שְׁמוּעָה֙]]&#8207; </big>**| she.mu.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

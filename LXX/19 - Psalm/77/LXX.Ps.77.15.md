@@ -1,10 +1,7 @@
 **LXX Psalm 77:15** 
 <small><sub>**LXX:**</sub></small>
 You ransomed your people by your arm, the sons of Jacob and Joseph. 
-<small><sub>**KJV:**</sub></small>
-Thou hast with [thine] arm redeemed thy people, the sons of Jacob and Joseph. Selah.
-<small><sub>**BSB:**</sub></small>
-With power You redeemed Your people, the sons of Jacob and Joseph. Selah<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.77.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.77.14|<< Psalm 77:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.77.16|Psalm 77:16 >>]]</td></tr></table>
 
 | Translation | Greek |

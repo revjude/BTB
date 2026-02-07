@@ -1,5 +1,5 @@
-**Hebrews 11:13
-**<small><sub>**KJV:**</sub></small>
+**Hebrews 11:13**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 These all died in faith, not having received the promises, but having seen them afar off, and were persuaded of [them], and embraced [them], and confessed that they were strangers and pilgrims on the earth.
 <small><sub>**BSB:**</sub></small>
 All these people died in faith, without having received the things they were promised. However, they saw them and welcomed them from afar. And they acknowledged that they were strangers and exiles on the earth.
@@ -11,7 +11,7 @@ In faith died these all not having received the promises but from afar them havi
 > $\quad$ possibly alluding to: [[LXX.Gen.47.9|Gen 47:9]] ☩ [[LXX.Ps.39.13|Ps 39:13]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | In |**<big>[[G2596\|Κατὰ]]</big>**  |Kata <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | faith |**<big>[[G4102G\|πίστιν]]</big>**  |pistin <small><sup>[[N-ASF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And Amaziah did not hearken. And Joash king of Israel ascended, and he and Amaziah king of Judah saw faces in Beth-shemesh  of Judea. 
-<small><sub>**KJV:**</sub></small>
-But Amaziah would not hear. Therefore Jehoash king of Israel went up; and he and Amaziah king of Judah looked one another in the face at Bethshemesh, which [belongeth] to Judah.
-<small><sub>**BSB:**</sub></small>
-But Amaziah would not listen, so Jehoash king of Israel advanced. He and King Amaziah of Judah faced each other at Beth-shemesh in Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.14.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.14.10|<< 2 Kings 14:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.14.12|2 Kings 14:12 >>]]</td></tr></table>
 
 | Translation | Greek |

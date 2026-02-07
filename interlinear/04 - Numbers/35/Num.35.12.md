@@ -1,4 +1,4 @@
-**Numbers 35:12** 
+**Numbers 35:12**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall be unto you cities for refuge from the avenger; that the manslayer die not, until he stand before the congregation in judgment.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to have these cities as a refuge from the avenger, so that the manslayer
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.11|<< Numbers 35:11]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.13|Numbers 35:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will become  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָי֨וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֧ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

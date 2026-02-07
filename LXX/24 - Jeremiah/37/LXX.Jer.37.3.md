@@ -1,10 +1,7 @@
 **LXX Jeremiah 37:3** 
 <small><sub>**LXX:**</sub></small>
 And king Zedekiah sent  Jehucal son of Shelemiah, and  Zephaniah son of Maaseiah the priest to Jeremiah, saying, Pray concerning us to \[the\] <span class="smallcaps">lord</span>  our God! 
-<small><sub>**KJV:**</sub></small>
-And Zedekiah the king sent Jehucal the son of Shelemiah and Zephaniah the son of Maaseiah the priest to the prophet Jeremiah, saying, Pray now unto the LORD our God for us.
-<small><sub>**BSB:**</sub></small>
-Yet King Zedekiah sent Jehucal son of Shelemiah and Zephaniah the priest, the son of Maaseiah, to Jeremiah the prophet with the message, “Please pray to the LORD our God for us!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.37.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.37.2|<< Jeremiah 37:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.37.4|Jeremiah 37:4 >>]]</td></tr></table>
 
 | Translation | Greek |

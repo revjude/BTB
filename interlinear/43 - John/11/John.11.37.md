@@ -1,12 +1,12 @@
-**John 11:37
-**<small><sub>**KJV:**</sub></small>
+**John 11:37**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And some of them said, Could not this man, which opened the eyes of the blind, have caused that even this man should not have died?
 <small><sub>**BSB:**</sub></small>
 But some of them asked, “Could not this man who opened the eyes of the blind also have kept Lazarus from dying?”
 <small><sub>**Literal:**</sub></small>
 Some however of them said; Surely was able this [man] who having opened the eyes of the blind to have caused that also this one not may have died?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.36|<< John 11:36]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.38|John 11:38 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Some |**<big>[[G5100\|τινὲς]]</big>**  |tines <small><sup>[[X-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

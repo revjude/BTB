@@ -1,12 +1,12 @@
-**1 Corinthians 5:10
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 5:10**<big><big>[[1Cor.5.9 Expel the Immoral Brother|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Yet not altogether with the fornicators of this world, or with the covetous, or extortioners, or with idolaters; for then must ye needs go out of the world.
 <small><sub>**BSB:**</sub></small>
 I was not including the sexually immoral of this world, or the greedy and swindlers, or idolaters. In that case you would have to leave this world.
 <small><sub>**Literal:**</sub></small>
 and not at all with the sexually immoral <the> world of this or with the covetous and with swindlers or with idolaters — since you have been obliged then would from the world to depart.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.9|<< 1 Corinthians 5:9]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.11|1 Corinthians 5:11 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="TR+Byz">k</abbr> | |
 | not |**<big>[[G3756\|οὐ]]</big>**  |ou <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

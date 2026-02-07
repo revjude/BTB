@@ -1,12 +1,12 @@
-**John 7:6
-**<small><sub>**KJV:**</sub></small>
+**John 7:6**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then Jesus said unto them, My time is not yet come: but your time is alway ready.
 <small><sub>**BSB:**</sub></small>
 Therefore Jesus told them, “Although your time is always at hand, My time has not yet come.
 <small><sub>**Literal:**</sub></small>
 Says therefore to them <the> Jesus; The time <the> for Me not yet is come, <the> but the time <the> of you always is ready.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.5|<< John 7:5]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.7|John 7:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Says |**<big>[[G3004G\|Λέγει]]</big>**  |Legei <small><sup>[[V-PAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | therefore |**<big>[[G3767\|οὖν]]</big>**  |oun <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

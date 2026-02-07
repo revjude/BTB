@@ -1,4 +1,4 @@
-**Zechariah 1:5** 
+**Zechariah 1:5**<big><big>[[Zech.1.1 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your fathers, where [are] they? and the prophets, do they live for ever?
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Where are your fathers now? And the prophets, do they live forever?
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.4|<< Zechariah 1:4]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.6|Zechariah 1:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ancestors your  |**<big>&#8207;[[H0001G\|אֲבֽוֹתֵי]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| 'a.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | where?  |**<big>&#8207;[[H0346\|אַיֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ai.yeh-<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |

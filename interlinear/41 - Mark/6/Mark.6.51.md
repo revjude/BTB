@@ -1,12 +1,12 @@
-**Mark 6:51
-**<small><sub>**KJV:**</sub></small>
+**Mark 6:51**<big><big>[[Mark.6.45 Jesus Walks on Water|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he went up unto them into the ship; and the wind ceased: and they were sore amazed in themselves beyond measure, and wondered.
 <small><sub>**BSB:**</sub></small>
 Then He climbed into the boat with them, and the wind died down. And the disciples were utterly astounded,
 <small><sub>**Literal:**</sub></small>
 And He went up to them into the boat, and ceased the wind. And exceedingly over excessive in themselves they were amazed and were marveling;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.50|<< Mark 6:50]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.52|Mark 6:52 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He went up |**<big>[[G0305\|ἀνέβη]]</big>**  |anebē <small><sup>[[V-2AAI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In  those days there was not a king in Israel. And in  those days the tribe of Dan sought for itself an inheritance  to dwell, for an inheritance of Israel did not fall in to it until that day in \[the\] midst of \[the\] tribes. 
-<small><sub>**KJV:**</sub></small>
-In those days [there was] no king in Israel: and in those days the tribe of the Danites sought them an inheritance to dwell in; for unto that day [all their] inheritance had not fallen unto them among the tribes of Israel.
-<small><sub>**BSB:**</sub></small>
-In those days there was no king in Israel, and the tribe of the Danites was looking for territory to occupy. For up to that time they had not come into an inheritance among the tribes of Israel.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.18.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.17.13|<< Judges 17:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.18.2|Judges 18:2 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Deuteronomy 9:16** 
 <small><sub>**LXX:**</sub></small>
 And seeing that you sinned before \[the\] <span class="smallcaps">lord</span>  your God, and made to yourselves a calf molten \[image\], and transgressed quickly from the way which \[the\] <span class="smallcaps">lord</span> gave charge to you; 
-<small><sub>**KJV:**</sub></small>
-And I looked, and, behold, ye had sinned against the LORD your God, [and] had made you a molten calf: ye had turned aside quickly out of the way which the LORD had commanded you.
-<small><sub>**BSB:**</sub></small>
-And I saw how you had sinned against the LORD your God; you had made for yourselves a molten calf. You had turned aside quickly from the way that the LORD had commanded you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Deut.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.9.15|<< Deuteronomy 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.9.17|Deuteronomy 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

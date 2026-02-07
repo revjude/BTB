@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 The word  coming to Jeremiah from \[the\] <span class="smallcaps">lord</span> \[when\] Nebuchadnezzar king of Babylon, and all  his encamped army, and to all the kingdoms of the earth, to the ones under the dominion  of his hand, all the peoples waged war against Jerusalem, and against all the cities of Judah, saying, 
-<small><sub>**KJV:**</sub></small>
-The word which came unto Jeremiah from the LORD, when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth of his dominion, and all the people, fought against Jerusalem, and against all the cities thereof, saying,
-<small><sub>**BSB:**</sub></small>
-This is the word that came to Jeremiah from the LORD when Nebuchadnezzar king of Babylon, all his army, all the earthly kingdoms under his control, and all the other nations were fighting against Jerusalem and all its surrounding cities.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.34.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.33.26|<< Jeremiah 33:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.34.2|Jeremiah 34:2 >>]]</td></tr></table>
 
 | Translation | Greek |

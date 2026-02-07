@@ -1,12 +1,12 @@
-**Mark 14:41
-**<small><sub>**KJV:**</sub></small>
+**Mark 14:41**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he cometh the third time, and saith unto them, Sleep on now, and take [your] rest: it is enough, the hour is come; behold, the Son of man is betrayed into the hands of sinners.
 <small><sub>**BSB:**</sub></small>
 When Jesus returned the third time, He said, “Are you still sleeping and resting? That is enough! The hour has come. Look, the Son of Man is betrayed into the hands of sinners.
 <small><sub>**Literal:**</sub></small>
 And He comes the third time and says to them; Are you sleeping <the> still and taking your rest, It is enough, has come the hour; behold is delivered up the Son <the> of Man into the hands of the sinful.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.40|<< Mark 14:40]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.42|Mark 14:42 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | He comes |**<big>[[G2064\|ἔρχεται]]</big>**  |erchetai <small><sup>[[V-PNI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

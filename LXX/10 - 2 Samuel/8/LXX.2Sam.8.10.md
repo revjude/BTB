@@ -1,10 +1,7 @@
 **LXX 2 Samuel 8:10** 
 <small><sub>**LXX:**</sub></small>
 And Toi sent Joram  his son to king David to ask him the \[things\] for peace, and congratulated him over which he waged war  with Hadadezer, and struck him, for he was an adversary  of Hadadezer. And in  his hands were items of silver, and items of gold, and items of brass. 
-<small><sub>**KJV:**</sub></small>
-Then Toi sent Joram his son unto king David, to salute him, and to bless him, because he had fought against Hadadezer, and smitten him: for Hadadezer had wars with Toi. And [Joram] brought with him vessels of silver, and vessels of gold, and vessels of brass:
-<small><sub>**BSB:**</sub></small>
-he sent his son Joram to greet King David and bless him for fighting and defeating Hadadezer, who had been at war with Toi. Joram brought with him articles of silver and gold and bronze,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.8.9|<< 2 Samuel 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.8.11|2 Samuel 8:11 >>]]</td></tr></table>
 
 | Translation | Greek |

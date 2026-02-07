@@ -1,4 +1,4 @@
-**Jeremiah 35:5** 
+**Jeremiah 35:5**<big><big>[[Jer.35.1 The Obedience of the Rechabites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I set before the sons of the house of the Rechabites pots full of wine, and cups, and I said unto them, Drink ye wine.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then I set pitchers full of wine and some cups before the men of the house of th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.4|<< Jeremiah 35:4]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.6|Jeremiah 35:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I put  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5414H\|אֶתֵּ֞ן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'e.Ten<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֣י]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

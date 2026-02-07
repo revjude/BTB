@@ -1,4 +1,4 @@
-**Genesis 40:15** 
+**Genesis 40:15**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For I was kidnapped from the land of the Hebrews, and even here I have done noth
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.14|<< Genesis 40:14]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.16|Genesis 40:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | certainly \<to be stolen>  |**<big>&#8207;[[H1589\|גֻנֹּ֣ב]]&#8207; </big>**| gu.No<small><sup>[[HVPaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

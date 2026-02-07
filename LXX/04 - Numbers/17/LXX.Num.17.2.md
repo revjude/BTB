@@ -1,10 +1,7 @@
 **LXX Numbers 17:2** 
 <small><sub>**LXX:**</sub></small>
 Speak to the sons of Israel! And take from them a rod! a rod according to \[the\] houses of \[the\] patrimony, from all  their rulers, according to \[the\] houses of their patrimony -- twelve rods. And for each inscribe the name upon  his rod! 
-<small><sub>**KJV:**</sub></small>
-Speak unto the children of Israel, and take of every one of them a rod according to the house of [their] fathers, of all their princes according to the house of their fathers twelve rods: write thou every man’s name upon his rod.
-<small><sub>**BSB:**</sub></small>
-“Speak to the Israelites and take from them twelve staffs, one from the leader of each tribe. Write each man’s name on his staff,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.17.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.17.1|<< Numbers 17:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.17.3|Numbers 17:3 >>]]</td></tr></table>
 
 | Translation | Greek |

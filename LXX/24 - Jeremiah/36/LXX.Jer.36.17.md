@@ -1,10 +1,7 @@
 **LXX Jeremiah 36:17** 
 <small><sub>**LXX:**</sub></small>
 And  they asked Baruch, saying, From what place did you write all  these words? 
-<small><sub>**KJV:**</sub></small>
-And they asked Baruch, saying, Tell us now, How didst thou write all these words at his mouth?
-<small><sub>**BSB:**</sub></small>
-“Tell us now,” they asked Baruch, “how did you write all these words? Was it at Jeremiah’s dictation?”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.36.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.36.16|<< Jeremiah 36:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.36.18|Jeremiah 36:18 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 7:22** 
 <small><sub>**LXX:**</sub></small>
 For I spoke not to  your fathers, and I did not give charge to them in \[the\] day I led them from out of \[the\] land of Egypt concerning whole burnt-offerings and sacrifices. 
-<small><sub>**KJV:**</sub></small>
-For I spake not unto your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning burnt offerings or sacrifices:
-<small><sub>**BSB:**</sub></small>
-For when I brought your fathers out of the land of Egypt, I did not merely command them about burnt offerings and sacrifices,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.7.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.21|<< Jeremiah 7:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.23|Jeremiah 7:23 >>]]</td></tr></table>
 
 | Translation | Greek |

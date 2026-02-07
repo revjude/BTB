@@ -1,12 +1,12 @@
-**Acts 16:34
-**<small><sub>**KJV:**</sub></small>
+**Acts 16:34**<big><big>[[Acts.16.25 The Conversion of the Jailer|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And when he had brought them into his house, he set meat before them, and rejoiced, believing in God with all his house.
 <small><sub>**BSB:**</sub></small>
 Then he brought them into his home and set a meal before them. So he and all his household rejoiced that they had come to believe in God.
 <small><sub>**Literal:**</sub></small>
 Having brought then them into the house of him he laid a table [for them] and rejoiced with all [his] household having believed <the> in God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.33|<< Acts 16:33]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.35|Acts 16:35 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Having brought |**<big>[[G0321\|ἀναγαγών]]</big>**  |anagagōn <small><sup>[[V-2AAP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

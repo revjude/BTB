@@ -1,12 +1,12 @@
-**John 20:4
-**<small><sub>**KJV:**</sub></small>
+**John 20:4**<big><big>[[John.20.1 The Resurrection|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre.
 <small><sub>**BSB:**</sub></small>
 The two were running together, but the other disciple outran Peter and reached the tomb first.
 <small><sub>**Literal:**</sub></small>
 Were running now the two together; and the other disciple ran ahead quicker <the> than Peter and came first to the tomb,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.3|<< John 20:3]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.5|John 20:5 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Were running |**<big>[[G5143\|ἔτρεχον]]</big>**  |etrechon <small><sup>[[V-IAI-3P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

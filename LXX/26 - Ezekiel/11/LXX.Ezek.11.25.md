@@ -1,10 +1,7 @@
 **LXX Ezekiel 11:25** 
 <small><sub>**LXX:**</sub></small>
 And I spoke to the captivity all the words of the <span class="smallcaps">lord</span> which he showed to me. 
-<small><sub>**KJV:**</sub></small>
-Then I spake unto them of the captivity all the things that the LORD had shewed me.
-<small><sub>**BSB:**</sub></small>
-I told the exiles everything the LORD had shown me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.11.24|<< Ezekiel 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.1|Ezekiel 12:1 >>]]</td></tr></table>
 
 | Translation | Greek |

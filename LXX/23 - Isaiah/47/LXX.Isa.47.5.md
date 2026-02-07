@@ -1,10 +1,7 @@
 **LXX Isaiah 47:5** 
 <small><sub>**LXX:**</sub></small>
 Sit being vexed! Enter into the darkness, O daughter of \[the\] Chaldeans! No longer should you be called, \[the\] strength of a kingdom. 
-<small><sub>**KJV:**</sub></small>
-Sit thou silent, and get thee into darkness, O daughter of the Chaldeans: for thou shalt no more be called, The lady of kingdoms.
-<small><sub>**BSB:**</sub></small>
-“Sit in silence and go into darkness, O Daughter of the Chaldeans. For you will no longer be called the queen of kingdoms.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.47.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.47.4|<< Isaiah 47:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.47.6|Isaiah 47:6 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX 2 Samuel 18:26** 
 <small><sub>**LXX:**</sub></small>
 And the watchman saw another man running. And the watchman yelled out at the gate, and said, Behold, another man \[is\] running alone. And the king said, Also this one is announcing good news. 
-<small><sub>**KJV:**</sub></small>
-And the watchman saw another man running: and the watchman called unto the porter, and said, Behold [another] man running alone. And the king said, He also bringeth tidings.
-<small><sub>**BSB:**</sub></small>
-the watchman saw another man running, and he called out to the gatekeeper, “Look! Another man is running alone!” “This one also brings good news,” said the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.18.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.25|<< 2 Samuel 18:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.27|2 Samuel 18:27 >>]]</td></tr></table>
 
 | Translation | Greek |

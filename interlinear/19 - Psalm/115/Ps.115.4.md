@@ -1,4 +1,4 @@
-**Psalms 115:4** 
+**Psalms 115:4**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their idols [are] silver and gold, the work of men’s hands.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Their idols are silver and gold, made by the hands of men.
 > $\quad$ referenced by: [[Rev.9.20|Rev 9:20]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | idols their  |**<big>&#8207;[[H6091\|עֲֽ֭צַבֵּי]]&#8207;&#8207;[[H9028\|הֶם]]&#8207; </big>**| 'aTza.bei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] silver  |**<big>&#8207;[[H3701G\|כֶּ֣סֶף]]&#8207; </big>**| Ke.sef<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

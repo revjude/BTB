@@ -1,4 +1,4 @@
-**Numbers 7:5** 
+**Numbers 7:5**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take [it] of them, that they may be to do the service of the tabernacle of the congregation; and thou shalt give them unto the Levites, to every man according to his service.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Take [it] of them, that they may be to do the service of the tabernacle of the c
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.4|<< Numbers 7:4]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.6|Numbers 7:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | take [them]  |**<big>&#8207;[[H3947H\|קַ֚ח]]&#8207; </big>**| kach<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from with \<the> them  |**<big>&#8207;[[H9006\|מֵֽ]]&#8207;&#8207;[[H0854\|אִתָּ֔]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'i.Ta<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Psalms 44:19** (44:20)
+**Psalms 44:19**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ But You have crushed us in the lair of jackals; You have covered us with deepest
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.18|<< Psalms 44:18]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.20|Psalms 44:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֣י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have crushed us  |**<big>&#8207;[[H1794\|דִ֭כִּיתָ]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| Di.ki.ta.<small><sup>[[HVpp2ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

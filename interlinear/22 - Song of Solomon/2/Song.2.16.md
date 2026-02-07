@@ -1,4 +1,4 @@
-**Song of Solomon 2:16** 
+**Song of Solomon 2:16**<big><big>[[Song.2.16 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My beloved [is] mine, and I [am] his: he feedeth among the lilies.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ My beloved is mine and I am his; he pastures his flock among the lilies.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.15|<< Song of Solomon 2:15]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.17|Song of Solomon 2:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lover my  |**<big>&#8207;[[H1730G\|דּוֹדִ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| do.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belongs] to me  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

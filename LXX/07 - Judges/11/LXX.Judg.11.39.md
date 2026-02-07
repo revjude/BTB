@@ -1,10 +1,7 @@
 **LXX Judges 11:39** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after the end of the two months, that she returned to  her father, and Jephthah completed  his vow which he vowed. And she did not know a man. And it became an order in Israel, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at the end of two months, that she returned unto her father, who did with her [according] to his vow which he had vowed: and she knew no man. And it was a custom in Israel,
-<small><sub>**BSB:**</sub></small>
-After two months, she returned to her father, and he did to her as he had vowed. And she had never had relations with a man. So it has become a custom in Israel<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.38|<< Judges 11:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.40|Judges 11:40 >>]]</td></tr></table>
 
 | Translation | Greek |

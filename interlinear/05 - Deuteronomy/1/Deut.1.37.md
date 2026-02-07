@@ -1,4 +1,4 @@
-**Deuteronomy 1:37** 
+**Deuteronomy 1:37**<big><big>[[Deut.1.34 Israel’s Penalty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also the LORD was angry with me for your sakes, saying, Thou also shalt not go in thither.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The LORD was also angry with me on your account, and He said, “Not even you sh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.36|<< Deuteronomy 1:36]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.38|Deuteronomy 1:38 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | also  |**<big>&#8207;[[H1571\|גַּם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| gam-<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with me  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H9030\|י֙]]&#8207; </big>**| b<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**2 Samuel 20:10** 
+**2 Samuel 20:10**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Amasa took no heed to the sword that [was] in Joab’s hand: so he smote him therewith in the fifth [rib], and shed out his bowels to the ground, and struck him not again; and he died. So Joab and Abishai his brother pursued after Sheba the son of Bichri.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Amasa was not on guard against the dagger in Joab’s hand, and Joab stabbed him
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.9|<< 2 Samuel 20:9]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.11|2 Samuel 20:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Amasa  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H6021G\|עֲמָשָׂ֨א]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.ma.Sa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |

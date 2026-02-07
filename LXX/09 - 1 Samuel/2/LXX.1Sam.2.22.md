@@ -1,10 +1,7 @@
 **LXX 1 Samuel 2:22** 
 <small><sub>**LXX:**</sub></small>
 And Eli \[was\] an old man, exceedingly. And he heard what his sons did all the sons of Israel, and that his sons went to bed with the women  standing by the doors of the tent of the testimony. 
-<small><sub>**KJV:**</sub></small>
-Now Eli was very old, and heard all that his sons did unto all Israel; and how they lay with the women that assembled [at] the door of the tabernacle of the congregation.
-<small><sub>**BSB:**</sub></small>
-Now Eli was very old, and he heard about everything his sons were doing to all Israel and how they were sleeping with the women who served at the entrance to the Tent of Meeting.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Sam.2.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.2.21|<< 1 Samuel 2:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.2.23|1 Samuel 2:23 >>]]</td></tr></table>
 
 | Translation | Greek |

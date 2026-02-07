@@ -1,10 +1,7 @@
 **LXX Judges 2:16** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> raised up judges, and \[the\] <span class="smallcaps">lord</span> delivered them from \[the\] hand of the ones despoiling them. And  they obeyed not their judges, 
-<small><sub>**KJV:**</sub></small>
-Nevertheless the LORD raised up judges, which delivered them out of the hand of those that spoiled them.
-<small><sub>**BSB:**</sub></small>
-Then the LORD raised up judges, who saved them from the hands of those who plundered them.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.2.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.2.15|<< Judges 2:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.2.17|Judges 2:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Judges 2:16** is...

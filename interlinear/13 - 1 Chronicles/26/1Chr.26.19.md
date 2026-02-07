@@ -1,4 +1,4 @@
-**1 Chronicles 26:19** 
+**1 Chronicles 26:19**<big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the divisions of the porters among the sons of Kore, and among the sons of Merari.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ These were the divisions of the gatekeepers who were descendants of Korah and Me
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.18|<< 1 Chronicles 26:18]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.20|1 Chronicles 26:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | these  |**<big>&#8207;[[H0428\|אֵ֗לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] [the] divisions of  |**<big>&#8207;[[H4256\|מַחְלְקוֹת֙]]&#8207; </big>**| mach.le.kOt<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

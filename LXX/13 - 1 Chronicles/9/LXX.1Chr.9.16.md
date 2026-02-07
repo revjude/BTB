@@ -1,10 +1,7 @@
 **LXX 1 Chronicles 9:16** 
 <small><sub>**LXX:**</sub></small>
 and Obadiah son of Shemiah, son of Galal, son of Jeduthun, and Berechiah son of Asa, son of Elkanah, the one dwelling in the courtyards  of \[the\] Netophathites. 
-<small><sub>**KJV:**</sub></small>
-And Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun, and Berechiah the son of Asa, the son of Elkanah, that dwelt in the villages of the Netophathites.
-<small><sub>**BSB:**</sub></small>
-Obadiah son of Shemaiah, the son of Galal, the son of Jeduthun; and Berechiah son of Asa, the son of Elkanah, who lived in the villages of the Netophathites.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Chr.9.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.9.15|<< 1 Chronicles 9:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.9.17|1 Chronicles 9:17 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Lamentations 1:10** 
+**Lamentations 1:10**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The adversary hath spread out his hand upon all her pleasant things: for she hath seen [that] the heathen entered into her sanctuary, whom thou didst command [that] they should not enter into thy congregation.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The adversary has seized all her treasures. For she has seen the nations enter h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.9|<< Lamentations 1:9]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.11|Lamentations 1:11 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | hand his  |**<big>&#8207;[[H3027G\|יָד]]&#8207;&#8207;[[H9023\|וֹ֙]]&#8207; </big>**| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has spread out  |**<big>&#8207;[[H6566\|פָּ֣רַשׂ]]&#8207; </big>**| Pa.ras<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

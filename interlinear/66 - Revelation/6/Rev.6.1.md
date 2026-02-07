@@ -1,12 +1,12 @@
-**Revelation 6:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 6:1**<big><big>[[Rev.6.1 The First Seal：The White Horse|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see.
 <small><sub>**BSB:**</sub></small>
 Then I watched as the Lamb opened one of the seven seals, and I heard one of the four living creatures say in a voice like thunder, “Come!”
 <small><sub>**Literal:**</sub></small>
 And I watched when opened the Lamb one of the seven seals and I heard one of the four living creatures saying like a voice of thunder; Come and do heed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.14|<< Revelation 5:14]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.2|Revelation 6:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|Καὶ]]</big>**  |Kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I watched |**<big>[[G1492H\|εἶδον]]</big>**  |eidon <small><sup>[[V-2AAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

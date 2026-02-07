@@ -1,4 +1,4 @@
-**2 Chronicles 13:3** 
+**2 Chronicles 13:3**<big><big>[[2Chr.13.1 Abijah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abijah set the battle in array with an army of valiant men of war, [even] four hundred thousand chosen men: Jeroboam also set the battle in array against him with eight hundred thousand chosen men, [being] mighty men of valour.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Abijah went into battle with an army of 400,000 chosen men, while Jeroboam drew 
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.2|<< 2 Chronicles 13:2]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.4|2 Chronicles 13:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he bound  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0631\|יֶּאְסֹ֨ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye'.Sor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Abijah  |**<big>&#8207;[[H0029I\|אֲבִיָּ֜ה]]&#8207; </big>**| 'a.vi.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

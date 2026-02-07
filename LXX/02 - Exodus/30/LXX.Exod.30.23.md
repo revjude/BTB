@@ -1,10 +1,7 @@
 **LXX Exodus 30:23** 
 <small><sub>**LXX:**</sub></small>
 And you take spices, the flower of choice myrrh -- five hundred shekels, and sweet smelling cinnamon  half of this -- two hundred and fifty, and sweet smelling calamus -- two hundred fifty, 
-<small><sub>**KJV:**</sub></small>
-Take thou also unto thee principal spices, of pure myrrh five hundred [shekels], and of sweet cinnamon half so much, [even] two hundred and fifty [shekels], and of sweet calamus two hundred and fifty [shekels],
-<small><sub>**BSB:**</sub></small>
-“Take the finest spices: 500 shekels of liquid myrrh, half that amount (250 shekels) of fragrant cinnamon, 250 shekels of fragrant cane,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.30.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.30.22|<< Exodus 30:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.30.24|Exodus 30:24 >>]]</td></tr></table>
 
 | Translation | Greek |

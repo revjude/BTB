@@ -1,10 +1,7 @@
 **LXX Exodus 32:34** 
 <small><sub>**LXX:**</sub></small>
 And now, proceed, and guide  this people into the place which I told to you! Behold,  my angel shall go forth before your face, and in whatever day I should visit, I will bring upon them  their sin. 
-<small><sub>**KJV:**</sub></small>
-Therefore now go, lead the people unto [the place] of which I have spoken unto thee: behold, mine Angel shall go before thee: nevertheless in the day when I visit I will visit their sin upon them.
-<small><sub>**BSB:**</sub></small>
-Now go, lead the people to the place I described. Behold, My angel shall go before you. But on the day I settle accounts, I will punish them for their sin.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.32.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.32.33|<< Exodus 32:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.32.35|Exodus 32:35 >>]]</td></tr></table>
 
 | Translation | Greek |

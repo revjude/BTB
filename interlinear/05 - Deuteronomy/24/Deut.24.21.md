@@ -1,4 +1,4 @@
-**Deuteronomy 24:21** 
+**Deuteronomy 24:21**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou gatherest the grapes of thy vineyard, thou shalt not glean [it] afterward: it shall be for the stranger, for the fatherless, and for the widow.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When you gather the grapes of your vineyard, you must not go over the vines agai
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.20|<< Deuteronomy 24:20]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.22|Deuteronomy 24:22 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֤י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will gather grapes  |**<big>&#8207;[[H1219\|תִבְצֹר֙]]&#8207; </big>**| tiv.Tzor<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

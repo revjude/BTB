@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 In the days of Pekah king of Israel came Tiglath-pileser king \[of the\] Assyrians, and he took  Ijon, and  Abel-beth-maachah, and  Janoah, and  Kenez, and  Hazor, and  Gilead, and  Galilee, all \[the\] land of Naphtali, and he resettled them among Assyria. 
-<small><sub>**KJV:**</sub></small>
-In the days of Pekah king of Israel came Tiglathpileser king of Assyria, and took Ijon, and Abelbethmaachah, and Janoah, and Kedesh, and Hazor, and Gilead, and Galilee, all the land of Naphtali, and carried them captive to Assyria.
-<small><sub>**BSB:**</sub></small>
-In the days of Pekah king of Israel, Tiglath-pileser king of Assyria came and captured Ijon, Abel-beth-maacah, Janoah, Kedesh, Hazor, Gilead, and Galilee, including all the land of Naphtali, and he took the people as captives to Assyria.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.15.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.15.28|<< 2 Kings 15:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.15.30|2 Kings 15:30 >>]]</td></tr></table>
 
 | Translation | Greek |

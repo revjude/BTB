@@ -1,10 +1,7 @@
 **LXX Isaiah 8:3** 
 <small><sub>**LXX:**</sub></small>
 And I drew near to the prophetess; and she conceived in \[the\] womb, and gave birth to a son. And \[the\] <span class="smallcaps">lord</span> said to me, Call  his name, Quickly Despoil, Swiftly Plunder. 
-<small><sub>**KJV:**</sub></small>
-And I went unto the prophetess; and she conceived, and bare a son. Then said the LORD to me, Call his name Mahershalalhashbaz.
-<small><sub>**BSB:**</sub></small>
-And I had relations with the prophetess, and she conceived and gave birth to a son. The LORD said to me, “Name him Maher-shalal-hash-baz.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.2|<< Isaiah 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.4|Isaiah 8:4 >>]]</td></tr></table>
 
 | Translation | Greek |

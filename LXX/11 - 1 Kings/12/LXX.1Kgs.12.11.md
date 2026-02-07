@@ -1,10 +1,7 @@
 **LXX 1 Kings 12:11** 
 <small><sub>**LXX:**</sub></small>
 And now,  my father saddled you with a heavy neck yoke, and I will add unto  your neck yoke.  My father corrected you with whips, but I will correct you with scorpions. 
-<small><sub>**KJV:**</sub></small>
-And now whereas my father did lade you with a heavy yoke, I will add to your yoke: my father hath chastised you with whips, but I will chastise you with scorpions.
-<small><sub>**BSB:**</sub></small>
-Whereas my father burdened you with a heavy yoke, I will add to your yoke. Whereas my father scourged you with whips, I will scourge you with scorpions.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.12.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.12.10|<< 1 Kings 12:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.12.12|1 Kings 12:12 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Proverbs 19:5** 
 <small><sub>**LXX:**</sub></small>
 A lying witness be not unpunished; and the one accusing unjustly shall not escape. 
-<small><sub>**KJV:**</sub></small>
-A false witness shall not be unpunished, and [he that] speaketh lies shall not escape.
-<small><sub>**BSB:**</sub></small>
-A false witness will not go unpunished, and one who utters lies will not escape.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.19.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.19.4|<< Proverbs 19:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.19.6|Proverbs 19:6 >>]]</td></tr></table>
 
 | Translation | Greek |

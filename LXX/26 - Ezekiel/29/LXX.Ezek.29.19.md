@@ -1,10 +1,7 @@
 **LXX Ezekiel 29:19** 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says Adonai \[the\] <span class="smallcaps">lord</span>; Behold, I give \[to\] Nebuchadnezzar king of Babylon the land of Egypt; and he shall despoil  her spoils, and he shall plunder  her plunder; and it will be \[the\] wage  for his force. 
-<small><sub>**KJV:**</sub></small>
-Therefore thus saith the Lord GOD; Behold, I will give the land of Egypt unto Nebuchadrezzar king of Babylon; and he shall take her multitude, and take her spoil, and take her prey; and it shall be the wages for his army.
-<small><sub>**BSB:**</sub></small>
-Therefore this is what the Lord GOD says: I will give the land of Egypt to Nebuchadnezzar king of Babylon, who will carry off its wealth, seize its spoil, and remove its plunder. This will be the wages for his army.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.29.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.29.18|<< Ezekiel 29:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.29.20|Ezekiel 29:20 >>]]</td></tr></table>
 
 | Translation | Greek |

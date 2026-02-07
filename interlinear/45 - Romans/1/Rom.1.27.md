@@ -1,12 +1,12 @@
-**Romans 1:27
-**<small><sub>**KJV:**</sub></small>
+**Romans 1:27**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet.
 <small><sub>**BSB:**</sub></small>
 Likewise, the men abandoned natural relations with women and burned with lust for one another. Men committed indecent acts with other men and received in themselves the due penalty for their error.
 <small><sub>**Literal:**</sub></small>
 Likewise then also the males having left the natural use of the female were inflamed in the desire of them toward one another, males with males the shame working out, and the recompense which was fitting of the error of them in themselves receiving.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.26|<< Romans 1:26]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.28|Romans 1:28 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Likewise |**<big>[[G3668\|ὁμοίως]]</big>**  |homoiōs <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | then |**<big>[[G5037\|τε]]</big>**  |te <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,4 +1,4 @@
-**Malachi 3:7** 
+**Malachi 3:7**<big><big>[[Mal.3.6 Robbing God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even from the days of your fathers ye are gone away from mine ordinances, and have not kept [them]. Return unto me, and I will return unto you, saith the LORD of hosts. But ye said, Wherein shall we return?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ Yet from the days of your fathers, you have turned away from My statutes and hav
 > $\quad$ referenced by: [[Luke.3.10|Luke 3:10]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> from [the] days of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3117G\|ימֵ֨י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mi.<small><sup>[[HR]]</sup></small> Mei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ancestors your  |**<big>&#8207;[[H0001G\|אֲבֹתֵי]]&#8207;&#8207;[[H9026\|כֶ֜ם]]&#8207; </big>**| 'a.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

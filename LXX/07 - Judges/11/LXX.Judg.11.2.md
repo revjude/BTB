@@ -1,10 +1,7 @@
 **LXX Judges 11:2** 
 <small><sub>**LXX:**</sub></small>
 And the wife bore to Gilead himself sons. And the sons of the woman matured, and they cast out  Jephthah, and said to him, You shall not inherit among the house  of our father, for you are a son of a mistress woman. 
-<small><sub>**KJV:**</sub></small>
-And Gilead’s wife bare him sons; and his wife’s sons grew up, and they thrust out Jephthah, and said unto him, Thou shalt not inherit in our father’s house; for thou [art] the son of a strange woman.
-<small><sub>**BSB:**</sub></small>
-And Gilead’s wife bore him sons who grew up, drove Jephthah out, and said to him, “You shall have no inheritance in our father’s house, because you are the son of another woman.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Judg.11.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.11.1|<< Judges 11:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.11.3|Judges 11:3 >>]]</td></tr></table>
 
 | Translation | Greek |

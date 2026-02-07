@@ -1,4 +1,4 @@
-**Jeremiah 46:12** 
+**Jeremiah 46:12**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The nations have heard of thy shame, and thy cry hath filled the land: for the mighty man hath stumbled against the mighty, [and] they are fallen both together.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ The nations have heard of your shame, and your outcry fills the earth, because w
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.11|<< Jeremiah 46:11]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.13|Jeremiah 46:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | they will hear  |**<big>&#8207;[[H8085G\|שָׁמְע֤וּ]]&#8207; </big>**| sha.me.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | nations  |**<big>&#8207;[[H1471A\|גוֹיִם֙]]&#8207; </big>**| go.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

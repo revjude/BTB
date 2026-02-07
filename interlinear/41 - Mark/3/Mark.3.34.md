@@ -1,5 +1,5 @@
-**Mark 3:34
-**<small><sub>**KJV:**</sub></small>
+**Mark 3:34**<big><big>[[Mark.3.31 Jesus’ Mother and Brothers|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And he looked round about on them which sat about him, and said, Behold my mother and my brethren!
 <small><sub>**BSB:**</sub></small>
 Looking at those seated in a circle around Him, He said, “Here are My mother and My brothers!
@@ -10,7 +10,7 @@ And having looked around on those who around Him surrounding were sitting He say
 > $\quad$ alluding to: [[LXX.Ezek.33.30|Ezek 33:30-33]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | having looked around on |**<big>[[G4017\|περιβλεψάμενος]]</big>**  |periblepsamenos <small><sup>[[V-AMP-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

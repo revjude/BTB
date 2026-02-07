@@ -1,12 +1,12 @@
-**1 Corinthians 6:19
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 6:19**<big><big>[[1Cor.6.18 The Temple of the Holy Spirit|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 What? know ye not that your body is the temple of the Holy Ghost [which is] in you, which ye have of God, and ye are not your own?
 <small><sub>**BSB:**</sub></small>
 Do you not know that your body is a temple of the Holy Spirit who is in you, whom you have received from God? You are not your own;
 <small><sub>**Literal:**</sub></small>
 Or surely you know that the body of you a temple of the in you Holy Spirit is whom you have from God? And not you are your own?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.18|<< 1 Corinthians 6:18]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.20|1 Corinthians 6:20 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Or |**<big>[[G2228\|ἢ]]</big>**  |ē <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | surely |**<big>[[G3756\|οὐκ]]</big>**  |ouk <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

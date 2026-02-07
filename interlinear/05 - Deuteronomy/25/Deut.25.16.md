@@ -1,4 +1,4 @@
-**Deuteronomy 25:16** 
+**Deuteronomy 25:16**<big><big>[[Deut.25.13 Standard Weights and Measures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For all that do such things, [and] all that do unrighteously, [are] an abomination unto the LORD thy God.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ For everyone who behaves dishonestly in regard to these things is detestable to 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.15|<< Deuteronomy 25:15]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.17|Deuteronomy 25:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | for  |**<big>&#8207;[[H3588A\|כִּ֧י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] abomination of  |**<big>&#8207;[[H8441\|תוֹעֲבַ֛ת]]&#8207; </big>**| to.'a.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

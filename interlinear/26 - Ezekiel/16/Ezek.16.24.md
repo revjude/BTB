@@ -1,4 +1,4 @@
-**Ezekiel 16:24** 
+**Ezekiel 16:24**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That] thou hast also built unto thee an eminent place, and hast made thee an high place in every street.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ you built yourself a mound and made yourself a lofty shrine in every public squa
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.23|<< Ezekiel 16:23]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.25|Ezekiel 16:25 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and you built  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1129\|תִּבְנִי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> tiv.ni-<small><sup>[[HVqw2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for yourself  |**<big>&#8207;[[H9005\|לָ֖]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| la<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

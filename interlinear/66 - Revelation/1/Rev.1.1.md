@@ -1,12 +1,12 @@
-**Revelation 1:1
-**<small><sub>**KJV:**</sub></small>
+**Revelation 1:1**<big><big>[[Rev.1.1 Prologue|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified [it] by his angel unto his servant John:
 <small><sub>**BSB:**</sub></small>
 This is the revelation of Jesus Christ, which God gave Him to show His servants what must soon come to pass. He made it known by sending His angel to His servant John,
 <small><sub>**Literal:**</sub></small>
 [The] revelation of Jesus Christ which gave to him <the> God to show to the bond-servants of Him what things it behooves to take place with speed And He signified [it] having sent through the angel of Him to the servant of Him John,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.25|<< Jude 1:25]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.2|Revelation 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [The] revelation |**<big>[[G0602\|Ἀποκάλυψις]]</big>**  |Apokalupsis <small><sup>[[N-NSF]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | of Jesus |**<big>[[G2424G\|Ἰησοῦ]]</big>**  |Iēsou <small><sup>[[N-GSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

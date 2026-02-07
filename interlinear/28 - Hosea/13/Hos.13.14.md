@@ -1,4 +1,4 @@
-**Hosea 13:14** 
+**Hosea 13:14**<big><big>[[Hos.13.9 Death and Resurrection|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ I will ransom them from the power of Sheol; I will redeem them from Death. Where
 > $\quad$ referenced by: [[1Cor.15.55|1Cor 15:55]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | from [the] hand of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3027H\|יַּ֤ד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Sheol  |**<big>&#8207;[[H7585\|שְׁאוֹל֙]]&#8207; </big>**| she.'Ol<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

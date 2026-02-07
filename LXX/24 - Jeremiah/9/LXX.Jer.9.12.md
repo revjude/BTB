@@ -1,10 +1,7 @@
 **LXX Jeremiah 9:12** 
 <small><sub>**LXX:**</sub></small>
 Who \[is\] the discerning man? then let him perceive this! And the word of \[the\] mouth of \[the\] <span class="smallcaps">lord</span> \[is\] with him, let him announce to you on account of why the land was destroyed! It was lit \[on fire\] as a wilderness, so as  to not travel through it. 
-<small><sub>**KJV:**</sub></small>
-Who [is] the wise man, that may understand this? and [who is he] to whom the mouth of the LORD hath spoken, that he may declare it, for what the land perisheth [and] is burned up like a wilderness, that none passeth through?
-<small><sub>**BSB:**</sub></small>
-Who is the man wise enough to understand this? To whom has the mouth of the LORD spoken, that he may explain it? Why is the land destroyed and scorched like a desert, so no one can pass through it?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.9.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.9.11|<< Jeremiah 9:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.9.13|Jeremiah 9:13 >>]]</td></tr></table>
 
 | Translation | Greek |

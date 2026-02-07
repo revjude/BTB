@@ -1,4 +1,4 @@
-**2 Samuel 7:16** 
+**2 Samuel 7:16**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Your house and kingdom will endure forever before Me, and your throne will be es
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.15|<< 2 Samuel 7:15]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.17|2 Samuel 7:17 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be established  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H0539\|נֶאְמַ֨ן]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ne'.Man<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | house your  |**<big>&#8207;[[H1004M\|בֵּיתְ]]&#8207;&#8207;[[H9021\|ךָ֧]]&#8207; </big>**| bei.te.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

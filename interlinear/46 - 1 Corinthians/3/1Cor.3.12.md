@@ -1,12 +1,12 @@
-**1 Corinthians 3:12
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 3:12**<big><big>[[1Cor.3.10 Christ Our Foundation|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble;
 <small><sub>**BSB:**</sub></small>
 If anyone builds on this foundation using gold, silver, precious stones, wood, hay, or straw,
 <small><sub>**Literal:**</sub></small>
 If now anyone builds upon <the> foundation this gold, silver, stones precious, wood, hay, straw,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.11|<< 1 Corinthians 3:11]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.13|1 Corinthians 3:13 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | If |**<big>[[G1487G\|εἰ]]</big>**  |ei <small><sup>[[COND]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δέ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

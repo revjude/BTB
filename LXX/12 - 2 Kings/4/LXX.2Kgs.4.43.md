@@ -1,10 +1,7 @@
 **LXX 2 Kings 4:43** 
 <small><sub>**LXX:**</sub></small>
 And his minister said, What, should I give before this hundred men? And he said, Give to the people, and let them eat! for thus says \[the\] <span class="smallcaps">lord</span>, They shall eat, and shall leave \[over\]. 
-<small><sub>**KJV:**</sub></small>
-And his servitor said, What, should I set this before an hundred men? He said again, Give the people, that they may eat: for thus saith the LORD, They shall eat, and shall leave [thereof].
-<small><sub>**BSB:**</sub></small>
-But his servant asked, “How am I to set twenty loaves before a hundred men?” “Give it to the people to eat,” said Elisha, “for this is what the LORD says: ‘They will eat and have some left over.’”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Kgs.4.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.4.42|<< 2 Kings 4:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.4.44|2 Kings 4:44 >>]]</td></tr></table>
 
 | Translation | Greek |

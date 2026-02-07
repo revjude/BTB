@@ -1,10 +1,7 @@
 **LXX Ezekiel 18:17** 
 <small><sub>**LXX:**</sub></small>
 and turned his hand from injustice, \[and\] did not take \[money from\] interest and usury, \[and\] executed righteousness, and went by my orders; he shall not come to an end by the iniquities  of his father; to life he shall live. 
-<small><sub>**KJV:**</sub></small>
-[That] hath taken off his hand from the poor, [that] hath not received usury nor increase, hath executed my judgments, hath walked in my statutes; he shall not die for the iniquity of his father, he shall surely live.
-<small><sub>**BSB:**</sub></small>
-He withholds his hand from harming the poor and takes no interest or usury. He keeps My ordinances and follows My statutes. Such a man will not die for his father’s iniquity. He will surely live.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.18.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.18.16|<< Ezekiel 18:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.18.18|Ezekiel 18:18 >>]]</td></tr></table>
 
 | Translation | Greek |

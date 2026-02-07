@@ -1,12 +1,12 @@
-**Matthew 10:33
-**<small><sub>**KJV:**</sub></small>
+**Matthew 10:33**<big><big>[[Matt.10.32 Confessing Christ|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But whosoever shall deny me before men, him will I also deny before my Father which is in heaven.
 <small><sub>**BSB:**</sub></small>
 But whoever denies Me before men, I will also deny him before My Father in heaven.
 <small><sub>**Literal:**</sub></small>
 Whoever now maybe may deny Me before <the> men, will deny I myself also him before the Father of Mine who [is] in the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.32|<< Matthew 10:32]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.34|Matthew 10:34 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Whoever |**<big>[[G3748\|ὅστις]]</big>**  |hostis <small><sup>[[R-NSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | now |**<big>[[G1161\|δ᾽]]</big>**  [^1] |d᾽ <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

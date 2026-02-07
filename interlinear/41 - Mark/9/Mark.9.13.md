@@ -1,12 +1,12 @@
-**Mark 9:13
-**<small><sub>**KJV:**</sub></small>
+**Mark 9:13**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I say unto you, That Elias is indeed come, and they have done unto him whatsoever they listed, as it is written of him.
 <small><sub>**BSB:**</sub></small>
 But I tell you that Elijah has indeed come, and they have done to him whatever they wished, just as it is written about him.”
 <small><sub>**Literal:**</sub></small>
 But I say to you that also Elijah has come, and they did to him as much as they were desiring even as it has been written of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.12|<< Mark 9:12]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.14|Mark 9:14 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | But |**<big>[[G0235\|ἀλλὰ]]</big>**  |alla <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | I say |**<big>[[G3004G\|λέγω]]</big>**  |legō <small><sup>[[V-PAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

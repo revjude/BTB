@@ -1,10 +1,7 @@
 **LXX Jeremiah 20:15** 
 <small><sub>**LXX:**</sub></small>
 Cursed \[is\] the man  announcing good news \[to\] my father, saying, There was birthed to you a male \[child\], they are making merry. 
-<small><sub>**KJV:**</sub></small>
-Cursed [be] the man who brought tidings to my father, saying, A man child is born unto thee; making him very glad.
-<small><sub>**BSB:**</sub></small>
-Cursed be the man who brought my father the news, saying, “A son is born to you,” bringing him great joy.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.20.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.20.14|<< Jeremiah 20:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.20.16|Jeremiah 20:16 >>]]</td></tr></table>
 
 | Translation | Greek |

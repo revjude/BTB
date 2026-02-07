@@ -1,10 +1,7 @@
 **LXX Ezekiel 32:17** 
 <small><sub>**LXX:**</sub></small>
 And it happened in the twelfth year, in \[the\] fifteenth of the month, \[the\] word \[of the\] <span class="smallcaps">lord</span> came to me saying, 
-<small><sub>**KJV:**</sub></small>
-It came to pass also in the twelfth year, in the fifteenth [day] of the month, [that] the word of the LORD came unto me, saying,
-<small><sub>**BSB:**</sub></small>
-In the twelfth year, on the fifteenth day of the month, the word of the LORD came to me, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ezek.32.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.32.16|<< Ezekiel 32:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.32.18|Ezekiel 32:18 >>]]</td></tr></table>
 
 | Translation | Greek |

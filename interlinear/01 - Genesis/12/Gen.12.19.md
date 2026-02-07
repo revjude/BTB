@@ -1,4 +1,4 @@
-**Genesis 12:19** 
+**Genesis 12:19**<big><big>[[Gen.12.10 Abram and Sarai in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why saidst thou, She [is] my sister? so I might have taken her to me to wife: now therefore behold thy wife, take [her], and go thy way.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Why did you say, ‘She is my sister,’ so that I took her as my wife? Now then
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.18|<< Genesis 12:18]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.20|Genesis 12:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<to> why?  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H4100\|מָ֤ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | did you say  |**<big>&#8207;[[H0559\|אָמַ֙רְתָּ֙]]&#8207; </big>**| 'a.Mar.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

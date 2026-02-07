@@ -1,10 +1,7 @@
 **LXX Job 36:2** 
 <small><sub>**LXX:**</sub></small>
 Wait for me a little more! that I shall teach you. For there is still speech in me. 
-<small><sub>**KJV:**</sub></small>
-Suffer me a little, and I will shew thee that [I have] yet to speak on God’s behalf.
-<small><sub>**BSB:**</sub></small>
-“Bear with me a little longer, and I will show you that there is more to be said on God’s behalf.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.36.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.36.1|<< Job 36:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.36.3|Job 36:3 >>]]</td></tr></table>
 
 | Translation | Greek |

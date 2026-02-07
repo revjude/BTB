@@ -1,4 +1,4 @@
-**Numbers 26:56** 
+**Numbers 26:56**<big><big>[[Num.26.52 Inheritance by Lot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to the lot shall the possession thereof be divided between many and few.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Each inheritance is to be divided by lot among the larger and smaller tribes.”
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.56|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.55|<< Numbers 26:55]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.57|Numbers 26:57 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] mouth of  |**<big>&#8207;[[H6310K\|פִּי֙]]&#8207; </big>**| pi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

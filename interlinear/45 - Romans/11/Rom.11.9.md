@@ -1,5 +1,5 @@
-**Romans 11:9
-**<small><sub>**KJV:**</sub></small>
+**Romans 11:9**<big><big>[[Rom.11.1 A Remnant Chosen by Grace|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:
 <small><sub>**BSB:**</sub></small>
 And David says: “May their table become a snare and a trap, a stumbling block and a retribution to them.
@@ -10,7 +10,7 @@ And David says: should be the table of them for a snare and for a trap and for a
 > $\quad$ referencing: [[LXX.Ps.69.22|Ps 69:22-23]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | David |**<big>[[G1138\|Δαυὶδ]]</big>**  [^1] [^2] |Dauid <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

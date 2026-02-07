@@ -1,10 +1,7 @@
 **LXX Micah 1:2** 
 <small><sub>**LXX:**</sub></small>
 Hear, O peoples, all \[the\] words! and take heed, O earth, and all the ones in it! Even \[the\] <span class="smallcaps">lord</span> God will be among you for a testimony -- \[the\] <span class="smallcaps">lord</span> from out of his holy house. 
-<small><sub>**KJV:**</sub></small>
-Hear, all ye people; hearken, O earth, and all that therein is: and let the Lord GOD be witness against you, the Lord from his holy temple.
-<small><sub>**BSB:**</sub></small>
-Hear, O peoples, all of you; listen, O earth, and everyone in it! May the Lord GOD bear witness against you, the Lord from His holy temple.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.1|<< Micah 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.3|Micah 1:3 >>]]</td></tr></table>
 
 | Translation | Greek |

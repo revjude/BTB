@@ -1,12 +1,12 @@
-**John 17:14
-**<small><sub>**KJV:**</sub></small>
+**John 17:14**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 I have given them thy word; and the world hath hated them, because they are not of the world, even as I am not of the world.
 <small><sub>**BSB:**</sub></small>
 I have given them Your word and the world has hated them. For they are not of the world, just as I am not of the world.
 <small><sub>**Literal:**</sub></small>
 I myself have given to them the word of You, and the world hated them, because not they are of the world even as I myself not am of the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.13|<< John 17:13]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.15|John 17:15 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | have given |**<big>[[G1325\|δέδωκα]]</big>**  |dedōka <small><sup>[[V-RAI-1S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

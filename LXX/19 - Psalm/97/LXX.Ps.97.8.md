@@ -1,10 +1,7 @@
 **LXX Psalm 97:8** 
 <small><sub>**LXX:**</sub></small>
 Zion heard and was glad; and the daughters of Judea exulted because of  your judgments, O <span class="smallcaps">lord</span>. 
-<small><sub>**KJV:**</sub></small>
-Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O LORD.
-<small><sub>**BSB:**</sub></small>
-Zion hears and rejoices, and the towns of Judah exult because of Your judgments, O LORD.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.97.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.97.7|<< Psalm 97:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.97.9|Psalm 97:9 >>]]</td></tr></table>
 
 | Translation | Greek |

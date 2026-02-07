@@ -1,4 +1,4 @@
-**Psalms 25:5** 
+**Psalms 25:5**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lead me in thy truth, and teach me: for thou [art] the God of my salvation; on thee do I wait all the day.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Guide me in Your truth and teach me, for You are the God of my salvation; all da
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.4|<< Psalms 25:4]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.6|Psalms 25:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | lead me  |**<big>&#8207;[[H1869\|הַדְרִ֘יכֵ֤]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| had.Ri.Khe.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in truth your  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H0571H\|אֲמִתֶּ֨]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| va.<small><sup>[[HR]]</sup></small> 'a.mi.Te.<small><sup>[[HNcfsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

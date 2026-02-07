@@ -1,12 +1,12 @@
-**2 Corinthians 3:5
-**<small><sub>**KJV:**</sub></small>
+**2 Corinthians 3:5**<big><big>[[2Cor.3.1 Ministers of a New Covenant|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency [is] of God;
 <small><sub>**BSB:**</sub></small>
 Not that we are competent in ourselves to claim that anything comes from us, but our competence comes from God.
 <small><sub>**Literal:**</sub></small>
 Not for from ourselves sufficient we are to reckon anything as of ourselves, but the sufficiency of us [is] of <the> God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.4|<< 2 Corinthians 3:4]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.6|2 Corinthians 3:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Not |**<big>[[G3756\|οὐχ]]</big>**  |ouch <small><sup>[[PRT-N]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | for |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

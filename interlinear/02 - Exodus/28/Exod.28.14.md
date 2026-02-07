@@ -1,4 +1,4 @@
-**Exodus 28:14** 
+**Exodus 28:14**<big><big>[[Exod.28.6 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And two chains [of] pure gold at the ends; [of] wreathen work shalt thou make them, and fasten the wreathen chains to the ouches.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ and two chains of pure gold, made of braided cord work; and attach these chains 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.13|<< Exodus 28:13]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.15|Exodus 28:15 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and two  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8147\|שְׁתֵּ֤י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Tei<small><sup>[[HAcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | chains of  |**<big>&#8207;[[H8333\|שַׁרְשְׁרֹת֙]]&#8207; </big>**| shar.she.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

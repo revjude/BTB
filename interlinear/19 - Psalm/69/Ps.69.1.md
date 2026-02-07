@@ -1,12 +1,12 @@
-**Psalms 69:1** (69:2)
+**Psalms 69:1**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
-To the chief Musician upon Shoshannim, [A Psalm] of David. Save me, O God; for the waters are come in unto [my] soul.
+Save me, O God; for the waters are come in unto [my] soul.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. To the tune of “Lilies.” Of David. Save me, O God, for the waters are up to my neck.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.0|<< Psalms 69:0]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.2|Psalms 69:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | save me  |**<big>&#8207;[[H3467\|הוֹשִׁיעֵ֥]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ho.shi.'E.<small><sup>[[HVhv2ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֑ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

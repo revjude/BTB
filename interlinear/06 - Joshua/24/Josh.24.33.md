@@ -1,4 +1,4 @@
-**Joshua 24:33** 
+**Joshua 24:33**<big><big>[[Josh.24.29 Joshua’s Death and Burial|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Eleazar the son of Aaron died; and they buried him in a hill [that pertained to] Phinehas his son, which was given him in mount Ephraim.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Eleazar son of Aaron also died, and they buried him at Gibeah, which had been gi
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.32|<< Joshua 24:32]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.1|Judges 1:1 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Eleazar  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0499G\|אֶלְעָזָ֥ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'el.'a.Zar<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּֽן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

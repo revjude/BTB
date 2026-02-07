@@ -1,10 +1,7 @@
 **LXX Jeremiah 28:9** 
 <small><sub>**LXX:**</sub></small>
 The prophet  prophesying for peace, \[in the\] coming \[to pass\] of the word, they shall know the prophet whom \[the\] <span class="smallcaps">lord</span> sent to them in trust. 
-<small><sub>**KJV:**</sub></small>
-The prophet which prophesieth of peace, when the word of the prophet shall come to pass, [then] shall the prophet be known, that the LORD hath truly sent him.
-<small><sub>**BSB:**</sub></small>
-As for the prophet who prophesies peace, only if the word of the prophet comes true will the prophet be recognized as one the LORD has truly sent.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.28.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.28.8|<< Jeremiah 28:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.28.10|Jeremiah 28:10 >>]]</td></tr></table>
 
 | Translation | Greek |

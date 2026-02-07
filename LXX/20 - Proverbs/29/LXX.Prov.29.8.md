@@ -1,10 +1,7 @@
 **LXX Proverbs 29:8** 
 <small><sub>**LXX:**</sub></small>
 Mischievous men burn away a city; but wise \[men\] turn away anger. 
-<small><sub>**KJV:**</sub></small>
-Scornful men bring a city into a snare: but wise [men] turn away wrath.
-<small><sub>**BSB:**</sub></small>
-Mockers inflame a city, but the wise turn away anger.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Prov.29.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.29.7|<< Proverbs 29:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.29.9|Proverbs 29:9 >>]]</td></tr></table>
 
 | Translation | Greek |

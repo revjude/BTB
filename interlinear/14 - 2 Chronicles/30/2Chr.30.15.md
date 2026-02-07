@@ -1,4 +1,4 @@
-**2 Chronicles 30:15** 
+**2 Chronicles 30:15**<big><big>[[2Chr.30.13 Hezekiah Celebrates the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they killed the passover on the fourteenth [day] of the second month: and the priests and the Levites were ashamed, and sanctified themselves, and brought in the burnt offerings into the house of the LORD.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ And on the fourteenth day of the second month they slaughtered the Passover lamb
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.14|<< 2 Chronicles 30:14]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.16|2 Chronicles 30:16 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they slaughtered  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7819A\|יִּשְׁחֲט֣וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yish.cha.Tu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the passover  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6453\|פֶּ֔סַח]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Pe.sach<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Jeremiah 48:32** 
 <small><sub>**LXX:**</sub></small>
 As weeping of Jazer, I shall weep over you. O grapevine of Sibmah, your vine branches went through \[the\] sea; they touched city of Jazer. Upon your autumn fruits and upon your grape gatherers ruin fell. 
-<small><sub>**KJV:**</sub></small>
-O vine of Sibmah, I will weep for thee with the weeping of Jazer: thy plants are gone over the sea, they reach [even] to the sea of Jazer: the spoiler is fallen upon thy summer fruits and upon thy vintage.
-<small><sub>**BSB:**</sub></small>
-I will weep for you, O vine of Sibmah, more than I weep for Jazer. Your tendrils have extended to the sea; they reach even to Jazer. The destroyer has descended on your summer fruit and grape harvest.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Jer.48.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.48.31|<< Jeremiah 48:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.48.33|Jeremiah 48:33 >>]]</td></tr></table>
 
 | Translation | Greek |

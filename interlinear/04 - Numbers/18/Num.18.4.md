@@ -1,4 +1,4 @@
-**Numbers 18:4** 
+**Numbers 18:4**<big><big>[[Num.18.1 Duties of Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall be joined unto thee, and keep the charge of the tabernacle of the congregation, for all the service of the tabernacle: and a stranger shall not come nigh unto you.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ They are to join you and attend to the duties of the Tent of Meeting, doing all 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.3|<< Numbers 18:3]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.5|Numbers 18:5 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and they will join themselves  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3867A\|נִלְו֣וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nil.Vu<small><sup>[[HVNq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H5921A\|עָלֶ֔י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,4 +1,4 @@
-**Malachi 2:3** 
+**Malachi 2:3**<big><big>[[Mal.2.1 A Warning to the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will corrupt your seed, and spread dung upon your faces, [even] the dung of your solemn feasts; and [one] shall take you away with it.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Behold, I will rebuke your descendants, and I will spread dung on your faces, th
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.2.2|<< Malachi 2:2]]</td><td align="center" style="border:none;">[[Mal.2|Malachi 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.4|Malachi 2:4 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | here I  |**<big>&#8207;[[H2005\|הִנְ]]&#8207;&#8207;[[H9040\|נִ֨י]]&#8207; </big>**| hi.<small><sup>[[HTj]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] about to rebuke  |**<big>&#8207;[[H1605\|גֹעֵ֤ר]]&#8207; </big>**| go.'Er<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

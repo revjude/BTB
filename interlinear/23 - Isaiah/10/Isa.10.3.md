@@ -1,4 +1,4 @@
-**Isaiah 10:3** 
+**Isaiah 10:3**<big><big>[[Isa.10.1 Woe to Tyrants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what will ye do in the day of visitation, and in the desolation [which] shall come from far? to whom will ye flee for help? and where will ye leave your glory?
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ What will you do on the day of reckoning when devastation comes from afar? To wh
 > $\quad$ referenced by: [[1Pet.2.12|1Pet 2:12]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and what?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4100\|מַֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will you do  |**<big>&#8207;[[H6213A\|תַּעֲשׂוּ֙]]&#8207; </big>**| ta.'a.Su<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

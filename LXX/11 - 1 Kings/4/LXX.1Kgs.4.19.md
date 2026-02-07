@@ -1,10 +1,7 @@
 **LXX 1 Kings 4:19** 
 <small><sub>**LXX:**</sub></small>
 Geber son of Uri \[was\] in the land of Gilead of Sihon of the king of the Amorites, and Og king of Bashan; and Naseb in \[the\] land of Judah \[was\] one. 
-<small><sub>**KJV:**</sub></small>
-Geber the son of Uri [was] in the country of Gilead, [in] the country of Sihon king of the Amorites, and of Og king of Bashan; and [he was] the only officer which [was] in the land.
-<small><sub>**BSB:**</sub></small>
-Geber son of Uri in the land of Gilead, including the territories of Sihon king of the Amorites and of Og king of Bashan. There was also one governor in the land of Judah.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.4.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.18|<< 1 Kings 4:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.20|1 Kings 4:20 >>]]</td></tr></table>
 
 | Translation | Greek |

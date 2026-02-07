@@ -1,10 +1,7 @@
 **LXX Numbers 21:25** 
 <small><sub>**LXX:**</sub></small>
 And Israel took all  these cities, and Israel dwelt in all the cities of the Amorites, in Heshbon, and in all the \[ones\] falling in with it. 
-<small><sub>**KJV:**</sub></small>
-And Israel took all these cities: and Israel dwelt in all the cities of the Amorites, in Heshbon, and in all the villages thereof.
-<small><sub>**BSB:**</sub></small>
-Israel captured all the cities of the Amorites and occupied them, including Heshbon and all its villages.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.21.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.21.24|<< Numbers 21:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.21.26|Numbers 21:26 >>]]</td></tr></table>
 
 | Translation | Greek |

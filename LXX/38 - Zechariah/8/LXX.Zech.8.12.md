@@ -1,10 +1,7 @@
 **LXX Zechariah 8:12** 
 <small><sub>**LXX:**</sub></small>
 but I will show peace; The grapevine shall give  her fruit, and the earth will give  her produce, and the heaven will give  its dew; and I will allot to the remnants  of my people all these \[things\]. 
-<small><sub>**KJV:**</sub></small>
-For the seed [shall be] prosperous; the vine shall give her fruit, and the ground shall give her increase, and the heavens shall give their dew; and I will cause the remnant of this people to possess all these [things].
-<small><sub>**BSB:**</sub></small>
-“For the seed will be prosperous, the vine will yield its fruit, the ground will yield its produce, and the skies will give their dew. To the remnant of this people I will give all these things as an inheritance.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.8.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.8.11|<< Zechariah 8:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.8.13|Zechariah 8:13 >>]]</td></tr></table>
 
 | Translation | Greek |

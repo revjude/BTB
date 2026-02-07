@@ -4,10 +4,7 @@
 
 <small><sub>**LXX:**</sub></small>
 And came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> \[the\] second \[time\] to Haggai the prophet, \[the\] fourth and twentieth day of the month, saying, 
-<small><sub>**KJV:**</sub></small>
-And again the word of the LORD came unto Haggai in the four and twentieth [day] of the month, saying,
-<small><sub>**BSB:**</sub></small>
-For the second time that day, the twenty-fourth day of the month, the word of the LORD came to Haggai, saying,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hag.2.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.2.19|<< Haggai 2:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.21|Haggai 2:21 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,4 +1,4 @@
-**Isaiah 45:12** 
+**Isaiah 45:12**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have made the earth, and created man upon it: I, [even] my hands, have stretched out the heavens, and all their host have I commanded.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ It is I who made the earth and created man upon it. It was My hands that stretch
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.11|<< Isaiah 45:11]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.13|Isaiah 45:13 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I  |**<big>&#8207;[[H0595\|אָֽנֹכִי֙]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I made  |**<big>&#8207;[[H6213H\|עָשִׂ֣יתִי]]&#8207; </big>**| 'a.Si.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

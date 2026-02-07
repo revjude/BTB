@@ -1,4 +1,4 @@
-**Psalms 34:19** (34:20)
+**Psalms 34:19**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many [are] the afflictions of the righteous: but the LORD delivereth him out of them all.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Many are the afflictions of the righteous, but the LORD delivers him from them a
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.18|<< Psalms 34:18]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.20|Psalms 34:20 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [are] many  |**<big>&#8207;[[H7227A\|רַ֭בּוֹת]]&#8207; </big>**| Ra.bot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] troubles of  |**<big>&#8207;[[H7451C\|רָע֣וֹת]]&#8207; </big>**| ra.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

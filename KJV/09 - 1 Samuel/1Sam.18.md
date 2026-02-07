@@ -1,10 +1,10 @@
 (KJV) **1 Samuel 18**<small><small>[^1]</small></small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17|<< 1 Samuel 17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19|1 Samuel 19 >>]]</td></tr></table>
 
-***Jonathan Befriends David*** ^bsb695
+<big><big>[[1Sam.18.1 Jonathan Befriends David|⥃]]</big></big>***Jonathan Befriends David***
 
  $\quad$ <span class="startversemarker">[</span>**[[1Sam.18.1|1]]**<span class="endversemarker">]</span> And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan<small><small>[^2]</small></small> was knit with the soul of David, and Jonathan loved him<small><small>[^3]</small></small> as his own soul.<small><small>[^4]</small></small> <span class="startversemarker">[</span>**[[1Sam.18.2|2]]**<span class="endversemarker">]</span> And Saul took him<small><small>[^5]</small></small> that day, and would let him go no more home to his father’s house. <span class="startversemarker">[</span>**[[1Sam.18.3|3]]**<span class="endversemarker">]</span> Then Jonathan and David made a covenant<small><small>[^6]</small></small>, because he loved him as his own soul. <span class="startversemarker">[</span>**[[1Sam.18.4|4]]**<span class="endversemarker">]</span> And Jonathan stripped himself<small><small>[^7]</small></small> of the robe that \[was\] upon him, and gave it to David, and his garments, even to his sword, and to his bow, and to his girdle.
 
-***Saul Envies David*** ^bsb696
+<big><big>[[1Sam.18.5 Saul Envies David|⥃]]</big></big>***Saul Envies David***
 
  
 
@@ -14,7 +14,7 @@ $\quad$ <span class="startversemarker">[</span>**[[1Sam.18.10|10]]**<span class=
 
 $\quad$ <span class="startversemarker">[</span>**[[1Sam.18.12|12]]**<span class="endversemarker">]</span> And Saul was afraid<small><small>[^26]</small></small> of David, because the <span class="smallcaps">Lord<small><small>[^27]</small></small></span> was with him, and was departed<small><small>[^28]</small></small> from Saul. <span class="startversemarker">[</span>**[[1Sam.18.13|13]]**<span class="endversemarker">]</span> Therefore Saul removed<small><small>[^29]</small></small> him from him, and made him his captain over a thousand; and he went out<small><small>[^30]</small></small> and came in before the people. <span class="startversemarker">[</span>**[[1Sam.18.14|14]]**<span class="endversemarker">]</span> And David behaved<small><small>[^31]</small></small> himself wisely in all his ways; and the <span class="smallcaps">Lord<small><small>[^32]</small></small></span> \[was\] with him. <span class="startversemarker">[</span>**[[1Sam.18.15|15]]**<span class="endversemarker">]</span> Wherefore when Saul saw that he behaved himself very wisely<small><small>[^33]</small></small>, he was afraid of him. <span class="startversemarker">[</span>**[[1Sam.18.16|16]]**<span class="endversemarker">]</span> But all Israel<small><small>[^34]</small></small> and Judah loved David, because he went<small><small>[^35]</small></small> out and came in before them.
 
-***David Marries Michal*** ^bsb697
+<big><big>[[1Sam.18.17 David Marries Michal|⥃]]</big></big>***David Marries Michal***
 
  
 

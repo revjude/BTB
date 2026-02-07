@@ -1,4 +1,4 @@
-**Psalms 127:2** 
+**Psalms 127:2**<big><big>[[Ps.127.1 Children Are a Heritage from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] vain for you to rise up early, to sit up late, to eat the bread of sorrows: [for] so he giveth his beloved sleep.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In vain you rise early and stay up late, toiling for bread to eat—for He gives
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.127.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.127.1|<< Psalms 127:1]]</td><td align="center" style="border:none;">[[Ps.127|Psalms 127]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.127.3|Psalms 127:3 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | vanity  |**<big>&#8207;[[H7723H\|שָׁ֤וְא]]&#8207; </big>**| shav'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [belongs] to you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֨ם]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |

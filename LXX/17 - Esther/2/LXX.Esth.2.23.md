@@ -1,10 +1,7 @@
 **LXX Esther 2:23** 
 <small><sub>**LXX:**</sub></small>
 And the king examined the two eunuchs, and he hanged them. And the king gave order to write for a memorial in the royal library about the good-will of Mordecai with commendation. 
-<small><sub>**KJV:**</sub></small>
-And when inquisition was made of the matter, it was found out; therefore they were both hanged on a tree: and it was written in the book of the chronicles before the king.
-<small><sub>**BSB:**</sub></small>
-After the report had been investigated and verified, both officials were hanged on the gallows. And all this was recorded in the Book of the Chronicles in the presence of the king.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Esth.2.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.22|<< Esther 2:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.3.1|Esther 3:1 >>]]</td></tr></table>
 
 | Translation | Greek |

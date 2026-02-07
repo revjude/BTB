@@ -1,4 +1,4 @@
-**Genesis 50:5** 
+**Genesis 50:5**<big><big>[[Gen.50.1 Mourning and Burial for Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My father made me swear, saying, Lo, I die: in my grave which I have digged for me in the land of Canaan, there shalt thou bury me. Now therefore let me go up, I pray thee, and bury my father, and I will come again.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ my father made me swear an oath when he said, ‘I am about to die. You must bur
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.4|<< Genesis 50:4]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.6|Genesis 50:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | father my  |**<big>&#8207;[[H0001G\|אָבִ֞]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he made swear an oath me  |**<big>&#8207;[[H7650\|הִשְׁבִּיעַ֣]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| hish.bi.'A.<small><sup>[[HVhp3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

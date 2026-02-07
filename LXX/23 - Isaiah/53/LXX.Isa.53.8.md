@@ -1,10 +1,7 @@
 **LXX Isaiah 53:8** 
 <small><sub>**LXX:**</sub></small>
 In the humiliation, \[in\] his equity, he was lifted away.  Who shall describe his generation? For his life was lifted away from the earth. Because of the lawless deeds  of my people he was led unto death. 
-<small><sub>**KJV:**</sub></small>
-He was taken from prison and from judgment: and who shall declare his generation? for he was cut off out of the land of the living: for the transgression of my people was he stricken.
-<small><sub>**BSB:**</sub></small>
-By oppression and judgment He was taken away, and who can recount His descendants? For He was cut off from the land of the living; He was stricken for the transgression of My people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.53.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.53.7|<< Isaiah 53:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.53.9|Isaiah 53:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Isaiah 53:8** is...

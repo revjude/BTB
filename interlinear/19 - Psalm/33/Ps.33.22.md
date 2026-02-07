@@ -1,4 +1,4 @@
-**Psalms 33:22** 
+**Psalms 33:22**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let thy mercy, O LORD, be upon us, according as we hope in thee.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ May Your loving devotion rest on us, O LORD, as we put our hope in You.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.21|<< Psalms 33:21]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.0|Psalms 34:0 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | may it be  |**<big>&#8207;[[H1961\|יְהִֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ye.hi-<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | covenant loyalty your  |**<big>&#8207;[[H2617A\|חַסְדְּ]]&#8207;&#8207;[[H9021\|ךָ֣]]&#8207; </big>**| chas.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX 2 Chronicles 10:16** 
 <small><sub>**LXX:**</sub></small>
 And all Israel saw that the king did not hearken to them. And the people answered to the king, saying, What \[is\] our portion with David, and \[the\] inheritance with \[the\] son of Jesse? Run to  your tents, O Israel! Now look  to your \[own\] house, David! And all Israel went to  its tents. 
-<small><sub>**KJV:**</sub></small>
-And when all Israel [saw] that the king would not hearken unto them, the people answered the king, saying, What portion have we in David? and [we have] none inheritance in the son of Jesse: every man to your tents, O Israel: [and] now, David, see to thine own house. So all Israel went to their tents.
-<small><sub>**BSB:**</sub></small>
-When all Israel saw that the king had refused to listen to them, they answered the king: “What portion do we have in David, and what inheritance in the son of Jesse? To your tents, O Israel! Look now to your own house, O David!” So all the Israelites went home,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Chr.10.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.10.15|<< 2 Chronicles 10:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.10.17|2 Chronicles 10:17 >>]]</td></tr></table>
 
 | Translation | Greek |

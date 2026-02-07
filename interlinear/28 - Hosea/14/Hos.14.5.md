@@ -1,4 +1,4 @@
-**Hosea 14:5** (14:6)
+**Hosea 14:5**<big><big>[[Hos.14.4 A Promise of God’s Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will be as the dew unto Israel: he shall grow as the lily, and cast forth his roots as Lebanon.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ I will be like the dew to Israel; he will blossom like the lily and take root li
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.4|<< Hosea 14:4]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.6|Hosea 14:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I will be  |**<big>&#8207;[[H1961\|אֶהְיֶ֤ה]]&#8207; </big>**| 'eh.Yeh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like the dew  |**<big>&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H2919\|טַּל֙]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> Tal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

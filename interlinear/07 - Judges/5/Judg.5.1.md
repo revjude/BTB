@@ -1,4 +1,4 @@
-**Judges 5:1** 
+**Judges 5:1**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then sang Deborah and Barak the son of Abinoam on that day, saying,
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ On that day Deborah and Barak son of Abinoam sang this song:
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.24|<< Judges 4:24]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.2|Judges 5:2 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and she sang  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7891\|תָּ֣שַׁר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Ta.shar<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Deborah  |**<big>&#8207;[[H1683H\|דְּבוֹרָ֔ה]]&#8207; </big>**| de.vo.Rah<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

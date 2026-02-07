@@ -1,4 +1,4 @@
-**1 Samuel 2:9** 
+**1 Samuel 2:9**<big><big>[[1Sam.2.1 Hannah’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He guards the steps of His faithful ones, but the wicked perish in darkness; for
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.8|<< 1 Samuel 2:8]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.10|1 Samuel 2:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [the] feet of  |**<big>&#8207;[[H7272\|רַגְלֵ֤י]]&#8207; </big>**| rag.Lei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | faithful [people] his  [^2]|**<big>&#8207;[[H2623\|חֲסִידָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**[^3] | cha.si.do<small><sup>[[HAampc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |

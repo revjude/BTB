@@ -1,4 +1,4 @@
-**Exodus 18:8** 
+**Exodus 18:8**<big><big>[[Exod.18.1 The Visit of Jethro|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses told his father in law all that the LORD had done unto Pharaoh and to the Egyptians for Israel’s sake, [and] all the travail that had come upon them by the way, and [how] the LORD delivered them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Then Moses recounted to his father-in-law all that the LORD had done to Pharaoh 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.7|<< Exodus 18:7]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.9|Exodus 18:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he recounted  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5608A\|יְסַפֵּ֤ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.sa.Per<small><sup>[[HVpw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁה֙]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

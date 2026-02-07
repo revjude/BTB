@@ -1,4 +1,4 @@
-**Ezekiel 47:17** 
+**Ezekiel 47:17**<big><big>[[Ezek.47.13 The Borders of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border from the sea shall be Hazarenan, the border of Damascus, and the north northward, and the border of Hamath. And [this is] the north side.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ So the border will run from the Sea to Hazar-enan, along the northern border of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.16|<< Ezekiel 47:16]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.18|Ezekiel 47:18 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it will be  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H1961\|הָיָ֨ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] boundary  |**<big>&#8207;[[H1366G\|גְב֜וּל]]&#8207; </big>**| ge.Vul<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Isaiah 3:9** 
 <small><sub>**LXX:**</sub></small>
 Because now their glory was abased, and the shame  of their face withstood them,  and they announced their sin as Sodom, and revealed \[it\]. Woe  to their soul, because they consulted wicked counsel against themselves; 
-<small><sub>**KJV:**</sub></small>
-The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide [it] not. Woe unto their soul! for they have rewarded evil unto themselves.
-<small><sub>**BSB:**</sub></small>
-The expression on their faces testifies against them, and like Sodom they flaunt their sin; they do not conceal it. Woe to them, for they have brought disaster upon themselves.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.3.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.3.8|<< Isaiah 3:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.3.10|Isaiah 3:10 >>]]</td></tr></table>
 
 | Translation | Greek |

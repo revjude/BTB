@@ -1,4 +1,4 @@
-**1 Kings 4:23** (5:3)
+**1 Kings 4:23**<big><big>[[1Kgs.4.20 Solomon’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ ten fat oxen, twenty range oxen, and a hundred sheep, as well as deer, gazelles,
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.22|<< 1 Kings 4:22]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.24|1 Kings 4:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | ten  |**<big>&#8207;[[H6235\|עֲשָׂרָ֨ה]]&#8207; </big>**| 'a.sa.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cattle  |**<big>&#8207;[[H1241\|בָקָ֜ר]]&#8207; </big>**| va.Kar<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

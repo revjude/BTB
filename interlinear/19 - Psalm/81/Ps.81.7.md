@@ -1,4 +1,4 @@
-**Psalms 81:7** (81:8)
+**Psalms 81:7**<big><big>[[Ps.81.1 Sing for Joy to God Our Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah. Selah.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You called out in distress, and I rescued you; I answered you from the cloud of 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.81.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.81.6|<< Psalms 81:6]]</td><td align="center" style="border:none;">[[Ps.81|Psalms 81]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.81.8|Psalms 81:8 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | in \<the> trouble  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H6869B\|צָּרָ֥ה]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> tza.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you called out  |**<big>&#8207;[[H7121G\|קָרָ֗אתָ]]&#8207; </big>**| ka.Ra.ta<small><sup>[[HVqp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

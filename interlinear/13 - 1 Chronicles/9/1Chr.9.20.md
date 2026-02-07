@@ -1,4 +1,4 @@
-**1 Chronicles 9:20** 
+**1 Chronicles 9:20**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Phinehas the son of Eleazar was the ruler over them in time past, [and] the LORD [was] with him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ In earlier times Phinehas son of Eleazar had been in charge of the gatekeepers, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.19|<< 1 Chronicles 9:19]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.21|1 Chronicles 9:21 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and Phinehas  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6372G\|פִֽינְחָ֣ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fin.Chas<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

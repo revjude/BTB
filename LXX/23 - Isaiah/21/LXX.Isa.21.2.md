@@ -1,10 +1,7 @@
 **LXX Isaiah 21:2** 
 <small><sub>**LXX:**</sub></small>
 so a fearful  and hard vision was announced to me; the one disregarding disregards; the one acting lawlessly acts lawlessly. The Elamites \[are\] upon me, and the ambassadors of the Persians come against me. Now I shall moan and shall comfort myself. 
-<small><sub>**KJV:**</sub></small>
-A grievous vision is declared unto me; the treacherous dealer dealeth treacherously, and the spoiler spoileth. Go up, O Elam: besiege, O Media; all the sighing thereof have I made to cease.
-<small><sub>**BSB:**</sub></small>
-A dire vision is declared to me: “The traitor still betrays, and the destroyer still destroys. Go up, O Elam! Lay siege, O Media! I will put an end to all her groaning.”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Isa.21.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.21.1|<< Isaiah 21:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.21.3|Isaiah 21:3 >>]]</td></tr></table>
 
 | Translation | Greek |

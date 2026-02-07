@@ -1,10 +1,7 @@
 **LXX Ruth 3:8** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass at  midnight, that the man was startled and disturbed; and behold, a woman slept at his feet. 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at midnight, that the man was afraid, and turned himself: and, behold, a woman lay at his feet.
-<small><sub>**BSB:**</sub></small>
-At midnight, Boaz was startled, turned over, and there lying at his feet was a woman!<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ruth.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.3.7|<< Ruth 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.9|Ruth 3:9 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 30:12** 
 <small><sub>**LXX:**</sub></small>
 But if in removing her husband should remove \[them\], in which ever day he should hear, all as many \[things\] as should come forth from out of  her lips concerning  her vows, and concerning the sets of limits  on  her life; it shall not remain to her,  her husband removed \[them\], and \[the\] <span class="smallcaps">lord</span> cleared her. 
-<small><sub>**KJV:**</sub></small>
-But if her husband hath utterly made them void on the day he heard [them; then] whatsoever proceeded out of her lips concerning her vows, or concerning the bond of her soul, shall not stand: her husband hath made them void; and the LORD shall forgive her.
-<small><sub>**BSB:**</sub></small>
-But if her husband nullifies them on the day he hears of them, then nothing that came from her lips, whether her vows or pledges, shall stand. Her husband has nullified them, and the LORD will absolve her.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.30.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.30.11|<< Numbers 30:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.30.13|Numbers 30:13 >>]]</td></tr></table>
 
 | Translation | Greek |

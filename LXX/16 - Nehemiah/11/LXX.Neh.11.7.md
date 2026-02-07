@@ -1,10 +1,7 @@
 **LXX Nehemiah 11:7** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the sons of Benjamin; Sallu son of Meshullam, son of Joed, son of Pedaiah, son of Kolaiah, son of Masseiah, son of Ithiel, son of Jesaiah. 
-<small><sub>**KJV:**</sub></small>
-And these [are] the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah.
-<small><sub>**BSB:**</sub></small>
-From the descendants of Benjamin: Sallu son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jeshaiah;<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Neh.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.6|<< Nehemiah 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.8|Nehemiah 11:8 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Numbers 15:23** 
 <small><sub>**LXX:**</sub></small>
 as \[the\] <span class="smallcaps">lord</span> gave orders for you by \[the\] hand of Moses, from the day of which \[the\] <span class="smallcaps">lord</span> gave orders to you and beyond unto  your generations; 
-<small><sub>**KJV:**</sub></small>
-[Even] all that the LORD hath commanded you by the hand of Moses, from the day that the LORD commanded [Moses], and henceforward among your generations;
-<small><sub>**BSB:**</sub></small>
-all that the LORD has commanded you through Moses from the day the LORD gave them and continuing through the generations to come—<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.15.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.15.22|<< Numbers 15:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.15.24|Numbers 15:24 >>]]</td></tr></table>
 
 | Translation | Greek |

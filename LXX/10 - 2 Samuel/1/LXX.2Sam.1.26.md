@@ -1,10 +1,7 @@
 **LXX 2 Samuel 1:26** 
 <small><sub>**LXX:**</sub></small>
 I ache over you, Jonathan, O my brother. You were beautiful to me, exceedingly; your affection to me caused wonder -- above \[the\] affection of women. 
-<small><sub>**KJV:**</sub></small>
-I am distressed for thee, my brother Jonathan: very pleasant hast thou been unto me: thy love to me was wonderful, passing the love of women.
-<small><sub>**BSB:**</sub></small>
-I grieve for you, Jonathan, my brother. You were delightful to me; your love to me was extraordinary, surpassing the love of women.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.1.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.1.25|<< 2 Samuel 1:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.1.27|2 Samuel 1:27 >>]]</td></tr></table>
 
 | Translation | Greek |

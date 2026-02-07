@@ -1,4 +1,4 @@
-**2 Samuel 13:23** 
+**2 Samuel 13:23**<big><big>[[2Sam.13.23 Absalom’s Revenge on Amnon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after two full years, that Absalom had sheepshearers in Baalhazor, which [is] beside Ephraim: and Absalom invited all the king’s sons.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Two years later, when Absalom’s sheepshearers were at Baal-hazor near Ephraim,
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.22|<< 2 Samuel 13:22]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.24|2 Samuel 13:24 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H1961\|יְהִי֙]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to two years  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8141\|שְׁנָתַ֣יִם]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> sh.na.Ta.yim<small><sup>[[HNcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |

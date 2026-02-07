@@ -1,4 +1,4 @@
-**Deuteronomy 33:9** 
+**Deuteronomy 33:9**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who said unto his father and to his mother, I have not seen him; neither did he acknowledge his brethren, nor knew his own children: for they have observed thy word, and kept thy covenant.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He said of his father and mother, ‘I do not consider them.’ He disregarded h
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.8|<< Deuteronomy 33:8]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.10|Deuteronomy 33:10 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | who said  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0559\|אֹמֵ֞ר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'o.Mer<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of father his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0001G\|אָבִ֤י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.Vi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

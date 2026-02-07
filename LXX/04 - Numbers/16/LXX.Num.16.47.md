@@ -1,10 +1,7 @@
 **LXX Numbers 16:47** 
 <small><sub>**LXX:**</sub></small>
 And Aaron took just as Moses spoke to him; and he ran into the congregation, for already had commenced the devastation among the people. And he put the incense, and he made atonement for the people. 
-<small><sub>**KJV:**</sub></small>
-And Aaron took as Moses commanded, and ran into the midst of the congregation; and, behold, the plague was begun among the people: and he put on incense, and made an atonement for the people.
-<small><sub>**BSB:**</sub></small>
-So Aaron took the censer as Moses had ordered and ran into the midst of the assembly. And seeing that the plague had begun among the people, he offered the incense and made atonement for the people.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.16.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.16.46|<< Numbers 16:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.16.48|Numbers 16:48 >>]]</td></tr></table>
 
 | Translation | Greek |

@@ -1,10 +1,7 @@
 **LXX Zechariah 14:4** 
 <small><sub>**LXX:**</sub></small>
 And his feet shall stand in  that day upon the mount  of olives, the one over against Jerusalem according to \[the\] east; and the mount of olives shall split,  half of it towards \[the\] east and west, an exceedingly great chaos. And half of the mountain shall lean towards the north, and  half of it towards \[the\] south. 
-<small><sub>**KJV:**</sub></small>
-And his feet shall stand in that day upon the mount of Olives, which [is] before Jerusalem on the east, and the mount of Olives shall cleave in the midst thereof toward the east and toward the west, [and there shall be] a very great valley; and half of the mountain shall remove toward the north, and half of it toward the south.
-<small><sub>**BSB:**</sub></small>
-On that day His feet will stand on the Mount of Olives, east of Jerusalem, and the Mount of Olives will be split in two from east to west, forming a great valley, with half the mountain moving to the north and half to the south.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Zech.14.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.14.3|<< Zechariah 14:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.14.5|Zechariah 14:5 >>]]</td></tr></table>
 
 | Translation | Greek |

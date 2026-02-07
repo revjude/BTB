@@ -1,10 +1,7 @@
 **LXX 1 Kings 3:28** 
 <small><sub>**LXX:**</sub></small>
 And all Israel heard  this ordinance which the king passed judgment, and they feared from \[the\] presence of the king, for they knew that intellect of God \[was\] in him  to do justice. 
-<small><sub>**KJV:**</sub></small>
-And all Israel heard of the judgment which the king had judged; and they feared the king: for they saw that the wisdom of God [was] in him, to do judgment.
-<small><sub>**BSB:**</sub></small>
-When all Israel heard of the judgment the king had given, they stood in awe of him, for they saw that the wisdom of God was in him to administer justice.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.3.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.3.27|<< 1 Kings 3:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.1|1 Kings 4:1 >>]]</td></tr></table>
 
 | Translation | Greek |

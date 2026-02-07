@@ -1,12 +1,12 @@
-**Titus 1:5
-**<small><sub>**KJV:**</sub></small>
+**Titus 1:5**<big><big>[[Titus.1.5 Appointing Elders on Crete|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:
 <small><sub>**BSB:**</sub></small>
 The reason I left you in Crete was that you would set in order what was unfinished and appoint elders in every town, as I directed you.
 <small><sub>**Literal:**</sub></small>
 of this Because I left you in Crete, so that the [things] lacking you may set in order and may appoint in every town elders as I myself you directed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.4|<< Titus 1:4]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.6|Titus 1:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | of this |**<big>[[G3778\|Τούτου]]</big>**  |Toutou <small><sup>[[D-GSN]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | Because |**<big>[[G5484\|χάριν]]</big>**  |charin <small><sup>[[PREP]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

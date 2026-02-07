@@ -1,10 +1,7 @@
 **LXX Micah 1:13** 
 <small><sub>**LXX:**</sub></small>
 \[even\] noise of chariots and ones riding. Dwelling Lachish \[the\] head of sin to the daughter of Zion; for in you they found \[the\] impious deeds of Israel. 
-<small><sub>**KJV:**</sub></small>
-O thou inhabitant of Lachish, bind the chariot to the swift beast: she [is] the beginning of the sin to the daughter of Zion: for the transgressions of Israel were found in thee.
-<small><sub>**BSB:**</sub></small>
-Harness your chariot horses, O dweller of Lachish. You were the beginning of sin to the Daughter of Zion, for the transgressions of Israel were found in you.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mic.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.1.12|<< Micah 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.1.14|Micah 1:14 >>]]</td></tr></table>
 
 | Translation | Greek |

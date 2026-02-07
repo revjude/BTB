@@ -1,10 +1,7 @@
 **LXX 1 Kings 9:10** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after twenty years in which Solomon constructed the two houses, the house of \[the\] <span class="smallcaps">lord</span>, and the house of the king, 
-<small><sub>**KJV:**</sub></small>
-And it came to pass at the end of twenty years, when Solomon had built the two houses, the house of the LORD, and the king’s house,
-<small><sub>**BSB:**</sub></small>
-Now at the end of the twenty years during which Solomon built these two houses, the house of the LORD and the royal palace,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.9.9|<< 1 Kings 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.9.11|1 Kings 9:11 >>]]</td></tr></table>
 
 | Translation | Greek |

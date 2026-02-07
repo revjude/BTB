@@ -1,10 +1,7 @@
 **LXX Exodus 14:19** 
 <small><sub>**LXX:**</sub></small>
 And the angel of God lifted away, the one going before the camp of the sons of Israel, and he went at the rear. And lifted away also the column  of cloud from their sight, and it stood at the rear of them. 
-<small><sub>**KJV:**</sub></small>
-And the angel of God, which went before the camp of Israel, removed and went behind them; and the pillar of the cloud went from before their face, and stood behind them:
-<small><sub>**BSB:**</sub></small>
-And the angel of God, who had gone before the camp of Israel, withdrew and went behind them. The pillar of cloud also moved from before them and stood behind them,<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.14.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.14.18|<< Exodus 14:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.20|Exodus 14:20 >>]]</td></tr></table>
 
 | Translation | Greek |

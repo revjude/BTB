@@ -1,5 +1,5 @@
-**1 Peter 3:12
-**<small><sub>**KJV:**</sub></small>
+**1 Peter 3:12**<big><big>[[1Pet.3.8 Turning from Evil|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 For the eyes of the Lord [are] over the righteous, and his ears [are open] unto their prayers: but the face of the Lord [is] against them that do evil.
 <small><sub>**BSB:**</sub></small>
 For the eyes of the Lord are on the righteous, and His ears are inclined to their prayer. But the face of the Lord is against those who do evil.”
@@ -10,7 +10,7 @@ Because the eyes of [the] Lord [are] on [the] righteous, and [the] ears of Him t
 > $\quad$ referencing: [[LXX.Ps.34.12|Ps 34:12-16]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Because |**<big>[[G3754H\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | the |**<big>[[G3588\|οἵ]]</big>**  |oi <small><sup>[[T-NPM]]</sup></small> | <abbr title="TR">k</abbr> | |

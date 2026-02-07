@@ -1,4 +1,4 @@
-**Job 26:8** 
+**Job 26:8**<big><big>[[Job.26.1 Job：Who Can Understand God’s Majesty？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He bindeth up the waters in his thick clouds; and the cloud is not rent under them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ He wraps up the waters in His clouds, yet the clouds do not burst under their ow
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.26.7|<< Job 26:7]]</td><td align="center" style="border:none;">[[Job.26|Job 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.26.9|Job 26:9 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | [he] binds up  |**<big>&#8207;[[H6887B\|צֹרֵֽר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| tzo.rer-<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | waters  |**<big>&#8207;[[H4325G\|מַ֥יִם]]&#8207; </big>**| Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |

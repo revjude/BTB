@@ -1,10 +1,7 @@
 **LXX Exodus 4:31** 
 <small><sub>**LXX:**</sub></small>
 And the people believed, and rejoiced that God visited the sons of Israel, and that he saw their  affliction. And bowing, the people did obeisance. 
-<small><sub>**KJV:**</sub></small>
-And the people believed: and when they heard that the LORD had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped.
-<small><sub>**BSB:**</sub></small>
-and they believed. And when they heard that the LORD had attended to the Israelites and had seen their affliction, they bowed down and worshiped.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Exod.4.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.4.30|<< Exodus 4:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.5.1|Exodus 5:1 >>]]</td></tr></table>
 
 | Translation | Greek |

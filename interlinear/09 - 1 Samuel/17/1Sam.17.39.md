@@ -1,4 +1,4 @@
-**1 Samuel 17:39** 
+**1 Samuel 17:39**<big><big>[[1Sam.17.38 David Slays Goliath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David girded his sword upon his armour, and he assayed to go; for he had not proved [it]. And David said unto Saul, I cannot go with these; for I have not proved [them]. And David put them off him.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ David strapped his sword over the tunic and tried to walk, but he was not accust
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.38|<< 1 Samuel 17:38]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.40|1 Samuel 17:40 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he girded  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H2296\|יַּחְגֹּ֣ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yach.Gor<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֣ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,10 +1,7 @@
 **LXX Job 17:12** 
 <small><sub>**LXX:**</sub></small>
 I put night for day; \[the\] light is near from \[the\] face of darkness. 
-<small><sub>**KJV:**</sub></small>
-They change the night into day: the light [is] short because of darkness.
-<small><sub>**BSB:**</sub></small>
-They have turned night into day, making light seem near in the face of darkness.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.17.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.17.11|<< Job 17:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.17.13|Job 17:13 >>]]</td></tr></table>
 
 | Translation | Greek |

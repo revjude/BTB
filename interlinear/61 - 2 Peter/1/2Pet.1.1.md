@@ -1,12 +1,12 @@
-**2 Peter 1:1
-**<small><sub>**KJV:**</sub></small>
+**2 Peter 1:1**<big><big>[[2Pet.1.1 A Greeting from Peter|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:
 <small><sub>**BSB:**</sub></small>
 Simon Peter, a servant and apostle of Jesus Christ, To those who through the righteousness of our God and Savior Jesus Christ have received a faith as precious as ours:
 <small><sub>**Literal:**</sub></small>
 Simon Peter a servant and apostle of Jesus Christ To those equally precious with ours having obtained a faith through [the] righteousness of the God of us and Savior Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.14|<< 1 Peter 5:14]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.2|2 Peter 1:2 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | Simon [^1] |**<big>[[G4826K\|Συμεὼν]]</big>**  |Sumeōn <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+Treg+TR+Byz">NK(o)</abbr> | |
 | Peter |**<big>[[G4074G\|Πέτρος]]</big>**  |Petros <small><sup>[[N-NSM-P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

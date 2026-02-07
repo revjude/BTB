@@ -1,12 +1,12 @@
-**Matthew 3:5
-**<small><sub>**KJV:**</sub></small>
+**Matthew 3:5**<big><big>[[Matt.3.1 The Mission of John the Baptist|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,
 <small><sub>**BSB:**</sub></small>
 People went out to him from Jerusalem and all Judea and the whole region around the Jordan.
 <small><sub>**Literal:**</sub></small>
 At that time were going out to him Jerusalem and all <the> Judea and all the region around the Jordan,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.4|<< Matthew 3:4]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.6|Matthew 3:6 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | At that time |**<big>[[G5119\|Τότε]]</big>**  |Tote <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | were going out |**<big>[[G1607\|ἐξεπορεύετο]]</big>**  |exeporeueto <small><sup>[[V-INI-3S]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

@@ -1,10 +1,7 @@
 **LXX Psalm 119:175** 
 <small><sub>**LXX:**</sub></small>
 My soul shall live, and it shall praise you; and  your judgments shall help me. 
-<small><sub>**KJV:**</sub></small>
-Let my soul live, and it shall praise thee; and let thy judgments help me.
-<small><sub>**BSB:**</sub></small>
-Let me live to praise You; may Your judgments sustain me.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Ps.119.175|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.119.174|<< Psalm 119:174]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.119.176|Psalm 119:176 >>]]</td></tr></table>
 
 | Translation | Greek |

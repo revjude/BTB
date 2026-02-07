@@ -1,12 +1,12 @@
-**1 Corinthians 14:6
-**<small><sub>**KJV:**</sub></small>
+**1 Corinthians 14:6**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Now, brethren, if I come unto you speaking with tongues, what shall I profit you, except I shall speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine?
 <small><sub>**BSB:**</sub></small>
 Now, brothers, if I come to you speaking in tongues, how will I benefit you, unless I bring you some revelation or knowledge or prophecy or teaching?
 <small><sub>**Literal:**</sub></small>
 now however brothers, if I shall come to you in tongues speaking, what you will I profit, only unless to you I shall speak either in revelation or in knowledge or in prophecy or in teaching?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.5|<< 1 Corinthians 14:5]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.7|1 Corinthians 14:7 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | now [^1] |**<big>[[G3568\|Νῦν]]</big>**  |Nun <small><sup>[[ADV]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg">N(k)O</abbr> | |
 | however |**<big>[[G1161\|δέ,]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

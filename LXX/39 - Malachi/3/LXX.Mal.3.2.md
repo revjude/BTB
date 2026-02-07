@@ -1,10 +1,7 @@
 **LXX Malachi 3:2** 
 <small><sub>**LXX:**</sub></small>
 And who will endure \[the\] day of his entrance? Or who shall stand at  his apparition? For he enters as fire of a foundry furnace, and as lye of ones washing. 
-<small><sub>**KJV:**</sub></small>
-But who may abide the day of his coming? and who shall stand when he appeareth? for he [is] like a refiner’s fire, and like fullers’ soap:
-<small><sub>**BSB:**</sub></small>
-But who can endure the day of His coming? And who can stand when He appears? For He will be like a refiner’s fire, like a launderer’s soap.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Mal.3.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mal.3.1|<< Malachi 3:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mal.3.3|Malachi 3:3 >>]]</td></tr></table>
 
 | Translation | Greek |

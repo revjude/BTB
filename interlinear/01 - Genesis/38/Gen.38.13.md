@@ -1,4 +1,4 @@
-**Genesis 38:13** 
+**Genesis 38:13**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ When Tamar was told, “Your father-in-law is going up to Timnah to shear his sh
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.12|<< Genesis 38:12]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.14|Genesis 38:14 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it was told  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5046\|יֻּגַּ֥ד]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yu.Gad<small><sup>[[HVHw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Tamar  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8559G\|תָמָ֖ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ta.Mar<small><sup>[[HNpf]]</sup></small> | <abbr title="Leningrad">L</abbr> |

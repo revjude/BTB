@@ -1,10 +1,7 @@
 **LXX 1 Kings 2:19** 
 <small><sub>**LXX:**</sub></small>
 And Bath-sheba entered to  king Solomon to speak to him concerning Adonijah. And the king rose up to meet her, and he did obeisance to her, and he sat upon  his throne. And a throne was set \[for\] the mother of the king; and she sat on his right. 
-<small><sub>**KJV:**</sub></small>
-Bathsheba therefore went unto king Solomon, to speak unto him for Adonijah. And the king rose up to meet her, and bowed himself unto her, and sat down on his throne, and caused a seat to be set for the king’s mother; and she sat on his right hand.
-<small><sub>**BSB:**</sub></small>
-So Bathsheba went to King Solomon to speak to him for Adonijah. The king stood up to greet her, bowed to her, and sat down on his throne. Then the king had a throne brought for his mother, who sat down at his right hand.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[1Kgs.2.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.18|<< 1 Kings 2:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.20|1 Kings 2:20 >>]]</td></tr></table>
 
 | Translation | Greek |

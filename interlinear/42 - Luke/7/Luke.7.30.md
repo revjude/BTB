@@ -1,12 +1,12 @@
-**Luke 7:30
-**<small><sub>**KJV:**</sub></small>
+**Luke 7:30**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him.
 <small><sub>**BSB:**</sub></small>
 But the Pharisees and experts in the law rejected God’s purpose for themselves, because they had not been baptized by John.
 <small><sub>**Literal:**</sub></small>
 <the> but the Pharisees and the lawyers the counsel <the> of God rejected as to themselves not having been baptized by him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.29|<< Luke 7:29]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.31|Luke 7:31 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | \<the> |**<big>[[G3588\|οἱ]]</big>**  |hoi <small><sup>[[T-NPM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | but |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

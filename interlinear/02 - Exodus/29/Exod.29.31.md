@@ -1,4 +1,4 @@
-**Exodus 29:31** 
+**Exodus 29:31**<big><big>[[Exod.29.31 Food for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt take the ram of the consecration, and seethe his flesh in the holy place.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ You are to take the ram of ordination and boil its flesh in a holy place.
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.30|<< Exodus 29:30]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.32|Exodus 29:32 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֵ֛ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] ram of  |**<big>&#8207;[[H0352A\|אֵ֥יל]]&#8207; </big>**| 'eil<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |

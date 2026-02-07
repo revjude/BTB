@@ -1,4 +1,4 @@
-**Isaiah 48:5** 
+**Isaiah 48:5**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have even from the beginning declared [it] to thee; before it came to pass I shewed [it] thee: lest thou shouldest say, Mine idol hath done them, and my graven image, and my molten image, hath commanded them.
 <small><sub>**BSB:**</sub></small>
@@ -6,7 +6,7 @@ Therefore I declared it to you long ago; I announced it before it came to pass, 
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.4|<< Isaiah 48:4]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.6|Isaiah 48:6 >>]]</td></tr></table>
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and I declared [them]  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H5046\|אַגִּ֤יד]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.Gid<small><sup>[[HVhw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to you  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9031\|ךָ֙]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

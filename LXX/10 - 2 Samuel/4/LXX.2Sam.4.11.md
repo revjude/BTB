@@ -1,10 +1,7 @@
 **LXX 2 Samuel 4:11** 
 <small><sub>**LXX:**</sub></small>
 And now, wicked men killed a just man in  his house upon  his bed. And now, I will require  for his blood of your hand, and I will utterly destroy you from the earth. 
-<small><sub>**KJV:**</sub></small>
-How much more, when wicked men have slain a righteous person in his own house upon his bed? shall I not therefore now require his blood of your hand, and take you away from the earth?
-<small><sub>**BSB:**</sub></small>
-How much more, when wicked men kill a righteous man in his own house and on his own bed, shall I not now require his blood from your hands and remove you from the earth!”<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[2Sam.4.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.4.10|<< 2 Samuel 4:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.4.12|2 Samuel 4:12 >>]]</td></tr></table>
 
 | Translation | Greek |

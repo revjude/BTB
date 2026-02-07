@@ -1,5 +1,5 @@
-**Matthew 5:43
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:43**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.
 <small><sub>**BSB:**</sub></small>
 You have heard that it was said, ‘Love your neighbor’ and ‘Hate your enemy.’
@@ -10,7 +10,7 @@ You have heard that it was said; You will love the neighbour of you and will hat
 > $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | You have heard |**<big>[[G0191\|Ἠκούσατε]]</big>**  |Ēkousate <small><sup>[[V-AAI-2P]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | that |**<big>[[G3754G\|ὅτι]]</big>**  |hoti <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

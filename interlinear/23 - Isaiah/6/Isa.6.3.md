@@ -1,4 +1,4 @@
-**Isaiah 6:3** 
+**Isaiah 6:3**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And one cried unto another, and said, Holy, holy, holy, [is] the LORD of hosts: the whole earth [is] full of his glory.
 <small><sub>**BSB:**</sub></small>
@@ -10,7 +10,7 @@ And they were calling out to one another: “Holy, holy, holy is the LORD of Hos
 > $\quad$ referenced by: [[Rev.4.8|Rev 4:8]]
 
 
-| Translation | Hebrew/Aramaic | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and he called  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7121G\|קָרָ֨א]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ka.Ra'<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | this  |**<big>&#8207;[[H2088\|זֶ֤ה]]&#8207; </big>**| zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,12 +1,12 @@
-**Matthew 25:15
-**<small><sub>**KJV:**</sub></small>
+**Matthew 25:15**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey.
 <small><sub>**BSB:**</sub></small>
 To one he gave five talents, to another two talents, and to another one talent—each according to his own ability. And he went on his journey.
 <small><sub>**Literal:**</sub></small>
 And to one indeed he gave five talents, to one however two, to one however one, to each according to the [their] own ability; and he left the region. immediately<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.14|<< Matthew 25:14]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.16|Matthew 25:16 >>]]</td></tr></table>
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | And |**<big>[[G2532\|καὶ]]</big>**  |kai <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | to one |**<big>[[G3739\|ᾧ]]</big>**  |hō <small><sup>[[R-DSM]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

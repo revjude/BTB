@@ -1,10 +1,7 @@
 **LXX Numbers 26:37** 
 <small><sub>**LXX:**</sub></small>
 These \[are\] the peoples of Ephraim by their numbering -- two and thirty thousand and five hundred. These \[are\] the peoples \[of the\] sons of Joseph according to their peoples. 
-<small><sub>**KJV:**</sub></small>
-These [are] the families of the sons of Ephraim according to those that were numbered of them, thirty and two thousand and five hundred. These [are] the sons of Joseph after their families.
-<small><sub>**BSB:**</sub></small>
-These were the clans of Ephraim, and their registration numbered 32,500. These clans were the descendants of Joseph.<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Num.26.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.36|<< Numbers 26:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.38|Numbers 26:38 >>]]</td></tr></table>
 
 | Translation | Greek |

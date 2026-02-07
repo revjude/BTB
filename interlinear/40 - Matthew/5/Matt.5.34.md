@@ -1,5 +1,5 @@
-**Matthew 5:34
-**<small><sub>**KJV:**</sub></small>
+**Matthew 5:34**<big><big>[[Matt.5.33 Oaths and Vows|⥂]]</big></big>
+<small><sub>**KJV:**</sub></small>
 But I say unto you, Swear not at all; neither by heaven; for it is God’s throne:
 <small><sub>**BSB:**</sub></small>
 But I tell you not to swear at all: either by heaven, for it is God’s throne;
@@ -10,7 +10,7 @@ I myself however say to you not to swear at all, neither [swear] by <the> heaven
 > $\quad$ referencing: [[LXX.Isa.66.1|Isa 66:1]]
 
 
-| Translation | Greek | Transliteration<small><sup>\[morphology\]</sup></small> | Texts |
+| Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | I myself |**<big>[[G1473\|ἐγὼ]]</big>**  |egō <small><sup>[[P-1NS]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |
 | however |**<big>[[G1161\|δὲ]]</big>**  |de <small><sup>[[CONJ]]</sup></small> | <abbr title="NA28+NA27+Tyn+SBL+WH+Treg+TR+Byz">NKO</abbr> | |

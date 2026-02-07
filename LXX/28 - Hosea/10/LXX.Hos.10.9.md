@@ -1,10 +1,7 @@
 **LXX Hosea 10:9** 
 <small><sub>**LXX:**</sub></small>
 From of which \[time\] the hills \[existed\] Israel sinned; there they stood. No way should it overtake them in the hill -- war came upon the children of iniquity. 
-<small><sub>**KJV:**</sub></small>
-O Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.
-<small><sub>**BSB:**</sub></small>
-Since the days of Gibeah you have sinned, O Israel, and there you have remained. Did not the battle in Gibeah overtake the sons of iniquity?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Hos.10.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hos.10.8|<< Hosea 10:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hos.10.10|Hosea 10:10 >>]]</td></tr></table>
 
 | Translation | Greek |

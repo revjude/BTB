@@ -1,10 +1,7 @@
 **LXX Job 30:2** 
 <small><sub>**LXX:**</sub></small>
 And indeed, what \[profit\] \[is the\] strength of their hands to me? It was destroyed of them to completion. 
-<small><sub>**KJV:**</sub></small>
-Yea, whereto [might] the strength of their hands [profit] me, in whom old age was perished?
-<small><sub>**BSB:**</sub></small>
-What use to me was the strength of their hands, since their vigor had left them?<small><sub>**MT:**</sub></small>
+<small><sub>**MT:**</sub></small>
 [[Job.30.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.30.1|<< Job 30:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.30.3|Job 30:3 >>]]</td></tr></table>
 
 | Translation | Greek |
